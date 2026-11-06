@@ -1,0 +1,2541 @@
+{
+ "name": "Iternal",
+ "aliases": [
+  "Iternal Technologies",
+  "AirgapAI"
+ ],
+ "context": "オンプレAI（エアギャップLLM）・AI Partner Program（A1のYomi＝町工場の問い合わせ対応AIの担ぎ候補）",
+ "researched_at": "2026-11-06T02:59:59.718493+00:00",
+ "official_url": "https://iternal.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "株主構成": [
+   {
+    "quote": "that traps enterprises between ambitious vision and stalled rollout, backed by 3,000+ consultations and $150K+ of consulting value compressed into a board-ready plan. Our services span",
+    "url": "https://iternal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians and operators get real-time, policy-grounded assistance at the line or in the field, backed by local inference for reliability.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Take ownership of meaningful projects and grow your career as we scale.",
+    "url": "https://iternal.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Compare AirgapAI vs. cloud AI total cost of ownership for privileged matters.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Every framework in this book is backed by industry research. Explore the sources that inform the strategies.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "How to Budget for AI: Token Costs, Hidden Fees, and Total Cost of Ownership",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI budgeting requires looking beyond the per-token price list. Total cost of ownership includes several categories that are frequently underestimated in initial projections. Token spend is only one line in a complete AI budget — for the full enterprise picture spanning software, infrastructure, data, talent, consulting, training, and governance, see the",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Senior advisory that closes the gap between AI vision and stalled rollout, delivering strategy, execution, and accountability rather than tool recommendations; backed by 3,000+ consultations.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Teams move from enthusiasm to pilot without clear ownership, architecture, cost model, adoption plan, or success criteria.",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Ownership, approvals, influence, adoption needs, and accountability map.",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Nebulous: a patented prioritization engine designed to align business value and outcomes, ensuring decisions are backed by data, improving resource allocation by as much as 230%.",
+    "url": "https://www.ftei.com/news/future-tech-announces-strategic-global-partnership-with-iternal-technologies/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Iternal Technologies was founded in 2018 by John Byron Hanby IV on a simple conviction: enterprise AI was failing the organizations that needed it most — locked into expensive cloud subscriptions, forced to send sensitive data off-premises, and delivering answers too inaccurate to trust. Iternal set out to fix all three. It built patented data-intelligence technology (now",
+    "url": "https://iternal.ai/",
+    "pass": 1
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Partner & Revenue Enablement",
+    "url": "https://iternal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner and revenue enablement — PRISM delivers account intelligence while IdeaFORGE automates spec sheets and proposals, so partner teams move from data to deliverable in minutes.",
+    "url": "https://iternal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "On-device AI runs the model on the machine in front of you instead of a remote server. On an Intel Core Ultra AI PC the NPU carries the sustained work, including small language models, speech-to-text, translation and embeddings, while the integrated GPU takes larger models and long prompts and the CPU handles retrieval and orchestration.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "An AI PC is only as useful as the software that targets the NPU. Four workloads carry most of the day-to-day value, and all four run with the network cable unplugged.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "to assemble case briefs 4.6 hours faster than before. Officers carry laptops that run",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "tears down language barriers in real time, even without a network.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": ", proposal support, sales and marketing resources, partner training",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "20–30 hours of unbillable presales qualification, often spread across a team of people",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "of unbillable presales qualification it replaces, often spread across a team of people",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Teams with an active AI sales motion",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Authorized is the low-cost way to start. Iternal earns when your clients move forward: from the monthly plans, from AirgapAI and AI Blueprint sales you make, and from work Iternal does as your subcontractor.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sales library and price lists",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sales videos, case studies, and SKUs and prices for every route to market, opened after you pass the knowledge check.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "$50K Iternal revenue + 1 case study",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The playbook for building an AI practice: finding opportunities, packaging services and growing recurring revenue. Authorized partners get the full PDF.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": ", proposal support after your client's Deep Dive, sales and marketing resources, and partner training. It covers everyone on your company email domain for 12 months.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Earn a tier with Iternal revenue (net revenue Iternal receives where you are partner of record) plus public, customer-approved case studies with a measured result from a live deployment, both in the same calendar year.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Frequent sales (often $15-20)",
+    "url": "https://iternal.ai/ai-training-for-legal-teams",
+    "pass": 1
+   },
+   {
+    "quote": "One department at a time, built on that team’s own documents, systems, and terminology — finance, legal, HR, marketing, sales, operations, project management, or customer success. Every scenario in the session is a task that team already does.",
+    "url": "https://iternal.ai/ai-team-training",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue of the largest organizations trained",
+    "url": "https://iternal.ai/ai-team-training",
+    "pass": 1
+   },
+   {
+    "quote": "The catalog spans 900+ role-specific courses, with dedicated tracks for finance, legal, HR, marketing, sales, operations, project management, and customer success. Each track drills the scenarios that role faces every week, so someone in finance is not sitting through a marketing course.",
+    "url": "https://iternal.ai/ai-team-training",
+    "pass": 1
+   },
+   {
+    "quote": "AI Sales Enablement Guide",
+    "url": "https://iternal.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Open roles across engineering, services & sales",
+    "url": "https://iternal.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "AI Sales Enablement Guide",
+    "url": "https://iternal.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Intake is where a matter becomes data: a conflicts search, a scope, a fee arrangement, and a file. AI helps at the reading end — summarising what a prospective client sent, extracting parties and entities for the conflicts search, and drafting the engagement letter from the firm's template.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "What Iternal supplies is the part that reads privileged material. A prospective client's documents arrive before an engagement letter is signed, which is the least appropriate moment to route them through an outside service; an on-premise model can read them without that happening.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Turns raw time entries into client-ready narratives in the firm’s billing voice.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "We've also sent it to your inbox — if it doesn't arrive in a minute, use the download button.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Document review and summarisation, then drafting from precedent, then matter knowledge retrieval. All three are volume problems inside material the firm already holds, so none of them needs an integration with an outside system. Billing narratives and intake follow. The",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "The complete framework for technology resellers, VARs, and solution providers to capture the AI opportunity and generate millions in new revenue.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Written by an AI company CEO with seven years of frontline experience enabling channel partners. These are the exact strategies that have already generated 300%+ growth in AI PC sales.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "vTECH io, Chief Revenue Officer",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "\"After four decades building billion-dollar channel organizations, this book delivers exactly what VARs need: a proven, executable framework for turning AI from a buzzword into a high-margin revenue engine.\"",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "CEO | Board Member | CRO | Sales Community Leader",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "While up to 95% of enterprise AI investments fail to deliver expected results, a select group of technology partners are quietly generating millions in new revenue. Here's how you join them.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Not all AI vendors are created equal. Learn the comprehensive framework for identifying AI ISV partners who genuinely support channel sales rather than competing against you.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring revenue streams that compound",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Sales videos, buyer personas, and enablement for 25+ industries",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Bundle AI with hardware sales",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Add recurring revenue streams",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "2-3x revenue multiplier",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Is this for technical or sales people?",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Both. It covers the strategic business case and sales methodologies for sales leaders, as well as technology evaluation frameworks for solution architects. The bundling economics and implementation guidance serve both audiences.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Free chapter from the AI Partner Blueprint that helped partners generate $5M+ in AI revenue",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "AI Sales Enablement Guide",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "Global IT Services Sales",
+    "url": "https://iternal.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A Fortune 500 IT services company with 100,000+ employees cut sales routine task time by 55% with AirgapAI.",
+    "url": "https://iternal.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The reason is not technology. It is three barriers that compound against each other, creating a cycle of failed pilots and stalled deployments.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Partners and enterprises who build AI practices now will dominate the next decade of technology sales. The window for competitive differentiation is closing.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Three compounding barriers: cost (per-seat cloud AI limits coverage), security (cloud AI sends sensitive data off-premises, blocking most high-value use cases), and accuracy (messy data makes AI hallucinate). Iternal solves all three with local deployment, perpetual/subscription licensing options, and Blockify’s up-to-78X accuracy.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founded over seven years ago, the company has built a comprehensive platform of AI products, education, and consulting that addresses the three biggest barriers to enterprise AI adoption: security, cost, and accuracy.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "iternal.ai • sales@iternal.ai • 888-996-4099",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Training a whole marketing team, and the sales and success teams beside it, on one license",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Segmentation, test readouts and performance narratives, worked on live campaign data. This is the session marketing analysts ask for when a general data course misses the marketing context.",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "that also collaborate with sales, product, and other departments. Best enterprise value.",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing only - narrow scope",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Frequent sales (often $15-20)",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Train marketing + sales + customer success together. 912+ courses cover entire organizations.",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "AI Training for Sales Teams",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Best AI Training for Sales Teams (2026) — Close More with AI",
+    "url": "https://iternal.ai/ai-training-for-sales-teams",
+    "pass": 1
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "The complete framework for leading AI transformation. 95% of enterprise AI investments fail to deliver returns — this 450-page framework shows exactly how the 5% succeed, from governance and ROI to deployment and scale. Based on real engagements including Dell Technologies, Fortune 50 pharma, and U.S. defense agencies.",
+    "url": "https://iternal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "95% of enterprise AI investments fail.",
+    "url": "https://iternal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Calculate the return on investment for AirgapAI deployment in your organization.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "MIT NANDA found that 95% of organizations are getting zero return on their generative AI investment.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Directional ROI, NPV and payback for the top use cases, so the client sees what is worth funding.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/ai-training-for-legal-teams",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/ai-team-training",
+    "pass": 1
+   },
+   {
+    "quote": "Of AI investments fail",
+    "url": "https://iternal.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "IP valuation calculator",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Time saved on intellectual property and intangible-asset valuation work.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "While up to 95% of enterprise AI investments fail to deliver expected results, a select group of technology partners are quietly generating millions in new revenue. Here's how you join them.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Before you commit to any AI partnership, you need a rigorous evaluation process. This free chapter reveals the complete due diligence framework used by top-performing channel partners.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "\"Screening asks what the vendor claims; due diligence confirms whether those claims withstand examination. A partner that appears promising during initial conversations may harbor financial instability, technology debt, or channel conflict that only rigorous evaluation reveals.\"",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Complete due diligence checklist for AI vendor evaluation",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Reference call frameworks and evaluation criteria",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Both. It covers the strategic business case and sales methodologies for sales leaders, as well as technology evaluation frameworks for solution architects. The bundling economics and implementation guidance serve both audiences.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Written in December 2025, the book addresses fundamental principles of AI partnership that endure regardless of specific technology changes. The frameworks for partner evaluation, due diligence, and go-to-market execution are designed to remain relevant as the market evolves.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Complete due diligence checklist for AI vendor evaluation",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "Reference call frameworks and evaluation criteria",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "\"Screening asks what the vendor claims; due diligence confirms whether those claims withstand examination. A partner that appears promising during initial conversations may harbor financial instability, technology debt, or channel conflict that only rigorous evaluation reveals.\"",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "Of AI investments fail",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "As noted above, o-series and extended thinking models consume 3-5x the visible output in reasoning tokens. A $100K budget for o3 might actually cover $33K worth of visible output.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "95% of Enterprise AI Investments Fail",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "A free AI strategy and roadmap generator that produces a board-ready AI blueprint (ROI model, architecture, governance, phased roadmap) in about an hour, and the entry point to Iternal consulting. It is also the routed evaluation path for Blockify and Turnkey AI engagements.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Why do 95% of enterprise AI investments fail?",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "While most AI companies sell either cloud subscriptions or consulting services, Iternal delivers both — plus the data intelligence, training, and partner enablement that turns AI investments into measurable business outcomes.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "“The $199 was the best career investment I've ever made. Period.”",
+    "url": "https://iternal.ai/ai-academy",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/ai-academy",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing teams report 40-60% time savings on content creation, 25% improvement in campaign performance, and 50% faster analysis after AI training. The $199 investment typically pays back within the first month.",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Sales teams report 40% time savings on admin tasks (more selling time), 30% improvement in email effectiveness, and 25% faster deal cycles. The $199 investment typically generates positive ROI within 2-3 weeks.",
+    "url": "https://iternal.ai/ai-training-for-sales-teams",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/ai-training-for-sales-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Iternal AI Academy includes 35+ courses for finance professionals covering financial analysis, reporting, forecasting, compliance documentation, and investor communications.",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Finance teams use AI for financial analysis summaries, report generation, forecasting narratives, compliance documentation, investor communications, and data analysis.",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/ai-training-for-hr-teams",
+    "pass": 1
+   },
+   {
+    "quote": "It is designed for teams that need to decide which AI initiatives should move forward, what controls are required, and what must be true before pilot or production investment.",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "AI Initiative Evaluation",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "For CFO, business sponsor, value, funding, and outcome decisions",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Prepares initiatives for funding, pilot, or production commitment with consistent decision inputs.",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "No. It gives teams a consistent way to prepare initiatives for enterprise governance by clarifying value, feasibility, risk, economics, and readiness before funding, pilot, or production commitment.",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. General Use Case Exploration identifies and ranks AI opportunities before focus is selected. Detailed AI Blueprint validates a known initiative for approval, governance, funding, and execution.",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Free AI roadmap generators produce visual timelines and templates. The AI Blueprint Builder validates each initiative across business value, technical feasibility, governance, economics, and stakeholder readiness — producing decision-ready deliverables for funding and execution. See Iternal's",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Of AI investments fail",
+    "url": "https://iternal.ai/case-studies/us-military",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/case-studies/us-military",
+    "pass": 1
+   },
+   {
+    "quote": "Of AI investments fail",
+    "url": "https://iternal.ai/case-studies/big-four-consulting",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/case-studies/big-four-consulting",
+    "pass": 1
+   },
+   {
+    "quote": "95% of AI investments fail. Get the chapter that puts you in the",
+    "url": "https://iternal.ai/case-studies/fortune-200-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluation of Blockify",
+    "url": "https://iternal.ai/case-studies/medical-accuracy",
+    "pass": 1
+   },
+   {
+    "quote": "Of AI investments fail",
+    "url": "https://iternal.ai/case-studies/medical-accuracy",
+    "pass": 1
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Trusted by enterprise AI leaders",
+    "url": "https://iternal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "systems — one platform, from edge to core. It is trusted by Fortune 500 enterprises, government contractors, and defense organizations, and reaches the market through 100+ partners and 30,000+ sellers alongside partners like Intel, Dell, NVIDIA, HPE, Accenture, and Deloitte.",
+    "url": "https://iternal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. AirgapAI's optional local RAG lets you ground responses in your own documents, indexes, and embeddings—all stored locally. When paired with Blockify, customers see significant gains in retrieval precision and answer quality, with results that are easier to govern and audit.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program is a partner program for companies that sell and deliver technology or consulting services to businesses. Iternal supplies the method, the AI Blueprint Builder, training and proposal support. Your team runs AI strategy sessions with clients and sells the services, software and hardware those plans call for. Iternal earns when your clients move forward.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Clients ask about AI and you have no AI offer yet",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Companies that want an AI strategy only for themselves and do not serve clients. Our partners deliver that.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Authorized is the low-cost way to start. Iternal earns when your clients move forward: from the monthly plans, from AirgapAI and AI Blueprint sales you make, and from work Iternal does as your subcontractor.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "What partners and their clients say",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“I am about to go ballistic on this blueprint. I am proactively inviting my customers to do it now.”",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A press-release template, the right to say “{Your company} is an Iternal Authorized Partner,” and an AI strategy giveaway page for your customers.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "$50K Iternal revenue + 1 case study",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "$100K + 1 case study",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program is open to companies that sell technology or consulting services to other businesses: managed service providers, value-added resellers, systems integrators, and IT and business-transformation consultants. Enrollment is open. At checkout you confirm that your company serves clients, and one plan covers everyone on your company email domain.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Will Iternal sell direct to my clients or go around me?",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI Blueprints run in Iternal's secure cloud. Each client's consultation is kept separate, and security documentation is in the partner portal. Private deployment is available for enterprise clients.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program is for firms that sell and deliver services to clients. The affiliate program pays commissions to publishers and creators who refer customers to Iternal products.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Accept the partner terms, which include a mutual NDA, and confirm your company serves clients.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Refer customers instead of selling services?",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted AI from edge to core. Iternal delivers sovereign, enterprise-grade AI software, strategic advisory, and education — from 100% local AirgapAI on the device to Blockify data intelligence and AI orchestration in the datacenter. Built on technology designed for U.S. intelligence agencies and trusted by Fortune 50 enterprises.",
+    "url": "https://iternal.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Design and implement AI solutions for enterprise clients, ensuring successful deployments.",
+    "url": "https://iternal.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted AI from edge to core. Iternal delivers sovereign, enterprise-grade AI software, strategic advisory, and education — from 100% local AirgapAI on the device to Blockify data intelligence and AI orchestration in the datacenter. Built on technology designed for U.S. intelligence agencies and trusted by Fortune 50 enterprises.",
+    "url": "https://iternal.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Before you commit to any AI partnership, you need a rigorous evaluation process. This free chapter reveals the complete due diligence framework used by top-performing channel partners.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "The bundling approach transforms AI adoption from a separate purchase decision into an embedded capability. Customers receive AI functionality with the hardware they were already buying.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Accuracy Case Study",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "US Military: AirgapAI Implementation Case Study",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive case study on US Military deployment of AirgapAI for secure, on-premise AI capabilities....",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "Top 3 Oil & Gas Company: AirgapAI Case Study",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "Top 3 Pharmaceutical: Turnkey AI & AirgapAI Case Study",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted AI from edge to core. Iternal delivers sovereign, enterprise-grade AI software, strategic advisory, and education — from 100% local AirgapAI on the device to Blockify data intelligence and AI orchestration in the datacenter. Built on technology designed for U.S. intelligence agencies and trusted by Fortune 50 enterprises.",
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "pass": 1
+   },
+   {
+    "quote": "Deep dives into how our customers achieve transformational results",
+    "url": "https://iternal.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by professionals worldwide",
+    "url": "https://iternal.ai/ai-academy",
+    "pass": 1
+   },
+   {
+    "quote": "finance back-office invoice processing case study",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Built from 3,000+ strategy consultations · Frameworks behind the #1 best-selling AI Strategy Blueprint · Trusted by Fortune 500, federal, and defense leaders",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "US Military AI Case Study: 78X Accuracy, 100% Offline",
+    "url": "https://iternal.ai/case-studies/us-military",
+    "pass": 1
+   },
+   {
+    "quote": "Download the Full US Military Case Study",
+    "url": "https://iternal.ai/case-studies/us-military",
+    "pass": 1
+   },
+   {
+    "quote": "Your case study is ready!",
+    "url": "https://iternal.ai/case-studies/us-military",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted AI from edge to core. Iternal delivers sovereign, enterprise-grade AI software, strategic advisory, and education — from 100% local AirgapAI on the device to Blockify data intelligence and AI orchestration in the datacenter. Built on technology designed for U.S. intelligence agencies and trusted by Fortune 50 enterprises.",
+    "url": "https://iternal.ai/case-studies/us-military",
+    "pass": 1
+   },
+   {
+    "quote": "Big Four Consulting AI Case Study: Blockify Sales Enablement",
+    "url": "https://iternal.ai/case-studies/big-four-consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Download the Full Big 4 Consulting Case Study",
+    "url": "https://iternal.ai/case-studies/big-four-consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Your case study is ready!",
+    "url": "https://iternal.ai/case-studies/big-four-consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted AI from edge to core. Iternal delivers sovereign, enterprise-grade AI software, strategic advisory, and education — from 100% local AirgapAI on the device to Blockify data intelligence and AI orchestration in the datacenter. Built on technology designed for U.S. intelligence agencies and trusted by Fortune 50 enterprises.",
+    "url": "https://iternal.ai/case-studies/big-four-consulting",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 200 Manufacturing AI Case Study: 62,500 Hours Saved",
+    "url": "https://iternal.ai/case-studies/fortune-200-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Download the Full Manufacturing Case Study",
+    "url": "https://iternal.ai/case-studies/fortune-200-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Your case study is ready!",
+    "url": "https://iternal.ai/case-studies/fortune-200-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Medical AI Accuracy Case Study: Blockify vs Chunking, 261%",
+    "url": "https://iternal.ai/case-studies/medical-accuracy",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted AI from edge to core. Iternal delivers sovereign, enterprise-grade AI software, strategic advisory, and education — from 100% local AirgapAI on the device to Blockify data intelligence and AI orchestration in the datacenter. Built on technology designed for U.S. intelligence agencies and trusted by Fortune 50 enterprises.",
+    "url": "https://iternal.ai/case-studies/medical-accuracy",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical AI Case Study: Contract Review in 20 Seconds",
+    "url": "https://iternal.ai/case-studies/top-3-pharmaceutical",
+    "pass": 1
+   },
+   {
+    "quote": "Download the Full Pharmaceutical Case Study",
+    "url": "https://iternal.ai/case-studies/top-3-pharmaceutical",
+    "pass": 1
+   },
+   {
+    "quote": "Your case study is ready!",
+    "url": "https://iternal.ai/case-studies/top-3-pharmaceutical",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted AI from edge to core. Iternal delivers sovereign, enterprise-grade AI software, strategic advisory, and education — from 100% local AirgapAI on the device to Blockify data intelligence and AI orchestration in the datacenter. Built on technology designed for U.S. intelligence agencies and trusted by Fortune 50 enterprises.",
+    "url": "https://iternal.ai/case-studies/top-3-pharmaceutical",
+    "pass": 1
+   },
+   {
+    "quote": "An attorney or a paralegal, on all five. The work stays with the person carrying the matter rather than moving to a data team, so whatever runs these jobs has to survive being used by someone whose day is already full. That is why having nobody in-house to stand it up binds harder here than the technology does.",
+    "url": "https://iternal.ai/use-cases/legal-services-and-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Top 3 Oil & Gas AI Case Study | Iternal",
+    "url": "https://iternal.ai/resources/download/oil-gas-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Your case study is ready! Check your email for the download link.",
+    "url": "https://iternal.ai/resources/download/oil-gas-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "US Military: AirgapAI Implementation Case Study",
+    "url": "https://iternal.ai/resources/download/oil-gas-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive case study on US Military deployment of AirgapAI for secure, on-premise AI capabilities....",
+    "url": "https://iternal.ai/resources/download/oil-gas-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Top 3 Pharmaceutical: Turnkey AI & AirgapAI Case Study",
+    "url": "https://iternal.ai/resources/download/oil-gas-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted AI from edge to core. Iternal delivers sovereign, enterprise-grade AI software, strategic advisory, and education — from 100% local AirgapAI on the device to Blockify data intelligence and AI orchestration in the datacenter. Built on technology designed for U.S. intelligence agencies and trusted by Fortune 50 enterprises.",
+    "url": "https://iternal.ai/resources/download/oil-gas-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Iternal’s Turnkey AI platform will also be used by FTEI internally to accelerate FTEI’s response capabilities for RFPs, RFIs, and other proposal documents using Turnkey AI Waypoint.",
+    "url": "https://www.ftei.com/news/future-tech-announces-strategic-global-partnership-with-iternal-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "FTEI will offer the following Turnkey AI solutions to their customers and make it easy for them to rapidly deploy production AI use cases with fast time to value in weeks instead of spending years on amorphous AI science projects.",
+    "url": "https://www.ftei.com/news/future-tech-announces-strategic-global-partnership-with-iternal-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyper-personalization: to engage customers in a one-to-one manner across all media formats including audio and video in more than 300 unique language locales",
+    "url": "https://www.ftei.com/news/future-tech-announces-strategic-global-partnership-with-iternal-technologies/",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "OpenAI API compatible",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Every API call and data sync introduces another path for interception or leakage. Air-gapped and low-connectivity environments don't tolerate those risks.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "On-device AI runs the model on the machine in front of you instead of a remote server. On an Intel Core Ultra AI PC the NPU carries the sustained work, including small language models, speech-to-text, translation and embeddings, while the integrated GPU takes larger models and long prompts and the CPU handles retrieval and orchestration.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Retrieval over local documents (embeddings and vector search)",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Embedding is short and repetitive, which suits the NPU; the CPU keeps the local index and the file access path.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Think of AirgapAI Edge as your on-prem, OpenAI-compatible AI service that you can drop into any store, branch, classroom, or factory. It runs a curated stack of open-source models 100% locally on Intel NPU-enabled Windows or Linux edge devices. If you've already built against the OpenAI API in the cloud, you can switch to AirgapAI Edge with no code changes.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "OpenAI-compatible API.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Delivered as a lightweight software package for OEMs, systems integrators, and enterprises.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Edge for headless API endpoints",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. AirgapAI's optional local RAG lets you ground responses in your own documents, indexes, and embeddings—all stored locally. When paired with Blockify, customers see significant gains in retrieval precision and answer quality, with results that are easier to govern and audit.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "One full AI Blueprint Journey: Exploration, Rapid ROI and a Deep Dive with 12 deliverables, editable in Word. Run it with a client you want to win, or on your own company. Start it right after you pay at build.iternal.ai, with the same login as your partner portal.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Test Drive is one full AI Blueprint Journey included with Authorized: General Use Case Exploration, Rapid ROI and a Deep Dive with 12 executive deliverables. Run it with a client you want to win, or on your own company. Start it right after you pay at build.iternal.ai, with the same login as your partner portal. You get one Test Drive per company.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Run the first two stages of your Test Drive, Exploration and Rapid ROI. If Authorized is not right for you, email partners@iternal.ai within 30 days of purchase, any time before your Deep Dive starts, and we will refund your $250 in full.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "An AI Blueprint Journey is the three-stage process partners run with a client. General Use Case Exploration asks about 20 adaptive questions and ranks 3 to 10 AI use cases. Rapid ROI estimates ROI, NPV and payback for the top use cases. The Deep Dive asks about 100 expert questions on one use case and produces 12 executive deliverables.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No enterprise bulk licensing",
+    "url": "https://iternal.ai/ai-training-for-legal-teams",
+    "pass": 1
+   },
+   {
+    "quote": "search reflex, no amount of enterprise AI licensing turns into real productivity.",
+    "url": "https://iternal.ai/ai-team-training",
+    "pass": 1
+   },
+   {
+    "quote": "Volume & enterprise licensing",
+    "url": "https://iternal.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Harvey and Spellbook are strong products with deep legal training data and large user bases, and a firm able to place client material with a cloud provider should evaluate them. AirgapAI addresses the firm that cannot: air-gapped deployment, no third-party access, perpetual licensing. The wider field is compared on the",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "The bundling approach transforms AI adoption from a separate purchase decision into an embedded capability. Customers receive AI functionality with the hardware they were already buying.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "ITERNAL TECHNOLOGIES TOOLKIT",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "AirgapAI OEM Partner Portal",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Blockify OEM Partner Portal",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "AI Token Cost 2026: LLM API Pricing Calculator Per 1M Tokens",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "LLM API Pricing Calculator for Enterprise Deployment in 2026",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Paste text to estimate its token count, convert words to tokens, and preview the cost per thousand API calls.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Prices sourced via OpenRouter API and official provider documentation. Last refreshed:",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Every major AI provider, including OpenAI, Anthropic, Google, xAI, Mistral, and others, charges for API usage based on the number of tokens processed. The pricing is split into two distinct categories:",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "LLM API prices dropped approximately 80% between early 2025 and early 2026. GPT-4o input pricing fell from $5.00 to $2.50 per million tokens, and newer models like o4 Mini offer input at just $0.55/MTok. The cost of deploying AI at enterprise scale has never been lower.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Complete Guide to AI API Pricing in 2026",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "The AI pricing landscape in 2026 is defined by intense competition, rapidly falling costs, and an expanding menu of models optimized for different use cases. Understanding the full picture requires looking beyond headline token prices to the ecosystem of pricing mechanisms each provider offers.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "positions Claude models as the quality leader. Claude Sonnet 4 at $3.00/$15.00 competes directly with GPT-4o on capability while offering up to 200K token context windows. Their batch API cuts costs by 50%, and their prompt caching reads are priced at just 10% of base input cost.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "$0.00005 to $0.075. A thousand tokens costs a twenty-thousandth of a cent on the cheapest hosted open-weight model, a hundredth of a cent on a budget API, and about seven cents on frontier output.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Best LLM API by Price Band in 2026",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Model choice is easier when you start from the budget rather than the leaderboard. The four bands below group every major API by input price per million tokens, name the model that gives the most capability inside that band, and describe the workload it fits. Prices are input/output per million tokens.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Best LLM API in the band",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "when the choice is metered API spend against a one-time on-device licence.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "3. Batch API Processing",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "All major providers offer batch APIs that process requests asynchronously at a 50% discount. Any workload that does not require real-time responses, such as content generation, data classification, report summarization, or email drafting, should be routed through the batch API. This is free money for any non-interactive use case.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "This is the calculator above: users multiplied by queries per day, multiplied by tokens per query, multiplied by working days, multiplied by per-token price. This represents the baseline API spend. For most enterprises, this ranges from $5,000 to $500,000 per year depending on scale and model choice.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "What is the batch API and when should enterprises use it?",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "How should enterprises budget for AI API costs?",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "How often do LLM API prices change?",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you are evaluating providers, building a business case, or optimizing existing AI spend, our team of enterprise AI consultants can help you navigate the rapidly evolving pricing landscape.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Perpetual licensing. 100% workforce coverage.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Three compounding barriers: cost (per-seat cloud AI limits coverage), security (cloud AI sends sensitive data off-premises, blocking most high-value use cases), and accuracy (messy data makes AI hallucinate). Iternal solves all three with local deployment, perpetual/subscription licensing options, and Blockify’s up-to-78X accuracy.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware OEMs (Dell, Intel, HPE, NVIDIA, Lenovo, ASUS, AMD), 12+ Global System Integrators (Accenture, Deloitte, Kyndryl, DXC, Unisys, Atos, TCS, NTT), and distribution partners (TD Synnex, Verizon Business, D&H) — 100+ partners reaching 30,000+ sellers.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The most extensive partner ecosystem in enterprise AI: hardware OEMs (Dell, Intel, HPE, Lenovo, ASUS, NVIDIA, AMD), 12+ Global System Integrators (Accenture, Kyndryl, DXC, Unisys, Atos, Deloitte), distribution partners (TD Synnex, Verizon Business, D&H), and 100+ VARs and MSPs reaching 30,000+ sellers worldwide.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you are a Fortune 500 enterprise, a global system integrator, a hardware OEM, or a regional VAR — Iternal has a path forward for your organization.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "AI is already reshaping day-to-day work in nearly every profession. The gap isn't between humans and machines —",
+    "url": "https://iternal.ai/ai-academy",
+    "pass": 1
+   },
+   {
+    "quote": "Volume licensing for 30+ seats",
+    "url": "https://iternal.ai/ai-academy/plans",
+    "pass": 1
+   },
+   {
+    "quote": "No enterprise bulk licensing",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "No enterprise bulk licensing",
+    "url": "https://iternal.ai/ai-training-for-sales-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Sizing the case before the rollout is the same exercise finance runs on any capital request: the",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "models the savings and productivity gain a secure rollout would return and produces a business case in the format a CFO already reads. For the wider regulated picture across banking, insurance and capital markets, see the",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "No enterprise bulk licensing",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "to structure source documents so analysis stays accurate. For the deployment side of the same work across banking, insurance, and capital markets, see",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "No enterprise bulk licensing",
+    "url": "https://iternal.ai/ai-training-for-hr-teams",
+    "pass": 1
+   },
+   {
+    "quote": "If this stays blank, the embedded site blocks framing.",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "AI is rapidly becoming a strategic asset for the US military. To stay ahead of potential threats",
+    "url": "https://iternal.ai/case-studies/us-military",
+    "pass": 1
+   },
+   {
+    "quote": "Rapidly process and distill large datasets with accuracy",
+    "url": "https://iternal.ai/case-studies/us-military",
+    "pass": 1
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "AirgapAI Chat gives knowledge workers, analysts, and field personnel a superpower: secure, offline, context-aware AI that they can trust. It runs almost any open-source small LLM, including fine-tuned variants, directly on an Intel Core Ultra AI PC, leveraging the Intel NPU through OpenVINO for acceleration.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "AirgapAI supports a broad set of open-source small LLMs, including fine-tuned variants. You can choose models that fit your latency, memory, and accuracy needs. With OpenVINO, those models are compiled to run efficiently on the Intel NPU inside Intel Core Ultra systems.",
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "pass": 1
+   },
+   {
+    "quote": "AI Partner Program for MSPs, VARs & IT Consultants | Iternal",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "For MSPs, VARs, systems integrators and IT consultants",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program helps IT services firms start and grow an AI practice. Partners use the AI Blueprint Builder to run an AI strategy session with a client and produce 12 executive deliverables in a few hours, then sell the work that follows. Every partner starts as an Authorized Partner for $250 a year.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "What is the Iternal AI Partner Program?",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program is a partner program for companies that sell and deliver technology or consulting services to businesses. Iternal supplies the method, the AI Blueprint Builder, training and proposal support. Your team runs AI strategy sessions with clients and sells the services, software and hardware those plans call for. Iternal earns when your clients move forward.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "MSPs, VARs, systems integrators, and IT and business-transformation consultants",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Buy Authorized in the partner portal by card, or through your distributor",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program is for companies that sell technology or consulting services to other businesses. Team size does not matter: one fee covers everyone on your company email domain.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "MSPs and VARs new to AI",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "VARs, MSPs and systems integrators growing an AI practice",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "In the Iternal AI Partner Program, partners run the AI Blueprint Journey with each client. It has three stages, and each one ends in something the client can use and you can sell.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partners in the Iternal AI Partner Program earn from the work an AI Blueprint creates, and they set their own price for it.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Resell the Deep Dive as your paid AI assessment, at your price.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A 20-year reseller that supports a top-3 automaker doubted it. Three hours later he called back to say he was sorry he had doubted what it could do.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller, 20 years in the channel",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Paying by purchase order? Choose “Buy through your distributor” at checkout.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How much does the partner program cost?",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program starts at $250 a year: every partner begins with the Authorized plan. Bronze, Silver and Gold are month to month. Move up when your pipeline is ready.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Buy through your distributor",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program follows two books by Iternal founder John Byron Hanby IV.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Frequently asked questions about the Iternal AI Partner Program",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program helps IT services firms start and grow an AI practice. Partners use the AI Blueprint Builder to run an AI strategy session with a client and produce 12 executive deliverables in a few hours, then sell the services, software and hardware the plan calls for. Every partner starts as an Authorized Partner for $250 a year.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Iternal AI Partner Program is open to companies that sell technology or consulting services to other businesses: managed service providers, value-added resellers, systems integrators, and IT and business-transformation consultants. Enrollment is open. At checkout you confirm that your company serves clients, and one plan covers everyone on your company email domain.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Joining the Iternal AI Partner Program costs $250 a year: the Authorized plan covers your whole company and includes one full Test Drive. Bronze ($2,500 a month), Silver ($5,000 a month) and Gold ($10,000 a month) add more AI Blueprint Journeys, PRISM accounts, AI Academy seats and live training, month to month. Platinum and custom plans are available through the partner team.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Quality varies by instructor",
+    "url": "https://iternal.ai/ai-training-for-legal-teams",
+    "pass": 1
+   },
+   {
+    "quote": "variables we scope against.",
+    "url": "https://iternal.ai/ai-team-training",
+    "pass": 1
+   },
+   {
+    "quote": "Build and manage relationships with channel partners, driving mutual growth and success.",
+    "url": "https://iternal.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "AI Partner Blueprint — Amazon #1 Bestseller for Resellers",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "The complete framework for technology resellers, VARs, and solution providers to capture the AI opportunity and generate millions in new revenue.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Written by an AI company CEO with seven years of frontline experience enabling channel partners. These are the exact strategies that have already generated 300%+ growth in AI PC sales.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "\"After four decades building billion-dollar channel organizations, this book delivers exactly what VARs need: a proven, executable framework for turning AI from a buzzword into a high-margin revenue engine.\"",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Define program goals, choose between resell-only and services-plus-resell models, and allocate resources effectively.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Before you commit to any AI partnership, you need a rigorous evaluation process. This free chapter reveals the complete due diligence framework used by top-performing channel partners.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Harvard: AI Reskilling",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "VAR-ISV Collaboration",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Value-Added Resellers",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "Integration is your core competency. AI creates new integration opportunities that pure software resellers cannot access.",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "This book is designed for Value-Added Resellers (VARs), systems integrators, solution providers, MSPs, and technology partners who want to build a successful AI practice. It's written specifically for",
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "pass": 1
+   },
+   {
+    "quote": "In 2026, one million tokens costs anywhere from under $1 for efficient models (DeepSeek, Gemini Flash, and GPT mini classes) to $15-$75 for frontier-model output tokens. Input tokens are typically 4-5x cheaper than output tokens. Because pricing varies more than 100x across models, enter your real input/output split in the calculator above to see the actual monthly cost for each model.",
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "pass": 1
+   },
+   {
+    "quote": "Resell, implement, and build complete AI practices powered by the Iternal platform with white-glove enablement.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Resell • Implement • Build",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The most extensive partner ecosystem in enterprise AI: hardware OEMs (Dell, Intel, HPE, Lenovo, ASUS, NVIDIA, AMD), 12+ Global System Integrators (Accenture, Kyndryl, DXC, Unisys, Atos, Deloitte), distribution partners (TD Synnex, Verizon Business, D&H), and 100+ VARs and MSPs reaching 30,000+ sellers worldwide.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you are a Fortune 500 enterprise, a global system integrator, a hardware OEM, or a regional VAR — Iternal has a path forward for your organization.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Content, subject lines, briefs and ad variants all come down to how well a marketer prompts. Google AI Essentials and the prompt-focused options cover the mechanics; the deeper craft, including structured and multi-step prompting, is compared on the",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Quality varies by instructor",
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Quality varies by instructor",
+    "url": "https://iternal.ai/ai-training-for-sales-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Analysis summaries, variance explanations, trend narratives - 50% faster insights.",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Quality varies by instructor",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "variance analysis and management commentary",
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Quality varies by instructor",
+    "url": "https://iternal.ai/ai-training-for-hr-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Iternal AI Partner Program",
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "pass": 1
+   },
+   {
+    "quote": "‘The Definitive Playbook for IT VARs",
+    "url": "https://imagedelivery.net/4ic4Oh0fhOCfuAqojsx6lg/cover-halo2/public",
+    "pass": 2
+   },
+   {
+    "quote": "Both FTEI and Iternal have deep partnerships with Dell Technologies, with FTEI being a Global Titanium Reseller Partner and named Dell Federal Partner of the Year in 2023, and Iternal being one of Dell’s leading AI Independent Software Vendor (ISV) partners.",
+    "url": "https://www.ftei.com/news/future-tech-announces-strategic-global-partnership-with-iternal-technologies/",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Buy Authorized in the partner portal by card, or through your distributor",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Paying by purchase order? Choose “Buy through your distributor” at checkout.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Buy through your distributor",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Do I need to sell Dell or buy through a distributor?",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No Dell relationship is required. Pay by card, or choose “Buy through your distributor” at checkout to use a purchase order. Your price list covers every route to market.",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pay $250 by card, or choose “Buy through your distributor.”",
+    "url": "https://iternal.ai/partners",
+    "pass": 1
+   }
+  ],
+  "存続": [
+   {
+    "quote": "The AI Academy runs every learner through the same closed loop until the behavior sticks.",
+    "url": "https://iternal.ai/ai-team-training",
+    "pass": 1
+   },
+   {
+    "quote": "AI legal research grounds answers in the documents a firm already holds: pleadings, transcripts, prior memos, and closed matters. It does not replace Westlaw or Lexis for published authority. On-premise research keeps privileged material and litigation strategy inside the firm while the model reads the case file.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Blockify turns precedent, closed matters, and clause libraries into structured blocks the model retrieves from, so a brief is assembled out of what the firm has actually argued.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Answers \"have we done this before\" across closed matters and prior memos.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "An AI legal assistant is a model that works inside the firm's own material — the matter file, the precedent base, the closed-matter archive — under attorney supervision. The deployment question comes before the feature question: an assistant that routes privileged text to an outside service has changed who holds the client's confidences.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "An on-premise assistant answers the first two by construction. Nothing is disclosed outside the firm, so there is no third party retaining prompts and no disclosure to consent to. The third duty stays human: supervision is an attorney's obligation, supported here by an audit trail that lives on firm hardware alongside the documents.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Keep the index inside the firm. A knowledge base built from privileged matters is itself privileged material, so both the distillation and the retrieval have to run on firm hardware. Blockify structures precedent and closed matters into canonical blocks and AirgapAI serves them locally, with access controls mirroring the ethical walls the firm already maintains.",
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "talent acquisition and content",
+    "url": "https://iternal.ai/ai-training-for-hr-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers & Acquisitions Due Diligence:",
+    "url": "https://iternal.ai/case-studies/fortune-200-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Rapidly parse newly acquired company contracts",
+    "url": "https://iternal.ai/case-studies/fortune-200-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Merger and acquisition contract harmonization",
+    "url": "https://iternal.ai/case-studies/top-3-pharmaceutical",
+    "pass": 1
+   },
+   {
+    "quote": "use it has closed. None of our manual-work pages owns this job; the closest thing",
+    "url": "https://iternal.ai/use-cases/legal-services-and-law-firms",
+    "pass": 1
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "A firearms manufacturer deployed white-labeled AirgapAI assistants for 1,300+ law enforcement agencies with chain-of-custody protection.",
+    "url": "https://iternal.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Resell, implement, and build complete AI practices powered by the Iternal platform with white-glove enablement.",
+    "url": "https://iternal.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Waypoint: a patented RFX rapid response platform that can answer customer questions 17X faster with 40X greater accuracy, powered by Blockify",
+    "url": "https://www.ftei.com/news/future-tech-announces-strategic-global-partnership-with-iternal-technologies/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The Iternal Origin Story — Why We Built Secure, Local AI — The Iternal Origin Story — Why We Built Secure, Local AI Iternal AI https://iternal.ai > origin-story",
+    "url": "https://iternal.ai/origin-story",
+    "pass": 3
+   },
+   {
+    "quote": "ITernal Group | LinkedIn — ITernal Group | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/iternal-group",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal Technologies - Crunchbase Company Profile & Funding — Iternal Technologies - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > iternal...",
+    "url": "https://www.crunchbase.com/organization/iternal-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal — Enterprise AI Consulting, Executive AI Training & AI ... — Iternal — Enterprise AI Consulting, Executive AI Training & AI ... Iternal AI https://iternal.ai",
+    "url": "https://iternal.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Partner Program for MSPs, VARs & IT Consultants | Iternal — AI Partner Program for MSPs, VARs & IT Consultants | Iternal Iternal AI https://iternal.ai > partners",
+    "url": "https://iternal.ai/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Press Release: Iternal Technologies brings Turnkey AI to the ... — Press Release: Iternal Technologies brings Turnkey AI to the ... Vcinity https://vcinity.io > News > Press Release",
+    "url": "https://vcinity.io/news/blog-iternal-technologies-brings-turnkey-ai-to-the-startup-market-to-drive-growth-for-vcinity/",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal Technologies - Headcount, Funding & Open Jobs ... — Iternal Technologies - Headcount, Funding & Open Jobs ... Crustdata https://crustdata.com > company > ite...",
+    "url": "https://crustdata.com/profiles/company/iternal-technologies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Iternal Technologies | LinkedIn Iternal Technologies | LinkedIn LinkedIn https://www.linkedin.com > iternaltech",
+    "url": "https://www.linkedin.com/company/iternaltech",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal | LinkedIn Iternal | LinkedIn LinkedIn https://uk.linkedin.com > iternal-official",
+    "url": "https://uk.linkedin.com/company/iternal-official",
+    "pass": 3
+   },
+   {
+    "quote": "John Byron Hanby, IV - Iternal Technologies, Inc. - LinkedIn John Byron Hanby, IV - Iternal Technologies, Inc. - LinkedIn LinkedIn https://www.linkedin.com > johnbyro...",
+    "url": "https://www.linkedin.com/in/johnbyronhanby",
+    "pass": 3
+   },
+   {
+    "quote": "ITernal Group | LinkedIn ITernal Group | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/iternal-group",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Iternal (@ iternal .official) - Facebook Iternal (@ iternal .official) - Facebook Facebook https://www.facebook.com > ... > Brand > App page",
+    "url": "https://www.facebook.com/iternal.official/",
+    "pass": 3
+   },
+   {
+    "quote": "Iternal - Facebook Iternal - Facebook Facebook https://www.facebook.com > posts > iternal",
+    "url": "https://www.facebook.com/elma.ronquillo/posts/iternal/29125983640367490/",
+    "pass": 3
+   },
+   {
+    "quote": "Riddim Tuffa + El Fata + Iternal Hi-Power + Irie Night // Wicked ... Riddim Tuffa + El Fata + Iternal Hi-Power + Irie Night // Wicked ... Facebook https://www.facebook.com > events > lampérage > riddim...",
+    "url": "https://www.facebook.com/events/lamp%C3%A9rage/riddim-tuffa-el-fata-iternal-hi-power-irie-night-wicked-and-wild-20/951213744946672/",
+    "pass": 3
+   },
+   {
+    "quote": "Mgd events at iternal garden biggs shocktober 2026 - Facebook Mgd events at iternal garden biggs shocktober 2026 - Facebook Facebook https://www.facebook.com > janmichael.libranda > posts",
+    "url": "https://www.facebook.com/janmichael.libranda/posts/mgd-events-at-iternal-garden-biggs-shocktober-2026biggsshocktober2026-directsupp/28784486131244081/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://iternal.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/airgapai-intel-partnership-for-edge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-training-for-legal-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-team-training",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-for-law-firms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-partner-blueprint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/resources/download/ai-partner-blueprint-ch5-due-diligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/llm-pricing-calculator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-academy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-academy/plans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-academy/teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-training-for-marketing-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-training-for-sales-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-training-for-finance-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-training-for-hr-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/ai-blueprint-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/case-studies/us-military",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/case-studies/big-four-consulting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/case-studies/fortune-200-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/case-studies/medical-accuracy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/case-studies/top-3-pharmaceutical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/use-cases/legal-services-and-law-firms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/resources/download/oil-gas-case-study",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://imagedelivery.net/4ic4Oh0fhOCfuAqojsx6lg/cover-halo2/public",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://imagedelivery.net/4ic4Oh0fhOCfuAqojsx6lg/woman1/public",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://imagedelivery.net/4ic4Oh0fhOCfuAqojsx6lg/inside2/public",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://imagedelivery.net/4ic4Oh0fhOCfuAqojsx6lg/ai-partner-blueprint-cover/public",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://imagedelivery.net/4ic4Oh0fhOCfuAqojsx6lg/home-viz-academy-instrument-rack/public",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/preferential/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokiomarinehd.com/company/governance/dialogue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-fca.jp/post-832/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fintel.io/so/us/ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hklaw.com/-/media/files/insights/publications/2021/12/checkpoints-the-consequences-of-crossing-various-ownership-thresholds.pdf?la=it",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405844024090017",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tikr.com/blog/who-owns-arista-networks-top-shareholders-and-recent-insider-trades",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/iternal-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/iternal-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uscis.gov/sites/default/files/document/lesson-plans/Well_Founded_Fear_LP_RAIO.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.irs.gov/newsroom/know-the-difference-between-a-hobby-and-a-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legal-resources.uslegalforms.com/i/industrial-and-commercial-profits-internal-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fiscaldata.treasury.gov/americas-finance-guide/government-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.irs.gov/pub/irs-news/fs-08-23.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://investors.hrblock.com/static-files/f9ad0593-a01e-4671-ab69-2f340d41c310",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.digitalrealty.com/static-files/4bac803d-f2a7-400a-b4db-1e8804a60414",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://s206.q4cdn.com/979796730/files/doc_financials/2025/ar/2025-Annual-Report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://research.iastate.edu/for-researchers/finding-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investopedia.com/ask/answers/03/062003.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.research.umn.edu/A/Intramural/internal_funding.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://research.uc.edu/news/2025/08/26/internal-funding-fall-2025-offerings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/googleplay/android-developer/answer/9845334?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19022134/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75427",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eternaltattoosupply.com/products/white-1?srsltid=AYCX9vK8OFP3qtyKurtRAGvNQS9vSy9qEZPXNGopB8KZDtQYDjkcvm6L",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Eternal_White",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open.spotify.com/intl-ja/album/0pgch8UoKF7ofIMnOlxPYH",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/TattooBeginners/comments/1e1ml1s/can_anyone_tell_me_the_difference_between_eternal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.shadow.inc/resources/how-to-announce-a-rebrand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wearecontinuous.net/post/how-to-launch-an-internal-rebrand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=7jhoOPEu3fA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.columnfivemedia.com/how-to-rollout-rebrand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.salesforce.com/docs/platform/isvforce/guide/oem-user-license-comparison.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autobound.ai/blog/oem-data-licensing-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-able.com/resources/reseller-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ftei.com/news/future-tech-announces-strategic-global-partnership-with-iternal-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journeybee.io/resources/top-100-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eternal.com:443/investor-relations/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gao.gov/products/gao-26-107977",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theiia.org/en/about-us/leadership/annual-reports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accartbooks.com/us/book/eternal-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lannoopublishers.com/travel-maps/eternal-japan-9782390253518",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/eternal_japanofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.simonandschuster.com/books/Eternal-Japan/Nicolas-Wauters/9782390253518",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/iternal-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/crunchbase",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://profiles.crustdata.com/company/iternal-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/iternaltech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/iternal-official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/johnbyronhanby",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/iternal-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/iternal.official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/elma.ronquillo/posts/iternal/29125983640367490/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/events/lamp%C3%A9rage/riddim-tuffa-el-fata-iternal-hi-power-irie-night-wicked-and-wild-20/951213744946672/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/janmichael.libranda/posts/mgd-events-at-iternal-garden-biggs-shocktober-2026biggsshocktober2026-directsupp/28784486131244081/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Iternal 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://eternal-hospitality.co.jp/ir/preferential/",
+    "https://www.tokiomarinehd.com/company/governance/dialogue/",
+    "https://e-fca.jp/post-832/",
+    "https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations",
+    "https://eternal-hospitality.co.jp/ir/stock/",
+    "https://www.hitachi.com/ja-jp/ir/corporate/governance/internal-control/",
+    "https://www.kyoritsugroup.co.jp/ir/stock/basic-information/",
+    "https://global.yamaha-motor.com/jp/ir/governance/internal-control/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251003/20251002567498.pdf",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "Iternal shareholders ownership investors parent company",
+   "results": [
+    "https://fintel.io/so/us/ai",
+    "https://www.hklaw.com/-/media/files/insights/publications/2021/12/checkpoints-the-consequences-of-crossing-various-ownership-thresholds.pdf?la=it",
+    "https://www.sciencedirect.com/science/article/pii/S2405844024090017",
+    "https://www.tikr.com/blog/who-owns-arista-networks-top-shareholders-and-recent-insider-trades",
+    "https://investors.mistrasgroup.com/stock-information/ownership-profile",
+    "https://www.nass.org/sites/default/files/2023-07/issue-paper-CT-Corp-NASS-summer23.pdf",
+    "https://yalelawjournal.org/article/the-separation-of-funds-and-managers-a-theory-of-investment-fund-structure-and-regulation",
+    "https://www.generali.com/investors/share-information-analysts/ownership-structure",
+    "https://abc.xyz/investor/founders-letters/ipo-letter/default.aspx"
+   ]
+  },
+  {
+   "query": "Iternal 設立 OR 創業 OR founded",
+   "results": [
+    "https://iternal.ai/origin-story",
+    "https://www.linkedin.com/company/iternal-group",
+    "https://www.crunchbase.com/organization/iternal-technologies",
+    "https://www.uscis.gov/sites/default/files/document/lesson-plans/Well_Founded_Fear_LP_RAIO.pdf",
+    "https://www.irs.gov/irs-history-timeline",
+    "https://www.rand.org/news/press/2019/03/26.html",
+    "https://www.euaa.europa.eu/easo-practical-guide-qualification-international-protection/well-founded-fear-0",
+    "https://www.britannica.com/topic/Internal-Macedonian-Revolutionary-Organization",
+    "https://www.law.cornell.edu/cfr/text/8/1208.13",
+    "https://www.founded.com/"
+   ]
+  },
+  {
+   "query": "Iternal revenue profitable",
+   "results": [
+    "https://www.irs.gov/newsroom/know-the-difference-between-a-hobby-and-a-business",
+    "https://legal-resources.uslegalforms.com/i/industrial-and-commercial-profits-internal-revenue",
+    "https://fiscaldata.treasury.gov/americas-finance-guide/government-revenue/",
+    "https://www.irs.gov/pub/irs-news/fs-08-23.pdf",
+    "https://www.law.cornell.edu/cfr/text/26/1.312-6",
+    "https://www.provisionaccountingsolutions.com/how-to-plan-for-profit-setting-revenue-goals-that-drive-real-results",
+    "https://irstax.net/blog/why-profitable-businesses-still-run-out-of-cash-and-what-cfos-watch-instead",
+    "https://www.uschamber.com/co/run/finance/profit-vs-revenue-differences",
+    "https://www.youtube.com/watch?v=KwRmljBIlXc",
+    "https://www.investopedia.com/ask/answers/122214/what-difference-between-revenue-and-profit.asp"
+   ]
+  },
+  {
+   "query": "Iternal EBITDA net income annual report",
+   "results": [
+    "https://investors.hrblock.com/static-files/f9ad0593-a01e-4671-ab69-2f340d41c310",
+    "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "https://investor.digitalrealty.com/static-files/4bac803d-f2a7-400a-b4db-1e8804a60414",
+    "https://s206.q4cdn.com/979796730/files/doc_financials/2025/ar/2025-Annual-Report.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm",
+    "https://www.realtyincome.com/sites/realty-income/files/realty-income/investors/quartely-and-annual-result/2025-annual-report.pdf",
+    "https://www.intc.com/filings-reports/annual-reports/content/0000050863-25-000009/0000050863-25-000009.pdf",
+    "https://www.accenture.com/content/dam/accenture/final/accenture-com/document-4/Annual-Report-2025.pdf",
+    "https://www.ibm.com/investor/services/annual-report",
+    "https://corporatefinanceinstitute.com/resources/accounting/ebitda-vs-net-income/"
+   ]
+  },
+  {
+   "query": "Iternal funding raised",
+   "results": [
+    "https://research.iastate.edu/for-researchers/finding-funding/",
+    "https://www.investopedia.com/ask/answers/03/062003.asp",
+    "https://apps.research.umn.edu/A/Intramural/internal_funding.aspx",
+    "https://research.uc.edu/news/2025/08/26/internal-funding-fall-2025-offerings",
+    "https://researchadmin.hms.harvard.edu/award-lifecycle/finding-funding/internal-funding-opportunities",
+    "https://research.virginia.edu/initiatives/internal-funding",
+    "https://research.uci.edu/internal-funding/",
+    "https://www.research.pitt.edu/research-dev/find-funding/internal-funding-opportunities",
+    "https://research.uic.edu/research-development-2/finding-funding/internal-funding/",
+    "https://en.wikipedia.org/wiki/Internal_financing"
+   ]
+  },
+  {
+   "query": "Iternal acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://support.google.com/googleplay/android-developer/answer/9845334?hl=en",
+    "https://pubmed.ncbi.nlm.nih.gov/19022134/",
+    "https://iternal.ai/",
+    "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75427",
+    "https://blog.alpla.com/en/blog/sustainability-social-engagement/waste-back-production-internal-closed-loop-solution-alpla",
+    "https://www.ia-insolv.com/interpathadvisory-insolvency-portal.html",
+    "https://google.play/business/internal-testing/",
+    "https://www.linkedin.com/posts/appvector_app-testing-requirements-explained-internal-activity-7472767758527586304-sXu2",
+    "https://www.facebook.com/startup.pedia7/posts/deepinder-goyal-has-teased-darkai-a-new-project-from-eternal-raising-questions-a/1605746944899795/",
+    "https://www.sciencedirect.com/science/article/pii/S2666188822000077"
+   ]
+  },
+  {
+   "query": "Iternal white label",
+   "results": [
+    "https://www.eternaltattoosupply.com/products/white-1?srsltid=AYCX9vK8OFP3qtyKurtRAGvNQS9vSy9qEZPXNGopB8KZDtQYDjkcvm6L",
+    "https://en.wikipedia.org/wiki/Eternal_White",
+    "https://open.spotify.com/album/0pgch8UoKF7ofIMnOlxPYH",
+    "https://www.reddit.com/r/TattooBeginners/comments/1e1ml1s/can_anyone_tell_me_the_difference_between_eternal/",
+    "https://www.instagram.com/p/BoPPksJHcjx/",
+    "https://www.tatsoul.com/products/eternal-ink-white",
+    "https://www.eternaltattooink.com/",
+    "https://worldwidetattoo.com/products/whites-eternal-ink",
+    "https://www.youtube.com/watch?v=790kjg9Y0og",
+    "https://en.wikipedia.org/wiki/White-label_product"
+   ]
+  },
+  {
+   "query": "Iternal rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://www.shadow.inc/resources/how-to-announce-a-rebrand",
+    "https://www.wearecontinuous.net/news/how-to-launch-an-internal-rebrand",
+    "https://www.youtube.com/watch?v=7jhoOPEu3fA",
+    "https://www.columnfivemedia.com/how-to-rollout-rebrand/",
+    "https://hwlworks.com/private-label-internal-agency/",
+    "https://www.contentcamel.io/rebranding-how-to-streamline-the-internal-rollout-process/",
+    "https://www.researchgate.net/publication/337603643_Branding_higher_education_an_exploration_of_the_role_of_internal_branding_on_middle_management_in_a_university_rebrand",
+    "https://medium.com/@meetmorg/a-guide-to-the-inevitable-and-painful-process-of-rebranding-your-company-81baf003cff5"
+   ]
+  },
+  {
+   "query": "Iternal OEM SDK licensing partners",
+   "results": [
+    "https://iternal.ai/partners",
+    "https://developer.salesforce.com/docs/platform/isvforce/guide/oem-user-license-comparison.html",
+    "https://www.domo.com/learn/article/how-oem-bi-can-give-saas-companies-a-competitive-edge",
+    "https://www.autobound.ai/blog/oem-data-licensing-guide",
+    "https://vcinity.io/news/blog-iternal-technologies-brings-turnkey-ai-to-the-startup-market-to-drive-growth-for-vcinity/",
+    "https://cpl.thalesgroup.com/software-monetization/sdk-licensing",
+    "https://www.linkedin.com/company/iternaltech",
+    "https://c3.ai/news/c3-ai-launches-oem-program",
+    "https://www.opentext.com/products/oem-marketplace",
+    "https://iternal.ai/"
+   ]
+  },
+  {
+   "query": "Iternal reseller partner program",
+   "results": [
+    "https://iternal.ai/partners",
+    "https://www.n-able.com/resources/reseller-partner-program",
+    "https://www.ftei.com/news/future-tech-announces-strategic-global-partnership-with-iternal-technologies/",
+    "https://journeybee.io/resources/top-100-reseller-programs",
+    "https://xamplify.com/partner-programs/",
+    "https://stellarcyber.ai/partners/become-a-channel-partner/",
+    "https://www.here.com/get-started/partner-with-here",
+    "https://www.youtube.com/watch?v=p1e4C7Y635M&vl=es-US",
+    "https://www.hypeinnovation.com/blog/exploring-different-partner-programs-ecosystem",
+    "https://www.intel.com/content/www/us/en/partner-alliance/overview.html"
+   ]
+  },
+  {
+   "query": "Iternal Jahresabschluss OR financial statements",
+   "results": [
+    "https://eternal.com/investor-relations/results",
+    "https://www.gao.gov/products/gao-26-107977",
+    "https://www.theiia.org/en/about-us/leadership/annual-reports/",
+    "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201",
+    "https://b.zmtcdn.com/investor-relations/Eternal_Annual_Report_2024-25.pdf",
+    "https://corporatefinanceinstitute.com/resources/accounting/internal-vs-external-financial-reporting/",
+    "https://www.netsuite.com/portal/resource/articles/accounting/financial-reporting.shtml",
+    "https://web.uri.edu/controller/financial-statements/",
+    "https://www.bertelsmann.com/en/investor-relations/financial-publications/financial-reports/",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "Iternal Japan",
+   "results": [
+    "https://www.accartbooks.com/us/book/eternal-japan/",
+    "https://www.lannoopublishers.com/en/eternal-japan",
+    "https://www.instagram.com/eternal_japanofficial/",
+    "https://www.simonandschuster.com/books/Eternal-Japan/Nicolas-Wauters/9782390253518",
+    "https://www.amazon.com/Eternal-Japan-Nicolas-Wauters/dp/2390253512",
+    "https://www.reddit.com/r/rawdenim/comments/1xt0s7/brand_spotlight_eternal/",
+    "https://en.wikipedia.org/wiki/The_Eternal_Zero_(film)",
+    "https://rodeo-japan-pine-avenue.com/collections/eternal?srsltid=AYCX9vKH0zBpt-sRcYsseAh_k4UhFHXEnLlK05YRdpcswcYz9WSs_WOy",
+    "https://en.wikipedia.org/wiki/Japan",
+    "https://en.wikipedia.org/wiki/Empire_of_Japan"
+   ]
+  },
+  {
+   "query": "Iternal employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/organization/iternal-technologies",
+    "https://www.crunchbase.com/",
+    "https://www.crunchbase.com/organization/crunchbase",
+    "https://crustdata.com/profiles/company/iternal-technologies",
+    "https://dealroom.co/news/160133-microsoft-slashes-internal-claude-spending-by-a-third-as-meta-halves-sta/",
+    "https://www.linkedin.com/company/iternaltech",
+    "https://www.zoominfo.com/c/crunchbase/347668538",
+    "https://apps.irs.gov/app/eos/",
+    "https://www.crunchbase.com/organization/dealroom-co",
+    "https://dealroom.co/our-data/"
+   ]
+  },
+  {
+   "query": "site:note.com Iternal",
+   "results": [
+    "https://note.com/betaitohuman/n/nd5607c5000e0",
+    "https://note.com/ai_scout_jp/n/nf58c6adc3f55",
+    "https://note.com/brisk_arnica3014/n/n56c3d99311d9",
+    "https://note.com/betaitohuman/n/nd5607c5000e0?hl=ko",
+    "https://note.com/fmakino_zemi/n/n7fa00a9f283a",
+    "https://note.com/leah05/m/m7fab25c3d5c3/hashtag/%E6%9C%80%E8%BF%91%E3%81%AE%E5%AD%A6%E3%81%B3",
+    "https://note.com/shrneougjh/n/n22985d040c58",
+    "https://note.com/fmakino_zemi/n/n7fa00a9f283a?hl=ko",
+    "https://note.com/mike_012024/n/nefade37ad58f?hl=en",
+    "https://biz.note.com/n/n726058efd717?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com Iternal",
+   "results": [
+    "https://x.com/AstroSharmistha/status/1894664671342596341",
+    "https://x.com/johnbyronhanby",
+    "https://x.com/OSPSF/status/2070954161051767156",
+    "https://x.com/yafavefootynerd/status/2115542728788598955",
+    "https://x.com/cryptonomik",
+    "https://x.com/SolankiggG",
+    "https://x.com/JonKrohnLearns",
+    "https://x.com/ShaykhSulaiman/status/1682791737314484225",
+    "https://x.com/SadateMunyakazi/status/2094779258400829736",
+    "https://x.com/RetreosHedeghog"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Iternal",
+   "results": [
+    "https://www.linkedin.com/company/iternaltech",
+    "https://uk.linkedin.com/company/iternal-official",
+    "https://www.linkedin.com/in/johnbyronhanby",
+    "https://www.linkedin.com/company/iternal-group",
+    "https://www.linkedin.com/company/iternal-networks-llc",
+    "https://www.linkedin.com/in/john-b-hanby-12757a6",
+    "https://www.linkedin.com/in/mkanet",
+    "https://www.linkedin.com/in/don-drury-cembb-2001a18",
+    "https://uk.linkedin.com/in/paul-wiseall",
+    "https://www.linkedin.com/company/iternal-official"
+   ]
+  },
+  {
+   "query": "site:facebook.com Iternal",
+   "results": [
+    "https://www.facebook.com/iternal.official/",
+    "https://www.facebook.com/elma.ronquillo/posts/iternal/29125983640367490/",
+    "https://www.facebook.com/events/lamp%C3%A9rage/riddim-tuffa-el-fata-iternal-hi-power-irie-night-wicked-and-wild-20/951213744946672/",
+    "https://www.facebook.com/janmichael.libranda/posts/mgd-events-at-iternal-garden-biggs-shocktober-2026biggsshocktober2026-directsupp/28784486131244081/",
+    "https://www.facebook.com/EternalHospitalJaipur/videos/eternal-hospital-tavi-dr-prem-ratan-degawat/766671212938599/",
+    "https://www.facebook.com/robjessie.maceda/posts/rest-in-iternal-peace-kuya-aning-mtr-ramos-%EF%B8%8F/30298879636379049/",
+    "https://www.facebook.com/100064954563050/posts/%F0%9D%97%9C%F0%9D%97%A1-%F0%9D%97%A3%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%A6-%F0%9D%97%A8%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A6-%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%99%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%AC-%F0%9D%97%94%F0%9D%97%97%F0%9D%97%A9%F0%9D%97%A2%F0%9D%97%96%F0%9D%97%94%F0%9D%97%96%F0%9D%97%AC-%F0%9D%97%96%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%A1on-november-2-2026-at-about-822-am-kapal/1550251357150002/",
+    "https://www.facebook.com/rupa.carreon.quilaton/posts/1st-day-iternal-garden-mmoag-catechist-kaabag/4518225121753689/",
+    "https://www.facebook.com/joy.com.25/posts/rest-in-iternal-peace-lilong-pricing-no-more-pain-and-sufferingtarabayem-ken-ika/2100258677281390/",
+    "https://www.facebook.com/iternalnetworks/"
+   ]
+  },
+  {
+   "query": "Iternal note 社長",
+   "results": [
+    "https://diamond.jp/articles/-/388572",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://x.com/sadaaki",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "Iternal X 投稿",
+   "results": [
+    "https://www.reddit.com/r/PokemonROMhacks/comments/1u2grmq/pokemon_eternal_x_and_pokemon_wilting_y_custom/?tl=ja",
+    "https://www.pokecommunity.com/threads/pok%C3%A9mon-eternal-x-wilting-y-version-2-67-released.362505/",
+    "https://www.youtube.com/playlist?list=PL1ZDw4JGx-E4aapfzpN1m6dBAL3mNc8oS",
+    "https://simplici7y.com/items/eternal-x/",
+    "https://x.com/_eternal",
+    "https://www.scribd.com/document/523489934/Pokemon-Changes",
+    "https://www.facebook.com/groups/PokepostingDiscussion/posts/1364434621151682/",
+    "https://x.com/GuyIternal",
+    "https://x.com/iternal_",
+    "https://iternal.ai/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）",
+  "設立": "記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）",
+  "代表者": "記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）"
+ }
+}

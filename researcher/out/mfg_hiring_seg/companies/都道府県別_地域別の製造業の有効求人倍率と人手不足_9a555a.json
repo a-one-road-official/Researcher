@@ -1,0 +1,2640 @@
+{
+ "name": "都道府県別・地域別の製造業の有効求人倍率と人手不足",
+ "en": "manufacturing job openings to applicants ratio by prefecture",
+ "aliases": [
+  "有効求人倍率 製造 都道府県",
+  "人手不足 製造業 地方",
+  "生産工程 有効求人倍率",
+  "有効求人倍率",
+  "人手不足"
+ ],
+ "context": "地方・製造業",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:49:38.532008+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "ミスマッチの程度は、労働者側の失業と企業側の欠員がどの程度併存しているかで知ることができる（ＵＶ分析）（",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "景気循環において景気が良くなると企業は雇用を拡大する一方、労働者は順次雇用されていくため、欠員率と失業率は右下がりの関係になる",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ミスマッチの度合いが高く、失業と欠員がより多く併存している場合、その関係は右上方向にシフトしていく",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2010年から2017年までの各地域の動向を見ると、いずれの地域でも失業率の低下とともに欠員率の上昇がみられ、景気の拡大に伴い人手不足の度合いが高まっていることを示している（図の左上から右下への動き）",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第２節では、特に2010年代以降の人手不足局面に着目し、欠員率が全産業的に高まっていることや、労働力需給ギャップが産業・職業をまたいで拡大していること等、足下での人手不足の状況をまとめる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "完全失業者は、「非自発的な離職」「自発的な離職（自己都合）」「新たに求職",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「非自発的な離職」は、景気後退等による企業活動の停滞に伴う解雇なども含まれるため、完全失業率が横ばいであっても、「非自発的な離職」が完全失業者に占める割合が上昇している状況は、生産活動にあたって必要な労働力を充足できていないとは評価しがたい",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（３）により、1984年以降の完全失業者に占める非自発的な離職割合をみても、完全失業率と同じく1980年代後半～1990年代前半及び2010年代後半において低下している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代後半の非自発的な離職割合は低下しているものの高水準にとどまっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同期間は1990年代後半以降続いた雇用環境の悪化の直後であり、2008年にリーマンショックが起こると、有効求人倍率や完全失業率、非自発的な離職割合等の雇用指標は軒並み悪化しており、2000年代後半の雇用情勢の改善は短期間だったことがうかがえる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "完全失業率は、2019年は2.4％、2023年でも2.6％と、バブル期最低の2.1％に近い水準まで低下しており、失業者に占める非自発的な離職の割合も、2019年にはバブル期並みの22.8％まで低下した",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2010年代以降、欠員率は長期間上昇するが、水準はバブル期に及ばない",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "により、企業の人員の充足について、欠員率",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、欠員率の上昇幅でみても、４年間で４％ポイントほど上昇した1987～1991年に対し、2009～2019年では10年間で２％ポイント程度の上昇であり、過去の局面よりも緩やかな伸びとなっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "では、1990年と2023年の企業規模別欠員率を示しているが、全ての企業規模において、フルタイム・パートタイム労働者ともに1990年の水準を下回っており、フルタイム労働者では、小さい規模の企業において1990年の水準を大きく下回っている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業を中心に人手不足感のある企業は多いものの、欠員率をみると、現在よりもバブル期の方が厳しい人手不足の状況にあったことが分かる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率や失業率、雇用人員判断D.I.が示す人手不足感ほど、中小企業における欠員率が高まっていない背景には何があるだろうか",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち一つには、企業による定着支援策などにより、短期離職者",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "が減少し、欠員が生じにくくなった可能性があげられる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は1.81倍と完全な売り手市場となり、特に中小企業では「求人を出しても応募がない」「面接しても辞退される」といった状況が常態化しています",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "このまま対策を講じなければ、2030年には約38万人もの人材が不足し、事業の縮小や廃業を余儀なくされる企業も増加するでしょう",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況下で、何も対策を講じなければ、事業の縮小や廃業を余儀なくされる製造業者が増加する可能性があります",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、既存顧客からの追加注文や新規案件を断らざるを得ない状況が生まれます",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "経営状態が悪化すると、さらに人材確保が困難になり、最悪の場合、事業の縮小や廃業を余儀なくされます",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、後継者不足と人材難を理由に廃業する中小製造業も増加しており、地域経済への影響も深刻化しています",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "風通しの良い職場づくりが実現し、離職防止につながります",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "求人を出しても応募がない、面接まで進んでも辞退されるといった状況が常態化しており、",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、新人や若手が十分なスキルを身につける前に離職してしまい、人材が定着しないといった悪循環に陥ります",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の業務負担が増加し、離職が増加する",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "離職や休職が増加し、さらに人手不足が深刻化するといった悪循環に陥ります",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "また、現場や管理業務に十分なリソースを割けなくなることで、市場ニーズの把握や在庫管理が不十分となり、機会損失が生じます",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "最終的には、生産ラインの縮小や事業の一部撤退を余儀なくされるケースもあり、状況次第では倒産リスクが高まる可能性もあるでしょう",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の業務を担える人材を育成すれば、欠員が出た場合でも柔軟な人員配置が可能",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "人材の成長実感は、モチベーション向上や離職防止にもつながります",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "適切な対策を進めると、離職率の改善だけでなく、現場の安定稼働や生産性向上にもつながります",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：受注辞退・失注による機会損失（表面化しにくいが最も大きい）",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "最も優秀な人材に欠員のしわ寄せを集中させるのは、短期的には合理的に見えて、中期的には最悪の一手です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "賃金が下がったのに責任が同じでは、モチベーション低下と再離職を招きます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の離職には明確なパターンがあり、対策も定石化できます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "若手の離職は「仕事がきついから」より「成長が見えないから」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "離職データを分析すると、製造現場の早期離職は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "関連記事：離職要因の分析手法と定着施策の詳細は【内部リンク：子",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業の離職率改善・定着率向上」】、スキルマップを起点とした育成は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "欠員時のバックアップ、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の残業時間が増加し、休暇取得が難しくなることで健康被害や離職率の上昇が起きている",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "労働環境の悪化により、離職者が増加する",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "リモートワークの導入により、社員の満足度が向上し、離職率が大幅に低下した企業もある",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "また、非正規雇用の離職者については、世帯の主たる稼ぎ手ではなく、生活面への影響が限定的である場合もあろうが、一部には、感染症前は、非正規雇用で家計を支えていた方が、生活面で厳しい状況に置かれている場合もあるとみられ、そうした状況にある人々への支援が必要であると考えられる",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html",
+    "pass": 3
+   },
+   {
+    "quote": "前者は、業種によっては人手不足のた めせっかくの 需要増加に対応できず 、機会損失 を招いている こと を 示",
+    "url": "https://www.myri.co.jp/viewpdf.php?id=f6ff2da0cc5f7094a3ceecdd7d2a95a14fd26fd8fd2124bfb57ccc29c4cda54ff6a629f981537fc5ac8ab4d3752183eb4a9327c3bc3235a8eb7087769691e84ae4ea34a097496ac5f6c0bedc7729c3fd49d365dcfb7477e4b629c47a96ccf618a3a47af09f5b23dbe79de8c77e729bf510906ddaf37f6064058f1db1481b5892741fb72079a7a6762b1a0d6da69b30f61fd363def86ea71b35fa6a84127562cd2d26fd4a71defd787f4f3d06c4b5464b9506cb442ed9f2a9f57b9339cc80&tmp=1714115637",
+    "pass": 3
+   },
+   {
+    "quote": "鈍いことから、欠員と失業が併存する不均衡が続いて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倒産や廃業等により 2017 年には 188,249 事業所と",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "め、 「同業他社の廃業が増えている」 （27.6%） 、 「製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「同業他社の廃業が増えている」と回答した企業は、",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社会保険料」 、鉄鋼業で「同業他社の廃業」 、 「市場規",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   }
+  ],
+  "セグメント定義": [
+   {
+    "quote": "これを2001年から2007年までの景気回復局面における地域別完全失業率の変化と比較すると（",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別及び職業別（生産工程の職業、専門的・技術的職業等11分類",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは、各区分（地域別／職業別）について、求職者総数に占める当該区分の求職者数割合（𝑈",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "まず2017年における職業間ミスマッチ指標の水準を地域別に比較してみると（",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別職業間ミスマッチの時間を通じた変化を見ると（",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別にみると、北海道、北関東、北陸、中国、沖縄といった地域で全国より上昇率が大きくなっている一方で、甲信越、近畿、四国といった地域で伸び悩みがみられる",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別女性就業者数の変化率を分解してみると（",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別にみると、南関東地域が圧倒的に多く、約60万人となっており、また近年の増加率も極めて高いことがわかる（",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "外国人労働者数の全就業者数に占める比率を地域別にみると、東海、南関東が約2.9％と最も高く、次いで北関東（約2.3%）が続いている（",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "脚注2 有効求人数については地域別の計数が公表されていないため、ここでは新規求人数を用いた",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "では、1990年と2023年の企業規模別欠員率を示しているが、全ての企業規模において、フルタイム・パートタイム労働者ともに1990年の水準を下回っており、フルタイム労働者では、小さい規模の企業において1990年の水準を大きく下回っている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "では1990年と比較して、フルタイム労働者では全ての企業規模において、パートタイム労働者では1,000人以上規模の企業以外の全てで低下しており",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "、例えば黒田・山本（2013）は、こうした考え方に立って、ワーク・ライフ・バランス施策と賃金の関係に着目し、フレックスタイム制度を利用している男性従業員では、最大で９％程度の負の賃金プレミアムが検出されることを指摘している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、同図（２）により、企業規模別にみると、特に５～99人規模の中小企業において、縁故採用は重要な人材確保のルートであるものの、1990～2022年にかけて、入職者に占める割合は25％程度まで低下している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "コラム２–４ 地域別にみた人手不足",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "により、地域別に有効求人倍率の推移をみると、1970年代には、東海で有効求人倍率が５倍にも達していたほか、関東・甲信越、近畿でも２倍を超えており、東京、名古屋、大阪といった三大都市圏の人手不足がうかがえる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）から、国勢調査における1990～2015年にかけての都道府県別の25～54歳人口の増減率をみると、東京都、神奈川県、愛知県、滋賀県、沖縄県を除いた全ての道府県において25～54歳人口は減少し、その減少度合いは、東北・四国・中国・九州において大きい",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、同図（２）により、経済環境や雇用情勢の改善がみられ始めた2013年度から、新型コロナウイルス感染症の拡大前である2019年度までの都道府県別ＧＤＰの増加率をみると、バラつきはありつつも全国的に経済規模の拡大が生じている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "により、2012年と2023年の欠員率を企業規模別・就業形態別・産業（大分類）別に確認する",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（４）の1,000人以上規模企業では「運輸業，郵便業」が、同図（５）（６）の100～999人規模企業、５～99人規模企業では、「宿泊業，飲食サービス業」が顕著に上昇しており、特に５～99人規模企業においては10％を超える等、一部の産業では欠員率が極めて高くなっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、1,000人以上、100～999人、５～99人の企業規模間における2000年以降の転職率をみたものである",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（１）から1,000人以上規模企業からの転職についてみると、同規模の企業への転職率が上昇しており、大企業間の転職は活発になっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（２）から、100～999人規模企業をみると、1,000人以上規模や100～999人規模の企業への転職率が2000年代と比べ上昇傾向にあり、前職以上に大きい規模の企業への転職が進んでいることが確認できる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、1,000人以上規模企業への転職率が上昇傾向にある",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、ハローワークにおける求人・求職及び就職のデータを用いて、都道府県別・職業（中分類）別に労働市場を定義",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "職種別で見ていくと、「機会整備・修理従事者：4.95倍」「製品製造・加工処理従事者(金属製品)：2.42倍」「生産設備制御・監視従事者(金属製品を除く)：2.29倍」といった分野での人手不足が深刻化している様子です",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、帝国データバンクの調査では、従業員数が少ない企業ほど「正社員が不足している」と回答する割合が高く、従業員数5人以下の企業では約6割近くが人手不足を訴えているという結果も出ています",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の職場では、限られた従業員で業務をカバーしなければならず、",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "長時間労働や休日出勤が常態化すると、従業員の疲労が蓄積し、心身の健康を損なうリスクが高まります",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "従業員一人一人の業務負荷についても、人手不足が原因で悪影響が及ぼされる点は見逃せません",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "言語や文化の違いへの不安もありますが、適切なサポート体制を整えることで、日本人従業員との協働も十分に可能です",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "また、作業環境の温度管理、騒音対策、安全装置の充実など、従業員が安心して働ける環境を整えることで、製造業の3Kイメージの払拭にもつながります",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "住宅手当、資格取得支援、健康診断の充実など、従業員が長く働きたいと思える福利厚生制度を整備することも重要です",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、定期的な面談や意見交換の場を設け、従業員の不満や要望を把握することで、",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "また、頑張りが正当に評価される仕組みを作ることで、従業員のモチベーション向上につながります",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "多能工を育成することで、欠勤や退職時の業務カバーが容易になるだけでなく、従業員のスキルアップとモチベーション向上にもつながり、生産ラインの柔軟な運用が可能になります",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "特に特定技能制度は中小企業の人手不足解消を目的に創設された制度であり、従業員数や資本金の要件はありません",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "実際に従業員30名〜50名規模の中小製造業でも外国人材を受け入れて成果を上げており、",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（2024年度）",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "勤務地ベースで見たいときは就業地別の値を当たる: 本記事で使ったのは受理地別で、厚生労働省は同じ統計から就業地別の都道府県別倍率も公表している",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "生産性や品質の低下による競争力の低下や従業員の負担増加、顧客満足度の低下など、企業活動に支障が生じるでしょう",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の業務負担が増加し、離職が増加する",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした状況が続くと、従業員の疲労やストレスが蓄積し、モチベーションの低下を招くでしょう",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "長時間労働の是正や業務負担の平準化、休暇を取得しやすい制度づくりは、従業員満足度の向上に有効です",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "万人以上、実に",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員や幹部の退職を直接の引き金とする「従業員退職型」も",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数十名規模の工場ほど、小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月版】工場・製造業の有効求人倍率とは？都道府県別データから見る仕事探しのポイント",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、有効求人倍率の意味や見方、都道府県別の最新データ、工場求人を探す際の活用方法までわかりやすく解説します",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別有効求人倍率の比較（全国平均：1.18倍）",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "現場従業員の高齢化が進み、若者の入職が少ない",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "90.4%の企業が「現場従業員が集まりにくい」と回答し、74.7%が「若返りが図りにくい」と感じている",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "売上や客室稼働率はコロナ前の水準まで回復したが、従業員の確保が追いついていない",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの質低下や既存従業員の負担増加が問題となり、悪い口コミや閉館リスクも高まっている",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の残業時間が増加し、休暇取得が難しくなることで健康被害や離職率の上昇が起きている",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足により、従業員の残業時間が増加する",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "労働環境が悪化すると、従業員の意欲が下がる",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率や地域・業種・職種別の平均賃金などがまとめてチェックできますのでぜひご覧ください",
+    "url": "https://fujiarte.co.jp/dlc_cont/03/",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "第1章 第1節 人手不足感の地域ごとのばらつき - 内閣府",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 第1節 人手不足感の地域ごとのばらつき",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、人手不足感の地域ごとのばらつきについて、その特徴とその背景を整理する",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "１）地域における人手不足の現状",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（輸出比率に影響を受ける製造業の人手不足感の地域差）",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域における人手不足の現状を、まず企業の人手不足感からみてみよう",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような製造業における人手不足感の差は、地域の輸出比率に大きく影響されている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後全地域ともほぼ一様に「過剰」超幅は縮小し、製造業より一足早い2012年頃から多くの地域で「不足」超となり始め、足下では全地域で強い人手不足感がみられている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（全体として高まったものの依然として地域差のある有効求人倍率）",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "次に、地域ごとの人手不足の状況を有効求人倍率でみてみよう",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "暦年で見た有効求人倍率は、2012年に北陸で1を上回ったのを皮切りに各地域とも上昇を続け、雇用環境は改善が進んでいる（",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかしその水準には依然として地域差があり、もともと他地域と比べて低い水準であった北海道や沖縄を含めたすべての地域において有効求人倍率が1を超えたのは2016年からである",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（有効求人倍率の高さの背景は地域によって異なる）",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率の水準の違いを有効求人数要因と有効求職者数要因に分けてみてみよう",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働力人口で割ることによって基準化した有効求人数、有効求職者数をそれぞれ縦軸、横軸に取ると、原点と全国平均を結んだ直線の傾きが全国平均の有効求人倍率を表し、それよりも倍率の低い地域は右下に、倍率の高い地域は左上に位置することになる（",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第Ⅱ部 第１章 人手不足の背景｜令和６年版 労働経済の分析｜厚生労働省",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年版 労働経済の分析 －人手不足への対応－（HTML版）",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１章 人手不足の背景",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、過去の人手不足局面を振り返りながら、2010年代以降続く我が国における人手不足の現状とその背景について分析する",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１節では、1970年代前半、1980年代後半～1990年代前半、2010年代以降の３期間における人手不足局面に着目し、これらの時期における人手不足の背景やその違い等について整理する",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第２節では、特に2010年代以降の人手不足局面に着目し、欠員率が全産業的に高まっていることや、労働力需給ギャップが産業・職業をまたいで拡大していること等、足下での人手不足の状況をまとめる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、2010年代以降に人手不足が生じる中で、企業規模間の労働移動が活発化していること、労働市場のマッチング効率性が低下している可能性があることを確認し、この背景として、求職者の希望する条件が変化している可能性を指摘している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、人手不足が今後の賃上げをけん引する可能性があること等、人手不足に伴う様々な変化や影響を分析している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１節 これまでの人手不足局面とその背景",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去半世紀でみると、1970年代前半、1980年代後半～1990年代前半、2010年代以降の３期間で人手不足が生じている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足」を論じるにあたり、まずその定義を示したい",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足」とは、企業の生産活動にあたって必要な労働力を充足できていない状況を指し",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "、この状況を判断するにあたっては、一般に、「有効求人倍率」や「完全失業率」が用いられる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人倍率」とは、ハローワークで受け付けた「求人数」と求職を申し込んだ「求職者数」の比率",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人倍率」は、求人の総数が求職の総数を上回っている（有効求人倍率が１を超えている）状況が人手不足の状態を表すが、ハローワークを経由したものに限られること等から、「完全失業率」も併せて確認する必要がある",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が人手不足に陥る根本的な原因は？工場で実践できる具体的な対応策を徹底解説！｜Jinzai Plus - 外国人採用のお役立ちメディア",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が人手不足に陥る根本的な原因は？工場で実践できる具体的な対応策を徹底解説！",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は1.81倍と完全な売り手市場となり、特に中小企業では「求人を出しても応募がない」「面接しても辞退される」といった状況が常態化しています",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業が人手不足に陥る根本的な原因を最新データとともに解説し、今すぐ取り組める5つの実践的な解決策をご紹介します",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足という課題を解決し、安定した生産体制を構築したい製造業の経営者様は、ぜひ最後までご覧ください",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足はどれくらい深刻なのか?最新データで見る現状",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足は、もはや一部の企業だけの問題ではありません",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月の単月をピックアップすると、全職種の有効求人倍率は1.32倍となっている一方、",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の有効求人倍率は1.81倍",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "職種別で見ていくと、「機会整備・修理従事者：4.95倍」「製品製造・加工処理従事者(金属製品)：2.42倍」「生産設備制御・監視従事者(金属製品を除く)：2.29倍」といった分野での人手不足が深刻化している様子です",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、帝国データバンクの調査では、従業員数が少ない企業ほど「正社員が不足している」と回答する割合が高く、従業員数5人以下の企業では約6割近くが人手不足を訴えているという結果も出ています",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が人手不足に陥る5つの根本原因",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足は、単なる景気変動や一時的な労働市場の問題ではありません",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "が、製造業の人手不足に直結しています",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は単に「人が足りない」というだけの問題ではありません",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率の都道府県データで拠点ごとの採用難易度を読む | Queria",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "この採用環境の地域差を測る基本指標が有効求人倍率です",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークに登録された求職者1人あたり何件の求人があるかを表し、1を超えると求人が求職者を上回る「人手不足（売り手市場）」を意味します",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "）を使い、有効求人倍率の地域差と推移を読み解きます",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "労働の指標は同じテーブルに数百種類が収録されており、ここでは有効求人倍率（",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "全国の有効求人倍率は2015年度の1.23倍から上昇し、2018年度に収録期間中の最高となる1.62倍に達しました",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（2024年度）",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の有効求人倍率を全47都道府県で比較します",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "なお、就職件数と他県への就職件数はパートタイムと新規学卒者を除く一般の値で、パートタイムを含む有効求人倍率とは対象範囲が違います",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "横軸に2024年度の有効求人倍率、縦軸に",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "点線は47都道府県の中央値（有効求人倍率1.26倍、所定内給与額326.0千円）です",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率と所定内給与額の相関係数は0.09で、両者にはほとんど関係がありません",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率・就職件数・他県への就職件数の出どころは厚生労働省の",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば「就職件数（F3105）に占める他県への就職件数（F310603）の割合を47都道府県すべてで出して、有効求人倍率（F310301）の順位と並べて比べて」といった分析ができます",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "Queria の公開データで次を分析してください: 就職件数（F3105）に占める他県への就職件数（F310603）の割合を47都道府県すべてで出して、有効求人倍率（F310301）の順位と並べて比べて",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "脚注5 日本学生支援機構「平成29年度外国人留学生在籍状況調査結果」による",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第Ⅱ部 第１章 人手不足の背景｜令和６年版 労働経済の分析｜厚生労働省",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "白書、年次報告書",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年版 労働経済の分析 －人手不足への対応－（HTML版）",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本銀行「全国企業短期経済観測調査」による企業の雇用人員判断D.I.",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "でみたように、1993～2005年まで13年にわたり有効求人倍率は１倍を割り、2002年の完全失業率は調査開始以来過去最高の5.4％を記録するなど、2000年代後半の一時期を除いて、2010年代に至るまで雇用情勢は長期にわたり厳しい状況が続いた",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）から、企業の付加価値額の推移をみると、1985年度～1995年度まで大きく増加した後、1995年度～2013年度までほぼ横ばいで推移していたが、同年度以降には、再び増加トレンドに転じている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "コラム２–１ 過去の労働経済白書を活用したテキスト・マイニング",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、様々な議論や新たなデータ、分析手法等を取り込むことで、労働経済をより詳細かつダイナミックにとらえる取組に注力するとともに、労働経済白書が1949年の「戦後労働経済の分析」から74回にわたり公表されてきた積み重ねをいかした取組も行っている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、平成30年版労働経済白書（厚生労働省 2018）において、「「労働経済の分析」の70年間の歩みについて」と題して、労働経済白書の歴史やトピックの変遷等を紹介している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、令和５年版労働経済白書（厚生労働省 2023）も、過去の白書刊行当時の賃金に対する政府や社会の認識を紹介しつつ、名目生産性と名目賃金の長期的な動向を振り返っている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "本コラムでは、過去の白書において注目したトピックを抽出し、定量的に示すことで、当時の人々の関心事となっていた労働問題への認識や労働省・厚生労働省の政策の方向性を明らかにする一助としたい",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、既にデータ化されている74回分の全ての労働経済白書を用いたテキスト・マイニング",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）により、令和５年版労働経済白書で集中して扱った「賃金」の使用回数をみると、「戦後労働経済の分析」から、ほとんどの年において100回を超えており、賃金は、過去74回にわたる労働経済白書における主要テーマであることが分かる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "1970年以降の（名目）賃金上昇率の推移と併せてみると、賃金上昇率が低下傾向で推移する中で、使用回数も減少してきたが、平成27年版労働経済白書（厚生労働省 2015）と、令和５年版労働経済白書では、賃金を集中的に扱ったため、それぞれ約400回、約700回と、この10年間で使用回数が特に多くなっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）により、本年の白書のテーマである「人手不足」についても確認しよう",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の発表によると、2024年の",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、帝国データバンクの調査では、従業員数が少ない企業ほど「正社員が不足している」と回答する割合が高く、従業員数5人以下の企業では約6割近くが人手不足を訴えているという結果も出ています",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版 ものづくり白書",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「情報通信白書 生産年齢人口の減少（令和4年）」",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年賃金構造基本統計調査 結果の概況",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の賃金構造基本統計調査によると、製造業の平均賃金は全産業平均とほぼ同水準ですが、IT・金融業界などと比べると見劣りします",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省のものづくり白書を見ると、2024年時点で製造業において",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "まずは業界水準や地域の相場を調査し、自社の賃金水準が適正かを確認しましょう",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "製造業での外国人雇用や人手不足対策について、よく寄せられる質問とその回答をまとめました",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "値はパートタイムを含む年度平均で、収録は2015年度から2024年度までの10年分です",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "全国の有効求人倍率は2015年度の1.23倍から上昇し、2018年度に収録期間中の最高となる1.62倍に達しました",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度には1.55倍とすでに下がり始めており、翌2020年度に1.10倍まで落ちます",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "回復局面に入って2022年度に1.31倍まで戻したものの、以降は1.29倍、1.25倍と緩やかに低下しています",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（2024年度）",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の有効求人倍率を全47都道府県で比較します",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の全国の値は次のとおりです",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "年度によって順位が入れ替わるなら拠点戦略には使いにくいですが、地域差が安定しているなら判断材料になります",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "4都県とも収録期間中のピークは2018年度です",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "底の年は分かれ、福井県は2020年度の1.57倍、沖縄県は2020年度の0.72倍、東京都は2021年度の1.22倍、神奈川県は2020年度と2021年度に並んだ0.80倍が最低でした",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "各年度の47都道府県の順位を2024年度の順位と突き合わせた相関は次のとおりです",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "9年前の2015年度でも0.74、直近の2023年度では0.97です",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "景気で水準は上下しますが、どの県が相対的に採用しにくいかという序列は年度をまたいで安定しています",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "横軸に2024年度の有効求人倍率、縦軸に",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "倍率は年度平均、給与は2024年6月の1か月分で、時点の取り方が異なる指標を同じ図に置いています",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の発表によると、2025年10月時点の全国平均の有効求人倍率は、1倍台で推移しています",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "「2025年版ものづくり白書 第2章 就業動向と人材確保・育成」（経済産業省）",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "「人口統計資料集（2025年版）」（国立社会保障・人口問題研究所）",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "「令和5年若年者雇用実態調査の概況」（厚生労働省）",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "「令和6年版働く女性の実情」（厚生労働省）",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "独自に調査したアンケート結果を基に、若手社員が働くうえで重視している点を紐解きながら、若手社員の育成において重要なポイントを解説します",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン技能者の高齢化や退職が進む一方で、指導を担う人材が不足しており、計画的なOJTや研修を実施できていない事業所も少なくありません",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「労働力調査」によると、製造業の就業者数は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省等「ものづくり白書」によれば、製造業の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "発生し、年度として初めて",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書の調査では、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足対策の最終回答は、人事部門ではなく「原価管理と価格戦略」の中にある",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン技能者の定年を数年後に控え、加工条件・検査の勘所を動画とデータベースに落とし込む技能継承プロジェクトを実施",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "製品別原価の算出により赤字製品を特定し、データを根拠に主要取引先との価格改定交渉を実施",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "上司との定期面談（月次〜四半期）が実施されている",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "第３次産業においては就業者数の増加の寄与が大きく、1970～1990年では、一人当たり生産性の寄与も第３次産業の方が大きい",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした第３次産業における労働分配率の低下が、厚生労働省（2023）でも指摘したように、一人当たり生産性が上昇する中にあっても、一人当たり賃金がなかなか増加していない",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "1990年と2023年の総労働時間の変化を就業者数に一人当たり労働時間を乗じた面積で表したのが、同図（２）である",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省（2023）で示したとおり、ＧＤＰから計算した一人当たり労働生産性は1996年から長期的にほぼ横ばいであるが、中間投入も含めた生産額の総額から計算すると、就業者一人当たりの生産額は1990～2015年にかけて15％ほど増加している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用時には、人材紹介手数料(30万円〜60万円)、在留資格申請費用(5万円〜15万円)、渡航費用(5万円〜15万円)、住居準備費用などがかかります",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な費用としては、日本人と同等以上の給与(月給20万円〜)、社会保険料、特定技能の場合は登録支援機関への委託費(月額2万円〜4万円)が必要です",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用として100万円程度、月々の費用として給与・保険料に加えて2万円〜4万円程度が目安となります",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークに登録された求職者1人あたり何件の求人があるかを表し、1を超えると求人が求職者を上回る「人手不足（売り手市場）」を意味します",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "図 214-４ 一人当たり平均年間総実労働時間推移の国際比較（全就業者）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 215-３ 全産業と製造業の一人当たり名目労働生産性の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性（事業従事者一人当たり付加価値、2016年）（万円） 3,306 2,110",
+    "url": "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１社当たり平均従業員数と一人当たり付加価値",
+    "url": "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※３ 実質労働生産性は、実質付加価値（100万円）／マンアワー（1000人×総実労働時間）で算出し、対数変換している",
+    "url": "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※４ IT資本装備率は、IT 資本ストック（有形固定資産含む） （100 万円、2000年価格）／従業者数（人）で算出し、対数変換している",
+    "url": "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率が高くなると求職者1人あたりの求人数も多くなるため、働き口を探す人は仕事を選びやすくなります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "なお、有効求人倍率は、求職者1人あたりに何件の求人があるかを示す指標です",
+    "url": "https://chihososei-journal.jp/feature/10853/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業はロボット化・自動化で1人あたり生産性を上げました",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の1人あたり生産性は横ばいで、人が減った分だけ生産能力が落ちています",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業（全体平均）: 約460万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "製造業: 約430万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "全産業平均: 約490万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業: 約580万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信業との差は120万円です",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の初任給（高卒）は厚労省「賃金構造基本統計調査」では概ね18〜19万円台の水準（年度・企業規模・地域で変動",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "「月30万円」と聞いて入職しても、雨が多い月は22万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "電気工事施工管理技士: 年収550-700万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "1級建築施工管理技士: 年収500-650万円",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "型枠工（熟練）: 日当3万円超（年収換算600万円以上）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "普通作業員: 日当1万5,000-2万円（年収換算300-400万円）",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "資格を持つ施工管理技士と、無資格の作業員で年収に200万円以上の差があります",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能（海外からの新規受入）: 渡航費・日本語教育・住居・管理費等を含めて年間100万円台後半〜200万円/人の幅",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（仕事を探す人1人あたりの求人数）と最低賃金を、47都道府県すべてで重ねてみます",
+    "url": "https://stats47.jp/blog/minimum-wage-1000yen-breakthrough",
+    "pass": 3
+   },
+   {
+    "quote": "ただし東京1,226円と秋田1,023円の203円差は、フルタイム月額で3万円以上の格差を意味します",
+    "url": "https://stats47.jp/blog/minimum-wage-1000yen-breakthrough",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、1人あたり2件の求人があるということを指します",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、1人あたり1件にも満たない求人しかないため、仕事を探す人が多く、求人が少ない状況です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業を中心とした「初任給30万円時代」とも言われるなか、賃上げ機運に追いつけない中小企業が増加することも予想され、今後も「人手不足倒産」のリスクには注意が必要だ",
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業では「初任給30万円時代」と言われるものの、原材料・エネルギーなど各種コスト高が押し寄せるなか、特に中小企業ではそのレベルまでの賃上げは容易ではない",
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 民間企業との共同研究による大学等の研究費受入額、および1件当たりの受入額が1,000万円以上の共同研究に係る研究費受入額ともに、着実に",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大学等の研究費受入額 図３ 特許権実施等件数及び収入額の推移図２ 民間企業との共同研究費受入額1,000万円以上の実施件数及び研究費受入額の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、全国のハローワークに登録されている求職者1人あたりに何件の求人があるかを示す指標です",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "結果的に採用コストを削減し、企業全体の生産性向上にもつながります",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "また、働き方改革や社員定着率向上を目指した組織改革も、長期的な採用コストの削減と企業成長に直結する重要な取り組みと言えます",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "厚生労働省（2023）で示したとおり、ＧＤＰから計算した一人当たり労働生産性は1996年から長期的にほぼ横ばいであるが、中間投入も含めた生産額の総額から計算すると、就業者一人当たりの生産額は1990～2015年にかけて15％ほど増加している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用時には、人材紹介手数料(30万円〜60万円)、在留資格申請費用(5万円〜15万円)、渡航費用(5万円〜15万円)、住居準備費用などがかかります",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "また、企業が支払った総額人件費（「給与総額／給料賃金」＋「福利厚生費」）の合計額に対して、従業者数の合計を除すことで、「一人あたりの人件費（※3）」を算出した",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/economies/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※3）経済センサスは、事業所に関する集計（売上<収入>金額等）および企業等に関する集計（経理事項等）については、売上（収入）金額等が不詳の事業所（企業等）を除いて集計しており、一人あたり人件費の算出に用いた「給与総額／給料賃金」および「福利厚生費」も不詳の回答を除外した数値であり、完全な合計値でない制約がある点に留意が必要",
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/economies/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 2019年と2023年を比較した売上総額の変化",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/gaiyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の毎月勤労統計が示す現金給与総額と実質賃金は、労働需給の逼迫が実際に労働者の懐に届いているかを示します",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "「有効求人倍率」とは、ハローワークで受け付けた「求人数」と求職を申し込んだ「求職者数」の比率",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人倍率」は、求人の総数が求職の総数を上回っている（有効求人倍率が１を超えている）状況が人手不足の状態を表すが、ハローワークを経由したものに限られること等から、「完全失業率」も併せて確認する必要がある",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "により、ハローワークにおける求人の充足率",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "その理由の一つとして、ハローワークに出される求人数の増加が指摘できる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "高水準のフルタイム求人の背景には、縁故等の入職経路が細くなっていったことも考えられる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）により、入職者に占める縁故の割合をみると、1990年には30％程度であったが、ほぼ一貫して低下し、2022年には20％程度となっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、同図（２）により、企業規模別にみると、特に５～99人規模の中小企業において、縁故採用は重要な人材確保のルートであるものの、1990～2022年にかけて、入職者に占める割合は25％程度まで低下している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業においては、これまでの縁故による採用に代わって、ハローワーク等の求人で補おうとした結果、2010年代以降の人手不足の局面においては、ハローワークでの求人がより大きく増加した可能性が考えられる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、ハローワークにおける求人・求職及び就職のデータを用いて、都道府県別・職業（中分類）別に労働市場を定義",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "マッチング効率性の低下はハローワークだけではなく、民間職業紹介事業所",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "と同じ方法でハローワークと有料職業紹介事業所における2018年度と2021年度の各労働市場のマッチング効率性の分布を示している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（１）はハローワークにおけるマッチング効率性であるが、分布が全体的に左にシフトしており、マッチング効率性が高い労働市場の減少と低い労働市場の増加が分かる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状は異なるものの、分布は同様に左にシフトしており、ハローワークと同様の傾向である",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "マッチング効率性の低下の理由には、求人条件と求職者の希望とのミスマッチも考えられるが、2011年度以降のハローワークの求人条件をみると、求人条件は悪化していない",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、ハローワークの求人の質は、この10年で改善していることから、マッチング効率性の低下は、求人の質によるものではないと考えられる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業以上の学歴または専門学校卒業で専門的な知識・技能を持つ外国人",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社や登録支援機関を通じて候補者を募集します",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "採用時には、人材紹介手数料(30万円〜60万円)、在留資格申請費用(5万円〜15万円)、渡航費用(5万円〜15万円)、住居準備費用などがかかります",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、外国人材紹介（技人国・特定技能）を専門に行う人材紹介会社です",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークに登録された求職者1人あたり何件の求人があるかを表し、1を超えると求人が求職者を上回る「人手不足（売り手市場）」を意味します",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "この倍率は、求人を受け付けたハローワークの所在地で集計されています（受理地別）",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "同じ統計には、その県のハローワークで職を得た人が何件で、うち何件が他県での就職だったかも収録されています",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県は32.9%、千葉県は32.0%、神奈川県は29.7%と、ハローワーク経由の就職の3割が他県での就職です",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、企業がハローワークに登録している「有効求人数」を、仕事を探している「有効求職者数」で割って算出される指標",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "自社サイトやSNS、動画などを活用し、設備の自動化や働き方改革の取り組みを伝えると、求職者の不安を軽減できます",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "75％の企業がリファラル採用（社員紹介制度）を導入している",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち80％がリファラル採用の成功確度が高いと回答している",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用の導入による効果は次の通りである",
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のハローワークに加え、民間の求人サイトや人材紹介会社と連携し、幅広く求人を露出する",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "特に高校・専門学校・大学などとのパイプ作りは、中長期的な人材確保につながります",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "採用チャネルの最適化：ハローワーク、Web媒体、SNS、UIターン就職イベントなど、企業に合った効果的なチャネル選定",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "詳細をみると、まず上位の４業種は、飲食の高級レストランなどに加え、サービスの都市型ホテル・旅館、また雇用では新聞社の求人広告が入っている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html",
+    "pass": 3
+   },
+   {
+    "quote": "て、2020 年からは、ハローワークの求人票の記載項",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・中学校においても、RESASのデータを用いて身近な地域を調査する授業を実施",
+    "url": "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本人の新卒採用コスト: 求人広告・研修含めて年間60〜100万円/人が目安",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "「人を探す」コスト（求人広告、採用活動、教育）と「人を減らす」コスト（ICT投資）を比較して、どちらが合理的かを数字で判断します",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "ミスマッチ解消に向けた動きも こうした事態を改善するため、島根県内では高校二年時に県内企業でのインターンシップを経験させ、仕事への理解とともに賃金や福利厚生など就職先の情報収集も学校側がサポートして進めている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2015/08/032-042.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働市場関係指標（実数、ハローワーク利用登録者）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&query=%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5%E3%80%80%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "新規求職申込件数（実数）（一般パートタイム・ハローワーク利用登録者） 第２６表ー８ 有効求職者数（一般パート）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&query=%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5%E3%80%80%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "有効求職者数（実数）（一般パートタイム・ハローワーク利用登録者） 第２６表ー９ 就職件数（一般パート）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&query=%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5%E3%80%80%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人数」は、ハローワークにおける求人数の合計で、「有効求職者数」は、ハローワークに登録して就職活動をしている人の合計です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、全国のハローワーク（※）の求人数と求職者数を基に、厚生労働省が算出しています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークは、正式名称を「公共職業安定所」と言い、全国各地にあります",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人数とは、ハローワークにおいて、当月の新規求人数と前月から繰り越された求人数の合計です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求職者数とは、ハローワークにおいて、当月の新規求職申込者数と、前月から繰り越された求職者数の合計です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年9月度】採用市場動向レポート：有効求人倍率1.19倍、求人広告34.5％増に見る職種間の温度差 | 採用ナレッジ | 株式会社内藤一水社",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年9月度】採用市場動向レポート：有効求人倍率1.19倍、求人広告34.5％増に見る職種間の温度差",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月の採用市場は、公的統計では雇用環境の底堅さがうかがえる一方、民間の求人広告では職種によって動きが大きく分かれました",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける産業別の新規求人（原数値）は、全体で",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "ではハローワーク求人も前年を超えて推移しています",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊・飲食サービス業（▲6.3%）では新規求人の出稿抑制が続いており、産業間での景況感の差がハローワークの数字にも色濃く映し出されています",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "公的統計の新規求人数がほぼ前年並みとなる一方、民間求人広告では大きな増加が見られます",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "民間求人広告を雇用形態別（職種×雇用形態クロス集計）に見ると、公的統計との興味深い「乖離」が見られます",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル分野や輸送・物流分野など、特定職種で求人広告の掲載が活発になっている状況がうかがえます",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別の求人広告件数（全国計：2,722,945件ベース、前年同月比 +36.5%）を見ると、全地域ブロックで前年同月比二桁の大幅な伸びを記録しています",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "Indeed（インディード）のジョブブーストとは？料金・効果・スポンサー求人との違いを解説",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告の掲載や効果的な求人メディアの選定など求人サービスに関するご相談はこちら",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介をご検討の方、希望する人材の紹介が可能か相談したい方はこちら",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "人材採用や求人広告・メディアへの掲載に役立つ資料のダウンロードはこちら",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "第1章 第1節 人手不足 感の 地域 ごとのばらつき - 内閣府 — 第1章 第1節 人手不足 感の 地域 ごとのばらつき - 内閣府 内閣府ホームページ https://www5.cao.go.jp > chr18_01-01",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 人手不足 の背景 - 厚生労働省 — 第1章 人手不足 の背景 - 厚生労働省 厚生労働省 https://www.mhlw.go.jp > stf > hakusyo > roudou",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の有効求人倍率 とは？ 人手不足 を改善する5つの方法 — 製造業の有効求人倍率 とは？ 人手不足 を改善する5つの方法 nikken-totalsourcing.jp https://www.nikken-totalsourcing.jp > ... > 採用",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年8月版】工場・ 製造業の有効求人倍率 とは？見方や ... — 【2026年8月版】工場・ 製造業の有効求人倍率 とは？見方や ... Man to Man株式会社 https://lp.man-to-man-g.com > blog > job-offer-ratio",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 有効求人倍率 （ 地域別 ・職種別・年齢別） 2026年 ... — 都道府県別 有効求人倍率 （ 地域別 ・職種別・年齢別） 2026年 ... ヒトクル https://hitokuru.atimes.co.jp > list",
+    "url": "https://hitokuru.atimes.co.jp/list/274",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の 人手不足 はなぜ深刻か｜55歳以上36.7%・29歳以下 ... — 建設業の 人手不足 はなぜ深刻か｜55歳以上36.7%・29歳以下 ... genba-media.jp https://www.genba-media.jp > 記事 > 職人・キャリア",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年9月度】 採用 市場動向レポート： 有効求人倍率 1.19倍 — 【2026年9月度】 採用 市場動向レポート： 有効求人倍率 1.19倍 株式会社内藤一水社 https://www.naito.jp > knowledge > information",
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年8月版】工場・ 製造業 の 有効求人倍率 とは？見方や ... — 【2026年8月版】工場・ 製造業 の 有効求人倍率 とは？見方や ... Man to Man株式会社 https://lp.man-to-man-g.com > blog > job-offer-ratio",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 の 有効求人倍率 ランキング2026年7月 — 都道府県別 の 有効求人倍率 ランキング2026年7月 chihososei-journal.jp https://chihososei-journal.jp > 特集",
+    "url": "https://chihososei-journal.jp/feature/10853/",
+    "pass": 3
+   },
+   {
+    "quote": "慢性的な 人手不足 の実態～賃金・ 求人倍率 の関係 2025 — 慢性的な 人手不足 の実態～賃金・ 求人倍率 の関係 2025 transtructure.com https://www.transtructure.com > hr-data-analysys > labor",
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p17764/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足 に対する企業の動向 調査 （ 2025 年1月） — 人手不足 に対する企業の動向 調査 （ 2025 年1月） tdb.co.jp https://www.tdb.co.jp > レポート",
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "有効求人倍率 、1位福井 県 と最下位神奈川 県 で2.2倍の格差 ... 有効求人倍率 、1位福井 県 と最下位神奈川 県 で2.2倍の格差 ... note https://note.com > 政治・経済 > ミクロ経済",
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 1.18倍、4カ月ぶり上昇の中身を読む 半導体が ... 有効求人倍率 1.18倍、4カ月ぶり上昇の中身を読む 半導体が ... note https://note.com > 政治・経済 > ミクロ経済",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "最新の全国 有効求人倍率 の状況 - note 最新の全国 有効求人倍率 の状況 - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "有効求人倍率、1位福井県と最下位神奈川県で2.2倍の格差！偏差値で見る雇用環境の地域差｜統計で見る都道府県",
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率、1位福井県と最下位神奈川県で2.2倍の格差！偏差値で見る雇用環境の地域差",
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度の有効求人倍率、あなたの都道府県は全国平均を上回っていますか？",
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "pass": 3
+   },
+   {
+    "quote": "1位の福井県（1.94倍）と最下位の神奈川県（0.88倍）で2.2倍もの格差",
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "pass": 3
+   },
+   {
+    "quote": "全国平均が1.31倍という中、地域によって雇用環境は大きく異なります。",
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "pass": 3
+   },
+   {
+    "quote": "本記事のランキングは、総務省が公表している「社会・人口統計」（e-Stat）の最新データを元に、独自に集計・作成しています。",
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "pass": 3
+   },
+   {
+    "quote": "— 自地域の有効求人倍率を全国平均1.31倍と比較し、雇用対策資料にCSVデータを使いたい人",
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "pass": 3
+   },
+   {
+    "quote": "— 福井県1.94倍と神奈川県0.88倍で2.2倍の差が生じる要因を47都道府県データで検証したい人",
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率1.18倍、4カ月ぶり上昇の中身を読む 半導体が呼び戻した求人と、開かない正社員の扉｜宮野宏樹",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率1.18倍、4カ月ぶり上昇の中身を読む 半導体が呼び戻した求人と、開かない正社員の扉",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月31日の朝、厚生労働省が発表した6月の有効求人倍率は1.18倍でした。前月から0.01ポイントの上昇で、上昇するのは4カ月ぶりになります。数字だけを見れば、わずか0.01ポイントの動きです。前月の1.17倍から1.18倍へ、小数点第2位が1つ動いただけの変化を、ニュースは「4カ月ぶりの上昇」と伝えました。",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、この0.01ポイントの裏側では、日本の労働市場にとってもっと重い意味を持つ変化が起きていました。同時に公表された新規求人数が、前年同月比で3.1パーセント増と、14カ月ぶりにプラスへ転じたのです。14カ月です。1年以上にわたって前年割れを続けてきた求人の先行指標が、ようやく反転しました。しかも、その反転を引っ張ったのは半導体関連の需要でした。",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、同じ統計は別の顔も見せています。正社員に限った有効求人倍率は5月時点で0.99倍。1倍を下回る状態が8カ月続いています。求人全体は戻り始めたのに、正社員という入り口だけが狭いままなのです。総務省が同日発表した完全失業率は2.5パーセントで前月から横ばいでしたが、完全失業者数は11カ月連続で前年を上回っています。",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、6月の雇用統計を数字の一つひとつまで分解し、「なぜ上がったのか」「何が上がっていないのか」「この先どこへ向かうのか」を、一般のビジネスパーソンと投資家の目線で読み解いていきます。景気指標としての雇用統計は、株価や金利、そして日本銀行の政策判断に直結します。同時に、採用や転職という個人の意思決定にも直結します。0.01ポイントの向こう側にある構造を、一緒に見ていきましょう。",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "議論の土台として、6月に公表された数字を正確に確認しておきます。",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の「一般職業紹介状況」によれば、2026年6月の有効求人倍率（季節調整値）は1.18倍でした。前月の1.17倍から0.01ポイントの上昇です。有効求人倍率とは、全国のハローワークに登録されている求職者1人あたりに何件の求人があるかを示す指標です。1.18倍であれば、求職者100人に対して118件の求人がある計算になります。1倍を上回っていれば「求人のほうが多い」、つまり人手不足の状態を意味します。",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "【最新の全国有効求人倍率の状況】｜スポット人事 / (株)LeadSTAR",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が公表した令和6年（2024年）12月時点の最新データによれば、全国の有効求人倍率（季節調整値）は1.25倍となっています。これは前月とほぼ同水準で、求職者1人に対して約1.25件の求人がある計算です。新規求人倍率（新しく寄せられた求人の倍率）は2.26倍、正社員に限った有効求人倍率は1.03倍となっており、依然として企業側の「人手不足感」が続いている状況です。また2024年の年間平均の有効求人倍率も1.25倍で、前年（1.31倍）より0.06ポイント低下しているものの、全国的には「売り手市場」が続いているといえます。",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、都道府県別に見ると地域差が顕著で、東京の1.76倍や福井・石川・岐阜などの1.60倍台といった「高倍率地域」と、神奈川（0.90倍）、兵庫・北海道（0.99倍）のように1.0倍を下回る「低倍率地域」とに分かれる傾向があります。地方圏ほど慢性的な人手不足が深刻化し、有効求人倍率が高くなるケースが多いのが現状です。たとえば、茨城県は東京に近接しながらも工場や農業など地域特性を持つため、2024年12月時点で約1.20倍前後と全国平均に近い水準となっていますが、業種によっては求人が極端に集中・不足する状況が見られます。",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "全てみたい方はキャプチャーをクリックしてください。",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "以下では、茨城を含む地方の中小企業が抱える「採用・経営上の課題」と、その原因や解決策について解説します。最後には、採用支援を行う株式会社LeadSTARのサポート体制についても触れますので、ぜひご一読ください。",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "1. 導入：茨城の中小企業が抱える採用・経営の課題",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "茨城県は首都圏に隣接しながら、工業団地や農業が盛んなエリアを有しているため、製造業や農業関連企業が多く存在します。近年では、研究学園都市の筑波エリアや大型商業施設の進出などで雇用機会が拡大している一方、少子高齢化や若年層の都心流出により、中小企業が人材を確保しづらい構造的な問題が深刻化しています。実際、",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   },
+   {
+    "quote": "「地元の若手が県外へ流出し、継続的に人材を確保しにくい」",
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "8月の 有効求人倍率 は1.18倍で横ばい――新規求人 ... - Facebook 8月の 有効求人倍率 は1.18倍で横ばい――新規求人 ... - Facebook Facebook https://www.facebook.com > sharoushi.river > posts > 8月...",
+    "url": "https://www.facebook.com/sharoushi.river/posts/8%E6%9C%88%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E3%81%AF118%E5%80%8D%E3%81%A7%E6%A8%AA%E3%81%B0%E3%81%84%E6%96%B0%E8%A6%8F%E6%B1%82%E4%BA%BA%E3%81%AF%E5%AE%BF%E6%B3%8A%E9%A3%B2%E9%A3%9F%E5%B0%8F%E5%A3%B2%E3%81%A7%E6%B8%9B%E5%B0%91-%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%AF%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%882%E6%97%A5%E4%B8%80%E8%88%AC%E8%81%B7%E6%A5%AD%E7%B4%B9%E4%BB%8B%E7%8A%B6%E6%B3%81%E4%BB%A4%E5%92%8C8%E5%B9%B48%E6%9C%88%E5%88%86%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F8%E6%9C%88%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E5%AD%A3/1555747776592047/",
+    "pass": 3
+   },
+   {
+    "quote": "あの 業界 は…？ 福井 県 が実施している『 人手不足 業就職 ... あの 業界 は…？ 福井 県 が実施している『 人手不足 業就職 ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/mitsuru.yamagishi.1/videos/%E7%A6%8F%E4%BA%95%E3%81%A7%E5%B0%B1%E8%81%B7%E3%81%99%E3%82%8B%E3%81%A830%E4%B8%87%E5%86%86%E3%81%A7%E3%82%82%E3%81%82%E3%81%AE%E6%A5%AD%E7%95%8C%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%8C%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E6%A5%AD%E5%B0%B1%E8%81%B7%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E5%BF%9C%E6%8F%B4%E4%BA%8B%E6%A5%AD%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E6%A5%AD%E7%95%8C%E3%81%B8%E6%AD%A3%E7%A4%BE%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A6%E8%BB%A2%E8%81%B7%E3%81%973%E3%83%B6%E6%9C%88%E4%BB%A5%E4%B8%8A%E5%8B%A4%E5%8B%99%E3%81%99%E3%82%8B%E3%81%A81%E4%BA%BA%E3%81%82%E3%81%9F%E3%82%8A30%E4%B8%87/1003848559391679/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "30",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "quote": "採用時には、人材紹介手数料(30万円〜60万円)、在留資格申請費用(5万円〜15万円)、渡航費用(5万円〜15万円)、住居準備費用などがかかります"
+   },
+   {
+    "value": "60",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "quote": "採用時には、人材紹介手数料(30万円〜60万円)、在留資格申請費用(5万円〜15万円)、渡航費用(5万円〜15万円)、住居準備費用などがかかります"
+   },
+   {
+    "value": "5",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "quote": "採用時には、人材紹介手数料(30万円〜60万円)、在留資格申請費用(5万円〜15万円)、渡航費用(5万円〜15万円)、住居準備費用などがかかります"
+   },
+   {
+    "value": "15",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "quote": "採用時には、人材紹介手数料(30万円〜60万円)、在留資格申請費用(5万円〜15万円)、渡航費用(5万円〜15万円)、住居準備費用などがかかります"
+   },
+   {
+    "value": "20",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "quote": "継続的な費用としては、日本人と同等以上の給与(月給20万円〜)、社会保険料、特定技能の場合は登録支援機関への委託費(月額2万円〜4万円)が必要です"
+   },
+   {
+    "value": "2",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "quote": "継続的な費用としては、日本人と同等以上の給与(月給20万円〜)、社会保険料、特定技能の場合は登録支援機関への委託費(月額2万円〜4万円)が必要です"
+   },
+   {
+    "value": "4",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "quote": "継続的な費用としては、日本人と同等以上の給与(月給20万円〜)、社会保険料、特定技能の場合は登録支援機関への委託費(月額2万円〜4万円)が必要です"
+   },
+   {
+    "value": "100",
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "quote": "初期費用として100万円程度、月々の費用として給与・保険料に加えて2万円〜4万円程度が目安となります"
+   },
+   {
+    "value": "794.3",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製"
+   },
+   {
+    "value": "740.9",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ"
+   },
+   {
+    "value": "094",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ"
+   },
+   {
+    "value": "100",
+    "url": "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "quote": "※３ 実質労働生産性は、実質付加価値（100万円）／マンアワー（1000人×総実労働時間）で算出し、対数変換している"
+   },
+   {
+    "value": "460",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "建設業（全体平均）: 約460万円"
+   },
+   {
+    "value": "430",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "製造業: 約430万円"
+   },
+   {
+    "value": "490",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "全産業平均: 約490万円"
+   },
+   {
+    "value": "580",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "情報通信業: 約580万円"
+   },
+   {
+    "value": "120",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "情報通信業との差は120万円です"
+   },
+   {
+    "value": "19",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "建設業の初任給（高卒）は厚労省「賃金構造基本統計調査」では概ね18〜19万円台の水準（年度・企業規模・地域で変動"
+   },
+   {
+    "value": "30",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "「月30万円」と聞いて入職しても、雨が多い月は22万円"
+   },
+   {
+    "value": "22",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "「月30万円」と聞いて入職しても、雨が多い月は22万円"
+   },
+   {
+    "value": "700",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "電気工事施工管理技士: 年収550-700万円"
+   },
+   {
+    "value": "650",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "1級建築施工管理技士: 年収500-650万円"
+   },
+   {
+    "value": "3",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "型枠工（熟練）: 日当3万円超（年収換算600万円以上）"
+   },
+   {
+    "value": "600",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "型枠工（熟練）: 日当3万円超（年収換算600万円以上）"
+   },
+   {
+    "value": "2",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "普通作業員: 日当1万5,000-2万円（年収換算300-400万円）"
+   },
+   {
+    "value": "400",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "普通作業員: 日当1万5,000-2万円（年収換算300-400万円）"
+   },
+   {
+    "value": "200",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "資格を持つ施工管理技士と、無資格の作業員で年収に200万円以上の差があります"
+   },
+   {
+    "value": "100",
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "quote": "特定技能（海外からの新規受入）: 渡航費・日本語教育・住居・管理費等を含めて年間100万円台後半〜200万円/人の幅"
+   },
+   {
+    "value": "3",
+    "url": "https://stats47.jp/blog/minimum-wage-1000yen-breakthrough",
+    "quote": "ただし東京1,226円と秋田1,023円の203円差は、フルタイム月額で3万円以上の格差を意味します"
+   },
+   {
+    "value": "30",
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "quote": "大企業を中心とした「初任給30万円時代」とも言われるなか、賃上げ機運に追いつけない中小企業が増加することも予想され、今後も「人手不足倒産」のリスクには注意が必要だ"
+   },
+   {
+    "value": "000",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/gaiyo.pdf",
+    "quote": "➢ 民間企業との共同研究による大学等の研究費受入額、および1件当たりの受入額が1,000万円以上の共同研究に係る研究費受入額ともに、着実に"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/dlc_cont/03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myri.co.jp/viewpdf.php?id=f6ff2da0cc5f7094a3ceecdd7d2a95a14fd26fd8fd2124bfb57ccc29c4cda54ff6a629f981537fc5ac8ab4d3752183eb4a9327c3bc3235a8eb7087769691e84ae4ea34a097496ac5f6c0bedc7729c3fd49d365dcfb7477e4b629c47a96ccf618a3a47af09f5b23dbe79de8c77e729bf510906ddaf37f6064058f1db1481b5892741fb72079a7a6762b1a0d6da69b30f61fd363def86ea71b35fa6a84127562cd2d26fd4a71defd787f4f3d06c4b5464b9506cb442ed9f2a9f57b9339cc80&tmp=1714115637",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baitoru.com/solution/column/effective-job-offers-ratio-ranking/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hitokuru.atimes.co.jp/list/274",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chihososei-journal.jp/feature/10853/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://stats47.jp/blog/minimum-wage-1000yen-breakthrough",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2015/08/032-042.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.pc-k.co.jp/job-market/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&query=%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5%E3%80%80%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.naito.jp/knowledge/information/4807/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukuoka.lg.jp/uploaded/life/628221_61220738_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://doda.jp/guide/kyujin_bairitsu/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp0101200020501sp000/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p17764/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/economies/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&query=%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5+%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87&stat_infid=000040224730",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/1-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/sharoushi.river/posts/8%E6%9C%88%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E3%81%AF118%E5%80%8D%E3%81%A7%E6%A8%AA%E3%81%B0%E3%81%84%E6%96%B0%E8%A6%8F%E6%B1%82%E4%BA%BA%E3%81%AF%E5%AE%BF%E6%B3%8A%E9%A3%B2%E9%A3%9F%E5%B0%8F%E5%A3%B2%E3%81%A7%E6%B8%9B%E5%B0%91-%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%AF%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%882%E6%97%A5%E4%B8%80%E8%88%AC%E8%81%B7%E6%A5%AD%E7%B4%B9%E4%BB%8B%E7%8A%B6%E6%B3%81%E4%BB%A4%E5%92%8C8%E5%B9%B48%E6%9C%88%E5%88%86%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F8%E6%9C%88%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E5%AD%A3/1555747776592047/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mitsuru.yamagishi.1/videos/%E7%A6%8F%E4%BA%95%E3%81%A7%E5%B0%B1%E8%81%B7%E3%81%99%E3%82%8B%E3%81%A830%E4%B8%87%E5%86%86%E3%81%A7%E3%82%82%E3%81%82%E3%81%AE%E6%A5%AD%E7%95%8C%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%8C%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E6%A5%AD%E5%B0%B1%E8%81%B7%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E5%BF%9C%E6%8F%B4%E4%BA%8B%E6%A5%AD%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E6%A5%AD%E7%95%8C%E3%81%B8%E6%AD%A3%E7%A4%BE%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A6%E8%BB%A2%E8%81%B7%E3%81%973%E3%83%B6%E6%9C%88%E4%BB%A5%E4%B8%8A%E5%8B%A4%E5%8B%99%E3%81%99%E3%82%8B%E3%81%A81%E4%BA%BA%E3%81%82%E3%81%9F%E3%82%8A30%E4%B8%87/1003848559391679/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/stats47/n/neecba2a1752d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leadstar/n/ne1b96644fe06",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 人手不足 受注 断る",
+   "results": [
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.jinzaiplus.jp/posts/230",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://job.pc-k.co.jp/job-market/"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 受注残 人手不足",
+   "results": [
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "https://fujiarte.co.jp/dlc_cont/03/",
+    "https://note.com/leadstar/n/ne1b96644fe06",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://www.myri.co.jp/viewpdf.php?id=f6ff2da0cc5f7094a3ceecdd7d2a95a14fd26fd8fd2124bfb57ccc29c4cda54ff6a629f981537fc5ac8ab4d3752183eb4a9327c3bc3235a8eb7087769691e84ae4ea34a097496ac5f6c0bedc7729c3fd49d365dcfb7477e4b629c47a96ccf618a3a47af09f5b23dbe79de8c77e729bf510906ddaf37f6064058f1db1481b5892741fb72079a7a6762b1a0d6da69b30f61fd363def86ea71b35fa6a84127562cd2d26fd4a71defd787f4f3d06c4b5464b9506cb442ed9f2a9f57b9339cc80&tmp=1714115637",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://hitokuru.atimes.co.jp/list/274"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 採用単価 規模別",
+   "results": [
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.baitoru.com/solution/column/effective-job-offers-ratio-ranking/",
+    "https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html",
+    "https://hitokuru.atimes.co.jp/list/274",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://chihososei-journal.jp/feature/10853/",
+    "https://fujiarte.co.jp/dlc_cont/03/",
+    "https://note.com/leadstar/n/ne1b96644fe06"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 採用コスト 調査 万円",
+   "results": [
+    "https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html",
+    "https://www.genba-media.jp/articles/52zx1hfd3qp",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://note.com/leadstar/n/ne1b96644fe06",
+    "https://stats47.jp/blog/minimum-wage-1000yen-breakthrough",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2015/08/032-042.pdf",
+    "https://hitokuru.atimes.co.jp/list/274"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.naito.jp/knowledge/information/4807/",
+    "https://www5.cao.go.jp/j-j/cr/cr20-21/chr20-21_02-04.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://hitokuru.atimes.co.jp/list/274",
+    "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "https://www.pref.fukuoka.lg.jp/uploaded/life/628221_61220738_misc.pdf"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 採用経路 割合 調査",
+   "results": [
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://chihososei-journal.jp/feature/10853/",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://doda.jp/guide/kyujin_bairitsu/",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "https://hitokuru.atimes.co.jp/list/274"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://www.transtructure.com/hr-data-analysys/labor/p17764/",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/economies/detail001.html"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 白書 採用",
+   "results": [
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://hitokuru.atimes.co.jp/list/274",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://www.baitoru.com/solution/column/effective-job-offers-ratio-ranking/",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://fujiarte.co.jp/dlc_cont/03/",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&query=都道府県別+有効求人倍率&stat_infid=000040224730"
+   ]
+  },
+  {
+   "query": "site:note.com 都道府県別・地域別の製造業の有効求人倍率と人手不足",
+   "results": [
+    "https://note.com/stats47/n/neecba2a1752d",
+    "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "https://note.com/cdi/n/n595619158bec",
+    "https://note.com/leadstar/n/ne1b96644fe06",
+    "https://note.com/japancareer_co/n/n674223972b65",
+    "https://note.com/ghrs/n/n7e4d560e0dc6",
+    "https://note.com/nearportlab/n/n74092c05193f",
+    "https://note.com/openwave/n/nba4214948dd4",
+    "https://note.com/machi_hito1507/n/n87f799be773c",
+    "https://note.com/trex_ai/n/n80472342438e"
+   ]
+  },
+  {
+   "query": "site:x.com 都道府県別・地域別の製造業の有効求人倍率と人手不足",
+   "results": [
+    "http://x.com/toyou_toyowork",
+    "https://x.com/YOLOJAPANco",
+    "https://x.com/hurex_hurex",
+    "https://x.com/global_astra_1/status/2112536439363911772",
+    "https://x.com/goodfield_lab",
+    "https://x.com/atuhirooikawa",
+    "https://x.com/KatahiroY",
+    "https://x.com/Izumi72",
+    "https://x.com/hyogororen",
+    "https://x.com/shinwa_construc"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 都道府県別・地域別の製造業の有効求人倍率と人手不足",
+   "results": [
+    "https://jp.linkedin.com/in/masashi-sugiura",
+    "https://jp.linkedin.com/in/junichi-ohshima-15962841",
+    "https://jp.linkedin.com/in/ayano-m",
+    "https://jp.linkedin.com/in/kemtch",
+    "https://jp.linkedin.com/in/%E8%A3%95%E7%B4%80-%E5%90%89%E5%B2%A1-052194216",
+    "https://jp.linkedin.com/posts/persol-research-and-consulting_ニッポンのはたらく地図2025-パーソル総合研究所が発表したニッポンのはたらく-activity-7392138726438547456-hG5c",
+    "https://jp.linkedin.com/posts/kazuji-nakazato_人手不足で製造業はどう変わる経産省ものづくり白書に見るdxの課題と打ち手-activity-7445768827944226816-NK9n",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7094623021490958337/",
+    "https://jp.linkedin.com/posts/haruokubo_厚生労働省の一般職業紹介状況2026年7月分で正社員の有効求人倍率はちょうど100-activity-7500338194857656320--c7u",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z"
+   ]
+  },
+  {
+   "query": "site:facebook.com 都道府県別・地域別の製造業の有効求人倍率と人手不足",
+   "results": [
+    "https://www.facebook.com/sharoushi.river/posts/8%E6%9C%88%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E3%81%AF118%E5%80%8D%E3%81%A7%E6%A8%AA%E3%81%B0%E3%81%84%E6%96%B0%E8%A6%8F%E6%B1%82%E4%BA%BA%E3%81%AF%E5%AE%BF%E6%B3%8A%E9%A3%B2%E9%A3%9F%E5%B0%8F%E5%A3%B2%E3%81%A7%E6%B8%9B%E5%B0%91-%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%AF%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%882%E6%97%A5%E4%B8%80%E8%88%AC%E8%81%B7%E6%A5%AD%E7%B4%B9%E4%BB%8B%E7%8A%B6%E6%B3%81%E4%BB%A4%E5%92%8C8%E5%B9%B48%E6%9C%88%E5%88%86%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F8%E6%9C%88%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87%E5%AD%A3/1555747776592047/",
+    "https://www.facebook.com/sharoushi.river/posts/%E4%B8%AD%E9%AB%98%E5%B9%B4%E3%81%AE%E6%B4%BB%E8%BA%8D%E6%94%AF%E6%8F%B4%E7%89%B9%E8%A8%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%AF10%E6%9C%8819%E6%97%A5%E4%B8%AD%E9%AB%98%E5%B9%B4%E4%B8%96%E4%BB%A3%E5%90%91%E3%81%91%E3%81%AE%E5%90%84%E7%A8%AE%E6%94%AF%E6%8F%B4%E6%96%BD%E7%AD%96%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E4%B8%AD%E9%AB%98%E5%B9%B4%E3%81%AE%E6%B4%BB%E8%BA%8D%E6%94%AF%E6%8F%B4%E7%89%B9%E8%A8%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/1576954797804678/",
+    "https://www.facebook.com/sharoushi.river/",
+    "https://www.facebook.com/mitsuru.yamagishi.1/videos/%E7%A6%8F%E4%BA%95%E3%81%A7%E5%B0%B1%E8%81%B7%E3%81%99%E3%82%8B%E3%81%A830%E4%B8%87%E5%86%86%E3%81%A7%E3%82%82%E3%81%82%E3%81%AE%E6%A5%AD%E7%95%8C%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%8C%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E6%A5%AD%E5%B0%B1%E8%81%B7%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E5%BF%9C%E6%8F%B4%E4%BA%8B%E6%A5%AD%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E6%A5%AD%E7%95%8C%E3%81%B8%E6%AD%A3%E7%A4%BE%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A6%E8%BB%A2%E8%81%B7%E3%81%973%E3%83%B6%E6%9C%88%E4%BB%A5%E4%B8%8A%E5%8B%A4%E5%8B%99%E3%81%99%E3%82%8B%E3%81%A81%E4%BA%BA%E3%81%82%E3%81%9F%E3%82%8A30%E4%B8%87/1003848559391679/",
+    "https://www.facebook.com/mitsuru.yamagishi.1/posts/%E7%A6%8F%E4%BA%95%E3%81%A7%E5%B0%B1%E8%81%B7%E3%81%99%E3%82%8B%E3%81%A830%E4%B8%87%E5%86%86%E3%81%A7%E3%82%82%E3%81%82%E3%81%AE%E6%A5%AD%E7%95%8C%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%8C%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E6%A5%AD%E5%B0%B1%E8%81%B7%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E5%BF%9C%E6%8F%B4%E4%BA%8B%E6%A5%AD%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E6%A5%AD%E7%95%8C%E3%81%B8%E6%AD%A3%E7%A4%BE%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A6%E8%BB%A2%E8%81%B7%E3%81%973%E3%83%B6%E6%9C%88%E4%BB%A5%E4%B8%8A%E5%8B%A4%E5%8B%99%E3%81%99%E3%82%8B%E3%81%A81%E4%BA%BA%E3%81%82%E3%81%9F%E3%82%8A30%E4%B8%87/28710836015276377/",
+    "https://www.facebook.com/groups/1168835896656600/",
+    "https://www.facebook.com/groups/906053053932154/",
+    "https://www.facebook.com/sekicci/?locale=ja_JP",
+    "https://www.facebook.com/hashimotosangyo/?locale=ja_JP",
+    "https://www.facebook.com/groups/325141627499796/"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 note 社長",
+   "results": [
+    "https://note.com/stats47/n/neecba2a1752d",
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://note.com/leadstar/n/ne1b96644fe06",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://note.com/cdi/n/n595619158bec",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://jpblog.cloudpick.com/jinzai-shortage-ranking-by-region-and-industry-japan/",
+    "https://note.com/ecareerfa/n/ne89edf6580ab",
+    "https://hitokuru.atimes.co.jp/list/274"
+   ]
+  },
+  {
+   "query": "都道府県別・地域別の製造業の有効求人倍率と人手不足 X 投稿",
+   "results": [
+    "https://www5.cao.go.jp/j-j/cr/cr18/chr18_01-01.html",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://www.mhlw.go.jp/content/11602000/001728872.pdf",
+    "https://chihososei-journal.jp/feature/10853/",
+    "https://www.nikkei.com/article/DGKKZO21709650Z20C17A9ML0000/",
+    "https://note.com/stats47/n/neecba2a1752d",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://lassic.co.jp/media/person/it-engineer-job-ratio-prefecture/",
+    "https://hitokuru.atimes.co.jp/list/274"
+   ]
+  },
+  {
+   "query": "manufacturing job openings to applicants ratio by prefecture site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_japan-jobless-rate-rises-to-25-in-august-activity-7512794093098385409-twAO",
+    "https://www.linkedin.com/pulse/lights-out-factory-opportunity-economics-operational-andre-hxtbe",
+    "https://in.linkedin.com/in/vibhavkantupadhyay",
+    "https://jp.linkedin.com/in/henri-yasutoshi-nobumoto/en",
+    "https://jp.linkedin.com/in/hiroyasato/en",
+    "https://th.linkedin.com/in/raymond-schonfeld-29060135",
+    "https://ca.linkedin.com/in/evanburkosky",
+    "https://gr.linkedin.com/in/ioannisstiakogiannakis",
+    "https://pl.linkedin.com/in/olivier-brument/en",
+    "https://ci.linkedin.com/in/tanohcedrick"
+   ]
+  }
+ ],
+ "missing": {}
+}

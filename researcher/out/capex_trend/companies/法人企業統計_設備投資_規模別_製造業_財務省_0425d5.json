@@ -1,0 +1,3386 @@
+{
+ "name": "法人企業統計 設備投資 規模別・製造業（財務省）",
+ "en": "MOF financial statements statistics capex by size manufacturing",
+ "aliases": [
+  "法人企業統計 設備投資 資本金規模別 製造業",
+  "法人企業統計 設備投資 推移"
+ ],
+ "context": "一次・財務省",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:14:38.569166+00:00",
+ "evidence": {
+  "実施割合・計画割合": [
+   {
+    "quote": "4〜6月法人企業、設備投資1.6%増 6四半期連続プラス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "財務省が1日発表した4〜6月期の法人企業統計によると、全産業（金融・保険業除く）のソフトウエアを含む設備投資は前年同期比で1.6%増の13兆250億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "季節調整済みの前期比でみると、設備投資は1.5%増で2四半期ぶりのプラスとなった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業は前年同期比で4.7%増だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は3.7%減だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経常利益は24.6%増の44兆6668億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業が57.0%増と大きく伸びた",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸送用機械は為替の影響で50.6%増えた",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業は9.8%増えた",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サービス業が15.1%増と全体をけん引した",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業の売上高は5.9%増の393兆9377億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業が6.1%、非製造業が5.9%それぞれ増えた",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の統計も公表し、経常利益は前年度比で8.8%増の124兆8313億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内部留保にあたる利益剰余金は2.7%増の654兆8228億円となった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1〜3月法人企業、経常利益14.6%増 6四半期連続のプラス",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注の1〜3月6.4％増、2四半期連続プラス 3月単月は9.4%減",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上位1%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "下位50%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上位0.1%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中間層（資産上位10〜50%）が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上位1%が保有する株式・投資信託の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資産上位1〜10%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上位1%が保有する不動産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上位1%が保有する純資産額（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "下位50%が保有する純資産額（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-12.2%",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "+13.7%",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "機械受注": [
+   {
+    "quote": "さらに１～２四半期程度の先行性を有する機械受注統計も",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資源価格上昇によるコスト増加や内外需要の減退による売上高減少などを背景として、７－９月期の経常利",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まではみられなかったが、90 年代後半以降、売上高輸出比率が高い、つまり外需依存度が高い業種ほど設備",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間住宅、公的固定資本形成とした）の時差相関係数をみると、90 年代前半以前は、設備投資に対する内需",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料10 国内需要の設備投資に対する時差相関",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料11 実質設備投資と実質機械受注（前年同期比）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実質設備投資 実質機械受注（１四半期先行）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注4〜6月0.2％増、3四半期連続プラス データセンター関連好調",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注の1〜3月6.4％増、2四半期連続プラス 3月単月は9.4%減",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "AIが使えなくなる日 「デジタル安全保障」確保せよ",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "正解なきデジタル主権論への「現実解」 日本企業へ5つの提言",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観 雇用人員判断DI（人手不足業種別）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "小学校 ICT整備状況（デジタル教科書・大型提示装置・PC台数）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中学校 ICT整備状況（デジタル教科書・大型提示装置・PC台数）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高等学校 ICT整備状況（デジタル教科書・大型提示装置・PC台数）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デジタル収支 通信・著作権等使用料（月次）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "近年は製造業でのデジタル・自動化投資やソフトウェア投資が増加しており、業種ごとの投資構造変化も読み取れます",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア投資は全規模共通で近年増加傾向にあり、デジタル化の進展度を示す指標としても参照されます",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア投資の動向はデジタル化の進展を示す指標としても注目されています",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "土地投資額とは？ソフトウェア投資額とは？研究開発投資額とは？の解説も掲載",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計の四半期別調査の公表日は3月・6月・9月・12月ですので、公表に合わせてデータ更新されます",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データ更新の際は、当サイト「株式マーケットデータ」の”更新情報”のページや公式X（旧ツイッター）等でお知らせします",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2026年11月6日更新）",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "月に一度/週に一度更新される重要指標のデータ更新情報をお知らせしています",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "毎営業日データ更新される指標は、こちらでのお知らせなく各ページで更新されます",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "著名投資家のポートフォリオの最新データ更新（2026Q2）",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "S&P500のPBRのデータ更新を再開しました（2023年4Q以降のデータは改定値に置き換わりました）",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の掲載開始！毎営業日更新される的中率・精度が非常に高い指標です",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "また、日銀短観（12 月調査）の設備投資計画（2008 年度）をみると、前年度比▲",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008 年７－９月期の実質民間設備投資は前期比▲2.0％（４－６月期：同▲2.1％）と２四半期連続の減少",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である（資料２）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資源価格上昇によるコスト増加や内外需要の減退による売上高減少などを背景として、７－９月期の経常利",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "益は前年同期比▲22.4％と５四半期連続の減少となっており、収益の悪化が加速している（資料３）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資を増加させている関係性が現れている（資料７、８）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を参照））別に場合分けした上で、それらを更に企業規模（資本金の規模）別に場合分けを行っている（具体的に分析作業では、ダミー変数として、「除く三大都市」は、東京都、大阪府、愛知県以外の場合は１、東京都、大阪府、愛知県の場合は０、「大企業」は「法人季報」における調査客体のうち資本金10億円以上の場合は１、それ以外の場合は０、「中堅企業」は、同じく資本金１億円以上10億円未満の場合は１、それ以外の場合は０、「中小企業」は、同じく資本金１千万円以上１億円未満の場合は１、それ以外の場合は０として処理している",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "財務省が1日発表した4〜6月期の法人企業統計によると、全産業（金融・保険業除く）のソフトウエアを含む設備投資は前年同期比で1.6%増の13兆250億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経常利益は24.6%増の44兆6668億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業の売上高は5.9%増の393兆9377億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の統計も公表し、経常利益は前年度比で8.8%増の124兆8313億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内部留保にあたる利益剰余金は2.7%増の654兆8228億円となった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、非製造業も同＋7.7％と4四半期連続の増加と堅調が続いています",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の2014年1-3月期の経常利益は前年同月比＋5.4％と伸びは鈍化したものの、2012年10-12月期以降、6四半期連続で増加となりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年4-6月期までの3四半期は、売上高は減収ながら、円高是正の効果やコスト削減などにより増益を確保していましたが、2013年7-9月期以降は売上高の増加を伴い増益となりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、全体の約7割を占める非製造業の2014年1-3月期の経常利益は同＋28.2％と伸びが加速し、売上高も同＋5.6％と4四半期連続で増加しました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 2千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 5千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 1億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2千万円以上 - 5千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5千万円以上 - 1億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1億円以上 - 10億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年: 12,821,363百万円（全規模）財務省「法人企業統計調査」の最新公表値であり、詳しい内訳はページ上部のグラフ・データテーブルで確認できます",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資が前年比で増加に転じた年は、企業が将来の需要拡大を見込んでいるシグナルであり、製造業は大規模設備のため投資決定から完工まで1〜3年かかることが多いです",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1億円以上10億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上1億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 2千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 5千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 1億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2千万円以上 - 5千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5千万円以上 - 1億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1億円以上 - 10億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年 4～6月期: 12,821,363百万円（全規模）財務省「法人企業統計調査」の最新公表値であり、詳しい内訳はページ上部のグラフ・データテーブルで確認できます",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年比がプラスに転じると企業が将来の成長に強気であるシグナルで、通常は6〜12ヶ月後の生産能力拡大につながります",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金1千万円以上の法人企業を対象とし、業種・規模別にサンプリングされた企業から財務データを収集しています",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "財務省 北陸財務局 (@mof_lfb_hkrk) / X 財務省 北陸財務局 (@mof_lfb_hkrk) / X X https://x.com > mof_lfb_hkrk",
+    "url": "https://x.com/mof_lfb_hkrk",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "作成時点で、第一生命経済研究所経済調査部が信ずるに足る",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、日銀短観（12 月調査）の設備投資計画（2008 年度）をみると、前年度比▲",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）内閣府「国民経済計算」 （出所）日本銀行「全国企業短期経済観測調査」",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3月調査 6月調査 9月調査 12月調査 実績見込 実績",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である（資料２）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計季報をみると、原油など",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）財務省「法人企業統計季報」 （出所）財務省「法人企業統計季報」",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）日本銀行「全国企業短期経済観測調査」により当社作成 （出所）日本銀行「全国企業短期経済観測調査」により当社作成",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料７ 業種別設備投資と売上高輸出比率 （82-94年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料８ 業種別設備投資と売上高輸出比率 （95-07年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2009 年度にかけては輸出の減少が続くと見込まれることなどから、設備",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）内閣府「国民経済計算」、「機械受注統計調査」 （出所）内閣府「国民経済計算」、経済産業省「稼働率指数」",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融機能が企業の設備投資に与える影響を分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推計した都道府県数は47地域、推計期間は2013～2019年度第１四半期である",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業の設備投資が売上高に与える影響を分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業の設備投資が従業員数に与える影響を分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "付注2-4 年度別における企業の設備投資と資金借入に関する分析について",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融機能が企業の設備投資に与える影響を年度別に分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を参照）、推計期間は2003～2018年度である（本分析では、「法人季報」では一部の調査客体（企業）が年度を境に交代となり、複数年度でのパネル分析は行えないことから、年度別に推計を行っている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、年度内での推計期間は、第２四半期（７－９月期）から第４四半期（１－３月期）までとなっている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を参照））別に場合分けした上で、それらを更に企業規模（資本金の規模）別に場合分けを行っている（具体的に分析作業では、ダミー変数として、「除く三大都市」は、東京都、大阪府、愛知県以外の場合は１、東京都、大阪府、愛知県の場合は０、「大企業」は「法人季報」における調査客体のうち資本金10億円以上の場合は１、それ以外の場合は０、「中堅企業」は、同じく資本金１億円以上10億円未満の場合は１、それ以外の場合は０、「中小企業」は、同じく資本金１千万円以上１億円未満の場合は１、それ以外の場合は０として処理している",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表２ 年度別の企業の設備投資と金融機関からの長期資金借入にかかる推定結果",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "健康が地域経済を活性化させるなら、どのような地域資源が健康度を高めるかについて、内閣府「生活の質に関する調査（2012年度）」の１時点のミクロデータを用いて、以下のモデルについて推計を行った",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計調査 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計調査は、わが国における営利法人等の企業活動の実態を把握するため、標本調査として実施されている統計法に基づく基幹統計調査です",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査の結果は、「年次別調査」は9月に、「四半期別調査」は3月、6月、9月、12月に発表しています",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "■法人企業統計調査附帯調査(「リース取引に関する会計基準」の適用について)",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "財務省が1日発表した4〜6月期の法人企業統計によると、全産業（金融・保険業除く）のソフトウエアを含む設備投資は前年同期比で1.6%増の13兆250億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計は上場企業に限らず日本企業全体の動向を調べている",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の統計も公表し、経常利益は前年度比で8.8%増の124兆8313億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "卵はやはり1日1個まで？ 名医が回答",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ミドル転職、専門家に聞く初めの一歩 ～ウーマノミクス調査から",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【キーワード No.1,342】「法人企業統計」、製造業の設備投資が加速（日本）／マーケット情報・レポート － 三井住友DSアセットマネジメント | 三井住友DSアセットマネジメント",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【キーワード No.1,342】「法人企業統計」、製造業の設備投資が加速（日本）",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1．「法人企業統計」とは？",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "四半期毎に実施される「季報調査」と、年に一度実施される「年報調査」があります",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2日、財務省は「2014年1-3月期の法人企業統計」を発表しました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計調査 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計調査は、わが国における営利法人等の企業活動の実態を把握するため、標本調査として実施されている統計法に基づく基幹統計調査です",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査の結果は、「年次別調査」は9月に、「四半期別調査」は3月、6月、9月、12月に発表しています",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特定非営利活動法人及び市民の社会貢献に関する実態調査",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "低年齢層の子供のインターネット利用環境実態調査",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "などを背景に、輸送機械、電気機械、一般機械など輸出産業が設備投資を牽引してきた",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料７ 業種別設備投資と売上高輸出比率 （82-94年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料８ 業種別設備投資と売上高輸出比率 （95-07年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "付注2-3 企業の従業員数と設備投資に関する分析について",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業の設備投資が従業員数に与える影響を分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "）の個票データから各都道府県から構成されるパネルデータを構築し、各都道府県の従業員数をそれぞれの設備投資額が説明するモデルで推定した",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "変数に関して、「従業員数」は、「法人季報」における当期の従業員数の前年同期比、「設備投資額」は、「法人季報」における当期の「土地」、「その他の有形固定資産」、「建設仮勘定」、「無形固定資産（ソフトウェア）」の合計額の前年同期比である",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表２ 企業の設備投資と従業員数にかかる推定結果",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を参照））別に場合分けした上で、それらを更に企業規模（資本金の規模）別に場合分けを行っている（具体的に分析作業では、ダミー変数として、「除く三大都市」は、東京都、大阪府、愛知県以外の場合は１、東京都、大阪府、愛知県の場合は０、「大企業」は「法人季報」における調査客体のうち資本金10億円以上の場合は１、それ以外の場合は０、「中堅企業」は、同じく資本金１億円以上10億円未満の場合は１、それ以外の場合は０、「中小企業」は、同じく資本金１千万円以上１億円未満の場合は１、それ以外の場合は０として処理している",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸送用機械は為替の影響で50.6%増えた",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自動車を含む輸送用機械や食料品、生産用機械などが2桁の伸びとなりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年最新】日本の法人企業統計 設備投資推移グラフ（業種別・年次）| 経済まるみえ",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観 雇用人員判断DI（人手不足業種別）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "銀行の貸出態度（中小企業向け・SLOOS・米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本の法人企業統計 設備投資推移グラフ（業種別・年次）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "、規模別の年次データは",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計の設備投資（業種別・年次）とは何ですか？",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計 設備投資推移グラフ（業種別・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年最新】日本の法人企業統計 設備投資推移グラフ（事業者規模別・四半期）| 経済まるみえ",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本の法人企業統計 設備投資推移グラフ（事業者規模別・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業・中小企業など事業者規模別の投資動向を1994年以降の長期データで比較できます",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア投資含む・含まないの調査項目切り替えにも対応しており、業種別フィルタリングも可能です",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や、業種別の詳しい内訳は",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業は設備投資額が大きく景気サイクルとの連動が強い一方、中小企業は設備投資に慎重で特に金利上昇・需要不透明時に抑制されやすい傾向があります",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計の設備投資額（事業者規模別）とは何ですか？",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "財務省・財務総合政策研究所が四半期ごとに公表する法人企業統計調査の設備投資額データを、大企業・中小企業など事業者規模別に比較できるページです",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業と中小企業で設備投資に違いはありますか？",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金1千万円以上の法人企業を対象とし、業種・規模別にサンプリングされた企業から財務データを収集しています",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "景気分析、業種別の投資トレンド把握、政策立案の参考資料として幅広く利用されています",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "また、日銀短観（12 月調査）の設備投資計画（2008 年度）をみると、前年度比▲",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ると考えられ、企業収益は引き続き減少傾向で推移する可能性が高い",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である（資料２）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料７ 業種別設備投資と売上高輸出比率 （82-94年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料８ 業種別設備投資と売上高輸出比率 （95-07年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "られ、企業収益は引き続き減少傾向で推移する可能性が高い",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2009 年度にかけては輸出の減少が続くと見込まれることなどから、設備",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推計した都道府県数は47地域、推計期間は2013～2019年度第１四半期である",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "付注2-4 年度別における企業の設備投資と資金借入に関する分析について",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融機能が企業の設備投資に与える影響を年度別に分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を参照）、推計期間は2003～2018年度である（本分析では、「法人季報」では一部の調査客体（企業）が年度を境に交代となり、複数年度でのパネル分析は行えないことから、年度別に推計を行っている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、年度内での推計期間は、第２四半期（７－９月期）から第４四半期（１－３月期）までとなっている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表２ 年度別の企業の設備投資と金融機関からの長期資金借入にかかる推定結果",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上記分析ではパネルデータ分析を行ったが、健康寿命のデータが2010年以降しかなく、資本や労働に用いたデータが2012年までとなっているため、分析は2012年単年のクロスデータ分析に限られる",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "健康が地域経済を活性化させるなら、どのような地域資源が健康度を高めるかについて、内閣府「生活の質に関する調査（2012年度）」の１時点のミクロデータを用いて、以下のモデルについて推計を行った",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026-09-01",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012-06-01",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の統計も公表し、経常利益は前年度比で8.8%増の124兆8313億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 世界の注目都市",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日経優秀製品・サービス賞2025",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年6月4日",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2日、財務省は「2014年1-3月期の法人企業統計」を発表しました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は2012年10-12月期以来、4四半期マイナスが続いていましたが、これで2四半期連続のプラスとなりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の2014年1-3月期の経常利益は前年同月比＋5.4％と伸びは鈍化したものの、2012年10-12月期以降、6四半期連続で増加となりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年4-6月期までの3四半期は、売上高は減収ながら、円高是正の効果やコスト削減などにより増益を確保していましたが、2013年7-9月期以降は売上高の増加を伴い増益となりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、全体の約7割を占める非製造業の2014年1-3月期の経常利益は同＋28.2％と伸びが加速し、売上高も同＋5.6％と4四半期連続で増加しました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業収益は円高是正の効果が一巡するものの、国内外の景気回復により、底堅く推移する見通しです",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年5月21日",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【デイリー No.1,870】最近の指標から見る日本経済（2014年5月）／マーケット情報・レポート － 三井住友DSアセットマネジメント",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年5月15日",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026-09-01",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "報 道 発 表 年次別 法人企業統計 調査(令和6年度) - 財務省 — 報 道 発 表 年次別 法人企業統計 調査(令和6年度) - 財務省 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "四半期別 法人企業統計 調査(令和7年4～6月期) 報 道 発 表 — 四半期別 法人企業統計 調査(令和7年4～6月期) 報 道 発 表 財務省 PDF https://www.mof.go.jp > ssc > results > r7.4-6.pdf",
+    "url": "https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "報 道 発 表 四半期別 法人企業統計 調査(令和8年1-3月期) - 財務省 — 報 道 発 表 四半期別 法人企業統計 調査(令和8年1-3月期) - 財務省 財務省 PDF https://www.mof.go.jp > ssc > results > r8.1-3.pdf",
+    "url": "https://www.mof.go.jp/pri//reference/ssc/results/r8.1-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "四半期別 法人企業統計調査 (令和7年4～6月期) 報 道 発 表 — 四半期別 法人企業統計調査 (令和7年4～6月期) 報 道 発 表 財務省 PDF https://www.mof.go.jp > ssc > results > r7.4-6.pdf",
+    "url": "https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "報 道 発 表 年次別 法人企業統計調査 (令和6年度) - 財務省 — 報 道 発 表 年次別 法人企業統計調査 (令和6年度) - 財務省 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "報 道 発 表 年 次別 法人企業統計 調査(令和6 年度 ) - 財務省 — 報 道 発 表 年 次別 法人企業統計 調査(令和6 年度 ) - 財務省 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年 次別 法人企業統計 調査(令和 7 年度 ) — 年 次別 法人企業統計 調査(令和 7 年度 ) 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/japan/YR6RTBHAPRLJZHBYM6H2ERSEYM-2026-06-01/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=15222",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri//reference/ssc/results/r8.1-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=8&tclass1=000001049372&second2=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/topics/business-economy/manufacturing/data/annual-data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.600-16.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/tags/series?t=capital%3Bmanufacturing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/manufacturing-business-outlook-survey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/capex.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mof_lfb_hkrk",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "法人企業統計 設備投資 規模別・製造業（財務省） 推移",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.reuters.com/jp/markets/japan/YR6RTBHAPRLJZHBYM6H2ERSEYM-2026-06-01/",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf",
+    "https://www.sangyo-times.jp/article.aspx?ID=15222",
+    "https://www.mof.go.jp/pri//reference/ssc/results/r8.1-3.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/shihyou1-3.html",
+    "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/index.htm"
+   ]
+  },
+  {
+   "query": "法人企業統計 設備投資 規模別・製造業（財務省） 調査結果 pdf",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf",
+    "https://www.reuters.com/jp/markets/japan/YR6RTBHAPRLJZHBYM6H2ERSEYM-2026-06-01/",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/index.htm",
+    "https://www.sangyo-times.jp/article.aspx?ID=15222",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r7.pdf",
+    "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00350600&tstat=000001047744&cycle=8&tclass1=000001049372&second2=1"
+   ]
+  },
+  {
+   "query": "法人企業統計 設備投資 規模別・製造業（財務省） 年度 実施割合",
+   "results": [
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.reuters.com/jp/markets/japan/YR6RTBHAPRLJZHBYM6H2ERSEYM-2026-06-01/",
+    "https://www.sangyo-times.jp/article.aspx?ID=15222",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r7.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "https://www.mof.go.jp/pri/reference/ssc/index.htm",
+    "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "https://www.e-stat.go.jp/stat-search/files?toukei=00350600"
+   ]
+  },
+  {
+   "query": "MOF financial statements statistics capex by size manufacturing",
+   "results": [
+    "https://www.mof.go.jp/english/pri/reference/ssc/historical.htm",
+    "https://www.census.gov/topics/business-economy/manufacturing/data/annual-data.html",
+    "https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.600-16.pdf?",
+    "https://fred.stlouisfed.org/tags/series?t=capital%3Bmanufacturing",
+    "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/manufacturing-business-outlook-survey",
+    "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/capex.html",
+    "https://www.federalreserve.gov/releases/g17/related_data/manuf_invest_capital.htm",
+    "https://www.investopedia.com/terms/c/capitalexpenditure.asp",
+    "https://pacificblueengineering.com/manufacturing-capex-formula-success/"
+   ]
+  },
+  {
+   "query": "site:note.com 法人企業統計 設備投資 規模別・製造業（財務省）",
+   "results": [
+    "https://note.com/hirokimiyano/n/n529d77e1fc8d",
+    "https://note.com/todobuono/n/n65c9b0ae1659",
+    "https://note.com/toushi_matome/n/n8981ab140b11",
+    "https://note.com/todobuono/n/nf24f908a788c",
+    "https://note.com/trex_ai/n/n9f2735f3874a",
+    "https://note.com/todobuono/n/n3d820e832449",
+    "https://note.com/lucky_bee22/n/n11700548f130",
+    "https://note.com/chaka689/n/n86cf80b9d55d",
+    "https://note.com/shoji_orihara/n/n2dfaf07e2998",
+    "https://note.com/chic_deer1160/n/n69df2434bb0e"
+   ]
+  },
+  {
+   "query": "site:x.com 法人企業統計 設備投資 規模別・製造業（財務省）",
+   "results": [
+    "https://x.com/Kohei127_/status/2111004703886577940",
+    "https://x.com/mof_lfb_hkrk",
+    "https://x.com/cao_keizai",
+    "https://x.com/nomura_jp/all",
+    "https://x.com/GAMBEJP/status/2116552887652532253",
+    "https://x.com/luigi_jpn/status/2068492463703277851",
+    "https://x.com/KagawaTomo/article/2080578592044724258",
+    "https://x.com/i/article/2111601840731353193",
+    "https://x.com/luigi_jpn/article/2081337512191291655",
+    "https://x.com/luigi_jpn/status/2068838341773332641"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 法人企業統計 設備投資 規模別・製造業（財務省）",
+   "results": [
+    "https://www.linkedin.com/posts/hubei-talent_%E8%8D%86%E6%A5%9A%E4%BA%A7%E4%B8%9A-%E6%B9%96%E5%8C%97%E4%B8%80%E6%9D%9F%E5%85%89%E8%B7%A8%E8%B6%8A%E5%9F%8E%E9%99%85%E7%85%A7%E4%BA%AE%E4%B8%80%E7%89%87%E4%BA%A7%E4%B8%9A-one-beam-of-light-activity-7504080869381382145-GPLW",
+    "https://jp.linkedin.com/pulse/%E3%82%B4%E3%83%AB%E3%83%95%E3%83%8D%E3%83%83%E3%83%88%E7%94%A3%E6%A5%AD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B4%9E%E5%AF%9F%E5%B8%82%E5%A0%B4%E3%81%AE%E8%B2%A1%E5%8B%99%E7%8A%B6%E6%B3%81%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%8A%E3%82%88%E3%81%B32033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%8F%8E%E7%9B%8A%E5%88%86%E6%9E%90-mews-metric-hqrxe",
+    "https://jp.linkedin.com/in/anhuioss",
+    "https://jp.linkedin.com/pulse/%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E3%83%AA%E3%83%99%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E7%8E%87%E3%81%AB%E5%BD%B1%E9%9F%BF%E3%82%92%E4%B8%8E%E3%81%88%E3%82%8B%E8%A6%81%E5%9B%A02026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE82-cagr-surge-scale-tzvoe",
+    "https://jp.linkedin.com/in/kemtch",
+    "https://jp.linkedin.com/in/kazuji-nakazato",
+    "https://jp.linkedin.com/in/%E5%92%8C%E5%8D%9A-%E5%A4%A7%E5%9D%AA-2967081ab",
+    "https://jp.linkedin.com/pulse/%E5%9C%B0%E5%9F%9F%E5%88%A5%E3%81%AE%E9%96%8B%E7%99%BA%E5%B1%95%E9%96%8B%E3%81%8A%E3%82%88%E3%81%B3%E7%94%9F%E7%94%A3%E3%82%B3%E3%82%B9%E3%83%88%E6%9C%88%E9%A4%85%E5%85%85%E5%A1%AB%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026-2033%E9%A9%9A%E7%95%B0%E7%9A%84%E3%81%AAcag-ndtve",
+    "https://jp.linkedin.com/pulse/%E3%83%86%E3%83%AC%E3%82%B3%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A5%AD%E7%95%8C%E6%88%A6%E7%95%A5%E3%81%A8%E6%A9%9F%E4%BC%9A2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr%E3%81%AF121%E3%81%A7%E3%81%99-ledger-lumen-xe6te",
+    "https://jp.linkedin.com/pulse/%E6%B6%B2%E4%BD%93%E5%86%B7%E5%8D%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E8%A6%8F%E6%A8%A1%E3%81%A8%E7%AF%84%E5%9B%B2%E3%81%AE%E5%88%86%E6%9E%90-2026-2033%E5%B9%B4%E4%BC%81%E6%A5%AD%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A8%E4%BA%88%E6%B8%AC%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr43-klyvionx-1mnae"
+   ]
+  },
+  {
+   "query": "site:facebook.com 法人企業統計 設備投資 規模別・製造業（財務省）",
+   "results": [
+    "https://www.facebook.com/tnstorg/?locale=zh_TW",
+    "https://www.facebook.com/yoshitakakitao/posts/5%E5%B9%B42%E3%83%B5%E6%9C%88%E3%81%B6%E3%82%8A%E5%86%86%E5%AE%89%E6%B0%B4%E6%BA%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A62013%E5%B9%B412%E6%9C%8816%E6%97%A5-1434%E5%85%88%E9%80%B1%E9%87%91%E6%9B%9C%E6%97%A5%E3%81%AE%E6%9D%B1%E4%BA%AC%E5%A4%96%E5%9B%BD%E7%82%BA%E6%9B%BF%E5%B8%82%E5%A0%B4%E3%81%A7%E3%83%89%E3%83%AB%E5%86%86%E3%81%AF%E5%B9%B4%E5%88%9D%E6%9D%A5%E9%AB%98%E5%80%A410374%E5%86%86%E3%82%92%E7%AA%81%E7%A0%B410392%E5%86%86%E3%81%BE%E3%81%A7%E4%B8%8A%E6%98%87%E3%81%97%E3%81%A62008/553085381446153/",
+    "https://www.facebook.com/paramix.public/",
+    "https://www.facebook.com/nihonmiraiken/",
+    "https://www.facebook.com/public/Neoster-Global-Inc-Reviews/",
+    "https://www.facebook.com/tnstorg/posts/%E6%9C%AC%E4%B8%AD%E5%BF%83%E6%96%BC5%E6%9C%8822%E6%97%A5%E8%88%89%E8%BE%A6%E8%87%BA%E6%97%A5%E6%AC%A1%E4%B8%96%E4%BB%A3%E9%80%9A%E8%A8%8A%E6%8A%80%E8%A1%93%E7%99%BC%E5%B1%95%E8%88%87%E5%89%B5%E6%96%B0%E6%87%89%E7%94%A8%E7%A0%94%E8%A8%8E%E6%9C%83-%E5%85%89%E9%9B%BB%E8%9E%8D%E5%90%88%E7%A7%91%E6%8A%80%E4%B9%8B%E6%96%B0%E8%B6%A8%E5%8B%A2%E6%9C%83%E4%B8%AD%E9%82%80%E8%AB%8B%E5%88%B0%E6%97%A5%E6%9C%AC%E7%9F%A5%E5%90%8D%E9%80%9A%E8%A8%8A%E5%A4%A7%E6%89%8Bntt%E7%9A%84iown%E6%8E%A8%E9%80%B2%E5%AE%A4%E8%8D%92%E9%87%91%E9%99%BD%E5%8A%A9yosuke-arag/1035548582014038/",
+    "https://www.facebook.com/groups/1169347120648777/",
+    "https://www.facebook.com/VUC2021/",
+    "https://www.facebook.com/bioforestation/",
+    "https://www.facebook.com/groups/1620152684904062/"
+   ]
+  },
+  {
+   "query": "法人企業統計 設備投資 規模別・製造業（財務省） note 社長",
+   "results": [
+    "https://www.reuters.com/jp/markets/japan/YR6RTBHAPRLJZHBYM6H2ERSEYM-2026-06-01/",
+    "https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf",
+    "https://note.com/hirokimiyano/n/n529d77e1fc8d",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.nikkei.com/article/DGKKZO98531170R00C26A9EP0000/",
+    "https://www.mof.go.jp/public_relations/finance/202505/202505j.html",
+    "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "https://www.sangyo-times.jp/article.aspx?ID=13801",
+    "https://note.com/todobuono/n/n3d820e832449",
+    "https://www.mof.go.jp/pri/reference/ssc/index.htm"
+   ]
+  },
+  {
+   "query": "法人企業統計 設備投資 規模別・製造業（財務省） X 投稿",
+   "results": [
+    "https://www.reuters.com/jp/markets/japan/YR6RTBHAPRLJZHBYM6H2ERSEYM-2026-06-01/",
+    "https://www.mof.go.jp/pri/reference/ssc/results/data.htm",
+    "https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf",
+    "https://www.sangyo-times.jp/article.aspx?ID=15222",
+    "https://www.nikkei.com/article/DGXZQOUA0234P0S6A300C2000000/",
+    "https://www.youtube.com/watch?v=Dof0cGIFz6g",
+    "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "https://x.com/ReutersJapan/status/2061262162215973239",
+    "https://www.mof.go.jp/pri/reference/ssc/index.htm",
+    "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/"
+   ]
+  },
+  {
+   "query": "MOF financial statements statistics capex by size manufacturing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/kit-yu-27753534_september-pmis-sep-30we-expect-the-nbs-activity-7509292157602639872-GVeF",
+    "https://www.linkedin.com/posts/neelkanth-mishra-46629b_gdp-base-revision-size-smaller-but-growth-activity-7501071343602487297-TVnQ",
+    "https://www.linkedin.com/in/anirudh-nagaraj",
+    "https://uz.linkedin.com/in/umidjon-shorakhimov-7b9864261",
+    "https://mn.linkedin.com/in/eldev-ochir-enkhjargal-cfa-aa3270259",
+    "https://www.linkedin.com/in/phaneeshgopisetty",
+    "https://in.linkedin.com/in/ujjwal-singh-2361a823",
+    "https://my.linkedin.com/in/shawn-wong-a8701297",
+    "https://www.linkedin.com/in/nicholas-kelly-51a206102",
+    "https://www.linkedin.com/in/robertmdelucia"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "実施割合・計画割合": [
+   {
+    "quote": "4〜6月法人企業、設備投資1.6%増 6四半期連続プラス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "財務省が1日発表した4〜6月期の法人企業統計によると、全産業（金融・保険業除く）のソフトウエアを含む設備投資は前年同期比で1.6%増の13兆250億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "季節調整済みの前期比でみると、設備投資は1.5%増で2四半期ぶりのプラスとなった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業は前年同期比で4.7%増だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は3.7%減だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経常利益は24.6%増の44兆6668億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業が57.0%増と大きく伸びた",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸送用機械は為替の影響で50.6%増えた",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業は9.8%増えた",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サービス業が15.1%増と全体をけん引した",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業の売上高は5.9%増の393兆9377億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業が6.1%、非製造業が5.9%それぞれ増えた",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の統計も公表し、経常利益は前年度比で8.8%増の124兆8313億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内部留保にあたる利益剰余金は2.7%増の654兆8228億円となった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1〜3月法人企業、経常利益14.6%増 6四半期連続のプラス",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注の1〜3月6.4％増、2四半期連続プラス 3月単月は9.4%減",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上位1%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "下位50%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上位0.1%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中間層（資産上位10〜50%）が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上位1%が保有する株式・投資信託の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資産上位1〜10%が保有する純資産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上位1%が保有する不動産の割合（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上位1%が保有する純資産額（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "下位50%が保有する純資産額（米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-12.2%",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "+13.7%",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "機械受注": [
+   {
+    "quote": "さらに１～２四半期程度の先行性を有する機械受注統計も",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資源価格上昇によるコスト増加や内外需要の減退による売上高減少などを背景として、７－９月期の経常利",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まではみられなかったが、90 年代後半以降、売上高輸出比率が高い、つまり外需依存度が高い業種ほど設備",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間住宅、公的固定資本形成とした）の時差相関係数をみると、90 年代前半以前は、設備投資に対する内需",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料10 国内需要の設備投資に対する時差相関",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料11 実質設備投資と実質機械受注（前年同期比）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実質設備投資 実質機械受注（１四半期先行）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注4〜6月0.2％増、3四半期連続プラス データセンター関連好調",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注の1〜3月6.4％増、2四半期連続プラス 3月単月は9.4%減",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "AIが使えなくなる日 「デジタル安全保障」確保せよ",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "正解なきデジタル主権論への「現実解」 日本企業へ5つの提言",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観 雇用人員判断DI（人手不足業種別）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "小学校 ICT整備状況（デジタル教科書・大型提示装置・PC台数）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中学校 ICT整備状況（デジタル教科書・大型提示装置・PC台数）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高等学校 ICT整備状況（デジタル教科書・大型提示装置・PC台数）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デジタル収支 通信・著作権等使用料（月次）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "近年は製造業でのデジタル・自動化投資やソフトウェア投資が増加しており、業種ごとの投資構造変化も読み取れます",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア投資は全規模共通で近年増加傾向にあり、デジタル化の進展度を示す指標としても参照されます",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア投資の動向はデジタル化の進展を示す指標としても注目されています",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "土地投資額とは？ソフトウェア投資額とは？研究開発投資額とは？の解説も掲載",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計の四半期別調査の公表日は3月・6月・9月・12月ですので、公表に合わせてデータ更新されます",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データ更新の際は、当サイト「株式マーケットデータ」の”更新情報”のページや公式X（旧ツイッター）等でお知らせします",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2026年11月6日更新）",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "月に一度/週に一度更新される重要指標のデータ更新情報をお知らせしています",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "毎営業日データ更新される指標は、こちらでのお知らせなく各ページで更新されます",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "著名投資家のポートフォリオの最新データ更新（2026Q2）",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "S&P500のPBRのデータ更新を再開しました（2023年4Q以降のデータは改定値に置き換わりました）",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の掲載開始！毎営業日更新される的中率・精度が非常に高い指標です",
+    "url": "https://stock-marketdata.com/investment-in-plant-and-equipment-japan",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "また、日銀短観（12 月調査）の設備投資計画（2008 年度）をみると、前年度比▲",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008 年７－９月期の実質民間設備投資は前期比▲2.0％（４－６月期：同▲2.1％）と２四半期連続の減少",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である（資料２）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資源価格上昇によるコスト増加や内外需要の減退による売上高減少などを背景として、７－９月期の経常利",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "益は前年同期比▲22.4％と５四半期連続の減少となっており、収益の悪化が加速している（資料３）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資を増加させている関係性が現れている（資料７、８）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を参照））別に場合分けした上で、それらを更に企業規模（資本金の規模）別に場合分けを行っている（具体的に分析作業では、ダミー変数として、「除く三大都市」は、東京都、大阪府、愛知県以外の場合は１、東京都、大阪府、愛知県の場合は０、「大企業」は「法人季報」における調査客体のうち資本金10億円以上の場合は１、それ以外の場合は０、「中堅企業」は、同じく資本金１億円以上10億円未満の場合は１、それ以外の場合は０、「中小企業」は、同じく資本金１千万円以上１億円未満の場合は１、それ以外の場合は０として処理している",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "財務省が1日発表した4〜6月期の法人企業統計によると、全産業（金融・保険業除く）のソフトウエアを含む設備投資は前年同期比で1.6%増の13兆250億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経常利益は24.6%増の44兆6668億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業の売上高は5.9%増の393兆9377億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の統計も公表し、経常利益は前年度比で8.8%増の124兆8313億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内部留保にあたる利益剰余金は2.7%増の654兆8228億円となった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、非製造業も同＋7.7％と4四半期連続の増加と堅調が続いています",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の2014年1-3月期の経常利益は前年同月比＋5.4％と伸びは鈍化したものの、2012年10-12月期以降、6四半期連続で増加となりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年4-6月期までの3四半期は、売上高は減収ながら、円高是正の効果やコスト削減などにより増益を確保していましたが、2013年7-9月期以降は売上高の増加を伴い増益となりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、全体の約7割を占める非製造業の2014年1-3月期の経常利益は同＋28.2％と伸びが加速し、売上高も同＋5.6％と4四半期連続で増加しました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 2千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 5千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 1億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2千万円以上 - 5千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5千万円以上 - 1億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1億円以上 - 10億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年: 12,821,363百万円（全規模）財務省「法人企業統計調査」の最新公表値であり、詳しい内訳はページ上部のグラフ・データテーブルで確認できます",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資が前年比で増加に転じた年は、企業が将来の需要拡大を見込んでいるシグナルであり、製造業は大規模設備のため投資決定から完工まで1〜3年かかることが多いです",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1億円以上10億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上1億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 2千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 5千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1千万円以上 - 1億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2千万円以上 - 5千万円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5千万円以上 - 1億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1億円以上 - 10億円未満",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年 4～6月期: 12,821,363百万円（全規模）財務省「法人企業統計調査」の最新公表値であり、詳しい内訳はページ上部のグラフ・データテーブルで確認できます",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年比がプラスに転じると企業が将来の成長に強気であるシグナルで、通常は6〜12ヶ月後の生産能力拡大につながります",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金1千万円以上の法人企業を対象とし、業種・規模別にサンプリングされた企業から財務データを収集しています",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "財務省 北陸財務局 (@mof_lfb_hkrk) / X 財務省 北陸財務局 (@mof_lfb_hkrk) / X X https://x.com > mof_lfb_hkrk",
+    "url": "https://x.com/mof_lfb_hkrk",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "作成時点で、第一生命経済研究所経済調査部が信ずるに足る",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、日銀短観（12 月調査）の設備投資計画（2008 年度）をみると、前年度比▲",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）内閣府「国民経済計算」 （出所）日本銀行「全国企業短期経済観測調査」",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3月調査 6月調査 9月調査 12月調査 実績見込 実績",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である（資料２）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計季報をみると、原油など",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）財務省「法人企業統計季報」 （出所）財務省「法人企業統計季報」",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）日本銀行「全国企業短期経済観測調査」により当社作成 （出所）日本銀行「全国企業短期経済観測調査」により当社作成",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料７ 業種別設備投資と売上高輸出比率 （82-94年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料８ 業種別設備投資と売上高輸出比率 （95-07年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2009 年度にかけては輸出の減少が続くと見込まれることなどから、設備",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）内閣府「国民経済計算」、「機械受注統計調査」 （出所）内閣府「国民経済計算」、経済産業省「稼働率指数」",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融機能が企業の設備投資に与える影響を分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推計した都道府県数は47地域、推計期間は2013～2019年度第１四半期である",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業の設備投資が売上高に与える影響を分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業の設備投資が従業員数に与える影響を分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "付注2-4 年度別における企業の設備投資と資金借入に関する分析について",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融機能が企業の設備投資に与える影響を年度別に分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を参照）、推計期間は2003～2018年度である（本分析では、「法人季報」では一部の調査客体（企業）が年度を境に交代となり、複数年度でのパネル分析は行えないことから、年度別に推計を行っている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、年度内での推計期間は、第２四半期（７－９月期）から第４四半期（１－３月期）までとなっている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を参照））別に場合分けした上で、それらを更に企業規模（資本金の規模）別に場合分けを行っている（具体的に分析作業では、ダミー変数として、「除く三大都市」は、東京都、大阪府、愛知県以外の場合は１、東京都、大阪府、愛知県の場合は０、「大企業」は「法人季報」における調査客体のうち資本金10億円以上の場合は１、それ以外の場合は０、「中堅企業」は、同じく資本金１億円以上10億円未満の場合は１、それ以外の場合は０、「中小企業」は、同じく資本金１千万円以上１億円未満の場合は１、それ以外の場合は０として処理している",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表２ 年度別の企業の設備投資と金融機関からの長期資金借入にかかる推定結果",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "健康が地域経済を活性化させるなら、どのような地域資源が健康度を高めるかについて、内閣府「生活の質に関する調査（2012年度）」の１時点のミクロデータを用いて、以下のモデルについて推計を行った",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計調査 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計調査は、わが国における営利法人等の企業活動の実態を把握するため、標本調査として実施されている統計法に基づく基幹統計調査です",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査の結果は、「年次別調査」は9月に、「四半期別調査」は3月、6月、9月、12月に発表しています",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "■法人企業統計調査附帯調査(「リース取引に関する会計基準」の適用について)",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "財務省が1日発表した4〜6月期の法人企業統計によると、全産業（金融・保険業除く）のソフトウエアを含む設備投資は前年同期比で1.6%増の13兆250億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計は上場企業に限らず日本企業全体の動向を調べている",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の統計も公表し、経常利益は前年度比で8.8%増の124兆8313億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "卵はやはり1日1個まで？ 名医が回答",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ミドル転職、専門家に聞く初めの一歩 ～ウーマノミクス調査から",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【キーワード No.1,342】「法人企業統計」、製造業の設備投資が加速（日本）／マーケット情報・レポート － 三井住友DSアセットマネジメント | 三井住友DSアセットマネジメント",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【キーワード No.1,342】「法人企業統計」、製造業の設備投資が加速（日本）",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1．「法人企業統計」とは？",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "四半期毎に実施される「季報調査」と、年に一度実施される「年報調査」があります",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2日、財務省は「2014年1-3月期の法人企業統計」を発表しました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計調査 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計調査は、わが国における営利法人等の企業活動の実態を把握するため、標本調査として実施されている統計法に基づく基幹統計調査です",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査の結果は、「年次別調査」は9月に、「四半期別調査」は3月、6月、9月、12月に発表しています",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特定非営利活動法人及び市民の社会貢献に関する実態調査",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "低年齢層の子供のインターネット利用環境実態調査",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "などを背景に、輸送機械、電気機械、一般機械など輸出産業が設備投資を牽引してきた",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料７ 業種別設備投資と売上高輸出比率 （82-94年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料８ 業種別設備投資と売上高輸出比率 （95-07年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "付注2-3 企業の従業員数と設備投資に関する分析について",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業の設備投資が従業員数に与える影響を分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "）の個票データから各都道府県から構成されるパネルデータを構築し、各都道府県の従業員数をそれぞれの設備投資額が説明するモデルで推定した",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "変数に関して、「従業員数」は、「法人季報」における当期の従業員数の前年同期比、「設備投資額」は、「法人季報」における当期の「土地」、「その他の有形固定資産」、「建設仮勘定」、「無形固定資産（ソフトウェア）」の合計額の前年同期比である",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表２ 企業の設備投資と従業員数にかかる推定結果",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を参照））別に場合分けした上で、それらを更に企業規模（資本金の規模）別に場合分けを行っている（具体的に分析作業では、ダミー変数として、「除く三大都市」は、東京都、大阪府、愛知県以外の場合は１、東京都、大阪府、愛知県の場合は０、「大企業」は「法人季報」における調査客体のうち資本金10億円以上の場合は１、それ以外の場合は０、「中堅企業」は、同じく資本金１億円以上10億円未満の場合は１、それ以外の場合は０、「中小企業」は、同じく資本金１千万円以上１億円未満の場合は１、それ以外の場合は０として処理している",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸送用機械は為替の影響で50.6%増えた",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自動車を含む輸送用機械や食料品、生産用機械などが2桁の伸びとなりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年最新】日本の法人企業統計 設備投資推移グラフ（業種別・年次）| 経済まるみえ",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観 雇用人員判断DI（人手不足業種別）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "銀行の貸出態度（中小企業向け・SLOOS・米国・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本の法人企業統計 設備投資推移グラフ（業種別・年次）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "、規模別の年次データは",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計の設備投資（業種別・年次）とは何ですか？",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計 設備投資推移グラフ（業種別・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年最新】日本の法人企業統計 設備投資推移グラフ（事業者規模別・四半期）| 経済まるみえ",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本の法人企業統計 設備投資推移グラフ（事業者規模別・四半期）",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業・中小企業など事業者規模別の投資動向を1994年以降の長期データで比較できます",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア投資含む・含まないの調査項目切り替えにも対応しており、業種別フィルタリングも可能です",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や、業種別の詳しい内訳は",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業は設備投資額が大きく景気サイクルとの連動が強い一方、中小企業は設備投資に慎重で特に金利上昇・需要不透明時に抑制されやすい傾向があります",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計の設備投資額（事業者規模別）とは何ですか？",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "財務省・財務総合政策研究所が四半期ごとに公表する法人企業統計調査の設備投資額データを、大企業・中小企業など事業者規模別に比較できるページです",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業と中小企業で設備投資に違いはありますか？",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金1千万円以上の法人企業を対象とし、業種・規模別にサンプリングされた企業から財務データを収集しています",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "景気分析、業種別の投資トレンド把握、政策立案の参考資料として幅広く利用されています",
+    "url": "https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "また、日銀短観（12 月調査）の設備投資計画（2008 年度）をみると、前年度比▲",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ると考えられ、企業収益は引き続き減少傾向で推移する可能性が高い",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である（資料２）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料７ 業種別設備投資と売上高輸出比率 （82-94年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料８ 業種別設備投資と売上高輸出比率 （95-07年度）",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "られ、企業収益は引き続き減少傾向で推移する可能性が高い",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2009 年度にかけては輸出の減少が続くと見込まれることなどから、設備",
+    "url": "https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推計した都道府県数は47地域、推計期間は2013～2019年度第１四半期である",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "付注2-4 年度別における企業の設備投資と資金借入に関する分析について",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融機能が企業の設備投資に与える影響を年度別に分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を参照）、推計期間は2003～2018年度である（本分析では、「法人季報」では一部の調査客体（企業）が年度を境に交代となり、複数年度でのパネル分析は行えないことから、年度別に推計を行っている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、年度内での推計期間は、第２四半期（７－９月期）から第４四半期（１－３月期）までとなっている",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表２ 年度別の企業の設備投資と金融機関からの長期資金借入にかかる推定結果",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上記分析ではパネルデータ分析を行ったが、健康寿命のデータが2010年以降しかなく、資本や労働に用いたデータが2012年までとなっているため、分析は2012年単年のクロスデータ分析に限られる",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "健康が地域経済を活性化させるなら、どのような地域資源が健康度を高めるかについて、内閣府「生活の質に関する調査（2012年度）」の１時点のミクロデータを用いて、以下のモデルについて推計を行った",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026-09-01",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012-06-01",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001047744",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の統計も公表し、経常利益は前年度比で8.8%増の124兆8313億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 世界の注目都市",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日経優秀製品・サービス賞2025",
+    "url": "https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年6月4日",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2日、財務省は「2014年1-3月期の法人企業統計」を発表しました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は2012年10-12月期以来、4四半期マイナスが続いていましたが、これで2四半期連続のプラスとなりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の2014年1-3月期の経常利益は前年同月比＋5.4％と伸びは鈍化したものの、2012年10-12月期以降、6四半期連続で増加となりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年4-6月期までの3四半期は、売上高は減収ながら、円高是正の効果やコスト削減などにより増益を確保していましたが、2013年7-9月期以降は売上高の増加を伴い増益となりました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、全体の約7割を占める非製造業の2014年1-3月期の経常利益は同＋28.2％と伸びが加速し、売上高も同＋5.6％と4四半期連続で増加しました",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業収益は円高是正の効果が一巡するものの、国内外の景気回復により、底堅く推移する見通しです",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年5月21日",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【デイリー No.1,870】最近の指標から見る日本経済（2014年5月）／マーケット情報・レポート － 三井住友DSアセットマネジメント",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年5月15日",
+    "url": "https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026-09-01",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350600",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "報 道 発 表 年次別 法人企業統計 調査(令和6年度) - 財務省 — 報 道 発 表 年次別 法人企業統計 調査(令和6年度) - 財務省 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "四半期別 法人企業統計 調査(令和7年4～6月期) 報 道 発 表 — 四半期別 法人企業統計 調査(令和7年4～6月期) 報 道 発 表 財務省 PDF https://www.mof.go.jp > ssc > results > r7.4-6.pdf",
+    "url": "https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "報 道 発 表 四半期別 法人企業統計 調査(令和8年1-3月期) - 財務省 — 報 道 発 表 四半期別 法人企業統計 調査(令和8年1-3月期) - 財務省 財務省 PDF https://www.mof.go.jp > ssc > results > r8.1-3.pdf",
+    "url": "https://www.mof.go.jp/pri//reference/ssc/results/r8.1-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "四半期別 法人企業統計調査 (令和7年4～6月期) 報 道 発 表 — 四半期別 法人企業統計調査 (令和7年4～6月期) 報 道 発 表 財務省 PDF https://www.mof.go.jp > ssc > results > r7.4-6.pdf",
+    "url": "https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "報 道 発 表 年次別 法人企業統計調査 (令和6年度) - 財務省 — 報 道 発 表 年次別 法人企業統計調査 (令和6年度) - 財務省 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "報 道 発 表 年 次別 法人企業統計 調査(令和6 年度 ) - 財務省 — 報 道 発 表 年 次別 法人企業統計 調査(令和6 年度 ) - 財務省 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年 次別 法人企業統計 調査(令和 7 年度 ) — 年 次別 法人企業統計 調査(令和 7 年度 ) 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/results/r7.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T03:14:38.569166+00:00"
+}

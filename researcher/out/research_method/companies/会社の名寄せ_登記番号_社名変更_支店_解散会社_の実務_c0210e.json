@@ -1,0 +1,569 @@
+{
+ "name": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務",
+ "en": "company entity resolution registry identifiers name changes branches dissolved",
+ "aliases": [
+  "blog.opencorporates.com entity resolution",
+  "OpenCorporates entity resolution data aggregators",
+  "company registry matching name change"
+ ],
+ "context": "同一性",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:52:21.796239+00:00",
+ "evidence": {
+  "実例": [
+   {
+    "quote": "Typical examples include:",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity Verification Case Study Compendium",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Case study: How a large US bank re-checks the businesses on its book against the secretary of state",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "This article will explore the two most important assets in entity resolution – primary and secondary identifiers. It will cover their differences, their importance, and best practices for using them in an entity resolution framework.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity resolution is the method of determining when different records from one or more data sources refer to the same entity. In a corporate context, these entities could be companies, businesses, or other organisations. Entity resolution helps organisations:",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity resolution addresses these risks. It uses strong data matching and classification methods. At the heart of these procedures lie",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Assign match confidence scores based on how many primary and secondary identifiers match. This approach ensures a risk-based method, where higher-risk entities face deeper checks.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Can you really trust your data? Here’s how to find out",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to check data coverage and freshness in OpenCorporates",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Filings such as annual reports, corporate bylaws, or statements of control.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Check if the matched records align on secondary attributes—do the addresses, operational details, or official filings match?",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5.3 Regulatory filings and audits",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "– like addresses and corporate filings – are vital. They add context that strengthens risk assessments and reveals hidden links.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/ichi_twnovel/n/n6451222506bb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aozora7kumo7kaze/n/n779f261b24a6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kanai_sho/n/nff1ff5d30eac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sr_mako/n/n611995af6f74",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lucky_mimosa791/n/ne14151d62c5d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/real_ram9758/n/n52ba2cf56d2e?sub_rt=share_pb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/koutekisouken01/n/nd640a3454158",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B/%E6%94%AF%E5%BA%97%E7%99%BB%E8%A8%98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shi_sunao/n/n4c4b4b842eeb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%91%E6%A5%AD-%E5%BB%83%E6%A5%AD-%E8%A7%A3%E6%95%A3-%E6%95%B4%E7%90%86-%E5%86%8D%E5%BB%BAtop/%E4%BA%8B%E6%A5%AD%E3%82%92%E5%BB%83%E6%AD%A2%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AA%E3%82%89%E5%B1%8A%E5%87%BA%E3%81%9B%E3%82%88%E3%81%A8%E3%81%AE%E9%80%9A%E7%9F%A5%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E6%96%B9-%E3%81%BF%E3%81%AA%E3%81%97%E8%A7%A3%E6%95%A3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cherub.jp/notes/entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asakonet.co.jp/column/detail-7293/company-name-change-procedures-registration-flow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://houmukyoku.moj.go.jp/homu/touki2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://homare.tax/company-name-change-procedures/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiodome.co.jp/js/blog/4997",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-nagoyaka.com/2016/02/08/%E8%A7%A3%E6%95%A3%E7%99%BB%E8%A8%98-%E6%B8%85%E7%AE%97%E7%B5%90%E4%BA%86%E7%99%BB%E8%A8%98%E3%81%A8%E6%94%AF%E5%BA%97%E3%81%AE%E7%99%BB%E8%A8%98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shogyohoumu-partner.com/%E6%94%AF%E5%BA%97%E3%81%AE%E7%99%BB%E8%A8%98/%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AE%E7%99%BB%E8%A8%98%E7%94%B3%E8%AB%8B%E6%96%B9%E6%B3%95-%E6%94%AF%E5%BA%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.ai-con.lawyer/articles/company-name-change",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.office-yoshida.net/column/column_028.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%91%E6%A5%AD-%E5%BB%83%E6%A5%AD-%E8%A7%A3%E6%95%A3-%E6%95%B4%E7%90%86-%E5%86%8D%E5%BB%BAtop/%E3%81%BF%E3%81%AA%E3%81%97%E8%A7%A3%E6%95%A3%E3%81%8B%E3%82%89%E3%81%AE%E4%BC%9A%E7%A4%BE%E7%B6%99%E7%B6%9A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://harusouzoku.com/report/kaiketuzirei_06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiodome.co.jp/js/blog/10278",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legalforest.livedoor.blog/archives/24298129.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enigma.com/resources/knowledge/glossary/entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docket.capital/glossary/entity-resolution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://winpure.com/entity-resolution-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amlwatcher.com/blog/entity-resolution-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tigergraph.com/blog/entity-resolution-is-broken-heres-how-graph-fixes-it/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 site:note.com",
+   "results": [
+    "https://note.com/ichi_twnovel/n/n6451222506bb",
+    "https://note.com/aozora7kumo7kaze/n/n779f261b24a6",
+    "https://note.com/kanai_sho/n/nff1ff5d30eac",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "https://note.com/lucky_mimosa791/n/ne14151d62c5d",
+    "https://note.com/manaworks_axdx/n/n5f4f961cffb2",
+    "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://note.com/cute_peony965/n/n356d7d9ecfaa"
+   ]
+  },
+  {
+   "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 note",
+   "results": [
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://note.com/real_ram9758/n/n52ba2cf56d2e?sub_rt=share_pb",
+    "https://note.com/koutekisouken01/n/nd640a3454158",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B/%E6%94%AF%E5%BA%97%E7%99%BB%E8%A8%98/",
+    "https://note.com/shi_sunao/n/n4c4b4b842eeb",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%91%E6%A5%AD-%E5%BB%83%E6%A5%AD-%E8%A7%A3%E6%95%A3-%E6%95%B4%E7%90%86-%E5%86%8D%E5%BB%BAtop/%E4%BA%8B%E6%A5%AD%E3%82%92%E5%BB%83%E6%AD%A2%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AA%E3%82%89%E5%B1%8A%E5%87%BA%E3%81%9B%E3%82%88%E3%81%A8%E3%81%AE%E9%80%9A%E7%9F%A5%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E6%96%B9-%E3%81%BF%E3%81%AA%E3%81%97%E8%A7%A3%E6%95%A3/",
+    "https://note.com/kanai_sho/n/nff1ff5d30eac",
+    "https://cherub.jp/notes/entity-resolution/",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "https://eigyo-go.com/blog/corporate-number-change-tracking"
+   ]
+  },
+  {
+   "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 やり方",
+   "results": [
+    "https://www.asakonet.co.jp/column/detail-7293/company-name-change-procedures-registration-flow/",
+    "https://houmukyoku.moj.go.jp/homu/touki2.html",
+    "https://homare.tax/company-name-change-procedures/",
+    "https://shiodome.co.jp/js/blog/4997",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B/%E6%94%AF%E5%BA%97%E7%99%BB%E8%A8%98/",
+    "https://www.s-nagoyaka.com/2016/02/08/%E8%A7%A3%E6%95%A3%E7%99%BB%E8%A8%98-%E6%B8%85%E7%AE%97%E7%B5%90%E4%BA%86%E7%99%BB%E8%A8%98%E3%81%A8%E6%94%AF%E5%BA%97%E3%81%AE%E7%99%BB%E8%A8%98/",
+    "https://www.shogyohoumu-partner.com/%E6%94%AF%E5%BA%97%E3%81%AE%E7%99%BB%E8%A8%98/%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AE%E7%99%BB%E8%A8%98%E7%94%B3%E8%AB%8B%E6%96%B9%E6%B3%95-%E6%94%AF%E5%BA%97/",
+    "https://yagi-jimusho.com/kaishatouki/shougouhenkou.html",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide"
+   ]
+  },
+  {
+   "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 事例",
+   "results": [
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B/%E6%94%AF%E5%BA%97%E7%99%BB%E8%A8%98/",
+    "https://corporate.ai-con.lawyer/articles/company-name-change",
+    "https://www.s-nagoyaka.com/2016/02/08/%E8%A7%A3%E6%95%A3%E7%99%BB%E8%A8%98-%E6%B8%85%E7%AE%97%E7%B5%90%E4%BA%86%E7%99%BB%E8%A8%98%E3%81%A8%E6%94%AF%E5%BA%97%E3%81%AE%E7%99%BB%E8%A8%98/",
+    "https://shiodome.co.jp/js/blog/4997",
+    "https://www.office-yoshida.net/column/column_028.htm",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%91%E6%A5%AD-%E5%BB%83%E6%A5%AD-%E8%A7%A3%E6%95%A3-%E6%95%B4%E7%90%86-%E5%86%8D%E5%BB%BAtop/%E3%81%BF%E3%81%AA%E3%81%97%E8%A7%A3%E6%95%A3%E3%81%8B%E3%82%89%E3%81%AE%E4%BC%9A%E7%A4%BE%E7%B6%99%E7%B6%9A/",
+    "https://harusouzoku.com/report/kaiketuzirei_06.html",
+    "https://shiodome.co.jp/js/blog/10278",
+    "https://legalforest.livedoor.blog/archives/24298129.html",
+    "https://corporate.ai-con.lawyer/articles/company-name-change/5"
+   ]
+  },
+  {
+   "query": "company entity resolution registry identifiers name changes branches dissolved",
+   "results": [
+    "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "https://www.enigma.com/resources/knowledge/glossary/entity-resolution/",
+    "https://docket.capital/glossary/entity-resolution",
+    "https://winpure.com/entity-resolution-guide/",
+    "https://amlwatcher.com/blog/entity-resolution-guide/",
+    "https://www.tigergraph.com/blog/entity-resolution-is-broken-heres-how-graph-fixes-it/",
+    "https://www.reddit.com/r/analytics/comments/1vdx99e/entity_resolution_across_jurisdictions_why/",
+    "https://www.sigma360.com/how-entity-resolution-solves-for-rapidly-growing-risk-data-challenges/",
+    "https://senzing.com/entity-resolution-explained/",
+    "https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/"
+   ]
+  },
+  {
+   "query": "site:note.com 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務",
+   "results": [
+    "https://note.com/ichi_twnovel/n/n6451222506bb",
+    "https://note.com/s_o_0517/n/nfdbc0952ffca",
+    "https://note.com/sakaimisato/n/nf27719c00e5e",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://note.com/kanai_sho/n/nff1ff5d30eac",
+    "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "https://note.com/manaworks_axdx/n/n5f4f961cffb2",
+    "https://note.com/cute_peony965/n/n356d7d9ecfaa",
+    "https://note.com/lucky_mimosa791/n/ne14151d62c5d"
+   ]
+  },
+  {
+   "query": "site:x.com 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務",
+   "results": [
+    "https://x.com/mhimt/status/2117740102218916004",
+    "https://x.com/e_patent/status/2037752844573606155",
+    "https://jf.x.com/images/media-preview/2095739000309027085",
+    "https://jf.x.com/images/media-preview/2098941900715855954",
+    "https://x.com/kigyoulist/status/2108920610042855467",
+    "https://x.com/hhayashiss/status/2068967239894843745",
+    "https://x.com/Kadono_W/status/2046504051907735993",
+    "https://x.com/WorkX0927/status/2104330241959174443"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務",
+   "results": [
+    "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
+    "https://www.linkedin.com/posts/ntt-com-online_2025128開催セミナー名寄せの本質と実践-mdm実務者のための再入門-activity-7277261975917621250-eVin",
+    "https://jp.linkedin.com/posts/datarobot-japan_datarobot-codespaceでllmを活用した名寄せ処理をやってみた-activity-7298587463697014784-zCK7",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7362794827819728896/",
+    "https://de.linkedin.com/in/dr-med-bea-merscher-8ab267126",
+    "https://jp.linkedin.com/posts/nakajimakaichi_最近クライアントとのアポ準備の中で社名表記について考えることがありました-activity-7417030246056734720-UkJC",
+    "https://jp.linkedin.com/posts/yoshitaka-araki-8922569b_会社設立のご報告-20241021月に登記書類を出してきまして無事に-activity-7261710933771583488-nNOd"
+   ]
+  },
+  {
+   "query": "site:facebook.com 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務",
+   "results": [
+    "https://www.facebook.com/gvacorporate/posts/会社の商号変更社名変更における株主総会議事録の書き方という記事を掲載しましたhttpscorporateai-conlawyerarticlescompany-/1145342772929704/",
+    "https://www.facebook.com/tenroin/photos/丨-社名変更株式会社-海の出版社第２の起業2025年10月15日に開催された臨時株主総会で正式に承認され天狼院書店の運営会社の会社名が東京プライズエージェンシー/1240532124774247/",
+    "https://www.facebook.com/shouwanews/posts/登記小六法で知られる桂林書院は株式会社桂林書院と社名変更しホームページを開設しました新聞集成昭和編年史を刊行してきた有限会社新聞資料出版は株式会社桂林書院と社名/657610426407257/",
+    "https://www.facebook.com/HakusanInc/posts/社名変更本社登記移転および子会社合併のご案内謹啓-時下ますますご清栄のこととお慶び申し上げます平素は格別のご高配を賜り厚く御礼申し上げますさて-弊社は１０月１日/1150145435033016/",
+    "https://www.facebook.com/photo/?fbid=24244019468608975",
+    "https://is-is.facebook.com/humanite2103.co.jp/posts/補足-不動産について財産開示の名寄せについても東京法務局が指定-令和３年５月１日施行予定民事執行法昭和５４年法律第４号以下改正法という第２０５条第１項において債/4145556572122312/",
+    "https://www.facebook.com/100057489668461/posts/備忘録ノートその3登記の現場改め消滅会社被合併会社の会社法人等番号についてa登記上の抵当権者a商号変更b合併1抵当権抹消の前提として合併による抵当権移転が必要2/1887009914769829/"
+   ]
+  },
+  {
+   "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 note 社長",
+   "results": [
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://note.com/real_ram9758/n/n52ba2cf56d2e?sub_rt=share_pb",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B/%E6%94%AF%E5%BA%97%E7%99%BB%E8%A8%98/",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E7%B5%84%E7%B9%94%E5%86%8D%E7%B7%A8/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%81%8B%E3%82%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/",
+    "https://www.anamachigroup.com/%E5%80%8B%E4%BA%BA%E5%90%91%E3%81%91/%E7%84%A1%E6%96%99-%E6%A5%BD%E3%81%97%E3%81%8F%E4%BD%9C%E3%82%8B%E5%88%86%E5%86%8A%E5%9E%8B%EF%BD%B4%EF%BE%9D%EF%BE%83%EF%BE%9E%EF%BD%A8%EF%BE%9D%EF%BD%B8%EF%BE%9E%EF%BE%89%EF%BD%B0%EF%BE%84/%EF%BD%B4%EF%BE%9D%EF%BE%83%EF%BE%9E%EF%BD%A8%EF%BE%9D%EF%BD%B8%EF%BE%9E%EF%BE%89%EF%BD%B0%EF%BE%84%E7%95%AA%E5%A4%96-%E4%BB%BB%E3%81%9B%E3%81%9F-%E7%B7%A8/",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%91%E6%A5%AD-%E5%BB%83%E6%A5%AD-%E8%A7%A3%E6%95%A3-%E6%95%B4%E7%90%86-%E5%86%8D%E5%BB%BAtop/%E4%BA%8B%E6%A5%AD%E3%82%92%E5%BB%83%E6%AD%A2%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AA%E3%82%89%E5%B1%8A%E5%87%BA%E3%81%9B%E3%82%88%E3%81%A8%E3%81%AE%E9%80%9A%E7%9F%A5%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E6%96%B9-%E3%81%BF%E3%81%AA%E3%81%97%E8%A7%A3%E6%95%A3/",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%91%E6%A5%AD-%E5%BB%83%E6%A5%AD-%E8%A7%A3%E6%95%A3-%E6%95%B4%E7%90%86-%E5%86%8D%E5%BB%BAtop/%E5%90%88%E5%90%8D%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E4%BA%BA%E3%81%97%E3%81%8B%E3%81%84%E3%81%AA%E3%81%84%E7%A4%BE%E5%93%A1%E3%81%8C%E6%AD%BB%E5%8E%BB%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AE%E6%89%8B%E7%B6%9A-%E6%B3%95%E5%AE%9A%E6%B8%85%E7%AE%97/",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E6%B3%95%E9%81%95%E5%8F%8D%E4%BA%8B%E4%BB%B6-%E9%81%B8%E4%BB%BB%E6%87%88%E6%80%A0-%E7%99%BB%E8%A8%98%E6%87%88%E6%80%A0-%E3%81%B8%E3%81%AE%E5%8D%B3%E6%99%82%E6%8A%97%E5%91%8A-%E7%95%B0%E8%AD%B0%E7%94%B3%E7%AB%8B/",
+    "https://corpsta.com/blog/025-what-is-name-aggregation/",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide"
+   ]
+  },
+  {
+   "query": "会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務 X 投稿",
+   "results": [
+    "https://www.moj.go.jp/MINJI/MINJI50/minji50-01.html",
+    "https://shiodome.co.jp/js/blog/4997",
+    "https://shiodome.co.jp/js/blog/10278",
+    "https://start-link.jp/hubspot-ai/ai/ai-crm-strategy/company-data-deduplication-guide",
+    "https://eigyo-go.com/blog/corporate-number-change-tracking",
+    "https://corpsta.com/blog/025-what-is-name-aggregation/",
+    "https://www.salesdock.jp/blog/nayose-excel-houjin-bangou",
+    "https://gomumari.com/knowledge/houjin-bangou-nayose/",
+    "https://claudecode-cases.com/cases/vendor-master-deduplication-claude-code-2026/",
+    "https://atsoho.com/blog/company-name-change-registration"
+   ]
+  },
+  {
+   "query": "company entity resolution registry identifiers name changes branches dissolved site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/jobs/view/general-counsel-at-good-carbon-co-4469311972",
+    "https://www.linkedin.com/pulse/online-company-registration-turkey-turkey-company-registry-qpcpf",
+    "https://www.linkedin.com/in/marc-cunningham-019b06b",
+    "https://uk.linkedin.com/in/choileo",
+    "https://www.linkedin.com/pulse/analysis-privacy-trustworthiness-manusim-francesco-faenzi-sruif",
+    "https://www.linkedin.com/in/sylvia-ho-94360116",
+    "https://in.linkedin.com/in/kundan-lal-57128316",
+    "https://www.linkedin.com/pulse/key-changes-uaes-federal-decree-law-10-2025-amluae-vwqqf",
+    "https://www.linkedin.com/posts/huanjohnsonkoh_people-ask-me-fairly-often-whether-singapores-activity-7511379789413339137-P1X6",
+    "https://ng.linkedin.com/in/shamsudeen-abu-lili-968028137"
+   ]
+  }
+ ],
+ "missing": {
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "Typical examples include:",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity Verification Case Study Compendium",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Case study: How a large US bank re-checks the businesses on its book against the secretary of state",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "This article will explore the two most important assets in entity resolution – primary and secondary identifiers. It will cover their differences, their importance, and best practices for using them in an entity resolution framework.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity resolution is the method of determining when different records from one or more data sources refer to the same entity. In a corporate context, these entities could be companies, businesses, or other organisations. Entity resolution helps organisations:",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity resolution addresses these risks. It uses strong data matching and classification methods. At the heart of these procedures lie",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Assign match confidence scores based on how many primary and secondary identifiers match. This approach ensures a risk-based method, where higher-risk entities face deeper checks.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Can you really trust your data? Here’s how to find out",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to check data coverage and freshness in OpenCorporates",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Filings such as annual reports, corporate bylaws, or statements of control.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Check if the matched records align on secondary attributes—do the addresses, operational details, or official filings match?",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5.3 Regulatory filings and audits",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "– like addresses and corporate filings – are vital. They add context that strengthens risk assessments and reveals hidden links.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T02:52:21.796239+00:00"
+}

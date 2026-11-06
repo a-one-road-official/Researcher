@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・86品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・95品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5206,38 +5206,40 @@
 ## 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）（source triangulation matrix independence scoring）
 - 文脈：裏取り
 - 手順・やり方：
-  - 「学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓ [1/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀 [2/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「「徳と祈りへの特化型（権力と権威の完全分離）」」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠 [3/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️⭐️ [4/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀🌀 [5/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「人類の歴史において、権力構造が「第一機能＋第二機能の統合型」へ収斂・融合しやすいのには、主に3つの力学的理由が存在します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「2. 世界史における「融合型（多数派）」と「分化型（少数派）」の対比」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「明治維新から太平洋戦争期にかけての「大日本帝国憲法」下では、それまでの分化を解消し、「大元帥（第二機能）にして神聖不可侵（第一機能）」という西洋・大陸型の「第一＋第二機能の融合」」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「第一機能と第二機能の分離が不十分な国家（権力集中型の権威主義国家）では、行政権が司法や立法を飲み込み、「第二機能が第一機能の顔をして暴走する」状態に陥ります」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「創業者・オーナー社長による独裁型企業中国の皇帝制、絶対王政、独裁国家意思決定は極めて迅速だが、トップの暴走や判断ミスを内部で修正できず、一瞬で倒産・失脚するリスク（易姓革命型）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️⭐️ [4/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀🌀 [5/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「現代社会における「グローバル資本と国家権力の関係」や「巨大企業によるガバナンスと法・倫理の変容」を読み解くうえでも、この「三機能の動態と第三機能による浸食」というフレームワークは、極めて深い洞察と分析力を与えてくれる分析軸であるといえます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「「印欧語族の三機能」という古代の神話的・社会構造的フレームを、現代の「複雑系システム論・データサイエンス」へアップデートするきわめて筋の良いモデル」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「How to Verify Claims Through Independent Sources」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Step 1:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Step 2:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Step 3:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Step 4:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Step 5:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Step 6:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Ethnography & Qualitative Research Methods」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
+  - 「method_transparency_note」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
+  - 「Country Policy and Information Notes: Purpose, Methodology and Use」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
+  - 「The Home Office methodology names 'false corroboration' (several sources citing one primary source) as a hazard to avoid; it does not describe an independence-counting matrix or balance check.」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
+  - 「Ethnography & Qualitative Research Methods」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
+  - 「methodological triangulation」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
+  - 「It is the backbone of incident postmortems, mixed-method research, and outbreak reconstruction.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
+  - 「A claims-by-sources matrix operationalizes methodological triangulation: each conclusion is checked against evidence produced through more than one source or method. CDC explicitly defines triangulation as cross-verification using multiple sources and methods; statistics supplies formal comparison.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
 - 突き合わせ・推定：
-  - 「学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓ [1/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀 [2/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「ユーザーの仮説（相乗効果論）をさらに深掘りするにあたり、歴史学や政治学においてはどの要素を最も重視するかによっていくつかの説に分かれます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠 [3/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「これらについては、三機能仮説における、第一機能と第二機能が、分化したまま成立するのか、集約されてしまうのか、というダイナミクスとの対比としても、ある程度、アナロジー的に成立するのでしょうか？」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「ユーザーのご指摘は、ジョルジュ・デュメジルの「印欧語族の三機能仮説（Three-functions hypothesis）」の視点を巧みに応用した、極めて鋭い比較社会学・比較神話学的アナロジー（比喩的対比）です」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「結論から申し上げますと、三機能仮説における「第一機能（主権・神聖・法）」」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「まず、デュメジルの三機能仮説における各機能は以下の通り定義されます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「デュメジルの三機能仮説を日本社会や天皇制に応用する試みは、吉田敦彦や吉田禎吾らの比較神話学者によっても議論されてきました」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️⭐️ [4/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀🌀 [5/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「ユーザーのご指摘は、近現代の憲法学・政治哲学（法社会学）における「権力分立論」と「デュメジルの三機能仮説」を高度にブリッジさせた、非常に鋭い構造的考察です」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「1. 三権分立と「三機能仮説」の対応関係」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「「行政＝強制力・武力・執行（第二機能的）」という分離の構造は、三権分立の近代的ロジックと三機能仮説を結ぶアナロジーとして非常にクリアに成立します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+  - 「superbasic-research/standards/triangulation-mapping-guide.md at main · iamstefanp/superbasic-research · GitHub」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「triangulation-mapping-guide.md」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Triangulation Mapping: Claim Validation Visual Logic」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「What Is Triangulation Mapping?」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Triangulation mapping shows」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「✓ Strong triangulation (multiple independent sources, different」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「⚠ Weak triangulation (multiple sources, same persona/bias)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「❌ No triangulation (single-sourced claims)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Text-Based Triangulation Map (For Reports)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Triangulation Quality:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Visual Triangulation Diagram (For Training/Analysis)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Compare to FALSE triangulation:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Triangulation Matrix (For Full Report)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Claims 1 & 4: strong triangulation (3–4 sources, multiple personas)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Claims 2 & 5: weak triangulation (2 sources, limited persona」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
 - 一次情報の探し方：
+  - 「. GOV.UK (2026). Warns that multiple sources may create false corroboration when they repeat the same primary source.」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
+  - 「The Home Office methodology names 'false corroboration' (several sources citing one primary source) as a hazard to avoid; it does not describe an independence-counting matrix or balance check.」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
   - 「平成・令和の「公的な祈り」と高い人間性の規範：」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「これらについては、歴史的な傾向性としても、純粋に分化したまま成立するケースは、統計的には少数派なのでしょうか？（自然に融合しやすい傾向性がある？）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「結論から申し上げますと、比較政治学・比較歴史学・社会人類学などの見地において、「第一機能（神聖・権威・法）」と「第二機能（武力・軍事・実効支配）」が長期間にわたって純粋に分化したままシステムとして安定し続けたケースは、世界史的・統計的に極めて「少数派（稀有な例外）」と評価されます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
@@ -5251,9 +5253,10 @@
   - 「**自己点検は機能しておらず、採用しない** |」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「T6「統計的には少数派**なのでしょうか？**」、T20「ある程度分類できてしまう、ということでも**あるのでしょうか？**」——どちらも疑問文です」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「存在しない統計を肯定し分類を断定したのは AI です」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「「7. 留保」については、基本的に古代に遡るほど、文献学的な記録がそもそもパピルスや羊皮紙などによって、遺物として残りにくいという問題や、記録として作成されるものが一部の公的文書に限定されることなどがあるため、原理的にこの要求水準を満たすことができないため、この手法で扱えるのは、中世以降、あるいは近代以降に限定されるのでしょうか？」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「約10,450個人の人名を悉皆入力し、1名ごとに言語系統を判定した統計研究」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
 - 失敗・落とし穴：
+  - 「⚠ Weak triangulation (multiple sources, same persona/bias)」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Do sources have different potential biases?」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Common Triangulation Mistakes」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
   - 「もし経営者（第二機能）が「株主（第一機能）」を兼ねて絶対的権力を握る場合（創業者ワンマン企業など）、事業上の失敗や不祥事はそのまま「会社の存在正統性の全否定（破滅）」に直結します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「第一機能（株主総会）と第二機能（経営陣）を分化させておくことで、「経営陣（第二機能）が失敗した場合は、正統性の所有者（第一機能）が経営陣を差し替える（解任する）」という自己修復・自浄作用が機能します」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「② 「けがれ（現場の泥臭さ・失敗）」からの隔離」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
@@ -5266,10 +5269,13 @@
   - 「2. **固有名詞の破損**: Turn 15 の「**第七沙**」は**第五琦（だいごき）**の誤り」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「しかし誤りは、その最良スコアを付けたTurn 6・15・20・21に集中しています」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「**誤りの分布には明確な法則があります**: 日本史部分（Turn 1-3）にはほぼ誤りがなく、比較文明論・一般理論（Turn 4-21）に集中しています」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「→ 再検証し、**6件の具体的誤り**（第五琦の破損／塩利7割／オランダ公国／ブータン／簡体字U+8BBAの混入／キャンベルの通俗化）を追加検出」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「| **3. 有用性** | **4.5 / 5** | 正誤表だけでなく、誤りの分布法則・ラベルの較正不全・改善手順を提供 |」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「A・Bが確定させた誤り（第五琦・塩利7割・アダルベロン・トマス・ライリー・マリヤンヌ・簡体字混入）を**1件も独自検出していない**」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
 - 実例：
+  - 「Example of FALSE independence:」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「Example: Full Triangulation Map」（https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md）
+  - 「: do the supporting sources share an origin, a coordinator, or a common failure mode — in which case their agreement is one voice, not many?」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
+  - 「Arraying claims against independent source types to detect echoed rather than genuine corroboration is qualitative triangulation. GAO case-study guidance explicitly uses evidence matrices and multiple sources to corroborate findings and expose limitations.」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
+  - 「GAO, Case Study Evaluations: Triangulation and Evidence Matrices」（https://abstractopedia.org/mechanisms/source_triangulation_matrix/）
+  - 「," "supplier S is common to all cases" — becomes a row; each source stream a column.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
   - 「単なる古代復古にとどまらず、西洋的「文明国」の君主としてふさわしい道徳性を身につけることが求められた結果、天皇・皇室は「国家最高レベルの道徳・人間性の体現者」としてのロールモデルへと再定義されました」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「[一般知識 / 知識再生]政治・武力闘争に敗北し続けた結果、**「政治権力を完全に失うことで逆に純粋な道徳・人道性のシンボル化が進む」**という独自の進化」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「印欧語系国家の多くは、王が第一機能と第二機能を自らに「集約」しようとした結果、暴政化するか、王朝交代（革命や処刑）を招く歴史を辿りました」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
@@ -5279,12 +5285,8 @@
   - 「多くの場合、実権者が王を排除して融合を図りますが、日本のケースは「実権者（武家）側があえて神聖王を不可侵の存在として棚上げ（無力化・神聖化）し続けた」という極めて特異なシステム的安定に成功した例とみなされます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「「純粋に分化したまま数百年にわたって持続し、最終的に高潔な道徳・人間性の象徴へと結晶化したケース」は、比較史的に見ても極めて稀少で特異な歴史的帰結（少数派）であるといえます」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
   - 「中世ヨーロッパにおける教皇（第一機能）と皇帝（第二機能）の権力闘争（カノッサの屈辱等）の歴史的展開を、現代企業における株主（第一機能）と経営陣（第二機能）の泥沼の対立・ガバナンス不全の事例と対比して解説してください」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「両者の歴史的展開と現代的企業事例を対比しながら、ガバナンスの構造的破綻メカニズムを解説いたします」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「結果として組織は空転し、長期的な企業価値低下（内乱状態）を招いた末に、最終的に司法の判断やガバナンスコードの改定によって「所有と経営の厳密な分界線」を強固に引き直すことになります」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「3. 歴史的・現代的の具体的アプローチ（事例）」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「歴史的にも、この「ヴァイシャによる国家（第1・第2機能）の浸食・間接支配」は鮮やかな事例を残しています」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「[一般知識 / 推論合成（一般）] その結果、外部からの武力侵略や内部からの暴動（危機発生）に耐えられなくなり、再び第二機能（強権的な軍事独裁・強権政治）や第一機能（宗教的・思想的ファンダメンタリズム）への強力な先祖返り（揺り戻し）を巻き起こすことになります」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
-  - 「史実における「資本流出と国家の衰退」の事例」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
+- 検索結果の抜粋：
+  - 「Triangulation Matrix - The Encyclopedia of Abstractions — Sep 14, 2026 · Triangulation Matrix Template — instantiates Source Provenance Triangulation Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
 
 ## 専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り）（expert interview triangulation evidence weight insiders social desirability bias）
 - 文脈：裏取り
@@ -5496,3 +5498,334 @@
   - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
 - 突き合わせ・推定：記載なし（読んだ32頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ32頁・検索12回）
+
+## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
+- 文脈：突き合わせ
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）（entity resolution evaluation precision recall F1 ground truth pairs）
+- 文脈：同一性
+- 手順・やり方：
+  - 「The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「how to evaluate entity resolution systems (Binette et al., 2024)」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「How to Evaluate Entity Resolution Systems:」（https://arxiv.org/pdf/2404.05622）
+  - 「An Entity-Centric Framework with Application to」（https://arxiv.org/pdf/2404.05622）
+  - 「ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-」（https://arxiv.org/pdf/2404.05622）
+  - 「and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology」（https://arxiv.org/pdf/2404.05622）
+  - 「that integrates with a unified framework for monitoring summary statistics, estimating key performance」（https://arxiv.org/pdf/2404.05622）
+  - 「date the framework in an application to inventor name disambiguation and through simulation studies.」（https://arxiv.org/pdf/2404.05622）
+  - 「methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding」（https://arxiv.org/pdf/2404.05622）
+  - 「evaluation framework with the following components.」（https://arxiv.org/pdf/2404.05622）
+  - 「4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-」（https://arxiv.org/pdf/2404.05622）
+  - 「Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,」（https://arxiv.org/pdf/2404.05622）
+  - 「without considering its specific architecture. This allows our framework to apply to any entity resolution」（https://arxiv.org/pdf/2404.05622）
+- 突き合わせ・推定：
+  - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such」（https://arxiv.org/pdf/2404.05622）
+  - 「tain estimates that are representative of the system’s performance on the entire data set, not just the」（https://arxiv.org/pdf/2404.05622）
+  - 「Estimates (§3.4)」（https://arxiv.org/pdf/2404.05622）
+  - 「computed for predictions, while their true value for a ground truth clustering can be estimated using labeled」（https://arxiv.org/pdf/2404.05622）
+  - 「or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error」（https://arxiv.org/pdf/2404.05622）
+  - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
+  - 「with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:」（https://arxiv.org/pdf/2404.05622）
+  - 「Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were」（https://arxiv.org/pdf/2404.05622）
+  - 「results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey」（https://arxiv.org/pdf/2404.05622）
+  - 「querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the」（https://arxiv.org/pdf/2404.05622）
+  - 「files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of」（https://arxiv.org/pdf/2404.05622）
+  - 「variance of estimated linkage propensities.」（https://arxiv.org/pdf/2404.05622）
+- 失敗・落とし穴：
+  - 「commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to」（https://arxiv.org/pdf/2404.05622）
+  - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
+  - 「The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the」（https://arxiv.org/pdf/2404.05622）
+  - 「bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy」（https://arxiv.org/pdf/2404.05622）
+  - 「adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include」（https://arxiv.org/pdf/2404.05622）
+  - 「reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.」（https://arxiv.org/pdf/2404.05622）
+  - 「ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always」（https://arxiv.org/pdf/2404.05622）
+  - 「less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the」（https://arxiv.org/pdf/2404.05622）
+  - 「In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-」（https://arxiv.org/pdf/2404.05622）
+  - 「cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias」（https://arxiv.org/pdf/2404.05622）
+  - 「Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past」（https://arxiv.org/pdf/2404.05622）
+  - 「precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.」（https://arxiv.org/pdf/2404.05622）
+  - 「of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially」（https://arxiv.org/pdf/2404.05622）
+  - 「The pitfall of using an arbitrary measure is that diﬀerent」（https://vldb.org/pvldb/vol3/R18.pdf）
+- 実例：
+  - 「By use case and by industry.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Data showcases and customer case studies.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「tied to your use case rather than a single universal cutoff, and a real-time API such as」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「The two error types pull in opposite directions, so a confidence threshold is a deliberate trade-off. The table summarises that trade-off; every formula and use-case below is carried verbatim from the full explanation that follows.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Missing matches is costly — e.g. customer database deduplication, or identifying potential fraud where missing a case is worse」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「When developing an entity resolution system, you might tune your matching thresholds or rules based on whether precision or recall is more important for your use case. For instance:」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Example use case: Identifying potential fraud cases where missing a fraudulent transaction is worse than flagging a legitimate one for review」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Example use case: Automated merging of patient medical records where incorrect matches could cause serious problems」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Using our previous example: With precision = 89% and recall = 80%:」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「A common production pattern scores each candidate pair and routes it by confidence: pairs above an accept threshold auto-merge, pairs below a reject threshold are auto-dismissed, and the ambiguous middle band goes to a human review queue — which preserves precision on hard cases while keeping throughput high.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「Can you give a worked precision, recall and F1 example?」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
+  - 「numerous yet small. For example, entity resolution is used for the identification of unique inventors listed」（https://arxiv.org/pdf/2404.05622）
+  - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
+  - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
+  - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
+- 文脈：出どころ
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事（analytic tradecraft key assumptions check indicators alternative hypotheses blog）
+- 文脈：分析の技法
+- 手順・やり方：
+  - 「How To Use These Techniques .................................................................................. 5」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「HOW TO USE THESE TECHNIQUES」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「step process will help analysts:」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「other structured methods explained later」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「possible next steps for further research」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Like other contrarian methods, “What If?”」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「stepping back to consider what alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「to step outside their normal analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「A two-phase, twelve-step, structured」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「managers—are reluctant to change. Rather than trying to ft ideas into the framework of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「next steps for analysis.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「and contextual framework. By recasting the」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「• It provides a broader analytic framework」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「a more advanced analytic methods course and usually require substantial commitments of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「political causes of some predictable surprises and outlines steps to overcome them.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+- 突き合わせ・推定：
+  - 「Availability. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Anchoring. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「certainty into a probability estimate, people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「goal-maximizing policy is overestimated.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「You overestimate high-profile events.」（https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques）
+- 一次情報の探し方：
+  - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysed and related to the joint analysis steps in the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「coordinating and facilitating collaborative data processes, notably profiling coordinators,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「be structured and planned as part of a displacement profiling process. The utility of certain」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「a profiling exercise or a joint needs assessment.31」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysis processes in profiling or joint needs assessments. A description of each technique is」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cognitive_biases_march_2016.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「apr09.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「3rd%20Edition.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+- 失敗・落とし穴：
+  - 「treatment of cognitive bias found in the Sherman」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Cognitive and perceptual biases in」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Common Perceptual and Cognitive Biases」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Biases in Evaluating Evidence」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Biases in Estimating Probabilities」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Biases in Perceiving Causality」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「bias, “analysis can be improved.”3」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「common mistakes that can lead to」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「free of his or her cognitive biases without」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「to good analysis and provides techniques for overcoming mind-sets and cognitive biases.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「increased objectivity and reduced bias.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+- 実例：
+  - 「example, the extent to which other people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「or example, military analysis may focus」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「these forces actually fght?). In this case,」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「might fuctuate. All of these examples」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「a good example of how this technique could have been applied. After the initial furry of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「accurately. In the case of HUMINT , this will」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「builds a more concrete case for the analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「when it is important to make a case that a」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「hypotheses—in some cases, analysts」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「hypotheses. In the latter case, the evidence can」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「case, explore what could account for」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「best possible case for an alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「In some cases, the analyst or a team」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「merits of each case, pose questions back」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+
+## 会社の名寄せ（登記番号・社名変更・支店・解散会社）の実務（company entity resolution registry identifiers name changes branches dissolved）
+- 文脈：同一性
+- 手順・やり方：
+  - 「This article will explore the two most important assets in entity resolution – primary and secondary identifiers. It will cover their differences, their importance, and best practices for using them in an entity resolution framework.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Entity resolution is the method of determining when different records from one or more data sources refer to the same entity. In a corporate context, these entities could be companies, businesses, or other organisations. Entity resolution helps organisations:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Entity resolution addresses these risks. It uses strong data matching and classification methods. At the heart of these procedures lie」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「: Assign match confidence scores based on how many primary and secondary identifiers match. This approach ensures a risk-based method, where higher-risk entities face deeper checks.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Can you really trust your data? Here’s how to find out」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「How to check data coverage and freshness in OpenCorporates」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+- 一次情報の探し方：
+  - 「Filings such as annual reports, corporate bylaws, or statements of control.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Check if the matched records align on secondary attributes—do the addresses, operational details, or official filings match?」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「5.3 Regulatory filings and audits」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「– like addresses and corporate filings – are vital. They add context that strengthens risk assessments and reveals hidden links.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+- 失敗・落とし穴：
+  - 「Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+- 実例：
+  - 「Typical examples include:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Entity Verification Case Study Compendium」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Case study: How a large US bank re-checks the businesses on its book against the secretary of state」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+
+## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
+- 文脈：統計
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
+
+## ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）（evaluating web main text extraction boilerplate removal precision recall）
+- 文脈：抽出
+- 手順・やり方：
+  - 「Online order: https://classic.ntis.gov/help/order-methods/」（https://www.osti.gov/servlets/purl/2429881）
+  - 「Main content extraction is a method to isolate the relevant content from a webpage and remove」（https://www.osti.gov/servlets/purl/2429881）
+  - 「several methods that have been developed to do this, including several Python and Java libraries.」（https://www.osti.gov/servlets/purl/2429881）
+  - 「Annotation Methodology」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
+  - 「approaches. Heuristic methods, used in tools like Readability」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「learning methods, such as those in Boilerpipe [4] and BoilerNet」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「Bevendorff et al. show that while no single method outperforms」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「a given threshold. We tested thresholds from 0.1 to 0.5 (step 0.1),」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「Keywords: Main Content Extracti on, Evaluation Methods, Boilerplate Detection, Right to Left Languages.」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「Information retrieval (IR) methods are used to store」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「(MCE) methods help control the amount of」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「and then explain the methods in (3). In (4), we will」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「(Chakrabarti et al., 2007) proposed a method to detect」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「page-level templates on web pages. The method」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「et al., 2007) proposed a method to enhance search」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+- 一次情報の探し方：
+  - 「https://readability.readthedocs.io/_/downloads/en/latest/pdf/」（https://www.osti.gov/servlets/purl/2429881）
+  - 「using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+- 失敗・落とし穴：
+  - 「[3] under multilingual conditions. We first identified biases in exist-」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「configured not to extract comments, which can introduce a bias in」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+- 実例：
+  - 「allow you to control which elements of the webpage are extracted. For example, you can select for」（https://www.osti.gov/servlets/purl/2429881）
+  - 「for Summarization (with Examples)," Dev.to, 2023. Available: https://dev.to/aws-」（https://www.osti.gov/servlets/purl/2429881）
+  - 「summarization-with-examples-jjg.」（https://www.osti.gov/servlets/purl/2429881）
+  - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
+  - 「depend heavily on human expertise to craft these rules. Examples」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「tag patterns, or word frequencies. For example, Boilerpipe [4]」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「form part of the main content. For example, Readability employs」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「[9] Karl Pearson. 1895. VII. Note on regression and inheritance in the case of two」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「for key, example in ex_iterable:」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
+  - 「"https://example.com/page"」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+
+## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
+- 文脈：検証
+- 手順・やり方：
+  - 「<p>Sorting in Google Sheets is <a href="https://www.youtube.com/watch?v=7nwp0fYm99w&amp;list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq&amp;index=6">surprisingly straightforward</a> — and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「— and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「How to interrogate AI regulations」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「How to make a donation to The Journalist’s Resource」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+- 失敗・落とし穴：
+  - 「<p>Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data <em>not</em> tell you?</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>“Not paying attention to the top left corner is the easiest mistake you will make, and it can end careers,” warns Thompson. “You want to always keep your data tied to other lines and rows, so you need to highlight the whole kit-and-caboodle. Don’t ever sort only a single column; always use the top left hand corner — it should be like tying your shoes.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「“Every journalist will make a mistake — it’s all about being smart about making sure you never make that mistake again, and about being transparent with your audience,” says」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「at American University. “But you can certainly minimize the chance of mistakes.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「This simple mistake is nevertheless a perennial problem — and can end up accidentally misleading audiences. “If something jumps from 20 to 30%, that’s actually a 50% increase, not a 10% increase — that can be tricky, and important to pay attention to,” explains Sunne. Data experts stress that」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
+- 文脈：統計
+- 手順・やり方：
+  - 「statistics on how to interpret the results of a revision analys es for economic variable s」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「this document for other sophisticated / specific user methods.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「aware of changes to compilation methods that may have occurred over time to the」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3 The task-force has made recommendations on how to build a database of „real-time‟ data required for」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「expect a non-zero mean revision, such as the impact of methodological or definitional changes which may」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「iii) The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and co-ordinated way.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「Blue Book 2025 sees revisions across the time periods for the new data and methods to estimate research and development, and the implementation of the next phase of the globalisation work to improve estimates of multinational business. Blue Book 2025 also incorporated unplanned revisions because of the correction of」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「our full range of information in a supply and use (SUTs) framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「. The main improvements include redesigned statistical bulletins and updated methodology pages, and replacing existing quality and methodology information reports (QMIs), all aimed at helping users better understand and interpret our statistics.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+  - 「GDP quality and methodology information (QMI)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+- 突き合わせ・推定：
+  - 「revision interval for say first published estimates of third quarter and fourth quarter data).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Lt: later estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Pt: preliminary (earlier) estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3.6 What is the average size of revision relative to the estimate itself?」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「that on average earlier releases have been under -estimated (negative sign means over -」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「exists in the earlier estimates. Four possible outcomes have been chosen to describe」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「variable that follows a normal distribution with variance estimate as above, the t -critic」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「estimate and the sign of earlier estimate are the same.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「later estimate also signifies this.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「of the size of the earlier estimates. Aside from the above issue, it is useful as a measure」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+- 一次情報の探し方：
+  - 「http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/20/26/34350524.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/45/29/36561675.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/47/15/40315408.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+- 失敗・落とし穴：
+  - 「revisions are more in one direction than another, suggesting possible bias in the earlier」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「the average size of the revisions, but it cannot provide an indication of directional bias」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「be of limited use (also called “average bias”).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「revision is statistically different from zero which may give an insight of whether a bias 7」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「considering whether there is bias in the revision process (i.e. there may be some degree of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+- 実例：
+  - 「example, a user may be interested in studying revision between first published data and」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「statistical agency publishing the data. For example, if reconciliation with annual data」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「3.5 In the case of growth rates, how often is the later published growth rate in the」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「data points of the time series. For example, 1994Q1 – 2007Q3 represents 55」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「% of positive revisions : it returns the number of cases revised upward as a proportion of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「% of negative revisions: it returns the number of cases revised down ward as a proportion」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「% of zero revisions: it returns the number of cases with null revision as a proportion of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「This is an extreme case of unreliability, although it may be that the change of a small」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「(for example, a given month or quarter) a revision can be defined as」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「. However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
+  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）

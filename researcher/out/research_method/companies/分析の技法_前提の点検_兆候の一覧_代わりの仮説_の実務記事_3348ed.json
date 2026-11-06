@@ -1,0 +1,1714 @@
+{
+ "name": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事",
+ "en": "analytic tradecraft key assumptions check indicators alternative hypotheses blog",
+ "aliases": [
+  "fortunefavorstheprepared.com analytical tradecraft",
+  "structured analytic techniques practitioner blog",
+  "key assumptions check example business"
+ ],
+ "context": "分析の技法",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:54:37.656433+00:00",
+ "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "treatment of cognitive bias found in the Sherman",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Cognitive and perceptual biases in",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Common Perceptual and Cognitive Biases",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Biases in Evaluating Evidence",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Biases in Estimating Probabilities",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Biases in Perceiving Causality",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias, “analysis can be improved.”3",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "common mistakes that can lead to",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "free of his or her cognitive biases without",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to good analysis and provides techniques for overcoming mind-sets and cognitive biases.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "increased objectivity and reduced bias.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "distances intuitive reasoning and its accompanying pitfalls.46",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. Lastly, mental models or cognitive biases must be identified and addressed early on.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cognitive limitations or pitfalls. Below are eight categories, or families, of techniques developed",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "events or indicators can be a pitfall in analysis. In the context of lacking or ambiguous",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pitfalls later on in the process.63 In addition, the indicated time and training required will decrease",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assumptions and biases, as well as to generate new ideas to adapt plans with new information",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "effects of human cognitive limitations and analytic pitfalls 108, techniques can range from simple to",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Structured Analytic Techniques to Mitigate Cognitive Bias.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "through_the_Use_of_Structured_Analytic_Techniques_to_Mitigate_Cognitive_Bias",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ACAPS. (2016). Cognitive Biases. Assessment Capacities Project.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(SATs) are methods for analyzing intelligence and reaching conclusions. They were originally developed by the US government to avoid bias and unchallenged assumptions, and have come to be used by intelligence analysts in a variety of fields, including cyber threat intelligence.",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Review your sources for mistakes or gaps. This prevents your analysis from anchoring to weak data.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Cognitive Bias Reference Table",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As hypotheses form, use Red Team analysis to correct for \"rational actor\" bias or Team A/Team B debates to clarify competing mindsets.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SATs are necessary for professional rigour. Experts are more prone to such biases due to their past success with specific mental models. We tend to perceive what we expect to see. And we often resist change even when new evidence appears. These techniques ensure that our analysis is objective, transparent and our judgements remain credible.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "example, the extent to which other people",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "or example, military analysis may focus",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "these forces actually fght?). In this case,",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "might fuctuate. All of these examples",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Key Assumptions Check: The 2002 DC Sniper Case",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a good example of how this technique could have been applied. After the initial furry of",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "accurately. In the case of HUMINT , this will",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "builds a more concrete case for the analytic",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "when it is important to make a case that a",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "hypotheses—in some cases, analysts",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "hypotheses. In the latter case, the evidence can",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "case, explore what could account for",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "best possible case for an alternative",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In some cases, the analyst or a team",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "merits of each case, pose questions back",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "effective than an individual’s thinking.19 Intelligence analysis, for example, has improved when",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Small groups of eight or fewer individuals, as is typically the case for JSAT sessions, are",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Other considerations include the relationships between techniques. In many cases, techniques",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "questions to begin the process. Examples include:",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "manner, in this case to develop and track the definition process with a sharable modality such as",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "or timeline. For example: “Look for relationships and patterns in the data connecting persons,",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "groups them together into at least four plausible scenarios – best case, worst case, baseline and an",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "CDR Gay, T. N., LCDR Ripley, D. B., & 1/C Fecskovics, A. K. (2012). Use of Case Studies",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and Structured Analytic Techniques in Intel Studies: USCGA Example [PowerPoint slides].",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Miller Beebe, S. (2020). Teaching Structured Analytic Techniques with Cases. Ascendant",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "There are 3 types of techniques, grouped by their purpose: diagnostic, contrarian, and imaginative thinking. Here are the techniques, with examples and descriptions from",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": “Challenging a single, strongly held view or consensus by building the best possible case for an alternative explanation.”",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "How To Use These Techniques .................................................................................. 5",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "HOW TO USE THESE TECHNIQUES",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "step process will help analysts:",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "other structured methods explained later",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "possible next steps for further research",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Like other contrarian methods, “What If?”",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "stepping back to consider what alternative",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to step outside their normal analytic",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A two-phase, twelve-step, structured",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "managers—are reluctant to change. Rather than trying to ft ideas into the framework of",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "next steps for analysis.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and contextual framework. By recasting the",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• It provides a broader analytic framework",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a more advanced analytic methods course and usually require substantial commitments of",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "political causes of some predictable surprises and outlines steps to overcome them.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Delphi Method 37",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "applying an analytical framework specifically developed for this purpose and using the Data",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "analysed and related to the joint analysis steps in the profiling process.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Determining the best structure for an issue to be approached is one of the first steps in its",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Techniques provide a step-by-step process to handle the different parts of an analytical issue.6",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "differences of opinion. Communication is improved as it is guided through a step-by-step",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "referred to as an art when it comes to knowing how to put these pieces together.45 The",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to know which technique to choose when it comes to a joint analysis process? How to",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "examined how this relates to the different steps in the joint analysis process as outlined in JIPS’",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and the three key steps of a joint analysis process. Tasks are diverse and range from defining",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "anticipatory, and prescriptive types of analysis. It also provides an important conceptual framework",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Figure 2. The three key steps of the joint analysis process",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of information from a given context, following an agreed-upon methodology. The purpose of",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Guide describes three key steps in a joint analysis process:",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(SATs) are methods for analyzing intelligence and reaching conclusions. They were originally developed by the US government to avoid bias and unchallenged assumptions, and have come to be used by intelligence analysts in a variety of fields, including cyber threat intelligence.",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Use Structured Analytic Techniques",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "These methods help make your analytic arguments and assumptions clear for everyone to see. They explain the logic behind your judgements and help you find gaps in your information.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "These methods help you develop new viewpoints and imagine different ways a situation might end. They encourage creative thinking by allowing you to step outside your normal habits.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Availability. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Anchoring. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "certainty into a probability estimate, people",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "goal-maximizing policy is overestimated.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "You overestimate high-profile events.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "support to field partners, namely on profiling, and strategic advice on data; consolidates its",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "analysed and related to the joint analysis steps in the profiling process.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "coordinating and facilitating collaborative data processes, notably profiling coordinators,",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be structured and planned as part of a displacement profiling process. The utility of certain",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a profiling exercise or a joint needs assessment.31",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "analysis processes in profiling or joint needs assessments. A description of each technique is",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cognitive_biases_march_2016.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "apr09.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3rd%20Edition.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/fair_clover666/n/n009fc95d09bf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunobuchi/n/n5aadf0175c3e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satoruhiguchi/n/nef38cf36c558",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bizgram/n/n5bde4d5402d1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nn1112/n/n418223ae5249",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jitsuzon/n/ne6d899df2cc6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bunsekiya_tech/n/nd098d6f8c603",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsubasatada/n/nee628bf93a9c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://agenda-note.com/brands/detail/id=3667",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shinu/n/n567c6705ec18",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ashisuto.co.jp/cm/tech-note/analytics/data-analysis-hypothesis-5steps.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ns-japan.com/media/guide/hypothesis-verification-method-steps/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bi.ksc.co.jp/tips/data-utilization/formulating-hypotheses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newrelic.com/jp/blog/observability/performing-effective-root-cause-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sherpaworks.jp/sherpa/hypothesis-verification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project-facilitator.com/hypothesis-testing-cycle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mentena.biz/insight/5-whys-analysis-cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hri-vietnam.com/ja/article/tu-duy-va-giai-quyet-van-de/21/root-cause-analysis-methods-workplace-examples-template",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yachiyo-sol.com/library/kosho-bunseki-seizogyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ils.tokyo/contents/hypothesis-verification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wo6-att/000071988.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/magic_ai7978/n/n6ce1d1cb34f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 site:note.com",
+   "results": [
+    "https://note.com/fair_clover666/n/n009fc95d09bf",
+    "https://note.com/tsunobuchi/n/n5aadf0175c3e",
+    "https://note.com/satoruhiguchi/n/nef38cf36c558",
+    "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://note.com/nn1112/n/n418223ae5249",
+    "https://note.com/tsunobuchi/n/n8a38e368c99c",
+    "https://note.com/tasty_dunlin998/n/nf534ce147ed5",
+    "https://note.com/onomatsu_kenta/n/ne57d2e175e3f",
+    "https://note.com/kagawatomo/n/nb6c0632d2e41"
+   ]
+  },
+  {
+   "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 note",
+   "results": [
+    "https://note.com/jitsuzon/n/ne6d899df2cc6",
+    "https://note.com/bunsekiya_tech/n/nd098d6f8c603",
+    "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
+    "https://note.com/tsubasatada/n/nee628bf93a9c",
+    "https://agenda-note.com/brands/detail/id=3667",
+    "https://note.com/shinu/n/n567c6705ec18",
+    "https://globis.jp/article/dic_s8kn2j6as/",
+    "https://note.com/apple_ringo/n/n05969dd52c74",
+    "https://researchmap.jp/lsdn/presentations/3214723",
+    "https://note.com/magic_ai7978/n/n6ce1d1cb34f2"
+   ]
+  },
+  {
+   "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 やり方",
+   "results": [
+    "https://www.ashisuto.co.jp/cm/tech-note/analytics/data-analysis-hypothesis-5steps.html",
+    "https://ns-japan.com/media/guide/hypothesis-verification-method-steps/",
+    "https://www.bi.ksc.co.jp/tips/data-utilization/formulating-hypotheses",
+    "https://newrelic.com/jp/blog/observability/performing-effective-root-cause-analysis",
+    "https://sherpaworks.jp/sherpa/hypothesis-verification/",
+    "https://project-facilitator.com/hypothesis-testing-cycle/",
+    "https://www.mieruka-engine.com/media/hypothesis",
+    "https://www.screen.co.jp/as/column/column250103",
+    "https://www.gyoukaku.go.jp/ebpm/shien/guidebook2.0_260901.pdf",
+    "https://note.com/magic_ai7978/n/n6ce1d1cb34f2"
+   ]
+  },
+  {
+   "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 事例",
+   "results": [
+    "https://mentena.biz/insight/5-whys-analysis-cases/",
+    "https://hri-vietnam.com/ja/article/tu-duy-va-giai-quyet-van-de/21/root-cause-analysis-methods-workplace-examples-template",
+    "https://www.ashisuto.co.jp/cm/tech-note/analytics/data-analysis-hypothesis-5steps.html",
+    "https://note.com/bunsekiya_tech/n/nd098d6f8c603",
+    "https://newrelic.com/jp/blog/observability/performing-effective-root-cause-analysis",
+    "https://yachiyo-sol.com/library/kosho-bunseki-seizogyo/",
+    "https://ils.tokyo/contents/hypothesis-verification/",
+    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wo6-att/000071988.pdf",
+    "https://www.bi.ksc.co.jp/tips/data-utilization/formulating-hypotheses",
+    "https://note.com/magic_ai7978/n/n6ce1d1cb34f2"
+   ]
+  },
+  {
+   "query": "analytic tradecraft key assumptions check indicators alternative hypotheses blog",
+   "results": [
+    "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
+    "https://analyst1.com/cyberpedia/intelligence-analysis-methods/",
+    "https://intelprofession.com/institute-of-intelligence-professionalisation-blog/structured-analytical-techniques-a-practical-guide-to-better-judgments",
+    "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-3-distinctions",
+    "https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft+Primer-apr09.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事",
+   "results": [
+    "https://note.com/fair_clover666/n/n009fc95d09bf",
+    "https://note.com/satoruhiguchi/n/nef38cf36c558",
+    "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://note.com/kagawatomo/n/nb6c0632d2e41",
+    "https://note.com/tasty_dunlin998/n/nf534ce147ed5",
+    "https://note.com/a7_data/n/n9a0ff4e6a643",
+    "https://note.com/paguinu/n/n668cc7419453",
+    "https://note.com/hima2b4/n/n4975ccc59032",
+    "https://note.com/nob75note/n/n052803f42d1f"
+   ]
+  },
+  {
+   "query": "site:x.com 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事",
+   "results": [
+    "https://x.com/engneer678/status/2115635066361802933",
+    "https://x.com/rizumenoeigyo/status/2105440073810620758",
+    "https://x.com/shimo_adiem/status/2078389806464454660",
+    "https://x.com/datetch/status/2115277377257517200",
+    "https://x.com/deskrex/status/2099755099178631512",
+    "https://x.com/xpurojekuto/status/2096704996796502124",
+    "https://x.com/KazeSignNEO/status/2068854864818659775"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事",
+   "results": [
+    "https://jp.linkedin.com/in/yuya-tachibana",
+    "https://jp.linkedin.com/pulse/deeper-discipline-root-cause-analysis-assumptions-ahmed-ms-gsp-mq0pe?tl=ja",
+    "https://jp.linkedin.com/posts/琦-王-655bb0176_品質の可視化と早期対応の鍵異常の兆候を捉える分析とは-activity-7343862655759106049-ivwo",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7486690110093238272/",
+    "https://www.linkedin.com/posts/hayatoogata_事業開発についてのスキル確認と向上方法です-1-市場調査と分析能力-市場調査-activity-7237954246275428353-Pe6A",
+    "https://jp.linkedin.com/pulse/unlocking-insights-art-hypothesis-formulation-bonu-naga-vamsi-vardhan-hfonc?tl=ja",
+    "https://jp.linkedin.com/posts/shigun-shou-9aa07b1b8_成果につながるデータ分析の基本課題定義構造化仮説検証で本質をつかむ-qiita-activity-7470042988489072640-VnEO",
+    "https://jp.linkedin.com/pulse/strategies-spot-business-signs-symptoms-effective-problem-solving-kn0jf?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事",
+   "results": [
+    "https://www.facebook.com/groups/713390697225371/",
+    "https://www.facebook.com/kazenotopos/?locale=ja_JP",
+    "https://www.facebook.com/groups/kodaishi/posts/4932607656883945/",
+    "https://www.facebook.com/qdaainfo/posts/書籍紹介質的統合法-渾沌から秩序を導く創発の技法httpswwwqdaainfobook_20260127-山浦晴男正木治恵赤川学税所真也-編-新曜社分析者によ/1483085397158161/",
+    "https://www.facebook.com/4DINLtd/videos/参加登録受付中4din-webinar/1010616821729682/",
+    "https://www.facebook.com/JMPjpn/photos/-薬学部-向けjmp-活用webセミナー-part-3-jmp-による-2群のデータの解析方法をご紹介内容-統計的仮説検定-とは-対応のあるない-2群のデータ-/2505825096191961/",
+    "https://www.facebook.com/thomson.reuters.japan/photos/トムソンロイター大江橋法律事務所共催勉強会-企業不祥事発生時の内部調査実務法廷弁護技術の考え方を取り入れた関係者ヒアリングの進め方-企業不祥事の内部調査で重要な/1446608320800257/",
+    "https://www.facebook.com/tosho.digest/posts/youtubeチャンネル更新与信管理実務取引実行後の日常管理業務③債権管理は組織的に危ない会社の兆候とはご視聴よろしくお願いいたします与信管理-取引先管理-トー/818566233789810/",
+    "https://www.facebook.com/SalesforceJapan/videos/無料レポート-建設業界の最新動向-2026/2650809295317089/"
+   ]
+  },
+  {
+   "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 note 社長",
+   "results": [
+    "https://note.com/jitsuzon/n/ne6d899df2cc6",
+    "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
+    "https://note.com/shinu/n/n567c6705ec18",
+    "https://note.com/apple_ringo/n/n05969dd52c74",
+    "https://agenda-note.com/brands/detail/id=3667",
+    "https://www.youtube.com/watch?v=FnA1nyu7M2Q",
+    "https://note.com/trinias/n/na3043fa737d2",
+    "https://service.customedia.co.jp/marketing/build_test_grow/",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/293",
+    "https://note.com/jgiajfid_5293/n/ncd636de74ef4"
+   ]
+  },
+  {
+   "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 X 投稿",
+   "results": [
+    "https://www.ashisuto.co.jp/cm/tech-note/analytics/data-analysis-hypothesis-5steps.html",
+    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
+    "https://note.com/cograph_data/n/nf26af2dbd9a6",
+    "https://www.youtube.com/watch?v=UtBhIlO44pA",
+    "https://sherpaworks.jp/sherpa/hypothesis-verification/",
+    "https://www.gov-toolbox.jp/frameworks/logictree",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wo6-att/000071988.pdf",
+    "https://agenda-note.com/brands/detail/id=3667",
+    "https://note.com/magic_ai7978/n/n6ce1d1cb34f2"
+   ]
+  },
+  {
+   "query": "analytic tradecraft key assumptions check indicators alternative hypotheses blog site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec",
+    "https://www.linkedin.com/posts/liberty91_cti-skills-for-ai-agents-open-source-cti-activity-7457668130455220224-buu5",
+    "https://www.linkedin.com/in/juanpablosanchez",
+    "https://www.linkedin.com/in/tiffany-saade",
+    "https://uk.linkedin.com/in/felixghauri",
+    "https://in.linkedin.com/in/shivam-dharwal-56aa55234",
+    "https://www.linkedin.com/posts/nickbyrd_a-tradecraft-primer-cia-activity-7043581562562502656-pkuH",
+    "https://pe.linkedin.com/posts/henryrimmer_atlas-analytics-financial-crime-intelligence-activity-7031519543139135488-AaTL",
+    "https://co.linkedin.com/posts/danny-pronk-b334b21ab_a-guide-to-structured-analytic-techniques-activity-7060639888332730368-sy-1",
+    "https://pe.linkedin.com/posts/bradley-lougher-62381b1a6_atlas-analytics-financial-crime-intelligence-activity-7031534669351276544-WVPt"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "treatment of cognitive bias found in the Sherman",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Cognitive and perceptual biases in",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Common Perceptual and Cognitive Biases",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Biases in Evaluating Evidence",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Biases in Estimating Probabilities",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Biases in Perceiving Causality",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias, “analysis can be improved.”3",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "common mistakes that can lead to",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "free of his or her cognitive biases without",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to good analysis and provides techniques for overcoming mind-sets and cognitive biases.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "increased objectivity and reduced bias.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "distances intuitive reasoning and its accompanying pitfalls.46",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. Lastly, mental models or cognitive biases must be identified and addressed early on.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cognitive limitations or pitfalls. Below are eight categories, or families, of techniques developed",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "events or indicators can be a pitfall in analysis. In the context of lacking or ambiguous",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pitfalls later on in the process.63 In addition, the indicated time and training required will decrease",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assumptions and biases, as well as to generate new ideas to adapt plans with new information",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "effects of human cognitive limitations and analytic pitfalls 108, techniques can range from simple to",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Structured Analytic Techniques to Mitigate Cognitive Bias.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "through_the_Use_of_Structured_Analytic_Techniques_to_Mitigate_Cognitive_Bias",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ACAPS. (2016). Cognitive Biases. Assessment Capacities Project.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(SATs) are methods for analyzing intelligence and reaching conclusions. They were originally developed by the US government to avoid bias and unchallenged assumptions, and have come to be used by intelligence analysts in a variety of fields, including cyber threat intelligence.",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Review your sources for mistakes or gaps. This prevents your analysis from anchoring to weak data.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Cognitive Bias Reference Table",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As hypotheses form, use Red Team analysis to correct for \"rational actor\" bias or Team A/Team B debates to clarify competing mindsets.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SATs are necessary for professional rigour. Experts are more prone to such biases due to their past success with specific mental models. We tend to perceive what we expect to see. And we often resist change even when new evidence appears. These techniques ensure that our analysis is objective, transparent and our judgements remain credible.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "example, the extent to which other people",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "or example, military analysis may focus",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "these forces actually fght?). In this case,",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "might fuctuate. All of these examples",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Key Assumptions Check: The 2002 DC Sniper Case",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a good example of how this technique could have been applied. After the initial furry of",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "accurately. In the case of HUMINT , this will",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "builds a more concrete case for the analytic",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "when it is important to make a case that a",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "hypotheses—in some cases, analysts",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "hypotheses. In the latter case, the evidence can",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "case, explore what could account for",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "best possible case for an alternative",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In some cases, the analyst or a team",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "merits of each case, pose questions back",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "effective than an individual’s thinking.19 Intelligence analysis, for example, has improved when",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Small groups of eight or fewer individuals, as is typically the case for JSAT sessions, are",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Other considerations include the relationships between techniques. In many cases, techniques",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "questions to begin the process. Examples include:",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "manner, in this case to develop and track the definition process with a sharable modality such as",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "or timeline. For example: “Look for relationships and patterns in the data connecting persons,",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "groups them together into at least four plausible scenarios – best case, worst case, baseline and an",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "CDR Gay, T. N., LCDR Ripley, D. B., & 1/C Fecskovics, A. K. (2012). Use of Case Studies",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and Structured Analytic Techniques in Intel Studies: USCGA Example [PowerPoint slides].",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Miller Beebe, S. (2020). Teaching Structured Analytic Techniques with Cases. Ascendant",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "There are 3 types of techniques, grouped by their purpose: diagnostic, contrarian, and imaginative thinking. Here are the techniques, with examples and descriptions from",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": “Challenging a single, strongly held view or consensus by building the best possible case for an alternative explanation.”",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "How To Use These Techniques .................................................................................. 5",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "HOW TO USE THESE TECHNIQUES",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "step process will help analysts:",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "other structured methods explained later",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "possible next steps for further research",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Like other contrarian methods, “What If?”",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "stepping back to consider what alternative",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to step outside their normal analytic",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A two-phase, twelve-step, structured",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "managers—are reluctant to change. Rather than trying to ft ideas into the framework of",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "next steps for analysis.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and contextual framework. By recasting the",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• It provides a broader analytic framework",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a more advanced analytic methods course and usually require substantial commitments of",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "political causes of some predictable surprises and outlines steps to overcome them.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Delphi Method 37",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "applying an analytical framework specifically developed for this purpose and using the Data",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "analysed and related to the joint analysis steps in the profiling process.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Determining the best structure for an issue to be approached is one of the first steps in its",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Techniques provide a step-by-step process to handle the different parts of an analytical issue.6",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "differences of opinion. Communication is improved as it is guided through a step-by-step",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "referred to as an art when it comes to knowing how to put these pieces together.45 The",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to know which technique to choose when it comes to a joint analysis process? How to",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "examined how this relates to the different steps in the joint analysis process as outlined in JIPS’",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and the three key steps of a joint analysis process. Tasks are diverse and range from defining",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "anticipatory, and prescriptive types of analysis. It also provides an important conceptual framework",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Figure 2. The three key steps of the joint analysis process",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of information from a given context, following an agreed-upon methodology. The purpose of",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Guide describes three key steps in a joint analysis process:",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(SATs) are methods for analyzing intelligence and reaching conclusions. They were originally developed by the US government to avoid bias and unchallenged assumptions, and have come to be used by intelligence analysts in a variety of fields, including cyber threat intelligence.",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Use Structured Analytic Techniques",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "These methods help make your analytic arguments and assumptions clear for everyone to see. They explain the logic behind your judgements and help you find gaps in your information.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "These methods help you develop new viewpoints and imagine different ways a situation might end. They encourage creative thinking by allowing you to step outside your normal habits.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Availability. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Anchoring. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "certainty into a probability estimate, people",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "goal-maximizing policy is overestimated.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "You overestimate high-profile events.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "support to field partners, namely on profiling, and strategic advice on data; consolidates its",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "analysed and related to the joint analysis steps in the profiling process.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "coordinating and facilitating collaborative data processes, notably profiling coordinators,",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be structured and planned as part of a displacement profiling process. The utility of certain",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a profiling exercise or a joint needs assessment.31",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "analysis processes in profiling or joint needs assessments. A description of each technique is",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cognitive_biases_march_2016.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "apr09.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3rd%20Edition.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T02:54:37.656433+00:00"
+}

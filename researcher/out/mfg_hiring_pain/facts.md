@@ -1,0 +1,1314 @@
+# 製造業の採用の困りごと — 職種別の求人倍率・高卒求人倍率・充足率・採用できず起きたこと（受注辞退・納期遅れ・倒産）、規模別・地域別（事実のみ・12品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 金属加工・溶接の職業（metal working welding job openings ratio Japan）
+- 文脈：生産工程の職業（職種別）
+- 求人倍率・充足率：
+  - 「需要の現在地——有効求人倍率2.67倍をどう読むか」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「溶接工の有効求人倍率は2.67倍（令和6年度・ハローワーク求人統計データ／job tag「溶接工」）です」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「たとえば鳶は有効求人倍率が22.08倍、配管工は10.83倍（いずれも令和6年度・ハローワーク求人統計データ）と極端な売り手市場が続いています」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「溶接工の有効求人倍率は2.67倍（令和6年度・ハローワーク求人統計データ）と全産業平均を上回る水準で、需要が消えている状態ではない」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「有効求人倍率は2.67倍（令和6年度・ハローワーク求人統計データ）で全産業平均を上回る人手不足の状態にあります」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「出典：厚生労働省 職業情報提供サイト（job tag）「溶接工」（有効求人倍率2.67倍・就業者数163,710人・平均年収454.7万円・平均年齢41.8歳は令和7年賃金構造基本統計調査をもとに集計・2026年3月公表」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「有効求人倍率・求人統計は令和6年度ハローワーク求人統計データ／職業安定業務統計をもとに集計）、国土交通省（道路橋の建設後50年経過割合 約42%→約54%→約75%・2025年3月→2030年3月→2040年3月時点）、2025年版ものづくり白書（経済産業省・厚生労働省・文部科学省）（製造業就業者1,046万人・2024年」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「有効求人倍率で見る製造業の人手不足（令和6年：生産工程1.67倍 / 全産業1.25倍）」（https://willof-work.co.jp/journal/14513/）
+  - 「有効求人倍率とは、求職者1人に対して何件の求人があるかを示す指標です」（https://willof-work.co.jp/journal/14513/）
+  - 「厚生労働省が発表した令和6年（2024年）の職業別有効求人倍率（原数値、パート除く）を見ると、製造業が該当する「生産工程の職業」は1.67倍前後で推移し、全産業平均の1.25倍を大きく上回っています」（https://willof-work.co.jp/journal/14513/）
+  - 「２０２２年度下期・注目の数字（２）／金属溶接技能者の有効求人倍率・３倍／上昇傾向止まず、地域間で格差も | 日刊鉄鋼新聞 Japan Metal Daily」（https://www.japanmetaldaily.com/articles/-/114009）
+  - 「２０２２年度下期・注目の数字（２）／金属溶接技能者の有効求人倍率・３倍／上昇傾向止まず、地域間で格差も」（https://www.japanmetaldaily.com/articles/-/114009）
+  - 「厚生労働省が先月３０日に発表した一般職業紹介状況によると、８月の有効求人倍率は全体で１・１８倍に対し、溶接技能者（金属材料製造・金属加工・金属溶接・溶断の職業）は３・１８倍」（https://www.japanmetaldaily.com/articles/-/114009）
+  - 「中小企業比率79.8%・求人倍率8.05倍（全国2位）の激戦区で高卒人材を確保する戦略」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「求人倍率8.05倍（全国2位）という激戦の採用市場において、中小製造業が高卒人材を確保するための戦略を解説します」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+- 高卒・技術者：
+  - 「2025年版ものづくり白書（経済産業省・厚生労働省・文部科学省）が示す製造業の人手不足、国土交通省が公表する橋梁老朽化のデータ、溶接技能者の認証推移を並べることで、需要の構造が見えてきます」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「溶接技能者（通称：JIS溶接技能者）の認証受験者数は2019〜2022年で約10〜11万人で推移し、横ばいが続く」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「）によると、溶接技能者（通称：JIS溶接技能者）の受験者数は2019年に111,902人、2020年に100,466人、2021年に110,931人、2022年に104,035人と推移しており、2019〜2022年の4年間、約10〜11万人の横ばいが続いています」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「特に溶接継手部のき裂補修や鋼部材の溶接接合は、現地で溶接技能者が作業する工程です」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「溶接技能者（通称：JIS溶接技能者）の上位グレード・高難度種目の取得は、特定の工事仕様で求められる要件になる場合があります」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「溶接管理技術者（溶接管理技術者2級・1級）や建築・土木系の施工管理技士を取得して、現場の品質管理・施工管理の役割に移行すると、年齢を重ねても対応できる仕事の幅が保ちやすくなります」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「橋梁の老朽化に伴う補修・補強は、現地で溶接技能者が対応する仕事」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「溶接技能者（通称：JIS溶接技能者）の認証受験者数は2019〜2022年の4年間で約10〜11万人の横ばい（一般社団法人 日本溶接協会・2022年度時点の業界団体データ）」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「新規供給が増えない構造は技能者の希少性を支えやすい」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「Q. 溶接技能者の有資格者は増えていますか？」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「A. 一般社団法人 日本溶接協会のデータ（2022年度時点）では、溶接技能者（通称：JIS溶接技能者）の受験者数は2019〜2022年の4年間、約10〜11万人で横ばいが続いています」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「A. 複数の溶接法（被覆アーク・半自動・TIG）に対応できる幅を広げること、補修・高難度工種・多品種少量など自動化しにくい領域の経験を積むこと、溶接技能者（通称：JIS溶接技能者）の上位グレードや溶接管理技術者の取得で管理・監督側への移行を視野に入れることが、長期的な選択肢として挙げられます」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「6割以上の事業所が指導人材不足とする値は厚生労働省「能力開発基本調査」を白書が引用）、一般社団法人 日本溶接協会（溶接技能者認証の受験者数推移・2022年度時点」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「少子高齢化の加速、若者の製造業離れ、熟練技術者の大量退職」（https://willof-work.co.jp/journal/14513/）
+  - 「一方で、既存の溶接・板金・切削などの技能職においても若年就業者の獲得が進まず、ベテランの退職とともに現場の技術力が急速に低下するリスクを抱えています」（https://willof-work.co.jp/journal/14513/）
+- 採用できず起きたこと：
+  - 「特に後継者不足と人材不足が重なる中小製造業においては、廃業・事業売却という選択を迫られるケースも増加しています」（https://willof-work.co.jp/journal/14513/）
+  - 「【2026年最新】コールセンター委託会社15社比較！外注（アウトソーシング）のメリットも解説」（https://willof-work.co.jp/journal/14513/）
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：受注辞退・失注による機会損失（表面化しにくいが最も大きい）」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：残業代・外注費の増加、経験不足による不良・手直しの増加」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「そして最終形が、前述の「黒字廃業・人手不足倒産」です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「また、帝国データバンクの調査によると、人手不足が原因で倒産する企業は年々増加傾向にあり、製造業も例外ではありません」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「帝国データバンクの調査によると、2023年度の「人手不足倒産」は過去最多を更新し、その中でも製造業は常に上位に位置しています」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「ある調査では、中小製造業の約3割が人手不足を理由に新規受注を断念した経験があると回答しており、これは機会損失だけでなく、企業の成長機会を奪っていることを意味するのです」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「・生産計画の策定 ・受注管理 ・発注管理 ・在庫管理 ・製造管理 ・工程管理 ・外注管理 ・進捗管理 ・品質管理 ※製造部生産管理グループ 部長以下11名でうち女性は2名、年齢構成は役職者は50代、メンバーは30代前半から半ばとなっています」（https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 規模別：
+  - 「また同白書が引用する中小企業庁「中小企業景況調査」では、2024年の従業員数過不足DIはマイナス18.2で、不足超過が続いています」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「中小企業の従業員数過不足DI マイナス18.2は中小企業庁「中小企業景況調査」2024年を白書が引用」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「中小企業の割合が高く、大手企業に比べて給与水準や福利厚生で劣後することも多いため、採用競争力が低くなりやすい構造的な問題があります」（https://willof-work.co.jp/journal/14513/）
+  - 「人手不足が深刻化する中、自動化・ロボット導入による省人化が急速に進んでいますが、設備投資余力のない中小企業では対応が遅れがちです」（https://willof-work.co.jp/journal/14513/）
+  - 「求人媒体の掲載費用、人材紹介会社へのフィー（成功報酬型では年収の30〜35%程度）、内定辞退を見越した多めの採用活動費——これらのコストは製造業、特に体力の限られた中小企業にとって大きな負担となっています」（https://willof-work.co.jp/journal/14513/）
+  - 「人手不足に陥った工場では、既存の従業員に過大な負荷がかかります」（https://willof-work.co.jp/journal/14513/）
+  - 「「人手が足りない→残業が増える→疲弊した従業員が辞める→さらに人手が足りなくなる→残業がさらに増える」というデス・スパイラルに陥った製造業の工場は決して珍しくありません」（https://willof-work.co.jp/journal/14513/）
+  - 「人手不足は単に「人が足りない」という問題にとどまらず、在籍している従業員のモチベーションや健康を蝕み、組織全体の活力を失わせる経営危機の引き金となります」（https://willof-work.co.jp/journal/14513/）
+  - 「政府もこうした取り組みを後押しするため、中小企業向けの設備投資補助金（ものづくり補助金、IT導入補助金等）を用意しています」（https://willof-work.co.jp/journal/14513/）
+  - 「「この会社でスキルを磨けば、こんなキャリアが開ける」というビジョンを従業員に示せる製造業企業が、人手不足の時代においても選ばれる職場となります」（https://willof-work.co.jp/journal/14513/）
+  - 「働きやすい環境を整えることは、既存の従業員の満足度向上と離職防止だけでなく、採用面での競争力強化にも寄与します」（https://willof-work.co.jp/journal/14513/）
+  - 「製造業の人材不足はなぜ解決しないのか？データで見る本当の原因と、中小企業が打つべき対策の全て」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員や幹部の退職を直接の引き金とする「従業員退職型」も」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「中小企業」は、人材獲得競争において三重のハンデを背負っている」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+- 地域別：
+  - 「私は船井総合研究所の製造業コンサルタントとして、年間を通じて全国の中小製造業の現場に入り、経営者の皆様とこの問題に向き合ってきました」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「各種の教育事業を各地区指定機関と連携して実施、新規の学科試験受験者を対象とした講習会では、全国の指定機関と連携した講習会を開催している」（https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/）
+  - 「賃金（１時間当たり）※全国のみ」（https://shigoto.mhlw.go.jp/User/Occupation/Detail/255）
+  - 「講習は全国の指定機関で実施されており、合計13時間（学科9時間・実技4時間）を1日〜2日で修了するのが一般的です」（https://willtec.work/media/media-1784328/）
+  - 「| ウイルテック公式求人サイト「ウイルタス」で仕事探し！製造業やエンジニアを積極採用！全国各地で面接、面談、登録を実施中」（https://willtec.work/media/media-1784328/）
+  - 「東京製鉄の低ＣＯ２鋼材「ほぼゼロ」／船橋の商業施設で大量採用／鋼材重量...」（https://www.japanmetaldaily.com/articles/-/114009）
+  - 「東京製鉄／鋼材輸送トレーラー、来年度中にも「実車率」向上策／関東地区で...」（https://www.japanmetaldaily.com/articles/-/114009）
+  - 「株式会社横浜システム | ★地域業界の中核的存在★資格取得支援★退職金あり」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「【本社】 神奈川県横浜市港北区新羽町474 ※マイカー通勤可能 駐車場は別途個人で近隣でご契約いた…」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「≪愛知/豊川≫【溶接工】★経験者歓迎／年休121日」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「御津工場 愛知県豊川市御津町広石高坂15番地 ※転勤なし 【雇入れ直後】上記事業所 【変更の範囲】…」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「原料プラント設備の【溶接職】経験者募集☆転勤なし☆愛知」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「本社：愛知県一宮市西萩原字若宮前53-1 ※転勤はありません ※マイカー、自転車通勤OK（無料駐車…」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「【転勤なし／マイカー通勤OK】 ※マイカー通勤可／無料駐車場完備 愛知県豊明市新栄町6-13 【雇…」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「＼マイカー＆自転車通勤OK／ 本社：愛知県知多郡東浦町緒川市右原5-1 ※従業員専用駐車場完備 ※…」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+- 採用にかけるお金：
+  - 「罰則は6か月以下の拘禁刑または30万円以下の罰金）による就労時間の上限管理は、一人あたりの稼働量を絞る方向に働くため、限られた担い手への需要集中につながる側面があります」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「出典：厚生労働省 職業情報提供サイト（job tag）「溶接工」（有効求人倍率2.67倍・就業者数163,710人・平均年収454.7万円・平均年齢41.8歳は令和7年賃金構造基本統計調査をもとに集計・2026年3月公表」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「月給32万円～38万円※経験・年齢・資格など考慮し優遇いたします※試用期間3ヶ月あり（待遇の変更なし）」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「450万円～550万円」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「月給20万円～35万円※経験、スキルにより決定します※試用期間3か月あり（期間中の待遇変更なし）」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「300万円～520万円」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「月給32万円～37万8000円※経験・能力等を考慮の上、決定します」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「450万円～530万円」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「410万円～570万円」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「350万円～560万円」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「月給：25万円～30万円※経験・年齢・能力を考慮して決定いたします※試用期間6ヶ月あり(待遇に変更なし)」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「400万円～550万円」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「350万円～400万円」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「250万円～500万円」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+  - 「400万円～500万円」（https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/）
+- 出典の種類：
+  - 「この記事では、感覚ではなく厚生労働省・経済産業省・国土交通省などの公的データと業界団体の認証データをもとに、自動化が進む領域と人の技能が残りやすい領域を分けて整理します」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「2025年版ものづくり白書（経済産業省・厚生労働省・文部科学省）が示す製造業の人手不足、国土交通省が公表する橋梁老朽化のデータ、溶接技能者の認証推移を並べることで、需要の構造が見えてきます」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「全職業計の1.25倍（令和6年度平均・厚生労働省「一般職業紹介状況」）を上回る水準で、求人に対して応募者が不足している状態が続いています」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「2025年版ものづくり白書（経済産業省・厚生労働省・文部科学省）が引用した厚生労働省「能力開発基本調査」のデータでは、」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「なお2025年版ものづくり白書によると、製造業の就業者数は2023年の1,055万人から2024年には1,046万人へと減少しています」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「また同白書が引用する中小企業庁「中小企業景況調査」では、2024年の従業員数過不足DIはマイナス18.2で、不足超過が続いています」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「なお建設業の55歳以上が就業者の36.6%を占め、29歳以下は11.9%にとどまる（令和7年・総務省「労働力調査」をもとに国土交通省作成）という年齢構成は、建設現場側で働く溶接工の環境にも関わる背景です」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「さらに6割以上の事業所が指導人材不足と答えており（2025年版ものづくり白書が引用する厚生労働省「能力開発基本調査」）、熟練技能の継承が課題になっている」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「出典：厚生労働省 職業情報提供サイト（job tag）「溶接工」（有効求人倍率2.67倍・就業者数163,710人・平均年収454.7万円・平均年齢41.8歳は令和7年賃金構造基本統計調査をもとに集計・2026年3月公表」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「有効求人倍率・求人統計は令和6年度ハローワーク求人統計データ／職業安定業務統計をもとに集計）、国土交通省（道路橋の建設後50年経過割合 約42%→約54%→約75%・2025年3月→2030年3月→2040年3月時点）、2025年版ものづくり白書（経済産業省・厚生労働省・文部科学省）（製造業就業者1,046万人・2024年」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「中小企業の従業員数過不足DI マイナス18.2は中小企業庁「中小企業景況調査」2024年を白書が引用」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「6割以上の事業所が指導人材不足とする値は厚生労働省「能力開発基本調査」を白書が引用）、一般社団法人 日本溶接協会（溶接技能者認証の受験者数推移・2022年度時点」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「公的統計ではなく業界団体の認証データ）、総務省「労働力調査」をもとに国土交通省作成（建設業就業者の年齢構成・55歳以上36.6%・29歳以下11.9%・令和7年）」（https://genba-honne.com/articles/yosetsuko-shoraisei/）
+  - 「厚生労働省が発表した令和6年（2024年）の職業別有効求人倍率（原数値、パート除く）を見ると、製造業が該当する「生産工程の職業」は1.67倍前後で推移し、全産業平均の1.25倍を大きく上回っています」（https://willof-work.co.jp/journal/14513/）
+  - 「厚生労働省「一般職業紹介状況（令和6年12月分及び令和6年分）について」」（https://willof-work.co.jp/journal/14513/）
+- 検索結果の抜粋：
+  - 「金属加工溶接の職業 単価 製造業 中小企業 の求人情報をすべて見る （1,227,330件） — 金属加工溶接の職業 単価 製造業 中小企業 の求人情報をすべて見る （1,227,330件） スタンバイ」（https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「溶接 工 採用 ガイド2025｜応募が来ない・すぐ辞める問題の ... — 溶接 工 採用 ガイド2025｜応募が来ない・すぐ辞める問題の ... 株式会社Talenco https://talenco.jp > コラム > 建設」（https://talenco.jp/welder-recruitment-2025/）
+
+## 機械整備・修理の職業（machine maintenance technician shortage Japan）
+- 文脈：生産工程の職業（職種別）
+- 求人倍率・充足率：
+  - 「職業別にみた有効求人倍率、平均求人賃金（ちょっと気になるデータ：ビジネス・レーバー・トレンド 2026年7月号）｜労働政策研究・研修機構（JILPT）」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「2025年度の職業計の有効求人倍率」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「図表1：職業別の有効求人倍率」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「2025年度について、職業（中分類）別で有効求人倍率が2倍以上となっている職業をみると、「建設躯体工事従事者」が7.72倍、「土木作業従事者」が6.21倍、「建築・土木・測量技術者」が5.58倍、「その他の技術者」が4.88倍、「建設従事者（建設躯体工事従事者を除く）」が4.37倍、「機械整備・修理従事者」が4.04倍などと高くなっている（」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「図表2：職業別の有効求人倍率（中分類、2025年度）」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「注：e-Statの表番号21（職業別労働市場関係指標）に表章されている職業（中分類）のうち有効求人倍率が2倍以上の職業を掲載した」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「職種別の有効求人倍率──一般事務0.30倍、建設躯体工事8.41倍で約28倍の差 | Coachers Inc.」（https://coachers.jp/blog/2026095421/）
+  - 「2026年9月の有効求人倍率は、一般事務が」（https://coachers.jp/blog/2026095421/）
+  - 「1. 職種別の有効求人倍率は、どれくらい開いているのか」（https://coachers.jp/blog/2026095421/）
+  - 「2026年9月の有効求人倍率は、職業計で1.08倍、一般事務が0.30倍、建設躯体工事が8.41倍でした」（https://coachers.jp/blog/2026095421/）
+  - 「正社員の有効求人倍率は1.00倍、でも充足率は8.2%──決まらない求人の直し方」（https://coachers.jp/blog/2026095421/）
+  - 「有効求人倍率（2026年9月）：都道府県別・職業別 | The Hardest Market」（https://hardestmarket.com/ja/job-market/）
+  - 「有効求人倍率（2026年9月、季節調整値）」（https://hardestmarket.com/ja/job-market/）
+  - 「有効求人倍率は、ハローワークの求職者1人あたりの求人数です」（https://hardestmarket.com/ja/job-market/）
+  - 「たとえば製造業のなかでも機械整備・修理の求人倍率は、2012年時点の1.09倍から2023年には4.43倍に推移しています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+- 高卒・技術者：
+  - 「07 製造技術者（開発） 60 178 2.97」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「08 製造技術者（開発を除く） 90 130 1.44」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「09 建築・土木・測量技術者 75 883 11.77」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「10 情報処理・通信技術者 212 168 0.79」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「11 その他の技術者 19 42 2.21」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「14 医療技術者 93 376 4.04」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「2025年度について、職業（中分類）別で有効求人倍率が2倍以上となっている職業をみると、「建設躯体工事従事者」が7.72倍、「土木作業従事者」が6.21倍、「建築・土木・測量技術者」が5.58倍、「その他の技術者」が4.88倍、「建設従事者（建設躯体工事従事者を除く）」が4.37倍、「機械整備・修理従事者」が4.04倍などと高くなっている（」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「建築・土木・測量技術者 5.77倍・介護サービス 3.94倍」（https://coachers.jp/blog/2026095421/）
+  - 「生産工程（大分類）1.65倍・情報処理・通信技術者 1.33倍」（https://coachers.jp/blog/2026095421/）
+  - 「記入例（架空）：①施工管理／②5.77倍（建築・土木・測量技術者）／③月2件／④選ばれる（現場写真3枚と、入社3年目の一日を求人票に追加）」（https://coachers.jp/blog/2026095421/）
+  - 「施工管理なら「建築・土木・測量技術者」、設備保全なら「機械整備・修理従事者」が目安です」（https://coachers.jp/blog/2026095421/）
+  - 「中途採用で使われる主要50媒体を、特徴と向き不向きで比較」（https://coachers.jp/blog/2026095421/）
+  - 「CY,2013CY,2013/1/1,実数,パート含む常用,専門的・技術的職業,その他の技術者,626,1646,585,2588,177,1.07,0.64」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「CY,2013CY,2013/1/1,実数,パート除く常用,専門的・技術的職業,開発技術者,6448,18866,3096,15127,575,2.08,1.25」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「設備保全・技能職は今後も採用での充足がほぼ不可能な領域」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+- 採用できず起きたこと：
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：受注辞退・失注による機会損失（表面化しにくいが最も大きい）」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：残業代・外注費の増加、経験不足による不良・手直しの増加」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「そして最終形が、前述の「黒字廃業・人手不足倒産」です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「会社の競争力の低下や利益の減少を招くほか、生産ラインが維持できず黒字倒産に追い込まれるケースも起こりえる状況です」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+  - 「しかし、自社の人材だけでは賄えず外注費が膨らむと、利益がさほど出ない仕事となってしまいます」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+  - 「人手不足が改善されず、外注費がかかって利益が出ない状態が続いてしまうのです」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+  - 「そのため、受注が好調で事業が順調であっても、人手不足から生産ラインを維持できず、黒字倒産してしまうケースも発生しています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+  - 「廃業メーカーや供給終了部品など、他社では入手困難なアイテムであっても、豊富なネットワークと知識を駆使して対応します」（https://seibushoko.com/solution/2824/）
+  - 「廃業したメーカーやサポートが終了した機械のメンテナンスは、特に困難を極めます」（https://seibushoko.com/solution/2824/）
+  - 「母集団形成だけを外注しても、受け入れ側が変わらなければ数字は戻りません」（https://dairiten-lab.com/seizo/）
+- 規模別：
+  - 「製造業の人材不足はなぜ解決しないのか？データで見る本当の原因と、中小企業が打つべき対策の全て」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員や幹部の退職を直接の引き金とする「従業員退職型」も」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「中小企業」は、人材獲得競争において三重のハンデを背負っている」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「】少ない人数で回る工場をつくる打ち手（省人化・小規模」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「」と聞くと、大企業のスマートファクトリーや数千万円の生産管理システムを想像して尻込みする経営者が少なくありません」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員数十名規模の工場ほど、小規模」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「大企業型のスマートファクトリーを目指す必要はまったくありません」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「外国人材の受け入れは中小企業でも現実的ですか？」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「さらに、既存従業員が内包している離職意向の高さも、深刻な課題として認識すべき水準に達しています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+  - 「人手不足に悩む企業は、人材確保施策として既存従業員の離職率にも目を向けなくてはいけません」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+  - 「従業員の勤務歴や年代別に応じたデータについては、以下の記事に記載の詳細情報をご確認ください」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+  - 「2023年・製造業の就労ニーズ白書｜従業員はなぜ定着しないのか？ | Nikken→Tsunagu」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+  - 「大企業・中小企業ともに約42％が「人手不足」を挙げている」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+- 地域別：
+  - 「建設躯体工事の有効求人は19,158件、ハローワークでこの仕事を探している人は全国で2,279人」（https://coachers.jp/blog/2026095421/）
+  - 「厚生労働省「一般職業紹介状況（令和8年9月分）」2026年10月30日公表・参考統計表6（常用／パート含む・全国計）」（https://coachers.jp/blog/2026095421/）
+  - 「全国・都道府県は季節調整値、パートタイムを含む」（https://hardestmarket.com/ja/job-market/）
+  - 「私は船井総合研究所の製造業コンサルタントとして、年間を通じて全国の中小製造業の現場に入り、経営者の皆様とこの問題に向き合ってきました」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「また、東京への一極集中によって、東京では人材が集まりやすくなる反面、」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/）
+  - 「また、2016年には「女性活躍推進法」や2017年には「改正育児・介護休業法」の施行など、女性にとって働きやすい職場環境の整備に向けた全国的な取り組みも進んでいます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「東京MXの番組で、ノムラシステムコーポレーションが取り上げられました」（https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/）
+  - 「出典: 全国工業高等学校長協会「R05卒業者調査」/ UZUZ「工業高校出身者の就職」/ 関東工業自動車大学校「工業高校からの進路選択」/ トモヤログ「情報技術科」」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「（全建総連東京都連合会 2024年賃金調査報告書）」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「全国工業高等学校長協会「R05卒業者調査」」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「GATEN職「一人親方の年収」（全建総連東京都連合会 2024年賃金調査報告書を引用）」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「愛知・三重の高校に毎月届いている就活情報誌」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「出典：厚生労働省「一般職業紹介状況（令和8年7月分）」参考統計表6（全国計・生産工程従事者の内訳、常用（パート含む）、令和8年7月）／厚生労働省「労働経済動向調査（令和8年5月）」正社員等労働者過不足判断D.I.」（https://saiyo-commit.com/seizou/）
+  - 「全国（6拠点）」（https://dairiten-lab.com/seizo/）
+  - 「全国6拠点の体制」（https://dairiten-lab.com/seizo/）
+- 採用にかけるお金：
+  - 「高水準である情報通信業（約38.12万円）や金融・保険業（約39.34万円）との賃金差は7万円以上にも及びます」（https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/）
+  - 「約247万円」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「約400万円」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「約500万円」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「650〜750万円」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「800〜1,000万円」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「出典: 厚生労働省「賃金構造基本統計調査」/ 国税庁「令和元年分民間給与実態統計調査」（製造業平均年収 513万円）」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「大卒の659万円との差は約60万円で、学歴よりも資格と経験で差がつく世界です」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「職種によっては、とび職で1,000万円、設備屋で900〜1,200万円という数字もあります」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「初期費用10万円〜」（https://saiyo-commit.com/seizou/）
+  - 「初期費用10万円・月額10万円〜、成果報酬0円、採用人数の上限なし（税別・最低契約期間3ヶ月）」（https://saiyo-commit.com/seizou/）
+  - 「年収350万円なら1名あたり70〜105万円になります」（https://saiyo-commit.com/seizou/）
+  - 「万円 × 3ヶ月」（https://saiyo-commit.com/seizou/）
+  - 「初期費用を含めた3ヶ月の総額は55万円（税別）です」（https://saiyo-commit.com/seizou/）
+  - 「スタンダード（月15万円）」（https://saiyo-commit.com/seizou/）
+- 出典の種類：
+  - 「（令和8年9月） 富山労働局 職業安定部」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「労働に関する総合的な調査研究を実施し、その成果を広く提供しています」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「―一般職業紹介状況(令和7年度分)の結果から―」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「厚生労働省から2026年4月28日に一般職業紹介状況の2025年度分の結果が公表された」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「注：職業分類は、2015年度は厚生労働省編集職業分類、2025年度は日本標準職業分類による」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「注：職業分類は、2020年度は厚生労働省編集職業分類、2025年度は日本標準職業分類による」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「2015年度および2020年度は「厚生労働省編集職業分類 職業分類表」に基づく区分」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「平均求人賃金は厚生労働省「一般職業紹介状況(職業安定業務統計)：雇用関係指標（年度）」による」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html）
+  - 「厚生労働省「一般職業紹介状況」の職業別の表の数字です」（https://coachers.jp/blog/2026095421/）
+  - 「厚生労働省「一般職業紹介状況」の参考統計表6に、職業の大分類・中分類ごとの倍率が載っています」（https://coachers.jp/blog/2026095421/）
+  - 「厚生労働省「一般職業紹介状況（令和8年9月分）」2026年10月30日公表・参考統計表6（常用／パート含む・全国計）」（https://coachers.jp/blog/2026095421/）
+  - 「一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 – 2026年9月 (列 – 複数値形式) - データ製作所」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 – 2026年9月 (列 – 複数値形式)」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「「一般職業紹介状況 (職業安定業務統計)」（厚生労働省）を基にデータ製作所が作成」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「本調査は、公共職業安定所における求人、求職、就職の状況（新規学卒者を除く」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+
+## 製品検査・機械検査の職業（inspection worker shortage Japan manufacturing）
+- 文脈：生産工程の職業（職種別）
+- 求人倍率・充足率：
+  - 「【2026年8月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「【2026年10月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「【2026年10月版】工場・製造業の有効求人倍率とは？都道府県別データから見る仕事探しのポイント」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「有効求人倍率とは、仕事を探している人1人に対して何件の求人があるかを表す指標です」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「有効求人倍率が1倍を超えると、求職者より求人の方が多い状態です」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「の場合、有効求人倍率は2.0倍です」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「有効求人倍率は2009年の0.47倍を底に回復傾向が続き、2018年には1.61倍まで上昇しました」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「都道府県別有効求人倍率の比較（全国平均：1.18倍）」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「全国計1.18倍（令和8年8月）を基準に、各都道府県の有効求人倍率を北海道から順に比較しています」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「製造業の有効求人倍率 2026年最新｜製造WEB」（https://seizo-web.com/blog/3040/）
+  - 「製造業の有効求人倍率 2026年最新」（https://seizo-web.com/blog/3040/）
+  - 「製造業の有効求人倍率 2026年最新｜職種別の読み方と、自社の求人に落とす3ステップ」（https://seizo-web.com/blog/3040/）
+  - 「ニュースで「有効求人倍率1.18倍」と聞いても、自社の職種で何倍なのかは分かりません」（https://seizo-web.com/blog/3040/）
+  - 「有効求人倍率（季節調整値）は1.18倍で前月と同水準、新規求人倍率は2.10倍（前月比−0.06）、正社員の有効求人倍率は1.00倍で前月と同水準でした」（https://seizo-web.com/blog/3040/）
+  - 「生産工程の職業の7月の新規求人は75,278件、就職件数は9,740件で、充足率は12.9%です」（https://seizo-web.com/blog/3040/）
+- 高卒・技術者：
+  - 「07 製造技術者（開発） 60 178 2.97」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「08 製造技術者（開発を除く） 90 130 1.44」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「09 建築・土木・測量技術者 75 883 11.77」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「10 情報処理・通信技術者 212 168 0.79」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「11 その他の技術者 19 42 2.21」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「14 医療技術者 93 376 4.04」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「CY,2013CY,2013/1/1,実数,パート含む常用,専門的・技術的職業,その他の技術者,626,1646,585,2588,177,1.07,0.64」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「CY,2013CY,2013/1/1,実数,パート除く常用,専門的・技術的職業,開発技術者,6448,18866,3096,15127,575,2.08,1.25」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「倍率が低い職種（機械組立、検査）なら、他社の求人票と並べて比べられる前提で、条件と中身を正直に書く（「製造業の中途採用」の記事）」（https://seizo-web.com/blog/3040/）
+  - 「特に、技能を必要とする分野では、若年層の担い手不足に加え、熟練技能者の高齢化が顕著です」（https://tokuty.jp/blog/specific_skills_machine_inspection/）
+  - 「大阪府 製造業の高卒採用戦略｜14,412事業所・東大阪の中小企業が大手に勝つ方法 | ゆめスタ」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「大阪府 製造業の高卒採用戦略｜14,412事業所・東大阪の中小企業が大手に勝つ方法」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「中小企業比率79.8%・求人倍率8.05倍（全国2位）の激戦区で高卒人材を確保する戦略」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「求人倍率8.05倍（全国2位）という激戦の採用市場において、中小製造業が高卒人材を確保するための戦略を解説します」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「1. 大阪府製造業の高卒採用市場データ」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+- 採用できず起きたこと：
+  - 「総合エンジニアリング企業の品質管理検査課にて、製品の寸法検査や非破壊検査、外注検査などをお任せします」（https://tenshoku.mynavi.jp/engineer/list/o17A/i02120/）
+- 規模別：
+  - 「製造業における人手不足の問題を解消するには、従業員にとって働きやすい環境を整えつつ、採用の幅を広げて新たな人材を確保することが重要です」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「チャットツールの多言語化で外国人従業員の働きやすい環境を実現」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「人手不足が深刻化し、売上や業績に悪影響を及ぼさないためにも、製造業では従業員の離職や求職者の敬遠を防ぐ取り組みが必要となります」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「少子高齢化だけでなく、製造業に対する一般的なイメージや従業員教育の不徹底も人手不足の原因として挙げられます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「ベテラン従業員が再雇用・雇用延長などで残り続ければ一定の労働力を確保できるものの、体力や健康面の制約による生産性の低下や、事故の発生リスクが懸念されることから、現場には若手や中堅など第一線で活躍する人材も必要です」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「しかし、今は終身雇用の衰退や若年層の意識変化によって転職が当たり前になり、複数の企業を渡り歩く人が増えているため、会社に長く残り続ける従業員の確保が難しくなっています」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「従業員教育を行う人材が足りないことも、製造業で人手不足が進む原因として挙げられます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「たしかに人手不足が深刻化している企業では、従業員教育を行う人材の確保が難しいかもしれません」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「しかし、それを理由に研修や教育を怠ると、従業員は業務に必要な知識・スキルを身につけられず作業負担やストレスも大きくなるため、結果的に離職者数が増える可能性があります」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「人手不足による従業員教育の不徹底、その結果離職者数が増加するという悪循環を防ぐためには、」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「人手が足りない状況でも、従業員のスキルを現場で活躍できるレベルまで向上させる環境整備が必要」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「製造業の人手不足を解消するためには、採用活動を積極的に行うだけでなく、求職者の応募数減少や従業員の離職につながる根本的な原因にアプローチする必要があります」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「業務の見直しや企業のイメージアップなど、会社の内部・外部の両方に働きかけることで、従業員が長く残り続ける職場づくりが可能になり、生産性向上や良質な製品の提供を実現できます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「目に見える効果がすぐに現れなかったとしても、長期的な視点で継続的に取り組むことが人手不足を招く根本的な原因を解消し、従業員の業務負担を減らしながら効率良く生産活動を行うためには大切です」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「熟練者ならではのスキルやノウハウを広く伝えることで、従業員全体の作業レベル向上につながり、生産性・品質アップも期待できます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+- 地域別：
+  - 「都道府県別有効求人倍率の比較（全国平均：1.18倍）」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「全国計1.18倍（令和8年8月）を基準に、各都道府県の有効求人倍率を北海道から順に比較しています」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「岐阜県（1.44倍）が最も高く、次いで三重県（1.40倍）となり、いずれも全国計（1.18倍）を上回る」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「静岡県（1.20倍）も全国計をわずかに上回り、愛知県（1.18倍）は全国計と同水準」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「愛知県・岐阜県・三重県・静岡県には、自動車メーカーや自動車部品メーカーをはじめ、機械・電子部品・食品などさまざまな工場が立地しており、多くの工場求人・製造業求人が募集されています」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「製造業に関わる職種別（2026年7月・常用・パート含む・全国）」（https://seizo-web.com/blog/3040/）
+  - 「また、2016年には「女性活躍推進法」や2017年には「改正育児・介護休業法」の施行など、女性にとって働きやすい職場環境の整備に向けた全国的な取り組みも進んでいます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「中小企業比率79.8%・求人倍率8.05倍（全国2位）の激戦区で高卒人材を確保する戦略」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「求人倍率8.05倍（全国2位）という激戦の採用市場において、中小製造業が高卒人材を確保するための戦略を解説します」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「全国2位（前年7.27倍）」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「大阪府の高卒採用市場は求人倍率8.05倍と全国2位の超売り手市場です」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「製造業はその中心的な人材需要産業であり、中小企業出荷額比率58.4%は全国平均（47.0%）を大きく上回ります」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「全国2位・前年7.27倍から上昇幅最大」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「賃金（１時間当たり）※全国のみ」（https://shigoto.mhlw.go.jp/User/Occupation/Detail/526）
+  - 「出典：厚生労働省「一般職業紹介状況（令和8年7月分）」参考統計表6（全国計・生産工程従事者の内訳、常用（パート含む）、令和8年7月）／厚生労働省「労働経済動向調査（令和8年5月）」正社員等労働者過不足判断D.I.」（https://saiyo-commit.com/seizou/）
+- 採用にかけるお金：
+  - 「400万円以上」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「607万円 → 300万円」（https://yumesuta.com/kosotsusaiyo/osaka/manufacturing）
+  - 「初期費用10万円〜」（https://saiyo-commit.com/seizou/）
+  - 「初期費用10万円・月額10万円〜、成果報酬0円、採用人数の上限なし（税別・最低契約期間3ヶ月）」（https://saiyo-commit.com/seizou/）
+  - 「年収350万円なら1名あたり70〜105万円になります」（https://saiyo-commit.com/seizou/）
+  - 「万円 × 3ヶ月」（https://saiyo-commit.com/seizou/）
+  - 「初期費用を含めた3ヶ月の総額は55万円（税別）です」（https://saiyo-commit.com/seizou/）
+  - 「スタンダード（月15万円）」（https://saiyo-commit.com/seizou/）
+  - 「採用単価の計算式と17職種の相場一覧、平均値をそのまま使えない理由を整理しています」（https://saiyo-commit.com/seizou/）
+  - 「月額定額型・成果報酬型・従量型それぞれの費用の出方と、1名あたりの採用単価の考え方です」（https://saiyo-commit.com/seizou/）
+  - 「358万円～500万円」（https://tenshoku.mynavi.jp/engineer/list/o17A/i02120/）
+  - 「350万円～450万円」（https://tenshoku.mynavi.jp/engineer/list/o17A/i02120/）
+  - 「300万円～400万円」（https://tenshoku.mynavi.jp/engineer/list/o17A/i02120/）
+  - 「335万円～500万円」（https://tenshoku.mynavi.jp/engineer/list/o17A/i02120/）
+  - 「350万円～500万円」（https://tenshoku.mynavi.jp/engineer/list/o17A/i02120/）
+- 出典の種類：
+  - 「（令和8年9月） 富山労働局 職業安定部」（https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf）
+  - 「一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 – 2026年9月 (列 – 複数値形式) - データ製作所」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 – 2026年9月 (列 – 複数値形式)」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「「一般職業紹介状況 (職業安定業務統計)」（厚生労働省）を基にデータ製作所が作成」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「本調査は、公共職業安定所における求人、求職、就職の状況（新規学卒者を除く」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_厚生労働省」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「この投稿は厚生労働省が公表している一般職業紹介状況 (職業安定業務統計)をもとにデータ製作所が編集・作成したものです」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「＜ダウンロード＞ 一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012...」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「＞一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 - 2023年11月 (列 - 複数値形式)(https://data-seisaku...」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_第22表_年齢別_労働市場関係指標_月次 1997年1月 – 2026年9月 (列 – 複数値形式)」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_第20表_産業・事業所規模別新規求人数 2008年4月 – 2026年9月(列指向形式)」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「厚生労働省の職業分類では、組立・加工・検査・機械オペレーターなどの仕事は 「生産工程従事者」に含まれます」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「厚生労働省「一般職業紹介状況（職業安定業務統計）」職業別労働市場関係指標（パート除く常用）より作成」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「この記事は、厚生労働省が毎月末に公表する「一般職業紹介状況」から、製造業に関わる職種の倍率を抜き出して、毎月更新する定点記事です」（https://seizo-web.com/blog/3040/）
+
+## 機械組立の職業（machine assembly worker Japan）
+- 文脈：生産工程の職業（職種別、比較用）
+- 求人倍率・充足率：
+  - 「製造業の有効求人倍率 2026年最新｜製造WEB」（https://seizo-web.com/blog/3040/）
+  - 「製造業の有効求人倍率 2026年最新」（https://seizo-web.com/blog/3040/）
+  - 「製造業の有効求人倍率 2026年最新｜職種別の読み方と、自社の求人に落とす3ステップ」（https://seizo-web.com/blog/3040/）
+  - 「ニュースで「有効求人倍率1.18倍」と聞いても、自社の職種で何倍なのかは分かりません」（https://seizo-web.com/blog/3040/）
+  - 「有効求人倍率（季節調整値）は1.18倍で前月と同水準、新規求人倍率は2.10倍（前月比−0.06）、正社員の有効求人倍率は1.00倍で前月と同水準でした」（https://seizo-web.com/blog/3040/）
+  - 「生産工程の職業の7月の新規求人は75,278件、就職件数は9,740件で、充足率は12.9%です」（https://seizo-web.com/blog/3040/）
+  - 「有効求人倍率は、ハローワークの求職者1人に対して求人が何件あるか、です」（https://seizo-web.com/blog/3040/）
+  - 「元大手飲食チェーンの採用責任者が、有効求人倍率は年に数千人を採る会社の話で、年5人採る会社には関係ない、媒体会社が商品を売るために出している数字だ、と話していました（飲食業の話ですが、製造業の中小にも当てはまります）」（https://seizo-web.com/blog/3040/）
+  - 「年度の平均と充足率は、翌年4月末の年度分の公表で更新します」（https://seizo-web.com/blog/3040/）
+  - 「有効求人倍率とは、求職者1人に対する求人数の割合を示した数値のことで「公共職業安定所にエントリーしている企業の求人数（有効求人数）÷仕事を探している人の数（有効求職者数）」で算出されます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「有効求人倍率が高くなると求職者1人あたりの求人数も多くなるため、働き口を探す人は仕事を選びやすくなります」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「製造業における2024年11月の有効求人倍率の平均は1.62倍となっています」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「製造業の有効求人倍率は全職業の平均である1.18倍よりも高いことから、他の職業に比べて人材確保が難しい状況にある」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「「機械整備・修理」の有効求人倍率は4.26倍であり、特に人手不足が深刻化している」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「工程ごとの有効求人倍率の差（令和8年3月の統計）と、交替制や作業環境の書き方を公的データをもとに解説しています」（https://saiyo-commit.com/seizou/）
+- 高卒・技術者：
+  - 「CY,2013CY,2013/1/1,実数,パート含む常用,専門的・技術的職業,その他の技術者,626,1646,585,2588,177,1.07,0.64」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「CY,2013CY,2013/1/1,実数,パート除く常用,専門的・技術的職業,開発技術者,6448,18866,3096,15127,575,2.08,1.25」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「倍率が低い職種（機械組立、検査）なら、他社の求人票と並べて比べられる前提で、条件と中身を正直に書く（「製造業の中途採用」の記事）」（https://seizo-web.com/blog/3040/）
+  - 「設備保全・技能職は今後も採用での充足がほぼ不可能な領域」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：地元の高校・高専・工業高校との関係構築は最強の採用チャネル」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「特に地方の中小製造業にとって、地元工業高校との」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「ベテラン技能者の定年を数年後に控え、加工条件・検査の勘所を動画とデータベースに落とし込む技能継承プロジェクトを実施」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「地元工業高校への出前授業とインターン受け入れ、を」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「高校新卒の応募が復活し、毎年の定期採用サイクル」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「2021年に新卒入社後、3年という速さで現職のリーダーに就任」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「07開発技術者 218 17 12.82 0 0 - 620,448 375,607 266,667 0 0 0」（https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002797138.pdf）
+  - 「08製造技術者 92 9 10.22 0 1 - 585,982 360,420 250,000 0 0 1,200」（https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002797138.pdf）
+  - 「09建築・土木技術者等 215 20 10.75 8 1 8.00 551,000 333,826 320,000 1,800 1,250 0」（https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002797138.pdf）
+  - 「10情報処理・通信技術者 736 186 3.96 6 11 0.55 512,994 282,836 348,125 0 0 2,350」（https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002797138.pdf）
+  - 「11その他の技術者 17 5 3.40 0 0 - 400,000 360,000 750,000 0 0 0」（https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002797138.pdf）
+- 採用できず起きたこと：
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：受注辞退・失注による機会損失（表面化しにくいが最も大きい）」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：残業代・外注費の増加、経験不足による不良・手直しの増加」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「そして最終形が、前述の「黒字廃業・人手不足倒産」です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+- 規模別：
+  - 「製造業の人材不足はなぜ解決しないのか？データで見る本当の原因と、中小企業が打つべき対策の全て」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員や幹部の退職を直接の引き金とする「従業員退職型」も」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「中小企業」は、人材獲得競争において三重のハンデを背負っている」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「】少ない人数で回る工場をつくる打ち手（省人化・小規模」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「」と聞くと、大企業のスマートファクトリーや数千万円の生産管理システムを想像して尻込みする経営者が少なくありません」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員数十名規模の工場ほど、小規模」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「大企業型のスマートファクトリーを目指す必要はまったくありません」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「外国人材の受け入れは中小企業でも現実的ですか？」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「製造業における人手不足の問題を解消するには、従業員にとって働きやすい環境を整えつつ、採用の幅を広げて新たな人材を確保することが重要です」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「チャットツールの多言語化で外国人従業員の働きやすい環境を実現」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「人手不足が深刻化し、売上や業績に悪影響を及ぼさないためにも、製造業では従業員の離職や求職者の敬遠を防ぐ取り組みが必要となります」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「少子高齢化だけでなく、製造業に対する一般的なイメージや従業員教育の不徹底も人手不足の原因として挙げられます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「ベテラン従業員が再雇用・雇用延長などで残り続ければ一定の労働力を確保できるものの、体力や健康面の制約による生産性の低下や、事故の発生リスクが懸念されることから、現場には若手や中堅など第一線で活躍する人材も必要です」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+- 地域別：
+  - 「製造業に関わる職種別（2026年7月・常用・パート含む・全国）」（https://seizo-web.com/blog/3040/）
+  - 「私は船井総合研究所の製造業コンサルタントとして、年間を通じて全国の中小製造業の現場に入り、経営者の皆様とこの問題に向き合ってきました」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「また、2016年には「女性活躍推進法」や2017年には「改正育児・介護休業法」の施行など、女性にとって働きやすい職場環境の整備に向けた全国的な取り組みも進んでいます」（https://kaminashi.jp/media/manufacturing-industry-labor-shortage）
+  - 「出典：厚生労働省「一般職業紹介状況（令和8年7月分）」参考統計表6（全国計・生産工程従事者の内訳、常用（パート含む）、令和8年7月）／厚生労働省「労働経済動向調査（令和8年5月）」正社員等労働者過不足判断D.I.」（https://saiyo-commit.com/seizou/）
+  - 「令和８年７月 職種別有効求人・求職状況、求人賃金状況 東京」（https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002797138.pdf）
+  - 「東京労働局では、令和７年11 月分の「一般職業紹介状況」を取りまとめましたので公表します」（https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf）
+  - 「＊就職件数・・・・・・・・・ 都内のハローワークにおいて求職申込を受け付けた求職者に対して、全国のハロ―ワークで受理した求人を紹介、就職が」（https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf）
+  - 「確認された件数と、オンライン登録者が、ハローワークインターネットサービス上から全国のハロ―ワークで受理した求人へ」（https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf）
+  - 「＊充足数・・・・・・・・・・・ 都内のハローワークにおいて受け付けた求人に対して、全国のハローワークで紹介、就職が確認された件数と、オンライン」（https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf）
+  - 「年月 新規求職者数 新規求人数 月間有効求職者数 月間有効求人数 全 国 東京都 全 国 東京都 就職件数 充足数 ⑨完全失業者数 ⑩完全失業率 ⑪完全失業者数 ⑫完全失業率」（https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf）
+  - 「27,554 124,359 197,642 370,839 2.27 3.57 1.25 1.76 6,071 8,458 154 2.5 (全国 2.3 ▲0.1ｐ）」（https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf）
+  - 「33,147 123,144 202,446 362,779 2.32 3.75 1.26 1.76 6,817 9,938 180 2.5 (全国 2.4 ▲0.1ｐ）」（https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf）
+  - 「34,189 123,581 217,502 358,551 2.18 3.45 1.22 1.70 6,553 9,213 176 2.5 (全国 2.6 ▲0.1ｐ）」（https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf）
+  - 「33,544 122,882 207,816 350,620 2.14 3.54 1.20 1.72 5,932 8,555 184 2.6 (全国 2.5 ▲0.1ｐ）」（https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf）
+  - 「注 １ ①②③④⑦⑧欄は、東京都の数値で原数値である」（https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf）
+- 採用にかけるお金：
+  - 「初期費用10万円〜」（https://saiyo-commit.com/seizou/）
+  - 「初期費用10万円・月額10万円〜、成果報酬0円、採用人数の上限なし（税別・最低契約期間3ヶ月）」（https://saiyo-commit.com/seizou/）
+  - 「年収350万円なら1名あたり70〜105万円になります」（https://saiyo-commit.com/seizou/）
+  - 「万円 × 3ヶ月」（https://saiyo-commit.com/seizou/）
+  - 「初期費用を含めた3ヶ月の総額は55万円（税別）です」（https://saiyo-commit.com/seizou/）
+  - 「スタンダード（月15万円）」（https://saiyo-commit.com/seizou/）
+  - 「採用単価の計算式と17職種の相場一覧、平均値をそのまま使えない理由を整理しています」（https://saiyo-commit.com/seizou/）
+  - 「月額定額型・成果報酬型・従量型それぞれの費用の出方と、1名あたりの採用単価の考え方です」（https://saiyo-commit.com/seizou/）
+- 出典の種類：
+  - 「一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 – 2026年9月 (列 – 複数値形式) - データ製作所」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 – 2026年9月 (列 – 複数値形式)」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「「一般職業紹介状況 (職業安定業務統計)」（厚生労働省）を基にデータ製作所が作成」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「本調査は、公共職業安定所における求人、求職、就職の状況（新規学卒者を除く」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_厚生労働省」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「この投稿は厚生労働省が公表している一般職業紹介状況 (職業安定業務統計)をもとにデータ製作所が編集・作成したものです」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「＜ダウンロード＞ 一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012...」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「＞一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 - 2023年11月 (列 - 複数値形式)(https://data-seisaku...」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_第22表_年齢別_労働市場関係指標_月次 1997年1月 – 2026年9月 (列 – 複数値形式)」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「一般職業紹介状況 (職業安定業務統計)_第20表_産業・事業所規模別新規求人数 2008年4月 – 2026年9月(列指向形式)」（https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/）
+  - 「この記事は、厚生労働省が毎月末に公表する「一般職業紹介状況」から、製造業に関わる職種の倍率を抜き出して、毎月更新する定点記事です」（https://seizo-web.com/blog/3040/）
+  - 「新規求人は前年同月比0.8%減ですが、製造業の新規求人は前年同月比6.8%増でした（厚生労働省「一般職業紹介状況（令和8年7月分）」）」（https://seizo-web.com/blog/3040/）
+  - 「厚生労働省の一般職業紹介状況は、毎月末に前月分が公表されます」（https://seizo-web.com/blog/3040/）
+  - 「総務省「労働力調査」によると、製造業の就業者数は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+
+## 機械・電気の技術者（manufacturing engineer shortage Japan）
+- 文脈：技術者
+- 求人倍率・充足率：
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）」（https://nextengineer.com/blog/know-how001/）
+  - 「【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較」（https://nextengineer.com/blog/know-how001/）
+  - 「有効求人倍率とは、仕事を探している人1人に対して、何件の求人があるかを示す数値です」（https://nextengineer.com/blog/know-how001/）
+  - 「厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした」（https://nextengineer.com/blog/know-how001/）
+  - 「job tagに掲載された令和6年度の全国有効求人倍率を見ると、職種によって0.79倍から6.00倍まで差があり、機械・電気系全体を1つの数値で捉えることはできません」（https://nextengineer.com/blog/know-how001/）
+  - 「高卒就職者数は減少しており、求人数に対する充足率*は全産業で49%である」（https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf）
+  - 「の、安定職種に人気が集中しており、電気工事業を含む建設業の充足率は27%と他産業より低く、入職者数は少ない」（https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf）
+  - 「高卒就職者数は減少しており、充足率は100%に達していない 安定職種に人気が集中し、他産業の求人は充足されていない」（https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf）
+  - 「参考２０ 高卒就職者の各産業の充足率」（https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf）
+  - 「工業高校は就職率63.3%、求人倍率は20.6倍」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「工業高校の求人倍率は20.6倍」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「有効求人倍率 0.56 1.26 0.65 0.19 0.61 1.54 2.78 0.47 0.84 0.36 -」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf）
+  - 「有効求人倍率 0.56 0.63 0.61 0.62 0.62 0.59 0.51 0.49 0.50 0.51 0.49 0.55」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf）
+  - 「有効求人倍率 0.96 2.20 1.88 0.32 1.11 1.91 6.07 0.55 1.73 0.93 -」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0095/3600/2311.pdf）
+  - 「有効求人倍率 0.96 1.14 1.15 1.13 1.10 1.04 0.86 0.85 0.86 0.87 0.73 0.75」（https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0095/3600/2311.pdf）
+- 高卒・技術者：
+  - 「一方、job tagに掲載された令和6年度の全国値を見ると、機械設計技術者は3.21倍、生産・品質管理技術者は4.15倍、システムエンジニア（組込み、IoT）は4.77倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「ただし、職種によって求人倍率には差があり、CADオペレーターや半導体技術者の参考値は全職業平均を下回ります」（https://nextengineer.com/blog/know-how001/）
+  - 「工場の自動化やDXが進むと、新しい設備の設計・導入だけでなく、既存設備との連携や安定稼働を支える技術者も必要です」（https://nextengineer.com/blog/know-how001/）
+  - 「製造技術者（開発）／生産工程従事者（近似）」（https://nextengineer.com/blog/know-how001/）
+  - 「※2 試験・評価エンジニアの直近倍率は、実験や評価業務を含む「自動車技術者」の参考値です」（https://nextengineer.com/blog/know-how001/）
+  - 「機械設計エンジニアに近い「機械設計技術者」の有効求人倍率は、令和6年度の全国値で3.21倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「電気・電子設計エンジニアに近い「電子機器技術者」の有効求人倍率は、令和6年度の全国値で2.68倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「機器の高機能化や電子制御の拡大に伴い、以下の業務に対応できる技術者が幅広い製造分野で必要とされています」（https://nextengineer.com/blog/know-how001/）
+  - 「生産技術エンジニアに近い「生産・品質管理技術者」の有効求人倍率は、令和6年度の全国値で4.15倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「試験・評価エンジニアの参考となる「自動車技術者」の有効求人倍率は、令和6年度の全国値で2.75倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「注意として、自動車技術者には設計開発や工程管理なども含まれるため、試験・評価業務だけを示す倍率ではありません」（https://nextengineer.com/blog/know-how001/）
+  - 「自動車の電動化や工場の自動化、製品のIoT化が進むなか、機械とソフトウェアをつなぐ技術者の役割が広がっています」（https://nextengineer.com/blog/know-how001/）
+  - 「設計者や技術者の指示をもとに、CADを使って主に以下の業務を担当します」（https://nextengineer.com/blog/know-how001/）
+  - 「半導体・FPD製造技術者に近い「半導体技術者」の有効求人倍率は、令和6年度の全国値で1.09倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「自動化設備が増えた場合も、トラブルの原因を見つけ、復旧や再発防止につなげる技術者が欠かせません」（https://nextengineer.com/blog/know-how001/）
+- 採用できず起きたこと：
+  - 「・生産計画の策定 ・受注管理 ・発注管理 ・在庫管理 ・製造管理 ・工程管理 ・外注管理 ・進捗管理 ・品質管理 ※製造部生産管理グループ 部長以下11名でうち女性は2名、年齢構成は役職者は50代、メンバーは30代前半から半ばとなっています」（https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 規模別：
+  - 「『賃上げ(従業員への還元)』：79.4%（全体2位）」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「-従業員規模が299人以下」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「-従業員規模が300人以上」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「-従業員規模による偏りは少なく、「あまりうまくいっていない」「うまくいっていない」」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「-「中堅従業員が不足している」：51.9%」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「大手による想定入職者数1,000人を減ずると、中堅・中小企業における免状取得者は約5,000人と推計される」（https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf）
+  - 「中小企業 単価 機械電気の技術者 製造業の求人・仕事・採用｜スタンバイでお仕事探し」（https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「○中小企業等協同組合の設立及び運営支援 ○創業、起業、経営革新等の相談対応、支援 ○企業間交流や企業のマッチング等の提案・コーディネート ○国・県等の受託事業に係る事務業務 ○その他、中小企業の発展・成長に寄与する各種事業 等 ＊外出用務には社有車を使用（ＡＴ車） 変更範囲：変更無し」（https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「土/日/祝/夏季休暇/年末年始休暇/完全週休二日制/創立記念日/年間有給休暇11日～22日（下限日数は入社半年経過後の付与日数） 退職金/持株制度/共済制度/従業員積立金制度/住宅財形貯蓄制度・融資制度/慶弔休暇/カフェテリアプラン/定年制有り（60歳まで）/再雇用制有り」（https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「経験不問／中小企業を支援する「団体職員」／27年4月入社採用」（https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「公益財団法人東京都中小企業振興公社 《経験不問》中小企業を支援する【団体職員】*27年4月入社採用 ※応募に当たっては、マイナビ転職の会員登録が必須となっております」（https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【仕事内容】 【東京都政策連携団体】都内中小企業を対象に各種支援事業を担当します」（https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「※配属先（総合支援課/生産向上支援課/助成課など）によって業務は異なります「中小企業への支援事業」を軸に、幅広い業務をお任せします」（https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「ブランクOK高時給の採用人事アシスタント／週2日～／採用経験を／もう一度仕事に／中小企業を支える採用支援スタッフ／フルリモート・時短OK」（https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「給与： 時給1500~2200円 仕事内容： ＼ 採用・人材業界での経験を、もう一度活かしませんか？ ／ ≫ フルリモートOK！ ≫ 週2日・1日4時間～相談OK ≫ ブランクのある方も歓迎！ Lifortuneは、中小企業専門の採用コンサルティング会社です」（https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 地域別：
+  - 「一方、job tagに掲載された令和6年度の全国値を見ると、機械設計技術者は3.21倍、生産・品質管理技術者は4.15倍、システムエンジニア（組込み、IoT）は4.77倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「job tagに掲載された令和6年度の全国有効求人倍率を見ると、職種によって0.79倍から6.00倍まで差があり、機械・電気系全体を1つの数値で捉えることはできません」（https://nextengineer.com/blog/know-how001/）
+  - 「機械設計エンジニアに近い「機械設計技術者」の有効求人倍率は、令和6年度の全国値で3.21倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「電気・電子設計エンジニアに近い「電子機器技術者」の有効求人倍率は、令和6年度の全国値で2.68倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「生産技術エンジニアに近い「生産・品質管理技術者」の有効求人倍率は、令和6年度の全国値で4.15倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「設備保全エンジニアの参考となる「物流設備管理・保全」の有効求人倍率は、令和6年度の全国値で6.00倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「品質保証・品質管理の参考となる「検査工（工業製品）」の有効求人倍率は、令和6年度の全国値で4.03倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「試験・評価エンジニアの参考となる「自動車技術者」の有効求人倍率は、令和6年度の全国値で2.75倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「組込みエンジニアに該当する「システムエンジニア（組込み、IoT）」の有効求人倍率は、令和6年度の全国値で4.77倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「CADオペレーターの有効求人倍率は、令和6年度の全国値で0.79倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「半導体・FPD製造技術者に近い「半導体技術者」の有効求人倍率は、令和6年度の全国値で1.09倍です」（https://nextengineer.com/blog/know-how001/）
+  - 「令和6年度の全国有効求人倍率を見ると、設備保全エンジニアの参考値は6.00倍、組込みエンジニアは4.77倍、生産技術エンジニアは4.15倍でした」（https://nextengineer.com/blog/know-how001/）
+  - 「*1：電気保安協会全国連絡会提供資料よりDTC推計 *2：試験合格による免状取得者の就業状況を認定による免状取得者にも適用し合計値を計算」（https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf）
+  - 「出典: 全国工業高等学校長協会「R05卒業者調査」/ UZUZ「工業高校出身者の就職」/ 関東工業自動車大学校「工業高校からの進路選択」/ トモヤログ「情報技術科」」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「（全建総連東京都連合会 2024年賃金調査報告書）」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+- 採用にかけるお金：
+  - 「では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です」（https://nextengineer.com/blog/know-how001/）
+  - 「月給30万円以上の求人を見てみる」（https://nextengineer.com/blog/know-how001/）
+  - 「製造業における賃金の推移 ：3.66万円増加」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「(2008年：29.34万円 ⇒ 2025年：33.00万円)」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「非製造業における賃金の推移：4.15万円増加」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「(2008年：29.91万円 ⇒ 2025年：34.06万円)」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「製造業における賃金の推移 ：1.14万円増加」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「(2024年：31.86万円 ⇒ 2025年：33.00万円)」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「非製造業における賃金の推移：1.02万円増加」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「(2024年：33.04万円 ⇒ 2025年：34.06万円)」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「約247万円」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「約400万円」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「約500万円」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「650〜750万円」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+  - 「800〜1,000万円」（https://yumesuta.com/career-guide/blog/industrial-highschool-jobs）
+- 出典の種類：
+  - 「本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します」（https://nextengineer.com/blog/know-how001/）
+  - 「ものづくり白書から見る機械・電気系人材が不足する理由」（https://nextengineer.com/blog/know-how001/）
+  - 「厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした」（https://nextengineer.com/blog/know-how001/）
+  - 「一般職業紹介状況(令和7年3月分及び令和6年度分)について」（https://nextengineer.com/blog/know-how001/）
+  - 「一般職業紹介状況（職業安定業務統計） 一般職業紹介状況 ～令和8年5月 長期時系列表 21 職業別労働市場関係指標（実数）（平成21年改定）（令和4年4月～） 月次 | ファイル | 統計データを探す | 政府統計の総合窓口」（https://nextengineer.com/blog/know-how001/）
+  - 「2026年版ものづくり白書（ものづくり基盤技術振興基本法第8条に基づく年次報告）」（https://nextengineer.com/blog/know-how001/）
+  - 「ものづくり白書2026｜製造業の人材不足・技能継承課題を人事向けに解説」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「2026年5月29日、経済産業省より『2026年版ものづくり白書』が公表されました」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「本白書は、日本の製造業を取り巻く現状や課題、今後の成長戦略を整理した重要な年次レポートです」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「本記事では、白書の中から「人材」に関する内容に絞り、人事部門が押さえるべきポイントを整理します」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「『ものづくり白書2026』第1部 第1章 第2節の“我が国製造業を取り巻く社会情勢変化”では製造業を取り巻く外部環境の変化が整理されています」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「製造業の人材不足は「単なる採用難」ではなく、構造的な問題として長期化しており、白書データからは、以下の複数の要因が複合的に影響していることが分かります」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「また当社調査においても、OJTへの依存や講師不足、育成時間の不足が主要課題として挙げられており、」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「独自調査レポートをダウンロードする（無料）」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+  - 「ものづくり白書2026の分析から、」（https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/）
+
+## 高卒の製造業採用（high school graduate hiring manufacturing Japan）
+- 文脈：高卒
+- 求人倍率・充足率：
+  - 「高卒採用で特に課題と感じていることでは、「応募者数の不足」が36.4％で最も高く、「企業認知度の不足」が31.1％で続いた」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「「大卒求人倍率調査」（2020年卒結果）」（https://www.works-i.com/column/works04/detail002.html）
+  - 「さらに、この大卒就職市場を遥かに超える2.78倍（※２）という求人倍率となっているのが高卒者の就職市場である」（https://www.works-i.com/column/works04/detail002.html）
+  - 「大卒求人倍率調査（2020年卒）」（https://www.works-i.com/column/works04/detail002.html）
+  - 「高卒新卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「1. 全国の求人倍率推移」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「高卒の求人倍率は過去30年で最も高い水準にある」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「厚生労働省が公表する「高校・中学新卒者のハローワーク求人に係る求人・求職状況」によると、令和7年3月卒の求人倍率は4.10倍で過去最高を更新しました」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「求人倍率4.10倍とは、高校生1人に対して4件以上の求人がある状態です」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「3. 学科別の求人倍率と就職率」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「工業高校の求人倍率は31.9倍で、高卒全体（4.10倍）を大きく上回る」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「愛知県の高卒求人倍率は4.82倍で、全国の4.10倍を上回る（いずれも令和7年3月末現在）」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「求人倍率4.82倍は全国の4.10倍を上回っており、東海地方の製造業企業にとって高卒人材の獲得は一段と厳しい状況です」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「高卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）で過去最高を更新した」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「（速報）工業高校生の求人倍率31.9倍、北海道はなんと69.6倍にも ｜セルアド（18歳新卒ラボ）」（https://sales-adventure.jp/column/Fhx3f_tM）
+- 高卒・技術者：
+  - 「設備保全・技能職は今後も採用での充足がほぼ不可能な領域」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：地元の高校・高専・工業高校との関係構築は最強の採用チャネル」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「特に地方の中小製造業にとって、地元工業高校との」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「ベテラン技能者の定年を数年後に控え、加工条件・検査の勘所を動画とデータベースに落とし込む技能継承プロジェクトを実施」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「地元工業高校への出前授業とインターン受け入れ、を」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「高校新卒の応募が復活し、毎年の定期採用サイクル」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「2021年に新卒入社後、3年という速さで現職のリーダーに就任」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「高卒採用を4社に1社が予定―大企業は4割超に」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「新卒採用（2028年卒）」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「株式会社帝国データバンクは2026年9月25日、全国の企業を対象に「2027年度の『高卒採用』に関する企業の意識調査」の結果を発表した」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「調査結果から、高卒採用を予定する企業の割合や採用理由、採用活動から入社後の育成・定着に至るまでの課題などが明らかになった」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「2027年度の高卒採用、「予定あり」は24.4％」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「少子化による若年層の減少や人手不足が課題となるなか、高校新卒者の採用を人材確保の手段として検討する企業もある」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「2027年度の高卒採用を予定する企業はどの程度あり、採用にあたってどのような課題を抱えているのだろうか」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「2027年度の高卒採用について、2026年度と比べた採用予定を尋ねたところ、「増加する（見込みを含む）」と回答した企業は4.9％、「変わらない（見込みを含む）」は15％、「減少する（見込みを含む）」は4.5％だった」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+- 採用できず起きたこと：
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：受注辞退・失注による機会損失（表面化しにくいが最も大きい）」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：残業代・外注費の増加、経験不足による不良・手直しの増加」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「そして最終形が、前述の「黒字廃業・人手不足倒産」です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「後継者不足や熟練工の退職により、技術やノウハウの継承が困難になり、事業の縮小や撤退を余儀なくされるケースも発生しています」（https://lab.jinjib.co.jp/archives/6609/）
+  - 「自動化、生産工程の見直し、外注活用」（https://lab.jinjib.co.jp/archives/6609/）
+  - 「「工業高校出身者しか採用しない」は機会損失？ 工業高校生徒の動向と高卒採用を成功させるためのヒント」（https://mizusaki-inc.com/knowledge/article30）
+  - 「【人事・採用ニュース6選】人手不足倒産は4年連続で過去最多、カスハラ対策は義務化へほか｜2026年10月25日〜26日分」（https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8）
+- 規模別：
+  - 「製造業の人材不足はなぜ解決しないのか？データで見る本当の原因と、中小企業が打つべき対策の全て」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員や幹部の退職を直接の引き金とする「従業員退職型」も」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「中小企業」は、人材獲得競争において三重のハンデを背負っている」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「】少ない人数で回る工場をつくる打ち手（省人化・小規模」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「」と聞くと、大企業のスマートファクトリーや数千万円の生産管理システムを想像して尻込みする経営者が少なくありません」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員数十名規模の工場ほど、小規模」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「大企業型のスマートファクトリーを目指す必要はまったくありません」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「外国人材の受け入れは中小企業でも現実的ですか？」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「高卒採用を4社に1社が予定―大企業は4割超に」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「採用予定割合は大企業42.7％、製造業・建設業で高く」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「企業規模別に見ると、2027年度の高卒採用を「予定あり」とした企業は、大企業が42.7％、中小企業が21.2％だった」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「大企業が中小企業を21.5ポイント上回っており、中小企業のうち小規模企業では11.2％にとどまっている」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「従業員数別でも、採用予定割合は従業員数が多い企業ほど高い傾向にあった」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+- 地域別：
+  - 「私は船井総合研究所の製造業コンサルタントとして、年間を通じて全国の中小製造業の現場に入り、経営者の皆様とこの問題に向き合ってきました」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「株式会社帝国データバンクは2026年9月25日、全国の企業を対象に「2027年度の『高卒採用』に関する企業の意識調査」の結果を発表した」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「調査期間は2026年8月18日～31日で、全国2万2,060社を対象に1万560社から有効回答を得ている」（https://www.hrpro.co.jp/trend_news.php?news_no=3840）
+  - 「（※６）全国工業高等学校長会の独自調査による」（https://www.works-i.com/column/works04/detail002.html）
+  - 「（※９）リクルートワークス研究所,「全国就業実態パネル調査2018」より筆者作成、ウェイトX18を活用して分析」（https://www.works-i.com/column/works04/detail002.html）
+  - 「この記事では、全国・地域別・産業別・学科別の求人倍率データを網羅的に解説します」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「1. 全国の求人倍率推移」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「この「需要と供給のギャップ」が31.9倍（全国工業高等学校長協会「」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「高卒就職者の就職先を産業別に見ると（令和7年3月卒業者・全国127,501人）、製造業が圧倒的な割合を占めていることがわかります」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「特に東海地方は自動車・機械関連の製造業が集積しており、製造業に就職する割合はさらに高くなります（愛知県は57.2%・令和7年3月卒業者）」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「愛知県の高卒求人倍率は4.82倍で、全国の4.10倍を上回る（いずれも令和7年3月末現在）」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「就職内定者8,303人は全国最多」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「愛知県はハローワーク経由の高卒就職内定者数（8,303人）が全国で最も多い県です」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「求人倍率4.82倍は全国の4.10倍を上回っており、東海地方の製造業企業にとって高卒人材の獲得は一段と厳しい状況です」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「岐阜県も4.19倍と全国を上回り、静岡県（3.59倍）・三重県（3.06倍）も高校生1人に3件以上の求人がある状態です」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+- 採用にかけるお金：
+  - 「400万円以上」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「607万円 → 300万円」（https://yumesuta.com/kosotsusaiyo/job-ratio-data）
+  - 「年間休日125日、住宅手当月3万円や借上社宅制度、入社祝い金5万円など、新生活を支える制度も充実しています」（https://www.harikennabi.jp/recruit/?gyosyu_id=g06）
+  - 「☆入社祝い金5万円」（https://www.harikennabi.jp/recruit/?gyosyu_id=g06）
+  - 「☆借上社宅制度（自己負担は月4万円）」（https://www.harikennabi.jp/recruit/?gyosyu_id=g06）
+  - 「☆収入例：20代・年収480万円ほど／30代・年収670万円ほど」（https://www.harikennabi.jp/recruit/?gyosyu_id=g06）
+  - 「頼れるアシスタントが月額2.5万円で多種多様な業務をサポート」（https://www.alternativework.jp/management/highschool-graduate_recruitment/）
+  - 「月給23.9万円〜26.5万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収900万円〜2,499万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給25万円〜50万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収500万円〜600万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給25.2万円〜31.6万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給25万円〜30万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収477万円〜633万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「化学系製造業の製造オペレーター｜正社員｜岡山県倉敷市｜年収477万円～633万円 【化学系製造業の製造オペレーター／倉敷市】転勤なし／福利厚生充実 本ポジションは、アリルクロライド製造における運転管理、点検、品質確認、保全支援および改善業務を担当いただくお仕事になります」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 出典の種類：
+  - 「総務省「労働力調査」によると、製造業の就業者数は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：経済産業省・厚生労働省・文部科学省「」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「厚生労働省「一般職業紹介状況」を見ると、製造現場の中核職種である「生産工程の職業」の有効求人倍率は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：厚生労働省「一般職業紹介状況（職業安定業務統計）」（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「経済産業省等「ものづくり白書」によれば、製造業の」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、厚生労働省「一般職業紹介状況」（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「ものづくり白書の調査では、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版アーカイブ」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「厚生労働省「一般職業紹介状況（職業安定業務統計）」」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+- 検索結果の抜粋：
+  - 「「 工業高校 出身者しか 採用 しない」は機会損失 ... - ミズサキ — 「 工業高校 出身者しか 採用 しない」は機会損失 ... - ミズサキ ミズサキ https://mizusaki-inc.com > knowledge > article30」（https://mizusaki-inc.com/knowledge/article30）
+  - 「（速報） 工業高校生 の 求人倍率 31.9倍、北海道はなんと69.6倍 ... — （速報） 工業高校生 の 求人倍率 31.9倍、北海道はなんと69.6倍 ... セルアド https://sales-adventure.jp > column」（https://sales-adventure.jp/column/Fhx3f_tM）
+  - 「高卒採用 コスト完全分析 | 大卒 採用 と50-80%削減・投資回収 ... — 高卒採用 コスト完全分析 | 大卒 採用 と50-80%削減・投資回収 ... ゆめスタ https://yumesuta.com > 高卒採用」（https://yumesuta.com/kosotsusaiyo/cost-analysis）
+
+## 中小製造業の人手不足（SME manufacturer labor shortage Japan）
+- 文脈：規模別
+- 求人倍率・充足率：
+  - 「2025年の有効求人倍率は1.22倍」（https://partners.en-japan.com/special/260225/）
+  - 「主要都市の有効求人倍率は、東京「1.09倍」、愛知「1.21倍」、北海道「1.00倍」」（https://partners.en-japan.com/special/260225/）
+  - 「全体の有効求人倍率は1.22倍と、コロナ禍前の水準（2019年：1.60倍）には遠く及ばず、2年連続で低下」（https://partners.en-japan.com/special/260225/）
+  - 「有効求人倍率（パートタイムを含む一般）／2025年の月別の数値は季節調整値」（https://partners.en-japan.com/special/260225/）
+  - 「厚生労働省が発表した2025年の平均有効求人倍率は「1.22倍」」（https://partners.en-japan.com/special/260225/）
+  - 「ここからは、いよいよ本題となる全国47都道府県の有効求人倍率の推移を確認していきましょう」（https://partners.en-japan.com/special/260225/）
+  - 「有効求人倍率がもっとも高かったのは福井の「1.80倍」、最低は福岡県となっています」（https://partners.en-japan.com/special/260225/）
+  - 「代表的な10職種の有効求人倍率」（https://partners.en-japan.com/special/260225/）
+  - 「※厚生労働省 2025年12月 第２１表-１４ 職業別有効求人倍率（パート除く常用）」（https://partners.en-japan.com/special/260225/）
+  - 「代表的な10職種の有効求人倍率の推移を確認します」（https://partners.en-japan.com/special/260225/）
+  - 「南関東の有効求人倍率2024年12月→2025年12月」（https://partners.en-japan.com/special/260225/）
+  - 「2025年12月の東京都の有効求人倍率は「1.09倍」となりました」（https://partners.en-japan.com/special/260225/）
+  - 「求人倍率が 2.97倍 → 3.24倍」（https://partners.en-japan.com/special/260225/）
+  - 「によると、令和6年5月時点における製造業の欠員率（常用労働者に対する未充足求人の割合）は2.0%となっており、人手不足を早急に解決できる方法が求められています」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage）
+  - 「2026年現在、製造業の有効求人倍率は高止まりを続けており、特に現場の技術職や生産管理職では「1人の求職者を複数の企業が奪い合う」激戦状態です」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+- 高卒・技術者：
+  - 「中途採用ノウハウ、ユーザー調査、法改正情報が満載！」（https://partners.en-japan.com/special/260225/）
+  - 「●建築・土木技術者は、唯一「右肩上がり」の超難関職種」（https://partners.en-japan.com/special/260225/）
+  - 「設備保全・技能職は今後も採用での充足がほぼ不可能な領域」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：地元の高校・高専・工業高校との関係構築は最強の採用チャネル」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「特に地方の中小製造業にとって、地元工業高校との」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「ベテラン技能者の定年を数年後に控え、加工条件・検査の勘所を動画とデータベースに落とし込む技能継承プロジェクトを実施」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「地元工業高校への出前授業とインターン受け入れ、を」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「高校新卒の応募が復活し、毎年の定期採用サイクル」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「2021年に新卒入社後、3年という速さで現職のリーダーに就任」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「文部科学省の学校基本調査や厚生労働省の新規学卒者就職状況調査を見ても、高校・大学の新卒者の製造業への就職率は、かつてに比べて伸び悩む傾向にあります」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「製造業の人手不足が止まらないもう一つの根本原因は、熟練技能者の引退による「技能継承の困難」と、」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「多くの製造現場では、長年の経験と勘に裏打ちされた熟練技術者が、品質や生産効率を支えています」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「長年の経験と知識を持つ熟練技能者が定年などで引退する際、後継者が育っていないために、その高度な技術やノウハウが失われてしまう「技術継承の困難」が顕在化しています」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「新卒一辺倒ではなく、経験豊富な中途採用者を積極的に受け入れることも重要です」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「３．ベテラン技術者の高齢化と大量退職」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+- 採用できず起きたこと：
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：受注辞退・失注による機会損失（表面化しにくいが最も大きい）」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：残業代・外注費の増加、経験不足による不良・手直しの増加」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「そして最終形が、前述の「黒字廃業・人手不足倒産」です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「また、帝国データバンクの調査によると、人手不足が原因で倒産する企業は年々増加傾向にあり、製造業も例外ではありません」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「帝国データバンクの調査によると、2023年度の「人手不足倒産」は過去最多を更新し、その中でも製造業は常に上位に位置しています」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「ある調査では、中小製造業の約3割が人手不足を理由に新規受注を断念した経験があると回答しており、これは機会損失だけでなく、企業の成長機会を奪っていることを意味するのです」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「放置するとどうなるか｜廃業・倒産・技能継承の断絶」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「中小企業庁の調査では、製造業の中小企業のうち相当数が後継者不在を抱えており、現役経営者の高齢化と相まって、自主廃業を選ぶケースも増えています」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は近年増加傾向にあり、2025年度は441件で過去最多となっています」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「一度途切れた技能は復元が難しく、廃業の引き金になることがあります」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+- 規模別：
+  - 「同時に、従業員の定着が進み、皮肉にも労働市場に新たな求職者が出にくい状況が生まれています」（https://partners.en-japan.com/special/260225/）
+  - 「東京の物価上昇（家賃・食費）に対し、賃上げが追いつかない中小企業の社員が、より高い給与を求めて大手や外資へ流出しています」（https://partners.en-japan.com/special/260225/）
+  - 「製造業の人材不足はなぜ解決しないのか？データで見る本当の原因と、中小企業が打つべき対策の全て」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員や幹部の退職を直接の引き金とする「従業員退職型」も」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「中小企業」は、人材獲得競争において三重のハンデを背負っている」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「】少ない人数で回る工場をつくる打ち手（省人化・小規模」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「」と聞くと、大企業のスマートファクトリーや数千万円の生産管理システムを想像して尻込みする経営者が少なくありません」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員数十名規模の工場ほど、小規模」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「大企業型のスマートファクトリーを目指す必要はまったくありません」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「外国人材の受け入れは中小企業でも現実的ですか？」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「特に中小製造業では、ベテラン従業員の高齢化と若手人材の確保難が重なり、事業継続そのものが困難になるケースも散見されます」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「生産性の低下、技術力や競争力の喪失、そして既存従業員の負担増とそれに伴う離職率の上昇は、負の連鎖を生み出し、事業継続そのものを危うくするリスクがあるのです」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+  - 「人手が足りない職場では、残された従業員一人ひとりへの業務負担が必然的に増加します」（https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/）
+- 地域別：
+  - 「主要都市の有効求人倍率は、東京「1.09倍」、愛知「1.21倍」、北海道「1.00倍」」（https://partners.en-japan.com/special/260225/）
+  - 「東京・愛知・大阪・福岡・札幌の5大都市と、職種別（10職種）の最新採用難易度をチェック！」（https://partners.en-japan.com/special/260225/）
+  - 「そこで今回は、「[2026年版]採用難易度レポート」と題し、採用戦略検討に役立つ東京・愛知・大阪・福岡・札幌の各種データをお届けします」（https://partners.en-japan.com/special/260225/）
+  - 「ここからは、いよいよ本題となる全国47都道府県の有効求人倍率の推移を確認していきましょう」（https://partners.en-japan.com/special/260225/）
+  - 「2025年12月時点では、東京は「1.09倍」 、愛知「1.21倍」、大阪「0.99倍」、福岡「0.98倍」、北海道「1.00倍」となりました」（https://partners.en-japan.com/special/260225/）
+  - 「物価高や人手不足による工期遅延が全国的に常態化する中、有資格者・経験者の奪い合いが激化しています」（https://partners.en-japan.com/special/260225/）
+  - 「南関東の求人倍率推移／東京都の「職種別」有効求人倍率」（https://partners.en-japan.com/special/260225/）
+  - 「（引用）東京労働局HP 求人・求職バランスシート （2025年12月分）一般常用」（https://partners.en-japan.com/special/260225/）
+  - 「2025年12月の東京都の有効求人倍率は「1.09倍」となりました」（https://partners.en-japan.com/special/260225/）
+  - 「情報通信業の新規求人数が減少する影響を大きく受けているのが東京です」（https://partners.en-japan.com/special/260225/）
+  - 「東京の物価上昇（家賃・食費）に対し、賃上げが追いつかない中小企業の社員が、より高い給与を求めて大手や外資へ流出しています」（https://partners.en-japan.com/special/260225/）
+  - 「東海の求人倍率推移／愛知県の職種別有効求人倍率」（https://partners.en-japan.com/special/260225/）
+  - 「（引用）愛知労働局HP 求人・求職バランスシート （2025年12月分）(パートタイムを含む常用)」（https://partners.en-japan.com/special/260225/）
+  - 「愛知県の有効求人倍率は「1.21倍」となり、主要都市で最も高い水準を維持していますが、前年よりは低下しています」（https://partners.en-japan.com/special/260225/）
+  - 「1人の求職者に対して約8件の求人がある計算で、愛知県内でも特に採用難易度が高い職種です」（https://partners.en-japan.com/special/260225/）
+- 採用にかけるお金：
+  - 「最大9,000万円規模の補助が可能です」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「実際に、5年以上採用ゼロだった企業が開始3ヶ月で採用を実現した事例や、応募数10倍・採用単価1/2といった実績も生まれています」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「IT・教育・標準化など無形：約300万円」（https://note.com/matsubzym/n/nc43f7ce5a729）
+  - 「ロボット＋周辺設備：約800万円」（https://note.com/matsubzym/n/nc43f7ce5a729）
+  - 「3年累計の人件費削減・増産効果：1,800〜2,000万円相当（概算）」（https://note.com/matsubzym/n/nc43f7ce5a729）
+  - 「「数千万円かけたが、人も変わらずシステムも使われていない」」（https://note.com/matsubzym/n/nc43f7ce5a729）
+  - 「設備・IT・AIへの投資は、失敗すれば数百万円〜数千万円が」（https://note.com/matsubzym/n/nc43f7ce5a729）
+- 出典の種類：
+  - 「中途採用ノウハウ、ユーザー調査、法改正情報が満載！」（https://partners.en-japan.com/special/260225/）
+  - 「以後、編集長として採用・人事労務・雇用関連の調査や情報発信を行なう」（https://partners.en-japan.com/special/260225/）
+  - 「※厚生労働省 ※令和7年（2025年）12月分 （2026年1月30日公表）」（https://partners.en-japan.com/special/260225/）
+  - 「厚生労働省が発表した2025年の平均有効求人倍率は「1.22倍」」（https://partners.en-japan.com/special/260225/）
+  - 「※厚生労働省 2025年12月 都道府県（就業地）別 労働市場関係指標（実数、季節調整値））」（https://partners.en-japan.com/special/260225/）
+  - 「※都道府県別の有効求人倍率は、「就業地別」の調査結果データを採用しています」（https://partners.en-japan.com/special/260225/）
+  - 「「受理地別」の調査結果と比較して、より各都道府県の就業数に即した数値となっております」（https://partners.en-japan.com/special/260225/）
+  - 「※厚生労働省 2025年12月 第２１表-１４ 職業別有効求人倍率（パート除く常用）」（https://partners.en-japan.com/special/260225/）
+  - 「（引用）東京労働局HP 求人・求職バランスシート （2025年12月分）一般常用」（https://partners.en-japan.com/special/260225/）
+  - 「（引用）愛知労働局HP 求人・求職バランスシート （2025年12月分）(パートタイムを含む常用)」（https://partners.en-japan.com/special/260225/）
+  - 「「仕事はあるが、採用する体力がない」という声が労働局に寄せられている状況です」（https://partners.en-japan.com/special/260225/）
+  - 「労働局の分析でも、配送・輸送の求人は高止まりしていますが、あまりの採用難に求人を控える企業も見受けられるようです」（https://partners.en-japan.com/special/260225/）
+  - 「（引用）大阪労働局HP 求人求職バランスシート※フルタイム （2025年12月分）」（https://partners.en-japan.com/special/260225/）
+  - 「（引用）福岡労働局HP 求人求職バランスシート※常用・フルタイム（2025年12月分）」（https://partners.en-japan.com/special/260225/）
+  - 「福岡労働局の分析では、福岡県が「全国最低水準」の倍率になるのは、求人が少ないからだけではなく、「求職者が増え続けている」というポジティブかつ特殊な事情があるとのこと」（https://partners.en-japan.com/special/260225/）
+
+## 中堅・大企業製造業の採用（large manufacturer hiring difficulty Japan）
+- 文脈：規模別
+- 求人倍率・充足率：
+  - 「第42回 ワークス大卒求人倍率調査（2026年卒）」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「【大卒求人倍率1.66倍】前年から低下も、引き続き堅調な採用意欲」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「人と組織に関する研究機関・ リクルートワークス研究所は 、2026年3月卒業予定の大卒求人倍率（ 大学院卒」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「【求人倍率】（詳細5～11ページ）」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 来春2026年3月卒業予定の大学生・ 大学院生対象の大卒求人倍率は1 .66倍と、2025年卒の1.75倍より0.09」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「コロナ禍後に大卒求人倍率が上昇に転じた2023 年卒以降、3年連続で上昇した後、 低下し」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 従業員規模別に見ると、 300人未満企業で大卒求人倍率が上昇、 300～999人企業および1000 ～4999人企」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 図表1 求人総数および民間企業就職希望者数・求人倍率の推移」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 図表2 従業員規模別 求人倍率の推移」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「注2：2021年3月卒の求人倍率について 、企業調査は2020年6月に実施されている」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「一方で従業員規模別・業種別の求人倍率集計に必要な学生側のデータは、2020年3月時点の調査を使用しており、コ」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 2026年3月卒の大卒求人倍率を従業員規模別に見ると、 300人未満企業で前年より2 .48ポイント上昇した」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「4999人企業）で大卒求人倍率が1倍を超える状況が続いている」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「模の小さい企業ほど求人倍率が高く、採用難度が高い状況である（詳細6～8ページ）」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「特に2024年の高卒新卒者においては、求人倍率が3.98倍と非常に高い水準に達しておりこの記事では、工業高校生を採用したいと考えている企業に向けて、」（https://www.takumi-base.com/hr-branding024/）
+- 高卒・技術者：
+  - 「かかわらず、前年の新卒採用計画に対して採用実績人数が過少となった企業では 、2026年卒の新卒採用予」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「民間企業への就職意向の調査から、大卒者の求人倍率を算出し、新卒採用における求人動向の需給バランス」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「2026年4月入社の新卒採用活動で初任給に差をつけた採用の実施割合 13」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「注1：集計対象は、各年4月入社の新卒採用実施企業」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「参考【2026年4月入社の新卒採用活動で初任給に差をつけた採用の実施割合】」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 図表11 2026年4月入社の新卒採用活動で初任給に差をつけた採用の実施割合」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「注1：集計対象は、各年4月入社の新卒採用実施予定・実施企業」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「正社員「不足」は 53.2％ 新卒採用に苦戦する企業は増加傾向」（https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf）
+  - 「正社員の不足理由について見ると、 「求人に対する応募が少ない」 （64.0％）が最も多く、次いで「新卒」（https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf）
+  - 「者が減っている （高卒等）」（36.0％） 、 「有資格者、 技術者等の確保が難しい」（33.3％） であった （図表3）」（https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf）
+  - 「高卒 ・ 大卒ともに 「新卒者が減っている」 と回答した企業は増加傾向となった （図表4）」（https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf）
+  - 「卒・大卒の採用が難しい」 （輸送機械製造業） 、 「新卒採用が出来ず中途採用と派遣社員に頼っている」(は」（https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf）
+  - 「ん用機械製造業)など、新卒採用に苦戦しているとの声が多く聞かれた」（https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf）
+  - 「企業の人手不足対応は、 「中途採用の強化」が72.2％で最も多く、次いで「賃金の引き上げ」」（https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf）
+  - 「３．ベテラン技術者の高齢化と大量退職」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+- 採用できず起きたこと：
+  - 「放置するとどうなるか｜廃業・倒産・技能継承の断絶」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「中小企業庁の調査では、製造業の中小企業のうち相当数が後継者不在を抱えており、現役経営者の高齢化と相まって、自主廃業を選ぶケースも増えています」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は近年増加傾向にあり、2025年度は441件で過去最多となっています」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「一度途切れた技能は復元が難しく、廃業の引き金になることがあります」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「事業のスリム化、無駄の排除、外注の活用」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「なぜ成功企業はオウンドメディア外注を選ぶのか？補助金で実質半額にする方法」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「オウンドメディアの外注先おすすめの選び方｜「記事を書くだけ」の会社に要注意」（https://megdai.jp/markebatake/saiyou/6434/）
+  - 「実は近年、採用コストや人材不足が原因で倒産する企業が増えており、」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「によると、2025年度には427件もの企業が、人材不足によって倒産しています」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「高額な人材紹介サービスに依存し続けるよりも、一部の業務を専門業者へ外注する方がトータルのコストを抑えられる可能性があります」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「リソース不足を理由に手軽な高額サービスへ依存するのではなく、採用代行を適切に活用して外注先を見直すことが、持続可能なコスト削減の要となります」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「目先の100万円の出費を渋ることで、将来生み出されるはずだった数1,000万円の利益を逃す機会損失の大きさを経営陣に理解してもらう必要があります」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「採用コストの最適化を提案する際は、目先のコスト削減だけでなく、機会損失や早期離職リスクを交えて論理的に説明することが重要です」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「機会損失や早期離職リスクといった経営上のリスクとセットで説明し、論理的な説得材料を用意することが、採用予算の稟議をスムーズに通すための秘訣です」（https://mizusaki-inc.com/knowledge/small-business-recruitment-costs）
+  - 「採用コストのうち外注のために発生した費用のこと」（https://www.rshd.co.jp/news/saiyou-cost.html）
+- 規模別：
+  - 「 従業員規模別に見ると、 300人未満企業で大卒求人倍率が上昇、 300～999人企業および1000 ～4999人企」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 図表2 従業員規模別 求人倍率の推移」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「従業員規模別4区分は2010年3月卒より集計を開始」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「一方で従業員規模別・業種別の求人倍率集計に必要な学生側のデータは、2020年3月時点の調査を使用しており、コ」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 2026年3月卒の大卒求人倍率を従業員規模別に見ると、 300人未満企業で前年より2 .48ポイント上昇した」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 企業側から見ると、 300人未満企業を除く全ての従業員規模（ 300～999人企業、 1000～4999人企業、」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 2023年卒以降、 5000人以上企業を除く全ての従業員規模（ 300人未満企業 、300～999人企業 、1000～」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「2026 年卒についても、相対的に従業員規」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「一方で従業員規模別・業種別の求人倍率集計に必要な学生側のデータは、2020年3月時点の調査を使用しており、」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「調査対象：従業員規模5人以上の全国の民間企業8,200社」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「注2：本資料では、従業員規模について、300人未満企業を中小企業、300～999人企業を中堅企業、1000～4999人企業および5000人以」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「中小企業庁による中小企業者の定義とは異なることに留意」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「従業員規模別 6～8」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 図表5 従業員規模（4区分）別 求人倍率の推移」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「注1：従業員規模別4区分の集計は2010年3月卒より実施」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+- 地域別：
+  - 「〒100-6640 東京都千代田区丸の内1-9-2」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「株式会社インディードリクルートパートナーズ（ 本社：東京都千代田区、代表取締役社長：淺野 健）内の、」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「 全国の民間企業の求人総数は 、前年の79.7万人から76.5万人へと3.2万人減少（ 対前年増減率は▲4.1％）」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「2026年3月卒業予定の大学生および大学院生に対する、全国の民間企業の採用予定数の調査、および学生の」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「調査対象：従業員規模5人以上の全国の民間企業8,200社」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「出典：日本銀行「全国企業短期経済観測調査（短観）」を基に中小企業庁が作成 4」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「• 東京圏（東京都、神奈川県、埼玉県、千葉県）は、若年層を中心に転入者数が転出者数を上回っている」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「伴走支援（全国協議会、ブロック協議会）」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「組みをアレンジ・活用することにより、中小・小規模事業者に向けた全国的なサポート体制を整備する」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「生産性向上に向けた全国的なサポート体制の整備」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「いても全国的に人手不足が続いていることが分かる」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「東京 948 815 -133 香川 49 47 -2」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「神奈川 553 500 -54 愛媛 66 62 -4」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+  - 「愛知 445 409 -36 沖縄 84 77 -7」（https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf）
+- 採用にかけるお金：
+  - 「最大9,000万円規模の補助が可能です」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「売上1,000万円未満 約140万者」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「50万円×グループ構成員数」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「合わせて3,000万円まで」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「(c)事務費・専門家費：200万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「１機能：～50万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「２機能以上：～350万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「～350万円 5万円～150万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「～50万円以下：3/4」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「50万円～350万円：2/3」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「5万円～150万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「150万円～450万円」（https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf）
+  - 「新卒採用の平均採用単価は56.8万円」（https://megdai.jp/markebatake/saiyou/6434/）
+- 出典の種類：
+  - 「第42回 ワークス大卒求人倍率調査（2026年卒）」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「注2：2021年3月卒の求人倍率について 、企業調査は2020年6月に実施されている」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「一方で従業員規模別・業種別の求人倍率集計に必要な学生側のデータは、2020年3月時点の調査を使用しており、コ」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「今回調査より、 サービ」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「注2：2021年3月卒の求人倍率について、企業調査は2020年6月に実施されている」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「一方で従業員規模別・業種別の求人倍率集計に必要な学生側のデータは、2020年3月時点の調査を使用しており、」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「教育」「人材ビジネス」などに関する調査・研究、情報発信、提言活動を行っています」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「2026年3月卒業予定の大学生および大学院生に対する、全国の民間企業の採用予定数の調査、および学生の」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「民間企業への就職意向の調査から、大卒者の求人倍率を算出し、新卒採用における求人動向の需給バランス」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「調査対象：従業員規模5人以上の全国の民間企業8,200社」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「調査項目：2026年3月卒業予定者の採用予定数など」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「調査期間：2025年1月23日～2月28日」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「調査対象：2026年3月卒業予定の大学生・大学院生」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「調査概要 4」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+  - 「注：2021年卒については、新型コロナウイルスの感染拡大により、調査を2回実施した」（https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf）
+
+## 京浜地域の製造業の採用（Keihin manufacturing hiring Kanagawa Tokyo）
+- 文脈：地域別
+- 求人倍率・充足率：
+  - 「令和8年7月の有効求人倍率は1.18倍で、前月と同水準」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「令和8年7月の新規求人倍率は2.10倍で、前月と比べて0.06ポイント低下」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「令和8年7月の数値をみると、有効求人倍率（季節調整値）は1.18倍となり、前月と同水準となりました」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「新規求人倍率（季節調整値）は2.10倍となり、前月を0.06ポイント下回りました」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「正社員有効求人倍率（季節調整値）は1.00倍となり、前月と同水準となりました」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県と山梨県の1.69倍、最低は大阪府の0.95倍、受理地別では、最高は東京都の1.69倍、最低は神奈川県の0.84倍となりました」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「都道府県別にみた有効求人倍率（ちょっと気になるデータ：ビジネス・レーバー・トレンド 2026年4月号）｜労働政策研究・研修機構（JILPT）」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「都道府県別の有効求人倍率は、受理地別と就業地別の2種類が公表されている」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「2025年平均の有効求人倍率についてみると、受理地別有効求人倍率は「東京都」で1.73倍と最も高く、続いて「福井県」で1.69倍、「石川県」で1.59倍などとなっている」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「就業地別有効求人倍率は「福井県」で1.84倍と最も高く、「富山県」の1.65倍、「香川県」の1.62倍などがこれに続いている（」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「図表1：都道府県別有効求人倍率（受理地別・就業地別）」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「受理地別有効求人倍率と就業地別有効求人倍率を比較してその差（就業地別有効求人倍率－受理地別有効求人倍率）をみると、「東京都」、「大阪府」、「福岡県」、「広島県」、「石川県」、「愛知県」では差がマイナス、つまり就業地別有効求人に比べて受理地別有効求人倍率が高くなっており、とくに「東京都」では－0.63ポイントとマイナスの幅が最も大きくなっている」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「図表2：就業地別有効求人倍率と受理地別有効求人倍率の差」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「【2026年8月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「【2026年10月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+- 高卒・技術者：
+  - 「中途採用ノウハウ、ユーザー調査、法改正情報が満載！」（https://partners.en-japan.com/special/260225/）
+  - 「●建築・土木技術者は、唯一「右肩上がり」の超難関職種」（https://partners.en-japan.com/special/260225/）
+  - 「建設業者からは、「高齢職人および技術者の補充が急務であるが、現状の日本の人口バランスでは困難である」（https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/）
+  - 「外国人技術者を育てるのにも課題がある」（一般電気工事、広島県）といった声が聞かれるほか、関連する業種からは「深刻な人材不足が続いており、現役世代の高齢化および引退もある」（https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/）
+  - 「製造業の新卒採用6年ぶり減 中東混乱響く、鉄鋼は2割マイナス - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/）
+  - 「全業種の内定人数は0.7%増とほぼ横ばいだった一方、中途採用は8.6%増えた」（https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/）
+  - 「東京電力の人事担当役員が語る新卒採用「強い使命感や情熱を重視」」（https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/）
+  - 「東京ガスの人事部長に聞く新卒採用「自ら学び続ける姿勢が大事」」（https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/）
+  - 「新卒内定人数、過半の23業種で減少 大卒文系は5年ぶりマイナス」（https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/）
+  - 「製造業の高卒採用｜求人4件に生徒1人の市場で学校に選ばれる会社、3年以内離職37.9%を下げる会社」（https://seizo-web.com/blog/3008/）
+  - 「高卒採用は、中途採用とルールが違います」（https://seizo-web.com/blog/3008/）
+  - 「就職を希望する高校生は、ほぼ全員がどこかに決まります（厚生労働省「令和7年度 高校・中学新卒者のハローワーク求人に係る求人・求職・就職内定状況」2026年3月末現在）」（https://seizo-web.com/blog/3008/）
+  - 「つまり、製造業の会社が高卒の求人を出したとき、競合は他業種より先に、同じ製造業の15万件です」（https://seizo-web.com/blog/3008/）
+  - 「高卒採用の流れは、全国で申し合わせが決まっています」（https://seizo-web.com/blog/3008/）
+- 採用できず起きたこと：
+  - 「「人手不足倒産」は2025年度に441件発生し、3年連続で過去最多を更新、年度ベースで初めて400件を超え、建設業が112件で全体の２５．４％を占める」（https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/）
+  - 「・生産計画の策定 ・受注管理 ・発注管理 ・在庫管理 ・製造管理 ・工程管理 ・外注管理 ・進捗管理 ・品質管理 ※製造部生産管理グループ 部長以下11名でうち女性は2名、年齢構成は役職者は50代、メンバーは30代前半から半ばとなっています」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「この内2パーセントから3パーセントといった保険料が例年未納ということになるのが通例でして、この未納分をいかに収めていただけるかといことで行政を進めているわけですが、中に倒産等、或いは事実上の倒産も含めまして、そのような例もありますので、そういう中で我々も債権者として参加をいたしまして、取れるものを取れないまま逃してしまうということのないように努力をして参りたいと考えております」（https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/news_topics/roudoukyoku/chirousin_index/chirousin_10.html）
+  - 「ここに書いてあります廃業等で(健康診断を)受けることが出来ない人について、特別健康診断の周知を図るということです」（https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/news_topics/roudoukyoku/chirousin_index/chirousin_10.html）
+- 規模別：
+  - 「同時に、従業員の定着が進み、皮肉にも労働市場に新たな求職者が出にくい状況が生まれています」（https://partners.en-japan.com/special/260225/）
+  - 「東京の物価上昇（家賃・食費）に対し、賃上げが追いつかない中小企業の社員が、より高い給与を求めて大手や外資へ流出しています」（https://partners.en-japan.com/special/260225/）
+  - 「都内の求人は大手企業と同じ媒体・同じ検索結果に並ぶため、中小企業は給与額だけで競うより、求人票の具体性と応募後の対応速度で差をつける方が現実的です」（https://innovel.jp/recruiting-market-tokyo/）
+  - 「従業員29人以下」（https://yumesuta.com/kosotsusaiyo/kanagawa/job-stats）
+  - 「従業員29人以下の小規模企業が5,469人で全体の3分の1を占め、30〜99人規模も+8.8%と伸びています」（https://yumesuta.com/kosotsusaiyo/kanagawa/job-stats）
+  - 「中小企業にとって高卒採用が生命線になりつつあることがわかります」（https://yumesuta.com/kosotsusaiyo/kanagawa/job-stats）
+  - 「29人以下の企業求人が全体の3分の1を占め、伸び率もプラスです」（https://yumesuta.com/kosotsusaiyo/kanagawa/job-stats）
+  - 「大手（1,000人以上）が-12.5%と採用枠を絞る中、中小企業こそが高卒採用の主戦場です」（https://yumesuta.com/kosotsusaiyo/kanagawa/job-stats）
+  - 「中小企業 京浜地域の製造業 単価 製造業の求人・仕事・採用｜スタンバイでお仕事探し」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「○中小企業等協同組合の設立及び運営支援 ○創業、起業、経営革新等の相談対応、支援 ○企業間交流や企業のマッチング等の提案・コーディネート ○国・県等の受託事業に係る事務業務 ○その他、中小企業の発展・成長に寄与する各種事業 等 ＊外出用務には社有車を使用（ＡＴ車） 変更範囲：変更無し」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「土/日/祝/夏季休暇/年末年始休暇/完全週休二日制/創立記念日/年間有給休暇11日～22日（下限日数は入社半年経過後の付与日数） 退職金/持株制度/共済制度/従業員積立金制度/住宅財形貯蓄制度・融資制度/慶弔休暇/カフェテリアプラン/定年制有り（60歳まで）/再雇用制有り」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「ブランクOK高時給の採用人事アシスタント／週2日～／採用経験を／もう一度仕事に／中小企業を支える採用支援スタッフ／フルリモート・時短OK」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「給与： 時給1500~2200円 仕事内容： ＼ 採用・人材業界での経験を、もう一度活かしませんか？ ／ ≫ フルリモートOK！ ≫ 週2日・1日4時間～相談OK ≫ ブランクのある方も歓迎！ Lifortuneは、中小企業専門の採用コンサルティング会社です」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「29人以下 192 185 202 182 228 223 188 185 198 183 232 226」（https://jsite.mhlw.go.jp/iwate-roudoukyoku/content/contents/002848681.pdf）
+  - 「29人以下 248 202 210 258 242 252 258 260 263 268 256 219」（https://jsite.mhlw.go.jp/iwate-roudoukyoku/content/contents/002848681.pdf）
+- 地域別：
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県と山梨県の1.69倍、最低は大阪府の0.95倍、受理地別では、最高は東京都の1.69倍、最低は神奈川県の0.84倍となりました」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「2025年平均の有効求人倍率についてみると、受理地別有効求人倍率は「東京都」で1.73倍と最も高く、続いて「福井県」で1.69倍、「石川県」で1.59倍などとなっている」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「受理地別有効求人倍率と就業地別有効求人倍率を比較してその差（就業地別有効求人倍率－受理地別有効求人倍率）をみると、「東京都」、「大阪府」、「福岡県」、「広島県」、「石川県」、「愛知県」では差がマイナス、つまり就業地別有効求人に比べて受理地別有効求人倍率が高くなっており、とくに「東京都」では－0.63ポイントとマイナスの幅が最も大きくなっている」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「都道府県別有効求人倍率の比較（全国平均：1.18倍）」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「全国計1.18倍（令和8年8月）を基準に、各都道府県の有効求人倍率を北海道から順に比較しています」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「岐阜県（1.44倍）が最も高く、次いで三重県（1.40倍）となり、いずれも全国計（1.18倍）を上回る」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「静岡県（1.20倍）も全国計をわずかに上回り、愛知県（1.18倍）は全国計と同水準」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「愛知県・岐阜県・三重県・静岡県には、自動車メーカーや自動車部品メーカーをはじめ、機械・電子部品・食品などさまざまな工場が立地しており、多くの工場求人・製造業求人が募集されています」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「主要都市の有効求人倍率は、東京「1.09倍」、愛知「1.21倍」、北海道「1.00倍」」（https://partners.en-japan.com/special/260225/）
+  - 「東京・愛知・大阪・福岡・札幌の5大都市と、職種別（10職種）の最新採用難易度をチェック！」（https://partners.en-japan.com/special/260225/）
+  - 「そこで今回は、「[2026年版]採用難易度レポート」と題し、採用戦略検討に役立つ東京・愛知・大阪・福岡・札幌の各種データをお届けします」（https://partners.en-japan.com/special/260225/）
+  - 「ここからは、いよいよ本題となる全国47都道府県の有効求人倍率の推移を確認していきましょう」（https://partners.en-japan.com/special/260225/）
+  - 「2025年12月時点では、東京は「1.09倍」 、愛知「1.21倍」、大阪「0.99倍」、福岡「0.98倍」、北海道「1.00倍」となりました」（https://partners.en-japan.com/special/260225/）
+  - 「物価高や人手不足による工期遅延が全国的に常態化する中、有資格者・経験者の奪い合いが激化しています」（https://partners.en-japan.com/special/260225/）
+  - 「南関東の求人倍率推移／東京都の「職種別」有効求人倍率」（https://partners.en-japan.com/special/260225/）
+- 採用にかけるお金：
+  - 「たとえば「月給22万円（固定残業代3万円を含む）」・月173時間の求人は、判定額19万円÷173時間で時給約1,098円となり、東京都の最低賃金（1,280円）を182円下回り、違反になります」（https://innovel.jp/recruiting-market-tokyo/）
+  - 「助っ人人事は東京都を含む全国にオンラインで対応し、月額15万円（税抜）から面接以外の採用業務を代行します」（https://innovel.jp/recruiting-market-tokyo/）
+  - 「は月額15万円（税抜）から面接以外の採用業務を代行します」（https://innovel.jp/recruiting-market-tokyo/）
+  - 「月給33万円〜 / 昇給あり」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E8%AA%BF%E6%9F%BB+2025+2026+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%89%B2%E5%90%88&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給37万円 / 賞与・昇給あり」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E8%AA%BF%E6%9F%BB+2025+2026+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%89%B2%E5%90%88&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給25万円〜35万円」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E8%AA%BF%E6%9F%BB+2025+2026+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%89%B2%E5%90%88&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給25.4万円〜35万円」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E8%AA%BF%E6%9F%BB+2025+2026+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%89%B2%E5%90%88&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給30万円」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E8%AA%BF%E6%9F%BB+2025+2026+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%89%B2%E5%90%88&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給21万円〜25万円」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E8%AA%BF%E6%9F%BB+2025+2026+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%89%B2%E5%90%88&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給38.2万円〜 / 昇給あり」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E8%AA%BF%E6%9F%BB+2025+2026+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%89%B2%E5%90%88&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給30万円〜50万円」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E8%AA%BF%E6%9F%BB+2025+2026+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%89%B2%E5%90%88&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「月給25万円〜50万円」（https://jp.stanby.com/search?q=%E4%BA%AC%E6%B5%9C%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3+%E8%AA%BF%E6%9F%BB+2025+2026+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%89%B2%E5%90%88&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/）
+  - 「400万円以上」（https://yumesuta.com/kosotsusaiyo/kanagawa/job-stats）
+  - 「607万円 → 300万円」（https://yumesuta.com/kosotsusaiyo/kanagawa/job-stats）
+- 出典の種類：
+  - 「一般職業紹介状況(令和8年7月分)について ｜ 厚生労働省｜厚生労働省」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「一般職業紹介状況(令和8年7月分)について」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「厚生労働省では、公共職業安定所（ハローワーク）における求人、求職、就職の状況をとりまとめ、求人倍率などの指標を作成し、一般職業紹介状況として毎月公表しています」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「労働に関する総合的な調査研究を実施し、その成果を広く提供しています」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「―一般職業紹介状況（職業安定業務統計）の結果から―」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「厚生労働省から2026年1月30日に令和7年分一般職業紹介状況（職業安定業務統計）の結果が公表された」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「厚生労働省の職業分類では、組立・加工・検査・機械オペレーターなどの仕事は 「生産工程従事者」に含まれます」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「厚生労働省「一般職業紹介状況（職業安定業務統計）」職業別労働市場関係指標（パート除く常用）より作成」（https://lp.man-to-man-g.com/blog/job-offer-ratio）
+  - 「中途採用ノウハウ、ユーザー調査、法改正情報が満載！」（https://partners.en-japan.com/special/260225/）
+  - 「以後、編集長として採用・人事労務・雇用関連の調査や情報発信を行なう」（https://partners.en-japan.com/special/260225/）
+  - 「※厚生労働省 ※令和7年（2025年）12月分 （2026年1月30日公表）」（https://partners.en-japan.com/special/260225/）
+  - 「厚生労働省が発表した2025年の平均有効求人倍率は「1.22倍」」（https://partners.en-japan.com/special/260225/）
+  - 「※厚生労働省 2025年12月 都道府県（就業地）別 労働市場関係指標（実数、季節調整値））」（https://partners.en-japan.com/special/260225/）
+  - 「※都道府県別の有効求人倍率は、「就業地別」の調査結果データを採用しています」（https://partners.en-japan.com/special/260225/）
+  - 「「受理地別」の調査結果と比較して、より各都道府県の就業数に即した数値となっております」（https://partners.en-japan.com/special/260225/）
+- 検索結果の抜粋：
+  - 「東京都の 有効求人倍率 は就業地別で1.07倍（ 2026 年8月 — 東京都の 有効求人倍率 は就業地別で1.07倍（ 2026 年8月 株式会社イノベル https://innovel.jp > メディア > 採用市場データ」（https://innovel.jp/recruiting-market-tokyo/）
+  - 「神奈川県の 地域 別・業種別 高卒求人 統計【令和8年3月卒】 — 神奈川県の 地域 別・業種別 高卒求人 統計【令和8年3月卒】 ゆめスタ https://yumesuta.com > 高卒採用 > 神奈川県」（https://yumesuta.com/kosotsusaiyo/kanagawa/job-stats）
+  - 「神奈川県 横浜市の新卒 採用 製造 600万円の求人情報 — 神奈川県 横浜市の新卒 採用 製造 600万円の求人情報 Indeed https://jp.indeed.com > q-新卒採用-製造-600万円-l-神奈...」（https://jp.indeed.com/q-%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8-%E8%A3%BD%E9%80%A0-600%E4%B8%87%E5%86%86-l-%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C-%E6%A8%AA%E6%B5%9C%E5%B8%82-%E6%B1%82%E4%BA%BA.html）
+  - 「第10回（平成17年度 第2回）神奈川地方労働審議会について ... — 第10回（平成17年度 第2回）神奈川地方労働審議会について ... 厚生労働省 https://jsite.mhlw.go.jp > chirousin_index > chirousin_10」（https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/news_topics/roudoukyoku/chirousin_index/chirousin_10.html）
+
+## 人手不足倒産・退職倒産（製造業）（labor shortage bankruptcy manufacturing Japan）
+- 文脈：深さ
+- 求人倍率・充足率：
+  - 「有効求人倍率は1倍台前半で推移していますが、正社員の不足を感じる企業は半数を超え、人手不足倒産も過去最多の水準です」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「2026年8月の有効求人倍率は1.18倍、帝国データバンクの2026年7月の調査で正社員が不足していると感じている企業は51.3%、東京商工リサーチの集計で2026年上半期の人手不足倒産は237件でした」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「有効求人倍率は1倍台前半」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「有効求人倍率は、ハローワークで仕事を探している人1人あたりに求人が何件あるかを表す指標です」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「厚生労働省によると、2026年8月の有効求人倍率は1.18倍で、正社員に限ると1.00倍でした（出典:」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「第２節では、特に2010年代以降の人手不足局面に着目し、欠員率が全産業的に高まっていることや、労働力需給ギャップが産業・職業をまたいで拡大していること等、足下での人手不足の状況をまとめる」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「「有効求人倍率」は、求人の総数が求職の総数を上回っている（有効求人倍率が１を超えている）状況が人手不足の状態を表すが、ハローワークを経由したものに限られること等から、「完全失業率」も併せて確認する必要がある」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「同図（１）により、有効求人倍率の推移をみると、おおむね1970年代前半、1980年代後半～1990年代前半、2000年代後半、2010年代半ば以降の４期間において、有効求人倍率が１倍を超えている」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「同図（２）により、完全失業率の推移についてみると、経年的に上昇傾向にあるものの、有効求人倍率とはおおむね逆の動きをしており、1970年代前半、1980年代後半～1990年代前半は１％ポイント程度、2010年代後半は２％ポイント強、それぞれ前後の期間に比べて低くなっている」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「同期間は1990年代後半以降続いた雇用環境の悪化の直後であり、2008年にリーマンショックが起こると、有効求人倍率や完全失業率、非自発的な離職割合等の雇用指標は軒並み悪化しており、2000年代後半の雇用情勢の改善は短期間だったことがうかがえる」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「（１）の有効求人倍率や、」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「でみたように、1993～2005年まで13年にわたり有効求人倍率は１倍を割り、2002年の完全失業率は調査開始以来過去最高の5.4％を記録するなど、2000年代後半の一時期を除いて、2010年代に至るまで雇用情勢は長期にわたり厳しい状況が続いた」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「（１）が示すように、感染症による影響を受ける前の2019年には、有効求人倍率は1.60倍と、1980年代後半から1990年代前半までのバブル期最高水準の1.40倍を超えた」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「2010年代以降、欠員率は長期間上昇するが、水準はバブル期に及ばない」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「これまでみたように2010年代には、経済の好転やサービス産業化の一層の進展により、企業の人手不足感は高まり、有効求人倍率は１倍を大きく超えて上昇、失業率は３％を下回る水準まで低下した」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+- 高卒・技術者：
+  - 「・IT技術者（情報処理・通信技術者）：1.33倍」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「中途採用の理由は、「辞めた人の補充」が最多」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「会社が中途採用をする理由は、厚生労働省が9月25日に公表した転職者実態調査（従業員5人以上の事業所が対象）に載っています」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「厚生労働省の8月の調査では、人が足りない部門に対応をした事業所のうち、66%が「中途採用の開始・拡大・強化」を、40%が「在職者の労働条件の改善（賃金）」を、37%が「求人条件（募集賃金）の引き上げ」を行っていました」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「中途採用と賃金の引き上げは、例に挙げた会社に限らず、多くの事業所が行っている対応です」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「・IT技術者：6.5%」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「中途採用の理由は「離職者の補充」が5〜6割で、育成に問題があると答えた事業所は8割です」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「求人倍率が1.33倍のIT技術者でも、就職が決まった件数は紹介の6.5%でした」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「技能者・現場監督など代替困難な人材の退職が直撃」（https://www.hrm-co.jp/knowledge/short-staffed/）
+  - 「中核となる従業員や技術者が抜けると、残った人員に負荷が集中し、さらなる退職を招く――いわゆる「退職の連鎖」が、企業の存続を脅かしているのです」（https://www.mh5.jp/announce_95702.html）
+  - 「製造業では、技能者の退職や教育不足が品質、納期、設備稼働に影響します」（https://lean-operation.com/media/management/bankruptcy/）
+  - 「中小企業の多くでは、中途採用者の早期離職が大きな課題になっているとする調査があります」（https://saas.shinwart.co.jp/kokorepo/column/kokorepo-support07/）
+  - 「給与アップ研究所の調査では、中小企業の65％以上が、中途採用者の入社後3年以内の離職を経営課題と認識しており、主な要因として「業務内容とスキルのミスマッチ」が挙げられています」（https://saas.shinwart.co.jp/kokorepo/column/kokorepo-support07/）
+  - 「HRzineニュース「中途採用の早期離職」に中小企業の65％が課題を認識 主な要因は「ミスマッチ」—給与アップ研究所調べ」（https://saas.shinwart.co.jp/kokorepo/column/kokorepo-support07/）
+  - 「人材採用コストを徹底解説！一人あたりの平均単価や算出方法、新卒・中途の差額、コスト削減のコツまで紹介」（https://go.taxita.com/column/outsourcing019/）
+- 採用できず起きたこと：
+  - 「人手不足の現状｜求人倍率・企業の不足感・倒産件数」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「有効求人倍率は1倍台前半で推移していますが、正社員の不足を感じる企業は半数を超え、人手不足倒産も過去最多の水準です」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「2026年8月の有効求人倍率は1.18倍、帝国データバンクの2026年7月の調査で正社員が不足していると感じている企業は51.3%、東京商工リサーチの集計で2026年上半期の人手不足倒産は237件でした」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「東京商工リサーチの集計では、求人難、従業員の退職、人件費の高騰を原因とする人手不足倒産が、2026年上半期に237件ありました」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「このうち人件費の高騰による倒産は120件で、前年同期の2.4倍に増えました（出典:」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「東京商工リサーチ「2026年上半期『人手不足』関連倒産動向」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「帝国データバンクの集計によると、従業員や経営幹部などの退職が原因になった倒産は2025年度に118件で、年度として初めて100件を超えました（出典:」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「帝国データバンク「人手不足倒産の動向調査（2025年度）」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「求人倍率が落ち着いて見えても、正社員の不足感と人手不足倒産は高い水準が続いている」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「人手不足倒産の動向調査（2026年度上半期）｜株式会社 帝国データバンク[TDB]」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「人手不足倒産の動向調査（2026年度上半期）」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「人手不足倒産は225件 年度上半期として4年連続で過去最多を更新 建設業・サービス業で増加傾向」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「株式会社帝国データバンクは、従業員の離職や採用難等による人手不足を要因とする「人手不足倒産」の発生状況について調査・分析を行った」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「2026年度上半期の人手不足倒産は225件となり、前年同期を11件上回り、4年連続で過去最多を更新した」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「集計対象：負債1000万円以上・法的整理による倒産」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+- 規模別：
+  - 「中小企業庁の2026年版中小企業白書でも、中小企業・小規模事業者の人手不足は依然として深刻で、とくに中規模企業で不足感が強いとされています（出典:」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「中小企業庁「2026年版 中小企業白書 第1部第1章第3節」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「東京商工リサーチの集計では、求人難、従業員の退職、人件費の高騰を原因とする人手不足倒産が、2026年上半期に237件ありました」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「人が足りない状態が続くと、残った従業員に仕事が集まり、さらに退職が続く悪循環が起きやすくなります」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「帝国データバンクの集計によると、従業員や経営幹部などの退職が原因になった倒産は2025年度に118件で、年度として初めて100件を超えました（出典:」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「2026年版中小企業白書によると、15〜64歳の人口は今後も減る見込みで、人手不足はさらに深刻になると推測されています」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「中小企業の雇用者数は、中位推計で2040年に2018年比で約8％低下し、低位推計では約16％低下する可能性があります（出典:」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「中小企業で不足している職種を見ると、専門的・技術的職業従事者やサービス職業従事者の割合が高い結果でした」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「同白書によると、中小企業へ転職した人の入職理由は「仕事の内容に興味があった」が最も多く、「労働時間、休日等の労働条件が良い」「能力・個性・資格が生かせる」が続きます」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「中小企業庁「2026年版 中小企業白書 第2部第3章第1節」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「2026年版中小企業白書によると、中小企業への入職者の約7割は転職者です」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「60歳代以上を除く各年代では、中小企業への入職者のうち、仕事探しにインターネットを使わなかった人は約2〜3割にとどまります（出典:」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「採用した従業員が定着している割合も、明確にできている事業者のほうが高くなっていました」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「同白書によると、短時間・単発で働くスポットワーク人材を現在活用している中小企業は、全体では1割未満です」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「中小企業庁「2026年版 中小企業白書 第2部第3章第2節」」（https://line-works.com/roger/column/labor-shortage-measures/）
+- 地域別：
+  - 「2026年8月の有効求人倍率は1.18倍、帝国データバンクの2026年7月の調査で正社員が不足していると感じている企業は51.3%、東京商工リサーチの集計で2026年上半期の人手不足倒産は237件でした」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「東京商工リサーチの集計では、求人難、従業員の退職、人件費の高騰を原因とする人手不足倒産が、2026年上半期に237件ありました」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「東京商工リサーチ「2026年上半期『人手不足』関連倒産動向」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「販売管理システムの開発を手がけていた愛知県の企業では、資金面の問題から人材の採用・育成に着手できない状態が続いていたなか、近年のAIやノーコードツールの台頭に対して自社開発の対応も追い付かず、事業継続を断念する一つの要因となった」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「2026年度の最低賃金は前年度から56円上昇し、全国加重平均で1177円に決定された」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「日本銀行「全国企業短期経済観測調査」による企業の雇用人員判断D.I.」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「まず、全国の有効求人倍率が同程度の水準であった1990年（1.40倍）と、2016年（1.36倍）の２時点を取り上げて、その地域差を確認してみよう」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「2016年については、1990年のような地域差はみられず、全国的に人手不足の状況が生じていることが分かる」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「により、地域別に有効求人倍率の推移をみると、1970年代には、東海で有効求人倍率が５倍にも達していたほか、関東・甲信越、近畿でも２倍を超えており、東京、名古屋、大阪といった三大都市圏の人手不足がうかがえる」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「また、北海道・東北、九州・沖縄などこれまで有効求人倍率が低かった地域においても１倍を超えるなど、これまで雇用情勢が厳しかった地域においても人手不足が生じており、人手不足が全国的なものであることが改めて確認できる」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「（１）から、国勢調査における1990～2015年にかけての都道府県別の25～54歳人口の増減率をみると、東京都、神奈川県、愛知県、滋賀県、沖縄県を除いた全ての道府県において25～54歳人口は減少し、その減少度合いは、東北・四国・中国・九州において大きい」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「一方で、同図（２）により、経済環境や雇用情勢の改善がみられ始めた2013年度から、新型コロナウイルス感染症の拡大前である2019年度までの都道府県別ＧＤＰの増加率をみると、バラつきはありつつも全国的に経済規模の拡大が生じている」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「すなわち、労働参加率が高い25～54歳人口は地方において25年間で大きく減少した一方で、2013年度以降の経済規模の拡大が全国的に生じた結果、2010年代以降においては、地方における労働力需給の引き締まりが生じたものと考えられる」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「また、同図（４）から、失業率についてみると、全ての都道府県において低下しており、雇用情勢の改善は、全国的であったことが分かる」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「以上から、2013年から2019年にかけての地方における雇用を取り巻く環境をみると、①人口が減少する中にあっても、地方も含めて全国的な経済規模の拡大と、②それに伴う労働力需要の増加がみられ、この結果、③多様な労働参加が進み、就業者数は地方においてもおおむね増加し、④失業率は大きく低下する等、雇用情勢は大きく改善したことが確認できる」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+- 採用にかけるお金：
+  - 「欠員が3か月以上埋まらない／求人広告費を増やしても応募が増えない／条件面で内定辞退が続く」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「集計対象：負債1000万円以上・法的整理による倒産」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産（法的整理、負債1000万円以上）は、2026年度上半期（4-9月）に225件発生した」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「帝国データバンクの集計は、人手不足を要因とした倒産のうち、法的整理で負債1,000万円以上のものが対象です」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「第３次産業においては就業者数の増加の寄与が大きく、1970～1990年では、一人当たり生産性の寄与も第３次産業の方が大きい」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「こうした第３次産業における労働分配率の低下が、厚生労働省（2023）でも指摘したように、一人当たり生産性が上昇する中にあっても、一人当たり賃金がなかなか増加していない」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「1990年と2023年の総労働時間の変化を就業者数に一人当たり労働時間を乗じた面積で表したのが、同図（２）である」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「厚生労働省（2023）で示したとおり、ＧＤＰから計算した一人当たり労働生産性は1996年から長期的にほぼ横ばいであるが、中間投入も含めた生産額の総額から計算すると、就業者一人当たりの生産額は1990～2015年にかけて15％ほど増加している」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「東京商工リサーチは、負債1,000万円以上の倒産のうち、求人難、従業員の退職、人件費の高騰を原因とするものを「人手不足」倒産として集計しています」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「・会社の規模：資本金1,000万円未満が159件（同33.6%増）で、全体の66.2%」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「月給を2万円上げて募集すると、在籍している9名の賃金も見直すことになります」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「10名全員の月給が2万円上がった場合、会社の負担の増加は、社会保険料を除いて年間240万円です」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「このうち工事の代金に乗せられる金額が半分であれば、残りの120万円は会社の利益から出ていきます」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「集計対象：負債1000万円以上・法的整理による倒産」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+- 出典の種類：
+  - 「2026年8月の有効求人倍率は1.18倍、帝国データバンクの2026年7月の調査で正社員が不足していると感じている企業は51.3%、東京商工リサーチの集計で2026年上半期の人手不足倒産は237件でした」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「帝国データバンク「人手不足に対する企業の動向調査」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「厚生労働省によると、2026年8月の有効求人倍率は1.18倍で、正社員に限ると1.00倍でした（出典:」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「厚生労働省「一般職業紹介状況（令和8年8月分）について」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「帝国データバンクが2026年7月に行い、約1万社が回答した調査では、正社員が不足していると感じている企業は51.3%でした」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「7月の調査としては4年連続で半数を超えています」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「帝国データバンク「人手不足に対する企業の動向調査（2026年7月）」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「中小企業庁の2026年版中小企業白書でも、中小企業・小規模事業者の人手不足は依然として深刻で、とくに中規模企業で不足感が強いとされています（出典:」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「中小企業庁「2026年版 中小企業白書 第1部第1章第3節」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「東京商工リサーチの集計では、求人難、従業員の退職、人件費の高騰を原因とする人手不足倒産が、2026年上半期に237件ありました」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「東京商工リサーチ「2026年上半期『人手不足』関連倒産動向」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「帝国データバンクの集計によると、従業員や経営幹部などの退職が原因になった倒産は2025年度に118件で、年度として初めて100件を超えました（出典:」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「帝国データバンク「人手不足倒産の動向調査（2025年度）」」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「2026年版中小企業白書によると、15〜64歳の人口は今後も減る見込みで、人手不足はさらに深刻になると推測されています」（https://line-works.com/roger/column/labor-shortage-measures/）
+  - 「同白書によると、業種別では建設業、運輸業・郵便業、情報通信業などで不足感が強くなっています」（https://line-works.com/roger/column/labor-shortage-measures/）
+- 検索結果の抜粋：
+  - 「人手不足倒産 の動向調査（ 2026 年度上半期） - 帝国データバンク — 人手不足倒産 の動向調査（ 2026 年度上半期） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「【最新ニュース】 人手不足倒産 が上半期で過去最多の240件 — 【最新ニュース】 人手不足倒産 が上半期で過去最多の240件 note https://note.com > 政治・経済 > マクロ経済」（https://note.com/joincareeroffice/n/n410569bfa12c）
+  - 「人手不足倒産 の動向 調査 （ 2025 年度） - 帝国データバンク — 人手不足倒産 の動向 調査 （ 2025 年度） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産 が過去最多に 2025 〜 2026 年の最新動向と中小 ... — 人手不足倒産 が過去最多に 2025 〜 2026 年の最新動向と中小 ... 株式会社HRマネジメント https://www.hrm-co.jp > メディア > 人事実務ノウハウ」（https://www.hrm-co.jp/knowledge/short-staffed/）
+  - 「2025 年度「 人手不足倒産 」441件で3年連続の過去最多 — 2025 年度「 人手不足倒産 」441件で3年連続の過去最多 社会保険労務士法人 T&M Nagoya https://www.mh5.jp > announce_95702」（https://www.mh5.jp/announce_95702.html）
+  - 「人手不足倒産 の動向調査（2025年度） - 帝国データバンク — 人手不足倒産 の動向調査（2025年度） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産 が過去最多に    2025〜2026年の最新動向と中小 ... — 人手不足倒産 が過去最多に    2025〜2026年の最新動向と中小 ... 株式会社HRマネジメント https://www.hrm-co.jp > メディア > 人事実務ノウハウ」（https://www.hrm-co.jp/knowledge/short-staffed/）
+  - 「2025年度「 人手不足倒産 」441件で3年連続の過去最多 — 2025年度「 人手不足倒産 」441件で3年連続の過去最多 社会保険労務士法人 T&M Nagoya https://www.mh5.jp > announce_95702」（https://www.mh5.jp/announce_95702.html）
+  - 「【2026年展望】食品工場で深刻化する 人手不足倒産 — 【2026年展望】食品工場で深刻化する 人手不足倒産 株式会社BREXA CrossBorder https://crossborder.brexa.com > Blog」（https://crossborder.brexa.com/blog/food-factory-labor-crisis_20251202/）
+  - 「【ヤバイ】 人手不足倒産 過去最多！2025年 - YouTube — 【ヤバイ】 人手不足倒産 過去最多！2025年 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=YjmElXakHsM）
+  - 「中小企業 の 人手不足倒産 が過去最多！4つの類型と原因 — 中小企業 の 人手不足倒産 が過去最多！4つの類型と原因 cast-er.com https://cast-er.com > コラム > 人手不足」（https://cast-er.com/column/bankruptcy-of-small-and-medium-sized-enterprises/）
+
+## 採用できず受注を断った製造業（orders declined due to labor shortage Japan manufacturers）
+- 文脈：深さ
+- 求人倍率・充足率：
+  - 「一方で、厚生労働省の最新データ（令和8年4月分一般職業紹介状況）では、有効求人倍率は1.28倍で推移しているにもかかわらず、正社員の有効求人倍率は」（https://note.com/sei_tamai/n/n2870d137ec12）
+  - 「統計③：新卒採用充足率73.1%——4分の1は「空席」のまま」（https://note.com/sei_tamai/n/n2870d137ec12）
+  - 「キャリタスの2027年卒採用調査（2026年2月）では、採用予定数に対する内定者割合（充足率）の平均は」（https://note.com/sei_tamai/n/n2870d137ec12）
+  - 「前年調査の70.3%よりやや改善したものの、依然として計画の4分の1が未充足のまま経年する構造だ」（https://note.com/sei_tamai/n/n2870d137ec12）
+  - 「しかし実際の採用数は118名（充足率65.6%）にとどまり、62名分の欠員を抱えたまま期を跨いだ」（https://note.com/sei_tamai/n/n2870d137ec12）
+  - 「翌年度（2025年度）の採用数は**152名（充足率84.4%）**に改善」（https://note.com/sei_tamai/n/n2870d137ec12）
+- 高卒・技術者：
+  - 「設備保全・技能職は今後も採用での充足がほぼ不可能な領域」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：地元の高校・高専・工業高校との関係構築は最強の採用チャネル」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「特に地方の中小製造業にとって、地元工業高校との」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「ベテラン技能者の定年を数年後に控え、加工条件・検査の勘所を動画とデータベースに落とし込む技能継承プロジェクトを実施」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「地元工業高校への出前授業とインターン受け入れ、を」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「高校新卒の応募が復活し、毎年の定期採用サイクル」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「2021年に新卒入社後、3年という速さで現職のリーダーに就任」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「統計③：新卒採用充足率73.1%——4分の1は「空席」のまま」（https://note.com/sei_tamai/n/n2870d137ec12）
+  - 「少子化の影響により新卒採用市場の学生数は減少しており、多くの企業が限られた人材を獲得するために競争を繰り広げています」（https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons）
+  - 「「工業高校出身者しか採用しない」は機会損失？ 工業高校生徒の動向と高卒採用を成功させるためのヒント」（https://mizusaki-inc.com/knowledge/article30）
+  - 「少子化で労働力不足が慢性化し、高卒採用に目を向ける企業が増えてきています」（https://mizusaki-inc.com/knowledge/article30）
+  - 「なかでも就職希望者が多く、人気が集まっているのが工業高校」（https://mizusaki-inc.com/knowledge/article30）
+  - 「製造業や建築業など、モノづくりに関わる企業では、「工業高校出身者しか採用しない」というイメージを持っている方も多いのではないでしょうか」（https://mizusaki-inc.com/knowledge/article30）
+  - 「今回は工業高校の生徒の動向と、採用するにあたっての注意すべきポイントを紹介します」（https://mizusaki-inc.com/knowledge/article30）
+  - 「工業、製造関係の企業では、「工業高校出身の子しか採用しない」と決めて採用活動をしている場合が多いのではないでしょうか」（https://mizusaki-inc.com/knowledge/article30）
+- 採用できず起きたこと：
+  - 「工場の生産能力を低下させ、機会損失や顧客からの信頼低下に直結します」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「実際に2025年は、人手不足に関連する倒産が過去最多を記録しています」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「中小企業における人手不足倒産の最新動向や、業種別の課題については、」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「人手不足倒産が過去最多に──2025〜2026年の最新動向と中小企業が今すぐ取るべき対策」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：受注辞退・失注による機会損失（表面化しにくいが最も大きい）」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：残業代・外注費の増加、経験不足による不良・手直しの増加」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「そして最終形が、前述の「黒字廃業・人手不足倒産」です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「【課題分析】採用が止まると、事業も止まる：9割の企業が実感する「機会損失型人材難」の構造と処方箋｜採用コンサルタント / 採用DD専門家 | 玉井 生（たまい せい）ロジHR株式会社」（https://note.com/sei_tamai/n/n2870d137ec12）
+  - 「【課題分析】採用が止まると、事業も止まる：9割の企業が実感する「機会損失型人材難」の構造と処方箋」（https://note.com/sei_tamai/n/n2870d137ec12）
+  - 「受注拡大の見送り、新規事業の断念、拠点展開の凍結——採用難が引き起こしているのは、もはや「人手不足」という現場の問題ではなく、「機会損失」という経営の問題だ」（https://note.com/sei_tamai/n/n2870d137ec12）
+- 規模別：
+  - 「中小企業における人手不足倒産の最新動向や、業種別の課題については、」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「人手不足倒産が過去最多に──2025〜2026年の最新動向と中小企業が今すぐ取るべき対策」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「一人の従業員が複数の工程を担当できるようにする」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「従業員にジョブローテーションを実施し、さまざまな持ち場を経験させることで、スキルの幅を広げられます」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「新しい技術を学ぶことは、従業員のキャリア形成にも役立ちます」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「変化に強い柔軟な生産体制を構築するために、従業員一人ひとりの多面的なスキルアップを支援していきましょう」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「AIで人手不足を解消する方法とは？中小企業における業務効率化と導入の考え方」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「製造業の人材不足はなぜ解決しないのか？データで見る本当の原因と、中小企業が打つべき対策の全て」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員や幹部の退職を直接の引き金とする「従業員退職型」も」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「中小企業」は、人材獲得競争において三重のハンデを背負っている」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「】少ない人数で回る工場をつくる打ち手（省人化・小規模」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「」と聞くと、大企業のスマートファクトリーや数千万円の生産管理システムを想像して尻込みする経営者が少なくありません」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「従業員数十名規模の工場ほど、小規模」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+- 地域別：
+  - 「私は船井総合研究所の製造業コンサルタントとして、年間を通じて全国の中小製造業の現場に入り、経営者の皆様とこの問題に向き合ってきました」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「全国各地の協力企業を、場当たりではなく戦略的に選び、開拓していきます」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1）
+  - 「元社員が出身地や主要顧客の近くで独立していけば、自社は大きな投資をせずに、全国に生産・物流の拠点を構えられます」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1）
+  - 「神戸から全国の中小企業50社以上が導入し、その多くが経営者からのご紹介です」（https://recufill.com/）
+  - 「日本全国（打ち合わせは御社へのご訪問が基本）」（https://recufill.com/）
+- 採用にかけるお金：
+  - 「分割払いで月々3万円〜6万円」（https://recufill.com/）
+  - 「採用した人の年収の30〜35%程度（年収400万円なら120〜140万円）」（https://recufill.com/）
+  - 「資産づくり150万円〜200万円（分割で月々3万円〜6万円）と、毎月の広告運用費」（https://recufill.com/）
+  - 「資産づくり（採用映像・採用HPなど）150万円〜200万円、分割払いで月々3万円〜6万円」（https://recufill.com/）
+  - 「月々3万円〜6万円から」（https://recufill.com/）
+  - 「お支払いは、資産をつくる費用（分割払いで月々3万円〜6万円）と、広告を配信する月だけの運用費の2つだけです」（https://recufill.com/）
+  - 「月々3万円〜6万円」（https://recufill.com/）
+  - 「150万円〜200万円」（https://recufill.com/）
+  - 「120万円〜140万円」（https://recufill.com/）
+  - 「年収400万円の人を1人」（https://recufill.com/）
+  - 「2人なら240万円〜280万円」（https://recufill.com/）
+  - 「総額 150万円〜200万円」（https://recufill.com/）
+  - 「総額300万円〜」（https://recufill.com/）
+  - 「頭金100万円〜、残りは分割払いに対応」（https://recufill.com/）
+  - 「120〜140万円」（https://recufill.com/）
+- 出典の種類：
+  - 「内閣府「令和7年版高齢社会白書」」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「経済産業省が発行する「ものづくり白書」によると、2000年代前半に30％を超えていた若年就業者の割合は、近年25％程度まで低下しました」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「経済産業省「2025年版 ものづくり白書」」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「2024年版 ものづくり白書」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「実際に、経済産業省の「ものづくり白書」によると、人手不足により「ビジネスにも影響が出ている」と答えた企業は3割を超えています」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「経済産業省の調査では、人材確保の課題として「技能の継承ができない」を挙げる企業が約4割に達しています」（https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions）
+  - 「総務省「労働力調査」によると、製造業の就業者数は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：経済産業省・厚生労働省・文部科学省「」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「厚生労働省「一般職業紹介状況」を見ると、製造現場の中核職種である「生産工程の職業」の有効求人倍率は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：厚生労働省「一般職業紹介状況（職業安定業務統計）」（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「経済産業省等「ものづくり白書」によれば、製造業の」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、厚生労働省「一般職業紹介状況」（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+- 検索結果の抜粋：
+  - 「9割の企業が実感する「機会損失型人材難」の構造と処方箋 — 9割の企業が実感する「機会損失型人材難」の構造と処方箋 note https://note.com > sei_tamai」（https://note.com/sei_tamai/n/n2870d137ec12）
+  - 「「 工業高校 出身者しか 採用 しない」は機会損失 ... - ミズサキ — 「 工業高校 出身者しか 採用 しない」は機会損失 ... - ミズサキ ミズサキ https://mizusaki-inc.com > knowledge > article30」（https://mizusaki-inc.com/knowledge/article30）
+
+## 製造業の採用単価（hiring cost per hire manufacturing Japan）
+- 文脈：お金
+- 求人倍率・充足率：
+  - 「によると、令和6年5月時点における製造業の欠員率（常用労働者に対する未充足求人の割合）は2.0%となっており、人手不足を早急に解決できる方法が求められています」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage）
+  - 「応募者数が毎月1、2名から10名に増加」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「2026年現在、製造業の有効求人倍率は高止まりを続けており、特に現場の技術職や生産管理職では「1人の求職者を複数の企業が奪い合う」激戦状態です」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「2025年1月のアルバイト求人倍率は」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+- 高卒・技術者：
+  - 「また著書である『求人を成功に導く、超実践・採用ノウハウ ゼロから始める中途採用の教科書』はAmazonランキングの3ジャンルで1位を獲得」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「リクルートワークス研究所の2024年調査では、製造業を志望する新卒者が10年前比で約30%減少」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「例：パナソニックは2024年に設計部門でテレワークを拡大し、女性技術者の定着率が15%向上」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「：経産省の「ものづくり日本大賞」や業界団体と連携し、若手技術者を表彰するイベントを全国展開」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「：多様な従業員（例：ベトナム人作業員、女性技術者、シニア指導者）のインタビューをテキスト・動画で掲載」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「例：「女性技術者の1日」」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「【面接チェックシート付】新卒採用における面接質問60選！」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「【面接質問シート付】面接初心者でも対応できる中途採用質問60選」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「中途採用の入社必要書類はこれで完璧！チェックリスト付き！」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「【テンプレート付き】すぐに使える中途採用の面接チェックシート」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「そして若手の後継人材を採用できていないにも関わらず、熟練技能者が定年退職を迎えることで、人手不足感が急増している企業もあります」（https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage）
+  - 「求人原稿と中途採用ページ作成で採用コスト半減」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「採用単価は新卒・中途や業種によって異なります」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「製造業の中途採用における1人あたりの平均採用単価は約102.3万円」（https://www.fostor.jp/archives/column/cost-reduction）
+- 採用できず起きたこと：
+  - 「求人媒体の運用コストがかさむ原因のひとつが、外注による広告運用・集客設計です」（https://ch.job-con.jp/blog/c142）
+  - 「WEB集客を外注せずに内製化しているからこそ、」（https://ch.job-con.jp/blog/c142）
+  - 「採用代行の外注費用について詳しく知りたい方は必見です、」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用における「内製と外注の最適なミックス」こそ、コスト削減と採用品質維持を両立させる鍵です」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「採用プロセスを見直し、選考期間を短縮することで機会損失を減らせます」（https://megdai.jp/markebatake/saiyou/6611/）
+  - 「なぜ成功企業はオウンドメディア外注を選ぶのか？補助金で実質半額にする方法」（https://megdai.jp/markebatake/saiyou/6611/）
+  - 「オウンドメディアの外注先おすすめの選び方｜「記事を書くだけ」の会社に要注意」（https://megdai.jp/markebatake/saiyou/6611/）
+  - 「サイト制作技術者の人件費、サイト制作の外注費、サイト制作に関する打ち合わせの人件費など」（https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/cost-for-hiring-a-mid-career）
+  - 「人手不足で潰れる会社には、倒産の2年前から同じ兆候が出ている」（https://note.com/tag/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1）
+  - 「倒産が相次ぐ「冬の時代」を生き抜くための泥臭い生存戦略」（https://note.com/tag/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1）
+- 規模別：
+  - 「長時間労働や休日出勤の多さも、従業員の満足度低下や離職率増加を招き、負のサイクルを生んでいます」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「経済産業省の「2022年版ものづくり白書」によると、中小企業の22.7%が「後継者育成の体制不足」を課題として挙げ、OJT（オン・ザ・ジョブ・トレーニング）に頼る企業が多く、体系的なスキル教育が不十分」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「従業員が成長実感を持てず、離職を考える要因となっています」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「：2030年までに全従業員の50%が柔軟な働き方を利用できる社内ルールを策定」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「「3K」イメージを払拭し、生産性と従業員満足度を向上」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「2024年の食品製造業事例では、休憩室改善で従業員満足度が20%向上」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「経産省の「ものづくり補助金」（最大1億円）や「DX推進事業」を活用し、2030年までに中小企業の30%が導入（経産省目標）」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「ハラスメントゼロと多文化共生を推進し、すべての従業員が働きやすい職場を確立」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「キャリア開発と従業員エンゲージメントの強化」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「概要：明確なキャリアパスとスキルアップ機会を提供し、従業員の成長意欲とロイヤルティを高める」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「：年1回の従業員満足度調査と1on1ミーティングを制度化」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「概要：クリーンな工場、最新設備、笑顔の従業員を写真・動画で紹介し、ポジティブな職場イメージを構築」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「：1～2分の動画で「1日の流れ」「従業員インタビュー」を紹介」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「概要：若手、女性、外国人、シニアの従業員インタビューをHPに掲載し、リアルな職場体験を伝える」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「従業員の声は信頼感を20%向上（2024年エン・ジャパン調査）」（https://www.bsearch.co.jp/media/manufacturing/）
+- 地域別：
+  - 「例えば、とある愛知県の自動車部品メーカーは2024年にIndeedで多言語広告を出し、2ヶ月で50人採用した事例があります！」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「：経産省の「ものづくり日本大賞」や業界団体と連携し、若手技術者を表彰するイベントを全国展開」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「2024年の愛知県事例では、イベント投稿で地元応募が15%増加」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「課題と対策：地域外への拡散不足を補うため、全国向けハッシュタグ（#日本ものづくり）を併用」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「愛知の中小企業でTikTokからの流入で応募を20%上昇させた事例もあります」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「〒162-0818 東京都新宿区築地町４ 神楽坂テクノス3階」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「【3】地方もカバーする全国対応の訴求力・集客力」（https://ch.job-con.jp/blog/c142）
+  - 「全国対応しているジョブコンプラスは都市部だけでなく地方や特定エリアでの人材募集にも強く、」（https://ch.job-con.jp/blog/c142）
+  - 「愛知県名古屋市中区栄四丁目1番1号」（https://ch.job-con.jp/blog/c142）
+  - 「現在はメガバンクなど金融機関とも提携し、大阪・東京・福岡を拠点に、全国の企業を支援している」（https://www.update-up.com/update-hr/column/seizo-saiyoupoint）
+  - 「〒162-0818 東京都新宿区築地町４ 神楽坂テクノス3階」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「R4では愛知・岐阜の東海エリアを中心に、これまでに4,500社以上のお客様を支援してきました」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「ここからは、新卒・中途それぞれの全国平均の採用単価と、その内訳について具体的に解説します」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「【全国版】採用コストの平均と一人当たり採用コスト」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+  - 「横浜・神奈川で求人広告代理店なら｜採用支援のR4」（https://service.r-4.co.jp/knowhow/recruiting/saiyocost/）
+- 採用にかけるお金：
+  - 「また、厚生労働省の2024年データでは、製造業の平均年収は約510万円に対し、IT業界は約650万円と、賃金格差が顕著です」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「例：「年間10万円の研修費補助」」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「例：「家賃補助月3万円」「年休120日」」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「：週1回、給与（例：月収25万円～）、福利厚生（寮無料）、シフト（週3日～）を投稿」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「11〜30万円」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「31〜50万円」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「51〜100万円」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「101〜300万円」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「301万円～」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「製造業の場合、求人媒体への掲載や紹介会社を通じた採用は、1人当たり数万円〜数十万円かかることも珍しくありません」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「69.4万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「97.8万円」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「69.7万円」（https://www.fostor.jp/archives/column/cost-reduction）
+- 出典の種類：
+  - 「総務省の「令和4年版情報通信白書」によると、生産年齢人口は1995年のピークから2050年までに29.2%減少し、5,275万人になると予測されています」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「経済産業省の「2022年版ものづくり白書」では、2002年から2021年の20年間で製造業の就業者数が1,202万人から1,045万人へと157万人減少したと報告されています」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「経済産業省の「2022年版ものづくり白書」によると、」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「リクルートワークス研究所の2024年調査では、製造業を志望する新卒者が10年前比で約30%減少」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「経済産業省の「2022年版ものづくり白書」によると、56.3%の製造業企業が人手不足を「事業に影響を及ぼす社会情勢の変化」として挙げ、特に技能人材の不足が課題です」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「2017年の経産省調査では、94.2%の企業が人手不足を認識し、特に技能人材の確保が難しいと回答しています」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「経済産業省の「2020年版ものづくり白書」によると、製造業の総実労働時間は全産業平均を上回り、2018年時点で1,680時間（全産業平均より長い）」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「また、厚生労働省の2024年データでは、製造業の平均年収は約510万円に対し、IT業界は約650万円と、賃金格差が顕著です」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「さらに、製造業では非正規雇用の割合が増加しており、帝国データバンクの2024年10月調査では、非正規雇用の人手不足感が29.5%と、正社員の51.7%に比べやや緩和傾向にあるものの、安定雇用の不足が若者の定着を妨げています」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「帝国データバンクの2024年10月調査によると、物流や建設業だけでなく、製造業でも労働時間規制により人手不足感が強まっています」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「経済産業省の「2022年版ものづくり白書」によると、製造業の総実労働時間は全産業平均（約1,600時間/年）より長い1,680時間（2018年データ）となっております」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「帝国データバンクの2024年10月調査によると、製造業の非正規雇用比率は約25%で、正社員に比べ待遇や雇用の安定性が低いため、離職率が高いです」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「経済産業省の「2022年版ものづくり白書」によると、中小企業の22.7%が「後継者育成の体制不足」を課題として挙げ、OJT（オン・ザ・ジョブ・トレーニング）に頼る企業が多く、体系的なスキル教育が不十分」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「・経済産業省の「2022年版ものづくり白書」によると、製造業の就業者の8.6%（約90万人）が65歳以上のシニア層で、経験豊富な人材の再雇用は技術継承と人手不足解消に即効性がある」（https://www.bsearch.co.jp/media/manufacturing/）
+  - 「帝国データバンクの2024年10月調査では、非正規雇用の活用で人手不足感が29.5%軽減したと報告」（https://www.bsearch.co.jp/media/manufacturing/）
+- 検索結果の抜粋：
+  - 「製造業の採用単価 を抑えるための対策3選 - ジョブコンプラス — 製造業の採用単価 を抑えるための対策3選 - ジョブコンプラス ジョブコンプラス https://ch.job-con.jp > blog」（https://ch.job-con.jp/blog/c142）
+  - 「一人当たりの採用コスト（ 採用単価 ）相場【2026年版】職種 ... — 一人当たりの採用コスト（ 採用単価 ）相場【2026年版】職種 ... 株式会社bサーチ https://www.bsearch.co.jp > TOP > 採用戦略」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「【2026年最新版】 採用単価 の相場を雇用形態別に比較 — 【2026年最新版】 採用単価 の相場を雇用形態別に比較 株式会社メグダイ https://megdai.jp > トップページ > 採用情報」（https://megdai.jp/markebatake/saiyou/6611/）

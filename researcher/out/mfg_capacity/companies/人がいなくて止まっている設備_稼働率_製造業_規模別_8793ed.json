@@ -1,0 +1,701 @@
+{
+ "name": "人がいなくて止まっている設備・稼働率（製造業・規模別）",
+ "en": "idle equipment due to labor shortage Japan manufacturing utilization",
+ "aliases": [
+  "設備稼働率 人手不足",
+  "設備 稼働できない 人手不足",
+  "遊休設備 人手不足 製造業"
+ ],
+ "context": "損の額・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:49:36.192094+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "複数設備が連なる充填・包装ラインでは、ライン停止の起点設備をタイムスタンプ分析で特定",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "pass": 3
+   },
+   {
+    "quote": "このように、生産効率の指標として時間稼働率を活用して目標を明確にすることがプロジェクトの成功確率を高め機会損失を失くしていくのです",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "数台からの導入と段階的な拡張が可能で、台数増加時の費用が読めることを確認します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "pass": 3
+   },
+   {
+    "quote": "導入の標準的な進め方を、時系列で整理します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に新卒入社後、3年という速さで現職のリーダーに就任",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "pass": 3
+   },
+   {
+    "quote": "2023年9月4日",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、新たに増加する注文の数量を踏まえて、時間稼働率を50%にする目標を掲げて、停止ロスの時間を削減するために単純な脱着作業を行うためのロボットの導入を進めました",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "設備別の空き時間が見えるようになると、「この受注を受けられるか」「納期回答は何日にすべきか」という判断が、勘からデータへ変わります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "pass": 3
+   },
+   {
+    "quote": "残業時間の削減と、断っていた短納期案件の受注余力創出につながりました",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "pass": 3
+   },
+   {
+    "quote": "万円の能力回復に相当します（すべてが売上に変わるわけではなくとも、残業削減・外注削減・受注余力として実現します）",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "pass": 3
+   },
+   {
+    "quote": "第一に、人手不足による「改善人材の枯渇」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "pass": 3
+   },
+   {
+    "quote": "日、疲れず休まず記録し続ける「デジタル観測員」として、人手不足時代の改善活動を支えます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "pass": 3
+   },
+   {
+    "quote": "建材・住宅設備業のIoT活用ガイド｜納期遵守と案件別採算の見える化｜製造業・工場DX経営オンライン",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先（大手産業設備メーカー）が発注先の海外移行を進める中、過去から積み上げてきた品質と納期に対する信頼によってA社が国内調達集約の拠点企業に指名され、主要取引先からの集中注文によって取引量が拡大することとなりました",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   },
+   {
+    "quote": "設備の稼働時間を増やしていく必要がありましたが、実際にこれまでどのくらい稼働時間があって、どのくらいの余力があるのかを正確な数字で把握していなかったため、時間稼働率を計測して余力を可視化することとしました",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   },
+   {
+    "quote": "検証すると作業員の人手不足で設備が思っていた以上に停まっていた！",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、生産効率の指標として時間稼働率を活用して目標を明確にすることがプロジェクトの成功確率を高め機会損失を失くしていくのです",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "A社は、NC旋盤やMCを揃えている従業員50人ほどの会社です",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は主に中小製造業を対象に、「経営と現場をつなぐ」を軸として、業務改善、生産性向上、生産管理、品質管理、ISO9001、DX・システム導入、人材育成などを支援",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "いずれも、１つ数千円から高くても数万円というものです",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   },
+   {
+    "quote": "忙しいのに売上が上がらない工場｜中小製造業で見直したい3つのポイント",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "いずれも、１つ数千円から高くても数万円というものです",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "本記事では、まず稼働率の全体像を整理したうえで、負荷時間・停止ロス・性能稼働率との違い、段取り時間や故障停止を減らす改善方法、設備稼働率を40%→50%に改善した事例を製造業コンサルタントの視点で解説します",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   },
+   {
+    "quote": "設備稼働率を40%→50%に改善した実例",
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/12828",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atfields.com/blog/46",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaizen-base.com/column/31500",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdc-inc.co.jp/fapi/occupancyrate_manufacturingindustry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tebiki.jp/genba/useful/utilization-rate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ec-cube.net/enterprise/btob/column/manufacture-dx-shorthanded/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/1980/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirosho.com/column/p942/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.penguinsolutions.com/ja-jp/resources/blog/capacity-utilization-overall-equipment-efficiency-and-seven-major-equipment-losses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ojt-s.jp/kaizenlibrary/seisansei/equipment-utilization-rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forge-labs0621.github.io/forge-labs-blog/2026/06/29/manufacturing-machine-time-utilization-ai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fa-products.jp/column/factory-operating-rate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/occupancy-rate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keizai-marumie.com/manufacturing_capacity_index/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/meta/jp/iip_ipcor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://research.titanfx.com/ja/economic-calendar/indicators/japan/japan-capacity-utilization-mom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550320",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmf.or.jp/jmf/wp-content/uploads/2024/03/vin-last-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jipm.or.jp/company/report/images/202004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kankeiren.or.jp/iot/pdf/iot06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12073/07-108all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gemba-c.co.jp/availability-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industriate.jp/column/oee-equipment-efficiency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chic_deer1160/n/n8f57bbf70a7e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujifilm.com/fb/ja/solutions/columns/monozukuri-3523",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factoryadvance.jp/blog/2794/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/shokibo/b1_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2209/26/news009_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gemba-c.co.jp/hourly-availability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550320&tstat=000001022885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orbray.com/magazine_en/archives/4956",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://smartf-nexta.com/archives/12828",
+    "https://www.jinzaiplus.jp/posts/230",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://daydo.jp/2025/12/labor-shortage/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://willof-work.co.jp/journal/14513/"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） 受注残 人手不足",
+   "results": [
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://atfields.com/blog/46",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://kaizen-base.com/column/31500",
+    "https://www.fdc-inc.co.jp/fapi/occupancyrate_manufacturingindustry/",
+    "https://tebiki.jp/genba/useful/utilization-rate",
+    "https://www.ec-cube.net/enterprise/btob/column/manufacture-dx-shorthanded/",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://smartf-nexta.com/archives/12828",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://factoryadvance.jp/blog/1980/"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別）",
+   "results": [
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://atfields.com/blog/46",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "https://kaizen-base.com/column/31500",
+    "https://hirosho.com/column/p942/",
+    "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "https://www.fdc-inc.co.jp/fapi/occupancyrate_manufacturingindustry/",
+    "https://www.penguinsolutions.com/ja-jp/resources/blog/capacity-utilization-overall-equipment-efficiency-and-seven-major-equipment-losses",
+    "https://www.ojt-s.jp/kaizenlibrary/seisansei/equipment-utilization-rate/",
+    "https://forge-labs0621.github.io/forge-labs-blog/2026/06/29/manufacturing-machine-time-utilization-ai.html"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） 推移",
+   "results": [
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://atfields.com/blog/46",
+    "https://kaizen-base.com/column/31500",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5",
+    "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "https://www.fdc-inc.co.jp/fapi/occupancyrate_manufacturingindustry/",
+    "https://www.ojt-s.jp/kaizenlibrary/seisansei/equipment-utilization-rate/",
+    "https://fa-products.jp/column/factory-operating-rate/",
+    "https://kaminashi.jp/media/occupancy-rate",
+    "https://keizai-marumie.com/manufacturing_capacity_index/"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） 統計 PDF",
+   "results": [
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://www.jmf.or.jp/jmf/wp-content/uploads/2024/03/vin-last-report.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www.jipm.or.jp/company/report/images/202004.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.kankeiren.or.jp/iot/pdf/iot06.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12073/07-108all.pdf",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/25/dl/25-1.pdf",
+    "https://forge-labs0621.github.io/forge-labs-blog/2026/06/29/manufacturing-machine-time-utilization-ai.html"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://kaizen-base.com/column/31500",
+    "https://www.jmf.or.jp/jmf/wp-content/uploads/2024/03/vin-last-report.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "https://www.fdc-inc.co.jp/fapi/occupancyrate_manufacturingindustry/",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.jagat.or.jp/archives/99010"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） 従業者規模別",
+   "results": [
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://kaizen-base.com/column/31500",
+    "https://atfields.com/blog/46",
+    "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "https://www.fdc-inc.co.jp/fapi/occupancyrate_manufacturingindustry/",
+    "https://kaminashi.jp/media/occupancy-rate",
+    "https://www.ojt-s.jp/kaizenlibrary/seisansei/equipment-utilization-rate/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "https://www.youtube.com/watch?v=LUDyNYuRRBQ",
+    "https://forge-labs0621.github.io/forge-labs-blog/2026/06/29/manufacturing-machine-time-utilization-ai.html"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） 1人当たり 万円",
+   "results": [
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://kaizen-base.com/column/31500",
+    "https://atfields.com/blog/46",
+    "https://www.fdc-inc.co.jp/fapi/occupancyrate_manufacturingindustry/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "https://hirosho.com/column/p942/",
+    "https://www.fujifilm.com/fb/ja/solutions/columns/monozukuri-3523",
+    "https://fa-products.jp/column/factory-operating-rate/",
+    "https://factoryadvance.jp/blog/2794/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） 2015 2025",
+   "results": [
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://atfields.com/blog/46",
+    "https://kaizen-base.com/column/31500",
+    "https://fa-products.jp/column/factory-operating-rate/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "https://www.fdc-inc.co.jp/fapi/occupancyrate_manufacturingindustry/",
+    "https://www.fujifilm.com/fb/ja/solutions/columns/monozukuri-3523",
+    "https://tebiki.jp/genba/useful/utilization-rate",
+    "https://monoist.itmedia.co.jp/mn/articles/2209/26/news009_3.html",
+    "https://gemba-c.co.jp/hourly-availability/"
+   ]
+  },
+  {
+   "query": "idle equipment due to labor shortage Japan manufacturing utilization Japan statistics",
+   "results": [
+    "https://orbray.com/magazine_en/archives/4956",
+    "https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/ai-use-in-the-japanese-workplace_faf178d2.html",
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://www.imf.org/external/pubs/ft/wp/2015/wp15181.pdf",
+    "https://www.statista.com/topics/13699/labor-shortage-in-japan/?srsltid=AYCX9vLgu_mVtoJkyh894nqfEvKRJOVUUaE-DijJPNpO6OangBUJ_0mg",
+    "https://www.researchgate.net/publication/387448732_An_Analysis_of_the_Japanese_Labor_Market_-_A_Case_Study_of_University_Students_Actively_Selecting_Companies",
+    "https://billmitchell.org/blog/?p=62856",
+    "https://www.facebook.com/fb-answers/japan-industrial-production-statistics/?locale=fi_FI",
+    "https://www.statista.com/topics/13699/labor-shortage-in-japan/"
+   ]
+  },
+  {
+   "query": "site:note.com 人がいなくて止まっている設備・稼働率（製造業・規模別）",
+   "results": [
+    "https://note.com/seizou_dx_ai/n/n35605d9d5ccf",
+    "https://note.com/victorconsulting/n/n531e3c6dc936",
+    "https://note.com/seizou_dx_ai/n/n0ca6a05dda14",
+    "https://note.com/tryangle_ehime/n/nb05d0e09c1c1",
+    "https://note.com/chic_deer1160/n/n64e536a9b29c",
+    "https://note.com/osschina/n/nbd78543f7352",
+    "https://note.com/hirokimiyano/n/nd59c76298f07",
+    "https://note.com/mirocrea/n/n4dcbadc61727",
+    "https://note.com/ripla_business/n/n19d6b6ac05d5",
+    "https://note.com/seizou_dx_ai/n/n7ea84e5e4e67"
+   ]
+  },
+  {
+   "query": "site:x.com 人がいなくて止まっている設備・稼働率（製造業・規模別）",
+   "results": [
+    "https://x.com/DICELINKINC",
+    "https://x.com/KagawaTomo/article/2097808992601014755",
+    "https://x.com/yanagi_shiftai/status/2112382828549657010",
+    "https://x.com/luigi_jpn/article/2094562625690755302",
+    "https://x.com/luigi_jpn/article/2050758900660703261",
+    "https://x.com/KagawaTomo/status/2114620083758829645",
+    "https://x.com/withmo0111/status/2113454628671263037",
+    "https://x.com/FukuroStocks/status/2118475055755878427",
+    "https://x.com/honesty_saiyou/status/2114851783092965614",
+    "https://x.com/KagawaTomo/status/2110692193677787567"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 人がいなくて止まっている設備・稼働率（製造業・規模別）",
+   "results": [
+    "https://jp.linkedin.com/pulse/65-sales-91-profit-how-design-service-portfolio-buy-saltz-gulko-miezf?tl=ja",
+    "https://jp.linkedin.com/in/hiroyuki-uchida-a89b26104",
+    "https://jp.linkedin.com/in/anhuioss",
+    "https://jp.linkedin.com/in/kosuke-uno-a56b55323",
+    "https://jp.linkedin.com/in/%E4%BA%86-%E4%BA%95%E4%B8%8A-8455ab238",
+    "https://jp.linkedin.com/in/murata-masahiro-42718b93",
+    "https://jp.linkedin.com/in/%E5%81%A5%E5%A4%AA-%E7%A8%B2%E5%86%A8-311704206",
+    "https://jp.linkedin.com/in/go-matsumoto-6467712",
+    "https://jp.linkedin.com/in/masayuki-kinoshita-a975b853",
+    "https://jp.linkedin.com/in/keisuke-y-2b2aa1233"
+   ]
+  },
+  {
+   "query": "site:facebook.com 人がいなくて止まっている設備・稼働率（製造業・規模別）",
+   "results": [
+    "https://www.facebook.com/matsuo.akihito/posts/%E3%83%95%E3%82%A9%E3%83%AB%E3%82%AF%E3%82%B9%E3%83%AF%E3%83%BC%E3%82%B2%E3%83%B3%E3%81%8C10%E4%B8%87%E4%BA%BA%E8%A6%8F%E6%A8%A1%E3%81%AE%E4%BA%BA%E5%93%A1%E5%89%8A%E6%B8%9B%E3%81%B8%E3%81%84%E3%81%84%E8%BB%8A%E3%82%92%E4%BD%9C%E3%82%8C%E3%81%B0%E4%BC%9A%E7%A4%BE%E3%81%AF%E5%AE%89%E6%B3%B0%E3%81%8C%E9%80%9A%E7%94%A8%E3%81%97%E3%81%AA%E3%81%84%E6%99%82%E4%BB%A3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%A7%E3%83%89%E3%82%A4%E3%83%84%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%82%AF%E3%82%B9%E3%83%AF%E3%83%BC%E3%82%B2%E3%83%B3%E3%81%8C10%E4%B8%87%E4%BA%BA%E8%A6%8F%E6%A8%A1%E3%81%AE%E4%BA%BA%E5%93%A1%E5%89%8A%E6%B8%9B%E3%82%92/28174257482194418/",
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/toshihito.kumagai/posts/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E5%8D%B0%E6%97%9B%E6%B2%BC%E3%81%AE%E5%A0%A4%E9%98%B2%E3%81%AE%E7%B7%8A%E6%80%A5%E5%BE%A9%E6%97%A7%E3%81%8C%E5%AE%8C%E4%BA%86%E3%81%97%E6%98%A8%E6%97%A5%E7%8F%BE%E5%A0%B4%E3%81%AE%E6%96%BD%E5%B7%A5%E7%8A%B6%E6%B3%81%E3%82%92%E9%96%A2%E4%BF%82%E8%80%85%E3%81%A8%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%B7%A5%E4%BA%8B%E3%81%AF24%E6%99%82%E9%96%93%E4%BD%93%E5%88%B6%E3%81%A7%E8%A1%8C%E3%82%8F%E3%82%8C%E5%BB%B6%E3%81%B92900%E4%BA%BA%E3%81%BB%E3%81%A9%E3%81%8C%E5%BE%93%E4%BA%8B%E3%81%97%E5%A4%A7%E5%9E%8B%E3%83%80%E3%83%B3%E3%83%97%E7%B4%AF%E8%A8%88340/28921182030857930/",
+    "https://www.facebook.com/ryoichi.murayama.7/posts/%E6%9C%80%E8%BF%91ai%E3%81%AE%E5%85%89%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%9F%E4%BB%95%E4%BA%8B%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E2%91%A0%E8%A4%87%E6%95%B0%E5%8C%BB%E9%99%A2%E3%81%AE%E9%9D%9E%E8%87%AA%E8%B2%BB%E8%A8%BA%E7%99%82%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%AF%94%E8%BC%83%E5%88%86%E6%9E%90%E6%9C%AC%E9%99%A2%E3%81%A8%E5%88%86%E9%99%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%9D%A5%E9%99%A2%E6%95%B0%E5%88%9D%E8%A8%BA%E6%95%B0%E6%B2%BB%E7%99%82%E5%86%85%E5%AE%B9%E8%A8%BA%E7%99%82%E5%8D%98%E4%BE%A1%E7%B6%99%E7%B6%9A%E7%8E%87%E3%81%AA%E3%81%A9%E3%82%92%E6%AF%94%E8%BC%83%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8D%98%E7%B4%94%E3%81%AB%E5%A3%B2/28086037211079530/",
+    "https://www.facebook.com/dicelink0814/?locale=ja_JP",
+    "https://www.facebook.com/groups/1538383549797877/posts/2363063013996589/",
+    "https://www.facebook.com/bioforestation/",
+    "https://www.facebook.com/studio55cg/?locale=ja_JP",
+    "https://www.facebook.com/groups/627324771859424/",
+    "https://www.facebook.com/keigo.nakajima/posts/%E5%89%B5%E6%A5%AD%E6%99%82%E3%81%AB%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E3%81%8A%E9%87%91%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%EF%B8%8F%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AF%E5%BE%8C%E3%81%8B%E3%82%89%E5%85%A5%E3%82%8B%E3%81%8A%E9%87%91%E3%81%A7%E3%81%99%E5%89%B5%E6%A5%AD%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E4%BD%95%E3%81%8B%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E3%81%8A%E9%87%91%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E3%81%A8%E3%81%84%E3%81%86%E7%9B%B8%E8%AB%87%E3%81%AF%E3%82%88%E3%81%8F%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%A7%E3%82%82%E5%AE%9F%E9%9A%9B%E3%81%AF%E5%89%B5%E6%A5%AD%E6%99%82%E3%81%AB%E3%81%99%E3%81%90%E3%82%82%E3%82%89%E3%81%88%E3%81%A6%E3%81%9D%E3%81%AE/28382400394679430/"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） note 社長",
+   "results": [
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://atfields.com/blog/46",
+    "https://note.com/open_eagle4055/n/nde0dd97ae781",
+    "https://kaizen-base.com/column/31500",
+    "https://fa-products.jp/column/factory-operating-rate/",
+    "https://tebiki.jp/genba/useful/utilization-rate",
+    "https://connect.panasonic.com/jp-ja/gemba/article/00178971",
+    "https://service.alue.co.jp/blog/productivity-manufacturing",
+    "https://monoist.itmedia.co.jp/mn/articles/2209/26/news009_3.html",
+    "https://note.com/seizou_dx_ai/n/n7ea84e5e4e67"
+   ]
+  },
+  {
+   "query": "人がいなくて止まっている設備・稼働率（製造業・規模別） X 投稿",
+   "results": [
+    "https://www.hitachi-solutions-east.co.jp/owndmedia/dataanalytics_col/column1/column01/",
+    "https://atfields.com/blog/46",
+    "https://kaizen-base.com/column/31500",
+    "https://note.com/seizou_dx_ai/n/n35605d9d5ccf",
+    "https://www.youtube.com/watch?v=LUDyNYuRRBQ",
+    "https://www.brains-tech.co.jp/impulse/blog/equipment-utilization-rate/",
+    "https://www.fdc-inc.co.jp/fapi/occupancyrate_manufacturingindustry/",
+    "https://fa-products.jp/column/factory-operating-rate/",
+    "https://tebiki.jp/genba/useful/utilization-rate",
+    "https://forge-labs0621.github.io/forge-labs-blog/2026/06/29/manufacturing-machine-time-utilization-ai.html"
+   ]
+  },
+  {
+   "query": "idle equipment due to labor shortage Japan manufacturing utilization site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/impact-manufacturing-labor-shortage-return-investment-gupta",
+    "https://www.linkedin.com/posts/poonath-sekar-204324273_major-key-manufacturing-production-metrics-activity-7425365912775618560-_rJd",
+    "https://www.linkedin.com/posts/roncrabtree_a-part-changes-hands-eleven-times-between-activity-7519754480297394176-l9a1",
+    "https://www.linkedin.com/pulse/cost-cutting-strategies-manufacturing-during-uncertain-uytle",
+    "https://www.linkedin.com/posts/william-aderholdt_what-if-the-next-major-advancement-in-agricultural-activity-7517242742364672000-RikJ",
+    "https://www.linkedin.com/top-content/training-development/bridging-skills-gaps/strategies-to-address-the-skilled-trades-labor-shortage/",
+    "https://www.linkedin.com/pulse/construction-production-rate-vs-productivity-how-labor-kmwvf",
+    "https://www.linkedin.com/top-content/productivity/optimizing-manufacturing-performance/addressing-gaps-in-manufacturing-operations-strategy/",
+    "https://www.linkedin.com/posts/tps-learning-hub_100-machine-utilization-0-customer-orders-activity-7519737303636869120-7C9i",
+    "https://www.linkedin.com/posts/manmeet-wirk-2953428_most-pcb-assembly-delays-arent-caused-by-activity-7519043088791711745-SJUn"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）"
+ }
+}

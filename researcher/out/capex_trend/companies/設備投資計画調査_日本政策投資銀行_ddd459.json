@@ -1,0 +1,4377 @@
+{
+ "name": "設備投資計画調査（日本政策投資銀行）",
+ "en": "DBJ capital investment survey manufacturing",
+ "aliases": [
+  "政策投資銀行 設備投資計画調査 製造業",
+  "DBJ 設備投資 推移 目的"
+ ],
+ "context": "一次・政投銀",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:15:09.968054+00:00",
+ "evidence": {
+  "機械受注": [
+   {
+    "quote": "第13号 最近の産業動向 －内需の回復続き、多くの業種で生産増加－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第5号 最近の産業動向 －輸出はアジア向けで堅調、内需は回復に力強さがみられず－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電力・通信・不動産・運輸など内需完結型の非製造業は、国内のAI・データセンター需要や都市機能強化投資の恩恵を最も直接的に受けており、22.9%という高い伸びに象徴される",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "設備投資計画調査 | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJが毎年実施している民間法人企業を対象とした設備投資計画調査です",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ各支店事務所が毎年実施している個別地域の詳細分析です",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資計画調査の結果を踏まえ、企業トップの方々からヒアリングした課題・論点をまとめたレポートです",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度（2026年3月公表）",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国設備投資計画調査 | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJが毎年実施している民間法人企業を対象とした設備投資計画調査です",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 設備投資計画調査（2025年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023・2024・2025年度 設備投資計画調査（2024年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022・2023・2024年度 設備投資計画調査（2023年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021・2022・2023年度 設備投資計画調査（2022年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020・2021・2022年度 設備投資計画調査（2021年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019・2020・2021年度 設備投資計画調査（2020年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018・2019・2020年度 設備投資計画調査（2019年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017・2018・2019年度 設備投資計画調査（2018年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016・2017・2018年度 設備投資計画調査（2017年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2015・2016・2017年度 設備投資計画調査（2016年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014・2015・2016年度 設備投資計画調査 （2015年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013・2014・2015年度 設備投資計画調査（2014年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012・2013・2014年度 設備投資計画調査（2013年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011・2012・2013年度 設備投資計画調査（2012年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2010・2011・2012年度 設備投資計画調査（2011年7月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2009・2010・2011年度 設備投資計画調査 （2010年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008・2009・2010年度 設備投資計画調査（2009年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008年度以前の全国設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別設備投資計画調査（2026年6月） | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別設備投資計画調査（2026年6月）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJでは、地域別設備投資動向の把握を目的として、「地域別設備投資計画調査（調査対象企業：原則として資本金1億円以上の民間法人企業）」を年1回発表いたしております",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今般、2025年度設備投資実績および2026・2027年度設備投資計画について調査結果をとりまとめましたので、その概要をご報告いたします",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1990年以降より各年度における設備投資増減率の推移を、業種別・地域別でまとめて見ることができます",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の設備投資計画の特徴",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の地域別設備投資計画は、10地域全てで増加の計画となっている",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026／2025年度地域別増減率（％）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度地域別・業種別増減率",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）地域別の増減率は、都道府県別回答が得られたデータを基に算出しているが、全国の増減率は、都道府県別の回答が得られていないデータも含めて算出している",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行 産業・地域調査部 設備投資計画調査 事務局",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国設備投資計画調査（2026年6月）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 首都圏設備投資計画調査 | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 首都圏設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この調査は、1956年より全国一斉に実施しており、調査対象企業および回答企業の数は、同種の調査としてはわが国最大規模です",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1−3−4図 日本政策投資銀行 設備投資計画調査 - 内閣府",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1−3−4図 日本政策投資銀行 設備投資計画調査",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008年度上期以前の",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第98号 2007・08・09年度設備投資計画調査報告（2008年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第94号 2006・07・08年度設備投資計画調査報告（2007年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第92号 2005・06・07年度設備投資計画調査報告（2006年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第87号 2005・2006年度設備投資計画調査報告（2005年11月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第85号 2004・05・06年度設備投資計画調査報告（2005年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第74号 日本企業の設備効率向上に向けた取り組みと課題－意識調査と財務データからみた特徴－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第73号 2004・2005年度設備投資計画調査報告（2004年11月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第68号 2003・04・05年度設備投資計画調査報告（2004年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第58号 2002・03・04年度設備投資計画調査報告（2003年8月調査)",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第51号 2002・2003年度設備投資計画調査報告（2003年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第50号 設備投資計画調査統計集 （1990年度以降）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第45号 2001・02・03年度設備投資計画調査報告（2002年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第37号 2001・2002年度設備投資計画調査報告（2002年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第28号 2000・01・02年度設備投資計画調査報告（2001年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第21号 2000・2001年度設備投資計画調査報告（2001年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第15号 1999・2000・01年度設備投資計画調査報告（2000年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第7号 1999・2000年度設備投資計画調査報告（1999年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "DBJでは、地域別設備投資動向の把握を目的として、「地域別設備投資計画調査（調査対象企業：原則として資本金1億円以上の民間法人企業）」を年1回発表いたしております",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の地域別設備投資計画は、10地域全てで増加の計画となっている",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第27号 最近の産業動向 －主要産業の生産は、素材、資本財産業を中心に減少へ－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第13号 最近の産業動向 －内需の回復続き、多くの業種で生産増加－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度は前年比19.7％増となり、中東情勢など不確実性が高まる中でも、前年度計画の伸び（14.3％増）を上回る旺盛な投資意欲が示された",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業の設備投資は、法人企業統計(財務省)をみると大幅に増加した 1～3 月期の反動で 4～6 月期こそ反",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "によると、企業の設備投資は、前年度から 1.7％増加しており、前回調査から 6.5％上方修正されている",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や中堅企業・非製造業(-5.2%)では、今年度の設備投資額が前年",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に増加した 1～3 月期の反動もあって 4～6 月期はマイ",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(+31.6％)や北陸(同+36.0％)で大きく増加する",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2014年度／前年度比(%))",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※大企業・中堅企業(資本金 1 億円以上)の地域別設備投資動向",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2024年度の設備投資は、通信・情報のAI計算基盤構築や自動車の電動化投資などにより、3年連続で増加（前年比10.5%増）し、バブル期以来の高水準に",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25年度は前年比14.3%増となり、計画時点としては4年ぶりに20%を下回ったものの、米国の関税強化など先行き不透明感がある中でも二桁増を維持",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2024年度設備投資は通信・情報のAI計算基盤構築や自動車の電動化投資により3年連続で増加し、前年比10.5％増とバブル期以来の高水準を記録しました",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度は前年比14.3％増となり、計画時点として4年ぶりに20％を下回ったものの、米国の関税強化など先行き不透明感がある中でも二桁増を維持しています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行（DBJ）が2026年8月4日に公表した「2026年度設備投資計画調査」は、日本の大企業（資本金10億円以上）の投資行動における顕著な対照を映し出した",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金10億円以上の大企業2,756社を対象に実施され、国内設備投資については1,598社（回答率58.0%）、海外設備投資については556社（回答率20.2%）から回答を得たこの調査によれば、2026年度の国内設備投資計画は前年比19.7%増となり、前年度計画の伸び（14.3%増）を上回る旺盛さを示した [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で海外設備投資計画は前年比1.9%減となり、新型コロナウイルス感染拡大下だった2020年度以来、6年ぶりのマイナスに転じる見通しとなった [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内設備投資額（全産業）は前年比19.7%増となる24兆7,551億円規模に達する見通しであり、非製造業の伸び（22.9%増）が製造業（13.2%増）を上回る構図も特徴的である [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の国内設備投資計画（大企業・全産業）は前年比19.7%増と、2025年度実績の7.3%増（4年連続増）から一段と加速する計画である [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は前年比13.2%増となり、AI・データセンター関連の半導体・部材投資が非鉄金属、化学、電気機械といった幅広い業種に波及していることが背景にある [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業は前年比22.9%増とさらに高い伸びを計画しており、電力における送配電網投資の継続と原子力関連投資の本格化、運輸・不動産における駅前再開発や鉄道新線建設、インバウンド需要の増加に伴うホテル・空港機能拡大などが積み上がっている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の海外設備投資計画（連結ベース）は前年比1.9%減で、地域別に見るとその内実は一様ではない",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中国向けは22.6%減と大幅なマイナスとなり、製造業を中心とした減少が継続する見通しである [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年比19.7%増",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年比1.9%減",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3年連続で伸び鈍化、6年ぶりの減少",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内設備投資額（名目値、2019年度＝100とした指数）は、物価上昇分を含めても2025年度実績でバブル期以来の高水準に達しており、非製造業に至ってはバブル期の水準そのものを上回った [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業（資本金1億円以上10億円未満）は大企業よりも中東情勢や物価上昇、人手・後継者不足を強くリスクとして認識する傾向があり、規模が小さい企業ほど地政学リスクへの耐性が相対的に低いことも調査から示唆されている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "海外投資の減少幅（1.9%減）自体は国内投資の伸び（19.7%増）に比べて相対的に小幅であり、構造転換というより調整局面と捉えるのが妥当である",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（全産業）の国内投資計画は25年度実績比19.7%増の24兆7551億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中東情勢の緊迫を受けても人工知能（AI）や電力増強の需要が強く、25年度計画の伸び率（14.3%）を上回った",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査は6月30日を期日とし、資本金10億円以上の大企業1598社から回答を得た",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25年度の実績は前年度比で7.3%増だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "半面、「一部転嫁できているが不十分」の比率は24年度（69%）、25年度（71%）、26年度（81%）と増加傾向にある",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6月日銀短観、設備投資の意欲崩れず 26年度は6.8％増加計画",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "初任給は大卒月給30万円、大学院了月給32万円で、完全週休2日制、5日間連続休暇、独身寮・社宅、社員食堂などの制度も明記されている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年3月期の連結決算では、連結業務粗利益が2,887億円、資金利益が1,664億円、投資関係損益が1,026億円、役務取引等利益が243億円、経常利益が2,024億円、親会社株主に帰属する当期純利益が1,496億円となっている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年の2025年3月期と比べると、連結業務粗利益は817億円増、資金利益は503億円増、投資関係損益は516億円増、経常利益は891億円増、親会社株主に帰属する当期純利益は658億円増で、かなり大きく伸びている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年3月期の連結投資関係損益は1,026億円で、前年の510億円から大きく増えている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その内訳として、株式等関係損益が533億円、ファンド関連損益が445億円となっている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年3月末の単体ベースでは、融資等残高が15兆1,042億円、投資残高が2兆903億円、資金調達残高が15兆7,346億円と公表されている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投融資額は2026年3月期で4兆753億円、そのうち融資等が3兆6,929億円、投資が3,824億円だ",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "第81号 研究開発の循環性、収益性の検討－設備投資との比較を中心に－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第63号 90年代以降の企業の研究開発動向",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第54号 ブロ－ドバンド時代のデジタルコンテンツ・ビジネス－映像コンテンツ流通を中心に－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第14号 わが国化学産業の現状と将来への課題 －企業戦略と研究開発の連繋－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦略17分野では、AI・半導体、デジタル関連を強化する企業が多く、3年以内の追加投資を予定する企業の割合も高い",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中東情勢などによる調達リスクのほか、物価高、人手不足が企業のリスク",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人材獲得の代替策として、デジタル活用に活路を見出す企業の割合が上昇",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6. デジタル化・研究開発",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究開発はAI・半導体、脱炭素中心に堅調",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7. 脱炭素",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "脱炭素の取り組みが徐々に具体化する中で、価格転嫁を課題とする企業がさらに増え、経済性と脱炭素対応の両立の難しさが一層切実に",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、地方では建設業や運輸業、小売業などを中心に人手不足が顕在化しつつあり、企業の事業活動や",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は自動車の電動化投資の継続や素材業種を中心とした脱炭素投資により、21.0%増の高い伸びを維持する",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "物価上昇や人手不足をリスクと認識する企業が多い",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人材獲得の代替策としては、デジタル活用などに引き続き前向き",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5. デジタル化・研究開発",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デジタル化投資は、コロナ以降高い水準で推移",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究開発は脱炭素投資などにより高い伸びが続く",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6. 脱炭素",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "脱炭素の取り組みが徐々に具体化する中で、価格転嫁が最大の課題に",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "～設備投資・米国の関税強化による影響・人的投資・DX・脱炭素など～",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今年度は、米国の関税強化により国内設備投資が下押しされることが懸念された中、コスト高や人手不足など国内投資の制約要因が残るものの、堅調な投資意欲が維持されていることが確認できた",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのほか、米国の関税強化による影響やサプライチェーン、人的投資、DX、脱炭素などさまざまな観点から日本企業が直面する現状の課題を聞くことができた",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工事費高騰や人手不足が投資の制約となっている状況に変化はないが、これに対し、企業はさまざまな対策を検討しており、供給制約の常態化を前提とした経営戦略の策定が進んでいることが示唆された",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足は、現場業務を担う人材から高度なIT人材まで、幅広い職種で深刻化",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DXおよびAI活用は、業務効率化を中心に進展",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "米国の政策変更があったものの、多くの企業で脱炭素対応に対する取り組み自体の方向性は変わらず",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、販売価格への転嫁の難しさなど、脱炭素対応と経済性の両立には引き続き苦慮",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では、製造業が自動車の電動化投資継続や素材業種を中心とした脱炭素投資により21.0％増の高い伸びを維持する一方、非製造業は前年度の高い伸びの反動もあり11.3％増と伸びが一服しています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業経営面では、物価上昇や人手不足をリスクと認識する企業が多く、価格転嫁・賃上げスタンスは維持されているものの賃金引上げペースが鈍化しています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デジタル化投資はコロナ以降高い水準で推移し、AIの活用がさらに高まっています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "脱炭素分野では取組が徐々に具体化する中で価格転嫁が最大の課題となっており、足元では省エネ・再エネが中心ですが、中長期では水素・アンモニアなど新エネを中心とした新技術への注目も高まっています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "記事は、日本企業の設備投資が外部環境の不透明さにも関わらず堅調な成長を維持し、電動化・脱炭素・デジタル化という構造変化に対応した投資が牽引していることを示しています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、戦略17分野に沿った政府の産業政策が、AI・半導体やデジタル・サイバーセキュリティ分野を中心に、3年以内の追加投資を予定する企業の裾野を広げている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足という供給制約は国内投資の実行を妨げる要因として調査でも指摘されており、円安環境下での輸入資材費や建設コストの上昇は「投資コストの先高感」として1割以上の企業が意識している [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足、建設コスト上昇",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これに対し海外設備投資は、国内投資に対する比率（海外投資比率）の低下が続く見込みであり、研究開発拠点についても中長期的に国内拠点を強化する企業の割合が上昇する一方、海外拠点強化の割合は低下している [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資の「量」だけでなく、将来の研究開発機能の配置という「質」の面でも、国内シフトが進行していることになる",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業における中東情勢・人手不足リスクの実際の投資行動への波及度合い",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "銅輸出が過去最高を更新したモンゴルは、資源の9割近くを未加工のまま中国に依存する一方、日本・韓国・米国という「第三の隣国」との重要鉱物協力を広げている",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが使えなくなる日 「デジタル安全保障」確保せよ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "正解なきデジタル主権論への「現実解」 日本企業へ5つの提言",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "脱炭素、地域再生、産業競争力、インフラ更新、金融市場の高度化、危機時の資金供給",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、脱炭素投資では、設備投資が巨大で、回収期間も長く、技術や制度の不確実性もある",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域交通やインフラ更新も同じで、短期の収益性だけで判断すれば民間資金が入りにくい領域が多い",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "エネルギー、交通、都市開発、地域インフラ、ヘルスケア、脱炭素関連投資などは、投資回収に長い時間がかかる",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用サイトでも、脱炭素に向けた取り組みについて、再生可能エネルギーや水素に関するレポートを作成し、地域企業、経済団体、金融機関と議論の場を作り、議論が進んでいない地域へ横展開していくような「ナレッジの提供」が語られている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "地域別 設備投資計画調査 （2026年6月） - 日本政策投資銀行 — 地域別 設備投資計画調査 （2026年6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 地域別設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 首都圏 設備投資計画調査 — 2024・2025・2026年度 首都圏 設備投資計画調査 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 調査研究レポート一覧",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1−3−4図 日本政策投資銀行 設備投資計画調査 - 内閣府 — 第1−3−4図 日本政策投資銀行 設備投資計画調査 - 内閣府 内閣府ホームページ https://www5.cao.go.jp > img",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国 設備投資計画調査 （2026年6月） - 日本政策投資銀行 — 全国 設備投資計画調査 （2026年6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 全国設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025・2026・2027年度 首都圏 設備投資計画調査 — 2025・2026・2027年度 首都圏 設備投資計画調査 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 調査研究レポート一覧",
+    "url": "https://www.dbj.jp/investigate/20260804_3977.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 — 全国 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 全国設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 — 地域別 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 地域別設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Publication of Survey on Planned Capital Spending for FY2025 — Publication of Survey on Planned Capital Spending for FY2025 株式会社日本政策投資銀行 https://www.dbj.jp > investigate",
+    "url": "https://www.dbj.jp/en/investigate/20250804_206102.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Publication of Survey on Planned Capital Spending for FY2024 — Publication of Survey on Planned Capital Spending for FY2024 株式会社日本政策投資銀行 https://www.dbj.jp > investigate",
+    "url": "https://www.dbj.jp/en/investigate/20240806_204917.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Development Bank of Japan Research Report No. 29 — Development Bank of Japan Research Report No. 29 株式会社日本政策投資銀行 PDF https://www.dbj.jp > archive > research > pdf",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Development Bank of Japan Research Report No. 26 — Development Bank of Japan Research Report No. 26 株式会社日本政策投資銀行 PDF https://www.dbj.jp > archive > research > pdf",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/26_02.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "1990年以降より各年度における設備投資増減率の推移を、業種別・地域別でまとめて見ることができます",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度地域別・業種別増減率",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第42号 わが国電気機械産業の課題と展望－総合電気機械メーカの事業再編と将来展望－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8. 地域別設備投資と中堅企業の特徴",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業では中東情勢や物価上昇、人手・後継者不足を大企業よりも強くリスクとして認識する一方、大企業と同様にAIなどの新技術を成長機会と認識",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行の設備投資計画調査でも、2014 年度の大企業を中心とする設備投資計画は 13 年度から",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014 年度の設備投資計画は、 大企業をみると製造業",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、中小企業（製造業／-5.4%・非製造業／-26.0%)",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や中堅企業・非製造業(-5.2%)では、今年度の設備投資額が前年",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ると、大企業・中小企業とも製造業で設備に過剰感があり、先",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "したがって、大企業が先行する設備投資の拡大は、必ずしも供",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資の拡大は大企業で先行しており、地域や産業に大きなばらつき",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業 7.4 5.8",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 2.2 3.8",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 ▲ 19.7 13.4",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※大企業・中堅企業(資本金 1 億円以上)の地域別設備投資動向",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2024年度の設備投資は、通信・情報のAI計算基盤構築や自動車の電動化投資などにより、3年連続で増加（前年比10.5%増）し、バブル期以来の高水準に",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大・中堅企業ともに価格転嫁、賃上げのスタンスは変わらないものの、賃金の引上げペースが鈍化している",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7. 地域別設備投資と中堅企業の特徴",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "多くの中堅企業が人手・後継者不足、人件費上昇をリスクと認識する一方、大企業以上に内外の政策見直しを成長機会と認識",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2024年度設備投資は通信・情報のAI計算基盤構築や自動車の電動化投資により3年連続で増加し、前年比10.5％増とバブル期以来の高水準を記録しました",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では、製造業が自動車の電動化投資継続や素材業種を中心とした脱炭素投資により21.0％増の高い伸びを維持する一方、非製造業は前年度の高い伸びの反動もあり11.3％増と伸びが一服しています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行（DBJ）が2026年8月4日に公表した「2026年度設備投資計画調査」は、日本の大企業（資本金10億円以上）の投資行動における顕著な対照を映し出した",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金10億円以上の大企業2,756社を対象に実施され、国内設備投資については1,598社（回答率58.0%）、海外設備投資については556社（回答率20.2%）から回答を得たこの調査によれば、2026年度の国内設備投資計画は前年比19.7%増となり、前年度計画の伸び（14.3%増）を上回る旺盛さを示した [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の国内設備投資計画（大企業・全産業）は前年比19.7%増と、2025年度実績の7.3%増（4年連続増）から一段と加速する計画である [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は前年比13.2%増となり、AI・データセンター関連の半導体・部材投資が非鉄金属、化学、電気機械といった幅広い業種に波及していることが背景にある [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業（資本金1億円以上10億円未満）は大企業よりも中東情勢や物価上昇、人手・後継者不足を強くリスクとして認識する傾向があり、規模が小さい企業ほど地政学リスクへの耐性が相対的に低いことも調査から示唆されている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業における中東情勢・人手不足リスクの実際の投資行動への波及度合い",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの2026年度設備投資計画調査は、日本の大企業が中東情勢の緊迫という共通の逆風の下で、国内投資では19.7%増という高い伸びを計画する一方、海外投資では1.9%減とコロナ禍以来のマイナスを見込むという対照的な選択をしていることを明らかにした",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度設備投資計画調査（全国調査・大企業）",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業の設備投資計画、中東緊迫でも2割増 政投銀の26年度調査 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（全産業）の国内投資計画は25年度実績比19.7%増の24兆7551億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査は6月30日を期日とし、資本金10億円以上の大企業1598社から回答を得た",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "先端半導体や電子部品の増産投資がみられる電気機械は18.2%伸びる",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【徹底企業分析 日本政策投資銀行】“日本の未来”に融資する銀行。メガバンクでも官公庁でもない、DBJという最難関金融の正体｜プロ企業分析家の就活note",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【徹底企業分析 日本政策投資銀行】“日本の未来”に融資する銀行。メガバンクでも官公庁でもない、DBJという最難関金融の正体",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "就活生がDBJを調べると、だいたい最初にぶつかる壁がある。",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それは、**「結局、何をしている会社なのか分かりにくい」**という壁だ。",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資銀行っぽい案件もあるのに、外資IBとも違う。",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域、インフラ、エネルギー、都市開発、スタートアップ、M&A、危機対応、サステナビリティ。扱うテーマが大きすぎて、企業研究をしているはずなのに、いつの間にか日本経済そのものを読まされている感覚になる。",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "でも、ここを雑に理解したまま選考に進むとかなり危ない。DBJは「金融に興味があります」「社会貢献したいです」だけで通る会社ではない。むしろ、",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融を手段として、日本の産業・地域・インフラのどの課題に向き合いたいのか",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "2025年度（2026年3月公表）",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 設備投資計画調査（2025年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023・2024・2025年度 設備投資計画調査（2024年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022・2023・2024年度 設備投資計画調査（2023年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021・2022・2023年度 設備投資計画調査（2022年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020・2021・2022年度 設備投資計画調査（2021年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019・2020・2021年度 設備投資計画調査（2020年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018・2019・2020年度 設備投資計画調査（2019年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017・2018・2019年度 設備投資計画調査（2018年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016・2017・2018年度 設備投資計画調査（2017年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2015・2016・2017年度 設備投資計画調査（2016年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014・2015・2016年度 設備投資計画調査 （2015年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013・2014・2015年度 設備投資計画調査（2014年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012・2013・2014年度 設備投資計画調査（2013年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011・2012・2013年度 設備投資計画調査（2012年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2010・2011・2012年度 設備投資計画調査（2011年7月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2009・2010・2011年度 設備投資計画調査 （2010年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008・2009・2010年度 設備投資計画調査（2009年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008年度以前の全国設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別設備投資計画調査（2026年6月） | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別設備投資計画調査（2026年6月）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今般、2025年度設備投資実績および2026・2027年度設備投資計画について調査結果をとりまとめましたので、その概要をご報告いたします",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1990年以降より各年度における設備投資増減率の推移を、業種別・地域別でまとめて見ることができます",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の設備投資計画の特徴",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の地域別設備投資計画は、10地域全てで増加の計画となっている",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026／2025年度地域別増減率（％）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（）内は2025／2024の増減率",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度地域別・業種別増減率",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国設備投資計画調査（2026年6月）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 首都圏設備投資計画調査 | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 首都圏設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年08月04日",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域の経済 2014",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内閣府法人番号 2000012010019",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008年度上期以前の",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第98号 2007・08・09年度設備投資計画調査報告（2008年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第94号 2006・07・08年度設備投資計画調査報告（2007年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第92号 2005・06・07年度設備投資計画調査報告（2006年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第87号 2005・2006年度設備投資計画調査報告（2005年11月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第85号 2004・05・06年度設備投資計画調査報告（2005年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第73号 2004・2005年度設備投資計画調査報告（2004年11月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第68号 2003・04・05年度設備投資計画調査報告（2004年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第58号 2002・03・04年度設備投資計画調査報告（2003年8月調査)",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第51号 2002・2003年度設備投資計画調査報告（2003年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第50号 設備投資計画調査統計集 （1990年度以降）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第45号 2001・02・03年度設備投資計画調査報告（2002年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第37号 2001・2002年度設備投資計画調査報告（2002年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第28号 2000・01・02年度設備投資計画調査報告（2001年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第21号 2000・2001年度設備投資計画調査報告（2001年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第15号 1999・2000・01年度設備投資計画調査報告（2000年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第7号 1999・2000年度設備投資計画調査報告（1999年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2号 1998・99・2000年度設備投資計画調査報告（1999年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国設備投資計画調査（2026年6月） | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国設備投資計画調査（2026年6月）",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年6月30日を期日として、特別アンケートを実施",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増減率の推移を、時系列でまとめて見ることができます",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の設備投資計画の特徴",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度は前年比19.7％増となり、中東情勢など不確実性が高まる中でも、前年度計画の伸び（14.3％増）を上回る旺盛な投資意欲が示された",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度の地域別設備投資は、全地域で二桁増の計画となり、特に東北、北海道、北関東甲信で高い伸びを見込む",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "全産業では東北、北海道、北関東甲信が40%超の大幅増となっているほか、その他地域も含めて全地域が二桁の伸びを見込む",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "15.1%増と、24 年ぶりの高い伸びとなっている",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "で 2 桁増(+12.7%)となったほか、 非製造業でも＋4.9%となって",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、中小企業（製造業／-5.4%・非製造業／-26.0%)",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や中堅企業・非製造業(-5.2%)では、今年度の設備投資額が前年",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-20% 0% 20% 40% 60%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-19.6%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-11.3%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-36.4%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-52.7%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-60% -40% -20% 0% 20% 40% 60%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2014年度／前年度比(%))",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2024年度の設備投資は、通信・情報のAI計算基盤構築や自動車の電動化投資などにより、3年連続で増加（前年比10.5%増）し、バブル期以来の高水準に",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25年度は前年比14.3%増となり、計画時点としては4年ぶりに20%を下回ったものの、米国の関税強化など先行き不透明感がある中でも二桁増を維持",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は自動車の電動化投資の継続や素材業種を中心とした脱炭素投資により、21.0%増の高い伸びを維持する",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、非製造業は前年度の伸びが高かったこともあり、11.3%増と伸びが一服",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内投資19.7%増・海外投資1.9%減 DBJ調査に見る日本企業の二極化 | Newscoda",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金10億円以上の大企業2,756社を対象に実施され、国内設備投資については1,598社（回答率58.0%）、海外設備投資については556社（回答率20.2%）から回答を得たこの調査によれば、2026年度の国内設備投資計画は前年比19.7%増となり、前年度計画の伸び（14.3%増）を上回る旺盛さを示した [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で海外設備投資計画は前年比1.9%減となり、新型コロナウイルス感染拡大下だった2020年度以来、6年ぶりのマイナスに転じる見通しとなった [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内設備投資額（全産業）は前年比19.7%増となる24兆7,551億円規模に達する見通しであり、非製造業の伸び（22.9%増）が製造業（13.2%増）を上回る構図も特徴的である [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の国内設備投資計画（大企業・全産業）は前年比19.7%増と、2025年度実績の7.3%増（4年連続増）から一段と加速する計画である [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は前年比13.2%増となり、AI・データセンター関連の半導体・部材投資が非鉄金属、化学、電気機械といった幅広い業種に波及していることが背景にある [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業は前年比22.9%増とさらに高い伸びを計画しており、電力における送配電網投資の継続と原子力関連投資の本格化、運輸・不動産における駅前再開発や鉄道新線建設、インバウンド需要の増加に伴うホテル・空港機能拡大などが積み上がっている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実際に、NTTデータグループは日本国内のデータセンター能力を2033年までに現状の4倍となる1ギガワットへ引き上げるべく、90億ドル規模の投資を計画していると報じられており、通信・AI関連企業による国内投資の積み増しが統計上の伸びを下支えしている構図がうかがえる [3]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の海外設備投資計画（連結ベース）は前年比1.9%減で、地域別に見るとその内実は一様ではない",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中国向けは22.6%減と大幅なマイナスとなり、製造業を中心とした減少が継続する見通しである [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米は5.2%減、欧州は1.5%減とそれぞれ前年から反転し、化学や不動産分野での大型案件の一巡が響いている [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対照的に、中国を除くアジア向けは19.6%増と拡大しており、自動車関連投資などが下支えしている [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査では、製造業企業の44.5%が事業上のダウンサイドリスクとして中東情勢を挙げており、物価上昇に次ぐ主要なリスク要因として意識されている [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーン見直しの契機として「中東情勢」や「ウクライナ情勢」を挙げる企業の割合も、2025年度の8.3%から2026年度には25.5%へと大きく上昇した [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年比19.7%増",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年比1.9%減",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1,598社（回答率58.0%）",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "556社（回答率20.2%）",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電力・通信・不動産・運輸など内需完結型の非製造業は、国内のAI・データセンター需要や都市機能強化投資の恩恵を最も直接的に受けており、22.9%という高い伸びに象徴される",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（全産業）の国内投資計画は25年度実績比19.7%増の24兆7551億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中東情勢の緊迫を受けても人工知能（AI）や電力増強の需要が強く、25年度計画の伸び率（14.3%）を上回った",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25年度の実績は前年度比で7.3%増だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度計画は非製造業の伸びが22.9%と、製造業の13.2%を大きく上回った",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "けん引したのは53.5%増となった電力で、データセンターの増設などに伴う送配電網や原子力発電所の安全対策に関する投資が膨らむ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "都市部での再開発が活発な不動産（31.9%増）や、鉄道の駅前の商業開発や新線建設が増える運輸（20.0%増）も全体の伸びに寄与した",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "先端半導体や電子部品の増産投資がみられる電気機械は18.2%伸びる",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "半導体やデータセンターに関わる部材を提供する化学（11.6%増）や非鉄金属（11.3%増）は前年度からの改善が顕著だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "事業上のダウンサイドリスクを聞き取ったところ、製造業で中東情勢を挙げた企業は44.5%、部材などの調達を挙げたのが40.2%だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "59.1%だった物価上昇に次ぐリスク要因として意識された",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "見直しの契機として部品・原材料の供給不足を選択した企業は30.9%と、25年度の10.0%から上昇した",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中東・ウクライナ情勢の比率も8.3%から25.5%に高まった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内設備投資が堅調な一方で、26年度の海外投資計画は1.9%減だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「転嫁できている」と答えた企業は12%と、24年度の21%、25年度の18%と年々低下",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "半面、「一部転嫁できているが不十分」の比率は24年度（69%）、25年度（71%）、26年度（81%）と増加傾向にある",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "首都圏の設備投資28%増 26年度、再開発活況で不動産がけん引",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北関東3県の設備投資、26年度は58%増 政投銀調べ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "九州の設備投資18.7%増、運輸・不動産けん引 26年度政投銀調べ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "plus of 4% against GDP. While the contribution",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "end of 1999, consisting of ¥1,055 trillion (58%)",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in real assets and ¥751 trillion (46%) in financial",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assets. 60% of the real assets were fixed assets",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and inventory and the other 40% was land. Li-",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the surplus in 1999 amounted to 4% against",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【徹底企業分析 日本政策投資銀行 】“日本の未来”に融資する ... 【徹底企業分析 日本政策投資銀行 】“日本の未来”に融資する ... note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/20260804_3977.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dbj.jp/ricf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/24090901_miyanaga.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/en/investigate/20250804_206102.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/en/investigate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/en/investigate/20240806_204917.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/26_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dbj-cap.jp/en/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "設備投資計画調査（日本政策投資銀行） 推移",
+   "results": [
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.dbj.jp/investigate/equip/national/",
+    "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "https://www.dbj.jp/investigate/20250804_206080.html",
+    "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "https://www.dbj.jp/investigate/archive/research/",
+    "https://www.dbj.jp/ricf/",
+    "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf"
+   ]
+  },
+  {
+   "query": "設備投資計画調査（日本政策投資銀行） 調査結果 pdf",
+   "results": [
+    "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "https://www.dbj.jp/investigate/archive/research/",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.dbj.jp/investigate/20260804_3977.html",
+    "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "https://www.dbj.jp/investigate/equip/national/",
+    "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "https://www.dbj.jp/ricf/",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf"
+   ]
+  },
+  {
+   "query": "設備投資計画調査（日本政策投資銀行） 年度 実施割合",
+   "results": [
+    "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "https://www.dbj.jp/investigate/equip/national/",
+    "https://www.dbj.jp/investigate/archive/research/",
+    "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "https://www.dbj.jp/investigate/20260804_3977.html",
+    "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/"
+   ]
+  },
+  {
+   "query": "DBJ capital investment survey manufacturing",
+   "results": [
+    "https://www.dbj.jp/en/investigate/20250804_206102.html",
+    "https://www.dbj.jp/en/investigate/",
+    "https://www.dbj.jp/en/investigate/20240806_204917.html",
+    "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "https://www.dbj.jp/en/investigate/archive/research/pdf/26_02.pdf",
+    "https://www.dbj-cap.jp/en/about/",
+    "https://www.dbj.jp/en/case/list/",
+    "https://www.dbj.jp/en/investigate/archive/research/pdf/50.pdf",
+    "https://www.dbj.jp/en/investigate/archive/research/pdf/63_02.pdf",
+    "https://www.dbj.jp/en/investigate/20260804_206102_1.html"
+   ]
+  },
+  {
+   "query": "site:note.com 設備投資計画調査（日本政策投資銀行）",
+   "results": [
+    "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "https://note.com/wish11_11/n/n6438c34fc437",
+    "https://note.com/kens_reading1/n/n3e651e0c9923",
+    "https://note.com/diggle/n/n795eb7e9cbb4",
+    "https://note.com/hirokimiyano/n/n529d77e1fc8d",
+    "https://note.com/wish11_11/n/n9c405dd4b0f8",
+    "https://note.com/akiyoshitakumori/n/n8eb3c1c1784f",
+    "https://note.com/diggle/n/nd29d28835286",
+    "https://note.com/diggle/n/n2f95a766395b",
+    "https://note.com/asahikokura0805/n/n187b1917ad79?magazine_key=m3abf188d508c"
+   ]
+  },
+  {
+   "query": "site:x.com 設備投資計画調査（日本政策投資銀行）",
+   "results": [
+    "https://x.com/e41_niimi/status/1707681661851447620",
+    "https://x.com/kenichioshima/status/2085003408554287274",
+    "https://x.com/mof_lfb_hkrk",
+    "https://x.com/matsu_growthix",
+    "https://x.com/ODFCinformation",
+    "https://x.com/kenichioshima",
+    "https://x.com/yabooarat/status/2072565208267268253",
+    "https://x.com/nikkaniwate",
+    "https://x.com/ykidera/status/2116360533142319270",
+    "https://x.com/TMiyajima1115/status/2084888952453153066"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 設備投資計画調査（日本政策投資銀行）",
+   "results": [
+    "https://jp.linkedin.com/in/satorushibata",
+    "https://www.linkedin.com/help/recruiter/answer/a1421501/recruiter-talent-insights-?lang=ja",
+    "https://jp.linkedin.com/in/%E8%AB%92-%E7%9F%B3%E5%B1%B1-80a43b2bb",
+    "https://jp.linkedin.com/company/kamakura-sustainability-institute",
+    "https://jp.linkedin.com/in/ryoji-yoshizawa-00197299",
+    "https://jp.linkedin.com/pulse/enough-bang-buck-public-infra-investment-stimulating-private-subran?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%A4%A7%E9%98%AA%E3%80%91%E4%BA%8B%E6%A5%AD%E4%BC%81%E7%94%BB%EF%BC%8F%E7%B7%8F%E5%90%88%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%80%8Cjclaas%E4%BA%8B%E6%A5%AD%E3%80%8D%E3%82%92%E6%8E%A8%E9%80%B2%E2%97%86%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%8F%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%9C%89-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4276629106",
+    "https://jp.linkedin.com/jobs/view/research-division-associate-equity-strategy-tokyo-at-morgan-stanley-4478428728",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/posts/jdsc_株式会社日本政策投資銀行大企業を支えるデータ分析の多角的アプローチと仕組み構築-activity-7277499644664823808-iSfK"
+   ]
+  },
+  {
+   "query": "site:facebook.com 設備投資計画調査（日本政策投資銀行）",
+   "results": [
+    "https://www.facebook.com/murc.jp/posts/%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B32026%E5%B9%B49%E6%9C%88%E8%AA%BF%E6%9F%BB%E7%B5%90%E6%9E%9C%E5%85%88%E8%A1%8C%E3%81%8D%E3%81%B8%E3%81%AE%E8%AD%A6%E6%88%92%E6%84%9F%E3%81%8C%E5%BC%B7%E3%81%BE%E3%82%8B%E3%81%AA%E3%81%8B%E3%81%A7%E3%82%82%E4%BC%81%E6%A5%AD%E3%81%AE%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E6%84%8F%E6%AC%B2%E3%81%AF%E5%A0%85%E8%AA%BF%E3%81%A7%E3%81%999%E6%9C%88%E3%81%AE%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%E3%81%A7%E3%81%AF2026%E5%B9%B4%E5%BA%A6%E3%81%AE%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E8%A8%88%E7%94%BB%E3%81%8C%E5%A4%A7%E4%BC%81%E6%A5%AD%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E5%89%8D%E5%B9%B4%E6%AF%9411/1588308676432438/",
+    "https://www.facebook.com/takaichisanae/posts/%E6%9C%AC%E6%97%A5%E5%A4%95%E6%96%B9%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E5%9B%A3%E4%BD%93%E9%80%A3%E5%90%88%E4%BC%9A-%E5%89%B5%E7%AB%8B80%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E8%A1%8C%E4%BA%8B%E3%81%AB%E3%81%8A%E6%8B%9B%E3%81%8D%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E7%B5%8C%E5%9B%A3%E9%80%A3%E3%81%AE%E5%89%B5%E7%AB%8B80%E5%91%A8%E5%B9%B4%E3%82%92%E5%BF%83%E3%82%88%E3%82%8A%E3%81%8A%E6%85%B6%E3%81%B3%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AF%E3%83%87%E3%83%95%E3%83%AC%E7%9A%84%E7%B5%8C%E6%B8%88%E6%A7%8B%E9%80%A0%E3%81%AE%E4%B8%8B%E3%81%A7%E5%81%9C%E6%BB%9E%E3%82%92%E7%B5%8C%E9%A8%93%E3%81%97/1476087301283585/",
+    "https://www.facebook.com/kidera.yoshi/posts/%E4%B8%96%E7%95%8C%E3%81%AEai%E9%87%91%E8%9E%8D%E8%B3%87%E6%9C%AC%E6%88%A6%E7%95%A52026%E5%B9%B410%E6%9C%8826%E6%97%A5%E7%89%88%E8%AA%BF%E6%9F%BB%E5%9F%BA%E6%BA%962026%E5%B9%B410%E6%9C%8826%E6%97%A5%E6%9C%9D%E6%97%A5%E6%9C%AC%E6%99%82%E9%96%93%E3%81%BE%E3%81%A7%E3%81%AB%E5%85%AC%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%AEai%E9%96%A2%E9%80%A3%E6%8A%95%E8%B3%87%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94ipoma%E4%BC%81%E6%A5%AD%E4%BE%A1%E5%80%A4%E8%A9%95%E4%BE%A1%E9%87%91%E8%9E%8D%E3%82%A4%E3%83%B3%E3%83%95/10164612986454194/",
+    "https://www.facebook.com/govbook.kasumigaseki/",
+    "https://www.facebook.com/VUC2021/posts/%E6%B0%91%E9%96%93%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%81%A8%E3%81%A9%E3%81%86%E9%81%95%E3%81%86%E3%81%AE%E5%85%AC%E7%9A%84%E6%94%BF%E5%BA%9C%E7%B3%BB%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%81%A8%E3%81%AF%E7%B7%8F%E9%9B%86%E7%B7%A8%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E5%95%86%E6%A5%AD%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E3%81%AE%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%81%A7%E3%81%99%E3%81%84%E3%81%A4%E3%82%82%E3%81%94%E8%A6%96%E8%81%B4%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99-%E4%BB%8A%E6%97%A5%E3%81%AF%E7%A7%81%E3%81%AE%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%81%8C/913918827829338/",
+    "https://www.facebook.com/sendaicci/posts/%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E5%BD%93%E6%89%80%E3%81%8C%E4%BA%8B%E5%8B%99%E5%B1%80%E3%82%92%E5%8B%99%E3%82%81%E3%82%8B%E4%BB%99%E5%8F%B0%E7%A9%BA%E6%B8%AF%E5%9B%BD%E9%9A%9B%E5%8C%96%E5%88%A9%E7%94%A8%E4%BF%83%E9%80%B2%E5%8D%94%E8%AD%B0%E4%BC%9A%E6%97%A5%E6%9C%AC%E6%94%BF%E7%AD%96%E6%8A%95%E8%B3%87%E9%8A%80%E8%A1%8C%E4%BB%99%E5%8F%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E6%9D%B1%E5%8C%97%E7%B5%8C%E6%B8%88%E9%80%A3%E5%90%88%E4%BC%9A%EF%BC%94%E8%80%85%E3%81%AE%E5%85%B1%E5%90%8C%E3%81%A72017%E5%B9%B4%E5%BA%A6%E6%9D%B1%E5%8C%97%E5%9C%B0%E5%9F%9F%E4%BC%81%E6%A5%AD%E3%82%A2%E3%82%A6%E3%83%88%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E6%97%85%E5%AE%A2%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A/1757050724307928/",
+    "https://www.facebook.com/Hokkaido.Local.Finance.Bureau/videos/%E5%8C%97%E6%B5%B7%E9%81%93%E8%B2%A1%E5%8B%99%E5%B1%80%E7%AE%A1%E5%86%85%E3%81%AE%E6%B3%95%E4%BA%BA%E4%BC%81%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E4%BB%A4%E5%92%8C8%E5%B9%B446%E6%9C%88%E6%9C%9F%E3%81%AE%E7%B5%90%E6%9E%9C%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%B5%8C%E6%B8%88%E5%8C%97%E6%B5%B7%E9%81%93%E8%B2%A1%E5%8B%99%E5%B1%80%E6%B3%95%E4%BA%BA%E4%BC%81%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BBhttpslfbmofgojphokkaidotoukei/1012229551862047/",
+    "https://www.facebook.com/sourikantei/videos/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E3%81%AE%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%95%E9%A6%96%E7%9B%B8%E3%81%A8%E4%BC%9A%E8%AB%87%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F425%E5%B9%B4%E3%81%AE%E4%BA%A4%E6%B5%81%E9%96%A2%E4%BF%82%E3%82%92%E7%B5%8C%E3%81%A6%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E9%9D%A2%E3%81%AB%E5%8A%A0%E3%81%88%E6%88%91%E3%81%8C%E5%9B%BD%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6%E6%AC%A7%E5%B7%9E%E6%9C%89%E6%95%B0%E3%81%AE%E6%8A%95%E8%B3%87%E5%85%88%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E5%90%8C%E5%9B%BD%E3%81%A8%E3%81%AF%E6%AC%A1%E4%B8%96%E4%BB%A3%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%88%86%E9%87%8E%E3%81%A7%E3%81%AE%E5%8D%94%E5%8A%9B%E3%82%92%E5%90%AB%E3%82%80%E7%B5%8C%E6%B8%88%E9%96%A2%E4%BF%82/578174834689851/",
+    "https://www.facebook.com/nejilog/posts/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%99%AF%E6%B3%81%E6%84%9F%E3%81%8C6%E5%9B%9B%E5%8D%8A%E6%9C%9F%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%B9%E5%96%84%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99ai%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E3%81%AE%E9%9C%80%E8%A6%81%E3%81%8C%E8%BF%BD%E3%81%84%E9%A2%A8%E3%81%A8%E3%81%AA%E3%82%8B%E4%B8%80%E6%96%B9%E5%85%88%E8%A1%8C%E3%81%8D%E3%81%AB%E3%81%AF%E4%B8%8D%E9%80%8F%E6%98%8E%E6%84%9F%E3%82%82%E6%AE%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%81%93%E3%81%86%E3%81%97%E3%81%9F%E5%B1%80%E9%9D%A2%E3%81%A7%E8%AA%BF%E9%81%94%E6%8B%85%E5%BD%93%E8%80%85%E3%81%8C%E8%80%83%E3%81%88%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%81%AE%E3%81%8C%E9%9C%80%E8%A6%81%E3%81%8C/122240664908311368/",
+    "https://www.facebook.com/yutaka.asaka.5/posts/日本政策投資銀行が発表した２０２６年度設備投資計画調査によると大企業の国内投資額は前年度実績比１９７増となった製造業だけでも１３２増となっている計画通りに実行さ/1763571227997080/"
+   ]
+  },
+  {
+   "query": "設備投資計画調査（日本政策投資銀行） note 社長",
+   "results": [
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "https://www.dbj.jp/investigate/20260804_3977.html",
+    "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "https://www.dbj.jp/ricf/research/research_note.html",
+    "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "https://note.com/shyuukatu_gy/n/n0433938f52e6",
+    "https://www.nikkei.com/article/DGXZQOUB283I50Y5A720C2000000/",
+    "https://www.dbj.jp/ricf/",
+    "https://www.dbj.jp/investigate/equip/national/detail_202506.html"
+   ]
+  },
+  {
+   "query": "設備投資計画調査（日本政策投資銀行） X 投稿",
+   "results": [
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "https://www.dbj.jp/investigate/equip/regional/",
+    "https://www.dbj.jp/investigate/20260804_3977.html",
+    "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "https://www.youtube.com/watch?v=zAZ5gTRApjI",
+    "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "https://www.dbj.jp/ricf/",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kinyu/forum/dai1/shiryou5.pdf",
+    "https://x.com/TMiyajima1115/status/2084888952453153066"
+   ]
+  },
+  {
+   "query": "DBJ capital investment survey manufacturing site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/tatsutotsuge",
+    "https://www.linkedin.com/in/joepastora",
+    "https://jp.linkedin.com/in/ryo-mochizuki-65792118",
+    "https://www.linkedin.com/in/aditya-puri-investor",
+    "https://www.linkedin.com/in/allan-mcbride",
+    "https://www.linkedin.com/in/miki-ogawa-812b6765",
+    "https://www.linkedin.com/in/alexandervirtue",
+    "https://www.linkedin.com/in/april-yue-mao-4061363a",
+    "https://www.linkedin.com/pulse/japan-fintech-observer-168-norbert-gehrke-pbdse",
+    "https://uk.linkedin.com/in/junjishirota"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "機械受注": [
+   {
+    "quote": "第13号 最近の産業動向 －内需の回復続き、多くの業種で生産増加－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第5号 最近の産業動向 －輸出はアジア向けで堅調、内需は回復に力強さがみられず－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電力・通信・不動産・運輸など内需完結型の非製造業は、国内のAI・データセンター需要や都市機能強化投資の恩恵を最も直接的に受けており、22.9%という高い伸びに象徴される",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "設備投資計画調査 | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJが毎年実施している民間法人企業を対象とした設備投資計画調査です",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ各支店事務所が毎年実施している個別地域の詳細分析です",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資計画調査の結果を踏まえ、企業トップの方々からヒアリングした課題・論点をまとめたレポートです",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度（2026年3月公表）",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国設備投資計画調査 | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJが毎年実施している民間法人企業を対象とした設備投資計画調査です",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 設備投資計画調査（2025年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023・2024・2025年度 設備投資計画調査（2024年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022・2023・2024年度 設備投資計画調査（2023年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021・2022・2023年度 設備投資計画調査（2022年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020・2021・2022年度 設備投資計画調査（2021年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019・2020・2021年度 設備投資計画調査（2020年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018・2019・2020年度 設備投資計画調査（2019年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017・2018・2019年度 設備投資計画調査（2018年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016・2017・2018年度 設備投資計画調査（2017年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2015・2016・2017年度 設備投資計画調査（2016年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014・2015・2016年度 設備投資計画調査 （2015年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013・2014・2015年度 設備投資計画調査（2014年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012・2013・2014年度 設備投資計画調査（2013年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011・2012・2013年度 設備投資計画調査（2012年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2010・2011・2012年度 設備投資計画調査（2011年7月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2009・2010・2011年度 設備投資計画調査 （2010年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008・2009・2010年度 設備投資計画調査（2009年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008年度以前の全国設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別設備投資計画調査（2026年6月） | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別設備投資計画調査（2026年6月）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJでは、地域別設備投資動向の把握を目的として、「地域別設備投資計画調査（調査対象企業：原則として資本金1億円以上の民間法人企業）」を年1回発表いたしております",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今般、2025年度設備投資実績および2026・2027年度設備投資計画について調査結果をとりまとめましたので、その概要をご報告いたします",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1990年以降より各年度における設備投資増減率の推移を、業種別・地域別でまとめて見ることができます",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の設備投資計画の特徴",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の地域別設備投資計画は、10地域全てで増加の計画となっている",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026／2025年度地域別増減率（％）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度地域別・業種別増減率",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）地域別の増減率は、都道府県別回答が得られたデータを基に算出しているが、全国の増減率は、都道府県別の回答が得られていないデータも含めて算出している",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行 産業・地域調査部 設備投資計画調査 事務局",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国設備投資計画調査（2026年6月）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 首都圏設備投資計画調査 | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 首都圏設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この調査は、1956年より全国一斉に実施しており、調査対象企業および回答企業の数は、同種の調査としてはわが国最大規模です",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1−3−4図 日本政策投資銀行 設備投資計画調査 - 内閣府",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1−3−4図 日本政策投資銀行 設備投資計画調査",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008年度上期以前の",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第98号 2007・08・09年度設備投資計画調査報告（2008年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第94号 2006・07・08年度設備投資計画調査報告（2007年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第92号 2005・06・07年度設備投資計画調査報告（2006年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第87号 2005・2006年度設備投資計画調査報告（2005年11月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第85号 2004・05・06年度設備投資計画調査報告（2005年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第74号 日本企業の設備効率向上に向けた取り組みと課題－意識調査と財務データからみた特徴－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第73号 2004・2005年度設備投資計画調査報告（2004年11月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第68号 2003・04・05年度設備投資計画調査報告（2004年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第58号 2002・03・04年度設備投資計画調査報告（2003年8月調査)",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第51号 2002・2003年度設備投資計画調査報告（2003年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第50号 設備投資計画調査統計集 （1990年度以降）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第45号 2001・02・03年度設備投資計画調査報告（2002年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第37号 2001・2002年度設備投資計画調査報告（2002年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第28号 2000・01・02年度設備投資計画調査報告（2001年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第21号 2000・2001年度設備投資計画調査報告（2001年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第15号 1999・2000・01年度設備投資計画調査報告（2000年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第7号 1999・2000年度設備投資計画調査報告（1999年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "DBJでは、地域別設備投資動向の把握を目的として、「地域別設備投資計画調査（調査対象企業：原則として資本金1億円以上の民間法人企業）」を年1回発表いたしております",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の地域別設備投資計画は、10地域全てで増加の計画となっている",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第27号 最近の産業動向 －主要産業の生産は、素材、資本財産業を中心に減少へ－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第13号 最近の産業動向 －内需の回復続き、多くの業種で生産増加－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度は前年比19.7％増となり、中東情勢など不確実性が高まる中でも、前年度計画の伸び（14.3％増）を上回る旺盛な投資意欲が示された",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業の設備投資は、法人企業統計(財務省)をみると大幅に増加した 1～3 月期の反動で 4～6 月期こそ反",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "によると、企業の設備投資は、前年度から 1.7％増加しており、前回調査から 6.5％上方修正されている",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や中堅企業・非製造業(-5.2%)では、今年度の設備投資額が前年",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に増加した 1～3 月期の反動もあって 4～6 月期はマイ",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(+31.6％)や北陸(同+36.0％)で大きく増加する",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2014年度／前年度比(%))",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※大企業・中堅企業(資本金 1 億円以上)の地域別設備投資動向",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2024年度の設備投資は、通信・情報のAI計算基盤構築や自動車の電動化投資などにより、3年連続で増加（前年比10.5%増）し、バブル期以来の高水準に",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25年度は前年比14.3%増となり、計画時点としては4年ぶりに20%を下回ったものの、米国の関税強化など先行き不透明感がある中でも二桁増を維持",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2024年度設備投資は通信・情報のAI計算基盤構築や自動車の電動化投資により3年連続で増加し、前年比10.5％増とバブル期以来の高水準を記録しました",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度は前年比14.3％増となり、計画時点として4年ぶりに20％を下回ったものの、米国の関税強化など先行き不透明感がある中でも二桁増を維持しています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行（DBJ）が2026年8月4日に公表した「2026年度設備投資計画調査」は、日本の大企業（資本金10億円以上）の投資行動における顕著な対照を映し出した",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金10億円以上の大企業2,756社を対象に実施され、国内設備投資については1,598社（回答率58.0%）、海外設備投資については556社（回答率20.2%）から回答を得たこの調査によれば、2026年度の国内設備投資計画は前年比19.7%増となり、前年度計画の伸び（14.3%増）を上回る旺盛さを示した [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で海外設備投資計画は前年比1.9%減となり、新型コロナウイルス感染拡大下だった2020年度以来、6年ぶりのマイナスに転じる見通しとなった [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内設備投資額（全産業）は前年比19.7%増となる24兆7,551億円規模に達する見通しであり、非製造業の伸び（22.9%増）が製造業（13.2%増）を上回る構図も特徴的である [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の国内設備投資計画（大企業・全産業）は前年比19.7%増と、2025年度実績の7.3%増（4年連続増）から一段と加速する計画である [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は前年比13.2%増となり、AI・データセンター関連の半導体・部材投資が非鉄金属、化学、電気機械といった幅広い業種に波及していることが背景にある [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業は前年比22.9%増とさらに高い伸びを計画しており、電力における送配電網投資の継続と原子力関連投資の本格化、運輸・不動産における駅前再開発や鉄道新線建設、インバウンド需要の増加に伴うホテル・空港機能拡大などが積み上がっている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の海外設備投資計画（連結ベース）は前年比1.9%減で、地域別に見るとその内実は一様ではない",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中国向けは22.6%減と大幅なマイナスとなり、製造業を中心とした減少が継続する見通しである [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年比19.7%増",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年比1.9%減",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3年連続で伸び鈍化、6年ぶりの減少",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内設備投資額（名目値、2019年度＝100とした指数）は、物価上昇分を含めても2025年度実績でバブル期以来の高水準に達しており、非製造業に至ってはバブル期の水準そのものを上回った [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業（資本金1億円以上10億円未満）は大企業よりも中東情勢や物価上昇、人手・後継者不足を強くリスクとして認識する傾向があり、規模が小さい企業ほど地政学リスクへの耐性が相対的に低いことも調査から示唆されている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "海外投資の減少幅（1.9%減）自体は国内投資の伸び（19.7%増）に比べて相対的に小幅であり、構造転換というより調整局面と捉えるのが妥当である",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（全産業）の国内投資計画は25年度実績比19.7%増の24兆7551億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中東情勢の緊迫を受けても人工知能（AI）や電力増強の需要が強く、25年度計画の伸び率（14.3%）を上回った",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査は6月30日を期日とし、資本金10億円以上の大企業1598社から回答を得た",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25年度の実績は前年度比で7.3%増だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "半面、「一部転嫁できているが不十分」の比率は24年度（69%）、25年度（71%）、26年度（81%）と増加傾向にある",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6月日銀短観、設備投資の意欲崩れず 26年度は6.8％増加計画",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "初任給は大卒月給30万円、大学院了月給32万円で、完全週休2日制、5日間連続休暇、独身寮・社宅、社員食堂などの制度も明記されている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年3月期の連結決算では、連結業務粗利益が2,887億円、資金利益が1,664億円、投資関係損益が1,026億円、役務取引等利益が243億円、経常利益が2,024億円、親会社株主に帰属する当期純利益が1,496億円となっている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年の2025年3月期と比べると、連結業務粗利益は817億円増、資金利益は503億円増、投資関係損益は516億円増、経常利益は891億円増、親会社株主に帰属する当期純利益は658億円増で、かなり大きく伸びている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年3月期の連結投資関係損益は1,026億円で、前年の510億円から大きく増えている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その内訳として、株式等関係損益が533億円、ファンド関連損益が445億円となっている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年3月末の単体ベースでは、融資等残高が15兆1,042億円、投資残高が2兆903億円、資金調達残高が15兆7,346億円と公表されている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投融資額は2026年3月期で4兆753億円、そのうち融資等が3兆6,929億円、投資が3,824億円だ",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "第81号 研究開発の循環性、収益性の検討－設備投資との比較を中心に－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第63号 90年代以降の企業の研究開発動向",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第54号 ブロ－ドバンド時代のデジタルコンテンツ・ビジネス－映像コンテンツ流通を中心に－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第14号 わが国化学産業の現状と将来への課題 －企業戦略と研究開発の連繋－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦略17分野では、AI・半導体、デジタル関連を強化する企業が多く、3年以内の追加投資を予定する企業の割合も高い",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中東情勢などによる調達リスクのほか、物価高、人手不足が企業のリスク",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人材獲得の代替策として、デジタル活用に活路を見出す企業の割合が上昇",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6. デジタル化・研究開発",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究開発はAI・半導体、脱炭素中心に堅調",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7. 脱炭素",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "脱炭素の取り組みが徐々に具体化する中で、価格転嫁を課題とする企業がさらに増え、経済性と脱炭素対応の両立の難しさが一層切実に",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、地方では建設業や運輸業、小売業などを中心に人手不足が顕在化しつつあり、企業の事業活動や",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は自動車の電動化投資の継続や素材業種を中心とした脱炭素投資により、21.0%増の高い伸びを維持する",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "物価上昇や人手不足をリスクと認識する企業が多い",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人材獲得の代替策としては、デジタル活用などに引き続き前向き",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5. デジタル化・研究開発",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デジタル化投資は、コロナ以降高い水準で推移",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究開発は脱炭素投資などにより高い伸びが続く",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6. 脱炭素",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "脱炭素の取り組みが徐々に具体化する中で、価格転嫁が最大の課題に",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "～設備投資・米国の関税強化による影響・人的投資・DX・脱炭素など～",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今年度は、米国の関税強化により国内設備投資が下押しされることが懸念された中、コスト高や人手不足など国内投資の制約要因が残るものの、堅調な投資意欲が維持されていることが確認できた",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのほか、米国の関税強化による影響やサプライチェーン、人的投資、DX、脱炭素などさまざまな観点から日本企業が直面する現状の課題を聞くことができた",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工事費高騰や人手不足が投資の制約となっている状況に変化はないが、これに対し、企業はさまざまな対策を検討しており、供給制約の常態化を前提とした経営戦略の策定が進んでいることが示唆された",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足は、現場業務を担う人材から高度なIT人材まで、幅広い職種で深刻化",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DXおよびAI活用は、業務効率化を中心に進展",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "米国の政策変更があったものの、多くの企業で脱炭素対応に対する取り組み自体の方向性は変わらず",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、販売価格への転嫁の難しさなど、脱炭素対応と経済性の両立には引き続き苦慮",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では、製造業が自動車の電動化投資継続や素材業種を中心とした脱炭素投資により21.0％増の高い伸びを維持する一方、非製造業は前年度の高い伸びの反動もあり11.3％増と伸びが一服しています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業経営面では、物価上昇や人手不足をリスクと認識する企業が多く、価格転嫁・賃上げスタンスは維持されているものの賃金引上げペースが鈍化しています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デジタル化投資はコロナ以降高い水準で推移し、AIの活用がさらに高まっています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "脱炭素分野では取組が徐々に具体化する中で価格転嫁が最大の課題となっており、足元では省エネ・再エネが中心ですが、中長期では水素・アンモニアなど新エネを中心とした新技術への注目も高まっています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "記事は、日本企業の設備投資が外部環境の不透明さにも関わらず堅調な成長を維持し、電動化・脱炭素・デジタル化という構造変化に対応した投資が牽引していることを示しています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、戦略17分野に沿った政府の産業政策が、AI・半導体やデジタル・サイバーセキュリティ分野を中心に、3年以内の追加投資を予定する企業の裾野を広げている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足という供給制約は国内投資の実行を妨げる要因として調査でも指摘されており、円安環境下での輸入資材費や建設コストの上昇は「投資コストの先高感」として1割以上の企業が意識している [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足、建設コスト上昇",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これに対し海外設備投資は、国内投資に対する比率（海外投資比率）の低下が続く見込みであり、研究開発拠点についても中長期的に国内拠点を強化する企業の割合が上昇する一方、海外拠点強化の割合は低下している [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資の「量」だけでなく、将来の研究開発機能の配置という「質」の面でも、国内シフトが進行していることになる",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業における中東情勢・人手不足リスクの実際の投資行動への波及度合い",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "銅輸出が過去最高を更新したモンゴルは、資源の9割近くを未加工のまま中国に依存する一方、日本・韓国・米国という「第三の隣国」との重要鉱物協力を広げている",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIが使えなくなる日 「デジタル安全保障」確保せよ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "正解なきデジタル主権論への「現実解」 日本企業へ5つの提言",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "脱炭素、地域再生、産業競争力、インフラ更新、金融市場の高度化、危機時の資金供給",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、脱炭素投資では、設備投資が巨大で、回収期間も長く、技術や制度の不確実性もある",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域交通やインフラ更新も同じで、短期の収益性だけで判断すれば民間資金が入りにくい領域が多い",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "エネルギー、交通、都市開発、地域インフラ、ヘルスケア、脱炭素関連投資などは、投資回収に長い時間がかかる",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用サイトでも、脱炭素に向けた取り組みについて、再生可能エネルギーや水素に関するレポートを作成し、地域企業、経済団体、金融機関と議論の場を作り、議論が進んでいない地域へ横展開していくような「ナレッジの提供」が語られている",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "地域別 設備投資計画調査 （2026年6月） - 日本政策投資銀行 — 地域別 設備投資計画調査 （2026年6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 地域別設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 首都圏 設備投資計画調査 — 2024・2025・2026年度 首都圏 設備投資計画調査 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 調査研究レポート一覧",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1−3−4図 日本政策投資銀行 設備投資計画調査 - 内閣府 — 第1−3−4図 日本政策投資銀行 設備投資計画調査 - 内閣府 内閣府ホームページ https://www5.cao.go.jp > img",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国 設備投資計画調査 （2026年6月） - 日本政策投資銀行 — 全国 設備投資計画調査 （2026年6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 全国設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025・2026・2027年度 首都圏 設備投資計画調査 — 2025・2026・2027年度 首都圏 設備投資計画調査 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 調査研究レポート一覧",
+    "url": "https://www.dbj.jp/investigate/20260804_3977.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 — 全国 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 全国設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 — 地域別 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 地域別設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Publication of Survey on Planned Capital Spending for FY2025 — Publication of Survey on Planned Capital Spending for FY2025 株式会社日本政策投資銀行 https://www.dbj.jp > investigate",
+    "url": "https://www.dbj.jp/en/investigate/20250804_206102.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Publication of Survey on Planned Capital Spending for FY2024 — Publication of Survey on Planned Capital Spending for FY2024 株式会社日本政策投資銀行 https://www.dbj.jp > investigate",
+    "url": "https://www.dbj.jp/en/investigate/20240806_204917.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Development Bank of Japan Research Report No. 29 — Development Bank of Japan Research Report No. 29 株式会社日本政策投資銀行 PDF https://www.dbj.jp > archive > research > pdf",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Development Bank of Japan Research Report No. 26 — Development Bank of Japan Research Report No. 26 株式会社日本政策投資銀行 PDF https://www.dbj.jp > archive > research > pdf",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/26_02.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "1990年以降より各年度における設備投資増減率の推移を、業種別・地域別でまとめて見ることができます",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度地域別・業種別増減率",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第42号 わが国電気機械産業の課題と展望－総合電気機械メーカの事業再編と将来展望－",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8. 地域別設備投資と中堅企業の特徴",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業では中東情勢や物価上昇、人手・後継者不足を大企業よりも強くリスクとして認識する一方、大企業と同様にAIなどの新技術を成長機会と認識",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行の設備投資計画調査でも、2014 年度の大企業を中心とする設備投資計画は 13 年度から",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014 年度の設備投資計画は、 大企業をみると製造業",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、中小企業（製造業／-5.4%・非製造業／-26.0%)",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や中堅企業・非製造業(-5.2%)では、今年度の設備投資額が前年",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ると、大企業・中小企業とも製造業で設備に過剰感があり、先",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "したがって、大企業が先行する設備投資の拡大は、必ずしも供",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資の拡大は大企業で先行しており、地域や産業に大きなばらつき",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業 7.4 5.8",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 2.2 3.8",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 ▲ 19.7 13.4",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※大企業・中堅企業(資本金 1 億円以上)の地域別設備投資動向",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2024年度の設備投資は、通信・情報のAI計算基盤構築や自動車の電動化投資などにより、3年連続で増加（前年比10.5%増）し、バブル期以来の高水準に",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大・中堅企業ともに価格転嫁、賃上げのスタンスは変わらないものの、賃金の引上げペースが鈍化している",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7. 地域別設備投資と中堅企業の特徴",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "多くの中堅企業が人手・後継者不足、人件費上昇をリスクと認識する一方、大企業以上に内外の政策見直しを成長機会と認識",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2024年度設備投資は通信・情報のAI計算基盤構築や自動車の電動化投資により3年連続で増加し、前年比10.5％増とバブル期以来の高水準を記録しました",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では、製造業が自動車の電動化投資継続や素材業種を中心とした脱炭素投資により21.0％増の高い伸びを維持する一方、非製造業は前年度の高い伸びの反動もあり11.3％増と伸びが一服しています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGXT7MYHFFKFTXKSG0BN/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行（DBJ）が2026年8月4日に公表した「2026年度設備投資計画調査」は、日本の大企業（資本金10億円以上）の投資行動における顕著な対照を映し出した",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金10億円以上の大企業2,756社を対象に実施され、国内設備投資については1,598社（回答率58.0%）、海外設備投資については556社（回答率20.2%）から回答を得たこの調査によれば、2026年度の国内設備投資計画は前年比19.7%増となり、前年度計画の伸び（14.3%増）を上回る旺盛さを示した [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の国内設備投資計画（大企業・全産業）は前年比19.7%増と、2025年度実績の7.3%増（4年連続増）から一段と加速する計画である [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は前年比13.2%増となり、AI・データセンター関連の半導体・部材投資が非鉄金属、化学、電気機械といった幅広い業種に波及していることが背景にある [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業（資本金1億円以上10億円未満）は大企業よりも中東情勢や物価上昇、人手・後継者不足を強くリスクとして認識する傾向があり、規模が小さい企業ほど地政学リスクへの耐性が相対的に低いことも調査から示唆されている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業における中東情勢・人手不足リスクの実際の投資行動への波及度合い",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの2026年度設備投資計画調査は、日本の大企業が中東情勢の緊迫という共通の逆風の下で、国内投資では19.7%増という高い伸びを計画する一方、海外投資では1.9%減とコロナ禍以来のマイナスを見込むという対照的な選択をしていることを明らかにした",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度設備投資計画調査（全国調査・大企業）",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業の設備投資計画、中東緊迫でも2割増 政投銀の26年度調査 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（全産業）の国内投資計画は25年度実績比19.7%増の24兆7551億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査は6月30日を期日とし、資本金10億円以上の大企業1598社から回答を得た",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "先端半導体や電子部品の増産投資がみられる電気機械は18.2%伸びる",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【徹底企業分析 日本政策投資銀行】“日本の未来”に融資する銀行。メガバンクでも官公庁でもない、DBJという最難関金融の正体｜プロ企業分析家の就活note",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【徹底企業分析 日本政策投資銀行】“日本の未来”に融資する銀行。メガバンクでも官公庁でもない、DBJという最難関金融の正体",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "就活生がDBJを調べると、だいたい最初にぶつかる壁がある。",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それは、**「結局、何をしている会社なのか分かりにくい」**という壁だ。",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資銀行っぽい案件もあるのに、外資IBとも違う。",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域、インフラ、エネルギー、都市開発、スタートアップ、M&A、危機対応、サステナビリティ。扱うテーマが大きすぎて、企業研究をしているはずなのに、いつの間にか日本経済そのものを読まされている感覚になる。",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "でも、ここを雑に理解したまま選考に進むとかなり危ない。DBJは「金融に興味があります」「社会貢献したいです」だけで通る会社ではない。むしろ、",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融を手段として、日本の産業・地域・インフラのどの課題に向き合いたいのか",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "2025年度（2026年3月公表）",
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 設備投資計画調査（2025年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023・2024・2025年度 設備投資計画調査（2024年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022・2023・2024年度 設備投資計画調査（2023年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021・2022・2023年度 設備投資計画調査（2022年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020・2021・2022年度 設備投資計画調査（2021年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019・2020・2021年度 設備投資計画調査（2020年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018・2019・2020年度 設備投資計画調査（2019年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017・2018・2019年度 設備投資計画調査（2018年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016・2017・2018年度 設備投資計画調査（2017年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2015・2016・2017年度 設備投資計画調査（2016年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014・2015・2016年度 設備投資計画調査 （2015年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013・2014・2015年度 設備投資計画調査（2014年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012・2013・2014年度 設備投資計画調査（2013年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011・2012・2013年度 設備投資計画調査（2012年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2010・2011・2012年度 設備投資計画調査（2011年7月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2009・2010・2011年度 設備投資計画調査 （2010年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008・2009・2010年度 設備投資計画調査（2009年6月調査）",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008年度以前の全国設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/equip/national/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別設備投資計画調査（2026年6月） | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別設備投資計画調査（2026年6月）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今般、2025年度設備投資実績および2026・2027年度設備投資計画について調査結果をとりまとめましたので、その概要をご報告いたします",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1990年以降より各年度における設備投資増減率の推移を、業種別・地域別でまとめて見ることができます",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の設備投資計画の特徴",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の地域別設備投資計画は、10地域全てで増加の計画となっている",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026／2025年度地域別増減率（％）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（）内は2025／2024の増減率",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度地域別・業種別増減率",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国設備投資計画調査（2026年6月）",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 首都圏設備投資計画調査 | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024・2025・2026年度 首都圏設備投資計画調査",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年08月04日",
+    "url": "https://www.dbj.jp/investigate/20250804_206080.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域の経済 2014",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内閣府法人番号 2000012010019",
+    "url": "https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008年度上期以前の",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第98号 2007・08・09年度設備投資計画調査報告（2008年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第94号 2006・07・08年度設備投資計画調査報告（2007年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第92号 2005・06・07年度設備投資計画調査報告（2006年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第87号 2005・2006年度設備投資計画調査報告（2005年11月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第85号 2004・05・06年度設備投資計画調査報告（2005年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第73号 2004・2005年度設備投資計画調査報告（2004年11月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第68号 2003・04・05年度設備投資計画調査報告（2004年6月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第58号 2002・03・04年度設備投資計画調査報告（2003年8月調査)",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第51号 2002・2003年度設備投資計画調査報告（2003年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第50号 設備投資計画調査統計集 （1990年度以降）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第45号 2001・02・03年度設備投資計画調査報告（2002年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第37号 2001・2002年度設備投資計画調査報告（2002年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第28号 2000・01・02年度設備投資計画調査報告（2001年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第21号 2000・2001年度設備投資計画調査報告（2001年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第15号 1999・2000・01年度設備投資計画調査報告（2000年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第7号 1999・2000年度設備投資計画調査報告（1999年2月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2号 1998・99・2000年度設備投資計画調査報告（1999年8月調査）",
+    "url": "https://www.dbj.jp/investigate/archive/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国設備投資計画調査（2026年6月） | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国設備投資計画調査（2026年6月）",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年6月30日を期日として、特別アンケートを実施",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増減率の推移を、時系列でまとめて見ることができます",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の設備投資計画の特徴",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度は前年比19.7％増となり、中東情勢など不確実性が高まる中でも、前年度計画の伸び（14.3％増）を上回る旺盛な投資意欲が示された",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度の地域別設備投資は、全地域で二桁増の計画となり、特に東北、北海道、北関東甲信で高い伸びを見込む",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "全産業では東北、北海道、北関東甲信が40%超の大幅増となっているほか、その他地域も含めて全地域が二桁の伸びを見込む",
+    "url": "https://www.dbj.jp/investigate/equip/regional/detail_202606.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "15.1%増と、24 年ぶりの高い伸びとなっている",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "で 2 桁増(+12.7%)となったほか、 非製造業でも＋4.9%となって",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、中小企業（製造業／-5.4%・非製造業／-26.0%)",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や中堅企業・非製造業(-5.2%)では、今年度の設備投資額が前年",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-20% 0% 20% 40% 60%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-19.6%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-11.3%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-36.4%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-52.7%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-60% -40% -20% 0% 20% 40% 60%",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2014年度／前年度比(%))",
+    "url": "https://jpc.jpc-net.jp/statistics/tp01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（資本金10億円以上）の2024年度の設備投資は、通信・情報のAI計算基盤構築や自動車の電動化投資などにより、3年連続で増加（前年比10.5%増）し、バブル期以来の高水準に",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25年度は前年比14.3%増となり、計画時点としては4年ぶりに20%を下回ったものの、米国の関税強化など先行き不透明感がある中でも二桁増を維持",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は自動車の電動化投資の継続や素材業種を中心とした脱炭素投資により、21.0%増の高い伸びを維持する",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、非製造業は前年度の伸びが高かったこともあり、11.3%増と伸びが一服",
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202506.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内投資19.7%増・海外投資1.9%減 DBJ調査に見る日本企業の二極化 | Newscoda",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金10億円以上の大企業2,756社を対象に実施され、国内設備投資については1,598社（回答率58.0%）、海外設備投資については556社（回答率20.2%）から回答を得たこの調査によれば、2026年度の国内設備投資計画は前年比19.7%増となり、前年度計画の伸び（14.3%増）を上回る旺盛さを示した [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で海外設備投資計画は前年比1.9%減となり、新型コロナウイルス感染拡大下だった2020年度以来、6年ぶりのマイナスに転じる見通しとなった [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内設備投資額（全産業）は前年比19.7%増となる24兆7,551億円規模に達する見通しであり、非製造業の伸び（22.9%増）が製造業（13.2%増）を上回る構図も特徴的である [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の国内設備投資計画（大企業・全産業）は前年比19.7%増と、2025年度実績の7.3%増（4年連続増）から一段と加速する計画である [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は前年比13.2%増となり、AI・データセンター関連の半導体・部材投資が非鉄金属、化学、電気機械といった幅広い業種に波及していることが背景にある [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業は前年比22.9%増とさらに高い伸びを計画しており、電力における送配電網投資の継続と原子力関連投資の本格化、運輸・不動産における駅前再開発や鉄道新線建設、インバウンド需要の増加に伴うホテル・空港機能拡大などが積み上がっている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実際に、NTTデータグループは日本国内のデータセンター能力を2033年までに現状の4倍となる1ギガワットへ引き上げるべく、90億ドル規模の投資を計画していると報じられており、通信・AI関連企業による国内投資の積み増しが統計上の伸びを下支えしている構図がうかがえる [3]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の海外設備投資計画（連結ベース）は前年比1.9%減で、地域別に見るとその内実は一様ではない",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中国向けは22.6%減と大幅なマイナスとなり、製造業を中心とした減少が継続する見通しである [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米は5.2%減、欧州は1.5%減とそれぞれ前年から反転し、化学や不動産分野での大型案件の一巡が響いている [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対照的に、中国を除くアジア向けは19.6%増と拡大しており、自動車関連投資などが下支えしている [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査では、製造業企業の44.5%が事業上のダウンサイドリスクとして中東情勢を挙げており、物価上昇に次ぐ主要なリスク要因として意識されている [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーン見直しの契機として「中東情勢」や「ウクライナ情勢」を挙げる企業の割合も、2025年度の8.3%から2026年度には25.5%へと大きく上昇した [2]",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年比19.7%増",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年比1.9%減",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1,598社（回答率58.0%）",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "556社（回答率20.2%）",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電力・通信・不動産・運輸など内需完結型の非製造業は、国内のAI・データセンター需要や都市機能強化投資の恩恵を最も直接的に受けており、22.9%という高い伸びに象徴される",
+    "url": "https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業（全産業）の国内投資計画は25年度実績比19.7%増の24兆7551億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中東情勢の緊迫を受けても人工知能（AI）や電力増強の需要が強く、25年度計画の伸び率（14.3%）を上回った",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25年度の実績は前年度比で7.3%増だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度計画は非製造業の伸びが22.9%と、製造業の13.2%を大きく上回った",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "けん引したのは53.5%増となった電力で、データセンターの増設などに伴う送配電網や原子力発電所の安全対策に関する投資が膨らむ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "都市部での再開発が活発な不動産（31.9%増）や、鉄道の駅前の商業開発や新線建設が増える運輸（20.0%増）も全体の伸びに寄与した",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "先端半導体や電子部品の増産投資がみられる電気機械は18.2%伸びる",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "半導体やデータセンターに関わる部材を提供する化学（11.6%増）や非鉄金属（11.3%増）は前年度からの改善が顕著だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "事業上のダウンサイドリスクを聞き取ったところ、製造業で中東情勢を挙げた企業は44.5%、部材などの調達を挙げたのが40.2%だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "59.1%だった物価上昇に次ぐリスク要因として意識された",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "見直しの契機として部品・原材料の供給不足を選択した企業は30.9%と、25年度の10.0%から上昇した",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中東・ウクライナ情勢の比率も8.3%から25.5%に高まった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内設備投資が堅調な一方で、26年度の海外投資計画は1.9%減だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「転嫁できている」と答えた企業は12%と、24年度の21%、25年度の18%と年々低下",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "半面、「一部転嫁できているが不十分」の比率は24年度（69%）、25年度（71%）、26年度（81%）と増加傾向にある",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "首都圏の設備投資28%増 26年度、再開発活況で不動産がけん引",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北関東3県の設備投資、26年度は58%増 政投銀調べ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "九州の設備投資18.7%増、運輸・不動産けん引 26年度政投銀調べ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0386D0T00C26A8000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "plus of 4% against GDP. While the contribution",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "end of 1999, consisting of ¥1,055 trillion (58%)",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in real assets and ¥751 trillion (46%) in financial",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assets. 60% of the real assets were fixed assets",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and inventory and the other 40% was land. Li-",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the surplus in 1999 amounted to 4% against",
+    "url": "https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【徹底企業分析 日本政策投資銀行 】“日本の未来”に融資する ... 【徹底企業分析 日本政策投資銀行 】“日本の未来”に融資する ... note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/shyuukatu_gy/n/n395d89d9e84a",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T03:15:09.968054+00:00"
+}

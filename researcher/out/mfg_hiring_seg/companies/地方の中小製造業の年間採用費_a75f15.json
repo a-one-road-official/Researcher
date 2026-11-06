@@ -1,0 +1,2708 @@
+{
+ "name": "地方の中小製造業の年間採用費",
+ "en": "annual recruiting budget small manufacturers Japan regional",
+ "aliases": [
+  "採用費 年間 中小製造業",
+  "採用予算 製造業 地方",
+  "採用コスト 総額 製造業",
+  "採用費",
+  "採用コスト",
+  "採用予算"
+ ],
+ "context": "地方・製造業",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:21:02.469265+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：受注辞退・失注による機会損失（表面化しにくいが最も大きい）",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "最も優秀な人材に欠員のしわ寄せを集中させるのは、短期的には合理的に見えて、中期的には最悪の一手です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "賃金が下がったのに責任が同じでは、モチベーション低下と再離職を招きます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の離職には明確なパターンがあり、対策も定石化できます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "若手の離職は「仕事がきついから」より「成長が見えないから」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "離職データを分析すると、製造現場の早期離職は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "関連記事：離職要因の分析手法と定着施策の詳細は【内部リンク：子",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業の離職率改善・定着率向上」】、スキルマップを起点とした育成は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "欠員時のバックアップ、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を補うために残業・休日出勤が常態化すると離職が増え、さらに人手不足が進む悪循環に陥る可能性もあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "いくら応募者を集めても、実際の労働環境が整っていなければ、内定辞退や早期離職などにつながってしまうためです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職は採用コストが無駄になるだけではなく、他の社員の退職を誘引したり、既存社員の作業量が増えたり、さまざまな悪影響の原因となりえます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "によると、令和6年5月時点における製造業の欠員率（常用労働者に対する未充足求人の割合）は2.0%となっており、人手不足を早急に解決できる方法が求められています",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "言語能力や実務レベルはもちろん、性格やキャリアプランなども考慮したうえで最適な人材を紹介してくれるため、ミスマッチによる早期離職リスクを最小限に抑えられることが特徴です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、どれだけ優秀な人材を採用しても、生活面・業務面でのサポートが不十分だと早期離職される可能性が高いです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が経営に及ぼすリスクと離職の「負の連鎖」",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "「見て覚える」教育体制の限界と離職率の高さ",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "身体的・精神的な負荷が高まれば、モチベーションの低下や離職につながり、さらに人手が不足するという",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が離職を生み、離職がさらなる人手不足を招く構造は、製造業において特に顕著に見られます",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "受注があっても対応できない「黒字倒産」のリスク",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "求人票に「残業少なめ」「クリーンな作業環境」といった情報があっても、実態が伴わなければ早期離職につながりかねません",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "新規採用者の早期離職の背景には、教育・研修体制が整っていないことが挙げられます",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省『新規学卒就職者の離職状況（令和4年3月卒業者）』によると、新規大卒就職者の製造業における3年以内離職率は21.2％と、前年から0.6ポイント上昇しました",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアパスの不透明さも重なれば、成長イメージを描けない若手の離職が連鎖していきます",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省｜新規大卒就職者の離職状況（令和4年3月卒業者）",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "近年は転職が当たり前の選択肢として定着し、製造業でも若手・中堅の離職が大きな課題となっています",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "新規採用人材の早期離職を防ぎ、熟練者の技能を次世代へつなぐには、教育体制の刷新が欠かせません",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、複数工程に対応できる多能工を育成すれば、欠員や繁忙期にも柔軟な人員配置が可能となります",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣を活用すれば、繁忙期の補充や急な欠員にも迅速に対応でき、採用コストや労務管理の負担も抑えられます",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、離職防止と採用力強化につながる3つの環境改善策を紹介します",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "また、帝国データバンクの調査によると、人手不足が原因で倒産する企業は年々増加傾向にあり、製造業も例外ではありません",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "この世代が定年を迎える2025年、2030年といった節目には、熟練した技術やノウハウを持つ人材の大量離職が予想されており、技術継承の面でも大きな課題となるでしょう",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "生産性の低下、技術力や競争力の喪失、そして既存従業員の負担増とそれに伴う離職率の上昇は、負の連鎖を生み出し、事業継続そのものを危うくするリスクがあるのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査によると、2023年度の「人手不足倒産」は過去最多を更新し、その中でも製造業は常に上位に位置しています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査では、中小製造業の約3割が人手不足を理由に新規受注を断念した経験があると回答しており、これは機会損失だけでなく、企業の成長機会を奪っていることを意味するのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況が続けば、優秀な人材であっても「このままでは体がもたない」「もっと働きやすい環境で働きたい」と感じ、最終的には離職という選択をしてしまいます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員満足度が高い企業は、離職率が低く、結果として新たな人材の確保コストも削減できるという好循環が生まれます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、特定の技術を持つ熟練工や、急な欠員補充が必要な場合に大きな効果を発揮するでしょう",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、入社後のミスマッチを減らし、早期離職のリスクを低減することができます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は、現場の負担を増やしたり、企業の成長を阻害したりするだけでなく、倒産という事態も招きかねません",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足」を理由とした企業の倒産件数が、令和の時代に入ってから高水準で推移",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」はなぜ起こる？原因や前兆、多発する業種、回避できた事例や解決策まで一挙に解説",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "人手が足りなければ、舞い込んできた仕事の依頼や受注を断らざるを得なくなります",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 既存従業員の負担増大と離職の連鎖",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "過度な業務負担と、改善されない労働環境は、従業員のエンゲージメントを著しく低下させ、優秀な人材の離職を招きます",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "1人が辞めると、残された従業員の負担がさらに増し、新たな離職者を生むという、",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "4. 「人手不足倒産」のリスク",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "受注はあり、会計上は黒字であるにもかかわらず、人手が足りないために業務を遂行できず、資金繰りが悪化して倒産するという事態も少なくありません",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "ある地方の部品メーカーは、若手従業員の離職率の高さと、熟練技術者の高齢化に悩んでいました",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "一人の負担を減らし、働きやすい環境を作ることは、結果として離職を防ぎ、安定した組織運営につながります",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業では、育成に時間とコストをかけた若手人材が「もっと良い条件の職場がある」「スキルアップできる環境を求めて」という理由で離職するケースが目立ちます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "これがさらなる人手不足を引き起こす連鎖的な離職リスクを生み出します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "特に後継者不足と人材不足が重なる中小製造業においては、廃業・事業売却という選択を迫られるケースも増加しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストは離職コストの5〜10倍ともいわれる中、せっかく採用した人材が短期で辞めてしまう状況は、製造業の人手不足を悪化させる主要因の一つです",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   }
+  ],
+  "セグメント定義": [
+   {
+    "quote": "万人以上、実に",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員や幹部の退職を直接の引き金とする「従業員退職型」も",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数十名規模の工場ほど、小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別】製造業の人手不足傾向と自社に必要な対策の見極め方",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の人員が減ると、残された従業員に業務が集中し、残業や休日出勤が常態化しやすくなります",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の傾向を整理すれば、優先すべき打ち手の輪郭が見えてきます",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は製造業の業種別人手不足の傾向の一例です",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員にとってもキャリア形成の機会となり、定着率の向上にもつながるでしょう",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が長く働きたいと感じる組織づくりは、人手不足解消への最短ルートといえます",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員と企業の信頼関係を深めるエンゲージメント向上は、離職率低下に直結します",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "採用サイトで従業員インタビュー動画を公開する",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "評価基準が不透明な組織では、従業員の不満が蓄積し離職につながります",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "明確な評価基準を設定し、昇給や昇進の仕組みを可視化すれば、従業員のモチベーションが高まります",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "外部の産業医やカウンセラーと連携すれば、従業員がより相談しやすい環境が整います",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別に見ると、製造工程や組立、加工といった現場職の倍率はさらに高く、深刻な状況が浮き彫りになっています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小製造業では、ベテラン従業員の高齢化と若手人材の確保難が重なり、事業継続そのものが困難になるケースも散見されます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "生産性の低下、技術力や競争力の喪失、そして既存従業員の負担増とそれに伴う離職率の上昇は、負の連鎖を生み出し、事業継続そのものを危うくするリスクがあるのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人手が足りない職場では、残された従業員一人ひとりへの業務負担が必然的に増加します",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の毎月勤労統計調査でも、製造業の所定外労働時間（残業時間）は高水準で推移しており、従業員の負担が増している現状が伺えます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "疲弊した従業員はストレスや不満を抱えやすくなり、従業員満足度調査の結果にもその影響が表れることがあります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、さらに人手不足が深刻化し、残された従業員の負担がさらに増えるという負の連鎖に陥ってしまうのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "この負の連鎖を断ち切るためには、既存従業員の負担を軽減し、新たな人材をスムーズに確保することが不可欠です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "魅力的な職場環境は、採用だけでなく従業員の定着にも直結します",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な賃上げや、住宅手当、社員食堂の設置、リフレッシュ休暇の導入など、従業員が安心して長く働けるような福利厚生の充実は不可欠です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員満足度が高い企業は、離職率が低く、結果として新たな人材の確保コストも削減できるという好循環が生まれます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットにはできない、人間にしかできない業務に人材をシフトすることで、従業員のモチベーション向上にも繋がります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が長く働き続けたいと思えるような、人材育成と定着支援が不可欠です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員のスキル向上は、生産性向上に直結します",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "また、「この会社で働き続ければ、どのようなキャリアを築けるのか」というキャリアパスを明確に示すことで、従業員は将来への希望を持ち、モチベーションを維持できます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別に見ると、",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、長年会社を支えてきたベテラン従業員が定年退職を迎える一方で、その穴を埋める若手人材の確保が追いついていないという問題が、多くの中小企業で発生しています",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "特定の熟練技術者やベテラン従業員のスキルに大きく依存",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、後継者の育成や、技術をマニュアル化して共有する仕組み作りがうまくいっていないと、その従業員が退職した途端に事業の継続が困難となってしまいます",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "限られた人員で業務を回そうとすると、従業員一人ひとりへの負担が増え、仕事の質が低下しがちです",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 既存従業員の負担増大と離職の連鎖",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足のしわ寄せは、従業員たちにも及びます",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの業務量が増え、長時間労働や休日出勤が常態化すれば、従業員は心身ともに疲弊してしまうでしょう",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "過度な業務負担と、改善されない労働環境は、従業員のエンゲージメントを著しく低下させ、優秀な人材の離職を招きます",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "1人が辞めると、残された従業員の負担がさらに増し、新たな離職者を生むという、",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の事業の社会的な意義、風通しの良い職場環境、従業員の成長事例などを積極的に社外へ発信し、「この会社で働きたい」と思ってもらえる企業ブランディングを行います",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "解決策2：従業員が辞めない職場づくり（定着率向上）",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "新たな人材を採用することと同じくらい重要なのが、今いる従業員にいきいきと働き続けてもらうための取り組みです",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "賃金の見直しや、公正で透明性の高い評価制度の構築、福利厚生の充実など、従業員が納得して働ける待遇を用意します",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "長時間労働の是正、有給休暇の取得促進、テレワークやフレックスタイム制度の導入による柔軟な働き方の実現、ハラスメントのない良好な人間関係の構築など、従業員の働きやすさを追求します",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "2 業種別に見る製造業の人手不足の傾向",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に陥った工場では、既存の従業員に過大な負荷がかかります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手が足りない→残業が増える→疲弊した従業員が辞める→さらに人手が足りなくなる→残業がさらに増える」というデス・スパイラルに陥った製造業の工場は決して珍しくありません",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は単に「人が足りない」という問題にとどまらず、在籍している従業員のモチベーションや健康を蝕み、組織全体の活力を失わせる経営危機の引き金となります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "「この会社でスキルを磨けば、こんなキャリアが開ける」というビジョンを従業員に示せる製造業企業が、人手不足の時代においても選ばれる職場となります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "働きやすい環境を整えることは、既存の従業員の満足度向上と離職防止だけでなく、採用面での競争力強化にも寄与します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別に見ると、人手不足の影響は中小・中堅企業ほど深刻です",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "件数としては建設業や物流業など労働集約型の産業で目立ちますが、製造業にとっても、採用難・従業員の退職・技能継承の遅れは経営リスクとして無視できません",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限額は申請枠や従業員規模によって異なります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "）を活用し、年齢層や職種別の人手不足感、人手不足の要因、人手不足が採用コスト増や受注量の調整など企業経営へどのような影響を与えているか等について整理する",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、これを業種別の寄与度でみると、非製造業の中でも都市開発などにより需要が堅調な建設や、eコマースの増加などを背景に事業が拡大している運輸・郵便などで人手不足感が高まっている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、業種別のばらつきはあるものの、幅広い業種で人手不足感が高まっていることがうかがえる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "若年層に対する人手不足感を企業規模別でみると、500人以上の大企業では「不足」の回答が中規模や小規模の企業よりも低くなっており、大企業と比較して、中小企業では若年層の確保が難しくなっている可能性がある（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "パーソルキャリア「転職求人倍率レポート」の職種別の転職求人倍率をみても、事務・アシスタント職では求人倍率が大きく1倍を下回る一方で、IT・通信技術職では求人倍率が1倍を大きく上回っており（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "しかし同時に、正しい順序で手を打てば、人手不足のなかでも利益を伸ばしている会社が実在するのも事実です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」を見ると、製造現場の中核職種である「生産工程の職業」の有効求人倍率は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "職業別有効求人倍率は毎月更新されるため、引用時は最新月の参考統計表をご確認ください",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業の人手不足」と一括りにせず、自社のどの職種・どの工程が構造的に採れないのかを特定する",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "最も優秀な人材に欠員のしわ寄せを集中させるのは、短期的には合理的に見えて、中期的には最悪の一手です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足＝ロボット導入」と短絡するのは危険です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "欠員時のバックアップ、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "（人手不足対応の省人化設備が対象）、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "物流・建設・小売も人手不足で賃金を引き上げており、賃金競争から降りることはもはやできないのです",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "製造業は慢性的な人手不足が続く業界の一つであるため、これまでと同じ採用手法では、今後も人手確保は難しいかもしれません",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では製造業の求人に応募がこない原因や、人手不足の解決策となりうる新しい採用手法を紹介するので、ぜひ参考にしてみてください",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "【おすすめの採用手法】製造業の人手不足解消には外国人材の採用が有効",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解消することは簡単ではありませんが、効果的な採用戦略を立てるためにも、まずは製造業の採用が難しくなっている背景について詳しく見ていきましょう",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業に限らず、日本全体として人手不足が課題となっている最大の要因は、労働人口が減少していることです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業は全体的に人手不足が進んでいますが、とくに中小製造業における影響が顕著です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "そして若手の後継人材を採用できていないにも関わらず、熟練技能者が定年退職を迎えることで、人手不足感が急増している企業もあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を補うために残業・休日出勤が常態化すると離職が増え、さらに人手不足が進む悪循環に陥る可能性もあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解消するためには、競争を避ける採用戦略を立てることも重要です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解消するためには、ただ多くの人材に応募してもらうだけではなく、採用した人材に定着してもらうことも大切なのです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "によると、令和6年5月時点における製造業の欠員率（常用労働者に対する未充足求人の割合）は2.0%となっており、人手不足を早急に解決できる方法が求められています",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "こうした状況をふまえると、日本人を雇用するだけでは人手不足を解消するのは難しいのが現実です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "先述したとおり、日本人を採用するだけでは解決できない製造業の人手不足に対し、もっとも即効性のある解決策が「外国人材の採用」です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業で外国人材を採用することには、単に人手不足を解消する以上のメリットがあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "採用手法の多様化や、職場環境の改善、定着支援といった対策も重要ですが、社会的な要因をふまえると、日本人を雇用するだけでは人手不足を解消できない可能性が高いです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足解消に向けた課題と解決策｜採用担当者が知るべき動向と対応 | まるごと人事｜成長企業向けの採用代行｜マルゴト株式会社",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足解消に向けた課題と解決策｜採用担当者が知るべき動向と対応",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が経営に及ぼすリスクと離職の「負の連鎖」",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が人手不足に陥る根本的な要因6選",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別】製造業の人手不足傾向と自社に必要な対策の見極め方",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは最新の統計データや経営現場の視点から、人手不足の現状と事業運営への悪影響について解説します",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は1.67倍",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が離職を生み、離職がさらなる人手不足を招く構造は、製造業において特に顕著に見られます",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "慢性的な人手不足が事業継続の足かせとなっている",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足であるにもかかわらず採用活動を積極化できない矛盾した状況は",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は製造業の業種別人手不足の傾向の一例です",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "以下では、3つの代表的な業種における人手不足の実態と対応の方向性を順に解説します",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工や機械部品の領域は、中小企業の比率が高く、人手不足の影響を最も受けやすい業種です",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTやAIで作業の自動化やデータ分析を進めれば、人手不足をカバーする仕組みが整います",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、複数工程に対応できる多能工を育成すれば、欠員や繁忙期にも柔軟な人員配置が可能となります",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新予測】製造業の人手不足はどこまで深刻化？課題と賢い人材確保戦略 - 株式会社Remind",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新予測】製造業の人手不足はどこまで深刻化？課題と賢い人材確保戦略",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし今、多くの企業が「人手不足」という喫緊の課題に直面し、その根幹が揺らぎ始めています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業における人手不足の現状をデータに基づいて深掘りし、その根本原因と企業が直面する危機を明らかにします",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年最新予測！製造業の人手不足はどこまで深刻化するのか？",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足は、すでに多くの企業が肌で感じている喫緊の課題です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、現在の製造業における人手不足の",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "は、人手不足の度合いを示す重要な指標です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "全体で見ると緩やかな改善傾向が見られることもありますが、製造業に限ると、常に人手不足感が強い状況が続いています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "また、帝国データバンクの調査によると、人手不足が原因で倒産する企業は年々増加傾向にあり、製造業も例外ではありません",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、そしてその先の製造業人手不足予測",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "では、2026年に向けて、製造業の人手不足はどのように変化していくのでしょうか",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業全体で人手不足が深刻化する中でも、特にその偏りが顕著なのが「",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ製造業の人手不足は止まらない？現状の課題と根本原因",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足が止まらない背景には、複数の複雑な要因が絡み合っています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "総務省「労働力調査」によると、製造業の就業者数は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省等「ものづくり白書」によれば、製造業の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "発生し、年度として初めて",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書の調査では、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足対策の最終回答は、人事部門ではなく「原価管理と価格戦略」の中にある",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン技能者の定年を数年後に控え、加工条件・検査の勘所を動画とデータベースに落とし込む技能継承プロジェクトを実施",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "製品別原価の算出により赤字製品を特定し、データを根拠に主要取引先との価格改定交渉を実施",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "上司との定期面談（月次〜四半期）が実施されている",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "年で段取り改善・動線改善などのムダ取りを実施した",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "年で、コスト上昇分の価格転嫁交渉を実施した",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版中小企業白書",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "海外現地で日本語・日本の文化などに関する研修を実施しているため、紹介する人材の質が高いと多くの企業から高評価をいただいております",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和6年雇用動向調査」によると、2024年の転職入職率は男性8.7％・女性10.8％と高い水準で推移し、転職入職者のうち前職より賃金が「増加」した割合も40.5％と前年から上昇しました",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省｜令和6年雇用動向調査結果の概況",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "上記の施策を継続的に実施すれば、企業イメージは徐々に改善されます",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的なフィードバック面談を実施すれば、評価への納得度も向上するでしょう",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "また、帝国データバンクの調査によると、人手不足が原因で倒産する企業は年々増加傾向にあり、製造業も例外ではありません",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "日本生産性本部や経済産業省の調査データを見ても、労働力人口の減少は避けられない未来であり、これは製造業に限らず、あらゆる産業に影響を及ぼします",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "文部科学省の学校基本調査や厚生労働省の新規学卒者就職状況調査を見ても、高校・大学の新卒者の製造業への就職率は、かつてに比べて伸び悩む傾向にあります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある大手就職情報サイトのアンケート調査（2023年実施）では、「製造業に対して抱くイメージ」として、「体力的にきつそう」「給料が低いイメージがある」「キャリアパスが見えにくい」といった回答が多く見られました",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査によると、2023年度の「人手不足倒産」は過去最多を更新し、その中でも製造業は常に上位に位置しています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査では、中小製造業の約3割が人手不足を理由に新規受注を断念した経験があると回答しており、これは機会損失だけでなく、企業の成長機会を奪っていることを意味するのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の毎月勤労統計調査でも、製造業の所定外労働時間（残業時間）は高水準で推移しており、従業員の負担が増している現状が伺えます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "疲弊した従業員はストレスや不満を抱えやすくなり、従業員満足度調査の結果にもその影響が表れることがあります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な面談、アンケート調査、目安箱の設置などを通じて、従業員が抱える不満や改善提案を吸い上げ、それらを経営に反映させる姿勢が大切です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が「自分たちの意見が尊重されている」と感じることで、エンゲージメントが高まり、結果として従業員満足度向上に成功した企業の事例（例：社員旅行や家族参加型イベントの実施、定期的な経営層との対話会など）のように、定着率向上に繋がります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査では、製造業企業が人材紹介サービスを利用する割合が年々増加しており、2023年には約40%の企業が利用経験があると報告されています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2025年1月時点の調査では、",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "また、厚生労働省が発表する",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、東京商工リサーチの調査では、",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "特に近年の賃上げの動きの中で、体力のある大企業は大幅な賃上げを実施する一方、",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が発表した令和6年（2024年）の職業別有効求人倍率（原数値、パート除く）を見ると、製造業が該当する「生産工程の職業」は1.67倍前後で推移し、全産業平均の1.25倍を大きく上回っています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省・経済産業省・文部科学省が共同発表する「ものづくり白書」によれば、製造業の就業者数は2002年から約20年間で157万人減少しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書の最新データでは、2024年の製造業就業者数は1,046万人と2023年の1,055万人からさらに減少し、減少傾向が継続していることが確認されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「2025年版 ものづくり白書 概要」",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版ものづくり白書のデータによると、2002年に32.6万人いた34歳以下の若年就業者は2023年には25.9万人にまで減少し、製造業の全就業者に占める若年就業者の割合は2002年比で6.9ポイント低下しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「2024年版 ものづくり白書 概要」",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書によれば、製造業における人材育成の問題として「指導する人材が不足している」と回答した事業所は6割以上にのぼります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書によれば、デジタル技術を活用しているものづくり企業は2023年に8割を超え、デジタル化が進んだ企業は未活用企業に比べて営業利益を伸ばしている割合が高いことが示されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版ものづくり白書でも、熟練技能者の動作をモーションキャプチャで可視化し、教育訓練に活用することで技能継承を実現した事例が紹介されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「ものづくり白書」によると、製造業の就業者数は長期的に減少傾向にあります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "また総務省統計局 労働局調査によると、2023年の製造業就業者数は1,055万人でしたが2025年には1,033万人に減っています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、帝国データバンクをはじめとする民間調査でも、製造業で正社員の不足を感じている企業は一定割合にのぼっており、採用難は一部の企業だけの問題ではなくなっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク 人手不足に対する企業の動向調査（2026年4月）",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書によると、若手（35歳未満）の就業者比率は長期的に低下傾向が続いています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁の調査では、製造業の中小企業のうち相当数が後継者不在を抱えており、現役経営者の高齢化と相まって、自主廃業を選ぶケースも増えています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は近年増加傾向にあり、2025年度は441件で過去最多となっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "なお、補助金制度は年度や公募回によって、名称・対象経費・補助上限額・公募スケジュールが変わることがあります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "導入したい設備が決まってから慌てて探すのではなく、年度の早い段階で年間の補助金カレンダーを作っておき、設備計画と紐付けて準備することをおすすめします",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "本項では、人手不足感の長期的な推移や近年の雇用情勢について確認するとともに、2019年2月に実施した内閣府「多様化する働き手に関する企業の意識調査",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "また，日銀短観の雇用人員判断DIをみると、2019年6月調査時点でマイナス32％ptと「不足」と回答する企業の割合が「過剰」と回答する企業の割合を大幅に上回り、企業の人手不足感は、1990年代前半以来四半世紀ぶりの水準となっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「労働力調査（詳細集計）」で実際の転職者数の動向をみると、2013年に287万人だった転職者数は2018年には329万人にまで増加している（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "次に、内閣府「企業意識調査」を利用し、2019年2月時点における企業の人手不足の状況を確認する",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "若年層に対する人手不足感を企業規模別でみると、500人以上の大企業では「不足」の回答が中規模や小規模の企業よりも低くなっており、大企業と比較して、中小企業では若年層の確保が難しくなっている可能性がある（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "求人サイトやハローワークで募集をかけているものの、なかなか応募がなく悩んでいる製造企業も多いのではないでしょうか",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばハローワークや求人誌だけでなく、求人サイトやSNSを活用したオンライン採用にも取り組むことで、より幅広い層の求職者へアプローチできます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "また、昨今は既存社員から知人を紹介してもらうリファラル採用（社員紹介制度）に取り組む企業も増えています",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "日本人に絞って採用活動を続ける場合、なかなか応募者が集まらず、求人広告を何度も出稿したり、複数の媒体を試したりする必要があり、採用コストが高額になりがちです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材が長期定着してくれれば、求人広告費を支出し続ける必要がなくなるため、採用コストを大きく削減することも可能なのです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、こうした課題は「外国人人材紹介会社」を活用すれば解決できます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "適性やスキルを見極めた人材紹介でミスマッチを防げる",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "採用精度を高めたい企業こそ、ぜひ人材紹介会社の力を借りてみてください",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "もし入社後の支援を不安に感じる場合は、ぜひアフターフォローにも力を入れている外国人人材紹介会社へ相談してみてください",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "「登録支援機関」も兼ねている人材紹介会社なら、特定技能外国人を受け入れる企業に義務付けられている、下記のサポートもワンストップで代行してくれます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "さらに人材紹介会社によっては、外国人材にまつわるトラブルの対処もサポートしてくれます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "はじめて外国人材を受け入れる企業こそ、アフターフォローが充実した人材紹介会社に頼ったほうが安心でしょう",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材の採用は採用コストの削減につながると紹介しましたが、人材紹介会社を利用すれば、さらに大きなコストカット効果が期待できます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば外国人材（技能実習生や特定技能人材）に特化した人材紹介会社は、料金体系がリーズナブルなことが多いため、日本人のみを採用するケースより手数料コストを抑えられる可能性があります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "アフターフォローにも注力している外国人人材紹介会社に依頼すれば、入社後のサポートにかかる手間を減らしつつ、定着率を高めることも可能です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体への掲載費用や人材紹介会社への成功報酬は年々上昇傾向にあり、中小企業にとって大きな負担となっています",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "採用戦略の立案から求人広告の作成・運用、候補者対応まで幅広い業務を抱えるため、十分なリソースを確保しにくい現状があります",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人材紹介の活用法｜採用成功につながる選び方やおすすめ11社も紹介",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、即戦力確保に有効な人材紹介サービスの賢い活用法に焦点を当て、未来の製造業を支えるためのヒントをお届けします",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "文部科学省の学校基本調査や厚生労働省の新規学卒者就職状況調査を見ても、高校・大学の新卒者の製造業への就職率は、かつてに比べて伸び悩む傾向にあります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介サービスを利用して採用した人材も、企業文化や業務内容にスムーズに馴染めるよう、入社後のフォローアップを丁寧に行うことが、長期的な定着に繋がります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介サービスは製造業の人手不足をどう解決する？その需要と選び方",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした状況下で、製造業の人手不足を解決する有効な手段の一つとして注目されているのが、人材紹介サービスの活用です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "では、人材紹介サービスは製造業の人手不足をどのように解決し、企業はどのような視点で選べば良いのでしょうか？",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人材紹介のメリットと活用シーン",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足が深刻化する中で、人材紹介サービスは企業にとって非常に有効な採用手段となり得ます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社は、あらかじめ登録されている求職者の中から、企業の求めるスキルや経験に合致する人材をピンポイントで紹介してくれます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "自社で求人広告を出したり、書類選考や面接の日程調整を行ったりする手間とコストは膨大です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介サービスを利用すれば、これらの採用業務の多くを代行してもらえるため、採用担当者の負担を大幅に軽減できます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社のキャリアアドバイザーは、企業の求める人物像や社風を深く理解し、求職者のスキルやキャリア志向を詳細にヒアリングした上でマッチングを行います",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介市場全体では拡大傾向にあり、特に製造業に特化したエージェントの需要は高まっています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査では、製造業企業が人材紹介サービスを利用する割合が年々増加しており、2023年には約40%の企業が利用経験があると報告されています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、製造業における人材紹介の有効性が広く認識されてきている証拠と言えるでしょう",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークや求人広告だけでなく、企業の魅力を直接発信する採用サイトの構築、SNSを活用した情報発信、社員の紹介によるリファラル採用など、複数の手法を組み合わせます",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体の掲載費用、人材紹介会社へのフィー（成功報酬型では年収の30〜35%程度）、内定辞退を見越した多めの採用活動費——これらのコストは製造業、特に体力の限られた中小企業にとって大きな負担となっています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の求人サイト、地域の無料媒体であるハローワーク、SNSを使った採用広報（採用インスタグラム・Xなど）、動画での工場見学コンテンツの発信など、ターゲット層に合わせた多様なチャネルを組み合わせることが人材確保につながります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "高校・専門学校・大学との連携プログラムを通じて、若年層が製造業の仕事に触れる機会を継続的に設けることが、中長期的な人材パイプラインの構築につながります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "「ハローワークに求人を出しても応募が来ない」",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "大企業は採用力・賃金水準・働き方改革のいずれでも体力があるため一定の応募が見込めますが、社員50〜500名規模の中小工場では、地方立地・夜勤シフト・賃金水準といった条件面に、いわゆる3Kイメージも重なり、求人広告を出しても応募0件、という事態も珍しくありません",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける求職者数に対してどの程度求人があるかを示す指標である有効求人倍率の動向をみると、2013年以降上昇傾向が続き、2019年には1.6倍台と高い水準となっている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、ハローワークを通じた就職件数は、全体の2割程度に過ぎないことから",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "、ハローワーク以外の求人・求職動向についても確認する必要がある",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "（14）厚生労働省「平成30年上半期雇用動向調査」によると、新規学卒者を除く入職者のうち、ハローワークを経由して入職している者の割合は、22.5％となっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "・リファラル採用で社員に支払うインセンティブ",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "外部のサービスへ支払う求人広告費・人材紹介手数料など 「社外」のコスト",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介（転職エージェント）の一般的な料金体系：理論年収の30〜35％",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用で最も多く利用される人材紹介サービスの場合、成果報酬は「理論年収の30〜35%」が市場の共通相場です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "特に人材紹介（転職エージェント）を利用する場合、一般的な成果報酬は理論年収の30〜35%ですが、エンジニアや専門職など市場価値の高い職種では35〜40%に引き上げられるケースが増えています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "比較的母集団形成がしやすいため求人広告での採用が決まりやすく、1人当たり数十万円に抑えられるケースもあります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、人材紹介手数料の上昇も影響しています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークや、各種求人サービス（Indeed、エンゲージ、求人ボックスなど）の無料掲載枠を組み合わせて初期コストを抑えます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "社員へのインセンティブ（数万〜数十万円）は発生しますが、人材紹介の手数料と比べて大幅に外部コストを削減できます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト枠の利用料などはかかりますが、人材紹介より費用を抑えやすく、ピンポイントでの獲得が可能です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "自社サイトからの直接応募を増やす仕組みです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは直近の採用活動において「どの手法（媒体や人材紹介）にいくら使い、何人入社したか」という費用対効果の棚卸しを行ってください",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "プロ人材紹介サービスの選び方｜3タイプ別の特徴と比較ポイント7つを解説",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋の採用支援会社 ～求人広告・採用代行・ブランディング～",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "1人あたりの業務量が増え、長時間労働や休日出勤が常態化すれば、従業員は心身ともに疲弊してしまうでしょう",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】採用コスト削減の具体策を紹介！一人あたりの平均額や近年の上昇理由も知っておこう",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインアシスタントの料金・費用が気になるなら「月額3.8万円〜」のタクシタがおすすめ",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "ノンコア業務の負担を大幅に削減したい企業様へ月3.8万円〜の低価格で提供する「",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "月額3.8万円（税込41,800円）〜という低価格を実現",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストは離職コストの5〜10倍ともいわれる中、せっかく採用した人材が短期で辞めてしまう状況は、製造業の人手不足を悪化させる主要因の一つです",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の根本原因は、少子高齢化・3Kイメージ・技術継承の断絶・人材流動化・採用コスト高騰という5つの要因が複合的に絡み合っており、それぞれに対応した施策が必要です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "最大9,000万円規模の補助が可能です",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "、人手不足感がある企業は適正である企業に比べて資本装備率が約4割低くなっており、人手不足感がある企業においては、資本投入の絶対量が少ないために従業員一人当たりの労働生産性の水準が低くなっていると考えられる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "名目賃金と労働需給の関係について、ミクロデータでみるため、内閣府「企業意識調査」を利用し、一人当たりの賃金上昇率を、業種、企業規模、正社員の平均勤続年数、非正社員比率などをコントロールした上で、労働生産性上昇率や人手不足感を説明変数として回帰すると、通常の統計的な有意水準である5％以下という基準でみると、労働生産性上昇率のみが有意に賃金上昇率に効いており、やや有意水準を緩めて10％にすると、人手不足感も弱いながらも賃金上昇に寄与している可能性が示唆される（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "大企業では初任給30万円時代と言われる中、賃上げ機運に追いつけない中小企業が増加しており、人材獲得においてますます不利な状況に置かれています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストを構成する2つの要素",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 採用単価を下げるために無料の求人サービスを使う際の注意点はありますか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. 採用単価を算出する際、どこまでを「内部コスト」に含めるべきですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. 採用単価が市場相場より大幅に高くなっている場合、まず何から手をつければよいですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. 採用単価を下げると採用の質が落ちませんか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q5. 自社の採用単価が高いかどうかはどう判断すればよいですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストを最適化するための5つの施策",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価5万円で2名採用を実現したコスト最適化事例",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価とは1人の新しい社員を採用するためにかかった総費用のことであり、中小企業が持続可能な採用活動を行うための重要な指標です",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価とは1人あたりの採用成功にかかったすべての費用を示す指標であり、経営資源が限られる中小企業こそ把握しておく必要があります",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "採用が決まった人数を確定させ、総費用を人数で割って暫定の採用単価を出す（所要時間約5分）",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば求人広告費や説明会費用の合計が200万円で、その期間に4人の正社員を採用できた場合、採用単価は50万円となります",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "なんとなく求人を出して費用をかけ続けていると、気づかないうちに1人あたりの獲得コストが高騰し、経営を圧迫する要因になります",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業における1人あたりの採用単価の目安として、新卒採用の場合は約50万円から80万円、中途採用の場合は約80万円から120万円が一般的な基準値とされています",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用コストの平均単価や相場、費用【2026年最新版】削減ポイントを解説",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "1．採用コストの相場",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2．そもそも採用コストとは？",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "3．採用コスト削減のポイント",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "4．採用コストを削減するためのサービス",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、企業の採用担当者が押さえておくべき最新の採用コストデータを【計算方法】【雇用形態別】【職種別】【企業規模別】の4つの視点から集約して解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "：なぜ中途採用の平均コスト（103.3万円）は新卒（93.6万円）より高くなるのか",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "：最高値「59.9万円」を記録したAI・IT人材の高騰と、半減したサービス系の二極化",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "：知名度やスケールメリットが広告費・年間総予算（最大1,470万円）に与える影響",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、すべての土台となる「1人あたりの採用コスト」の正しい計算方法から解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "１人当たりの採用にかかる費用の合計を「採用単価」といいます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の採用コスト相場｜単価が高騰する3つの原因と8つの改善策",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "実際の相場に比べて30～50万円のコスト削減を実現してきたミズサキの手法を解禁するので、ぜひ最後までご覧ください",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用1人あたりの採用コスト相場は約56.8万円とされていますが、",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの採用コスト",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "約56.8万円",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "約49.0万円",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "約57.5万円",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用における1人あたりの単価相場は、全体平均で約31.3万円と推計されるものの、利用する採用手法によって20万円から100万円超まで大きく変動します",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "【最新版】採用コストの実務ガイド｜1人辞めたらいくら損かを経営数字で解説（社労士監修） | RESUS社会保険労務士事務所",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "【最新版】採用コストの実務ガイド｜1人辞めたらいくら損かを経営数字で解説（社労士監修）",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "採用・教育・生産性低下など合計100万円以上のコスト",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円の売上が必要",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "図表1：採用コストの内訳（1人あたり）",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約30～50万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約10～20万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約100万円以上",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "離職1人あたりの損失額",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "図表2：売上換算で考える採用コスト",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率30％の事業を例にすると、採用損失100万円を埋めるには以下の売上が必要です",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "手順3：総額を「採用人数」で割る",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用費用の年間平均総額（650.6万円）を採用人数の平均（20.8人）で割った最新の算出値です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "直近1年間の採用に関わったすべての請求書や領収書を集め、総額を算出する（所要時間約15分）",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば求人広告費や説明会費用の合計が200万円で、その期間に4人の正社員を採用できた場合、採用単価は50万円となります",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "過去1年間の出納データや採用管理ツールから、媒体費・紹介手数料、広告費などの総費用を抽出する（所要時間目安：約30分）",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "「中途採用状況調査2024年版」では、採用予算と採用実績の合計が公表されています",
+    "url": "https://sogyotecho.jp/chushoukigyou-saiyou-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "：知名度やスケールメリットが広告費・年間総予算（最大1,470万円）に与える影響",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍以降の採用急回復期（2024年頃まで）の一時的な広告費高騰が落ち着きを見せたこと、またタイミーなどの「スポットバイト（スキマバイト）」アプリの普及、SNSや無料求人媒体を活用した効率的な採用手法（採用オウンドメディアなど）へのシフトが進んだことが要因と考えられます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の規模によって1人あたりにかける求人広告費に差が生じています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "転職サイトの長期掲載プランや複数名採用枠などを活用することで、広告のボリュームディスカウントが利きやすくなり、1人あたりの求人広告費を27.1万円と最も低く抑えられている",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "1,001人以上の大企業においては、1人あたりの求人広告費の基準が大きく跳ね上がります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、企業全体の年間の中途採用費用総額は平均650.6万円、採用人数の平均は20.8人となっています",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "かつての同社は、大手求人媒体や人材紹介に頼り切り、年間約1,500万円もの採用予算を投じていましたが、多額の費用をかけても「八百屋＝きつい」という先入観から応募が少なく、入社後の早期離職にも悩まされていました",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "1人を採用するまでの総額や施策ごとの応募単価を洗い出すことで、費用対効果の低い手段を見直し、",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、採用コストの総額が1000万円で、10人を採用した場合、一人当たりの採用コストは100万円となります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "（p.121）によると2023年に転職サイト、折り込み求人誌、新聞の求人欄、フリーペーパーなどでかかった採用一人当たりの求人広告費は以下の通りです",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "1名あたりの単価にすると２週間で2.5万円の求人広告費ということになります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "派遣社員採用では、紹介手数料として月給の20〜30パーセント程度が相場です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50名以下の企業における年間採用費用の平均は119万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員51〜300名の企業における年間採用費用の平均は247万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員301〜1,000名の企業における年間採用費用の平均は565万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1,001名以上の大企業における年間採用費用の平均は1,462万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "運輸・交通・物流・倉庫業の年間採用費用は平均1,460万円で、全業種中トップです",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の年間採用費用は平均854万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "IT・通信・インターネット業界の年間採用費用は平均695万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "流通・小売・フードサービス業の年間採用費用は平均304万円で、全業種中最も低い水準です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "2-1. 採用コスト（総額）の算出方法",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "2-3. 1人当たりの求人広告費の算出方法",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "このセクションでは、採用活動全体にかかった費用の「総額」と、採用者1人あたりにかかった費用である「採用単価」という二つの重要な指標の具体的な計算方法を解説します",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "広告費100万円 + 紹介料300万円 + 人件費100万円",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "500万円（総額） ÷ 5人（採用人数）",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりの求人広告費の算出方法",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "広告費120万円 ÷ 広告経由で3人採用",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用の質を落とさずにコストを最適化する具体的な13の実践方法も紹介するので、採用予算の効率化を求められる人事担当者の方はぜひご覧ください",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "（※１）によると、2024年の中途採用費用の総額は平均650.6万円となっています",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "「広告費をかけたのに応募ゼロ」「スカウトを送る時間がなくて挫折した」という事態を防ぐため、主要な4つの手法の現実的なコスト感と実務負荷をまとめました",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/b-contents-middlecareer-chushokigyosaiyopoint-181111/",
+    "pass": 3
+   },
+   {
+    "quote": "・各職種1名当たりの求人広告費",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/b-contents-middlecareer-chushokigyosaiyopoint-181111/",
+    "pass": 3
+   },
+   {
+    "quote": "は、採用担当者の人件費や求人広告費、採用仲介手数料等の採用コストについて、5年前との変化を確認したものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "対照的に「SNS採用（約0.9万円）」や「自社採用サイト（約2.8万円）」、「リファラル採用（約4.4万円）」は、広告費を大幅に抑えられるため",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "採用コスト は一人当たりいくら？平均相場と内訳をわかり ... — 採用コスト は一人当たりいくら？平均相場と内訳をわかり ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "中途 採用コスト の平均 単価 や相場、 費用 【2026年最新版 ... — 中途 採用コスト の平均 単価 や相場、 費用 【2026年最新版 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "中小 企業の 採用コスト 相場｜単価が高騰する3つの原因と8つの ... — 中小 企業の 採用コスト 相場｜単価が高騰する3つの原因と8つの ... ミズサキ https://mizusaki-inc.com > small-business-recruitment-costs",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト 実態 調査 2026｜相場と削減事例を解説 - 東京新聞 — 採用コスト 実態 調査 2026｜相場と削減事例を解説 - 東京新聞 東京新聞 https://adv.tokyo-np.co.jp > prtimes > article139100",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用コスト の平均単価や相場、 費用 【2026年最新版 ... — 中途採用コスト の平均単価や相場、 費用 【2026年最新版 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 採用コスト が高い5つの原因と削減策 — 【2026年版】 採用コスト が高い5つの原因と削減策 まるごと人事 https://marugotoinc.jp > ... > 採用企画",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "3.8",
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "quote": "オンラインアシスタントの料金・費用が気になるなら「月額3.8万円〜」のタクシタがおすすめ"
+   },
+   {
+    "value": "000",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "quote": "最大9,000万円規模の補助が可能です"
+   },
+   {
+    "value": "30",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "quote": "大企業では初任給30万円時代と言われる中、賃上げ機運に追いつけない中小企業が増加しており、人材獲得においてますます不利な状況に置かれています"
+   },
+   {
+    "value": "100",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "quote": "採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります"
+   },
+   {
+    "value": "90",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "quote": "代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です"
+   },
+   {
+    "value": "10",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担"
+   },
+   {
+    "value": "5",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "quote": "採用単価5万円で2名採用を実現したコスト最適化事例"
+   },
+   {
+    "value": "200",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "quote": "例えば求人広告費や説明会費用の合計が200万円で、その期間に4人の正社員を採用できた場合、採用単価は50万円となります"
+   },
+   {
+    "value": "50",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "quote": "例えば求人広告費や説明会費用の合計が200万円で、その期間に4人の正社員を採用できた場合、採用単価は50万円となります"
+   },
+   {
+    "value": "80",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "quote": "中小企業における1人あたりの採用単価の目安として、新卒採用の場合は約50万円から80万円、中途採用の場合は約80万円から120万円が一般的な基準値とされています"
+   },
+   {
+    "value": "120",
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "quote": "中小企業における1人あたりの採用単価の目安として、新卒採用の場合は約50万円から80万円、中途採用の場合は約80万円から120万円が一般的な基準値とされています"
+   },
+   {
+    "value": "103.3",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "quote": "：なぜ中途採用の平均コスト（103.3万円）は新卒（93.6万円）より高くなるのか"
+   },
+   {
+    "value": "93.6",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "quote": "：なぜ中途採用の平均コスト（103.3万円）は新卒（93.6万円）より高くなるのか"
+   },
+   {
+    "value": "59.9",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "quote": "：最高値「59.9万円」を記録したAI・IT人材の高騰と、半減したサービス系の二極化"
+   },
+   {
+    "value": "470",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "quote": "：知名度やスケールメリットが広告費・年間総予算（最大1,470万円）に与える影響"
+   },
+   {
+    "value": "50",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "quote": "実際の相場に比べて30～50万円のコスト削減を実現してきたミズサキの手法を解禁するので、ぜひ最後までご覧ください"
+   },
+   {
+    "value": "56.8",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "quote": "新卒採用1人あたりの採用コスト相場は約56.8万円とされていますが、"
+   },
+   {
+    "value": "49.0",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "quote": "約49.0万円"
+   },
+   {
+    "value": "57.5",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "quote": "約57.5万円"
+   },
+   {
+    "value": "31.3",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "quote": "中途採用における1人あたりの単価相場は、全体平均で約31.3万円と推計されるものの、利用する採用手法によって20万円から100万円超まで大きく変動します"
+   },
+   {
+    "value": "20",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "quote": "中途採用における1人あたりの単価相場は、全体平均で約31.3万円と推計されるものの、利用する採用手法によって20万円から100万円超まで大きく変動します"
+   },
+   {
+    "value": "100",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "quote": "中途採用における1人あたりの単価相場は、全体平均で約31.3万円と推計されるものの、利用する採用手法によって20万円から100万円超まで大きく変動します"
+   },
+   {
+    "value": "100",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "採用・教育・生産性低下など合計100万円以上のコスト"
+   },
+   {
+    "value": "300",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "300万円の売上が必要"
+   },
+   {
+    "value": "50",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約30～50万円"
+   },
+   {
+    "value": "20",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約10～20万円"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/wordpress/wp-content/uploads/2020/03/26173736/jinzai_guidelines.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://go.taxita.com/column/outsourcing023/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sogyotecho.jp/chushoukigyou-saiyou-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resus.jp/topics/4594/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v-spirits.com/sakai/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E5%B9%B3%E5%9D%87%E3%81%A8%E8%B2%BB%E7%94%A8%E3%82%92%E3%81%8B%E3%81%91%E3%81%9A%E3%81%AB%E6%8E%A1%E7%94%A8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/report/1627/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/37572",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/b-contents-middlecareer-chushokigyosaiyopoint-181111/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/zaimu/kannai/202601/tokubetsu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nissenpartners.co.jp/column/labor-shortage-recruitment-site-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovel.jp/cost-per-hire-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "地方の中小製造業の年間採用費 人手不足 受注 断る",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://www.jinzaiplus.jp/posts/230",
+    "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "https://www.jmam.co.jp/hrm/column/0255-recruitment_strategy2.html",
+    "https://dym.asia/media/regional-labor-shortage-solutions/",
+    "https://www.jfc.go.jp/n/findings/pdf/ronbun2411_01.pdf"
+   ]
+  },
+  {
+   "query": "地方の中小製造業の年間採用費 受注残 人手不足",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://marugotoinc.jp/blog/seizou_shotage/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "https://mirasapo-plus.go.jp/wordpress/wp-content/uploads/2020/03/26173736/jinzai_guidelines.pdf",
+    "https://go.taxita.com/column/outsourcing023/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/"
+   ]
+  },
+  {
+   "query": "地方の中小製造業の年間採用費 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.jinzaiplus.jp/posts/230",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/ronbun2411_01.pdf"
+   ]
+  },
+  {
+   "query": "地方の中小製造業の年間採用費 採用単価 規模別",
+   "results": [
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://cantik.co.jp/column-human/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BD%9C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95%E3%81%A8%E8%B2%BB%E7%94%A8%E3%81%AE/",
+    "https://sogyotecho.jp/chushoukigyou-saiyou-cost/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "https://www.n-lights.com/nlplus/recruitcost_average/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html"
+   ]
+  },
+  {
+   "query": "地方の中小製造業の年間採用費 採用コスト 調査 万円",
+   "results": [
+    "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://resus.jp/topics/4594/",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "https://sogyotecho.jp/chushoukigyou-saiyou-cost/",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://v-spirits.com/sakai/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%82%B3%E3%82%B9%E3%83%88%E5%B9%B3%E5%9D%87%E3%81%A8%E8%B2%BB%E7%94%A8%E3%82%92%E3%81%8B%E3%81%91%E3%81%9A%E3%81%AB%E6%8E%A1%E7%94%A8",
+    "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/"
+   ]
+  },
+  {
+   "query": "地方の中小製造業の年間採用費 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf"
+   ]
+  },
+  {
+   "query": "地方の中小製造業の年間採用費 採用経路 割合 調査",
+   "results": [
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.neo-career.co.jp/humanresource/knowhow/b-contents-middlecareer-chushokigyosaiyopoint-181111/"
+   ]
+  },
+  {
+   "query": "地方の中小製造業の年間採用費 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail002.html",
+    "https://www.osaka-ue.ac.jp/file/general/37572",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.mof.go.jp/about_mof/zaimu/kannai/202601/tokubetsu.pdf",
+    "https://nissenpartners.co.jp/column/labor-shortage-recruitment-site-solution/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf"
+   ]
+  },
+  {
+   "query": "地方の中小製造業の年間採用費 白書 採用",
+   "results": [
+    "https://www.chukiken.or.jp/report/1627/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 地方の中小製造業の年間採用費",
+   "results": [
+    "https://note.com/kosuke_39/n/n66c071c3438a",
+    "https://note.com/mmaassaahhiirroo/n/ned38d2bad139",
+    "https://note.com/leadstar/n/nca048db2e157",
+    "https://note.com/sns_saiyo_entik/n/nee61baeddd23",
+    "https://note.com/machi_hito1507/n/n266337d049e8",
+    "https://note.com/trigger_k430/n/n4b7988465e16",
+    "https://note.com/lucky_daphne262/n/n452149ac30c6",
+    "https://note.com/hashi_mo_1/n/nbee47d27f9a8",
+    "https://note.com/kosuke_39/n/ndc5d817551c8",
+    "https://note.com/leadstar/n/ne1b96644fe06"
+   ]
+  },
+  {
+   "query": "site:x.com 地方の中小製造業の年間採用費",
+   "results": [
+    "https://x.com/HRognet/article/2108123175766925341",
+    "https://x.com/TKG_CraftBank/status/2112326409716936859",
+    "https://x.com/comment111ok",
+    "https://x.com/worldcheers1",
+    "https://x.com/kyosukesaiha",
+    "https://x.com/reon_nao",
+    "https://x.com/k_oshimoto",
+    "https://x.com/humanindex",
+    "https://x.com/luigi_jpn/article/2089684200245100653",
+    "https://x.com/kemtch"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 地方の中小製造業の年間採用費",
+   "results": [
+    "https://jp.linkedin.com/in/masashi-sugiura",
+    "https://jp.linkedin.com/in/hinomotobp/ja",
+    "https://jp.linkedin.com/in/%E5%AE%9C%E5%B0%9A-%E6%A8%AA%E5%B1%B1%E3%80%80-5102a7306",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/jobs/view/%E6%B3%95%E4%BA%BA%E5%96%B6%E6%A5%AD%EF%BC%8Fit%E3%83%84%E3%83%BC%E3%83%AB%E6%8F%90%E6%A1%88%EF%BC%8F%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5127%E6%97%A5%EF%BC%8F%E8%8B%A5%E6%89%8B%E4%B8%AD%E5%BF%83%E3%81%AB%E6%B4%BB%E8%BA%8D-at-%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%9A%E3%83%AB%E3%83%96%E3%83%AA%E3%82%A2%E3%83%B3%EF%BC%88%E6%A0%AA%EF%BC%89-4475817463",
+    "https://jp.linkedin.com/in/wagagoto",
+    "https://jp.linkedin.com/in/%E8%81%96%E4%B9%9F-%E6%9C%89%E6%9D%91-44042729b",
+    "https://jp.linkedin.com/in/hiroto-sato-3a6435/ja",
+    "https://jp.linkedin.com/in/miraiaru",
+    "https://note.com/seizou_chiba/n/nf0a63a3c80d8"
+   ]
+  },
+  {
+   "query": "site:facebook.com 地方の中小製造業の年間採用費",
+   "results": [
+    "https://www.facebook.com/tihousousei.niigata/",
+    "https://www.facebook.com/proyamagata/?locale=ja_JP",
+    "https://www.facebook.com/100007919768385/posts/%E6%8E%A1%E7%94%A8%E3%81%AB%E6%82%A9%E3%82%80%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AE%E6%96%B9%E3%81%B8%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%99%E6%8E%A1%E7%94%A8%E6%B4%BB%E5%8B%95%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E4%BD%95%E3%82%92%E3%81%A9%E3%81%86%E6%94%B9%E5%96%84%E3%81%99%E3%82%8C%E3%81%B0%E3%81%84%E3%81%84%E3%81%8B%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E5%A3%B0%E3%82%92%E5%A4%9A%E3%81%8F%E3%81%AE%E4%BC%81%E6%A5%AD%E6%A7%98%E3%81%8B%E3%82%89%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEreverent-fi/4303815489892401/",
+    "https://www.facebook.com/61559824387663/posts/%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%8E%A1%E7%94%A8%E6%B1%82%E4%BA%BA%E6%9D%A1%E4%BB%B6%E5%8D%81%E5%88%86%E3%81%AB%E6%95%B4%E7%90%86%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E6%B5%B7%E5%A4%96%E3%81%8B%E3%82%89%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E3%81%A7%E3%81%AE%E6%8E%A1%E7%94%A8%E6%B4%BB%E5%8B%95%E3%81%A8%E5%90%8C%E6%A7%98%E3%81%AB%E6%B1%82%E4%BA%BA%E6%9D%A1%E4%BB%B6%E3%82%92%E6%98%8E%E7%A2%BA%E3%81%AB%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E9%87%8D%E8%A6%81%E3%81%A7%E3%81%99%E7%89%B9%E3%81%AB%E6%B5%B7%E5%A4%96%E3%81%A7%E5%80%99%E8%A3%9C%E8%80%85%E3%82%92%E5%8B%9F/122228988008327479/",
+    "https://www.facebook.com/61559824387663/posts/%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%8E%A1%E7%94%A8%E4%BA%BA%E4%BA%8B%E3%81%AE%E5%B0%82%E9%96%80%E9%83%A8%E7%BD%B2%E3%81%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E6%8E%A1%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%AB%E3%81%AF%E8%88%88%E5%91%B3%E3%81%8C%E3%81%82%E3%82%8B%E3%81%91%E3%82%8C%E3%81%A9%E5%B0%82%E4%BB%BB%E3%81%AE%E6%8B%85%E5%BD%93%E8%80%85%E3%82%92%E7%BD%AE%E3%81%8F%E4%BD%99%E8%A3%95%E3%81%8C%E3%81%AA%E3%81%84%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E7%B5%8C%E5%96%B6%E8%80%85%E6%A7%98%E3%81%8B%E3%82%89%E3%81%93%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%81%94%E7%9B%B8%E8%AB%87%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C/122229733766327479/",
+    "https://www.facebook.com/groups/1168835896656600/posts/3655429671330531/",
+    "https://www.facebook.com/farmbridgejp/",
+    "https://www.facebook.com/61559824387663/posts/%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%8E%A1%E7%94%A81%E5%90%8D%E3%81%8B%E3%82%89%E3%81%A7%E3%82%82%E6%8E%A1%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%90%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%AB%E8%88%88%E5%91%B3%E3%81%AF%E3%81%82%E3%82%8B%E3%81%91%E3%82%8C%E3%81%A9%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%9F%E3%81%84%E3%81%AE%E3%81%AF1%E5%90%8D%E3%81%A0%E3%81%91%E3%81%93%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%81%8A%E6%82%A9%E3%81%BF%E3%82%92%E3%81%8A%E6%8C%81%E3%81%A1%E3%81%AE%E4%BC%81%E6%A5%AD%E6%A7%98%E3%82%82%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%A7%E3%81%97%E3%82%87/122229528938327479/",
+    "https://www.facebook.com/fumiaki.kobayashi0408/posts/%E4%BB%8A%E6%9C%9D%E3%81%AF8%E6%99%82%E3%81%8B%E3%82%89%E6%97%A5%E6%9C%AC%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E6%9C%AC%E9%83%A8%E3%81%AE%E4%BC%9A%E8%AD%B0%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E5%88%86%E9%87%8E%E3%81%AE%E4%BA%BA%E6%9D%90%E7%A2%BA%E4%BF%9D%E3%81%A8%E3%82%8A%E3%82%8F%E3%81%91%E5%BB%BA%E8%A8%AD%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%88%86%E9%87%8E%E3%81%A7%E3%81%99%E6%97%A5%E6%9C%AC%E5%BB%BA%E8%A8%AD%E6%A5%AD%E9%80%A3%E5%90%88%E4%BC%9A%E6%97%A5%E6%9C%AC%E9%9B%BB%E8%A8%AD%E5%B7%A5%E6%A5%AD%E5%8D%94%E4%BC%9A%E6%97%A5%E6%9C%AC%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%94%E4%BC%9A%E9%9B%BB%E5%AD%90%E6%83%85/29070109415977139/",
+    "https://www.facebook.com/sekicci/?locale=ja_JP"
+   ]
+  },
+  {
+   "query": "地方の中小製造業の年間採用費 note 社長",
+   "results": [
+    "https://note.com/mmaassaahhiirroo/n/ned38d2bad139",
+    "https://note.com/kosuke_39/n/n66c071c3438a",
+    "https://saiyo-note.e-arpa.jp/tag/hiring-cost/",
+    "https://note.com/sei_tamai/n/n269032332e6d",
+    "https://hrnote.jp/contents/a-contents-rpo-saiyoukosuto-190111/",
+    "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "https://note.com/leadstar/n/nc4ccecfb8401",
+    "https://v-spirits.com/%E4%BA%BA%E4%BA%8B%E5%8A%B4%E5%8B%99/%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4-%E4%BA%BA%E4%BA%8B%E5%8A%B4%E5%8B%99/small-business-recruitment-success-cases",
+    "https://sennominato.com/topics/352/",
+    "https://www.hpnew.com/web-recruiting-advisor/seizougyo_saiyou/seizougyo-saiyo-cost-guide/"
+   ]
+  },
+  {
+   "query": "地方の中小製造業の年間採用費 X 投稿",
+   "results": [
+    "https://www.sansokan.jp/mng/keiei-column/059/",
+    "https://www.rebest-inc.jp/x-recruitment-guide-for-sme-5-steps/",
+    "https://joblit.jp/product/column/sns-recruitment-sme/",
+    "https://note.com/chic_deer1160/n/nb31383cfa924",
+    "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "https://www.wantedly.com/hiringeek/recruit/social_recruiting_smb/",
+    "https://sogyotecho.jp/chushoukigyou-saiyou-cost/",
+    "https://accelainc.com/archives/14665",
+    "https://hokiraon.jp/column/sns-saiyou/"
+   ]
+  },
+  {
+   "query": "annual recruiting budget small manufacturers Japan regional site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/scottscofield_japanrecruitment-japanbusiness-laborshortage-activity-7515735281900134400-z-tv",
+    "https://www.linkedin.com/pulse/japan-warehouse-management-systems-market-size-2026-2033-zsecf",
+    "https://www.linkedin.com/posts/apparel-resources_japanesemarket-garmentexports-textileindustry-activity-7519616166441533440-b5ZW",
+    "https://www.linkedin.com/pulse/market-dynamics-trends-in-depth-look-japan-sweepers-projected-iu1he",
+    "https://www.linkedin.com/in/bradzaun",
+    "https://www.linkedin.com/in/vtrauger",
+    "https://www.linkedin.com/in/ericwjohnson86",
+    "https://www.linkedin.com/in/everett-m-woodel-jr-mba-a98b4810",
+    "https://www.linkedin.com/in/darreneden",
+    "https://www.linkedin.com/in/ronmaloney"
+   ]
+  }
+ ],
+ "missing": {}
+}

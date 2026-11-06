@@ -1,0 +1,1339 @@
+{
+ "name": "SE Technical",
+ "aliases": [
+  "setechnical"
+ ],
+ "context": "中小企業向けローカルAIサーバー（3",
+ "researched_at": "2026-11-06T02:54:50.796579+00:00",
+ "official_url": "https://www.setechnical.net",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "OEM・組込み": [
+   {
+    "quote": "One capital purchase, then the cost of electricity. Run the queue 24 / 7 with no usage bill.",
+    "url": "https://www.setechnical.net/",
+    "pass": 1
+   },
+   {
+    "quote": "ChatGPT, GPT API",
+    "url": "https://www.setechnical.net/",
+    "pass": 1
+   },
+   {
+    "quote": "you own, your records, financials, and PHI never leave your network and never touch a third-party API. You get frontier-class productivity without handing your data to a company you've never met.",
+    "url": "https://www.setechnical.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitalize on Big Opportunity",
+    "url": "https://www.setechnical.net/blog/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A rapidly growing company reduces risk and gains help standardizing the onboarding and offboarding processes.",
+    "url": "https://www.setechnical.net/blog/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitalize on Big Opportunity",
+    "url": "https://www.setechnical.net/blog/category/compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "A rapidly growing company reduces risk and gains help standardizing the onboarding and offboarding processes.",
+    "url": "https://www.setechnical.net/blog/category/it-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitalize on Big Opportunity | SE Technical",
+    "url": "https://www.setechnical.net/case-studies/capitalize-on-big-opportunity/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitalize on Big Opportunity",
+    "url": "https://www.setechnical.net/case-studies/capitalize-on-big-opportunity/",
+    "pass": 1
+   },
+   {
+    "quote": "A rapidly growing company reduces risk and gains help standardizing the onboarding and offboarding processes.",
+    "url": "https://www.setechnical.net/case-studies/standardize-onboarding-offboarding/",
+    "pass": 1
+   },
+   {
+    "quote": "#3, Constantly develop and evolve your strategy, be willing to change rapidly.",
+    "url": "https://www.setechnical.net/technology-roi/5-myths-about-business-technology/",
+    "pass": 1
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Trusted by Practices and Businesses Across",
+    "url": "https://www.setechnical.net/",
+    "pass": 1
+   },
+   {
+    "quote": "With 27 years of providing managed IT services in the Atlanta and north Georgia area, Southeastern Technical has developed a culture and a way of doing business that helps our clients grow, without having to worry about infrastructure, while aligning with internal strategies, solving existing problems, and delivering support that's actually responsive.",
+    "url": "https://www.setechnical.net/company-about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Years before we started building AI for clients, we built one to run our own MSP. It reads every incoming ticket, weighs urgency against context, ranks the queue, and quietly nudges the right technician at the right moment, non-stop, on hardware we own, without ever sending a customer record to a third party.",
+    "url": "https://www.setechnical.net/company-about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We thrive on delivering excellent IT solutions and support for businesses in the Atlanta and north Georgia areas. We only succeed when our clients do, so we hold our work to that standard.",
+    "url": "https://www.setechnical.net/company-about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We're more than just a managed services provider. We love partnering with our customers to solve both common IT challenges and unique business problems, turn-key, so you can focus on growing.",
+    "url": "https://www.setechnical.net/company-about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Most IT providers sign a business associate agreement and leave HIPAA compliance to the practice or refer it to a separate vendor. Southeastern Technical bundles it into managed services for medical and dental clients, and answers the vendor questions inside your assessment ourselves.",
+    "url": "https://www.setechnical.net/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Based in Buford, GA, serving clients across Greater Atlanta and north Georgia.",
+    "url": "https://www.setechnical.net/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Providing Managed IT and Healthcare IT Solutions to practices and businesses across Greater Atlanta and north Georgia for over 27 years. Our clients appreciate our responsiveness, commitment to excellence and turn-key solutions.",
+    "url": "https://www.setechnical.net/blog/category/company-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Most IT providers sign a business associate agreement and leave HIPAA compliance to the practice or refer it to a separate vendor. Southeastern Technical bundles it into managed services for medical and dental clients, and answers the vendor questions inside your assessment ourselves.",
+    "url": "https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "We went through the Compliancy Group certification process ourselves. Our technicians are HIPAA trained. The documentation we produce for clients is the documentation we have had to stand behind for our own organization.",
+    "url": "https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: A fast-growing developer of advertising technology using mixed platforms becomes SOC-2 compliant in 60 days.",
+    "url": "https://www.setechnical.net/blog/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: A custom invoicing and billing solutions for one client resulted in a huge reduction in time spent doing tedious data entry and admin tasks.",
+    "url": "https://www.setechnical.net/blog/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Providing Managed IT and Healthcare IT Solutions to practices and businesses across Greater Atlanta and north Georgia for over 27 years. Our clients appreciate our responsiveness, commitment to excellence and turn-key solutions.",
+    "url": "https://www.setechnical.net/blog/category/company-culture/",
+    "pass": 1
+   },
+   {
+    "quote": "Most IT providers sign a business associate agreement and leave HIPAA compliance to the practice or refer it to a separate vendor. Southeastern Technical bundles it into managed services for medical and dental clients, and answers the vendor questions inside your assessment ourselves.",
+    "url": "https://www.setechnical.net/blog/category/medical-practices/",
+    "pass": 1
+   },
+   {
+    "quote": "Most IT providers sign a business associate agreement and leave HIPAA compliance to the practice or refer it to a separate vendor. Southeastern Technical bundles it into managed services for medical and dental clients, and answers the vendor questions inside your assessment ourselves.",
+    "url": "https://www.setechnical.net/blog/category/compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "Most IT providers sign a business associate agreement and leave HIPAA compliance to the practice or refer it to a separate vendor. Southeastern Technical bundles it into managed services for medical and dental clients, and answers the vendor questions inside your assessment ourselves.",
+    "url": "https://www.setechnical.net/blog/category/it-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: A fast-growing developer of advertising technology using mixed platforms becomes SOC-2 compliant in 60 days.",
+    "url": "https://www.setechnical.net/blog/category/it-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: A custom invoicing and billing solutions for one client resulted in a huge reduction in time spent doing tedious data entry and admin tasks.",
+    "url": "https://www.setechnical.net/blog/category/it-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Friendly, dedicated and responsive managed IT services. We help our clients grow their business through reliable, secure and compliant technology solutions. Learn more about the Southeastern Technical difference.",
+    "url": "https://www.setechnical.net/blog/category/it-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Providing Managed IT and Healthcare IT Solutions to practices and businesses across Greater Atlanta and north Georgia for over 27 years. Our clients appreciate our responsiveness, commitment to excellence and turn-key solutions.",
+    "url": "https://www.setechnical.net/blog/category/automations/",
+    "pass": 1
+   },
+   {
+    "quote": "Providing Managed IT and Healthcare IT Solutions to practices and businesses across Greater Atlanta and north Georgia for over 27 years. Our clients appreciate our responsiveness, commitment to excellence and turn-key solutions.",
+    "url": "https://www.setechnical.net/blog/category/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "IT compliance has become important for the success of engineering firms in today’s digital world. It’s not just about following regulations; strong IT compliance practices can lead to significant business growth and a competitive edge. A recent case study illustrates this connection between compliance and opportunity. An engineering firm landed a",
+    "url": "https://www.setechnical.net/case-studies/engineering-firm-secured-contract-it-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "IT compliance provides a scalable foundation that impresses clients, reduces liability, and helps recruit better talent.",
+    "url": "https://www.setechnical.net/case-studies/engineering-firm-secured-contract-it-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "Many firms respond only when clients demand compliance, leading to rushed, piecemeal implementations. Without a cohesive strategy, they miss out on the full operational and security benefits, and create systems that are difficult to manage or scale over time.",
+    "url": "https://www.setechnical.net/case-studies/engineering-firm-secured-contract-it-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "No two businesses are the same. Every organization has its own unique systems, processes, needs, goals, and challenges. To treat every one of our customers the same would be doing them a disservice. That’s why our third core value is to come up with a “custom fit” for each of our customers.",
+    "url": "https://www.setechnical.net/blog/southeastern-technical-core-values/",
+    "pass": 1
+   },
+   {
+    "quote": "IT exists to help people and businesses reach their goals and objectives and achieve high levels of success. With that in mind, everything we do in managing your IT services is done with the end goal of helping our clients and customers grow and be successful.",
+    "url": "https://www.setechnical.net/blog/southeastern-technical-core-values/",
+    "pass": 1
+   },
+   {
+    "quote": "While you come to us for help with your technology, the conversations go so much better when you enjoy the talk you are having with your IT support team. We put effort into our customer service and communication to make it enjoyable for our clients. That’s why we teach our team to be personable and approachable with customers.",
+    "url": "https://www.setechnical.net/blog/southeastern-technical-core-values/",
+    "pass": 1
+   },
+   {
+    "quote": "When your setup is modern and secure, you’ll have more uptime. More uptime makes your customers happier and your staff more productive.",
+    "url": "https://www.setechnical.net/networks/does-your-network-infrastructure-need-a-checkup/",
+    "pass": 1
+   },
+   {
+    "quote": "are more efficient, have better revenue growth, better product quality, more satisfied customers, and more engaged employees.",
+    "url": "https://www.setechnical.net/technology-roi/5-myths-about-business-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "How does the business fundamentally create value for its customers?",
+    "url": "https://www.setechnical.net/technology-roi/5-myths-about-business-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "New systems don’t have to fundamentally change what you offer to your customers. You can use technology to become more efficient, faster, and more reliable at things you already do. When used for optimization, new systems can enhance what you’re already doing and who you already are to your customers.",
+    "url": "https://www.setechnical.net/technology-roi/5-myths-about-business-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Our proof isn’t a case study with a logo we can’t name. Our proof is that we run it.",
+    "url": "https://www.setechnical.net/artificial-intelligence/ai-agent-team-for-your-business/",
+    "pass": 1
+   },
+   {
+    "quote": "the core work that actually keeps a business safe: reliable managed IT, hardened cybersecurity, tested backups, and, for our medical clients, HIPAA-aligned systems and protected patient data. Those fundamentals come first. They always will. AI that sits on top of a shaky foundation just gives you a faster way to make a mess.",
+    "url": "https://www.setechnical.net/artificial-intelligence/ai-agent-team-for-your-business/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re not going to point you at a case study full of numbers we can’t show you. We’ll point you at something you can see for yourself: the pages you’re reading right now.",
+    "url": "https://www.setechnical.net/artificial-intelligence/meet-the-dog-pack-how-our-ai-virtual-employees-work/",
+    "pass": 1
+   },
+   {
+    "quote": "・Aligning requirements with clients",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ Failure example: Trouble caused by \"assuming it wouldn't be used\"",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Automation That Stopped Lost Sales Leads",
+    "url": "https://www.setechnical.net/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A custom automation captured every website lead and made the sales team measurably more effective.",
+    "url": "https://www.setechnical.net/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales & Client Success",
+    "url": "https://www.setechnical.net/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us what your firm is dealing with and we will get back to you. No obligation, and no sales sequence.",
+    "url": "https://www.setechnical.net/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "As far as we can tell that makes us one of very few MSPs doing it this way, and we have not yet come across another one locally. The common arrangement is that your IT company sells you IT, and compliance is somebody else’s product that you buy, learn and run on your own time.",
+    "url": "https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance work is unglamorous, it does not scale the way ticket work does, and it carries a liability tail. An IT company that writes your risk analysis has put its name on something an investigator may read. Most providers look at that and decide the safer commercial position is to install the controls, sign the agreement, and let the practice carry the documentation burden.",
+    "url": "https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "We think that reasoning gets the risk backwards. The practice carrying it alone is exactly how a practice ends up with a three-year-old risk analysis, a training log nobody updated, and a vendor list that omits the two companies most likely to cause a breach. We would rather be accountable for the part we are actually qualified to be accountable for.",
+    "url": "https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "If the answers are “you do”, “you do”, “we would help where we can” and “that would be extra”, you have the common arrangement. It is not negligent and it is not unusual. It is just a long way from what your practice actually needs on the day it matters.",
+    "url": "https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "Both. If you are a billing company, an IT provider or another vendor handling patient data, you carry your own HIPAA obligations. ComplianceAX has a separate assessment built for business associates so you are not skipping past questions about exam rooms.",
+    "url": "https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us where your compliance or IT situation stands and we will get back to you. No obligation, and no sales sequence.",
+    "url": "https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "Because every card carries an owner and a history, nothing is anonymous. You can always see which virtual employee did which piece of work, when it moved, and who reviewed it, the same accountability you’d want from a human team, applied to the AI ones, and only possible because they don’t get a private place to work where the trail goes cold.",
+    "url": "https://www.setechnical.net/artificial-intelligence/how-ai-ranks-our-technicians-day/",
+    "pass": 1
+   },
+   {
+    "quote": "Every card carries a simple red / yellow / green flag, green is on track, yellow is slipping, red needs attention now. You don’t read a status report to find the trouble; the trouble is the red card, right there. Five seconds with the board tells you where the team is healthy and where something’s about to fall over, whether the owner of that card is a person or a dog.",
+    "url": "https://www.setechnical.net/artificial-intelligence/how-ai-ranks-our-technicians-day/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate Sales Leads From Website",
+    "url": "https://www.setechnical.net/blog/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A custom automation eliminated lost sales leads and increased sales team effectiveness.",
+    "url": "https://www.setechnical.net/blog/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Using technology to meet business objectives stopped being optional a long time ago. It’s critical to staying in business and being competitive. But, keeping up with the dizzying array of new technologies is enough to overwhelm even the brightest engineers. Here, we discuss 5 myths to give you a practical framework from which to make IT decisions.",
+    "url": "https://www.setechnical.net/blog/category/it-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate Sales Leads From Website",
+    "url": "https://www.setechnical.net/blog/category/automations/",
+    "pass": 1
+   },
+   {
+    "quote": "A custom automation eliminated lost sales leads and increased sales team effectiveness.",
+    "url": "https://www.setechnical.net/blog/category/automations/",
+    "pass": 1
+   },
+   {
+    "quote": "to find where your own workflows are leaking revenue.",
+    "url": "https://www.setechnical.net/case-studies/automate-time-recording-reminders/",
+    "pass": 1
+   },
+   {
+    "quote": "Using technology to meet business objectives stopped being optional a long time ago. It’s critical to staying in business and being competitive. But, keeping up with the dizzying array of new technologies is enough to overwhelm even the brightest engineers. Here, we discuss 5 myths to give you a practical framework from which to make IT decisions.",
+    "url": "https://www.setechnical.net/technology-roi/5-myths-about-business-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "are more efficient, have better revenue growth, better product quality, more satisfied customers, and more engaged employees.",
+    "url": "https://www.setechnical.net/technology-roi/5-myths-about-business-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Everyone in the IT world is talking about an “AI workforce” right now. Most of them mean a chatbot with a confident sales page behind it. When a business owner asks us what an AI workforce actually looks like in practice, we don’t reach for a slide deck, we point at our own company.",
+    "url": "https://www.setechnical.net/artificial-intelligence/ai-agent-team-for-your-business/",
+    "pass": 1
+   },
+   {
+    "quote": "A triage worker that ranks and routes work the moment it arrives, so nothing sits unseen.",
+    "url": "https://www.setechnical.net/artificial-intelligence/ai-agent-team-for-your-business/",
+    "pass": 1
+   },
+   {
+    "quote": "business, not just for a sales deck.",
+    "url": "https://www.setechnical.net/artificial-intelligence/meet-the-dog-pack-how-our-ai-virtual-employees-work/",
+    "pass": 1
+   },
+   {
+    "quote": "Every block on the pyramid carries a simple status: green is on track, yellow is slipping, red needs attention now. And because a weak spot at the bottom rolls",
+    "url": "https://www.setechnical.net/artificial-intelligence/meet-the-dog-pack-how-our-ai-virtual-employees-work/",
+    "pass": 1
+   },
+   {
+    "quote": "On it, Aaron. Looking at the logs you’d want something with rock-solid IPSec and a real warranty, I’d put three options in front of them at different price points and flag the rehash-interval setting as the likely culprit on the current box. Give me ten minutes and I’ll lay out the trade-offs so you can talk it through with them, not just hand them a quote.",
+    "url": "https://www.setechnical.net/artificial-intelligence/meet-the-dog-pack-how-our-ai-virtual-employees-work/",
+    "pass": 1
+   },
+   {
+    "quote": "Two principles keep the whole thing sane, and we hold to both. First, a person stays in charge of any decision that carries real weight; the team removes the grind",
+    "url": "https://www.setechnical.net/artificial-intelligence/orchestrating-a-team-of-ai-agents/",
+    "pass": 1
+   },
+   {
+    "quote": "Orchestration is the coordination layer that runs a team of narrow AI specialists instead of one do-everything model. A coordinator reads the request, decides which specialists are relevant, hands them the work in the right order, and assembles the results into a single answer. It is a dispatcher and editor, not a doer, and the coordination follows defined rules rather than being left to chance.",
+    "url": "https://www.setechnical.net/artificial-intelligence/orchestrating-a-team-of-ai-agents/",
+    "pass": 1
+   },
+   {
+    "quote": "A single model asked to do an entire job spreads its attention thin and tends to do most of a task well while quietly fumbling the part that mattered. Narrow specialists, each with one clear responsibility, are sharper at their job. A team also lets work be reviewed by a second specialist, upgraded one piece at a time, and kept resilient, because if one step is uncertain the next one catches it.",
+    "url": "https://www.setechnical.net/artificial-intelligence/orchestrating-a-team-of-ai-agents/",
+    "pass": 1
+   },
+   {
+    "quote": "We had exactly this problem with our own outside-sales work, so we built a tool to fix it. We call it RouteHound. It pulls prospects out of our CRM, geocodes them, and plans a sane, drivable day of visits, and it runs entirely on our own hardware, so the prospect list and the routing never leave our network and there’s no per-seat subscription quietly billing us for every rep.",
+    "url": "https://www.setechnical.net/artificial-intelligence/the-ai-route-planner-we-built-for-our-own-field-team/",
+    "pass": 1
+   },
+   {
+    "quote": "Every stop on the day’s agenda carries a short pre-visit brief: the key contact, the last time anyone touched the account, the talking points worth leading with, and any recent signals worth knowing before you walk in. The point is simple, the rep should arrive already up to speed instead of sizing up the room from scratch.",
+    "url": "https://www.setechnical.net/artificial-intelligence/the-ai-route-planner-we-built-for-our-own-field-team/",
+    "pass": 1
+   },
+   {
+    "quote": "The agenda above is what the rep actually carries: each stop in visit order, with its brief right underneath, contact, last touch, talking points, recent signals, so the day is a sequence of informed conversations rather than a list of addresses.",
+    "url": "https://www.setechnical.net/artificial-intelligence/the-ai-route-planner-we-built-for-our-own-field-team/",
+    "pass": 1
+   },
+   {
+    "quote": "Per-seat field-sales route apps are commonly priced around $50–60 per user per month, a real, recurring tax on every rep, forever, that we sidestep entirely by owning the tool. (That figure is the public industry norm, not a quote and not a claim about our own savings, we’re not going to invent a number.)",
+    "url": "https://www.setechnical.net/artificial-intelligence/the-ai-route-planner-we-built-for-our-own-field-team/",
+    "pass": 1
+   },
+   {
+    "quote": "The routing is math, not AI. It uses an open-source engine (OSRM) and a travelling-salesman solver to order stops and measure drive time, the same class of technology behind phone navigation apps. AI shows up in one place only: the pre-visit brief waiting at each stop, which is written by a separate prospect-intelligence system.",
+    "url": "https://www.setechnical.net/artificial-intelligence/the-ai-route-planner-we-built-for-our-own-field-team/",
+    "pass": 1
+   },
+   {
+    "quote": "Will RouteHound work with my existing CRM like HubSpot or Salesforce?",
+    "url": "https://www.setechnical.net/artificial-intelligence/the-ai-route-planner-we-built-for-our-own-field-team/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. It talks to your CRM through a connector that reads your prospects and their activity history and writes scheduled visits back. That connector can point at HubSpot, Salesforce, Zoho, a field-service platform like ServiceTitan, or something else. You don't replace your CRM, the region-day logic, cooldown window, and agenda stay the same; only the connector changes.",
+    "url": "https://www.setechnical.net/artificial-intelligence/the-ai-route-planner-we-built-for-our-own-field-team/",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of a per-seat subscription, you pay to own the tool once, and it runs on hardware you own or is hosted for you. Per-seat field-sales route apps are commonly priced around $50-60 per user each month, which is the public industry norm rather than a quote. What the build involves depends on your CRM and territory.",
+    "url": "https://www.setechnical.net/artificial-intelligence/the-ai-route-planner-we-built-for-our-own-field-team/",
+    "pass": 1
+   },
+   {
+    "quote": "・Project planning and cost adjustment with sales staff and superiors",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "We are always glad to meet sharp people who take ownership of their work. Send us your resume and tell us what you would want to own, and we will keep you in mind as roles open up.",
+    "url": "https://www.setechnical.net/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Stakeholder engagement deepens when people understand the risks mitigated and opportunities opened up by compliance. Transparent, ongoing communication prevents resistance and builds ownership.",
+    "url": "https://www.setechnical.net/case-studies/engineering-firm-secured-contract-it-compliance/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Southeastern Technical has kept businesses across Greater Atlanta and north Georgia running since 1999. We move fast, build smart, and treat technicians like the force multipliers they are.",
+    "url": "https://www.setechnical.net/careers/",
+    "pass": 1
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "Are Managed IT Services a worthwhile investment? What return can a business expect to experience if they hire a Managed IT Provider? How does an MSP help a business realize IT cost savings, increased productivity, improved security and scalability?",
+    "url": "https://www.setechnical.net/blog/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Are Managed IT Services a worthwhile investment? What return can a business expect to experience if they hire a Managed IT Provider? How does an MSP help a business realize IT cost savings, increased productivity, improved security and scalability?",
+    "url": "https://www.setechnical.net/blog/category/it-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Despite these gaps, the firm had two major advantages: a stable IT foundation, and leadership that saw compliance not as a burden, but as a strategic investment. Their decision to act early, and to trust their IT partner to lead a structured compliance initiative, turned a potential roadblock into a business advantage.",
+    "url": "https://www.setechnical.net/case-studies/engineering-firm-secured-contract-it-compliance/",
+    "pass": 1
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Can The Right Technology Choices Make Your Business More Profitable?",
+    "url": "https://www.setechnical.net/blog/category/it-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Business technology can be expensive. But, if it can make your business more profitable, it’s worth it. Is it time to see what technology could grow your business?",
+    "url": "https://www.setechnical.net/blog/category/it-management/",
+    "pass": 1
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "There are lots of details to consider in your backup plan, like whether you need to back up all individual workstations or just servers, as well as how frequent you need to back up and how quickly you need to be able to retrieve a copy of those backups. Factors like these will influence the pricing of your backup package, which can vary widely.",
+    "url": "https://www.setechnical.net/it-management/what-should-be-included-in-a-managed-it-services-package/",
+    "pass": 1
+   },
+   {
+    "quote": "you, instead of just reselling you a cloud subscription you could have bought yourself.",
+    "url": "https://www.setechnical.net/artificial-intelligence/meet-the-dog-pack-how-our-ai-virtual-employees-work/",
+    "pass": 1
+   },
+   {
+    "quote": "We didn’t read about this in a whitepaper. We built a coordinated team of AI workers to run parts of our own operation, and we know precisely where the coordination earns its keep and where a human still has to decide. That hard-won judgment is the thing we bring, not a product we resell, a practice we live.",
+    "url": "https://www.setechnical.net/artificial-intelligence/orchestrating-a-team-of-ai-agents/",
+    "pass": 1
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "More than technical skills, it's about \"human skills\"? The secret ... More than technical skills, it's about \"human skills\"? The secret ... note https://note.com > キャリア > キャリア全般",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "More than technical skills, it's about \"human skills\"? The secret to success in SE work | Life of a 40-something SE｜円山さん",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "More than technical skills, it's about \"human skills\"? The secret to success in SE work | Life of a 40-something SE",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. This is Maruyama.",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, I will write about the \"secrets of SE communication\" that are good to keep in mind when working as a Systems Engineer.",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Do SEs usually write programs?\" \"Isn't it a job where you just sit in front of a computer and work silently?\" I've often been asked this by people who aren't familiar with IT. For some reason, there seems to be an inward-looking image of the profession.",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Certainly, SEs often write code and create design documents, but after continuing in this line of work, I've come to think that",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "what is truly important is \"interaction with people\" rather than \"technology\"",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". It might sound extreme, but I feel it's not entirely wrong to say that \"90% of an SE's work is communication.\"",
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.setechnical.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/company-about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/professional-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/category/company-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/artificial-intelligence/how-ai-ranks-our-technicians-day/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/category/company-culture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/category/medical-practices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/category/compliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/category/it-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/category/artificial-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/category/automations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/category/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/case-studies/capitalize-on-big-opportunity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/case-studies/standardize-onboarding-offboarding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/case-studies/automate-time-recording-reminders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/case-studies/control-corporate-devices-assets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/case-studies/engineering-firm-secured-contract-it-compliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/blog/southeastern-technical-core-values/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/networks/does-your-network-infrastructure-need-a-checkup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/technology-roi/5-myths-about-business-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/it-management/what-should-be-included-in-a-managed-it-services-package/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/artificial-intelligence/ai-agent-team-for-your-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/artificial-intelligence/meet-the-dog-pack-how-our-ai-virtual-employees-work/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/artificial-intelligence/orchestrating-a-team-of-ai-agents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setechnical.net/artificial-intelligence/the-ai-route-planner-we-built-for-our-own-field-team/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.setechnical.net/media/AboutUsEDIT.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.setechnical.net/media/business-team-growth-762x448-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.setechnical.net/media/CiscoFINAL.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.setechnical.net/media/Microsoft-.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.setechnical.net/media/AWS.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.setechnical.net/media/VMwareFINAL.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.hitachi.com/ja-jp/ir/stock/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-se.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ipo-method.com/ipo-support/10018/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.gsitechnology.com/financial-information/institutional-ownership/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/holding-ags-vtx-alsn-largest-075247715.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investopedia.com/terms/s/shareholder.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clearygottlieb.com/~/media/organize-archive/cgsh/files/other-pdfs/the-separation-of-ownership-from-ownership.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/SAP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ecodatacenter.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.edu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iste.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maclear.ch/blog/why-tech-firms-deliberately-remain-unprofitable",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/Insiderinventions/posts/while-profit-margins-have-soared-among-tech-companies-theyve-stagnated-for-every/1478133294179790/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/dataisbeautiful/comments/vu8vvz/oc_revenue_profit_per_minute_of_top_tech_companies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.investopedia.com/ask/answers/122214/what-difference-between-revenue-and-profit.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eon.com/en/investor-relations/financial-publications/annual-report.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.initse.com/ende/investors/financial-reports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/te-connectivity-annual-report-2025.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1596783/000159678321000180/earningsreleaseex991-fy22x.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://southdakotasearchlight.com/2025/09/05/technical-colleges-plan-to-request-11-million-in-one-time-state-funding-for-building-projects/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://buildinse.substack.com/p/southeast-roundup-february-2026",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.southeasttech.edu/news/2026/president-new-investments-shape-growth.php",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/insights/market-reports/sea-tech-semi-annual-funding-report-h1-2026/__DCwAlGnVnjSZHYr0hVSL8D5RLthjWZE2ZLXVA2cY-uE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.southeasttech.edu/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.southeast.edu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rctc.edu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pv-tech.org/sowitec-announces-insolvency-due-to-excessive-debt/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/startups/comments/1ded5bz/white_label/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lexology.com/library/detail.aspx?g=e2f2b63e-379f-4c69-9d95-c6ff5d4dd5c1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netrio.com/white-labeling-managed-it-services-pros-and-cons/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.printful.com/glossary/private-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eastwise.co/en/private-label-key-steps-to-successfully-create-your-own-brand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/EnablersTeam/videos/thinking-of-starting-amazon-private-label-watch-this-firststart-your-journey-her/1460134799481145/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gobrandnation.com/rebranding-checklist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://licensespring.com/blog/guide/oem-software-licensing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/partner-program/oem-software",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gtmnow.com/enterprise-oem-software-licensing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syteca.com/en/partners/channel-partners-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sii-thermalprinters.com/partners/premier-reseller-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.se.com/us/en/partners/it-partner-program/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kiflo.com/blog/reseller-partner-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.se.com/ww/en/about-us/investor-relations/regulatory-information/annual-reports/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bertelsmann.com/en/investor-relations/financial-publications/financial-reports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.sixt.com/wp-content/uploads/2026/05/2024_SixtSE_Annual-Financial-Report_ERS.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stratec.com/investors/financial-reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.se-techjapan.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tech-community-japan_techcommunityjapan-japan-activity-7450333547996815360-bTRw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se-tech.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.se-techjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/dealroom-co",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/crunchbase",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/dealroom-co_where-do-ai-companies-rank-against-big-tech-activity-7317539243893944320-_ove",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SE Technical 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.hitachi.com/ja-jp/ir/stock/information/",
+    "https://www.3ds.com/",
+    "https://www.yamato-se.co.jp/ir/stock/",
+    "https://ipo-method.com/ipo-support/10018/",
+    "https://www.cyberagent.co.jp/careers/students/tech/",
+    "https://www.youtube.com/watch?v=pSrOJLnMznA",
+    "https://www.nikkei.com/nkd/company/?scode=9478",
+    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/ifrs/ifrs-insights/2025/documents/ey-japan-ifrs-jgaap-comparison-v9.pdf",
+    "https://ps.gs-yuasa.com/products/pb/lead/se.php",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "SE Technical shareholders ownership investors parent company",
+   "results": [
+    "https://ir.gsitechnology.com/financial-information/institutional-ownership/",
+    "https://finance.yahoo.com/news/holding-ags-vtx-alsn-largest-075247715.html",
+    "https://www.investopedia.com/terms/s/shareholder.asp",
+    "https://www.clearygottlieb.com/~/media/organize-archive/cgsh/files/other-pdfs/the-separation-of-ownership-from-ownership.pdf",
+    "https://otm.illinois.edu/researchers-innovators/transferring-research-beyond-academia/starting-company/legal-entities",
+    "https://en.wikipedia.org/wiki/Shareholder",
+    "https://stonemaiergames.com/s-corps-and-sharing-ownership-of-your-company/",
+    "https://legalvision.co.uk/corporations/differences-investor-shareholder/",
+    "https://www.sec.gov/resources-small-businesses/going-public/officers-directors-10-shareholders",
+    "https://www.marketbeat.com/stocks/NYSE/SE/institutional-ownership/"
+   ]
+  },
+  {
+   "query": "SE Technical 設立 OR 創業 OR founded",
+   "results": [
+    "https://en.wikipedia.org/wiki/SAP",
+    "https://ecodatacenter.tech/",
+    "https://www.mit.edu/",
+    "https://iste.org/",
+    "https://www.gatech.edu/about/history-traditions",
+    "https://www.palantir.com/",
+    "https://www.gm.com/",
+    "https://www.asce.org/",
+    "https://www.marvell.com/",
+    "https://www.founded.com/"
+   ]
+  },
+  {
+   "query": "SE Technical revenue profitable",
+   "results": [
+    "https://www.maclear.ch/blog/why-tech-firms-deliberately-remain-unprofitable",
+    "https://www.facebook.com/Insiderinventions/posts/while-profit-margins-have-soared-among-tech-companies-theyve-stagnated-for-every/1478133294179790/",
+    "https://www.reddit.com/r/dataisbeautiful/comments/vu8vvz/oc_revenue_profit_per_minute_of_top_tech_companies/",
+    "https://www.investopedia.com/ask/answers/122214/what-difference-between-revenue-and-profit.asp",
+    "https://fieldnation.com/resources/it-services-profit-margins-explained",
+    "https://techservealliance.org/blog-what-high-profit-it-engineering-staffing-firms-know/",
+    "https://www.macrotrends.net/stocks/charts/SE/sea/revenue",
+    "https://www.venasolutions.com/blog/small-business-revenue-statistics",
+    "https://www.pnc.com/insights/small-business/manage-business-finances/revenue-vs-profit-in-depth-comparison.html",
+    "https://stockanalysis.com/stocks/se/revenue/"
+   ]
+  },
+  {
+   "query": "SE Technical EBITDA net income annual report",
+   "results": [
+    "https://www.eon.com/en/investor-relations/financial-publications/annual-report.html",
+    "https://www.initse.com/ende/investors/financial-reports/",
+    "https://www.te.com/content/dam/te-com/documents/about-te/our-company/global/annual-report/te-connectivity-annual-report-2025.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1596783/000159678321000180/earningsreleaseex991-fy22x.htm",
+    "https://www.se.com/ww/en/about-us/investor-relations/regulatory-information/annual-reports/",
+    "https://www.bakerhughes.com/company/digital-annual-report",
+    "https://investors.geniussports.com/financials/quarterly-results/default.aspx",
+    "https://www.lseg.com/en/investor-relations/annual-reports/2025",
+    "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2025.pdf",
+    "https://www.stocktitan.net/financials/SE/"
+   ]
+  },
+  {
+   "query": "SE Technical funding raised",
+   "results": [
+    "https://southdakotasearchlight.com/2025/09/05/technical-colleges-plan-to-request-11-million-in-one-time-state-funding-for-building-projects/",
+    "https://buildinse.substack.com/p/southeast-roundup-february-2026",
+    "https://www.southeasttech.edu/news/2026/president-new-investments-shape-growth.php",
+    "https://tracxn.com/d/insights/market-reports/sea-tech-semi-annual-funding-report-h1-2026/__DCwAlGnVnjSZHYr0hVSL8D5RLthjWZE2ZLXVA2cY-uE",
+    "https://fundraiseinsider.com/blog/series-a-startups/",
+    "https://www.fundedstartupsdaily.com/raises/defense-govtech/",
+    "https://sdaho.org/2023/01/26/gov-noem-funds-equipment-at-south-dakota-tech-colleges/",
+    "https://socket.dev/blog/series-c",
+    "https://www.bipventures.vc/state-of-startups/2025",
+    "https://startupfundraising.com/companies"
+   ]
+  },
+  {
+   "query": "SE Technical acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.southeasttech.edu/calendar/index.php",
+    "https://www.southeast.edu/",
+    "https://www.rctc.edu/",
+    "https://www.pv-tech.org/sowitec-announces-insolvency-due-to-excessive-debt/",
+    "https://c2ctechnicalservices.com/news/c2c-technical-services-acquired-by-midocean-partners/",
+    "https://www.chattahoocheetech.edu/index.html",
+    "https://www.gtcc.edu/",
+    "https://www.sfcollege.edu/",
+    "https://www.rpclegal.com/thinking/tech/update-it-suppliers-beware-your-right-to-terminate-on-a-customer-insolvency-is-changing/",
+    "https://www.sersd.org/"
+   ]
+  },
+  {
+   "query": "SE Technical white label",
+   "results": [
+    "https://www.reddit.com/r/startups/comments/1ded5bz/white_label/",
+    "https://img.ly/blog/sdk-vs-white-label-consider-these-differences-when-you-choose-a-solution/",
+    "https://www.lexology.com/library/detail.aspx?g=e2f2b63e-379f-4c69-9d95-c6ff5d4dd5c1",
+    "https://www.netrio.com/white-labeling-managed-it-services-pros-and-cons/",
+    "https://www.youtube.com/watch?v=rDMj6h4Pwlk",
+    "https://solutionshub.epam.com/blog/post/white-label-software",
+    "https://help.seranking.com/hc/en-us/articles/16332652286492-White-Label-Overview",
+    "https://www.investopedia.com/terms/w/white-label-product.asp",
+    "https://shieldapps.com/white-label-software-program/",
+    "https://help.seranking.com/hc/en-us/sections/16332604316572-White-Label"
+   ]
+  },
+  {
+   "query": "SE Technical rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://www.printful.com/glossary/private-label",
+    "https://eastwise.co/en/private-label-key-steps-to-successfully-create-your-own-brand/",
+    "https://www.facebook.com/EnablersTeam/videos/thinking-of-starting-amazon-private-label-watch-this-firststart-your-journey-her/1460134799481145/",
+    "https://gobrandnation.com/rebranding-checklist/",
+    "https://blankabrand.com/blogs/beyond-the-brand-beauty-blog/how-to-build-your-own-brand-in-7-easy-steps?srsltid=AYCX9vLyDlvRbXNrE-dWESB6q0xAT_hgNKbNmB70bxkC24IAiqVBDTLn",
+    "https://hardtank.com/2026/07/31/develop-and-launch-private-label-rtd-coffee/",
+    "https://www.whitelabelexpo.com/",
+    "https://tillerdigital.com/blog/when-to-rebrand-how-to-tell-if-your-visual-brand-needs-a-refresh/",
+    "https://mashable.com/article/iphone-se-4-rebrand-iphone-16e-announcement",
+    "https://www.ey.com/en_us/insights/strategy/private-label-imperative-managing-own-brands"
+   ]
+  },
+  {
+   "query": "SE Technical OEM SDK licensing partners",
+   "results": [
+    "https://licensespring.com/blog/guide/oem-software-licensing",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.autodesk.com/partner-program/oem-software",
+    "https://gtmnow.com/enterprise-oem-software-licensing/",
+    "https://www.swiftview.com/partner/oem/",
+    "https://softwarepricing.com/blog/channel-oem-partner-licensing/",
+    "https://www.ivanti.com/partners/oem",
+    "https://xamplify.com/prm-glossary/oem-partner/",
+    "https://developer.salesforce.com/docs/platform/isvforce/guide/oem-user-license-comparison.html",
+    "https://www.segger.com/purchase/licensing/"
+   ]
+  },
+  {
+   "query": "SE Technical reseller partner program",
+   "results": [
+    "https://www.syteca.com/en/partners/channel-partners-program",
+    "https://sii-thermalprinters.com/partners/premier-reseller-partner-program/",
+    "https://www.se.com/us/en/partners/it-partner-program/",
+    "https://www.kiflo.com/blog/reseller-partner-programs",
+    "https://www.youtube.com/watch?v=QU5ocXL0-tY",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.zinfi.com/glossary/what-is-a-reseller-program/",
+    "https://www.magentrix.com/blog/cybersecurity-partner-programs-complete-guide",
+    "https://www.n-able.com/resources/reseller-partner-program",
+    "https://www.se.com/ww/en/partners/alliance-partner-program/"
+   ]
+  },
+  {
+   "query": "SE Technical Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.se.com/ww/en/about-us/investor-relations/regulatory-information/annual-reports/",
+    "https://www.bertelsmann.com/en/investor-relations/financial-publications/financial-reports/",
+    "https://about.sixt.com/wp-content/uploads/2026/05/2024_SixtSE_Annual-Financial-Report_ERS.pdf",
+    "https://www.stratec.com/investors/financial-reports",
+    "https://investors.te.com/financial-reports/annual-reports/default.aspx",
+    "https://www.tstc.edu/wp-content/uploads/2023/11/tstc-2023-annual-financial-report.pdf",
+    "https://ir.surteco.com/financial-reports",
+    "https://www.sec.gov/reports",
+    "https://investor.ti.com/static-files/fc9d9346-cf77-40db-902a-e9961e9c5736",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "SE Technical Japan",
+   "results": [
+    "https://www.se-techjapan.com/en",
+    "https://www.linkedin.com/posts/tech-community-japan_techcommunityjapan-japan-activity-7450333547996815360-bTRw",
+    "https://se-tech.jp/",
+    "https://www.se-techjapan.com/",
+    "https://www.kjtech.co.jp/custom.html",
+    "https://se-global.jp/",
+    "https://tsjnet.co.jp/wps/profile_en/",
+    "https://www.se.com/jp/ja/",
+    "https://jse.co.jp/",
+    "https://www.dnb.com/business-directory/company-profiles.se_technical_service_yk.be0b40080a3bca2730d5f4dc43234ff4.html"
+   ]
+  },
+  {
+   "query": "SE Technical employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/",
+    "https://www.crunchbase.com/organization/dealroom-co",
+    "https://www.crunchbase.com/organization/crunchbase",
+    "https://www.linkedin.com/posts/dealroom-co_where-do-ai-companies-rank-against-big-tech-activity-7317539243893944320-_ove",
+    "https://dealroom.co/",
+    "https://www.zoominfo.com/c/dealroom-inc/374690524",
+    "https://www.owler.com/company/crunchbase",
+    "https://www.linkedin.com/posts/dealroom-co_the-median-public-saas-evrevenue-multiple-activity-7468630191561392128-FZ-s",
+    "https://getlatka.com/companies/dealroom",
+    "https://dealroom.co/our-data/"
+   ]
+  },
+  {
+   "query": "site:note.com SE Technical",
+   "results": [
+    "https://note.com/gonzily1269/n/n1535f3736e49?hl=en",
+    "https://note.com/great_mango1139/n/n386bdf1f10a6?hl=en",
+    "https://note.com/idelib/n/nfef2a71ababd?hl=en",
+    "https://note.com/ky1103/n/n53cac0c41327?hl=en",
+    "https://note.com/fancy_emu4469/n/n1999c3dad985?hl=en",
+    "https://note.com/_kura/n/n420acb71b5fc?hl=en",
+    "https://note.com/nkktech/n/n46d823860ba1?hl=en",
+    "https://note.com/idelib/n/n9809789a5c7e?hl=en",
+    "https://note.com/keitafukui/n/n60ed84914747?hl=en",
+    "https://note.com/startday0/n/nd61deb2525c3?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com SE Technical",
+   "results": [
+    "https://x.com/TheTuringPost/status/2115232335948083237",
+    "https://x.com/IMFNews/status/2064798326050947428",
+    "https://x.com/MBakerIntl/status/2118037135936942269",
+    "https://help.x.com/en/forms",
+    "https://x.com/SoutheastTechSD/status/2116182148218589405",
+    "https://x.com/SoutheastTechSD/status/2117648078190547441",
+    "https://x.com/SoutheastTechSD/status/2115096257920106503",
+    "https://help.x.com/en/rules-and-policies/x-limits",
+    "https://x.com/SoutheastTechSD/status/2118040637756883165",
+    "https://x.com/SoutheastTechSD/status/2116569689593700391"
+   ]
+  },
+  {
+   "query": "site:linkedin.com SE Technical",
+   "results": [
+    "https://www.linkedin.com/school/southeast-tech/",
+    "https://www.linkedin.com/in/josh-garton",
+    "https://www.linkedin.com/jobs/view/director-global-technical-operations-portfolio-strategy-at-biontech-se-4469865109",
+    "https://www.linkedin.com/school/southeast-kentucky-community-and-technical-college/",
+    "https://careers.linkedin.com/pathways-programs/internships/Technical",
+    "https://www.linkedin.com/posts/tattooednerd_who-should-run-the-technical-demo-the-ae-activity-7417942326821462016-maeU",
+    "https://jo.linkedin.com/company/s.-e.-technical?trk=similar-pages_result-card_full-click",
+    "https://de.linkedin.com/in/shuang-li-098a35244",
+    "https://www.linkedin.com/school/southeast-career-technical-academy/",
+    "https://www.linkedin.com/company/s.-e.-technical"
+   ]
+  },
+  {
+   "query": "site:facebook.com SE Technical",
+   "results": [
+    "https://www.facebook.com/SoutheastTechSD/",
+    "https://www.facebook.com/Southeast.Kentucky/",
+    "https://www.facebook.com/STHorticulture/",
+    "https://developers.facebook.com/documentation/business-messaging/whatsapp/solution-providers/get-started-for-tech-providers",
+    "https://www.facebook.com/TitanMachinery/posts/this-month-more-than-200-local-high-school-students-participated-in-the-se-tech-/1527754086062213/",
+    "https://www.facebook.com/groups/vwatlasownersclub/posts/1310749444567668/",
+    "https://www.facebook.com/groups/191339898236209/posts/1704069333629917/",
+    "https://www.facebook.com/groups/191339898236209/posts/1982205852482929/",
+    "https://www.facebook.com/groups/191339898236209/posts/1474562056580647/",
+    "https://m.facebook.com/help/instagram/3585187558177330/?helpref=related_articles"
+   ]
+  },
+  {
+   "query": "SE Technical note 社長",
+   "results": [
+    "https://sal-blog.com/",
+    "https://ntrs.nasa.gov/",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/tag/SE",
+    "https://tech-note.kddi.com/",
+    "https://www.spirex.co.jp/technote/",
+    "https://www.oracle.com/java/technologies/java-se-glance.html",
+    "https://note.com/saiyou_dekirukun/all"
+   ]
+  },
+  {
+   "query": "SE Technical X 投稿",
+   "results": [
+    "https://acqnotes.com/acqnote/careerfields/se-technical-reviews-and-audits",
+    "https://x.com/karpathy/status/2105819303471976479",
+    "https://www.spacex.com/",
+    "https://www.ieee.org/",
+    "https://xautopilot.app/reply-style/technical",
+    "https://hackernoon.com/how-to-write-technical-specs-that-actually-ship",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "https://m602dev.xii.jp/blog/tech/sns/x-auto-post-success/",
+    "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "https://blog.csdn.net/weixin_30768881/article/details/168506753"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）",
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）",
+  "存続": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）",
+  "ホワイトラベル明言": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）",
+  "日本対応": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）"
+ }
+}

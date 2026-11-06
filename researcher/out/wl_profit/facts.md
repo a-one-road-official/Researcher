@@ -1,4 +1,4 @@
-# ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件（事実のみ・15社）
+# ホワイトラベル候補の提供企業 — 黒字・売上・存続・再販条件（事実のみ・22社）
 
 ## 3YOURMIND
 - 公式URL：https://www.3yourmind.com（given）
@@ -558,6 +558,142 @@
 - 日本対応：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
 - 顧客：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部51頁・検索14回）
 
+## GAIXER Sovereign
+- 公式URL：https://sovereign.gaixer.com（given）
+- 創業年度：設立：2009年11月（https://prtimes.jp/main/html/rd/p/000000149.000009536.html・3回目）
+- 所在地：東京都港区芝浦1-2-3
+シーバンスS館（https://prtimes.jp/main/html/rd/p/000000149.000009536.html・3回目）
+- 所在地：東京都港区芝浦1-2-3 シーバンスS館 最上階（https://prtimes.jp/main/html/rd/p/000000149.000009536.html・3回目）
+- 所在地：東京都港区芝浦1-2-3 シーバンスS館 最上階（https://fixer.co.jp/news/2026/08/2026_0807_001_ai_subsidy/・3回目）
+- 代表者：松岡清一（https://prtimes.jp/main/html/rd/p/000000149.000009536.html・3回目）
+- 代表者：代表取締役社長 松岡 清一（https://prtimes.jp/main/html/rd/p/000000149.000009536.html・3回目）
+- 代表者：代表取締役社長 松岡 清一（https://fixer.co.jp/news/2026/08/2026_0807_001_ai_subsidy/・3回目）
+- 株主構成：
+  - 「主要株主10」（https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131・3回目）
+  - 「parent company △1,654 - △2,117 -」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「Shareholders' Equity 5,875 3,760 △2,115」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+- 創業年度：
+  - 「Joined Nomura Systems Kansai (now NRI Netcom) in 1994; founded FIXER in 2008; Representative Director & President since 2009. Tokyo Institute of Technology (Tokyo Tech) graduate.」（https://www.ai-market-watch.com/company/fixer-inc-gaixer・3回目）
+  - 「FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました」（https://prtimes.jp/main/html/rd/p/000000138.000009536.html・3回目）
+  - 「FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました」（https://japan.zdnet.com/release/31160088/・3回目）
+  - 「FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました」（https://prtimes.jp/main/html/rd/p/000000149.000009536.html・3回目）
+  - 「FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました」（https://fixer.co.jp/news/2026/08/2026_0807_001_ai_subsidy/・3回目）
+  - 「FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました」（https://news.infoseek.co.jp/article/prtimes_000000149_000009536/・3回目）
+  - 「FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました」（https://www.rbbtoday.com/release/prtimes2-today/20260409/1247762.html・3回目）
+  - 「FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました」（https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/・3回目）
+- 黒字・収益性：
+  - 「営業利益 △1,546 △2,438 △2,316 △770」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「営業利益 △1,729 △2,316 △586 -」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「3月は連結で単月営業黒字を見込む」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「Q4. 黒字化はいつ見込めますか」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「A. 今期の連結計画では営業損失510百万円を見込んでおり、通期の黒字化は見込んでいま」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「現行計画では３月に単月の営業黒字を見込んでいますが、検収時期や費用削減の」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「通期の黒字化に向け、販売計画の実現と費用削減を進めます」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「FIXER、26年8月期は23億円の赤字、27年8月期は赤字縮小見通し」（https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131・3回目）
+  - 「year operating income」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「Compared to the plan, sales were +172 million yen, operating income +87 million yen, and ordinary income +90 million」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「yen, which exceeded the plan.Net income was -464 million yen due to the recording of impairment losses and the」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「Gross Profit 289 484 482 +192」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+- 売上：
+  - 「FIXERの2026年8月期決算は、売上高が前期比21.6%減の31億2,200万円、営業損失は23億1,600万円（前期は17億2,900万円の損失）に拡大しました」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「主力の「Sovereign GaiXer」における販売体制の立ち上げ遅れが響き、売上総利益がマイナスに転落」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「同社は人員配置の適正化や拠点集約など、前期比15億4,700万円の費用削減を断行中であり、2027年8月期は売上高33億8,100万円、営業損失5億1,000万円への改善を見込んでいます」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「Sovereign GaiXerの販売体制立ち上げが遅れ、売上高が計画を大きく下回った」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「売上水準に対して人員・クラウド費用などの固定費が高止まりし、営業損失が拡大した」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「売上高は当初予想4,348百万円に対して1,225百万円未達」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「2026年9月1日に公表した修正予想に対しては、売上高・営業損失ともにほぼ同水準で着地」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「売上総利益は前期の482百万円から△29百万円へ悪化」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「人件費は前期比224百万円減少したものの、売上減少に対して削減が追いつかなかった」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「売上高は各四半期でおおむね8億円前後で推移」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「当初予想に対する売上高未達1,225百万円のうち、Sovereign GaiXer関連が約7割を占めた」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「当期売上高は31百万円」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+- 資金調達：
+  - 「受注・検収、費用削減、資金調達の時期および条件に不確実性」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「ただし、資金調達の実現時期・条件には不確実性が残る」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「資金調達の時期・条件には不確実性があります」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「４ 資金調達の条件 協議の実現時期及び条件には不確実性がある」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「2008 founded, 2009 began operations, 2020 Series A ¥1.2B, 2022-10-06 listed on Tokyo Stock Exchange Growth market (code 5129), 2023-04 launched GaiXer enterprise AI platform, 2025-11 announced Lenovo AI edge workstation (later renamed Sovereign GaiXer), 2026-04 began formal orders for Sovereign GaiXer.」（https://www.ai-market-watch.com/company/fixer-inc-gaixer・3回目）
+  - 「This page uses AI to summarize IR materials from TDnet. Please refer to the original document for investment decisions.」（https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/・3回目）
+  - 「JapanIR is an investor relations information platform that summarizes IR information from Japanese companies and provides it in an accessible format for domestic and international investors.」（https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/・3回目）
+  - 「In the future, we will consider flexible financing in preparation for business expansion and growth investment.」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「Cash flow from investment activities △34 △65 △31」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「Clients have a clear view of their return on investment.」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「• Government-Related AI and Semiconductor Industry: Expected Investment」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「NAVER sets November 6 payment date for NVIDIA's $1 billion AI factory investment」（https://www.ai-market-watch.com/news/sovereign-gaixer-launches-as-an-in-house-deployable-generative-ai-aimed-at-healt-99tmls・3回目）
+- 存続：
+  - 「Acquisition and Cancellation of the 3rd to 5th Series of Warrants Issued through Third-Party Allotment (Exercise Price Adjustment Provisions) and Change in Use of Funds」（https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/・3回目）
+  - 「Earnings forecast (disclosed in a timely manner on May 28, 2025)」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「172 million yen compared to the forecast disclosed on May 28)」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「1,729 million yen (+85 million yen compared to the forecast disclosed on May 28)」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「Stock Acquisition Rights 1 1 △0」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「（株）内外出版社（東京）が破産申請へ＝「月刊自家用車」などを発行」（https://news.infoseek.co.jp/article/prtimes_000000149_000009536/・3回目）
+  - 「トークン破産、情報流出のAI破綻から脱出せよ～AIエージェント新時代の潮流～」（https://www.youtube.com/watch?v=HzKymJccMsQ・3回目）
+- OEM・組込み：
+  - 「どちらもSovereign GaiXerの一本のAPI窓口で｜製品解説シリーズ第6回」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「の​API​窓口とは、​社内の​システムや​アプリが​本体の​AIに​仕事を​頼むための、​共通の​入口です」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「APIとは何か？ ─ AIに仕事を頼むための「注文カウンター」」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「API​​（エーピーアイ）​​＝システムどうしが​仕事を​頼み合う​ための、​決まった​形の​窓口」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「​この​​「決まった​言い方で​注文できる​カウンター」​が​APIです」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「の​API​窓口は、​社内の​あらゆる​システムが​​「AIに​頼みごとを​する​カウンター」​に​なります」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「API窓口は、上から3番目のAI-OSの層にあります」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「AI-OSの​API​窓口も​同じで、​社内​システムは​​「AIを​自分で​作らず、​借りる」​だけで​済みます」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「​本記事の​​「API​窓口」​は、​いわゆる」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「の​API​窓口に​​「この​文章を​要約して」​と​頼み、​返ってきた​答えを​画面に​表示するだけです」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「社内​システムも​同じで、​AIを​自分の​中に​作る​必要は​なく、​API​窓口から​借りれば​よい」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「API​窓口は、​クラウド​型生成​AIと​同じ​呼び出し方に​対応しています」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+- 再販制度：
+  - 「代理店チャネルおよび直販体制の立ち上げ遅延」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550763・3回目）
+  - 「代理店チャネルの構築と直販体制の立ち上げが遅れ、4Qに集中させた計画が実現しなかった」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「✕ 代理店30社の稼働を前提に4Qへ集中」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf・3回目）
+  - 「・We plan to further accelerate sales by starting not only direct sales but also sales through distributors.」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「We started by supporting the creation of medical documents, which have a heavy workload on doctors, and in the future, various medical」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「variety of video expressions that could only be achieved with studio」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+  - 「▶ Resells cloud and software licenses and provides managed services (maintenance, operation, and enhanced development)」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf・3回目）
+- 日本対応：
+  - 「日本語は​1文字が​約1.5」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「​日本語は​1文字が​約1.5」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「​（日本語1文字＝約1.5​」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「​​「日本語1文字＝約1.5​」（https://sovereign.gaixer.com/what-is/api-gateway/・1回目）
+  - 「Minato-ku, Tokyo, Japan」（https://www.ai-market-watch.com/company/fixer-inc-gaixer・3回目）
+  - 「Secure, sovereign enterprise generative AI that keeps sensitive data within Japan/on-premise, enabling healthcare, finance, manufacturing, and government organizations to use AI without sending data to external clouds.」（https://www.ai-market-watch.com/company/fixer-inc-gaixer・3回目）
+  - 「Japanese enterprises, government agencies, municipalities, healthcare institutions, financial institutions, and manufacturers with strict data-security and sovereignty requirements.」（https://www.ai-market-watch.com/company/fixer-inc-gaixer・3回目）
+  - 「Differentiates via sovereign/on-premise deployment that keeps data entirely within Japan, ISMAP-LIU security compliance, and a one-time-purchase palm-sized workstation (no subscription) — targeting security-sensitive healthcare, government, and manufacturing buyers.」（https://www.ai-market-watch.com/company/fixer-inc-gaixer・3回目）
+  - 「ExaWizards (Exa), other Japanese enterprise generative AI providers (e.g., Sakana AI, Preferred Networks), cloud-based LLM platforms (OpenAI/ChatGPT, Azure OpenAI).」（https://www.ai-market-watch.com/company/fixer-inc-gaixer・3回目）
+  - 「A Microsoft Azure-specialized cloud integrator (TSE Growth-listed, code 5129) expanding into sovereign/on-premise enterprise generative AI for the Japanese regulated market.」（https://www.ai-market-watch.com/company/fixer-inc-gaixer・3回目）
+  - 「Japan (domestic focus, with government/municipality deployments)」（https://www.ai-market-watch.com/company/fixer-inc-gaixer・3回目）
+  - 「【ＦＩＸＥＲ】Sovereign GaiXerを軸に業績修正—通期予想を大幅下方修正｜2026年8月期 | Japan IR」（https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/・3回目）
+- 顧客：
+  - 「手のひらサイズの本体で、出荷後1〜2営業日で届き、導入初日から利用開始できます」（https://sovereign.gaixer.com/・1回目）
+  - 「導入時のネットワーク設定と、導入後の保守」（https://sovereign.gaixer.com/・1回目）
+  - 「販売パートナーも、導入した会社も、業務ソフトメーカーも」（https://sovereign.gaixer.com/・1回目）
+  - 「生成AIの導入検討で、よく伺う3つの壁」（https://sovereign.gaixer.com/・1回目）
+  - 「導入の前から、チカラになります」（https://sovereign.gaixer.com/・1回目）
+  - 「導入前の不安に、1つずつ答えを用意しました」（https://sovereign.gaixer.com/・1回目）
+  - 「届いた日から使えるので、決裁後の導入も最速です」（https://sovereign.gaixer.com/・1回目）
+  - 「実際の業務データに近い形で試しながら、導入判断を進められます」（https://sovereign.gaixer.com/・1回目）
+  - 「「デジタル化・AI導入補助金2026」の対象ITツールに」（https://sovereign.gaixer.com/・1回目）
+  - 「※中小企業・小規模事業者向けの制度で、ソフトウェア導入費用の一部が補助対象」（https://sovereign.gaixer.com/・1回目）
+  - 「導入は、3ステップ」（https://sovereign.gaixer.com/・1回目）
+  - 「機能やプランなどの詳細から、導入・運用のご相談はこちら」（https://sovereign.gaixer.com/・1回目）
+- 検索結果の抜粋：
+  - 「FIXER Inc. (GaiXer) - AI Startup Profile | AI Market Watch — Secure, sovereign enterprise generative AI that keeps sensitive data within Japan/on-premise, enabling healthcare, finance, manufacturing, and government organizations to use AI without sending data to external clouds.」（https://www.ai-market-watch.com/company/fixer-inc-gaixer・3回目）
+  - 「【FIXER】Sovereign GaiXerを軸に業績修正—通期予想を大幅下方修正｜2... — Sep 1, 2026 · The personnel responsible for the cloud version GaiXer have been reassigned to the Sovereign GaiXer business. Productization of Sovereign GaiXer has been completed, and the company plans to accelerate market development.」（https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/・3回目）
+  - 「Frequently asked questions | Sovereign GaiXer — Q What is Sovereign GaiXer? An on-premises generative AI appliance that processes workloads locally in a compact desktop unit. Follow the initial setup guide before first use. Jointly developed by Lenovo and FIXER, it combines Lenovo ThinkStation PGX-based hardware with an AI stack developed by FIXER in Japan.」（https://sovereign.gaixer.com/en/faq/・3回目）
+  - 「Sovereign GaiXer | On-premises generative AI with predictable ... — Sovereign GaiXer is an on-premises generative AI appliance. AI processing runs on the appliance without sending internal data to the internet, supporting work involving confidential or personal information.」（https://sovereign.gaixer.com/en/・3回目）
+  - 「国内向け生成AI基盤「 Sovereign GaiXer 」正式受注開始の ... — 国内向け生成AI基盤「 Sovereign GaiXer 」正式受注開始の ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000138.000009536.html・3回目）
+  - 「国内向け生成AI基盤「 Sovereign GaiXer 」正式受注開始の ... — 国内向け生成AI基盤「 Sovereign GaiXer 」正式受注開始の ... ZDNET Japan https://japan.zdnet.com > プレスリリース」（https://japan.zdnet.com/release/31160088/・3回目）
+  - 「FIXERが提供するオンプレミス型生成AI「 Sovereign GaiXer 」が — FIXERが提供するオンプレミス型生成AI「 Sovereign GaiXer 」が PR TIMES https://prtimes.jp > その他」（https://prtimes.jp/main/html/rd/p/000000149.000009536.html・3回目）
+  - 「株式会社FIXER on X: "／ 「 Sovereign GaiXer 」とは？ 1分で ... — 株式会社FIXER on X: "／ 「 Sovereign GaiXer 」とは？ 1分で ... X https://x.com > @FIXER_Inc_Japan」（https://x.com/FIXER_Inc_Japan/status/2054834415034122377・3回目）
+  - 「AIとお金 ⁠ AIの​料金と​コスト、​まる​ごと​入門 — AIとお金 ⁠ AIの​料金と​コスト、​まる​ごと​入門 Sovereign GaiXer https://sovereign.gaixer.com > ai-and-money」（https://sovereign.gaixer.com/ai-and-money/・3回目）
+  - 「生成AIと既存システムの連携で変わる手間とコスト｜AIとお金 — 生成AIと既存システムの連携で変わる手間とコスト｜AIとお金 Sovereign GaiXer https://sovereign.gaixer.com > AIとお金」（https://sovereign.gaixer.com/ai-and-money/08-integration/・3回目）
+  - 「FIXERが提供するオンプレミス型生成AI「 Sovereign GaiXer ... — FIXERが提供するオンプレミス型生成AI「 Sovereign GaiXer ... zeirishinavi.com https://zeirishinavi.com > 支援金・給付金・補助金」（https://zeirishinavi.com/news/fixer%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%82%AA%E3%83%B3%E3%83%97%E3%83%AC%E3%83%9F%E3%82%B9%E5%9E%8B%E7%94%9F%E6%88%90ai%E3%80%8Csovereign-gaixer%E3%80%8D%E3%81%8C%E3%80%81%E3%80%8C/・3回目）
+  - 「On-premises generative AI: Sovereign GaiXer — On-premises generative AI: Sovereign GaiXer Sovereign GaiXer https://sovereign.gaixer.com > ...」（https://sovereign.gaixer.com/en/・3回目）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部44頁・検索20回）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部44頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部44頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部44頁・検索20回）
+- ホワイトラベル明言：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部44頁・検索20回）
+
 ## Grid Connect
 - 公式URL：https://www.gridconnect.com（given）
 - 売上高：154,720 31,021（https://www.common-wealth.org/publications/grid-is-good-the-case-for-public-ownership-of-transmission-and-distribution・3回目）
@@ -830,6 +966,233 @@
 - 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
 - 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
 - 株主構成：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部47頁・検索15回）
+
+## Iternal
+- 公式URL：https://iternal.ai（given）
+- 株主構成：
+  - 「that traps enterprises between ambitious vision and stalled rollout, backed by 3,000+ consultations and $150K+ of consulting value compressed into a board-ready plan. Our services span」（https://iternal.ai/・1回目）
+  - 「Technicians and operators get real-time, policy-grounded assistance at the line or in the field, backed by local inference for reliability.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「Take ownership of meaningful projects and grow your career as we scale.」（https://iternal.ai/careers・1回目）
+  - 「Compare AirgapAI vs. cloud AI total cost of ownership for privileged matters.」（https://iternal.ai/ai-for-law-firms・1回目）
+  - 「Every framework in this book is backed by industry research. Explore the sources that inform the strategies.」（https://iternal.ai/ai-partner-blueprint・1回目）
+  - 「How to Budget for AI: Token Costs, Hidden Fees, and Total Cost of Ownership」（https://iternal.ai/llm-pricing-calculator・1回目）
+  - 「Enterprise AI budgeting requires looking beyond the per-token price list. Total cost of ownership includes several categories that are frequently underestimated in initial projections. Token spend is only one line in a complete AI budget — for the full enterprise picture spanning software, infrastructure, data, talent, consulting, training, and governance, see the」（https://iternal.ai/llm-pricing-calculator・1回目）
+  - 「Senior advisory that closes the gap between AI vision and stalled rollout, delivering strategy, execution, and accountability rather than tool recommendations; backed by 3,000+ consultations.」（https://iternal.ai/about・1回目）
+  - 「Teams move from enthusiasm to pilot without clear ownership, architecture, cost model, adoption plan, or success criteria.」（https://iternal.ai/ai-blueprint-builder・1回目）
+  - 「Ownership, approvals, influence, adoption needs, and accountability map.」（https://iternal.ai/ai-blueprint-builder・1回目）
+  - 「Nebulous: a patented prioritization engine designed to align business value and outcomes, ensuring decisions are backed by data, improving resource allocation by as much as 230%.」（https://www.ftei.com/news/future-tech-announces-strategic-global-partnership-with-iternal-technologies/・3回目）
+- 創業年度：
+  - 「Iternal Technologies was founded in 2018 by John Byron Hanby IV on a simple conviction: enterprise AI was failing the organizations that needed it most — locked into expensive cloud subscriptions, forced to send sensitive data off-premises, and delivering answers too inaccurate to trust. Iternal set out to fix all three. It built patented data-intelligence technology (now」（https://iternal.ai/・1回目）
+- 売上：
+  - 「Partner & Revenue Enablement」（https://iternal.ai/・1回目）
+  - 「Partner and revenue enablement — PRISM delivers account intelligence while IdeaFORGE automates spec sheets and proposals, so partner teams move from data to deliverable in minutes.」（https://iternal.ai/・1回目）
+  - 「On-device AI runs the model on the machine in front of you instead of a remote server. On an Intel Core Ultra AI PC the NPU carries the sustained work, including small language models, speech-to-text, translation and embeddings, while the integrated GPU takes larger models and long prompts and the CPU handles retrieval and orchestration.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「An AI PC is only as useful as the software that targets the NPU. Four workloads carry most of the day-to-day value, and all four run with the network cable unplugged.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「to assemble case briefs 4.6 hours faster than before. Officers carry laptops that run」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「tears down language barriers in real time, even without a network.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「, proposal support, sales and marketing resources, partner training」（https://iternal.ai/partners・1回目）
+  - 「20–30 hours of unbillable presales qualification, often spread across a team of people」（https://iternal.ai/partners・1回目）
+  - 「of unbillable presales qualification it replaces, often spread across a team of people」（https://iternal.ai/partners・1回目）
+  - 「Teams with an active AI sales motion」（https://iternal.ai/partners・1回目）
+  - 「Authorized is the low-cost way to start. Iternal earns when your clients move forward: from the monthly plans, from AirgapAI and AI Blueprint sales you make, and from work Iternal does as your subcontractor.」（https://iternal.ai/partners・1回目）
+  - 「Sales library and price lists」（https://iternal.ai/partners・1回目）
+- 資金調達：
+  - 「The complete framework for leading AI transformation. 95% of enterprise AI investments fail to deliver returns — this 450-page framework shows exactly how the 5% succeed, from governance and ROI to deployment and scale. Based on real engagements including Dell Technologies, Fortune 50 pharma, and U.S. defense agencies.」（https://iternal.ai/・1回目）
+  - 「95% of enterprise AI investments fail.」（https://iternal.ai/・1回目）
+  - 「95% of AI investments fail. Get the chapter that puts you in the」（https://iternal.ai/・1回目）
+  - 「Calculate the return on investment for AirgapAI deployment in your organization.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「95% of AI investments fail. Get the chapter that puts you in the」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「MIT NANDA found that 95% of organizations are getting zero return on their generative AI investment.」（https://iternal.ai/partners・1回目）
+  - 「Directional ROI, NPV and payback for the top use cases, so the client sees what is worth funding.」（https://iternal.ai/partners・1回目）
+  - 「95% of AI investments fail. Get the chapter that puts you in the」（https://iternal.ai/ai-training-for-legal-teams・1回目）
+  - 「95% of AI investments fail. Get the chapter that puts you in the」（https://iternal.ai/ai-team-training・1回目）
+  - 「Of AI investments fail」（https://iternal.ai/careers・1回目）
+  - 「95% of AI investments fail. Get the chapter that puts you in the」（https://iternal.ai/careers・1回目）
+  - 「IP valuation calculator」（https://iternal.ai/ai-for-law-firms・1回目）
+- 存続：
+  - 「The AI Academy runs every learner through the same closed loop until the behavior sticks.」（https://iternal.ai/ai-team-training・1回目）
+  - 「AI legal research grounds answers in the documents a firm already holds: pleadings, transcripts, prior memos, and closed matters. It does not replace Westlaw or Lexis for published authority. On-premise research keeps privileged material and litigation strategy inside the firm while the model reads the case file.」（https://iternal.ai/ai-for-law-firms・1回目）
+  - 「Blockify turns precedent, closed matters, and clause libraries into structured blocks the model retrieves from, so a brief is assembled out of what the firm has actually argued.」（https://iternal.ai/ai-for-law-firms・1回目）
+  - 「Answers "have we done this before" across closed matters and prior memos.」（https://iternal.ai/ai-for-law-firms・1回目）
+  - 「An AI legal assistant is a model that works inside the firm's own material — the matter file, the precedent base, the closed-matter archive — under attorney supervision. The deployment question comes before the feature question: an assistant that routes privileged text to an outside service has changed who holds the client's confidences.」（https://iternal.ai/ai-for-law-firms・1回目）
+  - 「An on-premise assistant answers the first two by construction. Nothing is disclosed outside the firm, so there is no third party retaining prompts and no disclosure to consent to. The third duty stays human: supervision is an attorney's obligation, supported here by an audit trail that lives on firm hardware alongside the documents.」（https://iternal.ai/ai-for-law-firms・1回目）
+  - 「Keep the index inside the firm. A knowledge base built from privileged matters is itself privileged material, so both the distillation and the retrieval have to run on firm hardware. Blockify structures precedent and closed matters into canonical blocks and AirgapAI serves them locally, with access controls mirroring the ethical walls the firm already maintains.」（https://iternal.ai/ai-for-law-firms・1回目）
+  - 「talent acquisition and content」（https://iternal.ai/ai-training-for-hr-teams・1回目）
+  - 「Mergers & Acquisitions Due Diligence:」（https://iternal.ai/case-studies/fortune-200-manufacturing・1回目）
+  - 「Rapidly parse newly acquired company contracts」（https://iternal.ai/case-studies/fortune-200-manufacturing・1回目）
+  - 「Merger and acquisition contract harmonization」（https://iternal.ai/case-studies/top-3-pharmaceutical・1回目）
+  - 「use it has closed. None of our manual-work pages owns this job; the closest thing」（https://iternal.ai/use-cases/legal-services-and-law-firms・1回目）
+- ホワイトラベル明言：
+  - 「A firearms manufacturer deployed white-labeled AirgapAI assistants for 1,300+ law enforcement agencies with chain-of-custody protection.」（https://iternal.ai/case-studies・1回目）
+  - 「Resell, implement, and build complete AI practices powered by the Iternal platform with white-glove enablement.」（https://iternal.ai/about・1回目）
+  - 「Waypoint: a patented RFX rapid response platform that can answer customer questions 17X faster with 40X greater accuracy, powered by Blockify」（https://www.ftei.com/news/future-tech-announces-strategic-global-partnership-with-iternal-technologies/・3回目）
+- OEM・組込み：
+  - 「OpenAI API compatible」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「Every API call and data sync introduces another path for interception or leakage. Air-gapped and low-connectivity environments don't tolerate those risks.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「On-device AI runs the model on the machine in front of you instead of a remote server. On an Intel Core Ultra AI PC the NPU carries the sustained work, including small language models, speech-to-text, translation and embeddings, while the integrated GPU takes larger models and long prompts and the CPU handles retrieval and orchestration.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「Retrieval over local documents (embeddings and vector search)」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「Embedding is short and repetitive, which suits the NPU; the CPU keeps the local index and the file access path.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「Think of AirgapAI Edge as your on-prem, OpenAI-compatible AI service that you can drop into any store, branch, classroom, or factory. It runs a curated stack of open-source models 100% locally on Intel NPU-enabled Windows or Linux edge devices. If you've already built against the OpenAI API in the cloud, you can switch to AirgapAI Edge with no code changes.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「OpenAI-compatible API.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「Delivered as a lightweight software package for OEMs, systems integrators, and enterprises.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「Edge for headless API endpoints」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「Yes. AirgapAI's optional local RAG lets you ground responses in your own documents, indexes, and embeddings—all stored locally. When paired with Blockify, customers see significant gains in retrieval precision and answer quality, with results that are easier to govern and audit.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「One full AI Blueprint Journey: Exploration, Rapid ROI and a Deep Dive with 12 deliverables, editable in Word. Run it with a client you want to win, or on your own company. Start it right after you pay at build.iternal.ai, with the same login as your partner portal.」（https://iternal.ai/partners・1回目）
+  - 「The Test Drive is one full AI Blueprint Journey included with Authorized: General Use Case Exploration, Rapid ROI and a Deep Dive with 12 executive deliverables. Run it with a client you want to win, or on your own company. Start it right after you pay at build.iternal.ai, with the same login as your partner portal. You get one Test Drive per company.」（https://iternal.ai/partners・1回目）
+- 再販制度：
+  - 「AirgapAI Chat gives knowledge workers, analysts, and field personnel a superpower: secure, offline, context-aware AI that they can trust. It runs almost any open-source small LLM, including fine-tuned variants, directly on an Intel Core Ultra AI PC, leveraging the Intel NPU through OpenVINO for acceleration.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「AirgapAI supports a broad set of open-source small LLMs, including fine-tuned variants. You can choose models that fit your latency, memory, and accuracy needs. With OpenVINO, those models are compiled to run efficiently on the Intel NPU inside Intel Core Ultra systems.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「AI Partner Program for MSPs, VARs & IT Consultants | Iternal」（https://iternal.ai/partners・1回目）
+  - 「For MSPs, VARs, systems integrators and IT consultants」（https://iternal.ai/partners・1回目）
+  - 「The Iternal AI Partner Program」（https://iternal.ai/partners・1回目）
+  - 「The Iternal AI Partner Program helps IT services firms start and grow an AI practice. Partners use the AI Blueprint Builder to run an AI strategy session with a client and produce 12 executive deliverables in a few hours, then sell the work that follows. Every partner starts as an Authorized Partner for $250 a year.」（https://iternal.ai/partners・1回目）
+  - 「What is the Iternal AI Partner Program?」（https://iternal.ai/partners・1回目）
+  - 「The Iternal AI Partner Program is a partner program for companies that sell and deliver technology or consulting services to businesses. Iternal supplies the method, the AI Blueprint Builder, training and proposal support. Your team runs AI strategy sessions with clients and sells the services, software and hardware those plans call for. Iternal earns when your clients move forward.」（https://iternal.ai/partners・1回目）
+  - 「MSPs, VARs, systems integrators, and IT and business-transformation consultants」（https://iternal.ai/partners・1回目）
+  - 「Buy Authorized in the partner portal by card, or through your distributor」（https://iternal.ai/partners・1回目）
+  - 「The Iternal AI Partner Program is for companies that sell technology or consulting services to other businesses. Team size does not matter: one fee covers everyone on your company email domain.」（https://iternal.ai/partners・1回目）
+  - 「MSPs and VARs new to AI」（https://iternal.ai/partners・1回目）
+- 日本対応：
+  - 「Buy Authorized in the partner portal by card, or through your distributor」（https://iternal.ai/partners・1回目）
+  - 「Paying by purchase order? Choose “Buy through your distributor” at checkout.」（https://iternal.ai/partners・1回目）
+  - 「Buy through your distributor」（https://iternal.ai/partners・1回目）
+  - 「Do I need to sell Dell or buy through a distributor?」（https://iternal.ai/partners・1回目）
+  - 「No Dell relationship is required. Pay by card, or choose “Buy through your distributor” at checkout to use a purchase order. Your price list covers every route to market.」（https://iternal.ai/partners・1回目）
+  - 「Pay $250 by card, or choose “Buy through your distributor.”」（https://iternal.ai/partners・1回目）
+- 顧客：
+  - 「Trusted by enterprise AI leaders」（https://iternal.ai/・1回目）
+  - 「systems — one platform, from edge to core. It is trusted by Fortune 500 enterprises, government contractors, and defense organizations, and reaches the market through 100+ partners and 30,000+ sellers alongside partners like Intel, Dell, NVIDIA, HPE, Accenture, and Deloitte.」（https://iternal.ai/・1回目）
+  - 「Yes. AirgapAI's optional local RAG lets you ground responses in your own documents, indexes, and embeddings—all stored locally. When paired with Blockify, customers see significant gains in retrieval precision and answer quality, with results that are easier to govern and audit.」（https://iternal.ai/airgapai-intel-partnership-for-edge・1回目）
+  - 「The Iternal AI Partner Program is a partner program for companies that sell and deliver technology or consulting services to businesses. Iternal supplies the method, the AI Blueprint Builder, training and proposal support. Your team runs AI strategy sessions with clients and sells the services, software and hardware those plans call for. Iternal earns when your clients move forward.」（https://iternal.ai/partners・1回目）
+  - 「Clients ask about AI and you have no AI offer yet」（https://iternal.ai/partners・1回目）
+  - 「Companies that want an AI strategy only for themselves and do not serve clients. Our partners deliver that.」（https://iternal.ai/partners・1回目）
+  - 「Authorized is the low-cost way to start. Iternal earns when your clients move forward: from the monthly plans, from AirgapAI and AI Blueprint sales you make, and from work Iternal does as your subcontractor.」（https://iternal.ai/partners・1回目）
+  - 「What partners and their clients say」（https://iternal.ai/partners・1回目）
+  - 「“I am about to go ballistic on this blueprint. I am proactively inviting my customers to do it now.”」（https://iternal.ai/partners・1回目）
+  - 「A press-release template, the right to say “{Your company} is an Iternal Authorized Partner,” and an AI strategy giveaway page for your customers.」（https://iternal.ai/partners・1回目）
+  - 「$50K Iternal revenue + 1 case study」（https://iternal.ai/partners・1回目）
+  - 「$100K + 1 case study」（https://iternal.ai/partners・1回目）
+- 検索結果の抜粋：
+  - 「The Iternal Origin Story — Why We Built Secure, Local AI — The Iternal Origin Story — Why We Built Secure, Local AI Iternal AI https://iternal.ai > origin-story」（https://iternal.ai/origin-story・3回目）
+  - 「ITernal Group | LinkedIn — ITernal Group | LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/iternal-group・3回目）
+  - 「Iternal Technologies - Crunchbase Company Profile & Funding — Iternal Technologies - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > iternal...」（https://www.crunchbase.com/organization/iternal-technologies・3回目）
+  - 「Iternal — Enterprise AI Consulting, Executive AI Training & AI ... — Iternal — Enterprise AI Consulting, Executive AI Training & AI ... Iternal AI https://iternal.ai」（https://iternal.ai/・3回目）
+  - 「AI Partner Program for MSPs, VARs & IT Consultants | Iternal — AI Partner Program for MSPs, VARs & IT Consultants | Iternal Iternal AI https://iternal.ai > partners」（https://iternal.ai/partners・3回目）
+  - 「Press Release: Iternal Technologies brings Turnkey AI to the ... — Press Release: Iternal Technologies brings Turnkey AI to the ... Vcinity https://vcinity.io > News > Press Release」（https://vcinity.io/news/blog-iternal-technologies-brings-turnkey-ai-to-the-startup-market-to-drive-growth-for-vcinity/・3回目）
+  - 「Iternal Technologies - Headcount, Funding & Open Jobs ... — Iternal Technologies - Headcount, Funding & Open Jobs ... Crustdata https://crustdata.com > company > ite...」（https://crustdata.com/profiles/company/iternal-technologies・3回目）
+- 株主：記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）
+- 設立：記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）
+- 黒字・収益性：記載なし（3回確認済み：公式28頁／PDF・画像5件／外部60頁・検索20回）
+
+## LLM Machines
+- 公式URL：https://llm-machines.com（given）
+- 株主構成：
+  - 「Integrate customer-owned applications only through a bounded engagement with explicit post-handoff ownership.」（https://llm-machines.com/・1回目）
+  - 「A practical checklist for private AI buyers: deployment location, operating authority, model updates, application ownership, acceptance, and capacity.」（https://llm-machines.com/blog/・1回目）
+- 黒字・収益性：
+  - 「A small technical team configuring and operating managed private inference for European enterprises. Bootstrapped on conviction.」（https://llm-machines.com/・1回目）
+  - 「Bootstrapped with product focus.」（https://llm-machines.com/company/・1回目）
+- 売上：
+  - 「A hosted inference API can be a sensible starting point. The provider operates the serving infrastructure, and the customer can begin without buying a server. The terms for model availability, processing, usage limits and support become part of the selection. For a workload used occasionally, that arrangement may be easier to justify than maintaining dedicated capacity.」（https://llm-machines.com/blog/introducing-llm-machines-private-inference/・1回目）
+  - 「The support and recovery responsibilities, including the access needed to carry them out.」（https://llm-machines.com/blog/introducing-llm-machines-private-inference/・1回目）
+  - 「LLM Machines' role is to put a supported inference configuration into that operating arrangement and keep it maintained. The customer retains control of its infrastructure and the decisions reserved to it. We provide workload discovery, sizing recommendations, configuration and ongoing support for the agreed inference environment, with a documented API for the applications the customer chooses.」（https://llm-machines.com/blog/introducing-llm-machines-private-inference/・1回目）
+- OEM・組込み：
+  - 「Chat Completions is the documented API protocol your favourite apps and harnesses use to access approved local models.」（https://llm-machines.com/・1回目）
+  - 「Models, API traffic, credentials and operational records stay inside the customer-controlled perimeter.」（https://llm-machines.com/・1回目）
+  - 「Provider-specific APIs, model choices and policy controls can make switching costly. A documented API contract and portable components reduce that dependency.」（https://llm-machines.com/・1回目）
+  - 「Connect the applications and harnesses your teams already know through the documented API. Outcome-led integration consulting is scoped separately when needed.」（https://llm-machines.com/・1回目）
+  - 「A documented API contract, portable models, upstream-licensed third-party components and signed offline release and recovery paths support portability and operational control.」（https://llm-machines.com/・1回目）
+  - 「Chat Completions is the documented API protocol they use to access approved local models, with stable credentials and tool-call transport.」（https://llm-machines.com/・1回目）
+  - 「Documented API + internal-use rights to first-party Product source」（https://llm-machines.com/・1回目）
+  - 「API credentials, approved model access, a documented API contract and a responsibility handoff for customer-owned applications.」（https://llm-machines.com/・1回目）
+  - 「Identity federation, inference policies, API credentials and operational Console configuration.」（https://llm-machines.com/・1回目）
+  - 「API handoff, isolation, backup and recovery tests, operational acceptance and ongoing maintenance.」（https://llm-machines.com/・1回目）
+  - 「Short answers for teams comparing on-prem AI, private AI platforms and cloud LLM APIs.」（https://llm-machines.com/・1回目）
+  - 「No. Nothing leaves your infrastructure. Models, API traffic, credentials and operational records remain inside your perimeter.」（https://llm-machines.com/・1回目）
+- 再販制度：
+  - 「From workload sizing and distributor-backed Supermicro procurement to inference configuration, observability, updates and recovery.」（https://llm-machines.com/・1回目）
+  - 「Distributor-backed Supermicro procurement.」（https://llm-machines.com/・1回目）
+  - 「We size enterprise Supermicro infrastructure and coordinate fulfilment through a distributor-backed channel.」（https://llm-machines.com/・1回目）
+  - 「Workload sizing, model selection, capacity planning and distributor-backed Supermicro procurement.」（https://llm-machines.com/・1回目）
+  - 「Sized · distributor-backed · customer-controlled」（https://llm-machines.com/・1回目）
+  - 「Enterprise infrastructure sized by LLM Machines and fulfilled through a distributor-backed procurement channel.」（https://llm-machines.com/・1回目）
+  - 「Discovery, workload sizing, infrastructure design and distributor-backed procurement planning.」（https://llm-machines.com/・1回目）
+  - 「Organisations compare variable cloud consumption with capacity they can plan and control on their own hardware.」（https://llm-machines.com/・1回目）
+  - 「Deployment follows a documented sequence covering discovery, sizing, distributor-backed procurement, installation, inference configuration, API handoff and operational acceptance.」（https://llm-machines.com/・1回目）
+  - 「A dedicated system sized for your workloads, sourced through our distributor-backed channel and configured for your environment.」（https://llm-machines.com/pricing/・1回目）
+  - 「Systems engineering, software development and infrastructure operations in one team. We size the environment, coordinate distributor-backed Supermicro procurement and support the service end to end.」（https://llm-machines.com/company/・1回目）
+- 日本対応：
+  - 「From workload sizing and distributor-backed Supermicro procurement to inference configuration, observability, updates and recovery.」（https://llm-machines.com/・1回目）
+  - 「Distributor-backed Supermicro procurement.」（https://llm-machines.com/・1回目）
+  - 「We size enterprise Supermicro infrastructure and coordinate fulfilment through a distributor-backed channel.」（https://llm-machines.com/・1回目）
+  - 「Workload sizing, model selection, capacity planning and distributor-backed Supermicro procurement.」（https://llm-machines.com/・1回目）
+  - 「Sized · distributor-backed · customer-controlled」（https://llm-machines.com/・1回目）
+  - 「Enterprise infrastructure sized by LLM Machines and fulfilled through a distributor-backed procurement channel.」（https://llm-machines.com/・1回目）
+  - 「Discovery, workload sizing, infrastructure design and distributor-backed procurement planning.」（https://llm-machines.com/・1回目）
+  - 「Deployment follows a documented sequence covering discovery, sizing, distributor-backed procurement, installation, inference configuration, API handoff and operational acceptance.」（https://llm-machines.com/・1回目）
+  - 「A dedicated system sized for your workloads, sourced through our distributor-backed channel and configured for your environment.」（https://llm-machines.com/pricing/・1回目）
+  - 「Systems engineering, software development and infrastructure operations in one team. We size the environment, coordinate distributor-backed Supermicro procurement and support the service end to end.」（https://llm-machines.com/company/・1回目）
+- 顧客：
+  - 「To make sovereign AI practical through infrastructure customers control and an inference service they can operate with confidence.」（https://llm-machines.com/・1回目）
+  - 「To make sovereign AI practical through infrastructure customers control and a private inference service they can operate with confidence.」（https://llm-machines.com/company/・1回目）
+  - 「Building without external capital keeps the team focused on a compact service, clear operating boundaries and capabilities customers can run reliably.」（https://llm-machines.com/company/・1回目）
+  - 「The processing and storage locations, including those used by the application.」（https://llm-machines.com/blog/introducing-llm-machines-private-inference/・1回目）
+- 検索結果の抜粋：
+  - 「On-Prem Inference Architecture - LLM Machines — On-Prem Inference Architecture - LLM Machines llm-machines.com https://llm-machines.com > technology」（https://llm-machines.com/technology/・3回目）
+- 創業年度：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）
+- 株主：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）
+- 設立：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）
+- 資金調達：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）
+- 存続：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）
+- ホワイトラベル明言：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）
+
+## Lemony
+- 公式URL：https://www.lemony.ai（given）
+- 創業年度：
+  - 「Lemony Inc. is the company behind cascadeflow. Founded in 2023 and based in New York with a presence in Zurich, Switzerland, Lemony builds the runtime intelligence layer for agentic AI — the software that governs the decisions AI agents make as they do real work.」（https://www.lemony.ai/・1回目）
+  - 「We’re a small, female-founded independent Australian brand, constantly evolving to make our tiny imprint on Australian fashion and design.」（https://www.lemonybrands.com/pages/about-us?srsltid=AYCX9vKxoJ4b2Q5qK6FGANMRfnQT8gYbwBpVMEVjetJ6SDVLZcRpsEjN・3回目）
+- 売上：
+  - 「The name Setouchi Lemon also conveys a statement about its distinct flavor. A Setouchi Lemon is a variety of the modern lemon, which is believed to have first arrived in Japan in 1898 at the old trading port of」（https://thesetouchicookbook.com/article/setouchi-lemon・3回目）
+  - 「rice crackers and lemon squid chips, and an endless array of lemon sweets, with the most famous being」（https://thesetouchicookbook.com/article/setouchi-lemon・3回目）
+  - 「However, it's not suitable for carrying around, so I keep mine next to my desk or by my bed. 'Lemony Flutter' is perfect as a hand cream right before sleep! The feeling of it staying moist and protecting my hands until morning is irresistible.」（https://note.com/minamiyan/n/n019f7a53683f?hl=en・3回目）
+- 資金調達：
+  - 「// Partners & Investors」（https://www.lemony.ai/・1回目）
+- 存続：
+  - 「Traditional banks are slow, local and closed outside business hours. Lemony is built for how you operate: multi-currency accounts, as many cards as your team needs, payments that settle in seconds, and online collection through checkout and payment links. Everything managed from one dashboard, available 24/7.」（https://lemony.cash/about・3回目）
+- 再販制度：
+  - 「Ask anyone in Japan what they know about the Setouchi region and they will invariably say “Setouchi Lemon.” It’s one of the country’s few foods branded by the location in which it’s produced, with a name that conjures up images of the blissfully sunny, island-filled Seto Inland Sea.」（https://thesetouchicookbook.com/article/setouchi-lemon・3回目）
+  - 「The name Setouchi Lemon also conveys a statement about its distinct flavor. A Setouchi Lemon is a variety of the modern lemon, which is believed to have first arrived in Japan in 1898 at the old trading port of」（https://thesetouchicookbook.com/article/setouchi-lemon・3回目）
+- 日本対応：
+  - 「Ask anyone in Japan what they know about the Setouchi region and they will invariably say “Setouchi Lemon.” It’s one of the country’s few foods branded by the location in which it’s produced, with a name that conjures up images of the blissfully sunny, island-filled Seto Inland Sea.」（https://thesetouchicookbook.com/article/setouchi-lemon・3回目）
+  - 「Lemons can be found everywhere across the Setouchi, as the region accounts for nearly all of the lemons grown in Japan. The most famous growing areas are the islands of Hiroshima prefecture. Here, over 60% of Japan’s lemons are produced, with the islands of Ikuchijima and Takaneshima in the」（https://thesetouchicookbook.com/article/setouchi-lemon・3回目）
+  - 「The name Setouchi Lemon also conveys a statement about its distinct flavor. A Setouchi Lemon is a variety of the modern lemon, which is believed to have first arrived in Japan in 1898 at the old trading port of」（https://thesetouchicookbook.com/article/setouchi-lemon・3回目）
+  - 「Lemons ready to be shipped to other parts of Japan from Ocho port on Osaki Shimojima Island.」（https://thesetouchicookbook.com/article/setouchi-lemon・3回目）
+  - 「A high concentration of citric acid is one of a number of benefits that has made lemons a staple of the Japanese pantry. Lemons are more acidic than Japan’s native sour citrus. All foods, especially vegetables, have some citric acid in them, which is why they taste better when this is intensified with a spritz of lemon juice.」（https://thesetouchicookbook.com/article/setouchi-lemon・3回目）
+- 検索結果の抜粋：
+  - 「Lemony Inc. — Lemony Inc. lemony.ai https://www.lemony.ai」（https://www.lemony.ai/・3回目）
+  - 「DISCOVER – Lemony — DISCOVER – Lemony lemonybrands.com https://www.lemonybrands.com > pages」（https://www.lemonybrands.com/pages/about-us?srsltid=AYCX9vKxoJ4b2Q5qK6FGANMRfnQT8gYbwBpVMEVjetJ6SDVLZcRpsEjN・3回目）
+  - 「Neo Banking for Global Businesses - Lemony — Neo Banking for Global Businesses - Lemony lemony.cash https://lemony.cash > about」（https://lemony.cash/about・3回目）
+  - 「LEMONY — LEMONY lemony-design.com https://www.lemony-design.com」（https://www.lemony-design.com/・3回目）
+  - 「LEMONY Definition & Meaning - Merriam-Webster — LEMONY Definition & Meaning - Merriam-Webster Merriam-Webster https://www.merriam-webster.com > l...」（https://www.merriam-webster.com/dictionary/lemony・3回目）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
+- 設立：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
+- 株主構成：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
+- 黒字・収益性：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
+- ホワイトラベル明言：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
+- OEM・組込み：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
+- 顧客：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）
 
 ## Maintastic
 - 公式URL：https://maintastic.com（given）
@@ -1259,6 +1622,72 @@
 - 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
 - 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部44頁・検索14回）
 
+## SE Technical
+- 公式URL：https://www.setechnical.net（given）
+- 株主構成：
+  - 「We are always glad to meet sharp people who take ownership of their work. Send us your resume and tell us what you would want to own, and we will keep you in mind as roles open up.」（https://www.setechnical.net/careers/・1回目）
+  - 「Stakeholder engagement deepens when people understand the risks mitigated and opportunities opened up by compliance. Transparent, ongoing communication prevents resistance and builds ownership.」（https://www.setechnical.net/case-studies/engineering-firm-secured-contract-it-compliance/・1回目）
+- 創業年度：
+  - 「Southeastern Technical has kept businesses across Greater Atlanta and north Georgia running since 1999. We move fast, build smart, and treat technicians like the force multipliers they are.」（https://www.setechnical.net/careers/・1回目）
+- 黒字・収益性：
+  - 「Can The Right Technology Choices Make Your Business More Profitable?」（https://www.setechnical.net/blog/category/it-management/・1回目）
+  - 「Business technology can be expensive. But, if it can make your business more profitable, it’s worth it. Is it time to see what technology could grow your business?」（https://www.setechnical.net/blog/category/it-management/・1回目）
+- 売上：
+  - 「Automation That Stopped Lost Sales Leads」（https://www.setechnical.net/case-studies/・1回目）
+  - 「A custom automation captured every website lead and made the sales team measurably more effective.」（https://www.setechnical.net/case-studies/・1回目）
+  - 「Sales & Client Success」（https://www.setechnical.net/careers/・1回目）
+  - 「Tell us what your firm is dealing with and we will get back to you. No obligation, and no sales sequence.」（https://www.setechnical.net/professional-services/・1回目）
+  - 「As far as we can tell that makes us one of very few MSPs doing it this way, and we have not yet come across another one locally. The common arrangement is that your IT company sells you IT, and compliance is somebody else’s product that you buy, learn and run on your own time.」（https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/・1回目）
+  - 「Compliance work is unglamorous, it does not scale the way ticket work does, and it carries a liability tail. An IT company that writes your risk analysis has put its name on something an investigator may read. Most providers look at that and decide the safer commercial position is to install the controls, sign the agreement, and let the practice carry the documentation burden.」（https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/・1回目）
+  - 「We think that reasoning gets the risk backwards. The practice carrying it alone is exactly how a practice ends up with a three-year-old risk analysis, a training log nobody updated, and a vendor list that omits the two companies most likely to cause a breach. We would rather be accountable for the part we are actually qualified to be accountable for.」（https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/・1回目）
+  - 「If the answers are “you do”, “you do”, “we would help where we can” and “that would be extra”, you have the common arrangement. It is not negligent and it is not unusual. It is just a long way from what your practice actually needs on the day it matters.」（https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/・1回目）
+  - 「Both. If you are a billing company, an IT provider or another vendor handling patient data, you carry your own HIPAA obligations. ComplianceAX has a separate assessment built for business associates so you are not skipping past questions about exam rooms.」（https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/・1回目）
+  - 「Tell us where your compliance or IT situation stands and we will get back to you. No obligation, and no sales sequence.」（https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/・1回目）
+  - 「Because every card carries an owner and a history, nothing is anonymous. You can always see which virtual employee did which piece of work, when it moved, and who reviewed it, the same accountability you’d want from a human team, applied to the AI ones, and only possible because they don’t get a private place to work where the trail goes cold.」（https://www.setechnical.net/artificial-intelligence/how-ai-ranks-our-technicians-day/・1回目）
+  - 「Every card carries a simple red / yellow / green flag, green is on track, yellow is slipping, red needs attention now. You don’t read a status report to find the trouble; the trouble is the red card, right there. Five seconds with the board tells you where the team is healthy and where something’s about to fall over, whether the owner of that card is a person or a dog.」（https://www.setechnical.net/artificial-intelligence/how-ai-ranks-our-technicians-day/・1回目）
+- 資金調達：
+  - 「Are Managed IT Services a worthwhile investment? What return can a business expect to experience if they hire a Managed IT Provider? How does an MSP help a business realize IT cost savings, increased productivity, improved security and scalability?」（https://www.setechnical.net/blog/category/case-studies/・1回目）
+  - 「Are Managed IT Services a worthwhile investment? What return can a business expect to experience if they hire a Managed IT Provider? How does an MSP help a business realize IT cost savings, increased productivity, improved security and scalability?」（https://www.setechnical.net/blog/category/it-management/・1回目）
+  - 「Despite these gaps, the firm had two major advantages: a stable IT foundation, and leadership that saw compliance not as a burden, but as a strategic investment. Their decision to act early, and to trust their IT partner to lead a structured compliance initiative, turned a potential roadblock into a business advantage.」（https://www.setechnical.net/case-studies/engineering-firm-secured-contract-it-compliance/・1回目）
+- OEM・組込み：
+  - 「One capital purchase, then the cost of electricity. Run the queue 24 / 7 with no usage bill.」（https://www.setechnical.net/・1回目）
+  - 「ChatGPT, GPT API」（https://www.setechnical.net/・1回目）
+  - 「you own, your records, financials, and PHI never leave your network and never touch a third-party API. You get frontier-class productivity without handing your data to a company you've never met.」（https://www.setechnical.net/・1回目）
+  - 「Capitalize on Big Opportunity」（https://www.setechnical.net/blog/category/case-studies/・1回目）
+  - 「A rapidly growing company reduces risk and gains help standardizing the onboarding and offboarding processes.」（https://www.setechnical.net/blog/category/case-studies/・1回目）
+  - 「Capitalize on Big Opportunity」（https://www.setechnical.net/blog/category/compliance/・1回目）
+  - 「A rapidly growing company reduces risk and gains help standardizing the onboarding and offboarding processes.」（https://www.setechnical.net/blog/category/it-management/・1回目）
+  - 「Capitalize on Big Opportunity | SE Technical」（https://www.setechnical.net/case-studies/capitalize-on-big-opportunity/・1回目）
+  - 「Capitalize on Big Opportunity」（https://www.setechnical.net/case-studies/capitalize-on-big-opportunity/・1回目）
+  - 「A rapidly growing company reduces risk and gains help standardizing the onboarding and offboarding processes.」（https://www.setechnical.net/case-studies/standardize-onboarding-offboarding/・1回目）
+  - 「#3, Constantly develop and evolve your strategy, be willing to change rapidly.」（https://www.setechnical.net/technology-roi/5-myths-about-business-technology/・1回目）
+- 再販制度：
+  - 「There are lots of details to consider in your backup plan, like whether you need to back up all individual workstations or just servers, as well as how frequent you need to back up and how quickly you need to be able to retrieve a copy of those backups. Factors like these will influence the pricing of your backup package, which can vary widely.」（https://www.setechnical.net/it-management/what-should-be-included-in-a-managed-it-services-package/・1回目）
+  - 「you, instead of just reselling you a cloud subscription you could have bought yourself.」（https://www.setechnical.net/artificial-intelligence/meet-the-dog-pack-how-our-ai-virtual-employees-work/・1回目）
+  - 「We didn’t read about this in a whitepaper. We built a coordinated team of AI workers to run parts of our own operation, and we know precisely where the coordination earns its keep and where a human still has to decide. That hard-won judgment is the thing we bring, not a product we resell, a practice we live.」（https://www.setechnical.net/artificial-intelligence/orchestrating-a-team-of-ai-agents/・1回目）
+- 顧客：
+  - 「Trusted by Practices and Businesses Across」（https://www.setechnical.net/・1回目）
+  - 「With 27 years of providing managed IT services in the Atlanta and north Georgia area, Southeastern Technical has developed a culture and a way of doing business that helps our clients grow, without having to worry about infrastructure, while aligning with internal strategies, solving existing problems, and delivering support that's actually responsive.」（https://www.setechnical.net/company-about-us/・1回目）
+  - 「Years before we started building AI for clients, we built one to run our own MSP. It reads every incoming ticket, weighs urgency against context, ranks the queue, and quietly nudges the right technician at the right moment, non-stop, on hardware we own, without ever sending a customer record to a third party.」（https://www.setechnical.net/company-about-us/・1回目）
+  - 「We thrive on delivering excellent IT solutions and support for businesses in the Atlanta and north Georgia areas. We only succeed when our clients do, so we hold our work to that standard.」（https://www.setechnical.net/company-about-us/・1回目）
+  - 「We're more than just a managed services provider. We love partnering with our customers to solve both common IT challenges and unique business problems, turn-key, so you can focus on growing.」（https://www.setechnical.net/company-about-us/・1回目）
+  - 「Most IT providers sign a business associate agreement and leave HIPAA compliance to the practice or refer it to a separate vendor. Southeastern Technical bundles it into managed services for medical and dental clients, and answers the vendor questions inside your assessment ourselves.」（https://www.setechnical.net/blog/・1回目）
+  - 「Based in Buford, GA, serving clients across Greater Atlanta and north Georgia.」（https://www.setechnical.net/careers/・1回目）
+  - 「Providing Managed IT and Healthcare IT Solutions to practices and businesses across Greater Atlanta and north Georgia for over 27 years. Our clients appreciate our responsiveness, commitment to excellence and turn-key solutions.」（https://www.setechnical.net/blog/category/company-news/・1回目）
+  - 「Most IT providers sign a business associate agreement and leave HIPAA compliance to the practice or refer it to a separate vendor. Southeastern Technical bundles it into managed services for medical and dental clients, and answers the vendor questions inside your assessment ourselves.」（https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/・1回目）
+  - 「We went through the Compliancy Group certification process ourselves. Our technicians are HIPAA trained. The documentation we produce for clients is the documentation we have had to stand behind for our own organization.」（https://www.setechnical.net/medical-practices/why-your-it-company-should-handle-hipaa-compliance/・1回目）
+  - 「Case Study: A fast-growing developer of advertising technology using mixed platforms becomes SOC-2 compliant in 60 days.」（https://www.setechnical.net/blog/category/case-studies/・1回目）
+  - 「Case Study: A custom invoicing and billing solutions for one client resulted in a huge reduction in time spent doing tedious data entry and admin tasks.」（https://www.setechnical.net/blog/category/case-studies/・1回目）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）
+- 存続：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）
+- ホワイトラベル明言：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）
+- 日本対応：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部57頁・検索20回）
+
 ## SensFlo
 - 公式URL：https://www.sensflo.ai（given）
 - 株主構成：
@@ -1666,6 +2095,142 @@
 - 売上高：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）
 - 代表者：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部49頁・検索20回）
 
+## Zylon
+- 公式URL：https://www.zylon.ai（given）
+- 創業年度：Founded：2023（https://startupintros.com/orgs/zylon・3回目）
+- 所在地：Valdemorillo, Madrid, Spain（https://startupintros.com/orgs/zylon・3回目）
+- 株主構成：
+  - 「also corroborates energy and CO2 savings of 30 to 50 percent with accuracy retained. Fewer GPUs mean lower energy draw and lower capital expenditure, and Zylon caps software cost. For organizations facing high energy prices alongside EU AI Act and ESG obligations, that is a total-cost-of-ownership case rather than just a compliance obligation.」（https://www.zylon.ai/resources/blog/multiverse-computing-and-zylon-partner-to-deliver-sovereign-efficient-ai-inside-europe-s-regulated-industries・1回目）
+  - 「This is one of the biggest reasons AI pilots fail. A team takes a workflow that is already held together by manual steps, unclear ownership, outdated documents, and ad hoc approvals, then adds an AI layer on top. The result is not transformation. It is a faster version of the same mess.」（https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026・1回目）
+  - 「Week 4: Move approved prompts into controlled production with versioning and ownership.」（https://www.zylon.ai/resources/blog/prompt-engineering-basics-for-enterprise-teams-a-plain-language-explainer・1回目）
+  - 「Potentially true, but only if you can sustain operational control over time. Building without long-term ownership capacity often produces less control in practice, not more.」（https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams・1回目）
+  - 「If your organization has mature platform operations, clear long-term ownership, and high differentiation requirements, build may be defensible.」（https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams・1回目）
+  - 「Zylon's investors include SNR, Talis Capital.」（https://startupintros.com/orgs/zylon・3回目）
+  - 「: Made a mistake in the chat? No problem! You can now delete and edit your last messages in private and collaborative chats, giving you more control over your conversation history and reducing friction when refining your inputs.」（https://docs.zylon.ai/en/v1.57/changelog/overview・3回目）
+  - 「Transfer project ownership」（https://docs.zylon.ai/en/v1.57/changelog/overview・3回目）
+  - 「In case you want to stop being the owner of a project, you can now transfer the ownership to a different user.」（https://docs.zylon.ai/en/v1.57/changelog/overview・3回目）
+- 創業年度：
+  - 「, remote but founded in Madrid, Spain, is announcing exclusively via VentureBeat a $3.2 million pre-seed funding round and the public availability of its enterprise-grade, easy-to-use, flexible generative AI web workspace.」（https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs・3回目）
+  - 「Zylon was co-founded in 2023 by Iván Martínez Toro and Daniel Gallego Vico, previously the co-creators of」（https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs・3回目）
+  - 「Founded in 2006, Felicis Ventures is a venture capital firm based in Menlo Park, California. The firm seeks to invest across all industries and sectors.」（https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/・3回目）
+  - 「マイアミで開催されたeMerge Americasでライブ収録されたこの「Regulating AI Podcast」のエピソードでは、Zylonの共同創業者兼CEOであるイヴァン・マルティネス氏が登場します」（https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja・3回目）
+  - 「Since 2001 Zylon tethers are used in」（https://en.wikipedia.org/wiki/Zylon・3回目）
+- 黒字・収益性：
+  - 「Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.」（https://getlatka.com/companies/zylon.ai・3回目）
+  - 「, a non-profit organization.」（https://en.wikipedia.org/wiki/Zylon・3回目）
+- 売上：
+  - 「Salesforce, SAP, Microsoft Dynamics」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「warrant that any such Submission are original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and」（https://www.zylon.ai/legal/terms-and-conditions・1回目）
+  - 「warrant and represent that your Submissions do not constitute confidential information.」（https://www.zylon.ai/legal/terms-and-conditions・1回目）
+  - 「Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.」（https://www.zylon.ai/legal/terms-and-conditions・1回目）
+  - 「AI literacy should be organization-wide. Finance, HR, legal, marketing, sales, operations, product, engineering, and leadership all need a shared vocabulary. Without it, teams talk past each other. One group sees AI as a search engine. Another sees it as automation. Another sees it as a compliance risk. Another sees it as a writing tool.」（https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026・1回目）
+  - 「Take a recurring report. A customer response. A procurement comparison. A policy update. A sales briefing. A technical troubleshooting workflow. Then show how AI changes the work from start to finish.」（https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026・1回目）
+  - 「A sales team should not manually paste call transcripts into an assistant every week to create account briefs. The workflow should ingest the transcript, pull the relevant account context, compare it with the sales methodology, identify open risks, draft the brief, and send it to the account owner for review.」（https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows・1回目）
+  - 「A customer brief might require a CRM record, a call transcript, account notes, past support tickets, pricing information, legal constraints, and company-specific sales guidance.」（https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows・1回目）
+  - 「Zylon | 5x Revenue Growth with hands-on Fractional Sales & LinkedIn Brand Building」（https://thesalesplaybook.com/clients/zylon・3回目）
+  - 「5x Revenue Growth with hands-on Fractional Sales & LinkedIn Brand Building」（https://thesalesplaybook.com/clients/zylon・3回目）
+  - 「Zylon hits 5x revenue」（https://thesalesplaybook.com/clients/zylon・3回目）
+  - 「sales and go-to-market knowledge」（https://thesalesplaybook.com/clients/zylon・3回目）
+- 資金調達：
+  - 「Credit unions, banks, insurance companies, and investment firms. Analyze deals, automate member service inquiries, process loan documents, and run compliance checks—all without sending sensitive financial data to the cloud.」（https://www.zylon.ai/・1回目）
+  - 「Build or Buy a Private AI Platform? The 12-Week Evaluation Playbook for Regulated Teams」（https://www.zylon.ai/resources/blog・1回目）
+  - 「Announcing Zylon's $3.2M Pre-Seed Funding Round」（https://www.zylon.ai/resources/blog・1回目）
+  - 「This includes concepts such as prompting, hallucinations, context windows, retrieval, model limitations, data privacy, evaluation, and human oversight. Employees do not need to become AI engineers, but they do need to understand enough to avoid naive usage.」（https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026・1回目）
+  - 「Orgvue research on rising AI investment and workforce design, reported by ITPro」（https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026・1回目）
+  - 「objective drift: what the business needs changes, but the KPI and evaluation set stay frozen」（https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams・1回目）
+  - 「This is where private AI platform design matters. Teams need consistent control over model versioning, retrieval pipelines, evaluation logs, and deployment boundaries. Without that control, monitoring becomes a collection of disconnected tools and spreadsheets. With that control, monitoring becomes an operating loop.」（https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams・1回目）
+  - 「the build-vs-buy evaluation post」（https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams・1回目）
+  - 「Zylon, March 9, 2026, "Build or Buy a Private AI Platform? The 12-Week Evaluation Playbook for Regulated Teams" —」（https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams・1回目）
+  - 「https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams」（https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams・1回目）
+  - 「Prompting for “best answer” without defining evaluation criteria.」（https://www.zylon.ai/resources/blog/prompt-engineering-basics-for-enterprise-teams-a-plain-language-explainer・1回目）
+  - 「Build or Buy a Private AI Platform? The 12-Week Evaluation Playbook for Regulated Teams - Zylon Blog」（https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams・1回目）
+- 存続：
+  - 「, a security research firm. Both were responsibly disclosed and patched. But what they revealed about how organisations are deploying AI deserves more attention than a patch note.」（https://www.zylon.ai/resources/blog/your-ai-has-a-new-attack-surface.-most-security-teams-don-t-know-it-exists.・1回目）
+  - 「For those who are still in that exploratory phase — especially those businesses that are outside of Silicon Valley and the tech industry — a new startup has emerged to offer a path forward to harnessing generative AI, even without any technical know-how.」（https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs・3回目）
+  - 「As Zylon embarks on this journey, its closed beta presents an exclusive opportunity for early adopters to experience and shape the future of gen AI in the workplace.」（https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs・3回目）
+  - 「Phase 1: Fractional Sales Enablement: Closed key logos & learnt sales.」（https://thesalesplaybook.com/clients/zylon・3回目）
+  - 「Acquisition processes do not scale」（https://thesalesplaybook.com/clients/zylon・3回目）
+  - 「AMDがフェイフェイ・リー氏のWorld Labsを82億ドルで買収」（https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja・3回目）
+  - 「Open vs closed source approach」（https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja・3回目）
+  - 「Connections to database are properly closed to avoid reaching the limit」（https://docs.zylon.ai/en/v1.57/changelog/overview・3回目）
+  - 「Reset custom instructions modal to empty state when it was closed without saving」（https://docs.zylon.ai/en/v1.57/changelog/overview・3回目）
+  - 「and leave their wearers with less protection than expected. Second Chance eventually recalled all of its Zylon vests, which led to its bankruptcy. The company was once able to claim that it held over 50% of the market for law enforcement body armor, all by itself.」（https://en.wikipedia.org/wiki/Zylon・3回目）
+- ホワイトラベル明言：
+  - 「The interface your teams use daily. AI assistant, document creation, knowledge base access, collaborative projects, data integrations and connectors with your existing systems and tools—all powered by your private data.」（https://www.zylon.ai/・1回目）
+  - 「Build domain-specific AI agents powered by your private LLMs, internal knowledge bases, and governed tools. Deploy production-grade agents that operate fully on-premise with controlled model access, secure data retrieval, and multi-step reasoning. Designed for regulated industries where accuracy, attribution, and auditability are mandatory, not optional. Compliant with」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「Extend Zylon with custom tools via MCP. Build specialized capabilities for your domain and make them available to all Zylon users.」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「Powered by Top Rated Local®」（https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/・3回目）
+  - 「Zylon AI core is now powered by agents using different tools depending on the task to solve.」（https://docs.zylon.ai/en/v1.57/changelog/overview・3回目）
+  - 「Now is possible to add a new integration for the Knowledge Base, in case you have a File System powered by SMB.」（https://docs.zylon.ai/en/v1.57/changelog/overview・3回目）
+  - 「We’ve added full whitelabel support, so you can now customize the AI assistant name to match your company branding.」（https://docs.zylon.ai/en/v1.57/changelog/overview・3回目）
+  - 「Whitelabel Zylon Agent」（https://docs.zylon.ai/en/v1.57/operator-manual/configuration/whitelabel・3回目）
+  - 「Zylon has whitelabel support, so you can now customize the AI assistant name to match your company branding.」（https://docs.zylon.ai/en/v1.57/operator-manual/configuration/whitelabel・3回目）
+  - 「Great designs are the perfect way to attract business for your brand, and Zylon’s designers provide you with the best and most innovatively designed website. We believe that your website shouldn’t be yet another usual URL scattered on the web without any traction. Good website design is the most impactful and authoritative marketing tool for your brand’s success.」（https://zylondigital.com/services/branding/・3回目）
+  - 「Craft a compelling narrative that communicates your brand’s essence.」（https://zylondigital.com/services/branding/・3回目）
+  - 「Develop high-quality content that aligns with your brand’s voice.」（https://zylondigital.com/services/branding/・3回目）
+- OEM・組込み：
+  - 「Not a wrapper—a complete AI infrastructure. LLMs, vector search, ingestion, API Gateway, and workspace included.」（https://www.zylon.ai/・1回目）
+  - 「Zylon follows OpenAI and Anthropic API Gateway standards. Integrate with your existing AI tooling, automation workflows, and development environments.」（https://www.zylon.ai/・1回目）
+  - 「Integrated with Zylon Core and API」（https://www.zylon.ai/・1回目）
+  - 「Check out our open positions to join the team that is shaping the future of private AI」（https://www.zylon.ai/company/about・1回目）
+  - 「Governed On-Premise AI API for Regulated Industries | Zylon - API Gateway」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「What the API Gateway Enables」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「Secure API infrastructure for private, on-premise enterprise AI」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「Zylon is an enterprise AI platform delivering private generative AI and on-premise AI software for regulated industries, enabling secure deployment inside enterprise infrastructure without external cloud dependencies. This is everything that's inside of Zylon's API Gateway:」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「Unlike direct integrations with cloud APIs like OpenAI or local inference tools like Ollama, every request through Zylon’s API Gateway is policy-controlled.」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「Private API Gateways for Private AI. Secure by default. No exceptions layer required.」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「Two layers of governed API access for private, on-premise enterprise AI — from low-level AI capabilities to high-level workspace and administrative automation.」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「Zylon follows API standards used by OpenAI and Anthropic」（https://www.zylon.ai/platform/api-gateway・1回目）
+- 再販制度：
+  - 「There may be information on the Services that contains typographical errors, inaccuracies, or omissions, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Services at any time, without prior notice.」（https://www.zylon.ai/legal/terms-and-conditions・1回目）
+  - 「When teams define task, context, constraints, and output format clearly, they reduce variability and increase trust. And when prompt changes are governed like code changes, AI systems become easier to scale safely across finance, healthcare, government and defense, and manufacturing.」（https://www.zylon.ai/resources/blog/prompt-engineering-basics-for-enterprise-teams-a-plain-language-explainer・1回目）
+  - 「Harvard Business Review」（https://www.zylon.ai/resources/blog/the-enterprise-ai-reckoning-why-private-ai-and-on-prem-ai-are-moving-from-edge-case-to-default・1回目）
+  - 「Zylon is available in a variety of media, including filament, chopped fiber, staple fiber, spun yarn, and various fabrics. These materials can be further modified and manufactured to produce any number of useful products.」（https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/・3回目）
+  - 「Industrial Uses: Zylon has a number of uses in the industrial sector. Zylon can be manufactured into heat-resistant felt for a variety of applications. It can be used as a cable cover material for welding machines (since it can protect cords from hot sparks). It can even be found in cement as a reinforcing material.」（https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/・3回目）
+  - 「Sports Equipment: Thanks to Zylon’s strength and rigidity, it’s the ideal material for a variety of sports equipment. You can find Zylon in bike tires, tennis, badminton, and table tennis rackets, bow strings, snowboards, yacht ropes, bike spokes, and even racing cars.」（https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/・3回目）
+  - 「, in various medical applications, and in some of the」（https://en.wikipedia.org/wiki/Zylon・3回目）
+  - 「He then said "Unfortunately, for all involved these results indicated the unexpected decrease in the ZYLON fiber strength. ZYLON fibers in various forms are used widely within our industry. Although inconsistent, these results have led us to where we are today. ULTIMA and ULTIMAX vests, as you know them today, have been discontinued from our product line."」（https://en.wikipedia.org/wiki/Zylon・3回目）
+  - 「combines the advantages of Zylon (strength, resistance to high temperatures, durability, lightweight, etc.) with the electrical properties of various metals. The conductive yarns can be sewn, braided, knit, or simply insulated like a bare wire.」（https://en.wikipedia.org/wiki/Zylon・3回目）
+  - 「We have achieved an outstanding growth for brands in various industries」（https://zylondigital.com/services/branding/・3回目）
+  - 「The timeline varies depending on the scope of the project, but typically it ranges from a few weeks to a few months.」（https://zylondigital.com/services/branding/・3回目）
+  - 「Costs vary based on the specific services and project scope. We provide customized quotes after an initial consultation.」（https://zylondigital.com/services/branding/・3回目）
+- 日本対応：
+  - 「【野村證券の次の稼ぎ方：奥田CEOに聞く】日本買いの３つの理由／過去5年でビジネスモデルを転換／2030年の税前利益5000億円目標／モルスタとの共通点／グローバルが好調な理由／アジアの富裕層を狙う」（https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja・3回目）
+  - 「Generated gases at the temperature of 750 C were measured according to Japanese」（https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf・3回目）
+  - 「Ohtsu, Japan」（https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf・3回目）
+  - 「ZYLON is a registered trademark of Toyobo Co., Ltd. in Japan.」（https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf・3回目）
+- 顧客：
+  - 「Zylon is built by the creators of PrivateGPT—the open-source project with 57,000+ GitHub stars used by Google, Meta, J.P. Morgan, and thousands of developers worldwide. We took that foundation and made it enterprise-ready.」（https://www.zylon.ai/・1回目）
+  - 「Zylon delivers private enterprise AI software for regulated industries, including financial institutions, engineering firms, manufacturing companies, and public-sector organizations. The platform is used by enterprises that manage sensitive or confidential information and must comply with internal security policies, industry regulations, and data sovereignty requirements.」（https://www.zylon.ai/company/about・1回目）
+  - 「Zylon follows API standards used by OpenAI and Anthropic」（https://www.zylon.ai/platform/api-gateway・1回目）
+  - 「Telefónica, serving over 380 million customers globally, selected us to enhance their artificial intelligence offering specifically for enterprises requiring maximum data security and regulatory compliance. The partnership addresses the growing demand for」（https://www.zylon.ai/resources/blog/zylon-partners-with-telef%C3%B3nica-tech-to-revolutionize-private-enterprise-ai-solutions・1回目）
+  - 「Our customers increasingly demand AI solutions that respect data boundaries while delivering transformational productivity gains」（https://www.zylon.ai/resources/blog/zylon-partners-with-telef%C3%B3nica-tech-to-revolutionize-private-enterprise-ai-solutions・1回目）
+  - 「and Zylon today announced a partnership to bring compressed frontier AI models to organizations that cannot share their data externally. Multiverse Computing's AI models will run natively inside Zylon's on-premise platform, giving regulated customers a fully European stack across both the model layer and the infrastructure that serves it.」（https://www.zylon.ai/resources/blog/multiverse-computing-and-zylon-partner-to-deliver-sovereign-efficient-ai-inside-europe-s-regulated-industries・1回目）
+  - 「Enterprise work depends on context: policies, customers, past decisions, internal language, permissions, processes, and business priorities. Without that context, AI can generate fluent outputs that still miss the point.」（https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows・1回目）
+  - 「The week after, the same agent turned its attention to Jack & Jill, a $20M-funded AI recruiter used by Anthropic, Stripe, and Monzo. Four bugs, none critical on their own, chained together into a complete takeover of any company on the platform.」（https://www.zylon.ai/resources/blog/your-ai-has-a-new-attack-surface.-most-security-teams-don-t-know-it-exists.・1回目）
+  - 「The organizations that get this right won't just avoid the next CodeWall write-up. They'll be the ones their clients and regulators trust with the most sensitive workloads — which, as AI becomes more central to how decisions get made, is increasingly where competitive advantage lives.」（https://www.zylon.ai/resources/blog/your-ai-has-a-new-attack-surface.-most-security-teams-don-t-know-it-exists.・1回目）
+  - 「This framework allows Zylon's SMB customers and their end-users, the non-technical employees, to simply upload the documents and files they want gen AI's help with — say, invoices that need processing or transcripts that need editing and summarizing — and then click on buttons that describe the actions they want to take.」（https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs・3回目）
+  - 「Right now, the company is already working with several customers across sectors including healthcare, finance and legal.」（https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs・3回目）
+  - 「Zylonの導入プロセス：ハードウェア調達からデータコネクタ、そして1～2週間の稼働開始まで」（https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja・3回目）
+- 検索結果の抜粋：
+  - 「ザイロン ® | 製品紹介 - TOYOBO MC Corporation — ザイロン ® | 製品紹介 - TOYOBO MC Corporation 東洋紡エムシー https://www.toyobo-mc.jp > products > zylon」（https://www.toyobo-mc.jp/products/zylon/・3回目）
+  - 「Zylon : Funding, Team & Investors | Startup Intros — Zylon : Funding, Team & Investors | Startup Intros Startup Intros https://startupintros.com > orgs > zylon」（https://startupintros.com/orgs/zylon・3回目）
+  - 「Zylon 2026 Company Profile: Valuation, Funding & Investors — Zylon 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/572231-98・3回目）
+  - 「Zylon - 2026 Company Profile, Team, Funding & Competitors — Zylon - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/zylon/__gton1V8CCHqk9xjN0xEqb2NMkrhsgx-ebgDCXp4L_Wk・3回目）
+  - 「Announcing Zylon's $3.2M Pre-Seed Funding Round — Announcing Zylon's $3.2M Pre-Seed Funding Round zylon.ai https://www.zylon.ai > resources > blog」（https://www.zylon.ai/resources/blog/announcing-zylon-s-3.2m-pre-seed-funding-round・3回目）
+  - 「Zylon launches to take away the pain of generative AI ... — Zylon launches to take away the pain of generative AI ... VentureBeat https://venturebeat.com > zylon-launc...」（https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs・3回目）
+  - 「All About Zylon ® - Fiber Brokers International, LLC. — All About Zylon ® - Fiber Brokers International, LLC. Fiber Brokers International https://fiberbrokers.com > all-about-z...」（https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/・3回目）
+  - 「Zylon | 5x Revenue Growth with hands-on Fractional Sales ... — Zylon | 5x Revenue Growth with hands-on Fractional Sales ... SalesPlaybook https://thesalesplaybook.com > zylon」（https://thesalesplaybook.com/clients/zylon・3回目）
+  - 「Zylon by PrivateGPT Revenue 2025: $1.2M Est. - GetLatka — Zylon by PrivateGPT Revenue 2025: $1.2M Est. - GetLatka GetLatka https://getlatka.com > zylon」（https://getlatka.com/companies/zylon.ai・3回目）
+  - 「Zylon - Crunchbase Company Profile & Funding — Zylon - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > zylon-...」（https://www.crunchbase.com/organization/zylon-919e・3回目）
+  - 「Zylon 2026 Company Profile : Valuation, Funding & Investors — Zylon 2026 Company Profile : Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/572231-98・3回目）
+  - 「Zylon Raises $3.2 Million in Pre-Seed Funding — Zylon Raises $3.2 Million in Pre-Seed Funding The SaaS News https://www.thesaasnews.com > news」（https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/・3回目）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像3件／外部62頁・検索20回）
+- 設立：記載なし（3回確認済み：公式14頁／PDF・画像3件／外部62頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像3件／外部62頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像3件／外部62頁・検索20回）
+- 代表者：記載なし（3回確認済み：公式14頁／PDF・画像3件／外部62頁・検索20回）
+
 ## nTop
 - 公式URL：https://www.ntop.com（given）
 - 従業員数：119（https://getlatka.com/companies/ntop.com・3回目）
@@ -1943,3 +2508,63 @@
 - 所在地：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部42頁・検索14回）
 - 売上高：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部42頁・検索14回）
 - 代表者：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部42頁・検索14回）
+
+## インフィニクラウド
+- 公式URL：https://infinicloud.com（given）
+- 従業員数：25名(2025年9月期)（https://ipo.funaisoken.co.jp/blogs/column/20260520・3回目）
+- 売上高：604,318千円(2025年9月期)（https://ipo.funaisoken.co.jp/blogs/column/20260520・3回目）
+- 代表者：瀧康史（https://ipo.funaisoken.co.jp/blogs/column/20260520・3回目）
+- 株主構成：
+  - 「Trademarks Owned by Others」（https://infinicloud.com/en_company_recruit.html・1回目）
+- 創業年度：
+  - 「InfiniCloud株式会社は、2001年の創業以来培ってきた」（https://infinicloud.com/company.html・1回目）
+- 存続：
+  - 「VMwareがBroadcomに買収され、ライセンス体系の大幅な見直しが図られた」（https://infinicloud.com/whitepaper_vmwaredx1.html・1回目）
+  - 「We would like to provide an update on our response to the PHP vulnerabilities (CVE-2026-109618 / CVE-2026-109619) disclosed on October 21, 2026.」（https://infinicloud.com/en_company_news_2026102301.html・1回目）
+- 日本対応：
+  - 「日本型DXとクラウドネイティブ化を成功させるには」（https://infinicloud.com/・1回目）
+  - 「Distributed+: A New Standard for Japan's Cloud」（https://infinicloud.com/en_company.html・1回目）
+  - 「日本のデータを守り、そして活用する」（https://infinicloud.com/company.html・1回目）
+  - 「日本型DXとクラウドネイティブ化を成功させるには」（https://infinicloud.com/whitepaper.html・1回目）
+  - 「増大するクラウドコストを大幅削減！鍵となる日本型ハイブリッドクラウドとは」（https://infinicloud.com/whitepaper.html・1回目）
+  - 「〜"日本型"ハイブリッドクラウドで実現するITコストの削減とは〜」（https://infinicloud.com/whitepaper_strongdollar.html・1回目）
+  - 「記録的な円安の状況下で、日本企業にとって、ITコストが当初の想定を越える規模に膨大に膨れ上がっている」（https://infinicloud.com/whitepaper_strongdollar.html・1回目）
+  - 「このホワイトペーパーでは為替に影響されるITコストの削減を、日本の企業にマッチした”日本型”ハイブリッドクラウドの側面で紹介する」（https://infinicloud.com/whitepaper_strongdollar.html・1回目）
+  - 「日本型DXとクラウドネイティブ化を成功させるには」（https://infinicloud.com/whitepaper_liftshift.html・1回目）
+  - 「日本企業にもっとも適合したソフトランディング施策は、「リフト＆シフト」ではないかと考えている情報システム担当も多い」（https://infinicloud.com/whitepaper_liftshift.html・1回目）
+  - 「では「リフト＆シフト」とは、一体、何なのか？ このホワイトペーパーでは、いまさら人には聞けなくなった「リフト＆シフト」を、経産省の DX レポートと対比しながら、日本企業にとって最適な出口戦略はなにかを考えたい」（https://infinicloud.com/whitepaper_liftshift.html・1回目）
+- 顧客：
+  - 「so that we can provide our customers」（https://infinicloud.com/en_company.html・1回目）
+  - 「We provide comprehensive and effective solutions to our customers」（https://infinicloud.com/en_company.html・1回目）
+  - 「プライベートクラウド・AI導入のご相談受付中」（https://infinicloud.com/whitepaper.html・1回目）
+  - 「プライベートクラウドやAI導入に関するご相談受付中」（https://infinicloud.com/whitepaper.html・1回目）
+  - 「プライベートクラウド・AI導入のご相談受付中」（https://infinicloud.com/whitepaper_vmwaredx1.html・1回目）
+  - 「プライベートクラウドやAI導入に関するご相談受付中」（https://infinicloud.com/whitepaper_vmwaredx1.html・1回目）
+  - 「プライベートクラウド・AI導入のご相談受付中」（https://infinicloud.com/whitepaper_sparcdx4.html・1回目）
+  - 「プライベートクラウドやAI導入に関するご相談受付中」（https://infinicloud.com/whitepaper_sparcdx4.html・1回目）
+  - 「プライベートクラウド・AI導入のご相談受付中」（https://infinicloud.com/whitepaper_strongdollar.html・1回目）
+  - 「プライベートクラウドやAI導入に関するご相談受付中」（https://infinicloud.com/whitepaper_strongdollar.html・1回目）
+  - 「プライベートクラウド・AI導入のご相談受付中」（https://infinicloud.com/whitepaper_liftshift.html・1回目）
+  - 「プライベートクラウドやAI導入に関するご相談受付中」（https://infinicloud.com/whitepaper_liftshift.html・1回目）
+- 検索結果の抜粋：
+  - 「株式会社InfiniCloud ( インフィニクラウド ) TOKYO PRO ... — 株式会社InfiniCloud ( インフィニクラウド ) TOKYO PRO ... 船井総合研究所 https://ipo.funaisoken.co.jp > IPO経営コラム一覧」（https://ipo.funaisoken.co.jp/blogs/column/20260520・3回目）
+  - 「企業沿革 - InfiniCloud株式会社 — 企業沿革 - InfiniCloud株式会社 InfiniCloud株式会社 https://infinicloud.com > company_history」（https://infinicloud.com/company_history.html・3回目）
+  - 「テラ クラウド 、事業拡大で「InfiniCloud」に社名変更。エクサ ... — テラ クラウド 、事業拡大で「InfiniCloud」に社名変更。エクサ ... INTERNET Watch https://internet.watch.impress.co.jp > docs > news」（https://internet.watch.impress.co.jp/docs/news/1490893.html・3回目）
+  - 「国産プライベート クラウド InfiniCloud株式会社 — 国産プライベート クラウド InfiniCloud株式会社 InfiniCloud株式会社 https://infinicloud.com」（https://infinicloud.com/・3回目）
+  - 「InfiniCloud | TPM上場企業データベース — InfiniCloud | TPM上場企業データベース TPMナビ https://tpm.ipo-navi.jp > infinicloud」（https://tpm.ipo-navi.jp/db/infinicloud・3回目）
+  - 「大容量 クラウド ストレージ - InfiniCLOUD — 大容量 クラウド ストレージ - InfiniCLOUD InfiniCLOUD https://infini-cloud.net > ...」（https://infini-cloud.net/ja/index.html・3回目）
+  - 「代表取締役より - InfiniCloud株式会社 — 代表取締役より - InfiniCloud株式会社 InfiniCloud株式会社 https://infinicloud.com > company_recruit_message」（https://infinicloud.com/company_recruit_message.html・3回目）
+  - 「InfiniCLOUD | All-In-One Cloud Storage | Get 20GB Free — InfiniCLOUD | All-In-One Cloud Storage | Get 20GB Free InfiniCLOUD https://infini-cloud.net > ...」（https://infini-cloud.net/en/index.html・3回目）
+  - 「データセンター事業者向けVMware代替IaaS基盤の OEM 提供を ... — データセンター事業者向けVMware代替IaaS基盤の OEM 提供を ... InfiniCloud株式会社 https://infinicloud.com > information_20241114」（https://infinicloud.com/information_20241114.html・3回目）
+  - 「「脱VMware」の技術基盤を OEM 提供、InfiniCloudがスタート — 「脱VMware」の技術基盤を OEM 提供、InfiniCloudがスタート INTERNET Watch https://internet.watch.impress.co.jp > docs > news」（https://internet.watch.impress.co.jp/docs/news/1639719.html・3回目）
+  - 「会社概要 - InfiniCloud株式会社 — 会社概要 - InfiniCloud株式会社 InfiniCloud株式会社 https://infinicloud.com > company」（https://infinicloud.com/company.html・3回目）
+  - 「InfiniCLOUDの製品情報（特徴・導入事例） - ITreview — InfiniCLOUDの製品情報（特徴・導入事例） - ITreview ITreview https://www.itreview.jp > ... > InfiniCLOUD」（https://www.itreview.jp/products/teracloud/profile・3回目）
+- 株主：記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）
+- 設立：記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）
+- 黒字・収益性：記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）
+- 売上：記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）
+- 資金調達：記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）
+- ホワイトラベル明言：記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）
+- OEM・組込み：記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）
+- 再販制度：記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）

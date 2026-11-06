@@ -1,0 +1,2791 @@
+{
+ "name": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合）",
+ "en": "recruiting channels regional manufacturers Japan",
+ "aliases": [
+  "ハローワーク 利用率 製造業",
+  "採用経路 製造業 地方",
+  "縁故採用 中小企業",
+  "ハローワーク",
+  "採用経路",
+  "応募経路"
+ ],
+ "context": "地方・製造業",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:49:42.500358+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "人手不足を補うために残業・休日出勤が常態化すると離職が増え、さらに人手不足が進む悪循環に陥る可能性もあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "いくら応募者を集めても、実際の労働環境が整っていなければ、内定辞退や早期離職などにつながってしまうためです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職は採用コストが無駄になるだけではなく、他の社員の退職を誘引したり、既存社員の作業量が増えたり、さまざまな悪影響の原因となりえます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "によると、令和6年5月時点における製造業の欠員率（常用労働者に対する未充足求人の割合）は2.0%となっており、人手不足を早急に解決できる方法が求められています",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "言語能力や実務レベルはもちろん、性格やキャリアプランなども考慮したうえで最適な人材を紹介してくれるため、ミスマッチによる早期離職リスクを最小限に抑えられることが特徴です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、どれだけ優秀な人材を採用しても、生活面・業務面でのサポートが不十分だと早期離職される可能性が高いです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "は欠員補充の側面が強く、 例外的な採用活動で、 かつ社内においても採用人数が少ない傾向",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 新卒採用については、 1年未満での短期離職は損失であるが、終身雇用をうたっ",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 15 年ほど前までは、新卒の離職率が低く、そもそも中途採用の必要性がほとんどな",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求職者等の口コミサイト ・求職者、現職者、離職者等が企業の口コミを掲載",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従来型の求人広告の多くは掲載料を前払いする仕組みであり、採用できなかった場合でも費用が発生します",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載料を前払いする仕組みでは採用できなかった場合でも費用が発生し、企業にとっての負担も大きくなります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "第２節では、特に2010年代以降の人手不足局面に着目し、欠員率が全産業的に高まっていることや、労働力需給ギャップが産業・職業をまたいで拡大していること等、足下での人手不足の状況をまとめる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "完全失業者は、「非自発的な離職」「自発的な離職（自己都合）」「新たに求職",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「非自発的な離職」は、景気後退等による企業活動の停滞に伴う解雇なども含まれるため、完全失業率が横ばいであっても、「非自発的な離職」が完全失業者に占める割合が上昇している状況は、生産活動にあたって必要な労働力を充足できていないとは評価しがたい",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（３）により、1984年以降の完全失業者に占める非自発的な離職割合をみても、完全失業率と同じく1980年代後半～1990年代前半及び2010年代後半において低下している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代後半の非自発的な離職割合は低下しているものの高水準にとどまっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同期間は1990年代後半以降続いた雇用環境の悪化の直後であり、2008年にリーマンショックが起こると、有効求人倍率や完全失業率、非自発的な離職割合等の雇用指標は軒並み悪化しており、2000年代後半の雇用情勢の改善は短期間だったことがうかがえる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "完全失業率は、2019年は2.4％、2023年でも2.6％と、バブル期最低の2.1％に近い水準まで低下しており、失業者に占める非自発的な離職の割合も、2019年にはバブル期並みの22.8％まで低下した",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2010年代以降、欠員率は長期間上昇するが、水準はバブル期に及ばない",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "により、企業の人員の充足について、欠員率",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、欠員率の上昇幅でみても、４年間で４％ポイントほど上昇した1987～1991年に対し、2009～2019年では10年間で２％ポイント程度の上昇であり、過去の局面よりも緩やかな伸びとなっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "では、1990年と2023年の企業規模別欠員率を示しているが、全ての企業規模において、フルタイム・パートタイム労働者ともに1990年の水準を下回っており、フルタイム労働者では、小さい規模の企業において1990年の水準を大きく下回っている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業を中心に人手不足感のある企業は多いものの、欠員率をみると、現在よりもバブル期の方が厳しい人手不足の状況にあったことが分かる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率や失業率、雇用人員判断D.I.が示す人手不足感ほど、中小企業における欠員率が高まっていない背景には何があるだろうか",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち一つには、企業による定着支援策などにより、短期離職者",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "が減少し、欠員が生じにくくなった可能性があげられる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業では、育成に時間とコストをかけた若手人材が「もっと良い条件の職場がある」「スキルアップできる環境を求めて」という理由で離職するケースが目立ちます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "これがさらなる人手不足を引き起こす連鎖的な離職リスクを生み出します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "特に後継者不足と人材不足が重なる中小製造業においては、廃業・事業売却という選択を迫られるケースも増加しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストは離職コストの5〜10倍ともいわれる中、せっかく採用した人材が短期で辞めてしまう状況は、製造業の人手不足を悪化させる主要因の一つです",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "入社後の育成体制が整っていない職場は離職率が高くなる傾向があります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "働きやすい環境を整えることは、既存の従業員の満足度向上と離職防止だけでなく、採用面での競争力強化にも寄与します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が放置された場合のダメージは、生産性低下・品質悪化から始まり、連鎖的な離職、技術喪失、事業縮小・撤退へと連鎖します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "就職後の離職率が低い 4.1 5.1 1.2 0.7 2.0 1.9 － 4.2 44.8 3.6",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 職業紹介事業者が紹介した求職者が一定期間以内に離職した",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(n=561)○ 職業紹介事業者による早期離職の勧奨について（MA）",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ミスマッチの防止（内定辞退・早期離職の防止）",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルバイトの採用コストは一見低く見えますが、離職率が高い傾向にあるため、頻繁な採用活動が必要となる可能性",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員の早期離職は企業にとって大きな損失です",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業にとって社員の早期離職は大きな損失であり、採用コスト（約100万円）が無駄になる",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業は採用コストを多くかけられないため、早期離職が特に痛手となる",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため早期離職のリスクを減らすことができます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "適切なコスト管理により、必要な人材を必要なタイミングで採用することが可能となり、ビジネスの機会損失を防ぐことができます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし飲食業では離職率の高さから頻繁な採用活動が必要になり、結果的にコストがかさむケースも少なくありません",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "入社前の期待と入社後の現実にギャップがあると、短期間で離職するケースが多く見られます",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "現代の中小企業では応募も集まらず採用すら困難で、実際には1人の離職で",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "➡ 離職は「経営インパクトの大きい損失」であり、軽視できません",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "離職1人あたりの損失額",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "➡ たった数人の離職で、",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "離職率が高く、採用繰り返しによる累積コスト増",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "「採用コストを減らす＝離職を減らす」ことが最大の経営対策",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年3人離職 → 年間コスト約300万円＋売上換算1,000万円損失",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "対策：1on1面談＋外部相談窓口導入 → 離職1人まで減少",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "□ 離職1人あたりの売上換算額を試算したか",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "A3：離職防止が最大のコスト削減策です",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "離職は売上換算で数百万円～数千万円規模の損失",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "▶離職防止の実務ガイド｜中小企業・人事担当者が押さえる5つの仕組み",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "従来型の求人広告の多くは掲載料を前払いする仕組みであり、採用できなかった場合でも費用が発生します",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "（注）採用できなかった場合でも、求人情報の掲載等の採用活動を行っている場合は「01. 中途採用の活動をし",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "求人サイトやハローワークで募集をかけているものの、なかなか応募がなく悩んでいる製造企業も多いのではないでしょうか",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばハローワークや求人誌だけでなく、求人サイトやSNSを活用したオンライン採用にも取り組むことで、より幅広い層の求職者へアプローチできます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "また、昨今は既存社員から知人を紹介してもらうリファラル採用（社員紹介制度）に取り組む企業も増えています",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "日本人に絞って採用活動を続ける場合、なかなか応募者が集まらず、求人広告を何度も出稿したり、複数の媒体を試したりする必要があり、採用コストが高額になりがちです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材が長期定着してくれれば、求人広告費を支出し続ける必要がなくなるため、採用コストを大きく削減することも可能なのです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、こうした課題は「外国人人材紹介会社」を活用すれば解決できます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "適性やスキルを見極めた人材紹介でミスマッチを防げる",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "採用精度を高めたい企業こそ、ぜひ人材紹介会社の力を借りてみてください",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "もし入社後の支援を不安に感じる場合は、ぜひアフターフォローにも力を入れている外国人人材紹介会社へ相談してみてください",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "「登録支援機関」も兼ねている人材紹介会社なら、特定技能外国人を受け入れる企業に義務付けられている、下記のサポートもワンストップで代行してくれます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "さらに人材紹介会社によっては、外国人材にまつわるトラブルの対処もサポートしてくれます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "はじめて外国人材を受け入れる企業こそ、アフターフォローが充実した人材紹介会社に頼ったほうが安心でしょう",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材の採用は採用コストの削減につながると紹介しましたが、人材紹介会社を利用すれば、さらに大きなコストカット効果が期待できます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば外国人材（技能実習生や特定技能人材）に特化した人材紹介会社は、料金体系がリーズナブルなことが多いため、日本人のみを採用するケースより手数料コストを抑えられる可能性があります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "アフターフォローにも注力している外国人人材紹介会社に依頼すれば、入社後のサポートにかかる手間を減らしつつ、定着率を高めることも可能です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの紹介はなぜ事務職に偏るのか―統計から考える公共職業紹介の再設計①｜ワークス労働市場分析｜コラム｜リクルートワークス研究所",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの紹介はなぜ事務職に偏るのか―統計から考える公共職業紹介の再設計①",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたなかで、公共職業安定所、すなわちハローワークの役割をどう考えるべきかが重要な論点となっている",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークは、仕事を探す人と人材を探す企業に対して、無償で職業紹介サービスを提供してきた",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし近年、民間人材サービス、求人広告だけでなく、企業による直接採用（ダイレクト・リクルーティング）、リファラル採用、スカウト型サービス、地域のブティック型・フリーランス型の職業紹介事業者、スポットワークアプリなど、労働需要超過の慢性化を背景として、求職者と求人企業を結びつける経路が急速に多様化している",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "この点について、内閣府もすでに2024年1月の月例経済報告関係資料（※2）で、企業の人手不足感がバブル期以降最高水準に高まる一方、ハローワークの有効求人倍率は横ばい傾向であり、両者に乖離が生じていると指摘した",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ハローワークを経由した就職者の割合は15％程度まで低下し、民間職業紹介やスポットワークによるマッチングが増加していると整理している",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "古屋（2024）は、ハローワークにおける紹介件数、就職件数が2004年以降中長期的に減少傾向にあり、また特定職種の紹介と就職斡旋が特に困難となりつつあることを指摘した（※3）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、有効求人倍率などの「一般職業紹介状況」に基づく労働市場統計が、労働市場全体ではなく、あくまでハローワークで扱った求人・求職・就職の状況を集計した業務統計である点である",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働政策研究・研修機構（JILPT）も、一般職業紹介状況はハローワークで扱った求人、求職、就職の状況を取りまとめたものであり、有効求人倍率は求職者数に対する求人数の割合として労働需給の逼迫度を示す指標として“参照される”と説明している（※4）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの利用率が低下すれば、有効求人倍率は労働市場全体の指標としての代表性を弱めていく（図表1）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表1 入職経路別入職者数の推移（※5）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "この課題感に対して、ハローワーク統計（一般職業紹介状況）を労働市場の統計ではなく、「ハローワークの役割と機能を分析する統計」として用いようと提起し分析を行ったのが、内閣府や日本経済新聞（※6）、古屋（2024）の分析視点であった",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "いずれにせよ、これまで筆者は、有効求人倍率と日銀短観の雇用人員判断やそのほかのマクロ統計・企業統計の乖離について、「ハローワークに求人を出しても採用できないため、企業が民間サービスへ切り替えている可能性」や、「有効求人倍率はハローワークに出された求人・求職者の統計であり、全体像把握には限界がある」という論点を提示してきた",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "本稿は、一般職業紹介状況をハローワークの機能を考える統計として、労働政策の検討上、むしろ重要性が増していると考える立場、併せて、労働供給制約下で働き手不足が逼迫する地域経済においてハローワークの重要性が低下することはなく、その機能をいかに発展・転換させていくのかを検討する立場から、これらの統計を検証し、今後のハローワークの機能を検討するものである",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "・転職活動時における人材紹介会社の利用状況",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 中堅・中小企業の総合的成長支援（人材紹介事業を含",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 求人企業と人材紹介会社を繋ぐプラットフォーム",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 人材紹介（転職支援）業の立ち上げ支援「キャリプロ」",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2) 人材紹介",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 人材紹介会社は採用コストが高いのが難点ではあるが、採用候補者とエージェ",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 例えば人材紹介会社であれば、 「募集要件には満たないが、能力のある人材」等",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "して高スペックとなり、転職市場にほとんどいないためにリファラル採用が中心と",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 自社サイトに応募する人材は当社への愛情が強く、経験則的には定着率がいい",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 人材サービス事業者（人材紹介）を活用した採用",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 企業設立当初から、自社サイトでの直接募集とハローワークを通じた募集のみを行",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ーク主催の説明会にブース出展し対面で説明する機会を設けたり、ハローワーク経",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2015 年に全社でリファラル採用の試行を開始した",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " リファラル採用は縁故採用ではないことは通達しており、もちろん不合格も発",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " リファラル採用の実施により、コスト削減の他に潜在層へのアプローチが可能",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 入職経路別の求人の状況･･････････････11",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 入職経路別の就職者数の推移･･････････14",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 入職経路別の就職件数の状況･･････････15",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 ハローワークの求職者向けサービスの概要･････21",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ ハローワークの求人者向けサービスの概要･････22",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 ハローワークにおける職業紹介等･････････････23",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（参考）労働者全体に占める入職者の割合と、各入職経路別の入職割合の相関係数",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク：約-0.04、民間職業紹介：約-0.25、広告：約0.81、縁故：約-0.70、その他：約0.00",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）ハローワークの求人数は常用新規求人数の各月合計、職業紹介事業者の求人数は各年度における常用求人数、求人メディアにおける求人件数は各月掲載求人件数の合計を表",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、ハローワーク・民間職業紹介事業者の求人数と求人メディアの求人件数を単純に比較することはできない",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 求人の年収帯を見ると、民間職業紹介事業者の取り扱うものが最も高い一方、ハローワークの取",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 求人メディアは、年収帯においても取り扱い職種においても、ハローワークと民間職業紹介事業",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）ハローワークについては、ハローワークシステムから抽出したデータを特別に集計",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）ハローワークについては、常用・フルタイム求人の月給上下限額を年収換算したもの",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 介護サービス関連の求人は、職業紹介機能を持つハローワークや民間職業紹介が中心",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "製造業は慢性的な人手不足が続く業界の一つであるため、これまでと同じ採用手法では、今後も人手確保は難しいかもしれません",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では製造業の求人に応募がこない原因や、人手不足の解決策となりうる新しい採用手法を紹介するので、ぜひ参考にしてみてください",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "【おすすめの採用手法】製造業の人手不足解消には外国人材の採用が有効",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解消することは簡単ではありませんが、効果的な採用戦略を立てるためにも、まずは製造業の採用が難しくなっている背景について詳しく見ていきましょう",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業に限らず、日本全体として人手不足が課題となっている最大の要因は、労働人口が減少していることです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業は全体的に人手不足が進んでいますが、とくに中小製造業における影響が顕著です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "そして若手の後継人材を採用できていないにも関わらず、熟練技能者が定年退職を迎えることで、人手不足感が急増している企業もあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を補うために残業・休日出勤が常態化すると離職が増え、さらに人手不足が進む悪循環に陥る可能性もあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解消するためには、競争を避ける採用戦略を立てることも重要です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解消するためには、ただ多くの人材に応募してもらうだけではなく、採用した人材に定着してもらうことも大切なのです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "によると、令和6年5月時点における製造業の欠員率（常用労働者に対する未充足求人の割合）は2.0%となっており、人手不足を早急に解決できる方法が求められています",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "こうした状況をふまえると、日本人を雇用するだけでは人手不足を解消するのは難しいのが現実です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "先述したとおり、日本人を採用するだけでは解決できない製造業の人手不足に対し、もっとも即効性のある解決策が「外国人材の採用」です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業で外国人材を採用することには、単に人手不足を解消する以上のメリットがあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "採用手法の多様化や、職場環境の改善、定着支援といった対策も重要ですが、社会的な要因をふまえると、日本人を雇用するだけでは人手不足を解消できない可能性が高いです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "日本の労働市場は、景気循環的な人手不足ではなく、人口動態に起因する慢性的な労働供給制約の局面に入りつつある（※1）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "この点について、内閣府もすでに2024年1月の月例経済報告関係資料（※2）で、企業の人手不足感がバブル期以降最高水準に高まる一方、ハローワークの有効求人倍率は横ばい傾向であり、両者に乖離が生じていると指摘した",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "重要なのは、有効求人倍率などの「一般職業紹介状況」に基づく労働市場統計が、労働市場全体ではなく、あくまでハローワークで扱った求人・求職・就職の状況を集計した業務統計である点である",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働政策研究・研修機構（JILPT）も、一般職業紹介状況はハローワークで扱った求人、求職、就職の状況を取りまとめたものであり、有効求人倍率は求職者数に対する求人数の割合として労働需給の逼迫度を示す指標として“参照される”と説明している（※4）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの利用率が低下すれば、有効求人倍率は労働市場全体の指標としての代表性を弱めていく（図表1）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働市場の分析をする人間は、近年この問題（有効求人倍率をどう扱うべきか）に悩まされてきた",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "いずれにせよ、これまで筆者は、有効求人倍率と日銀短観の雇用人員判断やそのほかのマクロ統計・企業統計の乖離について、「ハローワークに求人を出しても採用できないため、企業が民間サービスへ切り替えている可能性」や、「有効求人倍率はハローワークに出された求人・求職者の統計であり、全体像把握には限界がある」という論点を提示してきた",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかしそのことは、有効求人倍率の有効性を否定することとは別の問題である",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の一般職業紹介状況では、2025年平均の有効求人倍率は1.22倍で、前年より0.03ポイント低下した",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "他方で、企業側は慢性的な人手不足のなかで、より迅速で、より能動的で、より調整力を持つマッチングを求めている",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークが保有する情報は今なお有用であり、現行の有効求人倍率だけではなく、職種別・地域別で紹介率、充足率、未紹介求人率、求人の滞留期間、就職後の定着状況、賃金・労働時間条件の改善状況など具体的な「この地域・この仕事の今の情報」を組み合わせ、地域労働市場の現在地を可視化することができる",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足職種では、企業が従来の条件のまま求人票を出しても、求職者は集まらない",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※6）2024年3月31日付朝刊1面「チャートは語る 人手不足映せぬ政府統計」",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※12）以降の分析において、2013年を比較の基準年としているのは2012年が有効求人倍率が極めて低く1倍を大きく割り込んでおり、労働市場の市況感が現在と著しく異なり、特に「就職件数」に対しての影響が大きいと考えられるため、比較の基準年として市況が正常化した2013年を基準とした分析を行うことでハローワークの変化を見ている",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "は欠員補充の側面が強く、 例外的な採用活動で、 かつ社内においても採用人数が少ない傾向",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 有効求人倍率及び完全失業率の動向････６",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いては2020年以降減少する見込みであり、人手不足の傾向が継続するものと考えられる",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 足下では新型コロナウイルス感染症の影響により、有効求人倍率の低下と完全失業率の上昇が",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）完全失業率及び有効求人倍率は季節調整値",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、人手不足によって人材獲得競争が激しくなり、求人を掲載するだけでは必要な人材を確保しにくくなっています",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "背景には、人口減少や人手不足があります",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "従来型の求人広告の多くは掲載料を前払いする仕組みであり、採用できなかった場合でも費用が発生します",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "背景には、人手不足が深刻化するなか、求人広告を掲載して応募を待つだけではなく、手間をかけて候補者へ直接アプローチするダイレクトリクルーティングや、コストをかけて人材紹介を利用するなど、より積極的な「攻めの採用」が求められていることがうかがえます",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、人手不足によって人材獲得競争が激しくなり、求人を掲載するだけでは必要な人材を確保しにくくなっています",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "背景には、人口減少や人手不足があります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "掲載料を前払いする仕組みでは採用できなかった場合でも費用が発生し、企業にとっての負担も大きくなります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "背景には、人手不足が深刻化するなか、求人広告を掲載して応募を待つだけではなく、手間をかけて候補者へ直接アプローチするダイレクトリクルーティングや、コストをかけて人材紹介を利用するなど、より積極的な「攻めの採用」が求められていることがうかがえます",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "仕事を探す人（求職者）と人材を探す企業（求人事業主）に対してサービスを無償で提供しているハローワークだが、日本の労働市場が構造的な人手不足に直面する（「労働供給制約」）なかで、大きな変化が起こりつつある",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "図表２では、有効求人数を、日銀「短観」における雇用人員判断D.I.（反転）という企業の人手不足感を示す代表的な経済指標と比較している",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "この指標がプラス方向に振れれば「不足感が強い」、マイナス方向に振れれば「余剰感が強い」わけだが、すでに企業の人手不足感は2023年に2000年以降で最も高い水準に達している",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、人手不足感が同水準であった2018年の求人数242万人と比較して、求人数は218万人と1割減っている",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "図表２の青い折れ線グラフ（人手不足感）と赤い棒グラフ（有効求人数）の上下変化の方向性と変化量が2016年頃までほぼ同期していたことを考えれば、直近の求人数の「頭打ち」といえる状況は不自然に見える",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "図表２ 人手不足感と有効求人数の推移",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "内閣府の月例経済報告、2024年1月の閣僚会議資料では、「今月のポイント（３）労働需給のマッチングにおける最近の変化」として、「企業の人手不足感はバブル期以降最高水準に高まる一方で、ハローワーク（公共職業安定所）の有効求人倍率は横ばい傾向と、両者に乖離」と指摘されている",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の2024年3月31日付朝刊1面「チャートは語る 人手不足映せぬ政府統計」では、人手不足感と有効求人倍率の傾向が乖離していることを指摘、月例経済報告と同様のデータを中心にハローワークの利用率の低下をもとに「ハローワークでの職探しの減少が拍車をかけている」とする",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "筆者は求人倍率と雇用人員判断などの乖離について「ハローワークに求人を出しても、待っているだけでは全く採用ができないために、訴求力を上げる必要性に迫られ民間サービスでの求人に切り替えている可能性がある」と指摘、労働行政の経験が長い松原氏は「ハローワークの最重要機能はセーフティネットであり、有効求人倍率もハローワークに出された求人・求職者を集計するので、以前から全体像の把握には限界もあった」等々と論じている",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "慢性的な人手不足＝労働供給制約下において、労働市場の全体像を把握することの重要性は増している",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしここまで見てきたように、有効求人倍率など労働市場の状況を把握する主要な指標は「ハローワークに出された求人・求職者」の数であり、労働市場全体の状況を反映するとは限らず、実際に労働市場の逼迫度合いとハローワークの有効求人数の動きには乖離が生じている可能性がある",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "ここで重要なのは人手不足感が2023年と同水準であった2018年でも9.7万件だったということである",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、労働供給制約に起因する構造的な人手不足が長期化するなかで、企業の一部が積極的に採用に投資を行うようになっており、このためハローワーク経由では採用が難しくなった・良い人材が獲得できなくなったと考える企業が実際の採用にあたっては他の手法に切り替えたことである",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が慢性化すれば、企業が求めるスキル・経験を持った求職者は稀少化し、マッチングの難度は上昇する",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "第Ⅱ部 第１章 人手不足の背景｜令和６年版 労働経済の分析｜厚生労働省",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年版 労働経済の分析 －人手不足への対応－（HTML版）",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１章 人手不足の背景",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、過去の人手不足局面を振り返りながら、2010年代以降続く我が国における人手不足の現状とその背景について分析する",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "2024年版中小企業白書",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "海外現地で日本語・日本の文化などに関する研修を実施しているため、紹介する人材の質が高いと多くの企業から高評価をいただいております",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省,雇用動向調査",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※5）厚生労働省,雇用動向調査",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "「企業等の採用手法に関する調査研究」報告書",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1. 調査概要 .............................................................................................................................. 1",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.1 調査の背景・目的 ....................................................................................................... 1",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 実施体制 ..................................................................................................................... 2",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 調査研究実施フロー ................................................................................................... 3",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.4 項目別実施内容 .......................................................................................................... 4",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.2 既存調査分析・仮説構築 ..................................................................................... 5",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.3 ヒアリング調査 .................................................................................................... 6",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 実施結果 .............................................................................................................................. 9",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.1 調査仮説 ..................................................................................................................... 9",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.2 調査結果 ................................................................................................................... 20",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.2.1 企業調査 ............................................................................................................ 20",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.2.2 転職者調査 ......................................................................................................... 86",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.2.3 人材サービス事業者調査 ................................................................................... 99",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.1 調査結果からの示唆 ............................................................................................... 147",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）2015年までは総務省「国勢調査」、2019年は総務省「人口推計」（2019年12月１日確定値）、2020年以降は国立社会保障・人口問題研究所「日本の将来推計人口（平成29",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）総務省「労働力調査」、独立行政法人労働政策研究・研修機構「労働力需給の推計―労働力需給モデル（2018年度版）による将来推計―」",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資料出所）総務省「労働力調査」、厚生労働省「職業安定業務統計」",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）日本銀行「全国企業短期経済観測調査」",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注２）同一企業内転入者には、同一企業（会社）内の他の事業所から転入してきた者や休職・その他の理由により給与の支給が停止されていた者で、調査対象期間中に復職、",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 2009年度以降、どの媒体においても求人数は増加しているものの、特に求人メディアにおける",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）ハローワークの求人数は常用新規求人数の各月合計、職業紹介事業者の求人数は各年度における常用求人数、求人メディアにおける求人件数は各月掲載求人件数の合計を表",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注２）求人メディアの求人件数は2018年度において集計方法が変更されており、2017年度以前と単純に比較することはできない",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇各媒体における職種別掲載求人数 上位10職種（2018年度）",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 ハローワークを経由した就職件数が景気動向等を受け2012年度以降減少する一方で、民間職",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業分類 2018年度就職件数",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）ハローワークの求人数は2018年度のパートを含む常用新規求人数の各月合計、職業紹介事業の求人数は2018年度の常用求人数、募集情報等提供事業の求人件数は",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度の各月平均掲載件数の合計を示す",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（キャリアコンサルティング）を行う他、全国ネットワークを活用した職業紹介を実施し、求職",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他、以下のような取組を行っています（一部は主要な所で実施）",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月度 採用手法の動向調査レポートを発表しました | 株式会社フロッグ（HRog Co.,Ltd.）",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月度 採用手法の動向調査レポートを発表しました",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "分析用求人ビッグデータを提供する、株式会社フロッグ（所在地：東京都千代田区、代表取締役：阪野 香子、以下「当社」）は、「2026年10月度 採用手法の動向調査レポート」を発表しました",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "媒体、地域、職種など集計項目を自在にカスタマイズでき、採用マーケット動向の把握やアルバイト採用での周辺時給調査などを素早く＆根拠をもって行うことができます",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「雇用動向調査」をもとに、コロナ禍前の2019年と直近の2024年の転職入職者の入職経路を比較します",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は当社が保有する求人データを活用し、2023年と2026年の比較や、職種・地域別のデータから採用手法の変化を調査しました",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "人材業界でのマーケティング調査や営業リストのほか、採用担当者の採用市場分析などにもご利用いただいております",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査で使用したように、「",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "時給だけでなく、求人数や広告出稿金額なども調査することが可能です",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの割合は36.7％から16.9％に低下し、民間サービスの存在感が拡大［2026年10月度 採用手法の動向調査レポート］（PR TIMES） | 毎日新聞",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークの割合は36.7％から16.9％に低下し、民間サービスの存在感が拡大［2026年10月度 採用手法の動向調査レポート］（PR TIMES）",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "分析用求人ビッグデータを提供する、株式会社フロッグ（所在地：東京都千代田区、代表取締役：阪野 香子、以下「当社」）は、「2026年10月度 採用手法の動向調査レポート」を発表しました",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "媒体、地域、職種など集計項目を自在にカスタマイズでき、採用マーケット動向の把握やアルバイト採用での周辺時給調査などを素早く＆根拠をもって行うことができます",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "今回は当社が保有する求人データを活用し、2023年と2026年の比較や、職種・地域別のデータから採用手法の変化を調査しました",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "人材業界でのマーケティング調査や営業リストのほか、採用担当者の採用市場分析などにもご利用いただいております",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査で使用したように、「",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "時給だけでなく、求人数や広告出稿金額なども調査することが可能です",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "- アルバイト採用での周辺時給調査をしたい",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "労働市場・組織人事・個人のキャリア・労働政策等について、独自の調査・研究を行っています",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "人事の専門メディアやシンクタンクが発表した調査・研究の中から、いま人事として知っておきたい情報をピックアップしました",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "東証プライム上場企業の2026年 年末一時金（賞与・ボーナス）の妥結水準調査（労務行政研究所）",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "民間調査機関の一般財団法人 労務行政研究所（理事⾧：猪股 宏）では、東証プライム上場企業を対象に2026年年末一時金の妥結水準を調査し、支給水準は175社、支給...",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "第Ⅱ部 第１章 人手不足の背景｜令和６年版 労働経済の分析｜厚生労働省",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "白書、年次報告書",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年版 労働経済の分析 －人手不足への対応－（HTML版）",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   }
+  ],
+  "セグメント定義": [
+   {
+    "quote": "さて、全体状況を見た上で、職種別（大分類）の状況を見ると一点興味深いことがわかる",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表5にハローワークの職種別の状況を整理した",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表5 有効求人数のシェア（横軸）、紹介件数のシェア（縦軸）（職種別、2025年）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年→2025年、職種別の変化率をプロットしたもの",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "この点について、ハローワークが企業の求人にどの程度対応しているのかを詳細な職種別（小分類）に分析した結果を図表8に示す",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに図表9は職種別大分類で見た職種別紹介率であるが、事務的職業が突出しており45.2%、続いて運搬・清掃・包装等の職業19.2%、管理的職業16.0%が続いている",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表8 職種別紹介率＝求人数に対する紹介件数割合（2025年）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表9 職種別紹介率（大分類）（2025年）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "この“精度”について職種別に見ている（図表11）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表11 紹介から就職に至る割合（就職件数/紹介件数）（職種別）",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "就職件数も、全体がマイナス44.3%と半減の水準にあるなかで（2013年→2025年（※14））、保安の職業は職種別（大分類）で減少率が最も低く、マイナス18.7%にとどまっており、求人難のなか存在感を発揮している",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークが保有する情報は今なお有用であり、現行の有効求人倍率だけではなく、職種別・地域別で紹介率、充足率、未紹介求人率、求人の滞留期間、就職後の定着状況、賃金・労働時間条件の改善状況など具体的な「この地域・この仕事の今の情報」を組み合わせ、地域労働市場の現在地を可視化することができる",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※10）以降の分析の数値は、職種別の分析を行うため、統計のあるパートタイム含む常用労働者を用いている",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別、ハローワークの役割の変化―統計から考える公共職業紹介の再設計④",
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "pass": 3
+   },
+   {
+    "quote": "職を経験した従業員へのインタビュー調査を実施した方が望ましいとの指摘があった",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模（従業員数） 300 名以下",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "若返り」 「従業員に人材育成の経験を積ませたい」といった理由から新卒採用を実施",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模（従業員数） 約 1,400 名（単体）",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模（従業員数） 41 名（単体）",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模（従業員数） 一万名以上(2019 年 3 月末日現在)",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 技術系については、 職種別採用を実施しており、 人材要件が明確に整理されてい",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模（従業員数） 2,378 名（グループ合計）",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 職種別の採用であっても、入社後は異動や配置転換を実施する場合もある",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模（従業員数） *702 名（単体）/ 906 名（連結）＊役員・派遣社員含む",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2012 年から自社従業員に副（複）業を認めてきたが、複業者を輩出するのであ",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 通常のキャリア採用は職種別採用となっているため、経歴上の要件を満たせな",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模（従業員数） 約 5,000 名（単体）",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " グローバル展開が進んでおり、従業員の約８割は海外人財となっている",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模（従業員数） 約 17,000 名（ 2019 年 3 月 31 日現在）",
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇 各入職経路において取り扱われている職種別の求人数をみると、",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇各媒体における職種別掲載求人数 上位10職種（2018年度）",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今回は当社が保有する求人ビッグデータを活用し、正社員採用における採用手法の変化を、2023年と2026年の比較に加え、職種・地域別に分析しました",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "続いて2026年7月時点のデータを職種別に比較すると、採用手法の構成にはそれぞれ異なる特徴が見られます",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "最後に2026年7月時点のデータを地域別に比較すると、採用手法の構成はエリアごとに異なる特徴が見られました",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は当社が保有する求人データを活用し、2023年と2026年の比較や、職種・地域別のデータから採用手法の変化を調査しました",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は当社が保有する求人ビッグデータを活用し、正社員採用における採用手法の変化を、2023年と2026年の比較に加え、職種・地域別に分析しました",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "続いて2026年7月時点のデータを職種別に比較すると、採用手法の構成にはそれぞれ異なる特徴が見られます",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "最後に2026年7月時点のデータを地域別に比較すると、採用手法の構成はエリアごとに異なる特徴が見られました",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "今回は当社が保有する求人データを活用し、2023年と2026年の比較や、職種・地域別のデータから採用手法の変化を調査しました",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "図表７の数値は2023年の職種別の件数が2013年比で何％かを表しており、最上段の「職業計」が産業全体の平均だ",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "図表７ 職種別件数（2023年/2013年比）",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "図表８ 職種別件数（2023年/2013年比）（パートタイムを除く常用）",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "（※5）なお、職種別の小分類で最も就職件数が低下していたのは、「鉄道運転の職業」でなんと14％と2013年から就職件数が7分の１となっていた",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "では、1990年と2023年の企業規模別欠員率を示しているが、全ての企業規模において、フルタイム・パートタイム労働者ともに1990年の水準を下回っており、フルタイム労働者では、小さい規模の企業において1990年の水準を大きく下回っている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "では1990年と比較して、フルタイム労働者では全ての企業規模において、パートタイム労働者では1,000人以上規模の企業以外の全てで低下しており",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "、例えば黒田・山本（2013）は、こうした考え方に立って、ワーク・ライフ・バランス施策と賃金の関係に着目し、フレックスタイム制度を利用している男性従業員では、最大で９％程度の負の賃金プレミアムが検出されることを指摘している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、同図（２）により、企業規模別にみると、特に５～99人規模の中小企業において、縁故採用は重要な人材確保のルートであるものの、1990～2022年にかけて、入職者に占める割合は25％程度まで低下している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "コラム２–４ 地域別にみた人手不足",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "により、地域別に有効求人倍率の推移をみると、1970年代には、東海で有効求人倍率が５倍にも達していたほか、関東・甲信越、近畿でも２倍を超えており、東京、名古屋、大阪といった三大都市圏の人手不足がうかがえる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）から、国勢調査における1990～2015年にかけての都道府県別の25～54歳人口の増減率をみると、東京都、神奈川県、愛知県、滋賀県、沖縄県を除いた全ての道府県において25～54歳人口は減少し、その減少度合いは、東北・四国・中国・九州において大きい",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、同図（２）により、経済環境や雇用情勢の改善がみられ始めた2013年度から、新型コロナウイルス感染症の拡大前である2019年度までの都道府県別ＧＤＰの増加率をみると、バラつきはありつつも全国的に経済規模の拡大が生じている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "により、2012年と2023年の欠員率を企業規模別・就業形態別・産業（大分類）別に確認する",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（４）の1,000人以上規模企業では「運輸業，郵便業」が、同図（５）（６）の100～999人規模企業、５～99人規模企業では、「宿泊業，飲食サービス業」が顕著に上昇しており、特に５～99人規模企業においては10％を超える等、一部の産業では欠員率が極めて高くなっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、1,000人以上、100～999人、５～99人の企業規模間における2000年以降の転職率をみたものである",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（１）から1,000人以上規模企業からの転職についてみると、同規模の企業への転職率が上昇しており、大企業間の転職は活発になっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（２）から、100～999人規模企業をみると、1,000人以上規模や100～999人規模の企業への転職率が2000年代と比べ上昇傾向にあり、前職以上に大きい規模の企業への転職が進んでいることが確認できる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、1,000人以上規模企業への転職率が上昇傾向にある",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、ハローワークにおける求人・求職及び就職のデータを用いて、都道府県別・職業（中分類）別に労働市場を定義",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2 業種別に見る製造業の人手不足の傾向",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に陥った工場では、既存の従業員に過大な負荷がかかります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "り扱う求人は年収の幅が狭く、おおむね220～550万円の間となっている",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期間を通して、民間求人サイトが5万〜6万円以上高い水準が続いています",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "特に正社員採用は、大量採用を行うことも多いアルバイトと比べて1人あたりの採用単価が高くなりやすく、企業にとって費用面の負担も大きくなります",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金： 1,000万円",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "期間を通して、民間求人サイトが5万～6万円以上高い水準が続いており、ハローワークでは給与水準の低い企業が利用する傾向があると推察されます",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "資本金： 1,000万円",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク職員1人あたりの労働力人口は諸外国と比べて著しく少ない",
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "pass": 3
+   },
+   {
+    "quote": "第３次産業においては就業者数の増加の寄与が大きく、1970～1990年では、一人当たり生産性の寄与も第３次産業の方が大きい",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした第３次産業における労働分配率の低下が、厚生労働省（2023）でも指摘したように、一人当たり生産性が上昇する中にあっても、一人当たり賃金がなかなか増加していない",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "1990年と2023年の総労働時間の変化を就業者数に一人当たり労働時間を乗じた面積で表したのが、同図（２）である",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省（2023）で示したとおり、ＧＤＰから計算した一人当たり労働生産性は1996年から長期的にほぼ横ばいであるが、中間投入も含めた生産額の総額から計算すると、就業者一人当たりの生産額は1990～2015年にかけて15％ほど増加している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストは離職コストの5〜10倍ともいわれる中、せっかく採用した人材が短期で辞めてしまう状況は、製造業の人手不足を悪化させる主要因の一つです",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の根本原因は、少子高齢化・3Kイメージ・技術継承の断絶・人材流動化・採用コスト高騰という5つの要因が複合的に絡み合っており、それぞれに対応した施策が必要です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク職員1人あたりの労働力人口は諸外国と比べて著しく多い（※6・※7）",
+    "url": "https://www.works-i.com/column/hataraku-ronten/detail034.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間職業紹介事業者 85.1万円 (n=175) 19.2万円 (n=56)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求人情報誌・チラシ 11.2万円 (n=113) 7.7万円 (n=115)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットの求人情報サイト 28.5万円 (n=254) 10.8万円 (n=149)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットの求人情報まとめサイト 6.4万円 (n=39) 3.2万円 (n=33)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スカウトサービス 91.4万円 (n=51) 44.0万円 (n=5)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新聞広告・屋外広告 7.1万円 (n=18) 4.5万円 (n=14)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＳＮＳ 0.9万円 (n=15) 0.2万円 (n=17)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "知り合い・社員等からの紹介（縁故） 4.4万円 (n=99) 3.4万円 (n=67)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社ＨＰ等からの直接応募 2.8万円 (n=150) 2.7万円 (n=64)",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりの採用コストを「採用単価」と呼びます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用の平均採用単価は56.8万円",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "11.8万円も増加",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価が高騰する3つの原因と業界ごとの具体的な違い",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価を劇的に削減する5つの実践的な方法と成功事例",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば外部コスト500万円、内部コスト500万円で10名を採用した場合、",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価は100万円",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新版】雇用形態別の平均採用単価",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "【最新版】採用コストの実務ガイド｜1人辞めたらいくら損かを経営数字で解説（社労士監修） | RESUS社会保険労務士事務所",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "【最新版】採用コストの実務ガイド｜1人辞めたらいくら損かを経営数字で解説（社労士監修）",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "採用・教育・生産性低下など合計100万円以上のコスト",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円の売上が必要",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "図表1：採用コストの内訳（1人あたり）",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約30～50万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約10～20万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約100万円以上",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "離職1人あたりの損失額",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "図表2：売上換算で考える採用コスト",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率30％の事業を例にすると、採用損失100万円を埋めるには以下の売上が必要です",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "1,666万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "3,333万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "期間を通して、民間求人サイトが5万〜6万円以上高い水準が続いており、ハローワークでは給与水準の低い企業が利用する傾向があると推察されます",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、何人採用しても掲載料は変わらないため、採用人数が多いほど1人あたりの採用単価を抑えやすくなります",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "このため、採用人数や求めるスキル・経験、採用難易度に加え、費用が発生するタイミングや1人あたりの採用コスト、採用にかかる工数なども、採用手法を選ぶ基準となっています",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "特に正社員採用は、大量採用を行うことも多いアルバイトと比べて1人あたりの採用単価が高くなりやすく、企業にとって費用面の負担も大きくなります",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年卒のナビサイトを徹底調査！初任給25万円以上が3割を超え、平均額は1年で4.12%上昇",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "コスト効率の観点では、ハローワークと縁故・リファラルが優れており、採用単価は他の経路の3分の1程度となっています",
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGTRPSETPAMJNE8AEGP6/",
+    "pass": 3
+   },
+   {
+    "quote": "年収は「300～400 万円未満」が 27.5%と最も多く、「400～500 万円未満」 （23.1%）、「500～",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "600 万円未満」 （14.7％） 、 「300 万円未満」 （12.5％）が続き、それらを合わせると 77.8％にな",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省（2023）で示したとおり、ＧＤＰから計算した一人当たり労働生産性は1996年から長期的にほぼ横ばいであるが、中間投入も含めた生産額の総額から計算すると、就業者一人当たりの生産額は1990～2015年にかけて15％ほど増加している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、採用コストの総額が1000万円で、10人を採用した場合、一人当たりの採用コストは100万円となります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "（p.121）によると2023年に転職サイト、折り込み求人誌、新聞の求人欄、フリーペーパーなどでかかった採用一人当たりの求人広告費は以下の通りです",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "1名あたりの単価にすると２週間で2.5万円の求人広告費ということになります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "派遣社員採用では、紹介手数料として月給の20〜30パーセント程度が相場です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50名以下の企業における年間採用費用の平均は119万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員51〜300名の企業における年間採用費用の平均は247万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員301〜1,000名の企業における年間採用費用の平均は565万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1,001名以上の大企業における年間採用費用の平均は1,462万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "運輸・交通・物流・倉庫業の年間採用費用は平均1,460万円で、全業種中トップです",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の年間採用費用は平均854万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "IT・通信・インターネット業界の年間採用費用は平均695万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "流通・小売・フードサービス業の年間採用費用は平均304万円で、全業種中最も低い水準です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用に至るまで費用がかからないため利用のハードルは低いものの、紹介手数料は採用者の年収の35％程度が相場とされ、1人あたりの採用コストは高めになります",
+    "url": "https://hrog.net/report/137006/",
+    "pass": 3
+   },
+   {
+    "quote": "そこへ求人広告費や、人材紹介会社への成功報酬まで加わります",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   },
+   {
+    "quote": "大きな採用予算を持てない会社ほど、こういうやり方は参考になると思います",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業の 採用 手法が多様化。 ハローワーク の 割合 は36.7％から ... — 企業の 採用 手法が多様化。 ハローワーク の 割合 は36.7％から ... 毎日新聞 https://mainichi.jp > articles",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ハローワーク 経由の転職者は約19万人減。それでも「無料求人 ... ハローワーク 経由の転職者は約19万人減。それでも「無料求人 ... note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   },
+   {
+    "quote": "【令和最新版】人事担当のための ハローワーク 活用術 - note 【令和最新版】人事担当のための ハローワーク 活用術 - note note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ハローワーク経由の転職者は約19万人減。それでも「無料求人」から抜けられない｜家も会社も中間管理職｜投資・仕事・家計",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク経由の転職者は約19万人減。それでも「無料求人」から抜けられない",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク経由で転職した人が、2019年から2024年の5年間で約19万人減ったというデータを見ました。",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   },
+   {
+    "quote": "2019年は約109万人。それが2024年には約90万人まで減っています。",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   },
+   {
+    "quote": "この数字を見て、「やっぱりそうか」と思いました。",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   },
+   {
+    "quote": "うちの会社もハローワークに求人を出しています。",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークを使う人がいなくなったわけではない",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、ハローワーク自体が使われなくなったわけではありません。",
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "pass": 3
+   },
+   {
+    "quote": "【令和最新版】人事担当のためのハローワーク活用術-完全ガイド【裏技あり】｜株式会社ROBINSON",
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "pass": 3
+   },
+   {
+    "quote": "【令和最新版】人事担当のためのハローワーク活用術-完全ガイド【裏技あり】",
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークについて「採用担当者が知らないその活用戦略」を一つにまとめて全9章に分けて",
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "pass": 3
+   },
+   {
+    "quote": "します。このページを見れば、ハローワークの「",
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "pass": 3
+   },
+   {
+    "quote": "採用難の時代。多くの企業はIndeedや求人ボックス、転職エージェントへ予算を割きながら「広告単価の高騰」「応募単価の上昇」に頭を悩ませています。一方、無料で使えるにもかかわらず圧倒的な母集団とアクセス数を誇るのに、企業側の理解不足によって十分活用されていない媒体があります。",
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "pass": 3
+   },
+   {
+    "quote": "無料だから成果が出ないのではなく、無料だからこそ設計次第で大きな成果を生む。ハローワークは単なる求人票ではなく、母集団形成、能動的なスカウト、窓口を介した企業紹介、さらには採用ピッチの掲載もできる",
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、膨大なデータと実例、そして具体的な運用手法を統合し、ハローワークの本質と活用戦略を一つの流れとしてお届けします。読み終えた瞬間から実行に移せる、実務レベルの知識です。",
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 隠れた巨大プラットフォームとしてのハローワーク",
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ハローワークから民間サービスへ？変化する採用市場と、多様化する採... トピック ハローワーク経由の転職は2019年から2024年にかけて低下する一方、人材紹介など民間サービスの存在感が高まっている 2023年から2026年で企業の利用する採用手法が大きく変化。ハローワークの割合は36.7％から16.9％に低下し、Indeed PLUSが40.7％で最大に ITエンジニアはダイレクトリク ...",
+    "url": "https://x.com/HRognet/article/2108123175766925341",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートワークス研究所「ハローワークの紹介はなぜ事務職に偏るの... 石井雄太郎@HRハッカー (@yutaro_ishii). 49 likes. リクルートワークス研究所「ハローワークの紹介はなぜ事務職に偏るのか」 気になったポイント抜粋 ハローワークを経由した就職者の割合は15％程度まで低下し、民間職業紹介やスポットワークによるマッチングが増加 求職者と求人企業を結びつける ...",
+    "url": "https://x.com/yutaro_ishii/status/2068988029243675104",
+    "pass": 3
+   },
+   {
+    "quote": "石井雄太郎@HRハッカー×Indeed on X: \"フロッグさんの求人ビッグデー... フロッグさんの求人ビッグデータ調査より 正社員の採用手法の割合が、3年で大きく入れ替わる 【2023年7月】 ハローワーク 36.7％ ダイレクトリクルーティング 32.1％ 人材紹介 28.0％ 従来型の求人広告 3.2％ 【2026年7月】 Indeed PLUS 40.7％ ダイレクトリクルーティング 24.5％ 人材紹介 17.1 ...",
+    "url": "https://x.com/yutaro_ishii/status/2109969177788481961",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "日本経済新聞（日経新聞） - 地方版ハローワーク、就職率は国のハロー... Aug 22, 2025 · 地方版ハローワーク、就職率は国のハローワークを上 回る https://www.nikkei. com/article/DGXZQOCC113GA0R10C25A7000000/?n_ cid=DSPRM1489 自治体が運営する無料の職業紹介所が眠れる働き手を 発掘。 地域のニーズを細かく吸い上げ、高齢者や女性 らをマッチングします。",
+    "url": "https://www.facebook.com/nikkei/posts/地方版ハローワーク就職率は国のハローワークを上回るhttpswwwnikkeicomarticledgxzqocc113ga0r10c25a7000000n_c/1296907418447324/",
+    "pass": 3
+   },
+   {
+    "quote": "地方版ハローワーク、女性や高齢者の働き手発掘 就職率は国を上回る..... 地方版ハローワーク、女性や高齢者の働き手発掘 就職率は国を上回る 日経新聞に有料会員登録しないと全文は読めませんが、一応、ご参考までにシェアします。 自治体が運営する無料の職業紹介所「地方版ハローワーク」が眠れる働き手を発掘している。 5月時点で全国に992カ所あり、島根県 ...",
+    "url": "https://www.facebook.com/JAICOKITAKANTOU/posts/地方版ハローワーク女性や高齢者の働き手発掘-就職率は国を上回る日経新聞に有料会員登録しないと全文は読めませんが一応ご参考までにシェアします自治体が運営する無料の/1161089989373894/",
+    "pass": 3
+   },
+   {
+    "quote": "LO活（Local+就活） - ハローワーク の「地方就職 支援コーナー」とは... ハローワーク の「地方就職 支援コーナー」とは？ 「地方就職支援コーナー」は、東京圏・大阪圏にお住まいで、UIJターンなどの地方就職を希望されている方を支援する専門コーナー 「地方 で生活したい！」などというご希望が少しでもあれば、ぜひ一度ご来所ください 詳細はこちら https ...",
+    "url": "https://www.facebook.com/localsyukatsu/posts/ハローワーク-の地方就職-支援コーナーとは地方就職支援コーナーは東京圏大阪圏にお住まいでuijターンなどの地方就職を希望されている方を支援する専門コーナー地方-/3274535079489214/",
+    "pass": 3
+   },
+   {
+    "quote": "浜松新卒応援ハローワーク | Hamamatsu-shi Shizuoka Aug 25, 2026 · 浜松新卒応援ハローワーク, Hamamatsu. 117 followers · 1 talking about this. 学生（中学、高校、短大、専門、大学等）や既卒者・中退者（既卒3年）の方々の就職をサポートする政府機関。適職診断、応募書類作成支援、面接指導等々のご相談を受け付けています。",
+    "url": "https://www.facebook.com/p/浜松新卒応援ハローワーク-100069299284452/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "550",
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "quote": "り扱う求人は年収の幅が狭く、おおむね220～550万円の間となっている"
+   },
+   {
+    "value": "6",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "quote": "期間を通して、民間求人サイトが5万〜6万円以上高い水準が続いています"
+   },
+   {
+    "value": "000",
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "quote": "資本金： 1,000万円"
+   },
+   {
+    "value": "6",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "quote": "期間を通して、民間求人サイトが5万～6万円以上高い水準が続いており、ハローワークでは給与水準の低い企業が利用する傾向があると推察されます"
+   },
+   {
+    "value": "000",
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "quote": "資本金： 1,000万円"
+   },
+   {
+    "value": "85.1",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "民間職業紹介事業者 85.1万円 (n=175) 19.2万円 (n=56)"
+   },
+   {
+    "value": "19.2",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "民間職業紹介事業者 85.1万円 (n=175) 19.2万円 (n=56)"
+   },
+   {
+    "value": "11.2",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "求人情報誌・チラシ 11.2万円 (n=113) 7.7万円 (n=115)"
+   },
+   {
+    "value": "7.7",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "求人情報誌・チラシ 11.2万円 (n=113) 7.7万円 (n=115)"
+   },
+   {
+    "value": "28.5",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "インターネットの求人情報サイト 28.5万円 (n=254) 10.8万円 (n=149)"
+   },
+   {
+    "value": "10.8",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "インターネットの求人情報サイト 28.5万円 (n=254) 10.8万円 (n=149)"
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "インターネットの求人情報まとめサイト 6.4万円 (n=39) 3.2万円 (n=33)"
+   },
+   {
+    "value": "3.2",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "インターネットの求人情報まとめサイト 6.4万円 (n=39) 3.2万円 (n=33)"
+   },
+   {
+    "value": "91.4",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "スカウトサービス 91.4万円 (n=51) 44.0万円 (n=5)"
+   },
+   {
+    "value": "44.0",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "スカウトサービス 91.4万円 (n=51) 44.0万円 (n=5)"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "新聞広告・屋外広告 7.1万円 (n=18) 4.5万円 (n=14)"
+   },
+   {
+    "value": "4.5",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "新聞広告・屋外広告 7.1万円 (n=18) 4.5万円 (n=14)"
+   },
+   {
+    "value": "0.9",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "ＳＮＳ 0.9万円 (n=15) 0.2万円 (n=17)"
+   },
+   {
+    "value": "0.2",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "ＳＮＳ 0.9万円 (n=15) 0.2万円 (n=17)"
+   },
+   {
+    "value": "4.4",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "知り合い・社員等からの紹介（縁故） 4.4万円 (n=99) 3.4万円 (n=67)"
+   },
+   {
+    "value": "3.4",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "知り合い・社員等からの紹介（縁故） 4.4万円 (n=99) 3.4万円 (n=67)"
+   },
+   {
+    "value": "2.8",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "自社ＨＰ等からの直接応募 2.8万円 (n=150) 2.7万円 (n=64)"
+   },
+   {
+    "value": "2.7",
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "quote": "自社ＨＰ等からの直接応募 2.8万円 (n=150) 2.7万円 (n=64)"
+   },
+   {
+    "value": "56.8",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "quote": "新卒採用の平均採用単価は56.8万円"
+   },
+   {
+    "value": "11.8",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "quote": "11.8万円も増加"
+   },
+   {
+    "value": "500",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "quote": "たとえば外部コスト500万円、内部コスト500万円で10名を採用した場合、"
+   },
+   {
+    "value": "100",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "quote": "採用単価は100万円"
+   },
+   {
+    "value": "100",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "採用・教育・生産性低下など合計100万円以上のコスト"
+   },
+   {
+    "value": "300",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "300万円の売上が必要"
+   },
+   {
+    "value": "50",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約30～50万円"
+   },
+   {
+    "value": "20",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約10～20万円"
+   },
+   {
+    "value": "000",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "1,000万円"
+   },
+   {
+    "value": "666",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "1,666万円"
+   },
+   {
+    "value": "333",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "3,333万円"
+   },
+   {
+    "value": "6",
+    "url": "https://hrog.net/report/137006/",
+    "quote": "期間を通して、民間求人サイトが5万〜6万円以上高い水準が続いており、ハローワークでは給与水準の低い企業が利用する傾向があると推察されます"
+   },
+   {
+    "value": "25",
+    "url": "https://hrog.net/report/137006/",
+    "quote": "2027年卒のナビサイトを徹底調査！初任給25万円以上が3割を超え、平均額は1年で4.12%上昇"
+   },
+   {
+    "value": "400",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "年収は「300～400 万円未満」が 27.5%と最も多く、「400～500 万円未満」 （23.1%）、「500～"
+   },
+   {
+    "value": "500",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "年収は「300～400 万円未満」が 27.5%と最も多く、「400～500 万円未満」 （23.1%）、「500～"
+   },
+   {
+    "value": "600",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "600 万円未満」 （14.7％） 、 「300 万円未満」 （12.5％）が続き、それらを合わせると 77.8％にな"
+   },
+   {
+    "value": "300",
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "quote": "600 万円未満」 （14.7％） 、 「300 万円未満」 （12.5％）が続き、それらを合わせると 77.8％にな"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/column/labor-market/detail015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guidablejobs.jp/contents/how-to-recruit/10022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://biz.nuro.jp/column/103/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hrog.co.jp/news/entry-422/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/001683249.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/column/hataraku-ronten/detail034.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.careermart.co.jp/blog/14968",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resus.jp/topics/4594/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.bizreach.biz/17066/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smbiz.asahi.com/article/15803742",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrog.net/report/137006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp-reports.com/ja/articles/01KK0VJGTRPSETPAMJNE8AEGP6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/bunya/koyoukintou/dl/h26-01_itakuchousa02-02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/2017/0118nk/n17_2_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academia.hrog.net/report/2092/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089556_00024.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398531",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12000000/001485589.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260119_105919/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/file/05-Shingikai-11601000-Shokugyouanteikyoku-Soumuka/0000105360.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b2_4_2_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr24-4/chr24-4_01-02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lokatsu-company.mhlw.go.jp/knowledge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HRognet/article/2108123175766925341",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yutaro_ishii/status/2068988029243675104",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yutaro_ishii/status/2109969177788481961",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nikkei/posts/地方版ハローワーク就職率は国のハローワークを上回るhttpswwwnikkeicomarticledgxzqocc113ga0r10c25a7000000n_c/1296907418447324/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/JAICOKITAKANTOU/posts/地方版ハローワーク女性や高齢者の働き手発掘-就職率は国を上回る日経新聞に有料会員登録しないと全文は読めませんが一応ご参考までにシェアします自治体が運営する無料の/1161089989373894/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/localsyukatsu/posts/ハローワーク-の地方就職-支援コーナーとは地方就職支援コーナーは東京圏大阪圏にお住まいでuijターンなどの地方就職を希望されている方を支援する専門コーナー地方-/3274535079489214/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/浜松新卒応援ハローワーク-100069299284452/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 人手不足 受注 断る",
+   "results": [
+    "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "https://www.works-i.com/column/labor-market/detail015.html",
+    "https://guidablejobs.jp/contents/how-to-recruit/10022/",
+    "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "https://biz.nuro.jp/column/103/",
+    "https://jinjibu.jp/article/detl/hr-survey/3551/",
+    "https://platform.zcareer.com/media/hellowork",
+    "https://jsite.mhlw.go.jp/osaka-roudoukyoku/content/contents/002235741.pdf",
+    "https://cocreapartner.com/hellowork-seizogyo-oubo-konai/"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 受注残 人手不足",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://www.works-i.com/column/labor-market/detail015.html",
+    "https://hrog.co.jp/news/entry-422/",
+    "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "https://www.mhlw.go.jp/content/001683249.pdf",
+    "https://guidablejobs.jp/contents/how-to-recruit/10022/",
+    "https://jinjibu.jp/article/detl/hr-survey/3551/"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.works-i.com/column/hataraku-ronten/detail034.html",
+    "https://www.jmam.co.jp/hrm/column/0136-manufacturing.html",
+    "https://bpo.or.jp/publish/pdf/report2011.pdf",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://toyokeizai.net/articles/-/929310?display=b"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 採用単価 規模別",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.careermart.co.jp/blog/14968",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://edenred.jp/article/hr-recruiting/213/"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 採用コスト 調査 万円",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://resus.jp/topics/4594/",
+    "https://media.bizreach.biz/17066/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://smbiz.asahi.com/article/15803742"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.mhlw.go.jp/bunya/koyoukintou/dl/h26-01_itakuchousa02-02.pdf",
+    "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www5.cao.go.jp/keizai3/2017/0118nk/n17_2_1.html",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://smbiz.asahi.com/article/15803742",
+    "https://www.works-i.com/column/labor-market/detail018.html",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://hrog.co.jp/news/entry-422/",
+    "https://academia.hrog.net/report/2092/",
+    "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089556_00024.html"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://hrog.co.jp/news/entry-422/",
+    "https://www.works-i.com/column/labor-market/detail015.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "https://www.mhlw.go.jp/content/12000000/001485589.pdf",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "https://career-research.mynavi.jp/reserch/20260119_105919/"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） 白書 採用",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.mhlw.go.jp/content/12401000/000714591.pdf",
+    "https://www.works-i.com/column/labor-market/detail018.html",
+    "https://smbiz.asahi.com/article/15803742",
+    "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "https://hrog.net/report/137006/",
+    "https://www.mhlw.go.jp/file/05-Shingikai-11601000-Shokugyouanteikyoku-Soumuka/0000105360.pdf",
+    "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b2_4_2_1.html",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398531"
+   ]
+  },
+  {
+   "query": "site:note.com 地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合）",
+   "results": [
+    "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "https://note.com/luft0415k/n/n0a9c5bbfc215",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/shizuku_jobti/n/nb5331810a7c3",
+    "https://note.com/tck/n/n95812964bcbb",
+    "https://note.com/qa/inofthefor",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/chidaism/n/nc5228ef29ef4",
+    "https://note.com/loyal_ivy9071/n/n9f8ac4bd7d24"
+   ]
+  },
+  {
+   "query": "site:x.com 地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合）",
+   "results": [
+    "https://x.com/hukugyootaku/status/2034836262776115494",
+    "https://x.com/HRognet/article/2108123175766925341",
+    "https://x.com/yutaro_ishii/status/2068988029243675104",
+    "https://x.com/yutaro_ishii/status/2109969177788481961",
+    "https://x.com/yuuhi_career/status/2112015973259878670",
+    "https://x.com/Riko_mentor/status/2085164830596755560",
+    "https://x.com/yutaro_ishii/status/2052348096391360801",
+    "https://x.com/Hitolabo_KS/status/2067788372568056219"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合）",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合）",
+   "results": [
+    "https://www.facebook.com/nikkei/posts/地方版ハローワーク就職率は国のハローワークを上回るhttpswwwnikkeicomarticledgxzqocc113ga0r10c25a7000000n_c/1296907418447324/",
+    "https://www.facebook.com/JAICOKITAKANTOU/posts/地方版ハローワーク女性や高齢者の働き手発掘-就職率は国を上回る日経新聞に有料会員登録しないと全文は読めませんが一応ご参考までにシェアします自治体が運営する無料の/1161089989373894/",
+    "https://www.facebook.com/localsyukatsu/posts/ハローワーク-の地方就職-支援コーナーとは地方就職支援コーナーは東京圏大阪圏にお住まいでuijターンなどの地方就職を希望されている方を支援する専門コーナー地方-/3274535079489214/",
+    "https://www.facebook.com/p/浜松新卒応援ハローワーク-100069299284452/",
+    "https://www.facebook.com/mhlw.japan/posts/政府広報提供ラジオ番組でハローワークの取り組みをご紹介ハローワークでは新しい仕事を探すときに感じる不安や迷いに寄り添いながら職業相談職業紹介履歴書の書き方や面接/1339332018230188/",
+    "https://www.facebook.com/jomoshinbun/posts/高校卒業後の進路に地域差はある-9エリアで大学専門学校就職の割合を分析-群馬の高校-卒業生の進路20265上毛新聞/1600532288419433/",
+    "https://www.facebook.com/mhlw.japan/photos/採用情報都道府県労働局都道府県労働局ハローワーク労働基準監督署はひととはたらくをつなぐ厚生労働省の地方機関です社会の当たり前を支える最前線で働いてみませんか皆さ/1396202802543109/"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） note 社長",
+   "results": [
+    "https://note.com/nihonkabu_note/n/n0931c6938576",
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://note.com/robinson_0822/n/n660f8a923cf4",
+    "https://smbiz.asahi.com/article/15803742",
+    "https://note.com/leadstar/n/ne849b7ed0af6",
+    "https://marugotoinc.jp/blog/seizou_posting/",
+    "https://www.works-i.com/column/labor-market/detail015.html",
+    "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "https://note.com/mmaassaahhiirroo/n/ned38d2bad139",
+    "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment"
+   ]
+  },
+  {
+   "query": "地方の製造業の採用経路（ハローワーク・学校・紹介・広告の割合） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://smbiz.asahi.com/article/15803742",
+    "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/haken-shoukai/r0604anteisokukaisei1_00006.html",
+    "https://mainichi.jp/articles/20261008/pr2/00m/020/691000c",
+    "https://marugotoinc.jp/blog/seizou_posting/",
+    "https://www.pacola.co.jp/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E5%88%A9%E7%94%A8%E7%8E%8719-2%EF%BC%81%E6%B1%82%E4%BA%BA%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C33-2%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B/",
+    "https://www.wels-sr.com/jinji-roumu/recruit-2-83/",
+    "https://www.mhlw.go.jp/content/001683249.pdf",
+    "https://www.sansokan.jp/mng/keiei-column/059/",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398531"
+   ]
+  },
+  {
+   "query": "recruiting channels regional manufacturers Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/deanstallard_japan-makeyourmove-recruitment-activity-7402119469642395648-5vwo",
+    "https://jp.linkedin.com/in/kaoru-jo/en",
+    "https://tt.linkedin.com/company/spottedrecruit",
+    "https://www.linkedin.com/in/rikaarita",
+    "https://www.linkedin.com/posts/michael-rajesh-christie_hiring-from-overseas-for-roles-in-japan-activity-7403606881773981696-nUyH",
+    "https://www.linkedin.com/posts/scottscofield_japanrecruitment-japanbusiness-laborshortage-activity-7515735281900134400-z-tv",
+    "https://jp.linkedin.com/in/richardfukuda",
+    "https://www.linkedin.com/company/precision-sales-recruiting",
+    "https://jp.linkedin.com/in/mathieu-rauly-041744115/en",
+    "https://www.linkedin.com/company/gaidoor-recruit/"
+   ]
+  }
+ ],
+ "missing": {}
+}

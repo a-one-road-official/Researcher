@@ -1,0 +1,1750 @@
+{
+ "name": "人手不足で受注を断った企業の割合（規模別・業種別）",
+ "en": "share of SMEs declining orders due to labor shortage Japan by size",
+ "aliases": [
+  "人手不足 受注を断った 割合",
+  "人手不足 受注 見送り 中小企業白書",
+  "人手不足 機会損失 調査 製造業"
+ ],
+ "context": "損の額・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:49:44.836781+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより既存従業員の疲弊が進み、離職が新たな人手不足を生むという悪循環に陥るケースが増加しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足により既存の業務を維持することが精一杯の状況では、新規受注を断らざるを得ない事態が頻発します",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の離職により、離職しなかった既存従業員にその業務負荷が割り振られることで、一人当たりの業務量が大幅に増加します",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン社員の離職や定年退職により、長年培われた技術や業務ノウハウが若手に伝承されないまま失われる事態が多発しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "労働者不足による倒産リスクと事業継続の限界",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "労働者不足の最終的な帰結として、企業の倒産リスクが急激に高まっています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2024年）」",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、特に2024年問題の影響を受けた建設業では99件、物流業では46件の人手不足倒産が発生し、両業種で全体の4割強を占めています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "黒字経営であっても人手不足により倒産に至るケースも増加しており、従来の財務指標だけでは測れないリスクが顕在化しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "また、従業員のエンゲージメント向上により離職率を低下させることも重要です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "調査によると、エンゲージメントが高い企業ほど離職率が低下する傾向があることが確認されており、従業員が「この職場で長く働きたい」と思える環境づくりが効果的です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "人材確保・定着にかかるコストと、人手不足により生じる機会損失を比較検討する必要があります",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "・待遇改善：人件費増加だが、離職率低下と優秀人材確保",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産のリスクを考慮すると、適切な人材投資は企業存続のための必須コストといえます",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "後継者不在による廃業を避けることで、その企業が持つ人材とノウハウを社会全体で有効活用できます",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "後継者不在による127万社の廃業リスクを考慮すると、M&Aは雇用維持と技術継承の重要な手段となります",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "をみると、5年前においては、「業務に必要な資格や能力を持つ人材の不足」、「業務量の拡大」が複数回答で半数を超え、最も大きい要因として挙げられていたが、2024年現在は、これらの回答割合は依然高いものの、「離職者・退職者の増加」を挙げる企業の割合が5年前の38％程度から56％程度へと大幅に増加し、最も大きな要因となっていることが分かる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "業の収益性に問題はないが後継者が見つからないため廃業」が増加しており、特に飲食以",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "後継者不在で廃業予定の企業のデジタル化の取組状況について比較したものである",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "見通しがついている企業では 12.5%に対して、 廃業予定の企業では1.8%となっている",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た、 社内文書の電子化については、 承継の見通しがついている企業では7.6%、 廃業予定の",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 68 廃業予定企業と承継に問題のない企業での比較（グループウェア）",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 69 廃業予定企業と承継に問題のない企業での比較（社内文書の電子化）",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査」",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2025年の人手不足倒産は427件と3年連続で過去最多を更新しました",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の多くは、赤字ではなく人員不足を理由に事業継続を断念した会社です",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "受注を断った件数と退職で失った人数を金額に置き換え、残業代と並べると、優先順位を決められます",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職を1人減らせば、採用を1人成功させたのと同じです",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けては、技術が途絶える、人件費と採用単価が上がる、人手不足倒産が増える、受注を絞らざるを得なくなる、という4つが重なる",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "3つのうちどれが自社の詰まりどころかは、離職の時期と選考の通過状況を並べると見えてきます",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足に対する企業の動向調査」（2025年4月",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "「法人企業景気予測調査」（2025年1～3月期調査）",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "では、従業員数判断BSI（「不足気味」の企業割合－「過剰気味」の企業割合）において、大企業が28.3ポイントであるのに対し、中小企業は30.3ポイントと、依然として中小企業の方が深刻な人手不足に陥っていることが明確に示されています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、中小企業の63.0%が「人手不足」と回答し、そのうち65.5%が事業運営に「深刻な影響」（「非常に深刻」または「深刻」）を受けている状況です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの業界では、依然として7割近い企業が人手不足に直面しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 第1節 高まる人手不足感と企業部門の対応 - 内閣府",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 人手不足による成長制約を乗り越えるための課題 第1節",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1節 高まる人手不足感と企業部門の対応",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "1 人手不足の現状",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "直近2024年6月調査時点の雇用人員判断DIは、全規模全産業ベースでマイナス35％ポイントと、「不足」と回答する企業の割合が「過剰」と回答する企業の割合を大幅に上回っており、企業の人手不足感の深刻さを物語っている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "DIの水準としては、バブル期の景気拡大期のピークである1990年11月調査及び1991年2月調査におけるマイナス46％ポイントという既往の不足超幅の最高値は下回っているものの、バブル期は、供給面の制約というよりは過剰な需要が人手不足感を引き起こしていたという点で、近年とは状況が異なる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、コロナ禍以前の2018年12月調査及び2019年3月調査のマイナス35％ポイントと同程度となっているが、それ以降、コロナ禍による経済社会活動の抑制により、一時的に不足感が緩和していたに過ぎず、こうした人手不足感の拡大の流れは、傾向として続く構造的なものとなっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "次に業種別に長期のDIをみると、製造業では2024年6月調査のDIがマイナス21％ポイントと、コロナ禍前の不足超幅を下回っている一方、非製造業ではマイナス45％ポイントと、1990年11月調査及び1991年2月調査のマイナス47％ポイントに迫るまで人手不足感が拡大している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、規模別に長期のDIをみると、大企業（全産業）では2024年6月調査のDIがマイナス28％ポイント、中小企業（全産業）ではマイナス37％ポイントと、バブル期の1991年2月調査のマイナス40％ポイント、マイナス47％ポイントよりは不足超幅が低いが、中小企業の非製造業では、バブル期のピークを超えて人手不足感が高まっていることが確認される",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2））、製造業の人手不足感は、機械関係業種を中心にコロナ禍前を幾分下回る程度となっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここで、企業の人手不足感の高まりの内容や背景を探るべく、内閣府が2024年に実施した「人手不足への対応に関する企業意識調査」等",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "まず、従前、人手不足感が高まっていたコロナ禍前（5年前）から現時点にかけて、企業にとっての働き手の職種別、年齢別の人手不足状況に変化がみられるのかを確認する",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、横軸に5年前の人手不足割合（人手が「不足」、「やや不足」と回答している企業の割合）を、縦軸に2024年現在の人手不足割合をとり、業種ごとの人手不足感をプロットしたものである",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表 14 従業員数",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11～20人",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "21～50人",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "51～100人",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "101～300人",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "301人以上",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EDI 等の導入率は、11 人以上の企業で 50%を超えるものの、301 人以上の企業を除け",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5人以下(n=1109)",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6～10人(n=518)",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の人手不足の現状と原因｜工種別の違いと2030年の見通し | TEAM-X株式会社",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の人手不足の現状と原因｜工種別の違いと2030年の見通し",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "就業者数はピークから200万人減った",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業就業者数は、1997年の685万人をピークに長期的な減少傾向が続き、2025年平均では478万人です（出典：",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "ピーク時から200万人以上、約3割減った",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "ここ数年は480万人前後で横ばいです",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率5.65倍は全職業平均の5倍",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "求職者1人に対して、求人が5件以上ある計算になります",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "大企業では初任給30万円時代と言われる中、賃上げ機運に追いつけない中小企業が増加しており、人材獲得においてますます不利な状況に置かれています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "のとおりであり、第一に、年齢が高いほど留保賃金が高いこと、第二に、配偶者の収入や不動産賃貸収入等を含む、本人にとっての不労所得が高い（500万円以上）場合には留保賃金が高くなることが確認される",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、労働分配率を被説明変数とし、<1>資本との代替・補完関係を示す指標として資本財価格（機械設備又はコンピュータ・ソフトウェア）、<2>グローバル化の指標として売上高に対する輸出の比率（輸出比率）及び費用総額に対する輸入の比率（輸入比率）、<3>従業者に占めるパートタイム労働者の比率（パート労働者比率）等を説明変数とする固定効果モデルを推計した",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、「法人企業統計」ベースと国民経済計算ベースでは、<1>国民経済計算には、政府部門など非市場生産者や医療法人・社会福祉法人等が含まれるほか、不動産業に持家の帰属家賃分が含まれる、<2>四半期別法人企業統計ベースは資本金1,000万円未満企業分が含まれないほか、純粋持株会社の利益に含まれる子会社からの配当分が国民経済計算ベースでは付加価値（GDP）には含まれない、といったカバレッジ上の違いがあることに留意が必要",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（21）同調査は、従業者50人以上かつ資本金又は出資金3,000万円以上の企業を対象としており、中小企業も含むが、中堅企業以上をより代表していると考えられる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 直近、直近より 1 期前、直近より 2 期前の売上高",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500万円超～1,000万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円超～2,000万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円超～5,000万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円超～1億円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1億円超～3億円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 期前、直近決算期の 2 期前における売上高及び営業利益率について尋ねた結果をまとめ",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 20 売上高（直近決算期）",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円超～2,500万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2,500万円超～5,000万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円超～7,500万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7,500万円超～1億円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1億円超～1億5,000万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1億5,000万円超～2億円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2億円超～3億円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業生産労働者の年間平均賃金は432万円で、全産業労働者の508万円（非正規を除く）を",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "76万円下回ります",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "建築施工管理は1級とRC経験で年収1000万円台",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "建築施工管理では、1級施工管理技士とRC造の経験を併せ持つ人材に、年収1000万円以上のオファーが出ています",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "請負代金が1億円未満（建築一式工事は2億円未満）",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2025年2月1日からは、専任配置が必要となる請負代金の基準が4,000万円から4,500万円（建築一式工事は8,000万円から9,000万円）に引き上げられています（出典：",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "請負代金1億円未満（建築一式工事は2億円未満）、現場間の移動時間がおおむね2時間以内、下請次数3次まで、連絡員の配置、ICTの活用が主な条件です",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "大企業では初任給30万円時代と言われる中、賃上げ機運に追いつけない中小企業が増加しており、人材獲得においてますます不利な状況に置かれています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "のように、人手が「適正」とする企業と比べると、人手が「やや不足」や「不足」としているとする企業は、労働生産性が有意に低いという結果が確認され、「不足」企業は「適正」企業に比べて3割程度低くなっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "のとおりであり、第一に、年齢が高いほど留保賃金が高いこと、第二に、配偶者の収入や不動産賃貸収入等を含む、本人にとっての不労所得が高い（500万円以上）場合には留保賃金が高くなることが確認される",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1）のとおり、製造業においては、機械設備装備率、ソフトウェア装備率ともに、労働生産性とは正の相関関係がみられるが、機械設備の方がソフトウェアに比べ、労働生産性への影響が強いことが示唆される",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "と同じ定義として、企業財務データとマッチングして企業単位で作成し、業種や企業規模をコントロールした上で、傾向スコアを用いた逆確率重み付け法による平均処置効果を推計すると、省力化投資を行っている企業では、そうでない企業に比べ、時間当たりの労働生産性が10％程度高いという結果が得られた（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、同様の手法で、省力化投資を5年前から増加させたことによる労働生産性への効果を推計すると、省力化投資を増加させた企業は、そうでない企業に比べ、10％以上、労働生産性が高いという結果となっている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（3）ここでは、労働生産性を、労働投入量に対する付加価値の比率、すなわち時間当たりの労働生産性として定義している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "500万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500万円超～1,000万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円超～2,000万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円超～5,000万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円超～1億円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円超～2,500万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2,500万円超～5,000万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5,000万円超～7,500万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7,500万円超～1億円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1億円超～1億5,000万円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1億5,000万円超～2億円以下",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業生産労働者の年間平均賃金は432万円で、全産業労働者の508万円（非正規を除く）を",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "76万円下回ります",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "建築施工管理は1級とRC経験で年収1000万円台",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "建築施工管理では、1級施工管理技士とRC造の経験を併せ持つ人材に、年収1000万円以上のオファーが出ています",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2025年2月1日からは、専任配置が必要となる請負代金の基準が4,000万円から4,500万円（建築一式工事は8,000万円から9,000万円）に引き上げられています（出典：",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "人は辞めないが、1人当たりの業務量が限界",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足に対する企業の動向調査」（2025年4月",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の最新データで見る深刻な労働者不足の実態",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局の労働力調査によると、労働力人口は増加傾向にあるものの、企業が求める人材と求職者のスキルミスマッチが拡大しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "「法人企業景気予測調査」（2025年1～3月期調査）",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "日本商工会議所の調査（2024年7月）",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2024年卒採用において採用計画の8割以上を達成した企業の割合は、大企業（従業員1,001名以上）が76%だったのに対し、中小企業（従業員300名以下）では47%にとどまりました",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより既存従業員の疲弊が進み、離職が新たな人手不足を生むという悪循環に陥るケースが増加しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月時点の帝国データバンクの調査",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の労働者不足の最大の要因は、少子高齢化による生産年齢人口（15～64歳）の減少です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "生産年齢人口（15～64歳）は1995年の8,717万人をピークに減少に転じています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "では、2070年には生産年齢人口が4,535万人まで減少すると予測されています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "この急激な人口減少は「人口オーナス期」と呼ばれ、経済成長の重荷となる状況です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化も同時進行しており、2024年の高齢化率は29.3％に達しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のように一つの会社で生涯働くという概念よりも、キャリアアップや自己実現のための転職を肯定的に捉える若者が増加しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "直近2024年6月調査時点の雇用人員判断DIは、全規模全産業ベースでマイナス35％ポイントと、「不足」と回答する企業の割合が「過剰」と回答する企業の割合を大幅に上回っており、企業の人手不足感の深刻さを物語っている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、コロナ禍以前の2018年12月調査及び2019年3月調査のマイナス35％ポイントと同程度となっているが、それ以降、コロナ禍による経済社会活動の抑制により、一時的に不足感が緩和していたに過ぎず、こうした人手不足感の拡大の流れは、傾向として続く構造的なものとなっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "次に業種別に長期のDIをみると、製造業では2024年6月調査のDIがマイナス21％ポイントと、コロナ禍前の不足超幅を下回っている一方、非製造業ではマイナス45％ポイントと、1990年11月調査及び1991年2月調査のマイナス47％ポイントに迫るまで人手不足感が拡大している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、規模別に長期のDIをみると、大企業（全産業）では2024年6月調査のDIがマイナス28％ポイント、中小企業（全産業）ではマイナス37％ポイントと、バブル期の1991年2月調査のマイナス40％ポイント、マイナス47％ポイントよりは不足超幅が低いが、中小企業の非製造業では、バブル期のピークを超えて人手不足感が高まっていることが確認される",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、現行の産業分類で遡及可能な2010年以降について、企業規模別に業種別寄与度を確認すると（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここで、企業の人手不足感の高まりの内容や背景を探るべく、内閣府が2024年に実施した「人手不足への対応に関する企業意識調査」等",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、横軸に5年前の人手不足割合（人手が「不足」、「やや不足」と回答している企業の割合）を、縦軸に2024年現在の人手不足割合をとり、業種ごとの人手不足感をプロットしたものである",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "をみると、5年前においては、「業務に必要な資格や能力を持つ人材の不足」、「業務量の拡大」が複数回答で半数を超え、最も大きい要因として挙げられていたが、2024年現在は、これらの回答割合は依然高いものの、「離職者・退職者の増加」を挙げる企業の割合が5年前の38％程度から56％程度へと大幅に増加し、最も大きな要因となっていることが分かる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした結果は、この間に、比較的若年層を中心に転職等希望者が800万人程度から1,000万人超にまで増加していることや（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1））、実際の転職者が正社員間で増加していること（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "アンケート調査の結果から、企業が人手不足による悪影響として挙げている要素をみると、回答企業割合が高く、かつ、この5年間でより多くの企業が指摘するようになっている事項としては、「労働時間の増加」や「採用コストの増加」といった、コスト面に関する点が挙げられる（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第一に、5年前と現在とで比較して、回答企業の割合が最も大きく増加しているのは「従業員の待遇改善」である",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "他にも「従業員の育成」、「定年延長・定年後の再雇用制度の拡充」などの項目でも回答割合が増加していることと併せて考えれば、転職市場が拡大する中での人手不足感の高まりという状況下において、企業が既存雇用の流出を防ぐための対応をより積極的に行っている様子がうかがえる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "といった項目の割合も増加していることと併せて考えれば、人手が不足する中で、新たな人材の確保が企業にとって重要なイシューであり続けていることが分かる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第三に、上記のような既存又は新規の人材確保策と比べれば回答割合が相対的に低いものの、「省力化投資」を挙げる企業の割合も増加している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、「省力化投資」に取り組む企業の割合は、企業規模を問わず製造業において相対的に高いが、5年前からの変化幅という点では、中小企業の非製造業が大きく増加している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（人材の確保や引き留めのために賃上げを行う企業の割合は着実に増加）",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "まず、従業員の待遇改善に関して、厚生労働省「賃金引上げ等の実態に関する調査」の結果を基に、30年ぶりの賃上げ水準となった2023年の賃金改定において、企業が最も重視した要素（単一回答）をみてみよう（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年度下請中小企業・小規模事業者等活性化調査研究等事業",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年11 月",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020 年から拡大が進む新型コロナウイルス感染症の流行により、日本のデジタル化の",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015 年度に当協会が「下請",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年 7 月 12 日（月）～8 月 31 日（火）",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年 8 月 6 日（金）～9 月 24 日（金）",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１回 2021 年 6 月 16 日（水）16:00～18:00",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２回 2021 年 8 月 18 日（水）13:30～15:30 （１）アンケート調査の結果（速報）について （２）ヒアリング調査の結果（速報）について （３）今後の進め方（スケジュール等）について",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３回 2021 年 9 月 29 日（水）10:00～12:00 （１）ヒアリング調査の結果について （２）最終報告書の取りまとめの方向性について （３）今後の進め方（スケジュール等）について",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 2015 年度調査で実際に発送・回収した区分から、「医療業（医",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ コロナ禍以降、他業種と比べて業績の推移が堅調であり、 DX",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 調査票発送日：2021 年 7 月 12 日（月）",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 書面上の回答期日：2021 年 7 月 23 日（金）",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 調査票受付締切日：2021 年 8 月 31 日（火）",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2006～2010年",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011～2015年",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年～",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年4月以降",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年問題",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業就業者数は、1997年の685万人をピークに長期的な減少傾向が続き、2025年平均では478万人です（出典：",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "労働力調査は2002年と2009年に日本標準産業分類の改定を挟むため、1997年と2025年は厳密には同一基準ではありません",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "※2024年時点",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省「国土交通白書2025」",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省は、今後、高齢就業者の大量退職と少子化による若年者の入職の減少が見込まれるとしています",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足に対する企業の動向調査」（2025年4月",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "では、従業員数判断BSI（「不足気味」の企業割合－「過剰気味」の企業割合）において、大企業が28.3ポイントであるのに対し、中小企業は30.3ポイントと、依然として中小企業の方が深刻な人手不足に陥っていることが明確に示されています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、中小企業の63.0%が「人手不足」と回答し、そのうち65.5%が事業運営に「深刻な影響」（「非常に深刻」または「深刻」）を受けている状況です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより既存従業員の疲弊が進み、離職が新たな人手不足を生むという悪循環に陥るケースが増加しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、正社員の人手不足が最も深刻な業界は以下の通りです",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの業界では、依然として7割近い企業が人手不足に直面しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、従来の働き方では必要な労働時間を確保できなくなり、人手不足が一層深刻化しています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足により既存の業務を維持することが精一杯の状況では、新規受注を断らざるを得ない事態が頻発します",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "マンパワーグループの調査によると、人手不足企業の多くが「仕事の受注そのものを減らすか、断るしかない」状況に追い込まれています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の調査では、人手不足が職場環境に与える影響として「残業時間の増加、休暇取得数の減少」が最多となっており、企業・労働者双方が最も深刻に感じている問題です",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "技術継承の重要性は理解されているものの、人手不足により教育・研修の時間が十分に取れないことが問題となっています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の調査では、人手不足による企業への影響として「能力開発機会の減少」が上位に挙げられており、人材育成機能の低下が懸念されています",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "納期遅延、品質低下、サービス水準の悪化などが顕在化し、顧客満足度の低下を招きます",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足により業務効率が低下すると、同業他社との競争において不利な状況に陥ります",
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 第1節 高まる人手不足感と企業部門の対応 - 内閣府",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 人手不足による成長制約を乗り越えるための課題 第1節",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1節 高まる人手不足感と企業部門の対応",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "本節においては、企業の人手不足感の現状やこれが企業活動に及ぼす影響を概観するとともに、人手不足に対する企業の対応としてとられている雇用者の賃金引上げや省力化投資の現状と課題を分析する",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "1 人手不足の現状",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業の人手不足感は、非製造業でバブル期並みとなるなど、歴史的水準まで高まり）",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに、企業の人手不足感の動向を、日銀短観を基に概観しよう",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "直近2024年6月調査時点の雇用人員判断DIは、全規模全産業ベースでマイナス35％ポイントと、「不足」と回答する企業の割合が「過剰」と回答する企業の割合を大幅に上回っており、企業の人手不足感の深刻さを物語っている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "DIの水準としては、バブル期の景気拡大期のピークである1990年11月調査及び1991年2月調査におけるマイナス46％ポイントという既往の不足超幅の最高値は下回っているものの、バブル期は、供給面の制約というよりは過剰な需要が人手不足感を引き起こしていたという点で、近年とは状況が異なる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、コロナ禍以前の2018年12月調査及び2019年3月調査のマイナス35％ポイントと同程度となっているが、それ以降、コロナ禍による経済社会活動の抑制により、一時的に不足感が緩和していたに過ぎず、こうした人手不足感の拡大の流れは、傾向として続く構造的なものとなっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "次に業種別に長期のDIをみると、製造業では2024年6月調査のDIがマイナス21％ポイントと、コロナ禍前の不足超幅を下回っている一方、非製造業ではマイナス45％ポイントと、1990年11月調査及び1991年2月調査のマイナス47％ポイントに迫るまで人手不足感が拡大している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、規模別に長期のDIをみると、大企業（全産業）では2024年6月調査のDIがマイナス28％ポイント、中小企業（全産業）ではマイナス37％ポイントと、バブル期の1991年2月調査のマイナス40％ポイント、マイナス47％ポイントよりは不足超幅が低いが、中小企業の非製造業では、バブル期のピークを超えて人手不足感が高まっていることが確認される",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2））、製造業の人手不足感は、機械関係業種を中心にコロナ禍前を幾分下回る程度となっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、非製造業では、大企業・中小企業ともに、建設・不動産、卸売や対事業所サービス、小売や対個人及び宿泊・飲食サービスなど、幅広い業種において人手不足感が拡大しており、相対的に労働集約的な業種の人手不足感が深刻である様子がうかがえる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（企業の人手不足感は幅広い職種で、年齢別には中年層を中心に高まり）",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここで、企業の人手不足感の高まりの内容や背景を探るべく、内閣府が2024年に実施した「人手不足への対応に関する企業意識調査」等",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "まず、従前、人手不足感が高まっていたコロナ禍前（5年前）から現時点にかけて、企業にとっての働き手の職種別、年齢別の人手不足状況に変化がみられるのかを確認する",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、横軸に5年前の人手不足割合（人手が「不足」、「やや不足」と回答している企業の割合）を、縦軸に2024年現在の人手不足割合をとり、業種ごとの人手不足感をプロットしたものである",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では、少子高齢化を背景とした人手不足、人口減少による国内需要の縮小を背",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人口減少とそれに伴う人手不足や国内市場縮小という国内トレンドが今後も続く中、中",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の人手不足の現状と原因｜工種別の違いと2030年の見通し | TEAM-X株式会社",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の人手不足の現状と原因｜工種別の違いと2030年の見通し",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の人手不足は、規模を問わず多くの会社で経営の制約になっています",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の人手不足とは、工事の量に対して施工管理や職人が足りず、受注や工期に影響が出ている状態です",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "原因は3つあり、どれか1つが解消しても人手不足は残ります",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査」",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2025年の人手不足倒産は427件と3年連続で過去最多を更新しました",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の多くは、赤字ではなく人員不足を理由に事業継続を断念した会社です",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の影響は、まず残業と休日返上に出ます",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足への5つの対策",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の人手不足は、",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "受注を断った件数と退職で失った人数を金額に置き換え、残業代と並べると、優先順位を決められます",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けては、技術が途絶える、人件費と採用単価が上がる、人手不足倒産が増える、受注を絞らざるを得なくなる、という4つが重なる",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 建設業の人手不足はいつまで続きますか？",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 人手不足対策に使える助成金はありますか？",
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "ここでは、日銀短観のオーダーメード集計値により、人手不足感が傾向的に拡大してきた2013年度から2022年度までの期間における、各年3月調査時点での企業の雇用人員判断（「過剰」、「適正」、「不足」）別に、同調査時点における設備投資の当年度実績見込みの伸び率を整理した（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第一に、人手不足に直面している企業（雇用人員判断が「不足」である企業）では、そうでない企業（雇用人員判断が「適正」又は「過剰」である企業）に比べて、有形固定資産投資、ソフトウェア投資のいずれについても、2013年度から2022年度の平均でみた設備投資の伸び率が高く、設備投資へのスタンスが積極的であると言える",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの点について、池田・近松・八木（2023）では、日銀短観の個票データを用い、人手不足の状況が一時的であるか長期化しているかによって、企業の設備投資スタンスの違いを分析している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（6）資本装備率は、労働投入量に対する有形固定資産とソフトウェアの比率",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（15）日銀短観における「設備投資額（含む土地投資額）」",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（16）雇用人員判断を「不足」と回答した回数が、過去8四半期中で1～2期であれば「一時的」、3～4期であれば「やや長期化」、5～8期であれば「長期化」とし、業況感や生産設備の過不足感、資金繰りの過不足感といった要因はコントロールした上で、これら人手不足の状況別のダミーに対する設備投資の感応度を推計している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（24）実際、製造業と非製造業に分け、後半期間で同様の推計を行うと、非製造業では機械設備投資財価格の係数は統計的に有意でない一方、製造業では全産業と同様の代替関係が検出されている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ている」（40.4%） であり、 「IT・ 設備投資を回収できるかどうかの判断が難しい」 （28.9%）、",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ポストコロナ時代における 規模別 ・ 業種 別に見た 中小 企業 の ... — ポストコロナ時代における 規模別 ・ 業種 別に見た 中小 企業 の ... 全国中小企業振興機関協会 PDF https://www.zenkyo.or.jp > docs > houkoku_2021-3",
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mscompass.ms-ins.com/business-news/labor-shortage-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/smartsuit/n/n16e498638ebb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000055.000058841.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.craft-bank.com/cb-souken/shokunin-husoku",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001592320.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engineering-technology.brexa.com/blog/technavi/labor-shortage-bankruptcy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netshop.impress.co.jp/node/11806",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foodpurpose.proguide.co.jp/article/0WfZvI2Z",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hrpro.co.jp/keiei/articles/news/3775",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-hitode-busoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onodera-user-run.co.jp/useful/4477/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/monthly_topics/2023/0630/topics_072.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokohama-cci.or.jp/wp-content/uploads/2024/02/report_Oct2019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250519-laborshortage202504/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1198512_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2025/08_09/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000001270.000043465.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pasona.co.jp/clients/service/column/career/knowhow-labor_shortage/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://higucm.com/news/kensetsu-hitodebusoku-toushi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://team-x.co.jp/knowledge/1018/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.miidas.jp/assessment/2197/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon.com/en/articles/-/17538",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://siific.substack.com/p/beyond-the-numbers-japans-quiet-struggle",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://virtusinterpress.org/Strategic-insights-into-the-challenges-facing-Japan-s-small-and-medium-sized-enterprises.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/financing-smes-and-entrepreneurs-2026_bb7fc5c4-en/japan_18c68966-en.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） 人手不足 受注 断る",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "https://mscompass.ms-ins.com/business-news/labor-shortage-2026/",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://note.com/smartsuit/n/n16e498638ebb",
+    "https://foodpurpose.proguide.co.jp/article/0WfZvI2Z",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/hitodetaiou/2017/170331torimatomejireisyu.pdf",
+    "https://www.tdb.co.jp/report/economic/20260817-laborshortage202607/",
+    "https://gron.co.jp/labor-shortage-industry-report/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） 受注残 人手不足",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://prtimes.jp/main/html/rd/p/000000055.000058841.html",
+    "https://corp.craft-bank.com/cb-souken/shokunin-husoku",
+    "https://www.mhlw.go.jp/content/11600000/001592320.pdf",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） 人手不足 損失 億円",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://engineering-technology.brexa.com/blog/technavi/labor-shortage-bankruptcy/",
+    "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "https://netshop.impress.co.jp/node/11806"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別）",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://mscompass.ms-ins.com/business-news/labor-shortage-2026/",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "https://foodpurpose.proguide.co.jp/article/0WfZvI2Z",
+    "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "https://www.hrpro.co.jp/keiei/articles/news/3775"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://mscompass.ms-ins.com/business-news/labor-shortage-2026/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "https://www.rshd.co.jp/news/saiyou-hitode-busoku.html",
+    "https://onodera-user-run.co.jp/useful/4477/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） 統計 PDF",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "https://www5.cao.go.jp/keizai3/monthly_topics/2023/0630/topics_072.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "https://www.yokohama-cci.or.jp/wp-content/uploads/2024/02/report_Oct2019.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20250519-laborshortage202504/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.tsr-net.co.jp/data/detail/1198512_1527.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2025/08_09/c_01.html",
+    "https://prtimes.jp/main/html/rd/p/000001270.000043465.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） 従業者規模別",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://onodera-user-run.co.jp/useful/4477/",
+    "https://www.tokyo-cci.or.jp/file.jsp?id=1204020",
+    "https://www.pasona.co.jp/clients/service/column/career/knowhow-labor_shortage/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） 1人当たり 万円",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://ma-la.co.jp/m-and-a/worker-shortage/",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://higucm.com/news/kensetsu-hitodebusoku-toushi.html",
+    "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/keisan_202502_kigyoudoukou.pdf/$File/keisan_202502_kigyoudoukou.pdf",
+    "https://team-x.co.jp/knowledge/1018/",
+    "https://ismec.jp/scaffolding-contractor-bankruptcy-labor-shortage/"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） 2015 2025",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.mh5.jp/announce_95702.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "https://prtimes.jp/main/html/rd/p/000001270.000043465.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local/detail001.html",
+    "https://corp.miidas.jp/assessment/2197/"
+   ]
+  },
+  {
+   "query": "share of SMEs declining orders due to labor shortage Japan by size Japan statistics",
+   "results": [
+    "https://www.nippon.com/en/articles/-/17538",
+    "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "https://siific.substack.com/p/beyond-the-numbers-japans-quiet-struggle",
+    "https://virtusinterpress.org/Strategic-insights-into-the-challenges-facing-Japan-s-small-and-medium-sized-enterprises.html",
+    "https://www.oecd.org/en/publications/financing-smes-and-entrepreneurs-2026_bb7fc5c4-en/japan_18c68966-en.html",
+    "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "https://www.jcer.or.jp/english/is-japan-really-short-of-labour",
+    "https://www.statista.com/topics/13372/smes-in-japan/?srsltid=AYCX9vIqyeNndQBfDvlHHYQws77fkAgpsC-c_TjACdVIDxfB1b-yxBO7",
+    "https://kizuna-x.com/article/why-most-smes-fail-in-japan-and-how-to-succeed-with-the-right-strategy/"
+   ]
+  },
+  {
+   "query": "site:note.com 人手不足で受注を断った企業の割合（規模別・業種別）",
+   "results": [
+    "https://note.com/terui_masamichi/n/na0151f874923",
+    "https://note.com/newbizcreate_777/n/ncdb09e84038b",
+    "https://note.com/yamaguchi_take/n/nafdd5b3d5eef",
+    "https://note.com/news_easy/n/na903f2297233",
+    "https://note.com/hirokimiyano/n/n9982c946f524",
+    "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://note.com/hirokimiyano/n/n93356c882c2a",
+    "https://note.com/newbizcreate_777/n/n3f71a5efcc79",
+    "https://note.com/satoruhiguchi/n/neda5094ed898",
+    "https://note.com/topsalesnet/n/n7c761aa84180"
+   ]
+  },
+  {
+   "query": "site:x.com 人手不足で受注を断った企業の割合（規模別・業種別）",
+   "results": [
+    "https://x.com/luigi_jpn/status/2117205424495559062",
+    "https://x.com/WjgotINrU14Z1fB"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 人手不足で受注を断った企業の割合（規模別・業種別）",
+   "results": [
+    "https://jp.linkedin.com/in/yuji-yasuda-980a62241",
+    "https://jp.linkedin.com/in/koyo-katsuki-23032016b"
+   ]
+  },
+  {
+   "query": "site:facebook.com 人手不足で受注を断った企業の割合（規模別・業種別）",
+   "results": []
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） note 社長",
+   "results": [
+    "https://note.com/smartsuit/n/n16e498638ebb",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://profectus-note.com/blog/sme-hitode-busoku-guide",
+    "https://note.com/sei_tamai/n/n2870d137ec12",
+    "https://www.itmedia.co.jp/business/articles/2605/20/news026.html",
+    "https://note.com/kens_reading1/n/ndfffa99cb45b",
+    "https://www.rshd.co.jp/news/saiyou-hitode-busoku.html"
+   ]
+  },
+  {
+   "query": "人手不足で受注を断った企業の割合（規模別・業種別） X 投稿",
+   "results": [
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html",
+    "https://news.mynavi.jp/techplus/article/20261019-5134026/",
+    "https://biz-journal.jp/company/post_393270.html",
+    "https://x.com/i/trending/2099079654283829596",
+    "https://ismec.jp/scaffolding-contractor-bankruptcy-labor-shortage/",
+    "https://webtan.impress.co.jp/n/2026/01/15/52005",
+    "https://www.chusho.meti.go.jp/keiei/koyou/hitodebusoku/download/jieri_r4.pdf",
+    "https://www.concrew.co.jp/base/content/90iw6mhj4t"
+   ]
+  },
+  {
+   "query": "share of SMEs declining orders due to labor shortage Japan by size site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/daichi-kunii_japanmanda-japaneconomy-smeacquisition-activity-7512636643724394496-y_U4",
+    "https://www.linkedin.com/posts/masayuki-nakajima-128219219_japan-activity-7479948095636738048-IMUW",
+    "https://www.linkedin.com/posts/daichi-kunii_japanma-successionplanning-crossborderma-activity-7515213355775590400-aB3I",
+    "https://www.linkedin.com/pulse/size-estimation-japan-ultrasonic-plastic-welder-market-forecast-cg3ne",
+    "https://uk.linkedin.com/in/mathen-thomas",
+    "https://www.linkedin.com/pulse/netsuite-resellers-market-size-growing-72-growth-rate-from-7jzhf",
+    "https://www.linkedin.com/in/fujiokanaoki",
+    "https://www.linkedin.com/posts/mnagarajan_sme-msme-easeofdoingbusiness-activity-7410759220268093440-mWNM",
+    "https://jp.linkedin.com/in/pgudorf",
+    "https://ch.linkedin.com/in/leslie-johnston-m-sc-4435307"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ52頁・検索18回）"
+ }
+}

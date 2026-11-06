@@ -1,0 +1,2178 @@
+{
+ "name": "GAIXER Sovereign",
+ "aliases": [
+  "GAIXER",
+  "ガイザー"
+ ],
+ "context": "日本のオンプレ生成AI・再販パートナー（Yomi担ぎ候補）",
+ "researched_at": "2026-11-06T03:04:33.841433+00:00",
+ "official_url": "https://sovereign.gaixer.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区芝浦1-2-3\nシーバンスS館",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区芝浦1-2-3 シーバンスS館 最上階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区芝浦1-2-3 シーバンスS館 最上階",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0807_001_ai_subsidy/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区芝浦1-2-3 シーバンスS館 最上階",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区芝浦1-2-3 シーバンスS館 最上階",
+    "url": "https://www.rbbtoday.com/release/prtimes2-today/20260409/1247762.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区芝浦1-2-3 シーバンスS館 最上階",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "松岡清一",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 松岡 清一",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 松岡 清一",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0807_001_ai_subsidy/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 松岡 清一",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 松岡 清一",
+    "url": "https://www.rbbtoday.com/release/prtimes2-today/20260409/1247762.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 松岡 清一",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2009年11月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "顧客": [
+   {
+    "quote": "手のひらサイズの本体で、出荷後1〜2営業日で届き、導入初日から利用開始できます",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "導入時のネットワーク設定と、導入後の保守",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナーも、導入した会社も、業務ソフトメーカーも",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIの導入検討で、よく伺う3つの壁",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "導入の前から、チカラになります",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "導入前の不安に、1つずつ答えを用意しました",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "届いた日から使えるので、決裁後の導入も最速です",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "実際の業務データに近い形で試しながら、導入判断を進められます",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「デジタル化・AI導入補助金2026」の対象ITツールに",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "※中小企業・小規模事業者向けの制度で、ソフトウェア導入費用の一部が補助対象",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "導入は、3ステップ",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "機能やプランなどの詳細から、導入・運用のご相談はこちら",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後サポート「GaiXer Care」をご用意しています",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例・業種別のご担当者の声｜Sovereign GaiXer",
+    "url": "https://sovereign.gaixer.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "すでに導入していただいたお客様から実際に寄せられた声をご紹介します",
+    "url": "https://sovereign.gaixer.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "課題 → 導入の決め手 → 効果をまとめた活用事例をご覧ください",
+    "url": "https://sovereign.gaixer.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "「デジタル化・AI導入補助金2026」の対象ITツールに登録",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県草加市、医療機関、民間企業で導入が開始",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "「AI医事課長」は2026年7月時点で10機関に導入・活用",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "製品化を完了し、自治体・医療機関で導入が始まった",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ ２ 導入事例",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「デジタル化・AI導入補助金2026」",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「AI医事課長」は7月時点で10機関に導入・活用",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「AI医事課長」は７月時点で10機関に導入・活用",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "GaiXer 」を埼玉県草加市が導入、全国自治体とし ては初",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機微情報を扱う自治体業務に、オンプレミス型生成AI「Sovereign GaiXer」の導入が進展",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・草加市では、AI-OCRやAI翻訳、各種生成AIサービスを導入するなど、",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対する苦手意識がある方や、IT部門のリソースが限られている組織でも、導入の",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ン課金が発生しないため、導入後の運用負荷が低く、企業におけるAI活用の第一",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロソフトクラウド「cloud.config」によるフルマネージドサービスを提供し、生成AIを実務環境に導入する",
+    "url": "https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131",
+    "pass": 3
+   },
+   {
+    "quote": "草加市が全国自治体初、FIXERのオンプレミス生成AIを導入",
+    "url": "https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131",
+    "pass": 3
+   },
+   {
+    "quote": "草加市が自治体初、FIXERのオンプレミス生成AIを導入",
+    "url": "https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131",
+    "pass": 3
+   },
+   {
+    "quote": "草加市がオンプレミス型生成AI「Sovereign GaiXer」を全国自治体初で導入",
+    "url": "https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131",
+    "pass": 3
+   },
+   {
+    "quote": "草加市がFIXERのオンプレミス生成AIを自治体で全国初導入",
+    "url": "https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131",
+    "pass": 3
+   },
+   {
+    "quote": "提供にあたっては、ハードウェア＋当社ソフトウェアを一体化した検証済み構成で納品し、導入〜運用までを支援します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入後すぐに業務利用できる体制を整えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "提供にあたっては、ハードウェア＋当社ソフトウェアを一体化した検証済み構成で納品し、導入～運用までを支援します",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後すぐに業務利用できる体制を整えています",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "KDDI、「Starlink Mobile V2」27年導入 通信速度が向上しVoLTEも利用可能",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERが提供するオンプレミス型生成AI「Sovereign GaiXer」が、「デジタル化・AI導入補助金2026」の対象ITツールに登録 | 株式会社FIXERのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERが提供するオンプレミス型生成AI「Sovereign GaiXer」が、「デジタル化・AI導入補助金2026」の対象ITツールに登録",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FIXER（本社：東京都港区、代表取締役社⻑：松岡 清⼀、以下FIXER）は、このたび「デジタル化・AI導入補助金2026」におけるIT導入支援事業者に登録され、FIXERが提供するオンプレミス型生成AI「Sovereign GaiXer（ソブリン ガイザー）」が同補助金の対象ITツールとして登録されたことをお知らせします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、これまで「セキュリティ」や「コスト」を理由に生成AIの導入を見送っていた中小企業に対し、機密性の高い情報を組織内で管理しながら生成AIを活用できる、新たな選択肢を提供します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、生成AIを業務に活用する動きが広まる一方、主に以下の2点が大きな壁となり、実務への導入に踏み出せない組織も少なくありません",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Sovereign GaiXer」は、「デジタル化・AI導入補助金2026」の通常枠における対象ITツールとして登録されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "所定の要件を満たし、交付決定を受けた場合、登録されたソフトウェア導入費用の一部について補助を受けることができます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "補助対象：Sovereign GaiXerソフトウェア導入費用の1/2",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ：お問い合わせフォームの相談内容に『「デジタル化・AI導入補助金2026」利用での導入検討』とご記載ください",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "「デジタル化・AI導入補助金2026」概要",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "「デジタル化・AI導入補助金2026」は、中小企業・小規模事業者等の労働生産性の向上を目的として、業務効率化やDX等に向けたITツール（ソフトウェア、サービス等）の導入を支援する補助金です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化・AI導入補助金2026",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AGI Platform GaiXer Case Study",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "GaiXer is used by more than 100 companies, government agencies, local governments, etc.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Clients have a clear view of their return on investment.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Increasing the business value of our customers",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case study of AI agentization GaiXer Medical Agent",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "▶ We also develop SaaS business that provides platforms with functions that are highly in demand among customers",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "by creating a platform for customers’ ​​",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "▶ The Company receives orders for Project type Services through referrals from global cloud venders and existing customers",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERが提供するオンプレミス型生成AI「Sovereign GaiXer」が、「デジタル化・AI導入補助金2026」の対象ITツールに登録 - 株式会社FIXER",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0807_001_ai_subsidy/",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "どちらもSovereign GaiXerの一本のAPI窓口で｜製品解説シリーズ第6回",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "の​API​窓口とは、​社内の​システムや​アプリが​本体の​AIに​仕事を​頼むための、​共通の​入口です",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "APIとは何か？ ─ AIに仕事を頼むための「注文カウンター」",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "API​​（エーピーアイ）​​＝システムどうしが​仕事を​頼み合う​ための、​決まった​形の​窓口",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "​この​​「決まった​言い方で​注文できる​カウンター」​が​APIです",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "の​API​窓口は、​社内の​あらゆる​システムが​​「AIに​頼みごとを​する​カウンター」​に​なります",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "API窓口は、上から3番目のAI-OSの層にあります",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-OSの​API​窓口も​同じで、​社内​システムは​​「AIを​自分で​作らず、​借りる」​だけで​済みます",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "​本記事の​​「API​窓口」​は、​いわゆる",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "の​API​窓口に​​「この​文章を​要約して」​と​頼み、​返ってきた​答えを​画面に​表示するだけです",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "社内​システムも​同じで、​AIを​自分の​中に​作る​必要は​なく、​API​窓口から​借りれば​よい",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "API​窓口は、​クラウド​型生成​AIと​同じ​呼び出し方に​対応しています",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "API​窓口を​一本に​するのは、​AIの​​「総合受付」​を​一つに​決める​ことです",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "​「APIで​つなぐ」​と​聞くと、​大が​かりな​開発を​想像しがちです",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "API窓口はクラウド型生成AIと同じ呼び出し方に対応",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "APIを使う分だけ、別料金がかかる",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "API​窓口に​ついて​よく​聞かれる​誤解​​（2026年9月時点​の​公開情報にもとづく）​",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "API窓口（Sovereign GaiXerの）",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "では、​システムを​API​窓口に​つなぐ​ことで​実現します",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "​接続先を​API​窓口に​向け変える​ことで​実現します",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "​本記事の​​「一本の​API​窓口」​は​この​考え方にもと​づきます",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "API窓口について｜よくある質問（FAQ）",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "​必要なのは、​システムから​API​窓口に​​「頼む」​​ための​小さな​改修だけです",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "​API​窓口は、​クラウド​型生成​AIと​同じ​呼び出し方に​対応しています",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "API​経由で​使うと、​料金は​増えますか？",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "328 employees (as of 2026-04-01); capital ¥1.214B; revenue ¥5B-30B range (2022).",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "<a href=\"https://www.ai-market-watch.com/company/fixer-inc-gaixer?utm_source=badge\" target=\"_blank\" rel=\"noopener\"><img src=\"https://www.ai-market-watch.com/api/badge/fixer-inc-gaixer\" alt=\"FIXER Inc. (GaiXer) — Featured on AI Market Watch\" width=\"220\" height=\"56\" loading=\"lazy\"/></a>",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "The cash and deposit ratio remains high at 68.7% and the capital adequacy ratio at 83.7%",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Capital adequacy ratio 89.2% 83.7% △5.5pt",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Discussions to strengthen capital relations for further business alliance with Talking Medical Co., Ltd.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・Since signing a capital and business alliance agreement in April 2025, the two companies have been promoting business.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "is required to respond to a wide range of administrative tasks and rapid",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Negotiations with new capital partners",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In Malaysia, investment products and services available through the moomoo app are offered through Moomoo Securities Malaysia Sdn. Bhd. (\"Moomoo MY\"regulated by the Securities Commission of Malaysia (SC). Moomoo Securities Malaysia Sdn. Bhd. is a Capital Markets Services Licence (License No. eCMSL/A0397/2024) holder. This advertisement has not been reviewed by the SC.",
+    "url": "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "日本語は​1文字が​約1.5",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "​日本語は​1文字が​約1.5",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "​（日本語1文字＝約1.5​",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "​​「日本語1文字＝約1.5​",
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "pass": 1
+   },
+   {
+    "quote": "Minato-ku, Tokyo, Japan",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "Secure, sovereign enterprise generative AI that keeps sensitive data within Japan/on-premise, enabling healthcare, finance, manufacturing, and government organizations to use AI without sending data to external clouds.",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese enterprises, government agencies, municipalities, healthcare institutions, financial institutions, and manufacturers with strict data-security and sovereignty requirements.",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "Differentiates via sovereign/on-premise deployment that keeps data entirely within Japan, ISMAP-LIU security compliance, and a one-time-purchase palm-sized workstation (no subscription) — targeting security-sensitive healthcare, government, and manufacturing buyers.",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "ExaWizards (Exa), other Japanese enterprise generative AI providers (e.g., Sakana AI, Preferred Networks), cloud-based LLM platforms (OpenAI/ChatGPT, Azure OpenAI).",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "A Microsoft Azure-specialized cloud integrator (TSE Growth-listed, code 5129) expanding into sovereign/on-premise enterprise generative AI for the Japanese regulated market.",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (domestic focus, with government/municipality deployments)",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "【ＦＩＸＥＲ】Sovereign GaiXerを軸に業績修正—通期予想を大幅下方修正｜2026年8月期 | Japan IR",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Corporate IR Information - Clear, Accessible",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "Financial Results for the Third Quarter of Fiscal Year Ending August 2026 [Japanese GAAP] (Consolidated)",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "Consolidated Financial Results for the Third Quarter of the Fiscal Year Ending August 2026 [Japanese GAAP]",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "JapanIR is an investor relations information platform that summarizes IR information from Japanese companies and provides it in an accessible format for domestic and international investors.",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "Operated by: JapanIR Office",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるクラウド活用の黎明期から、多数の基幹システムをプライムで手掛け、社会インフラのデジタル化を支えてきた実績を有しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "機密性とデータ主権を守るオンプレミス型生成AIソリュ - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるクラウド活用の黎明期から、多数の基幹システムをプライムで手掛け、社会インフラのデジタル化を支えてきた実績を有しています",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIサービスGaiXer、さくらのクラウド上で稼働する日本国内完結型サービス「GaiXer on さくらのクラウド」の提供に向け、基本合意を締結",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "日本マイクロソフトおよびFIXERと連携して進める",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるクラウド活用の黎明期から、多数の基幹システムをプライムで手掛け、社会インフラのデジタル化を支えてきた実績を有しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "innovation and fundamentally change the sense of stagnation in the Japanese workplace.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "As Japanese society evolves with the cloud and gener ati ve AI, we at FIXER believe that the first",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・We plan to further accelerate sales by starting not only direct sales but also sales through distributors.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Contributing to improving productivity in Japan society through business development centered on GaiXer",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Seizing the growth of venture companies and opportunities for overseas companies to expand into Japan",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Source: Ministry of Internal Affairs and Communications \"Research and development of the latest information and communication technologies in Japan and abroad",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Compared to other countries (table below), Japan's generative AI usage rate is low, but it seems to be a market with high potential from the perspective of overseas companies.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "We will partner with domestic startups entering this market and overseas companies entering the Japan market to capture the growth of the Japan generative AI market",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "On the other hand, in the Japan market, where reliability is required for enterprise systems,",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "We are confident that it will play a part in the use of generative AI in Japan society",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるクラウド活用の黎明期から、多数の基幹システムをプライムで手掛け、社会インフラのデジタル化を支えてきた実績を有しています",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0807_001_ai_subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるクラウド活用の黎明期から、多数の基幹システムをプライムで手掛け、社会インフラのデジタル化を支えてきた実績を有しています",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人史上3人目快挙となるか",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便 顧客名3763件漏えい",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "全日本大学駅伝で3兄弟が出走",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "高市首相、米中間選挙に「これからも日米関係強化」…マクロン仏大統領には日本製ＥＶ外すＥＵ法案に懸念伝える",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "カブス・鈴木誠也が自身初のシルバースラッガー賞受賞へ最終候補入り 日本人史上３人目快挙となるか",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "日本シリーズ2026特集",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるクラウド活用の黎明期から、多数の基幹システムをプライムで手掛け、社会インフラのデジタル化を支えてきた実績を有しています",
+    "url": "https://www.rbbtoday.com/release/prtimes2-today/20260409/1247762.html",
+    "pass": 3
+   },
+   {
+    "quote": "#SovereignAI #OnPremiseAI #GenerativeAI #EnterpriseAI #Japan #AIInfrastructure",
+    "url": "https://www.ai-market-watch.com/news/sovereign-gaixer-launches-as-an-in-house-deployable-generative-ai-aimed-at-healt-99tmls",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体の次は電力株】AIの“ツルハシ”を売る日本企業は？UBS証券・調査部長の分析／パナソニック・日立・三菱重工／不安の中に儲けの泉はある／杉村太蔵「電力を制するものが勝つ」【セクター超分析】",
+    "url": "https://www.youtube.com/watch?v=Y36x2C8D2Kw",
+    "pass": 3
+   },
+   {
+    "quote": "【AI相場まだ続く】アンソロピック上場はポジティブ？公開価格割れの懸念は／「AI脅威」は自虐マーケティング／「超安定」マイクロソフト／中間選挙、民主党優勢で日本株に逆風あるか《大川智宏の緊急解説》",
+    "url": "https://www.youtube.com/watch?v=Y36x2C8D2Kw",
+    "pass": 3
+   },
+   {
+    "quote": "【初心者向け】誰でも分かる！株式投資の始め方・日本の個別株の買い方",
+    "url": "https://www.youtube.com/watch?v=Y36x2C8D2Kw",
+    "pass": 3
+   },
+   {
+    "quote": "255回視聴 • 2026/08/30 • #投資戦略 #日本株 #投資",
+    "url": "https://www.youtube.com/watch?v=Y36x2C8D2Kw",
+    "pass": 3
+   },
+   {
+    "quote": "本製品は、企業・官公庁向けに特化しており、日本語対応のソフトウェアと専用筐体が一体となったパッケージとして提供される独自性の高い希少な製品です",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるクラウド活用の黎明期から、多数の基幹システムをプライムで手掛け、社会インフラのデジタル化を支えてきた実績を有しています",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "FIXERの2026年8月期決算は、売上高が前期比21.6%減の31億2,200万円、営業損失は23億1,600万円（前期は17億2,900万円の損失）に拡大しました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "主力の「Sovereign GaiXer」における販売体制の立ち上げ遅れが響き、売上総利益がマイナスに転落",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "同社は人員配置の適正化や拠点集約など、前期比15億4,700万円の費用削減を断行中であり、2027年8月期は売上高33億8,100万円、営業損失5億1,000万円への改善を見込んでいます",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "Sovereign GaiXerの販売体制立ち上げが遅れ、売上高が計画を大きく下回った",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "売上水準に対して人員・クラウド費用などの固定費が高止まりし、営業損失が拡大した",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は当初予想4,348百万円に対して1,225百万円未達",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月1日に公表した修正予想に対しては、売上高・営業損失ともにほぼ同水準で着地",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益は前期の482百万円から△29百万円へ悪化",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "人件費は前期比224百万円減少したものの、売上減少に対して削減が追いつかなかった",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は各四半期でおおむね8億円前後で推移",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "当初予想に対する売上高未達1,225百万円のうち、Sovereign GaiXer関連が約7割を占めた",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "当期売上高は31百万円",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "上位10社で売上高の87%を構成",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "費用削減により、売上原価と販管費の合計を前期の5,439百万円から3,891百万円へ削減する計画",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は前期比8.3%増の3,381百万円を計画",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益は774百万円、粗利率は22.9%を見込む",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "売上総損失△29百万円",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上水準に対して過大な体制を是正できず、固定費が高止まりした",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 4,348 3,135 3,122 △1,225",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上原価 3,309 3,224 3,152 △157",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益 1,038 △88 △29 △1,067",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 3,980 3,122 △858 △21.6%",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上原価 3,498 3,152 △346 △9.9%",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益 482 △29 △512 -",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第3四半期より、顧客へのサービス提供に直接関連するクラウド利用料・業務委託費等の一部を売上原価に計上する区分の見直しを行っている",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上は四半期約8億円で推移",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月期 通期業績（売上未達要因）",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益△512に加え、販管費は74百万円増加",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上減少に対し、人員とク",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上△858に対して削減が",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "費用合計（売上原価＋販管費） 5,439→3,891百万円 △1,547",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当期売上31百万円",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上位10社で売上の87%を構成",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益774百万円",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 3,122 3,381 +258 +8.3%",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上原価 3,152 2,606 △545 △17.3%",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益（△は損失） △29 774 +804 －",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上原価△545、販管費△1,001",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※新規施策等による売上の上積みは、社内の目標として業績予想とは区分して管理",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他 36 単体 その他売上計画",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "JV売上 126 連結加算 案件計画等を評価",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "328 employees (as of 2026-04-01); capital ¥1.214B; revenue ¥5B-30B range (2022).",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition and Cancellation of the 3rd to 5th Series of Warrants Issued through Third-Party Allotment (Exercise Price Adjustment Provisions) and Change in Use of Funds",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "https://sovereign.gaixer.com/contact/pre-sales/",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "year sales 3,808 million yen",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Net sales 3,980 million yen (+",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Compared to the plan, sales were +172 million yen, operating income +87 million yen, and ordinary income +90 million",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "cancellation of deferred tax assets. Consolidated sales reached 3,980 million yen due to the failureto complete the",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "sales 3,808 3,982 3,980 +172",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of full-year sales trends",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Due to the impact of projects that ended at the end of March, sales of project-type services decreased YoY",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ Improvement in the number of business negotiations by strengthening the sales system",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・Sales of GaiXer Medical Agent at Medical AI Solutions are in full swing.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・We plan to further accelerate sales by starting not only direct sales but also sales through distributors.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Strengthening the sales system",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Direct sales (introduction)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Direct sales (inquiries)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CasesSales & Marketing",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "▶ The systems developed through PJ-typed services are transferred to Resale and Managed service, contributing to stock type revenue",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Stock+FlowrevenueFlow revenue",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "受注・検収、費用削減、資金調達の時期および条件に不確実性",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、資金調達の実現時期・条件には不確実性が残る",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達の時期・条件には不確実性があります",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 資金調達の条件 協議の実現時期及び条件には不確実性がある",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2008 founded, 2009 began operations, 2020 Series A ¥1.2B, 2022-10-06 listed on Tokyo Stock Exchange Growth market (code 5129), 2023-04 launched GaiXer enterprise AI platform, 2025-11 announced Lenovo AI edge workstation (later renamed Sovereign GaiXer), 2026-04 began formal orders for Sovereign GaiXer.",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "This page uses AI to summarize IR materials from TDnet. Please refer to the original document for investment decisions.",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "JapanIR is an investor relations information platform that summarizes IR information from Japanese companies and provides it in an accessible format for domestic and international investors.",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "In the future, we will consider flexible financing in preparation for business expansion and growth investment.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Cash flow from investment activities △34 △65 △31",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Clients have a clear view of their return on investment.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Government-Related AI and Semiconductor Industry: Expected Investment",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "NAVER sets November 6 payment date for NVIDIA's $1 billion AI factory investment",
+    "url": "https://www.ai-market-watch.com/news/sovereign-gaixer-launches-as-an-in-house-deployable-generative-ai-aimed-at-healt-99tmls",
+    "pass": 3
+   },
+   {
+    "quote": "AI companies with VC-grade analysis, funding data, and investment insights.",
+    "url": "https://www.ai-market-watch.com/news/sovereign-gaixer-launches-as-an-in-house-deployable-generative-ai-aimed-at-healt-99tmls",
+    "pass": 3
+   },
+   {
+    "quote": "Disclaimer: This content is for informational and educational purposes only and does not constitute a recommendation or endorsement of any specific investment or investment strategy.",
+    "url": "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "pass": 3
+   },
+   {
+    "quote": "In the U.S., investment products and services available through the moomoo app are offered by Moomoo Financial Inc., a broker-dealer registered with the U.S. Securities and Exchange Commission (SEC) and a member of Financial Industry Regulatory Authority (FINRA)/Securities Investor Protection Corporation (SIPC).",
+    "url": "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "pass": 3
+   },
+   {
+    "quote": "In Canada, order-execution only services available through the moomoo app are provided by Moomoo Financial Canada Inc., regulated by the Canadian Investment Regulatory Organization (CIRO).",
+    "url": "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "pass": 3
+   },
+   {
+    "quote": "In Malaysia, investment products and services available through the moomoo app are offered through Moomoo Securities Malaysia Sdn. Bhd. (\"Moomoo MY\"regulated by the Securities Commission of Malaysia (SC). Moomoo Securities Malaysia Sdn. Bhd. is a Capital Markets Services Licence (License No. eCMSL/A0397/2024) holder. This advertisement has not been reviewed by the SC.",
+    "url": "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "pass": 3
+   },
+   {
+    "quote": "Mastercard Price Target Raised to $725.00/Share From $620.00 by Freedom Broker",
+    "url": "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "代理店チャネルおよび直販体制の立ち上げ遅延",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "pass": 3
+   },
+   {
+    "quote": "代理店チャネルの構築と直販体制の立ち上げが遅れ、4Qに集中させた計画が実現しなかった",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✕ 代理店30社の稼働を前提に4Qへ集中",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・We plan to further accelerate sales by starting not only direct sales but also sales through distributors.",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "We started by supporting the creation of medical documents, which have a heavy workload on doctors, and in the future, various medical",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "variety of video expressions that could only be achieved with studio",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "▶ Resells cloud and software licenses and provides managed services (maintenance, operation, and enhanced development)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "営業利益 △1,546 △2,438 △2,316 △770",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益 △1,729 △2,316 △586 -",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3月は連結で単月営業黒字を見込む",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. 黒字化はいつ見込めますか",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A. 今期の連結計画では営業損失510百万円を見込んでおり、通期の黒字化は見込んでいま",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現行計画では３月に単月の営業黒字を見込んでいますが、検収時期や費用削減の",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "通期の黒字化に向け、販売計画の実現と費用削減を進めます",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FIXER、26年8月期は23億円の赤字、27年8月期は赤字縮小見通し",
+    "url": "https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131",
+    "pass": 3
+   },
+   {
+    "quote": "year operating income",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Compared to the plan, sales were +172 million yen, operating income +87 million yen, and ordinary income +90 million",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "yen, which exceeded the plan.Net income was -464 million yen due to the recording of impairment losses and the",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Gross Profit 289 484 482 +192",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Operating Profit △1,817 △1,724 △1,729 +87",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Net income before tax adjustments △1,810 △2,048 △2,055 △245",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Net income △1,656 △2,114 △2,120 △464",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Net income attributable to owners of the",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ordinary Profit Margin △47.5% △43.0% △43.2% ＋4.3pt",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Due to the recording of net loss, operating cash flow was -421 million yen compared to the previous fiscal year",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Improvement of profitability through “application of automation x utilization of generative AI”",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Increase profitability by further expanding the scope of automation that has been achieved through cloud computing",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "｢大阪都構想｣毎年500億円黒字か",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "「大阪都」毎年500億円黒字か 特別区移行後、IRが後押し",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "Far East Orchard's Profit After Tax Declines in January-September Period",
+    "url": "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "pass": 3
+   },
+   {
+    "quote": "【国策銘柄】量子コンピューター主要開発企業5社を本音分析／赤字だらけでも期待される理由とは？／量子銘柄は「少額・長期」で持つ？【オモロー山下×大川智宏×もふもふ不動産 もふ社長②】",
+    "url": "https://www.youtube.com/watch?v=Y36x2C8D2Kw",
+    "pass": 3
+   },
+   {
+    "quote": "第11章 この赤字に財務は耐えられるのか",
+    "url": "https://www.youtube.com/watch?v=Y36x2C8D2Kw",
+    "pass": 3
+   },
+   {
+    "quote": "第4四半期に必要な売上1,992百万円と営業利益332百万円は、会社が公表した通期予想から9か月実績を差し引いて算出した計算値であり、会社が公表した数値ではありません",
+    "url": "https://www.youtube.com/watch?v=Y36x2C8D2Kw",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "主要株主10",
+    "url": "https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131",
+    "pass": 3
+   },
+   {
+    "quote": "parent company △1,654 - △2,117 -",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Shareholders' Equity 5,875 3,760 △2,115",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Joined Nomura Systems Kansai (now NRI Netcom) in 1994; founded FIXER in 2008; Representative Director & President since 2009. Tokyo Institute of Technology (Tokyo Tech) graduate.",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0807_001_ai_subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました",
+    "url": "https://www.rbbtoday.com/release/prtimes2-today/20260409/1247762.html",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERは2009年に創業し、Microsoft Azureの国内展開初期から、企業・官公庁・自治体のエンタープライズシステムを中心に、クラウドを活用したIT基盤の構築と高度化を支援してきました",
+    "url": "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "Acquisition and Cancellation of the 3rd to 5th Series of Warrants Issued through Third-Party Allotment (Exercise Price Adjustment Provisions) and Change in Use of Funds",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "Earnings forecast (disclosed in a timely manner on May 28, 2025)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "172 million yen compared to the forecast disclosed on May 28)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,729 million yen (+85 million yen compared to the forecast disclosed on May 28)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Stock Acquisition Rights 1 1 △0",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（株）内外出版社（東京）が破産申請へ＝「月刊自家用車」などを発行",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "pass": 3
+   },
+   {
+    "quote": "トークン破産、情報流出のAI破綻から脱出せよ～AIエージェント新時代の潮流～",
+    "url": "https://www.youtube.com/watch?v=HzKymJccMsQ",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FIXER Inc. (GaiXer) - AI Startup Profile | AI Market Watch — Secure, sovereign enterprise generative AI that keeps sensitive data within Japan/on-premise, enabling healthcare, finance, manufacturing, and government organizations to use AI without sending data to external clouds.",
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "pass": 3
+   },
+   {
+    "quote": "【FIXER】Sovereign GaiXerを軸に業績修正—通期予想を大幅下方修正｜2... — Sep 1, 2026 · The personnel responsible for the cloud version GaiXer have been reassigned to the Sovereign GaiXer business. Productization of Sovereign GaiXer has been completed, and the company plans to accelerate market development.",
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "Frequently asked questions | Sovereign GaiXer — Q What is Sovereign GaiXer? An on-premises generative AI appliance that processes workloads locally in a compact desktop unit. Follow the initial setup guide before first use. Jointly developed by Lenovo and FIXER, it combines Lenovo ThinkStation PGX-based hardware with an AI stack developed by FIXER in Japan.",
+    "url": "https://sovereign.gaixer.com/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Sovereign GaiXer | On-premises generative AI with predictable ... — Sovereign GaiXer is an on-premises generative AI appliance. AI processing runs on the appliance without sending internal data to the internet, supporting work involving confidential or personal information.",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "国内向け生成AI基盤「 Sovereign GaiXer 」正式受注開始の ... — 国内向け生成AI基盤「 Sovereign GaiXer 」正式受注開始の ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内向け生成AI基盤「 Sovereign GaiXer 」正式受注開始の ... — 国内向け生成AI基盤「 Sovereign GaiXer 」正式受注開始の ... ZDNET Japan https://japan.zdnet.com > プレスリリース",
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERが提供するオンプレミス型生成AI「 Sovereign GaiXer 」が — FIXERが提供するオンプレミス型生成AI「 Sovereign GaiXer 」が PR TIMES https://prtimes.jp > その他",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FIXER on X: \"／ 「 Sovereign GaiXer 」とは？ 1分で ... — 株式会社FIXER on X: \"／ 「 Sovereign GaiXer 」とは？ 1分で ... X https://x.com > @FIXER_Inc_Japan",
+    "url": "https://x.com/FIXER_Inc_Japan/status/2054834415034122377",
+    "pass": 3
+   },
+   {
+    "quote": "AIとお金 ⁠ AIの​料金と​コスト、​まる​ごと​入門 — AIとお金 ⁠ AIの​料金と​コスト、​まる​ごと​入門 Sovereign GaiXer https://sovereign.gaixer.com > ai-and-money",
+    "url": "https://sovereign.gaixer.com/ai-and-money/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIと既存システムの連携で変わる手間とコスト｜AIとお金 — 生成AIと既存システムの連携で変わる手間とコスト｜AIとお金 Sovereign GaiXer https://sovereign.gaixer.com > AIとお金",
+    "url": "https://sovereign.gaixer.com/ai-and-money/08-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "FIXERが提供するオンプレミス型生成AI「 Sovereign GaiXer ... — FIXERが提供するオンプレミス型生成AI「 Sovereign GaiXer ... zeirishinavi.com https://zeirishinavi.com > 支援金・給付金・補助金",
+    "url": "https://zeirishinavi.com/news/fixer%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%82%AA%E3%83%B3%E3%83%97%E3%83%AC%E3%83%9F%E3%82%B9%E5%9E%8B%E7%94%9F%E6%88%90ai%E3%80%8Csovereign-gaixer%E3%80%8D%E3%81%8C%E3%80%81%E3%80%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "On-premises generative AI: Sovereign GaiXer — On-premises generative AI: Sovereign GaiXer Sovereign GaiXer https://sovereign.gaixer.com > ...",
+    "url": "https://sovereign.gaixer.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "国内向け生成AI基盤「 Sovereign GaiXer 」正式受注開始の ... — 国内向け生成AI基盤「 Sovereign GaiXer 」正式受注開始の ... RBB TODAY https://www.rbbtoday.com > 新着リリース一覧",
+    "url": "https://www.rbbtoday.com/release/prtimes2-today/20260409/1247762.html",
+    "pass": 3
+   },
+   {
+    "quote": "【サービス紹介 - Sovereign GaiXer -】 - YouTube — 【サービス紹介 - Sovereign GaiXer -】 - YouTube YouTube https://www.youtube.com > playlist",
+    "url": "https://www.youtube.com/playlist?list=PLKM0g6iBDQYQ",
+    "pass": 3
+   },
+   {
+    "quote": "手のひらサイズのオンプレミス生成AI「 Sovereign GaiXer 」を ... — 手のひらサイズのオンプレミス生成AI「 Sovereign GaiXer 」を ... マイナビニュース https://news.mynavi.jp > techplus > kikaku",
+    "url": "https://news.mynavi.jp/techplus/kikaku/20260929-5013844/",
+    "pass": 3
+   },
+   {
+    "quote": "Support | Sovereign GaiXer — Prepare and configure Sovereign GaiXer with step-by-step setup and sign-in instructions. Original screenshots and videos are in Japanese. Initial OS setup requires temporary internet access.",
+    "url": "https://sovereign.gaixer.com/en/support/",
+    "pass": 3
+   },
+   {
+    "quote": "Any company can list its own apps in the store: how the GaiXer App ... — Sovereign GaiXer takes that on and, through the app store, delivers to customers' on-premises environments (systems kept inside the company). Vendors can focus on turning their business know-how into apps. GPU server reseller partners",
+    "url": "https://sovereign.gaixer.com/en/what-is/appstore-for-makers/",
+    "pass": 3
+   },
+   {
+    "quote": "FIXER launches Sovereign GaiXer, a Lenovo-co-developed on-premise ... — FIXER launches Sovereign GaiXer, a Lenovo-co-developed on-premise generative AI workstation for healthcare and manufacturing. The AMW Read FIXER extends its existing GaiXer platform into a Lenovo-co-developed on-prem hardware appliance for regulated verticals, an incremental product-line update rather than a new capability or ",
+    "url": "https://www.ai-market-watch.com/news/sovereign-gaixer-launches-as-an-in-house-deployable-generative-ai-aimed-at-healt-99tmls",
+    "pass": 3
+   },
+   {
+    "quote": "gaixer.com — gaixer.com ... /sovereign-ai/",
+    "url": "http://gaixer.com/sovereign-ai",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー 希望 - Sovereign GaiXer — パートナー 希望 - Sovereign GaiXer Sovereign GaiXer https://sovereign.gaixer.com > contact > partner",
+    "url": "https://sovereign.gaixer.com/contact/partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Become a partner | Sovereign GaiXer — Contact FIXER about becoming a Sovereign GaiXer partner.",
+    "url": "https://sovereign.gaixer.com/en/contact/partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Any company can list its own apps: how the GaiXer App Store ... — Oct 29, 2026 · The GaiXer App Store is a shared marketplace on top of Sovereign GaiXer (AI-OS) where not only FIXER but many companies can list and deliver their own business apps.The AI-OS takes care of the foundation every app needs: the mechanism that runs the AI, safeguards, user management and audit logs.",
+    "url": "https://sovereign.gaixer.com/en/what-is/appstore-for-makers/",
+    "pass": 3
+   },
+   {
+    "quote": "Request product information | Sovereign GaiXer — Request product information | Sovereign GaiXer Sovereign GaiXer https://sovereign.gaixer.com > contact",
+    "url": "https://sovereign.gaixer.com/en/contact/information/",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレ生成AI「 Sovereign GaiXer 」｜一括買い切り・追加 ... — オンプレ生成AI「 Sovereign GaiXer 」｜一括買い切り・追加 ... Sovereign GaiXer https://sovereign.gaixer.com",
+    "url": "https://sovereign.gaixer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FIXER on X: \"＼オンプレ型AI「 Sovereign GaiXer ... — 株式会社FIXER on X: \"＼オンプレ型AI「 Sovereign GaiXer ... X https://x.com > @FIXER_Inc_Japan",
+    "url": "https://x.com/FIXER_Inc_Japan/status/2114658310146154855",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社FIXER on X: \"／ 「 Sovereign GaiXer 」とは？ 1分で ... 株式会社FIXER on X: \"／ 「 Sovereign GaiXer 」とは？ 1分で ... X https://x.com > @FIXER_Inc_Japan",
+    "url": "https://x.com/FIXER_Inc_Japan/status/2054834415034122377",
+    "pass": 3
+   },
+   {
+    "quote": "Sovereign GaiXer 【公式】 (@SovereignGaiXer) / X Sovereign GaiXer 【公式】 (@SovereignGaiXer) / X X https://x.com > SovereignGaiXer",
+    "url": "https://x.com/SovereignGaiXer",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FIXER on X : \"／ 「 Sovereign GaiXer 」とは？ 1分で ... 株式会社FIXER on X : \"／ 「 Sovereign GaiXer 」とは？ 1分で ... X https://x.com > @FIXER_Inc_Japan",
+    "url": "https://x.com/FIXER_Inc_Japan/status/2054834415034122377",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sovereign.gaixer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sovereign.gaixer.com/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sovereign.gaixer.com/what-is/api-gateway/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sovereign.gaixer.com/images/contact/partner-icon.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fixer.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companydata.com/company-ownership-lookup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000009536.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/FIXER_Inc_Japan/status/2041825550650765508",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31160088/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/FIXER_Inc_Japan/status/2098305549012246981",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/2030954/000164117225001303/form10-k.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://assets-eu-01.kc-usercontent.com/1fdd66b2-30d5-0192-078e-09b8670f8539/493b772f-d633-4e47-9e9c-13c1614e12db/Sovereign%20Annual%20Report%202022-23.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gpif.go.jp/en/performance/annual_report_fiscal_year_2023_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-302923951.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fixer.co.jp/news/2026/08/2026_0807_001_ai_subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefastmode.com/investments-and-expansions/51292-cohere-targets-cad-7-billion-series-e-funding-to-accelerate-sovereign-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rbbtoday.com/release/prtimes2-today/20260409/1247762.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/FIXER_Inc_Japan/status/2054834415034122377",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLKM0g6iBDQYQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Private_label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nichedropshipping.com/create-your-private-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indeed.com/career-advice/career-development/private-label-branding",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sell.amazon.com/blog/private-label-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-market-watch.com/news/sovereign-gaixer-launches-as-an-in-house-deployable-generative-ai-aimed-at-healt-99tmls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sovereign.gaixer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fdpclearinghouse.org/file/get?id=4663",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y36x2C8D2Kw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=HzKymJccMsQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/92000-44",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.net/account/auth/?redirect=dealroom.net/account/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/our-data/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://app.dealroom.co/news/note/songbot-raises-14-9m-series-b-to-scale-ai-tennis-training",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/FIXER_Inc_Japan/status/2054834415034122377",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SovereignGaiXer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FIXER_Inc_Japan/status/2054834415034122377",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "GAIXER Sovereign 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261014550763",
+    "https://fixer.co.jp/ir/stock/",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20261014/g6hga3/140120261014550763.pdf",
+    "https://baseconnect.in/companies/961cd8ac-3c03-4325-90a1-eb0877c22131",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260410/20260410501539.pdf",
+    "https://kabutrack.com/securities/5129/profile/",
+    "https://minkabu.jp/news/4607037",
+    "https://kabutan.jp/news/marketnews/?b=n202608310318",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260410501890",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign shareholders ownership investors parent company",
+   "results": [
+    "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "https://companydata.com/company-ownership-lookup/",
+    "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "https://sovereign.gaixer.com/en/faq/",
+    "https://sovereign.gaixer.com/en/",
+    "https://www.generali.com/investors/share-information-analysts/ownership-structure",
+    "https://japanir.jp/en/company/company-5129/ir/5129-20260910-01_wp_share_buyback/"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign 設立 OR 創業 OR founded",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000138.000009536.html",
+    "https://x.com/FIXER_Inc_Japan/status/2041825550650765508",
+    "https://japan.zdnet.com/release/31160088/",
+    "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "https://x.com/FIXER_Inc_Japan/status/2054834415034122377",
+    "https://www.jiji.com/jc/article?k=000000149.000009536&g=prt",
+    "https://news.mynavi.jp/techplus/kikaku/20260929-5013844/",
+    "https://www.youtube.com/watch?v=iqewZMVFLbM",
+    "https://www.itmedia.co.jp/aiplus/article/2508/18/1250818017/",
+    "https://www.founded.com/about/"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign revenue profitable",
+   "results": [
+    "https://sovereign.gaixer.com/ai-and-money/",
+    "https://x.com/FIXER_Inc_Japan/status/2098305549012246981",
+    "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "https://sovereign.gaixer.com/ai-and-money/08-integration/",
+    "https://www.youtube.com/watch?v=Y36x2C8D2Kw",
+    "https://x.com/FIXER_Inc_Japan/status/2094198538825843133",
+    "https://www.privateequityinternational.com/sgn-raises-15-million/",
+    "https://japanir.jp/en/company/company-5129/ir/5129-20261014-02_wp_financial_summary/",
+    "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/",
+    "https://finance.biggo.com/news/jpx_tdnet_140120260410501890"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign EBITDA net income annual report",
+   "results": [
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251029/20251028580033.pdf",
+    "https://www.sec.gov/Archives/edgar/data/2030954/000164117225001303/form10-k.htm",
+    "https://assets-eu-01.kc-usercontent.com/1fdd66b2-30d5-0192-078e-09b8670f8539/493b772f-d633-4e47-9e9c-13c1614e12db/Sovereign%20Annual%20Report%202022-23.pdf",
+    "https://www.gpif.go.jp/en/performance/annual_report_fiscal_year_2023_03.pdf",
+    "https://s2.q4cdn.com/714858690/files/doc_financials/2025/ar/2024-Annual-Report-Final.pdf",
+    "https://investors.sportradar.com/node/8206/ixbrl-viewer",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250414/20250414515465.pdf",
+    "https://docs.publicnow.com/viewDoc.aspx?filename=246483\\EXT\\14045FDF741F474E2BE927FB3CFE7590F7EBFC3C_A2E05426D209C80E02CEB35D1242AAD36CBEA249.PDF",
+    "https://www.georgfischer.com/content/dam/commonassets/corp/documents/reports/annual-report/annual-report-2024/en/financial-report-2024-en.pdf",
+    "https://japanir.jp/en/company/company-5129/ir/5129-20260901-01_wp_earnings_guidance/"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign funding raised",
+   "results": [
+    "https://www.prnewswire.com/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-302923951.html",
+    "https://fixer.co.jp/news/2026/08/2026_0807_001_ai_subsidy/",
+    "https://www.thefastmode.com/investments-and-expansions/51292-cohere-targets-cad-7-billion-series-e-funding-to-accelerate-sovereign-ai",
+    "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "https://zeirishinavi.com/news/fixer%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%82%AA%E3%83%B3%E3%83%97%E3%83%AC%E3%83%9F%E3%82%B9%E5%9E%8B%E7%94%9F%E6%88%90ai%E3%80%8Csovereign-gaixer%E3%80%8D%E3%81%8C%E3%80%81%E3%80%8C/",
+    "https://www.ai-market-watch.com/news/company/fixer-inc-gaixer",
+    "https://tech.eu/2026/11/05/uk-sovereign-ai-fund-and-stripe-ceo-back-potential-sciences-in-multi-million-dollar-raise/",
+    "https://sovereign.gaixer.com/en/faq/",
+    "https://japanir.jp/en/company/company-5129/ir/5129-20260617-01_wp_basic/",
+    "https://japanir.jp/en/company/company-5129/ir/5129-20261014-02_wp_financial_summary/"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign acquired OR liquidation OR insolvency OR closed",
+   "results": []
+  },
+  {
+   "query": "GAIXER Sovereign white label",
+   "results": [
+    "https://sovereign.gaixer.com/en/",
+    "https://www.rbbtoday.com/release/prtimes2-today/20260409/1247762.html",
+    "https://x.com/FIXER_Inc_Japan/status/2054834415034122377",
+    "https://www.youtube.com/playlist?list=PLKM0g6iBDQYQ",
+    "https://news.mynavi.jp/techplus/kikaku/20260929-5013844/",
+    "https://www.youtube.com/watch?v=mkqHZRPLz3M",
+    "https://sovereign.gaixer.com/faq/",
+    "https://news.infoseek.co.jp/article/prtimes_000000149_000009536/",
+    "https://sovereign.gaixer.com/en/support/",
+    "https://sovereign.gaixer.com/en/faq/"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://en.wikipedia.org/wiki/Private_label",
+    "https://nichedropshipping.com/create-your-private-label/",
+    "https://www.indeed.com/career-advice/career-development/private-label-branding",
+    "https://sell.amazon.com/blog/private-label-products",
+    "https://capsexpressinternational.com/blog/can-i-buy-a-product-and-sell-it-under-my-own-brand/",
+    "https://blog.hubspot.com/marketing/rebranding",
+    "https://www.uspto.gov/trademarks/basics/trademark-process"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign OEM SDK licensing partners",
+   "results": [
+    "https://sovereign.gaixer.com/en/support/",
+    "https://sovereign.gaixer.com/en/what-is/appstore-for-makers/",
+    "https://www.ai-market-watch.com/news/sovereign-gaixer-launches-as-an-in-house-deployable-generative-ai-aimed-at-healt-99tmls",
+    "http://gaixer.com/sovereign-ai",
+    "https://devicepartner.microsoft.com/en-us/licensing-and-programs",
+    "https://openautomationsoftware.com/why-us/oem-si/",
+    "https://www.ai-market-watch.com/company/fixer-inc-gaixer",
+    "https://www.gaixer.com/sovereign-ai/faq.html",
+    "https://omnierax.com/partners",
+    "https://connectedpartnerprogram.partnerproducts.com/?eid=landingPage"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign reseller partner program",
+   "results": [
+    "https://sovereign.gaixer.com/en/",
+    "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "https://sovereign.gaixer.com/contact/partner/",
+    "https://sovereign.gaixer.com/en/contact/partner/",
+    "https://sovereign.gaixer.com/en/what-is/appstore-for-makers/",
+    "https://www.seraxi.com/partners/",
+    "https://zindagitech.com/partners/reseller-program",
+    "https://sovereign.gaixer.com/en/support/",
+    "https://sovereign.gaixer.com/en/contact/pre-sales/",
+    "https://www.gaixer.com/sovereign-ai/faq.html"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.moomoo.com/news/notice/308021317/fixer-first-among-local-governments-nationwide-soka-city-saitama-prefecture",
+    "https://fdpclearinghouse.org/file/get?id=4663",
+    "https://www.youtube.com/watch?v=Y36x2C8D2Kw",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets",
+    "https://www.investopedia.com/terms/f/financial-statements.asp",
+    "https://ir.netflix.net/financials/financial-statements/default.aspx",
+    "https://faurit.com/article/financial-statements-list-of-types-and-how-to-read-them",
+    "https://www.cpall.co.th/en/investor/financial-info/financial-statements/",
+    "https://www.annualreports.com/"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign Japan",
+   "results": [
+    "https://sovereign.gaixer.com/en/contact/information/",
+    "https://sovereign.gaixer.com/",
+    "https://www.youtube.com/watch?v=HzKymJccMsQ",
+    "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "https://x.com/FIXER_Inc_Japan/status/2114658310146154855",
+    "https://prtimes.jp/main/html/rd/p/000000138.000009536.html",
+    "https://www2.usaco.co.jp/shop/pages/product_sovereigngaixer.aspx?srsltid=AYCX9vJb8adeWC-YPbPhAYwEqfKOag2GeVOmXlFokxIqEy3wNYRRnZs2",
+    "https://special.nikkeibp.co.jp/atclh/NXT/26/fixer0928/",
+    "https://aipicks.jp/tool/sovereign-gaixer",
+    "https://sovereign.gaixer.com/en/"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://pitchbook.com/profiles/company/92000-44",
+    "https://dealroom.net/account/",
+    "https://dealroom.co/our-data/",
+    "https://app.dealroom.co/news/note/songbot-raises-14-9m-series-b-to-scale-ai-tennis-training",
+    "https://dealroom.co/",
+    "https://www.adweek.com/dealroom/",
+    "https://www.northdata.com/"
+   ]
+  },
+  {
+   "query": "site:note.com GAIXER Sovereign",
+   "results": [
+    "https://note.com/kenpo_shibuya/n/nbe2048a9e721?hl=en",
+    "https://note.com/natty_toucan386/n/neb3dc8a41e4f",
+    "https://note.com/keizai_newsdiary/n/n46704807b6ea",
+    "https://note.com/tatsuya_sabato/n/nfc9081910ae2",
+    "https://note.com/dx_navi_tsubasa/n/nb055fa2a79c4",
+    "https://note.com/like_ferret4665/n/ndf8b70cb9a97",
+    "https://note.com/bonustrack/n/n64eae5449764",
+    "https://note.com/yasuhitoo/n/n49d5de8ff2c2",
+    "https://note.com/korg_check/n/nf4394144c255",
+    "https://note.com/dx_navi_tsubasa/n/nb055fa2a79c4?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com GAIXER Sovereign",
+   "results": [
+    "https://x.com/FIXER_Inc_Japan/status/2054834415034122377",
+    "https://x.com/SovereignGaiXer",
+    "https://x.com/FIXER_Inc_Japan/status/2104511436076552407",
+    "https://x.com/FIXER_Inc_Japan/status/2041825550650765508",
+    "https://x.com/FIXER_Inc_Japan/status/2096901301225316761",
+    "https://x.com/FIXER_Inc_Japan/status/2114658309244363179",
+    "https://x.com/FIXER_Inc_Japan/status/2098305549012246981",
+    "https://x.com/FIXER_Inc_Japan/status/2097218386325291238",
+    "https://x.com/FIXER_Inc_Japan/status/2089849878927290563",
+    "https://x.com/ymorishita/status/2042528115474469034"
+   ]
+  },
+  {
+   "query": "site:linkedin.com GAIXER Sovereign",
+   "results": [
+    "https://www.linkedin.com/company/fixer.inc",
+    "https://jp.linkedin.com/in/%E6%85%8E%E6%B2%BB-%E4%BD%90%E9%87%8E-181853331",
+    "https://jp.linkedin.com/in/koshi-eto",
+    "https://jp.linkedin.com/in/ishizaka-sota-2ba642177",
+    "https://jp.linkedin.com/in/tatsuhiko-shimizu-9388a3320",
+    "https://jp.linkedin.com/in/kazuyuki-azuma-10710031",
+    "https://www.linkedin.com/jobs/sovereign-gaixer-jobs",
+    "https://by.linkedin.com/company/fixer.inc",
+    "https://jp.linkedin.com/posts/fixer.inc_国内向け生成ai基盤sovereign-gaixer正式受注開始のお知らせ手-activity-7447591796135751680-X8EC",
+    "https://jp.linkedin.com/in/shumpei-fujii-a55535a1"
+   ]
+  },
+  {
+   "query": "site:facebook.com GAIXER Sovereign",
+   "results": [
+    "https://www.facebook.com/FIXER.Inc/",
+    "https://www.facebook.com/FIXER.Inc/posts/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9fixerlenovo%E8%A3%BDthinkstation-pgx%E3%81%A8%E7%94%9F%E6%88%90ai%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9gaixer%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9Fai%E3%82%A8%E3%83%83%E3%82%B8%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%8F%90%E4%BE%9B%E3%82%92%E7%99%BA%E8%A1%A8fix/1438190421645038/",
+    "https://www.facebook.com/yashionjp/posts/%E8%8D%89%E5%8A%A0%E5%B8%82%E3%81%8C%E5%85%A8%E5%9B%BD%E8%87%AA%E6%B2%BB%E4%BD%93%E5%88%9D%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B0%8E%E5%85%A5%E8%8D%89%E5%8A%A0%E5%B8%82%E3%81%8C%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%84%E6%A9%9F%E5%AF%86%E6%83%85%E5%A0%B1%E3%82%92%E6%89%B1%E3%81%88%E3%82%8B%E3%82%AA%E3%83%B3%E3%83%97%E3%83%AC%E3%83%9F%E3%82%B9%E5%9E%8B%E7%94%9F%E6%88%90aisovereign-gaixer%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%82%AA%E3%83%B3%E3%83%97%E3%83%AC%E3%83%9F%E3%82%B9%E5%9E%8B%E3%81%A8%E3%81%AF%E5%A4%96%E9%83%A8%E3%81%AE/1031349683233557/",
+    "https://www.facebook.com/FIXER.Inc/posts/%EF%B8%8F2024%E5%B9%B4-%E5%85%A5%E7%A4%BE%E5%BC%8F%E6%98%A8%E6%97%A5%E6%9D%B1%E4%BA%AC%E6%9C%AC%E7%A4%BE%E3%81%AB%E3%81%A624%E5%B9%B4%E6%96%B0%E5%8D%92%E3%81%AE%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%AE%E5%85%A5%E7%A4%BE%E5%BC%8F%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9Ffixer%E3%81%AF%E4%BB%8A%E5%B9%B4%E3%81%AF79%E5%90%8D%E3%81%AE%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1%E3%82%92%E8%BF%8E%E3%81%88%E3%81%BE%E3%81%97%E3%81%9F%E4%B8%96%E7%95%8C%E4%B8%80%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E4%BB%B2%E9%96%93%E3%81%A8%E3%81%97%E3%81%A6%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E4%B8%80%E7%B7%92/942161287914623/",
+    "https://www.facebook.com/FIXER.Inc/posts/4%E6%9C%8821%E6%97%A5-%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%8B%E6%A5%AD%E6%89%80%E9%96%8B%E8%A8%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3fixer%E3%81%AF%E6%A5%AD%E5%8B%99%E3%81%AE%E6%8B%A1%E5%A4%A7%E3%81%AB%E4%BC%B4%E3%81%84%E6%96%B0%E3%81%9F%E3%81%AB%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%8B%E6%A5%AD%E6%89%80%E3%82%92%E9%96%8B%E8%A8%AD%E3%81%97%E5%B9%B3%E6%88%9028%E5%B9%B44%E6%9C%8821%E6%97%A5%E3%82%88%E3%82%8A%E6%A5%AD%E5%8B%99%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%99%E3%82%8B%E9%81%8B%E3%81%B3%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%98%A8%E5%B9%B41/1085008614906161/",
+    "https://www.facebook.com/FIXER.Inc/posts/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9fixer%E3%81%A8%E9%A0%86%E5%A4%A9%E5%A0%82%E5%A4%A7%E7%94%9F%E6%88%90ai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E5%8C%BB%E7%99%82dx%E3%81%B8%E5%85%B1%E5%90%8C%E7%A0%94%E7%A9%B6-%E5%8E%9A%E5%8A%B4%E7%9C%81%E3%81%8C%E8%A3%9C%E5%8A%A9%E9%9B%BB%E5%AD%90%E3%82%AB%E3%83%AB%E3%83%86%E6%83%85%E5%A0%B1%E3%82%92%E5%9F%BA%E3%81%AB%E7%94%9F%E6%88%90ai%E3%81%A7%E8%A8%BA%E7%99%82%E5%A0%B1%E9%85%AC%E3%82%92%E7%AE%97%E5%AE%9A-%E7%97%85%E9%99%A2%E3%81%AE%E8%AB%8B%E6%B1%82%E6%A5%AD%E5%8B%99%E3%82%92%E7%9C%81%E5%8A%9B%E5%8C%96%E4%BC%9A%E8%A8%88%E3%82%B7%E3%82%B9/937836588347093/",
+    "https://www.facebook.com/FIXER.Inc/photos/1470615471735866/",
+    "https://www.facebook.com/FIXER.Inc/posts/131%E9%96%8B%E5%82%AC%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3-%E3%82%A6%E3%82%A7%E3%83%96-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3-%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BEaws-%E7%80%A7%E6%BE%A4-%E4%B8%8E%E4%B8%80%E6%B0%8F%E7%99%BB%E5%A3%87%E4%B8%96%E7%95%8C%E4%B8%80%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8Bai%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E7%94%9F%E6%88%90ai%E3%81%AF%E7%95%B0%E7%A8%AE%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E3%81%84%E3%81%84%E3%81%A8%E3%81%93%E3%81%A9%E3%82%8A%E3%81%AE%E6%99%82%E4%BB%A3%E3%81%AB%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3-/893945406069545/",
+    "https://www.facebook.com/FIXER.Inc/posts/%E3%81%82%E3%82%89%E3%81%9F%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6microsoft-japan-partner-of-the-year-2019financial-services%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E6%98%A8%E5%B9%B4%E3%81%AB%E7%B6%9A%E3%81%8D2%E5%B9%B4%E9%80%A3%E7%B6%9A%E3%81%A7/3053586264715043/",
+    "https://www.facebook.com/FIXER.Inc/posts/プレスリリース国内向け生成ai基盤sovereign-gaixer正式受注開始のお知らせ手のひらサイズのスパコンで生成aiを機密性とデータ主権を守るオンプレミス/1553752393422173/"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign note 社長",
+   "results": [
+    "https://fixer.co.jp/news/2026/08/2026_0828_001_soka_city/",
+    "https://prtimes.jp/main/html/rd/p/000000138.000009536.html",
+    "https://special.nikkeibp.co.jp/atclh/ONB/26/fixer0623/",
+    "https://digital.kentsu.co.jp/articles/artcl_rglr/01KVEWQWBHCT14B3T6QHKEVWMX",
+    "https://fixer.co.jp/news/2026/07/2026_0709_001_elevenlabs/",
+    "https://prtimes.jp/main/html/rd/p/000000149.000009536.html",
+    "https://www.rbbtoday.com/release/prtimes2-today/20260409/1247762.html",
+    "https://companydata.tsujigawa.com/press-20260409-001/"
+   ]
+  },
+  {
+   "query": "GAIXER Sovereign X 投稿",
+   "results": [
+    "https://x.com/FIXER_Inc_Japan/status/2054834415034122377",
+    "https://sovereign.gaixer.com/",
+    "https://www.youtube.com/playlist?list=PLKM0g6iBDQYQ",
+    "https://special.nikkeibp.co.jp/atclh/NXT/26/fixer0928/",
+    "https://www2.usaco.co.jp/shop/c/csovgx/?srsltid=AYCX9vIpd2RgyQ_RyeCshHlzdC7QRglUlnInyBfgRxdThcw-kIXE5hkK",
+    "https://aipicks.jp/tool/sovereign-gaixer",
+    "https://kabutan.jp/news/marketnews/?b=n202608310471",
+    "https://x.com/FIXER_Inc_Japan/status/2097218386325291238",
+    "https://sovereign.gaixer.com/support/",
+    "https://x.com/SovereignGaiXer"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部44頁・検索20回）",
+  "設立": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部44頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部44頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部44頁・検索20回）",
+  "ホワイトラベル明言": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部44頁・検索20回）"
+ }
+}

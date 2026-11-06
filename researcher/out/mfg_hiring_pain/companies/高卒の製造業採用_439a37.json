@@ -1,0 +1,2200 @@
+{
+ "name": "高卒の製造業採用",
+ "en": "high school graduate hiring manufacturing Japan",
+ "aliases": [
+  "高卒求人",
+  "高校新卒",
+  "工業高校",
+  "高卒採用"
+ ],
+ "context": "高卒",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:49:22.662132+00:00",
+ "evidence": {
+  "高卒・技術者": [
+   {
+    "quote": "設備保全・技能職は今後も採用での充足がほぼ不可能な領域",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：地元の高校・高専・工業高校との関係構築は最強の採用チャネル",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "特に地方の中小製造業にとって、地元工業高校との",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン技能者の定年を数年後に控え、加工条件・検査の勘所を動画とデータベースに落とし込む技能継承プロジェクトを実施",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "地元工業高校への出前授業とインターン受け入れ、を",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "高校新卒の応募が復活し、毎年の定期採用サイクル",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に新卒入社後、3年という速さで現職のリーダーに就任",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用を4社に1社が予定―大企業は4割超に",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用（2028年卒）",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社帝国データバンクは2026年9月25日、全国の企業を対象に「2027年度の『高卒採用』に関する企業の意識調査」の結果を発表した",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果から、高卒採用を予定する企業の割合や採用理由、採用活動から入社後の育成・定着に至るまでの課題などが明らかになった",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度の高卒採用、「予定あり」は24.4％",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "少子化による若年層の減少や人手不足が課題となるなか、高校新卒者の採用を人材確保の手段として検討する企業もある",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度の高卒採用を予定する企業はどの程度あり、採用にあたってどのような課題を抱えているのだろうか",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度の高卒採用について、2026年度と比べた採用予定を尋ねたところ、「増加する（見込みを含む）」と回答した企業は4.9％、「変わらない（見込みを含む）」は15％、「減少する（見込みを含む）」は4.5％だった",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "これらを合わせた「予定あり」は24.4％となり、およそ4社に1社が高卒者の採用を予定していることが分かった",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別に見ると、2027年度の高卒採用を「予定あり」とした企業は、大企業が42.7％、中小企業が21.2％だった",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用の理由、85.2％が「若手人材の確保」",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用を予定している企業2,573社に採用理由を尋ねたところ、最も多かったのは「若手人材の確保」で85.2％だった",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "企業からは、「社員が培ってきた技術を次世代に継承するために高卒採用を進めたい」、「高卒者は若いうちから自社の業務に合わせて育成しやすい」といった意見が寄せられた",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用の課題は応募者不足が最多、育成負担や早期離職も",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用で特に課題と感じていることでは、「応募者数の不足」が36.4％で最も高く、「企業認知度の不足」が31.1％で続いた",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足！採用難の原因と最新解決策を徹底解説 | 記事一覧 | 【高卒採用Lab】高校生採用を科学する｜株式会社ジンジブ",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】高卒採用の「一人一社制」ってどんなルールなの？",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "今、なぜ高卒採用が選ばれているのか",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "大学や専門学校の新卒者を対象とした採用活動",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用Labでは、高卒採用",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の調査結果や高卒採用のノウハウ、企業の採用担当者からのインタビューなどあらゆる視点から「高校生の採用」を実施する企業へ価値ある情報を提供します",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "基本ルールが理解できる！ 高卒採用初心者向け無料セミナーは",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用Labに関するご意見やご感想などについては、",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "高卒の基本情報から、高卒採用で成果を出すための実践編まで、",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "高校生の新卒採用メソッドについて、",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "もうひとつの新卒採用、“高卒就職”は持続可能か──古屋星斗｜研究所員の鳥瞰虫瞰 Vol.4｜コラム｜リクルートワークス研究所",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "もうひとつの新卒採用、“高卒就職”は持続可能か──古屋星斗",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "6月は大学生の就職選考解禁月であり、新卒採用についての報道が多くなる時期でもある",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、この大卒就職市場を遥かに超える2.78倍（※２）という求人倍率となっているのが高卒者の就職市場である",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の採用需要も前年比＋13.7％と活発な動向を示しており、地方の企業においては「大卒者の採用が激化するなかで高卒者の採用を再開した」という話も聞くことができる",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "直近の人手不足対応に加え、現場の技能継承や事業の中核を担う人材候補として、若手人材に対する企業の大きなニーズが、大卒者のみならず、高卒者にも向かっていると言えよう",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表１ 高卒者の採用が「増える」と答えた企業の割合（※４）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "高卒就職は堅調なニーズと高い内定率もあり、現状安定した職業社会への送り出しができていると言えよう",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "ひとつが高い早期離職率（大卒者でおよそ3割、高卒者ではおよそ4割となっている）であり、もう一つの懸念点が就職先の偏りである（図表２）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "大卒者と比較するまでもなく、就職先の業種は著しく製造業に多く、比率としては全高卒就職者の40.4％が製造業に就職している",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、就職先の偏りは出口直結の教育の賜物とも言え、事実として高校就職者のうちの多くは工業高校出身者である",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校から製造業に就職している者の3年以内離職率は2割程度であるというデータもあり（※６）、職業を見定めた就職先マッチングは実効的に機能している面があると言えるだろう",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "高卒就職者は生産工程従事者の割合が圧倒的に高く、例えば製造業へ行く場合にも大卒者の場合には事務職や販売職といった職種からの入職の可能性があるが、高卒者の場合には製造業入職者の大多数が生産工程従事者として就職していることがわかる（製造業就職者全体が約7.5万人、生産工程従事者での就職者は約7.3万人（※８） ）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、高卒者の入職先職種で圧倒的な第一位である生産工程従事者であるが、最後に、その初期キャリア形成の状況について掘り下げてみてみよう",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "就職後の職業生活の初期ステージにある若手高卒就職者の現状を、各種指標から整理したものが図表４である",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用の求人倍率はどれくらい？｜最新データ完全解説 | 高卒採用ガイド | ゆめスタ | ゆめスタ",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "高卒新卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "企業にとって高卒人材の獲得は年々困難になっています",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "高卒の求人倍率は過去30年で最も高い水準にある",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が公表する「高校・中学新卒者のハローワーク求人に係る求人・求職状況」によると、令和7年3月卒の求人倍率は4.10倍で過去最高を更新しました",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 厚生労働省「令和7年3月末現在 高校・中学新卒者のハローワーク求人に係る求人・求職状況」",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、企業にとって高卒人材の確保はこれからさらに難しくなります",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "景気に関係なく、高卒人材の獲得競争は激化し続ける",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校の求人倍率は31.9倍で、高卒全体（4.10倍）を大きく上回る",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校の生徒を採りたいなら、",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "高卒就職者の約4割（39.9%）は製造業に就職している",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "高卒就職者の就職先を産業別に見ると（令和7年3月卒業者・全国127,501人）、製造業が圧倒的な割合を占めていることがわかります",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "製造業が約4割を占める背景には、工場のライン作業や技術職では即戦力となる高卒人材への需要が根強いことがあります",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   }
+  ],
+  "採用できず起きたこと": [
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：受注辞退・失注による機会損失（表面化しにくいが最も大きい）",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：残業代・外注費の増加、経験不足による不良・手直しの増加",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "後継者不足や熟練工の退職により、技術やノウハウの継承が困難になり、事業の縮小や撤退を余儀なくされるケースも発生しています",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "自動化、生産工程の見直し、外注活用",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "「工業高校出身者しか採用しない」は機会損失？ 工業高校生徒の動向と高卒採用を成功させるためのヒント",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "【人事・採用ニュース6選】人手不足倒産は4年連続で過去最多、カスハラ対策は義務化へほか｜2026年10月25日〜26日分",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   }
+  ],
+  "規模別": [
+   {
+    "quote": "製造業の人材不足はなぜ解決しないのか？データで見る本当の原因と、中小企業が打つべき対策の全て",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員や幹部の退職を直接の引き金とする「従業員退職型」も",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業」は、人材獲得競争において三重のハンデを背負っている",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "】少ない人数で回る工場をつくる打ち手（省人化・小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "」と聞くと、大企業のスマートファクトリーや数千万円の生産管理システムを想像して尻込みする経営者が少なくありません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数十名規模の工場ほど、小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "大企業型のスマートファクトリーを目指す必要はまったくありません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材の受け入れは中小企業でも現実的ですか？",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用を4社に1社が予定―大企業は4割超に",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "採用予定割合は大企業42.7％、製造業・建設業で高く",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別に見ると、2027年度の高卒採用を「予定あり」とした企業は、大企業が42.7％、中小企業が21.2％だった",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "大企業が中小企業を21.5ポイント上回っており、中小企業のうち小規模企業では11.2％にとどまっている",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数別でも、採用予定割合は従業員数が多い企業ほど高い傾向にあった",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "「5人以下」では7.2％だったのに対し、「101～300人」は50.6％、「301～1,000人」は54.5％、「1,000人超」は58.9％となり、従業員数101人以上の企業ではいずれも半数を超えた",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "採用予定割合には企業規模や従業員数に加え、業界によっても差が見られる",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用、4社に1社が予定 大企業では4割超 企業規模で鮮明な差 採用理由、若手確保が85.2％ 応募者不足、育成・定着が課題｜PR TIMES",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "また、既存の従業員に過剰な負担がかかり、生産効率が低下することも懸念されます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "経験の浅い従業員が増加したり、既存の従業員に負担が集中したりすることで、作業ミスや製品の品質不良が増える可能性が高まります",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小企業では、人材の流出が事業継続に大きな影響を与える可能性があります",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力の低下、納期遅延、従業員の負担増加",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "フレックスタイム制やテレワークを導入することで、従業員の自主性を尊重し、より柔軟な働き方を可能にすることができます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、仕事とプライベートの両立がしやすくなり、従業員の満足度向上に繋がります",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、時短勤務制度や在宅勤務制度などを導入し、従業員のライフステージに合わせた働き方を支援しましょう",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "年間休日数を増やすだけでなく、有給休暇の取得を促進するなど、従業員がしっかりと休暇を取得できる環境を整備することで、ワークライフバランスの向上に貢献できます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの制度を積極的に活用することで、従業員の心身の健康を維持し、より生産性の高い職場環境を実現することができます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "福利厚生は、従業員の生活をサポートする上で重要な役割を果たします",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅手当や家族手当、通勤手当などの経済的な支援に加え、健康診断や保養施設の利用など、健康面でのサポートも充実させることで、従業員の満足度を高めることができます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "また、社内イベントやサークル活動などを支援することで、従業員同士のコミュニケーションを促進し、良好な人間関係を築くことができる職場環境づくりにも貢献します",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "育児支援や介護支援など、従業員のライフイベントに合わせた福利厚生制度も導入することで、よりきめ細やかなサポートを提供することができます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "社内研修制度は、従業員のスキルアップを促進する上で重要な役割を果たします",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員研修や階層別研修、専門スキル研修など、様々な研修プログラムを用意することで、従業員の成長をサポートすることができます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に入り、日立やトヨタ自動車といった日本を代表する製造大企業のトップが、「終身雇用を守ることはもはや困難である」旨の発言を繰り返している",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員を大切にする！だからこその手厚い福利厚生があります！",
+    "url": "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業 単価 製造業 高卒の製造業の求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "○中小企業等協同組合の設立及び運営支援 ○創業、起業、経営革新等の相談対応、支援 ○企業間交流や企業のマッチング等の提案・コーディネート ○国・県等の受託事業に係る事務業務 ○その他、中小企業の発展・成長に寄与する各種事業 等 ＊外出用務には社有車を使用（ＡＴ車） 変更範囲：変更無し",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業や店舗の経営者様へ向け、弊社の経営・集客支援サービス（無料モニタープランなど、コスト負担のない案内）の案内DM（ダイレクトメッセージ）の送信と、それに伴う簡単な日程調整をお任せします",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "土/日/祝/夏季休暇/年末年始休暇/完全週休二日制/創立記念日/年間有給休暇11日～22日（下限日数は入社半年経過後の付与日数） 退職金/持株制度/共済制度/従業員積立金制度/住宅財形貯蓄制度・融資制度/慶弔休暇/カフェテリアプラン/定年制有り（60歳まで）/再雇用制有り",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "一般事務・中小企業支援業務（未経験歓迎／土日祝休み）",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "・宮城県内の中小企業や創業者の成長や課題解決を支援 する業務（相談対応、セミナー・各種事業運営等） および総務・経理事務を担当します",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "長野県中小企業団体中央会 長野県の未来をつくる【団体職員】◆年間休日123日◆賞与4.6ヶ月 ※応募に当たっては、マイナビ転職の会員登録が必須となっております",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】 【教育体制が充実しているから、未経験でも安心の環境】◆長野県内の中小企業や組合の相談に乗り、運営をサポートします◆有休取得平均13.6日長野県内の中小企業組合を訪問し、 運営に関する相談対応や情報提供を行います",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "経験不問／中小企業を支援する「団体職員」／27年4月入社採用",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "公益財団法人東京都中小企業振興公社 《経験不問》中小企業を支援する【団体職員】*27年4月入社採用 ※応募に当たっては、マイナビ転職の会員登録が必須となっております",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】 【東京都政策連携団体】都内中小企業を対象に各種支援事業を担当します",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "※配属先（総合支援課/生産向上支援課/助成課など）によって業務は異なります「中小企業への支援事業」を軸に、幅広い業務をお任せします",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業と金融機関を繋ぐ「総合職」年休126日／賞与実績4.9ヶ月",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県信用保証協会 中小企業と金融機関を繋ぐ【総合職】年休126日／賞与実績4.9ヶ月 ※応募に当たっては、マイナビ転職の会員登録が必須となっております",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】 《県内の中小企業を支援》保証審査・経営支援等の業務をお任せします◆資格取得支援制度あり！社員の成長を応援します ◆有休取得日数年平均12日【 保証審査業務 】 金融機関の依頼を受け、融資を希望する 中小企業のお客様の審査を行います",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "このページでは、マイナビ・リクナビ等の公式情報、JILPT調査データ、中小企業調査機関の統計を基に、高卒採用の採用コストを徹底分析します",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "ジョブドラフト公式料金プラン（2024年）、中小企業調査機関統計",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "3-1. 小規模企業（従業員50名未満・採用2-3名）",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "3-2. 中規模企業（従業員50-300名・採用5-10名）",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "3-3. 大規模企業（従業員300名以上・採用10-20名）",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用投資回収期間・生産性分析、中小企業調査機関統計",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストとは、企業が従業員を採用するためにかかる費用の総額を指します",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業は、採用活動に多くのリソースを投入できるため、採用予算が高くなる傾向があります",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中小企業は、採用予算が限られているため、採用予算を抑える傾向があります",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が信頼できる人材を紹介してくれるため、ミスマッチが少なく、採用コストも抑えられるというメリットがあります",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   }
+  ],
+  "地域別": [
+   {
+    "quote": "私は船井総合研究所の製造業コンサルタントとして、年間を通じて全国の中小製造業の現場に入り、経営者の皆様とこの問題に向き合ってきました",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社帝国データバンクは2026年9月25日、全国の企業を対象に「2027年度の『高卒採用』に関する企業の意識調査」の結果を発表した",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "調査期間は2026年8月18日～31日で、全国2万2,060社を対象に1万560社から有効回答を得ている",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "（※６）全国工業高等学校長会の独自調査による",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※９）リクルートワークス研究所,「全国就業実態パネル調査2018」より筆者作成、ウェイトX18を活用して分析",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、全国・地域別・産業別・学科別の求人倍率データを網羅的に解説します",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "1. 全国の求人倍率推移",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "この「需要と供給のギャップ」が31.9倍（全国工業高等学校長協会「",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "高卒就職者の就職先を産業別に見ると（令和7年3月卒業者・全国127,501人）、製造業が圧倒的な割合を占めていることがわかります",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "特に東海地方は自動車・機械関連の製造業が集積しており、製造業に就職する割合はさらに高くなります（愛知県は57.2%・令和7年3月卒業者）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県の高卒求人倍率は4.82倍で、全国の4.10倍を上回る（いずれも令和7年3月末現在）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "就職内定者8,303人は全国最多",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県はハローワーク経由の高卒就職内定者数（8,303人）が全国で最も多い県です",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率4.82倍は全国の4.10倍を上回っており、東海地方の製造業企業にとって高卒人材の獲得は一段と厳しい状況です",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県も4.19倍と全国を上回り、静岡県（3.59倍）・三重県（3.06倍）も高校生1人に3件以上の求人がある状態です",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県では高校生1人に対して4.82件の求人がある（令和7年3月末）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校の求人倍率は31.9倍です（全国工業高等学校長協会・令和7年3月卒）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "全国工業高等学校長協会「令和7年3月全日制工業科卒業者の進路状況調査」（工業高校の求人倍率）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和6年度 高校・中学新卒者のハローワーク求人に係る求人・求職・就職内定状況」第3表 都道府県別（愛知・岐阜・静岡・三重、令和7年3月末現在）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "関東エリア、東京、千葉",
+    "url": "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "pass": 3
+   },
+   {
+    "quote": "創業60年以上、東京・千葉に17拠点を展開する地域密着型の総合カーディーラーです",
+    "url": "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "pass": 3
+   },
+   {
+    "quote": "関東エリア、東京",
+    "url": "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "pass": 3
+   },
+   {
+    "quote": "全国平均31.9倍",
+    "url": "https://sales-adventure.jp/column/Fhx3f_tM",
+    "pass": 3
+   },
+   {
+    "quote": "（公益社団法人 全国工業高等学校長協会 進路対策委員会）",
+    "url": "https://sales-adventure.jp/column/Fhx3f_tM",
+    "pass": 3
+   },
+   {
+    "quote": "京浜（東京・神奈川）は10.54倍で、東京だけなら16.12倍",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "東海は4.24倍（愛知4.94倍）、関東3.73倍、近畿3.05倍、東北3.02倍（青森2.47倍）",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用の流れは、全国で申し合わせが決まっています",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "7〜8月に応募前の職場見学、9月5日から学校経由で応募書類（全国高等学校統一用紙）が提出され、9月16日から選考です",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月卒の高卒者の求人倍率は全国平均で3.98倍",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、東京都に限れば、高卒者の求人倍率はなんと",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "全国工業高等学校長協会「卒業者等に関わる状況調査」（令和5年10月）",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "公益財団法人東京都中小企業振興公社 《経験不問》中小企業を支援する【団体職員】*27年4月入社採用 ※応募に当たっては、マイナビ転職の会員登録が必須となっております",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】 【東京都政策連携団体】都内中小企業を対象に各種支援事業を担当します",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "大都市（東京・大阪等）: 60万円/回",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "○ 新規大学卒業者（２２年３月卒）の就職率【３月末現在】 ○ 新規大学卒業者（２２年３月卒）の就職率【３月末現在】 ○ 新規大学卒業者（２２年３月卒）の就職率【３月末現在】 ○ 新規大学卒業者（２２年３月卒）の就職率【３月末現在】 （愛知県就業促進課調べ）（愛知県就業促進課調べ）（愛知県就業促進課調べ）（愛知県就業促進課調べ）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２２年５月１１・１２日 ９：３０～１６：３０ 愛知県産業労働センター（ウインクあいち）２２年５月１１・１２日 ９：３０～１６：３０ 愛知県産業労働センター（ウインクあいち）２２年５月１１・１２日 ９：３０～１６：３０ 愛知県産業労働センター（ウインクあいち）２２年５月１１・１２日 ９：３０～１６：３０ 愛知県産業労働センター（ウインクあいち）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表９ 全国の求人倍率・失業の状況表９ 全国の求人倍率・失業の状況表９ 全国の求人倍率・失業の状況表９ 全国の求人倍率・失業の状況",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 求人倍率及び全国の完全失業率の増減率（差）は、対前月差である",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3. 全国の完全失業者の増減率（差）は、対前年同月増減率である",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4. 愛知県の完全失業者及び失業率は四半期の平均値であり、増減率（差）は対前年同期増減率（差）である",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5. 完全失業者・完全失業率資料：愛知県統計課「労働力調査地方集計結果」及び総務省統計局「労働力調査」",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表８ 愛知県の求人倍率・失業の状況表８ 愛知県の求人倍率・失業の状況表８ 愛知県の求人倍率・失業の状況表８ 愛知県の求人倍率・失業の状況",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成２２年３月 全国平均0.49倍 ［原数値0.50倍］平成２２年３月 全国平均0.49倍 ［原数値0.50倍］平成２２年３月 全国平均0.49倍 ［原数値0.50倍］平成２２年３月 全国平均0.49倍 ［原数値0.50倍］",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：上記1～3は愛知県統計課「労働力調査地方集計結果」",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（資料出所） 「鉱工業生産指数」：愛知県統計課「あいちの鉱工業（愛知県鉱工業指数）」",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「賃金指数」、「所定外労働時間指数」、「常用雇用指数」：愛知県統計課「あいちの勤労（毎月勤労",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県 土木（高卒程度）の面接で何を聞かれる？質問例と日程【2026第2回】",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   }
+  ],
+  "出典の種類": [
+   {
+    "quote": "総務省「労働力調査」によると、製造業の就業者数は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省・厚生労働省・文部科学省「",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」を見ると、製造現場の中核職種である「生産工程の職業」の有効求人倍率は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省「一般職業紹介状況（職業安定業務統計）」（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省等「ものづくり白書」によれば、製造業の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、厚生労働省「一般職業紹介状況」（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書の調査では、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版アーカイブ",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（職業安定業務統計）」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社帝国データバンクは2026年9月25日、全国の企業を対象に「2027年度の『高卒採用』に関する企業の意識調査」の結果を発表した",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "調査期間は2026年8月18日～31日で、全国2万2,060社を対象に1万560社から有効回答を得ている",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "調査結果から、高卒採用を予定する企業の割合や採用理由、採用活動から入社後の育成・定着に至るまでの課題などが明らかになった",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "HRプロ会員なら、会員限定の記事や『HR総研』調査報告／そのほか多数のコンテンツが無料で利用可能！",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の統計によると、生産年齢人口は減少傾向にあり、この傾向は今後も続くと予想されています",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和４年版 労働経済の分析」",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「2022年版ものづくり白書」",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の調査結果や高卒採用のノウハウ、企業の採用担当者からのインタビューなどあらゆる視点から「高校生の採用」を実施する企業へ価値ある情報を提供します",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "「大卒求人倍率調査」（2020年卒結果）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "差の有意性について検定を行った（※11）ところ、「職場の人間関係に満足していた」及び「仕事を通じて『成長している』という実感を持っていた」については有意に“生産工程職種が低い”という差が検出できた（今回は二次分析であるが、この点に焦点を当てた大規模な調査が行われれば、実態はより明らかとなるであろうと推察される）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※２）厚生労働省, 「平成30年度『高校・中学新卒者のハローワーク求人に係る求人・求職状況』取りまとめ」（2019年卒者に対する結果）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※３）文部科学省,「平成31年3月高等学校卒業者の就職状況（平成31年3月末現在）に関する調査について」（2019年卒者に対する結果）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※４）リクルートワークス研究所,「採用見通し調査」",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※５）文部科学省,「学校基本調査」,平成30年度",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※６）全国工業高等学校長会の独自調査による",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※７）文部科学省,「学校基本調査」,平成30年度",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、高卒者については「管理的職業従事者」の調査項目はない",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※８）文部科学省,「学校基本調査」",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※９）リクルートワークス研究所,「全国就業実態パネル調査2018」より筆者作成、ウェイトX18を活用して分析",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※11）当該調査は5万人以上を対象とする大規模な調査であるが、高校を最終学歴とし、かつ年齢が25歳未満であり初職が正規社員であったものを抽出しており、サンプル数が十分ではない",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※12）総務省,「労働力調査」",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用見通し調査（新卒：2020年卒）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "大卒求人倍率調査（2020年卒）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "高卒新卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が公表する「高校・中学新卒者のハローワーク求人に係る求人・求職状況」によると、令和7年3月卒の求人倍率は4.10倍で過去最高を更新しました",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 厚生労働省「令和7年3月末現在 高校・中学新卒者のハローワーク求人に係る求人・求職状況」",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年3月新規高等学校卒業者の就職状況（令和7年3月末現在）に関する調査",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "」（卒業者数・就職希望者数）／同 令和2年3月卒の同調査（就職希望者数）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 卒業者数・就職割合（卒業者に占める就職者の割合）＝文部科学省「学校基本調査」令和7年度（令和7年3月卒業者）学科別進路状況／就職率（就職希望者に占める就職者の割合）＝文部科学省「",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年3月全日制工業科卒業者の進路状況調査",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "文部科学省「学校基本調査」令和7年度 表294「産業別都道府県別就職者数」",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "高卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）で過去最高を更新した",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省がハローワーク経由の求人・求職データをもとに集計しています",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和7年3月末現在 高校・中学新卒者のハローワーク求人に係る求人・求職状況」",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和6年度 高校・中学新卒者のハローワーク求人に係る求人・求職状況」（各時点集計）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "文部科学省「学校基本調査」（学科別進路状況）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "全国工業高等学校長協会「令和7年3月全日制工業科卒業者の進路状況調査」（工業高校の求人倍率）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "文部科学省「令和7年3月新規高等学校卒業者の就職状況（令和7年3月末現在）に関する調査」（就職希望者数・学科別就職率）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年3月高等学校卒業予定者の就職内定状況（令和5年10月末現在）に関する調査",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "また、同調査によると、工業高校生徒の就職先は",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、厚生労働省の最新の数字で市場を確かめ、ルールを押さえ、製造業の会社が学校と先生に選ばれるためにやること、そして入社後3年以内に4割近くが辞める現実にどう向き合うかを書きます",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の取りまとめによると、2026年3月に高校を卒業した生徒のハローワーク求人は、求人数498,722人に対して求職者121,175人、求人倍率4.12倍でした",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "就職を希望する高校生は、ほぼ全員がどこかに決まります（厚生労働省「令和7年度 高校・中学新卒者のハローワーク求人に係る求人・求職・就職内定状況」2026年3月末現在）",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "求人は充足するまで翌年6月末まで有効で、途中で取り消せません（厚生労働省「高卒就職情報WEB提供サービス」",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "学生への調査では、採用ページの情報が古いと志望度が下がる人が88.1%でした",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   }
+  ],
+  "求人倍率・充足率": [
+   {
+    "quote": "高卒採用で特に課題と感じていることでは、「応募者数の不足」が36.4％で最も高く、「企業認知度の不足」が31.1％で続いた",
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "pass": 3
+   },
+   {
+    "quote": "「大卒求人倍率調査」（2020年卒結果）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、この大卒就職市場を遥かに超える2.78倍（※２）という求人倍率となっているのが高卒者の就職市場である",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "大卒求人倍率調査（2020年卒）",
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "pass": 3
+   },
+   {
+    "quote": "高卒新卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "1. 全国の求人倍率推移",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "高卒の求人倍率は過去30年で最も高い水準にある",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が公表する「高校・中学新卒者のハローワーク求人に係る求人・求職状況」によると、令和7年3月卒の求人倍率は4.10倍で過去最高を更新しました",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率4.10倍とは、高校生1人に対して4件以上の求人がある状態です",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "3. 学科別の求人倍率と就職率",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校の求人倍率は31.9倍で、高卒全体（4.10倍）を大きく上回る",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県の高卒求人倍率は4.82倍で、全国の4.10倍を上回る（いずれも令和7年3月末現在）",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率4.82倍は全国の4.10倍を上回っており、東海地方の製造業企業にとって高卒人材の獲得は一段と厳しい状況です",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "高卒の求人倍率は4.10倍（厚生労働省 令和7年3月末現在）で過去最高を更新した",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "（速報）工業高校生の求人倍率31.9倍、北海道はなんと69.6倍にも ｜セルアド（18歳新卒ラボ）",
+    "url": "https://sales-adventure.jp/column/Fhx3f_tM",
+    "pass": 3
+   },
+   {
+    "quote": "（速報）工業高校生の求人倍率31.9倍、北海道はなんと69.6倍にも ｜セルアド（18歳新卒ラボ） 読み込まれました",
+    "url": "https://sales-adventure.jp/column/Fhx3f_tM",
+    "pass": 3
+   },
+   {
+    "quote": "（速報）工業高校生の求人倍率31.9倍、北海道はなんと69.6倍にも",
+    "url": "https://sales-adventure.jp/column/Fhx3f_tM",
+    "pass": 3
+   },
+   {
+    "quote": "●工業高校生の求人倍率31.9倍、北海道はなんと69.6倍にも",
+    "url": "https://sales-adventure.jp/column/Fhx3f_tM",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率が過去最高水準となる31.9倍を",
+    "url": "https://sales-adventure.jp/column/Fhx3f_tM",
+    "pass": 3
+   },
+   {
+    "quote": "約8倍の求人倍率であり",
+    "url": "https://sales-adventure.jp/column/Fhx3f_tM",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の取りまとめによると、2026年3月に高校を卒業した生徒のハローワーク求人は、求人数498,722人に対して求職者121,175人、求人倍率4.12倍でした",
+    "url": "https://seizo-web.com/blog/3008/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年春の大卒の内定率が過去最高の92.6%というニュースが話題ですが、実は今、高卒者の求人倍率も空前の高まりを見せています",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月卒の高卒者の求人倍率は全国平均で3.98倍",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "大卒の求人倍率が1.75倍である（※2）ことと比べても高い状況で、2025年卒においてはさらに高い求人倍率になるとも予想されています",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "工業高卒者の求人倍率は過去最高の20.6倍",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率は20倍を超え、就職率は例年ほぼ100％を達成",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートワークス研究所「大卒求人倍率調査（2025年卒）」",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年】有効求人倍率の期間を最新の厚生労働省データから分析！業界別、都道府県別も解説",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "～求人数は 17,565 人、求人倍率は 3.44 倍で、ともに過去最高～",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率（倍） 3.44 3.34 - 0.1",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．求人数・求職者数・求人倍率の推移（各年７月末現在）",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◎求人倍率は 3.44 倍で、前年同期に比べ 0.1 ポイント上回った",
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（季節調整値） ⇒ 対前月＋0.02ポイント",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規求人倍率（ 〃 ） ⇒ 対前月＋0.03ポイント",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は０．６０倍 有効求人倍率は０．６０倍 有効求人倍率は０．６０倍 有効求人倍率は０．６０倍 (昨年３月以来１年ぶりの０．６倍台）(昨年３月以来１年ぶりの０．６倍台）(昨年３月以来１年ぶりの０．６倍台）(昨年３月以来１年ぶりの０．６倍台）",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（Ｐ８－表１）（Ｐ８－表１）（Ｐ８－表１）（Ｐ８－表１）1 求人倍率の状況1 求人倍率の状況1 求人倍率の状況1 求人倍率の状況",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 0.56 1.26 0.65 0.19 0.61 1.54 2.78 0.47 0.84 0.36 -",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 0.56 0.63 0.61 0.62 0.62 0.59 0.51 0.49 0.50 0.51 0.49 0.55",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 新規高校卒業者（２２年３月卒）の求人倍率【３月末現在】○ 新規高校卒業者（２２年３月卒）の求人倍率【３月末現在】○ 新規高校卒業者（２２年３月卒）の求人倍率【３月末現在】○ 新規高校卒業者（２２年３月卒）の求人倍率【３月末現在】",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 有効求人倍率（平成２１年度平均・原数値） ０．５１倍○ 有効求人倍率（平成２１年度平均・原数値） ０．５１倍○ 有効求人倍率（平成２１年度平均・原数値） ０．５１倍○ 有効求人倍率（平成２１年度平均・原数値） ０．５１倍",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規求人倍率 0.75 倍 0.90 倍 0.56 倍 ▲ 0.15 ポ 0.19 ポ",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 0.51 0.54 0.52 ▲ 0.03 ▲ 0.01",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、平成21年12月以前の求人倍率",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【採用力強化編】高卒求人倍率4.12倍！なぜ中小企業は大卒より高卒を激しく取り合うのか？",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   },
+   {
+    "quote": "高卒の求人倍率は4.12倍",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   },
+   {
+    "quote": "香川の高卒求人倍率3.80倍 — 令和9年3月卒の数字を、来年度の採用計画にどう使うか",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   },
+   {
+    "quote": "年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   }
+  ],
+  "採用にかけるお金": [
+   {
+    "quote": "400万円以上",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "607万円 → 300万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "pass": 3
+   },
+   {
+    "quote": "年間休日125日、住宅手当月3万円や借上社宅制度、入社祝い金5万円など、新生活を支える制度も充実しています",
+    "url": "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "pass": 3
+   },
+   {
+    "quote": "☆入社祝い金5万円",
+    "url": "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "pass": 3
+   },
+   {
+    "quote": "☆借上社宅制度（自己負担は月4万円）",
+    "url": "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "pass": 3
+   },
+   {
+    "quote": "☆収入例：20代・年収480万円ほど／30代・年収670万円ほど",
+    "url": "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "pass": 3
+   },
+   {
+    "quote": "頼れるアシスタントが月額2.5万円で多種多様な業務をサポート",
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "pass": 3
+   },
+   {
+    "quote": "月給23.9万円〜26.5万円",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収900万円〜2,499万円",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜50万円",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25.2万円〜31.6万円",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜30万円",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収477万円〜633万円",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "化学系製造業の製造オペレーター｜正社員｜岡山県倉敷市｜年収477万円～633万円 【化学系製造業の製造オペレーター／倉敷市】転勤なし／福利厚生充実 本ポジションは、アリルクロライド製造における運転管理、点検、品質確認、保全支援および改善業務を担当いただくお仕事になります",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給18万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円〜30万円",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給28.5万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円〜430万円",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給23.7万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜45万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給35万円〜38.8万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "48-72万円/年",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "5-20万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "2-10万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "56-107万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり20-50万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "年間50-100万円（専任の場合）",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "10-20時間（時給換算で2-5万円）",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり2-4時間（時給換算で5,000-1万円）",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり総コストは30-70万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "48-72万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "80-295万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "25-60万円/回",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり採用単価",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "20-50万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "約100万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "2. 新卒採用の採用単価の相場",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 採用単価（新卒）が高騰する理由",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "4. 採用単価を下げる効果的な採用戦略",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "69.4万円",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "69.7万円",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "67.7万円",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "84.8万円",
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミは高卒も大卒も初任給30.3万円",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   },
+   {
+    "quote": "年60万円の資格手当が18歳を動かす 高卒求人倍率3.6倍、「稼いで学ぶ」という第3の進路",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 工業高校 出身者しか 採用 しない」は機会損失 ... - ミズサキ — 「 工業高校 出身者しか 採用 しない」は機会損失 ... - ミズサキ ミズサキ https://mizusaki-inc.com > knowledge > article30",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "（速報） 工業高校生 の 求人倍率 31.9倍、北海道はなんと69.6倍 ... — （速報） 工業高校生 の 求人倍率 31.9倍、北海道はなんと69.6倍 ... セルアド https://sales-adventure.jp > column",
+    "url": "https://sales-adventure.jp/column/Fhx3f_tM",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用 コスト完全分析 | 大卒 採用 と50-80%削減・投資回収 ... — 高卒採用 コスト完全分析 | 大卒 採用 と50-80%削減・投資回収 ... ゆめスタ https://yumesuta.com > 高卒採用",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "町工場に新卒が入ってくる理由【第1部： 高卒採用 の始まり】 町工場に新卒が入ってくる理由【第1部： 高卒採用 の始まり】 note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用 の人気・新着記事まとめ - note 高卒採用 の人気・新着記事まとめ - note note https://note.com > tag > 高卒採用",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "町工場に新卒が入ってくる理由【第1部：高卒採用の始まり】｜石黒幹規",
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "pass": 3
+   },
+   {
+    "quote": "町工場に新卒が入ってくる理由【第1部：高卒採用の始まり】",
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "pass": 3
+   },
+   {
+    "quote": "どんな子が来るかわからない。製造業の現場に高校を出たばかりの子が来て、本当に戦力になるのか。そういう不安があった。",
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "pass": 3
+   },
+   {
+    "quote": "きっかけは、当時採用を任せていた社員だった。「商業高校に求人を出しましょう」と言ってきた。半信半疑だったが、任せることにした。",
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "pass": 3
+   },
+   {
+    "quote": "今振り返れば、うちの採用の多くは彼の働きによるものだった。高卒も、後に続く大卒も、その後の採用も、ほとんど彼が動いてくれた。",
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "pass": 3
+   },
+   {
+    "quote": "彼は地道だった。求人票を出して終わりではなく、高校の先生と関係を作り続けた。何度も足を運び、会社のことを説明し続けた。嘘はつかなかった。給料も、仕事の内容も、会社の規模も、全部正直に伝えた。",
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "pass": 3
+   },
+   {
+    "quote": "その積み重ねが実を結んだ。先生が「この会社なら安心して生徒を送り出せる」と思ってくれたのだろう。紹介してもらえるようになった。",
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "pass": 3
+   },
+   {
+    "quote": "今も、彼は形を変えて力を貸してくれている。人との縁は、続くときは続くものだ。",
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "pass": 3
+   },
+   {
+    "quote": "少子化や大学進学率の上昇により、企業にとって高卒採用は重要な経営戦略となっています。",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   },
+   {
+    "quote": "学校訪問のコツや求人票の書き方、入社後の定着支援に関する実践的な記事が集まっています。",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   },
+   {
+    "quote": "少子化や大学進学率の上昇により、企業にとって高卒採用は重要な経営戦略となって…",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   },
+   {
+    "quote": "Dan さん@ KOKINのスペシャリスト🌈雇用均等経営で会社の仕組みと関係性をTotonoeru🌈",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   },
+   {
+    "quote": "「技術がわからない…」と悩む採用担当へ ～年々難しくなる理系人材採用で、本当に必要なこととは～",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   },
+   {
+    "quote": "小野研志｜選ばれる組織づくり・SNS採用・組織開発/変革コンサルタント",
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "【東京駅直結】 採用 人事（ 高卒採用 ）※成長率 業界 No1 ... 【東京駅直結】 採用 人事（ 高卒採用 ）※成長率 業界 No1 ... LinkedIn https://jp.linkedin.com > jobs > view > 【東京駅直結】採...",
+    "url": "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%E9%A7%85%E7%9B%B4%E7%B5%90%E3%80%91%E6%8E%A1%E7%94%A8%E4%BA%BA%E4%BA%8B%EF%BC%88%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%EF%BC%89%E2%80%BB%E6%88%90%E9%95%B7%E7%8E%87%E6%A5%AD%E7%95%8Cno1%EF%BC%8F%E3%83%99%E3%82%B9%E3%83%88%E3%82%AA%E3%83%96%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC2025%E5%84%AA%E5%8B%9D%EF%BC%8F%E3%80%8C%E4%BA%BA%E3%80%8D%E3%82%92%E5%BC%B7%E3%81%BF%E3%81%AB-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4485208278",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.en-japan.com/special/260225/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/column/labor-market/detail008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dockinc.jp/blog/kousotsu-seizogyo-erabareru/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/edc35d8093f64b6a865c99368a22d17a/20260925_2027%E5%B9%B4%E5%BA%A6%E3%81%AE%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E6%84%8F%E8%AD%98%E8%AA%BF%E6%9F%BB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-adventure.jp/column/Fhx3f_tM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://seizo-web.com/blog/3008/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lab.jinjib.co.jp/archives/6536/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tomiyo-job.com/media/?p=647",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vollect.net/hrpedia/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/iwate-roudoukyoku/content/contents/002780049.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/content/contents/002795081.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002479792.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/hokkaido-roudoukyoku/content/contents/002368702.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%E9%A7%85%E7%9B%B4%E7%B5%90%E3%80%91%E6%8E%A1%E7%94%A8%E4%BA%BA%E4%BA%8B%EF%BC%88%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%EF%BC%89%E2%80%BB%E6%88%90%E9%95%B7%E7%8E%87%E6%A5%AD%E7%95%8Cno1%EF%BC%8F%E3%83%99%E3%82%B9%E3%83%88%E3%82%AA%E3%83%96%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC2025%E5%84%AA%E5%8B%9D%EF%BC%8F%E3%80%8C%E4%BA%BA%E3%80%8D%E3%82%92%E5%BC%B7%E3%81%BF%E3%81%AB-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4485208278",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "高卒の製造業採用 有効求人倍率 職業別 労働局 2026",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "https://partners.en-japan.com/special/260225/",
+    "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "https://www.works-i.com/column/labor-market/detail008.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://career-research.mynavi.jp/reserch/20260529_111492/",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html"
+   ]
+  },
+  {
+   "query": "高卒の製造業採用 人手不足 調査 2025 2026 製造業 割合",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://www.bsearch.co.jp/media/manufacturing/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://www.update-up.com/update-hr/column/seizo-wakamonobanare",
+    "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "https://www.ker.co.jp/wpo/wp-content/uploads/2026/04/other20260319-02_shinsotsusaiyou.pdf",
+    "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/"
+   ]
+  },
+  {
+   "query": "高卒の製造業採用 採用できない 受注を断った 割合",
+   "results": [
+    "https://dockinc.jp/blog/kousotsu-seizogyo-erabareru/",
+    "https://www.hrpro.co.jp/trend_news.php?news_no=3840",
+    "https://lab.jinjib.co.jp/archives/6609/",
+    "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/edc35d8093f64b6a865c99368a22d17a/20260925_2027%E5%B9%B4%E5%BA%A6%E3%81%AE%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E6%84%8F%E8%AD%98%E8%AA%BF%E6%9F%BB.pdf",
+    "https://www.works-i.com/column/works04/detail002.html",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_2",
+    "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "https://wakate-labo.jp/column/2026-07-kosotsu-genjo"
+   ]
+  },
+  {
+   "query": "高卒の製造業採用 高卒求人倍率 製造業 工業高校",
+   "results": [
+    "https://yumesuta.com/kosotsusaiyo/job-ratio-data",
+    "https://dockinc.jp/blog/kousotsu-seizogyo-erabareru/",
+    "https://mizusaki-inc.com/knowledge/article30",
+    "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "https://sales-adventure.jp/column/Fhx3f_tM",
+    "https://seizo-web.com/blog/3008/",
+    "https://www.alternativework.jp/management/highschool-graduate_recruitment/",
+    "https://note.com/18career/n/nbbb6aa55c66f",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "https://www.asahi.com/articles/AST7124X7T71ULFA00DM.html"
+   ]
+  },
+  {
+   "query": "高卒の製造業採用 採用単価 製造業 中小企業",
+   "results": [
+    "https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://lab.jinjib.co.jp/archives/6536/",
+    "https://tomiyo-job.com/media/?p=647",
+    "https://vollect.net/hrpedia/manufacturing/",
+    "https://hypex.jp/articles/how-to-manufacturing-industry-recruitment",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://jp.indeed.com/q-%E9%AB%98%E5%8D%92-%E8%A3%BD%E9%80%A0%E6%A5%AD-%E6%B1%82%E4%BA%BA.html",
+    "https://yumesuta.com/kosotsusaiyo",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing"
+   ]
+  },
+  {
+   "query": "site:jsite.mhlw.go.jp 高卒の製造業採用 職業別 有効求人倍率",
+   "results": [
+    "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002365640.pdf",
+    "https://jsite.mhlw.go.jp/iwate-roudoukyoku/content/contents/002780049.pdf",
+    "https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/content/contents/002795081.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002479792.pdf",
+    "https://jsite.mhlw.go.jp/hokkaido-roudoukyoku/content/contents/002368702.pdf",
+    "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565102.pdf",
+    "https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/002224731.pdf",
+    "https://jsite.mhlw.go.jp/miyagi-roudoukyoku/content/contents/000657414.pdf",
+    "https://jsite.mhlw.go.jp/yamanashi-roudoukyoku/content/contents/001282811.pdf",
+    "https://jsite.mhlw.go.jp/saga-roudoukyoku/content/contents/001807848.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 高卒の製造業採用",
+   "results": [
+    "https://note.com/kousotsu_career/n/n16cd0cc57f5b",
+    "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "https://note.com/kenkenpal3c/n/na66ae056aae1",
+    "https://note.com/okazu_factory/n/n98d1757c0e11",
+    "https://note.com/manufact_labo/n/nffdbe7eed4b5",
+    "https://note.com/career_is_game/n/n89ab59801eba",
+    "https://note.com/quiet_stork3999/n/nf1b263fb4f43",
+    "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "https://note.com/via_nova/n/n571f7c0a2307",
+    "https://note.com/travelgap_app/n/nf11b69972b73"
+   ]
+  },
+  {
+   "query": "site:x.com 高卒の製造業採用",
+   "results": [
+    "https://x.com/YAMASHITAnoID/status/2052148272270352435",
+    "https://x.com/enginner_dog/status/2105175832801198151",
+    "https://x.com/Sumika_kakoushi/status/2074325267221545209",
+    "https://x.com/takaya_okayama/status/1801449391347404822",
+    "https://x.com/jumonjichicken/status/1278212966236610562",
+    "https://x.com/tarareba722/status/425543501032341504",
+    "https://x.com/stakafumi1986/status/2095343378036830230",
+    "https://x.com/i/trending/2051566418118803864",
+    "https://x.com/monozukuritarou/status/2117058419417075890",
+    "https://x.com/randstadjapan/status/1958362992984420413"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 高卒の製造業採用",
+   "results": [
+    "https://jp.linkedin.com/posts/%E9%81%94%E4%B9%9F-%E4%BB%A3%E6%85%B6-126586226_%E3%81%98%E3%82%83%E5%A4%A7%E5%AD%A6%E3%81%AB%E8%A1%8C%E3%81%8B%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E3%81%8B%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%E3%81%AF%E5%BE%93%E6%9D%A5%E5%9E%8B%E3%81%AE%E6%96%B0%E5%8D%92%E4%B8%80%E6%8B%AC%E6%8E%A1%E7%94%A8%E3%82%92%E5%BB%83%E6%AD%A2-activity-7523158456560836608-YmgJ",
+    "https://www.linkedin.com/news/story/%E9%AB%98%E5%8D%92%E8%80%85%E5%B0%B1%E8%81%B7-%E4%BC%B8%E3%81%B3%E6%82%A9%E3%82%80%E5%88%9D%E4%BB%BB%E7%B5%A6-5384084/",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%E9%A7%85%E7%9B%B4%E7%B5%90%E3%80%91%E6%8E%A1%E7%94%A8%E4%BA%BA%E4%BA%8B%EF%BC%88%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%EF%BC%89%E2%80%BB%E6%88%90%E9%95%B7%E7%8E%87%E6%A5%AD%E7%95%8Cno1%EF%BC%8F%E3%83%99%E3%82%B9%E3%83%88%E3%82%AA%E3%83%96%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC2025%E5%84%AA%E5%8B%9D%EF%BC%8F%E3%80%8C%E4%BA%BA%E3%80%8D%E3%82%92%E5%BC%B7%E3%81%BF%E3%81%AB-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4485208278",
+    "https://jp.linkedin.com/posts/yuhei-tada-4b719a347_%E6%8E%A1%E7%94%A8-%E5%96%B6%E6%A5%AD%E8%81%B7-%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%96-activity-7392079556150734848-w7FW",
+    "https://jp.linkedin.com/jobs/view/hr%E6%88%A6%E7%95%A5%E9%83%A8%EF%BC%9A%E9%95%B7%E5%B4%8E-hr%E6%A5%AD%E5%8B%99%E5%85%A8%E8%88%AC%EF%BC%88%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E4%BA%8B%E3%83%BB%E5%8A%B4%E5%8B%99%E7%AE%A1%E7%90%86%E3%83%BB%E7%A6%8F%E5%88%A9%E5%8E%9A%E7%94%9F%EF%BC%89-at-mitsubishi-heavy-industries-4487512063",
+    "https://jp.linkedin.com/jobs/view/%E8%A7%A6%E5%AA%92%E8%A3%BD%E9%80%A0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC-at-clariant-4274127017",
+    "https://id.linkedin.com/jobs/view/%EF%BC%9C%E5%A5%91%E7%B4%84%E7%A4%BE%E5%93%A1%EF%BC%9E%E8%A3%BD%E9%80%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E5%8B%9F%E9%9B%86%21%21%E2%80%BB%E7%A6%8F%E5%88%A9%E5%8E%9A%E7%94%9F%E3%83%BB%E7%A0%94%E4%BF%AE%E5%88%B6%E5%BA%A6%E5%85%85%E5%AE%9F%E2%98%85%E6%AD%A3%E7%A4%BE%E5%93%A1%E7%99%BB%E7%94%A8%E5%88%B6%E5%BA%A6%E3%81%82%E3%82%8A%EF%BC%81%E6%9D%B1%E8%A8%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%EF%BC%86%E5%83%8D%E3%81%8D%E3%82%84%E3%81%99%E3%81%84%E7%92%B0%E5%A2%83%E3%81%8C%E9%AD%85%E5%8A%9B%E2%97%8E-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%97%E3%81%94%E3%81%A8%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7-4457742049",
+    "https://www.linkedin.com/jobs/dko-jobs-worldwide?f_C=1264868",
+    "https://jp.linkedin.com/in/wolly-wu-1420a8100",
+    "https://jp.linkedin.com/jobs/view/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E9%83%A8%E5%93%81%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%8B%99-at-%E9%AB%98%E6%9C%A8%E5%B7%A5%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89-4485671546"
+   ]
+  },
+  {
+   "query": "site:facebook.com 高卒の製造業採用",
+   "results": [
+    "https://www.facebook.com/nasakogyo/posts/71-%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%882025%E5%B9%B4%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%B4%BB%E5%8B%95%E3%81%8C%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%BC%8A%E7%A4%BE%E3%81%A7%E3%81%AF%E5%A4%9A%E3%81%8F%E3%81%AE%E5%85%88%E8%BC%A9%E7%A4%BE%E5%93%A1%E3%81%8C%E9%AB%98%E5%8D%92%E3%81%A7%E5%85%A5%E7%A4%BE%E3%81%97%E7%8F%BE%E5%9C%A8%E3%81%A7%E3%81%AF%E8%B3%87%E6%A0%BC%E5%8F%96%E5%BE%97%E3%81%AB%E3%82%88%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%A2%E3%83%83%E3%83%97%E3%82%84%E7%AE%A1%E7%90%86%E8%81%B7%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3/959171176219301/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E9%AB%98%E5%8D%92%E3%81%8C%E5%86%8D%E3%81%B3%E4%B8%BB%E5%BD%B9%E4%BC%81%E6%A5%AD%E3%81%8C%E6%9C%AC%E5%BD%93%E3%81%AB%E6%AC%B2%E3%81%97%E3%81%84%E4%BA%BA%E6%9D%90%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E3%81%8C%E5%89%8D%E5%B9%B4%E6%AF%9461%E5%A2%97%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99%E3%81%9F%E3%81%A0%E9%9D%A2%E7%99%BD%E3%81%84%E3%81%AE%E3%81%AF%E5%A2%97%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%AB%E4%BC%81%E6%A5%AD%E3%81%AF%E6%A5%BD%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%80%E3%81%97%E3%82%8D%E9%80%86%E3%81%A7%E3%81%99%E6%8E%A1%E3%82%8A%E3%81%9F/27022833594003485/",
+    "https://www.facebook.com/unibird.biz/posts/-%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84%E7%9A%86%E3%81%95%E3%82%93%E3%81%B8-%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E5%93%81%E8%A3%BD%E9%80%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E5%8B%9F%E9%9B%86-%E5%8B%A4%E5%8B%99%E5%9C%B0%E5%AE%AE%E5%9F%8E%E7%9C%8C%E5%A4%A7%E5%B4%8E%E5%B8%82-%E9%9B%87%E7%94%A8%E5%BD%A2%E6%85%8B%E5%A5%91%E7%B4%84%E7%A4%BE%E5%93%A1%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E7%B5%8C%E9%A8%93%E3%82%84%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%A6%E5%83%8D/1759535176175760/",
+    "https://www.facebook.com/groups/2331380300417020/posts/4700419300179763/",
+    "https://www.facebook.com/p/%E5%B0%8F%E7%94%B0%E5%8E%9F%E8%A3%BD%E4%BD%9C%E6%89%80-%E6%8E%A1%E7%94%A8%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-61556179691021/",
+    "https://www.facebook.com/maruigroup/posts/2024%E5%B9%B4%E5%8D%92-%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E5%8B%9F%E9%9B%86-2023%E5%B9%B47%E6%9C%88%E3%82%88%E3%82%8A2024%E5%B9%B4%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%B4%BB%E5%8B%95%E3%81%8C%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%AF%BE%E8%B1%A1%E3%81%AF2024%E5%B9%B43%E6%9C%88%E3%81%AB%E9%AB%98%E6%A0%A1%E3%82%92%E5%8D%92%E6%A5%AD%E4%BA%88%E5%AE%9A%E3%81%AE%E6%96%B9%E3%81%8A%E3%82%88%E3%81%B3%E5%8D%92%E6%A5%AD%E5%BE%8C3%E5%B9%B4%E4%BB%A5%E5%86%85%E3%81%AE%E6%96%B9%E3%81%8C%E5%AF%BE%E8%B1%A1%E3%81%A7%E3%81%99/745978454000049/",
+    "https://www.facebook.com/shonaicreate/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E5%B1%A5%E6%AD%B4%E6%9B%B8%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8%E3%81%84%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E6%9C%8D%E8%A3%85%E3%82%82%E8%87%AA%E7%94%B1%E3%81%A7%E3%81%99%E5%BA%84%E5%86%85%E5%9C%B0%E6%96%B9%E3%81%A7%E3%81%8A%E4%BB%95%E4%BA%8B%E3%82%92%E3%81%8A%E6%8E%A2%E3%81%97%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E5%A4%8F%E3%81%AE%E5%A4%A7%E9%9D%A2%E8%AB%87%E4%BC%9A%E3%81%AB%E5%BA%84%E5%86%85%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%83%88%E5%B7%A5%E6%A5%AD%E3%81%8C%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%99%EF%B8%8F%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E9%B6%B4%E5%B2%A1%E9%B6%B4%E5%B2%A1/1374954627415222/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E9%AB%98%E5%8D%92%E3%82%82%E5%A4%A7%E5%8D%92%E3%82%82%E5%88%9D%E4%BB%BB%E7%B5%A630%E4%B8%873000%E5%86%86%E3%83%9F%E3%82%B9%E3%83%9F%E3%81%8C%E5%A4%89%E3%81%88%E3%82%8B%E5%AD%A6%E6%AD%B4%E3%81%A7%E5%BE%85%E9%81%87%E3%82%92%E5%88%86%E3%81%91%E3%82%8B%E6%8E%A1%E7%94%A8%E4%BB%8A%E6%97%A511%E6%9C%882%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E9%9B%BB%E5%AD%90%E7%89%88%E3%81%AB%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%E3%81%8C%E9%AB%98%E5%8D%92%E5%A4%A7%E5%8D%92%E6%97%A2%E5%8D%92%E3%81%AE%E8%8B%A5%E6%89%8B%E3%82%92%E5%90%8C%E3%81%98%E6%9E%A0%E3%81%A7%E6%8E%A1%E7%94%A8%E3%81%97%E5%88%9D%E4%BB%BB%E7%B5%A6%E3%82%92/29096410006645823/",
+    "https://www.facebook.com/ichinotsubo/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%80%E3%83%8E%E5%9D%AA%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%A7%E3%81%99%EF%BC%96%E6%9C%88%E5%88%9D%E3%82%81%E3%81%AB%E4%B8%89%E9%87%8D%E5%B7%A5%E5%A0%B4%E3%81%AB%E9%85%8D%E5%B1%9E%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%AE%E6%AD%93%E8%BF%8E%E4%BC%9A%E3%82%92%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%83%90%E3%82%BF%E3%83%90%E3%82%BF%E3%81%97%E3%81%A6%E3%81%84%E3%81%A6%E3%81%AA%E3%81%8B%E3%81%AA%E3%81%8B%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A8%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E9%9B%86%E3%81%BE%E3%81%A3%E3%81%A6%E6%AD%93%E8%BF%8E%E4%BC%9A/1339388160306079/",
+    "https://www.facebook.com/kawaishoji.official/posts/%E4%BB%8A%E3%81%AF%E4%BA%BA%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E3%82%89%E5%A4%A7%E4%B8%88%E5%A4%AB%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%9D%E3%81%86%E8%A8%80%E3%81%84%E5%88%87%E3%82%8C%E3%81%BE%E3%81%99%E3%81%8B%E6%B1%82%E4%BA%BA%E3%82%92%E5%87%BA%E3%81%97%E3%81%A6%E3%82%82%E5%BF%9C%E5%8B%9F%E3%81%8C%E6%9D%A5%E3%81%AA%E3%81%84%E6%8E%A1%E7%94%A8%E3%81%A7%E3%81%8D%E3%81%A6%E3%82%82%E3%81%99%E3%81%90%E8%BE%9E%E3%82%81%E3%82%8B%E6%B4%BE%E9%81%A3%E6%96%99%E9%87%91%E3%82%82%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%82%82%E4%B8%8A%E3%81%8C%E3%82%8A%E7%B6%9A%E3%81%91%E3%82%8B%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%93%E3%82%93%E3%81%AA%E6%82%A9%E3%81%BF%E3%82%92%E6%8A%B1%E3%81%88/1135558142316010/"
+   ]
+  },
+  {
+   "query": "高卒の製造業採用 note 社長",
+   "results": [
+    "https://note.com/ishiguro_mikino/n/n583ca513f099",
+    "https://note.com/kousotsu_career/n/n16cd0cc57f5b",
+    "https://note.com/tag/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "https://www.works-i.com/research/project/koukousotsu/companyvoice/detail002.html",
+    "https://dockinc.jp/blog/kousotsu-seizogyo-erabareru/",
+    "https://talenco.jp/seizo-kosotsu-kogyokoko/",
+    "https://note.shiro-shiro.jp/n/n0b483bad4b69",
+    "https://note.com/career_is_game/n/n89ab59801eba",
+    "https://note.com/okazu_factory",
+    "https://note.com/ai_saiyou_/n/n4dc32a8648a2"
+   ]
+  },
+  {
+   "query": "高卒の製造業採用 X 投稿",
+   "results": [
+    "https://azu-rite.co.jp/clumn/x-recruitment",
+    "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "https://www.wantedly.com/hiringeek/recruit/twitter/",
+    "https://www.techs-s.com/media/show/424",
+    "https://dockinc.jp/blog/kousotsu-seizogyo-erabareru/",
+    "https://snsschool.net/column/industry-btob/manufacturing-recruiting-sns",
+    "https://wakaru.biz/column/manufacturing-recruit-instagram/",
+    "https://www.update-up.com/update-hr/column/kensetsu-kousotsu",
+    "https://osie.site/2026/04/07/manufacturing-sns-hiring/",
+    "https://x.com/enginner_dog/status/2105175832801198151"
+   ]
+  },
+  {
+   "query": "high school graduate hiring manufacturing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_linkedin-newstart-newbeginning-activity-7445006908190552064-G1VU",
+    "https://sg.linkedin.com/jobs/high-school-diploma-jobs",
+    "https://www.linkedin.com/jobs/high-school-diploma-jobs",
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_japans-university-graduate-employment-rate-activity-7464565495590137856-pCt_",
+    "https://www.linkedin.com/posts/jeremyasmith_in-the-future-every-high-school-graduate-activity-7520481658991529984-pcNE",
+    "https://www.linkedin.com/posts/edmund-ho-1277b2125_eho-tokyo-japan-activity-7407704264073998337-uIR9",
+    "https://www.linkedin.com/jobs/recent-graduate-jobs-san-antonio-texas-metropolitan-area",
+    "https://au.linkedin.com/jobs/high-school-graduate-jobs",
+    "https://www.linkedin.com/jobs/high-school-graduate-jobs-new-york",
+    "https://ca.linkedin.com/jobs/high-school-graduate-jobs"
+   ]
+  }
+ ],
+ "missing": {}
+}

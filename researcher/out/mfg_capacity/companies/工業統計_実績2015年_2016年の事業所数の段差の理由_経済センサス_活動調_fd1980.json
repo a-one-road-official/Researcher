@@ -1,0 +1,550 @@
+{
+ "name": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上）",
+ "en": "Japan Census of Manufactures 2016 establishments discontinuity economic census coverage",
+ "aliases": [
+  "工業統計 2017年調査 事業所数 減少 理由 経済センサス 比較",
+  "工業統計 利用上の注意 時系列 比較 経済センサス 活動調査",
+  "site:meti.go.jp 工業統計 時系列 接続 注意"
+ ],
+ "context": "全体・切れ目",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:04:44.168494+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "４人以上の事業所数は２，５７０事業所で、平成26年に比べて１６．０％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は４，６３２事業所で、前回（平成２３年）に比べて４．８％減少した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "●従業者規模別統計表（Ｅｘｃｅｌ形式：42ＫＢ）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "●産業中分類別、従業者規模別統計表（Ｅｘｃｅｌ形式：103ＫＢ）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "【従業者４人以上の事業所】",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所は４回ぶりの増加、従業者数は３回連続増加、製造品出荷額等は２年連続増加、粗付加価値額は４年ぶりの増加",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "４人以上の事業所数は２，５７０事業所で、平成26年に比べて１６．０％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は７２，４２６人で、平成26年に比べて５．８％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等、粗付加価値額の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の構成比（従業者４人以上の事業所）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は７６，５４７人で、前回（平成２３年）に比べて２．８％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "事業所は４回ぶりの増加、従業者数は３回連続増加、製造品出荷額等は２年連続増加、粗付加価値額は４年ぶりの増加",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は２兆３９３億円で、平成26年に比べて７．８％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額は８，７３１億円で、平成26年に比べて１６．５％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等、粗付加価値額の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等の構成比（従業者４人以上の事業所）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は２兆７８６億円で、前回（平成２３年）に比べて７．２％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "事業所は４回ぶりの増加、従業者数は３回連続増加、製造品出荷額等は２年連続増加、粗付加価値額は４年ぶりの増加",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額は８，７３１億円で、平成26年に比べて１６．５％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等、粗付加価値額の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2018年8月13日",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "「平成28年経済センサス-活動調査 製造業に関する結果報告書」は、「工業統計調査（経済産業省）」と時系列比較を行うために、平成28年経済センサス-活動調査結果のうち、以下のすべてに該当する製造事業所について集計したものです",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所は４回ぶりの増加、従業者数は３回連続増加、製造品出荷額等は２年連続増加、粗付加価値額は４年ぶりの増加",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "４人以上の事業所数は２，５７０事業所で、平成26年に比べて１６．０％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は７２，４２６人で、平成26年に比べて５．８％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は２兆３９３億円で、平成26年に比べて７．８％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "粗付加価値額は８，７３１億円で、平成26年に比べて１６．５％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等、粗付加価値額の推移（従業者４人以上の事業所）",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所は前回（平成２３年）に続き減少、",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数は４，６３２事業所で、前回（平成２３年）に比べて４．８％減少した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数は７６，５４７人で、前回（平成２３年）に比べて２．８％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は２兆７８６億円で、前回（平成２３年）に比べて７．２％増加した",
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/shisei/0000016514.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106275&tclass3=000001114496&tclass4=000001114540&stat_infid=000031721879&tclass5val=0&metadata=1&data=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://libguides.gwu.edu/japan/statistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akagurok.com/paper/dynamics.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.city.okayama.jp/shisei/0000016514.html",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/2021-kakuhou/r2-jisseki.html",
+    "https://www.pref.tochigi.lg.jp/c04/pref/toukei/toukei/2021keisen_seizou_syousai.html"
+   ]
+  },
+  {
+   "query": "Japan Census of Manufactures 2016 establishments discontinuity economic census coverage Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/e-census/2016/outline.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001106235&tclass2=000001106275&tclass3=000001114496&tclass4=000001114540&stat_infid=000031721879&tclass5val=0&metadata=1&data=1",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://libguides.gwu.edu/japan/statistics",
+    "https://www.zhuxuanli.com/paper/dynamics.pdf",
+    "https://unstats.un.org/Unsd/economic_stat/Economic_Census/Economic%20Census%20TR.pdf",
+    "https://www.jil.go.jp/english/lsj/general/2015-2016/2-4.pdf",
+    "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/asia%20pacific/why%20the%20japanese%20economy%20is%20not%20growing/mgi_why_the_japanese_economy_is_not_growing_report.pdf",
+    "https://www.stat.go.jp/english/data/e-census/2016/pdf/k_gaiyoe.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上）",
+   "results": [
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/todobuono/n/na90771e5754c",
+    "https://note.com/yuiseita/n/n54b8f0dd127c",
+    "https://note.com/ogawa_tech/n/n5c50bae0afa8",
+    "https://note.com/_shiripa/n/n1da51c986f33",
+    "https://note.com/isl_mono29r1/n/n686bf0077f70"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上）",
+   "results": [
+    "https://x.com/fringejp/status/2075551042952102311",
+    "https://jf.x.com/images/media-preview/2114722338893861026",
+    "https://jf.x.com/images/media-preview/2113764281984643415",
+    "https://jf.x.com/images/media-preview/2113942647320781176",
+    "https://x.com/mpe4odqM15sBDxQ/status/2035039344667631723",
+    "https://x.com/mikuru0625/status/2019379890865467886",
+    "https://x.com/niwaka_audio/status/1987091063191052365"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上）",
+   "results": [
+    "https://www.linkedin.com/in/joe-baratta-blackstone",
+    "https://hu.linkedin.com/in/varga-ágnes-éva-54269482",
+    "https://jp.linkedin.com/pulse/key-differences-between-iso-90012015-90012026-kumar-shill-clssbb--6iukc?tl=ja",
+    "https://jp.linkedin.com/pulse/日産ホンダ経営統合の行方ディーラー店舗数が語る競争優位性-michio-okazaki-ttvzc",
+    "https://jp.linkedin.com/posts/satoshi-miyamoto-宮本智史-0a11b022_人材紹介2023年度の有料民間職業紹介事業所数は30113件前年度から-activity-7257277845725421571-Ajho"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上）",
+   "results": [
+    "https://www.facebook.com/ecensus2016/",
+    "https://www.facebook.com/tochokoho/posts/始まります令和8年経済センサス活動調査総務省と経済産業省は令和8年6月1日を期日として全国のすべての事業所及び企業を対象に令和8年経済センサス活動調査を実施しま/1281149700865058/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/kanpo.kagoshima/photos/新刊のご案内です日本の金型産業の規模事業所数生産額などの基礎データはもちろん金型の材料工作機械熱処理加工等の生産統計まで幅広く金型の統計データをまとめた金型統計/1089609011189282/",
+    "https://www.facebook.com/archibookcom/posts/2016年の建築需要と建築費の水準は1月31日に国交省より2016年の建築着工統計調査が発表されました同調査に基づいて16年の建設市場を建築需要と建築費の観点よ/1236768136403902/",
+    "https://www.facebook.com/masahiro.ishida.seisaku/photos/政策資料集看護小規模多機能型居宅介護事業所数の推移看護小規模多機能型居宅介護事業所数通称看多機の事業所数は全国でわずか318施設利用できる者の割合は11程度です/1345456932199448/",
+    "https://www.facebook.com/mainichishimbun/posts/厚生労働省は２０日アスベストによって従業員が関連疾患にかかり２０１６年度に労災認定された事業所８９５カ所うち建設業５１４カ所の名称や所在地などを公表しました事業/1813711422002109/"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://catalog.city.utsunomiya.tochigi.jp/dataset/juugyoushakibobetsuseizouhinshukkagakutounosuii/resource/429dae09-deee-4fba-a74c-ee6295c4c860",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://opendata.pref.aomori.lg.jp/dataset/dataland-510.html",
+    "https://pref.shimane-toukei.jp/index.php?view=4339",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386"
+   ]
+  },
+  {
+   "query": "Japan Census of Manufactures 2016 establishments discontinuity economic census coverage site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/patrick-button-9b35a325",
+    "https://in.linkedin.com/in/suyash-rai-03799712",
+    "https://au.linkedin.com/in/adamrsheppard",
+    "https://www.linkedin.com/in/gene-wong-3a187321",
+    "https://www.linkedin.com/posts/economic-research-forum_general-census-for-population-housing-and-activity-7082693689432506368-cwuw",
+    "https://pe.linkedin.com/pulse/overview-model-shops-establishments-regulation-service-avika-kapoor",
+    "https://zw.linkedin.com/posts/paul-simshauser-00106713_climate-change-policy-discontinuity-australias-activity-6859351181936992256-gAKs",
+    "https://jp.linkedin.com/company/japan-automobile-manufacturers-association-inc-",
+    "https://www.linkedin.com/posts/addisfortune_censusbusiness-activity-7386023399560757249-eKzj",
+    "https://www.linkedin.com/in/jacob-ripsam-42a40021"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ19頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ19頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ19頁・検索18回）"
+ }
+}

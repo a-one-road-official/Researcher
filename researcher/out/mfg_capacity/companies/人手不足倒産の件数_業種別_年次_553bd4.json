@@ -1,0 +1,2378 @@
+{
+ "name": "人手不足倒産の件数（業種別・年次）",
+ "en": "labor shortage bankruptcies Japan by industry",
+ "aliases": [
+  "人手不足倒産 件数 製造業",
+  "人手不足倒産 帝国データバンク",
+  "人手不足倒産 東京商工リサーチ"
+ ],
+ "context": "痛み・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:10:29.939084+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "人手不足倒産の動向調査（2025年度）｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の動向調査（2025年度）",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は441件 前年度比1.3倍、過去最多を更新 「従業員退職型」でも過去最多、118件",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社帝国データバンクは、従業員の離職や採用難等による人手不足を要因とする「人手不足倒産」の発生状況について調査・分析を行った",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の人手不足倒産は前年度比約1.3倍の441件となり、過去最多を更新した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、従業員や経営幹部などの退職を原因とした「従業員退職型」の倒産が118件となり、過去最多を更新した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象：負債1000万円以上・法的整理による倒産",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の人手不足倒産は441件、従業員退職型も100件超",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "また、人手不足倒産のうち従業員や経営幹部などの退職を原因とした「従業員退職型」の倒産は、118件となった",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "20250409_人手不足倒産の動向調査（2025年度）",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産はなぜ起こる？ 原因や対策について解説します | ONODERA USER RUN（オノデラユーザーラン）",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産はなぜ起こる？ 原因や対策について解説します",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産とは、従業員の退職や採用難、人件費の高騰などが原因で、事業を続けられなくなる倒産です",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "最新の件数、倒産の4つのタイプ、起きやすい業種、予防策、その一つとしての外国人材（特定技能）を順に説明します",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の4つのタイプと対策の方向",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産を防ぐ対策5つ",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの集計は、人手不足を要因とした倒産のうち、法的整理で負債1,000万円以上のものが対象です",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は、原因によって次の4つのタイプに分けられます",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産が多い業種と、特定技能の分野の関係は次のとおりです",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産のポイントは次の3つです",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2025年）」",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2025年度）」",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2026年度上半期）」",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」が過去最多を更新、人が採れないだけじゃない…中小企業を潰す「もう一つの原因」【帝国データバンクが解説】 | 倒産のニューノーマル | ダイヤモンド・オンライン",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」が過去最多を更新、人が採れないだけじゃない…中小企業を潰す「もう一つの原因」【帝国データバンクが解説】",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」が過去最多ペースで増えている",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度上半期の人手不足倒産は",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調べによれば、2026年度上半期（2026年4～9月）の人手不足倒産は225件と判明し、2年連続で200件を超えるとともに、4年連続で過去最多を更新した",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "「物価高倒産」が過去最多ペース、初の「1000件超え」が現実味を帯びるワケ【帝国データバンクが解説】",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "失業なき労働力移動の行方 ～窮境状態にある業種と「人手不足倒産」発生率の相関～ | TSRデータインサイト | 東京商工リサーチ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "失業なき労働力移動の行方 ～窮境状態にある業種と「人手不足倒産」発生率の相関～",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な集計方法は、日本標準産業分類（中分類）を基に、2016年度～25年度の企業倒産に占める「人手不足」倒産（5,212件）の業種別倒産発生率（※2）と、2026年3月期を起点に逆算し、経常赤字が3期以上続いている企業を「窮境」と定義",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、集計対象は算出結果に影響を与えやすい大企業と、業種「外国公務」「国家公務」「地方公務」「政治・経済・文化団体」、集計期間に人手不足倒産が発生しなかった業種を排除し、中小企業（※3）に限定した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "※2 業種別倒産発生率は、業種別の企業倒産件数を分母とし、人手不足関連倒産件数（「従業員退職」「求人難」「人件費高騰」「後継者難」）で割った値",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "3期連続で経常利益が判明し、かつ500社以上の業種を軸に最も窮境状態にあり、人手不足倒産も発生している業種は、「学校教育」だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "「学校教育」の赤字企業比率は18.08％で、集計期間内の倒産は17件だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち、2件が人手不足を要因としており、母数は17件と少ないものの、人手不足を要因とする倒産発生率は11.76％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "集計期間内の1,780件の倒産のうち、176件が人手不足による倒産で、「人手不足倒産」発生率は9.88％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "バスやタクシーなど、有償で旅客を運送する「道路旅客運送業」の赤字企業比率は14.28％で、集計期間内の「人手不足倒産」発生率は13.70％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "「飲食店」の赤字企業比率は13.10％で、集計期間内の「人手不足倒産」発生率は4.44％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "「医療業」の赤字企業比率は、12.74％で、集計期間内の「人手不足倒産」発生率は8.12％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資運用業などの「金融商品取引業,商品先物取引業」や、パチンコ店やゴルフ場など「娯楽業」は、労働集約型の業種と比べて「人手不足倒産」発生率は低い",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、「金融商品取引業,商品先物取引業」の赤字企業比率は14.26％で、集計期間内の「人手不足倒産」発生率は2.66％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「娯楽業」の赤字企業比率は11.37％で、集計期間内の「人手不足倒産」発生率は3.04％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、市場から退出する際は「倒産」以上に、「休廃業・解散」という手段をとっているケースが多い",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象の「人手不足倒産」発生率は6.44％で、赤字企業比率が高い上位3業種は、「人手不足倒産」発生率も高い傾向にある",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "窮境状態におかれ、「人手不足倒産」発生率が高い業種は、業績の立て直しと人員確保に努めなければならず、賃上げも求められるなかでは人員確保も容易ではない",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」はなぜ起こる？原因や前兆、多発する業種、回避できた事例や解決策まで一挙に解説 | タクシタ",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」はなぜ起こる？原因や前兆、多発する業種、回避できた事例や解決策まで一挙に解説",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、人手不足を理由として企業が倒産する「人手不足倒産」が深刻な問題となっています",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、人手不足倒産の原因や件数の推移、多く見られる業種や企業の特徴を深く掘り下げます",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、人手不足倒産を回避できた事例や、具体的な解決策も紹介するため、ぜひ参考にしてください",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の従業員が不足することによって事業の継続が困難になり、倒産に至ること",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の大きな特徴は、",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ、受注が増えて業績が好調であるにもかかわらず、人手が足りないために、その受注をこなしきれずに倒産してしまう",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者が高齢化し、事業を引き継ぐ後継者が見つからないために廃業・倒産するケース",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は、単に人がいないという問題だけでなく、企業の存続そのものを揺るがす深刻な経営課題として、特に中小企業を中心に大きな脅威となっています",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社帝国データバンクが令和7年（2025年）10月6日に発表した「2025年度上半期（4-9月）の『人手不足倒産』動向調査」によると、2025年度上半期の人手不足倒産の件数は、",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、人手不足に起因する倒産を",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "人手不足倒産の動向調査（2025年度）｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の動向調査（2025年度）",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は441件 前年度比1.3倍、過去最多を更新 「従業員退職型」でも過去最多、118件",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の人手不足倒産は前年度比約1.3倍の441件となり、過去最多を更新した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の人手不足倒産は441件、従業員退職型も100件超",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業は人手不足を感じている企業の割合が全業種のなかで最も高く、深刻な人手不足が続いており（帝国データバンク「人手不足に対する企業の動向調査（2026年1月）」）、施工に欠かせない資格・スキルを持つ現場作業員や営業担当者の退職が相次ぎ、事業継続が困難になるケースが目立った",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "足場工事業の幸佳組（三重県、2026年2月破産）は職人不足に加えて、それを補うための人件費上昇も重なり赤字体質が続いたことが引き金の一つとなり、破産に追い込まれた",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ドライバー不足や高齢化が深刻な課題となっている道路貨物運送業（55件）に加えて、老人福祉事業（22件）や飲食店（21件）、労働者派遣業（12件）など労働集約型産業を中心に、それぞれ業種別で過去最多を更新した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "また、人手不足倒産のうち従業員や経営幹部などの退職を原因とした「従業員退職型」の倒産は、118件となった",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "20250409_人手不足倒産の動向調査（2025年度）",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "最新の件数、倒産の4つのタイプ、起きやすい業種、予防策、その一つとしての外国人材（特定技能）を順に説明します",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の4つのタイプと対策の方向",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産を防ぐ対策5つ",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの集計は、人手不足を要因とした倒産のうち、法的整理で負債1,000万円以上のものが対象です",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別では、2025年は従業員10人未満が329件で、全体の77.0%を占めます",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人数の少ない会社ほど、1人の退職や採用の遅れが経営に直結しやすいと考えられます",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は、原因によって次の4つのタイプに分けられます",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度上半期の人手不足倒産は",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調べによれば、2026年度上半期（2026年4～9月）の人手不足倒産は225件と判明し、2年連続で200件を超えるとともに、4年連続で過去最多を更新した",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数10人未満の小規模業者が全体の約8割を占め、業種別では、職人不足が続く「建設業」が最多となった",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に創業した同社は、個人から戸建て注文住宅の設計施工を請け負うほか、工務店などからの受注により店舗や事務所の新築・内装工事、改修・リフォーム工事も行っていた",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同期に手がけたアパート新築工事で人件費負担が増加したうえ、支払手数料も膨らみ、営業損益は5000万円を上回る赤字を計上し、債務超過に陥っていた",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "設立時から現場を担っていた代表者が現場を離れるなど不安定な運営が続くなか、人手不足による外注費の増加も重なって資金繰りが限界に達し、約4億円の負債を抱えて事業継続を断念した",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "【精神科医が教える】不機嫌で人を動かそうとする人への対処法・ベスト2",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "「本当に頭のいい人」が話す前に考えていること・ベスト1",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "赤字法人率が6割を超え（※1）、人手不足に陥る企業も少なくない",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回は4つの経営資源のうち、「ヒト」「カネ」に注目し、業績が窮境状態に置かれ、かつ人手不足にも悩まされる業種に迫った",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な集計方法は、日本標準産業分類（中分類）を基に、2016年度～25年度の企業倒産に占める「人手不足」倒産（5,212件）の業種別倒産発生率（※2）と、2026年3月期を起点に逆算し、経常赤字が3期以上続いている企業を「窮境」と定義",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、集計対象は算出結果に影響を与えやすい大企業と、業種「外国公務」「国家公務」「地方公務」「政治・経済・文化団体」、集計期間に人手不足倒産が発生しなかった業種を排除し、中小企業（※3）に限定した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "※1 東京商工リサーチ2026年4月23日発表「2026年公表都道府県別・赤字法人率調査」",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "※2 業種別倒産発生率は、業種別の企業倒産件数を分母とし、人手不足関連倒産件数（「従業員退職」「求人難」「人件費高騰」「後継者難」）で割った値",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "3期連続で経常利益が判明し、かつ500社以上の業種を軸に最も窮境状態にあり、人手不足倒産も発生している業種は、「学校教育」だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち、2件が人手不足を要因としており、母数は17件と少ないものの、人手不足を要因とする倒産発生率は11.76％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "次いで、有料老人ホームやデイサービス事業など「社会保険・社会福祉・介護事業」の赤字企業比率は、16.41％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "総人口に占める65歳以上の割合が約3割（令和7年版高齢社会白書、内閣府）の超高齢社会を支える",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "集計期間内の1,780件の倒産のうち、176件が人手不足による倒産で、「人手不足倒産」発生率は9.88％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "バスやタクシーなど、有償で旅客を運送する「道路旅客運送業」の赤字企業比率は14.28％で、集計期間内の「人手不足倒産」発生率は13.70％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "「飲食店」の赤字企業比率は13.10％で、集計期間内の「人手不足倒産」発生率は4.44％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社帝国データバンクが令和7年（2025年）10月6日に発表した「2025年度上半期（4-9月）の『人手不足倒産』動向調査」によると、2025年度上半期の人手不足倒産の件数は、",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産が上半期最多｜2026年の倒産動向と対策 | 株式会社Sei San Sei",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産が上半期過去最多の227件——2026年上半期の倒産動向と、中小企業がいま打つべき対策",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産が227件、物価高倒産が556件、後継者難倒産が312件",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "それを象徴するのが、人手不足・物価高・後継者難という3つの「過去最多」です",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産227件——建設・サービス・運輸で深刻化",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年通年の人手不足倒産（427件・過去最多）",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足と並んで深刻なのが、残り2つの構造要因です",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "対策1：「人でなくてもよい仕事」を自動化し、少人数で回る体制を作る",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度「人手不足倒産」441件で3年連続の過去最多 ―「従業員退職型」初の100件超が示す 定着支援の重要性 | 社会保険労務士法人T&M Nagoya",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度「人手不足倒産」441件で3年連続の過去最多 ―「従業員退職型」初の100件超が示す 定着支援の重要性",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度「人手不足倒産」441件で3年連続の過去最多",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の人手不足倒産は",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "約75％が従業員10人未満",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク（TDB）が2026年4月9日に公表した「人手不足倒産の動向調査（2025年度）」によれば、2025年度（2025年4月〜2026年3月）の人手不足倒産は",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "1．調査結果の核心 ― 数字で見る「人手不足倒産」の深刻化",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職・採用難・人件費高騰などの「人手不足」を要因とする、負債1,000万円以上の法的整理（倒産）",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 約75％が「従業員10人未満」の小規模企業",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の人手不足倒産が過去最多！4つの類型と原因、今すぐできる5つの対策を解説 – キャスタービズオンラインアシスタント",
+    "url": "https://cast-er.com/column/bankruptcy-of-small-and-medium-sized-enterprises/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の人手不足倒産が過去最多！4つの類型と原因、今すぐできる5つの対策を解説",
+    "url": "https://cast-er.com/column/bankruptcy-of-small-and-medium-sized-enterprises/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2025年度）」（2026年4月9日公表／2025年4月〜2026年3月の倒産を集計）によると、2025年度の人手不足倒産は441件と3年連続で過去最多を更新し、そのうち多くを従業員10人未満の小規模企業が占めています",
+    "url": "https://cast-er.com/column/bankruptcy-of-small-and-medium-sized-enterprises/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "集計対象：負債1000万円以上・法的整理による倒産",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの集計は、人手不足を要因とした倒産のうち、法的整理で負債1,000万円以上のものが対象です",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "アパート新築工事を手がけた2024年11月期には、年売上高約4億2500万円を計上していた",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同期に手がけたアパート新築工事で人件費負担が増加したうえ、支払手数料も膨らみ、営業損益は5000万円を上回る赤字を計上し、債務超過に陥っていた",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "設立時から現場を担っていた代表者が現場を離れるなど不安定な運営が続くなか、人手不足による外注費の増加も重なって資金繰りが限界に達し、約4億円の負債を抱えて事業継続を断念した",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "「すし店」 売上増も「減益」企業が約4割 コメ価格など物価高が重し、休廃業・解散が急増",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインアシスタントの料金・費用が気になるなら「月額3.8万円〜」のタクシタがおすすめ",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "ノンコア業務の負担を大幅に削減したい企業様へ月3.8万円〜の低価格で提供する「",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "月額3.8万円（税込41,800円）〜という低価格を実現",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職・採用難・人件費高騰などの「人手不足」を要因とする、負債1,000万円以上の法的整理（倒産）",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規雇用で正社員を増やすのではなくCASTER BIZ assistantを導入し、リサーチや発注代行などの各種雑務を委託したことで、事業が急成長するなかでも社員19名という少数精鋭体制のまま大幅な売上規模拡大を実現しています",
+    "url": "https://cast-er.com/column/bankruptcy-of-small-and-medium-sized-enterprises/",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象：負債1000万円以上・法的整理による倒産",
+    "url": "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した",
+    "url": "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "pass": 3
+   },
+   {
+    "quote": "9000万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象：負債1000万円以上・法的整理による倒産",
+    "url": "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産（法的整理、負債1000万円以上）は、2026年度上半期（4-9月）に225件発生した",
+    "url": "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクが10月7日に発表した調査の主な数字です（負債1,000万円以上の法的整理が対象）",
+    "url": "https://note.com/mahaseg/n/ndcf1c795d1ff",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象：負債1000万円以上・法的整理による倒産",
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産（法的整理、負債1000万円以上）は、2025年に427件発生し、前年（342件）を85件、24.9％上回った",
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたなか、配偶者特別控除が満額受けられる配偶者の所得税非課税枠、いわゆる「年収の壁」は2025年度に103万円から160万円に引き上げられ、2026年度は178万円に引き上げられることが税制改正大綱に盛り込まれた",
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチが8日発表した2025年度の人手不足に起因する倒産件数（負債額1000万円以上）は前年度比43%増の442件だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "負債額別では1億円未満が252件、1億円以上5億円未満が153件、5億円以上が37件だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチが８日発表した２０２６年度上半期（４～９月）の企業倒産件数（負債額１０００万円以上）は、前年同期比３．８％増の５３７３件だった",
+    "url": "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金１０００万円未満が６割超に上っており、商工リサーチは「賃上げ圧力が、中小企業の資金繰り悪化に拍車を掛けている」と分析する",
+    "url": "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "東京株、一時４３００円超安 ６万円割れ、米ＡＩ規制を警戒",
+    "url": "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "ニデック、６０００億円融資枠更新 三菱ＵＦＪ・三井住友と",
+    "url": "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "日鉄、２６２９億円の黒字に転換 純損益、ＵＳスチールが貢献―９月中間決算",
+    "url": "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "ソニーＧ、純利益１兆３３００億円に 「スパイダーマン」好調で過去最高―２７年３月期",
+    "url": "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象は負債1000万円以上・法的整理による倒産で、集計期間は2013年1月1日〜2026年3月31日",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "pass": 3
+   },
+   {
+    "quote": "倒産寸前なのに年収100万円アップ 売上38億円のV字回復を実現した、山梨のプリント企業の「決断と狙い」",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし現在はV字回復を果たし、売り上げは約38億円に上る",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "pass": 3
+   },
+   {
+    "quote": "「落とし物DX」で売上15億円 競合だったJR東日本も導入した「find」はどんなサービスなのか",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "pass": 3
+   },
+   {
+    "quote": "そんな市場を15億円規模に成長させた「find」とはどんなサービスなのかというと……",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "pass": 3
+   },
+   {
+    "quote": "オープンハウス28歳エース、新卒2年目で「年収1000万円」達成 “最強”を目指す泥臭い仕事哲学とは？",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "pass": 3
+   },
+   {
+    "quote": "」に関する調査では、人手不足関連倒産した企業148件のうち、資本金1,000万円未満の企業は90件と約60％でした",
+    "url": "https://edenred.jp/article/hr-recruiting/205/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクでは、従業員の離職や採用難等により収益が悪化したことなどを要因とする倒産（個人事業主含む、負債1,000万円以上、法的整理）を「人手不足倒産」と定義し、過去5年半で発生した人手不足倒産を集計・分析しています",
+    "url": "https://www.growr.jp/blog/1788/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、負債総額は110億4,200万円で、前年同期（191億2,900万円）より42.3％減少しています",
+    "url": "https://www.growr.jp/blog/1788/",
+    "pass": 3
+   },
+   {
+    "quote": "過去５年半の累計でみると、倒産件数447件、負債額946億9,500万円にのぼります",
+    "url": "https://www.growr.jp/blog/1788/",
+    "pass": 3
+   },
+   {
+    "quote": "負債規模別の件数をみると、「１億円未満」が45件で前年同期（22件）に比べ２倍に増えていて、５年半累計でも227件（構成比50.8％）と小規模倒産が過半を占めていることがわかります",
+    "url": "https://www.growr.jp/blog/1788/",
+    "pass": 3
+   },
+   {
+    "quote": "「１～５億円未満」が上半期27件、５年半累計で179件（構成比40％）と、５億円未満の倒産が全体の90％以上を占めています",
+    "url": "https://www.growr.jp/blog/1788/",
+    "pass": 3
+   },
+   {
+    "quote": "両社はいずれも、負債1,000万円以上の倒産を対象に、人手不足に関連する事例を独自に集計しています",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "pass": 3
+   },
+   {
+    "quote": "また、両調査の対象は負債1,000万円以上の倒産です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "pass": 3
+   },
+   {
+    "quote": "この例では、賃金だけでも年間約97万円の追加負担になります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "pass": 3
+   },
+   {
+    "quote": "仮に追加売上に対する限界利益率を30％とすると、月80,640円の追加負担を補うためには、単純計算で月268,800円の売上増加が必要です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチの調査でも、資本金1,000万円未満の企業が159件と、全体の66.2％を占めています",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（2025年）」（負債1000万円以上・法的整理）",
+    "url": "https://london3.jp/reports/jinbusoku-tousan.html",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「『従業員退職型』の倒産動向（2026年1-7月）」（負債1000万円以上・法的整理）",
+    "url": "https://london3.jp/reports/jinbusoku-tousan.html",
+    "pass": 3
+   },
+   {
+    "quote": "：負債1000万円以上・法的整理による倒産",
+    "url": "https://london3.jp/reports/jinbusoku-tousan.html",
+    "pass": 3
+   },
+   {
+    "quote": "アパート新築工事を手がけた2024年11月期には、年売上高約4億2500万円を計上していた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同期に手がけたアパート新築工事で人件費負担が増加したうえ、支払手数料も膨らみ、営業損益は5000万円を上回る赤字を計上し、債務超過に陥っていた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "設立時から現場を担っていた代表者が現場を離れるなど不安定な運営が続くなか、人手不足による外注費の増加も重なって資金繰りが限界に達し、約4億円の負債を抱えて事業継続を断念した",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "造成土地の仕入れから戸建て住宅の建築工事、販売まで手がけ、2006年4月期には年売上高約26億6900万円を計上していた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "2019年4月期の年売上高は約14億8400万円に減少するなか、2021年には大阪市内に拠点を開設するなど営業エリアを拡大していたが、職人不足による外注費の高騰や仕入れコストの上昇もあって、2024年4月期は大幅な最終赤字を計上していた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月に入り、負債約15億7300万円を抱えたまま全従業員を解雇し、6月5日に和歌山地裁より破産手続き開始決定を受けた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "システムベンダーから安定した受注を獲得し、2019年3月期には年収入高約1億100万円を計上していた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "このため、金融機関からの借り入れで資金繰りを維持しつつ、利益率の高いパッケージ商品の開発にも乗り出し、2023年3月期の年収入高は約1億4000万円を計上したものの、増加した人件費を吸収できず連続して赤字を計上",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "年商規模に膨らんだ借入金の返済見通しが立たなくなり、約1億5200万円の負債を抱えたまま事業継続を断念した",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "ゆうちょの5年定期に100万円で利息約5万円！城南信用金庫の最大金利・年1.6％なら約8万円",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "集計対象：負債1000万円以上・法的整理による倒産",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの集計は、人手不足を要因とした倒産のうち、法的整理で負債1,000万円以上のものが対象です",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "アパート新築工事を手がけた2024年11月期には、年売上高約4億2500万円を計上していた",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同期に手がけたアパート新築工事で人件費負担が増加したうえ、支払手数料も膨らみ、営業損益は5000万円を上回る赤字を計上し、債務超過に陥っていた",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインアシスタントの料金・費用が気になるなら「月額3.8万円〜」のタクシタがおすすめ",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "ノンコア業務の負担を大幅に削減したい企業様へ月3.8万円〜の低価格で提供する「",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "月額3.8万円（税込41,800円）〜という低価格を実現",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職・採用難・人件費高騰などの「人手不足」を要因とする、負債1,000万円以上の法的整理（倒産）",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象：負債1000万円以上・法的整理による倒産",
+    "url": "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した",
+    "url": "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "pass": 3
+   },
+   {
+    "quote": "9000万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象：負債1000万円以上・法的整理による倒産",
+    "url": "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産（法的整理、負債1000万円以上）は、2026年度上半期（4-9月）に225件発生した",
+    "url": "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクが10月7日に発表した調査の主な数字です（負債1,000万円以上の法的整理が対象）",
+    "url": "https://note.com/mahaseg/n/ndcf1c795d1ff",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象：負債1000万円以上・法的整理による倒産",
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産（法的整理、負債1000万円以上）は、2025年に427件発生し、前年（342件）を85件、24.9％上回った",
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたなか、配偶者特別控除が満額受けられる配偶者の所得税非課税枠、いわゆる「年収の壁」は2025年度に103万円から160万円に引き上げられ、2026年度は178万円に引き上げられることが税制改正大綱に盛り込まれた",
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチが8日発表した2025年度の人手不足に起因する倒産件数（負債額1000万円以上）は前年度比43%増の442件だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチが８日発表した２０２６年度上半期（４～９月）の企業倒産件数（負債額１０００万円以上）は、前年同期比３．８％増の５３７３件だった",
+    "url": "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金１０００万円未満が６割超に上っており、商工リサーチは「賃上げ圧力が、中小企業の資金繰り悪化に拍車を掛けている」と分析する",
+    "url": "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "東京株、一時４３００円超安 ６万円割れ、米ＡＩ規制を警戒",
+    "url": "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象は負債1000万円以上・法的整理による倒産で、集計期間は2013年1月1日〜2026年3月31日",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "pass": 3
+   },
+   {
+    "quote": "倒産寸前なのに年収100万円アップ 売上38億円のV字回復を実現した、山梨のプリント企業の「決断と狙い」",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "pass": 3
+   },
+   {
+    "quote": "オープンハウス28歳エース、新卒2年目で「年収1000万円」達成 “最強”を目指す泥臭い仕事哲学とは？",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "pass": 3
+   },
+   {
+    "quote": "」に関する調査では、人手不足関連倒産した企業148件のうち、資本金1,000万円未満の企業は90件と約60％でした",
+    "url": "https://edenred.jp/article/hr-recruiting/205/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクでは、従業員の離職や採用難等により収益が悪化したことなどを要因とする倒産（個人事業主含む、負債1,000万円以上、法的整理）を「人手不足倒産」と定義し、過去5年半で発生した人手不足倒産を集計・分析しています",
+    "url": "https://www.growr.jp/blog/1788/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、負債総額は110億4,200万円で、前年同期（191億2,900万円）より42.3％減少しています",
+    "url": "https://www.growr.jp/blog/1788/",
+    "pass": 3
+   },
+   {
+    "quote": "過去５年半の累計でみると、倒産件数447件、負債額946億9,500万円にのぼります",
+    "url": "https://www.growr.jp/blog/1788/",
+    "pass": 3
+   },
+   {
+    "quote": "両社はいずれも、負債1,000万円以上の倒産を対象に、人手不足に関連する事例を独自に集計しています",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "pass": 3
+   },
+   {
+    "quote": "また、両調査の対象は負債1,000万円以上の倒産です",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりの月間労働時間：120時間",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "pass": 3
+   },
+   {
+    "quote": "この例では、賃金だけでも年間約97万円の追加負担になります",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチの調査でも、資本金1,000万円未満の企業が159件と、全体の66.2％を占めています",
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（2025年）」（負債1000万円以上・法的整理）",
+    "url": "https://london3.jp/reports/jinbusoku-tousan.html",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「『従業員退職型』の倒産動向（2026年1-7月）」（負債1000万円以上・法的整理）",
+    "url": "https://london3.jp/reports/jinbusoku-tousan.html",
+    "pass": 3
+   },
+   {
+    "quote": "：負債1000万円以上・法的整理による倒産",
+    "url": "https://london3.jp/reports/jinbusoku-tousan.html",
+    "pass": 3
+   },
+   {
+    "quote": "アパート新築工事を手がけた2024年11月期には、年売上高約4億2500万円を計上していた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同期に手がけたアパート新築工事で人件費負担が増加したうえ、支払手数料も膨らみ、営業損益は5000万円を上回る赤字を計上し、債務超過に陥っていた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "造成土地の仕入れから戸建て住宅の建築工事、販売まで手がけ、2006年4月期には年売上高約26億6900万円を計上していた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "2019年4月期の年売上高は約14億8400万円に減少するなか、2021年には大阪市内に拠点を開設するなど営業エリアを拡大していたが、職人不足による外注費の高騰や仕入れコストの上昇もあって、2024年4月期は大幅な最終赤字を計上していた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月に入り、負債約15億7300万円を抱えたまま全従業員を解雇し、6月5日に和歌山地裁より破産手続き開始決定を受けた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "システムベンダーから安定した受注を獲得し、2019年3月期には年収入高約1億100万円を計上していた",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "このため、金融機関からの借り入れで資金繰りを維持しつつ、利益率の高いパッケージ商品の開発にも乗り出し、2023年3月期の年収入高は約1億4000万円を計上したものの、増加した人件費を吸収できず連続して赤字を計上",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "年商規模に膨らんだ借入金の返済見通しが立たなくなり、約1億5200万円の負債を抱えたまま事業継続を断念した",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "ゆうちょの5年定期に100万円で利息約5万円！城南信用金庫の最大金利・年1.6％なら約8万円",
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "pass": 3
+   },
+   {
+    "quote": "これによると、従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産（法的整理、負債1000万円以上）は、25年度に441件発生し、前年度の350件から約１・3倍増加した",
+    "url": "https://www.ryoko-net.co.jp/?p=165403",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチ「2025年『人手不足』関連倒産」（令和8年1月公表・要因別／負債1,000万円以上）→",
+    "url": "https://insection.co.jp/slide/article/hitodebusoku-tousan/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：東京商工リサーチ「2025年『人手不足』関連倒産」（令和8年1月公表・負債1,000万円以上）",
+    "url": "https://insection.co.jp/slide/article/hitodebusoku-tousan/",
+    "pass": 3
+   },
+   {
+    "quote": "※出典：東京商工リサーチ「2025年『人手不足』関連倒産」（令和8年1月公表・負債1,000万円以上）",
+    "url": "https://insection.co.jp/slide/article/hitodebusoku-tousan/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足」関連倒産とは、求人難・従業員退職・人件費高騰のいずれかを主因とする、負債総額1,000万円以上の倒産を指します",
+    "url": "https://insection.co.jp/slide/article/hitodebusoku-tousan/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチ「2025年『人手不足』関連倒産」（令和8年1月公表・負債総額1,000万円以上）",
+    "url": "https://insection.co.jp/slide/article/hitodebusoku-tousan/",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチが８日発表した２０２５年度の企業倒産件数（負債額１０００万円以上）は、前年度比３．５％増の１万５０５件と、１２年ぶりの高水準だった",
+    "url": "https://www.jiji.com/jc/article?k=2026040800679&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "東京株、一時４３００円超安 ６万円割れ、米ＡＩ規制を警戒",
+    "url": "https://www.jiji.com/jc/article?k=2026040800679&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度上半期（4～9月）の企業倒産件数（負債額1000万円以上）は、前年同期比1.51％増の5172件で、12年ぶりの高水準となった",
+    "url": "https://www.nippon.com/ja/articles/-/10266",
+    "pass": 3
+   },
+   {
+    "quote": "件数は増えたものの、負債総額は6927億7200万円で、前年同期に比べて49.6％減少した",
+    "url": "https://www.nippon.com/ja/articles/-/10266",
+    "pass": 3
+   },
+   {
+    "quote": "集計対象：負債1000万円以上・法的整理による倒産",
+    "url": "https://prtimes.jp/main/html/rd/p/000001232.000043465.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債１０００万円以上)は、２０２５年に４２７件発生し、前年（３４２件）を８５件、２４.９％上回った",
+    "url": "https://prtimes.jp/main/html/rd/p/000001232.000043465.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたなか、配偶者特別控除が満額受けられる配偶者の所得税非課税枠、いわゆる「年収の壁」は２０２５年度に１０３万円から１６０万円に引き上げられ、２０２６年度は１７８万円に引き上げられることが税制改正大綱に盛り込まれた",
+    "url": "https://prtimes.jp/main/html/rd/p/000001232.000043465.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "人手不足倒産の動向調査（2025年度）｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の動向調査（2025年度）",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の人手不足倒産は前年度比約1.3倍の441件となり、過去最多を更新した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業や道路貨物運送業に加えて、老人福祉事業や飲食店、労働者派遣業など労働集約型産業で増加が顕著だった",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の人手不足倒産は441件、従業員退職型も100件超",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "年度では初めて100件を超え、4年連続で増加した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "橋梁工事業者だったライブディック（宮城県、2025年9月破産）は、従業員の退職が相次いだことで例年通りの工事を受注できない状況に陥り、事業継続を断念した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "また、浄化槽の清掃保守・点検を手がけていた日本公害管理センター（東京都、2025年10月破産）は、2025年に入り複数の若手従業員が立て続けに退職したことが影響し、事業停止を余儀なくされた",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "20250409_人手不足倒産の動向調査（2025年度）",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、2025年は427件で、3年連続の過去最多でした",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年（1〜12月）",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度（4月〜翌年3月）",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別では、2025年は従業員10人未満が329件で、全体の77.0%を占めます",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの2025年度の調査では、従業員退職型は118件で、過去最多でした",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の件数は、次のとおりです",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の件数",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "⬜︎ 2025年は427件で2026年度上半期も前年同期を上回っている",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2025年）」",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2025年度）」",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年4月に創設された、人材の確保が困難な16の産業分野等における人手不足に対応するため、一定の専門性・技能を有し即戦力となる外国人材を労働者として受け入れる在留資格のこと",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "このほか、AIなど技術革新への対応人材を確保できない「受託開発ソフトウェア業」も大幅に増加した",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に創業した同社は、個人から戸建て注文住宅の設計施工を請け負うほか、工務店などからの受注により店舗や事務所の新築・内装工事、改修・リフォーム工事も行っていた",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "アパート新築工事を手がけた2024年11月期には、年売上高約4億2500万円を計上していた",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同期に手がけたアパート新築工事で人件費負担が増加したうえ、支払手数料も膨らみ、営業損益は5000万円を上回る赤字を計上し、債務超過に陥っていた",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "設立時から現場を担っていた代表者が現場を離れるなど不安定な運営が続くなか、人手不足による外注費の増加も重なって資金繰りが限界に達し、約4億円の負債を抱えて事業継続を断念した",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な集計方法は、日本標準産業分類（中分類）を基に、2016年度～25年度の企業倒産に占める「人手不足」倒産（5,212件）の業種別倒産発生率（※2）と、2026年3月期を起点に逆算し、経常赤字が3期以上続いている企業を「窮境」と定義",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産年齢人口の減少に伴い、人手不足と叫ばれるようになって久しいが、業種によって濃淡がある",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、人手不足倒産の原因や件数の推移、多く見られる業種や企業の特徴を深く掘り下げます",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コストを徹底解説！内訳や計算方法、近年の推移、職種別の金額や削減策も紹介",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社帝国データバンクが令和7年（2025年）10月6日に発表した「2025年度上半期（4-9月）の『人手不足倒産』動向調査」によると、2025年度上半期の人手不足倒産の件数は、",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "「2024年問題」",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産件数の推移は、人手不足がもはや一時的な問題ではなく、すべての企業が向き合うべき恒常的なリスクであることを示していると言えるでしょう",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の生産年齢人口は減少の一途をたどっており、労働市場全体で人材の獲得競争が激化しています",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "特定の業種や職種（建設、物流、介護など）では、需要の増加に対して、働き手の供給が全く追いついていません",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客満足度の低下は、売上の減少に直結します",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月から時間外労働の上限規制が適用された「",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年問題",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業と同様に、「2024年問題」の影響を大きく受けている業種です",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "非正規雇用の割合が高い業種ですが、最低賃金の上昇などによる人件費の増加が経営を圧迫していることも倒産を招く一因です",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期から約6.6%増え、4年連続の増加となりました",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年上半期の倒産動向：5,335件、4年連続の増加",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "：5,335件（前年同期比 約6.6%増、4年連続の増加）",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "：前年同期から約7%増加",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "倒産件数そのものは、コロナ禍の資金繰り支援が終わった2023年以降、一貫して増加傾向にあります",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年通年の人手不足倒産（427件・過去最多）",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "5,335件で前年同期比約6.6%増、4年連続の増加です",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年にSei San Seiを設立し、大手製造メーカーをはじめ累計30社以上の採用・業務改善支援を手掛ける",
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度「人手不足倒産」441件で3年連続の過去最多 ―「従業員退職型」初の100件超が示す 定着支援の重要性 | 社会保険労務士法人T&M Nagoya",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度「人手不足倒産」441件で3年連続の過去最多 ―「従業員退職型」初の100件超が示す 定着支援の重要性",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度「人手不足倒産」441件で3年連続の過去最多",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の人手不足倒産は",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク（TDB）が2026年4月9日に公表した「人手不足倒産の動向調査（2025年度）」によれば、2025年度（2025年4月〜2026年3月）の人手不足倒産は",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "前年度（2024年度）の350件と比べて",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "に増加し、年度ベースで初めて400件の大台を突破しました",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "4年連続で増加",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "いわゆる「2024年問題」の影響でドライバー確保困難",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、時間外労働の上限規制（いわゆる「2024年問題」）でドライバー確保がいっそう困難になりました",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の生産年齢人口（15〜64歳）は減少を続けており、労働力供給の総量そのものが先細りしています",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年（5.10％）、2025年（5.25％）に続き、2026年春闘でも連合の集計で3年連続5％超の高い賃上げ水準が示されています",
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "人手不足倒産の動向調査（2025年度）｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の動向調査（2025年度）",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は441件 前年度比1.3倍、過去最多を更新 「従業員退職型」でも過去最多、118件",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社帝国データバンクは、従業員の離職や採用難等による人手不足を要因とする「人手不足倒産」の発生状況について調査・分析を行った",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の人手不足倒産は前年度比約1.3倍の441件となり、過去最多を更新した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の人手不足倒産は441件、従業員退職型も100件超",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業は人手不足を感じている企業の割合が全業種のなかで最も高く、深刻な人手不足が続いており（帝国データバンク「人手不足に対する企業の動向調査（2026年1月）」）、施工に欠かせない資格・スキルを持つ現場作業員や営業担当者の退職が相次ぎ、事業継続が困難になるケースが目立った",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "また、人手不足倒産のうち従業員や経営幹部などの退職を原因とした「従業員退職型」の倒産は、118件となった",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "20250409_人手不足倒産の動向調査（2025年度）",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産はなぜ起こる？ 原因や対策について解説します | ONODERA USER RUN（オノデラユーザーラン）",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産はなぜ起こる？ 原因や対策について解説します",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産とは、従業員の退職や採用難、人件費の高騰などが原因で、事業を続けられなくなる倒産です",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の4つのタイプと対策の方向",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産を防ぐ対策5つ",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの集計は、人手不足を要因とした倒産のうち、法的整理で負債1,000万円以上のものが対象です",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は、原因によって次の4つのタイプに分けられます",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能は、人手不足が深刻な分野で、一定の技能を持つ外国人が働ける在留資格です",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産が多い業種と、特定技能の分野の関係は次のとおりです",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産のポイントは次の3つです",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足でお困りの企業様は、まずはお気軽にご相談ください",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2025年）」",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2025年度）」",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2026年度上半期）」",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル・宿泊業の人手不足はなぜ起こる？ 原因と改善策について解説します！",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年4月に創設された、人材の確保が困難な16の産業分野等における人手不足に対応するため、一定の専門性・技能を有し即戦力となる外国人材を労働者として受け入れる在留資格のこと",
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」が過去最多を更新、人が採れないだけじゃない…中小企業を潰す「もう一つの原因」【帝国データバンクが解説】 | 倒産のニューノーマル | ダイヤモンド・オンライン",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」が過去最多を更新、人が採れないだけじゃない…中小企業を潰す「もう一つの原因」【帝国データバンクが解説】",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」が過去最多ペースで増えている",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "人件費や外注費の高騰に耐えられず、事業継続を断念する企業も相次いでいる",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度上半期の人手不足倒産は",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調べによれば、2026年度上半期（2026年4～9月）の人手不足倒産は225件と判明し、2年連続で200件を超えるとともに、4年連続で過去最多を更新した",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "設立時から現場を担っていた代表者が現場を離れるなど不安定な運営が続くなか、人手不足による外注費の増加も重なって資金繰りが限界に達し、約4億円の負債を抱えて事業継続を断念した",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニック、マツダ、三菱電機も…人手不足なのに「中高年リストラ」が黒字大企業で加速するワケ",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   },
+   {
+    "quote": "失業なき労働力移動の行方 ～窮境状態にある業種と「人手不足倒産」発生率の相関～ | TSRデータインサイト | 東京商工リサーチ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "失業なき労働力移動の行方 ～窮境状態にある業種と「人手不足倒産」発生率の相関～",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "赤字法人率が6割を超え（※1）、人手不足に陥る企業も少なくない",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回は4つの経営資源のうち、「ヒト」「カネ」に注目し、業績が窮境状態に置かれ、かつ人手不足にも悩まされる業種に迫った",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な集計方法は、日本標準産業分類（中分類）を基に、2016年度～25年度の企業倒産に占める「人手不足」倒産（5,212件）の業種別倒産発生率（※2）と、2026年3月期を起点に逆算し、経常赤字が3期以上続いている企業を「窮境」と定義",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、集計対象は算出結果に影響を与えやすい大企業と、業種「外国公務」「国家公務」「地方公務」「政治・経済・文化団体」、集計期間に人手不足倒産が発生しなかった業種を排除し、中小企業（※3）に限定した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "※2 業種別倒産発生率は、業種別の企業倒産件数を分母とし、人手不足関連倒産件数（「従業員退職」「求人難」「人件費高騰」「後継者難」）で割った値",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "3期連続で経常利益が判明し、かつ500社以上の業種を軸に最も窮境状態にあり、人手不足倒産も発生している業種は、「学校教育」だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち、2件が人手不足を要因としており、母数は17件と少ないものの、人手不足を要因とする倒産発生率は11.76％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "集計期間内の1,780件の倒産のうち、176件が人手不足による倒産で、「人手不足倒産」発生率は9.88％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "バスやタクシーなど、有償で旅客を運送する「道路旅客運送業」の赤字企業比率は14.28％で、集計期間内の「人手不足倒産」発生率は13.70％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、人手不足を改善できるかは、地域差を含めて不透明な状況だ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "「飲食店」の赤字企業比率は13.10％で、集計期間内の「人手不足倒産」発生率は4.44％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "外食産業での外国人労働者の受け入れ一時停止は、当初予定していた人員確保が難しくなり、今後の人手不足に拍車がかかる恐れがある",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "「医療業」の赤字企業比率は、12.74％で、集計期間内の「人手不足倒産」発生率は8.12％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資運用業などの「金融商品取引業,商品先物取引業」や、パチンコ店やゴルフ場など「娯楽業」は、労働集約型の業種と比べて「人手不足倒産」発生率は低い",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、「金融商品取引業,商品先物取引業」の赤字企業比率は14.26％で、集計期間内の「人手不足倒産」発生率は2.66％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「娯楽業」の赤字企業比率は11.37％で、集計期間内の「人手不足倒産」発生率は3.04％だった",
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」はなぜ起こる？原因や前兆、多発する業種、回避できた事例や解決策まで一挙に解説 | タクシタ",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足倒産」はなぜ起こる？原因や前兆、多発する業種、回避できた事例や解決策まで一挙に解説",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、人手不足を理由として企業が倒産する「人手不足倒産」が深刻な問題となっています",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、人手不足倒産の原因や件数の推移、多く見られる業種や企業の特徴を深く掘り下げます",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、人手不足倒産を回避できた事例や、具体的な解決策も紹介するため、ぜひ参考にしてください",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足」「属人化」「ノンコア業務による圧迫」「急な担当者の退職」",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産の大きな特徴は、",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は、単に人がいないという問題だけでなく、企業の存続そのものを揺るがす深刻な経営課題として、特に中小企業を中心に大きな脅威となっています",
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "【メインバンク企業数ランキング】3メガで三井住友銀だけなぜ増えた？4310社を取り込んだ「新戦略」",
+    "url": "https://diamond.jp/articles/-/402451",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "人手不足倒産 の動向調査（2025 年度 ） - 帝国データバンク — 人手不足倒産 の動向調査（2025 年度 ） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産 の動向調査（2025年） - 帝国データバンク — 人手不足倒産 の動向調査（2025年） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート",
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産 の動向調査（2025年度） - 帝国データバンク — 人手不足倒産 の動向調査（2025年度） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産 、2025 年度 は過去最多の442件 東京商工リサーチ — 人手不足倒産 、2025 年度 は過去最多の442件 東京商工リサーチ 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産 の動向調査（ 2025年度 ） - 帝国データバンク — 人手不足倒産 の動向調査（ 2025年度 ） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート",
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産 、 2025年度 は過去最多の442件 東京商工リサーチ — 人手不足倒産 、 2025年度 は過去最多の442件 東京商工リサーチ 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onodera-user-run.co.jp/useful/13257/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/402451",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.taxita.com/column/outsourcing019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mh5.jp/announce_95702.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cast-er.com/column/bankruptcy-of-small-and-medium-sized-enterprises/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20240702/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mahaseg/n/ndcf1c795d1ff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001316041.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/205/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1203295_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growr.jp/blog/1788/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_8.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://london3.jp/reports/jinbusoku-tousan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.co.jp/news/detail/e2c06557b1970b143d01ebf42964bb8e227a060e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrm-co.jp/knowledge/short-staffed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/backdata/01-01-07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b1_1_8.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-falcon.co.jp/column/hr/hitodebusoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ryoko-net.co.jp/?p=165403",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insection.co.jp/slide/article/hitodebusoku-tousan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1202729_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jiji.com/jc/article?k=2026040800679&g=eco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon.com/ja/articles/-/10266",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chibacari.com/saiyo/blog/213",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onodera-user-run.co.jp/useful/4477/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000001232.000043465.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://officen-jp.com/media/labor-shortage-bankruptcy-2026h1-guide.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002312866.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/tousan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webtan.impress.co.jp/n/2026/04/23/52513",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japantimes.co.jp/business/2026/10/08/japan-labor-shortage-business-failure-record-high/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13699/labor-shortage-in-japan/?srsltid=AYCX9vIoIc-7JpnkfJM6GACbb1qlOIhT1g65yaYr4fs2tVQbpbSOji7L",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/japandailydotjp/posts/a-persistent-demographic-decline-and-compounding-economic-pressures-pushed-labor/1598935912276057/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/japannews/comments/1q7rz3d/japans_labor_shortages_cause_corporate/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/japan-firms-face-serious-labour-crunch-aging-population-survey-shows-2025-01-15/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Labor_market_of_Japan",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人手不足倒産の件数（業種別・年次） 人手不足 受注 断る",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "https://onodera-user-run.co.jp/useful/13257/",
+    "https://diamond.jp/articles/-/402451",
+    "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "https://www.youtube.com/watch?v=k7-MqllJSFM",
+    "https://go.taxita.com/column/outsourcing019/",
+    "https://www.sei-san-sei.com/blog/blog-0464.html",
+    "https://www.reloclub.jp/relotimes/article/353",
+    "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次） 受注残 人手不足",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "https://onodera-user-run.co.jp/useful/13257/",
+    "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "https://www.mh5.jp/announce_95702.html",
+    "https://cast-er.com/column/bankruptcy-of-small-and-medium-sized-enterprises/",
+    "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20240702/04.pdf",
+    "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "https://www.youtube.com/watch?v=K9gmgd0JSPA",
+    "https://go.taxita.com/column/outsourcing019/",
+    "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次） 人手不足 損失 億円",
+   "results": [
+    "https://diamond.jp/articles/-/402451",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "https://onodera-user-run.co.jp/useful/13257/",
+    "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20240702/04.pdf",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.youtube.com/watch?v=K9gmgd0JSPA",
+    "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "https://www.jiji.com/jc/article?k=2026100800574&g=eco"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次）",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001316041.pdf",
+    "https://edenred.jp/article/hr-recruiting/205/",
+    "https://www.tsr-net.co.jp/data/detail/1203295_1527.html",
+    "https://www.growr.jp/blog/1788/",
+    "https://shittetoku-lab.hatenablog.com/entry/2026/10/10/153306",
+    "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次） 推移",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001316041.pdf",
+    "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "https://edenred.jp/article/hr-recruiting/205/",
+    "https://www.growr.jp/blog/1788/",
+    "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_8.html",
+    "https://london3.jp/reports/jinbusoku-tousan.html"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次） 統計 PDF",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/backdata/01-01-07.html",
+    "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20240702/04.pdf",
+    "https://www.tsr-net.co.jp/data/detail/1203295_1527.html",
+    "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b1_1_8.html",
+    "https://www.e-falcon.co.jp/column/hr/hitodebusoku",
+    "https://www.hrm-co.jp/knowledge/short-staffed/",
+    "https://www.ryoko-net.co.jp/?p=165403",
+    "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://www.tsr-net.co.jp/data/detail/1202729_1527.html",
+    "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "https://www.jiji.com/jc/article?k=2026040800679&g=eco",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001316041.pdf",
+    "https://www.e-falcon.co.jp/column/hr/hitodebusoku",
+    "https://www.nippon.com/ja/articles/-/10266",
+    "https://www.chibacari.com/saiyo/blog/213"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次） 従業者規模別",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b1_1_8.html",
+    "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "https://edenred.jp/article/hr-recruiting/205/",
+    "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "https://onodera-user-run.co.jp/useful/4477/",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/001316041.pdf",
+    "https://www.hrm-co.jp/knowledge/short-staffed/",
+    "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次） 1人当たり 万円",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://onodera-user-run.co.jp/useful/13257/",
+    "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20240702/04.pdf",
+    "https://www.jiji.com/jc/article?k=2026100800574&g=eco",
+    "https://www.tsr-net.co.jp/data/detail/1203180_1527.html",
+    "https://go.taxita.com/column/outsourcing019/",
+    "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "https://jsite.mhlw.go.jp/chiba-roudoukyoku/content/contents/002312866.pdf",
+    "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次） 2015 2025",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "https://www.mh5.jp/announce_95702.html",
+    "https://onodera-user-run.co.jp/useful/13257/",
+    "https://www.tsr-net.co.jp/data/detail/1202729_1527.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/shokibo/b1_1_8.html",
+    "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "https://www.youtube.com/watch?v=K9gmgd0JSPA",
+    "https://webtan.impress.co.jp/n/2026/04/23/52513",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://insection.co.jp/slide/article/hitodebusoku-tousan/"
+   ]
+  },
+  {
+   "query": "labor shortage bankruptcies Japan by industry Japan statistics",
+   "results": [
+    "https://www.japantimes.co.jp/business/2026/10/08/japan-labor-shortage-business-failure-record-high/",
+    "https://www.statista.com/topics/13699/labor-shortage-in-japan/?srsltid=AYCX9vIoIc-7JpnkfJM6GACbb1qlOIhT1g65yaYr4fs2tVQbpbSOji7L",
+    "https://www.facebook.com/japandailydotjp/posts/a-persistent-demographic-decline-and-compounding-economic-pressures-pushed-labor/1598935912276057/",
+    "https://www.reddit.com/r/japannews/comments/1q7rz3d/japans_labor_shortages_cause_corporate/",
+    "https://www.reuters.com/sustainability/sustainable-finance-reporting/japan-firms-face-serious-labour-crunch-aging-population-survey-shows-2025-01-15/",
+    "https://en.wikipedia.org/wiki/Labor_market_of_Japan",
+    "https://www.oecd.org/en/publications/oecd-employment-outlook-2026_9c4f5c3e-en/japan_1bf47e8a-en.html",
+    "https://www.researchgate.net/publication/387448732_An_Analysis_of_the_Japanese_Labor_Market_-_A_Case_Study_of_University_Students_Actively_Selecting_Companies",
+    "https://www.jcer.or.jp/english/is-japan-really-short-of-labour",
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 人手不足倒産の件数（業種別・年次）",
+   "results": [
+    "https://note.com/joincareeroffice/n/n410569bfa12c",
+    "https://note.com/gaikokujinzai/n/n8c4678434993",
+    "https://note.com/gaikokujinzai/n/n8d097b24275f",
+    "https://note.com/kiku_keizai/n/n3e76e32a5b26",
+    "https://note.com/clickloop_lab/n/nb9da43de7913",
+    "https://note.com/shuichi_ai/n/nf1a39204f1b5",
+    "https://note.com/tachibanahajime/n/n5c5eddae82ee",
+    "https://note.com/chic_deer1160/n/n94690e807498",
+    "https://note.com/mahaseg/n/ndcf1c795d1ff",
+    "https://note.com/toarukanrisha/n/n132bfb38d623"
+   ]
+  },
+  {
+   "query": "site:x.com 人手不足倒産の件数（業種別・年次）",
+   "results": [
+    "https://x.com/i/trending/2106951963829284908",
+    "https://x.com/TSR_NEWS/status/2106933859250278638",
+    "https://x.com/i/trending/2106951963829284908?lang=el",
+    "https://x.com/i/trending/2106676181609193886",
+    "https://x.com/masa_mynews/status/2107019248212259024?lang=ca",
+    "https://x.com/TSR_NEWS",
+    "https://x.com/Frontbac1/article/2102567888653840770",
+    "https://x.com/genius_tomoya/status/2064261212481921455",
+    "https://x.com/i/trending/2094975427336880209",
+    "https://x.com/don_hasegawa/status/2111034771602370946"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 人手不足倒産の件数（業種別・年次）",
+   "results": [
+    "https://jp.linkedin.com/in/hirofumi-noguchi-560b9a23",
+    "https://za.linkedin.com/jobs/view/%E3%80%90dcs%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%80%91%E5%96%B6%E6%A5%AD%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%EF%BC%88%E8%AA%B2%E9%95%B7%E3%83%BB%E4%BF%82%E9%95%B7%E3%82%AF%E3%83%A9%E3%82%B9%EF%BC%89-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8F%E3%83%B3%E3%83%A2%E3%83%83%E3%82%AF-4484147942",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/in/%E5%92%8C%E5%89%87-%E6%9C%A8%E6%9D%91-678471143",
+    "https://ro.linkedin.com/jobs/view/sales-ops%EF%BD%9C%E6%9D%B1%E4%BA%AC-at-dinii-inc-4470735960",
+    "https://jp.linkedin.com/pulse/%E5%8B%9D%E3%81%A1%E7%B5%84%E3%81%A8%E6%B7%98%E6%B1%B0%E7%B5%84-%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%A5%AD%E7%95%8C%E3%81%8C%E7%9B%B4%E9%9D%A2%E3%81%99%E3%82%8B%E4%BA%8C%E6%A5%B5%E5%8C%96%E3%81%AE%E7%8F%BE%E5%AE%9F-michio-okazaki-194qc",
+    "https://jp.linkedin.com/in/daishiito-com",
+    "https://jp.linkedin.com/in/kemtch",
+    "https://jp.linkedin.com/pulse/new-york-times-says-silicon-valley-bracing-permanent-rolle-ph-d--3cake?tl=ja",
+    "https://jp.linkedin.com/pulse/deep-tech-employability-times-ai-uncertainty-beyond-hype-manoj-barot-ir1sf?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 人手不足倒産の件数（業種別・年次）",
+   "results": [
+    "https://www.facebook.com/pirokichi/posts/%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E5%80%92%E7%94%A3225%E4%BB%B6%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E6%A5%AD%E3%81%AB%E3%82%82%E6%80%A5%E5%A2%97%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E5%80%92%E7%94%A3%E3%81%8C225%E4%BB%B6%E3%81%AB%E9%81%94%E3%81%97%E3%81%9F%E5%89%8D%E5%B9%B4%E5%90%8C%E6%9C%9F%E3%81%AF214%E4%BB%B611%E4%BB%B6%E5%A2%97%E3%81%882026%E5%B9%B4%E5%BA%A6%E4%B8%8A%E5%8D%8A%E6%9C%9F%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AF4%E5%B9%B4%E9%80%A3%E7%B6%9A%E3%81%A7%E9%81%8E%E5%8E%BB%E6%9C%80%E5%A4%9A%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97/122302897016026338/",
+    "https://www.facebook.com/pirokichi/posts/%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E5%80%92%E7%94%A3225%E4%BB%B6%E3%81%AF4%E5%B9%B4%E9%80%A3%E7%B6%9A%E3%81%A7%E9%81%8E%E5%8E%BB%E6%9C%80%E5%A4%9A%E3%81%A8%E3%81%84%E3%81%86%E7%8F%BE%E5%AE%9F225%E4%BB%B6%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E4%B8%BB%E5%9B%A0%E3%81%A8%E3%81%99%E3%82%8B%E6%B3%95%E7%9A%84%E6%95%B4%E7%90%86%E3%81%8C2026%E5%B9%B4%E5%BA%A6%E4%B8%8A%E5%8D%8A%E6%9C%9F4%E6%9C%88%E3%81%8B%E3%82%899%E6%9C%88%E3%81%AB225%E4%BB%B6%E3%81%82%E3%81%A3%E3%81%9F%E5%89%8D%E5%B9%B4%E5%90%8C%E6%9C%9F%E6%AF%94%E3%81%A711%E4%BB%B6%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC/122304479084026338/",
+    "https://www.facebook.com/hisayoshi.kirimoto/posts/2026%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E3%81%AE%E5%80%92%E7%94%A3%E5%8B%95%E5%90%91%E3%81%BE%E3%81%A8%E3%82%81%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF%E3%81%95%E3%82%93%E3%82%88%E3%82%8A2026%E5%B9%B4%E5%BA%A64%E6%9C%889%E6%9C%88%E3%81%AE%E4%B8%8A%E5%8D%8A%E6%9C%9F%E3%81%AE%E5%85%A8%E5%9B%BD%E4%BC%81%E6%A5%AD%E5%80%92%E7%94%A3%E5%8B%95%E5%90%91%E3%81%BE%E3%81%A8%E3%82%81%E3%81%8C%E5%85%AC%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8A%E5%AE%A2%E3%81%95%E3%81%BE%E3%81%B8%E3%81%AE%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%81%A1/28922028834115452/",
+    "https://www.facebook.com/pirokichi/",
+    "https://www.facebook.com/akira.kongoji/posts/%E7%B5%84%E7%B9%94%E6%94%B9%E9%9D%A9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%A8%E3%82%B3%E3%83%AD%E3%83%8A%E4%BB%A5%E9%99%8D%E7%9B%B8%E8%AB%87%E3%81%AE%E8%A9%B1%E9%A1%8C%E3%81%AF%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%8F%E3%81%AB%E3%82%BD%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AF%E3%82%AB%E3%81%A8%E5%A4%96%E9%A3%9F%E3%81%8C%E9%85%B7%E3%81%84%E3%81%A8%E3%81%8A%E3%82%82%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%82%89%E6%97%A5%E7%B5%8C%E3%81%8C%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E5%80%92%E7%94%A3%E3%81%AE%E8%A8%98%E4%BA%8B%E3%82%92%E3%81%AE%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E5%8E%BB%E5%B9%B4%E3%81%AB%E6%AF%94%E3%81%B9%E4%BB%8A%E5%B9%B4%E4%B8%8A/28932330479764112/",
+    "https://www.facebook.com/zaitakuiryou1/posts/%E4%BB%8B%E8%AD%B7%E4%BA%8B%E6%A5%AD%E3%81%AE%E5%80%92%E7%94%A3%EF%BC%91%EF%BC%91%EF%BC%91%E4%BB%B6%E3%81%A7%E9%81%8E%E5%8E%BB%E6%9C%80%E5%A4%9A-%E6%98%A8%E5%B9%B4-%E7%AB%B6%E4%BA%89%E6%BF%80%E5%8C%96%E3%81%A7%E6%B7%98%E6%B1%B0%E9%80%B2%E3%82%80%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%97%E5%B9%B4%E3%81%AE%EF%BC%91%E5%B9%B4%E9%96%93%E3%81%A7%E5%85%A8%E5%9B%BD%E3%81%AE%E4%BB%8B%E8%AD%B7%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%AE%E5%80%92%E7%94%A3%E4%BB%B6%E6%95%B0%E8%B2%A0%E5%82%B5%E9%A1%8D%EF%BC%91%EF%BC%90%EF%BC%90%EF%BC%90%E4%B8%87%E5%86%86%E4%BB%A5%E4%B8%8A%E3%81%AF%EF%BC%91%EF%BC%91%EF%BC%91%E4%BB%B6%E3%81%AB%E4%B8%8A%E3%82%8A%EF%BC%90%EF%BC%90%E5%B9%B4%E3%81%AB%E4%BB%8B/786463591537713/",
+    "https://www.facebook.com/pirokichi/posts/ai%E5%B0%8E%E5%85%A5204%E3%81%AE%E6%95%B0%E5%AD%97%E3%81%AE%E8%A3%8F%E3%81%AB4%E5%89%B2%E4%BC%81%E6%A5%AD%E3%81%8C%E5%8B%95%E3%81%8F%E5%AE%9F%E6%85%8Bai%E5%B0%8E%E5%85%A5%E7%8E%87%E3%81%AF204%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%9F%BA%E7%9B%A4%E6%95%B4%E5%82%99%E6%A9%9F%E6%A7%8B%E3%81%8C2025%E5%B9%B411%E6%9C%8817%E6%97%A5%E3%81%8B%E3%82%8912%E6%9C%8812%E6%97%A5%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%85%A8%E5%9B%BD%E3%81%AE%E4%B8%AD%E5%B0%8F%E8%A6%8F%E6%A8%A1%E4%BA%8B%E6%A5%AD%E8%80%8510000/122303243336026338/",
+    "https://www.facebook.com/hisayoshi.kirimoto/posts/%E5%9B%9A%E3%82%8F%E3%82%8C%E3%81%8B%E3%82%89%E8%A7%A3%E6%94%BE%E5%A3%B2%E4%B8%8A%E3%81%8C%EF%BC%93%E5%80%8D%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%91%E3%81%A9%E7%B5%8C%E8%B2%BB%EF%BC%92%E5%80%8D%E3%81%AB%E6%8A%BC%E3%81%95%E3%81%88%E3%81%BE%E3%81%97%E3%81%9F%E7%B5%90%E6%9E%9C%E7%9A%84%E3%81%AB%E5%88%A9%E7%9B%8A%E3%81%8C%E6%BB%85%E8%8C%B6%E8%8B%A6%E8%8C%B6%E5%87%BA%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%A8%E5%A0%B1%E5%91%8A%E3%81%97%E3%81%9F%E3%81%91%E3%81%A9%E7%A8%B2%E7%9B%9B%E5%A1%BE%E9%95%B7%E3%81%AF%E5%88%86%E3%81%8B%E3%81%A3%E3%81%A8%E3%82%89%E3%82%93%E3%81%AA%E3%81%81%E3%81%A8%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%81%95%E3%82%8C%E3%81%9F%E3%82%82%E3%81%A3%E3%81%A8%E7%B5%8C/27393411950310489/",
+    "https://www.facebook.com/yuki.waseda/videos/%E4%BB%96%E8%81%B7%E7%A8%AE%E3%82%88%E3%82%8A8%E4%B8%87%E5%86%86%E3%82%82%E8%B3%83%E9%87%91%E3%81%8C%E4%BD%8E%E3%81%84-%E4%BB%8B%E8%AD%B7%E7%A6%8F%E7%A5%89%E7%8F%BE%E5%A0%B4%E5%9F%BA%E6%9C%AC%E5%A0%B1%E9%85%AC%E3%81%AE%E5%BC%95%E3%81%8D%E4%B8%8A%E3%81%92%E3%81%AF%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%AA%E3%81%97%E3%81%A7%E3%81%99%E5%A4%A7%E8%87%A3%E3%81%8B%E3%82%89%E8%A8%80%E8%B3%AA%E3%82%92%E3%81%A8%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A9%E7%A8%B2%E7%94%B0%E3%82%86%E3%81%8D-%E7%A5%9E%E5%A5%88%E5%B7%9D4%E5%8C%BA-%E4%BB%8B%E8%AD%B7%E3%81%AE%E5%9F%BA%E6%9C%AC%E5%A0%B1%E9%85%AC%E5%BC%95%E4%B8%8A%E3%81%92/1544127714148422/",
+    "https://www.facebook.com/tsrnet/"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次） note 社長",
+   "results": [
+    "https://diamond.jp/articles/-/402451",
+    "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/",
+    "https://note.com/shuichi_ai/n/nf1a39204f1b5",
+    "https://note.com/tag/%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E5%80%92%E7%94%A3",
+    "https://edenred.jp/article/hr-recruiting/205/",
+    "https://www.tsr-net.co.jp/data/detail/1203295_1527.html",
+    "https://prtimes.jp/main/html/rd/p/000001312.000043465.html",
+    "https://note.com/kyon_notepad/n/n625c83bf6916",
+    "https://note.com/ai_funtouki/n/n1d4e0929b74b",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/"
+   ]
+  },
+  {
+   "query": "人手不足倒産の件数（業種別・年次） X 投稿",
+   "results": [
+    "https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/",
+    "https://www.mh5.jp/announce_95702.html",
+    "https://www.tsr-net.co.jp/data/detail/1203295_1527.html",
+    "https://diamond.jp/articles/-/402451",
+    "https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/",
+    "https://www.hrm-co.jp/knowledge/short-staffed/",
+    "https://diamond-rm.net/flash_news/560504/",
+    "https://www.itmedia.co.jp/business/articles/2604/14/news016.html",
+    "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/",
+    "https://london3.jp/reports/jinbusoku-tousan.html"
+   ]
+  },
+  {
+   "query": "labor shortage bankruptcies Japan by industry site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/tysonbatino_japans-labor-shortage-is-costing-16-trillion-activity-7401882041803575296-h1eY",
+    "https://www.linkedin.com/posts/jakeadelstein_welcome-to-japanistan-where-the-foreign-activity-7502979417850138624-4rpz",
+    "https://www.linkedin.com/pulse/japans-labor-shortage-real-its-also-wildly-asymmetrical-yan-sen-lu-du8ic",
+    "https://www.linkedin.com/pulse/japans-productivity-paradox-why-more-people-hasnt-meant-hoshino-tlxic",
+    "https://www.linkedin.com/top-content/economics/economic-growth-analysis/japan-economic-growth-and-labor-market-issues/",
+    "https://www.linkedin.com/posts/kristieneo_global-pes-are-piling-into-japan-will-it-activity-7516649205940097024-6suS",
+    "https://www.linkedin.com/posts/howardichirolim_japantech-techhiring-japanjobs-activity-7434325953482334208-NwOd",
+    "https://www.linkedin.com/posts/daichi-kunii_japanmanda-japaneconomy-smeacquisition-activity-7512636643724394496-y_U4",
+    "https://www.linkedin.com/pub/%E5%92%8C%E4%B9%8B-%E4%B8%80%E6%9F%B3/61/a35/395",
+    "https://www.linkedin.com/posts/the-exchange-asia_japanbankruptcies-businessrisk-laborshortage-activity-7417047384439865344-YDgv"
+   ]
+  }
+ ],
+ "missing": {
+  "生産能力・設備": "記載なし（読んだ47頁・検索18回）"
+ }
+}

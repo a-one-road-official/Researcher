@@ -1,0 +1,4509 @@
+{
+ "name": "設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化）",
+ "en": "capital investment purpose share trend Japan SMEs labor saving",
+ "aliases": [
+  "設備投資 目的 省力化 割合 推移",
+  "設備投資 目的 人手不足 中小製造業",
+  "設備投資 更新 維持補修 割合 推移"
+ ],
+ "context": "目的・人手不足の材料",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:53:39.107483+00:00",
+ "evidence": {
+  "推移": [
+   {
+    "quote": "2026.08.24",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高市政権の経済政策では「投資」が前面に押し出され、2026年7月に閣議決定された日本成長戦略でも、17の戦略分野を中心に国内投資を拡大する方針が示された",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府は2040年度の国内民間設備投資を年間250兆円程度まで高める経済の姿を描いている",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの「全国設備投資計画調査」によると、資本金10億円以上の製造業では、設備投資額はコロナ禍後に増加基調となり、2026年調査では2025年度の実績は約7兆円に達した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、設備投資額に占める維持・補修の割合は、2011年度の23.9％から2025年度には30.5％へ上昇し、約2.1兆円となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年2月の基本方針では、官民が連携する「危機管理投資」「成長投資」が強い経済実現の柱に位置付けられ、7月に閣議決定された日本成長戦略では、17の戦略分野を中心に国内投資を拡大する方針が具体化された",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府は、成長戦略の実行を通じ、2040年度に国内民間設備投資を年間250兆円程度まで高める経済の姿を描く",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料1は、日本政策投資銀行（以下「DBJ」）が毎年公表している「全国設備投資計画調査」の2011年度以降のデータに基づき、我が国の資本金10億円以上の製造業企業について、投資動機別投資額の推移を示したものである（注1）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資額は、2011年度以降さほど大きくは伸びていないものの、コロナ禍後は増加基調にあり、2025年度実績では約7兆円の規模となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その中で、維持・補修の割合は2011年度の23.9％から2025年度の30.5％へ上昇し、金額としても約2.1兆円まで拡大している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料1の製造業をさらに、素材系と加工・組立系に分け（注1）、投資動機別設備投資額の推移を示したものが資料2である",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼業では、設備投資額が縮小する一方、維持・補修の比重は高水準で推移している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの「全国設備投資計画調査」では、2010年度調査までは設備投資額および投資動機を事業基準分類（企業の事業部門を基に分類）で、2011年度調査以降は主業基準分類（企業の主たる事業に基づき分類）で集計している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本稿では各年度の公表値を用いるため、集計基準の一貫性を確保する観点から2011年度以降を分析対象とした",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各年度の業績はかなり変動が大きいため、中期的な傾向を確認できるよう、複数年度をまとめて比較した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分析対象期間は、法人企業統計の最新データが取得できる2024年度までとし、2011～2024年度を前半・後半の7年間ずつに分け、2011～2017年度と2018～2024年度の平均値を比較した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済産業省（2026）「GXの推進に伴い製造プロセス等を転換する産業における働き手のスキルガイド」6～18頁参照",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済産業省、国土交通省（2025）「「モビリティDX戦略」2025年のアップデート」59頁参照",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず直近の2017年度では、「維持更新」と回答する企業が最も多くなっており、更に10年を通じて、「維持更新」と回答する企業の比率が増加していることが確認できる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "次に設備を新設してからの経過年数を示す設備年齢の推移を確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業と大企業の設備年齢がほぼ同水準だった1990年の設備年齢指数をそれぞれ100としてその推移を見てみると、足下の2016年度において大企業の設備年齢指数は148.6と1990年から約1.5倍となっているのに対し、中小企業の設備年齢指数は194.1と約2倍にまで増加しており、中小企業の設備が大企業の設備に比して老朽化が進んでいることが分かる（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2026年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年9月30日",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対象年度の設備投資について、夏・冬の2回に分けて調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○冬調査 ： （Ｃ）当年度の実績見込 （Ａ）翌年度の当初計画",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○夏調査 ： （Ｄ）前年度の実績 （Ｂ）当年度の修正計画（今回）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 調査時点 2026年7月1日現在（調査期間：2026年6月26日～2026年7月24日）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "５ 調査方法 WEB画面での回答によるアンケート調査（注）2025年1月調査までは、調査票（郵便で返送）による回答方式、WEB画面での回答方式を併用",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期での推移をみると、「情報化関連」が増加を続けている",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年度実績で製造業＋7.3％、非製造業+20.0％と、非製造業",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 設備投資「有」比率…2025年度実績は高水準、2026年度修正計画も近年の同時点を上回る",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3％、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 全産業では、業況を「良い」とした企業の割合が59.4％と前回(2026年1月)調査（58.9％）から上昇",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022/1 2022/7 2023/1 2023/7 2024/1 2024/7 2025/1 2025/7 2026/1 2026/7",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼2025年度実績は、設備投資実施「有」企業割合は全体の66.3％と、調査開始以来の最高値",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の設備投資に関する企業の意識調査｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の設備投資に関する企業の意識調査",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025/05/28",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資計画が『ある』企業の割合は前年比1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、設備投資に関する調査は2017年4月以降、毎年4月に実施、今回で9回目",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査期間：2025年4月16日～4月30日（インターネット調査）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度（2025年4月～2026年3月）に設備投資を実施する予定（計画）があるか尋ねたところ、設備投資計画が『ある』（「すでに実施した」「予定している」「実施を検討中」の合計）と回答した企業は前年（2024年度の設備投資計画、2024年4月に実施）から1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業では、設備投資予定額は平均で1億2,429万円[1]となり、前年（1億2,705万円）から276万円減少した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一歩間違えれば倒産につながる」（建設）といった厳しい声のほか、「2024年度に業務用PCやサーバーなどの入れ替えを行ったため、今年度は投資する予定はない」（機械・器具卸売）などの声が寄せられた",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業に対し、予定している設備投資の内容について尋ねたところ、入れ替えや交換、更新など「設備の代替」が60.8％と、調査を開始した2017年度以降初めて60％を上回り、トップとなった（複数回答、以下同）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業に対して、主な資金調達方法を尋ねたところ、「自己資金」が57.6％で最も高かった",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資を「予定していない」企業に対して、設備投資を行わない理由を尋ねたところ、「先行きが見通せない」が47.9％で最も高く、前年からの上昇幅（＋3.8ポイント）が最も大きい項目となった（複数回答、以下同）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査の結果、2025年度は企業の57.4％が設備投資の予定（計画）が『ある』としているが、その割合は2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "20250528_ 2025年度の設備投資に関する企業の意識調査",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年4月上旬",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度実績・2025年度当初計画（4月調査）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2024年度実績は、2023年度実績に比べて8.4％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸送用機械製造業では設備投資額が拡大したものの、両利益率は低下しており、投資額の増減だけで投資の妥当性を評価することは難しい",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4．設備投資の違いと財務成果―鉄鋼業と輸送用機械製造業の比較",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸送用機械製造業では、設備投資額が拡大し、新製品・製品高度化や研究開発等への投資比率を高水準で維持している一方、営業利益率、総資産営業利益率はいずれも後半の期間で低下している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「素材系」は「化学」「窯業・土石」「紙・パルプ」「繊維」「鉄鋼」「非鉄金属」を、「加工・組立系」は「一般機械」「精密機械」「輸送用機械」「電気機械」「食品」を指す",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系と加工・組立系では設備投資の投資動機別構成に違いがみられることから、その特徴を具体的に確認するため、各区分の代表的業種であり、設備投資規模も大きい鉄鋼業と輸送用機械製造業を取り上げた",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2部 深刻化する人手不足と中小企業の生産性革命",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下では、内閣府・財務省「法人企業景気予測調査」を用いて、過去10年の中小企業の投資目的別の設備投資スタンスについて確認する（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "後述するように、中小企業の設備年齢が上昇傾向を続けていることが背景にあると考えられる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業と大企業の設備年齢がほぼ同水準だった1990年の設備年齢指数をそれぞれ100としてその推移を見てみると、足下の2016年度において大企業の設備年齢指数は148.6と1990年から約1.5倍となっているのに対し、中小企業の設備年齢指数は194.1と約2倍にまで増加しており、中小企業の設備が大企業の設備に比して老朽化が進んでいることが分かる（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 目的・内容 ○中小企業の国内設備投資動向（注）の調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）いわゆる「中小会社」（会社法第2条6号に規定する「大会社」以外の会社）または法定中小企業",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（中小企業基本法第2条に規定する中小企業者）のいずれかに該当する非上場企業を中心に選定",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1）従業員規模別",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "① １０人以下 683 16.1",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "② １０人超～３０人以下 1,204 28.4",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "③ ３０人超～５０人以下 760 17.9",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "④ ５０人超～１００人以下 759 17.9",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食料品 180 4.2 金属製品 240 5.7 建設 375 8.8",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "繊維 55 1.3 はん用、生産用、業務用機械 166 3.9 卸売 789 18.6",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "紙・パルプ 23 0.5 輸送用機器 79 1.9 不動産・物品賃貸 213 5.0",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年度実績で製造業＋7.3％、非製造業+20.0％と、非製造業",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 増産・販売力強化 はん用・生産用・業務用機械製造業 マシニングセンターほか 半導体装置向け部品の受注が好調",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4 合理化・省人化 輸送用機器製造業 ロボットによる部品搬送の自動化 人手不足が深刻",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「ヒトでなくても出来る仕事」を自動化し、能力ある従業員が活躍できる職場環境を整備するため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6 合理化・省人化 金属製品製造業 自動計量器 手作業の計量・梱包を全自動化",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資の予定（計画）が『ある』企業の割合を規模別にみると、「大企業」は70.6％と7割台を維持した一方で、「中小企業」は55.0％、うち「小規模企業」は44.6％となっており、規模が小さくなるほどその割合が小さい傾向が続いている",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「設備の代替」が60.8％で突出 大企業の半数近くが「デジタル投資」を計画",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なかでも「大企業」における割合は48.1％と半数近くにのぼり、「中小企業」（29.4％）を18.7ポイント上回った",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資金余力が比較的乏しい中小企業においては、「設備投資は継続かつ積極的に行っていきたいが、PCやソフトウェアなどすべてにおいて価格改定があるので中小企業には難しい一面もある」（専門サービス）など、設備の価格上昇が投資の足かせとなっている様子がうかがえた",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「補助金・助成金」は5.5％とわずかであるが、「中小企業」は6.4％、うち「小規模企業」は8.5％と、規模の小さな企業での活用が目立った",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、企業からは「地方の中小企業においては、補助金ありきの設備投資となっている",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資を行わない理由、「先行きが見通せない」が47.9％でトップ 特に中小企業で今後への不安の声多く",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "規模別に比較すると、「中小企業」では、「先行きが見通せない」が「大企業」より15.7ポイント高いほか、「借り入れ負担が大きい」「手持ち現金が少ない」も5ポイント以上上回っており、先行きと資金面に対する強い不安がうかがえた",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "総務省事業所母集団データベース（令和 3年次フレーム）をもとに把握した全国の従業員 20人以上300人未満の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫 総合研究所 中小企業研究第一グループ Tel：03-3270-1763（担当：真瀬、立澤）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 業種別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－２ 業種別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 横軸は、2023年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-21.4 はん用",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "従業員規模別では、 200～299 人の規模で低下した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "県内の主要企業について、原則として従業員50人以上の企業",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別の集計は、兼業部門を分離せず、当該企業の主たる業種に",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表3 2022年度 業種別設備投資動向",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表4 2023年度 業種別設備投資動向",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別には製造業、資本金規模別には",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業（同＋14.8％）が食料品、自動車関連、一般機械などで増加に転じる一",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、資本金規模別には、1億円未満の企業で2桁減益の見通しである",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅱ. 設備投資の動向 １．2025年度の計画 ～製造業は食料品、自動車関連、一般機械を中心に増加～",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 2025年度は同＋14.8％と、食料品の新規設備導入や自動車関連、一般機械の設備更新などを中心に前年を上回る計画である（図表7）",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 一般機械69.2％（n=13） 卸売50.0％（n=32）",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 製造業・非製造業別、資本金規模別のいずれも「自己資金」の比率が上昇しているが、とくに、資本金5千万円未満の企業においてその傾向が強く、",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の中で中小企業を中心に収益性が低下していることが大きく影響しているとみられる",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 業種別,企業規模別にみた設備投資の特徴",
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安定成長期には経済のサービス化の進展にともない,設備投資に占める非製造業の割合が高まり,高度成長期に比べて設備投資循環の振幅が小幅になっていることが指摘されているが,ここでは業種別,企業規模別に最近の設備投資の特徴をみてみよう",
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(業種別,企業規模別にみた設備投資の動向)",
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "でみると設備投資の鈍化は製造業よりも非製造業,また大企業よりも中小企業において目立っており,金融引締めの影響が中小企業を中心として不動産業やリース業の設備投資に現れつつあることを示している",
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別に5月時点の生産設備判断と91年度計画による設備投資増加率の関係をみると,概して,石油精製,金属製品,非鉄など設備不足感の強い業種では高い設備投資の増加が計画されている一方,紙パのように設備過剰感のある業種では設備投資の減少が計画されているなど,業種によるばらつきをみせながらも,全体としては,設備不足感を背景に企業の投資意欲はなお強いものとみられる",
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "素材系では維持・補修の比率が高い一方、新製品・製品高度化や研究開発の比率は低い",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業には、自社の事業特性、投資目的、成果発現までの時間軸を踏まえ、成長、能力増強、生産性向上、維持・更新、撤退等の間で経営資源を適切に配分することが求められる",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同調査では設備投資の動機を「能力増強」「新製品・製品高度化」「合理化・省力化」「研究開発」「維持・補修」「その他」の6つに分類している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資動機別の構成比をみると、維持・補修の比率が上昇する一方、能力増強の比率は低下しており、新製品・製品高度化や研究開発の比率には大きな変化はみられない",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業では、新製品・製品高度化や能力増強等、将来の成長に向けた投資に加え、これまで蓄積してきた設備ストックについても、老朽化への対応、安全・品質の確保、省力化、供給能力の維持等のため、継続的な維持・更新投資が必要となる",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系はもともと維持・補修比率が高く、新製品・製品高度化や研究開発の比率が低い",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、加工・組立系では、新製品・製品高度化、研究開発の比重が相対的に高い",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、素材系で維持・補修が一貫して大きな比重を占め、加工・組立系でも近年その比重が高まっていることは、設備ストックを抱える製造業にとって既存設備の維持・更新が継続的な経営課題であることを示している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼業では、脱炭素化への対応として製造プロセスそのものの転換が課題となっており、既存設備の維持・更新に加えて、将来の生産方式を見据えた研究開発・設備投資が必要となっている（注5）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸送用機械製造業では、設備投資額が拡大し、新製品・製品高度化や研究開発等への投資比率を高水準で維持している一方、営業利益率、総資産営業利益率はいずれも後半の期間で低下している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、取締役会には、能力増強、新製品・製品高度化、研究開発、合理化・省力化、維持・更新等、投資目的別の構成やその変化を把握し、それが自社の経営戦略や事業ポートフォリオと整合しているかを確認することが求められる",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "具体的には、維持・更新投資が競争力の維持にどのような役割を果たしているのか、成長投資と既存設備への投資の配分に伴う機会費用をどう考えているのか、経営陣による投資後の成果検証を取締役会がどのように監督しているのか、といった点について対話を深めることが考えられる",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査が示すように、設備投資の構成は業種によって大きく異なり、成熟した設備基盤を持つ企業では、維持・更新も重要な資本配分の対象である",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業には、成長、能力増強、生産性向上、維持・更新等、必要性の異なる投資を自社の状況に応じて組み合わせることが求められる",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済産業省、国土交通省（2025）「「モビリティDX戦略」2025年のアップデート」59頁参照",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究開発税制は研究開発投資を押し上げているのか? ～自動車研究費急増からみる政策効果～",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究開発税制は研究開発投資をどの程度支えているのか?～実効補助率と国際比較からの再評価～",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済産業省、国土交通省（2025年）「「モビリティDX戦略」2025年のアップデート」",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2部 深刻化する人手不足と中小企業の生産性革命",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず直近の2017年度では、「維持更新」と回答する企業が最も多くなっており、更に10年を通じて、「維持更新」と回答する企業の比率が増加していることが確認できる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、付加価値拡大に資すると考えられる「生産（販売）能力の拡大」、「製（商）品・サービスの質的向上」と回答する企業の比率や、労働投入量の効率化に資すると考えられる「省力化合理化」と回答する企業の比率は、過去10年で低下傾向にあることが見て取れる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これまでに見てきたとおり、過去10年間で投資目的を維持更新とする企業の割合が高まってきたのは、このように設備の老朽化が進んでいることが背景にあるものと考えられる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼長期の推移では（10頁）、 ④「維持・補修」 ⑤「合理化・省力化」 ⑦「情報化関連」が上昇傾向であ",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑤合理化・省力化 23.4 25.0 25.8 23.4 ▲ 2.4 26.0 +2.6",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑨新製品の生産 6.2 6.2 4.7 4.4 ▲ 0.3 5.2 +0.8",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究開発 2.4 2.2 2.8 2.3 ▲ 0.5 2.5 +0.2",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4 合理化・省人化 輸送用機器製造業 ロボットによる部品搬送の自動化 人手不足が深刻",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「ヒトでなくても出来る仕事」を自動化し、能力ある従業員が活躍できる職場環境を整備するため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5 合理化・省人化 卸売業 自動断裁機・自動梱包機 高齢化で募集しても人材確保が困難",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6 合理化・省人化 金属製品製造業 自動計量器 手作業の計量・梱包を全自動化",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7 合理化・省人化 その他製造業 充填包装工程の自動化 自動化で省力化し、捻出したリソースを他事業へ充てるため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8 DX 電気機器製造業 生産システムの更新 現行システムの維持が難しいため、一般的なシステムへ刷新するため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "９ DX 小売業 AI活用による問い合わせ事務、経理事務合理化 AI・システム構築で時間・人的効率化を進め、少人数でのオペレーションを実現するため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10 コスト高・更新 卸売業 太陽光発電の導入 電気代の高騰に対応するため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "からは、「人材不足を補うために、勤怠管理や業務日報のデジタル化を進めている",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「設備の代替」が60.8％で突出 大企業の半数近くが「デジタル投資」を計画",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業に対し、予定している設備投資の内容について尋ねたところ、入れ替えや交換、更新など「設備の代替」が60.8％と、調査を開始した2017年度以降初めて60％を上回り、トップとなった（複数回答、以下同）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "次いで、「既存設備の維持・補修」（30.7％）や省人化なども含む「省力化・合理化」（25.8％）、「DX（デジタルトランスフォーメーション）」（20.9％）、AIなど「情報化（IT化）関連」（20.3％）が続いた",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、「DX」「情報化（IT化）関連」のいずれかを選択した、『デジタル投資』を検討している企業は32.8％となった",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "具体的な投資内容は、設備の代替など更新需要のほか、深刻化している人手不足への対応や業務効率化を目的とした省力化投資およびデジタル投資関連も上位に並んだ",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2024年度実績の設備投資の目的をみると、「更新、維持・補修」の割合が 37.2％と最も高く、次いで「能力拡充」（ 25.1％）、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「新製品の生産、新規事業への進出、研究開発」（ 16.8％）の順となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度当初計画では、「更新、維持・補修」や「能力拡充」、「省力化・合理化」などの割合が上昇している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "進出、研究開発",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "更新、維持・補修",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度の修正動向は、製造業で食料品の更新投資が増加、非製造業では、卸・小売および宿泊が牽引し、",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度の投資動機の金額構成比は、「更新投資」が47.3％と最も高く、「能力拡充投資」「新分野投",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 製造業では、前回調査（修正計画）では増加となったが、鉄鋼および窯業・土石で機械装置の更新・能力",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 非製造業では、電力・ガスで電源設備の更新及び能力拡充投資、サービスで更新投資等により増加するも",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食料品 2,729 3,135 △52.0 14.9 13.8 製糖で製造設備の合理化投資により3年ぶりに増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電力・ガス 30,756 41,645 △0.7 35.4 370.2 電源設備の更新及び能力拡充投資により増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サービス 16,616 22,586 △17.1 35.9 203.0 リース業のリース用資産の更新投資等により3年ぶりに増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "飲食店・宿泊 2,518 4,072 △56.6 61.7 52.8 ホテル改造工事の更新投資により3年ぶりに増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 製造業では、中核産業となる食料品で、観光関連産業の需要増を受けた能力拡充投資により、回復基調と",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 非製造業では、電力・ガスで電源設備の更新及び能力拡充投資が継続、運輸で物流施設整備や輸送力増強",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "による能力拡充投資により増加するものの、不動産で商業用施設取得等の完了、飲食店・宿泊でホテル改",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼 353 458 △84.9 29.7 8.1 機械設備の更新投資により増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電力・ガス 41,645 44,490 35.4 6.8 218.5 電源・送配電設備の更新および能力拡充投資により増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "運輸 14,079 15,129 △19.5 7.5 80.6 モノレール増設工事の継続、物流施設整備等の能力拡充投資により増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "情報通信 3,366 3,639 △53.1 8.1 21.0 ネットワークエリアの拡大や通信拠点整備への能力拡充投資が継続",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3％、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 2025年度実績における設備投資を実施しない理由の上位は、①「現状で設備は適正水準」が61.7％、",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 設備投資額の増減率をみると、全産業の2025年度実績は2024年度実績対比+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度（2025年4月～2026年3月）に設備投資を実施する予定（計画）があるか尋ねたところ、設備投資計画が『ある』（「すでに実施した」「予定している」「実施を検討中」の合計）と回答した企業は前年（2024年度の設備投資計画、2024年4月に実施）から1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2024年度に海外拠点へ設備投資を実施した企業割合をみると、全規模は 23.5％と、2023年度実績（24.1％）から低下した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 「海外拠点があり設備投資を実施」と回答した企業の海外での設備投資の延べ件数を国・地域別に 集計、延べ投資件数全体に対する割合を求めたもの",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注1）実績等は､当該年度中に設備投資を実施（実施見込み）した回答企業数の割合で、2014～2021年度は実績、2022年度は実績見込である",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 設備投資環境について全産業の各種D.I.をみると、「売上･受注見通しD.I.」（22/03調査＋8.6%p",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "→23/03調査+36.8%p）及び「収益見通しD.I.」（同＋1.9%p →同+18.2%p)は2年連続で「かなり増",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "50.0(%p)",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「現有設備D.I.」（同△4.3%p→同△19.1%p)は、「やや不安がある+大いに不安がある」超となり、同",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「設備投資実施方針D.I.」（同＋7.2%p→同＋16.7%p）は、「積極的に実施＋ある程度前向きに実施」",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "50.0(%P)",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「設備リースD.I.」（同＋22.5%p→同＋29.2%p）は、「積極的に利用＋ある程度前向きに利用」超と",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「金融機関の貸出態度 D.I.」（同＋5.7%p→同△1.4%p）は、原材料や資材価格高騰による収益悪化や、",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Increased by 30% or more",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Increased by less than 10%",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Increased by 10% or more but less than 30%",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Employee compensation (95%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Dividend income (3%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Interest income (2%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Employee compensation (69%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Dividend income (9%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Interest income (9%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Although the supply -demand gap has narrowed to nearly 0%, the economy is not yet",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・For AI robots, we aim to secure a global market share of over 30% and a market worth 20",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to continue expanding at an annual rate of approximately 10% in the domestic market. From",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "an annual rate of over 20%. As computing demand increases with the spread of AI, securing a",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・By FY2028, we aim for a 100% adoption rate of electronic health records (EHRs) among",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ By 2030, we aim to achieve an EHR adoption rate of approximately 100%, 100%",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to secure an approximately 25% share of global autonomous vehicle sales in the 2030s.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to secure a 10% share of the global optical transmission equipment market by 2030.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Submarine cables are the backbone carrying approximately 99% of Japan’s international",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to secure an approximately 35% global market share in submarine cables.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This is a rapidly expanding growth market, projected to grow at an annual rate of 20% or",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and secure 30% global market share by 2035.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to secure 20% share of the global market for Japanese products across a wide range of",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "while also targeting a global market share of approximately 40% for engines.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to increase the proportion of domestic satellites launched within Japan to 60 –80% or",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to capture a 30% share of the global market.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to meet approximately 30% of the raw material demand for Permanent magnets",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to achieve a 50% global market share in high -performance metals for aircraft engines",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and an 80% global market share in high -performance metals for semiconductor circuits by",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "we aim for approximately 40% of domestic production to be derived from recycle d",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "機械受注": [
+   {
+    "quote": "製造業（同＋14.8％）が食料品、自動車関連、一般機械などで増加に転じる一",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅱ. 設備投資の動向 １．2025年度の計画 ～製造業は食料品、自動車関連、一般機械を中心に増加～",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 2025年度は同＋14.8％と、食料品の新規設備導入や自動車関連、一般機械の設備更新などを中心に前年を上回る計画である（図表7）",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 一般機械69.2％（n=13） 卸売50.0％（n=32）",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "政府は2040年度の国内民間設備投資を年間250兆円程度まで高める経済の姿を描いている",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの「全国設備投資計画調査」によると、資本金10億円以上の製造業では、設備投資額はコロナ禍後に増加基調となり、2026年調査では2025年度の実績は約7兆円に達した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、設備投資額に占める維持・補修の割合は、2011年度の23.9％から2025年度には30.5％へ上昇し、約2.1兆円となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府は、成長戦略の実行を通じ、2040年度に国内民間設備投資を年間250兆円程度まで高める経済の姿を描く",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料1は、日本政策投資銀行（以下「DBJ」）が毎年公表している「全国設備投資計画調査」の2011年度以降のデータに基づき、我が国の資本金10億円以上の製造業企業について、投資動機別投資額の推移を示したものである（注1）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同調査では設備投資の動機を「能力増強」「新製品・製品高度化」「合理化・省力化」「研究開発」「維持・補修」「その他」の6つに分類している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資額は、2011年度以降さほど大きくは伸びていないものの、コロナ禍後は増加基調にあり、2025年度実績では約7兆円の規模となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その中で、維持・補修の割合は2011年度の23.9％から2025年度の30.5％へ上昇し、金額としても約2.1兆円まで拡大している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査からその要因まで特定することはできないが、必要とされる設備投資の内容が産業によって一様ではないことは示唆される",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでは、前章で確認したように業種によって設備投資の動機別構成が異なることを踏まえ、具体的な業種について、投資構成と財務成果がどのように変化しているかを、財務省「法人企業統計」のデータも用いて確認する（注2）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "併せて、法人企業統計から両業種の収益性等の財務指標を抽出し、設備投資の状況と財務成果が両期間でどのように変化したかを比較する（資料3）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査が示すように、設備投資の構成は業種によって大きく異なり、成熟した設備基盤を持つ企業では、維持・更新も重要な資本配分の対象である",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの「全国設備投資計画調査」では、2010年度調査までは設備投資額および投資動機を事業基準分類（企業の事業部門を基に分類）で、2011年度調査以降は主業基準分類（企業の主たる事業に基づき分類）で集計している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本稿では各年度の公表値を用いるため、集計基準の一貫性を確保する観点から2011年度以降を分析対象とした",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、DBJ調査における設備投資は「自社の有形固定資産に対する国内投資（ただし、不動産業における分譲用を除く）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでは財務省「法人企業統計」の年次別調査を用いた",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資については、DBJ調査が有形固定資産への国内投資を対象とすることを踏まえ、法人企業統計の「設備投資（ソフトウェアを除く）」を使用した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、両統計は調査対象、設備投資の定義等が異なるため、金額水準を直接比較するものではない",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下では、内閣府・財務省「法人企業景気予測調査」を用いて、過去10年の中小企業の投資目的別の設備投資スタンスについて確認する（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず直近の2017年度では、「維持更新」と回答する企業が最も多くなっており、更に10年を通じて、「維持更新」と回答する企業の比率が増加していることが確認できる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、付加価値拡大に資すると考えられる「生産（販売）能力の拡大」、「製（商）品・サービスの質的向上」と回答する企業の比率や、労働投入量の効率化に資すると考えられる「省力化合理化」と回答する企業の比率は、過去10年で低下傾向にあることが見て取れる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業と大企業の設備年齢がほぼ同水準だった1990年の設備年齢指数をそれぞれ100としてその推移を見てみると、足下の2016年度において大企業の設備年齢指数は148.6と1990年から約1.5倍となっているのに対し、中小企業の設備年齢指数は194.1と約2倍にまで増加しており、中小企業の設備が大企業の設備に比して老朽化が進んでいることが分かる（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2026年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 調査要領、調査回答企業の属性、業況",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 目的・内容 ○中小企業の国内設備投資動向（注）の調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対象年度の設備投資について、夏・冬の2回に分けて調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○冬調査 ： （Ｃ）当年度の実績見込 （Ａ）翌年度の当初計画",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○夏調査 ： （Ｄ）前年度の実績 （Ｂ）当年度の修正計画（今回）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 調査時点 2026年7月1日現在（調査期間：2026年6月26日～2026年7月24日）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４ 企業数 アンケートの郵送送付先数 10,806社（回収率39.3％）有効回答数 4,246社",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "５ 調査方法 WEB画面での回答によるアンケート調査（注）2025年1月調査までは、調査票（郵便で返送）による回答方式、WEB画面での回答方式を併用",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "照会先 商工中金 RM推進部 齊藤Email chosa■gm.shokochukin.co.jp（■を@に変換）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答企業数 構成比(％) 回答企業数 構成比(％) 回答企業数 構成比(％)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年度実績で製造業＋7.3％、非製造業+20.0％と、非製造業",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 設備投資「有」比率…2025年度実績は高水準、2026年度修正計画も近年の同時点を上回る",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3％、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の設備投資に関する企業の意識調査｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の設備投資に関する企業の意識調査",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資計画が『ある』企業の割合は前年比1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※株式会社帝国データバンクは、全国2万6,590社を対象に「設備投資」に関するアンケート調査を実施した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、設備投資に関する調査は2017年4月以降、毎年4月に実施、今回で9回目",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査期間：2025年4月16日～4月30日（インターネット調査）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査対象：全国2万6,590社、有効回答企業数は1万735社",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度（2025年4月～2026年3月）に設備投資を実施する予定（計画）があるか尋ねたところ、設備投資計画が『ある』（「すでに実施した」「予定している」「実施を検討中」の合計）と回答した企業は前年（2024年度の設備投資計画、2024年4月に実施）から1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業では、設備投資予定額は平均で1億2,429万円[1]となり、前年（1億2,705万円）から276万円減少した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一歩間違えれば倒産につながる」（建設）といった厳しい声のほか、「2024年度に業務用PCやサーバーなどの入れ替えを行ったため、今年度は投資する予定はない」（機械・器具卸売）などの声が寄せられた",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業に対し、予定している設備投資の内容について尋ねたところ、入れ替えや交換、更新など「設備の代替」が60.8％と、調査を開始した2017年度以降初めて60％を上回り、トップとなった（複数回答、以下同）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "予定している設備投資の内容 ～上位10項目～（複数回答）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業に対して、主な資金調達方法を尋ねたところ、「自己資金」が57.6％で最も高かった",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資を「予定していない」企業に対して、設備投資を行わない理由を尋ねたところ、「先行きが見通せない」が47.9％で最も高く、前年からの上昇幅（＋3.8ポイント）が最も大きい項目となった（複数回答、以下同）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資を予定していない理由 ～上位10項目～（複数回答）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査の結果、2025年度は企業の57.4％が設備投資の予定（計画）が『ある』としているが、その割合は2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "DBJの「全国設備投資計画調査」によると、資本金10億円以上の製造業では、設備投資額はコロナ禍後に増加基調となり、2026年調査では2025年度の実績は約7兆円に達した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、設備投資額に占める維持・補修の割合は、2011年度の23.9％から2025年度には30.5％へ上昇し、約2.1兆円となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料1は、日本政策投資銀行（以下「DBJ」）が毎年公表している「全国設備投資計画調査」の2011年度以降のデータに基づき、我が国の資本金10億円以上の製造業企業について、投資動機別投資額の推移を示したものである（注1）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資額は、2011年度以降さほど大きくは伸びていないものの、コロナ禍後は増加基調にあり、2025年度実績では約7兆円の規模となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料1の製造業をさらに、素材系と加工・組立系に分け（注1）、投資動機別設備投資額の推移を示したものが資料2である",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの「全国設備投資計画調査」では、2010年度調査までは設備投資額および投資動機を事業基準分類（企業の事業部門を基に分類）で、2011年度調査以降は主業基準分類（企業の主たる事業に基づき分類）で集計している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プライム市場の独立社外取締役過半会社は3割を超えた ～継続上場会社にみる増加の実態～",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず直近の2017年度では、「維持更新」と回答する企業が最も多くなっており、更に10年を通じて、「維持更新」と回答する企業の比率が増加していることが確認できる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業と大企業の設備年齢がほぼ同水準だった1990年の設備年齢指数をそれぞれ100としてその推移を見てみると、足下の2016年度において大企業の設備年齢指数は148.6と1990年から約1.5倍となっているのに対し、中小企業の設備年齢指数は194.1と約2倍にまで増加しており、中小企業の設備が大企業の設備に比して老朽化が進んでいることが分かる（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼４．設備投資額の増減率",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 設備投資の目的…情報化関連が増加",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 設備投資額の増減率…引き続き増加、非製造業の伸びがけん引",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 製造業の2025年度実績は、設備投資「有」企業が73.1％と、前年度比0.4pt上昇",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度修正計画は、「有」企業が66.1％と、前年度比2.0pt上昇",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．設備投資額の増減率①(全産業)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 設備投資額の増減率をみると、全産業の2025年度実績は2024年度実績対比+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "［図表4-1］年度別設備投資額増減率の推移（全産業、当初計画→修正計画→実績見込→実績）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注1）当初計画の前年比増減率は、前年度実績見込比の増減率",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注2）前回調査と今回調査で連続して回答を得られた企業を対象に集計（50億円以上の大口投資は除いて算定）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注3）2021年1月調査より、従来の土地、建物、機械に加え、ソフトウェア投資額についても調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．設備投資額の増減率②(製造業)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 製造業の設備投資額の増減率は、2025年度実績で2024年度実績対比＋7.3％",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "［図表4-2］年度別設備投資額増減率の推移",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．設備投資額の増減率③(非製造業)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 非製造業の設備投資額の増減率は、2025年度実績で2024年度実績対比+20.0％",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資計画が『ある』企業の割合は前年比1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、設備投資を「予定していない」企業は前年比1.3ポイント増の34.4％に達し、その半数近くが「先行きが見通せない」ことを理由にしている",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業では、設備投資予定額は平均で1億2,429万円[1]となり、前年（1億2,705万円）から276万円減少した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2024年度実績は、2023年度実績に比べて8.4％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2025年度当初計画は、2024年度実績に比べて8.1％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度当初計画比では、0.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 国内設備投資額の 2024年度実績・ 2025年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 本調査では、百万円単位で集計を行っている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2024年度実績は、 2023年度実績に比べて 8.4％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度当初計画は、 2024年度実績に比べて 8.1％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "0.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2024年度実績では、 2023年度実績に比べて、全 17業種中 12業種で増加した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度当初計画では、 2024年度実績に比べて、 12業種で減少した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－３ 設備投資額の目的別構成比の推移",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）設備投資額の目的別増減率（ 2024 年度当初計画比）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度計画は、製造業で景気回復を受けた投資再開により増加（19.0％増）と",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なるも、非製造業は大型投資一服により減少（2.2％減）し、全産業では、ほぼ",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 計画保有率は64.1％と2年連続増加、投資意欲は前向きな姿勢が窺え、今後の",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増減率は対前年度比）は、製造業で25.2％減、非製造",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業で1.2％減となり、全産業では2.7％減（除く電力･ガス17.6％減）と4年連続の減少となった",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度の修正動向は、製造業で食料品の更新投資が増加、非製造業では、卸・小売および宿泊が牽引し、",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度当初計画の設備投資計画保有率は64.1％と2年連続増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度計画は、製造業で景気回復を受けた投資再開により増加（19.0％増）となるも、非",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は大型投資一服により減少（2.2％減）し、全産業ではほぼ横ばいとなる",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 計画保有率は64.1％と2年連続増加、投資意欲は前向きな姿勢が窺え、今後の設備投資は回",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 伸び率の推移をみると、全産業では19年度より5年連続で減少となる",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表1 2022・2023年度 設備投資動向 図表2 設備投資計画の伸び率の推移",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼 2,338 353 ｘ △84.9 △67.5 機械装置設置完了、調達コスト増に起因した計画の先送りにより減少",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食料品 2,729 3,135 △52.0 14.9 13.8 製糖で製造設備の合理化投資により3年ぶりに増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "窯業・土石 1,302 1,093 △50.5 △16.1 △7.1 機械装置設置完了により減少",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（※製造業：130社、非製造業：159社、資本金1億円以上：51社、５千万円～１億円未満：68社、５千万円未満：170社）",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/blog/8113/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.yokohama.lg.jp/business/kigyoshien/tokei-chosa/keikyou.files/0305_20200919.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/niigata-roudoukyoku/content/contents/04bukai02-06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.energia.co.jp/eneso/kankoubutsu/keirepo/pdf/MR1702-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/national/pdf/2025_full.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0922142523000324",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/financing-smes-and-entrepreneurs-2026_bb7fc5c4-en/japan_18c68966-en.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sifma.org/research/statistics/fact-book",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化） 推移",
+   "results": [
+    "https://www.dlri.co.jp/report/asset/654504.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "https://eigyo-mfg.com/blog/8113/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai31/shiryou1.pdf",
+    "https://www.dbj.jp/investigate/equip/national/pdf/2025_full.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/news2022_10a.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202603.pdf"
+   ]
+  },
+  {
+   "query": "設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化） 調査結果 pdf",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "https://www.city.yokohama.lg.jp/business/kigyoshien/tokei-chosa/keikyou.files/0305_20200919.pdf",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "https://jsite.mhlw.go.jp/niigata-roudoukyoku/content/contents/04bukai02-06.pdf",
+    "https://www.energia.co.jp/eneso/kankoubutsu/keirepo/pdf/MR1702-1.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/34c19676dae1426e9422da37ce5a6e48/s230601_10.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_250528.pdf"
+   ]
+  },
+  {
+   "query": "設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化） 年度 実施割合",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "https://www.city.yokohama.lg.jp/business/kigyoshien/tokei-chosa/keikyou.files/0305_20200919.pdf",
+    "https://www.dlri.co.jp/report/asset/654504.html",
+    "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "https://eigyo-mfg.com/blog/8113/",
+    "https://www.dbj.jp/investigate/equip/national/pdf/2025_full.pdf"
+   ]
+  },
+  {
+   "query": "capital investment purpose share trend Japan SMEs labor saving",
+   "results": [
+    "https://www.sciencedirect.com/science/article/abs/pii/S0922142523000324",
+    "https://www.oecd.org/en/publications/financing-smes-and-entrepreneurs-2026_bb7fc5c4-en/japan_18c68966-en.html",
+    "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "https://www.weforum.org/stories/jobs-and-the-future-of-work/japan-small-businesses-economic-resilience",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "https://www.sifma.org/research/statistics/fact-book",
+    "https://note.com/hirokimiyano/n/n529d77e1fc8d?hl=en",
+    "https://www.meti.go.jp/english/policy/economy/industrial_council/pdf/240628003.pdf",
+    "https://www.worldbank.org/ext/en/topic/competitiveness/small-and-medium-enterprises-smes-finance",
+    "https://jp-reports.com/en/articles/01KK0VJGXV6K3FNTJZ8YVYRAQC/"
+   ]
+  },
+  {
+   "query": "site:note.com 設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化）",
+   "results": [
+    "https://note.com/agri_strategy/n/n3366d32c130f",
+    "https://note.com/loyal_ivy9071/n/n4adec46f77ec",
+    "https://note.com/loyal_ivy9071/n/n7a8b398ef032",
+    "https://note.com/loyal_ivy9071/n/ned59bf0c9cbd",
+    "https://note.com/loyal_ivy9071/n/n892a00a2fb29",
+    "https://note.com/loyal_ivy9071/n/nf5227f7a4b5c",
+    "https://note.com/loyal_ivy9071/n/n25de3448f0a8",
+    "https://note.com/zuikaku_ozawa_/n/n74c0bffea69c",
+    "https://note.com/loyal_ivy9071/n/ndc1fe571ae59",
+    "https://note.com/loyal_ivy9071/n/nf6656a048090"
+   ]
+  },
+  {
+   "query": "site:x.com 設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化）",
+   "results": [
+    "https://x.com/isyokenmei/status/2063532216752443782",
+    "https://x.com/isyokenmei/status/2076139735198638572",
+    "https://x.com/the_last_leaf/status/2027595979311206910",
+    "https://x.com/cao_keizai/status/2080082864411172938",
+    "https://x.com/ropcb08/status/2106047253999972512",
+    "https://x.com/m_sato_eigyo/status/2102952327439327390",
+    "https://x.com/nikkei/status/2083825971648471179"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化）",
+   "results": [
+    "https://jp.linkedin.com/posts/のぞみ-寺澤-95b76019a_2026年版省力化投資補助金-一般型が公募開始ロボットaiiotによる-activity-7485351087512686593-5rka",
+    "https://www.linkedin.com/posts/akiyoshi-takenaka_自動機-automation-省力化-activity-7499781064001982464-9mrD",
+    "https://jp.linkedin.com/in/yuka-kogiso",
+    "https://jp.linkedin.com/pulse/dilemma-capex-opex-decisions-shape-future-companies-sampaio-lopes-1rfof?tl=ja",
+    "https://www.linkedin.com/posts/rtmeetup_設備投資とは目的や判断基準資金の調達方法から計上の仕方までキホンを解説-activity-7177818114078769153-sAX6",
+    "https://jp.linkedin.com/learning/project-management-foundations-budgets-4/2910120",
+    "https://jp.linkedin.com/posts/聡-小板橋-540472379_インフラ投資と地域格差-2026年度の国交省施策では-無電柱化緊急輸送道路中心-activity-7432940500753547265-amQm"
+   ]
+  },
+  {
+   "query": "site:facebook.com 設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化）",
+   "results": [
+    "https://www.facebook.com/nikkei/videos/企業別の設備投資ランキングを15年前と比べると日本はトップ3が同じ顔ぶれ一方アメリカの上位はガラッと入れ替わりました成長力の違いが生じる一因が見て取れます会員向/486599889549786/",
+    "https://www.facebook.com/keigo.nakajima/videos/人手不足を設備で解決省力化投資補助金は特例で最大1億円人手不足に悩む中小企業向けの制度中小企業省力化投資補助金一般型第8回の公募が始まりました日本国内に本社と設/1382192943267998/",
+    "https://www.facebook.com/okayamakitasci/posts/岡山市省人化省力化設備投資支援補助金について市内中小小規模事業者が省人化省力化のために行う設備投資を支援するため国の重点支援地方交付金を活用し機械設備システム等/1338041461692479/",
+    "https://www.facebook.com/harunosci/posts/中小企業-省力化投資補助金-のご案内事業目的中小企業等の売上拡大や生産性向上を後押しするため人手不足に悩む中小企業等に対してiotロボット等の人手不足解消に効果/817078123800001/",
+    "https://www.facebook.com/tochokoho/videos/不透明な環境下でも中小企業の稼ぐ力を高めます都はこれまで設備投資への助成やdxに向けた伴走支援などさまざまな支援を行ってきましたこうした取組により業績が成長して/1905315656750177/",
+    "https://www.facebook.com/smrjpr/photos/中小企業の設備投資を後押し中小企業経営強化税制中小企業投資促進税制中小企業が生産性向上を目的に設備投資を行う場合税制優遇を受けることができます設備投資の費用の全/1473001554865789/",
+    "https://www.facebook.com/61594293950034/videos/1405042901599918/"
+   ]
+  },
+  {
+   "query": "設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化） note 社長",
+   "results": [
+    "https://note.com/syacyo_otasuke/n/nad7d053ccec9",
+    "https://www.jfc.go.jp/n/findings/pdf/news2022_10a.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "https://www.shokosoken.or.jp/lecture_contribution/pdf/full_text_04.pdf",
+    "https://eigyo-mfg.com/blog/8113/",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "https://note.com/shiny_liger4141/n/n0dde8949df90",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/cc829ee6529d49a7b2650ce90bcd90e0/20250613_%E4%BA%AC%E9%83%BD%E5%BA%9C%E3%83%BB2025%E5%B9%B4%E5%BA%A6%E3%81%AE%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E6%84%8F%E8%AD%98%E8%AA%BF%E6%9F%BB.pdf",
+    "https://mscompass.ms-ins.com/business-news/capital-investment/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_250528.pdf"
+   ]
+  },
+  {
+   "query": "設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化） X 投稿",
+   "results": [
+    "https://eigyo-mfg.com/blog/8113/",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_4.html",
+    "https://www.youtube.com/watch?v=tctZzdq7v4A",
+    "https://prtimes.jp/main/html/rd/p/000001344.000043465.html",
+    "https://www.reuters.com/jp/markets/world-indices/3XWAYS27U5KZFP7J2423LFHRKE-2026-01-28/",
+    "https://shoryokuka.smrj.go.jp/assets/pdf/grant_adoption_ippan_03.pdf",
+    "https://www.itmedia.co.jp/business/articles/2606/09/news009.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_250528.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202603.pdf"
+   ]
+  },
+  {
+   "query": "capital investment purpose share trend Japan SMEs labor saving site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/copy-japan-targets-5000-companies-india-2029-yashasvi-rathore-gxlrc",
+    "https://www.linkedin.com/posts/eisuke-kobayashi_the-seach-fund-association-of-japan-sfaj-activity-7432807909505441792-fW2t",
+    "https://www.linkedin.com/posts/ryushiro_%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E5%AE%98%E8%A3%BD%E3%81%AE%E6%88%90%E9%95%B7%E8%AB%96%E5%89%8D%E9%9D%A2%E3%81%AB%E5%BE%8C%E9%80%80%E3%81%99%E3%82%8B%E6%A0%AA%E4%B8%BB%E9%87%8D%E8%A6%96%E6%8A%95%E8%B3%87%E3%81%AE%E8%A6%8F%E5%BE%8B%E3%81%AB%E4%B8%8D%E5%AE%89-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E-activity-7510150074761621504-c4j5",
+    "https://www.linkedin.com/pulse/japans-ai-bet-your-need-to-knows-2026-richard-mort-yve3f",
+    "https://www.linkedin.com/posts/albert-weng_asia-pacific-private-equity-report-2026-activity-7455801081294643200-tJH1",
+    "https://www.linkedin.com/pulse/emerging-markets-investment-outlook-2026-where-dfis-impact-investors-kmtqf",
+    "https://www.linkedin.com/posts/mihneaconstantinescu_euintegration-productivity-financialmarkets-activity-7391097177537679360-l5SQ",
+    "https://uk.linkedin.com/in/keiohashi",
+    "https://www.linkedin.com/posts/dershing_grabs-wild-shopping-spree-takes-a-sensible-activity-7507355591024234496-7y_m",
+    "https://www.linkedin.com/posts/axel-karpenstein_shoshika-navi-overview-activity-7443084123646230528-rLde"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "推移": [
+   {
+    "quote": "2026.08.24",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高市政権の経済政策では「投資」が前面に押し出され、2026年7月に閣議決定された日本成長戦略でも、17の戦略分野を中心に国内投資を拡大する方針が示された",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府は2040年度の国内民間設備投資を年間250兆円程度まで高める経済の姿を描いている",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの「全国設備投資計画調査」によると、資本金10億円以上の製造業では、設備投資額はコロナ禍後に増加基調となり、2026年調査では2025年度の実績は約7兆円に達した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、設備投資額に占める維持・補修の割合は、2011年度の23.9％から2025年度には30.5％へ上昇し、約2.1兆円となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年2月の基本方針では、官民が連携する「危機管理投資」「成長投資」が強い経済実現の柱に位置付けられ、7月に閣議決定された日本成長戦略では、17の戦略分野を中心に国内投資を拡大する方針が具体化された",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府は、成長戦略の実行を通じ、2040年度に国内民間設備投資を年間250兆円程度まで高める経済の姿を描く",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料1は、日本政策投資銀行（以下「DBJ」）が毎年公表している「全国設備投資計画調査」の2011年度以降のデータに基づき、我が国の資本金10億円以上の製造業企業について、投資動機別投資額の推移を示したものである（注1）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資額は、2011年度以降さほど大きくは伸びていないものの、コロナ禍後は増加基調にあり、2025年度実績では約7兆円の規模となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その中で、維持・補修の割合は2011年度の23.9％から2025年度の30.5％へ上昇し、金額としても約2.1兆円まで拡大している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料1の製造業をさらに、素材系と加工・組立系に分け（注1）、投資動機別設備投資額の推移を示したものが資料2である",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼業では、設備投資額が縮小する一方、維持・補修の比重は高水準で推移している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの「全国設備投資計画調査」では、2010年度調査までは設備投資額および投資動機を事業基準分類（企業の事業部門を基に分類）で、2011年度調査以降は主業基準分類（企業の主たる事業に基づき分類）で集計している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本稿では各年度の公表値を用いるため、集計基準の一貫性を確保する観点から2011年度以降を分析対象とした",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各年度の業績はかなり変動が大きいため、中期的な傾向を確認できるよう、複数年度をまとめて比較した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分析対象期間は、法人企業統計の最新データが取得できる2024年度までとし、2011～2024年度を前半・後半の7年間ずつに分け、2011～2017年度と2018～2024年度の平均値を比較した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済産業省（2026）「GXの推進に伴い製造プロセス等を転換する産業における働き手のスキルガイド」6～18頁参照",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済産業省、国土交通省（2025）「「モビリティDX戦略」2025年のアップデート」59頁参照",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず直近の2017年度では、「維持更新」と回答する企業が最も多くなっており、更に10年を通じて、「維持更新」と回答する企業の比率が増加していることが確認できる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "次に設備を新設してからの経過年数を示す設備年齢の推移を確認する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業と大企業の設備年齢がほぼ同水準だった1990年の設備年齢指数をそれぞれ100としてその推移を見てみると、足下の2016年度において大企業の設備年齢指数は148.6と1990年から約1.5倍となっているのに対し、中小企業の設備年齢指数は194.1と約2倍にまで増加しており、中小企業の設備が大企業の設備に比して老朽化が進んでいることが分かる（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2026年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年9月30日",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対象年度の設備投資について、夏・冬の2回に分けて調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○冬調査 ： （Ｃ）当年度の実績見込 （Ａ）翌年度の当初計画",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○夏調査 ： （Ｄ）前年度の実績 （Ｂ）当年度の修正計画（今回）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 調査時点 2026年7月1日現在（調査期間：2026年6月26日～2026年7月24日）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "５ 調査方法 WEB画面での回答によるアンケート調査（注）2025年1月調査までは、調査票（郵便で返送）による回答方式、WEB画面での回答方式を併用",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期での推移をみると、「情報化関連」が増加を続けている",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年度実績で製造業＋7.3％、非製造業+20.0％と、非製造業",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 設備投資「有」比率…2025年度実績は高水準、2026年度修正計画も近年の同時点を上回る",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3％、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 全産業では、業況を「良い」とした企業の割合が59.4％と前回(2026年1月)調査（58.9％）から上昇",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022/1 2022/7 2023/1 2023/7 2024/1 2024/7 2025/1 2025/7 2026/1 2026/7",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼2025年度実績は、設備投資実施「有」企業割合は全体の66.3％と、調査開始以来の最高値",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の設備投資に関する企業の意識調査｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の設備投資に関する企業の意識調査",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025/05/28",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資計画が『ある』企業の割合は前年比1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、設備投資に関する調査は2017年4月以降、毎年4月に実施、今回で9回目",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査期間：2025年4月16日～4月30日（インターネット調査）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度（2025年4月～2026年3月）に設備投資を実施する予定（計画）があるか尋ねたところ、設備投資計画が『ある』（「すでに実施した」「予定している」「実施を検討中」の合計）と回答した企業は前年（2024年度の設備投資計画、2024年4月に実施）から1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業では、設備投資予定額は平均で1億2,429万円[1]となり、前年（1億2,705万円）から276万円減少した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一歩間違えれば倒産につながる」（建設）といった厳しい声のほか、「2024年度に業務用PCやサーバーなどの入れ替えを行ったため、今年度は投資する予定はない」（機械・器具卸売）などの声が寄せられた",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業に対し、予定している設備投資の内容について尋ねたところ、入れ替えや交換、更新など「設備の代替」が60.8％と、調査を開始した2017年度以降初めて60％を上回り、トップとなった（複数回答、以下同）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業に対して、主な資金調達方法を尋ねたところ、「自己資金」が57.6％で最も高かった",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資を「予定していない」企業に対して、設備投資を行わない理由を尋ねたところ、「先行きが見通せない」が47.9％で最も高く、前年からの上昇幅（＋3.8ポイント）が最も大きい項目となった（複数回答、以下同）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査の結果、2025年度は企業の57.4％が設備投資の予定（計画）が『ある』としているが、その割合は2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "20250528_ 2025年度の設備投資に関する企業の意識調査",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年4月上旬",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度実績・2025年度当初計画（4月調査）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2024年度実績は、2023年度実績に比べて8.4％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸送用機械製造業では設備投資額が拡大したものの、両利益率は低下しており、投資額の増減だけで投資の妥当性を評価することは難しい",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4．設備投資の違いと財務成果―鉄鋼業と輸送用機械製造業の比較",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸送用機械製造業では、設備投資額が拡大し、新製品・製品高度化や研究開発等への投資比率を高水準で維持している一方、営業利益率、総資産営業利益率はいずれも後半の期間で低下している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「素材系」は「化学」「窯業・土石」「紙・パルプ」「繊維」「鉄鋼」「非鉄金属」を、「加工・組立系」は「一般機械」「精密機械」「輸送用機械」「電気機械」「食品」を指す",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系と加工・組立系では設備投資の投資動機別構成に違いがみられることから、その特徴を具体的に確認するため、各区分の代表的業種であり、設備投資規模も大きい鉄鋼業と輸送用機械製造業を取り上げた",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2部 深刻化する人手不足と中小企業の生産性革命",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下では、内閣府・財務省「法人企業景気予測調査」を用いて、過去10年の中小企業の投資目的別の設備投資スタンスについて確認する（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "後述するように、中小企業の設備年齢が上昇傾向を続けていることが背景にあると考えられる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業と大企業の設備年齢がほぼ同水準だった1990年の設備年齢指数をそれぞれ100としてその推移を見てみると、足下の2016年度において大企業の設備年齢指数は148.6と1990年から約1.5倍となっているのに対し、中小企業の設備年齢指数は194.1と約2倍にまで増加しており、中小企業の設備が大企業の設備に比して老朽化が進んでいることが分かる（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 目的・内容 ○中小企業の国内設備投資動向（注）の調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）いわゆる「中小会社」（会社法第2条6号に規定する「大会社」以外の会社）または法定中小企業",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（中小企業基本法第2条に規定する中小企業者）のいずれかに該当する非上場企業を中心に選定",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1）従業員規模別",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "① １０人以下 683 16.1",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "② １０人超～３０人以下 1,204 28.4",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "③ ３０人超～５０人以下 760 17.9",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "④ ５０人超～１００人以下 759 17.9",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食料品 180 4.2 金属製品 240 5.7 建設 375 8.8",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "繊維 55 1.3 はん用、生産用、業務用機械 166 3.9 卸売 789 18.6",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "紙・パルプ 23 0.5 輸送用機器 79 1.9 不動産・物品賃貸 213 5.0",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年度実績で製造業＋7.3％、非製造業+20.0％と、非製造業",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 増産・販売力強化 はん用・生産用・業務用機械製造業 マシニングセンターほか 半導体装置向け部品の受注が好調",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4 合理化・省人化 輸送用機器製造業 ロボットによる部品搬送の自動化 人手不足が深刻",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「ヒトでなくても出来る仕事」を自動化し、能力ある従業員が活躍できる職場環境を整備するため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6 合理化・省人化 金属製品製造業 自動計量器 手作業の計量・梱包を全自動化",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資の予定（計画）が『ある』企業の割合を規模別にみると、「大企業」は70.6％と7割台を維持した一方で、「中小企業」は55.0％、うち「小規模企業」は44.6％となっており、規模が小さくなるほどその割合が小さい傾向が続いている",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「設備の代替」が60.8％で突出 大企業の半数近くが「デジタル投資」を計画",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なかでも「大企業」における割合は48.1％と半数近くにのぼり、「中小企業」（29.4％）を18.7ポイント上回った",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資金余力が比較的乏しい中小企業においては、「設備投資は継続かつ積極的に行っていきたいが、PCやソフトウェアなどすべてにおいて価格改定があるので中小企業には難しい一面もある」（専門サービス）など、設備の価格上昇が投資の足かせとなっている様子がうかがえた",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「補助金・助成金」は5.5％とわずかであるが、「中小企業」は6.4％、うち「小規模企業」は8.5％と、規模の小さな企業での活用が目立った",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、企業からは「地方の中小企業においては、補助金ありきの設備投資となっている",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資を行わない理由、「先行きが見通せない」が47.9％でトップ 特に中小企業で今後への不安の声多く",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "規模別に比較すると、「中小企業」では、「先行きが見通せない」が「大企業」より15.7ポイント高いほか、「借り入れ負担が大きい」「手持ち現金が少ない」も5ポイント以上上回っており、先行きと資金面に対する強い不安がうかがえた",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "総務省事業所母集団データベース（令和 3年次フレーム）をもとに把握した全国の従業員 20人以上300人未満の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫 総合研究所 中小企業研究第一グループ Tel：03-3270-1763（担当：真瀬、立澤）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 業種別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－２ 業種別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 横軸は、2023年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-21.4 はん用",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "従業員規模別では、 200～299 人の規模で低下した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "県内の主要企業について、原則として従業員50人以上の企業",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別の集計は、兼業部門を分離せず、当該企業の主たる業種に",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表3 2022年度 業種別設備投資動向",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表4 2023年度 業種別設備投資動向",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別には製造業、資本金規模別には",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業（同＋14.8％）が食料品、自動車関連、一般機械などで増加に転じる一",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、資本金規模別には、1億円未満の企業で2桁減益の見通しである",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅱ. 設備投資の動向 １．2025年度の計画 ～製造業は食料品、自動車関連、一般機械を中心に増加～",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 2025年度は同＋14.8％と、食料品の新規設備導入や自動車関連、一般機械の設備更新などを中心に前年を上回る計画である（図表7）",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 一般機械69.2％（n=13） 卸売50.0％（n=32）",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 製造業・非製造業別、資本金規模別のいずれも「自己資金」の比率が上昇しているが、とくに、資本金5千万円未満の企業においてその傾向が強く、",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の中で中小企業を中心に収益性が低下していることが大きく影響しているとみられる",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 業種別,企業規模別にみた設備投資の特徴",
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安定成長期には経済のサービス化の進展にともない,設備投資に占める非製造業の割合が高まり,高度成長期に比べて設備投資循環の振幅が小幅になっていることが指摘されているが,ここでは業種別,企業規模別に最近の設備投資の特徴をみてみよう",
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(業種別,企業規模別にみた設備投資の動向)",
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "でみると設備投資の鈍化は製造業よりも非製造業,また大企業よりも中小企業において目立っており,金融引締めの影響が中小企業を中心として不動産業やリース業の設備投資に現れつつあることを示している",
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別に5月時点の生産設備判断と91年度計画による設備投資増加率の関係をみると,概して,石油精製,金属製品,非鉄など設備不足感の強い業種では高い設備投資の増加が計画されている一方,紙パのように設備過剰感のある業種では設備投資の減少が計画されているなど,業種によるばらつきをみせながらも,全体としては,設備不足感を背景に企業の投資意欲はなお強いものとみられる",
+    "url": "https://www5.cao.go.jp/keizai3/keizaiwp/wp-je91/wp-je91-00204.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "素材系では維持・補修の比率が高い一方、新製品・製品高度化や研究開発の比率は低い",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業には、自社の事業特性、投資目的、成果発現までの時間軸を踏まえ、成長、能力増強、生産性向上、維持・更新、撤退等の間で経営資源を適切に配分することが求められる",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同調査では設備投資の動機を「能力増強」「新製品・製品高度化」「合理化・省力化」「研究開発」「維持・補修」「その他」の6つに分類している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資動機別の構成比をみると、維持・補修の比率が上昇する一方、能力増強の比率は低下しており、新製品・製品高度化や研究開発の比率には大きな変化はみられない",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業では、新製品・製品高度化や能力増強等、将来の成長に向けた投資に加え、これまで蓄積してきた設備ストックについても、老朽化への対応、安全・品質の確保、省力化、供給能力の維持等のため、継続的な維持・更新投資が必要となる",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系はもともと維持・補修比率が高く、新製品・製品高度化や研究開発の比率が低い",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、加工・組立系では、新製品・製品高度化、研究開発の比重が相対的に高い",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、素材系で維持・補修が一貫して大きな比重を占め、加工・組立系でも近年その比重が高まっていることは、設備ストックを抱える製造業にとって既存設備の維持・更新が継続的な経営課題であることを示している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼業では、脱炭素化への対応として製造プロセスそのものの転換が課題となっており、既存設備の維持・更新に加えて、将来の生産方式を見据えた研究開発・設備投資が必要となっている（注5）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸送用機械製造業では、設備投資額が拡大し、新製品・製品高度化や研究開発等への投資比率を高水準で維持している一方、営業利益率、総資産営業利益率はいずれも後半の期間で低下している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、取締役会には、能力増強、新製品・製品高度化、研究開発、合理化・省力化、維持・更新等、投資目的別の構成やその変化を把握し、それが自社の経営戦略や事業ポートフォリオと整合しているかを確認することが求められる",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "具体的には、維持・更新投資が競争力の維持にどのような役割を果たしているのか、成長投資と既存設備への投資の配分に伴う機会費用をどう考えているのか、経営陣による投資後の成果検証を取締役会がどのように監督しているのか、といった点について対話を深めることが考えられる",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査が示すように、設備投資の構成は業種によって大きく異なり、成熟した設備基盤を持つ企業では、維持・更新も重要な資本配分の対象である",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業には、成長、能力増強、生産性向上、維持・更新等、必要性の異なる投資を自社の状況に応じて組み合わせることが求められる",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済産業省、国土交通省（2025）「「モビリティDX戦略」2025年のアップデート」59頁参照",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究開発税制は研究開発投資を押し上げているのか? ～自動車研究費急増からみる政策効果～",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究開発税制は研究開発投資をどの程度支えているのか?～実効補助率と国際比較からの再評価～",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済産業省、国土交通省（2025年）「「モビリティDX戦略」2025年のアップデート」",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2部 深刻化する人手不足と中小企業の生産性革命",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず直近の2017年度では、「維持更新」と回答する企業が最も多くなっており、更に10年を通じて、「維持更新」と回答する企業の比率が増加していることが確認できる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、付加価値拡大に資すると考えられる「生産（販売）能力の拡大」、「製（商）品・サービスの質的向上」と回答する企業の比率や、労働投入量の効率化に資すると考えられる「省力化合理化」と回答する企業の比率は、過去10年で低下傾向にあることが見て取れる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これまでに見てきたとおり、過去10年間で投資目的を維持更新とする企業の割合が高まってきたのは、このように設備の老朽化が進んでいることが背景にあるものと考えられる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼長期の推移では（10頁）、 ④「維持・補修」 ⑤「合理化・省力化」 ⑦「情報化関連」が上昇傾向であ",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑤合理化・省力化 23.4 25.0 25.8 23.4 ▲ 2.4 26.0 +2.6",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑨新製品の生産 6.2 6.2 4.7 4.4 ▲ 0.3 5.2 +0.8",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究開発 2.4 2.2 2.8 2.3 ▲ 0.5 2.5 +0.2",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4 合理化・省人化 輸送用機器製造業 ロボットによる部品搬送の自動化 人手不足が深刻",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「ヒトでなくても出来る仕事」を自動化し、能力ある従業員が活躍できる職場環境を整備するため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5 合理化・省人化 卸売業 自動断裁機・自動梱包機 高齢化で募集しても人材確保が困難",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6 合理化・省人化 金属製品製造業 自動計量器 手作業の計量・梱包を全自動化",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7 合理化・省人化 その他製造業 充填包装工程の自動化 自動化で省力化し、捻出したリソースを他事業へ充てるため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8 DX 電気機器製造業 生産システムの更新 現行システムの維持が難しいため、一般的なシステムへ刷新するため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "９ DX 小売業 AI活用による問い合わせ事務、経理事務合理化 AI・システム構築で時間・人的効率化を進め、少人数でのオペレーションを実現するため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10 コスト高・更新 卸売業 太陽光発電の導入 電気代の高騰に対応するため",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "からは、「人材不足を補うために、勤怠管理や業務日報のデジタル化を進めている",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「設備の代替」が60.8％で突出 大企業の半数近くが「デジタル投資」を計画",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業に対し、予定している設備投資の内容について尋ねたところ、入れ替えや交換、更新など「設備の代替」が60.8％と、調査を開始した2017年度以降初めて60％を上回り、トップとなった（複数回答、以下同）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "次いで、「既存設備の維持・補修」（30.7％）や省人化なども含む「省力化・合理化」（25.8％）、「DX（デジタルトランスフォーメーション）」（20.9％）、AIなど「情報化（IT化）関連」（20.3％）が続いた",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、「DX」「情報化（IT化）関連」のいずれかを選択した、『デジタル投資』を検討している企業は32.8％となった",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "具体的な投資内容は、設備の代替など更新需要のほか、深刻化している人手不足への対応や業務効率化を目的とした省力化投資およびデジタル投資関連も上位に並んだ",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2024年度実績の設備投資の目的をみると、「更新、維持・補修」の割合が 37.2％と最も高く、次いで「能力拡充」（ 25.1％）、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「新製品の生産、新規事業への進出、研究開発」（ 16.8％）の順となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度当初計画では、「更新、維持・補修」や「能力拡充」、「省力化・合理化」などの割合が上昇している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "進出、研究開発",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "更新、維持・補修",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度の修正動向は、製造業で食料品の更新投資が増加、非製造業では、卸・小売および宿泊が牽引し、",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度の投資動機の金額構成比は、「更新投資」が47.3％と最も高く、「能力拡充投資」「新分野投",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 製造業では、前回調査（修正計画）では増加となったが、鉄鋼および窯業・土石で機械装置の更新・能力",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 非製造業では、電力・ガスで電源設備の更新及び能力拡充投資、サービスで更新投資等により増加するも",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食料品 2,729 3,135 △52.0 14.9 13.8 製糖で製造設備の合理化投資により3年ぶりに増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電力・ガス 30,756 41,645 △0.7 35.4 370.2 電源設備の更新及び能力拡充投資により増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サービス 16,616 22,586 △17.1 35.9 203.0 リース業のリース用資産の更新投資等により3年ぶりに増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "飲食店・宿泊 2,518 4,072 △56.6 61.7 52.8 ホテル改造工事の更新投資により3年ぶりに増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 製造業では、中核産業となる食料品で、観光関連産業の需要増を受けた能力拡充投資により、回復基調と",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 非製造業では、電力・ガスで電源設備の更新及び能力拡充投資が継続、運輸で物流施設整備や輸送力増強",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "による能力拡充投資により増加するものの、不動産で商業用施設取得等の完了、飲食店・宿泊でホテル改",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼 353 458 △84.9 29.7 8.1 機械設備の更新投資により増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電力・ガス 41,645 44,490 35.4 6.8 218.5 電源・送配電設備の更新および能力拡充投資により増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "運輸 14,079 15,129 △19.5 7.5 80.6 モノレール増設工事の継続、物流施設整備等の能力拡充投資により増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "情報通信 3,366 3,639 △53.1 8.1 21.0 ネットワークエリアの拡大や通信拠点整備への能力拡充投資が継続",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3％、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 2025年度実績における設備投資を実施しない理由の上位は、①「現状で設備は適正水準」が61.7％、",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 設備投資額の増減率をみると、全産業の2025年度実績は2024年度実績対比+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度（2025年4月～2026年3月）に設備投資を実施する予定（計画）があるか尋ねたところ、設備投資計画が『ある』（「すでに実施した」「予定している」「実施を検討中」の合計）と回答した企業は前年（2024年度の設備投資計画、2024年4月に実施）から1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2024年度に海外拠点へ設備投資を実施した企業割合をみると、全規模は 23.5％と、2023年度実績（24.1％）から低下した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 「海外拠点があり設備投資を実施」と回答した企業の海外での設備投資の延べ件数を国・地域別に 集計、延べ投資件数全体に対する割合を求めたもの",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注1）実績等は､当該年度中に設備投資を実施（実施見込み）した回答企業数の割合で、2014～2021年度は実績、2022年度は実績見込である",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 設備投資環境について全産業の各種D.I.をみると、「売上･受注見通しD.I.」（22/03調査＋8.6%p",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "→23/03調査+36.8%p）及び「収益見通しD.I.」（同＋1.9%p →同+18.2%p)は2年連続で「かなり増",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "50.0(%p)",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「現有設備D.I.」（同△4.3%p→同△19.1%p)は、「やや不安がある+大いに不安がある」超となり、同",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「設備投資実施方針D.I.」（同＋7.2%p→同＋16.7%p）は、「積極的に実施＋ある程度前向きに実施」",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "50.0(%P)",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「設備リースD.I.」（同＋22.5%p→同＋29.2%p）は、「積極的に利用＋ある程度前向きに利用」超と",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「金融機関の貸出態度 D.I.」（同＋5.7%p→同△1.4%p）は、原材料や資材価格高騰による収益悪化や、",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Increased by 30% or more",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Increased by less than 10%",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Increased by 10% or more but less than 30%",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Employee compensation (95%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Dividend income (3%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Interest income (2%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Employee compensation (69%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Dividend income (9%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Interest income (9%)",
+    "url": "https://www.boj.or.jp/en/about/press/koen_2025/data/ko250516a1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Although the supply -demand gap has narrowed to nearly 0%, the economy is not yet",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・For AI robots, we aim to secure a global market share of over 30% and a market worth 20",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to continue expanding at an annual rate of approximately 10% in the domestic market. From",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "an annual rate of over 20%. As computing demand increases with the spread of AI, securing a",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・By FY2028, we aim for a 100% adoption rate of electronic health records (EHRs) among",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ By 2030, we aim to achieve an EHR adoption rate of approximately 100%, 100%",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to secure an approximately 25% share of global autonomous vehicle sales in the 2030s.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to secure a 10% share of the global optical transmission equipment market by 2030.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Submarine cables are the backbone carrying approximately 99% of Japan’s international",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to secure an approximately 35% global market share in submarine cables.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This is a rapidly expanding growth market, projected to grow at an annual rate of 20% or",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and secure 30% global market share by 2035.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to secure 20% share of the global market for Japanese products across a wide range of",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "while also targeting a global market share of approximately 40% for engines.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to increase the proportion of domestic satellites launched within Japan to 60 –80% or",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to capture a 30% share of the global market.",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to meet approximately 30% of the raw material demand for Permanent magnets",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Aim to achieve a 50% global market share in high -performance metals for aircraft engines",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and an 80% global market share in high -performance metals for semiconductor circuits by",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "we aim for approximately 40% of domestic production to be derived from recycle d",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026en.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "機械受注": [
+   {
+    "quote": "製造業（同＋14.8％）が食料品、自動車関連、一般機械などで増加に転じる一",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅱ. 設備投資の動向 １．2025年度の計画 ～製造業は食料品、自動車関連、一般機械を中心に増加～",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 2025年度は同＋14.8％と、食料品の新規設備導入や自動車関連、一般機械の設備更新などを中心に前年を上回る計画である（図表7）",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 一般機械69.2％（n=13） 卸売50.0％（n=32）",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "政府は2040年度の国内民間設備投資を年間250兆円程度まで高める経済の姿を描いている",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの「全国設備投資計画調査」によると、資本金10億円以上の製造業では、設備投資額はコロナ禍後に増加基調となり、2026年調査では2025年度の実績は約7兆円に達した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、設備投資額に占める維持・補修の割合は、2011年度の23.9％から2025年度には30.5％へ上昇し、約2.1兆円となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府は、成長戦略の実行を通じ、2040年度に国内民間設備投資を年間250兆円程度まで高める経済の姿を描く",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料1は、日本政策投資銀行（以下「DBJ」）が毎年公表している「全国設備投資計画調査」の2011年度以降のデータに基づき、我が国の資本金10億円以上の製造業企業について、投資動機別投資額の推移を示したものである（注1）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同調査では設備投資の動機を「能力増強」「新製品・製品高度化」「合理化・省力化」「研究開発」「維持・補修」「その他」の6つに分類している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資額は、2011年度以降さほど大きくは伸びていないものの、コロナ禍後は増加基調にあり、2025年度実績では約7兆円の規模となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その中で、維持・補修の割合は2011年度の23.9％から2025年度の30.5％へ上昇し、金額としても約2.1兆円まで拡大している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査からその要因まで特定することはできないが、必要とされる設備投資の内容が産業によって一様ではないことは示唆される",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでは、前章で確認したように業種によって設備投資の動機別構成が異なることを踏まえ、具体的な業種について、投資構成と財務成果がどのように変化しているかを、財務省「法人企業統計」のデータも用いて確認する（注2）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "併せて、法人企業統計から両業種の収益性等の財務指標を抽出し、設備投資の状況と財務成果が両期間でどのように変化したかを比較する（資料3）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査が示すように、設備投資の構成は業種によって大きく異なり、成熟した設備基盤を持つ企業では、維持・更新も重要な資本配分の対象である",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの「全国設備投資計画調査」では、2010年度調査までは設備投資額および投資動機を事業基準分類（企業の事業部門を基に分類）で、2011年度調査以降は主業基準分類（企業の主たる事業に基づき分類）で集計している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本稿では各年度の公表値を用いるため、集計基準の一貫性を確保する観点から2011年度以降を分析対象とした",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、DBJ調査における設備投資は「自社の有形固定資産に対する国内投資（ただし、不動産業における分譲用を除く）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここでは財務省「法人企業統計」の年次別調査を用いた",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資については、DBJ調査が有形固定資産への国内投資を対象とすることを踏まえ、法人企業統計の「設備投資（ソフトウェアを除く）」を使用した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、両統計は調査対象、設備投資の定義等が異なるため、金額水準を直接比較するものではない",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下では、内閣府・財務省「法人企業景気予測調査」を用いて、過去10年の中小企業の投資目的別の設備投資スタンスについて確認する（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず直近の2017年度では、「維持更新」と回答する企業が最も多くなっており、更に10年を通じて、「維持更新」と回答する企業の比率が増加していることが確認できる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、付加価値拡大に資すると考えられる「生産（販売）能力の拡大」、「製（商）品・サービスの質的向上」と回答する企業の比率や、労働投入量の効率化に資すると考えられる「省力化合理化」と回答する企業の比率は、過去10年で低下傾向にあることが見て取れる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業と大企業の設備年齢がほぼ同水準だった1990年の設備年齢指数をそれぞれ100としてその推移を見てみると、足下の2016年度において大企業の設備年齢指数は148.6と1990年から約1.5倍となっているのに対し、中小企業の設備年齢指数は194.1と約2倍にまで増加しており、中小企業の設備が大企業の設備に比して老朽化が進んでいることが分かる（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2026年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 調査要領、調査回答企業の属性、業況",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 目的・内容 ○中小企業の国内設備投資動向（注）の調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対象年度の設備投資について、夏・冬の2回に分けて調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○冬調査 ： （Ｃ）当年度の実績見込 （Ａ）翌年度の当初計画",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○夏調査 ： （Ｄ）前年度の実績 （Ｂ）当年度の修正計画（今回）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 調査時点 2026年7月1日現在（調査期間：2026年6月26日～2026年7月24日）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４ 企業数 アンケートの郵送送付先数 10,806社（回収率39.3％）有効回答数 4,246社",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "５ 調査方法 WEB画面での回答によるアンケート調査（注）2025年1月調査までは、調査票（郵便で返送）による回答方式、WEB画面での回答方式を併用",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "照会先 商工中金 RM推進部 齊藤Email chosa■gm.shokochukin.co.jp（■を@に変換）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答企業数 構成比(％) 回答企業数 構成比(％) 回答企業数 構成比(％)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年度実績で製造業＋7.3％、非製造業+20.0％と、非製造業",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 設備投資「有」比率…2025年度実績は高水準、2026年度修正計画も近年の同時点を上回る",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3％、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の設備投資に関する企業の意識調査｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の設備投資に関する企業の意識調査",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資計画が『ある』企業の割合は前年比1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※株式会社帝国データバンクは、全国2万6,590社を対象に「設備投資」に関するアンケート調査を実施した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、設備投資に関する調査は2017年4月以降、毎年4月に実施、今回で9回目",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査期間：2025年4月16日～4月30日（インターネット調査）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査対象：全国2万6,590社、有効回答企業数は1万735社",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度（2025年4月～2026年3月）に設備投資を実施する予定（計画）があるか尋ねたところ、設備投資計画が『ある』（「すでに実施した」「予定している」「実施を検討中」の合計）と回答した企業は前年（2024年度の設備投資計画、2024年4月に実施）から1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業では、設備投資予定額は平均で1億2,429万円[1]となり、前年（1億2,705万円）から276万円減少した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一歩間違えれば倒産につながる」（建設）といった厳しい声のほか、「2024年度に業務用PCやサーバーなどの入れ替えを行ったため、今年度は投資する予定はない」（機械・器具卸売）などの声が寄せられた",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業に対し、予定している設備投資の内容について尋ねたところ、入れ替えや交換、更新など「設備の代替」が60.8％と、調査を開始した2017年度以降初めて60％を上回り、トップとなった（複数回答、以下同）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "予定している設備投資の内容 ～上位10項目～（複数回答）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業に対して、主な資金調達方法を尋ねたところ、「自己資金」が57.6％で最も高かった",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資を「予定していない」企業に対して、設備投資を行わない理由を尋ねたところ、「先行きが見通せない」が47.9％で最も高く、前年からの上昇幅（＋3.8ポイント）が最も大きい項目となった（複数回答、以下同）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資を予定していない理由 ～上位10項目～（複数回答）",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査の結果、2025年度は企業の57.4％が設備投資の予定（計画）が『ある』としているが、その割合は2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "DBJの「全国設備投資計画調査」によると、資本金10億円以上の製造業では、設備投資額はコロナ禍後に増加基調となり、2026年調査では2025年度の実績は約7兆円に達した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、設備投資額に占める維持・補修の割合は、2011年度の23.9％から2025年度には30.5％へ上昇し、約2.1兆円となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料1は、日本政策投資銀行（以下「DBJ」）が毎年公表している「全国設備投資計画調査」の2011年度以降のデータに基づき、我が国の資本金10億円以上の製造業企業について、投資動機別投資額の推移を示したものである（注1）",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資額は、2011年度以降さほど大きくは伸びていないものの、コロナ禍後は増加基調にあり、2025年度実績では約7兆円の規模となった",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料1の製造業をさらに、素材系と加工・組立系に分け（注1）、投資動機別設備投資額の推移を示したものが資料2である",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJの「全国設備投資計画調査」では、2010年度調査までは設備投資額および投資動機を事業基準分類（企業の事業部門を基に分類）で、2011年度調査以降は主業基準分類（企業の主たる事業に基づき分類）で集計している",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プライム市場の独立社外取締役過半会社は3割を超えた ～継続上場会社にみる増加の実態～",
+    "url": "https://www.dlri.co.jp/report/asset/654504.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず直近の2017年度では、「維持更新」と回答する企業が最も多くなっており、更に10年を通じて、「維持更新」と回答する企業の比率が増加していることが確認できる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業と大企業の設備年齢がほぼ同水準だった1990年の設備年齢指数をそれぞれ100としてその推移を見てみると、足下の2016年度において大企業の設備年齢指数は148.6と1990年から約1.5倍となっているのに対し、中小企業の設備年齢指数は194.1と約2倍にまで増加しており、中小企業の設備が大企業の設備に比して老朽化が進んでいることが分かる（",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼４．設備投資額の増減率",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 設備投資の目的…情報化関連が増加",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 設備投資額の増減率…引き続き増加、非製造業の伸びがけん引",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 製造業の2025年度実績は、設備投資「有」企業が73.1％と、前年度比0.4pt上昇",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度修正計画は、「有」企業が66.1％と、前年度比2.0pt上昇",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．設備投資額の増減率①(全産業)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 設備投資額の増減率をみると、全産業の2025年度実績は2024年度実績対比+14.8%",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "［図表4-1］年度別設備投資額増減率の推移（全産業、当初計画→修正計画→実績見込→実績）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注1）当初計画の前年比増減率は、前年度実績見込比の増減率",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注2）前回調査と今回調査で連続して回答を得られた企業を対象に集計（50億円以上の大口投資は除いて算定）",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注3）2021年1月調査より、従来の土地、建物、機械に加え、ソフトウェア投資額についても調査",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．設備投資額の増減率②(製造業)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 製造業の設備投資額の増減率は、2025年度実績で2024年度実績対比＋7.3％",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "［図表4-2］年度別設備投資額増減率の推移",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．設備投資額の増減率③(非製造業)",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 非製造業の設備投資額の増減率は、2025年度実績で2024年度実績対比+20.0％",
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資計画が『ある』企業の割合は前年比1.3ポイント減の57.4％となり、2年連続で低下した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、設備投資を「予定していない」企業は前年比1.3ポイント増の34.4％に達し、その半数近くが「先行きが見通せない」ことを理由にしている",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度に設備投資の予定（計画）が『ある』企業では、設備投資予定額は平均で1億2,429万円[1]となり、前年（1億2,705万円）から276万円減少した",
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2024年度実績は、2023年度実績に比べて8.4％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2025年度当初計画は、2024年度実績に比べて8.1％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度当初計画比では、0.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 国内設備投資額の 2024年度実績・ 2025年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 本調査では、百万円単位で集計を行っている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2024年度実績は、 2023年度実績に比べて 8.4％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度当初計画は、 2024年度実績に比べて 8.1％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "0.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2024年度実績では、 2023年度実績に比べて、全 17業種中 12業種で増加した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度当初計画では、 2024年度実績に比べて、 12業種で減少した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－３ 設備投資額の目的別構成比の推移",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）設備投資額の目的別増減率（ 2024 年度当初計画比）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度計画は、製造業で景気回復を受けた投資再開により増加（19.0％増）と",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なるも、非製造業は大型投資一服により減少（2.2％減）し、全産業では、ほぼ",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 計画保有率は64.1％と2年連続増加、投資意欲は前向きな姿勢が窺え、今後の",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増減率は対前年度比）は、製造業で25.2％減、非製造",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業で1.2％減となり、全産業では2.7％減（除く電力･ガス17.6％減）と4年連続の減少となった",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度の修正動向は、製造業で食料品の更新投資が増加、非製造業では、卸・小売および宿泊が牽引し、",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度当初計画の設備投資計画保有率は64.1％と2年連続増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 23年度計画は、製造業で景気回復を受けた投資再開により増加（19.0％増）となるも、非",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は大型投資一服により減少（2.2％減）し、全産業ではほぼ横ばいとなる",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 計画保有率は64.1％と2年連続増加、投資意欲は前向きな姿勢が窺え、今後の設備投資は回",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 伸び率の推移をみると、全産業では19年度より5年連続で減少となる",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表1 2022・2023年度 設備投資動向 図表2 設備投資計画の伸び率の推移",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄鋼 2,338 353 ｘ △84.9 △67.5 機械装置設置完了、調達コスト増に起因した計画の先送りにより減少",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食料品 2,729 3,135 △52.0 14.9 13.8 製糖で製造設備の合理化投資により3年ぶりに増加",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "窯業・土石 1,302 1,093 △50.5 △16.1 △7.1 機械装置設置完了により減少",
+    "url": "https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（※製造業：130社、非製造業：159社、資本金1億円以上：51社、５千万円～１億円未満：68社、５千万円未満：170社）",
+    "url": "https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T02:53:39.107483+00:00"
+}

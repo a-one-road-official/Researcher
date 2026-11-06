@@ -1,0 +1,787 @@
+{
+ "name": "金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く）",
+ "en": "largest metal additive manufacturing service order Japan",
+ "aliases": [
+  "金属積層造形 受託 大型案件 受注額 -工作機械受注",
+  "金属3Dプリンター 量産受託 受注 億円",
+  "金属AM 受託 契約 億円 プレスリリース"
+ ],
+ "context": "国内・最大",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:49:32.641449+00:00",
+ "evidence": {
+  "1件の単価": [
+   {
+    "quote": "European Patent 3781344.",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   }
+  ],
+  "受託会社の売上": [
+   {
+    "quote": "AML3D Delivers Record FY2026 Revenue and Reports H2 Profit",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D Delivers Record FY2026 Revenue and Reports Second Half Profit Highlights Revenues including lease income increased by 70% year on year to a record $12.5 million. An EBITDA of $608,000 was recorded for the second half of FY2026. Confirmed order booked peaked at a record intra year high of $29 million during FY2026. $16.8 million…",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "about AML3D Delivers Record FY2026 Revenue and Reports H2 Profit",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "According to VoxelMatters’ new annual Additive Manufacturing Market 2025 report, the global AM industry generated nearly $12.3 billion in revenue in 2024. We forecast that this figure will grow significantly to $108 billion by 2034, supported by a strong compound annual growth rate of 24.4%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, the core AM market—encompassing hardware, materials, and services—generated $12.3 billion in revenue, with hardware accounting for $5.5 billion, services for $4.3 billion, and materials for $ 2.4 billion.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", having introduced the first commercial stereolithography (SLA) printer—the SL-1—in 1988. Currently, it ranks as the second-largest AM company by revenue, although its financial performance has declined in recent years. In 2024, 3D Systems reported revenue of $440 million, reflecting a 10% year-over-year drop and marking its weakest performance since 2012.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise went public in 2014 and reported total revenue of €266.8 million in 2024",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "$57.8 million in revenue for 2024, reflecting a 2.6% year-over-year increase",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon SLM reported €150 million in revenue, a 36% year-over-year increase",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, Stratasys reported $572.5 million in revenue, an 8.8% decline from $627.6 million the previous year",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymer additive manufacturing continues to lead the AM market in overall value, generating $7.4 billion in revenue in 2024. Driven by a wide range of industrial and consumer applications, the segment is projected to reach $46 billion by 2034, growing at a 20.1% compound annual growth rate.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing followed closely, with $4.7 billion in 2024 revenue. Supported by strong adoption in sectors such as aerospace, energy, and healthcare, the segment is on track to grow to nearly $60 billion by 2034, at a projected CAGR of 29%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry posts record Q3 revenue of $252 million and raises 2026 outlook",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "path planning and print simulation accelerates the prototype making proof-of-concept to production process as the tooling process is negated.",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AS 9100D for Aerospace",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D joins A$3.9M Advanced Aerospace Manufacturing Project",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "about AML3D joins A$3.9M Advanced Aerospace Manufacturing Project",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ARCEMY® X Operational at US Defence and Industry Supplier Fastech Highlights AML3D completes on-time commissioning of a large scale, ARCEMY® X system at US Defense, Aerospace, Energy and industry supplier FasTech. The installation completes the $1.7 million order and enhances FasTech’s 3D metal printing capabilities and AML3D’s US profile. The order demonstrates AML3D’s ability to…",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "~$1.7 Million ARCEMY® Order from US Defence and Industry Supplier. Highlights ~$1.7 million1 ARCEMY® X order expands US 3D metal printing supplier FasTech‘s capabilities and AML3D’s US profile. FasTech provides additive manufacturing services to the US Defense, Aerospace, Energy and other high-demand industrial sectors. The FasTech order will allow AML3D to leverage ARCEMY®‘s success in…",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Certified AS 9100D for Aerospace Compliance",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to AM within the aerospace sector, AS9100D plays a crucial role in guaranteeing the integrity and consistency of 3D-printed components. Aligning AM processes with AS9100D ensures high-quality parts with AML3D's WAM",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to AM within the aerospace sector, AS9100D plays a crucial role in guaranteeing the integrity and consistency of 3D-printed components. Aligning AM processes with AS9100D ensures aerospace manufacturers can produce high-quality parts with AML3D's WAM system.",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor applications are a major driver for 3D Systems’ metal AM hardware. To learn more, click on the image and access the upcoming webinar hosted by VoxelMatters",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The company is also a major material provider, offering proprietary photopolymers, SLS powders, and dental resins through its 2017 acquisition of NextDent. Its solutions serve various industries, including healthcare, dental, aerospace, and consumer goods.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Closely integrated with GE’s own production, Colibrium platforms are widely used for end-use aerospace parts. Using metal L-PBF technology, GE Aerospace has produced tens of thousands of fuel nozzles and consolidated over 150 components into a single turbine center frame casing using additive manufacturing. In electron beam powder bed fusion (EB-PBF), one of the main recent highlights was",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", while the H3 metal binder jetting system is still in the early phases of adoption. Colibrium’s materials division includes AP&C, a key supplier of aerospace-grade metal powders, such as titanium and nickel superalloys.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In metal AM, EOS’s direct metal laser sintering (DMLS) systems—particularly the EOS M 400 series—are utilized by major aerospace companies for both prototyping and certified production. MTU Aero Engines manufactures critical engine components for Airbus platforms, while Relativity Space has employed EOS systems in early-stage rocket development. Honeywell Aerospace and",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", acquired in 2009, develops high-performance composite selective laser sintering (SLS) powders—including carbon fiber- and flame-retardant-filled nylons—designed for demanding aerospace and defense applications.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", solidifying its role as a major player in the additive manufacturing market. Founded in 2000, the company supports industries such as aerospace, medical, and footwear with advanced 3D printing solutions and a complete technology ecosystem—including proprietary hardware, software like Polydevs and Unionfab ONE, and materials developed through its R&D division and subsidiary Synthestic.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", reflecting a 4.2% increase from the previous year, driven by strong growth in its medical division.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", initially part of MCP Tooling Technologies and operating under the SLM Solutions name since 2011, was acquired by Nikon Corporation in 2022. Now integrated into Nikon’s Advanced Manufacturing division, the company develops large-format, multi-laser laser powder bed fusion (LPBF) systems for industrial metal additive manufacturing.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon AM Synergy, formerly known as Morf3D, serves as Nikon’s U.S.-based center for secure aerospace and defense additive manufacturing programs",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", founded in 1989 by FDM inventor Scott Crump, has maintained a significant role in industrial polymer 3D printing. Its 2012 merger with Objet Geometries introduced PolyJet material jetting to its technology portfolio, expanding its market presence in the medical, dental, and prototyping sectors.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing followed closely, with $4.7 billion in 2024 revenue. Supported by strong adoption in sectors such as aerospace, energy, and healthcare, the segment is on track to grow to nearly $60 billion by 2034, at a projected CAGR of 29%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Serial ceramic medical parts produced by Bosch Advanced Ceramics.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", enabling the production of dense, high-precision parts. Based in Austria, Lithoz focuses on materials such as alumina, zirconia, and tricalcium phosphate, with systems widely used in dental, aerospace, and biomedical applications where accuracy and material performance are critical.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". Its technology supports the production of intricate technical ceramics, often for use in medical and aerospace applications. The company also offers post-processing and customization services, positioning it as a full-solution provider for clients with specific performance or regulatory needs.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "enable a digitally driven, on-demand manufacturing experience reducing freight costs and time with systems located near-to-demand in a manufacturing facility, or at a client's location such as a shipyard. Design for Additive Manufacturing processes, combined with WAMSoft",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO9001 Quality Management Systems (QMS) Certification",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DNV Approved Maritime Manufacturer Certification",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "First ARCEMY® Systems Operational at Largest U.S. Military Shipbuilder",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "First ARCEMY® Systems Operational at Largest U.S. Military Shipbuilder. Highlights AML3D completes an initial ~$4.5 million order for two custom, large scale, ARCEMY® X systems for Newport News Shipbuilding (“NNS”). NNS is a division of HII, the largest military ship builder in the USA. A second ~$9.9 million NNS order for four additional custom, large…",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "about First ARCEMY® Systems Operational at Largest U.S. Military Shipbuilder",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "First portable ARCEMY® System online at US Navy Additive Manufacturing Centre of Excellence Highlights Austal USA and AML3D expand partnership to further support Maritime Industrial Base. AML3D delivers the first portable ARCEMY® system to the US Navy’s Additive Manufacturing Centre of Excellence (AM CoE) in Danville, Virginia. Installation of the shipping container mounted ARCEMY® small…",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "$9.9M ARCEMY X Order from US Military Shipbuilder: HII-NNS",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "~$9.9 Million ARCEMY® X Order from Largest US Military Shipbuilder Highlights The ~$9.9 million order for four ARCEMY® X systems has been placed by Newport News Shipbuilding (‘NNS’). The order will bring the number of ARCEMY® X systems at NNS, a division of HII to six. HII is the largest U.S. military shipbuilder. Increasing the…",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "about $9.9M ARCEMY X Order from US Military Shipbuilder: HII-NNS",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Without certification, parts cannot be approved for use. In 2018, AML3D became the world's first facility to receive the “Additive Manufacturing Facility Qualification”.",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to AM within the aerospace sector, AS9100D plays a crucial role in guaranteeing the integrity and consistency of 3D-printed components. Aligning AM processes with AS9100D ensures high-quality parts with AML3D's WAM",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Without certification, parts cannot be approved for use. In 2018, AML3D® became the worlds first facility to receive the “Additive Manufacturing Facility Qualification”.",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AS9100D",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to AM within the aerospace sector, AS9100D plays a crucial role in guaranteeing the integrity and consistency of 3D-printed components. Aligning AM processes with AS9100D ensures aerospace manufacturers can produce high-quality parts with AML3D's WAM system.",
+    "url": "https://aml3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": ". These systems deliver high accuracy and a superior surface finish, supported by an integrated workflow that includes Form Wash, Form Cure, and automated post-processing tools.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", along with an expanding set of workflow automation tools, powder handling systems, and post-processing equipment. It has also adopted a service-oriented model, offering 3D-as-a-Service (3DaaS) packages that include automated material replenishment, maintenance, and usage analytics.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", and surpassed 1,000 installed systems worldwide. Its flagship system, the NXG XII 600, features 12 lasers and an exchangeable build cylinder, targeting the production of complex parts in materials such as titanium, Inconel, and aluminum alloys.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". Its technology supports the production of intricate technical ceramics, often for use in medical and aerospace applications. The company also offers post-processing and customization services, positioning it as a full-solution provider for clients with specific performance or regulatory needs.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "According to VoxelMatters’ new annual Additive Manufacturing Market 2025 report, the global AM industry generated nearly $12.3 billion in revenue in 2024. We forecast that this figure will grow significantly to $108 billion by 2034, supported by a strong compound annual growth rate of 24.4%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymer additive manufacturing continues to lead the AM market in overall value, generating $7.4 billion in revenue in 2024. Driven by a wide range of industrial and consumer applications, the segment is projected to reach $46 billion by 2034, growing at a 20.1% compound annual growth rate.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramics AM is [also] the fastest-growing category, projected to reach $2.5 billion by 2034, with a compound annual growth rate of 31.2%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/782293",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/japan/JSWZ5POQRJPCNC5QISWKQPVM4Q-2025-10-09/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC093RK0Z00C26A4000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/793261",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC279AA0X20C26A4000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jiji.com/jc/article?k=2026101500241&g=eco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/956225?display=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/st/202686471978/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/japan/7ONG4WEYDRMV5F4LSZRWVUD7EQ-2026-06-17/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaikaitori-center.com/2023/03/20/%E7%B5%8C%E5%96%B6%E3%81%AB%E3%81%AF%E3%80%8C%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E7%B5%B1%E8%A8%88%E3%80%8D%E3%81%A8%E3%80%8C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E7%B5%B1%E8%A8%88%E3%80%8D%E3%81%8C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/953370?display=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report_detail/id=113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciaky.com/largest-metal-3d-printer-available",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1k0qy4n/so_is_the_metal_3d_printing_party_over_usa/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aml3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/303878/meld-partners-with-sumitomo-to-expand-large-format-metal-3d-printing-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oneclickmetal.com/from-prototype-to-serial-production-scaling-metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17452759.2021.2018938",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/3dprintcom/posts/in-this-edition-of-ampulse-asia-sangmin-lee-for-ampulse-online-leads-with-chinas/1809496691217116/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く） 単価 万円",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/782293",
+    "https://www.reuters.com/jp/markets/japan/JSWZ5POQRJPCNC5QISWKQPVM4Q-2025-10-09/",
+    "https://news.sharelab.jp/3dp-news/report/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4/",
+    "https://www.nikkei.com/article/DGXZQOUC093RK0Z00C26A4000000/",
+    "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://www.jiji.com/jc/article?k=2026101500241&g=eco",
+    "https://monoque.jp/st/202686471978/",
+    "https://toyokeizai.net/articles/-/920634?display=b",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く） 費用 相場",
+   "results": [
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jampt.jp/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://mono.ipros.com/cg2/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%A9%9F/",
+    "https://monoque.jp/feature/contents/c6afc37597db46a301484f8dae31a78322992c4f/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く） 最大 受注 億円",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/793261",
+    "https://www.nikkei.com/article/DGXZQOUC279AA0X20C26A4000000/",
+    "https://www.jiji.com/jc/article?k=2026101500241&g=eco",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://toyokeizai.net/articles/-/956225?display=b",
+    "https://monoque.jp/st/202686471978/",
+    "https://www.jmtba.or.jp/statistics/",
+    "https://seizougenba.com/node/14517",
+    "https://newswitch.jp/p/11424",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く） 量産 受注 年間",
+   "results": [
+    "https://www.reuters.com/jp/world/japan/7ONG4WEYDRMV5F4LSZRWVUD7EQ-2026-06-17/",
+    "https://www.jiji.com/jc/article?k=2026101500241&g=eco",
+    "https://www.nikkei.com/article/DGXZQOUC279AA0X20C26A4000000/",
+    "https://www.jmtba.or.jp/statistics/",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "https://www.nikkan.co.jp/articles/view/782293",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://kikaikaitori-center.com/2023/03/20/%E7%B5%8C%E5%96%B6%E3%81%AB%E3%81%AF%E3%80%8C%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E7%B5%B1%E8%A8%88%E3%80%8D%E3%81%A8%E3%80%8C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E7%B5%B1%E8%A8%88%E3%80%8D%E3%81%8C/",
+    "https://toyokeizai.net/articles/-/953370?display=b",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く） 売上高 受託",
+   "results": [
+    "https://jampt.jp/",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.nikkei.com/article/DGXZQOUC279AA0X20C26A4000000/",
+    "https://www.nikkan.co.jp/articles/view/793261",
+    "https://www.jmtba.or.jp/statistics/",
+    "https://www.reuters.com/jp/markets/japan/JSWZ5POQRJPCNC5QISWKQPVM4Q-2025-10-09/",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://www.jiji.com/jc/article?k=2026101500241&g=eco",
+    "https://tasuichi.jp/2026/04/10/国内の金属3dプリンター受託造形企業まとめ：pbf・ded/"
+   ]
+  },
+  {
+   "query": "largest metal additive manufacturing service order Japan price per part",
+   "results": [
+    "https://www.sciaky.com/largest-metal-3d-printer-available",
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.reddit.com/r/3Dprinting/comments/1k0qy4n/so_is_the_metal_3d_printing_party_over_usa/",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "https://additiveplus.com/metal-3d-printing-cost-in-2026-what-lpbf-parts-actually-cost-and-why/"
+   ]
+  },
+  {
+   "query": "largest metal additive manufacturing service order Japan largest contract million",
+   "results": [
+    "https://www.3dsystems.com/press-releases/3d-systems-receives-9-million-contract-award-us-air-force-advanced-large-format",
+    "https://aml3d.com/",
+    "https://www.defenseandmunitions.com/news/3d-systems-receives-7-million-dollar-plus-contract-from-us-air-force-for-advanced-metal-printing-system/",
+    "https://www.youtube.com/watch?v=Lu7c74EMuZ4",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://3dprint.com/303878/meld-partners-with-sumitomo-to-expand-large-format-metal-3d-printing-in-japan/",
+    "https://www.mhi.com/news/210708.html",
+    "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/"
+   ]
+  },
+  {
+   "query": "largest metal additive manufacturing service order Japan serial production long-term agreement value",
+   "results": [
+    "https://www.youtube.com/watch?v=Lu7c74EMuZ4",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://oneclickmetal.com/from-prototype-to-serial-production-scaling-metal-3d-printing/",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2021.2018938",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.facebook.com/3dprintcom/posts/in-this-edition-of-ampulse-asia-sangmin-lee-for-ampulse-online-leads-with-chinas/1809496691217116/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.additiveassurance.com/press.html",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/japan"
+   ]
+  },
+  {
+   "query": "largest metal additive manufacturing service order Japan revenue",
+   "results": [
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.grandviewresearch.com/horizon/outlook/metal-3d-printing-market/japan",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "https://www.linkedin.com/pulse/japan-metal-additive-manufacturing-software-tdsdf",
+    "https://revenuebase.ai/companies/browse/metal-additive-manufacturing-service-providers",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.6wresearch.com/industry-report/japan-metal-additive-manufacturing-market"
+   ]
+  },
+  {
+   "query": "site:note.com 金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く）",
+   "results": [
+    "https://note.com/kinzoku2/n/nd9351728b704",
+    "https://note.com/qy_research/n/n16bb29a944f8",
+    "https://note.com/marketindustry/n/n21673c8b1cee",
+    "https://note.com/edgeworks_tokyo/n/nbf2e5fb6bdfe",
+    "https://note.com/edgeworks_tokyo/n/n9772c8a7b6e4",
+    "https://note.com/edgeworks_tokyo/n/ne4fb28a0cfa1",
+    "https://note.com/sankituushin/n/n92a7f8828145"
+   ]
+  },
+  {
+   "query": "site:x.com 金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く）",
+   "results": [
+    "https://x.com/yokoito_am/status/2090287388908269783",
+    "https://x.com/jampt_official",
+    "https://x.com/industryJapan/status/2063035773985955913",
+    "https://x.com/industryJapan/status/2062152131273236946",
+    "https://x.com/MetalTechJapan/status/2044612456312615266",
+    "https://x.com/MTStokyoCEC",
+    "https://x.com/jampt_official/status/1968861562887700836"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く）",
+   "results": [
+    "https://jp.linkedin.com/company/nsc-am-advanced-solution",
+    "https://jp.linkedin.com/company/三菱商事テクノス　東京カスタマー・エクスペリエンス・センター",
+    "https://jp.linkedin.com/posts/yoichi-ito-77825928b_tctjapan-am-積層造形-activity-7403569001978912768-5qMe",
+    "https://www.linkedin.com/posts/hirotaka-kawagoe-012284184_金属技研-mtc-金属積層造形-activity-7450391212177649664-t_BE",
+    "https://www.linkedin.com/posts/三菱商事テクノス　東京カスタマー・エクスペリエンス・センター_additivemanufacturing-am-金属積層造形-activity-7444625820213534720-YkQ4",
+    "https://jp.linkedin.com/posts/sharelab-jp_金属am市場2034年に6兆円規模へvoxelmattersが最新市場レポート-activity-7328240169818505216-MPiF",
+    "https://jp.linkedin.com/posts/taiyo-nippon-sanso_大陽日酸-taiyonipponsanso-tctjapan-activity-7285226350456504320-cLlt"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く）",
+   "results": [
+    "https://www.facebook.com/jpShareLab/posts/日本の製造業革新に不可欠な金属積層造形技術の未来レポート公開-みずほ銀行みずほ銀行-産業調査部は2025年1月17日に自社ウェブサイト内mizuho-short/1197910572336433/",
+    "https://www.facebook.com/NikonGroupjp/posts/nikon-am-technology-center-japanを埼玉県行田市に開設最先端の金属アディティブマニュファクチャリング付加加工以下am技術の開発およ/936680661888050/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmg-moriが加工を受託お客様の金属積層造形の活用をサポート-am-lab-fab開設積層造形は従来の切削加工では困難な形状を造形することができるため近年飛/3122305414701699/",
+    "https://www.facebook.com/jpShareLab/posts/金属am市場2034年に9兆円規模へvoxelmattersが最新市場レポートを公開金属積層造形分野の専門調査会社voxelmattersは2025年に向けた最/1288246973302792/",
+    "https://www.facebook.com/metalprintj3d/posts/株式会社j３d-金属３dプリンター受託造形サービスご報告ｊ３ｄが３ｄ造形した作品技術の進化がdmg森精機殿主催第21回切削加工ドリームコンテスト先端加工部門/2560003864499837/",
+    "https://www.facebook.com/INTERMOLD/photos/am積層造形技術を武器に中部東海エリアでの新規案件獲得へam-expo名古屋出展申込を受付中です積層造形3dプリンティング専門展am-expo名古屋2026年5/1380604163859674/",
+    "https://www.facebook.com/GunmaAMPF/photos/先ほどのポストの通りgamは群馬県が実施する３d金属積層造形実用化支援事業を受託しam実用化の無料コンサルと試作造形群馬県から最大50万円の補助を行なってってお/484446654138917/"
+   ]
+  },
+  {
+   "query": "金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く） note 社長",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUC223A90S6A021C2000000/",
+    "https://note.com/factory_connectn/n/n24bf0dc7cf24",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://www.reuters.com/jp/markets/japan/JSWZ5POQRJPCNC5QISWKQPVM4Q-2025-10-09/",
+    "https://jampt.jp/",
+    "https://monoque.jp/st/12531455/",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://biz.nikkan.co.jp/brand/machinetools/feature/003/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く） X 投稿",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.ge.com/news/press-releases/ge-additive-accepts-the-worlds-largest-metal-3d-printers/jp",
+    "https://www.youtube.com/watch?v=eF2bMq6-VVM",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.jmtba.or.jp/statistics/",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://x.com/jampt_official",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3dprintermaker-japan-201023/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ]
+  },
+  {
+   "query": "largest metal additive manufacturing service order Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/industrial-metal-plastic-3d-printers-market-us-lwpkf",
+    "https://cn.linkedin.com/company/hbd-metal-3d-printer",
+    "https://in.linkedin.com/in/varmaefesto3dmetalprinting",
+    "https://www.linkedin.com/company/3d-systems",
+    "https://www.linkedin.com/company/eplus3d-additive-manufacturing",
+    "https://ca.linkedin.com/company/agile-manufacturing-inc",
+    "https://www.linkedin.com/company/big-metal-additive",
+    "https://au.linkedin.com/company/aml3d",
+    "https://sg.linkedin.com/in/yong-jimmy-87266b20",
+    "https://jp.linkedin.com/company/promethean-jp"
+   ]
+  }
+ ],
+ "missing": {
+  "最大案件・上限": "記載なし（読んだ45頁・検索16回）"
+ }
+}

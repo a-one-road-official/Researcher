@@ -1,4 +1,4 @@
-# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・34品目）
+# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・36品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3388,3 +3388,111 @@
   - 「企業規模別の経営上の問題点をみると、 従業員20人未満」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
   - 「の規模の小さい事業者は、 中小企業と比べ 「売上不振」 の」（https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2411.pdf）
 - 作る側の原価：記載なし（読んだ31頁・検索13回）
+
+## 中小企業景況調査 製造業 経営上の問題点 求人難 需要の停滞 時系列の表（中小機構・原表）（SME business conditions survey manufacturing top management problems labor shortage time series）
+- 文脈：①営業か採用か
+- 社数（規模別）：記載なし（読んだ21頁・検索13回）
+- 採用難（公的統計）：記載なし（読んだ21頁・検索13回）
+- 採用にいくら払うか：記載なし（読んだ21頁・検索13回）
+- 採用広報・採用サイトの単価：記載なし（読んだ21頁・検索13回）
+- 継続して払うか：記載なし（読んだ21頁・検索13回）
+- 作る側の原価：記載なし（読んだ21頁・検索13回）
+- どう買われるか：記載なし（読んだ21頁・検索13回）
+- 営業と採用のどちらに困っているか：記載なし（読んだ21頁・検索13回）
+- 前例の会社（製造業特化）：記載なし（読んだ21頁・検索13回）
+
+## 日本銀行 短観 雇用人員判断DI 製造業 規模別（大企業・中堅企業・中小企業）時系列の表（BOJ Tankan employment conditions DI manufacturing by size time series）
+- 文脈：②採用難
+- 社数（規模別）：
+  - 「「全国短観」は、総務省の「事業所・企業統計調査」をもとに、常用雇用者数50人以上（卸売業、小売業、サービス業、リース業は20人以上）の民間企業（金融・保険業を除く）を「母集団企業」（現行約16万社）とみなし、その中から、業種別および規模別（大企業、中堅企業、中小企業」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「「全国短観」では、常用雇用者数を基準にして、調査先企業を下図のように、大企業、中堅企業、中小企業の3つの規模に区分しています」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「集計値は、業種・規模別（計81層：27業種＜製造業17業種、非製造業10業種＞×3規模＜大企業、中堅企業、中小企業＞）に公表していますが、調査先企業の選定（抽出）や母集団推計値の算出に際しては、統計精度を向上させる観点から、より細かな区分（計118層）を設けています」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「300～999人」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「一方、「主要短観」は、原則として、「資本金10億円以上の上場企業（金融・保険業を除く）のうち、各業種の動向を概ね反映する主要企業」（現行約700社）を調査先としており、基本的に対象企業の見直しは行いません（ただし、合併や倒産等により対象企業数が減少するケースがあります）」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「「中小企業短期経済観測調査」の調査先企業（製造業・中小企業のみ）に、製造業（大企業、中堅企業）と非製造業（大企業、中堅企業、中小企業）を追加し、「全国企業短期経済観測調査」（全国短観）として調査を開始（対象は5,596社＜製造業4,243社、非製造業1,353社＞）」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「DI（％ポイント）=「第1選択肢の回答社数構成比（％）」-「第3選択肢の回答社数構成比（％）」」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「例えば、「業況判断DI」は、「収益を中心とした全般的な業況」に関する判断を示すもので、「1．良い」、「2．さほど良くない」、「3．悪い」という3つの選択肢の中から1つを回答してもらい、それぞれの回答社数の構成比を求めた上で、「1．良い」の社数構成比から「3．悪い」の社数構成比を引いて算出しています」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「2001年9月調査の「製造業・大企業」の業況判断（最近）をみると、3つの選択肢の回答社数構成比は、「1．良い」が5％、「2．さほど良くない」が57％、「3．悪い」が38％で、この結果、業況判断DIは、「5％-38％=△33％ポイント」となっています」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「これは、DIを算出する際、「1．良い」および「3．悪い」と回答した社数構成比を整数化（小数点第1位を四捨五入）しており、「製造業」、「非製造業」、「全産業」のそれぞれにおいて整数化を行う結果、「四捨五入のずれ」が生じているためです」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「集計データの利用に当たっては、それぞれの選択肢（「1、2、3」）の回答社数構成比をそのまま利用することもできますが、例えば、長期の動きを時系列でみる場合などには、やや煩雑な面があります」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「母集団推計値=（150／50）×200=600（1社当たりの平均売上高）×（母集団企業数）=（200社の売上高の推計値）」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「なお、業種は31種類（製造業17業種・非製造業14業種）、規模は3種類（大企業・中堅企業・中小企業）に分けられ、集計区分は合計で93種類に上ります」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+- 採用難（公的統計）：
+  - 「雇用人員判断DI｜短観9月調査に見る製造業の人手不足」（https://eiko-et.com/tankan-koyou/）
+  - 「本日のブログは、日本銀行の短観（全国企業短期経済観測調査）2026年9月調査に基づき、製造業の人手不足の状況についてお伝えします」（https://eiko-et.com/tankan-koyou/）
+  - 「その前提として必要なのは、自社の業種や規模における人手不足の程度を把握することであり、9月調査はそのための判断材料になります」（https://eiko-et.com/tankan-koyou/）
+  - 「では、9月調査で製造業の人手不足はどのように変化したのでしょうか」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは全規模合計で-29となり、6月調査の-27から人手不足感が強まりました」（https://eiko-et.com/tankan-koyou/）
+  - 「つまり、製造業の各社は、業況については慎重な見通しを示しながらも、人手不足感は12月まで緩和しないとみています」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+- 採用にいくら払うか：
+  - 「なお、DIの算出においては、企業規模の大小に基づくウェイト付けを行っておらず、いわば「1社1票」の単純平均の形をとっています」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「母集団推計値=（150／50）×200=600（1社当たりの平均売上高）×（母集団企業数）=（200社の売上高の推計値）」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「企業からの回答（調査表上の調査項目名は「輸出に際しての為替レート」）をもとに算出しますが、DIのように「1社1票」として、回答値を単純平均するのではなく、各企業の回答値を、当該企業の輸出額（円ベース）を用いて加重平均して算出しています」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「（1）調査先企業における売上高の母集団推計値の誤差率（母集団推計値が「真の値」から乖離する程度＜標準誤差／平均＞）が、概ね目標の範囲内（製造業3％、非製造業5％）に収まっていること」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「なお、「全国短観」では、調査先企業から回答が得られない場合、単純集計を行っている「判断項目」については、未回答部分が集計から除外される一方、「計数項目」については、母集団推計値の算出において、結果的に、当該企業が属する層（業種・規模別の118層のうち、当該企業が属する層）の平均値が代入される扱いとなっています」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「しかし、産業構造が大きくかつ急速に変化している昨今では、約5年間という見直しの間隔をより短縮した方が望ましいと考えられます」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「設備投資の年度計画について、調査回ごとの修正パターンをみると、例えば、大企業では、過去の平均をみると、初回調査（3月調査）から12月調査までは、計画未定の案件が確定したり、前年度案件のずれ込み分が上乗せされる等の要因から上方修正されます」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「これに対し、中小企業では、年度計画を事前に策定していない企業が多く、案件が実際に実施されるごとに、設備投資額に計上される傾向があるため、同じく過去の平均では、初回調査（3月調査）から実績調査（翌年6月調査）まで、ほぼ一貫して上方修正されるパターンとなっています」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「調査対象の企業は、資本金2,000万円以上の民間企業（約21万社）から、業種別・規模別の区分ごとに一定の基準を満たすように抽出された約9,000社です」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+  - 「2,000万円以上1億円未満」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+  - 「資本金2,000万円以上の全国の民間企業の中から、業種別・規模別に一定の基準を満たすように抽出されています」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+- 採用広報・採用サイトの単価：
+  - 「調査対象の企業は、資本金2,000万円以上の民間企業（約21万社）から、業種別・規模別の区分ごとに一定の基準を満たすように抽出された約9,000社です」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+  - 「2,000万円以上1億円未満」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+  - 「資本金2,000万円以上の全国の民間企業の中から、業種別・規模別に一定の基準を満たすように抽出されています」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+- 継続して払うか：
+  - 「この際には、調査先企業を全て入れ替えるのではなく、既存の調査先企業（継続標本）に新たな企業を追加するという形をとっています」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「11期連続での＋10％ポイント超えとなり、底堅さが継続する」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「販売価格の見通し：5年後＋5.2％とインフレマインドが継続する見通し」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「常に最新のデータを手元に：更新作業から解放」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「作成した分析表（Excelシート）は、更新ボタンひと押しで最新データに更新可能」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「コンプライアンス面でも安心なデータ運用をサポートします」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「＜2025/12/25 更新＞」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「1957年以来継続している統計調査で、各企業へのアンケート調査をもとに集計・公表されます」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+- どう買われるか：
+  - 「「主要短観」の補完調査として「金融機関の設備投資調査」を開始（対象は207社）」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「（1）調査対象範囲については、現行の「銀行」、「証券会社」、「保険会社」に加え、「信用金庫」、「系統金融機関等」、「貸金業・投資業等非預金信用機関」を追加する形で拡充します」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「これは、近年、金融機関の活動状況が景気に与える影響が高まっており、「国内景気の実態把握」のためには、金融機関の活動状況をより幅広く調査することが有用と考えられるためです」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「「貴社の資金繰り」や「金融機関の貸出態度」といった、企業金融関連のDIについては、「先行き」について企業が慎重に判断する傾向があります」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「（2003年度中を予定）では、こうした集計値としての一種のバイアスの存在に加え、他の調査項目の追加による調査先の回答負担等も踏まえ、「貴社の資金繰り」と「金融機関の貸出態度」について、「先行き」の判断項目調査を廃止する予定です（なお、「貴社の製商品在庫水準」と「貴業界製商品の流通在庫水準」についても、同様の理由から、「先行き」の判断項目調査を廃止する予定です）」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「短観に関するお問い合わせは、下記のいずれかにお願いします」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「契約形態の選定と単価の決定については、それぞれ別のブログでお伝えしているため、必要な範囲に絞ってご紹介します」（https://eiko-et.com/tankan-koyou/）
+  - 「この考え方は、弊社のコーポレートサイトの事業紹介ページに図解しています」（https://eiko-et.com/tankan-koyou/）
+  - 「日本銀行が12月に公表した「全国企業短期経済観測調査（日銀短観）」につき、データからわかる動向・特徴について紹介します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「今回紹介したデータだけでなく、過去の調査結果も含め、日銀短観データのすべてを収録しております」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「本記事でご紹介した分析は、当社が提供する経済統計データベース『」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「以下では、Accelがもたらす主なメリットをご紹介します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「企業の実体経済を把握する目的のため、金融機関などを除く点が特徴的です」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+  - 「金融機関については、日銀短観を補完する調査として金融機関調査が実施されています」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+  - 「ただし、金融機関や経営コンサルタント業など一部の業種は対象外です」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+- 営業と採用のどちらに困っているか：
+  - 「これは、DIを算出する際、「1．良い」および「3．悪い」と回答した社数構成比を整数化（小数点第1位を四捨五入）しており、「製造業」、「非製造業」、「全産業」のそれぞれにおいて整数化を行う結果、「四捨五入のずれ」が生じているためです」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「雇用人員判断DI｜短観9月調査に見る製造業の人手不足」（https://eiko-et.com/tankan-koyou/）
+  - 「本日のブログは、日本銀行の短観（全国企業短期経済観測調査）2026年9月調査に基づき、製造業の人手不足の状況についてお伝えします」（https://eiko-et.com/tankan-koyou/）
+  - 「その前提として必要なのは、自社の業種や規模における人手不足の程度を把握することであり、9月調査はそのための判断材料になります」（https://eiko-et.com/tankan-koyou/）
+  - 「では、9月調査で製造業の人手不足はどのように変化したのでしょうか」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは全規模合計で-29となり、6月調査の-27から人手不足感が強まりました」（https://eiko-et.com/tankan-koyou/）
+  - 「2026年9月調査の製造業の雇用人員判断DIは、全規模合計で-29、中小企業で-32です」（https://eiko-et.com/tankan-koyou/）
+  - 「図1 製造業の雇用人員判断DI（規模別）」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DI（2026年9月調査、％ポイント）」（https://eiko-et.com/tankan-koyou/）
+  - 「図2 2026年9月調査の雇用人員判断DI（製造業・全産業・非製造業）」（https://eiko-et.com/tankan-koyou/）
+  - 「製造業の雇用人員判断DIは、全規模合計で-29、中小企業で-32です」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DI：-27から」（https://eiko-et.com/tankan-koyou/）
+  - 「雇用人員判断DIが全産業で-38（前回調査-36）となり、企業の深刻な人手不足が継続」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+- 前例の会社（製造業特化）：
+  - 「短観の特徴は、企業活動全般を的確に把握する観点から、企業の定性的なマインドを問う「判断項目」に加えて、売上高や設備投資額等の定量的な「計数項目」（四半期計数、年度計数＜上期・下期計数＞）をあわせて調査していることです」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「また、DIと関連する計数項目（「業況判断DI」と「経常利益」・「売上高経常利益率」、「生産・営業用設備判断DI」と「設備投資額」、「雇用人員判断DI」と「雇用者数」など）を組み合わせて分析したり、足元と過去の類似する景気局面のDIを比較するなど、ユーザーの様々な目的に応じた分析を行うことが可能です」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「母集団の200社から50社を抽出して売上高を調査したところ、50社の合計売上高（単純集計値）が150だった場合」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「母集団推計値=（150／50）×200=600（1社当たりの平均売上高）×（母集団企業数）=（200社の売上高の推計値）」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「例えば、ある母集団から抽出した標本（調査先企業）が、当該母集団の平均的な企業よりも大きな企業ばかりであったとしたら、そこから得られる売上高や設備投資額等の母集団推計値は、真の値（全数調査を行った場合に得られるであろう集計値）よりも大きくなってしまう（過大推計となってしまう）はずです」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「（1）調査先企業における売上高の母集団推計値の誤差率（母集団推計値が「真の値」から乖離する程度＜標準誤差／平均＞）が、概ね目標の範囲内（製造業3％、非製造業5％）に収まっていること」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「現状では、各計数項目とも、概ね高い回答率を維持しているため、こうした処理方法に格別問題は生じていないと判断していますが、このうち、「売上高」、「経常損益」、「設備投資額」について、」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「（2003年度中を予定）のタイミングで、「売上高」、「経常損益」、「設備投資額」については、未回答計数の補完を上記の方法に切り替える方向で検討しています」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「以下の2パターンについて、売上高および設備投資額の母集団推計値に与える 影響（変動幅）を試算し、影響が小さい方を選択する」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「短観の調査先企業が合併・分社する場合には、母集団企業においても、同様の動きが発生していることは確かですが、調査先企業以外の動き（合併・分社、倒産、新企業の設立等）を含めた母集団企業の網羅的な動き（最新の「事業所・企業統計調査」からの変化）を正確に把握することは困難です」（https://www.boj.or.jp/statistics/outline/exp/tk/faqtk.htm）
+  - 「婚礼の現場からフリーのウエディングプランナーとして独立後、2015年に株式会社永光の代表取締役に就任し、2018年にウエディングプランナーの業務委託サービス「プラスワン・プランナー」を立ち上げる」（https://eiko-et.com/tankan-koyou/）
+  - 「全国約1万社の企業を対象に、年4回（3月、6月、9月、12月）四半期ごとに実施され、企業の業況や経済環境の現状・先行き（今後3か月）についての判断、売上高、収益、設備投資額などの事業計画の実績と予測値を調査します」（https://www.indb.co.jp/insight/economydata_2512_tankan_2/）
+  - 「日銀短観は統計調査で、企業の経営環境や売上高などについて企業から得た回答を集計・公表しています」（https://www.oanda.jp/lab-education/dictionary/nichigin_tankan/）
+- 作る側の原価：記載なし（読んだ23頁・検索13回）

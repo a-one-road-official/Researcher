@@ -1,0 +1,4539 @@
+{
+ "name": "短観 設備投資計画 規模別・製造業（日本銀行）",
+ "en": "BOJ Tankan capital investment plans by firm size manufacturing",
+ "aliases": [
+  "短観 設備投資計画 中小企業 製造業",
+  "日銀短観 設備投資 前年度比 規模別",
+  "短観 設備投資 推移"
+ ],
+ "context": "一次・日銀",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:56:11.522761+00:00",
+ "evidence": {
+  "推移": [
+   {
+    "quote": "2026年10月 1日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年9月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月 2日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年12月16日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年12月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別計数は、2020年3月調査より",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「企業の物価見通し」の概要は、2020年3月調査より「（参考）見通しの平均」の計数を",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年12月18日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年12月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "CPの発行環境＜発行企業ベース＞は、2014年3月調査より",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011年 4月 4日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011年3月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要短観（時系列データ、2003年12月調査まで）",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2022年3月調査から2023年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2020年3月調査から2021年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2014年3月調査から2019年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2004年3月調査から2013年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 4月16日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 4月 1日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 3月 6日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年7月1日（水）8:50発表",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本 日銀短観2026年4－6月期",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【1】結果：2026年4－6月期の日銀短観は改善、先行きは悪化予想で保守的な見方",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年4－6月期の日銀短観における、全規模全産業の業況判断DIは18ポイントで、前四半期から横ばいとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前回の2026年1－3月期時点の先行き予想では7ポイント低下の11ポイントが見込まれており、それと比較すると業況はポジティブな推移となりました（図表1、右）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で翌四半期（2026年7－9月期）の見通しは7ポイント低下の11ポイントが見込まれ、先行きは保守的な見方が示されました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表1】企業規模合計・全産業の業況判断DIの推移（「良い」-「悪い」、％ポイント）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※右図薄色線は2026年1－3月期時点の先行き",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業は37ポイントと1ポイント改善も概ね横ばい推移しています",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表2】業態・企業規模別 業況判断DIの推移（「良い」-「悪い」、％ポイント）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の全産業における設備投資計画は、前期比6.8%増と前回（2026年1－3月期）から5.5ポイント上昇しました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この時期の設備投資計画としては2025年並みの水準と言えます（図表3-1）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、2025年度の設備投資実績は前期比9.4%増と、期中は伸び悩みながらも二桁に近い伸びとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-1】全産業 設備投資計画修正の推移（前年度比、％）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もっとも中小・非製造業は2025年度が見込み時点よりも大きく上振れて着地しており、その反動もあって伸び悩んでいるものと考えられます（図表3－2）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資を評価すると、外部の不確実性が高かったと言える2026年4－6月期の間に計画の上方修正が確認できたことは、需要の大きさが想起され、国内経済の底堅さにつながるものと評価しています",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、2026年度の業績見通しも中東情勢が緊迫化した局面を含む調査であったにもかかわらず、底堅い見通しが示されました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表4は、大企業における前回（2026年1－3月期）と今回の売上高・経常利益の前年同期比伸び率を確認したものです",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もっとも、ある種強気な設備投資計画にあるように、国内のマクロ経済は堅調に推移していくことが期待できるでしょう",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年 4 月 1 日",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観（2026 年 3 月調査）結果",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本日発表された日銀短観（2026 年 3 月調査）における大企業製造業の業況判断 DI（最近）は、前回調査から",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表 1 業況判断 DI の推移",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012 13 14 15 16 17 18 19 20 21 22 23 24 25 26",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月調査 2026年3月調査",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、新たに公表された 2026 年度の想定為替レートは 150.10 円／ドルと、最近の為替相場の実勢よりも円",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 設備投資計画～2026 年度の設備投資計画は大企業を中心に堅調",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度 2025年度 2026年度",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021 2022 2023",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024 2025 2026",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（前年度比、%） 【大企業製造業】",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【大企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年 9 月調査",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "FY2026 初出計画",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "温度判定は大企業 全産業 3 月初出計画を使用（過去 5 年は +3% 前後で推移、初出 2% 超は積極投資姿勢と読む）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "業種別計数は、2020年3月調査より",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業態・企業規模別に業況判断DIを確認すると、大企業は製造業が前四半期から5ポイント改善となる22ポイントとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、先行きの業況感は中堅・中小企業含め、どの企業規模でも低下する見込みです",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表2】業態・企業規模別 業況判断DIの推移（「良い」-「悪い」、％ポイント）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業態・企業規模別に設備投資計画を確認しても、中小・非製造業を除き、設備投資計画の上方修正が確認されました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表4は、大企業における前回（2026年1－3月期）と今回の売上高・経常利益の前年同期比伸び率を確認したものです",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表4】大企業 2026年度 売上収益計画の修正（前年同期比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 大企業の業況判断 DI～製造業は改善、非製造業は横ばい",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本日発表された日銀短観（2026 年 3 月調査）における大企業製造業の業況判断 DI（最近）は、前回調査から",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、加工業種は、内外の堅調な設備投資や AI 需要を背景に生産用機械やはん用",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、大企業非製造業の業況判断 DI（最近）は、前回調査から横ばいの 36 となった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "先行きについて、業況判断 DI（先行き）は、大企業製造業では 3 ポイント悪化の 14、大企業非製造業では 7",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "車などの輸出企業の業績が上振れる一因となる一方、輸入企業の多い非製造業や中小企業にとっては業績が",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表 2 大企業の業況判断 DI",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 中小企業の業況判断 DI～製造業は横ばい、非製造業は悪化",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の業況判断 DI（最近）は、製造業では前回調査から横ばいの 7、非製造業は 1 ポイント悪化の 16 と",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、製造業、非製造業ともに水準は高く、総じて見れば中小企業の業況感も、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表 3 中小企業の業況判断 DI",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 設備投資計画～2026 年度の設備投資計画は大企業を中心に堅調",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、中小企業では、製",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、中小企業については、製造業、非製造業ともに前年比マイナス圏からのスタートとなった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（前年度比、%） 【大企業製造業】",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【大企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "温度判定は大企業 全産業 3 月初出計画を使用（過去 5 年は +3% 前後で推移、初出 2% 超は積極投資姿勢と読む）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業は近年、初出 3% 前後 → 期中で +10% 超まで上方修正 → 翌 3 月実績見込でやや戻すパターンが定着している",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業の 3 月調査で公表される",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最新の 3 月初出計画（大企業 全産業）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "→ 🥵 熱い：大企業が積極的な投資姿勢を示唆",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観 設備投資計画（大企業 製造業／非製造業／全産業、ソフト・研開含む、除く土地）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業のみ収録（中堅・中小企業や規模合計、土地投資単独などは未収録）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最新の 3 月初出計画（大企業 全産業）で判定: < 0% で冷たい、0〜+2% で適温、> +2% で熱い",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業（大企業）の景況感が改善、非製造業は悪化",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "－悪い）は、製造業（大企業）で＋24 と前回 6 月調査の＋22 から 2 ポイント上昇し、6 四半期連続の改",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業（大企業）の業況判断 DI は＋35 と前回 6 月調査から 2 ポイント低下した",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の業況判断 DI は、製造業（6 月＋9→9 月＋14）が改善、非製造業（＋15→＋15）は横ばいとな",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業況判断DIの推移（大企業、％Pt） 業況判断DIの推移（中小企業、％Pt）",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "債券市場では、大企業製造業の業況判",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 1,071社 1,518社 2,589社 99.1% 2026年9月調査 ― ― ― 154.23 154.46 154.00",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 1,820社 3,064社 4,884社 99.6% 2026年6月調査 169.13 165.12 173.14 175.62 175.68 175.56",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属製品 11 0 16 5 8 -8 13 10 21 8 20 -1 3 0 13 10 13 0",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はん用機械 38 31 38 0 40 2 28 24 40 12 40 0 28 17 42 14 30 -12",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生産用機械 36 40 43 7 44 1 29 20 33 4 32 -1 6 0 20 14 13 -7",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電気機械 29 27 33 4 35 2 20 21 33 13 34 1 15 16 22 7 28 6",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業 21 14 20 -1 16 -4 3. 「造船・重機等」は自動車以外の輸送用機械",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考） 輸出企業の事業計画の前提となっている想定為替レート（大企業・製造業）",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業 中堅企業 中小企業 大企業 中堅企業 中小企業 大企業 中堅企業 中小企業 2026年6月調査 149.44 146.94 151.94 151.49 151.60 151.38",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 非製造業 5.1 ― 4.4 1.4 4.8 5.3 ― 5.9 1.5 3.0 1.3",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 非製造業 2.3 ― 0.9 1.0 2.9 1.9 ― 2.3 1.4 -0.3 0.7",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 非製造業 14.8 ― -2.2 3.1 14.9 14.8 ― 3.0 5.6 -6.5 0.8",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 非製造業 5.8 ― -6.3 2.8 5.7 6.0 ― 0.0 3.4 -11.2 2.2",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 非製造業 5.00 ― 4.69 0.08 4.75 5.24 ― 4.62 0.19 4.75 -0.03",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 非製造業 4.52 ― 4.20 0.07 4.14 4.88 ― 4.05 0.08 4.34 0.06",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 非製造業 16.7 ― 2.5 5.4 12.4 20.9 ― 6.9 8.6 -1.6 2.4",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 非製造業 5.5 ― -6.1 1.1 -3.8 14.0 ― 2.7 -0.7 -12.9 2.8",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 非製造業 6.4 ― 11.4 3.3 製造業 -4 -5 -5 -1 -6 -1",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "短観 : 日本銀行 Bank of Japan",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（クリックすると、政府統計オンライン調査総合窓口へ移動します）",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「短観」のオンライン調査システムの利用関係",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年9月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ZIPファイルは短観（概要）のうち1～9ページを掲載",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "エクセルファイルで、シートに分かれている内容を全て印刷したい場合は、プリンタに接続されているパソコンで、以下の作業を実施してください",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年12月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別計数は、2020年3月調査より",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「企業の物価見通し」の概要は、2020年3月調査より「（参考）見通しの平均」の計数を",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年12月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "CPの発行環境＜発行企業ベース＞は、2014年3月調査より",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011年3月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観では2004年3月調査から、集計区分を常用雇用者数基準から資本金基準に変更するとともに調査対象企業の大幅な見直しを実施しており、2003年12月調査と2004年3月調査で統計の不連続（段差）があります",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要短観（時系列データ、2003年12月調査まで）",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「短観（全国企業短期経済観測調査）」の解説",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「短観（全国企業短期経済観測調査）」のFAQ",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「短観（全国企業短期経済観測調査）」調査表および記入要領",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2022年3月調査から2023年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2020年3月調査から2021年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2014年3月調査から2019年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【日本】日銀短観4－6月期の業況感は横ばいも想定以上に底堅い 設備投資は上方修正 | 日本とアメリカの重要な経済指標を分かりやすく解説 | マネクリ マネックス証券の投資情報とお金に役立つメディア",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本 日銀短観2026年4－6月期",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【1】結果：2026年4－6月期の日銀短観は改善、先行きは悪化予想で保守的な見方",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年4－6月期の日銀短観における、全規模全産業の業況判断DIは18ポイントで、前四半期から横ばいとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "シャドーは景気後退期 出所：日本銀行よりマネックス証券作成",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※シャドーは景気後退期 出所：日本銀行よりマネックス証券作成",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の全産業における設備投資計画は、前期比6.8%増と前回（2026年1－3月期）から5.5ポイント上昇しました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、2025年度の設備投資実績は前期比9.4%増と、期中は伸び悩みながらも二桁に近い伸びとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-1】全産業 設備投資計画修正の推移（前年度比、％）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もっとも中小・非製造業は2025年度が見込み時点よりも大きく上振れて着地しており、その反動もあって伸び悩んでいるものと考えられます（図表3－2）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、2026年度の業績見通しも中東情勢が緊迫化した局面を含む調査であったにもかかわらず、底堅い見通しが示されました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表4】大企業 2026年度 売上収益計画の修正（前年同期比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（お問い合わせ）調査部 E-mail：chosa-report@murc.jp 担当（藤田） TEL：03-6733-1566",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観（2026 年 3 月調査）結果",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本日発表された日銀短観（2026 年 3 月調査）における大企業製造業の業況判断 DI（最近）は、前回調査から",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、大企業非製造業の業況判断 DI（最近）は、前回調査から横ばいの 36 となった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）日本銀行｢全国企業短期経済観測調査」を基に当社作成",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月調査 2026年3月調査",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、新たに公表された 2026 年度の想定為替レートは 150.10 円／ドルと、最近の為替相場の実勢よりも円",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の業況判断 DI（最近）は、製造業では前回調査から横ばいの 7、非製造業は 1 ポイント悪化の 16 と",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 設備投資計画～2026 年度の設備投資計画は大企業を中心に堅調",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業が 3 月調査時点としては直近 10 年でもっとも低い伸びで",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度 2025年度 2026年度",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＜12 月調査＞ ＜3 月調査＞ ＜ 3 月調査＞",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（前年度比、%） 【大企業製造業】",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【大企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観 設備投資計画 — けいざいの温度計",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年 9 月調査",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のソフトウェア・研究開発を含む設備投資計画（前年度比 %、土地除く）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 月の初出計画（X 軸左端）と翌 3 月の実績見込（X 軸右端）を結ぶことで、 「年度を通じて計画がどれだけ上方／下方修正されたか」が読める",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観の設備投資計画は、日銀が年 4 回（3／6／9／12 月調査）に企業に「今年度・来年度はどれだけ設備に投資する予定か」を聞いた結果を集計したもの",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "と並ぶ「もう一つの目玉」で、市場参加者は四半期ごとの公表を強く注目します",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業の 3 月調査で公表される",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは、年度が始まる前段階では各社が確度の高い案件しか計画に反映させないため",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その後、6 月／9 月／12 月の調査ごとに計画が見直され、",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "短観の「ソフトウェア投資額」(2001年3月調査から追加) について [PDF 16KB]",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観の「ソフトウェア投資額」(2001年3月調査から追加) について [LZH 6KB]",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-1】全産業 設備投資計画修正の推移（前年度比、％）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表4は、大企業における前回（2026年1－3月期）と今回の売上高・経常利益の前年同期比伸び率を確認したものです",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "現に図表4にあるように、下期の売上高の伸びに対し、経常利益の伸びが小さいことは、コスト負担の増加が示唆されていると考えられます",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＋12.3%、非製造業で同＋10.2%と、いずれも前年比プラスでの着地見込みとなった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造業が前年比－1.5%、非製造業が同－2.6%と、やや低調な着地見込みとなった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表 4 設備投資計画（含む土地投資額）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度の設備投資計画（全規模合計） は前年度比＋7.6％と前回 6 月調査（＋6.8％）から上方修正され",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度の売上・収益計画（全規模合計）は、売上高が製造業で前年度比＋5.9％、非製造業で＋3.3％、",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(注) 1．設備投資額（含む土地投資額）については、ソフトウェア投資額、研究開発投資額は含まない",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新卒採用計画（全産業）＜6、12月調査のみ＞ (前年度比・％) 中小企業 12 12 0",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "銀行業 56 59 58 2 59 1 ソフトウェア・研究開発を含む設備投資額（除く土地投資額） (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年6月調査 2026年9月調査 ソフトウェア投資額 (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "貸金業等 -21 -21 -24 -3 -18 6 研究開発投資額 (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "持株会社等の回答率 ＝ 設備投資額の有効回答社数 ／ 調査対象企業数 × 100 8",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "海外売上高 加工業種 3.4 3.2 設備投資額 加工業種 6.2 6.3",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内売上高 加工業種 2.7 7.7 設備投資額 加工業種 6.8 19.0",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "連結売上高計 加工業種 3.2 4.7 連結設備投資額計 加工業種 6.5 13.4",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▽設備投資額(含む土地投資額)の足取り （注）1. 横軸に初回調査（3月調査）から実績が確定する翌年6月調査までの6調査回を取り、毎年度の設備投資計画",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度の設備投資計画（全規模全産業）は、前年比8.9％増と前回から小幅に上方修正された",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例年9月調査では年度計画が固まってくることで、投資額が上乗せされる傾向が強い",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ユーロ圏消費者物価（26年10月）－総合指数は前年比で4.0％まで上昇",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "母集団企業は、総務省の「事業所・企業統計調査」（2006年10月実施分）をベースとした、全国の資本金2千万円以上の民間企業（金融機関を除く",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その間は、原則として調査対象企業を固定しているが、倒産や合併等による調査対象企業の減少に伴う統計精度の低下を防ぐため、定期的（年1回）に統計精度のチェックを行い、統計精度が低下している場合には、新たな調査対象企業を追加することにしている",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金を基準に、大企業（資本金10億円以上）、中堅企業（同1億円以上10億円未満）、中小企業（同2千万円以上1億円未満）に区分している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査対象企業の設備投資額の母集団推計値の誤差率が、目標の範囲（金融機関全体で10％）内に収まっていること",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下の14項目の半期・年度の実績計数、および計画（予測）計数を調査している（単位：百万円＜為替レートは円／ドル＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下の10項目の前四半期末の実績値を調査している（単位：百万円＜雇用者数・パートは人＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このほか、四半期項目の補完（先行き予測計数の代替）として、以下の3項目の「先行き予測（回答時点以降3か月後までの変化）」を調査している（3つの選択肢＜「1. 増加」、「2. 横ばい」、「3. 減少」＞の中から、回答企業の判断に最も近い番号を選択するもの）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）「年度計画」のうちの「設備投資額」、「土地投資額」、「ソフトウェア投資額」",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「売上高」、「経常利益」、「当期純利益」、「設備投資額」、「ソフトウェア投資額」の5項目については、調査対象企業から得られた回答値が外れ値となった場合、当該外れ値を欠測値とみなして集計を行っている（詳細な対応方法については「外れ値の取扱い方法について」＜",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「ソフトウェア・研究開発含む設備投資（除く土地投資額）」は、2016年まで「ソフトウェア含む設備投資（除く土地投資額）」のデータを反映",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月1日に公表された日銀短観（日本銀行が企業に景気や計画を聞く調査）で、大企業製造業の2026年度の設備投資計画は前年度比11.6％増でした",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業製造業の2026年度計画は二桁前後の増加：DBJ 13.2％増、法人企業景気予測調査（製造業全体）12.7％増、日銀短観は",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行（DBJ）が2026年8月4日に公表した「2026年度設備投資計画調査」では、資本金10億円以上の大企業の国内設備投資は前年度比19.7％増の計画です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金10億円以上の大企業（回答1,598社）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業・中堅・中小（資本金2,000万円以上）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金1,000万円以上の法人",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業：10〜13％台の増加",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観9月調査（資本金1億円以上10億円未満）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公庫調査 1.7％増（4年ぶりの増加）、短観 4.0％増（9月調査",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業景気予測調査でも、製造業の増加に最も寄与したのは情報通信機械器具製造業（32.0％増）です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、同じ法人企業景気予測調査では窯業・土石製品（13.8％減）やはん用機械（15.0％減）が減少の寄与上位に並びます",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図3：業種別に見る2026年度の設備投資計画（前年度比）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業景気予測調査は、製造業の増加・減少に寄与した上位2業種のみ公表されています",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "意外に見えるのが食品で、全規模の法人企業景気予測調査では食料品製造業が15.5％増と、製造業の増加寄与で2番目に入りました",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫が従業員20〜299人の中小製造業を対象にした調査では、2026年度の当初計画は2兆8,727億円で、2025年度実績比1.7％増でした",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）前年度比増減率等",
+    "url": "https://www.boj.or.jp/statistics/tk/zenyo/2021/all2506.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9月短観全容の2026年度計画では、大企業非製造業の設備投資は、土地を含みソフトウェア・研究開発を含まない集計で前年度比11.2％増",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "土地を含みソフトウェア・研究開発を含まない設備投資計画は、2026年度の大企業・全産業で前年度比11.3％増、中小企業・全産業では4.7％減でした",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全規模の2026年度内需額計画は、小売が前年度比4.0％増、対個人サービスが4.0％増、宿泊・飲食サービスが5.8％増です",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本銀行：2026年9月短観・調査全容（10月2日掲載、年度計画の内需額・設備投資額）",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "機械受注": [
+   {
+    "quote": "などで高水準ながら、物価高や天候要因による国内需要の鈍化もあって宿泊 ・ 飲食サービス（6 月＋46→9",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年の製造業の景気を、日銀短観、鉱工業生産、機械受注、工作機械・ロボット受注、設備投資計画の最新統計で整理",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月の機械受注は5.2%増｜電子計算機等が前年比7割増、設備投資の先行指標を読む",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9月短観全容で見る設備投資と内需｜投資の定義・企業規模・業種で分かれる計画 | 株トラッカー｜KABUTRACK",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 内需額は小売・サービスの間にも差がある",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全規模の2026年度内需額計画は、小売が前年度比4.0％増、対個人サービスが4.0％増、宿泊・飲食サービスが5.8％増です",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本銀行：2026年9月短観・調査全容（10月2日掲載、年度計画の内需額・設備投資額）",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "CPの発行環境＜発行企業ベース＞（更新停止）",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 CPの発行環境＜発行企業ベース＞（更新停止）",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観における「研究開発投資」の見方―データの特徴点やクセを中心に―",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「全国企業短期経済観測調査」における「研究開発投資額」の調査開始および公表資料の一部変更",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "時系列統計データ検索サイトでの短観の時系列データの掲載開始とそれに伴うテキスト形式ファイルの更新停止について",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、非製造業では、人手不足に加え、日中",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "老朽設備の維持・更新投資に加え、 E コマースの",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "拡大を背景とした先進物流施設などの建設投資、脱炭素に向けた環境対応投資など、昨今重要性が高まってい",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、中東情勢の泥沼化や日中関係の悪化継続によるグローバルサプライチェーンの混乱、人手不足の深刻",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）土地投資額を含み、ソフトウェア投資額と研究開発投資額を含まないベース",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のソフトウェア・研究開発を含む設備投資計画（前年度比 %、土地除く）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア・研究開発を含む設備投資額（除く土地投資）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア・研究開発を含み土地投資を除く設備投資額の伸び率",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "模合計）は上方修正され、AI 関連投資や深刻な人手不足、SX・DX 投資による企業の設備投資意欲の強さが",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "月調査は上方修正されやすいという傾向はあるものの、データセンターなどの AI 関連投資や人手不足に",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よる省力化投資、SX・DX 投資などを中心に企業の設備投資意欲の強さが示されたといえよう（下左図）",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ており、 企業の省力化 ・ 効率化投資の意欲を強める要",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア・研究開発を含む設備投資額（除く土地投資額） (前年度比・％) 土地投資額 (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア投資額 (前年度比・％) 研究開発投資額 (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(注) 1．設備投資額（含む土地投資額）については、ソフトウェア投資額、研究開発投資額は含まない",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "銀行業 56 59 58 2 59 1 ソフトウェア・研究開発を含む設備投資額（除く土地投資額） (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "貸金業等 -21 -21 -24 -3 -18 6 研究開発投資額 (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. ソフトウェア投資額、研究開発投資額は含まない",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業非製造業では、地震臨時情報・台風上陸に伴う人出減少や人手不足が重荷となったものの、価格転嫁の進展やインバウンド需要の増加が追い風となり、景況感が若干改善した",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "物価高による消費への悪影響や人手不足の深刻化、円高によるインバウンド需要減少への懸念などが影響していると見られる",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実態としても、収益回復に伴う投資余力の改善に加え、脱炭素・DX・省力化・サプライチェーンの再構築に伴う投資需要を背景として堅調な設備投資計画が維持されている",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足による供給制約が強まっている可能性がある",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回の短観では、堅調な設備投資計画や値上げの継続意向、高いインフレ期待や人手不足感などが窺える内容になったことで、日銀として、追加利上げの根拠となる「経済・物価が見通しに沿った経路を辿っている（オントラックにある）」との判断を裏付ける材料に位置付けることが出来そうだ",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "５．設備･雇用：設備投資計画は堅調維持、人手不足感は極めて強い状況続く",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「どのアプリを開けばいい？」をなくす－中国平安保険、デジタル化10年の伏線回収",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア投資額、研究開発投資額は含まない",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア・研究開発を含む設備投資額（除く土地投資額）",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観のソフトウェア・研究開発を含む設備投資額（除く土地投資額）のチャート",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の全産業のソフトウェア・研究開発を含む設備投資額（除く土地投資額）のチャート",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の製造業のソフトウェア・研究開発を含む設備投資額（除く土地投資額）のチャート",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の非製造業のソフトウェア・研究開発を含む設備投資額（除く土地投資額）のチャート",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額（含む土地投資額）は、ソフトウェア投資額、研究開発投資額は含まない",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業のソフトウェア・研究開発を含む設備投資額",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業のソフトウェア・研究開発を含む設備投資額",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業のソフトウェア・研究開発を含む設備投資額",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の全産業のソフトウェア・研究開発を含む設備投資額（除く土地投資額）の推移を示したチャートです",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の製造業のソフトウェア・研究開発を含む設備投資額（除く土地投資額）の推移を示したチャートです",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の非製造業（サービス業）のソフトウェア・研究開発を含む設備投資額（除く土地投資額）の推移を示したチャートです",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業のソフトウェア・研究開発を含む設備投資額を表示中",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「ソフトウェア・研究開発含む設備投資（除く土地投資額）」は、2016年まで「ソフトウェア含む設備投資（除く土地投資額）」のデータを反映",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業B：全産業の設備投資額（ソフトウェア・研究開発を含む設備投資額（除く土地投資額））",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業B：製造業の設備投資額（ソフトウェア・研究開発を含む設備投資額（除く土地投資額））",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業B：非製造業の設備投資額（ソフトウェア・研究開発を含む設備投資額（除く土地投資額））",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の研究開発投資額とは、損益計算書を作成する場合の研究開発費です",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般管理費に含まれる研究開発費に加え、当期製造費用に含まれる研究開発費があれば、その総額となります",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資計画のうち最も注目される設備投資額（含む土地投資額）とソフトウェア・研究開発を含む設備投資額（除く土地投資額）の推移を掲載しています",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2026年11月6日更新）",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "土地を含み、ソフトウェア・研究開発を除く",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査では、半導体やデータセンターに関わる部材を供給する企業の投資が伸びており、AI需要の「川上」にあたる製品の能力増強が背景にあるとみられます",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の自動車は、大型案件が一巡するものの、電動化関連を中心とした能力増強や生産設備の更新で13.2％増の計画です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "東海の投資を支えているのは、電動化関連の生産基盤整備や設備更新、新製品に対応した生産ラインの整備です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新工場だけでなく、既存ラインの更新や作り替えにも投資が向かっている",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業は「更新中心」から少しずつ前向きに",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資の目的は「更新」が最多、ただし能力拡充も上昇",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "2026年度の全産業における設備投資計画は、前期比6.8%増と前回（2026年1－3月期）から5.5ポイント上昇しました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、2025年度の設備投資実績は前期比9.4%増と、期中は伸び悩みながらも二桁に近い伸びとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表4】大企業 2026年度 売上収益計画の修正（前年同期比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＋12.3%、非製造業で同＋10.2%と、いずれも前年比プラスでの着地見込みとなった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造業が前年比－1.5%、非製造業が同－2.6%と、やや低調な着地見込みとなった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "温度判定は大企業 全産業 3 月初出計画を使用（過去 5 年は +3% 前後で推移、初出 2% 超は積極投資姿勢と読む）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業は近年、初出 3% 前後 → 期中で +10% 超まで上方修正 → 翌 3 月実績見込でやや戻すパターンが定着している",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "+3% 前後の控えめな数字",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "直近 5 年の傾向では、期中の修正で初出から +6〜10% ポイントの上振れが起きるのが典型です",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最新の 3 月初出計画（大企業 全産業）で判定: < 0% で冷たい、0〜+2% で適温、> +2% で熱い",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全 国 企 業 3,776社 5,328社 9,104社 99.4% 上期 下期 上期 下期",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "うち大 企 業 885社 746社 1,631社 99.0% 2026年6月調査 149.42 147.27 151.58 152.57 152.62 152.51",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 1,071社 1,518社 2,589社 99.1% 2026年9月調査 ― ― ― 154.23 154.46 154.00",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 1,820社 3,064社 4,884社 99.6% 2026年6月調査 169.13 165.12 173.14 175.62 175.68 175.56",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金 融 機 関 323社 99.4% 2025年度 2026年度",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "持 株 会 社 等 215社 91.2% 修正率 (計画) 修正率",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業 374社 96.0% 2026年6月調査 149.55 152.07",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "うち素材業種 135社 94.8% 2026年9月調査 ― 153.92",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加工業種 239社 96.7% 2026年6月調査 170.04 175.52",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業 214社 90.7% 2026年9月調査 ― 178.16",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業 588社 94.0%",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 99.0%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 98.8%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 98.7%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 99.2%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 44.5%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 48.9%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 42.1%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 46.7%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 45.3%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び | MONOSCOPE",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食品業界の設備投資2026｜42.7%増の後も続く新工場ラッシュの狙い",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査で大企業は2025年度42.7%増・2026年度計画3.5%増、日本公庫の設備投資DI、明治・森永乳業・雪印メグミルクの北海道新工場など主要5計画、工場を建てる4つの理由と今後の注意点を解説します",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月の機械受注は5.2%増｜電子計算機等が前年比7割増、設備投資の先行指標を読む",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイヘンが経常20%上方修正｜半導体電源と蓄電池が伸びた理由",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "任天堂中間決算2026｜減収でも営業益49%増の理由とSwitch 2の現在地",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In reviewing the sample enterprises, we select enterprises in the\"large,\" \"medium-sized,\" and\"small\" categories so that the standard deviation of estimated sales for the population is within 3% for manufacturing and 5% for non-manufacturing.",
+    "url": "https://www.boj.or.jp/en/statistics/tk/long_syu/tkyoko.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. Capital Investment Plans: Upward Revision to 7.6% Increase Despite Headwinds!",
+    "url": "https://note.com/yoshiyuki16/n/n8872d4ccb1e4?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Given the seasonal trend of the Tankan being revised upward from the beginning to the middle of the fiscal year, the growth as of September 2026 is slightly more cautious compared to the same period in September 2025 (8.4% increase).",
+    "url": "https://note.com/yoshiyuki16/n/n8872d4ccb1e4?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Bank of Japan raised the policy interest rate from 0.75% to 1.0% in June and implemented an additional rate hike to 1.25% in September.",
+    "url": "https://note.com/yoshiyuki16/n/n8872d4ccb1e4?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As a result, the ordinary profit plan for large enterprises in all industries is +6.4% year-on-year (+3.9% upward revision from the previous survey), confirming the structure where strong corporate performance is the driving force behind investment.",
+    "url": "https://note.com/yoshiyuki16/n/n8872d4ccb1e4?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "短 観（概要）―2026年9月― - 日本銀行 — 短 観（概要）―2026年9月― - 日本銀行 日本銀行ホームページ PDF https://www.boj.or.jp > statistics > gaiyo > tka2609",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短 観（概要）―2026 年 9月― - 日本銀行 — 短 観（概要）―2026 年 9月― - 日本銀行 日本銀行ホームページ PDF https://www.boj.or.jp > statistics > gaiyo > tka2609",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観 （要旨）（2026 年 3月） : 日本銀行 Bank of Japan — 短観 （要旨）（2026 年 3月） : 日本銀行 Bank of Japan 日本銀行ホームページ https://www.boj.or.jp > 統計 > 短観 > 短観（要旨）一覧",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUB308YK0Q6A930C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smtam.jp/report_column/pdf/cat_03/HP20260701k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/national/pdf/2024_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/tk/zenyo/2021/all2506.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/tk/long_syu/tkyoko.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.com/news/c6313078-2edd-4cdb-a88a-2856146020f3",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://en.macromicro.me/charts/666/jp-tankan-manufacturing-business-conditions",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-tankan-shows-sixth-straight-rise-in-manufacturer-sentiment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/kit-yu-27753534_the-bank-of-japan-boj-announced-detailed-activity-7511635176901271552-6zZC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/yoshiyuki16/n/n8872d4ccb1e4?hl=en",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "短観 設備投資計画 規模別・製造業（日本銀行） 推移",
+   "results": [
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://media.monex.co.jp/articles/-/29673",
+    "https://www.nikkei.com/article/DGXZQOUB308YK0Q6A930C2000000/",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.keizai-ondokei.net/tankan/capex/",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.reuters.com/jp/world/japan/PEQX4ZYGJJOCDGA4PMODVDTBLA-2026-10-01/",
+    "https://www.nli-research.co.jp/report/detail/id=86826?site=nli",
+    "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment"
+   ]
+  },
+  {
+   "query": "短観 設備投資計画 規模別・製造業（日本銀行） 調査結果 pdf",
+   "results": [
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "https://www.bk.mufg.jp/report/ecoinf2026/report_jp_20261001.pdf",
+    "https://www.smtam.jp/report_column/pdf/cat_03/HP20260701k.pdf",
+    "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "https://www.keizai-ondokei.net/tankan/capex/",
+    "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.dbj.jp/investigate/equip/national/pdf/2024_summary.pdf"
+   ]
+  },
+  {
+   "query": "短観 設備投資計画 規模別・製造業（日本銀行） 年度 実施割合",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "https://www.nikkei.com/article/DGXZQOUB308YK0Q6A930C2000000/",
+    "https://www.boj.or.jp/statistics/tk/index.htm",
+    "https://www.youtube.com/watch?v=8iIsYGTGuB0",
+    "https://www.smtam.jp/report_column/pdf/cat_03/HP20260701k.pdf",
+    "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment"
+   ]
+  },
+  {
+   "query": "BOJ Tankan capital investment plans by firm size manufacturing",
+   "results": [
+    "https://www.boj.or.jp/en/statistics/tk/long_syu/tkyoko.htm",
+    "https://finance.biggo.com/news/c6313078-2edd-4cdb-a88a-2856146020f3",
+    "https://en.macromicro.me/charts/666/jp-tankan-manufacturing-business-conditions",
+    "https://asia.nikkei.com/economy/bank-of-japan/boj-tankan-shows-sixth-straight-rise-in-manufacturer-sentiment",
+    "https://www.linkedin.com/posts/kit-yu-27753534_the-bank-of-japan-boj-announced-detailed-activity-7511635176901271552-6zZC",
+    "https://note.com/yoshiyuki16/n/n8872d4ccb1e4?hl=en",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr14_03_01.pdf",
+    "https://www.reuters.com/markets/asia/japans-business-mood-improves-despite-looming-us-tariff-hit-2025-10-01/",
+    "https://www.jri.co.jp/en/MediaLibrary/file/english/periodical/jrirj/2021/08/nishioka.pdf",
+    "https://www.boj.or.jp/en/statistics/tk/index.htm"
+   ]
+  },
+  {
+   "query": "site:note.com 短観 設備投資計画 規模別・製造業（日本銀行）",
+   "results": [
+    "https://note.com/iqoys/n/n432921adb003",
+    "https://note.com/kiku_keizai/n/n09bd7a1a5af4",
+    "https://note.com/kiku_keizai/n/n52e618b32a56",
+    "https://note.com/y44901726/n/n29483099cda3",
+    "https://note.com/noteworkr/n/n4b457bb1a6ad",
+    "https://note.com/jaguar2000/n/n759f04b0c7bf",
+    "https://note.com/hirokimiyano/n/n529d77e1fc8d",
+    "https://note.com/s_shindan/n/nd47eee24145b",
+    "https://note.com/lively_phlox953/n/n31c3b66cd70d",
+    "https://note.com/hirokimiyano/n/nd59c76298f07"
+   ]
+  },
+  {
+   "query": "site:x.com 短観 設備投資計画 規模別・製造業（日本銀行）",
+   "results": [
+    "https://x.com/naohat23",
+    "https://x.com/hashtag/%E7%9F%AD%E8%A6%B3?f=live",
+    "https://x.com/ReportOcean_JP",
+    "https://x.com/irshukatsu",
+    "https://x.com/HexagonScrew",
+    "https://x.com/Ka_______DeE",
+    "https://x.com/war_sted",
+    "https://x.com/Wayout_ishii",
+    "https://x.com/AdamSmith2sei",
+    "https://x.com/ZLZd59MF1sTUmBW"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 短観 設備投資計画 規模別・製造業（日本銀行）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8F%E3%81%A8%E4%BE%BF%E5%88%A9%E3%81%AA%E7%B5%8C%E6%B8%88%E6%8C%87%E6%A8%99%E3%81%A8%E7%B5%B1%E8%A8%88-katsukiyo-nishi",
+    "https://jp.linkedin.com/in/%E3%81%B2%E3%81%A8%E3%81%97-%E6%B8%A1%E9%82%89-a92910421",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_10月1日に発表された日銀短観で大企業製造業の景況感を示す業況判断指数diは-activity-7520080702424608768-ARnU",
+    "https://jp.linkedin.com/posts/tkoizumi_3月の日銀短観大企業製造業でプラス17-4四半期連続改善-activity-7445119060209512448-TaAL",
+    "https://www.linkedin.com/posts/seiichi-mano-mba-20b383_設備投資13増に上方修正23年度9月日銀短観-日本経済新聞-activity-7114523955276779521-aE8m",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業の投資は本当に少ないのか-付加価値と総固定資本形成の関係-activity-7405339762611482624-gktE",
+    "https://www.linkedin.com/posts/george-company-inc_設備投資13増に上方修正23年度9月日銀短観-日本経済新聞-activity-7114480527079870465-Hdo3",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_日銀短観の雇用人員判断diを見ていて改めて人手不足の根深さを感じた雇用人員判断-activity-7515560652921270272-rDTf",
+    "https://jp.linkedin.com/pulse/2026年度に創設される大規模投資減税とは7税額控除即時償却の要件と手続き活用ポイントを解説-sapconcur-pkjxc?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 短観 設備投資計画 規模別・製造業（日本銀行）",
+   "results": [
+    "https://www.facebook.com/nliresearch/posts/日銀短観12月調査予測大企業製造業の業況判断diは2ポイント上昇の11と予想設備投資計画-に注目12月短観では製造業非製造業ともに景況感の足踏み感が示されそうだ/846947413893337/",
+    "https://www.facebook.com/nliresearch/videos/2546588328901599/",
+    "https://www.facebook.com/nliresearch/videos/431862980779312/",
+    "https://www.facebook.com/nliresearch/videos/日銀短観12月調査大企業製造業の-景況感-は４期連続の悪化非製造業の景況感設備投資-計画には底堅さもhttpswwwnli-researchcojpreport/488257015134624/",
+    "https://www.facebook.com/murc.jp/posts/日銀短観結果2025年9月調査①大企業の業況判断-di製造業は改善非製造業は横ばい②中小企業の業況判断-di製造業は横ばい非製造業は悪化③設備投資計画2025-/1276263010970341/",
+    "https://www.facebook.com/murc.jp/photos/日銀短観結果2025年12月調査①大企業の業況判断-di製造業は小幅に改善非製造業は横ばい②中小企業の業況判断-di製造業は改善非製造業は小幅改善③設備投資計画/1336112918318683/",
+    "https://www.facebook.com/murc.jp/posts/日銀短観結果2025年12月調査①大企業の業況判断-di製造業は小幅に改善非製造業は横ばい②中小企業の業況判断-di製造業は改善非製造業は小幅改善③設備投資計画/1336112964985345/"
+   ]
+  },
+  {
+   "query": "短観 設備投資計画 規模別・製造業（日本銀行） note 社長",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUB308YK0Q6A930C2000000/",
+    "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "https://note.com/iqoys/n/n432921adb003",
+    "https://www.itochu-research.com/ja/uploads/em20241213_2024-061_J_TANKAN202412.pdf",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.keizai-ondokei.net/tankan/capex/",
+    "https://www.reuters.com/jp/world/japan/PEQX4ZYGJJOCDGA4PMODVDTBLA-2026-10-01/",
+    "https://www.youtube.com/watch?v=8iIsYGTGuB0",
+    "https://www.nli-research.co.jp/report/detail/id=86826?site=nli",
+    "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment"
+   ]
+  },
+  {
+   "query": "短観 設備投資計画 規模別・製造業（日本銀行） X 投稿",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/exp/tk/faqtk03.htm",
+    "https://www.nikkei.com/article/DGXZQOUB308YK0Q6A930C2000000/",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=86826?site=nli",
+    "https://www.keizai-ondokei.net/tankan/capex/",
+    "https://www.youtube.com/watch?v=8iIsYGTGuB0",
+    "https://www.reuters.com/jp/world/japan/PEQX4ZYGJJOCDGA4PMODVDTBLA-2026-10-01/",
+    "https://www.smtam.jp/report_column/pdf/cat_03/HP20260701k.pdf",
+    "https://media.monex.co.jp/articles/-/30233",
+    "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/"
+   ]
+  },
+  {
+   "query": "BOJ Tankan capital investment plans by firm size manufacturing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/kit-yu-27753534_the-bank-of-japan-boj-announced-detailed-activity-7511635176901271552-6zZC",
+    "https://www.linkedin.com/posts/investment-week_%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%A4-%F0%9D%90%88%F0%9D%90%90-japan-activity-7513625705968992256-vUwU",
+    "https://www.linkedin.com/posts/alphabinwanicapital_japanequities-bankofjapan-tankan-activity-7511254309947457537-MgF1",
+    "https://www.linkedin.com/posts/aliciagarciaherrero_boj-activity-7507775670245048321-nSzr",
+    "https://www.linkedin.com/posts/nikkeiasia_boj-tankan-shows-sixth-straight-rise-in-manufacturer-activity-7511213151842119680-cBF7",
+    "https://www.linkedin.com/posts/lmllet_gm108-maybe-japan-is-finally-changing-for-activity-7519406965337243649-VMkq",
+    "https://hk.linkedin.com/in/vira-batarilan",
+    "https://kr.linkedin.com/in/duk-shik-suh-581b505",
+    "https://www.linkedin.com/posts/daichi-kunii_japanma-successionplanning-crossborderma-activity-7515213355775590400-aB3I",
+    "https://www.linkedin.com/posts/viktor-kopylov-70bb6765_japan-may-be-at-a-policy-inflection-a-former-activity-7386950169814200321-zc6U"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "推移": [
+   {
+    "quote": "2026年10月 1日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年9月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月 2日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年12月16日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年12月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別計数は、2020年3月調査より",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「企業の物価見通し」の概要は、2020年3月調査より「（参考）見通しの平均」の計数を",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年12月18日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年12月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "CPの発行環境＜発行企業ベース＞は、2014年3月調査より",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011年 4月 4日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011年3月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要短観（時系列データ、2003年12月調査まで）",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2022年3月調査から2023年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2020年3月調査から2021年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2014年3月調査から2019年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2004年3月調査から2013年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 4月16日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 4月 1日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 3月 6日",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年7月1日（水）8:50発表",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本 日銀短観2026年4－6月期",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【1】結果：2026年4－6月期の日銀短観は改善、先行きは悪化予想で保守的な見方",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年4－6月期の日銀短観における、全規模全産業の業況判断DIは18ポイントで、前四半期から横ばいとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前回の2026年1－3月期時点の先行き予想では7ポイント低下の11ポイントが見込まれており、それと比較すると業況はポジティブな推移となりました（図表1、右）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で翌四半期（2026年7－9月期）の見通しは7ポイント低下の11ポイントが見込まれ、先行きは保守的な見方が示されました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表1】企業規模合計・全産業の業況判断DIの推移（「良い」-「悪い」、％ポイント）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※右図薄色線は2026年1－3月期時点の先行き",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業は37ポイントと1ポイント改善も概ね横ばい推移しています",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表2】業態・企業規模別 業況判断DIの推移（「良い」-「悪い」、％ポイント）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の全産業における設備投資計画は、前期比6.8%増と前回（2026年1－3月期）から5.5ポイント上昇しました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この時期の設備投資計画としては2025年並みの水準と言えます（図表3-1）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、2025年度の設備投資実績は前期比9.4%増と、期中は伸び悩みながらも二桁に近い伸びとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-1】全産業 設備投資計画修正の推移（前年度比、％）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もっとも中小・非製造業は2025年度が見込み時点よりも大きく上振れて着地しており、その反動もあって伸び悩んでいるものと考えられます（図表3－2）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資を評価すると、外部の不確実性が高かったと言える2026年4－6月期の間に計画の上方修正が確認できたことは、需要の大きさが想起され、国内経済の底堅さにつながるものと評価しています",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、2026年度の業績見通しも中東情勢が緊迫化した局面を含む調査であったにもかかわらず、底堅い見通しが示されました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表4は、大企業における前回（2026年1－3月期）と今回の売上高・経常利益の前年同期比伸び率を確認したものです",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もっとも、ある種強気な設備投資計画にあるように、国内のマクロ経済は堅調に推移していくことが期待できるでしょう",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年 4 月 1 日",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観（2026 年 3 月調査）結果",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本日発表された日銀短観（2026 年 3 月調査）における大企業製造業の業況判断 DI（最近）は、前回調査から",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表 1 業況判断 DI の推移",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012 13 14 15 16 17 18 19 20 21 22 23 24 25 26",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月調査 2026年3月調査",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、新たに公表された 2026 年度の想定為替レートは 150.10 円／ドルと、最近の為替相場の実勢よりも円",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 設備投資計画～2026 年度の設備投資計画は大企業を中心に堅調",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度 2025年度 2026年度",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021 2022 2023",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024 2025 2026",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（前年度比、%） 【大企業製造業】",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【大企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年 9 月調査",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "FY2026 初出計画",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "温度判定は大企業 全産業 3 月初出計画を使用（過去 5 年は +3% 前後で推移、初出 2% 超は積極投資姿勢と読む）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "業種別計数は、2020年3月調査より",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業態・企業規模別に業況判断DIを確認すると、大企業は製造業が前四半期から5ポイント改善となる22ポイントとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、先行きの業況感は中堅・中小企業含め、どの企業規模でも低下する見込みです",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表2】業態・企業規模別 業況判断DIの推移（「良い」-「悪い」、％ポイント）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業態・企業規模別に設備投資計画を確認しても、中小・非製造業を除き、設備投資計画の上方修正が確認されました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表4は、大企業における前回（2026年1－3月期）と今回の売上高・経常利益の前年同期比伸び率を確認したものです",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表4】大企業 2026年度 売上収益計画の修正（前年同期比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 大企業の業況判断 DI～製造業は改善、非製造業は横ばい",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本日発表された日銀短観（2026 年 3 月調査）における大企業製造業の業況判断 DI（最近）は、前回調査から",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、加工業種は、内外の堅調な設備投資や AI 需要を背景に生産用機械やはん用",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、大企業非製造業の業況判断 DI（最近）は、前回調査から横ばいの 36 となった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "先行きについて、業況判断 DI（先行き）は、大企業製造業では 3 ポイント悪化の 14、大企業非製造業では 7",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "車などの輸出企業の業績が上振れる一因となる一方、輸入企業の多い非製造業や中小企業にとっては業績が",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表 2 大企業の業況判断 DI",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 中小企業の業況判断 DI～製造業は横ばい、非製造業は悪化",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の業況判断 DI（最近）は、製造業では前回調査から横ばいの 7、非製造業は 1 ポイント悪化の 16 と",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、製造業、非製造業ともに水準は高く、総じて見れば中小企業の業況感も、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表 3 中小企業の業況判断 DI",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 設備投資計画～2026 年度の設備投資計画は大企業を中心に堅調",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、中小企業では、製",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、中小企業については、製造業、非製造業ともに前年比マイナス圏からのスタートとなった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（前年度比、%） 【大企業製造業】",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【大企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "温度判定は大企業 全産業 3 月初出計画を使用（過去 5 年は +3% 前後で推移、初出 2% 超は積極投資姿勢と読む）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業は近年、初出 3% 前後 → 期中で +10% 超まで上方修正 → 翌 3 月実績見込でやや戻すパターンが定着している",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業の 3 月調査で公表される",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最新の 3 月初出計画（大企業 全産業）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "→ 🥵 熱い：大企業が積極的な投資姿勢を示唆",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観 設備投資計画（大企業 製造業／非製造業／全産業、ソフト・研開含む、除く土地）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業のみ収録（中堅・中小企業や規模合計、土地投資単独などは未収録）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最新の 3 月初出計画（大企業 全産業）で判定: < 0% で冷たい、0〜+2% で適温、> +2% で熱い",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業（大企業）の景況感が改善、非製造業は悪化",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "－悪い）は、製造業（大企業）で＋24 と前回 6 月調査の＋22 から 2 ポイント上昇し、6 四半期連続の改",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業（大企業）の業況判断 DI は＋35 と前回 6 月調査から 2 ポイント低下した",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の業況判断 DI は、製造業（6 月＋9→9 月＋14）が改善、非製造業（＋15→＋15）は横ばいとな",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業況判断DIの推移（大企業、％Pt） 業況判断DIの推移（中小企業、％Pt）",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "債券市場では、大企業製造業の業況判",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 1,071社 1,518社 2,589社 99.1% 2026年9月調査 ― ― ― 154.23 154.46 154.00",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 1,820社 3,064社 4,884社 99.6% 2026年6月調査 169.13 165.12 173.14 175.62 175.68 175.56",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属製品 11 0 16 5 8 -8 13 10 21 8 20 -1 3 0 13 10 13 0",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はん用機械 38 31 38 0 40 2 28 24 40 12 40 0 28 17 42 14 30 -12",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生産用機械 36 40 43 7 44 1 29 20 33 4 32 -1 6 0 20 14 13 -7",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電気機械 29 27 33 4 35 2 20 21 33 13 34 1 15 16 22 7 28 6",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業 21 14 20 -1 16 -4 3. 「造船・重機等」は自動車以外の輸送用機械",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考） 輸出企業の事業計画の前提となっている想定為替レート（大企業・製造業）",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業 中堅企業 中小企業 大企業 中堅企業 中小企業 大企業 中堅企業 中小企業 2026年6月調査 149.44 146.94 151.94 151.49 151.60 151.38",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 非製造業 5.1 ― 4.4 1.4 4.8 5.3 ― 5.9 1.5 3.0 1.3",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 非製造業 2.3 ― 0.9 1.0 2.9 1.9 ― 2.3 1.4 -0.3 0.7",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 非製造業 14.8 ― -2.2 3.1 14.9 14.8 ― 3.0 5.6 -6.5 0.8",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 非製造業 5.8 ― -6.3 2.8 5.7 6.0 ― 0.0 3.4 -11.2 2.2",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 非製造業 5.00 ― 4.69 0.08 4.75 5.24 ― 4.62 0.19 4.75 -0.03",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 非製造業 4.52 ― 4.20 0.07 4.14 4.88 ― 4.05 0.08 4.34 0.06",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 非製造業 16.7 ― 2.5 5.4 12.4 20.9 ― 6.9 8.6 -1.6 2.4",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 非製造業 5.5 ― -6.1 1.1 -3.8 14.0 ― 2.7 -0.7 -12.9 2.8",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 非製造業 6.4 ― 11.4 3.3 製造業 -4 -5 -5 -1 -6 -1",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "短観 : 日本銀行 Bank of Japan",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（クリックすると、政府統計オンライン調査総合窓口へ移動します）",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「短観」のオンライン調査システムの利用関係",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年9月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ZIPファイルは短観（概要）のうち1～9ページを掲載",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "エクセルファイルで、シートに分かれている内容を全て印刷したい場合は、プリンタに接続されているパソコンで、以下の作業を実施してください",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年12月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別計数は、2020年3月調査より",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「企業の物価見通し」の概要は、2020年3月調査より「（参考）見通しの平均」の計数を",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年12月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "CPの発行環境＜発行企業ベース＞は、2014年3月調査より",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011年3月調査",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観では2004年3月調査から、集計区分を常用雇用者数基準から資本金基準に変更するとともに調査対象企業の大幅な見直しを実施しており、2003年12月調査と2004年3月調査で統計の不連続（段差）があります",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要短観（時系列データ、2003年12月調査まで）",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「短観（全国企業短期経済観測調査）」の解説",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「短観（全国企業短期経済観測調査）」のFAQ",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「短観（全国企業短期経済観測調査）」調査表および記入要領",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2022年3月調査から2023年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2020年3月調査から2021年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）2014年3月調査から2019年12月調査まで",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【日本】日銀短観4－6月期の業況感は横ばいも想定以上に底堅い 設備投資は上方修正 | 日本とアメリカの重要な経済指標を分かりやすく解説 | マネクリ マネックス証券の投資情報とお金に役立つメディア",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本 日銀短観2026年4－6月期",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【1】結果：2026年4－6月期の日銀短観は改善、先行きは悪化予想で保守的な見方",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年4－6月期の日銀短観における、全規模全産業の業況判断DIは18ポイントで、前四半期から横ばいとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "シャドーは景気後退期 出所：日本銀行よりマネックス証券作成",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※シャドーは景気後退期 出所：日本銀行よりマネックス証券作成",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の全産業における設備投資計画は、前期比6.8%増と前回（2026年1－3月期）から5.5ポイント上昇しました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、2025年度の設備投資実績は前期比9.4%増と、期中は伸び悩みながらも二桁に近い伸びとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-1】全産業 設備投資計画修正の推移（前年度比、％）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もっとも中小・非製造業は2025年度が見込み時点よりも大きく上振れて着地しており、その反動もあって伸び悩んでいるものと考えられます（図表3－2）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、2026年度の業績見通しも中東情勢が緊迫化した局面を含む調査であったにもかかわらず、底堅い見通しが示されました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表4】大企業 2026年度 売上収益計画の修正（前年同期比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（お問い合わせ）調査部 E-mail：chosa-report@murc.jp 担当（藤田） TEL：03-6733-1566",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観（2026 年 3 月調査）結果",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本日発表された日銀短観（2026 年 3 月調査）における大企業製造業の業況判断 DI（最近）は、前回調査から",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、大企業非製造業の業況判断 DI（最近）は、前回調査から横ばいの 36 となった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）日本銀行｢全国企業短期経済観測調査」を基に当社作成",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月調査 2026年3月調査",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、新たに公表された 2026 年度の想定為替レートは 150.10 円／ドルと、最近の為替相場の実勢よりも円",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の業況判断 DI（最近）は、製造業では前回調査から横ばいの 7、非製造業は 1 ポイント悪化の 16 と",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 設備投資計画～2026 年度の設備投資計画は大企業を中心に堅調",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業が 3 月調査時点としては直近 10 年でもっとも低い伸びで",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度 2025年度 2026年度",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＜12 月調査＞ ＜3 月調査＞ ＜ 3 月調査＞",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（前年度比、%） 【大企業製造業】",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【大企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【中小企業非製造業】（前年度比、%）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観 設備投資計画 — けいざいの温度計",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年 9 月調査",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のソフトウェア・研究開発を含む設備投資計画（前年度比 %、土地除く）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 月の初出計画（X 軸左端）と翌 3 月の実績見込（X 軸右端）を結ぶことで、 「年度を通じて計画がどれだけ上方／下方修正されたか」が読める",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観の設備投資計画は、日銀が年 4 回（3／6／9／12 月調査）に企業に「今年度・来年度はどれだけ設備に投資する予定か」を聞いた結果を集計したもの",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "と並ぶ「もう一つの目玉」で、市場参加者は四半期ごとの公表を強く注目します",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業の 3 月調査で公表される",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは、年度が始まる前段階では各社が確度の高い案件しか計画に反映させないため",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その後、6 月／9 月／12 月の調査ごとに計画が見直され、",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "短観の「ソフトウェア投資額」(2001年3月調査から追加) について [PDF 16KB]",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観の「ソフトウェア投資額」(2001年3月調査から追加) について [LZH 6KB]",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-1】全産業 設備投資計画修正の推移（前年度比、％）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表4は、大企業における前回（2026年1－3月期）と今回の売上高・経常利益の前年同期比伸び率を確認したものです",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "現に図表4にあるように、下期の売上高の伸びに対し、経常利益の伸びが小さいことは、コスト負担の増加が示唆されていると考えられます",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＋12.3%、非製造業で同＋10.2%と、いずれも前年比プラスでの着地見込みとなった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造業が前年比－1.5%、非製造業が同－2.6%と、やや低調な着地見込みとなった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表 4 設備投資計画（含む土地投資額）",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度の設備投資計画（全規模合計） は前年度比＋7.6％と前回 6 月調査（＋6.8％）から上方修正され",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度の売上・収益計画（全規模合計）は、売上高が製造業で前年度比＋5.9％、非製造業で＋3.3％、",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(注) 1．設備投資額（含む土地投資額）については、ソフトウェア投資額、研究開発投資額は含まない",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新卒採用計画（全産業）＜6、12月調査のみ＞ (前年度比・％) 中小企業 12 12 0",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "銀行業 56 59 58 2 59 1 ソフトウェア・研究開発を含む設備投資額（除く土地投資額） (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年6月調査 2026年9月調査 ソフトウェア投資額 (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "貸金業等 -21 -21 -24 -3 -18 6 研究開発投資額 (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "持株会社等の回答率 ＝ 設備投資額の有効回答社数 ／ 調査対象企業数 × 100 8",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "海外売上高 加工業種 3.4 3.2 設備投資額 加工業種 6.2 6.3",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内売上高 加工業種 2.7 7.7 設備投資額 加工業種 6.8 19.0",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "連結売上高計 加工業種 3.2 4.7 連結設備投資額計 加工業種 6.5 13.4",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▽設備投資額(含む土地投資額)の足取り （注）1. 横軸に初回調査（3月調査）から実績が確定する翌年6月調査までの6調査回を取り、毎年度の設備投資計画",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度の設備投資計画（全規模全産業）は、前年比8.9％増と前回から小幅に上方修正された",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例年9月調査では年度計画が固まってくることで、投資額が上乗せされる傾向が強い",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ユーロ圏消費者物価（26年10月）－総合指数は前年比で4.0％まで上昇",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "母集団企業は、総務省の「事業所・企業統計調査」（2006年10月実施分）をベースとした、全国の資本金2千万円以上の民間企業（金融機関を除く",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その間は、原則として調査対象企業を固定しているが、倒産や合併等による調査対象企業の減少に伴う統計精度の低下を防ぐため、定期的（年1回）に統計精度のチェックを行い、統計精度が低下している場合には、新たな調査対象企業を追加することにしている",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金を基準に、大企業（資本金10億円以上）、中堅企業（同1億円以上10億円未満）、中小企業（同2千万円以上1億円未満）に区分している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査対象企業の設備投資額の母集団推計値の誤差率が、目標の範囲（金融機関全体で10％）内に収まっていること",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下の14項目の半期・年度の実績計数、および計画（予測）計数を調査している（単位：百万円＜為替レートは円／ドル＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下の10項目の前四半期末の実績値を調査している（単位：百万円＜雇用者数・パートは人＞）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このほか、四半期項目の補完（先行き予測計数の代替）として、以下の3項目の「先行き予測（回答時点以降3か月後までの変化）」を調査している（3つの選択肢＜「1. 増加」、「2. 横ばい」、「3. 減少」＞の中から、回答企業の判断に最も近い番号を選択するもの）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）「年度計画」のうちの「設備投資額」、「土地投資額」、「ソフトウェア投資額」",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「売上高」、「経常利益」、「当期純利益」、「設備投資額」、「ソフトウェア投資額」の5項目については、調査対象企業から得られた回答値が外れ値となった場合、当該外れ値を欠測値とみなして集計を行っている（詳細な対応方法については「外れ値の取扱い方法について」＜",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extkre.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「ソフトウェア・研究開発含む設備投資（除く土地投資額）」は、2016年まで「ソフトウェア含む設備投資（除く土地投資額）」のデータを反映",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月1日に公表された日銀短観（日本銀行が企業に景気や計画を聞く調査）で、大企業製造業の2026年度の設備投資計画は前年度比11.6％増でした",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業製造業の2026年度計画は二桁前後の増加：DBJ 13.2％増、法人企業景気予測調査（製造業全体）12.7％増、日銀短観は",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行（DBJ）が2026年8月4日に公表した「2026年度設備投資計画調査」では、資本金10億円以上の大企業の国内設備投資は前年度比19.7％増の計画です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金10億円以上の大企業（回答1,598社）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業・中堅・中小（資本金2,000万円以上）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金1,000万円以上の法人",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業：10〜13％台の増加",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観9月調査（資本金1億円以上10億円未満）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公庫調査 1.7％増（4年ぶりの増加）、短観 4.0％増（9月調査",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業景気予測調査でも、製造業の増加に最も寄与したのは情報通信機械器具製造業（32.0％増）です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、同じ法人企業景気予測調査では窯業・土石製品（13.8％減）やはん用機械（15.0％減）が減少の寄与上位に並びます",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図3：業種別に見る2026年度の設備投資計画（前年度比）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業景気予測調査は、製造業の増加・減少に寄与した上位2業種のみ公表されています",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "意外に見えるのが食品で、全規模の法人企業景気予測調査では食料品製造業が15.5％増と、製造業の増加寄与で2番目に入りました",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫が従業員20〜299人の中小製造業を対象にした調査では、2026年度の当初計画は2兆8,727億円で、2025年度実績比1.7％増でした",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）前年度比増減率等",
+    "url": "https://www.boj.or.jp/statistics/tk/zenyo/2021/all2506.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9月短観全容の2026年度計画では、大企業非製造業の設備投資は、土地を含みソフトウェア・研究開発を含まない集計で前年度比11.2％増",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "土地を含みソフトウェア・研究開発を含まない設備投資計画は、2026年度の大企業・全産業で前年度比11.3％増、中小企業・全産業では4.7％減でした",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全規模の2026年度内需額計画は、小売が前年度比4.0％増、対個人サービスが4.0％増、宿泊・飲食サービスが5.8％増です",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本銀行：2026年9月短観・調査全容（10月2日掲載、年度計画の内需額・設備投資額）",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "機械受注": [
+   {
+    "quote": "などで高水準ながら、物価高や天候要因による国内需要の鈍化もあって宿泊 ・ 飲食サービス（6 月＋46→9",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年の製造業の景気を、日銀短観、鉱工業生産、機械受注、工作機械・ロボット受注、設備投資計画の最新統計で整理",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月の機械受注は5.2%増｜電子計算機等が前年比7割増、設備投資の先行指標を読む",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9月短観全容で見る設備投資と内需｜投資の定義・企業規模・業種で分かれる計画 | 株トラッカー｜KABUTRACK",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 内需額は小売・サービスの間にも差がある",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全規模の2026年度内需額計画は、小売が前年度比4.0％増、対個人サービスが4.0％増、宿泊・飲食サービスが5.8％増です",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本銀行：2026年9月短観・調査全容（10月2日掲載、年度計画の内需額・設備投資額）",
+    "url": "https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "CPの発行環境＜発行企業ベース＞（更新停止）",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 CPの発行環境＜発行企業ベース＞（更新停止）",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観における「研究開発投資」の見方―データの特徴点やクセを中心に―",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「全国企業短期経済観測調査」における「研究開発投資額」の調査開始および公表資料の一部変更",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "時系列統計データ検索サイトでの短観の時系列データの掲載開始とそれに伴うテキスト形式ファイルの更新停止について",
+    "url": "https://www.boj.or.jp/statistics/tk/index.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、非製造業では、人手不足に加え、日中",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "老朽設備の維持・更新投資に加え、 E コマースの",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "拡大を背景とした先進物流施設などの建設投資、脱炭素に向けた環境対応投資など、昨今重要性が高まってい",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、中東情勢の泥沼化や日中関係の悪化継続によるグローバルサプライチェーンの混乱、人手不足の深刻",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）土地投資額を含み、ソフトウェア投資額と研究開発投資額を含まないベース",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のソフトウェア・研究開発を含む設備投資計画（前年度比 %、土地除く）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア・研究開発を含む設備投資額（除く土地投資）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア・研究開発を含み土地投資を除く設備投資額の伸び率",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "模合計）は上方修正され、AI 関連投資や深刻な人手不足、SX・DX 投資による企業の設備投資意欲の強さが",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "月調査は上方修正されやすいという傾向はあるものの、データセンターなどの AI 関連投資や人手不足に",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よる省力化投資、SX・DX 投資などを中心に企業の設備投資意欲の強さが示されたといえよう（下左図）",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ており、 企業の省力化 ・ 効率化投資の意欲を強める要",
+    "url": "https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア・研究開発を含む設備投資額（除く土地投資額） (前年度比・％) 土地投資額 (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア投資額 (前年度比・％) 研究開発投資額 (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(注) 1．設備投資額（含む土地投資額）については、ソフトウェア投資額、研究開発投資額は含まない",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "銀行業 56 59 58 2 59 1 ソフトウェア・研究開発を含む設備投資額（除く土地投資額） (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "貸金業等 -21 -21 -24 -3 -18 6 研究開発投資額 (前年度比・％)",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. ソフトウェア投資額、研究開発投資額は含まない",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業非製造業では、地震臨時情報・台風上陸に伴う人出減少や人手不足が重荷となったものの、価格転嫁の進展やインバウンド需要の増加が追い風となり、景況感が若干改善した",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "物価高による消費への悪影響や人手不足の深刻化、円高によるインバウンド需要減少への懸念などが影響していると見られる",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実態としても、収益回復に伴う投資余力の改善に加え、脱炭素・DX・省力化・サプライチェーンの再構築に伴う投資需要を背景として堅調な設備投資計画が維持されている",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足による供給制約が強まっている可能性がある",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回の短観では、堅調な設備投資計画や値上げの継続意向、高いインフレ期待や人手不足感などが窺える内容になったことで、日銀として、追加利上げの根拠となる「経済・物価が見通しに沿った経路を辿っている（オントラックにある）」との判断を裏付ける材料に位置付けることが出来そうだ",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "５．設備･雇用：設備投資計画は堅調維持、人手不足感は極めて強い状況続く",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「どのアプリを開けばいい？」をなくす－中国平安保険、デジタル化10年の伏線回収",
+    "url": "https://www.nli-research.co.jp/report/detail/id=79823?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア投資額、研究開発投資額は含まない",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ソフトウェア・研究開発を含む設備投資額（除く土地投資額）",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観のソフトウェア・研究開発を含む設備投資額（除く土地投資額）のチャート",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の全産業のソフトウェア・研究開発を含む設備投資額（除く土地投資額）のチャート",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の製造業のソフトウェア・研究開発を含む設備投資額（除く土地投資額）のチャート",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の非製造業のソフトウェア・研究開発を含む設備投資額（除く土地投資額）のチャート",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額（含む土地投資額）は、ソフトウェア投資額、研究開発投資額は含まない",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業のソフトウェア・研究開発を含む設備投資額",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業のソフトウェア・研究開発を含む設備投資額",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業のソフトウェア・研究開発を含む設備投資額",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の全産業のソフトウェア・研究開発を含む設備投資額（除く土地投資額）の推移を示したチャートです",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の製造業のソフトウェア・研究開発を含む設備投資額（除く土地投資額）の推移を示したチャートです",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の非製造業（サービス業）のソフトウェア・研究開発を含む設備投資額（除く土地投資額）の推移を示したチャートです",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業のソフトウェア・研究開発を含む設備投資額を表示中",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「ソフトウェア・研究開発含む設備投資（除く土地投資額）」は、2016年まで「ソフトウェア含む設備投資（除く土地投資額）」のデータを反映",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業B：全産業の設備投資額（ソフトウェア・研究開発を含む設備投資額（除く土地投資額））",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業B：製造業の設備投資額（ソフトウェア・研究開発を含む設備投資額（除く土地投資額））",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業B：非製造業の設備投資額（ソフトウェア・研究開発を含む設備投資額（除く土地投資額））",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観の研究開発投資額とは、損益計算書を作成する場合の研究開発費です",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般管理費に含まれる研究開発費に加え、当期製造費用に含まれる研究開発費があれば、その総額となります",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資計画のうち最も注目される設備投資額（含む土地投資額）とソフトウェア・研究開発を含む設備投資額（除く土地投資額）の推移を掲載しています",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2026年11月6日更新）",
+    "url": "https://stock-marketdata.com/boj-short-term-economic-survey-of-enterprises-in-japan-tankan-fixed-investment",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "土地を含み、ソフトウェア・研究開発を除く",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査では、半導体やデータセンターに関わる部材を供給する企業の投資が伸びており、AI需要の「川上」にあたる製品の能力増強が背景にあるとみられます",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の自動車は、大型案件が一巡するものの、電動化関連を中心とした能力増強や生産設備の更新で13.2％増の計画です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "東海の投資を支えているのは、電動化関連の生産基盤整備や設備更新、新製品に対応した生産ラインの整備です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新工場だけでなく、既存ラインの更新や作り替えにも投資が向かっている",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業は「更新中心」から少しずつ前向きに",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資の目的は「更新」が最多、ただし能力拡充も上昇",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "2026年度の全産業における設備投資計画は、前期比6.8%増と前回（2026年1－3月期）から5.5ポイント上昇しました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、2025年度の設備投資実績は前期比9.4%増と、期中は伸び悩みながらも二桁に近い伸びとなりました",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【図表4】大企業 2026年度 売上収益計画の修正（前年同期比、%）",
+    "url": "https://media.monex.co.jp/articles/-/29673",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＋12.3%、非製造業で同＋10.2%と、いずれも前年比プラスでの着地見込みとなった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造業が前年比－1.5%、非製造業が同－2.6%と、やや低調な着地見込みとなった",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、",
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "温度判定は大企業 全産業 3 月初出計画を使用（過去 5 年は +3% 前後で推移、初出 2% 超は積極投資姿勢と読む）",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業は近年、初出 3% 前後 → 期中で +10% 超まで上方修正 → 翌 3 月実績見込でやや戻すパターンが定着している",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "+3% 前後の控えめな数字",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "直近 5 年の傾向では、期中の修正で初出から +6〜10% ポイントの上振れが起きるのが典型です",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最新の 3 月初出計画（大企業 全産業）で判定: < 0% で冷たい、0〜+2% で適温、> +2% で熱い",
+    "url": "https://www.keizai-ondokei.net/tankan/capex/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全 国 企 業 3,776社 5,328社 9,104社 99.4% 上期 下期 上期 下期",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "うち大 企 業 885社 746社 1,631社 99.0% 2026年6月調査 149.42 147.27 151.58 152.57 152.62 152.51",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業 1,071社 1,518社 2,589社 99.1% 2026年9月調査 ― ― ― 154.23 154.46 154.00",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業 1,820社 3,064社 4,884社 99.6% 2026年6月調査 169.13 165.12 173.14 175.62 175.68 175.56",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金 融 機 関 323社 99.4% 2025年度 2026年度",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "持 株 会 社 等 215社 91.2% 修正率 (計画) 修正率",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業 374社 96.0% 2026年6月調査 149.55 152.07",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "うち素材業種 135社 94.8% 2026年9月調査 ― 153.92",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加工業種 239社 96.7% 2026年6月調査 170.04 175.52",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業 214社 90.7% 2026年9月調査 ― 178.16",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全産業 588社 94.0%",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 99.0%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 98.8%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 98.7%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 99.2%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 44.5%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 48.9%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 42.1%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 46.7%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "( 45.3%)",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び | MONOSCOPE",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食品業界の設備投資2026｜42.7%増の後も続く新工場ラッシュの狙い",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査で大企業は2025年度42.7%増・2026年度計画3.5%増、日本公庫の設備投資DI、明治・森永乳業・雪印メグミルクの北海道新工場など主要5計画、工場を建てる4つの理由と今後の注意点を解説します",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月の機械受注は5.2%増｜電子計算機等が前年比7割増、設備投資の先行指標を読む",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイヘンが経常20%上方修正｜半導体電源と蓄電池が伸びた理由",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "任天堂中間決算2026｜減収でも営業益49%増の理由とSwitch 2の現在地",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In reviewing the sample enterprises, we select enterprises in the\"large,\" \"medium-sized,\" and\"small\" categories so that the standard deviation of estimated sales for the population is within 3% for manufacturing and 5% for non-manufacturing.",
+    "url": "https://www.boj.or.jp/en/statistics/tk/long_syu/tkyoko.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. Capital Investment Plans: Upward Revision to 7.6% Increase Despite Headwinds!",
+    "url": "https://note.com/yoshiyuki16/n/n8872d4ccb1e4?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Given the seasonal trend of the Tankan being revised upward from the beginning to the middle of the fiscal year, the growth as of September 2026 is slightly more cautious compared to the same period in September 2025 (8.4% increase).",
+    "url": "https://note.com/yoshiyuki16/n/n8872d4ccb1e4?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Bank of Japan raised the policy interest rate from 0.75% to 1.0% in June and implemented an additional rate hike to 1.25% in September.",
+    "url": "https://note.com/yoshiyuki16/n/n8872d4ccb1e4?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As a result, the ordinary profit plan for large enterprises in all industries is +6.4% year-on-year (+3.9% upward revision from the previous survey), confirming the structure where strong corporate performance is the driving force behind investment.",
+    "url": "https://note.com/yoshiyuki16/n/n8872d4ccb1e4?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "短 観（概要）―2026年9月― - 日本銀行 — 短 観（概要）―2026年9月― - 日本銀行 日本銀行ホームページ PDF https://www.boj.or.jp > statistics > gaiyo > tka2609",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短 観（概要）―2026 年 9月― - 日本銀行 — 短 観（概要）―2026 年 9月― - 日本銀行 日本銀行ホームページ PDF https://www.boj.or.jp > statistics > gaiyo > tka2609",
+    "url": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短観 （要旨）（2026 年 3月） : 日本銀行 Bank of Japan — 短観 （要旨）（2026 年 3月） : 日本銀行 Bank of Japan 日本銀行ホームページ https://www.boj.or.jp > 統計 > 短観 > 短観（要旨）一覧",
+    "url": "https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T02:56:11.522761+00:00"
+}

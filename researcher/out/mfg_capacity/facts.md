@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・86品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・95品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4817,13 +4817,582 @@
 
 ## 経済構造実態調査 製造業事業所調査 産業別統計表 Excel 2022〜2024年 確報（産業細分類×従業者規模の事業所数・従業者数・加工賃収入額・切れ目の後の系列・工業統計とつながない・4-26）（Economic Structure Actual Survey manufacturing establishments report by industry detailed industry by size Excel）
 - 文脈：業種・統計
-- 事業所数・社数：記載なし（読んだ48頁・検索15回）
-- 社員数・平均社員数：記載なし（読んだ48頁・検索15回）
-- 受注金額・加工賃収入：記載なし（読んだ48頁・検索15回）
-- 1人あたり・1社あたり金額：記載なし（読んだ48頁・検索15回）
-- 生産能力・設備：記載なし（読んだ48頁・検索15回）
-- 10年推移：記載なし（読んだ48頁・検索15回）
-- 人手と仕事の差：記載なし（読んだ48頁・検索15回）
+- 痛み・損（深さの印）：記載なし（読んだ21頁・検索18回）
+- 事業所数・社数：記載なし（読んだ21頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ21頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ21頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ21頁・検索18回）
+- 生産能力・設備：記載なし（読んだ21頁・検索18回）
+- 10年推移：記載なし（読んだ21頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ21頁・検索18回）
+
+## 人手不足で受注を断った企業の割合（規模別・業種別）（share of SMEs declining orders due to labor shortage Japan by size）
+- 文脈：損の額・一次
+- 痛み・損（深さの印）：
+  - 「2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これにより既存従業員の疲弊が進み、離職が新たな人手不足を生むという悪循環に陥るケースが増加しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「人手不足により既存の業務を維持することが精一杯の状況では、新規受注を断らざるを得ない事態が頻発します」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「従業員の離職により、離職しなかった既存従業員にその業務負荷が割り振られることで、一人当たりの業務量が大幅に増加します」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「ベテラン社員の離職や定年退職により、長年培われた技術や業務ノウハウが若手に伝承されないまま失われる事態が多発しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「労働者不足による倒産リスクと事業継続の限界」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「労働者不足の最終的な帰結として、企業の倒産リスクが急激に高まっています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「帝国データバンク「人手不足倒産の動向調査（2024年）」」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、特に2024年問題の影響を受けた建設業では99件、物流業では46件の人手不足倒産が発生し、両業種で全体の4割強を占めています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「黒字経営であっても人手不足により倒産に至るケースも増加しており、従来の財務指標だけでは測れないリスクが顕在化しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「また、従業員のエンゲージメント向上により離職率を低下させることも重要です」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「調査によると、エンゲージメントが高い企業ほど離職率が低下する傾向があることが確認されており、従業員が「この職場で長く働きたい」と思える環境づくりが効果的です」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「人材確保・定着にかかるコストと、人手不足により生じる機会損失を比較検討する必要があります」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「・待遇改善：人件費増加だが、離職率低下と優秀人材確保」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+- 社員数・平均社員数：
+  - 「2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「「人手不足に対する企業の動向調査」（2025年4月」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「「法人企業景気予測調査」（2025年1～3月期調査）」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「では、従業員数判断BSI（「不足気味」の企業割合－「過剰気味」の企業割合）において、大企業が28.3ポイントであるのに対し、中小企業は30.3ポイントと、依然として中小企業の方が深刻な人手不足に陥っていることが明確に示されています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、中小企業の63.0%が「人手不足」と回答し、そのうち65.5%が事業運営に「深刻な影響」（「非常に深刻」または「深刻」）を受けている状況です」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これらの業界では、依然として7割近い企業が人手不足に直面しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「第2章 第1節 高まる人手不足感と企業部門の対応 - 内閣府」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「第2章 人手不足による成長制約を乗り越えるための課題 第1節」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「第1節 高まる人手不足感と企業部門の対応」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「1 人手不足の現状」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「直近2024年6月調査時点の雇用人員判断DIは、全規模全産業ベースでマイナス35％ポイントと、「不足」と回答する企業の割合が「過剰」と回答する企業の割合を大幅に上回っており、企業の人手不足感の深刻さを物語っている（」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「DIの水準としては、バブル期の景気拡大期のピークである1990年11月調査及び1991年2月調査におけるマイナス46％ポイントという既往の不足超幅の最高値は下回っているものの、バブル期は、供給面の制約というよりは過剰な需要が人手不足感を引き起こしていたという点で、近年とは状況が異なる」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+- 受注金額・加工賃収入：
+  - 「大企業では初任給30万円時代と言われる中、賃上げ機運に追いつけない中小企業が増加しており、人材獲得においてますます不利な状況に置かれています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「のとおりであり、第一に、年齢が高いほど留保賃金が高いこと、第二に、配偶者の収入や不動産賃貸収入等を含む、本人にとっての不労所得が高い（500万円以上）場合には留保賃金が高くなることが確認される」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「具体的には、労働分配率を被説明変数とし、<1>資本との代替・補完関係を示す指標として資本財価格（機械設備又はコンピュータ・ソフトウェア）、<2>グローバル化の指標として売上高に対する輸出の比率（輸出比率）及び費用総額に対する輸入の比率（輸入比率）、<3>従業者に占めるパートタイム労働者の比率（パート労働者比率）等を説明変数とする固定効果モデルを推計した」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「なお、「法人企業統計」ベースと国民経済計算ベースでは、<1>国民経済計算には、政府部門など非市場生産者や医療法人・社会福祉法人等が含まれるほか、不動産業に持家の帰属家賃分が含まれる、<2>四半期別法人企業統計ベースは資本金1,000万円未満企業分が含まれないほか、純粋持株会社の利益に含まれる子会社からの配当分が国民経済計算ベースでは付加価値（GDP）には含まれない、といったカバレッジ上の違いがあることに留意が必要」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（21）同調査は、従業者50人以上かつ資本金又は出資金3,000万円以上の企業を対象としており、中小企業も含むが、中堅企業以上をより代表していると考えられる」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「✓ 直近、直近より 1 期前、直近より 2 期前の売上高」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「500万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「500万円超～1,000万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「1,000万円超～2,000万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「2,000万円超～5,000万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「5,000万円超～1億円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「1億円超～3億円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「1 期前、直近決算期の 2 期前における売上高及び営業利益率について尋ねた結果をまとめ」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「図表 20 売上高（直近決算期）」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「1,000万円超～2,500万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+- 1人あたり・1社あたり金額：
+  - 「大企業では初任給30万円時代と言われる中、賃上げ機運に追いつけない中小企業が増加しており、人材獲得においてますます不利な状況に置かれています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「のように、人手が「適正」とする企業と比べると、人手が「やや不足」や「不足」としているとする企業は、労働生産性が有意に低いという結果が確認され、「不足」企業は「適正」企業に比べて3割程度低くなっている」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「のとおりであり、第一に、年齢が高いほど留保賃金が高いこと、第二に、配偶者の収入や不動産賃貸収入等を含む、本人にとっての不労所得が高い（500万円以上）場合には留保賃金が高くなることが確認される」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（1）のとおり、製造業においては、機械設備装備率、ソフトウェア装備率ともに、労働生産性とは正の相関関係がみられるが、機械設備の方がソフトウェアに比べ、労働生産性への影響が強いことが示唆される」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「と同じ定義として、企業財務データとマッチングして企業単位で作成し、業種や企業規模をコントロールした上で、傾向スコアを用いた逆確率重み付け法による平均処置効果を推計すると、省力化投資を行っている企業では、そうでない企業に比べ、時間当たりの労働生産性が10％程度高いという結果が得られた（」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「また、同様の手法で、省力化投資を5年前から増加させたことによる労働生産性への効果を推計すると、省力化投資を増加させた企業は、そうでない企業に比べ、10％以上、労働生産性が高いという結果となっている（」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（3）ここでは、労働生産性を、労働投入量に対する付加価値の比率、すなわち時間当たりの労働生産性として定義している」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「500万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「500万円超～1,000万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「1,000万円超～2,000万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「2,000万円超～5,000万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「5,000万円超～1億円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「1,000万円超～2,500万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「2,500万円超～5,000万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+  - 「5,000万円超～7,500万円以下」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+- 生産能力・設備：
+  - 「ここでは、日銀短観のオーダーメード集計値により、人手不足感が傾向的に拡大してきた2013年度から2022年度までの期間における、各年3月調査時点での企業の雇用人員判断（「過剰」、「適正」、「不足」）別に、同調査時点における設備投資の当年度実績見込みの伸び率を整理した（」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「第一に、人手不足に直面している企業（雇用人員判断が「不足」である企業）では、そうでない企業（雇用人員判断が「適正」又は「過剰」である企業）に比べて、有形固定資産投資、ソフトウェア投資のいずれについても、2013年度から2022年度の平均でみた設備投資の伸び率が高く、設備投資へのスタンスが積極的であると言える」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「これらの点について、池田・近松・八木（2023）では、日銀短観の個票データを用い、人手不足の状況が一時的であるか長期化しているかによって、企業の設備投資スタンスの違いを分析している」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（6）資本装備率は、労働投入量に対する有形固定資産とソフトウェアの比率」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（15）日銀短観における「設備投資額（含む土地投資額）」」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（16）雇用人員判断を「不足」と回答した回数が、過去8四半期中で1～2期であれば「一時的」、3～4期であれば「やや長期化」、5～8期であれば「長期化」とし、業況感や生産設備の過不足感、資金繰りの過不足感といった要因はコントロールした上で、これら人手不足の状況別のダミーに対する設備投資の感応度を推計している」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（24）実際、製造業と非製造業に分け、後半期間で同様の推計を行うと、非製造業では機械設備投資財価格の係数は統計的に有意でない一方、製造業では全産業と同様の代替関係が検出されている」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「ている」（40.4%） であり、 「IT・ 設備投資を回収できるかどうかの判断が難しい」 （28.9%）、」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+- 10年推移：
+  - 「2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「「人手不足に対する企業の動向調査」（2025年4月」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「2024年の最新データで見る深刻な労働者不足の実態」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「総務省統計局の労働力調査によると、労働力人口は増加傾向にあるものの、企業が求める人材と求職者のスキルミスマッチが拡大しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「「法人企業景気予測調査」（2025年1～3月期調査）」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「日本商工会議所の調査（2024年7月）」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、2024年卒採用において採用計画の8割以上を達成した企業の割合は、大企業（従業員1,001名以上）が76%だったのに対し、中小企業（従業員300名以下）では47%にとどまりました」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これにより既存従業員の疲弊が進み、離職が新たな人手不足を生むという悪循環に陥るケースが増加しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「2025年4月時点の帝国データバンクの調査」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「日本の労働者不足の最大の要因は、少子高齢化による生産年齢人口（15～64歳）の減少です」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「生産年齢人口（15～64歳）は1995年の8,717万人をピークに減少に転じています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「では、2070年には生産年齢人口が4,535万人まで減少すると予測されています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+- 人手と仕事の差：
+  - 「2025年1月の調査では企業の半数以上が人手不足を感じており、人手不足倒産も過去最多を記録するなど、企業の存続そのものを脅かす構造的課題となっています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「「人手不足に対する企業の動向調査」（2025年4月」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「2024年の就業者数は6,781万人と過去最多を記録した一方で、企業の人手不足感は改善していません」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、2024年の人手不足倒産は342件に達し、2年連続で過去最多を更新しました」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「では、従業員数判断BSI（「不足気味」の企業割合－「過剰気味」の企業割合）において、大企業が28.3ポイントであるのに対し、中小企業は30.3ポイントと、依然として中小企業の方が深刻な人手不足に陥っていることが明確に示されています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、中小企業の63.0%が「人手不足」と回答し、そのうち65.5%が事業運営に「深刻な影響」（「非常に深刻」または「深刻」）を受けている状況です」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これにより既存従業員の疲弊が進み、離職が新たな人手不足を生むという悪循環に陥るケースが増加しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「によると、正社員の人手不足が最も深刻な業界は以下の通りです」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これらの業界では、依然として7割近い企業が人手不足に直面しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「建設業では、2024年4月から施行された時間外労働の上限規制（2024年問題）により、従来の働き方が制限され、さらなる人手不足が加速しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「これにより、従来の働き方では必要な労働時間を確保できなくなり、人手不足が一層深刻化しています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「人手不足により既存の業務を維持することが精一杯の状況では、新規受注を断らざるを得ない事態が頻発します」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「マンパワーグループの調査によると、人手不足企業の多くが「仕事の受注そのものを減らすか、断るしかない」状況に追い込まれています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「厚生労働省の調査では、人手不足が職場環境に与える影響として「残業時間の増加、休暇取得数の減少」が最多となっており、企業・労働者双方が最も深刻に感じている問題です」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+  - 「技術継承の重要性は理解されているものの、人手不足により教育・研修の時間が十分に取れないことが問題となっています」（https://ma-la.co.jp/m-and-a/worker-shortage/）
+- 検索結果の抜粋：
+  - 「ポストコロナ時代における 規模別 ・ 業種 別に見た 中小 企業 の ... — ポストコロナ時代における 規模別 ・ 業種 別に見た 中小 企業 の ... 全国中小企業振興機関協会 PDF https://www.zenkyo.or.jp > docs > houkoku_2021-3」（https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf）
+- 事業所数・社数：記載なし（読んだ52頁・検索18回）
+
+## 人手不足による機会損失の額（製造業・規模別）（opportunity loss from labor shortage manufacturing Japan amount）
+- 文脈：損の額・一次
+- 痛み・損（深さの印）：
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：受注辞退・失注による機会損失（表面化しにくいが最も大きい）」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「そして最終形が、前述の「黒字廃業・人手不足倒産」です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「最も優秀な人材に欠員のしわ寄せを集中させるのは、短期的には合理的に見えて、中期的には最悪の一手です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「賃金が下がったのに責任が同じでは、モチベーション低下と再離職を招きます」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「製造業の離職には明確なパターンがあり、対策も定石化できます」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「若手の離職は「仕事がきついから」より「成長が見えないから」」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「離職データを分析すると、製造現場の早期離職は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「関連記事：離職要因の分析手法と定着施策の詳細は【内部リンク：子」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「「製造業の離職率改善・定着率向上」】、スキルマップを起点とした育成は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「欠員時のバックアップ、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+- 事業所数・社数：
+  - 「2．この場合の未充足率は、各事業所の未充足率を求めた上で、それらを合計した後、事業所数で除することで算出している」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「第 2-1-8 図 従業者規模別非農林雇用者数の推移」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「また、外国人労働者を雇用する事業所数は約 19 万」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「コラム 2-1-1 ①図 外国人労働者数及び外国人雇用事業所数の推移」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf）
+  - 「企業規模 1,000人以上 300～999人 100～299人 30～99人 5～29人 新規学卒者のうち」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「図 215-１ 製造業に関する事業所数」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「215-１でみたように事業所数が半減していること」（https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf）
+  - 「総務省・経済産業省「令和3年経済センサス‐活動調査」の製造業統計をもとにすると、従業員300人以上の企業における社員1人あたりの年間付加価値額は、」（https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss）
+  - 「※本数値は、以下の公式統計に基づき、従業者規模別（300〜499人、500〜999人、1000人以上）の付加価値額と従業者数を合算したうえで算出したものです」（https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss）
+  - 「103件（回答企業数：102社）」（https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html）
+  - 「完全回答数 103件（回答企業数：102社）」（https://www.jmac.co.jp/news/items/info0912_report.pdf）
+  - 「我が国経済において中小企業・小規模事業者は、企業数の99.7％、従業者数の約7割、付加価値額の約5割を占め、地域経済及び雇用の中核を担っている」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_2_1.html）
+  - 「株式会社サンソウシステムズでは、導入社数No.1（富士キメラ総研 2024年8月8日発刊）の現場帳票システム「」（https://www.satfaq.jp/dx-column/manufacturing-understaffsd/）
+  - 「図２ 輸出入比率（従業者規模別）」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf）
+  - 「50人～99人 100人～199人 200人～299人 300人以上」（https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf）
+- 社員数・平均社員数：
+  - 「人手不足による年16兆円の機会損失を考える｜藤本正雄（ふじもと まさお）」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「人手不足による年16兆円の機会損失を考える」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「11月9日の日経新聞で、「人手不足が奪った年16兆円の商機 需要刺激だけで成長できない現実 労働臨界」というタイトルの記事が掲載されました」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「人手不足によって年16兆円の機会損失が発生している」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「日本経済新聞が日本総合研究所と人手不足で生じた機会損失を試算したところ、その規模は年16兆円に達した」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「10月6日夜、国慶節の祝日で多くの中国人旅行客が来日し、稼ぎ時のはずの栃木県日光市の大型旅館を訪れると、フロアの明かりはまばらだった」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「従業員数は新型コロナウイルス禍前より4割少ない60人程度」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「東京商工リサーチによると、24年度に求人難や従業員の退職、人件費高騰などを原因とする倒産は前年度比6割増の309件で過去最多となった」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「日経と東京商工リサーチは過去の人手不足倒産企業の売上高や平均従業員数の減少率、純利益率の低下ポイントの3指標を調査」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「その中央値や平均値を上回る企業を「人手不足倒産予備軍」と定義したところ、24年度は調査対象の約54万社のうち2.5%が予備軍で、5年で0.3ポイント上昇した」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「働き方改革で1人当たり労働時間が縮小する中、規制緩和で一定程度は労働供給を増やすことができる」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「24年度の法人企業統計調査で従業員1人当たりのソフト資産をみると、飲食・宿泊（2万円）や医療・福祉（5万円）は全産業平均（45万円）を大幅に下回る」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「人手不足が奪う成長機会16兆円どう計算？：日本経済新聞」（https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/）
+  - 「人手不足が奪う成長機会16兆円どう計算？」（https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/）
+  - 「ただ新型コロナウイルス禍で働き手が減り、従業員数はコロナ前より4割少ない60人程度になってしまいました」（https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/）
+- 受注金額・加工賃収入：
+  - 「日経と東京商工リサーチは過去の人手不足倒産企業の売上高や平均従業員数の減少率、純利益率の低下ポイントの3指標を調査」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「24年度の法人企業統計調査で従業員1人当たりのソフト資産をみると、飲食・宿泊（2万円）や医療・福祉（5万円）は全産業平均（45万円）を大幅に下回る」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「2019年に4兆5000億円だった損失は24年に16兆1000億円に達したとみられます」（https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/）
+  - 「改革に着手した 2010 年当時、同社の特注品の売上高は 2,000 万円で、それでも仕事がこなしきれない状況だった」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「かし、現在は同数の社員で特注品の売上高は 9,000 万円に達している」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「利益率は 11％を超え、６期連続で最高売上高を更新中である」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「ルムパッケージと DPE などの写真関連の印刷であり、それらは最盛期には売上高の３割を占めていた」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「製造業を対象に、自分で組み立てて動かす 10 万円 IoT キットの提案を行った」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「ロッパ製で１台数千万円もする大型の検査装置はあるが、コストもスペースもかかる上に取りこぼしがあり、装置を入れて」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「限を、現行の 100 万円から１億円に引き上げる予定としてい」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「厚生労働省（2023）で示したとおり、ＧＤＰから計算した一人当たり労働生産性は1996年から長期的にほぼ横ばいであるが、中間投入も含めた生産額の総額から計算すると、就業者一人当たりの生産額は1990～2015年にかけて15％ほど増加している」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「この推計の結果によると、売上高上昇率が高い企業や離職率が高い企業ほど人手不足と回答する確率が高い一方、1人当たりの賃金が高いほど人手不足と回答する企業が少ないという結果となっている（」（https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html）
+  - 「2017年度は交易条件要因による押上げの縮小がみられ、売上価格要因も僅かなプラス寄与に留まる中、売上数量要因のプラス寄与が主因となって収益が増加している」（https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html）
+  - 「売上価格要因はほとんど2012年比で変わっておらず、企業収益の増加は販売価格の上昇ではなく、売上数量の上昇や交易条件の改善で実現している」（https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html）
+  - 「（16）被説明変数を人手不足感（「不足＝1」～、「過剰＝5」）、説明変数を業種、企業規模、正社員の平均勤続年数、非正社員比率、2017年度の一人あたり賃金、離職率、売上高上昇率（2013年度から17年度の伸び率）とした多項ロジットモデルを推計し、人手不足感が「不足＝1」と答えた選択肢に対する限界効果を推計した」（https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html）
+- 1人あたり・1社あたり金額：
+  - 「働き方改革で1人当たり労働時間が縮小する中、規制緩和で一定程度は労働供給を増やすことができる」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「24年度の法人企業統計調査で従業員1人当たりのソフト資産をみると、飲食・宿泊（2万円）や医療・福祉（5万円）は全産業平均（45万円）を大幅に下回る」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「３．1人当たり労働生産性を高める」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「1人当たり労働生産性がOECD他国に劣るということが各所で指摘されている通り、」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「1人あたりの名目労働生産性は、2025年時点で全産業の約1.2倍です」（https://authentec.jp/valuableinfo/manufacturing-industry-challenges/）
+  - 「製造業では中小企業の価格転嫁力が大企業より低く、1人あたり名目付加価値額の上昇率を押し下げる要因になっています」（https://authentec.jp/valuableinfo/manufacturing-industry-challenges/）
+  - 「改革に着手した 2010 年当時、同社の特注品の売上高は 2,000 万円で、それでも仕事がこなしきれない状況だった」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「かし、現在は同数の社員で特注品の売上高は 9,000 万円に達している」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「製造業を対象に、自分で組み立てて動かす 10 万円 IoT キットの提案を行った」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「ロッパ製で１台数千万円もする大型の検査装置はあるが、コストもスペースもかかる上に取りこぼしがあり、装置を入れて」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「 ・労働生産性：年平均伸率２％以上」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「限を、現行の 100 万円から１億円に引き上げる予定としてい」（https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf）
+  - 「（１）から、企業の付加価値額の推移をみると、1985年度～1995年度まで大きく増加した後、1995年度～2013年度までほぼ横ばいで推移していたが、同年度以降には、再び増加トレンドに転じている」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「第３次産業においては就業者数の増加の寄与が大きく、1970～1990年では、一人当たり生産性の寄与も第３次産業の方が大きい」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+  - 「こうした第３次産業における労働分配率の低下が、厚生労働省（2023）でも指摘したように、一人当たり生産性が上昇する中にあっても、一人当たり賃金がなかなか増加していない」（https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html）
+- 生産能力・設備：
+  - 「約130室ある客室の稼働率は50%程度が限界だ」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「いくら募集をかけても人は集まらず、約130室ある客室の稼働率は50％が限界です」（https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/）
+  - 「製造業の設備投資額は、2012年7-9月期以降、減価償却費を上回って推移しています」（https://authentec.jp/valuableinfo/manufacturing-industry-challenges/）
+  - 「一方、中小企業庁によると、直近5年程度に実施した設備投資の目的は「設備の更新・維持」がもっとも多く、次いで「生産能力・販売能力の強化」です」（https://authentec.jp/valuableinfo/manufacturing-industry-challenges/）
+  - 「経済全体の需給の状況をみるために、平均的な稼働率で労働や資本を活用することで達成可能なGDPと実際のGDPの差を示すGDPギャップの動向をみると、振れを伴いながら、2017年以降はおおむねプラスで推移しており、経済全体でみて需給がひきしまっている（」（https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html）
+  - 「1回数分程度の停止でも、1日に何度も繰り返されると累積で大きな稼働率ロスになります」（https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage）
+  - 「社員1人の離職で年間1,700万円の損失？中堅製造業が採用を「設備投資」と捉えるべき理由 | マーケティングメディア｜株式会社コンテナ：CONTENNA.co.ltd」（https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss）
+  - 「社員1人の離職で年間1,700万円の損失？中堅製造業が採用を「設備投資」と捉えるべき理由」（https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss）
+  - 「ここでは、日銀短観のオーダーメード集計値により、人手不足感が傾向的に拡大してきた2013年度から2022年度までの期間における、各年3月調査時点での企業の雇用人員判断（「過剰」、「適正」、「不足」）別に、同調査時点における設備投資の当年度実績見込みの伸び率を整理した（」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「第一に、人手不足に直面している企業（雇用人員判断が「不足」である企業）では、そうでない企業（雇用人員判断が「適正」又は「過剰」である企業）に比べて、有形固定資産投資、ソフトウェア投資のいずれについても、2013年度から2022年度の平均でみた設備投資の伸び率が高く、設備投資へのスタンスが積極的であると言える」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「これらの点について、池田・近松・八木（2023）では、日銀短観の個票データを用い、人手不足の状況が一時的であるか長期化しているかによって、企業の設備投資スタンスの違いを分析している」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（6）資本装備率は、労働投入量に対する有形固定資産とソフトウェアの比率」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（15）日銀短観における「設備投資額（含む土地投資額）」」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（16）雇用人員判断を「不足」と回答した回数が、過去8四半期中で1～2期であれば「一時的」、3～4期であれば「やや長期化」、5～8期であれば「長期化」とし、業況感や生産設備の過不足感、資金繰りの過不足感といった要因はコントロールした上で、これら人手不足の状況別のダミーに対する設備投資の感応度を推計している」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+  - 「（24）実際、製造業と非製造業に分け、後半期間で同様の推計を行うと、非製造業では機械設備投資財価格の係数は統計的に有意でない一方、製造業では全産業と同様の代替関係が検出されている」（https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html）
+- 10年推移：
+  - 「万人をピークに減少を続け、「」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「で推移しており、全職業平均（直近は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：少子高齢化による労働力人口の絶対的な減少」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「年をピークに減少を続け、国立社会保障・人口問題研究所の推計では」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「https://www.ipss.go.jp/pp-zenkoku/j/zenkoku2023/pp_zenkoku2023.asp」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：残業代・外注費の増加、経験不足による不良・手直しの増加」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「万人減少しており、他産業が女性活躍を進める中で製造業だけが取り残されています」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「歳以上の就業者は増加傾向にあり、経験と技能を持つシニアの再雇用は即戦力確保の現実解です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「既に製造業の外国人労働者は大幅に増加していますが、成否を分けるのは受け入れ体制です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「製造業の外国人労働者は増加を続けており、受け入れの制度・支援機関も整ってきています」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「2021年に新卒入社後、3年という速さで現職のリーダーに就任」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「2025年11月12日 05:29」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「2024年の機会損失は16兆円」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「日経と東京商工リサーチは過去の人手不足倒産企業の売上高や平均従業員数の減少率、純利益率の低下ポイントの3指標を調査」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+  - 「日本政策投資銀行によると、19年度以降に主要企業の投資計画と実績の乖離（かいり）は10%前後で推移」（https://note.com/fujimotomasao/n/n4d12358b6ce8）
+- 人手と仕事の差：
+  - 「しかし同時に、正しい順序で手を打てば、人手不足のなかでも利益を伸ばしている会社が実在するのも事実です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「「製造業の人手不足」と一括りにせず、自社のどの職種・どの工程が構造的に採れないのかを特定する」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「帝国データバンクの調査では、人手不足を主因とする倒産は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「出典：帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「しかし人がいないために生産ラインが維持できず、納期対応を断り、取引先が離れていく」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「）、帝国データバンク「人手不足倒産の動向調査（」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：生産能力が落ち、納期対応を断り、取引先が相見積もりに呼ばなくなる」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「段階目あたりから「打ち手を実行する人的余力」自体が消滅すること」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「体力が残っているうちに着手するか、余力ゼロで座して待つか」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：受注辞退・失注による機会損失（表面化しにくいが最も大きい）」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「：残業代・外注費の増加、経験不足による不良・手直しの増加」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「そして最終形が、前述の「黒字廃業・人手不足倒産」です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「「人手不足＝ロボット導入」と短絡するのは危険です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+  - 「（人手不足対応の省人化設備が対象）、」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803）
+
+## 人手不足倒産の件数（業種別・年次）（labor shortage bankruptcies Japan by industry）
+- 文脈：痛み・一次
+- 痛み・損（深さの印）：
+  - 「人手不足倒産の動向調査（2025年度）｜株式会社 帝国データバンク[TDB]」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産の動向調査（2025年度）」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産は441件 前年度比1.3倍、過去最多を更新 「従業員退職型」でも過去最多、118件」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「株式会社帝国データバンクは、従業員の離職や採用難等による人手不足を要因とする「人手不足倒産」の発生状況について調査・分析を行った」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「2025年度の人手不足倒産は前年度比約1.3倍の441件となり、過去最多を更新した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「なかでも、従業員や経営幹部などの退職を原因とした「従業員退職型」の倒産が118件となり、過去最多を更新した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「集計対象：負債1000万円以上・法的整理による倒産」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「2025年度の人手不足倒産は441件、従業員退職型も100件超」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「また、人手不足倒産のうち従業員や経営幹部などの退職を原因とした「従業員退職型」の倒産は、118件となった」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「20250409_人手不足倒産の動向調査（2025年度）」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産はなぜ起こる？ 原因や対策について解説します | ONODERA USER RUN（オノデラユーザーラン）」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「人手不足倒産はなぜ起こる？ 原因や対策について解説します」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「人手不足倒産とは、従業員の退職や採用難、人件費の高騰などが原因で、事業を続けられなくなる倒産です」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「最新の件数、倒産の4つのタイプ、起きやすい業種、予防策、その一つとしての外国人材（特定技能）を順に説明します」（https://onodera-user-run.co.jp/useful/13257/）
+- 事業所数・社数：
+  - 「【メインバンク企業数ランキング】3メガで三井住友銀だけなぜ増えた？4310社を取り込んだ「新戦略」」（https://diamond.jp/articles/-/402451）
+- 社員数・平均社員数：
+  - 「人手不足倒産の動向調査（2025年度）｜株式会社 帝国データバンク[TDB]」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産の動向調査（2025年度）」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産は441件 前年度比1.3倍、過去最多を更新 「従業員退職型」でも過去最多、118件」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「2025年度の人手不足倒産は前年度比約1.3倍の441件となり、過去最多を更新した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「2025年度の人手不足倒産は441件、従業員退職型も100件超」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「建設業は人手不足を感じている企業の割合が全業種のなかで最も高く、深刻な人手不足が続いており（帝国データバンク「人手不足に対する企業の動向調査（2026年1月）」）、施工に欠かせない資格・スキルを持つ現場作業員や営業担当者の退職が相次ぎ、事業継続が困難になるケースが目立った」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「足場工事業の幸佳組（三重県、2026年2月破産）は職人不足に加えて、それを補うための人件費上昇も重なり赤字体質が続いたことが引き金の一つとなり、破産に追い込まれた」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「また、ドライバー不足や高齢化が深刻な課題となっている道路貨物運送業（55件）に加えて、老人福祉事業（22件）や飲食店（21件）、労働者派遣業（12件）など労働集約型産業を中心に、それぞれ業種別で過去最多を更新した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「また、人手不足倒産のうち従業員や経営幹部などの退職を原因とした「従業員退職型」の倒産は、118件となった」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「20250409_人手不足倒産の動向調査（2025年度）」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「最新の件数、倒産の4つのタイプ、起きやすい業種、予防策、その一つとしての外国人材（特定技能）を順に説明します」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「人手不足倒産の4つのタイプと対策の方向」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「人手不足倒産を防ぐ対策5つ」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「帝国データバンクの集計は、人手不足を要因とした倒産のうち、法的整理で負債1,000万円以上のものが対象です」（https://onodera-user-run.co.jp/useful/13257/）
+- 受注金額・加工賃収入：
+  - 「集計対象：負債1000万円以上・法的整理による倒産」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「帝国データバンクの集計は、人手不足を要因とした倒産のうち、法的整理で負債1,000万円以上のものが対象です」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「アパート新築工事を手がけた2024年11月期には、年売上高約4億2500万円を計上していた」（https://diamond.jp/articles/-/402451）
+  - 「しかし、同期に手がけたアパート新築工事で人件費負担が増加したうえ、支払手数料も膨らみ、営業損益は5000万円を上回る赤字を計上し、債務超過に陥っていた」（https://diamond.jp/articles/-/402451）
+  - 「設立時から現場を担っていた代表者が現場を離れるなど不安定な運営が続くなか、人手不足による外注費の増加も重なって資金繰りが限界に達し、約4億円の負債を抱えて事業継続を断念した」（https://diamond.jp/articles/-/402451）
+  - 「「すし店」 売上増も「減益」企業が約4割 コメ価格など物価高が重し、休廃業・解散が急増」（https://www.tsr-net.co.jp/data/detail/1203180_1527.html）
+  - 「オンラインアシスタントの料金・費用が気になるなら「月額3.8万円〜」のタクシタがおすすめ」（https://go.taxita.com/column/outsourcing019/）
+  - 「ノンコア業務の負担を大幅に削減したい企業様へ月3.8万円〜の低価格で提供する「」（https://go.taxita.com/column/outsourcing019/）
+  - 「月額3.8万円（税込41,800円）〜という低価格を実現」（https://go.taxita.com/column/outsourcing019/）
+  - 「従業員の退職・採用難・人件費高騰などの「人手不足」を要因とする、負債1,000万円以上の法的整理（倒産）」（https://www.mh5.jp/announce_95702.html）
+  - 「新規雇用で正社員を増やすのではなくCASTER BIZ assistantを導入し、リサーチや発注代行などの各種雑務を委託したことで、事業が急成長するなかでも社員19名という少数精鋭体制のまま大幅な売上規模拡大を実現しています」（https://cast-er.com/column/bankruptcy-of-small-and-medium-sized-enterprises/）
+  - 「集計対象：負債1000万円以上・法的整理による倒産」（https://prtimes.jp/main/html/rd/p/000001312.000043465.html）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した」（https://prtimes.jp/main/html/rd/p/000001312.000043465.html）
+  - 「9000万円」（https://prtimes.jp/main/html/rd/p/000001312.000043465.html）
+- 1人あたり・1社あたり金額：
+  - 「集計対象：負債1000万円以上・法的整理による倒産」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「帝国データバンクの集計は、人手不足を要因とした倒産のうち、法的整理で負債1,000万円以上のものが対象です」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「アパート新築工事を手がけた2024年11月期には、年売上高約4億2500万円を計上していた」（https://diamond.jp/articles/-/402451）
+  - 「しかし、同期に手がけたアパート新築工事で人件費負担が増加したうえ、支払手数料も膨らみ、営業損益は5000万円を上回る赤字を計上し、債務超過に陥っていた」（https://diamond.jp/articles/-/402451）
+  - 「オンラインアシスタントの料金・費用が気になるなら「月額3.8万円〜」のタクシタがおすすめ」（https://go.taxita.com/column/outsourcing019/）
+  - 「ノンコア業務の負担を大幅に削減したい企業様へ月3.8万円〜の低価格で提供する「」（https://go.taxita.com/column/outsourcing019/）
+  - 「月額3.8万円（税込41,800円）〜という低価格を実現」（https://go.taxita.com/column/outsourcing019/）
+  - 「従業員の退職・採用難・人件費高騰などの「人手不足」を要因とする、負債1,000万円以上の法的整理（倒産）」（https://www.mh5.jp/announce_95702.html）
+  - 「集計対象：負債1000万円以上・法的整理による倒産」（https://prtimes.jp/main/html/rd/p/000001312.000043465.html）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した」（https://prtimes.jp/main/html/rd/p/000001312.000043465.html）
+  - 「9000万円」（https://prtimes.jp/main/html/rd/p/000001312.000043465.html）
+  - 「集計対象：負債1000万円以上・法的整理による倒産」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産（法的整理、負債1000万円以上）は、2026年度上半期（4-9月）に225件発生した」（https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/）
+  - 「帝国データバンクが10月7日に発表した調査の主な数字です（負債1,000万円以上の法的整理が対象）」（https://note.com/mahaseg/n/ndcf1c795d1ff）
+- 10年推移：
+  - 「人手不足倒産の動向調査（2025年度）｜株式会社 帝国データバンク[TDB]」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産の動向調査（2025年度）」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「2025年度の人手不足倒産は前年度比約1.3倍の441件となり、過去最多を更新した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「建設業や道路貨物運送業に加えて、老人福祉事業や飲食店、労働者派遣業など労働集約型産業で増加が顕著だった」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「2025年度の人手不足倒産は441件、従業員退職型も100件超」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「年度では初めて100件を超え、4年連続で増加した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「橋梁工事業者だったライブディック（宮城県、2025年9月破産）は、従業員の退職が相次いだことで例年通りの工事を受注できない状況に陥り、事業継続を断念した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「また、浄化槽の清掃保守・点検を手がけていた日本公害管理センター（東京都、2025年10月破産）は、2025年に入り複数の若手従業員が立て続けに退職したことが影響し、事業停止を余儀なくされた」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「20250409_人手不足倒産の動向調査（2025年度）」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「帝国データバンクの調査では、2025年は427件で、3年連続の過去最多でした」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「2025年（1〜12月）」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「2025年度（4月〜翌年3月）」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「規模別では、2025年は従業員10人未満が329件で、全体の77.0%を占めます」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「帝国データバンクの2025年度の調査では、従業員退職型は118件で、過去最多でした」（https://onodera-user-run.co.jp/useful/13257/）
+- 人手と仕事の差：
+  - 「人手不足倒産の動向調査（2025年度）｜株式会社 帝国データバンク[TDB]」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産の動向調査（2025年度）」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産は441件 前年度比1.3倍、過去最多を更新 「従業員退職型」でも過去最多、118件」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「株式会社帝国データバンクは、従業員の離職や採用難等による人手不足を要因とする「人手不足倒産」の発生状況について調査・分析を行った」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「2025年度の人手不足倒産は前年度比約1.3倍の441件となり、過去最多を更新した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「2025年度の人手不足倒産は441件、従業員退職型も100件超」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「従業員の退職や採用難、人件費高騰などを原因とする人手不足倒産(法的整理、負債1000万円以上)は、2025年度に441件発生し、前年度（350件）から約1.3倍に増加した」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「建設業は人手不足を感じている企業の割合が全業種のなかで最も高く、深刻な人手不足が続いており（帝国データバンク「人手不足に対する企業の動向調査（2026年1月）」）、施工に欠かせない資格・スキルを持つ現場作業員や営業担当者の退職が相次ぎ、事業継続が困難になるケースが目立った」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「また、人手不足倒産のうち従業員や経営幹部などの退職を原因とした「従業員退職型」の倒産は、118件となった」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「20250409_人手不足倒産の動向調査（2025年度）」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産はなぜ起こる？ 原因や対策について解説します | ONODERA USER RUN（オノデラユーザーラン）」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「人手不足倒産はなぜ起こる？ 原因や対策について解説します」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「人手不足倒産とは、従業員の退職や採用難、人件費の高騰などが原因で、事業を続けられなくなる倒産です」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「人手不足倒産の4つのタイプと対策の方向」（https://onodera-user-run.co.jp/useful/13257/）
+  - 「人手不足倒産を防ぐ対策5つ」（https://onodera-user-run.co.jp/useful/13257/）
+- 検索結果の抜粋：
+  - 「人手不足倒産 の動向調査（2025 年度 ） - 帝国データバンク — 人手不足倒産 の動向調査（2025 年度 ） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産 の動向調査（2025年） - 帝国データバンク — 人手不足倒産 の動向調査（2025年） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート」（https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/）
+  - 「人手不足倒産 の動向調査（2025年度） - 帝国データバンク — 人手不足倒産 の動向調査（2025年度） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産 、2025 年度 は過去最多の442件 東京商工リサーチ — 人手不足倒産 、2025 年度 は過去最多の442件 東京商工リサーチ 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/）
+  - 「人手不足倒産 の動向調査（ 2025年度 ） - 帝国データバンク — 人手不足倒産 の動向調査（ 2025年度 ） - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート」（https://www.tdb.co.jp/report/economic/20260409-laborshortage-br25fy/）
+  - 「人手不足倒産 、 2025年度 は過去最多の442件 東京商工リサーチ — 人手不足倒産 、 2025年度 は過去最多の442件 東京商工リサーチ 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUC085E10Y6A400C2000000/）
+- 生産能力・設備：記載なし（読んだ47頁・検索18回）
+
+## 人がいなくて止まっている設備・稼働率（製造業・規模別）（idle equipment due to labor shortage Japan manufacturing utilization）
+- 文脈：損の額・一次
+- 痛み・損（深さの印）：
+  - 「複数設備が連なる充填・包装ラインでは、ライン停止の起点設備をタイムスタンプ分析で特定」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5）
+  - 「このように、生産効率の指標として時間稼働率を活用して目標を明確にすることがプロジェクトの成功確率を高め機会損失を失くしていくのです」（https://gemba-c.co.jp/hourly-availability/）
+- 社員数・平均社員数：
+  - 「A社は、NC旋盤やMCを揃えている従業員50人ほどの会社です」（https://gemba-c.co.jp/hourly-availability/）
+  - 「現在は主に中小製造業を対象に、「経営と現場をつなぐ」を軸として、業務改善、生産性向上、生産管理、品質管理、ISO9001、DX・システム導入、人材育成などを支援」（https://gemba-c.co.jp/hourly-availability/）
+- 受注金額・加工賃収入：
+  - 「いずれも、１つ数千円から高くても数万円というものです」（https://gemba-c.co.jp/hourly-availability/）
+  - 「忙しいのに売上が上がらない工場｜中小製造業で見直したい3つのポイント」（https://gemba-c.co.jp/hourly-availability/）
+- 1人あたり・1社あたり金額：
+  - 「いずれも、１つ数千円から高くても数万円というものです」（https://gemba-c.co.jp/hourly-availability/）
+- 生産能力・設備：
+  - 「本記事では、まず稼働率の全体像を整理したうえで、負荷時間・停止ロス・性能稼働率との違い、段取り時間や故障停止を減らす改善方法、設備稼働率を40%→50%に改善した事例を製造業コンサルタントの視点で解説します」（https://gemba-c.co.jp/hourly-availability/）
+  - 「設備稼働率を40%→50%に改善した実例」（https://gemba-c.co.jp/hourly-availability/）
+- 10年推移：
+  - 「数台からの導入と段階的な拡張が可能で、台数増加時の費用が読めることを確認します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5）
+  - 「導入の標準的な進め方を、時系列で整理します」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5）
+  - 「2021年に新卒入社後、3年という速さで現職のリーダーに就任」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5）
+  - 「2023年9月4日」（https://gemba-c.co.jp/hourly-availability/）
+  - 「そこで、新たに増加する注文の数量を踏まえて、時間稼働率を50%にする目標を掲げて、停止ロスの時間を削減するために単純な脱着作業を行うためのロボットの導入を進めました」（https://gemba-c.co.jp/hourly-availability/）
+- 人手と仕事の差：
+  - 「設備別の空き時間が見えるようになると、「この受注を受けられるか」「納期回答は何日にすべきか」という判断が、勘からデータへ変わります」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5）
+  - 「残業時間の削減と、断っていた短納期案件の受注余力創出につながりました」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5）
+  - 「万円の能力回復に相当します（すべてが売上に変わるわけではなくとも、残業削減・外注削減・受注余力として実現します）」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5）
+  - 「第一に、人手不足による「改善人材の枯渇」です」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5）
+  - 「日、疲れず休まず記録し続ける「デジタル観測員」として、人手不足時代の改善活動を支えます」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5）
+  - 「建材・住宅設備業のIoT活用ガイド｜納期遵守と案件別採算の見える化｜製造業・工場DX経営オンライン」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260824_5）
+  - 「主要取引先（大手産業設備メーカー）が発注先の海外移行を進める中、過去から積み上げてきた品質と納期に対する信頼によってA社が国内調達集約の拠点企業に指名され、主要取引先からの集中注文によって取引量が拡大することとなりました」（https://gemba-c.co.jp/hourly-availability/）
+  - 「設備の稼働時間を増やしていく必要がありましたが、実際にこれまでどのくらい稼働時間があって、どのくらいの余力があるのかを正確な数字で把握していなかったため、時間稼働率を計測して余力を可視化することとしました」（https://gemba-c.co.jp/hourly-availability/）
+  - 「検証すると作業員の人手不足で設備が思っていた以上に停まっていた！」（https://gemba-c.co.jp/hourly-availability/）
+  - 「このように、生産効率の指標として時間稼働率を活用して目標を明確にすることがプロジェクトの成功確率を高め機会損失を失くしていくのです」（https://gemba-c.co.jp/hourly-availability/）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+
+## 造船所の受注残と人員不足（瀬戸内・一次）（Japanese shipyards order backlog labor shortage）
+- 文脈：痛み・造船
+- 痛み・損（深さの印）：
+  - 「この受注残は、造船所にとって二つの意味を持ちます」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「UNCTADの「Review of Maritime Transport 2025」は、中国の2024年の世界造船出力シェアを総トンベースで54.57%とし、2024年の契約総トンでは74.4%、2025年初の世界受注残では63.7%を占めたと整理しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「同レポートは、2025年初の世界の受注残が現役船腹に対して15%に達したとも示しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「OECDの日本造船業レビューも、日本は中国、韓国と並ぶ主要造船国であり、環境対応船など技術的に高度な船舶への需要に支えられた安定した受注残を保つと評価しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「OECDは、代替燃料対応船の受注残で日本が72隻、中国が996隻、韓国が421隻と整理しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「投資家や取引先が見るべき論点は、受注残の多さだけではありません」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「この機会を逃せば、建造枠の不足は日本勢の機会損失になり、次世代船の主導権も中国、韓国にさらに寄ることになります」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「Salamat poに込めた狙いと、現場改善や離職防止への効果を読み解く」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「ダイハツインフィニアース（6023）の株価・配当・今後｜上期は営業益66%増・受注残1,228億円、船の発電用エンジンで国内シェア5割近い舶用メーカーを決算資料で読む｜今週のピックアップ銘柄・2026年11月」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「2026年3月末時点の手持ち工事量（受注残、すなわち契約済みだが未完成の仕事の総量）は2935万総トン、現行の生産能力に換算すると約3.5年分に相当する」（https://note.com/deltacf/n/nc2972247e460）
+  - 「3月末時点の造船各社の手持ち工事量（受注残）...」（https://www.nikkei.com/article/DGKKZO95636700U6A410C2EA2000/）
+  - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGKKZO95636700U6A410C2EA2000/）
+  - 「造船ニュース2026年10月第4週｜三菱造船が建造能力倍増策・受注残は中国64% | ぞうせんブログ」（https://zosenblog.com/261024zosentopix/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/261024zosentopix/）
+- 社員数・平均社員数：
+  - 「国土交通省は、現場労働力の確保策として、2015年から外国人造船修了者受入れ事業を実施し、2019年の特定技能制度創設後は、多数の特定技能外国人が造船現場で就労していると説明しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「大型船は10万個規模の部材を組み合わせる巨大な製造プロジェクトであり、経験の浅い人をすぐ中核工程に投入できません」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「国土交通省の海事人材資料は、横浜、相生、因島、今治、大分、長崎の全国6地域で造船技能研修センターが立ち上げられ、新人研修や溶接、ぎょう鉄、塗装などの専門技能研修が行われていると紹介しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「OECDの日本造船業レビューは、2024年の造船分野の外国人労働者について、フィリピンが52%、インドネシアが18%、ベトナムが17%、中国が11%を占めると整理しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「造船の人手不足を深読み｜受注3.6年分でも鋼材1割減、就労者は9年で1.4万人減 | ぞうせんブログ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「深読み解説｜仕事は3.6年分あるのに、なぜ造船向けの鋼材は減るのか──就労者は9年で約1.4万人減、「人手不足」が建造量倍増の壁になる理由」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「国が掲げる2035年の建造量倍増の前に立ちはだかる人手不足の壁を、国土交通省の統計と各社の動きから深読みします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「2. 深読み①：造船で働く人は9年で約1.4万人減った」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「3. 深読み②：現場の5人に1人は外国人材に」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「4. 深読み③：国の「建造能力倍増」計画と人の計算」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「5. 深読み④：各社の打ち手──人を集める、人を育てる、人の仕事を減らす」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「（各年4月1日時点）を見ると、人手不足の実態がはっきりします」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「9万1,264人」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「8万4,331人」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「6,933人」（https://zosenblog.com/zosen-hitode-fukayomi/）
+- 受注金額・加工賃収入：
+  - 「建設業退職金共済の掛金は日額320円で、40年働いても給付は400万円台にとどまる」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「国内銀行の個人預金では、残高1000万円以上の口座が約1288万口、金額は266兆円に達する」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「坂出工場に10年で約1,000億円を投資」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「国内再編(今治JMU・3強時代)、政府支援(3,800億円基金/GX/LNG船WG)、艦艇輸出(豪州FFM)、自律運航と環境対応船まで構造的に整理」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「大卒28万円の常石、寮5910円の大島など、就職先としての魅力と注意点を業界目線で解説します」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船・舶用に関わる人の必修ニュース 2026年9月第2週｜再生基金5件追加で9,000億円規模・世界初の水素エンジン披露・尾道造船は無人艇へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「造船業再生基金は第2弾5件認定で累計9,000億円規模に、J-ENGは世界初の低速2スト水素エンジンを披露、尾道造船は米新興と無人揚陸艇へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「ダイハツインフィニアース（6023）の株価・配当・今後｜上期は営業益66%増・受注残1,228億円、船の発電用エンジンで国内シェア5割近い舶用メーカーを決算資料で読む｜今週のピックアップ銘柄・2026年11月」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「・常石造船は大卒初任給を2025年に28万円へ引き上げ、大島造船所（長崎県西海市）は退職した元社員を再雇用する「カムバック採用」という独自制度を導入した」（https://note.com/deltacf/n/nc2972247e460）
+  - 「今治造船、26年3月期売上高が過去最高 LNG船建造「複数社で議論」」（https://www.nikkei.com/article/DGKKZO95636700U6A410C2EA2000/）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGKKZO95636700U6A410C2EA2000/）
+  - 「日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版」（https://zosenblog.com/261024zosentopix/）
+- 1人あたり・1社あたり金額：
+  - 「建設業退職金共済の掛金は日額320円で、40年働いても給付は400万円台にとどまる」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「国内銀行の個人預金では、残高1000万円以上の口座が約1288万口、金額は266兆円に達する」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「大卒28万円の常石、寮5910円の大島など、就職先としての魅力と注意点を業界目線で解説します」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「・常石造船は大卒初任給を2025年に28万円へ引き上げ、大島造船所（長崎県西海市）は退職した元社員を再雇用する「カムバック採用」という独自制度を導入した」（https://note.com/deltacf/n/nc2972247e460）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGKKZO95636700U6A410C2EA2000/）
+  - 「今年度の累計値上げ幅はトン2万円になります」（https://zosenblog.com/261024zosentopix/）
+  - 「国内銀行の個人預金では、残高1000万円以上の口座が約1288万口、金額は266兆円に達する」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「〇 一時金については、総合重工４社の平均で年間 237 万円となっている」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+- 生産能力・設備：
+  - 「2026年3月末時点の手持ち工事量（受注残、すなわち契約済みだが未完成の仕事の総量）は2935万総トン、現行の生産能力に換算すると約3.5年分に相当する」（https://note.com/deltacf/n/nc2972247e460）
+  - 「常石造船（広島県）では、人員不足によりピーク時から稼働率を4割も引き下げざるを得ない状況に陥っている」（https://note.com/deltacf/n/nc2972247e460）
+  - 「国内造船受注、倍増遠く 昨年度15%減 人手不足で稼働率低下 活況な需要取り込めず - 日本経済新聞」（https://www.nikkei.com/article/DGKKZO95636700U6A410C2EA2000/）
+  - 「民間：17社で約3,500億円の設備投資」（https://zosenblog.com/2025zousengyoukai/）
+  - 「2027〜2032年にかけて、各社の設備投資が順次稼働（例：内海造船の新クレーンは2028年3月まで、臼杵造船所は2032年3月操業予定）」（https://zosenblog.com/2025zousengyoukai/）
+  - 「国土交通省の金子大臣会見は、2035年1800万総トン目標の課題として、省力化やロボット化への投資だけでなく、生産能力増強のための投資と人材確保が不可欠だと明言しました」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
+  - 「次の焦点は、採用とロボット導入が本当に稼働率改善につながるか、そして次世代燃料船の受注がどこまで具体化するか、この2点です」（https://alphabeta-research.ai/reports/5460002）
+  - 「2035 年までに生産量を倍増するための巨額の設備投資を行うことが決定された」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+  - 「経済安全保障推進法に基づく船体の供給確保計画について造船業再生基金による設備投資支援を受け、今後 2035 年を目標に建造量を」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
+- 10年推移：
+  - 「2025年度の輸出船受注量は191隻、904万8484総トンでした」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「船種別に見ると、2025年度の受注はバラ積船が150隻、油送船が20隻、貨物船が21隻です」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「IHI、JFEホールディングス、今治造船は2025年、JMU株式の一部を今治造船が取得することで合意しました」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「両社は2021年に共同営業設計会社の日本シップヤードを設立しており、今回の動きは営業・設計から生産や購買を含む連携へ進む布石です」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「今治造船は2025年9月、ギリシャ船主向けにアフラマックスタンカー2隻を受注したと発表しました」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「国土交通省は、現場労働力の確保策として、2015年から外国人造船修了者受入れ事業を実施し、2019年の特定技能制度創設後は、多数の特定技能外国人が造船現場で就労していると説明しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「OECDの日本造船業レビューは、2024年の造船分野の外国人労働者について、フィリピンが52%、インドネシアが18%、ベトナムが17%、中国が11%を占めると整理しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「UNCTADの「Review of Maritime Transport 2025」は、中国の2024年の世界造船出力シェアを総トンベースで54.57%とし、2024年の契約総トンでは74.4%、2025年初の世界受注残では63.7%を占めたと整理しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「同レポートは、2025年初の世界の受注残が現役船腹に対して15%に達したとも示しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「一方で、日本の労務費は2024年時点で韓国より5%低いものの、中国の2.2倍とされます」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「2024年時点の建造能力は907万総トンとされており、単純に見れば倍増構想です」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「海事レポート2025・数字で見る海事2025について｜国土交通省」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「2025年度3月輸出船契約実績｜日本船舶輸出組合」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「海事産業の動向と施策｜国土交通白書2025」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「Review of Maritime Transport 2025 Chapter II｜UNCTAD」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+- 人手と仕事の差：
+  - 「造船景気の好調に人手不足、国内増産を阻む現場制約と再生策の焦点 | research.nicoxz.com」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「4月受注分の納期は2028年度ものが50.2%、2029年度ものが38.8%、2030年度ものが11.0%で、足元の契約がすでに2〜4年先の建造枠を使っていることが分かります」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「この受注残は、造船所にとって二つの意味を持ちます」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「第二に、今から追加で受注しようとしても、短納期の案件を取り込みにくいことです」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「船主にとっては、日本の品質や納期を評価していても、希望納期に合う建造枠がなければ中国や韓国のヤードに流れる可能性があります」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「造船業の最大の制約は、人手不足です」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「造船の人手不足は、単に採用人数が足りないという話ではありません」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「人手不足が深刻化するなか、一部のセンターは造船所の従業員以外にも門戸を広げています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「UNCTADの「Review of Maritime Transport 2025」は、中国の2024年の世界造船出力シェアを総トンベースで54.57%とし、2024年の契約総トンでは74.4%、2025年初の世界受注残では63.7%を占めたと整理しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「同レポートは、2025年初の世界の受注残が現役船腹に対して15%に達したとも示しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「OECDの日本造船業レビューも、日本は中国、韓国と並ぶ主要造船国であり、環境対応船など技術的に高度な船舶への需要に支えられた安定した受注残を保つと評価しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「そのため、日本が狙うべきは、量の競争ではなく、燃費、環境性能、安全性、納期信頼性、ライフサイクルコストを含めた非価格競争力です」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「OECDは、代替燃料対応船の受注残で日本が72隻、中国が996隻、韓国が421隻と整理しています」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「投資家や取引先が見るべき論点は、受注残の多さだけではありません」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+  - 「この機会を逃せば、建造枠の不足は日本勢の機会損失になり、次世代船の主導権も中国、韓国にさらに寄ることになります」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
+- 事業所数・社数：記載なし（読んだ47頁・検索18回）
+
+## 工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳）（Census of Manufacture processing fee revenue by detailed industry Japan METI xls）
+- 文脈：全体・統計・一次
+- 痛み・損（深さの印）：記載なし（読んだ54頁・検索18回）
+- 事業所数・社数：記載なし（読んだ54頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ54頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ54頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ54頁・検索18回）
+- 生産能力・設備：記載なし（読んだ54頁・検索18回）
+- 10年推移：記載なし（読んだ54頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ54頁・検索18回）
+
+## 工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016）（Census of Manufacture 2010-2017 industry tables excel METI）
+- 文脈：全体・統計・一次
+- 痛み・損（深さの印）：記載なし（読んだ32頁・検索18回）
+- 事業所数・社数：記載なし（読んだ32頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ32頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ32頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ32頁・検索18回）
+- 生産能力・設備：記載なし（読んだ32頁・検索18回）
+- 10年推移：記載なし（読んだ32頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ32頁・検索18回）
+
+## 工業統計 実績2015年→2016年の事業所数の段差の理由（経済センサス‐活動調査と工業統計の対象範囲・個人経営の扱い・従業者4人以上）（Japan Census of Manufactures 2016 establishments discontinuity economic census coverage）
+- 文脈：全体・切れ目
+- 事業所数・社数：
+  - 「４人以上の事業所数は２，５７０事業所で、平成26年に比べて１６．０％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「事業所数、従業者数の推移（従業者４人以上の事業所）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「事業所数は４，６３２事業所で、前回（平成２３年）に比べて４．８％減少した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「●従業者規模別統計表（Ｅｘｃｅｌ形式：42ＫＢ）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「●産業中分類別、従業者規模別統計表（Ｅｘｃｅｌ形式：103ＫＢ）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+- 社員数・平均社員数：
+  - 「【従業者４人以上の事業所】」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「事業所は４回ぶりの増加、従業者数は３回連続増加、製造品出荷額等は２年連続増加、粗付加価値額は４年ぶりの増加」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「４人以上の事業所数は２，５７０事業所で、平成26年に比べて１６．０％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「従業者数は７２，４２６人で、平成26年に比べて５．８％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「事業所数、従業者数の推移（従業者４人以上の事業所）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「製造品出荷額等、粗付加価値額の推移（従業者４人以上の事業所）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「製造品出荷額等の構成比（従業者４人以上の事業所）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「従業者数は７６，５４７人で、前回（平成２３年）に比べて２．８％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+- 受注金額・加工賃収入：
+  - 「事業所は４回ぶりの増加、従業者数は３回連続増加、製造品出荷額等は２年連続増加、粗付加価値額は４年ぶりの増加」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「製造品出荷額等は２兆３９３億円で、平成26年に比べて７．８％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「粗付加価値額は８，７３１億円で、平成26年に比べて１６．５％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「製造品出荷額等、粗付加価値額の推移（従業者４人以上の事業所）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「製造品出荷額等の構成比（従業者４人以上の事業所）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「製造品出荷額等は２兆７８６億円で、前回（平成２３年）に比べて７．２％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+- 1人あたり・1社あたり金額：
+  - 「事業所は４回ぶりの増加、従業者数は３回連続増加、製造品出荷額等は２年連続増加、粗付加価値額は４年ぶりの増加」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「粗付加価値額は８，７３１億円で、平成26年に比べて１６．５％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「製造品出荷額等、粗付加価値額の推移（従業者４人以上の事業所）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+- 10年推移：
+  - 「2018年8月13日」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「「平成28年経済センサス-活動調査 製造業に関する結果報告書」は、「工業統計調査（経済産業省）」と時系列比較を行うために、平成28年経済センサス-活動調査結果のうち、以下のすべてに該当する製造事業所について集計したものです」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「事業所は４回ぶりの増加、従業者数は３回連続増加、製造品出荷額等は２年連続増加、粗付加価値額は４年ぶりの増加」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「４人以上の事業所数は２，５７０事業所で、平成26年に比べて１６．０％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「従業者数は７２，４２６人で、平成26年に比べて５．８％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「製造品出荷額等は２兆３９３億円で、平成26年に比べて７．８％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「粗付加価値額は８，７３１億円で、平成26年に比べて１６．５％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「事業所数、従業者数の推移（従業者４人以上の事業所）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「製造品出荷額等、粗付加価値額の推移（従業者４人以上の事業所）」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「事業所は前回（平成２３年）に続き減少、」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「事業所数は４，６３２事業所で、前回（平成２３年）に比べて４．８％減少した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「従業者数は７６，５４７人で、前回（平成２３年）に比べて２．８％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+  - 「製造品出荷額等は２兆７８６億円で、前回（平成２３年）に比べて７．２％増加した」（https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou28.html）
+- 痛み・損（深さの印）：記載なし（読んだ19頁・検索18回）
+- 生産能力・設備：記載なし（読んだ19頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ19頁・検索18回）
+
+## 工業統計表 産業細分類×従業者規模 実績2016〜2019年（電気めっき・金属用金型・金属熱処理・金属プレス）の1人あたり製造品出荷額等（構成変化の確認・4-25）（Japan census of manufactures detailed industry by employee size 2016-2019）
+- 文脈：規模別・切れ目の内側
+- 痛み・損（深さの印）：記載なし（読んだ15頁・検索18回）
+- 事業所数・社数：記載なし（読んだ15頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ15頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ15頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ15頁・検索18回）
+- 生産能力・設備：記載なし（読んだ15頁・検索18回）
+- 10年推移：記載なし（読んだ15頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ15頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

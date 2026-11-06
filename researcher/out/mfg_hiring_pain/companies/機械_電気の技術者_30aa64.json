@@ -1,0 +1,1448 @@
+{
+ "name": "機械・電気の技術者",
+ "en": "manufacturing engineer shortage Japan",
+ "aliases": [
+  "機械技術者",
+  "電気技術者",
+  "生産技術",
+  "設計技術者"
+ ],
+ "context": "技術者",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:49:34.752445+00:00",
+ "evidence": {
+  "求人倍率・充足率": [
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較｜転職ノウハウ・ニュース｜NEXT ENGINEER（ネクストエンジニア）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】機械・電気系職種別 有効求人倍率・人手不足マップ｜生産技術・設備保全・組込みエンジニアの需要を比較",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、仕事を探している人1人に対して、何件の求人があるかを示す数値です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "job tagに掲載された令和6年度の全国有効求人倍率を見ると、職種によって0.79倍から6.00倍まで差があり、機械・電気系全体を1つの数値で捉えることはできません",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "高卒就職者数は減少しており、求人数に対する充足率*は全産業で49%である",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の、安定職種に人気が集中しており、電気工事業を含む建設業の充足率は27%と他産業より低く、入職者数は少ない",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高卒就職者数は減少しており、充足率は100%に達していない 安定職種に人気が集中し、他産業の求人は充足されていない",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参考２０ 高卒就職者の各産業の充足率",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校は就職率63.3%、求人倍率は20.6倍",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校の求人倍率は20.6倍",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 0.56 1.26 0.65 0.19 0.61 1.54 2.78 0.47 0.84 0.36 -",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 0.56 0.63 0.61 0.62 0.62 0.59 0.51 0.49 0.50 0.51 0.49 0.55",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 0.96 2.20 1.88 0.32 1.11 1.91 6.07 0.55 1.73 0.93 -",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0095/3600/2311.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 0.96 1.14 1.15 1.13 1.10 1.04 0.86 0.85 0.86 0.87 0.73 0.75",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0095/3600/2311.pdf",
+    "pass": 3
+   }
+  ],
+  "高卒・技術者": [
+   {
+    "quote": "一方、job tagに掲載された令和6年度の全国値を見ると、機械設計技術者は3.21倍、生産・品質管理技術者は4.15倍、システムエンジニア（組込み、IoT）は4.77倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、職種によって求人倍率には差があり、CADオペレーターや半導体技術者の参考値は全職業平均を下回ります",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の自動化やDXが進むと、新しい設備の設計・導入だけでなく、既存設備との連携や安定稼働を支える技術者も必要です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "製造技術者（開発）／生産工程従事者（近似）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "※2 試験・評価エンジニアの直近倍率は、実験や評価業務を含む「自動車技術者」の参考値です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械設計エンジニアに近い「機械設計技術者」の有効求人倍率は、令和6年度の全国値で3.21倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子設計エンジニアに近い「電子機器技術者」の有効求人倍率は、令和6年度の全国値で2.68倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機器の高機能化や電子制御の拡大に伴い、以下の業務に対応できる技術者が幅広い製造分野で必要とされています",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術エンジニアに近い「生産・品質管理技術者」の有効求人倍率は、令和6年度の全国値で4.15倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "試験・評価エンジニアの参考となる「自動車技術者」の有効求人倍率は、令和6年度の全国値で2.75倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "注意として、自動車技術者には設計開発や工程管理なども含まれるため、試験・評価業務だけを示す倍率ではありません",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の電動化や工場の自動化、製品のIoT化が進むなか、機械とソフトウェアをつなぐ技術者の役割が広がっています",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "設計者や技術者の指示をもとに、CADを使って主に以下の業務を担当します",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・FPD製造技術者に近い「半導体技術者」の有効求人倍率は、令和6年度の全国値で1.09倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "自動化設備が増えた場合も、トラブルの原因を見つけ、復旧や再発防止につなげる技術者が欠かせません",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "▶ 技術者育成・研修サービスについてはこちら",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用が中心(40～60%程度)",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用が中心(43.3%)",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、文系・未経験から技術者を育てる体系的な研修を提供しており、現場で求められる基礎技術の習得から戦力化までを支援しています",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "若手〜中堅技術者のリスキリングにも対応可能",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "第3種主任技術者需要 3種有資格者数",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）電気主任技術者",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 有資格者の数は、第２種、第３種電気主任技術者ともに中長期的にも想定需要に対して十分に存在",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 一方、業務ビルの増加と人材の供給減により外部委託を担う保安業界の第3種電気主任技術者が2045年",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " ヒアリングによれば、2045年にかけて第2種電気主任技術者の選任が必要な大規模再エネ設備が増加するた",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "め、地域によっては第2種電気主任技術者の担い手の確保に苦労する可能性あり",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 就業先として電気主任技術者や電気保安業務を認知したきっかけが、保安業務に関係する親族等",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 電気主任技術者を目指す認定校*が減少しており入職率も低い",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後、認定校の新卒採用に依存",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*経済産業大臣が認定する工業高校電気科等の教育機関（認定校）において、指定された科目を修め卒業した者は、必要な実務 経験を積めば電気主任技術者の免状を",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 電気工事士の有力な供給源である工業高校や養成施設*が減少しており、また、これらの学校か",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "施設、工業高校等からの入職率が",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*経済産業大臣が認定する工業高校電気科等の教育機関（養成施設）において、指定された科目を修め卒業した者は、必要な実務 経験を積めば（1種工事士のみ）、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 入職促進を図るため、民側はまずは主なターゲット層である工業高校・養成施設等へのアプロー",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*1： 出所 電気技術者試験センター資格実施状況（2015年度） *2：出所 電気技術者試験センターWebページ「資格実施状況の推移」（2006～2015年度の平均値）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校を出たらどんな仕事に就けるの？｜職種図鑑 | キャリア探索ガイド | ゆめスタ",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校は就職率63.3%、求人倍率は20.6倍",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、工業高校から就ける職種を学科別にまとめました",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "「工業高校を出たら工場のライン作業でしょ？」そう思っている人は多いかもしれません",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "たしかに、工業高校卒の約53%は製造業に就職しています（全工協 令和5年度卒業者調査）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "しかも、工業高校卒の3年離職率は",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "高卒全体の37.9%、大卒の33.8%（厚生労働省 令和4年3月卒）と比べると、圧倒的に低い数字です",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、工業高校で学んだことと就職先がちゃんとマッチしている人が多い、ということです",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校は学科ごとに学ぶ内容が異なるため、就職先の職種も変わってきます",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "自社の機械を導入した客先に出向いて、メンテナンスやトラブル対応をする技術者です",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "特別な資格は不要で、高卒から始められます",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "資格不要で高卒からスタートでき、経験を積んで設計者を目指せます",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 全国工業高等学校長協会「R05卒業者調査」/ UZUZ「工業高校出身者の就職」/ 関東工業自動車大学校「工業高校からの進路選択」/ トモヤログ「情報技術科」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "「工業高校を出たらずっと現場」と思っていませんか？実は、工業高校の知識を活かせるデスクワーク系の職種もたくさんあります",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典: Achieve「製造業の職種一覧」/ ConMaga「建設業の職種一覧」/ 日総工産「高卒工場勤務のキャリアパス」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業 単価 機械電気の技術者 製造業の求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "・計量器および自動省力化装置（自動計量器）の設計、製造 ・計量器の販売 ・計量器の定期的な校正やメンテナンス ・計量器の突発的な故障に対する修理対応 ・計量器の新設や更新工事 機械・電気メンテナンス技術者は、主にお客様が使用されている計 量器をお客様の工場や店舗に定期的に出向き重さの基準となる分銅 を用いて校正や検査、分解して点検や整備を行います",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "＼ポイント／ ◎事務経験がなくてもOK！ ◎物流・倉庫のお仕事経験者の方も大歓迎！ ◎プライベートもしっかり確保！ ◎土日休み・長期休暇あり ◎賞与手当年4回でモチベーションもUP ◎あなたの頑張りをしっかり評価！ 当社は、工業高校や高専出身のスタッフが 活躍しています",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気技術者 607 1,673 356 1,763 903 51 1.71 0.95",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鉱工業技術者 17 73 26 113 42 3 0.65 0.65",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建築・土木技術者等 498 1,497 298 1,261 725 66 1.67 1.19",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "情報処理技術者 445 1,305 454 2,073 1,316 48 0.98 0.63",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他の技術者 117 256 131 558 405 26 0.89 0.46",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "医療技術者 368 1,123 141 478 149 48 2.61 2.35",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機械・電気技術者 1,465 3,875 206 1,023 524 67 7.11 3.79",
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0095/3600/2311.pdf",
+    "pass": 3
+   }
+  ],
+  "地域別": [
+   {
+    "quote": "一方、job tagに掲載された令和6年度の全国値を見ると、機械設計技術者は3.21倍、生産・品質管理技術者は4.15倍、システムエンジニア（組込み、IoT）は4.77倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "job tagに掲載された令和6年度の全国有効求人倍率を見ると、職種によって0.79倍から6.00倍まで差があり、機械・電気系全体を1つの数値で捉えることはできません",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "機械設計エンジニアに近い「機械設計技術者」の有効求人倍率は、令和6年度の全国値で3.21倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子設計エンジニアに近い「電子機器技術者」の有効求人倍率は、令和6年度の全国値で2.68倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術エンジニアに近い「生産・品質管理技術者」の有効求人倍率は、令和6年度の全国値で4.15倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全エンジニアの参考となる「物流設備管理・保全」の有効求人倍率は、令和6年度の全国値で6.00倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証・品質管理の参考となる「検査工（工業製品）」の有効求人倍率は、令和6年度の全国値で4.03倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "試験・評価エンジニアの参考となる「自動車技術者」の有効求人倍率は、令和6年度の全国値で2.75倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "組込みエンジニアに該当する「システムエンジニア（組込み、IoT）」の有効求人倍率は、令和6年度の全国値で4.77倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "CADオペレーターの有効求人倍率は、令和6年度の全国値で0.79倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・FPD製造技術者に近い「半導体技術者」の有効求人倍率は、令和6年度の全国値で1.09倍です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年度の全国有効求人倍率を見ると、設備保全エンジニアの参考値は6.00倍、組込みエンジニアは4.77倍、生産技術エンジニアは4.15倍でした",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "*1：電気保安協会全国連絡会提供資料よりDTC推計 *2：試験合格による免状取得者の就業状況を認定による免状取得者にも適用し合計値を計算",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 全国工業高等学校長協会「R05卒業者調査」/ UZUZ「工業高校出身者の就職」/ 関東工業自動車大学校「工業高校からの進路選択」/ トモヤログ「情報技術科」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "（全建総連東京都連合会 2024年賃金調査報告書）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "全国工業高等学校長協会「R05卒業者調査」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "GATEN職「一人親方の年収」（全建総連東京都連合会 2024年賃金調査報告書を引用）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "愛知・三重の高校に毎月届いている就活情報誌",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 千代田区 神田須田町 / 淡路町駅 徒歩1分",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "公益財団法人東京都中小企業振興公社 《経験不問》中小企業を支援する【団体職員】*27年4月入社採用 ※応募に当たっては、マイナビ転職の会員登録が必須となっております",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】 【東京都政策連携団体】都内中小企業を対象に各種支援事業を担当します",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 千代田区 有楽町 / 日比谷駅 徒歩1分",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用にかけるお金": [
+   {
+    "quote": "では、常時15,000件以上の求人情報を掲載し、リモートワークや最寄り駅から徒歩10分、月給30万円以上求人などのこだわり条件検索も可能なため、自分に合った求人を見つけやすいのが特徴です",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円以上の求人を見てみる",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における賃金の推移 ：3.66万円増加",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "(2008年：29.34万円 ⇒ 2025年：33.00万円)",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "非製造業における賃金の推移：4.15万円増加",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "(2008年：29.91万円 ⇒ 2025年：34.06万円)",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における賃金の推移 ：1.14万円増加",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "(2024年：31.86万円 ⇒ 2025年：33.00万円)",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "非製造業における賃金の推移：1.02万円増加",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "(2024年：33.04万円 ⇒ 2025年：34.06万円)",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "約247万円",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "約400万円",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "約500万円",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "650〜750万円",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "800〜1,000万円",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 厚生労働省「賃金構造基本統計調査」/ 国税庁「令和元年分民間給与実態統計調査」（製造業平均年収 513万円）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "大卒の659万円との差は約60万円で、学歴よりも資格と経験で差がつく世界です",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "職種によっては、とび職で1,000万円、設備屋で900〜1,200万円という数字もあります",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "月給23.9万円〜26.5万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収900万円〜2,499万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜50万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給23万円〜34万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給18万円〜35万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜30万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収550万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収477万円〜633万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "化学系製造業の製造オペレーター｜正社員｜岡山県倉敷市｜年収477万円～633万円 【化学系製造業の製造オペレーター／倉敷市】転勤なし／福利厚生充実 本ポジションは、アリルクロライド製造における運転管理、点検、品質確認、保全支援および改善業務を担当いただくお仕事になります",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20.8万円〜32.2万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円〜30万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円〜430万円",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給28.5万円 / 賞与・ボーナスあり",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜45万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "平均コストとして30～50万円",
+    "url": "https://www.plex-job.com/magazine/articles/2757/",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバーの理論年収の30％前後、もしくは50～100万円",
+    "url": "https://www.plex-job.com/magazine/articles/2757/",
+    "pass": 3
+   }
+  ],
+  "出典の種類": [
+   {
+    "quote": "本記事では、厚生労働省のデータをもとに、機械・電気系職種別の人手不足状況をランキング形式で整理します",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書から見る機械・電気系人材が不足する理由",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省によると、令和6年度平均の有効求人倍率は全職業で1.25倍でした",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況(令和7年3月分及び令和6年度分)について",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況（職業安定業務統計） 一般職業紹介状況 ～令和8年5月 長期時系列表 21 職業別労働市場関係指標（実数）（平成21年改定）（令和4年4月～） 月次 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版ものづくり白書（ものづくり基盤技術振興基本法第8条に基づく年次報告）",
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書2026｜製造業の人材不足・技能継承課題を人事向けに解説",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月29日、経済産業省より『2026年版ものづくり白書』が公表されました",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "本白書は、日本の製造業を取り巻く現状や課題、今後の成長戦略を整理した重要な年次レポートです",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、白書の中から「人材」に関する内容に絞り、人事部門が押さえるべきポイントを整理します",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "『ものづくり白書2026』第1部 第1章 第2節の“我が国製造業を取り巻く社会情勢変化”では製造業を取り巻く外部環境の変化が整理されています",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人材不足は「単なる採用難」ではなく、構造的な問題として長期化しており、白書データからは、以下の複数の要因が複合的に影響していることが分かります",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "また当社調査においても、OJTへの依存や講師不足、育成時間の不足が主要課題として挙げられており、",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "独自調査レポートをダウンロードする（無料）",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書2026の分析から、",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした白書の分析結果からも明らかなように、今後は「未経験者を前提とした育成」が不可欠です",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "統計×独自調査で解明！製造業の能力開発が進まない理由とは",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "参考１ 資格概要と調査対象",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所：平成29年度電気施設等の保安規制の合理化検討に係る調査（電気保安人材の中長期的な確保に向けた調査・検討事業） で実施した電気主任技術者に対するアン",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "査（電気保安人材の中長期的な確保に向けた調査・検討事業）で実施した電気主任技術者認定校に対するアンケート結果に基づく",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化検討に係る調査（電気保安人材の中長期的な確保に向けた調査・検討事業）で実施した電気主任技術者に対する アンケート結果に基づく",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所：平成29年度電気施設等の保安規制の合理化検討に係る調査（電気保安人材の中長期的な確保に向けた調査・検討事業） で実施した電気工事士に対するアンケー",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*2：経済産業省提供データ、電気技術者センター「電気施術者試験受験者実態調査」から、2015年における第2種電気工事士資格取得者のうち電気工事業界就業者は約",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所：厚生労働省「新規学卒者（高校・中学）の職業紹介状況」",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象の東南アジア4ヵ国は、全て電気保安に係る国家資格制度を有している",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 海外人材受け入れに向けた制度設計を求めているものの、海外人材の受け入れをコミットした企業は、本調査のヒアリングの中",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たしかに、工業高校卒の約53%は製造業に就職しています（全工協 令和5年度卒業者調査）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "（全工協 2020年度調査）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "高卒全体の37.9%、大卒の33.8%（厚生労働省 令和4年3月卒）と比べると、圧倒的に低い数字です",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "機械科の卒業者は約8割が製造業に就職しています（全工協 R05調査）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 全国工業高等学校長協会「R05卒業者調査」/ UZUZ「工業高校出身者の就職」/ 関東工業自動車大学校「工業高校からの進路選択」/ トモヤログ「情報技術科」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 厚生労働省「賃金構造基本統計調査」/ 国税庁「令和元年分民間給与実態統計調査」（製造業平均年収 513万円）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "（全建総連東京都連合会 2024年賃金調査報告書）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 建築求人.jp「施工管理の学歴と年収」/ GATEN職「一人親方の年収」（全建総連 2024年賃金調査報告書を引用）/ ハタラクティブ「工場勤務キャリアデザイン」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 文部科学省「学校基本統計」平成30年度 / 内閣府男女共同参画白書 コラム4 / トモヤログ「工業高校女子の就職先」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「新規学卒就職者の離職状況（令和4年3月卒）」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "内閣府男女共同参画白書 コラム4「職業学科における状況」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "全国工業高等学校長協会「R05卒業者調査」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "建築求人.jp「施工管理の学歴と年収」（独自アンケート調査）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "GATEN職「一人親方の年収」（全建総連東京都連合会 2024年賃金調査報告書を引用）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "酪農の仕事はきつい？酪農・畜産経験者がやめとけと言う理由を調査！",
+    "url": "https://www.plex-job.com/magazine/articles/2757/",
+    "pass": 3
+   },
+   {
+    "quote": "【エッセンシャルワーカー転職市場のリアル調査第３弾】利用者満足度97％以上のプレックスジョブから見る、求職者が\"転職サービスに求めること\"",
+    "url": "https://www.plex-job.com/magazine/articles/2757/",
+    "pass": 3
+   }
+  ],
+  "規模別": [
+   {
+    "quote": "『賃上げ(従業員への還元)』：79.4%（全体2位）",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "-従業員規模が299人以下",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "-従業員規模が300人以上",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "-従業員規模による偏りは少なく、「あまりうまくいっていない」「うまくいっていない」",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "-「中堅従業員が不足している」：51.9%",
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "pass": 3
+   },
+   {
+    "quote": "大手による想定入職者数1,000人を減ずると、中堅・中小企業における免状取得者は約5,000人と推計される",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業 単価 機械電気の技術者 製造業の求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "○中小企業等協同組合の設立及び運営支援 ○創業、起業、経営革新等の相談対応、支援 ○企業間交流や企業のマッチング等の提案・コーディネート ○国・県等の受託事業に係る事務業務 ○その他、中小企業の発展・成長に寄与する各種事業 等 ＊外出用務には社有車を使用（ＡＴ車） 変更範囲：変更無し",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "土/日/祝/夏季休暇/年末年始休暇/完全週休二日制/創立記念日/年間有給休暇11日～22日（下限日数は入社半年経過後の付与日数） 退職金/持株制度/共済制度/従業員積立金制度/住宅財形貯蓄制度・融資制度/慶弔休暇/カフェテリアプラン/定年制有り（60歳まで）/再雇用制有り",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "経験不問／中小企業を支援する「団体職員」／27年4月入社採用",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "公益財団法人東京都中小企業振興公社 《経験不問》中小企業を支援する【団体職員】*27年4月入社採用 ※応募に当たっては、マイナビ転職の会員登録が必須となっております",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】 【東京都政策連携団体】都内中小企業を対象に各種支援事業を担当します",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "※配属先（総合支援課/生産向上支援課/助成課など）によって業務は異なります「中小企業への支援事業」を軸に、幅広い業務をお任せします",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "ブランクOK高時給の採用人事アシスタント／週2日～／採用経験を／もう一度仕事に／中小企業を支える採用支援スタッフ／フルリモート・時短OK",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "給与： 時給1500~2200円 仕事内容： ＼ 採用・人材業界での経験を、もう一度活かしませんか？ ／ ≫ フルリモートOK！ ≫ 週2日・1日4時間～相談OK ≫ ブランクのある方も歓迎！ Lifortuneは、中小企業専門の採用コンサルティング会社です",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用できず起きたこと": [
+   {
+    "quote": "・生産計画の策定 ・受注管理 ・発注管理 ・在庫管理 ・製造管理 ・工程管理 ・外注管理 ・進捗管理 ・品質管理 ※製造部生産管理グループ 部長以下11名でうち女性は2名、年齢構成は役職者は50代、メンバーは30代前半から半ばとなっています",
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "生産 技術者 が第一種 電気 工事士を受けた理由ー資格選びの判断 ... 生産 技術者 が第一種 電気 工事士を受けた理由ー資格選びの判断 ... note https://note.com > キャリア > スキル習得",
+    "url": "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "生産技術者が第一種電気工事士を受けた理由ー資格選びの判断基準【第一種電気工事士】｜わらびーと生産技術",
+    "url": "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術者が第一種電気工事士を受けた理由ー資格選びの判断基準【第一種電気工事士】",
+    "url": "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "pass": 3
+   },
+   {
+    "quote": "わらびーと申します。製造業で生産技術をやっています。",
+    "url": "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "pass": 3
+   },
+   {
+    "quote": "技術系の資格は、たくさんあります。電気、機械、保全、施工管理。",
+    "url": "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "pass": 3
+   },
+   {
+    "quote": "会社によっては出世や転職に有利になります。それはわかっているけれど、調べれば調べるほど、どれから手をつければいいのか分からなくなる。あなたも一度は「技術職にオススメの資格○選」というブログを開いたまま、結局決めきれずに、そっとブラウザを閉じたことがあるのではないでしょうか。",
+    "url": "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "pass": 3
+   },
+   {
+    "quote": "先日、第一種電気工事士の技能試験を受けてきました。今回は「なぜ数ある資格の中で、いま電工一種だったのか」——私の判断の過程を書いてみます。資格選びに迷っている方の、ものさしのひとつになれば。",
+    "url": "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "pass": 3
+   },
+   {
+    "quote": "転職して生産技術になったとき、実務面での大きな課題がひとつありました。",
+    "url": "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "pass": 3
+   },
+   {
+    "quote": "現場では、電気関係の故障でも修理の依頼で呼ばれます。呼ばれて駆けつけて、機械の前で電気図面とにらめっこ。読み解くだけで時間が過ぎていく。",
+    "url": "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Shiba Kazuhiro - 電気 、 機械技術者 - LinkedIn Shiba Kazuhiro - 電気 、 機械技術者 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/shiba-kazuhiro-42620b254",
+    "pass": 3
+   },
+   {
+    "quote": "産業・ 電気技術者 のための3つの必須参考文献 - LinkedIn 産業・ 電気技術者 のための3つの必須参考文献 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > three-essential-references...",
+    "url": "https://jp.linkedin.com/pulse/three-essential-references-industrial-electrical-engineers-uifkc?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Googleのデータセンター施設技術者 I、 電気技術者 （英語 Googleのデータセンター施設技術者 I、 電気技術者 （英語 LinkedIn https://jp.linkedin.com > jobs > view > データセンター施...",
+    "url": "https://jp.linkedin.com/jobs/view/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%96%BD%E8%A8%AD%E6%8A%80%E8%A1%93%E8%80%85-i%E3%80%81%E9%9B%BB%E6%B0%97%E6%8A%80%E8%A1%93%E8%80%85%EF%BC%88%E8%8B%B1%E8%AA%9E%E3%80%81%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%89-at-google-4224659674",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nextengineer.com/blog/know-how001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coachers.jp/blog/2026095421/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://caddi.com/ja-jp/news/press/20251204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bureauveritas.jp/magazine/230801/008",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reene-energy.co.jp/recruit/denken/denken-yametoke/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizunowa.jp/archives/pikali/jobchange/post-16227",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koujishi.com/denkikouji/246/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenkoukyo.or.jp/web/content/uploads/R04sotsugyo_kekka.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000244.000048030.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yomiuri.co.jp/national/20240713-OYT1T50059/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo.employment.en-japan.com/blog/recruitment-unit-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plex-job.com/magazine/articles/2757/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001835705.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002118678.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0095/3600/2311.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shiba-kazuhiro-42620b254",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/three-essential-references-industrial-electrical-engineers-uifkc?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%96%BD%E8%A8%AD%E6%8A%80%E8%A1%93%E8%80%85-i%E3%80%81%E9%9B%BB%E6%B0%97%E6%8A%80%E8%A1%93%E8%80%85%EF%BC%88%E8%8B%B1%E8%AA%9E%E3%80%81%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%89-at-google-4224659674",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "機械・電気の技術者 有効求人倍率 職業別 労働局 2026",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://coachers.jp/blog/2026095421/",
+    "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "https://partners.en-japan.com/special/260225/",
+    "https://denko-saiyo.com/knowledge/job-seekerratio/",
+    "https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf",
+    "https://job.goo.to/occupations/ratio"
+   ]
+  },
+  {
+   "query": "機械・電気の技術者 人手不足 調査 2025 2026 製造業 割合",
+   "results": [
+    "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "https://caddi.com/ja-jp/news/press/20251204/",
+    "https://www.roberthalf.com/jp/ja/insights/hiring-help/labor-shortage",
+    "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://www2.tn-japan.co.jp/es_technical_training/blog/blog001/"
+   ]
+  },
+  {
+   "query": "機械・電気の技術者 採用できない 受注を断った 割合",
+   "results": [
+    "https://www.bureauveritas.jp/magazine/230801/008",
+    "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/pdf/016_05_00.pdf",
+    "https://www.reene-energy.co.jp/recruit/denken/denken-yametoke/",
+    "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "https://mizunowa.jp/archives/pikali/jobchange/post-16227",
+    "https://koujishi.com/denkikouji/246/",
+    "https://jhk-or.jp/blog/shortage/",
+    "https://team-x.co.jp/knowledge/1018/",
+    "https://kenshoku-bank.com/column/3069/",
+    "https://www.shopowner-support.net/hr/personnel-recruitment/engineer/mechanical-electrical-students/"
+   ]
+  },
+  {
+   "query": "機械・電気の技術者 高卒求人倍率 製造業 工業高校",
+   "results": [
+    "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "https://www.takumi-base.com/hr-branding024/",
+    "https://zenkoukyo.or.jp/web/content/uploads/R04sotsugyo_kekka.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000244.000048030.html",
+    "https://mizusaki-inc.com/knowledge/article30",
+    "https://www.yomiuri.co.jp/national/20240713-OYT1T50059/",
+    "https://www.san-oh.co.jp/recruit/topics/931/",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://tenshoku.mynavi.jp/engineer/ft/kosotsu_o17/pg10/",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing"
+   ]
+  },
+  {
+   "query": "機械・電気の技術者 採用単価 製造業 中小企業",
+   "results": [
+    "https://jp.stanby.com/search?q=%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://saiyo.employment.en-japan.com/blog/recruitment-unit-price",
+    "https://hareag.co.jp/column/manufacturer-engineer-hiring/",
+    "https://www.plex-job.com/magazine/articles/2757/",
+    "https://directsourcing-lab.com/blog/engineer/recruiting_cost/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b2_1_1.html",
+    "https://nextengineer.com/blog/article-9188/"
+   ]
+  },
+  {
+   "query": "site:jsite.mhlw.go.jp 機械・電気の技術者 職業別 有効求人倍率",
+   "results": [
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001835705.pdf",
+    "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0045/2183/2203.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002118678.pdf",
+    "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0095/3600/2311.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002466770.pdf",
+    "https://jsite.mhlw.go.jp/aichi-roudoukyoku/var/rev0/0095/3607/2304.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/001184127.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 機械・電気の技術者",
+   "results": [
+    "https://note.com/gomadouhu_10/n/nbcd6b7de5602",
+    "https://note.com/0101_engineer/n/n289cfea6394a",
+    "https://note.com/novel_ivy3823/n/n6ffed8c0f021",
+    "https://note.com/mochiwara_crafts/n/nd2d528f2d959",
+    "https://note.com/facimane/n/nf64a4586e342",
+    "https://note.com/kimidori_green/n/n7bbaba5513f9",
+    "https://note.com/plantdenkiman/n/n1e1326b73d41",
+    "https://note.com/regionalfish/n/n0264a53f290c",
+    "https://note.com/serene_stoat7219/n/nfc58ccf72481",
+    "https://note.com/takane1989/n/nb1a1e8d392f6"
+   ]
+  },
+  {
+   "query": "site:x.com 機械・電気の技術者",
+   "results": [
+    "https://x.com/OECU_official/status/1883727925725606247",
+    "https://x.com/TAC_denki/status/1990591328317812988",
+    "https://x.com/bettii69",
+    "https://x.com/TAC_denki/status/1825099626770514097",
+    "https://x.com/nkc_denpa/status/2050553530004701419",
+    "https://x.com/OhmshaOnline/status/2035648110937198887",
+    "https://x.com/denginoheya",
+    "https://x.com/denkishoin",
+    "https://x.com/nines_career/status/2048649091597644273",
+    "https://x.com/Denkiyohoushi"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 機械・電気の技術者",
+   "results": [
+    "https://jp.linkedin.com/jobs/%E9%9B%BB%E6%B0%97%E6%8A%80%E5%B8%AB-jobs",
+    "https://jp.linkedin.com/in/shiba-kazuhiro-42620b254",
+    "https://jp.linkedin.com/pulse/three-essential-references-industrial-electrical-engineers-uifkc?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%96%BD%E8%A8%AD%E6%8A%80%E8%A1%93%E8%80%85-i%E3%80%81%E9%9B%BB%E6%B0%97%E6%8A%80%E8%A1%93%E8%80%85%EF%BC%88%E8%8B%B1%E8%AA%9E%E3%80%81%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%89-at-google-4224659674",
+    "https://jp.linkedin.com/posts/alankimaws_%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85-aws-activity-7466070869514293248-cNqR",
+    "https://jp.linkedin.com/jobs/view/osaka%E3%80%90field-service%EF%BC%88%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%80%81%E9%9B%BB%E6%B0%97%E6%8A%80%E8%A1%93%E8%80%85%EF%BC%89%E3%80%91-at-tesla-4435535718",
+    "https://jp.linkedin.com/pulse/how-ai-revolutionizing-mechanical-electrical-engineering-5qduc?tl=ja",
+    "https://jp.linkedin.com/pulse/last-good-engineer-paul-godines-0bzvc?tl=ja",
+    "https://jp.linkedin.com/jobs/view/tokyo%E3%80%90field-service%EF%BC%88%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%80%81%E9%9B%BB%E6%B0%97%E6%8A%80%E8%A1%93%E8%80%85%EF%BC%89%E3%80%91-at-tesla-4450686900",
+    "https://jp.linkedin.com/jobs/view/%E3%80%901830%E3%80%91-hm-a-%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%EF%BC%88%E9%9B%BB%E6%B0%97%E7%B3%BB%E4%BF%9D%E5%85%A8%E9%A0%98%E5%9F%9F%EF%BC%89-at-honda-4385324055"
+   ]
+  },
+  {
+   "query": "site:facebook.com 機械・電気の技術者",
+   "results": [
+    "https://www.facebook.com/work.higashihiroshima/posts/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%E7%89%B9%E5%88%A5%E8%AC%9B%E7%BF%92%E4%BC%9A%E8%AC%9B%E5%BA%A7%E6%A6%82%E8%A6%81%E9%9B%BB%E5%9C%A7%EF%BC%95%E4%B8%87%EF%BD%96%E6%9C%AA%E6%BA%80%E3%81%AE%E9%9B%BB%E6%B0%97%E8%A8%AD%E5%82%99%E3%81%AE%E5%B7%A5%E4%BA%8B%E7%B6%AD%E6%8C%81%E9%81%8B%E7%94%A8%E3%81%AE%E7%9B%A3%E7%9D%A3%E3%81%AE%E4%BD%9C%E6%A5%AD%E3%81%AB%E5%BE%93%E4%BA%8B%E3%81%A7%E3%81%8D%E3%82%8B%E5%9B%BD%E5%AE%B6%E8%B3%87%E6%A0%BC%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E7%90%86%E8%AB%96%E9%9B%BB%E5%8A%9B%E6%A9%9F%E6%A2%B0%E6%B3%95%E8%A6%8F%E8%A9%A6%E9%A8%93%E3%81%AE%E5%90%88%E6%A0%BC%E3%82%92/365056759795403/",
+    "https://www.facebook.com/hitoyoshishi/posts/%E9%9B%A3%E9%96%A2%E3%81%AE%E9%9B%BB%E9%A8%93%E4%B8%89%E7%A8%AE%E3%81%AB%E7%90%83%E7%A3%A8%E5%B7%A5%E9%AB%98%E7%94%9F%E3%81%8C%E5%90%88%E6%A0%BC-%E9%9B%BB%E6%B0%97%E8%A8%AD%E5%82%99%E3%81%AE%E4%BF%9D%E5%AE%89%E7%AE%A1%E7%90%86%E3%82%92%E8%A1%8C%E3%81%86%E5%9B%BD%E5%AE%B6%E8%B3%87%E6%A0%BC%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E9%9B%BB%E9%A8%93%E4%B8%89%E7%A8%AE%E3%81%AE%E8%A9%A6%E9%A8%93%E3%81%8C%EF%BC%98%E6%9C%8831%E6%97%A5%E3%81%AB%E5%B4%87%E5%9F%8E%E5%A4%A7%E5%AD%A6%E7%86%8A%E6%9C%AC%E5%B8%82%E8%A5%BF%E5%8C%BA%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E7%90%83%E7%A3%A8%E5%B7%A5%E9%AB%98%E9%9B%BB%E6%B0%97%E7%A7%91%EF%BC%93%E5%B9%B4/1268923625270610/",
+    "https://www.facebook.com/nana.denkiyoho/posts/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F%E9%9B%BB%E9%A8%93%E4%BA%8C%E7%A8%AE%E3%81%AF%E6%A9%9F%E6%A2%B0%E5%88%B6%E5%BE%A1%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/1632347261588770/",
+    "https://www.facebook.com/100080431732567/posts/%E8%B6%85%E9%9B%A3%E9%96%A2%E5%90%88%E6%A0%BC%E7%AC%AC3%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%E5%AF%8C%E8%89%AF%E9%87%8E%E7%B7%91%E5%B3%B0%E9%AB%98%E6%A0%A1%E9%9B%BB%E6%B0%97%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%A7%913%E5%B9%B4%E3%81%AE%E5%B0%8F%E6%9D%BE%E5%BA%83%E5%AD%A3%E3%81%95%E3%82%93%E3%81%8C%E5%9B%BD%E5%AE%B6%E8%B3%87%E6%A0%BC%E7%AC%AC3%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E9%9B%BB%E9%A8%933%E7%A8%AE%E3%81%AE%E4%BB%8A%E5%B9%B4%E5%BA%A6%E4%B8%8A%E5%8D%8A%E6%9C%9F%E3%81%AE%E8%A9%A6%E9%A8%93%E3%81%AB%E9%AB%98%E6%A0%A1%E7%94%9F%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AF%E9%81%93%E5%86%85%E3%81%A7/621477927209926/",
+    "https://www.facebook.com/nana.denkiyoho/posts/%E3%81%A4%E3%81%A4%E3%81%A4%E3%81%84%E3%81%AB%E9%9B%BB%E6%B0%97%E7%AE%A1%E7%90%86%E6%8A%80%E8%A1%93%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%81%E7%B5%8C%E7%94%A3%E7%9C%81%E3%81%AE%E7%99%BB%E9%8C%B2%E3%82%82%E5%AE%8C%E4%BA%86%E9%9B%BB%E9%A8%93%E4%B8%89%E7%A8%AE%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E3%81%8B%E3%82%89%E7%B4%84%EF%BC%94%E5%B9%B4%E5%8D%8A%E9%95%B7%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%91%E3%81%A9%E3%82%84%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E9%AB%98%E5%9C%A7%E5%8F%97%E9%9B%BB%E8%A8%AD%E5%82%99%EF%BC%95%E4%B8%87%E3%83%9C%E3%83%AB%E3%83%88%E4%BB%A5%E4%B8%8B%E3%81%AE%E4%BF%9D%E8%A8%BC%E4%BF%9D%E5%AE%89%E3%81%A7%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93/1591225919034238/",
+    "https://www.facebook.com/nana.denkiyoho/videos/%E4%B8%89%E9%80%A3%E4%BC%91%E3%81%AF%E9%9B%BB%E9%A8%93%E4%BA%8C%E7%A8%AE%E9%9B%BB%E9%A8%93%E4%BA%8C%E7%A8%AE-%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85-%E3%81%8A%E5%8B%89%E5%BC%B7/1789612425493616/",
+    "https://www.facebook.com/groups/vietnamjapanengineer/posts/2351298868954358/",
+    "https://www.facebook.com/nana.denkiyoho/posts/%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AEdj%E3%81%AA%E3%83%BC%E3%81%AB%E3%82%83%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85/1680742676749228/",
+    "https://www.facebook.com/61577956605096/videos/%E6%9D%B1%E5%8C%97%E8%83%BD%E9%96%8B%E5%A4%A7-%E5%BF%9C%E7%94%A8%E8%AA%B2%E7%A8%8B%E7%94%9F%E7%94%A3%E7%B3%BB%E7%B4%B9%E4%BB%8B%E6%9D%B1%E5%8C%97%E8%83%BD%E9%96%8B%E5%A4%A7%E3%81%AF%E5%B0%82%E9%96%80%E8%AA%B2%E7%A8%8B2%E5%B9%B4%E5%BF%9C%E7%94%A8%E8%AA%B2%E7%A8%8B2%E5%B9%B4%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E6%96%B9%E5%BC%8F%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%95%E3%82%89%E3%81%AB%E5%BF%9C%E7%94%A8%E8%AA%B2%E7%A8%8B%E3%81%AF%E7%94%9F%E7%94%A3%E7%B3%BB3%E7%A7%91%E6%A9%9F%E6%A2%B0%E9%9B%BB%E6%B0%97%E9%9B%BB%E5%AD%90%E6%83%85%E5%A0%B1%E5%BB%BA%E7%AF%89%E7%B3%BB%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%81%A6/1065193526378118/",
+    "https://www.facebook.com/groups/jobmate/posts/29074358658825599/"
+   ]
+  },
+  {
+   "query": "機械・電気の技術者 note 社長",
+   "results": [
+    "https://note.com/tag/%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85",
+    "https://note.com/vivid_eider4984/n/n2d3063881d03",
+    "https://note.com/gijutsusya_shijo/n/n058759e08cb6",
+    "https://note.rezil.co.jp/n/nb83d2d482815",
+    "https://note.com/serene_stoat7219/n/nfc58ccf72481",
+    "https://note.com/facimane/n/nf64a4586e342",
+    "https://media.suke-dachi.jp/content/posts/illustration-note-recruiting/",
+    "https://electrical-engineer.hatenablog.jp/",
+    "https://note.com/vivid_eider4984/n/nb24a29796bda",
+    "https://ja.wikipedia.org/wiki/稲葉善治"
+   ]
+  },
+  {
+   "query": "機械・電気の技術者 X 投稿",
+   "results": [
+    "https://x.com/eei_PR/status/2108466316256710686",
+    "https://www.shiken.or.jp/upload/postonsocialmedia20261008_2.pdf",
+    "https://www.itmedia.co.jp/news/article/2607/22/1260722109/",
+    "https://www.youtube.com/watch?v=nhD3SxXEphk",
+    "https://www.youtube.com/playlist?list=PLcRmz7bR5W3lY4Ri5x28dV1SBQFJAufJo",
+    "https://shouni-tashokushu2025.com/denkikoujishidema/",
+    "https://www.jeea.or.jp/",
+    "https://note.com/hetarei/n/nac534b0d0a5e",
+    "https://www.youtube.com/watch?v=VnPcMhFHFG8",
+    "https://coki.jp/article/column/94866/"
+   ]
+  },
+  {
+   "query": "manufacturing engineer shortage Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/howardichirolim_japantech-techhiring-japanjobs-activity-7434325953482334208-NwOd",
+    "https://www.linkedin.com/pulse/japan-facing-talent-shortage-do-you-think-india-can-kacsf",
+    "https://www.linkedin.com/posts/er-prof-harikrishna-bhat-24b6b9a_placing-fresh-engineers-in-japan-is-achievable-activity-7423033887917891584-sT3N",
+    "https://www.linkedin.com/posts/bill-may-aa0ab828_solve-your-manufacturing-talent-shortage-activity-7472694637992771584-9xNV",
+    "https://www.linkedin.com/posts/talendybytechjapan_semiconductor-iit-indianengineers-activity-7445286438943850497-zCar",
+    "https://www.linkedin.com/pulse/top-aerospace-roles-demand-japan-how-indian-talent-jc0sc",
+    "https://www.linkedin.com/top-content/recruitment-hr/addressing-labor-shortages/japan-workforce-shortage-trends/",
+    "https://www.linkedin.com/top-content/career/engineering-career-guidance/how-to-build-an-engineering-career-in-japan-from-bangladesh/",
+    "https://www.linkedin.com/posts/manjaree-academy_japanjobs-sakurapathway-japaneselanguage-activity-7519027582856560640-sHTC",
+    "https://www.linkedin.com/pulse/global-software-engineer-shortage-causes-impact-real-ig0zc"
+   ]
+  }
+ ],
+ "missing": {}
+}

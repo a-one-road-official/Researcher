@@ -1,0 +1,1218 @@
+{
+ "name": "採用できず受注を断った製造業",
+ "en": "orders declined due to labor shortage Japan manufacturers",
+ "aliases": [
+  "受注辞退",
+  "受注を断る",
+  "機会損失",
+  "納期遅れ"
+ ],
+ "context": "深さ",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:52:09.396222+00:00",
+ "evidence": {
+  "採用できず起きたこと": [
+   {
+    "quote": "工場の生産能力を低下させ、機会損失や顧客からの信頼低下に直結します",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "実際に2025年は、人手不足に関連する倒産が過去最多を記録しています",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業における人手不足倒産の最新動向や、業種別の課題については、",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産が過去最多に──2025〜2026年の最新動向と中小企業が今すぐ取るべき対策",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：受注辞退・失注による機会損失（表面化しにくいが最も大きい）",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：残業代・外注費の増加、経験不足による不良・手直しの増加",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "【課題分析】採用が止まると、事業も止まる：9割の企業が実感する「機会損失型人材難」の構造と処方箋｜採用コンサルタント / 採用DD専門家 | 玉井 生（たまい せい）ロジHR株式会社",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "【課題分析】採用が止まると、事業も止まる：9割の企業が実感する「機会損失型人材難」の構造と処方箋",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "受注拡大の見送り、新規事業の断念、拠点展開の凍結——採用難が引き起こしているのは、もはや「人手不足」という現場の問題ではなく、「機会損失」という経営の問題だ",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "「商談には勝てるが、受注後の実行体制が組めないため受注を断った」「新規事業のプロジェクトリーダー候補が採れず、企画そのものをストップした」「新しい地域への出店計画を2年延期している",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：現場で見た「機会損失型採用難」の実態——大手企業2社の事例",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "機会損失として試算した売上影響は約3億円に達した",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "アクション①：「採用未達が生んだ機会損失」を金額換算して経営会議に持ち込む",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、自社に興味を持ってもらえず、応募の機会損失につながってしまうのです",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "pass": 3
+   },
+   {
+    "quote": "「工業高校出身者しか採用しない」は機会損失？ 工業高校生徒の動向と高卒採用を成功させるためのヒント",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "多くの会社は、繁忙期にその場しのぎで外注を出し、値決めも管理も甘いまま利益を削っています",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "攻めの側面――受注拡大――と、守りの側面――人手不足と外注コストの解消――を、同じ体制で同時に進められます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "人が足りないから受注を断る、という悪循環から抜け出す第一歩が、ここにあります",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "ここで陥りがちなのが、「単なる外注先の寄せ集め」に終わってしまうことです",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "同じ図面を渡しても、業者ごとに解釈が割れ、仕上がりも納期もばらつく――これが外注でつまずく原因のほとんどです",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "人件費や減価償却といった固定費の一部を外注加工費という変動費に振り替えることで、景気の波に強い、筋肉質な財務体質に近づきます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "自社の図面、品質基準、加工の癖、納期の感覚を熟知した相手が独立するため、新規業者に外注するときのような擦り合わせの労力も、不良のリスクも小さくて済みます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "従来なら、増える注文をさばききれず、残業を重ねても間に合わず、やむなく受注を断らざるを得ません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "あるいは急ぎで見つけた外注に高い単価で無理を頼み、利益を削ってしまいます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "欠員が続けば受注を断ることになり、残った社員の負担も増えます",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "外注に頼りきらず、スピードと品質を両立します",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産とは｜2026年上半期は過去最多の227件",
+    "url": "https://recufill.com/",
+    "pass": 3
+   }
+  ],
+  "規模別": [
+   {
+    "quote": "中小企業における人手不足倒産の最新動向や、業種別の課題については、",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産が過去最多に──2025〜2026年の最新動向と中小企業が今すぐ取るべき対策",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "一人の従業員が複数の工程を担当できるようにする",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "従業員にジョブローテーションを実施し、さまざまな持ち場を経験させることで、スキルの幅を広げられます",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "新しい技術を学ぶことは、従業員のキャリア形成にも役立ちます",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "変化に強い柔軟な生産体制を構築するために、従業員一人ひとりの多面的なスキルアップを支援していきましょう",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "AIで人手不足を解消する方法とは？中小企業における業務効率化と導入の考え方",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人材不足はなぜ解決しないのか？データで見る本当の原因と、中小企業が打つべき対策の全て",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員や幹部の退職を直接の引き金とする「従業員退職型」も",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業」は、人材獲得競争において三重のハンデを背負っている",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "】少ない人数で回る工場をつくる打ち手（省人化・小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "」と聞くと、大企業のスマートファクトリーや数千万円の生産管理システムを想像して尻込みする経営者が少なくありません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数十名規模の工場ほど、小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "大企業型のスマートファクトリーを目指す必要はまったくありません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材の受け入れは中小企業でも現実的ですか？",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "注目すべきは、大企業ほど「新事業領域への進出（47.8%）」「外部企業との協業・連携強化（38.9%）」を課題に挙げながら、その前提条件として「人材が揃わない」という状況に直面していることだ",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "100名採用計画を立てた大企業は、平均的に27名分の「穴」を抱えたまま事業年度に入ることになる",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートマネジメントソリューションズの調査（2026年3月）では、「専門人材の不足でプロジェクトを断念・延期した」と回答した大企業が",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "事例A：従業員4,000名・多拠点展開",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "事業拡張に伴い、2024年度に各拠点従業員を計180名採用する計画を策定",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の採用支援｜採用動画・採用サイト制作から広告・応募対応まで｜RECUFILL",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "RECUFILL｜応募が来ない中小企業のための採用支援サービス",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "神戸から全国の中小企業50社以上が導入し、その多くが経営者からのご紹介です",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "RECUFILLは、株式会社SOA（兵庫県神戸市）が提供する、求人を出しても応募が来ない中小企業のための採用支援サービスです",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "採用に課題を抱える中小企業の経営者・採用担当者",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "採用などで給与の総額が前年度より1.5％以上増えると、中小企業向けの賃上げ促進税制で、増加額の15％（2.5％以上なら30％）を法人税額から控除できる場合があります（法人税額の20％まで）",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "求人を出しても応募が来ない、応募は来ても面接や採用につながらない、人材紹介の手数料が負担になっている、といった課題を持つ中小企業に向いています",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "また、採用などで給与の総額が前年度より1.5％以上増えると、中小企業向けの賃上げ促進税制で、増加額の15％（2.5％以上なら30％）を法人税額（個人事業主は所得税額）から控除できる場合があります（控除の上限は法人税額等の20％",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、小規模事業者持続化補助金は販路開拓を目的とした制度で、公募要領でも求人広告は補助対象外とされているため、採用だけを目的にしたサイトや広告は原則として対象になりません",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が今からできる5つのこと",
+    "url": "https://recufill.com/",
+    "pass": 3
+   }
+  ],
+  "出典の種類": [
+   {
+    "quote": "内閣府「令和7年版高齢社会白書」",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が発行する「ものづくり白書」によると、2000年代前半に30％を超えていた若年就業者の割合は、近年25％程度まで低下しました",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「2025年版 ものづくり白書」",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版 ものづくり白書",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、経済産業省の「ものづくり白書」によると、人手不足により「ビジネスにも影響が出ている」と答えた企業は3割を超えています",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の調査では、人材確保の課題として「技能の継承ができない」を挙げる企業が約4割に達しています",
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「労働力調査」によると、製造業の就業者数は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省・厚生労働省・文部科学省「",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」を見ると、製造現場の中核職種である「生産工程の職業」の有効求人倍率は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省「一般職業紹介状況（職業安定業務統計）」（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省等「ものづくり白書」によれば、製造業の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、厚生労働省「一般職業紹介状況」（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書の調査では、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版アーカイブ",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（職業安定業務統計）」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "同調査では、こんな声が並んでいた",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、厚生労働省の最新データ（令和8年4月分一般職業紹介状況）では、有効求人倍率は1.28倍で推移しているにもかかわらず、正社員の有効求人倍率は",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月に発表された実態調査（PR TIMES「採用目標人数達成は3割のみ、人事の8割超が採用施策をやりきれていない」2026年3月12日）によると、",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクおよびマイナビの調査では、2026年の経営課題として「人材強化（採用・定着・育成）」を挙げた企業が**90.2%**と突出して1位を記録した（2026年3月）",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "キャリタスの2027年卒採用調査（2026年2月）では、採用予定数に対する内定者割合（充足率）の平均は",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "前年調査の70.3%よりやや改善したものの、依然として計画の4分の1が未充足のまま経年する構造だ",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "リクルートマネジメントソリューションズの調査（2026年3月）では、「専門人材の不足でプロジェクトを断念・延期した」と回答した大企業が",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年3月高等学校卒業予定者の就職内定状況（令和5年10月末現在）に関する調査",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "また、同調査によると、工業高校生徒の就職先は",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省「一般職業紹介状況（令和8年9月分）」参考統計表（常用・パートタイムを除く、原数値）",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "返金（返戻金）は法律で一律に決まっているものではなく、厚生労働省は紹介会社が返戻金制度を設けることが望ましいとしています",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "制度の有無と内容は、厚生労働省の「人材サービス総合サイト」で紹介会社ごとに確認できます",
+    "url": "https://recufill.com/",
+    "pass": 3
+   }
+  ],
+  "高卒・技術者": [
+   {
+    "quote": "設備保全・技能職は今後も採用での充足がほぼ不可能な領域",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：地元の高校・高専・工業高校との関係構築は最強の採用チャネル",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "特に地方の中小製造業にとって、地元工業高校との",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン技能者の定年を数年後に控え、加工条件・検査の勘所を動画とデータベースに落とし込む技能継承プロジェクトを実施",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "地元工業高校への出前授業とインターン受け入れ、を",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "高校新卒の応募が復活し、毎年の定期採用サイクル",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に新卒入社後、3年という速さで現職のリーダーに就任",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "統計③：新卒採用充足率73.1%——4分の1は「空席」のまま",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "少子化の影響により新卒採用市場の学生数は減少しており、多くの企業が限られた人材を獲得するために競争を繰り広げています",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "pass": 3
+   },
+   {
+    "quote": "「工業高校出身者しか採用しない」は機会損失？ 工業高校生徒の動向と高卒採用を成功させるためのヒント",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "少子化で労働力不足が慢性化し、高卒採用に目を向ける企業が増えてきています",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも就職希望者が多く、人気が集まっているのが工業高校",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "製造業や建築業など、モノづくりに関わる企業では、「工業高校出身者しか採用しない」というイメージを持っている方も多いのではないでしょうか",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "今回は工業高校の生徒の動向と、採用するにあたっての注意すべきポイントを紹介します",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "工業、製造関係の企業では、「工業高校出身の子しか採用しない」と決めて採用活動をしている場合が多いのではないでしょうか",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、高卒採用をこれから始める企業や、始めたばかりの企業が工業高校のみにターゲットを絞ってしまうと、採用活動に苦戦する場合があります",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月末時点での高校新卒の就職希望者の学科別割合は以下の通り（",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、工業高校からの採用に限定してしまうと、高校新卒全体の3割の生徒に絞って採用活動をすることになり、多くの優秀な人材を逃してしまう可能性があるのです",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用初年度の企業や、まだ始めたばかりで高校との関係構築が進んでいない企業は、ターゲットの高校を狭めずに広くアプローチしていくことをお勧めします",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "では、工業高校の求人倍率はどうでしょうか",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "を基にまとめた高校新卒全体、大学新卒、工業広告ごとの求人倍率は下の画像の通り",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "近年の高校新卒全体の求人倍率は緩やかに伸びていますが、",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校の求人倍率はそれを大きく上回っています",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "2024年で見れば、高校新卒全体が3.52倍、大学新卒が1.71倍に対して、",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に新卒入社後、3年という速さで現職のリーダーに就任",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   }
+  ],
+  "地域別": [
+   {
+    "quote": "私は船井総合研究所の製造業コンサルタントとして、年間を通じて全国の中小製造業の現場に入り、経営者の皆様とこの問題に向き合ってきました",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "全国各地の協力企業を、場当たりではなく戦略的に選び、開拓していきます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "元社員が出身地や主要顧客の近くで独立していけば、自社は大きな投資をせずに、全国に生産・物流の拠点を構えられます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "pass": 3
+   },
+   {
+    "quote": "神戸から全国の中小企業50社以上が導入し、その多くが経営者からのご紹介です",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国（打ち合わせは御社へのご訪問が基本）",
+    "url": "https://recufill.com/",
+    "pass": 3
+   }
+  ],
+  "求人倍率・充足率": [
+   {
+    "quote": "一方で、厚生労働省の最新データ（令和8年4月分一般職業紹介状況）では、有効求人倍率は1.28倍で推移しているにもかかわらず、正社員の有効求人倍率は",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "統計③：新卒採用充足率73.1%——4分の1は「空席」のまま",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "キャリタスの2027年卒採用調査（2026年2月）では、採用予定数に対する内定者割合（充足率）の平均は",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "前年調査の70.3%よりやや改善したものの、依然として計画の4分の1が未充足のまま経年する構造だ",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "しかし実際の採用数は118名（充足率65.6%）にとどまり、62名分の欠員を抱えたまま期を跨いだ",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "翌年度（2025年度）の採用数は**152名（充足率84.4%）**に改善",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "9割の企業が実感する「機会損失型人材難」の構造と処方箋 — 9割の企業が実感する「機会損失型人材難」の構造と処方箋 note https://note.com > sei_tamai",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "「 工業高校 出身者しか 採用 しない」は機会損失 ... - ミズサキ — 「 工業高校 出身者しか 採用 しない」は機会損失 ... - ミズサキ ミズサキ https://mizusaki-inc.com > knowledge > article30",
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "pass": 3
+   }
+  ],
+  "採用にかけるお金": [
+   {
+    "quote": "分割払いで月々3万円〜6万円",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "採用した人の年収の30〜35%程度（年収400万円なら120〜140万円）",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "資産づくり150万円〜200万円（分割で月々3万円〜6万円）と、毎月の広告運用費",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "資産づくり（採用映像・採用HPなど）150万円〜200万円、分割払いで月々3万円〜6万円",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "月々3万円〜6万円から",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お支払いは、資産をつくる費用（分割払いで月々3万円〜6万円）と、広告を配信する月だけの運用費の2つだけです",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "月々3万円〜6万円",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "150万円〜200万円",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "120万円〜140万円",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円の人を1人",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2人なら240万円〜280万円",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "総額 150万円〜200万円",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "総額300万円〜",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "頭金100万円〜、残りは分割払いに対応",
+    "url": "https://recufill.com/",
+    "pass": 3
+   },
+   {
+    "quote": "120〜140万円",
+    "url": "https://recufill.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "9割の企業が実感する「機会損失型人材難」の構造と処方箋 9割の企業が実感する「機会損失型人材難」の構造と処方箋 note https://note.com > sei_tamai",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【課題分析】採用が止まると、事業も止まる：9割の企業が実感する「機会損失型人材難」の構造と処方箋｜採用コンサルタント / 採用DD専門家 | 玉井 生（たまい せい）ロジHR株式会社",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "【課題分析】採用が止まると、事業も止まる：9割の企業が実感する「機会損失型人材難」の構造と処方箋",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "採用コンサルタント / 採用DD専門家 | 玉井 生（たまい せい）ロジHR株式会社",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：「採れないから、受けない」という経営判断が始まっている",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月22日、衝撃的なレポートが公開された。",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "というデータだ（PR TIMES「人材不足・採用難が深刻な企業の9割が、成長戦略への影響を実感」2026年4月22日）。受注拡大の見送り、新規事業の断念、拠点展開の凍結——採用難が引き起こしているのは、もはや「人手不足」という現場の問題ではなく、「機会損失」という経営の問題だ。",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "同調査では、こんな声が並んでいた。「商談には勝てるが、受注後の実行体制が組めないため受注を断った」「新規事業のプロジェクトリーダー候補が採れず、企画そのものをストップした」「新しい地域への出店計画を2年延期している。人が確保できないから」",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   },
+   {
+    "quote": "これは特定の業界の話ではない。製造業、サービス業、物流、食品、IT——業種を問わず、同じ構造が広がっている。",
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mh5.jp/announce_97505.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tkg.co.jp/column/recruitment-retention/106/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/koukousotsu/companyvoice/detail002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/AST7124X7T71ULFA00DM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yomiuri.co.jp/national/20240713-OYT1T50059/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ch.job-con.jp/blog/c142",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000190687.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anytive.com/magazine/machikoba-moukaranai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recufill.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kagawa-roudoukyoku/content/contents/shikokunai-koyoujouseihoukoku-2-H30-1-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kagawa-roudoukyoku/content/contents/001283539.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tochigi-roudoukyoku/content/contents/001713046.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/hokkaido-roudoukyoku/var/rev0/0124/2261/labor1609h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/akita-roudoukyoku/content/contents/002204954.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/akita-roudoukyoku/content/contents/000905181.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sei_tamai/n/n2870d137ec12",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "採用できず受注を断った製造業 有効求人倍率 職業別 労働局 2026",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.mh5.jp/announce_97505.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://seizo-web.com/blog/3005/",
+    "https://career-research.mynavi.jp/reserch/20260529_111492/",
+    "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf"
+   ]
+  },
+  {
+   "query": "採用できず受注を断った製造業 人手不足 調査 2025 2026 製造業 割合",
+   "results": [
+    "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.tdb.co.jp/report/economic/20260220-laborshortage202601/",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html"
+   ]
+  },
+  {
+   "query": "採用できず受注を断った製造業 採用できない 受注を断った 割合",
+   "results": [
+    "https://note.com/sei_tamai/n/n2870d137ec12",
+    "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "https://tkg.co.jp/column/recruitment-retention/106/",
+    "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://note.com/seizou_chiba/n/nf253e076c58c"
+   ]
+  },
+  {
+   "query": "採用できず受注を断った製造業 高卒求人倍率 製造業 工業高校",
+   "results": [
+    "https://www.works-i.com/research/project/koukousotsu/companyvoice/detail002.html",
+    "https://mizusaki-inc.com/knowledge/article30",
+    "https://www.asahi.com/articles/AST7124X7T71ULFA00DM.html",
+    "https://www.takumi-base.com/hr-branding024/",
+    "https://biz-journal.jp/company/post_384374.html",
+    "https://www.yomiuri.co.jp/national/20240713-OYT1T50059/",
+    "https://note.com/nk_kn384/n/n75e83fae7388",
+    "https://newspicks.com/news/10134030/"
+   ]
+  },
+  {
+   "query": "採用できず受注を断った製造業 採用単価 製造業 中小企業",
+   "results": [
+    "https://cr-cres.jp/cresight/production/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%BB%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E3%81%A8%E5%AF%BE/",
+    "https://ch.job-con.jp/blog/c142",
+    "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "https://persol-factorypartners.co.jp/blog/manufacturing-labor-shortage-solutions",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260714_1",
+    "https://prtimes.jp/main/html/rd/p/000000002.000190687.html",
+    "https://anytive.com/magazine/machikoba-moukaranai/",
+    "https://recufill.com/"
+   ]
+  },
+  {
+   "query": "site:jsite.mhlw.go.jp 採用できず受注を断った製造業 職業別 有効求人倍率",
+   "results": [
+    "https://jsite.mhlw.go.jp/kagawa-roudoukyoku/content/contents/shikokunai-koyoujouseihoukoku-2-H30-1-3.pdf",
+    "https://jsite.mhlw.go.jp/kagawa-roudoukyoku/content/contents/001283539.pdf",
+    "https://jsite.mhlw.go.jp/tochigi-roudoukyoku/content/contents/001713046.pdf",
+    "https://jsite.mhlw.go.jp/hokkaido-roudoukyoku/var/rev0/0124/2261/labor1609h.pdf",
+    "https://jsite.mhlw.go.jp/akita-roudoukyoku/content/contents/002204954.pdf",
+    "https://jsite.mhlw.go.jp/akita-roudoukyoku/content/contents/000905181.pdf",
+    "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565714.pdf",
+    "https://jsite.mhlw.go.jp/kagawa-roudoukyoku/var/rev0/0112/3374/201836183426.pdf",
+    "https://jsite.mhlw.go.jp/kagawa-roudoukyoku/content/contents/002191548.pdf",
+    "https://jsite.mhlw.go.jp/aichi-roudoukyoku/content/contents/001565823.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 採用できず受注を断った製造業",
+   "results": [
+    "https://note.com/seizou_chiba/n/nf253e076c58c",
+    "https://note.com/sei_tamai/n/n2870d137ec12",
+    "https://note.com/asean_pntc/n/nb2946bc69c86",
+    "https://note.com/kosuke_39/n/n142ff0bff6da",
+    "https://note.com/for_a_career/n/nfa8805299feb",
+    "https://note.com/victorconsulting/n/nabea0d9284c5",
+    "https://note.com/yuka_aibiz/n/n4fbe6f9a00ad",
+    "https://note.com/newbizcreate_777/n/ncdb09e84038b",
+    "https://note.com/ryota_yamamoto0/n/n63e59bb937b0",
+    "https://note.com/takuya_murakami/n/n2b00e468535b"
+   ]
+  },
+  {
+   "query": "site:x.com 採用できず受注を断った製造業",
+   "results": [
+    "https://x.com/Mitsuaki_rD",
+    "https://x.com/t_ryoma1985/status/2109758650009124884",
+    "https://x.com/TISS2043",
+    "https://x.com/takamoto_Ktion",
+    "https://x.com/i/trending/2117654117124317535",
+    "https://x.com/t_ryoma1985/status/2117942435091558863",
+    "https://x.com/monozukuritarou",
+    "https://x.com/nttdata_recruit",
+    "https://x.com/RyosukeYamashit",
+    "https://x.com/yuraku_rec24"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 採用できず受注を断った製造業",
+   "results": [
+    "https://jp.linkedin.com/directory/articles",
+    "https://www.linkedin.com/company/techport-co-jp/?originalSubdomain=jp",
+    "https://jp.linkedin.com/company/astroscale",
+    "https://jp.linkedin.com/company/kawasaki-heavy-industries",
+    "https://jp.linkedin.com/company/nissan-motor-corporation",
+    "https://jp.linkedin.com/company/senju-metal-industry-co-ltd-",
+    "https://jp.linkedin.com/company/visasq-inc",
+    "https://jp.linkedin.com/company/astellaspharmainc",
+    "https://www.linkedin.com/company/world-innovation-lab-wil-",
+    "https://jp.linkedin.com/company/sekisui-chemical-co.-ltd."
+   ]
+  },
+  {
+   "query": "site:facebook.com 採用できず受注を断った製造業",
+   "results": [
+    "https://www.facebook.com/matsuo.akihito/posts/byd%E3%81%AE%E8%BB%BDev%E5%8F%97%E6%B3%A81500%E5%8F%B0%E8%B6%85-%E6%97%A5%E6%9C%AC%E5%8B%A2%E3%81%AF%E4%BD%95%E3%82%92%E5%AD%A6%E3%81%B6%E3%81%8B9%E6%9C%8825%E6%97%A5%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AE%E7%A4%BE%E8%AA%AC%E3%81%AF%E4%B8%AD%E5%9B%BD%E3%81%AE%E8%87%AA%E5%8B%95%E8%BB%8A%E5%A4%A7%E6%89%8Bbyd%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%A7%E7%99%BA%E5%A3%B2%E3%81%97%E3%81%9F%E8%BB%BDev%E3%83%A9%E3%83%83%E3%82%B3%E3%82%92%E5%8F%96%E3%82%8A%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%EF%BC%97%E6%9C%88%E6%9C%AB%E3%81%AE%E7%99%BA/28580668361553326/",
+    "https://www.facebook.com/takaichisanae/posts/%E7%89%A9%E4%BE%A1%E9%AB%98%E5%AF%BE%E7%AD%96%E2%91%A4%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E7%B5%8C%E6%B8%88%E6%88%90%E9%95%B7%E3%81%AB%E3%81%AF%E4%B8%80%E5%AE%9A%E3%81%AE%E7%89%A9%E4%BE%A1%E4%B8%8A%E6%98%87%E3%81%8C%E4%BC%B4%E3%81%84%E3%81%BE%E3%81%99%E5%85%83%E3%80%852%E3%81%AE%E7%89%A9%E4%BE%A1%E5%AE%89%E5%AE%9A%E7%9B%AE%E6%A8%99%E6%B6%88%E8%B2%BB%E8%80%85%E7%89%A9%E4%BE%A1%E3%81%AE%E5%89%8D%E5%B9%B4%E6%AF%94%E4%B8%8A%E6%98%87%E7%8E%872%E3%82%92%E6%8C%81%E7%B6%9A%E7%9A%84%E3%81%AB%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%82%BA%E3%81%AB%E5%AE%89%E5%80%8D%E5%86%85%E9%96%A3%E4%BB%A5%E9%99%8D%E3%81%AE%E6%AD%B4%E4%BB%A3%E6%94%BF%E6%A8%A9%E3%82%82%E6%97%A5%E9%8A%80%E3%82%82%E5%8A%AA%E5%8A%9B%E3%82%92/1415278037364512/",
+    "https://www.facebook.com/jetro.openforprofessionals/",
+    "https://www.facebook.com/workstaff.official/posts/%E3%81%8A%E4%BB%95%E4%BA%8Bqa-%E3%81%9B%E3%81%A3%E3%81%8B%E3%81%8F%E5%8F%96%E3%81%A3%E3%81%9F%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%95%E3%83%88%E3%82%84%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%B3%87%E6%A0%BC%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%9F%E3%81%84-%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E7%B5%8C%E9%A8%93%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E8%A3%BD%E9%80%A0%E3%82%84%E4%BA%8B%E5%8B%99%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E7%99%BA%E6%8F%AE%E3%81%A7%E3%81%8D%E3%82%8B%E8%81%B7%E5%A0%B4%E3%81%AF%E3%81%82%E3%82%8B%E3%81%8B%E3%81%AA-%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E5%9F%B9%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E5%A4%A7/1118598140534904/",
+    "https://www.facebook.com/bskyjpn/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E5%86%85%E5%AE%9A%E8%80%85%E3%81%AB%E7%95%99%E5%AD%A6%E8%B2%BB%E7%94%A8%E3%82%84%E5%A5%A8%E5%AD%A6%E9%87%91%E7%A7%81%E3%81%8C%E5%B0%B1%E8%81%B7%E3%81%97%E3%81%9F%E9%A0%83%E3%82%92%E6%80%9D%E3%81%84%E5%87%BA%E3%81%97%E3%81%9F%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AB%E4%BC%81%E6%A5%AD%E3%81%8C%E5%86%85%E5%AE%9A%E8%80%85%E3%81%B8%E3%81%AE%E6%94%AF%E6%8F%B4%E3%82%92%E7%AB%B6%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E7%95%99%E5%AD%A6%E8%B2%BB%E7%94%A8%E3%82%92%E5%8A%A9%E6%88%90%E3%81%97%E3%81%9F%E3%82%8A%E5%85%A5%E7%A4%BE%E5%89%8D%E3%81%8B%E3%82%89%E5%A5%A8/28667416659545162/",
+    "https://www.facebook.com/atryon.ltd/posts/%E3%81%93%E3%81%AE%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E8%AA%B0%E3%81%8C%E8%BF%94%E4%BA%8B%E3%81%99%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%E3%81%82%E3%82%8B%E9%83%A8%E5%93%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AB%E5%80%8B%E4%BA%BA%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E5%90%91%E3%81%91%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E8%B2%A9%E5%A3%B2%E3%82%92%E5%A7%8B%E3%82%81%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%93%E3%81%A8%E5%95%86%E5%93%81%E3%82%92%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%8B%E3%82%89%E4%BD%BF%E3%81%84%E6%96%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%83%A1%E3%83%BC%E3%83%AB/1737907578342125/",
+    "https://www.facebook.com/okuma.corporation.japan/",
+    "https://www.facebook.com/mitsubishidenki/posts/28%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%90%88%E5%90%8C%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%9716%E7%A4%BE%E3%81%8C%E5%8F%82%E5%8A%A011%E6%9C%885%E6%97%A5%E6%9C%A8-9301230%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E9%96%8B%E5%82%AC%E5%8D%8A%E6%97%A5%E3%81%A7%E6%9C%80%E5%A4%A76%E7%A4%BE%E3%81%AE%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E3%82%92%E8%81%B4%E8%AC%9B%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E8%A9%B3/1593428392830504/",
+    "https://www.facebook.com/mlit.recruit/"
+   ]
+  },
+  {
+   "query": "採用できず受注を断った製造業 note 社長",
+   "results": [
+    "https://note.com/seizou_chiba/n/nf253e076c58c",
+    "https://note.com/sei_tamai/n/n2870d137ec12",
+    "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "https://note.com/saiyouohara/n/n961bf276f9ea",
+    "https://note.com/piroshi3/n/n966cbb2ffcc3",
+    "https://re-keiei.com/blog/recruitment/1952-pr-3.html",
+    "https://note.com/otsubonejyanai/n/ncd2881b1e0b2",
+    "https://note.com/tsysk/n/n71f504e49a06",
+    "https://note.com/recerqa/n/n89d3a7b9339d",
+    "https://note.com/saiyo_classy/n/nc5c7932d34bb"
+   ]
+  },
+  {
+   "query": "採用できず受注を断った製造業 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=j3J90VyVGtA",
+    "https://x.com/takamoto_Ktion",
+    "https://public-connect.jp/employer/news/4208",
+    "https://note.com/saiyo_rebirth/n/nbe50db17e00f",
+    "https://news.denfaminicogamer.jp/news/260517b",
+    "https://www.jfc.go.jp/n/findings/pdf/ronbun2308_02.pdf",
+    "https://day-worksworker.zendesk.com/hc/ja/articles/4405438732057--%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%AB%E5%BF%9C%E5%8B%9F%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E6%9D%A1%E4%BB%B6%E3%82%92%E6%95%99%E3%81%88%E3%81%A6-%E3%83%87%E3%82%A4%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%97%E3%83%A9%E3%83%B3",
+    "https://www.jftc.go.jp/partnership_package/toritekihou.html",
+    "https://x.com/machikoba_HR/status/2118194792010252479",
+    "https://x.com/jinzaibase_ceo/status/2113472995083891161"
+   ]
+  },
+  {
+   "query": "orders declined due to labor shortage Japan manufacturers site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/isi-markets_japan-activity-7523580209267310592-8YP-",
+    "https://www.linkedin.com/pulse/ceic-insights-indonesias-msci-warnings-japans-labor-shortage-75bkf",
+    "https://www.linkedin.com/pulse/food-delivery-japan-radical-challenges-secure-growth-akio-fujii-jiegc",
+    "https://www.linkedin.com/posts/japanmaritimedaily_tradewindsevents-shippingnews-japaneseshipping-activity-7381501088392298496-JIuS",
+    "https://www.linkedin.com/posts/financial-times_japans-convenience-stores-are-facing-an-activity-7513145387889790976-LjcS",
+    "https://www.linkedin.com/pulse/has-japanese-shipbuilding-really-declined-yang-chen-%E9%99%88%E6%B4%8B--6luoc",
+    "https://www.linkedin.com/pulse/im-foreigner-japan-heres-what-i-think-problem-james-riney-hbpre",
+    "https://www.linkedin.com/pulse/job-mobility-japan-opportunity-risk-boundaries-fair-akio-fujii-g89qc",
+    "https://www.linkedin.com/top-content/finance/analyzing-economic-indicators/manufacturing-output-insights/",
+    "https://www.linkedin.com/news/story/transportation-equipment-dents-demand-for-durable-goods-7902705/"
+   ]
+  }
+ ],
+ "missing": {}
+}

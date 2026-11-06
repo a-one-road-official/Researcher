@@ -1,0 +1,2943 @@
+{
+ "name": "自治体・国の採用支援の補助金（地方の製造業向け）",
+ "en": "government hiring subsidies regional manufacturers Japan",
+ "aliases": [
+  "採用 補助金 中小企業 地方",
+  "人材確保 助成金 製造業",
+  "UIJターン 採用 補助金",
+  "助成金",
+  "補助金"
+ ],
+ "context": "地方・製造業",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:49:21.094606+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "一方で、離職者数を抑止する対策を取っても、",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "フォローアップ（教育）に注力するあまり既存社員から「面倒くさい」などのイメージを持たれ離職へとつながる逆効果になっているケース",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "また、フォローアップをする人材の不足により技術の継承ができず事業の低迷、給与の向上ができず離職するといった悪循環に陥ることも避けられません",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が深刻化すると、受注があっても生産能力が追い付かず、利益を上げられないまま倒産（黒字倒産）するケースも発生しています",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を理由とした「人手不足倒産」は増加傾向",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "受注状況が好調でも、人手不足から生産ラインを維持できずに黒字倒産してしまうこともあります",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "既存社員への待遇改善には至らず離職率の向上につながり、さらに人手不足が深刻化する負のサイクルに陥ります",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2024年度）」",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "なり、社員のモチベーション低下や離職率上昇につながる悪循環につながる可能性があります",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "労働時間や残業時間は規制が厳しくなっているため、既存社員だけでの稼働が厳しいと生産性の確保も難しくなり、倒産へとつながる",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "また、定期的な面談を実施し、社員の悩みやキャリアプランについて相談に乗ることで、信頼関係を構築し、離職を防ぐことも可能です",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年上半期では人手不足による倒産が過去最多ペースで増加",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "注１：帝国データバンク 人手不足倒産の動向調査（2024年度上半期）より",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "放置するとどうなるか｜廃業・倒産・技能継承の断絶",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁の調査では、製造業の中小企業のうち相当数が後継者不在を抱えており、現役経営者の高齢化と相まって、自主廃業を選ぶケースも増えています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "一度断った取引先は次から相見積もりにすら呼ばれなくなり、長期で売上基盤が痩せていきます",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は近年増加傾向にあり、2025年度は441件で過去最多となっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "一度途切れた技能は復元が難しく、廃業の引き金になることがあります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "残った社員に負荷がかかり、残業増・休日削減でさらに離職が加速します",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "採用しても短期間で離職してしまうと、人手不足は解消されません",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "本資料では、離職リスクを診断シートで可視化し、自社に必要な定着施策を整理できます",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "このイメージの問題は、新規採用の困難さだけでなく、若手従業員の早期離職にも影響を与え、人材の定着を妨げる課題となっています",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "アプローチ2：従業員の離職を防ぎ長く活躍してもらうための「定着率向上」",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の離職を防ぎ、長く活躍してもらうための「",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "採用した人材が定着しなければ、採用と教育のコストが無駄になるだけでなく、現場の負担が増し、さらなる離職を招く悪循環に陥ります",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職を防ぐには？原因と定着率を高める採用〜入社後の対策・ツールを徹底解説",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "、すなわち従業員の会社に対する貢献意欲や愛着心を高めることは、離職率低下に直結します",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "急な欠員が出た場合でも、他の従業員がカバーできるため、現場の負担を軽減し、生産ラインの安定稼働に繋がります",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "ことで、同様の理由による離職の連鎖を防ぐ対策となります",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "定着率改善の第一歩は、離職原因の見える化です",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "離職を防ぐためには、労働環境や人間関係、キャリア不安など、自社に潜む離職リスクを把握することが欠かせません",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "本資料では、診断シートを使いながら離職リスクを整理し、自社に合った改善施策を確認できます",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "離職率は導入前の約22％から4年後には約9％まで低下",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "1.ハローワーク等の職業紹介の日の前日から過去2年以内に、2回以上離職や転職を繰り返している",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "2.紹介日の前日時点で、離職している期間が1年を超えている",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "3.妊娠、出産・育児を理由に離職し、紹介日の前日時点で、安定した職業に就いていない期間が1年を超えている",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "• また、2024年には、人手不足倒産の件数が過去最多を記録した",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）人手不足倒産の動向調査（帝国データバンク、2025年）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※人手不足倒産:法的整理(負債 1000 万円以上)となった企業のうち、従業員の離",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職や採用難等による人手不足が要因となった倒産",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、帝国データバンクの調査によると、人手不足が原因で倒産する企業は年々増加傾向にあり、製造業も例外ではありません",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "この世代が定年を迎える2025年、2030年といった節目には、熟練した技術やノウハウを持つ人材の大量離職が予想されており、技術継承の面でも大きな課題となるでしょう",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "生産性の低下、技術力や競争力の喪失、そして既存従業員の負担増とそれに伴う離職率の上昇は、負の連鎖を生み出し、事業継続そのものを危うくするリスクがあるのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査によると、2023年度の「人手不足倒産」は過去最多を更新し、その中でも製造業は常に上位に位置しています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査では、中小製造業の約3割が人手不足を理由に新規受注を断念した経験があると回答しており、これは機会損失だけでなく、企業の成長機会を奪っていることを意味するのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況が続けば、優秀な人材であっても「このままでは体がもたない」「もっと働きやすい環境で働きたい」と感じ、最終的には離職という選択をしてしまいます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員満足度が高い企業は、離職率が低く、結果として新たな人材の確保コストも削減できるという好循環が生まれます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、特定の技術を持つ熟練工や、急な欠員補充が必要な場合に大きな効果を発揮するでしょう",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、入社後のミスマッチを減らし、早期離職のリスクを低減することができます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "実家の小売業が廃業しその無念さから「廃業を減らしたい」と中小企業診断士の資格を取得",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介日の前日から過去2年以内に、2回以上離職や退職を繰り返している人",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介日の前日時点で、離職している期間が1年を超えている人",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "妊娠や出産、育児を理由に離職し、紹介日の前日時点で、安定した職業に就いていない期間が1年を超えている人",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介日前2年以内に、離職が2回以上または転職が2回以上ある者",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介日前において離職している期間が6か月を超えている人",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、実家は廃業しましたが、その時の無念さは今でも忘れられません",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "「廃業などを少しでも減らしたい」との思いから中小企業診断士を取得しました",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業では、育成に時間とコストをかけた若手人材が「もっと良い条件の職場がある」「スキルアップできる環境を求めて」という理由で離職するケースが目立ちます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "これがさらなる人手不足を引き起こす連鎖的な離職リスクを生み出します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "特に後継者不足と人材不足が重なる中小製造業においては、廃業・事業売却という選択を迫られるケースも増加しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   }
+  ],
+  "セグメント定義": [
+   {
+    "quote": "コミュニケーションが活性化すれば、従業員同士で悩みや困りごとを相談しやすい環境が作れます",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員同士の信頼関係の向上が期待でき、業務の効率化にもつながるでしょう",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の確保や定着をサポートするための助成金",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、魅力ある職場づくりに向けた制度導入や、従業員の能力開発、処遇改善など、幅広い施策に対して助成金が支給されます",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資やコンサルティングの導入、従業員に対する研修など、生産性向上に資する取り組みをおこなう事業主に対して、費用の一部が助成されます",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "補助額の上限は、従業員5人以下で750万円、6人～20人で1,000万円など従業員数によって異なります",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "補助対象者は従業員20人以下の小規模事業者です",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "規模別に見ると、人手不足の影響は中小・中堅企業ほど深刻です",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "件数としては建設業や物流業など労働集約型の産業で目立ちますが、製造業にとっても、採用難・従業員の退職・技能継承の遅れは経営リスクとして無視できません",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限額は申請枠や従業員規模によって異なります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "このイメージの問題は、新規採用の困難さだけでなく、若手従業員の早期離職にも影響を与え、人材の定着を妨げる課題となっています",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "アプローチ2：従業員の離職を防ぎ長く活躍してもらうための「定着率向上」",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の離職を防ぎ、長く活躍してもらうための「",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "労働環境の改善、公正な評価制度の構築、キャリアパスの提示など、従業員エンゲージメント（仕事への熱意や貢献意欲）を高めるための方法を講じ、従業員が「",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "することで、従業員はより付加価値の高い業務に集中できます",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本人従業員に対しても異文化理解を促す取り組みを行い、",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "【定着率向上編】従業員が「働き続けたい」と思える職場を作る3つの施策",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員のエンゲージメントを高めるための多角的な施策",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、従業員が「この会社で働き続けたい」と感じられる職場を実現するための3つの具体的な対策方法と、それぞれの取り組みについて解説します",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "労働環境の改善によって従業員エンゲージメントを高める",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "、すなわち従業員の会社に対する貢献意欲や愛着心を高めることは、離職率低下に直結します",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、定期的な面談やサーベイを通じて従業員の不満や要望を吸い上げ、改善に繋げる活動が挙げられます",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "一人の従業員が複数の異なる業務や工程を担当できる",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "この方法を推進することで、特定の従業員がいないと業務が滞る",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "急な欠員が出た場合でも、他の従業員がカバーできるため、現場の負担を軽減し、生産ラインの安定稼働に繋がります",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "常勤従業員数が1人～5人以下の会社または個人事業主 ※業種によっては20人以下",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "補助事業終了後3～5年の事業計画期間において、毎年、事業場内最低賃金が補助事業 実施場所都道府県における地域別最低賃金より30円以上高い水準であること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "常時使用する従業員の数5人以下※業種によっては20人以下",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計期間内に、事業場内最低賃金を地域別最低賃金＋30円以上の水準にすること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "申請要件を満たす賃金引上げ計画を従業員に表明していること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "事業場規模30人未満の事業者",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "事業場内最低賃金が、令和8年度地域別最低賃金未満であること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "小規模企業枠：小規模企業者（従業員20人以下で、県内に主たる事業者を有する企業）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "給与支給総額について、年率平均2％以上向上する目標（給与支給総額：役員または従業員に支払われる給料、賃金および賞与のほか、給与所得とされる手当を指す）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の推移（企業規模別） 国内の業種別・企業規模別比較",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.労働生産性は「従業員一人当たり付加価値額」、付加価値額＝営業純益（営業利益－支払利息）＋人件費",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.労働生産性は「従業員一人当たり付加価値額」、付加価値額＝営業純益（営業利益－支払利息）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 近年、中小企業では、従業員数の不足感が強まっており、2024年10-12月期の「従業員数過不足DI」は",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※人手不足倒産:法的整理(負債 1000 万円以上)となった企業のうち、従業員の離",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• また業種別に見ると、非製造業では製造業よりも人手不足が深刻であるにも関わらず、省力化投資が相対的に少ない",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 3人業種 生菓子製造業",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 － 従業員数 272人業種 製造業 資本金 4,200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 一方、「売上げの増加」などの経営指標の改善や「従業員満足度の向上」な",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都、従業員数90名）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（埼玉県、従業員数120名）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性=（営業利益+人件費+減価償却費+賃借料+租税公課）/従業員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「1,001人以上」はn数が1であったためグラフからは除外",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 今日では、人材の育成・確保、経営者及び従業員の意識改革も本質的に重要であると言える",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職種別に見ると、製造工程や組立、加工といった現場職の倍率はさらに高く、深刻な状況が浮き彫りになっています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小製造業では、ベテラン従業員の高齢化と若手人材の確保難が重なり、事業継続そのものが困難になるケースも散見されます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "生産性の低下、技術力や競争力の喪失、そして既存従業員の負担増とそれに伴う離職率の上昇は、負の連鎖を生み出し、事業継続そのものを危うくするリスクがあるのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人手が足りない職場では、残された従業員一人ひとりへの業務負担が必然的に増加します",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の毎月勤労統計調査でも、製造業の所定外労働時間（残業時間）は高水準で推移しており、従業員の負担が増している現状が伺えます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "疲弊した従業員はストレスや不満を抱えやすくなり、従業員満足度調査の結果にもその影響が表れることがあります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、さらに人手不足が深刻化し、残された従業員の負担がさらに増えるという負の連鎖に陥ってしまうのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "この負の連鎖を断ち切るためには、既存従業員の負担を軽減し、新たな人材をスムーズに確保することが不可欠です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "魅力的な職場環境は、採用だけでなく従業員の定着にも直結します",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な賃上げや、住宅手当、社員食堂の設置、リフレッシュ休暇の導入など、従業員が安心して長く働けるような福利厚生の充実は不可欠です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員満足度が高い企業は、離職率が低く、結果として新たな人材の確保コストも削減できるという好循環が生まれます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "受給額は、60歳以上の高年齢者は50万円または60万円、重度障",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "者は50万円または120万円、重度障",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "者は100万円または240万円です",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "助成額は30万円から600万円です",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "補助額の上限は、従業員5人以下で750万円、6人～20人で1,000万円など従業員数によって異なります",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "補助額の上限は、通常枠で50万円、賃金引上げ枠や創業枠、後継者支援枠などで200万円です",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "最大9,000万円規模の補助が可能です",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "１回あたり１０万円（税抜）",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "pass": 3
+   },
+   {
+    "quote": "（補助上限 １０万円×５回）",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "pass": 3
+   },
+   {
+    "quote": "200万円（税抜）",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "pass": 3
+   },
+   {
+    "quote": "750万円～2,500万円（補助率：中小企業1/2、小規模・再生事業者2/3）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "2,500万円～7,000万円（3,000万円～9,000万円）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "補助事業終了後3～5年の事業計画期間において、一人当たり給与支給総額の年平均成 長率を3.5％（以下「一人当たり給与支給総額基準値」という",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "一般型 通常枠：50万円",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "創業型：200万円",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "※インボイス特例対象者は50万円引上げ",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "※通常枠のみ賃金引上げ特例対象者は150万円引き上げ",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "以上 5万円～150万円未満、4プロセス以上 150万円～450万円以下（両方共補助率１/2以内）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "1プロセス以上50万円以下（補助率3/4、4/5以内）、50万円～350万円以下（補助率2/3以内）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "パソコン・タブレットなど 10万円以下（補助率1/2以内）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "レジ・券売機など 20万円以下（補助率1/2以内）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "～350万円以下（中小企業・小規模事業者補助率2/3以内、その他事業者補助率 1/2以内）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "5万円～150万円以下（補助率1/2以内）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "50万円以下×グループ構成員数（補助率3/4以内、4/5以内）、50万円超～350万円以下×グループ構成員数（補助率2/3以内）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "パソコン・タブレットなど 10万円×グループ構成員数",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1.ここでいう大企業とは資本金10億円以上の企業、中規模企業とは資本金１千万円以上１億円未満 、小規模企業とは資本金１千万円未満の企業とする",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.労働生産性は「従業員一人当たり付加価値額」、付加価値額＝営業純益（営業利益－支払利息）＋人件費",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.労働生産性は「従業員一人当たり付加価値額」、付加価値額＝営業純益（営業利益－支払利息）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※人手不足倒産:法的整理(負債 1000 万円以上)となった企業のうち、従業員の離",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 － 従業員数 272人業種 製造業 資本金 4,200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２機能以上：～350万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～350万円 5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～50万円以下：3/4",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～350万円：2/3",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150万円～450万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(50万円)",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "30万円×2期",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "(25万円×2期)",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "30万円×4期",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "(100万円)",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "40万円×6期",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "(33万円※×3期)",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "※第3期の支給額は34万円",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "(30万円)",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円×2期",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "(15万円×2期)",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円×4期",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "企業は下記のいずれかの条件を満たす人を試用雇用することで、1人につき毎月4万円の雇用助成金（母子家庭の母または父子家庭の父の場合は1人につき毎月5万円）を受け取れます",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "企業は下記の条件を満たす人を試用雇用することで、支給対象者1人につき4万円（精神障害者を雇用する場合は、雇入れから3か月間は月額8万円）が支給されます",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "3. ハローワーク等の紹介のため求人広告を出す必要がなく採用コストが削減できる",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストは離職コストの5〜10倍ともいわれる中、せっかく採用した人材が短期で辞めてしまう状況は、製造業の人手不足を悪化させる主要因の一つです",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の根本原因は、少子高齢化・3Kイメージ・技術継承の断絶・人材流動化・採用コスト高騰という5つの要因が複合的に絡み合っており、それぞれに対応した施策が必要です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "最大250万円",
+    "url": "https://mirasapo-plus.go.jp/subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "最大450万円",
+    "url": "https://mirasapo-plus.go.jp/subsidy/",
+    "pass": 3
+   },
+   {
+    "quote": "9,000万円",
+    "url": "https://mirasapo-plus.go.jp/subsidy/",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "支給した給与総額のCAGRが3.0％以上増加していること、または都道府県の最低賃金の直近5年CAGRより増加していること",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "補助事業終了後3～5年の事業計画期間において、一人当たり給与支給総額の年平均成 長率を3.5％（以下「一人当たり給与支給総額基準値」という",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画期間内に、給与支給総額を年平均成長率3.5％以上向上させること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "※①補助対象となる経費の総額の2分の1を上限",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "※②補助対象となる経費の総額の2分の1を上限とし、かつ補助金額で100万円を限度",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "給与支給総額について、年率平均2％以上向上する目標（給与支給総額：役員または従業員に支払われる給料、賃金および賞与のほか、給与所得とされる手当を指す）",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の中小企業（資本金の額又は出資の総額：3億円以下、もしくは常時使用する従業員の数：300人以下）であること",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の中小企業（資本金の額又は出資の総額 ：3億円以下、もしくは常時使用する従業員の数：300人以下）であること",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "機械設備の取得費総額が税抜1,000万円以上",
+    "url": "https://keiei-viewing.co.jp/shikuchouson_hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "内訳：1事業所あたり100万円+機械装置取得に要する経費の総額の1/10（上限400万円）",
+    "url": "https://keiei-viewing.co.jp/shikuchouson_hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "※機械設備の取得費総額が税抜1,000万円以上",
+    "url": "https://keiei-viewing.co.jp/shikuchouson_hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "補助対象経費総額400万円超が対象",
+    "url": "https://keiei-viewing.co.jp/shikuchouson_hojokin/",
+    "pass": 3
+   },
+   {
+    "quote": "補助率は概ね紹介手数料の50%で、補助額は1人あたり上限100万円（条件によって最大200万円まで）と高額",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、トライアル期間の3カ月間雇い続ければ、総額12万円の助成金を受けられます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-grant",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに「求人広告費が高すぎる…」「エージェント経由だと1人あたりの単価が重い…」「採用はしたいが、予算が限られている…」このような悩みを持つ企業様は少なくありません",
+    "url": "https://i-recruit.jp/blog/2025/01/27/a-complete-guide-to-grants-and-subsidies-you-can-use-in-your-recruitment-efforts/",
+    "pass": 3
+   },
+   {
+    "quote": "②従業員1人あたりの給与支給総額の年平均成長率を+3.5％以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・補助事業実施期間終了時点で「事業場内最低賃金を45円以上増加させる」「給与支給総額を6％以上増加させる」事業計画を策定し、達成する",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "補助を受けるためには、3〜5年の事業計画期間内に、付加価値額の年平均成長率4.0％以上、給与支給総額の増加、最低賃金の引き上げなどの要件を満たす必要があります",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "③補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を事業実施都道府県における最低賃金の直近5年間の年平均成長率以上増加させる、または給与支給総額の年平均成長率を2.5％以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・補助事業終了後3～5年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を4.5％以上増加させる",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "・補助事業終了後3年の事業計画期間において、従業員1人あたりの給与支給総額の年平均成長率を4.5％以上増加させる目標を掲げ、達成すること",
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の投資計画を、複数の制度に分解して当てはめる視点を持てるかどうかで、使える補助金の総額は大きく変わる、ということになります",
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "求人サイトや人材紹介会社だけでなく、SNSや自社ホームページでの採用情報の発信、リファラル採用の導入なども有効です",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人を雇用する際は在留資格・期間を確認し、厚生労働大臣（ハローワーク）へ届け出ることが義務付けられているため、必ずおこないましょう",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークまたは民間の職業紹介事業者の紹介で雇用したこと",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "どこからでも受講できる中小企業大学校のオンライン研修サービスです",
+    "url": "https://j-net21.smrj.go.jp/solution/hr/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ハローワークに求人を出しても応募が来ない」",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "大企業は採用力・賃金水準・働き方改革のいずれでも体力があるため一定の応募が見込めますが、社員50〜500名規模の中小工場では、地方立地・夜勤シフト・賃金水準といった条件面に、いわゆる3Kイメージも重なり、求人広告を出しても応募0件、という事態も珍しくありません",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、求人広告の強化であれば数十万円から、産業用ロボットの導入となると数千万円規模の投資が必要です",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "求人ボックスとは？掲載方法や仕組み・Indeedとの違いを解説",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "1.ハローワーク等の職業紹介の日の前日から過去2年以内に、2回以上離職や転職を繰り返している",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "4.60歳未満で安定した職業に就いておらず、ハローワーク等で担当者制による個別支援を受けている者",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "1.ハローワーク等の紹介により雇い入れること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークなどの求人受理の規定を満たしていること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、即戦力確保に有効な人材紹介サービスの賢い活用法に焦点を当て、未来の製造業を支えるためのヒントをお届けします",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "文部科学省の学校基本調査や厚生労働省の新規学卒者就職状況調査を見ても、高校・大学の新卒者の製造業への就職率は、かつてに比べて伸び悩む傾向にあります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介サービスを利用して採用した人材も、企業文化や業務内容にスムーズに馴染めるよう、入社後のフォローアップを丁寧に行うことが、長期的な定着に繋がります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介サービスは製造業の人手不足をどう解決する？その需要と選び方",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした状況下で、製造業の人手不足を解決する有効な手段の一つとして注目されているのが、人材紹介サービスの活用です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "では、人材紹介サービスは製造業の人手不足をどのように解決し、企業はどのような視点で選べば良いのでしょうか？",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人材紹介のメリットと活用シーン",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足が深刻化する中で、人材紹介サービスは企業にとって非常に有効な採用手段となり得ます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社は、あらかじめ登録されている求職者の中から、企業の求めるスキルや経験に合致する人材をピンポイントで紹介してくれます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "自社で求人広告を出したり、書類選考や面接の日程調整を行ったりする手間とコストは膨大です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介サービスを利用すれば、これらの採用業務の多くを代行してもらえるため、採用担当者の負担を大幅に軽減できます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社のキャリアアドバイザーは、企業の求める人物像や社風を深く理解し、求職者のスキルやキャリア志向を詳細にヒアリングした上でマッチングを行います",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介市場全体では拡大傾向にあり、特に製造業に特化したエージェントの需要は高まっています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査では、製造業企業が人材紹介サービスを利用する割合が年々増加しており、2023年には約40%の企業が利用経験があると報告されています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、製造業における人材紹介の有効性が広く認識されてきている証拠と言えるでしょう",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークや職業紹介事業者等の紹介により、一定期間試行雇用した求職者に対し賃金の一部を国が助成します",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "3. ハローワーク等の紹介のため求人広告を出す必要がなく採用コストが削減できる",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "2. ハローワークとのやりとりなど、複雑な手続きを行わなければならず、時間と手間がかかる",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "専修学校、または各種学校を設置する学校法人など",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体の掲載費用、人材紹介会社へのフィー（成功報酬型では年収の30〜35%程度）、内定辞退を見越した多めの採用活動費——これらのコストは製造業、特に体力の限られた中小企業にとって大きな負担となっています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の求人サイト、地域の無料媒体であるハローワーク、SNSを使った採用広報（採用インスタグラム・Xなど）、動画での工場見学コンテンツの発信など、ターゲット層に合わせた多様なチャネルを組み合わせることが人材確保につながります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "高校・専門学校・大学との連携プログラムを通じて、若年層が製造業の仕事に触れる機会を継続的に設けることが、中長期的な人材パイプラインの構築につながります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "採用助成金とは？種類・申請条件・手続き方法を徹底解説 | トラコム株式会社 Indeed代理店",
+    "url": "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク経由で利用できる採用助成金とは？",
+    "url": "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "pass": 3
+   },
+   {
+    "quote": "採用助成金の中には、ハローワークの窓口経由ではないといけない場合があります",
+    "url": "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介した4つの中では、「トライアル雇用助成金」と「特定求職者雇用開発助成金」は、ハローワーク経由で受給することが可能です",
+    "url": "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストとは、採用活動で発生したコスト（費用）を指し、求人サイトへの掲載費用や人材紹介会社を利用した際に支払う報酬などの採用に関わった総費用のことです",
+    "url": "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費用の見直し方やタイミングはいつ？",
+    "url": "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "pass": 3
+   },
+   {
+    "quote": "Indeedプラチナムパートナー・求人ボックスダブルスターパートナー・Google Partner として、全国6拠点（東京・千葉・名古屋・京都・大阪・福岡）から、35,000社以上の企業様の採用をサポートしてきました",
+    "url": "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "pass": 3
+   },
+   {
+    "quote": "■Indeed運用実績：2,100社以上",
+    "url": "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "pass": 3
+   },
+   {
+    "quote": "また、人材採用についての多角的なサポートをご検討されている方は採用代行・HP制作、求人広告運用をトータルでサポートしているサービスについてもご参照ください",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "「求人広告、採用ブランディングなら株式会社NOVEL（ノーベル）」",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "求人サイトへの掲載費用、人材紹介会社への成功報酬、会社説明会の開催費用など、優秀な人材を採用しようとすればするほど費用負担が増大しがちです",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば大手求人サイトへの掲載料や人材紹介会社への成功報酬は数十万円単位になることも珍しくなく、中小企業にとっては大きな負担",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば東京都足立区では、区内中小企業が求人サイト掲載や求人チラシ作成、人材紹介会社の利用に要した費用の2分の1（50％）を助成する制度があります",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "上限額は求人広告や動画制作費で40万円、人材紹介会社の成功報酬で60万円まで補助され、年間1回利用可能です",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が抱える採用コストの負担を軽減するために、大阪市でも求人広告や人材紹介にかかる費用を補助する助成制度が整備されています",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、大阪市が実施する「中小企業等人材確保支援事業補助金」（※年度により名称が変更される場合があります）では、大阪市内に本社または事業所を持つ中小企業が、求人広告の掲載や人材紹介サービスの利用にかかった費用の一部を補助しています",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "●人材紹介会社への成功報酬（採用決定後に支払う紹介手数料）",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告の掲載を計画している場合、掲載開始前に見積書や広告案などを添えて申請する必要があります",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "この制度を活用すれば、求人広告費用や人材紹介料の半額が補助されることになり、中小企業にとって大きな経済的支援になります",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば40万円の求人広告を出す場合、20万円の補助を受けられれば、残りの予算を別の施策に振り向けることが可能になります",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、新規事業展開や経営力強化のために年収600万円以上のプロ人材を県外から採用する企業に対し、人材紹介会社への手数料の一部を補助するものです",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "事前の承認がないと補助対象にならないため、求人広告を出す前など早めのタイミングで申請が必要です",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば自社サイトに求人ページを掲載する費用や、社内紹介制度による採用などは対象にならない場合があります",
+    "url": "https://next-hub.jp/383/",
+    "pass": 3
+   },
+   {
+    "quote": "対象者を、ハローワークや民間の職業紹介事業者などからの紹介によって雇い入れること",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-grant",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークや民間の職業紹介事業者などからの紹介によって雇い入れること",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-grant",
+    "pass": 3
+   },
+   {
+    "quote": "地域に居住する人材で、常時雇用する雇用保険の一般被保険者または高年齢被保険者を、計画期間内にハローワークなどの紹介によって3人以上雇い入れること",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-grant",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "【2025年最新】製造業の人手不足の現状と原因｜解決策や補助金を徹底解説 - DXみらい研究所",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は少子高齢化や終身雇用制の崩壊によりさまざまな業界で人手不足が深刻化しています",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、データに基づいた現状分析から、人手不足の根本原因を徹底解説します",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足で起きる製造業への影響や、問題を解決する対策・補助金・助成金についても解説しますので、ぜひ参考にしてください",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンソウシステムズでは、製造業の人手不足を解決に導く現場帳票システム「",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "データで見る製造業の人手不足の現状と将来予測",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足を解決する8つの対策",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足をサポートする補助金・助成金まとめ",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足対策に活用できるi-Reporter",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は、製造業の現場において深刻な課題です",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年より人手不足が高まっている",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（※2）は平均倍率の約2倍",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "しており、人手不足が深刻化していることが伺えます",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "※2 有効求人倍率：求職者1人に対してどれだけの求人があるかを示す指標で、数値が高いほど人手不足の状態を示す",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、若年就業者が増えなければ、製造業における人手不足はさらに深刻化する可能性があります",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足への対応を後押し！「中小企業省力化投資補助金」随時申請受付中！ | 経済産業省 METI Journal ONLINE",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足への対応を後押し！「中小企業省力化投資補助金」随時申請受付中！",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のみなさま、人手不足解消に効果のある「省力化製品」を導入するための補助金をご存じでしょうか",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年上半期では人手不足による倒産が過去最多ペースで増加",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "するなど、人口減少や高齢化、過疎化の進行により、中小企業にとっては中長期的にも短期的にも人手不足が課題となっています",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした人手不足に悩む中小企業などに対して、省力化投資を促す「中小企業省力化投資補助金」は、「どこから手をつけてよいか分からない」といった企業の声も踏まえ、IoT、ロボット等の汎用製品をカタログから選ぶような、簡易で即効性のある支援を行い、生産性向上、持続的な賃上げを後押ししていきます",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "注１：帝国データバンク 人手不足倒産の動向調査（2024年度上半期）より",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "この事業は、人手不足への対応を目的として、省力化製品を",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "人材・人手不足・働き方 | 経営課題解決メニュー | J-Net21[中小企業ビジネス支援サイト]",
+    "url": "https://j-net21.smrj.go.jp/solution/hr/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足時代の人材活用と職場のハラスメント対策を学ぶ労務管理オンラインセミナーを開催",
+    "url": "https://j-net21.smrj.go.jp/solution/hr/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解決に繋がる中小機構の支援メニュー",
+    "url": "https://j-net21.smrj.go.jp/solution/hr/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解決に繋がる中小機構の支援メニューの体系化",
+    "url": "https://j-net21.smrj.go.jp/solution/hr/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足はなぜ続く？原因と乗り越える3つの打ち手 | 製造業向けお役立ち情報サイト｜ものづくり研究所 | 山善",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足はなぜ続く？原因と乗り越える3つの打ち手",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "中小〜中堅の製造業では、人手不足が一時的な採用難ではなく、慢性的な経営課題です",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、人手不足は構造的な課題である一方で、打ち手は確実に存在します",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足はどこまで深刻か｜統計で見る現状",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "まず、製造業の人手不足がどれくらいの規模で進行しているのかを数字で押さえます",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "規模別に見ると、人手不足の影響は中小・中堅企業ほど深刻です",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、製造業の人手不足は「求人を増やせば解決する問題」ではなく、限られた人員で生産を維持するための仕組みづくりが求められる段階に入っています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク 人手不足に対する企業の動向調査（2026年4月）",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足は、単一の原因ではなく複数の構造要因が重なって起きています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "近年は物流・小売・建設なども慢性的な人手不足に陥っており、賃金水準を上げて人材を奪い合う構図が生まれています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を「採用がうまくいかないだけの一時的な問題」と捉えて放置すると、経営の根幹に関わる4つのリスクが連鎖的に表面化します",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は近年増加傾向にあり、2025年度は441件で過去最多となっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "3方向の打ち手のうち、人手不足への直接的な打ち手として効果が大きいのが「自動化・省人化」です",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "加工工程の人手不足には、工作機械の自動化が直接の打ち手になります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足を解決する9つの対策｜採用・定着・DXの視点で解説｜アルバイト採用のトリセツ「NL+」｜株式会社ノーザンライツ",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足を解決する9つの対策｜採用・定着・DXの視点で解説",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の採用方法では応募が集まらず、人手不足による現場の疲弊に悩んでいませんか",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "・製造業の人手不足を引き起こす構造的な要因",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "・人手不足を解消するための「採用・定着・DX」の3つのアプローチ",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足対策の鍵は、採用だけでなく定着にもあります",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "採用しても短期間で離職してしまうと、人手不足は解消されません",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足はなぜ深刻？データで見る現状と3つの根本原因",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足の現状は、単に応募者が少ないという問題だけでなく、産業構造や労働人口の変化といった複数の課題が絡み合っています",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "この業界が直面する人手不足は、生産性の低下や技術承継の断絶といった深刻な影響を及ぼす可能性があります",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは客観的なデータから、人手不足の現状とその背景にある根本原因を正確に把握することが、有効な対策を講じる第一歩です",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の現状を放置すれば、企業の競争力低下は避けられないでしょう",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足を解消する「採用・定着・DX」3つのアプローチ",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足という複雑な課題を解決するためには、多角的な視点からのアプローチが不可欠です",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、人手不足を解消するための3つの基本的な対策方法について解説します",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年度 京都府生産性向上・人手不足対策事業費補助事業について – 京都産業21",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年度 京都府生産性向上・人手不足対策事業費補助事業について",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "pass": 3
+   },
+   {
+    "quote": "京都府生産性向上・人手不足対策事業費補助金",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "厚生労働省の調査によると、中小企業における産業別社員数過不足DI（※1）において、製造業は感染症拡大前の",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "「2024年版 ものづくり白書」",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の調査によると、",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「2024年版 ものづくり白書」",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査によると、",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（2024年度）」",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "また、定期的な面談を実施し、社員の悩みやキャリアプランについて相談に乗ることで、信頼関係を構築し、離職を防ぐことも可能です",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "外部講師を招いて社内研修の実施や、eラーニングシステムの提供",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が令和2年に調査した「令和2年転職者実態調査の概況」における現在の勤め先を選んだ理由を紹介します",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省 令和2年転職者実態調査の概況",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "1つ目は、新事業の業務知識習得のために、一日に一つずつ専門知識を身につけるレッスンを実施する",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "休業、教育訓練、出向を実施していること",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "働き方改革や賃上げ、インボイス導入といった制度の変更に対応するために実施しています",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "現場帳票のシステム化を検討する際、「時間がなくて調査ができない」「導入しても運用できるか不安」「他社製品と比較してどうなのか」といった課題や不安がつきものです",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業白書2024",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "注１：帝国データバンク 人手不足倒産の動向調査（2024年度上半期）より",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "以下HPより以下３つのサポートを実施",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "第29話 信用調査",
+    "url": "https://j-net21.smrj.go.jp/solution/hr/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省は、勤務間インターバル制度の導入を促進することを目的に「令和8年度勤務間インターバル制度導入促進シンポジウム」を11月18日、オンライン(Zoomウェビナー、YouTube Live同時配信)で開催する",
+    "url": "https://j-net21.smrj.go.jp/solution/hr/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度「外国人材とつくる建設未来賞」募集",
+    "url": "https://j-net21.smrj.go.jp/solution/hr/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「ものづくり白書」によると、製造業の就業者数は長期的に減少傾向にあります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "また総務省統計局 労働局調査によると、2023年の製造業就業者数は1,055万人でしたが2025年には1,033万人に減っています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、帝国データバンクをはじめとする民間調査でも、製造業で正社員の不足を感じている企業は一定割合にのぼっており、採用難は一部の企業だけの問題ではなくなっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク 人手不足に対する企業の動向調査（2026年4月）",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書によると、若手（35歳未満）の就業者比率は長期的に低下傾向が続いています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁の調査では、製造業の中小企業のうち相当数が後継者不在を抱えており、現役経営者の高齢化と相まって、自主廃業を選ぶケースも増えています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は近年増加傾向にあり、2025年度は441件で過去最多となっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "なお、補助金制度は年度や公募回によって、名称・対象経費・補助上限額・公募スケジュールが変わることがあります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "導入したい設備が決まってから慌てて探すのではなく、年度の早い段階で年間の補助金カレンダーを作っておき、設備計画と紐付けて準備することをおすすめします",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が発表した「2026年版ものづくり白書」によると、製造業における就業者数は2005年から2025年の20年間で109万人減少",
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年度 京都府生産性向上・人手不足対策事業費補助事業について – 京都産業21",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年度 京都府生産性向上・人手不足対策事業費補助事業について",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "pass": 3
+   },
+   {
+    "quote": "生産性の向上等に向けた取組を実施する事業者（社会福祉施設、保育所・幼稚園等を除く）が行う３S・５S・カイゼン※などの持続的な生産性向上を支援します",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業が活用できる補助金・助成金7選と事例まとめ｜Nにおまかせ！",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】製造業が活用できる補助金・助成金7選と事例まとめ",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省がまとめた製造基盤白書（ものづくり白書）では、中小企業における製造業の人手不足感が、2022年・2023年は新型コロナウイルス感染症の感染拡大以前（2019年）より増加したと報告されました",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "補助事業終了後3～5年の事業計画期間において、毎年、事業場内最低賃金が補助事業 実施場所都道府県における地域別最低賃金より30円以上高い水準であること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "4.補助事業実施期間内に補助事業が終了すること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "（注）採択率の計算方法は、中小企業庁発表の小規模事業者持続化補助金資料の「採択者数」÷「申請者数」×100％より算出",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "（注）採択率の計算方法は、IT導入補助金2025サイト発表資料の「交付決定数」÷「申請数」×100％より算出",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "事業場内最低賃金が、令和8年度地域別最低賃金未満であること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "商工団体や金融機関等の支援機関から、計画の実施にあたって支援や協力を得られること",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "該当年度だけではありませんので、過去の事業も見直してください",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば「新事業進出・ものづくり商業サービス補助金」の場合、採択決定後にすぐ支給されるわけではなく、その対象となる補助事業を行い、実施報告を行います",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "7（出所）中小企業庁・（独）中小企業基盤整備機構「中小企業景況調査」",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）人手不足倒産の動向調査（帝国データバンク、2025年）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）2024年版「中小企業白書」、厚生労働省「労働経済動向調査」、商工中金「中小企業設備投資動向調査」（2025年1月調査）を基に、中小企業庁作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：調査対象企業（人手不足対応を行っていない先も含む）における取組割合を算出",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 省力化投資の実施は売上高や経常利益等の業績向上に寄与する、という可能性が示唆される",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）2024年版「中小企業白書」、厚生労働省「労働経済動向調査」、大和総研「資本ストックの「量」「質」「偏在」の改善と省人化投資で供給力強化を」」（23年11月）を基に、中小企業庁作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資の実施有無と、売上高・経常利益の変化との関係",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※１．人手不足対応を目的とした設備投資は、直近5年間の実施有無を聞いたもの",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）2024年版「中小企業白書」、大和総研「資本ストックの「量」「質」「偏在」の改善と省人化投資で供給力強化を」」（23年11月）を基に、中小企業庁作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※複数回答のため、合計は",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 一般型について、3月下旬に第１回公募を実施（６月中旬採択予定）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）2024年版「中小企業白書」、中小企業省力化投資補助金「製品カタログ」を基に、中小企業庁作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（N=163）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（N=835）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（N=584）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、帝国データバンクの調査によると、人手不足が原因で倒産する企業は年々増加傾向にあり、製造業も例外ではありません",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "人手不足 への対応を後押し！「中小企業省力化投資 補助金 ... — 人手不足 への対応を後押し！「中小企業省力化投資 補助金 ... 経済産業省 METI Journal ONLINE https://journal.meti.go.jp > 60秒早わかり解説",
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 製造業 が活用できる 補助金 ・助成金7選と事例 ... — 【2026年版】 製造業 が活用できる 補助金 ・助成金7選と事例 ... Nにおまかせ！ https://biz.service.ntt-east.co.jp > columns > subsidy_webs...",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト を最大420 万円 削減できる？副業・兼業人材コスト ... — 採用コスト を最大420 万円 削減できる？副業・兼業人材コスト ... 補助金ポータル https://hojyokin-portal.jp > columns > revicareer",
+    "url": "https://hojyokin-portal.jp/columns/revicareer",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "（公務員の仕事）2025最低賃金アップ 支援 の助成金の申請 ... （公務員の仕事）2025最低賃金アップ 支援 の助成金の申請 ... note https://note.com > ビジネス > 収益化",
+    "url": "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の成長を支える助成金活用ガイド：人材育成の成功法 ... 中小企業の成長を支える助成金活用ガイド：人材育成の成功法 ... note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】 製造業 が使える 補助金 ・助成金を目的別に ... 【2026年最新版】 製造業 が使える 補助金 ・助成金を目的別に ... note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "pass": 3
+   },
+   {
+    "quote": "一人 社長 のための 補助金 戦略マップ — どの 補助金 を - note 一人 社長 のための 補助金 戦略マップ — どの 補助金 を - note note https://note.com > ビジネス > 収益化",
+    "url": "https://note.com/bob_san/n/n94026706cc94",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】 製造業 が絶対に狙うべき 補助金 5選！採択率 ... 【2026年最新】 製造業 が絶対に狙うべき 補助金 5選！採択率 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "（公務員の仕事）２０２５最低賃金アップ支援の助成金の申請が急増しています｜恩田一樹 | 地方公務員×地場企業×海外",
+    "url": "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "pass": 3
+   },
+   {
+    "quote": "（公務員の仕事）２０２５最低賃金アップ支援の助成金の申請が急増しています",
+    "url": "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "pass": 3
+   },
+   {
+    "quote": "ここ数年、物価やエネルギー価格の高騰は継続していて、支出増に見合う賃金アップが求められる状況は、ますます当たり前のことになりつつあります。",
+    "url": "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "pass": 3
+   },
+   {
+    "quote": "この流れの中で、今年度改訂の最低賃金は全国平均で６６円、島根県で７１円も上昇し、過去最大の引き上げ幅となっています。",
+    "url": "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "pass": 3
+   },
+   {
+    "quote": "人件費の上昇を乗り切るために、国や自治体の助成金を活用し、生産性向上や省力化に取り組む企業が増えています。",
+    "url": "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "pass": 3
+   },
+   {
+    "quote": "国や自治体が実施すべきことは企業の賃金アップの後押し",
+    "url": "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "pass": 3
+   },
+   {
+    "quote": "物価高騰やエネルギー価格の上昇に対する企業の負担を軽減",
+    "url": "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "pass": 3
+   },
+   {
+    "quote": "賃金アップの実現のためには、企業がそういうことをできる状態にならないといけません。ただし、行政は、企業の賃金を上げることを直接には実行できません。",
+    "url": "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の成長を支える助成金活用ガイド：人材育成の成功法と具体事例｜がんがらがんちゃん",
+    "url": "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の成長を支える助成金活用ガイド：人材育成の成功法と具体事例",
+    "url": "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "pass": 3
+   },
+   {
+    "quote": "＝助成金を活用して人材育成を効率化！申請のコツから実際の活用事例までを徹底解説＝",
+    "url": "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "pass": 3
+   },
+   {
+    "quote": "助成金をフル活用！中小企業が人材育成で成長するためのポイント",
+    "url": "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業にとって、限られた予算で効果的に人材を育成することは重要な課題です。企業の競争力を維持し、持続的に成長するためには、従業員のスキル向上と企業の目標に向けた人材育成が欠かせません。",
+    "url": "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "pass": 3
+   },
+   {
+    "quote": "人材育成にかかるコストを軽減し、計画的に育成を進めるための手段として、国や自治体が提供する助成金を活用する方法があります。",
+    "url": "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が人材育成に助成金を活用するための具体的な方法",
+    "url": "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "pass": 3
+   },
+   {
+    "quote": "を解説します。助成金の基本から申請の流れ、成功事例までを網羅し、どのように助成金を効果的に使うかを具体的に説明します。",
+    "url": "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】製造業が使える補助金・助成金を目的別に完全解説｜国の補助金から地方の独自制度まで｜【貴社の補助金担当】トランステップ（株）│岡島礼",
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】製造業が使える補助金・助成金を目的別に完全解説｜国の補助金から地方の独自制度まで",
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "pass": 3
+   },
+   {
+    "quote": "【貴社の補助金担当】トランステップ（株）│岡島礼",
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "pass": 3
+   },
+   {
+    "quote": "2026年は主要3制度がすべて名称・制度統合の大きな変更を受けており、「ものづくり補助金」等の旧名称のままでは、最新情報にたどり着けない",
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "pass": 3
+   },
+   {
+    "quote": "・国の補助金3制度・助成金2制度、さらに地方独自の補助金まで含めると、製造業が目的別に使える支援策は6つ以上ある",
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "pass": 3
+   },
+   {
+    "quote": "・どの制度にも返還義務や賃上げ要件などのリスクがあり、補助上限額だけでなく必達要件までセットで理解する必要がある",
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "pass": 3
+   },
+   {
+    "quote": "製造業で設備投資・省人化・DX化を検討しているが、どの補助金・助成金が自社に合うか分からない経営者・工場長",
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "pass": 3
+   },
+   {
+    "quote": "・「ものづくり補助金」「IT導入補助金」など、以前使った制度の名前や内容のまま情報が止まっている担当者",
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "pass": 3
+   },
+   {
+    "quote": "一人社長のための補助金戦略マップ — どの補助金を、どのタイミングで狙うべきか｜Bobさん",
+    "url": "https://note.com/bob_san/n/n94026706cc94",
+    "pass": 3
+   },
+   {
+    "quote": "一人社長のための補助金戦略マップ — どの補助金を、どのタイミングで狙うべきか",
+    "url": "https://note.com/bob_san/n/n94026706cc94",
+    "pass": 3
+   },
+   {
+    "quote": "「持続化補助金、デジタル化補助金、ものづくり補助金…結局、自分はどれを申請すればいいの？」",
+    "url": "https://note.com/bob_san/n/n94026706cc94",
+    "pass": 3
+   },
+   {
+    "quote": "「全部使えるって聞いたけど、どの順番で狙えばいいの？」",
+    "url": "https://note.com/bob_san/n/n94026706cc94",
+    "pass": 3
+   },
+   {
+    "quote": "「2026年のスケジュールを一覧で見たい」",
+    "url": "https://note.com/bob_san/n/n94026706cc94",
+    "pass": 3
+   },
+   {
+    "quote": "補助金シリーズも今回で最終回。第1回で補助金の全体像を学び、第2回で持続化補助金、第3回でデジタル化・AI導入補助金、第4回でものづくり補助金を攻略してきました。",
+    "url": "https://note.com/bob_san/n/n94026706cc94",
+    "pass": 3
+   },
+   {
+    "quote": "し、「自分の事業フェーズに合った補助金はどれか」「いつ、どの順番で申請すべきか」が一目でわかる",
+    "url": "https://note.com/bob_san/n/n94026706cc94",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、シリーズで解説した3つの補助金のポイントを一気におさらいしましょう。",
+    "url": "https://note.com/bob_san/n/n94026706cc94",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】製造業が絶対に狙うべき補助金5選！採択率・コスパ・実効性でプロがガチ厳選｜補助金を最後まで伴走｜竹原 敦史（大阪／認定支援機関）",
+    "url": "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】製造業が絶対に狙うべき補助金5選！採択率・コスパ・実効性でプロがガチ厳選",
+    "url": "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "pass": 3
+   },
+   {
+    "quote": "補助金を最後まで伴走｜竹原 敦史（大阪／認定支援機関）",
+    "url": "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "pass": 3
+   },
+   {
+    "quote": "補助金を最後まで伴走している行政書士・認定経営革新等支援機関の竹原です。",
+    "url": "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "pass": 3
+   },
+   {
+    "quote": "いつもnoteを読んでいただき、ありがとうございます！",
+    "url": "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "pass": 3
+   },
+   {
+    "quote": "「新しい工作機械や検査装置を導入して、生産能力を倍にしたい」 「熟練工の高齢化が深刻で、溶接や搬送をロボット・AIで自動化したい」 「電気代の高騰が利益を圧迫していて、工場の省エネ設備を刷新したい」",
+    "url": "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "pass": 3
+   },
+   {
+    "quote": "当事務所には、大阪をはじめ全国の製造業・町工場の社長様から毎日のように切実なご相談が寄せられます。 日本の屋台骨を支えているのは間違いなく製造業ですが、近年の原材料高、電気代高騰、そして人手不足は本当に過酷です。",
+    "url": "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資をしたいけれど、数千万円単位の資金調達はリスクが大きすぎる。 だからこそ「国の補助金」を上手に活用したいわけですが、ネットで調べると情報が溢れすぎていて、こう思いませんか？",
+    "url": "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "50",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "quote": "受給額は、60歳以上の高年齢者は50万円または60万円、重度障"
+   },
+   {
+    "value": "60",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "quote": "受給額は、60歳以上の高年齢者は50万円または60万円、重度障"
+   },
+   {
+    "value": "120",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "quote": "者は50万円または120万円、重度障"
+   },
+   {
+    "value": "100",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "quote": "者は100万円または240万円です"
+   },
+   {
+    "value": "240",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "quote": "者は100万円または240万円です"
+   },
+   {
+    "value": "30",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "quote": "助成額は30万円から600万円です"
+   },
+   {
+    "value": "600",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "quote": "助成額は30万円から600万円です"
+   },
+   {
+    "value": "750",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "quote": "補助額の上限は、従業員5人以下で750万円、6人～20人で1,000万円など従業員数によって異なります"
+   },
+   {
+    "value": "000",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "quote": "補助額の上限は、従業員5人以下で750万円、6人～20人で1,000万円など従業員数によって異なります"
+   },
+   {
+    "value": "200",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "quote": "補助額の上限は、通常枠で50万円、賃金引上げ枠や創業枠、後継者支援枠などで200万円です"
+   },
+   {
+    "value": "000",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "quote": "最大9,000万円規模の補助が可能です"
+   },
+   {
+    "value": "１０",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "quote": "１回あたり１０万円（税抜）"
+   },
+   {
+    "value": "200",
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "quote": "200万円（税抜）"
+   },
+   {
+    "value": "750",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "750万円～2,500万円（補助率：中小企業1/2、小規模・再生事業者2/3）"
+   },
+   {
+    "value": "500",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "750万円～2,500万円（補助率：中小企業1/2、小規模・再生事業者2/3）"
+   },
+   {
+    "value": "000",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "2,500万円～7,000万円（3,000万円～9,000万円）"
+   },
+   {
+    "value": "50",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "一般型 通常枠：50万円"
+   },
+   {
+    "value": "200",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "創業型：200万円"
+   },
+   {
+    "value": "150",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "※通常枠のみ賃金引上げ特例対象者は150万円引き上げ"
+   },
+   {
+    "value": "5",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "以上 5万円～150万円未満、4プロセス以上 150万円～450万円以下（両方共補助率１/2以内）"
+   },
+   {
+    "value": "450",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "以上 5万円～150万円未満、4プロセス以上 150万円～450万円以下（両方共補助率１/2以内）"
+   },
+   {
+    "value": "350",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "1プロセス以上50万円以下（補助率3/4、4/5以内）、50万円～350万円以下（補助率2/3以内）"
+   },
+   {
+    "value": "10",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "パソコン・タブレットなど 10万円以下（補助率1/2以内）"
+   },
+   {
+    "value": "20",
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "quote": "レジ・券売機など 20万円以下（補助率1/2以内）"
+   },
+   {
+    "value": "1000",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "quote": "※人手不足倒産:法的整理(負債 1000 万円以上)となった企業のうち、従業員の離"
+   },
+   {
+    "value": "200",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "quote": "資本金 － 従業員数 272人業種 製造業 資本金 4,200万円"
+   },
+   {
+    "value": "50",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "quote": "50万円×グループ構成員数"
+   },
+   {
+    "value": "000",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "quote": "合わせて3,000万円まで"
+   },
+   {
+    "value": "350",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "quote": "２機能以上：～350万円"
+   },
+   {
+    "value": "5",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "quote": "～350万円 5万円～150万円"
+   },
+   {
+    "value": "150",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "quote": "～350万円 5万円～150万円"
+   },
+   {
+    "value": "450",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "quote": "150万円～450万円"
+   },
+   {
+    "value": "50",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "(50万円)"
+   },
+   {
+    "value": "30",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "30万円×2期"
+   },
+   {
+    "value": "25",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "(25万円×2期)"
+   },
+   {
+    "value": "100",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "(100万円)"
+   },
+   {
+    "value": "40",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "40万円×6期"
+   },
+   {
+    "value": "33",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "(33万円※×3期)"
+   },
+   {
+    "value": "34",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "※第3期の支給額は34万円"
+   },
+   {
+    "value": "20",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "20万円×2期"
+   },
+   {
+    "value": "15",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "(15万円×2期)"
+   },
+   {
+    "value": "4",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "企業は下記のいずれかの条件を満たす人を試用雇用することで、1人につき毎月4万円の雇用助成金（母子家庭の母または父子家庭の父の場合は1人につき毎月5万円）を受け取れます"
+   },
+   {
+    "value": "5",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "企業は下記のいずれかの条件を満たす人を試用雇用することで、1人につき毎月4万円の雇用助成金（母子家庭の母または父子家庭の父の場合は1人につき毎月5万円）を受け取れます"
+   },
+   {
+    "value": "8",
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "quote": "企業は下記の条件を満たす人を試用雇用することで、支給対象者1人につき4万円（精神障害者を雇用する場合は、雇入れから3か月間は月額8万円）が支給されます"
+   },
+   {
+    "value": "250",
+    "url": "https://mirasapo-plus.go.jp/subsidy/",
+    "quote": "最大250万円"
+   },
+   {
+    "value": "450",
+    "url": "https://mirasapo-plus.go.jp/subsidy/",
+    "quote": "最大450万円"
+   },
+   {
+    "value": "000",
+    "url": "https://mirasapo-plus.go.jp/subsidy/",
+    "quote": "9,000万円"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000180562.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journal.meti.go.jp/60sec/36247/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/solution/hr/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/small-and-medium-enterprise/local02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ec-cube.net/enterprise/btob/column/manufacture-dx-shorthanded/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://financeinjapan.com/knowledge/3c3aiGAzP1vmFY77q80cYZ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mirasapo-plus.go.jp/subsidy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinkaze.jp/saiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiei-viewing.co.jp/shikuchouson_hojokin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://next-hub.jp/383/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_07843.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojyokin-portal.jp/columns/revicareer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-grant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://local-saiyo.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-recruit.jp/blog/2025/01/27/a-complete-guide-to-grants-and-subsidies-you-can-use-in-your-recruitment-efforts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sme-support.co.jp/column/p1242/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dodadsj.com/content/2026market-prediction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yafo.or.jp/2026/08/31/24506/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/zaimu/kannai/202601/tokubetsu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/shin_kijiku/pdf/025_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/books/fact-finding_report/20251107.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12000000/001485589.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitocore.com/jinji0061/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lean-operation.com/media/management/mono_2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2026/pdf/gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/transtep/n/n1e28bf85d6a9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bob_san/n/n94026706cc94",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 人手不足 受注 断る",
+   "results": [
+    "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "https://prtimes.jp/main/html/rd/p/000000007.000180562.html",
+    "https://journal.meti.go.jp/60sec/36247/",
+    "https://j-net21.smrj.go.jp/solution/hr/index.html",
+    "https://www.works-i.com/research/project/small-and-medium-enterprise/local02/",
+    "https://www.ricoh.co.jp/service/digital-manufacturing/media/article/detail53",
+    "https://www.the-miyanichi.co.jp/pressrelease/prtimes/1212758.html",
+    "https://note.com/suzukan01/n/ncfc37a3815c9",
+    "https://it-hojokin.info/columns/jinzai-fusoku-hojo-seizogyo/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 受注残 人手不足",
+   "results": [
+    "https://www.ec-cube.net/enterprise/btob/column/manufacture-dx-shorthanded/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.n-lights.com/nlplus/manufacturing-labor-shortage-solutions/",
+    "https://www.ki21.jp/subsidy/kobo-r8-koujou/",
+    "https://financeinjapan.com/knowledge/3c3aiGAzP1vmFY77q80cYZ",
+    "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "https://bansou-shien-partners.com/1902/",
+    "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "https://www.pref.saitama.lg.jp/a0805/hitodebusoku/jireishuu.html"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 人手不足 損失 億円",
+   "results": [
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/seicho_innovation/004/004.pdf",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "https://biz-recipe.jp/column/subsidy-for-alleviating-labor-shortages/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://local-saiyo.jp/blog/recruitment-subsidy/p19204/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 採用単価 規模別",
+   "results": [
+    "https://mirasapo-plus.go.jp/subsidy/",
+    "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "https://shinkaze.jp/saiyo",
+    "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "https://keiei-viewing.co.jp/shikuchouson_hojokin/",
+    "https://next-hub.jp/383/",
+    "https://www.mhlw.go.jp/stf/newpage_07843.html",
+    "https://hojyokin-portal.jp/columns/revicareer",
+    "https://global-saponet.mgl.mynavi.jp/visa/22884"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 採用コスト 調査 万円",
+   "results": [
+    "https://shinkaze.jp/saiyo",
+    "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "https://hojyokin-portal.jp/columns/revicareer",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-grant",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://next-hub.jp/383/",
+    "https://local-saiyo.jp/",
+    "https://i-recruit.jp/blog/2025/01/27/a-complete-guide-to-grants-and-subsidies-you-can-use-in-your-recruitment-efforts/",
+    "https://www.sme-support.co.jp/column/p1242/",
+    "https://local-saiyo.jp/blog/recruitment-subsidy/p19204/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.dodadsj.com/content/2026market-prediction/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.mof.go.jp/about_mof/zaimu/kannai/202601/tokubetsu.pdf",
+    "https://www.nikkei.com/article/DGKKZO84449090Z21C24A0TB3000/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://www.jil.go.jp/institute/research/index.html",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.yafo.or.jp/2026/08/31/24506/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.mof.go.jp/about_mof/zaimu/kannai/202601/tokubetsu.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/shin_kijiku/pdf/025_03_00.pdf",
+    "https://www.mlit.go.jp/policy/shingikai/content/001381856.pdf",
+    "https://local-saiyo.jp/blog/recruitment-subsidy/p19204/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "https://www.tdb.co.jp/report/economic/20250221-laborshortage202501/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "https://www.mof.go.jp/about_mof/zaimu/kannai/202601/tokubetsu.pdf",
+    "https://www.jmac.co.jp/books/fact-finding_report/20251107.html",
+    "https://www.mhlw.go.jp/content/12000000/001485589.pdf",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://hitocore.com/jinji0061/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） 白書 採用",
+   "results": [
+    "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "https://lean-operation.com/media/management/mono_2025/",
+    "https://www.tracom.co.jp/tralog/subsidy-4/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2026/pdf/gaiyo.pdf",
+    "https://mirasapo-plus.go.jp/infomation/32451/",
+    "https://www.mhlw.go.jp/wp/hakusyo/kousei/16/dl/2-04.pdf",
+    "https://eigyo-mfg.com/blog/7400/",
+    "https://local-saiyo.jp/",
+    "https://samurai-ent.com/media/category-13/sme-recruitment-subsidy-guide/",
+    "https://local-saiyo.jp/blog/recruitment-subsidy/p19204/"
+   ]
+  },
+  {
+   "query": "site:note.com 自治体・国の採用支援の補助金（地方の製造業向け）",
+   "results": [
+    "https://note.com/ondakazuki/n/nc43ac63eb716",
+    "https://note.com/local_hack/n/n063f5f066910",
+    "https://note.com/gangaraganchan/n/n2814c7498e17",
+    "https://note.com/preventure/n/n8cf5bebbbaf8",
+    "https://note.com/lmooi/n/n1d890722ea90",
+    "https://note.com/suzukan01/n/ncfc37a3815c9",
+    "https://note.com/ai_labo26/n/ndd69eaddb999",
+    "https://note.com/transtep/n/nbcf6a28b6d78",
+    "https://note.com/ondakazuki/n/ndeef07e298dd",
+    "https://note.com/stayway01/n/n3636a17984ad"
+   ]
+  },
+  {
+   "query": "site:x.com 自治体・国の採用支援の補助金（地方の製造業向け）",
+   "results": [
+    "https://x.com/nagaoki_grandir/article/2102181049757487387",
+    "https://x.com/Break_ogawa/status/1955509625257640210",
+    "https://x.com/luigi_jpn/article/2089684200245100653",
+    "https://x.com/masamune_sakaki/status/2096568283176812796",
+    "https://x.com/k_koga555/status/2107253434508595565",
+    "https://x.com/dual_iju",
+    "https://x.com/shogakukin_x",
+    "https://x.com/toko_cci",
+    "https://x.com/KagawaTomo/article/2072596828244398491",
+    "https://x.com/KagawaTomo/article/2068090667608453217"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 自治体・国の採用支援の補助金（地方の製造業向け）",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E8%A8%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%B8%8A%E5%A0%B4%EF%BC%8F%E9%A6%96%E9%83%BD%E5%9C%8F%E3%80%91%E8%87%AA%E6%B2%BB%E4%BD%93%E5%90%91%E3%81%91%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B0%8E%E5%85%A5%E3%83%BB%E4%BF%9D%E5%AE%88%EF%BC%88%E8%87%AA%E7%A4%BE%E8%A3%BD%E5%93%81%EF%BC%89%E2%97%86%E6%89%80%E5%AE%9A%E5%8A%B4%E5%83%8D7%E6%99%82%E9%96%9320%E5%88%86-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4480110221",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E3%83%95%E3%83%AB%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%80%91%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%EF%BC%8F%E5%AE%98%E5%85%AC%E5%BA%81%E3%83%BB%E6%96%87%E6%95%99%E3%83%BB%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2%E5%90%91%E3%81%91%E2%97%86gc%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4486404867",
+    "https://jp.linkedin.com/showcase/career-executive-jp%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://jp.linkedin.com/jobs/view/sr-account-manager-%E8%87%AA%E6%B2%BB%E4%BD%93%E4%BA%8B%E6%A5%AD%E6%9C%AC%E9%83%A8-%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%82%BB%E3%82%AF%E3%82%BF%E3%83%BC-at-amazon-web-services-aws-4342980350",
+    "https://jp.linkedin.com/jobs/view/%E3%80%902806%E3%80%91%E3%80%90%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%8E%A1%E7%94%A8%E3%80%91%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%81%AE%E5%85%88%E7%AB%AF%E6%8A%80%E8%A1%93%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97dx%E6%8E%A8%E9%80%B2%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95-at-hitachi-4279600203",
+    "https://jp.linkedin.com/jobs/view/vct-%E3%80%90%E6%96%B0%E8%A6%8F%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%81%E3%83%BC%E3%83%A0%E3%80%91circular-economy-business-consultant-at-kpmg%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%EF%BC%8Fkpmg-japan-3876325627",
+    "https://jp.linkedin.com/jobs/view/%E3%80%903229%E3%80%91%E4%B8%AD%E5%A4%AE%E5%AE%98%E5%BA%81%E3%81%8A%E3%82%88%E3%81%B3%E9%96%A2%E9%80%A3%E6%A9%9F%E9%96%A2%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AC%E3%83%90%E3%83%A1%E3%83%B3%E3%83%88%E6%8E%A8%E9%80%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E5%96%B6%E6%A5%AD-%E4%B8%BB%E4%BB%BB-at-hitachi-4481596347",
+    "https://jp.linkedin.com/pulse/chinas-factories-arent-disappearing-theyre-moving-inland-becky-wei-dg9le?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%EF%BC%8F%E7%AE%A1%E7%90%86%E8%81%B7%E5%8B%9F%E9%9B%86%E3%80%91%E6%8A%95%E8%B3%87%E6%88%A6%E7%95%A5%E6%8E%A8%E9%80%B2-%E2%80%BB%E6%9D%B1%E8%A8%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%EF%BC%8F%E5%9B%BD%E5%86%85%E5%A4%96%E3%81%AB%E4%BA%8B%E6%A5%AD%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8Bglobal%E4%BC%81%E6%A5%AD-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4485206636",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%9D%B1%E4%BA%AC%EF%BC%9E%E5%AE%98%E5%85%AC%E5%BA%81%E5%90%91%E3%81%91%E5%96%B6%E6%A5%AD%E2%97%86%E5%A4%A7%E6%89%8B%E5%BB%BA%E8%A8%AD%E7%B7%8F%E5%90%88%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%EF%BC%8F%E5%9B%BD%E3%82%82%E8%AA%8D%E3%82%81%E3%82%8B%E5%83%8D%E3%81%8D%E3%82%84%E3%81%99%E3%81%95%E2%97%8E%E5%9C%A8%E5%AE%85%E5%8F%AF%EF%BC%8F%E5%B9%B4%E4%BC%91125%E6%97%A5%E3%83%BB%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4477420799"
+   ]
+  },
+  {
+   "query": "site:facebook.com 自治体・国の採用支援の補助金（地方の製造業向け）",
+   "results": [
+    "https://www.facebook.com/100027783742231/posts/%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%81%AE%E8%B3%AA%E3%81%A8%E9%87%8F%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%94%BF%E7%AD%96%E6%8F%90%E8%A8%80%E6%9B%B8%E4%BA%BA%E3%81%8C%E5%83%8D%E3%81%8D%E7%B6%9A%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E6%95%B4%E5%82%99%E3%81%99%E3%82%8B%E3%81%93%E3%81%A81-%E8%A6%81%E7%B4%84%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%82%92%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E4%BA%BA%E6%9D%90%E3%81%AE%E7%A2%BA%E4%BF%9D%E3%81%A8%E5%AE%9A%E7%9D%80%E3%82%92%E8%BB%B8%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E8%B3%AA%E3%81%A8%E9%87%8F%E3%82%92%E5%90%8C%E6%99%82%E3%81%AB%E9%AB%98%E3%82%81%E3%82%8B/2192996674969769/",
+    "https://www.facebook.com/100027783742231/posts/%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%81%AE%E8%B3%AA%E3%81%A8%E9%87%8F%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%94%BF%E7%AD%96%E6%8F%90%E8%A8%80%E6%9B%B8%E4%BA%BA%E3%81%8C%E5%83%8D%E3%81%8D%E7%B6%9A%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E6%95%B4%E5%82%99%E3%81%99%E3%82%8B%E3%81%93%E3%81%A81-%E8%A6%81%E7%B4%84%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E3%82%92%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E4%BA%BA%E6%9D%90%E3%81%AE%E7%A2%BA%E4%BF%9D%E3%81%A8%E5%AE%9A%E7%9D%80%E3%82%92%E8%BB%B8%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E8%B3%AA%E3%81%A8%E9%87%8F%E3%82%92%E5%90%8C%E6%99%82%E3%81%AB%E9%AB%98%E3%82%81%E3%82%8B/2192994801636623/",
+    "https://www.facebook.com/100027783742231/photos/%E3%81%84%E3%81%8B%E3%81%8C%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E7%B6%BA%E9%BA%97/2169079460694824/",
+    "https://www.facebook.com/chiikiokoshikyouryokutai/posts/%E5%9C%B0%E5%9F%9F%E3%81%8A%E3%81%93%E3%81%97%E5%8D%94%E5%8A%9B%E9%9A%8A%E5%88%B6%E5%BA%A6%E3%81%A9%E3%81%86%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F-%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E9%87%8D%E8%A6%81%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E4%BB%A4%E5%92%8C6%E5%B9%B4%E5%BA%A6%E3%81%8B%E3%82%898%E5%B9%B4%E5%BA%A6%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%9C%B0%E5%9F%9F%E3%81%8A%E3%81%93%E3%81%97%E5%8D%94%E5%8A%9B%E9%9A%8A%E3%81%AE%E6%8E%A8%E9%80%B2%E8%A6%81%E7%B6%B1%E3%81%AE%E4%B8%80%E9%83%A8%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E9%9A%8A%E5%93%A1%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E6%96%B9/1497851942381795/",
+    "https://www.facebook.com/tokyoinnovationbase/posts/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E6%88%90%E9%95%B7%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%94%AF%E6%8F%B4%E8%80%85%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%88%E3%82%8B%E5%A0%B4%E6%89%80%E3%81%9D%E3%82%8C%E3%81%8Ctib%E6%9C%AC%E6%97%A5%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%84%E6%9C%AC%E6%97%A5%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AFawake%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E3%81%AE%E5%B1%B1%E6%9C%AC-%E8%81%A1%E4%B8%80%E3%81%95%E3%82%93%E5%B1%B1%E6%9C%AC-%E8%81%A1/122135522966126889/",
+    "https://www.facebook.com/jichiken.jp/",
+    "https://www.facebook.com/mlit.recruit/posts/%E4%B8%80%E8%88%AC%E8%81%B7%E4%BA%8B%E5%8B%99%E7%B3%BB%E8%81%B7%E5%93%A1%E7%B4%B9%E4%BB%8B%E2%91%A5-%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%80%E8%88%AC%E8%81%B7%E4%BA%8B%E5%8B%99%E7%B3%BB%E6%8E%A1%E7%94%A8%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%99-%E8%81%B7%E5%93%A1%E7%B4%B9%E4%BB%8B%EF%BC%96%E4%BA%BA%E7%9B%AE%E3%81%AF%E9%83%BD%E5%B8%82%E5%B1%80%E9%83%BD%E5%B8%82%E6%94%BF%E7%AD%96%E8%AA%B2%E3%81%AE%E4%B8%8A%E6%9E%97%E4%BF%82%E9%95%B7%E3%81%A7%E3%81%99q-%E5%BF%97%E6%9C%9B%E5%8B%95%E6%A9%9F%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81%E3%82%92%E5%BF%97/577765591195551/",
+    "https://www.facebook.com/mextjapan/?locale=pl_PL",
+    "https://www.facebook.com/meti.hokkaido/",
+    "https://www.facebook.com/groups/1168835896656600/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） note 社長",
+   "results": [
+    "https://note.com/transtep/n/n1e28bf85d6a9",
+    "https://note.com/bob_san/n/n94026706cc94",
+    "https://note.com/takehara_hojokin/n/n7b9980add181",
+    "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "https://www.ht-tax.or.jp/topics/kojyo-hojyokin/",
+    "https://note.jp/n/na1b580a832bc",
+    "https://note.com/transtep/n/n69eaad8ea06d",
+    "https://www.saipita.com/column/subsidy.html",
+    "https://www.digima-japan.com/knowhow/world/expert-southpoint-00015.php",
+    "https://local-saiyo.jp/blog/recruitment-subsidy/p19204/"
+   ]
+  },
+  {
+   "query": "自治体・国の採用支援の補助金（地方の製造業向け） X 投稿",
+   "results": [
+    "https://biz.service.ntt-east.co.jp/columns/subsidy_website_development/",
+    "https://depart-inc.com/blog/subsidy-recruit-site/",
+    "https://mirasapo-plus.go.jp/",
+    "https://www.smart-hojokin.jp/",
+    "https://www.brother.co.jp/product/machine/speedio-navi/articles/a0066/",
+    "https://x.com/hojyokin_portal",
+    "https://portal.monodukuri-hojo.jp/",
+    "https://hojyokin-portal.jp/",
+    "https://www.chusho.meti.go.jp/koukai/hojyokin/index.html",
+    "https://local-saiyo.jp/blog/recruitment-subsidy/p19204/"
+   ]
+  },
+  {
+   "query": "government hiring subsidies regional manufacturers Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/jetro-collaborate-and-invest-japan",
+    "https://www.linkedin.com/company/japan-international-cooperation-agency-jica-/",
+    "https://www.linkedin.com/company/us-economic-development-administration",
+    "https://www.linkedin.com/company/japan-patent-office/",
+    "https://www.linkedin.com/company/the-manufacturing-institute-mi",
+    "https://www.linkedin.com/company/u-s-department-of-labor",
+    "https://www.linkedin.com/showcase/sba-great-lakes/",
+    "https://www.linkedin.com/company/usjapancouncil",
+    "https://www.linkedin.com/pulse/japan-extrusion-coating-machine-market-regions-xtvwf",
+    "https://www.linkedin.com/company/appalachian-regional-commission"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -2,6 +2,7 @@
 
 ### 業界ニュース（毎日）｜永久磁石（permanent magnet）
 - 取得：2026-11-05T02:42・調査2回目・読んだ頁41
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（52件）：
   - ［一次］2026-11-05「（取組２）廃磁石からのレアアース原料リサイクル技術の開発・導入」https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf
   - ［一次］2026-11-05「• サマリウムコバルト磁石の製造設備投資は年100 トン以上の能力保持」https://www.meti.go.jp/policy/policy_management/ebpm/kensyo_shinario/260331_jishaku.pdf
@@ -72,6 +73,7 @@
   - ［記事］2026-11-04「インド、年内に希土類 永久磁石 の生産目指す＝鉱山相 - Reuters — インド、年内に希土類 永久磁石 の生産目指す＝鉱山相 - Reuters Reuters https://www.reuters.com > markets > commodities > 4ZH...」https://www.reuters.com/jp/markets/commodities/4ZHOS3WW55OAXBDP5XPBZMVTF4-2026-02-20/
 ### 業界ニュース（毎日）｜グリーンスチール（green steel）
 - 取得：2026-11-05T02:38・調査2回目・読んだ頁43
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（39件）：
   - ［一次］2026-11-05「にする企業等に対して10年間、研究開発・実証から社会実装までを継続して」https://www.nipponsteel.com/ir/library/strategy/pdf/20260324_100.pdf
   - ［一次］2026-11-04「2-3 欧州の企業・政策は 2030 年低炭素製鉄実現にむけて動き出している ..................... 16」https://www.renewable-ei.org/pdfdownload/activities/REI_greensteel2022.pdf
@@ -145,6 +147,7 @@
   - ［SNS］2026-11-04「Real-world Examples of Green Steel Success - LinkedIn Real-world Examples of Green Steel Success - LinkedIn LinkedIn https://www.linkedin.com > top-content」https://www.linkedin.com/top-content/supply-chain-management/green-supply-chain-initiatives/real-world-examples-of-green-steel-success/
 ### 業界ニュース（毎日）｜耐熱合金（superalloy）
 - 取得：2026-11-05T02:48・調査2回目・読んだ頁39
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（66件）：
   - ［記事］2026-11-05「本資料には、ニオブ C-103の世界市場規模、市場動向、セグメント別予測（Nb-10Hf-1Ti 合金、Nb-Hf-Ti 耐火合金、その他）、関連企業の情報などが盛り込まれています」https://www.atpress.ne.jp/news/4875929
   - ［記事］2026-11-05「ビジネスチャンスは、ハイエンド産業向けの高純度製品の生産、コスト削減のための先進的な加工技術の開発、供給の安定化と受注確保のための協力関係の拡大、そして国内企業の強みを活かした世界市場の拡大と技術的独占の打破にある」https://www.atpress.ne.jp/news/4875929
@@ -198,6 +201,7 @@
   - ［記事］2026-11-04「耐熱合金 の世界市場2025年、グローバル市場規模（鉄系超合金 — 耐熱合金 の世界市場2025年、グローバル市場規模（鉄系超合金 ドリームニュース https://www.dreamnews.jp > press」https://www.dreamnews.jp/press/0000326042
 ### 業界ニュース（毎日）｜低炭素アルミ（low carbon aluminum）
 - 取得：2026-11-05T02:50・調査2回目・読んだ頁38
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（60件）：
   - ［一次］2026-11-04「BMW、リオティントのカナダ工場から低炭素アルミニウム調達」https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html
   - ［一次］2026-11-04「リオティントのカナダ工場から、低炭素アルミニウムを調達する覚書を締結したと発表」https://www.jetro.go.jp/biznews/2023/02/51e654593caa7e00.html
@@ -251,6 +255,7 @@
   - ［SNS］2026-11-04「デジタルPRプラットフォーム on X: "LIXIL循環型 低炭素アルミ ... デジタルPRプラットフォーム on X: "LIXIL循環型 低炭素アルミ ... X https://x.com > @digitalpr_jp」https://x.com/digitalpr_jp/status/2109860265751687557
 ### 業界ニュース（毎日）｜レアメタルリサイクル（e-waste precious metal recovery）
 - 取得：2026-11-05T02:40・調査2回目・読んだ頁38
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（43件）：
   - ［一次］2026-11-05「（製品と一体となった排出の場合）ＰＣ ：３Ｒ法に基づくメーカー回収」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf
   - ［一次］2026-11-05「○各スキームにおける回収量：ＪＢＲＣ（１５１トン）、ＰＣメーカー（５３６トン）、ＭＲＮ（１９８トン）」https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf
@@ -309,6 +314,7 @@
   - ［SNS］2026-11-04「そんな中、改めて熱視線を集めているのが「都市鉱山（Urban Mining）」という概念です。捨てられた電子機器の中に眠る金属を「都市に埋まる鉱山」と捉え直すこの考え方は、資源のない日本にとって大きな希望になりえます。」https://note.com/tasty_godwit501/n/na76bda3fa27a
 ### 業界ニュース（毎日）｜マテリアルズインフォマティクス（materials informatics）
 - 取得：2026-11-05T02:56・調査2回目・読んだ頁42
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（43件）：
   - ［記事］2026-11-05「マテリアルズインフォマティクス導入のメリット」https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/
   - ［記事］2026-11-05「7-1. 素材メーカー横断の基盤：Materials Open Platform（MOP）」https://genai-ai.co.jp/ai-kanri/blog/materials-informatics/

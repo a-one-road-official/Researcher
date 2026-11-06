@@ -1,0 +1,961 @@
+{
+ "name": "Lemony",
+ "aliases": [
+  "Lemony AI"
+ ],
+ "context": "企業向けオンプレAI端末（Yomi担ぎ候補）",
+ "researched_at": "2026-11-06T03:08:01.902355+00:00",
+ "official_url": "https://www.lemony.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "創業年度": [
+   {
+    "quote": "Lemony Inc. is the company behind cascadeflow. Founded in 2023 and based in New York with a presence in Zurich, Switzerland, Lemony builds the runtime intelligence layer for agentic AI — the software that governs the decisions AI agents make as they do real work.",
+    "url": "https://www.lemony.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a small, female-founded independent Australian brand, constantly evolving to make our tiny imprint on Australian fashion and design.",
+    "url": "https://www.lemonybrands.com/pages/about-us?srsltid=AYCX9vKxoJ4b2Q5qK6FGANMRfnQT8gYbwBpVMEVjetJ6SDVLZcRpsEjN",
+    "pass": 3
+   }
+  ],
+  "資金調達": [
+   {
+    "quote": "// Partners & Investors",
+    "url": "https://www.lemony.ai/",
+    "pass": 1
+   }
+  ],
+  "存続": [
+   {
+    "quote": "Traditional banks are slow, local and closed outside business hours. Lemony is built for how you operate: multi-currency accounts, as many cards as your team needs, payments that settle in seconds, and online collection through checkout and payment links. Everything managed from one dashboard, available 24/7.",
+    "url": "https://lemony.cash/about",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Lemony Inc. — Lemony Inc. lemony.ai https://www.lemony.ai",
+    "url": "https://www.lemony.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "DISCOVER – Lemony — DISCOVER – Lemony lemonybrands.com https://www.lemonybrands.com > pages",
+    "url": "https://www.lemonybrands.com/pages/about-us?srsltid=AYCX9vKxoJ4b2Q5qK6FGANMRfnQT8gYbwBpVMEVjetJ6SDVLZcRpsEjN",
+    "pass": 3
+   },
+   {
+    "quote": "Neo Banking for Global Businesses - Lemony — Neo Banking for Global Businesses - Lemony lemony.cash https://lemony.cash > about",
+    "url": "https://lemony.cash/about",
+    "pass": 3
+   },
+   {
+    "quote": "LEMONY — LEMONY lemony-design.com https://www.lemony-design.com",
+    "url": "https://www.lemony-design.com/",
+    "pass": 3
+   },
+   {
+    "quote": "LEMONY Definition & Meaning - Merriam-Webster — LEMONY Definition & Meaning - Merriam-Webster Merriam-Webster https://www.merriam-webster.com > l...",
+    "url": "https://www.merriam-webster.com/dictionary/lemony",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "The name Setouchi Lemon also conveys a statement about its distinct flavor. A Setouchi Lemon is a variety of the modern lemon, which is believed to have first arrived in Japan in 1898 at the old trading port of",
+    "url": "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "pass": 3
+   },
+   {
+    "quote": "rice crackers and lemon squid chips, and an endless array of lemon sweets, with the most famous being",
+    "url": "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "pass": 3
+   },
+   {
+    "quote": "However, it's not suitable for carrying around, so I keep mine next to my desk or by my bed. 'Lemony Flutter' is perfect as a hand cream right before sleep! The feeling of it staying moist and protecting my hands until morning is irresistible.",
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Ask anyone in Japan what they know about the Setouchi region and they will invariably say “Setouchi Lemon.” It’s one of the country’s few foods branded by the location in which it’s produced, with a name that conjures up images of the blissfully sunny, island-filled Seto Inland Sea.",
+    "url": "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "pass": 3
+   },
+   {
+    "quote": "The name Setouchi Lemon also conveys a statement about its distinct flavor. A Setouchi Lemon is a variety of the modern lemon, which is believed to have first arrived in Japan in 1898 at the old trading port of",
+    "url": "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "Ask anyone in Japan what they know about the Setouchi region and they will invariably say “Setouchi Lemon.” It’s one of the country’s few foods branded by the location in which it’s produced, with a name that conjures up images of the blissfully sunny, island-filled Seto Inland Sea.",
+    "url": "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "pass": 3
+   },
+   {
+    "quote": "Lemons can be found everywhere across the Setouchi, as the region accounts for nearly all of the lemons grown in Japan. The most famous growing areas are the islands of Hiroshima prefecture. Here, over 60% of Japan’s lemons are produced, with the islands of Ikuchijima and Takaneshima in the",
+    "url": "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "pass": 3
+   },
+   {
+    "quote": "The name Setouchi Lemon also conveys a statement about its distinct flavor. A Setouchi Lemon is a variety of the modern lemon, which is believed to have first arrived in Japan in 1898 at the old trading port of",
+    "url": "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "pass": 3
+   },
+   {
+    "quote": "Lemons ready to be shipped to other parts of Japan from Ocho port on Osaki Shimojima Island.",
+    "url": "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "pass": 3
+   },
+   {
+    "quote": "A high concentration of citric acid is one of a number of benefits that has made lemons a staple of the Japanese pantry. Lemons are more acidic than Japan’s native sour citrus. All foods, especially vegetables, have some citric acid in them, which is why they taste better when this is intensified with a spritz of lemon juice.",
+    "url": "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Repeat LUSH's ' Lemony Flutter' cuticle butter to build up ... - note Repeat LUSH's ' Lemony Flutter' cuticle butter to build up ... - note note https://note.com > レビュー > 商品レビュー",
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "enjoy the scent｜ lemony - note enjoy the scent｜ lemony - note note https://note.com > lemony123",
+    "url": "https://note.com/lemony123/m/m9342223c928d",
+    "pass": 3
+   },
+   {
+    "quote": "treatment work｜ lemony - セラピスト - note treatment work｜ lemony - セラピスト - note note https://note.com > lemony123 > hashtag > セラピスト",
+    "url": "https://note.com/lemony123/m/maff4938eace6/hashtag/%E3%82%BB%E3%83%A9%E3%83%94%E3%82%B9%E3%83%88",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Repeat LUSH's 'Lemony Flutter' cuticle butter to build up your moisture savings! Care for hands dried out by chores｜みなみやん｜ご自愛とセルフケア",
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Repeat LUSH's 'Lemony Flutter' cuticle butter to build up your moisture savings! Care for hands dried out by chores",
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The air has become quite dry, hasn't it? It's not just the air; doing a lot of water-based chores makes things even drier. Just when you think you'll use a little hot water because it's cold, it feels like all the moisture is being stripped from your hands and nails... While battling this daily dryness, the hand cream I've repeated the most this year is LUSH's cuticle butter, 'Lemony Flutter'.",
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 'Lemony Flutter' I keep repeating",
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "LUSH's 'Lemony Flutter' is a cuticle butter that intensively cares for hangnails and dryness, softening them with moisture. I purchased it at the official Rakuten shop for 2,020 yen (tax included) for 50g.",
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I had never tried a cream specifically for nails before, but this product comes in a jar.",
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As for the scent, it has a refreshing lemongrass and lemon aroma.",
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At first, I used my fingertips to scoop it out, but a friend who is a heavy LUSH user taught me a surprising way to use it: \"For 'Lemony Flutter', you should",
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ご自宅で楽しむためのアロマテラピー芳香浴編です。",
+    "url": "https://note.com/lemony123/m/m9342223c928d",
+    "pass": 3
+   },
+   {
+    "quote": "enjoy the scent｜lemony｜note",
+    "url": "https://note.com/lemony123/m/m9342223c928d",
+    "pass": 3
+   },
+   {
+    "quote": "元アロマテラピストのお仕事編です！主に施術お仕事について経験談など...現場を離れて1年👋私はいつか書けなくなる🖋️次世代に残したい独自の記録🖋️",
+    "url": "https://note.com/lemony123/m/maff4938eace6/hashtag/%E3%82%BB%E3%83%A9%E3%83%94%E3%82%B9%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "【3】セラピスト時代に使っていた😅お客様の落とし文句😙",
+    "url": "https://note.com/lemony123/m/maff4938eace6/hashtag/%E3%82%BB%E3%83%A9%E3%83%94%E3%82%B9%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "treatment work｜lemony｜note",
+    "url": "https://note.com/lemony123/m/maff4938eace6/hashtag/%E3%82%BB%E3%83%A9%E3%83%94%E3%82%B9%E3%83%88",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Lemony Snicket (@lemonysnicket) / X Lemony Snicket (@lemonysnicket) / X X https://x.com > lemonysnicket",
+    "url": "https://x.com/lemonysnicket",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Vengeance (@LemonyVengeance) / X Lemony Vengeance (@LemonyVengeance) / X X https://x.com > LemonyVengeance",
+    "url": "https://x.com/LemonyVengeance",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony garlicky miso gochujang brown butter gnocchi\" / X Lemony garlicky miso gochujang brown butter gnocchi\" / X X https://x.com > @shreyabasu003",
+    "url": "https://x.com/shreyabasu003/status/1881143124350906799",
+    "pass": 3
+   },
+   {
+    "quote": "StinkyLemony103 - lemony stinker (check out my ACG goods) StinkyLemony103 - lemony stinker (check out my ACG goods) X https://x.com > StinkyLemony103",
+    "url": "https://x.com/StinkyLemony103",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony (@lemonysenpai) / X 7123 followers · 78 following. 🇧🇾. Joined Nov 2018. See the latest conversations with @lemonysenpai",
+    "url": "https://x.com/lemonysenpai",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Art (COMMS OPEN) (@ArtLemony) / X Lemony Art 💜 (COMMS OPEN) @ArtLemony Jun 27 Han sido días difíciles, hace poco volví a mi país por asuntos personales a esto que ocurrio no ha sido nada fácil en lo emocional, hoy más que nunca apoyemos a Venezuela, de verdad lo necesitamos 🇻🇪🕊️ Let's support Venezuela #VenezuelaNoEstáSola",
+    "url": "https://x.com/ArtLemony",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "LemonyAI - LinkedIn LemonyAI | Generative AI for Organizations, Fully Compliant Lemony is your turnkey solution for organization-specific generative AI. Featuring fully local RAG, Agents, structured data ...",
+    "url": "https://www.linkedin.com/products/lemonyai/",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony - LinkedIn Lemony | 34 followers on LinkedIn. Brand Strategy | Design | Websites | Ecommerce | Not Your Standard Agency! We take a consultancy led approach to all of our client endeavours. In all ...",
+    "url": "https://www.linkedin.com/company/lemonyagency",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony (雷峥蒙) - CEO,Co-founder,Producer | 领英Lemony - LinkedInLemony Blog - Guest Posting Services | Outreach Specialist ...Sascha Buehrle - Lemony | LinkedInCassandra Lee - AI Solutions Engineer | Python & LLM ... CEO,Co-founder,Producer · 工作经历: Pinta Studios(平塔工作室) · 教育经历: University of Chinese Academy of Sciences · 地点: 朝阳区 · 319 位领英好友。在领英 (一个拥有 10 亿会员的职业社区) 查看Lemony (雷峥蒙)的职业档案。 Lemony | 688 follo",
+    "url": "https://cn.linkedin.com/in/lemony-雷峥蒙-19b40032",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony - LinkedIn Lemony | 688 followers on LinkedIn. Die Soft-Skill Akademie 🇨🇭for happier employees | Lemony – Die Soft-Skill-Akademie🍋 for happier employees Lemony macht das Erlernen und Üben von Soft Skills für Unternehmen skalierbar, effektiv und zugänglich. Mit unserer Soft-Skill-Akademie bieten wir ein umfassendes Programm von über 80+ verschiedenen Trainings, die von zertifizierten ...",
+    "url": "https://ge.linkedin.com/company/lemony-skills",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lemony Thailand | Bangkok - Facebook 1 day ago · Lemony Thailand, Bangkok. 38,768 followers · 740 talking about this · 5 were here. LEMONY serves as a central hub offering high-quality products to fulfill your own lifestyle",
+    "url": "https://www.facebook.com/p/Lemony-Thailand-61569996311914/",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Lemon - FacebookLemony Thailand | Bangkok - FacebookLEMONY - FacebookLemony Sips LLC | Leitchfield KY - FacebookLemony Gem Toys | Brisbane QLD - FacebookLemony Vengeance - Facebook Jan 1, 2018 · Lemony Lemon. 147,565 followers · 2 talking about this. Lemony Lemon offers the best in baby & toddler apparel and accessories. Shop here! >> http://lemonyle Lemony Thailand, Bangkok. 34,023 likes ·",
+    "url": "https://www.facebook.com/lemonylemonapparel/",
+    "pass": 3
+   },
+   {
+    "quote": "Lemony Thailand | Bangkok - Facebook Lemony Thailand, Bangkok. 34,023 likes · 1,116 talking about this · 4 were here. LEMONY serves as a central hub offering high-quality products to fulfill your own lifestyle",
+    "url": "https://www.facebook.com/Lemony-Thailand-61569996311914/",
+    "pass": 3
+   },
+   {
+    "quote": "LEMONY - FacebookLemony Sips LLC | Leitchfield KY - FacebookLemony Gem Toys | Brisbane QLD - FacebookLemony Vengeance - Facebook LEMONY has officially concluded our artist contract with Sanamluang Music,GMM Music. Over the past 10 years, we have been incredibly fortunate to grow alongside a team of people who believed in us, supported us, and helped shape us into the band we are today. Lemony Sips",
+    "url": "https://www.facebook.com/LEMONYBAND/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lemony.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemony.ai/impressum",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsu.jp/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191024-62040596-business-soci&lang=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.investing.com/news/pro/article-1708502",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rooseveltinstitute.org/publications/myth-shareholders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://warburgpincus.com/2026/01/09/lemon-tree-hotels-announces-strategic-reorganization-and-investment-from-warburg-pincus-in-fleur-hotels-to-unlock-long-term-shareholder-value/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ilpa.org/resources-tools/private-equity-101/private-equity-glossary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.aom.org/doi/10.5465/annals.2025.0109",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemonybrands.com/pages/about-us?srsltid=AYCX9vKxoJ4b2Q5qK6FGANMRfnQT8gYbwBpVMEVjetJ6SDVLZcRpsEjN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lemony.cash/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemony-design.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growjo.com/company/Lemon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:2871842:0-lemon-2025-saw-modest-growth-record-recurring-revenue-and-a-strategic-shift-to-manufacturing-and-wholesale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canr.msu.edu/news/the-five-ps-of-the-lemonade-stand-determining-your-potential-profit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/smallbusiness/comments/15d0d6t/lemonade_stand_average_profit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://investor.readingrdi.com/node/16371/pdf",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1691421/000169142126000016/lmnd-20251231.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realtyincome.com/sites/realty-income/files/realty-income/investors/quartely-and-annual-result/2025-annual-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mowi.com/wp-content/uploads/2025/05/Mowi-Annual-Report-2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lemon.me/en/blog/serie-b-20-m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/lemon/__uBe9dtYJG4Szy0CmwU7ygU1Z1K7N_u8Z9JoL5g8s1Ys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/lemon-cash",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fintechfutures.com/venture-capital-funding/crypto-fintech-lemon-raises-20m-series-b",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://warburgpincus.com/2026/01/09/lemon-tree-hotels-announces-strategic-reorganization-and-investment-from-warburg-pincus-in-fleur-hotels-to-unlock-long-term-shareholder-value/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/lemonleads1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sdcl.org/locations/23/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://floraterraca.com/empire-industrial-court?meadowQuery=&meadow-page=white-label-lemon-thai-14g-stiiizy-product-3613996",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hhproductscompany.com/private-label/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grocerydive.com/news/albertsons-limited-time-private-label/744033/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dutchie.com/stores/livewell-cannabis-dispensary-hawthorne/product/white-label-30-galactic-lemon-haze-honeycomb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=qImHuiYnVQ0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hhproductscompany.com/private-label/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://genius.com/Lemon-demon-redesign-your-logo-lyrics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promotionalbrands.eu/en/grid/private-labelbylemon-soda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gtmnow.com/enterprise-oem-software-licensing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://softwarepricing.com/blog/channel-oem-partner-licensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://licensespring.com/blog/guide/oem-software-licensing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cpl.thalesgroup.com/software-monetization/sdk-licensing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lemon.io/partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumen.com/en-us/partner/channel-partner-program.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lemonlearning.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemonsqueezy.com/blog/affiliates-from-lemon-squeezy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemont.il.us/departments/finance-department/annual-comprehensive-financial-reports-acfr",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.lemontreehotels.com/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemongrove.ca.gov/our-government/budget-and-finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.limoneira.com/news-releases/news-release-details/limoneira-company-announces-fourth-quarter-and-full-fiscal-year",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/shorts/IYGgJ6lX1Qg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Lemon_(Kenshi_Yonezu_song)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DXmIvDYEkSH/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/lemon-cash",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/lemon-9474",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/lemon-markets",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/lemon-markets/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lemony123/m/m9342223c928d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lemony123/m/maff4938eace6/hashtag/%E3%82%BB%E3%83%A9%E3%83%94%E3%82%B9%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lemonysnicket",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LemonyVengeance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shreyabasu003/status/1881143124350906799",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/StinkyLemony103",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/lemonyai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lemonyagency",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/lemony-雷峥蒙-19b40032",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ge.linkedin.com/company/lemony-skills",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Lemony-Thailand-61569996311914/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lemonylemonapparel/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Lemony-Thailand-61569996311914/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LEMONYBAND/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lemonysenpai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ArtLemony",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lemony 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.komatsu.jp/ja",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191024-62040596-business-soci&lang=ja",
+    "https://jp.investing.com/news/pro/article-1708502",
+    "https://www.ielove.co.jp/company/soudan/report_4_13_3254/",
+    "https://store.world.co.jp/s/brand/mattitotti/topics/",
+    "https://cmcopilot.com/?good/details/H36291307703427",
+    "https://chushoren.com/about/nigiwai/",
+    "https://ameblo.jp/izumimi0217/entry-12844375213.html",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "Lemony shareholders ownership investors parent company",
+   "results": [
+    "https://rooseveltinstitute.org/publications/myth-shareholders/",
+    "https://warburgpincus.com/2026/01/09/lemon-tree-hotels-announces-strategic-reorganization-and-investment-from-warburg-pincus-in-fleur-hotels-to-unlock-long-term-shareholder-value/",
+    "https://ilpa.org/resources-tools/private-equity-101/private-equity-glossary/",
+    "https://journals.aom.org/doi/10.5465/annals.2025.0109",
+    "https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=2649&context=sulr",
+    "https://www.nasdaqprivatemarket.com/company/lemon-perfect/",
+    "https://scholarlycommons.law.emory.edu/cgi/viewcontent.cgi?article=1104&context=ecgar",
+    "https://www.ici.org/viewpoints/view_18_common_ownership",
+    "https://www.youtube.com/watch?v=OYpCxXuF3M8",
+    "https://investors.lemonsoft.fi/share/shareholders/"
+   ]
+  },
+  {
+   "query": "Lemony 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.lemony.ai/",
+    "https://www.lemonybrands.com/pages/about-us?srsltid=AYCX9vKxoJ4b2Q5qK6FGANMRfnQT8gYbwBpVMEVjetJ6SDVLZcRpsEjN",
+    "https://lemony.cash/about",
+    "https://www.lemony-design.com/",
+    "https://www.merriam-webster.com/dictionary/lemony",
+    "https://tpop.fandom.com/wiki/LEMONY",
+    "https://dictionary.cambridge.org/ja/dictionary/english/lemony",
+    "https://www.youtube.com/watch?v=E8zCb-ijjOo",
+    "https://lemonyworld.com/en/about-us/",
+    "https://www.founded.com/about/"
+   ]
+  },
+  {
+   "query": "Lemony revenue profitable",
+   "results": [
+    "https://growjo.com/company/Lemon",
+    "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:2871842:0-lemon-2025-saw-modest-growth-record-recurring-revenue-and-a-strategic-shift-to-manufacturing-and-wholesale/",
+    "https://www.canr.msu.edu/news/the-five-ps-of-the-lemonade-stand-determining-your-potential-profit",
+    "https://www.reddit.com/r/smallbusiness/comments/15d0d6t/lemonade_stand_average_profit/",
+    "https://getlatka.com/companies/lemonio",
+    "https://www.lemonsqueezy.com/",
+    "https://www.investopedia.com/terms/l/lemon.asp",
+    "https://stockanalysis.com/stocks/lulu/revenue/",
+    "https://neworleanscitybusiness.com/blog/2026/05/14/lemoine-1-2-billion-revenue-2025-growth/",
+    "https://www.arthneeti.com/insights/lemon-tree-hotels-ltd-q2-fy27-earnings"
+   ]
+  },
+  {
+   "query": "Lemony EBITDA net income annual report",
+   "results": [
+    "https://investor.readingrdi.com/node/16371/pdf",
+    "https://www.sec.gov/Archives/edgar/data/1691421/000169142126000016/lmnd-20251231.htm",
+    "https://www.realtyincome.com/sites/realty-income/files/realty-income/investors/quartely-and-annual-result/2025-annual-report.pdf",
+    "https://mowi.com/wp-content/uploads/2025/05/Mowi-Annual-Report-2025.pdf",
+    "https://mtygroup.com/wp-content/uploads/2026/03/COMP26_PRT_001_RAPPORT-ANNUEL_EN_DIGITAL_VERSION_MAR26.pdf",
+    "https://www.lemonade.com/investor",
+    "https://corporate.lululemon.com/investors/financial-information/annual-reports",
+    "https://www.loomis.com/-/media/7A671DBA173C4F0C91CA3F6ACCB0CF17.ashx?download=yes",
+    "https://www.mondelezinternational.com/investors/financials/annual-reports/",
+    "https://www.marketscreener.com/news/lululemon-athletica-annual-report-for-fiscal-year-ending-february-1-2025-form-10-k-ce7e5ed8da8bf420"
+   ]
+  },
+  {
+   "query": "Lemony funding raised",
+   "results": [
+    "https://lemon.me/en/blog/serie-b-20-m",
+    "https://tracxn.com/d/companies/lemon/__uBe9dtYJG4Szy0CmwU7ygU1Z1K7N_u8Z9JoL5g8s1Ys",
+    "https://startupintros.com/orgs/lemon-cash",
+    "https://www.fintechfutures.com/venture-capital-funding/crypto-fintech-lemon-raises-20m-series-b",
+    "https://www.linkedin.com/posts/y-combinator_lemon-slice-just-raised-105m-in-seed-funding-activity-7409359777215983616-TZxD",
+    "https://www.crunchbase.com/organization/lemon-9474",
+    "https://www.linkedin.com/posts/drew-f-74947b117_beyonc%C3%A9-backed-lemon-perfect-bags-97m-in-activity-7414325571951857665-DF_W",
+    "https://latamlist.com/lemon-raises-16-3m-funding-round-for-cryptocurrency/",
+    "https://www.lemonedge.com/news/lemonedge-raises-21m-series-a-led-by-blackstone-joined-by-bny",
+    "https://indexed.vc/companies/lemony"
+   ]
+  },
+  {
+   "query": "Lemony acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy",
+    "https://warburgpincus.com/2026/01/09/lemon-tree-hotels-announces-strategic-reorganization-and-investment-from-warburg-pincus-in-fleur-hotels-to-unlock-long-term-shareholder-value/",
+    "https://www.linkedin.com/company/lemonleads1",
+    "https://www.sdcl.org/locations/23/",
+    "https://consumer.georgia.gov/resolve-your-dispute/georgia-lemon-law",
+    "https://www.pymnts.com/partnerships/2024/stripe-purchases-payments-processor-lemon-squeezy/",
+    "https://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON.html",
+    "https://www.lakelemon.org/",
+    "https://www.youtube.com/watch?v=cxnjTBrgHL8",
+    "https://www.lemongrovesd.net/"
+   ]
+  },
+  {
+   "query": "Lemony white label",
+   "results": [
+    "https://floraterraca.com/empire-industrial-court?meadowQuery=&meadow-page=white-label-lemon-thai-14g-stiiizy-product-3613996",
+    "https://hhproductscompany.com/private-label/",
+    "https://www.grocerydive.com/news/albertsons-limited-time-private-label/744033/",
+    "https://dutchie.com/stores/livewell-cannabis-dispensary-hawthorne/product/white-label-30-galactic-lemon-haze-honeycomb",
+    "https://www.offthechartsshop.com/harbor-city/products/lemon-up-14g-white-label-stiiizy",
+    "https://retailwire.com/albertsons-lemon-private-label-items/",
+    "https://weedmaps.com/brands/stiiizy/products/stiiizy-lemon-thai-7g-white-label",
+    "https://en.wikipedia.org/wiki/White-label_product",
+    "https://www.pinterest.com/ideas/lemon-labels/945210230223/"
+   ]
+  },
+  {
+   "query": "Lemony rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://www.youtube.com/watch?v=qImHuiYnVQ0",
+    "https://hhproductscompany.com/private-label/",
+    "https://genius.com/Lemon-demon-redesign-your-logo-lyrics",
+    "https://www.promotionalbrands.eu/en/grid/private-labelbylemon-soda",
+    "https://www.reddit.com/r/lemondemon/comments/dxb5uv/redesign_your_logo_we_know_what_were_doing/",
+    "https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq",
+    "https://jobalert.world/jobs/rebrand-lead-graphic-designer-at-lemon-seed-marketing-lufkin-texas-united-states-53479",
+    "https://www.quora.com/What-is-the-song-Redesign-Your-Logo-by-Lemon-Demon-about",
+    "https://www.pravadaprivatelabel.com/products/lemon-verbena-signature-fragrance-oil?srsltid=AYCX9vI_j0z1FAZQ-UvCi9_6TxxSL0VyIysWNeJEGQJJCt7ilo1XEQWi",
+    "https://en.wikipedia.org/wiki/Private_label"
+   ]
+  },
+  {
+   "query": "Lemony OEM SDK licensing partners",
+   "results": [
+    "https://gtmnow.com/enterprise-oem-software-licensing/",
+    "https://softwarepricing.com/blog/channel-oem-partner-licensing/",
+    "https://licensespring.com/blog/guide/oem-software-licensing",
+    "https://cpl.thalesgroup.com/software-monetization/sdk-licensing",
+    "https://docs.lemonsqueezy.com/help/licensing",
+    "https://www.sensflo.ai/partnerships/partner-programs/oem",
+    "https://www.bitdefender.com/en-my/oem/technology-partnerships",
+    "https://licenseseat.com/alternative-to-lemonsqueezy",
+    "https://www.seeedstudio.com/blog/2025/05/19/odm-vs-oem-vs-licensing-program-services-you-should-know-from-seeed-studios-customization-offerings/?srsltid=AYCX9vJl_bETyWoo7LmoMyEp1AIOMR1gr9Xs4e9lLT1P1WpG2x3zJsOA",
+    "https://www.lemony.ai/"
+   ]
+  },
+  {
+   "query": "Lemony reseller partner program",
+   "results": [
+    "https://lemon.io/partnership/",
+    "https://www.lumen.com/en-us/partner/channel-partner-program.html",
+    "https://lemonlearning.com/partners",
+    "https://www.lemonsqueezy.com/blog/affiliates-from-lemon-squeezy",
+    "https://www.daniel-one.com/create-reseller-channel-partner-program",
+    "https://www.kiflo.com/blog/reseller-partner-programs",
+    "https://www.youtube.com/watch?v=Hji_WBdUNFc",
+    "https://affcatalog.com/en/aff-program/lemon-partners/",
+    "https://www.sixandflow.com/marketing-blog/reseller-partner-program-the-answer-to-customer-acquisition-woes",
+    "https://www.lemonpartners.com/join"
+   ]
+  },
+  {
+   "query": "Lemony Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.lemont.il.us/departments/finance-department/annual-comprehensive-financial-reports-acfr",
+    "https://investors.lemontreehotels.com/",
+    "https://www.lemongrove.ca.gov/our-government/budget-and-finance/",
+    "https://investor.limoneira.com/news-releases/news-release-details/limoneira-company-announces-fourth-quarter-and-full-fiscal-year",
+    "https://www.bertelsmann.com/en/investor-relations/financial-publications/financial-reports/",
+    "https://uleth.sharepoint.com/:b:/t/planning-and-reporting/public/EUx12HmjhmdCil6z47sY8DkBJADDbBSqeLqT4Nb2OsER9g?e=6cpbFF",
+    "https://www.mondelezinternational.com/investors/financials/annual-reports/",
+    "https://corporate.magnumicecream.com/en/investors/annual-reports.html",
+    "https://www.moneycontrol.com/markets/financials/balance-sheet/lemontreehotels-LTH/",
+    "https://ir.netflix.net/financials/financial-statements/default.aspx"
+   ]
+  },
+  {
+   "query": "Lemony Japan",
+   "results": [
+    "https://thesetouchicookbook.com/article/setouchi-lemon",
+    "https://www.youtube.com/shorts/IYGgJ6lX1Qg",
+    "https://en.wikipedia.org/wiki/Lemon_(Kenshi_Yonezu_song)",
+    "https://www.instagram.com/reel/DXmIvDYEkSH/",
+    "https://www.quora.com/Why-do-Japanese-have-a-kanji-combination-for-lemon-%E6%AA%B8%E6%AA%AC-with-a-reading-that-sounds-as-if-it-were-derived-from-English-lemon-remon",
+    "https://www.ogawa.net/en/materials/lemon/",
+    "https://dive-hiroshima.com/en/feature/ichioshi-lemon/",
+    "https://www.oishisojapan.com/home/2020/1/15/hiroshima-green-lemons",
+    "https://www.selinawamucii.com/insights/prices/japan/lemon/",
+    "https://www.instagram.com/lemon_jpn/"
+   ]
+  },
+  {
+   "query": "Lemony employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/organization/lemon-cash",
+    "https://www.crunchbase.com/organization/lemon-9474",
+    "https://www.crunchbase.com/organization/lemon-markets",
+    "https://dealroom.co/companies/lemon-markets/",
+    "https://www.crunchbase.com/organization/dealroom-co",
+    "https://www.owler.com/company/crunchbase",
+    "https://www.trustradius.com/compare-products/crunchbase-vs-dealroom",
+    "https://www.crunchbase.com/organization/lemon-ai",
+    "https://www.linkedin.com/posts/dealroom-co_where-do-ai-companies-rank-against-big-tech-activity-7317539243893944320-_ove",
+    "https://dealroom.co/our-data/"
+   ]
+  },
+  {
+   "query": "site:note.com Lemony",
+   "results": [
+    "https://note.com/minamiyan/n/n019f7a53683f?hl=en",
+    "https://note.com/lemony123/m/m9342223c928d",
+    "https://note.com/lemony123/m/maff4938eace6/hashtag/%E3%82%BB%E3%83%A9%E3%83%94%E3%82%B9%E3%83%88",
+    "https://note.com/legal_macaw3448/n/nf314d5903f90?hl=en",
+    "https://note.com/lemony123/n/n8a3f2ff8be5e?hl=en",
+    "https://note.com/lemony123/n/n5e10c2b8383c",
+    "https://note.com/lemony123/n/ne5bc19bbcc06?hl=en",
+    "https://note.com/yamashin0120/n/n0ed74552cbd0?hl=en",
+    "https://note.com/lemony123/n/n106b483330b6",
+    "https://note.com/yamashin0120/n/n3cf38217ed4c?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com Lemony",
+   "results": [
+    "https://x.com/lemonysnicket",
+    "https://x.com/LemonyVengeance",
+    "https://x.com/shreyabasu003/status/1881143124350906799",
+    "https://x.com/StinkyLemony103",
+    "https://x.com/Lemony_0113",
+    "https://x.com/Lemony_14/status/2116963373392810207",
+    "https://x.com/StinkyLemony103/status/2082393652996039122",
+    "https://x.com/LemonyRocka",
+    "https://x.com/StinkyLemony103/status/1949645359082303970",
+    "https://x.com/ArtLemony/status/1993721881359224999"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Lemony",
+   "results": [
+    "https://www.linkedin.com/products/lemonyai/",
+    "https://www.linkedin.com/company/lemonyagency",
+    "https://cn.linkedin.com/in/lemony-雷峥蒙-19b40032",
+    "https://ge.linkedin.com/company/lemony-skills",
+    "https://in.linkedin.com/in/lemonyblog",
+    "https://ch.linkedin.com/in/saschabuehrle/en",
+    "https://au.linkedin.com/in/yieng"
+   ]
+  },
+  {
+   "query": "site:facebook.com Lemony",
+   "results": [
+    "https://www.facebook.com/p/Lemony-Thailand-61569996311914/",
+    "https://www.facebook.com/lemonylemonapparel/",
+    "https://www.facebook.com/Lemony-Thailand-61569996311914/",
+    "https://www.facebook.com/LEMONYBAND/",
+    "https://www.facebook.com/p/Lemony-Sips-LLC-61564900216392/",
+    "https://www.facebook.com/p/Lemony-Gem-Toys-100041518820295/",
+    "https://www.facebook.com/LemonyVengeance/"
+   ]
+  },
+  {
+   "query": "Lemony note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://diamond.jp/articles/-/388572",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ]
+  },
+  {
+   "query": "Lemony X 投稿",
+   "results": [
+    "https://x.com/lemonysenpai",
+    "https://x.com/ArtLemony",
+    "https://x.com/DDD04004120",
+    "https://x.com/Lemon_Tree_2026/status/2083775874277802306",
+    "https://x.com/Lemon_chyukkuri",
+    "https://x.com/lemon_tea37/status/2065957685863109040",
+    "https://x.com/1emon_vii/status/2112059504867082249"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）",
+  "設立": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）",
+  "代表者": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）",
+  "株主構成": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）",
+  "ホワイトラベル明言": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）",
+  "OEM・組込み": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）",
+  "顧客": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部72頁・検索20回）"
+ }
+}

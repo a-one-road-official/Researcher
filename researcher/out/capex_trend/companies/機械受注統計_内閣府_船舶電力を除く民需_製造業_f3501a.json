@@ -1,0 +1,4500 @@
+{
+ "name": "機械受注統計（内閣府・船舶電力を除く民需・製造業）",
+ "en": "Cabinet Office machinery orders core private manufacturing",
+ "aliases": [
+  "機械受注統計 製造業 推移",
+  "機械受注 船舶・電力を除く民需 推移"
+ ],
+ "context": "一次・内閣府",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:22:43.014925+00:00",
+ "evidence": {
+  "機械受注": [
+   {
+    "quote": "令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比3.2%増の1兆106億円、官公需は同2.9%減の3,406億円、外需は同6.9%減の1兆1,769億円、代理店は同19.5%増の1,249億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同10.7%増の3兆5,702億円、代理店は同0.6%増の3,606億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.2%減の2兆5,855億円、製造業は同1.1%増の1兆2,627億円、非製造業（除く船舶・電力）は同8.8%減の1兆3,134億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.1%減の2兆9,593億円、官公需は同22.5%減の7,849億円、外需は同3.1%増の3兆6,816億円、代理店は同1.8%増の3,670億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同2.6%減の2兆5,174億円、製造業は同2.3%減の1兆2,338億円、非製造業（除く船舶・電力）は同1.4%減の1兆2,956億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(本文) (PDF形式：311KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(グラフ) (PDF形式：279KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(計数表) (PDF形式：615KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(令和5年7～9月見通し) (PDF形式：219KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別受注額(季調系列) (CSV形式：19KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別受注額(原系列) (CSV形式：19KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機種別受注額(大分類) (CSV形式：6KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機種別受注額(中分類) (CSV形式：9KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1図 機械受注総額、 第2図 民需(船舶・電力を除く)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1表 主要需要者別機械受注額",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成20年6月実績および平成20年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成20年6月実績および平成20年7～9月見通し：機械受注統計調査報告",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額（季節調整値）の動向をみると、20年5月前月比10.8%増の後、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同4.4%増の2,410億円、外需は同12.1%減の1兆845億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同3.9%減の3兆3,362億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同0.6%増の3兆2,091億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同0.1%減の3兆3,318億円、代理店は同6.4%増の3,544億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.0%減の3兆1,135億円、製造業は同4.0%減の",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(本文) (PDF形式：52KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(グラフ) (PDF形式：60KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(計数表) (PDF形式：384KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(平成20年7～9月見通し) (PDF形式：180KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別受注額(季調系列) (CSV形式：17KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別受注額(原系列) (CSV形式：17KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機種別受注額(大分類) (CSV形式：6KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機種別受注額(中分類) (CSV形式：9KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1図 機械受注総額、第2図 民需(船舶・電力を除く)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1表 主要需要者別機械受注額",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査（実績調査）における機種分類の表章変更について(PDF形式：110KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査（実績調査）における需要者（業種）分類の表章変更等について(PDF形式：270KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査票における需要者分類等の変更について（平成23年4月調査）(PDF形式：359KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 主要需要者別機械受注額 (Excel形式：184KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 機種別機械受注額 (Excel形式：159KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 民需機種別機械受注額 (Excel形式：156KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 製造業業種別機械受注額 (Excel形式：182KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 非製造業業種別機械受注額 (Excel形式：134KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 官公需業種別機械受注額 (Excel形式：91KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作成方法 機械受注実績 携帯電話を除く主要需要者別の長期時系列推計 (PDF形式：371KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 主要需要者別機械受注額 (1987年4月～2005年3月) (Excel形式：134KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "<参考②> 内訳項目の季節調整値を合計した「船舶・電力を除く民需」の受注額（2005年4月から）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内訳項目の季節調整値を合計した「船舶・電力を除く民需」について (PDF形式：123KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 内訳項目の季節調整値を合計した「船舶・電力を除く民需」（受注額） (Excel形式：51KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 「機械受注統計調査」はどのような調査ですか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 「機械受注統計調査」ではどのようなことを調べていますか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 「機械受注統計調査」はどのように行われていますか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6. 「船舶・電力を除く民需」とは何ですか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）船舶・電力を除く民需の計算方法について（PDF形式：225KB）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月) ～コア機械受注は2か月連続の減少、持ち直しの動きは鈍い～ | 大柴 千智 | 第一ライフ資産運用経済研究所",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月)",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比3.2%増の1兆106億円、官公需は同2.9%減の3,406億円、外需は同6.9%減の1兆1,769億円、代理店は同19.5%増の1,249億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同1.6%増の4,296億円、非製造業（除く船舶・電力）は同9.8%増の4,321億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4～6月をみると、受注総額は前期比7.1%増の8兆11億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.2%減の3兆237億円、官公需は同12.2%増の1兆132億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同10.7%増の3兆5,702億円、代理店は同0.6%増の3,606億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.2%減の2兆5,855億円、製造業は同1.1%増の1兆2,627億円、非製造業（除く船舶・電力）は同8.8%減の1兆3,134億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023（令和5）年7～9月見通しをみると、受注総額は前期比2.8%減の7兆7,784億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.1%減の2兆9,593億円、官公需は同22.5%減の7,849億円、外需は同3.1%増の3兆6,816億円、代理店は同1.8%増の3,670億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同2.6%減の2兆5,174億円、製造業は同2.3%減の1兆2,338億円、非製造業（除く船舶・電力）は同1.4%減の1兆2,956億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6月は同4.8%減の2兆6,993億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比5.5%増の1兆2,608億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同4.4%増の2,410億円、外需は同12.1%減の1兆845億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代理店は同19.7%減の1,001億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "20年5月前月比10.4%増の後、6月は同2.6%減の1兆851億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同3.9%増の5,123億円、非製造業（除く船舶・電力）は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同3.3%減の6,031億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4～6月をみると、受注総額は前期比1.4%減の8兆945億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同1.3%減の3兆5,958億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同5.9%増の7,397億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同3.9%減の3兆3,362億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代理店は同3.2%増の3,332億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同0.6%増の3兆2,091億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は同2.7%増の1兆4,455億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業（除船舶・電力）は同1.0%増の1兆7,996億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7～9月見通しをみると、受注総額は前期比2.9%減の7兆8,632億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.5%減の3兆5,067億円、官公需は同1.5%減の7,286億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同0.1%減の3兆3,318億円、代理店は同6.4%増の3,544億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.0%減の3兆1,135億円、製造業は同4.0%減の",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1兆3,882億円、非製造業（除船舶・電力）は同3.0%減の1兆7,464億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月) ～コア機械受注は2か月連続の減少、持ち直しの動きは鈍い～ | 大柴 千智 | 第一ライフ資産運用経済研究所",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "～コア機械受注は2か月連続の減少、持ち直しの動きは鈍い～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業、非製造業ともに減少したことで、コア機械受注全体も2か月連続の減少となった（製造業：同▲1.3％、非製造業：▲7.4％）",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業物価指数（2025年2月） ～前年比４％台の推移が継続～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年12月) ～10-12月期は３四半期ぶり増加も、持ち直しの動きは鈍い～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年11月) ～民需（船電除く）は市場予想を上回り2か月連続の増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年10月) ～製造業が押し上げ4か月ぶりの増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年9月) ～製造業が足を引っ張り7-9月期は2四半期連続の減少～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年8月) ～製造業、非製造業ともに減少",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、25年9月前月比13.2%増の後、10月は同4.6%減の2兆2,896億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比7.0%増の1兆62億円、官公需は同26.2%減の2,820億円、外需は同16.0%減の8,830億円、代理店は同13.2%増の1,054億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、25年9月前月比2.1%減の後、10月は同0.6%増の8,072億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同0.2%減の3,338億円、非製造業（除く船舶・電力）は同11.5%増の5,095億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、26年1月前月比12.6%増の後、2月は同5.9%減の2兆2,164億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比15.3%減の9,042億円、官公需は同6.2%増の2,421億円、外需は同2.4%増の8,857億円、代理店は同8.2%減の977億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、26年1月前月比13.4%増の後、2月は同8.8%減の7,696億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同11.9%減の2,923億円、非製造業（除く船舶・電力）は同8.4%減の4,680億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、2024（令和6）年1月前月比2.9%減の後、2月は同2.1%増の2兆8,034億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比7.0%増の1兆77億円、官公需は同12.1%増の5,270億円、外需は同0.7%増の1兆2,384億円、代理店は同2.1%減の1,223億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2024（令和6）年1月前月比1.7%減の後、2月は同7.7%増の8,868億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同9.4%増の3,963億円、非製造業（除く船舶・電力）は同9.1%増の5,059億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、外需は前月比＋6.3％と増加したが、１",
+    "url": "https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（10億円）",
+    "url": "https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、25年6月前月比14.3%減の後、7月は同4.4%増の2兆291億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比3.4%増の9,192億円、官公需は同12.9%増の2,917億円、外需は同1.4%増の7,660億円、代理店は同3.0%減の949億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、25年6月前月比2.7%減の後、7月は同0.0%減の7,772億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同4.8%増の3,187億円、非製造業（除く船舶・電力）は同0.0%増の4,624億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6月は同10.6%増の2兆8,346億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比5.5%増の1兆3,049億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比3.2%増の1兆106億円、官公需は同2.9%減の3,406億円、外需は同6.9%減の1兆1,769億円、代理店は同19.5%増の1,249億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同1.6%増の4,296億円、非製造業（除く船舶・電力）は同9.8%増の4,321億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4～6月をみると、受注総額は前期比7.1%増の8兆11億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.2%減の3兆237億円、官公需は同12.2%増の1兆132億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同10.7%増の3兆5,702億円、代理店は同0.6%増の3,606億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.2%減の2兆5,855億円、製造業は同1.1%増の1兆2,627億円、非製造業（除く船舶・電力）は同8.8%減の1兆3,134億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023（令和5）年7～9月見通しをみると、受注総額は前期比2.8%減の7兆7,784億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.1%減の2兆9,593億円、官公需は同22.5%減の7,849億円、外需は同3.1%増の3兆6,816億円、代理店は同1.8%増の3,670億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同2.6%減の2兆5,174億円、製造業は同2.3%減の1兆2,338億円、非製造業（除く船舶・電力）は同1.4%減の1兆2,956億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額（季節調整値）の動向をみると、20年5月前月比10.8%増の後、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6月は同4.8%減の2兆6,993億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比5.5%増の1兆2,608億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同4.4%増の2,410億円、外需は同12.1%減の1兆845億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代理店は同19.7%減の1,001億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "20年5月前月比10.4%増の後、6月は同2.6%減の1兆851億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同3.9%増の5,123億円、非製造業（除く船舶・電力）は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同3.3%減の6,031億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4～6月をみると、受注総額は前期比1.4%減の8兆945億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同1.3%減の3兆5,958億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同5.9%増の7,397億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同3.9%減の3兆3,362億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代理店は同3.2%増の3,332億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同0.6%増の3兆2,091億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は同2.7%増の1兆4,455億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業（除船舶・電力）は同1.0%増の1兆7,996億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7～9月見通しをみると、受注総額は前期比2.9%減の7兆8,632億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.5%減の3兆5,067億円、官公需は同1.5%減の7,286億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同0.1%減の3兆3,318億円、代理店は同6.4%増の3,544億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.0%減の3兆1,135億円、製造業は同4.0%減の",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "」に掲げた大分類ごとに、昭和60年（1985年）現在でカバレッジが80%程度となるよう選定された企業である",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、25年9月前月比13.2%増の後、10月は同4.6%減の2兆2,896億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比7.0%増の1兆62億円、官公需は同26.2%減の2,820億円、外需は同16.0%減の8,830億円、代理店は同13.2%増の1,054億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、25年9月前月比2.1%減の後、10月は同0.6%増の8,072億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同0.2%減の3,338億円、非製造業（除く船舶・電力）は同11.5%増の5,095億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、26年1月前月比12.6%増の後、2月は同5.9%減の2兆2,164億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比15.3%減の9,042億円、官公需は同6.2%増の2,421億円、外需は同2.4%増の8,857億円、代理店は同8.2%減の977億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、26年1月前月比13.4%増の後、2月は同8.8%減の7,696億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同11.9%減の2,923億円、非製造業（除く船舶・電力）は同8.4%減の4,680億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、2024（令和6）年1月前月比2.9%減の後、2月は同2.1%増の2兆8,034億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比7.0%増の1兆77億円、官公需は同12.1%増の5,270億円、外需は同0.7%増の1兆2,384億円、代理店は同2.1%減の1,223億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2024（令和6）年1月前月比1.7%減の後、2月は同7.7%増の8,868億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同9.4%増の3,963億円、非製造業（除く船舶・電力）は同9.1%増の5,059億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、25年6月前月比14.3%減の後、7月は同4.4%増の2兆291億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比3.4%増の9,192億円、官公需は同12.9%増の2,917億円、外需は同1.4%増の7,660億円、代理店は同3.0%減の949億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、25年6月前月比2.7%減の後、7月は同0.0%減の7,772億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同4.8%増の3,187億円、非製造業（除く船舶・電力）は同0.0%増の4,624億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額（季節調整値）の動向をみると、18年5月前月比1.7%減の後、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6月は同10.6%増の2兆8,346億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比5.5%増の1兆3,049億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同9.3%増の2,511億円、外需は同22.5%増の1兆1,344億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代理店は同6.0%減の1,224億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "18年5月前月比2.1%減の後、6月は同8.5%増の1兆2,114億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同25.6%増の5,849億円、非製造業（除く船舶・電力）は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同3.6%減の6,326億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4～6月をみると、受注総額は前期比4.7%増の8兆67億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同7.7%増の3兆8,148億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同1.5%減の7,358億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同3.6%減の3兆255億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "内閣府 経済財政政策 on X : \" 機械受注統計 調査報告（令和8年6 ... 内閣府 経済財政政策 on X : \" 機械受注統計 調査報告（令和8年6 ... X https://x.com > @cao_keizai",
+    "url": "https://x.com/cao_keizai/status/2089876519783145651",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "📉令和7年8月実績：機械受注統計調査報告深読み｜日比野常法",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "📉令和7年8月実績：機械受注統計調査報告深読み",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１． 🌟はじめに：なぜ機械受注は投資家にとって重要なのか",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "」という言葉を聞いたことがありますか？ 日々変動する株価や為替レートのようにニュースで頻繁に取り上げられるわけではありませんが、実はこの統計は、将来の日本経済、ひいては企業の業績や株価の動きを予測する上で非常に重要な「",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内閣府が毎月公表する機械受注統計調査は、日本国内の主要な機械製造業者（280社ベース）を対象に、生産設備用機械類に関してどれだけ受注したかを調べたものです。企業が新しい工場や設備に投資しようと考えたとき、まず機械メーカーに発注（受注）し、その後、製造、納品、設置、そして稼働という順番をたどります。このプロセスを考えると、機械受注は",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資状況の先行きを予測し、景気動向を早期に把握するための基礎資料を得る",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "GDP（国内総生産）の約60%を占める民間設備投資の動向を、1～3四半期程度先に知る手がかり",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "となるため、景気動向指数でも先行指標として採用されています。",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "最終更新日 2026年10月19日",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業のDX（デジタルトランスフォーメーション）や基幹システム投資関連の需要の振れが影響",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業が海外メーカー（特に中国など）から機械を輸入し、DX（デジタルトランスフォーメーション）やグリーン投資（再生可能エネルギー、5G関連など）を進めている場合、その受注額は",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足の解消や生産効率の改善を目的として依然として旺盛",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DXやIT投資は、今後も日本の生産性向上に不可欠なテーマであり、非製造業で一時的な振れが見られたとしても、",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "令和5年6月実績および令和5年7～9月見通し： 機械受注統計 ... — 令和5年6月実績および令和5年7～9月見通し： 機械受注統計 ... 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成20年6月実績および平成20年7～9月見通し： 機械受注統計 ... — 平成20年6月実績および平成20年7～9月見通し： 機械受注統計 ... 経済社会総合研究所 - 内閣府 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よくある質問： 機械受注統計 調査 - 経済社会総合研究所 - 内閣府 — よくある質問： 機械受注統計 調査 - 経済社会総合研究所 - 内閣府 経済社会総合研究所 https://www.esri.cao.go.jp > juchu > juchu_faq201403",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計 調査(2025年1月) - 第一生命経済研究所 — 機械受注統計 調査(2025年1月) - 第一生命経済研究所 第一ライフ資産運用経済研究所 https://www.dlri.co.jp > report > macro",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成25年10月実績： 機械受注統計調査 報告 — 平成25年10月実績： 機械受注統計調査 報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成26年2月実績： 機械受注統計調査 報告 — 平成26年2月実績： 機械受注統計調査 報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和6年2月実績： 機械受注統計調査 報告 — 令和6年2月実績： 機械受注統計調査 報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成25年7月実績： 機械受注統計 調査報告 — 平成25年7月実績： 機械受注統計 調査報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023（令和5）年7～9月見通しをみると、受注総額は前期比2.8%減の7兆7,784億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表(2005年4月から)・Excel形式は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年（2026年）1月調査において、季節調整値の改訂を行いました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成29年（2017年）6月調査より、機種分類の表章が一部変更になりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成28年（2016年）1月調査より、需要者分類の表章が一部変更となりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成23年（2011年）4月調査より、需要者分類等が一部変更となりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表(2005年4月から)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度（2026年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和7年度（2025年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和6年度（2024年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和5年度（2023年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "過去の調査報告(令和4年度（2022年度）以前)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表（2005年4月から）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者分類等の変更前の長期時系列（過去掲載分）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "<参考①> 携帯電話を除く主要需要者別の長期時系列（1987年4月～2005年3月）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作成方法 機械受注実績 携帯電話を除く主要需要者別の長期時系列推計 (PDF形式：371KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表として2005年4月から掲載しています",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（主要長期時系列統計表（2005年4月から））",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、需要者分類変更前の長期時系列（過去掲載分）として1987年4月からの系列も掲載しています",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（需要者分類変更前の長期時系列（過去掲載分））",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月) ～コア機械受注は2か月連続の減少、持ち直しの動きは鈍い～ | 大柴 千智 | 第一ライフ資産運用経済研究所",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025.03.19",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月)",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "貿易統計(2025年2月) ～米国向け自動車輸出の急増が実質輸出を牽引～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業物価指数（2025年2月） ～前年比４％台の推移が継続～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉱工業生産（2025年1月） ～生産は3か月連続の低下～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年12月) ～10-12月期は３四半期ぶり増加も、持ち直しの動きは鈍い～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年11月) ～民需（船電除く）は市場予想を上回り2か月連続の増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年10月) ～製造業が押し上げ4か月ぶりの増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年9月) ～製造業が足を引っ張り7-9月期は2四半期連続の減少～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年8月) ～製造業、非製造業ともに減少",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最近では、本調査の販売額は「生産動態統計」における出荷額等の約9割（年度合計での比較）となっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、報告書において時系列で掲載している機種別の受注額等は、海外需要等を含む全体の額である",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ホームページではこのほか民需のみによる機種別受注額時系列表も掲載している",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※平成23年（2011年）4月調査より、「通信機」に含まれていた「携帯電話」を調査対象から外した",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（令和8年（2026年）3月19日）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "参考①関連（携帯電話を除く主要需要者別の長期時系列（1987年4月～2005年3月）関連）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成29年（2017年）3月13日）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（令和5年（2023年）6月15日）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成22年（2010年）4月調査より、公表に使用する需要者の産業分類を、上記に準じた分類に変更した",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成22年（2010年）3月）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成23年（2011年）4月調査より、調査票における需要者の産業分類を変更した",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成23年（2011年）1月）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成28年（2016年）1月調査より、公表に使用する需要者の産業分類を、上記に準じた分類に変更した",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成28年（2016年）1月）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成29年（2017年）6月調査より、公表に使用する機種分類を一部変更した",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成29年（2017年）7月）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図2 民需（船舶及び電力を除く）の達成率の推移（原系列）（PDF形式：14KB）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図3 民需（船舶及び電力を除く）の実績と見通し単純集計値の推移（原系列）（PDF形式：15KB）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表(2005年4月から)・Excel形式は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表(2005年4月から)・Excel形式は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、2024（令和6）年1月前月比2.9%減の後、2月は同2.1%増の2兆8,034億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2024（令和6）年1月前月比1.7%減の後、2月は同7.7%増の8,868億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表(2005年4月から)・Excel形式は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 8月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026-10-15 08:50",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査は、毎年1月調査の時点で季節調整値の改訂を行っており、過去に遡って改訂される",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(本文) (PDF形式：311KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(グラフ) (PDF形式：279KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(計数表) (PDF形式：615KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(令和5年7～9月見通し) (PDF形式：219KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(調査結果表・大分類、中分類) (Excel形式：51KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査についてのお問い合わせはこちらまでお願いします",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成20年6月実績および平成20年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成20年6月実績および平成20年7～9月見通し：機械受注統計調査報告",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(本文) (PDF形式：52KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(グラフ) (PDF形式：60KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(計数表) (PDF形式：384KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(平成20年7～9月見通し) (PDF形式：180KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(調査結果表・大分類、中分類) (Excel形式：89KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計表一覧：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年（2026年）1月調査において、季節調整値の改訂を行いました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成29年（2017年）6月調査より、機種分類の表章が一部変更になりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査（実績調査）における機種分類の表章変更について(PDF形式：110KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成28年（2016年）1月調査より、需要者分類の表章が一部変更となりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査（実績調査）における需要者（業種）分類の表章変更等について(PDF形式：270KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成23年（2011年）4月調査より、需要者分類等が一部変更となりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（機械受注統計調査は携帯電話を含まない調査に変わりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査票における需要者分類等の変更について（平成23年4月調査）(PDF形式：359KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告（実績：毎月）（見通し：四半期） 結果",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度（2026年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和7年度（2025年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和6年度（2024年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和5年度（2023年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "過去の調査報告(令和4年度（2022年度）以前)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "毎年1月調査の時点で季節調整値の改訂を行っており、季調系列は過去に遡って改訂される",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成28年1月調査の時点で季節調整値の改訂を行った",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査についてのお問い合わせはこちらまでお願いします",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よくある質問：機械受注統計調査 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 「機械受注統計調査」はどのような調査ですか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 「機械受注統計調査」ではどのようなことを調べていますか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 「機械受注統計調査」はどのように行われていますか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. 調査結果はいつ頃公表されるのですか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械等製造業者が受注した設備用機械類について毎月の実績及び四半期ごとの見通しを調査し、設備投資状況の先行きを予測し、景気動向を早期に把握するための基礎資料を得ることを目的とした調査です",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機種ごとの受注実績や翌期の受注見通し等を調査しています",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "昭和60年時点でカバレッジが80％程度を把握し得るよう有意抽出によって選定された企業（280社ベース）が記入した調査票を集計して、それを基に作成しています",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当該調査月の翌々月中旬に内閣府ホームページで公表しています",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査についてのお問い合わせはこちらまでお願いします",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月) ～コア機械受注は2か月連続の減少、持ち直しの動きは鈍い～ | 大柴 千智 | 第一ライフ資産運用経済研究所",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月)",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済調査部 副主任エコノミスト（～25年3月）",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年12月) ～10-12月期は３四半期ぶり増加も、持ち直しの動きは鈍い～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年11月) ～民需（船電除く）は市場予想を上回り2か月連続の増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年10月) ～製造業が押し上げ4か月ぶりの増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年9月) ～製造業が足を引っ張り7-9月期は2四半期連続の減少～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年8月) ～製造業、非製造業ともに減少",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査の解説 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 調査の目的",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械等製造業者の受注する設備用機械類の受注状況を調査することにより、設備投資動向を早期に把握し、経済動向分析の基礎資料を得る",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、本調査は統計法（平成19年法律第53号）に基づく一般統計調査である",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 調査の対象",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対象となる企業は、調査を開始した昭和62年（1987年）4月における280社をベースにしている（280社ベース）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 調査のカバレッジ",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査における「受注総額」とは回答額の単純合計であり、母集団推計によるものではない",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 製造業業種別機械受注額 (Excel形式：182KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 非製造業業種別機械受注額 (Excel形式：134KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 官公需業種別機械受注額 (Excel形式：91KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に、自動車・同付属品、電気機械、はん用・生産用機械の主力３業種が振る",
+    "url": "https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのほか、２月は中小企業の設備投資と関連が深いといわれる代理店からの受注は前月比▲1.8％と微減だ",
+    "url": "https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需業種別_需要額 (550円)",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査_製造業_需要者業種別_受注額_月次 2005年4月-2026年8月 (列指向...",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月15日公表値機械投資は景気のバロメーター、製造業業種別 (需要者) の受注額がわかります",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査_非製造業_需要者業種別_受注額_月次 2005年4月-2026年8月 (列指...",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月15日公表値機械投資は景気のバロメーター、非製造業業種別の受注額がわかります",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査_官公需業種別_需要額_月次 2005年5月-2026年8月 (列指向形式)",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製品について＜製品名＞機械受注統計調査_官公需業種別_需要額_月次 2005年4月-2026年8月 (列指向...",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＜無料サンプル＞ 機械受注統計調査_製造業_需要者業種別_受注額_月次 2006年1月-...",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＜無料サンプル＞ 機械受注統計調査_非製造業_需要者業種別_受注額_月次 2006年1...",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（１）🔧 製造業：化学工業やはん用・生産用機械がマイナス寄与",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はん用・生産用機械、化学工業、リース業、建設業",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "令和7年8月実績： 機械受注統計 調査報告深読み - note 令和7年8月実績： 機械受注統計 調査報告深読み - note note https://note.com > 日比野常法",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/japan/DXEV3Q7XVJMXLO7G5QFT3JWYCE-2026-04-14/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/en/stat/juchu/juchu-e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japantimes.co.jp/business/2026/05/21/economy/machinery-orders-march-fall/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyobrief.com/articles/japan-core-machinery-orders-august-2026-rebound",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tradingeconomics.com/japan/machinery-orders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.com/news/d9272ad7-633c-4b60-9529-8b83807247ff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/en/stat/juchu/2026/2603juchu-e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/cao_keizai/status/2089876519783145651",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "機械受注統計（内閣府・船舶電力を除く民需・製造業） 推移",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "https://www.reuters.com/jp/world/japan/DXEV3Q7XVJMXLO7G5QFT3JWYCE-2026-04-14/",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "https://www.dlri.co.jp/report/macro/423900.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2312juchu.html",
+    "https://www.jiji.com/jc/article?k=2026101500241&g=eco",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "https://www.e-stat.go.jp/stat-search/database?layout=datalist&toukei=00100401"
+   ]
+  },
+  {
+   "query": "機械受注統計（内閣府・船舶電力を除く民需・製造業） 調査結果 pdf",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf",
+    "https://www.reuters.com/jp/markets/japan/3KY4JSLF7JL2HJYMSJMSFBTY7Y-2026-07-15/",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/1908juchu.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html"
+   ]
+  },
+  {
+   "query": "機械受注統計（内閣府・船舶電力を除く民需・製造業） 年度 実施割合",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "https://www.reuters.com/jp/world/japan/DXEV3Q7XVJMXLO7G5QFT3JWYCE-2026-04-14/",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "https://data-seisaku.com/00100-cao-00100401/",
+    "https://www.dlri.co.jp/report/macro/423900.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html"
+   ]
+  },
+  {
+   "query": "Cabinet Office machinery orders core private manufacturing",
+   "results": [
+    "https://www.esri.cao.go.jp/en/stat/juchu/juchu-e.html",
+    "https://www.japantimes.co.jp/business/2026/05/21/economy/machinery-orders-march-fall/",
+    "https://tokyobrief.com/articles/japan-core-machinery-orders-august-2026-rebound",
+    "https://tradingeconomics.com/japan/machinery-orders",
+    "https://finance.biggo.com/news/d9272ad7-633c-4b60-9529-8b83807247ff",
+    "https://www.esri.cao.go.jp/en/stat/juchu/2026/2603juchu-e.html",
+    "https://en.macromicro.me/charts/849/jp-core-machinery-orders",
+    "https://jen.jiji.com/jc/eng?g=eco&k=2026101500506",
+    "https://www.facebook.com/inquirerdotnet/posts/japans-core-machinery-orders-in-december-rose-slightly-more-than-expected-but-re/800599778917646/",
+    "https://en.macromicro.me/series/3145/jp-core-machinery-orders-private-sector-sa"
+   ]
+  },
+  {
+   "query": "site:note.com 機械受注統計（内閣府・船舶電力を除く民需・製造業）",
+   "results": [
+    "https://note.com/trex_ai/n/n770a683e1e4b",
+    "https://note.com/trex_ai/n/nd887f0524c5e",
+    "https://note.com/akiyoshitakumori/n/n66624dd287ef",
+    "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "https://note.com/noteworkr/n/n31679ab9f0eb",
+    "https://note.com/nihonkabu_/n/n3d33b1f8c31e",
+    "https://note.com/akiyoshitakumori/n/n658adee2cfe5",
+    "https://note.com/world_briefjapan/n/nc08f21f58304",
+    "https://note.com/kiku_keizai/n/ne964d61bd6c3",
+    "https://note.com/nihonkabu_/n/nf6455015222c"
+   ]
+  },
+  {
+   "query": "site:x.com 機械受注統計（内閣府・船舶電力を除く民需・製造業）",
+   "results": [
+    "https://x.com/indbgraphreport/status/2110531400504139790",
+    "https://x.com/cao_keizai",
+    "https://x.com/indbgraphreport/all",
+    "https://x.com/mokuseiriki555/status/2110861904382246963",
+    "https://x.com/hiroki_shimazu",
+    "https://x.com/luigi_jpn/article/2060618872278192235",
+    "https://x.com/OANDAjp/status/2110523677502804177",
+    "https://x.com/ikorayo",
+    "https://x.com/abema_astro",
+    "https://x.com/vio7japan"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 機械受注統計（内閣府・船舶電力を除く民需・製造業）",
+   "results": [
+    "https://www.linkedin.com/posts/tsurugacorp_%E8%A3%BD%E9%80%A0%E6%A5%AD-%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87-%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3-activity-7516655401807933441-QjrH",
+    "https://www.linkedin.com/company/tsurugacorp",
+    "https://jp.linkedin.com/pulse/%E4%B8%80%E5%85%86%E5%86%86%E4%BC%81%E6%A5%AD%E3%81%AE%E7%A4%BE%E4%BC%9A%E8%83%8C%E6%99%AF%E3%81%A8%E6%AD%B4%E5%8F%B2%E3%82%92%E7%B4%90%E8%A7%A3%E3%81%8F-%E5%AE%8F%E6%96%97-%E7%89%87%E5%B2%A1-mwpvc",
+    "https://jp.linkedin.com/in/%E3%81%82%E3%82%86%E3%81%BF-%E8%A5%BF%E5%B7%9D-34a34b310",
+    "https://jp.linkedin.com/in/shinoharay/en",
+    "https://jp.linkedin.com/posts/隆博-馬場-17295328b_令和8年2月実績機械受注統計調査報告-経済社会総合研究所-内閣府-activity-7450042746830209024-UfhE",
+    "https://jp.linkedin.com/pulse/知っておくと便利な経済指標と統計-katsukiyo-nishi?tl=ja",
+    "https://jp.linkedin.com/pulse/水処理業界での官需と民需での商流や設計運用思想の違い-篤史-原田-i8euc",
+    "https://jp.linkedin.com/pulse/巨大な官需高利益な民需水ビジネスの様々なカテゴライズ-篤史-原田-aqmjc",
+    "https://jp.linkedin.com/posts/takamasa-adachi-a7415297_14ナノ先端半導体製造電力10分の1大日本印刷とキヤノン27年実用化-activity-7404436449061875712-dJE1"
+   ]
+  },
+  {
+   "query": "site:facebook.com 機械受注統計（内閣府・船舶電力を除く民需・製造業）",
+   "results": [
+    "https://www.facebook.com/61591602893321/posts/5%E6%9C%88%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8-124%E6%B8%9B%E3%81%AE9620%E5%84%84%E5%86%86-%E5%9F%BA%E8%AA%BF%E5%88%A4%E6%96%AD%E6%8C%81%E3%81%A1%E7%9B%B4%E3%81%97%E3%81%AE%E5%8B%95%E3%81%8D%E3%81%8C%E3%81%BF%E3%82%89%E3%82%8C%E3%82%8B%E3%82%92%E7%B6%AD%E6%8C%81/122109693681386763/",
+    "https://www.facebook.com/nejilog/posts/%E3%81%AD%E3%81%98%E3%81%AE%E7%99%BA%E6%B3%A8%E3%83%9F%E3%82%B9%E5%8E%9F%E5%9B%A0%E3%81%AF%E3%81%AD%E3%81%98%E9%83%A8%E3%81%AE%E7%A2%BA%E8%AA%8D%E4%B8%8D%E8%B6%B3%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93%E8%A3%BD%E9%80%A0%E7%8F%BE%E5%A0%B4%E3%82%84%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E3%81%A7%E4%BD%BF%E3%81%86%E3%83%9C%E3%83%AB%E3%83%88%E3%82%84%E3%81%AD%E3%81%98%E5%90%8C%E3%81%98%E5%91%BC%E3%81%B3%E5%BE%84%E9%95%B7%E3%81%95%E3%81%A7%E3%82%82%E3%81%AD%E3%81%98%E5%B1%B1%E3%81%8C%E5%8A%A0%E5%B7%A5%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%AF%84%E5%9B%B2%E3%82%84%E3%83%94%E3%83%83%E3%83%81%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99/122241875690311368/",
+    "https://www.facebook.com/yoshitakakitao/posts/5%E5%B9%B42%E3%83%B5%E6%9C%88%E3%81%B6%E3%82%8A%E5%86%86%E5%AE%89%E6%B0%B4%E6%BA%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A62013%E5%B9%B412%E6%9C%8816%E6%97%A5-1434%E5%85%88%E9%80%B1%E9%87%91%E6%9B%9C%E6%97%A5%E3%81%AE%E6%9D%B1%E4%BA%AC%E5%A4%96%E5%9B%BD%E7%82%BA%E6%9B%BF%E5%B8%82%E5%A0%B4%E3%81%A7%E3%83%89%E3%83%AB%E5%86%86%E3%81%AF%E5%B9%B4%E5%88%9D%E6%9D%A5%E9%AB%98%E5%80%A410374%E5%86%86%E3%82%92%E7%AA%81%E7%A0%B410392%E5%86%86%E3%81%BE%E3%81%A7%E4%B8%8A%E6%98%87%E3%81%97%E3%81%A62008/553085381446153/",
+    "https://www.facebook.com/nejilog/posts/%E9%89%84%E3%81%AE%E5%8E%9F%E6%96%99%E4%BE%A1%E6%A0%BC%E3%81%8C%E4%B8%8B%E3%81%8C%E3%82%8C%E3%81%B0%E3%83%8D%E3%82%B8%E3%81%AE%E4%BE%A1%E6%A0%BC%E3%82%82%E4%B8%8B%E3%81%8C%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%AF2026%E5%B9%B49%E6%9C%88%E3%81%AE%E9%89%84%E9%8B%BCsus%E5%B8%82%E6%B3%81%E3%82%92%E8%A6%8B%E3%82%8B%E3%81%A8%E5%BF%85%E3%81%9A%E3%81%97%E3%82%82%E3%81%9D%E3%81%86%E3%81%A8%E3%81%AF%E8%A8%80%E3%81%88%E3%81%BE%E3%81%9B%E3%82%93-%E5%9B%BD%E5%86%85h2%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%97%E3%82%84%E6%A3%92%E9%8B%BC%E3%81%AF%E5%89%8D%E6%9C%88%E3%81%8B%E3%82%89%E4%B8%8B%E8%90%BD%E4%B8%80%E6%96%B9%E3%81%A7-%E5%8A%A0/122241041168311368/",
+    "https://www.facebook.com/nejilog/photos/alc%E7%94%A8%E3%81%AD%E3%81%98%E6%99%AE%E9%80%9A%E3%81%AE%E3%81%AD%E3%81%98%E3%81%A8%E4%BD%95%E3%81%8C%E9%81%95%E3%81%86alc%E3%81%AB%E3%81%AD%E3%81%98%E3%82%92%E6%89%93%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%AB%E7%A9%BA%E5%9B%9E%E3%82%8A%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%A9%E3%81%AE%E9%95%B7%E3%81%95%E3%82%92%E9%81%B8%E3%81%B9%E3%81%B0%E3%82%88%E3%81%84%E3%81%8B%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%E3%81%9D%E3%82%93%E3%81%AA%E7%B5%8C%E9%A8%93%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8Balc%E8%BB%BD%E9%87%8F%E6%B0%97%E6%B3%A1%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AF%E4%B8%80/122241801794311368/",
+    "https://www.facebook.com/nejilog/photos/%E4%BB%95%E5%85%A5%E4%BE%A1%E6%A0%BC%E3%81%8C%E4%B8%8A%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AD%E3%81%98%E3%81%AE%E8%AA%BF%E9%81%94%E3%81%AF%E3%81%A9%E3%81%86%E8%A6%8B%E7%9B%B4%E3%81%9B%E3%81%B0%E3%81%84%E3%81%84%E5%B8%B8%E9%99%BD%E7%94%A3%E6%A5%AD%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E8%AA%BF%E6%9F%BB%E3%81%A7%E3%81%AF%E8%8C%A8%E5%9F%8E%E7%9C%8C%E5%86%85%E4%BC%81%E6%A5%AD%E3%81%AE%E7%B4%848%E5%89%B2%E3%81%A7%E4%BB%95%E5%85%A5%E4%BE%A1%E6%A0%BC%E3%81%8C%E5%89%8D%E5%B9%B4%E3%82%88%E3%82%8A%E4%B8%8A%E6%98%87%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%82%82%E7%B4%848%E5%89%B2%E3%81%8C%E4%B8%8A%E6%98%87%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%AD%E3%81%98/122240939984311368/",
+    "https://www.facebook.com/chiekomitsui.fisco/posts/%E5%85%88%E9%80%B1%E3%81%AE%E7%9B%B8%E5%A0%B4%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E5%85%88%E9%80%B1%E3%81%AE%E7%B1%B3%E5%B8%82%E5%A0%B4%E3%81%A7%E4%B8%BB%E8%A6%813%E6%8C%87%E6%95%B0%E3%81%AF%E9%80%B1%E8%B6%B3%E3%81%A7%E3%81%84%E3%81%9A%E3%82%8C%E3%82%822%E8%B6%85%E3%81%AE%E4%B8%8B%E8%90%BD%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E3%81%AF%E5%80%A4%E5%B9%85%E3%81%A7%E3%81%AF1051%E3%83%89%E3%83%AB%E3%81%AE%E4%B8%8B%E8%90%BD%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F16%E6%97%A5%E3%81%AB%E6%94%BF%E5%BA%9C%E5%82%B5%E5%8B%99%E3%82%84%E5%88%A9%E6%89%95%E3%81%84%E8%B2%BB%E3%81%8C%E5%A2%97%E5%8A%A0%E3%81%97/1264561442342646/",
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/groups/379436797253303/",
+    "https://www.facebook.com/groups/831046285924723/"
+   ]
+  },
+  {
+   "query": "機械受注統計（内閣府・船舶電力を除く民需・製造業） note 社長",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "https://www.reuters.com/jp/markets/japan/3KY4JSLF7JL2HJYMSJMSFBTY7Y-2026-07-15/",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2312juchu.html",
+    "https://www.tokaitokyo.co.jp/otome/investment/finance/business/machine.html",
+    "https://www.dlri.co.jp/report/macro/423900.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "https://x.com/cao_keizai/status/2089876519783145651",
+    "https://note.com/trex_ai/n/n770a683e1e4b",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html"
+   ]
+  },
+  {
+   "query": "機械受注統計（内閣府・船舶電力を除く民需・製造業） X 投稿",
+   "results": [
+    "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "https://www.reuters.com/jp/world/japan/DXEV3Q7XVJMXLO7G5QFT3JWYCE-2026-04-14/",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "https://x.com/cao_keizai/status/2089876519783145651",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2312juchu.html",
+    "https://www.dlri.co.jp/report/macro/423900.html",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/1910juchu.html",
+    "https://data-seisaku.com/00100-cao-00100401/",
+    "https://www.newsweekjapan.jp/articles/-/325758?display=b",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html"
+   ]
+  },
+  {
+   "query": "Cabinet Office machinery orders core private manufacturing site:linkedin.com",
+   "results": [
+    "https://sg.linkedin.com/in/sebastian-lua-73923b128",
+    "https://www.linkedin.com/posts/tsurugacorp_%E8%A3%BD%E9%80%A0%E6%A5%AD-%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87-%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3-activity-7516655401807933441-QjrH",
+    "https://sg.linkedin.com/in/william-chandra-49aba051",
+    "https://ca.linkedin.com/in/sebastian-franks-2275a879",
+    "https://www.linkedin.com/company/boeing",
+    "https://www.linkedin.com/posts/tom-betts-3191913b_manufacturing-itinfrastructure-structuredcabling-activity-7508254447035240448-SQmT",
+    "https://www.linkedin.com/in/diego-giraldez-12337249",
+    "https://uk.linkedin.com/in/nickdean88",
+    "https://www.linkedin.com/top-content/business-strategy/understanding-business-benefits/benefits-of-investing-in-american-manufacturing/",
+    "https://www.linkedin.com/company/machinetoolbuilders"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "機械受注": [
+   {
+    "quote": "令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比3.2%増の1兆106億円、官公需は同2.9%減の3,406億円、外需は同6.9%減の1兆1,769億円、代理店は同19.5%増の1,249億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同10.7%増の3兆5,702億円、代理店は同0.6%増の3,606億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.2%減の2兆5,855億円、製造業は同1.1%増の1兆2,627億円、非製造業（除く船舶・電力）は同8.8%減の1兆3,134億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.1%減の2兆9,593億円、官公需は同22.5%減の7,849億円、外需は同3.1%増の3兆6,816億円、代理店は同1.8%増の3,670億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同2.6%減の2兆5,174億円、製造業は同2.3%減の1兆2,338億円、非製造業（除く船舶・電力）は同1.4%減の1兆2,956億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(本文) (PDF形式：311KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(グラフ) (PDF形式：279KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(計数表) (PDF形式：615KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(令和5年7～9月見通し) (PDF形式：219KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別受注額(季調系列) (CSV形式：19KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別受注額(原系列) (CSV形式：19KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機種別受注額(大分類) (CSV形式：6KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機種別受注額(中分類) (CSV形式：9KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1図 機械受注総額、 第2図 民需(船舶・電力を除く)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1表 主要需要者別機械受注額",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成20年6月実績および平成20年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成20年6月実績および平成20年7～9月見通し：機械受注統計調査報告",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額（季節調整値）の動向をみると、20年5月前月比10.8%増の後、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同4.4%増の2,410億円、外需は同12.1%減の1兆845億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同3.9%減の3兆3,362億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同0.6%増の3兆2,091億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同0.1%減の3兆3,318億円、代理店は同6.4%増の3,544億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.0%減の3兆1,135億円、製造業は同4.0%減の",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(本文) (PDF形式：52KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(グラフ) (PDF形式：60KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(計数表) (PDF形式：384KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(平成20年7～9月見通し) (PDF形式：180KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別受注額(季調系列) (CSV形式：17KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別受注額(原系列) (CSV形式：17KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機種別受注額(大分類) (CSV形式：6KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機種別受注額(中分類) (CSV形式：9KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1図 機械受注総額、第2図 民需(船舶・電力を除く)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第1表 主要需要者別機械受注額",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査（実績調査）における機種分類の表章変更について(PDF形式：110KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査（実績調査）における需要者（業種）分類の表章変更等について(PDF形式：270KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査票における需要者分類等の変更について（平成23年4月調査）(PDF形式：359KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 主要需要者別機械受注額 (Excel形式：184KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 機種別機械受注額 (Excel形式：159KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 民需機種別機械受注額 (Excel形式：156KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 製造業業種別機械受注額 (Excel形式：182KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 非製造業業種別機械受注額 (Excel形式：134KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 官公需業種別機械受注額 (Excel形式：91KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作成方法 機械受注実績 携帯電話を除く主要需要者別の長期時系列推計 (PDF形式：371KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 主要需要者別機械受注額 (1987年4月～2005年3月) (Excel形式：134KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "<参考②> 内訳項目の季節調整値を合計した「船舶・電力を除く民需」の受注額（2005年4月から）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内訳項目の季節調整値を合計した「船舶・電力を除く民需」について (PDF形式：123KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 内訳項目の季節調整値を合計した「船舶・電力を除く民需」（受注額） (Excel形式：51KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 「機械受注統計調査」はどのような調査ですか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 「機械受注統計調査」ではどのようなことを調べていますか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 「機械受注統計調査」はどのように行われていますか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6. 「船舶・電力を除く民需」とは何ですか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）船舶・電力を除く民需の計算方法について（PDF形式：225KB）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月) ～コア機械受注は2か月連続の減少、持ち直しの動きは鈍い～ | 大柴 千智 | 第一ライフ資産運用経済研究所",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月)",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比3.2%増の1兆106億円、官公需は同2.9%減の3,406億円、外需は同6.9%減の1兆1,769億円、代理店は同19.5%増の1,249億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同1.6%増の4,296億円、非製造業（除く船舶・電力）は同9.8%増の4,321億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4～6月をみると、受注総額は前期比7.1%増の8兆11億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.2%減の3兆237億円、官公需は同12.2%増の1兆132億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同10.7%増の3兆5,702億円、代理店は同0.6%増の3,606億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.2%減の2兆5,855億円、製造業は同1.1%増の1兆2,627億円、非製造業（除く船舶・電力）は同8.8%減の1兆3,134億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023（令和5）年7～9月見通しをみると、受注総額は前期比2.8%減の7兆7,784億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.1%減の2兆9,593億円、官公需は同22.5%減の7,849億円、外需は同3.1%増の3兆6,816億円、代理店は同1.8%増の3,670億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同2.6%減の2兆5,174億円、製造業は同2.3%減の1兆2,338億円、非製造業（除く船舶・電力）は同1.4%減の1兆2,956億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6月は同4.8%減の2兆6,993億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比5.5%増の1兆2,608億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同4.4%増の2,410億円、外需は同12.1%減の1兆845億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代理店は同19.7%減の1,001億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "20年5月前月比10.4%増の後、6月は同2.6%減の1兆851億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同3.9%増の5,123億円、非製造業（除く船舶・電力）は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同3.3%減の6,031億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4～6月をみると、受注総額は前期比1.4%減の8兆945億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同1.3%減の3兆5,958億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同5.9%増の7,397億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同3.9%減の3兆3,362億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代理店は同3.2%増の3,332億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同0.6%増の3兆2,091億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は同2.7%増の1兆4,455億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業（除船舶・電力）は同1.0%増の1兆7,996億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7～9月見通しをみると、受注総額は前期比2.9%減の7兆8,632億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.5%減の3兆5,067億円、官公需は同1.5%減の7,286億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同0.1%減の3兆3,318億円、代理店は同6.4%増の3,544億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.0%減の3兆1,135億円、製造業は同4.0%減の",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1兆3,882億円、非製造業（除船舶・電力）は同3.0%減の1兆7,464億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月) ～コア機械受注は2か月連続の減少、持ち直しの動きは鈍い～ | 大柴 千智 | 第一ライフ資産運用経済研究所",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "～コア機械受注は2か月連続の減少、持ち直しの動きは鈍い～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業、非製造業ともに減少したことで、コア機械受注全体も2か月連続の減少となった（製造業：同▲1.3％、非製造業：▲7.4％）",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業物価指数（2025年2月） ～前年比４％台の推移が継続～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年12月) ～10-12月期は３四半期ぶり増加も、持ち直しの動きは鈍い～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年11月) ～民需（船電除く）は市場予想を上回り2か月連続の増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年10月) ～製造業が押し上げ4か月ぶりの増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年9月) ～製造業が足を引っ張り7-9月期は2四半期連続の減少～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年8月) ～製造業、非製造業ともに減少",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、25年9月前月比13.2%増の後、10月は同4.6%減の2兆2,896億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比7.0%増の1兆62億円、官公需は同26.2%減の2,820億円、外需は同16.0%減の8,830億円、代理店は同13.2%増の1,054億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、25年9月前月比2.1%減の後、10月は同0.6%増の8,072億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同0.2%減の3,338億円、非製造業（除く船舶・電力）は同11.5%増の5,095億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、26年1月前月比12.6%増の後、2月は同5.9%減の2兆2,164億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比15.3%減の9,042億円、官公需は同6.2%増の2,421億円、外需は同2.4%増の8,857億円、代理店は同8.2%減の977億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、26年1月前月比13.4%増の後、2月は同8.8%減の7,696億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同11.9%減の2,923億円、非製造業（除く船舶・電力）は同8.4%減の4,680億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、2024（令和6）年1月前月比2.9%減の後、2月は同2.1%増の2兆8,034億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比7.0%増の1兆77億円、官公需は同12.1%増の5,270億円、外需は同0.7%増の1兆2,384億円、代理店は同2.1%減の1,223億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2024（令和6）年1月前月比1.7%減の後、2月は同7.7%増の8,868億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同9.4%増の3,963億円、非製造業（除く船舶・電力）は同9.1%増の5,059億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、外需は前月比＋6.3％と増加したが、１",
+    "url": "https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（10億円）",
+    "url": "https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、25年6月前月比14.3%減の後、7月は同4.4%増の2兆291億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比3.4%増の9,192億円、官公需は同12.9%増の2,917億円、外需は同1.4%増の7,660億円、代理店は同3.0%減の949億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、25年6月前月比2.7%減の後、7月は同0.0%減の7,772億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同4.8%増の3,187億円、非製造業（除く船舶・電力）は同0.0%増の4,624億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6月は同10.6%増の2兆8,346億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比5.5%増の1兆3,049億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比3.2%増の1兆106億円、官公需は同2.9%減の3,406億円、外需は同6.9%減の1兆1,769億円、代理店は同19.5%増の1,249億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同1.6%増の4,296億円、非製造業（除く船舶・電力）は同9.8%増の4,321億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4～6月をみると、受注総額は前期比7.1%増の8兆11億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.2%減の3兆237億円、官公需は同12.2%増の1兆132億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同10.7%増の3兆5,702億円、代理店は同0.6%増の3,606億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.2%減の2兆5,855億円、製造業は同1.1%増の1兆2,627億円、非製造業（除く船舶・電力）は同8.8%減の1兆3,134億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023（令和5）年7～9月見通しをみると、受注総額は前期比2.8%減の7兆7,784億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.1%減の2兆9,593億円、官公需は同22.5%減の7,849億円、外需は同3.1%増の3兆6,816億円、代理店は同1.8%増の3,670億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同2.6%減の2兆5,174億円、製造業は同2.3%減の1兆2,338億円、非製造業（除く船舶・電力）は同1.4%減の1兆2,956億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額（季節調整値）の動向をみると、20年5月前月比10.8%増の後、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6月は同4.8%減の2兆6,993億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比5.5%増の1兆2,608億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同4.4%増の2,410億円、外需は同12.1%減の1兆845億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代理店は同19.7%減の1,001億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "20年5月前月比10.4%増の後、6月は同2.6%減の1兆851億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同3.9%増の5,123億円、非製造業（除く船舶・電力）は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同3.3%減の6,031億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4～6月をみると、受注総額は前期比1.4%減の8兆945億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同1.3%減の3兆5,958億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同5.9%増の7,397億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同3.9%減の3兆3,362億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代理店は同3.2%増の3,332億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同0.6%増の3兆2,091億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業は同2.7%増の1兆4,455億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業（除船舶・電力）は同1.0%増の1兆7,996億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7～9月見通しをみると、受注総額は前期比2.9%減の7兆8,632億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同2.5%減の3兆5,067億円、官公需は同1.5%減の7,286億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同0.1%減の3兆3,318億円、代理店は同6.4%増の3,544億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、「船舶・電力を除く民需」は同3.0%減の3兆1,135億円、製造業は同4.0%減の",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "」に掲げた大分類ごとに、昭和60年（1985年）現在でカバレッジが80%程度となるよう選定された企業である",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、25年9月前月比13.2%増の後、10月は同4.6%減の2兆2,896億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比7.0%増の1兆62億円、官公需は同26.2%減の2,820億円、外需は同16.0%減の8,830億円、代理店は同13.2%増の1,054億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、25年9月前月比2.1%減の後、10月は同0.6%増の8,072億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同0.2%減の3,338億円、非製造業（除く船舶・電力）は同11.5%増の5,095億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、26年1月前月比12.6%増の後、2月は同5.9%減の2兆2,164億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比15.3%減の9,042億円、官公需は同6.2%増の2,421億円、外需は同2.4%増の8,857億円、代理店は同8.2%減の977億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、26年1月前月比13.4%増の後、2月は同8.8%減の7,696億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同11.9%減の2,923億円、非製造業（除く船舶・電力）は同8.4%減の4,680億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、2024（令和6）年1月前月比2.9%減の後、2月は同2.1%増の2兆8,034億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比7.0%増の1兆77億円、官公需は同12.1%増の5,270億円、外需は同0.7%増の1兆2,384億円、代理店は同2.1%減の1,223億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2024（令和6）年1月前月比1.7%減の後、2月は同7.7%増の8,868億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同9.4%増の3,963億円、非製造業（除く船舶・電力）は同9.1%増の5,059億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、25年6月前月比14.3%減の後、7月は同4.4%増の2兆291億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比3.4%増の9,192億円、官公需は同12.9%増の2,917億円、外需は同1.4%増の7,660億円、代理店は同3.0%減の949億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向を見ると、25年6月前月比2.7%減の後、7月は同0.0%減の7,772億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同4.8%増の3,187億円、非製造業（除く船舶・電力）は同0.0%増の4,624億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額（季節調整値）の動向をみると、18年5月前月比1.7%減の後、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6月は同10.6%増の2兆8,346億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は前月比5.5%増の1兆3,049億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同9.3%増の2,511億円、外需は同22.5%増の1兆1,344億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代理店は同6.0%減の1,224億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "18年5月前月比2.1%減の後、6月は同8.5%増の1兆2,114億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち、製造業は同25.6%増の5,849億円、非製造業（除く船舶・電力）は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同3.6%減の6,326億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4～6月をみると、受注総額は前期比4.7%増の8兆67億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者別にみると、民需は同7.7%増の3兆8,148億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需は同1.5%減の7,358億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は同3.6%減の3兆255億円、",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "内閣府 経済財政政策 on X : \" 機械受注統計 調査報告（令和8年6 ... 内閣府 経済財政政策 on X : \" 機械受注統計 調査報告（令和8年6 ... X https://x.com > @cao_keizai",
+    "url": "https://x.com/cao_keizai/status/2089876519783145651",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "📉令和7年8月実績：機械受注統計調査報告深読み｜日比野常法",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "📉令和7年8月実績：機械受注統計調査報告深読み",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１． 🌟はじめに：なぜ機械受注は投資家にとって重要なのか",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "」という言葉を聞いたことがありますか？ 日々変動する株価や為替レートのようにニュースで頻繁に取り上げられるわけではありませんが、実はこの統計は、将来の日本経済、ひいては企業の業績や株価の動きを予測する上で非常に重要な「",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内閣府が毎月公表する機械受注統計調査は、日本国内の主要な機械製造業者（280社ベース）を対象に、生産設備用機械類に関してどれだけ受注したかを調べたものです。企業が新しい工場や設備に投資しようと考えたとき、まず機械メーカーに発注（受注）し、その後、製造、納品、設置、そして稼働という順番をたどります。このプロセスを考えると、機械受注は",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資状況の先行きを予測し、景気動向を早期に把握するための基礎資料を得る",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "GDP（国内総生産）の約60%を占める民間設備投資の動向を、1～3四半期程度先に知る手がかり",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "となるため、景気動向指数でも先行指標として採用されています。",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "最終更新日 2026年10月19日",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業のDX（デジタルトランスフォーメーション）や基幹システム投資関連の需要の振れが影響",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業が海外メーカー（特に中国など）から機械を輸入し、DX（デジタルトランスフォーメーション）やグリーン投資（再生可能エネルギー、5G関連など）を進めている場合、その受注額は",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足の解消や生産効率の改善を目的として依然として旺盛",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DXやIT投資は、今後も日本の生産性向上に不可欠なテーマであり、非製造業で一時的な振れが見られたとしても、",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "令和5年6月実績および令和5年7～9月見通し： 機械受注統計 ... — 令和5年6月実績および令和5年7～9月見通し： 機械受注統計 ... 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成20年6月実績および平成20年7～9月見通し： 機械受注統計 ... — 平成20年6月実績および平成20年7～9月見通し： 機械受注統計 ... 経済社会総合研究所 - 内閣府 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よくある質問： 機械受注統計 調査 - 経済社会総合研究所 - 内閣府 — よくある質問： 機械受注統計 調査 - 経済社会総合研究所 - 内閣府 経済社会総合研究所 https://www.esri.cao.go.jp > juchu > juchu_faq201403",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計 調査(2025年1月) - 第一生命経済研究所 — 機械受注統計 調査(2025年1月) - 第一生命経済研究所 第一ライフ資産運用経済研究所 https://www.dlri.co.jp > report > macro",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成25年10月実績： 機械受注統計調査 報告 — 平成25年10月実績： 機械受注統計調査 報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成26年2月実績： 機械受注統計調査 報告 — 平成26年2月実績： 機械受注統計調査 報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和6年2月実績： 機械受注統計調査 報告 — 令和6年2月実績： 機械受注統計調査 報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成25年7月実績： 機械受注統計 調査報告 — 平成25年7月実績： 機械受注統計 調査報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023（令和5）年7～9月見通しをみると、受注総額は前期比2.8%減の7兆7,784億円の見通しになっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表(2005年4月から)・Excel形式は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年（2026年）1月調査において、季節調整値の改訂を行いました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成29年（2017年）6月調査より、機種分類の表章が一部変更になりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成28年（2016年）1月調査より、需要者分類の表章が一部変更となりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成23年（2011年）4月調査より、需要者分類等が一部変更となりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表(2005年4月から)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度（2026年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和7年度（2025年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和6年度（2024年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和5年度（2023年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "過去の調査報告(令和4年度（2022年度）以前)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表（2005年4月から）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要者分類等の変更前の長期時系列（過去掲載分）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "<参考①> 携帯電話を除く主要需要者別の長期時系列（1987年4月～2005年3月）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作成方法 機械受注実績 携帯電話を除く主要需要者別の長期時系列推計 (PDF形式：371KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表として2005年4月から掲載しています",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（主要長期時系列統計表（2005年4月から））",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、需要者分類変更前の長期時系列（過去掲載分）として1987年4月からの系列も掲載しています",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（需要者分類変更前の長期時系列（過去掲載分））",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月) ～コア機械受注は2か月連続の減少、持ち直しの動きは鈍い～ | 大柴 千智 | 第一ライフ資産運用経済研究所",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025.03.19",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月)",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "貿易統計(2025年2月) ～米国向け自動車輸出の急増が実質輸出を牽引～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業物価指数（2025年2月） ～前年比４％台の推移が継続～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉱工業生産（2025年1月） ～生産は3か月連続の低下～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年12月) ～10-12月期は３四半期ぶり増加も、持ち直しの動きは鈍い～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年11月) ～民需（船電除く）は市場予想を上回り2か月連続の増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年10月) ～製造業が押し上げ4か月ぶりの増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年9月) ～製造業が足を引っ張り7-9月期は2四半期連続の減少～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年8月) ～製造業、非製造業ともに減少",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最近では、本調査の販売額は「生産動態統計」における出荷額等の約9割（年度合計での比較）となっている",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、報告書において時系列で掲載している機種別の受注額等は、海外需要等を含む全体の額である",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ホームページではこのほか民需のみによる機種別受注額時系列表も掲載している",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※平成23年（2011年）4月調査より、「通信機」に含まれていた「携帯電話」を調査対象から外した",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（令和8年（2026年）3月19日）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "参考①関連（携帯電話を除く主要需要者別の長期時系列（1987年4月～2005年3月）関連）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成29年（2017年）3月13日）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（令和5年（2023年）6月15日）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成22年（2010年）4月調査より、公表に使用する需要者の産業分類を、上記に準じた分類に変更した",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成22年（2010年）3月）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成23年（2011年）4月調査より、調査票における需要者の産業分類を変更した",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成23年（2011年）1月）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成28年（2016年）1月調査より、公表に使用する需要者の産業分類を、上記に準じた分類に変更した",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成28年（2016年）1月）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成29年（2017年）6月調査より、公表に使用する機種分類を一部変更した",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成29年（2017年）7月）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図2 民需（船舶及び電力を除く）の達成率の推移（原系列）（PDF形式：14KB）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図3 民需（船舶及び電力を除く）の実績と見通し単純集計値の推移（原系列）（PDF形式：15KB）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表(2005年4月から)・Excel形式は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表(2005年4月から)・Excel形式は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注総額の動向をみると、2024（令和6）年1月前月比2.9%減の後、2月は同2.1%増の2兆8,034億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2024（令和6）年1月前月比1.7%減の後、2月は同7.7%増の8,868億円となった",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要長期時系列統計表(2005年4月から)・Excel形式は",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 8月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026-10-15 08:50",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&stat_infid=000012664692&layout=dataset&statdisp_id=0003355268",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査は、毎年1月調査の時点で季節調整値の改訂を行っており、過去に遡って改訂される",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(本文) (PDF形式：311KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(グラフ) (PDF形式：279KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(計数表) (PDF形式：615KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(令和5年7～9月見通し) (PDF形式：219KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(調査結果表・大分類、中分類) (Excel形式：51KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査についてのお問い合わせはこちらまでお願いします",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成20年6月実績および平成20年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成20年6月実績および平成20年7～9月見通し：機械受注統計調査報告",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(本文) (PDF形式：52KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(グラフ) (PDF形式：60KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(計数表) (PDF形式：384KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(平成20年7～9月見通し) (PDF形式：180KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告(調査結果表・大分類、中分類) (Excel形式：89KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計表一覧：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年（2026年）1月調査において、季節調整値の改訂を行いました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成29年（2017年）6月調査より、機種分類の表章が一部変更になりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査（実績調査）における機種分類の表章変更について(PDF形式：110KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成28年（2016年）1月調査より、需要者分類の表章が一部変更となりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査（実績調査）における需要者（業種）分類の表章変更等について(PDF形式：270KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成23年（2011年）4月調査より、需要者分類等が一部変更となりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（機械受注統計調査は携帯電話を含まない調査に変わりました",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査票における需要者分類等の変更について（平成23年4月調査）(PDF形式：359KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査報告（実績：毎月）（見通し：四半期） 結果",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度（2026年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和7年度（2025年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和6年度（2024年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和5年度（2023年度）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "過去の調査報告(令和4年度（2022年度）以前)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "毎年1月調査の時点で季節調整値の改訂を行っており、季調系列は過去に遡って改訂される",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成28年1月調査の時点で季節調整値の改訂を行った",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査についてのお問い合わせはこちらまでお願いします",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よくある質問：機械受注統計調査 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 「機械受注統計調査」はどのような調査ですか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 「機械受注統計調査」ではどのようなことを調べていますか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 「機械受注統計調査」はどのように行われていますか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. 調査結果はいつ頃公表されるのですか？",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械等製造業者が受注した設備用機械類について毎月の実績及び四半期ごとの見通しを調査し、設備投資状況の先行きを予測し、景気動向を早期に把握するための基礎資料を得ることを目的とした調査です",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機種ごとの受注実績や翌期の受注見通し等を調査しています",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "昭和60年時点でカバレッジが80％程度を把握し得るよう有意抽出によって選定された企業（280社ベース）が記入した調査票を集計して、それを基に作成しています",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当該調査月の翌々月中旬に内閣府ホームページで公表しています",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査についてのお問い合わせはこちらまでお願いします",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月) ～コア機械受注は2か月連続の減少、持ち直しの動きは鈍い～ | 大柴 千智 | 第一ライフ資産運用経済研究所",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2025年1月)",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済調査部 副主任エコノミスト（～25年3月）",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年12月) ～10-12月期は３四半期ぶり増加も、持ち直しの動きは鈍い～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年11月) ～民需（船電除く）は市場予想を上回り2か月連続の増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年10月) ～製造業が押し上げ4か月ぶりの増加～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年9月) ～製造業が足を引っ張り7-9月期は2四半期連続の減少～",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査(2024年8月) ～製造業、非製造業ともに減少",
+    "url": "https://www.dlri.co.jp/report/macro/423900.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査の解説 : 経済社会総合研究所 - 内閣府",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 調査の目的",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械等製造業者の受注する設備用機械類の受注状況を調査することにより、設備投資動向を早期に把握し、経済動向分析の基礎資料を得る",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、本調査は統計法（平成19年法律第53号）に基づく一般統計調査である",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 調査の対象",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対象となる企業は、調査を開始した昭和62年（1987年）4月における280社をベースにしている（280社ベース）",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 調査のカバレッジ",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本調査における「受注総額」とは回答額の単純合計であり、母集団推計によるものではない",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu_kaisetu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 製造業業種別機械受注額 (Excel形式：182KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 非製造業業種別機械受注額 (Excel形式：134KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期系列 官公需業種別機械受注額 (Excel形式：91KB)",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に、自動車・同付属品、電気機械、はん用・生産用機械の主力３業種が振る",
+    "url": "https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのほか、２月は中小企業の設備投資と関連が深いといわれる代理店からの受注は前月比▲1.8％と微減だ",
+    "url": "https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公需業種別_需要額 (550円)",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査_製造業_需要者業種別_受注額_月次 2005年4月-2026年8月 (列指向...",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月15日公表値機械投資は景気のバロメーター、製造業業種別 (需要者) の受注額がわかります",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査_非製造業_需要者業種別_受注額_月次 2005年4月-2026年8月 (列指...",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月15日公表値機械投資は景気のバロメーター、非製造業業種別の受注額がわかります",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械受注統計調査_官公需業種別_需要額_月次 2005年5月-2026年8月 (列指向形式)",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製品について＜製品名＞機械受注統計調査_官公需業種別_需要額_月次 2005年4月-2026年8月 (列指向...",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＜無料サンプル＞ 機械受注統計調査_製造業_需要者業種別_受注額_月次 2006年1月-...",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＜無料サンプル＞ 機械受注統計調査_非製造業_需要者業種別_受注額_月次 2006年1...",
+    "url": "https://data-seisaku.com/00100-cao-00100401/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2表 民需の業種別機械受注の伸び",
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/0606juchu.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（１）🔧 製造業：化学工業やはん用・生産用機械がマイナス寄与",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はん用・生産用機械、化学工業、リース業、建設業",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "令和7年8月実績： 機械受注統計 調査報告深読み - note 令和7年8月実績： 機械受注統計 調査報告深読み - note note https://note.com > 日比野常法",
+    "url": "https://note.com/hibino_news/n/n4e09f1fa2ea2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T03:22:43.014925+00:00"
+}

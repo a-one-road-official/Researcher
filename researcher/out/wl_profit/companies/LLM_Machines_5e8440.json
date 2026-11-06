@@ -1,0 +1,1001 @@
+{
+ "name": "LLM Machines",
+ "aliases": [
+  "llm-machines"
+ ],
+ "context": "オンプレAIアプライアンス＋運用サービス（Yomi担ぎ候補）",
+ "researched_at": "2026-11-06T02:49:31.348267+00:00",
+ "official_url": "https://llm-machines.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "株主構成": [
+   {
+    "quote": "Integrate customer-owned applications only through a bounded engagement with explicit post-handoff ownership.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A practical checklist for private AI buyers: deployment location, operating authority, model updates, application ownership, acceptance, and capacity.",
+    "url": "https://llm-machines.com/blog/",
+    "pass": 1
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "A small technical team configuring and operating managed private inference for European enterprises. Bootstrapped on conviction.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bootstrapped with product focus.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "Chat Completions is the documented API protocol your favourite apps and harnesses use to access approved local models.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Models, API traffic, credentials and operational records stay inside the customer-controlled perimeter.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provider-specific APIs, model choices and policy controls can make switching costly. A documented API contract and portable components reduce that dependency.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect the applications and harnesses your teams already know through the documented API. Outcome-led integration consulting is scoped separately when needed.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A documented API contract, portable models, upstream-licensed third-party components and signed offline release and recovery paths support portability and operational control.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chat Completions is the documented API protocol they use to access approved local models, with stable credentials and tool-call transport.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Documented API + internal-use rights to first-party Product source",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "API credentials, approved model access, a documented API contract and a responsibility handoff for customer-owned applications.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identity federation, inference policies, API credentials and operational Console configuration.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "API handoff, isolation, backup and recovery tests, operational acceptance and ongoing maintenance.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Short answers for teams comparing on-prem AI, private AI platforms and cloud LLM APIs.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Nothing leaves your infrastructure. Models, API traffic, credentials and operational records remain inside your perimeter.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deployment follows a documented sequence covering discovery, sizing, distributor-backed procurement, installation, inference configuration, API handoff and operational acceptance.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We size, configure and operate private inference inside your perimeter. Your applications connect through the documented API. Nothing leaves your infrastructure.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Model selection, inference runtime, access controls and a documented API handoff.",
+    "url": "https://llm-machines.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Provider-specific APIs and policies",
+    "url": "https://llm-machines.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Documented API and source-available first-party Product source",
+    "url": "https://llm-machines.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your favourite apps and harnesses through our documented inference API. For custom workflows, we can scope a separate integration engagement with a measurable outcome.",
+    "url": "https://llm-machines.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The inference environment runs inside the environment you control. Customer applications connect through the documented API and remain outside the supported Product boundary. Nothing leaves your infrastructure.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Building without external capital keeps the team focused on a compact service, clear operating boundaries and capabilities customers can run reliably.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "That discipline shapes how we operate: local inference, a focused Console, an observability layer, lifecycle controls and a documented API contract. Customer application integration remains separately scoped.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "NIS2 expanded cybersecurity obligations to essential and important entities and put supply-chain risk on the board agenda. Customer-premises inference reduces dependency on external AI APIs while preserving local identity, observability and operational control.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The Data Act targets cloud lock-in and reinforces portability and switching rights. Upstream-licensed third-party components, portable models and a documented API contract keep the appliance inspectable and the application boundary familiar.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Chat Completions is the documented API protocol your favourite apps and harnesses use to access approved local models. Upstream-licensed third-party components and model portability keep your options open.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We operate private inference inside your infrastructure. Your applications and harnesses connect through the documented API.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "How LLM Machines sizes, configures and maintains private inference, with workload testing, documented APIs and agreed operating responsibilities.",
+    "url": "https://llm-machines.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "A hosted inference API can be a sensible starting point. The provider operates the serving infrastructure, and the customer can begin without buying a server. The terms for model availability, processing, usage limits and support become part of the selection. For a workload used occasionally, that arrangement may be easier to justify than maintaining dedicated capacity.",
+    "url": "https://llm-machines.com/blog/introducing-llm-machines-private-inference/",
+    "pass": 1
+   },
+   {
+    "quote": "LLM Machines' role is to put a supported inference configuration into that operating arrangement and keep it maintained. The customer retains control of its infrastructure and the decisions reserved to it. We provide workload discovery, sizing recommendations, configuration and ongoing support for the agreed inference environment, with a documented API for the applications the customer chooses.",
+    "url": "https://llm-machines.com/blog/introducing-llm-machines-private-inference/",
+    "pass": 1
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "From workload sizing and distributor-backed Supermicro procurement to inference configuration, observability, updates and recovery.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Distributor-backed Supermicro procurement.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We size enterprise Supermicro infrastructure and coordinate fulfilment through a distributor-backed channel.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Workload sizing, model selection, capacity planning and distributor-backed Supermicro procurement.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sized · distributor-backed · customer-controlled",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise infrastructure sized by LLM Machines and fulfilled through a distributor-backed procurement channel.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discovery, workload sizing, infrastructure design and distributor-backed procurement planning.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Organisations compare variable cloud consumption with capacity they can plan and control on their own hardware.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deployment follows a documented sequence covering discovery, sizing, distributor-backed procurement, installation, inference configuration, API handoff and operational acceptance.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A dedicated system sized for your workloads, sourced through our distributor-backed channel and configured for your environment.",
+    "url": "https://llm-machines.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Systems engineering, software development and infrastructure operations in one team. We size the environment, coordinate distributor-backed Supermicro procurement and support the service end to end.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "From workload sizing and distributor-backed Supermicro procurement to inference configuration, observability, updates and recovery.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Distributor-backed Supermicro procurement.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We size enterprise Supermicro infrastructure and coordinate fulfilment through a distributor-backed channel.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Workload sizing, model selection, capacity planning and distributor-backed Supermicro procurement.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sized · distributor-backed · customer-controlled",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise infrastructure sized by LLM Machines and fulfilled through a distributor-backed procurement channel.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discovery, workload sizing, infrastructure design and distributor-backed procurement planning.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deployment follows a documented sequence covering discovery, sizing, distributor-backed procurement, installation, inference configuration, API handoff and operational acceptance.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A dedicated system sized for your workloads, sourced through our distributor-backed channel and configured for your environment.",
+    "url": "https://llm-machines.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Systems engineering, software development and infrastructure operations in one team. We size the environment, coordinate distributor-backed Supermicro procurement and support the service end to end.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "To make sovereign AI practical through infrastructure customers control and an inference service they can operate with confidence.",
+    "url": "https://llm-machines.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To make sovereign AI practical through infrastructure customers control and a private inference service they can operate with confidence.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Building without external capital keeps the team focused on a compact service, clear operating boundaries and capabilities customers can run reliably.",
+    "url": "https://llm-machines.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The processing and storage locations, including those used by the application.",
+    "url": "https://llm-machines.com/blog/introducing-llm-machines-private-inference/",
+    "pass": 1
+   }
+  ],
+  "売上": [
+   {
+    "quote": "A hosted inference API can be a sensible starting point. The provider operates the serving infrastructure, and the customer can begin without buying a server. The terms for model availability, processing, usage limits and support become part of the selection. For a workload used occasionally, that arrangement may be easier to justify than maintaining dedicated capacity.",
+    "url": "https://llm-machines.com/blog/introducing-llm-machines-private-inference/",
+    "pass": 1
+   },
+   {
+    "quote": "The support and recovery responsibilities, including the access needed to carry them out.",
+    "url": "https://llm-machines.com/blog/introducing-llm-machines-private-inference/",
+    "pass": 1
+   },
+   {
+    "quote": "LLM Machines' role is to put a supported inference configuration into that operating arrangement and keep it maintained. The customer retains control of its infrastructure and the decisions reserved to it. We provide workload discovery, sizing recommendations, configuration and ongoing support for the agreed inference environment, with a documented API for the applications the customer chooses.",
+    "url": "https://llm-machines.com/blog/introducing-llm-machines-private-inference/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "On-Prem Inference Architecture - LLM Machines — On-Prem Inference Architecture - LLM Machines llm-machines.com https://llm-machines.com > technology",
+    "url": "https://llm-machines.com/technology/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mesh LLM : Distributed AI Inference Across Multiple Machines Mesh LLM : Distributed AI Inference Across Multiple Machines LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/curiouslearner_a-github-repo-is-built-around-one-painfully-activity-7482636697101340672-X6aJ",
+    "pass": 3
+   },
+   {
+    "quote": "Thinking Machines Lab Releases Open-Weight LLM Inkling Thinking Machines Lab Releases Open-Weight LLM Inkling LinkedIn https://www.linkedin.com > posts > se...",
+    "url": "https://www.linkedin.com/posts/sebastianraschka_interesting-surprise-open-weight-llm-drop-activity-7483517926508220416-eP8o",
+    "pass": 3
+   },
+   {
+    "quote": "Thinking Machines Lab solves LLM inference problem with ... Thinking Machines Lab solves LLM inference problem with ... LinkedIn https://www.linkedin.com > posts > ra...",
+    "url": "https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_thinking-machines-lab-just-solved-a-major-activity-7372371646042497025-Rucc",
+    "pass": 3
+   },
+   {
+    "quote": "Building LLM -ready design systems for humans and machines Building LLM -ready design systems for humans and machines LinkedIn https://www.linkedin.com > posts > th...",
+    "url": "https://www.linkedin.com/posts/the-craig-johnson_your-brand-now-has-a-second-audience-the-activity-7495542190534791168-cYVn",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://llm-machines.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm-machines.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm-machines.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm-machines.com/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm-machines.com/use-cases/regulated-enterprise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llm-machines.com/blog/introducing-llm-machines-private-inference/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/kagawatomo/n/nfa97baccac78",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ricoh.com/technology/ai/LLM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.nec/global/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpn.nec.com/techrep/journal/g23/n02/230214.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.governance-intelligence.com/how-creating-your-own-llm-could-help-you-think-and-act-your-investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.common-wealth.org/publications/dynamics-of-corporate-governance-beyond-ownership-in-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scnsoft.com/investment/large-language-models",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spheresmith.com/private-llms-for-institutional-investing-from-tenant-to-owner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brightmachines.com/llm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://venturebeat.com/technology/thinking-machines-first-official-product-is-here-meet-tinker-an-api-for",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technologyreview.jp/s/376613/yann-lecuns-new-venture-is-a-contrarian-bet-against-large-language-models/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/OpenAI/comments/1kmbr2m/are_any_llms_like_openai_claude_gemini_grok/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://medium.com/angularventures/revenue-durability-in-the-llm-world-5d655b22f07d",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.ycombinator.com/item?id=44570711",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lesswrong.com/posts/ARRe4qjcuaRDBfARc/how-the-ai-labs-make-profit-maybe-eventually",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.intuitivemachines.com/news-releases/news-release-details/intuitive-machines-reports-first-quarter-2026-financial-results/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.lumen.com/financials/quarterly-results/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://intellizence.com/insights/startup-funding/the-llm-funding-boom-key-insights-in-a-snapshot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/cbinsights/posts/llm-developers-are-pulling-in-massive-funding-and-anthropic-just-took-another-bi/979388070986382/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/the-llm-data-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://discuss.huggingface.co/t/buying-advice-for-local-llm-machine/147169",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adventuresincre.com/how-to-install-llm-locally/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1glbj5k/d_genuine_question_why_people_want_run_local_llm/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=QKdKcFjjZhE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://leanware.co/insights/white-label-llm-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revelry.co/insights/how-to-run-a-private-llm-server-on-a-laptop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iternal.ai/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labelstud.io/guide/ml_tutorials/llm_interactive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leanware.co/insights/white-label-llm-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nimdzi.com/llm-solutions-and-how-to-use-them/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://se10.com/should-pr-agencies-rebrand-as-geo-or-llm-influence-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1kq8bj9/an_engineer_told_me_on_the_weekend_he_has_his_own/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://iternal.ai/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openhands.dev/blog/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/698593531630485/posts/1216717406484759/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://iternal.ai/local-llm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intumit.com/llm-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/msp/comments/1mute9v/anyone_have_a_suggestion_for_a_good_local_llm/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.comet.com/site/blog/build-local-llm-server/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/html/2407.17866v1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mccormick.northwestern.edu/computer-science/documents/dong-shu-nu-cs-2025-14.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daloopa.com/blog/analyst-best-practices/can-large-language-model-analyze-financial-statements-well",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=eUmqhBhe9mk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://developer.nvidia.com/blog/developing-a-172b-llm-with-strong-japanese-capabilities-using-nvidia-megatron-lm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m7d9d9/where_is_japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://engelsbergideas.com/essays/japans-llm-language-barrier/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://swallow-llm.github.io/index.en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/hub/machine-learning-acquired-companies-less-than-50m-in-revenue",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/crunchbase",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/the-llm-data-company",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/curiouslearner_a-github-repo-is-built-around-one-painfully-activity-7482636697101340672-X6aJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sebastianraschka_interesting-surprise-open-weight-llm-drop-activity-7483517926508220416-eP8o",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_thinking-machines-lab-just-solved-a-major-activity-7372371646042497025-Rucc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/the-craig-johnson_your-brand-now-has-a-second-audience-the-activity-7495542190534791168-cYVn",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LLM Machines 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://note.com/kagawatomo/n/nfa97baccac78",
+    "https://jp.ricoh.com/technology/ai/LLM",
+    "https://group.nec/global/ja/",
+    "https://jpn.nec.com/techrep/journal/g23/n02/230214.html",
+    "https://group.ntt/jp/newsrelease/2025/07/07/250707b.html",
+    "https://www.abejainc.com/news/20230316/1",
+    "https://www.dmprof.com/ja/news/20261104-edgetech-2026/",
+    "https://www.tdc.co.jp/service/digital-x-column066/",
+    "https://sakana.ai/",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "LLM Machines shareholders ownership investors parent company",
+   "results": [
+    "https://www.governance-intelligence.com/how-creating-your-own-llm-could-help-you-think-and-act-your-investors/",
+    "https://www.common-wealth.org/publications/dynamics-of-corporate-governance-beyond-ownership-in-ai",
+    "https://www.scnsoft.com/investment/large-language-models",
+    "https://spheresmith.com/private-llms-for-institutional-investing-from-tenant-to-owner/",
+    "https://www.thedeload.com/p/understanding-ai-llm-basics-for-investors",
+    "https://web.media.mit.edu/~xdong/paper/jpm24b.pdf",
+    "https://americanaffairsjournal.org/2026/02/understanding-the-llm-bubble/",
+    "https://www.openmic.org/news/investor-brief-the-case-against-multi-class-share-structures-for-ai",
+    "https://en.wikipedia.org/wiki/OpenAI",
+    "https://www.editorworld.com/article/who-owns-chatgpt"
+   ]
+  },
+  {
+   "query": "LLM Machines 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.brightmachines.com/llm/",
+    "https://venturebeat.com/technology/thinking-machines-first-official-product-is-here-meet-tinker-an-api-for",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB",
+    "https://www.technologyreview.jp/s/376613/yann-lecuns-new-venture-is-a-contrarian-bet-against-large-language-models/",
+    "https://cobusgreyling.medium.com/llms-are-average-machines-6b7f16aa17ab",
+    "https://llm-machines.com/company/",
+    "https://home.mlops.community/public/videos/building-llm-applications-for-production",
+    "https://thinkingmachines.ai/",
+    "https://toloka.ai/blog/history-of-llms/",
+    "https://ja.wikipedia.org/wiki/DeepSeek"
+   ]
+  },
+  {
+   "query": "LLM Machines revenue profitable",
+   "results": [
+    "https://www.reddit.com/r/OpenAI/comments/1kmbr2m/are_any_llms_like_openai_claude_gemini_grok/",
+    "https://medium.com/angularventures/revenue-durability-in-the-llm-world-5d655b22f07d",
+    "https://news.ycombinator.com/item?id=44570711",
+    "https://www.lesswrong.com/posts/ARRe4qjcuaRDBfARc/how-the-ai-labs-make-profit-maybe-eventually",
+    "https://x.com/jiayq/status/1750650679662920180",
+    "https://seekingalpha.com/article/4925874-why-llms-are-a-bad-business-even-at-70-percent-margins",
+    "https://www.linkedin.com/pulse/unattainable-economics-llms-why-ai-race-may-collapse-pierre-jean-wtpkf",
+    "https://www.facebook.com/groups/runlocalai/posts/1508114914449551/",
+    "https://blog.tobiaszwingmann.com/p/how-to-run-local-ai-that-pays-for-itself",
+    "https://appscalelab.com/llm-chatbots-4-ways-to-profit-in-2026/"
+   ]
+  },
+  {
+   "query": "LLM Machines EBITDA net income annual report",
+   "results": [
+    "https://investors.intuitivemachines.com/news-releases/news-release-details/intuitive-machines-reports-first-quarter-2026-financial-results/",
+    "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "https://ir.lumen.com/financials/quarterly-results/default.aspx",
+    "https://www.sec.gov/Archives/edgar/data/1513845/000110465926064092/nbis-20260331xex99d1.htm",
+    "https://arxiv.org/html/2407.17866v1",
+    "https://www.partnersgroup.com/~/media/Files/P/Partnersgroup/Universal/shareholders/reports-and-presentations/2026/annual-report-2025.pdf",
+    "https://www.v7labs.com/blog/how-to-read-a-10k-report-ai-sec-filings-guide",
+    "https://blog.dottxt.ai/extracting-financial-data.html",
+    "https://www.informa.com/globalassets/documents/investor-relations/2026/2025-informa-annual-report.pdf",
+    "https://www.investing.com/pro/HNX:LLM/explorer/ebitda"
+   ]
+  },
+  {
+   "query": "LLM Machines funding raised",
+   "results": [
+    "https://intellizence.com/insights/startup-funding/the-llm-funding-boom-key-insights-in-a-snapshot/",
+    "https://www.facebook.com/cbinsights/posts/llm-developers-are-pulling-in-massive-funding-and-anthropic-just-took-another-bi/979388070986382/",
+    "https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/",
+    "https://startupintros.com/orgs/the-llm-data-company",
+    "https://www.linkedin.com/posts/karlsmith2_yann-lecun-just-raised-1bn-to-prove-the-activity-7437645287336112128-KFAS",
+    "https://www.reuters.com/technology/artificial-intelligence/ai-focused-manufacturing-startup-raises-106-million-nvidia-others-2024-06-25/",
+    "https://www.landbase.com/blog/fastest-growing-llm-infrastructure",
+    "https://www.pnas.org/doi/10.1073/pnas.2601439123",
+    "https://aifunding.me/insights/top-llm-open-source-startups-2026",
+    "https://www.forbes.com/sites/the-prompt/2026/09/15/this-200-million-startup-wants-to-fix-ais-overconfidence-problem/"
+   ]
+  },
+  {
+   "query": "LLM Machines acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://discuss.huggingface.co/t/buying-advice-for-local-llm-machine/147169",
+    "https://www.adventuresincre.com/how-to-install-llm-locally/",
+    "https://www.reddit.com/r/MachineLearning/comments/1glbj5k/d_genuine_question_why_people_want_run_local_llm/",
+    "https://www.youtube.com/watch?v=QKdKcFjjZhE",
+    "https://www.ai21.com/glossary/foundational-llm/closed-source-llm/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0278612525000834",
+    "https://revelry.co/insights/how-to-run-a-private-llm-server-on-a-laptop/",
+    "https://julsimon.medium.com/what-to-buy-for-local-llms-april-2026-a4946a381a6a",
+    "https://www.mdpi.com/1424-8220/26/9/2733",
+    "https://hatchworks.com/blog/gen-ai/open-source-vs-closed-llms-guide/"
+   ]
+  },
+  {
+   "query": "LLM Machines white label",
+   "results": [
+    "https://leanware.co/insights/white-label-llm-guide",
+    "https://revelry.co/insights/how-to-run-a-private-llm-server-on-a-laptop/",
+    "https://iternal.ai/local-llm",
+    "https://labelstud.io/guide/ml_tutorials/llm_interactive",
+    "https://anythingllm.com/",
+    "https://onyx.app/insights/self-hosted-llm-teams",
+    "https://www.youtube.com/watch?v=QKdKcFjjZhE",
+    "https://www.microcenter.com/site/mc-news/article/best-local-llms-8gb-16gb-32gb-memory-guide.aspx",
+    "https://www.steeman.be/posts/building-a-local-llm-workstation/"
+   ]
+  },
+  {
+   "query": "LLM Machines rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://leanware.co/insights/white-label-llm-guide",
+    "https://www.nimdzi.com/llm-solutions-and-how-to-use-them/",
+    "https://se10.com/should-pr-agencies-rebrand-as-geo-or-llm-influence-agencies/",
+    "https://www.reddit.com/r/AI_Agents/comments/1kq8bj9/an_engineer_told_me_on_the_weekend_he_has_his_own/",
+    "https://impulsecreative.com/services/voice/brand-as-prompt",
+    "https://pub.towardsai.net/moltbot-clawdbot-explained-wildest-story-in-ai-right-now-63dfb7b297a0",
+    "https://dev.to/sagiadinos/stop-calling-llms-ai-1ihk",
+    "https://verveagency.com/insights/ai-category-branding-leadership",
+    "https://botpenguin.com/blogs/white-label-business-opportunities",
+    "https://nichedropshipping.com/create-your-private-label/"
+   ]
+  },
+  {
+   "query": "LLM Machines OEM SDK licensing partners",
+   "results": [
+    "https://iternal.ai/local-llm",
+    "https://www.openhands.dev/blog/local-llm",
+    "https://llm-machines.com/technology/",
+    "https://www.facebook.com/groups/698593531630485/posts/1216717406484759/",
+    "https://intuitionlabs.ai/articles/llm-inference-hardware-enterprise-guide",
+    "https://cpl.thalesgroup.com/software-monetization/sdk-licensing",
+    "https://local-ai-zone.github.io/guides/ai-model-licensing-complete-legal-guide-2025.html",
+    "https://fireworks.ai/blog/best-llm-api-providers",
+    "https://inero-software.com/llm-implementation-and-maintenance-costs-for-businesses-a-detailed-breakdown/",
+    "https://www.luxand.com/llm-sdk/pricing/"
+   ]
+  },
+  {
+   "query": "LLM Machines reseller partner program",
+   "results": [
+    "https://iternal.ai/local-llm",
+    "https://www.intumit.com/llm-partner/",
+    "https://www.reddit.com/r/msp/comments/1mute9v/anyone_have_a_suggestion_for_a_good_local_llm/",
+    "https://www.comet.com/site/blog/build-local-llm-server/",
+    "https://developer.apple.com/videos/play/wwdc2026/339/",
+    "https://revelry.co/insights/how-to-run-a-private-llm-server-on-a-laptop/",
+    "https://www.youtube.com/watch?v=VXHryjPu52k",
+    "https://cohere.com/partners",
+    "https://s5labs.io/resources/local-llm-machines/",
+    "https://www.llmaudit.ai/referral-program"
+   ]
+  },
+  {
+   "query": "LLM Machines Jahresabschluss OR financial statements",
+   "results": [
+    "https://arxiv.org/html/2407.17866v1",
+    "https://www.mccormick.northwestern.edu/computer-science/documents/dong-shu-nu-cs-2025-14.pdf",
+    "https://daloopa.com/blog/analyst-best-practices/can-large-language-model-analyze-financial-statements-well",
+    "https://www.youtube.com/watch?v=eUmqhBhe9mk",
+    "https://www.linkedin.com/posts/andreretterath_financial-statement-analysis-with-large-language-activity-7199289952910667776-14At",
+    "https://www.crediflow.ai/blog/llm-financial-statement-analysis",
+    "https://www.cognica.io/en/blog/posts/2025-11-18-llm-pdf-financial-statement-extraction",
+    "https://blog.dottxt.ai/extracting-financial-data.html",
+    "https://neo4j.com/blog/developer/analyzing-annual-reports-llm-graph/",
+    "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets"
+   ]
+  },
+  {
+   "query": "LLM Machines Japan",
+   "results": [
+    "https://developer.nvidia.com/blog/developing-a-172b-llm-with-strong-japanese-capabilities-using-nvidia-megatron-lm/",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1m7d9d9/where_is_japan/",
+    "https://engelsbergideas.com/essays/japans-llm-language-barrier/",
+    "https://swallow-llm.github.io/index.en.html",
+    "https://aws.amazon.com/blogs/machine-learning/unlocking-japanese-llms-with-aws-trainium-innovators-showcase-from-the-aws-llm-development-support-program/",
+    "https://www.thefastmode.com/technology-solutions/46499-rakuten-ai-3-0-debuts-as-cost-efficient-high-performance-japanese-llm",
+    "https://www.linkedin.com/posts/leonfurze_shisa-v2-405b-japans-highest-performing-activity-7335549802488705025-UPXi",
+    "https://llm-jp.nii.ac.jp/en/home-en/",
+    "https://www.science.co.jp/en/annotation_blog/39133/",
+    "https://llm-jp.nii.ac.jp/"
+   ]
+  },
+  {
+   "query": "LLM Machines employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/",
+    "https://www.crunchbase.com/hub/machine-learning-acquired-companies-less-than-50m-in-revenue",
+    "https://www.crunchbase.com/organization/crunchbase",
+    "https://www.crunchbase.com/organization/the-llm-data-company",
+    "https://www.crunchbase.com/organization/traceloop",
+    "https://www.linkedin.com/posts/dealroom-co_where-do-ai-companies-rank-against-big-tech-activity-7317539243893944320-_ove",
+    "https://www.zoominfo.com/c/crunchbase/347668538",
+    "https://dealroom.co/llms.txt",
+    "https://www.owler.com/company/crunchbase",
+    "https://dealroom.co/our-data/"
+   ]
+  },
+  {
+   "query": "site:note.com LLM Machines",
+   "results": [
+    "https://note.com/kaki_ki/n/n9d38c8dca767?hl=en",
+    "https://note.com/high_u/n/n4cf25a8a1032?hl=en",
+    "https://note.com/zephel01/n/n3c06e5d70a71?hl=en",
+    "https://note.com/npaka/n/n0ee92a316be3?hl=en",
+    "https://note.com/iritec/n/naf1f0ddc0b11?hl=en",
+    "https://note.com/iwai/n/n7f4602a0fe70?hl=en",
+    "https://note.com/dwarf_rabbit/n/n102bbad38740?hl=en",
+    "https://note.com/npaka/n/n5bee919c99f4?hl=en",
+    "https://note.com/masa_wunder/n/nb942c91ef871?hl=en",
+    "https://note.com/plu_tra_/n/nb3cacb97b8f5?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com LLM Machines",
+   "results": [
+    "https://x.com/karpathy/status/1733299213503787018",
+    "https://x.com/MohapatraHemant/status/1890989313287926002",
+    "https://x.com/thinkymachines/status/1965826369721623001",
+    "https://x.com/TheAhmadOsman/article/2057183854444843202",
+    "https://x.com/gkisokay/status/2046935822096855379",
+    "https://x.com/svembu/status/2025038964906975267",
+    "https://x.com/i/article/2102260791298986323",
+    "https://x.com/AndrewYNg/article/2090840747738374568",
+    "https://x.com/AndrewYNg/status/1907471607314133126",
+    "https://x.com/_llm_d_"
+   ]
+  },
+  {
+   "query": "site:linkedin.com LLM Machines",
+   "results": [
+    "https://www.linkedin.com/posts/curiouslearner_a-github-repo-is-built-around-one-painfully-activity-7482636697101340672-X6aJ",
+    "https://www.linkedin.com/posts/sebastianraschka_interesting-surprise-open-weight-llm-drop-activity-7483517926508220416-eP8o",
+    "https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_thinking-machines-lab-just-solved-a-major-activity-7372371646042497025-Rucc",
+    "https://www.linkedin.com/posts/the-craig-johnson_your-brand-now-has-a-second-audience-the-activity-7495542190534791168-cYVn",
+    "https://www.linkedin.com/pulse/open-source-vs-weight-thinking-machines-new-llm-right-simon-dixon-ncb0e",
+    "https://www.linkedin.com/posts/olga-maydanchik-23b3508_llm-vs-traditional-ml-whats-the-difference-activity-7329942066975703041-3MuF",
+    "https://www.linkedin.com/posts/hemantmohapatra_an-llm-is-an-infinite-memory-instant-recall-activity-7296754278050709504-XFk5",
+    "https://www.linkedin.com/posts/fjheritage_we-have-llm-benchmarks-to-assess-how-much-activity-7396881791103479808-7VuZ",
+    "https://www.linkedin.com/posts/jacobadm_how-to-run-a-local-llm-complete-guide-to-activity-7357727157390852096-WiuT",
+    "https://www.linkedin.com/pulse/designing-factory-future-role-llms-modern-machinery-brim-labs-3cvyc/"
+   ]
+  },
+  {
+   "query": "site:facebook.com LLM Machines",
+   "results": [
+    "https://www.facebook.com/groups/1283855437217819/posts/1343024391300923/",
+    "https://www.facebook.com/groups/1283855437217819/posts/1346364627633566/",
+    "https://www.facebook.com/groups/runlocalai/posts/1359518649309179/",
+    "https://www.facebook.com/groups/n8ndevelopers/posts/1731007830814506/",
+    "https://www.facebook.com/groups/698593531630485/posts/1044380323718469/",
+    "https://www.facebook.com/groups/1577315533418837/posts/1649651932851863/",
+    "https://www.facebook.com/groups/developerkaki/posts/2808351619510733/",
+    "https://www.facebook.com/groups/1283855437217819/posts/1367050908898271/",
+    "https://www.facebook.com/groups/HomeAssistant/posts/4229393940665277/",
+    "https://www.facebook.com/groups/ethio.nesiha/posts/26741102918832834/"
+   ]
+  },
+  {
+   "query": "LLM Machines note 社長",
+   "results": [
+    "https://www.reddit.com/r/ObsidianMD/comments/1s6y4sa/does_llm_usage_for_note_taking_defeat_the_purpose/",
+    "https://note.com/futurespirits/n/n91ddd541118a",
+    "https://www.ibm.com/think/topics/large-language-models",
+    "https://note.jp/n/nf016d2c0bc2f",
+    "https://note.com/takuya_kubo_1986/n/nded1c24a1328",
+    "https://www.fca.org.uk/publications/research-notes/money-talks-lessons-2-llm-pilots-consumer-guidance",
+    "https://job.persona-ats.com/en/note/jobs/53b964f8-dd46-4fd6-a70c-8e650b8c129e",
+    "https://www.youtube.com/watch?v=KCXDr-UOb9A",
+    "https://note.com/mogamin2/n/n26d3c0ad2334",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "LLM Machines X 投稿",
+   "results": [
+    "https://x.com/_llm_d_",
+    "https://www.reddit.com/r/LLMDevs/comments/1uit4k0/why_there_are_so_many_llm_people_on_x/",
+    "https://arxiv.org/abs/2305.04160",
+    "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "https://www.youtube.com/watch?v=xfhQby_L9-o",
+    "https://cobusgreyling.medium.com/llms-are-average-machines-6b7f16aa17ab",
+    "https://x-llm.github.io/",
+    "https://github.com/phellonchen/X-LLM",
+    "https://www.youtube.com/watch?v=vXiB0UdDhk8",
+    "https://www.mdpi.com/journal/machines/instructions"
+   ]
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）",
+  "設立": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）",
+  "代表者": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）",
+  "資金調達": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）",
+  "存続": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）",
+  "ホワイトラベル明言": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部59頁・検索20回）"
+ }
+}

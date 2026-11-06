@@ -1,0 +1,2206 @@
+{
+ "name": "Zylon",
+ "aliases": [
+  "Zylon AI"
+ ],
+ "context": "プライベートAI基盤（オンプレ）（Yomi担ぎ候補）",
+ "researched_at": "2026-11-06T03:13:47.982431+00:00",
+ "official_url": "https://www.zylon.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Valdemorillo, Madrid, Spain",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "資金調達": [
+   {
+    "quote": "Credit unions, banks, insurance companies, and investment firms. Analyze deals, automate member service inquiries, process loan documents, and run compliance checks—all without sending sensitive financial data to the cloud.",
+    "url": "https://www.zylon.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build or Buy a Private AI Platform? The 12-Week Evaluation Playbook for Regulated Teams",
+    "url": "https://www.zylon.ai/resources/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Announcing Zylon's $3.2M Pre-Seed Funding Round",
+    "url": "https://www.zylon.ai/resources/blog",
+    "pass": 1
+   },
+   {
+    "quote": "This includes concepts such as prompting, hallucinations, context windows, retrieval, model limitations, data privacy, evaluation, and human oversight. Employees do not need to become AI engineers, but they do need to understand enough to avoid naive usage.",
+    "url": "https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Orgvue research on rising AI investment and workforce design, reported by ITPro",
+    "url": "https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "objective drift: what the business needs changes, but the KPI and evaluation set stay frozen",
+    "url": "https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams",
+    "pass": 1
+   },
+   {
+    "quote": "This is where private AI platform design matters. Teams need consistent control over model versioning, retrieval pipelines, evaluation logs, and deployment boundaries. Without that control, monitoring becomes a collection of disconnected tools and spreadsheets. With that control, monitoring becomes an operating loop.",
+    "url": "https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams",
+    "pass": 1
+   },
+   {
+    "quote": "the build-vs-buy evaluation post",
+    "url": "https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon, March 9, 2026, \"Build or Buy a Private AI Platform? The 12-Week Evaluation Playbook for Regulated Teams\" —",
+    "url": "https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams",
+    "url": "https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Prompting for “best answer” without defining evaluation criteria.",
+    "url": "https://www.zylon.ai/resources/blog/prompt-engineering-basics-for-enterprise-teams-a-plain-language-explainer",
+    "pass": 1
+   },
+   {
+    "quote": "Build or Buy a Private AI Platform? The 12-Week Evaluation Playbook for Regulated Teams - Zylon Blog",
+    "url": "https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Most regulated enterprises are no longer debating whether to operationalize AI; they are deciding whether to build a private stack internally or buy a platform that accelerates deployment. This playbook gives CIOs, CDOs, and risk leaders a practical 12-week evaluation model that balances speed, control, and long-term cost.",
+    "url": "https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams",
+    "pass": 1
+   },
+   {
+    "quote": "A better approach is to run a time-boxed evaluation with explicit decision gates.",
+    "url": "https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams",
+    "pass": 1
+   },
+   {
+    "quote": "The 12-Week Evaluation Model",
+    "url": "https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams",
+    "pass": 1
+   },
+   {
+    "quote": "But even in this scenario, teams underestimate the hidden burden of long-term reliability work: dependency management, incident response playbooks, connector hardening, evaluation operations, and policy-to-runtime mapping.",
+    "url": "https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Run a 12-week evaluation with shared workflows, identical control requirements, and hard evidence gates. You will get a better answer than months of architecture debate, and your teams will move from \"AI discussion\" to \"AI operations\" with far less confusion.",
+    "url": "https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon: Funding, Team & Investors | Startup Intros",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon has raised $3.0M across 1 funding round.",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "1 funding round",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "How much funding has Zylon raised?",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon has raised $3.0M in total across 1 funding round.",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon has raised $3.0M across 1 funding round. Most recently, it raised $3.0M Seed in February 2024.",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Funding Rounds Raised",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "$3.0M raised",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "$3M Seed",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Who are Zylon's investors?",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon's investors include SNR, Talis Capital.",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": ", remote but founded in Madrid, Spain, is announcing exclusively via VentureBeat a $3.2 million pre-seed funding round and the public availability of its enterprise-grade, easy-to-use, flexible generative AI web workspace.",
+    "url": "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "pass": 3
+   },
+   {
+    "quote": "The company's vision has already garnered the support of industry veterans and investors. Viviana Faga, General Partner at Felicis, expressed confidence in the founders' vision and technical prowess, foreseeing Zylon's role as a catalyst in the AI ecosystem's growth.",
+    "url": "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "pass": 3
+   },
+   {
+    "quote": "7-figure pre-seed round from world-class VCs",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Difficulty in attracting investment or scaling with predictable growth.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon Raises $3.2 Million in Pre-Seed Funding",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon, a Madrid, Spain-based GenAI application for every workplace not requiring tech or prompt engineering skills to be used, raised $3.2 million in pre-seed funding.",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Raised: $3.2M",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Funding Month: February 2024",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Lead Investors: Felicis",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Additional Investors: LifeX Ventures, Zypsy, Travis McPeak, Kirill Tashilov, and Hans-Christian Zappel",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.finsmes.com/2024/02/zylon-raises-3-2m-in-seed-funding.html",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Pay2o Raises ¥170M Seed",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Takenos Raises $7M Seed Extension",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Enza Raises $6M Seed Extension",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Atmospheric AI Raises $10M Seed",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensory Evaluation Services",
+    "url": "https://en.toyobo-mc.jp/products/zylon/",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluation and Refinement:",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Access financial reports, stock information, governance details, and investor communications for Avient.",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Collaboration & Evaluation",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   }
+  ],
+  "ホワイトラベル明言": [
+   {
+    "quote": "The interface your teams use daily. AI assistant, document creation, knowledge base access, collaborative projects, data integrations and connectors with your existing systems and tools—all powered by your private data.",
+    "url": "https://www.zylon.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build domain-specific AI agents powered by your private LLMs, internal knowledge bases, and governed tools. Deploy production-grade agents that operate fully on-premise with controlled model access, secure data retrieval, and multi-step reasoning. Designed for regulated industries where accuracy, attribution, and auditability are mandatory, not optional. Compliant with",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Extend Zylon with custom tools via MCP. Build specialized capabilities for your domain and make them available to all Zylon users.",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by Top Rated Local®",
+    "url": "https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon AI core is now powered by agents using different tools depending on the task to solve.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Now is possible to add a new integration for the Knowledge Base, in case you have a File System powered by SMB.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve added full whitelabel support, so you can now customize the AI assistant name to match your company branding.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Whitelabel Zylon Agent",
+    "url": "https://docs.zylon.ai/en/v1.57/operator-manual/configuration/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon has whitelabel support, so you can now customize the AI assistant name to match your company branding.",
+    "url": "https://docs.zylon.ai/en/v1.57/operator-manual/configuration/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "Great designs are the perfect way to attract business for your brand, and Zylon’s designers provide you with the best and most innovatively designed website. We believe that your website shouldn’t be yet another usual URL scattered on the web without any traction. Good website design is the most impactful and authoritative marketing tool for your brand’s success.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Craft a compelling narrative that communicates your brand’s essence.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Develop high-quality content that aligns with your brand’s voice.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure every interaction with your brand is positive and consistent.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Create packaging that reflects your brand and appeals to your customers.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "At Zylon, our branding process is thorough and collaborative, ensuring your brand’s success:",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Choose Zylon for Your Branding Needs?",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing Zylon for your branding needs ensures you partner with a team dedicated to excellence and innovation. Here’s why we stand out:",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Can you rebrand an existing business?",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "How much do your branding services cost?",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, we offer ongoing support and management to ensure your brand remains consistent and effective over time.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Clothing Manufacturer, Supplier & Exporter",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Clothing Manufacturer",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "Elevate your clothing brand to newer heights with the support of an expert private label clothing manufacturer. Our focus on high-quality exemplary finish and timeliness provides your business with a sharp, professional edge.",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "As a clothing manufacturer with decades of experience producing for European markets, we understand global trends and quality standards. Our in-house team of designers and production experts work closely with you to develop a line that aligns with your brand identity and market goals.",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "Our private label collections are built on a foundation of modern, elegant European styling – from boho resortwear to casual western dresses, trousers, jumpsuits, and tops.",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "We offer complete design customization – styles, sizing, trims, packaging, tags, and labels – all under your brand name.",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "From product development and sampling to final production, finishing, and global delivery – we handle it all so you can focus on growing your brand.",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "Let’s Build Your Brand, Together",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "Partnering with Dezylon means gaining access to a creative, reliable, and experienced private label clothing manufacturer that understands global fashion and modern business needs. We simplify the entire process — from idea to finished collection — while helping you maintain healthy margins and brand identity.",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "We have made crinkled cotton clothing manufacturing and printing uncomplicated and effortless. Explore our extensive catalogue and shape this exciting material in your designs. Be it men's t-shirts and hoodies or women's tops and dresses, the versatility of this material can make your brand stand out from the rest as a unique private label for men and women.",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "Dezylon - Your One stop destination for Private Label Clothing Manufacturing",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "Dezylon provides you the best clothing manufacturing facility in the industry which is well-equipped to handle all your private label...",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "Looking For Best Private Label Clothing Manufacturer",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "When looking for the best private label clothing manufacturers, we all know that there are numerous options in our country so it’s not...",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring Best Private Label Clothing Manufacturers India.",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "While starting up your project, it is not always necessary for a private label retailer to run their own in-house manufacturing unit....",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   }
+  ],
+  "OEM・組込み": [
+   {
+    "quote": "Not a wrapper—a complete AI infrastructure. LLMs, vector search, ingestion, API Gateway, and workspace included.",
+    "url": "https://www.zylon.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon follows OpenAI and Anthropic API Gateway standards. Integrate with your existing AI tooling, automation workflows, and development environments.",
+    "url": "https://www.zylon.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated with Zylon Core and API",
+    "url": "https://www.zylon.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Check out our open positions to join the team that is shaping the future of private AI",
+    "url": "https://www.zylon.ai/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Governed On-Premise AI API for Regulated Industries | Zylon - API Gateway",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "What the API Gateway Enables",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Secure API infrastructure for private, on-premise enterprise AI",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon is an enterprise AI platform delivering private generative AI and on-premise AI software for regulated industries, enabling secure deployment inside enterprise infrastructure without external cloud dependencies. This is everything that's inside of Zylon's API Gateway:",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike direct integrations with cloud APIs like OpenAI or local inference tools like Ollama, every request through Zylon’s API Gateway is policy-controlled.",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Private API Gateways for Private AI. Secure by default. No exceptions layer required.",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Two layers of governed API access for private, on-premise enterprise AI — from low-level AI capabilities to high-level workspace and administrative automation.",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon follows API standards used by OpenAI and Anthropic",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Change base URL + API key → your tools continue working.",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Developers use familiar API patterns",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Change the base URL and API key, and tools like Continue, Cursor, LangChain, and custom applications work with Zylon.",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Semantic query-to-SQL translation. Ask questions in natural language, execute SQL queries, and get results, all through the API.",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "API volume and latency",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Every API request captures:",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "API Gateway works in fully disconnected environments. Tools requiring external access (like web search) can be disabled for air-gapped deployments.",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon's Platform APIs",
+    "url": "https://www.zylon.ai/resources/blog/zylon-partners-with-telef%C3%B3nica-tech-to-revolutionize-private-enterprise-ai-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "also corroborates energy and CO2 savings of 30 to 50 percent with accuracy retained. Fewer GPUs mean lower energy draw and lower capital expenditure, and Zylon caps software cost. For organizations facing high energy prices alongside EU AI Act and ESG obligations, that is a total-cost-of-ownership case rather than just a compliance obligation.",
+    "url": "https://www.zylon.ai/resources/blog/multiverse-computing-and-zylon-partner-to-deliver-sovereign-efficient-ai-inside-europe-s-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Not “write a poem” exercises. Not generic productivity demos. Real tasks.",
+    "url": "https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "n8n is becoming important in this conversation because it gives teams a visual way to build automations that connect systems, APIs, business logic, and AI models.",
+    "url": "https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "That is where n8n, connectors, private AI, and governed APIs become strategic. They are not just technical features. They are the building blocks for making AI part of the business process instead of another tab employees have to remember to open.",
+    "url": "https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "n8n integrations directory, including AI categories, agents, chains, embeddings, language models, tools, document loaders, vector stores, memory, and MCP-related integrations. (",
+    "url": "https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon platform overview, including private generative AI, on-premise AI, AI Core, Workspace, API Gateway, data integrations, connectors, n8n, and LangChain integration. (",
+    "url": "https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon AI Core page, including agentic RAG, orchestration, embedded n8n automation, and on-premise or air-gapped deployment references. (",
+    "url": "https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon API Gateway page, including governed API access, authentication, model access controls, guardrails, rate limits, knowledge base restrictions, and audit logging. (",
+    "url": "https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "None of the four bugs found were critical individually. A URL fetcher that would proxy requests to internal services. Test authentication mode left on in production, where a static six-digit code could create any account. A missing role check on a company admin endpoint. An API that assigned corporate membership based on email domain alone, with no verification of who actually owned that domain.",
+    "url": "https://www.zylon.ai/resources/blog/your-ai-has-a-new-attack-surface.-most-security-teams-don-t-know-it-exists.",
+    "pass": 1
+   },
+   {
+    "quote": "— the full path from document upload to retrieval, including third-party vector stores and embedding APIs",
+    "url": "https://www.zylon.ai/resources/blog/your-ai-has-a-new-attack-surface.-most-security-teams-don-t-know-it-exists.",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon's investors include SNR, Talis Capital.",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": ": Builds on PrivateGPT's API blocks into a versatile workspace with robust APIs, advanced features, and compliance, targeting non-developers in data-sensitive orgs.[1]",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "The round was led by Felicis with participation from LifeX Ventures, Zypsy, and other strategic angels like Travis McPeak co-founder of Resourcely, Kirill Tashilov of Talis Capital, and Hans-Christian Zappel founder of IMMO.",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2006, Felicis Ventures is a venture capital firm based in Menlo Park, California. The firm seeks to invest across all industries and sectors.",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": ": New API to monitor system resources and AI workload metrics in real-time.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Backoffice logging API",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": ": All users can now generate their own personal workspace API tokens directly from their account settings, without requiring administrator intervention.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "This version contains a breaking change regarding Workspace API Tokens.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "A dedicated, isolated software service that sits at the boundary between clients and Zylon’s internal APIs.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": ", enabling users to authenticate and interact with the Zylon API, unlocking deeper integrations and customization of workflows.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": ": Developers and Zylon admins can now create, revoke, and manage API tokens directly inside the workspace. This change reduces operational friction when building integrations.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic-compatible API endpoints",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "API Refactor: Enhanced ZGPT API with automatic context management and direct tool integration, streamlining development workflows through intelligent request handling",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "If you are using the low-level API directly, please review carefully our",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "🚫 Deprecated endpoints in Low-Level API have been removed",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Fixed a problem in title chat generation that it was creating titles without capital letters.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Force streaming mode in low level API",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Trying to ingest documents from Confluence was failing due to a breaking change in Atlassian API",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Prepare and update Nvidia Drivers and Toolkit:",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing & Rapid Prototyping",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "Zylon is built by the creators of PrivateGPT—the open-source project with 57,000+ GitHub stars used by Google, Meta, J.P. Morgan, and thousands of developers worldwide. We took that foundation and made it enterprise-ready.",
+    "url": "https://www.zylon.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon delivers private enterprise AI software for regulated industries, including financial institutions, engineering firms, manufacturing companies, and public-sector organizations. The platform is used by enterprises that manage sensitive or confidential information and must comply with internal security policies, industry regulations, and data sovereignty requirements.",
+    "url": "https://www.zylon.ai/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon follows API standards used by OpenAI and Anthropic",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "Telefónica, serving over 380 million customers globally, selected us to enhance their artificial intelligence offering specifically for enterprises requiring maximum data security and regulatory compliance. The partnership addresses the growing demand for",
+    "url": "https://www.zylon.ai/resources/blog/zylon-partners-with-telef%C3%B3nica-tech-to-revolutionize-private-enterprise-ai-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers increasingly demand AI solutions that respect data boundaries while delivering transformational productivity gains",
+    "url": "https://www.zylon.ai/resources/blog/zylon-partners-with-telef%C3%B3nica-tech-to-revolutionize-private-enterprise-ai-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "and Zylon today announced a partnership to bring compressed frontier AI models to organizations that cannot share their data externally. Multiverse Computing's AI models will run natively inside Zylon's on-premise platform, giving regulated customers a fully European stack across both the model layer and the infrastructure that serves it.",
+    "url": "https://www.zylon.ai/resources/blog/multiverse-computing-and-zylon-partner-to-deliver-sovereign-efficient-ai-inside-europe-s-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise work depends on context: policies, customers, past decisions, internal language, permissions, processes, and business priorities. Without that context, AI can generate fluent outputs that still miss the point.",
+    "url": "https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "The week after, the same agent turned its attention to Jack & Jill, a $20M-funded AI recruiter used by Anthropic, Stripe, and Monzo. Four bugs, none critical on their own, chained together into a complete takeover of any company on the platform.",
+    "url": "https://www.zylon.ai/resources/blog/your-ai-has-a-new-attack-surface.-most-security-teams-don-t-know-it-exists.",
+    "pass": 1
+   },
+   {
+    "quote": "The organizations that get this right won't just avoid the next CodeWall write-up. They'll be the ones their clients and regulators trust with the most sensitive workloads — which, as AI becomes more central to how decisions get made, is increasingly where competitive advantage lives.",
+    "url": "https://www.zylon.ai/resources/blog/your-ai-has-a-new-attack-surface.-most-security-teams-don-t-know-it-exists.",
+    "pass": 1
+   },
+   {
+    "quote": "This framework allows Zylon's SMB customers and their end-users, the non-technical employees, to simply upload the documents and files they want gen AI's help with — say, invoices that need processing or transcripts that need editing and summarizing — and then click on buttons that describe the actions they want to take.",
+    "url": "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "pass": 3
+   },
+   {
+    "quote": "Right now, the company is already working with several customers across sectors including healthcare, finance and legal.",
+    "url": "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "pass": 3
+   },
+   {
+    "quote": "Zylonの導入プロセス：ハードウェア調達からデータコネクタ、そして1～2週間の稼働開始まで",
+    "url": "https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "The Platform Backoffice is used by Operators to manage platform-level access and developer environments.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "A dedicated, isolated software service that sits at the boundary between clients and Zylon’s internal APIs.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "entered into the Tether Challenge, using a construction made from Zylon fibers. The house tether used by Spaceward, that the other teams would have to beat in strength by 50% in the 2007 Spaceward games,",
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon is used by NASA in long-duration, high-altitude data collection. Braided Zylon strands maintain the structure of polyethylene",
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Create packaging that reflects your brand and appeals to your customers.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "In today’s competitive market, branding is more than just a logo or a catchy tagline. It’s about creating a cohesive and memorable identity that reflects your business’s values, mission, and promise to your customers. Effective branding can:",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Our portfolio showcases successful branding projects for diverse clients.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "💬 But Don't Take Our Word For It - See What our Clients Says",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Our purpose is to be an innovator of materials solutions that help our customers succeed, while enabling a sustainable world.",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "Enabling Sustainability for Our Customers",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "Salesforce, SAP, Microsoft Dynamics",
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "pass": 1
+   },
+   {
+    "quote": "warrant that any such Submission are original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and",
+    "url": "https://www.zylon.ai/legal/terms-and-conditions",
+    "pass": 1
+   },
+   {
+    "quote": "warrant and represent that your Submissions do not constitute confidential information.",
+    "url": "https://www.zylon.ai/legal/terms-and-conditions",
+    "pass": 1
+   },
+   {
+    "quote": "Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.",
+    "url": "https://www.zylon.ai/legal/terms-and-conditions",
+    "pass": 1
+   },
+   {
+    "quote": "AI literacy should be organization-wide. Finance, HR, legal, marketing, sales, operations, product, engineering, and leadership all need a shared vocabulary. Without it, teams talk past each other. One group sees AI as a search engine. Another sees it as automation. Another sees it as a compliance risk. Another sees it as a writing tool.",
+    "url": "https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Take a recurring report. A customer response. A procurement comparison. A policy update. A sales briefing. A technical troubleshooting workflow. Then show how AI changes the work from start to finish.",
+    "url": "https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "A sales team should not manually paste call transcripts into an assistant every week to create account briefs. The workflow should ingest the transcript, pull the relevant account context, compare it with the sales methodology, identify open risks, draft the brief, and send it to the account owner for review.",
+    "url": "https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "A customer brief might require a CRM record, a call transcript, account notes, past support tickets, pricing information, legal constraints, and company-specific sales guidance.",
+    "url": "https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon | 5x Revenue Growth with hands-on Fractional Sales & LinkedIn Brand Building",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "5x Revenue Growth with hands-on Fractional Sales & LinkedIn Brand Building",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon hits 5x revenue",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "sales and go-to-market knowledge",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "to convert inbound demand into structured enterprise revenue.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "No structured sales process",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Inbound traction ≠ revenue",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": ": Founders were stretched thin across product, tech, sales, and support.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": ": Unclear how to hire first sales/marketing roles in such a specialized space.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "learn and execute B2B sales",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Phase 1: Fractional Sales Enablement: Closed key logos & learnt sales.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Every sales call reviewed and optimized.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Built and implemented Zylon’s first structured B2B enterprise sales process.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPlaybook helped to sharpen the jobs to be done and job description for Zylon’s first GTM hire",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Found and interviewed a candidate experienced in enterprise AI, zero-to-one sales, and data center tech.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Founders retained strategic sales involvement but offloaded execution bottlenecks.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Use a free 60-minute Strategy Call to clarify the revenue constraint, fit or no fit and the right next step. No pitch.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Where is your revenue system getting stuck?",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "CRM is slowing sales down",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "How reliable are your forecast and sales rhythm?",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Choose the situation that is holding your sales team back most right now.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Sales leadership is missing day to day",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Should we assess your sales operating rhythm?",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "We will get in touch with an honest view of deals, forecast and sales leadership.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon by PrivateGPT Revenue 2025: $1.2M Est.",
+    "url": "https://getlatka.com/companies/zylon.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon by PrivateGPT revenue",
+    "url": "https://getlatka.com/companies/zylon.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon by PrivateGPT has not published its revenue. GetLatka estimates it at about $1.2M a year (June 2025).",
+    "url": "https://getlatka.com/companies/zylon.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Zylon by PrivateGPT's revenue?",
+    "url": "https://getlatka.com/companies/zylon.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Zylon by PrivateGPT's revenue at about",
+    "url": "https://getlatka.com/companies/zylon.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/zylon.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/zylon.ai",
+    "pass": 3
+   },
+   {
+    "quote": "recalled its Zylon-based products, and decreased the rated lifespan warranty of new vests from 60 months to 30 months.",
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "pass": 3
+   },
+   {
+    "quote": "High Performance Fiber Sales Section Zylon Sales Group",
+    "url": "https://en.toyobo-mc.jp/products/zylon/",
+    "pass": 3
+   },
+   {
+    "quote": "Craft a compelling narrative that communicates your brand’s essence.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Barrier and Scavenger Additives",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "Cesa™ Solvent Barrier Technology for HDPE Bottles",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "ColorMatrix™ Amosorb™ SolO2 Co2 Barrier and Oxygen Scavenger for PET",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "ColorMatrix™ Ultimate™ UV390 Light Barrier for PET",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "ColorMatrix™ Ultimate™ UV390R Light Barrier for rPET",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "However, Toyobo Co., Ltd. makes no warranty and assumes no liability whatsoever in",
+    "url": "https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "There may be information on the Services that contains typographical errors, inaccuracies, or omissions, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Services at any time, without prior notice.",
+    "url": "https://www.zylon.ai/legal/terms-and-conditions",
+    "pass": 1
+   },
+   {
+    "quote": "When teams define task, context, constraints, and output format clearly, they reduce variability and increase trust. And when prompt changes are governed like code changes, AI systems become easier to scale safely across finance, healthcare, government and defense, and manufacturing.",
+    "url": "https://www.zylon.ai/resources/blog/prompt-engineering-basics-for-enterprise-teams-a-plain-language-explainer",
+    "pass": 1
+   },
+   {
+    "quote": "Harvard Business Review",
+    "url": "https://www.zylon.ai/resources/blog/the-enterprise-ai-reckoning-why-private-ai-and-on-prem-ai-are-moving-from-edge-case-to-default",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon is available in a variety of media, including filament, chopped fiber, staple fiber, spun yarn, and various fabrics. These materials can be further modified and manufactured to produce any number of useful products.",
+    "url": "https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Uses: Zylon has a number of uses in the industrial sector. Zylon can be manufactured into heat-resistant felt for a variety of applications. It can be used as a cable cover material for welding machines (since it can protect cords from hot sparks). It can even be found in cement as a reinforcing material.",
+    "url": "https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/",
+    "pass": 3
+   },
+   {
+    "quote": "Sports Equipment: Thanks to Zylon’s strength and rigidity, it’s the ideal material for a variety of sports equipment. You can find Zylon in bike tires, tennis, badminton, and table tennis rackets, bow strings, snowboards, yacht ropes, bike spokes, and even racing cars.",
+    "url": "https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/",
+    "pass": 3
+   },
+   {
+    "quote": ", in various medical applications, and in some of the",
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "pass": 3
+   },
+   {
+    "quote": "He then said \"Unfortunately, for all involved these results indicated the unexpected decrease in the ZYLON fiber strength. ZYLON fibers in various forms are used widely within our industry. Although inconsistent, these results have led us to where we are today. ULTIMA and ULTIMAX vests, as you know them today, have been discontinued from our product line.\"",
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "pass": 3
+   },
+   {
+    "quote": "combines the advantages of Zylon (strength, resistance to high temperatures, durability, lightweight, etc.) with the electrical properties of various metals. The conductive yarns can be sewn, braided, knit, or simply insulated like a bare wire.",
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "pass": 3
+   },
+   {
+    "quote": "We have achieved an outstanding growth for brands in various industries",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "The timeline varies depending on the scope of the project, but typically it ranges from a few weeks to a few months.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Costs vary based on the specific services and project scope. We provide customized quotes after an initial consultation.",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore our variety of coatings that improve the performance of synthetic fibers",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "Custom twisting enables an endless amount of twist levels on a variety of synthetic fibers",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "also corroborates energy and CO2 savings of 30 to 50 percent with accuracy retained. Fewer GPUs mean lower energy draw and lower capital expenditure, and Zylon caps software cost. For organizations facing high energy prices alongside EU AI Act and ESG obligations, that is a total-cost-of-ownership case rather than just a compliance obligation.",
+    "url": "https://www.zylon.ai/resources/blog/multiverse-computing-and-zylon-partner-to-deliver-sovereign-efficient-ai-inside-europe-s-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "This is one of the biggest reasons AI pilots fail. A team takes a workflow that is already held together by manual steps, unclear ownership, outdated documents, and ad hoc approvals, then adds an AI layer on top. The result is not transformation. It is a faster version of the same mess.",
+    "url": "https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Week 4: Move approved prompts into controlled production with versioning and ownership.",
+    "url": "https://www.zylon.ai/resources/blog/prompt-engineering-basics-for-enterprise-teams-a-plain-language-explainer",
+    "pass": 1
+   },
+   {
+    "quote": "Potentially true, but only if you can sustain operational control over time. Building without long-term ownership capacity often produces less control in practice, not more.",
+    "url": "https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams",
+    "pass": 1
+   },
+   {
+    "quote": "If your organization has mature platform operations, clear long-term ownership, and high differentiation requirements, build may be defensible.",
+    "url": "https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Zylon's investors include SNR, Talis Capital.",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": ": Made a mistake in the chat? No problem! You can now delete and edit your last messages in private and collaborative chats, giving you more control over your conversation history and reducing friction when refining your inputs.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Transfer project ownership",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "In case you want to stop being the owner of a project, you can now transfer the ownership to a different user.",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": ", a security research firm. Both were responsibly disclosed and patched. But what they revealed about how organisations are deploying AI deserves more attention than a patch note.",
+    "url": "https://www.zylon.ai/resources/blog/your-ai-has-a-new-attack-surface.-most-security-teams-don-t-know-it-exists.",
+    "pass": 1
+   },
+   {
+    "quote": "For those who are still in that exploratory phase — especially those businesses that are outside of Silicon Valley and the tech industry — a new startup has emerged to offer a path forward to harnessing generative AI, even without any technical know-how.",
+    "url": "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "pass": 3
+   },
+   {
+    "quote": "As Zylon embarks on this journey, its closed beta presents an exclusive opportunity for early adopters to experience and shape the future of gen AI in the workplace.",
+    "url": "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "pass": 3
+   },
+   {
+    "quote": "Phase 1: Fractional Sales Enablement: Closed key logos & learnt sales.",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition processes do not scale",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "AMDがフェイフェイ・リー氏のWorld Labsを82億ドルで買収",
+    "url": "https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Open vs closed source approach",
+    "url": "https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Connections to database are properly closed to avoid reaching the limit",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Reset custom instructions modal to empty state when it was closed without saving",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "and leave their wearers with less protection than expected. Second Chance eventually recalled all of its Zylon vests, which led to its bankruptcy. The company was once able to claim that it held over 50% of the market for law enforcement body armor, all by itself.",
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ザイロン ® | 製品紹介 - TOYOBO MC Corporation — ザイロン ® | 製品紹介 - TOYOBO MC Corporation 東洋紡エムシー https://www.toyobo-mc.jp > products > zylon",
+    "url": "https://www.toyobo-mc.jp/products/zylon/",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon : Funding, Team & Investors | Startup Intros — Zylon : Funding, Team & Investors | Startup Intros Startup Intros https://startupintros.com > orgs > zylon",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon 2026 Company Profile: Valuation, Funding & Investors — Zylon 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/572231-98",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon - 2026 Company Profile, Team, Funding & Competitors — Zylon - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/zylon/__gton1V8CCHqk9xjN0xEqb2NMkrhsgx-ebgDCXp4L_Wk",
+    "pass": 3
+   },
+   {
+    "quote": "Announcing Zylon's $3.2M Pre-Seed Funding Round — Announcing Zylon's $3.2M Pre-Seed Funding Round zylon.ai https://www.zylon.ai > resources > blog",
+    "url": "https://www.zylon.ai/resources/blog/announcing-zylon-s-3.2m-pre-seed-funding-round",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon launches to take away the pain of generative AI ... — Zylon launches to take away the pain of generative AI ... VentureBeat https://venturebeat.com > zylon-launc...",
+    "url": "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "pass": 3
+   },
+   {
+    "quote": "All About Zylon ® - Fiber Brokers International, LLC. — All About Zylon ® - Fiber Brokers International, LLC. Fiber Brokers International https://fiberbrokers.com > all-about-z...",
+    "url": "https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon | 5x Revenue Growth with hands-on Fractional Sales ... — Zylon | 5x Revenue Growth with hands-on Fractional Sales ... SalesPlaybook https://thesalesplaybook.com > zylon",
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon by PrivateGPT Revenue 2025: $1.2M Est. - GetLatka — Zylon by PrivateGPT Revenue 2025: $1.2M Est. - GetLatka GetLatka https://getlatka.com > zylon",
+    "url": "https://getlatka.com/companies/zylon.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon - Crunchbase Company Profile & Funding — Zylon - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > zylon-...",
+    "url": "https://www.crunchbase.com/organization/zylon-919e",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon 2026 Company Profile : Valuation, Funding & Investors — Zylon 2026 Company Profile : Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/572231-98",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon Raises $3.2 Million in Pre-Seed Funding — Zylon Raises $3.2 Million in Pre-Seed Funding The SaaS News https://www.thesaasnews.com > news",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon : Funding , Team & Investors | Startup Intros — Zylon : Funding , Team & Investors | Startup Intros Startup Intros https://startupintros.com > orgs > zylon",
+    "url": "https://startupintros.com/orgs/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Can a Community Bank Run Its Own AI? Zylon Says Yes — Can a Community Bank Run Its Own AI? Zylon Says Yes YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Changelog - Zylon AI — Changelog - Zylon AI docs.zylon.ai https://docs.zylon.ai > overview",
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon - Wikipedia — Zylon - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Zylon",
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon - an overview | ScienceDirect Topics — Zylon - an overview | ScienceDirect Topics ScienceDirect.com https://www.sciencedirect.com > zylon",
+    "url": "https://www.sciencedirect.com/topics/engineering/zylon",
+    "pass": 3
+   },
+   {
+    "quote": "Whitelabel - Zylon — Whitelabel - Zylon docs.zylon.ai https://docs.zylon.ai > whitelabel",
+    "url": "https://docs.zylon.ai/en/v1.57/operator-manual/configuration/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "ZYLON ® | Products | Toyobo MC Corporation — ZYLON ® | Products | Toyobo MC Corporation TOYOBO MC CORPORATION https://en.toyobo-mc.jp > zylon",
+    "url": "https://en.toyobo-mc.jp/products/zylon/",
+    "pass": 3
+   },
+   {
+    "quote": "PBO Fiber ( ZYLON ®) - Teijin Frontier USA — PBO Fiber ( ZYLON ®) - Teijin Frontier USA Teijin Frontier USA https://www.teijin-frontier-usa.com > ...",
+    "url": "https://www.teijin-frontier-usa.com/zylon/",
+    "pass": 3
+   },
+   {
+    "quote": "Branding - Zylon Digital — Branding - Zylon Digital Zylon Digital https://zylondigital.com > branding",
+    "url": "https://zylondigital.com/services/branding/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Clothing Manufacturer, Supplier & Exporter — Private Label Clothing Manufacturer, Supplier & Exporter dezylon.com https://www.dezylon.com > private-la...",
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon AI — Zylon AI zylon.ai https://www.zylon.ai",
+    "url": "https://www.zylon.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon Partner - LinkedIn — Zylon Partner - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/zylonpartner",
+    "pass": 3
+   },
+   {
+    "quote": "Financial Services AI | Banks & Credit Unions - Zylon AI — Financial Services AI | Banks & Credit Unions - Zylon AI zylon.ai https://www.zylon.ai > industries > fin...",
+    "url": "https://www.zylon.ai/industries/financial-services",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon Services Limited - Dato Capital Gibraltar — Zylon Services Limited - Dato Capital Gibraltar Dato Capital Gibraltar https://www.datocapital.com.gi > Zyl...",
+    "url": "https://www.datocapital.com.gi/companies/Zylon-Services-Ltd.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon ® PBO Fiber | Avient — Zylon ® PBO Fiber | Avient Avient https://www.avient.com > products",
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "ZYLON DIGITAL PRIVATE LIMITED - Company Profile - Tracxn — ZYLON DIGITAL PRIVATE LIMITED - Company Profile - Tracxn Tracxn https://tracxn.com > ... > India",
+    "url": "https://tracxn.com/d/legal-entities/india/zylon-digital-private-limited/__08XTYk3nZaMsmMMBJT6Hp8isDBGdafYV3Lj95SKRqbc",
+    "pass": 3
+   },
+   {
+    "quote": "ZYLON ®(PBO fiber) Technical Information (2005) - TOYOBO — ZYLON ®(PBO fiber) Technical Information (2005) - TOYOBO TOYOBO PDF https://www.toyobo-global.com > technical_201118",
+    "url": "https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": ", remote but founded in Madrid, Spain, is announcing exclusively via VentureBeat a $3.2 million pre-seed funding round and the public availability of its enterprise-grade, easy-to-use, flexible generative AI web workspace.",
+    "url": "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon was co-founded in 2023 by Iván Martínez Toro and Daniel Gallego Vico, previously the co-creators of",
+    "url": "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2006, Felicis Ventures is a venture capital firm based in Menlo Park, California. The firm seeks to invest across all industries and sectors.",
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "マイアミで開催されたeMerge Americasでライブ収録されたこの「Regulating AI Podcast」のエピソードでは、Zylonの共同創業者兼CEOであるイヴァン・マルティネス氏が登場します",
+    "url": "https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2001 Zylon tethers are used in",
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/zylon.ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "pass": 3
+   }
+  ],
+  "日本対応": [
+   {
+    "quote": "【野村證券の次の稼ぎ方：奥田CEOに聞く】日本買いの３つの理由／過去5年でビジネスモデルを転換／2030年の税前利益5000億円目標／モルスタとの共通点／グローバルが好調な理由／アジアの富裕層を狙う",
+    "url": "https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Generated gases at the temperature of 750 C were measured according to Japanese",
+    "url": "https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ohtsu, Japan",
+    "url": "https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ZYLON is a registered trademark of Toyobo Co., Ltd. in Japan.",
+    "url": "https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Zylon on X: \"Hi Tpc Itrapped #TerminationProtocol\" / X Zylon on X: \"Hi Tpc Itrapped #TerminationProtocol\" / X X https://x.com > @ZoinklyWoink",
+    "url": "https://x.com/ZoinklyWoink/status/2008450049785950403",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon (hiatus again) (@ZoinklyWoink) / X Zylon (hiatus again) (@ZoinklyWoink) / X X https://x.com > ZoinklyWoink",
+    "url": "https://x.com/ZoinklyWoink",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon on X: \"Fun #ThatMob #Verity\" / X Zylon on X: \"Fun #ThatMob #Verity\" / X X https://x.com > @ZoinklyWoink",
+    "url": "https://x.com/ZoinklyWoink/status/2075142012161118685",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zylon - LinkedIn Zylon - LinkedIn LinkedIn https://es.linkedin.com > company > z...",
+    "url": "https://es.linkedin.com/company/zylon-privategpt",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Gallego Vico, PhD. - Zylon Founder & Co-CEO - LinkedIn Daniel Gallego Vico, PhD. - Zylon Founder & Co-CEO - LinkedIn LinkedIn https://es.linkedin.com > danielgalleg...",
+    "url": "https://es.linkedin.com/in/danielgallegovico",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon C. - Commercial Project Manager | Finance - LinkedIn Zylon C. - Commercial Project Manager | Finance - LinkedIn LinkedIn Australia https://au.linkedin.com > zylonchong",
+    "url": "https://au.linkedin.com/in/zylonchong",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon Technologies - LinkedIn Zylon Technologies - LinkedIn LinkedIn https://www.linkedin.com > zylontek",
+    "url": "https://www.linkedin.com/company/zylontek",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zylon Wear - Facebook Zylon Wear - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/zylon.wear.9/",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon male poses at the manhood event october 2026 Zylon male poses at the manhood event october 2026 Facebook https://www.facebook.com > STUNPoses > posts > stun-p...",
+    "url": "https://www.facebook.com/STUNPoses/posts/stun-poses-the-manhood-eventmeet-zylon-a-collection-of-6-stylish-male-poses-desi/1760459405908236/",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon Technologies (@zylontechnologies) - Facebook Zylon Technologies (@zylontechnologies) - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Software",
+    "url": "https://www.facebook.com/zylontechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Zylon Studio | Mymensingh - Facebook Zylon Studio | Mymensingh - Facebook Facebook https://www.facebook.com > zylonstudio",
+    "url": "https://www.facebook.com/zylonstudio/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.zylon.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/platform/api-gateway",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/legal/terms-and-conditions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/zylon-partners-with-telef%C3%B3nica-tech-to-revolutionize-private-enterprise-ai-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/multiverse-computing-and-zylon-partner-to-deliver-sovereign-efficient-ai-inside-europe-s-regulated-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/how-to-train-teams-on-ai-7-practical-steps-for-business-leaders-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/the-smartest-ai-teams-arent-prompting-more-theyre-building-workflows",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/ai-model-drift-and-monitoring-explained-for-enterprise-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/prompt-engineering-basics-for-enterprise-teams-a-plain-language-explainer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/your-ai-has-a-new-attack-surface.-most-security-teams-don-t-know-it-exists.",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/the-enterprise-ai-reckoning-why-private-ai-and-on-prem-ai-are-moving-from-edge-case-to-default",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zylon.ai/resources/blog/build-or-buy-a-private-ai-platform-the-12-week-evaluation-playbook-for-regulated-teams",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://framerusercontent.com/images/b8rjgUcpZJn3mQTXV7QVvBJR2Tk.png?width=1920&height=1080",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/anEdQ47fGYzFW0Tr6D2YEsMuTm4.png?width=1858&height=998",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/U8YuiVxcIBGg8GAZGuqKWqiggQ.png?width=1770&height=889",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.toyobo-mc.jp/products/zylon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%A4%E3%83%AD%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyobo.co.jp/news/pdf/2011/06/press268.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://p.sokai.jp/archive/3101/2023/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/lonza-group-ags-vtx-lonn-121929004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.digitalbridge.com/node/8816/html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/zylon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/572231-98",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyobo-mc.jp/products/zylon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thesalesplaybook.com/clients/zylon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/zylon.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/zylon-919e",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.zillowgroup.com/financials/annual-reports-and-proxies/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/836157/000119312525248751/lnn-20250831.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lonza.com/annualreport/2025/pages/financials",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://zyduslife.com/investor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/zylon-919e",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/zylon/__gton1V8CCHqk9xjN0xEqb2NMkrhsgx-ebgDCXp4L_Wk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Zylon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.windpowermonthly.com/article/1720933/indian-wind-oem-suzlons-us-unit-files-liquidation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.zylon.ai/en/v1.57/operator-manual/configuration/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proenzaschouler.com/collections/white-label-clothing?srsltid=AYCX9vKwpxNUZoY648yuD2FMmjrvohPEw5p4FUBIhNbh_0nuVz0OzB7_",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.toyobo-mc.jp/products/zylon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zylondigital.com/services/branding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dezylon.com/private-label-clothing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/Dd4bANyCRsq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zeonlifesciences.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=xpX9pL_6zlA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://licensespring.com/developers/platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsl.com/sdk-license-agreement/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/zylonpartner",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zylo.com/about-us/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybersource.com/en-us/why-cybersource/partners/become-a-partner/reseller-partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zyxel.com/us/en-us/partners/channel-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datocapital.com.gi/companies/Zylon-Services-Ltd.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.toyobo.co.jp/en/ir/finance/segment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.toyobo-mc.jp/products/zylon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/topics/engineering/zylon",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.teijin-frontier-usa.com/zylon/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/zylon-919e",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/zylo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/crunchbase",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ZoinklyWoink/status/2008450049785950403",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ZoinklyWoink",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ZoinklyWoink/status/2075142012161118685",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/company/zylon-privategpt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/in/danielgallegovico",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/zylonchong",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/zylontek",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zylon.wear.9/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/STUNPoses/posts/stun-poses-the-manhood-eventmeet-zylon-a-collection-of-6-stylish-male-poses-desi/1760459405908236/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zylontechnologies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zylonstudio/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zylon 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://www.toyobo-mc.jp/products/zylon/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%A4%E3%83%AD%E3%83%B3",
+    "https://www.toyobo.co.jp/news/pdf/2011/06/press268.pdf",
+    "https://p.sokai.jp/archive/3101/2023/report/",
+    "https://www.nikkan.co.jp/articles/view/706794",
+    "https://knak.jp/fiber/zylon.htm",
+    "https://member.c.sbisec.co.jp/foreign/invest/us/stock/VZ",
+    "https://www.okr-ind.co.jp/",
+    "https://baseconnect.in/companies/ad869914-bc48-42f2-b7bd-835aea719b0e",
+    "https://ja.wikipedia.org/wiki/親会社"
+   ]
+  },
+  {
+   "query": "Zylon shareholders ownership investors parent company",
+   "results": [
+    "https://finance.yahoo.com/news/lonza-group-ags-vtx-lonn-121929004.html",
+    "https://ir.digitalbridge.com/node/8816/html",
+    "https://startupintros.com/orgs/zylon",
+    "https://pitchbook.com/profiles/company/572231-98",
+    "https://tracxn.com/d/companies/zylon/__gton1V8CCHqk9xjN0xEqb2NMkrhsgx-ebgDCXp4L_Wk",
+    "https://www.sec.gov/Archives/edgar/data/1075796/000110465924049918/tm242291d1_ex99-x32.htm",
+    "https://fintel.io/so/us/zone",
+    "https://www.zylon.ai/company/about",
+    "https://www.moomoo.com/news/post/46388355/individual-investors-are-tofflon-science-and-technology-group-co-ltd",
+    "https://companydata.com/company-ownership-lookup/"
+   ]
+  },
+  {
+   "query": "Zylon 設立 OR 創業 OR founded",
+   "results": [
+    "https://www.zylon.ai/resources/blog/announcing-zylon-s-3.2m-pre-seed-funding-round",
+    "https://www.toyobo-mc.jp/products/zylon/",
+    "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs",
+    "https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/",
+    "https://startupintros.com/orgs/zylon",
+    "https://www.sri.com/press/story/75-years-of-innovation-synthetic-polymer-zylon/",
+    "https://www.teijin-frontier-usa.com/zylon/",
+    "https://pitchbook.com/profiles/company/572231-98",
+    "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%A4%E3%83%AD%E3%83%B3",
+    "https://dictionary.cambridge.org/us/dictionary/english/founded"
+   ]
+  },
+  {
+   "query": "Zylon revenue profitable",
+   "results": [
+    "https://thesalesplaybook.com/clients/zylon",
+    "https://getlatka.com/companies/zylon.ai",
+    "https://www.crunchbase.com/organization/zylon-919e",
+    "https://www.zylon.ai/resources/blog/announcing-zylon-s-3.2m-pre-seed-funding-round",
+    "https://pitchbook.com/profiles/company/572231-98",
+    "https://startupintros.com/orgs/zylon",
+    "https://tracxn.com/d/companies/zylon/__gton1V8CCHqk9xjN0xEqb2NMkrhsgx-ebgDCXp4L_Wk",
+    "https://www.linkedin.com/posts/zylon-privategpt_zylon-is-the-first-private-ai-enterprise-activity-7290087781404463105-O4Sh",
+    "https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/"
+   ]
+  },
+  {
+   "query": "Zylon EBITDA net income annual report",
+   "results": [
+    "https://investors.zillowgroup.com/financials/annual-reports-and-proxies/default.aspx",
+    "https://www.sec.gov/Archives/edgar/data/836157/000119312525248751/lnn-20250831.htm",
+    "https://www.lonza.com/annualreport/2025/pages/financials",
+    "https://zyduslife.com/investor/",
+    "https://www.macrotrends.net/stocks/charts/JL/j-long-group/financial-statements",
+    "https://ir.xiliotx.com/financial-information/annual-reports/",
+    "https://cdn.cms.zinzino.com/globalassets/media/reports/financial-reports/2026/year-end-report-2025.pdf",
+    "https://www.lindsay.com/usca/en/about/investor-relations/filings-and-reports",
+    "https://investors.zetaglobal.com/financials/annual-reports/default.aspx",
+    "https://incfact.com/company/zylon-lewes-de/"
+   ]
+  },
+  {
+   "query": "Zylon funding raised",
+   "results": [
+    "https://www.crunchbase.com/organization/zylon-919e",
+    "https://www.thesaasnews.com/news/zylon-raises-3-2-million-in-pre-seed-funding/",
+    "https://tracxn.com/d/companies/zylon/__gton1V8CCHqk9xjN0xEqb2NMkrhsgx-ebgDCXp4L_Wk",
+    "https://www.zylon.ai/resources/blog/announcing-zylon-s-3.2m-pre-seed-funding-round",
+    "https://startupintros.com/orgs/zylon",
+    "https://thesalesplaybook.com/clients/zylon",
+    "https://pitchbook.com/profiles/company/572231-98",
+    "https://www.preqin.com/data/profile/asset/zylon/624203",
+    "https://www.zylon.ai/company/about",
+    "https://fundediq.co/zylon-zylon-ai-funding/"
+   ]
+  },
+  {
+   "query": "Zylon acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.youtube.com/watch?v=wsgnOB7oXug&vl=ja",
+    "https://docs.zylon.ai/en/v1.57/changelog/overview",
+    "https://en.wikipedia.org/wiki/Zylon",
+    "https://www.windpowermonthly.com/article/1720933/indian-wind-oem-suzlons-us-unit-files-liquidation",
+    "https://www.sciencedirect.com/topics/engineering/zylon",
+    "https://thesalesplaybook.com/clients/zylon",
+    "https://tracxn.com/d/companies/zylon/__gton1V8CCHqk9xjN0xEqb2NMkrhsgx-ebgDCXp4L_Wk",
+    "https://www.crunchbase.com/organization/zylon-919e",
+    "https://github.com/zylon-ai/private-gpt/pulls",
+    "https://www.windtech-international.com/company-news/suzlon-wind-energy-corporation-files-for-liquidation"
+   ]
+  },
+  {
+   "query": "Zylon white label",
+   "results": [
+    "https://docs.zylon.ai/en/v1.57/operator-manual/configuration/whitelabel",
+    "https://www.proenzaschouler.com/collections/white-label-clothing?srsltid=AYCX9vKwpxNUZoY648yuD2FMmjrvohPEw5p4FUBIhNbh_0nuVz0OzB7_",
+    "https://en.toyobo-mc.jp/products/zylon/",
+    "https://fiberbrokers.com/technical-materials-recycling/all-about-zylon/",
+    "https://www.teijin-frontier-usa.com/zylon/",
+    "https://www.linkedin.com/company/whitelabelllc",
+    "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "https://www.znapparelmanufacturer.com/services/private-label",
+    "https://docs.zylon.ai/en",
+    "https://www.zylon.ai/"
+   ]
+  },
+  {
+   "query": "Zylon rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://zylondigital.com/services/branding/",
+    "https://www.dezylon.com/private-label-clothing",
+    "https://www.instagram.com/reel/Dd4bANyCRsq/",
+    "https://zeonlifesciences.com/",
+    "https://www.fibre2fashion.com/news/textile-chemical-dye-news/eurofibers-bv-rebrands-fysc-as-prisma-175784-newsdetails.htm",
+    "https://www.zyloindustry.com/?srsltid=AYCX9vIJtrCZjSn0gbJk0pVVdRVqW__5aYCAOKVK0g0XFdqEtJkwB9he",
+    "https://www.dezylon.com/post/dezylon-your-one-stop-destination-for-private-label-clothing-manufacturing-with-world-class",
+    "https://chemtechlabs.com/",
+    "https://en.wikipedia.org/wiki/Zyklon_B",
+    "https://woosourcing.com/private-label-manufacturing-guide/"
+   ]
+  },
+  {
+   "query": "Zylon OEM SDK licensing partners",
+   "results": [
+    "https://www.zylon.ai/",
+    "https://www.youtube.com/watch?v=xpX9pL_6zlA",
+    "https://licensespring.com/developers/platforms",
+    "https://www.tsl.com/sdk-license-agreement/",
+    "https://x12.org/products/licensing-program/partners",
+    "https://www.10duke.com/learn/software-licensing/software-licensing-integration-with-sdks/",
+    "https://www.synopsys.com/designware-ip/ip-oem-partners.html",
+    "https://slytechs.com/partners",
+    "https://www.verisilicon.com/en/ZSPSDKLicenseRequest",
+    "https://en.wikipedia.org/wiki/Android_(operating_system)"
+   ]
+  },
+  {
+   "query": "Zylon reseller partner program",
+   "results": [
+    "https://www.linkedin.com/company/zylonpartner",
+    "https://zylo.com/about-us/partners",
+    "https://www.cybersource.com/en-us/why-cybersource/partners/become-a-partner/reseller-partner.html",
+    "https://www.zyxel.com/us/en-us/partners/channel-partner-program",
+    "http://www.milestonesys.com/partners/reseller-program/",
+    "https://www.lumen.com/en-us/partner/channel-partner-program.html",
+    "https://www.zayo.com/partners/",
+    "https://www.resillion.com/about/channel-partner-program/",
+    "https://zeronetworks.com/partner",
+    "https://www.broadbandbuyer.com/features/5030-zyxel-networks-partner-program-benefits-for-resellers/"
+   ]
+  },
+  {
+   "query": "Zylon Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.zylon.ai/industries/financial-services",
+    "https://www.datocapital.com.gi/companies/Zylon-Services-Ltd.html",
+    "https://ir.toyobo.co.jp/en/ir/finance/segment.html",
+    "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "https://tracxn.com/d/legal-entities/india/zylon-digital-private-limited/__08XTYk3nZaMsmMMBJT6Hp8isDBGdafYV3Lj95SKRqbc",
+    "https://sg.linkedin.com/in/may-zun-ko-ko-b98420362",
+    "https://cubuffs.com/sports/football/roster/zylon-crisler/17780",
+    "https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf",
+    "https://www.zeon.co.jp/en/ir/stock/financial/",
+    "https://www.investopedia.com/financial-statements-4689816"
+   ]
+  },
+  {
+   "query": "Zylon Japan",
+   "results": [
+    "https://en.toyobo-mc.jp/products/zylon/",
+    "https://www.sciencedirect.com/topics/engineering/zylon",
+    "https://www.toyobo-global.com/seihin/kc/pbo/zylon-p/bussei-p/technical_201118.pdf",
+    "https://www.teijin-frontier-usa.com/zylon/",
+    "https://camx2026.mapyourshow.com/8_0/exhibitor/exhibitor-details.cfm?exhid=11927",
+    "https://www.avient.com/products/fiber-line-engineered-fiber-solutions/high-performance-synthetic-fibers/zylon-pbo-fiber",
+    "https://en.wikipedia.org/wiki/Zylon",
+    "https://hamilon.hayami.co.jp/en/products/super_cord/zylon.html",
+    "https://imattec.com/en/pbo.php",
+    "https://www.chiyoda-trade.co.jp/en/products/products2-01.html"
+   ]
+  },
+  {
+   "query": "Zylon employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/organization/zylon-919e",
+    "https://www.crunchbase.com/organization/zylo",
+    "https://www.crunchbase.com/",
+    "https://www.owler.com/company/crunchbase",
+    "https://tracxn.com/d/companies/zylon/__gton1V8CCHqk9xjN0xEqb2NMkrhsgx-ebgDCXp4L_Wk",
+    "https://www.zoominfo.com/c/crunchbase/347668538",
+    "https://www.crunchbase.com/hub/software-companies-fewer-than-50-employees",
+    "https://dealroom.co/",
+    "https://www.linkedin.com/posts/dealroom-co_where-do-ai-companies-rank-against-big-tech-activity-7317539243893944320-_ove",
+    "https://www.capterra.com/p/248010/Dealroom/"
+   ]
+  },
+  {
+   "query": "site:note.com Zylon",
+   "results": [
+    "https://note.com/saxgumi/n/na1bc7a060700",
+    "https://note.com/onlymykyugu/n/ncc8cfa541d7a?hl=en",
+    "https://note.com/michi_to_sora/n/n6f046b42ef6b?hl=en",
+    "https://note.com/kuraza/n/n10cb1544c06d",
+    "https://note.com/improving_tennis/n/nf7bb40960390",
+    "https://note.com/tackleplus/n/nc086ea8b0ecb?hl=en",
+    "https://note.com/onlymykyugu/n/ncf652347200c",
+    "https://note.com/good_dill292/n/nc8f0def36df9",
+    "https://note.com/kufugeiko/n/n5d513145473e",
+    "https://note.com/ready_guppy3801"
+   ]
+  },
+  {
+   "query": "site:x.com Zylon",
+   "results": [
+    "https://x.com/ZoinklyWoink/status/2008450049785950403",
+    "https://x.com/ZoinklyWoink",
+    "https://x.com/ZoinklyWoink/status/2075142012161118685",
+    "https://x.com/ZoinklyWoink/status/2083444098028216815",
+    "https://x.com/ZoinklyWoink/status/1983076071873638773",
+    "https://x.com/ZoinklyWoink/status/2038258337880682821",
+    "https://x.com/ZoinklyWoink/status/2116276712908722381",
+    "https://x.com/ZoinklyWoink/status/1969083784348774451",
+    "https://x.com/ZoinklyWoink/status/2097623069011665023",
+    "https://x.com/ZoinklyWoink/status/2069461170520826097"
+   ]
+  },
+  {
+   "query": "site:linkedin.com Zylon",
+   "results": [
+    "https://es.linkedin.com/company/zylon-privategpt",
+    "https://es.linkedin.com/in/danielgallegovico",
+    "https://au.linkedin.com/in/zylonchong",
+    "https://www.linkedin.com/company/zylontek",
+    "https://www.linkedin.com/company/zylon-solutions",
+    "https://www.linkedin.com/company/zylonpartner",
+    "https://in.linkedin.com/company/zylondigital",
+    "https://www.linkedin.com/posts/zylon-privategpt_zylon-is-the-first-private-ai-enterprise-activity-7290087781404463105-O4Sh",
+    "https://in.linkedin.com/company/zylonlab",
+    "https://www.linkedin.com/posts/zylon-privategpt_introducing-privategpt-10-the-open-source-activity-7467987654081634304-mLVP"
+   ]
+  },
+  {
+   "query": "site:facebook.com Zylon",
+   "results": [
+    "https://www.facebook.com/zylon.wear.9/",
+    "https://www.facebook.com/STUNPoses/posts/stun-poses-the-manhood-eventmeet-zylon-a-collection-of-6-stylish-male-poses-desi/1760459405908236/",
+    "https://www.facebook.com/zylontechnologies/",
+    "https://www.facebook.com/zylonstudio/",
+    "https://www.facebook.com/News15KADN/posts/zylon-zenon-19-of-abbeville-was-found-guilty-of-first-degree-murder-and-armed-ro/1473355804793424/",
+    "https://www.facebook.com/MandysRescueDogs/posts/zylon-says-good-morning-he-is-ready-and-waiting-for-a-forever-home-2-12-years-ol/1661818049324319/",
+    "https://www.facebook.com/jhailyn.quierah.1/posts/zylon-and-z%C3%A9lie-/1490026199684856/",
+    "https://www.facebook.com/fguraunitedfc/posts/a-proud-moment-for-our-17-year-old-zylon-spiteri-as-he-signs-his-first-professio/1616992820427217/",
+    "https://www.facebook.com/p/ZYLON-by-Teesha-Bag-House-100091285061329/",
+    "https://www.facebook.com/ZylonGaming/"
+   ]
+  },
+  {
+   "query": "Zylon note 社長",
+   "results": [
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/xaiondata/n/naccc47fdb61c",
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://www.toyobo-mc.jp/products/zylon/",
+    "https://note.com/sion_23/m/md8b93a398186",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=VULuYLZs9bk",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "Zylon X 投稿",
+   "results": [
+    "https://docs.zylon.ai/en/v1.57/overview",
+    "https://github.com/zylon-ai",
+    "https://www.youtube.com/watch?v=pY2hiwEL0qM",
+    "https://zylon.store/search?srsltid=AYCX9vJ7RsSyzfrGGmr1kwFWtz1I4w2aAm4e4ofyukLyTj6YGVNKOoUD",
+    "https://es.linkedin.com/company/zylon-privategpt",
+    "https://zylon-labs.com/",
+    "https://www.zylon.ai/platform/overview",
+    "https://www.youtube.com/watch?v=PEhIgD9l3Co",
+    "https://en.wiktionary.org/wiki/zylon",
+    "https://space.bilibili.com/357051333/dynamic"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部62頁・検索20回）",
+  "設立": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部62頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部62頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部62頁・検索20回）",
+  "代表者": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部62頁・検索20回）"
+ }
+}

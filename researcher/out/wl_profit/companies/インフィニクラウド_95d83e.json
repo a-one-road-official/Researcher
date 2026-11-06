@@ -1,0 +1,1042 @@
+{
+ "name": "インフィニクラウド",
+ "aliases": [
+  "infiniCLOUD",
+  "InfiniCloud"
+ ],
+ "context": "日本のオンプレ生成AI端末・OEM販売／パートナープラン（Yomi担ぎ候補）",
+ "researched_at": "2026-11-06T03:11:52.523983+00:00",
+ "official_url": "https://infinicloud.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "瀧康史",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/20260520",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員の状況",
+    "value": "25名(2025年9月期)",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/20260520",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "604,318千円(2025年9月期)",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/20260520",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "日本対応": [
+   {
+    "quote": "日本型DXとクラウドネイティブ化を成功させるには",
+    "url": "https://infinicloud.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Distributed+: A New Standard for Japan's Cloud",
+    "url": "https://infinicloud.com/en_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本のデータを守り、そして活用する",
+    "url": "https://infinicloud.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本型DXとクラウドネイティブ化を成功させるには",
+    "url": "https://infinicloud.com/whitepaper.html",
+    "pass": 1
+   },
+   {
+    "quote": "増大するクラウドコストを大幅削減！鍵となる日本型ハイブリッドクラウドとは",
+    "url": "https://infinicloud.com/whitepaper.html",
+    "pass": 1
+   },
+   {
+    "quote": "〜\"日本型\"ハイブリッドクラウドで実現するITコストの削減とは〜",
+    "url": "https://infinicloud.com/whitepaper_strongdollar.html",
+    "pass": 1
+   },
+   {
+    "quote": "記録的な円安の状況下で、日本企業にとって、ITコストが当初の想定を越える規模に膨大に膨れ上がっている",
+    "url": "https://infinicloud.com/whitepaper_strongdollar.html",
+    "pass": 1
+   },
+   {
+    "quote": "このホワイトペーパーでは為替に影響されるITコストの削減を、日本の企業にマッチした”日本型”ハイブリッドクラウドの側面で紹介する",
+    "url": "https://infinicloud.com/whitepaper_strongdollar.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本型DXとクラウドネイティブ化を成功させるには",
+    "url": "https://infinicloud.com/whitepaper_liftshift.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本企業にもっとも適合したソフトランディング施策は、「リフト＆シフト」ではないかと考えている情報システム担当も多い",
+    "url": "https://infinicloud.com/whitepaper_liftshift.html",
+    "pass": 1
+   },
+   {
+    "quote": "では「リフト＆シフト」とは、一体、何なのか？ このホワイトペーパーでは、いまさら人には聞けなくなった「リフト＆シフト」を、経産省の DX レポートと対比しながら、日本企業にとって最適な出口戦略はなにかを考えたい",
+    "url": "https://infinicloud.com/whitepaper_liftshift.html",
+    "pass": 1
+   }
+  ],
+  "顧客": [
+   {
+    "quote": "so that we can provide our customers",
+    "url": "https://infinicloud.com/en_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "We provide comprehensive and effective solutions to our customers",
+    "url": "https://infinicloud.com/en_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウド・AI導入のご相談受付中",
+    "url": "https://infinicloud.com/whitepaper.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウドやAI導入に関するご相談受付中",
+    "url": "https://infinicloud.com/whitepaper.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウド・AI導入のご相談受付中",
+    "url": "https://infinicloud.com/whitepaper_vmwaredx1.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウドやAI導入に関するご相談受付中",
+    "url": "https://infinicloud.com/whitepaper_vmwaredx1.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウド・AI導入のご相談受付中",
+    "url": "https://infinicloud.com/whitepaper_sparcdx4.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウドやAI導入に関するご相談受付中",
+    "url": "https://infinicloud.com/whitepaper_sparcdx4.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウド・AI導入のご相談受付中",
+    "url": "https://infinicloud.com/whitepaper_strongdollar.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウドやAI導入に関するご相談受付中",
+    "url": "https://infinicloud.com/whitepaper_strongdollar.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウド・AI導入のご相談受付中",
+    "url": "https://infinicloud.com/whitepaper_liftshift.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウドやAI導入に関するご相談受付中",
+    "url": "https://infinicloud.com/whitepaper_liftshift.html",
+    "pass": 1
+   },
+   {
+    "quote": "年俸制導入（年1回毎年7月に、正規従業員は昇給に向けて評価面談）",
+    "url": "https://infinicloud.com/recruit/company_recruit_graduates.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウド・AI導入のご相談受付中",
+    "url": "https://infinicloud.com/aboutsite.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウドやAI導入に関するご相談受付中",
+    "url": "https://infinicloud.com/aboutsite.html",
+    "pass": 1
+   },
+   {
+    "quote": "We apologize for any inconvenience this may cause our customers, and we appreciate your understanding and cooperation.",
+    "url": "https://infinicloud.com/en_company_news_20261026.html",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud-based remote VPN service (Customers using only FortiGate services are not affected)",
+    "url": "https://infinicloud.com/en_company_news_20261026.html",
+    "pass": 1
+   },
+   {
+    "quote": "We remain committed to strengthening our security measures and maintaining a safe and reliable environment for our customers. We sincerely appreciate your continued trust and support.",
+    "url": "https://infinicloud.com/en_company_news_2026102301.html",
+    "pass": 1
+   },
+   {
+    "quote": "Customers using the Cloud-based Remote VPN Service may experience temporary VPN disconnections.",
+    "url": "https://infinicloud.com/en_company_news_20261023.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウド・AI導入のご相談受付中",
+    "url": "https://infinicloud.com/company_news_20260827.html",
+    "pass": 1
+   },
+   {
+    "quote": "プライベートクラウドやAI導入に関するご相談受付中",
+    "url": "https://infinicloud.com/company_news_20260827.html",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "InfiniCloud株式会社は、2001年の創業以来培ってきた",
+    "url": "https://infinicloud.com/company.html",
+    "pass": 1
+   }
+  ],
+  "存続": [
+   {
+    "quote": "VMwareがBroadcomに買収され、ライセンス体系の大幅な見直しが図られた",
+    "url": "https://infinicloud.com/whitepaper_vmwaredx1.html",
+    "pass": 1
+   },
+   {
+    "quote": "We would like to provide an update on our response to the PHP vulnerabilities (CVE-2026-109618 / CVE-2026-109619) disclosed on October 21, 2026.",
+    "url": "https://infinicloud.com/en_company_news_2026102301.html",
+    "pass": 1
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "Trademarks Owned by Others",
+    "url": "https://infinicloud.com/en_company_recruit.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社InfiniCloud ( インフィニクラウド ) TOKYO PRO ... — 株式会社InfiniCloud ( インフィニクラウド ) TOKYO PRO ... 船井総合研究所 https://ipo.funaisoken.co.jp > IPO経営コラム一覧",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/20260520",
+    "pass": 3
+   },
+   {
+    "quote": "企業沿革 - InfiniCloud株式会社 — 企業沿革 - InfiniCloud株式会社 InfiniCloud株式会社 https://infinicloud.com > company_history",
+    "url": "https://infinicloud.com/company_history.html",
+    "pass": 3
+   },
+   {
+    "quote": "テラ クラウド 、事業拡大で「InfiniCloud」に社名変更。エクサ ... — テラ クラウド 、事業拡大で「InfiniCloud」に社名変更。エクサ ... INTERNET Watch https://internet.watch.impress.co.jp > docs > news",
+    "url": "https://internet.watch.impress.co.jp/docs/news/1490893.html",
+    "pass": 3
+   },
+   {
+    "quote": "国産プライベート クラウド InfiniCloud株式会社 — 国産プライベート クラウド InfiniCloud株式会社 InfiniCloud株式会社 https://infinicloud.com",
+    "url": "https://infinicloud.com/",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCloud | TPM上場企業データベース — InfiniCloud | TPM上場企業データベース TPMナビ https://tpm.ipo-navi.jp > infinicloud",
+    "url": "https://tpm.ipo-navi.jp/db/infinicloud",
+    "pass": 3
+   },
+   {
+    "quote": "大容量 クラウド ストレージ - InfiniCLOUD — 大容量 クラウド ストレージ - InfiniCLOUD InfiniCLOUD https://infini-cloud.net > ...",
+    "url": "https://infini-cloud.net/ja/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役より - InfiniCloud株式会社 — 代表取締役より - InfiniCloud株式会社 InfiniCloud株式会社 https://infinicloud.com > company_recruit_message",
+    "url": "https://infinicloud.com/company_recruit_message.html",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCLOUD | All-In-One Cloud Storage | Get 20GB Free — InfiniCLOUD | All-In-One Cloud Storage | Get 20GB Free InfiniCLOUD https://infini-cloud.net > ...",
+    "url": "https://infini-cloud.net/en/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター事業者向けVMware代替IaaS基盤の OEM 提供を ... — データセンター事業者向けVMware代替IaaS基盤の OEM 提供を ... InfiniCloud株式会社 https://infinicloud.com > information_20241114",
+    "url": "https://infinicloud.com/information_20241114.html",
+    "pass": 3
+   },
+   {
+    "quote": "「脱VMware」の技術基盤を OEM 提供、InfiniCloudがスタート — 「脱VMware」の技術基盤を OEM 提供、InfiniCloudがスタート INTERNET Watch https://internet.watch.impress.co.jp > docs > news",
+    "url": "https://internet.watch.impress.co.jp/docs/news/1639719.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - InfiniCloud株式会社 — 会社概要 - InfiniCloud株式会社 InfiniCloud株式会社 https://infinicloud.com > company",
+    "url": "https://infinicloud.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCLOUDの製品情報（特徴・導入事例） - ITreview — InfiniCLOUDの製品情報（特徴・導入事例） - ITreview ITreview https://www.itreview.jp > ... > InfiniCLOUD",
+    "url": "https://www.itreview.jp/products/teracloud/profile",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "InfiniCLOUD_en - X InfiniCLOUD_en - X X https://x.com > InfiniCLOUD_en",
+    "url": "https://x.com/InfiniCLOUD_en",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniCloud株式会社 (@InfiniCloud_co) / X InfiniCloud株式会社 (@InfiniCloud_co) / X X https://x.com > InfiniCloud_co",
+    "url": "https://x.com/InfiniCloud_co",
+    "pass": 3
+   },
+   {
+    "quote": "倉科さてら@InfiniCLOUD (@saterakurashina) / X 倉科さてら@InfiniCLOUD (@saterakurashina) / X X https://x.com > saterakurashina",
+    "url": "https://x.com/saterakurashina",
+    "pass": 3
+   },
+   {
+    "quote": "倉科さてら@InfiniCLOUD on X: \"【メンテナンスのお知らせ ... 倉科さてら@InfiniCLOUD on X: \"【メンテナンスのお知らせ ... X https://x.com > @saterakurashina",
+    "url": "https://x.com/saterakurashina/status/2074286287696359465",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "InfiniCloud Co. Ltd. - LinkedIn InfiniCloud Co. Ltd. - LinkedIn LinkedIn https://jp.linkedin.com > company > infinicloudjapan",
+    "url": "https://jp.linkedin.com/company/infinicloudjapan",
+    "pass": 3
+   },
+   {
+    "quote": "QNAP -> infinicloud(WebDav)へのバックアップ設定 - LinkedIn QNAP -> infinicloud(WebDav)へのバックアップ設定 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > qnap-infinicloudwebdav...",
+    "url": "https://jp.linkedin.com/pulse/qnap-infinicloudwebdav%E3%81%B8%E3%81%AE%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E8%A8%AD%E5%AE%9A-yukihito-hara-dw6hf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Infinicloud（ インフィニクラウド ） (@saterakurashina) Infinicloud（ インフィニクラウド ） (@saterakurashina) Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/saterakurashina/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://infinicloud.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/company_news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/en_company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/company_ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/company_recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/whitepaper.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/whitepaper_vmwaredx1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/whitepaper_sparcdx3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://infinicloud.com/whitepaper_sparcdx4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/whitepaper_strongdollar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/whitepaper_liftshift.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/recruit/company_recruit_graduates.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/aboutsite.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/en_company_news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/en_company_recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/en_company_news_20261026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/en_company_news_2026102301.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/en_company_news_20261023.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/en_aboutsite.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/company_news_20261005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/company_news_20261001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infinicloud.com/company_news_20260827.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/20260520",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://internet.watch.impress.co.jp/docs/news/1490893.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fintel.io/so/us/inv",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/62-ownership-international-business-machines-140020346.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Silver_Lake_(investment_firm)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/divisions/investment/guidance/icreg50-92.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/20260520",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infini-cloud.net/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=-uoDtwSgLQg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salesforce.com/blog/category/revenue-cloud/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atrium.ai/resources/salesforce-revenue-cloud-roadmap-dreamforce-recap/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kugamon.com/compare/pricing/revenue-cloud-advanced/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifs.com/en/about/financial-information",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-reports/2025/2025-annual-report-v01-00-en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.informatica.com/about-us/news/news-releases/2025/11/20251105-informatica-reports-third-quarter-2025-financial-results.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.partnersgroup.com/~/media/files/p/partnersgroup/universal/shareholders/reports-and-presentations/2026/annual-report-2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cloudcapital.co/learn/why-we-raised-7-7m-to-help-cfos-take-back-control-of-cloud-spend",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessinsider.com/cloud-startups-raised-vc-funding-this-year-andreessen-horowitz-lightspeed-2022-7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthlist.co/cloud-computing-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gmicloud.ai/ja/blog/we-raised-over-660-million-to-accelerate-global-ai-infrastructure-expansion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infinidat.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infinitygroup.co.uk/blog/infinity-group-aquires-bamboom-cloud-customers-from-pax8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infini-cloud.net/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/white-label-hub/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudblue.com/glossary/white-label-cloud-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v2cloud.com/add-ons/white-label-cloud-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infiterra.com/white-label-cloud-marketplace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tiny.cloud/blog/logo-brand-refresh-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/affinity/videos/another-one-for-the-shelf-weve-just-won-a-creative-review-annual-award-in-brand-/2456074864853409/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.logogenie.com/logo-cloud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-brandidentity.com/project/seeing-the-unseen-mottos-luminous-rebrand-for-cloudbees-finds-inspiration-in-the-vision-of-bees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://credenceid.com/mobile-id/developer-documentation/tap2id/generate-cloud-sdk-key/?srsltid=AYCX9vI_ND3kbxvCRwFlcbeCUQlyhMRFvbuZSf8_mZq4aBT--h2NSizE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=MtUia0XnZ9U",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://licensespring.com/solutions/cloud-licensing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.salesforce.com/s/articleView?id=001109580&language=ja&type=1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rackspace.com/partner/cloud-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cisco.com/site/us/en/partners/index.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://appomni.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihgplc.com/en/investors/annual-report",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifc.org/en/about/funding-and-investor-relations/financial-statements",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infini-cloud.net/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infini-cloud.net/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infini-cloud.net/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/crunchbase",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/dreduce-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.affinity.co/s/article/Dealroom-co-data-in-Affinity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/InfiniCLOUD_en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/InfiniCloud_co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/saterakurashina",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/saterakurashina/status/2074286287696359465",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/infinicloudjapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/qnap-infinicloudwebdav%E3%81%B8%E3%81%AE%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E8%A8%AD%E5%AE%9A-yukihito-hara-dw6hf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/saterakurashina/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/InfiniCloud_co",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "インフィニクラウド 株主 OR 大株主 OR 出資比率 OR 親会社",
+   "results": [
+    "https://ipo.funaisoken.co.jp/blogs/column/20260520",
+    "https://infinicloud.com/company_history.html",
+    "https://internet.watch.impress.co.jp/docs/news/1490893.html",
+    "https://infinicloud.com/",
+    "https://tpm.ipo-navi.jp/db/infinicloud",
+    "https://initial.inc/companies/A-05054",
+    "https://www.cec-ltd.co.jp/news/2013/5116.html",
+    "https://www.sakura.ad.jp/corporate/information/announcements/2025/12/22/1968222626/",
+    "https://newscast.jp/smart/news/0916631",
+    "https://infinicloud.com/company_ir.html"
+   ]
+  },
+  {
+   "query": "インフィニクラウド shareholders ownership investors parent company",
+   "results": [
+    "https://fintel.io/so/us/inv",
+    "https://finance.yahoo.com/news/62-ownership-international-business-machines-140020346.html",
+    "https://en.wikipedia.org/wiki/Silver_Lake_(investment_firm)",
+    "https://www.sec.gov/divisions/investment/guidance/icreg50-92.pdf",
+    "https://www.cima.ky/upimages/commonfiles/QuarterlyListofallPrivateFundsregisteredandlicensedwiththeCaymanIslandsMonetaryAuthority-30September2022_1665522214.pdf",
+    "https://www.instagram.com/p/DYTT1H_Ee11/",
+    "https://www.reuters.com/world/china/tiktok-reaches-deal-new-us-joint-venture-avoid-american-ban-2026-01-23/",
+    "https://www.ifc.org/en/what-we-do/products-and-services/equity-investments",
+    "https://www.mackenzieinvestments.com/institutional/en/about-us.html",
+    "https://companydata.com/company-ownership-lookup/"
+   ]
+  },
+  {
+   "query": "インフィニクラウド 設立 OR 創業 OR founded",
+   "results": [
+    "https://infinicloud.com/company_history.html",
+    "https://ipo.funaisoken.co.jp/blogs/column/20260520",
+    "https://infini-cloud.net/ja/index.html",
+    "https://infinicloud.com/company_recruit_message.html",
+    "https://internet.watch.impress.co.jp/docs/news/1490893.html",
+    "https://prtimes.jp/main/html/rd/p/000000024.000028662.html",
+    "https://www.stock-app.info/media/teracloud/",
+    "https://x.com/InfiniCloud_co",
+    "https://tpm.ipo-navi.jp/db/infinicloud",
+    "https://en.wikipedia.org/wiki/Infor"
+   ]
+  },
+  {
+   "query": "インフィニクラウド revenue profitable",
+   "results": [
+    "https://www.youtube.com/watch?v=-uoDtwSgLQg",
+    "https://www.salesforce.com/blog/category/revenue-cloud/",
+    "https://atrium.ai/resources/salesforce-revenue-cloud-roadmap-dreamforce-recap/",
+    "https://www.kugamon.com/compare/pricing/revenue-cloud-advanced/",
+    "https://crm.folio3.com/blog/salesforce-revenue-cloud-advanced/",
+    "https://www.trifecta.com/salesforce/revenue-cloud-advanced/",
+    "https://revenuecloud.info/",
+    "https://neocol.com/salesforce-revenue-cloud/",
+    "https://www.youtube.com/watch?v=oOdUO_yytMs",
+    "https://catr.jp/companies/4f6e4/195003"
+   ]
+  },
+  {
+   "query": "インフィニクラウド EBITDA net income annual report",
+   "results": [
+    "https://www.ifs.com/en/about/financial-information",
+    "https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-reports/2025/2025-annual-report-v01-00-en.pdf",
+    "https://www.informatica.com/about-us/news/news-releases/2025/11/20251105-informatica-reports-third-quarter-2025-financial-results.html",
+    "https://www.partnersgroup.com/~/media/Files/P/Partnersgroup/Universal/shareholders/reports-and-presentations/2026/annual-report-2025.pdf",
+    "https://www.compass-group.com/content/dam/compass-group/corporate/oar-2025/oar-page/annual-report-2025.pdf",
+    "https://investors.intuit.com/sec-filings/all-sec-filings/content/0000896878-24-000039/0000896878-24-000039.pdf",
+    "https://www.ghco.com/static-files/bb2d3e56-c5eb-419a-ba9f-00b9dffcdbba",
+    "https://s204.q4cdn.com/864376893/files/doc_financials/2024/ar/39d80bc9-2b0c-4445-be5e-0bedf92b200d.pdf",
+    "https://about.rogers.com/wp-content/uploads/Rogers-2025-Annual-Report.pdf",
+    "https://www.macrotrends.net/stocks/charts/IFNNY/infineon-technologies-ag/ebitda"
+   ]
+  },
+  {
+   "query": "インフィニクラウド funding raised",
+   "results": [
+    "https://www.cloudcapital.co/learn/why-we-raised-7-7m-to-help-cfos-take-back-control-of-cloud-spend",
+    "https://www.businessinsider.com/cloud-startups-raised-vc-funding-this-year-andreessen-horowitz-lightspeed-2022-7",
+    "https://growthlist.co/cloud-computing-startups/",
+    "https://www.gmicloud.ai/ja/blog/we-raised-over-660-million-to-accelerate-global-ai-infrastructure-expansion",
+    "https://newmarketpitch.com/blogs/news/neocloud-funding-news",
+    "https://www.builtinaustin.com/articles/infinite-io-series-b-funding",
+    "https://jumpcloud.com/press/seriesfclose",
+    "https://dealroom.co/lists/cloud-and-infrastructure-startups/",
+    "https://www.capboard.io/en/investors/cloud",
+    "https://alphadrops.net/raises/infinifi"
+   ]
+  },
+  {
+   "query": "インフィニクラウド acquired OR liquidation OR insolvency OR closed",
+   "results": [
+    "https://www.infinidat.com/en",
+    "https://infinicloud.com/",
+    "https://www.infinitygroup.co.uk/blog/infinity-group-aquires-bamboom-cloud-customers-from-pax8/",
+    "https://infini-cloud.net/en/index.html",
+    "https://www.everbridge.com/newsroom/article/everbridge-acquires-infinite-blue-a-leader-in-enterprise-business-continuity-solutions/",
+    "https://www.reuters.com/business/finance/exclusive-new-yorks-infinity-q-winds-down-hedge-fund-valuation-issues-spread-2021-04-19/",
+    "https://www.blocksandfiles.com/file/2021/05/20/infiniteio-domain-name-up-for-grabs-as-co-founder-confirms-company-shut-down/1598811",
+    "https://adastracorp.com/spotlight/adastra-announces-acquisition-of-infinite-services/",
+    "https://www.cpapracticeadvisor.com/2026/02/28/xendoo-buys-botkeeper-infinite-ai-platform-will-remain-active-and-supported/179027/",
+    "https://sc1.checkpoint.com/documents/R81.10/WebAdminGuides/EN/CP_R81.10_SecurityManagement_AdminGuide/Topics-SECMG/Sharing-Configuration-Logs-with-Infinity-Portal.htm"
+   ]
+  },
+  {
+   "query": "インフィニクラウド white label",
+   "results": [
+    "https://upcloud.com/global/white-label-hub/",
+    "https://www.cloudblue.com/glossary/white-label-cloud-service/",
+    "https://v2cloud.com/add-ons/white-label-cloud-services",
+    "https://infiterra.com/white-label-cloud-marketplace/",
+    "https://www.rushfiles.com/blog/the-power-of-white-labeling-in-cloud-storage-solutions",
+    "https://startinfinity.com/help/1.0/getting-started/whitelabel",
+    "https://www.vineforce.net/solutions/white-label-saas",
+    "https://infinicloud.com/information_202510release_infinicloud-hv.html",
+    "https://www.infinitydatacenter.com/stratamail-partner-brand.php",
+    "https://www.stock-app.info/media/teracloud/"
+   ]
+  },
+  {
+   "query": "インフィニクラウド rebrand OR \"your own brand\" OR \"your logo\" OR \"private label\"",
+   "results": [
+    "https://www.tiny.cloud/blog/logo-brand-refresh-process/",
+    "https://www.facebook.com/affinity/videos/another-one-for-the-shelf-weve-just-won-a-creative-review-annual-award-in-brand-/2456074864853409/",
+    "https://www.logogenie.com/logo-cloud",
+    "https://the-brandidentity.com/project/seeing-the-unseen-mottos-luminous-rebrand-for-cloudbees-finds-inspiration-in-the-vision-of-bees",
+    "https://dallasinnovates.com/it-consulting-firm-rebrands-as-cg-infinity-plans-33k-sf-plano-hq/",
+    "https://www.infinity.co/us/",
+    "https://wearemotto.com/portfolio/cloudbees",
+    "https://www.avaya.com/en/products/infinity-platform/",
+    "https://soundcloud.com/official_rebrand",
+    "https://nichedropshipping.com/create-your-private-label/"
+   ]
+  },
+  {
+   "query": "インフィニクラウド OEM SDK licensing partners",
+   "results": [
+    "https://infinicloud.com/information_20241114.html",
+    "https://credenceid.com/mobile-id/developer-documentation/tap2id/generate-cloud-sdk-key/?srsltid=AYCX9vI_ND3kbxvCRwFlcbeCUQlyhMRFvbuZSf8_mZq4aBT--h2NSizE",
+    "https://www.youtube.com/watch?v=MtUia0XnZ9U",
+    "https://licensespring.com/solutions/cloud-licensing",
+    "https://internet.watch.impress.co.jp/docs/news/1639719.html",
+    "https://pubuild.com/partners",
+    "https://partner.infinicloud.com/oempartner.html",
+    "https://www.carahsoft.com/buy/gsa-schedule-contracts/approved-csas",
+    "https://prtimes.jp/main/html/rd/p/000000062.000028662.html",
+    "https://infinicloud.com/202510release_infinicloudai-oem.html"
+   ]
+  },
+  {
+   "query": "インフィニクラウド reseller partner program",
+   "results": [
+    "https://help.salesforce.com/s/articleView?id=001109580&language=ja&type=1",
+    "https://www.rackspace.com/partner/cloud-reseller",
+    "https://www.cisco.com/site/us/en/partners/index.html",
+    "https://appomni.com/partners/",
+    "https://cloud.google.com/partners",
+    "https://www.acronis.com/ja/partners/resellers/",
+    "https://docs.equinix.com/ja/managed-solutions/resellers/gms-resellers/",
+    "https://cloudlinux.com/partners/",
+    "https://learn.microsoft.com/en-my/answers/questions/5806191/how-can-i-become-the-microsoft-cloud-reseller",
+    "https://www.infinidat.com/en/infinidat-partner-program"
+   ]
+  },
+  {
+   "query": "インフィニクラウド Jahresabschluss OR financial statements",
+   "results": [
+    "https://www.ihgplc.com/en/investors/annual-report",
+    "https://infinicloud.com/",
+    "https://www.ifc.org/en/about/funding-and-investor-relations/financial-statements",
+    "https://infini-cloud.net/en/index.html",
+    "https://find-and-update.company-information.service.gov.uk/company/17131879",
+    "https://ir.carecloud.com/financial-results/",
+    "https://www.infinidat.com/en",
+    "https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-reports/2025/2025-annual-report-v01-00-en.pdf",
+    "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2025/04/30/645059_Hawk%20Infinity%20Software%20AS%20-%20Annual%20report%202024.pdf",
+    "https://www.cgi.com/en/investors/financial-reports"
+   ]
+  },
+  {
+   "query": "インフィニクラウド Japan",
+   "results": [
+    "https://infini-cloud.net/en/index.html",
+    "https://infinicloud.com/",
+    "https://infini-cloud.net/ja/index.html",
+    "https://infinicloud.com/company.html",
+    "https://www.itreview.jp/products/teracloud/profile",
+    "https://x.com/InfiniCloud_co",
+    "https://www.facebook.com/saterakurashina/",
+    "https://www.stock-app.info/media/teracloud/",
+    "https://note.com/ai_soudanlab/n/nf9be7d1d44fb",
+    "https://infinicloud.com/product.html"
+   ]
+  },
+  {
+   "query": "インフィニクラウド employees revenue crunchbase OR dealroom OR northdata",
+   "results": [
+    "https://www.crunchbase.com/organization/crunchbase",
+    "https://www.crunchbase.com/organization/dreduce-ai",
+    "https://www.crunchbase.com/",
+    "https://support.affinity.co/s/article/Dealroom-co-data-in-Affinity",
+    "https://www.crunchbase.com/organization/dealroom-co",
+    "https://dealroom.co/",
+    "https://www.zoominfo.com/c/crunchbase/347668538",
+    "https://www.crunchbase.com/organization/cloudflare",
+    "https://www.g2.com/compare/crunchbase-vs-dealroom-co",
+    "https://www.crunchbase.com/organization/dealroom"
+   ]
+  },
+  {
+   "query": "site:note.com インフィニクラウド",
+   "results": [
+    "https://note.com/ai_soudanlab/n/nf9be7d1d44fb",
+    "https://note.com/hayamamasami/n/n51be1e439b58",
+    "https://note.com/maasaam276/n/n1250a48eca2f",
+    "https://note.com/hirozki/n/n85895fabf1cb",
+    "https://note.com/impactmirai/n/n2122d96aadbc",
+    "https://note.com/wcheod1/n/n9fad9cc22583",
+    "https://note.com/infinitech_yosi/n/nbb51b97fbd98",
+    "https://note.com/nonbiristar/n/nc6e83635f73c",
+    "https://note.com/hirozki",
+    "https://note.com/tsukamoto/n/n86b82ddc552f"
+   ]
+  },
+  {
+   "query": "site:x.com インフィニクラウド",
+   "results": [
+    "https://x.com/InfiniCLOUD_en",
+    "https://x.com/InfiniCloud_co",
+    "https://x.com/saterakurashina",
+    "https://x.com/saterakurashina/status/2074286287696359465",
+    "https://x.com/saterakurashina/status/2046383476224709030",
+    "https://x.com/saterakurashina/status/2069934091869560836",
+    "https://x.com/saterakurashina/status/1755799813684351006",
+    "https://x.com/saterakurashina/status/2019608234877919419",
+    "https://x.com/dfinity/status/2025141121190371527",
+    "https://x.com/zatsu_mikka/status/1993496366564430130"
+   ]
+  },
+  {
+   "query": "site:linkedin.com インフィニクラウド",
+   "results": [
+    "https://pl.linkedin.com/company/infinity-cloud-hr",
+    "https://jp.linkedin.com/company/infinicloudjapan",
+    "https://www.linkedin.com/company/infinitycloud",
+    "https://jp.linkedin.com/pulse/qnap-infinicloudwebdav%E3%81%B8%E3%81%AE%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E8%A8%AD%E5%AE%9A-yukihito-hara-dw6hf",
+    "https://www.linkedin.com/company/infinity-cloud-technologies-srl",
+    "https://in.linkedin.com/company/clouds-infinity",
+    "https://de.linkedin.com/in/mariuszjonczyk/en",
+    "https://www.linkedin.com/posts/rounakadhikary_infinity-just-went-viral-bryce-johnson-activity-7433669045679321088-FRHs",
+    "https://www.linkedin.com/pulse/powering-papua-new-guineas-digital-future-cloudsigma-datec-tjahjadi-ofopc",
+    "https://jp.linkedin.com/in/yasushi-taki-3657a223"
+   ]
+  },
+  {
+   "query": "site:facebook.com インフィニクラウド",
+   "results": [
+    "https://www.facebook.com/saterakurashina/",
+    "https://www.facebook.com/datecpng/posts/-kumul-cloud-infinity-grand-launch-pngs-digital-future-begins-on-friday-datec-pn/1516702580492811/",
+    "https://www.facebook.com/61579148370277/videos/papua-new-guinea-has-officially-entered-the-age-of-sovereign-cloud-computing-and/1772307910747908/",
+    "https://www.facebook.com/groups/9228442200560864/posts/33046845264960557/",
+    "https://www.facebook.com/infinitynikki.en/videos/whimsical-reverie-cloud-reveriefour-star-outfit-cloud-reveriethe-actual-effect-i/1139838037645835/",
+    "https://www.facebook.com/huntarsenal/videos/how-to-operate-your-new-cloud-infinity-saddle-from-arsenalalwaysready-projectmob/602006335994559/",
+    "https://www.facebook.com/RedHatAPAC/posts/starhubs-cloud-infinity-program-powered-by-red-hat-openshift-is-redefining-whats/1166480515513918/",
+    "https://www.facebook.com/groups/1464145827194143/posts/4034783773463656/",
+    "https://www.facebook.com/61579148370277/videos/since-the-opening-of-the-infinity-kumul-cloud-data-center-for-this-year-chief-ex/2134792427165428/",
+    "https://www.facebook.com/infinicloud.co.ltd/"
+   ]
+  },
+  {
+   "query": "インフィニクラウド note 社長",
+   "results": [
+    "https://infinicloud.com/",
+    "https://note.com/ai_soudanlab/n/nf9be7d1d44fb",
+    "https://internet.watch.impress.co.jp/docs/news/1490893.html",
+    "https://www.stock-app.info/media/teracloud/",
+    "https://infini-cloud.net/ja/index.html",
+    "https://note.com/directcloud/n/n65c3829458f4",
+    "https://prtimes.jp/main/html/rd/p/000000024.000028662.html",
+    "https://note.com/paycloud/n/nf97749a2cee8",
+    "https://japan.zdnet.com/article/35158978/",
+    "https://infinicloud.com/company_info.html"
+   ]
+  },
+  {
+   "query": "インフィニクラウド X 投稿",
+   "results": [
+    "https://infinicloud.com/",
+    "https://x.com/InfiniCloud_co",
+    "https://infini-cloud.net/ja/index.html",
+    "https://qiita.com/ped-yui123/items/938a8bc62299065718f8",
+    "https://www.stock-app.info/media/teracloud/",
+    "https://www.youtube.com/watch?v=G52sBcEqtbg",
+    "https://www.itreview.jp/products/teracloud/profile",
+    "https://x.com/u1/status/2107707903197282760",
+    "https://saas.imitsu.jp/cate-online-storage/service/26",
+    "https://x.com/InfiniCloud_Co"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）",
+  "設立": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）",
+  "売上": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）",
+  "資金調達": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）",
+  "ホワイトラベル明言": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）",
+  "OEM・組込み": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）",
+  "再販制度": "記載なし（3回確認済み：公式23頁／PDF・画像0件／外部55頁・検索20回）"
+ }
+}

@@ -1,0 +1,2796 @@
+{
+ "name": "製造業の新卒・高卒採用1人あたり費用",
+ "en": "cost per hire new graduates manufacturing Japan",
+ "aliases": [
+  "新卒採用 1人あたり 製造業",
+  "高卒採用 費用 製造業",
+  "就職白書 採用費 製造業",
+  "採用単価",
+  "採用コスト",
+  "高卒採用"
+ ],
+ "context": "製造業",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:16:14.879747+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "また、既存の従業員に過剰な負担がかかり、生産効率が低下することも懸念されます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "経験の浅い従業員が増加したり、既存の従業員に負担が集中したりすることで、作業ミスや製品の品質不良が増える可能性が高まります",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力の低下、納期遅延、従業員の負担増加",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "フレックスタイム制やテレワークを導入することで、従業員の自主性を尊重し、より柔軟な働き方を可能にすることができます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、仕事とプライベートの両立がしやすくなり、従業員の満足度向上に繋がります",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、時短勤務制度や在宅勤務制度などを導入し、従業員のライフステージに合わせた働き方を支援しましょう",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "年間休日数を増やすだけでなく、有給休暇の取得を促進するなど、従業員がしっかりと休暇を取得できる環境を整備することで、ワークライフバランスの向上に貢献できます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの制度を積極的に活用することで、従業員の心身の健康を維持し、より生産性の高い職場環境を実現することができます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "福利厚生は、従業員の生活をサポートする上で重要な役割を果たします",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅手当や家族手当、通勤手当などの経済的な支援に加え、健康診断や保養施設の利用など、健康面でのサポートも充実させることで、従業員の満足度を高めることができます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "また、社内イベントやサークル活動などを支援することで、従業員同士のコミュニケーションを促進し、良好な人間関係を築くことができる職場環境づくりにも貢献します",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "育児支援や介護支援など、従業員のライフイベントに合わせた福利厚生制度も導入することで、よりきめ細やかなサポートを提供することができます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "社内研修制度は、従業員のスキルアップを促進する上で重要な役割を果たします",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員研修や階層別研修、専門スキル研修など、様々な研修プログラムを用意することで、従業員の成長をサポートすることができます",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "資格取得支援制度は、従業員のスキルアップを支援する上で効果的な施策です",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別では、1000人以上が817.1万円、10〜99人が480.2万円とレンジが大きく開いています（出典:",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コストを徹底解説！内訳や計算方法、近年の推移、職種別の金額や削減策も紹介 | タクシタ",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コストを徹底解説！内訳や計算方法、近年の推移、職種別の金額や削減策も紹介",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "企業が従業員を一人採用するためにかかった費用の総額",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "（主に従業員の人件費に関連するコスト）で、外部コストのように明確な金額が見えにくいため、「見えないコスト」とも呼ばれます",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストを徹底解説！内訳や計算方法、一人あたりの相場、職種別・企業規模別の費用も紹介",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "また、業種別に見ると以下のような違いがあります",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストの相場：企業規模別・職種別の比較",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別でみるとIT・通信・インターネットが52.9万円で最も高く、次いで金融・保険・コンサルティングが48.3万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別でみると「保育」が11.2万円と最も高く「接客（ホテル・旅館）」が3.9万円と最も低い数字となっています",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "正社員数100人未満：5.7万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "正社員数500人以上：10.2万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、企業規模別・職種別の採用コスト相場を詳しく見ていきます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "（p.121）によると2023年企業規模別の中途採用コストは以下のようになっています",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別の採用コストの特徴は以下の通りです",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "4. 超大規模企業（1001人以上）",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの職種別採用コストの特徴を詳しく見ていきましょう",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの職種別の特徴を理解し、それぞれに適した採用戦略を立てることが重要です",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "300人未満",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "300〜999人",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "5000人以上",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "応募人数の見通しでは、従業員数が多い企業ほど「増える」と回答する割合が高く、小規模企業ほどその割合が低い傾向",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別・雇用形態別・企業規模別の採用コスト相場",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、「就職白書2019」では、業種別の新卒採用単価が以下のように報告されています",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の一人当たり採用コスト（リクルート就職みらい研究所",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "の基本的な考え方から新卒・中途・業種別の相場、",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の採用コスト傾向は、以下のとおりです",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト実態調査2026｜業種別の相場・トレンド・削減事例を徹底解説",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年における業種別の採用コスト実態と、採用DXによるコスト最適化効果の検証",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界、職種、企業規模によって相場は大きく変動するため、自社の過去の採用データや詳細な業種別調査レポートを併せて参照することが推奨されます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、通年採用の強化や職種別採用、インターンシップからの長期的関係構築など、母集団形成の方法を複線化することが必要です",
+    "url": "https://umai-jinji.jp/column/other-80/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 企業規模別コストシミュレーション",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "3-1. 小規模企業（従業員50名未満・採用2-3名）",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "3-2. 中規模企業（従業員50-300名・採用5-10名）",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "3-3. 大規模企業（従業員300名以上・採用10-20名）",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場｜一人当たりの平均と職種・企業規模別の目安 − マガジン ｜ 【マイナビProfessional】企業向けポータルサイト",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場｜一人当たりの平均と職種・企業規模別の目安 − マガジン ｜ 【マイナビProfessional】企業向けポータルサイト 読み込まれました",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場｜一人当たりの平均と職種・企業規模別の目安",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、特にコストコントロールが難しい「中途採用」に焦点を当て、最新の相場や職種・企業規模別の動向、さらには自社の適正コストを算出する具体的な計算方法までを分かりやすく解説します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の採用単価は、その職種の「採用難易度（需給バランス）」に比例します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "業務委託の費用相場はいくら？職種別の目安と適正価格の見極め方",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員3〜50名：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員51〜300名：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "従業員301〜1,000名：",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "【2027年卒 高校生採用】 スケジュールとルール ハローワークにいつから申し込む？",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "大学や専門学校の新卒者を対象とした採用活動",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "求人サイトやハローワークで募集をかけているものの、なかなか応募がなく悩んでいる製造企業も多いのではないでしょうか",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばハローワークや求人誌だけでなく、求人サイトやSNSを活用したオンライン採用にも取り組むことで、より幅広い層の求職者へアプローチできます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "また、昨今は既存社員から知人を紹介してもらうリファラル採用（社員紹介制度）に取り組む企業も増えています",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "日本人に絞って採用活動を続ける場合、なかなか応募者が集まらず、求人広告を何度も出稿したり、複数の媒体を試したりする必要があり、採用コストが高額になりがちです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材が長期定着してくれれば、求人広告費を支出し続ける必要がなくなるため、採用コストを大きく削減することも可能なのです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、こうした課題は「外国人人材紹介会社」を活用すれば解決できます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "適性やスキルを見極めた人材紹介でミスマッチを防げる",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "採用精度を高めたい企業こそ、ぜひ人材紹介会社の力を借りてみてください",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "もし入社後の支援を不安に感じる場合は、ぜひアフターフォローにも力を入れている外国人人材紹介会社へ相談してみてください",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "「登録支援機関」も兼ねている人材紹介会社なら、特定技能外国人を受け入れる企業に義務付けられている、下記のサポートもワンストップで代行してくれます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "さらに人材紹介会社によっては、外国人材にまつわるトラブルの対処もサポートしてくれます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "はじめて外国人材を受け入れる企業こそ、アフターフォローが充実した人材紹介会社に頼ったほうが安心でしょう",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材の採用は採用コストの削減につながると紹介しましたが、人材紹介会社を利用すれば、さらに大きなコストカット効果が期待できます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば外国人材（技能実習生や特定技能人材）に特化した人材紹介会社は、料金体系がリーズナブルなことが多いため、日本人のみを採用するケースより手数料コストを抑えられる可能性があります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "アフターフォローにも注力している外国人人材紹介会社に依頼すれば、入社後のサポートにかかる手間を減らしつつ、定着率を高めることも可能です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": ": ハローワークと地元紙だけで完結し、20〜30代がよく見る求人媒体やSNSに掲載されていない",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗パターン1: ハローワーク頼み",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "最も多い失敗が、求人媒体をハローワーク中心に置き続けているケースです",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク自体は無料で使える有用な窓口ですが、20〜30代の利用率は下がり続けています",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "20代の転職経験者の多くは、リクナビNEXT、doda、Indeed、エン転職、Wantedlyなどのオンライン媒体を併用しています",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークを切る必要はありませんが、若年層向けの媒体を1〜2本追加するだけで母集団が変わります",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "「求人原稿を直す時間がない」「Indeedの運用方法がわからない」「スカウトを送る余力がない」",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "スタータープラン月額15万円〜で、Indeed・Airワーク運用、求人原稿の改善、応募者対応までを代行します",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "高卒予定者の採用の主なルートである学校斡旋では、三者協定によって、学生は原則1度に1社しか応募できず（地域による）、内定後の辞退は認められず、学生と企業の直接交渉は禁止されているといったルールがあり、応募する会社が学校主導で決められるケースが多いといわれている",
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "pass": 3
+   },
+   {
+    "quote": "23年卒の工業高校の求人倍率は全国平均で20.6倍（全国工業高等学校長協会の調査による）、5年制の高専は24年春入社の求人倍率は20倍であり（国立高等専門学校機構の調査による）、進学者等を除く就職希望者の就職率は99％を超える",
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に1人1社応募ルールや学校主導によって就活が進むという慣例によって、新卒者と企業のミスマッチが生じ、それが高卒新卒者の入社後3年以内の離職率が4割という高い数字につながっているという指摘もある",
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに採用スケジュールも厳格に決まっており、例年、7月1日に求人情報が解禁され、7～8月に職場見学が行われ、9月5日から学校側から企業へ応募書類の提出が開始",
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "pass": 3
+   },
+   {
+    "quote": "「学生は学校から提案された数社のなかからしか選ぶことができず、かつ内定後の辞退は許されないというのは、選択の自由を奪われています",
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社（エージェント）を通じて人材を採用した場合に支払う成功報酬",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "④算出した人件費に、リファラル採用のインセンティブや応募者交通費など、その他の内部コストを加算して、内部コストの合計額を算出します",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、求人広告費の分析例は以下のようになります",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "B人材紹介会社を利用し、1名採用（年収600万円）した場合：",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、チャネルごとの単価を比較することで、どの求人広告や手法が自社にとって効率的かを判断し、予算配分を見直すことができます",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "かつては求人情報誌やハローワークが中心でしたが、2010年代以降、Web求人サイトが主流となり、さらにダイレクトリクルーティングやSNS採用、リファラル採用など、新たな手法が次々と登場しました",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "主なコストは求人広告費ですが、正社員向けの媒体よりも安価に掲載できる場合が多いためです",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "人材獲得競争が非常に激しいため、高額な成功報酬の人材紹介や、データベース利用料のかかるダイレクトリクルーティングサービスの活用が一般的です",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介経由での採用が多く、",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、求人広告やハローワークといった、",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介に比べて、成功報酬が不要、または安価なため、コストを抑えられます",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "4. ハローワークや公的機関を活用する",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークのほか、",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "外部コストには求人広告費、人材紹介会社への紹介手数料、会社説明会の会場費などが含まれます",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、内部コストには採用担当者の人件費、面接官の移動交通費、リファラル採用のインセンティブなどが含まれます",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークや求人媒体に文字情報だけの求人票を掲載しても、自社独自の技術力、職場の雰囲気、熟練工のこだわりなどは伝わりません",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "Indeedに掲載しても応募が来ない原因は？現場職の求人で見直す順番を解説",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告の費用対効果を最大化する媒体選定と改善",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "費用を抑えつつ質を高めるリファラル採用の導入・促進",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストとは、求人広告や人材紹介料などの",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "（Indeed、求人ボックス、リクナビNEXTなど）",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動にかかる外部コストとは、主に求人広告費や人材紹介会社への手数料など、",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "総額には、外部コスト（求人広告費・人材紹介料など）と内部コスト（面接や書類選考にかかる社内工数）を含めます",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "：広告費や人材紹介手数料の増加だけでなく、内部工数も増えることで、一人当たりの総コストが上がります",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "媒体の選び方・求人内容の最適化・自社サイトの整備・選考プロセスの効率化など、複数の施策を組み合わせて初めて費用対効果が高まります",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "わたしたちの支援事例では、Indeedで露出が伸び悩んでいた企業様が、",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "「求人ボックス」へ掲載を切り替えた結果、費用を抑えながら表示回数・クリック数の両方を改善",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "Indeed初心者でもOK！ 応募率アップの秘訣",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告だけに頼らず、自社採用サイトを情報発信の中心に据えることが重要です",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "また、求人ボックスやGoogleしごと検索に対応した構造化マークアップを行うと、無料での露出機会も増えます",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "製造業の人手不足！採用難の原因と最新解決策を徹底解説 | 記事一覧 | 【高卒採用Lab】高校生採用を科学する｜株式会社ジンジブ",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足！採用難の原因と最新解決策を徹底解説",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足は、多くの企業にとって深刻な課題です",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、製造業の人手不足がなぜ深刻化しているのか深堀し、人手不足の具体的な対策について解説いたします",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 製造業における人手不足の原因",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 製造業の人手不足が企業にもたらす影響",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 製造業の人手不足の最新解決策",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "これは製造業にとって、採用可能な人材プールが縮小することを意味し、人手不足を加速させる大きな要因となっています",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "労働力供給の減少は、製造業の人手不足問題の根幹と言えるでしょう",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は、生産ラインの稼働率低下や納期遅延に直結します",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の状況下では、作業やサービス自体の質を維持することが困難になります",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "深刻な人手不足は、事業の継続性さえも脅かします",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は、企業の成長を阻害する大きな要因となります",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による経済的損失は、売上減少、採用コストの増加、残業代の増加など、多岐にわたります",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解消、国際化への対応",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業は慢性的な人手不足が続く業界の一つであるため、これまでと同じ採用手法では、今後も人手確保は難しいかもしれません",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では製造業の求人に応募がこない原因や、人手不足の解決策となりうる新しい採用手法を紹介するので、ぜひ参考にしてみてください",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "【おすすめの採用手法】製造業の人手不足解消には外国人材の採用が有効",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解消することは簡単ではありませんが、効果的な採用戦略を立てるためにも、まずは製造業の採用が難しくなっている背景について詳しく見ていきましょう",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業に限らず、日本全体として人手不足が課題となっている最大の要因は、労働人口が減少していることです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業は全体的に人手不足が進んでいますが、とくに中小製造業における影響が顕著です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "そして若手の後継人材を採用できていないにも関わらず、熟練技能者が定年退職を迎えることで、人手不足感が急増している企業もあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を補うために残業・休日出勤が常態化すると離職が増え、さらに人手不足が進む悪循環に陥る可能性もあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解消するためには、競争を避ける採用戦略を立てることも重要です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を解消するためには、ただ多くの人材に応募してもらうだけではなく、採用した人材に定着してもらうことも大切なのです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "によると、令和6年5月時点における製造業の欠員率（常用労働者に対する未充足求人の割合）は2.0%となっており、人手不足を早急に解決できる方法が求められています",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "こうした状況をふまえると、日本人を雇用するだけでは人手不足を解消するのは難しいのが現実です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "先述したとおり、日本人を採用するだけでは解決できない製造業の人手不足に対し、もっとも即効性のある解決策が「外国人材の採用」です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業で外国人材を採用することには、単に人手不足を解消する以上のメリットがあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "採用手法の多様化や、職場環境の改善、定着支援といった対策も重要ですが、社会的な要因をふまえると、日本人を雇用するだけでは人手不足を解消できない可能性が高いです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "実際、建設業の人手不足倒産は2025年に113件と過去最多を記録しました（出典:",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク 2025年人手不足倒産動向調査",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は8.84倍",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月時点の建設・採掘の職業の有効求人倍率は8.84倍です（出典:",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は2025年113件で過去最多",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の人手不足倒産は全産業で427件、そのうち建設業は113件で全体の26%超を占め、過去最多を更新しました（出典:",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "需要が減らないのに供給だけが細っているため、有効求人倍率が一方的に上がる構造です",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "すでに有効求人倍率8.84倍の市場で、需要側がさらに増えた構造です",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率8.84倍、就業者30%減、人手不足倒産過去最多という数字は、努力不足ではなく構造の問題です",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "25年春入社の高卒者についても、10月24日付「日本経済新聞」記事によれば、採用計画人数の充足率が75.7％と80％を割っており、売り手市場になっている",
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足」「属人化」「ノンコア業務による圧迫」「急な担当者の退職」",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の発表する有効求人倍率も、リーマンショック後の一時的な落ち込みを除き、",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のように、構造的な人手不足と採用手法の変化が相互に影響し合い、採用コストは今後も上昇傾向にあると考えられます",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率の高止まりが続く中、大手との競争に疲弊する中小メーカーも増えています",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率の推移と中小企業が直面する「採用難」",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在、製造業の有効求人倍率は高止まりを続けており、特に現場の技術職や生産管理職では「1人の求職者を複数の企業が奪い合う」激戦状態です",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "多くの製造現場で人手不足が叫ばれる背景には、根深いイメージの問題と、情報のミスマッチが潜んでいます",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "物流業界の人手不足の原因と対策｜ドライバーと倉庫で違う不足の中身と2026年の法改正",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "採用にかかる工数や人手不足の問題が解消され、企業はコア業務に集中できるという利点",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在は、即戦力人材の獲得が極めて困難な「超・人手不足」の状態にあり、採用単価は上昇の一途を辿っています",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "定着率が向上すれば、欠員補充のための「再採用コスト」の発生を未然に防ぐことができ、長期的には採用コスト全体の大きな抑制につながります",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、中小企業の採用課題は「人手不足」よりも、「採用に必要な時間と労力の負担」にあるといえます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに欠員を補充するために、再びゼロから採用活動を開始しなければなりません",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "急な欠員補充や事業拡大に伴う大量採用が必要になった",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "物流業界の人手不足を解消するRPO（採用代行）という手段｜失敗しない導入ステップと比較ポイント",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "建設・施工業界は慢性的な人手不足を抱え、採用単価が高止まりしやすい業界です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率6.55倍という需給ギャップに、後発で入り込むという話です",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は、採用の問題として語られがちです",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "pass": 3
+   },
+   {
+    "quote": "介護業界は、超高齢社会の到来により需要が拡大する一方で、慢性的な人手不足に直面しています",
+    "url": "https://umai-jinji.jp/column/other-80/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（令和8年4月分）について」によると、有効求人倍率は1.18倍、新規求人倍率は2.11倍となっています",
+    "url": "https://www.wantedly.com/hiringeek/recruit/newgrads_cost/",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "【2026年版】高卒採用の「一人一社制」ってどんなルールなの？",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「令和４年版 労働経済の分析」",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「2022年版ものづくり白書」",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン面接は、時間と場所の制約を受けずに面接を実施できるため、遠方からの応募者や多忙な求職者にも対応しやすくなります",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の調査結果や高卒採用のノウハウ、企業の採用担当者からのインタビューなどあらゆる視点から「高校生の採用」を実施する企業へ価値ある情報を提供します",
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版中小企業白書",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "海外現地で日本語・日本の文化などに関する研修を実施しているため、紹介する人材の質が高いと多くの企業から高評価をいただいております",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "建設業で採用ができない原因は？3層構造で原因と打ち手を整理【2026年版】 - ササエル｜建設業の人材課題を解決するパートナー",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業で採用ができない原因は？3層構造で原因と打ち手を整理【2026年版】",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク 2025年人手不足倒産動向調査",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省 令和7年版国土交通白書",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省 令和5年雇用動向調査",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "後述のBRANU調査では、若年層の72%が建設業を就職先の選択肢に入れないと回答しています",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "象徴的なのが、BRANUが2024年11月に発表した調査結果です",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "18〜39歳の72%が「建設業は就職先の選択肢に入らない」と回答しています（出典:",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "BRANU 若年層の建設業就業意識調査 2024年11月",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "BRANUの同調査では、建設業のイメージを企業側と若年層の双方に聞いています",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の転職サービス調査では、20〜30代の転職者は平均3〜5社に同時応募し、最初に内定を出した会社で意思決定する傾向が報告されています",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省 令和6年賃金構造基本統計調査",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "入社1か月・3か月・6か月のタイミングで上司以外との1on1を設定する、現場配属前に2週間の集合研修を入れる、安全衛生に関する不安を吸い上げるアンケートを定期実施する",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば1次面接を現場見学とセットにする、社長面接の前に同年代社員との座談会を入れる、内定前にオフィスで半日体験勤務を実施する",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業の採用代行の費用相場は？失敗しない選び方【2026年版】",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "23年卒の工業高校の求人倍率は全国平均で20.6倍（全国工業高等学校長協会の調査による）、5年制の高専は24年春入社の求人倍率は20倍であり（国立高等専門学校機構の調査による）、進学者等を除く就職希望者の就職率は99％を超える",
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでに累計2,000名以上の就業サポートを実施",
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "pass": 3
+   },
+   {
+    "quote": "通常は1年間（会計年度や暦年）、半期、四半期といった期間で区切ると比較しやすくなります",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビや株式会社リクルートなどの大手人材会社が発表している調査データによると、近年の一人あたりの採用コストの相場は、以下のような水準にあるとされています",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "（注：金額は調査年度や対象企業の規模によって変動します",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の発表する有効求人倍率も、リーマンショック後の一時的な落ち込みを除き、",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "約100万円前後（例：株式会社マイナビ「新卒採用状況調査」など）",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "約80万円～100万円超（例：株式会社マイナビ「中途採用状況調査」など）",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研修の準備や実施にかかる担当者の時間",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リクルート 就職みらい研究所の調査「",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "就職白書2020",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "就職白書2019",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "こちらの2019年調査では全体の新卒採用単価が72.6万円、中途採用単価が84.8万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、一次面接のオンライン化や、現場見学と最終面接を同日に実施するなど、効率的な方法が考えられます",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "フォスターではまず、Indeed上の求人票のタイトル・原稿内容を見直し、求職者の検索意図に合わせたキーワード設定や写真の刷新を実施",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストで見てしまうと比較や分析が難しい場合がありますが、一人当たりの採用コストで見れば、他社や前年度との比較がしやすくなるでしょう",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「就職白書2020」",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "によると2019年度新卒採用および中途採用１人あたりの平均採用コストは以下の通りです",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "19年度の新卒採用（20年卒）：93.6万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "18年度の平均採用コスト （新卒採用71.5万円、 中途採用83.0万円）",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度の新卒採用では一人あたりの平均コストは93.6万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "18年度の平均コストが71.5万円だったことから",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "この資料によると新卒採用を実施する上での課題の上位に「採用に係る人員数」などが挙げられたことが報告されており、",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「中途採用状況調査2024年版（2023年実績）」",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「バイト通信・採用活動に関する最新調査データについて」",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "Indeedの採用市場レポートで職種カテゴリを調査し、マーケットとズレがないことも確認した結果２週間に",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「就職白書2024」データ集",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "応募人数の見通しでは、「増える」と回答した企業が約2割、「同じ」が7割弱、「減る」が1割強となっており、多くの企業が現状維持または微増を見込んでいる状況です",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "応募人数の見通しでは、従業員数が多い企業ほど「増える」と回答する割合が高く、小規模企業ほどその割合が低い傾向",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "内定辞退が多発すると、すでに投資した採用活動のコストが無駄になるだけでなく、新たに採用活動を実施する必要が生じます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "昨年度の単価（例：80万円）と比較し、なぜ20万円上がったのかを分析します",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「2026年卒 企業新卒採用活動調査",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2026年版（2025年実績）",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "選考プロセスでは、相互理解を深めるカジュアル面談の実施や、現場社員の同席による多角的な評価を取り入れ、選考の質を高めましょう",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "入社後1ヶ月、3ヶ月などの節目で面談を実施している",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用では広範囲な母集団形成や説明会実施などにより比較的高額になりやすく、中途採用でも専門人材や即戦力の確保にはコストがかかります",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ『2025年卒 企業新卒内定状況調査』",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "人手不足を補うために残業・休日出勤が常態化すると離職が増え、さらに人手不足が進む悪循環に陥る可能性もあります",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "いくら応募者を集めても、実際の労働環境が整っていなければ、内定辞退や早期離職などにつながってしまうためです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職は採用コストが無駄になるだけではなく、他の社員の退職を誘引したり、既存社員の作業量が増えたり、さまざまな悪影響の原因となりえます",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "によると、令和6年5月時点における製造業の欠員率（常用労働者に対する未充足求人の割合）は2.0%となっており、人手不足を早急に解決できる方法が求められています",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "言語能力や実務レベルはもちろん、性格やキャリアプランなども考慮したうえで最適な人材を紹介してくれるため、ミスマッチによる早期離職リスクを最小限に抑えられることが特徴です",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、どれだけ優秀な人材を採用しても、生活面・業務面でのサポートが不十分だと早期離職される可能性が高いです",
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "実際、建設業の人手不足倒産は2025年に113件と過去最多を記録しました（出典:",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク 2025年人手不足倒産動向調査",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "令和5年（2023年）の建設業の入職者は27.8万人、離職者は28.1万人",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は2025年113件で過去最多",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の人手不足倒産は全産業で427件、そのうち建設業は113件で全体の26%超を占め、過去最多を更新しました（出典:",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "「人がいなくて受注を断る」が「人がいなくて廃業する」に変わる段階に入っています",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒3年以内離職率は、建設業の高卒で43.2%、大卒で30.7%（令和3年3月卒）",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "経路2: 既存社員の負荷増加 → 離職リスクが上がる",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "前述のとおり建設業の3年以内離職率は高卒43.2%・大卒30.7%と高い水準です",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "ここに既存社員の離職が加われば、採用できない以前に「定着しない」問題で穴が広がります",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり2024年問題は、「採用ニーズの増加」と「離職リスクの上昇」を同時にもたらした、二重苦の構造変化です",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒3年以内離職率が高卒43.2%、大卒30.7%（令和3年3月卒）という建設業の数字は、採用力ではなく定着力の問題でもあります（出典:",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "3年以内離職率4割の業界で、入社後フォローはROIの高い投資です",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率8.84倍、就業者30%減、人手不足倒産過去最多という数字は、努力不足ではなく構造の問題です",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ若手は辞める？建設業界の離職率を下げる環境改善と採用力強化の具体策",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "特に1人1社応募ルールや学校主導によって就活が進むという慣例によって、新卒者と企業のミスマッチが生じ、それが高卒新卒者の入社後3年以内の離職率が4割という高い数字につながっているという指摘もある",
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "pass": 3
+   },
+   {
+    "quote": "ミスマッチによる選考離職や早期離職を防ぎ、採用の「歩留まり」を改善することが重要です",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "：短期離職が多いと、再度採用活動を行う必要があり、累積コストがさらに膨らみます",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "ミスマッチの防止（内定辞退・早期離職の防止）",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルバイトの採用コストは一見低く見えますが、離職率が高い傾向にあるため、頻繁な採用活動が必要となる可能性",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員の早期離職は企業にとって大きな損失です",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業にとって社員の早期離職は大きな損失であり、採用コスト（約100万円）が無駄になる",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業は採用コストを多くかけられないため、早期離職が特に痛手となる",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため早期離職のリスクを減らすことができます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "適切なコスト管理により、必要な人材を必要なタイミングで採用することが可能となり、ビジネスの機会損失を防ぐことができます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "5-3. 採用ミスマッチによる早期離職",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "このセクションでは、採用コストが高騰する主な3つの原因として、「採用競争の激化」「採用手法の効果測定不足」「採用ミスマッチによる早期離職」を掘り下げて解説します",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "三つ目の原因は、採用時のミスマッチによって引き起こされる早期離職です",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用時のミスマッチによる早期離職は、大きなコスト増加の要因です",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、企業理解や期待のずれにより早期離職が起きると、採用・教育コストが無駄になるだけでなく、再採用が必要となり工数や現場負担も増加します",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "せっかくコストをかけて採用した人材が早期離職することは、企業にとって最大の損失です",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "定着率が向上すれば、欠員補充のための「再採用コスト」の発生を未然に防ぐことができ、長期的には採用コスト全体の大きな抑制につながります",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価が高くても高い成果を生む人材であれば投資価値は高く、逆に安価でも早期離職が多ければ結果的にコスト増となります",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "必要な人材像や人数が定まっていなければ非効率な採用につながり、評価基準の不統一はミスマッチや早期離職を招きます",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "結果として離職を防ぎ、再採用コストを抑えることにつながります",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、サービス業では応募は集まりやすいものの離職率が高く、再教育や再採用にかかる内部コストが上昇する場合が多いです",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用した人が早期離職せず長く活躍する仕組みを作ること",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "離職が増えれば再び採用活動が必要になり、そのたびに広告費や手数料などが発生して、トータルの採用コストが膨らみます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では一人の離職が業績に直結するケースも多く、定着率の低下は経営リスクにもなり得ます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、入社後フォローや教育体制を整えれば、離職率が下がり、長期的にはコスト削減につなげることが可能です",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "理由として、介護職は離職率が高く、常に採用活動を行う必要があるため、広告費や紹介料が積み重なりやすい点が挙げられます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "パート採用でも、短期離職が増えるほど再採用コストが発生し、年間総額が膨らむ傾向にあります",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ATSでプロセス管理を自動化し、担当者の対応品質を上げたことで離職率低下につながった例も増えています",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "多額のコストをかけて採用した人材が、入社後のミスマッチを理由に早期離職してしまうケースがあります",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職が発生すると、それまでに投じた広告費や人件費、研修費用などがすべて無駄になります",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに欠員を補充するために、再びゼロから採用活動を開始しなければなりません",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職は、それまでに投じたコストをすべて無駄にするだけでなく、再募集にかかる追加コストも発生させます",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "急な欠員補充や事業拡大に伴う大量採用が必要になった",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "により、内部コストや早期離職による再募集リスクを低減できるでしょう",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストをいくら抑えても、早期離職が発生すれば投資は無駄になります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "入社後3ヶ月以内の離職は採用コストが完全に無駄になるため、以下の対策が重要です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職は、それまでに投じたコストをすべて無駄にするだけでなく、再募集にかかる追加コストも発生させます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用後のオンボーディングや評価制度を整え、離職率を下げることこそが、結果的に最も効果的な「採用コスト削減策」となります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "入社後3ヶ月以内の離職は採用コストが完全に無駄になるため、入社前フォローからメンター制度、定期的な振り返り面談まで、計画的なオンボーディング施策が不可欠です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "1人あたりの稼働可能時間が物理的に減り、同じ売上を出すために必要な人員数が増えました",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "これまで月80時間残業していた現場監督が、月45時間に制限されると、1人あたりの稼働量が約20%減ります",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "参考までに、2024年の建設業の平均年収は565.3万円",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別では、1000人以上が817.1万円、10〜99人が480.2万円とレンジが大きく開いています（出典:",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "定着率が10ポイント改善すれば、採用コストは大きく下がります",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "スタータープラン月額15万円〜で、Indeed・Airワーク運用、求人原稿の改善、応募者対応までを代行します",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "職人・施工管理・現場監督の採用実績があり、過去事例では採用単価約67%削減、人件費約62.5%削減を実現したケースもあります",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "月額15万円〜",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、5年以上採用ゼロだった企業が開始3ヶ月で採用を実現した事例や、応募数10倍・採用単価1/2といった実績も生まれています",
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の場合、求人媒体への掲載や紹介会社を通じた採用は、1人当たり数万円〜数十万円かかることも珍しくありません",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "69.4万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "97.8万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりの採用コストを「採用単価」と呼びます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト1人当たりの平均相場（2026年）｜新卒・中途別にコスト削減のコツを解説｜株式会社ONE",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "> 採用コスト1人当たりの平均相場（2026年）｜新卒・中途別にコスト削減のコツを解説",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト1人当たりの平均相場（2026年）｜新卒・中途別にコスト削減のコツを解説",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、まず採用コストがどのような要素で構成されているのかを解き明かし、新卒採用と中途採用それぞれにおける1人当たりの平均相場を最新のデータに基づいて解説します",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "【1】採用コストとは？",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "【2】採用コスト・採用単価の計算方法",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "2-1. 採用コスト（総額）の算出方法",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "2-2. 採用単価（1人当たりの採用コスト）の算出方法",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "3-1. 新卒採用コストの内訳",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "3-2. 新卒採用コストの目安",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "4-1. 中途採用コストの内訳",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "4-2. 中途採用コストの目安",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "【5】採用コストが高騰してしまう3つの原因",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "【6】採用コストを削減・最適化する8つの方法",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "【7】採用コスト削減で失敗しないための注意点",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストは一人当たりいくら？平均相場と内訳をわかりやすく解説 | 採用支援なら【R4】",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストを最適化するための5つの施策",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価5万円で2名採用を実現したコスト最適化事例",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】採用コストが高い5つの原因と削減策｜相場から見直しポイントまで | まるごと人事｜成長企業向けの採用代行｜マルゴト株式会社",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】採用コストが高い5つの原因と削減策｜相場から見直しポイントまで",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "生産年齢人口の減少や採用手法の複雑化により、新卒・中途ともに1人あたりの採用単価は年々上昇しています",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストを構成する2つの要素",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストが高い5つの原因",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストを削減する7つの実践的手法",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば年間で外部コストに500万円、内部コストに300万円を投じて8名を採用した場合、採用単価は100万円です",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用と中途採用では活動期間や手法が異なるため、1人あたりの採用単価にも大きな差が生じます",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "93.6万円",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "56.8万円",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト実態調査2026｜相場と削減事例を解説 | StellaTalentPartners株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト実態調査2026｜相場と削減事例を解説",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の採用コスト実態調査として、新卒・中途の相場目安、業界トレンド、採用単価を最大93%削減した導入事例データを公開",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト実態調査2026｜業種別の相場・トレンド・削減事例を徹底解説",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在、採用コストは「単なる支出」から「戦略的投資」へと性質が変化しており、多くの企業がコストの可視化と最適化に注力しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "」は、建設・ビルメン・不動産・IT業界を含む全国47都道府県の導入企業における採用コスト実態データを公開しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "最大93%の採用単価削減、導入1ヶ月での効果実感など、業種を超えて共通する「採用コスト最適化」の実態が明らかになっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、2026年時点の日本の採用コストおよび採用市場の実態について、最新のトレンドと概況をまとめました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年における業種別の採用コスト実態と、採用DXによるコスト最適化効果の検証",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "約50〜90万円前後",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "約100万円前後",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "約5〜7万円前後",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用で人材紹介を利用した場合、年収400万円の人材で1名あたり約120〜140万円の手数料が発生します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間10名の採用を行う企業では、年間の採用コストが1,400万円に達するケースも珍しくありません",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "初期投資50万円以下",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度実績の全国平均で、医師107.8万円、看護72.5万円、保育66.8万円、介護59.7万円",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "pass": 3
+   },
+   {
+    "quote": "「あなたは採用費を払う側か、もらう側か」という問いから、3つの参入パターンをご紹介しました",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "異様な 高卒採用 ルールで 採用 できない… 1人 1社、内定辞退も ... — 異様な 高卒採用 ルールで 採用 できない… 1人 1社、内定辞退も ... ビジネスジャーナル https://biz-journal.jp > 企業ニュース",
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用 コスト 1人当たり の平均相場（2026年）｜ 新卒 ・中途別に ... — 採用 コスト 1人当たり の平均相場（2026年）｜ 新卒 ・中途別に ... 株式会社ONE https://one-group.jp > ... > 採用ノウハウ記事一覧",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用 コストは一 人当たり いくら？平均相場と内訳をわかり ... — 採用 コストは一 人当たり いくら？平均相場と内訳をわかり ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 採用 コストが高い5つの原因と削減策 — 【2026年版】 採用 コストが高い5つの原因と削減策 まるごと人事 https://marugotoinc.jp > ... > 採用企画",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 コスト実態調査2026｜相場と削減事例を解説 - PR TIMES — 採用 コスト実態調査2026｜相場と削減事例を解説 - PR TIMES PR TIMES https://prtimes.jp > 調査レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用 コスト完全分析 | 大卒 採用 と50-80%削減・投資回収 ... — 高卒採用 コスト完全分析 | 大卒 採用 と50-80%削減・投資回収 ... ゆめスタ https://yumesuta.com > 高卒採用",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価 の相場｜一 人当たり の平均と職種・企業 規模別 の目安 — 採用単価 の相場｜一 人当たり の平均と職種・企業 規模別 の目安 マイナビProfessional https://professional.mynavi.jp > magazine > magazine_402",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用コスト 完全分析 | 大卒 採用 と50-80%削減・投資回収 ... — 高卒採用コスト 完全分析 | 大卒 採用 と50-80%削減・投資回収 ... ゆめスタ https://yumesuta.com > 高卒採用",
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト は一 人当たり いくら？平均相場と内訳をわかり ... — 採用コスト は一 人当たり いくら？平均相場と内訳をわかり ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 単価の相場｜一 人当たり の平均と職種・企業 規模別 の目安 — 採用 単価の相場｜一 人当たり の平均と職種・企業 規模別 の目安 マイナビProfessional https://professional.mynavi.jp > magazine > magazine_402",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用 コストの平均単価や相場、 費用 【2026年最新版 ... — 中途採用 コストの平均単価や相場、 費用 【2026年最新版 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "採用 コスト 1人当たり の平均相場（2026年）｜ 新卒 ・ 中途 別に ... — 採用 コスト 1人当たり の平均相場（2026年）｜ 新卒 ・ 中途 別に ... 株式会社ONE https://one-group.jp > ... > 採用ノウハウ記事一覧",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用 単価の相場【2026年版】｜ 新卒 ・中途の平均、計算方法 — 採用 単価の相場【2026年版】｜ 新卒 ・中途の平均、計算方法 株式会社イノベル https://innovel.jp > メディア",
+    "url": "https://innovel.jp/cost-per-hire-2026/",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "ステップ4. 採用コスト総額の算出",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ4で算出した採用コスト総額を、ステップ5の採用人数で割ります",
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "pass": 3
+   },
+   {
+    "quote": "1人を採用するまでの総額や施策ごとの応募単価を洗い出すことで、費用対効果の低い手段を見直し、",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、採用コストの総額が1000万円で、10人を採用した場合、一人当たりの採用コストは100万円となります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "（p.121）によると2023年に転職サイト、折り込み求人誌、新聞の求人欄、フリーペーパーなどでかかった採用一人当たりの求人広告費は以下の通りです",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "1名あたりの単価にすると２週間で2.5万円の求人広告費ということになります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "2-1. 採用コスト（総額）の算出方法",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "2-3. 1人当たりの求人広告費の算出方法",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "このセクションでは、採用活動全体にかかった費用の「総額」と、採用者1人あたりにかかった費用である「採用単価」という二つの重要な指標の具体的な計算方法を解説します",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "広告費100万円 + 紹介料300万円 + 人件費100万円",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "500万円（総額） ÷ 5人（採用人数）",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりの求人広告費の算出方法",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "広告費120万円 ÷ 広告経由で3人採用",
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "対照的に「SNS採用（約0.9万円）」や「自社採用サイト（約2.8万円）」、「リファラル採用（約4.4万円）」は、広告費を大幅に抑えられるため",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "pass": 3
+   },
+   {
+    "quote": "【2】紹介手数料の実態が、初めて数字で公開された",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が2026年9月30日、医療・介護・保育分野の平均紹介手数料を公表しました",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "pass": 3
+   },
+   {
+    "quote": "紹介手数料は1人あたり60〜100万円",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "pass": 3
+   },
+   {
+    "quote": "手順3：総額を「採用人数」で割る",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用費用の年間平均総額（650.6万円）を採用人数の平均（20.8人）で割った最新の算出値です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "また、1社あたりの採用費総額の平均は287.0万円となっています",
+    "url": "https://www.wantedly.com/hiringeek/recruit/newgrads_cost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用予算は年々積み増しされ、媒体掲載料だけで年間2000万〜5000万円を支出している大手企業は珍しくない",
+    "url": "https://note.com/sei_tamai/n/n269032332e6d",
+    "pass": 3
+   },
+   {
+    "quote": "残りの7割は「感覚と更新実績」で媒体を継続しており、採用予算の30%〜50%が効果測定されない状態で支出されている計算になる",
+    "url": "https://note.com/sei_tamai/n/n269032332e6d",
+    "pass": 3
+   },
+   {
+    "quote": "非上場企業の費用内訳をみると、広告費が168.5万円、セミナー運営費が129.9万円、内定後にかかる費用が42.3万円、その他が30.7万円となります",
+    "url": "https://lab.jinjib.co.jp/archives/2139/",
+    "pass": 3
+   },
+   {
+    "quote": "4.広告費 80万円",
+    "url": "https://lab.jinjib.co.jp/archives/2139/",
+    "pass": 3
+   },
+   {
+    "quote": "大卒の採用コスト371万円は、「広告費：168.5万円」「セミナー運営費：129.9万円」「内定後費用：42.3万円」「その他費用：30.7万円」で構成されています",
+    "url": "https://lab.jinjib.co.jp/archives/2139/",
+    "pass": 3
+   },
+   {
+    "quote": "高卒の採用コストは、「製作費：80万円」「求人票発送代行費：5.0万円」「広告費：80万円」「合同説明会出典費：40.0万円」「その他費用：10.0万円」で構成されています",
+    "url": "https://lab.jinjib.co.jp/archives/2139/",
+    "pass": 3
+   },
+   {
+    "quote": "また採用コストの総額を採用人数で割ると、1人あたりの採用費を割り出すことができます",
+    "url": "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/cost-for-hiring-a-newgrad",
+    "pass": 3
+   },
+   {
+    "quote": "採用費総額の平均は全体で287万円",
+    "url": "https://recup.delight21.co.jp/archives/7469",
+    "pass": 3
+   },
+   {
+    "quote": "（採用費総額は n=986、採用単価は n=901",
+    "url": "https://recup.delight21.co.jp/archives/7469",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業は採用費の総額こそ大きいものの、採用人数も多いため1人あたりの単価は抑えられています",
+    "url": "https://recup.delight21.co.jp/archives/7469",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビの調査では、企業の年間採用費用平均650.6万円で20.8人を採用していることが報告されており、中途採用の効率性が示されています",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、専門性の高い職種や管理職クラスの採用では、人材紹介会社を利用するケースが多く、年収の20~35%にあたる紹介手数料が発生するため、1人あたり100万円を超える場合もあります",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介手数料(年収の20〜35%)、面談・選考工数",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "：知名度やスケールメリットが広告費・年間総予算（最大1,470万円）に与える影響",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍以降の採用急回復期（2024年頃まで）の一時的な広告費高騰が落ち着きを見せたこと、またタイミーなどの「スポットバイト（スキマバイト）」アプリの普及、SNSや無料求人媒体を活用した効率的な採用手法（採用オウンドメディアなど）へのシフトが進んだことが要因と考えられます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の規模によって1人あたりにかける求人広告費に差が生じています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "転職サイトの長期掲載プランや複数名採用枠などを活用することで、広告のボリュームディスカウントが利きやすくなり、1人あたりの求人広告費を27.1万円と最も低く抑えられている",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "1,001人以上の大企業においては、1人あたりの求人広告費の基準が大きく跳ね上がります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビが公表した「中途採用状況調査」によれば、2018年の中途採用費用の実績値のうち、求人広告費用は1社あたり284.7万円となっています",
+    "url": "https://www.halle-a.jp/knowhow/191120.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、採用担当者の人件費や求人広告費、採用仲介手数料等の採用コストについて、5年前との変化を確認したものである",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "pass": 3
+   },
+   {
+    "quote": "1名あたりの相場も◎失敗しない採用予算策定ガイド",
+    "url": "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/",
+    "pass": 3
+   },
+   {
+    "quote": "● 【職種別】1名あたりの求人広告費の相場比較",
+    "url": "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/",
+    "pass": 3
+   },
+   {
+    "quote": "原因1：採用競争の激化による求人広告費の上昇",
+    "url": "https://piic.co.jp/magazine/%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%EF%BC%9F%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E5%B9%B3%E5%9D%87%E7%9B%B8%E5%A0%B4%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、外部コストが130万円、内部コストが40万円かかった場合、採用コストの総額は170万円となります",
+    "url": "https://www.sofcom.co.jp/media/2766/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの例で、採用コスト総額170万円で2人を採用した場合、計算式は「170万円÷2人」となり、1人当たりの採用単価は85万円と算出されます",
+    "url": "https://www.sofcom.co.jp/media/2766/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「求人広告費が総コストの7割を占めている」「一次面接に多くの管理職が参加しており、内部コスト（人件費）が想定以上にかかっている」といったボトルネックを分析します",
+    "url": "https://www.sofcom.co.jp/media/2766/",
+    "pass": 3
+   },
+   {
+    "quote": "経営判断においては、総額だけでなく1人あたりの効率を見ることが重要です",
+    "url": "https://megdai.jp/markebatake/saiyou/6611/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "大卒 採用 が難しくなった今、 高卒採用 という選択肢を真剣に ... 大卒 採用 が難しくなった今、 高卒採用 という選択肢を真剣に ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "大卒採用が難しくなった今、高卒採用という選択肢を真剣に考えてみる｜採用と労務をつなぐ｜sharoK",
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "pass": 3
+   },
+   {
+    "quote": "大卒採用が難しくなった今、高卒採用という選択肢を真剣に考えてみる",
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "pass": 3
+   },
+   {
+    "quote": "6月に入り、高校生の就職活動がいよいよ本格的に動き始める時期になりました。求人票の受付が始まり、企業の採用担当者にとっては慌ただしい季節です。",
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、高卒採用を手がけたこい人事担当者にとっては、「高卒採用って何から始めればいいの？」という状態の方も多いのではないでしょうか。大卒採用とは全く異なるルールと構造を持つ高卒採用市場について、最新データをもとに整理してみました。",
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "pass": 3
+   },
+   {
+    "quote": "高卒採用を語る上でまず理解しておきたいのが、その独自のルール体系です。大卒採用では企業が自由に採用活動のスケジュールを設計できますが、高卒採用は行政（厚生労働省・文部科学省）、全国高等学校校長協会、経済団体の三者協定によって、活動できる時期が厳格に定められています。",
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年3月卒業予定者向けのスケジュールは以下の通りです。",
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "pass": 3
+   },
+   {
+    "quote": "7月1日：求人票の開示、求人解禁（学校訪問解禁）",
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "pass": 3
+   },
+   {
+    "quote": "7・8月：学校訪問（企業）・職場見学（企業）",
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "565.3",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "quote": "参考までに、2024年の建設業の平均年収は565.3万円"
+   },
+   {
+    "value": "817.1",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "quote": "企業規模別では、1000人以上が817.1万円、10〜99人が480.2万円とレンジが大きく開いています（出典:"
+   },
+   {
+    "value": "480.2",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "quote": "企業規模別では、1000人以上が817.1万円、10〜99人が480.2万円とレンジが大きく開いています（出典:"
+   },
+   {
+    "value": "15",
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "quote": "スタータープラン月額15万円〜で、Indeed・Airワーク運用、求人原稿の改善、応募者対応までを代行します"
+   },
+   {
+    "value": "93.6",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です"
+   },
+   {
+    "value": "103.3",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です"
+   },
+   {
+    "value": "69.4",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "69.4万円"
+   },
+   {
+    "value": "97.8",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "97.8万円"
+   },
+   {
+    "value": "10",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担"
+   },
+   {
+    "value": "5",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "quote": "採用単価5万円で2名採用を実現したコスト最適化事例"
+   },
+   {
+    "value": "500",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "quote": "例えば年間で外部コストに500万円、内部コストに300万円を投じて8名を採用した場合、採用単価は100万円です"
+   },
+   {
+    "value": "300",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "quote": "例えば年間で外部コストに500万円、内部コストに300万円を投じて8名を採用した場合、採用単価は100万円です"
+   },
+   {
+    "value": "100",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "quote": "例えば年間で外部コストに500万円、内部コストに300万円を投じて8名を採用した場合、採用単価は100万円です"
+   },
+   {
+    "value": "93.6",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "quote": "93.6万円"
+   },
+   {
+    "value": "56.8",
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "quote": "56.8万円"
+   },
+   {
+    "value": "90",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "quote": "約50〜90万円前後"
+   },
+   {
+    "value": "100",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "quote": "約100万円前後"
+   },
+   {
+    "value": "7",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "quote": "約5〜7万円前後"
+   },
+   {
+    "value": "400",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "quote": "中途採用で人材紹介を利用した場合、年収400万円の人材で1名あたり約120〜140万円の手数料が発生します"
+   },
+   {
+    "value": "140",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "quote": "中途採用で人材紹介を利用した場合、年収400万円の人材で1名あたり約120〜140万円の手数料が発生します"
+   },
+   {
+    "value": "50",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "quote": "初期投資50万円以下"
+   },
+   {
+    "value": "107.8",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "quote": "2024年度実績の全国平均で、医師107.8万円、看護72.5万円、保育66.8万円、介護59.7万円"
+   },
+   {
+    "value": "72.5",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "quote": "2024年度実績の全国平均で、医師107.8万円、看護72.5万円、保育66.8万円、介護59.7万円"
+   },
+   {
+    "value": "66.8",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "quote": "2024年度実績の全国平均で、医師107.8万円、看護72.5万円、保育66.8万円、介護59.7万円"
+   },
+   {
+    "value": "59.7",
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "quote": "2024年度実績の全国平均で、医師107.8万円、看護72.5万円、保育66.8万円、介護59.7万円"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4318/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lab.jinjib.co.jp/archives/6609/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz-journal.jp/company/post_384374.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://umai-jinji.jp/column/other-80/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wantedly.com/hiringeek/recruit/newgrads_cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovel.jp/cost-per-hire-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sei_tamai/n/n269032332e6d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lab.jinjib.co.jp/archives/2139/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/cost-for-hiring-a-newgrad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recup.delight21.co.jp/archives/7469",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.halle-a.jp/knowhow/191120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://saponet.mynavi.jp/guide_saiyo/detail/20210419183222.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resus.jp/topics/4594/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/column/labor-market/detail020.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260119_105919/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://piic.co.jp/magazine/%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%EF%BC%9F%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E5%B9%B3%E5%9D%87%E7%9B%B8%E5%A0%B4%E3%81%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sofcom.co.jp/media/2766/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6611/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://campus.doda.jp/enterprise/column/c35",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 人手不足 受注 断る",
+   "results": [
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4318/",
+    "https://lab.jinjib.co.jp/archives/6609/",
+    "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "https://media.kensetsu-hr.com/useful-information/reasons-why-the-construction-industry-cannot-hire/",
+    "https://biz-journal.jp/company/post_384374.html",
+    "https://www.nikkei.com/article/DGXMZO48278420W9A800C1TJ1000/",
+    "https://www.trinity4e.com/contents/factory/column-08.html",
+    "https://campus.doda.jp/enterprise/column/c35",
+    "https://www.hpnew.com/web-recruiting-advisor/seizougyo_saiyou/seizougyo-saiyo-cost-guide/"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 受注残 人手不足",
+   "results": [
+    "https://go.taxita.com/column/outsourcing006/",
+    "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.hear.co.jp/recruit/manufacturing-recruit",
+    "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 人手不足 損失 億円",
+   "results": [
+    "https://lab.jinjib.co.jp/archives/6609/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000004.000179172.html",
+    "https://www.hc.funaisoken.co.jp/blogs/column/md_column_about_high_school_students_paper_job_searching_in_spite_of_ai_era",
+    "https://umai-jinji.jp/column/other-80/",
+    "https://www.nikkei.com/article/DGXZQOUC1301M0T11C26A0000000/"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 採用単価 規模別",
+   "results": [
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.wantedly.com/hiringeek/recruit/newgrads_cost/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 採用コスト 調査 万円",
+   "results": [
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://note.com/sei_tamai/n/n269032332e6d",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://lab.jinjib.co.jp/archives/2139/",
+    "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/cost-for-hiring-a-newgrad",
+    "https://recup.delight21.co.jp/archives/7469"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.halle-a.jp/knowhow/191120.html"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 採用経路 割合 調査",
+   "results": [
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://www.mhlw.go.jp/content/11600000/001491079.pdf",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://saponet.mynavi.jp/guide_saiyo/detail/20210419183222.html",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://resus.jp/topics/4594/"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 人手不足 充足率 調査 2025",
+   "results": [
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://www.works-i.com/column/labor-market/detail020.html",
+    "https://www.update-up.com/update-hr/column/seizo-saiyoupoint",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://career-research.mynavi.jp/reserch/20260119_105919/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 白書 採用",
+   "results": [
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/cost-for-hiring-a-newgrad",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://www.neo-career.co.jp/humanresource/whitepaper/rm-341/"
+   ]
+  },
+  {
+   "query": "site:note.com 製造業の新卒・高卒採用1人あたり費用",
+   "results": [
+    "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "https://note.com/jinjib/n/n115831a3ac13",
+    "https://note.com/trend_insights/n/n465405a03fc7",
+    "https://note.com/leadstar/n/na54b0254fc05",
+    "https://note.com/juntoku_y/n/n915a5d36b1a8",
+    "https://note.com/clickloop_lab/n/nb6e0c96db8aa",
+    "https://note.com/odata_farm/n/nabfe577d825e",
+    "https://note.com/leadstar/n/nff529c32e97c",
+    "https://note.com/machi_hito1507/n/n15c1d4756b07",
+    "https://note.com/leadstar/n/na131f3af3d58"
+   ]
+  },
+  {
+   "query": "site:x.com 製造業の新卒・高卒採用1人あたり費用",
+   "results": [
+    "http://x.com/toyou_toyowork",
+    "https://x.com/y_ikadatsu",
+    "https://x.com/hayato_e22",
+    "https://x.com/mitanikogyo",
+    "https://x.com/thinktheworld21/status/2117408170104828269",
+    "https://x.com/mmmsumo/all",
+    "https://x.com/sawadaa078",
+    "https://x.com/agrinavi__pr",
+    "https://x.com/KimurasangyoKG",
+    "https://x.com/picapicapero"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 製造業の新卒・高卒採用1人あたり費用",
+   "results": [
+    "https://jp.linkedin.com/posts/%E8%A3%95%E8%B2%B4-%E6%B8%85%E6%B0%B4-ab1a54270_%E5%A2%97%E3%81%88%E3%81%9F%E5%A4%A7%E5%8D%92%E8%81%B7%E3%81%A8%E3%83%9F%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E4%BA%8B%E5%8B%99%E5%B8%8C%E6%9C%9B17%E4%B8%87%E4%BA%BA%E4%BD%99%E3%82%8B-%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%AF%E6%95%AC%E9%81%A0-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E-activity-7286888163078295552-CHaF",
+    "https://www.linkedin.com/pulse/%E6%8E%A1%E7%94%A8%E6%88%A6%E5%9B%BD%E6%99%82%E4%BB%A3%E3%81%AE%E4%BB%8A%E3%81%93%E3%81%9D%E7%AC%AC%E4%B8%80%E5%BF%97%E6%9C%9B%E3%81%A7%E5%BF%9C%E5%8B%9F%E3%81%95%E3%82%8C%E3%82%8B%E6%8E%A1%E7%94%A8%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%8B%E3%81%9F-%E5%B4%87-%E5%A0%80%E5%86%85-bo2rc",
+    "https://jp.linkedin.com/in/hiroyuki-yamane-hrfreaks",
+    "https://jp.linkedin.com/in/naruseami",
+    "https://id.linkedin.com/jobs/view/%EF%BC%9C%E5%A5%91%E7%B4%84%E7%A4%BE%E5%93%A1%EF%BC%9E%E8%A3%BD%E9%80%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E5%8B%9F%E9%9B%86%21%21%E2%80%BB%E7%A6%8F%E5%88%A9%E5%8E%9A%E7%94%9F%E3%83%BB%E7%A0%94%E4%BF%AE%E5%88%B6%E5%BA%A6%E5%85%85%E5%AE%9F%E2%98%85%E6%AD%A3%E7%A4%BE%E5%93%A1%E7%99%BB%E7%94%A8%E5%88%B6%E5%BA%A6%E3%81%82%E3%82%8A%EF%BC%81%E6%9D%B1%E8%A8%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%EF%BC%86%E5%83%8D%E3%81%8D%E3%82%84%E3%81%99%E3%81%84%E7%92%B0%E5%A2%83%E3%81%8C%E9%AD%85%E5%8A%9B%E2%97%8E-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%97%E3%81%94%E3%81%A8%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7-4457742049",
+    "https://jp.linkedin.com/in/makoto-miura-06168373",
+    "https://jp.linkedin.com/in/yuto-onishi",
+    "https://jp.linkedin.com/in/miurasun",
+    "https://jp.linkedin.com/in/mmmsumo",
+    "https://jp.linkedin.com/in/%E6%97%AD-%E5%8C%97%E6%9D%91-326b09316"
+   ]
+  },
+  {
+   "query": "site:facebook.com 製造業の新卒・高卒採用1人あたり費用",
+   "results": [
+    "https://www.facebook.com/matsuo.akihito/posts/%E9%AB%98%E5%8D%92%E3%82%82%E5%A4%A7%E5%8D%92%E3%82%82%E5%88%9D%E4%BB%BB%E7%B5%A630%E4%B8%873000%E5%86%86%E3%83%9F%E3%82%B9%E3%83%9F%E3%81%8C%E5%A4%89%E3%81%88%E3%82%8B%E5%AD%A6%E6%AD%B4%E3%81%A7%E5%BE%85%E9%81%87%E3%82%92%E5%88%86%E3%81%91%E3%82%8B%E6%8E%A1%E7%94%A8%E4%BB%8A%E6%97%A511%E6%9C%882%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E9%9B%BB%E5%AD%90%E7%89%88%E3%81%AB%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%E3%81%8C%E9%AB%98%E5%8D%92%E5%A4%A7%E5%8D%92%E6%97%A2%E5%8D%92%E3%81%AE%E8%8B%A5%E6%89%8B%E3%82%92%E5%90%8C%E3%81%98%E6%9E%A0%E3%81%A7%E6%8E%A1%E7%94%A8%E3%81%97%E5%88%9D%E4%BB%BB%E7%B5%A6%E3%82%92/29096410006645823/",
+    "https://www.facebook.com/shonaicreate/",
+    "https://www.facebook.com/maruyoshi.kogyo/",
+    "https://www.facebook.com/xlabonline/?locale=ja_JP",
+    "https://www.facebook.com/758accel/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E5%A4%A7%E6%89%8B%E3%82%BC%E3%83%8D%E3%82%B3%E3%83%B3%E3%81%8Cai%E5%8C%96%E3%81%B8%E6%B8%85%E6%B0%B4%E5%BB%BA%E8%A8%AD%E3%81%AF%E7%8F%BE%E5%A0%B4%E3%83%AD%E3%83%9C%E5%A4%A7%E6%88%90%E5%BB%BA%E8%A8%AD%E3%81%AFai%E5%80%89%E5%BA%AB-%E6%97%A5%E6%9C%AC%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%8C%E5%8B%95%E3%81%8D%E5%87%BA%E3%81%97%E3%81%9F%E4%BB%8A%E6%97%A57%E6%9C%8810%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AEai%E3%81%AE%E9%80%B2%E3%82%80%E6%96%B9%E5%90%91%E3%81%8C%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A%E8%A6%8B%E3%81%88%E3%81%9F%E6%B0%97%E3%81%8C%E3%81%97%E3%81%BE%E3%81%97/27618069661146539/",
+    "https://www.facebook.com/groups/167307749723853/posts/1004469602674326/",
+    "https://www.facebook.com/61590495734661/videos/%E4%BD%93%E5%8A%9B%E3%81%AB%E8%87%AA%E4%BF%A1%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E5%A4%A7%E4%B8%88%E5%A4%AB%EF%B8%8F%E6%9C%88%E7%B5%A6285000%E5%86%86%E5%B9%B4%E9%96%93%E4%BC%91%E6%97%A5120%E6%97%A5%E6%9C%AA%E7%B5%8C%E9%A8%93ok%E5%A4%A7%E9%98%AA%E9%AB%98%E6%A7%BB%E3%81%AE%E9%89%84%E7%AD%8B%E5%B1%8B%E3%81%A7%E3%81%9921%E6%AD%B3%E5%85%83%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E9%83%A8%E5%BB%BA%E8%A8%AD%E3%81%AF%E6%9C%AA%E7%B5%8C%E9%A8%9323%E6%AD%B3%E7%AC%AC%E4%BA%8C%E6%96%B0%E5%8D%92%E5%89%8D%E8%81%B7%E3%81%AF%E5%96%B6%E6%A5%AD20%E6%AD%B3%E4%BD%93%E5%8A%9B%E3%81%AB%E8%87%AA%E4%BF%A1/1665022524957145/",
+    "https://www.facebook.com/p/Cuttwin_recruit-100095025072024/?locale=ja_JP",
+    "https://www.facebook.com/iwamotoseika.fp/videos/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%8B%9F%E9%9B%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E5%B2%A9%E6%9C%AC%E8%A3%BD%E8%8F%93%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%AF%E3%82%BF%E3%83%9E%E3%82%B4%E3%83%9C%E3%83%BC%E3%83%AD%E3%81%AA%E3%81%A9%E3%81%AE%E8%8F%93%E5%AD%90%E3%81%AE%E5%8C%85%E8%A3%85%E6%A4%9C%E5%93%81%E5%87%BA%E8%8D%B7%E6%A5%AD%E5%8B%99%E3%82%92%E6%8B%85%E5%BD%93%E3%81%99%E3%82%8B%E6%AD%A3%E7%A4%BE%E5%93%A1%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E5%8B%A4%E5%8B%99%E5%9C%B0%E6%9C%AC%E7%A4%BE%E5%B7%A5%E5%A0%B4%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%A8%B2%E6%B2%A2%E5%B8%82%E6%97%A5%E4%B8%8B%E9%83%A8%E5%8C%97%E7%94%BA4/1967122333954079/"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 note 社長",
+   "results": [
+    "https://note.com/sharok/n/nbfd9b0aa04ea",
+    "https://hrnote.jp/contents/a-contents-rpo-saiyoukosuto-190111/",
+    "https://note.com/sei_tamai/n/n269032332e6d",
+    "https://yumesuta.com/kosotsusaiyo/cost-analysis",
+    "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "https://note.com/sei_tamai/n/n4bf41d34e011",
+    "https://nippon-smes-project.com/magazine/column/132/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://lab.jinjib.co.jp/archives/2139/",
+    "https://campus.doda.jp/enterprise/column/c35"
+   ]
+  },
+  {
+   "query": "製造業の新卒・高卒採用1人あたり費用 X 投稿",
+   "results": [
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://marugotoinc.jp/blog/saiyocost_expensive/",
+    "https://www.place-ability.jp/tips/%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8%E3%81%AB%E3%81%8B%E3%81%8B%E3%82%8B%E3%82%B3%E3%82%B9%E3%83%88%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%EF%BC%9F1%E4%BA%BA%E5%BD%93%E3%81%9F%E3%82%8A%E3%81%AE%E5%B9%B3/",
+    "https://manten-comic.com/recruitment-cost-per-hire-guide/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/cost-for-hiring-a-newgrad",
+    "https://campus.doda.jp/enterprise/column/c35"
+   ]
+  },
+  {
+   "query": "cost per hire new graduates manufacturing Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/almost-30-turnover-manufacturing-organizations-during-behbahani-f437e",
+    "https://www.linkedin.com/pulse/180000-mistake-why-your-japan-hire-just-quit-after-90-lim-fsesc",
+    "https://www.linkedin.com/pulse/copy-optimizing-recruiting-costs-key-drivers-strategies-hyreo-emmlc",
+    "https://www.linkedin.com/pulse/why-recruiting-japan-so-challenging-6-key-facts-2025-shion-king-5czec",
+    "https://www.linkedin.com/pulse/true-cost-making-wrong-hire-five-signs-you-got-right-xible",
+    "https://www.linkedin.com/pulse/entry-level-job-market-failing-class-2025-mirna-daouk-oot7e",
+    "https://www.linkedin.com/top-content/recruitment-hr/talent-acquisition-metrics/cost-per-hire-and-time-to-fill-metrics/",
+    "https://www.linkedin.com/pulse/real-cost-bad-hire-how-avoid-2025-hallmark-global-solutions-dflfc",
+    "https://www.linkedin.com/pulse/how-get-job-japan-from-overseas-common-questions-i-am-edmund-ho-9lqjc",
+    "https://www.linkedin.com/pulse/cost-per-hire-recruitment-costs-hidden-expenses-how-calculate-0tfve"
+   ]
+  }
+ ],
+ "missing": {}
+}

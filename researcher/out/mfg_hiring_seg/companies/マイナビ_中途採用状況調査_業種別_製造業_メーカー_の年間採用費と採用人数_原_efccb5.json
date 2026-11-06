@@ -1,0 +1,2761 @@
+{
+ "name": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF",
+ "en": "Mynavi mid-career hiring survey manufacturer annual hiring cost",
+ "aliases": [
+  "中途採用状況調査 メーカー 採用費 site:mynavi.jp",
+  "中途採用状況調査 業種別 平均 採用費 filetype:pdf",
+  "マイナビ 中途採用状況調査 製造",
+  "中途採用状況調査"
+ ],
+ "context": "原典",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:09:06.638590+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "中途採用の量・質の満足度は向上、求職者の質や早期離職は依然と課題【",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、依然として求職者の質や早期離職は中途採用の課題",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、求職者の質や早期離職、応募者の確保は依然として中途採用の課題上位となっている",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅層の退職は、欠員補充では早期に代替しにくく、業務の安定運用に影響を与えることから、企業活動において影響が大きいと認識していることが考えられる",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅層の退職は、欠員補充では早期に代替しにくく、業務の安定運用に影響を与えることから、企業活動において影響が大きいと認識していることが考えられる",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "約4割の企業が“やっぱり離職（懸念がありつつ採用→離職）”を経験",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "約4割が「やっぱり離職（離職リスクが高い懸念がありつつ採用したがやはり離職となった）」を経験",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "約4割が「やっぱり離職（離職リスクが高い懸念がありつつ採用したが、やはり離職となった）」を経験",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "採用後に退職してしまったケースについて、「選考時に離職リスクの高さを懸念しつつ採用したが、やはり離職となってしまったケース（やっぱり離職）」の経験があるか聞いたところ、39.6%の企業が今までに「経験あり」と答えた",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "【図7-1】やっぱり離職の経験有無／マイナビ「中途採用状況調査2025年版」",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "「やっぱり離職」経験者に要因として考えられるものを選んでもらったところ、「仕事内容のミスマッチ（24.5%）」が最も多く、「社風・仕事文化とのミスマッチ（18.7％）」「上司との相性が合わなかった（18.4％）」が続いた",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "採用数確保のためにスピード感を優先したり、求めていたレベルや条件には合わないが人柄で採用した結果、ミスマッチが生じて「やっぱり離職」に繋がったケースも考えられる",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "「やっぱり離職」を防ぐためには、選考時に仕事内容のすり合わせを徹底したり、入社前に職場見学や上司となる予定の社員に会わせるなど、企業や社員と応募者の相性確認を強化することが求められるだろう",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "【図7-2】やっぱり離職の要因／マイナビ「中途採用状況調査2025年版」",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査では、離職リスクを懸念しつつ採用した人が、結局離職となってしまう「やっぱり離職」を経験した採用担当者が多いこともわかりました",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
+    "url": "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の人事担当者に直近半年間（2025年1月～6月）における中途採用の実施理由を聞くと、「即戦力の補充（48.4％）」が最多、次いで「退職者の増加（自己都合による欠員の増加）（32.4％）」「既存事業の拡大（30.3％）」だった",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト削減のためには早期離職防止対策が重要",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスマッチによる内定辞退や早期離職が生じると、採用活動を再度やり直さなければなりません",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の風土や価値観に合わない人材を採用すると、早期離職のリスクが高まるためです",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、面接の回数を減らし過ぎるとミスマッチが生じやすくなり、内定辞退や早期離職につながるおそれがあります",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職を減らすことも、採用コスト削減のために重要な施策です",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "早い段階で離職されてしまうと、採用にかけたコストを回収できません",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職を減らすためには、自社の価値観や風土にマッチした人材を採用することが重要です",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職の防止策については、以下の記事でも詳しくご紹介しています",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒社員の早期離職はどう防ぐ？早期離職の理由を知り対処法を考えよう",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒社員が早期離職してしまうと教育コストを回収できないだけでなく、長期的な人材確保が困難となるおそれがあります",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "コストを減らしつつ、効率の良い採用活動を実現するためには、採用手法を見直すと同時に、内定辞退や早期離職を防止することが重要です",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職を防ぐには、新入社員のパフォーマンスを把握し、メンタル面を含めた適切なフォローを行う必要があります",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員のメンタル状態の定期的な可視化・個々の性格に合わせたアドバイス提供を通じ、離職・休職を防ぐエンゲージメントサーベイ",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "どれだけ安く応募を集めても、内定辞退や早期離職が発生すれば再採用のコストがかかり、実質的な採用単価は跳ね上がります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "適性検査なども組み合わせ、客観的なマッチ度を測ることが早期離職の防止につながります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "なぜなら、自社と合わない転職希望者を採用すると、入社後に本人が十分に活躍できず、早期離職につながるリスクがあるためです",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "せっかく採用できたにもかかわらず早期離職が起きると、また一から採用活動を始めることとなり、結果的に採用コストが増えてしまいます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "面接だけではわからない候補者の本当の働く姿を可視化する、オンライン完結型リファレンス／コンプライアンスチェックツール「back check（バックチェック）」によって早期離職や人材リスクを未然に防ぐことが可能です",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の定着率を高めることで、欠員補充のための採用コストを削減することができます",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "また、入社後のオンボーディングもスムーズになり、早期離職のリスクを減らせる点もメリットです",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用は採用コストが高くなりがちなため、早期離職はできるだけ避けたいところです",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "また、採用ミスマッチの減少により、早期離職の防止にもつながり、結果として採用コストや教育コストの削減にも資することが見込まれます",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、サービス業では応募は集まりやすいものの離職率が高く、再教育や再採用にかかる内部コストが上昇する場合が多いです",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "採用した人が早期離職せず長く活躍する仕組みを作ること",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "離職が増えれば再び採用活動が必要になり、そのたびに広告費や手数料などが発生して、トータルの採用コストが膨らみます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では一人の離職が業績に直結するケースも多く、定着率の低下は経営リスクにもなり得ます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、入社後フォローや教育体制を整えれば、離職率が下がり、長期的にはコスト削減につなげることが可能です",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "理由として、介護職は離職率が高く、常に採用活動を行う必要があるため、広告費や紹介料が積み重なりやすい点が挙げられます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "パート採用でも、短期離職が増えるほど再採用コストが発生し、年間総額が膨らむ傾向にあります",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ATSでプロセス管理を自動化し、担当者の対応品質を上げたことで離職率低下につながった例も増えています",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし飲食業では離職率の高さから頻繁な採用活動が必要になり、結果的にコストがかさむケースも少なくありません",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "入社前の期待と入社後の現実にギャップがあると、短期間で離職するケースが多く見られます",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストが上がり続けている理由は、採用手法の選択ミス、採用担当者の業務量の増加、早期離職による再採用の3つに集約されます",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "入社後のミスマッチによる早期離職が増えている",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、働き手側の退職代行サービスの利用が急増しており、ますます早期離職のリスクが高まっているのが現状です",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "早期離職が発生する背景には、採用プロセスでの適性評価や企業文化との適合性の見極めが不足していることがあります",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "外部コストを削るだけでなく、内部コストと早期離職の再採用費を減らす打ち手を組み合わせると効果が大きくなります",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "紹介された候補者は既に社内の文化や価値観に理解があるため、定着率が高く、早期離職のリスクも低くなります",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "従業員満足度を高めることで、離職率を抑え、定着につながります",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "新潟県で総合建築業を展開する株式会社丸山組は、既存の評価制度が社員の実績や貢献度を正確に反映しておらず、社員のモチベーション低下と高い離職率に悩まされていました",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "この取り組みにより、社員のモチベーションが向上し、離職率の低下を実現しました",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "もう1つは採用した人材の初年度の貢献と早期離職率を合わせて見ることです",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "単価が安くても早期離職が多ければ、再採用費で結局高くつきます",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   }
+  ],
+  "セグメント定義": [
+   {
+    "quote": "業種別の推移／職種別の推移／本社所在地別の推移",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを9の「職種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査／中途採用実態調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、募集当初に求めたスキルや経験を満たさない場合、「採用しないことが多かった」割合は62.1%で前年より7.7pt増加しており、企業規模別では従業員数が少ないほど高かった",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数3名以上の企業において、直近（2025年1～12月）に",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の推移／職種別の推移／本社所在地別の推移",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを9の「職種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査／中途採用実態調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、募集当初に求めたスキルや経験を満たさない場合、「採用しないことが多かった」割合は62.1%で前年より7.7pt増加しており、企業規模別では従業員数が少ないほど高かった",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "■対象者：従業員数3名以上の企業において、直近（2025年1～12月）に中途採用業務を担当しており、「採用費用の管理・運用」に携わっている人事担当者 1,500名",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別で見ると不足感が高かった業種は「建設業」だった",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別で見ると、「経験者採用に積極的計」は「医療・福祉・介護」が最も高く、「未経験者採用に積極的計」は「運輸・交通・物流・倉庫」が最も高かった",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の推移／職種別の推移／本社所在地別の推移",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを9の「職種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査／中途採用実態調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "特に企業規模が300人以上の大企業では6割近くが効果ありとみている",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "にみると、従業員数が多くなるほど不足感が強くなり、『300人以上』では「不足している計」が7割超",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "60人未満 (142) 21.2 57.8",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人以上 (266) 14.3 72.2",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数別でみると、『300人以上』で「労働時",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "間短縮への対応」が『299人以下』の企業と比べて高い",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "60人未満 (142) 38.7% 37.3% 39.4% 30.3% 33.1% 25.4% 19.0% 23.9%",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人以上 (266) 42.1% 38.7% 39.8% 37.6% 32.7% 29.7% 26.3% 25.6%",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "60人未満 (142) 29人 12人 3人 2人 4人 50%",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人以上 (266) 205人 84人 27人 21人 32人 66%",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数別にみると、『300人以上』で「採用目標には達",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "60人未満 (142)",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人以上 (266)",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "60人未満 (142) 26.7 17.6",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300人以上 (266) 41.3 17.6",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、職種別に正社員人材の不足感について聞いたところ、正社員の人手不足感が強い職種1位が3年連続で[ITエンジニア]となるなど、専門職分野や20代などの若手採用に意欲的な1年であったと類推される",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数3名以上の企業において、直近（2024年1～12月）に中途採用業務を担当し、",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の推移／職種別の推移／本社所在地別の推移",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを9の「職種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査／中途採用実態調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の実施率では、「IT・通信・インターネット」が最も高く54.2%",
+    "url": "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "pass": 3
+   },
+   {
+    "quote": "【図2】業種別中途採用実施率／中途採用・転職活動の定点調査",
+    "url": "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "pass": 3
+   },
+   {
+    "quote": "・スクリーニング調査：従業員数3名以上の企業に所属している全国の経営者・役員または会社員で、中途採用業務を担当している人",
+    "url": "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "pass": 3
+   },
+   {
+    "quote": "・スクリーニング調査：従業員数3名以上の企業に所属している全国の20-50代の正社員",
+    "url": "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の推移／職種別の推移／本社所在地別の推移",
+    "url": "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを9の「職種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査／中途採用実態調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別では、[金融・保険・コンサルティング]で「今後は積極的になる（計）」が59.1％と全業種のうちもっとも高い",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の副業認可率（従業員の副業を認可する制度がある割合）は72.5％で、前年から1.7pt増加した",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "副業を認可している企業の担当者に社内で副業している社員がいるか聞くと、80.8％が「副業している社員がいる」と回答したが、副業している社員の人数については、従業員300名以下（「従業員50名以下」＋「従業員51～300名」）では「3～10名」の割合が最多、従業員数300名以上でも「11～50名」の割合が最多と、限定的な規模にとどまっているようだ",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別では、副業している社員がいる割合は、「IT・通信・インターネット」業界が86.7％と最も高く、業界特性として柔軟な働き方が浸透している可能性がうかがえる",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "【図3】実際に従業員が副業している割合／中途採用実態調査2025年版",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、副業認可率（72.5％）と比較すると、受け入れ率はやや低く、従業員向け制度として副業が可能であっても、副業人材を受け入れる環境は整っていない企業も一定数存在していると考えられる",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別では、[IT・通信・インターネット]が副業人材の受け入れ率がもっとも高かった",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別の推移／職種別の推移／本社所在地別の推移",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査／転職活動における行動特性調査それぞれを9の「職種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査／中途採用実態調査それぞれを11の「業種別」に分析した詳細レポート",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "採用費用は平均６２９．７万円（同５５．８万円増、９．７％増）と１割近く増え、業種別では「ＩＴ・通信・インターネット」が最高の９９８．５万円でした",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用の費用が増加傾向にある中、業種別の費用感や採用人数には業種間のギャップがあります",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "は、2025年1～6月に中途採用業務を担当し、募集活動をしており、採用費用の管理・運用に携わっている人事担当者を対象に実施した「マイナビ 中途採用実態調査 2026年版」の結果を発表した",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "■対象者：従業員数3名以上の企業において、直近（2025年1～12月）に中途採用業務を担当しており、「採用費用の管理・運用」に携わっている人事担当者 1,500名",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "転職前後の年収はともに「300～349万円」が最も多かったが、転職後は300万円未満が減少し、700～849万円の回答数が増加している",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "単一回答をもとに平均年収を求めると、転職前は平均514.5万円、転職後は平均533.7万円となり、19.2万円の差となった",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用活動が【楽だった理由】は、「求職者の質が高かった」が36.0％で最も高く、「採用費用を増加した」は2016年より下がり28.0％で続く",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[14] 採用費用",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の年間平均採用費用は、「人材紹介」が466.6万円で、「求人広告」が294.2万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「人材紹介」「求人広告」ともに、「製造・メーカー」が最も高く、それぞれ783.8万円、340.6万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【1年間の採用費用（平均：万円）】",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0万円 200万円 400万円 600万円 800万円 1,000万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の職種別求人広告費の１社あたり年間平均費用は、「販売・フード・アミューズメント」が412.9万円で最も高く、「営業」が223.9万円、「医療・福祉」が137.9万円で続く",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0万円 100万円 200万円 300万円 400万円 500万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用費用総額は平均650.6万円で前年より20.4万円増加",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "採用費用総額は平均650.6万円で前年より20.9万円増加",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "また、中途採用費用は平均650.6万円で、前年から20.9万円増加となった",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "【図1】2024年の中途採用人数（平均）／採用費用合計（平均）／マイナビ「中途採用状況調査2025年版」",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の中途採用費用",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年1～6月に中途採用業務を担当し、募集活動をしており、採用費用の管理・運用に携わっている人事担当者を対象に実施した「マイナビ 中途採用実態調査 2025年版」の結果を発表した",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "昨年の中途採用者数は２１．８人 採用費用も１割増加、マイナビ - キャリアパワーのブログ",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "pass": 3
+   },
+   {
+    "quote": "昨年の中途採用者数は２１．８人 採用費用も１割増加、マイナビ",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "pass": 3
+   },
+   {
+    "quote": "採用費用は平均６２９．７万円（同５５．８万円増、９．７％増）と１割近く増え、業種別では「ＩＴ・通信・インターネット」が最高の９９８．５万円でした",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、深刻な人手不足に見舞われている「医療・福祉・介護」は２６２．８万円の最低クラスで、採用数が多い割に低くなっています",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用にかかった費用合計の平均は650.6万円",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "650.6万円 ÷ 20.8人 ＝ 約31.3万円",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用の平均採用単価は約31.3万円という推察結果になりますが、この数値は企業規模や業種、採用手法によって大きく変動します",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、人材紹介を多く利用する企業の場合、年収の30〜35％程度の紹介手数料が発生するため、採用単価が大きく上昇するケースもあります",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "参考までに、株式会社マイナビが公表した「マイナビ2024年卒企業新卒内定状況調査」によると、新卒採用における一人当たりの平均採用コストは56.8万円でした",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "以下のデータは、就職みらい研究所が「就職白書2020」で発表した1人当たりの採用コストです",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "やや古いデータですが、2019年時点では新卒・中途ともに1人当たりの採用コストは約100万円でした",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "71.5万円",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "93.6万円",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "83.0万円",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストを構成する2つの要素",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 採用単価を下げるために無料の求人サービスを使う際の注意点はありますか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q2. 採用単価を算出する際、どこまでを「内部コスト」に含めるべきですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. 採用単価が市場相場より大幅に高くなっている場合、まず何から手をつければよいですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. 採用単価を下げると採用の質が落ちませんか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "Q5. 自社の採用単価が高いかどうかはどう判断すればよいですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価（1人当たりの採用コスト）の算出方法",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "なお、採用コストは「外部コスト」「内部コスト」の大きく2つに分けられます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "342.4万円",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "372.1万円",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "184.3万円",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "134.6万円",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "【人事担当者必見】中途採用コストの相場と削減方法13選！効率的な採用戦略の実践法| back check(バックチェック)",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "【人事担当者必見】中途採用コストの相場と削減方法13選！効率的な採用戦略の実践法",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "【外部コスト編】中途採用コストを削減する方法6選",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "【内部コスト編】中途採用コストを削減する方法7選",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "（※１）によると、2024年の中途採用費用の総額は平均650.6万円となっています",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "484.3万円",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "573.9万円",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "629.7万円",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "650.6万円",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "によると、中途採用における一人当たりの採用コストは、103.3万円となっています（※２）",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの平均採用コスト",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "21年比では「管理職層」の不足感が上昇【",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "「一般社員」の不足感が高い一方、2021年比では「管理職層」の不足感が上昇",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "直近半年間で中途採用を行った企業の採用担当者に、「直近半年間での自社の正社員の過不足感」を聞いたところ、全体の43.5％が「不足している」と回答した",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "役職別の不足感をみると、「一般社員（役職についていない人材）」が43.1%で最多となり、「係長・主任・職長クラス（39.2%）」、「課長クラス（34.8％）」と続いた",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、2021年比では部長・課長クラスの「管理職層」の不足感はいずれも約7pt増加しており、上り幅が大きい傾向がみられた",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "【図1】企業側の人手不足感／中途採用実態調査2026年版",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査では、部長・課長クラスの人材不足感が5年前と比べて上昇しており、2026年1～6月に中途採用を実施した企業側の半数以上が管理職を中途採用していることがわかった",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の不足感は人材の「量」から「質」へ変化している傾向",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "採用目標の達成率向上は、採用活動そのものの量的拡大によるもの以上に、人手不足や採用難を背景に、採用目標人数を下方修正し、採用計画を現実的な水準に見直したことが影響している可能性が考えられる",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "4割超の企業が正社員の不足を実感、不足感の焦点は人材の「量」から「質」へ",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の正社員の過不足感について、「不足感がある」が40.1%となり、「余剰感がある（25.4%）」を14.7pt上回った",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "不足感は前年比で低下したものの、依然として高い水準となった",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "不足感があると回答した企業に具体的な内容を聞くと、人数など人材の「量的（計）」な不足は69.6%（前年比-3.7pt）で減少している一方で、高スキル人材などの「質的（計）」な不足は55.6%（前年比+6.7pt）と前年より増加した",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の不足感は「人数」から「高スキル人材・即戦力など」へ移行しつつある可能性がうかがえる",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "【図2】正社員人材の過不足感／正社員不足感の内容",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅層の退職は、欠員補充では早期に代替しにくく、業務の安定運用に影響を与えることから、企業活動において影響が大きいと認識していることが考えられる",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "また、正社員人材の不足感は前年より減少したものの4割超と依然として高く、不足感の内容は「量的な不足」から「質的な不足」にシフトしつつある様子がうかがえます",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の核となる中堅層は、人数を採って補うだけでは埋まりにくく、不足感の本質が「人数（量）」ではなく「質（経験・スキル）」に移りつつある可能性があります",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の不足感は人材の「量」から「質」へ変化している傾向",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆4割超の企業が正社員の不足を実感、不足感の焦点は人材の「量」から「質」へ",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果から、採用目標の達成率向上は、採用活動そのものの量的拡大によるもの以上に、人手不足や採用難を背景に、採用目標人数を下方修正し、採用計画を現実的な水準に見直したことが影響している可能性が考えられる",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の正社員の過不足感について、「不足感がある」が40.1%となり、「余剰感がある（25.4%）」を14.7pt上回った",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "不足感は前年比で低下したものの、依然として高い水準となった",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "不足感があると回答した企業に具体的な内容を聞くと、人数など人材の「量的（計）」な不足は69.6%（前年比-3.7pt）で減少している一方で、高スキル人材などの「質的（計）」な不足は55.6%（前年比+6.7pt）と前年より増加した",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の不足感は「人数」から「高スキル人材・即戦力など」へ移行しつつある可能性がうかがえる",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "中堅層の退職は、欠員補充では早期に代替しにくく、業務の安定運用に影響を与えることから、企業活動において影響が大きいと認識していることが考えられる",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、正社員人材の不足感は前年より減少したものの4割超と依然として高く、不足感の内容は「量的な不足」から「質的な不足」にシフトしつつある様子がうかがえます",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人数・有効求職者数および有効求人倍率の推移",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "【図1】有効求人数、有効求職者数および有効求人倍率の推移",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "不足感は変わらず高い様子が見られたが、前年からは微減となった",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "業種別で見ると不足感が高かった業種は「建設業」だった",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "「宿泊業,飲食サービス業」は2024年までは不足感の増加が顕著だったが、2025年で減少に転じた",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の人手不足感は高まっており、中途採用の印象は「厳しかった」が8割となっている",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の中途採用、9割の企業が積極的な意向【詳しくはこちら】 正社員の不足感は人材の「量」から「質」へ変化している傾向【詳しくはこちら】 2025年の中途採用人数目標の達成割合は92.9%で過去最…",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "➢ また、企業ごとの目標数に対する採用数の達成割合も6割が未達で、人材不足感が解消されていない企業が大多数",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[１] 人材の過不足感",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の人材の過不足感は、「不足している計」が64.3％で「余剰感を感じている計」（18.8％）の3倍以上を占め、2016年に引き続き、全体的に人材の不足感がみられる",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "にみると、従業員数が多くなるほど不足感が強くなり、『300人以上』では「不足している計」が7割超",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・人材の不足感が特に強いのは『医療・福祉』で、「とても不足している」が4分の1（25.3%）を占め、「不足している計」でも7割を超えて強い不足感がみられる",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Q．あなたがお勤めの会社における現在の人材の過不足感として、",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、職種別に正社員人材の不足感について聞いたところ、正社員の人手不足感が強い職種1位が3年連続で[ITエンジニア]となるなど、専門職分野や20代などの若手採用に意欲的な1年であったと類推される",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "【図3】「正社員人材の不足感がある」が高い職種上位3つ／マイナビ「中途採用状況調査2025年版」",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "慢性的な人手不足や定年延長などの背景から、ミドル・シニア層についても未経験者を含めて応募間口を広げて採用する企業が増えてきているのではないか",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の不足感は人材の「量」から「質」へ変化している傾向",
+    "url": "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "◆4割超の企業が正社員の不足を実感、不足感の焦点は人材の「量」から「質」へ",
+    "url": "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果から、採用目標の達成率向上は、採用活動そのものの量的拡大によるもの以上に、人手不足や採用難を背景に、採用目標人数を下方修正し、採用計画を現実的な水準に見直したことが影響している可能性が考えられる",
+    "url": "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "副業人材の受け入れ有無で正社員の不足感にギャップ",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の人事担当者に直近半年間（2025年1月～6月）における中途採用の実施理由を聞くと、「即戦力の補充（48.4％）」が最多、次いで「退職者の増加（自己都合による欠員の増加）（32.4％）」「既存事業の拡大（30.3％）」だった",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "企業における正社員の過不足感について、「不足感がある（計）」と感じている割合は45.8％で前年より2.9pt増加した",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "副業人材の受け入れ有無別に比較すると、「不足感がある（計）」割合は、受け入れている場合は36.4％で前年より1.9pt増加、受け入れていない場合は64.8％で前年より5.7pt増加した",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "副業人材を受け入れている場合といない場合の正社員の不足感には28.4ptの差がみられ、受け入れている企業の方が正社員の不足感が相対的に低い傾向であることがわかった",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "スペシャリスト人材（IT人材など）の過不足感についても、全体では「不足感がある（計）」が50.4％であったのに対し、副業人材を受け入れている場合は42.7％、受け入れていない場合は65.9％と、こちらも23.2ptと大きな差があった",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "この結果から、副業人材の受け入れが企業における人材不足感の緩和に一定の効果をもたらしている可能性が示唆された",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "【図6】正社員の過不足感／中途採用実態調査2025年版",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "副業人材を受け入れている企業では、受け入れていない企業に比べて正社員やスペシャリスト人材の不足感が低いことから、副業人材受け入れは人材確保の手段としても機能している可能性がみられた",
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、深刻な人手不足に見舞われている「医療・福祉・介護」は２６２．８万円の最低クラスで、採用数が多い割に低くなっています",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の定着率を高めることで、欠員補充のための採用コストを削減することができます",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、中小企業の採用課題は「人手不足」よりも、「採用に必要な時間と労力の負担」にあるといえます",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "実は、慢性的な人手不足に陥っている業種ほど採用費用が高騰しており、業種間で最大",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の不足感は人材の「量」から「質」へ変化している傾向",
+    "url": "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "中途採用実態調査2026年版 | マイナビキャリアリサーチLab",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用や労働、キャリアに関する調査・研究メディア",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用実態調査2026年版",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "企業側の半数以上が「管理職」の中途採用を実施、7割以上が採用に満足【",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年1～6月に中途採用業務を担当し、募集活動をしており、採用費用の管理・運用に携わっている人事担当者を対象に実施した「マイナビ 中途採用実態調査 2026年版」の結果を発表した",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "直近半年間で中途採用を行った企業の採用担当者に、「直近半年間での自社の正社員の過不足感」を聞いたところ、全体の43.5％が「不足している」と回答した",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "【図1】企業側の人手不足感／中途採用実態調査2026年版",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "直近半年間で中途採用を実施した理由では、「即戦力の補充（47.3％）」が最も高く、「自己都合による退職者の増加（32.4％）」、「年代別人員構成の適正化」と「既存事業の拡大」がともに29.6％で続いた",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "【図2】企業側の中途採用実施について／中途採用実態調査2026年版",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "【図3】中途採用した人の経験・未経験比率について／中途採用実態調査2026年版",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用の人数に対する満足度は49.6％、採用した人材の質に対する満足度は51.8％となり、いずれも調査開始から過去最高となった",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "【図4】中途採用の満足度／中途採用実態調査2026年版",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月～6月に、企業側の半数以上が「管理職」の中途採用を実施",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "【図5】管理職の中途採用実施割合／中途採用実態調査2026年版",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "【図6】管理職の中途採用理由／中途採用実態調査2026年版",
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2026年版（2025年実績） | マイナビキャリアリサーチLab",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用や労働、キャリアに関する調査・研究メディア",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2026年版（2025年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "は、中途採用業務を担当する企業の人事担当者1,500名に実施した、「中途採用状況調査2026年版（2025年実績）」の結果を発表しました",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "不足感があると回答した企業に具体的な内容を聞くと、人数など人材の「量的（計）」な不足は69.6%（前年比-3.7pt）で減少している一方で、高スキル人材などの「質的（計）」な不足は55.6%（前年比+6.7pt）と前年より増加した",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査 2026年版（2025年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "予備調査・本調査一体型：2025年12月17日（水）～12月22日（月）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2025年版（2024年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2024年版（2023年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2023年版（2022年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2022年版（2021年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2021年版（2020年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2020年版（2019年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2019年版（2018年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2018年版（2017年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "「中途採用状況調査2026年版（2025年実績）」を発表 | 株式会社マイナビ",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "「中途採用状況調査2026年版（2025年実績）」を発表",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビ（本社：東京都千代田区、代表取締役 社長執行役員：粟井俊介）は、中途採用業務を担当する企業の人事担当者1,500名に実施した、「中途採用状況調査2026年版（2025年実績）」の結果を発表しました",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "不足感があると回答した企業に具体的な内容を聞くと、人数など人材の「量的（計）」な不足は69.6%（前年比-3.7pt）で減少している一方で、高スキル人材などの「質的（計）」な不足は55.6%（前年比+6.7pt）と前年より増加した",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "【調査概要】マイナビ「中途採用状況調査 2026年版（2025年実績）」",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "■調査期間：予備調査・本調査一体型：2025年12月17日（水）～12月22日（月）",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "※調査結果は、端数四捨五入の都合により合計が100％にならない場合があります",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用・転職 総括レポート 2026年版（2025年実績） | マイナビキャリアリサーチLab",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用や労働、キャリアに関する調査・研究メディア",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用・転職 総括レポート 2026年版（2025年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年における中途採用・転職市場を3部構成でまとめた、「中途採用・転職総括 レポート2026年版（2025年実績）」を発表した",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の求人掲載数は前年を上回り、企業の正社員採用活動はさらに活発に実施されていた",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：マイナビ「中途採用状況調査2026年版（2025年実績）」",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "調査開始から最高値だった2022年と同等の水準となっている",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：マイナビ「転職動向調査2026年版（2025年実績）」",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "転職前後の年収はともに「300～349万円」が最も多かったが、転職後は300万円未満が減少し、700～849万円の回答数が増加している",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "単一回答をもとに平均年収を求めると、転職前は平均514.5万円、転職後は平均533.7万円となり、19.2万円の差となった",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2026年版（2025年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "転職動向調査2026年版（2025年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月度 中途採用・転職活動の定点調査",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月の中途採用実施率は45.2％で前月から増加【詳しくはこちら】 正社員の転職活動実施率は4.5％で前月から増加【詳しくはこちら】 株式会社マイナビは、全国の企業・個人を対象に実施した、「中…",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用・転職 総括レポート 2025年版（2024年実績）",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビ「中途採用状況調査（2018年1月調査）」によると・・",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビ 転職情報事業本部 調査課",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査2018年版（2017年実績）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査概要 ■調査目的 全国の民間企業等を対象に、中途採用状況とその傾向を明らかにすること",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■調査名 中途採用状況調査（2017年）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■回答数 ６００件",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■実施期間 ２０１８年１月１９日（金）～１月２３日（火）",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※調査結果は、端数四捨五入の関係で合計が100％にならない場合があります",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中途採用状況調査 2026年版（2025年実績） — 中途採用状況調査 2026年版（2025年実績） マイナビキャリアリサーチLab PDF https://career-research.mynavi.jp > uploads > 2026/03",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査 2026年版（2025年実績） — 中途採用状況調査 2026年版（2025年実績） マイナビキャリアリサーチLab https://career-research.mynavi.jp > reserch",
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "pass": 3
+   },
+   {
+    "quote": "「 中途採用状況調査 2026年版（2025年実績）」を発表 — 「 中途採用状況調査 2026年版（2025年実績）」を発表 株式会社マイナビ https://www.mynavi.jp > news > 2026/03 > post_52646",
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査 2018年版(2017年実績) — 中途採用状況調査 2018年版(2017年実績) マイナビキャリアリサーチLab PDF https://career-research.mynavi.jp > uploads > 2021/02",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査 2025年版（2024年実績） — 中途採用状況調査 2025年版（2024年実績） マイナビキャリアリサーチLab https://career-research.mynavi.jp > reserch",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査 2025年版（2024年実績） — 中途採用状況調査 2025年版（2024年実績） マイナビキャリアリサーチLab PDF https://career-research.mynavi.jp > uploads > 2025/03",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査 2025 年版（2024年実績） — 中途採用状況調査 2025 年版（2024年実績） マイナビキャリアリサーチLab PDF https://career-research.mynavi.jp > uploads > 2025/03",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用状況調査 2026年版（ 2025 年実績） — 中途採用状況調査 2026年版（ 2025 年実績） マイナビキャリアリサーチLab PDF https://career-research.mynavi.jp > uploads > 2026/03",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「 中途採用状況調査 2026年版（ 2025 年実績）」を発表 — 「 中途採用状況調査 2026年版（ 2025 年実績）」を発表 PR TIMES https://prtimes.jp > 調査レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "➢ 求人広告費は2016年と同じが5割弱で、増加計が4割強と、相対的にはやや増加傾向にあるとみられる",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[13] 前年(2016年)と比較した求人広告費",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の求人広告費は、「前年と変わらない」が47.8％で最多だが、「増えた計」も42.7％で同程度",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Q．あなたがお勤めの会社の直近１年間（2017年）の求人広告費は前年（2016年）と比較していかがでしたか",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[15] 職種別求人広告費",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の職種別求人広告費の１社あたり年間平均費用は、「販売・フード・アミューズメント」が412.9万円で最も高く、「営業」が223.9万円、「医療・福祉」が137.9万円で続く",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Q.職種ごとに、直近1年間でかけた求人広告費をお答えください",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用費用総額は平均650.6万円で前年より20.4万円増加",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "採用費用総額は平均650.6万円で前年より20.9万円増加",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、人材紹介を多く利用する企業の場合、年収の30〜35％程度の紹介手数料が発生するため、採用単価が大きく上昇するケースもあります",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビが実施した「中途採用状況調査2024年版（2023年実績）」によると、職種別の採用者一人あたりの求人広告費は、以下の通りです",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "転職サイトの求人広告費をかけた職種として最も多かったのは営業職（50.3％）",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "※2023年度の中途採用費用の総額",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "手順3：総額を「採用人数」で割る",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用費用の年間平均総額（650.6万円）を採用人数の平均（20.8人）で割った最新の算出値です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用の質を落とさずにコストを最適化する具体的な13の実践方法も紹介するので、採用予算の効率化を求められる人事担当者の方はぜひご覧ください",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "（※１）によると、2024年の中途採用費用の総額は平均650.6万円となっています",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費無料キャンペーン！最大10万円の広告費をR4が負担",
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣社員採用では、紹介手数料として月給の20〜30パーセント程度が相場です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員50名以下の企業における年間採用費用の平均は119万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員51〜300名の企業における年間採用費用の平均は247万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員301〜1,000名の企業における年間採用費用の平均は565万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1,001名以上の大企業における年間採用費用の平均は1,462万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "運輸・交通・物流・倉庫業の年間採用費用は平均1,460万円で、全業種中トップです",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の年間採用費用は平均854万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "IT・通信・インターネット業界の年間採用費用は平均695万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "流通・小売・フードサービス業の年間採用費用は平均304万円で、全業種中最も低い水準です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストの平均は一人当たりいくら？新卒・中途の最新相場と算出方法・職種別の広告費・削減の手順【2026年9月更新】｜HeaR株式会社",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストの平均は一人当たりいくら？新卒・中途の最新相場と算出方法・職種別の広告費・削減の手順【2026年9月更新】",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "算出式と計算例、職種別の求人広告費、3名採用のシミュレーション、削減の8つの方法と適正化の5ステップ、AIで下がる内部コストまで解説します",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストとは、企業が人材を1人採用するまでにかかる費用の合計で、求人広告費や紹介手数料などの「外部コスト」と、面接官の人件費などの「内部コスト」に分かれます",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "総額は325万円、一人当たりの採用コストは約108万円です",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "職種別・業種別・企業規模別の採用コストはどう違う？【1人あたりの求人広告費】",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用で採用者1人あたりにかかった転職サイトの求人広告費は、全職種平均で36.7万円（中央値20万円）です",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの転職サイト求人広告費（平均）",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "試算の前提は、人材紹介の手数料率35%、転職サイトの1人あたり広告費はマイナビ調査の全職種平均、採用代行の月額はHeaRが公開している実勢価格です",
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用人数が少ない場合でも、紹介手数料や広告費が集中すれば、1人あたりの単価は高くなることがあります",
+    "url": "https://thinc-agent.c-m.co.jp/knowhow/knowhow04/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模が1001名以上の企業と3〜50名の企業とを比較すると、採用予算には実に約15倍もの差があります",
+    "url": "https://edenred.jp/article/hr-recruiting/213/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価（1人あたりの採用コスト） ＝ 採用コスト総額 ÷ 採用人数",
+    "url": "https://edenred.jp/article/hr-recruiting/213/",
+    "pass": 3
+   },
+   {
+    "quote": "：知名度やスケールメリットが広告費・年間総予算（最大1,470万円）に与える影響",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2025年にかけた「職種別の求人広告費用における採用単価」のデータを分析し、市場の動向を解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍以降の採用急回復期（2024年頃まで）の一時的な広告費高騰が落ち着きを見せたこと、またタイミーなどの「スポットバイト（スキマバイト）」アプリの普及、SNSや無料求人媒体を活用した効率的な採用手法（採用オウンドメディアなど）へのシフトが進んだことが要因と考えられます",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の規模によって1人あたりにかける求人広告費に差が生じています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "転職サイトの長期掲載プランや複数名採用枠などを活用することで、広告のボリュームディスカウントが利きやすくなり、1人あたりの求人広告費を27.1万円と最も低く抑えられている",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   },
+   {
+    "quote": "1,001人以上の大企業においては、1人あたりの求人広告費の基準が大きく跳ね上がります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "■中途採用募集は「求人サイト」が最も有効で、求人サイトを含めた求人広告費はやや増加傾向",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 中途採用で効果のあった手法は「求人サイト」が53.0%で最も高く、「ハローワーク」（43.8%）や「人材紹介」（38.8%）よ",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 求人広告費は2016年と同じが5割弱で、増加計が4割強と、相対的にはやや増加傾向にあるとみられる",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の中途採用で効果のあった手法は、「求人サイト」が53.0％で最も高く、「ハローワーク」（43.8％）、「人材紹介」（38.8％）がTOP3で2016年同様",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・『医療・福祉』は「ハローワーク」「人材紹介」が、『流通・小売・フード』は「フリーペーパー」が全体より10pt以上高い",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・『IT・通信・インターネット』は「ハローワーク」が、『不動産・建設・設備』は「フリーペーパー」が全体より10pt以上低い",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求人サイト ハローワーク 人材紹介 有料求人情報誌 縁故 ヘッドハンティング フリーペーパー",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[13] 前年(2016年)と比較した求人広告費",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の求人広告費は、「前年と変わらない」が47.8％で最多だが、「増えた計」も42.7％で同程度",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Q．あなたがお勤めの会社の直近１年間（2017年）の求人広告費は前年（2016年）と比較していかがでしたか",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※求人広告費とは、折込求人紙、フリーペーパー、新聞の求人欄、求人サイトなど、求人媒体掲載にかかった経費を指します",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の年間平均採用費用は、「人材紹介」が466.6万円で、「求人広告」が294.2万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「人材紹介」「求人広告」ともに、「製造・メーカー」が最も高く、それぞれ783.8万円、340.6万円",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告にかけた費用は、それぞれどれくらいでしたか",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[15] 職種別求人広告費",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "進学校・聖光学院で育んだ すぐ役に立たないことに取り組む力",
+    "url": "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "主な改正内容は、子供が３歳から小学校就学まで、企業はテレワーク、時短勤務、時",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中途採用では、求人広告、人材紹介、採用ツール、採用担当者の人件費など、さまざまなコストが発生するため、適切な管理が求められます",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで本記事では、中途採用の平均採用単価のデータを紹介するとともに、職種別の求人広告費の傾向や採用単価を抑えるための方法について解説します",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、人材紹介を多く利用する企業の場合、年収の30〜35％程度の紹介手数料が発生するため、採用単価が大きく上昇するケースもあります",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビが実施した「中途採用状況調査2024年版（2023年実績）」によると、職種別の採用者一人あたりの求人広告費は、以下の通りです",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "転職サイトの求人広告費をかけた職種として最も多かったのは営業職（50.3％）",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "ITエンジニアや専門職は即戦力人材が求められるため、求人広告の露出を増やして優秀な人材にアプローチする必要があります",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "紙媒体の求人広告は、",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "特にITエンジニアなど、人材不足が懸念される専門職の場合、求人広告費が高くなる傾向があります",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用やSNS採用などコストの低い手法を活用しながら、採用ブランディングや選考プロセスの改善に取り組むことで、採用単価の改善を図ることができるでしょう",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動には、求人広告費や候補者との連絡費用など、さまざまなコストがかかります",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "人材を確保したいからとむやみに複数の求人広告に出稿したり、さまざまな採用手法を試すなかで自社とマッチしない手法を取り入れてしまったりする場合があります",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "やみくもに求人広告を出して多くの応募を得られても、必要な人材が集まらなければ採用コストが無駄になってしまいます",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "第一に取り組むべきことは、求人広告や人材紹介といった有料媒体の見直しです",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "・リファラル採用で社員に支払うインセンティブ",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "外部のサービスへ支払う求人広告費・人材紹介手数料など 「社外」のコスト",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介（転職エージェント）の一般的な料金体系：理論年収の30〜35％",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用で最も多く利用される人材紹介サービスの場合、成果報酬は「理論年収の30〜35%」が市場の共通相場です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "特に人材紹介（転職エージェント）を利用する場合、一般的な成果報酬は理論年収の30〜35%ですが、エンジニアや専門職など市場価値の高い職種では35〜40%に引き上げられるケースが増えています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "比較的母集団形成がしやすいため求人広告での採用が決まりやすく、1人当たり数十万円に抑えられるケースもあります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、人材紹介手数料の上昇も影響しています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークや、各種求人サービス（Indeed、エンゲージ、求人ボックスなど）の無料掲載枠を組み合わせて初期コストを抑えます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "社員へのインセンティブ（数万〜数十万円）は発生しますが、人材紹介の手数料と比べて大幅に外部コストを削減できます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト枠の利用料などはかかりますが、人材紹介より費用を抑えやすく、ピンポイントでの獲得が可能です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "自社サイトからの直接応募を増やす仕組みです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "まずは直近の採用活動において「どの手法（媒体や人材紹介）にいくら使い、何人入社したか」という費用対効果の棚卸しを行ってください",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "プロ人材紹介サービスの選び方｜3タイプ別の特徴と比較ポイント7つを解説",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "pass": 3
+   },
+   {
+    "quote": "」の専任スタッフが、採用計画や求める人材像を整理したうえで、求人広告・人材紹介サービス・ダイレクトソーシングなどの特徴を踏まえ、採用課題に合った手法と予算配分をご提案します",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用を行った場合の、紹介社員へのインセンティブ",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "このリファラル採用を行うに当たり、紹介者の社員にインセンティブを支払うというケースもあり、その場合はインセンティブも内部コストとして扱われます",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "各採用手法での年間の採用コストは予算・実績ともに平均100万円以上となっており、最も高いのは人材紹介サービスで平均372.1万円です",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用のコストとは、中途採用にかかる求人広告費や紹介手数料、人件費などの総費用です",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "これは、中途採用では即戦力となる人材を求めるため、人材紹介会社の利用率が高いことや、求人広告の掲載料が高額になりやすいことが要因として考えられます",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "企業間の競争が激しくなるにつれて、求人広告費や人材紹介会社への手数料が高騰し、採用コストを押し上げているのです",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "ITエンジニアやWEB系職種は専門スキルを持つ人材の需要が高いため、求人広告費も比較的高めになっていることが分かります",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "転職サイトへの掲載費は数十万円、人材紹介会社への手数料は数百万円が発生するため、外部コストは採用における主要なコストと言えるでしょう",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用における紹介社員へのインセンティブ",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告への支出は採用コストの大きな部分を占めています",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、転職サイトを使って結果が出ない場合は、業界特化の媒体の利用を検討する、サイト掲載は止めて複数の人材紹介エージェントと契約を結ぶなどが有効です",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用とは、従業員からの紹介による採用手法です",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "採用が成立した際には紹介者の従業員にインセンティブを支払うケースが多いですが、そのコストは一般的な求人広告費よりも割安になるため、コスト削減効果は高くなります",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用は社員が自社の文化や業務内容を理解した上で候補者を紹介するため、採用後のミスマッチが少なく、定着率も高い傾向にあります",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "【公式】マイナビ転職メーカーAGENT (@mynavi_maker_ag) / X Jul 29, 2022 · マイナビの人材紹介【マイナビ転職メーカーAGENT】の公式アカウントです。 製造業の転職ならお任せください。 「転職先のご紹介」や「応募書類の作成」「面接対策」「給与交渉」など転職活動の全てにわたってサポートします。",
+    "url": "https://x.com/mynavi_maker_ag",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "甲野 誠也 - 【全国9,700名の頂点】ビズリーチ メーカー部門MVP受賞(2... 【全国9,700名の頂点】ビズリーチ メーカー部門MVP受賞(2026年)🏆｜3年連続 社内年間MVP・支援実績No.1🥇｜製造業・エンジニアの転職支援実績200名以上｜一気通貫型の伴走で好条件オファーを実現｜株式会社クイック 製造業界専門チーム マネージャー · はじめまして。株式会社クイック（東証 ...",
+    "url": "https://jp.linkedin.com/in/誠也-甲野-5b4507304",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "349",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "quote": "転職前後の年収はともに「300～349万円」が最も多かったが、転職後は300万円未満が減少し、700～849万円の回答数が増加している"
+   },
+   {
+    "value": "300",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "quote": "転職前後の年収はともに「300～349万円」が最も多かったが、転職後は300万円未満が減少し、700～849万円の回答数が増加している"
+   },
+   {
+    "value": "849",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "quote": "転職前後の年収はともに「300～349万円」が最も多かったが、転職後は300万円未満が減少し、700～849万円の回答数が増加している"
+   },
+   {
+    "value": "514.5",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "quote": "単一回答をもとに平均年収を求めると、転職前は平均514.5万円、転職後は平均533.7万円となり、19.2万円の差となった"
+   },
+   {
+    "value": "533.7",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "quote": "単一回答をもとに平均年収を求めると、転職前は平均514.5万円、転職後は平均533.7万円となり、19.2万円の差となった"
+   },
+   {
+    "value": "19.2",
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "quote": "単一回答をもとに平均年収を求めると、転職前は平均514.5万円、転職後は平均533.7万円となり、19.2万円の差となった"
+   },
+   {
+    "value": "466.6",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "2017年の年間平均採用費用は、「人材紹介」が466.6万円で、「求人広告」が294.2万円"
+   },
+   {
+    "value": "294.2",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "2017年の年間平均採用費用は、「人材紹介」が466.6万円で、「求人広告」が294.2万円"
+   },
+   {
+    "value": "783.8",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "・「人材紹介」「求人広告」ともに、「製造・メーカー」が最も高く、それぞれ783.8万円、340.6万円"
+   },
+   {
+    "value": "340.6",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "・「人材紹介」「求人広告」ともに、「製造・メーカー」が最も高く、それぞれ783.8万円、340.6万円"
+   },
+   {
+    "value": "0",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "0万円 200万円 400万円 600万円 800万円 1,000万円"
+   },
+   {
+    "value": "200",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "0万円 200万円 400万円 600万円 800万円 1,000万円"
+   },
+   {
+    "value": "400",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "0万円 200万円 400万円 600万円 800万円 1,000万円"
+   },
+   {
+    "value": "600",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "0万円 200万円 400万円 600万円 800万円 1,000万円"
+   },
+   {
+    "value": "800",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "0万円 200万円 400万円 600万円 800万円 1,000万円"
+   },
+   {
+    "value": "000",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "0万円 200万円 400万円 600万円 800万円 1,000万円"
+   },
+   {
+    "value": "412.9",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "2017年の職種別求人広告費の１社あたり年間平均費用は、「販売・フード・アミューズメント」が412.9万円で最も高く、「営業」が223.9万円、「医療・福祉」が137.9万円で続く"
+   },
+   {
+    "value": "223.9",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "2017年の職種別求人広告費の１社あたり年間平均費用は、「販売・フード・アミューズメント」が412.9万円で最も高く、「営業」が223.9万円、「医療・福祉」が137.9万円で続く"
+   },
+   {
+    "value": "137.9",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "2017年の職種別求人広告費の１社あたり年間平均費用は、「販売・フード・アミューズメント」が412.9万円で最も高く、「営業」が223.9万円、「医療・福祉」が137.9万円で続く"
+   },
+   {
+    "value": "100",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "0万円 100万円 200万円 300万円 400万円 500万円"
+   },
+   {
+    "value": "300",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "0万円 100万円 200万円 300万円 400万円 500万円"
+   },
+   {
+    "value": "500",
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "quote": "0万円 100万円 200万円 300万円 400万円 500万円"
+   },
+   {
+    "value": "650.6",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "quote": "採用費用総額は平均650.6万円で前年より20.4万円増加"
+   },
+   {
+    "value": "20.4",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "quote": "採用費用総額は平均650.6万円で前年より20.4万円増加"
+   },
+   {
+    "value": "20.9",
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "quote": "採用費用総額は平均650.6万円で前年より20.9万円増加"
+   },
+   {
+    "value": "1400",
+    "url": "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "quote": "新卒1400万円、霞ヶ関キャピタル"
+   },
+   {
+    "value": "７",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "quote": "採用費用は平均６２９．７万円（同５５．８万円増、９．７％増）と１割近く増え、業種別では「ＩＴ・通信・インターネット」が最高の９９８．５万円でした"
+   },
+   {
+    "value": "８",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "quote": "採用費用は平均６２９．７万円（同５５．８万円増、９．７％増）と１割近く増え、業種別では「ＩＴ・通信・インターネット」が最高の９９８．５万円でした"
+   },
+   {
+    "value": "５",
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "quote": "採用費用は平均６２９．７万円（同５５．８万円増、９．７％増）と１割近く増え、業種別では「ＩＴ・通信・インターネット」が最高の９９８．５万円でした"
+   },
+   {
+    "value": "650.6",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "quote": "中途採用にかかった費用合計の平均は650.6万円"
+   },
+   {
+    "value": "31.3",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "quote": "650.6万円 ÷ 20.8人 ＝ 約31.3万円"
+   },
+   {
+    "value": "56.8",
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "quote": "参考までに、株式会社マイナビが公表した「マイナビ2024年卒企業新卒内定状況調査」によると、新卒採用における一人当たりの平均採用コストは56.8万円でした"
+   },
+   {
+    "value": "100",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "quote": "やや古いデータですが、2019年時点では新卒・中途ともに1人当たりの採用コストは約100万円でした"
+   },
+   {
+    "value": "71.5",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "quote": "71.5万円"
+   },
+   {
+    "value": "93.6",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "quote": "93.6万円"
+   },
+   {
+    "value": "83.0",
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "quote": "83.0万円"
+   },
+   {
+    "value": "100",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "quote": "採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります"
+   },
+   {
+    "value": "90",
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "quote": "代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です"
+   },
+   {
+    "value": "342.4",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "quote": "342.4万円"
+   },
+   {
+    "value": "372.1",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "quote": "372.1万円"
+   },
+   {
+    "value": "184.3",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "quote": "184.3万円"
+   },
+   {
+    "value": "134.6",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "quote": "134.6万円"
+   },
+   {
+    "value": "650.6",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "quote": "マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした"
+   },
+   {
+    "value": "484.3",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "quote": "484.3万円"
+   },
+   {
+    "value": "573.9",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "quote": "573.9万円"
+   },
+   {
+    "value": "629.7",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "quote": "629.7万円"
+   },
+   {
+    "value": "103.3",
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "quote": "によると、中途採用における一人当たりの採用コストは、103.3万円となっています（※２）"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/bunya/koyoukintou/dl/h26-01_itakuchousa02-02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://umai-jinji.jp/column/other-86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stock-sun.com/column/mid-career-recruitment-costs/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thinc-agent.c-m.co.jp/knowhow/knowhow04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260529_111552/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260929_115879/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260224_108027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/213/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/250617_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mynavi_maker_ag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/誠也-甲野-5b4507304",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF 人手不足 受注 断る",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://www.mhlw.go.jp/bunya/koyoukintou/dl/h26-01_itakuchousa02-02.pdf",
+    "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf"
+   ]
+  },
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF 受注残 人手不足",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "https://career-research.mynavi.jp/reserch/20260430_110450/",
+    "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "https://career-research.mynavi.jp/reserch/20250930_101865/"
+   ]
+  },
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF 人手不足 損失 億円",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://www.careerpower.co.jp/topics/2024/04/01/news240401_3/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://mikiwame.com/lab/entry/recruitment-cost-average/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf"
+   ]
+  },
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF 採用単価 規模別",
+   "results": [
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "https://stock-sun.com/column/mid-career-recruitment-costs/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://site.backcheck.jp/knowledge/mid-career-recruitment-cost",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://megdai.jp/markebatake/saiyou/6434/"
+   ]
+  },
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF 採用コスト 調査 万円",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://stock-sun.com/column/mid-career-recruitment-costs/",
+    "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://www.hear.co.jp/recruit/recruit-cost",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://thinc-agent.c-m.co.jp/knowhow/knowhow04/"
+   ]
+  },
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://career-research.mynavi.jp/reserch/20260529_111552/"
+   ]
+  },
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF 採用経路 割合 調査",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://career-research.mynavi.jp/reserch/20260929_115879/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://career-research.mynavi.jp/reserch/20260529_111552/"
+   ]
+  },
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF 人手不足 充足率 調査 2025",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20250930_101865/",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://prtimes.jp/main/html/rd/p/000002382.000002955.html",
+    "https://career-research.mynavi.jp/reserch/20260224_108027/",
+    "https://edenred.jp/article/hr-recruiting/213/",
+    "https://www.works-i.com/surveys/item/250617_midcareer.pdf"
+   ]
+  },
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF 白書 採用",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://career-research.mynavi.jp/reserch/20260929_115879/",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/"
+   ]
+  },
+  {
+   "query": "site:note.com マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF",
+   "results": [
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
+    "https://note.com/redraw_0/n/n866774fa5b3f",
+    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
+    "https://note.com/ocaml/n/n721b7a5cd50f",
+    "https://note.com/ocaml/n/nc8a8ec727bfa",
+    "https://note.com/ezuremanagement/n/n3e69d2b40cb9",
+    "https://note.com/ocaml/n/n2c027478b941",
+    "https://note.com/studiopetit_note/n/n8d9a8537272c"
+   ]
+  },
+  {
+   "query": "site:x.com マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF",
+   "results": [
+    "https://jf.x.com/images/media-preview/2099671190990159997",
+    "https://jf.x.com/images/media-preview/2097063721583689883",
+    "https://x.com/mynavi_maker_ag",
+    "https://x.com/AItokoyonokuni/status/2104932013673476142",
+    "https://x.com/i/trending/2081526465934295457",
+    "https://x.com/nikkei/status/2049277956279730672",
+    "https://x.com/keyplayers/status/2048691115881275650"
+   ]
+  },
+  {
+   "query": "site:linkedin.com マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF",
+   "results": [
+    "https://jp.linkedin.com/posts/fukagwatakumi_マイナビが人事担当者1500名に聞いた中途採用の調査です-2025年に採用人数-activity-7505400156813676544-5c3V",
+    "https://www.linkedin.com/company/wearetpgroup/",
+    "https://jp.linkedin.com/in/誠也-甲野-5b4507304",
+    "https://jp.linkedin.com/posts/健一郎-大久保-b564bb18b_大手企業人事リーダーに聞くキャリア採用の実態2-年間900名以上の大規模キャリア-activity-7407709675938287617-hzh4",
+    "https://jp.linkedin.com/pulse/evolution-recruitment-lessons-from-last-15-years-road-trond-2ujff?tl=ja",
+    "https://jp.linkedin.com/posts/funaisoken_船井総研2025年の専門工事業界設備工事業界の人材採用今後ポイント展望-activity-7272875367936237568-WDkw",
+    "https://www.linkedin.com/posts/メディアサンズ佐藤_今期10名採用できましたそのうち何人が活躍していますか-採用目標-share-7519568735620415488-BCKy"
+   ]
+  },
+  {
+   "query": "site:facebook.com マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF",
+   "results": [
+    "https://www.facebook.com/mynavinews/",
+    "https://www.facebook.com/mynaviglobalcareer/",
+    "https://www.facebook.com/agri.mynavi/",
+    "https://www.facebook.com/yjnews/posts/パチンコ法人数-10年間で半減/1462707182559031/",
+    "https://www.facebook.com/61550339582294/videos/818427753985712/",
+    "https://www.facebook.com/ToyokeizaiOnline/posts/応募者が殺到し高倍率の狭き門となっている企業はどこか本日発売最新の就職四季報-総合版データを基に新卒就活で総合職技術系以外の倍率が高い企業トップ100社を抽出し/580259137883350/",
+    "https://www.facebook.com/timeeofficial/videos/タイミーtimee法人様向け/1057092580079770/"
+   ]
+  },
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF note 社長",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://www.mynavi.jp/news/2026/03/post_52646.html",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://umai-jinji.jp/column/other-86/",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/"
+   ]
+  },
+  {
+   "query": "マイナビ 中途採用状況調査 業種別 製造業（メーカー）の年間採用費と採用人数 原典PDF X 投稿",
+   "results": [
+    "https://career-research.mynavi.jp/wp-content/uploads/2026/03/tyutosaiyouzyoukyou2026.pdf",
+    "https://career-research.mynavi.jp/reserch/20260928_115646/",
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://career-research.mynavi.jp/reserch/20260602_111613/",
+    "https://career-research.mynavi.jp/wp-content/uploads/2021/02/0bd3db3cbe34e2dd13691d73c14eb9a5.pdf",
+    "https://career-research.mynavi.jp/reserch/20260529_111552/",
+    "https://career-research.mynavi.jp/reserch/20260518_110616/",
+    "https://www.nikkei.com/article/DGXZRSP705107_Q6A330C2000000/",
+    "https://career-research.mynavi.jp/reserch/20260929_115879/"
+   ]
+  },
+  {
+   "query": "Mynavi mid-career hiring survey manufacturer annual hiring cost site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/mynavikorea",
+    "https://www.linkedin.com/posts/samhall-talentpartner-recruiter_japanhiring-talentacquisition-tokyojobs-activity-7397416463260684288-jmDs",
+    "https://www.linkedin.com/posts/wecrin_japanhiring-localrecruitment-linkedinrecruiting-activity-7368606154546917377-cGGV",
+    "https://www.linkedin.com/posts/naveen-kumar-948098100_top-job-portals-to-apply-for-jobs-in-activity-7434741934780272640-nh9v",
+    "https://www.linkedin.com/pulse/japan-becoming-manager-punishment-thats-why-you-cant-hire-lim-ll76c",
+    "https://www.linkedin.com/posts/%E8%B2%9E%E4%BA%BA-%E8%A5%BF%E5%AE%AE-23524616b_recruitment-talentacquisition-japan-activity-7517102385358409728-PgeQ",
+    "https://jp.linkedin.com/company/mynavi-corporation",
+    "https://www.linkedin.com/in/ortik-khamdamov-3722a592",
+    "https://www.linkedin.com/company/wecrin",
+    "https://www.linkedin.com/pulse/how-get-job-japan-from-overseas-common-questions-i-am-edmund-ho-9lqjc"
+   ]
+  }
+ ],
+ "missing": {}
+}

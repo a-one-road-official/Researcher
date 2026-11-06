@@ -1,0 +1,2312 @@
+{
+ "name": "機械整備・修理の職業",
+ "en": "machine maintenance technician shortage Japan",
+ "aliases": [
+  "機械整備",
+  "保全",
+  "設備保全"
+ ],
+ "context": "生産工程の職業（職種別）",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:04:21.549169+00:00",
+ "evidence": {
+  "高卒・技術者": [
+   {
+    "quote": "07 製造技術者（開発） 60 178 2.97",
+    "url": "https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "08 製造技術者（開発を除く） 90 130 1.44",
+    "url": "https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "09 建築・土木・測量技術者 75 883 11.77",
+    "url": "https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 情報処理・通信技術者 212 168 0.79",
+    "url": "https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11 その他の技術者 19 42 2.21",
+    "url": "https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 医療技術者 93 376 4.04",
+    "url": "https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度について、職業（中分類）別で有効求人倍率が2倍以上となっている職業をみると、「建設躯体工事従事者」が7.72倍、「土木作業従事者」が6.21倍、「建築・土木・測量技術者」が5.58倍、「その他の技術者」が4.88倍、「建設従事者（建設躯体工事従事者を除く）」が4.37倍、「機械整備・修理従事者」が4.04倍などと高くなっている（",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "建築・土木・測量技術者 5.77倍・介護サービス 3.94倍",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "生産工程（大分類）1.65倍・情報処理・通信技術者 1.33倍",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "記入例（架空）：①施工管理／②5.77倍（建築・土木・測量技術者）／③月2件／④選ばれる（現場写真3枚と、入社3年目の一日を求人票に追加）",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "施工管理なら「建築・土木・測量技術者」、設備保全なら「機械整備・修理従事者」が目安です",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用で使われる主要50媒体を、特徴と向き不向きで比較",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "CY,2013CY,2013/1/1,実数,パート含む常用,専門的・技術的職業,その他の技術者,626,1646,585,2588,177,1.07,0.64",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "CY,2013CY,2013/1/1,実数,パート除く常用,専門的・技術的職業,開発技術者,6448,18866,3096,15127,575,2.08,1.25",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全・技能職は今後も採用での充足がほぼ不可能な領域",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：地元の高校・高専・工業高校との関係構築は最強の採用チャネル",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "特に地方の中小製造業にとって、地元工業高校との",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン技能者の定年を数年後に控え、加工条件・検査の勘所を動画とデータベースに落とし込む技能継承プロジェクトを実施",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "地元工業高校への出前授業とインターン受け入れ、を",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "高校新卒の応募が復活し、毎年の定期採用サイクル",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に新卒入社後、3年という速さで現職のリーダーに就任",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "これは、経験豊富な高齢技術者の定年退職と、製造業や技術職への就職を避ける若年層の傾向によるものです",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "この状況は、経験と知識を兼ね備えたメンテナンス技術者の確保を一層難しくしており、日本の製造業界全体の課題となっています",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "また、メンテナンス技術者の不足は、",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "新型機械の導入時には、その機械と新たな技術を理解し、効率的にメンテナンスできる技術者が必要です",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "人員不足では新技術の習得や技術継承が遅れ、技術者の生産性向上の機会を逃すことにもなりかねません",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "技術者一人ひとりのスキルアップと、それを支える組織全体の体制強化が求められています",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "また、海外メーカーの技術に精通した専門技術者によるサポートも提供しており、複雑な問題でも迅速かつ的確に対応可能です",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校を出たらどんな仕事に就けるの？｜職種図鑑 | キャリア探索ガイド | ゆめスタ",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校は就職率63.3%、求人倍率は20.6倍",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、工業高校から就ける職種を学科別にまとめました",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "「工業高校を出たら工場のライン作業でしょ？」そう思っている人は多いかもしれません",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "たしかに、工業高校卒の約53%は製造業に就職しています（全工協 令和5年度卒業者調査）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "しかも、工業高校卒の3年離職率は",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "高卒全体の37.9%、大卒の33.8%（厚生労働省 令和4年3月卒）と比べると、圧倒的に低い数字です",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、工業高校で学んだことと就職先がちゃんとマッチしている人が多い、ということです",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校は学科ごとに学ぶ内容が異なるため、就職先の職種も変わってきます",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "自社の機械を導入した客先に出向いて、メンテナンスやトラブル対応をする技術者です",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "特別な資格は不要で、高卒から始められます",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "資格不要で高卒からスタートでき、経験を積んで設計者を目指せます",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 全国工業高等学校長協会「R05卒業者調査」/ UZUZ「工業高校出身者の就職」/ 関東工業自動車大学校「工業高校からの進路選択」/ トモヤログ「情報技術科」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "「工業高校を出たらずっと現場」と思っていませんか？実は、工業高校の知識を活かせるデスクワーク系の職種もたくさんあります",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典: Achieve「製造業の職種一覧」/ ConMaga「建設業の職種一覧」/ 日総工産「高卒工場勤務のキャリアパス」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "：製造業の求人がひしめく大垣での技術者採用、検証と改善を繰り返して技術職の経験者を採用した事例など、経験者・技術者に絞った事例を複数公開しています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "：愛知県の事例について、日本を代表する自動車メーカーの工場が多く中途採用が難しいエリアで、他工場で就業していた人材の採用に至り、今までとは異なる層の採用が実現したと説明しています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "なお製造技術者は開発が1.81倍、開発を除くが0.72倍",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "デルタマーケティングが公開している愛知県の事例では、日本を代表する自動車メーカーの工場が多く中途採用が難しいエリアで、他工場で就業していた人材の採用に至ったと報告されています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "また、技術者としての成長を実感できることも魅力です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "故障の原因を特定し、問題を解決するプロセスそのものが技術者にとって充実した時間となります",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "科学技術に関する技術的な専門知識と高等の応用能力、実務経験が豊富であること、公益を確保するために高い技術者倫理が備わっていることを証明できる国家資格です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "社会的信頼性が高く、技術者資格の最高峰に位置付けられています",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人電気技術者試験センターが実施する国家試験です",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "電気工事士は国家資格であり、電気工事士法に基づいて家庭や店舗の低圧配線、工場やビルの高圧設備などを施工する専門技術者",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "積極的に学ぶ姿勢を持ち、経験を重ねて判断力や問題解決力を養うことで、難易度の高い修理に対応できる技術者へ成長できます",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では採用予算や教育体制が脆弱なため、高度技能者や設備管理の専門職が確保できず、",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業では内燃機関の技術者が余剰になる一方、EVに不可欠な",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "内燃機関の開発・製造に従事してきた技術者が余剰状態になる一方、バッテリーやモーターといったパワーエレクトロニクス分野では人材が圧倒的に不足しています",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、熟練技能者が高齢化で退職し、",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル人材と熟練技能者の双方を意識した採用・育成の仕組み作り",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、従来のエンジン開発に従事してきた技術者は配置転換やリスキリングの対象となりつつあります",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   }
+  ],
+  "出典の種類": [
+   {
+    "quote": "（令和8年9月） 富山労働局 職業安定部",
+    "url": "https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働に関する総合的な調査研究を実施し、その成果を広く提供しています",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "―一般職業紹介状況(令和7年度分)の結果から―",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省から2026年4月28日に一般職業紹介状況の2025年度分の結果が公表された",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：職業分類は、2015年度は厚生労働省編集職業分類、2025年度は日本標準職業分類による",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：職業分類は、2020年度は厚生労働省編集職業分類、2025年度は日本標準職業分類による",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年度および2020年度は「厚生労働省編集職業分類 職業分類表」に基づく区分",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "平均求人賃金は厚生労働省「一般職業紹介状況(職業安定業務統計)：雇用関係指標（年度）」による",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」の職業別の表の数字です",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」の参考統計表6に、職業の大分類・中分類ごとの倍率が載っています",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（令和8年9月分）」2026年10月30日公表・参考統計表6（常用／パート含む・全国計）",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 – 2026年9月 (列 – 複数値形式) - データ製作所",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 – 2026年9月 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "「一般職業紹介状況 (職業安定業務統計)」（厚生労働省）を基にデータ製作所が作成",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、公共職業安定所における求人、求職、就職の状況（新規学卒者を除く",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況 (職業安定業務統計)_厚生労働省",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "この投稿は厚生労働省が公表している一般職業紹介状況 (職業安定業務統計)をもとにデータ製作所が編集・作成したものです",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "＜ダウンロード＞ 一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012...",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "＞一般職業紹介状況 (職業安定業務統計)_第21表_職業別_労働市場関係指標_月次 2012年3月 - 2023年11月 (列 - 複数値形式)(https://data-seisaku...",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況 (職業安定業務統計)_第22表_年齢別_労働市場関係指標_月次 1997年1月 – 2026年9月 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況 (職業安定業務統計)_第20表_産業・事業所規模別新規求人数 2008年4月 – 2026年9月(列指向形式)",
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況（職業安定業務統計）（2026-10-30公表）",
+    "url": "https://hardestmarket.com/ja/job-market/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「労働力調査」によると、製造業の就業者数は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省・厚生労働省・文部科学省「",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」を見ると、製造現場の中核職種である「生産工程の職業」の有効求人倍率は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省「一般職業紹介状況（職業安定業務統計）」（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省等「ものづくり白書」によれば、製造業の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、厚生労働省「一般職業紹介状況」（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書の調査では、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版アーカイブ",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（職業安定業務統計）」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の2017年12月の調査によると、",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年版 ものづくり白書｜厚生労働省",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年版ものづくり白書では、製造業就業者数の減少に加え、製造業の若者離れを示唆する決定的なデータが報告されています",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 調査対象：製造業に従事する方、製造業への就職・転職を検討している方",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 調査人数：400人",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 調査期間：2023年2月",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "なお本調査においては、",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年・製造業の就労ニーズ白書｜従業員はなぜ定着しないのか？ | Nikken→Tsunagu",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2020年版ものづくり白書」によると、ものづくり企業が直面している経営課題に関する問いに対して、",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "「2020年版ものづくり白書」",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "上述のWebアンケートにて、就業先を選ぶ際に重視しているポイントについても合わせて調査しました",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年・製造業の就労ニーズ白書｜求職者が就職・転職先を選ぶポイントとは | Nikken→Tsunagu",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の「一般職業紹介状況(令和6年11月分)」によると、",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況（令和6年11月分）参考統計表｜厚生労働省",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2024年版ものづくり白書」によると、非製造業の就業者数は2003年から2023年の20年間で554万人増加している一方、製造業の就業者数は123万人減少しています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版ものづくり白書 第2章 就業動向と人材確保・育成｜経済産業省",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "なお、経済産業省が2017年に行った調査では、製造業における約94%の企業が「人材確保に課題がある」と回答し、32.1%の企業が「ビジネスにも影響が出ている」と捉えていることが明らかになっています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "2018年版ものづくり白書 第1章 我が国ものづくり産業が直面する課題と展望｜経済産業省",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「2024年版ものづくり白書」では、若年就業者数が2003年から2023年の20年間で102万人減少しており、高齢就業者数が30万人増加していることが明らかになりました",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "実際、経済産業省が2017年に行った調査によると、製造業における多くの企業では技能人材の確保が大きな課題となっていることがわかります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "総務省統計局が2023年に実施した「労働力調査」によると、日本の生産年齢人口は2013年から2023年にかけて減少し続けており、トータルで544万人減少していることが明らかになりました",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "労働力調査（基本集計）2023年（令和5年）平均結果の概要｜総務省統計局",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   }
+  ],
+  "求人倍率・充足率": [
+   {
+    "quote": "職業別にみた有効求人倍率、平均求人賃金（ちょっと気になるデータ：ビジネス・レーバー・トレンド 2026年7月号）｜労働政策研究・研修機構（JILPT）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の職業計の有効求人倍率",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表1：職業別の有効求人倍率",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度について、職業（中分類）別で有効求人倍率が2倍以上となっている職業をみると、「建設躯体工事従事者」が7.72倍、「土木作業従事者」が6.21倍、「建築・土木・測量技術者」が5.58倍、「その他の技術者」が4.88倍、「建設従事者（建設躯体工事従事者を除く）」が4.37倍、「機械整備・修理従事者」が4.04倍などと高くなっている（",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表2：職業別の有効求人倍率（中分類、2025年度）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：e-Statの表番号21（職業別労働市場関係指標）に表章されている職業（中分類）のうち有効求人倍率が2倍以上の職業を掲載した",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "職種別の有効求人倍率──一般事務0.30倍、建設躯体工事8.41倍で約28倍の差 | Coachers Inc.",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月の有効求人倍率は、一般事務が",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 職種別の有効求人倍率は、どれくらい開いているのか",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月の有効求人倍率は、職業計で1.08倍、一般事務が0.30倍、建設躯体工事が8.41倍でした",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の有効求人倍率は1.00倍、でも充足率は8.2%──決まらない求人の直し方",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（2026年9月）：都道府県別・職業別 | The Hardest Market",
+    "url": "https://hardestmarket.com/ja/job-market/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（2026年9月、季節調整値）",
+    "url": "https://hardestmarket.com/ja/job-market/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、ハローワークの求職者1人あたりの求人数です",
+    "url": "https://hardestmarket.com/ja/job-market/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば製造業のなかでも機械整備・修理の求人倍率は、2012年時点の1.09倍から2023年には4.43倍に推移しています",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、求職者1人に対する求人数の割合を示した数値のことで「公共職業安定所にエントリーしている企業の求人数（有効求人数）÷仕事を探している人の数（有効求職者数）」で算出されます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率が高くなると求職者1人あたりの求人数も多くなるため、働き口を探す人は仕事を選びやすくなります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における2024年11月の有効求人倍率の平均は1.62倍となっています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の有効求人倍率は全職業の平均である1.18倍よりも高いことから、他の職業に比べて人材確保が難しい状況にある",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "「機械整備・修理」の有効求人倍率は4.26倍であり、特に人手不足が深刻化している",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "労働力不足の深刻さは求人倍率にも表れており、2023年1月時点の職種別有効求人倍率では、以下のように非常に高い水準を記録しています",
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、「機械整備・修理」に関わる職種では有効求人倍率が3を超えたと、顕著な高まりを見せています",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人倍率が３を超えた」とは、簡単に説明すると、日本において機械設備・修理求人数が100件の中、労働者数が30人しかいないという意味です",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校は就職率63.3%、求人倍率は20.6倍",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校の求人倍率は20.6倍",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "工程ごとの有効求人倍率の差（令和8年3月の統計）と、交替制や作業環境の書き方を公的データをもとに解説しています",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（令和8年6月分）」によると、生産工程従事者の有効求人倍率は",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "主要業種の有効求人倍率比較（常用・パート含む／令和8年6月）",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "生産工程従事者の内訳別 有効求人倍率（常用・パート含む／令和8年6月）",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、同じ生産工程のなかで有効求人倍率が0.79倍から3.81倍まで開いています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では同じ生産工程のなかで有効求人倍率が0.79倍から3.81倍まで開いており、1本の原稿を出し続ける運用では倍率の低い職種にばかり応募が集まります",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の採用は、生産工程従事者の有効求人倍率1.55倍という、他の人手不足業種と比べれば穏やかな数字のなかで行われています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "介護のIndeed代理店ランキング5選｜有効求人倍率4倍の採用難に効く選び方と費用",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は1.67倍",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "生産工程の職業全体の求人倍率は1.86％",
+    "url": "https://hitokuru.atimes.co.jp/list/397",
+    "pass": 3
+   },
+   {
+    "quote": "職業別＜中分類＞常用計 有効求人・求職・求人倍率 （令和7年10月）",
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002466770.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別＜中分類＞常用的フルタイム 有効求人・求職・求人倍率 （令和7年10月）",
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002466770.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別＜中分類＞常用的パートタイム 有効求人・求職・求人倍率 （令和7年10月）",
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002466770.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別＜中分類＞常用計 有効求人・求職・求人倍率 （令和8年5月）",
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002702334.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別＜中分類＞常用的フルタイム 有効求人・求職・求人倍率 （令和8年5月）",
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002702334.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別＜中分類＞常用的パートタイム 有効求人・求職・求人倍率 （令和8年5月）",
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002702334.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～有効求人倍率（季節調整値）は１．７ ４倍と、前月より０．０１P 上昇～",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～有効求人倍率は１．７２倍と、前年度より０．０４P 低下～",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 有効求人倍率、有効求人・求職（季節調整値）の状況 〔P.5 参照〕",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 有効求人倍率は 1.74 倍で、前月より0.01 ポイント上昇した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、職業別の有効求人倍率（原数値・常用）は、P.7 を参照",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 有効求人倍率（季節調整値）は１．７４倍で、前月より０．０１P 上昇した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 新規求人倍率（季節調整値）は３．４３倍で、前月より０．１５P 上昇した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 新規求人倍率、新規求人・求職（季節調整値）の状況 〔P.5 参照〕",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 新規求人倍率は 3.43 倍で、前月より0.15 ポイント上昇した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（原数値）は 1.18 倍で、前年同月より 0.04 ポイント低下した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、求人倍率の「季節調整値」とは、１年を周期として繰り返す季節的変動要因を一定の方法により取り除いて計算した数値をいう",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別＜中分類＞常用計 有効求人・求職・求人倍率 （令和4年6月）",
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別＜中分類＞常用的フルタイム 有効求人・求職・求人倍率 （令和4年6月）",
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職業別＜中分類＞常用的パートタイム 有効求人・求職・求人倍率 （令和4年6月）",
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～有効求人倍率（季節調整値）は１．７２倍と、前月より０．０５P 上昇～",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 有効求人倍率・求人・求職の状況 〔P.4 参照〕",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 有効求人倍率（季節調整値）は1.72 倍で、前月より0.05 ポイント上昇した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "別の有効求人倍率（常用）は、P.6 を参照",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 有効求人倍率（季節調整値）は１．７２倍で、前月より０．０５P 上昇した",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   }
+  ],
+  "地域別": [
+   {
+    "quote": "建設躯体工事の有効求人は19,158件、ハローワークでこの仕事を探している人は全国で2,279人",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（令和8年9月分）」2026年10月30日公表・参考統計表6（常用／パート含む・全国計）",
+    "url": "https://coachers.jp/blog/2026095421/",
+    "pass": 3
+   },
+   {
+    "quote": "全国・都道府県は季節調整値、パートタイムを含む",
+    "url": "https://hardestmarket.com/ja/job-market/",
+    "pass": 3
+   },
+   {
+    "quote": "私は船井総合研究所の製造業コンサルタントとして、年間を通じて全国の中小製造業の現場に入り、経営者の皆様とこの問題に向き合ってきました",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "また、東京への一極集中によって、東京では人材が集まりやすくなる反面、",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "また、2016年には「女性活躍推進法」や2017年には「改正育児・介護休業法」の施行など、女性にとって働きやすい職場環境の整備に向けた全国的な取り組みも進んでいます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "東京MXの番組で、ノムラシステムコーポレーションが取り上げられました",
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 全国工業高等学校長協会「R05卒業者調査」/ UZUZ「工業高校出身者の就職」/ 関東工業自動車大学校「工業高校からの進路選択」/ トモヤログ「情報技術科」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "（全建総連東京都連合会 2024年賃金調査報告書）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "全国工業高等学校長協会「R05卒業者調査」",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "GATEN職「一人親方の年収」（全建総連東京都連合会 2024年賃金調査報告書を引用）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "愛知・三重の高校に毎月届いている就活情報誌",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省「一般職業紹介状況（令和8年7月分）」参考統計表6（全国計・生産工程従事者の内訳、常用（パート含む）、令和8年7月）／厚生労働省「労働経済動向調査（令和8年5月）」正社員等労働者過不足判断D.I.",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "全国（6拠点）",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "全国6拠点の体制",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "：東京・千葉・名古屋・京都・大阪・福岡の6拠点から支援を行っています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋に拠点を置く採用支援会社で、愛知・岐阜の東海エリアを中心に4,500社以上の支援実績を公開しています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "支援実績が愛知・岐阜を中心とする東海エリアに集中しているため、他地域の製造会社が同水準の地域知見を得られるかは商談時に確認が必要です",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県名古屋市に本社を置き、中小企業の採用と定着支援を専門とする会社です",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県と滋賀県の事例で費用・応募数・採用数・単価をすべて開示",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "：愛知県の溶接・プレス工の募集では、4か月で計76万8,000円を投じ、応募44名・応募単価1万1,000円、採用7名・採用単価約11万円という結果を公開しています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "：愛知県の事例について、日本を代表する自動車メーカーの工場が多く中途採用が難しいエリアで、他工場で就業していた人材の採用に至り、今までとは異なる層の採用が実現したと説明しています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "デルタマーケティングの事例（愛知県・溶接／プレス工）",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知・岐阜を中心に4,500社以上の支援実績を持ち、製造業の求人が集中する地域での採用事例を単価まで開示しています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "公開事例では、岐阜県の製造スタッフ採用で採用単価90,000円、愛知県の溶接・プレス工で採用単価約11万円、滋賀県の製造スタッフで採用単価10万円以下という実績があります",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "デルタマーケティングが公開している愛知県の事例では、日本を代表する自動車メーカーの工場が多く中途採用が難しいエリアで、他工場で就業していた人材の採用に至ったと報告されています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に東京で",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年に本社住所を東京から札幌に移転し、自身も関東から札幌に移住",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "「ワガシャ de DOMO」は月額33,000円で、求人作成・運用・更新までマルっと代行し、手間を軽減できるサービスとして全国1万社に導入実績があります",
+    "url": "https://hitokuru.atimes.co.jp/list/397",
+    "pass": 3
+   },
+   {
+    "quote": "東京労働局では、令和８年３月分及び令和７年度分の「一般職業紹介状況」を取りまとめました",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊就職件数・・・・・・・・・ 都内のハローワークにおいて求職申込を受け付けた求職者に対して、全国のハロ―ワークで受理した求人を紹介、就職が",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "確認された件数と、オンライン登録者が、ハローワークインターネットサービス上から全国のハロ―ワークで受理した求人へ",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊充足数・・・・・・・・・・・ 都内のハローワークにおいて受け付けた求人に対して、全国のハローワークで紹介、就職が確認された件数と、オンライン",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年月 新規求職者数 季節調整値前月比 新規求人数 季節調整値前月比 月間有効求職者数 季節調整値前月比 月間有効求人数 季節調整値前月比 全 国 東京都 全 国 東京都 就職件数 充足数 ⑨完全失業者数 ⑩完全失業率",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 １ ①②③④⑦⑧欄は、東京都の数値で原数値である",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年３月分 【東京労働局職業安定部】",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年３月 【東京労働局職業安定部】",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京労働局では、令和７年９月分の「一般職業紹介状況」を取りまとめましたので公表します",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊就職件数・・・・・・・・・都内のハローワークにおいて求職申込を受け付けた求職者に対して、全国のハロ―ワークで受理した求人を紹介、就職が",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "確認された件数と、オンライン登録者が、ハローワークインターネットサービス上から全国のハロ―ワークで受理した求人へ",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊充足数・・・・・・・・・・・都内のハローワークにおいて受け付けた求人に対して、全国のハローワークで紹介、就職が確認された件数と、オンライン",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年月 新規求職者数 新規求人数 月間有効求職者数 月間有効求人数 全 国 東京都 全 国 東京都 就職件数 充足数 ⑨完全失業者数 ⑩完全失業率 ⑪完全失業者数 ⑫完全失業率",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９月 (0.8) (1.8) (4.2) (▲ 0.4) ［▲ 0.10p］ ［▲ 0.11p］ ［0.01p］ ［▲ 0.01p］ (▲ 1.0) (▲ 3.1) (▲ 9) ［▲ 0.1p］ (▲ 4) (全国 2.6 0.0ｐ）",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "27,554 124,359 197,642 370,839 2.27 3.57 1.25 1.76 6,071 8,458 154 2.5 (全国 2.3 ▲0.1ｐ）",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "33,147 123,144 202,446 362,779 2.32 3.75 1.26 1.76 6,817 9,938 180 2.5 (全国 2.4 ▲0.1ｐ）",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "34,189 123,581 217,502 358,551 2.18 3.45 1.22 1.70 6,553 9,213 176 2.5 (全国 2.6 ▲0.1ｐ）",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 １ ①②③④⑦⑧欄は、東京都の数値で原数値である",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ ⑪⑫欄は､南関東〔東京、埼玉、千葉、神奈川〕及び全国の年・四半期の数値で原数値である",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年９月分 【東京労働局職業安定部】",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年９月 【東京労働局職業安定部】",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京労働局では、令和７年３月分及び令和６年度分の「一般職業紹介状況」を取りまとめまし",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊就職件数・・・・・・・・・ 都内のハローワークにおいて求職申込を受け付けた求職者に対して、全国のハロ―ワークで受理した求人を紹介、就職が",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "確認された件数と、オンライン登録者が、ハローワークインターネットサービス上から全国のハロ―ワークで受理した求人へ",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊充足数・・・・・・・・・・・ 都内のハローワークにおいて受け付けた求人に対して、全国のハローワークで紹介、就職が確認された件数と、オンライン",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年月 新規求職者数 新規求人数 月間有効求職者数 月間有効求人数 全 国 東京都 全 国 東京都 就職件数 充足数 ⑨完全失業者数 ⑩完全失業率 ⑪完全失業者数 ⑫完全失業率",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３月 (▲ 9.8) (▲ 1.9) (2.1) (1.0) ［0.08p］ ［0.09p］ ［0.01p］ ［0.02p］ (▲ 1.2) (▲ 3.9) (▲ 8) ［0.0p］ (全国 2.5 ▲ 0.1ｐ）",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "31,820 130,170 212,283 365,609 2.25 3.83 1.24 1.79 6,700 9,365 181 2.5 (全国 2.7 0.0ｐ）",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "32,379 123,076 205,284 354,421 2.20 3.57 1.25 1.75 5,917 8,502 173 2.4 (全国 2.6 0.0ｐ）",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "27,554 124,359 197,642 370,839 2.27 3.57 1.25 1.76 6,071 8,458 154 2.5 (全国 2.3 ▲0.1ｐ）",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 １ ①②③④⑦⑧欄は、東京都の数値で原数値である",
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "pass": 3
+   }
+  ],
+  "採用できず起きたこと": [
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：受注辞退・失注による機会損失（表面化しにくいが最も大きい）",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：残業代・外注費の増加、経験不足による不良・手直しの増加",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "会社の競争力の低下や利益の減少を招くほか、生産ラインが維持できず黒字倒産に追い込まれるケースも起こりえる状況です",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、自社の人材だけでは賄えず外注費が膨らむと、利益がさほど出ない仕事となってしまいます",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が改善されず、外注費がかかって利益が出ない状態が続いてしまうのです",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、受注が好調で事業が順調であっても、人手不足から生産ラインを維持できず、黒字倒産してしまうケースも発生しています",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "廃業メーカーや供給終了部品など、他社では入手困難なアイテムであっても、豊富なネットワークと知識を駆使して対応します",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "廃業したメーカーやサポートが終了した機械のメンテナンスは、特に困難を極めます",
+    "url": "https://seibushoko.com/solution/2824/",
+    "pass": 3
+   },
+   {
+    "quote": "母集団形成だけを外注しても、受け入れ側が変わらなければ数字は戻りません",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "募集の外注先ではなく、社内の人事機能そのものを担う",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足倒産は2026年上半期に227件発生し、上半期としては5年連続で前年を上回った",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "受注があっても対応できない「黒字倒産」のリスク",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   }
+  ],
+  "規模別": [
+   {
+    "quote": "製造業の人材不足はなぜ解決しないのか？データで見る本当の原因と、中小企業が打つべき対策の全て",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員や幹部の退職を直接の引き金とする「従業員退職型」も",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業」は、人材獲得競争において三重のハンデを背負っている",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "】少ない人数で回る工場をつくる打ち手（省人化・小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "」と聞くと、大企業のスマートファクトリーや数千万円の生産管理システムを想像して尻込みする経営者が少なくありません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数十名規模の工場ほど、小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "大企業型のスマートファクトリーを目指す必要はまったくありません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材の受け入れは中小企業でも現実的ですか？",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、既存従業員が内包している離職意向の高さも、深刻な課題として認識すべき水準に達しています",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に悩む企業は、人材確保施策として既存従業員の離職率にも目を向けなくてはいけません",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の勤務歴や年代別に応じたデータについては、以下の記事に記載の詳細情報をご確認ください",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年・製造業の就労ニーズ白書｜従業員はなぜ定着しないのか？ | Nikken→Tsunagu",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業・中小企業ともに約42％が「人手不足」を挙げている",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業の17.1％、中小企業の22.7％が「後継者不足」と回答している",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、利益が出ない仕事によって経営が圧迫されると、従業員の待遇改善が難しくなります",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の中でも、特に中小企業では正社員での採用が進んでおらず、ギリギリで現場をまわしているといった工場が少なくないのが実情です",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "また、期間従業員や派遣社員、外国人材を登用する方法もあります",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "5Sの導入にあたっては、推進するための体制づくりと従業員の理解が不可欠です",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "期間従業員や派遣社員の登用や外部委託の活用",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "また、投資及び利益を考慮した業務の自動化と、期間従業員や派遣社員のバランスのある活用により、景気の変動に柔軟に対応できるようになるとともに、人材が流動化する時代に即した人材確保が図れます",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業における人手不足の問題を解消するには、従業員にとって働きやすい環境を整えつつ、採用の幅を広げて新たな人材を確保することが重要です",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "チャットツールの多言語化で外国人従業員の働きやすい環境を実現",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が深刻化し、売上や業績に悪影響を及ぼさないためにも、製造業では従業員の離職や求職者の敬遠を防ぐ取り組みが必要となります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化だけでなく、製造業に対する一般的なイメージや従業員教育の不徹底も人手不足の原因として挙げられます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン従業員が再雇用・雇用延長などで残り続ければ一定の労働力を確保できるものの、体力や健康面の制約による生産性の低下や、事故の発生リスクが懸念されることから、現場には若手や中堅など第一線で活躍する人材も必要です",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、今は終身雇用の衰退や若年層の意識変化によって転職が当たり前になり、複数の企業を渡り歩く人が増えているため、会社に長く残り続ける従業員の確保が難しくなっています",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "従業員教育を行う人材が足りないことも、製造業で人手不足が進む原因として挙げられます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "たしかに人手不足が深刻化している企業では、従業員教育を行う人材の確保が難しいかもしれません",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、それを理由に研修や教育を怠ると、従業員は業務に必要な知識・スキルを身につけられず作業負担やストレスも大きくなるため、結果的に離職者数が増える可能性があります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による従業員教育の不徹底、その結果離職者数が増加するという悪循環を防ぐためには、",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "人手が足りない状況でも、従業員のスキルを現場で活躍できるレベルまで向上させる環境整備が必要",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足を解消するためには、採用活動を積極的に行うだけでなく、求職者の応募数減少や従業員の離職につながる根本的な原因にアプローチする必要があります",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "業務の見直しや企業のイメージアップなど、会社の内部・外部の両方に働きかけることで、従業員が長く残り続ける職場づくりが可能になり、生産性向上や良質な製品の提供を実現できます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "目に見える効果がすぐに現れなかったとしても、長期的な視点で継続的に取り組むことが人手不足を招く根本的な原因を解消し、従業員の業務負担を減らしながら効率良く生産活動を行うためには大切です",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "熟練者ならではのスキルやノウハウを広く伝えることで、従業員全体の作業レベル向上につながり、生産性・品質アップも期待できます",
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "大手をはじめとした製造業企業では、以下のような労働環境改善に積極的に取り組み、従業員満足度向上を通じた人材確保を進めています",
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "年間4,000時間の業務削減と生産性37％向上を実現し、従業員の働きやすさにつなげました",
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、中小企業向けの代表的な支援には、以下が挙げられます",
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「中小企業リスキリング支援事業」",
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "「中堅・中小企業の賃上げ・成長投資補助金」",
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員30〜100名規模で、専任の採用担当を置けていない製造会社",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナーの想定対象として「年商20億円以上もしくは従業員規模100名以上」が挙げられており、それより小規模な製造会社では提供内容が過剰になる可能性があります",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県名古屋市に本社を置き、中小企業の採用と定着支援を専門とする会社です",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業に強いIndeed代理店ランキング",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "、中小企業という軸での比較は",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業に強いIndeed代理店ランキング7選｜採用×定着の伴走型で選ぶ【2026年最新】",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品・機械加工業｜中小企業が最も直面する3K問題と即戦力不足",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の人員が減ると、残された従業員に業務が集中し、残業や休日出勤が常態化しやすくなります",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "大企業ではDX推進に必要なデジタル人材の確保が課題となっています",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業では採用予算や教育体制が脆弱なため、高度技能者や設備管理の専門職が確保できず、",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小企業では教育予算や専任の育成担当者を確保しづらく、OFF-JTや体系的な研修を整備できないまま現場任せになりがちです",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小企業では、材料費の上昇分を製品価格に転嫁しきれず、",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業が知名度や好条件を武器に人材を獲得する一方、中小企業は限られた採用予算のなかで戦わざるを得ない状況に置かれています",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体への掲載費用や人材紹介会社への成功報酬は年々上昇傾向にあり、中小企業にとって大きな負担となっています",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の採用担当者には、限られたリソースを最適配分し、自社の強みを的確に伝える発信力が求められます",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工や機械部品の領域は、中小企業の比率が高く、人手不足の影響を最も受けやすい業種です",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員にとってもキャリア形成の機会となり、定着率の向上にもつながるでしょう",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が長く働きたいと感じる組織づくりは、人手不足解消への最短ルートといえます",
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "pass": 3
+   }
+  ],
+  "採用にかけるお金": [
+   {
+    "quote": "高水準である情報通信業（約38.12万円）や金融・保険業（約39.34万円）との賃金差は7万円以上にも及びます",
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "約247万円",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "約400万円",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "約500万円",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "650〜750万円",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "800〜1,000万円",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 厚生労働省「賃金構造基本統計調査」/ 国税庁「令和元年分民間給与実態統計調査」（製造業平均年収 513万円）",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "大卒の659万円との差は約60万円で、学歴よりも資格と経験で差がつく世界です",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "職種によっては、とび職で1,000万円、設備屋で900〜1,200万円という数字もあります",
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用10万円〜",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用10万円・月額10万円〜、成果報酬0円、採用人数の上限なし（税別・最低契約期間3ヶ月）",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円なら1名あたり70〜105万円になります",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "万円 × 3ヶ月",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用を含めた3ヶ月の総額は55万円（税別）です",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "スタンダード（月15万円）",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価の計算式と17職種の相場一覧、平均値をそのまま使えない理由を整理しています",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "月額定額型・成果報酬型・従量型それぞれの費用の出方と、1名あたりの採用単価の考え方です",
+    "url": "https://saiyo-commit.com/seizou/",
+    "pass": 3
+   },
+   {
+    "quote": "製造スタッフの採用事例で応募単価11,250円・採用単価90,000円まで数値を開示し、単一媒体からIndeed PLUSへ切り替えて応募を4倍にした過程を公開している",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "応募単価11,250円・採用単価90,000円・採用1名という結果まで公開しています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "：Indeed PLUS運用代行の初期費用を3万円からと明示し、求人広告に特化したライターによる原稿作成から運用・効果検証までをワンストップで提供するとしています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "：セミナーで紹介している成功事例として、大手の自動車工場があり製造スタッフの採用が難しい北関東エリアの企業が、広告費1万円で約半年に15名の採用を実現したケースを挙げています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "：愛知県の溶接・プレス工の募集では、4か月で計76万8,000円を投じ、応募44名・応募単価1万1,000円、採用7名・採用単価約11万円という結果を公開しています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "滋賀県の製造スタッフの事例では計100万8,000円で応募33名、採用10名以上・採用単価10万円以下と報告しています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の代理店が公開している採用単価が、9万円から11万円のレンジに収束している",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "応募単価11,250円、採用単価90,000円、採用1名",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "同社はIndeed PLUS運用代行の初期費用を3万円からと公開しています",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "応募44名・応募単価1万1,000円、採用7名・採用単価約11万円",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "応募33名・応募単価約3万円、採用10名以上・採用単価10万円以下",
+    "url": "https://dairiten-lab.com/seizo/",
+    "pass": 3
+   },
+   {
+    "quote": "約586万円",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "30歳・2社経験：年収580万円→720万円へ年収アップ",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "約140万円の年収アップを実現されました",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "28歳・2社経験：年収550万円→650万円へ年収アップ",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材不足により採用を強化している物流業界の保全メンテナンス職(交代勤務)へ転職し、約100万円の年収アップを実現されました",
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "pass": 3
+   },
+   {
+    "quote": "賃金構造基本統計調査で、機械の整備・修理職とITの運用職を年齢別に比べると、20代は整備・修理職のほうが年20万〜30万円ほど高いんです",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   },
+   {
+    "quote": "30代前半でほぼ並び、30代後半で逆転し、40代前半では65万円ほどの差になります",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "IT職ではなく「 機械整備 ・修理工」に入っていた｜カツジン IT職ではなく「 機械整備 ・修理工」に入っていた｜カツジン note https://note.com > キャリア > 転職・キャリアチェンジ",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   },
+   {
+    "quote": "建設 機械整備 技能士2級とは——取得方法・試験内容・合格率 ... 建設 機械整備 技能士2級とは——取得方法・試験内容・合格率 ... note https://note.com > キャリア > スキル習得",
+    "url": "https://note.com/keybo2010/n/nba1965f91821",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "フィールドエンジニアを国の職業分類で探したら、IT職ではなく「機械整備・修理工」に入っていた｜カツジン｜AI時代のキャリアと年収",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   },
+   {
+    "quote": "フィールドエンジニアを国の職業分類で探したら、IT職ではなく「機械整備・修理工」に入っていた",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   },
+   {
+    "quote": "求人票に「フィールドエンジニア」と書いてあると、ITの仕事なのか、機械を直す仕事なのか、少し迷います。",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の職業分類で探してみると、「フィールドエンジニア」という職業名は1つだけで、産業機械などを直す「はん用・生産用・業務用機械器具整備・修理工」に入っていました。コンピュータを直す「カスタマーエンジニア（コンピュータ）」も、IT職ではなく「電気機械器具整備・修理工」です。ITシステム運用管理者の説明には、コンピュータ機器の保守作業はこちらに分類する、という注記まであります。",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   },
+   {
+    "quote": "年収を見ると、もう一段おもしろいことがわかりました。賃金構造基本統計調査で、機械の整備・修理職とITの運用職を年齢別に比べると、20代は整備・修理職のほうが年20万〜30万円ほど高いんです。ただ、中身は残業代と賞与の多さで、基本給にあたる所定内給与はITの運用職のほうが上でした。30代前半でほぼ並び、30代後半で逆転し、40代前半では65万円ほどの差になります。",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   },
+   {
+    "quote": "若いうちは、残業の多い現場の仕事のほうが年収は高くなる。ただ、年齢が上がると、差は逆の向きに開いていく。年齢別に並べると、そう読めます。",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   },
+   {
+    "quote": "ITのインフラの仕事の中身は、以前こちらにまとめました。",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   },
+   {
+    "quote": "https://katuzimn.com/infra-engineer-toha/",
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械整備技能士2級とは——取得方法・試験内容・合格率をプロが解説｜竹下圭一郎｜ナンニチ社長｜建設機械取扱",
+    "url": "https://note.com/keybo2010/n/nba1965f91821",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械整備技能士2級とは——取得方法・試験内容・合格率をプロが解説",
+    "url": "https://note.com/keybo2010/n/nba1965f91821",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械を動かす資格は知っている。しかし「整備する資格」を知っている人は少ない。",
+    "url": "https://note.com/keybo2010/n/nba1965f91821",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械整備技能士は、クレーンやショベルカーなど建設現場で使われる機械の整備・点検能力を認定する国家資格だ。運転する資格とは全く別の、「直す・維持する」ためのプロフェッショナルの資格だ。",
+    "url": "https://note.com/keybo2010/n/nba1965f91821",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ナンニチ、代表取締役社長の竹下圭一郎です。建設機械の修理・整備を手がける立場から、この資格について正直に解説する。",
+    "url": "https://note.com/keybo2010/n/nba1965f91821",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械整備士は、今まさに希少価値が高まっている職種だ。",
+    "url": "https://note.com/keybo2010/n/nba1965f91821",
+    "pass": 3
+   },
+   {
+    "quote": "建設業全体で人手不足が深刻化する中、機械を整備・修理できる技術者の数は減り続けている。整備士を育てる専門学校の入学者数は18年で47%減少したというデータもある。",
+    "url": "https://note.com/keybo2010/n/nba1965f91821",
+    "pass": 3
+   },
+   {
+    "quote": "機械は動かせても直せない。その時代が来ている。",
+    "url": "https://note.com/keybo2010/n/nba1965f91821",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "航空エンジン／【愛知/技能職】設備保全エンジニア - LinkedIn 航空エンジン／【愛知/技能職】設備保全エンジニア - LinkedIn LinkedIn https://jp.linkedin.com > jobs > view",
+    "url": "https://jp.linkedin.com/jobs/view/%E8%88%AA%E7%A9%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%EF%BC%8F%E3%80%90%E6%84%9B%E7%9F%A5-%E6%8A%80%E8%83%BD%E8%81%B7%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2-at-mitsubishi-heavy-industries-4482835959",
+    "pass": 3
+   },
+   {
+    "quote": "【1417】_H_設備保全（四輪製造領域/完成車工場/埼玉製作所） 【1417】_H_設備保全（四輪製造領域/完成車工場/埼玉製作所） LinkedIn https://jp.linkedin.com > jobs > view",
+    "url": "https://jp.linkedin.com/jobs/view/%E3%80%901417%E3%80%91-h-%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%EF%BC%88%E5%9B%9B%E8%BC%AA%E8%A3%BD%E9%80%A0%E9%A0%98%E5%9F%9F-%E5%AE%8C%E6%88%90%E8%BB%8A%E5%B7%A5%E5%A0%B4-%E5%9F%BC%E7%8E%89%E8%A3%BD%E4%BD%9C%E6%89%80%EF%BC%89-at-honda-4297504163",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "建設 機械整備 士2級 実技講習🛠️ 建設 機械整備 士2 ... - Facebook 建設 機械整備 士2級 実技講習🛠️ 建設 機械整備 士2 ... - Facebook Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/jukishoko/videos/%EF%B8%8F%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E6%95%B4%E5%82%99%E5%A3%AB2%E7%B4%9A-%E5%AE%9F%E6%8A%80%E8%AC%9B%E7%BF%92%EF%B8%8F%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E6%95%B4%E5%82%99%E5%A3%AB2%E7%B4%9A%E3%81%AE%E8%B3%87%E6%A0%BC%E5%8F%96%E5%BE%97%E3%81%AB%E5%90%91%E3%81%91%E5%AE%9F%E6%8A%80%E8%AC%9B%E7%BF%92%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F%E5%AE%9F%E9%9A%9B%E3%81%AE%E6%95%B4%E5%82%99%E4%BD%9C%E6%A5%AD%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E7%82%B9%E6%A4%9C%E6%95%B4%E5%82%99%E6%95%85%E9%9A%9C%E8%A8%BA%E6%96%AD%E3%81%AA%E3%81%A9%E3%81%AE%E6%8A%80%E8%A1%93%E3%82%92%E4%B8%80%E3%81%A4%E3%81%B2%E3%81%A8%E3%81%A4%E7%A2%BA%E8%AA%8D%E3%81%97/1800509660985649/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coachers.jp/blog/2026095421/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hardestmarket.com/ja/job-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caddi.com/ja-jp/news/press/20251204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bsrweb.jp/article/604894?srsltid=AYCX9vKOl4DTe8ubyr9dbdFGXPJo7WlRDlzgNEJhPmux4csZ9iuu_hMp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/jidosha/content/001630593.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://seibushoko.com/solution/2824/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/20/02/554",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.carmarke.com/automobile-mechanics-cannot-be-hired/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manten-comic.com/high-school-graduate-site-jobs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenkoukyo.or.jp/web/content/uploads/R04sotsugyo_kekka.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/fukushima-roudoukyoku/content/contents/001399329.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/column/works04/detail002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo-commit.com/seizou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ch.job-con.jp/blog/c142",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairiten-lab.com/seizo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/seizou_shotage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitokuru.atimes.co.jp/list/397",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002466770.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002702334.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keybo2010/n/nba1965f91821",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/%E8%88%AA%E7%A9%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%EF%BC%8F%E3%80%90%E6%84%9B%E7%9F%A5-%E6%8A%80%E8%83%BD%E8%81%B7%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2-at-mitsubishi-heavy-industries-4482835959",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/%E3%80%901417%E3%80%91-h-%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%EF%BC%88%E5%9B%9B%E8%BC%AA%E8%A3%BD%E9%80%A0%E9%A0%98%E5%9F%9F-%E5%AE%8C%E6%88%90%E8%BB%8A%E5%B7%A5%E5%A0%B4-%E5%9F%BC%E7%8E%89%E8%A3%BD%E4%BD%9C%E6%89%80%EF%BC%89-at-honda-4297504163",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jukishoko/videos/%EF%B8%8F%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E6%95%B4%E5%82%99%E5%A3%AB2%E7%B4%9A-%E5%AE%9F%E6%8A%80%E8%AC%9B%E7%BF%92%EF%B8%8F%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E6%95%B4%E5%82%99%E5%A3%AB2%E7%B4%9A%E3%81%AE%E8%B3%87%E6%A0%BC%E5%8F%96%E5%BE%97%E3%81%AB%E5%90%91%E3%81%91%E5%AE%9F%E6%8A%80%E8%AC%9B%E7%BF%92%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F%E5%AE%9F%E9%9A%9B%E3%81%AE%E6%95%B4%E5%82%99%E4%BD%9C%E6%A5%AD%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E7%82%B9%E6%A4%9C%E6%95%B4%E5%82%99%E6%95%85%E9%9A%9C%E8%A8%BA%E6%96%AD%E3%81%AA%E3%81%A9%E3%81%AE%E6%8A%80%E8%A1%93%E3%82%92%E4%B8%80%E3%81%A4%E3%81%B2%E3%81%A8%E3%81%A4%E7%A2%BA%E8%AA%8D%E3%81%97/1800509660985649/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "機械整備・修理の職業 有効求人倍率 職業別 労働局 2026",
+   "results": [
+    "https://jsite.mhlw.go.jp/toyama-roudoukyoku/content/contents/R0809_shokugyo.pdf",
+    "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/07/toukei_01.html",
+    "https://coachers.jp/blog/2026095421/",
+    "https://data-seisaku.com/00450-mhlw-00450222-hyo21-full-list/",
+    "https://hardestmarket.com/ja/job-market/",
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://seizo-web.com/blog/3040/",
+    "https://nextengineer.com/blog/know-how001/",
+    "https://www.hwiroha.com/report/report_sb_3year_h55.html"
+   ]
+  },
+  {
+   "query": "機械整備・修理の職業 人手不足 調査 2025 2026 製造業 割合",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1690/",
+    "https://caddi.com/ja-jp/news/press/20251204/",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://www.ricoh.co.jp/service/remote-field/column/article-manufacturing-industry",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/"
+   ]
+  },
+  {
+   "query": "機械整備・修理の職業 採用できない 受注を断った 割合",
+   "results": [
+    "https://bsrweb.jp/article/604894?srsltid=AYCX9vKOl4DTe8ubyr9dbdFGXPJo7WlRDlzgNEJhPmux4csZ9iuu_hMp",
+    "https://www.mlit.go.jp/jidosha/content/001630593.pdf",
+    "https://seibushoko.com/solution/2824/",
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "https://www.e-stat.go.jp/classifications/terms/20/02/554",
+    "https://recruit.carmarke.com/automobile-mechanics-cannot-be-hired/",
+    "https://crosslink.jp.net/kyujinnavi/blog/auto-mechanic-recruitment-challenges-solutions/",
+    "https://shigoto.mhlw.go.jp/User/Occupation/Detail/197",
+    "https://www.mobiria.jp/labo/620/",
+    "https://prtimes.jp/main/html/rd/p/000000021.000043044.html"
+   ]
+  },
+  {
+   "query": "機械整備・修理の職業 高卒求人倍率 製造業 工業高校",
+   "results": [
+    "https://yumesuta.com/career-guide/blog/industrial-highschool-jobs",
+    "https://manten-comic.com/high-school-graduate-site-jobs/",
+    "https://zenkoukyo.or.jp/web/content/uploads/R04sotsugyo_kekka.pdf",
+    "https://jsite.mhlw.go.jp/fukushima-roudoukyoku/content/contents/001399329.pdf",
+    "https://www.works-i.com/column/works04/detail002.html",
+    "https://mizusaki-inc.com/knowledge/article30",
+    "https://www.jil.go.jp/institute/reports/2018/documents/0201.pdf",
+    "https://job-draft.com/howtos/95",
+    "https://dockinc.jp/blog/kousotsu-seizogyo-erabareru/",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing"
+   ]
+  },
+  {
+   "query": "機械整備・修理の職業 採用単価 製造業 中小企業",
+   "results": [
+    "https://saiyo-commit.com/seizou/",
+    "https://ch.job-con.jp/blog/c142",
+    "https://dairiten-lab.com/seizo/",
+    "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "https://marugotoinc.jp/blog/seizou_shotage/",
+    "https://hitokuru.atimes.co.jp/list/397",
+    "https://crosslink.jp.net/kyujinnavi/blog/manufacturing-recruiting-solutions/",
+    "https://rework.nexly.co.jp/column/manufacturing-salary/",
+    "https://willof-work.co.jp/journal/15224/",
+    "https://helloworkplus.com/middle_job_category/075/"
+   ]
+  },
+  {
+   "query": "site:jsite.mhlw.go.jp 機械整備・修理の職業 職業別 有効求人倍率",
+   "results": [
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002466770.pdf",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002702334.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002640369.pdf",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/001203893.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002493430.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002227086.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/002509401.pdf",
+    "https://jsite.mhlw.go.jp/wakayama-roudoukyoku/library/wakayama-roudoukyoku/roudoujijou/18.pdf",
+    "https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/002118678.pdf",
+    "https://jsite.mhlw.go.jp/tokyo-hellowork/content/contents/002797138.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 機械整備・修理の職業",
+   "results": [
+    "https://note.com/joincareeroffice/n/n59141af539d7",
+    "https://note.com/katuzimn/n/nf5b44c82aa16",
+    "https://note.com/career_bible/n/nf7799121707f",
+    "https://note.com/keybo2010/n/nba1965f91821",
+    "https://note.com/asialink/n/na81ddf11d642",
+    "https://note.com/maachiku1334/n/na7bfd5b7ded6",
+    "https://note.com/fukushimakenki/n/n8c4ea339556c",
+    "https://note.com/0101_engineer/n/nba53c0c70968",
+    "https://note.com/axis_hashimura/n/nc66d57354404",
+    "https://note.com/kotatsu_ai_jadc/n/nfe449c1d5161"
+   ]
+  },
+  {
+   "query": "site:x.com 機械整備・修理の職業",
+   "results": [
+    "https://x.com/kanagawakyoku/status/1850782487137620447",
+    "https://x.com/GJ_yohane/status/1670632932837564416",
+    "https://x.com/iris_lycoris09/status/1582542229109100547",
+    "https://x.com/koba_taku_sales/status/2103266800779874692/photo/1",
+    "https://x.com/KinanLtd/status/1797493082453389325",
+    "https://x.com/Kanatech_Seibu",
+    "https://x.com/KinanLtd/status/1800027529501430171",
+    "https://x.com/upty2009",
+    "https://x.com/DWAbousai0111/status/2114922043833819257",
+    "https://x.com/Tomoaki_CEO"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 機械整備・修理の職業",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%E8%88%AA%E7%A9%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%EF%BC%8F%E3%80%90%E6%84%9B%E7%9F%A5-%E6%8A%80%E8%83%BD%E8%81%B7%E3%80%91%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2-at-mitsubishi-heavy-industries-4482835959",
+    "https://jp.linkedin.com/pulse/overcoming-five-major-maintenance-repair-operations-mro?tl=ja",
+    "https://www.linkedin.com/help/recruiter/answer/a1421501/recruiter-talent-insights-?lang=ja",
+    "https://jp.linkedin.com/jobs/view/%E3%80%901417%E3%80%91-h-%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%EF%BC%88%E5%9B%9B%E8%BC%AA%E8%A3%BD%E9%80%A0%E9%A0%98%E5%9F%9F-%E5%AE%8C%E6%88%90%E8%BB%8A%E5%B7%A5%E5%A0%B4-%E5%9F%BC%E7%8E%89%E8%A3%BD%E4%BD%9C%E6%89%80%EF%BC%89-at-honda-4297504163",
+    "https://jp.linkedin.com/company/sullivan-tire?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://jp.linkedin.com/company/schaeffler",
+    "https://jp.linkedin.com/pulse/what-wwii-aircraft-can-teach-us-repair-servo-motors-adjust-s-l-ekije?tl=ja",
+    "https://jp.linkedin.com/company/hokuryo",
+    "https://jp.linkedin.com/pulse/mechanics-wanted-robots-approaching-oliver-roessling-n84wc?tl=ja",
+    "https://jp.linkedin.com/company/belzonauk?trk=ppro_cprof"
+   ]
+  },
+  {
+   "query": "site:facebook.com 機械整備・修理の職業",
+   "results": [
+    "https://www.facebook.com/groups/2331380300417020/posts/4604774186410942/",
+    "https://www.facebook.com/jukishoko/videos/%EF%B8%8F%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E6%95%B4%E5%82%99%E5%A3%AB2%E7%B4%9A-%E5%AE%9F%E6%8A%80%E8%AC%9B%E7%BF%92%EF%B8%8F%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E6%95%B4%E5%82%99%E5%A3%AB2%E7%B4%9A%E3%81%AE%E8%B3%87%E6%A0%BC%E5%8F%96%E5%BE%97%E3%81%AB%E5%90%91%E3%81%91%E5%AE%9F%E6%8A%80%E8%AC%9B%E7%BF%92%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F%E5%AE%9F%E9%9A%9B%E3%81%AE%E6%95%B4%E5%82%99%E4%BD%9C%E6%A5%AD%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E7%82%B9%E6%A4%9C%E6%95%B4%E5%82%99%E6%95%85%E9%9A%9C%E8%A8%BA%E6%96%AD%E3%81%AA%E3%81%A9%E3%81%AE%E6%8A%80%E8%A1%93%E3%82%92%E4%B8%80%E3%81%A4%E3%81%B2%E3%81%A8%E3%81%A4%E7%A2%BA%E8%AA%8D%E3%81%97/1800509660985649/",
+    "https://www.facebook.com/marunakasangyou/posts/%E6%95%B4%E5%82%99%E5%A3%AB%E5%A4%A7%E5%8B%9F%E9%9B%86%EF%B8%8F%E5%BC%8A%E7%A4%BE%E3%81%AF%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E3%81%AE%E8%B2%B7%E5%8F%96%E8%B2%A9%E5%A3%B2%E4%BF%AE%E7%90%86%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%99%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E3%81%A8%E3%81%84%E3%81%86%E3%81%A8%E3%81%AA%E3%81%8B%E3%81%AA%E3%81%8B%E6%90%BA%E3%82%8F%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%81%8C%E3%81%AA%E3%81%84%E3%81%A8%E6%80%9D%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%99%E3%81%8C%E5%BB%BA%E7%89%A9%E5%BB%BA%E8%A8%AD%E8%A7%A3%E4%BD%93%E3%82%84%E9%81%93%E8%B7%AF%E5%B7%A5%E4%BA%8B%E3%81%AA%E3%81%A9%E3%82%92%E8%A1%8C%E3%81%86%E3%81%AB%E3%81%8A%E3%81%84/1633347471420856/",
+    "https://www.facebook.com/100064592600184/posts/%E7%A7%8B%E7%94%B0%E4%B8%AD%E5%A4%AE%E6%A9%9F%E5%B7%A5%E6%96%B0%E5%B9%B4%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E4%BB%B2%E9%96%93%E3%81%AE%E7%B4%B9%E4%BB%8B%E3%81%A8%E8%B1%AA%E8%8F%AF%E6%99%AF%E5%93%81%E3%81%8C%E5%BD%93%E3%81%9F%E3%82%8B%E5%A4%A7%E6%8A%BD%E9%81%B8%E4%BC%9A%E3%81%A7%E5%A4%A7%E3%81%84%E3%81%AB%E7%9B%9B%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E3%82%82%E3%83%81%E3%83%BC%E3%83%A0%E4%B8%80%E4%B8%B8%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E4%BB%95%E4%BA%8B%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E5%8F%96%E3%82%8A%E7%B5%84/1328186762677731/",
+    "https://www.facebook.com/groups/2331380300417020/posts/4683709515184075/",
+    "https://www.facebook.com/p/%E7%AD%91%E8%B1%8A%E8%A3%BD%E4%BD%9C%E6%89%80-100093358135810/",
+    "https://www.facebook.com/ehime.sangisen/posts/%E6%96%B0%E5%B1%85%E6%B5%9C%E6%A0%A1-%E4%BB%A4%E5%92%8C%EF%BC%99%E5%B9%B4%E5%BA%A6%E7%94%9F-%E5%89%8D%E6%9C%9F%E5%85%A5%E6%A0%A1%E9%81%B8%E8%80%83%E3%81%AE%E9%A1%98%E6%9B%B8%E5%8F%97%E4%BB%98%E4%B8%AD%E6%89%8B%E3%81%AB%E8%81%B7%E3%82%92%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%9F%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8B%E6%8A%80%E8%A1%93%E3%82%92%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84%E3%81%9D%E3%81%AE%E6%83%B3%E3%81%84%E3%82%92%E3%81%93%E3%81%93%E3%81%A7%E3%82%AB%E3%82%BF%E3%83%81%E3%81%AB%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E4%BB%A4/989025900886032/",
+    "https://www.facebook.com/100054762619592/videos/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F%E7%AD%91%E8%B1%8A%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%A7%E3%81%99%E4%BB%8A%E5%B9%B4%E3%82%82%E7%AD%A5%E5%B4%8E%E5%AE%AE%E6%A7%98%E3%81%A7%E5%AE%89%E5%85%A8%E7%A5%88%E9%A1%98%E7%A5%AD%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E6%97%A5%E3%82%82%E4%B8%80%E6%97%A5%E3%81%94%E5%AE%89%E5%85%A8%E3%81%ABhave-a-safe-day-today%E9%81%B8%E3%81%B0%E3%82%8C%E7%B6%9A%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A8%E5%AE%9F%E7%B8%BE-%E5%BF%9C%E3%81%88/1662834885366997/",
+    "https://www.facebook.com/media/set/?set=a.320911951289389.68256.143718759008710&type=1",
+    "https://www.facebook.com/100035513150607/?locale=hi_IN"
+   ]
+  },
+  {
+   "query": "機械整備・修理の職業 note 社長",
+   "results": [
+    "https://note.com/axis_hashimura/n/nc66d57354404",
+    "https://note.com/career_bible/n/nf7799121707f",
+    "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "https://note.com/joincareeroffice/n/n59141af539d7",
+    "https://sankakunet.jp/topics/occupation075/",
+    "https://note.com/nihonkabu_note/n/n8561cd9880fa",
+    "https://yokohamachuou.com/blog/40472",
+    "https://www.aocjob.com/contents/?p=11701",
+    "https://note.com/career_bible/n/nbc7335a8278b"
+   ]
+  },
+  {
+   "query": "機械整備・修理の職業 X 投稿",
+   "results": [
+    "https://www.m-next.jp/knowledge/occupation/1257.html",
+    "https://yokohamachuou.com/blog/40470",
+    "https://04510.jp/columns/career/machine-maintenance-repair-jobs/",
+    "https://hsmt-denso.com/blog/19945",
+    "https://kikai-syuuri.com/",
+    "https://www.youtube.com/watch?v=0MctB08C4A8",
+    "https://www.taus.ac.jp/column/job/construction-site-equipment.html",
+    "https://job.rikunabi.com/job_search/kw/%E6%A9%9F%E6%A2%B0%E4%BF%AE%E7%90%86/",
+    "https://www.weblio.jp/content/%E6%A9%9F%E6%A2%B0%E6%95%B4%E5%82%99%E4%BF%AE%E7%90%86%E5%BE%93%E4%BA%8B%E8%80%85",
+    "https://sankakunet.jp/topics/occupation075/"
+   ]
+  },
+  {
+   "query": "machine maintenance technician shortage Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/83-technicians-retire-10-yearsand-were-ready-jetsmro-jpifc",
+    "https://www.linkedin.com/pulse/disposable-mechanic-problem-why-business-aviation-burning-through-kxuic",
+    "https://www.linkedin.com/pulse/why-us-faces-shortage-faa-certified-aircraft-how-we-gallagan-ph-d--bmqje",
+    "https://www.linkedin.com/pulse/aircraft-mechanics-should-making-150000-heres-why-jetsmro-mdmtc",
+    "https://www.linkedin.com/pulse/one-third-ap-school-seats-sitting-empty-during-shortage-how-possible-bwc5c",
+    "https://www.linkedin.com/news/story/aviation-industry-offers-perks-to-combat-mechanic-shortage-8001417/",
+    "https://www.linkedin.com/in/ricky-mcmeo-07ba58158",
+    "https://www.linkedin.com/pulse/aviation-eats-its-young-why-we-keep-losing-next-generation-mechanics-ojctc",
+    "https://www.linkedin.com/pulse/addressing-refrigeration-technician-shortage-axiomcloud-oocxe",
+    "https://www.linkedin.com/pulse/japan-machine-tool-maintenance-service-market-2026-szy5f"
+   ]
+  }
+ ],
+ "missing": {}
+}

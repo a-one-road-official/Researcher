@@ -1,0 +1,2305 @@
+{
+ "name": "中堅・大企業製造業の採用",
+ "en": "large manufacturer hiring difficulty Japan",
+ "aliases": [
+  "大企業",
+  "中堅企業",
+  "資本金1億円以上"
+ ],
+ "context": "規模別",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:06:51.893662+00:00",
+ "evidence": {
+  "求人倍率・充足率": [
+   {
+    "quote": "第42回 ワークス大卒求人倍率調査（2026年卒）",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【大卒求人倍率1.66倍】前年から低下も、引き続き堅調な採用意欲",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人と組織に関する研究機関・ リクルートワークス研究所は 、2026年3月卒業予定の大卒求人倍率（ 大学院卒",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【求人倍率】（詳細5～11ページ）",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 来春2026年3月卒業予定の大学生・ 大学院生対象の大卒求人倍率は1 .66倍と、2025年卒の1.75倍より0.09",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍後に大卒求人倍率が上昇に転じた2023 年卒以降、3年連続で上昇した後、 低下し",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 従業員規模別に見ると、 300人未満企業で大卒求人倍率が上昇、 300～999人企業および1000 ～4999人企",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 図表1 求人総数および民間企業就職希望者数・求人倍率の推移",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 図表2 従業員規模別 求人倍率の推移",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注2：2021年3月卒の求人倍率について 、企業調査は2020年6月に実施されている",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で従業員規模別・業種別の求人倍率集計に必要な学生側のデータは、2020年3月時点の調査を使用しており、コ",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2026年3月卒の大卒求人倍率を従業員規模別に見ると、 300人未満企業で前年より2 .48ポイント上昇した",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4999人企業）で大卒求人倍率が1倍を超える状況が続いている",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "模の小さい企業ほど求人倍率が高く、採用難度が高い状況である（詳細6～8ページ）",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に2024年の高卒新卒者においては、求人倍率が3.98倍と非常に高い水準に達しておりこの記事では、工業高校生を採用したいと考えている企業に向けて、",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "特に2024年の高卒新卒者においては、求人倍率が3.98倍と非常に高い水準に達しており、これは企業が若手人材を確保するために必死に採用活動を行っている結果です",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2026年卒の採用充足率は69.7パーセントと過去最低水準を記録しています",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "応募者数が多い一方で内定辞退率も高い場合、1人の内定を獲得するために多くのリソースが必要となります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "○ 令和７年６月の有効求人倍率（季節調整値）は 1.26 倍で、前月に比べ 0.01 ポ",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 新規求人倍率（季節調整値）は 2.18 倍となり、前月を 0.05 ポイント上回った",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６月の有効求人倍率を地域別に見ると、全ての地域で前年同月を下回った",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年6月の有効求人倍率(季節調整値)は１．２６倍で前月より０．０１ポイント下回った",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、毎年１月に過去５年間分について季節的な",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注） １．上段：長野県有効求人倍率（倍）、中段：全国有効求人倍率（倍）、下段：完全失業率（％）",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "就業地別 有効求人倍率、有効求人数、産業別新規求人数（令和７年６月分）",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⃝ ランク別に有効求人倍率の推移をみると、2020年の前半に大きく低下した後、改善が続いたが、足下では横ばいとなって",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "40出所：厚生労働省「職業安定業務統計」 都道府県（受理地）別有効求人倍率（季節調整値）（パートタイムを含む一般）",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 主要指標の推移 (2) 求人倍率、消費者物価指数、国内企業物価指数、賃金（現金給与総額）指数",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ 斜字となっている求人倍率及び賃金指数の四半期別・月別の数値は季節調整値及びその前期（四半期、月）比であり、そのほかの数値は原数値である",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 受理地別・就業地別 求人倍率・求人・求職の動き ４ 〃",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 都道府県別有効求人倍率（季節調整値） 16 〃",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "青森労働局が３月30日に発表した２月の青森県内の有効求人倍率は",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率(同)は0.97倍で、前月を0.08ポイント上回った",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規求人倍率(季節調整値)は1.65倍で、前月を0.03ポイント上回った",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、就業地別有効求人倍率（同）1.04倍となり、前月を0.07ポイント上",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率（原数値）は0.81倍で前年同月を0.03ポイント上回",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、全数の有効求人倍率(原数値)は1.01倍となり、前年同月を0.11",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規求人倍率(原数値)は1.57倍で、前年同月を0.01ポイント上回った",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同有効求人倍率は1.10倍で前年同月を0.14ポイント下回った",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "雇用情勢 6 月の有効求人倍率 （季節調整済） は前月比0.01ポイント上昇した",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 月の有効求人倍率 （季節調整値） は、1.23倍",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・有効求人倍率（季節調整値）は1.20倍で、前月を0.03ポイント下回った",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・新規求人倍率（季節調整値）は2.17倍で、前月を0.03ポイント上回った",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・正社員の有効求人倍率（原数値）は1.04倍で、前年同月を0.02ポイント下回った",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ 安定所別有効求人倍率 （原数値）の推移 県央地域 Ｎo.5",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   }
+  ],
+  "高卒・技術者": [
+   {
+    "quote": "かかわらず、前年の新卒採用計画に対して採用実績人数が過少となった企業では 、2026年卒の新卒採用予",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間企業への就職意向の調査から、大卒者の求人倍率を算出し、新卒採用における求人動向の需給バランス",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月入社の新卒採用活動で初任給に差をつけた採用の実施割合 13",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：集計対象は、各年4月入社の新卒採用実施企業",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参考【2026年4月入社の新卒採用活動で初任給に差をつけた採用の実施割合】",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 図表11 2026年4月入社の新卒採用活動で初任給に差をつけた採用の実施割合",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：集計対象は、各年4月入社の新卒採用実施予定・実施企業",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "正社員「不足」は 53.2％ 新卒採用に苦戦する企業は増加傾向",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "正社員の不足理由について見ると、 「求人に対する応募が少ない」 （64.0％）が最も多く、次いで「新卒",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "者が減っている （高卒等）」（36.0％） 、 「有資格者、 技術者等の確保が難しい」（33.3％） であった （図表3）",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高卒 ・ 大卒ともに 「新卒者が減っている」 と回答した企業は増加傾向となった （図表4）",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "卒・大卒の採用が難しい」 （輸送機械製造業） 、 「新卒採用が出来ず中途採用と派遣社員に頼っている」(は",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ん用機械製造業)など、新卒採用に苦戦しているとの声が多く聞かれた",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業の人手不足対応は、 「中途採用の強化」が72.2％で最も多く、次いで「賃金の引き上げ」",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．ベテラン技術者の高齢化と大量退職",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "段取り替え、加工条件の調整、検査基準の見極めなど、マニュアル化されていない判断が多い工程ほど、ベテラン技術者が退職したあとの影響は大きくなります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "（3）労働市場の実態①：新卒（大卒・高専卒）市場の労働供給は今後伸びない",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新卒（大卒・高専卒）市場の労働供給力について、新卒者数の推移を見ることで把握す",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "進行する中で、新卒市場は先細りしていくことが見込まれる",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "需給の調整後であるという点で注意が必要であるが、中途市場の動向について、転職者",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働力の流動化は、人手不足にある中小企業にとっては、中途採用において好機である",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以下のグラフを参照すると、 大企業・中小企業ともに、現在重視している取組は、新卒採",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、新卒一括採用から通年採用への採用形態の転換、中高年齢者の採用促進、 「中核人材6」",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用形態の転換に関する動向として、2019 年 4 月に、新卒学生の通年採用の拡大につい",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "済界への浸透を図り、企業に対し、新卒者等の個々の事情に配慮した 通年採用や秋季採用の導入、転",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・さらに、若者雇用促進法に基づく指針を踏まえ、新卒者等の中長期的なキャリア形成が可能な地域",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "拠点を有する大企業等に対し、地域を限定して働ける勤務制度など新卒者等が希望する地域で将来の",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用を視野に入れることにより、人材の確保を図っていくことが必要であろう",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①ものづくり産業は新卒採用よりも中途採用を実施",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり人材13の新卒採用を実施していない傾向にあることが分かった",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、中途採",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校生の採用活動で企業が注意すべきポイントと求人倍率",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校生を採用したい企業が知っておくべき求人倍率と高卒採用の成功ポイント",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の労働市場において、近年、工業高校生は非常に注目されています",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業や建設業を中心とした多くの企業が、高卒の専門スキルを持つ人材を求めています",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "により、工業高校生の採用競争はますます激化しています",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "特に2024年の高卒新卒者においては、求人倍率が3.98倍と非常に高い水準に達しておりこの記事では、工業高校生を採用したいと考えている企業に向けて、",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "近年の日本では、工業高校生を採用する企業の間で求人倍率が上昇しています",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "高卒者の求人倍率が過去最高を記録しています",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "特に2024年の高卒新卒者においては、求人倍率が3.98倍と非常に高い水準に達しており、これは企業が若手人材を確保するために必死に採用活動を行っている結果です",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業だけでなく、大手企業も高卒者の採用に積極的に取り組んでおり、工業高校生や技術職を求める企業で顕著です",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "文部科学省や厚生労働省が毎年発表するデータによると、工業高校生の就職希望者に対する求人数は増加しており、他の高等学校の学科と比較しても高い水準を維持しています",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "高卒求人が人気を集める理由と就職成功のポイント",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校生の求人倍率が高い理由には、次のような要因があります：",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "：工業高校では機械、電気、建築といった専門的な知識や技術を学びます",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "工業高校は他の学科に比べ、",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "業界別平均採用単価を新卒中途別一覧 – マーケ畑 | マーケティング手法の情報媒体",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用の平均採用単価は56.8万円",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用の平均は56.8万円｜2024年実績で前年比11.8万円増",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年卒の新卒採用における平均採用単価は56.8万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビ「2024年卒 企業新卒内定状況調査」",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用の平均は31.3万円｜2024年は採用費用650万円で過去最高",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年実績の中途採用における平均採用単価は約31.3万円です",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の中途採用費用の平均は650.6万円で、前年比20.9万円増加し過去最高を記録しました",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "即戦力採用が多いため新卒より単価は低いですが、専門性の高い職種では人材紹介会社を利用するため1人あたり100万円を超えることもあります",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マイナビ「中途採用状況調査2025年版（2024年実績）」",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用の平均56.8万円、中途採用の平均31.3万円という数値はあくまで目安であり、自社にとっての適正な採用単価は、同規模・同業種の企業と比較することで見えてきます",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "【最新版令和8年】中途採用の募集方法7選と成功する採用活動の基本",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用1人あたりの採用コスト相場は約56.8万円とされていますが、",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ2024年卒企業新卒内定状況調査",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   }
+  ],
+  "規模別": [
+   {
+    "quote": " 従業員規模別に見ると、 300人未満企業で大卒求人倍率が上昇、 300～999人企業および1000 ～4999人企",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 図表2 従業員規模別 求人倍率の推移",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別4区分は2010年3月卒より集計を開始",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で従業員規模別・業種別の求人倍率集計に必要な学生側のデータは、2020年3月時点の調査を使用しており、コ",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2026年3月卒の大卒求人倍率を従業員規模別に見ると、 300人未満企業で前年より2 .48ポイント上昇した",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 企業側から見ると、 300人未満企業を除く全ての従業員規模（ 300～999人企業、 1000～4999人企業、",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2023年卒以降、 5000人以上企業を除く全ての従業員規模（ 300人未満企業 、300～999人企業 、1000～",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年卒についても、相対的に従業員規",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で従業員規模別・業種別の求人倍率集計に必要な学生側のデータは、2020年3月時点の調査を使用しており、",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象：従業員規模5人以上の全国の民間企業8,200社",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注2：本資料では、従業員規模について、300人未満企業を中小企業、300～999人企業を中堅企業、1000～4999人企業および5000人以",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁による中小企業者の定義とは異なることに留意",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員規模別 6～8",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 図表5 従業員規模（4区分）別 求人倍率の推移",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注1：従業員規模別4区分の集計は2010年3月卒より実施",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員 300 人以上の大企業から、 30 人未満",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た、従業員規模別で見ると「不足」と回答した企業は、300 人以上が 59.3％と、前年（75.9％）",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業の従業員数過不足DIは、2025年にマイナス17.9と不足超が続いています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書が引用する調査でも、技能継承の取り組みは再雇用や勤務延長により高年齢の従業員に継続勤務してもらう割合が54.8％と最多です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中小企業庁によると、直近5年程度に実施した設備投資の目的は「設備の更新・維持」がもっとも多く、次いで「生産能力・販売能力の強化」です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「2025年版中小企業白書」第2部第2章第3節",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業でとくに起こりやすい、以下2つの事情を整理します",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "価格転嫁力が大企業より弱く投資余力が削られやすい",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "製造工程での活用は、従業員301人以上では6割を超えるのに対し、50人以下では3割程度です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業は、設備投資額に占めるソフトウェア投資の比率も大企業より低い水準です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「2025年版中小企業白書」概要",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "資料によると、中小企業の価格転嫁率は5割近くまで上昇したものの道半ばです",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では中小企業の価格転嫁力が大企業より低く、1人あたり名目付加価値額の上昇率を押し下げる要因になっています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化投資補助金（中小企業省力化投資補助金）",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "大企業は採用力・賃金水準・働き方改革のいずれでも体力があるため一定の応募が見込めますが、社員50〜500名規模の中小工場では、地方立地・夜勤シフト・賃金水準といった条件面に、いわゆる3Kイメージも重なり、求人広告を出しても応募0件、という事態も珍しくありません",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁の調査では、製造業の中小企業のうち相当数が後継者不在を抱えており、現役経営者の高齢化と相まって、自主廃業を選ぶケースも増えています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "賃金だけで大企業や他業種と競うのが難しい場合は、「現場の負荷を減らす」「教育しやすい環境を整える」「少ない人数でも無理なく回る仕組みをつくる」ことが、定着率の改善にもつながります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "件数としては建設業や物流業など労働集約型の産業で目立ちますが、製造業にとっても、採用難・従業員の退職・技能継承の遅れは経営リスクとして無視できません",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の採択事例とポイント｜2025年の傾向を中小企業診断士が解説",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり補助金の最新採択事例を中小企業診断士が徹底解説",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "補助上限額は申請枠や従業員規模によって異なります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "【2025.10月】中小企業新事業進出補助金・成長加速化補助金とは？建物費用が対象の補助金・税制を徹底解説",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業新事業進出補助金・成長加速化補助金(最大5億円)を徹底比較",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業・小規模事業者の人材に関する現状と課題",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：ManpowerGroup「2025 Global Talent Shortage 」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：令和６年３月26日 内閣官房 新しい資本主義実現会議「資料１ 基礎資料」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "大企業と比較して中堅・中小企業の人手不足感が強い",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 雇用人員DIによれば、大企業と比較して中堅・中小企業の人手不足感が強い",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本銀行「全国企業短期経済観測調査（短観）」を基に中小企業庁が作成 4",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 中小企業の従業員数過不足DIを見ると、全ての業種において人手不足感が強まっている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：独立行政法人中小企業基盤整備機構「中小企業景況調査」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：リクルートワークス研究所「ワークス大卒求人倍率調査」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 従業員の規模が小さい企業ほど求人倍率が高く、採用難度が高い（人材を募集しても確保できない）状況",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本の中小企業は、世界の国々と比較しても人手不足感の強さが見られる",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁「中小企業白書2025」を基に作成 出典：European Commission「Eurobarometer（2023） - SMEs and skills",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "shortages」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Economic Trends（2025）」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "近年、景気拡大に伴って企業の人手不足は深刻化し、 その影響は経営体力に乏しい中小企業に",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、大企業に比して経営資源やノウハウに乏しいことに起因して、 こうした人材の",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2 章 中小企業の人手不足に対する政府の認識・関連施策 ...................................................... 17",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業に後れを取っている中小企業も多く見られる",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）の確保を必要とするため、大企業や",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "では、中小企業の人手不足に関する先行研究について検討を行い、 本研究における分析の",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働力の流動化は、人手不足にある中小企業にとっては、中途採用において好機である",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   }
+  ],
+  "地域別": [
+   {
+    "quote": "〒100-6640 東京都千代田区丸の内1-9-2",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社インディードリクルートパートナーズ（ 本社：東京都千代田区、代表取締役社長：淺野 健）内の、",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 全国の民間企業の求人総数は 、前年の79.7万人から76.5万人へと3.2万人減少（ 対前年増減率は▲4.1％）",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月卒業予定の大学生および大学院生に対する、全国の民間企業の採用予定数の調査、および学生の",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象：従業員規模5人以上の全国の民間企業8,200社",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本銀行「全国企業短期経済観測調査（短観）」を基に中小企業庁が作成 4",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 東京圏（東京都、神奈川県、埼玉県、千葉県）は、若年層を中心に転入者数が転出者数を上回っている",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "伴走支援（全国協議会、ブロック協議会）",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組みをアレンジ・活用することにより、中小・小規模事業者に向けた全国的なサポート体制を整備する",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産性向上に向けた全国的なサポート体制の整備",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いても全国的に人手不足が続いていることが分かる",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京 948 815 -133 香川 49 47 -2",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川 553 500 -54 愛媛 66 62 -4",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛知 445 409 -36 沖縄 84 77 -7",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2019 年より東京、大阪、名古屋、福岡に「高度外国人材活躍推進コーディネーター」",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サポートする「伴走型支援」を行い、日本全国で高度外国人材の活躍を推進",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注 1）3 大都市圏は、埼玉県、千葉県、東京都、神奈川県、愛知県、三重県、岐阜県、京都府、大阪府、兵庫県、",
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県名古屋市中区栄3丁目18番1号",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県一宮北園通３丁目２番地",
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "pass": 3
+   },
+   {
+    "quote": "採用窓口エリア別では東京・南関東・近畿地方など大都市が多いエリアでの求人広告費が高めとなる傾向にある、と報告されています",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "〔 就 職 件 数 〕 自安定所の有効求職者に対して、全国のハローワークで受理した求人を自安定所の紹介に",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国 1.22",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国 0.42 (H21年8月)",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（全国１９位）",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5.5％（全国の失業率直近",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0.42倍 （全国ボトム：平成21年8月）",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注） １．上段：長野県有効求人倍率（倍）、中段：全国有効求人倍率（倍）、下段：完全失業率（％）",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年6月 全国平均1.22 ［原数値1.14倍］",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国平均 1.22倍",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（全国順位18位、前月18位）",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 回 復 し つ つ あ る 一部に弱い動きがみられるものの、回復しつつある 個人消費は、回復しつつある",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県 緩 や か に 回 復 し つ つ あ る 緩やかに回復しつつある",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「新車販売台数」（日本自動車販売協会連合会、全国軽自動車協会連合会）を加工",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）南関東…埼玉県、千葉県、東京都、神奈川県 「労働力調査」（総務省）を加工",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「全国企業倒産状況」（株式会社東京商工リサーチ）を加工",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【東京商工リサーチ青森支店：４月２日発表 令和３年３月度青森県企業倒産状況】",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和 ３ 年 ３ 月 全国平均 １．１０倍 ［原数値１．１２倍］",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川 857 1112 -255 申出無",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関の貸出平残（全国銀行）は、前年比3.4％（８",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（季節調整済、香川県・徳島県2015年＝100、全国2020年＝100）",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "旅行・宿泊 7 月の国内旅行は、 夏休みの東京、 北海道、 沖縄など遠方旅行を中心に取",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鉱工業生産指数（徳島県、全国）",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※全国の鉱工業生産指数は、2023 年 4 月分確報より基準年次が 2015 年から 2020 年に改定されたため、",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 月の旅行需要をみると、国内旅行は夏休みの東京、北海道、沖縄など遠方への航空機を利用",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "泊で、前年比48.5％増（全国平均は同33.8％増）",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 月の企業倒産（東京商工リサーチ調べ、負",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料出所 日本銀行 全銀電子債権ネットワーク 東京商工リサーチ 徳島県信用保証協会",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "徳島県内の倒産件数・負債総額の推移(東京商工リサーチ)",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこから飲食の世界に入り、ホテルや肉屋で働き、ブランドづくりや東京・京都での店舗づくり、オンラインサービスの立ち上げ、シンガポールをはじめ様々な国々に行っていろいろな経験をしてきました",
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "pass": 3
+   }
+  ],
+  "出典の種類": [
+   {
+    "quote": "第42回 ワークス大卒求人倍率調査（2026年卒）",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注2：2021年3月卒の求人倍率について 、企業調査は2020年6月に実施されている",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で従業員規模別・業種別の求人倍率集計に必要な学生側のデータは、2020年3月時点の調査を使用しており、コ",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今回調査より、 サービ",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注2：2021年3月卒の求人倍率について、企業調査は2020年6月に実施されている",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で従業員規模別・業種別の求人倍率集計に必要な学生側のデータは、2020年3月時点の調査を使用しており、",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "教育」「人材ビジネス」などに関する調査・研究、情報発信、提言活動を行っています",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月卒業予定の大学生および大学院生に対する、全国の民間企業の採用予定数の調査、および学生の",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間企業への就職意向の調査から、大卒者の求人倍率を算出し、新卒採用における求人動向の需給バランス",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象：従業員規模5人以上の全国の民間企業8,200社",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査項目：2026年3月卒業予定者の採用予定数など",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査期間：2025年1月23日～2月28日",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象：2026年3月卒業予定の大学生・大学院生",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査概要 4",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：2021年卒については、新型コロナウイルスの感染拡大により、調査を2回実施した",
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足に関する企業調査（2026 年）」について",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このたび、「人手不足に関する企業調査（ 2026 年）」を実施しましたので、 その結果を下記の",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、地域のシンクタンクとして各種調査研究および総合金融サービスの提供を通じ、今後",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1．調査結果",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社が2026 年9 月に茨城県内企業を対象に行った調査によると、県内企業の正社員の充足度 は",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお 、調査結果の詳細は 別紙を参照してください",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．調査の特徴",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は、2026 年 9 月に茨城県内企業 を対象に実施し、 216 社（製造業 92 社、非製造業",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【人手不足に関する企業調査（2026 年） 】",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※上段が今回調査値、下段が2025年調査値",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所：常陽産業研究所「人手不足に関する企業調査（2025年、2026年）」",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所：常陽産業研究所（旧常陽地域研究センター）「人手不足に関する企業調査（各年版）」",
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「2026年版ものづくり白書」",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「2026年版ものづくり白書」概要",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版ものづくり白書によると、事業に影響する社会情勢は、原材料・資源価格の高騰が過去3年トップです",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の調査では、製造業で人材育成に問題があるとする事業所のうち62.8％が「指導する人材が不足している」と答えています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書が引用する調査でも、技能継承の取り組みは再雇用や勤務延長により高年齢の従業員に継続勤務してもらう割合が54.8％と最多です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「能力開発基本調査（事業所調査）」",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「2025年版ものづくり白書」第1章第3節",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「2025年版中小企業白書」第2部第2章第3節",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「2025年版ものづくり白書」第2章第3節",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「2025年版中小企業白書」概要",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 製造産業戦略企画室「2026年版ものづくり白書について」（2026年6月）",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし通商白書は、財輸出の世界シェア低下は機械類で大きいと整理しており、機械類全体が優位を保っているわけではありません",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「通商白書2025」第II部第3章第2節 財貿易",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「ものづくり白書」によると、製造業の就業者数は長期的に減少傾向にあります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "また総務省統計局 労働局調査によると、2023年の製造業就業者数は1,055万人でしたが2025年には1,033万人に減っています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、帝国データバンクをはじめとする民間調査でも、製造業で正社員の不足を感じている企業は一定割合にのぼっており、採用難は一部の企業だけの問題ではなくなっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク 人手不足に対する企業の動向調査（2026年4月）",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書によると、若手（35歳未満）の就業者比率は長期的に低下傾向が続いています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁の調査では、製造業の中小企業のうち相当数が後継者不在を抱えており、現役経営者の高齢化と相まって、自主廃業を選ぶケースも増えています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は近年増加傾向にあり、2025年度は441件で過去最多となっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象：42カ国・地域の40,413社",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査期間：2024年10月1日～10月31日",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本銀行「全国企業短期経済観測調査（短観）」を基に中小企業庁が作成 4",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：独立行政法人中小企業基盤整備機構「中小企業景況調査」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：リクルートワークス研究所「ワークス大卒求人倍率調査」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁「中小企業白書2025」を基に作成 出典：European Commission「Eurobarometer（2023） - SMEs and skills",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本商工会議所・東京商工会議所「「人手不足等への対応に関する調査」結果概要」（2024年９月）を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：財務省「法人企業統計調査季報」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁「中小企業白書2025」を基に作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※経済産業省「経済産業省企業活動基本調査」の個票を厚生労働省労働政策担当参事官室にて独自集計",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省「平成30年版 労働経済の分析」を基に中小企業庁が作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：独立行政法人労働政策研究・研修機構（JILPT）「人材育成と能力開発の現状と課題に関する調査（企業調査）」を基に中小企業庁が作成 12",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：中小企業庁 「中小企業白書2025」を基に作成 出典：中小企業庁 「中小企業白書2023」を基に作成",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   }
+  ],
+  "採用できず起きたこと": [
+   {
+    "quote": "放置するとどうなるか｜廃業・倒産・技能継承の断絶",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁の調査では、製造業の中小企業のうち相当数が後継者不在を抱えており、現役経営者の高齢化と相まって、自主廃業を選ぶケースも増えています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は近年増加傾向にあり、2025年度は441件で過去最多となっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "一度途切れた技能は復元が難しく、廃業の引き金になることがあります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "事業のスリム化、無駄の排除、外注の活用",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ成功企業はオウンドメディア外注を選ぶのか？補助金で実質半額にする方法",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "オウンドメディアの外注先おすすめの選び方｜「記事を書くだけ」の会社に要注意",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "実は近年、採用コストや人材不足が原因で倒産する企業が増えており、",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2025年度には427件もの企業が、人材不足によって倒産しています",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "高額な人材紹介サービスに依存し続けるよりも、一部の業務を専門業者へ外注する方がトータルのコストを抑えられる可能性があります",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "リソース不足を理由に手軽な高額サービスへ依存するのではなく、採用代行を適切に活用して外注先を見直すことが、持続可能なコスト削減の要となります",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "目先の100万円の出費を渋ることで、将来生み出されるはずだった数1,000万円の利益を逃す機会損失の大きさを経営陣に理解してもらう必要があります",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストの最適化を提案する際は、目先のコスト削減だけでなく、機会損失や早期離職リスクを交えて論理的に説明することが重要です",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "機会損失や早期離職リスクといった経営上のリスクとセットで説明し、論理的な説得材料を用意することが、採用予算の稟議をスムーズに通すための秘訣です",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストのうち外注のために発生した費用のこと",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "・採用サイト、パンフレットなど採用に使う印刷物などを外注した場合の費用",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、すべての採用業務を一括して外注すると、自社内に採用ノウハウが蓄積されないというデメリットがあるため、どの範囲を委託するかは慎重な検討が必要です",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "適切なコスト管理により、必要な人材を必要なタイミングで採用することが可能となり、ビジネスの機会損失を防ぐことができます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 倒産 「件数、負債総額ともに前年を下回っている」",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「全国企業倒産状況」（株式会社東京商工リサーチ）を加工",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10.企業倒産",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比（％） 倒産件数（件）倒産件数（管内）",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 主要指標の推移 (1) GDP、鉱工業生産指数、製造工業稼働率指数、倒産件数、完全失業者数及び完全失業率",
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021（令和3）年３月度の青森県企業倒産は５件（前年同月比50.00％",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倒産件数は前年比で５件減",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、負債総額に関しては、負債額１億円未満の小規模倒産が多く、負",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "債額27億円の大型倒産発生が全体を大きく押し上げた前年に比べ大幅",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "手厚い資金繰り支援策で企業倒産の急増は抑えられているものの、前年",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ス関連倒産が４件発生、その中でも飲食関係の業種が目立った",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に拡大し、継続的な対応が難しくなった企業を中心に、息切れ倒産が相",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【東京商工リサーチ青森支店：４月２日発表 令和３年３月度青森県企業倒産状況】",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・徳島県内の倒産件数・負債総額の推移 ······································· 50",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倒産件数は、増加がみられる",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 倒産 および 信用保証協会の代位弁済 は、低水準となっている",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 月の企業倒産（東京商工リサーチ調べ、負",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上、 法的整理による倒産） では、2 件で負債総",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金 融 関 連 でんさいネット請求等取扱高 企業倒産 信用保証協会代位弁済実質預金 貸出金 貸出約定",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "徳島県内の倒産件数・負債総額の推移(帝国データバンク)",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１） 負債１，０００万円以上の企業倒産（資料出所・・・帝国データバンク徳島支店）",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注２） 平成１７年４月以降、倒産集計基準の変更（倒産五法による法的整理のみ集計）",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "徳島県内の倒産件数・負債総額の推移(東京商工リサーチ)",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   }
+  ],
+  "採用にかけるお金": [
+   {
+    "quote": "最大9,000万円規模の補助が可能です",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "※大企業：資本金10億円以上、中堅企業：資本金１億円以上10億円未満、中小企業：資本金２千万円以上１億円未満",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,000万円未満 約140万者",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• その際、売上高１億円～10億円（売上高10億円を目指す企業）／1,000万円～１億円（売上高１億円を目指す企業）に分",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円×グループ構成員数",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "合わせて3,000万円まで",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(c)事務費・専門家費：200万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１機能：～50万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２機能以上：～350万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～350万円 5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～50万円以下：3/4",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50万円～350万円：2/3",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5万円～150万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150万円～450万円",
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用の平均採用単価は56.8万円",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "11.8万円も増加",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価が高騰する3つの原因と業界ごとの具体的な違い",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価を劇的に削減する5つの実践的な方法と成功事例",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば外部コスト500万円、内部コスト500万円で10名を採用した場合、",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価は100万円",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新版】雇用形態別の平均採用単価",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価が高騰する3つの原因",
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の相場に比べて30～50万円のコスト削減を実現してきたミズサキの手法を解禁するので、ぜひ最後までご覧ください",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用1人あたりの採用コスト相場は約56.8万円とされていますが、",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "約56.8万円",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "約49.0万円",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "約57.5万円",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用における1人あたりの単価相場は、全体平均で約31.3万円と推計されるものの、利用する採用手法によって20万円から100万円超まで大きく変動します",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "によると、企業全体の年間の中途採用費用総額は平均650.6万円、採用人数の平均は20.8人となっています",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "平均単価は約31.3万円",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "実際には、求人広告媒体を利用した場合は20万円から30万円台に収まるのに対し、人材紹介エージェントを利用した場合、一般的には採用決定者の想定年収の30パーセントから35パーセント程度の手数料が成功報酬として発生します",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "想定年収が400万円の候補者を採用した際の手数料は120万円から140万円となり、採用単価は100万円を容易に超過します",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "特に内部コストは見落とされがちですが、時給換算で3,000円の面接官3人が1時間ずつ面接を10回行った場合、それだけで計9万円の人件費が発生する計算です",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ある期間において外部コストが200万円、内部コストが100万円かかり、その結果として3人を採用できたとします",
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たりの採用コストを「採用単価」と呼びます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、採用コストの総額が1000万円で、10人を採用した場合、一人当たりの採用コストは100万円となります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "減）、負債総額は7億100万円（同76.32％減）",
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年 4 ～ 7 月の請負金額累計は、 前年同期比8.7% 増の574億87百万円となった",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "116億20百万円となった",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "百万円で同45.5% 減、 「県」は36億94百万円",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で同54.8% 減、 「国」は33億60百万円で前年",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "百万円で同19.6% 減となった",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期比8.7% 増の574億87百万円となった",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事費予定額は同59.9% 増の33億 9 百万円と",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "債総額 1 千万円以上）をみると、 4 件で負債総",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額は 3 億36百万円であった",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査（負債総額 1 千万円",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額は37百万円であった",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "wt.99.3 ％ wt.703.4 ％ wt.157.8 ％ 百万円 ％ ％ ％ ％ ％",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注１） 負債１，０００万円以上の企業倒産（資料出所・・・帝国データバンク徳島支店）",
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "doda (デューダ)の【東京／浜松町】法人営業 大手 ・ 中堅企業 ... doda (デューダ)の【東京／浜松町】法人営業 大手 ・ 中堅企業 ... LinkedIn https://jp.linkedin.com > jobs > view > 【東京／浜松町】...",
+    "url": "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%EF%BC%8F%E6%B5%9C%E6%9D%BE%E7%94%BA%E3%80%91%E6%B3%95%E4%BA%BA%E5%96%B6%E6%A5%AD%E2%97%86%E5%A4%A7%E6%89%8B%E3%83%BB%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%8F%90%E6%A1%88%EF%BC%8F%E6%96%B0%E8%A6%8F%E9%96%8B%E6%8B%93%E6%9C%89%EF%BC%8F%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%8F%E5%B9%B4%E4%BC%91123%E6%97%A5-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4474365314",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "大企業 に勝とうとは思っていない。僕らは、違うゲームをする。 大企業 に勝とうとは思っていない。僕らは、違うゲームをする。 note https://note.com > ビジネス > 人事・労務・採用",
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "大企業に勝とうとは思っていない。僕らは、違うゲームをする。｜社長note！",
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "pass": 3
+   },
+   {
+    "quote": "大企業に勝とうとは思っていない。僕らは、違うゲームをする。",
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "pass": 3
+   },
+   {
+    "quote": "条件だけで会社を選ぶなら、うちじゃないかもしれない",
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "pass": 3
+   },
+   {
+    "quote": "「大企業と比べて、うちの強みって何なんだろう？」",
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "pass": 3
+   },
+   {
+    "quote": "正直、条件だけを比べれば大企業の方が整っていると思います。",
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "pass": 3
+   },
+   {
+    "quote": "だから僕は、大企業と同じゲームで勝とうとは思っていません。",
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "pass": 3
+   },
+   {
+    "quote": "条件や安定性だけで会社を選ぶなら、もっといい会社はたくさんあります。",
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "pass": 3
+   },
+   {
+    "quote": "「完成された会社に入るより、自分たちで会社をつくってみたい」",
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dodadsj.com/content/hiring-bottlenecks-2026market-company-survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/research/project/koukousotsu/companyvoice/detail002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/article30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenkoukyo.or.jp/web/content/uploads/R04sotsugyo_kekka.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahi.com/articles/AST7124X7T71ULFA00DM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takumi-base.com/hr-branding024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/shingi/2007/07/dl/s0724-6o_0004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://megdai.jp/markebatake/saiyou/6434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ch.job-con.jp/blog/c142",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/yamanashi-roudoukyoku/content/contents/public_infoR70530.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/osaka-roudoukyoku/library/osaka-roudoukyoku/H27/syosyo/0812umeda.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/gunma-roudoukyoku/var/rev0/0107/9710/gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%EF%BC%8F%E6%B5%9C%E6%9D%BE%E7%94%BA%E3%80%91%E6%B3%95%E4%BA%BA%E5%96%B6%E6%A5%AD%E2%97%86%E5%A4%A7%E6%89%8B%E3%83%BB%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%8F%90%E6%A1%88%EF%BC%8F%E6%96%B0%E8%A6%8F%E9%96%8B%E6%8B%93%E6%9C%89%EF%BC%8F%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%8F%E5%B9%B4%E4%BC%91123%E6%97%A5-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4474365314",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中堅・大企業製造業の採用 有効求人倍率 職業別 労働局 2026",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://www.works-i.com/surveys/item/250424_recruitment_saiyo_ratio.pdf",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "https://www.jasso.go.jp/gakusei/career/event/guidance/__icsFiles/afieldfile/2026/06/17/3kourou.pdf",
+    "https://partners.en-japan.com/special/260225/"
+   ]
+  },
+  {
+   "query": "中堅・大企業製造業の採用 人手不足 調査 2025 2026 製造業 割合",
+   "results": [
+    "https://pdf.irpocket.com/C8333/xoA3/IjHJ/a73l/DqgA.pdf",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/shokibo_jinzai_management/260114/003.pdf",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.tsr-net.co.jp/data/detail/1201673_1527.html",
+    "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf"
+   ]
+  },
+  {
+   "query": "中堅・大企業製造業の採用 採用できない 受注を断った 割合",
+   "results": [
+    "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-challenges-7-reasons",
+    "https://www.dodadsj.com/content/hiring-bottlenecks-2026market-company-survey/",
+    "https://www.global.staff-manzoku.co.jp/blog/manufacturing-talent-shortage",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "https://www.jfc.go.jp/n/findings/pdf/tokubetu_260619.pdf",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/0224ab9292594ef897afdeab328c4848/251117_%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91%E8%AA%BF%E6%9F%BB(2025%E5%B9%B410%E6%9C%88).pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://saiyo-kakaricho.com/wp/manufacture-recruit-problem/"
+   ]
+  },
+  {
+   "query": "中堅・大企業製造業の採用 高卒求人倍率 製造業 工業高校",
+   "results": [
+    "https://www.works-i.com/research/project/koukousotsu/companyvoice/detail002.html",
+    "https://mizusaki-inc.com/knowledge/article30",
+    "https://zenkoukyo.or.jp/web/content/uploads/R04sotsugyo_kekka.pdf",
+    "https://www.asahi.com/articles/AST7124X7T71ULFA00DM.html",
+    "https://www.takumi-base.com/hr-branding024/",
+    "https://www.mhlw.go.jp/shingi/2007/07/dl/s0724-6o_0004.pdf",
+    "https://www.san-oh.co.jp/recruit/topics/931/",
+    "https://www.businessinsider.jp/article/288539/",
+    "https://yumesuta.com/kosotsusaiyo/industries/manufacturing",
+    "https://www.yomiuri.co.jp/national/20240713-OYT1T50059/"
+   ]
+  },
+  {
+   "query": "中堅・大企業製造業の採用 採用単価 製造業 中小企業",
+   "results": [
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://megdai.jp/markebatake/saiyou/6434/",
+    "https://ch.job-con.jp/blog/c142",
+    "https://mizusaki-inc.com/knowledge/small-business-recruitment-costs",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://www.jmam.co.jp/hrm/column/0255-recruitment_strategy2.html"
+   ]
+  },
+  {
+   "query": "site:jsite.mhlw.go.jp 中堅・大企業製造業の採用 職業別 有効求人倍率",
+   "results": [
+    "https://jsite.mhlw.go.jp/yamanashi-roudoukyoku/content/contents/public_infoR70530.pdf",
+    "https://jsite.mhlw.go.jp/nagano-roudoukyoku/content/contents/saiteitingin_senmonbukai070804-shiryou.pdf",
+    "https://jsite.mhlw.go.jp/aomori-roudoukyoku/content/contents/ge0303.pdf",
+    "https://jsite.mhlw.go.jp/osaka-roudoukyoku/library/osaka-roudoukyoku/H27/syosyo/0812umeda.pdf",
+    "https://jsite.mhlw.go.jp/gunma-roudoukyoku/var/rev0/0107/9710/gaiyou.pdf",
+    "https://jsite.mhlw.go.jp/tokushima-roudoukyoku/content/contents/001794829.pdf",
+    "https://jsite.mhlw.go.jp/miyagi-roudoukyoku/var/rev1/0115/7628/20161128104442.pdf",
+    "https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002249189.pdf",
+    "https://jsite.mhlw.go.jp/ibaraki-roudoukyoku/content/contents/koyou_news_200007.pdf",
+    "https://jsite.mhlw.go.jp/fukushima-roudoukyoku/content/contents/001764218.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 中堅・大企業製造業の採用",
+   "results": [
+    "https://note.com/dreamy_shrew3263/n/n3cdfbdc47d7b",
+    "https://note.com/dreamy_shrew3263/n/n16472aa8f5ee",
+    "https://note.com/ulcons/n/nb2afd6600f46",
+    "https://note.com/witty_lotus224/n/n83555e93602b",
+    "https://note.com/sei_tamai/n/n67c6e2e37388",
+    "https://note.com/majyp/n/nbd129445319a",
+    "https://note.com/keiei_lab_note/n/n5acbd4481471",
+    "https://note.com/randylove/n/nedf435402df8",
+    "https://note.com/tech_nomad/n/n5eefb5eda986",
+    "https://note.com/t_mando_/n/nce0e9c0c657f"
+   ]
+  },
+  {
+   "query": "site:x.com 中堅・大企業製造業の採用",
+   "results": [
+    "https://x.com/WMakers2401",
+    "https://x.com/LionShukatsu/status/2111789406936039874",
+    "https://x.com/readycrew1111/status/2116092759878640004",
+    "https://x.com/LionShukatsu/status/2065011166053876220",
+    "https://x.com/leo_career/status/2032045946494963950",
+    "https://x.com/KotoOnline",
+    "https://x.com/LionShukatsu/status/2064256191283490960",
+    "https://x.com/Rikeimatch",
+    "https://x.com/konkeisuke/status/1973334093485187127",
+    "https://x.com/Makoto_Career/status/1936023741626257726"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 中堅・大企業製造業の採用",
+   "results": [
+    "https://jp.linkedin.com/pulse/2026-mid-market-manufacturing-outlook-moving-beyond-proof-kenworthy-g3sse?tl=ja",
+    "https://jp.linkedin.com/pulse/why-manufacturing-trailing-behind-ai-adoption-american-tanguy-praud-hscic?tl=ja",
+    "https://jp.linkedin.com/pulse/david-vs-cpg-goliaths-how-ai-empowers-mid-market-food-srivastava-dtprc?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%EF%BC%8F%E6%B5%9C%E6%9D%BE%E7%94%BA%E3%80%91%E6%B3%95%E4%BA%BA%E5%96%B6%E6%A5%AD%E2%97%86%E5%A4%A7%E6%89%8B%E3%83%BB%E4%B8%AD%E5%A0%85%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%8F%90%E6%A1%88%EF%BC%8F%E6%96%B0%E8%A6%8F%E9%96%8B%E6%8B%93%E6%9C%89%EF%BC%8F%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%8F%E5%B9%B4%E4%BC%91123%E6%97%A5-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4474365314",
+    "https://jp.linkedin.com/pulse/why-britains-mid-market-cant-afford-delay-investing-amanda-murphy-hitre?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%A1%88%E4%BB%B6no-1842%EF%BC%9E%E3%80%90%EF%BD%9E1200%E4%B8%87%E5%86%86%E3%80%91%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%EF%BC%88%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%A8%E3%82%B0%E3%82%BC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%EF%BC%9A%E4%B8%AD%E5%A0%85%E3%80%9C%E5%A4%A7%E6%89%8B%E4%BC%81%E6%A5%AD%EF%BC%89%E3%80%90%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E5%80%99%E8%A3%9C%E3%80%91%EF%BD%9C%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%C3%97ai%E3%81%AEsaas%E3%81%A7%E9%A1%A7%E5%AE%A2%E3%81%AE%E5%A3%B2%E4%B8%8A%E6%88%90%E9%95%B7%E3%82%92%E6%94%AF%E6%8F%B4-at-linkard-inc-4486181747",
+    "https://jp.linkedin.com/in/naohiro-higashita-88b30391",
+    "https://jp.linkedin.com/in/%E6%8B%93%E6%B5%B7-%E8%8A%B1%E5%B8%82-80684b308",
+    "https://jp.linkedin.com/in/yuki-yasuda-679933222",
+    "https://jp.linkedin.com/jobs/view/%E7%B5%84%E7%B9%94%E4%BA%BA%E4%BA%8B%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%EF%BC%88%E5%A4%A7%E4%BC%81%E6%A5%AD%EF%BC%89%EF%BC%8Fhr3-1-at-mitsubishi-ufj-research-consulting-co-ltd-4397748846"
+   ]
+  },
+  {
+   "query": "site:facebook.com 中堅・大企業製造業の採用",
+   "results": [
+    "https://www.facebook.com/kanto.zaimu/posts/%E8%B2%A1%E5%8B%99%E5%B0%82%E9%96%80%E5%AE%98%E6%8E%A1%E7%94%A8%E9%96%A2%E4%BF%82%E8%8B%A5%E6%89%8B%E4%B8%AD%E5%A0%85%E8%81%B7%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E2%91%A3%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E9%96%A2%E6%9D%B1%E8%B2%A1%E5%8B%99%E5%B1%80%E4%BA%BA%E4%BA%8B%E8%AA%B2%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%E3%81%A7%E3%81%99%E6%A1%83%E3%81%AE%E7%AF%80%E5%8F%A5%E3%82%82%E9%81%8E%E3%81%8E%E3%81%A6%E5%AF%92%E3%81%95%E3%82%82%E3%82%84%E3%81%A3%E3%81%A8%E3%82%86%E3%82%8B%E3%82%93%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AD%E6%9A%96%E6%88%BF%E5%99%A8%E5%85%B7%E3%82%92%E3%81%97%E3%81%BE%E3%81%86%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B%E7%B5%B6%E8%B3%9B%E6%82%A9%E3%81%BF/3085906764768112/",
+    "https://www.facebook.com/FUJISOFT.japan/posts/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF1029%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96erpbizsaas%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A8%98%E8%80%85%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%9712%E6%9C%88%E3%81%8B%E3%82%89%E3%81%AE%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fbi/1613997033858297/",
+    "https://www.facebook.com/shushoku/posts/%E6%97%A5%E6%B2%B9-%E3%82%92%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E4%B8%AD%E5%A0%85%E5%8C%96%E5%AD%A6%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E7%B7%8F%E5%90%88%E8%81%B7%E5%B9%B3%E5%9D%87%E5%B9%B4%E5%8F%8E900%E4%B8%87%E8%B6%8525%E5%8D%92%E3%81%AE%E5%80%8D%E7%8E%87%E3%81%AF1431%E5%80%8D%E3%81%BB%E3%81%A9%E6%96%B0%E5%8D%92%E5%AE%9A%E7%9D%80%E7%8E%87%E3%82%82%E6%AE%8B%E6%A5%AD%E6%99%82%E9%96%93%E3%81%AF%E5%B9%B3%E5%9D%871%E6%99%82%E9%96%93%E6%9C%AA%E6%BA%80%E6%97%A5%E3%81%AE%E6%B0%B4%E6%BA%96%E8%B3%AA%E5%95%8F%E7%AE%B1%E3%81%A7%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE/1254425190025585/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E4%BD%8F%E5%8F%8B%E5%95%86%E4%BA%8B%E3%81%8C%E3%81%BE%E3%81%9Fai%E3%81%A7%E5%8B%95%E3%81%84%E3%81%9F%E5%85%A8%E7%A4%BE%E5%93%A15000%E4%BA%BA%E3%81%AE%E6%AC%A1%E3%81%AF%E5%9B%BD%E7%94%A3sakana-ai%E3%82%9210%E4%B8%87%E7%A4%BE%E3%81%B8%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E4%B8%80%E9%9D%A2%E3%83%88%E3%83%83%E3%83%97%E3%81%AF%E4%BD%8F%E5%8F%8B%E5%95%86%E4%BA%8B%E3%81%A8%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AEscsk%E3%81%8C%E6%97%A5%E6%9C%AC%E7%99%BA%E3%81%AEai%E4%BC%81%E6%A5%ADsaka/28371906552429509/",
+    "https://www.facebook.com/sapjapan/posts/sap%E3%81%AF%E5%A4%A7%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91-%E3%81%84%E3%81%88%E5%AE%9F%E3%81%AF%E4%B8%AD%E5%A0%85%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%93%E3%81%9Dsap%E3%81%AEai%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89erp%E7%8F%BE%E5%9C%A8%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E3%81%AA%E3%81%A9%E3%81%A7%E6%94%BE%E6%98%A0%E4%B8%AD%E3%81%AEcm%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E7%AF%87%E3%81%AF%E3%81%94%E8%A6%A7%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E5%B8%82%E5%A0%B4%E3%81%AE%E5%A4%89%E5%8C%96%E4%BA%88%E6%B8%AC%E3%81%97%E3%81%A5%E3%82%89%E3%81%84/1348324207513915/",
+    "https://www.facebook.com/bskyjpn/posts/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E7%8F%BE%E5%9C%B0%E3%81%A7%E6%8E%A1%E7%94%A8%E9%9D%A2%E6%8E%A5%E3%82%92%E5%AE%9F%E6%96%BD%E6%8A%80%E8%83%BD%E5%AE%9F%E7%BF%92%E7%94%9F12%E5%90%8D%E3%81%8C%E5%86%85%E5%AE%9A%E5%90%8C%E4%B8%80%E4%BC%81%E6%A5%AD%E6%A7%98%E3%81%A7%E3%81%AE%E7%B4%AF%E8%A8%88%E6%8E%A1%E7%94%A8%E4%BA%BA%E6%95%B0%E3%81%AF37%E5%90%8D%E3%81%AB-2026%E5%B9%B410%E6%9C%8814%E6%97%A5-blue-sky-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF2026%E5%B9%B4/122272500920364654/",
+    "https://www.facebook.com/yoheitsunemi/videos/%E6%96%B0%E5%8D%92%E4%B8%80%E6%8B%AC%E6%8E%A1%E7%94%A8%E3%81%A8%E5%A4%9A%E6%A7%98%E6%80%A7%E3%81%AE%E3%82%A6%E3%82%BD%E3%83%9B%E3%83%B3%E3%83%88%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B0%B1%E6%B4%BB%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8%E3%81%8A%E9%99%B0%E3%81%95%E3%81%BE%E3%81%A7%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E6%96%B9%E3%81%8B%E3%82%89%E8%B2%B7%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AE%E5%A0%B1%E5%91%8A%E3%81%8C%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E4%BA%BA%E3%81%AB%E3%82%88%E3%82%8A%E9%9D%A2%E7%99%BD%E3%81%84%E3%81%A8%E6%84%9F%E3%81%98%E3%82%8B%E7%AB%A0%E8%AA%AD%E3%81%BF%E6%96%B9%E3%81%8C%E7%95%B0%E3%81%AA/835647639088254/",
+    "https://www.facebook.com/shibauragroup.tokyo/posts/%E6%9D%B1%E4%BA%AC%E9%89%84%E9%8B%BC%E8%B2%A9%E5%A3%B2%E6%A5%AD%E9%80%A3%E5%90%88%E4%BC%9A%E9%89%84%E9%8B%BC%E6%96%B0%E8%81%9E%E7%A4%BE%E5%85%B1%E5%82%AC%E3%81%AB%E3%81%A64%E6%9C%888%E6%97%A59%E6%97%A5%E3%81%AB%E6%96%B0%E4%BA%BA%E4%B8%AD%E5%A0%85%E7%A4%BE%E5%93%A1%E5%90%91%E3%81%91%E3%81%AE%E8%AC%9B%E7%BF%92%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E4%BB%8A%E5%B9%B4%E3%81%AE%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A116%E5%90%8D%E3%81%8C%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F1%E6%97%A5%E7%9B%AE%E3%81%AF%E5%BA%A7%E5%AD%A6%E3%81%A7%E9%89%84%E9%8B%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98%E3%82%92%E5%AD%A6%E3%81%B32/1015328511017454/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E4%B8%89%E8%8F%B1%E5%95%86%E4%BA%8B%E9%83%A8%E9%95%B7%E3%81%8C%E7%94%B7%E6%80%A7%E8%82%B2%E4%BC%91%E3%81%AE%E6%8E%A8%E9%80%B2%E5%BD%B9%E3%81%AB%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%AE%E9%80%B2%E5%B1%95%E3%81%A8%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E8%AA%B2%E9%A1%8C%E4%BB%8A%E6%97%A510%E6%9C%88%EF%BC%99%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AB%E7%94%B7%E6%80%A7%E3%81%AE%E8%82%B2%E5%85%90%E4%BC%91%E6%A5%AD%E5%8F%96%E5%BE%97%E7%8E%87%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%9F%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%B8%89%E8%8F%B1%E5%95%86%E4%BA%8B%E3%81%8C1/28764461746507319/",
+    "https://www.facebook.com/DRIVE.ETIC/posts/%E6%9C%AA%E7%B5%8C%E9%A8%93%E5%89%AF%E6%A5%ADok%E4%B8%96%E7%95%8C%E8%A6%8F%E6%A8%A1%E3%81%AE%E7%99%BA%E5%B1%95%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%82%92%E6%84%8F%E6%AC%B2%E3%81%82%E3%82%8B%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%A7%E6%94%AF%E3%81%88%E3%82%8Basia-link%E3%81%95%E3%82%93%E4%BC%81%E6%A5%AD%E3%81%A8%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%AE%E5%8F%8C%E6%96%B9%E3%81%AB%E5%90%91%E3%81%8D%E5%90%88%E3%81%84%E9%9D%A2%E8%AB%87%E3%81%8B%E3%82%89%E5%85%A5%E7%A4%BE%E5%BE%8C%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%81%BE%E3%81%A7%E3%82%92/1795184085944609/"
+   ]
+  },
+  {
+   "query": "中堅・大企業製造業の採用 note 社長",
+   "results": [
+    "https://note.com/ulcons/n/nb2afd6600f46",
+    "https://note.com/mmaassaahhiirroo/n/ned38d2bad139",
+    "https://note.com/saiyou_dekirukun/n/n58466d9ea343",
+    "https://note.com/majyp/n/n8884ff5604b2",
+    "https://note.st.inc/n/n0d667b889272",
+    "https://note.jp/n/n211021915b13",
+    "https://note.com/trigger_k430/n/n4b7988465e16",
+    "https://note.future.co.jp/n/n12300f6e5edb",
+    "https://note.com/ai_saiyou_/n/n4dc32a8648a2",
+    "https://note.com/toaru_cfo/n/n39e5a4ce009a"
+   ]
+  },
+  {
+   "query": "中堅・大企業製造業の採用 X 投稿",
+   "results": [
+    "https://www.sansokan.jp/mng/keiei-column/059/",
+    "https://azu-rite.co.jp/clumn/x-recruitment",
+    "https://www.wantedly.com/hiringeek/recruit/twitter/",
+    "https://lean-operation.com/media/global/kunomura_2410/",
+    "https://x.com/INDUSTRIALX_inc",
+    "https://wakaru.biz/column/manufacturing-recruit-instagram/",
+    "https://gaiax-socialmedialab.jp/post-37064/",
+    "https://growthseed.jp/experts/sns/twitter-recruitment/",
+    "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "https://note.com/aboardix/n/n52d582d48d9b"
+   ]
+  },
+  {
+   "query": "large manufacturer hiring difficulty Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/naveen-kumar-948098100_top-job-portals-to-apply-for-jobs-in-activity-7434741934780272640-nh9v",
+    "https://www.linkedin.com/posts/careerflyjapan_cfj-cfjtips-careerfly-activity-7299715267478048769-sBVy",
+    "https://www.linkedin.com/posts/donaldmurataj_why-does-this-data-ai-role-require-japanese-activity-7494890771410771968-q9WS",
+    "https://www.linkedin.com/jobs",
+    "https://www.linkedin.com/top-content/recruitment-hr/optimizing-recruitment-processes/reasons-hiring-processes-feel-slow-and-frustrating/",
+    "https://www.linkedin.com/posts/jp-lewin_he-sold-his-company-hated-the-ma-process-activity-7383835034564321282-K530",
+    "https://www.linkedin.com/pulse/linkedin-top-companies-2026-50-best-large-employers-grow-zupfe",
+    "https://www.linkedin.com/pulse/how-long-too-stay-same-job-3-huge-risks-doing-so-terina-allen",
+    "https://www.linkedin.com/jobs/director-process-development-jobs",
+    "https://www.linkedin.com/posts/martin-schatz-7a166a21b_japanese-denim-is-going-global-just-as-it-activity-7436575943613378560-efxK"
+   ]
+  }
+ ],
+ "missing": {}
+}

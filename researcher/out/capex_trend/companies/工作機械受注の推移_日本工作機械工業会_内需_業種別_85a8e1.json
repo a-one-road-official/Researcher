@@ -1,0 +1,3868 @@
+{
+ "name": "工作機械受注の推移（日本工作機械工業会・内需・業種別）",
+ "en": "JMTBA machine tool orders domestic by industry time series",
+ "aliases": [
+  "工作機械受注 内需 推移",
+  "工作機械受注 業種別 金属製品",
+  "工作機械受注 年間 推移"
+ ],
+ "context": "一次・工業会",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:10:34.573923+00:00",
+ "evidence": {
+  "目的別": [
+   {
+    "quote": "(763 億円)は主要市場で唯一、４月も前月比で増加し、２カ月連続で過去最高額を更新した(２カ月連続の 750 億円超)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資の周辺環境を見渡すと、恒常的に自動化・高効率化、環境対応に関する需要が見られ、長らく設備投資を抑制してきたユーザを中心に老朽機更新の必要性が高まっている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "仮に事態が一段と悪化した場合、旺盛な需要に対してタイムリーに製品供給ができず、中小企業ユーザの老朽機更新の動きも妨げる結果となりかねない",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本年最高額を2カ月連続で更新",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械の比重は 98.1%（同＋0.2pt）で、過去最高比率を前年に続き更新した",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ンショック以降、 7 年連続で最高額を更新した",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「自動車」(88億円)は5カ月ぶりに90億円を下回ったが、老朽機更新の大型案件もあって比較的高めの水準を保ち、「航空機・造船・輸送用機械」は3カ月ぶりに30億円を上回った(32億円)",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前月比＋4.6％、前年同月比＋65.8％の1,463.5で、6月(1,454億円)を超え歴代最高額を更新した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "欧米が長期休暇の時期に入る8月において歴代最高額を更新したのは異例である",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主な地域別にみると、北米は宇宙産業や航空機関連で大型受注が集中した「航空機・造船・輸送用機械」(140億円)や「一般機械」(125億円)がそれぞれ歴代最高額を更新した他、「電気・精密」(58億円)も歴代2位となる等大変力強く、北米全体としても約500億円(499億54百万円)と歴代最高額を大きく更新した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「欧州」(203億円)は長期夏季休暇により営業日数が限られたが、ドイツ(49億円)が2カ月連続で本年としての最高額を更新した他、イタリア(32億円)も2カ月連続の30億円超、EU の「その他」も8 カ月ぶりに40 億円を超える等、EU 圏を中心に改善の動きが感じられ、欧州全体として2 カ月連続で200 億円を超えた",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米計は、3カ月連続400億円超え、統計開始以来の最高額を更新",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資の周辺環境を見渡すと、恒常的に自動化・高効率化、環境対応に関する需要が見られ、長らく設備投資を控えてきたユーザを中心に老朽機更新の必要性が高まっている",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "我が国はデータセンタや半導体関連での需要回復が先行しているが、航空機・造船等でのプロジェクト投資、自動車等での政策支援効果による老朽機更新の進展等、今後は幅広い分野での動きに繋がると期待される",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "機械受注": [
+   {
+    "quote": "ど、26年は内外需ともに好要因が多く、",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械受注高と前年同月比の推移（2000年1月〜25年10月）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "●グラフ(下)の見方：景気の頂点にあたる四半期の受注額を100の指数で表し、その後の景気後退と回復(谷と山)の期間と高低を示した",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（一社）日本工作機械工業会（坂本繁友会長）は、６月 25 日、2026 年５月分の工作機械受注確報及び受注関連状況を発表した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月分工作機械受注確報及び受注関連状況について",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．2026 年５月の受注額(確報)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月の受注総額は、期末効果の剥落により前月比(▲ 2.3 %)で３カ月ぶりに減少したものの、２カ月連続で 1,800 億円を超え、３月(1,934 億 70 百万円)に次ぐ歴代２位の受注額となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち内需は、前月比で▲ 2.4 %(３カ月ぶり減少)、前年同月比で＋ 43.4 %(４カ月 連続増加)の 492 億 86 百万円で、昨年下期(364 億円)、本年第１四半期(401 億円)の平均受注額を大きく上回った",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前月比で▲ 2.3 %(２カ月ぶり減少)、前年同月比で＋ 45.8 %(19 カ月連続増加)の 1,396 億 81 百万円となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は昨年 12 月以降の各月が歴代１～５位を占めるなど歴史的な高水準で推移しており、４月の受注額は２位に相当する",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はドイツでの受注額がこのところ40億円前後で持続するなど復調しつつあり、イタリアやスペイン等でも設備案件が増加傾向にある",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内外需とも前⽉⽐で減少するも、前年同⽉⽐は＋ 37 %超と高い⽔準で推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "単⽉外需、1,000 億円超えは８カ⽉連続、先⽉の 1,396.8 億円に次ぐ、歴代３番⽬の⾼⽔準",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そして受注額の約 20 ％強を占める自動車業界の「EV問題」の見通しも定かではない",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）内需総額：",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・内需総額は前⽉⽐で２カ⽉連続減少も、前年同⽉⽐は５カ⽉連続増加で、伸び率も２カ⽉連続 35 ％超えの増加と回復傾向が続いている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「2026 年の受注額２兆円」は薄ぼんやりした工作機械業界へのカンフル剤としてはよくできている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同⽉⽐：増加７業種(「鉄鋼・非鉄金属」「金属製品」「一般機械」等）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成 – 日本産機新聞",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歴代4番目の受注総額となり、外需は過去最高額を記録した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内需は前年比0・2%減の4408億6200万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自動車や一般機械などの主要4業種は、「航空・造船・輸送用機械」のみが増加となり、それ以外は減少した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は前年比11・5%増の1兆1634億5700万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年の工作機械受注額は、1兆7000億円を見通す",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（付 2016年（暦年）工作機械受注実績の概要）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内需は、前年同月比11カ月ぶりプラス",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前年同月比19カ月ぶりプラス",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ . 一般機械",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）内需 459.8億円 （前月比 ＋2.3％ 前年同月比 ＋8.0％）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）外需 659.0億円 （前月比 ＋4.7％ 前年同月比 ＋2.0％）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "受注総額 内需 外需 3カ月移動平均 1000億円ライン",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 受注額の月別推移",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２．内需 【12月分】",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）内需総額",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・主要4業種 前月比 ： 一般機械、電気・精密が増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．外需 【12月分】",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）外需総額",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（3）外需総額の業種別受注",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年8月分工作機械受注総額は1978.7億円 | 製造現場ドットコム",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年8月分工作機械受注総額は1978.7億円",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年8月分工作機械受注総額は、1,978.7億円（前月比＋2.5％、前年同期比＋64.7％）となった",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比の伸び率が総額・内需・外需とも6割を超える等、引き続き旺盛な設備需要が窺える",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月分内需515.2億円（前月比△3.2％ 前年同月比＋61.5％）",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち内需は、515.2億円で前月比△3.2％となったが、前月比は＋61.5％と年初以来8カ月連続で増加し、3カ月連続で500億円を上回った",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データセンタの予備電源、冷却関連や半導体製造装置、発電に関する需要が依然活発で「一般機械」(211億円、3カ月連続の200億円超)や「電気・精密」(97億円、前年同月比＋192.6%、歴代3位)等の区分を押し上げた",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月分外需 1,463.5億円（前月比＋4.6％ 前年同月比＋65.8％）",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前月比＋4.6％、前年同月比＋65.8％の1,463.5で、6月(1,454億円)を超え歴代最高額を更新した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は昨年12月以降の各月が歴代1～9位を占め、特に3月以降は継続して1,300億円を上回るなど歴史的な水準が続いている",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主な地域別にみると、北米は宇宙産業や航空機関連で大型受注が集中した「航空機・造船・輸送用機械」(140億円)や「一般機械」(125億円)がそれぞれ歴代最高額を更新した他、「電気・精密」(58億円)も歴代2位となる等大変力強く、北米全体としても約500億円(499億54百万円)と歴代最高額を大きく更新した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アジア(739 億円)は、直近数カ月において歴代最高水準での受注が続いていた中国の「自動車」(115 億円)が前月比で2 割弱減少した他、「一般機械」でも韓国・シンガポールなどで大型受注が剥落し、前月比で2 カ月連続減少した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内需が回復傾向にある中、10 月下旬に開催されるJIMTOF(東京)への関心も高まっている",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "業種別に見ると、「",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のユーザにおいては、年央に採択が予定される",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(日本)は、自動車関連需要が今後も持続的に増加した場合、「一般機械」など他分野での設備投資にも波及していくものと期待される",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の外注加工先やユーザの中小企業はより厳しい状況にあると見られる",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "仮に事態が一段と悪化した場合、旺盛な需要に対してタイムリーに製品供給ができず、中小企業ユーザの老朽機更新の動きも妨げる結果となりかねない",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前⽉⽐：「航空機・造船・輸送用機械」のみ増加",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前⽉⽐：増加３業種(「航空機・造船・輸送用機械」「商社・代理店」等）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同⽉⽐：増加７業種(「鉄鋼・非鉄金属」「金属製品」「一般機械」等）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自動車や一般機械などの主要4業種は、「航空・造船・輸送用機械」のみが増加となり、それ以外は減少した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米は自動車や航空・造船・輸送用機械を中心に増加し、過去最高額の3600億円を記録",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電気･精密機械内 需 計 一般機械 販 売自動車",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ . 一般機械",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般機械 自動車 電気・精密 内需（右軸）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・全11業種中 前月比 ： 増加 5業種 （ 「官公需・学校」「電気機械」など）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比 ： 増加 7業種（ 「電気機械」「鉄鋼・非鉄金属」など）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電気・精密（右軸） 航空・造船・輸送用機械（右軸）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・主要4業種 前月比 ： 一般機械、電気・精密が増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比： 航空・造船・輸送用機械を除きすべて増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）業種別受注",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※全需要業種の詳細は、別紙「工作機械業種別受注額」を参照",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般機械 自動車 電気・精密 航空・造船・輸送用機械",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（3）外需総額の業種別受注",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比 ： 電気・精密、航空・造船・輸送用機械が増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般機械 自動車 電気・精密 航空・造船・輸送用機械（右軸）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（4）アジアの業種別受注",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・一般機械は、17カ月ぶりの70億円超",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般機械 自動車 電気・精密 航空・造船輸送用機械",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（5）欧州の業種別受注",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・一般機械は、2カ月連続の40億円超",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・航空・造船・輸送用機械は、本年最低額ながら、前年同月比は4カ月ぶり増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データセンタの予備電源、冷却関連や半導体製造装置、発電に関する需要が依然活発で「一般機械」(211億円、3カ月連続の200億円超)や「電気・精密」(97億円、前年同月比＋192.6%、歴代3位)等の区分を押し上げた",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「自動車」(88億円)は5カ月ぶりに90億円を下回ったが、老朽機更新の大型案件もあって比較的高めの水準を保ち、「航空機・造船・輸送用機械」は3カ月ぶりに30億円を上回った(32億円)",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主な地域別にみると、北米は宇宙産業や航空機関連で大型受注が集中した「航空機・造船・輸送用機械」(140億円)や「一般機械」(125億円)がそれぞれ歴代最高額を更新した他、「電気・精密」(58億円)も歴代2位となる等大変力強く、北米全体としても約500億円(499億54百万円)と歴代最高額を大きく更新した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アジア(739 億円)は、直近数カ月において歴代最高水準での受注が続いていた中国の「自動車」(115 億円)が前月比で2 割弱減少した他、「一般機械」でも韓国・シンガポールなどで大型受注が剥落し、前月比で2 カ月連続減少した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "①第２次オイルショック不況 80年11月 (57,932) 82年10月 (32,522) 56.1% 24ヵ月間 18ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "②円高不況 85年03月 (92,603) 87年01月 (47,583) 51.4% 21ヵ月間 22ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "③構造不況 89年12月 (126,591) 93年10月 (37,044) 29.3% 42ヵ月間 43ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "④平成不況 97年05月 (101,170) 99年05月 (55,868) 52.2% 23ヵ月間 16ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑤ＩＴ不況 00年09月 (90,127) 02年01月 (45,616) 50.6% 14ヵ月間 55ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑥リーマンショック 07年09月 (142,003) 09年01月 (19,037) 13.4% 16ヵ月間 29ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑦欧州金融危機 11年06月 (128,581) 13年04月 (81,963） 63.7% 22ヵ月間 23ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑧中国減速 15年03月 (147,380) 16年10月 (93,884） 63.7% 20ヵ月間 17ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑨米中貿易摩擦 18年03月 (182,860) 20年05月 (51,239) 28.0% 26ヵ月間 22ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "100.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "110.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "120.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "130.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "140.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "150.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "160.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月の受注総額は、期末効果の剥落により前月比(▲ 2.3 %)で３カ月ぶりに減少したものの、２カ月連続で 1,800 億円を超え、３月(1,934 億 70 百万円)に次ぐ歴代２位の受注額となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比(＋ 45.1 %)の増加率はコロナ禍のペントアップ需要が盛んであった 2022 年１月以来４年３カ月ぶりに４割以上となり、10 カ月連続で増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち内需は、前月比で▲ 2.4 %(３カ月ぶり減少)、前年同月比で＋ 43.4 %(４カ月 連続増加)の 492 億 86 百万円で、昨年下期(364 億円)、本年第１四半期(401 億円)の平均受注額を大きく上回った",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前月比で▲ 2.3 %(２カ月ぶり減少)、前年同月比で＋ 45.8 %(19 カ月連続増加)の 1,396 億 81 百万円となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内外需とも前⽉⽐で減少するも、前年同⽉⽐は＋ 37 %超と高い⽔準で推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そして下の帯グラフでは緑色の「自動車」を示す帯の幅（内需全体に占める自動車に比率）が、2023 年から 2025 年までに「21.1 ％」「20.6 ％」「19.8 ％」と低下していき、今年に入ってからの４カ月平均は「20.1 ％」と、日本の工作機械業界にとり自動車産業の比重は 20 %前後に落ち着いてきた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内需は前年比0・2%減の4408億6200万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は前年比11・5%増の1兆1634億5700万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016 年の工作機械受注額は、前年比▲15.6%の 1 兆 2,500 億円となった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "円（同▲15.5%）で、総額同様 2 年連続の減少となった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械の比重は 98.1%（同＋0.2pt）で、過去最高比率を前年に続き更新した",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の内訳をみると、内需は 5,305 億円（同▲9.5%）、外需は 7,195 億円（同▲19.6%）で、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需比率は同▲ 2.8pt の 57.6%に低下した",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別にみると、「一般機械」同▲ 6.6%（2,071 億円）、「自動車」同▲ 14.3%（1,749",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "億円）、「電気機械」同▲ 2.4%（263 億円）、「精密機械」同▲ 7.2%（196 億円）、「航空",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機・造船・その他輸送用機械」同▲ 3.4%（301 億円）等、全 11 業種中 10 業種で前年",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、前年比増 加した「商社・代理店」同＋ 7.4%（71 億円）は、リーマ",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016 年の外需は、前年比▲19.6%の 7,195 億円と、2 年連続で減少し、3 年ぶりの 8,000",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別にみると、アジアは前年比▲ 35.3%の 2,869 億円で、このうち、東アジアは同",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▲33.1%（2,188 億円）、その他のアジアは同▲ 41.6%（682 億円）となった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "にみると、台湾は同▲ 27.9%（203 億円）、韓国は同▲ 17.4%（354 億円）、最大需要国",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "である中国は、同▲ 36.2%の 1,628 億円で 3 年ぶりの 2,000 億円割れとなった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国別では、EU 主要国のドイツが同▲ 7.5%（459 億円）、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "イギリスが同▲ 0.8%（222 億円）、フランス同▲16.0%（191 億円）と減少したものの、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政策効果が見られたイタリアで同＋ 9.3%（232 億円）、自動車関連投資に動きのあった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中欧が＋ 17.0%（187 億円）、その他の EU 同＋18.2%（273 億円）などは前年比増加し、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EU 全体でも同＋ 0.9%（1,564 億円）となった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米は、同▲ 7.4%の 2,372 億円と、6 年連続で 2,000 億円を上回り、高水準の受注が",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データセンタの予備電源、冷却関連や半導体製造装置、発電に関する需要が依然活発で「一般機械」(211億円、3カ月連続の200億円超)や「電気・精密」(97億円、前年同月比＋192.6%、歴代3位)等の区分を押し上げた",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし前年同月比は＋71.0%と高く、全体的な活況に変化は見られない",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "〔日本工作機械工業会統計〕 （単位：百万円、カッコ内は前年比増減率％）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〔日本工作機械工業会・経済産業省機械統計〕",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（2026年5月分）確報 | ことラボSTI",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（2026年5月分）確報",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（一社）日本工作機械工業会（坂本繁友会長）は、６月 25 日、2026 年５月分の工作機械受注確報及び受注関連状況を発表した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【日工会受注に関する問い合わせ先】調査企画部 電話：03-3434-3961",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そもそも工業会が会員調査で来年の受注予測を発表することが談合につながるのではないか、と指摘もある",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年の工作機械受注修正見直し（６月５日公表）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "13年度 1,204,852 105.7 422,029 116.3 782,823 100.8 1,149,078 529,922 61,311 344 ,586 936,303 87.3 65,329 958,064 7,938 27,939 771,524 86.1 72,839 144.3 24 ,650 101.2",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "14年度 1,578,546 131.0 526,876 124.8 1,051,670 134.3 1,495,341 613,854 110,375 485,288 1,260,233 134.6 113,378 1,300,885 9,758 32,083 1,025,252 132.9 78,930 108.4 25,401 105.2",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "15年度 1,398,968 88.6 579,295 109.9 819,673 77.9 1,471,868 548,277 90,082 454,1 95 1,185,470 94.1 94,398 1,233,482 9,762 34,758 844,962 82.4 87,710 111.1 26,099 107.1",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 2．企業物価指数（日本銀行）90～94年は90年＝100、95～99年は95年＝100、00～04年は00年＝100、05～09年は05年＝100、10年以降は10年=100",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "財務省「貿易統計」資 料 （一社）日本工作機械工業会 経済産業省「生産動態統計調査」",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・JIMTOFのフォローアップや、年度内（3月末）納入に向けた受注増が寄与",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出所：日本工作機械工業会 ※ （ ）内は前年同月比",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※2015年調査より、「3.一般機械」 に （うち建設機械）、「7.航空機・造船・輸送用機械」に （うち航空機）を追加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※2015年調査より、「1.旋盤」を立て形、横形及び（うち複合加工機）、「5.研削盤」に（うち円筒研削盤）及び （うち平面研削 盤）、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※2015年調査より、「その他アジア」の内訳に、「フィリピン」、「インドネシア」、「ベトナム」、「ＥＵ」の内訳に、「うちその他」、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（会長＝坂元繁友 芝浦機械社長）がこのほどまとめた2026年8月分の受注実績は以下の通り",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9 月上旬に会員企業を対象に実施した、本年第4 四半期に関する受注動向見通し調査のDI 値が＋8.7pt と増加するなど、年終盤においても引き続き高水準での受注が見込まれる",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "●昨2025年の受注総額は前年比6.4％",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "強まり、特に昨年後半は高水準で推移",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "●昨2025年の生産額は前年比6.5％増",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "受注が底堅く推移するため、",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〔2026年1月9日発表・暦年ベース〕",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械、 工作機器、 機械工具、 産業用ロボッ トの生産額の推移",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械受注高と前年同月比の推移（2000年1月〜25年10月）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022 23 24 25年（1-11月）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2010年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2015年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（2026年5月分）確報 | ことラボSTI",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（2026年5月分）確報",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年 07 月 01 日",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（一社）日本工作機械工業会（坂本繁友会長）は、６月 25 日、2026 年５月分の工作機械受注確報及び受注関連状況を発表した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月分工作機械受注確報及び受注関連状況について",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．2026 年５月の受注額(確報)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月の受注総額は、期末効果の剥落により前月比(▲ 2.3 %)で３カ月ぶりに減少したものの、２カ月連続で 1,800 億円を超え、３月(1,934 億 70 百万円)に次ぐ歴代２位の受注額となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比(＋ 45.1 %)の増加率はコロナ禍のペントアップ需要が盛んであった 2022 年１月以来４年３カ月ぶりに４割以上となり、10 カ月連続で増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は昨年 12 月以降の各月が歴代１～５位を占めるなど歴史的な高水準で推移しており、４月の受注額は２位に相当する",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(763 億円)は主要市場で唯一、４月も前月比で増加し、２カ月連続で過去最高額を更新した(２カ月連続の 750 億円超)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内外需とも前⽉⽐で減少するも、前年同⽉⽐は＋ 37 %超と高い⽔準で推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３カ⽉連続 400 億円超えと堅調な推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日工会が発行している『工作機械統計要覧』（通称・赤本）の 2025 年版で 2024 年のデータまでだが 1985 年から 2024 年までの 40 年を振り返る",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年までの 41 年で１兆円を超えたのは僅か 21 回",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・主な需要業種は、低調ながら前年よりやや高い⽔準で推移している",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「2026 年の受注額２兆円」は薄ぼんやりした工作機械業界へのカンフル剤としてはよくできている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・⼀般機械は、需要が⼀進⼀退で推移も、前年同期⽐よりやや⾼い⽔準（26 年平均は 150 億円）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・建設機械は３カ⽉ぶりの 10 億円割れも、海外需要を受けて引き続き堅調に推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成 – 日本産機新聞",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年3月9日",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歴代4番目の受注総額となり、外需は過去最高額を記録した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米とアジアは、過去最高額を記録し、外需をけん引した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アジアは2年連続で5000億円を超え、中国とインドは過去最高となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米は自動車や航空・造船・輸送用機械を中心に増加し、過去最高額の3600億円を記録",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "欧州は、ドイツなどのEU（欧州連合）主要国が弱含みで推移し、2年連続で2000億円を下回った",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本産機新聞2026年3月5日号",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月6日",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月4日",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（付 2016年（暦年）工作機械受注実績の概要）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "13年度 1,204,852 105.7 422,029 116.3 782,823 100.8 1,149,078 529,922 61,311 344 ,586 936,303 87.3 65,329 958,064 7,938 27,939 771,524 86.1 72,839 144.3 24 ,650 101.2",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "14年度 1,578,546 131.0 526,876 124.8 1,051,670 134.3 1,495,341 613,854 110,375 485,288 1,260,233 134.6 113,378 1,300,885 9,758 32,083 1,025,252 132.9 78,930 108.4 25,401 105.2",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "15年度 1,398,968 88.6 579,295 109.9 819,673 77.9 1,471,868 548,277 90,082 454,1 95 1,185,470 94.1 94,398 1,233,482 9,762 34,758 844,962 82.4 87,710 111.1 26,099 107.1",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017.1.19",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "JIMTOF・Tokyo 2016効果継続",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017.1.19 (単位：百万円・％)",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４月 ５月 ６月 ７月３月2016年 １月 ２月",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "●昨2025年の受注総額は前年比6.4％",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増の１兆5800億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1000億円台を突破したようだ",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7000億円と見通す",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "●昨2025年の生産額は前年比6.5％増",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の9600億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．輸 入 〔財務省貿易統計〕 （単位：百万円、カッコ内は前年比増減率％）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "●昨2025年の輸出額は前年比9.0％増",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の8300億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "●昨2025年の輸入額は前年比11.2％",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "減の700億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "01年 788,898百万円",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "02年 675,837百万円",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "03年 851,101百万円",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "04年 1,236,192百万円",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月の受注総額は、期末効果の剥落により前月比(▲ 2.3 %)で３カ月ぶりに減少したものの、２カ月連続で 1,800 億円を超え、３月(1,934 億 70 百万円)に次ぐ歴代２位の受注額となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比(＋ 45.1 %)の増加率はコロナ禍のペントアップ需要が盛んであった 2022 年１月以来４年３カ月ぶりに４割以上となり、10 カ月連続で増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち内需は、前月比で▲ 2.4 %(３カ月ぶり減少)、前年同月比で＋ 43.4 %(４カ月 連続増加)の 492 億 86 百万円で、昨年下期(364 億円)、本年第１四半期(401 億円)の平均受注額を大きく上回った",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "」(157 億円)や「電気・精密」(78 億円)では、データセンタに関連した、予備電源、液冷循環ポンプやバルブ、免振装置、流体軸受等の加工需要が広く見受けられる他、半導体製造装置や各種発電に関連した需要も高まっている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "」(113 億円)はモデルチェンジ需要の高まりから 13 カ月ぶりに 100 億円を超えた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "」(38 億円)は鉄道関連のスポット受注もあり７カ月ぶりに 35 億円を超えた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前月比で▲ 2.3 %(２カ月ぶり減少)、前年同月比で＋ 45.8 %(19 カ月連続増加)の 1,396 億 81 百万円となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(203 億円)は航空機や商社・現法でのストック増強が堅調で、前月比で３カ月ぶりに減少したものの、２カ月連続で 200 億円を上回った",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(763 億円)は主要市場で唯一、４月も前月比で増加し、２カ月連続で過去最高額を更新した(２カ月連続の 750 億円超)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "も３カ月連続で 70 億円を超えた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はドイツでの受注額がこのところ40億円前後で持続するなど復調しつつあり、イタリアやスペイン等でも設備案件が増加傾向にある",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "受注総額で、15 カ⽉連続の 1,200 億円超え、歴代４番⽬に高い⽔準",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内外需とも前⽉⽐で減少するも、前年同⽉⽐は＋ 37 %超と高い⽔準で推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前⽉⽐２カ⽉連続の減少も、前年同⽉⽐は５カ⽉連続で増加",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３カ⽉連続 400 億円超えと堅調な推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前⽉⽐は２カ⽉連続減少、前年同⽉⽐では 20 カ⽉連続増加",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成 – 日本産機新聞",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "坂元会長は「年終盤の押し上げもあり、当初の見通しであった1兆6000億円を達成した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内需は前年比0・2%減の4408億6200万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自動車や一般機械などの主要4業種は、「航空・造船・輸送用機械」のみが増加となり、それ以外は減少した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は前年比11・5%増の1兆1634億5700万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アジアは2年連続で5000億円を超え、中国とインドは過去最高となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中国はEV（電気自動車）やIT関連投資により、2年連続で3000億円を上回った",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米は自動車や航空・造船・輸送用機械を中心に増加し、過去最高額の3600億円を記録",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "欧州は、ドイツなどのEU（欧州連合）主要国が弱含みで推移し、2年連続で2000億円を下回った",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年の工作機械受注額は、1兆7000億円を見通す",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2カ月連続600億円超で年間最高額",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017.1.19 (単位：百万円・％)",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(注)当月又は前年実績値が「マイナス」及び「０」の場合、もしくは実績値の無い場合は、前年比の表示を「-」とする",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "受注総額は、 9カ月ぶりの1,100億円超",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年末の欧米地域の受注増が寄与し、17カ月ぶりの前年同月比増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "12月は増加するも、今後の為替動向や各種政策に関連する動きを注視",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）内需 459.8億円 （前月比 ＋2.3％ 前年同月比 ＋8.0％）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要3極はすべて前月比増加し、7カ月ぶりの650億円超",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比は19カ月ぶりの増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前月比 ＋3.7％ （2カ月連続増加）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比 ＋4.4％ （17カ月ぶり増加）1,118.8億円",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）外需 659.0億円 （前月比 ＋4.7％ 前年同月比 ＋2.0％）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3カ月ぶりの450億円超",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "JIMTOFのフォローアップ効果もあり、11カ月ぶりの前年同月比増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jmtba.or.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/629207.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC093LT0Z00C26A7000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/stat/juchu/1003juchu-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_03.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsim.or.jp/statistical-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtia.gr.jp/dataservice1/viewcatcid2.php",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eigyo-mfg.com/blog/8869/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/machinery/fa-machines/market-size",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/617938.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seizougenba.com/node/14517",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmtba.or.jp/english/category/machine-tool-orders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tradingeconomics.com/japan/machine-tool-orders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freightwaves.com/news/what-japanese-machine-tool-data-tells-us-about-the-industrial-outlook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisanzai-japan.com/article/p6304/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Machine_orders",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工作機械受注の推移（日本工作機械工業会・内需・業種別） 推移",
+   "results": [
+    "https://www.jmtba.or.jp/statistics/",
+    "https://www.dlri.co.jp/report/macro/629207.html",
+    "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "https://kotolabosti.co.jp/report/topics/8669/",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://www.nikkei.com/article/DGXZQOUC093LT0Z00C26A7000000/",
+    "https://jp.tradingeconomics.com/japan/machine-tool-orders",
+    "https://www.crex-data.com/industry/machinery/fa-machines/demand-sectors",
+    "https://eigyo-mfg.com/blog/8869/",
+    "https://monoscope-media.com/machine-tool-orders-trend/"
+   ]
+  },
+  {
+   "query": "工作機械受注の推移（日本工作機械工業会・内需・業種別） 調査結果 pdf",
+   "results": [
+    "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "https://kotolabosti.co.jp/report/topics/8669/",
+    "https://www.esri.cao.go.jp/jp/stat/juchu/1003juchu-1.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_03.pdf",
+    "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "https://www.jsim.or.jp/statistical-data/",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://www.jmtia.gr.jp/dataservice1/viewcatcid2.php",
+    "https://www.dlri.co.jp/report/macro/629207.html"
+   ]
+  },
+  {
+   "query": "工作機械受注の推移（日本工作機械工業会・内需・業種別） 年度 実施割合",
+   "results": [
+    "https://www.jmtba.or.jp/statistics/",
+    "https://kotolabosti.co.jp/report/topics/8669/",
+    "https://eigyo-mfg.com/blog/8869/",
+    "https://www.crex-data.com/industry/machinery/fa-machines/market-size",
+    "https://www.dlri.co.jp/report/macro/617938.html",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://seizougenba.com/node/14517",
+    "https://www.jsim.or.jp/statistical-data/",
+    "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf"
+   ]
+  },
+  {
+   "query": "JMTBA machine tool orders domestic by industry time series",
+   "results": [
+    "https://www.jmtba.or.jp/english/category/machine-tool-orders/",
+    "https://tradingeconomics.com/japan/machine-tool-orders",
+    "https://www.freightwaves.com/news/what-japanese-machine-tool-data-tells-us-about-the-industrial-outlook",
+    "https://www.ma-online.com.tw/en/article/market-insight/312",
+    "https://seisanzai-japan.com/article/p6304/",
+    "https://en.wikipedia.org/wiki/Machine_orders",
+    "https://www.mta.org.uk/resources/japanese-machine-tool-orders-june-and-2nd-quarter-2026/",
+    "https://www.jmtba.or.jp/english/wjmtbap/wp-content/uploads/2025/09/MachineTool-Orders.pdf",
+    "https://asia.nikkei.com/business/business-trends/japan-machine-tool-order-backlog-hits-all-time-high-on-ai-demand",
+    "https://www.cncmedia.cc/article/jmtba-machine-tool-orders-september-2026/"
+   ]
+  },
+  {
+   "query": "site:note.com 工作機械受注の推移（日本工作機械工業会・内需・業種別）",
+   "results": [
+    "https://note.com/sankituushin/n/n0acf5ba7fa4c",
+    "https://note.com/sankituushin/n/nd887529f5369",
+    "https://note.com/sankituushin/n/n13a388fedfd2",
+    "https://note.com/sankituushin/n/na55554021e67",
+    "https://note.com/kiku_keizai/n/ne964d61bd6c3",
+    "https://note.com/sankituushin/n/n92c4f26ee37c",
+    "https://note.com/zenshinzenrei123/n/nbf70eff8269d",
+    "https://note.com/happy_rail2930/n/n40da70655dd3",
+    "https://note.com/kiku_keizai/n/n1dd0155725e9",
+    "https://note.com/goldriver2023/n/n482ff7ba625e"
+   ]
+  },
+  {
+   "query": "site:x.com 工作機械受注の推移（日本工作機械工業会・内需・業種別）",
+   "results": [
+    "https://x.com/stock_unknown/status/2108437680677888380?lang=ar",
+    "https://x.com/mizuho_ird",
+    "https://x.com/i/status/2092790514261364988",
+    "https://x.com/stock_unknown/status/2108437680677888380",
+    "https://x.com/Kei_285A/status/2108453273678340326",
+    "https://x.com/noatake1127/status/2075104195502571584",
+    "https://x.com/solavia_A/status/2087438699659452835",
+    "https://x.com/kokonoe_culture/status/2075525940390850567",
+    "https://x.com/i/trending/2075385688879665424",
+    "https://x.com/stock_unknown/status/2097566707028283541"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工作機械受注の推移（日本工作機械工業会・内需・業種別）",
+   "results": [
+    "https://www.linkedin.com/company/totalenergies",
+    "https://jp.linkedin.com/in/春美-鈴木-261433296",
+    "https://jp.linkedin.com/in/文芳-大槻-805852106",
+    "https://www.linkedin.com/posts/sureshnallusamy_2023年工作機械業界の現状と今後の推移とは-中古機械のダイナ日記-activity-7122187855535247360-revM",
+    "https://jp.linkedin.com/company/news-digest-publishing",
+    "https://jp.linkedin.com/posts/隆博-馬場-17295328b_令和8年2月実績機械受注統計調査報告-経済社会総合研究所-内閣府-activity-7450042746830209024-UfhE",
+    "https://jp.linkedin.com/posts/聡亮-南方-500776270_工作機械受注が教えてくれる日本株世界経済25-年12-月-藤代-宏一-activity-7421846536701251584-OQpQ"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工作機械受注の推移（日本工作機械工業会・内需・業種別）",
+   "results": [
+    "https://www.facebook.com/ReutersJapan/posts/日本工作機械工業会が９日発表した６月の工作機械受注速報値は前年同月比５２８増の２０３５億１５００万円だった１２カ月連続で増加した前月比では１５０増だった/1672492294879144/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/5054913467874383/",
+    "https://www.facebook.com/story.php/?story_fbid=1161913765937224&id=100063558344150",
+    "https://www.facebook.com/nb.shinbun/photos/日工会-が6月25日発表した24年5月の-工作機械受注額-は1245億円前年同月比-42うち内需3484億円外需8969億円でした17カ月ぶりの前年同期比増に稲/496911416170854/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/日刊工業新聞社が１２日まとめた工作機械主要４社の７月の工作機械受注実績は前年同月比７８８増の６１４億２００万円だったプラスは２６カ月連続輸出が同６６２増の４４５/1665429318921064/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/日刊工業新聞社が９日まとめた工作機械主要４社の１１月の工作機械受注実績は前年同月比１３３増の３９１億１２００万円と１８カ月連続で増加した１５カ月連続で増加した輸/1438958914901440/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/日刊工業新聞社が１５日まとめた工作機械主要４社の４月の工作機械受注実績は前年同月比１５５増の３６０億４６００万円と１１カ月連続で増加した輸出は同１５０増の８カ月/1252398446890822/"
+   ]
+  },
+  {
+   "query": "工作機械受注の推移（日本工作機械工業会・内需・業種別） note 社長",
+   "results": [
+    "https://note.com/sankituushin/n/nd887529f5369",
+    "https://www.jmtba.or.jp/statistics/",
+    "https://www.reuters.com/jp/markets/japan/XXINEJ2JRZOSFFPNIOWJBRXYMA-2026-03-10/",
+    "https://note.com/factory_connectn/n/n67a2e449791c",
+    "https://www.machinist.co.jp/2026/06/24211/",
+    "https://kotolabosti.co.jp/report/topics/8541/",
+    "https://note.com/andy868/n/n3aec994f035c",
+    "https://www.nikkei.com/article/DGXZQOUC223A90S6A021C2000000/",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://monoscope-media.com/machine-tool-orders-trend/"
+   ]
+  },
+  {
+   "query": "工作機械受注の推移（日本工作機械工業会・内需・業種別） X 投稿",
+   "results": [
+    "https://kotolabosti.co.jp/report/topics/8669/",
+    "https://www.jmtba.or.jp/statistics/",
+    "https://www.reuters.com/jp/markets/japan/XXINEJ2JRZOSFFPNIOWJBRXYMA-2026-03-10/",
+    "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "https://eigyo-mfg.com/blog/8869/",
+    "https://seizougenba.com/node/13982",
+    "https://x.com/noatake1127/status/2059167204273533377",
+    "https://www.frontier-valuation.com/post/columns926",
+    "https://www.youtube.com/shorts/Y3fp0Ey5yPc",
+    "https://monoscope-media.com/machine-tool-orders-trend/"
+   ]
+  },
+  {
+   "query": "JMTBA machine tool orders domestic by industry time series site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/freightwaves_japanese-machine-tool-orders-surge-in-december-activity-7424467822027800576-9DPI",
+    "https://www.linkedin.com/showcase/seisanzai-japan/",
+    "https://www.linkedin.com/posts/dr-harnisch-publications-precision-tools_the-33rd-japan-international-machine-tool-activity-7519270372223897600-qdaY",
+    "https://be.linkedin.com/company/cecimo",
+    "https://www.linkedin.com/posts/machinery-and-equipment-industry_cncmachine-cnc-japanesemanufacturing-activity-7495013463749091328-yX4N",
+    "https://in.linkedin.com/in/jibak-dasgupta-6114421a",
+    "http://www.linkedin.com/pub/dufresne-gao/24/794/4b8",
+    "https://www.linkedin.com/posts/filipgeerts_stay-focused-on-innovation-in-mechatronics-activity-7520813232878624768-XjlA",
+    "https://www.linkedin.com/posts/paul-young-055632b_here-is-a-look-at-the-cutting-tools-https-activity-7519082962521329664-udiN",
+    "https://uk.linkedin.com/in/kurumi-ishijima-8351201b4"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "目的別": [
+   {
+    "quote": "(763 億円)は主要市場で唯一、４月も前月比で増加し、２カ月連続で過去最高額を更新した(２カ月連続の 750 億円超)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資の周辺環境を見渡すと、恒常的に自動化・高効率化、環境対応に関する需要が見られ、長らく設備投資を抑制してきたユーザを中心に老朽機更新の必要性が高まっている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "仮に事態が一段と悪化した場合、旺盛な需要に対してタイムリーに製品供給ができず、中小企業ユーザの老朽機更新の動きも妨げる結果となりかねない",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本年最高額を2カ月連続で更新",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械の比重は 98.1%（同＋0.2pt）で、過去最高比率を前年に続き更新した",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ンショック以降、 7 年連続で最高額を更新した",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「自動車」(88億円)は5カ月ぶりに90億円を下回ったが、老朽機更新の大型案件もあって比較的高めの水準を保ち、「航空機・造船・輸送用機械」は3カ月ぶりに30億円を上回った(32億円)",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前月比＋4.6％、前年同月比＋65.8％の1,463.5で、6月(1,454億円)を超え歴代最高額を更新した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "欧米が長期休暇の時期に入る8月において歴代最高額を更新したのは異例である",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主な地域別にみると、北米は宇宙産業や航空機関連で大型受注が集中した「航空機・造船・輸送用機械」(140億円)や「一般機械」(125億円)がそれぞれ歴代最高額を更新した他、「電気・精密」(58億円)も歴代2位となる等大変力強く、北米全体としても約500億円(499億54百万円)と歴代最高額を大きく更新した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「欧州」(203億円)は長期夏季休暇により営業日数が限られたが、ドイツ(49億円)が2カ月連続で本年としての最高額を更新した他、イタリア(32億円)も2カ月連続の30億円超、EU の「その他」も8 カ月ぶりに40 億円を超える等、EU 圏を中心に改善の動きが感じられ、欧州全体として2 カ月連続で200 億円を超えた",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米計は、3カ月連続400億円超え、統計開始以来の最高額を更新",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資の周辺環境を見渡すと、恒常的に自動化・高効率化、環境対応に関する需要が見られ、長らく設備投資を控えてきたユーザを中心に老朽機更新の必要性が高まっている",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "我が国はデータセンタや半導体関連での需要回復が先行しているが、航空機・造船等でのプロジェクト投資、自動車等での政策支援効果による老朽機更新の進展等、今後は幅広い分野での動きに繋がると期待される",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "機械受注": [
+   {
+    "quote": "ど、26年は内外需ともに好要因が多く、",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械受注高と前年同月比の推移（2000年1月〜25年10月）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "●グラフ(下)の見方：景気の頂点にあたる四半期の受注額を100の指数で表し、その後の景気後退と回復(谷と山)の期間と高低を示した",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（一社）日本工作機械工業会（坂本繁友会長）は、６月 25 日、2026 年５月分の工作機械受注確報及び受注関連状況を発表した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月分工作機械受注確報及び受注関連状況について",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．2026 年５月の受注額(確報)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月の受注総額は、期末効果の剥落により前月比(▲ 2.3 %)で３カ月ぶりに減少したものの、２カ月連続で 1,800 億円を超え、３月(1,934 億 70 百万円)に次ぐ歴代２位の受注額となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち内需は、前月比で▲ 2.4 %(３カ月ぶり減少)、前年同月比で＋ 43.4 %(４カ月 連続増加)の 492 億 86 百万円で、昨年下期(364 億円)、本年第１四半期(401 億円)の平均受注額を大きく上回った",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前月比で▲ 2.3 %(２カ月ぶり減少)、前年同月比で＋ 45.8 %(19 カ月連続増加)の 1,396 億 81 百万円となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は昨年 12 月以降の各月が歴代１～５位を占めるなど歴史的な高水準で推移しており、４月の受注額は２位に相当する",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はドイツでの受注額がこのところ40億円前後で持続するなど復調しつつあり、イタリアやスペイン等でも設備案件が増加傾向にある",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内外需とも前⽉⽐で減少するも、前年同⽉⽐は＋ 37 %超と高い⽔準で推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "単⽉外需、1,000 億円超えは８カ⽉連続、先⽉の 1,396.8 億円に次ぐ、歴代３番⽬の⾼⽔準",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そして受注額の約 20 ％強を占める自動車業界の「EV問題」の見通しも定かではない",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）内需総額：",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・内需総額は前⽉⽐で２カ⽉連続減少も、前年同⽉⽐は５カ⽉連続増加で、伸び率も２カ⽉連続 35 ％超えの増加と回復傾向が続いている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「2026 年の受注額２兆円」は薄ぼんやりした工作機械業界へのカンフル剤としてはよくできている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同⽉⽐：増加７業種(「鉄鋼・非鉄金属」「金属製品」「一般機械」等）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成 – 日本産機新聞",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歴代4番目の受注総額となり、外需は過去最高額を記録した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内需は前年比0・2%減の4408億6200万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自動車や一般機械などの主要4業種は、「航空・造船・輸送用機械」のみが増加となり、それ以外は減少した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は前年比11・5%増の1兆1634億5700万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年の工作機械受注額は、1兆7000億円を見通す",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（付 2016年（暦年）工作機械受注実績の概要）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内需は、前年同月比11カ月ぶりプラス",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前年同月比19カ月ぶりプラス",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ . 一般機械",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）内需 459.8億円 （前月比 ＋2.3％ 前年同月比 ＋8.0％）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）外需 659.0億円 （前月比 ＋4.7％ 前年同月比 ＋2.0％）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "受注総額 内需 外需 3カ月移動平均 1000億円ライン",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 受注額の月別推移",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２．内需 【12月分】",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）内需総額",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・主要4業種 前月比 ： 一般機械、電気・精密が増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．外需 【12月分】",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）外需総額",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（3）外需総額の業種別受注",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年8月分工作機械受注総額は1978.7億円 | 製造現場ドットコム",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年8月分工作機械受注総額は1978.7億円",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年8月分工作機械受注総額は、1,978.7億円（前月比＋2.5％、前年同期比＋64.7％）となった",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比の伸び率が総額・内需・外需とも6割を超える等、引き続き旺盛な設備需要が窺える",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月分内需515.2億円（前月比△3.2％ 前年同月比＋61.5％）",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち内需は、515.2億円で前月比△3.2％となったが、前月比は＋61.5％と年初以来8カ月連続で増加し、3カ月連続で500億円を上回った",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データセンタの予備電源、冷却関連や半導体製造装置、発電に関する需要が依然活発で「一般機械」(211億円、3カ月連続の200億円超)や「電気・精密」(97億円、前年同月比＋192.6%、歴代3位)等の区分を押し上げた",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月分外需 1,463.5億円（前月比＋4.6％ 前年同月比＋65.8％）",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前月比＋4.6％、前年同月比＋65.8％の1,463.5で、6月(1,454億円)を超え歴代最高額を更新した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は昨年12月以降の各月が歴代1～9位を占め、特に3月以降は継続して1,300億円を上回るなど歴史的な水準が続いている",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主な地域別にみると、北米は宇宙産業や航空機関連で大型受注が集中した「航空機・造船・輸送用機械」(140億円)や「一般機械」(125億円)がそれぞれ歴代最高額を更新した他、「電気・精密」(58億円)も歴代2位となる等大変力強く、北米全体としても約500億円(499億54百万円)と歴代最高額を大きく更新した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アジア(739 億円)は、直近数カ月において歴代最高水準での受注が続いていた中国の「自動車」(115 億円)が前月比で2 割弱減少した他、「一般機械」でも韓国・シンガポールなどで大型受注が剥落し、前月比で2 カ月連続減少した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内需が回復傾向にある中、10 月下旬に開催されるJIMTOF(東京)への関心も高まっている",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "業種別に見ると、「",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のユーザにおいては、年央に採択が予定される",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(日本)は、自動車関連需要が今後も持続的に増加した場合、「一般機械」など他分野での設備投資にも波及していくものと期待される",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の外注加工先やユーザの中小企業はより厳しい状況にあると見られる",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "仮に事態が一段と悪化した場合、旺盛な需要に対してタイムリーに製品供給ができず、中小企業ユーザの老朽機更新の動きも妨げる結果となりかねない",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前⽉⽐：「航空機・造船・輸送用機械」のみ増加",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前⽉⽐：増加３業種(「航空機・造船・輸送用機械」「商社・代理店」等）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同⽉⽐：増加７業種(「鉄鋼・非鉄金属」「金属製品」「一般機械」等）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自動車や一般機械などの主要4業種は、「航空・造船・輸送用機械」のみが増加となり、それ以外は減少した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米は自動車や航空・造船・輸送用機械を中心に増加し、過去最高額の3600億円を記録",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電気･精密機械内 需 計 一般機械 販 売自動車",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ . 一般機械",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般機械 自動車 電気・精密 内需（右軸）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・全11業種中 前月比 ： 増加 5業種 （ 「官公需・学校」「電気機械」など）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比 ： 増加 7業種（ 「電気機械」「鉄鋼・非鉄金属」など）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電気・精密（右軸） 航空・造船・輸送用機械（右軸）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・主要4業種 前月比 ： 一般機械、電気・精密が増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比： 航空・造船・輸送用機械を除きすべて増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）業種別受注",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※全需要業種の詳細は、別紙「工作機械業種別受注額」を参照",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般機械 自動車 電気・精密 航空・造船・輸送用機械",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（3）外需総額の業種別受注",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比 ： 電気・精密、航空・造船・輸送用機械が増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般機械 自動車 電気・精密 航空・造船・輸送用機械（右軸）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（4）アジアの業種別受注",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・一般機械は、17カ月ぶりの70億円超",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般機械 自動車 電気・精密 航空・造船輸送用機械",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（5）欧州の業種別受注",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・一般機械は、2カ月連続の40億円超",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・航空・造船・輸送用機械は、本年最低額ながら、前年同月比は4カ月ぶり増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データセンタの予備電源、冷却関連や半導体製造装置、発電に関する需要が依然活発で「一般機械」(211億円、3カ月連続の200億円超)や「電気・精密」(97億円、前年同月比＋192.6%、歴代3位)等の区分を押し上げた",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「自動車」(88億円)は5カ月ぶりに90億円を下回ったが、老朽機更新の大型案件もあって比較的高めの水準を保ち、「航空機・造船・輸送用機械」は3カ月ぶりに30億円を上回った(32億円)",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主な地域別にみると、北米は宇宙産業や航空機関連で大型受注が集中した「航空機・造船・輸送用機械」(140億円)や「一般機械」(125億円)がそれぞれ歴代最高額を更新した他、「電気・精密」(58億円)も歴代2位となる等大変力強く、北米全体としても約500億円(499億54百万円)と歴代最高額を大きく更新した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アジア(739 億円)は、直近数カ月において歴代最高水準での受注が続いていた中国の「自動車」(115 億円)が前月比で2 割弱減少した他、「一般機械」でも韓国・シンガポールなどで大型受注が剥落し、前月比で2 カ月連続減少した",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "①第２次オイルショック不況 80年11月 (57,932) 82年10月 (32,522) 56.1% 24ヵ月間 18ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "②円高不況 85年03月 (92,603) 87年01月 (47,583) 51.4% 21ヵ月間 22ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "③構造不況 89年12月 (126,591) 93年10月 (37,044) 29.3% 42ヵ月間 43ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "④平成不況 97年05月 (101,170) 99年05月 (55,868) 52.2% 23ヵ月間 16ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑤ＩＴ不況 00年09月 (90,127) 02年01月 (45,616) 50.6% 14ヵ月間 55ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑥リーマンショック 07年09月 (142,003) 09年01月 (19,037) 13.4% 16ヵ月間 29ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑦欧州金融危機 11年06月 (128,581) 13年04月 (81,963） 63.7% 22ヵ月間 23ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑧中国減速 15年03月 (147,380) 16年10月 (93,884） 63.7% 20ヵ月間 17ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⑨米中貿易摩擦 18年03月 (182,860) 20年05月 (51,239) 28.0% 26ヵ月間 22ヵ月間",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "100.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "110.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "120.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "130.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "140.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "150.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "160.0%",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月の受注総額は、期末効果の剥落により前月比(▲ 2.3 %)で３カ月ぶりに減少したものの、２カ月連続で 1,800 億円を超え、３月(1,934 億 70 百万円)に次ぐ歴代２位の受注額となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比(＋ 45.1 %)の増加率はコロナ禍のペントアップ需要が盛んであった 2022 年１月以来４年３カ月ぶりに４割以上となり、10 カ月連続で増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち内需は、前月比で▲ 2.4 %(３カ月ぶり減少)、前年同月比で＋ 43.4 %(４カ月 連続増加)の 492 億 86 百万円で、昨年下期(364 億円)、本年第１四半期(401 億円)の平均受注額を大きく上回った",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前月比で▲ 2.3 %(２カ月ぶり減少)、前年同月比で＋ 45.8 %(19 カ月連続増加)の 1,396 億 81 百万円となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内外需とも前⽉⽐で減少するも、前年同⽉⽐は＋ 37 %超と高い⽔準で推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そして下の帯グラフでは緑色の「自動車」を示す帯の幅（内需全体に占める自動車に比率）が、2023 年から 2025 年までに「21.1 ％」「20.6 ％」「19.8 ％」と低下していき、今年に入ってからの４カ月平均は「20.1 ％」と、日本の工作機械業界にとり自動車産業の比重は 20 %前後に落ち着いてきた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内需は前年比0・2%減の4408億6200万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は前年比11・5%増の1兆1634億5700万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016 年の工作機械受注額は、前年比▲15.6%の 1 兆 2,500 億円となった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "円（同▲15.5%）で、総額同様 2 年連続の減少となった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械の比重は 98.1%（同＋0.2pt）で、過去最高比率を前年に続き更新した",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の内訳をみると、内需は 5,305 億円（同▲9.5%）、外需は 7,195 億円（同▲19.6%）で、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需比率は同▲ 2.8pt の 57.6%に低下した",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別にみると、「一般機械」同▲ 6.6%（2,071 億円）、「自動車」同▲ 14.3%（1,749",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "億円）、「電気機械」同▲ 2.4%（263 億円）、「精密機械」同▲ 7.2%（196 億円）、「航空",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機・造船・その他輸送用機械」同▲ 3.4%（301 億円）等、全 11 業種中 10 業種で前年",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、前年比増 加した「商社・代理店」同＋ 7.4%（71 億円）は、リーマ",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016 年の外需は、前年比▲19.6%の 7,195 億円と、2 年連続で減少し、3 年ぶりの 8,000",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "地域別にみると、アジアは前年比▲ 35.3%の 2,869 億円で、このうち、東アジアは同",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▲33.1%（2,188 億円）、その他のアジアは同▲ 41.6%（682 億円）となった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "にみると、台湾は同▲ 27.9%（203 億円）、韓国は同▲ 17.4%（354 億円）、最大需要国",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "である中国は、同▲ 36.2%の 1,628 億円で 3 年ぶりの 2,000 億円割れとなった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国別では、EU 主要国のドイツが同▲ 7.5%（459 億円）、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "イギリスが同▲ 0.8%（222 億円）、フランス同▲16.0%（191 億円）と減少したものの、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政策効果が見られたイタリアで同＋ 9.3%（232 億円）、自動車関連投資に動きのあった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中欧が＋ 17.0%（187 億円）、その他の EU 同＋18.2%（273 億円）などは前年比増加し、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EU 全体でも同＋ 0.9%（1,564 億円）となった",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米は、同▲ 7.4%の 2,372 億円と、6 年連続で 2,000 億円を上回り、高水準の受注が",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データセンタの予備電源、冷却関連や半導体製造装置、発電に関する需要が依然活発で「一般機械」(211億円、3カ月連続の200億円超)や「電気・精密」(97億円、前年同月比＋192.6%、歴代3位)等の区分を押し上げた",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし前年同月比は＋71.0%と高く、全体的な活況に変化は見られない",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "〔日本工作機械工業会統計〕 （単位：百万円、カッコ内は前年比増減率％）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〔日本工作機械工業会・経済産業省機械統計〕",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（2026年5月分）確報 | ことラボSTI",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（2026年5月分）確報",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（一社）日本工作機械工業会（坂本繁友会長）は、６月 25 日、2026 年５月分の工作機械受注確報及び受注関連状況を発表した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【日工会受注に関する問い合わせ先】調査企画部 電話：03-3434-3961",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そもそも工業会が会員調査で来年の受注予測を発表することが談合につながるのではないか、と指摘もある",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年の工作機械受注修正見直し（６月５日公表）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "13年度 1,204,852 105.7 422,029 116.3 782,823 100.8 1,149,078 529,922 61,311 344 ,586 936,303 87.3 65,329 958,064 7,938 27,939 771,524 86.1 72,839 144.3 24 ,650 101.2",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "14年度 1,578,546 131.0 526,876 124.8 1,051,670 134.3 1,495,341 613,854 110,375 485,288 1,260,233 134.6 113,378 1,300,885 9,758 32,083 1,025,252 132.9 78,930 108.4 25,401 105.2",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "15年度 1,398,968 88.6 579,295 109.9 819,673 77.9 1,471,868 548,277 90,082 454,1 95 1,185,470 94.1 94,398 1,233,482 9,762 34,758 844,962 82.4 87,710 111.1 26,099 107.1",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 2．企業物価指数（日本銀行）90～94年は90年＝100、95～99年は95年＝100、00～04年は00年＝100、05～09年は05年＝100、10年以降は10年=100",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "財務省「貿易統計」資 料 （一社）日本工作機械工業会 経済産業省「生産動態統計調査」",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・JIMTOFのフォローアップや、年度内（3月末）納入に向けた受注増が寄与",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出所：日本工作機械工業会 ※ （ ）内は前年同月比",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※2015年調査より、「3.一般機械」 に （うち建設機械）、「7.航空機・造船・輸送用機械」に （うち航空機）を追加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※2015年調査より、「1.旋盤」を立て形、横形及び（うち複合加工機）、「5.研削盤」に（うち円筒研削盤）及び （うち平面研削 盤）、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※2015年調査より、「その他アジア」の内訳に、「フィリピン」、「インドネシア」、「ベトナム」、「ＥＵ」の内訳に、「うちその他」、",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（会長＝坂元繁友 芝浦機械社長）がこのほどまとめた2026年8月分の受注実績は以下の通り",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9 月上旬に会員企業を対象に実施した、本年第4 四半期に関する受注動向見通し調査のDI 値が＋8.7pt と増加するなど、年終盤においても引き続き高水準での受注が見込まれる",
+    "url": "https://seizougenba.com/node/14517",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "●昨2025年の受注総額は前年比6.4％",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "強まり、特に昨年後半は高水準で推移",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "●昨2025年の生産額は前年比6.5％増",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "受注が底堅く推移するため、",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〔2026年1月9日発表・暦年ベース〕",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械、 工作機器、 機械工具、 産業用ロボッ トの生産額の推移",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械受注高と前年同月比の推移（2000年1月〜25年10月）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022 23 24 25年（1-11月）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2010年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2011年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2012年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2013年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2014年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2015年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2016年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2019年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021年1月",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（2026年5月分）確報 | ことラボSTI",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（2026年5月分）確報",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年 07 月 01 日",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（一社）日本工作機械工業会（坂本繁友会長）は、６月 25 日、2026 年５月分の工作機械受注確報及び受注関連状況を発表した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月分工作機械受注確報及び受注関連状況について",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．2026 年５月の受注額(確報)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月の受注総額は、期末効果の剥落により前月比(▲ 2.3 %)で３カ月ぶりに減少したものの、２カ月連続で 1,800 億円を超え、３月(1,934 億 70 百万円)に次ぐ歴代２位の受注額となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比(＋ 45.1 %)の増加率はコロナ禍のペントアップ需要が盛んであった 2022 年１月以来４年３カ月ぶりに４割以上となり、10 カ月連続で増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は昨年 12 月以降の各月が歴代１～５位を占めるなど歴史的な高水準で推移しており、４月の受注額は２位に相当する",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(763 億円)は主要市場で唯一、４月も前月比で増加し、２カ月連続で過去最高額を更新した(２カ月連続の 750 億円超)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内外需とも前⽉⽐で減少するも、前年同⽉⽐は＋ 37 %超と高い⽔準で推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３カ⽉連続 400 億円超えと堅調な推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日工会が発行している『工作機械統計要覧』（通称・赤本）の 2025 年版で 2024 年のデータまでだが 1985 年から 2024 年までの 40 年を振り返る",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年までの 41 年で１兆円を超えたのは僅か 21 回",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・主な需要業種は、低調ながら前年よりやや高い⽔準で推移している",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「2026 年の受注額２兆円」は薄ぼんやりした工作機械業界へのカンフル剤としてはよくできている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・⼀般機械は、需要が⼀進⼀退で推移も、前年同期⽐よりやや⾼い⽔準（26 年平均は 150 億円）",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・建設機械は３カ⽉ぶりの 10 億円割れも、海外需要を受けて引き続き堅調に推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成 – 日本産機新聞",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年3月9日",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歴代4番目の受注総額となり、外需は過去最高額を記録した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米とアジアは、過去最高額を記録し、外需をけん引した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アジアは2年連続で5000億円を超え、中国とインドは過去最高となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米は自動車や航空・造船・輸送用機械を中心に増加し、過去最高額の3600億円を記録",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "欧州は、ドイツなどのEU（欧州連合）主要国が弱含みで推移し、2年連続で2000億円を下回った",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本産機新聞2026年3月5日号",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月6日",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月4日",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（付 2016年（暦年）工作機械受注実績の概要）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "13年度 1,204,852 105.7 422,029 116.3 782,823 100.8 1,149,078 529,922 61,311 344 ,586 936,303 87.3 65,329 958,064 7,938 27,939 771,524 86.1 72,839 144.3 24 ,650 101.2",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "14年度 1,578,546 131.0 526,876 124.8 1,051,670 134.3 1,495,341 613,854 110,375 485,288 1,260,233 134.6 113,378 1,300,885 9,758 32,083 1,025,252 132.9 78,930 108.4 25,401 105.2",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "15年度 1,398,968 88.6 579,295 109.9 819,673 77.9 1,471,868 548,277 90,082 454,1 95 1,185,470 94.1 94,398 1,233,482 9,762 34,758 844,962 82.4 87,710 111.1 26,099 107.1",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017.1.19",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "JIMTOF・Tokyo 2016効果継続",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017.1.19 (単位：百万円・％)",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４月 ５月 ６月 ７月３月2016年 １月 ２月",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "●昨2025年の受注総額は前年比6.4％",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増の１兆5800億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1000億円台を突破したようだ",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7000億円と見通す",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "●昨2025年の生産額は前年比6.5％増",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の9600億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．輸 入 〔財務省貿易統計〕 （単位：百万円、カッコ内は前年比増減率％）",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "●昨2025年の輸出額は前年比9.0％増",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の8300億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "●昨2025年の輸入額は前年比11.2％",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "減の700億円となったもよう",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "01年 788,898百万円",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "02年 675,837百万円",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "03年 851,101百万円",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "04年 1,236,192百万円",
+    "url": "https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年５月の受注総額は、期末効果の剥落により前月比(▲ 2.3 %)で３カ月ぶりに減少したものの、２カ月連続で 1,800 億円を超え、３月(1,934 億 70 百万円)に次ぐ歴代２位の受注額となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比(＋ 45.1 %)の増加率はコロナ禍のペントアップ需要が盛んであった 2022 年１月以来４年３カ月ぶりに４割以上となり、10 カ月連続で増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このうち内需は、前月比で▲ 2.4 %(３カ月ぶり減少)、前年同月比で＋ 43.4 %(４カ月 連続増加)の 492 億 86 百万円で、昨年下期(364 億円)、本年第１四半期(401 億円)の平均受注額を大きく上回った",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "」(157 億円)や「電気・精密」(78 億円)では、データセンタに関連した、予備電源、液冷循環ポンプやバルブ、免振装置、流体軸受等の加工需要が広く見受けられる他、半導体製造装置や各種発電に関連した需要も高まっている",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "」(113 億円)はモデルチェンジ需要の高まりから 13 カ月ぶりに 100 億円を超えた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "」(38 億円)は鉄道関連のスポット受注もあり７カ月ぶりに 35 億円を超えた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は、前月比で▲ 2.3 %(２カ月ぶり減少)、前年同月比で＋ 45.8 %(19 カ月連続増加)の 1,396 億 81 百万円となった",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(203 億円)は航空機や商社・現法でのストック増強が堅調で、前月比で３カ月ぶりに減少したものの、２カ月連続で 200 億円を上回った",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(763 億円)は主要市場で唯一、４月も前月比で増加し、２カ月連続で過去最高額を更新した(２カ月連続の 750 億円超)",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "も３カ月連続で 70 億円を超えた",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はドイツでの受注額がこのところ40億円前後で持続するなど復調しつつあり、イタリアやスペイン等でも設備案件が増加傾向にある",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "受注総額で、15 カ⽉連続の 1,200 億円超え、歴代４番⽬に高い⽔準",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内外需とも前⽉⽐で減少するも、前年同⽉⽐は＋ 37 %超と高い⽔準で推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前⽉⽐２カ⽉連続の減少も、前年同⽉⽐は５カ⽉連続で増加",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３カ⽉連続 400 億円超えと堅調な推移",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前⽉⽐は２カ⽉連続減少、前年同⽉⽐では 20 カ⽉連続増加",
+    "url": "https://kotolabosti.co.jp/report/topics/8669/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成 – 日本産機新聞",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "工作機械 2025年受注 1兆6000億円超え、外需は過去最高額を達成",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "坂元会長は「年終盤の押し上げもあり、当初の見通しであった1兆6000億円を達成した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内需は前年比0・2%減の4408億6200万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自動車や一般機械などの主要4業種は、「航空・造船・輸送用機械」のみが増加となり、それ以外は減少した",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外需は前年比11・5%増の1兆1634億5700万円となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アジアは2年連続で5000億円を超え、中国とインドは過去最高となった",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中国はEV（電気自動車）やIT関連投資により、2年連続で3000億円を上回った",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "北米は自動車や航空・造船・輸送用機械を中心に増加し、過去最高額の3600億円を記録",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "欧州は、ドイツなどのEU（欧州連合）主要国が弱含みで推移し、2年連続で2000億円を下回った",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年の工作機械受注額は、1兆7000億円を見通す",
+    "url": "https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2カ月連続600億円超で年間最高額",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017.1.19 (単位：百万円・％)",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(注)当月又は前年実績値が「マイナス」及び「０」の場合、もしくは実績値の無い場合は、前年比の表示を「-」とする",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "受注総額は、 9カ月ぶりの1,100億円超",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年末の欧米地域の受注増が寄与し、17カ月ぶりの前年同月比増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "12月は増加するも、今後の為替動向や各種政策に関連する動きを注視",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）内需 459.8億円 （前月比 ＋2.3％ 前年同月比 ＋8.0％）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "主要3極はすべて前月比増加し、7カ月ぶりの650億円超",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比は19カ月ぶりの増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前月比 ＋3.7％ （2カ月連続増加）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前年同月比 ＋4.4％ （17カ月ぶり増加）1,118.8億円",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）外需 659.0億円 （前月比 ＋4.7％ 前年同月比 ＋2.0％）",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3カ月ぶりの450億円超",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "JIMTOFのフォローアップ効果もあり、11カ月ぶりの前年同月比増加",
+    "url": "https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T03:10:34.573923+00:00"
+}

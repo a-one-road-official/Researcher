@@ -1,0 +1,1261 @@
+# 設備投資の実施割合・金額・機械受注の推移（規模別・業種別・目的別）（事実のみ・12品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 中小製造業の設備投資実施割合（日本政策金融公庫 中小製造業設備投資動向調査 2026年）（JFC SME manufacturing capital investment survey 2026 share of firms investing）
+- 文脈：一次・公庫・最新
+- 実施割合・計画割合：
+  - 「鉄 鋼 7.2 34.2% 24.0% 27.0% 14.8%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「非 鉄 金 属 0.0 29.1% 23.4% 29.1% 18.4%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「金 属 製 品 8.7 34.1% 23.4% 25.4% 17.0%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「は ん 用 機 械 8.1 32.2% 26.4% 24.1% 17.2%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「生 産 用 機 械 6.8 35.1% 18.2% 28.3% 18.5%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「業 務 用 機 械 7.0 30.7% 16.3% 23.7% 29.3%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「電 気 機 器 10.8 29.1% 22.2% 18.3% 30.5%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「輸 送 用 機 器 10.9 34.4% 20.8% 23.5% 21.3%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「化 学 7.5 33.3% 24.2% 25.8% 16.7%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「パ ル プ ・ 紙 1.6 27.7% 20.4% 26.1% 25.8%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「窯 業 ・ 土 石 8.3 31.5% 28.2% 23.2% 17.1%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「繊 維 ・ 繊 維 製 品 1.8 22.4% 23.8% 20.6% 33.2%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「木 材 ・ 木 製 品 9.3 34.9% 18.9% 25.6% 20.6%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「食 料 品 8.7 33.3% 24.2% 24.6% 17.9%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「印 刷 ・ 同 関 連 ▲ 1.2 29.9% 18.9% 31.1% 20.1%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 金額・前年比：
+  - 「１．国内設備投資額」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績 2024年度実績比 3.5％減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２．国内設備投資額」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績比 1.7％増加」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（2025年度当初計画比 6.8％増加）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「１． 2025 年度の国内設備投資額の実績は、 2024 年度実績比 3.5％減少 となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「実績比でみると、 2年ぶりの減少である」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「上半期、下半期別では、上半期は前年同期比 9.5％減少 、下半期は同 2.0％増加」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２． 2026 年度の国内設備投資額の当初計画は、 2025 年度実績比 1.7％増加 となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「度実績比でみると、 4年ぶりの増加である」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「上半期、下半期別では、上半期は前年同期比 10.3％増加 、下半期は同 5.3％減少と」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「なお、 2026 年度当初計画を 2025 年度当初計画と比べると、 6.8％増加となっている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026 年度当初計画では、 17 業種中 10 業種で増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 規模別・業種別：
+  - 「把握した全国の従業員 20人以上 300人未満の中小製造業 55,356社」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「中小企業研究第一グループ（担当：真瀬、葛貫）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「「はん用機械」「パルプ・紙」「業務用機械」などが減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「「はん用機械」「パルプ・紙」「業務用機械」などが減少している」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「４． 企業規模別にみる と、2025 年度実績では従業員数 20 人～ 49 人、 200 人～ 299 人の規模で、」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「資料：日本政策金融公庫総合研究所「全国中小企業動向調査（中小企業編）」」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「表－３ 業種別設備投資動向」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２ 横軸は、 2024年度実績における業種別構成比」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２ 横軸は、 2025年度実績 における業種別構成比」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「-6.7 生産用 機械」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「表－４ 規模別設備投資動向」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（参考）業種別の設備投資額の目的別構成比－ 2025年度実績」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（参考）業種別の設備投資額の目的別構成比－2026年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 目的別：
+  - 「４．目的別動向 2025年度実績、2026年度当初計画ともに、「更新、維持・補修」」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「６． 投資目的をみると、 2025 年度実績では「更新、維持・補修」の構成比が 17 年連続で」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「一方で、「能力拡充」の構成比は前年度実績の構成比と比べて 3年ぶりに上昇した」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026 年度当初計画では、「更新、維持・補修」の構成比が引き続き最も高いものの、」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「新製品の生産、」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「更新、維持・補修」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「(37.8) 能力拡充」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「その他 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止 省エネ」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「省エネ その他 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「種では更新や維持、 補修のための投資が減っており、 老朽化への対応が一巡した様子もうかがえます」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「足や生産性向上に対応するための省力化投資が進められ、4 年連続の増加となりました」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「度実績では、 「更新、維持・補修」 （35.2％）が」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「「能力拡充」 （30.3％） は、 2024 年度 （25.1％）から」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「となり、能力増強に向けた動きがみられます」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「また、 「省力化・合理化」 （14.7％）が「新製」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+- 推移：
+  - 「2026 年 6 月 25 日」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績・2026年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026年4月上旬」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績 2024年度実績比 3.5％減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026 年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績比 1.7％増加」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（2025年度当初計画比 6.8％増加）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026年度当初計画では、2025年度実績と比べて17業種中10業種で」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「４．目的別動向 2025年度実績、2026年度当初計画ともに、「更新、維持・補修」」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（2025年度実績35.2％、2026年度当初計画32.7％）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「１． 2025 年度の国内設備投資額の実績は、 2024 年度実績比 3.5％減少 となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２． 2026 年度の国内設備投資額の当初計画は、 2025 年度実績比 1.7％増加 となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「なお、 2026 年度当初計画を 2025 年度当初計画と比べると、 6.8％増加となっている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 調査主体・時期：
+  - 「第134回中小製造業設備投資動向調査結果」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績・2026年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「１.調査対象（母集団）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２.調査方法」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「調査対象に調査票を送付、自社記入のうえ返送を受けた」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「設備投資額については、返送された調査票をもとに母集団推計を」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３.有効回答企業数」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「有効回答数 7,744社（回答率 25.8％ ）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「４.調査時点」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績 2024年度実績比 3.5％減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026 年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績比 1.7％増加」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（2025年度当初計画比 6.8％増加）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026年度当初計画では、2025年度実績と比べて17業種中10業種で」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 検索結果の抜粋：
+  - 「第134回 中小製造業設備投資動向調査 結果 - 日本政策金融公庫 — 第134回 中小製造業設備投資動向調査 結果 - 日本政策金融公庫 日本政策金融公庫 PDF https://www.jfc.go.jp > findings > pdf > news2026_6b」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「第134回 中小製造業設備投資動向調査結果 - 日本政策金融公庫 — 第134回 中小製造業設備投資動向調査結果 - 日本政策金融公庫 日本政策金融公庫 PDF https://www.jfc.go.jp > findings > pdf > news2026_6b」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 機械受注：記載なし（読んだ18頁・検索11回）
+
+## 中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文）（JFC SME manufacturing capex survey 2026 detail）
+- 文脈：一次・公庫・最新
+- 実施割合・計画割合：
+  - 「図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 2025年度に海外拠点へ設備投資を実施した企業割合をみると、全規模は 26.5％ と、 2024年度実績（ 23.5％ ）から上昇した」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「（注）１ 「海外拠点があり設備投資を実施」と回答した企業の海外での設備投資の延べ件数を国・地域別に 集計、延べ投資件数全体に対する割合を求めたもの」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「「海外拠点あり」と回答した企業のうち、海外拠点への設備投資実施割合をみると、2025 年度」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「図－4  海外拠点への設備投資実施割合」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「図－5 国・地域別にみた設備投資実施割合」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「（注）１ 「海外拠点があり設備投資を実施」と回答した企業の海外で」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「鉄 鋼 7.2 34.2% 24.0% 27.0% 14.8%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「非 鉄 金 属 0.0 29.1% 23.4% 29.1% 18.4%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「金 属 製 品 8.7 34.1% 23.4% 25.4% 17.0%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「は ん 用 機 械 8.1 32.2% 26.4% 24.1% 17.2%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「生 産 用 機 械 6.8 35.1% 18.2% 28.3% 18.5%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「業 務 用 機 械 7.0 30.7% 16.3% 23.7% 29.3%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「電 気 機 器 10.8 29.1% 22.2% 18.3% 30.5%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「輸 送 用 機 器 10.9 34.4% 20.8% 23.5% 21.3%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 金額・前年比：
+  - 「○ 国内設備投資額の2025年度実績は、2024年度実績に比べて3.5％減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 国内設備投資額の2026年度当初計画は、2025年度実績に比べて1.7％増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「2025年度当初計画比では、6.8％増加となっている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「１ 国内設備投資額の2025年度実績・2026年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「（注）１ 本調査では、百万円単位で集計を行っている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「３ 設備投資額の増減率は、母集団の変更に伴い再推計を行ったうえで算出している」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 2025年度実績は、2024年度実績に比べて3.5％減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 2026年度当初計画は、2025年度実績に比べて1.7％増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「6.8％増加となっている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 2025年度実績では、 2024年度実績に比べて、全 17業種中 13業種で減少した」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 2026年度当初計画では、 2025年度実績に比べて、 10業種で増加した」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「図－３ 設備投資額の目的別構成比の推移」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「（参考）設備投資額の目的別増減率（ 2025 年度当初計画比）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「2025 年度の国内設備投資額の実績は減少」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+- 規模別・業種別：
+  - 「総務省事業所母集団データベース（令和 5年次フレーム）をもとに把握した全国の従業員 20人以上300人未満の」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「日本政策金融公庫 総合研究所 中小企業研究第一グループ Tel：03-3270-1763（担当：真瀬、葛貫）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「２ 業種別設備投資動向」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「図－２ 業種別設備投資動向」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「２ 横軸は、2024年度実績における業種別構成比」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「従業員規模別では、 20～49 人を除くすべての規模で上昇した」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「日本政策金融公庫 総合研究所 中小企業研究グループ」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「次に、 実績と当初計画を業種別にみていきます」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「減少率が高い 「はん用機械」 （-36.4％） や 「パルプ ・ 紙」 （-27.5％） 、」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「サプライチェーンの混乱から減産の懸念がある「輸送用機器」 （-20.6％）など、中東情勢の影響を受」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「図－2 業種別増減率および構成比」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「（注）２ 横軸は、2025年度実績における業種別構成比」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「（注）２ 横軸は、2024年度実績における業種別構成比」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「把握した全国の従業員 20人以上 300人未満の中小製造業 55,356社」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 目的別：
+  - 「○ 2025年度実績の設備投資の目的をみると、「更新、維持・補修」の割合が 35.2％と最も高く、次いで「能力拡充」（30 .3％）、」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「「省力化・合理化」（ 14.7％）の順となっている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 2026年度当初計画では、「能力拡充」や「省力化・合理化」、「新製品の生産、新規事業への進出、研究開発」などの 割合が」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「新製品の生産、」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「能力拡充 (26.1)」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「更新、維持・補修」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「種では更新や維持、 補修のための投資が減っており、 老朽化への対応が一巡した様子もうかがえます」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「足や生産性向上に対応するための省力化投資が進められ、4 年連続の増加となりました」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「度実績では、 「更新、維持・補修」 （35.2％）が」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「「能力拡充」 （30.3％） は、 2024 年度 （25.1％）から」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「となり、能力増強に向けた動きがみられます」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「また、 「省力化・合理化」 （14.7％）が「新製」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「品の生産 、新規事業への進出 、研究開発」」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「禍から回復するなかで人手不足が顕在化してお」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「いて「更新、 維持 ・ 補修」 （32.7％）が低下し、 「能」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+- 機械受注：
+  - 「2026年の製造業の景気を、日銀短観、鉱工業生産、機械受注、工作機械・ロボット受注、設備投資計画の最新統計で整理」（https://monoscope-media.com/capex-plan-2026-manufacturing-survey/）
+  - 「8月の機械受注は5.2%増｜電子計算機等が前年比7割増、設備投資の先行指標を読む」（https://monoscope-media.com/capex-plan-2026-manufacturing-survey/）
+- 推移：
+  - 「2026年4月上旬」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「2025年度実績・2026年度当初計画（4月調査）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 国内設備投資額の2025年度実績は、2024年度実績に比べて3.5％減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 国内設備投資額の2026年度当初計画は、2025年度実績に比べて1.7％増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「2025年度当初計画比では、6.8％増加となっている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「１ 国内設備投資額の2025年度実績・2026年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「金 額 増減率 金 額 増減率 金 額 増減率 金 額 2026当初計画2025当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「２ 増減率は、特段の断りがない限り、前年度同期実績に対するものであり、小数第 2位を四捨五入して表示している（以下同じ）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「２ 母集団は、2021年度実績までは工業統計調査、 2022年度実績以降は事業所母集団データベースに」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 2025年度実績は、2024年度実績に比べて3.5％減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 2026年度当初計画は、2025年度実績に比べて1.7％増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「なお、前年同時期に策定された2025年度当初計画比では、」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「2024年度実績 2025年度実績 2026年度当初計画 （参考）2025年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「2026年度」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+- 調査主体・時期：
+  - 「調査票を発送し、自社記入のうえ、返送を受けた調査票をもとに母集団推計を行った」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「発送数30,000社のうち、有効回答数7,744社」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「第134回中小製造業設備投資動向調査・要約版」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「2025年度実績・2026年度当初計画（4月調査）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「日本政策金融公庫 総合研究所 中小企業研究第一グループ Tel：03-3270-1763（担当：真瀬、葛貫）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 国内設備投資額の2025年度実績は、2024年度実績に比べて3.5％減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 国内設備投資額の2026年度当初計画は、2025年度実績に比べて1.7％増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「2025年度当初計画比では、6.8％増加となっている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「※調査の全文につきましては、こちらをご覧ください」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「１ 国内設備投資額の2025年度実績・2026年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「（注）１ 本調査では、百万円単位で集計を行っている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「２ 増減率は、特段の断りがない限り、前年度同期実績に対するものであり、小数第 2位を四捨五入して表示している（以下同じ）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「２ 母集団は、2021年度実績までは工業統計調査、 2022年度実績以降は事業所母集団データベースに」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+  - 「○ 2025年度実績は、2024年度実績に比べて3.5％減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf）
+- 検索結果の抜粋：
+  - 「第134回 中小製造業設備投資 動向調査結果 - 日本政策金融公庫 — 第134回 中小製造業設備投資 動向調査結果 - 日本政策金融公庫 日本政策金融公庫 PDF https://www.jfc.go.jp > findings > pdf > news2026_6b」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「第134回 中小製造業設備投資 動向 調査結果 - 日本政策金融公庫 — 第134回 中小製造業設備投資 動向 調査結果 - 日本政策金融公庫 日本政策金融公庫 PDF https://www.jfc.go.jp > findings > pdf > news2026_6b」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+
+## 中小製造業の設備投資実施割合（日本政策金融公庫 2025年）（JFC SME manufacturing capex survey 2025）
+- 文脈：一次・公庫・前年
+- 実施割合・計画割合：
+  - 「鉄 鋼 2.0 32.5% 23.2% 30.5% 13.8%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「非 鉄 金 属 5.9 33.8% 24.3% 27.9% 14.0%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「金 属 製 品 1.3 28.9% 25.0% 27.6% 18.5%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「は ん 用 機 械 3.9 34.1% 20.2% 30.2% 15.5%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「生 産 用 機 械 1.7 30.6% 19.2% 28.9% 21.2%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「業 務 用 機 械 ▲ 0.9 29.7% 17.6% 30.6% 22.1%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「電 気 機 器 1.7 25.4% 19.1% 23.7% 31.8%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「輸 送 用 機 器 7.7 32.9% 23.8% 25.2% 18.1%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「化 学 6.0 32.3% 27.4% 26.3% 13.9%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「パ ル プ ・ 紙 0.0 29.0% 15.9% 29.0% 26.2%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「窯 業 ・ 土 石 4.3 30.4% 28.5% 26.1% 15.0%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「繊 維 ・ 繊 維 製 品 3.1 23.1% 22.0% 20.0% 34.9%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「木 材 ・ 木 製 品 ▲ 2.3 27.1% 20.8% 29.4% 22.8%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「食 料 品 6.3 31.9% 23.5% 25.6% 18.9%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「印 刷 ・ 同 関 連 1.5 29.9% 17.9% 28.4% 23.9%」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+- 金額・前年比：
+  - 「１．国内設備投資額」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2024年度実績 2023年度実績比 8.4％増加」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「２．国内設備投資額」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2024年度実績比 8.1％減少」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「（2024年度当初計画比 0.8％増加）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「３．業種別動向 2024年度実績では、17業種中12業種で増加」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2025年度当初計画では、17業種中12業種で減少」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「１． 2024 年度の国内設備投資額の実績は、 2023 年度実績比 8.4％増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「上半期、下半期別では、上半期は前年同期比 10.3％増加、下半期は同 6.8％増加」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「２． 2025 年度の国内設備投資額の当初計画は、 2024 年度実績比 8.1％減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「度実績比でみると、 3年連続の減少である（ 2023 年度当初計画は 2022 年度実績比 4.9％」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「減少、 2024 年度当初計画は 2023 年度実績比 1.2％減少）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「上半期、下半期別では、上半期は前年同期比 7.9％減少、下半期は同 8.3％減少と」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「なお、 2025 年度当初計画を 2024 年度当初計画と比べると、 0.8％増加となっている」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「３． 業種別にみると、 2024 年度実績では、 17 業種中 12 業種で増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+- 規模別・業種別：
+  - 「把握した全国の従業員 20人以上 300人未満の中小製造業 55,633社」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「中小企業研究第一グループ（担当：真瀬、立澤）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「３．業種別動向 2024年度実績では、17業種中12業種で増加」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「「金属製品」「パルプ・紙・紙加工」「鉄鋼」などが減少」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「３． 業種別にみると、 2024 年度実績では、 17 業種中 12 業種で増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「増加の寄与度は「食料品」「輸送用機器」「はん用機械」などで大きかった」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「４． 企業規模別にみる と、2024 年度実績では従業員数 200 人～ 299 人を除くすべての規模で、」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「資料：日本政策金融公庫総合研究所「全国中小企業動向調査（中小企業編）」」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「表－３ 業種別設備投資動向」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「２ 横軸は、 2023年度実績における業種別構成比」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「２ 横軸は、 2024年度実績 における業種別構成比」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「-21.4 はん用」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「表－４ 規模別設備投資動向」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「（参考）業種別の設備投資額の目的別構成比－ 2024年度実績」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「（参考）業種別の設備投資額の目的別構成比－ 2025年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+- 目的別：
+  - 「４．目的別動向 2024年度実績、2025年度当初計画ともに、「更新、維持・補修」」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「６． 投資目的をみると、 2024 年度実績では、「更新、維持・補修」投資の構成比が」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「また、「能力拡充」投資の構成比が」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2025 年度当初計画では、「更新、維持・補修」投資の構成比が引き続き最も」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「年 度 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・ 補修 公害防止 省エネ その他 全 体」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「更新、維持・補修」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「年度 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止 省エネ その他」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「その他 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止 省エネ」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「省エネ その他 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「○ 2024年度実績の設備投資の目的をみると、「更新、維持・補修」の割合が 37.2％と最も高く、次いで「能力拡充」（ 25.1％）、」（https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf）
+  - 「「新製品の生産、新規事業への進出、研究開発」（ 16.8％）の順となっている」（https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf）
+  - 「○ 2025年度当初計画では、「更新、維持・補修」や「能力拡充」、「省力化・合理化」などの割合が上昇している」（https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf）
+  - 「進出、研究開発」（https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf）
+  - 「更新、維持・補修」（https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf）
+  - 「種では更新や維持、 補修のための投資が減っており、 老朽化への対応が一巡した様子もうかがえます」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+- 推移：
+  - 「2025 年 6 月 24 日」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2024年度実績・2025年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2025年4月上旬」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「４．目的別動向 2024年度実績、2025年度当初計画ともに、「更新、維持・補修」」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「（2024年度実績37.2％、2025年度当初計画37.8％）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2024年度実績 2023年度実績比 8.4％増加」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2025 年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2024年度実績比 8.1％減少」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「（2024年度当初計画比 0.8％増加）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「３．業種別動向 2024年度実績では、17業種中12業種で増加」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2025年度当初計画では、17業種中12業種で減少」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「１． 2024 年度の国内設備投資額の実績は、 2023 年度実績比 8.4％増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「２． 2025 年度の国内設備投資額の当初計画は、 2024 年度実績比 8.1％減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「度実績比でみると、 3年連続の減少である（ 2023 年度当初計画は 2022 年度実績比 4.9％」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「減少、 2024 年度当初計画は 2023 年度実績比 1.2％減少）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+- 調査主体・時期：
+  - 「第132回中小製造業設備投資動向調査結果」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2024年度実績・2025年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「１.調査対象（母集団）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「２.調査方法」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「調査対象に調査票を送付、自社記入のうえ返送を受けた」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「設備投資額については、返送された調査票をもとに母集団推計を」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「３.有効回答企業数」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「有効回答数7,298社（回答率：24.3％）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「４.調査時点」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「４．目的別動向 2024年度実績、2025年度当初計画ともに、「更新、維持・補修」」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「（2024年度実績37.2％、2025年度当初計画37.8％）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2024年度実績 2023年度実績比 8.4％増加」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2025 年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「2024年度実績比 8.1％減少」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+  - 「（2024年度当初計画比 0.8％増加）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06b.pdf）
+- 機械受注：記載なし（読んだ25頁・検索11回）
+
+## 中小製造業の設備投資実施割合の長期推移（日本政策金融公庫 2010〜2026年）（JFC SME manufacturing capex share of firms investing time series）
+- 文脈：一次・公庫・推移
+- 実施割合・計画割合：
+  - 「鉄 鋼 7.2 34.2% 24.0% 27.0% 14.8%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「非 鉄 金 属 0.0 29.1% 23.4% 29.1% 18.4%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「金 属 製 品 8.7 34.1% 23.4% 25.4% 17.0%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「は ん 用 機 械 8.1 32.2% 26.4% 24.1% 17.2%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「生 産 用 機 械 6.8 35.1% 18.2% 28.3% 18.5%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「業 務 用 機 械 7.0 30.7% 16.3% 23.7% 29.3%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「電 気 機 器 10.8 29.1% 22.2% 18.3% 30.5%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「輸 送 用 機 器 10.9 34.4% 20.8% 23.5% 21.3%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「化 学 7.5 33.3% 24.2% 25.8% 16.7%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「パ ル プ ・ 紙 1.6 27.7% 20.4% 26.1% 25.8%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「窯 業 ・ 土 石 8.3 31.5% 28.2% 23.2% 17.1%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「繊 維 ・ 繊 維 製 品 1.8 22.4% 23.8% 20.6% 33.2%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「木 材 ・ 木 製 品 9.3 34.9% 18.9% 25.6% 20.6%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「食 料 品 8.7 33.3% 24.2% 24.6% 17.9%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「印 刷 ・ 同 関 連 ▲ 1.2 29.9% 18.9% 31.1% 20.1%」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 金額・前年比：
+  - 「１．国内設備投資額」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績 2024年度実績比 3.5％減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２．国内設備投資額」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績比 1.7％増加」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（2025年度当初計画比 6.8％増加）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「１． 2025 年度の国内設備投資額の実績は、 2024 年度実績比 3.5％減少 となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「実績比でみると、 2年ぶりの減少である」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「上半期、下半期別では、上半期は前年同期比 9.5％減少 、下半期は同 2.0％増加」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２． 2026 年度の国内設備投資額の当初計画は、 2025 年度実績比 1.7％増加 となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「度実績比でみると、 4年ぶりの増加である」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「上半期、下半期別では、上半期は前年同期比 10.3％増加 、下半期は同 5.3％減少と」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「なお、 2026 年度当初計画を 2025 年度当初計画と比べると、 6.8％増加となっている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026 年度当初計画では、 17 業種中 10 業種で増加となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 規模別・業種別：
+  - 「把握した全国の従業員 20人以上 300人未満の中小製造業 55,356社」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「中小企業研究第一グループ（担当：真瀬、葛貫）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「「はん用機械」「パルプ・紙」「業務用機械」などが減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「「はん用機械」「パルプ・紙」「業務用機械」などが減少している」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「４． 企業規模別にみる と、2025 年度実績では従業員数 20 人～ 49 人、 200 人～ 299 人の規模で、」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「資料：日本政策金融公庫総合研究所「全国中小企業動向調査（中小企業編）」」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「表－３ 業種別設備投資動向」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２ 横軸は、 2024年度実績における業種別構成比」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２ 横軸は、 2025年度実績 における業種別構成比」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「-6.7 生産用 機械」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「表－４ 規模別設備投資動向」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（参考）業種別の設備投資額の目的別構成比－ 2025年度実績」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（参考）業種別の設備投資額の目的別構成比－2026年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 目的別：
+  - 「４．目的別動向 2025年度実績、2026年度当初計画ともに、「更新、維持・補修」」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「６． 投資目的をみると、 2025 年度実績では「更新、維持・補修」の構成比が 17 年連続で」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「一方で、「能力拡充」の構成比は前年度実績の構成比と比べて 3年ぶりに上昇した」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026 年度当初計画では、「更新、維持・補修」の構成比が引き続き最も高いものの、」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「新製品の生産、」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「更新、維持・補修」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「(37.8) 能力拡充」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「その他 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止 省エネ」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「省エネ その他 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「種では更新や維持、 補修のための投資が減っており、 老朽化への対応が一巡した様子もうかがえます」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「足や生産性向上に対応するための省力化投資が進められ、4 年連続の増加となりました」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「度実績では、 「更新、維持・補修」 （35.2％）が」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「「能力拡充」 （30.3％） は、 2024 年度 （25.1％）から」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「となり、能力増強に向けた動きがみられます」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+  - 「また、 「省力化・合理化」 （14.7％）が「新製」（https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf）
+- 推移：
+  - 「2026 年 6 月 25 日」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績・2026年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026年4月上旬」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績 2024年度実績比 3.5％減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026 年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績比 1.7％増加」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（2025年度当初計画比 6.8％増加）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026年度当初計画では、2025年度実績と比べて17業種中10業種で」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「４．目的別動向 2025年度実績、2026年度当初計画ともに、「更新、維持・補修」」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（2025年度実績35.2％、2026年度当初計画32.7％）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「１． 2025 年度の国内設備投資額の実績は、 2024 年度実績比 3.5％減少 となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２． 2026 年度の国内設備投資額の当初計画は、 2025 年度実績比 1.7％増加 となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「なお、 2026 年度当初計画を 2025 年度当初計画と比べると、 6.8％増加となっている」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 調査主体・時期：
+  - 「第134回中小製造業設備投資動向調査結果」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績・2026年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「１.調査対象（母集団）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「２.調査方法」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「調査対象に調査票を送付、自社記入のうえ返送を受けた」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「設備投資額については、返送された調査票をもとに母集団推計を」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３.有効回答企業数」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「有効回答数 7,744社（回答率 25.8％ ）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「４.調査時点」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績 2024年度実績比 3.5％減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026 年度当初計画」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2025年度実績比 1.7％増加」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「（2025年度当初計画比 6.8％増加）」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+  - 「2026年度当初計画では、2025年度実績と比べて17業種中10業種で」（https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf）
+- 機械受注：記載なし（読んだ20頁・検索11回）
+
+## 中小企業の設備投資計画（商工中金 中小企業設備投資動向調査）（Shoko Chukin SME capital investment survey）
+- 文脈：一次・商工中金
+- 実施割合・計画割合：
+  - 「設備投資実施「有」企業割合は、2025年度実績で全体の66.3%、2026年度修正計画で59.3%と高水準が継続」（https://www.shokochukin.co.jp/report/investment/）
+  - 「設備投資額の増減率をみると、全産業の2025年度実績は+14.3%」（https://www.shokochukin.co.jp/report/investment/）
+  - 「2026年修正計画は▲10.3%」（https://www.shokochukin.co.jp/report/investment/）
+  - 「業種別では2025年実績で製造業+7.3%」（https://www.shokochukin.co.jp/report/investment/）
+  - 「非製造業+20.0%と、非製造業の伸びがけん引した」（https://www.shokochukin.co.jp/report/investment/）
+  - 「. When adding those with "plans" (2.1%) and those "interested" (15.6%),」（https://note.com/bunseki2531/n/nfb481878207c?hl=en）
+  - 「about 30%」（https://note.com/bunseki2531/n/nfb481878207c?hl=en）
+  - 「from the previous survey in 2018 (11.3%). The percentage of companies with withdrawal experience is 3.2%, and those with no plans for future expansion has increased to 77.2%.」（https://note.com/bunseki2531/n/nfb481878207c?hl=en）
+  - 「around 10%」（https://note.com/bunseki2531/n/nfb481878207c?hl=en）
+  - 「for non-manufacturing (all-industry average 14.4%), with manufacturing being significantly higher. Even within manufacturing, the ratio of companies with a track record of overseas expansion is on a downward trend (manufacturing: 19.3% → 15.2%), with a particularly large decline in iron and non-ferrous metals (28.8% → 10.2%).」（https://note.com/bunseki2531/n/nfb481878207c?hl=en）
+  - 「, followed by North America (28.7%) and China (27.4%).」（https://note.com/bunseki2531/n/nfb481878207c?hl=en）
+  - 「In the distribution of when overseas expansion began, while 8.3% of companies started before the 1970s, there has been a gradual increase in the 1990s (18.8%), 2000s (27.1%), and 2010s (27.1%).」（https://note.com/bunseki2531/n/nfb481878207c?hl=en）
+  - 「. The most sought-after support measure is "subsidies/grants" (13.7%).」（https://note.com/bunseki2531/n/nfb481878207c?hl=en）
+  - 「of all SMEs are actually expanding. Retreat in expansion The expansion rate dropped from **11.3% to 8.9%** between 2018 and 2025. Talent shortage The top challenge is」（https://note.com/bunseki2531/n/nfb481878207c?hl=en）
+  - 「(32.9%). China risk China is currently the top destination, but interest is shifting to Vietnam and North America. Delay in EC utilization Cross-border EC utilization rate is at a very low level of **4.5%**.」（https://note.com/bunseki2531/n/nfb481878207c?hl=en）
+- 金額・前年比：
+  - 「2.設備投資の目的…情報化関連が増加」（https://www.shokochukin.co.jp/report/investment/）
+  - 「3.設備投資額の増減率…引き続き増加、非製造業の伸びがけん引」（https://www.shokochukin.co.jp/report/investment/）
+  - 「設備投資額の増減率をみると、全産業の2025年度実績は+14.3%」（https://www.shokochukin.co.jp/report/investment/）
+- 規模別・業種別：
+  - 「当金庫では年2回、中小企業の設備投資動向についての調査実施しています」（https://www.shokochukin.co.jp/report/investment/）
+  - 「業種別では2025年実績で製造業+7.3%」（https://www.shokochukin.co.jp/report/investment/）
+  - 「中小企業設備投資動向調査（2026年7月調査）(PDF：1.1MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業設備投資動向調査（2026年1月調査）(PDF：1.1MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業の生成AIの利用にかかる調査（2026年1月調査）(PDF：1.8MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「「中小企業における取適法の影響と取組」の公表について（商工中金景況調査＜2026年2月・トピックス調査分＞）(PDF：1.0MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「「【詳細版】中小企業の賃上げの動向について」の公表（商工中金景況調査＜2025年11月調査・トピックス調査分＞)(PDF：1.4MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「【速報版】「中小企業の賃上げの動向について」の公表（商工中金景況調査<2025年11月・トピックス調査分>）(PDF：1.1MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「「中小企業の人材戦略」の公表について（商工中金景況調査＜2025年8月調査・トピックス調査分＞)(PDF：1.4MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業のカーボンニュートラルに関する意識調査（2025年7月）(PDF：1.4MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「「中小企業の企業理念等について」の公表（商工中金景況調査<2025年5月・トピックス調査分>）(PDF：1.5MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業の事業戦略・成長戦略について（2025年2月）(PDF：1.5MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業の海外進出・輸出に関する調査（2025年1月調査）(PDF：2.0MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業設備投資動向調査（2025年1月）(PDF：1.1MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「【詳細版】中小企業の賃上げの動向について（商工中金景況調査＜ 2024年11月・トピックス調査分＞) (PDF：7.1MB)」（https://www.shokochukin.co.jp/report/data/）
+- 目的別：
+  - 「中小企業の人手不足に対する意識調査（2018年7月調査）」（https://www.shokochukin.co.jp/report/research/）
+- 推移：
+  - 「最新の調査（2026年7月調査）」（https://www.shokochukin.co.jp/report/investment/）
+  - 「時系列データ（Excel：67.3KB）」（https://www.shokochukin.co.jp/report/investment/）
+  - 「1.設備投資「有」比率…2025年度実績は高水準、2026年度修正計画も近年の同時点を上回る」（https://www.shokochukin.co.jp/report/investment/）
+  - 「設備投資実施「有」企業割合は、2025年度実績で全体の66.3%、2026年度修正計画で59.3%と高水準が継続」（https://www.shokochukin.co.jp/report/investment/）
+  - 「長期での推移を見ると、「情報化関連」が増加を続けている」（https://www.shokochukin.co.jp/report/investment/）
+  - 「設備投資額の増減率をみると、全産業の2025年度実績は+14.3%」（https://www.shokochukin.co.jp/report/investment/）
+  - 「2026年修正計画は▲10.3%」（https://www.shokochukin.co.jp/report/investment/）
+  - 「業種別では2025年実績で製造業+7.3%」（https://www.shokochukin.co.jp/report/investment/）
+  - 「2026年09月30日」（https://www.shokochukin.co.jp/report/data/）
+  - 「商工中金景況調査(2026年8月)の公表について(PDF：1.3MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業設備投資動向調査（2026年7月調査）(PDF：1.1MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「2026年06月30日」（https://www.shokochukin.co.jp/report/data/）
+  - 「商工中金景況調査(2026年5月)の公表について(PDF：1.4MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「2026年03月31日」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業設備投資動向調査（2026年1月調査）(PDF：1.1MB)」（https://www.shokochukin.co.jp/report/data/）
+- 調査主体・時期：
+  - 「商工中金法の改正・政府保有株式の自己株式取得」（https://www.shokochukin.co.jp/report/investment/）
+  - 「当金庫では年2回、中小企業の設備投資動向についての調査実施しています」（https://www.shokochukin.co.jp/report/investment/）
+  - 「最新の調査（2026年7月調査）」（https://www.shokochukin.co.jp/report/investment/）
+  - 「1.設備投資「有」比率…2025年度実績は高水準、2026年度修正計画も近年の同時点を上回る」（https://www.shokochukin.co.jp/report/investment/）
+  - 「設備投資実施「有」企業割合は、2025年度実績で全体の66.3%、2026年度修正計画で59.3%と高水準が継続」（https://www.shokochukin.co.jp/report/investment/）
+  - 「設備投資額の増減率をみると、全産業の2025年度実績は+14.3%」（https://www.shokochukin.co.jp/report/investment/）
+  - 「商工中金景況調査(2026年8月)の公表について(PDF：1.3MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業設備投資動向調査（2026年7月調査）(PDF：1.1MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「商工中金景況調査(2026年5月)の公表について(PDF：1.4MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業設備投資動向調査（2026年1月調査）(PDF：1.1MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「中小企業の生成AIの利用にかかる調査（2026年1月調査）(PDF：1.8MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「商工中金景況調査（2026年2月・定例分）の公表について(PDF：1.3MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「「中小企業における取適法の影響と取組」の公表について（商工中金景況調査＜2026年2月・トピックス調査分＞）(PDF：1.0MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「「【詳細版】中小企業の賃上げの動向について」の公表（商工中金景況調査＜2025年11月調査・トピックス調査分＞)(PDF：1.4MB)」（https://www.shokochukin.co.jp/report/data/）
+  - 「商工中金景況調査（2025年11月・定例分）の公表について(PDF：1.4MB)」（https://www.shokochukin.co.jp/report/data/）
+- 機械受注：記載なし（読んだ19頁・検索11回）
+
+## 短観 設備投資計画 規模別・製造業（日本銀行）（BOJ Tankan capital investment plans by firm size manufacturing）
+- 文脈：一次・日銀
+- 実施割合・計画割合：
+  - 「2026年度の全産業における設備投資計画は、前期比6.8%増と前回（2026年1－3月期）から5.5ポイント上昇しました」（https://media.monex.co.jp/articles/-/29673）
+  - 「また、2025年度の設備投資実績は前期比9.4%増と、期中は伸び悩みながらも二桁に近い伸びとなりました」（https://media.monex.co.jp/articles/-/29673）
+  - 「【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）」（https://media.monex.co.jp/articles/-/29673）
+  - 「【図表4】大企業 2026年度 売上収益計画の修正（前年同期比、%）」（https://media.monex.co.jp/articles/-/29673）
+  - 「＋12.3%、非製造業で同＋10.2%と、いずれも前年比プラスでの着地見込みとなった」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「造業が前年比－1.5%、非製造業が同－2.6%と、やや低調な着地見込みとなった」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「温度判定は大企業 全産業 3 月初出計画を使用（過去 5 年は +3% 前後で推移、初出 2% 超は積極投資姿勢と読む）」（https://www.keizai-ondokei.net/tankan/capex/）
+  - 「大企業は近年、初出 3% 前後 → 期中で +10% 超まで上方修正 → 翌 3 月実績見込でやや戻すパターンが定着している」（https://www.keizai-ondokei.net/tankan/capex/）
+  - 「+3% 前後の控えめな数字」（https://www.keizai-ondokei.net/tankan/capex/）
+  - 「直近 5 年の傾向では、期中の修正で初出から +6〜10% ポイントの上振れが起きるのが典型です」（https://www.keizai-ondokei.net/tankan/capex/）
+  - 「最新の 3 月初出計画（大企業 全産業）で判定: < 0% で冷たい、0〜+2% で適温、> +2% で熱い」（https://www.keizai-ondokei.net/tankan/capex/）
+  - 「全 国 企 業 3,776社 5,328社 9,104社 99.4% 上期 下期 上期 下期」（https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf）
+  - 「うち大 企 業 885社 746社 1,631社 99.0% 2026年6月調査 149.42 147.27 151.58 152.57 152.62 152.51」（https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf）
+  - 「中堅企業 1,071社 1,518社 2,589社 99.1% 2026年9月調査 ― ― ― 154.23 154.46 154.00」（https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf）
+- 金額・前年比：
+  - 「短観の「ソフトウェア投資額」(2001年3月調査から追加) について [PDF 16KB]」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「短観の「ソフトウェア投資額」(2001年3月調査から追加) について [LZH 6KB]」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「【図表3-1】全産業 設備投資計画修正の推移（前年度比、％）」（https://media.monex.co.jp/articles/-/29673）
+  - 「【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）」（https://media.monex.co.jp/articles/-/29673）
+  - 「図表4は、大企業における前回（2026年1－3月期）と今回の売上高・経常利益の前年同期比伸び率を確認したものです」（https://media.monex.co.jp/articles/-/29673）
+  - 「現に図表4にあるように、下期の売上高の伸びに対し、経常利益の伸びが小さいことは、コスト負担の増加が示唆されていると考えられます」（https://media.monex.co.jp/articles/-/29673）
+  - 「2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「＋12.3%、非製造業で同＋10.2%と、いずれも前年比プラスでの着地見込みとなった」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「造業が前年比－1.5%、非製造業が同－2.6%と、やや低調な着地見込みとなった」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「今回、新たに公表された 2026 年度については、大企業製造業で前年比＋2.7%、非製造業で同＋3.6%と、」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「図表 4 設備投資計画（含む土地投資額）」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「2026 年度の設備投資計画（全規模合計） は前年度比＋7.6％と前回 6 月調査（＋6.8％）から上方修正され」（https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf）
+  - 「2026 年度の売上・収益計画（全規模合計）は、売上高が製造業で前年度比＋5.9％、非製造業で＋3.3％、」（https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf）
+  - 「(注) 1．設備投資額（含む土地投資額）については、ソフトウェア投資額、研究開発投資額は含まない」（https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf）
+  - 「新卒採用計画（全産業）＜6、12月調査のみ＞ (前年度比・％) 中小企業 12 12 0」（https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf）
+- 規模別・業種別：
+  - 「業種別計数は、2020年3月調査より」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「業態・企業規模別に業況判断DIを確認すると、大企業は製造業が前四半期から5ポイント改善となる22ポイントとなりました」（https://media.monex.co.jp/articles/-/29673）
+  - 「一方で、先行きの業況感は中堅・中小企業含め、どの企業規模でも低下する見込みです」（https://media.monex.co.jp/articles/-/29673）
+  - 「【図表2】業態・企業規模別 業況判断DIの推移（「良い」-「悪い」、％ポイント）」（https://media.monex.co.jp/articles/-/29673）
+  - 「業態・企業規模別に設備投資計画を確認しても、中小・非製造業を除き、設備投資計画の上方修正が確認されました」（https://media.monex.co.jp/articles/-/29673）
+  - 「【図表3-2】業態・企業規模別 設備投資計画修正の推移（前年度比、%）」（https://media.monex.co.jp/articles/-/29673）
+  - 「図表4は、大企業における前回（2026年1－3月期）と今回の売上高・経常利益の前年同期比伸び率を確認したものです」（https://media.monex.co.jp/articles/-/29673）
+  - 「【図表4】大企業 2026年度 売上収益計画の修正（前年同期比、%）」（https://media.monex.co.jp/articles/-/29673）
+  - 「1. 大企業の業況判断 DI～製造業は改善、非製造業は横ばい」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「本日発表された日銀短観（2026 年 3 月調査）における大企業製造業の業況判断 DI（最近）は、前回調査から」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「一方、加工業種は、内外の堅調な設備投資や AI 需要を背景に生産用機械やはん用」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「また、大企業非製造業の業況判断 DI（最近）は、前回調査から横ばいの 36 となった」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「先行きについて、業況判断 DI（先行き）は、大企業製造業では 3 ポイント悪化の 14、大企業非製造業では 7」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「車などの輸出企業の業績が上振れる一因となる一方、輸入企業の多い非製造業や中小企業にとっては業績が」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「図表 2 大企業の業況判断 DI」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+- 目的別：
+  - 「CPの発行環境＜発行企業ベース＞（更新停止）」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「表 CPの発行環境＜発行企業ベース＞（更新停止）」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「短観における「研究開発投資」の見方―データの特徴点やクセを中心に―」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「「全国企業短期経済観測調査」における「研究開発投資額」の調査開始および公表資料の一部変更」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「時系列統計データ検索サイトでの短観の時系列データの掲載開始とそれに伴うテキスト形式ファイルの更新停止について」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「他方、非製造業では、人手不足に加え、日中」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「2025 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業で前年比」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「老朽設備の維持・更新投資に加え、 E コマースの」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「拡大を背景とした先進物流施設などの建設投資、脱炭素に向けた環境対応投資など、昨今重要性が高まってい」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「なお、中東情勢の泥沼化や日中関係の悪化継続によるグローバルサプライチェーンの混乱、人手不足の深刻」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「（注）土地投資額を含み、ソフトウェア投資額と研究開発投資額を含まないベース」（https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf）
+  - 「のソフトウェア・研究開発を含む設備投資計画（前年度比 %、土地除く）」（https://www.keizai-ondokei.net/tankan/capex/）
+  - 「ソフトウェア・研究開発を含む設備投資額（除く土地投資）」（https://www.keizai-ondokei.net/tankan/capex/）
+  - 「ソフトウェア・研究開発を含み土地投資を除く設備投資額の伸び率」（https://www.keizai-ondokei.net/tankan/capex/）
+  - 「模合計）は上方修正され、AI 関連投資や深刻な人手不足、SX・DX 投資による企業の設備投資意欲の強さが」（https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf）
+- 機械受注：
+  - 「などで高水準ながら、物価高や天候要因による国内需要の鈍化もあって宿泊 ・ 飲食サービス（6 月＋46→9」（https://www.itochu-research.com/ja/uploads/em20260701_2026-084_J_TANKAN202609.pdf）
+  - 「2026年の製造業の景気を、日銀短観、鉱工業生産、機械受注、工作機械・ロボット受注、設備投資計画の最新統計で整理」（https://monoscope-media.com/capex-plan-2026-manufacturing-survey/）
+  - 「8月の機械受注は5.2%増｜電子計算機等が前年比7割増、設備投資の先行指標を読む」（https://monoscope-media.com/capex-plan-2026-manufacturing-survey/）
+  - 「9月短観全容で見る設備投資と内需｜投資の定義・企業規模・業種で分かれる計画 | 株トラッカー｜KABUTRACK」（https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/）
+  - 「3. 内需額は小売・サービスの間にも差がある」（https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/）
+  - 「全規模の2026年度内需額計画は、小売が前年度比4.0％増、対個人サービスが4.0％増、宿泊・飲食サービスが5.8％増です」（https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/）
+  - 「日本銀行：2026年9月短観・調査全容（10月2日掲載、年度計画の内需額・設備投資額）」（https://kabutrack.com/news/market/2026/10/02/boj-tankan-investment-domestic-demand/）
+- 推移：
+  - 「2026年10月 1日」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2026年9月調査」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2026年10月 2日」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2019年12月16日」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2019年12月調査」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「業種別計数は、2020年3月調査より」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「「企業の物価見通し」の概要は、2020年3月調査より「（参考）見通しの平均」の計数を」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2013年12月18日」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2013年12月調査」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「CPの発行環境＜発行企業ベース＞は、2014年3月調査より」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2011年 4月 4日」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2011年3月調査」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「主要短観（時系列データ、2003年12月調査まで）」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「（参考）2022年3月調査から2023年12月調査まで」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「（参考）2020年3月調査から2021年12月調査まで」（https://www.boj.or.jp/statistics/tk/index.htm）
+- 調査主体・時期：
+  - 「短観 : 日本銀行 Bank of Japan」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「（クリックすると、政府統計オンライン調査総合窓口へ移動します）」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「「短観」のオンライン調査システムの利用関係」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2026年9月調査」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「ZIPファイルは短観（概要）のうち1～9ページを掲載」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「エクセルファイルで、シートに分かれている内容を全て印刷したい場合は、プリンタに接続されているパソコンで、以下の作業を実施してください」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2019年12月調査」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「業種別計数は、2020年3月調査より」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「「企業の物価見通し」の概要は、2020年3月調査より「（参考）見通しの平均」の計数を」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2013年12月調査」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「CPの発行環境＜発行企業ベース＞は、2014年3月調査より」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「2011年3月調査」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「短観では2004年3月調査から、集計区分を常用雇用者数基準から資本金基準に変更するとともに調査対象企業の大幅な見直しを実施しており、2003年12月調査と2004年3月調査で統計の不連続（段差）があります」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「主要短観（時系列データ、2003年12月調査まで）」（https://www.boj.or.jp/statistics/tk/index.htm）
+  - 「「短観（全国企業短期経済観測調査）」の解説」（https://www.boj.or.jp/statistics/tk/index.htm）
+- 検索結果の抜粋：
+  - 「短 観（概要）―2026年9月― - 日本銀行 — 短 観（概要）―2026年9月― - 日本銀行 日本銀行ホームページ PDF https://www.boj.or.jp > statistics > gaiyo > tka2609」（https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf）
+  - 「短 観（概要）―2026 年 9月― - 日本銀行 — 短 観（概要）―2026 年 9月― - 日本銀行 日本銀行ホームページ PDF https://www.boj.or.jp > statistics > gaiyo > tka2609」（https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf）
+  - 「短観 （要旨）（2026 年 3月） : 日本銀行 Bank of Japan — 短観 （要旨）（2026 年 3月） : 日本銀行 Bank of Japan 日本銀行ホームページ https://www.boj.or.jp > 統計 > 短観 > 短観（要旨）一覧」（https://www.boj.or.jp/statistics/tk/yoshi/tk2603.htm）
+
+## 法人企業統計 設備投資 規模別・製造業（財務省）（MOF financial statements statistics capex by size manufacturing）
+- 文脈：一次・財務省
+- 実施割合・計画割合：
+  - 「4〜6月法人企業、設備投資1.6%増 6四半期連続プラス - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「財務省が1日発表した4〜6月期の法人企業統計によると、全産業（金融・保険業除く）のソフトウエアを含む設備投資は前年同期比で1.6%増の13兆250億円だった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「季節調整済みの前期比でみると、設備投資は1.5%増で2四半期ぶりのプラスとなった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「非製造業は前年同期比で4.7%増だった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「製造業は3.7%減だった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「経常利益は24.6%増の44兆6668億円だった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「製造業が57.0%増と大きく伸びた」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「輸送用機械は為替の影響で50.6%増えた」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「非製造業は9.8%増えた」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「サービス業が15.1%増と全体をけん引した」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「全産業の売上高は5.9%増の393兆9377億円だった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「製造業が6.1%、非製造業が5.9%それぞれ増えた」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「2025年度の統計も公表し、経常利益は前年度比で8.8%増の124兆8313億円だった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「内部留保にあたる利益剰余金は2.7%増の654兆8228億円となった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「1〜3月法人企業、経常利益14.6%増 6四半期連続のプラス」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+- 金額・前年比：
+  - 「また、日銀短観（12 月調査）の設備投資計画（2008 年度）をみると、前年度比▲」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「2008 年７－９月期の実質民間設備投資は前期比▲2.0％（４－６月期：同▲2.1％）と２四半期連続の減少」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である（資料２）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「資源価格上昇によるコスト増加や内外需要の減退による売上高減少などを背景として、７－９月期の経常利」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「益は前年同期比▲22.4％と５四半期連続の減少となっており、収益の悪化が加速している（資料３）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「投資を増加させている関係性が現れている（資料７、８）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「を参照））別に場合分けした上で、それらを更に企業規模（資本金の規模）別に場合分けを行っている（具体的に分析作業では、ダミー変数として、「除く三大都市」は、東京都、大阪府、愛知県以外の場合は１、東京都、大阪府、愛知県の場合は０、「大企業」は「法人季報」における調査客体のうち資本金10億円以上の場合は１、それ以外の場合は０、「中堅企業」は、同じく資本金１億円以上10億円未満の場合は１、それ以外の場合は０、「中小企業」は、同じく資本金１千万円以上１億円未満の場合は１、それ以外の場合は０として処理している」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「本調査には、全ての営利法人等を調査対象としてその年度における確定決算の計数を調査する「年次別調査」と、資本金、出資金又は基金1,000万円以上の営利法人等を調査対象として四半期ごとに仮決算計数を調査する「四半期別調査」があります」（https://www.e-stat.go.jp/stat-search/files?tstat=000001047744）
+  - 「財務省が1日発表した4〜6月期の法人企業統計によると、全産業（金融・保険業除く）のソフトウエアを含む設備投資は前年同期比で1.6%増の13兆250億円だった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「経常利益は24.6%増の44兆6668億円だった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「全産業の売上高は5.9%増の393兆9377億円だった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「2025年度の統計も公表し、経常利益は前年度比で8.8%増の124兆8313億円だった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「内部留保にあたる利益剰余金は2.7%増の654兆8228億円となった」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+- 規模別・業種別：
+  - 「などを背景に、輸送機械、電気機械、一般機械など輸出産業が設備投資を牽引してきた」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「資料７ 業種別設備投資と売上高輸出比率 （82-94年度）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「資料８ 業種別設備投資と売上高輸出比率 （95-07年度）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「付注2-3 企業の従業員数と設備投資に関する分析について」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「企業の設備投資が従業員数に与える影響を分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「）の個票データから各都道府県から構成されるパネルデータを構築し、各都道府県の従業員数をそれぞれの設備投資額が説明するモデルで推定した」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「変数に関して、「従業員数」は、「法人季報」における当期の従業員数の前年同期比、「設備投資額」は、「法人季報」における当期の「土地」、「その他の有形固定資産」、「建設仮勘定」、「無形固定資産（ソフトウェア）」の合計額の前年同期比である」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「表２ 企業の設備投資と従業員数にかかる推定結果」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「を参照））別に場合分けした上で、それらを更に企業規模（資本金の規模）別に場合分けを行っている（具体的に分析作業では、ダミー変数として、「除く三大都市」は、東京都、大阪府、愛知県以外の場合は１、東京都、大阪府、愛知県の場合は０、「大企業」は「法人季報」における調査客体のうち資本金10億円以上の場合は１、それ以外の場合は０、「中堅企業」は、同じく資本金１億円以上10億円未満の場合は１、それ以外の場合は０、「中小企業」は、同じく資本金１千万円以上１億円未満の場合は１、それ以外の場合は０として処理している」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「輸送用機械は為替の影響で50.6%増えた」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「自動車を含む輸送用機械や食料品、生産用機械などが2桁の伸びとなりました」（https://www.smd-am.co.jp/market/daily/keyword/archives/japan/1237475_1982/）
+  - 「【2026年最新】日本の法人企業統計 設備投資推移グラフ（業種別・年次）| 経済まるみえ」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/）
+  - 「日銀短観 雇用人員判断DI（人手不足業種別）」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/）
+  - 「銀行の貸出態度（中小企業向け・SLOOS・米国・四半期）」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/）
+  - 「日本の法人企業統計 設備投資推移グラフ（業種別・年次）」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/）
+- 目的別：
+  - 「AIが使えなくなる日 「デジタル安全保障」確保せよ」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「正解なきデジタル主権論への「現実解」 日本企業へ5つの提言」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「日銀短観 雇用人員判断DI（人手不足業種別）」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/）
+  - 「小学校 ICT整備状況（デジタル教科書・大型提示装置・PC台数）」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/）
+  - 「中学校 ICT整備状況（デジタル教科書・大型提示装置・PC台数）」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/）
+  - 「高等学校 ICT整備状況（デジタル教科書・大型提示装置・PC台数）」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/）
+  - 「デジタル収支 通信・著作権等使用料（月次）」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/）
+  - 「近年は製造業でのデジタル・自動化投資やソフトウェア投資が増加しており、業種ごとの投資構造変化も読み取れます」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure_industry/yearly/）
+  - 「ソフトウェア投資は全規模共通で近年増加傾向にあり、デジタル化の進展度を示す指標としても参照されます」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/）
+  - 「ソフトウェア投資の動向はデジタル化の進展を示す指標としても注目されています」（https://keizai-marumie.com/corporate_business_statistics_capital_expenditure/）
+  - 「土地投資額とは？ソフトウェア投資額とは？研究開発投資額とは？の解説も掲載」（https://stock-marketdata.com/investment-in-plant-and-equipment-japan）
+  - 「法人企業統計の四半期別調査の公表日は3月・6月・9月・12月ですので、公表に合わせてデータ更新されます」（https://stock-marketdata.com/investment-in-plant-and-equipment-japan）
+  - 「データ更新の際は、当サイト「株式マーケットデータ」の”更新情報”のページや公式X（旧ツイッター）等でお知らせします」（https://stock-marketdata.com/investment-in-plant-and-equipment-japan）
+  - 「(2026年11月6日更新）」（https://stock-marketdata.com/investment-in-plant-and-equipment-japan）
+  - 「月に一度/週に一度更新される重要指標のデータ更新情報をお知らせしています」（https://stock-marketdata.com/investment-in-plant-and-equipment-japan）
+- 機械受注：
+  - 「さらに１～２四半期程度の先行性を有する機械受注統計も」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「資源価格上昇によるコスト増加や内外需要の減退による売上高減少などを背景として、７－９月期の経常利」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「まではみられなかったが、90 年代後半以降、売上高輸出比率が高い、つまり外需依存度が高い業種ほど設備」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「民間住宅、公的固定資本形成とした）の時差相関係数をみると、90 年代前半以前は、設備投資に対する内需」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「資料10 国内需要の設備投資に対する時差相関」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「資料11 実質設備投資と実質機械受注（前年同期比）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「実質設備投資 実質機械受注（１四半期先行）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「機械受注4〜6月0.2％増、3四半期連続プラス データセンター関連好調」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+  - 「機械受注の1〜3月6.4％増、2四半期連続プラス 3月単月は9.4%減」（https://www.nikkei.com/article/DGXZQOUA315960R30C26A8000000/）
+- 推移：
+  - 「また、日銀短観（12 月調査）の設備投資計画（2008 年度）をみると、前年度比▲」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「ると考えられ、企業収益は引き続き減少傾向で推移する可能性が高い」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である（資料２）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「資料７ 業種別設備投資と売上高輸出比率 （82-94年度）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「資料８ 業種別設備投資と売上高輸出比率 （95-07年度）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「られ、企業収益は引き続き減少傾向で推移する可能性が高い」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「2009 年度にかけては輸出の減少が続くと見込まれることなどから、設備」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「推計した都道府県数は47地域、推計期間は2013～2019年度第１四半期である」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「付注2-4 年度別における企業の設備投資と資金借入に関する分析について」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「金融機能が企業の設備投資に与える影響を年度別に分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「を参照）、推計期間は2003～2018年度である（本分析では、「法人季報」では一部の調査客体（企業）が年度を境に交代となり、複数年度でのパネル分析は行えないことから、年度別に推計を行っている」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「そのため、年度内での推計期間は、第２四半期（７－９月期）から第４四半期（１－３月期）までとなっている」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「表２ 年度別の企業の設備投資と金融機関からの長期資金借入にかかる推定結果」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「上記分析ではパネルデータ分析を行ったが、健康寿命のデータが2010年以降しかなく、資本や労働に用いたデータが2012年までとなっているため、分析は2012年単年のクロスデータ分析に限られる」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+- 調査主体・時期：
+  - 「作成時点で、第一生命経済研究所経済調査部が信ずるに足る」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「また、日銀短観（12 月調査）の設備投資計画（2008 年度）をみると、前年度比▲」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「（出所）内閣府「国民経済計算」 （出所）日本銀行「全国企業短期経済観測調査」」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「3月調査 6月調査 9月調査 12月調査 実績見込 実績」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「2.8％となり、年度ベースの設備投資が６年ぶりの減少に転じることは確定的である（資料２）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「法人企業統計季報をみると、原油など」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「（出所）財務省「法人企業統計季報」 （出所）財務省「法人企業統計季報」」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「（出所）日本銀行「全国企業短期経済観測調査」により当社作成 （出所）日本銀行「全国企業短期経済観測調査」により当社作成」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「資料７ 業種別設備投資と売上高輸出比率 （82-94年度）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「資料８ 業種別設備投資と売上高輸出比率 （95-07年度）」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「2009 年度にかけては輸出の減少が続くと見込まれることなどから、設備」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「（出所）内閣府「国民経済計算」、「機械受注統計調査」 （出所）内閣府「国民経済計算」、経済産業省「稼働率指数」」（https://www.dlri.co.jp/pdf/macro/04-14/et08_206.pdf）
+  - 「金融機能が企業の設備投資に与える影響を分析するため、財務省「法人企業統計調査（四半期別調査）」（以下、「法人季報」という」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+  - 「推計した都道府県数は47地域、推計期間は2013～2019年度第１四半期である」（https://www5.cao.go.jp/j-j/cr/cr19/chr19_04.html）
+- 検索結果の抜粋：
+  - 「報 道 発 表 年次別 法人企業統計 調査(令和6年度) - 財務省 — 報 道 発 表 年次別 法人企業統計 調査(令和6年度) - 財務省 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results」（https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf）
+  - 「四半期別 法人企業統計 調査(令和7年4～6月期) 報 道 発 表 — 四半期別 法人企業統計 調査(令和7年4～6月期) 報 道 発 表 財務省 PDF https://www.mof.go.jp > ssc > results > r7.4-6.pdf」（https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf）
+  - 「報 道 発 表 四半期別 法人企業統計 調査(令和8年1-3月期) - 財務省 — 報 道 発 表 四半期別 法人企業統計 調査(令和8年1-3月期) - 財務省 財務省 PDF https://www.mof.go.jp > ssc > results > r8.1-3.pdf」（https://www.mof.go.jp/pri//reference/ssc/results/r8.1-3.pdf）
+  - 「四半期別 法人企業統計調査 (令和7年4～6月期) 報 道 発 表 — 四半期別 法人企業統計調査 (令和7年4～6月期) 報 道 発 表 財務省 PDF https://www.mof.go.jp > ssc > results > r7.4-6.pdf」（https://www.mof.go.jp/pri//reference/ssc/results/r7.4-6.pdf）
+  - 「報 道 発 表 年次別 法人企業統計調査 (令和6年度) - 財務省 — 報 道 発 表 年次別 法人企業統計調査 (令和6年度) - 財務省 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results」（https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf）
+  - 「報 道 発 表 年 次別 法人企業統計 調査(令和6 年度 ) - 財務省 — 報 道 発 表 年 次別 法人企業統計 調査(令和6 年度 ) - 財務省 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results」（https://www.mof.go.jp/pri/reference/ssc/results/r6.pdf）
+  - 「年 次別 法人企業統計 調査(令和 7 年度 ) — 年 次別 法人企業統計 調査(令和 7 年度 ) 財務省 PDF https://www.mof.go.jp > pri > reference > ssc > results」（https://www.mof.go.jp/pri/reference/ssc/results/r7.pdf）
+
+## 設備投資計画調査（日本政策投資銀行）（DBJ capital investment survey manufacturing）
+- 文脈：一次・政投銀
+- 実施割合・計画割合：
+  - 「全産業では東北、北海道、北関東甲信が40%超の大幅増となっているほか、その他地域も含めて全地域が二桁の伸びを見込む」（https://www.dbj.jp/investigate/equip/regional/detail_202606.html）
+  - 「15.1%増と、24 年ぶりの高い伸びとなっている」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「で 2 桁増(+12.7%)となったほか、 非製造業でも＋4.9%となって」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「しかし、中小企業（製造業／-5.4%・非製造業／-26.0%)」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「や中堅企業・非製造業(-5.2%)では、今年度の設備投資額が前年」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「-20% 0% 20% 40% 60%」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「-19.6%」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「-11.3%」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「-36.4%」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「-52.7%」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「-60% -40% -20% 0% 20% 40% 60%」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「(2014年度／前年度比(%))」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「大企業（資本金10億円以上）の2024年度の設備投資は、通信・情報のAI計算基盤構築や自動車の電動化投資などにより、3年連続で増加（前年比10.5%増）し、バブル期以来の高水準に」（https://www.dbj.jp/investigate/equip/national/detail_202506.html）
+  - 「25年度は前年比14.3%増となり、計画時点としては4年ぶりに20%を下回ったものの、米国の関税強化など先行き不透明感がある中でも二桁増を維持」（https://www.dbj.jp/investigate/equip/national/detail_202506.html）
+  - 「製造業は自動車の電動化投資の継続や素材業種を中心とした脱炭素投資により、21.0%増の高い伸びを維持する」（https://www.dbj.jp/investigate/equip/national/detail_202506.html）
+- 金額・前年比：
+  - 「DBJでは、地域別設備投資動向の把握を目的として、「地域別設備投資計画調査（調査対象企業：原則として資本金1億円以上の民間法人企業）」を年1回発表いたしております」（https://www.dbj.jp/investigate/equip/regional/detail_202606.html）
+  - 「2026年度の地域別設備投資計画は、10地域全てで増加の計画となっている」（https://www.dbj.jp/investigate/equip/regional/detail_202606.html）
+  - 「第27号 最近の産業動向 －主要産業の生産は、素材、資本財産業を中心に減少へ－」（https://www.dbj.jp/investigate/archive/research/）
+  - 「第13号 最近の産業動向 －内需の回復続き、多くの業種で生産増加－」（https://www.dbj.jp/investigate/archive/research/）
+  - 「大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「26年度は前年比19.7％増となり、中東情勢など不確実性が高まる中でも、前年度計画の伸び（14.3％増）を上回る旺盛な投資意欲が示された」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「企業の設備投資は、法人企業統計(財務省)をみると大幅に増加した 1～3 月期の反動で 4～6 月期こそ反」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「によると、企業の設備投資は、前年度から 1.7％増加しており、前回調査から 6.5％上方修正されている」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「や中堅企業・非製造業(-5.2%)では、今年度の設備投資額が前年」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「に増加した 1～3 月期の反動もあって 4～6 月期はマイ」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「(+31.6％)や北陸(同+36.0％)で大きく増加する」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「(2014年度／前年度比(%))」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「※大企業・中堅企業(資本金 1 億円以上)の地域別設備投資動向」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「大企業（資本金10億円以上）の2024年度の設備投資は、通信・情報のAI計算基盤構築や自動車の電動化投資などにより、3年連続で増加（前年比10.5%増）し、バブル期以来の高水準に」（https://www.dbj.jp/investigate/equip/national/detail_202506.html）
+  - 「25年度は前年比14.3%増となり、計画時点としては4年ぶりに20%を下回ったものの、米国の関税強化など先行き不透明感がある中でも二桁増を維持」（https://www.dbj.jp/investigate/equip/national/detail_202506.html）
+- 規模別・業種別：
+  - 「1990年以降より各年度における設備投資増減率の推移を、業種別・地域別でまとめて見ることができます」（https://www.dbj.jp/investigate/equip/regional/detail_202606.html）
+  - 「2026年度地域別・業種別増減率」（https://www.dbj.jp/investigate/equip/regional/detail_202606.html）
+  - 「第42号 わが国電気機械産業の課題と展望－総合電気機械メーカの事業再編と将来展望－」（https://www.dbj.jp/investigate/archive/research/）
+  - 「大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「8. 地域別設備投資と中堅企業の特徴」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「中堅企業では中東情勢や物価上昇、人手・後継者不足を大企業よりも強くリスクとして認識する一方、大企業と同様にAIなどの新技術を成長機会と認識」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「日本政策投資銀行の設備投資計画調査でも、2014 年度の大企業を中心とする設備投資計画は 13 年度から」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「2014 年度の設備投資計画は、 大企業をみると製造業」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「しかし、中小企業（製造業／-5.4%・非製造業／-26.0%)」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「や中堅企業・非製造業(-5.2%)では、今年度の設備投資額が前年」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「ると、大企業・中小企業とも製造業で設備に過剰感があり、先」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「したがって、大企業が先行する設備投資の拡大は、必ずしも供」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「設備投資の拡大は大企業で先行しており、地域や産業に大きなばらつき」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「大企業 7.4 5.8」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「中堅企業 2.2 3.8」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+- 目的別：
+  - 「第81号 研究開発の循環性、収益性の検討－設備投資との比較を中心に－」（https://www.dbj.jp/investigate/archive/research/）
+  - 「第63号 90年代以降の企業の研究開発動向」（https://www.dbj.jp/investigate/archive/research/）
+  - 「第54号 ブロ－ドバンド時代のデジタルコンテンツ・ビジネス－映像コンテンツ流通を中心に－」（https://www.dbj.jp/investigate/archive/research/）
+  - 「第14号 わが国化学産業の現状と将来への課題 －企業戦略と研究開発の連繋－」（https://www.dbj.jp/investigate/archive/research/）
+  - 「大企業（資本金10億円以上）の2025年度の設備投資は、素材業種の脱炭素対応投資のほか、電力の送配電網投資や運輸の駅前再開発などにより、4年連続増（前年比7.3％増）」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「戦略17分野では、AI・半導体、デジタル関連を強化する企業が多く、3年以内の追加投資を予定する企業の割合も高い」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「中東情勢などによる調達リスクのほか、物価高、人手不足が企業のリスク」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「人材獲得の代替策として、デジタル活用に活路を見出す企業の割合が上昇」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「6. デジタル化・研究開発」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「研究開発はAI・半導体、脱炭素中心に堅調」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「7. 脱炭素」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「脱炭素の取り組みが徐々に具体化する中で、価格転嫁を課題とする企業がさらに増え、経済性と脱炭素対応の両立の難しさが一層切実に」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「また、地方では建設業や運輸業、小売業などを中心に人手不足が顕在化しつつあり、企業の事業活動や」（https://jpc.jpc-net.jp/statistics/tp01.pdf）
+  - 「製造業は自動車の電動化投資の継続や素材業種を中心とした脱炭素投資により、21.0%増の高い伸びを維持する」（https://www.dbj.jp/investigate/equip/national/detail_202506.html）
+  - 「物価上昇や人手不足をリスクと認識する企業が多い」（https://www.dbj.jp/investigate/equip/national/detail_202506.html）
+- 機械受注：
+  - 「第13号 最近の産業動向 －内需の回復続き、多くの業種で生産増加－」（https://www.dbj.jp/investigate/archive/research/）
+  - 「第5号 最近の産業動向 －輸出はアジア向けで堅調、内需は回復に力強さがみられず－」（https://www.dbj.jp/investigate/archive/research/）
+  - 「2026年度のデジタル化投資は前年比23.3%増の計画で、製造業では一般機械を中心に22.0%増、非製造業では運輸・卸売小売を中心に24.1%増という高い伸びが見込まれている [1]」（https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/）
+  - 「電力・通信・不動産・運輸など内需完結型の非製造業は、国内のAI・データセンター需要や都市機能強化投資の恩恵を最も直接的に受けており、22.9%という高い伸びに象徴される」（https://www.newscoda.com/articles/dbj-capex-survey-domestic-reshoring-overseas-retreat-2026/）
+- 推移：
+  - 「2025年度（2026年3月公表）」（https://www.dbj.jp/investigate/equip/）
+  - 「2024・2025・2026年度 設備投資計画調査（2025年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2023・2024・2025年度 設備投資計画調査（2024年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2022・2023・2024年度 設備投資計画調査（2023年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2021・2022・2023年度 設備投資計画調査（2022年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2020・2021・2022年度 設備投資計画調査（2021年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2019・2020・2021年度 設備投資計画調査（2020年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2018・2019・2020年度 設備投資計画調査（2019年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2017・2018・2019年度 設備投資計画調査（2018年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2016・2017・2018年度 設備投資計画調査（2017年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2015・2016・2017年度 設備投資計画調査（2016年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2014・2015・2016年度 設備投資計画調査 （2015年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2013・2014・2015年度 設備投資計画調査（2014年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2012・2013・2014年度 設備投資計画調査（2013年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2011・2012・2013年度 設備投資計画調査（2012年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+- 調査主体・時期：
+  - 「設備投資計画調査 | 株式会社日本政策投資銀行」（https://www.dbj.jp/investigate/equip/）
+  - 「DBJが毎年実施している民間法人企業を対象とした設備投資計画調査です」（https://www.dbj.jp/investigate/equip/）
+  - 「DBJ各支店事務所が毎年実施している個別地域の詳細分析です」（https://www.dbj.jp/investigate/equip/）
+  - 「設備投資計画調査の結果を踏まえ、企業トップの方々からヒアリングした課題・論点をまとめたレポートです」（https://www.dbj.jp/investigate/equip/）
+  - 「2025年度（2026年3月公表）」（https://www.dbj.jp/investigate/equip/）
+  - 「全国設備投資計画調査 | 株式会社日本政策投資銀行」（https://www.dbj.jp/investigate/equip/national/）
+  - 「DBJが毎年実施している民間法人企業を対象とした設備投資計画調査です」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2024・2025・2026年度 設備投資計画調査（2025年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2023・2024・2025年度 設備投資計画調査（2024年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2022・2023・2024年度 設備投資計画調査（2023年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2021・2022・2023年度 設備投資計画調査（2022年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2020・2021・2022年度 設備投資計画調査（2021年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2019・2020・2021年度 設備投資計画調査（2020年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2018・2019・2020年度 設備投資計画調査（2019年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+  - 「2017・2018・2019年度 設備投資計画調査（2018年6月調査）」（https://www.dbj.jp/investigate/equip/national/）
+- 検索結果の抜粋：
+  - 「地域別 設備投資計画調査 （2026年6月） - 日本政策投資銀行 — 地域別 設備投資計画調査 （2026年6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 地域別設備投資計画調査」（https://www.dbj.jp/investigate/equip/regional/detail_202606.html）
+  - 「2024・2025・2026年度 首都圏 設備投資計画調査 — 2024・2025・2026年度 首都圏 設備投資計画調査 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 調査研究レポート一覧」（https://www.dbj.jp/investigate/20250804_206080.html）
+  - 「第1−3−4図 日本政策投資銀行 設備投資計画調査 - 内閣府 — 第1−3−4図 日本政策投資銀行 設備投資計画調査 - 内閣府 内閣府ホームページ https://www5.cao.go.jp > img」（https://www5.cao.go.jp/j-j/cr/cr14/img/chr14010304z.html）
+  - 「全国 設備投資計画調査 （2026年6月） - 日本政策投資銀行 — 全国 設備投資計画調査 （2026年6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 全国設備投資計画調査」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「2025・2026・2027年度 首都圏 設備投資計画調査 — 2025・2026・2027年度 首都圏 設備投資計画調査 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 調査研究レポート一覧」（https://www.dbj.jp/investigate/20260804_3977.html）
+  - 「全国 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 — 全国 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 全国設備投資計画調査」（https://www.dbj.jp/investigate/equip/national/detail_202606.html）
+  - 「地域別 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 — 地域別 設備投資計画調査 （2026 年 6月） - 日本政策投資銀行 株式会社日本政策投資銀行 https://www.dbj.jp > ... > 地域別設備投資計画調査」（https://www.dbj.jp/investigate/equip/regional/detail_202606.html）
+  - 「Publication of Survey on Planned Capital Spending for FY2025 — Publication of Survey on Planned Capital Spending for FY2025 株式会社日本政策投資銀行 https://www.dbj.jp > investigate」（https://www.dbj.jp/en/investigate/20250804_206102.html）
+  - 「Publication of Survey on Planned Capital Spending for FY2024 — Publication of Survey on Planned Capital Spending for FY2024 株式会社日本政策投資銀行 https://www.dbj.jp > investigate」（https://www.dbj.jp/en/investigate/20240806_204917.html）
+  - 「Development Bank of Japan Research Report No. 29 — Development Bank of Japan Research Report No. 29 株式会社日本政策投資銀行 PDF https://www.dbj.jp > archive > research > pdf」（https://www.dbj.jp/en/investigate/archive/research/pdf/29.pdf）
+  - 「Development Bank of Japan Research Report No. 26 — Development Bank of Japan Research Report No. 26 株式会社日本政策投資銀行 PDF https://www.dbj.jp > archive > research > pdf」（https://www.dbj.jp/en/investigate/archive/research/pdf/26_02.pdf）
+
+## 工作機械受注の推移（日本工作機械工業会・内需・業種別）（JMTBA machine tool orders domestic by industry time series）
+- 文脈：一次・工業会
+- 実施割合・計画割合：
+  - 「①第２次オイルショック不況 80年11月 (57,932) 82年10月 (32,522) 56.1% 24ヵ月間 18ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「②円高不況 85年03月 (92,603) 87年01月 (47,583) 51.4% 21ヵ月間 22ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「③構造不況 89年12月 (126,591) 93年10月 (37,044) 29.3% 42ヵ月間 43ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「④平成不況 97年05月 (101,170) 99年05月 (55,868) 52.2% 23ヵ月間 16ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「⑤ＩＴ不況 00年09月 (90,127) 02年01月 (45,616) 50.6% 14ヵ月間 55ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「⑥リーマンショック 07年09月 (142,003) 09年01月 (19,037) 13.4% 16ヵ月間 29ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「⑦欧州金融危機 11年06月 (128,581) 13年04月 (81,963） 63.7% 22ヵ月間 23ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「⑧中国減速 15年03月 (147,380) 16年10月 (93,884） 63.7% 20ヵ月間 17ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「⑨米中貿易摩擦 18年03月 (182,860) 20年05月 (51,239) 28.0% 26ヵ月間 22ヵ月間」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「100.0%」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「110.0%」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「120.0%」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「130.0%」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「140.0%」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「150.0%」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+- 金額・前年比：
+  - 「●昨2025年の受注総額は前年比6.4％」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「増の１兆5800億円となったもよう」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「1000億円台を突破したようだ」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「7000億円と見通す」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「●昨2025年の生産額は前年比6.5％増」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「の9600億円となったもよう」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「４．輸 入 〔財務省貿易統計〕 （単位：百万円、カッコ内は前年比増減率％）」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「●昨2025年の輸出額は前年比9.0％増」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「の8300億円となったもよう」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「●昨2025年の輸入額は前年比11.2％」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「減の700億円となったもよう」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「01年 788,898百万円」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「02年 675,837百万円」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「03年 851,101百万円」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「04年 1,236,192百万円」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+- 規模別・業種別：
+  - 「業種別に見ると、「」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「中小企業のユーザにおいては、年央に採択が予定される」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「(日本)は、自動車関連需要が今後も持続的に増加した場合、「一般機械」など他分野での設備投資にも波及していくものと期待される」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「中小企業の外注加工先やユーザの中小企業はより厳しい状況にあると見られる」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「仮に事態が一段と悪化した場合、旺盛な需要に対してタイムリーに製品供給ができず、中小企業ユーザの老朽機更新の動きも妨げる結果となりかねない」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「前⽉⽐：「航空機・造船・輸送用機械」のみ増加」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「前⽉⽐：増加３業種(「航空機・造船・輸送用機械」「商社・代理店」等）」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「前年同⽉⽐：増加７業種(「鉄鋼・非鉄金属」「金属製品」「一般機械」等）」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「自動車や一般機械などの主要4業種は、「航空・造船・輸送用機械」のみが増加となり、それ以外は減少した」（https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/）
+  - 「北米は自動車や航空・造船・輸送用機械を中心に増加し、過去最高額の3600億円を記録」（https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/）
+  - 「電気･精密機械内 需 計 一般機械 販 売自動車」（https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf）
+  - 「３ . 一般機械」（https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf）
+- 目的別：
+  - 「(763 億円)は主要市場で唯一、４月も前月比で増加し、２カ月連続で過去最高額を更新した(２カ月連続の 750 億円超)」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「設備投資の周辺環境を見渡すと、恒常的に自動化・高効率化、環境対応に関する需要が見られ、長らく設備投資を抑制してきたユーザを中心に老朽機更新の必要性が高まっている」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「仮に事態が一段と悪化した場合、旺盛な需要に対してタイムリーに製品供給ができず、中小企業ユーザの老朽機更新の動きも妨げる結果となりかねない」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「本年最高額を2カ月連続で更新」（https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf）
+  - 「機械の比重は 98.1%（同＋0.2pt）で、過去最高比率を前年に続き更新した」（https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf）
+  - 「ンショック以降、 7 年連続で最高額を更新した」（https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf）
+  - 「「自動車」(88億円)は5カ月ぶりに90億円を下回ったが、老朽機更新の大型案件もあって比較的高めの水準を保ち、「航空機・造船・輸送用機械」は3カ月ぶりに30億円を上回った(32億円)」（https://seizougenba.com/node/14517）
+  - 「外需は、前月比＋4.6％、前年同月比＋65.8％の1,463.5で、6月(1,454億円)を超え歴代最高額を更新した」（https://seizougenba.com/node/14517）
+  - 「欧米が長期休暇の時期に入る8月において歴代最高額を更新したのは異例である」（https://seizougenba.com/node/14517）
+  - 「主な地域別にみると、北米は宇宙産業や航空機関連で大型受注が集中した「航空機・造船・輸送用機械」(140億円)や「一般機械」(125億円)がそれぞれ歴代最高額を更新した他、「電気・精密」(58億円)も歴代2位となる等大変力強く、北米全体としても約500億円(499億54百万円)と歴代最高額を大きく更新した」（https://seizougenba.com/node/14517）
+  - 「「欧州」(203億円)は長期夏季休暇により営業日数が限られたが、ドイツ(49億円)が2カ月連続で本年としての最高額を更新した他、イタリア(32億円)も2カ月連続の30億円超、EU の「その他」も8 カ月ぶりに40 億円を超える等、EU 圏を中心に改善の動きが感じられ、欧州全体として2 カ月連続で200 億円を超えた」（https://seizougenba.com/node/14517）
+  - 「北米計は、3カ月連続400億円超え、統計開始以来の最高額を更新」（https://seizougenba.com/node/14517）
+  - 「設備投資の周辺環境を見渡すと、恒常的に自動化・高効率化、環境対応に関する需要が見られ、長らく設備投資を控えてきたユーザを中心に老朽機更新の必要性が高まっている」（https://seizougenba.com/node/14517）
+  - 「我が国はデータセンタや半導体関連での需要回復が先行しているが、航空機・造船等でのプロジェクト投資、自動車等での政策支援効果による老朽機更新の進展等、今後は幅広い分野での動きに繋がると期待される」（https://seizougenba.com/node/14517）
+- 機械受注：
+  - 「ど、26年は内外需ともに好要因が多く、」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「工作機械受注高と前年同月比の推移（2000年1月〜25年10月）」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「●グラフ(下)の見方：景気の頂点にあたる四半期の受注額を100の指数で表し、その後の景気後退と回復(谷と山)の期間と高低を示した」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「（一社）日本工作機械工業会（坂本繁友会長）は、６月 25 日、2026 年５月分の工作機械受注確報及び受注関連状況を発表した」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「2026 年５月分工作機械受注確報及び受注関連状況について」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「１．2026 年５月の受注額(確報)」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「2026 年５月の受注総額は、期末効果の剥落により前月比(▲ 2.3 %)で３カ月ぶりに減少したものの、２カ月連続で 1,800 億円を超え、３月(1,934 億 70 百万円)に次ぐ歴代２位の受注額となった」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「このうち内需は、前月比で▲ 2.4 %(３カ月ぶり減少)、前年同月比で＋ 43.4 %(４カ月 連続増加)の 492 億 86 百万円で、昨年下期(364 億円)、本年第１四半期(401 億円)の平均受注額を大きく上回った」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「外需は、前月比で▲ 2.3 %(２カ月ぶり減少)、前年同月比で＋ 45.8 %(19 カ月連続増加)の 1,396 億 81 百万円となった」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「外需は昨年 12 月以降の各月が歴代１～５位を占めるなど歴史的な高水準で推移しており、４月の受注額は２位に相当する」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「(411 億円)は、先月受注が大きく増加した「一般機械」や「商社・代理店」が前月比で下げたものの、航空・宇宙や自動車、電気・精密での好調が持続し、２カ月連続で 400 億円を上回った(同地域として歴代３位の受注額)」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「(533 億円)は「一般機械」がはじめて 200 億円を超える等、主だった業種が引き続き好調で、２カ月連続で 500 億円を上回った他(過去最高額)、」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「はドイツでの受注額がこのところ40億円前後で持続するなど復調しつつあり、イタリアやスペイン等でも設備案件が増加傾向にある」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「内外需とも前⽉⽐で減少するも、前年同⽉⽐は＋ 37 %超と高い⽔準で推移」（https://kotolabosti.co.jp/report/topics/8669/）
+- 推移：
+  - 「●昨2025年の受注総額は前年比6.4％」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「強まり、特に昨年後半は高水準で推移」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「●昨2025年の生産額は前年比6.5％増」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「受注が底堅く推移するため、」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「〔2026年1月9日発表・暦年ベース〕」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「工作機械、 工作機器、 機械工具、 産業用ロボッ トの生産額の推移」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「工作機械受注高と前年同月比の推移（2000年1月〜25年10月）」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「2022 23 24 25年（1-11月）」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「2010年1月」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「2011年1月」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「2012年1月」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「2013年1月」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「2014年1月」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「2015年1月」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「2016年1月」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+- 調査主体・時期：
+  - 「〔日本工作機械工業会統計〕 （単位：百万円、カッコ内は前年比増減率％）」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「〔日本工作機械工業会・経済産業省機械統計〕」（https://www.news-pub.co.jp/newyearceremony/report/images/2026_Outlook.pdf）
+  - 「日本工作機械工業会（2026年5月分）確報 | ことラボSTI」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「日本工作機械工業会（2026年5月分）確報」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「（一社）日本工作機械工業会（坂本繁友会長）は、６月 25 日、2026 年５月分の工作機械受注確報及び受注関連状況を発表した」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「年度の期末明けにも関らず、主要４業種は「一般機械」を除き前月比で揃って増加した」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「【日工会受注に関する問い合わせ先】調査企画部 電話：03-3434-3961」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「そもそも工業会が会員調査で来年の受注予測を発表することが談合につながるのではないか、と指摘もある」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「2026 年の工作機械受注修正見直し（６月５日公表）」（https://kotolabosti.co.jp/report/topics/8669/）
+  - 「日本工作機械工業会（日工会、坂元繁友会長・芝浦機械社長）はこのほど、2025年の工作機械受注額が前年比8%増の1兆6043億190万円になったと発表」（https://nihonsanki-shimbun.com/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-2025%E5%B9%B4%E5%8F%97%E6%B3%A8%E3%80%801%E5%85%866000%E5%84%84%E5%86%86%E8%B6%85%E3%81%88%E3%80%81%E5%A4%96%E9%9C%80%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80/）
+  - 「13年度 1,204,852 105.7 422,029 116.3 782,823 100.8 1,149,078 529,922 61,311 344 ,586 936,303 87.3 65,329 958,064 7,938 27,939 771,524 86.1 72,839 144.3 24 ,650 101.2」（https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf）
+  - 「14年度 1,578,546 131.0 526,876 124.8 1,051,670 134.3 1,495,341 613,854 110,375 485,288 1,260,233 134.6 113,378 1,300,885 9,758 32,083 1,025,252 132.9 78,930 108.4 25,401 105.2」（https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf）
+  - 「15年度 1,398,968 88.6 579,295 109.9 819,673 77.9 1,471,868 548,277 90,082 454,1 95 1,185,470 94.1 94,398 1,233,482 9,762 34,758 844,962 82.4 87,710 111.1 26,099 107.1」（https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf）
+  - 「1 2．企業物価指数（日本銀行）90～94年は90年＝100、95～99年は95年＝100、00～04年は00年＝100、05～09年は05年＝100、10年以降は10年=100」（https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf）
+  - 「財務省「貿易統計」資 料 （一社）日本工作機械工業会 経済産業省「生産動態統計調査」」（https://www.jmtba.or.jp/wjmtbap/wp-content/uploads/2024/06/kakuhouhanbaisample.pdf）
+
+## 機械受注統計（内閣府・船舶電力を除く民需・製造業）（Cabinet Office machinery orders core private manufacturing）
+- 文脈：一次・内閣府
+- 実施割合・計画割合：
+  - 「機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「需要者別にみると、民需は前月比3.2%増の1兆106億円、官公需は同2.9%減の3,406億円、外需は同6.9%減の1兆1,769億円、代理店は同19.5%増の1,249億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「このうち、製造業は同1.6%増の4,296億円、非製造業（除く船舶・電力）は同9.8%増の4,321億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「4～6月をみると、受注総額は前期比7.1%増の8兆11億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「需要者別にみると、民需は同2.2%減の3兆237億円、官公需は同12.2%増の1兆132億円、」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「外需は同10.7%増の3兆5,702億円、代理店は同0.6%増の3,606億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「また、「船舶・電力を除く民需」は同3.2%減の2兆5,855億円、製造業は同1.1%増の1兆2,627億円、非製造業（除く船舶・電力）は同8.8%減の1兆3,134億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「2023（令和5）年7～9月見通しをみると、受注総額は前期比2.8%減の7兆7,784億円の見通しになっている」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「需要者別にみると、民需は同2.1%減の2兆9,593億円、官公需は同22.5%減の7,849億円、外需は同3.1%増の3兆6,816億円、代理店は同1.8%増の3,670億円の見通しになっている」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「また、「船舶・電力を除く民需」は同2.6%減の2兆5,174億円、製造業は同2.3%減の1兆2,338億円、非製造業（除く船舶・電力）は同1.4%減の1兆2,956億円の見通しになっている」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注総額（季節調整値）の動向をみると、20年5月前月比10.8%増の後、」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「6月は同4.8%減の2兆6,993億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「需要者別にみると、民需は前月比5.5%増の1兆2,608億円、」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「官公需は同4.4%増の2,410億円、外需は同12.1%減の1兆845億円、」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+- 金額・前年比：
+  - 「機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「需要者別にみると、民需は前月比3.2%増の1兆106億円、官公需は同2.9%減の3,406億円、外需は同6.9%減の1兆1,769億円、代理店は同19.5%増の1,249億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「このうち、製造業は同1.6%増の4,296億円、非製造業（除く船舶・電力）は同9.8%増の4,321億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「4～6月をみると、受注総額は前期比7.1%増の8兆11億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「需要者別にみると、民需は同2.2%減の3兆237億円、官公需は同12.2%増の1兆132億円、」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「外需は同10.7%増の3兆5,702億円、代理店は同0.6%増の3,606億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「また、「船舶・電力を除く民需」は同3.2%減の2兆5,855億円、製造業は同1.1%増の1兆2,627億円、非製造業（除く船舶・電力）は同8.8%減の1兆3,134億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「2023（令和5）年7～9月見通しをみると、受注総額は前期比2.8%減の7兆7,784億円の見通しになっている」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「需要者別にみると、民需は同2.1%減の2兆9,593億円、官公需は同22.5%減の7,849億円、外需は同3.1%増の3兆6,816億円、代理店は同1.8%増の3,670億円の見通しになっている」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「また、「船舶・電力を除く民需」は同2.6%減の2兆5,174億円、製造業は同2.3%減の1兆2,338億円、非製造業（除く船舶・電力）は同1.4%減の1兆2,956億円の見通しになっている」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「6月は同4.8%減の2兆6,993億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「需要者別にみると、民需は前月比5.5%増の1兆2,608億円、」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「官公需は同4.4%増の2,410億円、外需は同12.1%減の1兆845億円、」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「代理店は同19.7%減の1,001億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+- 規模別・業種別：
+  - 「第2表 民需の業種別機械受注の伸び」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「第2表 民需の業種別機械受注の伸び」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「長期系列 製造業業種別機械受注額 (Excel形式：182KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「長期系列 非製造業業種別機械受注額 (Excel形式：134KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「長期系列 官公需業種別機械受注額 (Excel形式：91KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「第2表 民需の業種別機械受注の伸び」（https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html）
+  - 「第2表 民需の業種別機械受注の伸び」（https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html）
+  - 「第2表 民需の業種別機械受注の伸び」（https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html）
+  - 「特に、自動車・同付属品、電気機械、はん用・生産用機械の主力３業種が振る」（https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf）
+  - 「そのほか、２月は中小企業の設備投資と関連が深いといわれる代理店からの受注は前月比▲1.8％と微減だ」（https://www.dlri.co.jp/pdf/macro/2016/shin160411.pdf）
+  - 「第2表 民需の業種別機械受注の伸び」（https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html）
+  - 「官公需業種別_需要額 (550円)」（https://data-seisaku.com/00100-cao-00100401/）
+  - 「機械受注統計調査_製造業_需要者業種別_受注額_月次 2005年4月-2026年8月 (列指向...」（https://data-seisaku.com/00100-cao-00100401/）
+  - 「2026年10月15日公表値機械投資は景気のバロメーター、製造業業種別 (需要者) の受注額がわかります」（https://data-seisaku.com/00100-cao-00100401/）
+  - 「機械受注統計調査_非製造業_需要者業種別_受注額_月次 2005年4月-2026年8月 (列指...」（https://data-seisaku.com/00100-cao-00100401/）
+- 目的別：
+  - 「最終更新日 2026年10月19日」（https://data-seisaku.com/00100-cao-00100401/）
+  - 「企業のDX（デジタルトランスフォーメーション）や基幹システム投資関連の需要の振れが影響」（https://note.com/hibino_news/n/n4e09f1fa2ea2）
+  - 「企業が海外メーカー（特に中国など）から機械を輸入し、DX（デジタルトランスフォーメーション）やグリーン投資（再生可能エネルギー、5G関連など）を進めている場合、その受注額は」（https://note.com/hibino_news/n/n4e09f1fa2ea2）
+  - 「人手不足の解消や生産効率の改善を目的として依然として旺盛」（https://note.com/hibino_news/n/n4e09f1fa2ea2）
+  - 「DXやIT投資は、今後も日本の生産性向上に不可欠なテーマであり、非製造業で一時的な振れが見られたとしても、」（https://note.com/hibino_news/n/n4e09f1fa2ea2）
+- 機械受注：
+  - 「令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「需要者別にみると、民需は前月比3.2%増の1兆106億円、官公需は同2.9%減の3,406億円、外需は同6.9%減の1兆1,769億円、代理店は同19.5%増の1,249億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「外需は同10.7%増の3兆5,702億円、代理店は同0.6%増の3,606億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「また、「船舶・電力を除く民需」は同3.2%減の2兆5,855億円、製造業は同1.1%増の1兆2,627億円、非製造業（除く船舶・電力）は同8.8%減の1兆3,134億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「需要者別にみると、民需は同2.1%減の2兆9,593億円、官公需は同22.5%減の7,849億円、外需は同3.1%増の3兆6,816億円、代理店は同1.8%増の3,670億円の見通しになっている」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「また、「船舶・電力を除く民需」は同2.6%減の2兆5,174億円、製造業は同2.3%減の1兆2,338億円、非製造業（除く船舶・電力）は同1.4%減の1兆2,956億円の見通しになっている」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注統計調査報告(本文) (PDF形式：311KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注統計調査報告(グラフ) (PDF形式：279KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注統計調査報告(計数表) (PDF形式：615KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注統計調査報告(令和5年7～9月見通し) (PDF形式：219KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「需要者別受注額(季調系列) (CSV形式：19KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「需要者別受注額(原系列) (CSV形式：19KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+- 推移：
+  - 「機械受注総額の動向をみると、2023（令和5）年5月前月比2.9%減の後、6月は同0.2%増の2兆6,434億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「民間設備投資の先行指標である「船舶・電力を除く民需」の動向をみると、2023（令和5）年5月前月比7.6%減の後、6月は同2.7%増の8,540億円となった」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「2023（令和5）年7～9月見通しをみると、受注総額は前期比2.8%減の7兆7,784億円の見通しになっている」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「主要長期時系列統計表(2005年4月から)・Excel形式は」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「令和8年（2026年）1月調査において、季節調整値の改訂を行いました」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「平成29年（2017年）6月調査より、機種分類の表章が一部変更になりました」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「平成28年（2016年）1月調査より、需要者分類の表章が一部変更となりました」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「平成23年（2011年）4月調査より、需要者分類等が一部変更となりました」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「主要長期時系列統計表(2005年4月から)」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「令和8年度（2026年度）」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「令和7年度（2025年度）」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「令和6年度（2024年度）」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「令和5年度（2023年度）」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「過去の調査報告(令和4年度（2022年度）以前)」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+  - 「主要長期時系列統計表（2005年4月から）」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html）
+- 調査主体・時期：
+  - 「令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「令和5年6月実績および令和5年7～9月見通し：機械受注統計調査報告」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「本調査は、毎年1月調査の時点で季節調整値の改訂を行っており、過去に遡って改訂される」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注統計調査報告(本文) (PDF形式：311KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注統計調査報告(グラフ) (PDF形式：279KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注統計調査報告(計数表) (PDF形式：615KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注統計調査報告(令和5年7～9月見通し) (PDF形式：219KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注統計調査報告(調査結果表・大分類、中分類) (Excel形式：51KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「機械受注統計調査についてのお問い合わせはこちらまでお願いします」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「平成20年6月実績および平成20年7～9月見通し：機械受注統計調査報告 : 経済社会総合研究所 - 内閣府」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「平成20年6月実績および平成20年7～9月見通し：機械受注統計調査報告」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「機械受注統計調査報告(本文) (PDF形式：52KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「機械受注統計調査報告(グラフ) (PDF形式：60KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「機械受注統計調査報告(計数表) (PDF形式：384KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「機械受注統計調査報告(平成20年7～9月見通し) (PDF形式：180KB)」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+- 検索結果の抜粋：
+  - 「令和5年6月実績および令和5年7～9月見通し： 機械受注統計 ... — 令和5年6月実績および令和5年7～9月見通し： 機械受注統計 ... 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu」（https://www.esri.cao.go.jp/jp/stat/juchu/2023/2306juchu.html）
+  - 「平成20年6月実績および平成20年7～9月見通し： 機械受注統計 ... — 平成20年6月実績および平成20年7～9月見通し： 機械受注統計 ... 経済社会総合研究所 - 内閣府 https://www.esri.cao.go.jp > stat > juchu」（https://www.esri.cao.go.jp/jp/stat/juchu/0806juchu.html）
+  - 「よくある質問： 機械受注統計 調査 - 経済社会総合研究所 - 内閣府 — よくある質問： 機械受注統計 調査 - 経済社会総合研究所 - 内閣府 経済社会総合研究所 https://www.esri.cao.go.jp > juchu > juchu_faq201403」（https://www.esri.cao.go.jp/jp/stat/juchu/juchu_faq201403.html）
+  - 「機械受注統計 調査(2025年1月) - 第一生命経済研究所 — 機械受注統計 調査(2025年1月) - 第一生命経済研究所 第一ライフ資産運用経済研究所 https://www.dlri.co.jp > report > macro」（https://www.dlri.co.jp/report/macro/423900.html）
+  - 「平成25年10月実績： 機械受注統計調査 報告 — 平成25年10月実績： 機械受注統計調査 報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu」（https://www.esri.cao.go.jp/jp/stat/juchu/1310juchu.html）
+  - 「平成26年2月実績： 機械受注統計調査 報告 — 平成26年2月実績： 機械受注統計調査 報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu」（https://www.esri.cao.go.jp/jp/stat/juchu/1402juchu.html）
+  - 「令和6年2月実績： 機械受注統計調査 報告 — 令和6年2月実績： 機械受注統計調査 報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu」（https://www.esri.cao.go.jp/jp/stat/juchu/2024/2402juchu.html）
+  - 「平成25年7月実績： 機械受注統計 調査報告 — 平成25年7月実績： 機械受注統計 調査報告 経済社会総合研究所 https://www.esri.cao.go.jp > stat > juchu」（https://www.esri.cao.go.jp/jp/stat/juchu/1307juchu.html）
+
+## 設備投資の目的別割合の推移（能力拡充・更新・省力化・合理化）（capital investment purpose share trend Japan SMEs labor saving）
+- 文脈：目的・人手不足の材料
+- 実施割合・計画割合：
+  - 「設備投資額の増減率をみると、全産業の2025年度実績は+14.8%」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+  - 「設備投資実施「有」企業割合は、2025年度実績で全体の66.3％、2026年度修正計画で59.3%と高水準が継続」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+  - 「◼ 2025年度実績における設備投資を実施しない理由の上位は、①「現状で設備は適正水準」が61.7％、」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+  - 「◼ 設備投資額の増減率をみると、全産業の2025年度実績は2024年度実績対比+14.8%」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+  - 「2025年度（2025年4月～2026年3月）に設備投資を実施する予定（計画）があるか尋ねたところ、設備投資計画が『ある』（「すでに実施した」「予定している」「実施を検討中」の合計）と回答した企業は前年（2024年度の設備投資計画、2024年4月に実施）から1.3ポイント減の57.4％となり、2年連続で低下した」（https://www.tdb.co.jp/report/economic/20250528-2025capinvest/）
+  - 「図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）」（https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf）
+  - 「○ 2024年度に海外拠点へ設備投資を実施した企業割合をみると、全規模は 23.5％と、2023年度実績（24.1％）から低下した」（https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf）
+  - 「（注）１ 「海外拠点があり設備投資を実施」と回答した企業の海外での設備投資の延べ件数を国・地域別に 集計、延べ投資件数全体に対する割合を求めたもの」（https://www.jfc.go.jp/n/findings/pdf/news2025_06a.pdf）
+  - 「注1）実績等は､当該年度中に設備投資を実施（実施見込み）した回答企業数の割合で、2014～2021年度は実績、2022年度は実績見込である」（https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf）
+  - 「• 設備投資環境について全産業の各種D.I.をみると、「売上･受注見通しD.I.」（22/03調査＋8.6%p」（https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf）
+  - 「→23/03調査+36.8%p）及び「収益見通しD.I.」（同＋1.9%p →同+18.2%p)は2年連続で「かなり増」（https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf）
+  - 「50.0(%p)」（https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf）
+  - 「• 「現有設備D.I.」（同△4.3%p→同△19.1%p)は、「やや不安がある+大いに不安がある」超となり、同」（https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf）
+  - 「• 「設備投資実施方針D.I.」（同＋7.2%p→同＋16.7%p）は、「積極的に実施＋ある程度前向きに実施」」（https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf）
+  - 「50.0(%P)」（https://www.okinawakouko.go.jp/userfiles/files/20230427_kisyahappyou_setubitousi.pdf）
+- 金額・前年比：
+  - 「DBJの「全国設備投資計画調査」によると、資本金10億円以上の製造業では、設備投資額はコロナ禍後に増加基調となり、2026年調査では2025年度の実績は約7兆円に達した」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「一方、設備投資額に占める維持・補修の割合は、2011年度の23.9％から2025年度には30.5％へ上昇し、約2.1兆円となった」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「資料1は、日本政策投資銀行（以下「DBJ」）が毎年公表している「全国設備投資計画調査」の2011年度以降のデータに基づき、我が国の資本金10億円以上の製造業企業について、投資動機別投資額の推移を示したものである（注1）」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「製造業の設備投資額は、2011年度以降さほど大きくは伸びていないものの、コロナ禍後は増加基調にあり、2025年度実績では約7兆円の規模となった」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「資料1の製造業をさらに、素材系と加工・組立系に分け（注1）、投資動機別設備投資額の推移を示したものが資料2である」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「DBJの「全国設備投資計画調査」では、2010年度調査までは設備投資額および投資動機を事業基準分類（企業の事業部門を基に分類）で、2011年度調査以降は主業基準分類（企業の主たる事業に基づき分類）で集計している」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「プライム市場の独立社外取締役過半会社は3割を超えた ～継続上場会社にみる増加の実態～」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「まず直近の2017年度では、「維持更新」と回答する企業が最も多くなっており、更に10年を通じて、「維持更新」と回答する企業の比率が増加していることが確認できる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html）
+  - 「中小企業と大企業の設備年齢がほぼ同水準だった1990年の設備年齢指数をそれぞれ100としてその推移を見てみると、足下の2016年度において大企業の設備年齢指数は148.6と1990年から約1.5倍となっているのに対し、中小企業の設備年齢指数は194.1と約2倍にまで増加しており、中小企業の設備が大企業の設備に比して老朽化が進んでいることが分かる（」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html）
+  - 「◼４．設備投資額の増減率」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+  - 「２ 設備投資の目的…情報化関連が増加」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+  - 「３ 設備投資額の増減率…引き続き増加、非製造業の伸びがけん引」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+  - 「設備投資額の増減率をみると、全産業の2025年度実績は+14.8%」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+- 規模別・業種別：
+  - 「鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「輸送用機械製造業では設備投資額が拡大したものの、両利益率は低下しており、投資額の増減だけで投資の妥当性を評価することは難しい」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「4．設備投資の違いと財務成果―鉄鋼業と輸送用機械製造業の比較」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「輸送用機械製造業では、設備投資額が拡大し、新製品・製品高度化や研究開発等への投資比率を高水準で維持している一方、営業利益率、総資産営業利益率はいずれも後半の期間で低下している」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「「素材系」は「化学」「窯業・土石」「紙・パルプ」「繊維」「鉄鋼」「非鉄金属」を、「加工・組立系」は「一般機械」「精密機械」「輸送用機械」「電気機械」「食品」を指す」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「素材系と加工・組立系では設備投資の投資動機別構成に違いがみられることから、その特徴を具体的に確認するため、各区分の代表的業種であり、設備投資規模も大きい鉄鋼業と輸送用機械製造業を取り上げた」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「第2部 深刻化する人手不足と中小企業の生産性革命」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html）
+  - 「以下では、内閣府・財務省「法人企業景気予測調査」を用いて、過去10年の中小企業の投資目的別の設備投資スタンスについて確認する（」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html）
+  - 「後述するように、中小企業の設備年齢が上昇傾向を続けていることが背景にあると考えられる」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html）
+  - 「中小企業と大企業の設備年齢がほぼ同水準だった1990年の設備年齢指数をそれぞれ100としてその推移を見てみると、足下の2016年度において大企業の設備年齢指数は148.6と1990年から約1.5倍となっているのに対し、中小企業の設備年齢指数は194.1と約2倍にまで増加しており、中小企業の設備が大企業の設備に比して老朽化が進んでいることが分かる（」（https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/h30/html/b2_5_1_2.html）
+  - 「１ 目的・内容 ○中小企業の国内設備投資動向（注）の調査」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+  - 「（注）いわゆる「中小会社」（会社法第2条6号に規定する「大会社」以外の会社）または法定中小企業」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+  - 「（中小企業基本法第2条に規定する中小企業者）のいずれかに該当する非上場企業を中心に選定」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+  - 「1）従業員規模別」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf）
+- 目的別：
+  - 「素材系では維持・補修の比率が高い一方、新製品・製品高度化や研究開発の比率は低い」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「企業には、自社の事業特性、投資目的、成果発現までの時間軸を踏まえ、成長、能力増強、生産性向上、維持・更新、撤退等の間で経営資源を適切に配分することが求められる」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「同調査では設備投資の動機を「能力増強」「新製品・製品高度化」「合理化・省力化」「研究開発」「維持・補修」「その他」の6つに分類している」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「投資動機別の構成比をみると、維持・補修の比率が上昇する一方、能力増強の比率は低下しており、新製品・製品高度化や研究開発の比率には大きな変化はみられない」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「製造業では、新製品・製品高度化や能力増強等、将来の成長に向けた投資に加え、これまで蓄積してきた設備ストックについても、老朽化への対応、安全・品質の確保、省力化、供給能力の維持等のため、継続的な維持・更新投資が必要となる」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「素材系はもともと維持・補修比率が高く、新製品・製品高度化や研究開発の比率が低い」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「一方、加工・組立系では、新製品・製品高度化、研究開発の比重が相対的に高い」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「また、素材系で維持・補修が一貫して大きな比重を占め、加工・組立系でも近年その比重が高まっていることは、設備ストックを抱える製造業にとって既存設備の維持・更新が継続的な経営課題であることを示している」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「鉄鋼業では、脱炭素化への対応として製造プロセスそのものの転換が課題となっており、既存設備の維持・更新に加えて、将来の生産方式を見据えた研究開発・設備投資が必要となっている（注5）」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「輸送用機械製造業では、設備投資額が拡大し、新製品・製品高度化や研究開発等への投資比率を高水準で維持している一方、営業利益率、総資産営業利益率はいずれも後半の期間で低下している」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「一方、取締役会には、能力増強、新製品・製品高度化、研究開発、合理化・省力化、維持・更新等、投資目的別の構成やその変化を把握し、それが自社の経営戦略や事業ポートフォリオと整合しているかを確認することが求められる」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「具体的には、維持・更新投資が競争力の維持にどのような役割を果たしているのか、成長投資と既存設備への投資の配分に伴う機会費用をどう考えているのか、経営陣による投資後の成果検証を取締役会がどのように監督しているのか、といった点について対話を深めることが考えられる」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「DBJ調査が示すように、設備投資の構成は業種によって大きく異なり、成熟した設備基盤を持つ企業では、維持・更新も重要な資本配分の対象である」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「企業には、成長、能力増強、生産性向上、維持・更新等、必要性の異なる投資を自社の状況に応じて組み合わせることが求められる」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「経済産業省、国土交通省（2025）「「モビリティDX戦略」2025年のアップデート」59頁参照」（https://www.dlri.co.jp/report/asset/654504.html）
+- 機械受注：
+  - 「製造業（同＋14.8％）が食料品、自動車関連、一般機械などで増加に転じる一」（https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf）
+  - 「Ⅱ. 設備投資の動向 １．2025年度の計画 ～製造業は食料品、自動車関連、一般機械を中心に増加～」（https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf）
+  - 「◼ 2025年度は同＋14.8％と、食料品の新規設備導入や自動車関連、一般機械の設備更新などを中心に前年を上回る計画である（図表7）」（https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf）
+  - 「３ 一般機械69.2％（n=13） 卸売50.0％（n=32）」（https://www.hirogin-hd.co.jp/news/__icsFiles/afieldfile/2025/06/30/20250630_news2.pdf）
+- 推移：
+  - 「2026.08.24」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「高市政権の経済政策では「投資」が前面に押し出され、2026年7月に閣議決定された日本成長戦略でも、17の戦略分野を中心に国内投資を拡大する方針が示された」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「政府は2040年度の国内民間設備投資を年間250兆円程度まで高める経済の姿を描いている」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「DBJの「全国設備投資計画調査」によると、資本金10億円以上の製造業では、設備投資額はコロナ禍後に増加基調となり、2026年調査では2025年度の実績は約7兆円に達した」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「一方、設備投資額に占める維持・補修の割合は、2011年度の23.9％から2025年度には30.5％へ上昇し、約2.1兆円となった」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「2026年2月の基本方針では、官民が連携する「危機管理投資」「成長投資」が強い経済実現の柱に位置付けられ、7月に閣議決定された日本成長戦略では、17の戦略分野を中心に国内投資を拡大する方針が具体化された」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「政府は、成長戦略の実行を通じ、2040年度に国内民間設備投資を年間250兆円程度まで高める経済の姿を描く」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「資料1は、日本政策投資銀行（以下「DBJ」）が毎年公表している「全国設備投資計画調査」の2011年度以降のデータに基づき、我が国の資本金10億円以上の製造業企業について、投資動機別投資額の推移を示したものである（注1）」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「製造業の設備投資額は、2011年度以降さほど大きくは伸びていないものの、コロナ禍後は増加基調にあり、2025年度実績では約7兆円の規模となった」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「その中で、維持・補修の割合は2011年度の23.9％から2025年度の30.5％へ上昇し、金額としても約2.1兆円まで拡大している」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「資料1の製造業をさらに、素材系と加工・組立系に分け（注1）、投資動機別設備投資額の推移を示したものが資料2である」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「鉄鋼業では、設備投資額が縮小する一方、維持・補修の比重は高水準で推移している」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「DBJの「全国設備投資計画調査」では、2010年度調査までは設備投資額および投資動機を事業基準分類（企業の事業部門を基に分類）で、2011年度調査以降は主業基準分類（企業の主たる事業に基づき分類）で集計している」（https://www.dlri.co.jp/report/asset/654504.html）
+- 調査主体・時期：
+  - 「政府は2040年度の国内民間設備投資を年間250兆円程度まで高める経済の姿を描いている」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「DBJの「全国設備投資計画調査」によると、資本金10億円以上の製造業では、設備投資額はコロナ禍後に増加基調となり、2026年調査では2025年度の実績は約7兆円に達した」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「一方、設備投資額に占める維持・補修の割合は、2011年度の23.9％から2025年度には30.5％へ上昇し、約2.1兆円となった」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「鉄鋼業と輸送用機械製造業を比較すると、2011～2017年度から2018～2024年度にかけて、鉄鋼業では設備投資額が縮小する一方、営業利益率や総資産営業利益率は改善した」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「政府は、成長戦略の実行を通じ、2040年度に国内民間設備投資を年間250兆円程度まで高める経済の姿を描く」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「資料1は、日本政策投資銀行（以下「DBJ」）が毎年公表している「全国設備投資計画調査」の2011年度以降のデータに基づき、我が国の資本金10億円以上の製造業企業について、投資動機別投資額の推移を示したものである（注1）」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「同調査では設備投資の動機を「能力増強」「新製品・製品高度化」「合理化・省力化」「研究開発」「維持・補修」「その他」の6つに分類している」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「製造業の設備投資額は、2011年度以降さほど大きくは伸びていないものの、コロナ禍後は増加基調にあり、2025年度実績では約7兆円の規模となった」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「その中で、維持・補修の割合は2011年度の23.9％から2025年度の30.5％へ上昇し、金額としても約2.1兆円まで拡大している」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「DBJ調査からその要因まで特定することはできないが、必要とされる設備投資の内容が産業によって一様ではないことは示唆される」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「ここでは、前章で確認したように業種によって設備投資の動機別構成が異なることを踏まえ、具体的な業種について、投資構成と財務成果がどのように変化しているかを、財務省「法人企業統計」のデータも用いて確認する（注2）」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「素材系製造業として鉄鋼業、加工・組立系製造業として輸送用機械製造業に着目し（注3）、2011～2017年度と2018～2024年度の2期間に分け（注4）、DBJ「全国設備投資計画調査」のデータから、各期間の設備投資額と投資動機別投資割合を確認する」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「併せて、法人企業統計から両業種の収益性等の財務指標を抽出し、設備投資の状況と財務成果が両期間でどのように変化したかを比較する（資料3）」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「DBJ調査が示すように、設備投資の構成は業種によって大きく異なり、成熟した設備基盤を持つ企業では、維持・更新も重要な資本配分の対象である」（https://www.dlri.co.jp/report/asset/654504.html）
+  - 「DBJの「全国設備投資計画調査」では、2010年度調査までは設備投資額および投資動機を事業基準分類（企業の事業部門を基に分類）で、2011年度調査以降は主業基準分類（企業の主たる事業に基づき分類）で集計している」（https://www.dlri.co.jp/report/asset/654504.html）
+
+## 中小製造業が設備投資をしない理由の推移（reasons SMEs do not invest capital Japan）
+- 文脈：痛み・理由
+- 実施割合・計画割合：
+  - 「前年度修正計画38.2%から9.0％pt増加」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「 2021年度実績で設備投資を実施しない理由の上位は 、2020 年実績と同様 、①「現状で設備は適正水準 」が」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「▲5.3%ptと大きく低下した」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「商工中金、中小企業設備投資動向調査公表、26年度設備投資実施企業は45.5% | 工場計画情報」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「商工中金、中小企業設備投資動向調査公表、26年度設備投資実施企業は45.5%」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「これによると、25年度実績見込みで設備投資実施（「有」）企業割合は62.4%と、24年度実績見込み（61.7%）をやや上回る高水準となる」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「26年度当初計画は設備投資「有」が45.5%と、40%前後で推移していた22～25年度から大きく伸長し、設備投資意欲の高さが示唆される」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「製造業の25年度実績見込は、設備投資「有」企業が69.0%で前年度比1.5%低下」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「26年度当初計画は、「有」企業が50.7%と、前年度比6.1%上昇と大きく伸長する」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「非製造業の25年度実績見込は、設備投資「有」企業が58.9%で前年度比1.7%上昇」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「26年度当初計画も、「有」企業が42.7%で前年度比6.0%上昇する」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「25年度実績見込みにおける設備投資を実施しない理由の上位は、「現状で設備は適正水準」が59.5%、「景気の先行き不透明」が20.1%となっている」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「設備投資額の増減率をみると、全産業の25年度実績見込みは24年度実績対比5.7%増」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「26年度当初計画は25年度実績見込み対比29.7%減となる」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「製造業の設備投資額の増減率は、25年度実績見込みで24年度実績対比10.4%増」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+- 金額・前年比：
+  - 「３ 設備投資額の増減率…21年度実績は3年ぶりのプラス」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「全産業の設備投資額の増減率は21実績で前年度実績対比＋16.2％となり、」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「５ 設備資金調達方法…「金融機関借入」割合が減少」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「１ 設備投資「有」比率…21年度、22年度ともに前年同時期から大幅に増加」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「前年度修正計画48.0％から13.4％pt増加」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「前年度修正計画38.2%から9.0％pt増加」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「8 環境配慮売上増加 自動車・同部品卸 トラック触媒の洗浄マシーン」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「（注1）当初計画の前年比増減率は、前年度実績見込比の増減率」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「（注2）前回調査と今回調査で連続して回答を得られた企業を対象に集計（40億円以上の大口投資は除いて算定）」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「（注3）2021年1月調査より、従来の土地、建物、機械に加え、ソフトウェア投資額についても調査」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「３．設備投資額の増減率①(全産業)」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「 設備投資額の増減率 は、全産業では2021年度実績で2020年度実績対比＋16.2％となり、実績時点では3年ぶり」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「［図表3-1］年度別設備投資額増減率の推移（全産業、当初計画→修正計画→実績見込→実績）」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「３．設備投資額の増減率②(製造業)」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「 製造業の設備投資額の増減率は2021年度実績で2020年度実績対比＋13.0％」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+- 規模別・業種別：
+  - 「１ 目的・内容 ○中小企業の国内設備投資動向（注）の調査」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「（注）いわゆる「中小会社」（会社法第2条6号に規定する「大会社」以外の会社）または法定中小企業」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「（中小企業基本法第2条に規定する中小企業者）のいずれかに該当する非上場企業を中心に選定」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「1）従業員規模別」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「① １０人以下 937 17.9」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「② １０人超～３０人以下 1,571 30.0」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「③ ３０人超～５０人以下 909 17.4」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「④ ５０人超～１００人以下 924 17.7」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「食料品 219 4.2 金属製品 289 5.5 建設 468 8.9」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「繊維 73 1.4 はん用、生産用、業務用機械 200 3.8 卸売 950 18.2」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「紙・パルプ 38 0.7 輸送用機器 103 2.0 不動産・物品賃貸 236 4.5」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「3 EV・需要増 輸送用機器製造 ＥＶ製品の生産ライン 新規顧客にてＥＶ製品を新規受注したため」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「4 需要増 金属製品製造 工場増設、HIP装置 ・半導体製造装置向け部品加工・船舶用部品加工等の受注が好調なため」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「9 従業員教育 対事業所サービス オンライン教育システムの機能追加 外国人労働者の労働環境の改善ため、教育が必要不可欠と考え、オンライン教育システムを導入」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「6 事業再構築補助金高付加価値化 金属製品製造 ・切削加工設備・倉庫増築 ・事業再構築補助金を活用社内加工できるものを増やし、付加価値を高める・倉庫を増築し、安全な作業スペースを確保」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+- 目的別：
+  - 「⑤合理化・省力化 21.1 22.8 19.8 22.0 ＋2.2 22.1 ＋0.1」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「⑨新製品の生産 6.4 5.9 5.7 5.5 ▲0.2 6.8 ＋1.3」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「研究開発 3.2 2.8 2.4 2.8 ＋0.4 3.2 ＋0.4」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「5 需要増・環境配慮 飲食料品小売 冷蔵庫新築および既存の冷蔵設備機器の更新 冷蔵倉庫の需要が高いこと、既存冷蔵倉庫の改修が必要なこと、およびCO2削減に取り組むため」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「7 生産性向上人手不足対応 鉄・非鉄製品製造 大口炉 炉を大型化し、生産性向上を進める事で、人手不足を解消したい」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「8 合理化 旅館・ホテル セントラルキッチン 食品ロスの削減と合理化」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「長期での推移をみると、「維持・補修」「合理化・省力化」が上昇基調にある」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「25年度実績見込から26年度当初計画にかけて上昇している項目は、「増産・販売力強化」「新製品の生産」「新規事業への進出」などで、先行き不透明感の後退を示唆している」（https://www.sangyo-times.jp/article.aspx?ID=15070）
+  - 「２ 設備投資の目的…合理化・省力化、情報化投資が増加」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi20250919.pdf）
+  - 「での推移をみると、「合理化・省力化」、 「情報化投資」が増加を続けている」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi20250919.pdf）
+  - 「◼長期での推移をみると（11頁）、⑤「合理化・省力化」、⑦ 「情報化関連」が増加基調」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi20250919.pdf）
+  - 「⑤合理化・省力化 22.0 23.4 25.0 25.8 +0.8 26.1 +0.3」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi20250919.pdf）
+  - 「⑨新製品の生産 5.5 6.2 6.2 4.7 ▲ 1.5 4.6 ▲ 0.1」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi20250919.pdf）
+  - 「研究開発 2.8 2.4 2.2 2.8 +0.6 2.7 ▲ 0.1」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi20250919.pdf）
+  - 「１ 合理化・省力化 繊維製造 自動ビニル梱包機 手動から自動化への移行」（https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi20250919.pdf）
+- 推移：
+  - 「（2022年7月調査）」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「2022年９月30日」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「対象年度の設備投資について、夏・冬の2回に分けて調査」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「○冬調査 ： （Ｃ）当年度の実績見込 （Ａ）翌年度の当初計画」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「○夏調査 ： （Ｄ）前年度の実績 （Ｂ）当年度の修正計画（今回）」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「２ 調査時点 2022年7月1日現在」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「２ 設備投資の目的…22年度は「新規事業への進出」等が上昇」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「21年度から22年度にかけては、「新規事業への進出」 に取り組む」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「３ 設備投資額の増減率…21年度実績は3年ぶりのプラス」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「全産業の設備投資額の増減率は21実績で前年度実績対比＋16.2％となり、」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「４ 設備投資「無」の理由…22年度にかけ「景気の先行き不透明」が」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「１ 設備投資「有」比率…21年度、22年度ともに前年同時期から大幅に増加」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「設備投資の2021年度実績（以下、「21実績」）では、実施（設備投資「有」）企業割合は全体の61.8％と実績として2005年以来の」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「また、2022年度修正計画（以下、「22修正」）も、設備投資「有」が全体の51.8％と修正計画時点では2007年以来の高水準」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「2017/7 2018/1 2018/7 2019/1 2019/7 2020/1 2020/7 2021/1 2021/7 2022/1 2022/7」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+- 調査主体・時期：
+  - 「（2022年7月調査）」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「 調査要領、調査回答企業の属性、業況」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「１ 目的・内容 ○中小企業の国内設備投資動向（注）の調査」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「対象年度の設備投資について、夏・冬の2回に分けて調査」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「○冬調査 ： （Ｃ）当年度の実績見込 （Ａ）翌年度の当初計画」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「○夏調査 ： （Ｄ）前年度の実績 （Ｂ）当年度の修正計画（今回）」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「２ 調査時点 2022年7月1日現在」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「４ 企業数 アンケートの郵送送付先数10,342社（回収率50.6％）有効回答数 5,231社（内、WEB回答2,217社、調査票回答3,014社）」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「５ 調査方法 調査票（郵便で返送）またはWEB画面での回答によるアンケート調査」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「照会先 商工中金 産業調査部 山本（直通 080-7008-8724）Email chosa■gm.shokochukin.co.jp（■を@に変換）」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「回答企業数 構成比(％) 回答企業数 構成比(％) 回答企業数 構成比(％)」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「２ 設備投資の目的…22年度は「新規事業への進出」等が上昇」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「21年度から22年度にかけては、「新規事業への進出」 に取り組む」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「３ 設備投資額の増減率…21年度実績は3年ぶりのプラス」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+  - 「全産業の設備投資額の増減率は21実績で前年度実績対比＋16.2％となり、」（https://www.shokochukin.co.jp/report/data/assets/pdf/220930setsubi.pdf）
+- 機械受注：記載なし（読んだ24頁・検索11回）

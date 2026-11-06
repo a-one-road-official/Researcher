@@ -1,0 +1,2337 @@
+{
+ "name": "金属加工・溶接の職業",
+ "en": "metal working welding job openings ratio Japan",
+ "aliases": [
+  "金属材料製造",
+  "金属溶接・溶断",
+  "溶接工",
+  "金属加工"
+ ],
+ "context": "生産工程の職業（職種別）",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:56:32.122920+00:00",
+ "evidence": {
+  "求人倍率・充足率": [
+   {
+    "quote": "需要の現在地——有効求人倍率2.67倍をどう読むか",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の有効求人倍率は2.67倍（令和6年度・ハローワーク求人統計データ／job tag「溶接工」）です",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば鳶は有効求人倍率が22.08倍、配管工は10.83倍（いずれも令和6年度・ハローワーク求人統計データ）と極端な売り手市場が続いています",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の有効求人倍率は2.67倍（令和6年度・ハローワーク求人統計データ）と全産業平均を上回る水準で、需要が消えている状態ではない",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は2.67倍（令和6年度・ハローワーク求人統計データ）で全産業平均を上回る人手不足の状態にあります",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省 職業情報提供サイト（job tag）「溶接工」（有効求人倍率2.67倍・就業者数163,710人・平均年収454.7万円・平均年齢41.8歳は令和7年賃金構造基本統計調査をもとに集計・2026年3月公表",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率・求人統計は令和6年度ハローワーク求人統計データ／職業安定業務統計をもとに集計）、国土交通省（道路橋の建設後50年経過割合 約42%→約54%→約75%・2025年3月→2030年3月→2040年3月時点）、2025年版ものづくり白書（経済産業省・厚生労働省・文部科学省）（製造業就業者1,046万人・2024年",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率で見る製造業の人手不足（令和6年：生産工程1.67倍 / 全産業1.25倍）",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、求職者1人に対して何件の求人があるかを示す指標です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が発表した令和6年（2024年）の職業別有効求人倍率（原数値、パート除く）を見ると、製造業が該当する「生産工程の職業」は1.67倍前後で推移し、全産業平均の1.25倍を大きく上回っています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "２０２２年度下期・注目の数字（２）／金属溶接技能者の有効求人倍率・３倍／上昇傾向止まず、地域間で格差も | 日刊鉄鋼新聞 Japan Metal Daily",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "２０２２年度下期・注目の数字（２）／金属溶接技能者の有効求人倍率・３倍／上昇傾向止まず、地域間で格差も",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が先月３０日に発表した一般職業紹介状況によると、８月の有効求人倍率は全体で１・１８倍に対し、溶接技能者（金属材料製造・金属加工・金属溶接・溶断の職業）は３・１８倍",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業比率79.8%・求人倍率8.05倍（全国2位）の激戦区で高卒人材を確保する戦略",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率8.05倍（全国2位）という激戦の採用市場において、中小製造業が高卒人材を確保するための戦略を解説します",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府の高卒採用市場は求人倍率8.05倍と全国2位の超売り手市場です",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率8.05倍の激戦市場では、7月の求人解禁後に素早く動くことが不可欠です",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府の製造業は14,412事業所・中小企業比率79.8%という構造の中で、求人倍率8.05倍という激戦の採用市場が形成されています",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率2.67倍という人手不足のなか、育成を前提とした採用は着実に広がっています",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=351",
+    "pass": 3
+   },
+   {
+    "quote": "理由① 有効求人倍率2.67倍という人手不足",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=351",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率2.67倍という人手不足も背景に、未経験を育成前提で採用する企業は少なくありません",
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=351",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 1.06 1.16 1.28 1.27 1.18 1.10 1.15 1.25 1.29 1.30 1.28 1.33 1.38 1.36 1.34 1.27 1.20",
+    "url": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/R1.6.7_nahasyo_gyoumu_geltupou_H3104.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 0.86 1.06 1.16 1.28 1.29 1.32 1.34 1.30 1.30 1.27 1.18 1.10 1.15 1.25 1.29 1.30 1.28",
+    "url": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/H30.12.3_nahasyo_gyoumu_geltupou_H3010.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月間有効 G/D×100 5.0 * * 4.9 0.1 5.6 ▲ 0.6充足率",
+    "url": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/H30.12.3_nahasyo_gyoumu_geltupou_H3010.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●有効求人倍率[年度平均]（1.68倍） ●有効求職者数[年度平均］（901人） ●有効求人数[年度平均]（1,513人）",
+    "url": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/000695104.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●新規求人倍率[年度計]（2.11倍） ●新規求職申込件数[年度計]（2,996件） ●新規求人数[年度計]（6,324人）",
+    "url": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/000695104.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 0.37 0.42 0.45 0.56 0.73 0.86 1.00 1.35 1.40 1.67 1.68",
+    "url": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/000695104.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 2.67倍",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は2.67倍",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度の全国有効求人倍率は、",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度の有効求人倍率は、",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は2倍を超えている",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工が含まれる職業分類の令和6年度の有効求人倍率は、全国で2.67倍でした",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   }
+  ],
+  "高卒・技術者": [
+   {
+    "quote": "2025年版ものづくり白書（経済産業省・厚生労働省・文部科学省）が示す製造業の人手不足、国土交通省が公表する橋梁老朽化のデータ、溶接技能者の認証推移を並べることで、需要の構造が見えてきます",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接技能者（通称：JIS溶接技能者）の認証受験者数は2019〜2022年で約10〜11万人で推移し、横ばいが続く",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "）によると、溶接技能者（通称：JIS溶接技能者）の受験者数は2019年に111,902人、2020年に100,466人、2021年に110,931人、2022年に104,035人と推移しており、2019〜2022年の4年間、約10〜11万人の横ばいが続いています",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "特に溶接継手部のき裂補修や鋼部材の溶接接合は、現地で溶接技能者が作業する工程です",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接技能者（通称：JIS溶接技能者）の上位グレード・高難度種目の取得は、特定の工事仕様で求められる要件になる場合があります",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接管理技術者（溶接管理技術者2級・1級）や建築・土木系の施工管理技士を取得して、現場の品質管理・施工管理の役割に移行すると、年齢を重ねても対応できる仕事の幅が保ちやすくなります",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "橋梁の老朽化に伴う補修・補強は、現地で溶接技能者が対応する仕事",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接技能者（通称：JIS溶接技能者）の認証受験者数は2019〜2022年の4年間で約10〜11万人の横ばい（一般社団法人 日本溶接協会・2022年度時点の業界団体データ）",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "新規供給が増えない構造は技能者の希少性を支えやすい",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 溶接技能者の有資格者は増えていますか？",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 一般社団法人 日本溶接協会のデータ（2022年度時点）では、溶接技能者（通称：JIS溶接技能者）の受験者数は2019〜2022年の4年間、約10〜11万人で横ばいが続いています",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 複数の溶接法（被覆アーク・半自動・TIG）に対応できる幅を広げること、補修・高難度工種・多品種少量など自動化しにくい領域の経験を積むこと、溶接技能者（通称：JIS溶接技能者）の上位グレードや溶接管理技術者の取得で管理・監督側への移行を視野に入れることが、長期的な選択肢として挙げられます",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "6割以上の事業所が指導人材不足とする値は厚生労働省「能力開発基本調査」を白書が引用）、一般社団法人 日本溶接協会（溶接技能者認証の受験者数推移・2022年度時点",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化の加速、若者の製造業離れ、熟練技術者の大量退職",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、既存の溶接・板金・切削などの技能職においても若年就業者の獲得が進まず、ベテランの退職とともに現場の技術力が急速に低下するリスクを抱えています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な半導体需要の増大や国内製造拠点の復活・新設（TSMC熊本工場など）を背景に、即戦力となる技術者・エンジニアの人材不足が加速しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "特に問題なのは、半導体関連の専門的な技術者は育成に長期間を要し、即座に人手不足を解消できないことです",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "この教育体制は熟練技術者が豊富にいる時代には機能していましたが、人手不足が深刻化した現代では深刻な問題を生じさせています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "熟練職人や技術者が人材不足解消の見通しが立たないまま定年退職を迎えると、その人物が体得してきた技術・暗黙知・勘と経験は組織に残ることなく失われてしまいます",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "DX・自動化の文脈で製造業の人材不足対策として最も重要なテーマの一つが、ベテラン技術者の「暗黙知」のデジタル化・データベース化です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版ものづくり白書でも、熟練技能者の動作をモーションキャプチャで可視化し、教育訓練に活用することで技能継承を実現した事例が紹介されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人材定着のためには、技術習熟度に連動した明確な等級・賃金制度の設計、資格取得支援・技術検定の評価への反映、キャリアパスの可視化（現場技術者からリーダー・マネジャー、あるいはDXエンジニアへの転換など）が重要です",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全・技能職は今後も採用での充足がほぼ不可能な領域",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：地元の高校・高専・工業高校との関係構築は最強の採用チャネル",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "特に地方の中小製造業にとって、地元工業高校との",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン技能者の定年を数年後に控え、加工条件・検査の勘所を動画とデータベースに落とし込む技能継承プロジェクトを実施",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "地元工業高校への出前授業とインターン受け入れ、を",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "高校新卒の応募が復活し、毎年の定期採用サイクル",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に新卒入社後、3年という速さで現職のリーダーに就任",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "月の溶接技能者（金属材料製造、金属加工、金属溶接・溶断の職業）に対する有効求人倍率は",
+    "url": "https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/",
+    "pass": 3
+   },
+   {
+    "quote": "特に中国、韓国においても溶接技能者不足は深刻で、アジア圏において溶接人材は取り合いとなっているのが現状だ",
+    "url": "https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/",
+    "pass": 3
+   },
+   {
+    "quote": "外国人人材のマッチングサービスや特定技能者の書類業務を効率化するクラウドサービス「スマイルビザ」を展開するクロスランは、「昨今、日本就業の志望者が減少傾向にあるのが事実です",
+    "url": "https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/",
+    "pass": 3
+   },
+   {
+    "quote": "熟練の溶接技術者が持つ技術・技能の伝承活動を改めて強化してきた日本溶接協会によると、「熟練者の教え方は千差万別",
+    "url": "https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/",
+    "pass": 3
+   },
+   {
+    "quote": "その際に、手本である熟練の溶接技術者のモデルとの差分を検出することで、より上達するためには、作業の動きをどう見直すべきかを個々人に提示できるようになる」（日鉄ソリューションズ）",
+    "url": "https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/",
+    "pass": 3
+   },
+   {
+    "quote": "文部科学省の学校基本調査や厚生労働省の新規学卒者就職状況調査を見ても、高校・大学の新卒者の製造業への就職率は、かつてに比べて伸び悩む傾向にあります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人手不足が止まらないもう一つの根本原因は、熟練技能者の引退による「技能継承の困難」と、",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの製造現場では、長年の経験と勘に裏打ちされた熟練技術者が、品質や生産効率を支えています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "長年の経験と知識を持つ熟練技能者が定年などで引退する際、後継者が育っていないために、その高度な技術やノウハウが失われてしまう「技術継承の困難」が顕在化しています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒一辺倒ではなく、経験豊富な中途採用者を積極的に受け入れることも重要です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用は、ハローワーク、新聞、求人広告等で行われている",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "関係団体が認定する「溶接作業技能者」、「溶接作業指導者」の資格もある",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "工場認定あるいは官公庁における工事発注の際の、設計や品質管理の責任者となるには「溶接管理技術者」が必要である",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "溶接管理技術者１級",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "溶接管理技術者２級",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "例えば「アーク溶接作業者」「ガス溶接技術者」といった国家資格の取得によって、より高度な作業を任されたり、資格手当がついたりすることもあります",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、現場のリーダーや管理職としてキャリアを築く道のほか、ロボット溶接機の操作や溶接管理技術者としての専門職に進む選択肢もあります",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "技能講習を修了した溶接工は、「ガス溶接技術者」として業務に従事できます",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム溶接技術者は、",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "日本溶接協会（JWES）が実施する「アルミニウム溶接技能者評価試験」に合格することで取得できます",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接管理技術者は、溶接作業そのものではなく、溶接工程全体の品質管理・工程管理・安全管理などを担う、いわば",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのシミュレーションは特定のスキルレベルに合わせてカスタマイズできるため、初心者から上級者まで、あらゆる溶接技能者に適しています",
+    "url": "https://wholesale.yeswelder.com/ja/blog/labor-shortages-in-welding/",
+    "pass": 3
+   },
+   {
+    "quote": "２０２２年度下期・注目の数字（２）／金属溶接技能者の有効求人倍率・３倍／上昇傾向止まず、地域間で格差も | 日刊鉄鋼新聞 Japan Metal Daily",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "２０２２年度下期・注目の数字（２）／金属溶接技能者の有効求人倍率・３倍／上昇傾向止まず、地域間で格差も",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "建築鉄骨市場が堅調に推移する中、採用活動で溶接技能者が十分に集まらないケースが相次いでいる",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が先月３０日に発表した一般職業紹介状況によると、８月の有効求人倍率は全体で１・１８倍に対し、溶接技能者（金属材料製造・金属加工・金属溶接・溶断の職業）は３・１８倍",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "溶接 高卒に関する 転職・求人・中途採用情報 | マイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接 高卒に関する求人・転職・中途採用情報",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接 高卒に関する求人・転職・中途採用情報＜11/6（金）更新＞",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビ転職では「溶接 高卒」に関連する転職・求人・中途採用情報を多数掲載中!「溶接 高卒」の転職・求人情報を探しているあなたにおすすめのお仕事を掲載しています",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "「溶接 高卒」に関連するキーワードからも転職・求人情報をお探しいただけるので、あなたにぴったりのお仕事を見つけてみてください!",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   }
+  ],
+  "規模別": [
+   {
+    "quote": "また同白書が引用する中小企業庁「中小企業景況調査」では、2024年の従業員数過不足DIはマイナス18.2で、不足超過が続いています",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の従業員数過不足DI マイナス18.2は中小企業庁「中小企業景況調査」2024年を白書が引用",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の割合が高く、大手企業に比べて給与水準や福利厚生で劣後することも多いため、採用競争力が低くなりやすい構造的な問題があります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が深刻化する中、自動化・ロボット導入による省人化が急速に進んでいますが、設備投資余力のない中小企業では対応が遅れがちです",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体の掲載費用、人材紹介会社へのフィー（成功報酬型では年収の30〜35%程度）、内定辞退を見越した多めの採用活動費——これらのコストは製造業、特に体力の限られた中小企業にとって大きな負担となっています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に陥った工場では、既存の従業員に過大な負荷がかかります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "「人手が足りない→残業が増える→疲弊した従業員が辞める→さらに人手が足りなくなる→残業がさらに増える」というデス・スパイラルに陥った製造業の工場は決して珍しくありません",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足は単に「人が足りない」という問題にとどまらず、在籍している従業員のモチベーションや健康を蝕み、組織全体の活力を失わせる経営危機の引き金となります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "政府もこうした取り組みを後押しするため、中小企業向けの設備投資補助金（ものづくり補助金、IT導入補助金等）を用意しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "「この会社でスキルを磨けば、こんなキャリアが開ける」というビジョンを従業員に示せる製造業企業が、人手不足の時代においても選ばれる職場となります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "働きやすい環境を整えることは、既存の従業員の満足度向上と離職防止だけでなく、採用面での競争力強化にも寄与します",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の人材不足はなぜ解決しないのか？データで見る本当の原因と、中小企業が打つべき対策の全て",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員や幹部の退職を直接の引き金とする「従業員退職型」も",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業」は、人材獲得競争において三重のハンデを背負っている",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が現場で経営者・従業員双方の声を聞く限り、若手だけでなく、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "私が支援先で退職者面談や従業員ヒアリングを重ねてきた実感として、就業先選びや退職判断で給与以上に重みを持つのは",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "】少ない人数で回る工場をつくる打ち手（省人化・小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "」と聞くと、大企業のスマートファクトリーや数千万円の生産管理システムを想像して尻込みする経営者が少なくありません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数十名規模の工場ほど、小規模",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "大企業型のスマートファクトリーを目指す必要はまったくありません",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "外国人材の受け入れは中小企業でも現実的ですか？",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "特に中小製造業では、ベテラン従業員の高齢化と若手人材の確保難が重なり、事業継続そのものが困難になるケースも散見されます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "生産性の低下、技術力や競争力の喪失、そして既存従業員の負担増とそれに伴う離職率の上昇は、負の連鎖を生み出し、事業継続そのものを危うくするリスクがあるのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "人手が足りない職場では、残された従業員一人ひとりへの業務負担が必然的に増加します",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の毎月勤労統計調査でも、製造業の所定外労働時間（残業時間）は高水準で推移しており、従業員の負担が増している現状が伺えます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "疲弊した従業員はストレスや不満を抱えやすくなり、従業員満足度調査の結果にもその影響が表れることがあります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、さらに人手不足が深刻化し、残された従業員の負担がさらに増えるという負の連鎖に陥ってしまうのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "この負の連鎖を断ち切るためには、既存従業員の負担を軽減し、新たな人材をスムーズに確保することが不可欠です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "魅力的な職場環境は、採用だけでなく従業員の定着にも直結します",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な賃上げや、住宅手当、社員食堂の設置、リフレッシュ休暇の導入など、従業員が安心して長く働けるような福利厚生の充実は不可欠です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員満足度が高い企業は、離職率が低く、結果として新たな人材の確保コストも削減できるという好循環が生まれます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットにはできない、人間にしかできない業務に人材をシフトすることで、従業員のモチベーション向上にも繋がります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "推進には初期投資が必要ですが、国や自治体による各種補助金や助成金制度（例：ものづくり補助金、事業再構築補助金、IT導入補助金など）を積極的に活用することで、中小企業でも導入のハードルを下げることが可能です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員が長く働き続けたいと思えるような、人材育成と定着支援が不可欠です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員のスキル向上は、生産性向上に直結します",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "また、「この会社で働き続ければ、どのようなキャリアを築けるのか」というキャリアパスを明確に示すことで、従業員は将来への希望を持ち、モチベーションを維持できます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "就業先の企業形態も、大企業から中小企業まで様々である",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "正規の職員、従業員",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "契約社員、期間従業員",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "労働安全衛生法にもとづき、感電や火傷といったリスクのある作業を行う前に、事業者は従業員にこの特別教育を受講させる義務があります",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット溶接システムの購入と設置にはかなりのコストがかかる可能性があり、中小企業にとっては障壁となる可能性があります",
+    "url": "https://wholesale.yeswelder.com/ja/blog/labor-shortages-in-welding/",
+    "pass": 3
+   },
+   {
+    "quote": "◆転勤なし 【本社】 福岡県久留米市荒木町藤田1423-32 ※マイカー通勤可（従業員専用の駐車場…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "【溶接オペレーター】製造・中小企業◆スキル・経験不問！",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "本社／石川県小松市五国寺町ホ102-2 ※マイカー通勤可（従業員駐車場あり） ※自転車通勤可 【雇…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "＼マイカー＆自転車通勤OK／ 本社：愛知県知多郡東浦町緒川市右原5-1 ※従業員専用駐車場完備 ※…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府 製造業の高卒採用戦略｜14,412事業所・東大阪の中小企業が大手に勝つ方法 | ゆめスタ",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府 製造業の高卒採用戦略｜14,412事業所・東大阪の中小企業が大手に勝つ方法",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業比率79.8%・求人倍率8.05倍（全国2位）の激戦区で高卒人材を確保する戦略",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府の製造業は14,412事業所を擁し、その79.8%が従業員29人以下の小規模事業所です",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニックやダイキン工業といった世界的大手企業を抱える一方、ボルトが緩まない「ハードロックナット」を生み出したハードロック工業のような世界唯一の技術を持つ中小企業が無数に存在します",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "従業員1〜29人",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "製造業はその中心的な人材需要産業であり、中小企業出荷額比率58.4%は全国平均（47.0%）を大きく上回ります",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "従業員29人以下",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "東大阪市では金属・機械が特に集積しており、「世界唯一の技術」を持つ中小企業が多数存在します",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニックが高卒400名を採用する大阪で、中小企業が同じ土俵で戦っても勝てません",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ハードロック工業の「ゆるまないボルト」のように、東大阪の中小企業には世界に誇る固有技術が多数あります",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府の製造業事業所数は14,412事業所で、そのうち小規模事業所（従業員1〜29人）が79.8%を占めます",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府の製造業は14,412事業所・中小企業比率79.8%という構造の中で、求人倍率8.05倍という激戦の採用市場が形成されています",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府 中小企業の差別化戦略7選",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業 単価 製造業 金属加工溶接の職業の求人・仕事・採用｜スタンバイでお仕事探し",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "採用にかけるお金": [
+   {
+    "quote": "罰則は6か月以下の拘禁刑または30万円以下の罰金）による就労時間の上限管理は、一人あたりの稼働量を絞る方向に働くため、限られた担い手への需要集中につながる側面があります",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省 職業情報提供サイト（job tag）「溶接工」（有効求人倍率2.67倍・就業者数163,710人・平均年収454.7万円・平均年齢41.8歳は令和7年賃金構造基本統計調査をもとに集計・2026年3月公表",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "月給32万円～38万円※経験・年齢・資格など考慮し優遇いたします※試用期間3ヶ月あり（待遇の変更なし）",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "450万円～550万円",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円～35万円※経験、スキルにより決定します※試用期間3か月あり（期間中の待遇変更なし）",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円～520万円",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "月給32万円～37万8000円※経験・能力等を考慮の上、決定します",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "450万円～530万円",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "410万円～570万円",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "350万円～560万円",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "月給：25万円～30万円※経験・年齢・能力を考慮して決定いたします※試用期間6ヶ月あり(待遇に変更なし)",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "400万円～550万円",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "350万円～400万円",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "250万円～500万円",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "400万円～500万円",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "月給24万円～※経験・年齢・資格など考慮し優遇いたします※試用期間3ヶ月あり（待遇の変更なし）",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "380万円～600万円",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "400万円以上",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "607万円 → 300万円",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給30万円～60万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～500万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収430万円～500万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収420万円～500万円 / 昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給26万円～33万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円～600万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収380万円～460万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給23万円～35万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収300万円～450万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収350万円～450万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "など実務未経験可) 【給与】<予定年収>350万円～450万円",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給21万円～35万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "年収392万円～630万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給21万円～29万円 / 賞与あり・昇給あり",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "月給23.9万円〜26.5万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜50万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収900万円〜2,499万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20万円〜30万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給25万円〜30万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収500万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収550万円〜600万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給20.8万円〜32.2万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収400万円〜430万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "年収477万円〜633万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "化学系製造業の製造オペレーター｜正社員｜岡山県倉敷市｜年収477万円～633万円 【化学系製造業の製造オペレーター／倉敷市】転勤なし／福利厚生充実 本ポジションは、アリルクロライド製造における運転管理、点検、品質確認、保全支援および改善業務を担当いただくお仕事になります",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給19万円〜45万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給27万円〜38.3万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給35万円〜38.8万円 / 賞与・昇給あり",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "月給22万円〜26万円",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "150万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "200万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "250万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "350万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "400万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "450万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "500万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "550万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "600万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "650万円以上",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   }
+  ],
+  "出典の種類": [
+   {
+    "quote": "この記事では、感覚ではなく厚生労働省・経済産業省・国土交通省などの公的データと業界団体の認証データをもとに、自動化が進む領域と人の技能が残りやすい領域を分けて整理します",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書（経済産業省・厚生労働省・文部科学省）が示す製造業の人手不足、国土交通省が公表する橋梁老朽化のデータ、溶接技能者の認証推移を並べることで、需要の構造が見えてきます",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "全職業計の1.25倍（令和6年度平均・厚生労働省「一般職業紹介状況」）を上回る水準で、求人に対して応募者が不足している状態が続いています",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書（経済産業省・厚生労働省・文部科学省）が引用した厚生労働省「能力開発基本調査」のデータでは、",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "なお2025年版ものづくり白書によると、製造業の就業者数は2023年の1,055万人から2024年には1,046万人へと減少しています",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "また同白書が引用する中小企業庁「中小企業景況調査」では、2024年の従業員数過不足DIはマイナス18.2で、不足超過が続いています",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "なお建設業の55歳以上が就業者の36.6%を占め、29歳以下は11.9%にとどまる（令和7年・総務省「労働力調査」をもとに国土交通省作成）という年齢構成は、建設現場側で働く溶接工の環境にも関わる背景です",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに6割以上の事業所が指導人材不足と答えており（2025年版ものづくり白書が引用する厚生労働省「能力開発基本調査」）、熟練技能の継承が課題になっている",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省 職業情報提供サイト（job tag）「溶接工」（有効求人倍率2.67倍・就業者数163,710人・平均年収454.7万円・平均年齢41.8歳は令和7年賃金構造基本統計調査をもとに集計・2026年3月公表",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率・求人統計は令和6年度ハローワーク求人統計データ／職業安定業務統計をもとに集計）、国土交通省（道路橋の建設後50年経過割合 約42%→約54%→約75%・2025年3月→2030年3月→2040年3月時点）、2025年版ものづくり白書（経済産業省・厚生労働省・文部科学省）（製造業就業者1,046万人・2024年",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の従業員数過不足DI マイナス18.2は中小企業庁「中小企業景況調査」2024年を白書が引用",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "6割以上の事業所が指導人材不足とする値は厚生労働省「能力開発基本調査」を白書が引用）、一般社団法人 日本溶接協会（溶接技能者認証の受験者数推移・2022年度時点",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "公的統計ではなく業界団体の認証データ）、総務省「労働力調査」をもとに国土交通省作成（建設業就業者の年齢構成・55歳以上36.6%・29歳以下11.9%・令和7年）",
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が発表した令和6年（2024年）の職業別有効求人倍率（原数値、パート除く）を見ると、製造業が該当する「生産工程の職業」は1.67倍前後で推移し、全産業平均の1.25倍を大きく上回っています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（令和6年12月分及び令和6年分）について」",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省・経済産業省・文部科学省が共同発表する「ものづくり白書」によれば、製造業の就業者数は2002年から約20年間で157万人減少しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書の最新データでは、2024年の製造業就業者数は1,046万人と2023年の1,055万人からさらに減少し、減少傾向が継続していることが確認されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「2025年版 ものづくり白書 概要」",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版ものづくり白書のデータによると、2002年に32.6万人いた34歳以下の若年就業者は2023年には25.9万人にまで減少し、製造業の全就業者に占める若年就業者の割合は2002年比で6.9ポイント低下しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「2024年版 ものづくり白書 概要」",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省・文部科学省のデータによれば、新規学卒者の製造業への入職割合は近年低下傾向にあります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書によれば、製造業における人材育成の問題として「指導する人材が不足している」と回答した事業所は6割以上にのぼります",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版ものづくり白書によれば、デジタル技術を活用しているものづくり企業は2023年に8割を超え、デジタル化が進んだ企業は未活用企業に比べて営業利益を伸ばしている割合が高いことが示されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版ものづくり白書でも、熟練技能者の動作をモーションキャプチャで可視化し、教育訓練に活用することで技能継承を実現した事例が紹介されています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省「労働力調査」によると、製造業の就業者数は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省・厚生労働省・文部科学省「",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況」を見ると、製造現場の中核職種である「生産工程の職業」の有効求人倍率は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省「一般職業紹介状況（職業安定業務統計）」（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省等「ものづくり白書」によれば、製造業の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、厚生労働省「一般職業紹介状況」（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり白書の調査では、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「ものづくり白書」各年版アーカイブ",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省「一般職業紹介状況（職業安定業務統計）」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省による職業安定業務統計では、コロナ禍に見舞われた",
+    "url": "https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/",
+    "pass": 3
+   },
+   {
+    "quote": "また、帝国データバンクの調査によると、人手不足が原因で倒産する企業は年々増加傾向にあり、製造業も例外ではありません",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "日本生産性本部や経済産業省の調査データを見ても、労働力人口の減少は避けられない未来であり、これは製造業に限らず、あらゆる産業に影響を及ぼします",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "文部科学省の学校基本調査や厚生労働省の新規学卒者就職状況調査を見ても、高校・大学の新卒者の製造業への就職率は、かつてに比べて伸び悩む傾向にあります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある大手就職情報サイトのアンケート調査（2023年実施）では、「製造業に対して抱くイメージ」として、「体力的にきつそう」「給料が低いイメージがある」「キャリアパスが見えにくい」といった回答が多く見られました",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査によると、2023年度の「人手不足倒産」は過去最多を更新し、その中でも製造業は常に上位に位置しています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査では、中小製造業の約3割が人手不足を理由に新規受注を断念した経験があると回答しており、これは機会損失だけでなく、企業の成長機会を奪っていることを意味するのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の毎月勤労統計調査でも、製造業の所定外労働時間（残業時間）は高水準で推移しており、従業員の負担が増している現状が伺えます",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "疲弊した従業員はストレスや不満を抱えやすくなり、従業員満足度調査の結果にもその影響が表れることがあります",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な面談、アンケート調査、目安箱の設置などを通じて、従業員が抱える不満や改善提案を吸い上げ、それらを経営に反映させる姿勢が大切です",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査では、製造業企業が人材紹介サービスを利用する割合が年々増加しており、2023年には約40%の企業が利用経験があると報告されています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工が属する主な職業分類（厚生労働省編職業分類の「金属溶接・溶断工」等）に対応する統計情報です",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "（出典：令和2年国勢調査の結果を加工して作成）",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "（出典：令和7年賃金構造基本統計調査の結果を加工して作成）",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "（出典：令和8年 厚生労働省「労働経済動向調査」）",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "（出典：令和8年 内閣府・財務省「法人企業景気予測調査（BSI）」）",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の「優良派遣事業者認定制度」に認定されており、自動車や半導体業界の大手メーカーと取引を行っているため、安心して働ける安定した職場を提供しています",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が先月３０日に発表した一般職業紹介状況によると、８月の有効求人倍率は全体で１・１８倍に対し、溶接技能者（金属材料製造・金属加工・金属溶接・溶断の職業）は３・１８倍",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "２０２５年度の鉄鋼生産シェア（１）／粗鋼／高炉３社、７６％に上昇／山陽特殊製鋼が８位に浮上／本紙調査",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "出典：厚生労働省・大阪府製造業統計調査（令和3年）・文部科学省",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "出典：大阪府製造業統計調査（令和3年）",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   }
+  ],
+  "採用できず起きたこと": [
+   {
+    "quote": "特に後継者不足と人材不足が重なる中小製造業においては、廃業・事業売却という選択を迫られるケースも増加しています",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】コールセンター委託会社15社比較！外注（アウトソーシング）のメリットも解説",
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：受注辞退・失注による機会損失（表面化しにくいが最も大きい）",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：残業代・外注費の増加、経験不足による不良・手直しの増加",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "また、帝国データバンクの調査によると、人手不足が原因で倒産する企業は年々増加傾向にあり、製造業も例外ではありません",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査によると、2023年度の「人手不足倒産」は過去最多を更新し、その中でも製造業は常に上位に位置しています",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査では、中小製造業の約3割が人手不足を理由に新規受注を断念した経験があると回答しており、これは機会損失だけでなく、企業の成長機会を奪っていることを意味するのです",
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "・生産計画の策定 ・受注管理 ・発注管理 ・在庫管理 ・製造管理 ・工程管理 ・外注管理 ・進捗管理 ・品質管理 ※製造部生産管理グループ 部長以下11名でうち女性は2名、年齢構成は役職者は50代、メンバーは30代前半から半ばとなっています",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   }
+  ],
+  "地域別": [
+   {
+    "quote": "私は船井総合研究所の製造業コンサルタントとして、年間を通じて全国の中小製造業の現場に入り、経営者の皆様とこの問題に向き合ってきました",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "各種の教育事業を各地区指定機関と連携して実施、新規の学科試験受験者を対象とした講習会では、全国の指定機関と連携した講習会を開催している",
+    "url": "https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/",
+    "pass": 3
+   },
+   {
+    "quote": "賃金（１時間当たり）※全国のみ",
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "pass": 3
+   },
+   {
+    "quote": "講習は全国の指定機関で実施されており、合計13時間（学科9時間・実技4時間）を1日〜2日で修了するのが一般的です",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "| ウイルテック公式求人サイト「ウイルタス」で仕事探し！製造業やエンジニアを積極採用！全国各地で面接、面談、登録を実施中",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "東京製鉄の低ＣＯ２鋼材「ほぼゼロ」／船橋の商業施設で大量採用／鋼材重量...",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "東京製鉄／鋼材輸送トレーラー、来年度中にも「実車率」向上策／関東地区で...",
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社横浜システム | ★地域業界の中核的存在★資格取得支援★退職金あり",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "【本社】 神奈川県横浜市港北区新羽町474 ※マイカー通勤可能 駐車場は別途個人で近隣でご契約いた…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "≪愛知/豊川≫【溶接工】★経験者歓迎／年休121日",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "御津工場 愛知県豊川市御津町広石高坂15番地 ※転勤なし 【雇入れ直後】上記事業所 【変更の範囲】…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "原料プラント設備の【溶接職】経験者募集☆転勤なし☆愛知",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "本社：愛知県一宮市西萩原字若宮前53-1 ※転勤はありません ※マイカー、自転車通勤OK（無料駐車…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "【転勤なし／マイカー通勤OK】 ※マイカー通勤可／無料駐車場完備 愛知県豊明市新栄町6-13 【雇…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "＼マイカー＆自転車通勤OK／ 本社：愛知県知多郡東浦町緒川市右原5-1 ※従業員専用駐車場完備 ※…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "≪愛知/飛島村≫金属加工メーカーの【製造（溶接）】◆年休122日",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "◆ミナト東工場 愛知県海部郡飛島村金岡42番地の1 ※転勤当面なし ※マイカー・バイク・自転車通勤…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "【マイカー通勤OK（駐車場完備）／転勤なし】 ■安城工場 愛知県安城市今池町3丁目6番37号 ☆U…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "＜顧客先＞ 愛知県安城市 マイカー通勤可（無料駐車場あり） 転勤：なし 【雇入れ直後】上記事業所…",
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業比率79.8%・求人倍率8.05倍（全国2位）の激戦区で高卒人材を確保する戦略",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率8.05倍（全国2位）という激戦の採用市場において、中小製造業が高卒人材を確保するための戦略を解説します",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "全国2位（前年7.27倍）",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府の高卒採用市場は求人倍率8.05倍と全国2位の超売り手市場です",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "製造業はその中心的な人材需要産業であり、中小企業出荷額比率58.4%は全国平均（47.0%）を大きく上回ります",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "全国2位・前年7.27倍から上昇幅最大",
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "転勤なし／大田区／製造 板金加工／業界シェアトップメーカー子会社／平均残業15H 日勤のみ／機械",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 千代田区 秋葉原駅 徒歩2分",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "全国のさまざまな求人サイトや企業の採用HPの求人情報を、まとめて検索できる求人一括検索サービスです",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 千代田区 有楽町 / 日比谷駅 徒歩1分",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "公益財団法人東京都中小企業振興公社 《経験不問》中小企業を支援する【団体職員】*27年4月入社採用 ※応募に当たっては、マイナビ転職の会員登録が必須となっております",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "【仕事内容】 【東京都政策連携団体】都内中小企業を対象に各種支援事業を担当します",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "川崎重工のパートナー企業で活躍！【製造スタッフ(TIG溶接)】",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "【全国の現場を支える技術力が必要とされる職場】あなたの経験が現場の品質とチーム力を高める存在に！",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "【尻手駅徒歩5分】【車通勤OK】神奈川県川崎市幸区柳町63",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "【転勤なし／バイク＆マイカー通勤OK／駅徒歩1分の好立地】 ※U・Iターン歓迎！ 神奈川県横浜市港…",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "★転勤ナシ ★U・Iターン歓迎 ★マイカー通勤OK(駐車場あり) 【住所】 神奈川県相模原市緑区根…",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "【マイカー通勤OK（駐車場完備）／転勤なし】 ■安城工場 愛知県安城市今池町3丁目6番37号 ☆U…",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大石工業 | ■大手との取引あり■安定した経営基盤■全国出張あり",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "≪愛知/豊川≫【溶接工】★経験者歓迎／年休121日",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "御津工場 愛知県豊川市御津町広石高坂15番地 ※転勤なし 【雇入れ直後】上記事業所 【変更の範囲】…",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "≪愛知/豊川≫【溶接工】未経験歓迎／年休121日／昼食補助あり",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "【御津工場】 愛知県豊川市御津町広石高坂15番地 ※駅からマイクロバス送迎あり ※転勤なし 【雇入…",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県海部郡飛島村木場2-102 ■転勤はありません 【雇入れ直後】上記事業所 【変更の範囲】会社…",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヨシダ自動車 | ＼愛知県のトラック専門とした整備会社／ ★定着率抜群！",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "《転勤なし／マイカー通勤OK／UIターン歓迎》 愛知県北名古屋市高田寺一本橋15 【雇入れ直後】上…",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "《愛知》交通インフラ装置の【溶接スタッフ】★年休120日",
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "pass": 3
+   },
+   {
+    "quote": "対応する職業分類の全国平均年収は、",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度の全国有効求人倍率は、",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "job tag掲載の対応職業分類による全国データでは、",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "job tagに掲載されている令和7年賃金構造基本統計調査ベースの全国平均年収は、454.7万円です",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワーク求人統計では、令和6年度の全国求人賃金は月額25.4万円でした",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工が含まれる職業分類の令和6年度の有効求人倍率は、全国で2.67倍でした",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "金属加工溶接の職業 単価 製造業 中小企業 の求人情報をすべて見る （1,227,330件） — 金属加工溶接の職業 単価 製造業 中小企業 の求人情報をすべて見る （1,227,330件） スタンバイ",
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "pass": 3
+   },
+   {
+    "quote": "溶接 工 採用 ガイド2025｜応募が来ない・すぐ辞める問題の ... — 溶接 工 採用 ガイド2025｜応募が来ない・すぐ辞める問題の ... 株式会社Talenco https://talenco.jp > コラム > 建設",
+    "url": "https://talenco.jp/welder-recruitment-2025/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【職種分析】 溶接 工は、製造・建設経験を「 金属 を強くつなぐ ... 【職種分析】 溶接 工は、製造・建設経験を「 金属 を強くつなぐ ... note https://note.com > キャリア > 転職・キャリアチェンジ",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "【職種分析】 溶接 工は、未経験からものづくりを支える技能を ... 【職種分析】 溶接 工は、未経験からものづくりを支える技能を ... note https://note.com > キャリア > 職種別キャリア",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "溶接 工の仕事内容をリアルに解説｜TIG・半自動・きつい点も ... 溶接 工の仕事内容をリアルに解説｜TIG・半自動・きつい点も ... note https://note.com > DIY > 板金・溶接",
+    "url": "https://note.com/falxarcus/n/n2b723471715e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【職種分析】溶接工は、製造・建設経験を「金属を強くつなぐ技術」へ変えられる仕事｜未経験から手に職をつける現実的な方法｜応募書類ナビ | 転職・キャリアチェンジの教科書",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "【職種分析】溶接工は、製造・建設経験を「金属を強くつなぐ技術」へ変えられる仕事｜未経験から手に職をつける現実的な方法",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "応募書類ナビ | 転職・キャリアチェンジの教科書",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "「製造現場で働いてきた経験を、もっと専門的な技能へつなげたい」",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "「身体を動かす仕事は好きだけれど、誰でもできる作業だけでは将来が不安」",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "「溶接に興味はあるけれど、未経験から本当に仕事にできるの？」",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の職業情報提供サイト「job tag」では、溶接工について、",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "「金属をくっつける人」ではなく、構造物や製品が壊れないよう、金属同士を正しい条件で接合し、強度と品質をつくる技術者",
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "pass": 3
+   },
+   {
+    "quote": "【職種分析】溶接工は、未経験からものづくりを支える技能を身につけやすい仕事！資格と実務経験を積めば、高難度の溶接・品質管理・現場指導まで役割を広げられます｜応募書類ナビ | 転職・キャリアチェンジの教科書",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "【職種分析】溶接工は、未経験からものづくりを支える技能を身につけやすい仕事！資格と実務経験を積めば、高難度の溶接・品質管理・現場指導まで役割を広げられます",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "応募書類ナビ | 転職・キャリアチェンジの教科書",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "「工場で働いているけれど、誰でもできる作業のままでは将来が不安」",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "「学歴や資格に自信はないが、長く使える技術を身につけたい」",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "「手を動かして、形に残るものをつくる仕事がしたい」",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "このような方に知ってほしい仕事が、溶接工です。",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工は、熱や圧力などを利用して金属同士を接合する仕事です。",
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の仕事内容をリアルに解説｜TIG・半自動・きつい点も正直に話す｜falx:",
+    "url": "https://note.com/falxarcus/n/n2b723471715e",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工の仕事内容をリアルに解説｜TIG・半自動・きつい点も正直に話す",
+    "url": "https://note.com/falxarcus/n/n2b723471715e",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工に興味があるけど、実際どんな仕事なのかよくわからない。求人票を見ても「溶接作業全般」としか書いていない。そんな人に向けて、3〜5年の現場経験をもとにリアルな話を書いていく。",
+    "url": "https://note.com/falxarcus/n/n2b723471715e",
+    "pass": 3
+   },
+   {
+    "quote": "きれいごとは抜きで、しんどいところも含めて正直に話すので、転職や就職の参考にしてほしい。",
+    "url": "https://note.com/falxarcus/n/n2b723471715e",
+    "pass": 3
+   },
+   {
+    "quote": "溶接にはいくつか種類があるが、現場でよく使うのは主に2つだ。",
+    "url": "https://note.com/falxarcus/n/n2b723471715e",
+    "pass": 3
+   },
+   {
+    "quote": "TIG（ティグ）溶接は、タングステン電極を使ってアークを発生させ、材料同士をくっつける「共付け」と溶加棒を手で送りながら溶接する方法。仕上がりがきれいで、薄い金属やステンレス・アルミなどの精密な加工に向いている。両手を使う作業なので習得に時間がかかるが、「うまくなってきた」と実感しやすい溶接でもある。",
+    "url": "https://note.com/falxarcus/n/n2b723471715e",
+    "pass": 3
+   },
+   {
+    "quote": "半自動溶接は、ワイヤーが自動的に送り出される溶接機を使う方法。TIGより作業スピードが速く、厚い鉄板や大きな構造物の溶接に使われることが多い。覚えやすいぶん現場での使用頻度が高く、製造業では特によく使われている。",
+    "url": "https://note.com/falxarcus/n/n2b723471715e",
+    "pass": 3
+   },
+   {
+    "quote": "現場によって違いはあるが、だいたいこんな感じだ。",
+    "url": "https://note.com/falxarcus/n/n2b723471715e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "栃木県立県央産業技術専門校 on X: \" 金属加工 科 今日は 栃木県立県央産業技術専門校 on X: \" 金属加工 科 今日は X https://x.com > @sangiko_tochigi",
+    "url": "https://x.com/sangiko_tochigi/status/994816362425053184",
+    "pass": 3
+   },
+   {
+    "quote": "県立筑西学院 on X: \"【 金属加工 科】 JIS規格に基づく 溶接 試験 ... 県立筑西学院 on X: \"【 金属加工 科】 JIS規格に基づく 溶接 試験 ... X https://x.com > @Chikuseigakuin",
+    "url": "https://x.com/Chikuseigakuin/status/1489027641495928832",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社岩倉 溶接 工業所 (@mPMXkMwdy317571) / X 有限会社岩倉 溶接 工業所 (@mPMXkMwdy317571) / X X https://x.com > mPMXkMwdy317571",
+    "url": "https://x.com/mPMXkMwdy317571",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "エンジニアリングインサイトシリーズ:製造と 金属加工 の習熟 エンジニアリングインサイトシリーズ:製造と 金属加工 の習熟 LinkedIn https://jp.linkedin.com > pulse > engineering-insights-seri...",
+    "url": "https://jp.linkedin.com/pulse/engineering-insights-series-manufacturing-zznyc?tl=ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "溶接 工（鳥取県・日本） 日本で新しいスタートを ... - Facebook 溶接 工（鳥取県・日本） 日本で新しいスタートを ... - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/2331380300417020/posts/4678711135683913/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://jsite.mhlw.go.jp/shiga-roudoukyoku/content/contents/R4.3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hardestmarket.com/ja/job-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weforum.org/stories/manufacturing-and-value-chains/indiana-college-manufacturing-talent-skills-gap",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willtec.work/media/media-1784328/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wholesale.yeswelder.com/ja/blog/labor-shortages-in-welding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanmetaldaily.com/articles/-/114009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinseikankogyo.com/%E6%BA%B6%E6%8E%A5%E5%B7%A5%E3%81%AB%E5%90%91%E3%81%8D%E4%B8%8D%E5%90%91%E3%81%8D%E3%81%AF%E3%81%82%E3%82%8B%EF%BC%9F%EF%BD%9C%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E7%89%B9%E5%BE%B4%E3%82%92/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kk-sinsei.com/column/factorywork-kinzokukakou/1606",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baitoru.com/kanto/jlist/welding/mrt49/shain/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E9%AB%98%E5%8D%92-%E6%BA%B6%E6%8E%A5-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://1145.jp/monozukuri/column/articles/3512/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=351",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talenco.jp/welder-recruitment-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_ind__1001S/-oc__0441M/-preBtn__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5-%E6%BA%B6%E6%8E%A5%E5%B7%A5-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/shiga-roudoukyoku/content/contents/000293645.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/001278443.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/R1.6.7_nahasyo_gyoumu_geltupou_H3104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/H30.12.3_nahasyo_gyoumu_geltupou_H3010.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/000695104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/okayama-roudoukyoku/var/rev0/0114/7046/20173211329.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sangiko_tochigi/status/994816362425053184",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Chikuseigakuin/status/1489027641495928832",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/engineering-insights-series-manufacturing-zznyc?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/2331380300417020/posts/4678711135683913/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/career_bible/n/n11de73d82e36",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/career_bible/n/nf673fe48314f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/falxarcus/n/n2b723471715e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mPMXkMwdy317571",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属加工・溶接の職業 有効求人倍率 職業別 労働局 2026",
+   "results": [
+    "https://jsite.mhlw.go.jp/shiga-roudoukyoku/content/contents/R4.3.pdf",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://genba-honne.com/articles/yosetsuko-shoraisei/",
+    "https://hardestmarket.com/ja/job-market/",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/000494784.pdf",
+    "https://www.japanmetaldaily.com/articles/-/114009",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://job.goo.to/occupations/ratio"
+   ]
+  },
+  {
+   "query": "金属加工・溶接の職業 人手不足 調査 2025 2026 製造業 割合",
+   "results": [
+    "https://willof-work.co.jp/journal/14513/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/",
+    "https://jp.weforum.org/stories/manufacturing-and-value-chains/indiana-college-manufacturing-talent-skills-gap",
+    "https://www.tdb.co.jp/report/economic/20260519-laborshortage202604/",
+    "https://remind-gr.co.jp/article/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E4%BA%88%E6%B8%AC%E3%80%91%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%B7%B1/",
+    "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/2608-2610_ikuseisyuro_seminar_METI.pdf",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www2.tn-japan.co.jp/es_technical_training/blog/blog004/"
+   ]
+  },
+  {
+   "query": "金属加工・溶接の職業 採用できない 受注を断った 割合",
+   "results": [
+    "https://monoque.jp/contents/95d2353dc4513f81496cc61cd9eeeba05cef0b34/",
+    "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "https://willtec.work/media/media-1784328/",
+    "https://wholesale.yeswelder.com/ja/blog/labor-shortages-in-welding/",
+    "https://www.japanmetaldaily.com/articles/-/114009",
+    "https://www.shinseikankogyo.com/%E6%BA%B6%E6%8E%A5%E5%B7%A5%E3%81%AB%E5%90%91%E3%81%8D%E4%B8%8D%E5%90%91%E3%81%8D%E3%81%AF%E3%81%82%E3%82%8B%EF%BC%9F%EF%BD%9C%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E7%89%B9%E5%BE%B4%E3%82%92/",
+    "https://kk-sinsei.com/column/factorywork-kinzokukakou/1606",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_pr__8/-oc__0441M/-ne__2/-preBtn__1/-page__3/",
+    "https://talenco.jp/manufacturing-recruitment-difficulty/",
+    "https://talenco.jp/welder-recruitment-2025/"
+   ]
+  },
+  {
+   "query": "金属加工・溶接の職業 高卒求人倍率 製造業 工業高校",
+   "results": [
+    "https://tenshoku.mynavi.jp/keyword/%E6%BA%B6%E6%8E%A5%E3%80%80%E9%AB%98%E5%8D%92/",
+    "https://yumesuta.com/kosotsusaiyo/osaka/manufacturing",
+    "https://www.baitoru.com/kanto/jlist/welding/mrt49/shain/",
+    "https://jp.indeed.com/q-%E9%AB%98%E5%8D%92-%E6%BA%B6%E6%8E%A5-%E6%B1%82%E4%BA%BA.html",
+    "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "https://1145.jp/monozukuri/column/articles/3512/",
+    "https://xn--pckua2a7gp15o89zb.com/%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E6%A0%A1-%E6%BA%B6%E6%8E%A5%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://www.harikennabi.jp/recruit/?gyosyu_id=g06",
+    "https://04510.jp/columns/work/yosetsukou/"
+   ]
+  },
+  {
+   "query": "金属加工・溶接の職業 採用単価 製造業 中小企業",
+   "results": [
+    "https://jp.stanby.com/search?q=%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E3%81%AE%E8%81%B7%E6%A5%AD+%E5%8D%98%E4%BE%A1+%E8%A3%BD%E9%80%A0%E6%A5%AD+%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st",
+    "https://job-score.jp/search_journal/job-news-post/?jCD=351",
+    "https://talenco.jp/welder-recruitment-2025/",
+    "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_ind__1001S/-oc__0441M/-preBtn__2/",
+    "https://jp.indeed.com/q-%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5-%E6%BA%B6%E6%8E%A5%E5%B7%A5-%E6%B1%82%E4%BA%BA.html",
+    "https://tenshoku.mynavi.jp/sp/ts025/",
+    "https://www.717450.net/special/knowledge/weldingwork/",
+    "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "https://www.career-on.jp/contents/17178/"
+   ]
+  },
+  {
+   "query": "site:jsite.mhlw.go.jp 金属加工・溶接の職業 職業別 有効求人倍率",
+   "results": [
+    "https://jsite.mhlw.go.jp/shiga-roudoukyoku/content/contents/000293645.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/001278443.pdf",
+    "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/R1.6.7_nahasyo_gyoumu_geltupou_H3104.pdf",
+    "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/H30.12.3_nahasyo_gyoumu_geltupou_H3010.pdf",
+    "https://jsite.mhlw.go.jp/okinawa-roudoukyoku/content/contents/000695104.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/var/rev0/0114/7046/20173211329.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/var/rev0/0117/3958/010.pdf",
+    "https://jsite.mhlw.go.jp/okayama-roudoukyoku/var/rev0/0115/1278/2017328203214.pdf",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/000917805.pdf",
+    "https://jsite.mhlw.go.jp/hyogo-roudoukyoku/content/contents/002210774.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 金属加工・溶接の職業",
+   "results": [
+    "https://note.com/career_bible/n/n11de73d82e36",
+    "https://note.com/career_bible/n/nf673fe48314f",
+    "https://note.com/arcmasters/n/n3ee7223947d8",
+    "https://note.com/arcmasters/n/n6052b0ae6231",
+    "https://note.com/career_bible/n/nac150f4a2e7c",
+    "https://note.com/tomoyasuworks/n/n5e867907ea5e",
+    "https://note.com/arcmasters/n/na1e38644bf8a",
+    "https://note.com/amagasaki_mono/n/nb28574712966",
+    "https://note.com/takano_official/n/n173097b7cd83",
+    "https://note.com/monojirei/n/n2b62c06c9a45"
+   ]
+  },
+  {
+   "query": "site:x.com 金属加工・溶接の職業",
+   "results": [
+    "https://x.com/sangiko_tochigi/status/994816362425053184",
+    "https://x.com/tokyotamacenter/status/1684474352186839040",
+    "https://x.com/kantopoly2/status/1876424104410337551",
+    "https://x.com/Chikuseigakuin/status/1489027641495928832",
+    "https://x.com/mPMXkMwdy317571",
+    "https://x.com/Koroppi_14/status/2116435046395793474",
+    "https://x.com/hashtag/%E6%BA%B6%E6%8E%A5",
+    "https://x.com/okagisen_aichi/status/2110286989454962983",
+    "https://x.com/seiwa_yousetsu",
+    "https://x.com/LKRiWGoKD1ZdxzN"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属加工・溶接の職業",
+   "results": [
+    "https://jp.linkedin.com/pulse/engineering-insights-series-manufacturing-zznyc?tl=ja",
+    "https://www.linkedin.com/pulse/%E6%BA%B6%E6%8E%A5%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E7%89%A9%E7%90%86%E7%8F%BE%E8%B1%A1%E3%82%92%E5%85%8B%E6%9C%8D%E3%81%97%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E6%9C%9F%E5%BE%85%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B-panasonic-connect-bd7rf",
+    "https://www.linkedin.com/posts/hajime-iizuka-449357132_%E9%A3%AF%E5%A1%9A%E9%89%84%E5%B7%A5%E6%89%80-%E6%96%B0%E6%BD%9F-%E6%84%9B%E7%9F%A5-activity-7272082607427710976-hRyE",
+    "https://jp.linkedin.com/pulse/%E7%94%A3%E6%A5%AD%E7%94%A8%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E6%BA%B6%E6%8E%A5%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B1%95%E6%9C%9B-2026-2033%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E6%88%90%E9%95%B7%E5%8F%AF%E8%83%BD%E6%80%A7%E5%8F%8E%E7%9B%8A%E5%A3%B2%E4%B8%8A%E5%8B%95%E5%90%91%E7%8F%BE%E5%9C%A8%E3%81%AEcagr-65-evolviax-i5ghe",
+    "https://jp.linkedin.com/pulse/%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%83%E3%81%AE-%E6%BA%B6%E6%8E%A5%E7%85%99%E6%B8%85%E6%B5%84%E6%A9%9F-%E5%B8%82%E5%A0%B4-2033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE75%E3%81%AEcagr%E4%BA%88%E6%B8%AC%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E5%BC%B7%E3%81%BF%E3%81%A8%E5%BC%B1%E3%81%BF%E3%81%AE%E5%88%86%E6%9E%90-auroraapexx-pqkxe",
+    "https://jp.linkedin.com/pulse/%E7%86%B1%E9%9B%BB%E5%AF%BE%E6%BA%B6%E6%8E%A5%E8%A3%85%E7%BD%AE-market-velocity-6-cagr-trajectory-2026-2033-finqe",
+    "https://jp.linkedin.com/pulse/%E6%BA%B6%E6%8E%A5%E7%B6%AD%E6%8C%81%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B3%AA%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%88%A6%E7%95%A5%E3%81%AE%E4%B8%80%E8%87%B42026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6113%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%82%8B%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%B8%E3%81%AE%E6%B4%9E%E5%AF%9F-7519362501809946625-ui7ef",
+    "https://jp.linkedin.com/pulse/%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC-ddl-%E5%B8%82%E5%A0%B4%E3%81%AE%E6%A6%82%E8%A6%81%E3%81%A8%E4%BA%88%E6%B8%AC-2026%E5%B9%B42033%E5%B9%B4%E5%B8%82%E5%A0%B4%E3%82%BF%E3%82%A4%E3%83%97%E3%81%A8%E5%B8%82%E5%A0%B4%E7%94%A8%E9%80%94%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A9%B3%E7%B4%B0%E3%81%AA%E8%AA%BF%E6%9F%BB-ivm3e",
+    "https://jp.linkedin.com/pulse/global-%E9%9B%BB%E6%B0%97%E6%BA%B6%E6%8E%A5%E6%A9%9F-market-set-expansion-projected-75-cagr-fzlje",
+    "https://jp.linkedin.com/in/yasushi-matsuda-9a5b67104"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属加工・溶接の職業",
+   "results": [
+    "https://www.facebook.com/groups/2331380300417020/posts/4678711135683913/",
+    "https://www.facebook.com/seibu.gijutsu.oa/posts/%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%82%E8%A6%8B%E3%81%A6%E3%81%AD%EF%B8%8F%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E7%A7%91%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%81%99%E3%81%9F%E3%81%BE%E3%81%AB%E6%8C%87%E5%B0%8E%E5%93%A1%E3%81%AE%E6%97%A5%E5%B8%B8%E3%82%84%E5%B3%B6%E6%A0%B9%E7%9C%8C%E7%9B%8A%E7%94%B0%E5%B8%82%E3%81%AE%E9%AD%85%E5%8A%9B%E3%82%82%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%AB%E8%BC%89%E3%81%9B%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E6%BA%B6%E6%8E%A5%E7%A7%91%E3%81%AF%E6%8A%80%E8%83%BD%E3%82%92%E8%BA%AB%E3%81%AB%E4%BB%98%E3%81%91%E3%81%9F%E3%81%84%E6%96%B9%E3%82%92/960639152733281/",
+    "https://www.facebook.com/PanasonicConnectJP/videos/akb48-%E6%BF%B5%E5%92%B2%E5%8F%8B%E8%8F%9C%E3%81%95%E3%82%93%E3%81%8C%E6%BA%B6%E6%8E%A5%E3%81%AB%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/775075700183432/",
+    "https://www.facebook.com/100066464126168/posts/%E5%B8%82%E5%86%85%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%81%AE%E8%81%B7%E6%A5%AD%E4%BD%93%E9%A8%93%E5%8F%97%E5%85%A5%E4%B8%AD%E2%91%A0%E5%8D%B1%E9%99%BA%E4%BA%88%E7%9F%A5%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E2%91%A1%E3%82%AC%E3%82%B9%E6%BA%B6%E6%96%AD%E4%BD%9C%E6%A5%AD%E2%91%A2%E6%BA%B6%E6%8E%A5%E4%BD%9C%E6%A5%AD%E2%91%A3%E6%9B%B2%E3%81%92%E4%BD%9C%E6%A5%AD%E3%81%AA%E3%81%A9%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%95%E3%82%92%E6%84%9F%E3%81%98%E3%81%A6%E8%B2%B0%E3%81%84%E3%81%9F%E3%81%84%E3%81%A8%E6%8B%85%E5%BD%93%E3%81%97%E3%81%9F%E7%A4%BE%E5%93%A1%E3%82%82%E9%A0%91%E5%BC%B5%E3%82%8A/1121858526706274/",
+    "https://www.facebook.com/100067833851659/posts/%E6%9C%AC%E6%97%A5%E9%AB%98%E6%A0%A1%E7%94%9F%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%81%B7%E6%A5%AD%E5%AD%A6%E6%A0%A1%E4%BD%93%E9%A8%93%E3%83%95%E3%82%A7%E3%82%B9%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E9%AB%98%E6%A0%A1%E7%94%9F%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E3%81%AB%E3%83%96%E3%83%BC%E3%82%B9%E3%81%B8%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E9%87%91%E5%B1%9E%E3%81%AB%E6%96%87%E5%AD%97%E3%82%84%E6%A8%A1%E6%A7%98%E3%82%92%E5%88%BB%E3%82%80%E5%8A%A0%E5%B7%A5%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%80%E5%88%9D%E3%81%AF%E5%B0%91%E3%81%97%E7%B7%8A/1254960373441746/",
+    "https://www.facebook.com/kyoshin.co/posts/%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88%E4%BB%98%E3%81%8D%E7%9C%9F%E7%A9%BA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%BC%E3%81%88%E3%81%88%E4%BB%95%E4%BA%8B%E3%82%84%E3%81%AD%E3%83%BC%E3%83%BC%E3%83%BC%E3%81%84%E3%81%A4%E3%82%82%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F%E7%9C%9F%E7%A9%BA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%BC%E6%BA%B6%E6%8E%A5tig%E6%BA%B6%E6%8E%A5welding%E6%9D%BF%E9%87%91%E8%A3%BD%E7%BC%B6%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E9%87%91/914977153763427/",
+    "https://www.facebook.com/kawaitekkou/posts/%EF%BC%94%EF%BC%90%E4%BA%BA%E3%82%92%EF%BC%93%E7%8F%AD%E3%81%AB%E5%88%86%E3%81%91%E3%81%A6%E5%8B%95%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E6%A9%9F%E6%A2%B0%E3%82%84%E6%BA%B6%E6%8E%A5%E3%81%AA%E3%81%A9%E7%A4%BE%E9%95%B7%E5%B8%B8%E5%8B%99%E6%A4%9C%E6%9F%BB%EF%BD%93%E3%81%8C%E6%A1%88%E5%86%85%E8%87%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%BA%B6%E6%8E%A5%E3%82%84%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E3%81%B8%E3%81%AE%E8%88%88%E5%91%B3%E3%81%8C%E5%B0%91%E3%81%97%E3%81%A7%E3%82%82%E5%A4%A7%E3%81%8D%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8C%E3%81%B0%E8%89%AF%E3%81%84%E3%81%A7%E3%81%99%E3%81%AD%E3%83%BC%E5%B8%AF%E5%BA%83%E5%B7%A5%E6%A5%AD%E9%AB%98%E6%A0%A1%E9%89%84-%E9%89%84%E5%B7%A5%E6%89%80/598675278719464/",
+    "https://www.facebook.com/JICAZAMBIAOFFICE/posts/developing-computer-skills-paving-way-for-careers-mr-maeda-is-a-computer-skills-/1274642824704136/",
+    "https://www.facebook.com/GBNIINDONESIA/posts/特定技能求人1045_特定技能_工業製品製造業ベトナム男性募集中仕事しごと工作機械を使った金属加工の仕事になりますオーダーにより様々な加工を行いますスキルアップ/1143930414808866/",
+    "https://www.facebook.com/tominaga1976/"
+   ]
+  },
+  {
+   "query": "金属加工・溶接の職業 note 社長",
+   "results": [
+    "https://note.com/career_bible/n/n11de73d82e36",
+    "https://note.com/japan_benex/n/n75f16e2aebfd",
+    "https://note.com/career_bible/n/nf673fe48314f",
+    "https://note.com/falxarcus/n/n2b723471715e",
+    "https://www.nakakyu-kinzoku.jp/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1-%E5%85%88%E8%BC%A9%E3%81%8B%E3%82%89%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8/%E5%85%88%E8%BC%A9%E7%A4%BE%E5%93%A1%E3%81%8B%E3%82%89%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8/%E6%BA%B6%E6%8E%A5-%E6%9C%AC%E7%94%B0%E5%B0%86%E5%8F%B8/",
+    "https://www.youtube.com/watch?v=zlTo5SWKWGo",
+    "https://note.com/kanametanote/n/ne1cd025ba9ac",
+    "https://www.instagram.com/p/DLZwm7mP5dd/",
+    "https://www.reddit.com/r/Welding/comments/1miyom3/student_question_what_job_lets_you_weld_the_most/?tl=ja",
+    "https://note.com/nk_sus304/n/ne7c1002f5a73"
+   ]
+  },
+  {
+   "query": "金属加工・溶接の職業 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=AdjDW9pEreU",
+    "https://x.com/mPMXkMwdy317571",
+    "https://www3.jeed.go.jp/kagawa/poly/kyushoku/course_y_metalwork.html",
+    "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "https://www.instagram.com/p/DUUouXEkbfv/",
+    "https://www.nakakyu-kinzoku.jp/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1-%E5%85%88%E8%BC%A9%E3%81%8B%E3%82%89%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8/%E5%85%88%E8%BC%A9%E7%A4%BE%E5%93%A1%E3%81%8B%E3%82%89%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8/%E6%BA%B6%E6%8E%A5-%E6%9C%AC%E7%94%B0%E5%B0%86%E5%8F%B8/",
+    "https://www.youtube.com/watch?v=zlTo5SWKWGo",
+    "https://www.instagram.com/reel/Debb-fJRjpO/",
+    "https://note.com/kanametanote/n/n1bac309ced58",
+    "https://jp.indeed.com/q-溶接金属加工-求人.html"
+   ]
+  },
+  {
+   "query": "metal working welding job openings ratio Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/jobs/view/welder-tig-and-laser-at-knowles-precision-devices-4472095640",
+    "https://pg.linkedin.com/in/raphael-robert-292a19310",
+    "https://www.linkedin.com/pulse/sheet-metal-weldment-market-global-outlook-us-japan-zx16f",
+    "https://www.linkedin.com/jobs/view/welder-at-knowles-corporation-4482219526",
+    "https://www.linkedin.com/in/rosalba-sanchez-84a108207",
+    "https://www.linkedin.com/jobs/view/welder-at-knowles-precision-devices-4482224035",
+    "https://pg.linkedin.com/in/morea-konio-3470413ab",
+    "https://www.linkedin.com/in/shanenaranmor",
+    "https://ca.linkedin.com/in/ronak-chauhan-3b0362275",
+    "https://www.linkedin.com/posts/krishna-nand-ojha-1b31121b_welding-wps-pqr-activity-7455450865303261184-ISSk"
+   ]
+  }
+ ],
+ "missing": {}
+}

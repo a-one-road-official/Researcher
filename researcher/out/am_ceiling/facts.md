@@ -1,4 +1,4 @@
-# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・18品目）
+# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・19品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1329,3 +1329,59 @@
 - 受託会社の売上：記載なし（読んだ45頁・検索16回）
 - 用途別：記載なし（読んだ45頁・検索16回）
 - 価格を決める要因：記載なし（読んだ45頁・検索16回）
+
+## 金属AM受託 国内の最大級の受注・案件額（積層造形に限る。工作機械受注の統計は除く）（largest metal additive manufacturing service order Japan）
+- 文脈：国内・最大
+- 1件の単価：
+  - 「European Patent 3781344.」（https://aml3d.com/）
+- 顧客1社の年間：
+  - 「According to VoxelMatters’ new annual Additive Manufacturing Market 2025 report, the global AM industry generated nearly $12.3 billion in revenue in 2024. We forecast that this figure will grow significantly to $108 billion by 2034, supported by a strong compound annual growth rate of 24.4%.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「Polymer additive manufacturing continues to lead the AM market in overall value, generating $7.4 billion in revenue in 2024. Driven by a wide range of industrial and consumer applications, the segment is projected to reach $46 billion by 2034, growing at a 20.1% compound annual growth rate.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「Ceramics AM is [also] the fastest-growing category, projected to reach $2.5 billion by 2034, with a compound annual growth rate of 31.2%.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+- 受託会社の売上：
+  - 「AML3D Delivers Record FY2026 Revenue and Reports H2 Profit」（https://aml3d.com/）
+  - 「AML3D Delivers Record FY2026 Revenue and Reports Second Half Profit Highlights Revenues including lease income increased by 70% year on year to a record $12.5 million. An EBITDA of $608,000 was recorded for the second half of FY2026. Confirmed order booked peaked at a record intra year high of $29 million during FY2026. $16.8 million…」（https://aml3d.com/）
+  - 「about AML3D Delivers Record FY2026 Revenue and Reports H2 Profit」（https://aml3d.com/）
+  - 「According to VoxelMatters’ new annual Additive Manufacturing Market 2025 report, the global AM industry generated nearly $12.3 billion in revenue in 2024. We forecast that this figure will grow significantly to $108 billion by 2034, supported by a strong compound annual growth rate of 24.4%.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「In 2024, the core AM market—encompassing hardware, materials, and services—generated $12.3 billion in revenue, with hardware accounting for $5.5 billion, services for $4.3 billion, and materials for $ 2.4 billion.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「, having introduced the first commercial stereolithography (SLA) printer—the SL-1—in 1988. Currently, it ranks as the second-largest AM company by revenue, although its financial performance has declined in recent years. In 2024, 3D Systems reported revenue of $440 million, reflecting a 10% year-over-year drop and marking its weakest performance since 2012.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「Materialise went public in 2014 and reported total revenue of €266.8 million in 2024」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「$57.8 million in revenue for 2024, reflecting a 2.6% year-over-year increase」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「Nikon SLM reported €150 million in revenue, a 36% year-over-year increase」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「In 2024, Stratasys reported $572.5 million in revenue, an 8.8% decline from $627.6 million the previous year」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「Polymer additive manufacturing continues to lead the AM market in overall value, generating $7.4 billion in revenue in 2024. Driven by a wide range of industrial and consumer applications, the segment is projected to reach $46 billion by 2034, growing at a 20.1% compound annual growth rate.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「Metal additive manufacturing followed closely, with $4.7 billion in 2024 revenue. Supported by strong adoption in sectors such as aerospace, energy, and healthcare, the segment is on track to grow to nearly $60 billion by 2034, at a projected CAGR of 29%.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「Xometry posts record Q3 revenue of $252 million and raises 2026 outlook」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+- 用途別：
+  - 「path planning and print simulation accelerates the prototype making proof-of-concept to production process as the tooling process is negated.」（https://aml3d.com/）
+  - 「AS 9100D for Aerospace」（https://aml3d.com/）
+  - 「AML3D joins A$3.9M Advanced Aerospace Manufacturing Project」（https://aml3d.com/）
+  - 「about AML3D joins A$3.9M Advanced Aerospace Manufacturing Project」（https://aml3d.com/）
+  - 「ARCEMY® X Operational at US Defence and Industry Supplier Fastech Highlights AML3D completes on-time commissioning of a large scale, ARCEMY® X system at US Defense, Aerospace, Energy and industry supplier FasTech. The installation completes the $1.7 million order and enhances FasTech’s 3D metal printing capabilities and AML3D’s US profile. The order demonstrates AML3D’s ability to…」（https://aml3d.com/）
+  - 「~$1.7 Million ARCEMY® Order from US Defence and Industry Supplier. Highlights ~$1.7 million1 ARCEMY® X order expands US 3D metal printing supplier FasTech‘s capabilities and AML3D’s US profile. FasTech provides additive manufacturing services to the US Defense, Aerospace, Energy and other high-demand industrial sectors. The FasTech order will allow AML3D to leverage ARCEMY®‘s success in…」（https://aml3d.com/）
+  - 「Certified AS 9100D for Aerospace Compliance」（https://aml3d.com/）
+  - 「When it comes to AM within the aerospace sector, AS9100D plays a crucial role in guaranteeing the integrity and consistency of 3D-printed components. Aligning AM processes with AS9100D ensures high-quality parts with AML3D's WAM」（https://aml3d.com/）
+  - 「When it comes to AM within the aerospace sector, AS9100D plays a crucial role in guaranteeing the integrity and consistency of 3D-printed components. Aligning AM processes with AS9100D ensures aerospace manufacturers can produce high-quality parts with AML3D's WAM system.」（https://aml3d.com/）
+  - 「Semiconductor applications are a major driver for 3D Systems’ metal AM hardware. To learn more, click on the image and access the upcoming webinar hosted by VoxelMatters」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「The company is also a major material provider, offering proprietary photopolymers, SLS powders, and dental resins through its 2017 acquisition of NextDent. Its solutions serve various industries, including healthcare, dental, aerospace, and consumer goods.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「Closely integrated with GE’s own production, Colibrium platforms are widely used for end-use aerospace parts. Using metal L-PBF technology, GE Aerospace has produced tens of thousands of fuel nozzles and consolidated over 150 components into a single turbine center frame casing using additive manufacturing. In electron beam powder bed fusion (EB-PBF), one of the main recent highlights was」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「, while the H3 metal binder jetting system is still in the early phases of adoption. Colibrium’s materials division includes AP&C, a key supplier of aerospace-grade metal powders, such as titanium and nickel superalloys.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「In metal AM, EOS’s direct metal laser sintering (DMLS) systems—particularly the EOS M 400 series—are utilized by major aerospace companies for both prototyping and certified production. MTU Aero Engines manufactures critical engine components for Airbus platforms, while Relativity Space has employed EOS systems in early-stage rocket development. Honeywell Aerospace and」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+  - 「, acquired in 2009, develops high-performance composite selective laser sintering (SLS) powders—including carbon fiber- and flame-retardant-filled nylons—designed for demanding aerospace and defense applications.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+- 価格を決める要因：
+  - 「enable a digitally driven, on-demand manufacturing experience reducing freight costs and time with systems located near-to-demand in a manufacturing facility, or at a client's location such as a shipyard. Design for Additive Manufacturing processes, combined with WAMSoft」（https://aml3d.com/）
+  - 「ISO9001 Quality Management Systems (QMS) Certification」（https://aml3d.com/）
+  - 「DNV Approved Maritime Manufacturer Certification」（https://aml3d.com/）
+  - 「First ARCEMY® Systems Operational at Largest U.S. Military Shipbuilder」（https://aml3d.com/）
+  - 「First ARCEMY® Systems Operational at Largest U.S. Military Shipbuilder. Highlights AML3D completes an initial ~$4.5 million order for two custom, large scale, ARCEMY® X systems for Newport News Shipbuilding (“NNS”). NNS is a division of HII, the largest military ship builder in the USA. A second ~$9.9 million NNS order for four additional custom, large…」（https://aml3d.com/）
+  - 「about First ARCEMY® Systems Operational at Largest U.S. Military Shipbuilder」（https://aml3d.com/）
+  - 「First portable ARCEMY® System online at US Navy Additive Manufacturing Centre of Excellence Highlights Austal USA and AML3D expand partnership to further support Maritime Industrial Base. AML3D delivers the first portable ARCEMY® system to the US Navy’s Additive Manufacturing Centre of Excellence (AM CoE) in Danville, Virginia. Installation of the shipping container mounted ARCEMY® small…」（https://aml3d.com/）
+  - 「$9.9M ARCEMY X Order from US Military Shipbuilder: HII-NNS」（https://aml3d.com/）
+  - 「~$9.9 Million ARCEMY® X Order from Largest US Military Shipbuilder Highlights The ~$9.9 million order for four ARCEMY® X systems has been placed by Newport News Shipbuilding (‘NNS’). The order will bring the number of ARCEMY® X systems at NNS, a division of HII to six. HII is the largest U.S. military shipbuilder. Increasing the…」（https://aml3d.com/）
+  - 「about $9.9M ARCEMY X Order from US Military Shipbuilder: HII-NNS」（https://aml3d.com/）
+  - 「Without certification, parts cannot be approved for use. In 2018, AML3D became the world's first facility to receive the “Additive Manufacturing Facility Qualification”.」（https://aml3d.com/）
+  - 「When it comes to AM within the aerospace sector, AS9100D plays a crucial role in guaranteeing the integrity and consistency of 3D-printed components. Aligning AM processes with AS9100D ensures high-quality parts with AML3D's WAM」（https://aml3d.com/）
+  - 「Without certification, parts cannot be approved for use. In 2018, AML3D® became the worlds first facility to receive the “Additive Manufacturing Facility Qualification”.」（https://aml3d.com/）
+  - 「AS9100D」（https://aml3d.com/）
+  - 「When it comes to AM within the aerospace sector, AS9100D plays a crucial role in guaranteeing the integrity and consistency of 3D-printed components. Aligning AM processes with AS9100D ensures aerospace manufacturers can produce high-quality parts with AML3D's WAM system.」（https://aml3d.com/）
+- 最大案件・上限：記載なし（読んだ45頁・検索16回）

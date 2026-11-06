@@ -1,0 +1,4267 @@
+{
+ "name": "中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文）",
+ "en": "JFC SME manufacturing capex survey 2026 detail",
+ "aliases": [
+  "中小製造業設備投資動向調査 結果",
+  "設備投資 目的 更新 能力拡充 公庫"
+ ],
+ "context": "一次・公庫・最新",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:13:14.661380+00:00",
+ "evidence": {
+  "機械受注": [
+   {
+    "quote": "2026年の製造業の景気を、日銀短観、鉱工業生産、機械受注、工作機械・ロボット受注、設備投資計画の最新統計で整理",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月の機械受注は5.2%増｜電子計算機等が前年比7割増、設備投資の先行指標を読む",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "調査票を発送し、自社記入のうえ、返送を受けた調査票をもとに母集団推計を行った",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "発送数30,000社のうち、有効回答数7,744社",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第134回中小製造業設備投資動向調査・要約版",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績・2026年度当初計画（4月調査）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫 総合研究所 中小企業研究第一グループ Tel：03-3270-1763（担当：真瀬、葛貫）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度当初計画比では、6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※調査の全文につきましては、こちらをご覧ください",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 国内設備投資額の2025年度実績・2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 本調査では、百万円単位で集計を行っている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 増減率は、特段の断りがない限り、前年度同期実績に対するものであり、小数第 2位を四捨五入して表示している（以下同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 母集団は、2021年度実績までは工業統計調査、 2022年度実績以降は事業所母集団データベースに",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、前年同時期に策定された2025年度当初計画比では、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度実績 2025年度実績 2026年度当初計画 （参考）2025年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫 総合研究所 中小企業研究グループ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「第134回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〔2025年度実績、2026年度当初計画〕",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額の実績は減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額は 2 兆 8,234 億円と、 2024 年度実績に比べて 3.5％減少しました （図－1）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画の設備投資額は 2 兆 8,727 億円となり、 2025 年度実績に比べて 1.7％増加しました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当初計画が前年度実績を上回るのは 4 年ぶりです",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "米国の通商政策に見通しが立ち、控えていた設備投資を実施する企業が多いものと",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（09年度実績）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（10年度実績）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績 2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料：日本政策金融公庫総合研究所「中小製造業設備投資動向調査」 （以下同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 母集団は、2021 年度実績までは工業統計調査、2022 年度実績以降は事業所母集団データベースに基づいている（以下同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は中東情勢の影響を大きく受ける業種も",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度実績では、 全 17 業種中 13 業種で 2024 年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「業務用機械」 （-19.3％）は、大幅に増加した前年度からの反動とみられます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は、10 業種で 2025 年度実績に比べて増加しています",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ グラフの中の数字は、2025年度実績比増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）２ 横軸は、2025年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ グラフ中の数字は、2024年度実績比増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業設備投資動向調査結果｜日本政策金融公庫",
+    "url": "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資動向に関する調査結果をご覧になれます",
+    "url": "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第134回中小製造業設備投資動向調査結果",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績・2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１.調査対象（母集団）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２.調査方法",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査対象に調査票を送付、自社記入のうえ返送を受けた",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額については、返送された調査票をもとに母集団推計を",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３.有効回答企業数",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "有効回答数 7,744社（回答率 25.8％ ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４.調査時点",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績 2024年度実績比 3.5％減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績比 1.7％増加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年度当初計画比 6.8％増加）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度当初計画では、2025年度実績と比べて17業種中10業種で",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．目的別動向 2025年度実績、2026年度当初計画ともに、「更新、維持・補修」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年度実績35.2％、2026年度当初計画32.7％）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１． 2025 年度の国内設備投資額の実績は、 2024 年度実績比 3.5％減少 となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "○ 国内設備投資額の2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度当初計画比では、6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 国内設備投資額の2025年度実績・2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 本調査では、百万円単位で集計を行っている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 設備投資額の増減率は、母集団の変更に伴い再推計を行ったうえで算出している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度実績では、 2024年度実績に比べて、全 17業種中 13業種で減少した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2026年度当初計画では、 2025年度実績に比べて、 10業種で増加した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－３ 設備投資額の目的別構成比の推移",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）設備投資額の目的別増減率（ 2025 年度当初計画比）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額の実績は減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額は 2 兆 8,234 億円と、 2024 年度実績に比べて 3.5％減少しました （図－1）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に、上半期は前年同期比で 9.5％減少と落ち込みました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、下半期は前年同期比で 2.0％増加しました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画の設備投資額は 2 兆 8,727 億円となり、 2025 年度実績に比べて 1.7％増加しました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なかでも、上半期は前年同期比で 10.3％増加と大",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、下半期は前年同期比で 5.3％減少となっています",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－1 国内設備投資額および増減率の推移",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 設備投資額の増減率は、母集団の変更に伴い再推計を行ったうえで算出している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実績に比べて減少しました （図－2）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "減少率が高い 「はん用機械」 （-36.4％） や 「パルプ ・ 紙」 （-27.5％） 、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「業務用機械」 （-19.3％）は、大幅に増加した前年度からの反動とみられます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増加した業種に目を向けると、 「化学」 （25.1％）では、価格転嫁の浸透などにより企業の業績が上向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "足や生産性向上に対応するための省力化投資が進められ、4 年連続の増加となりました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は、10 業種で 2025 年度実績に比べて増加しています",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ミックスの需要が期待される「窯業・土石」 （33.8％）などの増加が目立ちます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の目的別構成比をみると、 2025 年",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は「建物・構築物」と「機械・装置」への投資が増加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．国内設備投資額",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績 2024年度実績比 3.5％減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２．国内設備投資額",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績比 1.7％増加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年度当初計画比 6.8％増加）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１． 2025 年度の国内設備投資額の実績は、 2024 年度実績比 3.5％減少 となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実績比でみると、 2年ぶりの減少である",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上半期、下半期別では、上半期は前年同期比 9.5％減少 、下半期は同 2.0％増加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２． 2026 年度の国内設備投資額の当初計画は、 2025 年度実績比 1.7％増加 となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "度実績比でみると、 4年ぶりの増加である",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上半期、下半期別では、上半期は前年同期比 10.3％増加 、下半期は同 5.3％減少と",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、 2026 年度当初計画を 2025 年度当初計画と比べると、 6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画では、 17 業種中 10 業種で増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「窯業・土石」「パルプ・紙」「プラスチック製品」などが増加している（表－ 3）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の中小製造業の設備投資額は横ばいの見通し 「第133回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資は増加したものの、計画は慎重「第132回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資額は高水準を維持「第130回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度の中小製造業の設備投資は3年連続で増加する見通し「第129回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2年連続で増加した中小製造業の設備投資 ～2023年度の設備投資は減少する見通し～「第128回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度の中小製造業の設備投資は2年連続で増加となる見通し「第127回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資実績は3年ぶりに増加 ～2022年度の設備投資はさらに増加する見通し～「第126回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021年度の中小製造業の設備投資は3年ぶりに増加となる見通し「第125回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資実績は2年連続で減少～2021年度の設備投資はさらに減少する見通し～「第124回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資額は2年連続で減少となる見通し「第123回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資実績は3年ぶりに減少～2020年度の設備投資はさらに減少する見通し～「第122回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資額は3年連続で増加となる見通し「第121回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "○ 2025年度実績の設備投資の目的をみると、「更新、維持・補修」の割合が 35.2％と最も高く、次いで「能力拡充」（30 .3％）、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「省力化・合理化」（ 14.7％）の順となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2026年度当初計画では、「能力拡充」や「省力化・合理化」、「新製品の生産、新規事業への進出、研究開発」などの 割合が",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新製品の生産、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "能力拡充 (26.1)",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "更新、維持・補修",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "種では更新や維持、 補修のための投資が減っており、 老朽化への対応が一巡した様子もうかがえます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "足や生産性向上に対応するための省力化投資が進められ、4 年連続の増加となりました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "度実績では、 「更新、維持・補修」 （35.2％）が",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「能力拡充」 （30.3％） は、 2024 年度 （25.1％）から",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "となり、能力増強に向けた動きがみられます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、 「省力化・合理化」 （14.7％）が「新製",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "品の生産 、新規事業への進出 、研究開発」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "禍から回復するなかで人手不足が顕在化してお",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いて「更新、 維持 ・ 補修」 （32.7％）が低下し、 「能",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "更新、維持・補修",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新製品の生産、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．目的別動向 2025年度実績、2026年度当初計画ともに、「更新、維持・補修」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "６． 投資目的をみると、 2025 年度実績では「更新、維持・補修」の構成比が 17 年連続で",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、「能力拡充」の構成比は前年度実績の構成比と比べて 3年ぶりに上昇した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画では、「更新、維持・補修」の構成比が引き続き最も高いものの、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新製品の生産、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "更新、維持・補修",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(37.8) 能力拡充",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その他 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止 省エネ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "省エネ その他 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業におけるデジタル化の実態「中小企業のデジタル化に関する調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資は更新投資中心に増加の見通し「中小製造業設備投資動向調査（第109回）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "土地を含み、ソフトウェア・研究開発を除く",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査では、半導体やデータセンターに関わる部材を供給する企業の投資が伸びており、AI需要の「川上」にあたる製品の能力増強が背景にあるとみられます",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の自動車は、大型案件が一巡するものの、電動化関連を中心とした能力増強や生産設備の更新で13.2％増の計画です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "東海の投資を支えているのは、電動化関連の生産基盤整備や設備更新、新製品に対応した生産ラインの整備です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新工場だけでなく、既存ラインの更新や作り替えにも投資が向かっている",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業は「更新中心」から少しずつ前向きに",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資の目的は「更新」が最多、ただし能力拡充も上昇",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の投資目的で最も多いのは、古くなった設備の「更新、維持・補修」です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、2026年度当初計画では「能力拡充」や「省力化・合理化」、「新製品の生産・新規事業・研究開発」の割合が上がりました",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足への対応として、",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "などを使った自動化投資を検討する企業も増えています",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資する企業の割合は下がり、中身は更新が中心です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「更新、維持・補修」の構成比",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電動化関連の生産基盤整備、設備更新、新製品対応のライン整備",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3つ目は人手不足です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業は1.7％増と小幅で、更新・維持補修が中心",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械への投資意欲は高い一方、建屋投資や金額・時期は慎重で、コスト高・調達・人手不足が下振れ要因",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の研究開発費ランキング｜売上高比率でみる日本企業の上位",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "第134回 中小製造業設備投資 動向調査結果 - 日本政策金融公庫 — 第134回 中小製造業設備投資 動向調査結果 - 日本政策金融公庫 日本政策金融公庫 PDF https://www.jfc.go.jp > findings > pdf > news2026_6b",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第134回 中小製造業設備投資 動向 調査結果 - 日本政策金融公庫 — 第134回 中小製造業設備投資 動向 調査結果 - 日本政策金融公庫 日本政策金融公庫 PDF https://www.jfc.go.jp > findings > pdf > news2026_6b",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "総務省事業所母集団データベース（令和 5年次フレーム）をもとに把握した全国の従業員 20人以上300人未満の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫 総合研究所 中小企業研究第一グループ Tel：03-3270-1763（担当：真瀬、葛貫）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 業種別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－２ 業種別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 横軸は、2024年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "従業員規模別では、 20～49 人を除くすべての規模で上昇した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫 総合研究所 中小企業研究グループ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "次に、 実績と当初計画を業種別にみていきます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "減少率が高い 「はん用機械」 （-36.4％） や 「パルプ ・ 紙」 （-27.5％） 、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーンの混乱から減産の懸念がある「輸送用機器」 （-20.6％）など、中東情勢の影響を受",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－2 業種別増減率および構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）２ 横軸は、2025年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）２ 横軸は、2024年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "把握した全国の従業員 20人以上 300人未満の中小製造業 55,356社",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業研究第一グループ（担当：真瀬、葛貫）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「はん用機械」「パルプ・紙」「業務用機械」などが減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「はん用機械」「パルプ・紙」「業務用機械」などが減少している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４． 企業規模別にみる と、2025 年度実績では従業員数 20 人～ 49 人、 200 人～ 299 人の規模で、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料：日本政策金融公庫総合研究所「全国中小企業動向調査（中小企業編）」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表－３ 業種別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 横軸は、 2024年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 横軸は、 2025年度実績 における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-6.7 生産用 機械",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表－４ 規模別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）業種別の設備投資額の目的別構成比－ 2025年度実績",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）業種別の設備投資額の目的別構成比－2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、持ち直しの動きがみられる「全国中小企業動向調査（中小企業編）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、一部に弱さがあるものの、持ち直しの動きがみられる「全国中小企業動向調査（中小企業編）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、改善が続く見通し～「2026年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、一部に弱さがあるものの、持ち直しの動きがみられる 「全国中小企業動向調査（中小企業編）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、持ち直しの動きがみられる 「全国中小企業動向調査（中小企業編）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、再び上向く見通し ～「2025年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業におけるデジタル化の実態「中小企業のデジタル化に関する調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、持ち直しの動きに足踏みがみられる「全国中小企業動向調査（中小企業編）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、改善する見通し ～「2024年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、持ち直しの動きがみられる「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、一部に弱さがあるものの、持ち直しの動きがみられる「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、原材料高の影響により悪化見込み ～「2023年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、新型コロナウイルス感染症の影響により厳しい状況にあるものの、持ち直しの動きがみられる「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は改善する見通し～「2022年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、新型コロナウイルス感染症の影響により依然として厳しい状況にある「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、改善する見通し ～「2021年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、新型コロナウイルス感染症の影響により急速に悪化し、極めて厳しい状況にある「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、新型コロナウイルス感染症の影響により大幅に下押しされ、厳しい状況になってきている「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、足元で弱さがみられる「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、緩やかに改善する見通し ～「2020年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び | MONOSCOPE",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月1日に公表された日銀短観（日本銀行が企業に景気や計画を聞く調査）で、大企業製造業の2026年度の設備投資計画は前年度比11.6％増でした",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業製造業の2026年度計画は二桁前後の増加：DBJ 13.2％増、法人企業景気予測調査（製造業全体）12.7％増、日銀短観は",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "伸びを引っぱるのは電気機械・情報通信機械・化学・非鉄金属など、AI・半導体関連の業種",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行（DBJ）が2026年8月4日に公表した「2026年度設備投資計画調査」では、資本金10億円以上の大企業の国内設備投資は前年度比19.7％増の計画です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観では、大企業製造業の2026年度計画が6月調査で10.1％増、10月1日公表の9月調査では11.6％増に上方修正されました",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業ほど伸び率が高く、中小製造業は小幅増にとどまります",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業10.1％増",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金10億円以上の大企業（回答1,598社）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業・中堅・中小（資本金2,000万円以上）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "2026年4月上旬",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績・2026年度当初計画（4月調査）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度当初計画比では、6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 国内設備投資額の2025年度実績・2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金 額 増減率 金 額 増減率 金 額 増減率 金 額 2026当初計画2025当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 増減率は、特段の断りがない限り、前年度同期実績に対するものであり、小数第 2位を四捨五入して表示している（以下同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 母集団は、2021年度実績までは工業統計調査、 2022年度実績以降は事業所母集団データベースに",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、前年同時期に策定された2025年度当初計画比では、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度実績 2025年度実績 2026年度当初計画 （参考）2025年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（4月時点） （9月時点） （年度末）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年7月17日",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〔2025年度実績、2026年度当初計画〕",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額の実績は減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額は 2 兆 8,234 億円と、 2024 年度実績に比べて 3.5％減少しました （図－1）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画の設備投資額は 2 兆 8,727 億円となり、 2025 年度実績に比べて 1.7％増加しました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当初計画が前年度実績を上回るのは 4 年ぶりです",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－1 国内設備投資額および増減率の推移",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（09年度実績）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（10年度実績）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績 2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 母集団は、2021 年度実績までは工業統計調査、2022 年度実績以降は事業所母集団データベースに基づいている（以下同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は中東情勢の影響を大きく受ける業種も",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度実績では、 全 17 業種中 13 業種で 2024 年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「業務用機械」 （-19.3％）は、大幅に増加した前年度からの反動とみられます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は、10 業種で 2025 年度実績に比べて増加しています",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ グラフの中の数字は、2025年度実績比増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）２ 横軸は、2025年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ グラフ中の数字は、2024年度実績比増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）２ 横軸は、2024年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）2026 年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月27日（2027年6月下旬）",
+    "url": "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年 6 月 25 日",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績・2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年4月上旬",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績 2024年度実績比 3.5％減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績比 1.7％増加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年度当初計画比 6.8％増加）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度当初計画では、2025年度実績と比べて17業種中10業種で",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．目的別動向 2025年度実績、2026年度当初計画ともに、「更新、維持・補修」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年度実績35.2％、2026年度当初計画32.7％）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１． 2025 年度の国内設備投資額の実績は、 2024 年度実績比 3.5％減少 となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２． 2026 年度の国内設備投資額の当初計画は、 2025 年度実績比 1.7％増加 となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、 2026 年度当初計画を 2025 年度当初計画と比べると、 6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画では、 17 業種中 10 業種で増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４． 企業規模別にみる と、2025 年度実績では従業員数 20 人～ 49 人、 200 人～ 299 人の規模で、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度実績比増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画では 100 人～ 199 人を除くすべての規模で、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度に海外拠点へ設備投資を実施した企業割合をみると、全規模は 26.5％ と、 2024年度実績（ 23.5％ ）から上昇した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 「海外拠点があり設備投資を実施」と回答した企業の海外での設備投資の延べ件数を国・地域別に 集計、延べ投資件数全体に対する割合を求めたもの",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「海外拠点あり」と回答した企業のうち、海外拠点への設備投資実施割合をみると、2025 年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－4 \u0007 海外拠点への設備投資実施割合\u0007",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－5 国・地域別にみた設備投資実施割合",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 「海外拠点があり設備投資を実施」と回答した企業の海外で",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄 鋼 7.2 34.2% 24.0% 27.0% 14.8%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非 鉄 金 属 0.0 29.1% 23.4% 29.1% 18.4%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金 属 製 品 8.7 34.1% 23.4% 25.4% 17.0%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は ん 用 機 械 8.1 32.2% 26.4% 24.1% 17.2%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生 産 用 機 械 6.8 35.1% 18.2% 28.3% 18.5%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業 務 用 機 械 7.0 30.7% 16.3% 23.7% 29.3%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電 気 機 器 10.8 29.1% 22.2% 18.3% 30.5%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸 送 用 機 器 10.9 34.4% 20.8% 23.5% 21.3%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "化 学 7.5 33.3% 24.2% 25.8% 16.7%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "パ ル プ ・ 紙 1.6 27.7% 20.4% 26.1% 25.8%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "窯 業 ・ 土 石 8.3 31.5% 28.2% 23.2% 17.1%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "繊 維 ・ 繊 維 製 品 1.8 22.4% 23.8% 20.6% 33.2%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "木 材 ・ 木 製 品 9.3 34.9% 18.9% 25.6% 20.6%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食 料 品 8.7 33.3% 24.2% 24.6% 17.9%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "印 刷 ・ 同 関 連 ▲ 1.2 29.9% 18.9% 31.1% 20.1%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プ ラ ス チ ッ ク 製 品 8.4 35.8% 21.1% 27.4% 15.7%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そ の 他 ▲ 2.3 23.4% 21.6% 25.7% 29.3%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "合 計 7.1 31.8% 22.2% 24.7% 21.3%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄 鋼 20.9% 6.0% 23.9% 80.6% 22.4% 13.4% 3.0% 0.0% 4.5%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非 鉄 金 属 32.6% 6.5% 34.8% 69.6% 15.2% 28.3% 2.2% 0.0% 4.3%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業に対する円高の影響調査結果 「取引先の業績悪化」「値引き要請」などで17%の中小企業が減益",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の2009年度設備投資修正計画は前年度実績比▲37.1%",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び | MONOSCOPE",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食品業界の設備投資2026｜42.7%増の後も続く新工場ラッシュの狙い",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査で大企業は2025年度42.7%増・2026年度計画3.5%増、日本公庫の設備投資DI、明治・森永乳業・雪印メグミルクの北海道新工場など主要5計画、工場を建てる4つの理由と今後の注意点を解説します",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月の機械受注は5.2%増｜電子計算機等が前年比7割増、設備投資の先行指標を読む",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイヘンが経常20%上方修正｜半導体電源と蓄電池が伸びた理由",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "任天堂中間決算2026｜減収でも営業益49%増の理由とSwitch 2の現在地",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "日本政策金融公庫【公式】 on X: \"「第134回中小製造業設備投資動向調... Jun 25, 2026 · 「第134回中小製造業設備投資動向調査結果（2025年度実績・2026年度当初計画）」を公表しました。 くわしくはこちらをご覧ください。 ⇒ jfc.go.jp/n/findings/pdf…",
+    "url": "https://x.com/JFC_information/status/2070010921364455748",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "status": "ok",
+    "method": "pdf:seed"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://x.com/JFC_information/status/2114946985216373097",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2026/pdf/honbun_1_4_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://insection.co.jp/slide/article/sme-mfg-capex-687-chusho2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/national/detail_202606.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260522-2026capinvest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/niigata-roudoukyoku/content/contents/04bukai02-06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://eigyo-mfg.com/blog/8113/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/national/pdf/2026_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fedsmallbusiness.org/reports/survey/2026/2026-report-on-employer-firms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/english/institute/survey.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ecommerce.ismworld.org/SSO/Login.aspx?DPLF=Y&vi=10&vt=d8625202bf305ab867db40f8589eeaf9b39c9dc9c401a076c95650e45f1996b35841ffc4be68b3fcabb7281254b10af2e4cfd098178bc7fe29285fbe51cf256992781c963ffe375297bdf2760447f7bb1edc33e0e320b41d9cc57a346fd39588958c719c3f77102bb599dbaf9bb06654fc2352b4f1aceb8de0b9de55380b70ea93eba406ba114b651cb5fb2571044820",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chartforest.com/capex-survey-2026-nso-third-private-investment-round/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/manufacturing-industry-outlook.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richmondfed.org/-/media/RichmondFedOrg/region_communities/regional_data_analysis/regional_economy/surveys_of_business_conditions/manufacturing/2026/pdf/mfg_06_23_26.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://x.com/JFC_information/status/2070010921364455748",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文） 推移",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "https://www.shokochukin.co.jp/report/investment/",
+    "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "https://x.com/JFC_information/status/2114946985216373097",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/cc829ee6529d49a7b2650ce90bcd90e0/20250613_%E4%BA%AC%E9%83%BD%E5%BA%9C%E3%83%BB2025%E5%B9%B4%E5%BA%A6%E3%81%AE%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E6%84%8F%E8%AD%98%E8%AA%BF%E6%9F%BB.pdf",
+    "https://eigyo-mfg.com/blog/8113/",
+    "https://www.jfc.go.jp/n/findings/pdf/news2026_10a.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf"
+   ]
+  },
+  {
+   "query": "中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文） 調査結果 pdf",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "https://www.shokochukin.co.jp/report/investment/",
+    "https://x.com/JFC_information/status/2114946985216373097",
+    "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.murc.jp/wp-content/uploads/2026/04/tankan_res_2604_01.pdf",
+    "https://www.meti.go.jp/report/whitepaper/mono/2026/pdf/honbun_1_4_2.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf"
+   ]
+  },
+  {
+   "query": "中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文） 年度 実施割合",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "https://www.shokochukin.co.jp/report/investment/",
+    "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "https://www.tdb.co.jp/report/economic/20260522-2026capinvest/",
+    "https://x.com/JFC_information/status/2114946985216373097",
+    "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "https://jsite.mhlw.go.jp/niigata-roudoukyoku/content/contents/04bukai02-06.pdf",
+    "https://eigyo-mfg.com/blog/8113/",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf"
+   ]
+  },
+  {
+   "query": "JFC SME manufacturing capex survey 2026 detail",
+   "results": [
+    "https://www.fedsmallbusiness.org/reports/survey/2026/2026-report-on-employer-firms",
+    "https://www.jfc.go.jp/n/english/institute/survey.html",
+    "https://www.ismworld.org/supply-management-news-and-reports/reports/semi-annual-economic-forecast/2026/spring/",
+    "https://chartforest.com/capex-survey-2026-nso-third-private-investment-round/",
+    "https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/manufacturing-industry-outlook.html",
+    "https://www.richmondfed.org/-/media/RichmondFedOrg/region_communities/regional_data_analysis/regional_economy/surveys_of_business_conditions/manufacturing/2026/pdf/mfg_06_23_26.pdf",
+    "https://www.mof.go.jp/english/pri/reference/bos/e1c202601.htm",
+    "https://www.oecd.org/en/publications/financing-smes-and-entrepreneurs-2026_bb7fc5c4-en/japan_18c68966-en.html",
+    "https://www.advancedmanufacturing.org/news-desk/press-releases/two-thirds-of-middle-market-manufacturers-plan-to-increase-equipment-investment-in-2026/article_30035863-edde-4bac-b2f5-d5e1b820750e.html",
+    "https://www.jfc.go.jp/n/english/institute/pdf/survey_sme_202610.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文）",
+   "results": [
+    "https://note.com/deft_guppy5150/n/nae53c3d8a2e0",
+    "https://note.com/transtep/n/nd9288552c2aa",
+    "https://note.com/sion_remake0415/n/nb6172330abba",
+    "https://note.com/kagawatomo/n/n29b6c068376b",
+    "https://note.com/fukuda_jimusho/n/n4d518c125ba2",
+    "https://note.com/tamotsu_sato/n/n6f8ed746a25e",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/deep_think_ai/n/nea4a83f6b3ee",
+    "https://note.com/agbell_harikae/n/nb3229db31825",
+    "https://note.com/nobuto545/n/n16c9db27456e"
+   ]
+  },
+  {
+   "query": "site:x.com 中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文）",
+   "results": [
+    "https://x.com/JFC_information/status/2070010921364455748",
+    "https://x.com/JFC_information/status/2016743798408462396",
+    "https://x.com/JFC_information/status/2081610658408439981",
+    "https://x.com/JFC_information",
+    "https://jf.x.com/images/media-preview/2102904758503661619",
+    "https://jf.x.com/images/media-preview/2099927349672468934",
+    "https://x.com/TDB_PR/status/2057627986590109888"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文）",
+   "results": [
+    "https://jp.linkedin.com/in/kemtch",
+    "https://jp.linkedin.com/in/kenta-yamada-65515816b",
+    "https://jp.linkedin.com/in/隆雄-是澤-7795ab67",
+    "https://jp.linkedin.com/in/寛通-國見-07a054106",
+    "https://jp.linkedin.com/posts/ichengsijapan_製造業の利益率の目安とは参考値で収益改善を図ろう業種別-activity-7203266671162064899-gUoi",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業の投資は本当に少ないのか-付加価値と総固定資本形成の関係-activity-7405339762611482624-gktE",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業ではどんな資産負債が多い-固定資産と金融資産借入金-activity-7468757442168782848-M5uv",
+    "https://jp.linkedin.com/in/kojiro-nomura"
+   ]
+  },
+  {
+   "query": "site:facebook.com 中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文）",
+   "results": [
+    "https://www.facebook.com/smrjpr/",
+    "https://www.facebook.com/BankofJapan/posts/金融システム2026年度の考査の実施方針等についてを公表しました/1374529334476891/",
+    "https://www.facebook.com/nikkei/posts/デジタル投資非製造業で24増-9年ぶり高水準-上位3社にはjr東日本anahdjalが並びましたai導入や顧客接点のデジタル化に向けて投資を積み増しています一方/1580901493381247/",
+    "https://www.facebook.com/smrjkinki/photos/ハンズオン支援事例集2024を公開経営戦略からdx生産性向上まで中小企業の課題解決の取り組みのヒントがココに満載中小機構で実施しているハンズオン支援事業を活用し/1083574793811032/",
+    "https://www.facebook.com/mssf.jp/posts/連載中小製造業の今を変える-経営と現場のデジタル改革第４回を掲載しました本コラムの連載では労働生産性に焦点を当てなぜデジタル化dx化が重要なのかを考察します第４/122157732590609139/",
+    "https://www.facebook.com/smrjpr/posts/中小企業省力化投資補助金の事務局ホームページとコールセンターを開設しました-人手不足に悩む中小企業等に対してiotロボット等の人手不足解消に効果がある汎用製品を/863398205826130/",
+    "https://www.facebook.com/itckyoto/posts/コラム中小製造業の中国における情報システム活用のツボを更新国際経験豊富でグローバル人材育成センターのアドバイザーをされている坂口幸雄さんのコラムですポイントはや/474143539311570/"
+   ]
+  },
+  {
+   "query": "中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文） note 社長",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "https://www.shokochukin.co.jp/report/investment/",
+    "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "https://eigyo-mfg.com/blog/8113/",
+    "https://www.dbj.jp/investigate/equip/national/pdf/2026_summary.pdf",
+    "https://x.com/JFC_information/status/2114946985216373097",
+    "https://www.sangyo-times.jp/article.aspx?ID=8147",
+    "https://www.jfc.go.jp/n/findings/pdf/news2026_10a.pdf",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf"
+   ]
+  },
+  {
+   "query": "中小製造業の設備投資実施割合（日本政策金融公庫 2026年 本文） X 投稿",
+   "results": [
+    "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "https://www.shokochukin.co.jp/report/investment/",
+    "https://x.com/JFC_information/status/2114946985216373097",
+    "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "https://eigyo-mfg.com/blog/8113/",
+    "https://www.dbj.jp/investigate/equip/national/pdf/2026_summary.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.kipc.or.jp/blog/setsubi-623/",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/setsubi202609.pdf"
+   ]
+  },
+  {
+   "query": "JFC SME manufacturing capex survey 2026 detail site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/in/kevin-emery-00bbb636",
+    "https://www.linkedin.com/in/mathieuprichonnet",
+    "https://in.linkedin.com/in/aditya-sood-63b90216",
+    "https://uk.linkedin.com/in/francesatherstone",
+    "https://ch.linkedin.com/in/nuno-gabirro-a78a2570",
+    "https://in.linkedin.com/in/dharya-nagpal-025b601b6",
+    "https://be.linkedin.com/in/kayne-craven-94a47069",
+    "https://uk.linkedin.com/in/natalia-yalovskaya-041b157",
+    "https://uk.linkedin.com/in/iain-ross-59789a28",
+    "https://uk.linkedin.com/in/vernontolson"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "機械受注": [
+   {
+    "quote": "2026年の製造業の景気を、日銀短観、鉱工業生産、機械受注、工作機械・ロボット受注、設備投資計画の最新統計で整理",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月の機械受注は5.2%増｜電子計算機等が前年比7割増、設備投資の先行指標を読む",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "調査票を発送し、自社記入のうえ、返送を受けた調査票をもとに母集団推計を行った",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "発送数30,000社のうち、有効回答数7,744社",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第134回中小製造業設備投資動向調査・要約版",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績・2026年度当初計画（4月調査）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫 総合研究所 中小企業研究第一グループ Tel：03-3270-1763（担当：真瀬、葛貫）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度当初計画比では、6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※調査の全文につきましては、こちらをご覧ください",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 国内設備投資額の2025年度実績・2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 本調査では、百万円単位で集計を行っている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 増減率は、特段の断りがない限り、前年度同期実績に対するものであり、小数第 2位を四捨五入して表示している（以下同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 母集団は、2021年度実績までは工業統計調査、 2022年度実績以降は事業所母集団データベースに",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、前年同時期に策定された2025年度当初計画比では、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度実績 2025年度実績 2026年度当初計画 （参考）2025年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫 総合研究所 中小企業研究グループ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「第134回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〔2025年度実績、2026年度当初計画〕",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額の実績は減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額は 2 兆 8,234 億円と、 2024 年度実績に比べて 3.5％減少しました （図－1）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画の設備投資額は 2 兆 8,727 億円となり、 2025 年度実績に比べて 1.7％増加しました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当初計画が前年度実績を上回るのは 4 年ぶりです",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "米国の通商政策に見通しが立ち、控えていた設備投資を実施する企業が多いものと",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（09年度実績）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（10年度実績）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績 2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料：日本政策金融公庫総合研究所「中小製造業設備投資動向調査」 （以下同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 母集団は、2021 年度実績までは工業統計調査、2022 年度実績以降は事業所母集団データベースに基づいている（以下同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は中東情勢の影響を大きく受ける業種も",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度実績では、 全 17 業種中 13 業種で 2024 年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「業務用機械」 （-19.3％）は、大幅に増加した前年度からの反動とみられます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は、10 業種で 2025 年度実績に比べて増加しています",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ グラフの中の数字は、2025年度実績比増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）２ 横軸は、2025年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ グラフ中の数字は、2024年度実績比増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業設備投資動向調査結果｜日本政策金融公庫",
+    "url": "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資動向に関する調査結果をご覧になれます",
+    "url": "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第134回中小製造業設備投資動向調査結果",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績・2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１.調査対象（母集団）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２.調査方法",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査対象に調査票を送付、自社記入のうえ返送を受けた",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額については、返送された調査票をもとに母集団推計を",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３.有効回答企業数",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "有効回答数 7,744社（回答率 25.8％ ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４.調査時点",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績 2024年度実績比 3.5％減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績比 1.7％増加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年度当初計画比 6.8％増加）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度当初計画では、2025年度実績と比べて17業種中10業種で",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．目的別動向 2025年度実績、2026年度当初計画ともに、「更新、維持・補修」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年度実績35.2％、2026年度当初計画32.7％）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１． 2025 年度の国内設備投資額の実績は、 2024 年度実績比 3.5％減少 となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "○ 国内設備投資額の2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度当初計画比では、6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 国内設備投資額の2025年度実績・2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 本調査では、百万円単位で集計を行っている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 設備投資額の増減率は、母集団の変更に伴い再推計を行ったうえで算出している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度実績では、 2024年度実績に比べて、全 17業種中 13業種で減少した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2026年度当初計画では、 2025年度実績に比べて、 10業種で増加した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－３ 設備投資額の目的別構成比の推移",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）設備投資額の目的別増減率（ 2025 年度当初計画比）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額の実績は減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額は 2 兆 8,234 億円と、 2024 年度実績に比べて 3.5％減少しました （図－1）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に、上半期は前年同期比で 9.5％減少と落ち込みました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方、下半期は前年同期比で 2.0％増加しました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画の設備投資額は 2 兆 8,727 億円となり、 2025 年度実績に比べて 1.7％増加しました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なかでも、上半期は前年同期比で 10.3％増加と大",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、下半期は前年同期比で 5.3％減少となっています",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－1 国内設備投資額および増減率の推移",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 設備投資額の増減率は、母集団の変更に伴い再推計を行ったうえで算出している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実績に比べて減少しました （図－2）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "減少率が高い 「はん用機械」 （-36.4％） や 「パルプ ・ 紙」 （-27.5％） 、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「業務用機械」 （-19.3％）は、大幅に増加した前年度からの反動とみられます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増加した業種に目を向けると、 「化学」 （25.1％）では、価格転嫁の浸透などにより企業の業績が上向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "足や生産性向上に対応するための省力化投資が進められ、4 年連続の増加となりました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は、10 業種で 2025 年度実績に比べて増加しています",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ミックスの需要が期待される「窯業・土石」 （33.8％）などの増加が目立ちます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の目的別構成比をみると、 2025 年",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は「建物・構築物」と「機械・装置」への投資が増加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．国内設備投資額",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績 2024年度実績比 3.5％減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２．国内設備投資額",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績比 1.7％増加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年度当初計画比 6.8％増加）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１． 2025 年度の国内設備投資額の実績は、 2024 年度実績比 3.5％減少 となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実績比でみると、 2年ぶりの減少である",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上半期、下半期別では、上半期は前年同期比 9.5％減少 、下半期は同 2.0％増加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２． 2026 年度の国内設備投資額の当初計画は、 2025 年度実績比 1.7％増加 となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "度実績比でみると、 4年ぶりの増加である",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上半期、下半期別では、上半期は前年同期比 10.3％増加 、下半期は同 5.3％減少と",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、 2026 年度当初計画を 2025 年度当初計画と比べると、 6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画では、 17 業種中 10 業種で増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「窯業・土石」「パルプ・紙」「プラスチック製品」などが増加している（表－ 3）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度の中小製造業の設備投資額は横ばいの見通し 「第133回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資は増加したものの、計画は慎重「第132回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資額は高水準を維持「第130回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度の中小製造業の設備投資は3年連続で増加する見通し「第129回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2年連続で増加した中小製造業の設備投資 ～2023年度の設備投資は減少する見通し～「第128回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度の中小製造業の設備投資は2年連続で増加となる見通し「第127回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資実績は3年ぶりに増加 ～2022年度の設備投資はさらに増加する見通し～「第126回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2021年度の中小製造業の設備投資は3年ぶりに増加となる見通し「第125回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資実績は2年連続で減少～2021年度の設備投資はさらに減少する見通し～「第124回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資額は2年連続で減少となる見通し「第123回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資実績は3年ぶりに減少～2020年度の設備投資はさらに減少する見通し～「第122回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資額は3年連続で増加となる見通し「第121回中小製造業設備投資動向調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "○ 2025年度実績の設備投資の目的をみると、「更新、維持・補修」の割合が 35.2％と最も高く、次いで「能力拡充」（30 .3％）、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「省力化・合理化」（ 14.7％）の順となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2026年度当初計画では、「能力拡充」や「省力化・合理化」、「新製品の生産、新規事業への進出、研究開発」などの 割合が",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新製品の生産、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "能力拡充 (26.1)",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "更新、維持・補修",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "種では更新や維持、 補修のための投資が減っており、 老朽化への対応が一巡した様子もうかがえます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "足や生産性向上に対応するための省力化投資が進められ、4 年連続の増加となりました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "度実績では、 「更新、維持・補修」 （35.2％）が",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「能力拡充」 （30.3％） は、 2024 年度 （25.1％）から",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "となり、能力増強に向けた動きがみられます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、 「省力化・合理化」 （14.7％）が「新製",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "品の生産 、新規事業への進出 、研究開発」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "禍から回復するなかで人手不足が顕在化してお",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いて「更新、 維持 ・ 補修」 （32.7％）が低下し、 「能",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "更新、維持・補修",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新製品の生産、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．目的別動向 2025年度実績、2026年度当初計画ともに、「更新、維持・補修」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "６． 投資目的をみると、 2025 年度実績では「更新、維持・補修」の構成比が 17 年連続で",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、「能力拡充」の構成比は前年度実績の構成比と比べて 3年ぶりに上昇した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画では、「更新、維持・補修」の構成比が引き続き最も高いものの、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新製品の生産、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "更新、維持・補修",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(37.8) 能力拡充",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その他 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止 省エネ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "省エネ その他 能力拡充 省力化・ 合理化 新製品 新規事業 研究開発 更新 維持・補修 公害防止",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業におけるデジタル化の実態「中小企業のデジタル化に関する調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の設備投資は更新投資中心に増加の見通し「中小製造業設備投資動向調査（第109回）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "土地を含み、ソフトウェア・研究開発を除く",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査では、半導体やデータセンターに関わる部材を供給する企業の投資が伸びており、AI需要の「川上」にあたる製品の能力増強が背景にあるとみられます",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度の自動車は、大型案件が一巡するものの、電動化関連を中心とした能力増強や生産設備の更新で13.2％増の計画です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "東海の投資を支えているのは、電動化関連の生産基盤整備や設備更新、新製品に対応した生産ラインの整備です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新工場だけでなく、既存ラインの更新や作り替えにも投資が向かっている",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業は「更新中心」から少しずつ前向きに",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資の目的は「更新」が最多、ただし能力拡充も上昇",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の投資目的で最も多いのは、古くなった設備の「更新、維持・補修」です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、2026年度当初計画では「能力拡充」や「省力化・合理化」、「新製品の生産・新規事業・研究開発」の割合が上がりました",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人手不足への対応として、",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "などを使った自動化投資を検討する企業も増えています",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資する企業の割合は下がり、中身は更新が中心です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「更新、維持・補修」の構成比",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電動化関連の生産基盤整備、設備更新、新製品対応のライン整備",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3つ目は人手不足です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業は1.7％増と小幅で、更新・維持補修が中心",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械への投資意欲は高い一方、建屋投資や金額・時期は慎重で、コスト高・調達・人手不足が下振れ要因",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の研究開発費ランキング｜売上高比率でみる日本企業の上位",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "第134回 中小製造業設備投資 動向調査結果 - 日本政策金融公庫 — 第134回 中小製造業設備投資 動向調査結果 - 日本政策金融公庫 日本政策金融公庫 PDF https://www.jfc.go.jp > findings > pdf > news2026_6b",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第134回 中小製造業設備投資 動向 調査結果 - 日本政策金融公庫 — 第134回 中小製造業設備投資 動向 調査結果 - 日本政策金融公庫 日本政策金融公庫 PDF https://www.jfc.go.jp > findings > pdf > news2026_6b",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "総務省事業所母集団データベース（令和 5年次フレーム）をもとに把握した全国の従業員 20人以上300人未満の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫 総合研究所 中小企業研究第一グループ Tel：03-3270-1763（担当：真瀬、葛貫）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 業種別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－２ 業種別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 横軸は、2024年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "従業員規模別では、 20～49 人を除くすべての規模で上昇した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策金融公庫 総合研究所 中小企業研究グループ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "次に、 実績と当初計画を業種別にみていきます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "減少率が高い 「はん用機械」 （-36.4％） や 「パルプ ・ 紙」 （-27.5％） 、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーンの混乱から減産の懸念がある「輸送用機器」 （-20.6％）など、中東情勢の影響を受",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－2 業種別増減率および構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）２ 横軸は、2025年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）２ 横軸は、2024年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "把握した全国の従業員 20人以上 300人未満の中小製造業 55,356社",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業研究第一グループ（担当：真瀬、葛貫）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「はん用機械」「パルプ・紙」「業務用機械」などが減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「はん用機械」「パルプ・紙」「業務用機械」などが減少している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４． 企業規模別にみる と、2025 年度実績では従業員数 20 人～ 49 人、 200 人～ 299 人の規模で、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料：日本政策金融公庫総合研究所「全国中小企業動向調査（中小企業編）」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表－３ 業種別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 横軸は、 2024年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 横軸は、 2025年度実績 における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "-6.7 生産用 機械",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表－４ 規模別設備投資動向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）業種別の設備投資額の目的別構成比－ 2025年度実績",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）業種別の設備投資額の目的別構成比－2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、持ち直しの動きがみられる「全国中小企業動向調査（中小企業編）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、一部に弱さがあるものの、持ち直しの動きがみられる「全国中小企業動向調査（中小企業編）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、改善が続く見通し～「2026年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、一部に弱さがあるものの、持ち直しの動きがみられる 「全国中小企業動向調査（中小企業編）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、持ち直しの動きがみられる 「全国中小企業動向調査（中小企業編）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、再び上向く見通し ～「2025年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業におけるデジタル化の実態「中小企業のデジタル化に関する調査」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、持ち直しの動きに足踏みがみられる「全国中小企業動向調査（中小企業編）」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、改善する見通し ～「2024年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、持ち直しの動きがみられる「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、一部に弱さがあるものの、持ち直しの動きがみられる「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、原材料高の影響により悪化見込み ～「2023年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、新型コロナウイルス感染症の影響により厳しい状況にあるものの、持ち直しの動きがみられる「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は改善する見通し～「2022年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、新型コロナウイルス感染症の影響により依然として厳しい状況にある「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、改善する見通し ～「2021年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、新型コロナウイルス感染症の影響により急速に悪化し、極めて厳しい状況にある「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、新型コロナウイルス感染症の影響により大幅に下押しされ、厳しい状況になってきている「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、足元で弱さがみられる「全国中小企業動向調査・中小企業編」結果概要",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の景況は、緩やかに改善する見通し ～「2020年の中小企業の景況見通し」調査結果より～",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び | MONOSCOPE",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月1日に公表された日銀短観（日本銀行が企業に景気や計画を聞く調査）で、大企業製造業の2026年度の設備投資計画は前年度比11.6％増でした",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業製造業の2026年度計画は二桁前後の増加：DBJ 13.2％増、法人企業景気予測調査（製造業全体）12.7％増、日銀短観は",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "伸びを引っぱるのは電気機械・情報通信機械・化学・非鉄金属など、AI・半導体関連の業種",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本政策投資銀行（DBJ）が2026年8月4日に公表した「2026年度設備投資計画調査」では、資本金10億円以上の大企業の国内設備投資は前年度比19.7％増の計画です",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日銀短観では、大企業製造業の2026年度計画が6月調査で10.1％増、10月1日公表の9月調査では11.6％増に上方修正されました",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業ほど伸び率が高く、中小製造業は小幅増にとどまります",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業10.1％増",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資本金10億円以上の大企業（回答1,598社）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大企業・中堅・中小（資本金2,000万円以上）",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "2026年4月上旬",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績・2026年度当初計画（4月調査）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 国内設備投資額の2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度当初計画比では、6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 国内設備投資額の2025年度実績・2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金 額 増減率 金 額 増減率 金 額 増減率 金 額 2026当初計画2025当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 増減率は、特段の断りがない限り、前年度同期実績に対するものであり、小数第 2位を四捨五入して表示している（以下同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－１ 設備投資額および増減率（前年度実績比）の推移 （参考）各年度中における設備投資増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 母集団は、2021年度実績までは工業統計調査、 2022年度実績以降は事業所母集団データベースに",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度実績は、2024年度実績に比べて3.5％減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2026年度当初計画は、2025年度実績に比べて1.7％増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、前年同時期に策定された2025年度当初計画比では、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度実績 2025年度実績 2026年度当初計画 （参考）2025年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "26年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（4月時点） （9月時点） （年度末）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年7月17日",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "〔2025年度実績、2026年度当初計画〕",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額の実績は減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度の国内設備投資額は 2 兆 8,234 億円と、 2024 年度実績に比べて 3.5％減少しました （図－1）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画の設備投資額は 2 兆 8,727 億円となり、 2025 年度実績に比べて 1.7％増加しました",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当初計画が前年度実績を上回るのは 4 年ぶりです",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－1 国内設備投資額および増減率の推移",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（09年度実績）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（10年度実績）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績 2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 母集団は、2021 年度実績までは工業統計調査、2022 年度実績以降は事業所母集団データベースに基づいている（以下同じ）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は中東情勢の影響を大きく受ける業種も",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度実績では、 全 17 業種中 13 業種で 2024 年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「業務用機械」 （-19.3％）は、大幅に増加した前年度からの反動とみられます",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画は、10 業種で 2025 年度実績に比べて増加しています",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ グラフの中の数字は、2025年度実績比増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）２ 横軸は、2025年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ グラフ中の数字は、2024年度実績比増減率",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）２ 横軸は、2024年度実績における業種別構成比",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）2026 年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月27日（2027年6月下旬）",
+    "url": "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年 6 月 25 日",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績・2026年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年4月上旬",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績 2024年度実績比 3.5％減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度実績比 1.7％増加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年度当初計画比 6.8％増加）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．業種別動向 2025年度実績では、2024年度実績と比べて17業種中13業種で減少",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年度当初計画では、2025年度実績と比べて17業種中10業種で",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４．目的別動向 2025年度実績、2026年度当初計画ともに、「更新、維持・補修」",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年度実績35.2％、2026年度当初計画32.7％）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１． 2025 年度の国内設備投資額の実績は、 2024 年度実績比 3.5％減少 となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２． 2026 年度の国内設備投資額の当初計画は、 2025 年度実績比 1.7％増加 となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、 2026 年度当初計画を 2025 年度当初計画と比べると、 6.8％増加となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３． 業種別にみると、 2025 年度実績では、 17 業種中 13 業種で減少となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画では、 17 業種中 10 業種で増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４． 企業規模別にみる と、2025 年度実績では従業員数 20 人～ 49 人、 200 人～ 299 人の規模で、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度実績比増加となった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026 年度当初計画では 100 人～ 199 人を除くすべての規模で、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実施割合・計画割合": [
+   {
+    "quote": "図－４ 海外拠点の有無 図－５ 海外拠点への設備投資実施割合（従業員規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 2025年度に海外拠点へ設備投資を実施した企業割合をみると、全規模は 26.5％ と、 2024年度実績（ 23.5％ ）から上昇した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 「海外拠点があり設備投資を実施」と回答した企業の海外での設備投資の延べ件数を国・地域別に 集計、延べ投資件数全体に対する割合を求めたもの",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「海外拠点あり」と回答した企業のうち、海外拠点への設備投資実施割合をみると、2025 年度",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－4 \u0007 海外拠点への設備投資実施割合\u0007",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図－5 国・地域別にみた設備投資実施割合",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）１ 「海外拠点があり設備投資を実施」と回答した企業の海外で",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/topics_no194_2607_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄 鋼 7.2 34.2% 24.0% 27.0% 14.8%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非 鉄 金 属 0.0 29.1% 23.4% 29.1% 18.4%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金 属 製 品 8.7 34.1% 23.4% 25.4% 17.0%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は ん 用 機 械 8.1 32.2% 26.4% 24.1% 17.2%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生 産 用 機 械 6.8 35.1% 18.2% 28.3% 18.5%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業 務 用 機 械 7.0 30.7% 16.3% 23.7% 29.3%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "電 気 機 器 10.8 29.1% 22.2% 18.3% 30.5%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸 送 用 機 器 10.9 34.4% 20.8% 23.5% 21.3%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "化 学 7.5 33.3% 24.2% 25.8% 16.7%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "パ ル プ ・ 紙 1.6 27.7% 20.4% 26.1% 25.8%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "窯 業 ・ 土 石 8.3 31.5% 28.2% 23.2% 17.1%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "繊 維 ・ 繊 維 製 品 1.8 22.4% 23.8% 20.6% 33.2%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "木 材 ・ 木 製 品 9.3 34.9% 18.9% 25.6% 20.6%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食 料 品 8.7 33.3% 24.2% 24.6% 17.9%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "印 刷 ・ 同 関 連 ▲ 1.2 29.9% 18.9% 31.1% 20.1%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プ ラ ス チ ッ ク 製 品 8.4 35.8% 21.1% 27.4% 15.7%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そ の 他 ▲ 2.3 23.4% 21.6% 25.7% 29.3%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "合 計 7.1 31.8% 22.2% 24.7% 21.3%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "鉄 鋼 20.9% 6.0% 23.9% 80.6% 22.4% 13.4% 3.0% 0.0% 4.5%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非 鉄 金 属 32.6% 6.5% 34.8% 69.6% 15.2% 28.3% 2.2% 0.0% 4.3%",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2026_6b.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業に対する円高の影響調査結果 「取引先の業績悪化」「値引き要請」などで17%の中小企業が減益",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小製造業の2009年度設備投資修正計画は前年度実績比▲37.1%",
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び | MONOSCOPE",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "製造業の設備投資2026年度計画｜9月短観で大企業11.6%増に上方修正、4調査で見る業種別の伸び",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食品業界の設備投資2026｜42.7%増の後も続く新工場ラッシュの狙い",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DBJ調査で大企業は2025年度42.7%増・2026年度計画3.5%増、日本公庫の設備投資DI、明治・森永乳業・雪印メグミルクの北海道新工場など主要5計画、工場を建てる4つの理由と今後の注意点を解説します",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8月の機械受注は5.2%増｜電子計算機等が前年比7割増、設備投資の先行指標を読む",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイヘンが経常20%上方修正｜半導体電源と蓄電池が伸びた理由",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "任天堂中間決算2026｜減収でも営業益49%増の理由とSwitch 2の現在地",
+    "url": "https://monoscope-media.com/capex-plan-2026-manufacturing-survey/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "日本政策金融公庫【公式】 on X: \"「第134回中小製造業設備投資動向調... Jun 25, 2026 · 「第134回中小製造業設備投資動向調査結果（2025年度実績・2026年度当初計画）」を公表しました。 くわしくはこちらをご覧ください。 ⇒ jfc.go.jp/n/findings/pdf…",
+    "url": "https://x.com/JFC_information/status/2070010921364455748",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T03:13:14.661380+00:00"
+}

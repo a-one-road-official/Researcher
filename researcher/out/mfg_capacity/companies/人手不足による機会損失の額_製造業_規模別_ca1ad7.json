@@ -1,0 +1,2599 @@
+{
+ "name": "人手不足による機会損失の額（製造業・規模別）",
+ "en": "opportunity loss from labor shortage manufacturing Japan amount",
+ "aliases": [
+  "人手不足 機会損失 金額 製造業",
+  "人手不足 売上 減少 調査",
+  "人手不足 損失額 試算"
+ ],
+ "context": "損の額・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:00:48.853822+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：受注辞退・失注による機会損失（表面化しにくいが最も大きい）",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "最も優秀な人材に欠員のしわ寄せを集中させるのは、短期的には合理的に見えて、中期的には最悪の一手です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "賃金が下がったのに責任が同じでは、モチベーション低下と再離職を招きます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の離職には明確なパターンがあり、対策も定石化できます",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "各種調査と私の現場実感を重ねると、若手の早期離職理由の中核は次の",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "若手の離職は「仕事がきついから」より「成長が見えないから」",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "離職データを分析すると、製造現場の早期離職は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "関連記事：離職要因の分析手法と定着施策の詳細は【内部リンク：子",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業の離職率改善・定着率向上」】、スキルマップを起点とした育成は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "欠員時のバックアップ、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "し、生まれた時間を若手教育に再配分することで、早期離職が止まりました",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "年の離職者について、離職理由を把握・分析している",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による年16兆円の機会損失を考える｜藤本正雄（ふじもと まさお）",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による年16兆円の機会損失を考える",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足によって年16兆円の機会損失が発生している",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞が日本総合研究所と人手不足で生じた機会損失を試算したところ、その規模は年16兆円に達した",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の結果、押し下げられた実際の付加価値額と、賃上げで人手不足を補うことで生み出される想定付加価値額との差を機会損失と定義した",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の機会損失は16兆円",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "縮小均衡に陥った企業には「人手不足倒産」のリスクがはらむ",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチによると、24年度に求人難や従業員の退職、人件費高騰などを原因とする倒産は前年度比6割増の309件で過去最多となった",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "日経と東京商工リサーチは過去の人手不足倒産企業の売上高や平均従業員数の減少率、純利益率の低下ポイントの3指標を調査",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "その中央値や平均値を上回る企業を「人手不足倒産予備軍」と定義したところ、24年度は調査対象の約54万社のうち2.5%が予備軍で、5年で0.3ポイント上昇した",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "すなわち、好況期には供給能力が上限となって、需要を吸収しきれずに機会損失が生じるものの、",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "労働供給制約による機会損失が生じているのは観光や流通だけではありません",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "社会全体ではどれほどの機会を逃しているのでしょうか？ 日本経済新聞と日本総合研究所調査部の西岡慎一主席研究員は人手不足が招いた機会損失額の計算を試みました",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "算出された雇用の不足率を各年の付加価値額に置き換えると、人手不足による機会損失額がはじき出せます",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "欠員を管理者や熟練者の兼務で補うと、改善活動や教育に時間を割けず、残業や属人化が増える悪循環になりがちです",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "人に依存する工程を減らすほど、欠員の影響を抑えられます",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "第２節では、特に2010年代以降の人手不足局面に着目し、欠員率が全産業的に高まっていることや、労働力需給ギャップが産業・職業をまたいで拡大していること等、足下での人手不足の状況をまとめる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "完全失業者は、「非自発的な離職」「自発的な離職（自己都合）」「新たに求職",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「非自発的な離職」は、景気後退等による企業活動の停滞に伴う解雇なども含まれるため、完全失業率が横ばいであっても、「非自発的な離職」が完全失業者に占める割合が上昇している状況は、生産活動にあたって必要な労働力を充足できていないとは評価しがたい",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（３）により、1984年以降の完全失業者に占める非自発的な離職割合をみても、完全失業率と同じく1980年代後半～1990年代前半及び2010年代後半において低下している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代後半の非自発的な離職割合は低下しているものの高水準にとどまっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同期間は1990年代後半以降続いた雇用環境の悪化の直後であり、2008年にリーマンショックが起こると、有効求人倍率や完全失業率、非自発的な離職割合等の雇用指標は軒並み悪化しており、2000年代後半の雇用情勢の改善は短期間だったことがうかがえる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "完全失業率は、2019年は2.4％、2023年でも2.6％と、バブル期最低の2.1％に近い水準まで低下しており、失業者に占める非自発的な離職の割合も、2019年にはバブル期並みの22.8％まで低下した",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2010年代以降、欠員率は長期間上昇するが、水準はバブル期に及ばない",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "により、企業の人員の充足について、欠員率",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、欠員率の上昇幅でみても、４年間で４％ポイントほど上昇した1987～1991年に対し、2009～2019年では10年間で２％ポイント程度の上昇であり、過去の局面よりも緩やかな伸びとなっている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "では、1990年と2023年の企業規模別欠員率を示しているが、全ての企業規模において、フルタイム・パートタイム労働者ともに1990年の水準を下回っており、フルタイム労働者では、小さい規模の企業において1990年の水準を大きく下回っている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業を中心に人手不足感のある企業は多いものの、欠員率をみると、現在よりもバブル期の方が厳しい人手不足の状況にあったことが分かる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率や失業率、雇用人員判断D.I.が示す人手不足感ほど、中小企業における欠員率が高まっていない背景には何があるだろうか",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち一つには、企業による定着支援策などにより、短期離職者",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "が減少し、欠員が生じにくくなった可能性があげられる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "から、入職者に対する入職から１年未満の短期離職者の比率",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "、短期離職者数は、入職者数に比べてより少なくなっていることがうかがえる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "は低下しており、短期離職者が減ったことによる、新たな欠員のリスクは減退したが、現に生じている欠員が埋まる見通しは低下しているものと考えられる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務量の拡大や離職者の増加等が人手不足の要因となっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、賃金水準、離職率、売上高の増加が、企業が人手不足を感じることにどの程度影響しているかを検証した",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "この推計の結果によると、売上高上昇率が高い企業や離職率が高い企業ほど人手不足と回答する確率が高い一方、1人当たりの賃金が高いほど人手不足と回答する企業が少ないという結果となっている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "元データを単純集計して、実際に、企業を人手不足感ごとに分類して一人当たりの賃金水準や離職率をみると、人手不足の企業ほど低い労働生産性を背景に賃金水準が低く、離職率が高くなっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "賃金水準が低いことで求職者からみた魅力が小さく求人への応募が少ないことや、労働環境の悪さなどによって離職率も高いことにより、人手不足感が高くなっていると考えられる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の解消に向けて、生産性向上による賃金水準の引上げや離職率を低下させるような取組を進めていくことが重要である",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "（16）被説明変数を人手不足感（「不足＝1」～、「過剰＝5」）、説明変数を業種、企業規模、正社員の平均勤続年数、非正社員比率、2017年度の一人あたり賃金、離職率、売上高上昇率（2013年度から17年度の伸び率）とした多項ロジットモデルを推計し、人手不足感が「不足＝1」と答えた選択肢に対する限界効果を推計した",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "放置するとどうなるか｜廃業・倒産・技能継承の断絶",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "万人をピークに減少を続け、「",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "で推移しており、全職業平均（直近は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：少子高齢化による労働力人口の絶対的な減少",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "年をピークに減少を続け、国立社会保障・人口問題研究所の推計では",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.ipss.go.jp/pp-zenkoku/j/zenkoku2023/pp_zenkoku2023.asp",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：残業代・外注費の増加、経験不足による不良・手直しの増加",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "万人減少しており、他産業が女性活躍を進める中で製造業だけが取り残されています",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "歳以上の就業者は増加傾向にあり、経験と技能を持つシニアの再雇用は即戦力確保の現実解です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "既に製造業の外国人労働者は大幅に増加していますが、成否を分けるのは受け入れ体制です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の外国人労働者は増加を続けており、受け入れの制度・支援機関も整ってきています",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に新卒入社後、3年という速さで現職のリーダーに就任",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月12日 05:29",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の機会損失は16兆円",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "日経と東京商工リサーチは過去の人手不足倒産企業の売上高や平均従業員数の減少率、純利益率の低下ポイントの3指標を調査",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策投資銀行によると、19年度以降に主要企業の投資計画と実績の乖離（かいり）は10%前後で推移",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "不況期に需要が減少しても、もともと制約されていた供給が余剰化しにくい",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月10日",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "3つの水準について、1980年から2025年までの四半期ごとに、チャートへ落とし込むとこのようになります",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年第1四半期の",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年はコロナ禍で経済活動が停滞し、雇用の不足率がマイナスだった（＝充足していた）ため損失はなかったと試算",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に4兆5000億円だった損失は24年に16兆1000億円に達したとみられます",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業は国内経済を支える一方で、就業者の減少や原材料・エネルギー価格の負担に対応しながら、収益を確保しなければなりません",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業は国内総生産の約2割を占める基幹産業で、2024年の構成比は19.0％とドイツと同程度です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの名目労働生産性は、2025年時点で全産業の約1.2倍です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の就業者数は、2024年の1,046万人から2025年の1,033万人へ減少し、全就業者の15％程度で推移しています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "34歳以下は2025年に258万人、65歳以上は85万人で製造業の8.2％です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業の従業員数過不足DIは、2025年にマイナス17.9と不足超が続いています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "労働力不足は回答割合が上昇し、2025年は2位です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "電気料金は2022年度に上昇し、2023年度は前年度より低い水準になりましたが、燃料の大半を輸入に頼るため再び上がるリスクは残ります",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "資源エネルギー庁「エネルギー動向（2025年版）」第1章第4節",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の設備投資額は、2012年7-9月期以降、減価償却費を上回って推移しています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「2025年版ものづくり白書」第1章第3節",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「2025年版中小企業白書」第2部第2章第3節",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省・厚生労働省・文部科学省「2025年版ものづくり白書」第2章第3節",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業庁「2025年版中小企業白書」概要",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年は輸入物価上昇の影響で落ち込み、2023年度に回復したと整理されています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "資源エネルギー庁「日本のエネルギー 2025年度版」経済性",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「通商白書2025」第II部第3章第2節 財貿易",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が 2017 年 12 月に実施したアンケート調査にお",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年調査（2016 年",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "19.2％から 5.8％に大幅に減少した一方、 「大きな課題となっ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら 32.1％に大幅に増加しており、人材確保の状況が大きな課",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：経済産業省調べ（2017 年 12 月）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017調査",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016調査",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "や待遇の強化などの項目も大きく増加しており、人事制度の見",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "幅に減少し、 「IT・IoT・ビッグデータ・AI 等の活用などによ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ン人材の継続確保」が減少し、 「自動機やロボットによる自動",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化・省人化」の増加が顕著となっており、現在シニアやベテラ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が、経済産業省が 2016 年 12 月に実施したアンケートにお",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015 年から社長自らプロジェクトオーナーとなりスマート工場化を進め、これまでに駿河精機版管理シェルの構築、AI",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このような “熟練知” のデジタルアセット化とその活用は、受注案件増加",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "などの活用などによる生産工程の合理化」の増加が顕著である",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：経済産業省 2016 年度「攻めの IT 経営中小企業百選」事例",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、AI の活用を検討・推進する企業も増加してきてい",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "バンガロールに現地企業との合弁会社を設立し、 2017 年 10 月から工場を稼働させている",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、過去の人手不足局面を振り返りながら、2010年代以降続く我が国における人手不足の現状とその背景について分析する",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１節では、1970年代前半、1980年代後半～1990年代前半、2010年代以降の３期間における人手不足局面に着目し、これらの時期における人手不足の背景やその違い等について整理する",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第２節では、特に2010年代以降の人手不足局面に着目し、欠員率が全産業的に高まっていることや、労働力需給ギャップが産業・職業をまたいで拡大していること等、足下での人手不足の状況をまとめる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、2010年代以降に人手不足が生じる中で、企業規模間の労働移動が活発化していること、労働市場のマッチング効率性が低下している可能性があることを確認し、この背景として、求職者の希望する条件が変化している可能性を指摘している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "しかし同時に、正しい順序で手を打てば、人手不足のなかでも利益を伸ばしている会社が実在するのも事実です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業の人手不足」と一括りにせず、自社のどの職種・どの工程が構造的に採れないのかを特定する",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンクの調査では、人手不足を主因とする倒産は",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "出典：帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "しかし人がいないために生産ラインが維持できず、納期対応を断り、取引先が離れていく",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "）、帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：生産能力が落ち、納期対応を断り、取引先が相見積もりに呼ばなくなる",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "段階目あたりから「打ち手を実行する人的余力」自体が消滅すること",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "体力が残っているうちに着手するか、余力ゼロで座して待つか",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：受注辞退・失注による機会損失（表面化しにくいが最も大きい）",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "：残業代・外注費の増加、経験不足による不良・手直しの増加",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "そして最終形が、前述の「黒字廃業・人手不足倒産」です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "一時的な繁忙対応としては有効ですが、恒常的な欠員を派遣・外注で埋め続けると、外注費が利益を圧迫し、賃上げ・投資の原資がさらに枯渇します",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "「人手不足＝ロボット導入」と短絡するのは危険です",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "（人手不足対応の省人化設備が対象）、",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "物流・建設・小売も人手不足で賃金を引き上げており、賃金競争から降りることはもはやできないのです",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "賃上げの余力がない場合、どうすればよいですか？",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "帝国データバンク「人手不足倒産の動向調査（",
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による年16兆円の機会損失を考える｜藤本正雄（ふじもと まさお）",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による年16兆円の機会損失を考える",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "11月9日の日経新聞で、「人手不足が奪った年16兆円の商機 需要刺激だけで成長できない現実 労働臨界」というタイトルの記事が掲載されました",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足によって年16兆円の機会損失が発生している",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞が日本総合研究所と人手不足で生じた機会損失を試算したところ、その規模は年16兆円に達した",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の結果、押し下げられた実際の付加価値額と、賃上げで人手不足を補うことで生み出される想定付加価値額との差を機会損失と定義した",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の機会損失は16兆円",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "西岡氏は「人手不足の下では積極財政の効果も損なわれる」と話す",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "日光市の鬼怒川パークホテルズの小野真社長は人手不足の苦しさを打ち明ける",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "縮小均衡に陥った企業には「人手不足倒産」のリスクがはらむ",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "日経と東京商工リサーチは過去の人手不足倒産企業の売上高や平均従業員数の減少率、純利益率の低下ポイントの3指標を調査",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "その中央値や平均値を上回る企業を「人手不足倒産予備軍」と定義したところ、24年度は調査対象の約54万社のうち2.5%が予備軍で、5年で0.3ポイント上昇した",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足などの影響で実行できない設備投資も積み上がっている",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足の産業は元々、生産性向上に寄与するソフトウエア投資の水準が低い",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足を中心とした供給制約が構造的に強まっている",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "すなわち、好況期には供給能力が上限となって、需要を吸収しきれずに機会損失が生じるものの、",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "特に介護・宿泊・物流など慢性的な人手不足業種では、働ける層の就業意欲を最大化する制度の整備が、今後ますます必要になりそうです",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が奪う成長機会16兆円どう計算？：日本経済新聞",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が奪う成長機会16兆円どう計算？",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足でどれほどのビジネスチャンスを失っているのかをみてみましょう",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "コープデリ生活協同組合連合会は人手不足で8月に5日間宅配業務を一斉休業しました",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "労働供給制約による機会損失が生じているのは観光や流通だけではありません",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "ほかにも飲食や建設など多くの業界で人手不足による成長ロスが広がっています",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "社会全体ではどれほどの機会を逃しているのでしょうか？ 日本経済新聞と日本総合研究所調査部の西岡慎一主席研究員は人手不足が招いた機会損失額の計算を試みました",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "算出された雇用の不足率を各年の付加価値額に置き換えると、人手不足による機会損失額がはじき出せます",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "このままでは人手不足を起因とした損失は拡大の一途をたどります",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "9日に始まったシリーズ「労働臨界」ではデータ分析や現場取材を通じ、人手不足や人工知能（AI）で変わる労働の実態を追跡します",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業が直面する課題と人手不足に向き合う生産性向上の進め方を解説 - バリ取り機・シートメタル洗浄機・ワークロボットの導入なら-オーセンテック株式会社",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業が直面する課題と人手不足に向き合う生産性向上の進め方を解説",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足で生産計画どおりに製造できない、熟練者の退職で品質が保てるか不安、と感じる場面は少なくありません",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "課題を放置すると、納期遅延や利益率の低下につながるかもしれません",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、海外市場では価格だけでなく短納期対応や環境配慮、安定供給まで求められ、技術力や品質だけで受注を維持することは難しくなりました",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "営業や生産、購買が同じ在庫情報を確認できれば、供給遅延時の納期調整も早められます",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "停止時間や不良数、納期遅延など、改善したい課題に関係する項目を決め、現場と管理部門が同じ数字を確認できるようにします",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "価格転嫁力が大企業より弱く投資余力が削られやすい",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "利益率が下がると運転資金や最低限の維持補修が優先され、自動化やDXなど将来の生産性を高める投資の余力が削られるでしょう",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や費用上昇への対応は、設備を導入するだけでは十分ではありません",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者や現場責任者、作業者で同じ指標を確認し、納期・品質・費用のどれを優先するか決めましょう",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業には、人手不足や設備投資の偏りといった課題がある一方で、海外企業との競争に生かせる強みもあります",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "得意分野を把握し、品質や納期、技術提案で選ばれる体制を作ることが、価格競争から抜け出すことにつながります",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "機械で代替できる手作業から段階的に自動化していくと、人手不足の現場でも品質をそろえながら生産性を上げられます",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "オーセンテック株式会社では、「お客様の声を「アイデア」に お客様の笑顔を「力」に「ものづくり」に貢献する会社でありたい」という企業理念のもと、製造現場の生産性向上・人手不足・品質の安定化・環境改善を実現させるため、手作業をなくすための機械（バリ取り機や板金洗浄機など）を開発・販売・メンテナンスしております",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "人手不足による年16兆円の機会損失を考える｜藤本正雄（ふじもと まさお）",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による年16兆円の機会損失を考える",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "11月9日の日経新聞で、「人手不足が奪った年16兆円の商機 需要刺激だけで成長できない現実 労働臨界」というタイトルの記事が掲載されました",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足によって年16兆円の機会損失が発生している",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞が日本総合研究所と人手不足で生じた機会損失を試算したところ、その規模は年16兆円に達した",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "10月6日夜、国慶節の祝日で多くの中国人旅行客が来日し、稼ぎ時のはずの栃木県日光市の大型旅館を訪れると、フロアの明かりはまばらだった",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数は新型コロナウイルス禍前より4割少ない60人程度",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "東京商工リサーチによると、24年度に求人難や従業員の退職、人件費高騰などを原因とする倒産は前年度比6割増の309件で過去最多となった",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "日経と東京商工リサーチは過去の人手不足倒産企業の売上高や平均従業員数の減少率、純利益率の低下ポイントの3指標を調査",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "その中央値や平均値を上回る企業を「人手不足倒産予備軍」と定義したところ、24年度は調査対象の約54万社のうち2.5%が予備軍で、5年で0.3ポイント上昇した",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "働き方改革で1人当たり労働時間が縮小する中、規制緩和で一定程度は労働供給を増やすことができる",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "24年度の法人企業統計調査で従業員1人当たりのソフト資産をみると、飲食・宿泊（2万円）や医療・福祉（5万円）は全産業平均（45万円）を大幅に下回る",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が奪う成長機会16兆円どう計算？：日本経済新聞",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足が奪う成長機会16兆円どう計算？",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ新型コロナウイルス禍で働き手が減り、従業員数はコロナ前より4割少ない60人程度になってしまいました",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "いくら募集をかけても人は集まらず、約130室ある客室の稼働率は50％が限界です",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "コープデリ生活協同組合連合会は人手不足で8月に5日間宅配業務を一斉休業しました",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "1月には職種で分かれる賃金・人事制度を共通化し、部門間異動に必要な試験もなくしました",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "9日に始まったシリーズ「労働臨界」ではデータ分析や現場取材を通じ、人手不足や人工知能（AI）で変わる労働の実態を追跡します",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の立ち位置と人材の状況、近年の公的資料に見られる動きを3つに分けて確認しましょう",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの名目労働生産性は、2025年時点で全産業の約1.2倍です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の就業者数は、2024年の1,046万人から2025年の1,033万人へ減少し、全就業者の15％程度で推移しています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "34歳以下は2025年に258万人、65歳以上は85万人で製造業の8.2％です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造業の従業員数過不足DIは、2025年にマイナス17.9と不足超が続いています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の課題は、人材・費用・設備・調達・情報管理が互いに影響し合うため、1つだけを改善しても成果が続かない場合があります",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の調査では、製造業で人材育成に問題があるとする事業所のうち62.8％が「指導する人材が不足している」と答えています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "製造工程での活用は、従業員301人以上では6割を超えるのに対し、50人以下では3割程度です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では中小企業の価格転嫁力が大企業より低く、1人あたり名目付加価値額の上昇率を押し下げる要因になっています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "年 12 月に実施したアンケートによると、94％の企業が人材",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 ２ 節 人手不足が進む中での生産性向上の実現に向け、 「現場力」 を再構築する 「経営力」 の重要性",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "94%の企業が人材確",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 人手不足、デジタル革新が進む中での「現場力」を再構築する「経営力」の重要性",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１） 人材確保の状況と人材確保対策",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら 32.1％に大幅に増加しており、人材確保の状況が大きな課",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第Ⅱ部 第１章 人手不足の背景｜令和６年版 労働経済の分析｜厚生労働省",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年版 労働経済の分析 －人手不足への対応－（HTML版）",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１章 人手不足の背景",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "本章では、過去の人手不足局面を振り返りながら、2010年代以降続く我が国における人手不足の現状とその背景について分析する",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１節では、1970年代前半、1980年代後半～1990年代前半、2010年代以降の３期間における人手不足局面に着目し、これらの時期における人手不足の背景やその違い等について整理する",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第２節では、特に2010年代以降の人手不足局面に着目し、欠員率が全産業的に高まっていることや、労働力需給ギャップが産業・職業をまたいで拡大していること等、足下での人手不足の状況をまとめる",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、2010年代以降に人手不足が生じる中で、企業規模間の労働移動が活発化していること、労働市場のマッチング効率性が低下している可能性があることを確認し、この背景として、求職者の希望する条件が変化している可能性を指摘している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１節 これまでの人手不足局面とその背景",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去半世紀でみると、1970年代前半、1980年代後半～1990年代前半、2010年代以降の３期間で人手不足が生じている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "１を上回れば、企業が提出した「求人数」の総数が、登録された「求職者数」の総数を超えており、求職者一人に対して一つ以上の仕事の募集がある状態を示している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人倍率」は、求人の総数が求職の総数を上回っている（有効求人倍率が１を超えている）状況が人手不足の状態を表すが、ハローワークを経由したものに限られること等から、「完全失業率」も併せて確認する必要がある",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 第3節 人手不足と生産性、賃金、物価の動向 - 内閣府",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3節 人手不足と生産性、賃金、物価の動向",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "1 人手不足の現状と要因",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "本項では、人手不足感の長期的な推移や近年の雇用情勢について確認するとともに、2019年2月に実施した内閣府「多様化する働き手に関する企業の意識調査",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "また，日銀短観の雇用人員判断DIをみると、2019年6月調査時点でマイナス32％ptと「不足」と回答する企業の割合が「過剰」と回答する企業の割合を大幅に上回り、企業の人手不足感は、1990年代前半以来四半世紀ぶりの水準となっている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は45年ぶりの高水準",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける求職者数に対してどの程度求人があるかを示す指標である有効求人倍率の動向をみると、2013年以降上昇傾向が続き、2019年には1.6倍台と高い水準となっている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、2018年後半から有効求人倍率の上昇傾向がやや一服している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "この背景として、2018年に入ってから、新規求人数が横ばい圏内で推移していることがあげられる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "第 1節 中小企業において深刻化する人手不足",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-1 図 業種別従業員数過不足 DI の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 本章におけるシニアとは、60 歳以上の人材を指す",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "する従業員数が 21 名以上の中小企業であることに留意が必要である",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 1 章では、昨今強まっている人手不足の実態について現状を把握する",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）ここでいう中小企業とは、 （株）日本政策金融公庫取引先のうち、原則として従業員20 人以上の企業",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "日経と東京商工リサーチは過去の人手不足倒産企業の売上高や平均従業員数の減少率、純利益率の低下ポイントの3指標を調査",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "24年度の法人企業統計調査で従業員1人当たりのソフト資産をみると、飲食・宿泊（2万円）や医療・福祉（5万円）は全産業平均（45万円）を大幅に下回る",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に4兆5000億円だった損失は24年に16兆1000億円に達したとみられます",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "改革に着手した 2010 年当時、同社の特注品の売上高は 2,000 万円で、それでも仕事がこなしきれない状況だった",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かし、現在は同数の社員で特注品の売上高は 9,000 万円に達している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "利益率は 11％を超え、６期連続で最高売上高を更新中である",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ルムパッケージと DPE などの写真関連の印刷であり、それらは最盛期には売上高の３割を占めていた",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業を対象に、自分で組み立てて動かす 10 万円 IoT キットの提案を行った",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ロッパ製で１台数千万円もする大型の検査装置はあるが、コストもスペースもかかる上に取りこぼしがあり、装置を入れて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "限を、現行の 100 万円から１億円に引き上げる予定としてい",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省（2023）で示したとおり、ＧＤＰから計算した一人当たり労働生産性は1996年から長期的にほぼ横ばいであるが、中間投入も含めた生産額の総額から計算すると、就業者一人当たりの生産額は1990～2015年にかけて15％ほど増加している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "この推計の結果によると、売上高上昇率が高い企業や離職率が高い企業ほど人手不足と回答する確率が高い一方、1人当たりの賃金が高いほど人手不足と回答する企業が少ないという結果となっている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017年度は交易条件要因による押上げの縮小がみられ、売上価格要因も僅かなプラス寄与に留まる中、売上数量要因のプラス寄与が主因となって収益が増加している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上価格要因はほとんど2012年比で変わっておらず、企業収益の増加は販売価格の上昇ではなく、売上数量の上昇や交易条件の改善で実現している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "（16）被説明変数を人手不足感（「不足＝1」～、「過剰＝5」）、説明変数を業種、企業規模、正社員の平均勤続年数、非正社員比率、2017年度の一人あたり賃金、離職率、売上高上昇率（2013年度から17年度の伸び率）とした多項ロジットモデルを推計し、人手不足感が「不足＝1」と答えた選択肢に対する限界効果を推計した",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "2．ここでいう大企業とは資本金 10 億円以上の企業、中小企業とは資本金 1 千万円以上 1 億円未満の企業とする",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金 300 万円）は、作業療法士の資格を持つ雅樂川陽子",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 2,000 万円）は、1888 年に鍛冶屋と して創業し、",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県中津川市の株式会社加藤製作所 従業員 \u0014\u0013\u001a 名、資本金 \u0015\u000f\u0013\u0013\u0013 万円 は、\u0014\u001b\u001b\u001b 年に鍛冶屋として創業し、5",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金1,000万円）は、一時保育や小規模認可保育園を手",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金2,000万円）は、金属パイプ成形加工によ り 、業務",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金 1,000 万円）は、特殊金属のリサイ クルと金属系産業",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社有吉農園（従業員15名、資本金300万円）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "カタログから選ぶ「カタログ注文型」と、オーダーメイド設備にも使える「一般型」（最大1億円）の2種類があり、中小工場でも使いやすくなっています",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "最大9,000万円規模の補助が可能です",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業新事業進出補助金・成長加速化補助金(最大5億円)を徹底比較",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（42.6%）とつづき、売上向上に寄与する取組につ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社員1人の離職で年間1,700万円の損失？中堅製造業が採用を「設備投資」と捉えるべき理由 | マーケティングメディア｜株式会社コンテナ：CONTENNA.co.ltd",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "社員1人の離職で年間1,700万円の損失？中堅製造業が採用を「設備投資」と捉えるべき理由",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "最新統計が示す「1,728万円」の衝撃",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "仮に年収500万円の社員が退職した場合、短期的には人件費は削減されます",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "年間1,700万円規模の付加価値を生み出していた“利益の枠”が、そのまま空白になることを意味",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "これは単なる採用コストの無駄ではなく、年間1,700万円規模の付加価値を生み出すはずだったポジションが機能しないことを意味します",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "年間1,700万円規模の付加価値を生み出していた「利益の源泉」が、そのまま失われることを意味します",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "また、「製品の品質」「売上減少」「利益減少」が生じている企業は2割前後という結果になった",
+    "url": "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html",
+    "pass": 3
+   },
+   {
+    "quote": "財務的な影響である「売上減少」「利益減少」が生じている企業も2割前後、存在している",
+    "url": "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html",
+    "pass": 3
+   },
+   {
+    "quote": "○ 就業者一人当たりの生産額の増加を背景に、１兆円の消費増がもたらす雇用誘発効果はどの産業",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-2-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１兆円に相当する額として、消費者物価指数（総合）を用いて実質化し、1990 年は約 9,120 億円、2000 年",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-2-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は約 9,900 億円を計算に用いた",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-2-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "54 売上や付加価値は、事業所ごと、あるいは企業ごとに計測されるものの、その事業所や企業が生み",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-2-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次いで「売上機会を逸失」 （23.5％） 、 「納期の長期",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金「10 億円以上」は1,949万円、 「1億円以上",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 億円未満」は 1,083 万円、 「5,000 万円以上 1 億円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "未満」は 787 万円、 「1,000 万円以上 5,000 万円」は",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "734 万円、 「1,000 万円未満」は 367 万円であった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "㈱行田製作所 群馬県高崎市 行田\u0007正巳 1965 年 500 万円 40 人",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "㈱土屋合成 群馬県富岡市 土屋\u0007直人 1972 年 1,000 万円 75 人",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "タヤマスタジオ㈱ 岩手県盛岡市 田山\u0007貴紘 2013 年 300 万円 12 人",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "㈱艶金 岐阜県大垣市 墨 勇志 1889 年 9,000 万円 141 人",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に約 30 社あり、年商は 9 億円を超える",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 500万円 ＵＲＬ http://www.gyoda.net",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造し、年商は約 17 億円である",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 1,000万円 ＵＲＬ http://www.tsuchiya-gousei.com",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 台当たり数百万円もするゲートカットロボッ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数千万円をかけて、約60台の射出成形機の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の売上高は17億円と、土屋さんが就",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年商は約 1 億円で、海外への輸出が売り",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、「製品の品質」の低下は3割程度、財務的な影響である「売上減少」",
+    "url": "https://www.jmac.co.jp/news/items/info0912_report.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "働き方改革で1人当たり労働時間が縮小する中、規制緩和で一定程度は労働供給を増やすことができる",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "24年度の法人企業統計調査で従業員1人当たりのソフト資産をみると、飲食・宿泊（2万円）や医療・福祉（5万円）は全産業平均（45万円）を大幅に下回る",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "３．1人当たり労働生産性を高める",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "1人当たり労働生産性がOECD他国に劣るということが各所で指摘されている通り、",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの名目労働生産性は、2025年時点で全産業の約1.2倍です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では中小企業の価格転嫁力が大企業より低く、1人あたり名目付加価値額の上昇率を押し下げる要因になっています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "改革に着手した 2010 年当時、同社の特注品の売上高は 2,000 万円で、それでも仕事がこなしきれない状況だった",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "かし、現在は同数の社員で特注品の売上高は 9,000 万円に達している",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業を対象に、自分で組み立てて動かす 10 万円 IoT キットの提案を行った",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ロッパ製で１台数千万円もする大型の検査装置はあるが、コストもスペースもかかる上に取りこぼしがあり、装置を入れて",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0003\u0003 ・労働生産性：年平均伸率２％以上\u0003",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "限を、現行の 100 万円から１億円に引き上げる予定としてい",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）から、企業の付加価値額の推移をみると、1985年度～1995年度まで大きく増加した後、1995年度～2013年度までほぼ横ばいで推移していたが、同年度以降には、再び増加トレンドに転じている",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第３次産業においては就業者数の増加の寄与が大きく、1970～1990年では、一人当たり生産性の寄与も第３次産業の方が大きい",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした第３次産業における労働分配率の低下が、厚生労働省（2023）でも指摘したように、一人当たり生産性が上昇する中にあっても、一人当たり賃金がなかなか増加していない",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "1990年と2023年の総労働時間の変化を就業者数に一人当たり労働時間を乗じた面積で表したのが、同図（２）である",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、現在、時間当たりの労働生産性は2013～2022年において年平均1.3％上昇",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "同図（２）により、「生産性」についてみると、概して「賃金」より多くはないが、労働生産性の低迷への危機感が強くみられ始めた2010年代以降、使用回数は増加傾向にある",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省（2023）で示したとおり、ＧＤＰから計算した一人当たり労働生産性は1996年から長期的にほぼ横ばいであるが、中間投入も含めた生産額の総額から計算すると、就業者一人当たりの生産額は1990～2015年にかけて15％ほど増加している",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性ほど賃金が上昇していない背景等については、厚生労働省（2023）を参照",
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "この推計の結果によると、売上高上昇率が高い企業や離職率が高い企業ほど人手不足と回答する確率が高い一方、1人当たりの賃金が高いほど人手不足と回答する企業が少ないという結果となっている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、2017年度の時間当たりの労働生産性は、人手不足でない企業ほど労働生産性が高く、かつ、人手不足でない企業の中でも内部ミスマッチがない企業の労働生産性が高い結果となった（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、この単純集計の場合、業種や企業規模による特性などが影響している可能性があるため、業種、企業規模、非正規比率といった企業属性をコントロールした上で、労働生産性に対する人手不足感の影響を推計すると、人手不足感が適正である企業に比べて、人手不足感がある企業は労働生産性が約2割低くなり、やや不足感がある企業も14％低くなる結果が得られた（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、人手の過剰感がある企業も、適正である企業に比べて労働生産性が約2割低くなっているが、これは、業績不振により労働生産性の低下と余剰人員の増加が同時に発生している可能性が考えられる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "、人手不足感がある企業は適正である企業に比べて資本装備率が約4割低くなっており、人手不足感がある企業においては、資本投入の絶対量が少ないために従業員一人当たりの労働生産性の水準が低くなっていると考えられる",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "を推計すると、省力化投資を行うと1時間あたりの労働生産性が約20％程度上昇するという結果が得られた（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産性とは資本や労働といった生産要素を投入してどれだけの産出物や付加価値が生み出されたかを測る指標で、様々な算出方法がありますが、そのうち労働投入1単位当たりの付加価値を示したものが、労働生産性と呼ばれています",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の算出において、分子に当たる付加価値は、一国経済全体の場合にはGDP、分母に当たる労働投入には、労働時間を考慮した労働投入量を用いることで、労働者1人1時間当たりに生み出される付加価値を求めることが一般的です",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-25 図 賃上げ（一人当たり平均賃金の改定率）の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1．労働分配率＝人件費（役員給与＋役員賞与＋従業員給与＋従業員賞与＋福利厚生費）/ 付加価値額（人件費＋支払利息等＋動産・不動",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．ここでいう大企業とは資本金 10 億円以上の企業、中小企業とは資本金 1 千万円以上 1 億円未満の企業とする",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金 300 万円）は、作業療法士の資格を持つ雅樂川陽子",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 2,000 万円）は、1888 年に鍛冶屋と して創業し、",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県中津川市の株式会社加藤製作所 従業員 \u0014\u0013\u001a 名、資本金 \u0015\u000f\u0013\u0013\u0013 万円 は、\u0014\u001b\u001b\u001b 年に鍛冶屋として創業し、5",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金1,000万円）は、一時保育や小規模認可保育園を手",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金2,000万円）は、金属パイプ成形加工によ り 、業務",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本金 1,000 万円）は、特殊金属のリサイ クルと金属系産業",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社有吉農園（従業員15名、資本金300万円）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最大9,000万円規模の補助が可能です",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "図 214-４ 一人当たり平均年間総実労働時間推移の国際比較（全就業者）",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "く、2018 年においては、全産業 794.3 万円、非製",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造業 740.9 万円に対し、製造業は 1,094 万円となっ",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 215-３ 全産業と製造業の一人当たり名目労働生産性の推移",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社の労働生産性が３年前と比較",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、自社の労働生産性が３年前と比較して",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 221-２ 人材育成・能力開発の取組と３年前と比較した自社の労働生産性",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社員1人の離職で年間1,700万円の損失？中堅製造業が採用を「設備投資」と捉えるべき理由 | マーケティングメディア｜株式会社コンテナ：CONTENNA.co.ltd",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "社員1人の離職で年間1,700万円の損失？中堅製造業が採用を「設備投資」と捉えるべき理由",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "最新統計が示す「1,728万円」の衝撃",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "総務省・経済産業省「令和3年経済センサス‐活動調査」の製造業統計をもとにすると、従業員300人以上の企業における社員1人あたりの年間付加価値額は、",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "※本数値は、以下の公式統計に基づき、従業者規模別（300〜499人、500〜999人、1000人以上）の付加価値額と従業者数を合算したうえで算出したものです",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたり付加価値額 ＝ 付加価値額 ÷ 従業者数",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "仮に年収500万円の社員が退職した場合、短期的には人件費は削減されます",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "年間1,700万円規模の付加価値を生み出していた“利益の枠”が、そのまま空白になることを意味",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "これは単なる採用コストの無駄ではなく、年間1,700万円規模の付加価値を生み出すはずだったポジションが機能しないことを意味します",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "年間1,700万円規模の付加価値を生み出していた「利益の源泉」が、そのまま失われることを意味します",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "第２－ （１） －7図（１）から、企業の付加価値額の推移をみると、1985 年度～1995 年度まで",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-2-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２－ （１） －７図 企業の付加価値額、業況の推移",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-2-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 企業が生み出す付加価値額は、1990 年代後半から停滞していたが、2010 年代以降再び上昇傾向",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-2-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）企業の付加価値額の推移",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-2-1.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "約130室ある客室の稼働率は50%程度が限界だ",
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "pass": 3
+   },
+   {
+    "quote": "いくら募集をかけても人は集まらず、約130室ある客室の稼働率は50％が限界です",
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の設備投資額は、2012年7-9月期以降、減価償却費を上回って推移しています",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中小企業庁によると、直近5年程度に実施した設備投資の目的は「設備の更新・維持」がもっとも多く、次いで「生産能力・販売能力の強化」です",
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "pass": 3
+   },
+   {
+    "quote": "経済全体の需給の状況をみるために、平均的な稼働率で労働や資本を活用することで達成可能なGDPと実際のGDPの差を示すGDPギャップの動向をみると、振れを伴いながら、2017年以降はおおむねプラスで推移しており、経済全体でみて需給がひきしまっている（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "pass": 3
+   },
+   {
+    "quote": "1回数分程度の停止でも、1日に何度も繰り返されると累積で大きな稼働率ロスになります",
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "pass": 3
+   },
+   {
+    "quote": "社員1人の離職で年間1,700万円の損失？中堅製造業が採用を「設備投資」と捉えるべき理由 | マーケティングメディア｜株式会社コンテナ：CONTENNA.co.ltd",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "社員1人の離職で年間1,700万円の損失？中堅製造業が採用を「設備投資」と捉えるべき理由",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、日銀短観のオーダーメード集計値により、人手不足感が傾向的に拡大してきた2013年度から2022年度までの期間における、各年3月調査時点での企業の雇用人員判断（「過剰」、「適正」、「不足」）別に、同調査時点における設備投資の当年度実績見込みの伸び率を整理した（",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "第一に、人手不足に直面している企業（雇用人員判断が「不足」である企業）では、そうでない企業（雇用人員判断が「適正」又は「過剰」である企業）に比べて、有形固定資産投資、ソフトウェア投資のいずれについても、2013年度から2022年度の平均でみた設備投資の伸び率が高く、設備投資へのスタンスが積極的であると言える",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの点について、池田・近松・八木（2023）では、日銀短観の個票データを用い、人手不足の状況が一時的であるか長期化しているかによって、企業の設備投資スタンスの違いを分析している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（6）資本装備率は、労働投入量に対する有形固定資産とソフトウェアの比率",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（15）日銀短観における「設備投資額（含む土地投資額）」",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（16）雇用人員判断を「不足」と回答した回数が、過去8四半期中で1～2期であれば「一時的」、3～4期であれば「やや長期化」、5～8期であれば「長期化」とし、業況感や生産設備の過不足感、資金繰りの過不足感といった要因はコントロールした上で、これら人手不足の状況別のダミーに対する設備投資の感応度を推計している",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "（24）実際、製造業と非製造業に分け、後半期間で同様の推計を行うと、非製造業では機械設備投資財価格の係数は統計的に有意でない一方、製造業では全産業と同様の代替関係が検出されている",
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを見ると、「2014年度に実施した企業」は、設備投資実施以降で付加価値額が増加しており、「2014～2023年度の間一切実施していない企業」と比べて、高い水準で推移していることが分かる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "第４節 労働生産性・設備投資",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、2024年度の中小企業の設備投資計画は、前年度",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【現状分析１ー⑦】コスト上昇が続く今こそ、積極的な設備投資により業務効率化を図ることが必要",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 設備投資の動向 図２ 現預金水準、貯蓄投資差額の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.設備投資は、ソフトウェアを除く",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１）設備投資額の推移（企業規模別）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）中小企業の設備投資計画",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.ソフトウェア投資比率＝ソフトウェア投資額÷設備投資額×100",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【重要な取組１ー②】適切な価格設定は収益向上・設備投資・賃上げの好循環につながる",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ マークアップ率と経常利益率、設備投資額、",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.経常利益率・設備投資額（売上高比）・賃金／限界生産性は、いずれも分位階級ごとの売上高加重平均値",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "2．この場合の未充足率は、各事業所の未充足率を求めた上で、それらを合計した後、事業所数で除することで算出している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第 2-1-8 図 従業者規模別非農林雇用者数の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、外国人労働者を雇用する事業所数は約 19 万",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コラム 2-1-1 ①図 外国人労働者数及び外国人雇用事業所数の推移",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模 1,000人以上 300～999人 100～299人 30～99人 5～29人 新規学卒者のうち",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 215-１ 製造業に関する事業所数",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "215-１でみたように事業所数が半減していること",
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総務省・経済産業省「令和3年経済センサス‐活動調査」の製造業統計をもとにすると、従業員300人以上の企業における社員1人あたりの年間付加価値額は、",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "※本数値は、以下の公式統計に基づき、従業者規模別（300〜499人、500〜999人、1000人以上）の付加価値額と従業者数を合算したうえで算出したものです",
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "pass": 3
+   },
+   {
+    "quote": "103件（回答企業数：102社）",
+    "url": "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html",
+    "pass": 3
+   },
+   {
+    "quote": "完全回答数 103件（回答企業数：102社）",
+    "url": "https://www.jmac.co.jp/news/items/info0912_report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国経済において中小企業・小規模事業者は、企業数の99.7％、従業者数の約7割、付加価値額の約5割を占め、地域経済及び雇用の中核を担っている",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_2_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンソウシステムズでは、導入社数No.1（富士キメラ総研 2024年8月8日発刊）の現場帳票システム「",
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "pass": 3
+   },
+   {
+    "quote": "図２ 輸出入比率（従業者規模別）",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50人～99人 100人～199人 200人～299人 300人以上",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～４人 ５～９人 10～ 19人 20～ 49人 50～299人 300人以上",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２.「全体」については、経営者年齢の情報がない企業も含んだ中小企業数に対する割合を示している",
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/html/honbun/101014.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/yamazen/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mk.co.kr/jp/world/11463597",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/24-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willof-work.co.jp/journal/14513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-content/uploads/2023/05/report_230508_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jmac.co.jp/news/items/info0912_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rpa-technologies.com/blog/manufacturing-labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jinzaiplus.jp/posts/230",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://protrude.com/report/manufacturing_lackofmanpower/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je24/h02-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/chic_deer1160/n/n90f503955cf1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_2_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartf-nexta.com/archives/12828",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinki-group.jp/shinki_i/column/column01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/19/dl/19-2-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://asia.nikkei.com/economy/japan-suffers-opportunity-loss-equivalent-to-2.6-of-gdp-from-labor-crunch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/oecd-employment-outlook-2026_9c4f5c3e-en/japan_1bf47e8a-en.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/387448732_An_Analysis_of_the_Japanese_Labor_Market_-_A_Case_Study_of_University_Students_Actively_Selecting_Companies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/japans-ai-paradox-what-happens-when-labor-shortage-karine-kyrge",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Labor_market_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcer.or.jp/english/is-japan-really-short-of-labour",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） 人手不足 受注 断る",
+   "results": [
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun/html/honbun/101014.html",
+    "https://biz.nuro.jp/column/103/",
+    "https://www.ricoh.co.jp/service/remote-field/column/article-manufacturing-industry",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "https://willof-work.co.jp/journal/14513/"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） 受注残 人手不足",
+   "results": [
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://www.zaico.co.jp/zaico_blog/solutions-to-the-manufacturing-labor-shortage/",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/yamazen/manufacturing-labor-shortage",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.jinzaiplus.jp/posts/230"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） 人手不足 損失 億円",
+   "results": [
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H30/PDF/chusho/04Hakusyo_part2_chap1_web.pdf",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://www.mk.co.kr/jp/world/11463597",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/24-1.html"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別）",
+   "results": [
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://saiyo-lab.contenna.jp/blog/manufacturing-hiring-investment-loss",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） 推移",
+   "results": [
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "https://monoken.yamazen.co.jp/blog/articles/labor-shortage/manufacturing-labor-shortage",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://www.mhlw.go.jp/wp/hakusyo/roudou/24/dl/24-1-2-1.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_24_06_21.pdf",
+    "https://www.murc.jp/wp-content/uploads/2023/05/report_230508_01.pdf",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.jmac.co.jp/news/items/info0912_report.pdf"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article20.html",
+    "https://rpa-technologies.com/blog/manufacturing-labor-shortage/",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://www.jinzaiplus.jp/posts/230",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://protrude.com/report/manufacturing_lackofmanpower/"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） 1人当たり 万円",
+   "results": [
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/chusho/b2_2_1.html",
+    "https://smartf-nexta.com/archives/12828",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.murc.jp/wp-content/uploads/2023/05/report_230508_01.pdf",
+    "https://www.satfaq.jp/dx-column/manufacturing-understaffsd/",
+    "https://shinki-group.jp/shinki_i/column/column01/"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1"
+   ]
+  },
+  {
+   "query": "opportunity loss from labor shortage manufacturing Japan amount Japan statistics",
+   "results": [
+    "https://asia.nikkei.com/economy/japan-suffers-opportunity-loss-equivalent-to-2.6-of-gdp-from-labor-crunch",
+    "https://www.oecd.org/en/publications/oecd-employment-outlook-2026_9c4f5c3e-en/japan_1bf47e8a-en.html",
+    "https://www.researchgate.net/publication/387448732_An_Analysis_of_the_Japanese_Labor_Market_-_A_Case_Study_of_University_Students_Actively_Selecting_Companies",
+    "https://www.linkedin.com/pulse/japans-ai-paradox-what-happens-when-labor-shortage-karine-kyrge",
+    "https://en.wikipedia.org/wiki/Labor_market_of_Japan",
+    "https://www.jcer.or.jp/english/is-japan-really-short-of-labour",
+    "https://www.statista.com/topics/13699/labor-shortage-in-japan/?srsltid=AYCX9vIyJ_ugBYT6zNfN1jOGwPtTQoWY5899rIOVo1G2vDIO82SVT1xG",
+    "https://www.tandfonline.com/doi/full/10.1080/2329194X.2026.2629324",
+    "https://www.jil.go.jp/english/jli/documents/2025/052-03.pdf",
+    "https://www.statista.com/topics/13699/labor-shortage-in-japan/"
+   ]
+  },
+  {
+   "query": "site:note.com 人手不足による機会損失の額（製造業・規模別）",
+   "results": [
+    "https://note.com/hirokimiyano/n/n529d77e1fc8d",
+    "https://note.com/tatsuya_sabato/n/n35e0b33e7bb3",
+    "https://note.com/hirokimiyano/n/n08ba5b67542e",
+    "https://note.com/okappiki3/n/nf12f53fbfc7f",
+    "https://note.com/keiei_cheering/n/n7a764f297350",
+    "https://note.com/hirokimiyano/n/nfd6439f69a1c",
+    "https://note.com/nature_positive/n/n4865f217f24d",
+    "https://note.com/y44901726/n/n396794a25a22",
+    "https://note.com/kandoinspirefact/n/n5fb436a28e8c",
+    "https://note.com/tatsuya_sabato/n/nd2bc38dbd6e6"
+   ]
+  },
+  {
+   "query": "site:x.com 人手不足による機会損失の額（製造業・規模別）",
+   "results": [
+    "https://x.com/james_riney/article/2097824401832222829",
+    "https://x.com/ipo_majime/status/2114733380831216108",
+    "https://x.com/ykidera/status/2117066113272230382",
+    "https://x.com/luigi_jpn/article/2094562625690755302",
+    "https://x.com/luigi_jpn/status/2117205424495559062",
+    "https://x.com/splendid21jy",
+    "https://x.com/KagawaTomo/status/2110277493752205781",
+    "https://x.com/luigi_jpn/status/2050759470628868126",
+    "https://x.com/222TT222/status/2111339973924540821",
+    "https://x.com/ykidera/status/2113418607128666234"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 人手不足による機会損失の額（製造業・規模別）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E5%B8%82%E5%A0%B4%E6%A6%82%E8%A6%812026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6cagr-125%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-esker-edges-b7pbe",
+    "https://jp.linkedin.com/pulse/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9bps%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A6%8F%E6%A8%A1%E5%8B%95%E5%90%91%E6%A9%9F%E4%BC%9A%E8%AA%B2%E9%A1%8C2026%E5%B9%B42033%E5%B9%B4cagr81-smokey-motors-ybgse",
+    "https://jp.linkedin.com/pulse/%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E6%A5%AD%E7%95%8C-agv%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A6%8F%E6%A8%A1%E5%8B%95%E5%90%91%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%83%B3%E6%88%90%E9%95%B7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%90%E4%BA%88%E6%B8%ACcagr%E3%81%AF53-pxoze",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/pulse/%E3%82%B3%E3%82%B0%E3%83%9C%E3%83%B3%E3%83%80%E3%83%BC%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr93%E3%81%A7%E7%B6%99%E7%B6%9A%E7%9A%84%E3%81%AB%E6%88%90%E9%95%B7%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E8%AA%B2%E9%A1%8C%E3%81%AE%E5%88%86%E6%9E%90%E3%82%82%E8%A1%8C%E3%82%8F-7515573862667898880-dbtqe",
+    "https://jp.linkedin.com/pulse/%E5%8D%B5%E5%87%A6%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E4%BA%88%E6%B8%AC%E6%88%90%E9%95%B7%E7%8E%87137%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%A8%E5%8F%8E%E7%9B%8A%E3%81%AE%E5%8B%95%E5%90%91%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB-7518652057181073409-bywge",
+    "https://jp.linkedin.com/pulse/%E9%80%A3%E7%B6%9A%E7%B7%9A%E5%BD%A2%E7%86%B1%E6%A4%9C%E5%87%BA%E5%99%A8%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B0%86%E6%9D%A5%E5%B1%95%E6%9C%9B%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E5%88%86%E6%9E%90%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr-59-sypherix-intel-5wm8e",
+    "https://jp.linkedin.com/pulse/why-more-companies-become-cash-flow-first-businesses-jason-branin-wfqdc?tl=ja",
+    "https://jp.linkedin.com/pulse/%E6%9C%AA%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%8F%E6%A4%9C%E6%9F%BB%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B0%86%E6%9D%A5117%E3%81%AEcagr%E3%81%AB%E3%82%88%E3%82%8B%E5%B8%82%E5%A0%B4%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC%E3%81%AA%E3%82%89%E3%81%B3%E3%81%AB2026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%97-7521614880303382530-zpobe",
+    "https://jp.linkedin.com/pulse/c%E3%83%97%E3%83%AA%E3%83%BC%E3%83%AA%E3%83%B3%E3%83%9E%E3%82%B7%E3%83%B3-market-analysis-report-global-insights-region-type-%E8%87%AA%E5%8B%95%E3%82%BB%E3%83%9F%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%81%E3%83%83%E3%82%AF-tjhve"
+   ]
+  },
+  {
+   "query": "site:facebook.com 人手不足による機会損失の額（製造業・規模別）",
+   "results": [
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/groups/548266103946448/posts/1367800185326365/",
+    "https://www.facebook.com/yorozu.osaka/",
+    "https://www.facebook.com/matsushimamidori/",
+    "https://www.facebook.com/VUC2021/",
+    "https://www.facebook.com/bizrise.office/",
+    "https://www.facebook.com/p/Npo%E6%B3%95%E4%BA%BA%E9%87%A7%E8%B7%AF%E6%94%BF%E7%AD%96%E5%95%8F%E9%A1%8Cvgc-61554975561659/",
+    "https://www.facebook.com/masahiro.oyanagi/",
+    "https://www.facebook.com/noritaka.sakai.9/posts/4582926388593074/",
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） note 社長",
+   "results": [
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://vdata.nikkei.com/newsgraphics/labor-supply-constraint/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www.mk.co.kr/jp/world/11463597",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20250527/04.pdf",
+    "https://smartf-nexta.com/archives/12828",
+    "https://authentec.jp/valuableinfo/manufacturing-industry-challenges/",
+    "https://rpa-technologies.com/blog/manufacturing-labor-shortage/"
+   ]
+  },
+  {
+   "query": "人手不足による機会損失の額（製造業・規模別） X 投稿",
+   "results": [
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8",
+    "https://www.meti.go.jp/report/whitepaper/mono/2018/honbun_pdf/pdf/honbun01_01_02.pdf",
+    "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "https://rpa-technologies.com/blog/manufacturing-labor-shortage/",
+    "https://willof-work.co.jp/journal/14513/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.cac.co.jp/trends/trend43/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "https://www.ricoh.co.jp/service/remote-field/column/article-manufacturing-industry",
+    "https://www.jmac.co.jp/column/detail/manufacturing_2024_survey.html"
+   ]
+  },
+  {
+   "query": "opportunity loss from labor shortage manufacturing Japan amount site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japans-ai-paradox-what-happens-when-labor-shortage-karine-kyrge",
+    "https://www.linkedin.com/posts/tysonbatino_japans-labor-shortage-is-costing-16-trillion-activity-7401882041803575296-h1eY",
+    "https://www.linkedin.com/pulse/impact-manufacturing-labor-shortage-return-investment-gupta",
+    "https://www.linkedin.com/top-content/recruitment-hr/addressing-labor-shortages/japan-workforce-shortage-trends/",
+    "https://www.linkedin.com/posts/bob-sternfels_my-first-visit-to-japan-was-in-1992-the-activity-7498704304401305600-_pZA",
+    "https://www.linkedin.com/posts/stuartbasefsky_the-impact-of-aging-and-ai-on-japans-labor-activity-7375906463216521216-tz9C",
+    "https://www.linkedin.com/top-content/workplace-trends/job-market-trends-insights/labor-shortages-in-key-industries-right-now/",
+    "https://www.linkedin.com/top-content/recruitment-hr/global-workforce-trends/changes-in-workforce-trends-in-japan/",
+    "https://www.linkedin.com/posts/richard-katz-937308204_a-21st-century-industrial-policy-part-i-activity-7402551975248109568-0-KV",
+    "https://www.linkedin.com/posts/granthabgood_japans-labour-shortage-gets-plenty-of-attention-activity-7515542720963067905-Dn_f"
+   ]
+  }
+ ],
+ "missing": {}
+}

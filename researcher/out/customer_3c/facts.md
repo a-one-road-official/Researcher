@@ -12,123 +12,125 @@
 - 拠点：加工機へのテンディング（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
 - 拠点：メモリ書き込みへのテンディング（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
 - 株主構成：
-  - 「電子公告 | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/announcement.html・1回目）
-  - 「資産合計 資本合計 親会社の所有者に帰属する持分 親会社の所有者に帰属する持分比率」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「売上高 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的1株当たり親会社の所有者に帰属する当期利益」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「「基本的1株当たり親会社の所有者に帰属する当期利益」は、2027年3月期中間期の期中平均株式数を用いて算出して」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「親会社の所有者に帰属する中間利益 55,540 5.6 73,430 6.8 17,890 32.2」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「前利益は同25,070百万円（36.9％）増加の93,020百万円、親会社の所有者に帰属する中間利益は、同」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「資本合計は、主に親会社の所有者に帰属」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「親会社の所有者に帰属する当期利益 140,969 6.8 160,000 7.7 160,000 7.5 13.5」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「親会社の所有者に帰属する持分合計 3,339,431 71.9 3,265,364 71.1 △74,067」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「親会社の所有者 55,540 5.6 73,430 6.8 17,890 32.2」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「親会社の所有者 94,806 138,925 44,119」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「資産合計 資本合計 親会社の所有者に帰属する持分 親会社の所有者に帰属する持分比率」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「決算短信 | IRライブラリー | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/library/f_results.html・1回目）
+  - 「決算説明会資料 | IRライブラリー | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/library/presentation.html・1回目）
+  - 「有価証券報告書等 | IRライブラリー | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/library/yuho.html・1回目）
+  - 「事業説明会資料 | IRライブラリー | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/library/ir-day.html・1回目）
+  - 「定款・株式取扱規則 | 株式情報 | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/s_info/rules.html・1回目）
+  - 「京セラのご紹介 | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/about/index.html・1回目）
+  - 「8.6%、親会社の所有者に帰属する中間利益は 32.2%増加の 734 億円、利益率 6.8%となりました」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「9.4%、親会社の所有者に帰属する当期利益は 1,600 億円、利益率 7.5%の予想とし、利益について」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「資産合計 資本合計 親会社の所有者に帰属する持分 親会社の所有者に帰属する持分比率」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
+  - 「売上高 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的1株当たり親会社の所有者に帰属する当期利益」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
+  - 「「基本的1株当たり親会社の所有者に帰属する当期利益」は、2027年3月期中間期の期中平均株式数を用いて算出して」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
+  - 「親会社の所有者に帰属する中間利益 55,540 5.6 73,430 6.8 17,890 32.2」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
 - 創業年度：
-  - 「京セラは1959年の創業以来培ってきたノウハウ、提案⼒を活かし、半導体に関連する高品質な製品・技術を提供することで半導体業界を支えてきました」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「創業者 稲盛和夫 Official Site」（https://www.kyocera.co.jp/ir/index.html・1回目）
-  - 「創業者 稲盛和夫 Official Site」（https://www.kyocera.co.jp/ir/announcement.html・1回目）
-  - 「京セラは、創業以来培ってきた多種多様な独自技術を」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「京セラは1959年の創業以来培ってきたノウハウ、提案⼒を活かし、半導体に関連する高品質な製品・技術を提供することで半導体業界を支えてきました」（https://www.kyocera.co.jp/prdct/web_solution/semicon/index.html・1回目）
-  - 「京セラは1959年の創業以来、「全従業員の物心両面の幸福を追求すると同時に、人類、社会の進歩発展に貢献すること」という経営理念のもと、着実に事業を展開してきました」（https://www.kyocera.co.jp/company/message.html・1回目）
-  - 「たに設立した会社に対して吸収分割の方法で承継させ、同社の全株式を住友ベークライト株式会社」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「たに設立した会社に対して吸収分割の方法で承継させ、同社の全株式を住友ベークライト株式会社」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「（注）「京セラフィロソフィ」は、当社の創業者が自ら培ってきた経営や人生の考え方をまとめた企業哲学であり、人生哲学である」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「なお、当社は「人類、社会の進歩発展に貢献すること」という経営理念のもと、第二電電株式会社（現KDDI株式会社）を設立して以来、」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「当社は、創業以来、「全従業員の物心両面の幸福を追求すると同時に、人類、社会の進歩発展に貢献すること」という経営理念のもと、」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「当社においては、創業者自らが培ってきた経営や人生に対する考え方をとりまとめた『京セラフィロソフィ』が、倫理規範となるべき企業哲学」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
+  - 「京都市中京区西ノ京原町101番地に本社並びに工場を4月1日付で設立（資本金300万円、従業員28名）」（https://www.kyocera.co.jp/company/history/until1979.html・1回目）
+  - 「ファインセラミックスの専門メーカー「京都セラミック株式会社」として創業」（https://www.kyocera.co.jp/company/history/until1979.html・1回目）
+  - 「米国現地法人Kyocera International, Inc.を設立」（https://www.kyocera.co.jp/company/history/until1979.html・1回目）
+  - 「社と、合弁会社（現·KYOCERA Europe GmbH）を設立」（https://www.kyocera.co.jp/company/history/until1979.html・1回目）
+  - 「創業者 稲盛和夫 Official Site」（https://www.kyocera.co.jp/ir/・1回目）
+  - 「創業者 稲盛和夫 Official Site」（https://www.kyocera.co.jp/ir/library/f_results.html・1回目）
+  - 「創業者 稲盛和夫 Official Site」（https://www.kyocera.co.jp/ir/library/presentation.html・1回目）
+  - 「創業者 稲盛和夫 Official Site」（https://www.kyocera.co.jp/ir/library/yuho.html・1回目）
+  - 「創業者 稲盛和夫 Official Site」（https://www.kyocera.co.jp/ir/library/ir-day.html・1回目）
+  - 「創業者 稲盛和夫 Official Site」（https://www.kyocera.co.jp/ir/s_info/rules.html・1回目）
+  - 「創業者 稲盛和夫 Official Site」（https://www.kyocera.co.jp/ir/about/index.html・1回目）
+  - 「たに設立した会社に対して吸収分割の方法で承継させ、同社の全株式を住友ベークライト株式会社」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
 - 目標（中計・経営方針）：
-  - 「ウェハ―の研磨加工において、高純度セラミックスを採用することにより、高硬度と優れた耐摩耗性が得られ、長期の使用において、良好な表面状態が維持できます」（https://www.kyocera.co.jp/prdct/fc/industries/products/001.html・1回目）
-  - 「検査業務の効率化や情報活用を支援し、ヘルスケアおよび医療サービスへのアクセス向上を目標に開発中」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「また、「TrustScan 長期署名システム」では、スキャンデータへ電子署名・タイムスタンプを付与することで原本化し、紙文書の破棄が可能となります」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「建物の屋上に設置できない場合でも、駐車場スペースを活用して設置可能で、高耐久性と長期的な信頼性が特徴です」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「ナイトビジョンや測距など、多様な用途を実現」（https://www.kyocera.co.jp/prdct/sldlaser/products/laserlight-smd/・1回目）
-  - 「京セラでは中長期開発計画を立て、車載カメラの開発を進めています」（https://www.kyocera.co.jp/prdct/camera/index.html・1回目）
-  - 「高剛性、耐薬品性により、長期の使用でも、 良好な表面状態が維持できます」（https://www.kyocera.co.jp/prdct/fc/industries/electronics/index.html・1回目）
-  - 「長期借入金の調達 6,819 6,455 △364」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「長期借入金の返済 △4,869 △5,673 △804」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「長期借入金の調達 6,819 6,455 △364」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「長期借入金の返済 △4,869 △5,673 △804」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「ものの、当初想定よりも収益化までの期間が長期化する見通しとなったことから、事業計画を見直した」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_p.pdf・2回目）
+  - 「※ 日本政府はカーボンニュートラルの目標として2013年度を基準としたCO2排出量を2030年に46％削減、2050年には実質0を目指す宣言を行った」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「経営目標が設定されており、」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「お客様に長期間、安心で安定した再エネの提供が可能」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「長期信頼性、品質、信用力…だから、京セラ」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「長期にわたり、真摯に」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「※ 電力協議の期間は、系統状況等、さまざまな要因により長期化する可能性がございます」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「※ 著しい市場環境の変化等により、機器制作および工事期間が長期化する可能性がございます」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「中期経営計画（2023年3月期 通期決算説明会資料より抜粋）」（https://www.kyocera.co.jp/ir/library/presentation.html・1回目）
+  - 「高い目標を設定し、」（https://www.kyocera.co.jp/recruit/career/・1回目）
+  - 「を推進していたものの、当初想定よりも収益化までの期間が長期化する見通しとなったことから、」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「なお、すでにご案内しておりますとおり、中長期の事業戦略については、今月末に開催予定の説明」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「元々、2028.3 期の目標 ROE5%を 2027.3 期に 1 年前倒しするというお話があり、一過性を除くと」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
 - 課題・障壁：
-  - 「モビリティを取り巻く社会課題の解決に向けて」（https://www.kyocera.co.jp/・1回目）
-  - 「「セラミックパッケージで解決できる課題」はこちら」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「モビリティを取り巻く社会課題の解決にむけ、最先端の材料技術や電子部品を活用したソリューションを提供します」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「医療の課題に向き合い、最新技術による医療DXを通じて、快適で効率的な「スマートホスピタル」の実現を目指します」（https://www.kyocera.co.jp/prdct/business.html・1回目）
-  - 「モビリティを取り巻く社会課題の解決にむけ、最先端の材料技術や電子部品を活用したソリューションを提供します」（https://www.kyocera.co.jp/prdct/business.html・1回目）
-  - 「医療の課題に向き合い、最新技術による医療DXを通じて、快適で効率的な「スマートホスピタル」の実現を目指します」（https://www.kyocera.co.jp/prdct/business_field.html・1回目）
-  - 「モビリティを取り巻く社会課題の解決にむけ、最先端の材料技術や電子部品を活用したソリューションを提供します」（https://www.kyocera.co.jp/prdct/business_field.html・1回目）
-  - 「医療の課題に向き合い、最新技術による医療DXを通じて、快適で効率的な「スマートホスピタル」の実現を目指します」（https://www.kyocera.co.jp/prdct/business_keyword.html・1回目）
-  - 「モビリティを取り巻く社会課題の解決にむけ、最先端の材料技術や電子部品を活用したソリューションを提供します」（https://www.kyocera.co.jp/prdct/business_keyword.html・1回目）
-  - 「課題から探す | 法人のお客様 | 京セラ」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「物流現場の端末老朽化リスクと"スマホ一本化"ノウハウ」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「運輸業の人手不足に対応！現場力を高めるスマートデバイス省人化最前線」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
+  - 「京セラの液晶ディスプレイの特長と解決できる課題」（https://www.kyocera.co.jp/prdct/display/application/detail/automobile_emirror.html・1回目）
+  - 「各産業や日常生活を支える事業を多岐にわたって展開し、労働力不足の解決や幅広い市場への応用展開などにも貢献していきます」（https://www.kyocera.co.jp/company/division/other.html・1回目）
+  - 「しかし従来の音響による通信では速度や遅延といった課題がありました」（https://www.kyocera.co.jp/company/division/other.html・1回目）
+  - 「お客様の課題を解決するITソリューションを提供するほか、通信インフラ、太陽光発電施設の構築・運用なども行っています」（https://www.kyocera.co.jp/company/division/other.html・1回目）
+  - 「Future,Together 世界中の人々と、未来への一歩を」をコンセプトとし、京セラグループの企業姿勢と事業内容、現在と将来に向けた社会課題解決の視点で、情報通信、自動車関連、環境・エネルギー、医療・ヘルスケアの注力4市場をベースに各事業を紹介しています」（https://www.kyocera.co.jp/company/download/index.html・1回目）
+  - 「"重点課題への取組みを進め、次の成長を図る"」（https://www.kyocera.co.jp/ir/library/presentation.html・1回目）
+  - 「現金及び現金同等物の増減額(△は減少) 103,558 △19,353 △122,911」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「現金及び現金同等物の当中間期末残高は、当期首残高の455,887百万円に比べ、19,353百万円減少」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「に比べ、51,331百万円減少し、68,161百万円となりました」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「これは主に、定期預金の預入が減少し」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「た一方、KDDI株式の売却による収入が減少したことによるものです」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「営業債務及びその他の債務の増減額（△は減少） △17,412 11,513 28,925」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
 - これから関心を持つこと：
-  - 「京セラ研究開発本部のオープンイノベーション活動に関する情報発信を通じて、広くステークホルダーと共創を図ります」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「電子公告 | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/announcement.html・1回目）
-  - 「検査業務の効率化や情報活用を支援し、ヘルスケアおよび医療サービスへのアクセス向上を目標に開発中」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「京セラ研究開発本部のオープンイノベーション活動に関する情報発信を通じて、広くステークホルダーと共創を図ります」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「ガイド線や警告表示の重畳といった基本的な設定だけでなく、人や車の認識機能の研究開発を行い、提供価値向上を推し進めます」（https://www.kyocera.co.jp/prdct/camera/index.html・1回目）
-  - 「京セラ研究開発本部のオープンイノベーション活動に関する情報発信を通じて、広くステークホルダーと共創を図ります」（https://www.kyocera.co.jp/prdct/web_solution/semicon/index.html・1回目）
-  - 「決算説明会開催の有無 ：有(機関投資家・アナリスト向け)」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「(7) 今後の取り組み又は現在進行中の研究開発が期待される成果を生まない事態」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「設備投資額 88,740 9.0 81,897 7.6 △6,843 △7.7」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「研究開発費 57,178 5.8 57,184 5.3 6 0.0」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「政学リスク等に起因する不透明な状況が継続したものの、AI関連投資の拡大等により堅調に推移しま」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「負債合計は、主に設備投資に伴う未払金が増加したことにより、前連結会計年度末」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「PPAは、太陽光発電を初期投資ゼロで設置し、発電電力のうち、利用した分のサービス料のみをお支払いいただくという契約形態です」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「※ 施工代理店は弊社が業務提携している設備設置業者です」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「太陽光発電システムを設置する工事費用は、京セラが負担するため、初期投資が不要です」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「初期投資不要の太陽光発電システム導入で環境負荷を低減」（https://www.kyocera.co.jp/company/division/environment_energy.html・1回目）
+  - 「産業向けに、初期投資ゼロで太陽光発電システムを導入できる電力供給サービスを展開しています」（https://www.kyocera.co.jp/company/division/environment_energy.html・1回目）
+  - 「総合研究所（現・きりしまR&Dセンター）を鹿児島国分工場（現：鹿児島霧島工場国分ブロック）内に開設」（https://www.kyocera.co.jp/company/history/until1979.html・1回目）
+  - 「決算短信 | IRライブラリー | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/library/f_results.html・1回目）
+  - 「決算説明会資料 | IRライブラリー | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/library/presentation.html・1回目）
+  - 「有価証券報告書等 | IRライブラリー | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/library/yuho.html・1回目）
+  - 「事業説明会資料 | IRライブラリー | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/library/ir-day.html・1回目）
+  - 「定款・株式取扱規則 | 株式情報 | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/s_info/rules.html・1回目）
+  - 「京セラのご紹介 | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/about/index.html・1回目）
 - 顧客の顧客（主要取引先・発注元）：
-  - 「(17) 地震その他の自然災害によって当社の本社や主要な事業関連施設並びに当社のサプライヤーや顧客が被害を」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「(17) 地震その他の自然災害によって当社の本社や主要な事業関連施設並びに当社のサプライヤーや顧客が」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_yosou.pdf・2回目）
-  - 「(17) 地震その他の自然災害によって当社の本社や主要な事業関連施設並びに当社のサプライヤーや顧客が被害を」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「(17) 地震その他の自然災害によって当社の本社や主要な事業関連施設並びに当社のサプライヤーや顧客が被害を受ける事態」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_p.pdf・2回目）
-  - 「③当社グループの主要な取引先（直近事業年度における当社グループとの取引額が当社または取引先の連結売上高の2％以上の取引先）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「「モノ売り」から、「モノ×コト売り」（製品＋サービス）へ事業を転換し、高収益製品の拡大や顧客課題解決型ビジネスを強化することで、」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「d 上場会社を主要な取引先とする者又はその業務執行者」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「e 上場会社の主要な取引先又はその業務執行者」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「(3)京セラグループの取締役、従業員及び取引先をはじめとした全ての関係者が監査等委員会に直接通報できるよう、監査等委員会が設置する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「事業環境の変化や顧客ニーズの多様化を的確 に読み取り、ビジネ」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「また、開発、生産、販売、サービスなど、一連の事業プロセスに関わるすべての企業が協力して社会の要請に応えていくことでサプライチェーン全体の相互繁栄が実現できると考え、お取引先様と積極的なコミュニケーションを図ることで、相互信頼にもとづくパートナーシップの構築に注力しています」（https://www.kyoceradocumentsolutions.com/global/ja/sustainability/society/partners.html・3回目）
+  - 「(17) 地震その他の自然災害によって当社の本社や主要な事業関連施設並びに当社のサプライヤーや顧客が被害を」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
+  - 「(17) 地震その他の自然災害によって当社の本社や主要な事業関連施設並びに当社のサプライヤーや顧客が被害を受」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_1Q_tannsin.pdf・2回目）
+  - 「び「2.6℃シナリオ（注2）」を用いて、2030年の自社の事業への影響及び顧客の業界の変化を把握するとともに、京セラ」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「当社は従業員、顧客、株主・投資家並びに取引先等、京セラグループに関わるすべてのステークホルダーの人権を尊重」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「当社は、従業員、顧客、株主・投資家並びに取引先等、京セラグループに関わるすべてのステークホルダーの人権を尊」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「当社は、事業活動における重要情報や顧客から入手した個人情報、機密情報を保有しています」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「の調達に困難が生じる可能性があり、当社の顧客が被害を受けた場合には、当社の製品の出荷が停滞する可能性がありま」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「また、当社が顧客の製品ごとに仕様を合わせた部品を開発・製造・販売している事業においては、顧客の」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「また、当社は、生産活動において消費される一部の原材料を特定のサプライヤーに依存しており、これらのサプライ」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「議するとともに、顧客に対して適正な価格転嫁交渉を行っています」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「当社は、部品の製造や製品の組立の一部を単一もしくは限られた数社の取引先に外部委託しています」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「に複雑な製造工程や長い製造時間を必要とする取引先も存在するため、部品や組立品の供給が遅滞する場合があります」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
 - 顧客の顧客が求めること（調達方針・要求）：
-  - 「京セラは1959年の創業以来培ってきたノウハウ、提案⼒を活かし、半導体に関連する高品質な製品・技術を提供することで半導体業界を支えてきました」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「⾃動⾞部品としても採⽤されている部品のため、品質の⾼さも折り紙付きです」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「「半導体UBMめっき/はんだバンプ加⼯ 短納期サンプル対応」はこちら」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「生産性向上、品質向上（アルミ鋳造装置の事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「品質向上と長寿命化（金属線製造工程の事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「会計・監査、法令違反、品質不正に関する情報受付窓口」（https://www.kyocera.co.jp/ir/index.html・1回目）
-  - 「模倣品は正規品と仕様や性能が異なるだけでなく、品質・安全面でも劣るため、破損に伴う怪我や事故が起こる恐れもあり、お客様に被害が及ぶことを非常に危惧しております」（https://www.kyocera.co.jp/counterfeit/index.html・1回目）
-  - 「会計・監査、法令違反、品質不正に関する情報受付窓口」（https://www.kyocera.co.jp/ir/announcement.html・1回目）
-  - 「高耐久で衝撃に強く洗浄も可能で、指紋認証に加え、マスク着用時の顔認証など、医療現場に適した機能を多数搭載しています」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「ECOSYS（エコシス）プリンターは、高い品質を持つ京セラのアモルファスシリコンドラム/PSLPドラムにより、高耐久性と低ランニングコストを両立しています」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「「品質を保持した上でコスト削減」という深谷赤十字病院の方針に基づき、2019年より導入いただいています」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「印刷品質保持とコスト削減に加え、最適配置を行うことで集約化を実現し、電気使用量やスペース削減にも貢献しています」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
+  - 「「脱炭素化」に対する企業の取組が加速し、温暖化やそれにまつわる自然災害の影響を低減」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「長期信頼性、品質、信用力…だから、京セラ」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「大切な贈り物に、確かな品質を」（https://www.kyocera.co.jp/prdct/lead/corporate-gifts/・1回目）
+  - 「ものづくり企業ならではの確かな品質と快適な使い心地で、感謝の思いが伝わる上質な贈答品・記念品をお届けします」（https://www.kyocera.co.jp/prdct/lead/corporate-gifts/・1回目）
+  - 「※商品・数量・名入れ内容等に​より​納期が​異なる​場合が​ございます」（https://www.kyocera.co.jp/prdct/lead/corporate-gifts/・1回目）
+  - 「さらに蓄電池や関連製品の拡充に加え、電力エネルギーサービス事業も展開し、これからも地球環境の保護や脱炭素社会の実現に貢献していきます」（https://www.kyocera.co.jp/company/division/environment_energy.html・1回目）
+  - 「高品質・長寿命の京セラ製太陽光発電システムの設置が可能で、契約期間終了後は設備を無償譲渡します」（https://www.kyocera.co.jp/company/division/environment_energy.html・1回目）
+  - 「会計・監査、法令違反、品質不正に関する情報受付窓口」（https://www.kyocera.co.jp/ir/・1回目）
+  - 「会計・監査、法令違反、品質不正に関する情報受付窓口」（https://www.kyocera.co.jp/ir/library/f_results.html・1回目）
+  - 「会計・監査、法令違反、品質不正に関する情報受付窓口」（https://www.kyocera.co.jp/ir/library/presentation.html・1回目）
+  - 「会計・監査、法令違反、品質不正に関する情報受付窓口」（https://www.kyocera.co.jp/ir/library/yuho.html・1回目）
+  - 「会計・監査、法令違反、品質不正に関する情報受付窓口」（https://www.kyocera.co.jp/ir/library/ir-day.html・1回目）
 - 顧客の競合：
-  - 「③ 京セラブランドシンボル、京瓷中国文社名ロゴにご注意ください」（https://www.kyocera.co.jp/counterfeit/index.html・1回目）
-  - 「ご購入時に、京セラブランドシンボル、京瓷中国文社名ロゴが正しいかをご確認ください」（https://www.kyocera.co.jp/counterfeit/index.html・1回目）
-  - 「模倣品の場合、京セラブランドシンボル、京瓷中国文社名ロゴのデザイン・形状等が異なる可能性があります」（https://www.kyocera.co.jp/counterfeit/index.html・1回目）
-  - 「画像コントロール技術により、他社より優れた色再現性を実現します」（https://www.kyocera.co.jp/prdct/camera/index.html・1回目）
-  - 「(4) 当社製品が直面する激しい競争による圧力」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「(4) 当社製品が直面する激しい競争による圧力」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_yosou.pdf・2回目）
-  - 「(4) 当社製品が直面する激しい競争による圧力」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「(4) 当社製品が直面する激しい競争による圧力」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_p.pdf・2回目）
-  - 「なお、独立社外取締役には、他社での経営経験を有する者を4名選任しています」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「また、取締役の他社での兼任状況は、株主総会招集通知、事業報告、有価証券報告書及び本報告書等を通じ、毎年開示を行って」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「・取締役の責務に応じて毎月支払う金銭報酬であり、個々の支給水準については、同業他社の支給水準を勘案のうえ、それぞれの役割に応じて」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「当社グループの約 7 割を占める海外市場での競争優位性の強化と」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
+  - 「御社のリサイクルは他社に比べて進んでいるので」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「リサイクルをしたほうがかなりコストの競争力があると思いますので、進んでいるとい」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「また、他社はまだ値上げのリリースを出していないようであり、御社が早く出されたのかなという」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「この動きについては弊社だけではなく、他社さんも値上げを進められております」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「中国ではタングステンの価格が少し下がってきているので、中国市場は別ですが、そのほかの地域」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「シェアが上がっているのか、採用がどのように増えているのか等、データセンターの全体感に」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「半導体製造装置向けファインセラミック部品については、従前よりわれわれが非常に高いシェアを」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「一部他社とシェアを分け合っているエッチャー用の静電」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「チャック等については、シェアを上げていくべく、いろいろな取り組みを行っており、新たな開発」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「ですので、既存のシェアを持っているところは、数量とシ」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「ェアをしっかり維持するとともに、シェアの比較的弱かったところはケアして上げていきます」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「セラミックパッケージについては従前より非常に高いシェアを有しておりますので、現在の引き」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
 - 自社の競合（すでに入っている売り手）：
-  - 「個人情報保護への対応（大学における導入事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「トラブル対応の時間短縮/サービスレベル向上（大学における導入事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「BYOD対応やクラウドストレージ連携（大学における導入事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「ランニングコスト管理（大学における導入事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「オンデマンド印刷で放置プリント削減（大学における導入事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「印刷トラブルの抑制でサービスレベル向上（大学における導入事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「ランニングコスト削減（大学における導入事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「Cotopat® Screen導入事例 京都市役所の詳細はこちら」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「日本赤十字社 深谷赤十字病院の導入事例詳細はこちら」（https://www.kyocera.co.jp/prdct/web_solution/medical/・1回目）
-  - 「㈱サン・キャピタル・パートナーズ・ジャパン代表取締役会長兼CEO」（https://www.kyocera.co.jp/company/directors.html・1回目）
-  - 「(6) 外部委託先や社内工程における製造の遅延又は不良の発生」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「(6) 外部委託先や社内工程における製造の遅延又は不良の発生」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_yosou.pdf・2回目）
+  - 「※ 施工代理店は弊社が業務提携している設備設置業者です」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「導入事例集01 カーボンニュートラル対策編」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「導入事例集01」（https://www.kyocera.co.jp/prdct/energy/kepa/・1回目）
+  - 「シナジーや協業の成果がどのように表れてきているのか、今後そのように表れてくるのかご教示」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「作島 [A]：シナジー等については、まだ具体的な協業がスタートしたばかりでございます」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「一方、販売面の協業については、2027.3 期上期に、特に欧州における販売を京セラで担うという」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「製造部門の協業については、さらに 2028.3 期の前半に生産の体制を整える計画でございます」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「(6) 外部委託先や社内工程における製造の遅延又は不良の発生」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
+  - 「(6) 外部委託先や社内工程における製造の遅延又は不良の発生」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_1Q_tannsin.pdf・2回目）
+  - 「j. 外部委託先や社内工程における製造の遅延または不良の発生に関するリスク」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「当社は、部品の製造や製品の組立の一部を単一もしくは限られた数社の取引先に外部委託しています」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「当社は、外部委託先の選定にあたり「購買基本方針」を定め、十分な検討の上、委託先を選定しています」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
 - 採用（足りない人・職種）：
+  - 「大手鉄鋼専門商社である伊藤忠丸紅鉄鋼(MISI)・阪和興業・メタルワン・日鉄物産・JFE商事の特徴・強み・年収・採用実績・社風の違いを比較しています」（https://unistyleinc.com/techniques/1890・3回目）
+  - 「【職種別 想定質問100選】 京セラ | 中途面接｜中途採用で聞かれる質問と模範回答を徹底解説｜転職」（https://note.com/tag/%E4%BA%AC%E3%82%BB%E3%83%A9・3回目）
   - 「2026年4月時点で在籍社員に占める中途採用者（過去に実施したM&Aにより当社社員となった者を含む」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
   - 「約40%であり、加えて課長職以上に占める中途採用者比率も約41%で、多様な人材の確保・登用については実現しているものと」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
   - 「今後も中途採用者の登用を積極的に進めてまいります」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
@@ -139,35 +141,34 @@
   - 「Strength ｰTDKの強みｰ | TDK新卒採用サイト - TDK Corporation」（https://unistyleinc.com/techniques/1890・3回目）
   - 「5社の平均勤続年数・平均年齢・平均年収・採用実績比較」（https://unistyleinc.com/techniques/1890・3回目）
   - 「次に大手電子部品メーカー5社の平均勤続年数・平均年齢・平均年収・採用実績を比較します」（https://unistyleinc.com/techniques/1890・3回目）
-  - 「大手電子部品メーカー5社の平均勤続年数・平均年齢・平均年収・採用実績は以下の通りです」（https://unistyleinc.com/techniques/1890・3回目）
-  - 「採用実績は2023年4月の入社予定者の数を載せております」（https://unistyleinc.com/techniques/1890・3回目）
 - 発言（社長・役員）：
-  - 「その想いの原点は、人類や社会の進歩発展に貢献するという京セラの理念にあります」（https://www.kyocera.co.jp/company/index.html・1回目）
-  - 「その想いの原点は、人類や社会の進歩発展に貢献するという京セラの理念にあります」（https://www.kyocera.co.jp/company/・1回目）
-  - 「（現 KYOCERA DOCUMENT SOLUTIONS AMERICA,INC.）社長」（https://www.kyocera.co.jp/company/directors.html・1回目）
-  - 「京セラドキュメントソリューションズ㈱代表取締役社長」（https://www.kyocera.co.jp/company/directors.html・1回目）
-  - 「KYOCERA WIRELESS CORP.副社長」（https://www.kyocera.co.jp/company/directors.html・1回目）
-  - 「㈱サン・キャピタル・パートナーズ・ジャパン代表取締役会長兼CEO」（https://www.kyocera.co.jp/company/directors.html・1回目）
-  - 「㈱企業再生支援機構(現 ㈱地域経済活性化支援機構) 代表取締役専務」（https://www.kyocera.co.jp/company/directors.html・1回目）
-  - 「アスパラントグループ㈱代表取締役社長/CEO」（https://www.kyocera.co.jp/company/directors.html・1回目）
-  - 「KYOCERA International,Inc. 取締役社長」（https://www.kyocera.co.jp/company/directors.html・1回目）
-  - 「京セラコミュニケーションシステム㈱代表取締役社長」（https://www.kyocera.co.jp/company/directors.html・1回目）
-  - 「代表者 (役職名) 代表取締役社長 執行役員社長最高経営責任者 (氏名) 作島 史朗」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「代表者 (役職名) 代表取締役社長 執行役員社長最高経営責任者 (氏名) 作島 史朗」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「「クリーンエネルギーの普及を通じて世のため、人のために貢献する」という想いのもと、これまで約半世紀にわたり太陽電池の開発・供給・保守を続けてきました」（https://www.kyocera.co.jp/company/division/environment_energy.html・1回目）
+  - 「代表取締役社長兼執行役員社長 最高経営責任者 作島 史朗（以下、作島）」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「代表取締役社長兼執行役員社長最高経営責任者 作島史朗でございます」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「それでは、社長の作島より決算の内容についてご説明いたします」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「作島社長、お願いいたします」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「私は本年 4 月に社長に就任して以来、新任の社長・CEO として、CFO の千田とともに、現場の」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「代表者 (役職名) 代表取締役社長 執行役員社長最高経営責任者 (氏名) 作島 史朗」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
+  - 「代表者 (役職名) 代表取締役社長 執行役員社長最高経営責任者 (氏名) 作島 史朗」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_1Q_tannsin.pdf・2回目）
+  - 「【代表者の役職氏名】 取締役社長 谷 本 秀 夫」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「策定及び実施に向けて、代表取締役及び経営改革担当役員並びにコーポレート担当役員が中心となる経営改革プロジェク」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「当社は、京セラフィロソフィの教育及び浸透を図るため、代表取締役会長を委員長とした「全社フィロソフィ委員会」」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「は、代表取締役会長とフィロソフィをテーマに対話するセッションを開催し、フィロソフィを兼ね備えた次代の経営リー」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
 - 政治（法・補助・規制）：
-  - 「(13) 既存の法規制又は新たな法規制への意図しない抵触」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「(14) 環境規制の強化による環境に関わる賠償責任及び遵守義務の負担」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「(13) 既存の法規制又は新たな法規制への意図しない抵触」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_yosou.pdf・2回目）
-  - 「(14) 環境規制の強化による環境に関わる賠償責任及び遵守義務の負担」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_yosou.pdf・2回目）
-  - 「(13) 既存の法規制又は新たな法規制への意図しない抵触」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「(14) 環境規制の強化による環境に関わる賠償責任及び遵守義務の負担」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「経済産業省より「重要鉱物の安定供給確保に向けた供給確保計画」として認定」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_p.pdf・2回目）
-  - 「(13) 既存の法規制又は新たな法規制への意図しない抵触」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_p.pdf・2回目）
-  - 「(14) 環境規制の強化による環境に関わる賠償責任及び遵守義務の負担」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_p.pdf・2回目）
-  - 「⑥当社グループから多額の寄付または助成（年間1,000万円または寄付先・助成先の総収入の2％のいずれか大きい額以上の寄付または」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
-  - 「京セラグループ企業である当社では、コンゴ民主共和国およびその隣接国で採掘される鉱物資源が人権侵害を引き起こしている武装勢力の資金源となっていることから制定された米国金融規制改革法（ドット・フランク法）や、EU紛争鉱物規則などの法規に対応しています」（https://www.kyoceradocumentsolutions.com/global/ja/sustainability/society/partners.html・3回目）
-  - 「※ 責任ある鉱物と第三者が認定するプログラム」（https://www.kyoceradocumentsolutions.com/global/ja/sustainability/society/partners.html・3回目）
+  - 「今までは単純な鏡（ミラー）でしたが、2014年の米国法規制などもあり、カメラを使用したバックミラーが増えてきています」（https://www.kyocera.co.jp/prdct/display/application/detail/automobile_emirror.html・1回目）
+  - 「なお、本件は経済産業省より、重要鉱物の安定供給確保に向けた供給確保計画として認定を受けて」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
+  - 「(13) 既存の法規制又は新たな法規制への意図しない抵触」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
+  - 「(14) 環境規制の強化による環境に関わる賠償責任及び遵守義務の負担」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
+  - 「(13) 既存の法規制又は新たな法規制への意図しない抵触」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_1Q_tannsin.pdf・2回目）
+  - 「(14) 環境規制の強化による環境に関わる賠償責任及び遵守義務の負担」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_1Q_tannsin.pdf・2回目）
+  - 「市場において、当社にとって望ましくない政治的・地政学的・経済的要因により、経済安全保障政策・投資規制・製品や」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「原材料の輸出入の規制・収益の本国送金規制・関税の引き上げ等に関する予期できない法律・規制の変更等のリスクに直」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「投資規制・収益の本国送金規制については、当社及びグループ各社にお」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「いて規制変更の情報を早期に収集し、当該国で保有する会社財産を国外に退避させるなど、適切に対処するよう取り組む」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「そのため、これに関する予期できない法律・規制の変更等のリスクやレピュテーションリスクに直面する可能性」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
+  - 「仮に、当社の環境関連法令の義務違反等が判明した場合には、規制当局から」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
 - 経済（売上・利益・投資額）：
+  - 「"第1四半期実績は前年同期比 増収増益 各部門の戦略的取組みを進め、さらなる業績拡大を目指す"」（https://www.kyocera.co.jp/ir/library/presentation.html・1回目）
   - 「売上高 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的1株当たり親会社の所有者に帰属する当期利益」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
   - 「金 額 売上高比(％) 金 額 売上高比(％) 増減金額 増減率(％)」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
   - 「売上高 991,385 100.0 1,078,337 100.0 86,952 8.8」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
@@ -179,183 +180,184 @@
   - 「利益は、高付加価値製品の増収に伴うコアコンポーネント及び電子部品の収益拡大に加え、ソリュ」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
   - 「ーションにおける主要既存事業の増収効果が、当中間連結会計期間において計上したGaN（窒化ガリウ」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
   - 「ム）デバイス事業におけるのれん及び無形資産の減損損失約295億円及びエネルギー関連製品に係る引」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
-  - 「当金約76億円の合計約371億円の一時的な損失の影響を上回ったことから、大幅に増加しました」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
 - 技術（特許・開発）：
-  - 「そこで京セラは軽量・⾼剛性・⾼精度なウエハステージ⽤部材をオーダーメイドで開発・提供しています」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「「『熱膨張率ゼロ』への挑戦！低⽐重・低熱膨張セラミック材料の開発 」はこちら」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「電⼦機器の作動をサポートする電⼦部品であるコンデンサですが、京セラではBGAの隙間にも実装可能な⼩型・薄型で105℃の⾼温にも耐えられる「薄型⾼容量コンデンサ」を開発しています」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「京セラは、医療のDX化を実現する製品やサービスを提供し、最新技術とやさしさを融合させることで、「やさしいスマートホスピタル」を目指します」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「京セラ研究開発本部のオープンイノベーション活動に関する情報発信を通じて、広くステークホルダーと共創を図ります」（https://www.kyocera.co.jp/prdct/web_solution/semicon/?bnr_top・1回目）
-  - 「医療の課題に向き合い、最新技術による医療DXを通じて、快適で効率的な「スマートホスピタル」の実現を目指します」（https://www.kyocera.co.jp/prdct/business.html・1回目）
-  - 「医療の課題に向き合い、最新技術による医療DXを通じて、快適で効率的な「スマートホスピタル」の実現を目指します」（https://www.kyocera.co.jp/prdct/business_field.html・1回目）
-  - 「医療の課題に向き合い、最新技術による医療DXを通じて、快適で効率的な「スマートホスピタル」の実現を目指します」（https://www.kyocera.co.jp/prdct/business_keyword.html・1回目）
-  - 「多機能化（多孔質セラミックヒーター 開発事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「耐久性/信頼性（ケーシングピエゾアクチュエーター開発事例）」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「工場の人手不足解消：ばら積み部品のピッキング作業の自動化」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
-  - 「医療の課題に向き合い、最新技術による医療DXを通じて、快適で効率的な「スマートホスピタル」の実現を目指します」（https://www.kyocera.co.jp/prdct/business_assignment.html・1回目）
+  - 「当社は長年の車載市場への供給実績を活かし、強い光に対して耐性のあるディスプレイを開発しており、ディスプレイの誤動作防止につなげています」（https://www.kyocera.co.jp/prdct/display/application/detail/automobile_emirror.html・1回目）
+  - 「ガラスを曲面にカットする技術を有しており、バックミラーのデザイン性を損なわない開発が可能です」（https://www.kyocera.co.jp/prdct/display/application/detail/automobile_emirror.html・1回目）
+  - 「「クリーンエネルギーの普及を通じて世のため、人のために貢献する」という想いのもと、これまで約半世紀にわたり太陽電池の開発・供給・保守を続けてきました」（https://www.kyocera.co.jp/company/division/environment_energy.html・1回目）
+  - 「さまざまな分野で人と環境に優しい製品開発を推進」（https://www.kyocera.co.jp/company/division/environment_energy.html・1回目）
+  - 「海洋開発や水中ロボットの活用拡大に伴い、水中での高速かつ安定した無線通信が求められています」（https://www.kyocera.co.jp/company/division/other.html・1回目）
+  - 「そこで、当社は長年、培ってきた通信・光学技術にGaN（窒化ガリウム）系青色半導体レーザーを組み合わせることにより水中でも高速・低遅延なGbps級の伝送を可能にする、水中光無線通信システムを開発しています」（https://www.kyocera.co.jp/company/division/other.html・1回目）
+  - 「「大規模集積回路用セラミック多層パッケージの開発」により第18回大河内記念生産特賞を受賞」（https://www.kyocera.co.jp/company/history/until1979.html・1回目）
+  - 「「電子回路用セラミック積層技術の開発」により、第16回科学技術庁長官賞を受賞」（https://www.kyocera.co.jp/company/history/until1979.html・1回目）
+  - 「当中間連結会計期間の業績は、主に、AI及び半導体関連市場向け部品の旺盛な需要に支えられ、想」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「研究開発費 13,067 7,520 18,312 9,620 48,519 8,659 57,178」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「(4)研究開発費の調整額は各セグメントに帰属しない要素技術研究にかかる研究開発費です」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
+  - 「研究開発費 11,644 7,914 17,563 11,671 48,792 8,392 57,184」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
 - 検索結果の抜粋：
+  - 「事業 説明 会 資料 | IRライブラリー | 株主・投資家の皆様へ — 事業 説明 会 資料 | IRライブラリー | 株主・投資家の皆様へ 京セラ株式会社 https://www.kyocera.co.jp > ... > IRライブラリー」（https://www.kyocera.co.jp/ir/library/ir-day.html・3回目）
+  - 「INTEGRATED REPORT - 2024 - 京セラ — INTEGRATED REPORT - 2024 - 京セラ 京セラ株式会社 PDF https://www.kyocera.co.jp > pdf > integrated_2024」（https://www.kyocera.co.jp/ir/library/pdf/catalog/integrated_2024.pdf・3回目）
+  - 「ニュースイッチ＠ 日刊工業新聞 on X: " 京セラ 、通期見通し上方 ... — ニュースイッチ＠ 日刊工業新聞 on X: " 京セラ 、通期見通し上方 ... X https://x.com > @newswitch_」（https://x.com/newswitch_/status/2118230408579973496・3回目）
+  - 「京セラ 、海中で毎秒750メガビット通信 GaN光無線で成功 — 京セラ 、海中で毎秒750メガビット通信 GaN光無線で成功 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/763319・3回目）
+  - 「京セラ の オープンイノベーション 戦略 - Plug and Play Japan — 京セラ の オープンイノベーション 戦略 - Plug and Play Japan Plug and Play Japan https://japan.plugandplaytechcenter.com > blog > 09-06-p...」（https://japan.plugandplaytechcenter.com/all-insights/blog/2023/09-06-partner-interview-kyocera・3回目）
+  - 「京セラ 募集職種 キャリアの求人情報をすべて見る （10,546,682件） — 京セラ 募集職種 キャリアの求人情報をすべて見る （10,546,682件） スタンバイ」（https://jp.stanby.com/search?q=%E4%BA%AC%E3%82%BB%E3%83%A9+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「太陽光発電に 京セラ の蓄電池はおすすめ？価格・特徴から 補助 ... — 太陽光発電に 京セラ の蓄電池はおすすめ？価格・特徴から 補助 ... えねこ https://e-neco.com > ... > 失敗しない選び方・比較」（https://e-neco.com/media/article/0183-2/・3回目）
   - 「有価証券報告書 - 京セラ — 有価証券報告書 - 京セラ 京セラ株式会社 PDF https://www.kyocera.co.jp > library > pdf > yuho」（https://www.kyocera.co.jp/ir/library/pdf/yuho/FY24_4Q_yuho.pdf・3回目）
   - 「京セラ [6971]：コーポレート・ガバナンスに関する 報告書 ... — 京セラ [6971]：コーポレート・ガバナンスに関する 報告書 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260324587280/・3回目）
   - 「有価証券報告書 - 京セラ — 有価証券報告書 - 京セラ 京セラ株式会社 PDF https://www.kyocera.co.jp > library > pdf」（https://www.kyocera.co.jp/ir/library/pdf/FY20_4Q_yuho.pdf・3回目）
   - 「京セラ 株式会社 — 京セラ 株式会社 finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260708589830.pdf・3回目）
   - 「6971 京セラ | 有報資料 - IRBANK — 6971 京セラ | 有報資料 - IRBANK IRBANK https://irbank.net > ... > 有価証券報告書-第72期」（https://irbank.net/E01182/task・3回目）
-  - 「中期経営計画 - 京セラ — 中期経営計画 - 京セラ 京セラ株式会社 PDF https://www.kyocera.co.jp > pdf > 03_strategy」（https://www.kyocera.co.jp/sustainability/catalog/pdf/2023/03_strategy.pdf・3回目）
-  - 「決算説明会資料 | IRライブラリー | 株主・投資家の皆様へ — 決算説明会資料 | IRライブラリー | 株主・投資家の皆様へ 京セラ株式会社 https://www.kyocera.co.jp > ... > Rライブラリー」（https://www.kyocera.co.jp/ir/library/presentation.html・3回目）
-  - 「経営 改革プロジェクト 進捗報告 - 京セラ — 経営 改革プロジェクト 進捗報告 - 京セラ 京セラ株式会社 PDF https://www.kyocera.co.jp > library > pdf > ir-day」（https://www.kyocera.co.jp/ir/library/pdf/ir-day/FY26_3Q_p_ProgressUpdate.pdf・3回目）
-  - 「KDDI株売却と 計画 撤回｜2025年・ 京セラ - The社史 — KDDI株売却と 計画 撤回｜2025年・ 京セラ - The社史 The社史 https://the-shashi.com > 京セラの歴史 > 決断社史」（https://the-shashi.com/tse/6971/decisions/structural-reform-2025/・3回目）
-  - 「2023年3月期 実績 2024年3月期 業績予想 中期経営計画 1 2 3 — 2023年3月期 実績 2024年3月期 業績予想 中期経営計画 1 2 3 京セラ株式会社 PDF https://www.kyocera.co.jp > pdf > presentation」（https://www.kyocera.co.jp/ir/library/pdf/presentation/FY23_4Q_p_excerpt.pdf・3回目）
-  - 「決算説明 会 資料 | IRライブラリー | 株主・投資家の皆様へ — 決算説明 会 資料 | IRライブラリー | 株主・投資家の皆様へ 京セラ株式会社 https://www.kyocera.co.jp > ... > Rライブラリー」（https://www.kyocera.co.jp/ir/library/presentation.html・3回目）
-  - 「株主・投資家の皆様へ - 京セラ — 株主・投資家の皆様へ - 京セラ 京セラ株式会社 https://www.kyocera.co.jp > ...」（https://www.kyocera.co.jp/ir/・3回目）
-- 株主：記載なし（3回確認済み：公式40頁／PDF・画像17件／外部51頁・検索22回）
-- 設立：記載なし（3回確認済み：公式40頁／PDF・画像17件／外部51頁・検索22回）
-- 代表者：記載なし（3回確認済み：公式40頁／PDF・画像17件／外部51頁・検索22回）
-- 役員：記載なし（3回確認済み：公式40頁／PDF・画像17件／外部51頁・検索22回）
-- 取引先：記載なし（3回確認済み：公式40頁／PDF・画像17件／外部51頁・検索22回）
-- 取引銀行：記載なし（3回確認済み：公式40頁／PDF・画像17件／外部51頁・検索22回）
-- 許認可：記載なし（3回確認済み：公式40頁／PDF・画像17件／外部51頁・検索22回）
+- 株主：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部52頁・検索22回）
+- 設立：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部52頁・検索22回）
+- 代表者：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部52頁・検索22回）
+- 役員：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部52頁・検索22回）
+- 取引先：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部52頁・検索22回）
+- 取引銀行：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部52頁・検索22回）
+- 許認可：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部52頁・検索22回）
 
 ## 出光興産
 - 公式URL：https://www.idemitsu.com/（search:yahoo_jp:出光興産）
 - 創業年度：設立年月日：1940年3月30日（創業1911年6月20日）（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-- 創業年度：設立：1940年3月30日（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 創業年度：設立：1940年 （ 昭和 15年） 3月30日（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
+- 創業年度：設立：1940年3月30日（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 株主：日本マスタートラスト信託銀行 （信託口）10.77% 日章興産 10.39% アラムコ・オーバーシーズ・カンパニー・ビー・ヴィ 9.41% 公益財団法人出光美術館 8.30% 日本カストディ銀行 （信託口）3.24% 正和興産 2.03% （2025年3月31日現在）（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 資本金：1,683億円（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-- 資本金：1,683億円（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 資本金：1,683億円（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
-- 従業員数：14,392名 (2026年3⽉末)（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
+- 資本金：1,683億円（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 従業員数：連結：13,814名 単体：5,060名 （2025年3月31日現在）（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
+- 従業員数：14,392名 (2026年3⽉末)（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 代表者：酒井 則明（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-- 代表者：代表取締役社長　酒井 則明（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 代表者：代表取締役社長 社長執行役員CEO 酒井則明 代表取締役副社長 副社長執行役員COO 平野敦彦 代表取締役副社長 副社長執行役員CSO 澤正彦（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
-- 所在地：PLO409, Jalan Pekeliling, 81700 Pasir Gudang, Johor, Malaysia（https://www.idemitsu.com/jp/business/basic_chemicals/index.html・1回目）
+- 代表者：代表取締役社長　酒井 則明（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 所在地：〒100-8321 東京都千代田区大手町一丁目2番1号 アクセスマップはこちら（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-- 所在地：〒100-8321　東京都千代田区大手町一丁目2番1号（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
+- 所在地：PLO409, Jalan Pekeliling, 81700 Pasir Gudang, Johor, Malaysia（https://www.idemitsu.com/jp/business/basic_chemicals/index.html・1回目）
+- 所在地：日本 〒 100-8321 東京都 千代田区 大手町 一丁目2番1号 Otemachi One タワー 北緯35度41分16.0秒 東経139度45分44.0秒 ﻿ / ﻿ 北緯35.687778度 東経139.762222度 ﻿ / 35.687778; 139.762222 座標 : 北緯35度41分16.0秒 東経139度45分44.0秒 ﻿ / ﻿ 北緯35.687778度 東経139.762222度 ﻿ / 35.687778; 139.762222（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 売上高：8.1兆円（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-- 売上高：8.1兆円 (2026年3⽉末)（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 売上高：連結：6兆6,867億61百万円 単体：5兆640億29百万円 （2022年3月期） [ 3 ]（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
-- 事業内容：■石油・石油化学製品の製造・販売 ■石油・石炭その他鉱物資源の開発・生産・販売 ■高機能材料の開発・製造・販売 ■電力・再生可能エネルギー事業など（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
-- 事業内容：本社（東京都大手町）、製油所・事業所（北海道苫小牧市、千葉県市原市、愛知県知多市、山口県周南市）、他HP参照（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
-- 事業内容：石油製品 ・ 石油化学 製品・ 電子材料 の製造・販売（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
+- 売上高：8.1兆円 (2026年3⽉末)（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
+- 事業内容：既存事業の深化」・「GROWTH：成長事業の創出」・「CNX：低／脱炭素事業への挑戦」の3つのテーマについて、当社の5つの事業セグメント横断で、様々なパートナー企業との共創を通じて推進していきます（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+- 事業内容：経営戦略に連動した人事制度の企画・運用および採用・人材開発の推進（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+- 事業内容：エネルギー転換・新事業領域における事業戦略の策定および新規ビジネスの立ち上げ（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
 - 取引先：特約販売店、素材メーカー、自動車・家電等各種メーカー、電力会社など（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 株主構成：
+  - 「プロジェクト・ファイナンスによる調達額について銀行団に対し行っている債務保証及びスポンサーによる出資・貸付のうち、NSRPへの当社グループ出資比率相当の35.1%については、ベトナムにおける政治経済情勢、法律や規制及び雇用環境の変化等からプロジェクトが計画どおりに進展しない場合、当社グループの財政状態及び経営成績は影響を受ける可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「法人税、住民税及び事業税と法人税等調整額を合わせた税金費用は、570億円（前期比＋1.2％）となり、非支配株主に帰属する当期純損益は△68億円（前期比△48億円）となりました」（https://kitaishihon.com/company/5019/business・3回目）
+  - 「以上の結果、親会社株主に帰属する当期純利益は1,719億円（前期比＋65.2％）となりました」（https://kitaishihon.com/company/5019/business・3回目）
+  - 「当期末の純資産合計は、親会社株主に帰属する当期純利益の計上や為替換算調整勘定の増加、配当金の支払いなどにより、１兆9,511億円（前期末比＋2,134億円）となりました」（https://kitaishihon.com/company/5019/business・3回目）
+  - 「自己資本利益率（ROE）：在庫影響除き親会社株主に帰属する当期純利益／自己資本（期首期末平均）」（https://kitaishihon.com/company/5019/business・3回目）
+  - 「投下資本利益率（ROIC）：（在庫影響除き税後営業利益+持分法投資損益）／（株主資本+有利子負債）」（https://kitaishihon.com/company/5019/business・3回目）
+  - 「ネットD/Eレシオ：（有利子負債－現預金及び短期運用有価証券）／（純資産－非支配株主持分）」（https://kitaishihon.com/company/5019/business・3回目）
+  - 「自己資本比率：（純資産－非支配株主持分）／総資産」（https://kitaishihon.com/company/5019/business・3回目）
+  - 「上場企業の決算発表日程や株主総会の日程を事前に確認することができます」（https://www.nikkei.com/nkd/company/?scode=5019・3回目）
   - 「Shareholder Returns and Dividends」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
   - 「General Meeting of Shareholders」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
   - 「株主様専用WEBサイト「いでみつコネクト」」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「第111回定時株主総会決議ご通知」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「株主総会の模様（当日来場の株主様からの質疑の受付と回答は省略しております」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「※株主様からいただいたご質問のうち、次の事項に関する当社回答も掲載しています」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「「第111回 定時株主総会招集ご通知」の一部訂正について」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「第111回定時株主総会招集ご通知」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「第111回定時株主総会招集通知に際しての電子提供措置事項」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「株主様専用WEBサイト「いでみつコネクト」」（https://www.idemitsu.com/jp/ir/index.html・1回目）
-  - 「Shareholder Returns and Dividends」（https://www.idemitsu.com/jp/ir/library/presentation_materials/index.html・1回目）
-  - 「General Meeting of Shareholders」（https://www.idemitsu.com/jp/ir/library/presentation_materials/index.html・1回目）
 - 創業年度：
-  - 「創業から受け継ぐ、大事な心得です」（https://www.idemitsu.com/jp/company/interview/index.html・1回目）
-  - 「出光興産の歴史は、1911年の創業以来、」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「「真に働く」を掲げ、1911年の創業以来「人が中心の経営」を貫いてきました」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「エス・ディー・エス バイオテックとアグロ カネショウを統合 新会社「出光クロップアーツ株式会社」を2027年4月に設立」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「1972 年に設立された、出光興産の 100%出資子会社です」（https://www.idemitsu.com/jp/business/basic_chemicals/index.html・1回目）
-  - 「当社グループは創業以来、「人が中心の経営」を掲げ、事業を通じて人を育てることを経営の根幹に据えてきました」（https://www.idemitsu.com/jp/company/message/index.html・1回目）
-  - 「1940年3月30日（創業1911年6月20日）」（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-  - 「創業から現在までの歩み、事業内容、経営理念や人財についての考え方など、当社をはじめて知っていただく方向けのコンテンツを掲載しています」（https://www.idemitsu.com/jp/ir/individual_investors/index.html・1回目）
-  - 「当社は1911(明治44)年、出光佐三が北九州で創業した出光商会がルーツとなります」（https://www.idemitsu.com/jp/ir/individual_investors/index.html・1回目）
-  - 「人間中心の事業経営を生涯実践した創業者出光佐三の精神は現在も出光興産に根付いています」（https://www.idemitsu.com/jp/ir/individual_investors/index.html・1回目）
-  - 「出光興産は創業以来、一貫して「人が中心の経営」を掲げてきた」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
-  - 「—創業以来最大と言っても過言ではないポートフォリオ転換に直面する今、「変革をカタチ」にするのは「人財」である— さまざまな取り組みから、出光興産が人財戦略を経営の根幹に据えている様子が伺い知れる」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
+  - 「当社は1911年の創業以来、「人間尊重」を経営の原点に掲げ、「真に働く」という企業理念のもと、「人が中心の経営」を貫いてきました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「当社には創業以来「一人ひとりが経営者」という言葉がありますが、従業員一人ひとりの主体的な姿勢が社外からも評価されていることは、当社の強みであり、まさに「出光らしさ」だと認識しています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「サミュエル商会を横浜で設立（のちのシェル）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
+  - 「新津 恒吉、新潟 尼瀬で製油業を始める（1939年 新津石油設立）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
+  - 「早山 与三郎、独立して製油業を始める（1935年 早山石油設立）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
+  - 「サミュエル商会が石油部門を独立させ、日本にライジングサン石油（株）（後のシェル石油）設立」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
+  - 「出光佐三 門司（現北九州市）で出光商会を創業」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
+  - 「瀬島 猪之丞、東京で瀬島製油所を建設（1921年 旭石油設立）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
+  - 「石油化学徳山工場を建設（出光石油化学（株）設立）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
+  - 「1940年の設立以来、出光興産はエネルギー資源の供給を中心に、未来の可能性を模索」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「国内外のパートナー企業との企業間協業の推進およびジョイントベンチャー設立交渉」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「)を設立し、ベトナム社会主義共和国タインホア省ニソン経済区に20万バレル/日の石油精製設備とパラキシレンをはじめとする石油化学品製造設備を有するニソン製油所・石油化学コンプレックスを操業しています」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
 - 目標（中計・経営方針）：
-  - 「中期経営計画（2026-2030年度）策定にあたって」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「経営環境の不確実性の高まりを踏まえ、当社は新中計で事業戦略をリバランスし、より実践的なアプローチで「稼ぐ力」を強化することで、中長期的な成長を実現します」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「中長期的に成長が見込まれる領域で、当社の技術力・国内外ネットワーク等の強みを活かした事業創出を拡大していきます」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「2050年CN実現とともに、中長期的なエネルギー安全保障への貢献を見据え、時間軸を見極めながら、低/脱炭素事業へ挑戦していきます」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「中期経営計画（2026－2030年度）ハイライト」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「中期経営計画 ダイジェスト動画（4分）」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「中期経営計画（2026-2030）について、ダイジェスト動画でご説明します」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「中期経営計画の説明資料は、以下からダウンロード可能です」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「中期経営計画 記者会見動画（30分）」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「2023年～2025年度の前回中期経営計画資料はこちら」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「2030年ビジョン「責任ある変革者」、2050年ビジョン「変革をカタチに」を掲げ、」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「2030年ビジョン」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
+  - 「前中期経営計画では、2030年ビジョン「責任ある変革者」の実現に向け、エネルギーと素材の安定供給という使命を果たしながら、事業構造改革として既存事業の資本効率・収益力のさらなる向上とCN・循環型社会に向けた準備を並行して進めてきました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「事業構造改革の継続的な取り組みの結果、利益目標やROE目標の達成など、一定の成果を積み上げることができたと考えています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「一方で、前中期経営計画を策定した当時と比べると、CNを取り巻く環境は変化しており、社会実装までの時間軸についてはより慎重に見極めていく必要があります」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「このように前中期経営計画を通じて一定の成果を得た一方で、事業環境の不確実性が高まる中、当社が中長期的にどのような価値を創出していくのかを改めて問い直す必要がありました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「そこで、足元を着実に固めながら将来の成長を見据えた新たな中期経営計画を策定しました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「2026-2030年度の中期経営計画は、経営環境の不確実性の高まりを踏まえ、事業戦略をリバランスし、より実践的なアプローチで「稼ぐ力」を強化することで、持続的な成長と企業価値向上を実現します」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「「事業戦略」と「人財戦略」の両輪と、それを支え・加速させる「ビジネスプラットフォーム」の3つの要素を有機的に連携させることで、各種財務目標の達成、ひいては2030年ビジョン「責任ある変革者」を実現していきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「ベトナムのニソン製油所、基礎化学品事業、電力・再生可能エネルギー事業を課題事業と位置付け、前中期経営計画から計画的に構造改革を進めてきました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「GROWTHは、既存事業で培ってきた技術、顧客基盤、国内外ネットワークを土台に、中長期的な成長領域で新たな事業の創出と拡大を進めます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「こうした考え方を土台に、中期経営計画の人財戦略では「全ての社員を変革の主役に」、「もっと共創&イノベーションを」という2つの重点項目を掲げました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「混沌として不確実性の高い時代だからこそ、当社が掲げる2030年ビジョン「責任ある変革者」をいかに具体的な成果として社会に示していくかが問われていると思います」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「2026年度は、新中期経営計画スタートの年です」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
 - 課題・障壁：
-  - 「同時に、製油所や事業所をカーボンニュートラル実現のための拠点とする「CNXセンター化」や、SSを地域の課題を解決する生活支援基地とする「スマートよろずや」化に向けた取り組みを強化しています」（https://www.idemitsu.com/jp/index.html・1回目）
-  - 「これらの取り組みを5つの事業セグメント横断で、またパートナーとの共創を通じて推進し、企業価値を向上させるとともに、社会課題の解決にも貢献していきます」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「全国約6,000カ所のSS網を基盤にしながら、単なる燃料供給にとどまらず、地域課題を解決する“生活支援基地（スマートよろずや）”としての役割を強化し、特販店と連携した地域密着型の様々な機能のSSを展開することで、暮らしと産業を足元から支える」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「世界初の製品をパートナーとともに開発し、お客様の困りごとを一緒に解決」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「お客様の困りごとを様々なパートナーとともに解決することで、世界トップクラスの技術力を維持してきた潤滑油、有機EL」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「Idemitsu Group's materiality (key challenges)」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「同時に、製油所や事業所をカーボンニュートラル実現のための拠点とする「CNXセンター化」や、SSを地域の課題を解決する生活支援基地とする「スマートよろずや」化に向けた取り組みを強化しています」（https://www.idemitsu.com/jp/business/index.html・1回目）
-  - 「世界28カ国に製造・販売・研究開発ネットワークを有しており、お客様の課題やニーズに沿った商品開発を行っています」（https://www.idemitsu.com/jp/business/lube/index.html・1回目）
-  - 「お客様の潤滑油に対する課題や問題の解決に貢献する商品開発・技術支援に尽力しています」（https://www.idemitsu.com/jp/business/lube/index.html・1回目）
-  - 「独自技術のポリマー分散制御処方を採用した、プレミアムな施工性改善型ポリマー改質アスファルトⅡ型です」（https://www.idemitsu.com/jp/business/bitumen/index.html・1回目）
-  - 「混合温度を低下させて使用することも可能であり、アスファルト合材の製造時に必要な燃料とCO₂の削減、養生時間短縮により、早期の交通開放を可能にします」（https://www.idemitsu.com/jp/business/bitumen/index.html・1回目）
-  - 「旧アスファルトは長年の紫外線や雨水で酸化・組成が変化し、特に主成分である芳香族分が減少することで硬化、粘着性の低下、脆化します」（https://www.idemitsu.com/jp/business/bitumen/index.html・1回目）
+  - 「中東情勢の緊迫化による地政学リスクの高まりを背景に、エネルギー安全保障の重要性は改めて強く認識されるようになりました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「個々の事業の総和を超える価値を創出し、さらなる企業価値の向上と社会課題の解決に貢献していきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「課題事業への対応も、引き続きしっかりと進めます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「ベトナムのニソン製油所、基礎化学品事業、電力・再生可能エネルギー事業を課題事業と位置付け、前中期経営計画から計画的に構造改革を進めてきました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「基礎化学品事業については、市況悪化により収益改善は遅れていますが、エチレン装置の集約など生産能力の最適化や誘導品事業の競争力強化などの構造改革を急ぎます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「私は、エネルギー安全保障とCNは対立するものではなく、両輪で進めていくべき課題だと考えています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「一方で、グローバルガバナンスの観点では、取り組むべき課題が依然として存在します」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「これと並行し、事業リスクを含む多角的な情報をグループ全体で共有・活用できる仕組みを整えるべく、ERM（全社的リスクマネジメント）のさらなる高度化を図ります」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「リスクの早期把握に加え、シナリオ分析や地政学リスク評価といったインテリジェンス機能を強化することで、経営の意思決定の質を高め、不確実な情勢への対応力を磨いていく考えです」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「In parallel with this, we will pursue more sophisticated Enterprise Risk Management (ERM) with a view to establishing a framework to enable multiple types of information, including business risks, to be shared and utilized across the Group.」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「We will bolster intelligence functions, which are tasked with the early identification of risks as well as scenario analyses and geopolitical risk assessments. This will enhance the caliber of decision-making for management and sharpen our ability to respond to uncertainties.」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「顧客の課題に向き合い、」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
 - これから関心を持つこと：
-  - 「独自の研究開発力と技術力、ノウハウを生かし、持続可能な社会の実現に貢献するマテリアルの開発・供給を手掛けています」（https://www.idemitsu.com/jp/index.html・1回目）
-  - 「・教育投資額：誤 「67千円」 → 正 「69千円」」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「「出光興産がなぜ？」と驚かれるかもしれませんが、エネルギーと同じく生活に欠かせない「食」にも関係する化学農薬・生物農薬・機能性飼料などの研究開発・製造・販売も行っています」（https://www.idemitsu.com/jp/company/introduction/index.html・1回目）
-  - 「【音声配信公開】10/24実施 個人投資家説明会」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「【個人投資家向け】 日本証券新聞社主催 会社説明会 登壇のお知らせ」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「【個人投資家向け】 ラジオNIKKEI主催「ジャパンツアーIR＆櫻井英明株式講演 in札幌」 登壇のお知らせ」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「【動画公開】5/25実施 個人投資家説明会」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「【個人投資家向け】ログミーファイナンスIRセミナー登壇のお知らせ」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「LNG事業への本格参入に向けMidOcean Energyへ出資を決定」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「固体電解質（全固体電池材料）大型パイロット装置の最終投資決定および建設開始について」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「独自の研究開発力と技術力、ノウハウを生かし、持続可能な社会の実現に貢献するマテリアルの開発・供給を手掛けています」（https://www.idemitsu.com/jp/business/index.html・1回目）
-  - 「石油製品の製造過程で精製されるアスファルトの研究開発、製造、販売までを一貫して行っています」（https://www.idemitsu.com/jp/business/index.html・1回目）
+  - 「当社の経営の根幹となる人財戦略では、人的資本投資を通じて、従業員の成長とやりがいの最大化を図ってまいりました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「具体的には、現場力の強化に加え、デジタル技術の活用による運転・設備管理の高度化や稼働率向上に資する投資、本社と事業所の連携強化を進め、より高い水準での安定稼働を目指します」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「分散していた研究拠点を集約し、事業を横断した研究開発体制を構築するとともに、社外との連携を強化することで、研究開発から商業生産までを一体で推進できる体制を築きます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「足元の収益力を高め、将来への投資原資を生み出す」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「LNG 事業への本格参入に向けMidOcean Energyへ出資」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
+  - 「グループ全体の事業戦略策定、新規事業の企画立案、企業間協業の推進、官公庁・自治体対応などを担います」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「エネルギー転換・新事業領域における事業戦略の策定および新規ビジネスの立ち上げ」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「国内外のパートナー企業との企業間協業の推進およびジョイントベンチャー設立交渉」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「研究開発部門と連携した新技術（次世代燃料・機能性材料など）の量産化をはじめ、設備・プロセスの最適化によるコスト削減・品質向上に貢献」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「研究開発部門と連携した新技術（次世代燃料・機能性材料など）の量産化・プロセス開発」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「全固体電池のキーマテリアルである固体電解質をはじめ、次世代材料・高機能材料など、中長期的な研究開発を担います」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「エンジニアリングプラスチック、機能化学品などの研究開発・用途開発」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
 - 顧客の顧客（主要取引先・発注元）：
-  - 「日本の他、需要地である韓国、中国に生産拠点を有しており、主要顧客であるディスプレイメーカーへのグローバルな供給体制を構築しています」（https://www.idemitsu.com/jp/business/denzai/index.html・1回目）
-  - 「国内外のお取引先や特約販売店の皆様、物流や保全を担う協力会社、資源国や海外サプライヤーといったビジネスパートナー、そして多様なバックグラウンドを持つ社員一人ひとりとともに、人が持つ無限の可能性を信じ、エネルギーと素材の安定供給を粘り強くやり抜くとともに、新たな事業を切り拓きます」（https://www.idemitsu.com/jp/company/message/index.html・1回目）
-  - 「燃料油、基礎化学品、高機能材、電力・再生可能エネルギー、資源の各分野において、様々な分野のパートナー・顧客との信頼関係をベースに、多様なエネルギーと素材の開発・製造・販売を手掛けています」（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-  - 「燃料油、基礎化学品、高機能材、電力・再生可能エネルギー、資源の各分野に置いて、様々な分野のパートナー・顧客との信頼関係をベースに、多様なエネルギーと素材の開発・製造・販売を手掛けています」（https://www.idemitsu.com/jp/ir/individual_investors/index.html・1回目）
-  - 「出資が決まった投資先のSU企業には、出光興産の技術や研究開発力はもとより、サプライチェーンや顧客基盤なども適宜共有し、事業開発を支援している」（https://www.idemitsu.com/jp/company/interview/idemitsu_cvc.html・1回目）
-  - 「2020年Shell Global Solutions（オランダ）へ出向、プロセスエンジニアとして顧客への技術サービス提供業務に従事」（https://www.idemitsu.com/jp/company/interview/k-toyotsu.html・1回目）
-  - 「脱炭素社会の実現に向けて、顧客のニーズから設備設計の検討状況までを把握し、顧客および当社にとってベストなプロジェクトの進め方や方向性を示すことが求められます」」（https://www.idemitsu.com/jp/company/interview/k-toyotsu.html・1回目）
-  - 「それだけでなく原料が出来上がるまでの工程、製油所・事業所への輸送、製造過程、顧客への配送まで、一連のフロー全体でCO₂排出量がカウントされるのです」（https://www.idemitsu.com/jp/company/interview/k-toyotsu.html・1回目）
-  - 「冨田さんとは海外のお客様を一緒に訪問していますが、私が見落としてしまうような、顧客要望に関する技術的な難しさや時間軸的な課題などを、すかさずキャッチしてくれます」（https://www.idemitsu.com/jp/company/interview/innovation_center.html・1回目）
-  - 「「青色有機ELの基本コンセプトができたことで、これで取引先の要望に応えることができる、と達成感を覚えました」（https://www.idemitsu.com/jp/company/interview/m-funahashi.html・1回目）
-  - 「• Drive On 公式アプリを通じた顧客接点強化（ダウンロード数1,300万超）」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
-  - 「• ボディケア・メンテナンスを起点に、リアルとデジタル両面から顧客接点を強化し、ワンストップの」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
+  - 「GROWTHは、既存事業で培ってきた技術、顧客基盤、国内外ネットワークを土台に、中長期的な成長領域で新たな事業の創出と拡大を進めます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「事業や技術、顧客接点を有機的につなぎ、パートナーとの共創を通じて事業化の確度とスピードを高めていきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「「さらなるグローバル展開」は、海外トレーディング基盤や潤滑油事業の顧客ネットワーク、資源開発・操業の知見など、これまで培ってきた強みを最大限に活かし、潤滑油、ガス・LNG、資源分野を中心にグローバルでの事業展開を加速します」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「当社アプリ「Drive On」を活用した顧客接点の拡充に加え、カーケアや車販などのサービスを組み合わせながら、サービスステーションの付加価値向上と新たな顧客価値の創出を進めます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「日本は、エネルギー調達の面で外部環境の影響を受けやすいため、特定の資源に過度に依存しない供給体制を構築していくことが、将来にわたる安定供給につながると考えています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「顧客の課題に向き合い、」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「BtoB（法人）・BtoC（個人）顧客に対する営業およびマーケティングを展開し、エネルギー製品・高機能材などの価値最大化を担います」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「製品販売にとどまらず、顧客の課題を起点としたソリューション提案や新規市場の開拓にも取り組みます」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「法人顧客（BtoB）向けエネルギー製品・高機能材などの営業および課題解決提案」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「顧客ニーズや市場動向の分析にもとづいた新製品・新サービスの企画・価値最大化」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「当社の調達に関する方針、ガイドラインのご紹介と、パートナーとなっていただける新規取引先の募集を行っています」（https://www.idemitsu.com/jp/company/governance/index.html・1回目）
+  - 「新規取引にあたっては「お取引先の登録」が必要です」（https://www.idemitsu.com/jp/company/governance/index.html・1回目）
 - 顧客の顧客が求めること（調達方針・要求）：
-  - 「2050年CN実現とともに、中長期的なエネルギー安全保障への貢献を見据え、時間軸を見極めながら、低/脱炭素事業へ挑戦していきます」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「同時に、将来的なカーボンニュートラルの実現を見据え、全国の製油所・事業所を地域特性に合わせた低/脱炭素エネルギー・素材を供給するCNXセンターへと転換する取り組みを進めるとともに、サービスステーションを活用した多様なモビリティサービスの提供にも注力しています」（https://www.idemitsu.com/jp/business/oil/index.html・1回目）
-  - 「世界各国で同一品質の供給体制を確立し、お客様の様々なご要望にお応えします」（https://www.idemitsu.com/jp/business/lube/index.html・1回目）
-  - 「製造工程ではサイロ貯蔵後の廃棄合材を削減し、品質を維持しつつ再生骨材比率を高めることができるため、舗装のリサイクル率を向上できます」（https://www.idemitsu.com/jp/business/bitumen/index.html・1回目）
-  - 「失われた成分を補い、旧アスファルトをアスファルト本来の品質に回復させます」（https://www.idemitsu.com/jp/business/bitumen/index.html・1回目）
-  - 「舗装品質はそのままに、施工性・作業性を大幅に改善しつつ、混合・施工時に発生する「におい」を低減しました」（https://www.idemitsu.com/jp/business/bitumen/index.html・1回目）
-  - 「家畜の生産性向上や健康維持、畜産物の収量と品質維持に寄与する製品を展開しています」（https://www.idemitsu.com/jp/business/agri/index.html・1回目）
-  - 「また、エネルギートランジションに向けては、中長期的な脱炭素の潮流を見据え、経済的・技術的な課題に向き合いながら、社会ニーズに即した低/脱炭素事業へ挑戦いたします」（https://www.idemitsu.com/jp/company/message/index.html・1回目）
-  - 「国内外のお取引先や特約販売店の皆様、物流や保全を担う協力会社、資源国や海外サプライヤーといったビジネスパートナー、そして多様なバックグラウンドを持つ社員一人ひとりとともに、人が持つ無限の可能性を信じ、エネルギーと素材の安定供給を粘り強くやり抜くとともに、新たな事業を切り拓きます」（https://www.idemitsu.com/jp/company/message/index.html・1回目）
-  - 「中期経営計画（2026-2030年度）では、2030年ビジョン「責任ある変革者」のもと、事業戦略の3つのテーマ「GRIT ～既存事業の深化」「GROWTH ～成長事業の創出」「CNX ～低/脱炭素事業への挑戦」を5つの事業セグメント横断で、パートナーとの共創を通じて推進し、企業価値を向上させるとともに、社会課題の解決にも貢献していきます」（https://www.idemitsu.com/jp/ir/individual_investors/index.html・1回目）
-  - 「原油はまず常圧蒸留装置という高さ50mほどの塔内で留分別に分離され、二次処理、品質確認の後にLPG（液化石油ガス）やガソリン、ジェット燃料、灯油、潤滑油などの石油製品になる」（https://www.idemitsu.com/jp/company/interview/m-yoshihara.html・1回目）
-  - 「“正しく”とは安全に安定して供給すること、正しい管理値の中で収まった品質のものを供給すること」（https://www.idemitsu.com/jp/company/interview/m-yoshihara.html・1回目）
+  - 「事業戦略では「GRIT：既存事業の深化」・「GROWTH：成長事業の創出」・「CNX：低／脱炭素事業への挑戦」の3つのテーマについて、当社の5つの事業セグメント横断で、様々なパートナー企業との共創を通じて推進していきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「低／脱炭素事業への取り組み方針を変えることなく、CN社会の実現に向けた挑戦を続けていきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「足元では脱炭素化の時間軸の変化など、CNを取り巻く環境は変化しており、社会実装までの道筋については、より現実的な見極めが必要になっています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「低／脱炭素事業は、短期間で成果が見える取り組みではありません」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「米国から輸入した高品質で安価な「アポロガソリン」を発売」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
+  - 「「低／脱炭素事業への挑戦 CNX」をキーワードに、」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「現場での判断と継続的な改善活動（オペレーション最適化）を通じ、安全・品質・生産性の向上を実現します」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「現場主導のオペレーション改善・省エネ活動を通じた品質・生産性の向上」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「定期修理（定修）工事の計画立案、施工管理および品質・安全管理」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「研究開発部門と連携した新技術（次世代燃料・機能性材料など）の量産化をはじめ、設備・プロセスの最適化によるコスト削減・品質向上に貢献」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「既存設備の改造・触媒選定によるコスト競争力強化および品質向上施策の推進」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「将来必要となる品質管理試験を先行検討し、現場で運用できる形へつなげる役割を担っています」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
 - 顧客の競合：
-  - 「日本のほか、需要地である韓国・中国にも工場を持っています」（https://www.idemitsu.com/jp/company/introduction/index.html・1回目）
-  - 「太陽光、バイオマス、風力といった再生可能エネルギーや競争力の高い天然ガス火力など、多様な電源の開発・発電所の運営を行っています」（https://www.idemitsu.com/jp/business/index.html・1回目）
-  - 「石油精製との一体運営を強みとし、基盤事業としての競争力維持・強化を図るとともに、ケミカルリサイクル化学品やバイオマス化学品の製造・販売、サプライチェーンの構築を進め、資源循環型社会の実現に貢献していきます」（https://www.idemitsu.com/jp/business/basic_chemicals/index.html・1回目）
-  - 「日本の他、需要地である韓国、中国に生産拠点を有しており、主要顧客であるディスプレイメーカーへのグローバルな供給体制を構築しています」（https://www.idemitsu.com/jp/business/denzai/index.html・1回目）
-  - 「といった再生可能エネルギー、競争力の高い天然ガス火力など、多様な電源の開発・発電所の運営を行っています」（https://www.idemitsu.com/jp/business/energy/index.html・1回目）
-  - 「風力発電所を、他社との協働により運営しています」（https://www.idemitsu.com/jp/business/energy/index.html・1回目）
-  - 「2023年度以降、新規鉱山の開発や大型投資による増産は行わず、競争力の高い鉱山で、安定供給の継続と収益最大化に取り組んでいます」（https://www.idemitsu.com/jp/business/coal/index.html・1回目）
-  - 「2019年に昭和シェル石油と経営統合し、国内石油元売りとしては第２位のシェアを有しています」（https://www.idemitsu.com/jp/ir/individual_investors/index.html・1回目）
-  - 「通常は接することができないような他社の上位職の方と密にお話し、アドバイスを受けるという貴重な機会を得ることができました」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
-  - 「さらに、他社の女性役職者の方々と横のつながりができたことも大きな収穫です」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
-  - 「他社としっかり比較してくださいね』という気持ちを持っています」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
-  - 「「各ビジョンの達成に向けて当社の文化・風土に共感できるだけでなく、多様性に富んだ人財に当社を志望してもらうために、他社や大学、団体と共創していきたいと考えています」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
+  - 「燃料油を中心とする既存事業において、調達から製造、物流、販売までのバリューチェーン全体の競争力強化に向けた取り組みを粘り強くやり抜きます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「基礎化学品事業については、市況悪化により収益改善は遅れていますが、エチレン装置の集約など生産能力の最適化や誘導品事業の競争力強化などの構造改革を急ぎます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「この積み重ねこそが、当社の競争力の源泉の1つであると考えています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「既存設備の改造・触媒選定によるコスト競争力強化および品質向上施策の推進」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「当社グループは、石油製品価格を国内の市場価格に連動させることによりマージンを確保することに努めていますが、原油価格の変動が大きい場合や国内石油市場の激しい競争等により国内の市場価格が低迷した場合、財政状態及び経営成績は重大な影響を及ぼす可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「市場における激しい競争等の要因により、ナフサ価格の変動を製品価格への反映が限定的となる場合には、当社グループの財政状態及び経営成績は影響を受ける可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「日本を含むアジアの基礎化学品市場は激しい競争状況にあり、需要の変動や供給の増加の影響を受けます」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「アジアでは経済成長に伴う需要の増加が見込まれますが、近年は中国を中心に基礎化学品を製造する大型プラントの新増設が急増しており、アジア市場における供給過多や、新興国の経済成長鈍化に伴う需要低迷の可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「このような市場における競争の激化や需要の低迷、政治経済情勢あるいは中東情勢等のその他の要因により、当社グループの財政状態及び経営成績は影響を受ける可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「また、市場における激しい競争激化等により、原料価格の変動を製品価格に適切に転嫁できない場合、当社グループの財政状態及び経営成績に影響を及ぼす可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「今後も石油、石油化学、資源事業等、既存事業の競争力維持には投資を継続する予定です」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「更に国内外における経済情勢や政治動向、市場拡大の遅れ、新素材を含む他社との開発競争等によりこれらの投資が計画どおりの収益をあげられない場合は固定資産の減損損失を計上する可能性もあります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
 - 自社の競合（すでに入っている売り手）：
-  - 「これらの取り組みを5つの事業セグメント横断で、またパートナーとの共創を通じて推進し、企業価値を向上させるとともに、社会課題の解決にも貢献していきます」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「見据え、社内外のパートナーとの共創のもと、未来への新たな価値を生み出していきます」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「世界初の製品をパートナーとともに開発し、お客様の困りごとを一緒に解決」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「お客様の困りごとを様々なパートナーとともに解決することで、世界トップクラスの技術力を維持してきた潤滑油、有機EL」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「当社グループが今後も社会的役割を全うし、新たな価値を創出し続けるには、多くのパートナーとの協働が不可欠です」（https://www.idemitsu.com/jp/company/message/index.html・1回目）
-  - 「国内外のお取引先や特約販売店の皆様、物流や保全を担う協力会社、資源国や海外サプライヤーといったビジネスパートナー、そして多様なバックグラウンドを持つ社員一人ひとりとともに、人が持つ無限の可能性を信じ、エネルギーと素材の安定供給を粘り強くやり抜くとともに、新たな事業を切り拓きます」（https://www.idemitsu.com/jp/company/message/index.html・1回目）
-  - 「燃料油、基礎化学品、高機能材、電力・再生可能エネルギー、資源の各分野において、様々な分野のパートナー・顧客との信頼関係をベースに、多様なエネルギーと素材の開発・製造・販売を手掛けています」（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
-  - 「燃料油、基礎化学品、高機能材、電力・再生可能エネルギー、資源の各分野に置いて、様々な分野のパートナー・顧客との信頼関係をベースに、多様なエネルギーと素材の開発・製造・販売を手掛けています」（https://www.idemitsu.com/jp/ir/individual_investors/index.html・1回目）
-  - 「中期経営計画（2026-2030年度）では、2030年ビジョン「責任ある変革者」のもと、事業戦略の3つのテーマ「GRIT ～既存事業の深化」「GROWTH ～成長事業の創出」「CNX ～低/脱炭素事業への挑戦」を5つの事業セグメント横断で、パートナーとの共創を通じて推進し、企業価値を向上させるとともに、社会課題の解決にも貢献していきます」（https://www.idemitsu.com/jp/ir/individual_investors/index.html・1回目）
-  - 「この時の出資先が、現在、出光CVCがパートナーシップを結んでいるスイスのベンチャーキャピタル（以下、VC）」（https://www.idemitsu.com/jp/company/interview/idemitsu_cvc.html・1回目）
-  - 「エメラルド社とのパートナーシップを前提としたCVCの発足は、こうした課題を念頭に置いたものだった」（https://www.idemitsu.com/jp/company/interview/idemitsu_cvc.html・1回目）
-  - 「出光CVCがエメラルド社とパートナーシップを結んだのは、当初から海外のSU企業への投資を目的にしていたためである」（https://www.idemitsu.com/jp/company/interview/idemitsu_cvc.html・1回目）
+  - 「同時に、CN社会の実現を見据え、多くのパートナー企業と連携しながらその実現に向けた取り組みを強化してきました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「事業戦略では「GRIT：既存事業の深化」・「GROWTH：成長事業の創出」・「CNX：低／脱炭素事業への挑戦」の3つのテーマについて、当社の5つの事業セグメント横断で、様々なパートナー企業との共創を通じて推進していきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「事業や技術、顧客接点を有機的につなぎ、パートナーとの共創を通じて事業化の確度とスピードを高めていきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「この領域において、当社はリチウム固体電解質や潤滑油をはじめとする様々な「キーマテリアル・ソリューション」を有しており、パートナーとの共創を通じて価値創出を拡大していきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「だからこそ、社会や産業の変化の方向性を見極めつつ、それぞれの局面において適切な選択肢を提供できるよう、技術や事業基盤、パートナーとの関係などの環境整備を進めておく必要があります」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「外部パートナーとの連携はもちろんのこと、社内の「横の連携」も重視しています」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「そしてパートナー・お客様とともに、多くの可能性に目を向け、」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「グループ全体の事業戦略策定、新規事業の企画立案、企業間協業の推進、官公庁・自治体対応などを担います」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「国内外のパートナー企業との企業間協業の推進およびジョイントベンチャー設立交渉」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「材料・触媒の設計・合成、分析・解析、物性評価から、製造プロセス開発・スケールアップまで、事業部門や生産技術、社外パートナーと連携して推進します」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「「人」を通じて成長に寄り添い、地域インフラを支えるパートナーの経営力強化に挑む」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「当社は、工事・資材・サービスの調達において、相互に協力、切磋琢磨し、サプライチェーンにおける持続可能な社会を実現できるパートナーを広く求めています」（https://www.idemitsu.com/jp/company/governance/index.html・1回目）
 - 採用（足りない人・職種）：
+  - 「※「求職者等」には、新卒・キャリア採用への応募者、インターンシップ等の参加者、内定者のほか、会社説明」（https://www.idemitsu.com/jp/recruit/career/pdf/harassmentprevention.pdf・2回目）
+  - 「【リクルートコンサルタント／中途採用】シニア特化型の人材紹介サービス等を展開／内定まで最短2日／未経験可／第二新卒歓迎 ▼仕事内容 事業の成長に伴い、エージェント事業で働くリクルートコンサルタントを大募集！ 5年後の上場を目標にチームメンバー数と売上を2倍にすることを目指します」（https://jp.stanby.com/search?q=%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「新卒採用・インターンシップ情報（高専生等対象）」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
   - 「高速道路、空港で多くの採用実績があります」（https://www.idemitsu.com/jp/business/bitumen/index.html・1回目）
   - 「新卒採用・インターンシップ情報（高専生等対象）」（https://www.idemitsu.com/jp/ir/library/presentation_materials/index.html・1回目）
@@ -366,35 +368,37 @@
   - 「「出光興産は石油業界ということから、新卒採用時に女性の応募数が少ないのが現状です」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
   - 「「採用の場合、どうしても採用人数といった目標値の達成に目が行きがちですが、学生には、内定を取ることに必死になって、自分を偽らないでほしいと思っているんです」（https://www.idemitsu.com/jp/company/interview/human_resources_department.html・1回目）
   - 「※「求職者等」には、新卒・キャリア採用への応募者、インターンシップ等の参加者、内定者のほか、会社説明」（https://www.idemitsu.com/jp/recruit/Harassment.pdf・2回目）
-  - 「コスモエネルギーグループ新卒採用サイト：カーリース事業拡大プロジェクト」（https://unistyleinc.com/techniques/526・3回目）
-  - 「また、22卒向け新卒採用サイトのトップメッセージには以下のような内容が掲載されていました」（https://unistyleinc.com/techniques/526・3回目）
 - 発言（社長・役員）：
-  - 「社員インタビュー | 会社情報 | 出光興産」（https://www.idemitsu.com/jp/company/interview/index.html・1回目）
-  - 「当社で働く人の職場を訪れ、仕事に対する想いについてインタビューしました」（https://www.idemitsu.com/jp/company/interview/index.html・1回目）
-  - 「Idemitsu PERSON（社員インタビュー）」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
-  - 「国・地域社会、そこに暮らす人々を想い、」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「Idemitsu PERSON（社員インタビュー）」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「Idemitsu PERSON（社員インタビュー）」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「代表取締役及び役員の異動内定に関するお知らせ」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「潤滑油にかける想い The Heart of Technology」（https://www.idemitsu.com/jp/business/lube/index.html・1回目）
-  - 「石油を主力事業とする出光興産グループが取り組む「食」に対する想いをご紹介します」（https://www.idemitsu.com/jp/business/agri/index.html・1回目）
-  - 「当社がどのような想いで、どのような未来を創っていこうとしているのか」（https://www.idemitsu.com/jp/company/index.html・1回目）
-  - 「Idemitsu PERSON（社員インタビュー）」（https://www.idemitsu.com/jp/company/index.html・1回目）
-  - 「社長メッセージ | 会社情報 | 出光興産」（https://www.idemitsu.com/jp/company/message/index.html・1回目）
+  - 「社長メッセージ | サステナビリティ | 出光興産」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「私は社長に就任して以来、こうした価値観を大切にしながら、「バランスを重視した経営」を基本姿勢としてきました」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「人の想いに耳を傾け、デザインの力で価値を共創」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「人の想いに耳を傾け、ビジュアルや体験として実現し、「まるで魔法のよう」と言っていただける瞬間にやりがいを感じます」（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
+  - 「国・地域社会、そこに暮らす人々を想い、考えぬき、働きぬいているか」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
+  - 「*： 高度な専門性を有する社外有識者からの経営提言を受ける社長諮問機関」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
+  - 「国・地域社会、そこに暮らす人々を想い、考えぬき、働きぬいているか」（https://www.idemitsu.com/jp/company/managementplan/2023_2025plan.pdf・2回目）
+  - 「国・地域社会、そこに暮らす人々を想い、」（https://www.idemitsu.com/jp/recruit/career/pdf/career-recruiting-pitch.pdf・2回目）
+  - 「AI時代にCEOに求められる最も重要なリーダーシップスキル」（https://www.youtube.com/watch?v=q2VDPaLxIAA・3回目）
+  - 「：出光興産株式会社代表取締役副社長の澤です」（https://finance.logmi.jp/articles/384789・3回目）
+  - 「代表取締役社長 社長執行役員CEO 酒井則明」（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
+  - 「代表取締役副社長 副社長執行役員COO 平野敦彦」（https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3・3回目）
 - 政治（法・補助・規制）：
-  - 「JAXA「宇宙戦略基金」の補助金交付が決定 宇宙用CIGS太陽電池の量産技術開発を加速」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「• 欧州 自動車CO2排出規制緩和」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
-  - 「• 海外機能会社を通じた現地法規制・税務リスクの検知、」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
-  - 「• 適切な投資判断を支える市場・規制インテリジェンスの強化」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
-  - 「 同取り組みがNEDOのグリーンイノベーション基金に採択」（https://www.idemitsu.com/jp/company/managementplan/2023_2025plan.pdf・2回目）
-  - 「当社は、2050年のカーボンニュートラル実現を目指し、脱炭素化スピードの加速に伴う規制強化を踏まえ、削減目標の見直しを行います」（https://finance.logmi.jp/articles/384789・3回目）
-  - 「石油元売グループ AI注目トレンド 国策・規制が成長の要因に」（https://service.xenobrain.jp/forecastresults/market-size/petroleum-distributor-group・3回目）
-  - 「今後5年間で石油元売グループに影響する市場環境の変化を8つのカテゴリーに分類すると、プラス要因としては国策・規制、一方マイナス要因としては環境問題・SDGsの影響が大きいと予測する」（https://service.xenobrain.jp/forecastresults/market-size/petroleum-distributor-group・3回目）
-  - 「プラス要因である国策・規制の具体的な要因は、高速道路車線拡幅需要増加や都有施設 EV用充電設備有料化実施、ガソリン税暫定税率廃止と予測する」（https://service.xenobrain.jp/forecastresults/market-size/petroleum-distributor-group・3回目）
-  - 「議会のAI規制には大統領が拒否権という見方も」（https://www.nsjournal.jp/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E3%80%80%E9%85%92%E4%BA%95%E5%89%87%E6%98%8E%E7%A4%BE%E9%95%B7%E3%81%AB%E8%81%9E%E3%81%8F%E3%80%80%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E6%99%82%E4%BB%A3/・3回目）
-  - 「【レクサス大丈夫か?!】2026年上半期の新車販売台数ランキングTOP50で異変! 意外な車が上位へ?! レクサスを叱咤激励するオーナーたちの意外な本音とは?! CEV補助金が減額へ」（https://www.netdenjd.com/archives/577966・3回目）
-  - 「米国の火力発電規制撤廃と日本のCO2回収・貯留支援が問う「国民負担」、環境政策は国民生活の便益を生むのか」（https://diamond.jp/articles/-/394110・3回目）
+  - 「また、各国・地域で法改正や準法律的なルールの変更が相次ぐ中、必要な手続きや体制見直しを遺漏なく進めることも重要です」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
+  - 「低ベンゼンガソリン「ゼアス」を発売（1996年 業界初のエコマーク認定）」（https://www.idemitsu.com/jp/company/history/index.html・1回目）
+  - 「また、米国を始めとした世界各国の金融政策の動向、主要石油消費国における需要・環境規制・税制の動向、投機的な石油取引等により、今後も大きく変動することが懸念されます」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「当社グループは、ベトナムをはじめとする東南アジア及びノルウェーを中心に、石油・天然ガスの探鉱・開発・生産（油ガス田開発）プロジェクトを推進しており、これらの地域における政治経済情勢、税制、規制方針やその他の不確定要因の影響を受けることがあります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「石炭鉱山事業につきましても、政治経済情勢、税制、規制方針やその他の不確定要因の影響を受けることがあります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「4.環境規制に関するリスク」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「当社グループは、事業展開する日本やその他の国における広範な環境保全やその他の法的規制の下にあります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「例えば、当社グループは、製油所や工場からの汚染物質の排出、廃棄物の処理等について規制を受け、基準を超える環境汚染発生に伴う罰則を受ける可能性もあります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「また、日本や他の国の当局が新たな規制を行うこと、あるいは現在や将来の環境規制を遵守することにより多額の支出を伴う可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「プロジェクト・ファイナンスによる調達額について銀行団に対し行っている債務保証及びスポンサーによる出資・貸付のうち、NSRPへの当社グループ出資比率相当の35.1%については、ベトナムにおける政治経済情勢、法律や規制及び雇用環境の変化等からプロジェクトが計画どおりに進展しない場合、当社グループの財政状態及び経営成績は影響を受ける可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「米国の火力発電規制撤廃と日本のCO2回収・貯留支援が問う「国民負担」、環境政策は国民生活の便益を生むのか」（https://diamond.jp/articles/-/363538・3回目）
+  - 「出光興産株式会社の補助金・交付金の採択実績｜10件|経営自走化ラボ」（https://media.keieishindan.co.jp/s/9010001011318・3回目）
 - 経済（売上・利益・投資額）：
+  - 「なお、1バレル当たりのドバイ原油価格が1米ドル変動すると、当社の税引前利益は年間80億円増減する可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「なお、1米ドル当たり1円変動すると、当社の税引前利益は年間40億円増減する可能性があります」（https://www.idemitsu.com/jp/ir/management/risk/index.html・1回目）
+  - 「既存事業を中心としたGRITで1,100億円の増益、中長期戦略としてのGROWTHで600億円の増益という内訳で考えています」（https://finance.logmi.jp/articles/384789・3回目）
+  - 「2030年までに1,100億円の増益を目指します」（https://finance.logmi.jp/articles/384789・3回目）
   - 「・教育投資額：誤 「67千円」 → 正 「69千円」」（https://www.idemitsu.com/jp/company/managementplan/index.html・1回目）
   - 「1,683億円」（https://www.idemitsu.com/jp/company/profile/index.html・1回目）
   - 「2026～2030年については、5カ年累計の在庫影響を除く当期純利益に対し、総還元性向50%以上を継続します」（https://www.idemitsu.com/jp/ir/individual_investors/index.html・1回目）
@@ -403,182 +407,216 @@
   - 「「私の担当領域は、SAF製造プロジェクトを推進する上で共通認識となる基本思想や評価軸の設定、大きな投資額に対する政府の支援制度の活用方針の策定、社内での合意形成・決裁プロセスの主導など」（https://www.idemitsu.com/jp/company/interview/k-toyotsu.html・1回目）
   - 「30年度 3,600億円」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
   - 「26-30年度 累計投資額 18,000億円」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
-  - 「2,300億円」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
-  - 「（6,000億円）」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
-  - 「2,441億円」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
-  - 「（7,693億円）」（https://www.idemitsu.com/jp/company/managementplan/2026_2030plan.pdf・2回目）
 - 技術（特許・開発）：
-  - 「独自の研究開発力と技術力、ノウハウを生かし、持続可能な社会の実現に貢献するマテリアルの開発・供給を手掛けています」（https://www.idemitsu.com/jp/index.html・1回目）
-  - 「これまで培ってきた技術・知見を生かし、海外における油ガス田開発、石炭の安定供給とバイオマス燃料の開発・製造などの低炭素ソリューションの推進、国内での地熱発電所の運営・開発に取り組んでいます」（https://www.idemitsu.com/jp/index.html・1回目）
-  - 「研究・開発・調達・製造・物流・販売に至る「現場の力」を活かすことで、未来への新たな価値を生み出し続けていきます」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「世界初の製品をパートナーとともに開発し、お客様の困りごとを一緒に解決」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「コア技術をベースに活躍の場をAI、データセンター、xEV、宇宙空間と拡大させ、多様化するお客様のニーズに常に耳を傾け、製品を開発し新しいソリューションを提案し続ける」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「国内製油所・工場、物流ネットワークはもちろん、ベトナムやノルウェーでの油ガス田開発、石炭開発等を通して、一人の頑張りをみんなの知恵に変え、苦労を支え合い、達成を喜び合いながら、対応力・操業力を磨き上げてきた」（https://www.idemitsu.com/jp/company/brandstory/index.html・1回目）
-  - 「スマートフォンや有機ELテレビに使われる、有機ELディスプレイの材料開発を手掛けています」（https://www.idemitsu.com/jp/company/introduction/index.html・1回目）
-  - 「「出光興産がなぜ？」と驚かれるかもしれませんが、エネルギーと同じく生活に欠かせない「食」にも関係する化学農薬・生物農薬・機能性飼料などの研究開発・製造・販売も行っています」（https://www.idemitsu.com/jp/company/introduction/index.html・1回目）
-  - 「太陽光、バイオマス、風力、地熱といった再生可能エネルギーの開発、国内外での普及・拡大にも取り組んでいます」（https://www.idemitsu.com/jp/company/introduction/index.html・1回目）
-  - 「Idemitsu Car Maintenance Reservation」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「Sustainability management」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
-  - 「Sustainability Library」（https://www.idemitsu.com/jp/ir/news/index.html・1回目）
+  - 「Idemitsu Car Maintenance Reservation」（https://www.idemitsu.com/jp/ir/library/annual/index.html・1回目）
+  - 「Sustainability management」（https://www.idemitsu.com/jp/ir/library/annual/index.html・1回目）
+  - 「Sustainability Library」（https://www.idemitsu.com/jp/ir/library/annual/index.html・1回目）
+  - 「Management strategy (Message from the Chairman and President)」（https://www.idemitsu.com/jp/ir/library/annual/index.html・1回目）
+  - 「Idemitsu Hokkaido “Drawing Contest”」（https://www.idemitsu.com/jp/ir/library/annual/index.html・1回目）
+  - 「Forest Maintenance in Idemitsu」（https://www.idemitsu.com/jp/ir/library/annual/index.html・1回目）
+  - 「燃料油、基礎化学品、高機能材、電力・再生可能エネルギー、資源の各分野に置いて、様々な分野のパートナー・顧客との信頼関係をベースに、多様なエネルギーと素材の開発・製造・販売を手掛けています」（https://www.idemitsu.com/jp/ir/individual_investors/index.html・1回目）
+  - 「Idemitsu Car Maintenance Reservation」（https://www.idemitsu.com/jp/recruit/index.html・1回目）
+  - 「Sustainability management」（https://www.idemitsu.com/jp/recruit/index.html・1回目）
+  - 「Sustainability Library」（https://www.idemitsu.com/jp/recruit/index.html・1回目）
+  - 「Management strategy (Message from the Chairman and President)」（https://www.idemitsu.com/jp/recruit/index.html・1回目）
+  - 「Idemitsu Hokkaido “Drawing Contest”」（https://www.idemitsu.com/jp/recruit/index.html・1回目）
 - 検索結果の抜粋：
+  - 「出光興産 【5019】の事業内容 - キタイシホン — 出光興産 【5019】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/5019/business・3回目）
+  - 「お 取引先 の登録 | 各種方針・コーポレートガバナンス - 出光興産 — お 取引先 の登録 | 各種方針・コーポレートガバナンス - 出光興産 出光興産 https://www.idemitsu.com > governance > prc_register」（https://www.idemitsu.com/jp/company/governance/prc_register/index.html・3回目）
+  - 「各種 方針 ・コーポレートガバナンス | 会社情報 - 出光興産 — 各種 方針 ・コーポレートガバナンス | 会社情報 - 出光興産 出光興産 https://www.idemitsu.com > governance > policy」（https://www.idemitsu.com/jp/company/governance/policy/index.html・3回目）
+  - 「出光興産 の新 社長 が全国6000のガソリンスタンドは「なくし ... — 出光興産 の新 社長 が全国6000のガソリンスタンドは「なくし ... ダイヤモンド・オンライン https://diamond.jp > エネルギー > エネルギー動乱」（https://diamond.jp/articles/-/363538・3回目）
+  - 「【 出光興産 】株価・日経最新ニュース[5019] | 日本経済 新聞 — 【 出光興産 】株価・日経最新ニュース[5019] | 日本経済 新聞 日本経済新聞 https://www.nikkei.com > nkd > company」（https://www.nikkei.com/nkd/company/?scode=5019・3回目）
+  - 「出光興産 の 設備投資 額2,236億円・推移12カ年 - The社史 — 出光興産 の 設備投資 額2,236億円・推移12カ年 - The社史 The社史 https://the-shashi.com > 出光興産の歴史」（https://the-shashi.com/tse/5019/financials/capex/・3回目）
+  - 「出光興産 募集職種 キャリアの求人情報をすべて見る （10,471,779件） — 出光興産 募集職種 キャリアの求人情報をすべて見る （10,471,779件） スタンバイ」（https://jp.stanby.com/search?q=%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「採用 情報 | 出光興産 — 採用 情報 | 出光興産 出光興産 https://www.idemitsu.com > recruit」（https://www.idemitsu.com/jp/recruit/index.html・3回目）
+  - 「出光興産 株式会社の 特許出願 動向・競合比較 - Patent Integration — 出光興産 株式会社の 特許出願 動向・競合比較 - Patent Integration パテント・インテグレーション https://patent-i.com > report > applicant」（https://patent-i.com/report/jp/applicant/0000229/・3回目）
+  - 「出光興産 株式会社の 補助金 ・交付金の 採択 実績｜10件 — 出光興産 株式会社の 補助金 ・交付金の 採択 実績｜10件 media.keieishindan.co.jp https://media.keieishindan.co.jp > データベース > 東京都」（https://media.keieishindan.co.jp/s/9010001011318・3回目）
+  - 「出光興産 【5019】の 大株主 情報 - 株探 — 出光興産 【5019】の 大株主 情報 - 株探 株探 https://kabutan.jp > stock > holder」（https://kabutan.jp/stock/holder?code=5019・3回目）
   - 「有価証券報告書 | IR情報 - 出光興産 — 有価証券報告書 | IR情報 - 出光興産 出光興産 https://www.idemitsu.com > library > security_reports」（https://www.idemitsu.com/jp/ir/library/security_reports/index.html・3回目）
-  - 「有価証券報告書 - 出光興産 — 有価証券報告書 - 出光興産 出光興産 PDF https://www.idemitsu.com > shell > security_reports」（https://www.idemitsu.com/jp/ir/library/shell/security_reports/security_reports_105d.pdf・3回目）
-  - 「【 出光興産 】[5019] 有価証券報告書 | 日経電子版 — 【 出光興産 】[5019] 有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr」（https://www.nikkei.com/nkd/company/ednr/?scode=5019・3回目）
-  - 「中期経営計画 | 会社情報 - 出光興産 — 中期経営計画 | 会社情報 - 出光興産 出光興産 https://www.idemitsu.com > company > managementplan」（https://www.idemitsu.com/jp/company/managementplan/index.html・3回目）
-  - 「会社情報 - 出光興産 — 会社情報 - 出光興産 出光興産 https://www.idemitsu.com > company」（https://www.idemitsu.com/jp/company/index.html・3回目）
-  - 「出光興産 （5019） 中期経営計画 説明会（2026～2030年度） — 出光興産 （5019） 中期経営計画 説明会（2026～2030年度） YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=q2VDPaLxIAA・3回目）
-  - 「出光興産 、事業戦略のリバランスにより「稼ぐ力」を強化 ... — 出光興産 、事業戦略のリバランスにより「稼ぐ力」を強化 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/384789・3回目）
-  - 「出光興産 、次期 中期経営計画 の公表日程を延期 中東情勢受け — 出光興産 、次期 中期経営計画 の公表日程を延期 中東情勢受け Reuters https://www.reuters.com > markets > global-markets」（https://www.reuters.com/jp/markets/global-markets/KAENBZ4LUFPPBDGPX2UJMPXA4M-2026-03-13/・3回目）
-  - 「決算説明資料 | IR情報 - 出光興産 — 決算説明資料 | IR情報 - 出光興産 出光興産 https://www.idemitsu.com > library > presentation_materials」（https://www.idemitsu.com/jp/ir/library/presentation_materials/index.html・3回目）
-  - 「IR情報 - 出光興産 — IR情報 - 出光興産 出光興産 https://www.idemitsu.com > ...」（https://www.idemitsu.com/jp/ir/index.html・3回目）
-  - 「2025年度 決算説明資料 - 出光興産 — 2025年度 決算説明資料 - 出光興産 出光興産 PDF https://www.idemitsu.com > news」（https://www.idemitsu.com/jp/news/2026/260512_2.pdf・3回目）
-  - 「出光興産 [5019]：2026年度第1四半期 決算説明資料 2026年8 ... — 出光興産 [5019]：2026年度第1四半期 決算説明資料 2026年8 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260807515314/・3回目）
-- 設立：記載なし（3回確認済み：公式40頁／PDF・画像20件／外部52頁・検索22回）
-- 役員：記載なし（3回確認済み：公式40頁／PDF・画像20件／外部52頁・検索22回）
-- 拠点：記載なし（3回確認済み：公式40頁／PDF・画像20件／外部52頁・検索22回）
-- 取引銀行：記載なし（3回確認済み：公式40頁／PDF・画像20件／外部52頁・検索22回）
-- 許認可：記載なし（3回確認済み：公式40頁／PDF・画像20件／外部52頁・検索22回）
+- 設立：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
+- 役員：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
+- 拠点：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
+- 取引先：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
+- 取引銀行：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
+- 許認可：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部52頁・検索22回）
 
 ## 藤倉コンポジット
-- 公式URL：https://hibiki-investment-news.com/（search:ddgs:google:藤倉コンポジット）
+- 公式URL：https://www.fujikuracomposites.jp/（search:yahoo_jp:藤倉コンポジット）
+- 創業年度：設立年月日：1920年4月1日（https://www.nikkei.com/nkd/company/gaiyo/?scode=5121・3回目）
+- 創業年度：設立：1901年10月25日（https://www.r-agent.com/company/46090/・3回目）
+- 株主：毎年9月30日（https://www.fujikuracomposites.jp/ir/stock/・1回目）
+- 株主：毎年3月31日（https://www.fujikuracomposites.jp/ir/stock/・1回目）
+- 株主：三井住友信託銀行株式会社（https://www.fujikuracomposites.jp/ir/stock/・1回目）
+- 資本金：38億429万円（https://www.fujikuracomposites.jp/company/・1回目）
+- 資本金：3,804(百万円) 
+                                            (2026/3現在) 
+                                            日本基準（https://www.nikkei.com/nkd/company/gaiyo/?scode=5121・3回目）
+- 資本金：3,804百万円（https://www.r-agent.com/company/46090/・3回目）
+- 従業員数：2,509人（連結）（2026年3月末日現在）（https://www.fujikuracomposites.jp/company/・1回目）
+- 従業員数：743 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=5121・3回目）
+- 従業員数：1,043人（https://www.r-agent.com/company/46090/・3回目）
+- 代表者：森田　健司（https://www.nikkei.com/nkd/company/gaiyo/?scode=5121・3回目）
+- 代表者：1名の在任期間（https://the-shashi.com/tse/5121/ceo/・3回目）
+- 代表者：森田　健司（https://www.r-agent.com/company/46090/・3回目）
+- 役員：https://www.fujikuracomposites.jp/focus/governance-corporate/（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
+- 所在地：〒141-0031 東京都品川区西五反田8-4-13 五反田ＪＰビルディング4F（https://www.fujikuracomposites.jp/company/・1回目）
+- 所在地：〒141-0031 東京都品川区西五反田8-4-13 五反田ＪＰビルディング4F TEL 03-5747-9444 Google Map（https://www.fujikuracomposites.jp/company/network/・1回目）
+- 所在地：8:45～17:25（所定労働時間7時間50分）（https://www.fujikuracomposites.jp/recruit/disabilities/・1回目）
+- 事業内容：ACP事業部)長（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+- 事業内容：各種工業用ゴム部品の他、空圧制御機器、除振台およびその周辺機器、電気・電子機器、救難救命具等産業資材、ゴルフ用カーボンシャフトの製造販売等様々な分野で幅広く事業を展開しています。（https://www.fujikuracomposites.jp/company/・1回目）
+- 事業内容：毎年4月1日から翌年3月31日まで（https://www.fujikuracomposites.jp/ir/stock/・1回目）
+- 拠点：〒530-0018 大阪府大阪市北区小松原町2-4 大阪富国生命ビル 6F TEL 06-6131-1915 Google Map（https://www.fujikuracomposites.jp/company/network/・1回目）
+- 拠点：〒460-0011 愛知県名古屋市中区大須4-1-40 アルティメイト矢場町 7F TEL 052-238-9470 Google Map（https://www.fujikuracomposites.jp/company/network/・1回目）
+- 拠点：〒339-8510 埼玉県さいたま市岩槻区上野6-12-8 TEL 048-794-2211 Google Map（https://www.fujikuracomposites.jp/company/network/・1回目）
+- 許認可：2026年8月26日（水）18:00（https://www.fujikuracomposites.jp/exhibition/1243/・1回目）
 - 株主構成：
-  - 「2025年5月29日 株主提案」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年7月1日 株主総会結果について（臨時報告書への見解）」（https://hibiki-investment-news.com/・1回目）
-  - 「2026年5月25日 巴コーポレーション 株主提案について」（https://hibiki-investment-news.com/・1回目）
-  - 「2024年5月20日 株主提案」（https://hibiki-investment-news.com/・1回目）
-  - 「2024年6月16日 ひびきの株主提案にISS推奨表明」（https://hibiki-investment-news.com/・1回目）
-  - 「2021年3月10日 少数株主として意見表明」（https://hibiki-investment-news.com/・1回目）
-  - 「2023年8月29日 ー 株主総会」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年8月29日 ー 株式会社IGポート定時株主総会に参加しました」（https://hibiki-investment-news.com/・1回目）
-  - 「2026年8月31日 – IGポート 定時株主総会に参加しました」（https://hibiki-investment-news.com/・1回目）
-  - 「2022年6月28日 株主総会」（https://hibiki-investment-news.com/・1回目）
-  - 「2022年6月17日 株主総会」（https://hibiki-investment-news.com/・1回目）
-  - 「2023年5月19日 株主提案」（https://hibiki-investment-news.com/・1回目）
+  - 「また、お客様を始めとする全てのステークホルダーの皆様との良好なコミュニケーションを通じ、常に株主価値の向上を目指す会社であり続けるために、間断なき改革に取り組んでまいります」（https://www.fujikuracomposites.jp/company/message/・1回目）
+  - 「同氏は、過去に主要株主における業務執行者でしたが、すでに経営から退いており株主や投資家の判断に影響を及ぼす恐れはなく、一般株主との利益相反が生じる恐れがないと判断したことから、独立役員に指定しました」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+  - 「同氏は、独立役員の属性に関して該当事項がありますが、一般株主と利益相反の生じる恐れはないと判断し、独立役員に指定しました」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+  - 「同氏は阿部・田中法律事務所に所属しており、当社と同事務所との間には法律顧問契約を締結していますが、その金額は僅少であるため一般株主との利益相反が生じる恐れがないと判断したことから、独立役員に指定しました」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+  - 「独立役員の属性に関して該当事項がありますが、一般株主と利益相反の生じる恐れはないと判断し、独立役員に指定しました」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+  - 「株主・投資家の皆様へ｜IR情報｜藤倉コンポジット株式会社」（https://www.fujikuracomposites.jp/ir/investors/・1回目）
+  - 「株主の皆様への利益還元方針をご覧いただけます」（https://www.fujikuracomposites.jp/ir/investors/・1回目）
+  - 「株主の皆様にお届けする優待制度について記載しています」（https://www.fujikuracomposites.jp/ir/investors/・1回目）
+  - 「）は、「FUJIKURA COMPOSITES行動規範」の理念に基づき、株主・投資家の皆様に経営や財務状況等の企業情報を、適時性・公平性・正確性・継続性に配慮して発信します」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「これにより経営の透明性を高め、株主・投資家の皆様の当社に対する信頼と適切な評価を得たいと考えております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「これらに該当しない場合でも、株主・投資家の皆様に当社への理解を深めていただく上で必要と当社が考える情報について開示します」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「当社では、東京証券取引所に提出する業績予想の他、株主や投資家の皆様がご自身で当社の将来の価値についてご検討いただけるように、当社の計画・戦略、目標、予想に関する資料等を書面またはウェブサイト上で提供する場合があります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
 - 創業年度：
+  - 「当社は、創業者・藤倉善八の遺志を継承した松本留吉が、1901年（明治34年）に藤倉電線護謨合名会社を創立したことに始まります」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「松本留吉により、「藤倉電線護謨合名会社」を設立」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「電線部門とゴム部門を分離、「藤倉合名会社防水布製造所」を設立」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「中国浙江省杭州市に杭州藤倉橡膠有限公司（現連結子会社）を設立」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「創業125周年と第7次中期経営計画「Accelerate X」スタート」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「当社は創業から120年余り、ゴム引布の製造に始まり、ゴムをはじめとした複合化技術によって広く社会に貢献してきました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「今期、当社は創業125周年という大きな節目を迎えます」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「1901年の創業以来、ゴム加工技術を基盤に、時代の変化と共に歩んできました」（https://www.fujikuracomposites.jp/recruit/・1回目）
+  - 「当社は1901年の創業以来、ゴム加工技術を基盤に、時代の変化に応じた挑戦を重ねてきました」（https://www.fujikuracomposites.jp/recruit/・1回目）
+  - 「社会の変化と呼応して、特徴のある技術とさまざまな業務の知恵を継承・発展させ、2021年には創業120周年を迎えることができました」（https://www.fujikuracomposites.jp/company/philosophy/・1回目）
+  - 「学校法人関西学院 大学の事務系総合職・専任職員／未経験歓迎／賞与実績6.3カ月 【求人要約】 幼稚園～大学院まで「生徒数2.9万人」の総合学園 【やりがい】未来を担う学生たちの教育や研究を支援 【未経験歓迎】スキルアップできる事務系総合職 未来を担う学生・生徒の教育や研究を支えるポジション 学校運営に関わる多様な業務を担当いただきます ＜注目ポイント＞ ◆高い社会貢献度 教育機関の運営をサポート ◆未経験OK！ 豊富な研修や自己研鑽のサポート制度でスキルアップ可能 ◆ワークライフバランス充実 女性育休取得率100％／定着率95％以上 【関西学院について】 1889年に設立し」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「の事業も合流して設立されたエルピーダメモリは、開発競争が激しい領域で、投資を担える企業規模と政策支援の確保の両面で苦戦した結果、2012年に会社更生法を申請し、米マイクロンの傘下に入りました」（https://hibiki-investment-news.com/eng/jpc_20251027/・1回目）
-  - 「2016年の当社創業来、年始のメッセージを毎年恒例で投資先の皆さまにお送りしておりましたが、今年は年始からの金融市場の変動やアジア地域でのCOVID-19の発生など多くのことが起こり、執筆が中断されてしまい、お送りするのが2月下旬となってしまいました」（https://hibiki-investment-news.com/letter/2020newyear/・1回目）
-  - 「先ず、ディズニー社は正式名は “The Walt Disney Company”と言い、大恐慌に突入する直前の、「永遠の繁栄」と呼ばれた好況期の1923年に、ウォルトとロイという兄弟によって設立されました」（https://hibiki-investment-news.com/letter/2020newyear/・1回目）
-  - 「今でこそ当たり前になり、ジブリやサンリオ、ハリーポッターなどのキャラクターによるテーマパークはコンテンツビジネスの一つの理想の完成形ともいわれていますが、1950年代は奇抜過ぎて賛同を得られず、推進役であったウォルトは相当な苦労をされた模様で、おそらくオーナー創業者でなければ取れなかったリスクかもしれません」（https://hibiki-investment-news.com/letter/2020newyear/・1回目）
-  - 「元々はMLB Advanced Mediaという社名で、その名の通り、米メジャーリーグが世界に配信するために子会社として創業した映像配信テクノロジー会社でした」（https://hibiki-investment-news.com/letter/2020newyear/・1回目）
-  - 「Hibiki Path Advisors（HPA）は、2015年11月の会社設立より、約10年にわたり、企業価値の向上、そして日本の資本市場の改善に資するべく、エンゲージメント投資家として日本の中小型株セグメントへの地道な投資活動を行って参りました」（https://hibiki-investment-news.com/news/20251128/・1回目）
-  - 「このシンガポールの発展の歴史の先に、ひびきがシンガポールで設立された理由があります」（https://hibiki-investment-news.com/sin/vo2/・1回目）
-  - 「貴社は、1998年の創業、そして2019年の上場以来、水永社長の強力なリーダーシ」（https://hibiki-investment-news.com/wp-content/uploads/2022/11/Starmica-final-HIN.pdf・2回目）
-  - 「貴社は、水永創業社長の下、早くからマンションの買取再生販売事業を手掛けてき」（https://hibiki-investment-news.com/wp-content/uploads/2022/11/Starmica-final-HIN.pdf・2回目）
-  - 「ョックにより経営環境が悪化し、創業者による上場を維持した形のTOBを行い、事業」（https://hibiki-investment-news.com/wp-content/uploads/2022/11/Starmica-final-HIN.pdf・2回目）
-  - 「ての苦労と成功の結晶である創業者利得を一定程度は現金化しつつ（そして再度一部」（https://hibiki-investment-news.com/wp-content/uploads/2022/11/Starmica-final-HIN.pdf・2回目）
-  - 「創業120年超の老舗企業」（https://hibiki-investment-news.com/wp-content/uploads/2026/06/Fujikura-Composites-Introduction-Materials-JP-vf.pdf・2回目）
 - 目標（中計・経営方針）：
-  - 「2025年6月5日 中期経営計画修正」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年10月3日 中計見直し・特別委員会設置の要請書送付について」（https://hibiki-investment-news.com/・1回目）
-  - 「2026年1月23日 中計の抜本的見直し及び特別委員会設置要望に対する進捗状況の確認」（https://hibiki-investment-news.com/・1回目）
-  - 「2022年11月15日 更なる成長期待とBSマネジメント」（https://hibiki-investment-news.com/・1回目）
-  - 「2026年8月14日 – IGポートの中期経営計画について」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年12月22日 － 中計の抜本的見直し及び特別委員会設置を要望する書簡送付及び進捗状況確認」（https://hibiki-investment-news.com/・1回目）
-  - 「2026年6月17日 ー 藤倉コンポジット 26/3期決算（ゴルフシャフトの成長戦略がわかる！）」（https://hibiki-investment-news.com/・1回目）
-  - 「2026年5月14日 － 株式会社ヤギ 中期経営計画2029の発表について」（https://hibiki-investment-news.com/・1回目）
-  - 「2026年5月28日 ー 株式会社ヤギ 中期経営計画2029の発表について 第2回」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年3月23日 中期経営計画コメント」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年5月31日 ー 中期経営計画についての意見交換」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年6月5日 ー 株式会社巴コーポレーション 中期経営計画修正に対するコメント」（https://hibiki-investment-news.com/・1回目）
+  - 「多様な価値観を有するステークホルダーとの適切、かつ継続的な協力関係の下で、中長期にわたり企業を存続させ、価値を持続的に向上させる上でのコーポレート・ガバナンスの重要性を認識しており、当社および子会社からなる当社グループは、経営理念、事業理念、定款、「FUJIKURA COMPOSITESコーポレート・ガバナンス方針」、CSR・コンプライアンスについての行動規範である「FUJIKURA COMPOSITES行動規範」を柱として、コーポレート・ガバナンスの充実に努め、公正で健全な経営、適正・迅速な意思決定と事業の運営、ステークホルダーとの良好な関係構築、法令遵守を進めてきました」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+  - 「付加価値の高い製品をグローバルに提供することを目標に、」（https://www.fujikuracomposites.jp/company/network/・1回目）
+  - 「経営方針｜IR情報｜藤倉コンポジット株式会社」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「当社では、東京証券取引所に提出する業績予想の他、株主や投資家の皆様がご自身で当社の将来の価値についてご検討いただけるように、当社の計画・戦略、目標、予想に関する資料等を書面またはウェブサイト上で提供する場合があります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「業務執行にあたって生じる設備投資・要員の異動については、取締役会で決定した基本方針に基づいて、常勤取締役と重要な各部門の責任者が構成する経営会議において、取締役会で決定した内部統制の基本方針、経営方針及び計画等に則し、全社的な観点から詳細かつ充分に検討して決定します」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「目標を明確にし、効率のよい事業運営を行うため、予算管理規定に基づき全社及び各事業の年度予算を定め、それに基づいた業績管理を徹底しており、事業ヒアリング(四半期)、経営会議（月次）等を通じて、常時、状況を把握し、必要な修正を加えます」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「これらに加え、中長期的な業績の向上と企業価値の増大に貢献する意識を高めることを目的として、株式交付信託を利用した株式報酬を支給する」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「創業125周年と第7次中期経営計画「Accelerate X」スタート」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「これまで私たちは、第6次中期経営計画において「TRANSFORM ─ 変化にチャレンジし、『変わる』から『変える』へ」を掲げ、事業体質の変革に取り組んできました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「そして、2026年3月期からスタートした第7次中期経営計画では、これまでの成果をさらに推し進めるべく、「Accelerate X ─ 変化し続け、『変化』を加速する」をテーマに掲げています」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「第7次中期経営計画」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「2．新成長戦略」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
 - 課題・障壁：
-  - 「2022年3月11日 IR改善策 プレゼン」（https://hibiki-investment-news.com/・1回目）
-  - 「2022年3月15日 IR改善策 プレゼン」（https://hibiki-investment-news.com/・1回目）
-  - 「2022年3月17日 IR改善策 プレゼン」（https://hibiki-investment-news.com/・1回目）
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/・1回目）
-  - 「2022年3月11日 IR改善策 プレゼン」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「2022年3月15日 IR改善策 プレゼン」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「2022年3月17日 IR改善策 プレゼン」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「日本高純度について、ひびき・パース・アドバイザーズ・エスピーシーは保有割合が減少したと報告 [変更報告書No.12] - 株探」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「日本高純度について、ひびき・パース・アドバイザーズ・エスピーシーは保有割合が減少したと報告 [変更報告書No. […]」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「2022年3月11日 IR改善策 プレゼン」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
-  - 「2022年3月15日 IR改善策 プレゼン」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
+  - 「当社グループの業績や、財政状態等に影響を与える可能性のあるリスクについての主な事項を記載しています」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「重大な製品の欠陥は、多額のコストや、当社グループの社会的評価に重大な影響を与え、また、当社各事業部の売上減少と当社グループの財務状況に重大な影響を与える可能性があります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「当社グループは、情報セキュリティ基本方針の下、組織的かつ継続的な情報セキュリティの改善・向上に努めております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「しかし、コンピューターウィルスの侵入やサイバー攻撃を受けシステムネットワークに対する重大な障害が発生することにより、情報漏洩による補償や業務の一次的な中断による機会損失が発生した場合、当社の売上減少と当社グループの財務状況に重大な影響を与える可能性があります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「当社は、人材育成を重要な課題と捉え、人的資本投資を強化しておりますが、少子高齢化に伴う労働人口の不足や専門性の高い特定分野の人材不足など、適時に人材を確保することが年々厳しくなっております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「このような人材不足は、技能やノウハウの承継に支障をきたし、特に若手中堅社員が退職することで会社の成長力が低下する可能性があります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「これらの情報について、過去の事実でないものは、将来に関する見通しであり、これらは現時点における入手可能な情報に基づいて作成しており、リスクや不確実性を含んでいる情報から得られた仮定や考えによるものも含まれております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「B.妥当性、透明性、公正性を確保しつつ、意思決定における積極的なリスクテイクと効率的で適正な業務執行を可能とする体制」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「また、適切なリスク管理によって顕在化した、または、予見される損失に対して、資産への影響を限定しております」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「当社グループでは、事業リスク、災害リスク、品質・環境リスク、安全衛生リスク、不正リスク等リスクの種類に応じて設ける管掌部門及び専門委員会がリスクを内包する部門と協力してリスクの継続的な識別、分析、評価、対応策の検討及び検証を行うほか、グループ全体にかかる重要なリスクの継続的な識別、分析、評価、対応策の検討及び検証をリスクマネジメント委員会の管理下において、リスク管理をグループ横断的かつ統合的に行っております」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「取締役を委員長とするコンプライアンス推進委員会を置き、「FUJIKURA COMPOSITES 行動規範」に基づいて、グループ横断的なコンプライアンス体制の整備と問題点の把握、コンプライアンス上のリスクの分析・評価、再発防止策の立案にあたっております」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「2026年3月期（2025年度実績）の決算につきましては、世界的な地政学リスクやサプライチェーンへの影響、インフレなど不確実性の高い事業環境のもとでありましたが、売上高は402億38百万円（前期比0.9%減）、営業利益は48億38百万円（同4.7%増）と、利益面で増益を達成することができました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
 - これから関心を持つこと：
-  - 「2025年6月17日 ー IGポートのサンリオとの資本業務提携について」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年9月26日 －日経ビジネス：CIO対談記事 ひびき・パース・アドバイザーズ×みさき投資」（https://hibiki-investment-news.com/・1回目）
-  - 「ひびき・パース・アドバイザーズ代表取締役社長兼最高投資責任者…」（https://hibiki-investment-news.com/・1回目）
-  - 「ひびきの投資先、エンゲージメント活動、投資哲学等、についてご紹介いたします」（https://hibiki-investment-news.com/・1回目）
-  - 「優れた企業の発掘のみならず、投資先企業の価値向上に向けて、エンゲージメント活動を行っています」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年6月17日 ー IGポートのサンリオとの資本業務提携について」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「2025年9月26日 －日経ビジネス：CIO対談記事 ひびき・パース・アドバイザーズ×みさき投資」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「ひびき・パース・アドバイザーズは、これまで投資先企業とのエンゲージメント動向を弊社メディアにて公開して参りましたが、その内容を動画コンテンツを用い、簡潔にご説明いたします」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「本日は、弊社の概要や投資哲学、ひびきの考えるエンゲージメントについてご紹介いたします」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「尚、本動画は、特定の有価証券の取得の申込みの勧誘若しくは売買の推奨又は投資、法務、税務、会計その他いかなる事項に関する助言を行うものではありません」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「ひびきの投資先、エンゲージメント活動、投資哲学等、についてご紹介いたします」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「優れた企業の発掘のみならず、投資先企業の価値向上に向けて、エンゲージメント活動を行っています」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
+  - 「当社は、新たな製品の高機能化・高付加価値化や戦略的投資など、持続的成長のための諸施策を推進いたします」（https://www.fujikuracomposites.jp/company/message/・1回目）
+  - 「同氏は、過去に主要株主における業務執行者でしたが、すでに経営から退いており株主や投資家の判断に影響を及ぼす恐れはなく、一般株主との利益相反が生じる恐れがないと判断したことから、独立役員に指定しました」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+  - 「中途採用 募集要項｜藤倉コンポジット 採用サイト」（https://www.fujikuracomposites.jp/recruit/mid-career/・1回目）
+  - 「株主・投資家の皆様へ｜IR情報｜藤倉コンポジット株式会社」（https://www.fujikuracomposites.jp/ir/investors/・1回目）
+  - 「当社は、人材育成を重要な課題と捉え、人的資本投資を強化しておりますが、少子高齢化に伴う労働人口の不足や専門性の高い特定分野の人材不足など、適時に人材を確保することが年々厳しくなっております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「）は、「FUJIKURA COMPOSITES行動規範」の理念に基づき、株主・投資家の皆様に経営や財務状況等の企業情報を、適時性・公平性・正確性・継続性に配慮して発信します」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「これにより経営の透明性を高め、株主・投資家の皆様の当社に対する信頼と適切な評価を得たいと考えております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「これらに該当しない場合でも、株主・投資家の皆様に当社への理解を深めていただく上で必要と当社が考える情報について開示します」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「当社では、東京証券取引所に提出する業績予想の他、株主や投資家の皆様がご自身で当社の将来の価値についてご検討いただけるように、当社の計画・戦略、目標、予想に関する資料等を書面またはウェブサイト上で提供する場合があります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「ただし、その内容に明らかな誤りがあり、株主・投資家の皆様の判断に重大な影響を与えると当社が判断した場合は、誤りを訂正するよう発信者に要請するとともに、正確な情報を発信します」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「業務執行にあたって生じる設備投資・要員の異動については、取締役会で決定した基本方針に基づいて、常勤取締役と重要な各部門の責任者が構成する経営会議において、取締役会で決定した内部統制の基本方針、経営方針及び計画等に則し、全社的な観点から詳細かつ充分に検討して決定します」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「当ホームページ上に掲載されている情報は、投資判断の参考として投資一般に関する情報提供を目的としたものであり、投資の勧誘を目的としたものではありません」（https://www.fujikuracomposites.jp/ir/stock/・1回目）
 - 顧客の顧客（主要取引先・発注元）：
-  - 「国内外の顧客の資金を中長期の視点で日本株式にて運用しています」（https://hibiki-investment-news.com/・1回目）
-  - 「国内外の顧客の資金を中長期の視点で日本株式にて運用しています」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「国内外の顧客の資金を中長期の視点で日本株式にて運用しています」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
-  - 「国内外の顧客の資金を中長期の視点で日本株式にて運用しています」（https://hibiki-investment-news.com/eng/tomoe_20251117/・1回目）
-  - 「国内外の顧客の資金を中長期の視点で日本株式にて運用しています」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「国内外の顧客の資金を中長期の視点で日本株式にて運用しています」（https://hibiki-investment-news.com/eng/matsukiyococokara_20220311/・1回目）
-  - 「国内外の顧客の資金を中長期の視点で日本株式にて運用しています」（https://hibiki-investment-news.com/eng/daiwabo_20220316/・1回目）
-  - 「国内外の顧客の資金を中長期の視点で日本株式にて運用しています」（https://hibiki-investment-news.com/news/mandom_20250808/・1回目）
-  - 「特に期待しているのは、当社の主要顧客であるイビデン株式会社（以下、「イビデン」）の動向です」（https://hibiki-investment-news.com/eng/jpc_20251027/・1回目）
-  - 「JPCの25/3期の主要販売先は以下の通りで、イビデンが30％弱を占めています」（https://hibiki-investment-news.com/eng/jpc_20251027/・1回目）
-  - 「図2：JPCの販売先別売上構成」（https://hibiki-investment-news.com/eng/jpc_20251027/・1回目）
-  - 「当社は本来技術的には高い評価を得られるにもかかわらず、顧客リーチの不足で売上機会を失っているように見えております」（https://hibiki-investment-news.com/eng/jpc_20251027/・1回目）
+  - 「売上高や規模の拡大のみを追い求めることなく、グループが一体となって、顧客重視の経営姿勢を今後も貫いていきます」（https://www.fujikuracomposites.jp/company/・1回目）
+  - 「当社グループは、自動車部品メーカーに対する売上が多く、自動車産業に大きく依存した状況にあります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「実際の業績等に影響を与える要素には、経済情勢、顧客ニーズの動向、為替レートの変動、原材料価格の変動、急速な技術革新等が考えられますが、これらに限定されるものではありません」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「当社は、情報セキュリティの確保を経営上の重要事項と位置づけ、お客様やお取引先からお預かりした情報資産と当社の情報資産をサイバー攻撃などの脅威から守るとともに、社会価値を創造し、誰もが人間性を十分に発揮できる持続可能な社会の実現に貢献します」（https://www.fujikuracomposites.jp/ir/governance/risk-management/・1回目）
+  - 「2025年度は、顧客プライバシーの侵害や顧客データの紛失などは発生しませんでした」（https://www.fujikuracomposites.jp/ir/governance/risk-management/・1回目）
+  - 「藤倉コンポジットでは、大規模災害の発生時には従業員の安全・安心の確保を最優先とし、速やかに事業の継続と、お客様、お取引先への責任を果たすことが最重要課題の一つと考えています」（https://www.fujikuracomposites.jp/ir/governance/risk-management/・1回目）
+  - 「前職では医療機器メーカーで、既存顧客向けの製品のフォローを担当する営業職として働いていました」（https://www.fujikuracomposites.jp/recruit/member/15/・1回目）
+  - 「入社して約１年たった頃には、新規顧客獲得の重要な機会である展示会の責任者まで任せていただきました」（https://www.fujikuracomposites.jp/recruit/member/15/・1回目）
+  - 「（２）当社連結売上高の2％以上の重要な取引が当社グループとの間にある企業の業務執行取締役・執行役・執行役員でないこと」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
+  - 「d 上場会社を主要な取引先とする者又はその業務執行者」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
+  - 「e 上場会社の主要な取引先又はその業務執行者」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
+  - 「h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
 - 顧客の顧客が求めること（調達方針・要求）：
-  - 「当社は金（Gold）等の貴金属メッキ薬の開発・製造・販売を事業の主体としており、高い薬品品質を背景に特にスマートフォン・PC・サーバー等のハイエンド電子機器用途で高いシェアを誇っています」（https://hibiki-investment-news.com/eng/jpc_20251027/・1回目）
-  - 「には特に脱炭素の文脈で語られることが多いですが、SDGs達成に向けた目標設定や」（https://hibiki-investment-news.com/wp-content/uploads/2022/11/Starmica-final-HIN.pdf・2回目）
-  - 「高品質なカーボン素材を、」（https://hibiki-investment-news.com/wp-content/uploads/2026/06/Fujikura-Composites-Introduction-Materials-JP-vf.pdf・2回目）
-  - 「東ソーが国際認証「ISCC PLUS」取得」（https://gomuhouchi.com/business/72919/・3回目）
-  - 「リクエスト元 IP アドレス・User-Agent・リクエストパス・ステータスコード等を保存し、AI クローラー（ClaudeBot, GPTBot 等）と人間のアクセスの比率把握、不正アクセスの検知、配信品質の改善のために利用しています」（https://the-shashi.com/tse/5121/ceo/・3回目）
-  - 「サイトの品質改善と不正な送信の防止のために利用し、本文の要約には外部の AI サービスを利用する場合があります」（https://the-shashi.com/tse/5121/ceo/・3回目）
-  - 「もちろんToC向けは製品開発・品質・コスト最適化などの壁が高く、いきなり踏み込むのは難しい」（https://sbro.co.jp/ourworks/case-489174/・3回目）
-  - 「納期までに終われば、」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
-  - 「【業務詳細】（開発援助営業）受発注・回収、新規案件の開発、品質不具合対応、価格改定交渉など 【製品例】自動車、家電・住宅設備等における、ガスや油を使用する部分に取り付ける、圧力をコントロールするゴム膜や、モレを防止するシール材(Oリングなど)」（https://www.r-agent.com/company/46090/・3回目）
-  - 「リクエスト元 IP アドレス・User-Agent・リクエストパス・ステータスコード等を保存し、AI クローラー（ClaudeBot, GPTBot 等）と人間のアクセスの比率把握、不正アクセスの検知、配信品質の改善のために利用しています」（https://the-shashi.com/tse/5121/shareholders/・3回目）
-  - 「サイトの品質改善と不正な送信の防止のために利用し、本文の要約には外部の AI サービスを利用する場合があります」（https://the-shashi.com/tse/5121/shareholders/・3回目）
-  - 「また、カーボンニュートラルや脱炭素社会の流れを受けて、軽量・高強度素材へのニーズも高まっており、」（https://note.com/fisco_jp/n/n8ac8c65362c1・3回目）
+  - 「こうした変化を見据えながら、藤倉コンポジットは世界中のお客様に品質と価格の両面で満足いただける、」（https://www.fujikuracomposites.jp/company/network/・1回目）
+  - 「当社グループは、世界的に認められている品質管理基準に厳格に従って様々な製品を製造しております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「しかし、全ての製品について欠陥が無く、将来的に品質クレームが発生しないという保証はありません」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「当社グループでは、事業リスク、災害リスク、品質・環境リスク、安全衛生リスク、不正リスク等リスクの種類に応じて設ける管掌部門及び専門委員会がリスクを内包する部門と協力してリスクの継続的な識別、分析、評価、対応策の検討及び検証を行うほか、グループ全体にかかる重要なリスクの継続的な識別、分析、評価、対応策の検討及び検証をリスクマネジメント委員会の管理下において、リスク管理をグループ横断的かつ統合的に行っております」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「きめ細かな視点による品質管理や工場運営は、高付加価値シャフトの製造において目覚ましい成果を上げており、今後のモデルケースとなることを期待しています」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「品質保証統括部が中心となり社内外の安全を担保するだけでなく、先進技術戦略室も加わった電気自動車向けの製品開発や液体検知センサなどのイノベーション創出からの製品開発を強力に進めています」（https://www.fujikuracomposites.jp/focus/general-manager-message/・1回目）
+  - 「バリューチェーン全体では、資材部門と連携してサプライヤーへのエンゲージメント調査を開始しました」（https://www.fujikuracomposites.jp/focus/general-manager-message/・1回目）
+  - 「今後は実態に寄り添ったヒアリングや底上げのための支援活動を展開するとともに、サプライヤーの負担軽減に向けた調査項目の共通化など、コミュニケーションを深めながら持続可能なサプライチェーンの構築を目指します」（https://www.fujikuracomposites.jp/focus/general-manager-message/・1回目）
+  - 「さらに、近年特に強化が求められる情報セキュリティリスクについては情報統合室と連携し、BCP（事業継続計画）への展開など、統合した機能を通じて幅広いリスクへの対応力を高めています」（https://www.fujikuracomposites.jp/focus/general-manager-message/・1回目）
+  - 「そしてバリューチェーン全体を通じて脱炭素化を推進し、社会の持続可能な発展を目指します」（https://www.fujikuracomposites.jp/focus/environment-management/・1回目）
+  - 「また、バリューチェーン全体を通じた脱炭素化を推進し、新たな価値を創出することにより、持続可能な社会の発展を目指します」（https://www.fujikuracomposites.jp/focus/environment-management/・1回目）
+  - 「地球環境の保全のために、脱炭素、資源保全、循環経済の構築に向けて活動し、バリューチェーン全体を通じた持続可能な発展を目指します」（https://www.fujikuracomposites.jp/focus/environment-management/・1回目）
 - 顧客の競合：
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/・1回目）
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/eng/tomoe_20251117/・1回目）
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/eng/matsukiyococokara_20220311/・1回目）
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/eng/daiwabo_20220316/・1回目）
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/news/mandom_20250808/・1回目）
-  - 「の中でも記載している通り、当社は他社に先駆けて当地に1969年に進出後、多くの島々からなる国の商流・物流網を地道に整備した上で、現地の生活に根差したマーケティング及び製品開発で飛躍的な成長を遂げました」（https://hibiki-investment-news.com/news/mandom_20250808/・1回目）
-  - 「同様に、その他海外地域における、当社のポジショニングや競合優位性とそれを踏まえた戦略が明確になっていない印象を受けており、その結果、四半期での売上の増減率を踏まえて、その先の業績に対する投資家の立場での予見性を高めることが困難に感じております」（https://hibiki-investment-news.com/news/mandom_20250808/・1回目）
-  - 「課題、競争、協力」（https://hibiki-investment-news.com/eng/jpc_20251027/・1回目）
-  - 「当社は金（Gold）等の貴金属メッキ薬の開発・製造・販売を事業の主体としており、高い薬品品質を背景に特にスマートフォン・PC・サーバー等のハイエンド電子機器用途で高いシェアを誇っています」（https://hibiki-investment-news.com/eng/jpc_20251027/・1回目）
+  - 「中国浙江省杭州市に杭州藤倉橡膠有限公司（現連結子会社）を設立」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「中国浙江省安吉経済開発区に安吉藤倉橡膠有限公司」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「中国市場の拡大など、国内製造業の事業環境は急変しています」（https://www.fujikuracomposites.jp/company/network/・1回目）
+  - 「当社グループは、中国を始めとして米国、ベトナム等海外に生産拠点を有し、積極的に海外への事業拡大を行っておりますが、進出した当該国の固有の事情や体制、法律の変化等により事業計画に影響を及ぼす可能性を有しております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「また、沈黙期間以外の時点においても、同業他社との競争上不利となる、あるいは守秘義務契約を締結している等の理由により、特定の情報に関してご質問等にお答えできない場合があります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「他社との協業を含め、新規開発製品の強化」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「当社にしかできない複雑な素材の複合化技術が評価され、国内外のプロツアーでの圧倒的な使用率を背景に、グローバル市場における藤倉ブランドのシャフトシェアは50％を超えるまでに成長しています」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「当社グループは、日本の不正競争防止法、米国の海外腐敗行為防止法（Foreign Corrupt Practices Act）、英国の贈収賄禁止法（Bribery Act）をはじめとする、当社グループが事業を展開するあらゆる国・地域における贈収賄規制を全て遵守します」（https://www.fujikuracomposites.jp/ir/governance/compliance/・1回目）
+  - 「当社では、「知財で事業を支援する」を基本方針とし、当社独自の技術・ブランドの権利化、特許情報を主とした市場動向・競合動向などを分析し、営業部門・技術部門と協同して企業価値の向上および事業活動を支える活動を推進しています」（https://www.fujikuracomposites.jp/ir/governance/risk-management/・1回目）
+  - 「一方で、他社の知的財産権を尊重するため、他社調査や侵害回避等の予防措置を講じています」（https://www.fujikuracomposites.jp/ir/governance/risk-management/・1回目）
+  - 「また、今後は日本国内や中国など、高齢化の進展に伴い市場拡大が見込まれる医療分野に注目しています」（https://www.fujikuracomposites.jp/ir/management/message/・1回目）
+  - 「新規開拓営業での最も大きな壁は、競合の牙城を崩すこと」（https://www.fujikuracomposites.jp/recruit/member/15/・1回目）
 - 自社の競合（すでに入っている売り手）：
-  - 「2026年1月より、3D Investment Partners Pte. Ltd.へ事業統合されました」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年6月17日 ー IGポートのサンリオとの資本業務提携について」（https://hibiki-investment-news.com/・1回目）
-  - 「3D Investment Partnersへの事業統合に関するお知らせ」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年11月28日 ー 3D Investment Partnersへの事業統合に関するお知らせ」（https://hibiki-investment-news.com/・1回目）
-  - 「2026年1月より、3D Investment Partners Pte. Ltd.へ事業統合されました」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「2025年6月17日 ー IGポートのサンリオとの資本業務提携について」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「3D Investment Partnersへの事業統合に関するお知らせ」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「2026年1月より、3D Investment Partners Pte. Ltd.へ事業統合されました」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
-  - 「2025年6月17日 ー IGポートのサンリオとの資本業務提携について」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
-  - 「3D Investment Partnersへの事業統合に関するお知らせ」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
-  - 「2026年1月より、3D Investment Partners Pte. Ltd.へ事業統合されました」（https://hibiki-investment-news.com/eng/tomoe_20251117/・1回目）
-  - 「2025年6月17日 ー IGポートのサンリオとの資本業務提携について」（https://hibiki-investment-news.com/eng/tomoe_20251117/・1回目）
+  - 「他社との協業を含め、新規開発製品の強化」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「加えて、スタートアップ企業である株式会社テクサーとの資本業務提携を通じ、当社のセンサ技術を活かしたスマートビルディング市場への参入も果たしました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「2025年12月には、テクサー株式会社との共同開発で、「電源レス漏水センサー × 太陽光発電＋1NCE通信対応L5G Gateway評価キット」を発表するなど、新製品開発をよりスピーディーに展開しています」（https://www.fujikuracomposites.jp/ir/management/message/・1回目）
+  - 「年金の運用に関しては、社外の資産管理運用機関と契約を締結し、運用を委託しております」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
+  - 「法人・法律事務所等（社員・パートナー・従業員等を含む）でないこと」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
+  - 「税理士法人、法律事務所等（社員、パートナー、従業員等を含む）でない」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
+  - 「第 20 条 第 17条の単元未満株式買取請求に係る手数料は、株式の売買の委託に係る手数料相当額として」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2025/06/stock.pdf・2回目）
+  - 「株主名簿および新株予約権原簿に関する事務は株主名簿管理人に委託し、当会社」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2025/06/teikan2025520.pdf・2回目）
+  - 「収集データは、上記の目的の範囲で、業務を委託する外部サービス（アクセス解析・配信など）に取り扱わせる場合があります」（https://the-shashi.com/tse/5121/ceo/・3回目）
+  - 「藤倉コンポジット社長・森田健司氏/摺動装置部品を共同開発」（https://newswitch.jp/keyword/detail/68239・3回目）
+  - 「業務提携を「資本」にした理由：共創のスピードと“共創のパートナー”」（https://sbro.co.jp/ourworks/case-489174/・3回目）
+  - 「今回の取り組みは、いわゆる「共同開発して販売する」という業務提携の枠組みでも成立し得た」（https://sbro.co.jp/ourworks/case-489174/・3回目）
 - 採用（足りない人・職種）：
+  - 「中途採用 募集要項｜藤倉コンポジット 採用サイト」（https://www.fujikuracomposites.jp/recruit/mid-career/・1回目）
+  - 「新卒者向け・中途者向け・障がい者向けの募集要項をご覧いただけます」（https://www.fujikuracomposites.jp/recruit/・1回目）
+  - 「新卒採用 募集要項｜藤倉コンポジット 採用サイト」（https://www.fujikuracomposites.jp/recruit/new-graduate/・1回目）
+  - 「障がい者採用 募集要項｜藤倉コンポジット 採用サイト」（https://www.fujikuracomposites.jp/recruit/disabilities/・1回目）
+  - 「新卒者向け・中途者向け・障がい者向けの募集要項をご覧いただけます」（https://www.fujikuracomposites.jp/recruit/member/15/・1回目）
+  - 「新卒者向け・中途者向け・障がい者向けの募集要項をご覧いただけます」（https://www.fujikuracomposites.jp/recruit/member/108/・1回目）
+  - 「新卒者向け・中途者向け・障がい者向けの募集要項をご覧いただけます」（https://www.fujikuracomposites.jp/recruit/benefit/・1回目）
   - 「キャリア 募集職種 藤倉コンポジットの求人・仕事・採用｜スタンバイでお仕事探し」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「藤倉コンポジット株式会社の中途採用・転職・求人情報｜転職エージェントならリクルートエージェント」（https://www.r-agent.com/company/46090/・3回目）
   - 「藤倉コンポジット株式会社の中途採用・転職・求人情報」（https://www.r-agent.com/company/46090/・3回目）
   - 「募集職種 【営業(品川)/工業用ゴム部品】自動車、住宅設備など/プライム上場」（https://www.r-agent.com/company/46090/・3回目）
   - 「募集職種 【機構設計(岩槻)/エアシリンダ、レギュレータ等】空圧機器の製品・装置設計」（https://www.r-agent.com/company/46090/・3回目）
-  - 「募集職種 ※未経験歓迎【埼玉/加須】製造オペレーター(交代無し)/プライム上場、離職率低」（https://www.r-agent.com/company/46090/・3回目）
 - 発言（社長・役員）：
-  - 「2025年11月4日 ー 玉井商船 清崎社長とのご面談及び大量保有に関わる変更報告書の提出について」（https://hibiki-investment-news.com/・1回目）
-  - 「ひびき・パース・アドバイザーズ代表取締役社長兼最高投資責任者…」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年11月4日 ー 玉井商船 清崎社長とのご面談及び大量保有に関わる変更報告書の提出について」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「2025年11月4日 ー 玉井商船 清崎社長とのご面談及び大量保有に関わる変更報告書の提出について」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
-  - 「2025年11月4日 ー 玉井商船 清崎社長とのご面談及び大量保有に関わる変更報告書の提出について」（https://hibiki-investment-news.com/eng/tomoe_20251117/・1回目）
-  - 「2025年11月4日 ー 玉井商船 清崎社長とのご面談及び大量保有に関わる変更報告書の提出について」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「2025年11月4日 ー 玉井商船 清崎社長とのご面談及び大量保有に関わる変更報告書の提出について」（https://hibiki-investment-news.com/eng/matsukiyococokara_20220311/・1回目）
-  - 「2025年11月4日 ー 玉井商船 清崎社長とのご面談及び大量保有に関わる変更報告書の提出について」（https://hibiki-investment-news.com/eng/daiwabo_20220316/・1回目）
-  - 「ひびき・パース・アドバイザーズ（以下、「ひびき」）は3月16日、ダイワボウホールディングス株式会社（以下、「ダイワボウ」）の西村社長及び取締役の皆様と面談し、今後の事業戦略並びに市場評価を高めるための施策について、プレゼンテーション（下記リンク参照）及び意見交換をしてきました」（https://hibiki-investment-news.com/eng/daiwabo_20220316/・1回目）
-  - 「ダイワボウは、グループ経営指標としてROIC目標を導入されていますが、ROICで厳格に各事業を管理していかれるようであり、またROIC経営の重要性について西村社長ご自身も強い認識を持たれていた模様で、建設的な意見交換の機会となりました」（https://hibiki-investment-news.com/eng/daiwabo_20220316/・1回目）
-  - 「2025年11月4日 ー 玉井商船 清崎社長とのご面談及び大量保有に関わる変更報告書の提出について」（https://hibiki-investment-news.com/news/mandom_20250808/・1回目）
-  - 「前回の取材では、この構造改革を断行するにあたり、インドネシアにおける経営陣の刷新を行うとともに、渡辺取締役（PT MANDOM INDONESIA Tbk代表取締役）の陣頭指揮のもとで、今までに出来ていなかった当たり前のことを地道に一歩ずつ改善されているとのお話をいただいておりました」（https://hibiki-investment-news.com/news/mandom_20250808/・1回目）
+  - 「当社は明治34年に藤倉善八翁の意を受け継いだ末弟の松本留吉が、初代社長として事業を立ち上げて以来、120年という長い月日を経て、更に未来へ羽ばたこうとしております」（https://www.fujikuracomposites.jp/company/message/・1回目）
+  - 「Fujikura Composite America, Inc. CEO」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+  - 「FUJIKURA COMPOSITES HAIPHONG,INC.取締役社長」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+  - 「内部通報制度により複線的な情報伝達経路を定めており、外部の弁護士事務所の他、社内においては取締役社長、常勤監査等委員、管理本部長、コンプライアンス推進委員長、人事総務部長、各事業所を管掌する人事担当チームの責任者、健康管理室員、労働組合委員長の中から通報者の意思により選択して、職制を経由しない直接的情報伝達が可能となっております」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「監査等委員会は、代表取締役及び会計監査人と定期的な会合を持ち意見交換を行うほか、必要に応じてグループ会社を含む当該責任者等に直接ヒアリングを行う等、監査の強化を図っております」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「取締役の個人別報酬の決定にあたっては、株主総会において決定された報酬の限度額の範囲内で、取締役会が、任意の諮問機関である指名報酬諮問委員会の意見を徴することを条件に、当社代表取締役社長執行役員に個人別報酬額の決定を委任するものとする」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「委任をする場合、代表取締役社長執行役員は、個人別報酬の原案を作成し、指名報酬諮問委員会の答申を経た上で、個人別報酬を決定する」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「トップメッセージ｜サステナビリティ｜藤倉コンポジット株式会社」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「この強みを「稼ぐ力」に変えるため、私は2024年に新設した「先進技術戦略室」を社長直轄組織とし、意思決定のスピードを飛躍的に高めました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「サステナビリティ統括室長メッセージ｜サステナビリティ｜藤倉コンポジット株式会社」（https://www.fujikuracomposites.jp/focus/general-manager-message/・1回目）
+  - 「発足当初は経営企画、人事、経理などのリーダーを中心とした数名体制の事務局でしたが、推進力を飛躍的に高めるため、組織を社長直轄へと変更しました」（https://www.fujikuracomposites.jp/focus/general-manager-message/・1回目）
+  - 「2024年4月から同統括室は社長直轄とした組織体制となり、サステナビリティ全般に対する活動の一層の強化を図っています」（https://www.fujikuracomposites.jp/focus/environment-climate-change/・1回目）
 - 政治（法・補助・規制）：
+  - 「2022年度以降、新たな化学物質規制として労働安全衛生法の関係政省令が改正され、ラベル表示・SDS通知・リスクアセスメント実施の対象物質が順次追加されています」（https://www.fujikuracomposites.jp/focus/environment-coexistence-with-nature/・1回目）
+  - 「法令に基づく各種測定値では規制基準を遵守していることも説明し、環境負荷低減や地域の環境保全の活動状況を確認いただきました」（https://www.fujikuracomposites.jp/focus/environment-coexistence-with-nature/・1回目）
+  - 「グローバル規模での人権、労働慣行に対する関心の高まりに伴い、適正な行政機能を阻害する原因となる他国の公務員などに対する贈賄に関する先進諸国の規制が強化されています」（https://www.fujikuracomposites.jp/ir/governance/compliance/・1回目）
+  - 「当社グループは、日本の不正競争防止法、米国の海外腐敗行為防止法（Foreign Corrupt Practices Act）、英国の贈収賄禁止法（Bribery Act）をはじめとする、当社グループが事業を展開するあらゆる国・地域における贈収賄規制を全て遵守します」（https://www.fujikuracomposites.jp/ir/governance/compliance/・1回目）
   - 「ことが伝えられていますし、半導体材料大手のJSR株式会社や近接業界では新光電気工業株式会社は、経済安全保障的視点も含めた、半導体関連業界の強化を目的に、官民ファンドである産業革新投資機構（JICC）により相次いで非公開化されております」（https://hibiki-investment-news.com/eng/jpc_20251027/・1回目）
   - 「¡WBAはドラッグ水平統合中心で資産効率悪化、さらに2015年のRiteAid買収で規制」（https://hibiki-investment-news.com/wp-content/uploads/2022/03/202203_MKCC_IR-Presentation-Proposal.pdf・2回目）
   - 「補助金給付対象 藤倉コンポジット株式会社製」（https://shimatonet.co.jp/news202401242・3回目）
@@ -587,59 +625,46 @@
   - 「藤倉コンポジット健康保険組合の補助金・交付金の採択実績｜2件」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
   - 「高齢者医療運営円滑化等補助金（財政基盤の強化が必要な健康保険組合が行う保健事業等に要する費用に対して行う助成事業）」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
   - 「補助金を繰り返し取れている会社には、「制度の探し方」と「事業計画の書き方」が社内に残っています」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
-  - 「採択の多い会社の事業内容から、評価されやすい切り口を学ぶ」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
-  - 「出典: 各省庁が公表する補助金・交付金の交付決定情報をもとに集計」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
-  - 「国立研究開発法人科学技術振興機構の補助金・交付金の採択実績｜51件」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
-  - 「埼玉県の補助金・交付金の採択実績｜824件」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
 - 経済（売上・利益・投資額）：
-  - 「投資有価証券を11億円購入する等、」（https://hibiki-investment-news.com/eng/tomoe_20251117/・1回目）
-  - 「投資有価証券の金額は432億円まで増加し（前期末358億円）、純資産に占める投資有価証券の割合は56%（前期末49%）に上昇」（https://hibiki-investment-news.com/eng/tomoe_20251117/・1回目）
-  - 「（売上▲15.3%、営業利益▲21.3%）しているにも関わらず、その点に関する具体的な説明や資本面での改善対応を行うことなく、既存の延長戦上の取り組みのみに終始する当社経営陣に対する失望を隠せません」（https://hibiki-investment-news.com/eng/tomoe_20251117/・1回目）
-  - 「先ず、一点目は図１の通り、売上/利益の定量目標の開示（2026/11期の売上700億円、営業利益70億円、当期利益38億円）です」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「尚、2026/11期の当期利益38億円が達成されると仮定し、現在の時価総額254億円を基にPER倍率を計算すると、6.7倍になります」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「2024年11月期において、業界慣習からして保守的と言える不動産鑑定評価ベースで268億円の含み益があることは大変素晴らしいこと」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「ですが、私どものような零細株主にはその268億円が自身の所有している株式のどの程度か、じっくり計算をしないと分かりません（実際は、図2から類推される通り、一株当たりで税引き後でも500円以上の大きな額となります）」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「図3の「当期の販売による減少（実現）」の約72億円に相当する部分が、既存保有不動産の売却による実現であり、前期含み益の約28%（=72÷258）が実際の利益という形で株主に実現していることになります」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「以前の開示では、例えば、前期から今期にかけての含み益258億円⇒268億円のグロス数値のみが示されており、表面上含み益が増加しているだけで実現されていないようにも見えていました」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「前回の説明資料からの変更点として、「成長投資額500~550億円程度/年」が追加されています」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「当社の販売用不動産2024/11期残高 958億円に対して28%」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「図1でお示ししている通り、26/3期1Qの売上と営業利益はそれぞれ前期比10%と46%増加しています」（https://hibiki-investment-news.com/news/mandom_20250808/・1回目）
+  - 「売上高や規模の拡大のみを追い求めることなく、グループが一体となって、顧客重視の経営姿勢を今後も貫いていきます」（https://www.fujikuracomposites.jp/company/・1回目）
+  - 「したがって、自動車産業の生産動向によって売上高に重大な影響を及ぼす可能性を有しております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「当社は、外貨建債権債務を有しているため、期末での換算差額が為替差損益として発生し、経常利益に重大な影響を及ぼす可能性を有しております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「当社グループにおいては、原材料のうちゴム・樹脂・繊維等原油価格変動の影響を受ける資材が全仕入の60%程度あるため、原油価格の変動により材料費が変動し、営業利益に重大な影響を及ぼす可能性を有しております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
+  - 「業績連動報酬は、最終利益に対する取締役の意識の向上を目的として前年度の連結当期純利益を指標として算出する」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「前年度の連結当期純利益に対して、全ての取締役に共通する固定係数0.03を乗じ、更に支給の対象となる取締役の役位ごとに定めた役位係数を乗じ、報酬額を決定する」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「固定報酬・業績連動報酬・株式報酬の割合は、役位・業績等により変動するが、連結当期純利益38億円の場合、固定報酬割合60～70％、変動報酬（業績連動報酬および株式報酬）割合40～30％を目安とする」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
+  - 「2026年3月期（2025年度実績）の決算につきましては、世界的な地政学リスクやサプライチェーンへの影響、インフレなど不確実性の高い事業環境のもとでありましたが、売上高は402億38百万円（前期比0.9%減）、営業利益は48億38百万円（同4.7%増）と、利益面で増益を達成することができました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「売上高は計画に対して若干未達となったものの、各事業が持つ強みを活かし、安定した利益水準を確保できたことは成果の一つだと捉えています」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「スポーツ用品事業においては、コロナ禍以降のゴルフ市場の在庫調整の影響等により減収となりましたが、当社のオリジナルシャフトは高付加価値製品として底堅い需要を維持し、営業利益率30％以上という高い収益性となっています」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「当社は、第7次中期経営計画期間において、人的資本に対して約14億円の投資を計画しています」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
+  - 「地政学的リスクが高まる中、売上高、営業利益、営業利益率についてお聞かせください」（https://www.fujikuracomposites.jp/ir/management/message/・1回目）
 - 技術（特許・開発）：
-  - 「2025年11月27日 ー 日本高純度化学は隠れAI銘柄！？～AIサーバー向け光トランシーバーに注目～」（https://hibiki-investment-news.com/・1回目）
-  - 「2026年6月16日 － （日本高純度に絡めて）AIデータセンター向け光トランシーバー市場動向」（https://hibiki-investment-news.com/・1回目）
-  - 「2025年11月27日 ー 日本高純度化学は隠れAI銘柄！？～AIサーバー向け光トランシーバーに注目～」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「2026年6月16日 － （日本高純度に絡めて）AIデータセンター向け光トランシーバー市場動向」（https://hibiki-investment-news.com/aboutus/hibiki-introduction_20230514/・1回目）
-  - 「2025年11月27日 ー 日本高純度化学は隠れAI銘柄！？～AIサーバー向け光トランシーバーに注目～」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
-  - 「2026年6月16日 － （日本高純度に絡めて）AIデータセンター向け光トランシーバー市場動向」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
-  - 「主力事業の１つであるニューマチックケーソンを中心とした技術開発により、貴社グループの総合橋梁建設事業に対して資本市場においても認められ、さらに企業価値評価が高まっていくべきものと信じております」（https://hibiki-investment-news.com/eng/oriental-shiraishi_20230508/・1回目）
-  - 「2025年11月27日 ー 日本高純度化学は隠れAI銘柄！？～AIサーバー向け光トランシーバーに注目～」（https://hibiki-investment-news.com/eng/tomoe_20251117/・1回目）
-  - 「2026年6月16日 － （日本高純度に絡めて）AIデータセンター向け光トランシーバー市場動向」（https://hibiki-investment-news.com/eng/tomoe_20251117/・1回目）
-  - 「2025年11月27日 ー 日本高純度化学は隠れAI銘柄！？～AIサーバー向け光トランシーバーに注目～」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「2026年6月16日 － （日本高純度に絡めて）AIデータセンター向け光トランシーバー市場動向」（https://hibiki-investment-news.com/news/star-mica-20250116/・1回目）
-  - 「2025年11月27日 ー 日本高純度化学は隠れAI銘柄！？～AIサーバー向け光トランシーバーに注目～」（https://hibiki-investment-news.com/eng/matsukiyococokara_20220311/・1回目）
+  - 「オフセット印刷用ブランケット開発、販売」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「船舶垂直降下式乗込装置（シューター）を開発」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「ベトナム・ハイフォン市にFUJIKURA COMPOSITES HAIPHONG,INC.」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「中国浙江省安吉経済開発区に安吉藤倉橡膠有限公司」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「非常用マグネシウム空気電池「Watt Satt」を開発、販売」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「「バッテリーレス液体検知センサ」を開発、販売開始」（https://www.fujikuracomposites.jp/company/history/・1回目）
+  - 「FUJIKURA COMPOSITES HAIPHONG,INC.取締役社長」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+  - 「当社技術製造統括兼事業開発統括部長兼事業所統括部長」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
+  - 「社内業務システムの開発・運用管理やPCの運用管理、生産管理や販売管理のシステムの変更やPCの入れ替えやキッティング、状態確認や監視等をお任せします」（https://www.fujikuracomposites.jp/recruit/mid-career/・1回目）
+  - 「アプリからサーバー・ネットワーク、システム開発、セキュリティ管理といったITエンジニアの業務を幅広く経験でき、スキルアップできる環境で」（https://www.fujikuracomposites.jp/recruit/mid-career/・1回目）
+  - 「そのために、『技術開発』、企業活動のさまざまな場面における『創造』、『活発なコミュニケーション』を大切にし、お客様へのタイムリーな提案と、少し先の未来に焦点を合わせた独創的な製品を提供していきます」（https://www.fujikuracomposites.jp/company/・1回目）
+  - 「HAIPHONG, INC.」（https://www.fujikuracomposites.jp/company/・1回目）
 - 検索結果の抜粋：
+  - 「藤倉コンポジット ×不二ラテックス AIも追い風に？ゴム製品を ... — 藤倉コンポジット ×不二ラテックス AIも追い風に？ゴム製品を ... 日刊ゲンダイDIGITAL https://www.nikkan-gendai.com > ... > トピックスニュース」（https://www.nikkan-gendai.com/articles/view/money/380461・3回目）
+  - 「[ 情報統合室 ] 社員 インタビュー ｜人を知る - 藤倉コンポジット — [ 情報統合室 ] 社員 インタビュー ｜人を知る - 藤倉コンポジット 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > ... > 入社」（https://www.fujikuracomposites.jp/recruit/member/130/・3回目）
+  - 「【新年 インタビュー 】 藤倉コンポジット 森田健司 社長 — 【新年 インタビュー 】 藤倉コンポジット 森田健司 社長 ゴムタイムス https://www.gomutimes.co.jp > ...」（https://www.gomutimes.co.jp/?p=150199・3回目）
+  - 「藤倉コンポジット 募集職種 キャリアの求人情報をすべて見る （10,207,656件） — 藤倉コンポジット 募集職種 キャリアの求人情報をすべて見る （10,207,656件） スタンバイ」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「株主 優待制度｜株式関連情報 - 藤倉コンポジット — 株主 優待制度｜株式関連情報 - 藤倉コンポジット 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > ... > 株式関連情報」（https://www.fujikuracomposites.jp/ir/stock/stockholder/・3回目）
+  - 「【 藤倉コンポジット 】[5121]適時開示情報 株主総会や定款関連 — 【 藤倉コンポジット 】[5121]適時開示情報 株主総会や定款関連 日本経済新聞 https://www.nikkei.com > nkd > company > disclose」（https://www.nikkei.com/nkd/company/disclose/?scode=5121・3回目）
+  - 「藤倉コンポジット | Hibiki Path Advisors Official Website — 藤倉コンポジット | Hibiki Path Advisors Official Website hibiki-path-advisors.com https://www.hibiki-path-advisors.com > engagement」（https://www.hibiki-path-advisors.com/ja/category/engagement/5121/・3回目）
   - 「IRライブラリー｜IR情報｜ 藤倉コンポジット 株式会社 — IRライブラリー｜IR情報｜ 藤倉コンポジット 株式会社 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > IR情報」（https://www.fujikuracomposites.jp/ir/library/・3回目）
   - 「【 藤倉コンポジット 】[5121] 有価証券報告書 | 日経電子版 — 【 藤倉コンポジット 】[5121] 有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr」（https://www.nikkei.com/nkd/company/ednr/?scode=5121・3回目）
   - 「株主・投資家の皆様へ｜IR情報 - 藤倉コンポジット — 株主・投資家の皆様へ｜IR情報 - 藤倉コンポジット 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > IR情報」（https://www.fujikuracomposites.jp/ir/investors/・3回目）
   - 「藤倉コンポジット 株式会社（5121）の 有価証券報告書 — 藤倉コンポジット 株式会社（5121）の 有価証券報告書 J-LiC 上場企業サーチ https://j-lic.com > ... > 藤倉コンポジット株式会社」（https://j-lic.com/companies/5121/annual-report・3回目）
   - 「財務・業績｜IR情報｜ 藤倉コンポジット 株式会社 — 財務・業績｜IR情報｜ 藤倉コンポジット 株式会社 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > IR情報」（https://www.fujikuracomposites.jp/ir/finance/・3回目）
-  - 「中期経営計画 ｜経営方針｜IR情報｜ 藤倉コンポジット 株式会社 — 中期経営計画 ｜経営方針｜IR情報｜ 藤倉コンポジット 株式会社 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > IR情報 > 経営方針」（https://www.fujikuracomposites.jp/ir/management/plan/・3回目）
-  - 「中期経営計画 （2026年3月期 - 藤倉コンポジット — 中期経営計画 （2026年3月期 - 藤倉コンポジット 藤倉コンポジット株式会社 PDF https://www.fujikuracomposites.jp > main > 2025/07」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2025/07/c551082a8d514e5e39a6aa096559739b.pdf・3回目）
-  - 「Sustainability Report 2023 - 藤倉コンポジット — Sustainability Report 2023 - 藤倉コンポジット 藤倉コンポジット株式会社 PDF https://fujikuracomposites.jp > assets > pdf > report02」（https://fujikuracomposites.jp/focus/assets/pdf/report02.pdf・3回目）
-  - 「IR情報｜ 藤倉コンポジット 株式会社 — IR情報｜ 藤倉コンポジット 株式会社 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > ...」（https://www.fujikuracomposites.jp/ir/・3回目）
-  - 「トップメッセージ｜ 経営 方針｜IR情報 - 藤倉コンポジット — トップメッセージ｜ 経営 方針｜IR情報 - 藤倉コンポジット 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > IR情報 > 経営方針」（https://www.fujikuracomposites.jp/ir/management/message/・3回目）
-  - 「藤倉コンポジット [5121]：2026年3月期（第147期） 決算説明 ... — 藤倉コンポジット [5121]：2026年3月期（第147期） 決算説明 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260612568982/・3回目）
-  - 「2025年12月5日 ― 藤倉コンポジット 株式会社 2Q 決算説明 会 ... — 2025年12月5日 ― 藤倉コンポジット 株式会社 2Q 決算説明 会 ... hibiki-path-advisors.com https://www.hibiki-path-advisors.com > ... > Message 2025」（https://www.hibiki-path-advisors.com/ja/engagement/post-5248/・3回目）
-- 株主：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 資本金：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 従業員数：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 設立：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 代表者：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 役員：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 所在地：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 売上高：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 事業内容：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 拠点：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 取引先：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 取引銀行：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
-- 許認可：記載なし（3回確認済み：公式23頁／PDF・画像24件／外部73頁・検索22回）
+- 設立：記載なし（3回確認済み：公式38頁／PDF・画像18件／外部40頁・検索22回）
+- 売上高：記載なし（3回確認済み：公式38頁／PDF・画像18件／外部40頁・検索22回）
+- 取引先：記載なし（3回確認済み：公式38頁／PDF・画像18件／外部40頁・検索22回）
+- 取引銀行：記載なし（3回確認済み：公式38頁／PDF・画像18件／外部40頁・検索22回）

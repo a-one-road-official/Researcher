@@ -2,6 +2,7 @@
 
 ### 日本→海外（輸出）｜ペロブスカイト太陽電池（perovskite solar cell）
 - 取得：2026-11-05T02:41・調査2回目・読んだ頁75
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（47件）：
   - ［一次］2026-11-05「② 並行して、既存のシリコン太陽電池のリプレース需要を視野に入れて、社会実装・量産化に向け、GI基金の対象追加を検討し、」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
   - ［一次］2026-11-05「導入初期におけるコスト低減と需要拡大の好循環を形成し、2040年には約20GW」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
@@ -88,6 +89,7 @@
   - ［一次］2026-11-04「日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... — 日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... 資源エネルギー庁 https://www.enecho.meti.go.jp > perovskite_solar_cell_01」https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html
 ### 日本→海外（輸出）｜水電解装置（water electrolyzer）
 - 取得：2026-11-05T02:40・調査2回目・読んだ頁74
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（51件）：
   - ［一次］2026-11-05「需要増大も見越し、日本の水電解装置メーカーの大型化・モジュール化の取組を支援することは重要」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
   - ［一次］2026-11-05「⚫ そのため、日本の部素材メーカー等の要素技術の基礎研究だけでなく 、水電解装置への実装に向けた擦り合わせも」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
@@ -170,6 +172,7 @@
   - ［SNS］2026-11-04「飛田 貴大 @ pHydrogen (@TakahiroHida110) / X 水電解装置の製造は中国が圧倒的だけど、インドが第二の集積地になりつつある。 BHELがtk nuceraとアルカリで組み、今月はノルウェーHystarとPEMで提携。 欧米勢は自前工場ではなく、技術供与で入る形が定着してきている。」https://x.com/TakahiroHida110
 ### 日本→海外（輸出）｜グリーンアンモニア（green ammonia）
 - 取得：2026-11-05T02:42・調査2回目・読んだ頁75
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（60件）：
   - ［一次］2026-11-05「EU PPWR、2026年8月の適用開始に向けた企業対応Q&A」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
   - ［一次］2026-11-05「低炭素水素・アンモニア案件で問題となる引取に関して、既存顧客への供給とすることで案件の組成へと繋げていると考えられる」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
@@ -252,6 +255,7 @@
   - ［SNS］2026-11-04「(English Version Follows) ⭕️グリーンアンモニア事業調査に関するオ... Dec 12, 2023 · 同契約により、今後47年間にわたり、Hydromから本コンソーシアムに対して、事業開発権・用役権が付与されます。 これをもとに、本コンソーシアムは、今後本格的な事業化調査を行った上で、事業開発、グリーンアンモニアサプライチェーン構築を目指し ...」https://www.facebook.com/marubeni.jp/videos/english-version-follows️グリーンアンモニア事業調査に関するオマーンhydromとの契約締結について️概要丸紅はオマーン王国国営石油会社傘/1516605119179497/
 ### 日本→海外（輸出）｜合成燃料（e-fuels）
 - 取得：2026-11-05T04:31・調査2回目・読んだ頁71
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（41件）：
   - ［一次］2026-11-05「●EUでは2030年のe-ケロシン(e-SAF)導入スケジュールが確定したことにより、フランス国内では航空向けe-fuelプロジェクトが主流」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf
   - ［一次］2026-11-05「◼ 合成燃料製造プロジェクトは、政府や企業（環境系投資ファンド）等の支援・出資を」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf
@@ -333,6 +337,7 @@
   - ［記事］2026-11-05「第3回 合成燃料 （e-fuel）の導入促進に向けた官民協議会 — 第3回 合成燃料 （e-fuel）の導入促進に向けた官民協議会 YouTube https://www.youtube.com > watch」https://www.youtube.com/watch?v=J8uDZnKTeSo
 ### 日本→海外（輸出）｜地熱発電（geothermal power）
 - 取得：2026-11-05T04:31・調査2回目・読んだ頁74
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（39件）：
   - ［一次］2026-11-04「「地熱発電の導入拡大に向けた技術開発戦略に係る調」https://www.nedo.go.jp/content/800056306.pdf
   - ［一次］2026-11-04「年度から2026年11 月30日まで「地熱発電の導入拡大に向けた技術開発戦略に係る調査・分」https://www.nedo.go.jp/content/800056306.pdf
@@ -419,6 +424,7 @@
   - ［SNS］2026-11-04「地熱発電 のお話｜レモン/温泉好き - note 地熱発電 のお話｜レモン/温泉好き - note note https://note.com > レモン/温泉好き」https://note.com/cheeky_honest673/n/n976ad1b8f7c3
 ### 日本→海外（輸出）｜洋上風力（offshore wind）
 - 取得：2026-11-05T02:52・調査2回目・読んだ頁80
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（72件）：
   - ［一次］2026-11-05「概観、諸外国の洋上風力政策の概観、洋上風力産業のサプライチェーン構造、風車 OEM 工場」https://www.gxa.go.jp/news/.assets/20260406b.pdf
   - ［一次］2026-11-05「 日本は中長期で導入目標（2040年30–45GW）を掲げており、着床式に加え、浮体式の本格導入も市場拡大」https://www.gxa.go.jp/news/.assets/20260406b.pdf
@@ -505,6 +511,7 @@
   - ［SNS］2026-11-04「Offshore Wind Laboratory, 合同会社 洋上風力研究所 Offshore Wind Laboratory, 合同会社 洋上風力研究所. 43 followers. 洋上風力発電や陸上風力発電の風の調査（風況観測）、評価、数値シミュレーション（CFD、WRF）などを行っています。」https://www.facebook.com/Offshore.Wind.Lab/
 ### 日本→海外（輸出）｜小型モジュール炉（small modular reactor）
 - 取得：2026-11-05T04:31・調査2回目・読んだ頁72
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（55件）：
   - ［一次］2026-11-04「同覚書は、インド太平洋地域を当面の重点地域とし、安全で信頼性の高い原子力エネルギーの導入を支援するため、3カ国の政府および産業界の協力強化を目的としている」https://www.jetro.go.jp/biznews/2026/07/6aa54d781384bf8a.html
   - ［一次］2026-11-04「具体的には、SMRプロジェクトの開発リスクの低減、規模の経済の実現、民間投資の促進、許認可手続きの効率化やサプライチェーンの最適化などを可能にする、複数炉の導入モデルの形成を目指す」https://www.jetro.go.jp/biznews/2026/07/6aa54d781384bf8a.html
@@ -591,6 +598,7 @@
   - ［SNS］2026-11-05「[高度成長] 米GDP44兆ドルの特異点と、夜間にブレーキを外したF1マシンの行方」https://note.com/tag/%E5%B0%8F%E5%9E%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E7%82%89
 ### 日本→海外（輸出）｜バイオ由来化学品（bio-based chemicals）
 - 取得：2026-11-05T04:31・調査2回目・読んだ頁59
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（41件）：
   - ［一次］2026-11-05「・2040年の我が国企業の売上目」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
   - ［一次］2026-11-04「同法は、安全保障上懸念される外国バイオ企業」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf

@@ -1,0 +1,640 @@
+{
+ "name": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業",
+ "en": "General Survey on Working Conditions recruitment cost by firm size manufacturing",
+ "aliases": [
+  "就労条件総合調査 募集費 企業規模別",
+  "労働費用 募集費 製造業 site:mhlw.go.jp",
+  "就労条件総合調査 労働費用 規模 e-Stat",
+  "募集費"
+ ],
+ "context": "規模・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:25:15.606701+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "や、臨時的に欠員を生じた場合については、常時使用する労働者数に変動が生じたものとし",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   }
+  ],
+  "セグメント定義": [
+   {
+    "quote": "所の事業所）を母集団として、上記(2)に該当する産業で常用労働者30人以上を雇用する民営企",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別に層化して無作為に抽出した約6,400社",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「完全週休２日制」 を採用している企業を企業規模別にみると、 「1,000人以上」 が66.7％、 「300",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 100.0 4.1 83.3 16.6 66.7",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１企業平均年間休日総数を企業規模別にみると、「1,000 人以上」が 116.8 日、「300～999 人」",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 100.0 1.9 84.7 11.8 72.9",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 100.0 0.2 1.2 0.7 1.6 21.2 22.2 50.0 2.9 116.8 119.7",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 18.7 11.3 60.8",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 100.0 51.9 (100.0) ( 6.1) ( 7.5) (68.8) ( 3.1) ( 3.9) ( 1.4) ( 0.8) ( 3.4) 48.1",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 100.0 71.9 34.8 36.9 42.3 23.5 5.1 26.2 28.1",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れを企業規模別にみると、「1,000人以上」が76.4％、「300～999人」が 69.5％、「100～299 人」",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 100.0 76.4 21.3 49.8 28.7 23.6",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 100.0 45.8 7.3 22.4 16.0 54.2",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 100.0 25.6 17.5 9.1 4.7 74.4",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,000人以上 100.0 10.0 7.7 1.8 0.5 90.0",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "」で5年おきに調査する労働費用に関する事項の結果から、常用労働者1人1か月の平均労働費用総額などを産業及び企業規模別に調べることができます",
+    "url": "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "小 売 業 5,000万円以下 50人以下 １億円 100人 中 小 企 業",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サ ー ビ ス 業 5,000万円以下 100人以下 １億円 500人 中 小 企 業",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "(1) 労働費用総額 ··············································· 12頁",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 労働費用総額",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年（平成 31（令和元）会計年度） の 「労働費用総額」 は常用労働者1人 1か月平均408,140",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「労働費用総額」に占める「現金給与額」の割合は82.0％、 「現金給与以外の労働費用」の割合",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注： 1) ( )内の数値は、「労働費用総額」を100とした割合である",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働費用総額 1) 現金給与額 現金給与以外の労働費用企業規模・産業・年",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "」で5年おきに調査する労働費用に関する事項の結果から、常用労働者1人1か月の平均労働費用総額などを産業及び企業規模別に調べることができます",
+    "url": "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "や、臨時的に欠員を生じた場合については、常時使用する労働者数に変動が生じたものとし",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "令和３年就労条件総合調査の概況",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査の概要 ························································ １頁",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年就労条件総合調査の結果は、厚生労働省のホームページにも掲載されています",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 調査の目的",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この調査は、主要産業における企業の労働時間制度、賃金制度等について総合的に調査し、我",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が国の民間企業における就労条件の現状を明らかにすることを目的として実施している",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 調査の範囲及び対象",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 調査の時期",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年１月１日現在の状況について調査を行った",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は平成31（令和元）会計年度）1 年間の状況について調査を行った",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 調査事項",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 調査方法",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省が委託した民間事業者が、調査票を調査対象企業へ郵送し、調査対象企業の記入担",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７ 調査系統",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 調査客体数、有効回答数及び有効回答率",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "」で5年おきに調査する労働費用に関する事項の結果から、常用労働者1人1か月の平均労働費用総額などを産業及び企業規模別に調べることができます",
+    "url": "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "000",
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "quote": "小 売 業 5,000万円以下 50人以下 １億円 100人 中 小 企 業"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.syarogo-itonao.jp/16785399104505",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&kikan=00450&toukei=00450099&tstat=000001014004&tclass1=000001224722&tclass2=000001225002&tclass3val=0&second2=1&stat_infid=000040242232",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-train.jp/letter/202002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/001994097.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&kikan=00450&toukei=00450099&tstat=000001014004&tclass1=000001104336&tclass2=000001104377&tclass3val=0&second2=1&stat_infid=000031605949",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fpeo.co.jp/news/news-8325/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/html/s09.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ailabor.or.jp/new_rodo/entry-13565.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je25/h02-03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/kako/2013/documents/useful2013.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/wgkaisai/shouryokukatousi_dai1/siryou4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&query=%E7%B5%A6%E4%B8%8E&layout=dataset&toukei=00450099&cycle=0&stat_infid=000032034552&metadata=1&data=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/guide/statguide01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sr-rouki.com/2021/11/12/%E4%BB%A4%E5%92%8C%EF%BC%93%E5%B9%B4-%E5%B0%B1%E5%8A%B4%E6%9D%A1%E4%BB%B6%E7%B7%8F%E5%90%88%E8%AA%BF%E6%9F%BB-%E5%8A%B4%E5%83%8D%E8%B2%BB%E7%94%A8-%E5%95%8F%E9%A1%8C%E7%B7%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://levtech.jp/partner/guide/article/detail/98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03%2C07&layout=datalist&cycle=0&toukei=00450099&tstat=000001014004&tclass1=000001162507&tclass2=000001162510&tclass3val=0&stat_infid=000032166071",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai27/shiryou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyagi.jp/soshiki/toukei/koyoutochingin-top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450099&tstat=000001014004&cycle=0&tclass1=000001236727&tclass2=000001236730&stat_infid=000040389670&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/044/dl/001_2.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/shihyo/2026/0310/1406.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rim-con.com/blog20260106/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/2026gaiyou.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 人手不足 受注 断る",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&kikan=00450&toukei=00450099&tstat=000001014004&tclass1=000001224722&tclass2=000001225002&tclass3val=0&second2=1&stat_infid=000040242232",
+    "https://www.sr-train.jp/letter/202002.html",
+    "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/001994097.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://www.hrc-j.com/column/29182/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.ec.kagawa-u.ac.jp/~tetsuta/jeps/no22/kushida.pdf"
+   ]
+  },
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 受注残 人手不足",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&kikan=00450&toukei=00450099&tstat=000001014004&tclass1=000001104336&tclass2=000001104377&tclass3val=0&second2=1&stat_infid=000031605949",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://fpeo.co.jp/news/news-8325/",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/s09.html",
+    "https://ailabor.or.jp/new_rodo/entry-13565.html",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/044/dl/001_2.pdf"
+   ]
+  },
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&kikan=00450&toukei=00450099&tstat=000001014004&tclass1=000001104336&tclass2=000001104377&tclass3val=0&second2=1&stat_infid=000031605949",
+    "https://www5.cao.go.jp/j-j/wp/wp-je25/h02-03.html",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/kako/2013/documents/useful2013.pdf",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/wgkaisai/shouryokukatousi_dai1/siryou4.pdf"
+   ]
+  },
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 採用単価 規模別",
+   "results": [
+    "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&query=%E7%B5%A6%E4%B8%8E&layout=dataset&toukei=00450099&cycle=0&stat_infid=000032034552&metadata=1&data=1",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.jil.go.jp/kokunai/statistics/guide/statguide01.pdf",
+    "https://www.sr-rouki.com/2021/11/12/%E4%BB%A4%E5%92%8C%EF%BC%93%E5%B9%B4-%E5%B0%B1%E5%8A%B4%E6%9D%A1%E4%BB%B6%E7%B7%8F%E5%90%88%E8%AA%BF%E6%9F%BB-%E5%8A%B4%E5%83%8D%E8%B2%BB%E7%94%A8-%E5%95%8F%E9%A1%8C%E7%B7%A8/",
+    "https://levtech.jp/partner/guide/article/detail/98/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf"
+   ]
+  },
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 採用コスト 調査 万円",
+   "results": [
+    "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.sr-rouki.com/2021/11/12/%E4%BB%A4%E5%92%8C%EF%BC%93%E5%B9%B4-%E5%B0%B1%E5%8A%B4%E6%9D%A1%E4%BB%B6%E7%B7%8F%E5%90%88%E8%AA%BF%E6%9F%BB-%E5%8A%B4%E5%83%8D%E8%B2%BB%E7%94%A8-%E5%95%8F%E9%A1%8C%E7%B7%A8/",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://levtech.jp/partner/guide/article/detail/98/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html"
+   ]
+  },
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03%2C07&layout=datalist&cycle=0&toukei=00450099&tstat=000001014004&tclass1=000001162507&tclass2=000001162510&tclass3val=0&stat_infid=000032166071",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.jil.go.jp/kokunai/statistics/guide/statguide01.pdf",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai27/shiryou1.pdf",
+    "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "https://www.pref.miyagi.jp/soshiki/toukei/koyoutochingin-top.html"
+   ]
+  },
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03%2C07&layout=datalist&cycle=0&toukei=00450099&tstat=000001014004&tclass1=000001162507&tclass2=000001162510&tclass3val=0&stat_infid=000032166071",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.sr-rouki.com/2021/11/12/%E4%BB%A4%E5%92%8C%EF%BC%93%E5%B9%B4-%E5%B0%B1%E5%8A%B4%E6%9D%A1%E4%BB%B6%E7%B7%8F%E5%90%88%E8%AA%BF%E6%9F%BB-%E5%8A%B4%E5%83%8D%E8%B2%BB%E7%94%A8-%E5%95%8F%E9%A1%8C%E7%B7%A8/",
+    "https://ailabor.or.jp/new_rodo/entry-13565.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/s09.html"
+   ]
+  },
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450099&tstat=000001014004&cycle=0&tclass1=000001236727&tclass2=000001236730&stat_infid=000040389670&tclass3val=0",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/044/dl/001_2.pdf",
+    "https://fpeo.co.jp/news/news-8325/",
+    "https://www5.cao.go.jp/keizai3/shihyo/2026/0310/1406.pdf",
+    "https://www.sr-rouki.com/2021/11/12/%E4%BB%A4%E5%92%8C%EF%BC%93%E5%B9%B4-%E5%B0%B1%E5%8A%B4%E6%9D%A1%E4%BB%B6%E7%B7%8F%E5%90%88%E8%AA%BF%E6%9F%BB-%E5%8A%B4%E5%83%8D%E8%B2%BB%E7%94%A8-%E5%95%8F%E9%A1%8C%E7%B7%A8/",
+    "https://rim-con.com/blog20260106/"
+   ]
+  },
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 白書 採用",
+   "results": [
+    "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03%2C07&layout=datalist&cycle=0&toukei=00450099&tstat=000001014004&tclass1=000001162507&tclass2=000001162510&tclass3val=0&stat_infid=000032166071",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/2026gaiyou.pdf",
+    "https://www.sr-rouki.com/2021/11/12/%E4%BB%A4%E5%92%8C%EF%BC%93%E5%B9%B4-%E5%B0%B1%E5%8A%B4%E6%9D%A1%E4%BB%B6%E7%B7%8F%E5%90%88%E8%AA%BF%E6%9F%BB-%E5%8A%B4%E5%83%8D%E8%B2%BB%E7%94%A8-%E5%95%8F%E9%A1%8C%E7%B7%A8/",
+    "https://ailabor.or.jp/new_rodo/entry-13565.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業",
+   "results": [
+    "https://note.com/zephel01/n/n1e6189c72b5d",
+    "https://note.com/joincareeroffice/n/nbf4009709a9a",
+    "https://note.com/epolicy_actvst/n/nca89858e3caf",
+    "https://note.com/yajirushi_works/n/nfadc215c8c8c",
+    "https://note.com/yajirushi_works/n/n93360ad7b5b2",
+    "https://note.com/takara_bako/n/nabacc9b051c3",
+    "https://note.com/vivid_yak2055/n/n1930c8f9f050",
+    "https://note.com/makabe_takashi/n/n10bd363c59a6",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/dataisfunny/n/nba293ffe5ca4"
+   ]
+  },
+  {
+   "query": "site:x.com 就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業",
+   "results": [
+    "https://note.com/1998office_knet/n/n94b1e8872152",
+    "https://note.com/kazucallnote/n/n556923a3baf7",
+    "https://note.com/kazucallnote/n/n7e549b7abd4c",
+    "https://note.com/1998office_knet/n/n3f5a1d3a0b6b",
+    "https://biz.note.com/n/n42cbf5e9f422",
+    "https://note.com/thecxo/n/n4bcab52bb0c7",
+    "https://note.com/shun_tsunagi/n/nb5f803a520ad"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業",
+   "results": [
+    "https://note.com/1998office_knet/n/n94b1e8872152",
+    "https://note.com/kazucallnote/n/n556923a3baf7",
+    "https://note.com/kazucallnote/n/n7e549b7abd4c",
+    "https://note.com/1998office_knet/n/n3f5a1d3a0b6b",
+    "https://biz.note.com/n/n42cbf5e9f422",
+    "https://note.com/thecxo/n/n4bcab52bb0c7",
+    "https://note.com/shun_tsunagi/n/nb5f803a520ad"
+   ]
+  },
+  {
+   "query": "site:facebook.com 就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業",
+   "results": [
+    "https://note.com/1998office_knet/n/n94b1e8872152",
+    "https://note.com/kazucallnote/n/n556923a3baf7",
+    "https://note.com/kazucallnote/n/n7e549b7abd4c",
+    "https://note.com/1998office_knet/n/n3f5a1d3a0b6b",
+    "https://biz.note.com/n/n42cbf5e9f422",
+    "https://note.com/thecxo/n/n4bcab52bb0c7",
+    "https://note.com/shun_tsunagi/n/nb5f803a520ad"
+   ]
+  },
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&kikan=00450&toukei=00450099&tstat=000001014004&tclass1=000001224722&tclass2=000001225002&tclass3val=0&second2=1&stat_infid=000040242232",
+    "https://www.zeem.jp/useful/column/comprehensive_survey_working_conditions/",
+    "https://fpeo.co.jp/news/news-8325/",
+    "https://www.sr-rouki.com/2021/11/12/%E4%BB%A4%E5%92%8C%EF%BC%93%E5%B9%B4-%E5%B0%B1%E5%8A%B4%E6%9D%A1%E4%BB%B6%E7%B7%8F%E5%90%88%E8%AA%BF%E6%9F%BB-%E5%8A%B4%E5%83%8D%E8%B2%BB%E7%94%A8-%E5%95%8F%E9%A1%8C%E7%B7%A8/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://ailabor.or.jp/new_rodo/entry-13565.html"
+   ]
+  },
+  {
+   "query": "就労条件総合調査 企業規模別 募集費（労働費用のうち・常用労働者1人1か月平均）製造業 X 投稿",
+   "results": [
+    "https://www.stat.go.jp/library/faq/faq16/faq16e01.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/21/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03&layout=datalist&cycle=0&toukei=00450099&tstat=000001014004&tclass1=000001162507&tclass2=000001162510&result_page=1&tclass3val=0&stat_infid=000032166069",
+    "http://www.syarogo-itonao.jp/16785399104505",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.sr-rouki.com/2021/11/12/%E4%BB%A4%E5%92%8C%EF%BC%93%E5%B9%B4-%E5%B0%B1%E5%8A%B4%E6%9D%A1%E4%BB%B6%E7%B7%8F%E5%90%88%E8%AA%BF%E6%9F%BB-%E5%8A%B4%E5%83%8D%E8%B2%BB%E7%94%A8-%E5%95%8F%E9%A1%8C%E7%B7%A8/",
+    "https://www.zeem.jp/useful/column/comprehensive_survey_working_conditions/",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/s09.html",
+    "https://fpeo.co.jp/news/news-8325/"
+   ]
+  },
+  {
+   "query": "General Survey on Working Conditions recruitment cost by firm size manufacturing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/sam-leake-16a823bb_an-unfilled-role-does-not-mean-the-business-activity-7520424154139901952-GbFM",
+    "https://business.linkedin.com/hire/resources/future-of-recruiting",
+    "https://www.linkedin.com/posts/scottscofield_japanrecruitment-japanbusiness-laborshortage-activity-7515735281900134400-z-tv",
+    "https://www.linkedin.com/posts/arina-abdul-shukor_recruitment-humanresources-manufacturing-activity-7518871029037993985-9Gil",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/posts/christinemoorman_cmo-survey-march-2026-activity-7444738216215220224-LRtr",
+    "https://www.linkedin.com/top-content/productivity/manufacturing-improvement-techniques/common-challenges-in-the-manufacturing-sector/",
+    "https://business.linkedin.com/hire/resources/best-in-class-healthcare-hiring",
+    "https://business.linkedin.com/hire/resources/future-of-recruiting/staffing",
+    "https://www.linkedin.com/company/staffactory"
+   ]
+  }
+ ],
+ "missing": {
+  "採用経路": "記載なし（読んだ32頁・検索16回）"
+ }
+}

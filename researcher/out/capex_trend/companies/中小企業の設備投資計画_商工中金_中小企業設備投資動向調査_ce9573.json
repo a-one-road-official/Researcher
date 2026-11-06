@@ -1,0 +1,2432 @@
+{
+ "name": "中小企業の設備投資計画（商工中金 中小企業設備投資動向調査）",
+ "en": "Shoko Chukin SME capital investment survey",
+ "aliases": [
+  "商工中金 設備投資動向調査",
+  "中小企業設備投資動向調査 製造業 実施割合",
+  "商工中金 設備投資 計画 推移"
+ ],
+ "context": "一次・商工中金",
+ "kind": "market",
+ "researched_at": "2026-11-06T02:49:36.476240+00:00",
+ "evidence": {
+  "実施割合・計画割合": [
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3%、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年修正計画は▲10.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年実績で製造業+7.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業+20.0%と、非製造業の伸びがけん引した",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". When adding those with \"plans\" (2.1%) and those \"interested\" (15.6%),",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "about 30%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "from the previous survey in 2018 (11.3%). The percentage of companies with withdrawal experience is 3.2%, and those with no plans for future expansion has increased to 77.2%.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "around 10%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "for non-manufacturing (all-industry average 14.4%), with manufacturing being significantly higher. Even within manufacturing, the ratio of companies with a track record of overseas expansion is on a downward trend (manufacturing: 19.3% → 15.2%), with a particularly large decline in iron and non-ferrous metals (28.8% → 10.2%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", followed by North America (28.7%) and China (27.4%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the distribution of when overseas expansion began, while 8.3% of companies started before the 1970s, there has been a gradual increase in the 1990s (18.8%), 2000s (27.1%), and 2010s (27.1%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". The most sought-after support measure is \"subsidies/grants\" (13.7%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of all SMEs are actually expanding. Retreat in expansion The expansion rate dropped from **11.3% to 8.9%** between 2018 and 2025. Talent shortage The top challenge is",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(32.9%). China risk China is currently the top destination, but interest is shifting to Vietnam and North America. Delay in EC utilization Cross-border EC utilization rate is at a very low level of **4.5%**.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "According to the Organization for Small & Medium Enterprises and Regional Innovation's \"Survey on Overseas Expansion of SMEs (2024),\" 13.3% of companies are currently engaged in overseas expansion. Adding those with \"plans\" (2.1%) and \"interest\" (15.6%), approximately 30% are involved in or interested in overseas expansion in some form.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Key Points: While the figures vary depending on the definition and sample, the reality is that around 10% of SMEs actually operate overseas.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Among SMEs engaged in overseas expansion, \"direct exports overseas\" was the most common form of expansion at 44.4%. This was followed by \"direct investment overseas\" (39.8%) and \"outsourcing production and sales to overseas companies\" (38.3%). Cross-border e-commerce accounted for only 4.5%.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Currently, the most common overseas destination is \"China (excluding Hong Kong and Macau)\" at 58.6%. This is followed by \"North America (USA and Canada)\" (36.8%) and \"South Korea\" (33.1%). Meanwhile, \"Vietnam\" is the top destination for future expansion interest at 36.1%, followed by North America (28.7%) and China (27.4%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Regarding the distribution of when overseas expansion began, companies that started before the 1970s accounted for 8.3%, while those that started in the 1990s (18.8%), 2000s (27.1%), and 2010s (27.1%) showed a gradual increase.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Item Top Response Percentage Factors for Success Cultivating a Reliable Local Partner 54.9%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Challenge ① Lack of personnel capable of handling overseas business 32.9%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Challenge ② Exchange rate fluctuation risk 32.9%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Challenge ③ Inability to cultivate a reliable local partner — Main Consultation Source JETRO 33.2%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The most common future management policy is \"I want to conduct/increase direct exports overseas\" at 30.0%. The most anticipated support measure is \"Subsidies/grants\" (13.7%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "当金庫では年2回、中小企業の設備投資動向についての調査実施しています",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年実績で製造業+7.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年7月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年1月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月調査）(PDF：1.8MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業における取適法の影響と取組」の公表について（商工中金景況調査＜2026年2月・トピックス調査分＞）(PDF：1.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「【詳細版】中小企業の賃上げの動向について」の公表（商工中金景況調査＜2025年11月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【速報版】「中小企業の賃上げの動向について」の公表（商工中金景況調査<2025年11月・トピックス調査分>）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業の人材戦略」の公表について（商工中金景況調査＜2025年8月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業の企業理念等について」の公表（商工中金景況調査<2025年5月・トピックス調査分>）(PDF：1.5MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の事業戦略・成長戦略について（2025年2月）(PDF：1.5MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の海外進出・輸出に関する調査（2025年1月調査）(PDF：2.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2025年1月）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【詳細版】中小企業の賃上げの動向について（商工中金景況調査＜ 2024年11月・トピックス調査分＞) (PDF：7.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【 速報版 】 「中小企業の賃上げの動向について」の公表について（商工中金景況調査＜2024年11月・トピックス調査分＞）(PDF：3.9MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の財務戦略について（商工中金景況調査 2024年8月調査 トピックス分）(PDF：1.9MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の事業承継に関する調査（2024年7月調査）(PDF：1.2MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2024年7月）(PDF：2.2MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2024年1月調査）の訂正について(PDF：599.8KB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「物流の2024 年問題」に対する中小企業の動向（商工中金景況調査 2024 年 2 月調査 トピックス分）(PDF：1.7MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人材確保に関する調査（2024年1月）(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査付帯調査等 | 商工中金",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業設備投資動向調査付帯調査等」について",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "毎年、中小企業をめぐる中長期的課題についての調査活動を実施しています",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の事業承継に関する調査（2024年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人材確保に関する調査（2024年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査(2023年7月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT・ソフトウェアの活用状況に関する調査(2023年1月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の設備投資における補助金の活用について(2022年7月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のESGへの取組状況に関する調査(2022年7月調査)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業のESGへの取組状況に関する調査」公表資料訂正について（PDF：241KB）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の雇用情勢に関する意識調査（2022年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2021年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT導入・活用に関する調査（2021年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の働き方改革に関する実態調査（2020年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の経営課題に関する実態調査～BCP・SDGｓ対応・シェアリングエコノミーを巡る実態～[2019年7月調査]",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生産性に関する意識調査（2019年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人手不足に対する意識調査（2018年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の海外進出に対する意識調査（2018年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "最新の調査（2026年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "時系列データ（Excel：67.3KB）",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1.設備投資「有」比率…2025年度実績は高水準、2026年度修正計画も近年の同時点を上回る",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3%、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期での推移を見ると、「情報化関連」が増加を続けている",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年修正計画は▲10.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年実績で製造業+7.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年09月30日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2026年8月)の公表について(PDF：1.3MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年7月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年06月30日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2026年5月)の公表について(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年03月31日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年1月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月調査）(PDF：1.8MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査（2026年2月・定例分）の公表について(PDF：1.3MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業における取適法の影響と取組」の公表について（商工中金景況調査＜2026年2月・トピックス調査分＞）(PDF：1.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年01月16日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「【詳細版】中小企業の賃上げの動向について」の公表（商工中金景況調査＜2025年11月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月26日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査（2025年11月・定例分）の公表について(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月11日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【速報版】「中小企業の賃上げの動向について」の公表（商工中金景況調査<2025年11月・トピックス調査分>）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年10月31日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業の人材戦略」の公表について（商工中金景況調査＜2025年8月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年09月19日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【分析コラム】100億企業の分析（2025年9月11日）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の事業承継に関する調査（2024年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人材確保に関する調査（2024年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査(2023年7月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT・ソフトウェアの活用状況に関する調査(2023年1月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の設備投資における補助金の活用について(2022年7月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のESGへの取組状況に関する調査(2022年7月調査)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の雇用情勢に関する意識調査（2022年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2021年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT導入・活用に関する調査（2021年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の働き方改革に関する実態調査（2020年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の経営課題に関する実態調査～BCP・SDGｓ対応・シェアリングエコノミーを巡る実態～[2019年7月調査]",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生産性に関する意識調査（2019年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2019年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人手不足に対する意識調査（2018年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2018年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の海外進出に対する意識調査（2018年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2018年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Memorandum: Statistical Reality of Overseas Expansion by Japanese SMEs (Latest 2024-2025)｜Japanese technology",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Memorandum: Statistical Reality of Overseas Expansion by Japanese SMEs (Latest 2024-2025)",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "May 13, 2026 09:16",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This summary is based on multiple primary statistical sources (2024 White Paper on Small and Medium Enterprises, 2024 SME Support Japan survey, 2025 Shoko Chukin survey, etc.).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Statistical Reality of Overseas Expansion by Japanese SMEs (Latest 2024-2025)",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "According to the SME Support Japan \"Survey on Overseas Expansion of SMEs (2024),\" the percentage of companies \"currently expanding\" overseas is",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "On the other hand, in the Shoko Chukin \"Survey on SME Capital Investment Trends (January 2025 Survey) Supplementary Survey,\" the ratio of companies engaged in overseas expansion or overseas business is",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "from the previous survey in 2018 (11.3%). The percentage of companies with withdrawal experience is 3.2%, and those with no plans for future expansion has increased to 77.2%.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "According to the Ministry of Economy, Trade and Industry's \"Basic Survey of Japanese Business Structure and Activities\" (FY2021), the ratio of large enterprises engaged in direct exports is",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the distribution of when overseas expansion began, while 8.3% of companies started before the 1970s, there has been a gradual increase in the 1990s (18.8%), 2000s (27.1%), and 2010s (27.1%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of all SMEs are actually expanding. Retreat in expansion The expansion rate dropped from **11.3% to 8.9%** between 2018 and 2025. Talent shortage The top challenge is",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This analysis is based on multiple primary statistical sources (2024 White Paper on Small and Medium Enterprises, 2024 Survey by the Organization for Small & Medium Enterprises and Regional Innovation, 2025 Survey by Shoko Chukin Bank, etc.).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "中小企業の人手不足に対する意識調査（2018年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "商工中金法の改正・政府保有株式の自己株式取得",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当金庫では年2回、中小企業の設備投資動向についての調査実施しています",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最新の調査（2026年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1.設備投資「有」比率…2025年度実績は高水準、2026年度修正計画も近年の同時点を上回る",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3%、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2026年8月)の公表について(PDF：1.3MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年7月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2026年5月)の公表について(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年1月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月調査）(PDF：1.8MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査（2026年2月・定例分）の公表について(PDF：1.3MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業における取適法の影響と取組」の公表について（商工中金景況調査＜2026年2月・トピックス調査分＞）(PDF：1.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「【詳細版】中小企業の賃上げの動向について」の公表（商工中金景況調査＜2025年11月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査（2025年11月・定例分）の公表について(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【速報版】「中小企業の賃上げの動向について」の公表（商工中金景況調査<2025年11月・トピックス調査分>）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業の人材戦略」の公表について（商工中金景況調査＜2025年8月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2025年8月・定例分)の公表について(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業の企業理念等について」の公表（商工中金景況調査<2025年5月・トピックス調査分>）(PDF：1.5MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2025年5月・定例分)の公表について(PDF：3.5MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の海外進出・輸出に関する調査（2025年1月調査）(PDF：2.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2025年2月・定例分)の公表について(PDF：3.5MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2025年1月）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【詳細版】中小企業の賃上げの動向について（商工中金景況調査＜ 2024年11月・トピックス調査分＞) (PDF：7.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2024年11月・定例分)の公表について(PDF：3.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査付帯調査等 | 商工中金",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業設備投資動向調査付帯調査等」について",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "毎年、中小企業をめぐる中長期的課題についての調査活動を実施しています",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の事業承継に関する調査（2024年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人材確保に関する調査（2024年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査(2023年7月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT・ソフトウェアの活用状況に関する調査(2023年1月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のESGへの取組状況に関する調査(2022年7月調査)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業のESGへの取組状況に関する調査」公表資料訂正について（PDF：241KB）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の雇用情勢に関する意識調査（2022年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2021年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT導入・活用に関する調査（2021年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の働き方改革に関する実態調査（2020年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の経営課題に関する実態調査～BCP・SDGｓ対応・シェアリングエコノミーを巡る実態～[2019年7月調査]",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小機械・金属工業の構造変化に関する実態調査",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生産性に関する意識調査（2019年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2019年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人手不足に対する意識調査（2018年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "2.設備投資の目的…情報化関連が増加",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3.設備投資額の増減率…引き続き増加、非製造業の伸びがけん引",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=15070",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/syokoutyukin_kaikaku/002/004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/kenkyukai/syokoutyukin_kaikaku/003/003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/cc829ee6529d49a7b2650ce90bcd90e0/20250613_%E4%BA%AC%E9%83%BD%E5%BA%9C%E3%83%BB2025%E5%B9%B4%E5%BA%A6%E3%81%AE%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E6%84%8F%E8%AD%98%E8%AA%BF%E6%9F%BB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dbj.jp/investigate/equip/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/news2024_6a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=7886",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/english/about/company/report/2025/pdf/ir25_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://vpr.hkma.gov.hk/statics/assets/doc/400499/ar_24/ar_24_eng.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privco.com/company/shoko-chukin-bank",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/english/about/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/post/How_is_the_supportive_effect_of_Shoko_Chukin_Bank_on_SMEs_in_Japan",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業の設備投資計画（商工中金 中小企業設備投資動向調査） 推移",
+   "results": [
+    "https://www.shokochukin.co.jp/report/investment/",
+    "https://www.sangyo-times.jp/article.aspx?ID=15070",
+    "https://www.shokochukin.co.jp/report/data/",
+    "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/syokoutyukin_kaikaku/002/004.pdf",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.shokochukin.co.jp/report/research/",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "https://www.sangyo-times.jp/article.aspx?ID=13386"
+   ]
+  },
+  {
+   "query": "中小企業の設備投資計画（商工中金 中小企業設備投資動向調査） 調査結果 pdf",
+   "results": [
+    "https://www.shokochukin.co.jp/report/investment/",
+    "https://www.sangyo-times.jp/article.aspx?ID=15070",
+    "https://www.shokochukin.co.jp/report/data/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/syokoutyukin_kaikaku/003/003.pdf",
+    "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "https://www.tdb.co.jp/resource/files/assets/d4b8e8ee91d1489c9a2abd23a4bb5219/cc829ee6529d49a7b2650ce90bcd90e0/20250613_%E4%BA%AC%E9%83%BD%E5%BA%9C%E3%83%BB2025%E5%B9%B4%E5%BA%A6%E3%81%AE%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AE%E6%84%8F%E8%AD%98%E8%AA%BF%E6%9F%BB.pdf",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "https://www.shokochukin.co.jp/report/research/"
+   ]
+  },
+  {
+   "query": "中小企業の設備投資計画（商工中金 中小企業設備投資動向調査） 年度 実施割合",
+   "results": [
+    "https://www.shokochukin.co.jp/report/investment/",
+    "https://www.sangyo-times.jp/article.aspx?ID=15070",
+    "https://www.shokochukin.co.jp/report/data/",
+    "https://www.jfc.go.jp/n/findings/pdf/news2024_6a.pdf",
+    "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/syokoutyukin_kaikaku/002/004.pdf",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.mof.go.jp/pri/research/seminar/fy2025/lm20250902.pdf",
+    "https://www.sangyo-times.jp/article.aspx?ID=7886"
+   ]
+  },
+  {
+   "query": "Shoko Chukin SME capital investment survey",
+   "results": [
+    "https://www.shokochukin.co.jp/english/about/company/report/2025/pdf/ir25_all.pdf",
+    "https://vpr.hkma.gov.hk/statics/assets/doc/400499/ar_24/ar_24_eng.pdf",
+    "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "https://www.privco.com/company/shoko-chukin-bank",
+    "https://www.shokochukin.co.jp/english/about/company/history/",
+    "https://www.researchgate.net/post/How_is_the_supportive_effect_of_Shoko_Chukin_Bank_on_SMEs_in_Japan",
+    "https://www.jbic.go.jp/en/business-areas/sectors/image/000002643.pdf",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/09/financing-smes-and-entrepreneurs-2026-country-notes_6edfae7a/japan_d5d6a749/18c68966-en.pdf",
+    "https://tracxn.com/d/companies/shoko-chukin-bank/__f7Eod9JXpZHuAR1wdwdqzyo0Bmw5u8VABmS6Ftm5W8E",
+    "https://note.com/shouhai/n/n06b793718f79?hl=en"
+   ]
+  },
+  {
+   "query": "site:note.com 中小企業の設備投資計画（商工中金 中小企業設備投資動向調査）",
+   "results": [
+    "https://note.com/shouhai/n/n06b793718f79",
+    "https://note.com/ai_funtouki/n/n0b8b487ceaa1",
+    "https://note.com/chic_deer1160/n/n32dfe464b933",
+    "https://note.com/tito1273/n/n683995fc8740",
+    "https://note.com/yamanoji_ai/n/n0c76a77bfd76",
+    "https://note.com/yajirushi_works/n/n8a5d075da360",
+    "https://note.com/yamanaka_kan/n/na91aab7ed916",
+    "https://note.com/yajirushi_works/n/nfadc215c8c8c",
+    "https://note.com/team_mirai_log/n/nc03cf123e5e7",
+    "https://note.com/chic_deer1160/n/n3315ab481268"
+   ]
+  },
+  {
+   "query": "site:x.com 中小企業の設備投資計画（商工中金 中小企業設備投資動向調査）",
+   "results": [
+    "https://x.com/hanryoushokokai",
+    "https://x.com/hatano_keiei",
+    "https://x.com/mori_kado_cci",
+    "https://x.com/innoshima_cci",
+    "https://x.com/luigi_jpn/status/2068492463703277851",
+    "https://x.com/jososhishokokai",
+    "https://x.com/KITAKYUSHU_CCI",
+    "https://x.com/turukame8/article/2108068487814090780",
+    "https://x.com/thaibiz_th",
+    "https://x.com/mirai_ai_growth"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 中小企業の設備投資計画（商工中金 中小企業設備投資動向調査）",
+   "results": [
+    "https://jp.linkedin.com/pulse/10-smart-financing-tips-growing-small-businesses-armando-armendariz-rwpqc?tl=ja",
+    "https://jp.linkedin.com/in/tomomi-ishida",
+    "https://jp.linkedin.com/in/eguchishintaro/ja",
+    "https://jp.linkedin.com/in/daichi-ichinose-052b86305",
+    "https://jp.linkedin.com/in/正人-馬場-717305270",
+    "https://jp.linkedin.com/posts/koji-furukawa-b79a98289_第179回設備投資トレンドレポート2026年6月調査民間企業設備投資動向調査-activity-7510848896659517441-xl26",
+    "https://jp.linkedin.com/in/將広-橋本-b86b093b2",
+    "https://www.linkedin.com/posts/貴之-宮嶋-b9426aa3_金融資本市場リサーチに寄稿させていただきました-大企業設備投資の変化の兆しは-activity-7234942675773218817-RkYE",
+    "https://www.linkedin.com/posts/洋子-新田-708221126_ビジネス英語-英語面接-投資-activity-7316332011709767682-Lngu",
+    "https://jp.linkedin.com/jobs/view/産業戦略部-＜中小企業経営力強化に向けた産業調査・戦略立案＞-at-（株）商工組合中央金庫-4379729085"
+   ]
+  },
+  {
+   "query": "site:facebook.com 中小企業の設備投資計画（商工中金 中小企業設備投資動向調査）",
+   "results": [
+    "https://www.facebook.com/kochikenyorozu/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E9%AB%98%E7%9F%A5%E7%9C%8C%E3%82%88%E3%82%8D%E3%81%9A%E6%94%AF%E6%8F%B4%E6%8B%A0%E7%82%B9%E3%81%A7%E3%81%99610%E3%81%AB%E7%94%B3%E8%AB%8B%E3%81%8C%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E3%81%A7%E3%81%99-%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E9%AB%98%E7%9F%A5%E7%9C%8C%E8%B3%83%E9%87%91%E5%90%91%E4%B8%8A%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E4%BA%8B%E6%A5%AD%E8%B2%BB%E8%A3%9C%E5%8A%A9%E9%87%91%E6%9C%80%E5%A4%A71000%E4%B8%87%E5%86%861%E7%A4%BE%E3%81%82%E3%81%9F%E3%82%8A%E8%B3%83%E4%B8%8A%E3%81%92%E3%81%AB%E5%8F%96/1299133058873522/",
+    "https://www.facebook.com/shokokai.akita/",
+    "https://www.facebook.com/mono.c.niigata/",
+    "https://www.facebook.com/p/KTcpa%E7%B5%8C%E5%96%B6%E9%9D%A9%E6%96%B0%E7%AD%89%E6%94%AF%E6%8F%B4%E6%A9%9F%E9%96%A2-%E6%A5%A0%E6%AD%A3%E5%BF%97%E5%85%AC%E8%AA%8D%E4%BC%9A%E8%A8%88%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80%E6%A3%AE%E8%BC%9D%E5%A4%AB%E7%A8%8E%E7%90%86%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80%E6%89%80%E5%B1%9E%E7%A8%8E%E7%90%86%E5%A3%AB-100042409640482/",
+    "https://www.facebook.com/takachoshokokai/posts/%E5%A4%9A%E5%8F%AF%E7%94%BA%E5%89%B5%E6%A5%AD%E5%A1%BE%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%A4%A2%E3%82%92%E3%82%AB%E3%82%BF%E3%83%81%E3%81%AB-%E5%A4%9A%E5%8F%AF%E7%94%BA%E5%89%B5%E6%A5%AD%E5%A1%BE%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E5%89%B5%E6%A5%AD%E3%82%92%E3%81%8A%E8%80%83%E3%81%88%E3%81%AE%E6%96%B9%E5%89%B5%E6%A5%AD%E3%81%AB%E8%88%88%E5%91%B3%E3%81%8C%E3%81%82%E3%82%8B%E6%96%B9%E5%89%B5%E6%A5%AD%E3%81%97%E3%81%9F%E3%81%84%E3%81%91%E3%81%A9%E4%BD%95%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8C%E3%81%B0%E5%88%86%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%E6%96%B9%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%AB%E3%82%88%E3%82%8B%E6%94%AF%E6%8F%B4/1178568164313146/",
+    "https://www.facebook.com/SawayukaConsulting/",
+    "https://www.facebook.com/p/%E7%99%BD%E7%A5%9E%E5%85%AB%E5%B3%B0%E5%95%86%E5%B7%A5%E4%BC%9A-100064693388622/",
+    "https://www.facebook.com/ciesconsul/?locale=ja_JP",
+    "https://www.facebook.com/jichiken.jp/",
+    "https://www.facebook.com/takachoshokokai/?locale=ja_JP"
+   ]
+  },
+  {
+   "query": "中小企業の設備投資計画（商工中金 中小企業設備投資動向調査） note 社長",
+   "results": [
+    "https://www.shokochukin.co.jp/report/investment/",
+    "https://www.sangyo-times.jp/article.aspx?ID=15070",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/syokoutyukin_kaikaku/003/003.pdf",
+    "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "https://note.com/shouhai/n/n06b793718f79",
+    "https://www.tdb.co.jp/report/economic/20250528-2025capinvest/",
+    "https://www.youtube.com/watch?v=_7miTwMIRiE",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://ps.nikkei.com/shokochukin2605/index.html"
+   ]
+  },
+  {
+   "query": "中小企業の設備投資計画（商工中金 中小企業設備投資動向調査） X 投稿",
+   "results": [
+    "https://www.shokochukin.co.jp/report/investment/",
+    "https://www.sangyo-times.jp/article.aspx?ID=15070",
+    "https://www.chusho.meti.go.jp/koukai/kenkyukai/syokoutyukin_kaikaku/003/003.pdf",
+    "https://www.jfc.go.jp/n/findings/mi_findings.html",
+    "https://x.com/JFC_information/status/2114946985216373097",
+    "https://www.shokochukin.co.jp/report/research/",
+    "https://www.dbj.jp/investigate/equip/",
+    "https://www.youtube.com/watch?v=_7miTwMIRiE",
+    "https://ab.jcci.or.jp/article/126726/"
+   ]
+  },
+  {
+   "query": "Shoko Chukin SME capital investment survey site:linkedin.com",
+   "results": [
+    "https://ke.linkedin.com/in/ms-esher-muiru",
+    "https://jp.linkedin.com/in/toshio-taki-a884b415",
+    "https://jp.linkedin.com/in/kenji-takahashi-a12171147",
+    "https://ke.linkedin.com/in/doreenkimondo",
+    "https://ke.linkedin.com/in/stephennderitu",
+    "https://www.linkedin.com/posts/undercode-news_商工中金-eyes-securities-acquisition-to-accelerate-activity-7441812238354661376-D9Kn",
+    "https://jp.linkedin.com/in/takafumi-yamamoto-93215b46",
+    "https://jp.linkedin.com/in/tomohito-niwa-16227b163",
+    "https://uk.linkedin.com/in/anesu-shoko-19a0691a3",
+    "https://kz.linkedin.com/in/almas-chukin-b9023039b"
+   ]
+  }
+ ],
+ "missing": {
+  "機械受注": "記載なし（読んだ19頁・検索11回）"
+ },
+ "new_this_run": {
+  "実施割合・計画割合": [
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3%、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年修正計画は▲10.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年実績で製造業+7.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "非製造業+20.0%と、非製造業の伸びがけん引した",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". When adding those with \"plans\" (2.1%) and those \"interested\" (15.6%),",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "about 30%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "from the previous survey in 2018 (11.3%). The percentage of companies with withdrawal experience is 3.2%, and those with no plans for future expansion has increased to 77.2%.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "around 10%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "for non-manufacturing (all-industry average 14.4%), with manufacturing being significantly higher. Even within manufacturing, the ratio of companies with a track record of overseas expansion is on a downward trend (manufacturing: 19.3% → 15.2%), with a particularly large decline in iron and non-ferrous metals (28.8% → 10.2%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", followed by North America (28.7%) and China (27.4%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the distribution of when overseas expansion began, while 8.3% of companies started before the 1970s, there has been a gradual increase in the 1990s (18.8%), 2000s (27.1%), and 2010s (27.1%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". The most sought-after support measure is \"subsidies/grants\" (13.7%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of all SMEs are actually expanding. Retreat in expansion The expansion rate dropped from **11.3% to 8.9%** between 2018 and 2025. Talent shortage The top challenge is",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(32.9%). China risk China is currently the top destination, but interest is shifting to Vietnam and North America. Delay in EC utilization Cross-border EC utilization rate is at a very low level of **4.5%**.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "According to the Organization for Small & Medium Enterprises and Regional Innovation's \"Survey on Overseas Expansion of SMEs (2024),\" 13.3% of companies are currently engaged in overseas expansion. Adding those with \"plans\" (2.1%) and \"interest\" (15.6%), approximately 30% are involved in or interested in overseas expansion in some form.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Key Points: While the figures vary depending on the definition and sample, the reality is that around 10% of SMEs actually operate overseas.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Among SMEs engaged in overseas expansion, \"direct exports overseas\" was the most common form of expansion at 44.4%. This was followed by \"direct investment overseas\" (39.8%) and \"outsourcing production and sales to overseas companies\" (38.3%). Cross-border e-commerce accounted for only 4.5%.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Currently, the most common overseas destination is \"China (excluding Hong Kong and Macau)\" at 58.6%. This is followed by \"North America (USA and Canada)\" (36.8%) and \"South Korea\" (33.1%). Meanwhile, \"Vietnam\" is the top destination for future expansion interest at 36.1%, followed by North America (28.7%) and China (27.4%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Regarding the distribution of when overseas expansion began, companies that started before the 1970s accounted for 8.3%, while those that started in the 1990s (18.8%), 2000s (27.1%), and 2010s (27.1%) showed a gradual increase.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Item Top Response Percentage Factors for Success Cultivating a Reliable Local Partner 54.9%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Challenge ① Lack of personnel capable of handling overseas business 32.9%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Challenge ② Exchange rate fluctuation risk 32.9%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Challenge ③ Inability to cultivate a reliable local partner — Main Consultation Source JETRO 33.2%",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The most common future management policy is \"I want to conduct/increase direct exports overseas\" at 30.0%. The most anticipated support measure is \"Subsidies/grants\" (13.7%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "規模別・業種別": [
+   {
+    "quote": "当金庫では年2回、中小企業の設備投資動向についての調査実施しています",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年実績で製造業+7.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年7月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年1月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月調査）(PDF：1.8MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業における取適法の影響と取組」の公表について（商工中金景況調査＜2026年2月・トピックス調査分＞）(PDF：1.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「【詳細版】中小企業の賃上げの動向について」の公表（商工中金景況調査＜2025年11月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【速報版】「中小企業の賃上げの動向について」の公表（商工中金景況調査<2025年11月・トピックス調査分>）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業の人材戦略」の公表について（商工中金景況調査＜2025年8月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業の企業理念等について」の公表（商工中金景況調査<2025年5月・トピックス調査分>）(PDF：1.5MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の事業戦略・成長戦略について（2025年2月）(PDF：1.5MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の海外進出・輸出に関する調査（2025年1月調査）(PDF：2.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2025年1月）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【詳細版】中小企業の賃上げの動向について（商工中金景況調査＜ 2024年11月・トピックス調査分＞) (PDF：7.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【 速報版 】 「中小企業の賃上げの動向について」の公表について（商工中金景況調査＜2024年11月・トピックス調査分＞）(PDF：3.9MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の財務戦略について（商工中金景況調査 2024年8月調査 トピックス分）(PDF：1.9MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の事業承継に関する調査（2024年7月調査）(PDF：1.2MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2024年7月）(PDF：2.2MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2024年1月調査）の訂正について(PDF：599.8KB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「物流の2024 年問題」に対する中小企業の動向（商工中金景況調査 2024 年 2 月調査 トピックス分）(PDF：1.7MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人材確保に関する調査（2024年1月）(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査付帯調査等 | 商工中金",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業設備投資動向調査付帯調査等」について",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "毎年、中小企業をめぐる中長期的課題についての調査活動を実施しています",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の事業承継に関する調査（2024年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人材確保に関する調査（2024年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査(2023年7月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT・ソフトウェアの活用状況に関する調査(2023年1月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の設備投資における補助金の活用について(2022年7月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のESGへの取組状況に関する調査(2022年7月調査)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業のESGへの取組状況に関する調査」公表資料訂正について（PDF：241KB）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の雇用情勢に関する意識調査（2022年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2021年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT導入・活用に関する調査（2021年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の働き方改革に関する実態調査（2020年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の経営課題に関する実態調査～BCP・SDGｓ対応・シェアリングエコノミーを巡る実態～[2019年7月調査]",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生産性に関する意識調査（2019年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人手不足に対する意識調査（2018年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の海外進出に対する意識調査（2018年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "最新の調査（2026年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "時系列データ（Excel：67.3KB）",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1.設備投資「有」比率…2025年度実績は高水準、2026年度修正計画も近年の同時点を上回る",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3%、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "長期での推移を見ると、「情報化関連」が増加を続けている",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年修正計画は▲10.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業種別では2025年実績で製造業+7.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年09月30日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2026年8月)の公表について(PDF：1.3MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年7月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年06月30日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2026年5月)の公表について(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年03月31日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年1月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月調査）(PDF：1.8MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査（2026年2月・定例分）の公表について(PDF：1.3MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業における取適法の影響と取組」の公表について（商工中金景況調査＜2026年2月・トピックス調査分＞）(PDF：1.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年01月16日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「【詳細版】中小企業の賃上げの動向について」の公表（商工中金景況調査＜2025年11月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月26日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査（2025年11月・定例分）の公表について(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年12月11日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【速報版】「中小企業の賃上げの動向について」の公表（商工中金景況調査<2025年11月・トピックス調査分>）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年10月31日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業の人材戦略」の公表について（商工中金景況調査＜2025年8月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年09月19日",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【分析コラム】100億企業の分析（2025年9月11日）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の事業承継に関する調査（2024年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人材確保に関する調査（2024年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査(2023年7月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT・ソフトウェアの活用状況に関する調査(2023年1月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の設備投資における補助金の活用について(2022年7月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のESGへの取組状況に関する調査(2022年7月調査)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の雇用情勢に関する意識調査（2022年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2021年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT導入・活用に関する調査（2021年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の働き方改革に関する実態調査（2020年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の経営課題に関する実態調査～BCP・SDGｓ対応・シェアリングエコノミーを巡る実態～[2019年7月調査]",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生産性に関する意識調査（2019年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2019年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人手不足に対する意識調査（2018年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2018年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の海外進出に対する意識調査（2018年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2018年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Memorandum: Statistical Reality of Overseas Expansion by Japanese SMEs (Latest 2024-2025)｜Japanese technology",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Memorandum: Statistical Reality of Overseas Expansion by Japanese SMEs (Latest 2024-2025)",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "May 13, 2026 09:16",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This summary is based on multiple primary statistical sources (2024 White Paper on Small and Medium Enterprises, 2024 SME Support Japan survey, 2025 Shoko Chukin survey, etc.).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Statistical Reality of Overseas Expansion by Japanese SMEs (Latest 2024-2025)",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "According to the SME Support Japan \"Survey on Overseas Expansion of SMEs (2024),\" the percentage of companies \"currently expanding\" overseas is",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "On the other hand, in the Shoko Chukin \"Survey on SME Capital Investment Trends (January 2025 Survey) Supplementary Survey,\" the ratio of companies engaged in overseas expansion or overseas business is",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "from the previous survey in 2018 (11.3%). The percentage of companies with withdrawal experience is 3.2%, and those with no plans for future expansion has increased to 77.2%.",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "According to the Ministry of Economy, Trade and Industry's \"Basic Survey of Japanese Business Structure and Activities\" (FY2021), the ratio of large enterprises engaged in direct exports is",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the distribution of when overseas expansion began, while 8.3% of companies started before the 1970s, there has been a gradual increase in the 1990s (18.8%), 2000s (27.1%), and 2010s (27.1%).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of all SMEs are actually expanding. Retreat in expansion The expansion rate dropped from **11.3% to 8.9%** between 2018 and 2025. Talent shortage The top challenge is",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This analysis is based on multiple primary statistical sources (2024 White Paper on Small and Medium Enterprises, 2024 Survey by the Organization for Small & Medium Enterprises and Regional Innovation, 2025 Survey by Shoko Chukin Bank, etc.).",
+    "url": "https://note.com/bunseki2531/n/nfb481878207c?hl=en",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "目的別": [
+   {
+    "quote": "中小企業の人手不足に対する意識調査（2018年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "商工中金法の改正・政府保有株式の自己株式取得",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当金庫では年2回、中小企業の設備投資動向についての調査実施しています",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最新の調査（2026年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1.設備投資「有」比率…2025年度実績は高水準、2026年度修正計画も近年の同時点を上回る",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資実施「有」企業割合は、2025年度実績で全体の66.3%、2026年度修正計画で59.3%と高水準が継続",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2026年8月)の公表について(PDF：1.3MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年7月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2026年5月)の公表について(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2026年1月調査）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月調査）(PDF：1.8MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査（2026年2月・定例分）の公表について(PDF：1.3MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業における取適法の影響と取組」の公表について（商工中金景況調査＜2026年2月・トピックス調査分＞）(PDF：1.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「【詳細版】中小企業の賃上げの動向について」の公表（商工中金景況調査＜2025年11月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査（2025年11月・定例分）の公表について(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【速報版】「中小企業の賃上げの動向について」の公表（商工中金景況調査<2025年11月・トピックス調査分>）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業の人材戦略」の公表について（商工中金景況調査＜2025年8月調査・トピックス調査分＞)(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2025年8月・定例分)の公表について(PDF：1.4MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業の企業理念等について」の公表（商工中金景況調査<2025年5月・トピックス調査分>）(PDF：1.5MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2025年5月・定例分)の公表について(PDF：3.5MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の海外進出・輸出に関する調査（2025年1月調査）(PDF：2.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2025年2月・定例分)の公表について(PDF：3.5MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査（2025年1月）(PDF：1.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【詳細版】中小企業の賃上げの動向について（商工中金景況調査＜ 2024年11月・トピックス調査分＞) (PDF：7.1MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "商工中金景況調査(2024年11月・定例分)の公表について(PDF：3.0MB)",
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業設備投資動向調査付帯調査等 | 商工中金",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業設備投資動向調査付帯調査等」について",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "毎年、中小企業をめぐる中長期的課題についての調査活動を実施しています",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生成AIの利用にかかる調査（2026年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2025年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の事業承継に関する調査（2024年7月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人材確保に関する調査（2024年1月）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査(2023年7月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT・ソフトウェアの活用状況に関する調査(2023年1月)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のESGへの取組状況に関する調査(2022年7月調査)",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「中小企業のESGへの取組状況に関する調査」公表資料訂正について（PDF：241KB）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の雇用情勢に関する意識調査（2022年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のカーボンニュートラルに関する意識調査（2021年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業のIT導入・活用に関する調査（2021年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の働き方改革に関する実態調査（2020年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の経営課題に関する実態調査～BCP・SDGｓ対応・シェアリングエコノミーを巡る実態～[2019年7月調査]",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小機械・金属工業の構造変化に関する実態調査",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の生産性に関する意識調査（2019年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2019年1月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中小企業の人手不足に対する意識調査（2018年7月調査）",
+    "url": "https://www.shokochukin.co.jp/report/research/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額・前年比": [
+   {
+    "quote": "2.設備投資の目的…情報化関連が増加",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3.設備投資額の増減率…引き続き増加、非製造業の伸びがけん引",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "設備投資額の増減率をみると、全産業の2025年度実績は+14.3%",
+    "url": "https://www.shokochukin.co.jp/report/investment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T02:49:36.476240+00:00"
+}

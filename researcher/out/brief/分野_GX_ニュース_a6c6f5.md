@@ -2,6 +2,7 @@
 
 ### 業界ニュース（毎日）｜ペロブスカイト太陽電池（perovskite solar cell）
 - 取得：2026-11-05T02:45・調査2回目・読んだ頁44
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（39件）：
   - ［一次］2026-11-05「◼ ①2025年度より導入支援事業が開始し事業化フェーズに入ったこと、②2027年度には一定の供給量が確保される見込」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf
   - ［一次］2026-11-05「みであること、③金属屋根を中心に施工方法の確立が進んでいることを踏まえ、2026年夏頃に政府部門の導入目標を」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/010_02_00.pdf
@@ -77,6 +78,7 @@
   - ［一次］2026-11-04「フィルム型 ペロブスカイト太陽電池 の 事業進捗について — フィルム型 ペロブスカイト太陽電池 の 事業進捗について 内閣官房 PDF https://www.cas.go.jp > seisaku > dai14 > shiryo5」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai14/shiryo5.pdf
 ### 業界ニュース（毎日）｜水電解装置（water electrolyzer）
 - 取得：2026-11-05T02:42・調査2回目・読んだ頁39
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（54件）：
   - ［一次］2026-11-05「➢ 第２回入札では、新たに水電解槽の総容量に対して中国からの調達を制限する要件を追加」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
   - ［一次］2026-11-05「Microsoft：データセンターへグリーン水素供給実証を実施 Meta:データセンター向け電源に水素混焼→将来専焼を採用」https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/015_01_00.pdf
@@ -142,6 +144,7 @@
   - ［SNS］2026-11-04「AEM水電解装置―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」https://note.com/qy_research/n/n8c5c67273525
 ### 業界ニュース（毎日）｜グリーンアンモニア（green ammonia）
 - 取得：2026-11-05T02:51・調査2回目・読んだ頁43
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（81件）：
   - ［一次］2026-11-05「５－３．実施企業等の取組状況とNEDO技術・社会実装推進委員会での意見」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
   - ［一次］2026-11-05「（令和6年度非化石エネルギー等導入促進対策費補助金活用）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
@@ -218,6 +221,7 @@
   - ［SNS］2026-11-04「福島・浪江町で グリーンアンモニア 製造実証プラント稼働開始 福島・浪江町で グリーンアンモニア 製造実証プラント稼働開始 note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/sankituushin/n/n7346f063aadb
 ### 業界ニュース（毎日）｜合成燃料（e-fuels）
 - 取得：2026-11-05T02:53・調査2回目・読んだ頁42
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（50件）：
   - ［一次］2026-11-05「2030 年までの高効率・大規模製造技術の確立、2030 年代の導入拡大・コスト低減、2040」https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf
   - ［一次］2026-11-05「3) 経済産業省「合成燃料（e-fuel）の導入促進に向けた官民協議会 2023 年中間とりまとめ」 2023 年」https://www.pecj.or.jp/wp-content/uploads/2026/07/JPEC_Journal_260702.pdf
@@ -290,6 +294,7 @@
   - ［SNS］2026-11-04「日本の人工石油（ 合成燃料 ・e-fuel） 2026 年現在地 - note 日本の人工石油（ 合成燃料 ・e-fuel） 2026 年現在地 - note note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/clean_broom590/n/n64042fc3e429
 ### 業界ニュース（毎日）｜地熱発電（geothermal power）
 - 取得：2026-11-05T02:44・調査2回目・読んだ頁42
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（53件）：
   - ［一次］2026-11-04「2025年4月、行政と民間企業が地熱発電に関して協議する「次世代型地熱推進官民協議会」が立ち上げられました」https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html
   - ［一次］2026-11-04「世界的な動向を見ても、IT企業やAI企業が「24時間365日天候に左右されない、クリーンな電源」として、地熱発電に注目しています」https://www.enecho.meti.go.jp/about/special/johoteikyo/geothermal_power2026.html
@@ -362,6 +367,7 @@
   - ［SNS］2026-11-05「地熱発電所一基あたりの建設費は数百億円規模。タービン、発電機、耐熱合金、掘削、ポンプ、配管、地質調査、EPC、運営会社――その経済波及は驚くほど広範なバリューチェーンに及びます。本記事では、その流れの恩恵を直接受ける可能性が高い東証上場の20銘柄を、設備メーカー・操業者・素材・エンジニアリング・調査の各レイヤーで網羅的に整理しました。テーマ株として瞬間的に物色されるだけでなく、10年単位の構造変化を読み解く一助となれば幸いです。」https://note.com/tatsuya_sabato/n/nf236a46e2e8d
 ### 業界ニュース（毎日）｜洋上風力（offshore wind）
 - 取得：2026-11-05T02:58・調査2回目・読んだ頁44
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（61件）：
   - ［一次］2026-11-05「・エスビアウ港には約 200の企業が集積し 、洋上風」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf
   - ［一次］2026-11-05「＜世界の洋上風力市場（導入実績）【GW】＞」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf
@@ -437,6 +443,7 @@
   - ［SNS］2026-11-04「東洋建設株式会社 on X: " 洋上風力 発電や再生可能エネルギー ... 東洋建設株式会社 on X: " 洋上風力 発電や再生可能エネルギー ... X https://x.com > @toyosea1040」https://x.com/toyosea1040/status/2085281194586087727
 ### 業界ニュース（毎日）｜小型モジュール炉（small modular reactor）
 - 取得：2026-11-05T02:48・調査2回目・読んだ頁42
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（49件）：
   - ［一次］2026-11-05「2-4 導入検討国」https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf
   - ［一次］2026-11-05「 斗山重工業は主要機器を供給し、関係企業とで1億ドル強を出資」https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf
@@ -509,6 +516,7 @@
   - ［記事］2026-11-04「小型モジュール炉SMR はデータセンターの深刻な電力不足を ... — 小型モジュール炉SMR はデータセンターの深刻な電力不足を ... オルタナティブ・ブログ https://blogs.itmedia.co.jp > business20 > 2026/10 > smrai」https://blogs.itmedia.co.jp/business20/2026/10/smrai.html
 ### 業界ニュース（毎日）｜バイオ由来化学品（bio-based chemicals）
 - 取得：2026-11-05T04:31・調査2回目・読んだ頁37
+- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（43件）：
   - ［一次］2026-11-05「 2025年3月、GX企業の人材確保に関する事例集を公表」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
   - ［一次］2026-11-04「本発表会は、バイオものづくり分野に取り組む大学・研究機関や企業、自治体等に毎月ご登壇いただき、取組内容の紹介と意見交換を行うことで、バイオものづくり分野への理解を深めていただき、産学連携・産産連携の促進を図ることを目的としています」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
