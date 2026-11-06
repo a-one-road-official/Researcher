@@ -5,7 +5,7 @@
   "工場求人ナビ"
  ],
  "context": "製造業特化（派遣・請負・求人サイト）",
- "researched_at": "2026-11-06T12:09:30.248626+00:00",
+ "researched_at": "2026-11-06T20:24:37.348420+00:00",
  "official_url": "https://www.nisso.co.jp/",
  "identified_by": "given",
  "profile": {
@@ -447,336 +447,20 @@
   ]
  },
  "evidence": {
-  "株主構成": [
+  "SNS・note（Facebook・検索結果の抜粋）": [
    {
-    "quote": "ケイアイスター不動産(株)【東証プライム市場上場】",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(株)明光ネットワークジャパン（明光義塾本部）【東証プライム市場上場】",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(株)アイリックコーポレーション（保険クリニック）【東証グロース上場】",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結論から言うと、UTエイムは東証プライム上場のUTグループを親会社に持つ、製造業に特化した信頼性の高い派遣会社です",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "東証プライム上場のUTグループ株式会社のグループ会社であり、信頼性と実績を兼ね備えています",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "UTグループ・UTエイムの基本情報項目内容会社名UTエイム株式会社親会社UTグループ（東証プライム上場）特化業種製造業・工場勤務雇用形態無期雇用派遣（正社員雇用）給与形態月給制（派遣中断中も給与保証）対応エリア全国（北海道〜九州）UTエイムが手がける求人は、自動車・半導体・電子部品・食品など製造業の幅広い業種に対応しています",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・東京証券取引所の一部に上場（現在は東証プライム市場上場）",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・インターステラテクノロジズ(株)への出資とパートナーシップ協定を締結",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・NISSOホールディングス(株)が設立、日総工産は東証プライム上場企業グループの傘下へ",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・ＮＩＳＳＯホールディングスが「Man to Manホールディングス株式会社およびそのグループ各社」、「オールジヤパンガード株式会社」を子会社化",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(株)昭和システムエンジニアリング【東証スタンダード市場上場】",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "トランスコスモス(株)【東証プライム上場】",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(株)コプロ・ホールディングス（東証プライム・名証プレミア上場）他2社",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "東建コーポレーション(株)(ホームメイト)【東証プライム・名証プレミア上場】",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "万円（前期比10.3％減）、経常利益3,200百万円（前期比10.2％減）、親会社株主に帰属する当期純利益1,902百万",
-    "url": "https://www.nisso-hd.com/ir/finance/forecasts.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は、東証プライム上場企業として、女優の黒島結菜さんを起用したTVCM放映、更に売上高700億以上にも誇る日総工産の主力媒体「工場求人ナビ」にEFOcatsを導入していただきました",
-    "url": "https://www.fcafe.com/efocats/case/case-nissokosan",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日総工産株式会社の特例子会社 日総ぴゅあ株式会社を設立",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "東京証券取引所市場第一部に上場",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "株式会社ベクトル伸和 子会社化",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "インターステラテクノロジズ株式会社への出資とパートナーシップ協定を締結",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "NISSOホールディングス株式会社が東京証券取引所 プライム市場に上場（日総工産株式会社は上場廃止）",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "「株式会社アイズ」を子会社化",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "ＮＩＳＳＯホールディングスが「Man to Manホールディングス株式会社およびそのグループ各社」、「オールジャパンガード株式会社」を子会社化",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "役員・従業員は、本憲章を遵守するとともに、お客様、取引先、株主を始め、日総グループに関係するすべての方々にも、本憲章の趣旨を理解頂き、協力を頂けるよう努めるものとします",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "お客様、株主・投資家、取引先、行政、地域、社会などステークホルダーに企業情報を適時・的確に開示し、透明性を高めます",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめとする多様なステークホルダーとの価値協創が重要となっていることを踏まえ、創業理念である「人を育て 人を活かす」のもと、企業と人の成長を支援する人材ソリューションサービスを提供し、マルチステークホルダーとの適切な協働に取り組んでまいります",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "当社は、株主・投資家の皆様の信頼に応えるため、事業活動を通じて企業価値の向上に努めます",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "軽作業請負、物販（日総工産株式会社 特例子会社）",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "Web・Webシステム開発事業、行政受託事業、RPA事業/RPA教育事業、障がい者雇用支援事業、居住支援事業(Man to Manホールディングス 特例子会社)",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "大手メーカー・上場企業を中心とした豊富な案件実績",
-    "url": "https://www.nisso.co.jp/service/it/",
-    "pass": 1
-   },
-   {
-    "quote": "【新横浜/経験者歓迎】人材サービス法人営業（派遣～人材紹介）◆年休128日／フレックス◆プライム上場Gの安定基盤",
-    "url": "https://www.nisso.co.jp/recruit/career/",
-    "pass": 1
-   },
-   {
-    "quote": "【新横浜/未経験歓迎】人材サービス法人営業（派遣～人材紹介）◆年休128日／フレックス/プライム上場Gの安定基盤◆",
-    "url": "https://www.nisso.co.jp/recruit/career/",
-    "pass": 1
-   },
-   {
-    "quote": "株主の状況 | 株式・社債情報 | IR・投資家情報 | ＮＩＳＳＯホールディングス",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "quote": "日総工産 株式会社 | Yokohama Kanagawa - Facebook 日総工産 株式会社 | Yokohama Kanagawa - Facebook Facebook https://www.facebook.com > ... > Community Service",
+    "url": "https://www.facebook.com/p/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100075598222829/",
     "pass": 3
    },
    {
-    "quote": "株主さま個人情報保護方針",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "quote": "日総工産 株式会社 - Home | Facebook 日総工産 株式会社 - Home | Facebook Facebook https://www.facebook.com > pages > 日総工産株式会社",
+    "url": "https://www.facebook.com/pages/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/124830090905720",
     "pass": 3
    },
    {
-    "quote": "株主と建設的な対話を",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
-    "pass": 3
-   },
-   {
-    "quote": "業績推移と株主還元",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
-    "pass": 3
-   },
-   {
-    "quote": "株主優待情報",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
-    "pass": 3
-   },
-   {
-    "quote": "株主向け報告書",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
-    "pass": 3
-   },
-   {
-    "quote": "株主還元（配当/自社株等）",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
-    "pass": 3
-   },
-   {
-    "quote": "【大株主の状況】は、2026年9月30日現在の株主名簿に基づき記載しております",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
-    "pass": 3
-   },
-   {
-    "quote": "大株主の状況",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
-    "pass": 3
-   },
-   {
-    "quote": "資本提携・事業承継等のご相談",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
-    "pass": 3
-   },
-   {
-    "quote": "2023年10月2日上場",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "2018年3月16日-2023年9月29日上場",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "日総ぴゅあ株式会社設立（日総工産株式会社の特例子会社）",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社ベクトル伸和を子会社化",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社ニコン日総プライムを子会社化",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "10月2日、株式移転により純粋持株会社であるNISSOホールディングス株式会社を設立し、東京証券取引所プライム市場に上場",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社アイズを子会社化",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "「Man to Manホールディングス株式会社およびそのグループ各社」、「オールジャパンガード株式会社」を子会社化",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "株主・投資家の皆様へ｜日総工産株式会社",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社ベクトル伸和の株式取得（子会社化）に関するお知らせ",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社ツナググループ・ホールディングスとの資本業務提携（先方子会社の合弁会社化）に関するお知らせ",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "持分法適用関連会社の異動（連結子会社化）に関するお知らせ",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "「ＮＩＳＳＯホールディングス株式会社」の新規上場承認に関するお知らせ",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "当社連結子会社による株式取得（孫会社化）に関するお知らせ",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "東証プライム上場企業",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "2023年上場の企業",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "2018年上場の企業",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "上場企業9割×創業55年の信頼でキャリア形成",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "東京証券取引所市場第一部に上場",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "インターステラテクノロジズ株式会社への出資とパートナーシップ協定を締結",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・「株式会社アイズ」を子会社化",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "quote": "日総工産 株式会社の中村元様 (事業企画本部新事業開発部 ... 日総工産 株式会社の中村元様 (事業企画本部新事業開発部 ... Facebook https://www.facebook.com > spu.japanese > posts > 日総...",
+    "url": "https://www.facebook.com/spu.japanese/posts/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%AD%E6%9D%91%E5%85%83%E6%A7%98-%E4%BA%8B%E6%A5%AD%E4%BC%81%E7%94%BB%E6%9C%AC%E9%83%A8%E6%96%B0%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA%E9%83%A8%E9%83%A8%E9%95%B7-%E3%81%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%AD%A6%E7%A7%91%E3%82%92%E8%A8%AA%E3%81%AD%E3%81%BE%E3%81%97%E3%81%9F%E5%B7%A5%E5%AD%A6%E9%83%A8%E6%83%85%E5%A0%B1%E5%AD%A6%E9%83%A8%E3%81%AE%E5%AD%A6%E7%94%9F%E5%90%91%E3%81%91%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%B0%82%E9%96%80%E6%8A%80%E8%A1%93%E7%A0%94%E4%BF%AE%E3%82%B3%E3%83%BC%E3%82%B9%E3%81%AE/1028341692426326/",
     "pass": 3
    }
   ],
@@ -801,6 +485,446 @@
     "quote": "西尾 辰則 - 日総工産 （株） - リクルーター - LinkedIn 西尾 辰則 - 日総工産 （株） - リクルーター - LinkedIn LinkedIn https://jp.linkedin.com > 辰則-西尾-064397284",
     "url": "https://jp.linkedin.com/in/%E8%BE%B0%E5%89%87-%E8%A5%BF%E5%B0%BE-064397284",
     "pass": 3
+   }
+  ],
+  "売り方": [
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/contract/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "研修受託（NISSO HR Development Service）の事例紹介",
+    "url": "https://www.nisso.co.jp/service/training/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/training/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "eラーニングツール（Start engineer）の事例紹介",
+    "url": "https://www.nisso.co.jp/service/e-learning/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/e-learning/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日総工産は信頼のおけるツール開発企業と提携しておりますのでお客様に最適なものをご提案することが可能です",
+    "url": "https://www.nisso.co.jp/service/ai/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/ai/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/it/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/bpo/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ものづくりを支える8つのソリューションを活用事例でご紹介",
+    "url": "https://www.nisso.co.jp/service/case/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/case/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社案内やサービス資料など、日総工産を詳しくご紹介するお役立ち資料をご活用ください",
+    "url": "https://www.nisso.co.jp/service/download/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/download/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業 / 事務 / 採用 / 管理の採用サイトへ",
+    "url": "https://www.nisso.co.jp/recruit/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/recruit/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/recruit/newgraduate/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "お取引先で就業するスタッフの管理・顧客への企画、提案営業",
+    "url": "https://www.nisso.co.jp/recruit/career/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【新横浜/経験者歓迎】人材サービス法人営業（派遣～人材紹介）◆年休128日／フレックス◆プライム上場Gの安定基盤",
+    "url": "https://www.nisso.co.jp/recruit/career/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・新規開拓営業（100%）：派遣／紹介／紹介予定派遣 等の最適スキーム提案",
+    "url": "https://www.nisso.co.jp/recruit/career/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社ニコン日総プライム 人材サービス事業部 新横浜営業所/神奈川県横浜市港北区新横浜2-14-2 新横浜214ビル8F",
+    "url": "https://www.nisso.co.jp/recruit/career/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【新横浜/未経験歓迎】人材サービス法人営業（派遣～人材紹介）◆年休128日／フレックス/プライム上場Gの安定基盤◆",
+    "url": "https://www.nisso.co.jp/recruit/career/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・登録を希望する求職者への面接・お仕事紹介（WEB/対面）・書類作成",
+    "url": "https://www.nisso.co.jp/recruit/career/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・求職者に対して面接、仕事を紹介する業務(WEB面接/対面面接)",
+    "url": "https://www.nisso.co.jp/recruit/career/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造派遣・有料職業紹介・人材紹介・紹介予定派遣などご相談ください",
+    "url": "https://www.nisso.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "営業拠点は55か所、未経験から即戦力人材を育てる自社研修施設を９か所有しています",
+    "url": "https://www.nisso.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "営業 / 事務 / 採用 / 管理",
+    "url": "https://www.nisso.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日総の取り組みをご紹介",
+    "url": "https://www.nisso.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社金沢営業所が優秀安全運転事業所（銅賞）を受賞しました",
+    "url": "https://www.nisso.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日総工産の企業情報をご紹介します",
+    "url": "https://www.nisso.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが大切にしている理念、モットーをご紹介します",
+    "url": "https://www.nisso.co.jp/company/concept/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/company/concept/",
+    "pass": 1
+   },
+   {
+    "quote": "日総工産のブランドスローガンとロゴに込められた想いをご紹介します",
+    "url": "https://www.nisso.co.jp/company/brand-slogan/",
+    "pass": 1
+   },
+   {
+    "quote": "積み重ねた経験・人材育成・営業努力、",
+    "url": "https://www.nisso.co.jp/company/brand-slogan/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/company/brand-slogan/",
+    "pass": 1
+   },
+   {
+    "quote": "日総工産の経営情報やアクセスについてご紹介します",
+    "url": "https://www.nisso.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "製造系人材サービス（エンジニア派遣・製造派遣、人材紹介、製造請負等）",
+    "url": "https://www.nisso.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業／14-ユ-150026",
+    "url": "https://www.nisso.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年の創業から、現在に至るまでの日総工産の歩みをご紹介します",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ドクターズ株式会社と資本業務提携締結",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "全国の拠点、教育訓練施設をご紹介します",
+    "url": "https://www.nisso.co.jp/company/office/",
+    "pass": 1
+   },
+   {
+    "quote": "宇都宮営業所",
+    "url": "https://www.nisso.co.jp/company/office/",
+    "pass": 1
+   },
+   {
+    "quote": "八王子営業所",
+    "url": "https://www.nisso.co.jp/company/office/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋営業所",
+    "url": "https://www.nisso.co.jp/company/office/",
+    "pass": 1
+   },
+   {
+    "quote": "四日市営業所",
+    "url": "https://www.nisso.co.jp/company/office/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/company/office/",
+    "pass": 1
+   },
+   {
+    "quote": "日総工産のマネジメント体制についてご紹介します",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "※土日祝日および夏季休暇·年末年始休暇の期間中にいただいたお問い合わせへのご返信は、休み明けの営業日以降に順次対応します",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "企業からのご紹介等に関するお問い合わせやご相談につきましては、回答いたしかねる場合がございます",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "日総グループは、事務派遣・紹介事業、介護福祉事業、障がい者雇用、海外での人材サービスなど、",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "事務系人材サービス（一般事務派遣、職業紹介、委託事業）",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "人材派遣・人材紹介事業、人材シェアリング事業、受託・請負事業、高年齢者の活躍機会創出 及び 働き続けられる仕組みの構築に関する企画・研究開発・運営・サポート",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介、労働者派遣事業、再就職支援事業、生産・物流業務のアウトソーシング事業、コンサルティング事業",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介、ITコンサルティング、ラボ型オフショア開発",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "人材派遣事業、育成型有資格者派遣事業、 人材紹介プラットフォーム事業、メディアディレクション事業等",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "労働者派遣事業、有料職業紹介事業、各業務請負、受託事業",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介（主にエンジニア、製造人材）",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/company/certification/",
+    "pass": 1
+   },
+   {
+    "quote": "日総工産の専任コンサルタントが高付加価値の人材をお客様へご紹介するサービスです",
+    "url": "https://www.nisso.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の研修やセミナーの準備・運営にかかる負担を軽減し効果の高い社員教育を実現します",
+    "url": "https://www.nisso.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアサービスの事例紹介",
+    "url": "https://www.nisso.co.jp/service/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "製造派遣の事例紹介",
+    "url": "https://www.nisso.co.jp/service/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介（製造業・エンジニア）| サービス｜日総工産株式会社",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "日総工産の専任コンサルタントがニーズに沿った付加価値の高い人材をお客様へご紹介するサービスです",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "日総工産の“人材紹介”で",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "希望にあった人材の紹介",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "エグゼクティブからマネジャー・リーダー層などハイクラス・ミドルクラスの方についても条件にマッチした人材をご紹介します",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "自社求人メディアをはじめとする独自の採用チャネルや、全国58拠点の採用ネットワークの活用により、お客様のニーズに沿った人材を速やかにご紹介することが可能です",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の採用計画や募集ターゲティングに基づき、プランニングや適正なメディア選定、募集によって生じた課題感の共有と早期解決～新たなご提案など、営業担当や専任コンサルタントがお客様の『外部ブレーン』として人材確保までのフローを全力サポートします",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介の事例紹介",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "海外赴任経験者を迅速に紹介、海外進出と市場開拓に貢献",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "工場マネージメント経験者の紹介により、生産性や効率改善に寄与",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "人材のご紹介後もお悩みのヒアリングや、ご相談事項への対応といったアフターフォローも実施致します",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "製造請負の事例紹介",
+    "url": "https://www.nisso.co.jp/service/contract/",
+    "pass": 1
    }
   ],
   "検索結果の抜粋": [
@@ -950,934 +1074,21 @@
     "pass": 3
    }
   ],
-  "発言": [
+  "SNS・note（note・検索結果の抜粋）": [
    {
-    "quote": "5つの代表的な良い評判を紹介します",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新たな価値創出・人材輩出のために、創業理念「人を育て人を活かす」を実践します（代表取締役社長執行役員 藤野 賢治）",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "めまぐるしい社会変化のさなか、代表取締役社長執行役員に就任した藤野賢治は、日総工産の舵をどのように取り、めざす方向に開けている地表にどのような未来を思い描いているのでしょうか",
-    "url": "https://nisso-connect.com/archives/1203",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新社長を拝命したことは大変な重責を伴いますので、身が引き締まる思いです",
-    "url": "https://nisso-connect.com/archives/1203",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、総合人材サービスと介護・福祉サービスの2つのセグメントで構成されている日総グループは、2023年にホールディングス化して以来、経営と事業の分離を進めていますが、このたびの日総工産の社長拝命を機に、私は弊社の強みである高付加価値の人材育成をさらに強化し、売上高と営業利益の達成を実現することを第一義としています",
-    "url": "https://nisso-connect.com/archives/1203",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Q. 日総工産の社長として、",
-    "url": "https://nisso-connect.com/archives/1203",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2026年3月期から3カ年で取り組む新中期経営計画では、日総工産の社長として売上高と営業利益の達成を特に重視しています",
-    "url": "https://nisso-connect.com/archives/1203",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "インタビュー：清水竜一さん（日総工産株式会社） - 日本の人事部『プロネット』",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現在、2代目社長として同社をけん引する清水竜一さんは、業界団体である一般社団法人日本生産技能労務協会（JSLA）会長や一般社団法人人材サービス産業協議会（JHR）理事などの任務を通じ、製造系人材サービス業界の健全化にも力を注いでいます",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日総工産株式会社は、お父様でもある現在代表取締役会長の清水唯雄さんが、40年以上前に創業されたのですね",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "清水社長は、大学卒業後はどちらに就職されたのですか",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "HRソリューション業界TOPインタビューのバックナンバー",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "奥山貴広さん（株式会社ギークリー 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IT・Web・ゲーム業界に特化した人材紹介会社、株式会社ギークリーの代表・奥山貴広さん",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中島悠揮さん（HRクラウド株式会社 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用AIエージェント「採用一括かんりくん」を展開する、HRクラウド株式会社 代表取締役社長の中島悠揮さんは、自らの歩みを「圧倒的な量の積み上げ」だったと語ります...",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三坂健さん（株式会社HRインスティテュート 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "林徹郎さん（株式会社ワークポート 代表取締役社長 COO）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2003年に株式会社ワークポートを仲間とともに創業し、リーマン・ショックという会社存続の危機を「仕組み化」と「決断」で乗り越えてきた、代表取締役社長COO・林徹...",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "古田直裕さん（縄文アソシエイツ株式会社 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "縄文アソシエイツ株式会社の代表取締役社長・古田直裕さんのキャリアは、常に「多数派への疑義」と「独自の合理性」に貫かれています",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "HRソリューション業界TOPインタビュー バックナンバー",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "山﨑高之さん（株式会社BREXA Holdings 代表取締役社長 社長執行役員COO）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社BREXA Holdings 代表取締役...",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三原邦彦さん（株式会社ビースタイルホールディングス 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "矢澤 潤子さん（ANAビジネスソリューション株式会社 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "浦上壮平さん（株式会社エスプール 代表取締役会長兼社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "岡本祥治さん（株式会社みらいワークス 代表取締役社長）：",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "HR業界の代表的な業界団体をご紹介いたします",
-    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "EFOcats | 日総工産株式会社 様（導入事例・インタビュー）",
-    "url": "https://www.fcafe.com/efocats/case/case-nissokosan",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "神奈川大学 内藤 未唯さんが日本代表選手に選出されました！",
-    "url": "https://www.nisso.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/company/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージをはじめ、企業ビジョン・会社概要などをご覧いただけます",
-    "url": "https://www.nisso.co.jp/company/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ | 企業情報｜日総工産株式会社",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長執行役員 藤野 賢治からのご挨拶です",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "最後に、日総工産の社長として私個人の意気込みをお伝えいたします",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長執行役員",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/company/concept/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/company/brand-slogan/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/company/overview/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長執行役員",
-    "url": "https://www.nisso.co.jp/company/overview/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/company/office/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "日総工産株式会社 代表取締役社長執行役員",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長執行役員兼CEO 清水 竜一",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長 金本 将生",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長 宮下 剛",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役 兼 社長執行役員 吉田 雅彦",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長 遠藤 太嘉志",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役 手島 雄一",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長 金井 恭秀",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長 篠崎 彰宏",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "取締役社長 布垣 明",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長 松尾 伸一",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長 大澤 利久",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役 兼 執行役員社長 米田 光宏",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役社長 佐々木 真司",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表取締役 中澤 秀方",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/company/certification/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/engineer/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/manufacturing/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/contract/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/training/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/e-learning/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/ai/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/it/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/bpo/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/case/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/service/download/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso.co.jp/recruit/",
-    "pass": 1
-   },
-   {
-    "quote": "社員インタビュー",
-    "url": "https://www.nisso.co.jp/recruit/newgraduate/engineer/",
-    "pass": 1
-   },
-   {
-    "quote": "社員インタビュー",
-    "url": "https://www.nisso.co.jp/recruit/newgraduate/general/",
-    "pass": 1
-   },
-   {
-    "quote": "社員インタビュー",
-    "url": "https://www.nisso.co.jp/recruit/product26/",
-    "pass": 1
-   },
-   {
-    "quote": "代表メッセージ",
-    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
-    "pass": 3
-   },
-   {
-    "quote": "代表取締役社長執行役員 清水竜一",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "代表取締役社長執行役員 藤野 賢治",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "その後は日総工産の礎をつくり、代表取締役社長・会長を経て、2019年4月に取締役（名誉会長）に就任",
-    "url": "https://nisso-connect.com/archives/1783",
-    "pass": 3
-   },
-   {
-    "quote": "新たな価値創出・人材輩出のために、創業理念「人を育て人を活かす」を実践します（代表取締役社長執行役員 藤野 賢治）",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "代表取締役社長執行役員 藤野 賢治",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "社内の人脈を可視化できる仕組みを作りたいと考えていました」と語るのは営業部営業企画課課長の飯岡 真也氏",
-    "url": "https://www.hammock.jp/hpr/jirei/jirei_nisso.html",
-    "pass": 3
-   },
-   {
-    "quote": "スペシャルインタビュー",
-    "url": "https://www.717450.net/beginner/",
-    "pass": 3
-   },
-   {
-    "quote": "スタッフインタビュー",
-    "url": "https://www.717450.net/beginner/",
-    "pass": 3
-   },
-   {
-    "quote": "地価の暴騰や不動産価格の高騰、当時の史上最高値をつけた日経平均株価に代表される空前の好景気は、のちに“バブル経済”と呼ばれますが、1990年に大蔵省（当時）は、地価の異常な高騰を抑制するため金融機関が不動産業への貸し出しを抑える総量規制（金融引締政策のひとつ）を実施します",
-    "url": "https://nisso-connect.com/archives/1867",
-    "pass": 3
-   },
-   {
-    "quote": "日総工産の新社長 藤野 賢治に訊く！ | NISSO-CONNECT",
-    "url": "https://nisso-connect.com/archives/1203",
-    "pass": 3
-   }
-  ],
-  "料金": [
-   {
-    "quote": "寮費は月額数千円〜2万円程度の格安で設定されているケースが多く、光熱費込みの場合もあります",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "製造業の現場で役立つ資格の取得費用を会社が負担してくれる",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q. 日総工産に登録すると費用はかかりますか？",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、寮の形式（個室アパート・集合寮）や費用は求人によって異なります",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個室タイプ・集合寮の違いや費用、生活上の注意点を実態ベースで解説しています",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "即決×即赴任可！【日勤・土日休み】簡単軽作業だから未経験からも始められるオシゴト！時給1,600円、月収例34万円以上、寮費無料、入社特典総額50万円",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デジタルギフト5万円+入社特典45万円、総額50万円で収入面も安心！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "月収34万円以上可能で安定収入を目指せます",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【月収例30万円以上】電子部品のマシンオペレーター・検査など／在籍中はずっと社宅費無料／時給アップも目指せる！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※布団一式1706円・TV1739円・冷蔵庫1304円・洗濯機1338円(いずれも月額)",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "11月に入社すれば、入社祝い金40万円！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【部品の加工・取り付け・検査・ピッキングなど】月収例36万円以上／社宅費無料／土日休み／年間休日125日／日勤／11月入社限定！入社特典50万円／20～40代男女活躍中",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "入社特典最大70万円相当！月収例45万円以上可能！土日休み！社宅費無料！昇給制度あり！20代〜40代活躍中！未経験歓迎！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "最大70万円相当の入社特典をご用意！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（入社特典40万円と社宅費半年無料3...",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【11月入社限定！祝い金100万円あり◎】土日休み！レクサス車の組立・検査・機械操作｜ガッツリ稼ぎたい貴方にピッタリ月収例44万円以上のお仕事です！正社員登用制度あり 製造業が初めての方も大歓迎！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【諸手当内訳】入社特典内訳5万円(1か月目、2か...",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "☆エリア内高時給1700円＋寮費無料＋特典100万円☆",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【月収例43万円以上】<11月限定>入社特典80万円／トラック用のエンジン等の部品製造／社宅費無料／土日休み／バイク・マイカー通勤OK！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "～0円で住める寮・社宅～寮・社宅は、家賃が3～6万円するものが多いですが、UTエイムでは社宅費全額補助(実質家賃0円)の求人も約4割と非常に多く、負担するのは水道光熱費のみなので、貯金がたまりやすいです",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのため手ぶらで引越しが可能です！費用（想定される生活費用例）◇入居時",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社負担(0円)or自己負担(2～5万円)",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "0円、2～5万円",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "自己負担(一般物件:個人契約約1万円、レオパレス14,300円)",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "貯金可能金額求人によるものの、社宅費全額補助が出て固定費を抑え、食事も食堂メニューを利用するなどして生活している方で、1年で300万円ほど貯める方は多くいらっしゃいます",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "100百万円（2025年3月現在）",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "873億3,000万円（2025年3月期）",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社が認定した資格の受検料・申請料の助成(合格するとかかる費用が戻ってきます)",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "それとも、3ヶ月後に100万円近い貯金を手にし、人生をリセットした自分に会いに行きますか？",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "このような状況の中、当連結会計年度の経営成績は、売上高111,430百万円（前期比9.7％増）、営業利益3,190百",
-    "url": "https://www.nisso-hd.com/ir/finance/forecasts.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "万円（前期比10.3％減）、経常利益3,200百万円（前期比10.2％減）、親会社株主に帰属する当期純利益1,902百万",
-    "url": "https://www.nisso-hd.com/ir/finance/forecasts.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "他EFOツールと比較すると、初期費用や導入期間へのハードルは少し高いですが、それなりの価値はあると実感しています",
-    "url": "https://www.fcafe.com/efocats/case/case-nissokosan",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "どのような要因でミスマッチが生じているかを分析し、募集費用を絞りつつ効率を高める施策が必要です",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "100百万円（2026年3月31日現在）",
-    "url": "https://www.nisso.co.jp/company/overview/",
-    "pass": 1
-   },
-   {
-    "quote": "87,419百万円（2026年3月期）",
-    "url": "https://www.nisso.co.jp/company/overview/",
-    "pass": 1
-   },
-   {
-    "quote": "この時点から各種費用が発生するので、原則、サービス開始までお客様のご負担はございません",
-    "url": "https://www.nisso.co.jp/service/engineer/",
-    "pass": 1
-   },
-   {
-    "quote": "「完全成功報酬型」のためリスクなし",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "本サービスは、人材の採用（入社）をもって『成約』となりますので、募集時はもちろんそのプロセスにおいて一切のご費用負担はございません",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "成約課金の「完全成功報酬型」サービスのため、最大限の費用対効果を得ることが出来ます",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "外部講師がいない、費用が高い",
-    "url": "https://www.nisso.co.jp/service/e-learning/",
-    "pass": 1
-   },
-   {
-    "quote": "・通勤手当（月10万円迄）",
-    "url": "https://www.nisso.co.jp/recruit/product26/",
-    "pass": 1
-   },
-   {
-    "quote": "2,016百万円",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "連結：1015億6000万円",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "連結：35億5,500万円",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "連結：35億6,300万円",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "連結：19億3,500万円",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "100百万円",
-    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "pass": 3
-   },
-   {
-    "quote": "』（清水唯雄著 プレジデント社 本体価格1600円）は、Amazon、紀伊國屋書店オンライン、プレジデントストア等からご購入いただけます",
-    "url": "https://nisso-connect.com/archives/1783",
-    "pass": 3
-   },
-   {
-    "quote": "100百万円（2025年3月現在）",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "873億3,000万円（2025年3月期）",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "会社が認定した資格の受検料・申請料の助成(合格するとかかる費用が戻ってきます)",
-    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "資本金 ： 2,016百万円（2022年3月31日現在）",
-    "url": "https://www.hammock.jp/hpr/jirei/jirei_nisso.html",
-    "pass": 3
-   },
-   {
-    "quote": "人材派遣の人件費や派遣料金の内訳",
-    "url": "https://www.manufacturing-hr.com/company/nisso.html",
-    "pass": 3
-   },
-   {
-    "quote": "資本金：20億1600万円（2022年3月31日現在）",
-    "url": "https://www.manufacturing-hr.com/company/nisso.html",
-    "pass": 3
-   },
-   {
-    "quote": "売上高：716億9700万円(2022年3月期)",
-    "url": "https://www.manufacturing-hr.com/company/nisso.html",
-    "pass": 3
-   },
-   {
-    "quote": "・全国の飲食店・映画館・アミューズメント施設等を特別料金で利用する事が出来ます",
-    "url": "https://www.717450.net/beginner/",
-    "pass": 3
-   },
-   {
-    "quote": "全国の飲食店・映画館・アミューズメント施設等を特別料金で利用する事が出来ます",
-    "url": "https://www.717450.net/beginner/",
-    "pass": 3
-   },
-   {
-    "quote": "地価の暴騰や不動産価格の高騰、当時の史上最高値をつけた日経平均株価に代表される空前の好景気は、のちに“バブル経済”と呼ばれますが、1990年に大蔵省（当時）は、地価の異常な高騰を抑制するため金融機関が不動産業への貸し出しを抑える総量規制（金融引締政策のひとつ）を実施します",
-    "url": "https://nisso-connect.com/archives/1867",
-    "pass": 3
-   },
-   {
-    "quote": "最大の特徴は、トヨタグループをはじめとする大手メーカーの求人が豊富で、未経験であっても月収30万円超や、入社祝い金なとの様々な制度によって、高収入を得ることが可能な点にあります",
-    "url": "https://nisso-connect.com/archives/1867",
-    "pass": 3
-   },
-   {
-    "quote": "月収目安が30万円以上など、高待遇の案件が多い",
-    "url": "https://nisso-connect.com/archives/1867",
-    "pass": 3
-   },
-   {
-    "quote": "〈エリア社員〉の場合も、日総工産の正社員として取引先企業（大手メーカーなど）に派遣される勤務形態となりますが、入社数年であっても月収は27万円〜33万円、初年度の年収が500万円クラスの厚待遇で働くエリア社員も多くいます",
-    "url": "https://nisso-connect.com/archives/1867",
-    "pass": 3
-   },
-   {
-    "quote": "この利点を活用した人のなかには、派遣社員としての新生活をスタートさせた当初は貯金がない状態でしたが、300万円を貯金してバイクを購入するという目標に向かって派遣先で仕事に奮闘し、わずか2年で見事に夢を叶えた人もいます",
-    "url": "https://nisso-connect.com/archives/1867",
-    "pass": 3
-   },
-   {
-    "quote": "時給1,800円超えや入社祝い金50万円といった「神案件」は、掲載された瞬間に蒸発します",
-    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
-    "pass": 3
-   },
-   {
-    "quote": "でも、工場求人ナビで適切な案件を選べば、**「3ヶ月で100万円貯める」「未経験から月収30万円を確保する」**といった現実は、驚くほど簡単に手に入ります",
-    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
-    "pass": 3
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "日総工産（6569）株価・今後の見通し・予想｜noteマネー",
+    "quote": "日総工産 （6569）株価・今後の見通し・予想｜noteマネー 日総工産 （6569）株価・今後の見通し・予想｜noteマネー note https://note.com > noteマネー",
     "url": "https://note.com/tag/vm/investment_money/company-6569",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "【退職の罠】工場求人ナビ（日総工産）は即日辞められる？面接対策からバックレのリスクまで全回答｜英人＠みんなの転職・キャリアアップ会議",
+    "quote": "【退職の罠】工場求人ナビ（ 日総工産 ）は即日辞められる ... 【退職の罠】工場求人ナビ（ 日総工産 ）は即日辞められる ... note https://note.com > キャリア > 就職活動",
     "url": "https://note.com/switching_jobs/n/nd24c651ae710",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "【退職の罠】工場求人ナビ（日総工産）は即日辞められる？面接対策からバックレのリスクまで全回答",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「もし現場が地獄だったら、すぐ辞められるのか？」",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「バックレたら給料は没収されるのか？」 そんな不安で足が止まっているあなたへ。",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "元缶詰工場バイトの私から言わせれば、その心配は正解です。",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "出口を想定せずに飛び込むのは、地図を持たずに樹海に入るようなもの。",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、工場求人ナビ（日総工産）のような大手には、明確な「ルールの出口」が存在します。",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗した時の逃げ道さえ知っておけば、挑戦のリスクはゼロになります。",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "工場求人ナビの評判はガチ？元缶詰工場バイトが「日総工産」の裏側を徹底暴露する包括ガイド｜英人＠みんなの転職・キャリアアップ会議",
-    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
-    "pass": 3
-   },
-   {
-    "quote": "工場求人ナビの評判はガチ？元缶詰工場バイトが「日総工産」の裏側を徹底暴露する包括ガイド",
-    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
-    "pass": 3
-   },
-   {
-    "quote": "そう思っているなら、半分は正解で、半分は間違いです。",
-    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
-    "pass": 3
-   },
-   {
-    "quote": "元・缶詰工場のラインで、ひたすら流れてくる魚の切り身と12時間格闘していた私から言わせれば、工場派遣の成否は「どの求人サイトを使うか」で8割決まります。",
-    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
-    "pass": 3
-   },
-   {
-    "quote": "特に大手「日総工産」が運営する【工場求人ナビ】は、業界でも老舗。",
-    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
-    "pass": 3
-   },
-   {
-    "quote": "しかし、老舗だからといって手放しで信頼していいわけではありません。",
-    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
-    "pass": 3
-   },
-   {
-    "quote": "現場のリアルを知らないキラキラした広告に騙されないよう、私が「中の人」に近い視点で、その光と影をすべてぶちまけます。",
-    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
-    "pass": 3
-   },
-   {
-    "quote": "工場求人ナビで「当たり」の現場を引き当てる",
+    "quote": "工場求人ナビの評判はガチ？元缶詰工場バイトが「 日総工産 ... 工場求人ナビの評判はガチ？元缶詰工場バイトが「 日総工産 ... note https://note.com > キャリア > 転職・キャリアチェンジ",
     "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
     "pass": 3
    }
@@ -2604,463 +1815,476 @@
     "pass": 1
    }
   ],
-  "SNS・note（note・検索結果の抜粋）": [
+  "SNS・note（X・検索結果の抜粋）": [
    {
-    "quote": "日総工産 （6569）株価・今後の見通し・予想｜noteマネー 日総工産 （6569）株価・今後の見通し・予想｜noteマネー note https://note.com > noteマネー",
-    "url": "https://note.com/tag/vm/investment_money/company-6569",
+    "quote": "日総工産 株式会社｜工場求人ナビ (@717450NISSO) / X 日総工産 株式会社｜工場求人ナビ (@717450NISSO) / X X https://x.com > ...",
+    "url": "https://x.com/717450NISSO",
+    "pass": 3
+   },
+   {
+    "quote": "日総工産 株式会社｜工場求人ナビ on X: \"NISSOマッチデー ... 日総工産 株式会社｜工場求人ナビ on X: \"NISSOマッチデー ... X https://x.com > @717450NISSO",
+    "url": "https://x.com/717450NISSO/status/2105587235605336357",
+    "pass": 3
+   },
+   {
+    "quote": "日総工産 株式会社｜工場求人ナビ - X 日総工産 株式会社｜工場求人ナビ - X X https://x.com > @717450NISSO",
+    "url": "https://x.com/717450NISSO/status/1979110148011397521",
+    "pass": 3
+   },
+   {
+    "quote": "日総工産 株式会社｜工場求人ナビ - X 日総工産 株式会社｜工場求人ナビ - X X https://x.com > @717450NISSO",
+    "url": "https://x.com/717450NISSO/status/1996867752817291528",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "寮費は月額数千円〜2万円程度の格安で設定されているケースが多く、光熱費込みの場合もあります",
+    "url": "https://jobhouse.jp/factory/columns/1181",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "【退職の罠】工場求人ナビ（ 日総工産 ）は即日辞められる ... 【退職の罠】工場求人ナビ（ 日総工産 ）は即日辞められる ... note https://note.com > キャリア > 就職活動",
+    "quote": "製造業の現場で役立つ資格の取得費用を会社が負担してくれる",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Q. 日総工産に登録すると費用はかかりますか？",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、寮の形式（個室アパート・集合寮）や費用は求人によって異なります",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個室タイプ・集合寮の違いや費用、生活上の注意点を実態ベースで解説しています",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "即決×即赴任可！【日勤・土日休み】簡単軽作業だから未経験からも始められるオシゴト！時給1,600円、月収例34万円以上、寮費無料、入社特典総額50万円",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デジタルギフト5万円+入社特典45万円、総額50万円で収入面も安心！",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "月収34万円以上可能で安定収入を目指せます",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【月収例30万円以上】電子部品のマシンオペレーター・検査など／在籍中はずっと社宅費無料／時給アップも目指せる！",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※布団一式1706円・TV1739円・冷蔵庫1304円・洗濯機1338円(いずれも月額)",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "11月に入社すれば、入社祝い金40万円！",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【部品の加工・取り付け・検査・ピッキングなど】月収例36万円以上／社宅費無料／土日休み／年間休日125日／日勤／11月入社限定！入社特典50万円／20～40代男女活躍中",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "入社特典最大70万円相当！月収例45万円以上可能！土日休み！社宅費無料！昇給制度あり！20代〜40代活躍中！未経験歓迎！",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最大70万円相当の入社特典をご用意！",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（入社特典40万円と社宅費半年無料3...",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【11月入社限定！祝い金100万円あり◎】土日休み！レクサス車の組立・検査・機械操作｜ガッツリ稼ぎたい貴方にピッタリ月収例44万円以上のお仕事です！正社員登用制度あり 製造業が初めての方も大歓迎！",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【諸手当内訳】入社特典内訳5万円(1か月目、2か...",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "☆エリア内高時給1700円＋寮費無料＋特典100万円☆",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【月収例43万円以上】<11月限定>入社特典80万円／トラック用のエンジン等の部品製造／社宅費無料／土日休み／バイク・マイカー通勤OK！",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "～0円で住める寮・社宅～寮・社宅は、家賃が3～6万円するものが多いですが、UTエイムでは社宅費全額補助(実質家賃0円)の求人も約4割と非常に多く、負担するのは水道光熱費のみなので、貯金がたまりやすいです",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため手ぶらで引越しが可能です！費用（想定される生活費用例）◇入居時",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会社負担(0円)or自己負担(2～5万円)",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "0円、2～5万円",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自己負担(一般物件:個人契約約1万円、レオパレス14,300円)",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "貯金可能金額求人によるものの、社宅費全額補助が出て固定費を抑え、食事も食堂メニューを利用するなどして生活している方で、1年で300万円ほど貯める方は多くいらっしゃいます",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "100百万円（2025年3月現在）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "873億3,000万円（2025年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会社が認定した資格の受検料・申請料の助成(合格するとかかる費用が戻ってきます)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それとも、3ヶ月後に100万円近い貯金を手にし、人生をリセットした自分に会いに行きますか？",
     "url": "https://note.com/switching_jobs/n/nd24c651ae710",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "工場求人ナビの評判はガチ？元缶詰工場バイトが「 日総工産 ... 工場求人ナビの評判はガチ？元缶詰工場バイトが「 日総工産 ... note https://note.com > キャリア > 転職・キャリアチェンジ",
+    "quote": "このような状況の中、当連結会計年度の経営成績は、売上高111,430百万円（前期比9.7％増）、営業利益3,190百",
+    "url": "https://www.nisso-hd.com/ir/finance/forecasts.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "万円（前期比10.3％減）、経常利益3,200百万円（前期比10.2％減）、親会社株主に帰属する当期純利益1,902百万",
+    "url": "https://www.nisso-hd.com/ir/finance/forecasts.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "他EFOツールと比較すると、初期費用や導入期間へのハードルは少し高いですが、それなりの価値はあると実感しています",
+    "url": "https://www.fcafe.com/efocats/case/case-nissokosan",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "どのような要因でミスマッチが生じているかを分析し、募集費用を絞りつつ効率を高める施策が必要です",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "100百万円（2026年3月31日現在）",
+    "url": "https://www.nisso.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "87,419百万円（2026年3月期）",
+    "url": "https://www.nisso.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "この時点から各種費用が発生するので、原則、サービス開始までお客様のご負担はございません",
+    "url": "https://www.nisso.co.jp/service/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "「完全成功報酬型」のためリスクなし",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスは、人材の採用（入社）をもって『成約』となりますので、募集時はもちろんそのプロセスにおいて一切のご費用負担はございません",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "成約課金の「完全成功報酬型」サービスのため、最大限の費用対効果を得ることが出来ます",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "外部講師がいない、費用が高い",
+    "url": "https://www.nisso.co.jp/service/e-learning/",
+    "pass": 1
+   },
+   {
+    "quote": "・通勤手当（月10万円迄）",
+    "url": "https://www.nisso.co.jp/recruit/product26/",
+    "pass": 1
+   },
+   {
+    "quote": "2,016百万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "連結：1015億6000万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "連結：35億5,500万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "連結：35億6,300万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "連結：19億3,500万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "100百万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "』（清水唯雄著 プレジデント社 本体価格1600円）は、Amazon、紀伊國屋書店オンライン、プレジデントストア等からご購入いただけます",
+    "url": "https://nisso-connect.com/archives/1783",
+    "pass": 3
+   },
+   {
+    "quote": "100百万円（2025年3月現在）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "873億3,000万円（2025年3月期）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社が認定した資格の受検料・申請料の助成(合格するとかかる費用が戻ってきます)",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 ： 2,016百万円（2022年3月31日現在）",
+    "url": "https://www.hammock.jp/hpr/jirei/jirei_nisso.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣の人件費や派遣料金の内訳",
+    "url": "https://www.manufacturing-hr.com/company/nisso.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：20億1600万円（2022年3月31日現在）",
+    "url": "https://www.manufacturing-hr.com/company/nisso.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高：716億9700万円(2022年3月期)",
+    "url": "https://www.manufacturing-hr.com/company/nisso.html",
+    "pass": 3
+   },
+   {
+    "quote": "・全国の飲食店・映画館・アミューズメント施設等を特別料金で利用する事が出来ます",
+    "url": "https://www.717450.net/beginner/",
+    "pass": 3
+   },
+   {
+    "quote": "全国の飲食店・映画館・アミューズメント施設等を特別料金で利用する事が出来ます",
+    "url": "https://www.717450.net/beginner/",
+    "pass": 3
+   },
+   {
+    "quote": "地価の暴騰や不動産価格の高騰、当時の史上最高値をつけた日経平均株価に代表される空前の好景気は、のちに“バブル経済”と呼ばれますが、1990年に大蔵省（当時）は、地価の異常な高騰を抑制するため金融機関が不動産業への貸し出しを抑える総量規制（金融引締政策のひとつ）を実施します",
+    "url": "https://nisso-connect.com/archives/1867",
+    "pass": 3
+   },
+   {
+    "quote": "最大の特徴は、トヨタグループをはじめとする大手メーカーの求人が豊富で、未経験であっても月収30万円超や、入社祝い金なとの様々な制度によって、高収入を得ることが可能な点にあります",
+    "url": "https://nisso-connect.com/archives/1867",
+    "pass": 3
+   },
+   {
+    "quote": "月収目安が30万円以上など、高待遇の案件が多い",
+    "url": "https://nisso-connect.com/archives/1867",
+    "pass": 3
+   },
+   {
+    "quote": "〈エリア社員〉の場合も、日総工産の正社員として取引先企業（大手メーカーなど）に派遣される勤務形態となりますが、入社数年であっても月収は27万円〜33万円、初年度の年収が500万円クラスの厚待遇で働くエリア社員も多くいます",
+    "url": "https://nisso-connect.com/archives/1867",
+    "pass": 3
+   },
+   {
+    "quote": "この利点を活用した人のなかには、派遣社員としての新生活をスタートさせた当初は貯金がない状態でしたが、300万円を貯金してバイクを購入するという目標に向かって派遣先で仕事に奮闘し、わずか2年で見事に夢を叶えた人もいます",
+    "url": "https://nisso-connect.com/archives/1867",
+    "pass": 3
+   },
+   {
+    "quote": "時給1,800円超えや入社祝い金50万円といった「神案件」は、掲載された瞬間に蒸発します",
+    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
+    "pass": 3
+   },
+   {
+    "quote": "でも、工場求人ナビで適切な案件を選べば、**「3ヶ月で100万円貯める」「未経験から月収30万円を確保する」**といった現実は、驚くほど簡単に手に入ります",
     "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
     "pass": 3
    }
   ],
-  "製造業の顧客": [
+  "SNS・note（note・本文）": [
    {
-    "quote": "お取引先様のニーズや仕様を把握し、独自の教育ノウハウと訓練施設を使って人を育て、長年積み上げてきた管理体制とキャリアパスで人を活かし、現場の「ひとづくり力」と「ものづくり力」を必要なレベルに高めます",
-    "url": "https://www.nisso.co.jp/service/contract/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "日総工産（6569）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-6569",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "弊社の製造請負は、お取引先様と共に価値を創り出すビジネスモデルであり、例えば設備管理と融合した一貫サービスの導入により、さらにプラスの効果が期待できます",
-    "url": "https://www.nisso.co.jp/service/contract/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "【退職の罠】工場求人ナビ（日総工産）は即日辞められる？面接対策からバックレのリスクまで全回答｜英人＠みんなの転職・キャリアアップ会議",
+    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/contract/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "【退職の罠】工場求人ナビ（日総工産）は即日辞められる？面接対策からバックレのリスクまで全回答",
+    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "製造業の研修受託（NISSO HR Development Service）| サービス｜日総工産株式会社",
-    "url": "https://www.nisso.co.jp/service/training/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "「もし現場が地獄だったら、すぐ辞められるのか？」",
+    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "経験豊富なコンサルタントと様々なメーカー出身の講師陣が、お客様のニーズに合わせた独自カリキュラムを作成いたします",
-    "url": "https://www.nisso.co.jp/service/training/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "「バックレたら給料は没収されるのか？」 そんな不安で足が止まっているあなたへ。",
+    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "これまでに、メーカーのみならず地方自治体からもご依頼を頂戴しており、その対応範囲には自信があります",
-    "url": "https://www.nisso.co.jp/service/training/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "元缶詰工場バイトの私から言わせれば、その心配は正解です。",
+    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/training/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "出口を想定せずに飛び込むのは、地図を持たずに樹海に入るようなもの。",
+    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "創業から50年以上にわたり製造業に特化した人材サービスを展開",
-    "url": "https://www.nisso.co.jp/service/e-learning/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "しかし、工場求人ナビ（日総工産）のような大手には、明確な「ルールの出口」が存在します。",
+    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "日総グループとして日本全国に1300社以上のお取引先があり、車・半導体・エレクトロニクスといった主要なお取引先だけでなく住宅、食品等といった幅広い製造業界をカバーしています",
-    "url": "https://www.nisso.co.jp/service/e-learning/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "失敗した時の逃げ道さえ知っておけば、挑戦のリスクはゼロになります。",
+    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "あらゆる製造業とお取引があるからこそ、蓄積された独自の育成ノウハウがあります",
-    "url": "https://www.nisso.co.jp/service/e-learning/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "工場求人ナビの評判はガチ？元缶詰工場バイトが「日総工産」の裏側を徹底暴露する包括ガイド｜英人＠みんなの転職・キャリアアップ会議",
+    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
+    "pass": 3
    },
    {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/e-learning/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "工場求人ナビの評判はガチ？元缶詰工場バイトが「日総工産」の裏側を徹底暴露する包括ガイド",
+    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
+    "pass": 3
    },
    {
-    "quote": "製造業AIソリューション | サービス｜日総工産株式会社",
-    "url": "https://www.nisso.co.jp/service/ai/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "そう思っているなら、半分は正解で、半分は間違いです。",
+    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
+    "pass": 3
    },
    {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/ai/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "元・缶詰工場のラインで、ひたすら流れてくる魚の切り身と12時間格闘していた私から言わせれば、工場派遣の成否は「どの求人サイトを使うか」で8割決まります。",
+    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
+    "pass": 3
    },
    {
-    "quote": "製造業の業務理解を持つIT人材を確保したい",
-    "url": "https://www.nisso.co.jp/service/it/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "特に大手「日総工産」が運営する【工場求人ナビ】は、業界でも老舗。",
+    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
+    "pass": 3
    },
    {
-    "quote": "大手メーカー・上場企業を中心とした豊富な案件実績",
-    "url": "https://www.nisso.co.jp/service/it/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "しかし、老舗だからといって手放しで信頼していいわけではありません。",
+    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
+    "pass": 3
    },
    {
-    "quote": "Webシステム／業務アプリ開発：製造業・官公庁向け向けの生産管理システムの開発およびテスト・実装業務を担当",
-    "url": "https://www.nisso.co.jp/service/it/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "quote": "現場のリアルを知らないキラキラした広告に騙されないよう、私が「中の人」に近い視点で、その光と影をすべてぶちまけます。",
+    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
+    "pass": 3
    },
    {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/it/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "BPO（労務管理支援／コンサルティング） | サービス（製造業）｜日総工産株式会社",
-    "url": "https://www.nisso.co.jp/service/bpo/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/case/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/recruit/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/recruit/newgraduate/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造系人材サービスのパイオニアとして、さまざまなものづくりメーカーのパートナーとして歩んできました",
-    "url": "https://www.nisso.co.jp/recruit/career/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "お取引先で就業するスタッフの管理・顧客への企画、提案営業",
-    "url": "https://www.nisso.co.jp/recruit/career/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "オリコン顧客満足度®調査「工場・製造業派遣」ランキング 4年連続 No.1",
-    "url": "https://www.nisso.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "第3回 名古屋 製造業人手不足対策EXPOに出展いたします",
-    "url": "https://www.nisso.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "工場からエンジニアまで、鮮度の高い求人情報でキャリアの第一歩を支えます",
-    "url": "https://www.nisso.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "（工場求人ナビ）",
-    "url": "https://www.nisso.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "『工場の先にある、未来へ』全国1,500件以上の工場求人専門サイト",
-    "url": "https://www.nisso.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/company/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/company/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "当社はこれまで、人の力で日本の製造業とともに歩み、現場に寄り添いながら、変化する社会や産業構造に対応してまいりました",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "近年では取引先ごとの個別のニーズに対応するのではなく、オートモーティブ、セミコンダクター、エレクトロニクスという3つの産業に焦点を絞り、それぞれの産業の中で共通する課題解決に向けたサービスを提供する「インダストリー戦略」を展開してまいりました",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "この戦略の中で得た技術とノウハウは、あらゆる産業界に展開することが可能であり、その領域を広げることで、これからも日本の製造業を支える力であり続けることを目指しております",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "だからこそ、私たちはお取引先と連携し、雇用だけでなく、職場環境そのものを整えることがより重要だと考えています",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/company/message/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/company/concept/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/company/concept/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/company/brand-slogan/",
-    "pass": 1
-   },
-   {
-    "quote": "こうした時代に、創業者の清水唯雄は、「日本の総ての工場の生産業務を受託していく」という想いを胸に抱き、社名として「日総工産」と名付けました",
-    "url": "https://www.nisso.co.jp/company/brand-slogan/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/company/brand-slogan/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/company/overview/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/company/overview/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/company/office/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/company/office/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "役員・従業員は、本憲章を遵守するとともに、お客様、取引先、株主を始め、日総グループに関係するすべての方々にも、本憲章の趣旨を理解頂き、協力を頂けるよう努めるものとします",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "個人情報・顧客情報をはじめとする各種情報ならびに知的財産権の保護・管理を徹底し、不当に侵害・使用しません",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "業務上で知った顧客情報を含む機密情報、個人情報を厳重に管理し、他には漏洩しません",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "また、お客様・取引先等の地球環境保全への取り組みに、積極的に協力していきます",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "お客様、株主・投資家、取引先、行政、地域、社会などステークホルダーに企業情報を適時・的確に開示し、透明性を高めます",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "お客様（取引先を含め日総グループに関係するすべての方々）からいただくご意見・ご要望に対してサービスの改善、品質向上に繋げるべく真摯に取り組んでいるところではありますが、時には一部のお客様から、従業員の人格を否定する言動、暴力、セクシュアルハラスメント等の従業員の尊厳を傷つけるものがあり、これらの行為は就業環境の悪化を招くものと考えております",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "地域および顧客などの環境保全活動へ積極的に貢献する",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめとする多様なステークホルダーとの価値協創が重要となっていることを踏まえ、創業理念である「人を育て 人を活かす」のもと、企業と人の成長を支援する人材ソリューションサービスを提供し、マルチステークホルダーとの適切な協働に取り組んでまいります",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "その上で、価値協創や生産性向上によって生み出された収益・成果について、マルチステークホルダーへの適切な分配を行うことが、賃金引上げのモメンタムの維持や経済の持続的発展につながるという観点から、従業員への還元や取引先への配慮が重要であることを踏まえ、以下の取組を進めてまいります",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "2.取引先への配慮",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "当社は、サプライチェーンの取引先の皆様や価値創造を図る事業者の皆様との連携・共存共栄を進めることで、新たなパートナーシップの構築を図ってまいります",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "また、消費税の免税事業者との取引関係についても、政府が公表する免税事業者及びその取引先のインボイス制度への対応に関する考え方等を参照し、適切な関係の構築に取り組んでまいります",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/company/management/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/company/certification/",
-    "pass": 1
-   },
-   {
-    "quote": "を実現し、そこで働くスタッフの福祉向上、及び発注者（製造事業者）の製造業務の長期的な質的改善につなげることを目的としています",
-    "url": "https://www.nisso.co.jp/company/certification/",
-    "pass": 1
-   },
-   {
-    "quote": "ISO9001とは、企業などが、顧客や社会などが求めている品質を備えた製品やサービスを常に届けるための仕組みについて構成されている国際規格の一つです",
-    "url": "https://www.nisso.co.jp/company/certification/",
-    "pass": 1
-   },
-   {
-    "quote": "通常、ISO9001は製品設計を含む製品製造業・製品設計を除く製品製造業・サービス業（運輸業、管理会社、金融業などの非製品製造業や人材派遣の管理業務等）で取得される例が挙げられますが、当社は金沢KKMにおいて、2011年に製造業務請負による電子部品の製造（製品設計を除く製品製造+サービス）でのISO認証取得をいたしました",
-    "url": "https://www.nisso.co.jp/company/certification/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/company/certification/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/service/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/service/engineer/",
-    "pass": 1
-   },
-   {
-    "quote": "メーカー出身講師による独自カリキュラムと実機を活用した実践的な教育",
-    "url": "https://www.nisso.co.jp/service/engineer/",
-    "pass": 1
-   },
-   {
-    "quote": "工場求人ナビ",
-    "url": "https://www.nisso.co.jp/service/engineer/",
-    "pass": 1
-   },
-   {
-    "quote": "全国56拠点・取引先社数700社以上の組織力であらゆるニーズに対応できます",
-    "url": "https://www.nisso.co.jp/service/engineer/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/engineer/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/service/manufacturing/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/manufacturing/",
-    "pass": 1
-   },
-   {
-    "quote": "人材紹介（製造業・エンジニア）| サービス｜日総工産株式会社",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "工場マネージメント経験者の紹介により、生産性や効率改善に寄与",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "製造業AIソリューション",
-    "url": "https://www.nisso.co.jp/service/contract/",
-    "pass": 1
+    "quote": "工場求人ナビで「当たり」の現場を引き当てる",
+    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
+    "pass": 3
    }
   ],
   "売上・規模": [
@@ -3419,25 +2643,485 @@
     "pass": 3
    }
   ],
-  "SNS・note（X・検索結果の抜粋）": [
+  "発言": [
    {
-    "quote": "日総工産 株式会社｜工場求人ナビ (@717450NISSO) / X 日総工産 株式会社｜工場求人ナビ (@717450NISSO) / X X https://x.com > ...",
-    "url": "https://x.com/717450NISSO",
+    "quote": "5つの代表的な良い評判を紹介します",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新たな価値創出・人材輩出のために、創業理念「人を育て人を活かす」を実践します（代表取締役社長執行役員 藤野 賢治）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "めまぐるしい社会変化のさなか、代表取締役社長執行役員に就任した藤野賢治は、日総工産の舵をどのように取り、めざす方向に開けている地表にどのような未来を思い描いているのでしょうか",
+    "url": "https://nisso-connect.com/archives/1203",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新社長を拝命したことは大変な重責を伴いますので、身が引き締まる思いです",
+    "url": "https://nisso-connect.com/archives/1203",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、総合人材サービスと介護・福祉サービスの2つのセグメントで構成されている日総グループは、2023年にホールディングス化して以来、経営と事業の分離を進めていますが、このたびの日総工産の社長拝命を機に、私は弊社の強みである高付加価値の人材育成をさらに強化し、売上高と営業利益の達成を実現することを第一義としています",
+    "url": "https://nisso-connect.com/archives/1203",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Q. 日総工産の社長として、",
+    "url": "https://nisso-connect.com/archives/1203",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年3月期から3カ年で取り組む新中期経営計画では、日総工産の社長として売上高と営業利益の達成を特に重視しています",
+    "url": "https://nisso-connect.com/archives/1203",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビュー：清水竜一さん（日総工産株式会社） - 日本の人事部『プロネット』",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現在、2代目社長として同社をけん引する清水竜一さんは、業界団体である一般社団法人日本生産技能労務協会（JSLA）会長や一般社団法人人材サービス産業協議会（JHR）理事などの任務を通じ、製造系人材サービス業界の健全化にも力を注いでいます",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日総工産株式会社は、お父様でもある現在代表取締役会長の清水唯雄さんが、40年以上前に創業されたのですね",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "清水社長は、大学卒業後はどちらに就職されたのですか",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HRソリューション業界TOPインタビューのバックナンバー",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "奥山貴広さん（株式会社ギークリー 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IT・Web・ゲーム業界に特化した人材紹介会社、株式会社ギークリーの代表・奥山貴広さん",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中島悠揮さん（HRクラウド株式会社 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用AIエージェント「採用一括かんりくん」を展開する、HRクラウド株式会社 代表取締役社長の中島悠揮さんは、自らの歩みを「圧倒的な量の積み上げ」だったと語ります...",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三坂健さん（株式会社HRインスティテュート 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "林徹郎さん（株式会社ワークポート 代表取締役社長 COO）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2003年に株式会社ワークポートを仲間とともに創業し、リーマン・ショックという会社存続の危機を「仕組み化」と「決断」で乗り越えてきた、代表取締役社長COO・林徹...",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "古田直裕さん（縄文アソシエイツ株式会社 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "縄文アソシエイツ株式会社の代表取締役社長・古田直裕さんのキャリアは、常に「多数派への疑義」と「独自の合理性」に貫かれています",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HRソリューション業界TOPインタビュー バックナンバー",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "山﨑高之さん（株式会社BREXA Holdings 代表取締役社長 社長執行役員COO）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社BREXA Holdings 代表取締役...",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三原邦彦さん（株式会社ビースタイルホールディングス 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "矢澤 潤子さん（ANAビジネスソリューション株式会社 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "浦上壮平さん（株式会社エスプール 代表取締役会長兼社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "岡本祥治さん（株式会社みらいワークス 代表取締役社長）：",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HR業界の代表的な業界団体をご紹介いたします",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1149/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "EFOcats | 日総工産株式会社 様（導入事例・インタビュー）",
+    "url": "https://www.fcafe.com/efocats/case/case-nissokosan",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川大学 内藤 未唯さんが日本代表選手に選出されました！",
+    "url": "https://www.nisso.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージをはじめ、企業ビジョン・会社概要などをご覧いただけます",
+    "url": "https://www.nisso.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ | 企業情報｜日総工産株式会社",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長執行役員 藤野 賢治からのご挨拶です",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "最後に、日総工産の社長として私個人の意気込みをお伝えいたします",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長執行役員",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/company/concept/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/company/brand-slogan/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長執行役員",
+    "url": "https://www.nisso.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/company/office/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "日総工産株式会社 代表取締役社長執行役員",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長執行役員兼CEO 清水 竜一",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 金本 将生",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 宮下 剛",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役 兼 社長執行役員 吉田 雅彦",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 遠藤 太嘉志",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役 手島 雄一",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 金井 恭秀",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 篠崎 彰宏",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役社長 布垣 明",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 松尾 伸一",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 大澤 利久",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役 兼 執行役員社長 米田 光宏",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役社長 佐々木 真司",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役 中澤 秀方",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/company/certification/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/contract/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/training/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/e-learning/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/ai/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/it/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/bpo/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/case/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/service/download/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー",
+    "url": "https://www.nisso.co.jp/recruit/newgraduate/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー",
+    "url": "https://www.nisso.co.jp/recruit/newgraduate/general/",
+    "pass": 1
+   },
+   {
+    "quote": "社員インタビュー",
+    "url": "https://www.nisso.co.jp/recruit/product26/",
+    "pass": 1
+   },
+   {
+    "quote": "代表メッセージ",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
     "pass": 3
    },
    {
-    "quote": "日総工産 株式会社｜工場求人ナビ on X: \"NISSOマッチデー ... 日総工産 株式会社｜工場求人ナビ on X: \"NISSOマッチデー ... X https://x.com > @717450NISSO",
-    "url": "https://x.com/717450NISSO/status/2105587235605336357",
+    "quote": "代表取締役社長執行役員 清水竜一",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
     "pass": 3
    },
    {
-    "quote": "日総工産 株式会社｜工場求人ナビ - X 日総工産 株式会社｜工場求人ナビ - X X https://x.com > @717450NISSO",
-    "url": "https://x.com/717450NISSO/status/1979110148011397521",
+    "quote": "代表取締役社長執行役員 藤野 賢治",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
     "pass": 3
    },
    {
-    "quote": "日総工産 株式会社｜工場求人ナビ - X 日総工産 株式会社｜工場求人ナビ - X X https://x.com > @717450NISSO",
-    "url": "https://x.com/717450NISSO/status/1996867752817291528",
+    "quote": "その後は日総工産の礎をつくり、代表取締役社長・会長を経て、2019年4月に取締役（名誉会長）に就任",
+    "url": "https://nisso-connect.com/archives/1783",
+    "pass": 3
+   },
+   {
+    "quote": "新たな価値創出・人材輩出のために、創業理念「人を育て人を活かす」を実践します（代表取締役社長執行役員 藤野 賢治）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長執行役員 藤野 賢治",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内の人脈を可視化できる仕組みを作りたいと考えていました」と語るのは営業部営業企画課課長の飯岡 真也氏",
+    "url": "https://www.hammock.jp/hpr/jirei/jirei_nisso.html",
+    "pass": 3
+   },
+   {
+    "quote": "スペシャルインタビュー",
+    "url": "https://www.717450.net/beginner/",
+    "pass": 3
+   },
+   {
+    "quote": "スタッフインタビュー",
+    "url": "https://www.717450.net/beginner/",
+    "pass": 3
+   },
+   {
+    "quote": "地価の暴騰や不動産価格の高騰、当時の史上最高値をつけた日経平均株価に代表される空前の好景気は、のちに“バブル経済”と呼ばれますが、1990年に大蔵省（当時）は、地価の異常な高騰を抑制するため金融機関が不動産業への貸し出しを抑える総量規制（金融引締政策のひとつ）を実施します",
+    "url": "https://nisso-connect.com/archives/1867",
+    "pass": 3
+   },
+   {
+    "quote": "日総工産の新社長 藤野 賢治に訊く！ | NISSO-CONNECT",
+    "url": "https://nisso-connect.com/archives/1203",
     "pass": 3
    }
   ],
@@ -3887,24 +3571,19 @@
     "pass": 3
    }
   ],
-  "SNS・note（Facebook・検索結果の抜粋）": [
+  "製造業の顧客": [
    {
-    "quote": "日総工産 株式会社 | Yokohama Kanagawa - Facebook 日総工産 株式会社 | Yokohama Kanagawa - Facebook Facebook https://www.facebook.com > ... > Community Service",
-    "url": "https://www.facebook.com/p/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100075598222829/",
-    "pass": 3
+    "quote": "お取引先様のニーズや仕様を把握し、独自の教育ノウハウと訓練施設を使って人を育て、長年積み上げてきた管理体制とキャリアパスで人を活かし、現場の「ひとづくり力」と「ものづくり力」を必要なレベルに高めます",
+    "url": "https://www.nisso.co.jp/service/contract/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "日総工産 株式会社 - Home | Facebook 日総工産 株式会社 - Home | Facebook Facebook https://www.facebook.com > pages > 日総工産株式会社",
-    "url": "https://www.facebook.com/pages/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/124830090905720",
-    "pass": 3
+    "quote": "弊社の製造請負は、お取引先様と共に価値を創り出すビジネスモデルであり、例えば設備管理と融合した一貫サービスの導入により、さらにプラスの効果が期待できます",
+    "url": "https://www.nisso.co.jp/service/contract/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
    },
-   {
-    "quote": "日総工産 株式会社の中村元様 (事業企画本部新事業開発部 ... 日総工産 株式会社の中村元様 (事業企画本部新事業開発部 ... Facebook https://www.facebook.com > spu.japanese > posts > 日総...",
-    "url": "https://www.facebook.com/spu.japanese/posts/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%AD%E6%9D%91%E5%85%83%E6%A7%98-%E4%BA%8B%E6%A5%AD%E4%BC%81%E7%94%BB%E6%9C%AC%E9%83%A8%E6%96%B0%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA%E9%83%A8%E9%83%A8%E9%95%B7-%E3%81%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%AD%A6%E7%A7%91%E3%82%92%E8%A8%AA%E3%81%AD%E3%81%BE%E3%81%97%E3%81%9F%E5%B7%A5%E5%AD%A6%E9%83%A8%E6%83%85%E5%A0%B1%E5%AD%A6%E9%83%A8%E3%81%AE%E5%AD%A6%E7%94%9F%E5%90%91%E3%81%91%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%B0%82%E9%96%80%E6%8A%80%E8%A1%93%E7%A0%94%E4%BF%AE%E3%82%B3%E3%83%BC%E3%82%B9%E3%81%AE/1028341692426326/",
-    "pass": 3
-   }
-  ],
-  "売り方": [
    {
     "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
     "url": "https://www.nisso.co.jp/service/contract/",
@@ -3912,7 +3591,19 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "研修受託（NISSO HR Development Service）の事例紹介",
+    "quote": "製造業の研修受託（NISSO HR Development Service）| サービス｜日総工産株式会社",
+    "url": "https://www.nisso.co.jp/service/training/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "経験豊富なコンサルタントと様々なメーカー出身の講師陣が、お客様のニーズに合わせた独自カリキュラムを作成いたします",
+    "url": "https://www.nisso.co.jp/service/training/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これまでに、メーカーのみならず地方自治体からもご依頼を頂戴しており、その対応範囲には自信があります",
     "url": "https://www.nisso.co.jp/service/training/",
     "pass": 1,
     "first_seen": "2026-11-05"
@@ -3924,7 +3615,19 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "eラーニングツール（Start engineer）の事例紹介",
+    "quote": "創業から50年以上にわたり製造業に特化した人材サービスを展開",
+    "url": "https://www.nisso.co.jp/service/e-learning/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日総グループとして日本全国に1300社以上のお取引先があり、車・半導体・エレクトロニクスといった主要なお取引先だけでなく住宅、食品等といった幅広い製造業界をカバーしています",
+    "url": "https://www.nisso.co.jp/service/e-learning/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あらゆる製造業とお取引があるからこそ、蓄積された独自の育成ノウハウがあります",
     "url": "https://www.nisso.co.jp/service/e-learning/",
     "pass": 1,
     "first_seen": "2026-11-05"
@@ -3936,7 +3639,7 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "日総工産は信頼のおけるツール開発企業と提携しておりますのでお客様に最適なものをご提案することが可能です",
+    "quote": "製造業AIソリューション | サービス｜日総工産株式会社",
     "url": "https://www.nisso.co.jp/service/ai/",
     "pass": 1,
     "first_seen": "2026-11-05"
@@ -3944,6 +3647,24 @@
    {
     "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
     "url": "https://www.nisso.co.jp/service/ai/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "製造業の業務理解を持つIT人材を確保したい",
+    "url": "https://www.nisso.co.jp/service/it/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大手メーカー・上場企業を中心とした豊富な案件実績",
+    "url": "https://www.nisso.co.jp/service/it/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Webシステム／業務アプリ開発：製造業・官公庁向け向けの生産管理システムの開発およびテスト・実装業務を担当",
+    "url": "https://www.nisso.co.jp/service/it/",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
@@ -3954,38 +3675,14 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
+    "quote": "BPO（労務管理支援／コンサルティング） | サービス（製造業）｜日総工産株式会社",
     "url": "https://www.nisso.co.jp/service/bpo/",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ものづくりを支える8つのソリューションを活用事例でご紹介",
-    "url": "https://www.nisso.co.jp/service/case/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
     "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
     "url": "https://www.nisso.co.jp/service/case/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社案内やサービス資料など、日総工産を詳しくご紹介するお役立ち資料をご活用ください",
-    "url": "https://www.nisso.co.jp/service/download/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
-    "url": "https://www.nisso.co.jp/service/download/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業 / 事務 / 採用 / 管理の採用サイトへ",
-    "url": "https://www.nisso.co.jp/recruit/",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
@@ -4002,80 +3699,80 @@
     "first_seen": "2026-11-05"
    },
    {
+    "quote": "製造系人材サービスのパイオニアとして、さまざまなものづくりメーカーのパートナーとして歩んできました",
+    "url": "https://www.nisso.co.jp/recruit/career/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
     "quote": "お取引先で就業するスタッフの管理・顧客への企画、提案営業",
     "url": "https://www.nisso.co.jp/recruit/career/",
     "pass": 1,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【新横浜/経験者歓迎】人材サービス法人営業（派遣～人材紹介）◆年休128日／フレックス◆プライム上場Gの安定基盤",
-    "url": "https://www.nisso.co.jp/recruit/career/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・新規開拓営業（100%）：派遣／紹介／紹介予定派遣 等の最適スキーム提案",
-    "url": "https://www.nisso.co.jp/recruit/career/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社ニコン日総プライム 人材サービス事業部 新横浜営業所/神奈川県横浜市港北区新横浜2-14-2 新横浜214ビル8F",
-    "url": "https://www.nisso.co.jp/recruit/career/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【新横浜/未経験歓迎】人材サービス法人営業（派遣～人材紹介）◆年休128日／フレックス/プライム上場Gの安定基盤◆",
-    "url": "https://www.nisso.co.jp/recruit/career/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・登録を希望する求職者への面接・お仕事紹介（WEB/対面）・書類作成",
-    "url": "https://www.nisso.co.jp/recruit/career/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・求職者に対して面接、仕事を紹介する業務(WEB面接/対面面接)",
-    "url": "https://www.nisso.co.jp/recruit/career/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "製造派遣・有料職業紹介・人材紹介・紹介予定派遣などご相談ください",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/",
     "pass": 1
    },
    {
-    "quote": "営業拠点は55か所、未経験から即戦力人材を育てる自社研修施設を９か所有しています",
+    "quote": "オリコン顧客満足度®調査「工場・製造業派遣」ランキング 4年連続 No.1",
     "url": "https://www.nisso.co.jp/",
     "pass": 1
    },
    {
-    "quote": "営業 / 事務 / 採用 / 管理",
+    "quote": "第3回 名古屋 製造業人手不足対策EXPOに出展いたします",
     "url": "https://www.nisso.co.jp/",
     "pass": 1
    },
    {
-    "quote": "日総の取り組みをご紹介",
+    "quote": "工場からエンジニアまで、鮮度の高い求人情報でキャリアの第一歩を支えます",
     "url": "https://www.nisso.co.jp/",
     "pass": 1
    },
    {
-    "quote": "当社金沢営業所が優秀安全運転事業所（銅賞）を受賞しました",
+    "quote": "（工場求人ナビ）",
     "url": "https://www.nisso.co.jp/",
     "pass": 1
    },
    {
-    "quote": "日総工産の企業情報をご紹介します",
+    "quote": "『工場の先にある、未来へ』全国1,500件以上の工場求人専門サイト",
+    "url": "https://www.nisso.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/company/",
     "pass": 1
    },
    {
     "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
     "url": "https://www.nisso.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業AIソリューション",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこれまで、人の力で日本の製造業とともに歩み、現場に寄り添いながら、変化する社会や産業構造に対応してまいりました",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では取引先ごとの個別のニーズに対応するのではなく、オートモーティブ、セミコンダクター、エレクトロニクスという3つの産業に焦点を絞り、それぞれの産業の中で共通する課題解決に向けたサービスを提供する「インダストリー戦略」を展開してまいりました",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "この戦略の中で得た技術とノウハウは、あらゆる産業界に展開することが可能であり、その領域を広げることで、これからも日本の製造業を支える力であり続けることを目指しております",
+    "url": "https://www.nisso.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、私たちはお取引先と連携し、雇用だけでなく、職場環境そのものを整えることがより重要だと考えています",
+    "url": "https://www.nisso.co.jp/company/message/",
     "pass": 1
    },
    {
@@ -4084,7 +3781,7 @@
     "pass": 1
    },
    {
-    "quote": "私たちが大切にしている理念、モットーをご紹介します",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/company/concept/",
     "pass": 1
    },
@@ -4094,12 +3791,12 @@
     "pass": 1
    },
    {
-    "quote": "日総工産のブランドスローガンとロゴに込められた想いをご紹介します",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/company/brand-slogan/",
     "pass": 1
    },
    {
-    "quote": "積み重ねた経験・人材育成・営業努力、",
+    "quote": "こうした時代に、創業者の清水唯雄は、「日本の総ての工場の生産業務を受託していく」という想いを胸に抱き、社名として「日総工産」と名付けました",
     "url": "https://www.nisso.co.jp/company/brand-slogan/",
     "pass": 1
    },
@@ -4109,17 +3806,7 @@
     "pass": 1
    },
    {
-    "quote": "日総工産の経営情報やアクセスについてご紹介します",
-    "url": "https://www.nisso.co.jp/company/overview/",
-    "pass": 1
-   },
-   {
-    "quote": "製造系人材サービス（エンジニア派遣・製造派遣、人材紹介、製造請負等）",
-    "url": "https://www.nisso.co.jp/company/overview/",
-    "pass": 1
-   },
-   {
-    "quote": "有料職業紹介事業／14-ユ-150026",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/company/overview/",
     "pass": 1
    },
@@ -4129,12 +3816,7 @@
     "pass": 1
    },
    {
-    "quote": "1971年の創業から、現在に至るまでの日総工産の歩みをご紹介します",
-    "url": "https://www.nisso.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "ドクターズ株式会社と資本業務提携締結",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/company/history/",
     "pass": 1
    },
@@ -4144,27 +3826,7 @@
     "pass": 1
    },
    {
-    "quote": "全国の拠点、教育訓練施設をご紹介します",
-    "url": "https://www.nisso.co.jp/company/office/",
-    "pass": 1
-   },
-   {
-    "quote": "宇都宮営業所",
-    "url": "https://www.nisso.co.jp/company/office/",
-    "pass": 1
-   },
-   {
-    "quote": "八王子営業所",
-    "url": "https://www.nisso.co.jp/company/office/",
-    "pass": 1
-   },
-   {
-    "quote": "名古屋営業所",
-    "url": "https://www.nisso.co.jp/company/office/",
-    "pass": 1
-   },
-   {
-    "quote": "四日市営業所",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/company/office/",
     "pass": 1
    },
@@ -4174,17 +3836,67 @@
     "pass": 1
    },
    {
-    "quote": "日総工産のマネジメント体制についてご紹介します",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/company/management/",
     "pass": 1
    },
    {
-    "quote": "※土日祝日および夏季休暇·年末年始休暇の期間中にいただいたお問い合わせへのご返信は、休み明けの営業日以降に順次対応します",
+    "quote": "役員・従業員は、本憲章を遵守するとともに、お客様、取引先、株主を始め、日総グループに関係するすべての方々にも、本憲章の趣旨を理解頂き、協力を頂けるよう努めるものとします",
     "url": "https://www.nisso.co.jp/company/management/",
     "pass": 1
    },
    {
-    "quote": "企業からのご紹介等に関するお問い合わせやご相談につきましては、回答いたしかねる場合がございます",
+    "quote": "個人情報・顧客情報をはじめとする各種情報ならびに知的財産権の保護・管理を徹底し、不当に侵害・使用しません",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "業務上で知った顧客情報を含む機密情報、個人情報を厳重に管理し、他には漏洩しません",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様・取引先等の地球環境保全への取り組みに、積極的に協力していきます",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、株主・投資家、取引先、行政、地域、社会などステークホルダーに企業情報を適時・的確に開示し、透明性を高めます",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様（取引先を含め日総グループに関係するすべての方々）からいただくご意見・ご要望に対してサービスの改善、品質向上に繋げるべく真摯に取り組んでいるところではありますが、時には一部のお客様から、従業員の人格を否定する言動、暴力、セクシュアルハラスメント等の従業員の尊厳を傷つけるものがあり、これらの行為は就業環境の悪化を招くものと考えております",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "地域および顧客などの環境保全活動へ積極的に貢献する",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめとする多様なステークホルダーとの価値協創が重要となっていることを踏まえ、創業理念である「人を育て 人を活かす」のもと、企業と人の成長を支援する人材ソリューションサービスを提供し、マルチステークホルダーとの適切な協働に取り組んでまいります",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "その上で、価値協創や生産性向上によって生み出された収益・成果について、マルチステークホルダーへの適切な分配を行うことが、賃金引上げのモメンタムの維持や経済の持続的発展につながるという観点から、従業員への還元や取引先への配慮が重要であることを踏まえ、以下の取組を進めてまいります",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "2.取引先への配慮",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、サプライチェーンの取引先の皆様や価値創造を図る事業者の皆様との連携・共存共栄を進めることで、新たなパートナーシップの構築を図ってまいります",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "また、消費税の免税事業者との取引関係についても、政府が公表する免税事業者及びその取引先のインボイス制度への対応に関する考え方等を参照し、適切な関係の構築に取り組んでまいります",
     "url": "https://www.nisso.co.jp/company/management/",
     "pass": 1
    },
@@ -4194,48 +3906,33 @@
     "pass": 1
    },
    {
-    "quote": "日総グループは、事務派遣・紹介事業、介護福祉事業、障がい者雇用、海外での人材サービスなど、",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "事務系人材サービス（一般事務派遣、職業紹介、委託事業）",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "人材派遣・人材紹介事業、人材シェアリング事業、受託・請負事業、高年齢者の活躍機会創出 及び 働き続けられる仕組みの構築に関する企画・研究開発・運営・サポート",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "有料職業紹介、労働者派遣事業、再就職支援事業、生産・物流業務のアウトソーシング事業、コンサルティング事業",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "人材紹介、ITコンサルティング、ラボ型オフショア開発",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "人材派遣事業、育成型有資格者派遣事業、 人材紹介プラットフォーム事業、メディアディレクション事業等",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "労働者派遣事業、有料職業紹介事業、各業務請負、受託事業",
-    "url": "https://www.nisso.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "人材紹介（主にエンジニア、製造人材）",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/company/group/",
     "pass": 1
    },
    {
     "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
     "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業AIソリューション",
+    "url": "https://www.nisso.co.jp/company/certification/",
+    "pass": 1
+   },
+   {
+    "quote": "を実現し、そこで働くスタッフの福祉向上、及び発注者（製造事業者）の製造業務の長期的な質的改善につなげることを目的としています",
+    "url": "https://www.nisso.co.jp/company/certification/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001とは、企業などが、顧客や社会などが求めている品質を備えた製品やサービスを常に届けるための仕組みについて構成されている国際規格の一つです",
+    "url": "https://www.nisso.co.jp/company/certification/",
+    "pass": 1
+   },
+   {
+    "quote": "通常、ISO9001は製品設計を含む製品製造業・製品設計を除く製品製造業・サービス業（運輸業、管理会社、金融業などの非製品製造業や人材派遣の管理業務等）で取得される例が挙げられますが、当社は金沢KKMにおいて、2011年に製造業務請負による電子部品の製造（製品設計を除く製品製造+サービス）でのISO認証取得をいたしました",
+    "url": "https://www.nisso.co.jp/company/certification/",
     "pass": 1
    },
    {
@@ -4244,12 +3941,7 @@
     "pass": 1
    },
    {
-    "quote": "日総工産の専任コンサルタントが高付加価値の人材をお客様へご紹介するサービスです",
-    "url": "https://www.nisso.co.jp/service/",
-    "pass": 1
-   },
-   {
-    "quote": "お客様の研修やセミナーの準備・運営にかかる負担を軽減し効果の高い社員教育を実現します",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/service/",
     "pass": 1
    },
@@ -4259,7 +3951,22 @@
     "pass": 1
    },
    {
-    "quote": "エンジニアサービスの事例紹介",
+    "quote": "製造業AIソリューション",
+    "url": "https://www.nisso.co.jp/service/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー出身講師による独自カリキュラムと実機を活用した実践的な教育",
+    "url": "https://www.nisso.co.jp/service/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "工場求人ナビ",
+    "url": "https://www.nisso.co.jp/service/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "全国56拠点・取引先社数700社以上の組織力であらゆるニーズに対応できます",
     "url": "https://www.nisso.co.jp/service/engineer/",
     "pass": 1
    },
@@ -4269,7 +3976,7 @@
     "pass": 1
    },
    {
-    "quote": "製造派遣の事例紹介",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/service/manufacturing/",
     "pass": 1
    },
@@ -4284,42 +3991,7 @@
     "pass": 1
    },
    {
-    "quote": "日総工産の専任コンサルタントがニーズに沿った付加価値の高い人材をお客様へご紹介するサービスです",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "日総工産の“人材紹介”で",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "希望にあった人材の紹介",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "エグゼクティブからマネジャー・リーダー層などハイクラス・ミドルクラスの方についても条件にマッチした人材をご紹介します",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "自社求人メディアをはじめとする独自の採用チャネルや、全国58拠点の採用ネットワークの活用により、お客様のニーズに沿った人材を速やかにご紹介することが可能です",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "お客様の採用計画や募集ターゲティングに基づき、プランニングや適正なメディア選定、募集によって生じた課題感の共有と早期解決～新たなご提案など、営業担当や専任コンサルタントがお客様の『外部ブレーン』として人材確保までのフローを全力サポートします",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "人材紹介の事例紹介",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "海外赴任経験者を迅速に紹介、海外進出と市場開拓に貢献",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/service/recruitment/",
     "pass": 1
    },
@@ -4329,19 +4001,347 @@
     "pass": 1
    },
    {
-    "quote": "人材のご紹介後もお悩みのヒアリングや、ご相談事項への対応といったアフターフォローも実施致します",
-    "url": "https://www.nisso.co.jp/service/recruitment/",
-    "pass": 1
-   },
-   {
     "quote": "製造業・エンジニアの人材派遣・紹介・請負の日総工産",
     "url": "https://www.nisso.co.jp/service/recruitment/",
     "pass": 1
    },
    {
-    "quote": "製造請負の事例紹介",
+    "quote": "製造業AIソリューション",
     "url": "https://www.nisso.co.jp/service/contract/",
     "pass": 1
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "ケイアイスター不動産(株)【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(株)明光ネットワークジャパン（明光義塾本部）【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(株)アイリックコーポレーション（保険クリニック）【東証グロース上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "結論から言うと、UTエイムは東証プライム上場のUTグループを親会社に持つ、製造業に特化した信頼性の高い派遣会社です",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "東証プライム上場のUTグループ株式会社のグループ会社であり、信頼性と実績を兼ね備えています",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "UTグループ・UTエイムの基本情報項目内容会社名UTエイム株式会社親会社UTグループ（東証プライム上場）特化業種製造業・工場勤務雇用形態無期雇用派遣（正社員雇用）給与形態月給制（派遣中断中も給与保証）対応エリア全国（北海道〜九州）UTエイムが手がける求人は、自動車・半導体・電子部品・食品など製造業の幅広い業種に対応しています",
+    "url": "https://jobhouse.jp/factory/columns/1181",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・東京証券取引所の一部に上場（現在は東証プライム市場上場）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・インターステラテクノロジズ(株)への出資とパートナーシップ協定を締結",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・NISSOホールディングス(株)が設立、日総工産は東証プライム上場企業グループの傘下へ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ＮＩＳＳＯホールディングスが「Man to Manホールディングス株式会社およびそのグループ各社」、「オールジヤパンガード株式会社」を子会社化",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(株)昭和システムエンジニアリング【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "トランスコスモス(株)【東証プライム上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(株)コプロ・ホールディングス（東証プライム・名証プレミア上場）他2社",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "東建コーポレーション(株)(ホームメイト)【東証プライム・名証プレミア上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "万円（前期比10.3％減）、経常利益3,200百万円（前期比10.2％減）、親会社株主に帰属する当期純利益1,902百万",
+    "url": "https://www.nisso-hd.com/ir/finance/forecasts.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は、東証プライム上場企業として、女優の黒島結菜さんを起用したTVCM放映、更に売上高700億以上にも誇る日総工産の主力媒体「工場求人ナビ」にEFOcatsを導入していただきました",
+    "url": "https://www.fcafe.com/efocats/case/case-nissokosan",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日総工産株式会社の特例子会社 日総ぴゅあ株式会社を設立",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所市場第一部に上場",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ベクトル伸和 子会社化",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "インターステラテクノロジズ株式会社への出資とパートナーシップ協定を締結",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "NISSOホールディングス株式会社が東京証券取引所 プライム市場に上場（日総工産株式会社は上場廃止）",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「株式会社アイズ」を子会社化",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＩＳＳＯホールディングスが「Man to Manホールディングス株式会社およびそのグループ各社」、「オールジャパンガード株式会社」を子会社化",
+    "url": "https://www.nisso.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "役員・従業員は、本憲章を遵守するとともに、お客様、取引先、株主を始め、日総グループに関係するすべての方々にも、本憲章の趣旨を理解頂き、協力を頂けるよう努めるものとします",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、株主・投資家、取引先、行政、地域、社会などステークホルダーに企業情報を適時・的確に開示し、透明性を高めます",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめとする多様なステークホルダーとの価値協創が重要となっていることを踏まえ、創業理念である「人を育て 人を活かす」のもと、企業と人の成長を支援する人材ソリューションサービスを提供し、マルチステークホルダーとの適切な協働に取り組んでまいります",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主・投資家の皆様の信頼に応えるため、事業活動を通じて企業価値の向上に努めます",
+    "url": "https://www.nisso.co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "軽作業請負、物販（日総工産株式会社 特例子会社）",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "Web・Webシステム開発事業、行政受託事業、RPA事業/RPA教育事業、障がい者雇用支援事業、居住支援事業(Man to Manホールディングス 特例子会社)",
+    "url": "https://www.nisso.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "大手メーカー・上場企業を中心とした豊富な案件実績",
+    "url": "https://www.nisso.co.jp/service/it/",
+    "pass": 1
+   },
+   {
+    "quote": "【新横浜/経験者歓迎】人材サービス法人営業（派遣～人材紹介）◆年休128日／フレックス◆プライム上場Gの安定基盤",
+    "url": "https://www.nisso.co.jp/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "【新横浜/未経験歓迎】人材サービス法人営業（派遣～人材紹介）◆年休128日／フレックス/プライム上場Gの安定基盤◆",
+    "url": "https://www.nisso.co.jp/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "株主の状況 | 株式・社債情報 | IR・投資家情報 | ＮＩＳＳＯホールディングス",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主さま個人情報保護方針",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主と建設的な対話を",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "業績推移と株主還元",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待情報",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主向け報告書",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元（配当/自社株等）",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "【大株主の状況】は、2026年9月30日現在の株主名簿に基づき記載しております",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "大株主の状況",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本提携・事業承継等のご相談",
+    "url": "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月2日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月16日-2023年9月29日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "日総ぴゅあ株式会社設立（日総工産株式会社の特例子会社）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ベクトル伸和を子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニコン日総プライムを子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "10月2日、株式移転により純粋持株会社であるNISSOホールディングス株式会社を設立し、東京証券取引所プライム市場に上場",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイズを子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "「Man to Manホールディングス株式会社およびそのグループ各社」、「オールジャパンガード株式会社」を子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ｜日総工産株式会社",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ベクトル伸和の株式取得（子会社化）に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ツナググループ・ホールディングスとの資本業務提携（先方子会社の合弁会社化）に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "持分法適用関連会社の異動（連結子会社化）に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "「ＮＩＳＳＯホールディングス株式会社」の新規上場承認に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "当社連結子会社による株式取得（孫会社化）に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "東証プライム上場企業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "2023年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "2018年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業9割×創業55年の信頼でキャリア形成",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所市場第一部に上場",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターステラテクノロジズ株式会社への出資とパートナーシップ協定を締結",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・「株式会社アイズ」を子会社化",
+    "url": "https://job.mynavi.jp/28/pc/search/corp226291/outline.html",
+    "pass": 3
    }
   ]
  },
@@ -4567,12 +4567,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
+    "url": "https://note.com/tag/vm/investment_money/company-6569",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tag/vm/investment_money/company-6569",
+    "url": "https://note.com/switching_jobs/n/n4e151c1192f8",
     "status": "ok",
     "method": "http"
    },
@@ -4642,15 +4642,15 @@
   {
    "query": "日総工産 株主 OR 出資 OR 親会社",
    "results": [
-    "https://www.nisso.co.jp/company/group/",
     "https://www.nisso-hd.com/ir/stock-bond/shareholder.html",
+    "https://www.nisso.co.jp/company/group/",
     "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
-    "https://www.nisso-hd.com/",
-    "https://nisso-connect.com/archives/1783",
-    "https://www.nisso.co.jp/company/overview/",
     "https://www.nisso-hd.com/group/",
-    "https://www.nihon-ma.co.jp/news/20260521_9332-6/",
-    "https://www.youtube.com/watch?v=PbjJ9PrCCKo",
+    "https://nisso-connect.com/archives/1783",
+    "https://www.nisso.co.jp/",
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20240517500753/140120240517500753.pdf",
+    "https://sharedresearch.jp/ja/companies/9332/report/645052f8487c3b00173d0d48",
+    "https://tghd.co.jp/news/tg/newsrelease/entry-292.html",
     "https://ja.wikipedia.org/wiki/日総工産"
    ]
   },
@@ -4707,10 +4707,10 @@
     "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
     "https://www.baitoru.com/contents/list/detail/id=3461",
     "https://www.717450.net/",
-    "https://nissostyle.com/ryo-navi/",
+    "https://www.nisso.co.jp/",
     "https://jp.indeed.com/cmp/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%B4%BE%E9%81%A3%E4%BA%8B%E6%A5%AD/salaries",
     "https://talentsquare.co.jp/career/nisso-reputation-haken/",
-    "https://www.nisso.co.jp/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10005881157/",
     "https://ja.wikipedia.org/wiki/日総工産"
    ]
   },
@@ -4720,9 +4720,9 @@
     "https://www.nisso.co.jp/company/message/",
     "https://nisso-connect.com/archives/1203",
     "http://service.jinjibu.jp/article/detl/innovator/1148/",
-    "https://www.hatarako.net/contents/25th_interview/company15/",
-    "https://x.com/717450NISSO",
     "https://hrbc.porters.jp/magazine/special_detail/id=573",
+    "https://x.com/717450NISSO",
+    "https://www.hatarako.net/contents/25th_interview/company15/",
     "https://www.nisso-hd.com/company/message/",
     "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
     "https://job.mynavi.jp/28/pc/search/corp65057/outline.html",
@@ -4733,15 +4733,15 @@
    "query": "site:note.com 日総工産",
    "results": [
     "https://note.com/tatsuya_sabato/n/nd58d692ea83c",
-    "https://note.com/switching_jobs/n/nd24c651ae710",
-    "https://note.com/pompo_mk/n/ned35917b7959",
     "https://note.com/tag/vm/investment_money/company-6569",
+    "https://note.com/pompo_mk/n/ned35917b7959",
     "https://note.com/switching_jobs/n/n4e151c1192f8",
     "https://note.com/haken_syain/n/n80475d3030ce",
+    "https://note.com/switching_jobs/n/nd24c651ae710",
     "https://note.com/kabutabi2000/n/n4e8bc8530e63",
     "https://note.com/rich_auk207/n/n8cbf42cb3dfc",
-    "https://note.com/quick_sable2011/n/nf58963c64a0d",
-    "https://note.com/fond_ferret685/n/nc8fdb7eed1ef"
+    "https://note.com/fond_ferret685/n/nc8fdb7eed1ef",
+    "https://note.com/quick_sable2011/n/nf58963c64a0d"
    ]
   },
   {
@@ -4764,14 +4764,14 @@
    "results": [
     "https://jp.linkedin.com/company/nissokosan",
     "https://jp.linkedin.com/showcase/kojokyujin-navi/",
-    "https://jp.linkedin.com/jobs/view/%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%E5%AF%AE%E5%AE%8C%E5%82%99%EF%BC%8F%E5%AF%AE%E8%B2%BB%E7%84%A1%E6%96%99%E3%81%A7%E7%A8%BC%E3%81%92%E3%82%8B%E2%97%8E%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%EF%BC%81%E3%83%9F%E3%83%89%E3%83%AB%E6%B4%BB%E8%BA%8D%E4%B8%AD%EF%BC%81%E3%80%90denso%E3%81%AE%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E8%A3%BD%E9%80%A0%E3%83%BB%E5%B0%8F%E5%9E%8B%E8%A3%BD%E5%93%81%E3%81%AE%E5%8A%A0%E5%B7%A5%E3%82%84%E6%A4%9C%E6%9F%BB%E3%80%91%E6%9C%88%E5%8F%8E%E4%BE%8B37%E4%B8%87%E5%86%86-at-%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-4485689046",
     "https://jp.linkedin.com/in/%E8%BE%B0%E5%89%87-%E8%A5%BF%E5%B0%BE-064397284",
     "https://www.linkedin.com/jobs/sameiet-tonsenhagen-20-jobs-worldwide?f_C=22868804&trk=top-card_top-card-primary-button-top-card-primary-cta",
-    "https://jp.linkedin.com/jobs/view/%E6%B4%BE%E9%81%A3%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E7%9B%B4%E6%8E%A5%E9%9B%87%E7%94%A8%E3%81%A7%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BC%81%E3%83%9F%E3%83%89%E3%83%AB%E6%B4%BB%E8%BA%8D%E4%B8%AD%EF%BC%81%E3%80%90%E8%A3%BD%E5%93%81%E3%81%BE%E3%81%9F%E3%81%AF%E9%96%A2%E9%80%A3%E9%83%A8%E5%93%81%E3%81%AE%E9%96%8B%E7%99%BA%E8%B3%BC%E8%B2%B7%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E5%AE%89%E5%AE%9A%E8%AA%BF%E9%81%94%E6%A5%AD%E5%8B%99%E3%80%91%E6%9C%88%E5%8F%8E%E4%BE%8B31%E4%B8%87%E5%86%86-at-%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-4485682419",
-    "https://jp.linkedin.com/jobs/view/%E5%9C%9F%E6%97%A5%E4%BC%91%E3%81%BF%E2%99%AA%E6%97%A5%E5%8B%A4%E3%81%AE%E3%81%BF%E3%81%8C%E5%AC%89%E3%81%97%E3%81%84%EF%BC%81%E3%83%9F%E3%83%89%E3%83%AB%E6%B4%BB%E8%BA%8D%E4%B8%AD%EF%BC%81%E3%80%90%E5%8C%96%E5%AD%A6%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E3%81%AE%E8%A3%BD%E9%80%A0%E4%BD%9C%E6%A5%AD%E3%80%91-at-%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-4485696380",
+    "https://jp.linkedin.com/jobs/view/%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%E5%AF%AE%E5%AE%8C%E5%82%99%EF%BC%8F%E5%AF%AE%E8%B2%BB%E7%84%A1%E6%96%99%E3%81%A7%E7%A8%BC%E3%81%92%E3%82%8B%E2%97%8E%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%EF%BC%81%E3%83%9F%E3%83%89%E3%83%AB%E6%B4%BB%E8%BA%8D%E4%B8%AD%EF%BC%81%E3%80%90denso%E3%81%AE%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E8%A3%BD%E9%80%A0%E3%83%BB%E5%B0%8F%E5%9E%8B%E8%A3%BD%E5%93%81%E3%81%AE%E5%8A%A0%E5%B7%A5%E3%82%84%E6%A4%9C%E6%9F%BB%E3%80%91%E6%9C%88%E5%8F%8E%E4%BE%8B37%E4%B8%87%E5%86%86-at-%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-4485689046",
     "https://www.linkedin.com/jobs/gigaset-jobs-worldwide",
-    "https://jp.linkedin.com/jobs/view/%E9%87%8D%E9%87%8F%E7%89%A9%E6%89%B1%E3%81%84%E3%83%8A%E3%82%B7%E3%83%9F%E3%83%89%E3%83%AB%E6%B4%BB%E8%BA%8D%E4%B8%AD%EF%BC%81%E3%80%90%E6%9C%80%E6%96%B0%E3%81%AE%E8%A3%BD%E9%80%A0%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%AE%E6%93%8D%E4%BD%9C%E3%83%BB%E7%9B%A3%E8%A6%96%E6%A5%AD%E5%8B%99%E3%80%91%E6%9C%88%E5%8F%8E%E4%BE%8B28%E4%B8%87%E5%86%86-at-%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-4479705279",
-    "https://jp.linkedin.com/jobs/view/%E6%97%A5%E5%8B%A4%E3%81%AE%E3%81%BF%E3%81%8C%E5%AC%89%E3%81%97%E3%81%84%EF%BC%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E7%9B%B4%E9%9B%87%E7%94%A8%E3%83%9F%E3%83%89%E3%83%AB%E6%B4%BB%E8%BA%8D%E4%B8%AD%EF%BC%81%E3%80%90%E8%A3%BD%E9%80%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%AE%E7%AE%A1%E7%90%86%E3%80%81%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96%E3%80%81%E6%A5%AD%E5%8B%99%E7%AE%A1%E7%90%86%E3%80%91%E6%9C%88%E5%8F%8E%E4%BE%8B47%E4%B8%87%E5%86%86-at-%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-4485687320"
+    "https://www.linkedin.com/jobs/%EF%BC%88%E6%A0%AA%EF%BC%89%E4%B8%89%E7%9C%9F-jobs-worldwide",
+    "https://jp.linkedin.com/jobs/view/%E6%B4%BE%E9%81%A3%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E7%9B%B4%E6%8E%A5%E9%9B%87%E7%94%A8%E3%81%A7%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BC%81%E3%83%9F%E3%83%89%E3%83%AB%E6%B4%BB%E8%BA%8D%E4%B8%AD%EF%BC%81%E3%80%90%E8%A3%BD%E5%93%81%E3%81%BE%E3%81%9F%E3%81%AF%E9%96%A2%E9%80%A3%E9%83%A8%E5%93%81%E3%81%AE%E9%96%8B%E7%99%BA%E8%B3%BC%E8%B2%B7%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E5%AE%89%E5%AE%9A%E8%AA%BF%E9%81%94%E6%A5%AD%E5%8B%99%E3%80%91%E6%9C%88%E5%8F%8E%E4%BE%8B31%E4%B8%87%E5%86%86-at-%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-4485682419",
+    "https://www.linkedin.com/jobs/%E9%87%8D%E5%BA%86%E4%B8%87%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-jobs-worldwide",
+    "https://www.linkedin.com/jobs/%EF%BC%88%E6%A0%AA%EF%BC%89%E8%8F%85%E5%8E%9F%E5%B7%A5%E5%8B%99%E6%89%80-jobs-worldwide"
    ]
   },
   {
@@ -4782,26 +4782,26 @@
     "https://www.facebook.com/p/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100075598222829/",
     "https://www.facebook.com/spu.japanese/posts/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%AD%E6%9D%91%E5%85%83%E6%A7%98-%E4%BA%8B%E6%A5%AD%E4%BC%81%E7%94%BB%E6%9C%AC%E9%83%A8%E6%96%B0%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA%E9%83%A8%E9%83%A8%E9%95%B7-%E3%81%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%AD%A6%E7%A7%91%E3%82%92%E8%A8%AA%E3%81%AD%E3%81%BE%E3%81%97%E3%81%9F%E5%B7%A5%E5%AD%A6%E9%83%A8%E6%83%85%E5%A0%B1%E5%AD%A6%E9%83%A8%E3%81%AE%E5%AD%A6%E7%94%9F%E5%90%91%E3%81%91%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%B0%82%E9%96%80%E6%8A%80%E8%A1%93%E7%A0%94%E4%BF%AE%E3%82%B3%E3%83%BC%E3%82%B9%E3%81%AE/1028341692426326/",
     "https://www.facebook.com/nisso.seizoukun/videos/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AF%E3%83%9C%E3%82%AF%E3%81%8B%E3%82%89%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E4%BD%95%E3%81%A8%E3%83%9C%E3%82%AF%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%81%8C%E7%99%BB%E5%A0%B4%E3%81%A9%E3%81%85%E3%82%8B%E3%81%A9%E3%81%85%E3%82%8B%E3%81%A9%E3%81%85%E3%82%8B%E3%81%A9%E3%81%85%E3%82%8B%E3%81%A4%E3%81%8F%E3%82%8A%E3%82%93%E3%81%A7%E3%81%99%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E5%AE%9C%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%EF%B8%8F%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%A4%E3%81%8F%E3%82%8A%E3%82%93%E3%81%AB%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E3%82%84/342791037286755/",
-    "https://www.facebook.com/nisso.pure/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AF%E7%9A%86%E3%81%95%E3%82%93%E3%81%AB%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E5%B7%A5%E5%A0%B4%E6%B1%82%E4%BA%BA%E3%83%8A%E3%83%93%E3%81%AF%E6%9C%AC%E6%97%A5%EF%BC%91%EF%BC%90%E6%9C%88%EF%BC%91%E6%97%A5%E3%82%88%E3%82%8A%E5%85%A8%E5%9B%BD%E3%81%A7%E6%96%B0tvcm%E3%81%AE%E6%94%BE%E6%98%A0%E3%82%92%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%E3%81%AF%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97%E5%B7%A5%E5%A0%B4%E5%8B%A4%E5%8B%99%E3%81%AE%E6%95%91%E4%B8%96%E4%B8%BB%E3%81%A7/4663130677040528/",
     "https://www.facebook.com/nisso.seizoukun/",
-    "https://www.facebook.com/nisso.pure/",
-    "https://www.facebook.com/100075598222829/videos/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E3%81%AE%E5%B7%A5%E5%A0%B4%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1/2044577049537921/",
-    "https://www.facebook.com/nisso.pure/posts/%E5%BD%93%E7%A4%BE%E3%81%AE%E8%A6%AA%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%82%E3%82%8B%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E3%81%8C%E9%81%8B%E5%96%B6%E3%81%99%E3%82%8B%E6%B1%82%E4%BA%BA%E3%82%B5%E3%82%A4%E3%83%88%E5%B7%A5%E5%A0%B4%E6%B1%82%E4%BA%BA%E3%83%8A%E3%83%93%E3%81%AF2024%E5%B9%B48%E6%9C%8830%E6%97%A5%E9%87%919%E6%9C%881%E6%97%A5%E6%97%A5%E3%81%AB%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8Banimelo-summer-/1016116657181903/"
+    "https://www.facebook.com/nisso.pure/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AF%E7%9A%86%E3%81%95%E3%82%93%E3%81%AB%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E5%B7%A5%E5%A0%B4%E6%B1%82%E4%BA%BA%E3%83%8A%E3%83%93%E3%81%AF%E6%9C%AC%E6%97%A5%EF%BC%91%EF%BC%90%E6%9C%88%EF%BC%91%E6%97%A5%E3%82%88%E3%82%8A%E5%85%A8%E5%9B%BD%E3%81%A7%E6%96%B0tvcm%E3%81%AE%E6%94%BE%E6%98%A0%E3%82%92%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%E3%81%AF%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97%E5%B7%A5%E5%A0%B4%E5%8B%A4%E5%8B%99%E3%81%AE%E6%95%91%E4%B8%96%E4%B8%BB%E3%81%A7/4663130677040528/",
+    "https://www.facebook.com/nisso.seizoukun/videos/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%83%9C%E3%82%AF%E3%81%8B%E3%82%89%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%A7%E3%81%992%E6%9C%881%E6%97%A5%E3%81%8B%E3%82%89%E6%B5%9C%E6%9D%BE%E9%A7%85%E5%8C%97%E5%8F%A3%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8%E3%81%AB%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E3%81%AE%EF%BD%83%EF%BD%8D%E3%81%8C%E6%94%BE%E6%98%A0%E4%B8%AD%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9914%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E4%B8%80%E6%96%89%E3%81%AB%E6%B5%81%E3%82%8C%E3%82%8B%E3%81%8B%E3%82%89%E3%82%82%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E8%BF%AB%E5%8A%9B%E6%B5%9C%E6%9D%BE%E9%A7%85%E3%82%92%E3%81%94/300232775504763/",
+    "https://www.facebook.com/nisso.pure/posts/%E5%BD%93%E7%A4%BE%E3%81%AE%E8%A6%AA%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%82%E3%82%8B%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E3%81%8C%E9%81%8B%E5%96%B6%E3%81%99%E3%82%8B%E6%B1%82%E4%BA%BA%E3%82%B5%E3%82%A4%E3%83%88%E5%B7%A5%E5%A0%B4%E6%B1%82%E4%BA%BA%E3%83%8A%E3%83%93%E3%81%AF2024%E5%B9%B48%E6%9C%8830%E6%97%A5%E9%87%919%E6%9C%881%E6%97%A5%E6%97%A5%E3%81%AB%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8Banimelo-summer-/1016116657181903/",
+    "https://www.facebook.com/nisso.seizoukun/videos/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AFyoutube%E3%81%AB%E5%B7%A5%E5%A0%B4%E6%B1%82%E4%BA%BA%E3%83%8A%E3%83%93%E3%81%AEcm-%E7%AC%AC2%E5%BC%BE%E3%81%8C%E6%94%BE%E6%98%A0%E4%B8%AD%E3%81%BE%E3%81%9F%E3%81%BE%E3%81%9F%E3%83%9C%E3%82%AF%E3%81%AB%E3%82%AA%E3%83%95%E3%82%A1%E3%83%BC%E3%81%8C%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%91%E3%81%A9%E3%83%9C%E3%82%AF%E3%81%A8%E5%90%8C%E3%81%98%E9%AE%AE%E3%82%84%E3%81%8B%E3%81%AA%E9%9D%92%E3%81%8C%E4%BB%8A%E5%9B%9E%E3%82%82%E3%83%90%E3%83%83%E3%83%81%E3%83%AA%E3%81%A8%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%82%8B%E3%81%8B%E3%82%89%E6%BA%80%E8%B6%B3cm%E3%81%AE%E3%81%8A/1609974732546424/"
    ]
   },
   {
    "query": "日総工産 note 社長",
    "results": [
     "https://www.nisso.co.jp/company/message/",
-    "https://nisso-connect.com/archives/1203",
     "https://www.nikkei.com/article/DGXZQOCC265690W5A620C2000000/",
+    "https://nisso-connect.com/archives/1203",
     "https://note.com/switching_jobs/n/n4e151c1192f8",
     "http://service.jinjibu.jp/article/detl/innovator/1148/",
     "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
     "https://www.nisso-hd.com/company/message/",
     "https://www.hatarako.net/contents/25th_interview/company15/",
-    "https://newscast.jp/smart/news/484247",
-    "https://relocation-personnel.com/tag/日総工産"
+    "https://relocation-personnel.com/tag/日総工産",
+    "https://www.nisso.co.jp/news/3939/"
    ]
   },
   {
@@ -4810,12 +4810,12 @@
     "https://x.com/717450NISSO",
     "https://www.nisso.co.jp/",
     "https://www.717450.net/",
-    "https://prtimes.jp/topics/keywords/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
     "https://www.youtube.com/channel/UCbeXwRp5gMfpUOkjoe0e8_Q",
-    "https://job.mynavi.jp/27/pc/corp294748/sem.html",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3",
     "https://syukatsu-kaigi.jp/companies/98422/word_mouths/employee/job_small_categories/160",
+    "https://job.mynavi.jp/27/pc/corp294748/sem.html",
     "https://www.youtube.com/watch?v=y3eNqtnISiQ",
-    "https://www.nisso-hd.com/news/",
+    "https://mico-inc.com/news/6494/",
     "https://x.com/717450NISSO/with_replies"
    ]
   }
@@ -4823,572 +4823,7 @@
  "missing": {
   "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部26頁・検索12回）"
  },
- "new_this_run": {
-  "株主構成": [
-   {
-    "quote": "結論から言うと、UTエイムは東証プライム上場のUTグループを親会社に持つ、製造業に特化した信頼性の高い派遣会社です",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "東証プライム上場のUTグループ株式会社のグループ会社であり、信頼性と実績を兼ね備えています",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "UTグループ・UTエイムの基本情報項目内容会社名UTエイム株式会社親会社UTグループ（東証プライム上場）特化業種製造業・工場勤務雇用形態無期雇用派遣（正社員雇用）給与形態月給制（派遣中断中も給与保証）対応エリア全国（北海道〜九州）UTエイムが手がける求人は、自動車・半導体・電子部品・食品など製造業の幅広い業種に対応しています",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・東京証券取引所の一部に上場（現在は東証プライム市場上場）",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・インターステラテクノロジズ(株)への出資とパートナーシップ協定を締結",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・NISSOホールディングス(株)が設立、日総工産は東証プライム上場企業グループの傘下へ",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・ＮＩＳＳＯホールディングスが「Man to Manホールディングス株式会社およびそのグループ各社」、「オールジヤパンガード株式会社」を子会社化",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(株)昭和システムエンジニアリング【東証スタンダード市場上場】",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "トランスコスモス(株)【東証プライム上場】",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(株)コプロ・ホールディングス（東証プライム・名証プレミア上場）他2社",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "東建コーポレーション(株)(ホームメイト)【東証プライム・名証プレミア上場】",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "西尾 辰則 - 日総工産 （株） - リクルーター | LinkedIn 西尾 辰則 - 日総工産 （株） - リクルーター | LinkedIn LinkedIn https://jp.linkedin.com > 辰則-西尾-064397284",
-    "url": "https://jp.linkedin.com/in/%E8%BE%B0%E5%89%87-%E8%A5%BF%E5%B0%BE-064397284",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "日総工産 (株)【コーポレート職コース】の会社概要 - マイナビ — 日総工産 (株)【コーポレート職コース】の会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp65057 > outline",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日総工産 はやばい会社？気になる評判・口コミの真相を3人の ... — 日総工産 はやばい会社？気になる評判・口コミの真相を3人の ... バイトル https://www.baitoru.com > ... > 派遣の仕事探し > 日総工産",
-    "url": "https://www.baitoru.com/contents/list/detail/id=3461",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "工場求人ナビ | 工場・製造業の求人・お仕事・派遣なら 日総工産 — 工場求人ナビ | 工場・製造業の求人・お仕事・派遣なら 日総工産 工場求人ナビ https://www.717450.net",
-    "url": "https://www.717450.net/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "発言": [
-   {
-    "quote": "5つの代表的な良い評判を紹介します",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新たな価値創出・人材輩出のために、創業理念「人を育て人を活かす」を実践します（代表取締役社長執行役員 藤野 賢治）",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "料金": [
-   {
-    "quote": "寮費は月額数千円〜2万円程度の格安で設定されているケースが多く、光熱費込みの場合もあります",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "製造業の現場で役立つ資格の取得費用を会社が負担してくれる",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q. 日総工産に登録すると費用はかかりますか？",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、寮の形式（個室アパート・集合寮）や費用は求人によって異なります",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個室タイプ・集合寮の違いや費用、生活上の注意点を実態ベースで解説しています",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "即決×即赴任可！【日勤・土日休み】簡単軽作業だから未経験からも始められるオシゴト！時給1,600円、月収例34万円以上、寮費無料、入社特典総額50万円",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デジタルギフト5万円+入社特典45万円、総額50万円で収入面も安心！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "月収34万円以上可能で安定収入を目指せます",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【月収例30万円以上】電子部品のマシンオペレーター・検査など／在籍中はずっと社宅費無料／時給アップも目指せる！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※布団一式1706円・TV1739円・冷蔵庫1304円・洗濯機1338円(いずれも月額)",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "11月に入社すれば、入社祝い金40万円！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【部品の加工・取り付け・検査・ピッキングなど】月収例36万円以上／社宅費無料／土日休み／年間休日125日／日勤／11月入社限定！入社特典50万円／20～40代男女活躍中",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "入社特典最大70万円相当！月収例45万円以上可能！土日休み！社宅費無料！昇給制度あり！20代〜40代活躍中！未経験歓迎！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "最大70万円相当の入社特典をご用意！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（入社特典40万円と社宅費半年無料3...",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【11月入社限定！祝い金100万円あり◎】土日休み！レクサス車の組立・検査・機械操作｜ガッツリ稼ぎたい貴方にピッタリ月収例44万円以上のお仕事です！正社員登用制度あり 製造業が初めての方も大歓迎！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【諸手当内訳】入社特典内訳5万円(1か月目、2か...",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "☆エリア内高時給1700円＋寮費無料＋特典100万円☆",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【月収例43万円以上】<11月限定>入社特典80万円／トラック用のエンジン等の部品製造／社宅費無料／土日休み／バイク・マイカー通勤OK！",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "～0円で住める寮・社宅～寮・社宅は、家賃が3～6万円するものが多いですが、UTエイムでは社宅費全額補助(実質家賃0円)の求人も約4割と非常に多く、負担するのは水道光熱費のみなので、貯金がたまりやすいです",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのため手ぶらで引越しが可能です！費用（想定される生活費用例）◇入居時",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社負担(0円)or自己負担(2～5万円)",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "0円、2～5万円",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "自己負担(一般物件:個人契約約1万円、レオパレス14,300円)",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "貯金可能金額求人によるものの、社宅費全額補助が出て固定費を抑え、食事も食堂メニューを利用するなどして生活している方で、1年で300万円ほど貯める方は多くいらっしゃいます",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "100百万円（2025年3月現在）",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "873億3,000万円（2025年3月期）",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社が認定した資格の受検料・申請料の助成(合格するとかかる費用が戻ってきます)",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "それとも、3ヶ月後に100万円近い貯金を手にし、人生をリセットした自分に会いに行きますか？",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "【退職の罠】工場求人ナビ（日総工産）は即日辞められる？面接対策からバックレのリスクまで全回答｜英人＠みんなの転職・キャリアアップ会議",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【退職の罠】工場求人ナビ（日総工産）は即日辞められる？面接対策からバックレのリスクまで全回答",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「もし現場が地獄だったら、すぐ辞められるのか？」",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「バックレたら給料は没収されるのか？」 そんな不安で足が止まっているあなたへ。",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "元缶詰工場バイトの私から言わせれば、その心配は正解です。",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "出口を想定せずに飛び込むのは、地図を持たずに樹海に入るようなもの。",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、工場求人ナビ（日総工産）のような大手には、明確な「ルールの出口」が存在します。",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗した時の逃げ道さえ知っておけば、挑戦のリスクはゼロになります。",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "採用・人数": [
-   {
-    "quote": "求人の空き状況や企業側の採用条件によっては、希望とは異なる職場を紹介されることがあります",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "STEP2：職場見学・面談・採用選考",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "採用選考が通過したら就業条件（時給・勤務時間・寮の詳細など）の最終確認を行い、就業開始日を決定します",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "うれしい高時給1800円＆日勤土日休み！ 人気のシフトを高時給で募集開始◎",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "４．採用連絡各担当者から、入社日の案内、遠方の方は、引っ越しの案内がある",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5．採用連絡各担当者から、入社日の案内、遠方の方は、引っ越しの案内がある",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、「無期雇用派遣」という独自の仕組みを採用しており、一般的な派遣のイメージとは異なる点があるため、事前に正しく理解しておくことが重要です",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "登録から採用内定までの流れWeb登録・エントリー: UTエイムの公式サイトから氏名・連絡先・希望条件（職種・エリア・勤務形態）を入力して登録担当者との面談（オンライン可）: 希望条件の詳細確認・経験スキルのヒアリング・仕組みの説明が行われる案件の提案・選考: 担当者が条件に合う案件を提案",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "希望する職種・業種・エリア工場・製造業の経験の有無保有資格（フォークリフト・危険物など）シフト・夜勤への対応可否転居・単身赴任の可否「未経験です」「資格はありません」でも採用されるケースは多く、採用のハードルは全体的に低めです",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Q. UTエイムは未経験でも採用されますか？はい、採用されやすいです",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "他にも、即面接、即採用、即入寮、即勤務の求人も多く、早く働きたい方にはおススメと言えるでしょう",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "前の職場で働いていた時に取ったフォークリフトの資格を評価していただき、即戦力として採用してもらえました",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "現在募集中のワールドインテックの求人はコチラからチェック！面談・面接応募後、担当者から連絡が来ます",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "入社面接後、めでたく採用が決まったら、ワールドインテックと雇用契約を結びます",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "入社採用が決まったら働く先の企業と雇用契約を結ぶのではなく、日研トータルソーシングと結びます",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "入社採用が決まったら、BREXA Nextと雇用契約を結びます",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日総工産(株)【コーポレート職コース】の新卒採用・会社概要 | マイナビ2027",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "採用枠が充足次第、応募受付終了になりますので、早い回の説明会にご参加くださいませ",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "#夏採用 ＃秋採用 #内々定まで最短2週間",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "」このスタンスは採用から入社後まで変わらないのが日総工産です",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "【退職の罠】工場求人ナビ（ 日総工産 ）は即日辞められる ... 【退職の罠】工場求人ナビ（ 日総工産 ）は即日辞められる ... note https://note.com > キャリア > 就職活動",
-    "url": "https://note.com/switching_jobs/n/nd24c651ae710",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "創業年度": [
-   {
-    "quote": "日総工産は1971年創業の",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "創業50年以上の製造業特化企業",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1971年2月3日に創業",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1971年の創業から50年以上をかけて蓄積した取引実績が、こうした大手との安定した取引関係につながっています",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日総工産は1971年創業、全国55か所の拠点を持つ製造業特化の人材派遣会社です",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "株式会社ワールドインテックの企業基礎情報２０２１年３月時の情報会社名株式会社ワールドインテック設立2014年（平成26年）2月4日在籍人数17,909名（2020年12月時点）資本金4,500,000,000円※参照 株式会社ワールドインテック 会社概要[corporation:124]一日の作業スケジュールは？勤務時間・シフト例（岡山県瀬戸内市の電子部品の製造・検査の求人の場合）勤務シフトは４勤２休の日勤と夜勤の交替勤務です",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "株式会社ワールドインテックの会社情報会社名株式会社ワールドインテック設立2014年（平成26年）2月4日従業員数17,909名（2020年12月現在）株式会社ワールドインテックは、人材派遣業界全体の売上高ランキング(2019 - 2020年)でも6位、製造業限定すると2位に位置する大手人材派遣会社です",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会社名日研トータルソーシング株式会社設立1981年4月1日資産金約5,000万円従業員数約2万人日研トータルソーシングは地域未来牽引企業に選定されています",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【茨城県つくばみらい市】特典最大50万円！月収例45万円の超高収入求人！最寄り駅からなんと徒歩15分♪トラクタの組立・塗装など特徴4：信頼と実績がある日研トータルソーシングは2021年で設立40周年を迎えます",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "株式会社BREXA Nextの会社情報会社名株式会社BREXA Next設立1997年（2025年7月1日、社名を株式会社アウトソーシングより変更）資本金100,000,000円（2024年10月現在）社員数129,487人（2022年12月31日現在）求人職種製造スタッフ（自動車、半導体、家電、食品、建材など）公式HP 公式企業サイト株式会社BREXA Next（以下、BREXA Next）は1997年に設立し、現在では工場製造ラインへの人材派遣を主力として成長を続けている実力派企業です",
-    "url": "https://jobhouse.jp/factory/columns/1181",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新たな価値創出・人材輩出のために、創業理念「人を育て人を活かす」を実践します（代表取締役社長執行役員 藤野 賢治）",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "こうした時代背景の中、創業者である清水唯雄は、「日本の総ての工場の生産業務を受託していく」ことをビジョンとして掲げ、当社を創業しました",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・一般社団法人 日本生産技能労務協会を設立",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・創業40周年",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・創業50周年",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・NISSOホールディングス(株)が設立、日総工産は東証プライム上場企業グループの傘下へ",
-    "url": "https://job.mynavi.jp/27/pc/search/corp65057/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ]
- },
- "runs": 5,
+ "new_this_run": {},
+ "runs": 6,
  "first_researched_at": "2026-11-04T14:57:10.671725+00:00"
 }

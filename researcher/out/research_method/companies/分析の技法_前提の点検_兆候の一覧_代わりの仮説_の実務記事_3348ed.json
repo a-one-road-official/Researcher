@@ -8,134 +8,252 @@
  ],
  "context": "分析の技法",
  "kind": "market",
- "researched_at": "2026-11-06T16:15:34.703129+00:00",
+ "researched_at": "2026-11-06T20:32:45.237333+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "support to field partners, namely on profiling, and strategic advice on data; consolidates its",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "analysed and related to the joint analysis steps in the profiling process.",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "coordinating and facilitating collaborative data processes, notably profiling coordinators,",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "be structured and planned as part of a displacement profiling process. The utility of certain",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "a profiling exercise or a joint needs assessment.31",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "analysis processes in profiling or joint needs assessments. A description of each technique is",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "cognitive_biases_march_2016.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "apr09.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3rd%20Edition.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Availability. Probability estimates are",
+    "quote": "treatment of cognitive bias found in the Sherman",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Anchoring. Probability estimates are",
+    "quote": "Cognitive and perceptual biases in",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "certainty into a probability estimate, people",
+    "quote": "Common Perceptual and Cognitive Biases",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "goal-maximizing policy is overestimated.",
+    "quote": "Biases in Evaluating Evidence",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
+    "quote": "Biases in Estimating Probabilities",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Biases in Perceiving Causality",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias, “analysis can be improved.”3",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "common mistakes that can lead to",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "free of his or her cognitive biases without",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to good analysis and provides techniques for overcoming mind-sets and cognitive biases.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "increased objectivity and reduced bias.",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "You overestimate high-profile events.",
+    "quote": "to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "distances intuitive reasoning and its accompanying pitfalls.46",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. Lastly, mental models or cognitive biases must be identified and addressed early on.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cognitive limitations or pitfalls. Below are eight categories, or families, of techniques developed",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "events or indicators can be a pitfall in analysis. In the context of lacking or ambiguous",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pitfalls later on in the process.63 In addition, the indicated time and training required will decrease",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assumptions and biases, as well as to generate new ideas to adapt plans with new information",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "effects of human cognitive limitations and analytic pitfalls 108, techniques can range from simple to",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Structured Analytic Techniques to Mitigate Cognitive Bias.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "through_the_Use_of_Structured_Analytic_Techniques_to_Mitigate_Cognitive_Bias",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ACAPS. (2016). Cognitive Biases. Assessment Capacities Project.",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(SATs) are methods for analyzing intelligence and reaching conclusions. They were originally developed by the US government to avoid bias and unchallenged assumptions, and have come to be used by intelligence analysts in a variety of fields, including cyber threat intelligence.",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Review your sources for mistakes or gaps. This prevents your analysis from anchoring to weak data.",
     "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Cognitive Bias Reference Table",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As hypotheses form, use Red Team analysis to correct for \"rational actor\" bias or Team A/Team B debates to clarify competing mindsets.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SATs are necessary for professional rigour. Experts are more prone to such biases due to their past success with specific mental models. We tend to perceive what we expect to see. And we often resist change even when new evidence appears. These techniques ensure that our analysis is objective, transparent and our judgements remain credible.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". SATs are not the only way of dealing with cognitive bias, but they are developed specifically for analysts to deal with them in their daily work. Using SATs, you can catch issues and reflect on your analysis well before you start drafting the product. It’s also easier to get feedback from peers or supervisors.",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "When collaborating with others, it’s important not to inadvertently create Information Bubbles, Confirmation Bias, Echo Chambers and Group Think. SATs go a long way in tackling cognitive biases, but ensuring you’re aware of alternative narratives via other analysts will add another filter against such biases (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5 Common Mistakes When Using Structured Analytic Techniques",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Many SATs are meant for longer-term products that can go into more detail, but others can be quite useful. For instance, your team could develop indicators that you update as new reporting comes in. Additionally, fast-paced environments are more prone to cognitive biases, so trying to implement shortened versions of SATs like",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Familiarising yourself with your own cognitive biases and critically evaluating your sources.",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -300,6 +418,164 @@
    {
     "quote": ": “Challenging a single, strongly held view or consensus by building the best possible case for an alternative explanation.”",
     "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— a sanitized, public worked example of a tiered open-source collection framework.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In our example, we’re throwing out our assumption about the plot twist. We’re left with the anachronisms, which could be a result of the director’s sloppiness. And the creatures, which could be either symbolic or literal. Throughout the story, new evidence emerges and our focus shifts to a new assumption about the community leaders: They’ve created some kind of fake world.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". The hunter stumbles upon the aftermath of a drug deal gone violently wrong. From there, the curious, guarded and resourceful war veteran follows a track that leads him to yet another dead body. And a suitcase full of money. Should he take that case?",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Nobody will find out I took the case. Should I have to, I can outsmart the criminals and the police. I can get away with this.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It appears straightforward. The skilled veteran is alone in the desert and nobody can see him take the money. But he doesn’t know who he is dealing with and what their capabilities are. If Llewelyn knew he was being tracked, he certainly would not take that case. He would need more information out there in the desert before making his decision. But",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "can be used to challenge them. As a contrarian Structured Analytic Technique, it’s less collaborative and more confrontational. Usually, a brave team member builds a strong case that contradicts the prevailing view. This is why it should be used with caution and for high-stakes decisions. That is, whenever making the wrong decision has dire consequences.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "There are many factors at play when it comes to time travel. Advancements in physics are a given. The development of relevant technology is another big driver. Then there are the ethics of going back to the past, potentially altering history. What also factors in is the impact the whole time travel enterprise will have. For our example, we pick the",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Now that we have our key drivers, we conceptualise them as a spectrum and define their two endpoints. For example, if a key factor is the advancements in physics, the two endpoints could be",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For the sake of our case study, we limit our key drivers to two. When it comes to the",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In our example, we’re crossing the",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "for instance, lists 66 “core” techniques, from “several hundred that might have been included.” Don’t fret. Using Heuer and Pherson’s SAT selection process as a handrail, the table below provides a examples on how you can apply a few SATs to tackle any problem-set (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Here’s a practical example of how and when an Analysis of Competing Hypotheses (ACH) can be used;",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8 Case Studies in Using Structured Analytic Techniques",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). Utilise your OSINT toolkit to collect evidence to dissect and forecast a current affair. You can use Beebe & Pherson’s “Cases in Intelligence Analysis: Structured Analytic Techniques in Action” as a primer (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8.1 Case 1: 9/11 and the formation of the CIA’s Red Cell",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8.2 Case 2: Grey Dynamics’ Key Assumptions Check",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "You can explore more case studies applying SATs",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Availability. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Anchoring. Probability estimates are",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "certainty into a probability estimate, people",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "goal-maximizing policy is overestimated.",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "You overestimate high-profile events.",
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -508,186 +784,294 @@
     "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
     "pass": 3,
     "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Obtain Your Amateur Radio License",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Communications & Emissions Training Framework",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Conduct a Daily Threat Analysis Using OSINT",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How To Begin Prepping",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— the disciplined set of standards and methods that turn open-source information into a sound, defensible judgment. It covers the U.S. Intelligence Community analytic standards, the structured analytic techniques that meet them, and the source-evaluation discipline every open-source analyst needs.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Analytic tradecraft is the disciplined set of methods, standards, and habits that separate professional intelligence analysis from opinion, punditry, or a news summary. It is concerned less with",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "are the structured methods an analyst uses to meet those standards. Standards tell you what good looks like; techniques are how you get there.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Supply-chain & infrastructure risk frameworks",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A printable, fully branded field guide. The complete treatment of every section on this page, plus Analysis of Competing Hypotheses step by step, OSINT source tradecraft, a self-assessment workbook, and a curated reference library. Free for Patreon supporters.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step-by-step methods that externalize and discipline reasoning, drawn from the CIA’s",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The workhorse contrarian technique, treated step by step. ACH inverts intuitive analysis: instead of asking which evidence supports the preferred explanation, it asks which hypothesis is least contradicted by the evidence. The guide walks all eight steps, from generating a full hypothesis set to building and refining the evidence matrix to identifying indicators for future observation.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Supply-chain & critical-infrastructure risk frameworks",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— the structured method for analyzing an operational environment and its threat actors.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ATP 5-0.1, Army Design Methodology",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Structured Analytic Techniques (SATs) are collaborative methods designed to instil more rigour in your thinking. They’re the slow-paced version of the",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "My main sources for these methods are the",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "newsletter. But you don’t need to be an intel analyst to benefit from Structured Analytic Techniques. To demonstrate their suitability for daily use, we’ll be applying each method to a scenario from a modern cinematic classic.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What Structured Analytic Technique you should use depends on the kind of problem you’re facing. Here are five methods that can be employed individually or in combination with each other. [",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 1: Identify Your Underlying Assumptions",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 2: Challenge Your Assumptions",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 3: Refine Your List",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Sure, running a Structured Analytic Technique at the movies might ruin the film. But it demonstrates how we can easily elevate our thinking from intuitive guesswork to systematic analysis with a bit of methodical questioning.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "strikes. It can help us anticipate weaknesses in our analysis before decisions are actioned. The method is an evolution of",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 1: Sources of Uncertainty",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 2: Critical Assumptions",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 3: Evidence",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 4: Changes in Environment",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Thinking through the four steps of the Structured Self-Critique could’ve helped our protagonist to reconsider his decision. But Llewelyn doesn’t think for long. He takes the cash. And nothing happens. Until he’s being hunted by an aging sheriff, a psychopathic hitman and the Mexican cartel; the latter of which gets to him first.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 1: Outline the Current Thinking",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", familiarity with these techniques will help you make sense of incomplete or contradictory information, generate hypotheses, and manage uncertainty. This guide will go through why structured analytic techniques are important for intelligence analysts, how to select SATs that are useful for you, and some resources on SATs, many of which are free.",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Using the AIMS framework is a terrific way to address the above and to conceptualise the structure of your product:",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
+  "一次情報の探し方": [
    {
-    "quote": "treatment of cognitive bias found in the Sherman",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Cognitive and perceptual biases in",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Common Perceptual and Cognitive Biases",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Biases in Evaluating Evidence",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Biases in Estimating Probabilities",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Biases in Perceiving Causality",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias, “analysis can be improved.”3",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "common mistakes that can lead to",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "free of his or her cognitive biases without",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "to good analysis and provides techniques for overcoming mind-sets and cognitive biases.",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "increased objectivity and reduced bias.",
+    "quote": "support to field partners, namely on profiling, and strategic advice on data; consolidates its",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7",
+    "quote": "In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides",
+    "quote": "analysed and related to the joint analysis steps in the profiling process.",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at",
+    "quote": "coordinating and facilitating collaborative data processes, notably profiling coordinators,",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the",
+    "quote": "be structured and planned as part of a displacement profiling process. The utility of certain",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "distances intuitive reasoning and its accompanying pitfalls.46",
+    "quote": "techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "4. Lastly, mental models or cognitive biases must be identified and addressed early on.",
+    "quote": "a profiling exercise or a joint needs assessment.31",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "cognitive limitations or pitfalls. Below are eight categories, or families, of techniques developed",
+    "quote": "analysis processes in profiling or joint needs assessments. A description of each technique is",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "events or indicators can be a pitfall in analysis. In the context of lacking or ambiguous",
+    "quote": "for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "pitfalls later on in the process.63 In addition, the indicated time and training required will decrease",
+    "quote": "cognitive_biases_march_2016.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "assumptions and biases, as well as to generate new ideas to adapt plans with new information",
+    "quote": "acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "effects of human cognitive limitations and analytic pitfalls 108, techniques can range from simple to",
+    "quote": "apr09.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Structured Analytic Techniques to Mitigate Cognitive Bias.",
+    "quote": "cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "through_the_Use_of_Structured_Analytic_Techniques_to_Mitigate_Cognitive_Bias",
+    "quote": "3rd%20Edition.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ACAPS. (2016). Cognitive Biases. Assessment Capacities Project.",
+    "quote": "Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(SATs) are methods for analyzing intelligence and reaching conclusions. They were originally developed by the US government to avoid bias and unchallenged assumptions, and have come to be used by intelligence analysts in a variety of fields, including cyber threat intelligence.",
-    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Review your sources for mistakes or gaps. This prevents your analysis from anchoring to weak data.",
-    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Cognitive Bias Reference Table",
-    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "As hypotheses form, use Red Team analysis to correct for \"rational actor\" bias or Team A/Team B debates to clarify competing mindsets.",
-    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "SATs are necessary for professional rigour. Experts are more prone to such biases due to their past success with specific mental models. We tend to perceive what we expect to see. And we often resist change even when new evidence appears. These techniques ensure that our analysis is objective, transparent and our judgements remain credible.",
-    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -697,12 +1081,12 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/fair_clover666/n/n009fc95d09bf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/n8a38e368c99c",
+    "url": "https://note.com/fair_clover666/n/n009fc95d09bf",
     "status": "ok",
     "method": "http"
    },
@@ -712,12 +1096,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/n5aadf0175c3e",
+    "url": "https://note.com/tsunobuchi/n/n8a38e368c99c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "url": "https://note.com/zum_ism/n/nd19016e82618",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kuronekopunk/n/nf5c71ae847d4",
     "status": "ok",
     "method": "http"
    },
@@ -727,32 +1116,27 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/jitsuzon/n/ne6d899df2cc6",
+    "url": "https://www.gyoukaku.go.jp/ebpm/shien/guidebook2.0_260901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/paguinu/n/n668cc7419453",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/bunsekiya_tech/n/nd098d6f8c603",
+    "url": "https://smart-analytics.jp/learning/analysis-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
+    "url": "https://github.com/sw33t-b1u/cti-scenario-workshop/blob/main/week5_analytic_techniques/01_lecture.md",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shinu/n/n567c6705ec18",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://agenda-note.com/brands/detail/id=3667",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/cograph_data/n/nf26af2dbd9a6",
+    "url": "https://i-datascience.com/2026/10/31/%E6%8E%A2%E7%B4%A2%E7%9A%84%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%EF%BC%9A%E8%A7%A3%E6%9E%90%E3%81%AE%E5%89%8D%E3%81%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E5%9B%B3%E3%81%A7%E7%A2%BA%E3%81%8B/",
     "status": "ok",
     "method": "http"
    },
@@ -767,74 +1151,69 @@
     "method": "http"
    },
    {
-    "url": "https://www.bi.ksc.co.jp/tips/data-utilization/formulating-hypotheses",
+    "url": "https://kuroco.team/blog-data-tejun/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://newrelic.com/jp/blog/observability/performing-effective-root-cause-analysis",
+    "url": "https://www.interviewz.io/blog/user-interviews-proceed/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://sherpaworks.jp/sherpa/hypothesis-verification/",
+    "url": "https://sales-outsourcing.stadium.co.jp/magazine/knowledge/sales-data-analysis-examples",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://project-facilitator.com/hypothesis-testing-cycle/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mentena.biz/insight/5-whys-analysis-cases/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://hri-vietnam.com/ja/article/tu-duy-va-giai-quyet-van-de/21/root-cause-analysis-methods-workplace-examples-template",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://yachiyo-sol.com/library/kosho-bunseki-seizogyo/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wo6-att/000071988.pdf",
+    "url": "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.brains-tech.co.jp/impulse/blog/method-and-purpose-of-failure-analysis/",
+    "url": "https://minna-systems.co.jp/test/test-base/quality-assurance/qc-seven-tools-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/magic_ai7978/n/n6ce1d1cb34f2",
+    "url": "https://spm.or.jp/committee/2025spring/abstract/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "url": "https://idend.net/blogs/columns/%E5%BF%9C%E7%94%A8%E8%A1%8C%E5%8B%95%E5%88%86%E6%9E%90-aba-%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E4%B8%8D%E9%81%A9%E5%88%87%E8%A1%8C%E5%8B%95%E3%81%B8%E3%81%AE%E4%BB%8B%E5%85%A5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.juas.or.jp/cms/media/2017/01/04usability.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "url": "https://www.jri.co.jp/MediaLibrary/file/column/opinion/pdf/20250924_nagumo.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "url": "https://www.interviewz.io/blog/depth-interview-merit/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "url": "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-3-distinctions",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
@@ -842,7 +1221,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
     "status": "ok",
     "method": "http"
    }
@@ -852,31 +1236,31 @@
   {
    "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 site:note.com",
    "results": [
-    "https://note.com/fair_clover666/n/n009fc95d09bf",
-    "https://note.com/tsunobuchi/n/n8a38e368c99c",
-    "https://note.com/satoruhiguchi/n/nef38cf36c558",
-    "https://note.com/tsunobuchi/n/n5aadf0175c3e",
     "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/fair_clover666/n/n009fc95d09bf",
+    "https://note.com/satoruhiguchi/n/nef38cf36c558",
+    "https://note.com/tsunobuchi/n/n8a38e368c99c",
+    "https://note.com/zum_ism/n/nd19016e82618",
+    "https://note.com/kuronekopunk/n/nf5c71ae847d4",
     "https://note.com/bizgram/n/n5bde4d5402d1",
-    "https://note.com/tasty_dunlin998/n/nf534ce147ed5",
-    "https://note.com/nn1112/n/n418223ae5249",
-    "https://note.com/onomatsu_kenta/n/ne57d2e175e3f",
-    "https://note.com/kagawatomo/n/nb6c0632d2e41"
+    "https://note.com/paguinu/n/n668cc7419453",
+    "https://note.com/ikedon0505/n/n3ae1c92bd281",
+    "https://note.com/tasty_dunlin998/n/nf534ce147ed5"
    ]
   },
   {
    "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 note",
    "results": [
-    "https://note.com/jitsuzon/n/ne6d899df2cc6",
-    "https://note.com/bunsekiya_tech/n/nd098d6f8c603",
-    "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
-    "https://note.com/shinu/n/n567c6705ec18",
-    "https://agenda-note.com/brands/detail/id=3667",
-    "https://note.com/cograph_data/n/nf26af2dbd9a6",
-    "https://globis.jp/article/dic_s8kn2j6as/",
-    "https://note.com/apple_ringo/n/n05969dd52c74",
-    "https://researchmap.jp/lsdn/presentations/3214723",
-    "https://smart-analytics.jp/learning/analysis-guide/"
+    "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/fair_clover666/n/n009fc95d09bf",
+    "https://note.com/satoruhiguchi/n/nef38cf36c558",
+    "https://note.com/tsunobuchi/n/n8a38e368c99c",
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://www.gyoukaku.go.jp/ebpm/shien/guidebook2.0_260901.pdf",
+    "https://note.com/paguinu/n/n668cc7419453",
+    "https://smart-analytics.jp/learning/analysis-guide/",
+    "https://github.com/sw33t-b1u/cti-scenario-workshop/blob/main/week5_analytic_techniques/01_lecture.md",
+    "https://i-datascience.com/2026/10/31/探索的データ分析：解析の前にデータを図で確か/"
    ]
   },
   {
@@ -884,43 +1268,43 @@
    "results": [
     "https://www.ashisuto.co.jp/cm/tech-note/analytics/data-analysis-hypothesis-5steps.html",
     "https://ns-japan.com/media/guide/hypothesis-verification-method-steps/",
-    "https://www.bi.ksc.co.jp/tips/data-utilization/formulating-hypotheses",
-    "https://newrelic.com/jp/blog/observability/performing-effective-root-cause-analysis",
-    "https://note.com/cograph_data/n/nf26af2dbd9a6",
-    "https://sherpaworks.jp/sherpa/hypothesis-verification/",
-    "https://project-facilitator.com/hypothesis-testing-cycle/",
-    "https://www.mieruka-engine.com/media/hypothesis",
     "https://www.gyoukaku.go.jp/ebpm/shien/guidebook2.0_260901.pdf",
-    "https://www.labz-inc.com/post/仮説思考とは？ビジネスで使える仮説の立て方・検証方法を解説/"
+    "https://kuroco.team/blog-data-tejun/",
+    "https://www.interviewz.io/blog/user-interviews-proceed/",
+    "https://sales-outsourcing.stadium.co.jp/magazine/knowledge/sales-data-analysis-examples",
+    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+    "https://www.mext.go.jp/content/1407073_11_1_2.pdf",
+    "https://www.interviewz.io/blog/depth-interview-merit/",
+    "https://note.com/magic_ai7978/n/n6ce1d1cb34f2"
    ]
   },
   {
    "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 事例",
    "results": [
-    "https://mentena.biz/insight/5-whys-analysis-cases/",
-    "https://www.ashisuto.co.jp/cm/tech-note/analytics/data-analysis-hypothesis-5steps.html",
-    "https://hri-vietnam.com/ja/article/tu-duy-va-giai-quyet-van-de/21/root-cause-analysis-methods-workplace-examples-template",
-    "https://newrelic.com/jp/blog/observability/performing-effective-root-cause-analysis",
-    "https://yachiyo-sol.com/library/kosho-bunseki-seizogyo/",
-    "https://note.com/bunsekiya_tech/n/nd098d6f8c603",
-    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wo6-att/000071988.pdf",
-    "https://www.bi.ksc.co.jp/tips/data-utilization/formulating-hypotheses",
-    "https://www.brains-tech.co.jp/impulse/blog/method-and-purpose-of-failure-analysis/",
+    "https://www.gyoukaku.go.jp/ebpm/shien/guidebook2.0_260901.pdf",
+    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+    "https://minna-systems.co.jp/test/test-base/quality-assurance/qc-seven-tools-guide/",
+    "https://note.com/everprogress/n/nc066813442e3",
+    "https://www.spm.or.jp/committee/2025spring/abstract/",
+    "https://idend.net/blogs/columns/%E5%BF%9C%E7%94%A8%E8%A1%8C%E5%8B%95%E5%88%86%E6%9E%90-aba-%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E4%B8%8D%E9%81%A9%E5%88%87%E8%A1%8C%E5%8B%95%E3%81%B8%E3%81%AE%E4%BB%8B%E5%85%A5",
+    "http://www.juas.or.jp/cms/media/2017/01/04usability.pdf",
+    "https://www.jri.co.jp/file/column/opinion/pdf/20250924_nagumo.pdf",
+    "https://www.interviewz.io/blog/depth-interview-merit/",
     "https://note.com/magic_ai7978/n/n6ce1d1cb34f2"
    ]
   },
   {
    "query": "analytic tradecraft key assumptions check indicators alternative hypotheses blog",
    "results": [
-    "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
-    "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
-    "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
-    "https://analyst1.com/cyberpedia/intelligence-analysis-methods/",
-    "https://intelprofession.com/institute-of-intelligence-professionalisation-blog/structured-analytical-techniques-a-practical-guide-to-better-judgments",
     "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-3-distinctions",
+    "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
+    "https://themindcollection.com/structured-analytic-techniques/",
+    "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "https://intelprofession.com/institute-of-intelligence-professionalisation-blog/structured-analytical-techniques-a-practical-guide-to-better-judgments",
+    "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "https://analyst1.com/cyberpedia/intelligence-analysis-methods/",
     "https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft+Primer-apr09.pdf"
    ]
   },
@@ -928,15 +1312,15 @@
    "query": "site:note.com 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事",
    "results": [
     "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/fair_clover666/n/n009fc95d09bf",
     "https://note.com/satoruhiguchi/n/nef38cf36c558",
-    "https://note.com/tasty_dunlin998/n/nf534ce147ed5",
     "https://note.com/kagawatomo/n/nb6c0632d2e41",
     "https://note.com/bizgram/n/n5bde4d5402d1",
-    "https://note.com/fair_clover666/n/n009fc95d09bf",
-    "https://note.com/a7_data/n/n9a0ff4e6a643",
     "https://note.com/paguinu/n/n668cc7419453",
-    "https://note.com/hima2b4/n/n4975ccc59032",
-    "https://note.com/nob75note/n/n052803f42d1f"
+    "https://note.com/tasty_dunlin998/n/nf534ce147ed5",
+    "https://note.com/szkm555/n/n55ba75e8b834",
+    "https://note.com/fujikawa/n/na8f2e3390eca",
+    "https://note.com/sohtanagasaka/n/n4e209489f0aa"
    ]
   },
   {
@@ -954,50 +1338,46 @@
   {
    "query": "site:linkedin.com 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事",
    "results": [
-    "https://jp.linkedin.com/in/yuya-tachibana"
+    "https://jp.linkedin.com/pulse/deeper-discipline-root-cause-analysis-assumptions-ahmed-ms-gsp-mq0pe?tl=ja",
+    "https://jp.linkedin.com/posts/琦-王-655bb0176_品質の可視化と早期対応の鍵異常の兆候を捉える分析とは-activity-7343862655759106049-ivwo",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7486690110093238272/",
+    "https://www.linkedin.com/posts/hayatoogata_事業開発についてのスキル確認と向上方法です-1-市場調査と分析能力-市場調査-activity-7237954246275428353-Pe6A",
+    "https://jp.linkedin.com/pulse/unlocking-insights-art-hypothesis-formulation-bonu-naga-vamsi-vardhan-hfonc?tl=ja",
+    "https://jp.linkedin.com/posts/shigun-shou-9aa07b1b8_成果につながるデータ分析の基本課題定義構造化仮説検証で本質をつかむ-qiita-activity-7470042988489072640-VnEO",
+    "https://jp.linkedin.com/pulse/strategies-spot-business-signs-symptoms-effective-problem-solving-kn0jf?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事",
    "results": [
-    "https://www.facebook.com/groups/713390697225371/",
-    "https://www.facebook.com/kazenotopos/?locale=ja_JP",
     "https://www.facebook.com/groups/kodaishi/posts/4932607656883945/",
     "https://www.facebook.com/qdaainfo/posts/書籍紹介質的統合法-渾沌から秩序を導く創発の技法httpswwwqdaainfobook_20260127-山浦晴男正木治恵赤川学税所真也-編-新曜社分析者によ/1483085397158161/",
-    "https://www.facebook.com/4DINLtd/videos/参加登録受付中4din-webinar/1010616821729682/",
     "https://www.facebook.com/JMPjpn/photos/-薬学部-向けjmp-活用webセミナー-part-3-jmp-による-2群のデータの解析方法をご紹介内容-統計的仮説検定-とは-対応のあるない-2群のデータ-/2505825096191961/",
-    "https://www.facebook.com/thomson.reuters.japan/photos/トムソンロイター大江橋法律事務所共催勉強会-企業不祥事発生時の内部調査実務法廷弁護技術の考え方を取り入れた関係者ヒアリングの進め方-企業不祥事の内部調査で重要な/1446608320800257/",
+    "https://www.facebook.com/4DINLtd/videos/参加登録受付中4din-webinar/1010616821729682/",
     "https://www.facebook.com/tosho.digest/posts/youtubeチャンネル更新与信管理実務取引実行後の日常管理業務③債権管理は組織的に危ない会社の兆候とはご視聴よろしくお願いいたします与信管理-取引先管理-トー/818566233789810/",
+    "https://www.facebook.com/thomson.reuters.japan/photos/トムソンロイター大江橋法律事務所共催勉強会-企業不祥事発生時の内部調査実務法廷弁護技術の考え方を取り入れた関係者ヒアリングの進め方-企業不祥事の内部調査で重要な/1446608320800257/",
     "https://www.facebook.com/SalesforceJapan/videos/無料レポート-建設業界の最新動向-2026/2650809295317089/"
    ]
   },
   {
    "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 note 社長",
    "results": [
-    "https://note.com/jitsuzon/n/ne6d899df2cc6",
-    "https://note.com/cograph_data/n/nf26af2dbd9a6",
-    "https://note.com/apple_ringo/n/n05969dd52c74",
-    "https://agenda-note.com/brands/detail/id=3667",
-    "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
-    "https://note.com/shinu/n/n567c6705ec18",
-    "https://note.com/trinias/n/na3043fa737d2",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/293",
-    "https://researchmap.jp/lsdn/presentations/3214723",
-    "https://note.com/jgiajfid_5293/n/ncd636de74ef4"
+    "https://note.com/everprogress/n/nc066813442e3",
+    "https://note.com/sohtanagasaka/n/n4e209489f0aa",
+    "https://note.com/fair_clover666/n/n009fc95d09bf",
+    "https://note.com/paguinu/n/n668cc7419453",
+    "https://www.jates.or.jp/dcms_media/other/50%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%20%E6%8A%9C%E8%90%83.pdf",
+    "https://note.com/jgiajfid_5293/n/ncd636de74ef4",
+    "https://note.com/magic_ai7978/n/n6ce1d1cb34f2",
+    "https://hondana1.jp/定性データの収集と分析で見える課題の兆候/",
+    "https://coteam.jp/note/organizational-climate/hypothesis-verification/",
+    "https://renue.co.jp/posts/problem-solving-framework-issue-management-hypothesis-guide-2026"
    ]
   },
   {
    "query": "分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事 X 投稿",
    "results": [
-    "https://www.ashisuto.co.jp/cm/tech-note/analytics/data-analysis-hypothesis-5steps.html",
-    "https://note.com/cograph_data/n/nf26af2dbd9a6",
-    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
-    "https://www.youtube.com/watch?v=UtBhIlO44pA",
-    "https://sherpaworks.jp/sherpa/hypothesis-verification/",
-    "https://www.gov-toolbox.jp/frameworks/logictree",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://agenda-note.com/brands/detail/id=3667",
-    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wo6-att/000071988.pdf"
+    "https://note.com/tsunobuchi/n/n8a38e368c99c"
    ]
   },
   {
@@ -1005,8 +1385,8 @@
    "results": [
     "https://www.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec",
     "https://www.linkedin.com/posts/liberty91_cti-skills-for-ai-agents-open-source-cti-activity-7457668130455220224-buu5",
-    "https://www.linkedin.com/in/juanpablosanchez",
     "https://www.linkedin.com/in/tiffany-saade",
+    "https://www.linkedin.com/in/juanpablosanchez",
     "https://uk.linkedin.com/in/felixghauri",
     "https://in.linkedin.com/in/shivam-dharwal-56aa55234",
     "https://www.linkedin.com/posts/nickbyrd_a-tradecraft-primer-cia-activity-7043581562562502656-pkuH",
@@ -1017,7 +1397,400 @@
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 4,
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". SATs are not the only way of dealing with cognitive bias, but they are developed specifically for analysts to deal with them in their daily work. Using SATs, you can catch issues and reflect on your analysis well before you start drafting the product. It’s also easier to get feedback from peers or supervisors.",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "When collaborating with others, it’s important not to inadvertently create Information Bubbles, Confirmation Bias, Echo Chambers and Group Think. SATs go a long way in tackling cognitive biases, but ensuring you’re aware of alternative narratives via other analysts will add another filter against such biases (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5 Common Mistakes When Using Structured Analytic Techniques",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Many SATs are meant for longer-term products that can go into more detail, but others can be quite useful. For instance, your team could develop indicators that you update as new reporting comes in. Additionally, fast-paced environments are more prone to cognitive biases, so trying to implement shortened versions of SATs like",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Familiarising yourself with your own cognitive biases and critically evaluating your sources.",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "— a sanitized, public worked example of a tiered open-source collection framework.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In our example, we’re throwing out our assumption about the plot twist. We’re left with the anachronisms, which could be a result of the director’s sloppiness. And the creatures, which could be either symbolic or literal. Throughout the story, new evidence emerges and our focus shifts to a new assumption about the community leaders: They’ve created some kind of fake world.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". The hunter stumbles upon the aftermath of a drug deal gone violently wrong. From there, the curious, guarded and resourceful war veteran follows a track that leads him to yet another dead body. And a suitcase full of money. Should he take that case?",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Nobody will find out I took the case. Should I have to, I can outsmart the criminals and the police. I can get away with this.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It appears straightforward. The skilled veteran is alone in the desert and nobody can see him take the money. But he doesn’t know who he is dealing with and what their capabilities are. If Llewelyn knew he was being tracked, he certainly would not take that case. He would need more information out there in the desert before making his decision. But",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "can be used to challenge them. As a contrarian Structured Analytic Technique, it’s less collaborative and more confrontational. Usually, a brave team member builds a strong case that contradicts the prevailing view. This is why it should be used with caution and for high-stakes decisions. That is, whenever making the wrong decision has dire consequences.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "There are many factors at play when it comes to time travel. Advancements in physics are a given. The development of relevant technology is another big driver. Then there are the ethics of going back to the past, potentially altering history. What also factors in is the impact the whole time travel enterprise will have. For our example, we pick the",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Now that we have our key drivers, we conceptualise them as a spectrum and define their two endpoints. For example, if a key factor is the advancements in physics, the two endpoints could be",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For the sake of our case study, we limit our key drivers to two. When it comes to the",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In our example, we’re crossing the",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "for instance, lists 66 “core” techniques, from “several hundred that might have been included.” Don’t fret. Using Heuer and Pherson’s SAT selection process as a handrail, the table below provides a examples on how you can apply a few SATs to tackle any problem-set (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Here’s a practical example of how and when an Analysis of Competing Hypotheses (ACH) can be used;",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8 Case Studies in Using Structured Analytic Techniques",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). Utilise your OSINT toolkit to collect evidence to dissect and forecast a current affair. You can use Beebe & Pherson’s “Cases in Intelligence Analysis: Structured Analytic Techniques in Action” as a primer (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8.1 Case 1: 9/11 and the formation of the CIA’s Red Cell",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8.2 Case 2: Grey Dynamics’ Key Assumptions Check",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "You can explore more case studies applying SATs",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "How to Obtain Your Amateur Radio License",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Communications & Emissions Training Framework",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Conduct a Daily Threat Analysis Using OSINT",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How To Begin Prepping",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— the disciplined set of standards and methods that turn open-source information into a sound, defensible judgment. It covers the U.S. Intelligence Community analytic standards, the structured analytic techniques that meet them, and the source-evaluation discipline every open-source analyst needs.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Analytic tradecraft is the disciplined set of methods, standards, and habits that separate professional intelligence analysis from opinion, punditry, or a news summary. It is concerned less with",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "are the structured methods an analyst uses to meet those standards. Standards tell you what good looks like; techniques are how you get there.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Supply-chain & infrastructure risk frameworks",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A printable, fully branded field guide. The complete treatment of every section on this page, plus Analysis of Competing Hypotheses step by step, OSINT source tradecraft, a self-assessment workbook, and a curated reference library. Free for Patreon supporters.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step-by-step methods that externalize and discipline reasoning, drawn from the CIA’s",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The workhorse contrarian technique, treated step by step. ACH inverts intuitive analysis: instead of asking which evidence supports the preferred explanation, it asks which hypothesis is least contradicted by the evidence. The guide walks all eight steps, from generating a full hypothesis set to building and refining the evidence matrix to identifying indicators for future observation.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Supply-chain & critical-infrastructure risk frameworks",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— the structured method for analyzing an operational environment and its threat actors.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ATP 5-0.1, Army Design Methodology",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Structured Analytic Techniques (SATs) are collaborative methods designed to instil more rigour in your thinking. They’re the slow-paced version of the",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "My main sources for these methods are the",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "newsletter. But you don’t need to be an intel analyst to benefit from Structured Analytic Techniques. To demonstrate their suitability for daily use, we’ll be applying each method to a scenario from a modern cinematic classic.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What Structured Analytic Technique you should use depends on the kind of problem you’re facing. Here are five methods that can be employed individually or in combination with each other. [",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 1: Identify Your Underlying Assumptions",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 2: Challenge Your Assumptions",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 3: Refine Your List",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Sure, running a Structured Analytic Technique at the movies might ruin the film. But it demonstrates how we can easily elevate our thinking from intuitive guesswork to systematic analysis with a bit of methodical questioning.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "strikes. It can help us anticipate weaknesses in our analysis before decisions are actioned. The method is an evolution of",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 1: Sources of Uncertainty",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 2: Critical Assumptions",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 3: Evidence",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 4: Changes in Environment",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Thinking through the four steps of the Structured Self-Critique could’ve helped our protagonist to reconsider his decision. But Llewelyn doesn’t think for long. He takes the cash. And nothing happens. Until he’s being hunted by an aging sheriff, a psychopathic hitman and the Mexican cartel; the latter of which gets to him first.",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step 1: Outline the Current Thinking",
+    "url": "https://themindcollection.com/structured-analytic-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", familiarity with these techniques will help you make sense of incomplete or contradictory information, generate hypotheses, and manage uncertainty. This guide will go through why structured analytic techniques are important for intelligence analysts, how to select SATs that are useful for you, and some resources on SATs, many of which are free.",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Using the AIMS framework is a terrific way to address the above and to conceptualise the structure of your product:",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 5,
  "first_researched_at": "2026-11-06T02:54:37.656433+00:00"
 }

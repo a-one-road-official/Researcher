@@ -689,36 +689,39 @@
   - 「自宅で作るDFIR・NSM実習ラボ｜Security OnionでZeek・Suricataを動かす（安全な検証環境）」（https://yasashii-cybersecurity.com/osint_beginer/）
   - 「1990年代後半に確認されて以来、今もなお猛威を振るい続けるこの攻撃手法について、プログラミングが全くわからない方でも理解できるよう、仕組み・実際の検証・そして具体的な対策まで徹底解説します」（https://yasashii-cybersecurity.com/osint_beginer/）
   - 「In many cases, a large majority of intelligence used in decision-making, often estimated at」（https://sopa.tulane.edu/blog/what-open-source-intelligence-osint-and-why-it-growing-career）
+  - 「： 一つのメールアドレスやユーザー名から、過去の漏洩データを突き合わせることで、匿名アカウントの所有者、使用している他のサービス、あるいは隠された連絡先を特定することができます」（https://note.com/terueda/n/n5707498651c3）
+  - 「【第4講】 単なる「検索」で終わらせるな：組織的な検証とドキュメント化のワークフロー」（https://note.com/terueda/n/n5707498651c3）
+  - 「得られた情報が本物かどうかを検証し、組織として活用できる客観的な報告書へとまとめる「再現可能なワークフロー（Methodology & Workflow）」にあります」（https://note.com/terueda/n/n5707498651c3）
+  - 「どのような手段で収集され、どのように検証されたデータなのか（情報の確度）」（https://note.com/terueda/n/n5707498651c3）
+  - 「私たちの仕事の多くは、この膨大な公開情報を「読み解いて」「自庁の既存ルールと照らし合わせて」「矛盾なく実務に落とし込む」プロセスで成り立っています」（https://note.com/solo_style/n/n985b3c636ab6）
   - 「OSINT を通じて得られる情報は、すべて検証されているわけではありません」（https://note.com/subland_/n/nd946aa4f734d）
   - 「情報を正確に活用するためには、取得した情報を検証することが大切です」（https://note.com/subland_/n/nd946aa4f734d）
   - 「本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「2015年の事例では、衛星画像から小売店の駐車場の車両数を分析し、四半期売上を推定する手法が用いられた」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「例えば、衛星写真（IMINT）をスペクトル分析（MASINT）と併用することで、撮影対象の化学組成を推定できる」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「AIが提供するデータの精度は、トレーニングデータの質に依存するため、企業は信頼性の高いデータソースを確保し、分析結果を批判的に検証する必要がある」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「なお、防衛分野の信号情報市場は2026年に約196億ドルと推計される一方(Mordor Intelligence, 2026)、市場規模や成長率の推計は情報源によって大きく食い違っている(SDKI Analytics, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「この流れは、商業的な市場調査における「目的の設定、仮説の立案、調査の設計、データの収集、分析、意思決定」という調査設計と構造的によく似ており、両者を比べるための共通の物差しになる(矢野経済研究所, n.d.; SATORI, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「市場規模や成長率の推計が情報源によって大きく食い違う例が確認されたため、一つの情報源に頼らず、複数の情報源で裏づけること(トライアンギュレーション)を方法論上の原則とした」（https://note.com/everprogress/n/nde8351a93d60）
 - 一次情報の探し方：
+  - 「： 競合他社が使用しているサーバーインフラ、保有ドメインの履歴、SNS上の発信パターン、求人情報や社員の投稿から覗く組織構造など、公開情報をつなぎ合わせることで、相手の戦略や弱点が浮き彫りになります」（https://note.com/terueda/n/n5707498651c3）
+  - 「～公開情報を武器に変える、守りのDX入門～｜solo@転職族公務員（IT採用、非IT部門勤務）」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「solo@転職族公務員（IT採用、非IT部門勤務）」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「ICT事務職として採用された市役所の職員の solo です」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「国税庁やe-Govなど、担当業務に関係する省庁の公開PDFやQ&Aを2〜3件ダウンロードします」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「Googleアカウントがあれば無料で使える「NotebookLM」にそのPDFをアップロードします」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「新しい通達が届くたびにPDFを追加すれば、ナレッジベースは常に最新の状態に保たれます」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「In some registries, you may come across a field called “authorized person.” This usually refers to the director or accountant, but it could also be someone with a power of attorney to act on behalf of the company—for example, for filing tax reports.」（https://hackers-arise.com/osint-getting-started-with-business-intelligence/）
+  - 「– The official website of the Federal Institute of Industrial Property. It provides access to patent filings, trademarks, and utility models registered in Russia.」（https://hackers-arise.com/osint-getting-started-with-business-intelligence/）
   - 「とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ」（https://note.com/red_structure/n/na2c79b00d217）
   - 「検索エンジンの検索結果・SNSの投稿・企業のWebサイト・ドメイン登録情報（WHOIS）・求人票・政府機関の公開データベース・学術論文・ニュース記事——これらすべてが対象になりうる」（https://note.com/red_structure/n/na2c79b00d217）
   - 「法人登記情報・組織図・使用している技術スタック（求人票から判明することが多い）・パートナー企業・オフィスの所在地などが対象になる」（https://note.com/red_structure/n/na2c79b00d217）
   - 「従業員のSNS・GitHubのパブリックリポジトリ・求人票の記述内容を定期的に見直す」（https://note.com/red_structure/n/na2c79b00d217）
   - 「site:自社ドメイン filetype:pdf や site:自社ドメイン inurl:admin といった検索で、意図せず公開されているドキュメントや管理画面へのアクセス経路がないかを確認できる」（https://note.com/red_structure/n/na2c79b00d217）
   - 「情報収集先は公開されている情報全てとなりますので、ネット情報、公的記録、メディアなど、様々です」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「ネットだけでなく、新聞や官報なども含まれます」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「例えば、採用ターゲットとなる個人や競合する企業の情報、日本に帰化した外国出身の方の名前などを収集することができます」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「採用関係などであれば、個人について公開されている情報を調べるさい迷わず利用されているかと思います」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「Whois Lookup、SEC Filings、County Recordsなどを使うことで得られる公的情報です」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「企業も同様に、リアルタイムで競合情報や市場情報を収集するためにOSINTを活用しており、合法的かつ低コストで公的データを利用している（Bensoussan & Fleisher, 2013）」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「企業は競争情報を強化するために元インテリジェンス職員を採用することもあるが、倫理的および法的な境界を逸脱しないよう注意が必要である（Barboza, 2001）」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「競争インテリジェンスチームは、ニュース記事、業界レポート、特許、学術研究、さらにはソーシャルメディアやウェブ解析といった多くの同様の情報源を活用する」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「例えば、企業は競合他社の求人情報やプレスリリースを分析し（公開情報の活用）、その事業拡大計画や研究開発の焦点を推測できる」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「公的規制申請や財務報告も分析することで、企業の業績や投資優先順位に関する情報を得ることができる」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 失敗・落とし穴：
   - 「OSINT is often mistaken for simple online research. In practice, it follows a structured methodology that includes:」（https://sopa.tulane.edu/blog/what-open-source-intelligence-osint-and-why-it-growing-career）
   - 「Avoid analytical bias or misinformation」（https://sopa.tulane.edu/blog/what-open-source-intelligence-osint-and-why-it-growing-career）
+  - 「「ネット検索なんて誰でもみんなやっている」と思われた社長、それは大きな間違いです」（https://note.com/terueda/n/n5707498651c3）
+  - 「これにより、「自社が相手に関心を持っている」「特定の件を調べている」という事実が相手に露呈し、調査が失敗に終わります」（https://note.com/terueda/n/n5707498651c3）
+  - 「： 「ググってみました」レベルの不確実な報告を鵜呑みにしてはいけません」（https://note.com/terueda/n/n5707498651c3）
   - 「OSINTの注意点」（https://note.com/subland_/n/nd946aa4f734d）
   - 「多くの場合、非常に有益な情報を取得できますが、注意すべき点もあるということを頭に入れておく必要があります」（https://note.com/subland_/n/nd946aa4f734d）
   - 「下記に注意点をあげます」（https://note.com/subland_/n/nd946aa4f734d）
@@ -729,10 +732,12 @@
   - 「公開情報や合法的に入手可能なデータを活用することが重要であり、インサイダー情報の利用は法的リスクを伴う点に注意が必要である」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「倫理的考察と注意点」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「また、AIの使用がバイアスや誤認を招く可能性があることを認識し、慎重に管理することが求められる」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「この調査手法は政府の諜報機関のプロセスと類似しており、OSINTと「近接情報源」HUMINTを組み合わせ、データの相互関連性を分析し、仮説を検証しながらバイアスを排除する手法を採用していた（Black Cube, n.d.）」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「なお、これらの手法をまとめて「インテリジェンス」と呼ぶ際には、概念上の緊張関係に注意が必要である」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「競争インテリジェンスを強化するために元情報機関の職員を雇う企業もあるが、その際には倫理と法の一線を越えないよう注意しなければならない(United Press International [UPI], 2001)」（https://note.com/everprogress/n/nde8351a93d60）
 - 実例：
+  - 「ネットで「消費税 軽減税率」と検索するのが「本を1冊だけ引っ張ってくる」行為なら、OSINTは「関連する通達・Q&A・他自治体の運用事例・国会答弁を横断的に集めて、自庁の規則と照らし合わせる」行為です」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「【ケース①：消費税の経過措置、あなたの自治体は正しく運用できていますか？】」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「しかし現場では、「昨年の担当者がまとめた資料」や「ベンダーから届いた説明資料」だけを頼りに運用しているケースが少なくありません」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「そして、高額な追徴が発生したケースも私は存じ上げております・・・」（https://note.com/solo_style/n/n985b3c636ab6）
+  - 「【ケース②：自治体ホームページは、OSINTの「見本市」でもある】」（https://note.com/solo_style/n/n985b3c636ab6）
   - 「検索エンジンの検索結果・SNSの投稿・企業のWebサイト・ドメイン登録情報（WHOIS）・求人票・政府機関の公開データベース・学術論文・ニュース記事——これらすべてが対象になりうる」（https://note.com/red_structure/n/na2c79b00d217）
   - 「といった投稿をSNSにしてしまうケースも実際に起きている」（https://note.com/red_structure/n/na2c79b00d217）
   - 「例えば「あるメールアドレス」を起点に、関連するドメイン・IPアドレス・SNSアカウント・人物情報が芋づる式に展開されていく」（https://note.com/red_structure/n/na2c79b00d217）
@@ -743,11 +748,6 @@
   - 「例えば、nslookup、dig、whoisなどがあります」（https://note.com/subland_/n/nd946aa4f734d）
   - 「これによってフェイク情報による分析をしてしまい、分析結果が好ましくないものになる可能性があります」（https://note.com/subland_/n/nd946aa4f734d）
   - 「さらにその結果を公開した場合、偽情報と共に広がってしまう可能性があります」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「本稿では、各機関がこれらの手法をどのように活用しているかを比較し、さらに実際のビジネスにおける応用事例を取り上げる」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「主な調査結果は以下のとおりである」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「例えば、投資家は小売店の駐車場の衛星写真を分析することで売上予測を行い、競争優位を確立した事例がある（Groll, 2017）」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「：ケーススタディによれば、インテリジェンス思考を導入することで戦略的優位性を得ることができる」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「例えば、ヘッジファンドが画像データや取引データを活用して投資判断を行ったり、企業がプライベート・インテリジェンス企業を利用してデューデリジェンスや競合分析を行ったりしている（Black Cube, n.d.）」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 検索結果の抜粋：
   - 「【2026年最新版】OSINT Framework JP 公開情報調査ツール一覧 — OSINT Frameworkを日本語で利用できる公開情報調査ツール一覧。1168件のOSINTツールを33カテゴリに整理し、ユーザー名・SNS・メール・ドメイン・IP・位置情報など目的別に検索できます。初心者向けQ&Aも掲載。」（https://mikiya-webdesign.com/osint-tools/）
   - 「Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) for Researchers and ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Open-Source Intelligence (Osint) Market Size, Share | Growth ...Top 15 OSINT Tools for Business Intelligence - salesfuel.com — The Open-Source Intelligence (OSINT) 」（https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global）
@@ -3387,10 +3387,10 @@
   - 「決算公告で損益計算書の開示は必要？大会社と非大会社の違い、公告方法別の記載ルール、当期純損益の付記義務を会社法に基づき解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告で損益計算書の開示は必要？大会社と非大会社の違い、公告方法別の記載ルール、当期純損益の付記義務を会社法に基づき解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「株式会社保険会社との違い、公告方法、罰則、現存する生保5社を一次資料で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「官報に決算公告を載せるのはなぜ？会社法440条が定める3つの目的・歴史的背景・費用約7万5千円の実態と、電子公告への移行手順をわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「司法書士会への非司行為(にせ司法書士)取締要請書（ひな型）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「新人司法書士が必ず陥る「誤字脱字などのケアレスミス地獄」からの脱出方法」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「所在と家屋番号が一致しない建物の発生原因と対処方法」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「親亡き後の子どものための信託（親亡き後信託・福祉型信託）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 突き合わせ・推定：
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3441,6 +3441,7 @@
 - 実例：
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（前編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（後編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「スポットでも使える「補助＋代理権付与」【事例紹介】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3453,7 +3454,6 @@
   - 「経済産業省の商工業実態基本調査によると、製造業の中小企業では20%台が一つの基準となるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「実務上、直ちに科されるケースは多くありませんが、義務であることに変わりはなく、金融機関や取引先からの信用にも関わります」（https://kanpou.ai/guide/kessan-kokoku）
 
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
@@ -5832,6 +5832,7 @@
   - 「goal-maximizing policy is overestimated.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「You overestimate high-profile events.」（https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques）
+  - 「His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.」（https://themindcollection.com/structured-analytic-techniques/）
 - 一次情報の探し方：
   - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
@@ -5970,9 +5971,9 @@
   - 「“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
 
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
