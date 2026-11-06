@@ -785,7 +785,10 @@ def kougyo_section(topic):
             d = sgn(v0, v1)
             edge = len(pts) >= 3 and (sgn(pts[1][1], v1) != d or sgn(v0, pts[-2][1]) != d)
             cen = any(y == 2015 for y, _ in pts) and y0 != 2015 or y0 == 2015 or y1 == 2015
-            parts.append(f"{fld} {y0}年 {v0:,.1f}→{y1}年 {v1:,.1f}（{len(pts)}点" + (f"・年率 {g:+.1%}" if g is not None else "") + ("・⚠ 端の1点に依存" if edge else "")
+            # 2026-11-07 4-66（走査で見つかった失敗）：この節の1人あたりは百万円（工業統計の金額欄のまま）で単位を書いていず、
+            # 次の節の _万円 と100倍違う値が並んでいた。単位を値に付ける（build_kougyo.py の _ratios：金額欄は百万円）
+            _u = "百万円" if fld.startswith("従業者1人あたり") else ("人" if fld in ("1事業所あたり従業者数", "従業者数") else "百万円" if fld == "加工賃収入額" else "")
+            parts.append(f"{fld} {y0}年 {v0:,.1f}→{y1}年 {v1:,.1f}{_u}（{len(pts)}点" + (f"・年率 {g:+.1%}" if g is not None else "") + ("・⚠ 端の1点に依存" if edge else "")
                          + ("・⚠ 2015年は経済センサスの値を含む" if cen else "") + "）")
         if parts:
             md.append(f"- 【一次で確認】{code} {name}：" + "／".join(parts))
@@ -1523,7 +1526,20 @@ def scan(topic):
             md += ["- 3回以上直った欄の累積の直し（4-65・直り続ける欄は確度を1段下げる）："] + [
                 f"  - {k[0]}（{k[1] or '年不明'}年）{len(v)}回：{v[0]['前']:g}→{v[-1]['後']:g}（累積 {(v[-1]['後'] - v[0]['前']) / abs(v[0]['前']):+.1%}）"
                 for k, v in many[:10] if v[0]["前"]]
-        pairs = [(v[i], v[i + 1]) for v in seq.values() for i in range(len(v) - 1)]
+        # 2026-11-07 4-66（ESS guidelines on revision policy：誤りの訂正は「ふだんの直しの幅」と比べて大きさを判定し、
+        # 理由を添えて出す。版の識別が無い直しは改訂の分析に混ぜない／ai_love_009 note：本文にない年を補わない）。
+        # ①ふだんの幅（絶対改訂の中央値）の3倍を超える直しを、誤りの訂正か方法の変更の疑いとして一覧にする
+        # ②年の無い欄の直しは、時点違いの入れ替わりと区別できないので件数を出し、本文の改訂の分析では言い切らない
+        if len(rv) >= 5:
+            medabs = statistics.median(abs(x) for x in rv)
+            big = [x for x in revs if abs(x["率"]) < 100 and medabs > 0 and abs(x["率"]) > 3 * medabs]
+            if big:
+                md += [f"- ふだんの直しの幅（絶対改訂の中央値 {medabs:.1%}）の3倍を超える直し {len(big)}件（4-66・誤りの訂正か方法・定義の変更の疑い。理由の型を確かめるまで前後の値で向きを比べない）："] + [
+                    f"  - {x['欄'][:80]}（{x.get('年') or '年不明'}年）{x['前']:g}→{x['後']:g}（{x['率']:+.1%}）" for x in sorted(big, key=lambda x: -abs(x["率"]))[:8]]
+        noyr = sum(1 for x in revs if not x.get("年"))
+        if noyr:
+            md += [f"- 年の無い欄の直し {noyr}件／{len(revs)}件（4-66）：時点の違う値の入れ替わりかもしれず、改訂とは言い切れない。年を本文で取れるまで、片寄り・大きさの判断はこの分を除いて読む"]
+        pairs =[(v[i], v[i + 1]) for v in seq.values() for i in range(len(v) - 1)]
         if len(pairs) >= 5 and len({a for a, _ in pairs}) > 1 and len({b for _, b in pairs}) > 1:
             rho = statistics.correlation([a for a, _ in pairs], [b for _, b in pairs])
             md += [f"- 続けての直しの相関（4-52）：{rho:+.2f}（{len(pairs)}組）。" + ("正で大きい（0.3以上）：同じ欄が同じ向きに直り続ける。途中の値で言い切らず、直りが止まるまで待つ" if rho >= 0.3 else "負で大きい（-0.3以下）：直しが行き過ぎて戻る。直後の値を採らない" if rho <= -0.3 else "目立たない")]
