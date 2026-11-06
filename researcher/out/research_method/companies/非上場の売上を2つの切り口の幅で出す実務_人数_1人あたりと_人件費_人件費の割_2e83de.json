@@ -8,7 +8,7 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-06T13:41:02.379595+00:00",
+ "researched_at": "2026-11-06T17:45:34.552943+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -24,6 +24,11 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/ayacokato/n/n983f2bd0b5e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/humble_fowl4938/n/n141c08bebe91",
     "status": "ok",
     "method": "http"
@@ -35,11 +40,6 @@
    },
    {
     "url": "https://note.com/aminderyota/n/n7fcc582f23e7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/buchok_dojo/n/n441197f591c4",
     "status": "ok",
     "method": "http"
    },
@@ -79,13 +79,13 @@
     "method": "http"
    },
    {
-    "url": "https://dinii.jp/document/article/insyokuten_jinkenhi_sakugen/",
-    "status": "ok",
+    "url": "https://sharedine.me/media/know-how/labor-cost-percentage",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://sharedine.me/media/know-how/labor-cost-percentage",
-    "status": "http_403",
+    "url": "https://dinii.jp/document/article/insyokuten_jinkenhi_sakugen/",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -99,9 +99,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.mof.go.jp/pri/reference/ssc/keyword/keyword_05.pdf",
+    "url": "https://accompanyon.co.jp/column/jinkenhi-ritsu.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://gxo.co.jp/column/labor-cost-reduction",
@@ -109,27 +109,7 @@
     "method": "http"
    },
    {
-    "url": "https://coconala.com/blogs/6364910/834059",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shishamo-company.com/blog/sales-data-analysis-for-sme/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://emplay.jp/blog/sales-data-analysis-basics",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/sales-data-analysis",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.zoho.com/jp/crm/academy/conceptual/sales-analysis/",
+    "url": "https://www.zei-eikoh.jp/%E7%AC%AC%EF%BC%99%EF%BC%95%E5%9B%9E%E3%80%80%E5%A2%97%E5%8A%A0%E3%81%97%E3%81%9F%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%8D%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%8C/?srsltid=AYCX9vL0vrIyQFVe4hv-fxea4T403dG_PX5EMtN-PcCb6Nhy3seLtfCm",
     "status": "ok",
     "method": "http"
    },
@@ -171,14 +151,14 @@
    "results": [
     "https://note.com/cyber_forest/n/na36cc2666c44",
     "https://note.com/gram14/n/n9e9e573fd2be",
+    "https://note.com/ayacokato/n/n983f2bd0b5e0",
     "https://note.com/humble_fowl4938/n/n141c08bebe91",
     "https://note.com/hirokimiyano/n/nb2d92e8055c4",
     "https://note.com/aminderyota/n/n7fcc582f23e7",
     "https://note.com/buchok_dojo/n/n441197f591c4",
     "https://note.com/epolicy_actvst/n/nfe616fc0d062",
     "https://note.com/buchok_dojo/n/n1b2fa80f5f1d",
-    "https://note.com/epolicy_actvst/n/nca89858e3caf",
-    "https://note.com/tdbcaree/n/n20e5fdd6970d"
+    "https://note.com/epolicy_actvst/n/nca89858e3caf"
    ]
   },
   {
@@ -190,24 +170,23 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://note.com/tonarino_cfo/n/n3de662dda8cb",
     "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
-    "https://tenpo-syukyaku.com/2020/08/15/%E5%83%8D%E3%81%8D%E6%96%B9%E6%94%B9%E9%9D%A9%E3%81%A7%E4%B8%8A%E6%98%87%E3%81%97%E3%81%9F%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%A7%E3%82%AB/",
     "https://roumunews.jp/minimum-wage-business-model-design/",
-    "https://note.com/multibookview/n/neace390e9f31",
-    "https://emplay.jp/blog/sales-data-analysis-basics"
+    "https://biz.moneyforward.com/accounting/basic/14252/",
+    "https://tenpo-syukyaku.com/2020/08/15/%E5%83%8D%E3%81%8D%E6%96%B9%E6%94%B9%E9%9D%A9%E3%81%A7%E4%B8%8A%E6%98%87%E3%81%97%E3%81%9F%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%A7%E3%82%AB/"
    ]
   },
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） やり方",
    "results": [
     "https://aspit.jp/column/post_93/",
-    "https://dinii.jp/document/article/insyokuten_jinkenhi_sakugen/",
     "https://sharedine.me/media/know-how/labor-cost-percentage",
+    "https://dinii.jp/document/article/insyokuten_jinkenhi_sakugen/",
     "https://biz.moneyforward.com/erp/basic/5446/",
     "https://www.tm-tax.com/mailmag/zaimu/zaimu774/",
+    "https://accompanyon.co.jp/column/jinkenhi-ritsu.html",
     "https://www.mof.go.jp/pri/reference/ssc/keyword/keyword_05.pdf",
     "https://gxo.co.jp/column/labor-cost-reduction",
-    "https://paypay.ne.jp/store-media/tenpo/0018_inshokujinkenhi/",
-    "https://www.stand-3.com/column/business-column/11190/"
+    "https://paypay.ne.jp/store-media/tenpo/0018_inshokujinkenhi/"
    ]
   },
   {
@@ -215,14 +194,13 @@
    "results": [
     "https://aspit.jp/column/post_93/",
     "https://gxo.co.jp/column/labor-cost-reduction",
+    "https://www.careersync.jp/insights/personnel-cost-variance/",
     "https://sharedine.me/media/know-how/labor-cost-percentage",
     "https://www.tm-tax.com/mailmag/zaimu/zaimu774/",
-    "https://biz.moneyforward.com/erp/basic/5446/",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.careersync.jp/insights/personnel-cost-variance/",
+    "https://biz.moneyforward.com/erp/basic/5446/",
     "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
-    "https://note.com/e_ras_kozai/n/n2133799189af",
-    "https://coconala.com/blogs/6364910/834059"
+    "https://www.zei-eikoh.jp/%E7%AC%AC%EF%BC%99%EF%BC%95%E5%9B%9E%E3%80%80%E5%A2%97%E5%8A%A0%E3%81%97%E3%81%9F%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%8D%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%8C/?srsltid=AYCX9vL0vrIyQFVe4hv-fxea4T403dG_PX5EMtN-PcCb6Nhy3seLtfCm"
    ]
   },
   {
@@ -259,11 +237,11 @@
    "query": "site:x.com 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）",
    "results": [
     "https://x.com/fpfinance12/status/2059652560215302474",
-    "https://x.com/PwC_Japan/status/2115949357208138036",
     "https://x.com/nagi_cpa_tax/status/2103258074488385669",
-    "https://x.com/aidatapartner/status/2090259671466607101",
-    "https://x.com/nikkei/status/2090171118812340632",
     "https://x.com/work2lunch0141/status/2090215578858574146",
+    "https://x.com/PwC_Japan/status/2115949357208138036",
+    "https://x.com/nikkei/status/2090171118812340632",
+    "https://x.com/aidatapartner/status/2090259671466607101",
     "https://x.com/MugiKaikei/status/2109965873733837223"
    ]
   },
@@ -275,20 +253,20 @@
     "https://www.linkedin.com/pulse/日本のバイオベンチャーの企業価値評価ー評価手法と主要概念ー-takuya-kano-e7dnc",
     "https://jp.linkedin.com/posts/takahiro-sawada-99a598261_利益率を伸ばしながら売上を伸ばす方法-利益率を最大化するために不可欠な変動費と固定費-activity-7394158251002691584-Aupi",
     "https://www.linkedin.com/posts/徹-高島-09388247_タイムマネジメント-売上最大化-activity-7078943552029822976-UYuy",
-    "https://jp.linkedin.com/learning/excel-charts-365-2019/2935961",
-    "https://jp.linkedin.com/posts/itoan2018_第2回値上げできる会社に共通するもの-原価管理という切り口-activity-7489969865198292992-CeS9"
+    "https://jp.linkedin.com/learning/excel-data-analysis-365-2019/2935961",
+    "https://jp.linkedin.com/learning/excel-2016-charts/692002"
    ]
   },
   {
    "query": "site:facebook.com 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）",
    "results": [
-    "https://www.facebook.com/higinbk.co.jp/posts/1127941051007001/",
+    "https://www.facebook.com/tb.net.jp/photos/5分でわかる理美容室の売上アップを目指すためにみるべきデータが公開されました第2回目の今回は客数の向上を考える時に役立つデータ分析方法をカルテ客数の向上を切り口/1006519741503473/",
     "https://www.facebook.com/mikagecpa/posts/2361347840666217/",
+    "https://www.facebook.com/higinbk.co.jp/posts/1127941051007001/",
     "https://www.facebook.com/NewsPicksStudios/videos/見たい数字を経営の意思決定に/2805985496448054/",
     "https://www.facebook.com/NewsPicksStudios/videos/見たい数字を経営の意思決定に/1132783659719527/",
-    "https://www.facebook.com/zaimuconsultant/videos/no60-成功の7つの法則①考え方行動能力の3軸でチェックする-売上がなければ給与はありません-売上向上のチェックポイントを3つの軸で見てみましょう考え方を手に/1841444286869865/",
-    "https://www.facebook.com/mediapost.info/posts/796812057003198/",
-    "https://www.facebook.com/spcyoshiya/photos/売上の集計や会議資料のたたき台作り-そんな業務をaiに任せることで時間と気持ちに余裕が生まれた-でもふと気づいた-これって効率化だけで終わらせるのはもったいない/1294519062690355/"
+    "https://www.facebook.com/mikagecpa/photos/有価証券金銭債権譲渡時の消費税課税売上割合の計算-5でよい場合加算しなくてよい場合株式など有価証券の譲渡や金銭債権の譲渡は消費税上非課税取引とされており課税売上/2361349773999357/",
+    "https://www.facebook.com/zaimuconsultant/videos/no60-成功の7つの法則①考え方行動能力の3軸でチェックする-売上がなければ給与はありません-売上向上のチェックポイントを3つの軸で見てみましょう考え方を手に/1841444286869865/"
    ]
   },
   {
@@ -297,12 +275,12 @@
     "https://note.com/constdx/n/n70a0a9dd2719",
     "https://www.careersync.jp/insights/personnel-cost-variance/",
     "https://note.com/e_ras_kozai/n/n2133799189af",
-    "https://note.com/tonarino_cfo/n/n3de662dda8cb",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://roumunews.jp/minimum-wage-business-model-design/",
+    "https://note.com/tonarino_cfo/n/n3de662dda8cb",
     "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
-    "https://biz.moneyforward.com/accounting/basic/14252/",
     "https://tenpo-syukyaku.com/2020/08/15/%E5%83%8D%E3%81%8D%E6%96%B9%E6%94%B9%E9%9D%A9%E3%81%A7%E4%B8%8A%E6%98%87%E3%81%97%E3%81%9F%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%A7%E3%82%AB/",
+    "https://roumunews.jp/minimum-wage-business-model-design/",
+    "https://note.com/shotaro_tanaka/n/n052bbc2f53ff",
     "https://emplay.jp/blog/sales-data-analysis-basics"
    ]
   },
@@ -317,7 +295,7 @@
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
     "https://openjicareport.jica.go.jp/pdf/1000043852_02.pdf",
     "https://www.jil.go.jp/institute/reports/2022/documents/0212.pdf",
-    "https://www.shinkibus.co.jp/index.html/kobe_kyotsujyosyasyo202601/info/philosophy/termsofuse/ir/finance/business/"
+    "https://www.super.or.jp/wp/wp-content/uploads/2024/02/NSAJ-Supermarket-hakusho2024.pdf"
    ]
   },
   {
@@ -328,22 +306,22 @@
     "https://www.linkedin.com/company/adp",
     "https://www.linkedin.com/company/prosperconsultingllc",
     "https://www.linkedin.com/company/system-six",
-    "https://www.linkedin.com/company/corporate-payroll-services_2",
-    "https://www.linkedin.com/company/equity-methods",
-    "https://www.linkedin.com/company/federal-reserve-bank-of-new-york",
     "https://www.linkedin.com/company/employees-retirement-system-of-texas",
-    "https://www.linkedin.com/company/rudd-and-company-pllc"
+    "https://www.linkedin.com/company/federal-reserve-bank-of-new-york",
+    "https://www.linkedin.com/company/corporate-payroll-services_2",
+    "https://www.linkedin.com/in/petegracey",
+    "https://www.linkedin.com/company/equity-methods"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ26頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ26頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）",
+  "実例": "記載なし（読んだ26頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-05T16:50:39.740528+00:00"
 }

@@ -515,7 +515,7 @@
   - 「ステップ4（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「ステップ5（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「ステップ6（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
-  - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「クマに遭遇しても｢車内だから安心｣は大間違い…ドアをこじ開け､侵入してきた｢人喰い熊｣から生き延びる方法」（https://president.jp/category/c05577）
 - 突き合わせ・推定：
   - 「生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「手順4：出力を一次資料で検証する」（https://note.com/irshukatsu/n/nec2070d76e3c）
@@ -555,15 +555,15 @@
   - 「生成AIの出力には誤りが含まれる可能性があります」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「ゴールデンクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「ゴールデンクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説ゴールデンクロスとは、短期移動平均線が長期移動平均線を下から上に突き抜けるタイミングのことで、上昇トレンドへの転換を示す可能性があるサインとして知られています」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「クマに遭遇しても｢車内だから安心｣は大間違い…ドアをこじ開け､侵入してきた｢人喰い熊｣から生き延びる方法」（https://president.jp/category/c05577）
+  - 「高配当株とは？メリット・注意点をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「高配当株とは？メリット・注意点をわかりやすく解説「高配当株って人気だけど、実際どういう株なの？」「配当金だけで生活できる？」「利回りが高いほど良いの？」高配当株は個人投資家の間で根強い人気があります」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「⇒連結子会社が多いほど、単体とのズレに注意」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「＜チェックポイント＞財務依存型企業に注意」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「金利負担に注意！」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「M&A失敗・のれん減損リスク」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「初心者が最初にやるべき失敗は、頭から全部読もうとすることです」（https://note.com/f_bby__shota/n/nee46643ea909）
   - 「AIの推測をそのまま鵜呑みにするのではなく、どの数字やどの記載から、その推測に至ったのかを確認する習慣をつけることで、自分自身の読解力も同時に鍛えられます」（https://note.com/f_bby__shota/n/nee46643ea909）
-  - 「ここまでAIの活用法を紹介してきましたが、一点、注意が必要です」（https://note.com/f_bby__shota/n/nee46643ea909）
-  - 「探すときの注意」（https://note.com/irshukatsu/n/n426fc7c8c112）
-  - 「ここで最も重要な注意点がある」（https://note.com/irshukatsu/n/n426fc7c8c112）
 - 実例：
   - 「Mahindra & Mahindra's FY26 annual report as the example: its exact name, the year to 31 Mar 2026, the filing on NSE's archive (4 Jul 2026) and the unit, ₹ crore.」（https://mrchartist.com/learn/start/how-to-read-an-annual-report）
   - 「特別利益・特別損失とは？純利益への影響と決算での見方を解説「今期は最終利益が大幅増益だったのに、本業はそれほど変わっていない」——決算を見ていて、こうしたケースに出会うことがあります」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
@@ -2832,8 +2832,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
@@ -4230,11 +4230,11 @@
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -6237,6 +6237,7 @@
   - 「大切なのは、「いつの・どの情報を・何のために」から手段を逆算する視点です」（https://blog.roborobo.co.jp/compliance/kanpo-where）
   - 「2025年時点の推計では、決算公告を履行している中小企業は全体の数パーセント程度とされています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
+  - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 一次情報の探し方：
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6285,6 +6286,9 @@
   - 「目視だけの時代は、大量の検索結果を上から順に潰していくしかありませんでした」（https://blog.roborobo.co.jp/compliance/kanpo-where）
   - 「以前は新聞記事の検索とGoogle検索を別々に回し、結果をPDF化してフォルダ分けする証跡保存にも相当な時間をとられていたそうです」（https://blog.roborobo.co.jp/compliance/kanpo-where）
   - 「しかし実際には、掲載期間が終了した後にページが削除されるケースもあるため、過去の決算公告を遡って確認できない場合があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
+- 検索結果の抜粋：
+  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 最終更新: 2026-06-25 取引先や競合企業の財務状況を確認したいとき、「官報に載っている決算公告はどうやって見ればいいのか」と困った経験はないでしょうか。株式会社は会社法440条により決算公告が義務付けられており、多くの企業が官報を公告媒体として選択しています。しかし、いざ ...」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 決算公告を官報で閲覧する5つの方法を徹底解説。インターネット版官報・官報検索サービス・官報決算データベースの使い方と2025年電子化の影響を比較表付きで紹介。」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 
 ## アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析）（anchoring bias analyst research first number prevention）
 - 文脈：失敗
@@ -7471,7 +7475,7 @@
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「仮に調査の結果，自社の」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ

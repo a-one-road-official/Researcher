@@ -8,7 +8,7 @@
  ],
  "context": "手順",
  "kind": "market",
- "researched_at": "2026-11-06T13:56:48.446699+00:00",
+ "researched_at": "2026-11-06T17:48:25.285966+00:00",
  "evidence": {
   "実例": [
    {
@@ -156,6 +156,14 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "索・特許情報調査を行う上でその動向には注意を払っ",
+    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "【検索技術者検定】2級の出るとこだけ記述予想30題（ライフサイエンス・特許・ビジネス・図書館情報の4分野＋分野共通）！2026年度版｜直前ノート",
@@ -627,39 +635,11 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "索・特許情報調査を行う上でその動向には注意を払っ",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
-   {
-    "url": "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/asada727/n/n31202118f3c0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ykfk/n/n98bb936ca3e4",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/anbou_navi/n/nc974b9b9a99c",
-    "status": "ok",
-    "method": "http"
-   },
    {
     "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
     "status": "ok",
@@ -671,47 +651,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/nb76578012bda",
+    "url": "https://note.com/anozaki/n/nc2575f2b88c3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.inpit.go.jp/content/100881807.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://support.patentfield.com/portal/ja/kb/articles/ai%E3%82%BB%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%A4%9C%E7%B4%A2",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://itpat-info.com/search-site-list/",
+    "url": "https://note.com/kensho_note/n/n80379e531cfb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ipcc/n/n29adfa77345e",
+    "url": "https://note.com/tsunobuchi/n/ne332b05845bb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://zelojapan.com/lawsquare/64916",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nakajimaip.jp/tokkyochosa/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jpo.go.jp/support/general/searchportal/index.html",
+    "url": "https://note.com/darksaido/n/n2e195fbb4a38",
     "status": "ok",
     "method": "http"
    },
@@ -731,22 +686,7 @@
     "method": "http"
    },
    {
-    "url": "https://nihon-ir.jp/patent-search-formula/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ip-searcher.jp/archives/kensakukouza/kandokoro7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://paper-search-jp.vercel.app/guides/how-to-search",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.editage.jp/blog/how-to-choose-and-use-keywords-in-research-papers/",
     "status": "ok",
     "method": "http"
    },
@@ -756,27 +696,12 @@
     "method": "http"
    },
    {
-    "url": "https://eureka.patsnap.com/resources/blog/articles/patent-search-strategy/",
+    "url": "https://help.jamas.or.jp/personal/ascCreate.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://guides.lib.uconn.edu/systematic_searching/developing",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6148622/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.questel.com/resourcehub/patent-search-techniques-five-high-level-steps-in-search-strategy-building/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://uottawa.libguides.com/c.php?g=409395&p=2819890",
+    "url": "https://www.editage.jp/blog/how-to-choose-and-use-keywords-in-research-papers/",
     "status": "ok",
     "method": "http"
    },
@@ -784,6 +709,31 @@
     "url": "https://www.cas.org/resources/article/enhancing-patent-search-strategies",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.uspto.gov/patents/search/patent-search-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lexology.com/library/detail.aspx?g=35b2e1db-7807-4f97-b032-e00b90186764",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://patentlawyermagazine.com/enhancing-patent-search-strategies-methods-and-best-practices-for-ip-professionals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eureka.patsnap.com/resources/blog/articles/patent-search-strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scispace.com/agents/patent-search-strategy-builder-iawzmp7h",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -791,15 +741,12 @@
   {
    "query": "分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書） site:note.com",
    "results": [
-    "https://note.com/ego_station/n/nf3a2411b4a6e",
-    "https://note.com/asada727/n/n31202118f3c0",
-    "https://note.com/ykfk/n/n98bb936ca3e4",
-    "https://note.com/anbou_navi/n/nc974b9b9a99c",
     "https://note.com/chokuzen_note/n/n19c06bc6faba",
     "https://note.com/tsunobuchi/n/n912e60211fb8",
     "https://note.com/anozaki/n/nc2575f2b88c3",
     "https://note.com/kensho_note/n/n80379e531cfb",
     "https://note.com/tsunobuchi/n/ne332b05845bb",
+    "https://note.com/darksaido/n/n2e195fbb4a38",
     "https://note.com/katakoto_dr/n/n90f665e9372d"
    ]
   },
@@ -807,88 +754,84 @@
    "query": "分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書） note",
    "results": [
     "https://note.com/tsunobuchi/n/n912e60211fb8",
-    "https://note.com/tsunobuchi/n/nb76578012bda",
-    "https://www.inpit.go.jp/content/100881807.pdf",
-    "https://www.youtube.com/watch?v=J_4bMY6PaGw",
-    "https://support.patentfield.com/portal/ja/kb/articles/ai%E3%82%BB%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%A4%9C%E7%B4%A2",
-    "https://itpat-info.com/search-site-list/",
-    "https://note.com/ipcc/n/n29adfa77345e",
-    "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "https://japio.or.jp/00yearbook/files/2010book/10_3_08.pdf",
-    "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/"
+    "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/",
+    "https://www.conolab.co.jp/lit-search/",
+    "https://www.jpds.co.jp/ip_information/search/002_2.html",
+    "https://paper-search-jp.vercel.app/guides/how-to-search",
+    "https://help.jamas.or.jp/houjin/ascCreate.html",
+    "https://note.com/tsunobuchi/n/ne332b05845bb"
    ]
   },
   {
    "query": "分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書） やり方",
    "results": [
-    "https://www.youtube.com/watch?v=J_4bMY6PaGw",
-    "https://www.inpit.go.jp/content/100881807.pdf",
-    "https://support.patentfield.com/portal/ja/kb/articles/ai%E3%82%BB%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%A4%9C%E7%B4%A2",
-    "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
+    "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/",
+    "https://www.conolab.co.jp/lit-search/",
+    "https://www.jpds.co.jp/ip_information/search/002_2.html",
+    "https://paper-search-jp.vercel.app/guides/how-to-search",
     "https://note.com/tsunobuchi/n/n912e60211fb8",
-    "https://zelojapan.com/lawsquare/64916",
-    "https://nakajimaip.jp/tokkyochosa/",
-    "https://www.youtube.com/watch?v=p03tUHwkOAQ",
-    "https://www.jpo.go.jp/support/general/searchportal/index.html",
-    "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/"
+    "https://help.jamas.or.jp/houjin/ascCreate.html",
+    "https://help.jamas.or.jp/personal/ascCreate.html"
    ]
   },
   {
    "query": "分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書） 事例",
    "results": [
-    "https://www.youtube.com/watch?v=J_4bMY6PaGw",
-    "https://www.inpit.go.jp/content/100881807.pdf",
-    "https://www.jpo.go.jp/support/general/searchportal/index.html",
-    "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
+    "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/",
+    "https://www.conolab.co.jp/lit-search/",
+    "https://paper-search-jp.vercel.app/guides/how-to-search",
+    "https://www.jpds.co.jp/ip_information/search/002_2.html",
     "https://note.com/tsunobuchi/n/n912e60211fb8",
-    "https://nakajimaip.jp/tokkyochosa/",
-    "https://support.patentfield.com/portal/ja/kb/articles/ai%E3%82%BB%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%A4%9C%E7%B4%A2",
-    "https://nihon-ir.jp/patent-search-formula/",
-    "https://www.ip-searcher.jp/archives/kensakukouza/kandokoro7",
-    "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/"
+    "https://www.editage.jp/blog/how-to-choose-and-use-keywords-in-research-papers/",
+    "https://help.jamas.or.jp/houjin/ascCreate.html"
    ]
   },
   {
    "query": "building synonym lists across domains patent vs paper terminology search strategy",
    "results": [
-    "https://www.patsnap.com/resources/blog/articles/patent-search-strategy/",
-    "https://guides.lib.uconn.edu/systematic_searching/developing",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6148622/",
-    "https://www.questel.com/resourcehub/patent-search-techniques-five-high-level-steps-in-search-strategy-building/",
-    "https://uottawa.libguides.com/c.php?g=409395&p=2819890",
-    "https://www.youtube.com/watch?v=s2HYZQs3KPY",
     "https://www.cas.org/resources/article/enhancing-patent-search-strategies",
-    "https://libguides.unbc.ca/KnowledgeSynthesis/searchterms",
-    "https://sagaciousresearch.com/blog/keyword-sets-in-patent-search",
-    "https://patentlawyermagazine.com/enhancing-patent-search-strategies-methods-and-best-practices-for-ip-professionals/"
+    "https://www.uspto.gov/patents/search/patent-search-strategy",
+    "https://www.lexology.com/library/detail.aspx?g=35b2e1db-7807-4f97-b032-e00b90186764",
+    "https://patentlawyermagazine.com/enhancing-patent-search-strategies-methods-and-best-practices-for-ip-professionals/",
+    "https://www.patsnap.com/resources/blog/articles/patent-search-strategy/",
+    "https://scispace.com/agents/patent-search-strategy-builder-iawzmp7h",
+    "https://www.patsnap.com/resources/blog/articles/open-patent-search-techniques/"
    ]
   },
   {
    "query": "site:note.com 分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書）",
-   "results": []
+   "results": [
+    "https://note.com/tsunobuchi/n/n912e60211fb8",
+    "https://note.com/anozaki/n/nc2575f2b88c3",
+    "https://note.com/chokuzen_note/n/n19c06bc6faba",
+    "https://note.com/anozaki/n/ncd0f5885c3af",
+    "https://note.com/tsunobuchi/n/ne332b05845bb",
+    "https://note.com/kensho_note/n/n80379e531cfb",
+    "https://note.com/darksaido/n/n2e195fbb4a38"
+   ]
   },
   {
    "query": "site:x.com 分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書）",
    "results": [
-    "https://help.x.com/ja/using-x/top-search-results-faqs",
-    "https://x.com/kazunori_279/status/2056900749599350785",
-    "https://x.com/_stakaya/status/2083016744021672066",
     "https://help.x.com/ja/using-x/x-advanced-search",
-    "https://x.com/mimilydesign/status/2080265420192333868",
+    "https://x.com/kazunori_279/status/2056900749599350785",
     "https://x.com/bluebacks_pub/status/2065716796167180538",
+    "https://help.x.com/ja/using-x/top-search-results-faqs",
+    "https://x.com/_stakaya/status/2083016744021672066",
+    "https://x.com/ishigurokei/status/2068147853084758097",
     "https://x.com/genkAIjokyo/status/2102189637091594691"
    ]
   },
   {
    "query": "site:linkedin.com 分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書）",
    "results": [
-    "https://in.linkedin.com/company/meilgroupofficial",
-    "https://www.linkedin.com/help/linkedin/answer/a524335?lang=ja",
     "https://jp.linkedin.com/learning/learning-linkedin-recruiter-2025/4030434",
-    "https://jp.linkedin.com/posts/hiroyuki-miura-7868aa207_ragの挙動を見ているとモデルよりも検索対象をどう設計しているかで結果が揺れる-activity-7426414541548306432-8LtG",
+    "https://www.linkedin.com/help/linkedin/answer/a524335?lang=ja",
+    "https://www.linkedin.com/help/linkedin/answer/a525054?lang=ja",
+    "https://in.linkedin.com/company/meilgroupofficial",
     "https://jp.linkedin.com/pulse/共起語を意識するだけで上位表示検索エンジンが求める文章の作り方-剛-柏崎-haprc",
-    "https://www.linkedin.com/posts/yoshiyuki-ose-0251ba20a_サマリア機能アップデートのご案内-分類作成機能の分類観点を新たに追加しました-activity-7187972703243440130-DR0c",
-    "https://jp.linkedin.com/pulse/医学論文検索におけるai活用新時代の研究効率化への道筋-誠一郎-毎熊-jvigc"
+    "https://jp.linkedin.com/posts/hiroyuki-miura-7868aa207_ragの挙動を見ているとモデルよりも検索対象をどう設計しているかで結果が揺れる-activity-7426414541548306432-8LtG",
+    "https://jp.linkedin.com/pulse/google-search-operators-master-your-searching-sree-datta-1f?tl=ja"
    ]
   },
   {
@@ -897,689 +840,53 @@
     "https://www.facebook.com/jikkenigaku/posts/こんにちは実験医学の人気連載が待望の単行本となった話題の新刊アカデミアの泳ぎ方をご紹介しますアカデミアの泳ぎ方研究の世界に生きるための哲学と実践谷内江-望著研究/1589058893221815/",
     "https://www.facebook.com/bookprinting.iword/videos/自分の専門分野は特殊だがこちらの意図通りに組版してもらえるだろうか-特殊文字や多言語を正確に組版編集してくれる出版社はあるのだろうか-このようなお困りごとから研/1618364542972529/",
     "https://www.facebook.com/100057415630990/posts/当分野の大学院生の吉中が執筆した論文が掲載されました掲載誌geriatrics論文タイトルtongue-strength-of-older-adults-req/813387127251801/",
-    "https://www.facebook.com/CSISut/posts/関本教授の研究グループの3本の論文がwileyのtop-viewed-article-2025に選ばれましたtop-viewed-article-2025は各ジ/1511693180754077/",
-    "https://www.facebook.com/GeroNurs.TMDU/posts/論文掲載のお知らせ当分野の緒方教授と佐々木美准教授大学院生-藤芳絢乃さんらの論文がcureusに掲載されました論文developing-a-revised-sh/1360086399069811/",
     "https://www.facebook.com/3anet.jp/posts/it分野などの語彙を新たに収録翻訳にベトナム語を追加新刊改訂版-分野別カタカナ語彙トレーニングhttpswww3anetcojpnpbooks3591掲載語彙数/2243879019040617/",
-    "https://www.facebook.com/cbs.information/posts/ビジネススクール大学院戦略経営研究科ｍｂａプログラム２０１２年度３月修了生のうち優秀論文に選出された方々をご紹介いたします専門分野戦略前田-洋研究論文中国におけ/495952010463077/"
+    "https://www.facebook.com/cbs.information/posts/ビジネススクール大学院戦略経営研究科ｍｂａプログラム２０１２年度３月修了生のうち優秀論文に選出された方々をご紹介いたします専門分野戦略前田-洋研究論文中国におけ/495952010463077/",
+    "https://www.facebook.com/GeroNurs.TMDU/posts/論文掲載のお知らせ当分野の緒方教授と佐々木美准教授大学院生-藤芳絢乃さんらの論文がcureusに掲載されました論文developing-a-revised-sh/1360086399069811/",
+    "https://www.facebook.com/CSISut/posts/関本教授の研究グループの3本の論文がwileyのtop-viewed-article-2025に選ばれましたtop-viewed-article-2025は各ジ/1511693180754077/"
    ]
   },
   {
    "query": "分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書） note 社長",
    "results": [
+    "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/",
+    "https://www.conolab.co.jp/lit-search/",
     "https://note.com/tsunobuchi/n/n912e60211fb8",
-    "https://note.com/tsunobuchi/n/nb76578012bda",
-    "https://www.inpit.go.jp/content/100881807.pdf",
-    "https://www.youtube.com/watch?v=p03tUHwkOAQ",
-    "https://note.com/ipcc/n/n29adfa77345e",
-    "https://itpat-info.com/search-site-list/",
-    "https://support.patentfield.com/portal/ja/kb/articles/ai%E3%82%BB%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%A4%9C%E7%B4%A2",
-    "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "https://www.jpo.go.jp/support/general/searchportal/index.html",
-    "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/"
+    "https://www.jpds.co.jp/ip_information/search/002_2.html",
+    "https://paper-search-jp.vercel.app/guides/how-to-search",
+    "https://help.jamas.or.jp/houjin/ascCreate.html",
+    "https://www.editage.jp/blog/how-to-choose-and-use-keywords-in-research-papers/"
    ]
   },
   {
    "query": "分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書） X 投稿",
    "results": [
-    "https://www.inpit.go.jp/content/100881807.pdf",
-    "https://www.youtube.com/watch?v=J_4bMY6PaGw",
+    "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/",
+    "https://www.conolab.co.jp/lit-search/",
+    "https://paper-search-jp.vercel.app/guides/how-to-search",
+    "https://www.jpds.co.jp/ip_information/search/002_2.html",
     "https://note.com/tsunobuchi/n/n912e60211fb8",
-    "https://support.patentfield.com/portal/ja/kb/articles/ai%E3%82%BB%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%A4%9C%E7%B4%A2",
-    "https://www.jpo.go.jp/support/general/searchportal/index.html",
-    "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "https://nakajimaip.jp/tokkyochosa/",
-    "https://nihon-ir.jp/patent-search-formula/",
-    "https://www.youtube.com/watch?v=p03tUHwkOAQ",
-    "https://ja.tesify.pro/bunken-kensaku-yarikata-2026/"
+    "https://help.jamas.or.jp/houjin/ascCreate.html",
+    "https://www.editage.jp/blog/how-to-choose-and-use-keywords-in-research-papers/"
    ]
   },
   {
    "query": "building synonym lists across domains patent vs paper terminology search strategy site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/chris-harrison-wipo_wipo-etutorial-on-patent-analytics-dl178-activity-7517863784347004928-zCwD",
-    "https://ca.linkedin.com/in/jashandeep-kaur-379427132",
-    "https://www.linkedin.com/posts/chinyereamadi_academic-research-engines-for-postgraduate-activity-7511710971510366210-KiR7",
-    "https://www.linkedin.com/in/nacsen",
-    "https://ch.linkedin.com/in/searchguy",
-    "https://www.linkedin.com/in/pablomendes",
-    "https://www.linkedin.com/in/mingyang-zhang",
-    "https://uk.linkedin.com/in/alvarobolivar",
-    "https://www.linkedin.com/in/edwardztan",
-    "https://www.linkedin.com/in/kun-lu-b94b8520"
+    "https://www.linkedin.com/pulse/beyond-synonym-maps-designing-self-healing-entity-resolution-zhang-bynmf",
+    "https://www.linkedin.com/pulse/how-ai-patent-search-transforming-intellectual-property-abdul-hafeez-de4tf",
+    "https://www.linkedin.com/posts/jonkarlin_patentlaw-ai-intellectualproperty-activity-7459673103674023936-RvL3",
+    "https://www.linkedin.com/pulse/patent-search-mistakes-startups-cant-afford-devin-miller-z8sle",
+    "https://www.linkedin.com/pulse/new-ai-powered-tools-faster-patent-strategy-development-vg8ye",
+    "https://www.linkedin.com/pulse/beyond-google-patents-advanced-patent-search-techniques-qlhxc",
+    "https://www.linkedin.com/pulse/transforming-patent-strategy-using-ai-associationofcorporatecounsel-vuhye"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ29頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ19頁・検索12回）"
  },
- "new_this_run": {
-  "実例": [
-   {
-    "quote": "Basic Search の記事では、特許番号や公開番号から素早く文献を探す方法、キーワードを使った基本検索、検索結果からPDFやテキストを確認する流れを解説しています",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Patent Public Searchでは、検索するだけでなく、検索結果を整理したり、文献を表示したり、タグを付けたりする機能も用意されています",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、検索結果の並べ替え、CSV出力、PDF表示、テキスト表示、引用・被引用文献の確認、Global Dossierによる特許ファミリー確認などを解説しています",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "簡易サーチの記事では、検索窓にキーワードや番号を入力して検索する基本操作、検索結果画面の見方、特許表示画面の読み方を解説しています",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "キーワード検索、詳細検索、論理演算、検索結果の見方、本文PDF、参考文献・被引用文献、CSV出力による文献管理まで、操作画面を交えて説明します",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、キーワード検索、詳細検索、論理演算、検索結果の見方、本文PDFへのアクセス、参考文献・被引用文献、CSV出力による文献管理などを解説しています",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、PubMed の Basic Search について、キーワードを入力して、論文を検索し、検索結果を絞り込み、論文を読み、保存し、CSV出力するところまでを解説します",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例題で解説する J-PlatPat の使い方 (5) ―― 検索結果をもっと絞る",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "J-PlatPatで検索結果を効率よく絞り込む方法を解説",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（６） 調査結果の整理・保存",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "４．特許検索マトリックスを用いた検索の実例",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "を用いた特許情報調査の実例について紹介した",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "6.1年前に既に公開されているという驚くべき結果が",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし，審査の結果，特許が付与されたの",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "仮に調査の結果，自社の",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば自社事業を実施する上で障害となる問題特",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ツールやテーマ別に設けた検索実例や検索手法等をま",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば下記のようなキーワード群をANDとORを",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査結果は文書作成ソフトや表計算ソフト等にてレ",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・調査結果（結論，抽出特許番号）",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（図14：検索式例②の公報テキスト検索結果画面）",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索式例③の検索結果は40件， 検索式例④の検索結",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "なお検索キー洗い出しの結果，滑り止めマンホール",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "で検索した結果ヒットした1件の 抄録画面を図18に",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "【検索技術者検定】2級の出るとこだけ記述予想30題（ライフサイエンス・特許・ビジネス・図書館情報の4分野＋分野共通）！2026年度版｜直前ノート",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【検索技術者検定】2級の出るとこだけ記述予想30題（ライフサイエンス・特許・ビジネス・図書館情報の4分野＋分野共通）！2026年度版",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索技術者検定2級の勉強を一通り終えても、PubMed と Embase の使い分け、FI・Fタームを使った特許の検索式、法人番号公表サイトと EDINET で分かる情報の違いなど、情報源の正式な名前と調べ方を答案に書く段階で手が止まることはありませんか？",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ライフサイエンス・特許・ビジネス・図書館情報の4分野と分野共通の記述予想30題",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※最下部のボタンからPDFを購入後、1分で解き始められます",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "分野はライフサイエンス・特許・ビジネス・図書館情報の4つで、受験の手引きでは、自分の得意とする分野での検索能力を問う問題が出題され、公式推奨参考書に書かれていないシステムやデータベースの知識も求められるとされています",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第1回は、ライフサイエンス・特許・ビジネス・図書館情報の4分野から1題ずつと、分野共通から2題の、合わせて6題です",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "各回の問題1〜4は、ライフサイエンス・特許・ビジネス・図書館情報の4分野から1題ずつで、臨床試験の論文探し、特許の先行技術調査と無効資料調査、取引先や市場の規模の調べ方、作家の作品や地域の古い出来事の調べ方などを扱います",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※問題集PDFはこの下のボタンから購入・ダウンロードできます",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索技術者検定の準2級と2級の対策PDFを2点まとめたマガジンです",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "『2級の出るとこだけ記述予想30題（ライフサイエンス・特許・ビジネス・図書館情報の4分野＋分野共通）』",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※このマガジンの問題集は、各記事からPDFでダウンロードしてお使いください",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "初心者のための特許・論文検索ツールまとめ ―― USPTO Patent Public Search、Google Patents、Espacenet、PATENTSCOPE、Google Scholar、CiNii Research、PubMed の使い方 | HighTechPatent",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "初心者のための特許・論文検索ツールまとめ ―― USPTO Patent Public Search、Google Patents、Espacenet、PATENTSCOPE、Google Scholar、CiNii Research、PubMed の使い方",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、当サイトに掲載している特許・論文検索ツールに関する記事を、初心者にも分かりやすい順番でまとめます",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "USPTO Patent Public Search、Google Patents、Espacenet、PATENTSCOPEなどの特許検索ツール、Google Scholar、CiNii Research、PubMedなどの学術文献検索ツール、そして特許検索に必要な特許分類について、目的に応じてどの記事を読めばよいかを案内します",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これから特許調査を始める方、AppleやGoogleなどの先端IT企業の特許を調べたい方、論文と特許を組み合わせて技術動向を把握したい方に向けた入口となるページです",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、USPTO Patent Public Search とは何か、Basic Search と Advanced Search の違い、Google Patents で世界の特許を検索する方法、Espacenet や PATENTSCOPE を使う場面、Google Scholar などで論文を探す方法、そしてIPC、CPC、FI、Fタームといった特許分類の基本が分かります",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、初めて特許検索を学ぶ人が、どの記事から読めばよいのかも分かるように整理しています",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許・論文検索ツールは、大きく分けると以下のテーマに整理できます",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許番号で特定の文献を探したり、キーワードや出願人名、特許分類を使って関連する特許を検索したりするためのツールです",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許だけでは分からない技術背景、研究論文、関連する学術情報を確認するために役立ちます",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許調査と論文調査を組み合わせると、技術の理解が一段深くなります",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "キーワードだけでは見つけにくい特許を、技術分野ごとの分類記号から探すための基礎知識です",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許検索の精度を上げたい人にとって、分類の理解は避けて通れません",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "USPTO Patent Public Search の使い方 (1) ―― 簡易検索 ベーシックサーチ（Basic Search）で米国特許を検索する方法",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "USPTO（米国特許商標庁）Patent Public Searchのベーシックサーチ（簡易検索機能）の使い方についての解説です",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "２．特許情報調査の基礎",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（１） 特許情報の特徴",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（２） 特許情報調査の目的と種類",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "３．特許情報調査のステップ",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "４．特許検索マトリックスを用いた検索の実例",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（１） 特許検索マトリックスの利用",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "５．無料で利用できる海外特許検索データベース",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PropertyOrganization）の統計",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "への特許出願を見ると2001年の約12万件から，2011",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "の海外への特許出願の増加は，このような動きを示唆",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "弁理士が知っておきたい国内外特許情報調査の基礎知識",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "全世界特許出願件数は10年前の約1.4倍の規模に拡大しており，特に米国・中国における件数の伸びが著",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "保護の観点から諸外国における特許の出願・権利化活動が欠かせない",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "先行技術調査は，グローバル展開に伴う海外出願を念頭に置き出願当初から海外特許も含めて調査を行う必要",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本稿では特許情報調査を行う上で必要となる，特許情報の特徴，調査の目的と種類，そして特許情報調査の",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "検索技術者検定2級は、準2級に合格した人が受験する記述式の試験で、全国のテストセンターのコンピュータで解答する会場型CBTです",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2023年度の筆記の試験問題では、5つの分野の題から1題を選ぶ大問と、調査の進め方や用語の説明の2題から1題を選ぶ大問を、60分で解く形でした",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会場型CBTになってからの大問の数と選び方は、公式サイトでは示されていません",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "申込方法と受験日は、協会の「検索技術者検定 1級・2級・準2級」のページで確かめてください",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ライフサイエンス：2型糖尿病の薬の臨床試験を探す",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "開発部門から「2型糖尿病の患者に SGLT2 阻害薬を使ったランダム化比較試験の論文を、海外と国内の両方から集めてほしい",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "各回の問題5・6は分野共通の2題で、検索インタビュー、再現率と適合率の計算、検索式の組み立て、シソーラス、文献の複写と著作権、生成AIの使い方、オープンアクセスとプレプリント、DOI・ORCID などの用語の説明を答案に書いて確認できます",
-    "url": "https://note.com/chokuzen_note/n/n19c06bc6faba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "初心者のための特許・論文検索ツールまとめ ―― USPTO Patent Public Search、Google Patents、Espacenet、PATENTSCOPE、Google Scholar、CiNii Research、PubMed の使い方 | HighTechPatent",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "初心者のための特許・論文検索ツールまとめ ―― USPTO Patent Public Search、Google Patents、Espacenet、PATENTSCOPE、Google Scholar、CiNii Research、PubMed の使い方",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、USPTO Patent Public Search とは何か、Basic Search と Advanced Search の違い、Google Patents で世界の特許を検索する方法、Espacenet や PATENTSCOPE を使う場面、Google Scholar などで論文を探す方法、そしてIPC、CPC、FI、Fタームといった特許分類の基本が分かります",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "USPTO Patent Public Search の使い方 (1) ―― 簡易検索 ベーシックサーチ（Basic Search）で米国特許を検索する方法",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "USPTO（米国特許商標庁）Patent Public Searchのベーシックサーチ（簡易検索機能）の使い方についての解説です",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Basic Search の記事では、特許番号や公開番号から素早く文献を探す方法、キーワードを使った基本検索、検索結果からPDFやテキストを確認する流れを解説しています",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "USPTO Patent Public Search の使い方 (2) ―― 詳細検索 アドバンスサーチ（Advanced Search）で米国特許を検索する方法",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "USPTO（米国特許商標庁）のPatent Public Searchのアドバンスサーチ（詳細検索機能）の使い方についての解説です",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Advanced Search の記事では、検索フィールドや検索式の使い方を解説しています",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "USPTO Patent Public Search の使い方 (3) ―― Search Result, Document Viewer, Tagged Documents, Global Dossier",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "前回までは、特許番号・公開番号やキーワードによる検索から、検索式を入力して目的の特許公報を表示する方法についての解説を...",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Google Patents の使い方 (1) ―― 簡易サーチ（Basic Search）で世界中の特許を検索する方法",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Google Patents の使い方 (2) ―― 詳細サーチ（Advanced Search）で世界中の特許を検索する方法",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、Google Patents で使える詳細検索の考え方や、検索条件の指定方法を学べます",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Espacenetの使い方 (1) ── 簡易検索 スマートサーチ（Smart Search）で特許を検索する方法",
-    "url": "https://itpat-info.com/search-site-list/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "３．特許情報調査のステップ",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（２） 調査方法の検討",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（43）未審査の特許文献が，印刷または同様の方法により公衆",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（図６：特許情報調査のステップ）",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査対象技術を明確化した次のステップは調査方法",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ム，画像出力方法などプリンタと同義のキーワードを",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "キーワードや特許分類を選定する方法として，関連",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "出する方法としては，事典検索システムCyclone",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また特許分類を抽出する方法としてはかんたん特許検",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・調査方法（調査対象国・期間，データベース等）",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3章にて説明した特許情報調査のステップのうち，",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ステップ1として調査対象の明確化を行い，網掛け",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "図7で 演算子OR・AND の利用方法について説明",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そして特許情報調査のステップといった基礎知識につ",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "索・特許情報調査を行う上でその動向には注意を払っ",
-    "url": "https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-06T13:56:48.446699+00:00"
 }
