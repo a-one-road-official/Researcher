@@ -1,0 +1,1014 @@
+{
+ "name": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次）",
+ "en": "METI production dynamics statistics dies and molds annual production value",
+ "aliases": [
+  "生産動態統計 金型 年報 生産金額",
+  "経済産業省 機械統計 金型 年次 推移 site:meti.go.jp"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T20:49:30.507825+00:00",
+ "evidence": {
+  "生産能力・設備": [
+   {
+    "quote": "参考_機械統計等生産能力指数 (Excel形式：20KB前後)",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：約1600品目の鉱工業製品の生産・出荷・在庫の数量や金額、労務（月末従事者）及び生産能力・設備などを、109種類の調査票により、毎月調べています",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 経済産業統計協会から国内製品の生産・受入・出荷・在庫、他の製品の原材料・加工用として消費した数量、各部門の月末従事者数、工場設備の生産能力指数など掲載する「2024年生産動態統計年報（機械）」発行のお知らせです",
+    "url": "https://www.jmf.or.jp/related-cat/3205/",
+    "pass": 3
+   },
+   {
+    "quote": "確報（３）生産能力統計",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(1090_鉄鋼月報（その９）労務・生産能力)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "（４）生産能力・設備欄",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２短繊維の生産能力には、アクリル短繊維、ポリエステ",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※８．「1090」は、「1010～1060」と同封される調査票であり、月末従事者数及び月間生産能力のみを調査している",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "90」は、「1010～1060」と同封される調査票であり、月末従事者数及び月間生産能力のみを調査している",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※．「1090」は、「1010～1060」と同封される調査票であり、月末従事者数及び月間生産能力のみを調査している",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "参考_時系列表 Reference The time series",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "pass": 3
+   },
+   {
+    "quote": "参考_時系列表 (Excel形式：4MB前後)",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年年間補正号",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月分確報",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "pass": 3
+   },
+   {
+    "quote": "【品目別接続係数表】2021年年間補正",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "pass": 3
+   },
+   {
+    "quote": "○2020年以前の年報(Excel、PDF)はこちら",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "pass": 3
+   },
+   {
+    "quote": "03. 「時系列表」とはなんですか？",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：2022年（令和4年）時点では約13,000事業所が調査対象となっていました",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：2022年（令和4年）時点では約95％でした",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2022年（令和4年）調査では、報告者負担の軽減等を考慮して、対象事業所が2事業所以下となっている等の理由により秘匿されている品目のうち、20品目を廃止し、34品目を統合し、3品目を秘匿解除しました",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：参考_時系列表とは、生産動態統計調査で調査している全品目（約1600品目）の当月及び過去60か月分の時系列データを、共通的な項目である生産・販売・在庫に限定して掲載している参考資料です",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：「統計表一覧」というページで、速報、確報、時系列表、年報を掲載しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "年報は、1989年（平成元年）～2006年（平成18年）はPDF形式のみ、2007年（平成19年）～2020年（令和2年）はEXCEL形式とPDF形式で掲載しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和3年）に年報の様式を修正して確報で掲載している全ての品目を一表にまとめましたので、2021年（令和3年）以降の年報ではPDF形式での掲載は行わずEXCEL形式のみで掲載しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "2007年（平成19年）～2020年（令和2年）の年報（EXCEL形式及びPDF形式）（",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/nenpo_2007-2020.html",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和3年）以降の年報（EXCEL形式）（",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産動態統計の時系列データの観察目的の1つは、経済要因による変動をみることですので、これら経済要因ではない理由により発生した断層は、便宜的に処理して現在の数値を過去の数値と比較することができるようにする必要があります",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：「接続係数（リンク係数）」の使用方法については、時系列表（61か月表）に詳細が掲載されています",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "「年間補正」済みの数値は、翌年の3月中旬に年間補正号及び時系列表（61か月表）で、また、翌年6月末に年報で公表しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "※「工業統計調査」は2020年調査（2019年実績）で廃止",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の調査（2021年実績）からは「製造業事業所調査」として実施されている",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "（2011年、2015年、2020年は旧工業統計調査が実施されなかった為、経済センサスを使用",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省生産動態統計調査 経済産業省生産動態統計 機械統計 確報（１）生産・出荷・在庫統計 主要製品統計表（時系列） ４０．マシニングセンタ 月次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822",
+    "pass": 3
+   },
+   {
+    "quote": "2010年 1月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 経済産業統計協会から国内製品の生産・受入・出荷・在庫、他の製品の原材料・加工用として消費した数量、各部門の月末従事者数、工場設備の生産能力指数など掲載する「2024年生産動態統計年報（機械）」発行のお知らせです",
+    "url": "https://www.jmf.or.jp/related-cat/3205/",
+    "pass": 3
+   },
+   {
+    "quote": "旧経済産業調査会（2024年3月解散）版は下記在庫があるもののみ当協会にて直販可能です",
+    "url": "http://www.etisa.or.jp/kikai-nen.htm",
+    "pass": 3
+   },
+   {
+    "quote": "年報(2021年以降)",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 年報",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 年報",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2025-06-30",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 年報",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2024-06-28",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 年報",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2023-06-30",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 年報",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2022-07-01",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2021-06-09",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "確報（１）主要製品統計表(時系列表)",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版",
+    "url": "http://www.etisa.or.jp/syoseki-itiran.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2020年基準",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（２）2020年出荷額推計に使用した動態統計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業製品の2020年出荷額は、2019年の『工業統計』の品目の出荷額に、『生産動態統計』等動態",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "統計の該当品目の計数から算出した2020年の前年比を乗じて推計している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "/ 年報 / 年報(2021年以降) / 2025年 年報",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 年報",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(1010_鉄鋼月報（その１）銑鉄・フェロアロイ・粗鋼・鋼半製品・鍛鋼品・鋳鋼品)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(1020_鉄鋼月報（その２）普通鋼熱間圧延鋼材)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(1040_鉄鋼月報（その４）普通鋼冷間仕上鋼材（線類を除く",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(1050_鉄鋼月報（その５）特殊鋼圧延鋼材)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(1060_鉄鋼月報（その６）鋼管)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(1070_鉄鋼月報（その７）磨棒鋼・線類・鋳鉄管・鉄鋼加工製品)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(1090_鉄鋼月報（その９）労務・生産能力)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(2010_機械器具月報（その１）ボイラ及び原動機（自動車用、二輪自動車用、鉄道車両用及び航空機用のものを除く))",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(2020_機械器具月報（その２）土木建設機械、鉱山機械及び破砕機)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(2030_機械器具月報（その３）化学機械及び貯蔵槽)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(2040_機械器具月報（その４）製紙機械、プラスチック加工機械、印刷・製版・製本及び紙工機械)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(2060_機械器具月報（その６）ポンプ、圧縮機及び送風機(自動車用、二輪自動車用及び航空機用のものを除く))",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(2070_機械器具月報（その７）油圧機器及び空気圧機器（航空機用のものを除く))",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表(2080_機械器具月報（その８）運搬機械及び産業用ロボット)",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "なお、事業所の新設や廃業などの経済活動を反映した動きについては、係数を用いて処理することは行っていません",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "また、対象事業所数が2事業所以下となった等の理由により報告事業所の機密保護が必要になった品目の集計値は秘匿とし、数値は公表せず「X」と表記しています",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "05. 法人番号欄はどうして追加されたのですか？",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "回答：本調査は、郵送での回答送付とインターネットでの回答送信の2種類の方法を用いていますが、インターネットで回答した人は約76％となっています",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本金型工業会では、以下の3つの公的統計調査を金型製造業関連の統計調査として、金型製造業向けとして編集して使用しています",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 経済産業統計協会から国内製品の生産・受入・出荷・在庫、他の製品の原材料・加工用として消費した数量、各部門の月末従事者数、工場設備の生産能力指数など掲載する「2024年生産動態統計年報（機械）」発行のお知らせです",
+    "url": "https://www.jmf.or.jp/related-cat/3205/",
+    "pass": 3
+   },
+   {
+    "quote": "28 公益財団法人古紙再生促進センター",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "35 一般社団法人日本アイスクリーム協会",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "36 一般社団法人日本アルミニウム合金協会",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "37 一般社団法人日本自動車部品工業会",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "38 一般財団法人日本水産油脂協会",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "39 公益社団法人日本水道協会",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "41 一般社団法人日本窯業外装材協会",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0301A 月末従業者数（Aプラスチック部門）",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0301B 月末従業者数（B合成ゴム部門）",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0301C 月末従業者数（C環式中間物部門） （廃止）",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0301D 月末従業者数（D芳香族部門） 合成ゴム部門 25005 合成ゴム部門",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0301E 月末従業者数（Eその他の石油化学製品部門） (特掲)石油化学製品部門＊2 （廃止）",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0301F 月末従業者数（F石油化学部門計） 無機薬品・火薬類部門 25010 無機薬品・火薬類部門",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※「月末従業者数（F石油化学部門系）（6100月報-",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50024 50024-人ケンアセテートオリ ㎡",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "そのため、工業統計の製造品出荷額に占める生産動態統計調査のカバレッジは約80％となっています",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます",
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "pass": 3
+   },
+   {
+    "quote": "（２）2020年出荷額推計に使用した動態統計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業製品の2020年出荷額は、2019年の『工業統計』の品目の出荷額に、『生産動態統計』等動態",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "i 年間出荷額が 100 億円未満の商品は対象外",
+    "url": "https://www.soumu.go.jp/main_content/001022513.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "iii 年間出荷額が 1000 億円以上の商品のう iii 年間出荷額が 500 億円以上の商品のう",
+    "url": "https://www.soumu.go.jp/main_content/001022513.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a. 年間出荷額が500 億円以",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "c. 基準（年間出荷額100 億",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "e. 基準（年間出荷額100 億",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ⅰ 年間出荷額が 100 億円未満の商品は対象外とする",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、年間出荷額が 100 億円未満の商品であっても、他に 100 億円を超える類似",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品がある場合や類似した複数の商品を統合して 100 億円を超える場合は、統合し",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、年間出荷額が 100 億円以上であっても急激な生産縮小が見られる商品につ",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ⅱ 年間出荷額が 100 億円以上の商品であっても秘匿処理が必要な商品については、",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ⅲ 年間出荷額が 500 億円以上の商品のうち、現在、生産動態統計調査で調査されて",
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "統計 表一覧（経済産業省 生産動態統計 — 統計 表一覧（経済産業省 生産動態統計 経済産業省 https://www.meti.go.jp > tyo > result > ichiran > 08_seidou",
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 経済産業省 生産動態統計 年報 機械統計 編 — 2024年 経済産業省 生産動態統計 年報 機械統計 編 経済産業統計協会 http://www.etisa.or.jp > kikai-nen",
+    "url": "http://www.etisa.or.jp/kikai-nen.htm",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省 生産動態統計 調査 経済 ... - e-Stat 政府統計の総合窓口 — 経済産業省 生産動態統計 調査 経済 ... - e-Stat 政府統計の総合窓口 政府統計の総合窓口 https://www.e-stat.go.jp > stat-search > database > cycle=1",
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "調査業務の完全外注化にあたり、それまで都道府県",
+    "url": "https://www.soumu.go.jp/main_content/001022513.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年からの完全外注化以降も、都道府県が地域",
+    "url": "https://www.soumu.go.jp/main_content/001022513.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "について回答しているが、外注化拡大の初年度となっ",
+    "url": "https://www.soumu.go.jp/main_content/001022513.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これについては、委託後も円滑に調査が実施されており、オンライン提出率等も外注委託",
+    "url": "https://www.soumu.go.jp/main_content/001022513.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA192QY0Z10C26A2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/topsurvey-2023/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1058_all.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/202605-kanagataseisan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmf.or.jp/related-cat/3205/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kikai-nen.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/syoseki-itiran.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/pdf/20nihon.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://books.google.com/books/about/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E7%94%9F%E7%94%A3%E5%8B%95%E6%85%8B%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1.html?id=KYLl0QEACAAJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corepost.co.uk/faced/t0e3a1c5u7p1f3u5l9s852",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_22/proceedings.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001022513.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/170602analysis-kanagata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/h2afdlde.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tradingeconomics.com/japan/industrial-production-mom",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.meti.go.jp/statistics/tyo/seidou/qa.html",
+    "https://www.nikkei.com/article/DGXZQOUA192QY0Z10C26A2000000/",
+    "https://kanagata-shimbun.com/topsurvey-2023/",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1058_all.pdf",
+    "https://www.pref.osaka.lg.jp/documents/26797/ugoki_20197-9_no508.pdf",
+    "https://www5.cao.go.jp/keizai3/2025/0210nk/pdf/n25_all.pdf"
+   ]
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） 受注残 人手不足",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822",
+    "https://kanagata-shimbun.com/202605-kanagataseisan/",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/kikai-nen.htm",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.jpc-net.jp/research/rd/db/"
+   ]
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "https://kanagata-shimbun.com/202605-kanagataseisan/",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "http://www.etisa.or.jp/syoseki-itiran.htm",
+    "https://www.meti.go.jp/statistics/tyo/seidou/index.html",
+    "https://www.stat.go.jp/data/nihon/pdf/20nihon.pdf"
+   ]
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "https://books.google.com/books/about/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E7%94%9F%E7%94%A3%E5%8B%95%E6%85%8B%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1.html?id=KYLl0QEACAAJ",
+    "http://www.etisa.or.jp/kikai-nen.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://corepost.co.uk/faced/t0e3a1c5u7p1f3u5l9s852"
+   ]
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "https://books.google.com/books/about/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E7%94%9F%E7%94%A3%E5%8B%95%E6%85%8B%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1.html?id=KYLl0QEACAAJ",
+    "http://www.etisa.or.jp/kikai-nen.htm",
+    "https://corepost.co.uk/faced/t0e3a1c5u7p1f3u5l9s852",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf"
+   ]
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "http://www.etisa.or.jp/syoseki-itiran.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_22/proceedings.pdf",
+    "https://www.mhlw.go.jp/toukei/list/105-1c.html",
+    "https://www.meti.go.jp/statistics/"
+   ]
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "http://www.etisa.or.jp/syoseki-itiran.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.soumu.go.jp/main_content/001022513.pdf",
+    "https://kanagata-shimbun.com/170602analysis-kanagata/"
+   ]
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "http://www.etisa.or.jp/syoseki-itiran.htm",
+    "https://www.soumu.go.jp/main_content/001068215.pdf"
+   ]
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "http://www.etisa.or.jp/syoseki-itiran.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://kanagata-shimbun.com/170602analysis-kanagata/",
+    "https://www.soumu.go.jp/main_content/001068215.pdf"
+   ]
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "https://books.google.com/books/about/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E7%94%9F%E7%94%A3%E5%8B%95%E6%85%8B%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1.html?id=KYLl0QEACAAJ",
+    "http://www.etisa.or.jp/kikai-nen.htm",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://kanagata-shimbun.com/170602analysis-kanagata/"
+   ]
+  },
+  {
+   "query": "METI production dynamics statistics dies and molds annual production value Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/h2afdlde.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/index.html",
+    "https://tradingeconomics.com/japan/industrial-production-mom",
+    "https://www.econstats.com/japmet/japmet_m1.htm",
+    "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index301.html",
+    "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "https://www.e-stat.go.jp/en/statistics/00550205"
+   ]
+  },
+  {
+   "query": "site:note.com 機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次）",
+   "results": [
+    "https://note.com/platypus2000jp/n/n51ee55d311eb",
+    "https://note.com/platypus2000jp/n/ncfd15388fe3d",
+    "https://note.com/loyal_ivy9071/n/na07c4d1646dd",
+    "https://note.com/jack4manastalk/n/n2eeee2240e33",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/kessankokokku/n/n11ff4eb5b6f5",
+    "https://note.com/kumafujidream/n/nf9a0dd3177c7",
+    "https://note.com/izuku_idea/n/n95100a4c2910",
+    "https://note.com/izuku_idea/n/n06b572500496",
+    "https://note.com/tazfumi/n/n19a64c3c4968"
+   ]
+  },
+  {
+   "query": "site:x.com 機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次）",
+   "results": [
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/asahicom/status/2117013822678736971",
+    "https://x.com/kanagatashimbun",
+    "https://x.com/Matsuno_Mold/status/2077149832003912130",
+    "https://x.com/i/trending/2099672122675396842",
+    "https://x.com/i/trending/2102226992619986960",
+    "https://x.com/i/trending/2102293794724925793"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次）",
+   "results": [
+    "https://www.linkedin.com/company/diecastingmold",
+    "https://jp.linkedin.com/pulse/金型業界における市場動向2025年から2032年にかけて111のca-7407555372665761792-rv66e",
+    "https://jp.linkedin.com/pulse/ツール鋼および金型鋼市場のグローバル概要プレイヤー別のグローバル収益と市場シェア販売シェアアプリケーショ-7411079514807615488-qyz9e",
+    "https://www.linkedin.com/posts/emporiks_2025年から2032年までの2ピースタイヤ金型市場の競争分析年平均成長率146-activity-7403342538432061440-6v71",
+    "https://cn.linkedin.com/in/alan-cao-b13839160/ja",
+    "https://jp.linkedin.com/pulse/成形金型市場のトレンドにおけるポジティブな成長軌道2025年から2032年までの予測年平均成長率cagrは10-7392957912727351298-seeqf",
+    "https://jp.linkedin.com/pulse/市場の課題販売量2025年から2032年のレンガ製造機の金型市場の予測研究年平均成長率cagr45の驚くべき成長を伴って-7409210712998359040-ipgnc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次）",
+   "results": []
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932",
+    "https://books.google.com/books/about/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E7%94%9F%E7%94%A3%E5%8B%95%E6%85%8B%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1.html?id=KYLl0QEACAAJ",
+    "https://www.soumu.go.jp/main_content/001068215.pdf",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "http://www.etisa.or.jp/kikai-nen.htm",
+    "https://kotobank.jp/word/%E7%94%9F%E7%94%A3%E5%8B%95%E6%85%8B%E7%B5%B1%E8%A8%88-85814",
+    "https://nihonsanki-shimbun.com/190301news/"
+   ]
+  },
+  {
+   "query": "機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822",
+    "https://www.jmf.or.jp/related-cat/3205/",
+    "https://books.google.com/books/about/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81%E7%94%9F%E7%94%A3%E5%8B%95%E6%85%8B%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1.html?id=KYLl0QEACAAJ",
+    "http://www.etisa.or.jp/kikai-nen.htm",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.soumu.go.jp/main_content/001068215.pdf"
+   ]
+  },
+  {
+   "query": "METI production dynamics statistics dies and molds annual production value site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/koji-takahashi-94585710",
+    "https://www.linkedin.com/pulse/japan-amine-additives-coatings-market-size-2026-2033-risk-matrix-j9gvc",
+    "https://www.linkedin.com/pulse/physical-ai-gold-rush-2-trillion-secret-thats-creating-manufacturing-cqyde",
+    "https://www.linkedin.com/posts/james-byungjun-koh-9259b757_japans-power-sector-is-entering-a-pivotal-activity-7506622541965312000-4ayh",
+    "https://www.linkedin.com/in/kiyoshi-okamoto",
+    "https://bi.linkedin.com/company/konica-minolta-inc-",
+    "https://www.linkedin.com/pulse/examining-japan-heavy-machinery-market-manufacturing-segments-er8we",
+    "https://www.linkedin.com/pulse/global-die-steel-powder-market-landscape-future-trends-strategic-ffcve",
+    "https://hk.linkedin.com/in/gavin-g-498646379",
+    "https://www.linkedin.com/in/berniceglenn"
+   ]
+  }
+ ],
+ "missing": {
+  "1人あたり・1社あたり金額": "記載なし（読んだ34頁・検索18回）"
+ }
+}

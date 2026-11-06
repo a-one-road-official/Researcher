@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・131品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・135品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -6306,14 +6306,14 @@
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し）（Economic Structure Survey Japan die and mold manufacturing employees establishments）
 - 文脈：全体・統計
-- 痛み・損（深さの印）：記載なし（読んだ43頁・検索18回）
-- 事業所数・社数：記載なし（読んだ43頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ43頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ43頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ43頁・検索18回）
-- 生産能力・設備：記載なし（読んだ43頁・検索18回）
-- 10年推移：記載なし（読んだ43頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ43頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ42頁・検索18回）
+- 事業所数・社数：記載なし（読んだ42頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ42頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ42頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ42頁・検索18回）
+- 生産能力・設備：記載なし（読んだ42頁・検索18回）
+- 10年推移：記載なし（読んだ42頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ42頁・検索18回）
 
 ## 経済センサス‐活動調査 製造業 加工賃収入額 全国 産業細分類（製造品出荷額・販売額と取引段階を分けて）（Economic Census for Business Activity Japan manufacturing processing fee revenue national by industry）
 - 文脈：全体・統計
@@ -6412,14 +6412,231 @@
 
 ## 平均への回帰の確かめ：工業統計 電気めっき・金属熱処理・金型 2012年以前の従業者1人あたり出荷額（起点を1つずらす）（Japan census of manufactures electroplating heat treatment die per employee shipments before 2012）
 - 文脈：全体・統計
-- 痛み・損（深さの印）：記載なし（読んだ30頁・検索18回）
-- 事業所数・社数：記載なし（読んだ30頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ30頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ30頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ30頁・検索18回）
-- 生産能力・設備：記載なし（読んだ30頁・検索18回）
-- 10年推移：記載なし（読んだ30頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ30頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ32頁・検索18回）
+- 事業所数・社数：記載なし（読んだ32頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ32頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ32頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ32頁・検索18回）
+- 生産能力・設備：記載なし（読んだ32頁・検索18回）
+- 10年推移：記載なし（読んだ32頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ32頁・検索18回）
+
+## 経済センサス‐活動調査 製造業 加工賃収入額 全国計の統計表（e-Stat 表番号・全国のみ・自治体の表を除く）（Economic Census Japan manufacturing processing fee revenue national total table e-Stat）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ34頁・検索18回）
+- 事業所数・社数：記載なし（読んだ34頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ34頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ34頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ34頁・検索18回）
+- 生産能力・設備：記載なし（読んだ34頁・検索18回）
+- 10年推移：記載なし（読んだ34頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ34頁・検索18回）
+
+## 小樽市・岡山県の経済センサス 製造業の加工賃収入額（地域ごとに別品目・全国と混ぜない）（Otaru Okayama economic census manufacturing processing fee revenue）
+- 文脈：地域・統計
+- 事業所数・社数：
+  - 「また、事業所数、従業者数については、令和３年経済」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「なお、平成 28 年経済センサス‐活動調査においては、事業所数、従業」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 事業所数は、3,234 事業所で、前年に比べ 2.8％(87 事業所)増加した」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「注２：令和 2 年の製造品出荷額等及び付加価値額は令和 2 年中の年間額、事業所数及び従業者数は令和 3 年 6 月 1 日現」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「注４：事業所数及び従業者数について、平成23年は平成24年2月1日現在、平成27年から令和2年はそれぞ れ翌年の」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 事業所数は、繊維工業(構成比 12.7%)、金属製品(同 10.9%)、生産用機械器具(同」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「注２：事業所数及び従業者数：平成23年は平成24年2月1日現在の数値、平成24年から平成26年までは各 該当年の」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「第１表 年次別 事業所数、従業者数、現金給与総額、」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「注２：事業所数及び従業者数は、翌年6月1日現在の数値、それ以外の項目は当年1年間の数値である」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「従業者規模 令和２年 令和２年」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「第３表 従業者規模別 事業所数、従業者数、」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「第２表 産業中分類別 事業所数、従業者数、」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「年次は令和3年、事業所数及び従業者数については令和4年6月1日現在、それ以外の経理」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「年次は令和2年、事業所数及び従業者数については令和3年6月1日現在、それ以外の経理」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「年次は令和元年以前、事業所数及び従業者数については各年の翌年6月1日現在、それ以」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+- 社員数・平均社員数：
+  - 「Ⅱ 調査結果の概要（従業者４人以上の事業所）」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「Ⅲ 統 計 表（従業者４人以上の事業所）」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（６）調査事項 名称及び電話番号、所在地、経営組織、従業者数、人件費及び」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・従業者４人以上の事業所であること」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「令和３年６月 1 日現在で、当該事業所で働いている人数」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「また、事業所数、従業者数については、令和３年経済」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（２） 令和３年経済センサス‐活動調査においては、個人経営を含まない集計結果」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（３） 従業者数、付加価値額の項目は、工業統計調査の集計における定義に合わせ」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（６） 調査対象事業所は、「国税庁法人番号公表サイト」情報から、過去の調査で」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「Ⅱ 調査結果の概要 （従業者４人以上の事業所）」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「年次は令和3年、事業所数及び従業者数については令和4年6月1日現在、それ以外の経理」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「・令和3年経済センサス-活動調査（従業者数4人以上の事業所）」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「年次は令和2年、事業所数及び従業者数については令和3年6月1日現在、それ以外の経理」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「・工業統計（従業者4人以上の事業所）」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「年次は令和元年以前、事業所数及び従業者数については各年の翌年6月1日現在、それ以」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+- 受注金額・加工賃収入：
+  - 「令和２年１年間における製造品出荷額、加工賃収入額、製造工程から出たく」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（１） 調査結果のうち、製造品出荷額等、付加価値額については、表示年次におけ」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（４） 製造品出荷額等の経理事項については、原則消費税込みで把握しているが、」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 製造品出荷額等は、7 兆 601 億 38 百万円で、前年に比べ 8.4％(6,439 億 98 百万円)」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 付加価値額は、1 兆 7,688 億 8 百万円で、前年に比べ 2.0％（357 億 78 百万円）減少」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「注２：令和 2 年の製造品出荷額等及び付加価値額は令和 2 年中の年間額、事業所数及び従業者数は令和 3 年 6 月 1 日現」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「３ 製造品出荷額等の経理事項については、原則消費税込みで把握していますが、一部の消費税」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「３ 製造品出荷額等」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「表4 年次別製造品出荷額等」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「表5 年次別1 事業所当たり製造品出荷額等・従業者数及び従業者1 人当たり製造品出荷額」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「表6 年次別従業者規模別事業所数、従業者数、製造品出荷額等」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「表7 産業別(中分類)事業所数、従業者数、製造品出荷額等 構成比」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「表8 産業別(中分類)1 事業所当たり従業者数、 製造品出荷額等及び従業者1 人当たり製造品出」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「表9 産業別(小分類)事業所数、従業者数、製造品出荷額等」（https://www.city.otaru.lg.jp/docs/2020121200019/file_contents/2022gaiyo.pdf）
+  - 「品出荷額等をそれぞれ合計し、その額の最も大きいもので２桁番号を決定する」（https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo5.pdf）
+- 1人あたり・1社あたり金額：
+  - 「（１） 調査結果のうち、製造品出荷額等、付加価値額については、表示年次におけ」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（３） 従業者数、付加価値額の項目は、工業統計調査の集計における定義に合わせ」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 製造品出荷額等は、7 兆 601 億 38 百万円で、前年に比べ 8.4％(6,439 億 98 百万円)」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 付加価値額は、1 兆 7,688 億 8 百万円で、前年に比べ 2.0％（357 億 78 百万円）減少」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「注２：令和 2 年の製造品出荷額等及び付加価値額は令和 2 年中の年間額、事業所数及び従業者数は令和 3 年 6 月 1 日現」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 付加価値額は、輸送用機械器具（構成比 14.6%）、化学工業(同 14.3%)、食料品（同」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「注２：「※」従業者４～２９人の事業所については、粗付加価値額である」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「注３：平成27年の現金給与総額、製造品出荷額等、原材料使用額等及び付加価値額については、個人経営調査票」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「注４：「※」従業者４～２９人の事業所については、粗付加価値額である」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「(2) 従業者、付加価値額の項目は、工業統計の集計における定義に合わせた形で再集計したため、産業横断的」（https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo5.pdf）
+  - 「(7) 付加価値額（粗付加価値額）は、下記算式により算出している」（https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo5.pdf）
+  - 「*：従業者４～29人は粗付加価値額」（https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo5.pdf）
+- 生産能力・設備：
+  - 「(6) 有形固定資産（従業者10人以上の事業所）とは、 平成23年１月から12月までの１年間における数値であり、」（https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo5.pdf）
+  - 「⑤ 資本装備率（従業者30人以上の事業所） ＝ 有形固定資産年末現在高／常用労働者年間月平均数(*)」（https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo5.pdf）
+- 10年推移：
+  - 「版）は、「工業統計調査」と時系列比較を行うために、令和３年」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「H27(2015)年 H28年経済センサス H28年6月1日現在 H27年1月〜12月」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「H28(2016)年 H29年工業統計 H29年6月1日現在 H28年1月〜12月」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「H29(2017)年 H30年工業統計 H30年6月1日現在 H29年1月〜12月」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「H30(2018)年 R元年工業統計 R元年6月1日現在 H30年1月〜12月」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「R元(2019)年 R２年工業統計 R２年6月1日現在 H31年1月〜R元年12月」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「R２(2020)年 R３年経済センサス R３年6月1日現在 R２年1月〜12月」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「集計結果の時系列比較を行う際は、十分に留意が必要である」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 事業所数は、3,234 事業所で、前年に比べ 2.8％(87 事業所)増加した」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 従業者数は、147,627 人で、前年に比べ 2.3％(3,429 人)減少した」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「・ 付加価値額は、1 兆 7,688 億 8 百万円で、前年に比べ 2.0％（357 億 78 百万円）減少」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「岡山県における主要項目の推移（指数：平成２７年＝１００）」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「●事業所数、従業者数、製造品出荷額等、付加価値額の推移」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「注１：令和元年は2020年工業統計調査、令和2年は令和3年経済センサス-活動調査の数値である」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「実 数 実 数 前年比 実 数 実 数 前年比 実 数 実 数 前年比」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+- 人手と仕事の差：
+  - 「費、製造等に関連する外注費及び転売した商品の仕入額の合計で、消費税額を」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「⑤ 製造等に関連する外注費とは、生産設備の保守・点検・修理、機械・装置の操作、製品に組み込まれる」（https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo5.pdf）
+  - 「ソフトウェアの開発など、事業所収入に直接関連する外注費用をいう」（https://www.stat.go.jp/data/e-census/2012/kakuho/pdf/r_seizo5.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ44頁・検索18回）
+
+## 日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表）（Japan Die and Mould Industry Association production value members by year table）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「2019年は1986年と比較して、事業所数は45%減少、従業員数は20%減少」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「事業所数の減少が従業員数より大きい理由は、金型製造業は従業員数9名以下の企業が7割、19名以下の企業が8割を超えている」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「しかし、市場のグローバル化やリーマン・ショックによる経済活動の減速等で会員数が発足当初の約70社から40社に減少、新型コロナウイルスの影響で活動中止が続き、2021年3月4日の臨時総会をもって解散することが決まりました」（https://takumi-senpai.com/blog/mold-industry-2021/）
+- 社員数・平均社員数：
+  - 「世界の金型生産高3位の日本は、金型生産高が2019年と1991年比較で30%減少、金型製造業所の事業所が2019年と1986年比較で45%減少、従業員数が20%減少」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「上記グラフは、金型製造業の事業所・従業員数の推移（1986年から～2019年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「2019年は1986年と比較して、事業所数は45%減少、従業員数は20%減少」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「事業所数の減少が従業員数より大きい理由は、金型製造業は従業員数9名以下の企業が7割、19名以下の企業が8割を超えている」（https://takumi-senpai.com/blog/mold-industry-2021/）
+- 受注金額・加工賃収入：
+  - 「都道府県別金型生産額（2018年）」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「上記グラフは、金型生産額の推移（1982年～2018年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「1991年が金型生産額のピークで、その後二度の下降と上昇を繰り返し、リーマンショックで大ダメージを負い、現在ゆっくりと回復」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「金型の生産高がピークだった1991年（平成3年）は1兆9,575億円で、2019年（平成30年）は1兆3,602億円であるため、金型生産高は30%減少」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「上記グラフは、都道府県別の金型生産額の上位5県（2018年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「愛知県が圧倒的に金型の生産額が大きく、2位の静岡の2倍以上」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「プレス型、鍛造型、プラスチック型の3つの金型種が、他県と比較して生産額が最も大きく」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「1991年が金型生産額のピークで、その後二度の下降と上昇を繰り返し、リーマンショックで大ダメージを負って現在ゆっくりと回復している」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「都道府県別金型生産額について、愛知県が圧倒的に金型の生産額が大きく、2位の静岡の2倍以上ある（2018年データ）」（https://takumi-senpai.com/blog/mold-industry-2021/）
+- 10年推移：
+  - 「【2021年】金型業界の今を統計データで徹底分析 - 切削工具の情報サイト｜タクミセンパイ」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「【2021年】金型業界の今を統計データで徹底分析」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「日本の金型生産額、産業別の生産需要の他、世界の金型生産高と輸出・輸入先、金型製造業の事業所・従業員数の推移をまとめ」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「この記事を書いた私は工具メーカーでの営業・マーケティングの経験を活かし、切削工具と切削加工業界に特化した専門サイト「タクミセンパイ」を2020年から運営しています」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「2021年時点で公開されている統計データをわかりやすく表現、一部組み合わせて本記事を執筆しました」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「世界の金型生産高3位の日本は、金型生産高が2019年と1991年比較で30%減少、金型製造業所の事業所が2019年と1986年比較で45%減少、従業員数が20%減少」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「2024年以降、「金型業界の今を統計データで徹底分析」を2年に1回のペースで最新記事として公開しています」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「都道府県別金型生産額（2018年）」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「日本の業界別の生産需要（2020年）」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「世界の金型生産高（2019年）」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「金型の輸出金額（2020年）」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「金型の輸入金額（2020年）」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「2021年現在の金型業界を把握するために、下記の情報についてまとめました」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「上記グラフは、金型生産額の推移（1982年～2018年）をまとめたものです」（https://takumi-senpai.com/blog/mold-industry-2021/）
+  - 「（2011年・2015年・2020年は工業統計調査が実施されなかったため、経済センサス（産業編）を使用）」（https://takumi-senpai.com/blog/mold-industry-2021/）
+- 痛み・損（深さの印）：記載なし（読んだ15頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ15頁・検索18回）
+- 生産能力・設備：記載なし（読んだ15頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ15頁・検索18回）
+
+## 機械統計（生産動態統計）金型 生産重量・生産金額の年次（業界新聞の増減率の一次）（METI production dynamics statistics dies and molds annual production value）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「なお、事業所の新設や廃業などの経済活動を反映した動きについては、係数を用いて処理することは行っていません」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+- 事業所数・社数：
+  - 「また、対象事業所数が2事業所以下となった等の理由により報告事業所の機密保護が必要になった品目の集計値は秘匿とし、数値は公表せず「X」と表記しています」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+- 社員数・平均社員数：
+  - 「05. 法人番号欄はどうして追加されたのですか？」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「回答：本調査は、郵送での回答送付とインターネットでの回答送信の2種類の方法を用いていますが、インターネットで回答した人は約76％となっています」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「一般社団法人日本金型工業会では、以下の3つの公的統計調査を金型製造業関連の統計調査として、金型製造業向けとして編集して使用しています」（https://www.jdmia.or.jp/toukei/）
+  - 「一般社団法人 経済産業統計協会から国内製品の生産・受入・出荷・在庫、他の製品の原材料・加工用として消費した数量、各部門の月末従事者数、工場設備の生産能力指数など掲載する「2024年生産動態統計年報（機械）」発行のお知らせです」（https://www.jmf.or.jp/related-cat/3205/）
+  - 「28 公益財団法人古紙再生促進センター」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf）
+  - 「35 一般社団法人日本アイスクリーム協会」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf）
+  - 「36 一般社団法人日本アルミニウム合金協会」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf）
+  - 「37 一般社団法人日本自動車部品工業会」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf）
+  - 「38 一般財団法人日本水産油脂協会」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf）
+  - 「39 公益社団法人日本水道協会」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf）
+  - 「41 一般社団法人日本窯業外装材協会」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf）
+  - 「0301A 月末従業者数（Aプラスチック部門）」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「0301B 月末従業者数（B合成ゴム部門）」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「0301C 月末従業者数（C環式中間物部門） （廃止）」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「0301D 月末従業者数（D芳香族部門） 合成ゴム部門 25005 合成ゴム部門」（https://www.soumu.go.jp/main_content/001068215.pdf）
+- 受注金額・加工賃収入：
+  - 「そのため、工業統計の製造品出荷額に占める生産動態統計調査のカバレッジは約80％となっています」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます」（https://www.jdmia.or.jp/toukei/）
+  - 「（２）2020年出荷額推計に使用した動態統計」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf）
+  - 「工業製品の2020年出荷額は、2019年の『工業統計』の品目の出荷額に、『生産動態統計』等動態」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf）
+  - 「i 年間出荷額が 100 億円未満の商品は対象外」（https://www.soumu.go.jp/main_content/001022513.pdf）
+  - 「iii 年間出荷額が 1000 億円以上の商品のう iii 年間出荷額が 500 億円以上の商品のう」（https://www.soumu.go.jp/main_content/001022513.pdf）
+  - 「a. 年間出荷額が500 億円以」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「c. 基準（年間出荷額100 億」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「e. 基準（年間出荷額100 億」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「ⅰ 年間出荷額が 100 億円未満の商品は対象外とする」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「なお、年間出荷額が 100 億円未満の商品であっても、他に 100 億円を超える類似」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「商品がある場合や類似した複数の商品を統合して 100 億円を超える場合は、統合し」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「また、年間出荷額が 100 億円以上であっても急激な生産縮小が見られる商品につ」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「ⅱ 年間出荷額が 100 億円以上の商品であっても秘匿処理が必要な商品については、」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「ⅲ 年間出荷額が 500 億円以上の商品のうち、現在、生産動態統計調査で調査されて」（https://www.soumu.go.jp/main_content/001068215.pdf）
+- 生産能力・設備：
+  - 「参考_機械統計等生産能力指数 (Excel形式：20KB前後)」（https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html）
+  - 「回答：約1600品目の鉱工業製品の生産・出荷・在庫の数量や金額、労務（月末従事者）及び生産能力・設備などを、109種類の調査票により、毎月調べています」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「一般社団法人 経済産業統計協会から国内製品の生産・受入・出荷・在庫、他の製品の原材料・加工用として消費した数量、各部門の月末従事者数、工場設備の生産能力指数など掲載する「2024年生産動態統計年報（機械）」発行のお知らせです」（https://www.jmf.or.jp/related-cat/3205/）
+  - 「確報（３）生産能力統計」（https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00550200&tstat=000001022932）
+  - 「時系列表(1090_鉄鋼月報（その９）労務・生産能力)」（https://www.e-stat.go.jp/stat-search?page=1&kikan=00550&toukei=00550200&layout=dataset）
+  - 「（４）生産能力・設備欄」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「注２短繊維の生産能力には、アクリル短繊維、ポリエステ」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「※８．「1090」は、「1010～1060」と同封される調査票であり、月末従事者数及び月間生産能力のみを調査している」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「90」は、「1010～1060」と同封される調査票であり、月末従事者数及び月間生産能力のみを調査している」（https://www.soumu.go.jp/main_content/001068215.pdf）
+  - 「※．「1090」は、「1010～1060」と同封される調査票であり、月末従事者数及び月間生産能力のみを調査している」（https://www.soumu.go.jp/main_content/001068215.pdf）
+- 10年推移：
+  - 「参考_時系列表 Reference The time series」（https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html）
+  - 「参考_時系列表 (Excel形式：4MB前後)」（https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html）
+  - 「2025年年間補正号」（https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html）
+  - 「2025年1月分確報」（https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html）
+  - 「【品目別接続係数表】2021年年間補正」（https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html）
+  - 「○2020年以前の年報(Excel、PDF)はこちら」（https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html）
+  - 「03. 「時系列表」とはなんですか？」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「回答：2022年（令和4年）時点では約13,000事業所が調査対象となっていました」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「回答：2022年（令和4年）時点では約95％でした」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「また、2022年（令和4年）調査では、報告者負担の軽減等を考慮して、対象事業所が2事業所以下となっている等の理由により秘匿されている品目のうち、20品目を廃止し、34品目を統合し、3品目を秘匿解除しました」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「回答：参考_時系列表とは、生産動態統計調査で調査している全品目（約1600品目）の当月及び過去60か月分の時系列データを、共通的な項目である生産・販売・在庫に限定して掲載している参考資料です」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「回答：「統計表一覧」というページで、速報、確報、時系列表、年報を掲載しています」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「年報は、1989年（平成元年）～2006年（平成18年）はPDF形式のみ、2007年（平成19年）～2020年（令和2年）はEXCEL形式とPDF形式で掲載しています」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「2021年（令和3年）に年報の様式を修正して確報で掲載している全ての品目を一表にまとめましたので、2021年（令和3年）以降の年報ではPDF形式での掲載は行わずEXCEL形式のみで掲載しています」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+  - 「2007年（平成19年）～2020年（令和2年）の年報（EXCEL形式及びPDF形式）（」（https://www.meti.go.jp/statistics/tyo/seidou/qa.html）
+- 人手と仕事の差：
+  - 「調査業務の完全外注化にあたり、それまで都道府県」（https://www.soumu.go.jp/main_content/001022513.pdf）
+  - 「令和２年からの完全外注化以降も、都道府県が地域」（https://www.soumu.go.jp/main_content/001022513.pdf）
+  - 「について回答しているが、外注化拡大の初年度となっ」（https://www.soumu.go.jp/main_content/001022513.pdf）
+  - 「これについては、委託後も円滑に調査が実施されており、オンライン提出率等も外注委託」（https://www.soumu.go.jp/main_content/001022513.pdf）
+- 検索結果の抜粋：
+  - 「統計 表一覧（経済産業省 生産動態統計 — 統計 表一覧（経済産業省 生産動態統計 経済産業省 https://www.meti.go.jp > tyo > result > ichiran > 08_seidou」（https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html）
+  - 「2024年 経済産業省 生産動態統計 年報 機械統計 編 — 2024年 経済産業省 生産動態統計 年報 機械統計 編 経済産業統計協会 http://www.etisa.or.jp > kikai-nen」（http://www.etisa.or.jp/kikai-nen.htm）
+  - 「経済産業省 生産動態統計 調査 経済 ... - e-Stat 政府統計の総合窓口 — 経済産業省 生産動態統計 調査 経済 ... - e-Stat 政府統計の総合窓口 政府統計の総合窓口 https://www.e-stat.go.jp > stat-search > database > cycle=1」（https://www.e-stat.go.jp/stat-search/database?kana=6&toukei=00550200&page=1&tstat=000001022932&second2=1&cycle=1&tclass1=000001022948&tclass2=000001022950&layout=dataset&statdisp_id=0003039822）
+- 1人あたり・1社あたり金額：記載なし（読んだ34頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

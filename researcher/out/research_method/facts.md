@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・138品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・141品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3656,11 +3656,11 @@
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務（SME public notice disclosure scope by method net assets change profit trend）
 - 文脈：
@@ -5941,11 +5941,11 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
@@ -8460,3 +8460,235 @@
   - 「Entity Verification Case Study Compendium」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Case study: How a large US bank re-checks the businesses on its book against the secretary of state」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+
+## 統計の改訂を「生産の周期の中の直し」と「方法の改善」で分け、時期ごとに改訂の大きさを測る方法（national statistics revisions analysis vintages methodological change period uncertainty）
+- 文脈：推定
+- 手順・やり方：
+  - 「performed in a second step.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「• Producers use revision studies to identify particul ar methods that could be improved or」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「because of the introduction of new methodologies, concepts, classifications, etc.;」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「This general policy will also describe reasons for data revisions, how to manage scheduled」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「acts, new definitions, adoption of new sources, new methods of estimation, innovation, etc), they」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「simultaneously in a single revision (current revision policy). This method tries to avoid unsettling」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「accounts. A consistent and coherent framework for a ll statistics, which produces data always in」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「methodological improvements. This should be conside red as good practice as it avoids revisions」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「on the total revisions of the time series and infor m the users. However, a change in the method」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「elements: the pre-announcing strategy, how to commu nicate in advance information on causes」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「methodological change is of major relevance for a c ountry, leading to more accurate figures, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「country could introduce the methodological change a s soon as possible provided that the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「announced and synchronised. Methodological revisions, which foster accuracy of important」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「coordinated. Methodological revisions, which foster accuracy of important indicators mentioned」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「between different domains. Methodological revisions at a country level, which foster accuracy of」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+- 突き合わせ・推定：
+  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「• Estimates that are not subject to revision could wr ongly be considered more accurate and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「• If estimates are affected by sampling or non sampli ng errors, revision analysis can not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「definitively demonstrate the accuracy of initial estimates.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「process (e.g. estimated values for missing response s are replaced by reported figures). Normally,」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「Hence, missing values have to be estimated. Since t he estimated values normally do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「assess the new time series. The documentation shall detail the reasons for the revisions, estimate」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「estimated it is important to include information of these methods changes as it has direct impact」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「impact of revisions on their estimates and models ( e.g. business cycle analysis and forecasts).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「between the first release (a flash estimate) and th e second release (a first estimate). This」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「quality of provisional estimates or flash estimates has to be assessed」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「, annualized quarterly GDP growth is initially underreported by about half a percentage point. Ideally, this measurement error would be zero. Instead, these revisions suggest that the economy is typically stronger than it initially appears. For example, the initial estimate of second quarter GDP in 2025 came in at 3.0 percent and was revised upward in the final estimate to 3.8 percent.」（https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01）
+  - 「revision interval for say first published estimates of third quarter and fourth quarter data).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Lt: later estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Pt: preliminary (earlier) estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+- 一次情報の探し方：
+  - 「inflow of new data extracted from primary sources w ith vintages identification procedures. It」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「databases usually cover only subsets of variables available in primary sources (key indicators), on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「Analysis for Sub-Annual Economic Statistics (http://www.oecd.org/dataoecd/44/39/40309491.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「(http://www.oecd.org/dataoecd/44/37/40309451.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「http://www.statistics.gov.uk/about/national_statistics/cop/downloads/revisions.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「• ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/20/26/34350524.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/45/29/36561675.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「http://www.oecd.org/dataoecd/47/15/40315408.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+- 失敗・落とし穴：
+  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「communication of the mistake should be frank and th e revised data should be published at the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「Bias or unusual behaviour in the revision process of preliminary data might reveal some problems」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「revisions are more in one direction than another, suggesting possible bias in the earlier」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「the average size of the revisions, but it cannot provide an indication of directional bias」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「be of limited use (also called “average bias”).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「revision is statistically different from zero which may give an insight of whether a bias 7」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「considering whether there is bias in the revision process (i.e. there may be some degree of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+- 実例：
+  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「and "practice to be avoided", following the success ful example of the ESS guidelines on seasonal」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「for users. More details, practical examples and ref erences are included in the ESS handbook on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「in line with relevant improvements in the productio n process. This could be the case when」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「Some examples are the adoption of a new classificat ion or changes in international」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「In case of an update of the weights of an index series, the new index using updated weights is」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「be removed whenever necessary. In this case, the re ason for the removal should be posted. When」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「example, the magnitude of the correction could be c ompared to the magnitude of expected」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「In the case of significant errors detected with del ay (referring to past or sometimes even far past」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「relevant figures, released as soon as possible with a pre-announcement. In the case of past errors」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「possible. In case of significant errors affecting past data a decision is taken based upon the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「should be mentioned. A draft example of a harmonised template is presented in annex.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「similar economic conditions – for example for compa rable phases of business cycle, seasonal and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+  - 「• Finally, it is possible to focus on the diagonals l ooking for example to the differences」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf）
+
+## アンケート・調査のバイアスを工程（設計・設問・分析報告）ごとに点検する方法と調査方式の違い（モード効果）（survey bias checklist by process mode effect sampling reach）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「― 調査プロセス別のチェックポイントで“歪みの芽”を摘み取る手順 ―」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「バイアスは「気づけば混入している」ことが多いため、本章では典型的な発生パターンを工程別に分解し、どこで何を見れば“歪みの芽”を早期に発見できるかを示します」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「選択／カバレッジバイアスは、母集団定義、対象者条件（スクリーニング）、サンプル設計、回収方法といった「誰に聞くか／どう到達するか」を決める局面で起きます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「モード効果（Mode Effect）──同じ質問でも聞く方法で答えが変わる」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「モード効果は、調査の実施方法（Web／紙／電話／会場／郵送）や、回収方法（混合モードを含む）の選定に起因して発生します」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「特に複数の調査方法を併用する場合、その差が「回答者属性の違い」なのか「モードの違い」なのかが混ざり、差分の解釈を誤りやすくなります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「前章「3.実践ステップ」では、「調査設計」「設問設計」「分析・報告」の各プロセスで発生するバイアスについて解説しましたが、この3つのプロセスのなかで、多くの種類のバイアスが存在するのが「設問設計」に関するバイアスです」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「時系列で追うKPIは、設問文・導入文・尺度・選択肢・対象条件（スクリーニング/割付）・回収方法（モード/チャネル）を原則同一に固定する」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「誘導質問や選択肢の偏り、サンプリング方法、集計時の選択的報告などが典型例です」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「QiQUMOのセルフ型調査なら設問設計をスピーディに修正できます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「Survey administration mode can influence both who participates and how respondents answer the same questions. Understand the distinction between selection and measurement effects, why mixed-mode surveys require caution, and how to assess and reduce potential bias.」（https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias）
+  - 「These possibilities are central to survey methodology. Administration mode can influence both the composition of the responding sample and the measurement process itself.」（https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias）
+  - 「The methodological concern is that interviewer presence becomes a potential source of measurement variation.」（https://manuelgarcia.info/guides/research/guide/survey-administration-mode-participation-response-bias）
+- 突き合わせ・推定：
+  - 「判断・計測・推定・設計などを行う際に、何が“系統的なゆがみ”の発生源となるかを説明するための共通語として、さまざまな領域で使われます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「、設計上の欠陥によって推定が系統的に偏るリスクとして整理されます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「推定量の系統誤差、設計・計測上の偏り」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「確証バイアス（Confirmation Bias）──仮説・目的が“結論ありき”になる」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「確証バイアスは、調査の目的設定や意思決定の前提、仮説の置き方、そしてアウトプット要件（分析軸）の定義といった、設計の上流で起きやすいバイアスです」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「具体的には、事前仮説に合う設問・選択肢・分析軸だけを用意してしまい、反証や想定外の理由を拾えなくなることがあります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「満足度向上が目的であるにもかかわらず、改善要因の候補が仮説に基づく数項目に限定されており、自由記述欄や「その他」選択肢の設計が不十分」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「選択肢は仮説の列挙で終わらせず、」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「分析軸も仮説だけで決めず、「探索枠（未想定の分岐）」を残す」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「市場全体の推定をしたつもりでも、実際には「特定チャネルにいる人の意見」を測っている状態になり、解釈を誤るリスクが生じます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「「全体の推定」か「特定セグメントの理解」かを明確にし、目的とサンプル設計を一致させる」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「3) 想起・推定の過大要求」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「可能な範囲で「回答者 vs 非回答者」の既知属性（年代・性別・利用状況等）を比較し、偏りの方向性を推定する」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「“全体推定”を主張する場合は、ウェイト調整や追跡回収（リマインド、短縮版追跡）などの補正策をセットで検討する」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「主要KPI・主要仮説・主要比較は事前に固定し、探索分析は探索として区別して書く」（https://qiqumo.jp/contents/knowhow/7500）
+- 一次情報の探し方：
+  - 「認知心理学や行動経済学では、個人の判断が規範（論理・確率）から一定方向にズレる現象として扱われ、統計学・実験計画や疫学・臨床研究法では、」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「6) 統計学・実験計画」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「マーケティングリサーチの文脈でのバイアスは、心理学、統計学、HCIといった複数の学問領域に由来するバイアスが関わります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「回答者は記憶の曖昧さや社会的望ましさに影響される「心理的側面」を持ち、調査自体はサンプリングや変数制御といった「統計的側面」の制約を受けます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「p-hacking／データドレッジング（P-hacking / Data dredging）──“試して当たった有意差”を採用してしまう」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「セグメントを細かく切っていき、有意になった切り口だけを採用して結論を作る」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/）
+  - 「https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/）
+  - 「Plos1_review.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/）
+  - 「(98.6KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/）
+  - 「survey review PLOS.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/）
+  - 「(102.2KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/）
+  - 「4. Table 2 appears in such way, because the manuscript is converted to a PDF format. I think I sticks to the formatting guidelines; if not, I will discuss this topic with the editor. For the reviewers, I previously attached table 2 as a separate file and it is still available as an attachment.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/）
+  - 「PDF (1.1 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10019664/）
+- 失敗・落とし穴：
+  - 「【バイアス対策】無意識の歪みを排除するーアンケートに潜むバイアスの正体と防ぎ方」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「アンケートのバイアスは調査設計・設問設計・分析報告の3工程で発生する」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「確証バイアス・選択バイアス・誘導質問など具体的な歪みのメカニズムを解説」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「本記事では、アンケート実務を工程別に分解し、バイアスが混入しやすいポイントと、未然に防ぐためのチェック項目をまとめました」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「本記事では、この「バイアス」が生じてしまう要因を、アンケート調査の実務プロセスに当てはめて整理します」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「まず、バイアスという言葉が何を指し、どんな前提で捉えるべきかを整理します」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「バイアスとは偏りや歪み、傾きなどを表す言葉です」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「ヒューリスティクス（代表性、利用可能性など）、確証バイアス」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「プロスペクト理論（損失回避、参照点依存）、現状維持バイアス」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「グループシンク、同調、内集団バイアス、権威の影響」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「サイロ化、稟議バイアス、KPIの歪み、NIH（外部案拒否）」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「構造的不平等、制度バイアス、排除のメカニズム」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「選択バイアス、測定バイアス、p-hacking、サンプリング偏向」（https://qiqumo.jp/contents/knowhow/7500）
+- 実例：
+  - 「調査対象の切り方や集計・報告のプロセスはもちろんのこと、質問文のわずかな表現の違いといった設問設計そのものによっても、結果に偏りや歪みが生じます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「このやり取りでは、質問がテキストで回答者に伝えられ、答えは選ばれた選択肢の合計として定量化されて結果に反映されます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「このアンケート特有のコミュニケーションの制約に加え、定量化する際の枠組みや集計する際のルール決めによって集計結果が変わってきます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「読み終えていただくと、調査の途中で起きがちな「結果のゆがみ」を事前に察知し、データの品質を担保するための“実務の勘所”が掴めるようになります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「社会・組織の文脈では、制度や権力、情報の流れが生む構造的な不均衡として語られ、HCI（Human-Computer Interaction：人機相互作用）/UXや機械学習の領域では、表示設計やシステムが行動や結果を一定方向に動かしてしまう問題として議論されます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「つまり、アンケートの偏りは「回答者の心理」「調査手法」「設問設計」が複雑に絡み合った結果です」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「調査設計の段階で生じるバイアスは、調査対象をどのように切り出すか、調査の目的に沿った調査対象を正しく設定できるかどうかによって結果の妥当性そのものが決定づけられます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「その結果、「想定通りのストーリー」には見える一方で、意思決定に必要なリスク情報（離脱理由、代替選択、条件付き評価など）が欠落しやすくなります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「テキストで表示される質問の文章表現のわずかな差が解釈の余地を生み、結果の歪み（バイアス）を招きやすくなるからです」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「設問設計の欠陥がもたらす結果は、大きく次の2系統に整理できます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「分析者の判断が入りやすく、結果を大きく左右しやすい6つのバイアスを取り上げます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます」（https://qiqumo.jp/contents/knowhow/7500）
+
+## 会社の公告方法を登記簿で確かめてから決算公告を探す方法（電子公告のURL・持分会社の公告不要）（company public notice method commercial register electronic public notice Japan）
+- 文脈：会社の数字
+- 手順・やり方：
+  - 「合同会社の公告方法は官報？電子公告？それぞれのメリットを比較する」（https://shiodome.co.jp/js/blog/4723）
+  - 「公告方法は、合同会社の登記事項とされています（」（https://shiodome.co.jp/js/blog/4723）
+  - 「そのため、合同会社は次の3つのうちから公告方法を選択する必要があり、どれも選択しなかったときは自動的に「官報に掲載する方法」が当該会社の公告方法となります（」（https://shiodome.co.jp/js/blog/4723）
+  - 「時事に関する事項を掲載する日刊新聞紙に掲載する方法」（https://shiodome.co.jp/js/blog/4723）
+  - 「各公告方法については、こちらの記事にも記載していますのでご確認ください」（https://shiodome.co.jp/js/blog/4723）
+  - 「公告方法の定め方として、3つ（官報、日刊新聞紙、電子公告）のうち複数を選択することはできるでしょうか」（https://shiodome.co.jp/js/blog/4723）
+  - 「合同会社の公告方法を検討するには、どのようなときに合同会社が公告をする必要があるのかを知っておいた方がいいでしょう」（https://shiodome.co.jp/js/blog/4723）
+  - 「株式会社の場合は、法律上決算公告をすることが義務付けられているため、毎年の決算公告を安くするために会社の公告方法（あるいは貸借対照表の公告のみ）として電子公告を選択することも考えられます」（https://shiodome.co.jp/js/blog/4723）
+  - 「債権者保護手続きは、公告方法に関わらず官報公告が必要」（https://shiodome.co.jp/js/blog/4723）
+  - 「これらの行為をするときは、会社の公告方法に関わらず、原則として官報公告が必要となります」（https://shiodome.co.jp/js/blog/4723）
+  - 「つまり、会社の公告方法を「日刊工業新聞」や「電子公告」と定めている会社においても、必ず「官報公告」をしなければなりません」（https://shiodome.co.jp/js/blog/4723）
+  - 「公告方法として電子公告を選択するメリットとしては、減資や合併等を行うときに、各債権者への個別催告に代えて電子公告をすることにより、各債権者への個別催告を省略できる点にあります」（https://shiodome.co.jp/js/blog/4723）
+  - 「公告方法として日刊新聞紙を選択するメリットとしては、電子公告と同様に、減資や合併等を行うときに、各債権者への個別催告に代えて日刊新聞紙での公告をすることにより、各債権者への個別催告を省略できる点にあります」（https://shiodome.co.jp/js/blog/4723）
+  - 「合同会社を設立するときは、公告方法として「官報」を選ばれる方が多い印象です」（https://shiodome.co.jp/js/blog/4723）
+  - 「個人事業主から法人成りするケースや、資産管理会社として合同会社を選択される場合、官報以外の公告方法を選択するメリットはあまり感じられないかもしれません」（https://shiodome.co.jp/js/blog/4723）
+- 突き合わせ・推定：
+  - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「法務部員が知っておくべき「二段の推定」とは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「定時株主総会の日程が決まった時点で逆算してスケジュールを組む」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-yarikata/）
+  - 「食い違いに気づいたら、どちらが正しいのかを整理してください」（https://kabushiki-kaisha-setsuritsu.com/kessan-kokoku-hoho/）
+  - 「Estimated reading time: 9 minutes」（https://www.mofo.com/resources/insights/220504-summary-update-enforcement）
+- 一次情報の探し方：
+  - 「合同会社の公告方法は官報？電子公告？それぞれのメリットを比較する」（https://shiodome.co.jp/js/blog/4723）
+  - 「公告方法は、合同会社の登記事項とされています（」（https://shiodome.co.jp/js/blog/4723）
+  - 「そのため、合同会社は次の3つのうちから公告方法を選択する必要があり、どれも選択しなかったときは自動的に「官報に掲載する方法」が当該会社の公告方法となります（」（https://shiodome.co.jp/js/blog/4723）
+  - 「会社が義務付けられている公告としては、毎年の決算公告（下記のとおり、合同会社においては不要）や、一例として次のような行為をするときに求められます」（https://shiodome.co.jp/js/blog/4723）
+  - 「公告方法の定め方として、3つ（官報、日刊新聞紙、電子公告）のうち複数を選択することはできるでしょうか」（https://shiodome.co.jp/js/blog/4723）
+  - 「例えば、「官報及び日本経済新聞に掲載してする」（https://shiodome.co.jp/js/blog/4723）
+  - 「一方で、「官報又は日本経済新聞に掲載してする」（https://shiodome.co.jp/js/blog/4723）
+  - 「合同会社の1つの特徴として、「決算公告が不要」というものがあります」（https://shiodome.co.jp/js/blog/4723）
+  - 「株式会社の場合は、法律上決算公告をすることが義務付けられているため、毎年の決算公告を安くするために会社の公告方法（あるいは貸借対照表の公告のみ）として電子公告を選択することも考えられます」（https://shiodome.co.jp/js/blog/4723）
+  - 「決算公告は、非公開会社の大会社以外の会社で貸借対照表の要旨を掲載するパターンでも、1回につき7万円以上はかかります」（https://shiodome.co.jp/js/blog/4723）
+  - 「合同会社には決算公告義務がありませんので、決算公告に関する官報掲載費用を考える必要がありません」（https://shiodome.co.jp/js/blog/4723）
+  - 「債権者保護手続きは、公告方法に関わらず官報公告が必要」（https://shiodome.co.jp/js/blog/4723）
+  - 「これらの行為をするときは、会社の公告方法に関わらず、原則として官報公告が必要となります」（https://shiodome.co.jp/js/blog/4723）
+  - 「つまり、会社の公告方法を「日刊工業新聞」や「電子公告」と定めている会社においても、必ず「官報公告」をしなければなりません」（https://shiodome.co.jp/js/blog/4723）
+  - 「知れたる債権者がいるときは、減資や合併等を行うときに、官報公告に加えて各債権者への個別催告も必要となります」（https://shiodome.co.jp/js/blog/4723）
+- 失敗・落とし穴：
+  - 「ホームページを持っていなければならない点（公告用WEBページを貸し出している会社もありますが、ランニングコストが発生します）や、当該URLを変更したら原則としてその変更登記（登録免許税3万円）が必要となる点にも注意が必要です」（https://shiodome.co.jp/js/blog/4723）
+  - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「相続クイズ５０問（間違いだらけのネット情報）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「相続に関与しようとする民間資格や民間団体にご注意ください」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「平成13年6月までに相続開始又は代襲原因発生の場合は要注意｢非嫡出子の法定相続分｣」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「会社や法人が子会社を設立するとき（発起人が会社のとき）の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「会社法人設立時に作るべき会社法人の印鑑の種類は？！注文の注意点やタイミングは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「【インサイダー取引規制】上場株式を売買する場合のほか、上場企業から受注する場合にも要注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「セミナー参加者の募集をウェブ上で行なうときの注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「自己株式取得（総株主から買取）の手続と注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「自己株式取得（特定株主から買取）の手続と注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「コロナで延期していた株主総会や社員総会を開催するときに注意すべき事項～基準日を定めるべきか否かの判断基準」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「他社株式取得や組織再編の際に注意すべき「独禁法の事前届出」」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+- 実例：
+  - 「例えば、「官報及び日本経済新聞に掲載してする」（https://shiodome.co.jp/js/blog/4723）
+  - 「合同会社において公告が求められるケースは、主に次のような行為をするときです」（https://shiodome.co.jp/js/blog/4723）
+  - 「加えて、電子公告には無いメリットとして、ホームページが無くてもダブル公告が可能なことと、債権者保護手続き期間終了と同時に（効力発生すれば）登記申請ができる点が挙げられます（電子公告の場合は、調査機関の結果が出てくるまで多少タイムラグがあります）」（https://shiodome.co.jp/js/blog/4723）
+  - 「個人事業主から法人成りするケースや、資産管理会社として合同会社を選択される場合、官報以外の公告方法を選択するメリットはあまり感じられないかもしれません」（https://shiodome.co.jp/js/blog/4723）
+  - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（前編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（後編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「スポットでも使える「補助＋代理権付与」【事例紹介】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「高齢になった収益不動産オーナーの資産管理＜家族信託による解決事例＞」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「例えば、3月決算の会社が期中に資本金が5億円以上になった場合でも、その事業年度の貸借対照表が承認・報告される翌年の定時株主総会の時点ではじめて大会社に該当することになります」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「ただし、切り捨て・四捨五入【7】の結果、不一致が生じても許容されます」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「何も決めなかった結果として官報になっている状態です」（https://kabushiki-kaisha-setsuritsu.com/kessan-kokoku-hoho/）
+  - 「純資産の部に資本金と利益剰余金が表示されるため、結果として赤字であることは読み取れますが、それを理由に免除されることはありません」（https://kabushiki-kaisha-setsuritsu.com/kessan-kokoku-hoho/）

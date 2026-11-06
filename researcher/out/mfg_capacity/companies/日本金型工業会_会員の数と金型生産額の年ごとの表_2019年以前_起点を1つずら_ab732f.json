@@ -1,0 +1,528 @@
+{
+ "name": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表）",
+ "en": "Japan Die and Mould Industry Association production value members by year table",
+ "aliases": [
+  "日本金型工業会 金型生産額 推移 会員数",
+  "機械統計 金型 生産額 年次 2015 2016 2017 2018"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T20:45:04.262627+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "2019年は1986年と比較して、事業所数は45%減少、従業員数は20%減少",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数の減少が従業員数より大きい理由は、金型製造業は従業員数9名以下の企業が7割、19名以下の企業が8割を超えている",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、市場のグローバル化やリーマン・ショックによる経済活動の減速等で会員数が発足当初の約70社から40社に減少、新型コロナウイルスの影響で活動中止が続き、2021年3月4日の臨時総会をもって解散することが決まりました",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "世界の金型生産高3位の日本は、金型生産高が2019年と1991年比較で30%減少、金型製造業所の事業所が2019年と1986年比較で45%減少、従業員数が20%減少",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "上記グラフは、金型製造業の事業所・従業員数の推移（1986年から～2019年）をまとめたものです",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年は1986年と比較して、事業所数は45%減少、従業員数は20%減少",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数の減少が従業員数より大きい理由は、金型製造業は従業員数9名以下の企業が7割、19名以下の企業が8割を超えている",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "都道府県別金型生産額（2018年）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "上記グラフは、金型生産額の推移（1982年～2018年）をまとめたものです",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "1991年が金型生産額のピークで、その後二度の下降と上昇を繰り返し、リーマンショックで大ダメージを負い、現在ゆっくりと回復",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の生産高がピークだった1991年（平成3年）は1兆9,575億円で、2019年（平成30年）は1兆3,602億円であるため、金型生産高は30%減少",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "上記グラフは、都道府県別の金型生産額の上位5県（2018年）をまとめたものです",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県が圧倒的に金型の生産額が大きく、2位の静岡の2倍以上",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "プレス型、鍛造型、プラスチック型の3つの金型種が、他県と比較して生産額が最も大きく",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "1991年が金型生産額のピークで、その後二度の下降と上昇を繰り返し、リーマンショックで大ダメージを負って現在ゆっくりと回復している",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別金型生産額について、愛知県が圧倒的に金型の生産額が大きく、2位の静岡の2倍以上ある（2018年データ）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "【2021年】金型業界の今を統計データで徹底分析 - 切削工具の情報サイト｜タクミセンパイ",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "【2021年】金型業界の今を統計データで徹底分析",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型生産額、産業別の生産需要の他、世界の金型生産高と輸出・輸入先、金型製造業の事業所・従業員数の推移をまとめ",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を書いた私は工具メーカーでの営業・マーケティングの経験を活かし、切削工具と切削加工業界に特化した専門サイト「タクミセンパイ」を2020年から運営しています",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年時点で公開されている統計データをわかりやすく表現、一部組み合わせて本記事を執筆しました",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金型生産高3位の日本は、金型生産高が2019年と1991年比較で30%減少、金型製造業所の事業所が2019年と1986年比較で45%減少、従業員数が20%減少",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年以降、「金型業界の今を統計データで徹底分析」を2年に1回のペースで最新記事として公開しています",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別金型生産額（2018年）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の業界別の生産需要（2020年）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金型生産高（2019年）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の輸出金額（2020年）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の輸入金額（2020年）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年現在の金型業界を把握するために、下記の情報についてまとめました",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "上記グラフは、金型生産額の推移（1982年～2018年）をまとめたものです",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "（2011年・2015年・2020年は工業統計調査が実施されなかったため、経済センサス（産業編）を使用）",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の生産高がピークだった1991年（平成3年）は1兆9,575億円で、2019年（平成30年）は1兆3,602億円であるため、金型生産高は30%減少",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "上記グラフは、都道府県別の金型生産額の上位5県（2018年）をまとめたものです",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   },
+   {
+    "quote": "上記グラフは、需要業界別の金型生産金額構成（2020年）をまとめたものです",
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/15272",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kojomag.nikkan.co.jp/kata/689",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsump.co.jp/60th/chap05/sec_02_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/english/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.diecasting.or.jp/toukei/index_en.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/izuku_idea/n/n06b572500496?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usitc.gov/publications/332/pub3556.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） 人手不足 受注 断る",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html",
+    "https://www.jdmia.or.jp/data/"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） 受注残 人手不足",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） 人手不足 損失 億円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表）",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） 統計 PDF",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） 1人当たり 万円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） 2015 2025",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "Japan Die and Mould Industry Association production value members by year table Japan statistics",
+   "results": [
+    "https://www.jdmia.or.jp/english/outline.html",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.diecasting.or.jp/toukei/index_en.php",
+    "https://note.com/izuku_idea/n/n06b572500496?hl=en",
+    "https://www.usitc.gov/publications/332/pub3556.pdf",
+    "https://bisai-monozukuri.com/en/database/",
+    "https://www.jama.org/2024-a-high-impact-year-for-japanese-brand-automakers-in-the-u-s/",
+    "https://www.pim-international.com/rebound-in-growth-for-japans-metal-injection-moulding-industry/",
+    "https://www.ceicdata.com/en/japan/production-generalpurpose-production-and-business-oriented-machinery/mold--die-production-value"
+   ]
+  },
+  {
+   "query": "site:note.com 日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表）",
+   "results": [
+    "https://note.com/amane_bombaye/n/n22f30f280354",
+    "https://note.com/tashirokouji/n/n8ea5ef4e22ac",
+    "https://note.com/isl_mono29r1/n/n686bf0077f70",
+    "https://note.com/kumafujidream/n/nf9a0dd3177c7",
+    "https://note.com/izuku_idea/n/n95100a4c2910",
+    "https://note.com/kessankokokku/n/n11ff4eb5b6f5",
+    "https://note.com/kessankokokku/n/n1cb12fc64f8a",
+    "https://note.com/izuku_idea/n/nbcdcf11601ff",
+    "https://note.com/izuku_idea/n/n06b572500496"
+   ]
+  },
+  {
+   "query": "site:x.com 日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表）",
+   "results": [
+    "https://x.com/i/trending/2102617203036106778",
+    "https://x.com/asahicom/status/2117013823261720881",
+    "https://x.com/asahicom/status/2117013822678736971",
+    "https://x.com/yuto_matsuura/status/1747015870210351387",
+    "https://x.com/Matsuno_Mold/status/2077149832003912130",
+    "https://x.com/nao_nass/status/2096793391002780049",
+    "https://x.com/gototaisuke/status/2117062016578076881"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表）",
+   "results": [
+    "https://px.ads.linkedin.com/collect/?pid=8429636&fmt=gif",
+    "https://jp.linkedin.com/company/株式会社サンワ金型",
+    "https://jp.linkedin.com/in/美幸-数度-6b272654",
+    "https://www.linkedin.com/posts/英一郎-長山-1764a93b9_焼肉-日本金型工業会に天青会という会員企業の若手経営者後継者おおむね50-ugcPost-7447748309001084928-ayeA?rcm=ACoAAGYN56oBlEMFgNluKm50umRvUtgqdP3Jjq4",
+    "https://www.linkedin.com/help/linkedin/answer/a548441/what-is-linkedin-and-how-can-i-use-it-?lang=en",
+    "https://jp.linkedin.com/posts/子富-譚-346a813bb_ダイカスト-金型-生産技術-activity-7498285717425422336-YSo_",
+    "https://www.linkedin.com/posts/michio-okazaki-911495153_医薬品市場をけん引する要素は何か-医薬品市場とmr数そして生産性の相関関係-activity-7090345089171914752-OHy_"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表）",
+   "results": [
+    "https://www.facebook.com/jpkanagata/posts/金型産業の1事業所従事者一人当たりの生産額の推移を1986年から見てみると皆様がんばっておられますgood-jobhttpsyoutube5mrvwli0f0c/1702636169896234/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-12月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1541721361290015/",
+    "https://www.facebook.com/jpkanagata/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-8月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1427978675997618/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-11月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1515678883894263/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-2月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1265021068960047/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-5月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1678169717645178/"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） note 社長",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "日本金型工業会 会員の数と金型生産額の年ごとの表（2019年以前・起点を1つずらす・業界新聞でなく工業会の原表） X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.facebook.com/jpkanagata/?locale=ja_JP",
+    "https://kojomag.nikkan.co.jp/kata/689",
+    "https://www.matsump.co.jp/60th/chap05/sec_02_4.html"
+   ]
+  },
+  {
+   "query": "Japan Die and Mould Industry Association production value members by year table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/max-wieder-73a7141bb",
+    "https://www.linkedin.com/company/american-mold-builders-association",
+    "https://www.linkedin.com/company/plastic-molding-manufacturing",
+    "https://www.linkedin.com/company/dynamic-tool-&-design",
+    "https://www.linkedin.com/in/tom-gucciardi",
+    "https://www.linkedin.com/in/stefan-joens",
+    "https://www.linkedin.com/in/douglas-johnson-3b3a9510",
+    "https://www.linkedin.com/company/4spe",
+    "https://www.linkedin.com/company/imdassociation",
+    "https://in.linkedin.com/in/nishantka"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ15頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ15頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ15頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ15頁・検索18回）"
+ }
+}
