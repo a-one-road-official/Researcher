@@ -1982,6 +1982,13 @@
 ## 有価証券報告書の設備の状況・セグメント情報・将来見通しの読み方（reading annual report capex plan segment forward-looking statement）
 - 文脈：企業
 - 手順・やり方：
+  - 「なぜデータ収集がこれほどストレスになるのか、その根本原因と「ストレスフリーな連携」を実現する方法を解説します」（https://biz.moneyforward.com/accounting/basic/45916/）
+  - 「今後の設備投資について資金調達の方法も含めた計画も表示されるため、将来の安全性の予測にも役立ちます」（https://biz.moneyforward.com/accounting/basic/45916/）
+  - 「事業年度の開始時期と終了時期、定時株主総会の時期、基準日や配当の基準日、株式の単元数、公告の方法などが記載」（https://biz.moneyforward.com/accounting/basic/45916/）
+  - 「決算書のもらい方は、電話や対面、またはメールなどの文書で依頼し入手する、もしくは閲覧する方法が一般的です」（https://biz.moneyforward.com/accounting/basic/45916/）
+  - 「決算報告書の見方とは？初心者でも5分で経営状況を把握するコツ」（https://biz.moneyforward.com/accounting/basic/45916/）
+  - 「仮決算とは、中間申告の方法の1つです」（https://biz.moneyforward.com/accounting/basic/45916/）
+  - 「中間申告には予定申告もあり、どちらを選ぶかは自由ですが、それぞれどちらが適した方法なのかしっかりと理解しておく必要があります」（https://biz.moneyforward.com/accounting/basic/45916/）
   - 「当社は第8期において東証グロース上場および公募増資・大型デット調達を実施し、自己資本比率78.6%という鉄壁の財務耐久力を確立しました」（https://note.com/good_dill292/n/n566358f01735）
   - 「- 2018年4月：国立大学法人東京大学との間で小型SAR衛星開発に関する共同研究契約を締結」（https://note.com/good_dill292/n/n566358f01735）
   - 「- 2020年12月：自社初となる小型SAR実証機「StriX-α」の打ち上げに成功」（https://note.com/good_dill292/n/n566358f01735）
@@ -1990,13 +1997,6 @@
   - 「- 全天候・昼夜観測性能：光学衛星と異なり、雲を透過し夜間でも地表を画像化できるX-band帯小型SARセンサーを搭載」（https://note.com/good_dill292/n/n566358f01735）
   - 「- 超軽量・低コスト化：内閣府ImPACTプログラムの成果を応用し、従来型大型SAR衛星（重量1トン越、数百億円）に対し、重量約100〜200kg（1/10）、製造コスト約1/20を実現」（https://note.com/good_dill292/n/n566358f01735）
   - 「- 展開型スロットアレーアンテナ：打ち上げ時はコンパクトに折りたたみ、宇宙空間で大面積アンテナを展開する独自構造」（https://note.com/good_dill292/n/n566358f01735）
-  - 「日本政府の「衛星コンステレーション整備・運営等事業」など官公庁・内閣府の大型予算を確実に受託しつつ、海外政府・民間市場へ波及させます」（https://note.com/good_dill292/n/n566358f01735）
-  - 「定期的な1on1、社内研修、CREDO賞制定等により、自律型学習組織の構築と離職防止に努めています」（https://note.com/good_dill292/n/n566358f01735）
-  - 「⑤ 競争状況について：国内外の大型競合や新興メガコンステレーション事業者との価格・性能競争リスク」（https://note.com/good_dill292/n/n566358f01735）
-  - 「⑧ 継続企業の前提に関する重要事象等について：営業赤字継続も手元現預金245億円および大型受注により継続企業の前提に重要な懸念はない旨の判断」（https://note.com/good_dill292/n/n566358f01735）
-  - 「売上成長に加え大型補助金が営業外収益に寄与」（https://note.com/good_dill292/n/n566358f01735）
-  - 「- 生産・受注・販売実績：受注高 25,730,000千円、受注残高 24,960,000千円（うち官公庁・トライサット等向け大型長期契約が大部分を占める）」（https://note.com/good_dill292/n/n566358f01735）
-  - 「- 東京大学：小型SAR衛星開発の共同研究契約（2018年4月〜2026年3月）」（https://note.com/good_dill292/n/n566358f01735）
 - 突き合わせ・推定：
   - 「監査人は、当社グループが単一CGUとして集計する前提の合理性、将来事業計画に基づく割引キャッシュ・フロー見積もりの妥当性を検証し、現時点で減損損失の認識は不要であると判断・認定いたしました」（https://note.com/good_dill292/n/n566358f01735）
   - 「専門用語「バーンレート」をわかりやすく平易に解説しつつ、資金ショートリスクの有無を検証します」（https://note.com/good_dill292/n/na85fb5504591）
@@ -2023,6 +2023,7 @@
   - 「決算資料には、有価証券報告書の他に決算短信というものがあります」（https://navi.funda.jp/article/securities-report）
   - 「決算短信とは、証券取引所のルールに則り作成し、証券取引所に提出する資料です」（https://navi.funda.jp/article/securities-report）
 - 失敗・落とし穴：
+  - 「法定開示は投資家保護を主眼に置いたものですので、情報に誤りがあると、投資判断に有用な情報が開示されたことにはなりません」（https://biz.moneyforward.com/accounting/basic/45916/）
   - 「徹底的に、投資してはダメな理由と投資すべき理由を探すために」（https://note.com/good_dill292/n/n566358f01735）
   - 「⑥ 衛星打上の失敗のリスクについて：ロケット点火失敗・軌道投入不能（保険未カバーの事業機会損失）リスク」（https://note.com/good_dill292/n/n566358f01735）
   - 「徹底的に、投資してはダメな理由と投資すべき理由を探すために」（https://note.com/good_dill292/n/na85fb5504591）
@@ -2037,7 +2038,6 @@
   - 「有価証券報告書は、企業分析における非常に強力なツールですが、その情報を活用する上では、いくつかの注意点を理解しておく必要があります」（https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/）
   - 「実際に、多くの有価証券報告書には、以下のような趣旨の注意書き（ディスクレーマー）が記載されています」（https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/）
   - 「ここに書かれている情報を鵜呑みにするのではなく、あくまで数ある判断材料の一つとして客観的に捉える姿勢が重要です」（https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/）
-  - 「これらの注意点を理解した上で向き合うことで、初めてその価値を最大限に引き出すことができるのです」（https://crexgroup.com/ja/data/column/research-methods/securities-report-reading-guide/）
 - 実例：
   - 「」を2019年にイプシロンロケット4号機で打上げ（日本の政府系機関衛星開発をスタートアップが受託した初の事例）」（https://note.com/good_dill292/n/n41c622e52337）
   - 「▪ 国の宇宙関連予算の削減、防衛・安全保障政策の変更、あるいは入札・採択結果の不調等が生じた場合、当社グループの受注および業績に重大な悪影響を及ぼす可能性」（https://note.com/good_dill292/n/n41c622e52337）
@@ -2156,11 +2156,11 @@
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3785,7 +3785,7 @@
   - 「https://cdn.example.net/img/hp-guide.jpg」（https://mydatascraper.com/services/website-content-scraping/）
   - 「Tell us what data you need, where it lives, and how you want it delivered. Our team will design the extraction workflow around your use case.」（https://mydatascraper.com/services/website-content-scraping/）
   - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
 - 文脈：
@@ -4202,8 +4202,8 @@
   - 「Check again for missing cases/duplicate cases.」（https://datamgmtinedresearch.com/clean）
   - 「in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:」（https://datamgmtinedresearch.com/clean）
   - 「If there are true errors where the correct answer can be easily inferred (e.g., a 3-item rank order question is completed as 1, 2, 4), sometimes logical or deductive editing can be used in those cases and the value is replaced with the logical correction」（https://datamgmtinedresearch.com/clean）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
 
 ## 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け（ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood）
 - 文脈：書き方
@@ -4225,8 +4225,8 @@
   - 「well as source access, validation, motivation, possible bias, or expertise. Source summary」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「politicization, biased reporting, or lack of objectivity in intelligence analysis.」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「of collection as well as source access, validation, motivation, possible bias, or expertise. When a」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
@@ -5764,7 +5764,7 @@
   - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
   - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
   - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
 - 文脈：出どころ
@@ -6079,6 +6079,10 @@
   - 「3 つ目は、私自身の検証方法に関する注意です」（https://thunderbit.com/ja/blog/trafilatura-review）
   - 「そのギャップを少し埋めるため、別途、あえて採点対象にしないデモとして、実際の記事ページを 2 つ検証しました」（https://thunderbit.com/ja/blog/trafilatura-review）
   - 「公開ページでの文章検証は、実ニュース記事ではなく商品説明ブロックを使った」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「phrases rather than individual words. Per-type 95% confidence intervals are estimated by non-parametric」（https://arxiv.org/pdf/2605.21097）
+  - 「plexity, one has to estimate it. To show that such an estimation is」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「that more complex models with better features can estimate page」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
+  - 「on its estimated extraction complexity, as there is no one-size-fits-」（https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf）
 - 一次情報の探し方：
   - 「https://readability.readthedocs.io/_/downloads/en/latest/pdf/」（https://www.osti.gov/servlets/purl/2429881）
   - 「using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
@@ -6098,6 +6102,8 @@
   - 「注意点は 3 つあります」（https://thunderbit.com/ja/blog/trafilatura-review）
   - 「3 つ目は、私自身の検証方法に関する注意です」（https://thunderbit.com/ja/blog/trafilatura-review）
   - 「を返す、落ち着いた失敗挙動」（https://thunderbit.com/ja/blog/trafilatura-review）
+  - 「extraction profile tuning, the held-out test set was never used during development and provides an unbiased」（https://arxiv.org/pdf/2605.21097）
+  - 「systems inherit the same article bias as heuristic systems — they were trained predominantly on article-like」（https://arxiv.org/pdf/2605.21097）
 - 実例：
   - 「allow you to control which elements of the webpage are extracted. For example, you can select for」（https://www.osti.gov/servlets/purl/2429881）
   - 「for Summarization (with Examples)," Dev.to, 2023. Available: https://dev.to/aws-」（https://www.osti.gov/servlets/purl/2429881）
@@ -6114,6 +6120,8 @@
   - 「リストだけの記事、短い段落、プロモーションの兄弟要素、ほぼ空のページ、そして「何も返さないほうがまし」なケースを含めます」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
   - 「記事ではないページ――商品一覧、検索結果、ダッシュボード――も未対象です」（https://thunderbit.com/ja/blog/article-extraction-libraries-compared）
   - 「結果は 1 回の呼び出しで」（https://thunderbit.com/ja/blog/trafilatura-review）
+- 検索結果の抜粋：
+  - 「WCXB: A Multi-Type Web Content Extraction Benchmark — May 21, 2026 · Abstract Web content extraction — isolating a page's main content from surrounding boilerplate — is a prerequisite for search indexing, retrieval-augmented generation, NLP dataset construction, and large language model training. Progress in this area has been constrained by the limitations of existing evaluation benchmarks, which」（https://arxiv.org/pdf/2605.21097）
 
 ## 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）（equity research workflow source tracking stale inputs checklist）
 - 文脈：裏取り
