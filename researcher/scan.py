@@ -497,6 +497,19 @@ LOWRESP = re.compile(r"(回収率|回答率)\s*(は|が|：|:)?\s*(約)?\s*(\d{1
 SELFREPORT = re.compile(r"(自己評価|自己申告|自己採点|自社調べ|自社調査)")
 CONTRACTOR = re.compile(r"(委託先(の|が)?(変更|変わ)|調査(の)?委託先|入札(により|で)[^。]{0,10}委託)")
 INTERSEG = re.compile(r"(セグメント間|内部売上|内部取引|社内売上|グループ内(の)?(売上|取引))")
+# 2026-11-06 4-51（Flares「How to Find Competitor Revenue」：数字ごとに Filed／Stated／Estimated を付ける。監査済みの値と推定を同じ書き方で並べない）。
+# 届出＝統計・開示・官報・自治体の一次／言明＝会社・団体などが自分で言った値／報道＝記事が書いた値（言明か推定の写し）／推定＝予測・試算・調査会社・信用調査
+ESTWORD = re.compile(r"(推計|推定|試算|概算|と見られる|とみられる|と推測)")
+def fse_of(r):
+    if r.get("予測") or r["一次"] in ("調査会社", "信用調査") or ESTWORD.search(r.get("引用", "")): return "推定"
+    if r["一次"] == "一次": return "届出"
+    if NEWSHOST.search(urlparse(r.get("URL", "")).netloc): return "報道"
+    return "言明"
+# 2026-11-06 4-51（Flares：外貨の決算は期中平均のレートで換算し、今日のレートで換算しない）。引用に外貨と円の両方の金額があれば換算の時点を確かめる印
+FXMIX = re.compile(r"(\d[\d,.]*\s*(億|百万|万)?\s*(ドル|米ドル|ユーロ|ポンド|元|USD|EUR|\$))", re.I)
+# 2026-11-06 4-51（edukatesingapore「統計の改訂・データの版・ベンチマーク改定」：指数の基準年を変えると全部の値の水準が変わる。
+# 遡って作り直した系列は当時の公表値と同じものではない）。基準年の違う指数・遡及の作り直しを当時の値と同じ欄で混ぜない
+REBASE = re.compile(r"((19|20)\d\d\s*年\s*[=＝]\s*100|基準年(の)?(改定|変更|改訂)|基準改定|指数の基準|遡って(作り直|再計算|改定)|遡及(推計|系列))")
 def chance_band(series):
     # 4-44：件数（事業所・社・件）の最初と最後の年の差が、偶然のばらつき（ポアソンの目安：差が2×√(a+b) 以内）に収まるか。
     # 小さい件数の増減（Stray の例：信号を付けた交差点の事故9件→少ない件数）は偶然でも起きる。収まれば向きを言い切らない
@@ -568,6 +581,26 @@ def kougyo_size_section(topic):
             if not d: continue
             verdict.append(f"{lab}：全区分で{'上向き' if d == {'上'} else '下向き' if d == {'下'} else ''}（構成変化だけでは説明できない）" if len(d) == 1 and d != {"横"} else f"{lab}：区分で向きが割れる（平均の向きは構成変化を含みうる・判定できない）")
         if len(spans) >= 2: verdict.append("⚠ 区分ごとに比べた年が違う（" + "・".join(f"{a}→{b}" for a, b in sorted(spans)) + "）：同じ年どうしになるまで言い切らない")
+        # 2026-11-06 走査の失敗から（mfg_capacity 26回目）：小さい区分は2017→2018年、30人以上は2017→2019年で比べたまま「全区分で上向き」と出た。
+        # 全区分に共通する年だけで比べ直した向きを別に出す。共通の年の間が1年だけなら「1回の変化」で傾向ではない（4-37）
+        okyears = []
+        for band, ys in bands.items():
+            if band == "計": continue
+            oy = {y for y, (r, fl) in ys.items() if not fl}
+            if len(oy) >= 2: okyears.append((band, oy))
+        if len(okyears) >= 2:
+            com = set.intersection(*(oy for _b, oy in okyears))
+            if len(com) >= 2:
+                c0, c1 = min(com), max(com)
+                for k in ("従業者1人あたり付加価値額_万円", "従業者1人あたり製造品出荷額等_万円"):
+                    dd = set(); n = 0
+                    for band, _oy in okyears:
+                        a0, a1 = _kf(bands[band][c0][0].get(k)), _kf(bands[band][c1][0].get(k))
+                        if a0 and a1 and a0 > 0: dd.add("上" if a1 > a0 else "下" if a1 < a0 else "横"); n += 1
+                    lab = k.replace("従業者1人あたり", "1人あたり").replace("_万円", "")
+                    one = "・1回の変化で傾向ではない（4-37）" if c1 - c0 == 1 else ""
+                    if dd: verdict.append(f"同じ年どうし（{c0}→{c1}年・{n}区分）の{lab}：" + ("全区分で" + {"上": "上向き", "下": "下向き", "横": "横ばい"}[next(iter(dd))] if len(dd) == 1 else "区分で向きが割れる") + one)
+            else: verdict.append("全区分に共通する年が2つ未満：同じ年どうしの向きは出せない")
         md.append(f"- {code} {name}：" + "／".join(verdict or ["比べられる区分なし"]))
         md += [f"  - {o}" for o in out]
     md.append("")
@@ -742,6 +775,10 @@ def scan(topic):
         nrot = sum(1 for r in rs if SAMPLEROT.search(r["引用"])); npw = sum(1 for r in rs if POPWEIGHT.search(r["引用"]))
         if nrot: md.append(f"- ⚠ 抽出替え・ベンチマーク更新・復元・再集計の語が{nrot}件：その月・年の前後で値に段差が出る。段差をまたいだ向きを使わず、遡及・再集計の系列どうしで比べる（4-43）")
         if npw: md.append(f"- ⚠ 推計母集団労働者数・推計比率の語が{npw}件：集計の重みで人数の事実ではない。社員数・従業者数の欄に入れない（4-43）")
+        nfx = sum(1 for r in rs if FXMIX.search(r["引用"]) and re.search(r"\d\s*(億円|万円|百万円|円)", r["引用"]))
+        if nfx: md.append(f"- ⚠ 外貨と円の金額が同じ引用に{nfx}件：換算に使ったレートの時点（期中平均か取得日か）を確かめ、決算期の平均で換算した値だけを採る（4-51）")
+        nreb = sum(1 for r in rs if REBASE.search(r["引用"]))
+        if nreb: md.append(f"- ⚠ 指数の基準年・遡及の作り直しの語が{nreb}件：基準年の違う指数、遡って作り直した系列と当時の公表値を同じ欄でつながない。同じ版の系列どうしで向きを見る（4-51）")
         ntes = sum(1 for r in rs if TESTIMONY.search(r["引用"])); htes = {urlparse(r["URL"]).netloc for r in rs if TESTIMONY.search(r["引用"]) and r["URL"]}
         if ntes: md.append(f"- ⚠ 証言（関係者・取材・インタビュー）からの数字が{ntes}件・{len(htes)}か所：1人の証言は1件の手がかりで裏付けにならない。別の証言かデータと突き合わせるまで【未確認】のまま読む（4-46）")
         # 2026-11-06 4-44：誤差の幅・回収率・自己評価・委託先の変更・内部売上の印
@@ -823,6 +860,9 @@ def scan(topic):
             pmid = statistics.median([v for v in vals if v > 0] or [0])
             md.append(f"- {gr} {cat}［{ctx}］（{u}）：{len(g)}件・一次{len(prim)}件・出典{len({src_key(r) for r in g})}か所（調査会社は1つに束ねる）・予測値{len(fut)}件、幅 {lo:g}〜{hi:g}（食い違い{spread}）")
             md.append(f"  - 書き方（4-23）：{phrasing(gr, g)}／格付け（4-28・出どころA〜F×情報1〜6）：{admiralty(g, gr)}")
+            fse = {}
+            for r in g: fse[fse_of(r)] = fse.get(fse_of(r), 0) + 1
+            md.append("  - 数字の種類（4-51・届出／言明／報道／推定）：" + "・".join(f"{k}{fse.get(k, 0)}" for k in ("届出", "言明", "報道", "推定")) + ("。届出0件：「〇〇によると」で書き、確かめた値のように書かない" if not fse.get("届出") else ""))
             # 2026-11-06 4-44 走査の失敗から：金型の従業者数で、金型工業会の「就労者12万人」（年なし・昔の値）と「約7万人」（年なし）と記事の2024年69,553人が
             # 同じ欄で【裏付けあり】になった。時点の違う値の一致・年の無い値は、同じ対象の裏付けではない（4-1 の①時点の違い）
             if gr == "【裏付けあり】":
