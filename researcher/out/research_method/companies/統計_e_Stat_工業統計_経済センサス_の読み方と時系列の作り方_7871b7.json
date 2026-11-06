@@ -8,9 +8,197 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-06T08:41:27.912897+00:00",
+ "researched_at": "2026-11-06T13:28:41.063577+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Excel の台帳を Notion へ移す進め方｜全件の照合までの手順",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "e-Stat には膨大な統計表が登録されており、同じ「人口」でも「国勢調査」「人口推計」「住民基本台帳人口移動報告」など複数の調査に分かれています",
+    "url": "https://note.com/stats47/n/n7e4572d23a1b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": ": 国勢調査 / 人口推計 / 経済センサス / 学校基本調査 / 賃金構造基本統計調査 など",
+    "url": "https://note.com/stats47/n/n7e4572d23a1b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市町村別農業産出額（推計）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "家庭からの二酸化炭素排出量の推計に係る実態調査 試験調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同ウェブサイトにて、四半期速報および年次推計などの各種データや解説が提供されている",
+    "url": "https://note.com/keisemi/n/naf14ab3c9062",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "各部門別に全要素生産性（TFP）を推計するために、資本サービス投入指数と資本コスト、労働投入指数と労働コスト、名目・実質の生産・中間投入、TFPの上昇率を計算した成長会計の結果等を網羅した年次データから構成される",
+    "url": "https://note.com/keisemi/n/naf14ab3c9062",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "オランダのフローニンゲン大学のチームが中心となってEU主要国、米国、韓国等について産業別に全要素生産性の推計を行ってきたデータベース",
+    "url": "https://note.com/keisemi/n/naf14ab3c9062",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自分の仮説に合うデータだけを探す",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人口・将来推計",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（国立社会保障・人口問題研究所）の「日本の地域別将来推計人口（令和5年推計）」では、2020年から2050年にかけての市区町村別人口を男女・5歳階級別に公表している",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の地域別将来推計人口（令和5年推計）",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "参加者を無作為に介入群と対照群に分けて効果を検証する実験デザイン",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "子どもの貧困率・地域別人口推計など社会課題に直結する統計は無料で入手できる",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人口推計 (市区町村別)",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人口推計 (男女別)",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "人口推計 (年次推移)",
+    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Chōki keizai tōkei = Estimates of Long-Term Economic Statistics of Japan Since 1868 長期経済統計",
+    "url": "https://guides.library.duke.edu/c.php?g=289736&p=1931006",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "Excel の台帳を Notion へ移す進め方｜全件の照合までの手順",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "総務省統計局「社会人のためのデータサイエンス入門/公的データの使い方」のまとめと感想～e-Stat、なかなかやるなと思った話【Week4】｜水無瀬あずさ＠複業ライター",
     "url": "https://note.com/azasaz_a/n/nfcf8049b8ebd",
@@ -306,111 +494,67 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "：検索入口、表示単位、ファイルとデータベース、公開更新日の注意",
-    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております",
-    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "キーワード検索を使う場合の注意（単語の間のスペース）",
-    "url": "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "相関と因果の区別・母集団と標本・バイアスの把握が統計リテラシーの三本柱",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "相関と因果・母集団と標本・バイアスの把握",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "バイアスの型を見抜く",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "例: 成功したNPOの事例集——廃業した団体は調査に残らない（生存バイアス）",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "社会課題の文脈でも同じ誤りは起きる",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "バイアスの種類と回避法",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "データの偏り（バイアス）は、統計の「正確さ」に対する最大の脅威だ",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "◎選択バイアス",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "◎確証バイアス",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "◎生存バイアス",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "◎測定バイアス",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "「相関と因果を区別する」「誰に聞いた数字かを問う」「バイアスの構造を認識する」、この3つの習慣を持つだけで、データを読む力は大きく変わる",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "「AIに聞きました」の落とし穴 — オーソリティバイアスと知識の空洞化",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
   "実例": [
+   {
+    "quote": "e-Statには、5年ごとに行う経済センサス‐活動調査の令和3年の結果もあります",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計局の結果の頁は、Excelの統計表のほかに、統計データベースでデータ抽出や表の表示、ダウンロードができるとしています",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国の民営事業所数は4,023,941、従業者数は56,285,043人で、統計局の結果の概要の数と同じでした",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4,023,941は、そこから事業内容等不詳の事業所を除いた数です（結果の概要）",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これとは別に、統計局の令和6年経済センサス‐基礎調査の頁は、統計データを引用・転載する場合に、出典「経済センサス‐基礎調査結果」（総務省統計局）の表記をお願いしています",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「経済センサス‐基礎調査結果」（総務省統計局）（",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "初めて使うときは、検索結果の名前だけで決めず、統計名、対象期間、単位、注記まで順に確認すると、目的の表を見つけやすくなります",
     "url": "https://blog.kurashiq.com/estat-first-search-guide/",
@@ -664,7 +808,243 @@
     "first_seen": "2026-11-04"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "取り方、表の形、業種の母数と企業等の数と売上の数え方、記号などの落とし穴、利用の条件を、取った記録と公式の説明でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事は、業種の母数や営業先の数の当たりを付けたい担当者に向けて、取り方・表の形・落とし穴・規約を、取った記録と公式の説明でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上は2023年1年間の値で、税抜きの回答は税込みに直して集計しています（利用上の注意）",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "利用上の注意は、売上（収入）金額などは必要な事項の数値が得られた事業所を対象に集計したとしています",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "記号の意味は、利用上の注意に次のとおり書かれています",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：検索入口、表示単位、ファイルとデータベース、公開更新日の注意",
+    "url": "https://blog.kurashiq.com/estat-first-search-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "キーワード検索を使う場合の注意（単語の間のスペース）",
+    "url": "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "相関と因果の区別・母集団と標本・バイアスの把握が統計リテラシーの三本柱",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "相関と因果・母集団と標本・バイアスの把握",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイアスの型を見抜く",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例: 成功したNPOの事例集——廃業した団体は調査に残らない（生存バイアス）",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "社会課題の文脈でも同じ誤りは起きる",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "バイアスの種類と回避法",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "データの偏り（バイアス）は、統計の「正確さ」に対する最大の脅威だ",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "◎選択バイアス",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "◎確証バイアス",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "◎生存バイアス",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "◎測定バイアス",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「相関と因果を区別する」「誰に聞いた数字かを問う」「バイアスの構造を認識する」、この3つの習慣を持つだけで、データを読む力は大きく変わる",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「AIに聞きました」の落とし穴 — オーソリティバイアスと知識の空洞化",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
   "一次情報の探し方": [
+   {
+    "quote": "経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模｜ゴムマリ",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "／ 経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済センサスの​統計表の​取り方と​活用法｜​業種の​事業所数・​企業等の​数・​売上の​規模",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済センサスは、事業所と企業を業種・地域・規模ごとに数えた国の統計で、e-Statから登録なしで統計表のExcelを取れます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和6年経済センサス‐基礎調査の統計表は、e-Statの画面から登録なしでExcelを取れ、2026年11月2日に取った6本は合わせて19,072,317バイトだった",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取り方：e-Statの「ファイルから探す」で表番号を選んでExcelを落とす",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済センサス‐基礎調査とは、事業所と企業の産業・従業者規模などを、全国と地域別に明らかにする国の統計調査です",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民営事業所の甲調査は令和6年6月に行われ、令和7年12月に確報が公表されました（総務省統計局の頁）",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "e-Statには、5年ごとに行う経済センサス‐活動調査の令和3年の結果もあります",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計表は業種・地域・規模ごとの数で、個々の会社の名前はありません",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計局は、調査の対象の範囲が違うため、令和3年の活動調査などとの比較には留意が必要としています",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取り方​：e-Statの​「ファイルから​探す」で​表番号を​選んで​Excelを​落とす",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のメニューの「統計データを探す」の下の「ファイルから探す」に、政府統計ごとのファイルの一覧があります",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://www.e-stat.go.jp/stat-search/files?toukei=00200552",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弊社が開いたこの一覧の23表は、22表がExcel、1表がPDFで、CSVのボタンはありませんでした",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "疾病、傷害及び死因の統計分類（死因分類）",
     "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
@@ -1643,122 +2023,6 @@
     "pass": 3,
     "first_seen": "2026-11-04"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "e-Stat には膨大な統計表が登録されており、同じ「人口」でも「国勢調査」「人口推計」「住民基本台帳人口移動報告」など複数の調査に分かれています",
-    "url": "https://note.com/stats47/n/n7e4572d23a1b",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": ": 国勢調査 / 人口推計 / 経済センサス / 学校基本調査 / 賃金構造基本統計調査 など",
-    "url": "https://note.com/stats47/n/n7e4572d23a1b",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "市町村別農業産出額（推計）",
-    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "家庭からの二酸化炭素排出量の推計に係る実態調査 試験調査",
-    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "同ウェブサイトにて、四半期速報および年次推計などの各種データや解説が提供されている",
-    "url": "https://note.com/keisemi/n/naf14ab3c9062",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "各部門別に全要素生産性（TFP）を推計するために、資本サービス投入指数と資本コスト、労働投入指数と労働コスト、名目・実質の生産・中間投入、TFPの上昇率を計算した成長会計の結果等を網羅した年次データから構成される",
-    "url": "https://note.com/keisemi/n/naf14ab3c9062",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "オランダのフローニンゲン大学のチームが中心となってEU主要国、米国、韓国等について産業別に全要素生産性の推計を行ってきたデータベース",
-    "url": "https://note.com/keisemi/n/naf14ab3c9062",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "自分の仮説に合うデータだけを探す",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "人口・将来推計",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "（国立社会保障・人口問題研究所）の「日本の地域別将来推計人口（令和5年推計）」では、2020年から2050年にかけての市区町村別人口を男女・5歳階級別に公表している",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本の地域別将来推計人口（令和5年推計）",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "参加者を無作為に介入群と対照群に分けて効果を検証する実験デザイン",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "子どもの貧困率・地域別人口推計など社会課題に直結する統計は無料で入手できる",
-    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "人口推計 (市区町村別)",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "人口推計 (男女別)",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "人口推計 (年次推移)",
-    "url": "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Chōki keizai tōkei = Estimates of Long-Term Economic Statistics of Japan Since 1868 長期経済統計",
-    "url": "https://guides.library.duke.edu/c.php?g=289736&p=1931006",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
   ]
  },
  "figures": {},
@@ -1785,12 +2049,57 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/stats47/n/n7e4572d23a1b",
+    "url": "https://note.com/agile_kudu7242/n/n74b6b1f1a00c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/agile_kudu7242/n/n74b6b1f1a00c",
+    "url": "https://note.com/springside40/n/n108dc3f7b4a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200553&toukei_kind=6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keisemi/n/naf14ab3c9062",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001056219",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://officekaisuiyoku.com/category/indicators/cateestat/",
     "status": "ok",
     "method": "http"
    },
@@ -1810,14 +2119,29 @@
     "method": "http"
    },
    {
-    "url": "https://www.research-skills.com/articles/estat-howto/",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001069811&result_page=1&statdisp_id=0003389414",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "url": "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/33380",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.research-skills.com/articles/estat-howto/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.e-stat.go.jp/help/operation",
@@ -1825,22 +2149,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/data/e-census/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat-search.boj.or.jp/info/nme_aphelp_en.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.boj.or.jp/en/about/education/oshiete/statistics/h03.htm",
+    "url": "https://dashboard.e-stat.go.jp/en/timeSeries",
     "status": "ok",
     "method": "http"
    },
@@ -1850,17 +2159,22 @@
     "method": "http"
    },
    {
+    "url": "https://guides.library.duke.edu/c.php?g=289736&p=1931006",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.stat.go.jp/english/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.boj.or.jp/en/statistics/index.htm",
-    "status": "ok",
+    "url": "https://www.researchgate.net/figure/Summary-Statistics-of-Japanese-Time-Series-Data_tbl3_228424204",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/en/developer",
+    "url": "https://guides.library.yale.edu/c.php?g=295893&p=1975547",
     "status": "ok",
     "method": "http"
    }
@@ -1874,57 +2188,69 @@
     "https://note.com/s_v_s/n/n9d6328633b83",
     "https://note.com/arima_planning/n/n851c719dc777",
     "https://note.com/mankintan/n/n65f0fa60e38d",
-    "https://note.com/stats47/n/n7e4572d23a1b",
     "https://note.com/agile_kudu7242/n/n74b6b1f1a00c",
-    "https://note.com/springside40/n/n108dc3f7b4a5"
+    "https://note.com/springside40/n/n108dc3f7b4a5",
+    "https://note.com/azasaz_a/n/nfcf8049b8ebd"
    ]
   },
   {
    "query": "統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方 note",
    "results": [
-    "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
-    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://blog.kurashiq.com/estat-first-search-guide/",
-    "https://www.research-skills.com/articles/estat-howto/",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200553&toukei_kind=6",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://note.com/keisemi/n/naf14ab3c9062",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001056219",
+    "https://gomumari.com/knowledge/keizai-census-katsuyo/",
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "https://www.e-stat.go.jp/help/operation",
-    "https://www.e-stat.go.jp/"
+    "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable"
    ]
   },
   {
    "query": "統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方 やり方",
    "results": [
-    "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
-    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://blog.kurashiq.com/estat-first-search-guide/",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "https://www.stat.go.jp/data/e-census/index.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200553&toukei_kind=6",
     "https://www.e-stat.go.jp/",
-    "https://www.e-stat.go.jp/help/operation"
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001056219",
+    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.youtube.com/watch?v=39NW-vGtA5k",
+    "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "https://officekaisuiyoku.com/category/indicators/cateestat/",
+    "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
    ]
   },
   {
    "query": "統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方 事例",
    "results": [
-    "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
-    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://www.research-skills.com/articles/estat-howto/",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
-    "https://blog.kurashiq.com/estat-first-search-guide/",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200553&toukei_kind=6",
     "https://www.e-stat.go.jp/",
-    "https://www.e-stat.go.jp/help/operation"
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001056219",
+    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001069811&result_page=1&statdisp_id=0003389414",
+    "https://isvd.or.jp/guides/data-literacy-estat-resas-guide",
+    "https://www.jagat.or.jp/archives/33380",
+    "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/102toukeigaku/asiya.pdf",
+    "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
    ]
   },
   {
    "query": "how to use Japanese government statistics time series",
    "results": [
-    "https://www.stat-search.boj.or.jp/info/nme_aphelp_en.html",
-    "https://www.boj.or.jp/en/about/education/oshiete/statistics/h03.htm",
+    "https://dashboard.e-stat.go.jp/en/timeSeries",
     "https://www.stat-search.boj.or.jp/index_en.html",
+    "https://guides.library.duke.edu/c.php?g=289736&p=1931006",
     "https://www.stat.go.jp/english/",
-    "https://www.boj.or.jp/en/statistics/index.htm",
-    "https://www.e-stat.go.jp/en/developer",
-    "https://www.e-stat.go.jp/en"
+    "https://www.researchgate.net/figure/Summary-Statistics-of-Japanese-Time-Series-Data_tbl3_228424204",
+    "https://guides.library.yale.edu/c.php?g=295893&p=1975547",
+    "https://www.youtube.com/watch?v=LOUdcHwoWP0",
+    "https://rnavi.ndl.go.jp/en/post-485394.html",
+    "https://unstats.un.org/unsd/demographic/sconcerns/tuse/Country/Japan/sourcejpn96.pdf",
+    "https://www.stat-search.boj.or.jp/info/nme_aphelp_en.html"
    ]
   },
   {
@@ -1957,39 +2283,339 @@
   },
   {
    "query": "site:facebook.com 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方",
-   "results": []
+   "results": [
+    "https://www.facebook.com/ecensus2026/photos/データで見るニッポンの産業図鑑日本の産業のすがたをデータでひもとくニッポンの産業図鑑を公開しました経済センサス活動調査のデータをもとに都道府県ごとの従業者数ラン/122133293493121431/",
+    "https://www.facebook.com/ecensus2026/posts/マンガでわかる経済センサス活動調査-snsで人気の漫画家4名による描き下ろし作品を先行公開しました経済センサス活動調査の仕組みや重要性を個性豊かなマンガでわかり/122130472659121431/",
+    "https://www.facebook.com/ecensus2026/posts/東洋経済オンライン-タイアップ記事のご紹介東洋経済オンラインにて経済センサス-活動調査が取り上げられました地方創生の専門家によって経済センサス-活動調査の重要性/122137124313121431/",
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/JapaneseEconomicReviewJPN/",
+    "https://www.facebook.com/ibaraki.tokei/photos/令和８年経済センサス活動調査を本年４６月頃にかけて実施します調査開始前に理解を深めていただくため茨城県庁25階でポスターを掲示しましたお立ち寄りの際にはぜひご覧/1369486328557389/",
+    "https://www.facebook.com/ecensus2026/"
+   ]
   },
   {
    "query": "統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方 note 社長",
-   "results": []
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&tstat=000001056219",
+    "https://www.e-stat.go.jp/classifications/terms/80?search_method=keyword&search_word=&komokuSearchFlg_dummy=1&komokuSearchFlg=1&info1SearchFlg_dummy=1&info1SearchFlg=1&info2SearchFlg_dummy=1&info2SearchFlg=1&revision=03&search_kind=80&base_code=0&form_build_id=form-Umt4klH1AkZsxYNaf6_Xn-KRpaRHUwZQbg3U6JKus-c&form_id=main_form&op=search&searchboxShow1=1&searchboxShow2=0&searchboxShow3=0&source=main&page=&srchcndId=",
+    "https://note.com/keisemi/n/naf14ab3c9062",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "https://note.com/tenpura_3/n/n811badf13c30",
+    "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
+   ]
   },
   {
    "query": "統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方 X 投稿",
    "results": [
-    "https://www.stat.go.jp/info/guide/public/kouhou/index.html",
-    "https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable",
-    "https://blog.kurashiq.com/estat-first-search-guide/",
-    "https://www.research-skills.com/articles/estat-howto/",
-    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://www.e-stat.go.jp/",
-    "https://www.e-stat.go.jp/usageguide"
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200553&result_page=1",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "https://www.e-stat.go.jp/classifications/terms/80",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
+    "https://www.stat.go.jp/info/guide/public/kouhou/index.html"
    ]
   },
   {
    "query": "how to use Japanese government statistics time series site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/1/how-can-you-use-time-series-analysis-economics-skills-economics",
-    "https://ca.linkedin.com/in/andreas-trau-76542837",
-    "https://in.linkedin.com/in/starwin-joseph-ai",
-    "https://www.linkedin.com/pulse/my-permanent-residence-wait-tokyo-what-e-stat-reveals-alexander-hart-lc6fc",
-    "https://za.linkedin.com/in/otsile-sithole",
-    "https://uk.linkedin.com/in/lexi-keegan-05bbb963",
-    "https://uk.linkedin.com/in/gianfranco-addario-b5220148"
+    "https://www.linkedin.com/posts/krstnmllr_%F0%9D%97%AA%F0%9D%97%B5%F0%9D%98%86-%F0%9D%98%84%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B8%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%98%84%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5-%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%BC-activity-7513326676307529729-tPkU",
+    "https://uk.linkedin.com/company/office-for-national-statistics",
+    "https://www.linkedin.com/posts/andrewyng_major-program-launch-data-analytics-professional-activity-7312898538789605376-sWy0",
+    "https://www.linkedin.com/posts/lazarus-ai_bringing-agentic-ai-to-japans-public-sector-activity-7505309498866024448-HFL3",
+    "https://www.linkedin.com/pulse/non-traditional-data-sources-official-statistics-munthir-ndn7f",
+    "https://www.linkedin.com/company/bureau-of-labor-statistics",
+    "https://www.linkedin.com/posts/benjamin-walker-3880771b9_time-series-need-foundation-models-built-activity-7510406764161503232-RNg_",
+    "https://www.linkedin.com/posts/brockmikos_exploring-us-business-trends-through-time-activity-7392982634936635393-gVQS",
+    "https://ca.linkedin.com/in/ichiro-hashimoto-34a451a1",
+    "https://es.linkedin.com/in/dai-taniguchi"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 13,
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Excel の台帳を Notion へ移す進め方｜全件の照合までの手順",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Excel の台帳を Notion へ移す進め方｜全件の照合までの手順",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "e-Statには、5年ごとに行う経済センサス‐活動調査の令和3年の結果もあります",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計局の結果の頁は、Excelの統計表のほかに、統計データベースでデータ抽出や表の表示、ダウンロードができるとしています",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全国の民営事業所数は4,023,941、従業者数は56,285,043人で、統計局の結果の概要の数と同じでした",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4,023,941は、そこから事業内容等不詳の事業所を除いた数です（結果の概要）",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これとは別に、統計局の令和6年経済センサス‐基礎調査の頁は、統計データを引用・転載する場合に、出典「経済センサス‐基礎調査結果」（総務省統計局）の表記をお願いしています",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「経済センサス‐基礎調査結果」（総務省統計局）（",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "取り方、表の形、業種の母数と企業等の数と売上の数え方、記号などの落とし穴、利用の条件を、取った記録と公式の説明でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事は、業種の母数や営業先の数の当たりを付けたい担当者に向けて、取り方・表の形・落とし穴・規約を、取った記録と公式の説明でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上は2023年1年間の値で、税抜きの回答は税込みに直して集計しています（利用上の注意）",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "利用上の注意は、売上（収入）金額などは必要な事項の数値が得られた事業所を対象に集計したとしています",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "記号の意味は、利用上の注意に次のとおり書かれています",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模｜ゴムマリ",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "／ 経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済センサスの​統計表の​取り方と​活用法｜​業種の​事業所数・​企業等の​数・​売上の​規模",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済センサスは、事業所と企業を業種・地域・規模ごとに数えた国の統計で、e-Statから登録なしで統計表のExcelを取れます",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和6年経済センサス‐基礎調査の統計表は、e-Statの画面から登録なしでExcelを取れ、2026年11月2日に取った6本は合わせて19,072,317バイトだった",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取り方：e-Statの「ファイルから探す」で表番号を選んでExcelを落とす",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済センサス‐基礎調査とは、事業所と企業の産業・従業者規模などを、全国と地域別に明らかにする国の統計調査です",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民営事業所の甲調査は令和6年6月に行われ、令和7年12月に確報が公表されました（総務省統計局の頁）",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "e-Statには、5年ごとに行う経済センサス‐活動調査の令和3年の結果もあります",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計表は業種・地域・規模ごとの数で、個々の会社の名前はありません",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計局は、調査の対象の範囲が違うため、令和3年の活動調査などとの比較には留意が必要としています",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取り方​：e-Statの​「ファイルから​探す」で​表番号を​選んで​Excelを​落とす",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のメニューの「統計データを探す」の下の「ファイルから探す」に、政府統計ごとのファイルの一覧があります",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://www.e-stat.go.jp/stat-search/files?toukei=00200552",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弊社が開いたこの一覧の23表は、22表がExcel、1表がPDFで、CSVのボタンはありませんでした",
+    "url": "https://gomumari.com/knowledge/keizai-census-katsuyo/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 14,
  "first_researched_at": "2026-11-04T23:57:45.491837+00:00"
 }

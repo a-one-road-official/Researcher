@@ -108,6 +108,7 @@
   - 「優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「<CTA title="擁護可能な方法論セクションを書く" description="章を構成し、信頼する手法論者を引用し、すべての主張が設計に合致しているかを検証しましょう" buttonLabel="Jenniを無料で試す" link="https://app.jenni.ai/register" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
 - 突き合わせ・推定：
+  - 「解説 三角測量に由来する (triangulation)」（https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html）
   - 「質的研究においてなぜ三角測量（トライアンギュレーション）を用いるのか？」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「三角測量（トライアンギュレーション）は測量法にその名を由来しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「その緊張感こそが三角測量において最も興味深い部分であり、ほぼすべてのガイドブックが省略している点です」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
@@ -122,7 +123,6 @@
   - 「方法論の三角測量 (Methodological triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「この区別については、関連する「データ対方法論の三角測量」の記事で詳しく解説しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「環境の三角測量 (environmental triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「もし2つ目の情報源も同じ盲点を共有しているなら、それは三角測量ではなく、単に音量を大きくしただけにすぎません" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
 - 一次情報の探し方：
   - 「[追加統計][ケース得点]を選択するとケーススコアが次のように出力される」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
   - 「レーション」という用語を採用した理由について説」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
@@ -143,18 +143,18 @@
   - 「注意点は、各評定者におけるM11,M12などのラベルは、名称は同じでも、そのラベルに含まれるカードは必ずしも同じではないことです」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
   - 「なお、各評定者による三つのケーススコア軸{RE1,RE2,RE3}および{KA1,KA2,KA3}および{ON1,ON2,ON3}について、それぞれ{ }内の組み合わせによる相関は原理的にはゼロですが、以下の表では計算誤差のため必ずしもゼロとなっていないので注意」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
   - 「Common Mistakes in Mixed Methods Research」（https://atlasti.com/guides/the-guide-to-mixed-methods-research/triangulation-in-mixed-methods-research）
+  - 「of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「This helps to reduce the risk of relying on a single source that may be biased or incomplete.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「. A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What are Bias in Qualitative Research?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Addressing how researcher bias was managed through triangulation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「a shared bias can make agreement look like independent confirmation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「しかしそれは失敗ではなく、適切に対処するための認められた語彙が存在します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「Convenience Sampling: Avoid Bias When Recruiting Study Participants」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
-  - 「臨床心理系大学院生質的研究に取り組んでる質的研究の注意点が知りたい分析的帰納法ってなに？以上の項目に当てはまる数が多いほど、ご賞味ください」（https://clitama.human-relation.net/triangulation/）
-  - 「三角測量は、多様なデータ源、方法論、視点を融合させることで、研究者のバイアスを減らし、研究の深みを増し、最終的にはより信頼できる徹底的な結論に到達することを可能にする」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「それぞれの研究者がもたらす異なる視点、経験、バイアスは、他の研究者の調査結果をサポートし、検証することができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「バイアスの可能性を低くし、調査結果の信頼性を高めることで、三角測量は研究の妥当性に貢献する」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「複数の手法、データソース、視点を組み合わせた場合でも、データに対する研究者の認識や分析は、研究者自身のバイアスや視点に影響される可能性がある」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「多くの情報源から得られた知見を統合し、総合する必要があるかもしれないが、これには主観的な判断が含まれ、研究者のバイアスがかかるかもしれない」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「三角測量のプロセスを通じて公平性と開放性を達成するためには、研究者は自身のバイアスを認識していなければならない」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「三角測量は、多くの方法を組み合わせることでバイアスを減らし、個々のバイアスの影響を減らし、客観性を高める」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「バイアスやリソースの制約など、三角測量に伴う限界や課題を認識し、対処する」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
 - 実例：
   - 「その基本は、数量化理論�V類による分析結果を複数の評定者の間で比較するもので、相関係数や因子分析などを用いて数理的に解析を行うことにあります」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
   - 「まず評定者ＲＥによる「カード布置」「カードとラベルの対応表」「数量化理論�V類による分析結果」(ラベルについての「カテゴリースコア」、カードについての「カードスコア」)を示します」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
@@ -335,6 +335,12 @@
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
 - 手順・やり方：
+  - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「総務省統計局「社会人のためのデータサイエンス入門/公的データの使い方」のまとめと感想～e-Stat、なかなかやるなと思った話【Week4】｜水無瀬あずさ＠複業ライター」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「総務省統計局「社会人のためのデータサイエンス入門/公的データの使い方」のまとめと感想～e-Stat、なかなかやるなと思った話【Week4】」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「Week4「公的データの使い方」のまとめと感想」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
@@ -344,13 +350,13 @@
   - 「適切かつ合理的な方法により、かつ、中立性及び信頼性が確保されるように作成されなければならない」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「子ども数・総数に対する割合，性、子どもの体型、１年間に医療機関などで診察を受けた（受けている）病気やけが（複数回答）別」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
   - 「講義では、e-Statのさまざまな機能の使い方についての説明がありました」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
-  - 「なお、関連として、新型コロナの影響を探るための「VーRESAS」という機能もあります」（https://note.com/azasaz_a/n/nfcf8049b8ebd）
-  - 「e-Statの使い方｜初めて統計表を探す5つの確認 – くらし制度ナビ」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「e-Statの使い方｜初めて統計表を探す5つの確認」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「この五つは統計値の意味を自動的に決める手順ではありません」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「数値の定義や調査方法が分からない場合は、e-Statの調査概要だけで判断せず、所管府省の用語解説や調査方法の説明、最新の公表資料も確認してください」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「ローカルカタログを併用して 2 回目以降の検索を API なしで即答させる方法」（https://note.com/stats47/n/n7e4572d23a1b）
 - 突き合わせ・推定：
+  - 「Excel の台帳を Notion へ移す進め方｜全件の照合までの手順」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Notion の公式ヘルプと API の文書の決まりと、弊社が管理表の約2千明細を移し、Notion で計算した残が移したすべてのロットで元の表と一致した照合の手順でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「e-Stat には膨大な統計表が登録されており、同じ「人口」でも「国勢調査」「人口推計」「住民基本台帳人口移動報告」など複数の調査に分かれています」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「: 国勢調査 / 人口推計 / 経済センサス / 学校基本調査 / 賃金構造基本統計調査 など」（https://note.com/stats47/n/n7e4572d23a1b）
   - 「市町村別農業産出額（推計）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
@@ -360,29 +366,30 @@
   - 「オランダのフローニンゲン大学のチームが中心となってEU主要国、米国、韓国等について産業別に全要素生産性の推計を行ってきたデータベース」（https://note.com/keisemi/n/naf14ab3c9062）
   - 「選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
   - 「自分の仮説に合うデータだけを探す」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「人口・将来推計」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「（国立社会保障・人口問題研究所）の「日本の地域別将来推計人口（令和5年推計）」では、2020年から2050年にかけての市区町村別人口を男女・5歳階級別に公表している」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「日本の地域別将来推計人口（令和5年推計）」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「参加者を無作為に介入群と対照群に分けて効果を検証する実験デザイン」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「子どもの貧困率・地域別人口推計など社会課題に直結する統計は無料で入手できる」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
 - 一次情報の探し方：
-  - 「疾病、傷害及び死因の統計分類（死因分類）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「統計名(50音)」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「一般職国家公務員在職状況統計表（人事統計報告）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「連合会を組織する共済組合における医療状況実態統計調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「介護給付費等実態統計（旧：介護給付費等実態調査）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「ビッグデータを活用した商業動態統計調査（試験調査：家電大型専門店分野）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「総合エネルギー統計補足調査（電気事業者の発電量内訳等調査）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「家庭部門のCO2排出実態統計調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「各統計調査の詳細については、上記の担当機関のホームページを参照してください」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「https://www.stat.go.jp/data/s-sugata/pdf/bunkatsu2_shi.pdf」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
-  - 「D 行政基盤（財政力指数、歳入決算額、地方税など）」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
-  - 「https://www.stat.go.jp/data/k-sugata/pdf/setumei.pdf」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
-  - 「で、この中から必要な統計を選択し」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
+  - 「経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模｜ゴムマリ」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「／ 経済センサスの統計表の取り方と活用法｜業種の事業所数・企業等の数・売上の規模」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「経済センサスの​統計表の​取り方と​活用法｜​業種の​事業所数・​企業等の​数・​売上の​規模」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「経済センサスは、事業所と企業を業種・地域・規模ごとに数えた国の統計で、e-Statから登録なしで統計表のExcelを取れます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「令和6年経済センサス‐基礎調査の統計表は、e-Statの画面から登録なしでExcelを取れ、2026年11月2日に取った6本は合わせて19,072,317バイトだった」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「取り方：e-Statの「ファイルから探す」で表番号を選んでExcelを落とす」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「経済センサス‐基礎調査とは、事業所と企業の産業・従業者規模などを、全国と地域別に明らかにする国の統計調査です」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「民営事業所の甲調査は令和6年6月に行われ、令和7年12月に確報が公表されました（総務省統計局の頁）」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「e-Statには、5年ごとに行う経済センサス‐活動調査の令和3年の結果もあります」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「統計表は業種・地域・規模ごとの数で、個々の会社の名前はありません」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「統計局は、調査の対象の範囲が違うため、令和3年の活動調査などとの比較には留意が必要としています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「取り方​：e-Statの​「ファイルから​探す」で​表番号を​選んで​Excelを​落とす」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「のメニューの「統計データを探す」の下の「ファイルから探す」に、政府統計ごとのファイルの一覧があります」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「https://www.e-stat.go.jp/stat-search/files?toukei=00200552」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「弊社が開いたこの一覧の23表は、22表がExcel、1表がPDFで、CSVのボタンはありませんでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
 - 失敗・落とし穴：
+  - 「取り方、表の形、業種の母数と企業等の数と売上の数え方、記号などの落とし穴、利用の条件を、取った記録と公式の説明でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「この記事は、業種の母数や営業先の数の当たりを付けたい担当者に向けて、取り方・表の形・落とし穴・規約を、取った記録と公式の説明でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「売上は2023年1年間の値で、税抜きの回答は税込みに直して集計しています（利用上の注意）」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「利用上の注意は、売上（収入）金額などは必要な事項の数値が得られた事業所を対象に集計したとしています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「記号の意味は、利用上の注意に次のとおり書かれています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「分け方の問い、進める手順、誤りを仕込む照合の進め方を、弊社の記録でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「：検索入口、表示単位、ファイルとデータベース、公開更新日の注意」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「キーワード検索を使う場合の注意（単語の間のスペース）」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
@@ -391,29 +398,22 @@
   - 「バイアスの型を見抜く」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
   - 「選択バイアス（特定の人だけ回答）・確証バイアス（自分の仮説に合うデータのみ見る）・生存バイアス（成功事例しか残らない）など、データが偏る構造を意識する」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
   - 「例: 成功したNPOの事例集——廃業した団体は調査に残らない（生存バイアス）」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「社会課題の文脈でも同じ誤りは起きる」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「バイアスの種類と回避法」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「データの偏り（バイアス）は、統計の「正確さ」に対する最大の脅威だ」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「◎選択バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「◎確証バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「◎生存バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
-  - 「◎測定バイアス」（https://isvd.or.jp/guides/data-literacy-estat-resas-guide）
 - 実例：
+  - 「e-Statには、5年ごとに行う経済センサス‐活動調査の令和3年の結果もあります」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「統計局の結果の頁は、Excelの統計表のほかに、統計データベースでデータ抽出や表の表示、ダウンロードができるとしています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「全国の民営事業所数は4,023,941、従業者数は56,285,043人で、統計局の結果の概要の数と同じでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「4,023,941は、そこから事業内容等不詳の事業所を除いた数です（結果の概要）」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「これとは別に、統計局の令和6年経済センサス‐基礎調査の頁は、統計データを引用・転載する場合に、出典「経済センサス‐基礎調査結果」（総務省統計局）の表記をお願いしています」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「「経済センサス‐基礎調査結果」（総務省統計局）（」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Excel の台帳を Notion へ移すには、表の形とキーを決め、型を決めてリレーションと一緒に取り込み、数式と集計を作り直してから、件数・キー・値・先頭のゼロ・空の値・リレーション・計算の結果の7つで照合します」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Notion AI で書類を作り、照合する進め方｜指示書とコードの分け方の実例」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「Notion AI に書類を作らせて照合するときは、手順を Notion AI への指示書、読めば決まる処理を添付のコード、1回ごとの結果を記録のデータベースに分けます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
+  - 「弊社の導入の事例の試作では、同じ題材で、文章の指示は発注番号を3回のうち2回誤り、添付のコードは2回とも誤りませんでした」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
   - 「初めて使うときは、検索結果の名前だけで決めず、統計名、対象期間、単位、注記まで順に確認すると、目的の表を見つけやすくなります」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「最初は日常語で検索し、結果に表示される統計名と所管府省を確認してから絞り込みます」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「e-Statの検索結果は、同じキーワードでも表示する単位を切り替えられます」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「制度の対象や申請結果を判定するものではありません」（https://blog.kurashiq.com/estat-first-search-guide/）
   - 「2025年国勢調査の結果はいつ？人口等基本集計は9月29日公表」（https://blog.kurashiq.com/estat-first-search-guide/）
-  - 「「待機児童」「人口移動」「県民所得」の 3 ケースで見る検索の絞り込み方」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「人口 10-30 万人規模の自治体では、企画課・統計担当が月 5-10 件の「データ取得依頼」を受けますが、その半分以上の時間が「該当する統計表 ID を探す」段階に消えるケースが少なくありません」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「結果一覧から各統計表のリンクをクリック (新タブで開く)」（https://note.com/stats47/n/n7e4572d23a1b）
-  - 「調査計画／点検・評価結果」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「点検・評価結果一覧」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「この調査では、事業所数、従業者数、売上（収入）金額等の産業横断的な事項や製造品出荷額等の産業に特化した事項などの結果を、産業分類別、地域別などの区分で提供しています」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「検索結果をさらに絞込み」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「地方選挙結果調」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「衆議院議員総選挙 最高裁判所裁判官国民審査結果調」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
-  - 「参議院議員通常選挙結果調」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
 
 ## 業界分析・業界構造の調べ方（一次情報から）（industry analysis primary sources method）
 - 文脈：業界
@@ -553,6 +553,8 @@
   - 「最も多い失敗が、「トヨタ自動車について教えてください」とだけ入力するパターンだ」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「誤りが1つあるだけで、企業研究全体の信頼性が失われる」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「生成AIの出力には誤りが含まれる可能性があります」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「ゴールデンクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「ゴールデンクロスとは？意味・見方・ダマシに注意すべき理由をわかりやすく解説ゴールデンクロスとは、短期移動平均線が長期移動平均線を下から上に突き抜けるタイミングのことで、上昇トレンドへの転換を示す可能性があるサインとして知られています」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「⇒連結子会社が多いほど、単体とのズレに注意」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「＜チェックポイント＞財務依存型企業に注意」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「金利負担に注意！」（https://note.com/yoh2619/n/nab63a136eecc）
@@ -562,10 +564,9 @@
   - 「ここまでAIの活用法を紹介してきましたが、一点、注意が必要です」（https://note.com/f_bby__shota/n/nee46643ea909）
   - 「探すときの注意」（https://note.com/irshukatsu/n/n426fc7c8c112）
   - 「ここで最も重要な注意点がある」（https://note.com/irshukatsu/n/n426fc7c8c112）
-  - 「二次情報は解釈が混じり、時にはバイアスや誤りが含まれることがあります」（https://note.com/bookreview_lab/n/n5ddefc10af59）
-  - 「見逃しがちですが、「広告費を減らしたため」「研究開発費を抑えた結果」など、利益の背景や注意点が書かれていることがあります」（https://kabu.com/kabuyomu/money/1191.html）
 - 実例：
   - 「Mahindra & Mahindra's FY26 annual report as the example: its exact name, the year to 31 Mar 2026, the filing on NSE's archive (4 Jul 2026) and the unit, ₹ crore.」（https://mrchartist.com/learn/start/how-to-read-an-annual-report）
+  - 「特別利益・特別損失とは？純利益への影響と決算での見方を解説「今期は最終利益が大幅増益だったのに、本業はそれほど変わっていない」——決算を見ていて、こうしたケースに出会うことがあります」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「4-2.実例を見てみよう」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「実例：のれん注記（M&A関連）」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「顧客の意思決定を前に進める営業の考え方を、具体的な事例・実践手順・AIプロンプトとともに解説します」（https://note.com/f_bby__shota/n/nee46643ea909）
@@ -579,10 +580,11 @@
   - 「一見すると“減益”という結果に不安を感じるかもしれませんが、「添付資料」まで目を通すと営業利益の主な増減要因が記されています」（https://kabu.com/kabuyomu/money/1191.html）
   - 「GMO熊谷代表の｢コント会見｣は結果的によかった…報道対策のプロが分析するサイバー攻撃犯の"本当の狙い"」（https://president.jp/category/c05577）
   - 「例えば、下記の連結経営指標等の※１の箇所では、本業の営業CFがマイナスになっていないか、多額の投資を行っている場合にはどのような内容のものか、資金繰りに窮して資産を売却し、投資CFが大きくプラスとなっていないかなど、企業の資金繰りに関する情報を確認します」（https://journal.bizocean.jp/corp08/h03/2552/）
-  - 「例えば、下記のような分析を行うことが考えられます」（https://journal.bizocean.jp/corp08/h03/2552/）
 - 検索結果の抜粋：
   - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Apr 19, 2024 · Learn how to read a company's annual report effectively. This gui」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and th」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
+  - 「How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: A Beginner's GuideHow to Read a Company's Annual Report (10-K) as an InvestorHow to Read an Annual Report: Beginner Investor Guide — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide cov」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
+  - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: A Beginner's GuideHow to Read a Company's Annual Report (10-K) as an InvestorHow to Read an Annual Report: Beginner Investor Guide — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you unde」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
   - 「How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business perf」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and the industry it o」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
   - 「Master the Art of Reading Annual Reports - InvestopediaHow to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisHow to Quickly & Effectively Read an Annual ReportHow to Read an Annual Report: Beginner Investor Guide — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by lookin」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
@@ -592,6 +594,7 @@
 ## 1人あたり売上・労働生産性で会社の能力を比べる方法（revenue per employee benchmark analysis）
 - 文脈：能力
 - 手順・やり方：
+  - 「Common Size Analysis: Formulas, Examples and How to Read Results」（https://bizminer.com/revenue-per-employee-benchmarks/）
   - 「平均付加価値率は、業種によって大きく異なり、付加価値率は必ずしも企業の収益性と比例しませんが、付加価値率を高めることは収益性を向上させる方法の一つになります」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「付加価値の計算方法」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「便宜的な方法」（https://note.com/yajirushi_works/n/nacbfd931b027）
@@ -606,7 +609,6 @@
   - 「Step 4: Divide and interpret in context.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「Adjusts employee count to reflect full-time equivalents, giving part-time workers fractional weight. More precise for organizations with variable workforce composition, and often the better choice when benchmarking against peers who use the same method.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「Revenue figures may be finalized on a different cadence than headcount reporting. Document the sourcing method so period-over-period comparisons stay consistent.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
-  - 「For private SaaS companies specifically, SaaS Capital's 2025 survey of more than 1,000 firms found a median of $129,724 per FTE, up from $125,000 in the prior year. This is one of the few sector figures with a disclosed methodology and sample size.」（https://www.hrbench.com/resource/learn/revenue-per-employee）
 - 突き合わせ・推定：
   - 「経営効率を飛躍的に向上させる一人当たり売上高を向上させるには、ヒト×テクノロジー×経営戦略の掛け算の上に成り立つということになると思います」（https://d-pops-group.co.jp/column/revenue-per-employee/）
   - 「その為に必要なものが、ヒト×テクノロジー×経営戦略の掛け算であると、ディ・ポップスグループは考えます」（https://d-pops-group.co.jp/column/revenue-per-employee/）
@@ -646,6 +648,7 @@
   - 「登山でもビジネスでも、重要なのは失敗しないことではなく、失敗から何を学び、それを次にどう活かすかです」（https://d-pops-group.co.jp/column/revenue-per-employee/）
   - 「経験を振り返り、失敗の原因を言語化し、次の行動を変えて初めて、その経験は「学び」に変わるのです」（https://d-pops-group.co.jp/column/revenue-per-employee/）
 - 実例：
+  - 「Common Size Analysis: Formulas, Examples and How to Read Results」（https://bizminer.com/revenue-per-employee-benchmarks/）
   - 「例えば、最新鋭設備の導入により省力化を図った場合、従業員数が減った分だけ労働生産性が上がります」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「限界利益は、企業の内部分析でも使われ、例えば、部門毎や商品毎、地域毎など、それぞれに限界利益率を求めることで簡単に利益分析（収益性の明確化）をすることができ、改善すべき点を洗い出すのに便利です」（https://note.com/yajirushi_works/n/nacbfd931b027）
   - 「A common metric by which SaaS companies track their performance is annual recurring revenue (ARR) per employee. As was the case with the last post, the data and analysis below on ARR per employee comes from our 15th annual survey of more than 1,000 SaaS companies, which was completed in March.」（https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/）
@@ -660,7 +663,6 @@
   - 「Example:」（https://www.hrbench.com/resource/learn/revenue-per-employee）
   - 「For example, a software company pulling in $1.76 million per employee and a hospital averaging $8,700 are both running normal operations for their industry. One runs on code and licensing. The other runs on a large network of staff and overnight shifts. We may be looking at the same metric, but each has a completely different story.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
   - 「Labor-intensive industries such as restaurants, general retail and hospitals cluster at the low end, with RPE figures below $35,000 in some cases, reflecting high headcount relative to revenue.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
-  - 「For example, a software company and a hospital can both be healthy, well-run businesses and show wildly different RPE figures. The U.S. total market average sits at $111,000 per employee, but that number masks enormous variation by industry.」（https://www.venasolutions.com/blog/average-revenue-per-employee）
 
 ## OSINT（公開情報調査）の手法（OSINT open source intelligence business research）
 - 文脈：探し方
@@ -3332,7 +3334,7 @@
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -7162,11 +7164,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
