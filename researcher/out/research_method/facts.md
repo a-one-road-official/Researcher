@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・111品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・113品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1034,6 +1034,7 @@
   - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「官報決算データベースとは？決算公告を無料で調べる方法7選【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「数字ひとつで決めず、組み合わせて“桁”で捉えるのがコツです」（https://shokubalog.com/articles/kaisha-kibo-shirabe-kata）
+  - 「官報・電子公告の費用比較と年間4,000円で始める最安の方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「利益を生み出す構造（損益分岐点）から逆算するのがコツです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1043,7 +1044,6 @@
   - 「第二に、公告方法が電子公告の場合は要旨ではなく全文の掲載が必要ですが、それでも公告対象が貸借対照表だけであることに変わりはありません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告のコストは公告方法によって大きく異なります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「電子公告と決算公告の違いとは？関係性・3つの公告方法の費用を徹底比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1079,6 +1079,7 @@
 - 失敗・落とし穴：
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「今は1円でも会社が作れる時代なので、「資本金が小さい＝ダメ」ではありません」（https://shokubalog.com/articles/kaisha-kibo-shirabe-kata）
+  - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）」（https://note.com/pythonddd/n/nd056ead22003）
   - 「30%以上なら比較的安定、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1091,7 +1092,6 @@
   - 「opinion adds credibility during negotiations, legal proceedings, or tax-related matters where a defensible valuation is required. The main goal is to provide a fair, unbiased, and well-supported estimate that guides critical financial decisions with confidence.」（https://raincatcher.com/private-company-valuation/）
   - 「「大会社」に該当するかどうかによって、公告すべき書類の範囲が変わる点にも注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
   - 「電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
-  - 「ただし、以下の点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
 - 実例：
   - 「決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1114,6 +1114,12 @@
 ## アナリスト・投資家のnoteにある企業分析の型（equity analyst company analysis process blog）
 - 文脈：凄腕・企業分析
 - 手順・やり方：
+  - 「This article will discuss the fundamental teaching capabilities of equity research and how equity research helps develop all the different types of skills, perspectives, and mental infrastructures and frameworks through which equity researchers think about companies and business. It will also discuss why equity research lessons are applicable across multiple industries and career fields.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「As a result of all of the above Factors Analysts develop Practical Tools to Analyze Industries, so that we will have an Accurate View of how they develop over Time. Analysts will develop a Foresight of how to make Industry Decisions based on their history.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「For equity research analysts, financial statements are not just accounts; they tell a story about how a business has performed. Analysts learn how to read the income statement, balance sheet, and cash flow statement as a series of linked stories.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「One of the greatest takeaways from learning about equity research will be understanding how to view a business or company as if you personally own it. That is, equity analysts value businesses based on what they think those businesses would be worth if they bought the entire business, not based on what the stock price is today.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「Equity Research teaches people not only what to think but also how to think about companies. The Equity Research process teaches an individual to think within a structure, build a structured approach to analytical thinking, and develop the strategic mindset needed for virtually any decision-making role.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「Conducting equity research provides much more than just insight into finance; it provides insights into how to think about running and managing a business. Analyzing the structure, industry, management, and financial statements of companies helps the researcher learn how to evaluate each company's business operation.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「前提として、なかのアセットマネジメントでは、企業取材の決まった「型」はありません」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「ミダスキャピタルは「世界に冠たる企業群を創る」ために上場企業の経営経験者らによって設立された、ビジョン共感型のプライベートエクイティファンドです」（https://note.com/shusuketerada/n/n348a235c7530）
   - 「そのような中で、株式投資の世界で戦う一人の投資家として、「どうすれば長期的に市場を上回る成果を出せるのか」を日々模索し、悩み、そして現時点でたどり着いた一つの「型」があります」（https://note.com/nakanoam/n/nafb26eef1ed8）
@@ -1123,12 +1129,6 @@
   - 「企業向けには情報発信SaaS「note pro」と、協賛型の投稿コンテスト「noteコンテスト」などの法人向けサービスを提供」（https://note.com/persistence_100/n/nfb79a8def8c6）
   - 「理由：売上は毎四半期増加し、有料購読や法人契約といったストック型の収益が下支えします」（https://note.com/persistence_100/n/nfb79a8def8c6）
   - 「主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆」（https://note.com/investers_notes/all）
-  - 「主に国内中小型株・テーマ株の調査レポートを担…」（https://note.com/investers_notes/all）
-  - 「Equity Research Valuation Methods: A Complete Guide for Analysts - Daloopa」（https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods）
-  - 「Equity Research Valuation Methods: A Complete Guide for Analysts」（https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods）
-  - 「Master equity research valuation methods with financial modeling techniques, AI tools for equity analysts, and custom dashboard software for financial professionals.」（https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods）
-  - 「In today’s rapidly evolving financial landscape, equity research valuation methods remain a cornerstone of investment analysis. Analysts blend structured methodologies with deep market insights to produce investment recommendations that drive market movements.」（https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods）
-  - 「This guide will walk you through the essential equity research valuation methods, share advanced techniques incorporating cutting-edge technologies like」（https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods）
 - 突き合わせ・推定：
   - 「① 「自分なりの仮説」を持って情報に接する」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「このことわざは、企業の「本質的価値」の推計に重要な教訓を与えてくれると思います」（https://note.com/nakanoam/n/nc638baf1b1d1）
@@ -1178,6 +1178,11 @@
   - 「Common Analyst Mistakes Untemplated extrapolation of historical」（https://finxl.in/blogs/business-model-equity-research.html）
   - 「• One of the most common mistakes made by analysts is blindly」（https://finxl.in/blogs/business-model-equity-research.html）
 - 実例：
+  - 「Analysts look at the following for example:」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「This Perspective is Beneficial for Corporate Strategic Planning Decisions for example: new product Launch, New Market Entry Decision, Merger or Acquisition Evaluations, etc.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「No matter what type of businesses you run, every successful business must be able to communicate its ideas clearly to be successful. Equity research requires individuals to develop detailed reports, develop and deliver business case presentations, and respond to challenging investor inquiries, as well as being able to clearly present their ideas.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「Individuals who develop effective communication skills through the process of developing reports and business cases will develop skills that directly translate to leadership, strategy, consulting and entrepreneurship positions, where it is vital to be able to influence key stakeholders.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「The analytical skills developed through an Equity Research Analyst's previous experience is very broadly applicable to many roles. Some examples of common roles that use the analytical skills developed within equity research include:」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「当然、スピーカーによって立場や経験は異なり、例えば、経営戦略、財務、ESG、研究開発や現場情報など、掘り下げると次から次へと話がでてくる分野があります」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「具体的には、「説明・補足」は「つまり」「例えば」「もう少し詳しく言うと」など話を縦に掘り下げるイメージで、「逆接」は「しかし」「でも」「一方で」など話に別の視点を加えることで横に広げるイメージです」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「さらには、「具体（数字や事例など）」と「抽象（概念や原理など）」という」（https://note.com/nakanoam/n/nc638baf1b1d1）
@@ -1188,11 +1193,6 @@
   - 「例えば証券会社のアナリストが上場企業の調査を新規に開始する場合には、最低でも数か月かけて対象会社とのコミュニケーションを重ね、財務データ、非財務データの分析や競合及び業界動向の調査、株価ドライバーの特定とその予想を行い、それらを業績予想と投資判断に集約して「イニシエーションレポート」として発行します」（https://note.com/shusuketerada/n/n348a235c7530）
   - 「その思考プロセスと、企業取材の実際について、事例を交えながらお話させていただきたいと思います」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「それは、開示されている一つのセグメントの中に、性質の異なるビジネスが混ざってしまっているケースです」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「例えば、ものづくりであれば当然ですが、1単位の製品を作るためには、これだけの材料が必要で、それを運ぶトラックが必要で、ラインには何人の人がいて、倉庫にはこれくらいのスペースが必要で……という物理的な実体があります」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「「今期は過去最高益でした！」という美しい結果は載っていますが、厨房でどんな工夫をしたのか、あるいはどんなトラブルがあったのかまでは分かりません」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「このギャップを埋めるために、例えば〇〇分野へのM&Aや、海外進出といった非連続な手を打つお考えがあるのでしょうか？」「そもそも御社の現在のコスト構造のままでは、利益300億円は難しいように感じます」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「例えば、かつては「コピー機というハードウェアを売る会社」だった企業が、今は「オフィスのITソリューションを提供するサービス企業」へと変貌しようとしているケースを考えてみましょう」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「夢を語るだけでなく、最悪のケースを想定できているか」（https://note.com/nakanoam/n/nafb26eef1ed8）
 - 検索結果の抜粋：
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。 主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
@@ -1331,7 +1331,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -1416,6 +1416,7 @@
   - 「例えば、インティメート・マージャーが提供するサー」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「は、独自のIDソリューションによって国内人口の約90%のWeb閲覧行動を把握したデータをもとに、チャット形式でリサーチ結果を提供するサービスです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
 - 検索結果の抜粋：
+  - 「The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningHow to conduct effective academic research: 9 key methodsThe Researcher's Source Blog | For Researchers | Springer NatureLatest News from Google Research Blog - Google ResearchEducational resources and simple solutions for your research ... — “Just like the horse whisperer – but with more 」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods CommunityResearcher.Life: Blog Category | Researcher.LifeResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer Nature21 Best Academic Blogs Every Researcher Must Follow10 Best Academic Blogs Every Researcher Must Subscribe to in 2023Blog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog o」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods Community21 Best Academic Blogs Every Researcher Must FollowResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger 」（https://www.exordo.com/blog/the-best-academic-blogs）
@@ -3528,6 +3529,9 @@
 ## 競合仮説分析（ACH）とOSINTの情報評価の実務ブログ（誤り仮説・合わない証拠・結論を変える証拠）（analysis of competing hypotheses OSINT practitioner blog disconfirming evidence）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
+  - 「. Open it in another tab and build your matrix as you read — everything auto-saves in your browser, and each step below maps directly to a feature in the tool.」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
+  - 「Heuer's method, step by step」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
+  - 「Screening out "unlikely" hypotheses at step 1.」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
   - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「1930年代の日本海軍において、戦略教官であった井上成美は「合理的敵情判断ノ方法」という名の情報分析法を教えていました(髙橋, 2013)」（https://note.com/haurix/n/ncc5a33f069f9）
@@ -3540,10 +3544,8 @@
   - 「いわば、ACHが「バイアスを排除する道具」だとすれば、井上の方法は「バイアスを含んだまま、それを飼い慣らす知恵」とも言えるかもしれません」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「これは「代表性ヒューリスティック」や「アンカリング」の典型例です」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「プロセスの最初のステップは可能性のあるすべての仮説を特定することです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「ホイヤーによるとこのステップが最も重要になります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
 - 突き合わせ・推定：
+  - 「Anchoring is the pull of the first number, name or explanation you encounter. Later estimates drift towards it, even when it was arbitrary. A client who says "we think he moved about 200 thousand through those accounts" has given you an anchor. So has the first search result that names a suspect.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
   - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
@@ -3558,8 +3560,8 @@
   - 「この手法の背後にあるのは、「人間は仮説を支持する情報に注意が向きやすく、仮説を疑うという行為が極めて難しい」という認知心理学の知見です」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「競合仮説分析は、軍事や外交における戦略的判断の場面だけでなく、ビジネスや医療など、判断の正確性が求められるあらゆる分野で活用可能なアプローチです」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「これはまさに、現代の構造的分析手法における仮説と証拠の対応関係を明示するプロセスと重なります」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「資料に込められた意味を兵術的知識をもとに読み解き、仮説を立て、さまざまな組み合わせを試みる」（https://note.com/haurix/n/ncc5a33f069f9）
 - 一次情報の探し方：
+  - 「You then look for disconfirming evidence. The company filing gives a director's month and year of birth that does not match what the client knows. The congratulations post links to a business in a different sector. Your competing hypotheses matrix shows that most of your evidence fits all three hypotheses, and the only diagnostic item, the birth date, points away from the client's theory.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
   - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「年功序列望む若手が増加？採用・定着を左右する「福利厚生」とは」（https://diamond.jp/articles/-/290369）
   - 「インターネット上のウェブサイト、ソーシャルメディア、公的文書など、誰でもアクセス可能な情報源を活用して、必要な情報を体系的に収集・分析します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
@@ -3574,39 +3576,38 @@
   - 「第一次情報か第二次情報かは、情報がどれだけ加工されているかという「距離」の問題です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「公開情報であっても、加工されていない原資料に当たれば、それは第一次情報に近いオシントになります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「つまり、第一次情報＝ヒューミント、オシント＝第二次情報、という対応関係が成り立つわけではありません」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「たとえば、新聞記事は記者の判断や編集が加えられた二次情報ですが、記者会見の全文記録、公式声明文、統計の原表などは、公開情報でありながら第一次情報源に位置づけることができます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
 - 失敗・落とし穴：
-  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「なぜ“賢い人”ほど誤るのか──バイアスが仕掛ける思考の罠」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「インテリジェンス失敗の構造──情報分析を歪める認知バイアスとは」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「あなたの判断も歪んでいる？──日常に潜む認知バイアスを見つめる」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「こうした「思考のクセ」、すなわち認知バイアスの存在は、日常生活だけでなく、企業経営、政策決定、国家の安全保障にまで影響を与えるのです」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「近年、こうしたバイアスの影響を軽減しようとする試みが注目を集めています」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「なかでも、米中央情報局（CIA）で生まれた「競合仮説分析（Analysis of Competing Hypotheses：ACH）」という手法は、情報分析の現場で数々の失敗を経たうえで開発されたものです」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「「インテリジェンスの歴史は、失敗の歴史でもある」と言われることがあります」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「こうした失敗が繰り返される背景には、構造的な問題だけでなく、人間の「認知のクセ」、すなわち認知バイアスの影響があることが指摘されています」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「たとえば「確証バイアス」は、ある仮説を立てたときに、それを裏付ける情報ばかりを重視し、反証となる情報に注意がいかなくなる傾向です」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「このようなバイアスを克服するために、米中央情報局（CIA）の分析官であったリチャーズ・ホイヤーによって考案されたのが「競合仮説分析（ACH）」です」（https://note.com/haurix/n/ncc5a33f069f9）
+  - 「hypothesis before touching the next piece. Working down a single hypothesis's column puts you back in confirmation-bias territory — you start reading each item in that hypothesis's favor. The tool's rating panel is built around this: its next-cell navigation walks across the row before dropping to the next evidence item.」（https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses）
+  - 「To choose the most valid one, you need a framework to generate an exhaustive list of competing hypotheses, assess the evidence accurately, and prevent biases from creeping in. He created ACH to help solve this problem.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「The seven steps are not designed to offer prescriptive advice that leads you to the “right” decision. Instead, they provide a structure for you to follow when assessing the validity of competing hypotheses that mitigates potential biases and promotes logical reasoning.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「: ACH relies on analysts making subjective judgments about what hypotheses are credible, relevant, and significant based on the evidence they collect. There are no checks and balances. The analyst controls the entire flow of information, which can lead to missing, incomplete, or biased conclusions.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「: Assessing whether one piece of evidence is more valuable, reliable, or important than another can be difficult. This can lead to uncertainty and biased conclusions. ACH tries to counter this by focusing on the number of supporting pieces of evidence, but this can lead to overreliance on quantitative metrics.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「Once your ACH matrix is complete, you can prioritize the most likely hypotheses. As previously mentioned, it’s good to start with evidence that reduces the likelihood of certain hypotheses, prioritize your list based on this evidence, and then examine supporting evidence. This will force you to assess all the evidence you have collected and avoid confirmation bias.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「Cognitive Biases That Derail Investigations | OSINT Blog」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Cognitive Biases That Derail Investigations」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Cognitive biases are systematic patterns in how people judge and decide. They are not character flaws and they do not go away with experience or intelligence. Experienced analysts are often more confident, which can make some biases worse. The practical response is not to try harder to be objective. It is to build checks into your process so the biases have fewer places to hide.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「This guide covers six biases that cause the most trouble in open-source investigations, the structured techniques that counter them, and how to fold those techniques into an ordinary workflow without slowing it to a crawl.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「OSINT work has features that invite bias. Clients often arrive with a theory and a deadline. Search tools return results ranked by relevance to your query, so a biased query returns biased results. Online information is abundant, so you can almost always find something that supports a hypothesis. And much of the work is done alone, with nobody to ask the awkward question.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「, written for the CIA and now freely available, remains the best introduction to this problem. Its central point is still the right starting place: knowing about biases does not by itself protect you from them. You need methods.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Six biases that derail investigations」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Confirmation bias is the tendency to seek, notice and give weight to information that supports what you already believe, and to discount what contradicts it. In practice it shows up in the queries you write. If you suspect that a company is a shell, you search for "shell company" indicators and find some. You are less likely to search for evidence of real operations.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「Limits and common mistakes」（https://www.osintblog.com/blog/cognitive-biases-investigations）
 - 実例：
-  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「専門的な知識がなくても理解できるように、実例や具体的な理論を交えて丁寧に解説していきますので、どうぞ最後までお付き合いください」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「これらはすべて、国家レベルでの情報分析が重大な判断ミスを犯した事例として知られています」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「アナリストは感度分析を使用して結果をテストします」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している」（https://diamond.jp/articles/-/290369）
-  - 「たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない」（https://diamond.jp/articles/-/290369）
-  - 「1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる」（https://diamond.jp/articles/-/290369）
-  - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
-  - 「また、観察したデータと比較できる理想的な結果（たとえば適正なサイコロの特徴）を事前に、あるいは原則から知ることもできない」（https://diamond.jp/articles/-/290369）
-  - 「4. ACH結果」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
-  - 「今回は身近な題材を使ってCopilotによるACHの結果を観察してみた」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
-  - 「ACHの分析内容も、概ね意図したとおりの結果だった」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
-  - 「例えば、「調査中のAPTは中国のグループだ」という仮説を立てた場合、その仮説を裏付ける情報ばかりを重視し、反証となりうる情報を無意識的に無視してしまったりするのがこの例」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
+  - 「CTI vendors often flag servers delivering advertisements as suspicious because they are unwanted and can be a potential risk if compromised. This could be the case with this IP.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「For example, the domain name to which a suspicious IP address resolves is evidence. However, this may be non-diagnostic evidence that does not help determine the likelihood of a hypothesis, so it is irrelevant to your analysis.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「Now that you know what ACH is and the seven steps that make up the process, let’s look at some common use cases.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「It is important to remember that ACH is a structured analytic technique developed within the intelligence community. Therefore, it applies to many disciplines, not just cyber security. For brevity, this article only focuses on cyber use cases.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「You have already seen some examples of the Analysis of Competing Hypotheses method in action with the suspicious IP address walkthrough earlier. To make the process more understandable, let’s look at a less technical case study that is more common to everyday life.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「Yes. In the real world, this is overkill and a waste of paper, but it is a good example of how to apply logical reasoning through ACH analysis.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「The next step is to review your ACH matrix and refine it by removing or adding hypotheses or evidence. In this example, you can remove I left the keys on the kitchen table from the list and add a newly discovered piece of evidence,」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「The list of most plausible hypotheses, based on likelihood, in this example, is:」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「The key pieces of evidence in this example are:」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「. In this example, it is as simple as looking for your keys in your work bag. However, in the real world, you want to include your most plausible hypothesis, qualify it with」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「For more practical examples of ACH, check out this excellent YouTube video. It provides clear, simple, and easy-to-understand examples to help you understand how this structured analytical technique can be used in the real world.」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「This guide taught you everything you need to know to start using ACH analysis, from the seven-step process to real-world use cases to potential limitations and how to overcome them. It even included a practical demonstration of the technique applied to solving a problem we are all familiar with. It’s now time for you to start using the structure analytic technique!」（https://kravensecurity.com/analysis-of-competing-hypotheses/）
+  - 「The availability heuristic leads people to judge how likely something is by how easily examples come to mind. If you recently worked a case involving romance fraud, the next suspicious money transfer looks like romance fraud. Recent, vivid or well-publicized patterns crowd out duller but more common explanations.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「The intelligence community developed a family of structured analytic techniques to counter these problems. Several are simple enough to use on small commercial cases.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
+  - 「The value is in writing them down. Assumptions that seem obvious in your head often look thin on paper. Typical examples in OSINT work include "this account is controlled by the person named in its profile", "the photo was taken where the caption says" and "the company's registered address is where it operates".」（https://www.osintblog.com/blog/cognitive-biases-investigations）
 - 検索結果の抜粋：
   - 「競合する仮説の分析｜幻想の近現代 - note（ノート） — 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。」（https://note.com/haurix/n/ncc5a33f069f9）
@@ -6743,16 +6744,156 @@
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
+
+## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
+- 文脈：手順・やり方
+- 手順・やり方：
+  - 「How To Use These Techniques .................................................................................. 5」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「HOW TO USE THESE TECHNIQUES」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「step process will help analysts:」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「other structured methods explained later」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「possible next steps for further research」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Like other contrarian methods, “What If?”」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「stepping back to consider what alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「to step outside their normal analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「A two-phase, twelve-step, structured」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「managers—are reluctant to change. Rather than trying to ft ideas into the framework of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「next steps for analysis.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「and contextual framework. By recasting the」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「• It provides a broader analytic framework」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「a more advanced analytic methods course and usually require substantial commitments of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「political causes of some predictable surprises and outlines steps to overcome them.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+- 突き合わせ・推定：
+  - 「Availability. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Anchoring. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「certainty into a probability estimate, people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「goal-maximizing policy is overestimated.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+- 一次情報の探し方：
+  - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysed and related to the joint analysis steps in the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「coordinating and facilitating collaborative data processes, notably profiling coordinators,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「be structured and planned as part of a displacement profiling process. The utility of certain」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「a profiling exercise or a joint needs assessment.31」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysis processes in profiling or joint needs assessments. A description of each technique is」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cognitive_biases_march_2016.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「apr09.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「3rd%20Edition.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+- 失敗・落とし穴：
+  - 「treatment of cognitive bias found in the Sherman」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Cognitive and perceptual biases in」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Common Perceptual and Cognitive Biases」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Biases in Evaluating Evidence」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Biases in Estimating Probabilities」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Biases in Perceiving Causality」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「bias, “analysis can be improved.”3」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「common mistakes that can lead to」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「free of his or her cognitive biases without」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「to good analysis and provides techniques for overcoming mind-sets and cognitive biases.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「(SATs) are methods for analyzing intelligence and reaching conclusions. They were originally developed by the US government to avoid bias and unchallenged assumptions, and have come to be used by intelligence analysts in a variety of fields, including cyber threat intelligence.」（https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4）
+  - 「: This technique is designed to combat cognitive biases like "mirror imaging" where analysts fall into the error of assuming an adversary or target of analysis is likely to think and perceive an issue as they would. This technique can also be useful to trade places with the customers to better tailor analysis to their needs and perspectives.」（https://www.cisecurity.org/ms-isac/services/words-of-estimative-probability-analytic-confidences-and-structured-analytic-techniques）
+  - 「Structured Analytic Techniques (SATs), such as the Key Assumptions Check (KAC) and Red Team Analysis (RTA), assist analysts in critically examining information and mitigating biases amid the growing challenges posed by threat actors.」（https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/）
+  - 「By utilizing SATs, we can enhance the way in which we analyze information, ensuring our conclusions are well-structured and based on logical reasoning. SATs also help to overcome cognitive biases, foster creativity in our thinking, and identify early warning signs of change, which are crucial in uncertain and high-stakes situations.」（https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/）
+  - 「Help avoid cognitive biases」（https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/）
+- 実例：
+  - 「example, the extent to which other people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「or example, military analysis may focus」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「these forces actually fght?). In this case,」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「might fuctuate. All of these examples」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「a good example of how this technique could have been applied. After the initial furry of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「accurately. In the case of HUMINT , this will」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「builds a more concrete case for the analytic」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「when it is important to make a case that a」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「hypotheses—in some cases, analysts」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「hypotheses. In the latter case, the evidence can」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「case, explore what could account for」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「best possible case for an alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「In some cases, the analyst or a team」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+  - 「merits of each case, pose questions back」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+
+## 照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り）（entity resolution evaluation precision recall confidence interval importance sampling few labels）
+- 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「How to Evaluate Entity Resolution Systems:」（https://arxiv.org/pdf/2404.05622）
+  - 「An Entity-Centric Framework with Application to」（https://arxiv.org/pdf/2404.05622）
+  - 「ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-」（https://arxiv.org/pdf/2404.05622）
+  - 「and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology」（https://arxiv.org/pdf/2404.05622）
+  - 「that integrates with a unified framework for monitoring summary statistics, estimating key performance」（https://arxiv.org/pdf/2404.05622）
+  - 「date the framework in an application to inventor name disambiguation and through simulation studies.」（https://arxiv.org/pdf/2404.05622）
+  - 「methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding」（https://arxiv.org/pdf/2404.05622）
+  - 「evaluation framework with the following components.」（https://arxiv.org/pdf/2404.05622）
+  - 「4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-」（https://arxiv.org/pdf/2404.05622）
+  - 「Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,」（https://arxiv.org/pdf/2404.05622）
+  - 「without considering its specific architecture. This allows our framework to apply to any entity resolution」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 1 represents the elements of the evaluation framework as well as their interdependencies.」（https://arxiv.org/pdf/2404.05622）
+  - 「Methodology (§3.2)」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity」（https://arxiv.org/pdf/2404.05622）
+  - 「or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error」（https://arxiv.org/pdf/2404.05622）
+- 突き合わせ・推定：
+  - 「2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such」（https://arxiv.org/pdf/2404.05622）
+  - 「tain estimates that are representative of the system’s performance on the entire data set, not just the」（https://arxiv.org/pdf/2404.05622）
+  - 「Estimates (§3.4)」（https://arxiv.org/pdf/2404.05622）
+  - 「computed for predictions, while their true value for a ground truth clustering can be estimated using labeled」（https://arxiv.org/pdf/2404.05622）
+  - 「or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error」（https://arxiv.org/pdf/2404.05622）
+  - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
+  - 「with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:」（https://arxiv.org/pdf/2404.05622）
+  - 「Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were」（https://arxiv.org/pdf/2404.05622）
+  - 「results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey」（https://arxiv.org/pdf/2404.05622）
+  - 「querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the」（https://arxiv.org/pdf/2404.05622）
+  - 「files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of」（https://arxiv.org/pdf/2404.05622）
+  - 「variance of estimated linkage propensities.」（https://arxiv.org/pdf/2404.05622）
+  - 「At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,」（https://arxiv.org/pdf/2404.05622）
+  - 「considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to」（https://arxiv.org/pdf/2404.05622）
+- 失敗・落とし穴：
+  - 「commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to」（https://arxiv.org/pdf/2404.05622）
+  - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
+  - 「The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the」（https://arxiv.org/pdf/2404.05622）
+  - 「bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy」（https://arxiv.org/pdf/2404.05622）
+  - 「adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include」（https://arxiv.org/pdf/2404.05622）
+  - 「reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.」（https://arxiv.org/pdf/2404.05622）
+  - 「ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always」（https://arxiv.org/pdf/2404.05622）
+  - 「less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the」（https://arxiv.org/pdf/2404.05622）
+  - 「In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-」（https://arxiv.org/pdf/2404.05622）
+  - 「cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias」（https://arxiv.org/pdf/2404.05622）
+  - 「Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past」（https://arxiv.org/pdf/2404.05622）
+  - 「precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.」（https://arxiv.org/pdf/2404.05622）
+  - 「of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially」（https://arxiv.org/pdf/2404.05622）
+- 実例：
+  - 「numerous yet small. For example, entity resolution is used for the identification of unique inventors listed」（https://arxiv.org/pdf/2404.05622）
+  - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
+  - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
+  - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
+  - 「resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/pdf/2404.05622）
+  - 「patent grant date, patent assignee, and patent classification codes; see Table 1 for examples.」（https://arxiv.org/pdf/2404.05622）
+  - 「T able 1: Example of attributes available for individual inventor mentions. Additional attributes, such as」（https://arxiv.org/pdf/2404.05622）
+  - 「or operational. In the former case, the main goal is to produce a linked file including all the required」（https://arxiv.org/pdf/2404.05622）
+  - 「responses and explanatory variables, to fit some regression model. A good example is the linkage of the」（https://arxiv.org/pdf/2404.05622）
+  - 「considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to」（https://arxiv.org/pdf/2404.05622）
+  - 「example, with probability proportional to size sampling, we have pc = |c|/N. Sampling processes and designs」（https://arxiv.org/pdf/2404.05622）
+  - 「For example, when sampling clusters with probability proportional to size, we havepc = |c|/N. Consequently,」（https://arxiv.org/pdf/2404.05622）
+  - 「example, we can estimate each expectation with its corresponding weighted sample average—and take the」（https://arxiv.org/pdf/2404.05622）
+  - 「In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling」（https://arxiv.org/pdf/2404.05622）
+  - 「of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be」（https://arxiv.org/pdf/2404.05622）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）

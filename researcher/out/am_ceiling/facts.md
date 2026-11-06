@@ -1,4 +1,4 @@
-# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・19品目）
+# 金属AM受託の頭打ち金額 — 1件・1社年間・用途ごとの上限（事実のみ・21品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1385,3 +1385,50 @@
   - 「AS9100D」（https://aml3d.com/）
   - 「When it comes to AM within the aerospace sector, AS9100D plays a crucial role in guaranteeing the integrity and consistency of 3D-printed components. Aligning AM processes with AS9100D ensures aerospace manufacturers can produce high-quality parts with AML3D's WAM system.」（https://aml3d.com/）
 - 最大案件・上限：記載なし（読んだ45頁・検索16回）
+
+## 金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ）（metal 3D printing service bureau official quote example volume and price per part）
+- 文脈：料金・一次
+- 1件の単価：記載なし（読んだ45頁・検索16回）
+- 最大案件・上限：記載なし（読んだ45頁・検索16回）
+- 顧客1社の年間：記載なし（読んだ45頁・検索16回）
+- 受託会社の売上：記載なし（読んだ45頁・検索16回）
+- 用途別：記載なし（読んだ45頁・検索16回）
+- 価格を決める要因：記載なし（読んだ45頁・検索16回）
+
+## 海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル）（metal additive manufacturing service revenue 10-K annual report Velo3D Nikon SLM Sintavia）
+- 文脈：海外・一次
+- 1件の単価：
+  - 「Level 1 — Quoted prices...」（https://last10k.com/sec-filings/vld）
+- 最大案件・上限：
+  - 「Under ASC 718, the award...」（https://last10k.com/sec-filings/vld）
+- 顧客1社の年間：
+  - 「Velo3d, Inc. (VLD) 10K Annual Reports & 10Q SEC Filings」（https://last10k.com/sec-filings/vld）
+  - 「Velo3d, Inc. (VLD) SEC Filing 10-K Annual Report for the fiscal year ending Sunday, December 31, 2023」（https://last10k.com/sec-filings/vld）
+  - 「10-K Annual Report April 2024」（https://last10k.com/sec-filings/vld）
+  - 「10-K Annual Report March 2023」（https://last10k.com/sec-filings/vld）
+  - 「10-K Annual Report March 2022」（https://last10k.com/sec-filings/vld）
+  - 「Last10K.com | 10-K Annual Report Wed Apr 03 2024」（https://last10k.com/sec-filings/vld）
+  - 「View Velo3d, Inc.'s 10-K Annual Report in its entirety.」（https://last10k.com/sec-filings/vld）
+  - 「Screenshot: 10-K Annual Report」（https://last10k.com/sec-filings/vld）
+  - 「Compare this 10-K Annual Report to its predecessor by reading our highlights to see what text and tables were」（https://last10k.com/sec-filings/vld）
+  - 「Assess how Velo3d, Inc.'s management team is paid from their Annual Proxy」（https://last10k.com/sec-filings/vld）
+  - 「Velo3d, Inc.'s Definitive Proxy Statement (Form DEF 14A) filed after their 2024 10-K Annual Report includes:」（https://last10k.com/sec-filings/vld）
+  - 「Inside Velo3d, Inc.'s 10-K Annual Report:」（https://last10k.com/sec-filings/vld）
+- 受託会社の売上：
+  - 「The initial sales of 3D...」（https://last10k.com/sec-filings/vld）
+  - 「Other revenue included under 3D...」（https://last10k.com/sec-filings/vld）
+  - 「Revenue for the 3D Printer...」（https://last10k.com/sec-filings/vld）
+- 用途別：
+  - 「new defense customers」（https://last10k.com/sec-filings/vld）
+- 価格を決める要因：
+  - 「Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters」（https://last10k.com/sec-filings/vld）
+  - 「Certain Relationships and Related Transactions, and Director Independence」（https://last10k.com/sec-filings/vld）
+  - 「Changes in any or all of these estimates and assumptions or the relationships between those assumptions impact our valuations as of each valuation date and may have a material impact on the valuation of our common stock.」（https://last10k.com/sec-filings/vld）
+  - 「We shipped our first Sapphire...」（https://last10k.com/sec-filings/vld）
+  - 「Revenue from shipping billed to...」（https://last10k.com/sec-filings/vld）
+  - 「Material Contracts, Statements, Certifications & more」（https://last10k.com/sec-filings/vld）
+  - 「Exhibit 31.1: Rule 13A-14(A)/15D-14(A) Certification」（https://last10k.com/sec-filings/vld）
+  - 「Exhibit 31.2: Rule 13A-14(A)/15D-14(A) Certification」（https://last10k.com/sec-filings/vld）
+  - 「Exhibit 32.1: Section 1350 Certification」（https://last10k.com/sec-filings/vld）
+  - 「Exhibit 32.2: Section 1350 Certification」（https://last10k.com/sec-filings/vld）
+  - 「View which hedge funds, pension / retirement funds, endowments, banks and insurance companies have increased or decreased their positions in a particular stock. Includes Ownership Percent, Buy versus Sell comparison, Put-Call ratio and more」（https://last10k.com/sec-filings/vld）

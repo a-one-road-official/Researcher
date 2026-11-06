@@ -1,0 +1,325 @@
+{
+ "name": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）",
+ "en": "writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date",
+ "aliases": [
+  "iB note 投資仮説 答え合わせ",
+  "投資仮説 事後検証 決算 答え合わせ",
+  "pre-mortem post-mortem investment thesis scoring -求人 -就活"
+ ],
+ "context": "手順・やり方",
+ "kind": "market",
+ "researched_at": "2026-11-06T10:29:21.916933+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://contents.xj-storage.jp/xcontents/33500/77c14c46/a2c9/4d08/b281/60c031b0345e/140120241023501230.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0498020_01.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trade-sign.xsrv.jp/magazine/1920/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/pe_gogo/n/ndf06500279a8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pe_gogo/n/n0f4122b6704f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sggroup.jp/ja/article/financial-templates-hub/investment-thesis-template/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pe_gogo/n/n87e8bcb20d2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/news/r7/singi/20260327.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/listed-co/format/tddoc/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otemachiprep.com/pe-007-investment-thesis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otemachiprep.com/car-079-vc-interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/listing/disclosure/guidebook/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/news/r7/singi/20260327/10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://publications.aaahq.org/accounting-review/article/100/2/441/13168/Revealed-Proprietary-Information-Disclosure",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1815566925000025",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aeaweb.org/conference/2016/retrieve.php?pdfid=21415&tk=BesFNks5",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://webuser.bus.umich.edu/ppasquar/disclosure.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10213183/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scheller.gatech.edu/directory/research/accounting/moon/pdf/financial-analysis-on-social-media-and-disclosure-processing-costs-evidence-from-seeking-alpha.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） site:note.com",
+   "results": [
+    "https://contents.xj-storage.jp/xcontents/33500/77c14c46/a2c9/4d08/b281/60c031b0345e/140120241023501230.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
+    "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "https://release.nikkei.co.jp/attach_file/0498020_01.pdf",
+    "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
+    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
+    "https://trade-sign.xsrv.jp/magazine/1920/",
+    "https://note.com/pe_gogo/n/n0f4122b6704f"
+   ]
+  },
+  {
+   "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） note",
+   "results": [
+    "https://contents.xj-storage.jp/xcontents/33500/77c14c46/a2c9/4d08/b281/60c031b0345e/140120241023501230.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
+    "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "https://release.nikkei.co.jp/attach_file/0498020_01.pdf",
+    "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
+    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
+    "https://trade-sign.xsrv.jp/magazine/1920/",
+    "https://note.com/pe_gogo/n/ndf06500279a8"
+   ]
+  },
+  {
+   "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） やり方",
+   "results": [
+    "https://contents.xj-storage.jp/xcontents/33500/77c14c46/a2c9/4d08/b281/60c031b0345e/140120241023501230.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
+    "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "https://release.nikkei.co.jp/attach_file/0498020_01.pdf",
+    "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
+    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
+    "https://trade-sign.xsrv.jp/magazine/1920/",
+    "https://note.com/pe_gogo/n/n87e8bcb20d2b"
+   ]
+  },
+  {
+   "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） 事例",
+   "results": [
+    "https://contents.xj-storage.jp/xcontents/33500/77c14c46/a2c9/4d08/b281/60c031b0345e/140120241023501230.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
+    "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "https://release.nikkei.co.jp/attach_file/0498020_01.pdf",
+    "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
+    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
+    "https://trade-sign.xsrv.jp/magazine/1920/",
+    "https://sggroup.jp/ja/article/financial-templates-hub/investment-thesis-template/"
+   ]
+  },
+  {
+   "query": "writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date",
+   "results": [
+    "https://publications.aaahq.org/accounting-review/article/100/2/441/13168/Revealed-Proprietary-Information-Disclosure",
+    "https://www.sciencedirect.com/science/article/abs/pii/S1815566925000025",
+    "https://www.aeaweb.org/conference/2016/retrieve.php?pdfid=21415&tk=BesFNks5",
+    "https://webuser.bus.umich.edu/ppasquar/disclosure.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10213183/",
+    "https://www.scheller.gatech.edu/directory/research/accounting/moon/pdf/financial-analysis-on-social-media-and-disclosure-processing-costs-evidence-from-seeking-alpha.pdf",
+    "https://utoronto.scholaris.ca/bitstreams/47a26e04-542f-40e0-8578-96d3a5618042/download",
+    "https://www.freewritings.law/",
+    "https://onlinelibrary.wiley.com/doi/full/10.1111/jbfa.12857",
+    "https://link.springer.com/article/10.1007/s11142-026-09963-2"
+   ]
+  },
+  {
+   "query": "site:note.com 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）",
+   "results": [
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/pe_gogo/n/n0f4122b6704f",
+    "https://note.com/pe_gogo/n/ndf06500279a8",
+    "https://note.com/pe_gogo/n/n87e8bcb20d2b",
+    "https://note.com/pe_gogo/n/n13793a9f72b6",
+    "https://note.com/pe_gogo/n/nbf04166747bf",
+    "https://note.com/petenshoku/n/ne3a19a26124f",
+    "https://note.com/kamenekoneko/n/ncadbe1baa9fe"
+   ]
+  },
+  {
+   "query": "site:x.com 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）",
+   "results": [
+    "https://x.com/yuna_ito_fx/status/2096236481111269813",
+    "https://x.com/SectorNexus/status/2086990600948289909",
+    "https://x.com/pygmy_hem/status/2026035592317039044",
+    "https://x.com/negitts/status/2105295333182025977",
+    "https://x.com/DBC_ITO/status/2069308736574042374",
+    "https://x.com/daken_in_market/status/1758117245119836668",
+    "https://x.com/tohataha079/status/2076845317820207500",
+    "https://x.com/MacopeninSUTABA/status/2088793363000783185"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）",
+   "results": [
+    "https://www.linkedin.com/posts/yurie-t-97436373_pe転職-peファンド-投資仮説-activity-7456251143300747264-AR3n",
+    "https://jp.linkedin.com/posts/bambootakemura_開示項目が増えたことと投資家が企業をより判断できるようになったことは同-activity-7509860764258791424-ZAzi",
+    "https://jp.linkedin.com/posts/yushu-shuku-87059b135_以前自分がnoteで公開した事業仮説のど真ん中で起業されている高見澤さんshutakamizawa-activity-7450415356193538048-r0m3",
+    "https://www.linkedin.com/posts/yoheikawazoe_コーポレートファイナンス6市場効率性仮説から行動ファイナンスへ-株式投資をしている-activity-7197171349734203393-LPi6",
+    "https://jp.linkedin.com/posts/takehide-mochizuki-955815166_コンフィデンシャル求人国内トップクラスの実績を誇るベンチャーキャピタルにて-activity-6793553283400241152-4yDD",
+    "https://jp.linkedin.com/pulse/how-write-perfect-investor-update-otto-pohl-jr1yf?tl=ja",
+    "https://jp.linkedin.com/learning/getting-your-ideas-approved-2/778805"
+   ]
+  },
+  {
+   "query": "site:facebook.com 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）",
+   "results": [
+    "https://www.facebook.com/JSDA.PR/posts/個人投資家の証券投資に関する意識調査報告書-公表本協会では毎年有価証券保有者に対して個人投資家の証券投資に関する意識調査を行っております今回の調査では有価証券の/1110657461202685/",
+    "https://www.facebook.com/nikkei/posts/知的財産やブランドなど無形資産への投資額企業に開示を要請-政府が要綱を公表します将来の収益につながる投資を促すとともに投資家など市場からの評価を高める効果も見込/1577021307102599/",
+    "https://www.facebook.com/KPMG.JP/videos/ifrsr会計基準オンライン基礎講座-新基準である-ifrs第18号財務諸表における表示及び開示について動画で解説します-httpskpmgcomjpjains/1583782126239860/",
+    "https://www.facebook.com/JAFCO.PR/posts/ai投資仮説レポート第4号公開aiラッパーに価値があるかではなくいかにして単なるaiラッパーという揶揄を跳ね除け独自の優位性を築くか同じ出発点から評価額8010/1431248729012946/",
+    "https://www.facebook.com/photo/?fbid=1397886392349180",
+    "https://www.facebook.com/j2igo/videos/この動画人間がやったのはネタを渡すことだけです台本はaiが書き音声字幕口パク尺あわせ演出まで全部自動１本の動画をつくるのに30分もかかりません仕組みは近日公開し/2657102434688157/",
+    "https://www.facebook.com/KPMG.JP/posts/2026年2月20日金融庁はサステナビリティ開示基準の適用開始に向けた環境整備人的資本に関する開示の拡充等のための改正企業内容等の開示に関する内閣府令等を公表し/1349893057157888/"
+   ]
+  },
+  {
+   "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） note 社長",
+   "results": [
+    "https://contents.xj-storage.jp/xcontents/33500/77c14c46/a2c9/4d08/b281/60c031b0345e/140120241023501230.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
+    "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "https://release.nikkei.co.jp/attach_file/0498020_01.pdf",
+    "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
+    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
+    "https://trade-sign.xsrv.jp/magazine/1920/",
+    "https://note.com/pe_gogo/n/n87e8bcb20d2b"
+   ]
+  },
+  {
+   "query": "投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める） X 投稿",
+   "results": [
+    "https://contents.xj-storage.jp/xcontents/33500/77c14c46/a2c9/4d08/b281/60c031b0345e/140120241023501230.pdf",
+    "https://www.nomuraholdings.com/jp/investor/library/report/main/010/teaserItems3/0/linkList/0/link/113_2q_jsec.pdf",
+    "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=5",
+    "https://www.jst.go.jp/program/startupkikin/files/sogyo/youkou_sogyo_term2-2.pdf",
+    "https://release.nikkei.co.jp/attach_file/0498020_01.pdf",
+    "https://www.gakushuin.ac.jp/univ/eco/gakkai/pdf_files/keizai_ronsyuu/contents/contents2006/4801/4801tatumi/4801tatumi.pdf",
+    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/ef585552-ff0a-4610-9bac-1e5841ef7898/download",
+    "https://kenshoku-bank.com/exams/examdk/2/2021_first_pm_q24",
+    "https://trade-sign.xsrv.jp/magazine/1920/",
+    "https://sggroup.jp/ja/article/financial-templates-hub/investment-thesis-template/"
+   ]
+  },
+  {
+   "query": "writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/jonathan-f-p-rose-46073629",
+    "https://www.linkedin.com/in/holdenlee",
+    "https://ae.linkedin.com/in/lopezdeprado",
+    "https://www.linkedin.com/in/tony-cookson-23348573",
+    "https://www.linkedin.com/in/cameron-rogers-cfa-85768520",
+    "https://www.linkedin.com/in/kennethmcgovern",
+    "https://www.linkedin.com/company/petra-funds-group",
+    "https://www.linkedin.com/in/rileykaminer",
+    "https://www.linkedin.com/in/daniel-vasquez-cbe-b1a5594",
+    "https://www.linkedin.com/in/jacques-gordon-2603b88"
+   ]
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ25頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ25頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ25頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ25頁・検索12回）",
+  "実例": "記載なし（読んだ25頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-06T10:29:21.916933+00:00"
+}

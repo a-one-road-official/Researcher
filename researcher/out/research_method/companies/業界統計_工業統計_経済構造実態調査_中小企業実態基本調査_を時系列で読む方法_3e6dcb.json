@@ -8,8 +8,100 @@
  ],
  "context": "凄腕・統計",
  "kind": "market",
- "researched_at": "2026-11-06T06:49:41.518602+00:00",
+ "researched_at": "2026-11-06T10:35:17.856126+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "イ これについては、前述（２）の調査対象の範囲に基づき、試算した結果、現行計画",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "の事業所24万５千事業所の計約30万５千事業所（経済センサス‐活動調査結果を基",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "方法から、基準年である経済センサス－活動調査結果の産業分類別の出荷額を用い",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "少ない報告者数で調査結果の概略について把握することが可能となるとしている",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ａ 試算結果等の数値的な根拠を含め、製造業事業所調査の調査対象の属性的範囲",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ｂ これらの変更により結果の時系列、地域別表章への影響はないか",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "って調査を受ける事業所を確定するために、準備調査を行い、準備調査の結果に基",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・ 市区町村別結果等については参考表として特別集計する",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イ また、製造業事業所調査の集計結果については、表10のとおり、経済構造実態調",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "工業統計調査の集計結果は、",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "により公表されていたが、推計結果は調査結果を確定した上で実施することが望ま",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "表10 調査結果の公表及び期日（製造業事業所調査）",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "９ 調査結果の",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "「諮問第113号の答申 中間年における経済構造統計の整備について」 （平成30年８月",
@@ -102,38 +194,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "象外事業所の推計が困難である「卸売販売額の販売先割合（本支店間移動の割合） 」",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "により公表されていたが、推計結果は調査結果を確定した上で実施することが望ま",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "他方で、国民経済計算の推計",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかしながら、国民経済計算の推計をはじめとした利活用の支障が生じないか確認",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ｂ 国民経済計算の推計をはじめとした利活用に支障が生じないよう、どのような",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "態調査への包摂に係る検討の中で、母集団ＤＢの年次フレームを調査名簿として用いる",
@@ -202,63 +262,9 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
+  "突き合わせ・推定": [
    {
-    "quote": "イ これについては、前述（２）の調査対象の範囲に基づき、試算した結果、現行計画",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "の事業所24万５千事業所の計約30万５千事業所（経済センサス‐活動調査結果を基",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "方法から、基準年である経済センサス－活動調査結果の産業分類別の出荷額を用い",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "少ない報告者数で調査結果の概略について把握することが可能となるとしている",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ａ 試算結果等の数値的な根拠を含め、製造業事業所調査の調査対象の属性的範囲",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ｂ これらの変更により結果の時系列、地域別表章への影響はないか",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "って調査を受ける事業所を確定するために、準備調査を行い、準備調査の結果に基",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・ 市区町村別結果等については参考表として特別集計する",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "イ また、製造業事業所調査の集計結果については、表10のとおり、経済構造実態調",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "工業統計調査の集計結果は、",
+    "quote": "象外事業所の推計が困難である「卸売販売額の販売先割合（本支店間移動の割合） 」",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -270,25 +276,19 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "表10 調査結果の公表及び期日（製造業事業所調査）",
+    "quote": "他方で、国民経済計算の推計",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "９ 調査結果の",
+    "quote": "しかしながら、国民経済計算の推計をはじめとした利活用の支障が生じないか確認",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業",
+    "quote": "ｂ 国民経済計算の推計をはじめとした利活用に支障が生じないよう、どのような",
     "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -379,17 +379,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
     "status": "ok",
     "method": "http"
    },
@@ -405,6 +405,11 @@
    },
    {
     "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001221300",
     "status": "ok",
     "method": "http"
    },
@@ -425,7 +430,7 @@
    },
    {
     "url": "https://dashboard.e-stat.go.jp/en/timeSeries",
-    "status": "http_403",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -482,7 +487,8 @@
     "https://www.jagat.or.jp/archives/99010",
     "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
     "https://www.nstac.go.jp/support/make-support/enterprisesupport/",
-    "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB"
+    "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html"
    ]
   },
   {
@@ -491,12 +497,12 @@
     "https://www.stat.go.jp/data/kkj/index.html",
     "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
     "http://www.etisa.or.jp/kkj-1.htm",
-    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
     "https://www.jagat.or.jp/archives/99010",
     "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
-    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
     "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "https://www.soumu.go.jp/main_content/000744047.pdf",
     "https://www.stat.go.jp/data/kkj/kekka/index.html"
    ]
   },
@@ -556,14 +562,15 @@
   {
    "query": "site:facebook.com 業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法",
    "results": [
-    "https://www.facebook.com/100064515737150/?locale=ta_IN",
+    "https://www.facebook.com/100064515737150/?locale=mk_MK",
     "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
     "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
     "https://www.facebook.com/smrjpr/",
-    "https://www.facebook.com/tokyo.smeca.johtoh/posts/2023430城東地区5区の産業構造等の概要について更新城東地区5区の産業構造等の概要についての第5版を作成しました今回第5版を作成するにあたるメンバー間で議論/704157815048103/",
     "https://www.facebook.com/stat.japan/posts/3月27日総務省統計局からお知らせします2025年経済構造実態調査一次集計結果-産業横断調査企業等に関する集計-総務省及び経済産業省は2025年6月に実施した2/1369600878537270/",
     "https://www.facebook.com/jpkanagata/posts/機械統計金型-6月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1374119468050206/",
-    "https://www.facebook.com/jpkanagata/posts/機械統計金型-10月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1485580476904104/"
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-10月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1485580476904104/",
+    "https://www.facebook.com/horei.gis/posts/中小企業庁取引条件改善状況調査を実施令和7年度取引条件改善状況調査を実施しています-中小企業庁httpswwwchushometigojpkeieitorihi/1476879387642182/",
+    "https://www.facebook.com/tokyo.smeca.johtoh/posts/2023430城東地区5区の産業構造等の概要について更新城東地区5区の産業構造等の概要についての第5版を作成しました今回第5版を作成するにあたるメンバー間で議論/704157815048103/"
    ]
   },
   {
@@ -575,9 +582,9 @@
     "https://www.soumu.go.jp/main_content/000744047.pdf",
     "https://www.jagat.or.jp/archives/99010",
     "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
-    "https://note.com/keisemi/n/naf14ab3c9062",
     "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
     "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b005.html",
+    "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
     "https://www.stat.go.jp/data/kkj/kekka/index.html"
    ]
   },
@@ -587,12 +594,12 @@
     "https://www.stat.go.jp/data/kkj/index.html",
     "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
     "http://www.etisa.or.jp/kkj-1.htm",
-    "https://www.pref.mie.lg.jp/DATABOX/12133003755.htm",
-    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
     "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.mie.lg.jp/DATABOX/12133003755.htm",
     "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
-    "https://www.nstac.go.jp/support/make-support/enterprisesupport/",
     "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.nstac.go.jp/support/make-support/enterprisesupport/",
     "https://www.stat.go.jp/data/kkj/kekka/index.html"
    ]
   },
@@ -601,21 +608,21 @@
    "results": [
     "https://www.linkedin.com/pulse/how-use-machine-learning-time-series-forecasting-vegard-flovik-phd-1f",
     "https://www.linkedin.com/pulse/from-historian-databricks-moving-industrial-time-series-indranil-paul-ikaxc",
-    "https://www.linkedin.com/pulse/time-series-health-research-step-guide-beginners-jesca-birungi--u80ye",
     "https://www.linkedin.com/in/jhtao",
-    "https://www.linkedin.com/in/morgan-l-frazier",
     "https://www.linkedin.com/company/seeqcorporation",
     "https://www.linkedin.com/company/tdengine",
+    "https://www.linkedin.com/in/morgan-l-frazier",
+    "https://www.linkedin.com/pulse/time-series-health-research-step-guide-beginners-jesca-birungi--u80ye",
+    "https://www.linkedin.com/company/influxdb",
     "https://www.linkedin.com/pulse/what-one-tells-you-sap-ibp-time-series-vs-order-based-ighlc",
-    "https://www.linkedin.com/company/timescaledb",
-    "https://www.linkedin.com/posts/zilong-zhao_our-latest-work-fracts-hierarchical-and-activity-7510217723092713472-5Z_f"
+    "https://www.linkedin.com/in/jim-fan-94843663"
    ]
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ28頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ29頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 12,
+ "runs": 13,
  "first_researched_at": "2026-11-05T00:48:20.098134+00:00"
 }

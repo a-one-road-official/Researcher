@@ -1,0 +1,637 @@
+{
+ "name": "海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル）",
+ "en": "metal additive manufacturing service revenue 10-K annual report Velo3D Nikon SLM Sintavia",
+ "aliases": [
+  "Velo3D 10-K revenue additive manufacturing services",
+  "Burloak OR Sintavia OR Fathom annual revenue additive",
+  "site:sec.gov additive manufacturing services revenue"
+ ],
+ "context": "海外・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T10:14:50.647962+00:00",
+ "evidence": {
+  "1件の単価": [
+   {
+    "quote": "Level 1 — Quoted prices...",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   }
+  ],
+  "最大案件・上限": [
+   {
+    "quote": "Under ASC 718, the award...",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   }
+  ],
+  "顧客1社の年間": [
+   {
+    "quote": "Velo3d, Inc. (VLD) 10K Annual Reports & 10Q SEC Filings",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3d, Inc. (VLD) SEC Filing 10-K Annual Report for the fiscal year ending Sunday, December 31, 2023",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "10-K Annual Report April 2024",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "10-K Annual Report March 2023",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "10-K Annual Report March 2022",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Last10K.com | 10-K Annual Report Wed Apr 03 2024",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "View Velo3d, Inc.'s 10-K Annual Report in its entirety.",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Screenshot: 10-K Annual Report",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Compare this 10-K Annual Report to its predecessor by reading our highlights to see what text and tables were",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Assess how Velo3d, Inc.'s management team is paid from their Annual Proxy",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3d, Inc.'s Definitive Proxy Statement (Form DEF 14A) filed after their 2024 10-K Annual Report includes:",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Velo3d, Inc.'s 10-K Annual Report:",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   }
+  ],
+  "受託会社の売上": [
+   {
+    "quote": "The initial sales of 3D...",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Other revenue included under 3D...",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue for the 3D Printer...",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   }
+  ],
+  "用途別": [
+   {
+    "quote": "new defense customers",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   }
+  ],
+  "価格を決める要因": [
+   {
+    "quote": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Certain Relationships and Related Transactions, and Director Independence",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Changes in any or all of these estimates and assumptions or the relationships between those assumptions impact our valuations as of each valuation date and may have a material impact on the valuation of our common stock.",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "We shipped our first Sapphire...",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue from shipping billed to...",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Material Contracts, Statements, Certifications & more",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit 31.1: Rule 13A-14(A)/15D-14(A) Certification",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit 31.2: Rule 13A-14(A)/15D-14(A) Certification",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit 32.1: Section 1350 Certification",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit 32.2: Section 1350 Certification",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   },
+   {
+    "quote": "View which hedge funds, pension / retirement funds, endowments, banks and insurance companies have increased or decreased their positions in a particular stock. Includes Ownership Percent, Buy versus Sell comparison, Put-Call ratio and more",
+    "url": "https://last10k.com/sec-filings/vld",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishicorp.com/jp/ja/ir/library/fstatement/pdf/2025_04/y2025_04.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/ir/reports/integrated_report/pdf/2025_jp_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smd-am.co.jp/fund/pdf/188702u.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyo-gas.co.jp/IR/library/pdf/yuho/yuho2506.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.amd.com/financial-information/sec-filings/content/0000017283-01-000035/0000017283-01-000035.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://recruit-holdings.com/ja/ir/library/upload/report_202503q4_ar_jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbiam.co.jp/fund/pdf/8931224A_GlobalEquityFundAnnual_uunpou_2508.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/result/pdf/2025/25second_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cgshd.co.jp/wp-content/uploads/2020/09/20170610_daiwaIR.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.agc.com/ir/library/outline/pdf/gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/annual/integratedreport2025j_v.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/news/sec-filings",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/united-states-additive-manufacturing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.otcmarkets.com/financialReportViewer?symbol=EDWY&id=121731",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/upload/investigate/docs/tokai1109_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ir.appliedmaterials.com/annual-report-proxy",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieb.kobe-u.ac.jp/center/collection/annual-e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://treelazy.com/stock-jp/us",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report_detail/id=113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usdata.lb-product.com/ja/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://facfox.com/news/metal-3d-printing-company-slm-solutions-reports-revenue-of-86-million-22-increase-in-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nikon-slm-solutions.com/wp-content/uploads/2024/10/2023_SO_SLM_Solutions_Valuation_Report_final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/222/velo3d-and-sandia-national-laboratories-sign-five-year",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1754820/000155837024003411/dm-20231231x10k.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/velo3d-reports-46m-revenue-in-2025-financial-results/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/sec-filings/annual-reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://last10k.com/sec-filings/vld",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/323958/nikon-reassesses-metal-am-strategy-with-591m-write-down/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usdanalytics.com/industry-reports/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/sec-filings/all-sec-filings/content/0001825079-26-000012/velo-ex99_1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Sintavia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sintavia.com/wp-content/uploads/2019/07/Acuris-Article-Sintavia-Howco-JV.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル） 単価 万円",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.mitsubishicorp.com/jp/ja/ir/library/fstatement/pdf/2025_04/y2025_04.pdf",
+    "https://www.marubeni.com/jp/ir/reports/integrated_report/pdf/2025_jp_all.pdf",
+    "https://www.smd-am.co.jp/fund/pdf/188702u.pdf",
+    "https://www.tokyo-gas.co.jp/IR/library/pdf/yuho/yuho2506.pdf",
+    "https://www.sbiam.co.jp/fund/pdf/8931224A_GlobalEquityFundAnnual_uunpou_2508.pdf",
+    "https://www.mec.co.jp/assets/img/annual/integratedreport2025j_v.pdf",
+    "https://www.amova-am.com/api/reports/management/?fundcode=641456",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル） 費用 相場",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "https://ir.amd.com/financial-information/sec-filings/content/0000017283-01-000035/0000017283-01-000035.pdf",
+    "http://recruit-holdings.com/ja/ir/library/upload/report_202503q4_ar_jp",
+    "https://www.sbiam.co.jp/fund/pdf/8931224A_GlobalEquityFundAnnual_uunpou_2508.pdf",
+    "https://www.marubeni.com/jp/ir/reports/integrated_report/pdf/2025_jp_all.pdf",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.tokyo-gas.co.jp/IR/library/pdf/yuho/yuho2506.pdf",
+    "https://steelsale.jp/casestudy/3dp/a113"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル） 最大 受注 億円",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/result/pdf/2025/25second_all.pdf",
+    "https://www.marubeni.com/jp/ir/reports/integrated_report/pdf/2025_jp_all.pdf",
+    "https://www.mitsubishicorp.com/jp/ja/ir/library/fstatement/pdf/2025_04/y2025_04.pdf",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.cgshd.co.jp/wp-content/uploads/2020/09/20170610_daiwaIR.pdf",
+    "https://www.agc.com/ir/library/outline/pdf/gaiyou.pdf",
+    "https://www.mec.co.jp/assets/img/annual/integratedreport2025j_v.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル） 量産 受注 年間",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "https://www.mordorintelligence.com/ja/industry-reports/united-states-additive-manufacturing-market",
+    "https://www.otcmarkets.com/financialReportViewer?symbol=EDWY&id=121731",
+    "https://www.act-pr.co.jp/report_detail/id=",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.dbj.jp/upload/investigate/docs/tokai1109_01.pdf",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://ir.appliedmaterials.com/annual-report-proxy"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル） 売上高 受託",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.otcmarkets.com/financialReportViewer?symbol=EDWY&id=121731",
+    "http://recruit-holdings.com/ja/ir/library/upload/report_202503q4_ar_jp",
+    "https://www.mec.co.jp/assets/img/annual/integratedreport2025j_v.pdf",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.agc.com/ir/library/outline/pdf/gaiyou.pdf",
+    "https://www.marubeni.com/jp/ir/reports/integrated_report/pdf/2025_jp_all.pdf",
+    "https://www.tokyo-gas.co.jp/IR/library/pdf/yuho/yuho2506.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing service revenue 10-K annual report Velo3D Nikon SLM Sintavia price per part",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.youtube.com/watch?v=3sjOHiIW9zw",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://facfox.com/news/metal-3d-printing-company-slm-solutions-reports-revenue-of-86-million-22-increase-in-sales/",
+    "https://nikon-slm-solutions.com/wp-content/uploads/2024/10/2023_SO_SLM_Solutions_Valuation_Report_final.pdf",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://sintavia.com/wp-content/uploads/2019/07/Acuris-Article-Sintavia-Howco-JV.pdf",
+    "https://www.usdanalytics.com/industry-reports/metal-additive-manufacturing-market",
+    "https://ir.velo3d.com/sec-filings/annual-reports"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing service revenue 10-K annual report Velo3D Nikon SLM Sintavia largest contract million",
+   "results": [
+    "https://ir.velo3d.com/news-events/press-releases/detail/222/velo3d-and-sandia-national-laboratories-sign-five-year",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.sec.gov/Archives/edgar/data/1754820/000155837024003411/dm-20231231x10k.htm",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.youtube.com/watch?v=3sjOHiIW9zw",
+    "https://nikon-slm-solutions.com/wp-content/uploads/2024/10/2023_SO_SLM_Solutions_Valuation_Report_final.pdf",
+    "https://facfox.com/news/metal-3d-printing-company-slm-solutions-reports-revenue-of-86-million-22-increase-in-sales/",
+    "https://www.metal-am.com/velo3d-reports-46m-revenue-in-2025-financial-results/",
+    "https://ir.velo3d.com/sec-filings/annual-reports"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing service revenue 10-K annual report Velo3D Nikon SLM Sintavia serial production long-term agreement value",
+   "results": [
+    "https://ir.velo3d.com/news-events/press-releases/detail/222/velo3d-and-sandia-national-laboratories-sign-five-year",
+    "https://nikon-slm-solutions.com/wp-content/uploads/2024/10/2023_SO_SLM_Solutions_Valuation_Report_final.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1754820/000155837024003411/dm-20231231x10k.htm",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://3dprint.com/323958/nikon-reassesses-metal-am-strategy-with-591m-write-down/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.youtube.com/watch?v=3sjOHiIW9zw",
+    "https://www.usdanalytics.com/industry-reports/metal-additive-manufacturing-market"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing service revenue 10-K annual report Velo3D Nikon SLM Sintavia revenue",
+   "results": [
+    "https://ir.velo3d.com/sec-filings/all-sec-filings/content/0001825079-26-000012/velo-ex99_1.htm",
+    "https://nikon-slm-solutions.com/wp-content/uploads/2024/10/2023_SO_SLM_Solutions_Valuation_Report_final.pdf",
+    "https://facfox.com/news/metal-3d-printing-company-slm-solutions-reports-revenue-of-86-million-22-increase-in-sales/",
+    "https://www.sec.gov/Archives/edgar/data/1754820/000155837024003411/dm-20231231x10k.htm",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.metal-am.com/velo3d-reports-46m-revenue-in-2025-financial-results/",
+    "https://growjo.com/company/Sintavia",
+    "https://sintavia.com/wp-content/uploads/2019/07/Acuris-Article-Sintavia-Howco-JV.pdf",
+    "https://additive-manufacturing-report.com/",
+    "https://ir.velo3d.com/sec-filings/annual-reports"
+   ]
+  },
+  {
+   "query": "site:note.com 海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル）",
+   "results": [
+    "https://note.com/kagawatomo/n/ndb06a6b0c405",
+    "https://note.com/aibusinesshunter/n/n91749f7a4dc7",
+    "https://note.com/sherlokian/n/n6455ca9273f5",
+    "https://note.com/ocaml/n/ne144fb47885f",
+    "https://note.com/shinpeiblognote/n/nf5e12a525fdc",
+    "https://note.com/ocaml/n/n4cf5dfef3072",
+    "https://note.com/dakudhigura/n/n9204b0f44d33",
+    "https://note.com/dakudhigura/n/n366befca911a",
+    "https://note.com/dakudhigura/n/n67fbf0bbfeb4"
+   ]
+  },
+  {
+   "query": "site:x.com 海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル）",
+   "results": [
+    "https://x.com/luigi_jpn/status/2117205424495559062",
+    "https://x.com/luigi_jpn/status/2115347987530678592",
+    "https://x.com/luigi_jpn/status/2113788303665426873",
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://x.com/gibo_y",
+    "https://x.com/FP38346079",
+    "https://x.com/HayamiKei_AI/status/2085321966358249515",
+    "https://x.com/listedcorp_inc/status/2078930268271054932",
+    "https://x.com/HayamiKei_AI/status/2083926650249740389",
+    "https://x.com/miraclemasui/status/2092209611243966800"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル）",
+   "results": [
+    "https://jp.linkedin.com/in/hirotokataoka914a5272",
+    "https://jp.linkedin.com/company/nsc-am-advanced-solution",
+    "https://jp.linkedin.com/in/am-li-771756409",
+    "https://www.linkedin.com/posts/k-田中-8236283a1_精密部品加工の受託製造始めました-activity-7471839040716210176-8yup",
+    "https://jp.linkedin.com/posts/sharelab-jp_金属am市場2034年に6兆円規模へvoxelmattersが最新市場レポート-activity-7328240169818505216-MPiF",
+    "https://www.linkedin.com/posts/憲一（kenichi）-水沼（mizunuma）-684004379_nttデータxam日本軽金属と戦略的パートナーシップ契約を締結-金属am事業-activity-7384536122875625472-kwwx",
+    "https://jp.linkedin.com/in/yoichi-ito-77825928b",
+    "https://jp.linkedin.com/pulse/航空宇宙用金属鍛造品-market-size平均cagr-1112026年から2033年までの収益創出主要トレンド海外ビジネス機会-r887f"
+   ]
+  },
+  {
+   "query": "site:facebook.com 海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル）",
+   "results": [
+    "https://www.facebook.com/jpShareLab/posts/金属am市場2034年に9兆円規模へvoxelmattersが最新市場レポートを公開金属積層造形分野の専門調査会社voxelmattersは2025年に向けた最/1288246973302792/",
+    "https://www.facebook.com/jpShareLab/posts/日本の製造業革新に不可欠な金属積層造形技術の未来レポート公開-みずほ銀行みずほ銀行-産業調査部は2025年1月17日に自社ウェブサイト内mizuho-short/1197910572336433/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/当社金属3dプリンタ営業担当も登壇特別対談トップメーカーに聞くam3dプリンタの現状とこれから-vol5アペルザtv-特別対談シリーズトップメーカーに聞くam3/1242605148025353/",
+    "https://www.facebook.com/NikonGroupjp/posts/nikon-am-technology-center-japanを埼玉県行田市に開設最先端の金属アディティブマニュファクチャリング付加加工以下am技術の開発およ/936680661888050/",
+    "https://www.facebook.com/mazak.jp/posts/金属積層造形am技術をご存知ですか削る型に流す工法とは異なり必要な箇所に必要な量だけ材料を積層従来工法では困難だった3d形状加工を可能にします部品の一体化や摩耗/1608705891258807/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/ソディックは２０２６年内にイタリアで金属積層造形ａｍ機の新工場を設立する周辺にある既存工場の集約や生産工程全体を自動化する仕組みの構築も手がけることなどにより金/1551449776985686/",
+    "https://www.facebook.com/kyocera.jp/posts/京セラ初の海外現地法人-米国-海外グループ会社紹介-当社グループは国内海外を合わせて260社以上のグループ会社がありますそのひとつであるkyocera-inte/1153438348114163/"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル） note 社長",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://ir.amd.com/financial-information/sec-filings/content/0000017283-01-000035/0000017283-01-000035.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "http://recruit-holdings.com/ja/ir/library/upload/report_202503q4_ar_jp",
+    "https://note.com/kagawatomo/n/ndb06a6b0c405",
+    "https://www.moomoo.com/news/translate-news/notice/1000567903/ja/1",
+    "https://www.nri.com/jp/media/column/financial_business_trends/files/20260330kaneko-3.html",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.ags.co.jp/ir/library/presentation/investor_201805_4q.pdf",
+    "https://jp.investing.com/news/sec-filings"
+   ]
+  },
+  {
+   "query": "海外の金属AM受託会社の10-K・年次報告の受託売上（金額・ドル） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://ir.amd.com/financial-information/sec-filings/content/0000017283-01-000035/0000017283-01-000035.pdf",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.sec.gov/node/154016",
+    "http://recruit-holdings.com/ja/ir/library/upload/report_202503q4_ar_jp",
+    "https://www.moomoo.com/news/translate-news/notice/1000567903/ja/1",
+    "https://cdn.yahoofinance.com/prod/sec-filings/0001781755/000114036126039675/ny20082659x2_ex99-c4.htm",
+    "https://www.ooc.co.jp/csr/report/pdf/Integrated_report2026.pdf",
+    "https://www.marubeni.com/jp/ir/reports/integrated_report/pdf/2024_jp_all_single.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102126"
+   ]
+  },
+  {
+   "query": "metal additive manufacturing service revenue 10-K annual report Velo3D Nikon SLM Sintavia site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/sintavia",
+    "https://www.linkedin.com/posts/hans-peter-dahm_lightweightdesign-additivemanufacturing-activity-7510987915401809920--aGq",
+    "https://jp.linkedin.com/company/sintavia",
+    "https://www.linkedin.com/posts/arianegroup_prometheus-activity-7516905918115090432-xXGO",
+    "https://www.linkedin.com/in/tim-warden-6683699",
+    "https://www.linkedin.com/company/amcm-3d/",
+    "https://www.linkedin.com/posts/fabbrix-3d_fabbrix-dualuse-dronemanufacturing-activity-7519312284528189440--Il8",
+    "https://www.linkedin.com/in/venkat-krishnan-15a65127",
+    "https://de.linkedin.com/company/amcm-3d",
+    "https://www.linkedin.com/in/mike-west-"
+   ]
+  }
+ ],
+ "missing": {}
+}

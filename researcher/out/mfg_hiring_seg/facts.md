@@ -1,4 +1,4 @@
-# 製造業の採用コストと採用状況 — 企業規模・職種・業種・地域のセグメント別（事実のみ・34品目）
+# 製造業の採用コストと採用状況 — 企業規模・職種・業種・地域のセグメント別（事実のみ・36品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2702,3 +2702,98 @@
   - 「リクルートが運営する「就職未来研究所」の調査によると、新卒を採用する場合の1人当たりの平均採用コストは2019年で93.6万円、2018年は71.5万円となっています」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/）
   - 「就職未来研究所 「就職白書2020」」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/）
   - 「この調査結果によれば、」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/）
+
+## 雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと）（Employment Trend Survey manufacturing hires by enterprise size Japan e-Stat table）
+- 文脈：規模・一次
+- 痛み・損（深さの印）：記載なし（読んだ43頁・検索16回）
+- セグメント定義：記載なし（読んだ43頁・検索16回）
+- 採用単価：記載なし（読んだ43頁・検索16回）
+- 年間採用費：記載なし（読んだ43頁・検索16回）
+- 採用経路：記載なし（読んだ43頁・検索16回）
+- 充足・欠員：記載なし（読んだ43頁・検索16回）
+- 調査主体・時期：記載なし（読んだ43頁・検索16回）
+
+## 中途採用状況調査の従業員規模別の採用費用の表（マイナビ・PDF の表・年ごと）（Mynavi mid-career hiring survey cost by company size table PDF）
+- 文脈：規模・一次
+- 痛み・損（深さの印）：
+  - 「どれだけ安く応募を集めても、内定辞退や早期離職が発生すれば再採用のコストがかかり、実質的な採用単価は跳ね上がります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「適性検査なども組み合わせ、客観的なマッチ度を測ることが早期離職の防止につながります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「面接だけではわからない候補者の本当の働く姿を可視化する、オンライン完結型リファレンス／コンプライアンスチェックツール「back check（バックチェック）」によって早期離職や人材リスクを未然に防ぐことが可能です」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「従業員の定着率を高めることで、欠員補充のための採用コストを削減することができます」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「また、入社後のオンボーディングもスムーズになり、早期離職のリスクを減らせる点もメリットです」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「中途採用は採用コストが高くなりがちなため、早期離職はできるだけ避けたいところです」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「また、採用ミスマッチの減少により、早期離職の防止にもつながり、結果として採用コストや教育コストの削減にも資することが見込まれます」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+- セグメント定義：
+  - 「採用単価の相場｜一人当たりの平均と職種・企業規模別の目安 − マガジン ｜ 【マイナビProfessional】企業向けポータルサイト」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用単価の相場｜一人当たりの平均と職種・企業規模別の目安 − マガジン ｜ 【マイナビProfessional】企業向けポータルサイト 読み込まれました」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用単価の相場｜一人当たりの平均と職種・企業規模別の目安」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「そこで本記事では、特にコストコントロールが難しい「中途採用」に焦点を当て、最新の相場や職種・企業規模別の動向、さらには自社の適正コストを算出する具体的な計算方法までを分かりやすく解説します」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「職種別の採用単価は、その職種の「採用難易度（需給バランス）」に比例します」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「業務委託の費用相場はいくら？職種別の目安と適正価格の見極め方」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員3〜50名：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員51〜300名：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員301〜1,000名：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「従業員1,001名以上：」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「同じくマイナビの同調査による、業種別の中途採用費用（年間総額の平均）は以下の通りです」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「直近の採用コストと採用人数から自社単価を算出し、企業規模別・業種別など自社に近いセグメントの相場と比較します」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「本記事では、中途採用にかかるコストの実態を企業規模別・業種別に分析し、その内訳と計算方法を詳しく解説します」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「中途採用のコストとは？企業や業種別、新卒との違いを解説」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+- 採用単価：
+  - 「採用単価の相場は数十万円から100万円超まで、採用区分や活用する手法によって大きな幅があります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「代表的な指標として、新卒採用では約50万〜90万円、中途採用では約30万〜100万円超 が一般的な目安です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用コストを構成する2つの要素」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「Q1. 採用単価を下げるために無料の求人サービスを使う際の注意点はありますか？」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「Q2. 採用単価を算出する際、どこまでを「内部コスト」に含めるべきですか？」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「Q3. 採用単価が市場相場より大幅に高くなっている場合、まず何から手をつければよいですか？」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「Q4. 採用単価を下げると採用の質が落ちませんか？」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「Q5. 自社の採用単価が高いかどうかはどう判断すればよいですか？」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「【人事担当者必見】中途採用コストの相場と削減方法13選！効率的な採用戦略の実践法| back check(バックチェック)」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「【人事担当者必見】中途採用コストの相場と削減方法13選！効率的な採用戦略の実践法」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「【外部コスト編】中途採用コストを削減する方法6選」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「【内部コスト編】中途採用コストを削減する方法7選」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「（※１）によると、2024年の中途採用費用の総額は平均650.6万円となっています」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+- 年間採用費：
+  - 「手順3：総額を「採用人数」で割る」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「中途採用費用の年間平均総額（650.6万円）を採用人数の平均（20.8人）で割った最新の算出値です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「マイナビが実施している中途採用状況調査によると、中途採用にかかる費用総額は2024年で平均650.6万円でした」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「採用の質を落とさずにコストを最適化する具体的な13の実践方法も紹介するので、採用予算の効率化を求められる人事担当者の方はぜひご覧ください」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+  - 「（※１）によると、2024年の中途採用費用の総額は平均650.6万円となっています」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+- 採用経路：
+  - 「ただし、多くの企業が頼る人材紹介（転職エージェント）は、理論年収の30〜35%が成果報酬の相場となるため、専門職やハイキャリアの採用ではコストが100万円を大きく上回ることも珍しくありません」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「・リファラル採用で社員に支払うインセンティブ」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「外部のサービスへ支払う求人広告費・人材紹介手数料など 「社外」のコスト」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは「過去1年間」など対象となる期間を決め、その間に発生した求人広告費や紹介手数料など、外部へ支払った費用を項目ごとにすべて集計します」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「人材紹介（転職エージェント）の一般的な料金体系：理論年収の30〜35％」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「中途採用で最も多く利用される人材紹介サービスの場合、成果報酬は「理論年収の30〜35%」が市場の共通相場です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「特に人材紹介（転職エージェント）を利用する場合、一般的な成果報酬は理論年収の30〜35%ですが、エンジニアや専門職など市場価値の高い職種では35〜40%に引き上げられるケースが増えています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「比較的母集団形成がしやすいため求人広告での採用が決まりやすく、1人当たり数十万円に抑えられるケースもあります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「加えて、人材紹介手数料の上昇も影響しています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「ハローワークや、各種求人サービス（Indeed、エンゲージ、求人ボックスなど）の無料掲載枠を組み合わせて初期コストを抑えます」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「社員へのインセンティブ（数万〜数十万円）は発生しますが、人材紹介の手数料と比べて大幅に外部コストを削減できます」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「スカウト枠の利用料などはかかりますが、人材紹介より費用を抑えやすく、ピンポイントでの獲得が可能です」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「自社サイトからの直接応募を増やす仕組みです」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「まずは直近の採用活動において「どの手法（媒体や人材紹介）にいくら使い、何人入社したか」という費用対効果の棚卸しを行ってください」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「プロ人材紹介サービスの選び方｜3タイプ別の特徴と比較ポイント7つを解説」（https://professional.mynavi.jp/magazine/magazine_402）
+- 充足・欠員：
+  - 「従業員の定着率を高めることで、欠員補充のための採用コストを削減することができます」（https://site.backcheck.jp/knowledge/mid-career-recruitment-cost）
+- 調査主体・時期：
+  - 「ここでは、公表されている調査データをもとに、それぞれの平均値と背景を解説します」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「採用単価は調査対象や集計方法によって数値が変動するため、数値を引用する際は、調査年度と出典をあわせて確認しておくと、社内説明の際にも説得力が高まります」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「マイナビ「2024年卒 企業新卒内定状況調査」：56.8万円」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「リクルート就職みらい研究所「就職白書2024」：基礎データとして活用」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「リクルートの最新の就職白書（2024年版）では、一人当たりの金額自体は非公表となっていますが、「インターンシップや早期選考への対応で、採用担当者の工数（内部コスト）が増加している」という背景が示されています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「マイナビ「中途採用状況調査2025年版（2024年実績）」：約31.3万円」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「マイナビ「中途採用状況調査2025年版（2024年実績）」によると、従業員規模別の中途採用費用（年間総額の平均）は以下の通りです」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「同じくマイナビの同調査による、業種別の中途採用費用（年間総額の平均）は以下の通りです」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「マイナビの調査によると、中途採用費用の平均総額は右肩上がりで推移しています」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「新卒採用も同様で、マイナビの調査では2023年卒の採用単価（1人あたり）45.0万円から2024年卒は56.8万円へと上昇しました」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［1］株式会社マイナビ「2024年卒 企業新卒内定状況調査」」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［2］株式会社 マイナビ 中途採用状況調査2025年版（2024年実績）」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［3］『就職白書2024』データ集 | 就職みらい研究所」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［4］株式会社マイナビ「中途採用状況調査2024年版（2023年実績）」」（https://professional.mynavi.jp/magazine/magazine_402）
+  - 「［6］株式会社マイナビ「中途採用状況調査2022年版（2021年実績）」」（https://professional.mynavi.jp/magazine/magazine_402）
