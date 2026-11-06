@@ -1,0 +1,543 @@
+{
+ "name": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
+ "en": "entity resolution primary secondary identifiers confidence scoring company registry",
+ "aliases": [
+  "OpenCorporates identifiers blog",
+  "法人番号 名寄せ 確度",
+  "LEI GLEIF entity matching guide"
+ ],
+ "context": "同一性",
+ "kind": "market",
+ "researched_at": "2026-11-06T20:08:54.369214+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "This article will explore the two most important assets in entity resolution – primary and secondary identifiers. It will cover their differences, their importance, and best practices for using them in an entity resolution framework.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity resolution is the method of determining when different records from one or more data sources refer to the same entity. In a corporate context, these entities could be companies, businesses, or other organisations. Entity resolution helps organisations:",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity resolution addresses these risks. It uses strong data matching and classification methods. At the heart of these procedures lie",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Assign match confidence scores based on how many primary and secondary identifiers match. This approach ensures a risk-based method, where higher-risk entities face deeper checks.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Filings such as annual reports, corporate bylaws, or statements of control.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Check if the matched records align on secondary attributes—do the addresses, operational details, or official filings match?",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5.3 Regulatory filings and audits",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "– like addresses and corporate filings – are vital. They add context that strengthens risk assessments and reveals hidden links.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Typical examples include:",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity Verification Case Study Compendium",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Case study: How a large US bank re-checks the businesses on its book against the secretary of state",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/ishizakahiroshi/n/n73e80a085b4b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toshi_now/n/nfdd16c037ece",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kobachou/n/ncc02c4a29377",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skoba/n/n3062a0396a2e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsu_s123/n/n9fc37c763825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eh_backoffice_ai/n/n06bfdba56041",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teamviewer.com/ja/special/digital-workplace-dx/data/table-2/row-02/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/apple_ringo/n/nb87412c0f73e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.microsoft.com/ja-jp/answers/questions/6060594/docx?orderby=helpful&page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.help-note.com/hc/ja/articles/42429933268761-%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E5%88%B6%E5%BA%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/11357/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://invox.jp/invoice-number",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fastaccounting.jp/blog/20230831/11797/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/tax_return/basic/73803/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freee.co.jp/kb/kb-invoice/rule-number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.cdata.com/blog/invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/MINJI/minji44.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setuzei.biz/archives/92",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nagoya-kigyoseturitu.com/case/2791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuoka-shihousyoshi.jp/column/8656",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiei-support-plus-a.com/kaisha-setsuritsu/media/trade-name/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.ai-con.lawyer/articles/company-transfer/59",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senzing.com/what-is-entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zigram.tech/article/entity-resolution-in-aml/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataladder.com/empi-vs-entity-resolution-what-healthcare-it-teams-need-to-know/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdp.com/glossary/entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 site:note.com",
+   "results": [
+    "https://note.com/ishizakahiroshi/n/n73e80a085b4b",
+    "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "https://note.com/toshi_now/n/nfdd16c037ece",
+    "https://note.com/kobachou/n/ncc02c4a29377",
+    "https://note.com/skoba/n/n3062a0396a2e",
+    "https://note.com/tatsu_s123/n/n9fc37c763825",
+    "https://note.com/kagawatomo/n/nb6c0632d2e41",
+    "https://note.com/paguinu/n/n18d688521707",
+    "https://note.com/modern_flea8708/n/n7a87d83173c7",
+    "https://note.com/modern_flea8708/n/nf3264b862676"
+   ]
+  },
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 note",
+   "results": [
+    "https://note.com/eh_backoffice_ai/n/n06bfdba56041",
+    "https://www.teamviewer.com/ja/special/digital-workplace-dx/Data/table-2/row-02",
+    "https://note.com/apple_ringo/n/nb87412c0f73e",
+    "https://learn.microsoft.com/ja-jp/answers/questions/6060594/docx?orderby=helpful&page=1",
+    "https://www.help-note.com/hc/ja/articles/42429933268761-%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E5%88%B6%E5%BA%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
+    "https://comcomponent.com/blog/business-code-design-check-digit/",
+    "https://biz.note.com/n/n832a62920801",
+    "https://mesut.co.jp/backlink-note/",
+    "https://note.com/ripla_business/n/n0e31a2c5fb03"
+   ]
+  },
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 やり方",
+   "results": [
+    "https://www.issoh.co.jp/column/details/11357/",
+    "https://invox.jp/invoice-number",
+    "https://www.fastaccounting.jp/blog/20230831/11797/",
+    "https://biz.moneyforward.com/tax_return/basic/73803/",
+    "https://www.freee.co.jp/kb/kb-invoice/rule-number/",
+    "https://jp.cdata.com/blog/invoice",
+    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
+    "https://www.yayoi-kk.co.jp/seikyusho/oyakudachi/billing-statement-10/",
+    "https://www.furi-ten.com/how-to-assign-invoice-numbers-for-invoice-system-compliance/",
+    "https://salesnow.jp/media/126/"
+   ]
+  },
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 事例",
+   "results": [
+    "https://www.moj.go.jp/MINJI/minji44.html",
+    "https://www.setuzei.biz/archives/92",
+    "https://nagoya-kigyoseturitu.com/case/2791",
+    "https://www.fukuoka-shihousyoshi.jp/column/8656",
+    "https://keiei-support-plus-a.com/kaisha-setsuritsu/media/trade-name/",
+    "https://corporate.ai-con.lawyer/articles/company-transfer/59",
+    "https://www.netbk.co.jp/contents/hojin/tips/2021/1206_001884.html",
+    "https://shiodome.co.jp/js/blog/167",
+    "https://virtualoffice-resonance.jp/service/useful/sumaho-de/company-name-rules/"
+   ]
+  },
+  {
+   "query": "entity resolution primary secondary identifiers confidence scoring company registry",
+   "results": [
+    "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "https://senzing.com/what-is-entity-resolution/",
+    "https://www.zigram.tech/article/entity-resolution-in-aml/",
+    "https://dataladder.com/empi-vs-entity-resolution-what-healthcare-it-teams-need-to-know/",
+    "https://cdp.com/glossary/entity-resolution/",
+    "https://arxiv.org/html/2607.26298v1",
+    "https://www.precisely.com/solution/data-matching-and-entity-resolution-solutions/",
+    "https://www.sigma360.com/how-entity-resolution-solves-for-rapidly-growing-risk-data-challenges/"
+   ]
+  },
+  {
+   "query": "site:note.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
+   "results": [
+    "https://note.com/ishizakahiroshi/n/n73e80a085b4b",
+    "https://note.com/bunkichi_kujo/n/nb407982bc194",
+    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
+    "https://note.com/modern_flea8708/n/nda4db7a05f40",
+    "https://note.com/modern_flea8708/n/n0fe4fa068026",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/ripla_business/n/n0e31a2c5fb03",
+    "https://note.com/kounotori17/n/n3346583df4c7",
+    "https://note.com/aijitanlab365/n/n853564136baf",
+    "https://note.com/ai_income_work/n/n03396eba4ff5"
+   ]
+  },
+  {
+   "query": "site:x.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
+   "results": [
+    "https://x.com/shibasaki_k/article/2102181183807455547",
+    "https://x.com/911_takuya/status/2104165916510679128",
+    "https://x.com/ksmi_aiworks/status/2104896477520679160",
+    "https://x.com/houjinbase/status/2108441091775004907",
+    "https://x.com/AIkenkyuFM/status/2080065351996551251",
+    "https://x.com/yohaku_shitate/status/2103148056346767499",
+    "https://x.com/ysokubu_999/status/2102322016959582435"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
+   "results": [
+    "https://jp.linkedin.com/pulse/data-reconciliation-rohan-rekhi-2pene?tl=ja",
+    "https://jp.linkedin.com/pulse/cmdb-management-servicenow-using-identification-rules-kiran-r-qv9kc?tl=ja",
+    "https://jp.linkedin.com/pulse/master-data-management-101-part-2-guide-haresh-joshi-1e?tl=ja",
+    "https://www.linkedin.com/posts/shiori-c-62b5461a1_sapジャパン-on-twitter-連結決算プロセスにイノベーションを-activity-6957870694252597249-3BhG",
+    "https://jp.linkedin.com/pulse/how-generative-ai-revolutionized-our-data-process-naveen-chauhan-xslrc?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-servicenow-cmdb-identification-reconciliation-jk7qc?tl=ja",
+    "https://jp.linkedin.com/posts/泰弘-菅野-427502172_azure-sql-databaseの照合順序設定を確認しましたデータベース作成時-activity-7391805908533755904-ZzqS"
+   ]
+  },
+  {
+   "query": "site:facebook.com 会社の照合で主の番号と付随の属性を分けて確度を付ける方法",
+   "results": [
+    "https://www.facebook.com/SansanJapan/posts/bill-oneに発注データ照合オプション機能を追加しました発注データをbill-oneにインポートすることで発注内容と請求書情報の照合作業をbill-one上/666023288894351/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/課題解決ガイドブック照合機能でラクラク解決変更したプログラムやパラメータの箇所が分からないそんなお悩みはございませんかシーケンサ用のエンジニアリングツール-gx/711581991127674/",
+    "https://www.facebook.com/SansanJapan/posts/bill-oneに請求書の照合業務をアシストするai新機能を実装しました請求書と納品検収データに記載された品目をaiが比較し表記ゆれがあっても同一品目を特定照合/1436432445186761/",
+    "https://www.facebook.com/tae.220/videos/契約書の照合整理まだ手でやっていますか️claude-for-legal-にすぐ使えるテンプレートが6種類-追加されました条項の一覧表引用の照合案件管理ボード書/1144222328099111/",
+    "https://www.facebook.com/pfu.jp/videos/まずは自社の業務でどこにムダがありどう見直せるのかチェックしませんか/2450498005431450/",
+    "https://www.facebook.com/pfu.jp/videos/まずは自社の業務でどこにムダがありどう見直せるのかチェックしませんか/2173828220233834/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-ユースケース編シーケンサの運用で既存プログラムからの変更箇所がわからなくなって困ったことはありませんかそのお悩みgxworks3/568435528775655/"
+   ]
+  },
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 note 社長",
+   "results": [
+    "https://www.help-note.com/hc/ja/articles/42429933268761-%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E5%88%B6%E5%BA%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://note.com/eh_backoffice_ai/n/n06bfdba56041",
+    "https://biz.note.com/n/n832a62920801",
+    "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/21-2.pdf",
+    "https://webtan.impress.co.jp/e/2020/06/05/36169",
+    "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/7227/",
+    "https://www.furi-ten.com/how-to-assign-invoice-numbers-for-invoice-system-compliance/",
+    "https://note.com/comix_ceo162230/n/nfa02a9efd736",
+    "https://note.com/kounotori17/n/n3346583df4c7"
+   ]
+  },
+  {
+   "query": "会社の照合で主の番号と付随の属性を分けて確度を付ける方法 X 投稿",
+   "results": [
+    "https://help.x.com/ja/managing-your-account/how-to-use-the-delegate-feature",
+    "https://colet-lab.jp/column/sns/x-corporate-account-post-format-thread-guide/",
+    "https://www.tribalmedia.co.jp/note/marketing-1068/",
+    "https://s--line.co.jp/x-twitter-business-2026/",
+    "https://www.ajsa.or.jp/kentei/sns/x/x-get-recommended.html",
+    "https://solezore.co.jp/blog/x-unyo-taisei/",
+    "https://note.com/yusuke_motoyama/n/n4dd3c56c7df1",
+    "https://flagout.co.jp/btob-x-twitter-guide/",
+    "https://zeal-security.jp/blog/xaccount_startguide/",
+    "https://yamanaka-bengoshi.jp/2026/08/29/mints-houjin-toujisha-nyuryoku/"
+   ]
+  },
+  {
+   "query": "entity resolution primary secondary identifiers confidence scoring company registry site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/nreineke",
+    "https://www.linkedin.com/pulse/design-rag-qa-system-millions-documents-hundreds-users-prem-vishnoi-irqmc",
+    "https://www.linkedin.com/in/nitish-shrivastava",
+    "https://www.linkedin.com/pulse/gen-ai-business-97-winter-olympics-edition-eugina-jordan-pgmue",
+    "https://www.linkedin.com/in/kbsriharsha",
+    "https://www.linkedin.com/in/darsei",
+    "https://www.linkedin.com/in/samuel30",
+    "https://www.linkedin.com/pulse/tokenization-taxonomy-practical-map-assets-rights-scott-germaise-woruc",
+    "https://ro.linkedin.com/in/aurelian-tanase-574286175",
+    "https://www.linkedin.com/in/shereefelias"
+   ]
+  }
+ ],
+ "missing": {
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "This article will explore the two most important assets in entity resolution – primary and secondary identifiers. It will cover their differences, their importance, and best practices for using them in an entity resolution framework.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity resolution is the method of determining when different records from one or more data sources refer to the same entity. In a corporate context, these entities could be companies, businesses, or other organisations. Entity resolution helps organisations:",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity resolution addresses these risks. It uses strong data matching and classification methods. At the heart of these procedures lie",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": Assign match confidence scores based on how many primary and secondary identifiers match. This approach ensures a risk-based method, where higher-risk entities face deeper checks.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Filings such as annual reports, corporate bylaws, or statements of control.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Check if the matched records align on secondary attributes—do the addresses, operational details, or official filings match?",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5.3 Regulatory filings and audits",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "– like addresses and corporate filings – are vital. They add context that strengthens risk assessments and reveals hidden links.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Typical examples include:",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity Verification Case Study Compendium",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Case study: How a large US bank re-checks the businesses on its book against the secretary of state",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.",
+    "url": "https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T20:08:54.369214+00:00"
+}

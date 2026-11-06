@@ -1,0 +1,478 @@
+{
+ "name": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63）",
+ "en": "Japan census of manufacture processing fee income electroplating heat treatment dies",
+ "aliases": [
+  "加工賃収入額 電気めっき業 工業統計",
+  "加工賃収入額 金属熱処理業 工業統計",
+  "加工賃収入額 金属用金型 工業統計 細分類"
+ ],
+ "context": "受注金額・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T20:08:48.221034+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/opac/Newly_arrived/hlist?tmtl=3&idx=13&ppg=50&rgtn=WZ2260053",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jftc.go.jp/toriteki/toritekikankoku/R8FYkankoku.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://zentoren.or.jp/mekki/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/18_kao/05.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/kawara/240_r4_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.joetsu-consulting.jp/news_contents_9316.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(1021).pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?bunya_l=05&toukei=00550630&result_page=1&page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(1028).pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.meguroshakyo.or.jp/wp-content/uploads/2026/10/vol27.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sattokyo.or.jp/_wp/wp-content/uploads/2026/10/c21f6c47de5091d77a3f9bef8b79d97e.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/dl/20210622-detail-13.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hokuto-sr.net/news_contents_9316.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/01_tekko.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/14_airhaikan/dsh14c.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/sei/kinzoku/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/opac/Free_word_search/hlist?q=0&idx=1366&tmtl=1&ppg=50&rgtn=WT2090280",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kenresearch.com/japan-heat-treated-steel-plates-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/outline/exp/data/exbpsm6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/fls/tables/fls-table-19.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://publish.iupress.indiana.edu/read/japan-s-postwar-economy/section/a3218fad-c0d4-47fe-9cc1-48e58e547ebf",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） 人手不足 受注 断る",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.stat.go.jp/library/opac/Newly_arrived/hlist?tmtl=3&idx=13&ppg=50&rgtn=WZ2260053",
+    "https://www.jftc.go.jp/toriteki/toritekikankoku/R8FYkankoku.html",
+    "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2303.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） 受注残 人手不足",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.stat.go.jp/library/opac/Newly_arrived/hlist?tmtl=3&idx=13&ppg=50&rgtn=WZ2260053",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） 人手不足 損失 億円",
+   "results": [
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/18_kao/05.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/240_r4_05.pdf",
+    "https://www.joetsu-consulting.jp/news_contents_9316.html"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63）",
+   "results": [
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(1021).pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.stat.go.jp/library/opac/Newly_arrived/hlist?tmtl=3&idx=13&ppg=50&rgtn=WZ2260053",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） 統計 PDF",
+   "results": [
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?bunya_l=05&toukei=00550630&result_page=1&page=1",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(1028).pdf",
+    "https://www.meguroshakyo.or.jp/wp-content/uploads/2026/10/vol27.pdf",
+    "https://sattokyo.or.jp/_wp/wp-content/uploads/2026/10/c21f6c47de5091d77a3f9bef8b79d97e.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.stat.go.jp/data/e-census/2026/pdf/ichiran_seizo.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&iroha=7&toukei=00550630",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/detail/dl/20210622-detail-13.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） 1人当たり 万円",
+   "results": [
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.hokuto-sr.net/news_contents_9316.html",
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/01_tekko.html",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/14_airhaikan/dsh14c.html"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） 2015 2025",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?bunya_l=05&toukei=00550630&result_page=1&page=1",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.boj.or.jp/statistics/outline/exp/data/exmoney.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.meti.go.jp/statistics/sei/kinzoku/index.html",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.stat.go.jp/library/opac/Free_word_search/hlist?q=0&idx=1366&tmtl=1&ppg=50&rgtn=WT2090280"
+   ]
+  },
+  {
+   "query": "Japan census of manufacture processing fee income electroplating heat treatment dies Japan statistics",
+   "results": [
+    "https://www.kenresearch.com/japan-heat-treated-steel-plates-market",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.boj.or.jp/en/statistics/outline/exp/data/exbpsm6.pdf",
+    "https://www.stat.go.jp/english/data/e-census/2016/industry.html",
+    "https://www.bls.gov/fls/tables/fls-table-19.htm",
+    "https://publish.iupress.indiana.edu/read/japan-s-postwar-economy/section/a3218fad-c0d4-47fe-9cc1-48e58e547ebf",
+    "https://www.customs.go.jp/english/tariff/index.htm",
+    "https://www.e-stat.go.jp/en/stat-search?page=1&query=wage&layout=dataset",
+    "https://www.jisf.or.jp/en/statistics/production/index.html",
+    "https://www.meti.go.jp/english/statistics/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63）",
+   "results": [
+    "https://note.com/david_parekar/n/ne61b7069390d",
+    "https://note.com/qy_research/n/n62a759772301",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/lucid_lotus6287/n/nf781b769b137",
+    "https://note.com/coherentmi/n/nc72ab542e136",
+    "https://note.com/bold_hornet726/n/n843af36b5be1",
+    "https://note.com/meijihatsumeikai/n/n7e1a01596144"
+   ]
+  },
+  {
+   "query": "site:x.com 電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2111557039554175169",
+    "https://jf.x.com/images/media-preview/2111959842093142500",
+    "https://jf.x.com/images/media-preview/2115030674864566500",
+    "https://x.com/TEKKOSHIMBUN/status/2073889663790752085",
+    "https://x.com/TEKKOSHIMBUN/status/2069178620560449706",
+    "https://x.com/TEKKOSHIMBUN/status/2071352950631334302",
+    "https://x.com/ryugukozou/status/2109466039839068569"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63）",
+   "results": [
+    "https://jp.linkedin.com/pulse/金属の熱処理市場の徹底的な精査規模シェアおよび収益成長2026年から2033年にかけて127のcagrを見込む-scoutifyz-efndf",
+    "https://jp.linkedin.com/pulse/コーティング彫刻熱処理および関連活動市場における投資潜在力範囲トレンド2025年から2032年までの予測cagr率-7407777674456285185-m5qqe",
+    "https://www.linkedin.com/jobs/view/20～40代活躍中／製造未経験からしっかり稼げる！注目の高収入work☆／月収例33-7万円【ステンレス製品の機械加工・目視検査など】（no-cb-19212-01-jp）-at-フジアルテ株式会社-4464974323",
+    "https://www.linkedin.com/jobs/view/20～40代活躍中／工場勤務が初めての方にもおすすめ♪／月収例27-8万円【機械を使った自動車用金属小型部品の加工・検品】（no-ky-18373-02-jp）-at-フジアルテ株式会社-4455542610",
+    "https://jp.linkedin.com/pulse/金属無電解めっき溶液の市場規模市場シェア市場成長タイプ別用途別の市場分析地域の洞察および2033年ま-7477415786589048835-gnane",
+    "https://jp.linkedin.com/pulse/global-焼入れ油および熱処理油-market-forecast-の2026年から2033年の予測では59という有望なcagrが示されています-eo61e",
+    "https://jp.linkedin.com/pulse/electrical-steel-price-trends-regional-insights-supply-naman-sharma-uwwlc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63）",
+   "results": [
+    "https://www.facebook.com/wako.kinzoku/",
+    "https://www.facebook.com/story.php/?story_fbid=720004953160255&id=100054522697629",
+    "https://www.facebook.com/denkimekki/posts/5009032599152964/",
+    "https://www.facebook.com/denkimekki/posts/６月例会のご案内-めっきのブレークスルー-めっき品質向上環境対応へのさらなる展開-下記のとおり研究例会を開催しますので万障お繰り合わせのうえご出席くださいますよ/3993278470728387/",
+    "https://www.facebook.com/denkimekki/posts/6月研究例会のご案内工業用クロムめっきの動向と将来展開-下記のとおり研究例会を開催しますので万障お繰り合わせのうえご出席くださいますようご案内申し上げます当会会/1194593502368062/",
+    "https://www.facebook.com/denkimekki/posts/10月例会のご案内-めっきと表面処理に関する観察分析技術の最近の進歩-下記のとおり研究例会を開催しますのでご出席くださいますようご案内申し上げます-事前登録が必/816209790206437/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/非鉄金属大手８社の２０２６年３月期連結業績予想は６社が当期減益を見込む銅製錬会社の加工賃収入であるｔｃｒｃ溶錬費精錬費が銅精鉱の供給不足と海外銅製錬所の新規稼働/1252133540250646/"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo/chosahyo/01_tekko.html",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://release.nikkei.co.jp/attach_file/0498060_04.pdf",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/14_airhaikan/dsh14c.html",
+    "https://www.econos.jp/sample/sam_0537.php",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2206.pdf",
+    "https://www.surugaya.lol/documents/pr/ja/20170801_econtext.pdf"
+   ]
+  },
+  {
+   "query": "電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63） X 投稿",
+   "results": [
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://zentoren.or.jp/mekki/data.html",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(1021).pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/sokeizai_fairtrade/pdf/2020_001_s03_00.pdf",
+    "https://www.kanpo.go.jp/20260529/20260529g00119/pdf/20260529g001190084.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?"
+   ]
+  },
+  {
+   "query": "Japan census of manufacture processing fee income electroplating heat treatment dies site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/patricksmithmadeinusa",
+    "https://uk.linkedin.com/in/siddhanthpradhan"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ42頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ42頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ42頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ42頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ42頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ42頁・検索18回）",
+  "10年推移": "記載なし（読んだ42頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ42頁・検索18回）"
+ }
+}

@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・128品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・131品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -6273,14 +6273,14 @@
 
 ## 製造業 受注を断った・納期を延ばした割合の推移（増えた・減った・変わらないの両方・規模別・人手不足の前提を置かない言い方・4-62・4-63）（share of manufacturers declining orders or extending lead times Japan trend by firm size survey）
 - 文脈：損の額・一次
-- 痛み・損（深さの印）：記載なし（読んだ27頁・検索18回）
-- 事業所数・社数：記載なし（読んだ27頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ27頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ27頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ27頁・検索18回）
-- 生産能力・設備：記載なし（読んだ27頁・検索18回）
-- 10年推移：記載なし（読んだ27頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ27頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ25頁・検索18回）
+- 事業所数・社数：記載なし（読んだ25頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ25頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ25頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ25頁・検索18回）
+- 生産能力・設備：記載なし（読んだ25頁・検索18回）
+- 10年推移：記載なし（読んだ25頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ25頁・検索18回）
 
 ## 日本銀行 企業物価指数 金属製品 年平均 指数の水準（site:boj.or.jp・xlsx か csv・数字を検索語に入れない・4-63）（Bank of Japan CGPI metal products annual average index level xlsx site:boj.or.jp）
 - 文脈：物価・一次
@@ -6295,14 +6295,131 @@
 
 ## 電気めっき・金属熱処理・金属用金型の加工賃収入額 工業統計 細分類（加工賃と出荷額の取引段階を分ける・4-63）（Japan census of manufacture processing fee income electroplating heat treatment dies）
 - 文脈：受注金額・一次
-- 痛み・損（深さの印）：記載なし（読んだ39頁・検索18回）
-- 事業所数・社数：記載なし（読んだ39頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ39頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ39頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ39頁・検索18回）
-- 生産能力・設備：記載なし（読んだ39頁・検索18回）
-- 10年推移：記載なし（読んだ39頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ39頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ42頁・検索18回）
+- 事業所数・社数：記載なし（読んだ42頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ42頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ42頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ42頁・検索18回）
+- 生産能力・設備：記載なし（読んだ42頁・検索18回）
+- 10年推移：記載なし（読んだ42頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ42頁・検索18回）
+
+## 経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し）（Economic Structure Survey Japan die and mold manufacturing employees establishments）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ43頁・検索18回）
+- 事業所数・社数：記載なし（読んだ43頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ43頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ43頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ43頁・検索18回）
+- 生産能力・設備：記載なし（読んだ43頁・検索18回）
+- 10年推移：記載なし（読んだ43頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ43頁・検索18回）
+
+## 経済センサス‐活動調査 製造業 加工賃収入額 全国 産業細分類（製造品出荷額・販売額と取引段階を分けて）（Economic Census for Business Activity Japan manufacturing processing fee revenue national by industry）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：
+  - 「①事業所数、従業者数 地域、産業（大分類・中分類・小分類）、経営組織別、従業者規模別、開設時期別、存続・新設・廃業別等に事業所数、従業者数を表章」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 事業所数・社数：
+  - 「(1) 産業中分類別事業所数及び従業者数 .................................... 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 品目別産出事業所数 .................................................. 4」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「３． 調査結果のうち、事業所数、産出事業所数、従業者数については、令和3年6月1日現在」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「また、事業所数、従業者数については、3年活動調査及」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（1） 産業中分類別事業所数及び従業者数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 事業所数を産業中分類別構成比でみると、「金属製品製造業」（3 万 276 事業所、構成」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 1 表 産業中分類別事業所数及び従業者数（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「注1：事業所数及び従業者数については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「2：事業所数及び従業者数の調査時点については、令和3年6月1日現在である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 1 図 産業中分類別事業所数及び従業者数の構成比（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（1） 品目別産出事業所数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「品目別の産出事業所数をみると、「オフセット印刷物（紙に対するもの）」（8414 事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 3 表 産出事業所数上位 30 品目の状況（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「注1：産出事業所数については、全事業所で再集計した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「また、事業所数、従業者数については、令和３年経済」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+- 社員数・平均社員数：
+  - 「(1) 産業中分類別事業所数及び従業者数 .................................... 1」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（製造業）に関する集計（概要版）」は、従業者4人以上の事業所に限定した集計を行っ」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「たが、産業別集計（製造業）は従業者1～3人も含めた全事業所における集計を行っている」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ほか、従業者4人以上の事業所について、産業細分類別、品目別、都道府県・市区町村別」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「３． 調査結果のうち、事業所数、産出事業所数、従業者数については、令和3年6月1日現在」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「４．3年活動調査においては、個人経営を含まない集計結果であることから、集計結果の時」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「５．従業者数、付加価値額の項目は、工業統計調査（以下「工業統計」という」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「９．調査対象事業所は、「国税庁法人番号公表サイト」情報から、過去の調査では捉えてい」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「業統計については、国に属する事業所以外の従業者4人以上の全ての事業所を調査対象」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(2) 上記４．のとおり、3年活動調査においては、個人経営を含まない集計結果であること」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「また、事業所数、従業者数については、3年活動調査及」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（1） 産業中分類別事業所数及び従業者数」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 従業者数を産業中分類別構成比でみると、「食料品製造業」（110 万 1170 人、構成比 14.6」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「Ⅱ 調査結果の概要（従業者４人以上の事業所）」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+- 受注金額・加工賃収入：
+  - 「(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「６．製造品出荷額等の経理事項については、原則消費税込みで把握しているが、一部の消費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「じくする品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(3) 活動調査における「在庫額」については、「統計調査における売上高等の集計に係る」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「ア 製造品出荷額等を産業中分類別構成比でみると、「輸送用機械器具製造業」（60 兆 2308」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「億円、構成比 19.8％）が最も高く、次いで「食料品製造業」（29 兆 7276 億円、同 9.8％）、」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「「化学工業」（28 兆 7305 億円、同 9.5％）、「生産用機械器具製造業」（19 兆 7080 億円、」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「同6 . 5 ％ ） 、「電気機械器具製造業」（17 兆 8745 億円、同 5.9％）の順となっている（第 2」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「円、構成比 14.7％）が最も高く、次いで「化学工業」（11 兆 5975 億円、同 11.9％）、「食」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「料品製造業」（10 兆 3178 億円、同 10.6％）、「生産用機械器具製造業」（7 兆 1908 億円、」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和２年１年間における製造品出荷額、加工賃収入額、製造工程から出たく」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（１） 調査結果のうち、製造品出荷額等、付加価値額については、表示年次におけ」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（４） 製造品出荷額等の経理事項については、原則消費税込みで把握しているが、」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+- 1人あたり・1社あたり金額：
+  - 「(2) 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「の数値、製造品出荷額等、品目別出荷金額、付加価値額については、令和2年1年間の数値」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「５．従業者数、付加価値額の項目は、工業統計調査（以下「工業統計」という」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2） 産業中分類別製造品出荷額等及び付加価値額（従業者 29 人以下は粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「イ 付加価値額を産業中分類別構成比でみると、「輸送用機械器具製造業」（14 兆 3348 億」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 2 表 産業中分類別製造品出荷額等及び付加価値額（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「注1：付加価値額について、従業者29人以下の事業所は、粗付加価値額である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「2：製造品出荷額等及び付加価値額については、個人経営を含まない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「3：製造品出荷額等及び付加価値額の調査期間については、令和2年における1年間の数値である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「第 2 図 産業中分類別製造品出荷額等及び付加価値額の構成比（全事業所）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（百万円） 第１位 第２位 第３位」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「９.付加価値額（粗付加価値額）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「粗付加価値額 ＝ 製造品出荷額等 －（推計酒税、たばこ税、揮発油税及び地方揮発油税（*1）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（１） 調査結果のうち、製造品出荷額等、付加価値額については、表示年次におけ」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+  - 「（３） 従業者数、付加価値額の項目は、工業統計調査の集計における定義に合わせ」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+- 生産能力・設備：
+  - 「７．有形固定資産額（従業者10人以上の事業所（一部を除く（*）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(1) 有形固定資産額の取得額等には、次の区分がある」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(3) 有形固定資産の除却・売却による減少額」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(5) 有形固定資産額の算式は以下のとおり」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 10年推移：
+  - 「このため、雇用者の内訳については、時系列比較を行うことはできない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「結果の時系列比較を行う際は、十分な留意が必要である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「11．時系列比較を行う場合は、工業統計について、以下の点に留意されたい」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「の税率（10％）と異なることから、時系列比較を行う際は十分な留意が必要である」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「平成22年(2010年)⼯業統計 平成22年12⽉31⽇現在 平成22年 平成22年1⽉〜12⽉ 平成22年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「平成28年(2016年)活動調査 平成28年6⽉1⽇現在 平成28年 平成27年1⽉〜12⽉ 平成27年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「平成29年(2017年)⼯業統計 平成29年6⽉1⽇現在 平成29年 平成28年1⽉〜12⽉ 平成28年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「平成30年(2018年)⼯業統計 平成30年6⽉1⽇現在 平成30年 平成29年1⽉〜12⽉ 平成29年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和元年(2019年)⼯業統計 令和元年6⽉1⽇現在 令和元年 平成30年1⽉〜12⽉ 平成30年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和2年(2020年)⼯業統計 令和2年6⽉1⽇現在 令和2年 令和元年1⽉〜12⽉ 令和元年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「令和3年(2021年)活動調査 令和3年6⽉1⽇現在 令和3年 令和2年1⽉〜12⽉ 令和2年」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2021年） 構成比 （2021年） 構成比」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2020年） 構成比 （2020年） 構成比」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2021年） 第１位 第２位 第３位」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「（2020年）」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+- 人手と仕事の差：
+  - 「イ 原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「(5) 製造等に関連する外注費」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「など、事業所収入に直接関連する外注費用をいい、派遣、委託生産費などの外注費は含まない」（https://www.meti.go.jp/statistics/tyo/census/r3result/pdf/r03_seizosyosai_giy.pdf）
+  - 「費、製造等に関連する外注費及び転売した商品の仕入額の合計で、消費税額を」（https://www.pref.okayama.jp/uploaded/life/910250_8698794_misc.pdf）
+
+## 平均への回帰の確かめ：工業統計 電気めっき・金属熱処理・金型 2012年以前の従業者1人あたり出荷額（起点を1つずらす）（Japan census of manufactures electroplating heat treatment die per employee shipments before 2012）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ31頁・検索18回）
+- 事業所数・社数：記載なし（読んだ31頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ31頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ31頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ31頁・検索18回）
+- 生産能力・設備：記載なし（読んだ31頁・検索18回）
+- 10年推移：記載なし（読んだ31頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ31頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

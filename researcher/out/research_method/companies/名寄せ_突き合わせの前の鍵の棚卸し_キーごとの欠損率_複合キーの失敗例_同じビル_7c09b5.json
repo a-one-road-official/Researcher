@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-06T15:41:14.694913+00:00",
+ "researched_at": "2026-11-06T20:15:39.266636+00:00",
  "evidence": {
   "一次情報の探し方": [
    {
@@ -157,484 +157,6 @@
    },
    {
     "quote": "therefore should be excluded from the profiling.",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説 - GENIEE's library",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "条件を人手で定義するルールベース型、文字列の類似度をスコア化する類似度マッチング型、そして学習データからモデルを構築するAI・機械学習型です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マッチングキーの設計方法：何をキーにすれば同一判定できるか",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ECサイト・商品データの場合：JANコード・型番・会員IDの活用",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "JANコードが存在しない場合は、型番や商品名＋メーカー名の複合キーで補完します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せアルゴリズムの種類と選び方：ルールベース・類似度マッチング・AI型",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルールベース型は、「企業名が完全一致かつ電話番号の上7桁が一致する場合は同一とする」のように、判定条件を人手で明文化して実行する方式です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "類似度マッチング型：スコアで同一性を判定する方式",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "類似度マッチング型は、文字列同士の「どれだけ似ているか」をスコアとして計算し、設定した閾値を超えた場合に同一と判定する方式です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ルールベース型では網羅しきれない表記ゆれに対応できるのが最大の利点です",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "代表的な計算手法として、レーベンシュタイン距離（一方の文字列をもう一方に変換するために必要な「挿入・削除・置換」の最小操作回数で類似度を表す手法）、Jaccard係数（2つの集合の和集合に占める共通要素（積集合）の割合）、N-gram（文字列をN文字の連続部分列として列挙し、その集合の一致度で類似度を計算する方法）などがあります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "AI・機械学習型：学習データから判定モデルを構築する方式",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "When data is incomplete, the success or failure of record linkage has less to do with which technique you choose and more to do with how well the chosen technique aligns with the realities of your data. Many linkage initiatives fail because the methods are applied outside the conditions they were designed for.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Many modern implementations are grounded in probabilistic frameworks such as Fellegi-Sunter model which formalizes how agreement and disagreement across attributes contribute to match likelihood.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Blocking and indexing are sometimes misunderstood in discussions around record linkage techniques. They are not methods for determining whether records match. Instead, they determine which records are even compared in the first place and how efficiently those comparisons can happen at scale.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In practice, the most reliable record linkage techniques are not single methods but deliberate combinations of deterministic rules, probabilistic scoring, fuzzy similarity measures, and carefully designed blocking strategies.",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Evaluate Record Linkage Solutions for Incomplete Data",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Conclusion & Next Steps for Decision-Makers",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Are Entity Graphs and How to Build One You Can Trust",
-    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CRMのデータクレンジング実践ガイド｜重複排除・名寄せ・データ品質管理の方法",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "RevOps（レベニューオペレーションズ）入門｜営業・マーケ・CSを統合して収益を最大化する方法",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— 現状分析、ルール策定、テスト、実行、再発防止を順番に進める方法を示します",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "作成日が古いレコードを残す方法だけでなく、活動履歴が揃っているレコード、営業担当者が確認したレコード、関連する取引が正しく紐づいているレコードを主にする方法があります",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "完全一致は、指定した値が同じレコードを重複候補として抽出する方法です",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、完全一致で拾えなかったレコードを次の方法で段階的に確認します",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "あいまい一致は、文字列の類似性から重複の可能性があるレコードを探す方法です",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マッチング方法を選んだ後は、どの項目が一致したら統合するかを定義します",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "入力画面、インポート手順、連携元のマッピングのどこで発生したかを特定し、その経路へ防止策を入れます",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "限定テストの段階で復元手順も確認し、戻せる項目と手作業が必要な関連付けを分けておきます",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "主レコード、残す値、関連付けの確認手順を決め、限定した範囲でテストする",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "商談管理の基本と実践｜案件の進捗を正しく把握し受注確度を高める方法",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CRMデータ移行の完全マニュアル｜既存システムからの安全な移行手順とチェックリスト",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CRMが定着しない原因と対策｜入力されない問題を仕組みで解決する方法",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 8: Diagnosing NaN Patterns After Left Joins",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 9: Performance Considerations for Large-Scale Join Diagnostics",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to profile join keys before merging to catch type mismatches, whitespace contamination, and cardinality surprises",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The mechanics of why duplicate keys cause row multiplication and how to detect and resolve it",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to audit post-merge row counts and interpret what they tell you about data integrity",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to use indicator columns and set operations to diagnose which records matched, which didn't, and why",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to build reusable, defensive merge functions that validate their own output",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The critical word in step 2 is",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 3 is where row multiplication happens. If",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 1: Profiling Join Keys Before You Merge",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 2: Cleaning Keys Before Merging",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 3: Understanding and Detecting Duplicate Key Row Multiplication",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 4: Post-Merge Row Count Audit",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 5: Using the `indicator` Parameter for Surgical Diagnosis",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 6: Multi-Key Joins and Composite Key Diagnostics",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "tasks for evaluating entity matching methods has been developed.",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "with two common classification methods. In order to enable the",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "entities (non-match). Many entity matching methods rely on super-",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is essential for the meaningful comparison of matching methods",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "determines the capability of supervised learning methods to excel",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "engineering together with two widely-used classification methods",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "new supervised matching methods should at least be able to beat.",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "results and the sound comparison of matching methods, we sug-",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the baseline matching methods and report the baseline results for",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ducibility, and comparability of matching methods. The Database",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "vided in section 5.1. The feature selection method starts by fitting a",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "attributes. Such attributes are challenging for matching methods as",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "we iteratively search in steps of 0.01 for the threshold value that",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "lect interesting tasks for evaluating matching methods and to better",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "lenges a matching method can successfully deal. In the following",
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "名寄せの実装経験がある担当者でも、同じ失敗パターンに繰り返し陥ることがあります",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは代表的な4つの失敗パターンを、発生原因・影響・回避策のセットで整理します",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗1：クレンジング不足のままマッチングを実行し精度が出ない",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗2：キー設定が甘く誤統合（false positive）が発生する",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗3：個人情報の誤統合によるプライバシーリスク",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "失敗4：一度きりの名寄せで終わり新規データの重複が再発する",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この記事では、名寄せロジックを構成するキー・判定ルール・アルゴリズムの3要素から始まり、データ種別ごとのキー設計、アルゴリズムの選び方、4ステップの実装手順、そして運用でよく起きる失敗パターンまでを整理しました",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
-    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人の注意力ではなく、引き継げる仕組みで品質を保つことが重要です",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "入力項目を必要な範囲に絞り、正規化、候補抽出、監査までを連携させると、担当者の注意力に依存しにくい運用になります",
-    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Common Mistakes & Troubleshooting",
-    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "matching pairs within each block. To avoid selection bias, we add",
     "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1045,6 +567,484 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せの実装経験がある担当者でも、同じ失敗パターンに繰り返し陥ることがあります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは代表的な4つの失敗パターンを、発生原因・影響・回避策のセットで整理します",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗1：クレンジング不足のままマッチングを実行し精度が出ない",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗2：キー設定が甘く誤統合（false positive）が発生する",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗3：個人情報の誤統合によるプライバシーリスク",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "失敗4：一度きりの名寄せで終わり新規データの重複が再発する",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この記事では、名寄せロジックを構成するキー・判定ルール・アルゴリズムの3要素から始まり、データ種別ごとのキー設計、アルゴリズムの選び方、4ステップの実装手順、そして運用でよく起きる失敗パターンまでを整理しました",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "需要予測AIとは？仕組み・導入メリット・失敗しない5ステップを解説",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人の注意力ではなく、引き継げる仕組みで品質を保つことが重要です",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "入力項目を必要な範囲に絞り、正規化、候補抽出、監査までを連携させると、担当者の注意力に依存しにくい運用になります",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Common Mistakes & Troubleshooting",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "matching pairs within each block. To avoid selection bias, we add",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説 - GENIEE's library",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せロジックとは？キー設計・アルゴリズムの種類・実装手順を解説",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せの必要性は感じていても、「どの項目をキーにすればいいのか」「判定ルールをどう設計するのか」という具体的な手順が見えず、作業が止まっているケースは少なくありません",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本記事では、名寄せロジックの基本構造から、企業・個人・ECデータ別のキー設計、アルゴリズムの選び方、Excelや専用ツールを使った実装手順、そして運用でよく起きる失敗とその回避策まで、実務に直結する内容を順に整理しています",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "条件を人手で定義するルールベース型、文字列の類似度をスコア化する類似度マッチング型、そして学習データからモデルを構築するAI・機械学習型です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチングキーの設計方法：何をキーにすれば同一判定できるか",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ECサイト・商品データの場合：JANコード・型番・会員IDの活用",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "JANコードが存在しない場合は、型番や商品名＋メーカー名の複合キーで補完します",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "名寄せアルゴリズムの種類と選び方：ルールベース・類似度マッチング・AI型",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ルールベース型は、「企業名が完全一致かつ電話番号の上7桁が一致する場合は同一とする」のように、判定条件を人手で明文化して実行する方式です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似度マッチング型：スコアで同一性を判定する方式",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "類似度マッチング型は、文字列同士の「どれだけ似ているか」をスコアとして計算し、設定した閾値を超えた場合に同一と判定する方式です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ルールベース型では網羅しきれない表記ゆれに対応できるのが最大の利点です",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "代表的な計算手法として、レーベンシュタイン距離（一方の文字列をもう一方に変換するために必要な「挿入・削除・置換」の最小操作回数で類似度を表す手法）、Jaccard係数（2つの集合の和集合に占める共通要素（積集合）の割合）、N-gram（文字列をN文字の連続部分列として列挙し、その集合の一致度で類似度を計算する方法）などがあります",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "AI・機械学習型：学習データから判定モデルを構築する方式",
+    "url": "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When data is incomplete, the success or failure of record linkage has less to do with which technique you choose and more to do with how well the chosen technique aligns with the realities of your data. Many linkage initiatives fail because the methods are applied outside the conditions they were designed for.",
+    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Many modern implementations are grounded in probabilistic frameworks such as Fellegi-Sunter model which formalizes how agreement and disagreement across attributes contribute to match likelihood.",
+    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Blocking and indexing are sometimes misunderstood in discussions around record linkage techniques. They are not methods for determining whether records match. Instead, they determine which records are even compared in the first place and how efficiently those comparisons can happen at scale.",
+    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In practice, the most reliable record linkage techniques are not single methods but deliberate combinations of deterministic rules, probabilistic scoring, fuzzy similarity measures, and carefully designed blocking strategies.",
+    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Evaluate Record Linkage Solutions for Incomplete Data",
+    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Conclusion & Next Steps for Decision-Makers",
+    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Are Entity Graphs and How to Build One You Can Trust",
+    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CRMのデータクレンジング実践ガイド｜重複排除・名寄せ・データ品質管理の方法",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "RevOps（レベニューオペレーションズ）入門｜営業・マーケ・CSを統合して収益を最大化する方法",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— 現状分析、ルール策定、テスト、実行、再発防止を順番に進める方法を示します",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "作成日が古いレコードを残す方法だけでなく、活動履歴が揃っているレコード、営業担当者が確認したレコード、関連する取引が正しく紐づいているレコードを主にする方法があります",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "完全一致は、指定した値が同じレコードを重複候補として抽出する方法です",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、完全一致で拾えなかったレコードを次の方法で段階的に確認します",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あいまい一致は、文字列の類似性から重複の可能性があるレコードを探す方法です",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マッチング方法を選んだ後は、どの項目が一致したら統合するかを定義します",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "入力画面、インポート手順、連携元のマッピングのどこで発生したかを特定し、その経路へ防止策を入れます",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "限定テストの段階で復元手順も確認し、戻せる項目と手作業が必要な関連付けを分けておきます",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "主レコード、残す値、関連付けの確認手順を決め、限定した範囲でテストする",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "商談管理の基本と実践｜案件の進捗を正しく把握し受注確度を高める方法",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CRMデータ移行の完全マニュアル｜既存システムからの安全な移行手順とチェックリスト",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CRMが定着しない原因と対策｜入力されない問題を仕組みで解決する方法",
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-guide",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 8: Diagnosing NaN Patterns After Left Joins",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 9: Performance Considerations for Large-Scale Join Diagnostics",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to profile join keys before merging to catch type mismatches, whitespace contamination, and cardinality surprises",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The mechanics of why duplicate keys cause row multiplication and how to detect and resolve it",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to audit post-merge row counts and interpret what they tell you about data integrity",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to use indicator columns and set operations to diagnose which records matched, which didn't, and why",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to build reusable, defensive merge functions that validate their own output",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The critical word in step 2 is",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 3 is where row multiplication happens. If",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 1: Profiling Join Keys Before You Merge",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 2: Cleaning Keys Before Merging",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 3: Understanding and Detecting Duplicate Key Row Multiplication",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 4: Post-Merge Row Count Audit",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 5: Using the `indicator` Parameter for Surgical Diagnosis",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 6: Multi-Key Joins and Composite Key Diagnostics",
+    "url": "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "tasks for evaluating entity matching methods has been developed.",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "with two common classification methods. In order to enable the",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "entities (non-match). Many entity matching methods rely on super-",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is essential for the meaningful comparison of matching methods",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "determines the capability of supervised learning methods to excel",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "engineering together with two widely-used classification methods",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "new supervised matching methods should at least be able to beat.",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "results and the sound comparison of matching methods, we sug-",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the baseline matching methods and report the baseline results for",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ducibility, and comparability of matching methods. The Database",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "vided in section 5.1. The feature selection method starts by fitting a",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "attributes. Such attributes are challenging for matching methods as",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "we iteratively search in steps of 0.01 for the threshold value that",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "lect interesting tasks for evaluating matching methods and to better",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "lenges a matching method can successfully deal. In the following",
+    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -1066,17 +1066,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_scout_jp/n/na264a18ce645",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/atstream/n/na4971a88118f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tender_clam9623/n/n9688b0e5c705",
+    "url": "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
     "status": "ok",
     "method": "http"
    },
@@ -1086,7 +1086,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ripla_business/n/n6749e43cae59",
+    "url": "https://note.com/ripla_business/n/n6e9acd1a6b8b",
     "status": "ok",
     "method": "http"
    },
@@ -1161,16 +1161,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.issoh.co.jp/column/details/18983/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://amperity.com/blog/three-commonly-overlooked-challenges-in-entity-matching-and-how-were-overcoming-them",
     "status": "ok",
     "method": "browser"
@@ -1191,12 +1181,12 @@
     "method": "http"
    },
    {
-    "url": "https://semarchy.com/blog/data-matching-explained/",
+    "url": "https://learn.microsoft.com/en-us/ef/core/modeling/keys",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://learn.microsoft.com/en-us/ef/core/modeling/keys",
+    "url": "https://deepkit.io/en/documentation/orm/composite-primary-key",
     "status": "ok",
     "method": "http"
    }
@@ -1209,9 +1199,9 @@
     "https://note.com/tender_clam9623/n/n5116d5a7bd28",
     "https://note.com/ai_komon/n/n9b96b57f965c",
     "https://note.com/atstream/n/n4b6dd8a1e381",
-    "https://note.com/ai_scout_jp/n/na264a18ce645",
     "https://note.com/atstream/n/na4971a88118f",
-    "https://note.com/tender_clam9623/n/n9688b0e5c705",
+    "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "https://note.com/anomaly_inc/n/n15611efccadc",
     "https://note.com/ponhinata/n/n38d28a97b1f4"
    ]
   },
@@ -1219,14 +1209,14 @@
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） note",
    "results": [
     "https://blog.convibase.jp/key-management/",
-    "https://note.com/ripla_business/n/n6749e43cae59",
+    "https://note.com/ripla_business/n/n6e9acd1a6b8b",
     "https://mamorio.biz/issue-key",
     "https://cabimatch.avnz.co.jp/case/case02.html",
     "https://www.itscom.co.jp/forbiz/column/office-environment/16418/",
     "https://note.com/tonton_security/n/n14a22580d56d",
     "https://traka.total-link.jp/230612/",
+    "https://note.com/ripla_business/n/n6749e43cae59",
     "https://sakaelock.jp/blog/case/repair/p18053/",
-    "https://khsaoki.com/sparekey-002/",
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
    ]
   },
@@ -1249,15 +1239,14 @@
    "query": "名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社） 事例",
    "results": [
     "https://blog.convibase.jp/key-management/",
-    "https://mamorio.biz/issue-key",
     "https://www.itscom.co.jp/forbiz/column/office-environment/16418/",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://mamorio.biz/issue-key",
     "https://cabimatch.avnz.co.jp/case/case02.html",
     "https://traka.total-link.jp/230612/",
     "https://bqey.com/column/archives/84",
     "https://www.kinkoya.jp/article/keybox/",
-    "https://remotelock.kke.co.jp/article/rental-business-keytrouble/",
-    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
+    "https://remotelock.kke.co.jp/article/rental-business-keytrouble/"
    ]
   },
   {
@@ -1267,25 +1256,17 @@
     "https://arxiv.org/html/2607.26298v1",
     "https://www.peopledatalabs.com/data-lab/datafication/entity-resolution-guide",
     "https://easymorph.com/blog/5-most-common-mistakes-in-data-joins",
-    "https://semarchy.com/blog/data-matching-explained/",
     "https://learn.microsoft.com/en-us/ef/core/modeling/keys",
-    "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
     "https://deepkit.io/en/documentation/orm/composite-primary-key",
     "https://quizlet.com/95269104/chapter-3-relational-database-model-flash-cards/",
+    "https://stackoverflow.com/questions/963809/should-i-use-composite-primary-keys-or-not",
+    "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
     "https://www.wickedsmartdata.com/articles/detecting-and-resolving-data-quality-issues-across-merged-dataframes-diagnosing-join-mismatches-duplicate-keys-and-row-count-surprises-in-pandas"
    ]
   },
   {
    "query": "site:note.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
-   "results": [
-    "https://note.com/tender_clam9623/n/n5116d5a7bd28",
-    "https://note.com/ai_komon/n/n9b96b57f965c",
-    "https://note.com/atstream/n/n4b6dd8a1e381",
-    "https://note.com/atstream/n/na4971a88118f",
-    "https://note.com/anomaly_inc/n/n15611efccadc",
-    "https://note.com/anomaly_inc/n/n97a5977ecc26",
-    "https://note.com/ponhinata/n/n38d28a97b1f4"
-   ]
+   "results": []
   },
   {
    "query": "site:x.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
@@ -1294,25 +1275,22 @@
     "https://x.com/kotoha_ai_auto/status/2087399771057361310",
     "https://x.com/boss_sec_labo/status/2114236798163669191",
     "https://x.com/boss_sec_labo/status/2111657313614573684",
-    "https://x.com/wren_fukushima/status/2112775798281367773",
     "https://x.com/boss_sec_labo/status/2112896734502539563",
-    "https://x.com/boss_sec_labo/status/2112385872066920625",
-    "https://x.com/ai_shihan/status/2112320962670756172"
+    "https://x.com/wren_fukushima/status/2112775798281367773",
+    "https://x.com/MyTechBlogJP/status/2108086381390266677",
+    "https://x.com/boss_sec_labo/status/2112385872066920625"
    ]
   },
   {
    "query": "site:linkedin.com 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）",
    "results": [
+    "https://www.linkedin.com/company/concentrix",
+    "https://www.linkedin.com/company/atco-group",
     "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
     "https://jp.linkedin.com/pulse/analyzing-missing-data-sql-step-by-step-guide-adetona-makinde-8scxf?tl=ja",
     "https://jp.linkedin.com/posts/清悟-中村-6952563ba_単独愛知の町工場から棚卸しもrpaも消えたgemini活用4事例が衝撃-activity-7511219977451147265-Tftt",
     "https://jp.linkedin.com/pulse/346連載-兵力で勝てないなら頭で勝つ-vol2偵察なくして作戦なし-ai導入の前に業務の棚卸しから始めよ-忍-渡辺-3cgjc",
-    "https://jp.linkedin.com/posts/高井-翔平-313547287_aiが使われない理由は性能ではない-aiを導入したけれど現場で全く使われなくなった-activity-7460260052055035905-LFJv",
-    "https://jp.linkedin.com/pulse/handling-missing-data-how-leads-wrong-conclusions-doug-rose-otnpe?tl=ja",
-    "https://jp.linkedin.com/posts/優貴乃-岩﨑-9a2798353_ai導入前の業務棚卸しシート-activity-7473600460126412800-uzHg",
-    "https://www.linkedin.com/company/concentrix",
-    "https://www.linkedin.com/company/atco-group",
-    "https://in.linkedin.com/company/ascendion"
+    "https://jp.linkedin.com/posts/高井-翔平-313547287_aiが使われない理由は性能ではない-aiを導入したけれど現場で全く使われなくなった-activity-7460260052055035905-LFJv"
    ]
   },
   {
@@ -1320,11 +1298,11 @@
    "results": [
     "https://www.facebook.com/mynumber.funsan/posts/分散化でなく名寄せキーロガー盗用画面同期も国が大丈夫ですと言うのは詭弁です一体どういう言い訳をしているのでしょうかシリアル番号だけでは個人の情報にアクセスできま/588864446795501/",
     "https://www.facebook.com/NipponSoftOfficial/photos/ma合併後の顧客データの統合でお困りではありませんかmaにともなうシステム統合ではデータの品質整合性の壁名寄せの難しさといった課題をいかに解決していくかが顧客デ/122278510886231505/",
-    "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
     "https://www.facebook.com/story.php/?story_fbid=1211807907615758&id=100063596796246",
+    "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
     "https://www.facebook.com/meow0217/posts/闇の力を秘めし鍵よ真の姿を我の前に示せ契約のもとさくらが命じるレリーズ隱藏著黑暗力量的鑰匙啊在我面前顯示你真正的力量跟你定下約定的小櫻命令你封印解除封印兩年的照/793883736095426/",
     "https://www.facebook.com/takako.daichi/posts/根室の皆さんへ根室平内郵便局前でゴリラのキーホルダーがついた鍵を拾いました郵便局前だったので局長に託しておきました失くされた方の元に届きますように/2420433901466255/",
-    "https://www.facebook.com/asteriawarp/posts/asteria-warp-tips-紹介-条件分岐編branchstartコンポーネントを使った条件分岐を動画で解説キクちゃんことキクチがちょっと偉そうにしてま/4310092612417051/"
+    "https://www.facebook.com/Klockservice/posts/原付の鍵作成-スズキ-レッツ４バイクの鍵紛失による鍵の作製をご依頼いただきましたスズキの原付レッツ４にりますお客様のご希望によりマグネットキーをエンジンキーそれ/2492007011059107/"
    ]
   },
   {
@@ -1333,12 +1311,12 @@
     "https://blog.convibase.jp/key-management/",
     "https://mamorio.biz/issue-key",
     "https://note.com/itjigsaw_puzzle/n/n03ed4fbfe5cf",
-    "https://traka.total-link.jp/230612/",
     "https://note.com/tonton_security/n/n14a22580d56d",
+    "https://traka.total-link.jp/230612/",
+    "https://khsaoki.com/sparekey-002/",
     "https://www.youtube.com/watch?v=dBB_yeV-DM8",
     "https://sakaelock.jp/blog/case/repair/p18053/",
-    "https://kagilock.jp/topics/grand-master-key-system/",
-    "https://khsaoki.com/sparekey-002/",
+    "https://www.pentasecurity.co.jp/pentapro/entry/encryption-key-ex",
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
    ]
   },
@@ -1349,10 +1327,10 @@
     "https://www.reddit.com/r/Database/comments/qcgqt7/are_composite_primary_keys_bad_practice/?tl=ja",
     "https://blog.convibase.jp/key-management/",
     "https://mamorio.biz/issue-key",
-    "https://khsaoki.com/sparekey-002/",
     "https://www.itscom.co.jp/forbiz/column/office-environment/16418/",
-    "https://traka.total-link.jp/230612/",
     "https://www.youtube.com/watch?v=dBB_yeV-DM8",
+    "https://khsaoki.com/sparekey-002/",
+    "https://traka.total-link.jp/230612/",
     "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/"
    ]
@@ -1363,18 +1341,18 @@
     "https://www.linkedin.com/posts/namanvyas21_dataquality-dataanalytics-dataengineering-activity-7515617557492527104-7lG-",
     "https://www.linkedin.com/in/mukuldesai",
     "https://pl.linkedin.com/in/olgun-aydin/en",
-    "https://www.linkedin.com/posts/mohamed-habib-khattat-2b206a173_delivering-our-ods-into-the-temenos-ecosystem-activity-7517491605902155776-rkBI",
-    "https://www.linkedin.com/pulse/bad-data-big-decisions-how-integrity-breakdowns-lead-andre-bnv7e",
+    "https://www.linkedin.com/in/khantazim",
     "https://www.linkedin.com/in/shubhamvyas7",
-    "https://gh.linkedin.com/in/lawrence-koomson-689774266",
     "https://in.linkedin.com/in/salman-saifee-27954a147",
-    "https://www.linkedin.com/in/rosscutler",
-    "https://www.linkedin.com/in/prakhar-anand-12a041131"
+    "https://www.linkedin.com/posts/mohamed-habib-khattat-2b206a173_delivering-our-ods-into-the-temenos-ecosystem-activity-7517491605902155776-rkBI",
+    "https://www.linkedin.com/in/graeham-ellerkamp",
+    "https://gh.linkedin.com/in/lawrence-koomson-689774266",
+    "https://www.linkedin.com/pulse/bad-data-big-decisions-how-integrity-breakdowns-lead-andre-bnv7e"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-05T17:50:35.263143+00:00"
 }

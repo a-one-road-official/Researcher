@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・135品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・138品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -436,6 +436,10 @@
 - 突き合わせ・推定：
   - 「経営方針や事業内容、社風など企業により様々な特徴がありますが、企業選びの軸を明確にすることでブレや矛盾がなく説得力のある志望動機を書くことができます」（https://unistyleinc.com/techniques/1404）
   - 「論理矛盾が起こらない志望動機を書くためには、必ず大枠の論理、志望動機で言えば「どんな仕事をしたいのか」という大きな枠から整理して、徐々に「この業界・この企業で働きたい」という小さな枠に落とし込むことが重要になります」（https://unistyleinc.com/techniques/1404）
+  - 「多くの創業者が、事業アイデアを思いついた段階で「自分のサービスを誰が買うか」を十分に検証しないまま走り始めてしまいます」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
+  - 「AIの分析はあくまで「仮説」——現実の顧客の声で検証することが不可欠です」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
+  - 「まずAIで仮説を作り、すぐに顧客ヒアリングで検証する流れを意識してください」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
+  - 「Don't spend $15K on a customer survey to learn your industry's market size — that data exists for free in Census SUSB. Don't commission focus groups to estimate industry growth rates — Census CBP historical data calculates that directly. Primary research earns its ROI only when it answers questions that existing data can't.」（https://vantainsights.com/insights/primary-vs-secondary-research）
   - 「この2つの目的から逆算すると、調べるべき情報はある程度絞れます」（https://note.com/4kodai_student/n/n298d2518aad8）
   - 「全体を俯瞰する業界地図、企業のデータを突き合わせる就職四季報、志望業界を掘り下げる業界別の専門書、そして業界の稼ぎ方そのものを読み解くビジネスモデル本まで、就活のフェーズに合わせて選べるように並べました」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「業界と職種を「掛け算」で考えさせる構成」（https://note.com/tasuto11/n/n3d32991f6192）
@@ -445,10 +449,6 @@
   - 「もうけの仕組み: ビジネスモデル大図鑑 404社を徹底検証!」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「就職四季報の数字と、業界地図のシェア情報、業界別の本の記述を突き合わせると、この1行が書けるようになります」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「例えば、「企業概要」「事業ポートフォリオ」「財務」「採用情報」だけしか調べない計画になっていたら、「競合比較をもっと厚くしてください」「投資先や具体的プロジェクトも見てください」「人材戦略と採用サイトを照合してください」「若手社員の仕事内容を追加してください」と変更する」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
-  - 「そのうえで、「この3社の中期経営計画を比較し、今後3〜5年でどの領域へ投資しようとしているか整理してください」「統合報告書の人材戦略と採用サイトを照合し、各社がどんな人材を必要としているか比較してください」「決算説明資料から、各事業の利益構成と成長性を比較してください」と依頼する」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
-  - 「ただし、個々の経験や主観に基づく情報もあるため、全てを鵜呑みにせず、自分なりに検証することが重要です」（https://typeshukatsu.jp/s/article/step/research/57960/）
-  - 「ただし、SNS上の情報は誤った情報が混在していることも多いため、複数の信頼できる情報源を照合し、情報の正確性を見極める姿勢が重要です」（https://www.wakayama-uiturn.jp/arekore/arekore014）
-  - 「③その変化が業界の売上/コスト/採用に与える影響を短い仮説にする」（https://br-campus.jp/articles/report/2408）
 - 一次情報の探し方：
   - 「採用担当が『この学生は業界をちゃんと理解している』と判定する業界研究の質」（https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/）
   - 「①採用担当が見抜く『浅い業界研究 vs 深い業界研究』の 5 つの違い、② 5 ステップ業界研究法（マクロ → 業界構造 → 主要企業 → ビジネスモデル → 自分との接点）、③ 30 業界（IT・コンサル・メーカー・金融・商社・小売・サービス・公務員・物流・医療・教育・不動産・建設・広告・マスコミ・人材・エネルギー・化学・自動車・電機・食品・運輸・通信・保険・証券・銀行・流通・農業・観光・スタートアップ）の調べ方早見表、④ ES・面接で『業界理解』を語る型と例文、⑤『時間がない人向け』5 時間版・15 時間版・30 時間版の業界研究プラン、⑥『業界研究ですぐ詰まる』時の対処法」（https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/）
@@ -497,6 +497,8 @@
   - 「チームで試行錯誤を重ねて取り組んだ結果、3か月で売り上げを20％向上させることに成功した」（https://unistyleinc.com/techniques/1404）
   - 「インターンシップに応募した理由は人それぞれだと思いますが、特にその企業のインターンシップに魅力を感じるのは、その企業の何かがあなたの中に響いたからではありませんか?例えば、インターンシップを通じて成長したいと考え志望している人は「なぜその企業でなら成長できると思うのか」「その根拠となる自分自身の経験」を答えると良いでしょう」（https://unistyleinc.com/techniques/1404）
   - 「例えば、「○○（名前）と申します」（https://unistyleinc.com/techniques/1404）
+- 検索結果の抜粋：
+  - 「市場・業界の調べ方——AIで業界構造と参入機会を把握する | Speranza P... — Apr 16, 2026 · ChatGPT・Claudeとの対話で業界規模・競合構造・顧客層・参入障壁など5つの要素を整理し、1〜2日で市場全体像を把握。 大手が手を出しにくい参入機会（ニッチ）の見つけ方や、統計データで補完する方法、よくある落とし穴も紹介します。」（https://www.speranzapt.com/insight/articles/startup-market-research-ai.html）
 
 ## 有価証券報告書・決算資料から稼ぎ方を読み解く方法（read annual reports business model analysis）
 - 文脈：企業
@@ -5181,11 +5183,11 @@
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
@@ -8376,3 +8378,84 @@
   - 「例えば、電子公告を選択する場合、官報や新聞公告に比べて費用を抑えることができます」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
   - 「例えば、決算公告の準備と同時に、税務上のメリットが得られるような手続きの提案を受けることも可能です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
   - 「法律顧問料はかかりますが、結果としてコストの削減にも繋がっていきます」（https://www.kigyou-houmu.com/secret-4/）
+
+## データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）（data journalism checklist verify complete dataset limitations section）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「<p>Sorting in Google Sheets is <a href="https://www.youtube.com/watch?v=7nwp0fYm99w&amp;list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq&amp;index=6">surprisingly straightforward</a> — and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「— and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「How to interrogate AI regulations」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「How to make a donation to The Journalist’s Resource」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+- 失敗・落とし穴：
+  - 「<p>Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data <em>not</em> tell you?</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>“Not paying attention to the top left corner is the easiest mistake you will make, and it can end careers,” warns Thompson. “You want to always keep your data tied to other lines and rows, so you need to highlight the whole kit-and-caboodle. Don’t ever sort only a single column; always use the top left hand corner — it should be like tying your shoes.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「“Every journalist will make a mistake — it’s all about being smart about making sure you never make that mistake again, and about being transparent with your audience,” says」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「at American University. “But you can certainly minimize the chance of mistakes.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「This simple mistake is nevertheless a perennial problem — and can end up accidentally misleading audiences. “If something jumps from 20 to 30%, that’s actually a 50% increase, not a 10% increase — that can be tricky, and important to pay attention to,” explains Sunne. Data experts stress that」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+- 検索結果の抜粋：
+  - 「10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）（statistics reporting guidelines outliers regression to the mean broadcaster）
+- 文脈：推定
+- 手順・やり方：
+  - 「This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「Audiences may need to understand how the data originated to assess its importance. This may include understanding study-design; sample size; representativeness; how the data was collected; geographical relevance or time periods and the methodology used to analyse the data.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「For further discussion about how to evaluate statistics from sources, such as surveys and polls see separate guidance note.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「For guidelines about Data: data quality; how data is sourced; how to access analyse, present, report and store data, see Editorial Guidelines,」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「methodology used to analyse any dataset should normally be available to the audience, in a format appropriate to the content, including any relevant uncertainty or margins of error.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「The more detail a report includes of the data analysis, the more detail should be provided about the methodology, taking account of where the content will be published.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「300 words and an explanatory graphic to the methodology」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+- 失敗・落とし穴：
+  - 「This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「Often outliers can be chance phenomena or due to experimental abnormality, data error or measuring mistake. As such, they may not reveal anything unusual or scientifically significant at all and a story based on such an outlier may need to be rejected.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「But not all outliers are mistakes, and these unrepresentative numbers might mark something significant. So, consideration should be given to whether outliers are credible, given existing evidence. If in doubt, ask the producer of the statistics and check with other experts in the field.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+- 実例：
+  - 「Care should be taken when reporting a change in an average as it does not necessarily mean a change for an individual. For example, if average wages rise, this does not mean that all people in the distribution get paid more; some people may not have seen an increase in their wage at all because a mean value does not reflect income distribution.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「Consideration should be given to regression to the mean as a possible cause of an observed change. For example, the reduction in the incidence of an illness following a vaccination programme may be explained by regression to the mean, particularly if the intervention was at the height of an outbreak.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「Comparisons can help numbers which may be meaningless in isolation, make more sense. For example, reporting that German GDP has increased by 0.3% is more meaningful if audiences are told which time periods are being compared or how large German GDP is, or how the change compares with other European countries.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「Failure to look at comparisons can highlight other contextual problems. For example, 584 unwanted pregnancies from one type of contraceptive is not so significant when compared with the much higher failure rates of other contraceptives, making it possibly the most effective form of contraception to use.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「Beware that changes in measuring systems or recording standards can invalidate comparisons over time. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「To make levels of risk more meaningful, content makers should consider expressing that risk in human terms rather than as a percentage. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「(It should be noted that 1,000 out of 10,000 sounds like a higher risk than 1 out of 10 and should be avoided. If comparing risks, the same denominator should be used. For example,」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「Usually, the smaller the sample, the larger the margin of error and the less likely the result is robust. Also, results which fall well within the margin may not indicate anything at all. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「Content makers should also consider whether the data, which may be statistically important, is relevant to the audience. For example, do the short-term changes in unemployment figures reveal how the labour market has changed, or is an examination of the long-term trends required?」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+  - 「For example, a BBC investigation about illegal sewage spills during a dry period published online may devote」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## 会社の照合で主の番号と付随の属性を分けて確度を付ける方法（entity resolution primary secondary identifiers confidence scoring company registry）
+- 文脈：同一性
+- 手順・やり方：
+  - 「This article will explore the two most important assets in entity resolution – primary and secondary identifiers. It will cover their differences, their importance, and best practices for using them in an entity resolution framework.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Entity resolution is the method of determining when different records from one or more data sources refer to the same entity. In a corporate context, these entities could be companies, businesses, or other organisations. Entity resolution helps organisations:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Entity resolution addresses these risks. It uses strong data matching and classification methods. At the heart of these procedures lie」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「: Assign match confidence scores based on how many primary and secondary identifiers match. This approach ensures a risk-based method, where higher-risk entities face deeper checks.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+- 一次情報の探し方：
+  - 「Filings such as annual reports, corporate bylaws, or statements of control.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Check if the matched records align on secondary attributes—do the addresses, operational details, or official filings match?」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「5.3 Regulatory filings and audits」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「– like addresses and corporate filings – are vital. They add context that strengthens risk assessments and reveals hidden links.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+- 失敗・落とし穴：
+  - 「Dates can change in format or have mistakes, but they typically reflect a consistent historical fact about the entity.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+- 実例：
+  - 「Typical examples include:」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「In rare cases, legal entities can change their name. However, official government registration numbers usually remain constant.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「in risk profiles. For example, if a company’s address moves to a high-risk area, the compliance team can quickly re-evaluate the entity’s risk.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Entity Verification Case Study Compendium」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+  - 「Case study: How a large US bank re-checks the businesses on its book against the secretary of state」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
