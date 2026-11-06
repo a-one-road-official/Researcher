@@ -461,6 +461,16 @@ def trend(series):
     cagr = f"、年率{((last / first) ** (1 / span) - 1) * 100:+.1f}%（複利）" if span > 0 and first > 0 and last > 0 else ""
     return f"{word}（{ys[0]}→{ys[-1]}で{ch*100:+.0f}%{cagr}）"
 
+# 2026-11-07 4-64：平均への回帰（BBC Editorial Guidelines「Reporting statistics and data」：山の時点から始めた減少は、
+# 手を打たなくても平均に戻るだけのことがある）。系列の最初の年が全期間の最大か最小なら、起点が山・谷として印す
+def extreme_start(series):
+    ys = sorted(series)
+    if len(ys) < 4: return None
+    v0 = series[ys[0]]; rest = [series[y] for y in ys[1:]]
+    if v0 > max(rest): return "山"
+    if v0 < min(rest): return "谷"
+    return None
+
 def dedupe(rows):
     """同じ出どころ（同じ値・単位・引用の頭40字）を1件にまとめる。METHOD.md 4-1。"""
     seen, out = set(), []
@@ -747,6 +757,17 @@ def kougyo_section(topic):
           "- 年は実績の年（表の年次の欄。2026-11-06 までの版はファイルの年＝調査の年を付けていて、2020年ファイルの最初の行＝2015年実績を「2020年」と誤って並べていた・4-34）",
           "- 年の切れ目：実績2015年は経済センサス‐活動調査（2016年調査）の値で、工業統計の他の年と調査が違う。実績2020年以降は経済構造実態調査。この表は実績2019年までで、それ以降とつながない（4-26）。金額は名目・単位は表の欄の見出しのまま（百万円）",
           "- 年率は複利（(最後÷最初)^(1/年数)−1・4-37）。「端の1点に依存」は最初か最後の年を外すと向きが変わるもの（4-40）"]
+    # 2026-11-07 4-64：取った表の行数がちょうど1,000・10,000などの切りのいい数なら、絞り込み済みか途中で切れた版を落とした疑い
+    # （Journalist's Resource「10 simple data errors」）。年ごとの行数も出し、ある年だけ少なければ取り落としを疑う
+    _rows = sum(len(v) for v in by.values())
+    if _rows and _rows % 1000 == 0: md.append(f"- ⚠ 表の行数がちょうど{_rows}行（4-64）：絞り込み済み・途中で切れた版を取った疑い。所管の表の総数と照合する")
+    _ny = {}
+    for v in by.values():
+        for y, _ in v: _ny[y] = _ny.get(y, 0) + 1
+    if len(_ny) >= 3:
+        _m = statistics.median(_ny.values())
+        _low = [f"{y}年 {n}行" for y, n in sorted(_ny.items()) if n < 0.5 * _m]
+        if _low: md.append("- ⚠ 行数が他の年の半分未満の年（4-64・取り落としの疑い）：" + "、".join(_low) + f"（年ごとの行数の中央値 {_m:g}）")
     keys = sorted(by, key=lambda k: (0 if KOUGYO_FOCUS.search(k[1] or "") else 1, k[0]))
     shown = 0
     for (code, name) in keys:
@@ -1235,6 +1256,8 @@ def scan(topic):
             if cg is not None and u in ("万円", "人", "事業所", "社"): RATES.setdefault(topic, []).append((f"{item}｜{cat}［{ctx}］（{u}）", u, cg))
             es = end_sensitivity(med) if med else None
             if es: md.append(f"  - ⚠ 端の1点に依存：{es}向きの語が変わる。端の年の値（速報・改訂前・1か所だけ）を本文で確かめるまで向きを言い切らない（4-40）")
+            xs = extreme_start(med) if med else None
+            if xs: md.append(f"  - ⚠ 起点が全期間の{xs}（4-64）：最初の年が系列の{'最大' if xs == '山' else '最小'}。向きの一部は平均への回帰かもしれないので、起点を1つずらした向きと並べて書く")
             dm = dir_magnitude(g)
             if dm: md.append(f"  - ⚠ {dm}。幅で書き、ずれの理由（定義・地域・取り方）を添える（4-40）")
             # 2026-11-06 4-40：二つのしきい値（Joffe ら 2014 JAMIA の重複照合：上のしきい値より上は一致、下より下は不一致、間は人が確かめる）。
