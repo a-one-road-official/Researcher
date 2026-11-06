@@ -8,93 +8,259 @@
  ],
  "context": "統計の版",
  "kind": "market",
- "researched_at": "2026-11-05T23:57:14.994793+00:00",
- "evidence": {},
+ "researched_at": "2026-11-06T06:31:25.019723+00:00",
+ "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is a a preliminary (or earlier) estimate and",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "was estimated. The real-time dataset is constructed as follows.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is the preliminary estimate of the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Correlation between revision and earlier estimate (test if revisions are “noise”).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Correlation between revision and earlier estimate (test if revisions are “news”).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "are the standard deviations of the latest and preliminary estimates, respectively, and",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Topic 4 Revisions Analysis | Time Series Methods for Official Statistics",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Time Series Methods for Official Statistics",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "(for example, a given month or quarter) a revision can be defined as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/mototchen/n/n3f7bb0989f47",
+    "url": "https://note.com/natty_sage62/n/n0659a25806bb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/paguinu/n/n51887158f743",
+    "url": "https://note.com/e_dao/n/n0f8b099678ef",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/vast_cosmos500/n/n2a007e757ba3",
+    "url": "https://note.com/e_dao/n/n77d5c6aa93f6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "url": "https://note.com/working_cat2026/n/n5a0a65e6c5f9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tasuto11/n/ne5cf674995e0",
+    "url": "https://note.com/alert_hyssop1862/n/nc1634cc2d775",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/vast_cosmos500/n/n6057077af394",
+    "url": "https://note.com/jones_shina/n/n5ec6866e052d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
+    "url": "https://stat-lab.jp/category/statistics-basics/hypothesis-testing/t-tests/",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://jeaweb.jp/files/about_epi_research/contest2017_3_v4.pdf",
-    "status": "network_error:ConnectTimeout",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/dd_techblog/n/n8907f500b7e1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/siryou_top.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://logics-of-blue.com/t-test/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://x.com/genkuroki/status/1623049025309249536",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://waidai-csc.jp/updata/2018/11/EZRNyumon.pdf",
-    "status": "ok",
-    "method": "pdf"
    },
    {
     "url": "https://bellcurve.jp/statistics/course/9414.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stat-lab.jp/paired-unpaired-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jamt/advpub/0/advpub_24J1-6/_article/-char/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rd_analytics_hub/n/n24b666569ca7",
     "status": "ok",
     "method": "http"
    },
@@ -104,64 +270,49 @@
     "method": "http"
    },
    {
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000607858.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.ism.ac.jp/editsec/toukei/pdf/74-1-all.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://opac.agulin.aoyama.ac.jp/iwjs0011opc/bdyview.do?bodyid=TF01310927&elmid=Body&fname=51613.pdf&loginflg=on&once=true",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://jsmcwm.or.jp/landfill/files/2025/03/0a82e735d7f59cad804413dc90abceca.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/paired-sample-t-test/",
+    "url": "https://guides.lib.kyushu-u.ac.jp/statistics/t_test_intro",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.simplypsychology.org/p-value.html",
+    "url": "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
+    "url": "https://www.jstage.jst.go.jp/article/jamt/74/J-STAGE-1/74_24J1-5/_pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.emerald.com/mgrj/article/4/2/25/1328212/t-Test-The-Good-the-Bad-the-Ugly-amp-the-Remedy",
+    "url": "https://ropensci.r-universe.dev/articles/reviser/revision-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rdrr.io/cran/reviser/man/get_revision_analysis.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/331077000_The_Revision_Bias",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://statistics.laerd.com/spss-tutorials/independent-samples-t-test-using-spss-statistics.php",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://open.maricopa.edu/psy230mm/chapter/chapter-12-repeated-measures/",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.researchgate.net/profile/Michela-Gamba/publication/265235059_Interpreting_the_results_of_Revision_Analyses_Recommended_Summary_Statistics/links/5d7661f04585151ee4a99a44/Interpreting-the-results-of-Revision-Analyses-Recommended-Summary-Statistics.pdf",
+    "status": "http_403",
+    "method": "pdf"
    }
   ]
  },
@@ -169,89 +320,71 @@
   {
    "query": "統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂） site:note.com",
    "results": [
-    "https://note.com/mototchen/n/n3f7bb0989f47",
-    "https://note.com/paguinu/n/n51887158f743",
-    "https://note.com/vast_cosmos500/n/n2a007e757ba3",
-    "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "https://note.com/tasuto11/n/ne5cf674995e0",
-    "https://note.com/vast_cosmos500/n/n6057077af394",
-    "https://note.com/uminomieruheya/n/nf38fa7d953a7",
-    "https://note.com/reading_monkey/n/nd296c3a4db64",
-    "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
-    "https://note.com/mao114514/n/n6c32b75f5486"
+    "https://note.com/natty_sage62/n/n0659a25806bb",
+    "https://note.com/e_dao/n/n0f8b099678ef",
+    "https://note.com/e_dao/n/n77d5c6aa93f6",
+    "https://note.com/working_cat2026/n/n5a0a65e6c5f9",
+    "https://note.com/alert_hyssop1862/n/nc1634cc2d775",
+    "https://note.com/jones_shina/n/n5ec6866e052d",
+    "https://note.com/toshiya_kuchii/n/n13ebd3ff7f7c"
    ]
   },
   {
    "query": "統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂） note",
    "results": [
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
-    "https://jeaweb.jp/files/about_epi_research/contest2017_3_v4.pdf",
-    "https://note.com/dd_techblog/n/n8907f500b7e1",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm",
-    "https://www.jschild.or.jp/wp-content/uploads/2023/12/%E9%88%B4%E6%9C%A8%E7%BE%8E%E6%9E%9D%E5%AD%90%E5%85%88%E7%94%9F-%E3%80%8E%E5%B0%8F%E5%85%90%E4%BF%9D%E5%81%A5%E7%A0%94%E7%A9%B6%E3%80%8F%E8%AC%9B%E6%BC%94%E6%8A%84%E9%8C%B2%EF%BC%88%E7%AC%AC82%E5%B7%BB1%E5%8F%B7%EF%BC%890016-0023.pdf",
-    "https://logics-of-blue.com/t-test/",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/r2_kaisetsu.html",
-    "https://stat-lab.jp/category/statistics-basics/hypothesis-testing/t-tests/"
+    "https://stat-lab.jp/category/statistics-basics/hypothesis-testing/t-tests/",
+    "https://note.com/working_cat2026/n/n5a0a65e6c5f9",
+    "https://bellcurve.jp/statistics/course/9414.html",
+    "https://stat-lab.jp/paired-unpaired-data/",
+    "https://www.jstage.jst.go.jp/article/jamt/advpub/0/advpub_24J1-6/_article/-char/ja",
+    "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
+    "https://note.com/rd_analytics_hub/n/n24b666569ca7"
    ]
   },
   {
    "query": "統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂） やり方",
    "results": [
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/siryou_top.html",
-    "https://logics-of-blue.com/t-test/",
-    "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm",
-    "https://x.com/genkuroki/status/1623049025309249536",
-    "https://note.com/dd_techblog/n/n8907f500b7e1",
-    "https://waidai-csc.jp/updata/2018/11/EZRNyumon.pdf",
-    "https://bellcurve.jp/statistics/course/9414.html"
+    "https://stat-lab.jp/category/statistics-basics/hypothesis-testing/t-tests/",
+    "https://www.jstage.jst.go.jp/article/jamt/74/J-STAGE-1/74_24J1-5/_html/-char/ja",
+    "https://bellcurve.jp/statistics/course/9414.html",
+    "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
+    "https://guides.lib.kyushu-u.ac.jp/statistics/t_test_intro",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "https://stat-lab.jp/paired-unpaired-data/"
    ]
   },
   {
    "query": "統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂） 事例",
    "results": [
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://nira.or.jp/paper/report0810.pdf",
-    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://waidai-csc.jp/updata/2018/11/EZRNyumon.pdf",
-    "https://www.soumu.go.jp/main_content/000607858.pdf",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/74-1-all.pdf",
-    "https://opac.agulin.aoyama.ac.jp/iwjs0011opc/bdyview.do?bodyid=TF01310927&elmid=Body&fname=51613.pdf&loginflg=on&once=true",
-    "https://jsmcwm.or.jp/landfill/files/2025/03/0a82e735d7f59cad804413dc90abceca.pdf",
-    "https://stat-lab.jp/paired-unpaired-data/"
+    "https://stat-lab.jp/category/statistics-basics/hypothesis-testing/t-tests/",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "https://stat-lab.jp/paired-unpaired-data/",
+    "https://bellcurve.jp/statistics/course/9414.html",
+    "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
+    "https://www.jstage.jst.go.jp/article/jamt/74/J-STAGE-1/74_24J1-5/_pdf",
+    "https://guides.lib.kyushu-u.ac.jp/statistics/t_test_intro"
    ]
   },
   {
    "query": "revision bias significance test mean revision t-test methodological revisions",
    "results": [
-    "https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/paired-sample-t-test/",
-    "https://www.simplypsychology.org/p-value.html",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
-    "https://www.emerald.com/mgrj/article/4/2/25/1328212/t-Test-The-Good-the-Bad-the-Ugly-amp-the-Remedy",
-    "https://statistics.laerd.com/spss-tutorials/independent-samples-t-test-using-spss-statistics.php",
-    "https://open.maricopa.edu/psy230mm/chapter/chapter-12-repeated-measures/",
-    "https://www.scribbr.com/statistics/t-test/",
-    "https://sites.udel.edu/mjs/statistical-significance-references/",
-    "https://numiqo.com/tutorial/t-test",
-    "https://docs.ropensci.org/reviser/articles/revision-analysis.html"
+    "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "https://ropensci.r-universe.dev/articles/reviser/revision-analysis.html",
+    "https://rdrr.io/cran/reviser/man/get_revision_analysis.html",
+    "https://www.researchgate.net/publication/331077000_The_Revision_Bias",
+    "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "https://www.researchgate.net/profile/Michela-Gamba/publication/265235059_Interpreting_the_results_of_Revision_Analyses_Recommended_Summary_Statistics/links/5d7661f04585151ee4a99a44/Interpreting-the-results-of-Revision-Analyses-Recommended-Summary-Statistics.pdf",
+    "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.Rmd"
    ]
   },
   {
    "query": "site:note.com 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）",
    "results": [
-    "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "https://note.com/ocaml/n/n7d712123cbea",
-    "https://note.com/ocaml/n/nb4d8473484bb",
     "https://note.com/natty_sage62/n/n0659a25806bb",
     "https://note.com/working_cat2026/n/n5a0a65e6c5f9",
-    "https://note.com/jones_shina/n/n5ec6866e052d",
     "https://note.com/alert_hyssop1862/n/nc1634cc2d775",
     "https://note.com/e_dao/n/n0f8b099678ef",
+    "https://note.com/jones_shina/n/n5ec6866e052d",
     "https://note.com/rd_analytics_hub/n/n24b666569ca7",
     "https://note.com/clin_data_analy/n/n9088781d7818"
    ]
@@ -259,13 +392,13 @@
   {
    "query": "site:x.com 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）",
    "results": [
-    "https://x.com/hiro_stat/status/2117460646451458315",
     "https://x.com/genkuroki/status/1769128234548133970",
     "https://x.com/genkuroki/status/1694583722346226102",
-    "https://x.com/genkuroki/status/2117882532897419477",
+    "https://x.com/genkuroki/status/1757384151999934557",
     "https://x.com/genkuroki/status/1685474202936279040",
-    "https://x.com/hiro_stat/status/2117125160008667138",
-    "https://x.com/ArtHappyMuseum/status/2057414454128853488"
+    "https://x.com/ArtHappyMuseum/status/2057414454128853488",
+    "https://x.com/genkuroki/status/2117882532897419477",
+    "https://x.com/hiro_stat/status/2117125160008667138"
    ]
   },
   {
@@ -286,8 +419,8 @@
     "https://www.facebook.com/toukei.link/",
     "https://www.facebook.com/toukei.kentei/",
     "https://www.facebook.com/JMPjpn/videos/jp_1pager_0205mp4/492948474950207/",
-    "https://www.facebook.com/JMPjpn/videos/割合に対する仮説検定と信頼区間-1標本のt検定と信頼区間/277768870550450/",
     "https://www.facebook.com/JMPjpn/posts/-新着記事t検定をわかりやすく解説さまざまなビジネスの現場で利用されるt検定3分程度でざっくり理解できる内容です隙間時間にどうぞ️-httpsgojmp3zwm/1007016251434530/",
+    "https://www.facebook.com/JMPjpn/videos/割合に対する仮説検定と信頼区間-1標本のt検定と信頼区間/277768870550450/",
     "https://www.facebook.com/JMPjpn/videos/平均の検定の標本サイズと検出力/167465312069372/",
     "https://www.facebook.com/watch/?v=3237566846255925"
    ]
@@ -295,57 +428,233 @@
   {
    "query": "統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂） note 社長",
    "results": [
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
-    "https://jeaweb.jp/files/about_epi_research/contest2017_3_v4.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/siryou_top.html",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm",
-    "https://smart-analytics.jp/learning/analysis-guide/parametric-vs-nonparametric/",
-    "https://www.soumu.go.jp/main_content/001021457.pdf",
-    "https://note.com/k_i186/n/nad6a4f548dbb",
-    "https://stat-lab.jp/category/statistics-basics/hypothesis-testing/t-tests/"
+    "https://bellcurve.jp/statistics/course/9414.html",
+    "https://stat-lab.jp/category/statistics-basics/hypothesis-testing/t-tests/",
+    "https://stat-lab.jp/paired-unpaired-data/",
+    "https://www.jstage.jst.go.jp/article/jamt/advpub/0/advpub_24J1-6/_article/-char/ja",
+    "https://note.com/working_cat2026/n/n5a0a65e6c5f9",
+    "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
+    "https://guides.lib.kyushu-u.ac.jp/statistics/t_test_intro"
    ]
   },
   {
    "query": "統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂） X 投稿",
    "results": [
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
-    "https://logics-of-blue.com/t-test/",
-    "https://x.com/genkuroki/status/1623049025309249536",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
-    "https://www.jschild.or.jp/wp-content/uploads/2023/12/%E9%88%B4%E6%9C%A8%E7%BE%8E%E6%9E%9D%E5%AD%90%E5%85%88%E7%94%9F-%E3%80%8E%E5%B0%8F%E5%85%90%E4%BF%9D%E5%81%A5%E7%A0%94%E7%A9%B6%E3%80%8F%E8%AC%9B%E6%BC%94%E6%8A%84%E9%8C%B2%EF%BC%88%E7%AC%AC82%E5%B7%BB1%E5%8F%B7%EF%BC%890016-0023.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/siryou_top.html",
-    "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm",
-    "https://note.com/akiyama924/n/nd2ee780a1010",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/74-1-all.pdf",
-    "https://bellcurve.jp/statistics/course/9414.html"
+    "https://bellcurve.jp/statistics/course/9414.html",
+    "https://stat-lab.jp/category/statistics-basics/hypothesis-testing/t-tests/",
+    "https://stat-lab.jp/paired-unpaired-data/",
+    "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
+    "https://blog.kabu-challenge.com/statistics/統計学t検定の基本と種類を徹底解説！対応あり・",
+    "https://guides.lib.kyushu-u.ac.jp/statistics/t_test_intro",
+    "https://note.com/rd_analytics_hub/n/n24b666569ca7"
    ]
   },
   {
    "query": "revision bias significance test mean revision t-test methodological revisions site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/yanzhonghuang_how-to-build-a-point-in-time-pit-equity-activity-7396352125276078081-mpce",
-    "https://www.linkedin.com/posts/dr-aleksandra-urman-a69981109_in-our-new-emnlp-paper-we-show-that-text-to-text-activity-7504109734770294784-hj_L",
-    "https://www.linkedin.com/posts/kory-kantenga-ph-d-5729a07_jobsreport-linkedin-activity-7371236291730124800-k1YM",
-    "https://www.linkedin.com/posts/maya-usher-8800a475_peer-feedback-leads-genai-complements-tracing-activity-7503039113021964289-d9Jn",
-    "https://www.linkedin.com/pulse/2025-revision-iso-10993-1-signals-new-era-risk-based-evaluation-sean-afouc",
-    "https://www.linkedin.com/posts/patrick-yevu_%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%B0%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9D-one-component-activity-7366600203891564545-oGWx",
-    "https://www.linkedin.com/posts/nikitasaxena_machinelearning-datascience-interviewprep-activity-7373215242819956737-0HBx",
-    "https://www.linkedin.com/posts/gowthami-peri-10762713_datascience-dataanalytics-machinelearning-activity-7503637136131264512-8ZFf",
-    "https://www.linkedin.com/pulse/ethics-technology-trends-psychological-testing-sarah",
-    "https://www.linkedin.com/pulse/future-metrics-why-new-astm-e2920-revision-turning-point-jason-kunz-a9cyc"
+    "https://www.linkedin.com/advice/1/what-effective-strategies-identifying-bias-hypothesis-ps8pf",
+    "https://www.linkedin.com/advice/3/your-statistical-methodology-faces-major-revision-demands-xorrc",
+    "https://pe.linkedin.com/pulse/what-do-mean-statistical-significance-jason-olivieri",
+    "https://www.linkedin.com/advice/0/how-do-you-refine-hypothesis-tests-based-changing",
+    "https://www.linkedin.com/advice/1/how-do-you-report-significance-t-test-your-research-3euue",
+    "https://www.linkedin.com/top-content/science/scientific-methodological-standards/experimental-bias-minimization/",
+    "https://www.linkedin.com/advice/3/how-can-you-explain-concept-t-test-significance-non-expert-zch6f"
    ]
   }
  ],
- "missing": {
-  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+ "missing": {},
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is a a preliminary (or earlier) estimate and",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "was estimated. The real-time dataset is constructed as follows.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is the preliminary estimate of the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Correlation between revision and earlier estimate (test if revisions are “noise”).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Correlation between revision and earlier estimate (test if revisions are “news”).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "are the standard deviations of the latest and preliminary estimates, respectively, and",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Topic 4 Revisions Analysis | Time Series Methods for Official Statistics",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Time Series Methods for Official Statistics",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "(for example, a given month or quarter) a revision can be defined as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
  },
- "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-05T23:57:14.994793+00:00"
 }

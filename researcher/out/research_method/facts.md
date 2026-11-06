@@ -255,6 +255,8 @@
   - 「自分が本当に欲しい福利厚生があるかという点に注意しつつまとめましょう」（https://www.theport.jp/portcareer/article/27262/）
   - 「勤務地にこだわりがある人や、転勤に抵抗が強い人は注意して確認しましょう」（https://www.theport.jp/portcareer/article/27262/）
 - 実例：
+  - 「「インターンシップで学びたいこと」の答え方例文｜選考突破者の実例」（https://careerpark-agent.jp/column/67587）
+  - 「事業内容とは｜企業研究や選考対策への活用方法を事例付きで解説」（https://careerpark-agent.jp/column/67587）
   - 「たしかに、IR情報は見たことがない学生も多いでしょうし、インターンは選考が設けられているケースも多くハードルが高いですよね」（https://careerpark-agent.jp/column/67587）
   - 「複数の分野に事業を展開している場合があり、それが一般的に知られていないケースもあります」（https://www.theport.jp/portcareer/article/27262/）
   - 「同業他社でも事業内容が微妙に異なるケースがあるので、ノートにまとめ、自分が携わる可能性のある仕事を把握しておきましょう」（https://www.theport.jp/portcareer/article/27262/）
@@ -268,9 +270,8 @@
   - 「特に、経営者の書いた書籍は、企業理念のもとになるエピソードや事業を立ち上げた背景が書かれているケースが多いので、企業理解を深めるのにぴったりです」（https://www.theport.jp/portcareer/article/64126/）
   - 「多くの就活生がその重要性を認識している一方で、「具体的に何を、どこまでやればいいのか分からない」と悩んでいるケースも少なくありません」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
   - 「例えば、「貴社の〇〇という事業の将来性に惹かれました」と述べるだけでなく、「業界全体が△△という課題を抱える中で、貴社は□□という独自の技術でその課題を解決しようとしており、その先進性に魅力を感じます」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
-  - 「その企業の事業展開や人材育成制度、キャリアパスの事例などを詳しく調べることで、「3年後にはこの部署でこんなスキルを身につけたい」「将来的には海外事業に挑戦したい」といった具体的な目標を描けます」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
-  - 「例えば、「人々の生活を豊かにする仕事がしたい」という軸があるなら、食品、住宅、IT、エンターテイメントなど、様々な業界が候補に挙がります」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
 - 検索結果の抜粋：
+  - 「就職活動に役立つ企業分析のやり方｜miyu_就活 — Feb 20, 2025 · 調査方法: 企業の「会社概要」や「採用情報」ページでビジョン・ミッションを確認。 CSRレポート や インタビュー記事 をチェックして、企業の価値観や社会的責任に対する姿勢を調べる。」（https://note.com/miyu6754/n/nf3b036381057）
   - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒の...【無料テンプレート付】就活の企業研究のやり方を解説｜企業研究ノー...作り方例4選｜企業研究ノートのまとめ方をイラスト付きで解説！ | POR...テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |...【企業分析シート付き】企業研究のやり方とポイントを徹底解説！ — 企業研究を行う目的は2つあります。 どんなに有名な企業でも、自分の経験や性格にマッチしない企業だと、活躍の幅も限られてしまいます。また、複数の企業から第一志望を絞り込むには「なぜ、その企業でなくてはならないのか？」など、選ぶ理由を明確にする必要があります。 企業研究で上記2つの要素を整理しておくと、ESの準備や面接対策もやりやすくなるでしょう。 See full list on campus.doda.jp 企業研究は、インターンシッ」（https://campus.doda.jp/career/job/000292.html）
   - 「テンプレ付き｜企業研究ノートを使った企業分析のやり方3ステップ！ |... — Aug 7, 2026 · 企業研究ノートは3ステップで作る！ 企業研究のやり方を押さえよう 企業研究ノートを作る前に押さえておくべき基礎知識 意味：企業情報を一覧化してまとめたノート 目的：企業選びや選考対策に役立てる メリット：企業を比較しやすくなる 3ステップで完成！ 企業研究ノートの作り方 ...」（https://careerpark-agent.jp/column/67587）
   - 「企業分析のやり方とは？効果的な項目や注意点を紹介 | あばば大学 — Jul 27, 2026 · 企業分析のやり方が分からなくて困っている方も多いのではないでしょうか。本記事では、企業分析を行う項目や、実施する際の注意点を解説します。どのように進めればよいのか悩んでいる就活生の方は、ぜひ役立ててください。 企業分析を実施する目的とは？」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
@@ -285,7 +286,6 @@
   - 「【企業分析のやり方・コツ】業界・社会全体の動向まで調べる — Feb 16, 2024 · 今回は企業分析のやり方についてです。 面接官は 志望企業や業界、社会動向等に関する質問を多く繰り出してきます。 しっかり分析して備えておくと面接で話が盛り上がりやすくなります。 業界により、適切なやり方が若干異なるかもしれませんが、 私のやり方を参考にチューニングしてみ ...」（https://note.com/sunakeso/n/nadc16e37f21f）
   - 「企業分析のやり方【就活版】——投資家の5ステップを、同業3社で実際に... — Aug 11, 2026 · 投資家は違うやり方をする。 自分の金を投じる相手を、公開データから自力で評価する。 そして必ず 複数を並べる。 1社だけ見ても、その数字が高いのか低いのか判断できないからだ。 就活は自分の時間を投じる意思決定なので、同じやり方が使える。」（https://note.com/irshukatsu/n/n208897213bd4）
   - 「ゴブリンが教える『企業分析のやり方』｜ゴブリン就活 — Apr 29, 2026 · はじめまして！ゴブリン就活です！ 就活でよく聞く「企業分析」。 でも、実際にやろうとすると、 「何を調べればいいの？」 「企業研究と何が違うの？」 「志望動機にどうつなげればいいの？」 と迷う人も多いと思います。 企業分析は、ただ会社の名前や事業内容を調べるだけではあり ...」（https://note.com/gobrinsyukatsu/n/n4ba9c3240e78）
-  - 「企業分析のやり方マニュアル｜はる｜簿記1級×企業分析の専門家 — Jan 9, 2024 · 企業分析の基本フレームワークには、以下の要素が含まれます。 1：財務諸表分析 財務諸表（損益計算書、貸借対照表、キャッシュフロー計算書）の読み解き方。 主要な財務指標（安全性、収益性、効率性など）の分析方法。 2：ビジネス分析」（https://note.com/haru2006ppe/n/n4e05d6e83690）
 
 ## 求人情報・採用ページから会社の実態を読む方法（infer company from job postings）
 - 文脈：企業
@@ -1030,6 +1030,10 @@
 - 文脈：凄腕・推定
 - 手順・やり方：
   - 「官報で決算公告を出すのは株主総会の前？後？タイミングと手順の完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「官報決算データベースとは？決算公告を無料で調べる方法7選【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「数字ひとつで決めず、組み合わせて“桁”で捉えるのがコツです」（https://shokubalog.com/articles/kaisha-kibo-shirabe-kata）
   - 「利益を生み出す構造（損益分岐点）から逆算するのがコツです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1040,10 +1044,6 @@
   - 「決算公告のコストは公告方法によって大きく異なります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「電子公告と決算公告の違いとは？関係性・3つの公告方法の費用を徹底比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「吸収分割の公告と決算公告の同時掲載とは？費用・手順・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告の入手方法から順に確認したい方は、」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレッジ｜イノベーション総合研究所」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1078,6 +1078,7 @@
   - 「ATS（採用管理システム）最適化：主要企業の書類選考システムが自動解析しやすい見出し構造・キーワード含有率を保証」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
 - 失敗・落とし穴：
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「今は1円でも会社が作れる時代なので、「資本金が小さい＝ダメ」ではありません」（https://shokubalog.com/articles/kaisha-kibo-shirabe-kata）
   - 「つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）」（https://note.com/pythonddd/n/nd056ead22003）
   - 「30%以上なら比較的安定、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1091,7 +1092,6 @@
   - 「「大会社」に該当するかどうかによって、公告すべき書類の範囲が変わる点にも注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
   - 「電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
   - 「ただし、以下の点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
-  - 「ただし、これは株主総会の手続きに関する特則であり、決算公告の義務自体が免除されるわけではない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
 - 実例：
   - 「決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1336,54 +1336,60 @@
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
 - 手順・やり方：
-  - 「1.目的設定のコツ」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「2.調べ方のコツ」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「3.資料作りのコツ」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「調べ方のコツは無限にあると思うので、特に僕が忘れがちだったり大事にしていたことを書きます」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「また、この構成を作る時は共有の方法や相手を意識して」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「4.共有のコツ」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「ただ、最適な手法は組織の状況や環境によって変わってくると変わってくると思いますし、僕のやり方も改善の余地はありまくりです」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「この状況は万能型の調査テーマで発生しやすく、NPS・満足度など総括スタイルのテーマのみを頼みにしていると、結論は」（https://note.com/diisuket/n/nd52911277358）
-  - 「マックに入って店内カウンター上部のメニューパネルに沿ってオーダーするステップに倣い、①メイン→②サイド→③デスクリサーチ（自分でウェブや文献を調べること）の順で決めていきます」（https://note.com/diisuket/n/nd52911277358）
-  - 「アンケートは大まかに、調査会社に外注、DIYツールで内製、Googleフォームで内製などのやり方に分かれます」（https://note.com/diisuket/n/nd52911277358）
-  - 「「健康増進プログラムの開発にあたり、フルーツ好きの人を対象に、購入理由・喫食体験を調査し、目玉となる品目及びその促進方法をまとめる」とあります」（https://note.com/diisuket/n/nd52911277358）
-  - 「最近マーケターの間であらためて注目されている「ユーザー理解」の方法について、「質問の尋ね方」が重要と考えるリサーチャー・菅」（https://note.com/diisuket/n/nd52911277358）
-  - 「新年のSchoo授業もエントリー受付中！こちらはリサーチャーの情報収集（デスクリサーチ）をテーマに、世の中のトレンドをキャッチアップしたり、消費者のインサイトを理解する方法をお伝えします」（https://note.com/diisuket/n/nd52911277358）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「まずはこの後の6ステップで調査の軸を整えたうえで、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「デスクリサーチの具体的な手順（6ステップ）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「以下の6ステップで進めます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「ステップ1：調査目的・リサーチクエスチョンの設定」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「ステップ2：調査項目を具体化する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「ステップ3：信頼できる情報ソースの選定」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「ステップ4：情報の収集・整理」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
 - 突き合わせ・推定：
-  - 「にして、そこから逆算して集めるデータを決めるようにしています」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「すでに依頼者の中で仮説があれば先に聞いておく」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「自分の仮説を事実として共有してしまう恐れがあるので、混同しないように明示します」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「ファクト（仮説検証）とインサイト（仮説探索）の用途を意識しながら各手法を使い分けていきます」（https://note.com/diisuket/n/nd52911277358）
-  - 「デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「そのため、デスクリサーチは初期仮説づくりに使い、公開情報で不足する論点は一次調査へ渡します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「実務では「まずデスクリサーチで市場全体の仮説を構築し、仮説を検証するためにフィールドリサーチを実施する」という順序が標準的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「リサーチクエスチョンが決まったら、「どの情報があれば答えられるか」の調査項目を逆算して情報ソースを選定します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「リサーチクエスチョンが固まったら、調査前に「おそらく〇〇ではないか」という仮説を1〜2つ立てておくことをお勧めします」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「仮説があると情報収集の優先順位がつけやすくなり、「仮説を支持するデータ」「仮説に反するデータ」の両面を意識して集められるため、解釈の精度が上がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「仮説を検証するために、何を調べるかを具体的な調査項目へ分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
+  - 「デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「そのため、デスクリサーチは初期仮説づくりに使い、公開情報で不足する論点は一次調査へ渡します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「実務では「まずデスクリサーチで市場全体の仮説を構築し、仮説を検証するためにフィールドリサーチを実施する」という順序が標準的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「リサーチクエスチョンが決まったら、「どの情報があれば答えられるか」の調査項目を逆算して情報ソースを選定します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「リサーチクエスチョンが固まったら、調査前に「おそらく〇〇ではないか」という仮説を1〜2つ立てておくことをお勧めします」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「仮説があると情報収集の優先順位がつけやすくなり、「仮説を支持するデータ」「仮説に反するデータ」の両面を意識して集められるため、解釈の精度が上がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「仮説を検証するために、何を調べるかを具体的な調査項目へ分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「市場規模を推定するときは、公的統計や調査会社のレポートと組み合わせて利用します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「重要な数値や主張は、異なる調査主体の情報と照合します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
 - 一次情報の探し方：
-  - 「note株式会社はシニアプロダクトデザイナーを採用しています」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「note株式会社はプロダクトデザイナーを採用しています」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「note株式会社はグラフィックデザイナーアシスタント(アルバイト)を採用しています」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「：総務省統計局の人口統計、経済産業省の業種別統計など」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「収集した情報は一次情報・二次情報に分類する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
+  - 「：総務省統計局の人口統計、経済産業省の業種別統計など」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「収集した情報は一次情報・二次情報に分類する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
 - 失敗・落とし穴：
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「新卒時代によくやっていたデスクトップリサーチの失敗と、現在の対処法｜仙田 真郷」（https://note.com/sendamasato/n/n2aa275f51bad）
   - 「新卒時代によくやっていたデスクトップリサーチの失敗と、現在の対処法」（https://note.com/sendamasato/n/n2aa275f51bad）
   - 「デスクリサーチをすることが度々あり、たくさん失敗をしてきました」（https://note.com/sendamasato/n/n2aa275f51bad）
@@ -1393,28 +1399,22 @@
   - 「ここは定点観測形式で調査をやり慣れている組織でも起きるので注意が必要です」（https://note.com/diisuket/n/nd52911277358）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=c6fc9325fd4a49584eca2479a9df595c）
-  - 「Time-consuming, interviewer bias.」（https://www.litmaps.com/articles/types-of-research-methods）
-  - 「Limited generalizability, possible researcher bias.」（https://www.litmaps.com/articles/types-of-research-methods）
 - 実例：
-  - 「このリサーチ結果をみて誰の役に立って、どんなふうにpjtや事業が前に進むかを明確にする」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「特に事例をたくさん知りたい時などは人数がたくさんいるチャンネルで呼びかけることが多いです（みんなよくやってる）」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「例えば「動画プラットフォームの動向調査」だったら下のように項目を先に書いておきます」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「リサーチ結果を共有する会のslack告知も、誰にどんなメリットがあるのかを先出し」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「どちらかというと設計や準備よりの話が多くなってしまいましたが、結果的に他の業務でも応用が効く学びについて多く書けた気がしています」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「▼ 4.調査の目的と結果を一致させる」（https://note.com/diisuket/n/nd52911277358）
-  - 「このレポートは調査結果を受けて、結論として「①安さ②早さ③旨さが求められている」こと、そして提案として「①セール実施②スピード改善③商品開発が必要である」ことが報告されており、」（https://note.com/diisuket/n/nd52911277358）
-  - 「まとめると、使えないレポート（イマイチな結果）はデータ自体の良し悪しというよりも、企画時に調査項目を判断できていない甘さに起因しており、ビジネス側の与件に合った正しい調査テーマ選択ができないとすべて無意味です」（https://note.com/diisuket/n/nd52911277358）
-  - 「当期目標・重点施策に合わせて結果を出すテーマを決める」（https://note.com/diisuket/n/nd52911277358）
-  - 「「顧客理解のため」「目標達成のため」という表現が主になっているケースです」（https://note.com/diisuket/n/nd52911277358）
-  - 「しかし上記のような表現だと、結果データも責任感を伴わないものになっていきます」（https://note.com/diisuket/n/nd52911277358）
-  - 「この内容を元にして作成したのが、上部左側にある「調査結果」（抜粋）です」（https://note.com/diisuket/n/nd52911277358）
-  - 「調査目的で定めたテーマの情報収集を行い、調査結果で導いた示唆から適切な意思決定をできる―これが調査それ自体による一つの成果です」（https://note.com/diisuket/n/nd52911277358）
-  - 「調査目的と調査結果の部分は、必ず形式を一致させましょう」（https://note.com/diisuket/n/nd52911277358）
-  - 「お題目としての調査目的では調査結果（結論）を書くことはできませんし、力技で調査結果だけを盛り上げても調査の実施価値は浸透しません」（https://note.com/diisuket/n/nd52911277358）
+  - 「あるいは、検索結果を一つずつ確認しているうちに、情報収集だけで何日もかかってしまうことはありませんか」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「まずは導入事例の資料ででデスクリサーチをどう効率化し、調査結果をどのように整理したか確認してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「デスクリサーチ）行動の結果記録を扱うため、「なぜそうしたか」という潜在動機や本音の把握は困難です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「デスクリサーチなしに一次調査を始めると、設問設計の前提が甘くなり、結果の解釈精度が下がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「：既存データは行動の結果記録であり、「なぜそうしたか」という潜在動機までは追えません」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「例えば、国内の〇〇市場への参入可能性を調べる場合は、次のように分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「まず無料で公開されている概要や調査結果を確認し、詳細な市場区分や予測値が必要な場合に有料レポートを検討すると効率的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「：事業内容、サービス、導入事例、プレスリリース、決算説明資料などを確認できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「：企業が発表した新商品、業務提携、調査結果などのプレスリリースを検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「同じテーマでも、質問文や調査対象者が異なると結果は変わります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「調査結果を引用するときは、数値だけでなく調査条件も確認しましょう」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「テキストと異なり、グラフは「図版」として著作物性が認められやすいため、スクリーンショットの貼り付けや図版の模写は、出典明示だけでは不十分なケースがあります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「例えば、インティメート・マージャーが提供するサー」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
+  - 「は、独自のIDソリューションによって国内人口の約90%のWeb閲覧行動を把握したデータをもとに、チャット形式でリサーチ結果を提供するサービスです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
 - 検索結果の抜粋：
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods CommunityResearcher.Life: Blog Category | Researcher.LifeResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer Nature21 Best Academic Blogs Every Researcher Must Follow10 Best Academic Blogs Every Researcher Must Subscribe to in 2023Blog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog o」（https://www.exordo.com/blog/the-best-academic-blogs）
@@ -5375,11 +5375,41 @@
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「Topic 4 Revisions Analysis | Time Series Methods for Official Statistics」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Time Series Methods for Official Statistics」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+- 突き合わせ・推定：
+  - 「Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is a a preliminary (or earlier) estimate and」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「was estimated. The real-time dataset is constructed as follows.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「, from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is the preliminary estimate of the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Correlation between revision and earlier estimate (test if revisions are “noise”).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Correlation between revision and earlier estimate (test if revisions are “news”).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「are the standard deviations of the latest and preliminary estimates, respectively, and」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+- 一次情報の探し方：
+  - 「https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+- 失敗・落とし穴：
+  - 「The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+- 実例：
+  - 「(for example, a given month or quarter) a revision can be defined as」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「. However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
+  - 「As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
 
 ## 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）（entity matching benchmark corner cases threshold gold standard）
 - 文脈：同一性
@@ -5476,6 +5506,7 @@
   - 「4. 有料データベースを使う方法（効率的な調査向け）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「原因2：公告方法として官報を選択していない」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
 - 突き合わせ・推定：
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「評価には使わず、所在地などで同じ会社かを照合してから読む」（https://note.com/joshima_s/n/n04cab9927719）
   - 「公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています」（https://note.com/joshima_s/n/n04cab9927719）
   - 「帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -5499,6 +5530,8 @@
   - 「過去の公告を会社名などの言葉で探したいときは、有料の官報情報検索サービスを使う方法があります」（https://note.com/joshima_s/n/n04cab9927719）
   - 「インターネットを使えない人のために、都道府県の図書館などに官報発行サイトを見られる端末も置かれています」（https://note.com/joshima_s/n/n04cab9927719）
 - 失敗・落とし穴：
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「読むときの4つの注意点」（https://note.com/joshima_s/n/n04cab9927719）
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -5507,6 +5540,7 @@
   - 「官報の決算公告を閲覧する際には、いくつかの実務上の注意点があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 実例：
+  - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「したがって、多くの中小企業の官報公告には貸借対照表の要旨のみが掲載されており、純資産の部・資産合計・負債合計などの主要な数値は把握できますが、売上高や利益などの損益情報は含まれていないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「3月決算の企業であれば6〜8月、12月決算であれば翌年3〜4月頃に掲載されているケースが多いです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
