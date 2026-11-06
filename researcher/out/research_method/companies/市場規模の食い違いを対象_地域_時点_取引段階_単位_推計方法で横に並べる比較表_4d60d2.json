@@ -8,8 +8,460 @@
  ],
  "context": "市場規模の推計",
  "kind": "market",
- "researched_at": "2026-11-06T18:51:19.121245+00:00",
+ "researched_at": "2026-11-06T23:26:11.070137+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介 - 【公式】| 市場調査・マーケティングリサーチ会社のアスマーク",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3つの算出方法",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もう1つの方法は、消費者調査を専門とする調査会社に依頼する方法です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この数値は、対象とする製品や地域といった「市場の範囲」のほか、「集計方法（出荷ベースか販売ベースか、あるいはメーカー売上か小売売上か）」や「期間の設定」によって大きく変動します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、マーケティングにおける商品開発とは何かについて、その進め方や活用できるフレームワーク、さらには成功に導くための重要ポイントなどを解説します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "短期間で実施しやすく、同じ方法で再検証しやすい",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査データやレポートを活用する際は、製品範囲や地域などの定義、回答の集計方法、輸出入の扱いを必ずチェックしましょう",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＜関連コラム＞ 市場調査の依頼方法は？相場（費用感）や成功させるためのポイントなど紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の調べ方ー情報源・算出方法・活用法を解説",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公表された市場規模を調べる5ステップ",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step1：市場の定義と調査目的を1文にする",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step2：キーワードと類義語を洗い出す",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step3：公的統計・業界資料・民間レポートを調べる",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step4：数字の定義と調査範囲をそろえる",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step5：複数ソースをクロスチェックする",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ボトムアップは、現場に近いデータを積み上げる方法です",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法｜ヘンザップ梅山",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・調査対象、価格・地域・顧客・販路・期間をそろえた市場定義の方法",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・前年比成長率、CAGR、感度分析の計算方法",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "『どの顧客に、何を、いくらで、どの方法で販売し、その市場からどの程度の売上を現実的に獲得できるか』という経営判断につなげることです",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前回の記事：S05「5 Forces分析の進め方を徹底解説」",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3．公開統計の正しい使い方｜実在データと推計の境界",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査時に確認する項目は、発表日、対象年、対象商品、販売形態、集計単位、返品・税の扱い、推計方法、資料改訂の有無です",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "トップダウンは、信頼できる大きな市場規模を起点に、顧客、価格帯、地域、用途、販路などの条件を順に適用して対象市場を求める方法です",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実務では、①公的統計を選ぶ、②自社が扱わない範囲を除外する、③セグメント比率の根拠を集める、④集計の重複を確認する、⑤仮定値に範囲を持たせる、という手順で行います",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ボトムアップは、実際に販売できる顧客数や訪問数、購入率、購入金額などから、売上を積み上げる方法です",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7．実務手順｜市場規模分析の9ステップ",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "STEP 1｜意思決定を明確にする",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "STEP 2｜市場の定義を固定する",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "STEP 3｜一次資料を収集する",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新規事業の市場規模の調べ方｜TAM・SAM・SOMを推計する8ステップ｜FREE LABO｜新規事業の市場調査・事業開発",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新規事業の市場規模の調べ方｜TAM・SAM・SOMを推計する8ステップ",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、顧客、支払者、提供方法がおおむね決まった段階から、公開統計を使ってTAM・SAM・SOMを推計し、GO・HOLD・STOPの判断材料へ変える手順を解説します",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "店舗型事業：商圏人口、世帯数、昼間人口、来店回数",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "仲介型事業：取引件数、流通総額、手数料売上",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "TAM・SAM・SOMを作る8ステップ",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4．TAMを二つの方法で計算する",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "既存市場の年間支出額が直接公表されている場合は、その値を基準にする方法もあります",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下は計算方法を示すための完全な架空例です",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "☐ 未確認の仮定と、次に確認する方法を分けた",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模とは？調べ方から算出方法、事業戦略への活用法までマーケティングリサーチ会社が解説 | マーケティングリサーチの電通マクロミルインサイト",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模とは？調べ方から算出方法、事業戦略への活用法までマーケティングリサーチ会社が解説",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、市場規模の基本的な定義から、信頼性の高い調べ方、具体的な算出方法、そして調査結果を事業戦略に活かす方法まで、体系的に解説します",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の調べ方！信頼できる情報源を見つける方法",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の算出・予測に役立つフレームワーク",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の調べ方ー情報源・算出方法・活用法を解説",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公表された市場規模を調べる5ステップ",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step1：市場の定義と調査目的を1文にする",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step2：キーワードと類義語を洗い出す",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step3：公的統計・業界資料・民間レポートを調べる",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step4：数字の定義と調査範囲をそろえる",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step5：複数ソースをクロスチェックする",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ボトムアップは、現場に近いデータを積み上げる方法です",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです",
@@ -370,886 +822,94 @@
     "url": "https://www.dm-insight.jp/column/market-size/",
     "pass": 3,
     "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "人材紹介大手3社転職実績集計結果",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "前提条件の置き方によって結果が大きく変動します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結果を左右する重要なパラメータを見極めること",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "でチャット感覚で市場調査を効率化した事例を見てみてください",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "抽出結果は、次のとおりです",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4. 実証結果から分かることと、追加確認が必要なこと",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "の結果は、公開統計や実測値の代わりではありません",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※実在する市場統計と仮想ケースの計算を明確に分けます",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば「日本のアパレル市場」と「国内の衣類・服装雑貨BtoC-EC市場」は一致しません",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば基準市場100億円、条件Aに当てはまる割合20%、そのうち実際に提供可能な割合50%なら、対象市場は10億円です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "弱点は、最上位の統計が正しくても、途中で使う顧客比率や到達可能性が弱い仮定なら、結果全体が不確実になることです",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば100万セッション、CVR2%、注文当たり売上2万円の場合、年間注文数は2万件、売上は4億円です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば仮想市場が2023年100億円、2025年121億円であれば、2年間のCAGRは10%です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模推計表の最小項目は、①行ID、②市場定義、③基準年、④基準市場規模、⑤絞り込み条件、⑥適用係数、⑦推計結果、⑧単位、⑨根拠資料、⑩確度、⑪レビュー状況です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "9．仮想アパレルA社のケース｜市場の大きさから投資判断まで",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "［1］経済産業省「令和7年度電子商取引に関する市場調査の結果を取りまとめました」（2026年10月21日）",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "［3］経済産業省「令和6年度電子商取引に関する市場調査の結果を取りまとめました」（2025年8月26日）",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "上振れケースだけで投資が成立する計画は、まだGOではありません",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どの仮定を検証すれば、保守ケースから基準ケースへ移れるかを決めます",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "GO：基準ケースで必要粗利を満たし、供給体制も準備できる",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同時に提供できる上限が5件なら、上振れケースも5件で止まります",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "72万円の基準ケースで検証費用を回収できるか",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、市場規模の基本的な定義から、信頼性の高い調べ方、具体的な算出方法、そして調査結果を事業戦略に活かす方法まで、体系的に解説します",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査結果を活かすための、市場規模の分析と活用方法",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、「日本の飲料市場の規模は年間約",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、経済産業省が実施する「経済構造実態調査」（",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、一般社団法人日本自動車工業会や日本建設業連合会などは、それぞれの業界動向や市場規模に関するデータを定期的に公表しています",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、日本の飲料市場規模を算出する場合、「日本の総人口」",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、ある地域でのカフェの市場規模を算出する場合、「店舗数」",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、「自動車市場」という大きな括りではなく、「国内の軽自動車市場」や「",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、成長市場には積極的な投資を行いシェア獲得を目指し、成熟市場では利益率を重視した戦略をとるなど、データに基づいたメリハリのある戦略を展開することが可能になります",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会場調査（CLT）とは？メリット・対象・流れ・事例を徹底解説",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索結果の見出しや要約だけで数字を採用しません",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に自社の商談結果を市場全体へ広げる場合と、未検証の数値を置く場合を区別してください",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "悲観・中位・楽観の3ケースで感度を見る",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "すべての要素を同時に細かく変えるのではなく、結果への影響が大きい導入率や単価などを選び、悲観・中位・楽観の3ケースで比較します",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "計算結果：年間1億2,000万円",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "対象企業数・導入率・年間単価のいずれも計算結果に影響します",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、5%の場合には最初に狙う顧客数が不足するなら、利用の見込みを調べ直すか、対象業種を見直します",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この手法で最も注意すべきは、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "もう一つの落とし穴は、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "● 設問設計による回答バイアスを最小限に抑えたい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "TAM・SAM・SOMを売上目標へ移すときの注意",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチの方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これを3年間ずっと続く確定予測として使うのは誤りです",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "10．市場規模分析でよくある失敗",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗①：広い業界統計を自社TAMと呼んでしまう",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗②：SAMやSOMの割合を経験や印象で決め、根拠を残さない",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗④：前年の成長率を将来に機械的に延長する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗⑥：市場規模だけで投資を承認しようとする",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模推計で起きやすい7つの誤り",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調査を有効活用するためには、いくつか注意すべき点があります",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "コンセプトテストとは？商品開発で失敗しないためのアンケート評価と調査手法を徹底解説",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一つの式だけで市場規模を確定すると、その式に含まれる前提の誤りを見つけにくくなります",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調べ方で起きやすい4つの失敗",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "全体の桁を見誤りにくい反面、掛ける比率の出典が弱いと、計算を重ねるほど根拠が薄くなります",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "BtoCでは、利用者が個人でも支出主体が世帯である商品に注意が必要です",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "精度を高めるために！市場規模調査・算出時の注意点",
-    "url": "https://www.rjc.co.jp/column/262",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "参照するデータの「鮮度」にも注意しましょう",
-    "url": "https://www.rjc.co.jp/column/262",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、一つの情報源だけを鵜呑みにせず、複数の機関が発表しているデータを比較する「クロスチェック」も重要です",
-    "url": "https://www.rjc.co.jp/column/262",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介 - 【公式】| 市場調査・マーケティングリサーチ会社のアスマーク",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3つの算出方法",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "もう1つの方法は、消費者調査を専門とする調査会社に依頼する方法です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この数値は、対象とする製品や地域といった「市場の範囲」のほか、「集計方法（出荷ベースか販売ベースか、あるいはメーカー売上か小売売上か）」や「期間の設定」によって大きく変動します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、マーケティングにおける商品開発とは何かについて、その進め方や活用できるフレームワーク、さらには成功に導くための重要ポイントなどを解説します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "短期間で実施しやすく、同じ方法で再検証しやすい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査データやレポートを活用する際は、製品範囲や地域などの定義、回答の集計方法、輸出入の扱いを必ずチェックしましょう",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "＜関連コラム＞ 市場調査の依頼方法は？相場（費用感）や成功させるためのポイントなど紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調べ方ー情報源・算出方法・活用法を解説",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
    },
    {
     "quote": "市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "公表された市場規模を調べる5ステップ",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "quote": "一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Step1：市場の定義と調査目的を1文にする",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "quote": "AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Step2：キーワードと類義語を洗い出す",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step3：公的統計・業界資料・民間レポートを調べる",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step4：数字の定義と調査範囲をそろえる",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "quote": "どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "Step5：複数ソースをクロスチェックする",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "quote": "その場合は、計算式と仮定を明示して推計します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ボトムアップは、現場に近いデータを積み上げる方法です",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "quote": "上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出典・対象年・単位・実測値／推定値／仮定の区分",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法｜ヘンザップ梅山",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・調査対象、価格・地域・顧客・販路・期間をそろえた市場定義の方法",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・前年比成長率、CAGR、感度分析の計算方法",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "『どの顧客に、何を、いくらで、どの方法で販売し、その市場からどの程度の売上を現実的に獲得できるか』という経営判断につなげることです",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "前回の記事：S05「5 Forces分析の進め方を徹底解説」",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3．公開統計の正しい使い方｜実在データと推計の境界",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査時に確認する項目は、発表日、対象年、対象商品、販売形態、集計単位、返品・税の扱い、推計方法、資料改訂の有無です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "トップダウンは、信頼できる大きな市場規模を起点に、顧客、価格帯、地域、用途、販路などの条件を順に適用して対象市場を求める方法です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実務では、①公的統計を選ぶ、②自社が扱わない範囲を除外する、③セグメント比率の根拠を集める、④集計の重複を確認する、⑤仮定値に範囲を持たせる、という手順で行います",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ボトムアップは、実際に販売できる顧客数や訪問数、購入率、購入金額などから、売上を積み上げる方法です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "7．実務手順｜市場規模分析の9ステップ",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "STEP 1｜意思決定を明確にする",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "STEP 2｜市場の定義を固定する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "STEP 3｜一次資料を収集する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新規事業の市場規模の調べ方｜TAM・SAM・SOMを推計する8ステップ｜FREE LABO｜新規事業の市場調査・事業開発",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新規事業の市場規模の調べ方｜TAM・SAM・SOMを推計する8ステップ",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、顧客、支払者、提供方法がおおむね決まった段階から、公開統計を使ってTAM・SAM・SOMを推計し、GO・HOLD・STOPの判断材料へ変える手順を解説します",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "店舗型事業：商圏人口、世帯数、昼間人口、来店回数",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "仲介型事業：取引件数、流通総額、手数料売上",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "TAM・SAM・SOMを作る8ステップ",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4．TAMを二つの方法で計算する",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "既存市場の年間支出額が直接公表されている場合は、その値を基準にする方法もあります",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "以下は計算方法を示すための完全な架空例です",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "☐ 未確認の仮定と、次に確認する方法を分けた",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模とは？調べ方から算出方法、事業戦略への活用法までマーケティングリサーチ会社が解説 | マーケティングリサーチの電通マクロミルインサイト",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模とは？調べ方から算出方法、事業戦略への活用法までマーケティングリサーチ会社が解説",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、市場規模の基本的な定義から、信頼性の高い調べ方、具体的な算出方法、そして調査結果を事業戦略に活かす方法まで、体系的に解説します",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調べ方！信頼できる情報源を見つける方法",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の算出・予測に役立つフレームワーク",
-    "url": "https://www.dm-insight.jp/column/market-size/",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -1614,6 +1274,706 @@
     "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
     "pass": 3,
     "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最初に確認したいのは、政府統計や各省庁の白書です",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": 政府統計をキーワード、分野、作成機関などから探せます",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": 生産、出荷、販売、サービスなどの統計を探せます",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、業界団体の統計は加盟企業のみを対象にしていることがあります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その場合は、アンケートやインタビューで一次情報を集めます",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Step3：公的統計・業界資料・民間レポートを調べる",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会員企業だけの統計を業界全体の数字として扱っていないか",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この手法で最も注意すべきは、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もう一つの落とし穴は、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "● 設問設計による回答バイアスを最小限に抑えたい",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "TAM・SAM・SOMを売上目標へ移すときの注意",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デスクリサーチの方法ー6ステップと情報源・注意点を解説",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これを3年間ずっと続く確定予測として使うのは誤りです",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10．市場規模分析でよくある失敗",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗①：広い業界統計を自社TAMと呼んでしまう",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗②：SAMやSOMの割合を経験や印象で決め、根拠を残さない",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗④：前年の成長率を将来に機械的に延長する",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "失敗⑥：市場規模だけで投資を承認しようとする",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模推計で起きやすい7つの誤り",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の調査を有効活用するためには、いくつか注意すべき点があります",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "コンセプトテストとは？商品開発で失敗しないためのアンケート評価と調査手法を徹底解説",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一つの式だけで市場規模を確定すると、その式に含まれる前提の誤りを見つけにくくなります",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の調べ方で起きやすい4つの失敗",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全体の桁を見誤りにくい反面、掛ける比率の出典が弱いと、計算を重ねるほど根拠が薄くなります",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "BtoCでは、利用者が個人でも支出主体が世帯である商品に注意が必要です",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "精度を高めるために！市場規模調査・算出時の注意点",
+    "url": "https://www.rjc.co.jp/column/262",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "参照するデータの「鮮度」にも注意しましょう",
+    "url": "https://www.rjc.co.jp/column/262",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、一つの情報源だけを鵜呑みにせず、複数の機関が発表しているデータを比較する「クロスチェック」も重要です",
+    "url": "https://www.rjc.co.jp/column/262",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "TAM・SAM・SOMを売上目標へ移すときの注意",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "デスクリサーチの方法ー6ステップと情報源・注意点を解説",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人材紹介大手3社転職実績集計結果",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前提条件の置き方によって結果が大きく変動します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "結果を左右する重要なパラメータを見極めること",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "でチャット感覚で市場調査を効率化した事例を見てみてください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "抽出結果は、次のとおりです",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. 実証結果から分かることと、追加確認が必要なこと",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の結果は、公開統計や実測値の代わりではありません",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※実在する市場統計と仮想ケースの計算を明確に分けます",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「日本のアパレル市場」と「国内の衣類・服装雑貨BtoC-EC市場」は一致しません",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば基準市場100億円、条件Aに当てはまる割合20%、そのうち実際に提供可能な割合50%なら、対象市場は10億円です",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弱点は、最上位の統計が正しくても、途中で使う顧客比率や到達可能性が弱い仮定なら、結果全体が不確実になることです",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば100万セッション、CVR2%、注文当たり売上2万円の場合、年間注文数は2万件、売上は4億円です",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば仮想市場が2023年100億円、2025年121億円であれば、2年間のCAGRは10%です",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模推計表の最小項目は、①行ID、②市場定義、③基準年、④基準市場規模、⑤絞り込み条件、⑥適用係数、⑦推計結果、⑧単位、⑨根拠資料、⑩確度、⑪レビュー状況です",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9．仮想アパレルA社のケース｜市場の大きさから投資判断まで",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "［1］経済産業省「令和7年度電子商取引に関する市場調査の結果を取りまとめました」（2026年10月21日）",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "［3］経済産業省「令和6年度電子商取引に関する市場調査の結果を取りまとめました」（2025年8月26日）",
+    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上振れケースだけで投資が成立する計画は、まだGOではありません",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どの仮定を検証すれば、保守ケースから基準ケースへ移れるかを決めます",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "GO：基準ケースで必要粗利を満たし、供給体制も準備できる",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同時に提供できる上限が5件なら、上振れケースも5件で止まります",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "72万円の基準ケースで検証費用を回収できるか",
+    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、市場規模の基本的な定義から、信頼性の高い調べ方、具体的な算出方法、そして調査結果を事業戦略に活かす方法まで、体系的に解説します",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査結果を活かすための、市場規模の分析と活用方法",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、「日本の飲料市場の規模は年間約",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、経済産業省が実施する「経済構造実態調査」（",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、一般社団法人日本自動車工業会や日本建設業連合会などは、それぞれの業界動向や市場規模に関するデータを定期的に公表しています",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、日本の飲料市場規模を算出する場合、「日本の総人口」",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、ある地域でのカフェの市場規模を算出する場合、「店舗数」",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、「自動車市場」という大きな括りではなく、「国内の軽自動車市場」や「",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、成長市場には積極的な投資を行いシェア獲得を目指し、成熟市場では利益率を重視した戦略をとるなど、データに基づいたメリハリのある戦略を展開することが可能になります",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会場調査（CLT）とは？メリット・対象・流れ・事例を徹底解説",
+    "url": "https://www.dm-insight.jp/column/market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検索結果の見出しや要約だけで数字を採用しません",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特に自社の商談結果を市場全体へ広げる場合と、未検証の数値を置く場合を区別してください",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "悲観・中位・楽観の3ケースで感度を見る",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "すべての要素を同時に細かく変えるのではなく、結果への影響が大きい導入率や単価などを選び、悲観・中位・楽観の3ケースで比較します",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計算結果：年間1億2,000万円",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対象企業数・導入率・年間単価のいずれも計算結果に影響します",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、5%の場合には最初に狙う顧客数が不足するなら、利用の見込みを調べ直すか、対象業種を見直します",
+    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "でチャット感覚で市場調査を効率化した事例を見てみてください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "抽出結果は、次のとおりです",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. 実証結果から分かることと、追加確認が必要なこと",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の結果は、公開統計や実測値の代わりではありません",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    }
   ]
  },
@@ -1626,7 +1986,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "status": "ok",
     "method": "http"
    },
@@ -1637,11 +1997,6 @@
    },
    {
     "url": "https://mdb-biz.jmar.co.jp/column/57",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.loyalty.co.jp/column/083/",
     "status": "ok",
     "method": "http"
    },
@@ -1666,6 +2021,11 @@
     "method": "http"
    },
    {
+    "url": "https://p.potaufeu.asahi.com/smbiz/case/marketsize.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
     "status": "ok",
     "method": "http"
@@ -1681,6 +2041,11 @@
     "method": "http"
    },
    {
+    "url": "https://www.m-keiei.jp/musashinocolumn/shizyoukibo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
     "status": "ok",
     "method": "http"
@@ -1691,7 +2056,12 @@
     "method": "http"
    },
    {
-    "url": "https://scrap.io/ja/shijo-kibo-shirabekata-2026",
+    "url": "https://prtimes.com/magazine/market-size/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ote_walk/n/n84135dbb9b34",
     "status": "ok",
     "method": "http"
    },
@@ -1706,16 +2076,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.preplounge.com/consulting-forum/which-do-i-use-for-market-sizing-top-down-or-bottom-up-17022",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.linkedin.com/pulse/market-sizing-top-down-vs-bottom-up-when-use-which-kashish-malhotra-tkdjc",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://kadence.com/en-us/knowledge/what-is-top-down-market-sizing/",
     "status": "ok",
     "method": "http"
@@ -1724,6 +2084,16 @@
     "url": "https://www.roadtooffer.com/blog/market-sizing-step-by-step",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.preplounge.com/consulting-forum/which-do-i-use-for-market-sizing-top-down-or-bottom-up-17022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/advice/0/what-advantages-disadvantages-using-top-down",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://visible.vc/blog/bottom-up-market-sizing/",
@@ -1740,11 +2110,11 @@
     "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://taitonmai.co.jp/service/market-size",
     "https://mdb-biz.jmar.co.jp/column/57",
-    "https://biz.loyalty.co.jp/column/083/",
     "https://www.macromill.com/service/column/entry-003/",
     "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
     "https://www.meti.go.jp/policy/it_policy/statistics/outlook/H30_hokokusho_new.pdf",
     "https://diamond.jp/articles/-/133449",
+    "https://p.potaufeu.asahi.com/smbiz/case/marketsize.pdf",
     "https://note.com/ote_walk/n/n6b8e3e787839"
    ]
   },
@@ -1755,11 +2125,11 @@
     "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://taitonmai.co.jp/service/market-size",
     "https://mdb-biz.jmar.co.jp/column/57",
-    "https://biz.loyalty.co.jp/column/083/",
     "https://www.macromill.com/service/column/entry-003/",
     "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
     "https://www.meti.go.jp/policy/it_policy/statistics/outlook/H30_hokokusho_new.pdf",
     "https://diamond.jp/articles/-/133449",
+    "https://p.potaufeu.asahi.com/smbiz/case/marketsize.pdf",
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
    ]
   },
@@ -1770,12 +2140,12 @@
     "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://taitonmai.co.jp/service/market-size",
     "https://mdb-biz.jmar.co.jp/column/57",
-    "https://biz.loyalty.co.jp/column/083/",
     "https://www.macromill.com/service/column/entry-003/",
     "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
     "https://www.meti.go.jp/policy/it_policy/statistics/outlook/H30_hokokusho_new.pdf",
     "https://diamond.jp/articles/-/133449",
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
+    "https://p.potaufeu.asahi.com/smbiz/case/marketsize.pdf",
+    "https://insight.rakuten.co.jp/knowledge/column/column034/"
    ]
   },
   {
@@ -1785,11 +2155,11 @@
     "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://taitonmai.co.jp/service/market-size",
     "https://mdb-biz.jmar.co.jp/column/57",
-    "https://biz.loyalty.co.jp/column/083/",
     "https://www.macromill.com/service/column/entry-003/",
     "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
     "https://www.meti.go.jp/policy/it_policy/statistics/outlook/H30_hokokusho_new.pdf",
     "https://diamond.jp/articles/-/133449",
+    "https://p.potaufeu.asahi.com/smbiz/case/marketsize.pdf",
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
    ]
   },
@@ -1797,14 +2167,14 @@
    "query": "market sizing reconcile top-down bottom-up comparison table transaction stage definition",
    "results": [
     "https://waveup.com/blog/top-down-and-bottom-up-market-size-calculation/",
-    "https://www.preplounge.com/consulting-forum/which-do-i-use-for-market-sizing-top-down-or-bottom-up-17022",
-    "https://www.linkedin.com/pulse/market-sizing-top-down-vs-bottom-up-when-use-which-kashish-malhotra-tkdjc",
     "https://kadence.com/en-us/knowledge/what-is-top-down-market-sizing/",
     "https://www.roadtooffer.com/blog/market-sizing-step-by-step",
+    "https://www.preplounge.com/consulting-forum/which-do-i-use-for-market-sizing-top-down-or-bottom-up-17022",
+    "https://www.linkedin.com/advice/0/what-advantages-disadvantages-using-top-down",
+    "https://www.youtube.com/watch?v=_X0QGwmNBkI",
     "https://visible.vc/blog/bottom-up-market-sizing/",
-    "https://www.hackingthecaseinterview.com/pages/market-sizing",
-    "https://biodesignguide.stanford.edu/wp-content/uploads/2022/07/Top-Down-and-Bottom-Up-Market-Sizing-Example.pdf",
     "https://umbrex.com/resources/market-sizing-playbook/bottom-up-market-sizing-methodology/",
+    "https://www.hackingthecaseinterview.com/pages/market-sizing",
     "https://trendundercurrent.com/guides/market-sizing-from-observables/"
    ]
   },
@@ -1826,13 +2196,13 @@
   {
    "query": "site:x.com 市場規模の食い違いを対象・地域・時点・取引段階・単位・推計方法で横に並べる比較表の作り方（公的統計から2経路で推計して差を検証する工程）",
    "results": [
-    "https://jf.x.com/images/media-preview/2106381460500316488",
     "https://jf.x.com/images/media-preview/2098931333691212285",
+    "https://jf.x.com/images/media-preview/2106381460500316488",
     "https://x.com/keizaireport/status/1835211446873211078",
     "https://x.com/Kankyo_Jpn/status/2071494105545482315",
     "https://x.com/daisuke_kshoku/status/2105440310021218534",
     "https://x.com/grok/status/2111107150571356305",
-    "https://x.com/TuKiToRi_1/status/2105634776631894204"
+    "https://x.com/morihiroaki/status/2107944535900954805"
    ]
   },
   {
@@ -1855,8 +2225,8 @@
     "https://www.facebook.com/KankyoJpn.gov/posts/環境省は環境産業の市場規模雇用規模等の推計結果をまとめた環境産業の市場規模雇用規模等に関する報告書を毎年公表していますこの度令和７年度報告書2024年調査結果を/1348211457402361/",
     "https://bs-ba.facebook.com/japan.marketing.academy/posts/マーケティングジャーナル紹介池上重輔日系サービスビジネスの海外市場参入におけるビジネスモデルの移転と国際ナレッジマネジメント-ヤマトホールディングスのアジア展開/1833279470020865/",
     "https://www.facebook.com/recycletsushin/posts/リユース市場データブック-2025リユース市場規模や事業者の動向経営指標など図解や表グラフを基に解説マーケットを知る上で欠かせない1冊です2025年版では204/1567769042021470/",
-    "https://www.facebook.com/recycletsushin/posts/速報リユース経済新聞が独自にリユース市場規模の推計を行ったところ2024年の市場規模は前年比45増の33兆円となった調査対象とした2009年以降15年連続で拡大/1393305849467791/",
-    "https://www.facebook.com/hiroaki.uchiyama.336/posts/なんで非公開でやるの両県での意見食い違いあるが地元住民の意見や鉄道で残すかバス転換にしろ復旧したら終わりでなく利便性向上や如何に乗ってもらうかの施策やらないかぎ/4155866527876552/"
+    "https://www.facebook.com/hiroaki.uchiyama.336/posts/なんで非公開でやるの両県での意見食い違いあるが地元住民の意見や鉄道で残すかバス転換にしろ復旧したら終わりでなく利便性向上や如何に乗ってもらうかの施策やらないかぎ/4155866527876552/",
+    "https://www.facebook.com/recycletsushin/posts/速報リユース経済新聞が独自にリユース市場規模の推計を行ったところ2024年の市場規模は前年比45増の33兆円となった調査対象とした2009年以降15年連続で拡大/1393305849467791/"
    ]
   },
   {
@@ -1866,11 +2236,11 @@
     "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://taitonmai.co.jp/service/market-size",
     "https://mdb-biz.jmar.co.jp/column/57",
-    "https://biz.loyalty.co.jp/column/083/",
     "https://www.macromill.com/service/column/entry-003/",
     "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
     "https://www.meti.go.jp/policy/it_policy/statistics/outlook/H30_hokokusho_new.pdf",
     "https://diamond.jp/articles/-/133449",
+    "https://p.potaufeu.asahi.com/smbiz/case/marketsize.pdf",
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
    ]
   },
@@ -1881,11 +2251,11 @@
     "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://taitonmai.co.jp/service/market-size",
     "https://mdb-biz.jmar.co.jp/column/57",
-    "https://biz.loyalty.co.jp/column/083/",
     "https://www.macromill.com/service/column/entry-003/",
     "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
     "https://www.meti.go.jp/policy/it_policy/statistics/outlook/H30_hokokusho_new.pdf",
     "https://diamond.jp/articles/-/133449",
+    "https://p.potaufeu.asahi.com/smbiz/case/marketsize.pdf",
     "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
    ]
   },
@@ -1896,1624 +2266,388 @@
     "https://www.linkedin.com/in/nishball",
     "https://www.linkedin.com/top-content/career/strategic-career-planning/strategic-headcount-planning/",
     "https://www.linkedin.com/in/jerome-g-a134284b",
+    "https://www.linkedin.com/in/hectorbenitezventura",
     "https://uk.linkedin.com/in/neelabhsinha1",
-    "https://www.linkedin.com/posts/aaron-robinson-iag_its-time-for-my-annual-look-at-airline-saf-activity-7510989773742796800-A_-6",
-    "https://uk.linkedin.com/in/alvaroechavarri",
-    "https://uk.linkedin.com/in/john-maris-b2b9781b",
-    "https://www.linkedin.com/in/nathanhilt",
-    "https://www.linkedin.com/in/sburdman"
+    "https://de.linkedin.com/in/anshums",
+    "https://fi.linkedin.com/company/sprintly-works",
+    "https://www.linkedin.com/in/sburdman",
+    "https://www.linkedin.com/pulse/market-sizing-top-down-vs-bottom-up-when-use-which-kashish-malhotra-tkdjc/"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ネットリサーチ（Webアンケート）を実施し、そのデータを必要に応じて拡大推計する形で推計します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模を把握することは、市場の成長性や参入余地の見極め、売上目標や投資額の妥当性の検証など、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "短期間で実施しやすく、同じ方法で再検証しやすい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "まずは信頼できるデータを集め、定義や対象範囲を整理しながら、複数の情報源を突き合わせて検証するのが基本です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "資料内には出荷量や生産量、事業所数、売上高など、市場規模の推計に直結する指標が数多く掲載されています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これらの公開データを土台にして前提条件を整理すれば、推計の客観的な根拠を明確に示せるようになります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "し、他の情報源と突き合わせることでデータの信頼性をさらに高めることができます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "産業調査を専門とする調査会社の調査データや民間データベースの強みは、市場規模の推計だけでなく、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どの企業やチャネルを対象にしているのか、どのような推計ロジックを用いているのか、単なる二次引用が重なったデータではないか、といった点を確認しなければ、見た目は精密でも「根拠の薄い引用」になってしまいます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の算出方法（専門調査会社に依頼して推計する）",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "自社の課題や目的に合わせた「オーダーメイドの市場規模推計」が可能",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ネットリサーチ（Webアンケート）を用いた市場規模の推計",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この調査手法を用いた市場規模の推計では、主に需要側（消費者・ユーザー起点）のアプローチを活用し、以下のような計算式で市場規模を拡大推計",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step5：複数ソースをクロスチェックする",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その場合は、計算式と仮定を明示して推計します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "出典・対象年・単位・実測値／推定値／仮定の区分",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法｜ヘンザップ梅山",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・トップダウンとボトムアップで推計し、数字を照合する実務",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・数値の根拠・仮定・未確認事項を残す市場規模推計表の作り方",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "仮想A社の企業情報、顧客比率、市場浸透率、売上シナリオ、推計係数はいずれも学習用の仮定です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1．まず市場を定義する｜市場規模推計の出発点",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "推計表には単位・定義・期間・出典を必ず添えます",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模推計では、獲得可能性の異なる3つの市場を分けます",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3．公開統計の正しい使い方｜実在データと推計の境界",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査時に確認する項目は、発表日、対象年、対象商品、販売形態、集計単位、返品・税の扱い、推計方法、資料改訂の有無です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今回の2025年データは経産省の発表と、当該発表を報じた複数の資料を照合しています",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4．トップダウン推計｜大きな市場から絞り込む",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「公的統計を使っているから推計が正しい」とは言えません",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5．ボトムアップ推計｜顧客や販売活動から積み上げる",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この計算で重複注文、キャンセル・返品、値引き、税込・税抜、訪問数とユーザー数の違いを見落とすと過大推計になります",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新規事業の市場規模の調べ方｜TAM・SAM・SOMを推計する8ステップ｜FREE LABO｜新規事業の市場調査・事業開発",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新規事業の市場規模の調べ方｜TAM・SAM・SOMを推計する8ステップ",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、顧客、支払者、提供方法がおおむね決まった段階から、公開統計を使ってTAM・SAM・SOMを推計し、GO・HOLD・STOPの判断材料へ変える手順を解説します",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "対象世帯、集計区分、品目の定義を確認し、単価の参考値や別計算との照合に使います",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "未検証の会話化率や成約率を一つに決めず、保守、基準、上振れの三つを置きます",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どの仮定を検証すれば、保守ケースから基準ケースへ移れるかを決めます",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実際の条件は、事業の投資額、撤退費用、検証期間に合わせて設定します",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "72万円の基準ケースで検証費用を回収できるか",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模推計で起きやすい7つの誤り",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "☐ TAMをトップダウンとボトムアップで照合した",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "トップダウンアプローチは、公的な統計データなど、マクロな数値から市場規模を推計する方法です",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "信頼性の高い大きなデータから始めるため、比較的容易に全体の数値を把握できますが、推計の精度は仮定の置き方によって左右されます",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ボトムアップアプローチは、よりミクロな視点から数値を積み上げて市場規模を推計する方法です",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、市場シェアから逆算して、現実的で挑戦的な売上目標を設定することも可能になります",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "消費者意識の変化、ニーズの発掘とブランド価値の設定、コミュニケーション戦略の検証プロジェクト実績多数",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "人材紹介大手3社転職実績集計結果",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "前提条件の置き方によって結果が大きく変動します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結果を左右する重要なパラメータを見極めること",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "でチャット感覚で市場調査を効率化した事例を見てみてください",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "抽出結果は、次のとおりです",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4. 実証結果から分かることと、追加確認が必要なこと",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "の結果は、公開統計や実測値の代わりではありません",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "※実在する市場統計と仮想ケースの計算を明確に分けます",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば「日本のアパレル市場」と「国内の衣類・服装雑貨BtoC-EC市場」は一致しません",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば基準市場100億円、条件Aに当てはまる割合20%、そのうち実際に提供可能な割合50%なら、対象市場は10億円です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "弱点は、最上位の統計が正しくても、途中で使う顧客比率や到達可能性が弱い仮定なら、結果全体が不確実になることです",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば100万セッション、CVR2%、注文当たり売上2万円の場合、年間注文数は2万件、売上は4億円です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば仮想市場が2023年100億円、2025年121億円であれば、2年間のCAGRは10%です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模推計表の最小項目は、①行ID、②市場定義、③基準年、④基準市場規模、⑤絞り込み条件、⑥適用係数、⑦推計結果、⑧単位、⑨根拠資料、⑩確度、⑪レビュー状況です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "9．仮想アパレルA社のケース｜市場の大きさから投資判断まで",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "［1］経済産業省「令和7年度電子商取引に関する市場調査の結果を取りまとめました」（2026年10月21日）",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "［3］経済産業省「令和6年度電子商取引に関する市場調査の結果を取りまとめました」（2025年8月26日）",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "上振れケースだけで投資が成立する計画は、まだGOではありません",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どの仮定を検証すれば、保守ケースから基準ケースへ移れるかを決めます",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "GO：基準ケースで必要粗利を満たし、供給体制も準備できる",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同時に提供できる上限が5件なら、上振れケースも5件で止まります",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "72万円の基準ケースで検証費用を回収できるか",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、市場規模の基本的な定義から、信頼性の高い調べ方、具体的な算出方法、そして調査結果を事業戦略に活かす方法まで、体系的に解説します",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査結果を活かすための、市場規模の分析と活用方法",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、「日本の飲料市場の規模は年間約",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、経済産業省が実施する「経済構造実態調査」（",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、一般社団法人日本自動車工業会や日本建設業連合会などは、それぞれの業界動向や市場規模に関するデータを定期的に公表しています",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、日本の飲料市場規模を算出する場合、「日本の総人口」",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、ある地域でのカフェの市場規模を算出する場合、「店舗数」",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、「自動車市場」という大きな括りではなく、「国内の軽自動車市場」や「",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、成長市場には積極的な投資を行いシェア獲得を目指し、成熟市場では利益率を重視した戦略をとるなど、データに基づいたメリハリのある戦略を展開することが可能になります",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "会場調査（CLT）とは？メリット・対象・流れ・事例を徹底解説",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索結果の見出しや要約だけで数字を採用しません",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特に自社の商談結果を市場全体へ広げる場合と、未検証の数値を置く場合を区別してください",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "悲観・中位・楽観の3ケースで感度を見る",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "すべての要素を同時に細かく変えるのではなく、結果への影響が大きい導入率や単価などを選び、悲観・中位・楽観の3ケースで比較します",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "計算結果：年間1億2,000万円",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "対象企業数・導入率・年間単価のいずれも計算結果に影響します",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、5%の場合には最初に狙う顧客数が不足するなら、利用の見込みを調べ直すか、対象業種を見直します",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この手法で最も注意すべきは、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "もう一つの落とし穴は、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "● 設問設計による回答バイアスを最小限に抑えたい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "TAM・SAM・SOMを売上目標へ移すときの注意",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "デスクリサーチの方法ー6ステップと情報源・注意点を解説",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これを3年間ずっと続く確定予測として使うのは誤りです",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "10．市場規模分析でよくある失敗",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗①：広い業界統計を自社TAMと呼んでしまう",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗②：SAMやSOMの割合を経験や印象で決め、根拠を残さない",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗④：前年の成長率を将来に機械的に延長する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗⑥：市場規模だけで投資を承認しようとする",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模推計で起きやすい7つの誤り",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調査を有効活用するためには、いくつか注意すべき点があります",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "コンセプトテストとは？商品開発で失敗しないためのアンケート評価と調査手法を徹底解説",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一つの式だけで市場規模を確定すると、その式に含まれる前提の誤りを見つけにくくなります",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調べ方で起きやすい4つの失敗",
-    "url": "https://iri-group.jp/knowledge/knowhow/plan/shijo-kibo-shirabekata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "全体の桁を見誤りにくい反面、掛ける比率の出典が弱いと、計算を重ねるほど根拠が薄くなります",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "BtoCでは、利用者が個人でも支出主体が世帯である商品に注意が必要です",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "精度を高めるために！市場規模調査・算出時の注意点",
-    "url": "https://www.rjc.co.jp/column/262",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "参照するデータの「鮮度」にも注意しましょう",
-    "url": "https://www.rjc.co.jp/column/262",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "また、一つの情報源だけを鵜呑みにせず、複数の機関が発表しているデータを比較する「クロスチェック」も重要です",
-    "url": "https://www.rjc.co.jp/column/262",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
-    "quote": "市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介 - 【公式】| 市場調査・マーケティングリサーチ会社のアスマーク",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3つの算出方法",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "もう1つの方法は、消費者調査を専門とする調査会社に依頼する方法です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この数値は、対象とする製品や地域といった「市場の範囲」のほか、「集計方法（出荷ベースか販売ベースか、あるいはメーカー売上か小売売上か）」や「期間の設定」によって大きく変動します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、マーケティングにおける商品開発とは何かについて、その進め方や活用できるフレームワーク、さらには成功に導くための重要ポイントなどを解説します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "短期間で実施しやすく、同じ方法で再検証しやすい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査データやレポートを活用する際は、製品範囲や地域などの定義、回答の集計方法、輸出入の扱いを必ずチェックしましょう",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "＜関連コラム＞ 市場調査の依頼方法は？相場（費用感）や成功させるためのポイントなど紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
     "quote": "市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "市場規模の調べ方ー情報源・算出方法・活用法を解説",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "公表された市場規模を調べる5ステップ",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "Step1：市場の定義と調査目的を1文にする",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "Step2：キーワードと類義語を洗い出す",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "Step3：公的統計・業界資料・民間レポートを調べる",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "Step4：数字の定義と調査範囲をそろえる",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "Step5：複数ソースをクロスチェックする",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "ボトムアップは、現場に近いデータを積み上げる方法です",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法｜ヘンザップ梅山",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "・調査対象、価格・地域・顧客・販路・期間をそろえた市場定義の方法",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "・前年比成長率、CAGR、感度分析の計算方法",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "『どの顧客に、何を、いくらで、どの方法で販売し、その市場からどの程度の売上を現実的に獲得できるか』という経営判断につなげることです",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "前回の記事：S05「5 Forces分析の進め方を徹底解説」",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "Step5：複数ソースをクロスチェックする",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "3．公開統計の正しい使い方｜実在データと推計の境界",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "その場合は、計算式と仮定を明示して推計します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "調査時に確認する項目は、発表日、対象年、対象商品、販売形態、集計単位、返品・税の扱い、推計方法、資料改訂の有無です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "トップダウンは、信頼できる大きな市場規模を起点に、顧客、価格帯、地域、用途、販路などの条件を順に適用して対象市場を求める方法です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "実務では、①公的統計を選ぶ、②自社が扱わない範囲を除外する、③セグメント比率の根拠を集める、④集計の重複を確認する、⑤仮定値に範囲を持たせる、という手順で行います",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ボトムアップは、実際に販売できる顧客数や訪問数、購入率、購入金額などから、売上を積み上げる方法です",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "出典・対象年・単位・実測値／推定値／仮定の区分",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "7．実務手順｜市場規模分析の9ステップ",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "STEP 1｜意思決定を明確にする",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "STEP 2｜市場の定義を固定する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "STEP 3｜一次資料を収集する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新規事業の市場規模の調べ方｜TAM・SAM・SOMを推計する8ステップ｜FREE LABO｜新規事業の市場調査・事業開発",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新規事業の市場規模の調べ方｜TAM・SAM・SOMを推計する8ステップ",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、顧客、支払者、提供方法がおおむね決まった段階から、公開統計を使ってTAM・SAM・SOMを推計し、GO・HOLD・STOPの判断材料へ変える手順を解説します",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "店舗型事業：商圏人口、世帯数、昼間人口、来店回数",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "仲介型事業：取引件数、流通総額、手数料売上",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "TAM・SAM・SOMを作る8ステップ",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4．TAMを二つの方法で計算する",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "既存市場の年間支出額が直接公表されている場合は、その値を基準にする方法もあります",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "以下は計算方法を示すための完全な架空例です",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "☐ 未確認の仮定と、次に確認する方法を分けた",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模とは？調べ方から算出方法、事業戦略への活用法までマーケティングリサーチ会社が解説 | マーケティングリサーチの電通マクロミルインサイト",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模とは？調べ方から算出方法、事業戦略への活用法までマーケティングリサーチ会社が解説",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、市場規模の基本的な定義から、信頼性の高い調べ方、具体的な算出方法、そして調査結果を事業戦略に活かす方法まで、体系的に解説します",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調べ方！信頼できる情報源を見つける方法",
-    "url": "https://www.dm-insight.jp/column/market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の算出・予測に役立つフレームワーク",
-    "url": "https://www.dm-insight.jp/column/market-size/",
+    "quote": "フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ],
   "一次情報の探し方": [
    {
-    "quote": "しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一次情報に近いデータから順にアプローチし、整理済みのレポートで補完する",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "具体的には、官公庁の公的統計や業界団体のデータで市場の「全体像（総量）」を把握します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "各府省等が公表する統計データ、公表予定、新着情報、調査票項目情報などの各種統計情報を閲覧することが可能です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "総務省統計局、統計研究研修所の共同運営",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "対象とする市場がBtoB分野なのか、モノ（製造業）中心なのか、あるいはサービス産業なのかによって最適な統計は異なります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "自社の調査目的に合致した統計を選択すること",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "たとえ統計データそのものが正確であっても、解釈や読み替えを誤ると、全く別の市場を測定してしまうことになりかねません",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これらは官公庁の統計とは異なる独自の製品カテゴリや用途区分で集計されていることが多いため、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "代表的な業界団体・協会の調査データを下表にまとめました",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生産統計（数字でわかる！見て学ぶ！2026",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "既存の統計データや業界レポートが存在しない新しい市場やニッチなカテゴリ、あるいは自社独自のターゲット定義で市場規模を把握したい場合は、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
     "quote": "しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "最初に確認したいのは、政府統計や各省庁の白書です",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": ": 政府統計をキーワード、分野、作成機関などから探せます",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": ": 生産、出荷、販売、サービスなどの統計を探せます",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "一方で、業界団体の統計は加盟企業のみを対象にしていることがあります",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "その場合は、アンケートやインタビューで一次情報を集めます",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "Step3：公的統計・業界資料・民間レポートを調べる",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "会員企業だけの統計を業界全体の数字として扱っていないか",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します",
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "TAM・SAM・SOMを売上目標へ移すときの注意",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "※実在する市場統計と仮想ケースの計算を明確に分けます",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "デスクリサーチの方法ー6ステップと情報源・注意点を解説",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "でチャット感覚で市場調査を効率化した事例を見てみてください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "金額で示す際は、「どの取引が含まれ、含まれないか」を定義しないと、異なる統計を比較して誤った結論になります",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "企業の売上は会計上の収益認識や返品控除等の基準で集計される一方、市場調査は別の取引額定義を採用することがあります",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "特に重要なのは、最初に見つけた公的統計を、そのまま自社のTAMと呼ばないことです",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "「衣類・服装雑貨等」全体の統計には、A社が扱わない低価格帯や顧客層も入っています",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "3．公開統計の正しい使い方｜実在データと推計の境界",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ただし、統計値は丸められているため、掲載値から再計算した増減率には小さな差が生じることがあります",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "実務では、①公的統計を選ぶ、②自社が扱わない範囲を除外する、③セグメント比率の根拠を集める、④集計の重複を確認する、⑤仮定値に範囲を持たせる、という手順で行います",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "抽出結果は、次のとおりです",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "弱点は、最上位の統計が正しくても、途中で使う顧客比率や到達可能性が弱い仮定なら、結果全体が不確実になることです",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "「公的統計を使っているから推計が正しい」とは言えません",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "4. 実証結果から分かることと、追加確認が必要なこと",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "経産省のEC調査、政府統計、業界団体の公開資料、各社の決算資料、自社POS・ECデータなどを集め、資料名・公表日・対象期間・URL・担当者を残します",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "計算式・単位・統計の範囲、顧客セグメント重複、経営計画との整合をレビューします",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "quote": "の結果は、公開統計や実測値の代わりではありません",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "M01｜国内衣類・服装雑貨等BtoC-EC｜2025年｜28,941億円｜経産省公表・二次資料照合｜確認済みの公開市場統計",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗①：広い業界統計を自社TAMと呼んでしまう",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する",
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、顧客、支払者、提供方法がおおむね決まった段階から、公開統計を使ってTAM・SAM・SOMを推計し、GO・HOLD・STOPの判断材料へ変える手順を解説します",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この一文が書けなければ、統計を探す前に対象定義へ戻ります",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "地域、年齢、世帯構成、就業状態などを確認する場合は、総務省統計局の",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "業種の範囲が曖昧な場合は、e-Statの",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、統計表が作られた時点と産業分類の改定年は必ず確認します",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "現在の分類名を、そのまま過去の統計表へ当てはめられるとは限りません",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個人向け商品の支出水準を確認する場合は、総務省統計局の",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "店舗や地域サービスでは、e-Statの",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "構造を把握する統計と、直近の動きを見る統計を分けて使います",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統計名が分からない場合は、各府省の統計を横断検索できる",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「中小企業向け」のような広い表現ではなく、「特定地域にあり、従業者数が一定範囲で、現在の提供方式を利用できる事業所」のように、統計表で抽出できる条件へ変換します",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「e-Statで見た」だけでは、後から同じ数字を再現できません",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "トップダウンでは、既存統計の市場全体から対象割合を絞ります",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実在する企業、顧客、FREE LABOの案件、公的統計の実数とは関係ありません",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "調査年や産業分類の違う統計を無条件で接続する",
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "quote": "を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e2a14cab0bfc9baefda58994fa7d5eee",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ]
  },
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-06T18:51:19.121245+00:00"
 }

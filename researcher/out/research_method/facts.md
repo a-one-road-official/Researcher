@@ -3661,6 +3661,9 @@
   - 「The intelligence community developed a family of structured analytic techniques to counter these problems. Several are simple enough to use on small commercial cases.」（https://www.osintblog.com/blog/cognitive-biases-investigations）
   - 「The value is in writing them down. Assumptions that seem obvious in your head often look thin on paper. Typical examples in OSINT work include "this account is controlled by the person named in its profile", "the photo was taken where the caption says" and "the company's registered address is where it operates".」（https://www.osintblog.com/blog/cognitive-biases-investigations）
 - 検索結果の抜粋：
+  - 「Analysis of Competing Hypotheses (ACH) — by Luiz H. S. Brandão — Jun 17, 2026 · Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most diagnostically refutes. The hypothesis with the least disconfirming evidence — not the most supporting evidence — is the most 」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
+  - 「Mastering the Analysis of Competing Hypotheses (ACH): A ... — Jun 20, 2025 · What is the Analysis of Competing Hypotheses? The Analysis of Competing Hypotheses (ACH) is a structured analytical technique that helps individuals and teams evaluate multiple possible explanations for an event, trend, or problem – all at the same time. Rather than focusing on finding evidence that supports a single favo」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
+  - 「The “analysis of competing hypotheses” in intelligence ... — Mar 21, 2019 · The intelligence community uses “structured analytic techniques” to help analysts think critically and avoid cognitive bias. However, little evidence exists of how techniques are applied and whether they are effective. We examined the use of the analysis of competing hypotheses (ACH)—a technique designed to reduce “confirm」（https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550）
   - 「競合する仮説の分析｜幻想の近現代 - note（ノート） — 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 現実的なスケールでのACHはアナリストを混乱・困惑させる。 ゲルダ―はACHに代わって 仮説マッピング を提案しました。 以上が情報分析の一つの方法である競合する仮説の分析ACHです。 最後まで目を通していただきありがとうございました。」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -5734,6 +5737,15 @@
   - 「, familiarity with these techniques will help you make sense of incomplete or contradictory information, generate hypotheses, and manage uncertainty. This guide will go through why structured analytic techniques are important for intelligence analysts, how to select SATs that are useful for you, and some resources on SATs, many of which are free.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「Using the AIMS framework is a terrific way to address the above and to conceptualise the structure of your product:」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「Structured Analytic Techniques are procedures that force analysts to externalise reasoning steps that, in unstructured analysis, remain implicit and therefore unauditable. SATs do three things simultaneously: they」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「ACH cannot manufacture hypotheses the team has not considered — its output is bounded by the hypothesis set at step 1. It is also evidence-quality-blind: low-reliability evidence weighted equally with high-reliability evidence produces noise. Mitigation: gate ACH on a prior source-reliability audit (see」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Source Verification Framework」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Procedure (10–15 assumption step):」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Red Teaming is methodologically demanding: it requires genuine cultural-linguistic fluency in the adversary’s frame. A Red Team staffed with analysts who only know the adversary through Western secondary sources will mirror-image inside the exercise and produce a Red Team report that recapitulates the friendly consensus in adversary costume. See」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Stephen Marrin and others have argued that SATs are ritually performed without changing the underlying judgment, producing the」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+- 突き合わせ・推定：
+  - 「Strategic estimates; long-horizon planning」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
 - 失敗・落とし穴：
   - 「More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.」（https://www.rand.org/pubs/research_reports/RR1408.html）
   - 「The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
@@ -5743,6 +5755,13 @@
   - 「5 Common Mistakes When Using Structured Analytic Techniques」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「Many SATs are meant for longer-term products that can go into more detail, but others can be quite useful. For instance, your team could develop indicators that you update as new reporting comes in. Additionally, fast-paced environments are more prone to cognitive biases, so trying to implement shortened versions of SATs like」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「Familiarising yourself with your own cognitive biases and critically evaluating your sources.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「(1999) and Kahneman-Tversky’s heuristics-and-biases program, is that unstructured expert judgment is systematically biased in identifiable ways (see」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Cognitive Biases in Intelligence Analysis」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「). SATs are procedural countermeasures whose efficacy derives precisely from their structural friction — they slow the analyst down at the moments where bias operates fastest.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「, making suppressed disconfirming evidence visible. It also reframes the analytic question from “what is the most likely hypothesis” to “which hypothesis is least disconfirmed” — a small linguistic shift that interrupts confirmation bias.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「§ Confirmation Bias and」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Hypothesis-set selection bias.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
 - 実例：
   - 「In some cases, however, key assumptions and the logic behind specific techniques were not transparent.」（https://www.rand.org/pubs/research_reports/RR1408.html）
   - 「The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
@@ -5754,8 +5773,7 @@
   - 「). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「8.2 Case 2: Grey Dynamics’ Key Assumptions Check」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-- 突き合わせ・推定：記載なし（読んだ33頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ33頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
 - 文脈：突き合わせ
@@ -7495,11 +7513,11 @@
 
 ## 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）（reconcile downloaded statistical tables with official summary totals data validation）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
 
 ## 決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先（which companies publish income statement in kessan koukoku large company EDINET alternative sources）
 - 文脈：企業

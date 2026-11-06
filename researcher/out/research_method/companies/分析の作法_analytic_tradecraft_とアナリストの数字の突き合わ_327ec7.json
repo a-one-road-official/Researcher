@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-06T18:56:12.078775+00:00",
+ "researched_at": "2026-11-06T23:32:39.926308+00:00",
  "evidence": {
   "SNS・note（Facebook・検索結果の抜粋）": [
    {
@@ -50,6 +50,106 @@
    {
     "quote": "日本テクニカルアナリスト協会 - Facebook日本証券アナリスト協会 - 企業分析ワークショップ開催レポート!! 数...【公開講座】明治大学リバティアカデミー - 投資のタイミング（買い時...Tools for Advancing Analytic Tradecraft Intelligence analysis ...The nine analytic tradecraft... - Army University Press【公開講座】明治大学リバティアカデミー - 投資のタイミング（買い時... Aug 4, 2026 · 当講座では証券 投資に関する基礎知識とテクニカル分析の基本的な考 え方を学んで頂きます。 受講修了者には、第1次資格試験受験資格が与えられ ます。 合格し協会正会員になりますとCMTA®の資格が与え られます。 7月24日に開催されたワークショップでは、企",
     "url": "https://www.facebook.com/ntaapage/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Strategic estimates; long-horizon planning",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.",
+    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". SATs are not the only way of dealing with cognitive bias, but they are developed specifically for analysts to deal with them in their daily work. Using SATs, you can catch issues and reflect on your analysis well before you start drafting the product. It’s also easier to get feedback from peers or supervisors.",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "When collaborating with others, it’s important not to inadvertently create Information Bubbles, Confirmation Bias, Echo Chambers and Group Think. SATs go a long way in tackling cognitive biases, but ensuring you’re aware of alternative narratives via other analysts will add another filter against such biases (",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5 Common Mistakes When Using Structured Analytic Techniques",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Many SATs are meant for longer-term products that can go into more detail, but others can be quite useful. For instance, your team could develop indicators that you update as new reporting comes in. Additionally, fast-paced environments are more prone to cognitive biases, so trying to implement shortened versions of SATs like",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Familiarising yourself with your own cognitive biases and critically evaluating your sources.",
+    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(1999) and Kahneman-Tversky’s heuristics-and-biases program, is that unstructured expert judgment is systematically biased in identifiable ways (see",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Cognitive Biases in Intelligence Analysis",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). SATs are procedural countermeasures whose efficacy derives precisely from their structural friction — they slow the analyst down at the moments where bias operates fastest.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", making suppressed disconfirming evidence visible. It also reframes the analytic question from “what is the most likely hypothesis” to “which hypothesis is least disconfirmed” — a small linguistic shift that interrupts confirmation bias.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "§ Confirmation Bias and",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Hypothesis-set selection bias.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -100,6 +200,60 @@
    {
     "quote": "Using the AIMS framework is a terrific way to address the above and to conceptualise the structure of your product:",
     "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Structured Analytic Techniques are procedures that force analysts to externalise reasoning steps that, in unstructured analysis, remain implicit and therefore unauditable. SATs do three things simultaneously: they",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ACH cannot manufacture hypotheses the team has not considered — its output is bounded by the hypothesis set at step 1. It is also evidence-quality-blind: low-reliability evidence weighted equally with high-reliability evidence produces noise. Mitigation: gate ACH on a prior source-reliability audit (see",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Source Verification Framework",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Procedure (10–15 assumption step):",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Red Teaming is methodologically demanding: it requires genuine cultural-linguistic fluency in the adversary’s frame. A Red Team staffed with analysts who only know the adversary through Western secondary sources will mirror-image inside the exercise and produce a Red Team report that recapitulates the friendly consensus in adversary costume. See",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Stephen Marrin and others have argued that SATs are ritually performed without changing the underlying judgment, producing the",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SATs operate over whatever hypotheses make it into step 1; they cannot surface what no one has considered.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Professional Development Framework",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -166,56 +320,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.",
-    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even",
-    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". SATs are not the only way of dealing with cognitive bias, but they are developed specifically for analysts to deal with them in their daily work. Using SATs, you can catch issues and reflect on your analysis well before you start drafting the product. It’s also easier to get feedback from peers or supervisors.",
-    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (",
-    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "When collaborating with others, it’s important not to inadvertently create Information Bubbles, Confirmation Bias, Echo Chambers and Group Think. SATs go a long way in tackling cognitive biases, but ensuring you’re aware of alternative narratives via other analysts will add another filter against such biases (",
-    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5 Common Mistakes When Using Structured Analytic Techniques",
-    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Many SATs are meant for longer-term products that can go into more detail, but others can be quite useful. For instance, your team could develop indicators that you update as new reporting comes in. Additionally, fast-paced environments are more prone to cognitive biases, so trying to implement shortened versions of SATs like",
-    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Familiarising yourself with your own cognitive biases and critically evaluating your sources.",
-    "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
     "quote": "Intelligence Analysis Tradecraft 101: What? And So What?The Accountability Mandate: Why Corporate Intelligence ...The Value of ICD 203 Analytical Tradecraft Standards in the ...NNFC Analytic Tradecraft Checklist | Alan H. - LinkedInOne of the key skills in analytic tradecraft is understanding ...データから意思決定へ:新人アナリストのための必須分析手法 The intelligence analysis mission is to synthesize. Analysts: 1. Interpret",
@@ -264,6 +368,12 @@
     "url": "https://www.linkedin.com/feed/update/urn:li:activity:7057091798598307840/",
     "pass": 3,
     "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Value of ICD 203 Analytical Tradecraft Standards in the ... Oct 20, 2023 · Analytic Tradecraft Standards: ICD 203 outlines nine specific tradecraft standards, ranging from properly describing source credibility to appropriately incorporating visuals.",
+    "url": "https://pe.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    }
   ]
  },
@@ -281,12 +391,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/datadata______/n/nfbc9c3099485",
+    "url": "https://note.com/jolly_cosmos153/n/n60ed5b1d37a4",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tasuto11/n/n1cb586dcac3f",
+    "url": "https://note.com/datadata______/n/nfbc9c3099485",
     "status": "ok",
     "method": "http"
    },
@@ -296,107 +406,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/jolly_cosmos153/n/n60ed5b1d37a4",
+    "url": "https://note.com/tasuto11/n/n1cb586dcac3f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ku2t/n/n21d9f29d2d01",
+    "url": "https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shinu/n/n567c6705ec18",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dataaicareer.com/data-analysis-pitfalls/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ku2t/n/n73300b122872",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://metricgate.com/blogs/ja/common-mistakes-in-mediation-analysis/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/abc-analysis",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cm-net.co.jp/blog/data-analysis/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://developers.google.com/machine-learning/guides/data-traps/analysis-traps?hl=ja",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jftc.go.jp/cprc/events/bbl/index_files/271th-bbl.pdf",
-    "status": "http_403",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.veriserve.co.jp/helloqualityworld/media/20260410001/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/crm-data-analysis",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://johokiko.co.jp/publishing/BA080601.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hsdl.org/document/20945",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.nationalacademies.org/read/13040/chapter/5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods",
+    "url": "https://www.treadstone71.com/training/structured-analytic-techniques",
     "status": "ok",
     "method": "http"
    },
@@ -404,6 +429,16 @@
     "url": "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.linkedin.com/pulse/intelligence-analysis-tradecraft-101-what-so-thomas-carey",
@@ -434,6 +469,11 @@
     "url": "https://www.facebook.com/ArmyUniversityPress/posts/the-nine-analytic-tradecraft-standards-used-by-the-intelligence-community-could-/4063771446976152/",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -443,68 +483,35 @@
    "results": [
     "https://note.com/shinu/n/n92a701e0f992",
     "https://note.com/loyal_rabbit9679/n/n9350b3ed7995",
-    "https://note.com/datadata______/n/nfbc9c3099485",
-    "https://note.com/tasuto11/n/n1cb586dcac3f",
-    "https://note.com/tatsuya_sabato/n/n1843fddaa6ef",
     "https://note.com/jolly_cosmos153/n/n60ed5b1d37a4",
+    "https://note.com/datadata______/n/nfbc9c3099485",
+    "https://note.com/tatsuya_sabato/n/n1843fddaa6ef",
+    "https://note.com/tasuto11/n/n1cb586dcac3f",
     "https://note.com/tatsuya_sabato/n/n6cb897a3b0f2"
    ]
   },
   {
    "query": "分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例） note",
-   "results": [
-    "https://note.com/ku2t/n/n21d9f29d2d01",
-    "https://note.com/shinu/n/n567c6705ec18",
-    "https://dataaicareer.com/data-analysis-pitfalls/",
-    "https://note.com/ku2t/n/n73300b122872",
-    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
-    "https://metricgate.com/blogs/ja/common-mistakes-in-mediation-analysis/",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://note.com/bunsekiya_tech/n/nd098d6f8c603",
-    "https://lab.ludashi.com/evaluation/article/59"
-   ]
+   "results": []
   },
   {
    "query": "分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例） やり方",
-   "results": [
-    "https://dataaicareer.com/data-analysis-pitfalls/",
-    "https://metricgate.com/blogs/ja/common-mistakes-in-mediation-analysis/",
-    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
-    "https://data-viz-lab.com/abc-analysis",
-    "https://note.com/ku2t/n/n21d9f29d2d01",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://www.cm-net.co.jp/blog/data-analysis/",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://developers.google.com/machine-learning/guides/data-traps/analysis-traps?hl=ja"
-   ]
+   "results": []
   },
   {
    "query": "分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例） 事例",
-   "results": [
-    "https://www.jftc.go.jp/cprc/events/bbl/index_files/271th-bbl.pdf",
-    "https://metricgate.com/blogs/ja/common-mistakes-in-mediation-analysis/",
-    "https://dataaicareer.com/data-analysis-pitfalls/",
-    "https://note.com/ku2t/n/n21d9f29d2d01",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://www.veriserve.co.jp/helloqualityworld/media/20260410001/",
-    "https://data-viz-lab.com/crm-data-analysis",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://johokiko.co.jp/publishing/BA080601.pdf"
-   ]
+   "results": []
   },
   {
    "query": "analytic tradecraft structured analytic techniques equity research cross check valuation methods",
    "results": [
-    "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "https://www.rand.org/pubs/research_reports/RR1408.html",
-    "https://www.hsdl.org/document/20945",
-    "https://www.nationalacademies.org/read/13040/chapter/5",
-    "https://daloopa.com/blog/analyst-best-practices/equity-research-valuation-methods",
+    "https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/",
+    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "https://www.treadstone71.com/training/structured-analytic-techniques",
     "https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/",
-    "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "https://www.youtube.com/watch?v=PtYWVzY2Ves",
-    "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
-    "https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/"
+    "https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf",
+    "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/238609/"
    ]
   },
   {
@@ -515,8 +522,8 @@
     "https://note.com/datadata______/n/nfbc9c3099485",
     "https://note.com/tatsuya_sabato/n/n1843fddaa6ef",
     "https://note.com/tatsuya_sabato/n/n6cb897a3b0f2",
-    "https://note.com/ara_ara12345/n/n94f08e225b25",
-    "https://note.com/jolly_cosmos153/n/n60ed5b1d37a4"
+    "https://note.com/jolly_cosmos153/n/n60ed5b1d37a4",
+    "https://note.com/ara_ara12345/n/n94f08e225b25"
    ]
   },
   {
@@ -557,61 +564,147 @@
   },
   {
    "query": "分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例） note 社長",
-   "results": [
-    "https://note.com/ku2t/n/n21d9f29d2d01",
-    "https://note.com/ku2t/n/n73300b122872",
-    "https://note.com/shinu/n/n567c6705ec18",
-    "https://dataaicareer.com/data-analysis-pitfalls/",
-    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
-    "https://note.com/bunsekiya_tech/n/nd098d6f8c603",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.jftc.go.jp/cprc/events/bbl/index_files/271th-bbl.pdf"
-   ]
+   "results": []
   },
   {
    "query": "分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例） X 投稿",
-   "results": [
-    "https://dataaicareer.com/data-analysis-pitfalls/",
-    "https://developers.google.com/machine-learning/guides/data-traps/analysis-traps?hl=ja",
-    "https://hybrid-analysis.com/sample/8e04d6fa10f00c1156d860013ba07d5e3e337f420b8f663f01fc5c904c44babb/5c0f94bd7ca3e1729514a743",
-    "https://sqripts.com/2023/03/14/39063/",
-    "https://note.com/ku2t/n/n73300b122872",
-    "https://metricgate.com/blogs/ja/common-mistakes-in-multiple-imputation/",
-    "https://webtan.impress.co.jp/e/2023/08/03/44909",
-    "https://wanilablog.com/ab%E3%83%86%E3%82%B9%E3%83%88%E5%A4%B1%E6%95%97%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B10%E9%81%B8%EF%BD%9C%E3%83%9E%E3%83%BC%E3%82%B1%E3%82%BF%E3%83%BC%E5%BF%85%E8%A6%8B%E3%81%AE%E3%83%81%E3%82%A7/"
-   ]
+   "results": []
   },
   {
    "query": "analytic tradecraft structured analytic techniques equity research cross check valuation methods site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/kris-lee-6499a5116_traderaftworks-expert-intelligence-made-activity-7510517942669799424-Dc8V",
-    "https://pl.linkedin.com/in/thanke",
-    "https://www.linkedin.com/jobs/view/competitive-bid-strategist-at-lockheed-martin-4458017255",
-    "https://www.linkedin.com/in/shannalesmeister",
-    "https://www.linkedin.com/in/justen-carter",
-    "https://www.linkedin.com/in/jay-dunne-549a1114",
-    "https://www.linkedin.com/in/brianvmohr",
-    "https://www.linkedin.com/in/tiffany-saade",
-    "https://www.linkedin.com/in/nikolaus-murano-aa976853",
-    "https://uk.linkedin.com/in/rachelegilman"
+    "https://www.linkedin.com/posts/justen-carter_a-tradecraft-primer-structured-analytic-activity-7034153080182972416-Kj3I",
+    "https://www.linkedin.com/posts/jdamienscott_intelligenceanalysis-tradecraft-structuredanalytictechniques-activity-7487337848400998400-nWlu",
+    "https://pe.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
+    "https://pe.linkedin.com/pulse/valuation-techniques-private-equity-finance-directors-comprehensive-nimoe",
+    "https://hk.linkedin.com/posts/ole-donner_cti-intelligence-ai-activity-7029002208327168000-bJoJ",
+    "https://lk.linkedin.com/posts/ole-donner_nnfc-analytic-tradecraft-checklist-activity-7057202033828777984-QXcy",
+    "https://co.linkedin.com/posts/danny-pronk-b334b21ab_a-guide-to-structured-analytic-techniques-activity-7060639888332730368-sy-1",
+    "https://www.linkedin.com/top-content/finance/investment-banking-strategies/equity-research-techniques/"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ33頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ33頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ19頁・検索12回）"
  },
  "new_this_run": {
-  "SNS・note（Facebook・検索結果の抜粋）": [
+  "突き合わせ・推定": [
    {
-    "quote": "日本テクニカルアナリスト協会 - Facebook日本証券アナリスト協会 - 企業分析ワークショップ開催レポート!! 数...【公開講座】明治大学リバティアカデミー - 投資のタイミング（買い時...Tools for Advancing Analytic Tradecraft Intelligence analysis ...The nine analytic tradecraft... - Army University Press【公開講座】明治大学リバティアカデミー - 投資のタイミング（買い時... Aug 4, 2026 · 当講座では証券 投資に関する基礎知識とテクニカル分析の基本的な考 え方を学んで頂きます。 受講修了者には、第1次資格試験受験資格が与えられ ます。 合格し協会正会員になりますとCMTA®の資格が与え られます。 7月24日に開催されたワークショップでは、企",
-    "url": "https://www.facebook.com/ntaapage/",
+    "quote": "Strategic estimates; long-horizon planning",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "(1999) and Kahneman-Tversky’s heuristics-and-biases program, is that unstructured expert judgment is systematically biased in identifiable ways (see",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Cognitive Biases in Intelligence Analysis",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). SATs are procedural countermeasures whose efficacy derives precisely from their structural friction — they slow the analyst down at the moments where bias operates fastest.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", making suppressed disconfirming evidence visible. It also reframes the analytic question from “what is the most likely hypothesis” to “which hypothesis is least disconfirmed” — a small linguistic shift that interrupts confirmation bias.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "§ Confirmation Bias and",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Hypothesis-set selection bias.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Structured Analytic Techniques are procedures that force analysts to externalise reasoning steps that, in unstructured analysis, remain implicit and therefore unauditable. SATs do three things simultaneously: they",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ACH cannot manufacture hypotheses the team has not considered — its output is bounded by the hypothesis set at step 1. It is also evidence-quality-blind: low-reliability evidence weighted equally with high-reliability evidence produces noise. Mitigation: gate ACH on a prior source-reliability audit (see",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Source Verification Framework",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Procedure (10–15 assumption step):",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Red Teaming is methodologically demanding: it requires genuine cultural-linguistic fluency in the adversary’s frame. A Red Team staffed with analysts who only know the adversary through Western secondary sources will mirror-image inside the exercise and produce a Red Team report that recapitulates the friendly consensus in adversary costume. See",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Stephen Marrin and others have argued that SATs are ritually performed without changing the underlying judgment, producing the",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SATs operate over whatever hypotheses make it into step 1; they cannot surface what no one has considered.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Professional Development Framework",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "The Value of ICD 203 Analytical Tradecraft Standards in the ... Oct 20, 2023 · Analytic Tradecraft Standards: ICD 203 outlines nine specific tradecraft standards, ranging from properly describing source credibility to appropriately incorporating visuals.",
+    "url": "https://pe.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ]
  },
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-06T00:01:01.344615+00:00"
 }

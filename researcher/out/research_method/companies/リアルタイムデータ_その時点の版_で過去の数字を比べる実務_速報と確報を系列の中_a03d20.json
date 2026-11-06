@@ -8,7 +8,7 @@
  ],
  "context": "改訂",
  "kind": "market",
- "researched_at": "2026-11-06T18:51:06.655138+00:00",
+ "researched_at": "2026-11-06T23:27:16.779420+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -44,9 +44,9 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/rhapsody01w/n/n23927ad87544",
+    "url": "https://app.testgorilla.com/preview/825639?language=ja-jp",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://note.com/merci_game/n/n7881051a1c0e",
@@ -54,12 +54,7 @@
     "method": "http"
    },
    {
-    "url": "https://app.testgorilla.com/preview/825639?language=ja-jp",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/sennai",
+    "url": "https://note.com/ai_komon/n/n3b9f43e79d18",
     "status": "ok",
     "method": "http"
    },
@@ -69,14 +64,24 @@
     "method": "browser"
    },
    {
-    "url": "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/9/31/14736",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://note.com/rhapsody01w/n/n23927ad87544",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://www.digitalreactor.net/blog/time-series-cross-validation/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://bellcurve.jp/statistics/course/18948.html",
@@ -89,27 +94,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.kmds.jp/pc_kowaza/03_compare/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://lefixea.jp/articles/timesequence_comparison2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://learn.microsoft.com/ja-jp/answers/questions/4966378/question-4966378",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://sukyojuku.com/joho/joho1-data-yosou/",
+    "url": "https://www.saison-technology.com/column/data-utilization-batch-vs-realtime/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://primenumber.com/blog/excel_data_over/",
     "status": "ok",
     "method": "http"
    },
@@ -124,17 +124,17 @@
     "method": "http"
    },
    {
-    "url": "https://futana-e.esnet.ed.jp/json/blogs/saveLikeJson/1/21/4537",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://www.stat-search.boj.or.jp/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.google.com/sorry/index?continue=https://www.listendata.com/2019/09/credit-risk-vintage-analysis.html&q=EgQUKNdhGITEuNcGIi1xanupwQcsovl2BlCM5XO58gUBtnGGViAK1fqhkh6zQU1Iji9nX4twG4tfbWgyAnJSWgFDYPCm0pfv89-M_AE",
+    "url": "https://note.com/health_evidence/n/n4811211fe41f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.listendata.com/2019/09/credit-risk-vintage-analysis.html&q=EgQNU-lvGL7FudcGIi2oFLhZQuJRagSzEbscj54Xm6zgqAoPmB99Yz7WudejXvMw0iyW7g79JscJxqoyAnJSWgFDYKWSs-mvyZjsIg",
     "status": "http_429",
     "method": "http"
    },
@@ -185,29 +185,29 @@
    "query": "リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない） note",
    "results": [
     "https://www.youtube.com/watch?v=7nIz4yO2ODA",
-    "https://note.com/rhapsody01w/n/n23927ad87544",
-    "https://note.com/merci_game/n/n7881051a1c0e",
     "https://app.testgorilla.com/preview/825639?language=ja-jp",
-    "https://note.com/sennai",
+    "https://note.com/merci_game/n/n7881051a1c0e",
+    "https://note.com/ai_komon/n/n3b9f43e79d18",
     "https://lab.ludashi.com/evaluation/article/59",
-    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/9/31/14736",
-    "https://note.com/konya_torakichi/n/n129763a12a73",
+    "https://note.com/rhapsody01w/n/n23927ad87544",
     "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
-    "https://note.com/honest_walrus629/n/nb559f01108e2"
+    "https://koryou-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/11/3494",
+    "https://learn.microsoft.com/ja-jp/answers/questions/4966378/question-4966378",
+    "https://hukuhuku.co.jp/blog/data-fetch-recipes/fetch-27-preliminary-revised"
    ]
   },
   {
    "query": "リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない） やり方",
    "results": [
     "https://www.digitalreactor.net/blog/time-series-cross-validation/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
     "https://bellcurve.jp/statistics/course/18948.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.kmds.jp/pc_kowaza/03_compare/",
     "https://lefixea.jp/articles/timesequence_comparison2",
+    "https://www.saison-technology.com/column/data-utilization-batch-vs-realtime/",
     "https://learn.microsoft.com/ja-jp/answers/questions/4966378/question-4966378",
+    "https://nicico.nan.ac/solutions/16299",
     "https://qiita.com/s_katagiri/items/7f06ca85f851e0a50516",
-    "https://www.siteengine.co.jp/",
-    "https://sukyojuku.com/joho1-data-seikei/",
     "https://services.connecto-data.com/media/System-Development/a60"
    ]
   },
@@ -216,13 +216,13 @@
    "results": [
     "https://app.testgorilla.com/preview/825639?language=ja-jp",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://sukyojuku.com/joho/joho1-data-yosou/",
     "https://www.esri.cao.go.jp/jp/sna/menu.html",
+    "https://primenumber.com/blog/excel_data_over/",
     "https://webtan.impress.co.jp/e/2012/10/25/13955/page/1",
     "https://www.mlit.go.jp/kankocho/tokei_hakusyo/shohidoko.html",
-    "https://futana-e.esnet.ed.jp/json/blogs/saveLikeJson/1/21/4537",
     "https://www.stat-search.boj.or.jp/",
     "https://note.com/health_evidence/n/n4811211fe41f",
+    "https://seijo-e.city-iwata.ed.jp/json/blogs/saveLikeJson/1/5/3860",
     "https://services.connecto-data.com/media/System-Development/a60"
    ]
   },
@@ -246,11 +246,11 @@
    "results": [
     "https://note.com/gigathlete_inc/n/n71dd8ab9623d",
     "https://note.com/nyanco_lab/n/n3f29045de2a8",
-    "https://note.com/porters_mktg/n/n34b33a430490",
     "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
+    "https://note.com/porters_mktg/n/n34b33a430490",
     "https://note.com/okmylife/n/neac9c5d6b94a",
-    "https://note.com/fuku_gyo/n/nc55eaed99939",
-    "https://note.com/hollow14/n/n2388e2bd9a35"
+    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
+    "https://note.com/chokuzen_note/n/n71a3010f5ca5"
    ]
   },
   {
@@ -273,7 +273,7 @@
     "https://jp.linkedin.com/pulse/power-real-time-data-predictive-ai-demand-generation-insideup-2xjmc?tl=ja",
     "https://jp.linkedin.com/pulse/leveraging-amazon-redshift-real-time-data-analytics-hite-cissp-vrpze?tl=ja",
     "https://jp.linkedin.com/pulse/how-enterprises-use-databricks-real-time-data-insights-uswcf?tl=ja",
-    "https://jp.linkedin.com/pulse/real-time-data-streaming-pulse-modern-data-driven-mohan-menon-mba-lko8c?tl=ja",
+    "https://jp.linkedin.com/pulse/scalable-balance-tracking-custodians-better-alternative-node-based-wiyuc?tl=ja",
     "https://jp.linkedin.com/pulse/ai-fly-real-time-data-streaming-from-apache-kafka-live-gautam-goswami-kuy5c?tl=ja"
    ]
   },
@@ -281,9 +281,9 @@
    "query": "site:facebook.com リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない）",
    "results": [
     "https://www.facebook.com/imakarasuugaku/videos/時系列データとは時系列データとは特定の対象を複数地点にわたって観察したデータです例えばある企業の売上を2010年から2020年まで並べたようなデータです時系列デ/693265602106958/",
+    "https://www.facebook.com/17841453237443689/videos/829202422485750/",
     "https://www.facebook.com/kagakujyoho/photos/12月刊行まるっと解説-pythonケモインフォマティクス-データ収集から予測生成まで難しい数式は避けつつ手を動かしながら実務で使えるケモインフォマティクスの基/1433858272078786/",
     "https://www.facebook.com/abashiri.kondo/photos/数字は正直だ2025年実施の国勢調査の結果速報値が公表されたので気になって調べてみたところ案の定だった過去30年の国勢調査を5年ごとに比較すると直近の佐賀県武雄/27378525575118302/",
-    "https://www.facebook.com/17841453237443689/videos/829202422485750/",
     "https://www.facebook.com/NewsPicksStudios/videos/見たい数字を経営の意思決定に/4023735337763871/",
     "https://www.facebook.com/DagikEarth/videos/新たに過去の天気図コンテンツを公開しましたウェブ版-赤外線雲画像と天気図httpdagikorgdatatenkizudow_cloudshtml2001年から/735433467125281/",
     "https://www.facebook.com/ryohei.sato.50/posts/数字的には過去実績値並見た目も申し分無し/28543471181976852/"
@@ -294,14 +294,14 @@
    "results": [
     "https://www.youtube.com/watch?v=7nIz4yO2ODA",
     "https://note.com/merci_game/n/n7881051a1c0e",
-    "https://note.com/rhapsody01w/n/n23927ad87544",
     "https://app.testgorilla.com/preview/825639?language=ja-jp",
-    "https://note.com/sennai",
+    "https://note.com/rhapsody01w/n/n23927ad87544",
     "https://lab.ludashi.com/evaluation/article/59",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://note.com/akari_startupmag/n/n5e4f4de009db",
+    "https://note.com/momiji1/n/n3217ab514f81",
     "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html",
-    "https://note.com/nyanco_lab/n/n3f29045de2a8"
+    "https://iyo-h.esnet.ed.jp/plugin/blogs/show/56/111/5670",
+    "https://jp.linkedin.com/pulse/real-time-vs-historical-data-when-use-each-chidimma-ezeigwe-pmp-mb9wc?tl=ja"
    ]
   },
   {
@@ -310,11 +310,11 @@
     "https://note.com/aikachan_ai/n/nb85992f9c0b6",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://support.yahoo-net.jp/SccRealtime/s/article/H000007994",
-    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/9/31/14785",
+    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14797",
+    "https://ds-b.jp/dsmagazine/what-is-twitter/",
     "https://lefixea.jp/articles/timesequence_comparison2",
     "https://www.nikkei.com/article/DGXZQOUD233LN0T20C25A9000000/",
-    "https://shift-portal.softwaretest.jp/sns/sns_timeline.cgi",
-    "https://itano-ss.tokushima-ec.ed.jp/json/blogs/saveLikeJson/1/115/2020",
+    "https://japanexchangegroup.github.io/J-Quants-Tutorial/",
     "https://services.connecto-data.com/media/System-Development/a60",
     "https://hukuhuku.co.jp/blog/data-fetch-recipes/fetch-27-preliminary-revised"
    ]
@@ -325,13 +325,13 @@
     "https://www.linkedin.com/posts/niketa-agarwal-frm-72803aa_creditrisk-riskmanagement-portfoliomanagement-activity-7467109969465733120-sibZ",
     "https://www.linkedin.com/posts/prateek964_creditrisk-datascience-riskmanagement-activity-7508036270472867840-CMuL",
     "https://www.linkedin.com/pulse/credit-risk-scorecard-monitoring-tracking-shailendra",
-    "https://www.linkedin.com/posts/prateek964_creditrisk-statistics-riskmanagement-activity-7519623864889503744-6uuE",
     "https://www.linkedin.com/posts/suhail-bashir_creditrisk-probabilityofdefault-ttcvspit-activity-7378803936117522432-YayC",
-    "https://uk.linkedin.com/in/quamar-aziz",
+    "https://www.linkedin.com/posts/prateek964_creditrisk-statistics-riskmanagement-activity-7519623864889503744-6uuE",
     "https://www.linkedin.com/posts/ysaditya_ks-value-the-heartbeat-of-credit-risk-activity-7377403123625095168-9YDv",
+    "https://www.linkedin.com/posts/vintage-investment-partners_%D7%A4%D7%A8%D7%A7-%D7%91%D7%95%D7%A0%D7%95%D7%A1-%D7%9E%D7%A9%D7%91%D7%A8-%D7%94%D7%A9%D7%A7%D7%A2%D7%95%D7%AA-%D7%90%D7%95-%D7%94%D7%96%D7%93%D7%9E%D7%A0%D7%95%D7%AA-%D7%97%D7%93%D7%A9%D7%94-%D7%9E%D7%91%D7%98-activity-7387129332177117184-wGbM",
     "https://www.linkedin.com/posts/chirag-shah-a3ba55a3_how-to-validate-a-credit-scorecard-model-activity-7519457427591884800-y9tL",
-    "https://in.linkedin.com/in/dishashindestatistician",
-    "https://www.linkedin.com/posts/creditvigil_creditrisk-digitallending-modelmonitoring-activity-7440805015956574209-FM0Y"
+    "https://www.linkedin.com/posts/ayush-arora-5ba1b51a4_creditrisk-survivalanalysis-machinelearning-activity-7415710675915755522-0N3l",
+    "https://uk.linkedin.com/in/quamar-aziz"
    ]
   }
  ],
@@ -343,6 +343,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-06T18:51:06.655138+00:00"
 }
