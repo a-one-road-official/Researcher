@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・98品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・101品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5396,14 +5396,14 @@
 
 ## 人手不足で受注・仕事を断った企業の割合 製造業（日本商工会議所・中小企業白書・日本政策金融公庫の一次の設問・DIでない「断った」の割合・4-48）（share of SMEs that declined orders due to labor shortage Japan manufacturing survey）
 - 文脈：穴埋め・一次0件
-- 痛み・損（深さの印）：記載なし（読んだ24頁・検索18回）
-- 事業所数・社数：記載なし（読んだ24頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ24頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ24頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ24頁・検索18回）
-- 生産能力・設備：記載なし（読んだ24頁・検索18回）
-- 10年推移：記載なし（読んだ24頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ24頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ23頁・検索18回）
+- 事業所数・社数：記載なし（読んだ23頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ23頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ23頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ23頁・検索18回）
+- 生産能力・設備：記載なし（読んだ23頁・検索18回）
+- 10年推移：記載なし（読んだ23頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ23頁・検索18回）
 
 ## 日銀短観 雇用人員判断DI 製造業 規模別（大企業・中堅・中小）の年次推移（%ポイント・割合と混ぜない・4-48）（BOJ Tankan employment conditions DI manufacturing by size time series）
 - 文脈：比べる相手・一次
@@ -5434,14 +5434,164 @@
 
 ## 人手不足による設備の停止・稼働率の低下 製造業 調査（記事1か所の40→50%の1社例でなく調査の割合）（manufacturing equipment idle due to labor shortage survey Japan）
 - 文脈：穴埋め・出典1か所
-- 痛み・損（深さの印）：記載なし（読んだ46頁・検索18回）
-- 事業所数・社数：記載なし（読んだ46頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ46頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ46頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ46頁・検索18回）
-- 生産能力・設備：記載なし（読んだ46頁・検索18回）
-- 10年推移：記載なし（読んだ46頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ46頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 工業統計表 産業別統計表 実績2016年の産業細分類（めっき2464・熱処理2465・プレス2452・金型2691・製缶板金2446）の従業者1人あたり製造品出荷額等・付加価値額（同じ工業統計の続き2016→2019年の4点目・段差の後の最初の年・4-26）（Census of Manufacture 2017 survey detailed industry per employee shipments value added）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「工業統計調査 確報 平成29年確報 産業編 2-08 【４．産業別統計表（産業細分類別）】従業者３０人以上の事業所に関する統計表（事業所数、事業所敷地面積及び１日当たり水源別用水量） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「【４．産業別統計表（産業細分類別）】従業者３０人以上の事業所に関する統計表（事業所数、事業所敷地面積及び１日当たり水源別用水量）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「工業統計調査 確報 平成29年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+- 社員数・平均社員数：
+  - 「工業統計調査 確報 平成29年確報 産業編 2-08 【４．産業別統計表（産業細分類別）】従業者３０人以上の事業所に関する統計表（事業所数、事業所敷地面積及び１日当たり水源別用水量） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「【４．産業別統計表（産業細分類別）】従業者３０人以上の事業所に関する統計表（事業所数、事業所敷地面積及び１日当たり水源別用水量）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「【1122】絹・人絹織物業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「【1142】絹・人絹織物機械染色業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「【2183】人工骨材製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「【3251】娯楽用具・がん具製造業（人形を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「【3252】人形製造業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「工業統計調査 確報 平成29年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「【1122】絹・人絹織物業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「【1142】絹・人絹織物機械染色業」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+- 受注金額・加工賃収入：
+  - 「平成29年調査より、調査日を12月31日から翌年6月1日に変更していることから、平成29年調査においては、事業所数、従業者数については平成29年6月1日現在、現金給与総額、製造品出荷額等などの経理事項については平成28年1月～12月の実績を調査しています」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「工業統計調査 確報 平成29年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+- 1人あたり・1社あたり金額：
+  - 「工業統計調査 確報 平成29年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+- 10年推移：
+  - 「2018-08-29 16:00」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=6%2C7%2C8%2C9%2C10&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325918）
+  - 「<2021年実績> 以降」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2020年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2019年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<2018年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成30(2018)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成29(2017)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成29(2017)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「<平成28(2016)年実績>」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「平成27(2015)年」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「最終更新日：2022.12.26」（https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html）
+  - 「2018-08-29 16:00」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&second=1&statdisp_id=0003325911）
+- 痛み・損（深さの印）：記載なし（読んだ22頁・検索18回）
+- 生産能力・設備：記載なし（読んだ22頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ22頁・検索18回）
+
+## 金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32）（Japan metal die mold industry value added decline 2017-2019 reason）
+- 文脈：全体・統計
+- 事業所数・社数：
+  - 「事業所数の推移をみると、1990年の1万3,115」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「図－３ 金型製造業の出荷額、事業所数の推移」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「図－４ 金型製造業の事業所数構成比 （従業者規模別）」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「業統計調査」では、製造業全体の従業者数19人以下の事業所数の割合は、80.2％」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+- 社員数・平均社員数：
+  - 「（注）従業者4人以上の事業所のデータ」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「海外生産比率は、現地法人売上高／（現地法人売上高＋国内法人売上高）×100で算出している」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「業の1事業所当たりの従業者数をみると、2017年」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「は12.1人となっている」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「従業者19人以下の事業」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「労働生産性の指標である従業者1人当たり粗付加」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「（注）1 1994年は従業員3人以下の規模集計されていないため、同年の1～3人は経済産業省の推計値を用いた」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「1事業所当たりの従業者数は、1企業当たりの従業者数よりも少なくなることに留意が必要」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「業統計調査」では、製造業全体の従業者数19人以下の事業所数の割合は、80.2％」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「うが製造業全体より1人当たり粗付加価値額が高」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「図－５ 従業者 1 人当たりの粗付加価値額推移（資本金 3 億円未満の企業）」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「（注）1 従業者4人以上の事業所に関するデータ」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「調査対象は、経済産業省「工業統計調査」をもとに把握した全国の従業員20人以上300人未満の中小製造業53,303社から、層」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「代表者 天満 幸治 従業者数 118人」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+- 受注金額・加工賃収入：
+  - 「31.6％と、この2種類で日本の金型出荷額の約7割」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「5,953億円、 「自動車部品」は8兆8,075億円、」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「「民生用電気機械器具」は8,520億円、 「民生用電」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「子機械器具」は6,074億円であった」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「図－１ 金型の出荷額の構成比（種類別）」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「9,575億円のピークに達した後、2008年までは」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「1兆6,000億円前後で推移した（図－3）」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「により大幅に出荷額が減少し、2010年には1兆874」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「億円と、ピークの1991年に比べて約56％の水準」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「2017年の出荷額は1兆5,258億円と、ピーク時の」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「海外生産比率は、現地法人売上高／（現地法人売上高＋国内法人売上高）×100で算出している」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「経済センサス（2015年）で出荷額をみ」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「ると、品目別の金型は1兆4,294億円、金型製造業は1兆3,768億円と、その差は526億円と小さい」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「資本金3億円未満の金型製造業について、」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「価値額をみると、2006年に1,014万円を記録した」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+- 1人あたり・1社あたり金額：
+  - 「業の1事業所当たりの従業者数をみると、2017年」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「労働生産性の指標である従業者1人当たり粗付加」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「価値額をみると、2006年に1,014万円を記録した」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「1事業所当たりの従業者数は、1企業当たりの従業者数よりも少なくなることに留意が必要」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「後、リーマン・ショック後の2010年には734万円」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「うが製造業全体より1人当たり粗付加価値額が高」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「図－５ 従業者 1 人当たりの粗付加価値額推移（資本金 3 億円未満の企業）」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「2 資本金「300万円未満」 「300万円以上1,000万円未満」 「1,000万円以上3,000万円未満」 「3,000万円以上5,000万円未満」 「5,000万」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「3 粗付加価値額＝製造品出荷額等－ （推計酒税、たばこ税、揮発油税及び地方揮発油税額＋推計消費税額） －原材料使用額等」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「資本金 7,000万円 URL http://www.umix.co.jp」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「資本金 8,500万円 URL https://www.yamanaka-eng.co.jp」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「資本金 7,800万円 URL http://ibki-inc.com」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+- 生産能力・設備：
+  - 「図－８ IoT に関連した設備投資の実施状況」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「資料：日本政策金融公庫総合研究所「第116回中小製造業設備投資動向調査（特別調査） 」 （2017年）」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「本調査は日本政策金融公庫総合研究所が「第116回中小製造業設備投資動向調査」の付帯調査として行ったもの」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「（注）1 IoTに関連した設備投資の実施状況について、 「すでに実施した」または「実施していないが、予定はある」と回答した企業に」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+- 10年推移：
+  - 「日本公庫総研レポート No.2019-4」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「日本公庫総研レポート No.2019-4 ２ ０ １ 9年11月」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「日本公庫総研レポート No. 2019 -4」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「2019 年 11 月 28 日」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「主な顧客である自動車メーカーや電機メーカーなどの国内生産額が減少し、金型の需要が伸び悩む一」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「方、輸入量は増加し、海外の金型メーカーとの競争が激しくなっている」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「経営課題として、受注単価の下落、受注数量の減少、最終製品の市場の縮小、人材育成と技能承継の四」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「日本金型工業会が2018年に行っ」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「10％と比べると、 「電機用」の割合が減少した一」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「方、 「自動車用」の割合が増加しており、自動車」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「経済産業省『生産動態統計年報』で2018年」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「資料：経済産業省「工業統計調査」 （2017年）」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「日本公庫総研レポート No.2019-4 1」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「2019 年 11 月」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「金型も電機産業向けの生産比率が減少し、自動車」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+- 人手と仕事の差：
+  - 「海外の企業に外注し、最終的に金型の出来を左右」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「化・納期短縮、生産量の増加、既存製品の品質向」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「⿝⿝海外工場を含めた最適生産体制を構築し、短納期、低コストを実現」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「これを短納期、低コストでこなせる規模のプラス」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「金型で培った短納期で低コストの生産体制と、先」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「試作用の金型を短納期で設計、製造し」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「型のニーズに対して、的確な品質、コスト、納期」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「複雑な造形物を短納期で製造できるため、試作」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「造すれば納期が短縮し、製造コストの削減にもつ」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「受注をいったん集約し、顧客の求める精度や納期」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+  - 「ト、納期で応えられる体制を築くことで、効率化」（https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ26頁・検索18回）
+
+## 工業統計表 産業細分類×従業者規模 実績2016〜2019年（めっき・熱処理・プレス・金型の規模の内側の1人あたり・構成変化と分ける・4-25・4-31）（Census of Manufacture detailed industry by employee size 2016-2019 per employee）
+- 文脈：全体・統計
+- 痛み・損（深さの印）：記載なし（読んだ15頁・検索18回）
+- 事業所数・社数：記載なし（読んだ15頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ15頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ15頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ15頁・検索18回）
+- 生産能力・設備：記載なし（読んだ15頁・検索18回）
+- 10年推移：記載なし（読んだ15頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ15頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

@@ -4933,55 +4933,66 @@
 
 ## バーティカルAI（vertical AI）
 - 文脈：1 AI・半導体 ③バーティカルAI
+- 痛み・損（深さの印）：
+  - 「日本経済新聞が日本総合研究所と人手不足で生じた機会損失を試算したところ、その規模は年16兆円に達した」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「人手不足倒産、1万3500社が「予備軍」 飲食や介護に急増リスク」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「4〜9月の企業倒産4％増、13年ぶり高水準 人手不足理由が過去最多」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「1〜8月の人手不足倒産、過去最多の333件 TSR調べ」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「Key drivers include enterprise AI adoption, the Society 5.0 framework, healthcare digitization, labor shortages pushing automation, expanding domestic LLMs, and government investment in foundation-model research and infrastructure.」（https://www.imarcgroup.com/japan-generative-ai-market）
 - 顧客（金を払う側）：
-  - 「企業での利用（2030年まで）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「中小企業を含むあらゆる産業や行政の現場での導入、暗黙知の多い現場での競争力あるAIシステムの創出・輸出、防衛等の戦略性の高い分野での官需主導の開発・活用を進め、AIを軸とした経営改革（AX）の促進やAI主権の戦略的な確保を戦略的な目標としています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・各産業ドメインにおけるAIロボット導入投資」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「・ハードとソフトの統合力に加えて、導入後の運用力が競争力を左」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「右するフィジカルAIは、工場等の現場データやノウハウ、高い品」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「これは、特定企業だけが考えている問題ではありません」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「「一つのActionを企業として実行してよいか」」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「つまり、あらかじめ企業側で定められた条件について、」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「これは国家の話であると同時に、AIを業務に組み込み始めた企業すべてに通じる論点です」（https://www.nsight.jp/blog/vertical-ai-japan-strategy/）
-  - 「攻撃者が狙うのは守りの固い大企業の本丸ではなく、そこにつながる取引先——2次・3次・4次のサプライヤーです」（https://www.nsight.jp/blog/vertical-ai-japan-strategy/）
-  - 「国内でも、大手自動車メーカーが取引先システムへの攻撃を起点に国内全工場を停止した事例が公表されていますし、2025年には飲料・通販・食品など生活に身近な企業への攻撃が相次ぎました」（https://www.nsight.jp/blog/vertical-ai-japan-strategy/）
-  - 「課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「政策パッケージには、中小企業を含めたバーティカルAIの導入支援と「地域AX」の推進、政府による率先導入、AISIの機能強化などが入っています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「自治体は、行政の現場でのバーティカルAIの導入と、地域の中小企業のAXの支援で、この流れに直接参加できます」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「データ・モデル・アプリを垂直統合した「現場で使えるAI」であるバーティカルAIを、重点領域ごとの戦略で産業や行政に広げ、AIの導入で人手不足を解消し日本社会全体のAXを実現する計画です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「人手が足りず、受注があっても現場が回らない」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「結論：国のAI戦略は「現場を持つ企業」への追い風」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「国のAI戦略は、大企業やIT企業だけのものではありません」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「あわせて、ロボット政策も「導入しながら改善する」方式へ切り替えました」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「あわせて計画は、AIを前提に意思決定や業務の進め方を見直す「AX（AIトランスフォーメーション）」を、中小企業や地方を含めて推進するとしています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「「技術開発・実証を先行させ、その後に導入を促す」という従来のアプローチから転換」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「新方針では需要側と供給側を一体で支援し、導入、現場データの取得、AIモデルの改善、他分野への横展開という循環を高速で回します」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「現場を持つ企業は支援の受け手であると同時に、日本のAIを育てる担い手にもなれる」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「出資企業は合計44社で、ファナック、安川電機、SGホールディングスなどが参画企業に名を連ねます」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「中小企業等を対象としたAX促進、業務効率化やDXの推進支援【新規】：経産省 約3,746億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「バーティカルAIの導入・開発利用の促進【新規】：内閣府 約1,009億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「AIロボティクス戦略は、ロボット導入を進める18分野を選定しています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「戦略は導入しやすさの評価軸に、環境の安定性、タスクの複雑性、失敗等の許容性を挙げています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「中小企業向けAX支援は令和9年度の新規事業として要求されています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「設備投資の計画と賃上げの方針を、セットで準備しておくと安心です」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
 - 顧客の顧客（発注元が求めること）：
-  - 「＊1 一定のセキュリティ基準に適合するIoT製品を認証する制度」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「データセンターの国内配置を進めるにあたっては、グリーン変革（GX）戦略地域制度の活用などが模索されていますが、安定的な電力供給の確保と脱炭素化の両立は容易な道のりではありません」（https://newspicks.com/news/17011823/body/）
-  - 「Pricing & Procurement Services」（https://www.imarcgroup.com/japan-generative-ai-market）
-  - 「Procurement Strategy Development」（https://www.imarcgroup.com/japan-generative-ai-market）
-  - 「Procurement & Supply Chain Support」（https://www.imarcgroup.com/japan-generative-ai-market）
-  - 「The Cabinet Office's Society 5.0 vision and the AI Strategy 2025 program prioritize generative AI as foundational technology. Public-sector procurement and university research grants are channeling structured demand toward domestic vendors and consortia.」（https://www.imarcgroup.com/japan-generative-ai-market）
-  - 「Society 5.0 prioritizes generative AI as foundational national technology, channeling government procurement, university research grants, and structured demand toward domestic vendors, accelerating Japan's competitive positioning in foundation models and applied AI.」（https://www.imarcgroup.com/japan-generative-ai-market）
-  - 「(7), 29–35. Summary: Applies transaction cost theory to software procurement, mapping the fit of package purchase, custom development, in-house development, and outsourcing along two axes: uniqueness of the work and uncertainty of requirements.」（https://www.mign.io/en/articles/58226/）
-  - 「・エージェント型AIを含めた、政府によるバーティカルAIの率先導入、所要の制度改革や技術標準・認証の整備を一体的に推進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・AIのリスクへの包括的対応（AISI※の機能強化、サイバー攻撃対応を含めたAI安全性・セキュリティや信頼性に係る評価手法・基盤の開発・提供、サイバー関連データの集約、セキュアなAI利用環境の検討・具体化、偽・誤情報対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「し、重要なコンポーネントの開発・製造能力やOEM機能を強化」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「・AIロボットのOEMや重要コンポーネントの開発・製造機能」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「スタートアップからの発展を念頭に、多用途ロボットOEMの育成を推進」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「・ティーチングカスタマーやOEM等と協働し、工場、物流、小売、防災、介護、家庭、廃炉等への導入を念頭にモックアップ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「性認証制度や安全規制の在り方をAISIと連携しながら検討」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「令和9年度のAI関連予算概算要求では、令和8年度当初予算（約5,027億円）を基盤としつつ、さらなる投資拡大に向けた大規模な予算要求が行われています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「令和9年度の概算要求のうち、中小の製造業・物流業と関係が深い主な項目は次のとおりです」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「令和９年度概算要求：金額明示の主要事業計 約２兆1,156億円 ＋ 事項要求（複数件）」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「出典：令和9年度ＡＩ関連予算要求について」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「中小企業向けAX支援は令和9年度の新規事業として要求されています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「第Ⅱ期人工知能基本計画は中小企業や地方を含むAX推進を明記し、令和9年度概算要求には中小企業向けの新規事業（約3,746億円）が盛り込まれています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「令和9年度には中小企業のAX支援やフィジカルAIの開発に大型予算が要求され、政策は「導入しながら磨く」方向へ転換しました」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「内閣府：令和9年度ＡＩ関連予算要求について（アクセス日：2026年10月8日）」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「し、重要なコンポーネントの開発・製造能力やOEM機能を強化」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「・AIロボットのOEMや重要コンポーネントの開発・製造機能」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「スタートアップからの発展を念頭に、多用途ロボットOEMの育成を推進」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「・ティーチングカスタマーやOEM等と協働し、工場、物流、小売、防災、介護、家庭、廃炉等への導入を念頭にモックアップ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「性認証制度や安全規制の在り方をAISIと連携しながら検討」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「グカスタマー、OEM、ユー」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
 - 顧客の競合（奪いに来る側）：
-  - 「‐ 世界の自動車販売台数の約25％のシェア、」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「車両販売台数の約25％のシェアを獲得」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「海外、特に米国や中国の事例からは、特定のビジネス課題へのAIの適用方法、データ活用戦略、そして導入におけるリスク管理とROI（投資対効果）の考え方を学ぶことができます」（https://media.tcdigital.jp/ai-knowledge-flow/topics/ai-119/）
-  - 「北米は、2024年に約40%という大きなシェアを占め、世界の垂直型AI市場をリードした」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
-  - 「また、同地域では米国が市場を主導している」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
-  - 「さらに、米国では垂直型人工知能の開発・研究が大きな支援を受けている」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
-  - 「中国、日本、インドをはじめとするアジア太平洋地域の国々では、急速な工業化を背景に垂直型AIの導入が進むと予測される」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
-  - 「例えば、中国のスマートシティ構想では、都市計画、資源管理、交通最適化にAIが活用されている」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
-  - 「に取り組む銀行は、欧州で定められた基準への対応を容易に進められる」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
-  - 「Recursion PharmaceuticalsとPath AIは、垂直型AI業界で5%を超える市場シェアを占めている」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
-  - 「垂直型AIにおける機械学習セグメントの市場シェアはどの程度ですか？」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
-  - 「並ぶ第三極として世界シェア3割超の獲得を通じて、2040年に」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「シェア約7割を有し、モーター、減速機等の主要コンポーネントでも高い競争力を持」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「 現状、我が国は、産業用ロボット市場で世界シェア約7割を有し、モーター、減速機、センサー、蓄電池等の主要部品でも高い」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
+  - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「想定外の大地震から免震建物を守る、清水建設が安価なダンパー開発」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「並ぶ第三極として世界シェア3割超の獲得を通じて、2040年に」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「シェア約7割を有し、モーター、減速機等の主要コンポーネントでも高い競争力を持」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「一方、サービスロボット市場（約2.8兆円）での世界シェアは１割強にとどまる」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「 現状、我が国は、産業用ロボット市場で世界シェア約7割を有し、モーター、減速機、センサー、蓄電池等の主要部品でも高い」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「して、世界シェア3割超の獲得」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「・かつて我が国半導体産業は世界シェアの約50％を誇ったが、日米貿易摩擦、日の丸」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「・半導体設計は米国、製造は台湾、製造装置は日本・米国・欧州、部素材は日本に強」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「 かつて我が国半導体産業は世界シェア約50％を誇ったが、日米貿易摩擦や国内のデジタル化低迷等を背景に凋落し、現在は10％」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「・海外市場開拓支援（ASEANをはじめとするインド太平洋地域における我が国政策の普及展開と一体となっ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「・海外では自動運転関連の巨額投資が進み、米国Waymo社等、多数のプレイヤーがモジュール型」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「・米国Tesla社、英国Wayve社、中国Momenta社ではE2E(*3）開発が加速」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「における我が国企業のシェアは約25％(*5)、日本の輸出額の約16 ％(*5)(*6) 、日本の全就労人口の約」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
 - 自社の競合（商社・代理店・仲介）：
+  - 「・近年、自律行動型AI(Agentic AI)の発展もあり、産業や行政でのAI利活用の機運」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「 自律行動型AI(Agentic AI)の社会実装やＡＩを軸とした経営改革（AX)の進展により、想定以上の付加価値の創出が期待されている」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/shiryou3.pdf）
+  - 「AI Agent ↔ AI Agent (A2A =AI to AI)」（https://note.com/muarata/n/n563662390fa8）
+  - 「Vertical AI Agentが現実の仕事を担うようになれば、AI同士が交渉、発注、決済、などを実行する世界が見えてきます」（https://note.com/muarata/n/n563662390fa8）
   - 「推論能力の高度化やマルチモーダル化、さらにはAI自身がコーディングを行う技術の実用化により、目的達成のために自ら計画・実行・検証・修正を繰り返す「自律行動型AI（Agentic AI）」が急速に伸長しています」（https://newspicks.com/news/17011823/body/）
   - 「We recently commissioned multiple market research reports from IMARC, and the insights we received were invaluable. The depth of analysis, accuracy of data, and actionable recommendations have greatly enhanced our strategic decision-making.」（https://www.imarcgroup.com/japan-generative-ai-market）
   - 「General-Purpose AI, Vertical AI Agents, or Build In-House? How to Decide What to Adopt in the AI Era, Based on the Latest Research and Cases | mign, Inc.」（https://www.mign.io/en/articles/58226/）
@@ -4993,75 +5004,72 @@
   - 「What, exactly, separates general-purpose AI from vertical AI agents? The two can be distinguished along five dimensions: the market they target, the value they deliver, the knowledge built into them, the unit of use, and the pricing logic.」（https://www.mign.io/en/articles/58226/）
   - 「: General-purpose AI is priced mainly per user (per seat), while vertical AI agents are shifting toward pricing by volume of work processed or by outcome. This reflects the fact that vertical products are going after the labor budget. For example, vertical products in customer service charge “per inquiry resolved”.」（https://www.mign.io/en/articles/58226/）
   - 「: Writing responses to frequently asked questions. Brynjolfsson et al. (2025) showed that introducing AI in a customer support department raised issues resolved per hour by 14% on average and by 34% for less experienced agents. For example, drafting replies to routine questions about return procedures or opening hours, which the agent checks and sends.」（https://www.mign.io/en/articles/58226/）
-  - 「Work Suited to Vertical AI Agents」（https://www.mign.io/en/articles/58226/）
-  - 「: Using the product’s mechanisms for turning corrections and evaluations from its expert users into product improvements. The customer support AI that Brynjolfsson et al. (2025) analyzed was likewise a mechanism that used the records of experienced agents to give every agent the same know-how.」（https://www.mign.io/en/articles/58226/）
-  - 「In this model, you use a foundation model’s API and build your own mechanisms: a system that retrieves and references your own data (RAG), additional training of the model (fine-tuning), or an agent that chains multiple processing steps (Lewis et al., 2020; Bommasani et al., 2021).」（https://www.mign.io/en/articles/58226/）
-  - 「Only work that passes all five tests in favor of building in-house becomes a candidate for an in-house build. If even one test points to an off-the-shelf product, treat that as a warning about the risk of building and consider off-the-shelf options (general-purpose AI or vertical AI agents). The capability test in particular holds a veto that overrides the results of the other four.」（https://www.mign.io/en/articles/58226/）
 - 政治（法・予算・規制）：
-  - 「①国内投資支援としてAI基盤の整備・充実、重点領域の研究開発・実証、公的機関の保有情報の提供等による領域データの創出、②需要創出として中小企業も含めた導入支援と地域AXの推進、規制緩和や官需主導の初期需要創出、制度・規制の見直し、AISIの機能強化などAIリスクへの包括的対応、③立地競争力強化としてAI実装人材の育成と中小企業への伴走支援、研究開発人材の確保、責任あるアジャイルガバナンス、AIインフラの整備・強化、④国際連携として同志国・グローバルサウスとの協働や広島AIプロセスの推進を進めます」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・政府や公的機関の保有情報の提供や先端大型研究施設等を活用した領域データの創出の推進」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・重点領域における規制緩和等による需要創出」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・エージェント型AI 等の技術進展への対応、社会実装の推進の観点からの制度や規制の見直しを先導（弁護士業務や医師による画像読影等におけるAI活用の促進、AI活用医療機器の評価に必要な手法の検討・体制強化など）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「、規制緩和・官需主導の初期需要創出、制度・規制の見直し（弁護士業務、医師の画像読影、AI活用医療機器など）、」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・戦略的重要性：製造業等の国内データホルダーにとって、産業競争力や経済安全保障に係」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「て、産業競争力や経済安全保障」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「米中間選挙で民主圧勝、「青い波」がAIブームに冷や水か 規制強化の公算」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「本クラスターでは、医療、製造、金融、法律といった多岐にわたる分野で、どのようにバーティカルAIが導入され、具体的な成果を上げているのかを詳しく解説し、読者の皆様が自身のビジネスにおけるAI活用の可能性を探る手助けをします」（https://media.tcdigital.jp/ai-knowledge-flow/topics/ai-119/）
-  - 「汎用AI（General AI）が広範なタスクに対応するのに対し、バーティカルAIは医療、金融、製造、法律といった特定のドメインに深くコミットし、その分野固有のデータセット、専門知識、規制、慣習を学習することで、圧倒的な精度と実用性を実現します」（https://media.tcdigital.jp/ai-knowledge-flow/topics/ai-119/）
-  - 「セキュリティの確保された政府・地方公共団体のAX/…」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「政策パッケージには、中小企業を含めたバーティカルAIの導入支援と「地域AX」の推進、政府による率先導入、AISIの機能強化などが入っています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「（政府の文章そのまま）」→「」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・政府による率先導入と制度改革による初期需要創出」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「市場性・公共性・戦略性の観点から重点領域を定めて領域別戦略を策定し、官民で集中投資すること、政府調達や制度改革で初期需要を喚起すること、そして領域別の取組を横連携で高度化・大規模化することです」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「：①の「政府や公的機関の保有情報の提供」の流れに合わせ、行政データを整えて地元企業のAI開発に生かせるようにする」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「令和9年度のAI関連予算概算要求では、令和8年度当初予算（約5,027億円）を基盤としつつ、さらなる投資拡大に向けた大規模な予算要求が行われています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「令和9年度AI関連予算の要点」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「ステップ3 補助金・支援策の情報を追う」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「政府は、AI競争の主戦場が「データの量」から「現場での統合力・運用力」へ移ったと捉えています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「日本のAI政策の土台は、AI法（人工知能関連技術の研究開発及び活用の推進に関する法律）です」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「令和7年12月23日には、初の「人工知能基本計画」が閣議決定されています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「計画は当面毎年変更する方針で、令和8年7月には「第Ⅱ期人工知能基本計画」が閣議決定されました」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「出典：令和9年度ＡＩ関連予算要求について」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「今後の予算編成で金額が変わる可能性があり、個別事業の公募時期や要件も資料には記載がありませんので、ご注意ください」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「補助金の審査で足下の賃上げ状況も評価する仕組みへの見直し」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「令和9年度には中小企業のAX支援やフィジカルAIの開発に大型予算が要求され、政策は「導入しながら磨く」方向へ転換しました」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「は、予算の成立を待たずに今日から始められます」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「内閣府：初の「人工知能基本計画」を閣議決定しました（公開日：2026年2月6日）（アクセス日：2026年10月8日）」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「内閣府：人工知能関連技術の研究開発及び活用の推進に関する法律（ＡＩ法）（アクセス日：2026年10月8日）」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
 - 経済（規模・価格・為替）：
-  - 「富士通、Uvanceの軸足を汎用型から業種特化AIへ 5年で売上2.4倍目指す」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
-  - 「は、国内市場が2030年に約3兆円との予測を示したうえで、2030年に世界で5兆円以上のバーティカルAI市場の獲得を目指すとしています」（https://digital-supporter.net/mirai-ai/seichou17/yougo-vertical-ai.html）
-  - 「バーティカルAIとは｜官民投資ロードマップの目標5兆円・投資額23.1兆円・領域特化型AIの政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「バーティカルAIとは｜領域特化型AIで2030年に内外5兆円の市場獲得とAXを目指す」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「官民投資ロードマップは、2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円を獲得し、産業や行政の現場でAIを軸とした経営改革（AX）を進めるとしました」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「2030年に内外で少なくとも5兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「2040年度までに23.1兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「2040年度までに222.0兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「国内のバーティカルAI市場は2024年に約1兆円で、2030年には約3兆円になる見通しです」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「目標は、2030年に世界のバーティカルAI市場33兆円のうち、内外で少なくとも5兆円を獲得することです」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「官民投資額は2040年度までに23.1兆円、経済波及効果は222.0兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「目標 ― バーティカルAIで2030年に内外で少なくとも5兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「官民投資の具体像 ― 投資額23.1兆円・経済波及効果222.0兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円の市場を獲得し、エコシステム全体でAI主権を戦略的に確保することを目指します」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「注：2024年の国内バーティカルAI市場は約1兆円、2030年には約3兆円と見通し」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「少なくとも5兆円」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「2030年に世界のバーティカル市場33兆円のうち、内外で少なくとも5兆円の市場を獲得することが目標です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・2024年の国内バーティカルAI市場は約1兆円で、2030年には約3兆円になる見通し」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「国内のバーティカルAI市場は2024年に約1兆円で、2030年には約3兆円になる見通しで、フィジカルAIに先行して市場が発現しています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「令和9年度のAI関連予算概算要求では、令和8年度当初予算（約5,027億円）を基盤としつつ、さらなる投資拡大に向けた大規模な予算要求が行われています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「中小企業等を対象としたAX促進、業務効率化やDXの推進支援【新規】：経産省 約3,746億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「バーティカルAIの導入・開発利用の促進【新規】：内閣府 約1,009億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「AIロボット・フィジカルAIを見据えたマルチモーダル基盤モデルの開発：経産省 約8,964億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「AIロボティクスの中核拠点（CoE）の創設【新規】：経産省 約1,333億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「「マナビDX」の整備、DXを推進する実践人材の育成など：経産省 約28億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「令和９年度概算要求：金額明示の主要事業計 約２兆1,156億円 ＋ 事項要求（複数件）」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「第Ⅱ期人工知能基本計画は中小企業や地方を含むAX推進を明記し、令和9年度概算要求には中小企業向けの新規事業（約3,746億円）が盛り込まれています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「人手不足が奪った年16兆円の商機 需要刺激だけで成長できない現実 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「・16兆円の内訳で目立つ業種は」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「日本経済新聞が日本総合研究所と人手不足で生じた機会損失を試算したところ、その規模は年16兆円に達した」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
 - 社会（人・担い手）：
-  - 「・規制緩和、中小企業補助金、AI実装人材創出等による導入促進の円滑化」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・先端研究開発の担い手となる多様な開発人材の育成・確保」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「設計開発支援を強化するとともに設計人材を育成」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「・人手不足に直面する我が国の供給力を維持し、力強い成長」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「ワーク、人材等への誘発効果、更にユーザー産業において、省人化のみならず、」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「ティカルAI導入、データや人材を含めたAI基盤投資」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「※先端人材、モデルやエージェント、オープンウェイトモデ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「Ⅲ-4 人材育成」（https://digital-supporter.net/mirai-ai/seichou17/yougo-vertical-ai.html）
-  - 「⚫ AIロボティクス実装を通じた産業競争力の強化や構造的人手不足などの社会課題の解決の実現のため、経済安全保障上の観点から、ア」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf）
-  - 「⚫ DXが進まない１つの要因として、日本では85.7%の企業がDX人材不足を感じている（米国は22.6%）」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf）
-  - 「ている」企業割合が急速に増加しており、企業ニーズに人材育成が追い付いていない状況」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf）
-  - 「⚫ 「土台」としての国家試験と、先端的・実践的な民間学習サービスをＩＰＡにおいて検討している「デジタル人材スキルプラット」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf）
-  - 「⚫ 自身の目標に向けてスキルアップを続けるデジタル人材が一層活躍できる環境整備が必要」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf）
-  - 「課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「投資促進に向けた課題 ― AI実装人材・データ・計算資源とAIリスク」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・AI実装人材の創出による導入の円滑化、」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「フィジカルAIで人手不足を解消する方法｜中小製造業のAI-Ready化5ステップ - フィデックス株式会社」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「フィジカルAIで人手不足を解消する方法｜中小製造業のAI-Ready化5ステップ」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「本記事では、国のAI戦略の全体像を押さえたうえで、自社の人手不足対策にどうつなげるか、何から始めればよいかを公的資料に基づいて整理します」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「なぜフィジカルAIが人手不足対策の本命なのか」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「ステップ5 社内の人材を育てる」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「現場を持つ企業は支援の受け手であると同時に、日本のAIを育てる担い手にもなれる」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「「マナビDX」の整備、DXを推進する実践人材の育成など：経産省 約28億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「人手不足が奪った年16兆円の商機 需要刺激だけで成長できない現実 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「日本経済新聞が日本総合研究所と人手不足で生じた機会損失を試算したところ、その規模は年16兆円に達した」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「AIが仕分ける日本の雇用 NTT、34万人の業務「5年後に半分代替」」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「人手不足倒産、1万3500社が「予備軍」 飲食や介護に急増リスク」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「ホテルも宅配も間引き営業 「人手不足が奪った年16兆円」どう計算？」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「人手不足が奪った年16兆円の商機 需要刺激だけで成長できない現実」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
+  - 「人手不足が進み、人工知能（AI）も発達する中で日本の労働環境が大きく様変わりしている」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
 - 技術（新しい技術・実証）：
-  - 「バーティカルAIとは｜領域特化型AIで2030年に内外5兆円の市場獲得とAXを目指す」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「バーティカルAI（領域特化型AI）は、特定の業界や業務に絞って、データ・AIモデル・アプリを一体で作りこんだ「現場で使えるAI」です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「官民投資ロードマップは、2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円を獲得し、産業や行政の現場でAIを軸とした経営改革（AX）を進めるとしました」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「（自治体AIヤマトくんの開発者・記事の著者）」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「バーティカルAIとは、データ・AIモデル・アプリを垂直統合した領域特化型システムで、高い正確性と専門性から「現場で使えるAI」とされます」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「国内のバーティカルAI市場は2024年に約1兆円で、2030年には約3兆円になる見通しです」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「フィジカルAIに先行して市場が発現しています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「目標は、2030年に世界のバーティカルAI市場33兆円のうち、内外で少なくとも5兆円を獲得することです」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「・「AIロボティクス戦略」を踏まえ、特にAIロボットにおいては、」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「・ また、AIロボットに限らず、フィジカルAIは現実世界で作用す」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf）
-  - 「米国Census Bureauの2026年調査では、2025年11月から2026年1月に何らかの業務機能でAIを利用していた企業は18％でした」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「さらに、AI利用企業の57％は利用範囲が3つ以下の業務機能にとどまり、66％はAIをタスクそのものの代替ではなく、既存業務の補助として利用していました」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「EUでも2025年の企業AI利用率は19.95％、大企業では55.03％まで上昇しています」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「一方、AI利用企業のうち物流用途で利用していた企業は6.08％でした」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「AIは企業システムへ着実に入り始めているが、企業業務全体がAIによって自律運転されているわけではない」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
+  - 「課題は、AI実装人材や中小企業への伴走支援の不足、現場固有データの活用不足、計算資源の不足、AXへの理解不足とAIリスクへの懸念です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「政策パッケージには、中小企業を含めたバーティカルAIの導入支援と「地域AX」の推進、政府による率先導入、AISIの機能強化などが入っています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「自治体は、行政の現場でのバーティカルAIの導入と、地域の中小企業のAXの支援で、この流れに直接参加できます」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「1枚でわかる全体像 ― バーティカルAIの方向性」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「バーティカルAIの官民投資ロードマップを一言でいうと何ですか？」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「データ・モデル・アプリを垂直統合した「現場で使えるAI」であるバーティカルAIを、重点領域ごとの戦略で産業や行政に広げ、AIの導入で人手不足を解消し日本社会全体のAXを実現する計画です」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円の市場を獲得し、エコシステム全体でAI主権を戦略的に確保することを目指します」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「・バーティカルAIはデータ、モデル、アプリを垂直統合した領域特化型システム」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「高い正確性と専門性から「現場で使えるAI 」」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「注：2024年の国内バーティカルAI市場は約1兆円、2030年には約3兆円と見通し」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
+  - 「フィジカルAIで人手不足を解消する方法｜中小製造業のAI-Ready化5ステップ - フィデックス株式会社」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「フィジカルAIで人手不足を解消する方法｜中小製造業のAI-Ready化5ステップ」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「いま国は、AIとロボットを組み合わせた「フィジカルAI」を日本の勝ち筋に据えています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「令和9年度のAI関連予算概算要求では、令和8年度当初予算（約5,027億円）を基盤としつつ、さらなる投資拡大に向けた大規模な予算要求が行われています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
+  - 「本記事では、国のAI戦略の全体像を押さえたうえで、自社の人手不足対策にどうつなげるか、何から始めればよいかを公的資料に基づいて整理します」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
 - 検索結果の抜粋：
+  - 「専門業務を支えるVertical AI（ バーティカルAI ）とは？汎用AI ... — 専門業務を支えるVertical AI（ バーティカルAI ）とは？汎用AI ... Members Co.,Ltd. https://www.members.co.jp > 20260326-vertical-ai」（https://www.members.co.jp/column/20260326-vertical-ai）
   - 「業界特化型 AI市場 の 規模 とシェア、成長予測（2025〜2034年） — 業界特化型 AI市場 の 規模 とシェア、成長予測（2025〜2034年） Global Market Insights Inc. https://www.gminsights.com > vertical-ai-market」（https://www.gminsights.com/ja/industry-analysis/vertical-ai-market）
   - 「社会実装から見る バーティカル AI の可能性 - 大和総研 — 社会実装から見る バーティカル AI の可能性 - 大和総研 大和総研 PDF https://www.dir.co.jp > japan > 20260930_026094」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
   - 「Vertical AI Companies: Why Domain Expertise Wins (2026) — Vertical AI Companies: Why Domain Expertise Wins (2026) Charles River Ventures https://www.crv.com > content > verti...」（https://www.crv.com/content/vertical-ai-companies）
@@ -5076,7 +5084,6 @@
   - 「Vertical AI Market Size, Share, Trends | CAGR of 24.5% — Vertical AI Market Size, Share, Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market」（https://market.us/report/vertical-ai-market/）
   - 「Vertical AI Market Analysis, Size , and Forecast 2025-2029 — Vertical AI Market Analysis, Size , and Forecast 2025-2029 Technavio https://www.technavio.com > report」（https://www.technavio.com/report/vertical-ai-market-industry-analysis）
   - 「Vertical AI Market Size , Share, Trends | CAGR of 24.5% — Vertical AI Market Size , Share, Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market」（https://market.us/report/vertical-ai-market/）
-  - 「Vertical AI Market Size , Growth Report, 2026-2033 — Vertical AI Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report）
 
 ## 造船の受注残と人手不足（一次）（shipbuilding order backlog labor shortage Japan）
 - 文脈：8 造船 ④受注残と人手

@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・98品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・101品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -124,6 +124,13 @@
   - 「環境の三角測量 (environmental triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「もし2つ目の情報源も同じ盲点を共有しているなら、それは三角測量ではなく、単に音量を大きくしただけにすぎません" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
 - 一次情報の探し方：
+  - 「[追加統計][ケース得点]を選択するとケーススコアが次のように出力される」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「レーション」という用語を採用した理由について説」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
+  - 「のデータを集めた上で統計的に処理することによっ」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
+  - 「おいては，個人レヴェルのデータを統計的な処理に」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
+  - 「それらの方法の採用は，実り少ないものとなるであ」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
+  - 「そして，経験科学が採用している因果法則とい」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
+  - 「（量的アプローチ）を採用してクラスを扱うとき」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
   - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「研究者は、様々な方法、データソース、視点を採用することで、調査結果を確認し、結論が一貫していることを確認することができる」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
   - 「三角測量を採用するかどうかを選択する際、研究者は研究の背景、目的、利用可能な資源、研究テーマの性質を慎重に評価すべきである」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
@@ -132,14 +139,10 @@
   - 「この科目を担当していたのは、このプログラムの生徒の授業時間の大部分を、進路指導部の教員がカバーする必要があったため、学校側が採用した措置でした」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
   - 「http://www. psicothema.com/pdf/3429.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
   - 「http://www.revistaeducacion.educacion.es/re356/re356_08.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
-  - 「http://journals.sagepub.com/doi/pdf/10.2304/eerj.2005.4.3.10.」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
-  - 「http://www.rinace.net/rlei/numeros/vol5-num2/art8.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
-  - 「http://www.rinace.net/rlei/numeros/vol8-num2/art1.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
-  - 「http://www.ugr.es/~recfpro/rev91ART4res.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
-  - 「http://www.revistaeducacion.mec.es/re2010/re2010_05.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
-  - 「http://www.fapac.cat/sites/all/files/aula_1.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
-  - 「http://www.revistaeducacion.mec.es/re2010/re2010_02.pdf」（https://creemoseducacioninclusiva.com/ja/2026/07/%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E5%A6%A8%E3%81%92%E3%82%8B%E3%83%97%E3%83%AD/）
 - 失敗・落とし穴：
+  - 「注意点は、各評定者におけるM11,M12などのラベルは、名称は同じでも、そのラベルに含まれるカードは必ずしも同じではないことです」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「なお、各評定者による三つのケーススコア軸{RE1,RE2,RE3}および{KA1,KA2,KA3}および{ON1,ON2,ON3}について、それぞれ{ }内の組み合わせによる相関は原理的にはゼロですが、以下の表では計算誤差のため必ずしもゼロとなっていないので注意」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「Common Mistakes in Mixed Methods Research」（https://atlasti.com/guides/the-guide-to-mixed-methods-research/triangulation-in-mixed-methods-research）
   - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「しかしそれは失敗ではなく、適切に対処するための認められた語彙が存在します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「Convenience Sampling: Avoid Bias When Recruiting Study Participants」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
@@ -152,26 +155,24 @@
   - 「三角測量のプロセスを通じて公平性と開放性を達成するためには、研究者は自身のバイアスを認識していなければならない」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
   - 「三角測量は、多くの方法を組み合わせることでバイアスを減らし、個々のバイアスの影響を減らし、客観性を高める」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
   - 「バイアスやリソースの制約など、三角測量に伴う限界や課題を認識し、対処する」（https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/）
-  - 「Common mistakes to avoid」（https://www.researchprospect.com/triangulation/）
-  - 「Every single method introduces method-specific error. Self-report surveys suffer from social-desirability bias;」（https://www.researchprospect.com/triangulation/）
-  - 「Reduces individual analyst bias」（https://www.researchprospect.com/triangulation/）
 - 実例：
-  - 「どちらの立場を主張するかによって結果が異なります」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「三角測量によって結果の妥当性が確立されたと書く場合、あなたは「確認」としての解釈を採用したことになり、構成主義の試験官から「検証されるべき単一の固定された説明が存在するという前提」を擁護するよう求められるかもしれません」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「優れた方法論の段落に含まれるべき内容：どのタイプを使用し、なぜそのタイプなのか、具体的に何を変化させたのか、分析のどの段階で情報源を比較したのか、意見が対立したときにどう対処したのか、そしてその結果として何を主張しているのか」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「一方で「調査結果を三角測量した」という曖昧な記述は検証不可能であり、審査員はそのような曖昧な表現を単なる飾り（装飾）として受け取ります" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「Read modern, diverse business cases」（https://methods.sagepub.com/ency/edvol/sage-encyc-qualitative-research-methods/chpt/triangulation#_）
-  - 「Procedural bias – Procedural bias occurs when participants are put under some kind of pressure to provide information. For example, doing “vox pop” style interrupt polls might catch the participants unaware and thus affect their answers. Triangulation allows us to combine short engagements with longer engagements where participants have more time to give considered responses.」（https://www.betterevaluation.org/methods-approaches/methods/triangulation）
-  - 「Desperately seeking dissonance identifying the disconfirming case in qualitative evidence synthesis」（https://www.betterevaluation.org/methods-approaches/methods/triangulation）
-  - 「Chapter 8: Case study」（https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/）
-  - 「is a good example of methodological triangulation because it used a combination of workshops, interviews and focus groups to collect data.」（https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/）
-  - 「Table 28.1 provides examples of the four main types of triangulation. Other types of triangulation, such as ‘time’ and ‘space’」（https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/）
-  - 「Examples of Triangulation in UX」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
-  - 「Triangulation can take many forms; two examples of how you could triangulate UX research are shown here. Left: Triangulate by using multiple methods to study the same activity, such as quantitative research, qualitative research, and expert review. Right: Triangulate by analyzing several different metrics related to the same activity, such as satisfaction ratings, time spent, and revenue volume.」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
-  - 「Some examples of research triangulation are:」（https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/）
-  - 「著者たちは、使う側には制御できるという安心を、拒む側には一過性の流行だと退ける口実を与えるこの見方に対し、AIを結果を形づくる関係的な媒体（relational medium）として扱うよう求めています」（https://note.com/kasano/n/n7b5909b6492c）
-  - 「参加者には、生成AIを使っていて思考を停止させるサインにぶつかった具体的な事例を一つずつ持ち寄ってもらい、文字起こしにLLMを使うときの課題や、AI生成物を含む研究の帰属の示し方などを話し合う形式です」（https://note.com/kasano/n/n7b5909b6492c）
+  - 「その基本は、数量化理論�V類による分析結果を複数の評定者の間で比較するもので、相関係数や因子分析などを用いて数理的に解析を行うことにあります」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「まず評定者ＲＥによる「カード布置」「カードとラベルの対応表」「数量化理論�V類による分析結果」(ラベルについての「カテゴリースコア」、カードについての「カードスコア」)を示します」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「とりあえず、評定者ＲＥと評定者ＫＡの結果を示し、この二名の比較を進めることにします」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「[追加統計][ケース得点]を選択するとケーススコアが次のように出力される」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「評定者ＫＡによる「カードとラベルの対応表」の分析結果」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「評定者ＲＥと評定者ＫＡの二人について、「カード布置」・「カードとラベルの対応表」・「数量化理論�V類による分析結果」を示しました」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「例えば、以下に示す評定者ＲＥ、ＫＡについてみると、「カテゴリースコア軸」の第１軸から第５軸に対応して、９枚のカード{L1,L2,〜L9}にも、「カードスコア軸」が第１軸から第５軸まで計算されています」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「この第�T軸・第�U軸は、評定者ＲＥとＫＡについて得られている「ラベルの軸構造」(カテゴリースコア)に対応して、「カードの軸構造」(ケーススコア)として算出されていることはすでに述べました」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「相関係数を計算するデータは、数量化理論�V類による「ケーススコア」として得られているもので、以下の数値になっています」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「評定者７名から得られた「ケーススコア」を、７名それぞれ第�V軸まで注目して表示」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「ただし、ケーススコアとして得られた実数値情報を順位に落としてまで計算する必要はないでしょう」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「なお、各評定者による三つのケーススコア軸{RE1,RE2,RE3}および{KA1,KA2,KA3}および{ON1,ON2,ON3}について、それぞれ{ }内の組み合わせによる相関は原理的にはゼロですが、以下の表では計算誤差のため必ずしもゼロとなっていないので注意」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「ケーススコアを類似度を把握するために因子分析を行ってみると、固有値が{1}以上のものが四つあることが分かったので、四つの次元を考えればRE1,RE2,RE3,KA1,KA2,KA3,ON1,ON2,ON3のケーススコアを把握できると考えられます」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「ここでは、そのうち、第一次元と第２次元の平面上に、評定者三名のそれぞれ三つずつあるケーススコアをプロットして、それらの類似度あるいは距離をみてみましょう」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
+  - 「評定者ＲＥによるケーススコア軸に関わる対比的なラベルを取り出しておきます」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
 - 検索結果の抜粋：
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH...デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質」（https://note.com/kasano/n/n5300393c2f30）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ... — Apr 3, 2023 · 本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例と ...」（https://note.com/kasano/n/n5300393c2f30）
   - 「デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト... — Oct 22, 2026 · 私はワークショップの前年に「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち ...」（https://note.com/kasano/n/n7b5909b6492c）
   - 「トライアンギュレーションとは？意味・4つの種類・研究での使い方をわ... — Sep 25, 2026 · デンジン自身はトライアンギュレーションを「複数の観察者・方法・解釈の視点・経験的資料の水準や形式を用いて解釈を構築すること」と説明しています。 トライアンギュレーションの4つの種類（デンジンの分類）」（https://scholarcompass.net/columns/184）
@@ -186,7 +187,6 @@
   - 「(PDF) The Role of Triangulation in Qualitative Research ... — Jul 5, 2024 · Abstract Triangulation is a methodological approach that involves using multiple methods or data sources to enhance the credibility and validity of research findings.」（https://www.researchgate.net/publication/382547374_The_Role_of_Triangulation_in_Qualitative_Research_Converging_Perspectives）
   - 「Triangulation in Research | Guide, Types, Examples - Scribbr — Jan 3, 2022 · Triangulation uses multiple data sources, methods, investigators or theories in research.」（https://www.scribbr.com/methodology/triangulation/）
   - 「(PDF) Triangulation in Research — Aug 31, 2021 · This research utilizes a mixed-method exploratory sequential research design employing the triangulation method to validate and confirm data using multiple sources to cross-check finding (Campbell ...」（https://www.researchgate.net/publication/354268603_Triangulation_in_Research）
-  - 「トライアンギュレーションとは？意味・4つの種類・研究での使い方をわ... — Sep 25, 2026 · 研究では、一つのデータや一つの方法だけに頼ると、結論が偏ってしまうことがあります。 そこで、複数のデータ・方法・研究者・理論を組み合わせて、同じ現象を多角的に検証する考え方がトライアンギュレーションです。」（https://scholarcompass.net/columns/184）
 
 ## 企業分析のやり方（非上場・中小企業）（how to analyze private small companies）
 - 文脈：企業
@@ -501,22 +501,27 @@
 ## 有価証券報告書・決算資料から稼ぎ方を読み解く方法（read annual reports business model analysis）
 - 文脈：企業
 - 手順・やり方：
+  - 「企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由｜やましゃん@IR就活」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「この記事では、その具体的な手順とプロンプトを紹介する」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「2. 基本の手順——資料を渡してから聞く」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「手順1：一次資料を入手する」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「手順2：AIに資料を読み込ませる」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「手順3：目的を明示して質問する」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「手順4：出力を一次資料で検証する」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「ステップ1（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「ステップ2（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「ステップ3（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「ステップ4（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「ステップ5（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「ステップ6（5分）」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「▶まずは全体像！５つのSTEPを確認する」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「▶【STEP1】企業の「全体像」を把握する（第1部：企業情報）」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「▶【STEP2】損益計算書（P/L）で「儲けの構造」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「▶【STEP3】貸借対照表（B/S）で「体質」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「今回は『有価証券報告書（有報）』を読めるようになりたい人が『読めた！』となることを目的とし、５つのSTEPで『読めるように』解説します」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「【STEP1】企業の「全体像」を把握する（第1部：企業情報）」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「【STEP2】損益計算書（P/L）で「儲けの構造」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「【STEP3】貸借対照表（B/S）で「体質」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「【STEP4】キャッシュ・フロー計算書（C/F）で「資金の実態」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「【STEP5】注記・セグメント情報・リスク要因で「裏のストーリー」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「コツは数字を読むのではなく、各意味を読むことです！」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「＜チェックポイント＞財務依存型企業に注意」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「▶【STEP4】キャッシュ・フロー計算書（C/F）で「資金の実態」を読む」（https://note.com/yoh2619/n/nab63a136eecc）
 - 突き合わせ・推定：
+  - 「生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「手順4：出力を一次資料で検証する」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「添付した企業資料と照らして、①事実誤認がないか ②資料の記載と矛盾する箇所がないか、を指摘してください」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「出力された数字を、元のPDFで検証」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「：プロンプト⑤（中計とのギャップ）とプロンプト③（セグメント）を実行し、同様に検証」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「正しい使い方は、AIの分析を「仮説」として持ち、商談の中で確認する」（https://note.com/f_bby__shota/n/nee46643ea909）
   - 「AIの分析を仮説として持ち、自分の言葉で顧客に確認する」（https://note.com/f_bby__shota/n/nee46643ea909）
   - 「数百ページの有報の中から必要な情報を正確に拾い上げ、「どこに書いてあったか」を提示しながら答えてくれるため、重要な判断の場面でも回答の信頼性を自分で検証できます」（https://inuiwan.com/archives/3282）
@@ -527,28 +532,27 @@
   - 「Read each note against last year's: a new policy, a new estimate or a re-sorted line can change a trend without anything changing in the business.」（https://mrchartist.com/learn/start/how-to-read-an-annual-report）
   - 「accountants’ judgment, particularly where estimates and」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
   - 「cross-checked through revenue trends, margin movements,」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
-  - 「provisioning estimates.」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
-  - 「where subjective estimates or high uncertainty materially」（https://finxl.in/blogs/how-to-analyze-an-annual-report.html）
-  - 「速報！！キオクシア（285A）決算後 検証編 19時までの情報」（https://note.com/tag/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99）
-  - 「売上債権や棚卸資産の増減、支払債務の変動など、運転資本の効率性も同時に検証できます」（https://note.com/re_birth_ai/n/n0806b0d9ebe0）
-  - 「「この利益率の話、資料のどこに書いてあった？」の裏取りが数秒で終わる」（https://mitena.co.jp/n-nisa/notebooklm-stock-investment/）
 - 一次情報の探し方：
-  - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』｜wkwk｜小さな事業のAI・経営実践」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「初学者でも出来る『５つのSTEPで読み解く有価証券報告書』」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「そもそも『有価証券報告書』とは？」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「年1回（通常は決算後3ヶ月以内）」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「実際の『有価証券報告書』を手元に用意して、読みながら実践するのがいいです！」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「まだ準備できてない人は、『（会社名）_有価証券報告書』で探してみてください！」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「今回は『有価証券報告書（有報）』を読めるようになりたい人が『読めた！』となることを目的とし、５つのSTEPで『読めるように』解説します」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「有価証券報告書の準備はできていますか？」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「財務諸表を読むだけであれば、このSTEPはいらないですが、今回の目的は『有価証券報告書』を読めるようになることです」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「「注記まで読める人」は、決算書読解の中上級者です」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「この５つの質問に回答出来たら、『有価証券報告書を読めた』と区切りをつけましょう！」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「そのためにも出来る限り多くの有価証券報告書に触れ、」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「また前述で記載しましたが、有価証券報告書は」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「有価証券報告書を読み解くことはとても有益なのです」（https://note.com/yoh2619/n/nab63a136eecc）
-  - 「有価証券報告書」（https://note.com/yoh2619/n/nab63a136eecc）
+  - 「企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由｜やましゃん@IR就活」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「企業研究をAIでやる方法——有価証券報告書を読ませるプロンプト10選と、丸投げが危険な理由」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「AIが本当に役立つのは、有価証券報告書を読ませて整理させるときだ」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「100ページの有価証券報告書を人間が読むより、AIに要約させたほうが速い」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「しかも、AIが学習したデータは過去のものなので、最新の決算が反映されていないことがある」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「有価証券報告書・決算短信・決算説明資料のPDF」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「PDFをアップロードできるAIサービスなら、そのまま添付する」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「AIが出した数字は、必ず元のPDFで該当箇所を確認する」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「添付した有価証券報告書から、就活生が企業研究で使う情報を抽出してください」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「添付した3社の決算短信から、売上高・営業利益率・自己資本比率を抽出し、同じ形式で並べてください」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「各社の決算期が異なる場合は、その旨を明記してください」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「添付した決算説明資料から、中期経営計画の目標数値をすべて抜き出し、直近実績と並べてギャップを算出してください」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「「最新の決算は」と聞いても、実際には数か月〜数年前の情報が返ってくることがある」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「：決算数値は必ず自分でEDINETまたは企業IRページから取得する」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「：AIの文章は特有の平板さがあり、読み慣れた採用担当者は気づく」（https://note.com/irshukatsu/n/nec2070d76e3c）
 - 失敗・落とし穴：
+  - 「生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「最も多い失敗が、「トヨタ自動車について教えてください」とだけ入力するパターンだ」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「誤りが1つあるだけで、企業研究全体の信頼性が失われる」（https://note.com/irshukatsu/n/nec2070d76e3c）
+  - 「生成AIの出力には誤りが含まれる可能性があります」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「⇒連結子会社が多いほど、単体とのズレに注意」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「＜チェックポイント＞財務依存型企業に注意」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「金利負担に注意！」（https://note.com/yoh2619/n/nab63a136eecc）
@@ -560,11 +564,8 @@
   - 「ここで最も重要な注意点がある」（https://note.com/irshukatsu/n/n426fc7c8c112）
   - 「二次情報は解釈が混じり、時にはバイアスや誤りが含まれることがあります」（https://note.com/bookreview_lab/n/n5ddefc10af59）
   - 「見逃しがちですが、「広告費を減らしたため」「研究開発費を抑えた結果」など、利益の背景や注意点が書かれていることがあります」（https://kabu.com/kabuyomu/money/1191.html）
-  - 「宇野千代は間違いなく惚れていた､では芥川龍之介は…文豪が短編小説に描いた｢一束4銭のネギ｣という"恋"」（https://president.jp/category/c05577）
-  - 「語尾を1文字変えるだけ…恥ずかしい失敗をした相手に育ちがいい人が｢大丈夫ですか?｣の代わりにかける言葉」（https://president.jp/category/c05577）
-  - 「純資産が大きくプラスでも多額の繰延税金資産がある場合には注意が必要です」（https://journal.bizocean.jp/corp08/h03/2552/）
-  - 「正しい位置や注意点を解説」（https://journal.bizocean.jp/corp08/h03/2552/）
 - 実例：
+  - 「Mahindra & Mahindra's FY26 annual report as the example: its exact name, the year to 31 Mar 2026, the filing on NSE's archive (4 Jul 2026) and the unit, ₹ crore.」（https://mrchartist.com/learn/start/how-to-read-an-annual-report）
   - 「4-2.実例を見てみよう」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「実例：のれん注記（M&A関連）」（https://note.com/yoh2619/n/nab63a136eecc）
   - 「顧客の意思決定を前に進める営業の考え方を、具体的な事例・実践手順・AIプロンプトとともに解説します」（https://note.com/f_bby__shota/n/nee46643ea909）
@@ -579,8 +580,9 @@
   - 「GMO熊谷代表の｢コント会見｣は結果的によかった…報道対策のプロが分析するサイバー攻撃犯の"本当の狙い"」（https://president.jp/category/c05577）
   - 「例えば、下記の連結経営指標等の※１の箇所では、本業の営業CFがマイナスになっていないか、多額の投資を行っている場合にはどのような内容のものか、資金繰りに窮して資産を売却し、投資CFが大きくプラスとなっていないかなど、企業の資金繰りに関する情報を確認します」（https://journal.bizocean.jp/corp08/h03/2552/）
   - 「例えば、下記のような分析を行うことが考えられます」（https://journal.bizocean.jp/corp08/h03/2552/）
-  - 「繰延税金資産を除くと純資産がほとんどなくなるようなケースでは、純資産が一時に大きく減少する恐れがあり、純資産自体も安定性に欠けている可能性があります」（https://journal.bizocean.jp/corp08/h03/2552/）
 - 検索結果の抜粋：
+  - 「How to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Apr 19, 2024 · Learn how to read a company's annual report effectively. This gui」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
+  - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Read and Analyze a Company's Annual Report: A Review Paper — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and th」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
   - 「How to Effectively Read a Company’s Annual ReportMaster the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Apr 19, 2024 · Learn how to read a company's annual report effectively. This guide covers key sections and insights to assess the business perf」（https://www.efinancialmodels.com/how-to-read-a-companys-annual-report/）
   - 「Master the Art of Reading Annual Reports - InvestopediaA Structured Approach to Annual Report AnalysisHow to Read an Annual Report: Beginner Investor GuideHow to Quickly & Effectively Read an Annual Report — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by looking at Item 1. This section helps you understand the company’s business model and the industry it o」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
   - 「Master the Art of Reading Annual Reports - InvestopediaHow to Effectively Read a Company’s Annual ReportHow to Read an Annual Report: A Beginner's GuideA Structured Approach to Annual Report AnalysisHow to Quickly & Effectively Read an Annual ReportHow to Read an Annual Report: Beginner Investor Guide — Feb 20, 2026 · Where to Start A good way to start reading an annual report or 10-K is by lookin」（https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp）
@@ -3328,7 +3330,7 @@
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -3651,6 +3653,8 @@
 ## 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務（SME public notice disclosure scope by method net assets change profit trend）
 - 文脈：
 - 手順・やり方：
+  - 「会社の公告とは？決算公告・合併公告など4種類と公告方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「公告と広告の違い、官報・新聞・電子公告の方法、違反時の法的責任までわかりやすく解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「１－１．困ったら経団連のひな型を読む」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「会社法施行規則及び会社計算規則による株式会社の各種書類のひな型（改訂版） - 2022年11月1日 より抜粋」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「上記は経団連ひな型の計算書類の項から、個別注記表を抜粋したものです」（https://note.com/isa99999/n/n7aadf977f2e7）
@@ -3664,9 +3668,8 @@
   - 「それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「このような所謂、債権者異議申述公告は、定款に定められている公告方法に関係なく」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「なお、官報と定款で定めた方法で二重に公告することで、」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「ベリーベスト法律事務所 新潟オフィス. “決算公告とは？ 具体的な方法や怠った場合の罰則などについて“, 2022.」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本｜ひぐらしさとし司法書士事務所（仮）」（https://note.com/real_ram9758/n/n015e975a7128）
 - 突き合わせ・推定：
+  - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「前期と今期の純資産を比較することで、利益の増減を推定できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「ただし、前期と今期の純資産の差額から大まかな利益・損失の傾向を推定することは可能です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「前期比での純資産の変化から、損益の傾向を間接的に推定できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3681,7 +3684,6 @@
   - 「10 ACCOUNTING POLICIES, ESTIMATES AND ERRORS」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
   - 「Accounting Policies, Estimates and Errors」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
   - 「Amendment to introduce the definition of ‘accounting estimate’ to help entities distinguish changes in accounting estimates from changes in accounting policies (see」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
-  - 「An entity measures an asset or liability in order to recognise it. In many cases, an entity estimates this measurement and it is therefore subject to measurement uncertainty. Using estimates is an essential part of preparing financial information and does not undermine the usefulness of the information if an entity clearly and accurately describes and explains the estimates.」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
 - 一次情報の探し方：
   - 「皆さんは非上場の会社の決算公告と聞いて何を思い浮かべますか？」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「には、非上場会社であっても決算を公告する義務が規定されているものの、多くの中小企業で決算公告がおこなわれてないのが実情のようです」（https://note.com/isa99999/n/n7aadf977f2e7）
@@ -3699,6 +3701,7 @@
   - 「それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「「大会社」ではない会社の決算公告は、貸借対照表の要旨のみ掲載でしたね」（https://note.com/isa99999/n/n7aadf977f2e7）
 - 失敗・落とし穴：
+  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
@@ -3713,8 +3716,10 @@
   - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「相続クイズ５０問（間違いだらけのネット情報）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「相続に関与しようとする民間資格や民間団体にご注意ください」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「平成13年6月までに相続開始又は代襲原因発生の場合は要注意｢非嫡出子の法定相続分｣」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
+  - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「そのため、官報掲載の会社であっても電子公告ページを持っているケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3727,9 +3732,6 @@
   - 「消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「例えば、3月決算の会社が期中に資本金が5億円以上になった場合でも、その事業年度の貸借対照表が承認・報告される翌年の定時株主総会の時点ではじめて大会社に該当することになります」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「ただし、切り捨て・四捨五入【7】の結果、不一致が生じても許容されます」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「しかし、損益計算書を公告しない場合にも「当期純損益の付記」という見落としやすいルールがあり、これを知らずに手続きを進めてしまうケースが少なくありません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「したがって、業績の変動により前期は大会社に該当しなかったものの、当期は大会社に該当するというケースもあり得ます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「特に、取引先から決算内容の開示を求められるケースでは、決算公告に損益計算書を含めておくことで対応がスムーズになります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
@@ -5375,30 +5377,43 @@
 ## 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）（entity matching benchmark corner cases threshold gold standard）
 - 文脈：同一性
 - 手順・やり方：
-  - 「formation on how to evaluate the performance. To answer the ques-」（https://d-nb.info/1351217534/34）
-  - 「the closure of such a result set could easily be created, this step」（https://d-nb.info/1351217534/34）
-  - 「consist of multiple steps [44]. Measuring the performance between」（https://d-nb.info/1351217534/34）
-  - 「these steps, as supported by Frost, can provide useful insights for」（https://d-nb.info/1351217534/34）
-  - 「typically consists of the following steps:」（https://d-nb.info/1351217534/34）
-  - 「duplicates [9, 18]. Typically, this step produces a final similarity」（https://d-nb.info/1351217534/34）
-  - 「heterogeneity of datasets are a crucial step towards finding repre-」（https://d-nb.info/1351217534/34）
-  - 「framework [13] and provides 46 datasets, 20 matching solutions」（https://d-nb.info/1351217534/34）
-  - 「Some data matching execution frameworks also work as (par-」（https://d-nb.info/1351217534/34）
-  - 「frameworks or do not use a framework at all. A newer approach to」（https://d-nb.info/1351217534/34）
-  - 「et al. developed a method for this estimation [33].」（https://d-nb.info/1351217534/34）
-  - 「provides a framework for aggregating soft KPIs and quality metrics」（https://d-nb.info/1351217534/34）
-  - 「To achieve this, Snowman optimizes every step of the evaluation」（https://d-nb.info/1351217534/34）
-  - 「and Snowman a significant step in the direction of a standardized」（https://d-nb.info/1351217534/34）
-  - 「ing Record Linkage Methods. Technical Report wp-grlc-2012-01. German Record」（https://d-nb.info/1351217534/34）
+  - 「本記事では、機械学習を用いた名寄せの実装方法や精度向上のテクニックを具体的に解説します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「データの正確性を向上させ、効率的なマーケティング戦略を構築するための具体的な方法や成功事例も紹介しているので、ぜひ参考にしてください」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「本記事では特許調査における膨大な文献のスクリーニング作業をAIで効率化する方法を解説します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「開発とテストの観点｜AI活用で効率化を実現する方法 | Hakky Handbook」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「本記事では、DataRobot CodeSpace上でLLM（Azure OpenAI）を利用した名寄せ処理の具体的なコードと解説を通じて、LLMを活用した名寄せ処理の実現方法を紹介します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「of matching methods along a single dimension, for instance the」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「Instead of learning how to match entity pairs, entity matching can」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「rules, supervised machine learning methods have become the」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「by the training data indicate that the methods lack robustness」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「multi-class classification, e.g. learn how to recognize the relevant」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「Numbering at each step refers to the corresponding section in the paper.」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「bustness [12, 29] of matching methods to the amount of unseen」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「evaluating the training data efficiency of matching methods.」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「sisting of the following six steps: (i) extraction of product offers」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「six steps which are visualized in Figure 2. Detailed explanations」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
 - 突き合わせ・推定：
+  - 「例えば、停車地の方向指示詞を別フィールド化し、検証を繰り返して精度を高めます」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「停車地の方向指示詞を別フィールド化し検証を繰り返す」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「ロジスティック回帰は線形モデルで高速かつ解釈しやすく、データ量が少ない場合の初期検証に適しています」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「クロスバリデーションで精度を検証し、F1スコアやPrecision、Recallを指標に評価します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「F1スコア、Precision、Recallで精度検証」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「具体的には、日次や週次でのデータ抽出後にクレンジングとマッチングを実施し、結果を検証して改善を繰り返します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「今回は以前から温めていた課題「テキスト分類（名寄せ）作業、生成AIでなんとか楽にできないか？」を解決するため、Databricksを使っていろいろ検証した過程を記事にしました」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「fers are for the same real-world product) of the clusters estimated」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「pairs in total. Overall, the noise level in the sample is estimated」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
   - 「so that they can estimate the performance of different matching」（https://d-nb.info/1351217534/34）
   - 「the performance estimated in this way is only meaningful if both」（https://d-nb.info/1351217534/34）
   - 「dataset is unknown, these numbers have to be estimated. Heise」（https://d-nb.info/1351217534/34）
   - 「metrics and evaluation strategies that try to estimate matching」（https://d-nb.info/1351217534/34）
   - 「Chaudhuri et al. [7] can estimate the quality of the whole match-」（https://d-nb.info/1351217534/34）
   - 「viations from the majority votes can be used to estimate the」（https://d-nb.info/1351217534/34）
-  - 「the ability to aggregate metrics. For example, to estimate costs, the」（https://d-nb.info/1351217534/34）
 - 一次情報の探し方：
+  - 「特許スクリーニングをAIで効率化｜最大80％の工数削減事例と導入メリット | Hakky Handbook」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「本記事では特許調査における膨大な文献のスクリーニング作業をAIで効率化する方法を解説します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「provides profiling information for all variants of the benchmark.」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「4 BENCHMARK PROFILING」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「[36] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
   - 「with traditional profiling metrics and three new metrics for mea-」（https://d-nb.info/1351217534/34）
   - 「solely on profiling benchmark datasets and grouped 21 benchmarks」（https://d-nb.info/1351217534/34）
   - 「according to five profiling metrics, namely schema complexity, tex-」（https://d-nb.info/1351217534/34）
@@ -5410,27 +5425,30 @@
   - 「[49] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark」（https://d-nb.info/1351217534/34）
   - 「http://ceur-ws.org/Vol-1486/paper_43.pdf」（https://d-nb.info/1351217534/34）
 - 失敗・落とし穴：
+  - 「respective other class(es). In order to prevent selection bias to-」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「reduce selection bias. As the basis for the later generation of the」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「of similarity metrics, we avoid biasing the benchmark towards a」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
   - 「partition. While this technique is unbiased, it may also only」（https://d-nb.info/1351217534/34）
   - 「1. This technique has the advantage of unbiasedly representing」（https://d-nb.info/1351217534/34）
   - 「occurrences within an attribute do not bias the𝑛𝑢𝑙𝑙𝑅𝑎𝑡𝑖𝑜 . Calculat-」（https://d-nb.info/1351217534/34）
   - 「[2] Tobias Bachteler and Jörg Reiher. 2012.TDGen: A Test Data Generator for Evaluat-」（https://d-nb.info/1351217534/34）
   - 「[58] Tobias Vogel, Arvid Heise, Uwe Draisbach, Dustin Lange, and Felix Naumann.」（https://d-nb.info/1351217534/34）
 - 実例：
-  - 「figure shows the ground truth matches that Examplerun-1 found」（https://d-nb.info/1351217534/34）
-  - 「and Examplerun-2 did not find.」（https://d-nb.info/1351217534/34）
-  - 「detect when a pair of records is a duplicate. An example rule in the」（https://d-nb.info/1351217534/34）
-  - 「other hand, are trained by domain experts who label example pairs」（https://d-nb.info/1351217534/34）
-  - 「To find the best matching solution for a specific use case and to help」（https://d-nb.info/1351217534/34）
-  - 「having a high relevance for common use cases, such as fine-tuning」（https://d-nb.info/1351217534/34）
-  - 「industry use cases with datasets lacking a ground truth.」（https://d-nb.info/1351217534/34）
-  - 「algorithm specific to the use case can be applied [20, 31].」（https://d-nb.info/1351217534/34）
-  - 「about matching solutions in Section 4. Finally, we showcase Snow-」（https://d-nb.info/1351217534/34）
-  - 「tuality, sparsity, development set size, and corner cases [49]. Such」（https://d-nb.info/1351217534/34）
-  - 「ration dashboard to analyze matching results, for example the influ-」（https://d-nb.info/1351217534/34）
-  - 「its use-cases are rather limited, as it also does not allow general」（https://d-nb.info/1351217534/34）
-  - 「called corner cases [49] to push matching solutions to their limits」（https://d-nb.info/1351217534/34）
-  - 「be compatible with the objectives of the evaluation. For example,」（https://d-nb.info/1351217534/34）
-  - 「the real-world scenario as defined by the use case (e.g., matching」（https://d-nb.info/1351217534/34）
+  - 「Hakkyの案件事例や提供するソリューションを確認する」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「例えば、住所の表記ゆれや名前の略称などを識別し、重複を排除します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「単純な文字列比較では、例えば「丁目」や「番地」の違い、略称やスペースの有無などに対応できません」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「データの正確性を向上させ、効率的なマーケティング戦略を構築するための具体的な方法や成功事例も紹介しているので、ぜひ参考にしてください」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「例えば、停車地の方向指示詞を別フィールド化し、検証を繰り返して精度を高めます」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「ChatGPTを活用した名寄せ手法｜業種別事例とAPI設計ポイント解説 | Hakky Handbook」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「表記揺れの正規化や多言語データ統合により作業時間を約80％削減した事例を紹介しています」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「例えば、Precisely Trilliumなどのツールを用いて全角・半角の統一や表記揺れの解消を行います」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「特許スクリーニングをAIで効率化｜最大80％の工数削減事例と導入メリット | Hakky Handbook」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「実例として、1,000件の分析を40時間から8時間に短縮し80％の工数削減を実現した事例を紹介します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「例えば、Jaccard係数とNGramを組み合わせることでF1スコアが約10%向上し、GridSearchでSVMのC値やgammaを最適化するとさらに7%改善します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「アンサンブル学習でkNNとSVMを組み合わせるとF1スコアが0.94に達する事例もあります」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「具体的には、日次や週次でのデータ抽出後にクレンジングとマッチングを実施し、結果を検証して改善を繰り返します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「Human-in-the-loopの活用により、機械処理で判別が難しいケースを人手で確認し、誤判定を減らすことが可能です」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
+  - 「生成AIプラットフォームも注目されており、将来的な活用が期待されますが、具体的な数値事例はまだ少ない状況です」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
 
 ## 官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社）（how to search official gazette financial statement notices Japan）
 - 文脈：同一性
@@ -5989,3 +6007,167 @@
   - 「記録を見返すときは、予測が当たったかだけでなく、読み取りの間違いがなかったかを先に点検します」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
 - 実例：
   - 「先行きは企業の見通しなので、その後に確定する結果そのものではありません」（https://note.com/fx_shunya/n/n2c0eeaa5d416）
+
+## 官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性）（how to search kanpo financial statement notice Japan coverage）
+- 文脈：一次情報
+- 手順・やり方：
+  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「この記事では、官報に掲載された決算公告を閲覧するための5つの方法を、無料・有料それぞれ比較表付きで徹底解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「官報に掲載された決算公告を閲覧する5つの方法」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「方法1：インターネット版官報（kanpo.go.jp）で直接閲覧する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「方法2：官報検索サービス（kanpoo.jp）を使う」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「方法3：官報決算データベース（catr.jp）を活用する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「方法4：官報索引を利用する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「方法5：有料データベース（帝国データバンク・東京商工リサーチ）を使う」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「5つの閲覧方法を比較｜目的別おすすめ早見表」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「Q6: 非上場企業の決算公告を無料で調べる最も効率的な方法は何ですか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「公告方法は定款で定めますが、定款に定めがない場合は自動的に「官報」が公告媒体となります（会社法939条4項）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「こうした課題を解決するために、次章では5つの閲覧方法を具体的に紹介します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「決算公告を官報で閲覧する方法は、無料のサービスから有料のデータベースまで複数存在します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「それぞれの特徴を理解して、目的に合った方法を選びましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+- 突き合わせ・推定：
+  - 「帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「13桁の法人番号で企業を一意に特定し、登記状態と官報掲載記録を突き合わせる流れを紹介します」（https://kanpou.ai/guide）
+  - 「大切なのは、「いつの・どの情報を・何のために」から手段を逆算する視点です」（https://blog.roborobo.co.jp/compliance/kanpo-where）
+  - 「2025年時点の推計では、決算公告を履行している中小企業は全体の数パーセント程度とされています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
+  - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
+- 一次情報の探し方：
+  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「取引先や競合企業の財務状況を確認したいとき、「官報に載っている決算公告はどうやって見ればいいのか」と困った経験はないでしょうか」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「株式会社は会社法440条により決算公告が義務付けられており、多くの企業が官報を公告媒体として選択しています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「しかし、いざ官報で特定企業の決算公告を探そうとすると、「検索機能がない」「掲載日がわからない」といった壁にぶつかりがちです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「この記事では、官報に掲載された決算公告を閲覧するための5つの方法を、無料・有料それぞれ比較表付きで徹底解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「2025年に施行された官報電子化法の影響にも触れながら、まずは官報閲覧の基本を押さえ、次に具体的な5つの閲覧手段、さらに目的別の最適な選び方をお伝えします」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「官報に掲載された決算公告を閲覧する5つの方法」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「方法1：インターネット版官報（kanpo.go.jp）で直接閲覧する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「方法2：官報検索サービス（kanpoo.jp）を使う」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「方法3：官報決算データベース（catr.jp）を活用する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「方法4：官報索引を利用する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「2025年の官報電子化で決算公告の閲覧はどう変わった？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「官報の閲覧だけでは十分な信用調査にならない場合がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「Q1: インターネット版官報で特定企業の決算公告を検索できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+- 失敗・落とし穴：
+  - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「ウェブで閲覧した官報を根拠資料として使用する場合、以前は「正本ではない」という注意書きが必要でしたが、電子化後はウェブ版がそのまま正本として扱えます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「官報の決算公告を閲覧する際には、いくつかの実務上の注意点があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
+  - 「ここでは決算公告や電子公告との違い、非公式サイトを使うときの落とし穴、そして本紙と号外の違いという3つの実務ポイントを整理します」（https://blog.roborobo.co.jp/compliance/kanpo-where）
+  - 「このうち電子公告には見落としやすい落とし穴があります」（https://blog.roborobo.co.jp/compliance/kanpo-where）
+  - 「API連携が優秀な反社チェックツール5選！サービスの選び方や運用の注意点も解説」（https://blog.roborobo.co.jp/compliance/kanpo-where）
+  - 「決算公告を閲覧する際の3つの注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
+  - 「注意点1: 掲載されている数値は「要旨」の場合がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
+  - 「注意点2: 決算公告を行っていない企業も多い」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
+  - 「注意点3: データの時点と正確性を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
+- 実例：
+  - 「この方法が向いているのは、掲載日がすでにわかっているケースです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「3. 検索結果から該当する決算公告を選択する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「官報に掲載される決算公告は、貸借対照表の「要旨」であるケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「官報の決算公告は貸借対照表の要旨が中心であり、売上高や営業利益といった業績情報が含まれないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「したがって、多くの中小企業の官報公告には貸借対照表の要旨のみが掲載されており、純資産の部・資産合計・負債合計などの主要な数値は把握できますが、売上高や利益などの損益情報は含まれていないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「3月決算の企業であれば6〜8月、12月決算であれば翌年3〜4月頃に掲載されているケースが多いです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「なお、電子公告の公告期間が終了した後は、各社サイトから削除されているケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「ただし前述のとおり、実際に決算公告を行っていない中小企業が多く、見つからないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「一方で、実際には公告を行っていない企業も多く、情報が得られないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「さらに図書館によっては、館内の端末から本来は有料の官報情報検索サービスを無料で使えるケースも」（https://blog.roborobo.co.jp/compliance/kanpo-where）
+  - 「目視だけの時代は、大量の検索結果を上から順に潰していくしかありませんでした」（https://blog.roborobo.co.jp/compliance/kanpo-where）
+  - 「以前は新聞記事の検索とGoogle検索を別々に回し、結果をPDF化してフォルダ分けする証跡保存にも相当な時間をとられていたそうです」（https://blog.roborobo.co.jp/compliance/kanpo-where）
+  - 「しかし実際には、掲載期間が終了した後にページが削除されるケースもあるため、過去の決算公告を遡って確認できない場合があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
+
+## アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析）（anchoring bias analyst research first number prevention）
+- 文脈：失敗
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 市場の定義・範囲がずれた数字の照合（合算・含む・除く・狭義と広義）の実務（market definition scope mismatch reconcile figures）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+- 突き合わせ・推定：
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+- 一次情報の探し方：
+  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+- 失敗・落とし穴：
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「市場機会分析5つの実践手順でTAM/SAM/SOMを正しく算出し新規参入の失敗を防ぐ調査設計法｜Insight Journal」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「市場機会分析でよくある3つの失敗パターン」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「最も多い失敗は、TAMとSOMを混同した過大評価です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「二つ目の失敗は、既存統計データの無批判な引用です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「三つ目の失敗は、競合分析の欠如です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「SOMの算出では、競合の市場占有率、顧客のスイッチングコスト、流通チャネルの支配力などを考慮しなければ、実現可能性を見誤ります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「社内だけで完結させようとせず、外部の調査会社を活用することで、バイアスのかかっていない市場評価が可能になります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「海外調査（グローバルリサーチ）とは？方法と失敗しない進め方を解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「海外調査（グローバルリサーチ）とは？設計・実施・注意点を実務視点で解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「言語・文化的背景を踏まえた調査手法選択から注意点まで、ネットリサーチ・会場調査・定性調査…」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「本記事では、TAM・SAM・SOMの定義と計算方法（トップダウン・ボトムアップ・フェルミ推定）から、業界別の具体例、ピッチ資料での見せ方、よくある誤解と注意点まで実践的に解説します」（https://www.salesforce.com/jp/blog/tam-sam-som/?bc=OTH）
+  - 「TAM・SAM・SOMについてよくある誤解と注意点」（https://www.salesforce.com/jp/blog/tam-sam-som/?bc=OTH）
+  - 「SaaS・BtoBで注意すべきは、ARRベースの計算においてプランのグレード差を無視しないことです」（https://www.salesforce.com/jp/blog/tam-sam-som/?bc=OTH）
+- 実例：
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=dae2810db0e3756ea16a6edcc5b99d58）
+  - 「筆者がこれまで支援してきた企業の多くは、市場規模を過大評価したまま参入し、事業計画が破綻する事例を繰り返してきました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「筆者が支援したある消費財メーカーでは、市場機会分析を実施せずに新カテゴリーに参入した結果、想定市場規模の5分の1しか存在せず、3年で撤退を余儀なくされました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）

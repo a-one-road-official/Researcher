@@ -1,0 +1,813 @@
+{
+ "name": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32）",
+ "en": "Japan metal die mold industry value added decline 2017-2019 reason",
+ "aliases": [
+  "金型 生産額 減少 2019 理由 site:jdmia.or.jp",
+  "金型 受注 減少 2019年 自動車 型",
+  "金型製造業 付加価値 低下 要因"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T05:08:01.615099+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "事業所数の推移をみると、1990年の1万3,115",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－３ 金型製造業の出荷額、事業所数の推移",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－４ 金型製造業の事業所数構成比 （従業者規模別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業統計調査」では、製造業全体の従業者数19人以下の事業所数の割合は、80.2％",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "（注）従業者4人以上の事業所のデータ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外生産比率は、現地法人売上高／（現地法人売上高＋国内法人売上高）×100で算出している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業の1事業所当たりの従業者数をみると、2017年",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は12.1人となっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者19人以下の事業",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の指標である従業者1人当たり粗付加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1 1994年は従業員3人以下の規模集計されていないため、同年の1～3人は経済産業省の推計値を用いた",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たりの従業者数は、1企業当たりの従業者数よりも少なくなることに留意が必要",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業統計調査」では、製造業全体の従業者数19人以下の事業所数の割合は、80.2％",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "うが製造業全体より1人当たり粗付加価値額が高",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－５ 従業者 1 人当たりの粗付加価値額推移（資本金 3 億円未満の企業）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1 従業者4人以上の事業所に関するデータ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象は、経済産業省「工業統計調査」をもとに把握した全国の従業員20人以上300人未満の中小製造業53,303社から、層",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代表者 天満 幸治 従業者数 118人",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "31.6％と、この2種類で日本の金型出荷額の約7割",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5,953億円、 「自動車部品」は8兆8,075億円、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「民生用電気機械器具」は8,520億円、 「民生用電",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "子機械器具」は6,074億円であった",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－１ 金型の出荷額の構成比（種類別）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9,575億円のピークに達した後、2008年までは",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1兆6,000億円前後で推移した（図－3）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "により大幅に出荷額が減少し、2010年には1兆874",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円と、ピークの1991年に比べて約56％の水準",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の出荷額は1兆5,258億円と、ピーク時の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外生産比率は、現地法人売上高／（現地法人売上高＋国内法人売上高）×100で算出している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス（2015年）で出荷額をみ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ると、品目別の金型は1兆4,294億円、金型製造業は1兆3,768億円と、その差は526億円と小さい",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円未満の金型製造業について、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価値額をみると、2006年に1,014万円を記録した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "業の1事業所当たりの従業者数をみると、2017年",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性の指標である従業者1人当たり粗付加",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価値額をみると、2006年に1,014万円を記録した",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たりの従業者数は、1企業当たりの従業者数よりも少なくなることに留意が必要",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "後、リーマン・ショック後の2010年には734万円",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "うが製造業全体より1人当たり粗付加価値額が高",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図－５ 従業者 1 人当たりの粗付加価値額推移（資本金 3 億円未満の企業）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 資本金「300万円未満」 「300万円以上1,000万円未満」 「1,000万円以上3,000万円未満」 「3,000万円以上5,000万円未満」 「5,000万",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 粗付加価値額＝製造品出荷額等－ （推計酒税、たばこ税、揮発油税及び地方揮発油税額＋推計消費税額） －原材料使用額等",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 7,000万円 URL http://www.umix.co.jp",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 8,500万円 URL https://www.yamanaka-eng.co.jp",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 7,800万円 URL http://ibki-inc.com",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "図－８ IoT に関連した設備投資の実施状況",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：日本政策金融公庫総合研究所「第116回中小製造業設備投資動向調査（特別調査） 」 （2017年）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本調査は日本政策金融公庫総合研究所が「第116回中小製造業設備投資動向調査」の付帯調査として行ったもの",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）1 IoTに関連した設備投資の実施状況について、 「すでに実施した」または「実施していないが、予定はある」と回答した企業に",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "日本公庫総研レポート No.2019-4",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本公庫総研レポート No.2019-4 ２ ０ １ 9年11月",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本公庫総研レポート No. 2019 -4",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019 年 11 月 28 日",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主な顧客である自動車メーカーや電機メーカーなどの国内生産額が減少し、金型の需要が伸び悩む一",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "方、輸入量は増加し、海外の金型メーカーとの競争が激しくなっている",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営課題として、受注単価の下落、受注数量の減少、最終製品の市場の縮小、人材育成と技能承継の四",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会が2018年に行っ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10％と比べると、 「電機用」の割合が減少した一",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "方、 「自動車用」の割合が増加しており、自動車",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省『生産動態統計年報』で2018年",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資料：経済産業省「工業統計調査」 （2017年）",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本公庫総研レポート No.2019-4 1",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019 年 11 月",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型も電機産業向けの生産比率が減少し、自動車",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の国内生産が減少している背景として、",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16.2％から2017年度の25.4％に増加している",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "械産業」は、2004年度の36.0％から2017年度の",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "海外の企業に外注し、最終的に金型の出来を左右",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "化・納期短縮、生産量の増加、既存製品の品質向",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⿝⿝海外工場を含めた最適生産体制を構築し、短納期、低コストを実現",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これを短納期、低コストでこなせる規模のプラス",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型で培った短納期で低コストの生産体制と、先",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "試作用の金型を短納期で設計、製造し",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "型のニーズに対して、的確な品質、コスト、納期",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "複雑な造形物を短納期で製造できるため、試作",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造すれば納期が短縮し、製造コストの削減にもつ",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受注をいったん集約し、顧客の求める精度や納期",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ト、納期で応えられる体制を築くことで、効率化",
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihonsanki-shimbun.com/190301news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou2021_all",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO94922220Q6A310C2TB1000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00550630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resas.go.jp/industry-manufactured-goods/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/data/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_19_11_28b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyitems/surveyforms/05101",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010140004110118001/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&query=%E5%90%84%E7%A8%AE%E6%A9%9F%E6%A2%B0%E3%83%BB%E5%90%8C%E9%83%A8%E5%88%86%E5%93%81%E8%A3%BD%E9%80%A0%E4%BF%AE%E7%90%86%E6%A5%AD&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.intereconomics.eu/contents/year/2019/number/5/article/japanese-economy-two-lost-decades-and-how-many-more.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archives.kdischool.ac.kr/bitstream/11125/44735/1/An%20Empirical%20analysis%20on%20Japan%27s%20industrial%20hollowing%20out.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/05e004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/employment%20and%20growth/how%20a%20private%20sector%20transformation%20could%20revive%20japan/mgi-future-of-japan-full-report-march%202015-03-2017.pdf",
+    "status": "network_error:ReadTimeout",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） 人手不足 受注 断る",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://www.nikkei.com/article/DGKKZO94922220Q6A310C2TB1000/",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） 受注残 人手不足",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） 人手不足 損失 億円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32）",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://www.nikkei.com/article/DGKKZO94922220Q6A310C2TB1000/",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） 統計 PDF",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/",
+    "https://www.e-stat.go.jp/stat-search?page=1&query=各種機械・同部分品製造修理業&layout=dataset",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://www.nikkei.com/article/DGKKZO94922220Q6A310C2TB1000/",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） 1人当たり 万円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://www.nikkei.com/article/DGKKZO94922220Q6A310C2TB1000/",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） 2015 2025",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html"
+   ]
+  },
+  {
+   "query": "Japan metal die mold industry value added decline 2017-2019 reason Japan statistics",
+   "results": [
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e02.pdf",
+    "https://www.intereconomics.eu/contents/year/2019/number/5/article/japanese-economy-two-lost-decades-and-how-many-more.html",
+    "https://archives.kdischool.ac.kr/bitstream/11125/44735/1/An%20Empirical%20analysis%20on%20Japan%27s%20industrial%20hollowing%20out.pdf",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/05e004.pdf",
+    "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/employment%20and%20growth/how%20a%20private%20sector%20transformation%20could%20revive%20japan/mgi-future-of-japan-full-report-march%202015-03-2017.pdf",
+    "https://cepr.org/voxeu/columns/why-japan-lost-its-comparative-advantage-producing-electronic-parts-and-components",
+    "https://www.youtube.com/watch?v=r-UH741G040",
+    "https://iris.unito.it/bitstream/2318/2156110/1/Big%20in%20Japan%20%20the%20rise%20%20fall%20%20and%20return%20of%20Japanese%20industry.pdf",
+    "https://www.statista.com/forecasts/414353/molds-and-dies-parts-and-accessories-for-metal-products-revenue-in-japan/"
+   ]
+  },
+  {
+   "query": "site:note.com 金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32）",
+   "results": [
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "https://note.com/ezuremanagement/n/n62ac85c83529",
+    "https://note.com/dakudhigura/n/nc245eb4735dc",
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://note.com/kens_reading1/n/n472aa64b72bc",
+    "https://note.com/stats47/n/n5d86476e9c73",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/areaia/n/n724b6bcb3900",
+    "https://note.com/ogawa_tech/n/ne51fccd38962"
+   ]
+  },
+  {
+   "query": "site:x.com 金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2113838932211511685",
+    "https://jf.x.com/images/media-preview/2115411278210740435",
+    "https://x.com/stats47jp373/status/2111399319139922341",
+    "https://x.com/OgawaSeisakusho/status/2114828517833875700",
+    "https://x.com/OgawaSeisakusho/status/2114828010503459213",
+    "https://x.com/OgawaSeisakusho/status/2114826491607560531",
+    "https://x.com/OgawaSeisakusho/status/2115528749844451750",
+    "https://x.com/hashtag/製造品出荷額等",
+    "https://x.com/Hatsuka_whale/status/2077727641080332472",
+    "https://x.com/TKG_CraftBank/status/2114943066314543438"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32）",
+   "results": [
+    "https://www.linkedin.com/pulse/%E8%A8%98%E4%BA%8B%E6%8A%9C%E7%B2%8B433-toru-hara-yc7oc",
+    "https://jp.linkedin.com/in/sanwakanagata",
+    "https://in.linkedin.com/company/inked",
+    "https://in.linkedin.com/company/unique-identification-authority-of-india-uidai-",
+    "https://www.linkedin.com/company/kpmg",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業の投資は本当に少ないのか-付加価値と総固定資本形成の関係-activity-7405339762611482624-gktE",
+    "https://www.linkedin.com/posts/maho-mori-30b056184_アクセンチュア事例紹介日産化学は価値創造プロセスの高度化およびその結果としての-activity-7182935187071143937-QZoF",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本製造業の本来の稼ぎとは-企業規模別の純付加価値と減価償却費-activity-7433241835688595456-MK-1"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32）",
+   "results": [
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/gifumecca/",
+    "https://www.facebook.com/chubumarketingassociation/posts/付加価値の高いモノづくり技術の研究開発拠点２０１７年度-ビジネストレンド研究部会-第３例会ビジネストレンド研究部会第３例会は豊田市にある知の拠点あいちを視察しあ/772793122894129/",
+    "https://www.facebook.com/INTERMOLD/photos/5月名古屋展-基調講演すべての金型メーカーが3dでつながる未来へ-共通化が生む新しいものづくりモデレータートヨタ車体株式会社-革新モノづくり部-部長-奥田-光正/1498835442036545/",
+    "https://www.facebook.com/groups/isanhakkutsu/posts/321457493961957/",
+    "https://www.facebook.com/syukansyogyo/posts/3409748612376617/",
+    "https://www.facebook.com/nikkei/posts/液晶テレビの大型化加速-98型超の出荷は4年で12倍メモリー高も一因-70インチ以上の世界出荷台数は4年で8割増えました高単価で利益率が良く部品に使うメモリー価/1600983774706352/",
+    "https://www.facebook.com/funaisoken/posts/受託型製造業向けメーカー化ロードマップ策定支援-レポート無料ダウンロード-このような経営者様におすすめ同業他社との価格競争に巻き込まれ忙しくても儲からない現状を/1385570196912518/"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） note 社長",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://www.nikkei.com/article/DGKKZO94922220Q6A310C2TB1000/",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/"
+   ]
+  },
+  {
+   "query": "金属用金型製造業の付加価値額・出荷額の2017→2019年の下げの理由（受注の減り・単価・自動車の型の内製化・日本金型工業会の生産額と並べる・代わりの仮説・4-32） X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://nihonsanki-shimbun.com/190301news/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/chr25-1_01-01.html",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/chushou/genjou2021_all.pdf",
+    "https://regionalstrategy-lab.com/industry-manufacturing-lost3decades/"
+   ]
+  },
+  {
+   "query": "Japan metal die mold industry value added decline 2017-2019 reason site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/jacobrhall",
+    "https://www.linkedin.com/in/chad-gould-30688b22",
+    "https://www.linkedin.com/in/jim-hollingshad",
+    "https://www.linkedin.com/in/tanay-nerurkar-a2528959",
+    "https://www.linkedin.com/in/erik-ryan-47316050",
+    "https://www.linkedin.com/in/pierrevm70",
+    "https://www.linkedin.com/in/christinesyeager",
+    "https://www.linkedin.com/in/holland-ferguson",
+    "https://www.linkedin.com/in/emilymcguinness",
+    "https://www.linkedin.com/in/ray-dietzenbach-43441a106"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ26頁・検索18回）"
+ }
+}
