@@ -780,7 +780,7 @@
   - 「その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
   - 「本稿ではこの10要素に沿って、あなたがコンサル業界に向いているか判断するためのポイントや、必要とされる能力を磨く方法を解説します」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
-  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法｜30代コンサルマネージャー｜仕事とキャリアのリアル」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「いわば「経営コンサルタント」から「営業型プロフェッショナル」への移行」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
 - 突き合わせ・推定：
   - 「これらの業務は、クライアントの課題に寄り添い、仮説検証型でソリューションを提供す […]」（https://www.kotora.jp/c/77700-2/）
   - 「自分の仮説を検証するための“逆算設計”をしてみる」（https://note.com/hiradairaheipei/n/na29c20d99741）
@@ -790,18 +790,20 @@
   - 「このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「フェルミ推定は必要？コンサル面接で差をつける準備のコツ」（https://www.kotora.jp/c/50381/）
   - 「フェルミ推定とは何か？ フェルミ推定の基本概念 フェルミ推定とは、限られた情報やデータをもとに短時間でおおよその数値を見積もる方法です」（https://www.kotora.jp/c/50381/）
+  - 「そのため、複数の仮説と解決策が交錯するプロジェクトを統括し、成果物の全体像を常に意識した論点整理・チームマネジメントが求められる」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
+  - 「コンサルタントは、問題解決に向けた仮説構築、分析設計、資料作成、インタビュー実施などを担当、」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
+  - 「仮説構築、分析設計、資料構成、クライアントとの議論準備など、「思考の設計者」としての職責が前面に出てくる」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
+  - 「ITRは現状分析をもとにビジネス仮説を設定し、実現するための施策と優先順位、制約条件を加味した上で、組織ロードマップを策定しました」（https://www.itr.co.jp/service/consulting）
+  - 「申請書類の授受業務をオンライン移行するにあたり、対象業務の棚卸と構築基盤の妥当性検証が必要となりました」（https://www.itr.co.jp/service/consulting）
+  - 「電子証跡の保存・検索基盤を検証するために、外部専門家のアドバイスを必要としていました」（https://www.itr.co.jp/service/consulting）
   - 「② 調べるべき論点（＝仮説）」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「コンサルは最初に仮説を立てますが、これは「当てるため」ではなく 調査の抜け漏れ防止のための枠組みづくり です」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「• 論点（仮説）は整理したか？」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「リサーチの前提に、そもそも何が課題で、その課題を検証するために何を調べるべきかという「問いの設計」があり、問いを設計するための情報は生成AIの入力ソースであるWeb上には含まれていないものがあるためです」（https://note.com/mngt46/n/na1c988382e73）
-  - 「第一の視点：問いと仮説の展開性」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを、明確な方法論として描いています」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「その出発点にあるのが「問い」と「仮説」です」（https://note.com/ten365_blog/n/n7c6df28110e7）
 - 一次情報の探し方：
   - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「未経験でもコンサルは可能です！中途採用の7〜8割は業界未経験者と言われています」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
+  - 「さらに、社内的にも採用戦略、評価制度設計、全社的イニシアチブの推進など、」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
+  - 「市場調査や業界構造のリサーチ、統計データの整理・加工、プレゼン資料の素案作成など、地道だが価値ある実務を丁寧かつ迅速にこなしていくことが求められる」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
   - 「① 一次情報 → 二次情報 → Web の順に見る」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「2. 省庁資料・クレディブルな統計データ」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「3. 企業資料（IR・決算・プレスリリース）」（https://note.com/gomaengineer/n/nf0782f7d7838）
@@ -811,13 +813,12 @@
   - 「• 公的資料 → 業界レポート → 企業資料 → Web の順になっているか？」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「ツールとしては、官公庁や民間調査機関の統計資料、科学や学術的なリサーチでは、Google ScholarやStatistaなどのプラットフォームが一般的に利用されます」（https://note.com/mngt46/n/na1c988382e73）
   - 「文献調査やインタビュー、統計分析、現地調査など多様な手法を扱いながらも、根底に流れるのは「事実に向き合い、同時に疑う」という知的な姿勢です」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「数字や統計は、その前提を離れれば単なる断片情報に過ぎず、」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「この構造は、有価証券報告書のような公的文書であっても、有名な学術論文であっても、あるいは政府統計のような権威性を帯びた情報であっても同じです」（https://note.com/ten365_blog/n/n7c6df28110e7）
 - 失敗・落とし穴：
   - 「【心理学×社会心理学的バイアス】人はなぜ不合理な行動をとるのか？」（https://biz-con.plus/skillup-researchprocess/）
   - 「心理学において、偏見や思い込み、誤解などを指す言葉として『 バイアス 』が様々なシーンで使われます」（https://biz-con.plus/skillup-researchprocess/）
   - 「本記事では、どのような『 バイアス 』が存在するのか？私たちの日常生活の認知にどのような影響を与えているかをまとめています」（https://biz-con.plus/skillup-researchprocess/）
   - 「『 バイアス 』を正しく理解し、自分で情報を正しく選択できるようになりましょう」（https://biz-con.plus/skillup-researchprocess/）
+  - 「ITRは1年半に渡ってPJ会議に参画し、仕様確定・進捗管理における要注意事項の指摘改善と製品機能の確認、利用者教育におけるつまずき防止のためのアドバイスを行いました」（https://www.itr.co.jp/service/consulting）
   - 「多種多様なリサーチ技法について、それぞれの主な使用シーン、テクニック、ルール、注意点がわかりやすくまとまっており、非常に使いやすい一冊と言えるでしょう」（https://note.com/lpkojitaku/n/n34c9eadcab84）
   - 「特に注目すべきなのは、情報は「調べる」だけでなく「つくる」ことができると指摘している点であり、インタビューやフィールド調査を行う際の注意点まできちんとカバーされているのです」（https://note.com/lpkojitaku/n/n34c9eadcab84）
   - 「特に、必要な情報が手に入るかどうか実際に調べてみないと分からない場合、1つだけの情報源に絞ってしまうと失敗したときのリスクが高まります」（https://note.com/lpkojitaku/n/n34c9eadcab84）
@@ -828,7 +829,6 @@
   - 「入社後すぐにアナリストとして任されることが多い「デスクリサーチ」を例に方法と注意すべきポイントを解説」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
   - 「次世代のマテハン「物流ロボット」を解説！導入のメリットと注意点」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
   - 「ため注意が必要です」（https://consulfree.com/blog/consultant-analyst/）
-  - 「フリーランスコンサルタントの年収・月収比較、職位別の年収相場、稼働率別の年収の違い、年収アップのコツや注意点など業界最前線の実態をわかりやすく解説」（https://consulfree.com/blog/consultant-analyst/）
 - 実例：
   - 「transportation, and let me use highways as an example,」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
   - 「Study design (randomised controlled trial, cohort, case-control, scoping, systematic, mixed methods)」（https://researchgold.org/services/research-consultant）
@@ -839,12 +839,12 @@
   - 「リサーチは販売戦略やサービス開発戦略を検討する際に市場の声を集めたり、システム導入のベンダー選定時に各社の情報を収集する際など、多様なケースで欠かせないものとなっています」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
   - 「本記事では物流ITコンサルティングのサービス内容や、価格の相場観、物流ITコンサルの選び方などについて、過去多数の物流DX案件を担当してきたコンサルタントがコンサルティングの実例も交え詳しくご紹介しています！」（https://note.rallygrowth.co.jp/tag/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/）
   - 「【診断士2次試験・事例IV】キャッシュフローは作成と分析を極めよ」（https://biz-con.plus/skillup-researchprocess/）
-  - 「例えば、上司からあなたに次の指示が来たとします」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「→ 具体的な事例や競合比較に使える」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「コンサルは調査結果をまとめるとき、いきなりパワポを作りません」（https://note.com/gomaengineer/n/nf0782f7d7838）
-  - 「ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて3ステップで超簡単に解説します」（https://note.com/mngt46/n/na1c988382e73）
-  - 「ここでは、コンサルティングの現場でどのようにして効果的なリサーチを行い、その結果をどのように資料としてまとめるかについて詳しく解説します」（https://note.com/mngt46/n/na1c988382e73）
-  - 「ステップ3: 結果の報告」（https://note.com/mngt46/n/na1c988382e73）
+  - 「掲載した昇進スピード・給与よりも上振れ/下振れしている事例は多数存在している」（https://note.com/ueda_tokyo_24/n/nebaeb409045a）
+  - 「市場レポートの検索）・エキスパートインタビュー・アンケート・現地調査などがありますが、今回は主にデスクリサーチに主軸にして、その基本的な考え方を実例交えて紹介します」（https://www.arts-crafts.co.jp/post-16243/）
+  - 「例えば、「中国の飲食店市場を調べて欲しい」というリサーチ依頼があった場合、中国市場に参入したい・中国市場にて新規取引先を見つけたい・中国市場における先進事例を知りたい等の意図が想定され、これらの目的によって調査項目が大きく変動します」（https://www.arts-crafts.co.jp/post-16243/）
+  - 「これが曖昧だとクライアントの納得感を失い、リサーチ結果を基にした討議が滞ってしまいます」（https://www.arts-crafts.co.jp/post-16243/）
+  - 「リサーチの実施において、リサーチ結果の納得感は、「情報が多いほど良いわけではなく、提案内容の方針によっても大きく変わる」ことを意識する必要があります」（https://www.arts-crafts.co.jp/post-16243/）
+  - 「例えば、「電気自動車の市場規模」を調査する際は、「電気自動車・」（https://www.arts-crafts.co.jp/post-16243/）
 - 検索結果の抜粋：
   - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... — Nov 12, 2023 · その中でコンサルタントはアサインされる案件の目的・課題にあわせてリサーチ手法を使い分けています。 この記事ではコンサルタントに必要なリサーチについて詳しく解説しています。」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
   - 「【コンサルティング業界向け】リサーチシナリオ10選 | リサーチ・市場... — May 18, 2026 · 本資料は、コンサルティングファームの戦略部門や新規事業担当者が直面する課題に基づき、リサーチをどのようにコンサルティング実務に組み込み、成果へ導くかをまとめた事例集です 。」（https://www.cross-m.co.jp/report_all/consulting_case-studies）
@@ -4883,6 +4883,7 @@
   - 「30%以上なら比較的安定、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「競合シェアの調べ方｜情報源・計算方法と比較の注意点」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
   - 「ただし、ページに更新日があっても、売上の対象年度が新しいとは限らない点に注意してください」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「失敗への懸念を伝え、軌道修正につながったと回答した材料」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
@@ -6292,11 +6293,69 @@
 
 ## アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析）（anchoring bias analyst research first number prevention）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「実践手順：独立に見積もってから参考値と照合する」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「参考値を無視するのではなく、根拠の見える状態で比較する方法です」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「公式問題の再現や、この方法だけでスコアが上がるという保証ではありません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「Lean User Research: How to Run Meaningful Research with No Time or Budget」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Switch Interviews: The JTBD Method for Understanding Why Customers Buy (and Leave)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Smoke Tests and Fake Door Tests: How to Validate Demand Before You Build」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Customer Needs Analysis: How to Uncover What Customers Actually Want」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Stratified Sampling: How to Get Precise, Representative Results (2026)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「How to Create a Customer Feedback Form (with Examples)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「How to Conduct User Interviews: The Complete Step-by-Step Guide」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Power User Interviews: How to Learn from Your Best Customers to Drive Growth」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Perceptual Mapping: How to Visualize Brand Positioning」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「MVP Validation: 9 Proven Methods to Test Your Minimum Viable Product (2026 Guide)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Concept Testing: The Complete Methodology Guide」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「UX Research Methods: The Complete Toolkit for Researchers and Product Teams」（https://www.koji.so/docs/anchoring-bias-research）
+- 突き合わせ・推定：
+  - 「実践手順：独立に見積もってから参考値と照合する」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「確認例：納期10日という数字を検証する」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「条件確認・独立した計算・他の根拠との照合を、繰り返し練習するための記事です」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「Liederほか：アンカリングと数値推定の研究概要（本文は購読制）」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「無料6問では能力判定・推定スコア・ランクは表示しません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「Triangulation in Research: Combining Methods for Stronger, More Credible Insights (2026)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Propensity Score Matching and the Pruning Paradox: When Better Balance Makes Your Estimate Worse (2026)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「. In the classic experiment, participants spun a wheel of fortune that landed on a number between 0 and 100, then estimated the percentage of African nations in the United Nations. The wheel was rigged. Participants who saw 10 gave a median estimate of 25%; those who saw 65 gave a median estimate of 45% (」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「The number was visibly random and had nothing to do with Africa or the UN — yet it pulled estimates toward it. We anchor on whatever number is in front of us and adjust insufficiently from there.」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Asking "How many hours per week do you spend on this — more or less than 20?" anchors the estimate near 20.」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Drop "more or less than X" framings; ask for the estimate cold.」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「reference point that pulls quantitative estimates toward it.」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Order bias is about how earlier questions reshape the context for later ones; anchoring is about a specific value becoming the starting point a respondent adjusts from. A price shown in question two can anchor an estimate in question five.」（https://www.koji.so/docs/anchoring-bias-research）
+- 失敗・落とし穴：
+  - 「作業量から積み上げる独自ケースで、参考値と根拠を分け、確証バイアス・埋没費用との違いを図解します」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「ただし、過去の相場や実績を使うこと自体が誤りなのではありません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「販売価格には共通費の負担や利益などを考慮することもあるため、「5万円以外はすべて間違い」とは言えません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「確証バイアスは、すでに持つ考えを支持する情報へ偏りやすいことです」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「「100万円が正しいと考え、高い案件だけ集めた」は確証バイアスを点検する場面」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「Anchoring Bias in Research: How the First Number Skews Answers」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Interviewer Bias: How Moderators Distort Research (and How AI Removes the Variance)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Proxy Response Bias: Why the Question, Not the Person, Decides How Wrong a Proxy Is (2026)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Research Bias: The Complete Guide to Cognitive Biases That Corrupt User Research」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Trust the Delta, Not the Level: Common-Mode Bias in Research (2026)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Slips vs Mistakes: How to Classify User Errors in Usability Testing (2026)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Sampling Bias: Types, Examples, and How to Avoid It」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Survivorship Bias in Customer Research: Why You're Only Hearing Half the Story」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Courtesy Bias: Why Respondents Tell You What You Want to Hear」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Self-Selection Bias: Why the People Who Answer Aren't the People You Need」（https://www.koji.so/docs/anchoring-bias-research）
+- 実例：
+  - 「独自ケース：先に提示された100万円をどう扱うか」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「作業量から積み上げる独自ケースで、参考値と根拠を分け、確証バイアス・埋没費用との違いを図解します」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「本記事は見積もり判断を練習する独自の架空ケースで、実験による効果の大きさを示したものではありません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「編集部独自のケースで、実験の測定結果ではありません」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「前回100万円から10%引いた90万円は、提示額を調整した結果です」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「積み上げた5万円は、このケースで定義した費用です」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「この記事の図・数値・ケースは編集部独自の学習用です」（https://gmap-taisaku.org/blog/gmap-ct-anchoring.html）
+  - 「How to Create a Customer Feedback Form (with Examples)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Customer Feedback Questions: 60+ Examples by Lifecycle Stage」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Sampling Bias: Types, Examples, and How to Avoid It」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Negative Case Analysis: How to Use the Participants Who Don't Fit」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Nominal Group Technique: Steps, Examples and When to Use It」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「Focus Group Questions: 50+ Examples and How to Write Them」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「The Case Definition: The Decision That Fixes or Breaks Every Issue Count (2026)」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「How to Write Usability Test Tasks and Scenarios (With Examples)」（https://www.koji.so/docs/anchoring-bias-research）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
 
 ## 市場の定義・範囲がずれた数字の照合（合算・含む・除く・狭義と広義）の実務（market definition scope mismatch reconcile figures）
 - 文脈：突き合わせ
@@ -6415,6 +6474,8 @@
   - 「provide cost-eﬀective estimates for any disambiguation algorithm.」（https://arxiv.org/pdf/2210.01230）
   - 「to validate the performance of our estimators. Section 3 then presents our performance estimates and results」（https://arxiv.org/pdf/2210.01230）
   - 「estimates based on this data might therefore be slightly optimistic, which should be acknowledged when」（https://arxiv.org/pdf/2210.01230）
+- 一次情報の探し方：
+  - 「View a PDF of the paper titled How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation, by Olivier Binette and 4 other authors」（https://arxiv.org/abs/2404.05622）
 - 失敗・落とし穴：
   - 「estimators that account for sampling biases. Our approach is simple, practical and principled – key」（https://arxiv.org/pdf/2210.01230）
   - 「leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given」（https://arxiv.org/pdf/2210.01230）
@@ -6447,7 +6508,6 @@
   - 「estimation accuracy in such cases.」（https://arxiv.org/pdf/2210.01230）
   - 「This section provides more information on example 1.」（https://arxiv.org/pdf/2210.01230）
   - 「For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a」（https://arxiv.org/pdf/2210.01230）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法（outcome switching pre-registration discrepancy detection research）
 - 文脈：失敗
@@ -6986,6 +7046,8 @@
   - 「variance of estimated linkage propensities.」（https://arxiv.org/pdf/2404.05622）
   - 「At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,」（https://arxiv.org/pdf/2404.05622）
   - 「considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to」（https://arxiv.org/pdf/2404.05622）
+- 一次情報の探し方：
+  - 「View a PDF of the paper titled How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation, by Olivier Binette and 4 other authors」（https://arxiv.org/abs/2404.05622）
 - 失敗・落とし穴：
   - 「commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to」（https://arxiv.org/pdf/2404.05622）
   - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
@@ -7001,6 +7063,7 @@
   - 「Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past」（https://arxiv.org/pdf/2404.05622）
   - 「precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.」（https://arxiv.org/pdf/2404.05622）
   - 「of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially」（https://arxiv.org/pdf/2404.05622）
+  - 「Typical evaluation procedures used in entity resolution can result in misleading conclusions, as some commonly-used performance estimators are biased」（https://arxiv.org/html/2404.05622）
 - 実例：
   - 「numerous yet small. For example, entity resolution is used for the identification of unique inventors listed」（https://arxiv.org/pdf/2404.05622）
   - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
@@ -7017,7 +7080,6 @@
   - 「example, we can estimate each expectation with its corresponding weighted sample average—and take the」（https://arxiv.org/pdf/2404.05622）
   - 「In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling」（https://arxiv.org/pdf/2404.05622）
   - 「of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be」（https://arxiv.org/pdf/2404.05622）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## ファクトチェック団体の検証記事の検索の使い方（FIJ ファクトチェック・ナビ・Google Fact Check Explorer）と、翻訳・要約で離れた文脈を一次と見比べる手順（fact check explorer how to use verify translated summarized claims against original source）
 - 文脈：手順・やり方
