@@ -106,6 +106,26 @@ def _fetch(url: str) -> "requests.Response | _Resp | None":
     return r
 
 
+def _estat(year: int, log: list[str]) -> list[str]:
+    """e-Stat（政府統計の総合窓口）の工業統計調査（政府統計コード 00550010）のファイル一覧から、その年の産業別統計表の Excel を探す。
+    見つからなければ一覧のページで見えた候補をログに残す。"""
+    out, seen = [], []
+    for q in (f"工業統計表 産業別統計表 {year}年", f"工業統計調査 {year}年 確報 産業別統計表"):
+        url = "https://www.e-stat.go.jp/stat-search/files?toukei=00550010&query=" + requests.utils.quote(q) + "&layout=datalist&page=1"
+        r = _fetch(url)
+        if r is None or r.status_code != 200:
+            seen.append(f"{url} status={getattr(r, 'status_code', '接続失敗')}")
+            continue
+        html = r.text
+        for m in re.finditer(r"""href=["']([^"']*file-download\?[^"']*statInfId=\d+[^"']*)["']""", html):
+            ctx = html[max(0, m.start() - 600):m.start()]
+            if "産業別" in ctx or "産業細分類" in ctx:
+                out.append(requests.compat.urljoin("https://www.e-stat.go.jp/", m.group(1).replace("&amp;", "&")))
+        seen.append(f"{url}（file-download {len(re.findall('file-download', html))}件）")
+    log.append(f"- {year}：経産省は CAPTCHA のため e-Stat を見た：" + "／".join(seen) + f"／産業別の候補 {len(out)}件")
+    return list(dict.fromkeys(out))[:6]
+
+
 def _links(year: int, slug: str, log: list[str]) -> list[str]:
     """その年の産業別統計表の Excel。決まった名前を先に試し、無ければ所管ページの中のリンクから探す"""
     page = BASE.format(slug=slug)
@@ -138,6 +158,9 @@ def _links(year: int, slug: str, log: list[str]) -> list[str]:
             rr = _fetch(u)
             if rr is not None and rr.status_code == 200:
                 hrefs += _xls(rr.text, u)
+        if not hrefs and "captcha" in r.text.lower():
+            # 経産省の古い年のページは機械からの取得を CAPTCHA で止めている。突破はしない。同じ表を置いている政府統計の窓口（e-Stat）から取る
+            hrefs = _estat(year, log)
         if not hrefs:
             allh = re.findall(r"""href=["']([^"']+)["']""", r.text, flags=re.I)[:40]
             log.append(f"- {year}（{slug}）：ページのリンク（先頭40）：" + " ".join(allh))
