@@ -53,6 +53,7 @@
   - 「企業の採用サイト就活サイトに載らない限定インターンシップや、早期募集がひっそり始まっていることもあります」（https://unistyleinc.com/techniques/1459）
   - 「SNS・イベント経由X（旧Twitter）やLinkedIn、合同説明会、逆求人イベントなどから、その場でインターンシップにつながるケースもあります」（https://unistyleinc.com/techniques/1459）
 - 失敗・落とし穴：
+  - 「【必見】ITコンサルタントを外注するには？注意点や選定方法を徹底解説」（https://consul-data-bank.com/insight/5868/）
   - 「(実際の面接開始の５分前)」、人事の人に気遣う人もいると思いますが、それは罠だと思っていただいて結構です」（https://unistyleinc.com/techniques/1459）
   - 「以下、フェルミ推定をする際の注意点をまとめておきます」（https://unistyleinc.com/techniques/1459）
   - 「この記事でわかることインターンシップの全体像インターンシップとはインターンシップの準備▼目次クリックで展開本記事の構成インターンシップの全体像インターンシップとは企業がインターンシップを開催する目的・メリット就活生がインターンシップに参加する目的・メリットインターンシップの概要募集はいつから？季節ごとのインターンシップ開催時期インターンシップを探す前の準備インターンシップの探し方・選び方インターンシップのエントリー方法インターンシップの選考対策インターンシップ参加時の注意点インターンシップ参加後にやるべきことインターンシップのよくある質問まとめインターンシップの全体像インターンシップESの作り方・書き方インターンシップにおけるエントリーシート(ES)の作り方についてポイントを解説しています」（https://unistyleinc.com/techniques/1459）
@@ -67,7 +68,6 @@
   - 「エントリーシート(ES)志望動機におけるフレームワーク-6つのステップで書き方を解説-ここからは、先ほど紹介した志望動機のフレームワークを基に、各ステップの詳細や注意点について解説します」（https://unistyleinc.com/techniques/1459）
   - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1459）
   - 「もちろん、成し遂げたいことがその業界で成し遂げたいこととして的外れな場合は評価されないので注意してください」（https://unistyleinc.com/techniques/1459）
-  - 「経験に根差していれば何でもいいわけではないので注意が必要です」（https://unistyleinc.com/techniques/1459）
 - 実例：
   - 「参入したい市場が決まっていると、成長予測や成功事例ばかりが目に入りがちです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「調べる問いが定まらない、顧客への確かめ方に迷う、調査結果を企画に落とし込めない」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
@@ -173,6 +173,7 @@
   - 「評定者ＲＥによるケーススコア軸に関わる対比的なラベルを取り出しておきます」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
 - 検索結果の抜粋：
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...【NAV17】三角測量——複数視点からの3D点復元の数学と精度分析｜FUKUSH...デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質」（https://note.com/kasano/n/n5300393c2f30）
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...287_研究メモ】 Eisenhardt メソッドの信頼性はどう担保されるのか？ ...VP ARCHIVE SCIENCE | Measuring the Earth PHASE 01-06 ...デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト...【48時間の専門家化】Google検索は素人の所業。未知の業界の「急所」... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査をおこなう研究者」（https://note.com/kasano/n/n5300393c2f30）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ... — Apr 3, 2023 · 本稿では、大規模言語モデル（Large Languagn Model, LLM）の急速かつ劇的な進歩を踏まえ、社会学の研究者であるノーマン・K・デンジンが1970年代に提唱した「トライアンギュレーション（三角測量）」という方法論の拡張を、デザインリサーチの多元化の一例と ...」（https://note.com/kasano/n/n5300393c2f30）
   - 「デザインリサーチャーは死んだのか──生成AIをめぐる3年間の議論と、ト... — Oct 22, 2026 · 私はワークショップの前年に「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギュレーション」という短いテキストを書き、社会学者のノーマン・K・デンジン（Norman K. Denzin）が提唱したトライアンギュレーション（三角測量）のうち ...」（https://note.com/kasano/n/n7b5909b6492c）
   - 「トライアンギュレーションとは？意味・4つの種類・研究での使い方をわ... — Sep 25, 2026 · デンジン自身はトライアンギュレーションを「複数の観察者・方法・解釈の視点・経験的資料の水準や形式を用いて解釈を構築すること」と説明しています。 トライアンギュレーションの4つの種類（デンジンの分類）」（https://scholarcompass.net/columns/184）
@@ -186,7 +187,6 @@
   - 「Triangulation in Research: The 4 Types — CASRAI — Aug 23, 2026 · Triangulation in Research: Types, Purpose, and How to Apply It Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.」（https://casrai.org/guides/triangulation-in-research）
   - 「(PDF) The Role of Triangulation in Qualitative Research ... — Jul 5, 2024 · Abstract Triangulation is a methodological approach that involves using multiple methods or data sources to enhance the credibility and validity of research findings.」（https://www.researchgate.net/publication/382547374_The_Role_of_Triangulation_in_Qualitative_Research_Converging_Perspectives）
   - 「Triangulation in Research | Guide, Types, Examples - Scribbr — Jan 3, 2022 · Triangulation uses multiple data sources, methods, investigators or theories in research.」（https://www.scribbr.com/methodology/triangulation/）
-  - 「(PDF) Triangulation in Research — Aug 31, 2021 · This research utilizes a mixed-method exploratory sequential research design employing the triangulation method to validate and confirm data using multiple sources to cross-check finding (Campbell ...」（https://www.researchgate.net/publication/354268603_Triangulation_in_Research）
 
 ## 企業分析のやり方（非上場・中小企業）（how to analyze private small companies）
 - 文脈：企業
@@ -3330,7 +3330,7 @@
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -5410,7 +5410,7 @@
   - 「Case Study Research: Principles and Practices」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「How Does Neopatrimonialism Affect the African State? The Case of Tax Collection in Zambia」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「Process Tracing and Elite Interviewing: A Case for Non-Probability Sampling」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -6022,11 +6022,11 @@
 
 ## 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）（equity research workflow source tracking stale inputs checklist）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務（structured analytic techniques scenarios key assumptions check practitioner）
 - 文脈：突き合わせ・推定
