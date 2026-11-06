@@ -8,7 +8,7 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-05T21:41:56.514499+00:00",
+ "researched_at": "2026-11-06T00:14:22.725014+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -39,7 +39,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/shirasuaimar21/n/n9ec301efd23e",
+    "url": "https://note.com/epolicy_actvst/n/nb3cb56078b4b",
     "status": "ok",
     "method": "http"
    },
@@ -64,7 +64,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/no_pain_no_game/n/na3c15c5ab0e5",
+    "url": "https://note.com/genial_robin6007/n/n60eb97bcad5d",
     "status": "ok",
     "method": "http"
    },
@@ -72,6 +72,11 @@
     "url": "https://blog.truestar.co.jp/exploratory/20210827/47128/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.amed.go.jp/content/000034153.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
@@ -89,34 +94,29 @@
     "method": "pdf"
    },
    {
-    "url": "https://wakara.co.jp/mathlog/20220707",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://stat-agent.com/blog/15.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.amed.go.jp/content/000034153.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000607858.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
     "url": "https://lab-brains.as-1.co.jp/enjoy-learn/2025/04/75007/",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://wakara.co.jp/mathlog/20220707",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.eternalstudent.jp/entry/2025/11/29/120736",
@@ -174,11 +174,11 @@
     "https://note.com/naruhiko_007/n/ndcf3dfc64fda",
     "https://note.com/suoh2009/n/n3df559457547",
     "https://note.com/reading_monkey/n/n071245058836",
-    "https://note.com/shirasuaimar21/n/n9ec301efd23e",
     "https://note.com/epolicy_actvst/n/nb3cb56078b4b",
-    "https://note.com/reading_monkey/n/nc163a82be160",
+    "https://note.com/shirasuaimar21/n/n9ec301efd23e",
     "https://note.com/kagawatomo/n/ne8d541e57ea5",
-    "https://note.com/bizgram/n/n9a587c22ec50"
+    "https://note.com/kitecareplan/n/n05ffe0700fff",
+    "https://note.com/reading_monkey/n/nd296c3a4db64"
    ]
   },
   {
@@ -188,12 +188,12 @@
     "https://chigaiwa.com/bosu-bunbo/",
     "https://note.com/makememo/n/n7731279fdf2c",
     "https://data.wingarc.com/statistical-terms-31007",
-    "https://note.com/no_pain_no_game/n/na3c15c5ab0e5",
+    "https://note.com/genial_robin6007/n/n60eb97bcad5d",
     "https://blog.truestar.co.jp/exploratory/20210827/47128/",
-    "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
     "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "https://note.com/sutokei/n/nb754776e2856"
+    "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
+    "https://note.com/yri_healthtech/n/n4f15ac549754"
    ]
   },
   {
@@ -201,12 +201,12 @@
    "results": [
     "https://data.wingarc.com/statistical-terms-31007",
     "https://note.com/celestia1212/n/n55edf5b61cf8",
+    "https://www.amed.go.jp/content/000034153.pdf",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
     "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
     "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
-    "https://www.youtube.com/watch?v=Ptkr0C-zjOI",
-    "https://wakara.co.jp/mathlog/20220707",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.soumu.go.jp/main_content/000607858.pdf",
     "https://blog.truestar.co.jp/exploratory/20210827/47128/",
     "https://stat-agent.com/blog/15.html"
    ]
@@ -216,13 +216,13 @@
    "results": [
     "https://data.wingarc.com/statistical-terms-31007",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "https://www.amed.go.jp/content/000034153.pdf",
-    "https://note.com/celestia1212/n/n55edf5b61cf8",
     "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
+    "https://note.com/celestia1212/n/n55edf5b61cf8",
     "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
     "https://lab-brains.as-1.co.jp/enjoy-learn/2025/04/75007/",
     "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://wakara.co.jp/mathlog/20220707",
     "https://blog.truestar.co.jp/exploratory/20210827/47128/"
    ]
   },
@@ -237,7 +237,7 @@
     "https://americanpressinstitute.org/data-reporting-common-mistakes/",
     "https://isoj.org/research/knowing-the-numbers-assessing-attitudes-among-journalists-and-educators-about-using-and-interpreting-data-statistics-and-research/",
     "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php/",
-    "https://en.wikipedia.org/wiki/Data_journalism",
+    "https://ijnet.org/en/story/how-avoid-common-data-visualization-errors",
     "https://openpress.universityofgalway.ie/dataliteracy/chapter/2-1-10-simple-data-errors-that-can-ruin-an-investigation/"
    ]
   },
@@ -295,14 +295,14 @@
   {
    "query": "データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説 note 社長",
    "results": [
-    "https://note.com/celestia1212/n/n55edf5b61cf8",
     "https://note.com/makememo/n/n7731279fdf2c",
     "https://note.com/kubinashi_ai/n/na2e7ad97504a",
+    "https://note.com/celestia1212/n/n55edf5b61cf8",
     "https://data.wingarc.com/statistical-terms-31007",
     "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
     "https://note.com/d2cid_inc/n/n8f0d0873057f",
+    "https://www.software-plaza.com/column/%E8%AA%A4%E7%94%A8%E3%81%95%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E7%B5%B1%E8%A8%88%E7%94%A8%E8%AA%9E/",
     "https://wakara.co.jp/mathlog/20201121",
     "https://note.com/yri_healthtech/n/n4f15ac549754"
    ]
@@ -312,13 +312,13 @@
    "results": [
     "https://x.com/ikedanoriyuki/status/1915062790659924393",
     "https://wakara.co.jp/mathlog/20201121",
+    "https://www.youtube.com/watch?v=ARhpd65fTPk",
     "https://data.wingarc.com/statistical-terms-31007",
     "https://www.gixo.jp/blog/12335/",
-    "https://www.youtube.com/watch?v=ARhpd65fTPk",
-    "https://note.com/celestia1212/n/n55edf5b61cf8",
+    "https://freeasy24.research-plus.net/blog/c305",
     "https://www.jmp.com/ja/statistics-knowledge-portal/measures-of-central-tendency-and-variability/mean-median-and-mode",
-    "https://www.reddit.com/r/explainlikeimfive/comments/53vj4h/eli5_what_is_the_difference_between_average_of/?tl=ja",
     "https://www.youtube.com/watch?v=3WPUgvA8x3I",
+    "https://note.com/celestia1212/n/n55edf5b61cf8",
     "https://blog.truestar.co.jp/exploratory/20210827/47128/"
    ]
   },
@@ -346,6 +346,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-05T21:41:56.514499+00:00"
 }

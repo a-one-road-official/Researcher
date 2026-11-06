@@ -8,42 +8,90 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-05T21:51:37.087977+00:00",
+ "researched_at": "2026-11-06T00:23:03.446397+00:00",
  "evidence": {
-  "突き合わせ・推定": [
+  "失敗・落とし穴": [
    {
-    "quote": "observed, derived and estimated data",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic products.",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "well as source access, validation, motivation, possible bias, or expertise. Source summary",
+    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Triangulation (Source Triangulation)",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Observed, Derived and Estimated Data",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.",
+    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このことは、国防総省全体における分析成果物の客観性、バイアス、政治化、その他の課題に対するアプローチに一貫性がないリスクを増大させる",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、バイアスを明らかにし、軽減する推論技術や実践的なメカニズムを用いなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4. The Standards also promote a common ethic for achieving analytic rigor and excellence, and for personal integrity in analytic practice. Adherence to IC Analytic Standards is safeguarded by the ODNI Analytic Ombuds, who addresses concerns regarding lack of objectivity, bias, politicization, or other issues in Standards application in analytic products.",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IC 分析標準の遵守は、ODNI 分析オンブズによって保護されており、このオンブズは、客観性 の欠如、バイアス、政治化、または分析成果物における標準の適用におけるその他の問題に 関する懸念に対処する",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、バイアスを明らかにし、軽減する推論技法と実際的なメカニズムを用いなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析者は、既存の分析的立場や判断による影響に注意深くなければならず、代替的な視点や反対情報を考慮しなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -54,160 +102,62 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである",
+    "quote": "2つのICの分析要素間のような、分析判断における重大な相違は、十分に検討し、顧客の注意を喚起すべきである",
     "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "分析成果物は、もっともらしい代替仮説を特定し、評価しなければならない",
+    "quote": "その際、分析成果物は、顧客にとって有用なすべての判断を提示すべきであり、間違いのリスクを最小化するために困難な判断を回避すべきではない",
     "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "describes the analyst's actual probability estimate for the event or claim in question. These are independent: an analyst can be highly confident in a low-likelihood judgment (strong evidence supporting an assessment that something is unlikely to happen) just as easily as low-confidence in a high-likelihood judgment (weak, contested evidence pointing toward something probably being true).",
+    "quote": "The Daily Brief: the day's most important stories, multi-source analysis with bias reports and transparent methodology, every weekday. No filler, no outrage bait, no ads.",
     "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "map to increasingly narrow bands of estimated probability, rather than being left to each writer's individual sense of the word.",
+    "quote": "briefing every morning: stories checked for source strength, with their bias surfaced, so you can decide for yourself.",
     "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "No — confidence describes how well-supported the analysis itself is (sourcing, reporting volume, reliability); likelihood is the actual probability estimate for the event or claim. An analyst can hold either combination: high confidence in a low-likelihood judgment, or low confidence in a high-likelihood one.",
-    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "checked against the cited primary sources on",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "Objectivity. Analysts have to be aware of their own assumptions and actively work to identify and reduce bias, rather than letting familiar positions go unquestioned.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "Products have to keep a clear line between the underlying intelligence and the analyst’s own assumptions and interpretations. That is the difference between “intercepted communications show X” and “we assess this means Y.” When the line blurs, policymakers can mistake an inference for a confirmed fact.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "The ODNI Analytic Ombuds is the primary safeguard against politicized intelligence. The role addresses concerns about lack of objectivity, bias, politicization, or other failures in how the analytic standards are applied, and provides a confidential channel for analysts who believe they are being pressured to alter conclusions for reasons that have nothing to do with the evidence.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Anything beyond the third party's own access; the content of a filing it describes, until the filing itself is retrieved",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "Congress created the position in the 2004 reform act, which required the DNI to designate someone available to counsel analysts, conduct arbitration, offer recommendations, and investigate complaints about biased or politicized analysis.",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "4.2 What common US filings do and do not show.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "Cognitive Biases in Intelligence Analysis",
+    "url": "https://intelligencenotes.com/02-Concepts--and--Tactics/22-Intelligence--and--OSINT/ICD-203",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Establish that the item is what it appears to be. A filing retrieved from the registry's own system is a different item from a copy of it hosted elsewhere. Check metadata, and compare dates inside the document with the page's dates.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A news report of a filing is evidence of what the reporter wrote. Its origin is OSINT_SOURCED. When the filing itself is retrieved from the regulator's own system, it becomes a second evidence item with origin REGULATORY_PUBLIC_RECORD. An evidence item names only what the researcher actually read.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A filing to, or a record kept by, a regulator, statutory registry or court, retrieved from that body's own system",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "An official publication of a public body or public-sector institution, issued in its official capacity and not as a filing to a regulator",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A filing is still the filer's own account. REGULATORY_PUBLIC_RECORD says where it was filed, not that it is true.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A copy of a filing hosted by an aggregator.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OECD 公的監査における人工知能の現状 2026.05.07)",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(公認会計士試験ガイド★講座 対策 受験 求人 事務所 問題集 合格 資格 学校)",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、COVID-19パンデミックの際、NGIC、MCIA、ONI、USCYBERCOMで新たに採用されたアナリストや軍事アナリストは、さまざまな理由から、ICD203分析トレードクラフト標準の訓練を受けていなかった",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・2015.01.02 [PDF]",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・2007.06.21 [PDF]",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example 2: a report of a filing.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "quote": "Cognitive biases in OSINT; key assumptions check, ACH, indicators, devil's advocacy, premortem; deception",
+    "url": "https://github.com/SOsintOps/intelligence-field-notes",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -384,6 +334,208 @@
    {
     "quote": "One consequence of how we work belongs here. We purge case findings within 48 hours of final delivery. The copy handed over is the one that persists, and the client holds it from that point. Whatever provenance record a finding carries has to travel in that copy, because we will not be holding it.",
     "url": "https://privacyinsightsolutions.com/blog/osint-evidence-standards",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "checked against the cited primary sources on",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Anything beyond the third party's own access; the content of a filing it describes, until the filing itself is retrieved",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4.2 What common US filings do and do not show.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Establish that the item is what it appears to be. A filing retrieved from the registry's own system is a different item from a copy of it hosted elsewhere. Check metadata, and compare dates inside the document with the page's dates.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A news report of a filing is evidence of what the reporter wrote. Its origin is OSINT_SOURCED. When the filing itself is retrieved from the regulator's own system, it becomes a second evidence item with origin REGULATORY_PUBLIC_RECORD. An evidence item names only what the researcher actually read.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing to, or a record kept by, a regulator, statutory registry or court, retrieved from that body's own system",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An official publication of a public body or public-sector institution, issued in its official capacity and not as a filing to a regulator",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A filing is still the filer's own account. REGULATORY_PUBLIC_RECORD says where it was filed, not that it is true.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A copy of a filing hosted by an aggregator.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "OECD 公的監査における人工知能の現状 2026.05.07)",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(公認会計士試験ガイド★講座 対策 受験 求人 事務所 問題集 合格 資格 学校)",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、COVID-19パンデミックの際、NGIC、MCIA、ONI、USCYBERCOMで新たに採用されたアナリストや軍事アナリストは、さまざまな理由から、ICD203分析トレードクラフト標準の訓練を受けていなかった",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・2015.01.02 [PDF]",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・2007.06.21 [PDF]",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example 2: a report of a filing.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "observed, derived and estimated data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation (Source Triangulation)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Observed, Derived and Estimated Data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "分析成果物は、もっともらしい代替仮説を特定し、評価しなければならない",
+    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "describes the analyst's actual probability estimate for the event or claim in question. These are independent: an analyst can be highly confident in a low-likelihood judgment (strong evidence supporting an assessment that something is unlikely to happen) just as easily as low-confidence in a high-likelihood judgment (weak, contested evidence pointing toward something probably being true).",
+    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "map to increasingly narrow bands of estimated probability, rather than being left to each writer's individual sense of the word.",
+    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "No — confidence describes how well-supported the analysis itself is (sourcing, reporting volume, reliability); likelihood is the actual probability estimate for the event or claim. An analyst can hold either combination: high confidence in a low-likelihood judgment, or low confidence in a high-likelihood one.",
+    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -761,158 +913,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic products.",
-    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by",
-    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "well as source access, validation, motivation, possible bias, or expertise. Source summary",
-    "url": "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.",
-    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.",
-    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.",
-    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.",
-    "url": "https://fortunefavorstheprepared.com/analytical-tradecraft/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このことは、国防総省全体における分析成果物の客観性、バイアス、政治化、その他の課題に対するアプローチに一貫性がないリスクを増大させる",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、バイアスを明らかにし、軽減する推論技術や実践的なメカニズムを用いなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4. The Standards also promote a common ethic for achieving analytic rigor and excellence, and for personal integrity in analytic practice. Adherence to IC Analytic Standards is safeguarded by the ODNI Analytic Ombuds, who addresses concerns regarding lack of objectivity, bias, politicization, or other issues in Standards application in analytic products.",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "IC 分析標準の遵守は、ODNI 分析オンブズによって保護されており、このオンブズは、客観性 の欠如、バイアス、政治化、または分析成果物における標準の適用におけるその他の問題に 関する懸念に対処する",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、特定の分析目的（例えば、対外情報または防諜情報を理解するため、あるいはその重要性を評価するために必要である）に関連する場合に限り、IC 要素の使命に合致し、Pll の誤りを防止し、識別し、修正するための手順を含む IC 要素の規則および方針に従って、PII を成果物に含めるべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、バイアスを明らかにし、軽減する推論技法と実際的なメカニズムを用いなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "分析者は、既存の分析的立場や判断による影響に注意深くなければならず、代替的な視点や反対情報を考慮しなければならない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このような要因には、正確性および完全性、否定および欺瞞の可能性、情報の古さお よび継続的最新性、情報収集の技術的要素、ならびに情報源へのアクセス、検証、動機、 バイアスの可能性、または専門知識が含まれる",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2つのICの分析要素間のような、分析判断における重大な相違は、十分に検討し、顧客の注意を喚起すべきである",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その際、分析成果物は、顧客にとって有用なすべての判断を提示すべきであり、間違いのリスクを最小化するために困難な判断を回避すべきではない",
-    "url": "https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The Daily Brief: the day's most important stories, multi-source analysis with bias reports and transparent methodology, every weekday. No filler, no outrage bait, no ads.",
-    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "briefing every morning: stories checked for source strength, with their bias surfaced, so you can decide for yourself.",
-    "url": "https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Objectivity. Analysts have to be aware of their own assumptions and actively work to identify and reduce bias, rather than letting familiar positions go unquestioned.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Products have to keep a clear line between the underlying intelligence and the analyst’s own assumptions and interpretations. That is the difference between “intercepted communications show X” and “we assess this means Y.” When the line blurs, policymakers can mistake an inference for a confirmed fact.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The ODNI Analytic Ombuds is the primary safeguard against politicized intelligence. The role addresses concerns about lack of objectivity, bias, politicization, or other failures in how the analytic standards are applied, and provides a confidential channel for analysts who believe they are being pressured to alter conclusions for reasons that have nothing to do with the evidence.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Congress created the position in the 2004 reform act, which required the DNI to designate someone available to counsel analysts, conduct arbitration, offer recommendations, and investigate complaints about biased or politicized analysis.",
-    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cognitive Biases in Intelligence Analysis",
-    "url": "https://intelligencenotes.com/02-Concepts--and--Tactics/22-Intelligence--and--OSINT/ICD-203",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cognitive biases in OSINT; key assumptions check, ACH, indicators, devil's advocacy, premortem; deception",
-    "url": "https://github.com/SOsintOps/intelligence-field-notes",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -1038,7 +1038,8 @@
     "https://x.com/NagisamaFuushiP/status/2088566248632442945",
     "https://x.com/saveourtre/status/2103038081893011548",
     "https://x.com/AandS_KSB1983/status/2038539828237844502",
-    "https://x.com/AandS_KSB1983/status/2033918089558200496"
+    "https://x.com/AandS_KSB1983/status/2033918089558200496",
+    "https://x.com/chisaidehissori/status/2094050470071607429"
    ]
   },
   {
@@ -1055,15 +1056,7 @@
   },
   {
    "query": "site:facebook.com 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）",
-   "results": [
-    "https://www.facebook.com/newspark.yokohama/posts/ワークショップosintをやってみようを開催しましたosintに取り組むと世界の見え方が変わると講師の兼松雄一郎氏日経は話しました多様な公開データを使い多角的な/1452172130032474/",
-    "https://www.facebook.com/InteropTokyo/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/1532652158197756/",
-    "https://www.facebook.com/Securitydays13/photos/-注目講演security-days-東京日本ハッカー協会-杉浦代表理事がosint-でランサムグループの実態を可視化リークサイト交渉痕跡暗号資産の動きから-組/122176936220783877/",
-    "https://www.facebook.com/balimoto.transcriber/videos/怪しいと証明できるは別問題です離婚裁判で不倫を主張する場合ホテル利用記録や写真などの客観的証拠が重要になります感情的に問い詰める前にまず証拠を確保することが結果/1673612144771220/",
-    "https://www.facebook.com/balimoto.transcriber/videos/裁判で勝つ人と負ける人の最大の違いは証拠があるかどうかです借用書lineメール録音写真振込履歴など一つひとつの記録が裁判では重要な意味を持ちます本当のことだから/1605437727956386/",
-    "https://www.facebook.com/balimoto.transcriber/videos/録音データは言った言わないが争われる裁判で重要な証拠になることがあります未払い残業代金銭トラブル不動産問題などでは相手の発言を客観的に示す資料として評価される場/1437498261613567/",
-    "https://www.facebook.com/newstamago/videos/武蔵大学-で-偽情報-と-ファクトチェック-についての-集中授業-3日間の2日目はじめに-nhk-報道の方からファクトチェックするトピックの社会的な機能に合わせ/1993042744740175/"
-   ]
+   "results": []
   },
   {
    "query": "出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203） note 社長",
@@ -1088,6 +1081,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-05T06:06:05.724082+00:00"
 }

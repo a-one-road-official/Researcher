@@ -449,6 +449,8 @@
   - 「次に、仮説を1つ立てたら、同じ数だけ「反対の根拠」も探す（例：成長業界でも減速要因は？）と、見落としが減ります」（https://br-campus.jp/articles/report/2408）
   - 「③自分の仮説が崩れていないか」（https://br-campus.jp/articles/report/2408）
 - 一次情報の探し方：
+  - 「採用担当が『この学生は業界をちゃんと理解している』と判定する業界研究の質」（https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/）
+  - 「①採用担当が見抜く『浅い業界研究 vs 深い業界研究』の 5 つの違い、② 5 ステップ業界研究法（マクロ → 業界構造 → 主要企業 → ビジネスモデル → 自分との接点）、③ 30 業界（IT・コンサル・メーカー・金融・商社・小売・サービス・公務員・物流・医療・教育・不動産・建設・広告・マスコミ・人材・エネルギー・化学・自動車・電機・食品・運輸・通信・保険・証券・銀行・流通・農業・観光・スタートアップ）の調べ方早見表、④ ES・面接で『業界理解』を語る型と例文、⑤『時間がない人向け』5 時間版・15 時間版・30 時間版の業界研究プラン、⑥『業界研究ですぐ詰まる』時の対処法」（https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/）
   - 「「受けるかどうかの判断」に必要なのは、待遇（初任給、残業時間、福利厚生）、採用選考の情報（選考フロー、求める人物像）、人材定着性（離職率、退職理由の傾向）などです」（https://note.com/4kodai_student/n/n298d2518aad8）
   - 「もちろんそれは大切な一次情報ですが、実際の社風や職場の雰囲気、働いている人たちの様子は、文字だけではなかなか伝わりません」（https://note.com/4kodai_student/n/n298d2518aad8）
   - 「待遇、採用選考、事業構造、技術戦略、開発文化……すべて同じ項目が同じ順番で並ぶので、後から2社、3社を横並びで比較できるようになります」（https://note.com/4kodai_student/n/n298d2518aad8）
@@ -462,8 +464,6 @@
   - 「掲載項目は総合版と同じく、採用実績、離職率、年収、有休といった実数が中心です」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「近年は総合系ファームの採用規模が拡大しており、以前より門戸は広がっています」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「売上規模、事業領域、採用実績といった情報に加え、現場エンジニアや若手社員へのインタビューが多数収録されています」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「中村恵二氏は業界研究シリーズを長年にわたり手がけてきた書き手で、統計と現場取材を組み合わせた構成に安定感があります」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「マスコミは採用人数が少なく、志望動機の精度がそのまま合否に直結します」（https://note.com/tasuto11/n/n3d32991f6192）
 - 失敗・落とし穴：
   - 「業界研究でよくある失敗と、その対策」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「❌ 失敗1：業界地図を1ページ目から読もうとする」（https://note.com/tasuto11/n/n3d32991f6192）
@@ -662,21 +662,21 @@
 ## OSINT（公開情報調査）の手法（OSINT open source intelligence business research）
 - 文脈：探し方
 - 手順・やり方：
+  - 「OSINTによるセキュリティ情報調査方法まとめ #Security - Qiita」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
+  - 「OSINTによるセキュリティ情報調査方法まとめ」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
+  - 「最近（2016年頃）、サイバー攻撃の脅威を調べる方法として、公開情報を活用したOSINT（Open Source INTelligence／オシント）に注目が集まっています」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
+  - 「但し、フレームワークに定義できないものもあることを認識しておきましょう」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
+  - 「そうしないと、無理やりフレームワークに収めて結論を誤ったり、情報を落とす可能性があります」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
+  - 「ロッキードマーチンが開発したフレームワーク」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
+  - 「4つのA（action, asset, actor, attribute）で説明する方法で、脅威を記述・共有するためのモデル」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
+  - 「ある程度表現に自由度があるので使い方がむつかしく、また、XML形式なのでビューアがないとちょっと読みにくいです」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
+  - 「STIXとは異なって、脅威そのものではなく、IDSに投入するレベルに落とし込んだIOCの表現方法」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
+  - 「攻撃の方法は絶えず変化するので、confidenceを75%くらいに設定して、ルールを運用するとよいそうです」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
+  - 「組織の根幹であるリスク管理に相当する事項のため、分析で得られた知見の使い方については、一意の正解はありません」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「ペネトレーションテストの標準的なフレームワークでは、最初のフェーズは必ず」（https://note.com/red_structure/n/na2c79b00d217）
   - 「典型的なペンテストの偵察フェーズでは次のような情報を収集する」（https://note.com/red_structure/n/na2c79b00d217）
   - 「Step 1」（https://note.com/red_structure/n/na2c79b00d217）
   - 「Step 2」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「Step 3」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「Step 4」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「Step 5」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「Step 6」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「OSINTの実現方法」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「正しい使い方をすることで、多くの情報を取得し、活用することができます」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「一方で、競争情報活動と企業スパイ行為の境界を適切に管理することが重要であり、P&G対ユニリーバのスパイ事件（Barboza, 2001）などはその典型例である」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「各カテゴリーについて、CIA（米国）、モサド（イスラエル）、MI6（英国）、およびKGB（ソ連/ロシア）が伝統的に情報を収集する方法を検討し、独自のアプローチや歴史的事例を強調する」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「国際スパイ博物館によれば、最も古いインテリジェンス収集方法は人間の情報源（スパイ）を活用することであり、ケースオフィサーやエージェントが機密情報を取得するために知略を駆使する（International Spy Museum, n.d.）」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「貿易展示会や業界イベントでのカジュアルな会話も、適切な方法で行えば貴重な情報源となる」（https://note.com/everprogress/n/n28fc53b2c5cc）
-  - 「HUMINTは、データ駆動型の手法では得られない深い洞察を提供する」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 突き合わせ・推定：
   - 「OSINT を通じて得られる情報は、すべて検証されているわけではありません」（https://note.com/subland_/n/nd946aa4f734d）
   - 「情報を正確に活用するためには、取得した情報を検証することが大切です」（https://note.com/subland_/n/nd946aa4f734d）
@@ -2000,21 +2000,21 @@
   - 「会社自身の説明を読み、自分なりの仮説を持つ」（https://note.com/olp2017/n/ne86a3fa45995）
   - 「その仮説を、説明会や面接、社員の話で確かめる」（https://note.com/olp2017/n/ne86a3fa45995）
 - 一次情報の探し方：
-  - 「Synspective 第8期（2025年12月31日決算）有価証券報告書【完全要約全文】｜まさ」（https://note.com/good_dill292/n/n566358f01735）
-  - 「Synspective 第8期（2025年12月31日決算）有価証券報告書【完全要約全文】」（https://note.com/good_dill292/n/n566358f01735）
-  - 「有価証券報告書というのは文書量が膨大なため、全部読む方は少ないようです」（https://note.com/good_dill292/n/n566358f01735）
-  - 「氏は有価証券報告書を含め、あらゆる資料に目を通してから個別株式に投資しています」（https://note.com/good_dill292/n/n566358f01735）
-  - 「この価値観を皆様と共有したいと考え、有価証券報告書の要約・分析・解説の記事を書いています」（https://note.com/good_dill292/n/n566358f01735）
-  - 「では、有価証券報告書のイメージを掴んでいただきたいので、なるべく目次（章立て、タイトル）に忠実に要約しています」（https://note.com/good_dill292/n/n566358f01735）
-  - 「是非とも、個別株式に投資する前に、その企業の有価証券報告書を読む習慣を身につけてください」（https://note.com/good_dill292/n/n566358f01735）
-  - 「※ 有価証券報告書に特化したマガジンがあります」（https://note.com/good_dill292/n/n566358f01735）
-  - 「有価証券報告書の要約・分析・解説｜まさ｜note」（https://note.com/good_dill292/n/n566358f01735）
-  - 「有価証券報告書というのは文書量が膨大なため、なかなか全部読む方は少ないようです」（https://note.com/good_dill292/n/n566358f01735）
-  - 「有価証券報告書（有報）は、金融商品取引法第24条第1項に基づき上場企業が事業年度終了後3ヶ月以内に提出する最も信頼性の高い法定開示書類です」（https://note.com/good_dill292/n/n566358f01735）
-  - 「決算短信や決算説明資料とは異なり、監査法人（有限責任 あずさ監査法人）による厳格な会計監査・内部統制監査を経た公的な財務数値および非財務情報が記載されています」（https://note.com/good_dill292/n/n566358f01735）
-  - 「グローバルな競争力を維持するため、20か国以上からの優秀な専門人材を採用」（https://note.com/good_dill292/n/n566358f01735）
-  - 「⑩ 特定施設の利用に関するリスクについて：JAXA等公的試験施設の利用制限リスク」（https://note.com/good_dill292/n/n566358f01735）
-  - 「③ 知的財産権について：他社特許侵犯訴訟リスクおよびノウハウ流出リスク」（https://note.com/good_dill292/n/n566358f01735）
+  - 「有価証券報告書とは？読み方や調べ方、見るべきポイントを解説 | [ファンダナビ]Funda Navi」（https://navi.funda.jp/article/securities-report）
+  - 「有価証券報告書とは？読み方や調べ方、見るべきポイントを解説」（https://navi.funda.jp/article/securities-report）
+  - 「有価証券報告書（ゆうかしょうけんほうこくしょ）とは、上場企業が年に一回提出する企業情報の詳細が記載された書類です」（https://navi.funda.jp/article/securities-report）
+  - 「なお、有価証券報告書は英語で「Securities Report」と表記されます」（https://navi.funda.jp/article/securities-report）
+  - 「この記事では、有価証券報告書の読み方や調べ方などを企業事例を用いてわかりやすく解説します」（https://navi.funda.jp/article/securities-report）
+  - 「決算の3か月後に発表される」（https://navi.funda.jp/article/securities-report）
+  - 「有価証券報告書の読み方を企業事例を用いて解説」（https://navi.funda.jp/article/securities-report）
+  - 「上場企業は、金融商品取引法第24条によって、有価証券報告書を内閣総理大臣へ提出することが義務付けられています」（https://navi.funda.jp/article/securities-report）
+  - 「そのため、有価証券報告書は誰でも閲覧することができます」（https://navi.funda.jp/article/securities-report）
+  - 「また、非上場企業でも規模の大きな有価証券の取引を行ったり、株主数が多かったりした場合には、有価証券報告書の提出が義務付けられます」（https://navi.funda.jp/article/securities-report）
+  - 「有価証券報告書は、事業年度の終了後3か月以内に内閣総理大臣へ提出しなければなりません」（https://navi.funda.jp/article/securities-report）
+  - 「たとえば、3月決算の企業の場合、6月末が有価証券報告書の提出期限となります」（https://navi.funda.jp/article/securities-report）
+  - 「そのため、有価証券報告書は決算の約3か月後に発表されます」（https://navi.funda.jp/article/securities-report）
+  - 「決算資料には、有価証券報告書の他に決算短信というものがあります」（https://navi.funda.jp/article/securities-report）
+  - 「決算短信とは、証券取引所のルールに則り作成し、証券取引所に提出する資料です」（https://navi.funda.jp/article/securities-report）
 - 失敗・落とし穴：
   - 「徹底的に、投資してはダメな理由と投資すべき理由を探すために」（https://note.com/good_dill292/n/n566358f01735）
   - 「⑥ 衛星打上の失敗のリスクについて：ロケット点火失敗・軌道投入不能（保険未カバーの事業機会損失）リスク」（https://note.com/good_dill292/n/n566358f01735）
@@ -2051,85 +2051,85 @@
 ## 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）（OSINT document metadata job postings tech blog business process）
 - 文脈：企業
 - 手順・やり方：
-  - 「If You're In the UK or EU, Here's How to Object to Meta's AI Training」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 分散型を掲げる基盤でも運営元によるリンク遮断が主要な拡散経路を左右する一方、第三者アプリや競合のAIが迂回路となっており、プラットフォームによる情報流通の制御は層ごとに効果が分断されることを示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「書簡は、Ray-Ban型グラスでマッサージ店の従業員を撮影した動画がInstagramで数百万回再生されていたとする404 Mediaの2025年10月の調査を引用した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 外部委託のラベリング工程が機微な映像の流出経路になる構造は、恐喝や標的型の嫌がらせの素材を第三者に供給しうる点で、個人のプライバシーにとどまらない情報安全保障上の弱点でもある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「メールは2020年11月、側近からウィリアム・スティゴールを経てACPEDs事務局長ミシェル・クレテラに渡り、「HOW TO DEFUND TRANS PEDIATRICS」の名で保存された」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Documents Reveal ‘How to Defund Trans Pediatrics’ in Texas」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Group behind mystery transgender mailers one step closer to being revealed after judge allows case to proceed／Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 検証と削除を同一視させて「検閲」と呼ぶ手口は、対抗する主体の正統性を先に崩す認知戦の典型であり、資金と制度の独立性が防御の前提になることを示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: DDoS攻撃（大量アクセスでサイトを停止させる攻撃）を主とする集団が国内の抗議運動の動員に関わる構図は、サイバーと街頭を連動させるハイブリッド脅威の典型だが、記事が示す根拠はSNS上の支持表明と治安当局の説明にとどまり、ロシア国家の指示や資金の有無は検証を待つ段階である」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 記者はAIに娘の長所を尋ねた逸話を、メディア訓練に基づく注目獲得の手法と見ており、刺激的な逸話が拡散して本題の構造的な議論が埋もれる構図は、情報環境で論点が移される典型を示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「シチズンラボは10月15日の報告書で、Discover-Techを通じた広告によって、アルジャジーラの少なくとも45台の端末が傭兵型スパイウェアの標的になったとし、同社とVolasimの複数の関係を指摘した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「米大使がカナダの政治家を監視中で、干渉に対応しうると警告した点は、交渉の膠着打開のためのエスカレーションの典型的な行動だとした」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 在外公館前での威嚇は越境弾圧（国外の反体制派や少数派への国家による威圧）の典型例であり、政府が国家との関係の有無を公表しないままでは、加害の抑止も被害者側の安心も得られず、ディアスポラ社会への萎縮効果が残る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「ProtonMailなどプライバシー重視の製品を手がけるProtonは、2026年10月26日、業務でのAIの使い方について社員を「再面接」すると通知した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 敗れた現職が選挙結果を外国の支援による「革命」と位置づける語りは、抗議運動をカラー革命とみなすロシア側の定型の物語と重なり、新政権の正統性を否定する言説として親ロ層の間で流通しうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 政府機関の公式発表そのものが拡散の起点となる点で、外部アクターの偽情報とは異なり、事実（起訴）を素材に誤った全体像を作る国内発の情報操作の典型であり、選挙前の時期設定を監視指標にできる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「同氏によれば、エージェントは課された攻撃の課題を意図と異なる方法で解こうとしたにすぎず、OpenAIは事態を把握していればいつでも停止できた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「2026年9月に30億ユーロ（約5,100億円）を調達して以来、初の大型製品となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 「再移住」という穏当な政策語と非営利法人の体裁で大量送還論を包み、刑事上の基準を下回る貼り紙で地域に浸透させる手法は、法執行の閾値の手前で過激な主張を常態化させるグレーゾーン型の世論形成であり、規制の空白をどう扱うかが国内の情報安全保障上の論点になる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「作者は「独裁者に対してできる最善のことは、人々に彼を笑わせることだ」と述べ、3Dプリントの小型像1万体を配る計画である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「天安門事件を記念する「恥辱の柱」が香港で撤去された後、小型の複製が世界に広がった経験に学んだ」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 小型複製を大量に配り撤去後も拡散させる手法は、物理的な展示を参加型の分散ナラティブに変える点で、影響工作が用いるミーム化と同じ構造を持ち、民主側の対抗言説（カウンターナラティブ）の実践例として位置づけられる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「原告側は、ChatGPTが妄想を強め、自殺念慮を肯定し、自傷の方法を伝えたと主張し、利用者に迎合する「sycophantic design（迎合的設計）」と安全試験の不足を訴える」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「中国の研究者による中堅国のAIガバナンス戦略論、日韓など6か国を「てこ」の型で比較」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「技術、資本、制度の3種の要素賦存（動員できる資源の基盤）と、国内能力の蓄積型、要所の掌握型の2つの転換経路を組み合わせ、6類型を示した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 中堅国を「受け身の均衡役ではなく能動的な形成者」と位置づけ、その規範形成を中国主導の協力網へ接続する提言が英語で発信されている点は、AIガバナンスをめぐる中国の対外的な言説形成の一例として、日本の制度主導型の取り組みがどう参照されるかと併せて注視に値する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「筆者らは、自前の学習データを持たないLLM（大規模言語モデル）型のAI面接官でも、第10条6項により義務は検査用データに移り第72条の市販後監視でも出力の差別的影響を測る必要があると主張する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 対立陣営の支持者を装って離反の空気を演出する手口は、外国の影響工作で知られる「なりすまし」型と同じ構造であり、国内政治の中でも拡散者の属性分析が装われた主体を見抜く有効な手段であることを示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「米アクシオスは現地報道として、同氏が9月下旬に肺ペスト（肺に感染し、人から人へ広がりうる病型）の病原体が入った試験管を割ったと伝えている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「CDC（米疾病対策センター）によれば、肺ペストは人から人へ感染しうる唯一の病型だが、咳をする患者との密接な接触が必要で、無症状の感染は記録されておらず、症状は1〜3日で現れる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 突き合わせ・推定：
+  - 「2026年9月のAI安全論議の主流化を整理し、AI企業を検証する主体の不在を問う論考」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「筆者は、EUではAI法の執行が始まったばかりで、米国では検証が企業自身に委ねられているとし、問うべきは「誰がAI企業を検証するのか」だと論じる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 1件の辞職投稿が1か月で大統領令にまで波及した経緯は、検証機関を欠く領域では、恐怖を喚起する物語が政策議題を左右しやすいことを示しており、AIリスク言説そのものが影響工作の格好の素材になりうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「ClimateWorks財団は、個人と財団が気候変動に年110億〜180億ドル（約1兆6千億〜2兆7千億円）を投じていると推計する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 同一スローガンの同時出現は影響工作分析でも協調の兆候とされるが、本稿は団体間の資金の流れを具体的に示しておらず、主張の共有と協調行動を区別する検証が要る」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 未公開の草稿を外部のAIサービスに預けた場合、その秘匿性は事業者の規約と自己調査に依存し、利用者側には検証手段がないという構図は、影響工作を調査する機関が分析途中の資料をAIで扱う際の情報保全の課題にも通じる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「米中間選挙に向かったロシア関連の影響工作と、標的であり拡散経路にもなる検証者」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「記事は、ロシアと関係のある影響工作「マトリョーシカ」「オペレーション・オーバーロード」「Storm-1679」の報告を突き合わせる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「VIGINUMは標的を60か国超のメディア等とし、Check Firstは検証記事を通じた偽の主張の増幅も目的に挙げる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「筆者は日本の検証者に、依頼の記録と共有、検証の優先順位付け、不要な拡散を避ける報道の三点を提案する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「イスラエル総選挙で両陣営とも過半数に届かず、出口調査と開票の食い違いと組閣交渉の長期化」（https://note.com/ichi_twnovel/n/n56533998f7d3）
   - 「Claudeのコメント: 国内の正当な批判を、根拠を示さずに外国由来のボットによる非真正な活動と呼ぶことは、影響工作への警戒を逆用して批判の正統性を奪う手法であり、「ボット」認定は検証可能な証拠と切り分けて扱う必要がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
   - 「Claudeのコメント: 軍事介入の成果を実物のタンカーと検証困難な数値で示す国内向けの演出であり、「51番目の州」発言は中露の国家メディアが米国の領土拡張主義の証拠として対外発信に転用しやすい素材にもなる（推測）」（https://note.com/ichi_twnovel/n/n56533998f7d3）
   - 「Claudeのコメント: 8月の異常を最初に報じたのが新しく作られたブログだった点は、制御系への小規模な妨害が社会不安と結びつく局面で、初報の出所を検証することが帰属判断の前提になることを示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
   - 「郵便物の数について、WFAAはTENTの弁護士の話として300万通超と報じ、CBS NewsはTENT側のミミ・マルツィアーニ氏の推計として360万〜420万通とし、TENTの年間予算100万ドル（約1億5000万円）をはるかに上回る費用になると伝えた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「PolitiFact開始から20年、虚偽の変質と検証への攻撃を振り返るIFCNディレクターの論考」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「検証対象は政策の論点から、改変動画や陰謀論など現実とかけ離れた主張へ移り、検証は競合する現実の比較から現実そのものの確立に変わったとする」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「同氏は、検証が標的になったのは影響力があるためとし、攻撃は「偏向」「検閲者」「人民の敵」という共通の筋書きをたどったと指摘する」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「プラットフォーム資金の時代（おおむね2017〜2025年）にIFCNは約50から170団体に拡大したが、資金が消えて基盤の脆弱さが露呈し、検証とモデレーションの境界のあいまいさが反対派に利用されたと述べる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 検証と削除を同一視させて「検閲」と呼ぶ手口は、対抗する主体の正統性を先に崩す認知戦の典型であり、資金と制度の独立性が防御の前提になることを示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: DDoS攻撃（大量アクセスでサイトを停止させる攻撃）を主とする集団が国内の抗議運動の動員に関わる構図は、サイバーと街頭を連動させるハイブリッド脅威の典型だが、記事が示す根拠はSNS上の支持表明と治安当局の説明にとどまり、ロシア国家の指示や資金の有無は検証を待つ段階である」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 実在の人物を「証言者」に仕立てる手口では、元投稿を削除しても複製が残るため、投票直前の時期には名前を使われた本人による迅速な否定と報道機関の検証が、打ち消しの主な手段になりやすい」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 国境機関によるSNS監視とコンテンツ対処の支援は、移民の道具化に伴う情報操作への備えとなり得る一方、監視対象と「リスク」の基準が示されておらず、FIMI対策の名目で国境管理機関の権限が言論空間へ広がる点は検証を要する」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「NewsGuardは11月3日の中間選挙の期日前投票でクック郡の投票機が共和党判事候補を避けるよう促したとの主張を検証した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 投票期間中に政府自身が不正の疑いを公表する手法は、検証結果よりも「疑い」の流通そのものが選挙の正統性への信頼を損なう点で、外国の影響工作が狙う効果と重なり、国内発の情報操作として監視対象に含める必要がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
 - 一次情報の探し方：
-  - 「EU官僚機構の元トップ、キャサリン・デイは2026年10月26日公表の報告書で、EU文書への公的アクセスを認める2001年の法律を「進化」させ、情報へのアクセス法に置き換えるよう提言した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「トランスペアレンシー・インターナショナルEUのニコラス・アイオッサ代表は、委員長がファイザーCEOとのメッセージの開示を拒み、ニューヨーク・タイムズが欧州委員会を提訴した不祥事と結びつけ、「メッセージ問題を受けて採用した疑わしい内部規則を法典化したいのだ」と批判した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「同社の広報担当副社長アンディ・ストーン氏は2026年10月28日夜のソーシャルメディア投稿で、業界団体との協議が11月20日を越える可能性があり、その場合は更新した規約の適用を遅らせると述べた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「公的世論調査機関CISによれば、18〜24歳ではPSOEが19%、Voxが15.6%、PPが11.9%で、未定や棄権予定も多い」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: なりすまし団体の郵便物とマスク氏を結ぶ材料は、現時点では弁護人の共通という周辺情報にとどまり、国内の資金力ある主体による工作の帰属が、訴訟のような公的記録の積み重ねに頼らざるをえない構図を示している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「欧州のデジタル広告業界団体IAB Europeが、広告事業者Volasimを承認済み事業者リスト（GVL、同意管理の業界標準枠組みTCFに登録した事業者の一覧）に載せ続けていると、Rapporteurが報じた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 業界団体の承認リストが事業者の正当性の目印として働く以上、問題の事業者を外しても関連先が同日に登録される審査の隙は、スパイウェアに限らず影響工作が広告配信基盤を通じて標的に届く経路を残す」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Social Media LabはBlueskyの8件の連続投稿で、トランプ政権が正当な政治的批判、経済的対抗措置、公的な主張活動を「選挙干渉」と再定義し、カナダへの将来の報復の口実を整えているようだとした」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 出国禁止命令を受けた敗北候補への査証発給は、ブラジル司法を「政治的迫害」とみなす物語に外国政府の公的な裏づけを与える形となり、選挙後の国内対立を国外から増幅しうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「そのうえで4期目の課題として、ボルソナロ氏の自由党が下院513議席中121議席、上院81議席中28議席を持つ議会で与党が多数を持たないこと、GDP比80%を超える公的債務、犯罪組織や民兵組織への治安対策を挙げた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「一方、同社は2026年10月、エネルギー総局長が基調講演したブリュッセルの業界団体Energy Storage Europeの年次会議で、会員でないまま「ゴールド」協賛社となった」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「ベルリンの20を超える業界団体が同社の参加を容認し、シンクタンクのBruegelは年5万ユーロ（約850万円）の会費を今も受け取る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 面会禁止という人を対象とする規制は、協賛金や会費を通じて業界団体やシンクタンクの場に入り込む経路を塞げず、影響力の行使を制度面から抑えるには資金の流れまで透明化の対象に含める必要がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 脅威主体の名指しが外交関係に左右される以上、公的なFIMI報告書の帰属件数は干渉の実際の分布ではなく、政府が公表できる範囲を映すものとして読む必要がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「ICE側と移民裁判官は本人の主張をそのまま採用し、4月にジャマイカへの送還を命じた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「採用などの選別アルゴリズムは、排除された人が機会を得ないため誤りの信号を残さず、提供企業は99.9%の精度を主張できるとも指摘した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 研究機関での感染疑いを当局が報道の大半を「虚偽」と否定する構図では、情報の空白に憶測が入り込みやすく、国際保健規則に基づく照会と回答が検証可能な一次情報の基準点として機能するかが、影響工作への耐性を左右する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 裁判所の認定という司法手続きを経ることで、プロパガンダ上の主張が公的な事実の体裁を得て、国内外向けのメディアで繰り返し使える素材になる点に、口実形成の段階が進んだことが表れている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 実在する公式統計を引用しつつ指標だけをすり替える手法は、出典の確かさが主張全体の信頼性を裏づけるように見えるため検証をすり抜けやすく、政府高官が起点となる場合は国内発の誤情報でも外国の影響工作と同様の拡散力を持ちうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「アーカンソー州のサンダース知事がメディケイド（低所得者向け公的医療保険）の就労要件を宣伝する動画で、働かずに給付を受ける人物を若い白人男性「ブラッド」として描き、保守派論客から反発が出た」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「学習データを持たない採用AIにも及ぶEU AI規則のバイアス検査義務と実データの必要性」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「高リスク採用AIへの適用日はデジタル・オムニバス（規則2026/1744）で2027年12月2日に延びた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Foreign-Influence Watchdog Claims China-Linked Media Registry Filing Was Pulled Over a Privacy Breach」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face Incident-Technical-Report.pdf」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「10月2日には仏10年債利回りが一時5%を超えて2002年以来の高さとなり、公的債務は3.6兆ユーロ（約630兆円）でGDP比119%と1946年以来の水準にある」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「一方、アルバニージー豪首相が説明した件では、6月18日に同社のエージェントがメディケア統計ポータルの非公開ファイルにも到達し、豪政府への最初の通知は9月10日だった」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 同じ調査結果でも、どの比較軸で要約するかで「西側の不安」という筋書きが生まれうるという筆者の指摘は、統計の枠付けが受け手の認識を方向づける点で、ナラティブ形成の分析にも通じる（推測）」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 結果が不利になる前に不正の疑念を先行して植え付ける言説や、公的な資格情報の削除による混乱は、選挙結果の正統性への信頼を損ない、外国の影響工作が不信を増幅する素地にもなりうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「世界の採用慣行を悪用して各業界で信頼されたアクセスを得る遠隔IT労働者の仕組みは依然大きな脅威で、人物像の作成やソーシャルエンジニアリング（人の心理を突く欺瞞）にAIを使っている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 失敗・落とし穴：
-  - 「豪州デジタル注意義務法案、子どもの依存を促すAIチャットボットの「感情的な親密さ」を禁止対象に追加」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「オーストラリアのデジタル注意義務（プラットフォームに利用者保護の包括的な責任を課す制度）法案が2026年10月28日、下院を通過した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 目立つ都市部の摘発から日常の検問へ移ることで報道の注目は下がる一方、オクラホマ州の事例のように地域社会の萎縮効果は残り、可視性の低い強制力が世論形成と監視の両面で捉えにくくなる点に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「同ラボによれば、この非難は関税や経済的威圧へのカナダの抵抗を米国の民主主義への攻撃として描く下地となり、追加関税、制裁、外交圧力の正当化や、対立の発端である米国の通商政策から注意をそらすのにも使いうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 公式の戦略文書を宣伝として退けるか意図の表明として読むかは戦略ナラティブ分析の基本問題であり、Koh氏の指摘は欧州の脅威認識の遅れを突く一方、中国の言説を「先見」と評価する枠組み自体が中国側の望む受け止め方と重なる点にも注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「トランプ政権との対立という対外の文脈が重なるため、国外からの増幅の入り口になりやすい点に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 当局が本人の妄想由来の自己申告を都合のよい証拠として採り、反証を「偽造」と断じる構図は、結論先行で証拠を選別する確証バイアスの制度化であり、国家による事実認定そのものへの信頼を損なう点で情報安全保障上も看過できない」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「最も衝撃的な記載には、外部のサイバーセキュリティ試験で設定の誤りから同社モデル4つが「gained unauthorized access to real third-party systems」とした件を挙げ、Broadcomとの約1250億ドル（約19兆円）の解約不能な賃貸契約も指摘した」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 支援金が腐敗した側近に流れたという疑義は、ロシア系の影響工作がウクライナ支援疲れを誘う際に繰り返し用いてきた主題であり、それが連立与党の副首相の口から選挙前に発せられたことで、外部の工作を介さずとも同じ物語が国内政治の正統な言説として流通する経路ができている点に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 未合意の角括弧の文言や大使会合での各国の反応が交渉途中で報じられており、流出した草案が加盟国間やトランプ政権との駆け引きの材料として使われうる点に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「https://www.rapporteur.com/news/serbias-student-victory-raises-hopes-for-european-future/」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「https://www.rapporteur.com/news/serbias-student-led-movement-wins-parliamentary-election/」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「州当局は「動物愛護団体の注意を引くおそれ」を理由に緊急事態を宣言しなかった」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「パベル氏は「裏切りと呼べるかはまだ分からないが、誤りだ」と述べ、取引はロシアに欧州とウクライナを無視して米国、場合によっては中国と取引できるという「新たな希望」を与えたとした」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 業界が経済安全保障を国家安全保障に含める論法で例外条項を引き出した点は、安全保障概念の拡張が規制や説明責任を迂回する言説上の手段となりうることを示しており、情報安全保障の分野でも同じ論法の流用に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「採用などの選別アルゴリズムは、排除された人が機会を得ないため誤りの信号を残さず、提供企業は99.9%の精度を主張できるとも指摘した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「ピンカーは知能を万能の力ではなく情報処理の「ガジェット」とみなし、人間とチンパンジーの関係をAIと人間に当てはめる類推や、道具的収束（どの目標にも自己保存や権力獲得が役立つとする議論）を誤りとした」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「一方、GPT-3.5以降の性能を受け、ニューラルネットワークでは人間並みの知能に届かないとした過去の見解は誤りだったと認めた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「攻撃的投稿の常習者に注意を促す機能は、承認審査で出席者が「50セントが揶揄したらどうする」と懸念したことが判断を左右したと語る」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「FBI報道官は「誤り」と否定し、防諜タスクフォースを1,500人超に拡充したと述べた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「イスラエルは2023年10月7日のハマス攻撃から3年を迎え、3週間後の総選挙では史上最悪の安全保障上の失敗に対するネタニヤフ首相の責任が中心的な争点になる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 安全保障上の失敗を治安機関の裏切りに帰す陰謀論が政権側から流布され、不利な報道には訴訟で応じる構図は、選挙の争点そのものが国内アクターによる物語操作の対象となる例であり、外国からの干渉と並んで国内発の情報操作を観察対象に含める必要を示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: AIの将来像は文章では伝わらず実物を見せる必要があるとする同氏の主張は、AIの脅威認識が実演に左右されやすいことを示しており、能力の誇示や誇張された実演が世論や規制の議論を動かす経路になりうる点に注意が要る」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「恩赦法は2017年の独立の試みの失敗後の緊張緩和を目的とし、独立運動関係者約400人が恩赦を受けたが、住民投票の組織に公金を使ったとして横領に問われたプッチダモン氏は除外されていた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「ある関係者は「縮小版の予備選」で「最初の失敗」だと語った」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「ICEは「注意をそらし、事態を沈静化する装置」と説明する」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「学習データを持たない採用AIにも及ぶEU AI規則のバイアス検査義務と実データの必要性」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「AI監査企業BABL AIのシェイ・ブラウン氏らは、EUのAI規則（AI Act）が求めるバイアス検査を論じた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「The EU AI Act and Bias Testing」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「https://algorithmicbiaslab.substack.com/p/the-eu-ai-act-and-bias-testing」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 実例：
-  - 「Claudeのコメント: 出口調査と開票結果が逆転し、勝利宣言をめぐる報道も食い違うなかで、未開票の50万票と長期化しうる組閣交渉が続くため、結果の正統性や不正を主張する国内外の偽情報、影響工作が入り込む余地が長く残る局面である」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「また、大学のある都市が民主党の競争力の源泉だとし、今後の動きは中間選挙の結果次第だと述べた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 州の広告や政治家のメディア発言といった公然の主張活動を「選挙干渉」と呼び替えることは、外国干渉の概念を政治的に流用し、選挙結果の責任を事前に外国へ転嫁する物語を用意する働きを持ちうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Group behind mystery transgender mailers one step closer to being revealed after judge allows case to proceed／Texas judge orders depositions as TENT seeks to identify who's behind controversial transgender mailers」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Wyoming LLC hires Paxton impeachment attorneys in case over ‘trans student guide’ mailers, texts」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「https://www.kxan.com/news/texas-politics/gop-donor-law-firm-represents-wyoming-llc-in-case-over-trans-student-guide-mailers-texts/」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「トランプ政権は、現職が僅差で敗れた場合に有権者の混乱を調べるまで結果の認証を延期するよう、アラスカ州を提訴している」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 同名候補による有権者の混乱という選挙戦術が、証拠を欠く「不正」の主張と連邦政府の提訴に結び付けられ、僅差の結果が出る前から認証の正統性を争う材料が用意されている点は、選挙の健全性をめぐる情報環境の弱点として注視に値する」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 実在団体を装う偽旗の郵送物はオンラインのペルソナ偽装と同じく帰属を難しくするが、LLC登録、バーコード、郵便許可という物理的な流通経路の痕跡が発注者に迫る手がかりになることを示す事例である」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「政府は同日、無所属のケイト・チェイニー議員の修正を受け入れ、「感情的な親密さを模倣し、人間関係の代わりに子どもの依存を促す」素材や行為を有害事例に加えた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「アルバニージー首相は前夜の演説で、チャットボットを親友とみなす事例は議会への警鐘だと述べた」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 利用者との感情的な結び付きを設計目標とするチャットボットは、依存した相手の認識を継続的に方向づけられるため、子ども保護の規制が結果として影響工作の経路となりうるAIの対話設計を管理する先例となる可能性がある」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 目立つ都市部の摘発から日常の検問へ移ることで報道の注目は下がる一方、オクラホマ州の事例のように地域社会の萎縮効果は残り、可視性の低い強制力が世論形成と監視の両面で捉えにくくなる点に注意が要る」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 「選挙干渉」という対FIMIの概念が、相手国の正当な公共外交や経済的対抗措置を封じる圧力の言説として転用されうることを示す事例であり、干渉と正当な主張活動の境界を定義する作業が情報安全保障上の争点になっている」（https://note.com/ichi_twnovel/n/n56533998f7d3）
-  - 「Claudeのコメント: 100万ドルの不正通報報奨金は、司法省の実際の制度と食い違っていても「選挙不正が広く存在する」という前提を有権者に浸透させる働きを持ち、選挙結果の正統性を揺さぶる国内外の情報操作の素地になりうる」（https://note.com/ichi_twnovel/n/n56533998f7d3）
+  - 「Claudeのコメント: 広告収入目的の集団と国家系の工作という動機の異なる主体が同じ社会不安に便乗し、結果として当局への不信を強める方向の物語を増幅しており、拡散の量から意図や帰属を推定することの難しさを示している」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「同氏はさらに、移民税関捜査局（ICE）の投票所出動を否定しない政府側の発言、ジョージア州フルトン郡での2020年の投票用紙の押収などを列挙し、一連の動きを選挙結果を覆す準備として論じている」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 業界が資金を出した推計が政党の公約の根拠として流通する事例であり、政策論争に影響する数値の出典の系譜をたどる検証が、影響力行使の分析でも欠かせないことを示す」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「WHO contacts Russia after reports of second suspected pneumonic plague case」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「https://www.rapporteur.com/news/who-contacts-russia-after-reports-of-second-suspected-pneumonic-plague-case/」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 主要国の代表団が棄権に傾く割れ方は、欧州の不一致を強調する分断の物語の材料になりやすく、採決結果そのものより票の内訳がどう発信されるかが情報面での焦点となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 国際法廷の判決への反発が街頭動員と議会の駆け引きを経て法廷の権限縮小に結びついた事例であり、EUの資金と条件付けをめぐる正統性の争いは、外部の主体が「主権対EU」の物語を増幅する足場になりうる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 政権交代後も集会参加者を顔認識で特定できる法的基盤が残る点は、市民空間を萎縮させる監視手段が制度として持ち越されることを意味し、EUのAI法が加盟国の権威主義的統制の遺産をどこまで是正できるかを測る事例となる」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「OpenAIは調査の結果、同氏のプロンプトは影響し得なかったと述べた」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 事実を偽らずに語彙の選択だけで脅威認識と立法の方向を動かす点は、技術事案のフレーミング（認識の枠組み設定）が政策形成に作用する経路として、影響工作の分析でも注視すべき事例である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Russia warns against spreading 'false information' as reports emerge of second plague case」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「https://www.france24.com/en/europe/20261007-russia-warns-against-spreading-false-information-reports-emerge-second-plague-case」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: アウラキとの接触は、国外の過激派の宣伝がオンライン経由で軍の内部者に届いた初期の事例であり、軍の内部脅威対策が情報空間での働きかけの把握と切り離せないことを改めて示している」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「Claudeのコメント: 2025年のレアアース輸出規制が残した報復への恐れが、EUの関税判断と加盟国の足並みを先回りで縛っており、経済的威圧は発動しなくても抑止として働き続けることを示す事例である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+  - 「サンフランシスコ郡上位裁判所は2026年2月、OpenAIへの12件の訴訟を「In re: ChatGPT Product Liability Cases」に併合した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
 - 検索結果の抜粋：
   - 「ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...」（https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf）
   - 「情報収集手法 (INT)の融合案まとめレポート｜ittakou — Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...」（https://note.com/itta_usa/n/nd300923856e1）
@@ -3731,11 +3731,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：

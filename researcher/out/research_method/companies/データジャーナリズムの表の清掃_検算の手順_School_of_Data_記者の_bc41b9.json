@@ -8,100 +8,8 @@
  ],
  "context": "点検",
  "kind": "market",
- "researched_at": "2026-11-05T21:34:42.655076+00:00",
+ "researched_at": "2026-11-06T00:22:30.956734+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "), before you begin cleaning your raw data. Writing this plan early on allows you to get feedback on your planned alterations, and also provides structure to your cleaning process, preventing you from meandering and potentially forgetting important steps. This plan does not need to be overly detailed, but it should include actionable steps to walk through when cleaning your data.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In many ways, writing this data cleaning plan will be a very personalized process. The steps needed to wrangle your raw data into a quality dataset will vary depending on what is happening in your specific raw data file. However, to produce datasets that consistently meet the data quality standards discussed in Section",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", it can be helpful to follow a standardized checklist of data cleaning steps (see Figure",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "). These steps, although very general here, once elaborated on in your data cleaning plan, for your specific data source, can help you produce a dataset that meets our data quality standards. Following this checklist helps to ensure that data is cleaned in a consistent and standardized manner within and across projects.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "As you write your data cleaning plan, you can add the checklist steps that are relevant to your data and remove the steps that are not relevant. The order of the steps is fluid and can be moved around as needed. There are two exceptions to this. First, accessing your raw data will always be number one of course, and the most important rule here is to never work directly in the raw data file",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Let’s review what each step specifically involves so that as you write your data cleaning plan, you are able to determine which steps are relevant to cleaning your specific data source.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Otherwise, search for missing forms, add them to your raw data, and start again at step number 1 of your data cleaning process.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fix the error in the appropriate location and then start again at step number 1.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", this kind of standardization needs to happen before you can perform steps such as joining on names for de-identification purposes. Keys need to be standardized across files before linking can occur.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "may exist in your participant tracking database). If so, these variables won’t need to be created or calculated, they can simply be merged into your clean dataset using a technique similar to the one described in data de-identification step. You can export a file from your participant tracking database that contains a unique identifier (e.g.,",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If an error occurred in your cleaning process (e.g., a variable was recoded incorrectly, a transformation was missed in the cleaning process), fix the error in your process and begin cleaning again at step 1.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If the error occurred in your data entry or data export process (e.g., a variable value was incorrectly entered by a team member, a file was exported using the incorrect export options), fix the error at the source and export a new file. Begin your cleaning process again at step 1.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If the error is found in an externally captured source (e.g., student education records), consider reaching out to that provider to determine if there was an error in their process that can potentially be corrected on their end. If a new file is extracted, begin the cleaning process again at step 1.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If you find true values that are inaccurate, uninterpretable, or outside of a valid range (i.e., they represent what the participant actually reported), you will need to make a personal decision on how to deal with those. No matter what choices your team makes in this process,",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The final step of your cleaning process will be to export or save your clean data. You can save your files in one or more file types depending on your needs. It can be helpful to save your data in more than one format to meet various analysis, long-term storage, or data sharing needs (e.g., an interoperable format like CSV, and a format that contains embedded metadata such as SPSS).",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "). Once a wave of data has been collected and captured and the raw data has been stored, your data cleaning process should begin. In a best-case scenario, the data cleaning is wrapped up before your next wave of data collection. Cleaning data each wave, as opposed to waiting until the end of your project, has two large benefits.",
@@ -194,6 +102,98 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "手順・やり方": [
+   {
+    "quote": "), before you begin cleaning your raw data. Writing this plan early on allows you to get feedback on your planned alterations, and also provides structure to your cleaning process, preventing you from meandering and potentially forgetting important steps. This plan does not need to be overly detailed, but it should include actionable steps to walk through when cleaning your data.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In many ways, writing this data cleaning plan will be a very personalized process. The steps needed to wrangle your raw data into a quality dataset will vary depending on what is happening in your specific raw data file. However, to produce datasets that consistently meet the data quality standards discussed in Section",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", it can be helpful to follow a standardized checklist of data cleaning steps (see Figure",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "). These steps, although very general here, once elaborated on in your data cleaning plan, for your specific data source, can help you produce a dataset that meets our data quality standards. Following this checklist helps to ensure that data is cleaned in a consistent and standardized manner within and across projects.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "As you write your data cleaning plan, you can add the checklist steps that are relevant to your data and remove the steps that are not relevant. The order of the steps is fluid and can be moved around as needed. There are two exceptions to this. First, accessing your raw data will always be number one of course, and the most important rule here is to never work directly in the raw data file",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Let’s review what each step specifically involves so that as you write your data cleaning plan, you are able to determine which steps are relevant to cleaning your specific data source.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Otherwise, search for missing forms, add them to your raw data, and start again at step number 1 of your data cleaning process.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Fix the error in the appropriate location and then start again at step number 1.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", this kind of standardization needs to happen before you can perform steps such as joining on names for de-identification purposes. Keys need to be standardized across files before linking can occur.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "may exist in your participant tracking database). If so, these variables won’t need to be created or calculated, they can simply be merged into your clean dataset using a technique similar to the one described in data de-identification step. You can export a file from your participant tracking database that contains a unique identifier (e.g.,",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If an error occurred in your cleaning process (e.g., a variable was recoded incorrectly, a transformation was missed in the cleaning process), fix the error in your process and begin cleaning again at step 1.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If the error occurred in your data entry or data export process (e.g., a variable value was incorrectly entered by a team member, a file was exported using the incorrect export options), fix the error at the source and export a new file. Begin your cleaning process again at step 1.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If the error is found in an externally captured source (e.g., student education records), consider reaching out to that provider to determine if there was an error in their process that can potentially be corrected on their end. If a new file is extracted, begin the cleaning process again at step 1.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If you find true values that are inaccurate, uninterpretable, or outside of a valid range (i.e., they represent what the participant actually reported), you will need to make a personal decision on how to deal with those. No matter what choices your team makes in this process,",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The final step of your cleaning process will be to export or save your clean data. You can save your files in one or more file types depending on your needs. It can be helpful to save your data in more than one format to meet various analysis, long-term storage, or data sharing needs (e.g., an interoperable format like CSV, and a format that contains embedded metadata such as SPSS).",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "I want to emphasize the importance of using a join in your program of choice, as opposed to replacing names with IDs by hand entering identifiers. If at all possible, you want to completely avoid hand entry of study IDs because it is error-prone and can lead to many mistakes.",
@@ -213,17 +213,7 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/lofty_llama4345/n/n6c3cf7d35ebe",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/kizashi_note/n/n6da9f1204a77",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/skobayashi/n/n4030751cdb6d",
     "status": "ok",
     "method": "http"
    },
@@ -233,12 +223,22 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/skobayashi/n/n4030751cdb6d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/biostatsyy/n/nc5d9fe932b45",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_side_lab_jp/n/naa9c1924c3c5",
+    "url": "https://note.com/aijitanlab365/n/n5ebce36f4dd2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_shigoto_kata/n/na8dddf3fdf1d",
     "status": "ok",
     "method": "http"
    },
@@ -249,11 +249,6 @@
    },
    {
     "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://datajournalismjp.github.io/handbook/",
     "status": "ok",
     "method": "http"
    },
@@ -273,7 +268,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.asahi.com/special/datajournalism/",
+    "url": "https://datajournalismjp.github.io/handbook/",
     "status": "ok",
     "method": "http"
    },
@@ -283,22 +278,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.datacamp.com/blog/infographic-data-cleaning-checklist",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.displayr.com/resources/the-ultimate-data-cleaning-tidying-checklist/",
+    "url": "https://pig-data.jp/blog_news/blog/scraping-crawling/du_data-cleansing/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data.journalism.columbia.edu/content/cleaning-data",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://datatistics.app/tools/data-cleaning-checklist",
+    "url": "https://datatistics.app/learn/data-cleaning-workflow",
     "status": "ok",
     "method": "http"
    },
@@ -308,8 +293,23 @@
     "method": "http"
    },
    {
-    "url": "https://diaryofatechfounder.substack.com/p/my-data-cleaning-processchecklist",
-    "status": "http_403",
+    "url": "https://datatistics.app/tools/data-cleaning-checklist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datastatpro.com/blog/data-cleaning-checklist.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.displayr.com/resources/the-ultimate-data-cleaning-tidying-checklist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.process.st/templates/data-cleaning-checklist/",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -318,13 +318,13 @@
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） site:note.com",
    "results": [
-    "https://note.com/lofty_llama4345/n/n6c3cf7d35ebe",
     "https://note.com/kizashi_note/n/n6da9f1204a77",
-    "https://note.com/skobayashi/n/n4030751cdb6d",
     "https://note.com/aijitanlab365/n/ne7fbe6f8a82c",
+    "https://note.com/skobayashi/n/n4030751cdb6d",
     "https://note.com/biostatsyy/n/nc5d9fe932b45",
-    "https://note.com/ai_side_lab_jp/n/naa9c1924c3c5",
-    "https://note.com/aijitanlab365/n/n5ebce36f4dd2"
+    "https://note.com/aijitanlab365/n/n5ebce36f4dd2",
+    "https://note.com/ai_shigoto_kata/n/na8dddf3fdf1d",
+    "https://note.com/ai_scout_jp/n/n914978199458"
    ]
   },
   {
@@ -332,10 +332,10 @@
    "results": [
     "https://data-viz-lab.com/data-cleansing-methods",
     "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://datajournalismjp.github.io/handbook/",
     "https://data-viz-lab.com/how-to-data-cleaning",
     "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
     "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
+    "https://datajournalismjp.github.io/handbook/",
     "https://note.com/kizashi_note/n/n6da9f1204a77"
    ]
   },
@@ -345,10 +345,10 @@
     "https://data-viz-lab.com/how-to-data-cleaning",
     "https://data-viz-lab.com/data-cleansing-methods",
     "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
     "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
-    "https://www.asahi.com/special/datajournalism/",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/"
+    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
+    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "https://pig-data.jp/blog_news/blog/scraping-crawling/du_data-cleansing/"
    ]
   },
   {
@@ -356,35 +356,35 @@
    "results": [
     "https://data-viz-lab.com/data-cleansing-methods",
     "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://datajournalismjp.github.io/handbook/",
     "https://data-viz-lab.com/how-to-data-cleaning",
     "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
     "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
+    "https://datajournalismjp.github.io/handbook/",
     "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/"
    ]
   },
   {
    "query": "data journalism data cleaning checklist data diary filter check sanity checks",
    "results": [
-    "https://www.datacamp.com/blog/infographic-data-cleaning-checklist",
-    "https://www.displayr.com/resources/the-ultimate-data-cleaning-tidying-checklist/",
-    "https://data.journalism.columbia.edu/content/cleaning-data",
-    "https://datatistics.app/tools/data-cleaning-checklist",
+    "https://datatistics.app/learn/data-cleaning-workflow",
     "https://www.skillsetmaster.com/topics/data-cleaning-checklist",
-    "https://diaryofatechfounder.substack.com/p/my-data-cleaning-processchecklist",
-    "https://datastatpro.com/blog/data-cleaning-checklist.html"
+    "https://datatistics.app/tools/data-cleaning-checklist",
+    "https://datastatpro.com/blog/data-cleaning-checklist.html",
+    "https://www.displayr.com/resources/the-ultimate-data-cleaning-tidying-checklist/",
+    "https://www.process.st/templates/data-cleaning-checklist/",
+    "https://www.linkedin.com/pulse/data-cleaning-verification-checklist-michael-wilson-2ksbe"
    ]
   },
   {
    "query": "site:note.com データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）",
    "results": [
-    "https://note.com/lofty_llama4345/n/n6c3cf7d35ebe",
     "https://note.com/kizashi_note/n/n6da9f1204a77",
     "https://note.com/ai_shigoto_kata/n/na8dddf3fdf1d",
-    "https://note.com/ai_side_lab_jp/n/naa9c1924c3c5",
+    "https://note.com/cool_duck5007/n/n9cfdccad0f37",
     "https://note.com/aijitanlab365/n/n5ebce36f4dd2",
-    "https://note.com/ai_scout_jp/n/n914978199458",
-    "https://note.com/cool_duck5007/n/n9cfdccad0f37"
+    "https://note.com/ai_side_lab_jp/n/naa9c1924c3c5",
+    "https://note.com/ai_income_work/n/n663e5e262c4f",
+    "https://note.com/aijitanlab365/n/ne7fbe6f8a82c"
    ]
   },
   {
@@ -394,9 +394,9 @@
     "https://x.com/itarutomy/status/2073743949731442754",
     "https://x.com/machinotobira/status/2113434000081682716",
     "https://x.com/sudo_nikkei/status/2025872468297056562",
-    "https://x.com/kaz_ogiwara/status/2109288752334127607",
     "https://x.com/kouinjuku2025/status/2109578834722824248",
-    "https://x.com/nekonoizumi/status/1723341665166033003"
+    "https://x.com/asarin/status/2051063568486019361",
+    "https://x.com/kaz_ogiwara/status/2109288752334127607"
    ]
   },
   {
@@ -405,34 +405,34 @@
     "https://jp.linkedin.com/in/ryomakom",
     "https://jp.linkedin.com/in/ryomakom/en",
     "https://jp.linkedin.com/pulse/data-journalism-ishrat-fatima?tl=ja",
-    "https://jp.linkedin.com/pulse/data-driven-journalism-unleashing-power-information-probyto?tl=ja",
     "https://jp.linkedin.com/pulse/data-driven-journalism-data-science-sabha-a-sm5cf?tl=ja",
-    "https://jp.linkedin.com/pulse/cleaning-messy-data-lei-business-listings-ednalyn-c-de-dios-msc-3jjrc?tl=ja",
-    "https://jp.linkedin.com/pulse/google-tackles-data-janitor-problem-its-newest-launch-douglas-bailey-n7u2f?tl=ja"
+    "https://jp.linkedin.com/pulse/data-driven-journalism-unleashing-power-information-probyto?tl=ja",
+    "https://jp.linkedin.com/pulse/google-tackles-data-janitor-problem-its-newest-launch-douglas-bailey-n7u2f?tl=ja",
+    "https://jp.linkedin.com/pulse/cleaning-messy-data-lei-business-listings-ednalyn-c-de-dios-msc-3jjrc?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）",
    "results": [
     "https://www.facebook.com/groups/722517121125590/",
-    "https://www.facebook.com/groups/datajournalism.jp/about/",
     "https://www.facebook.com/groups/datajournalism.jp/info/",
+    "https://www.facebook.com/groups/datajournalism.jp/about/",
     "https://www.facebook.com/groups/datajournalism.jp/posts/1309199775790652/",
     "https://www.facebook.com/groups/datajounalism/about/",
-    "https://www.facebook.com/journalismXfund/posts/新型コロナから自分を守るため発表データをどう読み取るか-玉川徹が試みたデータジャーナリズム以下yahooニュース水島宏明氏連載記事を元にご紹介ジャーナリストで上/147391870112597/",
-    "https://www.facebook.com/wasedajschool/posts/専門認定プログラムデータジャーナリズムについて政治経済学術院-准教授田中-幹人httpwaseda-jjparchives3854/1526599590881839/"
+    "https://www.facebook.com/SocialCompany/posts/掲載されました最新のメディア手法データジャーナリズムの無料オンライン公開講座がスタート-市川裕康デジタルキュレーション-現代ビジネス-講談社-興味ある方一緒に受/10151839905303623/",
+    "https://www.facebook.com/journalismXfund/posts/新型コロナから自分を守るため発表データをどう読み取るか-玉川徹が試みたデータジャーナリズム以下yahooニュース水島宏明氏連載記事を元にご紹介ジャーナリストで上/147391870112597/"
    ]
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） note 社長",
    "results": [
     "https://data-viz-lab.com/data-cleansing-methods",
-    "https://datajournalismjp.github.io/handbook/",
     "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
     "https://note.com/kizashi_note/n/n6da9f1204a77",
     "https://data-viz-lab.com/how-to-data-cleaning",
+    "https://datajournalismjp.github.io/handbook/",
     "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/"
+    "https://www.pinpoint.jp/sfa-cat-20260604-hash8-17"
    ]
   },
   {
@@ -440,11 +440,11 @@
    "results": [
     "https://data-viz-lab.com/data-cleansing-methods",
     "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://datajournalismjp.github.io/handbook/",
     "https://data-viz-lab.com/how-to-data-cleaning",
     "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
     "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
-    "https://journalism.visualizing.jp/simon-rogers-workflow/"
+    "https://datajournalismjp.github.io/handbook/",
+    "https://pig-data.jp/blog_news/blog/scraping-crawling/du_data-cleansing/"
    ]
   },
   {
@@ -453,10 +453,10 @@
     "https://www.linkedin.com/pulse/data-cleaning-verification-checklist-michael-wilson-2ksbe",
     "https://www.linkedin.com/posts/justice-analyst_dataanalysis-datacleaning-dataquality-activity-7383129869746008064-eChr",
     "https://pt.linkedin.com/pulse/what-data-cleaning-best-practices-methods-ask-training-sg-eawrc?tl=pt",
+    "https://www.linkedin.com/posts/iessien_datadiary-activity-7425447177856008193--lhx",
     "https://www.linkedin.com/posts/raj-dahiwal_pythondatacleaningsanitychecks-activity-7450990080585949185-YqMd",
     "https://www.linkedin.com/posts/thedigitor_so-i-built-myself-a-data-cleaning-checklist-activity-7399461956006600704-s_3m",
-    "https://www.linkedin.com/posts/iessien_datadiary-activity-7425447177856008193--lhx",
-    "https://www.linkedin.com/posts/jayen_data-cleaning-checklist-activity-7374676368309178369-JhO2"
+    "https://www.linkedin.com/posts/hkamitmishra_dataquality-analytics-datacleaning-activity-7384931930074456064-0CIG"
    ]
   }
  ],
@@ -465,6 +465,6 @@
   "一次情報の探し方": "記載なし（読んだ20頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-05T15:23:56.343731+00:00"
 }
