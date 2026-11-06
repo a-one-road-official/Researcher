@@ -124,13 +124,29 @@ def _links(year: int, slug: str, log: list[str]) -> list[str]:
         return []
     if isinstance(r, requests.Response):
         r.encoding = r.apparent_encoding
-    hrefs = re.findall(r"""href=["']([^"']+\.xlsx?)["']""", r.text)
-    hrefs = [requests.compat.urljoin(page + "index.html", h) for h in hrefs]
+    # 2026-11-06：古い年（2010〜2017）は「Excel のリンクが無い」で空だった。大文字の .XLS・?付き・e-Stat のファイル取得リンク・
+    # 1段下の表のページ（同じフォルダの .html）まで見る。見つからなければページにあるリンクをログに残す（次の直しの材料）
+    def _xls(html: str, base: str) -> list[str]:
+        hs = re.findall(r"""href=["']([^"']+)["']""", html, flags=re.I)
+        hs = [requests.compat.urljoin(base, h) for h in hs]
+        return [h for h in hs if re.search(r"\.xlsx?(\?|$)", h, re.I) or "file-download" in h]
+    hrefs = _xls(r.text, page + "index.html")
+    if not hrefs:
+        subs = [requests.compat.urljoin(page + "index.html", h) for h in re.findall(r"""href=["']([^"'#]+\.html?)["']""", r.text, flags=re.I)]
+        subs = [u for u in dict.fromkeys(subs) if u.startswith(page) and not u.endswith("index.html")][:12]
+        for u in subs:
+            rr = _fetch(u)
+            if rr is not None and rr.status_code == 200:
+                hrefs += _xls(rr.text, u)
+        if not hrefs:
+            allh = re.findall(r"""href=["']([^"']+)["']""", r.text, flags=re.I)[:40]
+            log.append(f"- {year}（{slug}）：ページのリンク（先頭40）：" + " ".join(allh))
     # 概況文の数値表（gaikyo）より、産業別統計表（data）を先に
-    hrefs.sort(key=lambda h: (0 if "data" in h and "gaikyo" not in h else 1, h))
+    hrefs = list(dict.fromkeys(hrefs))
+    hrefs.sort(key=lambda h: (0 if ("data" in h or "k3" in h) and "gaikyo" not in h else 1, h))
     if not hrefs:
         log.append(f"- {year}（{slug}）：所管ページに Excel のリンクが無い")
-    return hrefs[:4]
+    return hrefs[:8]
 
 
 def _header(rows: list[list[str]], first: int) -> list[str]:
