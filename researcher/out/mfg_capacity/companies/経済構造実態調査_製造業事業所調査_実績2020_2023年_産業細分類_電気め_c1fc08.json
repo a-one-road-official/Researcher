@@ -1,0 +1,358 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66）",
+ "en": "Economic Structure Survey Japan manufacturing establishments electroplating heat treatment metal dies employees shipments value added by industry 2020-2023",
+ "aliases": [
+  "経済構造実態調査 製造業事業所調査 産業別統計表 産業細分類 電気めっき業 site:meti.go.jp",
+  "経済構造実態調査 製造業事業所調査 金属熱処理業 従業者数 製造品出荷額等 site:e-stat.go.jp",
+  "経済構造実態調査 確報 産業細分類 金属用金型 付加価値額 xlsx"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T23:05:41.064694+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/upload/user/00024430-yPSUzA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/417820.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kenresearch.com/japan-heat-treated-steel-plates-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.statista.com/statistics/640247/japan-manufacturing-employee-number-by-industry/?srsltid=AYCX9vKGCopevTT5BaSE2y4aciZVYezQUf8P0cB-05k-jZ9fdSLLid1z",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/iron-steel-market/Japan",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） 人手不足 受注 断る",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://pref.shimane-toukei.jp/upload/user/00024430-yPSUzA.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://pref.shimane-toukei.jp/upload/user/00024430-yPSUzA.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66）",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://www.pref.niigata.lg.jp/uploaded/attachment/417820.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey Japan manufacturing establishments electroplating heat treatment metal dies employees shipments value added by industry 2020-2023 Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.kenresearch.com/japan-heat-treated-steel-plates-market",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "https://www.statista.com/statistics/640247/japan-manufacturing-employee-number-by-industry/?srsltid=AYCX9vKGCopevTT5BaSE2y4aciZVYezQUf8P0cB-05k-jZ9fdSLLid1z",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/iron-steel-market/Japan",
+    "https://www.kyoeisteel.co.jp/en/ir/library/annual_report/main/01/teaserItems1/00/linkList/02/link/kyoeisteelintegratedreport2023_1(EN)_spread.pdf",
+    "https://www.jetro.go.jp/en/invest/attractive_sectors/manufacturing/overview.html",
+    "https://www.jstage.jst.go.jp/article/isijinternational/65/7/65_65.7app_i/_html/-char/en",
+    "https://www.stat.go.jp/english/data/kkj/gaiyou.html"
+   ]
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66）",
+   "results": [
+    "https://note.com/powerpoint_jp/n/n5fe611924a90",
+    "https://note.com/slidedogs_biz/n/n7f7e53c6edf8",
+    "https://note.com/kurashiki_note/n/nf62bfe5b9660?hl=en",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/takecando/n/n3dcdc3b8a7a3",
+    "https://note.com/yamanaka_kan/n/n762bc0aeda01",
+    "https://note.com/nrl_nakaguri/n/n60b80adca4d0"
+   ]
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66）",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66）",
+   "results": [
+    "https://www.facebook.com/pages/Global-MOD-DL-Page/1477701575795228/",
+    "https://www.facebook.com/tomvdavis/",
+    "https://www.facebook.com/davebro/",
+    "https://www.facebook.com/RtechFab/",
+    "https://www.facebook.com/marketplace/item/28926116443689901/",
+    "https://www.facebook.com/FootballUGA/",
+    "https://www.facebook.com/marketplace/item/27924295123880214/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://pref.shimane-toukei.jp/upload/user/00024430-yPSUzA.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 実績2020〜2023年 産業細分類 電気めっき2464・金属熱処理2465・金属用金型2691 の従業者数・製造品出荷額等・付加価値額（切れ目の後ろの区間・10年推移の後半・4-26・4-66） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&iroha=16&cycle=0&toukei=00200555&tstat=000001219780&tclass1=000001219782&tclass2val=0&statdisp_id=0004028806",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "https://www.city.sanjo.niigata.jp/soshiki/somubu/zaimuka/toukeikeiyaku/kakusyutoukeityousa_1/18376.html"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey Japan manufacturing establishments electroplating heat treatment metal dies employees shipments value added by industry 2020-2023 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-electroplating-microelectronics-market-report-growth-analysis-9jryc/",
+    "https://www.linkedin.com/pulse/japan-electroplating-market-size-outlook-regional-growth-xcgcf",
+    "https://economicgraph.linkedin.com/workforce-data",
+    "https://www.linkedin.com/pulse/japan-nickel-electroplating-market-growth-analysis-investors-wrorc",
+    "https://linkedin.com/pulse/comprehensive-japan-electroplating-chemistry-report-industry-3ti1e",
+    "https://www.linkedin.com/pulse/japan-electroplating-intermediate-market-product-technology-bmn8c",
+    "https://www.linkedin.com/pulse/japan-electroplating-apparatus-market-value-chain-competitive-tg9bf"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ20頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ20頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ20頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ20頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ20頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ20頁・検索18回）",
+  "10年推移": "記載なし（読んだ20頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ20頁・検索18回）"
+ }
+}

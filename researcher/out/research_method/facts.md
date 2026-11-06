@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・143品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・146品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1125,15 +1125,17 @@
   - 「Equity Research teaches people not only what to think but also how to think about companies. The Equity Research process teaches an individual to think within a structure, build a structured approach to analytical thinking, and develop the strategic mindset needed for virtually any decision-making role.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「Conducting equity research provides much more than just insight into finance; it provides insights into how to think about running and managing a business. Analyzing the structure, industry, management, and financial statements of companies helps the researcher learn how to evaluate each company's business operation.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「Move from triage to model to write-up in order; skipping steps creates gaps that show up in the final recommendation.」（https://blog.tickerplace.com/blog/step-by-step-equity-research）
-  - 「前提として、なかのアセットマネジメントでは、企業取材の決まった「型」はありません」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「ミダスキャピタルは「世界に冠たる企業群を創る」ために上場企業の経営経験者らによって設立された、ビジョン共感型のプライベートエクイティファンドです」（https://note.com/shusuketerada/n/n348a235c7530）
-  - 「そのような中で、株式投資の世界で戦う一人の投資家として、「どうすれば長期的に市場を上回る成果を出せるのか」を日々模索し、悩み、そして現時点でたどり着いた一つの「型」があります」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「私たちにとっての株式投資とは、日々の株価のアップダウンを当てて、短期的な差益を得る「トレーディング型の投資」ではありません」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「を見通す上では、この方法だけでは不十分だと感じました」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「しかし、決算短信や説明会資料といった「定型的な開示資料」には載っていない、」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「企業向けには情報発信SaaS「note pro」と、協賛型の投稿コンテスト「noteコンテスト」などの法人向けサービスを提供」（https://note.com/persistence_100/n/nfb79a8def8c6）
-  - 「理由：売上は毎四半期増加し、有料購読や法人契約といったストック型の収益が下支えします」（https://note.com/persistence_100/n/nfb79a8def8c6）
+  - 「BtoB SaaSのマーケティングコスト最適化の解き方（ザ・モデル型組織での実践）」（https://note.com/poco_c/m/m9305ed081d0f）
+  - 「The investment analysis process is how investors judge an opportunity's likely return and risk. This guide covers its methods, components and tools, and where AI now speeds up the research behind them.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「In this blog post, we will provide a comprehensive overview of investment analysis, covering its various methods, its role in portfolio management, and its essential applications in investment analytics.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「4 Methods of Investment Analysis」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「Investment analysts use a variety of methods for analysis. Each type provides a unique perspective and insight into potential investments and is typically used in conjunction with the others to provide a comprehensive view of investment options. Below are the most prominent methods:」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「This method involves assessing the quality of a company's board of directors, brand recognition, intellectual property, business model, and competitive advantage in the market. Qualitative factors can be more subjective and harder to measure than quantitative ones but are nonetheless important in investment decision-making.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「When using any of the above methods to conduct investment analysis, there are two approaches to do so. These approaches refer to the strategic viewpoint taken when conducting an analysis, including how and where to start the analysis:」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「Determining the potential profitability and risk of an investment can be approached using both quantitative and qualitative methods. Each has its own strengths and limitations, and using both can provide a comprehensive overview of an investment. Let's take a closer look at each:」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
 - 突き合わせ・推定：
+  - 「DCF analysis is a method used to estimate the value of an investment based on its expected future cash flows. The DCF model is a key tool in valuation, helping analysts determine the present value of expected future earnings.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「This tool uses probability distributions and random sampling to estimate the future outcome of an investment.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「① 「自分なりの仮説」を持って情報に接する」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「このことわざは、企業の「本質的価値」の推計に重要な教訓を与えてくれると思います」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「を検証、精緻化、あるいは棄却するための重要な場です」（https://note.com/nakanoam/n/nc638baf1b1d1）
@@ -1147,9 +1149,12 @@
   - 「（開示がない場合は、業界団体の統計データや、競合他社のデータから逆算して推計します）」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「分解して得られたパーツを組み立て直し、「この会社の収益構造はこうなっているはずだ」という自分なりの仮説（モデル）を作り上げます」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「冒頭では少し警戒していたIRの方も、先ほどのような質問や仮説をぶつけると、」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「経済環境や社会情勢の変化、あるいは企業の状況変化といった変数を入力するだけで、いくつもの「業績パターン」を瞬時に作成し、企業価値への影響を検証することができます」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「構造を理解し、仮説を立て、取材で検証し、モデルに落とし込む」（https://note.com/nakanoam/n/nafb26eef1ed8）
 - 一次情報の探し方：
+  - 「an analyst names out of the filings, with a source on every figure,」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「for the filings and price moves that matter. The judgment stays with the analyst; the hours spent gathering and checking numbers are what shrink.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「pulling figures from filings」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「flagging filings or price moves」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「Bring the filings, reports or data room your team works with, and see Needl.ai answer with a source on every claim.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「なかのアセットマネジメントでは、有価証券報告書、決算説明会資料や統合報告書などの投資家向け資料を読み込むことに加え、論文、特許情報、競合他社や採用サイトなどからも情報を収集しています」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「最も価値の高いものは、一次情報である企業への「直接取材」と考えています」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「なお、優秀なIRの方は、現場と愚直にコミュニケーションをとって、鮮度が高くかつ解像度の高い一次情報を仕入れています」（https://note.com/nakanoam/n/nc638baf1b1d1）
@@ -1160,11 +1165,6 @@
   - 「取材前の「孤独な格闘」：過去の決算の読み込みとデータ入力」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「具体的には、過去10年分、時にはそれ以上の有価証券報告書や決算説明資料、統合報告書等を開き、以下のようなデータを拾い出し、Excelに手入力していきます」（https://note.com/nakanoam/n/nafb26eef1ed8）
   - 「（開示がない場合は、業界団体の統計データや、競合他社のデータから逆算して推計します）」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「先ほど、開示資料が必ずしも経営の実態を表していないというお話をしましたが、会社側から出てくる決算説明資料は、ある意味で」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「ここまで踏み込んでみると、足元の決算数字の確認はほとんど必要ではなく、」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「私が取材で議論しているのは、「来週発表される決算の数字」というインサイダー情報でも、「具体的な顧客との契約内容」などの企業秘密でもありません」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「しかし、決算短信や説明会資料といった「定型的な開示資料」には載っていない、」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「「『ソリューション企業になる』というビジョンを実現するために、具体的にどんな資産が必要ですか？ 目に見える工場や設備の話と同時に、それを売るための『人材』の採用・教育はどうなっていますか？ 顧客の経営層にアプローチするための『顧客接点（チャネル）』は確保できていますか？」」（https://note.com/nakanoam/n/nafb26eef1ed8）
 - 失敗・落とし穴：
   - 「さらに、特定の領域の専門家と定期的にディスカッションを行うなど、正確性やバイアスを勘案しながらも、なるべく多方面の情報をインプットすることを心がけています」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「もしあなたが、あるフィットネスクラブ運営会社の株を買おうとしたとき、どうやって10年後の利益を予想しますか？「健康ブームだから、なんとなく毎年5%ずつ伸びる」ではダメです」（https://note.com/nakanoam/n/nafb26eef1ed8）
@@ -1187,6 +1187,8 @@
   - 「No matter what type of businesses you run, every successful business must be able to communicate its ideas clearly to be successful. Equity research requires individuals to develop detailed reports, develop and deliver business case presentations, and respond to challenging investor inquiries, as well as being able to clearly present their ideas.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「Individuals who develop effective communication skills through the process of developing reports and business cases will develop skills that directly translate to leadership, strategy, consulting and entrepreneurship positions, where it is vital to be able to influence key stakeholders.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
   - 「The analytical skills developed through an Equity Research Analyst's previous experience is very broadly applicable to many roles. Some examples of common roles that use the analytical skills developed within equity research include:」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
+  - 「For example,」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
+  - 「For example, a robo-advisor uses algorithms to construct and manage a portfolio based on an investor's risk tolerance and investment goals. These algorithms can rebalance portfolios automatically in response to market changes or shifts in the investor's goals.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「当然、スピーカーによって立場や経験は異なり、例えば、経営戦略、財務、ESG、研究開発や現場情報など、掘り下げると次から次へと話がでてくる分野があります」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「具体的には、「説明・補足」は「つまり」「例えば」「もう少し詳しく言うと」など話を縦に掘り下げるイメージで、「逆接」は「しかし」「でも」「一方で」など話に別の視点を加えることで横に広げるイメージです」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「さらには、「具体（数字や事例など）」と「抽象（概念や原理など）」という」（https://note.com/nakanoam/n/nc638baf1b1d1）
@@ -1195,8 +1197,6 @@
   - 「、例えば、自信に満ちた表情で語っているか、歯切れの悪い回答をしていないか、あるいは声のトーンや話すスピードなど、文章だけでは伝わらない「空気感」から、経営者の本気度や自信のほどを感じ取ることができます」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「その結果、購入時の価額を下回ることもあります」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「例えば証券会社のアナリストが上場企業の調査を新規に開始する場合には、最低でも数か月かけて対象会社とのコミュニケーションを重ね、財務データ、非財務データの分析や競合及び業界動向の調査、株価ドライバーの特定とその予想を行い、それらを業績予想と投資判断に集約して「イニシエーションレポート」として発行します」（https://note.com/shusuketerada/n/n348a235c7530）
-  - 「その思考プロセスと、企業取材の実際について、事例を交えながらお話させていただきたいと思います」（https://note.com/nakanoam/n/nafb26eef1ed8）
-  - 「それは、開示されている一つのセグメントの中に、性質の異なるビジネスが混ざってしまっているケースです」（https://note.com/nakanoam/n/nafb26eef1ed8）
 - 検索結果の抜粋：
   - 「アナリストが実際に考えている企業分析 ～株価に一喜一憂しないために... — Jul 21, 2023 · さわかみ投信の公式noteです。ここでは、さわかみ投信の考えや日々の活動、社員のお金にまつわる体験談、「投資をはじめたいけどどうしたらいいかわからない、不安！」という方に向けた、お金にまつわる話題を発信しています。」（https://note.com/sawakami_letter/n/ne8e25bd22655）
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
@@ -1422,6 +1422,7 @@
   - 「は、独自のIDソリューションによって国内人口の約90%のWeb閲覧行動を把握したデータをもとに、チャット形式でリサーチ結果を提供するサービスです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
 - 検索結果の抜粋：
   - 「The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningHow to conduct effective academic research: 9 key methodsThe Researcher's Source Blog | For Researchers | Springer NatureLatest News from Google Research Blog - Google ResearchEducational resources and simple solutions for your research ... — “Just like the horse whisperer – but with more 」（https://www.exordo.com/blog/the-best-academic-blogs）
+  - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog - IBM Research21 Best Academic Blogs Every Researcher Must FollowBlog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Un」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods CommunityResearcher.Life: Blog Category | Researcher.LifeResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the University of」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer Nature21 Best Academic Blogs Every Researcher Must Follow10 Best Academic Blogs Every Researcher Must Subscribe to in 2023Blog — Sage Research Methods Community — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog o」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoResearch tips: Blog Category | Researcher.LifeThe Researcher's Source Blog | For Researchers | Springer NatureBlog — Sage Research Methods Community21 Best Academic Blogs Every Researcher Must FollowResearch Techniques – Types, Examples and Selection Guide — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger 」（https://www.exordo.com/blog/the-best-academic-blogs）
@@ -3918,10 +3919,10 @@
   - 「SEOに強いタイトルの付け方！文字数の目安やクリック率を高める手順をわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「コンテンツSEOとは？コンテンツマーケティングとの違いや効果・やり方を事例で解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「Copilot（コパイロット）の使い方を分かりやすく解説！無料版の始め方からMicrosoft 365での活用事例まで」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「Grok（グロック）の使い方を徹底解説！ChatGPTとの違いや料金プラン、活用事例まで網羅」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「Advanced Custom Fields Pro（ACF Pro）とは？使い方・料金・基本機能を徹底解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「をいい、過去に起こった出来事が典型例です」（https://fij.info/introduction/basic）
   - 「「偉大さ」を客観的に測る指標はなく、人によって「偉大」と評価する基準は異なるので、このような言説は典型的な」（https://fij.info/introduction/basic）
-  - 「ほかにも、組織運営や方法論の透明性など、５つの原則が示されています」（https://fij.info/introduction/basic）
-  - 「（Standards and Transparency of Methodology）」（https://fij.info/introduction/basic）
 - 突き合わせ・推定：
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -5700,15 +5701,16 @@
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「読むときの4つの注意点」（https://note.com/joshima_s/n/n04cab9927719）
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「ウェブで閲覧した官報を根拠資料として使用する場合、以前は「正本ではない」という注意書きが必要でしたが、電子化後はウェブ版がそのまま正本として扱えます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「官報の決算公告を閲覧する際には、いくつかの実務上の注意点があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 実例：
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「したがって、多くの中小企業の官報公告には貸借対照表の要旨のみが掲載されており、純資産の部・資産合計・負債合計などの主要な数値は把握できますが、売上高や利益などの損益情報は含まれていないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「3月決算の企業であれば6〜8月、12月決算であれば翌年3〜4月頃に掲載されているケースが多いです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -7008,11 +7010,11 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
@@ -7039,6 +7041,7 @@
   - 「goal-maximizing policy is overestimated.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.」（https://themindcollection.com/structured-analytic-techniques/）
+  - 「A KAC rating is not a probability, and "Solid" is not "certain." The exercise tells you where your analytic line is exposed, not how likely it is to be right. If you need an actual probability estimate, that's Bayesian territory — see」（https://www.analysistoolbox.com/tutorials/key-assumptions-check）
 - 一次情報の探し方：
   - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
@@ -7087,6 +7090,9 @@
   - 「best possible case for an alternative」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「In some cases, the analyst or a team」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「merits of each case, pose questions back」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+- 検索結果の抜粋：
+  - 「Improving your Intelligence Analysis with Structured Analytic ... — Jun 22, 2023 · KEY POINTS: 🔗︎ Structured Analytic Techniques (SATs), such as the Key Assumptions Check (KAC) and Red Team Analysis (RTA), assist analysts in critically examining information and mitigating biases amid the growing challenges posed by threat actors. The effectiveness of the KAC lies in its ability to yield immediate 」（https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/）
+  - 「structured-analytic-techniques — May 20, 2026 · Key assumptions check Quality of information check Indicators or signposts of change Analysis of competing hypotheses (ach) Contrarian Techniques (Explicitly challenge current thinking) Devil’s advocacy team b High Impact low Probability analysis What if? analysis Imaginative Thinking Techniques (Develop new insights, perspectives, and ...」（https://mattdot.github.io/sats4llms/concepts/structured-analytic-techniques）
 
 ## 照合（同じ会社の判定）の精度を少ない正解例で幅つきで測る方法（再現率は落とした側を抜き取る・重み付きの抜き取り）（entity resolution evaluation precision recall confidence interval importance sampling few labels）
 - 文脈：突き合わせ・推定
@@ -8890,3 +8896,213 @@
   - 「: Many institutions or their affiliated libraries host online repository systems for their faculty, staff, and students. An example is the University of Michigan’s Deep Blue Data system (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
   - 「For an example of supplementary materials related to a systematic review search, see:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
   - 「In this example, the materials shared include a Read Me file to explain the files, EndNote (.enlx) files of screened references, the original files imported into EndNote, and the complete, reproducible search strategies for all information sources.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
+
+## 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）（triangulation across settings and time points shared bias false corroboration reporting triangulation strategy）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「Triangulation in Research: Types, Purpose, and How to Apply It」（https://casrai.org/guides/triangulation-in-research）
+  - 「Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.」（https://casrai.org/guides/triangulation-in-research）
+  - 「more than one method or technique used to investigate the same question.」（https://casrai.org/guides/triangulation-in-research）
+  - 「Simply collecting a lot of data, or using several methods without ever comparing what they show, is not triangulation. The defining move is the deliberate cross-comparison: looking at where independent sources agree, where they diverge, and treating both outcomes as informative rather than only counting agreement as a success.」（https://casrai.org/guides/triangulation-in-research）
+  - 「The standard typology comes from sociologist Norman Denzin, who identified four basic forms in his early methodological writing on the topic:」（https://casrai.org/guides/triangulation-in-research）
+  - 「4. Methodological Triangulation」（https://casrai.org/guides/triangulation-in-research）
+  - 「Methodological triangulation uses more than one method to investigate the same question, and is the type most often meant when people use “triangulation” as shorthand. Denzin further divided it into two sub-types:」（https://casrai.org/guides/triangulation-in-research）
+  - 「Within-method triangulation」（https://casrai.org/guides/triangulation-in-research）
+  - 「: using multiple techniques from the same broad methodological tradition (e.g., two different qualitative techniques, such as interviews and focus groups, or two different quantitative instruments measuring the same construct).」（https://casrai.org/guides/triangulation-in-research）
+  - 「Between-method (or across-method) triangulation」（https://casrai.org/guides/triangulation-in-research）
+  - 「Between-method triangulation is where the overlap with mixed-methods research is closest, and where the two terms are most often confused — see the next section.」（https://casrai.org/guides/triangulation-in-research）
+  - 「Triangulation vs. Mixed-Methods Research」（https://casrai.org/guides/triangulation-in-research）
+  - 「mixed-methods research」（https://casrai.org/guides/triangulation-in-research）
+  - 「Mixed-methods research」（https://casrai.org/guides/triangulation-in-research）
+  - 「is a broader validity/credibility strategy that can involve data, investigators, theories, or methods, and does not require mixing qualitative and quantitative data at all. A purely qualitative study can triangulate by using multiple coders (investigator triangulation) or multiple qualitative techniques (within-method triangulation) without ever collecting quantitative data.」（https://casrai.org/guides/triangulation-in-research）
+- 突き合わせ・推定：
+  - 「Triangulation in Research: The 4 Types — CASRAI」（https://casrai.org/guides/triangulation-in-research）
+  - 「Triangulation in Research: Types, Purpose, and How to Apply It」（https://casrai.org/guides/triangulation-in-research）
+  - 「Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.」（https://casrai.org/guides/triangulation-in-research）
+  - 「evidence triangulation」（https://casrai.org/guides/triangulation-in-research）
+  - 「What Triangulation Means in Research」（https://casrai.org/guides/triangulation-in-research）
+  - 「Operationally, a study is using triangulation when it deliberately brings together more than one of the following」（https://casrai.org/guides/triangulation-in-research）
+  - 「Simply collecting a lot of data, or using several methods without ever comparing what they show, is not triangulation. The defining move is the deliberate cross-comparison: looking at where independent sources agree, where they diverge, and treating both outcomes as informative rather than only counting agreement as a success.」（https://casrai.org/guides/triangulation-in-research）
+  - 「The Four Classic Types of Triangulation」（https://casrai.org/guides/triangulation-in-research）
+  - 「1. Data Triangulation」（https://casrai.org/guides/triangulation-in-research）
+  - 「Data triangulation means gathering data from multiple sources within the same study — commonly broken down into triangulation across」（https://casrai.org/guides/triangulation-in-research）
+  - 「(collecting data from different levels or types of participants, such as individuals, groups, and organizational records). A study interviewing both frontline staff and managers about the same program, or observing the same practice across several clinics rather than one, is using data triangulation.」（https://casrai.org/guides/triangulation-in-research）
+  - 「2. Investigator Triangulation」（https://casrai.org/guides/triangulation-in-research）
+  - 「Investigator triangulation uses more than one researcher or coder to independently collect and/or analyze the same material, then compares their results. In qualitative coding, this typically means two or more coders working from the same codebook on the same transcripts, with agreement and disagreement both documented. This is closely related to, but distinct from, formal」（https://casrai.org/guides/triangulation-in-research）
+  - 「statistics — investigator triangulation is broader, and can include qualitative reconciliation of interpretive disagreements, not just a numeric agreement score.」（https://casrai.org/guides/triangulation-in-research）
+  - 「3. Theory Triangulation」（https://casrai.org/guides/triangulation-in-research）
+- 失敗・落とし穴：
+  - 「The original rationale, laid out by Denzin and later elaborated with Yvonna Lincoln, was framed around validity: no single data source, investigator, theory, or method is free of its own particular biases and blind spots, so corroborating a finding across more than one of them offsets the weaknesses specific to any one approach with the strengths of another.」（https://casrai.org/guides/triangulation-in-research）
+  - 「different assumptions and are vulnerable to different biases」（https://casrai.org/guides/triangulation-in-research）
+  - 「Common Pitfalls and Limitations」（https://casrai.org/guides/triangulation-in-research）
+  - 「Combining sources does not guarantee a correct answer — if all sources share the same underlying bias (e.g., every method relies on self-report from the same population), agreement across them doesn’t rule that bias out.」（https://casrai.org/guides/triangulation-in-research）
+  - 「of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「This helps to reduce the risk of relying on a single source that may be biased or incomplete.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「. A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What are Bias in Qualitative Research?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Addressing how researcher bias was managed through triangulation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「a shared bias can make agreement look like independent confirmation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+- 実例：
+  - 「Worked Examples of Each Type」（https://casrai.org/guides/triangulation-in-research）
+  - 「), using the contested question of whether low-to-moderate alcohol consumption protects against dementia as the running example.」（https://casrai.org/guides/triangulation-in-research）
+  - 「— expect this level of explicitness rather than a passing mention that “data were triangulated.” Studies combining ethnographic fieldwork with interviews and document review, for example, should describe how those sources were compared, not just that all three were collected; see CASRAI’s guide to」（https://casrai.org/guides/triangulation-in-research）
+  - 「What is an example of methodological triangulation?」（https://casrai.org/guides/triangulation-in-research）
+  - 「For example, one data source may suggest a particular theme while another reveals contradictory evidence. That discrepancy is worth investigating. Researchers should explore the reasons behind the differences and consider how they might shape the overall interpretation of the findings.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「For example, a researcher might interview comparable groups at different sites. Or they might revisit the same group over time. Either way, the aim is to see whether a theme rests on one setting or one moment.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「For example, in a study exploring patient experiences with a new medication, data triangulation might compare interviews with patients and focus groups with healthcare providers. It might also draw on analysis of patient medical records.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「For example, a study exploring the impact of social media on body image could use theories from psychology, sociology, and media studies to analyze the data. This could reveal novel relationships between constructs.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「For example, a researcher might state, “Triangulation was employed in this study to enhance the credibility of the findings by drawing upon multiple data sources and perspectives.”」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「. A worked example came from their own mixed-methods case study evaluating Strategic Clinical Networks in Alberta, Canada.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Credibility, for example, was built through investigator triangulation during coding. Trustworthiness, they concluded, must be built during analysis, not asserted afterwards.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Checklists for improving rigour in qualitative research: A case of the tail wagging the dog?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+
+## 競合仮説分析の診断力（どの仮説にも合う証拠を外す）と結論を兆し（サインポスト）に変える実務（Umbrex・Heuer・コンサル）（analysis of competing hypotheses diagnosticity of evidence signposts indicators consulting practice）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「Analysis of Competing Hypotheses (ACH) is an intelligence analysis method based on」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「ACH is an eight-step method based on cognitive」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「cal scientific method. The rigor inherently re-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「quired means this method is appropriate to use」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Time frame: The method is appropriate for any」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「in the method can com-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「intelligence circles, where this method is」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「How to Adapt ACH Tools to Foresight」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「scientific framework would help reduce cogni-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「process, validating intelligence methods and practices, the use of games in teaching」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Analytic Methods ❙ Richards Heuer」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「(SACH) are methodologies designed to reduce the level of uncertainty among decision-makers」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「ticularly appropriate for intelligence problems. There are other methods analogous to ACH,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「e.g., the broadly used medical methodology, Differential Diagnosis (DD). SACH is less used」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「makes the analyst’s reasoning more transparent. Both methods are conceptually straightfor-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+- 突き合わせ・推定：
+  - 「and retrieve the best possible estimate. ACH resembles Differential Diagnosis (DD) in」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「of confidence in their own estimate.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+- 一次情報の探し方：
+  - 「04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「S--3800--SE.pdf. Accessed June 7, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「pp. 205-231. URL: https://link.springer.com/content/pdf/10.1007%2Fs40070-013-0001-x.pdf.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「The-Five-Habits-Article.pdf. Accessed June 6, 2018」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「www.dtic.mil/get-tr-doc/pdf?AD=ADA463907. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「TR2005-01.pdf. Accessed June 6, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「tradecraftprimer-apr09-1.pdf. Accessed May 7, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「such as ACH. URL: http://c4i.gmu.edu/wp-content/uploads/AFCEA-gmkuk-2016-Rieber.pdf.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+- 失敗・落とし穴：
+  - 「similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「notably confirmation bias which compels people to seek evidence confirming their」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「biases when dealing with complex issues. The」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「tive biases in the intuitive analysis that occurs」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「eses (ACH) to help analysts overcome cognitive biases. While experimental evidence on the」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「least, does mitigate confirmation bias. Evidence suggests that these two methods can modestly」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「an optical illusion, no matter how much an analyst consciously tries to see past these biases,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「the unconscious part of the brain continues to assert itself. Indeed, confirmation bias, which」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「to conspiracy theories. Other cognitive biases can have similar negative effects when forecast-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「A common pitfall in this step is to see a large amount of evidence (relative to the total amount」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「remember, unless you find an obvious error or stupid mistake, your first answer is probably」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Brasfield Andrew, Forecasting Accuracy and Cognitive Bias in the Analysis of Competing」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「document/35793494/Forecasting-Accuracy-and-Cognitive-Bias-in-the-Analysis-of-Competing-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Cheikes Brant, et alii, “Confirmation Bias in Complex Analyses”, Technical Report No. MTR」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+- 実例：
+  - 「ous foresight examples would be in monitoring」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「website. Heuer, who invented ACH, participated in its development. See Case Study examples and Selective Bibliography.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Let’s imagine an unstable country as an example. When asked, analysts might come up with」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「of the competing hypotheses. Should this be the case, the analyst would either need to collect」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「regarding the analysis. For example, if this analysis indicates that the economy has not stabi-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「main question. For example, the original question “Which industries and tribal groups are」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「example, given that the assumption check revealed that the evidence did, indeed, support the」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「For example, imagine there are three main industries in country x, automotive, textile and min-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「enough information to answer a question. In the above example, it is entirely possible that data」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「SACH Case Study: Ghana Telecommunications」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Note: The following case study conducted for a private client using SACH has been modified」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「ment based on the limited evidence available. For purposes of this case study, the analysts」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Tools, Tutorials, Critiques and Case Studies」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+
+## フェルミ推定の結果を既知の統計の総量と照らして仮定を直す手順（分解を終えてから数を入れる・クロス・マーケティング等の調査会社の解説）（Fermi estimation sanity check against known statistics revise assumptions market research firm）
+- 文脈：推定
+- 手順・やり方：
+  - 「解き方の4ステップと注意点」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定の解き方を、「日本の年間コーヒー消費量」を例に、4つのステップで解説します」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「ステップ1：前提条件の確認（問題の明確化）」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「ステップ2：要素分解をして公式を作成（因数分解）」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「ステップ3：公式に数字を入力（計算）」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「都度計算するのではなく、要素分解がすべて完了してからまとめて数値を当てはめるのが効率的なやり方です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「ステップ4：妥当性の検証・結論の提示」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「前のステップでの推定値は約70万トンでしたが、実際の日本の年間コーヒー消費量（約43万トン）と比較すると、大きなズレがあることがわかります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「そのような場面では、デザイン思考やSWOT分析など、別のフレームワークや思考法を取り入れることが必要です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「本記事でご紹介した4つのステップを参考に、ぜひ日々のマーケティング活動にフェルミ推定を取り入れてみてください」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「【フェルミ推定】基礎知識や最新例題から具体的なやり方について解説 | マイビジョン」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「【フェルミ推定】基礎知識や最新例題から具体的なやり方について解説」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定の基礎知識や5つの手順、難易度別の例題・解答例、面接で評価されるポイントまで解説」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+- 突き合わせ・推定：
+  - 「フェルミ推定の解き方やメリットを解説！活用の注意点は？ | リサーチ・市場調査ならクロス・マーケティング」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定の解き方やメリットを解説！活用の注意点は？」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「大規模調査を行わずとも一定の根拠を得られる点や、データ不足でも特定の要素から市場規模を把握できるなど、意思決定や仮説検証を迅速化させる利点を把握できます」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定とは、限られた情報と論理的な思考を組み合わせて、大まかな数値を素早く推定できる手法です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「実際のデータが十分に揃っていない状況でも、仮説と計算を重ねることで妥当な概算を導き出せるため、マーケティングや新規事業の検討など、ビジネスのさまざまな場面で活用されています」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定とは、実際のデータや正確な統計情報がない場合でも、限られた情報をもとに論理的な仮定と計算を組み合わせることで、妥当な範囲の推定値を導き出す思考法です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「マーケターがフェルミ推定を活用するメリット」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定は、マーケティング分析にスピードと精度をもたらします」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定は、大規模な市場調査を実施しなくても、自社が保有するデータや一般に公開されている情報をもとに、仮説を立てたりマーケットの概算を把握したりできます」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「外部のリサーチ会社に依頼するような費用や時間をかけることなく、一定の根拠を持った推定ができる点が大きな強みです」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「正確な市場データが入手できない場面でも、フェルミ推定を活用することで大まかな市場規模を算出できます」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「データが十分に揃うのを待つのではなく、現時点の情報を最大限活用してスピーディーに動けることが、フェルミ推定の大きな利点です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定を取り入れることで、テストマーケティングの結果をもとに早期に施策を調整することが可能になります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+- 一次情報の探し方：
+  - 「フェルミ推定とは、実際のデータや正確な統計情報がない場合でも、限られた情報をもとに論理的な仮定と計算を組み合わせることで、妥当な範囲の推定値を導き出す思考法です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「コンサルティングファームなどの採用面接では、実際に論理的に考える力や仮説を立てる力を確認するために出題されることがあります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「国勢調査と住民基本台帳では対象の定義が違うため、参照する統計を確認したうえで使いましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「また、既知の統計や身近な感覚と比べたり、別のアプローチから概算したりする方法も有効です」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「フェルミ推定では、統計の細かな数値をそのまま使う必要はありません」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「統計によって18歳人口の定義が異なる点は押さえておきましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「令和7年度学校基本統計（学校基本調査の結果）確定値」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「ここでは、日本フランチャイズチェーン協会の統計対象となる主要コンビニチェーンの店舗を想定します」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「協会の統計はJFA正会員のコンビニ本部を対象としているため、妥当性検証の条件もそろえやすくなります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「1店舗当たりの商圏人口は公的な基礎数値ではないため、ここでは生活圏にあるコンビニの店舗密度から約2,000人と仮定しています」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「ただし公表統計と比較する際は、対象範囲をそろえる必要がある」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「実際の統計と照らす場合も、豆・インスタントの小売額、カフェの飲食代、コーヒー飲料のいずれを含むかで公表値は大きく変わります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「の採用面接においても、この推定プロセスが思考力の指標として用いられている」（https://www.concord-career.com/dictionary/fermi/）
+  - 「店舗数 × 1店舗あたりの1日売上 × 365日、という供給側の分解を採用する」（https://www.concord-career.com/dictionary/fermi/）
+  - 「・日本全国のコンビニ店舗数：約5万8,000店（業界統計より概算）」（https://www.concord-career.com/dictionary/fermi/）
+- 失敗・落とし穴：
+  - 「フェルミ推定の解き方やメリットを解説！活用の注意点は？ | リサーチ・市場調査ならクロス・マーケティング」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定の解き方やメリットを解説！活用の注意点は？」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「解き方の4ステップと注意点」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「今回は、フェルミ推定の基本的な概念から実践的な解き方のステップ、マーケターにとってのメリット、そして活用時の注意点まで、わかりやすく解説します」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「推定値が大きく乖離した場合は、いずれかの仮定に誤りがある可能性が高いため、前提に立ち返って修正する」（https://www.concord-career.com/dictionary/fermi/）
+  - 「数える範囲を曖昧にしたまま計算を進めると、論理展開が成り立たなくなるため注意しましょう」（https://hr.ababa.co.jp/article/interview-prep/fermi-estimation-examples/）
+  - 「その場合は指摘を速やかに受け入れ、誤りがあれば修正しましょう」（https://hr.ababa.co.jp/article/interview-prep/fermi-estimation-examples/）
+  - 「面接は早い方がいい？日程や時間帯の選び方と注意点」（https://hr.ababa.co.jp/article/interview-prep/fermi-estimation-examples/）
+- 実例：
+  - 「前提条件の設定からMECEな要素分解、仮定数値の計算、結果の検証という手順とともに、得られる結果は特定の範囲にとどまる概算であることや数値化できない課題には適用できない留意点が分かります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「例えば「日本にある電柱の本数は？」や「人は1日に何歩くらい歩くのか？」といった、一見すると答えが見当たらない質問に対しても、すでにわかっている情報を細かく分けて考え、推論を積み重ねることで現実的な見積もりを導き出します」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定を取り入れることで、テストマーケティングの結果をもとに早期に施策を調整することが可能になります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「フェルミ推定の結果はあくまでも「仮説の出発点」として位置づけ、過信しすぎないことが重要です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「特に重大な意思決定を伴う場面では、フェルミ推定の結果を参考程度に留め、必ず別途裏付けとなるデータを収集するようにしましょう」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
+  - 「手順5．計算結果が現実的か検証する」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「Q1.フェルミ推定とケース面接の違いは何ですか？」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「労働力調査（基本集計）2025年平均結果」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「ここでは、前提条件の確認から計算結果の検証まで、基本となる5つの手順を解説します」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「「日本全国にコンビニは何店舗あるか」という問題でも、どこまでをコンビニとして扱うのかによって推定結果は変わります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「結果への影響が大きい要素を優先し、限られた時間でも計算できる粒度にとどめることがポイント」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「計算式が合っていても、前提や代入した数値に無理があると、結果が大きくずれるためです」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「実際には、医学部などの6年制課程や留年者などもいるため、4学年で一律に計算した結果には誤差が生じます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+  - 「令和7年度学校基本統計（学校基本調査の結果）確定値」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
+- 検索結果の抜粋：
+  - 「フェルミ推定 の解き方やメリットを解説！活用の注意点は？ — フェルミ推定 の解き方やメリットを解説！活用の注意点は？ クロス・マーケティング https://www.cross-m.co.jp > marketing > mkc20260925」（https://www.cross-m.co.jp/column/marketing/mkc20260925）

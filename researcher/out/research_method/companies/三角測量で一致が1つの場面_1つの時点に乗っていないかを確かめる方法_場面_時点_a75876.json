@@ -1,0 +1,1352 @@
+{
+ "name": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）",
+ "en": "triangulation across settings and time points shared bias false corroboration reporting triangulation strategy",
+ "aliases": [
+  "トライアンギュレーション 時点 場面 確認",
+  "simplypsychology triangulation",
+  "investigator triangulation shared bias"
+ ],
+ "context": "裏取り",
+ "kind": "market",
+ "researched_at": "2026-11-06T23:05:40.043605+00:00",
+ "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "The original rationale, laid out by Denzin and later elaborated with Yvonna Lincoln, was framed around validity: no single data source, investigator, theory, or method is free of its own particular biases and blind spots, so corroborating a finding across more than one of them offsets the weaknesses specific to any one approach with the strengths of another.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "different assumptions and are vulnerable to different biases",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Common Pitfalls and Limitations",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Combining sources does not guarantee a correct answer — if all sources share the same underlying bias (e.g., every method relies on self-report from the same population), agreement across them doesn’t rule that bias out.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This helps to reduce the risk of relying on a single source that may be biased or incomplete.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What are Bias in Qualitative Research?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Addressing how researcher bias was managed through triangulation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a shared bias can make agreement look like independent confirmation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Triangulation in Research: Types, Purpose, and How to Apply It",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "more than one method or technique used to investigate the same question.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Simply collecting a lot of data, or using several methods without ever comparing what they show, is not triangulation. The defining move is the deliberate cross-comparison: looking at where independent sources agree, where they diverge, and treating both outcomes as informative rather than only counting agreement as a success.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The standard typology comes from sociologist Norman Denzin, who identified four basic forms in his early methodological writing on the topic:",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. Methodological Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Methodological triangulation uses more than one method to investigate the same question, and is the type most often meant when people use “triangulation” as shorthand. Denzin further divided it into two sub-types:",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Within-method triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": using multiple techniques from the same broad methodological tradition (e.g., two different qualitative techniques, such as interviews and focus groups, or two different quantitative instruments measuring the same construct).",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Between-method (or across-method) triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Between-method triangulation is where the overlap with mixed-methods research is closest, and where the two terms are most often confused — see the next section.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation vs. Mixed-Methods Research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "mixed-methods research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mixed-methods research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is a broader validity/credibility strategy that can involve data, investigators, theories, or methods, and does not require mixing qualitative and quantitative data at all. A purely qualitative study can triangulate by using multiple coders (investigator triangulation) or multiple qualitative techniques (within-method triangulation) without ever collecting quantitative data.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978).",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Data, investigator, theory and method triangulation each corroborate a finding from a different direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Method Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "approaches the same data through more than one theoretical framework.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "combines different methods to study one topic.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Method Triangulation:",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Method triangulation, also called methodological triangulation, combines different methods to explore the same topic. Researchers can pair",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "qualitative and quantitative methods",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It starts with the research design, where researchers purposefully select a diverse range of data sources, methods, and theories relevant to the research question.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "When reporting, researchers should describe their triangulation strategies clearly. They should name the types of data sources, methods, and theories involved. They should also explain how the data from different sources were compared and contrasted.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Connect the rationale to the research question and the chosen methodology.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Specify the specific types of triangulation used in the study, such as data triangulation, investigator triangulation, theory triangulation, or method triangulation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For each type, provide a detailed description of the sources, methods, theories, or investigators involved.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "mixed methods approaches",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Triangulation in Research: The 4 Types — CASRAI",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation in Research: Types, Purpose, and How to Apply It",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "evidence triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What Triangulation Means in Research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Operationally, a study is using triangulation when it deliberately brings together more than one of the following",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Simply collecting a lot of data, or using several methods without ever comparing what they show, is not triangulation. The defining move is the deliberate cross-comparison: looking at where independent sources agree, where they diverge, and treating both outcomes as informative rather than only counting agreement as a success.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Four Classic Types of Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. Data Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Data triangulation means gathering data from multiple sources within the same study — commonly broken down into triangulation across",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(collecting data from different levels or types of participants, such as individuals, groups, and organizational records). A study interviewing both frontline staff and managers about the same program, or observing the same practice across several clinics rather than one, is using data triangulation.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. Investigator Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Investigator triangulation uses more than one researcher or coder to independently collect and/or analyze the same material, then compares their results. In qualitative coding, this typically means two or more coders working from the same codebook on the same transcripts, with agreement and disagreement both documented. This is closely related to, but distinct from, formal",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "statistics — investigator triangulation is broader, and can include qualitative reconciliation of interpretive disagreements, not just a numeric agreement score.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. Theory Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation in Qualitative Research",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978).",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Data, investigator, theory and method triangulation each corroborate a finding from a different direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation is not a magic bullet. Used as a checklist item, it can create an illusion of corroboration.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Triangulation in Qualitative Research?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is the purpose of triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What are the types of triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Data Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Investigator Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Theory Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Method Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How is triangulation reported in research reports?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation helps researchers to:",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation does not necessarily imply seeking complete agreement across data sources. The goal is not a singular, unified interpretation. It is to acknowledge and explore the complexities and contradictions that may emerge.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "different types of triangulation",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Worked Examples of Each Type",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "), using the contested question of whether low-to-moderate alcohol consumption protects against dementia as the running example.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— expect this level of explicitness rather than a passing mention that “data were triangulated.” Studies combining ethnographic fieldwork with interviews and document review, for example, should describe how those sources were compared, not just that all three were collected; see CASRAI’s guide to",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is an example of methodological triangulation?",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, one data source may suggest a particular theme while another reveals contradictory evidence. That discrepancy is worth investigating. Researchers should explore the reasons behind the differences and consider how they might shape the overall interpretation of the findings.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a researcher might interview comparable groups at different sites. Or they might revisit the same group over time. Either way, the aim is to see whether a theme rests on one setting or one moment.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, in a study exploring patient experiences with a new medication, data triangulation might compare interviews with patients and focus groups with healthcare providers. It might also draw on analysis of patient medical records.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a study exploring the impact of social media on body image could use theories from psychology, sociology, and media studies to analyze the data. This could reveal novel relationships between constructs.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a researcher might state, “Triangulation was employed in this study to enhance the credibility of the findings by drawing upon multiple data sources and perspectives.”",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". A worked example came from their own mixed-methods case study evaluating Strategic Clinical Networks in Alberta, Canada.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Credibility, for example, was built through investigator triangulation during coding. Trustworthiness, they concluded, must be built during analysis, not asserted afterwards.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Checklists for improving rigour in qualitative research: A case of the tail wagging the dog?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gsi.go.jp/common/000233835.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dessinlaboratory.com/knack/triangulation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ndl.go.jp/math/s1/c7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-construction.jp/column/1325",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kurabo.co.jp/el/room/3d/page1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.courage-sapuri.jp/backnumber/10411/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://naughty1029.hatenablog.com/entry/2025/02/02/143047",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gsi.go.jp/sokuchikijun/sankaku-survey.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://library.jsce.or.jp/Image_DB/s_book/jsce100/pdf/24069/24069_16.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://unhomeschool.com/ja/un/geometry_of_verification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25158659/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-communication-research-methods/chpt/triangulation#_",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.betterevaluation.org/methods-approaches/methods/triangulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） site:note.com",
+   "results": [
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://dessinlaboratory.com/knack/triangulation.html",
+    "https://www.ndl.go.jp/math/s1/c7.html",
+    "https://digital-construction.jp/column/1325",
+    "https://www.kurabo.co.jp/el/room/3d/page1.html",
+    "https://www.courage-sapuri.jp/backnumber/10411/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
+    "https://note.com/masa0730_study/n/n32969b2ec967"
+   ]
+  },
+  {
+   "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） note",
+   "results": [
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://dessinlaboratory.com/knack/triangulation.html",
+    "https://www.ndl.go.jp/math/s1/c7.html",
+    "https://digital-construction.jp/column/1325",
+    "https://www.kurabo.co.jp/el/room/3d/page1.html",
+    "https://www.courage-sapuri.jp/backnumber/10411/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
+    "https://ja.wikipedia.org/wiki/三角測量"
+   ]
+  },
+  {
+   "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） やり方",
+   "results": [
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://dessinlaboratory.com/knack/triangulation.html",
+    "https://www.ndl.go.jp/math/s1/c7.html",
+    "https://digital-construction.jp/column/1325",
+    "https://www.kurabo.co.jp/el/room/3d/page1.html",
+    "https://www.courage-sapuri.jp/backnumber/10411/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
+    "https://ja.wikipedia.org/wiki/三角測量"
+   ]
+  },
+  {
+   "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） 事例",
+   "results": [
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://dessinlaboratory.com/knack/triangulation.html",
+    "https://www.ndl.go.jp/math/s1/c7.html",
+    "https://digital-construction.jp/column/1325",
+    "https://www.kurabo.co.jp/el/room/3d/page1.html",
+    "https://www.courage-sapuri.jp/backnumber/10411/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
+    "https://ja.wikipedia.org/wiki/三角測量"
+   ]
+  },
+  {
+   "query": "triangulation across settings and time points shared bias false corroboration reporting triangulation strategy",
+   "results": [
+    "https://pubmed.ncbi.nlm.nih.gov/25158659/",
+    "https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-communication-research-methods/chpt/triangulation",
+    "https://casrai.org/guides/triangulation-in-research",
+    "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "https://www.betterevaluation.org/methods-approaches/methods/triangulation",
+    "https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/",
+    "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=1187&context=jsc",
+    "https://researchmethod.net/triangulation/",
+    "https://www.unaids.org/sites/default/files/sub_landing/files/10_4-Intro-to-triangulation-MEF.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9714985/"
+   ]
+  },
+  {
+   "query": "site:note.com 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）",
+   "results": [
+    "https://note.com/charm_minnow1292/n/n39339b4d272c",
+    "https://note.com/ocaml/n/n4cf5dfef3072",
+    "https://note.com/ykfk/n/n98bb936ca3e4",
+    "https://note.com/newtonfirstlaw/n/n0c16328d332f",
+    "https://note.com/witty_mango107/n/na39978bdd66e",
+    "https://note.com/logic_magic/n/nf5651ba8baea",
+    "https://note.com/cafe_k/n/n21e6b25ab8b7",
+    "https://note.com/ai_thinkingwork/n/n3ffa59e91009",
+    "https://note.com/brisk_newt9430/n/na02a7824c5af",
+    "https://note.com/takumi_k_academy/n/n17fe9c97837e"
+   ]
+  },
+  {
+   "query": "site:x.com 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）",
+   "results": [
+    "https://x.com/nayuta_office/status/2114945278201450809",
+    "https://x.com/nayuta_office/status/2114582930848661960",
+    "https://x.com/nayuta_office/status/2112770891046092878",
+    "https://x.com/nayuta_office/status/2115307658475380905",
+    "https://x.com/nayuta_office/status/2112046182352482436",
+    "https://x.com/nayuta_office/status/2115670108685181438",
+    "https://x.com/nayuta_office/status/2108059907727528267"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）",
+   "results": [
+    "https://in.linkedin.com/company/cars24",
+    "https://jp.linkedin.com/pulse/issue-4the-triangulation-phenomenon-should-i-bother-eft3f?tl=ja",
+    "https://jp.linkedin.com/pulse/leadership-triangulation-bill-keever-oly?tl=ja",
+    "https://jp.linkedin.com/pulse/triangulating-data-dr-selena-fisk-htgpc?tl=ja",
+    "https://jp.linkedin.com/pulse/psychological-triangulation-circular-continuum-raymond-rivera-mba-jio0c?tl=ja",
+    "https://jp.linkedin.com/pulse/triangulation-migration-deception-detection-from-art-uddin-msc--gpmsc?tl=ja",
+    "https://pl.linkedin.com/pulse/rozczarowanie-programem-google-umiejętności-jutra-ai-zasadzki-awgoe"
+   ]
+  },
+  {
+   "query": "site:facebook.com 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）",
+   "results": [
+    "https://www.facebook.com/media/set/?set=a.971729412937126",
+    "https://www.facebook.com/Riku963/videos/完全に一致した2つの魂です/1694745874971844/",
+    "https://www.facebook.com/nitecct/videos/測量補償部です現場作業中遠くにキラキラするものがそーーーっと近づいてみると蝶でしたこんなたくさんの蝶を見たのは初めてでびっくりでした現場作業をしていると時々珍し/4103472253104447/",
+    "https://www.facebook.com/Lifmo.tv/photos/1975年に捨てられた四つ子そのうちの2人が50年後に再会した横浜のバスターミナルでバス運転手と図書館司書が向かい合う顔も声もほくろの位置までも完全に一致してい/1669531535174370/",
+    "https://www.facebook.com/media/set/?set=a.794514740658595",
+    "https://www.facebook.com/kobegoshin/videos/2733407243407842/",
+    "https://www.facebook.com/61587917572447/videos/2549691012168194/"
+   ]
+  },
+  {
+   "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） note 社長",
+   "results": [
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://dessinlaboratory.com/knack/triangulation.html",
+    "https://www.ndl.go.jp/math/s1/c7.html",
+    "https://digital-construction.jp/column/1325",
+    "https://www.kurabo.co.jp/el/room/3d/page1.html",
+    "https://www.courage-sapuri.jp/backnumber/10411/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
+    "https://ja.wikipedia.org/wiki/三角測量"
+   ]
+  },
+  {
+   "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） X 投稿",
+   "results": [
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://dessinlaboratory.com/knack/triangulation.html",
+    "https://www.ndl.go.jp/math/s1/c7.html",
+    "https://digital-construction.jp/column/1325",
+    "https://www.kurabo.co.jp/el/room/3d/page1.html",
+    "https://www.courage-sapuri.jp/backnumber/10411/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
+    "https://ja.wikipedia.org/wiki/三角測量"
+   ]
+  },
+  {
+   "query": "triangulation across settings and time points shared bias false corroboration reporting triangulation strategy site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/science/science-risk-assessment-methods/managing-reporting-bias-in-risk-assessments/",
+    "https://nl.linkedin.com/in/hermon-kweon/ko",
+    "https://www.linkedin.com/top-content/user-experience/ux-research-essentials/tips-for-enhancing-user-research-practices/",
+    "https://www.linkedin.com/posts/martin-ciupa-76418b17_the-cost-of-sycophantic-ai-a-conversational-activity-7452811605551280128-l8FA",
+    "https://in.linkedin.com/in/rpunekar",
+    "https://gh.linkedin.com/in/augustusemenogu",
+    "https://de.linkedin.com/in/augustine-masinde-75850516a",
+    "https://uk.linkedin.com/in/oliver-bruff",
+    "https://www.linkedin.com/top-content/technology/best-practices-in-technology/vulnerability-management-best-practices/",
+    "https://in.linkedin.com/in/achintchaudhary"
+   ]
+  }
+ ],
+ "missing": {
+  "一次情報の探し方": "記載なし（読んだ21頁・検索12回）"
+ },
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "The original rationale, laid out by Denzin and later elaborated with Yvonna Lincoln, was framed around validity: no single data source, investigator, theory, or method is free of its own particular biases and blind spots, so corroborating a finding across more than one of them offsets the weaknesses specific to any one approach with the strengths of another.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "different assumptions and are vulnerable to different biases",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Common Pitfalls and Limitations",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Combining sources does not guarantee a correct answer — if all sources share the same underlying bias (e.g., every method relies on self-report from the same population), agreement across them doesn’t rule that bias out.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This helps to reduce the risk of relying on a single source that may be biased or incomplete.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What are Bias in Qualitative Research?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Addressing how researcher bias was managed through triangulation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a shared bias can make agreement look like independent confirmation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Triangulation in Research: Types, Purpose, and How to Apply It",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "more than one method or technique used to investigate the same question.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Simply collecting a lot of data, or using several methods without ever comparing what they show, is not triangulation. The defining move is the deliberate cross-comparison: looking at where independent sources agree, where they diverge, and treating both outcomes as informative rather than only counting agreement as a success.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The standard typology comes from sociologist Norman Denzin, who identified four basic forms in his early methodological writing on the topic:",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. Methodological Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Methodological triangulation uses more than one method to investigate the same question, and is the type most often meant when people use “triangulation” as shorthand. Denzin further divided it into two sub-types:",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Within-method triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": using multiple techniques from the same broad methodological tradition (e.g., two different qualitative techniques, such as interviews and focus groups, or two different quantitative instruments measuring the same construct).",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Between-method (or across-method) triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Between-method triangulation is where the overlap with mixed-methods research is closest, and where the two terms are most often confused — see the next section.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation vs. Mixed-Methods Research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "mixed-methods research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mixed-methods research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is a broader validity/credibility strategy that can involve data, investigators, theories, or methods, and does not require mixing qualitative and quantitative data at all. A purely qualitative study can triangulate by using multiple coders (investigator triangulation) or multiple qualitative techniques (within-method triangulation) without ever collecting quantitative data.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978).",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Data, investigator, theory and method triangulation each corroborate a finding from a different direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Method Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "approaches the same data through more than one theoretical framework.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "combines different methods to study one topic.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Method Triangulation:",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Method triangulation, also called methodological triangulation, combines different methods to explore the same topic. Researchers can pair",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "qualitative and quantitative methods",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It starts with the research design, where researchers purposefully select a diverse range of data sources, methods, and theories relevant to the research question.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "When reporting, researchers should describe their triangulation strategies clearly. They should name the types of data sources, methods, and theories involved. They should also explain how the data from different sources were compared and contrasted.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Connect the rationale to the research question and the chosen methodology.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Specify the specific types of triangulation used in the study, such as data triangulation, investigator triangulation, theory triangulation, or method triangulation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For each type, provide a detailed description of the sources, methods, theories, or investigators involved.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "mixed methods approaches",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Triangulation in Research: The 4 Types — CASRAI",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation in Research: Types, Purpose, and How to Apply It",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "evidence triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What Triangulation Means in Research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Operationally, a study is using triangulation when it deliberately brings together more than one of the following",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Simply collecting a lot of data, or using several methods without ever comparing what they show, is not triangulation. The defining move is the deliberate cross-comparison: looking at where independent sources agree, where they diverge, and treating both outcomes as informative rather than only counting agreement as a success.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Four Classic Types of Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. Data Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Data triangulation means gathering data from multiple sources within the same study — commonly broken down into triangulation across",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(collecting data from different levels or types of participants, such as individuals, groups, and organizational records). A study interviewing both frontline staff and managers about the same program, or observing the same practice across several clinics rather than one, is using data triangulation.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. Investigator Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Investigator triangulation uses more than one researcher or coder to independently collect and/or analyze the same material, then compares their results. In qualitative coding, this typically means two or more coders working from the same codebook on the same transcripts, with agreement and disagreement both documented. This is closely related to, but distinct from, formal",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "statistics — investigator triangulation is broader, and can include qualitative reconciliation of interpretive disagreements, not just a numeric agreement score.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. Theory Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation in Qualitative Research",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978).",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Data, investigator, theory and method triangulation each corroborate a finding from a different direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation is not a magic bullet. Used as a checklist item, it can create an illusion of corroboration.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Triangulation in Qualitative Research?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is the purpose of triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What are the types of triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Data Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Investigator Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Theory Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Method Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How is triangulation reported in research reports?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation helps researchers to:",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation does not necessarily imply seeking complete agreement across data sources. The goal is not a singular, unified interpretation. It is to acknowledge and explore the complexities and contradictions that may emerge.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "different types of triangulation",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Worked Examples of Each Type",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "), using the contested question of whether low-to-moderate alcohol consumption protects against dementia as the running example.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— expect this level of explicitness rather than a passing mention that “data were triangulated.” Studies combining ethnographic fieldwork with interviews and document review, for example, should describe how those sources were compared, not just that all three were collected; see CASRAI’s guide to",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is an example of methodological triangulation?",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, one data source may suggest a particular theme while another reveals contradictory evidence. That discrepancy is worth investigating. Researchers should explore the reasons behind the differences and consider how they might shape the overall interpretation of the findings.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a researcher might interview comparable groups at different sites. Or they might revisit the same group over time. Either way, the aim is to see whether a theme rests on one setting or one moment.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, in a study exploring patient experiences with a new medication, data triangulation might compare interviews with patients and focus groups with healthcare providers. It might also draw on analysis of patient medical records.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a study exploring the impact of social media on body image could use theories from psychology, sociology, and media studies to analyze the data. This could reveal novel relationships between constructs.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a researcher might state, “Triangulation was employed in this study to enhance the credibility of the findings by drawing upon multiple data sources and perspectives.”",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". A worked example came from their own mixed-methods case study evaluating Strategic Clinical Networks in Alberta, Canada.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Credibility, for example, was built through investigator triangulation during coding. Trustworthiness, they concluded, must be built during analysis, not asserted afterwards.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Checklists for improving rigour in qualitative research: A case of the tail wagging the dog?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T23:05:40.043605+00:00"
+}
