@@ -164,6 +164,9 @@ def drop(topic, why): DROPS.setdefault(topic, {}); DROPS[topic][why] = DROPS[top
 # 2026-11-05 4-39：値の長さの外れ（School of Data「Avoiding mistakes when cleaning your data」）。12字未満の引用は
 # メニュー・見出し・表の切れ端の疑い（brief の「BRAND VOICE・Paid Program」が事実に入った失敗と同じ型）
 SHORTQ = 12
+AMITEM = re.compile(r"金属AM|AM受託|積層造形|3Dプリン|WAAM|DED", re.I)
+AMWORD = re.compile(r"積層|3D|ＡＭ|\bAM\b|アディティブ|additive|プリンタ", re.I)
+MTORDER = re.compile(r"工作機械(の)?受注|日工会|日本工作機械工業会")
 def rows_for(topic):
     for f in glob.glob(os.path.join(OUT, topic, "companies", "*.json")):
         try: d = json.load(open(f, encoding="utf-8"))
@@ -181,6 +184,12 @@ def rows_from_doc(topic, d):
                 if HEADLINE.search(q) or "抜粋" in cat:
                     if NUM.search(q): drop(topic, "見出し・題名・検索結果の抜粋（4-5）")
                     continue  # 見出し・題名・検索結果の抜粋は数字にしない（METHOD.md 4-5）
+                # 2026-11-06 走査の失敗から（4-5 主語の一致）：am_ceiling の「金属AM受託の大型案件・最大受注（国内）」に、日本工作機械工業会の
+                # 工作機械受注総額（月次の業界統計・約1兆円）が「1件の単価」として5件入った。品目が積層造形なのに、引用が工作機械受注の統計で
+                # 積層造形・3Dプリンターの語を含まないものは、その品目の事実にしない
+                if AMITEM.search(name) and MTORDER.search(q) and not AMWORD.search(q):
+                    if NUM.search(q): drop(topic, "主語が別の統計（工作機械受注・4-5）")
+                    continue
                 ys = YEAR.findall(q)
                 ctx = context_of(q)
                 for m in NUM.finditer(q):
@@ -542,7 +551,67 @@ def kougyo_section(topic):
             md.append(f"- 【一次で確認】{code} {name}：" + "／".join(parts))
             shown += 1
     if shown == 0: md.append("- （番号つきの行が年2点以上そろわない）")
+    md += kougyo_segments(by)
     return md + [""]
+
+# 2026-11-06 走査で見つかった失敗から（4-26・4-37・4-44）：上の年率は実績2013→2019年を1本で結ぶので、
+# 経済センサスの2015年と、製造業計で1事業所あたり従業者が段差を作る2015→2016年（事業所の数え方の違いの疑い）をまたぐ。
+# ①製造業計の隣り合う年で事業所数か1事業所あたり従業者が10%以上動いた境目を「段差」として機械で見つける
+# ②段差をまたがない最長の区間（同じ調査の続き）だけで年率を出す ③同じ区間の製造業計の年率と並べ、差（ポイント）を出す（比べる相手）
+KOUGYO_SEG_FIELDS = ("従業者1人あたり加工賃収入額", "従業者1人あたり製造品出荷額等_万円", "従業者1人あたり付加価値額_万円",
+                     "従業者1人あたり現金給与総額_万円", "1事業所あたり従業者数", "事業所数", "従業者数")
+def _kseries(rs, fld, sheet):
+    pts = {}
+    for y, r in rs:
+        if sheet and r.get("sheet") != sheet: continue
+        v = _kf(r.get(fld))
+        if v is not None and y not in pts: pts[y] = v
+    return sorted(pts.items())
+def kougyo_segments(by):
+    tot = next((rs for (c, n), rs in by.items() if c == "0000"), None)
+    if not tot: return []
+    sheet = "1100"
+    breaks = set()
+    for fld in ("事業所数", "1事業所あたり従業者数"):
+        pts = _kseries(tot, fld, sheet)
+        for (y0, v0), (y1, v1) in zip(pts, pts[1:]):
+            if v0 and abs(v1 / v0 - 1) >= 0.10: breaks.add(y1)
+    breaks.add(2015); breaks.add(2016)  # 2015＝経済センサス、その次の年から元の調査に戻る
+    def segs(years):
+        out, cur = [], []
+        for y in years:
+            if cur and (y in breaks or cur[-1] in breaks or y != cur[-1] + 1):
+                out.append(cur); cur = []
+            cur.append(y)
+        if cur: out.append(cur)
+        return [s for s in out if len(s) >= 2]
+    md = ["", "### 段差をまたがない区間だけの年率と、製造業計との差（4-26・4-37・4-44・機械）",
+          f"- 段差とみなした年（製造業計で事業所数か1事業所あたり従業者が前年から10%以上動いた年・2015年・2016年）：{', '.join(str(y) for y in sorted(breaks))}。段差の年の前後はつながない",
+          "- 金額は名目（物価で割っていない）。製造業計との差は「年率の差（ポイント）」で、構成変化（小さい事業所の退出）を除いた値ではない（規模別は kougyo_size.csv・4-25）"]
+    base = {}
+    for fld in KOUGYO_SEG_FIELDS:
+        pts = dict(_kseries(tot, fld, sheet))
+        for s in segs(sorted(pts)):
+            base[(fld, s[0], s[-1])] = _cagr(pts[s[0]], pts[s[-1]], s[-1] - s[0])
+    n = 0
+    for (code, name), rs in sorted(by.items()):
+        if code == "0000" or not KOUGYO_FOCUS.search(name or ""): continue
+        parts = []
+        for fld in KOUGYO_SEG_FIELDS:
+            pts = dict(_kseries(rs, fld, sheet))
+            ss = segs(sorted(pts))
+            if not ss: continue
+            s = max(ss, key=len)
+            g = _cagr(pts[s[0]], pts[s[-1]], s[-1] - s[0])
+            if g is None: continue
+            b = base.get((fld, s[0], s[-1]))
+            parts.append(f"{fld} {s[0]}→{s[-1]}年 {pts[s[0]]:,.1f}→{pts[s[-1]]:,.1f}（年率 {g:+.1%}"
+                         + (f"・製造業計 {b:+.1%}・差 {(g - b) * 100:+.1f}ポイント" if b is not None else "") + "）")
+        if parts:
+            md.append(f"- 【一次で確認】{code} {name}：" + "／".join(parts)); n += 1
+        if n >= 40: break
+    if n == 0: md.append("- （段差をまたがない2点以上の区間が無い）")
+    return md
 
 def scan(topic):
     rows = drop_boilerplate(dedupe(list(rows_for(topic))))
