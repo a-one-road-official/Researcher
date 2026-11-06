@@ -159,6 +159,14 @@ CENSUS_ACT = re.compile(r"経済センサス\s*[-‐ー－―]?\s*活動調査")
 CENSUS_YEARS = {"2012", "2016", "2021"}
 # 2026-11-05 4-34：レジスター統計の「試算値」・推計値は実測でない（総務省・経産省「経済構造統計の体系的整備について」2022-08-30）。見通しと同じく事実の向きに入れない
 TRIAL = re.compile(r"(試算値|試算|推計値|推計した|レジスター統計)")
+# 2026-11-06 4-56（イノベーション総合研究所「市場規模の調べ方」：公開統計・自社データ・仮置きを区別して計算し、仮置きは仮定と明記して検証後に更新する）。
+# 引用の書き手が「仮に」「と仮定」「と置く」「想定すると」で置いた数字は、実測でも統計でもない仮置き。見通し・試算と同じく事実の向き・裏付けに入れない
+ASSUME = re.compile(r"(仮に|と仮定|を仮定|仮定する|仮置き|と置く|と置いて|想定すると|と想定して|assum(e|ing) that|suppose)", re.I)
+# 2026-11-06 4-56（角渕由英 note「生成AIで特許侵害を見つけられるか？」：出力した各引用が元の本文の中に、空白・改行をそろえたうえで実在するかをコードで確かめる。
+# 判定と抜き出しを分け、引用の機械検証を必ず挟む）。cross.csv の引用は頭160字なので、値が161字目より後ろにあると、表を見た人が値の出どころを引用で確かめられない。
+# そのときは頭100字（重複除去・共通文の判定に使う頭40字は変えない）＋「…」＋値の前後の窓にし、値の文字列が引用の中に見えるかを scan() で数える
+QHEAD = 160
+QCUT = {}
 # 2026-11-05 4-34：決算の表は負の値を△・▲・括弧で書く（Bradshaw「company accounts」：括弧の数字は損失で、見落としやすい）。負の金額を捨てたり正にしたりしない
 # 2026-11-05 4-35：ハイフン・マイナス記号は負にしない。統計表の「-」（該当なし・秘匿）や範囲の「10-19」まで負と読み、mfg_capacity の受注額・1人あたりの欄に
 # 負の値が入って食い違いの判定が外れ、【食い違い】が【一次で確認】に上がった失敗から。負は日本の表の慣行の△・▲と括弧だけで読む
@@ -226,6 +234,16 @@ def rows_from_doc(topic, d):
                     if DIPOINT.match(q, m.end()) or (DIWORD.search(q[max(0, m.start() - 30):m.start()]) and "ポイント" in q[m.end():m.end() + 6]):
                         drop(topic, "DI・%ポイントの差の指数（4-48）"); continue
                     v, u = norm(*m.groups())
+                    # 2026-11-06 4-56 走査の失敗から：mfg_capacity の「日本造船工業会・国交省の年ごとの新造船受注量」の %（10年推移）の欄に、
+                    # 世界の建造量の国別シェア（中国 約50%・日本 8%〜16%）と前年比の増減（12%減・15%増・バルカー45%増）が同じ欄で並び、【裏付けあり】と出た。
+                    # % は数字の直後の語で「増減率」「シェア・構成比」に分け、同じ欄で突き合わせない
+                    ctx_n = ctx
+                    if u == "%":
+                        aft, bef = q[m.end():m.end() + 6], q[max(0, m.start() - 25):m.start()]
+                        if re.match(r"\s*\)?\s*(増|減|の増|の減|上昇|下落|低下|拡大|縮小|up|down|increase|decrease|growth)", aft, re.I) or re.search(r"(前年比|前年同期比|年比|比べ|伸び率|増加率|減少率|増減率)", bef):
+                            ctx_n = "増減率"
+                        elif re.search(r"(シェア|構成比|割合|占め|のうち|share)", bef + aft, re.I):
+                            ctx_n = "シェア・構成比"
                     pre = q[max(0, m.start() - 2):m.start()]
                     neg = bool(NEGMARK.search(pre)) or (u == "万円" and pre.endswith("(") and q[m.end():m.end() + 1] == ")" and bool(FINTABLE.search(q)))  # 4-35：括弧は決算の表の文脈だけ
                     if u == "万円" and v <= 0: drop(topic, "0以下の金額"); continue
@@ -239,16 +257,18 @@ def rows_from_doc(topic, d):
                         y, yfix = str(int(y) - 1), "活動調査の調査年→実績年（-1年）"
                     if GOINGCONCERN.search(q): GC.setdefault(topic, set()).add((name, url))
                     kind = "調査会社" if REPORT.search(url) else "信用調査" if CREDIT.search(url) else "一次" if is_primary(url) else "記事"
-                    yield {"品目": name, "区分": cat, "文脈": ctx, "年": y, "値": round(v, 4), "単位": u,
+                    yield {"品目": name, "区分": cat, "文脈": ctx_n, "年": y, "値": round(v, 4), "単位": u,
                            "一次": kind, "立場": standing(url, kind),
                            "元へ戻る": "要" if kind != "一次" and CITES_PRIMARY.search(q) else "",
                            "定義": defn_of(q), "版": version_of(q), "規模": size_class_of(q, m.start()),
                            # 2026-11-05 4-19：出どころの記録（URL・取得日・取り方）。欠けた引用は後から確かめられない
                            # 2026-11-05：mfg_capacity の引用は first_seen が無く「記録が欠けた数字 1488/1488」になった。ファイルの researched_at を取得日に使う
                            "取得日": it.get("first_seen", "") or (d.get("researched_at", "") or "")[:10],
-                           "予測": "予測" if y and int(y) > NOW_YEAR else "見通し" if OUTLOOK.search(q) else "試算" if TRIAL.search(q) else "",
+                           "予測": "予測" if y and int(y) > NOW_YEAR else "見通し" if OUTLOOK.search(q) else "試算" if TRIAL.search(q) else "仮置き" if ASSUME.search(q) else "",
                            "年の補正": yfix, "符号": "負" if neg and u == "万円" else "",
-                           "出典": urlparse(url).netloc, "URL": url, "引用": q[:160]}
+                           "出典": urlparse(url).netloc, "URL": url,
+                           "原文の数字": m.group(0).strip()[:40],
+                           "引用": q[:QHEAD] if m.end() <= QHEAD else (QCUT.__setitem__(topic, QCUT.get(topic, 0) + 1) or q[:100] + " … " + q[max(100, m.start() - 50):m.end() + 10])}
 
 
 # 2026-11-05 4-38：判定の正解例での点検（ripla「名寄せシステム開発の進め方」：判定は人が付けた正解例と照合してから使い、
@@ -775,6 +795,26 @@ def scan(topic):
         _h = _hl.sha256((_h + "|" + (r["URL"] or "") + "|" + (r["取得日"] or "") + "|" + r["引用"] + "|" + str(r.get("値", ""))).encode("utf-8")).hexdigest()
     _cp = os.path.join(OUT, topic, "chain.txt"); _prev = open(_cp).read().split()[0] if os.path.exists(_cp) else ""
     open(_cp, "w").write(_h + "\n")
+    # 2026-11-06 4-56（角渕由英 note：引用の機械検証）。拾った値の原文の数字（空白・カンマを除く）が、cross.csv に残した引用の中に見えるかを確かめる。
+    # 見えない行は表だけでは出どころを確かめられないので、結論に使う前に本文で確かめる
+    _sq = lambda s: re.sub(r"[\s,，]", "", s or "")
+    nnot = [r for r in rows if r.get("原文の数字") and _sq(r["原文の数字"]) not in _sq(r["引用"])]
+    md.append(f"  - 引用の機械検証（4-56）：値の原文の数字が引用の中に見えない行 {len(nnot)}件／{len(rows)}件"
+              + (f"（例：{nnot[0]['品目'][:30]}）" if nnot else "") + f"。161字目より後ろの値で引用を値の前後の窓にした行 {QCUT.get(topic, 0)}件")
+    # 2026-11-06 4-56（イノベーション総合研究所：仮置きは仮定と明記して分ける）。書き手が仮に置いた数字の件数
+    nas = sum(1 for r in rows if r["予測"] == "仮置き")
+    if nas: md.append(f"  - ⚠ 書き手の仮置き（「仮に」「と仮定」など）から取った数字 {nas}件：実測・統計でないので、向き・裏付け・採る値に入れない（4-56）")
+    # 2026-11-06 4-56（OSINT Blog「Cognitive Biases That Derail Investigations」：検索は問いへの関連で並ぶので、偏った検索語は偏った結果を返す。
+    # 反証の証拠を先に探す）。inputs/<テーマ>.csv の品目・別名・英語名が一方の向きの語（増加・拡大・不足など）だけを含み、反対の向きの語を含まない品目を数える。
+    # その品目で集まった事実は、仮説を支える側に片寄りうる。反対の向きの別名（減少・縮小・過剰・横ばい）を足して取り直す
+    try:
+        import csv as _csv2
+        UPW = re.compile(r"(増加|拡大|急増|伸び|成長|上昇|好調|不足|人手不足|growth|increase|shortage|rising)", re.I)
+        DNW = re.compile(r"(減少|縮小|低下|減|下落|過剰|横ばい|停滞|廃業|退出|decline|decrease|surplus|flat)", re.I)
+        _inp = list(_csv2.DictReader(open(os.path.join(os.path.dirname(__file__), "inputs", topic + ".csv"), encoding="utf-8-sig")))
+        _one = [r.get("品目", "") for r in _inp if UPW.search(" ".join(r.get(k, "") or "" for k in ("品目", "英語名", "別名"))) and not DNW.search(" ".join(r.get(k, "") or "" for k in ("品目", "英語名", "別名")))]
+        md.append(f"  - 検索語の向きの片寄り（4-56）：一方の向きの語だけで探している品目 {len(_one)}件／{len(_inp)}件" + (f"（例：{_one[0][:40]}）。反対の向きの別名を足して取り直す" if _one else ""))
+    except Exception: pass
     md.append(f"  - 取得の記録の連鎖（4-55）：{_h[:12]}" + ("（前回と同じ）" if _prev == _h else f"（前回 {_prev[:12]} から変わった：足された・消えた・書き換えられた行がある）" if _prev else "（初回）"))
     # 2026-11-06 4-52（Binette ら arXiv 2210.01230：件数に比例して抜いた品目で誤りを数えたら、素朴に「誤り合計÷確かめた合計」とせず、
     # 抜かれやすさで重みを戻す（件数比例なら品目ごとの誤り率の平均）。素朴な割合は大きい品目に引っ張られる）。
