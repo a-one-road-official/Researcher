@@ -835,7 +835,7 @@ def kougyo_segments(by):
         pts = dict(_kseries(tot, fld, sheet))
         for s in segs(sorted(pts)):
             base[(fld, s[0], s[-1])] = _cagr(pts[s[0]], pts[s[-1]], s[-1] - s[0])
-    n = 0
+    n = 0; tally = {}
     for (code, name), rs in sorted(by.items()):
         if code == "0000" or not KOUGYO_FOCUS.search(name or ""): continue
         parts = []
@@ -847,13 +847,23 @@ def kougyo_segments(by):
             g = _cagr(pts[s[0]], pts[s[-1]], s[-1] - s[0])
             if g is None: continue
             b = base.get((fld, s[0], s[-1]))
+            if b is not None:
+                t_ = tally.setdefault(fld, [0, 0, 0]); t_[0 if g > b else 1 if g < b else 2] += 1
             parts.append(f"{fld} {s[0]}→{s[-1]}年 {pts[s[0]]:,.1f}→{pts[s[-1]]:,.1f}（年率 {g:+.1%}"
                          + (f"・製造業計 {b:+.1%}・差 {(g - b) * 100:+.1f}ポイント" if b is not None else "") + "）")
         if parts:
             md.append(f"- 【一次で確認】{code} {name}：" + "／".join(parts)); n += 1
         if n >= 40: break
     if n == 0: md.append("- （段差をまたがない2点以上の区間が無い）")
+    # 2026-11-07 4-65（QiQUMO「アンケートのバイアス」：切り口を細かく切って目立った切り口だけを採ると、当たりを拾っただけになる）。
+    # 見た細分類の数と、製造業計より上・下の数を欄ごとに添える。scan.md で1業種の差を書くときは、この母数と並べる
+    if tally:
+        md.append("- 見た細分類の数と、製造業計との差の向き（4-65・探索の数を添える）：" + "／".join(
+            f"{f} {a + b + c}業種中 上 {a}・下 {b}・同じ {c}" for f, (a, b, c) in tally.items()))
     return md
+
+MOCHIBUN = re.compile(r"(合同会社|合名会社|合資会社|LLC|\(同\)|（同）)")
+NORMAL_ABSENT_SCAN = re.compile(r"(決算公告|官報|貸借対照表)")
 
 def scan(topic):
     rows = drop_boilerplate(dedupe(list(rows_for(topic))))
@@ -1381,6 +1391,9 @@ def scan(topic):
         except Exception: pass
     empty = sorted(n for n in names - set(by_item) if n)
     empty += [f"{n}（取れたのは欄と単位の合わない混入だけ・4-46）" for n in onlymix]
+    # 2026-11-07 4-65（ひぐらし司法書士 note「会社の公告方法」・isa99999 note「非上場会社の決算公告」）：合同会社・合名会社・合資会社（持分会社）は
+    # 決算公告の義務が無い。決算公告・官報の品目で空でも「欠け」に数えず、印を付けて分ける
+    empty = [f"{n}（持分会社：決算公告の義務なし・欠けに数えない・4-65）" if MOCHIBUN.search(n) and NORMAL_ABSENT_SCAN.search(n) else n for n in empty]
     # 2026-11-07 4-59（deskrex「学会発表前の引用ネットワーク調査」：PRISMA-S の考え方で、調べる仕様（inputs）と実行の記録（companies/*.json）を
     # 突き合わせ、仕様にあって一度も回っていない品目と、仕様から消えたのに結果だけ残る品目を分けて出す。数字0件と「未実行」を混ぜない）
     spec = set()
@@ -1491,6 +1504,25 @@ def scan(topic):
         if byord:
             md += ["- 直しの順番ごとの平均絶対改訂（4-52・効率的な版）：" + "、".join(f"{'3回目以降' if k == 3 else f'{k}回目'} {statistics.mean(v):.1%}（{len(v)}件）" for k, v in sorted(byord.items()))
                    + "。後の回で小さくなっていれば、その回の値から採る。小さくならなければ版を待っても締まらない"]
+        # 2026-11-07 4-65（ONS「GDP revisions in Blue Book 2026」：不確かな時期（コロナ期）や方法の変わった年は直しが大きく、
+        # 期間を通した平均は時期で変わる。同じ年が何年にもわたって直り続けることがある）。①実績の年で2020年前と以後に分けた平均絶対改訂
+        # ②同じ欄・同じ年で3回以上直った欄の、最初の値から最新の値までの累積の直し
+        per = {}
+        for x in revs:
+            try: yy = int(str(x.get("年") or "")[:4])
+            except Exception: continue
+            if abs(x["率"]) < 100: per.setdefault("2019年以前" if yy < 2020 else "2020年以後", []).append(abs(x["率"]))
+        if per:
+            md += ["- 時期で分けた平均絶対改訂（4-65）：" + "、".join(f"{k} {statistics.mean(v):.1%}（{len(v)}件）" for k, v in sorted(per.items()))
+                   + "。片方が大きければ、その時期の値は早い版で言い切らない"]
+        cum = {}
+        for x in revs:
+            if abs(x["率"]) < 100: cum.setdefault((x["欄"], x["年"]), []).append(x)
+        many = sorted(((k, v) for k, v in cum.items() if len(v) >= 3), key=lambda kv: -len(kv[1]))
+        if many:
+            md += ["- 3回以上直った欄の累積の直し（4-65・直り続ける欄は確度を1段下げる）："] + [
+                f"  - {k[0]}（{k[1] or '年不明'}年）{len(v)}回：{v[0]['前']:g}→{v[-1]['後']:g}（累積 {(v[-1]['後'] - v[0]['前']) / abs(v[0]['前']):+.1%}）"
+                for k, v in many[:10] if v[0]["前"]]
         pairs = [(v[i], v[i + 1]) for v in seq.values() for i in range(len(v) - 1)]
         if len(pairs) >= 5 and len({a for a, _ in pairs}) > 1 and len({b for _, b in pairs}) > 1:
             rho = statistics.correlation([a for a, _ in pairs], [b for _, b in pairs])
