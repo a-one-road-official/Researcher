@@ -765,6 +765,12 @@
 - 文脈：型
 - 手順・やり方：
   - 「プロフェッショナル／ハンズオン型経営コンサルティング会社/年収：～1600万円/東京都」（https://www.kotora.jp/c/77700-2/）
+  - 「CONSULTANT'S APPROACH TO THE RESEARCH METHODOLOGY」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
+  - 「inquiry, I will first review some of these major steps, and」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
+  - 「A brief review of the major methodological steps of」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
+  - 「- to do this step one must consider where the」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
+  - 「Science by Carr; Scientific Method: Optimizing Applied」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
+  - 「These are some of the major steps that I go through」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
   - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法｜30代コンサルマネージャー｜仕事とキャリアのリアル」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「1. コンサルが実務で使っている「リサーチの型」を理解できる」（https://note.com/gomaengineer/n/nf0782f7d7838）
@@ -773,12 +779,6 @@
   - 「ステップ1: ファクトのリサーチ」（https://note.com/mngt46/n/na1c988382e73）
   - 「ステップ2: 分析と示唆出し」（https://note.com/mngt46/n/na1c988382e73）
   - 「コンサルタントは、一般的な分析フレームワーク（SWOT分析、PEST分析、ポーターの5フォース分析など）を活用して、情報を構造化し洞察を得ます」（https://note.com/mngt46/n/na1c988382e73）
-  - 「ステップ3: 結果の報告」（https://note.com/mngt46/n/na1c988382e73）
-  - 「それぞれのステップにおいては、業界ごとの専門知識や、業界をまたいでも活用可能な境界知見をフル活用しながら、リサーチの結果分かった示唆についてわかりやくす資料化していきます」（https://note.com/mngt46/n/na1c988382e73）
-  - 「として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを、明確な方法論として描いています」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「現代のリサーチにおいて重要なのは、方法やツールが進化しても、思考の本質は変わらないという点です」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「仮説は答えではなく分析の出発点であり、思考を導くフレームです」（https://note.com/ten365_blog/n/n7c6df28110e7）
-  - 「なぜなら、情報をどう読み解くかという行為そのものが、すでに自分の思考フレームに影響されているからです」（https://note.com/ten365_blog/n/n7c6df28110e7）
 - 突き合わせ・推定：
   - 「これらの業務は、クライアントの課題に寄り添い、仮説検証型でソリューションを提供す […]」（https://www.kotora.jp/c/77700-2/）
   - 「② 調べるべき論点（＝仮説）」（https://note.com/gomaengineer/n/nf0782f7d7838）
@@ -828,6 +828,9 @@
   - 「コンサル業界で成功を収めるためのプレッシャーは時に努力の躍進力になり大きな成長につながりますが、同時にメンタルや体力にダメージを与えるデメリットもあります」（https://consulfree.com/blog/consultant-analyst/）
   - 「を主としており、業務委託契約には「委任」「準委任」「請負」など様々な契約種類があり、法律行為の有無や業務責任において違いを知っておかないと違反行為にもなってしまうため注意が必要です」（https://consulfree.com/blog/consultant-analyst/）
 - 実例：
+  - 「transportation, and let me use highways as an example,」（https://onlinepubs.trb.org/Onlinepubs/trcircular/426/426-003.pdf）
+  - 「Study design (randomised controlled trial, cohort, case-control, scoping, systematic, mixed methods)」（https://researchgold.org/services/research-consultant）
+  - 「Case studies, articles」（https://veridatainsights.com/business-consultant-research-process-guide/）
   - 「例えば、上司からあなたに次の指示が来たとします」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「→ 具体的な事例や競合比較に使える」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「コンサルは調査結果をまとめるとき、いきなりパワポを作りません」（https://note.com/gomaengineer/n/nf0782f7d7838）
@@ -840,10 +843,11 @@
   - 「それぞれのステップにおいては、業界ごとの専門知識や、業界をまたいでも活用可能な境界知見をフル活用しながら、リサーチの結果分かった示唆についてわかりやくす資料化していきます」（https://note.com/mngt46/n/na1c988382e73）
   - 「、と本当に強く実感する結果となりました」（https://note.com/choconejito/n/n2c2adb7a2830）
   - 「今後は、公開情報をソースにした一次リサーチやその集計結果からの示唆出しはAIが一瞬で片付けてしまい、コンサルはその先にある」（https://note.com/choconejito/n/n2c2adb7a2830）
-  - 「AIが台頭した結果、」（https://note.com/choconejito/n/n2c2adb7a2830）
-  - 「- RPAには言うほど定型事務作業が駆逐されなかったのは、導入や保守運用コストがオペレーターの人件費より高いケースがあるから」（https://note.com/choconejito/n/n2c2adb7a2830）
-  - 「目的意識を持たず興味の赴くままにリサーチを進めると、いざ結果をまとめるタイミングになって「いろいろ知識は溜まったけれど、肝心のことがよくわからない」という事態に陥ってしまうのです」（https://note.com/lpkojitaku/n/n34c9eadcab84）
 - 検索結果の抜粋：
+  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... — Nov 12, 2023 · その中でコンサルタントはアサインされる案件の目的・課題にあわせてリサーチ手法を使い分けています。 この記事ではコンサルタントに必要なリサーチについて詳しく解説しています。」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
+  - 「【コンサルティング業界向け】リサーチシナリオ10選 | リサーチ・市場... — May 18, 2026 · 本資料は、コンサルティングファームの戦略部門や新規事業担当者が直面する課題に基づき、リサーチをどのようにコンサルティング実務に組み込み、成果へ導くかをまとめた事例集です 。」（https://www.cross-m.co.jp/report_all/consulting_case-studies）
+  - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 — Dec 1, 2025 · コンサルだけでなく、すべての知的生産に携わる人にとって必読の一冊。 「やるべきことを絞る」「意味のある問いから始める」という本記事の要点と完全に一致しています。 ⸻ まとめ：リサーチ力は「探す力」ではなく「絞る力」」（https://note.com/gomaengineer/n/nf0782f7d7838）
+  - 「コンサル現場で使えるリサーチ手法（実行以上に定義・設計が重要！） ... — Mar 27, 2022 · しかしビジネス現場におけるリサーチでは、時間が限られており、またアウトプットにメッセージ性が求められるなど、上記の手法は通用しません。 今回は、ビジネス現場（特にコンサルティング現場）で使えるリサーチ手法についてご紹介します。」（https://biz-con.plus/skillup-researchprocess/）
   - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 — Dec 1, 2025 · 1. コンサルが実務で使っている「リサーチの型」を理解できる 2. “思考の枠組みを先に作る”ことで調査のムダが消える理由が分かる 3. 明日から使えるインタビュー・デスクリサーチの具体手法を獲得できる ⸻ 第1章：コンサ」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「コンサル流リサーチ業務から資料への落とし方｜O-LLC — Jan 3, 2025 · はじめに: リサーチの重要性 コンサルティング業界では、正確な情報と深い分析がクライアントに対する価値提案の鍵となります。そのため、リサーチ業務はプロジェクトの初期段階で非常に重要な役割を果たします。生成AIにより大量の情報を即座に収集できるようになっても、その重要性は ...」（https://note.com/mngt46/n/na1c988382e73）
   - 「外資系コンサルのリサーチ技法｜MIDAS_TOUCH — Nov 1, 2025 · 概要 本書は、外資系コンサルティングの現場で培われたリサーチ技法を体系的に整理し、実務に直結する形で提示した一冊です。リサーチを単なる情報収集ではなく「思考を構築するための営み」として捉え、目的設定から仮説構築、情報の収集と検証、そして洞察の導出に至るまでの流れを ...」（https://note.com/ten365_blog/n/n7c6df28110e7）
@@ -855,10 +859,6 @@
   - 「コンサル流リサーチ術：質の高いアウトプットを最速で生み出す方法 — Dec 1, 2025 · コンサルとキャリアのリアルを、もっと身近に 事業会社エンジニア → 30歳未経験コンサル→ マネージャー 「コンサルに転職したい」 「30代のキャリアを考えたい」 「コンサルでさらに成長したい」 そんな方のキャリア選択に役立つ情報を届けます。」（https://note.com/gomaengineer/n/nf0782f7d7838）
   - 「コンサル現場で使えるリサーチ手法（実行以上に定義・設計が重要！） ...外資系コンサル直伝！『本質を見抜く』ためのリサーチ術 - KOTORA JOU...やってみると意外と難しい、良いリサーチのコツ！【企画の道具箱 #20...【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会...調査・リサーチの成果を最大化する方法｜現役コンサルタントが語るプ... — リサーチを行う際は、冒頭に紹介したように、フォアキャスティングではなく、バックキャスティング（最初に目標を描き、それを実現するためのプロセスを未来から現在へさかのぼるシナリオ手法）の考え方が重要です。 実際には、下記の3ステップでリサーチを行うことになりますが、『実行』前の『定義』や『設計』がリサーチ成功のカギとなります。 以下、それぞれのフェーズにおけるポイントを紹介します。 See full list on bi」（https://biz-con.plus/skillup-researchprocess/）
   - 「外資系コンサル直伝！『本質を見抜く』ためのリサーチ術 - KOTORA JOU... — Jan 2, 2024 · 第3章 外資系コンサルが使うリサーチテクニック 便利サイトとツールを駆使する 外資系コンサルタントが行うリサーチでは、専門的な情報を迅速かつ正確に収集するために、便利なサイトやツールが欠かせません。市場動向を把握するためにはStatistaやIBISWorldなどのデータベースが活用され ...」（https://www.kotora.jp/c/50381/）
-  - 「調査・リサーチの成果を最大化する方法｜現役コンサルタントが語るプ... — Dec 20, 2023 · 覚えておいてほしいのは、 リサーチにかかる時間の高々2割程度を占める（1）（2）（4）の作業が、リサーチから得られる成果の8割以上を占めるということです。 私の実感では、1年目のコンサルタントがリサーチでほしい情報が得られなくて徹夜になったり、時間をかけたのに何の意味もない ...」（https://gaishishukatsu.com/archives/36953）
-  - 「【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会... — Sep 30, 2022 · リサーチの重要性 昨今のテクノロジーの発展に伴い、企業は DX 化や新しいビジネスモデルの創出を求められるようになっています。このような状況下では、市場のニーズや他社の戦略などを分析し、自社が取るべき販売戦略やサービス開発戦略を見つけることが重要です。そのために、必要な ...」（https://www.arts-crafts.co.jp/post-16243/）
-  - 「コンサルのリサーチ実務どうやるの？4つのステップを実例交え解説！ -... — Nov 12, 2023 · この記事を読めば、リサーチの種類や方法から具体的なリサーチの事例について理解が深まっていくはずです。 ぜひ、最後まで読んでお役立てください。 【記事監修】安孫子 悠介 コンサルティングファームRally Growth株式会社の取締役。」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
-  - 「【コンサルティング業界向け】リサーチシナリオ10選 | リサーチ・市場... — May 18, 2026 · 本資料は、コンサルティングファームの戦略部門や新規事業担当者が直面する課題に基づき、リサーチをどのようにコンサルティング実務に組み込み、成果へ導くかをまとめた事例集です 。市場環境分析から価格戦略、CX改善まで、明日からの提案活動に活かせるリサーチの「型」を10の ...」（https://www.cross-m.co.jp/report_all/consulting_case-studies）
 
 ## OSINT 企業調査の手法（調査報道・OSINTアナリスト）（OSINT company investigation methodology analyst）
 - 文脈：凄腕・OSINT
@@ -3166,7 +3166,7 @@
   - 「: One of the main causes of stale data is delays in data collection, often due to outdated collection methods. In systems that require real-time updates, relying on manual processes like copy-and-paste or batch processing can result in stale data. For example, the case we discussed earlier of stale data in a ticketing platform was caused by delays in data collection.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
   - 「: When businesses rely on outdated data, they struggle to accurately understand customer needs and preferences, leading to a poor customer experience. For example, a recommendation platform using stale data may generate irrelevant suggestions, further reducing customer satisfaction.」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
   - 「, Quadratic helps users to identify stale data right from their spreadsheet interface. Suppose you’re working with large amounts of data for analysis and you quickly want to identify some stale data that is no longer relevant, you can do so by passing a text prompt in the Quadratic spreadsheet chat. Here’s an example:」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
@@ -4381,22 +4381,24 @@
 ## 研究データの清掃の手順書（清掃計画・欄どうしの整合・誤りは工程を直して最初から・識別子の結合）（data cleaning plan checklist consistency checks Crystal Lewis data management education research）
 - 文脈：清掃
 - 手順・やり方：
-  - 「さまざまな可視化の方法を試してみるとよいでしょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「データクリーニングをどこまで・どのように行うかは、分析の方針や分析方法、用いる分析ツールによっても異なるため、ここでは基本的な確認ポイントに絞って解説していきます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「Excel等の表形式のデータの入力方法については、総務省が公開している「」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「統計表における機械判読可能なデータ作成に関する表記方法」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「カンマ（タブ）と改行という単純な方法でデータを表現しているため、テキストエディター等でも開くことができるなど、ソフトウェアの種別を問わず開くことができるメリットもあります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「詳しい使い方などは、以下の資料をご覧ください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「イリノイ大学が提供しているOpenRefineの使い方ガイドです」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「データをクリーンアップする方法トップ10」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「誤ってデータを消したりしてしまわないためにセルをロックする（＝編集できなくする）方法を紹介しています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「データのフォーマット（形式）を統一したり、値を正規化したりするために、セルに入力規則を設定する方法を紹介しています」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「Excelを使用してデータを集計する方法を解説した動画です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「正規表現とは、「メタ文字」という特殊な文字を用いるなどの方法で、高度な文字列の検索や置換を行う仕組みのことです」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「のページにおいて、Googleドキュメントでの正規表現の使用方法や利用できるメタ文字などについて説明があります」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「正規表現の使い方などについては、以下の資料をご覧ください」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「書籍に沿って使い方を学ぶ場合に限り、無料版でも行えます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
+  - 「データクレンジングの基本と落とし穴｜対症療法から抜け出すデータ活用基盤の構築方法 | ワークフロー総研」（https://www.atled.jp/wfl/article/73568/）
+  - 「データクレンジングの基本から具体的な手順・方法・ツール、そして「クレンジングに追われる状態」から脱却するための根本対策」（https://www.atled.jp/wfl/article/73568/）
+  - 「データクレンジングの具体的な手順【5ステップ】」（https://www.atled.jp/wfl/article/73568/）
+  - 「経済産業省とIPA（独立行政法人情報処理推進機構）が2026年4月に改訂・公表した「デジタルスキル標準（DSS）」のバージョン2.0では、昨今のAXの進展やそれに伴うデータ活用の重要性などを鑑み、新たにデータマネジメント類型が設けられました」（https://www.atled.jp/wfl/article/73568/）
+  - 「データクレンジングの手順を学ぶ前に、まず」（https://www.atled.jp/wfl/article/73568/）
+  - 「Step1 データの現状把握・棚卸し」（https://www.atled.jp/wfl/article/73568/）
+  - 「Step2 クレンジングルールの設計」（https://www.atled.jp/wfl/article/73568/）
+  - 「Step3 重複・欠損・表記ゆれの修正」（https://www.atled.jp/wfl/article/73568/）
+  - 「Step2で設計したルールに従って統一します」（https://www.atled.jp/wfl/article/73568/）
+  - 「Step4 クレンジング結果の検証」（https://www.atled.jp/wfl/article/73568/）
+  - 「Step5 定期メンテナンス体制の構築」（https://www.atled.jp/wfl/article/73568/）
+  - 「データクレンジングの方法は大きく3つに分かれます」（https://www.atled.jp/wfl/article/73568/）
+  - 「「あの人しかやり方を知らない」という状態は、データ管理のリスクそのものです」（https://www.atled.jp/wfl/article/73568/）
+  - 「手順書を整備することである程度は対応できますが、ルールの解釈や判断の積み重ねは文書化しきれないことが多く、属人化の根本解決は簡単ではありません」（https://www.atled.jp/wfl/article/73568/）
+  - 「入力フォームの設計でデータ品質を担保する方法」（https://www.atled.jp/wfl/article/73568/）
 - 突き合わせ・推定：
+  - 「Step4 クレンジング結果の検証」（https://www.atled.jp/wfl/article/73568/）
+  - 「その後、ルールに沿って重複・欠損・表記ゆれを修正して結果を検証し、最後に定期的なメンテナンス体制を構築します」（https://www.atled.jp/wfl/article/73568/）
   - 「このような重複データを照合し、同一と判断して統合する処理が名寄せです」（https://www.cm-net.co.jp/blog/data-cleansing/）
   - 「検索・照合の精度を上げるための“土台作り”となる処理です」（https://www.cm-net.co.jp/blog/data-cleansing/）
   - 「氏名・住所・電話番号などを照合し、1つのデータに統合します」（https://www.cm-net.co.jp/blog/data-cleansing/）
@@ -4410,8 +4412,6 @@
   - 「社名や住所の正確さが求められる場合は法人番号公表サイトなどで照合しますが、公表されているのは登記上の商号と本店の所在地までのため、支店の住所は取引先に確認します」（https://www.nomura-system.co.jp/contents/data-crensing/）
   - 「あいまい一致が使えるのは2つの表を突き合わせるマージ操作のテキスト列に限られ、どこまでを同じとみなすかのしきい値は人が判断する」（https://www.nomura-system.co.jp/contents/data-crensing/）
   - 「画面をまたぐ定型的な転記や突き合わせの自動化」（https://www.nomura-system.co.jp/contents/data-crensing/）
-  - 「進め方は、利用目的の決定、現状の可視化、ルールの定義、実行と検証、再発を防ぐ運用への落とし込みという5つのステップです」（https://www.nomura-system.co.jp/contents/data-crensing/）
-  - 「AIは表記ゆれの検出、重複候補の抽出、ほかの項目や公開情報から推測できる範囲での欠損値の候補提示に活用でき、RPAは画面をまたぐ転記や突き合わせといった定型作業に向いています」（https://www.nomura-system.co.jp/contents/data-crensing/）
 - 一次情報の探し方：
   - 「統計表における機械判読可能なデータ作成に関する表記方法」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「以下の画像は、同じテキストをPDF（画像左）とプレーンテキスト（画像右）で表示した例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
@@ -4429,37 +4429,37 @@
   - 「一部のデータをサンプリングして目視で確認したり、クレンジング前後のデータの統計量を比較したりすることも有効です」（https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/）
   - 「欠損値が多いと、統計分析の結果が歪んだり、機械学習モデルが正しく学習できなかったりする原因となります」（https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/）
 - 失敗・落とし穴：
+  - 「データクレンジングの基本と落とし穴｜対症療法から抜け出すデータ活用基盤の構築方法 | ワークフロー総研」（https://www.atled.jp/wfl/article/73568/）
+  - 「データクレンジングとは、データベースやファイルに蓄積されたデータの誤り・重複・欠損・表記ゆれなどを検出・修正し、データ品質を整える作業」（https://www.atled.jp/wfl/article/73568/）
+  - 「ERPに登録された顧客マスタや商品マスタに誤りがあると、受発注・請求・在庫管理など業務全体に誤りが波及します」（https://www.atled.jp/wfl/article/73568/）
+  - 「人間が手でデータを入力する限り、一定の誤りは避けられません」（https://www.atled.jp/wfl/article/73568/）
+  - 「システムごとに顧客コードの体系が異なる、文字コードの違いで文字化けが起きる、システム移行時のデータ変換ルールの誤りなどが代表的な例です」（https://www.atled.jp/wfl/article/73568/）
+  - 「「修正したつもりが、別の誤りを生んでいた」というケースも起きやすいため、第三者によるレビューを挟むことが理想的です」（https://www.atled.jp/wfl/article/73568/）
+  - 「プルダウンや入力制限で新規入力時の誤りを防ぐ」（https://www.atled.jp/wfl/article/73568/）
+  - 「正しい入力形式を入力者に伝え、誤りを予防する」（https://www.atled.jp/wfl/article/73568/）
+  - 「A. データベース等に蓄積されたデータの誤りや重複、欠損、表記ゆれなどを検出・修正し、データ品質を整える作業のことです」（https://www.atled.jp/wfl/article/73568/）
+  - 「データ活用に不可欠な「データマネジメント」とは？よくある失敗と成功の秘訣」（https://www.atled.jp/wfl/article/73568/）
   - 「分析をはじめる前に、いくつかデータをピックアップしてチェックしたり、データを可視化したりして間違いを見つけることで、こうした二度手間を避けることができます」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「ツール使用時にテキストデータがサーバに送信されるため、個人情報を含むテキストで使用する場合には注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「なお、Excelでは1900年より前の日付を「文字列」として扱うため、注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「ただし、日本語では適切に動作しないことがあったり、固有名詞などはチェックできなかったりするため、注意が必要です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「ただ、Excelでは操作を誤りやすいため、変更の必要がないセルをロックしたり、既定値のあるデータには「データの入力規則」を適用したりするとよいでしょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
-  - 「そこで重要になるのが、データの誤りや重複、表記ゆれなどを修正し、信頼性の高い状態へと整える」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「９．データクレンジング実施時のポイント・注意点」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「データクレンジングとは、データベースに保存された情報の誤りや重複、表記ゆれ、欠損などの不備を修正し、データの正確性や一貫性を高める作業のことです」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「新しいシステムへデータを移行する際、既存データに誤りや不要な情報が含まれていると、その問題も新しい環境へと引き継がれてしまい、トラブルの原因となります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「データに誤りや重複、表記ゆれがある状態では、必要な情報を探すのに時間がかかり、分析や業務のたびに修正作業が発生します」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「しかし、古い情報や不正確なデータをもとに判断すると、戦略の方向性を見誤り、長期的な競争力を損なうリスクがあります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「ここでは、実施時に押さえておきたい重要なポイントと注意点を整理します」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「情シス代行とは？依頼できる業務内容・導入メリット・失敗しない選び方を徹底解説！」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「例えば、データ・クリーニングは、機械学習アルゴリズムのトレーニングの基となるデータセットを、正確で一貫性がありバイアスのない状態にするのに役立ちます」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
-  - 「このクリーンなデータの基盤がなければ、アルゴリズムは不正確で一貫性がなくバイアスのある予測を生成する可能性があり、意思決定の有効性と信頼性を低下させかねません」（https://www.ibm.com/jp-ja/think/topics/data-cleaning）
 - 実例：
+  - 「DXやAI導入を進めようとしても、「データが構造化されていない・汚い」という根本的な問題が足かせになるケースは少なくありません」（https://www.atled.jp/wfl/article/73568/）
+  - 「ワークフローシステムによるデータ活用基盤の設計事例」（https://www.atled.jp/wfl/article/73568/）
+  - 「郵便番号の「-」あり・なし、日付の「2024/01/01」と「2024-01-01」と「2024年1月1日」の混在なども、よく見られるケースです」（https://www.atled.jp/wfl/article/73568/）
+  - 「こうした不整合は発見が難しく、気づいたころにはデータが大量に汚染されているケースもあります」（https://www.atled.jp/wfl/article/73568/）
+  - 「「どの状態を正とするか」を決めなければ、担当者によって修正結果がバラバラになります」（https://www.atled.jp/wfl/article/73568/）
+  - 「Step4 クレンジング結果の検証」（https://www.atled.jp/wfl/article/73568/）
+  - 「件数の変化・サンプルチェック・集計結果の整合性確認などを行います」（https://www.atled.jp/wfl/article/73568/）
+  - 「「修正したつもりが、別の誤りを生んでいた」というケースも起きやすいため、第三者によるレビューを挟むことが理想的です」（https://www.atled.jp/wfl/article/73568/）
+  - 「ここでは、「AgileWorks」を活用してデータ基盤を設計した事例をご紹介します」（https://www.atled.jp/wfl/article/73568/）
+  - 「その後、ルールに沿って重複・欠損・表記ゆれを修正して結果を検証し、最後に定期的なメンテナンス体制を構築します」（https://www.atled.jp/wfl/article/73568/）
   - 「研究をする過程では、アンケート調査の回答、計測・観測結果など様々なデータを収集・生成することがあるかと思います」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「たとえば、アンケート調査を実施し、以下のような回答結果を分析する場合を考えてみましょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「ここでの事例はGoogleドキュメントに限らず、他のテキストエディタでもおおむね利用できる事例です」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「そのほか、正規表現の実例については、インターネット上でさまざまな紹介がされているので、調べてみましょう」（https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html）
   - 「情シス支援サービス「ION」（イオン） 事例紹介」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「といった問題に直面するケースも少なくありません」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「こうした不正確で整理されていないデータは、分析結果の精度を低下させるだけでなく、業務効率の悪化や誤った意思決定の原因にもなります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「今回は、データクレンジングの概要や目的、必要になるケース、具体的な手法や進め方について分かりやすく解説します」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「３．データクレンジングが必要になるケース」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「と呼ばれ、そのまま利用すると検索や集計が正しく行えなかったり、分析結果の精度にも影響が及び、誤った意思決定や業務効率の低下につながる可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「上記のような処理を通じてデータの品質が向上し、データ分析やマーケティング、営業活動などにおいて、より信頼性の高い結果を得られるようになります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「しかし実際には、誤入力や重複登録、表記ゆれ、情報の欠損などが含まれているケースも少なくありません」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「データ分析の結果は、元となるデータの品質に大きく左右されます」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「ダーティデータを含んだ状態のまま分析を行えば、得られる結果も不正確になり、誤った意思決定につながる可能性があります」（https://www.cm-net.co.jp/blog/data-cleansing/）
-  - 「ここでは、企業でよく見られる代表的なケースを紹介します」（https://www.cm-net.co.jp/blog/data-cleansing/）
 
 ## 1人あたり売上の規模別ベンチマーク（中央値と四分位・規模で山になる・帯だけでは弱い信号）（revenue per employee benchmark by company size median quartile）
 - 文脈：推定
@@ -6411,6 +6411,11 @@
   - 「：自社ロゴ入りPDFと証拠ZIPを添付し、依頼者と弁護士が独立に検証できる形で引き渡します」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
   - 「NTPで検証した時刻、DNSの解決結果、TLS情報、HTTPレスポンスヘッダ、WHOIS情報も併せて記録され、ISO/IEC 27037の考え方に沿った構成になっています」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
   - 「弁護士側は無料の検証ツールで独立に検証できるため、調査会社の信用に依存しない形で受け渡せます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「探偵の調査報告書とネット調査の証拠保全【2026年版】｜OSINTの記録を検証可能に｜ProofSnap」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「依頼者や弁護士は無料の検証ツールで確認できます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「オープンソースで検証可能（MITライセンス）」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「：社名入りPDF（EnterpriseとCompany）または証拠PDFに証拠ZIPを添えて、依頼者と弁護士が検証できる形で引き渡します」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「ZIPにはハッシュ値、署名付きマニフェスト、チェーン・オブ・カストディが含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
 - 一次情報の探し方：
   - 「探偵・調査会社向けOSINT証拠保全2026｜報告書に添える検証可能な記録と社名入りPDF｜ProofSnap」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
   - 「社名入りPDF · 複数タブのセッション記録 ·」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
@@ -6426,6 +6431,7 @@
   - 「Professional PDF Reports」（https://www.forensicosint.com/）
   - 「Digitally signed PDF outputs, with the time recorded by the Forensic OSINT system.」（https://www.forensicosint.com/）
   - 「You can generate professional, court-ready PDF reports that include:」（https://www.forensicosint.com/）
+  - 「複数タブのセッション記録 · EnterpriseとCompanyは社名入りPDF ·」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
 - 失敗・落とし穴：
   - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
@@ -6725,8 +6731,8 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
+- 実例：記載なし（読んだ26頁・検索12回）
