@@ -8,148 +8,8 @@
  ],
  "context": "統計の版",
  "kind": "market",
- "researched_at": "2026-11-06T04:31:09.780336+00:00",
+ "researched_at": "2026-11-06T07:54:06.504494+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "Topic 4 Revisions Analysis | Time Series Methods for Official Statistics",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Time Series Methods for Official Statistics",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "No. The measured economy in that quarter did not travel backward in time. The statistical representation changed because later information, improved seasonal adjustment, corrected source records or revised methods changed what could be estimated about that past state.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A major revision can incorporate new data sources, updated classifications, methodological changes, new estimation systems or changes in index weights.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "These changes can alter long stretches of a time series. That is often desirable. If the statistical framework changes, revising only the latest point would leave a break between old and new concepts.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In national accounts, a benchmark revision is a major regular revision that incorporates substantial source and methodological improvements.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "explains that benchmark revisions can incorporate new basic data sources and estimation methods and are coordinated across statistical domains.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "An index series may be rebased so a newer reference year equals 100. This changes the displayed level of every observation while often preserving relative movements, subject to the index construction method.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "When definitions or classifications change, statistical agencies may reconstruct earlier periods under the new framework so users have a longer comparable series.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This is often preferable to leaving an abrupt methodological break. But the backcast history is not identical to contemporaneous historical publication. It is a reconstructed series using later concepts and possibly later source information.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "At minimum, important statistical products should preserve reference period, release date, revision status, source and method notes, and—when needed—links to prior vintages.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For reproducible work, record the dataset identifier, access or extraction date, release vintage where available, transformation steps and any local copy used for the analysis.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A transparent policy explains which products are provisional, when routine revisions occur, what can trigger major revisions, how unexpected errors are corrected and where users can find methodological notes.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A single field called “updated” is too weak for a serious revision system. Readers need to know whether the data matured, the method changed or an error was repaired.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Eurostat documentation for national accounts describes routine revision windows and coordinated benchmark revisions that can generate long historical series under updated methods.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Still others come from methodological changes or benchmark updates.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In this euro area example, the efficient-release step selects",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
@@ -290,26 +150,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "実例": [
    {
     "quote": "(for example, a given month or quarter) a revision can be defined as",
@@ -415,6 +255,146 @@
    },
    {
     "quote": "A digest of R package and software review news, use cases, blog posts, and events, curated monthly. Subscribe to get it in your inbox, or check the",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Topic 4 Revisions Analysis | Time Series Methods for Official Statistics",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Time Series Methods for Official Statistics",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "No. The measured economy in that quarter did not travel backward in time. The statistical representation changed because later information, improved seasonal adjustment, corrected source records or revised methods changed what could be estimated about that past state.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A major revision can incorporate new data sources, updated classifications, methodological changes, new estimation systems or changes in index weights.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "These changes can alter long stretches of a time series. That is often desirable. If the statistical framework changes, revising only the latest point would leave a break between old and new concepts.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In national accounts, a benchmark revision is a major regular revision that incorporates substantial source and methodological improvements.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "explains that benchmark revisions can incorporate new basic data sources and estimation methods and are coordinated across statistical domains.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "An index series may be rebased so a newer reference year equals 100. This changes the displayed level of every observation while often preserving relative movements, subject to the index construction method.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "When definitions or classifications change, statistical agencies may reconstruct earlier periods under the new framework so users have a longer comparable series.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This is often preferable to leaving an abrupt methodological break. But the backcast history is not identical to contemporaneous historical publication. It is a reconstructed series using later concepts and possibly later source information.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "At minimum, important statistical products should preserve reference period, release date, revision status, source and method notes, and—when needed—links to prior vintages.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For reproducible work, record the dataset identifier, access or extraction date, release vintage where available, transformation steps and any local copy used for the analysis.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A transparent policy explains which products are provisional, when routine revisions occur, what can trigger major revisions, how unexpected errors are corrected and where users can find methodological notes.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A single field called “updated” is too weak for a serious revision system. Readers need to know whether the data matured, the method changed or an error was repaired.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Eurostat documentation for national accounts describes routine revision windows and coordinated benchmark revisions that can generate long historical series under updated methods.",
+    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Still others come from methodological changes or benchmark updates.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this euro area example, the efficient-release step selects",
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.",
     "url": "https://ropensci.org/blog/2026/04/13/reviser/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -661,11 +641,36 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
+   {
+    "url": "https://note.com/tokage_maru/n/n1ea70c394779",
+    "status": "ok",
+    "method": "http"
+   },
    {
     "url": "https://note.com/kamokita/n/n99626649661e",
     "status": "ok",
@@ -687,42 +692,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/planos/n/n7c51fb2ce44d",
+    "url": "https://note.com/shikaku_tokyo/n/n82288ea80aba",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tokage_maru/n/n1ea70c394779",
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000102.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
+   },
+   {
+    "url": "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2023/econome/20240118.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jss.gr.jp/wp-content/uploads/kouteki_toukei_report_main_2.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/001084301.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/arima_planning/n/n4b49d2baffeb",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -732,9 +717,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/data/nihon/index2-2.html",
+    "url": "https://www.sinfonica.or.jp/publish/irregular/sosho/sosho018.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/newmiti/mission/2022/pdf/1_15.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.mhlw.go.jp/wp/seisaku/jigyou/25sougou/dl/r07-02.pdf",
@@ -742,12 +737,17 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.mhlw.go.jp/wp/seisaku/jigyou/23sougou/dl/r0511-02.pdf",
+    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP173.pdf",
+    "url": "https://www.stat.go.jp/data/nihon/index2-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/ojjams/35/2/35_211/_pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -757,27 +757,22 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.crepe.e.u-tokyo.ac.jp/results/2020/CREPEDP87.pdf",
+    "url": "https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP173.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "url": "https://www.mhlw.go.jp/wp/seisaku/jigyou/23sougou/dl/r0511-02.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/understanding-revisions.html",
+    "url": "https://www.jss.gr.jp/wp-content/uploads/kouteki_toukei_report_main_2.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://packages.ropensci.org/articles/reviser/understanding-revisions.html",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
     "status": "ok",
     "method": "http"
    },
@@ -787,8 +782,23 @@
     "method": "http"
    },
    {
-    "url": "https://www.oecd.org/en/publications/undertaking-revisions-and-real-time-data-analysis-using-the-oecd-main-economic-indicators-original-release-data-and-revisions-database_146528313656.html",
-    "status": "http_403",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/understanding-revisions.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://packages.ropensci.org/articles/reviser/understanding-revisions.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assets.publishing.service.gov.uk/media/5a81ccabed915d74e34001ee/PHE_Revisions_and_Corrections_Policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -797,73 +807,76 @@
   {
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） site:note.com",
    "results": [
+    "https://note.com/tokage_maru/n/n1ea70c394779",
     "https://note.com/kamokita/n/n99626649661e",
     "https://note.com/kamokita/n/ne03790a166ec",
     "https://note.com/kamokita/n/n7c1539c12266",
     "https://note.com/kamokita/n/n3f24873e37f8",
-    "https://note.com/planos/n/n7c51fb2ce44d",
-    "https://note.com/tokage_maru/n/n1ea70c394779",
     "https://note.com/shikaku_tokyo/n/n82288ea80aba",
-    "https://note.com/limber_acacia925/n/n0524f090823b"
+    "https://note.com/planos/n/n7c51fb2ce44d"
    ]
   },
   {
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） note",
    "results": [
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000102.pdf",
+    "https://www2.econ.osaka-u.ac.jp/~tanizaki/class/2023/econome/20240118.pdf",
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "https://www.sinfonica.or.jp/publish/irregular/sosho/sosho018.html",
     "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en",
-    "https://www.jss.gr.jp/wp-content/uploads/kouteki_toukei_report_main_2.pdf",
-    "https://www.soumu.go.jp/main_content/001084301.pdf",
-    "https://note.com/arima_planning/n/n4b49d2baffeb",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
-    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-10.pdf"
+    "https://www.jstage.jst.go.jp/article/ojjams/35/2/35_211/_pdf",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-10.pdf",
+    "http://www.crepe.e.u-tokyo.ac.jp/results/2020/CREPEDP87.pdf",
+    "https://note.com/arima_planning/n/n4b49d2baffeb"
    ]
   },
   {
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） やり方",
    "results": [
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
-    "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en",
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
-    "https://www.stat.go.jp/data/nihon/index2-2.html",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://www.meti.go.jp/policy/newmiti/mission/2022/pdf/1_15.pdf",
     "https://www.mhlw.go.jp/wp/seisaku/jigyou/25sougou/dl/r07-02.pdf",
-    "https://www.mhlw.go.jp/wp/seisaku/jigyou/23sougou/dl/r0511-02.pdf"
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en",
+    "https://www.stat.go.jp/data/nihon/index2-2.html",
+    "https://www.jstage.jst.go.jp/article/ojjams/35/2/35_211/_pdf"
    ]
   },
   {
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） 事例",
    "results": [
     "https://www.stat.go.jp/data/nihon/index2-2.html",
-    "https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP173.pdf",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
-    "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en",
-    "https://www.soumu.go.jp/main_content/001084301.pdf",
-    "https://www.jss.gr.jp/wp-content/uploads/kouteki_toukei_report_main_2.pdf",
     "https://www.soumu.go.jp/main_content/000808714.pdf",
-    "http://www.crepe.e.u-tokyo.ac.jp/results/2020/CREPEDP87.pdf"
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
+    "https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP173.pdf",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
+    "https://www.mhlw.go.jp/wp/seisaku/jigyou/23sougou/dl/r0511-02.pdf",
+    "https://www.jss.gr.jp/wp-content/uploads/kouteki_toukei_report_main_2.pdf"
    ]
   },
   {
    "query": "official statistics revision analysis vintages real-time data revision triangle",
    "results": [
-    "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "https://cran.r-project.org/web/packages/reviser/vignettes/understanding-revisions.html",
-    "https://ropensci.org/blog/2026/04/13/reviser/",
-    "https://packages.ropensci.org/articles/reviser/understanding-revisions.html",
+    "https://rdrr.io/cran/reviser/f/inst/doc/understanding-revisions.Rmd",
     "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "https://www.oecd.org/en/publications/undertaking-revisions-and-real-time-data-analysis-using-the-oecd-main-economic-indicators-original-release-data-and-revisions-database_146528313656.html",
-    "https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/revisionstrianglesformonthlygdp/current"
+    "https://cran.r-project.org/web/packages/reviser/vignettes/understanding-revisions.html",
+    "https://packages.ropensci.org/articles/reviser/understanding-revisions.html",
+    "https://assets.publishing.service.gov.uk/media/5a81ccabed915d74e34001ee/PHE_Revisions_and_Corrections_Policy.pdf",
+    "https://ropensci.org/blog/2026/04/13/reviser/",
+    "https://packages.ropensci.org/reviser",
+    "https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/corrections-and-revisions-policy-for-official-statistics",
+    "https://assets.publishing.service.gov.uk/media/5d376ed540f0b604e8352cb1/Statement-on-Revision-Policy-updated-July-2019.pdf",
+    "https://www.researchgate.net/profile/Donatella-Tuzi/publication/329468853_Revision_Policy_and_Revision_Analysis_in_Short-term_Statistics_at_Istat_Recent_Developments_in_Standardization_and_Communication_Innovations/links/5c0a658e4585157ac1aefd0d/Revision-Policy-and-Revision-Analysis-in-Short-term-Statistics-at-Istat-Recent-Developments-in-Standardization-and-Communication-Innovations"
    ]
   },
   {
    "query": "site:note.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
    "results": [
+    "https://note.com/tokage_maru/n/n1ea70c394779",
     "https://note.com/kamokita/n/n99626649661e",
     "https://note.com/kamokita/n/ne03790a166ec",
     "https://note.com/kamokita/n/n7c1539c12266",
-    "https://note.com/tokage_maru/n/n1ea70c394779",
     "https://note.com/planos/n/n7c51fb2ce44d",
     "https://note.com/yomidaru_log/n/n5fca2d5baedb",
     "https://note.com/arima_planning/n/n4b49d2baffeb"
@@ -872,53 +885,64 @@
   {
    "query": "site:x.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
    "results": [
-    "https://jf.x.com/images/media-preview/2106168043399532897",
-    "https://jf.x.com/images/media-preview/2114698995163603299",
+    "https://jf.x.com/images/media-preview/2104823350136898001",
+    "https://jf.x.com/images/media-preview/2113183583518990519",
     "https://x.com/koumuinright2/status/2057692623268462895",
     "https://x.com/RvFDRutpR26jgO3/status/2083179279106621564",
     "https://x.com/Logics_of_Blue/status/2043199544788504990",
-    "https://x.com/nkinvestigation/status/2106889779531108419",
-    "https://x.com/nananairu7/status/2074096861515063569"
+    "https://x.com/MalwareBibleJP/status/2114562419280511378",
+    "https://x.com/Trader_Kengyo/status/1379658303760789504"
    ]
   },
   {
    "query": "site:linkedin.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
-   "results": []
+   "results": [
+    "https://jp.linkedin.com/pulse/evolution-thematic-analysis-methodologies-comparative-dr-muhammad-qzwxe?tl=ja",
+    "https://www.linkedin.com/posts/gagan-anand-328b8ba2_salesforce-salesforcedevelopers-salesforcewinter27-activity-7498169018109890560-V2uG",
+    "https://www.linkedin.com/jobs/archives-technician-jobs",
+    "https://jp.linkedin.com/posts/shinobu-matsuoka_2027年3月-また今回の新旧対比表に記載した改訂箇所等を組み込-activity-7477285422302191616-DBA_",
+    "https://cn.linkedin.com/pulse/exploring-delta-lakes-tables-unifying-data-management-hemant-kumar?tl=zh",
+    "https://jp.linkedin.com/pulse/spss-vs-r-choosing-right-tool-statistical-analysis-muhammad-faheem-mqhkf?tl=ja",
+    "https://jp.linkedin.com/posts/株式会社日経hr（nikkei-human-resources-inc-_大卒年収調査2026年度版-業界別編平均年収約1400万円で2年連続トップとなった-activity-7480093259050962944-DsJO"
+   ]
   },
   {
    "query": "site:facebook.com 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）",
    "results": [
     "https://www.facebook.com/MeijiU.LIBERTY.ACADEMY/posts/受講料無料シンフォニカ寄付講座公的統計の統計情報を実践的に利活用するための基礎から応用までを体系的に学びますオンライン対面各講座全5回19002030第一弾-人/1576289674434698/",
     "https://www.facebook.com/keidanren/posts/経団連タイムス1021発行公的統計の改善に向けた提言を公表httpswwwkeidanrenorjpjournaltimes20211021_05html/5245593462136163/",
-    "https://www.facebook.com/toukei.kentei/posts/東京図書株式会社より統計調査士に対応したテキストの改訂版が2024年4月に刊行されます改訂版では公的統計および統計調査に関する変更を反映し公的統計に関する記述を/928510505734997/",
-    "https://www.facebook.com/Japan.RIETI/posts/2320489804709531/",
-    "https://www.facebook.com/FPCHUH/posts/医療観察法統計資料が5年ぶりに改訂され2025年版が刊行されました主に医療観察法入院医療に関する資料となります最後の第5部医療観察法支援者研修動画ライブラリー研/1050122920956553/",
     "https://www.facebook.com/tabemonooishii/posts/これが解けなかったらiqは平均以下かもよ同僚が突然3つの三角形の問題を突きつけてきた1つ目の三角形には2282つ目には5550そして最後の三角形には66さあに入/1117686964241019/",
-    "https://www.facebook.com/kanagawa.tokei.ch/posts/ランキングかながわ地域編統計指標でみる神奈川改訂第４版を作成しましたさまざまな分野の統計指標をもとに県内市町村の順位をまとめた-ランキングかながわ地域編統計指標/981522217343371/"
+    "https://www.facebook.com/kyobun/posts/おすすめ記事高校の教科書検定結果公表-平均ページ数は旧課程改訂時の1割増-文部科学省は3月25日2024年度に行われた高校低学年向けを中心とした教科書の検定結果/1225178539609430/",
+    "https://www.facebook.com/kanagawa.tokei.ch/posts/ランキングかながわ地域編統計指標でみる神奈川改訂第４版を作成しましたさまざまな分野の統計指標をもとに県内市町村の順位をまとめた-ランキングかながわ地域編統計指標/981522217343371/",
+    "https://www.facebook.com/koutekihokenadviser/posts/1026096222887803/",
+    "https://www.facebook.com/mextjapan/posts/学習指導要領の改訂に関する議論学校では学習指導要領をもとに学習の目標や内容を定めています現在約10年に一度行われる学習指導要領の改訂に向けた審議が進んでいますこ/1279969417499536/",
+    "https://www.facebook.com/toukei.kentei/posts/東京図書株式会社より統計調査士に対応したテキストの改訂版が2024年4月に刊行されます改訂版では公的統計および統計調査に関する変更を反映し公的統計に関する記述を/928510505734997/",
+    "https://www.facebook.com/FPCHUH/posts/医療観察法統計資料が5年ぶりに改訂され2025年版が刊行されました主に医療観察法入院医療に関する資料となります最後の第5部医療観察法支援者研修動画ライブラリー研/1050122920956553/",
+    "https://www.facebook.com/Japan.RIETI/posts/2320489804709531/"
    ]
   },
   {
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） note 社長",
    "results": [
+    "https://www.stat.go.jp/data/nihon/index2-2.html",
     "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
+    "http://www.crepe.e.u-tokyo.ac.jp/results/2020/CREPEDP87.pdf",
+    "https://katosei.jsbba.or.jp/view_html.php?aid=1196",
     "https://www.mhlw.go.jp/wp/seisaku/jigyou/25sougou/dl/r07-02.pdf",
     "https://www.keidanren.or.jp/journal/times/2026/0806_07.html",
-    "http://www.crepe.e.u-tokyo.ac.jp/results/2020/CREPEDP87.pdf",
-    "https://www.stat.go.jp/data/nihon/index2-2.html",
-    "https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP173.pdf",
-    "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en"
+    "https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP173.pdf"
    ]
   },
   {
    "query": "公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定） X 投稿",
    "results": [
-    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
-    "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en",
     "https://www.mhlw.go.jp/wp/seisaku/jigyou/25sougou/dl/r07-02.pdf",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2025/06/pdf/014-024.pdf",
+    "https://www.meti.go.jp/policy/newmiti/mission/2022/pdf/1_15.pdf",
+    "https://www.soumu.go.jp/main_content/001083073.pdf",
     "https://www.jstage.jst.go.jp/article/ojjams/35/2/35_211/_pdf",
-    "https://www.keidanren.or.jp/journal/times/2026/0806_07.html",
     "https://www.mhlw.go.jp/wp/seisaku/jigyou/23sougou/dl/r0511-02.pdf",
-    "https://www.sangiin.go.jp/japanese/annai/chousa/rippou_chousa/backnumber/2018pdf/20180801003.pdf"
+    "https://www.jstage.jst.go.jp/article/ojjams/32/2/32_321/_pdf/-char/en"
    ]
   },
   {
@@ -935,444 +959,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "Topic 4 Revisions Analysis | Time Series Methods for Official Statistics",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Time Series Methods for Official Statistics",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The introduction of new methods and concepts: e.g. improvements in the estimation methods, changes in classifications, introduction of new definitions;",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Eurostat (2014), “Memobust Handbook on Methodology of Modern Business Statistics”.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "No. The measured economy in that quarter did not travel backward in time. The statistical representation changed because later information, improved seasonal adjustment, corrected source records or revised methods changed what could be estimated about that past state.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A major revision can incorporate new data sources, updated classifications, methodological changes, new estimation systems or changes in index weights.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Eurostat notes that major revisions may follow infrequent sources such as censuses or input-output tables, updated base-year weights, new international standards or substantial methodology improvements.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "These changes can alter long stretches of a time series. That is often desirable. If the statistical framework changes, revising only the latest point would leave a break between old and new concepts.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In national accounts, a benchmark revision is a major regular revision that incorporates substantial source and methodological improvements.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "explains that benchmark revisions can incorporate new basic data sources and estimation methods and are coordinated across statistical domains.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "An index series may be rebased so a newer reference year equals 100. This changes the displayed level of every observation while often preserving relative movements, subject to the index construction method.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "When definitions or classifications change, statistical agencies may reconstruct earlier periods under the new framework so users have a longer comparable series.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This is often preferable to leaving an abrupt methodological break. But the backcast history is not identical to contemporaneous historical publication. It is a reconstructed series using later concepts and possibly later source information.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "At minimum, important statistical products should preserve reference period, release date, revision status, source and method notes, and—when needed—links to prior vintages.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For reproducible work, record the dataset identifier, access or extraction date, release vintage where available, transformation steps and any local copy used for the analysis.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A transparent policy explains which products are provisional, when routine revisions occur, what can trigger major revisions, how unexpected errors are corrected and where users can find methodological notes.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A single field called “updated” is too weak for a serious revision system. Readers need to know whether the data matured, the method changed or an error was repaired.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Eurostat documentation for national accounts describes routine revision windows and coordinated benchmark revisions that can generate long historical series under updated methods.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Some revisions correct mistakes. Many do not.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias in revisions can reveal a systematic early-estimate problem",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A fictional worked example of revision bias",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "scale changes are mistaken for economic change.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "(for example, a given month or quarter) a revision can be defined as",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". The numerical examples below are illustrative, not claims about current economic data.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A fictional worked example of revision bias",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A second worked example: sign reversal",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Eurostat revision-policy, vintage and national-accounts materials were checked for this edition on 5 September 2026. Numerical examples are original and hypothetical.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Choose a familiar Primary Science example. Explain the evidence, the idea and the result without notes. Then change one condition and explain your prediction.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "is a a preliminary (or earlier) estimate and",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "was estimated. The real-time dataset is constructed as follows.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "is the preliminary estimate of the indicator relative to time",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Correlation between revision and earlier estimate (test if revisions are “noise”).",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Correlation between revision and earlier estimate (test if revisions are “news”).",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "are the standard deviations of the latest and preliminary estimates, respectively, and",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "No. The measured economy in that quarter did not travel backward in time. The statistical representation changed because later information, improved seasonal adjustment, corrected source records or revised methods changed what could be estimated about that past state.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Statistical revision is the controlled replacement of an earlier published estimate with a later estimate when better, more complete or corrected information becomes available.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A data vintage preserves what a series looked like at a particular release date. Benchmark revisions make larger, planned changes to sources, methods, classifications or base structures. Together, these mechanisms let official statistics improve without pretending that every earlier estimate never existed.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "An early estimate may rely on partial survey responses, preliminary administrative records or short-run indicators. Later releases can incorporate more complete source data. The earlier estimate may have been the best defensible estimate available at its publication date.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The important question is therefore not “Was the old number wrong?” but “Why did the estimate change, what information changed, and which vintage is appropriate for the present analysis?”",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Routine revisions are expected updates in the normal production cycle. Additional questionnaires arrive. Administrative records become more complete. Monthly information is reconciled with quarterly data. Quarterly estimates are aligned with stronger annual totals.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Consider a fictional quarterly indicator. The first release estimates 100 units from 70% of expected source records. The second release receives most of the missing records and becomes 103. An annual benchmark later supplies a more complete source and the quarter becomes 102.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Those releases are three evidence states about the same reference period. A trustworthy system preserves both the latest estimate and enough provenance to understand the path.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Early statistics can be highly valuable because decisions cannot always wait for complete information. Policymakers, businesses, researchers and households may need an estimate now.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The publication system should distinguish an unscheduled correction from a routine update. Users need to know whether the statistical estimate matured as expected or whether a defect was repaired.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "when a particular estimate of that reference period was released.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Many statistical databases display the latest estimate only. When a number is revised, the new value replaces the old one.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "That is appropriate for users who want the best current estimate. It is insufficient for users asking what information was available to a policymaker, forecaster or researcher at an earlier date.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A revision triangle arranges estimates by reference period and release vintage. Each row can represent a quarter; each column can represent how many releases have occurred since the first estimate.",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias in revisions can reveal a systematic early-estimate problem",
-    "url": "https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ]
- },
- "runs": 2,
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-05T22:24:39.527283+00:00"
 }

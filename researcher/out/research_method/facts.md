@@ -2941,6 +2941,7 @@
   - 「公的記録は強力な裏取り手段だが、設計上の限界がある」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「公的記録を使えば、ネット上に流通している企業情報の多くは、第三者が独立に裏取りできる」（https://shiraberu-note.com/public-records-corporate-verification/）
 - 一次情報の探し方：
+  - 「Missouri LLCs file once and never again: no annual report, no recurring fee. What that means for the Secretary of State search, and why some services still sell a filing that doesn't exist.」（https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/）
   - 「公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「その作業の中で、商業登記や裁判記録の取り寄せは定型業務だった」（https://shiraberu-note.com/public-records-corporate-verification/）
@@ -2955,7 +2956,6 @@
   - 「公的記録とは、法令に基づいて国や公的機関が作成・保有・公示する記録のことだ」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「商業登記・裁判記録・官報がその代表で、ネット上の主張を一次情報で裏取りする際の中核になる」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「制度の枠組みとしては、公文書管理法が公的文書の作成・整理・保存の統一ルールを定め、情報公開法が行政機関の保有する文書に対する開示請求制度を定めている」（https://shiraberu-note.com/public-records-corporate-verification/）
-  - 「商業登記、裁判記録、官報、国税庁の法人番号公表サイトがそれにあたる」（https://shiraberu-note.com/public-records-corporate-verification/）
 - 失敗・落とし穴：
   - 「検索を使うときの最大の注意点は、収録範囲だ」（https://shiraberu-note.com/public-records-corporate-verification/）
   - 「注意点として、2025年3月15日にサービスの提供内容が変更されており、旧A・B・Cコース（日付検索のみ1,672円、日付＋記事検索2,200円など）は同年3月31日に終了している」（https://shiraberu-note.com/public-records-corporate-verification/）
@@ -3370,6 +3370,7 @@
   - 「会社規模別の費用シミュレーションと節約3つの方法を比較表で紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「一般社団法人との義務範囲・罰則(100万円/50万円)・閲覧方法の違いを比較表で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「司法書士会への非司行為(にせ司法書士)取締要請書（ひな型）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「新人司法書士が必ず陥る「誤字脱字などのケアレスミス地獄」からの脱出方法」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「所在と家屋番号が一致しない建物の発生原因と対処方法」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3379,7 +3380,6 @@
   - 「貸金庫があるときの相続手続（相続した貸金庫の開扉方法）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「遺産分割協議成立後、相続人の漏れに気付いた場合の対応方法［グループ会員限定］」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「遺贈の放棄｜遺言で受けた贈与（遺贈）を放棄する方法は、遺言の書き方によって異なります」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「遺言書を探す方法（公正証書遺言、法務局保管自筆証書遺言の探索）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 突き合わせ・推定：
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3415,6 +3415,8 @@
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「相続クイズ５０問（間違いだらけのネット情報）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3425,9 +3427,9 @@
   - 「【インサイダー取引規制】上場株式を売買する場合のほか、上場企業から受注する場合にも要注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「セミナー参加者の募集をウェブ上で行なうときの注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「自己株式取得（総株主から買取）の手続と注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「自己株式取得（特定株主から買取）の手続と注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
+  - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（前編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（後編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「スポットでも使える「補助＋代理権付与」【事例紹介】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3441,8 +3443,6 @@
   - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「実務上、直ちに科されるケースは多くありませんが、義務であることに変わりはなく、金融機関や取引先からの信用にも関わります」（https://kanpou.ai/guide/kessan-kokoku）
-  - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
 
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
@@ -4973,38 +4973,39 @@
 ## 統計の利用者から見た政府統計の問題点（自己評価式・低回収率・委託先の変更による継続性・加工統計の再現性）を書いた報告書（official statistics user problems low response rate contractor change continuity reproducibility report）
 - 文脈：統計
 - 手順・やり方：
-  - 「その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調」（https://nira.or.jp/paper/report0810.pdf）
-  - 「また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部」（https://nira.or.jp/paper/report0810.pdf）
-  - 「また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で」（https://nira.or.jp/paper/report0810.pdf）
-  - 「つまり、日本では、中央レベルでは分散型の統計機構」（https://nira.or.jp/paper/report0810.pdf）
-  - 「集中型機構ともいえる＊2」（https://nira.or.jp/paper/report0810.pdf）
-  - 「一性を図るため、調査方法、分類基準、定義などについての調査を実施している」（https://nira.or.jp/paper/report0810.pdf）
-  - 「②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙」（https://nira.or.jp/paper/report0810.pdf）
-  - 「がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた」（https://nira.or.jp/paper/report0810.pdf）
-  - 「JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、」（https://nira.or.jp/paper/report0810.pdf）
-  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/paper/report0810.pdf）
-  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/paper/report0810.pdf）
-  - 「データベースは、共通の計測方法の下での国際比較が可能となっている」（https://nira.or.jp/paper/report0810.pdf）
-  - 「方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる」（https://nira.or.jp/paper/report0810.pdf）
-  - 「しているが、各物価指数が共通の方法で計測されているわけではない」（https://nira.or.jp/paper/report0810.pdf）
-  - 「常に有機的な活用方法を想定して統計を整備しているかどうか、という点である」（https://nira.or.jp/paper/report0810.pdf）
+  - 「methodologists, and recent hires with up-to-date skills. These」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「novation and have been introducing data science methods,」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Recommendation 1—Staffing: As a first step toward restor-」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「modernized data collection methods, and improved accessi-」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「system-wide portfolio review framework. Agencies should」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「use the framework to regularly assess, modernize, add to, and」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Congress should take steps to strengthen this trust. Congress」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「data sources and methods in Supporting Materials: G.」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「the Covid-19 pandemic and the October 1–November 12, 2025, government shutdown, and harnessing new methods and」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「the current administration has taken numerous steps that have weakened federal statistical agencies. Some of these actions have」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「In this section, we step back to consider the broader ramifications of the developments discussed in subsections 2.1 and 2.2.」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「innovation and improved data collection technologies and methods from the private sector to agency staff. They were a voice」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Comparisons. ” “Number of uses” should be viewed as illustrative. For further explanation, detailed methodology, and」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「methods and technology while minimizing costs and respondent burden.」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「2. Supportive policy and procedural frameworks. Agencies need clear, streamlined processes for data acquisition, IT mod-」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
 - 突き合わせ・推定：
-  - 「推計期間 1970、1973-2003年 1960-1995年」（https://nira.or.jp/paper/report0810.pdf）
-  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/paper/report0810.pdf）
-  - 「推計期間 1970-2002年 1960-1992年」（https://nira.or.jp/paper/report0810.pdf）
-  - 「推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金」（https://nira.or.jp/paper/report0810.pdf）
-  - 「推計期間 1970-2002年 1955-92年」（https://nira.or.jp/paper/report0810.pdf）
-  - 「『昭和45年国富調査』より推計」（https://nira.or.jp/paper/report0810.pdf）
-  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/paper/report0810.pdf）
-  - 「在まで 2つのヴァージョンがあり、データベースの延長推計を行っている」（https://nira.or.jp/paper/report0810.pdf）
-  - 「情報サービス産業の動向や受注ソフトウエア投資の推計は、」（https://nira.or.jp/paper/report0810.pdf）
-  - 「（1） 2002年推計見直しから積み残された“宿題”」（https://nira.or.jp/paper/report0810.pdf）
-  - 「GDP速報は2002年 8月に推計方法の抜本的な見直しを行った」（https://nira.or.jp/paper/report0810.pdf）
-  - 「い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP」（https://nira.or.jp/paper/report0810.pdf）
-  - 「ているため、推計方法の見直しは確報との整合性も高めると考えられた」（https://nira.or.jp/paper/report0810.pdf）
-  - 「現行推計では、供給」（https://nira.or.jp/paper/report0810.pdf）
-  - 「側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった」（https://nira.or.jp/paper/report0810.pdf）
+  - 「estimated percentage of U.S. adults who tend to trust federal」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Branch in the underlying data or published estimates. Moreover, the federal statistical agencies are focused on con-」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「*The estimated percentage losses of staff for FY25 are from media reports, former staff with direct knowledge, or agency」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「TABLE 2.1. Staffing Levels: FY24 Actual; FY25 Estimated* Change from FY24 (%),」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「es for other ORES programs, was reduced to an estimated $29 million from its FY24 level of $44.6 million. ORES was also」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「EIA, ERS, and NASS suffered from significant loss of staff. An early spring news report estimated that EIA would lose up to」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Materials: I (EIA). ERS and NASS have seen an estimated staff loss of 25–35%. NASS has cut two surveys and the state- and」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「10 Sample size reductions increase the uncertainty of estimates and may prevent publication of previously available detail. Decreases in」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Example: BEA’s estimates of Personal Income (PI), which represent about 74% of Gross Domestic Income/Gross Domestic」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Product, provide another example of the interdependencies among federal statistical agencies’ programs. PI estimates are a prin-」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Figure 2.3 visualizes the dependence of PI estimates on a wide variety of data sources.」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「As the figure illustrates, BEA’s PI estimates rely on 17 datasets from 5 federal statistical agencies: BLS, the Census Bureau,」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Medicare and Medicaid expenditures). Finally, 6 datasets that feed into the estimates come from 5 nonfederal businesses and」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「organizations (e.g., AM Best provides group insurance premiums and property insurance data that feed into the estimates for」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Annual Personal Income Estimates (number of uses/unique products)」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
 - 一次情報の探し方：
+  - 「Morris Hansen Lecture, September 26, 2024. 2024Citro_paper.pdf. BLS and BEA have also estimated consumer unit distributions of personal」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
   - 「戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている」（https://nira.or.jp/paper/report0810.pdf）
   - 「現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する」（https://nira.or.jp/paper/report0810.pdf）
   - 「こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ」（https://nira.or.jp/paper/report0810.pdf）
@@ -5019,28 +5020,30 @@
   - 「(2) 統計制度見直しの経緯」（https://nira.or.jp/paper/report0810.pdf）
   - 「今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川」（https://nira.or.jp/paper/report0810.pdf）
   - 「洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮」（https://nira.or.jp/paper/report0810.pdf）
-  - 「は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計」（https://nira.or.jp/paper/report0810.pdf）
 - 失敗・落とし穴：
+  - 「Since January 2025, the administration has made unsubstantiated claims of biased data, baselessly criticized statistical agency」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「response rates reduce the effective sample size and thereby have the same impacts as sample cuts and, in addition, may introduce bias.」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「data and nonresponse bias, and improved modeling of earnings」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
   - 「価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま」（https://nira.or.jp/paper/report0810.pdf）
   - 「で、時系列的に連続させるには注意が必要である」（https://nira.or.jp/paper/report0810.pdf）
   - 「これら低回収率がもたらすバイアスならびにその補正については」（https://nira.or.jp/paper/report0810.pdf）
   - 「correcting for unit nonresponse bias in surveys," Journal of Econometrics, vol. 136(1), pages」（https://nira.or.jp/paper/report0810.pdf）
 - 実例：
-  - 「や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使」（https://nira.or.jp/paper/report0810.pdf）
-  - 「より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析」（https://nira.or.jp/paper/report0810.pdf）
-  - 「我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、」（https://nira.or.jp/paper/report0810.pdf）
-  - 「調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず」（https://nira.or.jp/paper/report0810.pdf）
-  - 「一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企」（https://nira.or.jp/paper/report0810.pdf）
-  - 「は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か」（https://nira.or.jp/paper/report0810.pdf）
-  - 「＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）」（https://nira.or.jp/paper/report0810.pdf）
-  - 「アンケートの結果から日本の統計の問題点が浮き彫りになった」（https://nira.or.jp/paper/report0810.pdf）
-  - 「図表 1 景気動向指標としての統計調査の評価結果」（https://nira.or.jp/paper/report0810.pdf）
-  - 「図表 2 構造把握指標としての統計調査の評価結果」（https://nira.or.jp/paper/report0810.pdf）
-  - 「例えば米国商務省の Bureau of Labor Statisticsでは、労働生」（https://nira.or.jp/paper/report0810.pdf）
-  - 「ただこうした研究でも、企業行動が市場構造に影響されるケース」（https://nira.or.jp/paper/report0810.pdf）
-  - 「複数の異業種をかかえる事例が増える可能性がある」（https://nira.or.jp/paper/report0810.pdf）
-  - 「社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』」（https://nira.or.jp/paper/report0810.pdf）
-  - 「な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２」（https://nira.or.jp/paper/report0810.pdf）
+  - 「Funded by the Alfred P . Sloan Foundation, Annie E. Casey Foundation, California Community Foundation, and」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Annie E. Casey Foundation, California Community Foundation, and the」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「diminished safeguards for statistical integrity. In several cases,」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「The National Center for Health Statistics, for example, has」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「in the case of federal statistical agencies, as providers of a」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「public trust in government, and growing disinclination to answer surveys in any case, continue to hamper effective collection」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「changing nation. (See Section 2.3.3 for examples of interdependencies and Section 4 for a discussion of innovation challenges」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「In most cases, the setbacks in funding and support we document are the result of government-wide efforts to reduce staff, bud-」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「mandates have increased. Most of the agencies have also lost 20–30% of their staff, 95% in the case of the National」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「cases involving controlled access to restricted federal data. (See Section 4 for further discussion of the White House AI action」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「information still missing in Table 2.2, are two examples.」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「8 See, e.g., What Happens When Politicians Meddle With Economic Data: Argentina’s Example - WSJ; Trump Fired America’s Economic Data」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「individually or, in the case of the Federal Economic Statistics Advisory Committee, collectively.」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「For example, when the new administration dismissed many recently hired federal employees, the Internal Revenue Service’s」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
+  - 「Agencies often use external data streams to produce their own data products and reports. T wo examples are discussed below for」（https://www.amstat.org/docs/default-source/amstat-documents/the-nations-data-at-risk-2025/The-Nations-Data-at-Risk-2025-Report.pdf）
 
 ## 市場規模の資料が食い違うときの照合（商品の範囲・地域・売上か出荷額か・実績か予測か）（reconciling conflicting market size estimates scope geography revenue shipments forecast）
 - 文脈：突き合わせ
@@ -6050,6 +6053,7 @@
   - 「goal-maximizing policy is overestimated.」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.」（https://themindcollection.com/structured-analytic-techniques/）
+  - 「Strategic estimates; long-horizon planning」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
 - 一次情報の探し方：
   - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
@@ -6445,11 +6449,11 @@
 
 ## 競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり）（competitor revenue filed stated estimated two methods disagree factor of two customer count）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）（revision triangle real-time dataset noise versus news test mean revision t-test Eurostat）
 - 文脈：手順・やり方

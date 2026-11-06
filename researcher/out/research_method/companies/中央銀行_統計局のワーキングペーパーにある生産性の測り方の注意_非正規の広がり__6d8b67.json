@@ -8,192 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-06T04:27:35.000948+00:00",
+ "researched_at": "2026-11-06T07:50:36.104215+00:00",
  "evidence": {
-  "一次情報の探し方": [
-   {
-    "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、 法人企業統計ベースの労働生",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人企業統計における臨時従業員数は、 臨時従業員の総労働時間",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "キーワード：生産性、無形資産、利用効率、再配分、 新型コロナウイルス感染症",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新型コロナウイルス感染症の世界的な感染拡大を受けて、経済成長のさらなる",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "について、いくつかの方法で計測し、 事実確認を行う",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年 10 月、 「谷」 が2020 年 5 月とされているが、 新型コロナウイルス感染症の拡大による影響が",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次に、こうした感染症拡大前の議論を前提としたうえで、新型コロナウイルス",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして、 第4 節では、新型コロナウイルス感染症拡大下に",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "率を確認しても低成長が続いており、2012 年 10-12 月期から新型コロナウイル",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "の成長率は 1％台前半、2012 年 10-12 月期から新型コロナウイルス感染症拡大",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生産要素として資本と労働を考慮したコブ・ダグラス型の生産関数を想定する",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次に、企業間の資源再配分について、 Melitz and Polanec (2015) の方法",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "４．新型コロナウイルス感染症拡大下における経済成長・労働生産性",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "わが国の経済成長と労働生産性は、新型コロナウイルス感染症拡大下におい",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "力は、 飲食や宿泊といった対面型サービス業に集中する傾向を強めており、この",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "他方で、 上述の対面型サービス業の落ち",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "ただし、残された誤りは筆者らに帰する",
@@ -306,6 +122,98 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "手順・やり方": [
+   {
+    "quote": "型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "キーワード：生産性、無形資産、利用効率、再配分、 新型コロナウイルス感染症",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新型コロナウイルス感染症の世界的な感染拡大を受けて、経済成長のさらなる",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "について、いくつかの方法で計測し、 事実確認を行う",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年 10 月、 「谷」 が2020 年 5 月とされているが、 新型コロナウイルス感染症の拡大による影響が",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次に、こうした感染症拡大前の議論を前提としたうえで、新型コロナウイルス",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、 第4 節では、新型コロナウイルス感染症拡大下に",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "率を確認しても低成長が続いており、2012 年 10-12 月期から新型コロナウイル",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "の成長率は 1％台前半、2012 年 10-12 月期から新型コロナウイルス感染症拡大",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生産要素として資本と労働を考慮したコブ・ダグラス型の生産関数を想定する",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次に、企業間の資源再配分について、 Melitz and Polanec (2015) の方法",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "４．新型コロナウイルス感染症拡大下における経済成長・労働生産性",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "わが国の経済成長と労働生産性は、新型コロナウイルス感染症拡大下におい",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "力は、 飲食や宿泊といった対面型サービス業に集中する傾向を強めており、この",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "他方で、 上述の対面型サービス業の落ち",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証",
@@ -397,6 +305,98 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、 法人企業統計ベースの労働生",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法人企業統計における臨時従業員数は、 臨時従業員の総労働時間",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -428,7 +428,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/serene_chives592/n/n1d7d276f777e",
+    "url": "https://note.com/kens_reading1/n/n09f86965e019",
     "status": "ok",
     "method": "http"
    },
@@ -443,17 +443,12 @@
     "method": "http"
    },
    {
-    "url": "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "url": "https://lab.ludashi.com/evaluation/article/54",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "url": "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
     "status": "ok",
     "method": "http"
    },
@@ -463,9 +458,19 @@
     "method": "http"
    },
    {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://jsite.mhlw.go.jp/yamagata-roudoukyoku/seisansei_keisanhouhou.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://rmc-oden.com/blog/archives/140347",
@@ -486,11 +491,6 @@
     "url": "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://release.nikkei.co.jp/attach_file/0536598_03.pdf",
-    "status": "robots_disallowed",
-    "method": ""
    },
    {
     "url": "https://da.lib.kobe-u.ac.jp/da/kernel/E0042420/E0042420.pdf",
@@ -563,9 +563,9 @@
     "https://note.com/lyco_pene/n/n7241631b660c",
     "https://note.com/kens_reading1/n/n17626df2cb9d",
     "https://note.com/kanemonfin/n/n769910385371",
+    "https://note.com/kens_reading1/n/n09f86965e019",
     "https://note.com/serene_chives592/n/n1d7d276f777e",
     "https://note.com/chic_deer1160/n/n6c90181b6a4f",
-    "https://note.com/kens_reading1/n/n09f86965e019",
     "https://note.com/ogawa_tech/n/nac3afbb88c71"
    ]
   },
@@ -574,14 +574,14 @@
    "results": [
     "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
+    "https://lab.ludashi.com/evaluation/article/54",
     "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
     "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
-    "https://www.boj.or.jp/research/wps_rev/"
+    "https://www.boj.or.jp/research/wps_rev/index.htm"
    ]
   },
   {
@@ -625,7 +625,8 @@
     "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
     "https://www.aeaweb.org/conference/2016/retrieve.php?pdfid=21384&tk=5Yh2FaT5",
     "https://conference.nber.org/confer/2015/SI2015/PRCR/Bai_Carvalho_Phillips.pdf",
-    "https://www.conference-board.org/pdf_free/workingPapers/E-0024-07-WP.pdf"
+    "https://www.conference-board.org/pdf_free/workingPapers/E-0024-07-WP.pdf",
+    "https://www.nber.org/papers"
    ]
   },
   {
@@ -634,23 +635,25 @@
     "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
     "https://note.com/kens_reading1/n/n17626df2cb9d",
     "https://note.com/lyco_pene/n/n7241631b660c",
-    "https://note.com/ogawa_tech/n/nac3afbb88c71",
     "https://note.com/kens_reading1/n/n09f86965e019",
-    "https://note.com/serene_chives592/n/n1d7d276f777e",
+    "https://note.com/ogawa_tech/n/nac3afbb88c71",
     "https://note.com/kanemonfin/n/n769910385371",
-    "https://note.com/chic_deer1160/n/n6c90181b6a4f"
+    "https://note.com/serene_chives592/n/n1d7d276f777e",
+    "https://note.com/chic_deer1160/n/n6c90181b6a4f",
+    "https://note.com/andyfp_2025/n/nb4b88cb89453",
+    "https://note.com/ttmhrmt/n/nc96a7a5fbf6f"
    ]
   },
   {
    "query": "site:x.com 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）",
    "results": [
     "https://jf.x.com/images/media-preview/2107040014349881640",
-    "https://jf.x.com/images/media-preview/2092041057940705458",
-    "https://x.com/fedboj/status/2071925040459989033",
+    "https://jf.x.com/images/media-preview/2095180828372320712",
     "https://x.com/Masa_Aug2020/status/2020292637891477991",
     "https://x.com/gpiftweets/status/2097814809274446208",
+    "https://x.com/aoi_kujaku/status/2076258405665366182",
     "https://x.com/kenbiolab/status/2096089655880114186",
-    "https://x.com/aoi_kujaku/status/2076258405665366182"
+    "https://x.com/gpiftweets/status/2052273085576003724"
    ]
   },
   {
@@ -658,11 +661,11 @@
    "results": [
     "https://jp.linkedin.com/in/nshiraki",
     "https://jp.linkedin.com/pulse/productivity-paradox-ai-age-luca-collina-mba-asrte?tl=ja",
-    "https://jp.linkedin.com/pulse/サーキュラーエコノミーceの費用対効果を見える化するce付加価値生産性指標cvpに関するディスカッションペーパー-7342490674727931904-xxlac",
     "https://www.linkedin.com/pulse/データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践する前に知っておくべき統計的思考-鈴木-xjnbc/",
+    "https://jp.linkedin.com/pulse/サーキュラーエコノミーceの費用対効果を見える化するce付加価値生産性指標cvpに関するディスカッションペーパー-7342490674727931904-xxlac",
     "https://www.linkedin.com/posts/kzappmusi9_研究集会第22-回ノンパラメトリック統計解析とベイズ統計中央大学にて報告してきました-activity-6914134531230904320-GFJk",
     "https://in.linkedin.com/posts/otamakoto_デジタルスイスフランに関するホワイトペーパーデポジットトークンseymour-activity-7065837612963414016-yMuL",
-    "https://jp.linkedin.com/pulse/economic-impact-regulation-ai-key-takeaways-from-imf-alex-chandra-trhjf?tl=ja"
+    "https://jp.linkedin.com/posts/雄平-酒井-a877a822_デロイト人事制度報酬調査2025要員人件費の生産性に関するベンチマーク-activity-7354787057312915456--VUD"
    ]
   },
   {
@@ -672,10 +675,10 @@
     "https://www.facebook.com/stat.japan/",
     "https://www.facebook.com/stat.japan/posts/統計today-no146-平成はどのような時代だったか人口減少社会元年非正規雇用女性活躍デフレ統計todayは統計をめぐる新しい動きやメッセージをお届けするも/2169871449759007/",
     "https://www.facebook.com/workstyletech/posts/1718816675075683/",
-    "https://www.facebook.com/japan.marketing.academy/photos/ワーキングペーパーvol12-no4紹介大平進network-based-relationship-value-creation-and-its-effects/1416076347214474/",
     "https://www.facebook.com/japan.marketing.academy/posts/ワーキングペーパーvol13-no2紹介劉沛然日系小売チェーンの進出先市場における受容の経時的変化と標準化適応化行動の動態性-ユニクロと無印良品の中国市場進出と/1543740914448016/",
-    "https://www.facebook.com/UTokyo.IFI/posts/渡部俊也-東京大学未来ビジョン研究センター-教授アラタマシアン-ハーバード大学-コンプライアンスオフィサーによるワーキングペーパー国における学等の学術研究機関に/745810134008288/",
-    "https://www.facebook.com/JICARIJ/posts/ワーキングペーパーno212発刊マイクロファイナンス機関が非常に発達しているカンボジアとフィリピン20092015年の両国のマイクロファイナンス機関の経営特性と/1696942177128433/"
+    "https://www.facebook.com/JICARIJ/posts/ワーキングペーパーno212発刊マイクロファイナンス機関が非常に発達しているカンボジアとフィリピン20092015年の両国のマイクロファイナンス機関の経営特性と/1696942177128433/",
+    "https://www.facebook.com/japan.marketing.academy/photos/ワーキングペーパーvol12-no4紹介大平進network-based-relationship-value-creation-and-its-effects/1416076347214474/",
+    "https://www.facebook.com/SasakawaPeaceFoundation/posts/国際情報ネットワーク分析-iinaの論考をご紹介しますぜひご一読ください現実的な対中戦略構築事業-ワーキングペーパー-vol8日米輸出管理の課題対中安全保障貿易/7146394585435529/"
    ]
   },
   {
@@ -690,7 +693,7 @@
     "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
     "https://recog.works/ja/news/detail/584",
     "https://lab.jinjib.co.jp/archives/category/personnelcolumn/page/3?postID=2708",
-    "https://www.boj.or.jp/research/wps_rev/"
+    "https://www.boj.or.jp/research/wps_rev/index.htm"
    ]
   },
   {
@@ -726,6 +729,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-05T17:51:10.008965+00:00"
 }

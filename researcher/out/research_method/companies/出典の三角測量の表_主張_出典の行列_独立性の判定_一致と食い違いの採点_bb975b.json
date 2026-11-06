@@ -8,554 +8,8 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-06T03:00:56.964965+00:00",
+ "researched_at": "2026-11-06T07:48:10.749035+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "Example of FALSE independence:",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example: Full Triangulation Map",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": do the supporting sources share an origin, a coordinator, or a common failure mode — in which case their agreement is one voice, not many?",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Arraying claims against independent source types to detect echoed rather than genuine corroboration is qualitative triangulation. GAO case-study guidance explicitly uses evidence matrices and multiple sources to corroborate findings and expose limitations.",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "GAO, Case Study Evaluations: Triangulation and Evidence Matrices",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ",\" \"supplier S is common to all cases\" — becomes a row; each source stream a column.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "単なる古代復古にとどまらず、西洋的「文明国」の君主としてふさわしい道徳性を身につけることが求められた結果、天皇・皇室は「国家最高レベルの道徳・人間性の体現者」としてのロールモデルへと再定義されました",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "[一般知識 / 知識再生]政治・武力闘争に敗北し続けた結果、**「政治権力を完全に失うことで逆に純粋な道徳・人道性のシンボル化が進む」**という独自の進化",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "印欧語系国家の多くは、王が第一機能と第二機能を自らに「集約」しようとした結果、暴政化するか、王朝交代（革命や処刑）を招く歴史を辿りました",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方、日本は第一機能（天皇）と第二機能（武家政権）を「完全に分化したまま二重構造としてシステム化（二元政治）」し続けたため、第一機能が「汚れ（政治の生々しさ・暴力）」から保護され、結果として「高潔な人間性・道徳のシンボル」としての規範を現在まで維持できたという論理が成り立ちます",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらについては、歴史的な傾向性としても、純粋に分化したまま成立するケースは、統計的には少数派なのでしょうか？（自然に融合しやすい傾向性がある？）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結論から申し上げますと、比較政治学・比較歴史学・社会人類学などの見地において、「第一機能（神聖・権威・法）」と「第二機能（武力・軍事・実効支配）」が長期間にわたって純粋に分化したままシステムとして安定し続けたケースは、世界史的・統計的に極めて「少数派（稀有な例外）」と評価されます",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "多くの場合、実権者が王を排除して融合を図りますが、日本のケースは「実権者（武家）側があえて神聖王を不可侵の存在として棚上げ（無力化・神聖化）し続けた」という極めて特異なシステム的安定に成功した例とみなされます",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「純粋に分化したまま数百年にわたって持続し、最終的に高潔な道徳・人間性の象徴へと結晶化したケース」は、比較史的に見ても極めて稀少で特異な歴史的帰結（少数派）であるといえます",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中世ヨーロッパにおける教皇（第一機能）と皇帝（第二機能）の権力闘争（カノッサの屈辱等）の歴史的展開を、現代企業における株主（第一機能）と経営陣（第二機能）の泥沼の対立・ガバナンス不全の事例と対比して解説してください",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "両者の歴史的展開と現代的企業事例を対比しながら、ガバナンスの構造的破綻メカニズムを解説いたします",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結果として組織は空転し、長期的な企業価値低下（内乱状態）を招いた末に、最終的に司法の判断やガバナンスコードの改定によって「所有と経営の厳密な分界線」を強固に引き直すことになります",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3. 歴史的・現代的の具体的アプローチ（事例）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "歴史的にも、この「ヴァイシャによる国家（第1・第2機能）の浸食・間接支配」は鮮やかな事例を残しています",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "[一般知識 / 推論合成（一般）] その結果、外部からの武力侵略や内部からの暴動（危機発生）に耐えられなくなり、再び第二機能（強権的な軍事独裁・強権政治）や第一機能（宗教的・思想的ファンダメンタリズム）への強力な先祖返り（揺り戻し）を巻き起こすことになります",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "史実における「資本流出と国家の衰退」の事例",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "| v4.2 の障害事例は現代職域層の説明便益の例示にとどまり、三機能・IEMPに系統的に接続するモデル全体の検証ではないと明記（§8.36）",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "| 共有会話21質疑・§5全51論点・追補の比較事例を通常の史料批判で再評価",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を、§7.7 の D8 と同型の失敗が当該分野の中心で起きた実例として記録",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "命題A の較正事例としてのメソポタミアを7基準で評価（結論:",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ウル第三王朝／古バビロニアの文書構成比、シャマシュへの転換、同害報復法、マルドゥクによるアサルルヒ吸収、日本の記紀、サーサーン朝のカヤーン朝系譜という6事例で A′ を検証",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は両方の測定器が同時に適用できる唯一級の事例であり、しかも A′ ではなく A″ を支持する",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "[53]【物理学との非対称】計量標準の追跡可能性が歴史学には存在せず、橋渡し事例と",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エサギル・キーン・アプリの校訂はイシン第二王朝——§8.11.6 の A″ 陽性事例（ネブカドネザル1世）と同じ王朝——に属する",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "個別史料・事例内の過程追跡・限定母集団の比較・系統抽出を区別し、Skocpol の比較歴史研究、Collier の方法論、古アッシリア交易の系統抽出、Seshat 撤回事例を参照して A″ の到達点を比較",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "[91]「６事例」＝独立した検証事例数という読解を退ける",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "個別史実、限定範囲の傾向、事例内因果・条件付き機制、時空間の移転を分け、歴史学・社会学・経済学・政治学の典型的な研究設計と比較した",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A″-R をローマ帝政内で検証する手順を明示し、旧版の「６事例」「８％」の訂正を維持",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A″ の種全体への一般化は未検証とし、旧稿の「６事例」「８％」の訂正を維持",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "絶対的普遍性・条件付き規則性・統計的傾向を区別し、測定の対応と事例間の依存をそれぞれ評価する",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "全21質疑・全51論点・後続事例の再判定は別冊 `academic_standard_reassessment.md` を優先",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation in M&E: 4 Types and Examples | M&E Studio",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation in M&E: Four Types, Examples and What to Do When Sources Disagree",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Most methodologies describe what happens when sources agree and are silent on the case that actually requires judgment.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If the sources differ, give the range, the likely reason and what you checked. See the examples below.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Contribution Analysis: Building a Credible Case Without a Control Group",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Negative Case Analysis: Testing a Finding Against What Does Not Fit",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Design Triangulation in Case Study Research",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Designing Triangulation in Case Studies",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How Do You Design Triangulation Within a Case Study?",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Should the interviews, documents, and observations confirm the same findings? What if administrators describe extensive faculty consultation while faculty members report that major decisions had already been made? Does disagreement indicate a methodological weakness, or could it reveal something important about the case?",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation is frequently invoked as evidence of qualitative rigor, yet its analytical procedures are often left unspecified. A defensible case study needs to explain not only which evidence sources will be collected, but also how they will be compared, interpreted, and used to evaluate the study's claims.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "To design triangulation within a case study, identify the claims or phenomena that require examination, select evidence sources or analytical perspectives capable of informing them, and specify how agreements, differences, and contradictions will be evaluated.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation may involve different data sources, methods, investigators, or theoretical perspectives. Its purpose is not necessarily to make all evidence agree. Depending on the research tradition, triangulation may strengthen corroboration, reveal contrasting meanings, expose limitations in particular sources, or produce a more nuanced interpretation of the bounded case.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Does Triangulation Mean in Case Study Research?",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In case study research, triangulation is particularly relevant because the case often involves multiple actors, processes, and contextual conditions that cannot be adequately understood from one perspective alone.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, an institutional policy may exist as a formal document, be interpreted differently by faculty members, and be implemented inconsistently across departments.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Each perspective provides information about a different aspect of the case.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Denzin's influential typology distinguishes data, investigator, theory, and methodological triangulation. Yin emphasizes converging lines of evidence as an important feature of case study inquiry, while Stake's interpretive approach gives considerable attention to understanding the case through multiple perspectives.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a claim that faculty consultation influenced policy revisions could be examined through participant accounts, consultation records, successive policy drafts, and documented decision sequences.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "whether case studies need multiple sources of evidence",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, interview accounts should be interpreted with attention to participants' roles, experiences, and possible limitations of recall.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Triangulation Matrix - The Encyclopedia of Abstractions — Sep 14, 2026 · Triangulation Matrix Template — instantiates Source Provenance Triangulation Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": ". GOV.UK (2026). Warns that multiple sources may create false corroboration when they repeat the same primary source.",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The Home Office methodology names 'false corroboration' (several sources citing one primary source) as a hazard to avoid; it does not describe an independence-counting matrix or balance check.",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "平成・令和の「公的な祈り」と高い人間性の規範：",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらについては、歴史的な傾向性としても、純粋に分化したまま成立するケースは、統計的には少数派なのでしょうか？（自然に融合しやすい傾向性がある？）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "結論から申し上げますと、比較政治学・比較歴史学・社会人類学などの見地において、「第一機能（神聖・権威・法）」と「第二機能（武力・軍事・実効支配）」が長期間にわたって純粋に分化したままシステムとして安定し続けたケースは、世界史的・統計的に極めて「少数派（稀有な例外）」と評価されます",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "③ 制度的囲い込みと独占権の付与（特許・利権との引き換え）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえば「第3機能へのリソース集中が一定閾値（例：上位1%への富の過度な集中や、インフラの完全民間化）を超えた時、過去の統計的パターンから",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1. 統計力学・統計物理学における「大数の法則」と「粗視化」の原理",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "個々の政治家の発言、特定の選挙結果、突発的な事件などのミクロなイベントは、統計的・時間的に相互に相殺（平均化）されます",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "T4で「マリヤンヌはミタンニの用語」、T6で「統計的根拠がない」、T20で「ブータンは神権国家ではない」と指摘されていれば、トラジェクトリは別の経路を取りえました",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "C の「問題なし」という結論自体が網羅性不足の結果であるため、C の自己点検は採用しません",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- **未来予測・記事全体の総括** → **A・B の側を採用**",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "**自己点検は機能しておらず、採用しない** |",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "T6「統計的には少数派**なのでしょうか？**」、T20「ある程度分類できてしまう、ということでも**あるのでしょうか？**」——どちらも疑問文です",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "存在しない統計を肯定し分類を断定したのは AI です",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「7. 留保」については、基本的に古代に遡るほど、文献学的な記録がそもそもパピルスや羊皮紙などによって、遺物として残りにくいという問題や、記録として作成されるものが一部の公的文書に限定されることなどがあるため、原理的にこの要求水準を満たすことができないため、この手法で扱えるのは、中世以降、あるいは近代以降に限定されるのでしょうか？",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "約10,450個人の人名を悉皆入力し、1名ごとに言語系統を判定した統計研究",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "| 3者の判定を突き合わせ、一致した判定を確度高として採用し、不一致は",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "㊱**【自己訂正】§8.11.7 で「本レポートの提案」とした人名学による測定は、既に実行済みの確立手法だった**——Gelb (1980) 6,662名、Streck (2000)、Golinets (2018)、de Boer（約10,450個人の悉皆統計）",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "古代は破壊が文庫を作る（正のバイアス）が、近代は動乱が統計機構を壊す（負のバイアス）",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人類史で N が十数件以下、統計的検定は原理的に不可能という未列挙の推測を撤回",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人名統計そのものは維持し、何を測定していないかを明示",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "絶対的普遍性・条件付き規則性・統計的傾向を区別し、測定の対応と事例間の依存をそれぞれ評価する",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただちに採用せず、本統合で独立に再検証",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "再検証で裏付けが取れたもののみを統合表に採用し、裏付けが取れなかったものは**「B の指摘を追認（⚠️留保）」**として明示した（§7.2 の項目4・5・6）",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "されているため、そのまま採用できない",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（v1.2 で T4 の表記揺れ、T15 の「第六次改革」、T16 の照合皆無、T21 の結語を追加）（第五琦の破損／塩利7割／マリヤンヌ／アダルベロンの司教区／トマス・ライリー／紫衣事件の年次／自己評価ラベルの較正不全／「統計的に少数派」の量化不在／粗視化予測の過剰確定／外国語文字の混入と回答番号の内部不整合）",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "| 18 | 第1・第2機能の分化は統計的に少数派 | ❌ | ❓ | — |",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "T6 の原文は「統計的には少数派",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "であり、正しい応答は「そのような統計は存在しない」であった",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "T6「統計的少数派」",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（T6「統計的には少数派なのでしょうか？」、T20「ある程度分類できてしまう、ということでも",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "⚠ Weak triangulation (multiple sources, same persona/bias)",
@@ -804,474 +258,12 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "手順・やり方": [
+  "検索結果の抜粋": [
    {
-    "quote": "How to Verify Claims Through Independent Sources",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 1:",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 2:",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 3:",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 4:",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 5:",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 6:",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Ethnography & Qualitative Research Methods",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "method_transparency_note",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Country Policy and Information Notes: Purpose, Methodology and Use",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The Home Office methodology names 'false corroboration' (several sources citing one primary source) as a hazard to avoid; it does not describe an independence-counting matrix or balance check.",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Ethnography & Qualitative Research Methods",
+    "quote": "Triangulation Matrix - The Encyclopedia of Abstractions — Sep 14, 2026 · Triangulation Matrix Template — instantiates Source Provenance Triangulation Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once.",
     "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
     "pass": 3,
     "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "methodological triangulation",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It is the backbone of incident postmortems, mixed-method research, and outbreak reconstruction.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A claims-by-sources matrix operationalizes methodological triangulation: each conclusion is checked against evidence produced through more than one source or method. CDC explicitly defines triangulation as cross-verification using multiple sources and methods; statistics supplies formal comparison.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "— Historical and historiographic method supplies a parallel or contributing lineage for the mechanism's defining operation: places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“The Research Act: A Theoretical Introduction to Sociological Methods”",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ed., 370 pp. (1978). Develops triangulation as the combination of methods, data sources, investigators, or theories so convergence can strengthen a finding beyond any single approach.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "学術的定説からの乖離度（❓）: ❓ [1/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀 [2/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「徳と祈りへの特化型（権力と権威の完全分離）」",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠 [3/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️⭐️ [4/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀🌀 [5/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人類の歴史において、権力構造が「第一機能＋第二機能の統合型」へ収斂・融合しやすいのには、主に3つの力学的理由が存在します",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. 世界史における「融合型（多数派）」と「分化型（少数派）」の対比",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "明治維新から太平洋戦争期にかけての「大日本帝国憲法」下では、それまでの分化を解消し、「大元帥（第二機能）にして神聖不可侵（第一機能）」という西洋・大陸型の「第一＋第二機能の融合」",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第一機能と第二機能の分離が不十分な国家（権力集中型の権威主義国家）では、行政権が司法や立法を飲み込み、「第二機能が第一機能の顔をして暴走する」状態に陥ります",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業者・オーナー社長による独裁型企業中国の皇帝制、絶対王政、独裁国家意思決定は極めて迅速だが、トップの暴走や判断ミスを内部で修正できず、一瞬で倒産・失脚するリスク（易姓革命型）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️⭐️ [4/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀🌀 [5/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現代社会における「グローバル資本と国家権力の関係」や「巨大企業によるガバナンスと法・倫理の変容」を読み解くうえでも、この「三機能の動態と第三機能による浸食」というフレームワークは、極めて深い洞察と分析力を与えてくれる分析軸であるといえます",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「印欧語族の三機能」という古代の神話的・社会構造的フレームを、現代の「複雑系システム論・データサイエンス」へアップデートするきわめて筋の良いモデル",
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "| 捨て子型、神格再編、エジプトの複数神格、欧州王統、ヴェーダと叙事詩、日本の古代・現代ゲノムを A″ と照合",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "し、歴史社会学の方法論（比較史の3論理・理念型・ガルトン問題・従属変数による選択・神話＝物語形式のイデオロギー）に照らして判定基準を再設定",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "を、§7.7 の D8 と同型の失敗が当該分野の中心で起きた実例として記録",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【方法論上の突破】A″ の独立変数は人名学（オノマスティクス）で測れる**——行政文書中のアムル系人名比率はプロパガンダではない文書から得られ、§8.9.6 で行き詰まった「テクストから独立な指標」問題を解く",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新出典なし、§8.17〜18 と N80〜N81 に基づく方法論上の整理",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "個別史料・事例内の過程追跡・限定母集団の比較・系統抽出を区別し、Skocpol の比較歴史研究、Collier の方法論、古アッシリア交易の系統抽出、Seshat 撤回事例を参照して A″ の到達点を比較",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "個別史実、限定範囲の傾向、事例内因果・条件付き機制、時空間の移転を分け、歴史学・社会学・経済学・政治学の典型的な研究設計と比較した",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A″-R をローマ帝政内で検証する手順を明示し、旧版の「６事例」「８％」の訂正を維持",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "B が A の見落とし（アダルベロンの司教区、明治の範型＝プロイセン型、2026年6月の皇室典範改正案、Paramore論文）を検出した点は維持される",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. クロスチェックの方法",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2.2 照合手順",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "訂正表と改善手順を含む | 本文中のインラインリンクが不足し、読者の追検証動線が弱い",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "| 4.5 | 構造が明瞭（サマリー→方法→フェーズ別→横断問題→トラジェクトリ→自己監査→拡張→限界）",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A が見落とした4件（アダルベロン、プロイセン型、2026年6月の改正案、Paramore）を検出",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "| 構成が最も整っている（§0方法→§1要約→§2対象→§3トラジェクトリ→§4判定表→§5分野別解説→§6対話構造→§7最新状況→§8発展的示唆→§9自己点検→§10自己評価）",
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", drawing on several stakeholder groups, or applying different methods to the same question. The goal is not to collect more data. It is to collect",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The four types differ in what you vary: the data, the method, the people analyzing it or the theory used to interpret it.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Methodological triangulation",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Different collection methods on the same question",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Methods that answer adjacent rather than identical questions",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "More than one analytical framework applied to the same findings",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Denzin (1978) set out these four types. Name the type you use in your methodology, and list the sources that sit behind it.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Use triangulation whenever a conclusion matters enough that someone will question it, and whenever a single method could plausibly have produced the result on its own. It is not a technique reserved for large evaluations; it is a habit of design that costs little when planned early and cannot be retrofitted later.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "When a finding is unwelcome to any stakeholder, the first line of attack is method. Triangulated findings are far harder to dismiss.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation is less useful when the measure is unambiguous and directly observed. Counting completed boreholes does not need a second method. Judging whether they are used, and by whom, does.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "examines the same findings through different analytical frameworks, testing whether the conclusion holds regardless of the lens applied.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "State what happens when sources disagree, because they will. Divergence is a finding, not a failure, and the methodology should say who adjudicates it and on what basis.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Name the type in your methodology.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Most methodologies describe what happens when sources agree and are silent on the case that actually requires judgment.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation is a check on a finding, not a method for producing one. Knowing its limits keeps you from claiming more than your sources support.",
-    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Design Triangulation in Case Study Research",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation requires more than collecting interviews, documents, and observations. Learn how to design meaningful comparisons across evidence, investigate disagreements, avoid false corroboration, and establish what different sources can legitimately support.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the methodology, you write that triangulation will be achieved through multiple data sources. But what happens after those sources have been collected?",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Should the interviews, documents, and observations confirm the same findings? What if administrators describe extensive faculty consultation while faculty members report that major decisions had already been made? Does disagreement indicate a methodological weakness, or could it reveal something important about the case?",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation may involve different data sources, methods, investigators, or theoretical perspectives. Its purpose is not necessarily to make all evidence agree. Depending on the research tradition, triangulation may strengthen corroboration, reveal contrasting meanings, expose limitations in particular sources, or produce a more nuanced interpretation of the bounded case.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Build a Coherent Triangulation Strategy",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation refers to examining a phenomenon through different sources of evidence, methods, investigators, or theoretical perspectives to develop a more informed understanding.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Denzin's influential typology distinguishes data, investigator, theory, and methodological triangulation. Yin emphasizes converging lines of evidence as an important feature of case study inquiry, while Stake's interpretive approach gives considerable attention to understanding the case through multiple perspectives.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Methodological triangulation",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Methods used to investigate a phenomenon",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "These forms can overlap. Comparing interviews from different stakeholder groups is data triangulation, while comparing interview findings with documentary analysis also involves methodological triangulation.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Contradictions should be investigated rather than automatically treated as methodological failures.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Theory triangulation should not involve adding unrelated theories merely to make the conceptual framework appear more extensive.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Does Triangulation Require Mixed Methods?",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "However, the presence of qualitative and quantitative data does not automatically establish a mixed-methods design. Mixed-methods research requires a coherent rationale for integrating qualitative and quantitative approaches.",
-    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
-    "pass": 3,
-    "first_seen": "2026-11-05"
    }
   ],
   "突き合わせ・推定": [
@@ -1827,268 +819,7 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ]
- },
- "figures": {},
- "checked": {
-  "pass3": [
-   {
-    "url": "https://note.com/cognova_founder/n/na15f1497aac0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/k314y/n/n4878d6bd440f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/sou_devnotes/n/n2f4082999ff8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/curiosity_wint/n/n8e44c87bf98e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/sou_devnotes/n/n7cb245b7d741",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/clean_fox6473/n/nb62d96489319",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://x.com/Nhazama/status/2102355298396598302",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://presenti.ai/jp/blog/research-presentation-with-citations/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://itcareernavi.jp/research-source-checklist/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://scholarcompass.net/columns/184",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mindthegraph.com/blog/ja/%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://skills.rest/skill/investigation-triangulation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://deepwiki.com/199-biotechnologies/claude-deep-research-skill/6.2-source-triangulation-and-credibility-scoring",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://mattwalker.education/tools/co-teaching/13-source-triangulation.html",
-    "status": "ok",
-    "method": "http"
-   }
-  ]
- },
- "search_log": [
-  {
-   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） site:note.com",
-   "results": [
-    "https://note.com/cognova_founder/n/na15f1497aac0",
-    "https://note.com/k314y/n/n4878d6bd440f",
-    "https://note.com/sou_devnotes/n/n2f4082999ff8",
-    "https://note.com/curiosity_wint/n/n8e44c87bf98e",
-    "https://note.com/sou_devnotes/n/n7cb245b7d741",
-    "https://note.com/clean_fox6473/n/nb62d96489319",
-    "https://note.com/deft_willet5238/n/ne2d515b6a336"
-   ]
-  },
-  {
-   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） note",
-   "results": [
-    "https://x.com/Nhazama/status/2102355298396598302",
-    "https://note.com/cognova_founder/n/na15f1497aac0",
-    "https://note.com/sou_devnotes/n/n7cb245b7d741",
-    "https://presenti.ai/jp/blog/research-presentation-with-citations/",
-    "https://itcareernavi.jp/research-source-checklist/",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://shittetoku-lab.hatenablog.com/entry/2026/10/18/194853"
-   ]
-  },
-  {
-   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） やり方",
-   "results": [
-    "https://scholarcompass.net/columns/184",
-    "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja",
-    "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://note.com/sou_devnotes/n/n7cb245b7d741",
-    "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/"
-   ]
-  },
-  {
-   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） 事例",
-   "results": [
-    "https://scholarcompass.net/columns/184",
-    "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja",
-    "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://note.com/sou_devnotes/n/n7cb245b7d741",
-    "https://oceanone.hatenablog.com/entry/2020/02/19/234241",
-    "https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/"
-   ]
-  },
-  {
-   "query": "source triangulation matrix independence scoring",
-   "results": [
-    "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "https://skills.rest/skill/investigation-triangulation",
-    "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "https://deepwiki.com/199-biotechnologies/claude-deep-research-skill/6.2-source-triangulation-and-credibility-scoring",
-    "https://mattwalker.education/tools/co-teaching/13-source-triangulation.html",
-    "https://github.com/human-avatar/skills-for-humanity/blob/main/skills/s4h-investigation-triangulation/SKILL.md"
-   ]
-  },
-  {
-   "query": "site:note.com 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）",
-   "results": [
-    "https://note.com/cognova_founder/n/na15f1497aac0",
-    "https://note.com/curiosity_wint/n/n8e44c87bf98e",
-    "https://note.com/k314y/n/n4878d6bd440f",
-    "https://note.com/sou_devnotes/n/n2f4082999ff8",
-    "https://note.com/deft_willet5238/n/ne2d515b6a336",
-    "https://note.com/psychologist_ryo/n/nfab6cf22024d",
-    "https://note.com/sou_devnotes/n/n7cb245b7d741"
-   ]
-  },
-  {
-   "query": "site:x.com 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）",
-   "results": [
-    "https://x.com/Nhazama/status/2102355298396598302",
-    "https://x.com/nayuta_office/status/2115670108685181438",
-    "https://x.com/spring_online1/status/2117829214045184172",
-    "https://x.com/nayuta_office/status/2107002948232323517",
-    "https://x.com/D_Dogshin/status/2066860113659666463",
-    "https://x.com/CoachPoten/status/2115942317639037136",
-    "https://x.com/Themiss12345/status/1799578281144193411"
-   ]
-  },
-  {
-   "query": "site:linkedin.com 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）",
-   "results": [
-    "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
-    "https://www.linkedin.com/in/amashrabov",
-    "https://jp.linkedin.com/pulse/triangulating-data-dr-selena-fisk-htgpc?tl=ja",
-    "https://jp.linkedin.com/pulse/triangulation-migration-deception-detection-from-art-uddin-msc--gpmsc?tl=ja",
-    "https://jp.linkedin.com/pulse/when-leaders-get-pulled-middle-hidden-cost-renee-thompson-unhhe?tl=ja",
-    "https://jp.linkedin.com/pulse/trust-triangulation-cracking-code-llms-tim-andrews?tl=ja",
-    "https://jp.linkedin.com/pulse/discourage-triangulation-inappropriate-escalations-lockett-cissp?tl=ja"
-   ]
-  },
-  {
-   "query": "site:facebook.com 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）",
-   "results": [
-    "https://www.facebook.com/media/set/?set=a.971729412937126",
-    "https://www.facebook.com/dreamn.official/photos/a.135700801306779/412822056927984/",
-    "https://www.facebook.com/media/set/?set=a.794514740658595",
-    "https://www.facebook.com/jsce.magazine/photos/ドボコンの土木用語no80-重力測量-gravity-survey重力を測定する測量であり標高のわかっている地点すなわち水準点三角点あるいは独立標高点等の上で行/2824317537810960/",
-    "https://www.facebook.com/100088965797623/posts/夏の夜空はるか遠い星までの距離も三角測量の原理で測られています地球の公転軌道の端から端まで約3億kmを三角形の底辺としてその各視準点から目標の星を観測した角度年/242539952054863/",
-    "https://www.facebook.com/hakodateburatanbou/posts/第２１７回八幡町大川町田家町巡りその４道南の地図は田家町の大称寺が基点-明治８年開拓使が三角測量で正確な北海道地図を作るため一本木村北斗市一本木と亀田村現函館市/931406549013492/",
-    "https://www.facebook.com/3beelf/videos/43歳のモロッコ人移民アブドゥラヒムファキールさんが警察の取り締まり中に亡くなり街全体が抗議の声で揺れているモロッコ人コミュニティや人権団体は独立した透明な調査/1106713625211975/"
-   ]
-  },
-  {
-   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） note 社長",
-   "results": [
-    "https://x.com/Nhazama/status/2102355298396598302",
-    "https://note.com/cognova_founder/n/na15f1497aac0",
-    "https://note.com/sou_devnotes/n/n2f4082999ff8",
-    "https://presenti.ai/jp/blog/research-presentation-with-citations/",
-    "https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research",
-    "https://scholarcompass.net/columns/184",
-    "https://note.com/curiosity_wint/n/n8e44c87bf98e"
-   ]
-  },
-  {
-   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） X 投稿",
-   "results": [
-    "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja",
-    "https://scholarcompass.net/columns/184",
-    "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf",
-    "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
-    "https://note.com/sou_devnotes/n/n7cb245b7d741",
-    "https://note.com/sou_devnotes/n/n2f4082999ff8",
-    "https://oceanone.hatenablog.com/entry/2020/02/19/234241"
-   ]
-  },
-  {
-   "query": "source triangulation matrix independence scoring site:linkedin.com",
-   "results": []
-  }
- ],
- "missing": {},
- "new_this_run": {
+  ],
   "実例": [
    {
     "quote": "Example of FALSE independence:",
@@ -2125,48 +856,312 @@
     "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
     "pass": 3,
     "first_seen": "2026-11-06"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Triangulation Matrix - The Encyclopedia of Abstractions — Sep 14, 2026 · Triangulation Matrix Template — instantiates Source Provenance Triangulation Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": ". GOV.UK (2026). Warns that multiple sources may create false corroboration when they repeat the same primary source.",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
    },
    {
-    "quote": "The Home Office methodology names 'false corroboration' (several sources citing one primary source) as a hazard to avoid; it does not describe an independence-counting matrix or balance check.",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
+    "quote": "単なる古代復古にとどまらず、西洋的「文明国」の君主としてふさわしい道徳性を身につけることが求められた結果、天皇・皇室は「国家最高レベルの道徳・人間性の体現者」としてのロールモデルへと再定義されました",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "⚠ Weak triangulation (multiple sources, same persona/bias)",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "Do sources have different potential biases?",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
+    "quote": "[一般知識 / 知識再生]政治・武力闘争に敗北し続けた結果、**「政治権力を完全に失うことで逆に純粋な道徳・人道性のシンボル化が進む」**という独自の進化",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "Common Triangulation Mistakes",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
+    "quote": "印欧語系国家の多くは、王が第一機能と第二機能を自らに「集約」しようとした結果、暴政化するか、王朝交代（革命や処刑）を招く歴史を辿りました",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方、日本は第一機能（天皇）と第二機能（武家政権）を「完全に分化したまま二重構造としてシステム化（二元政治）」し続けたため、第一機能が「汚れ（政治の生々しさ・暴力）」から保護され、結果として「高潔な人間性・道徳のシンボル」としての規範を現在まで維持できたという論理が成り立ちます",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらについては、歴史的な傾向性としても、純粋に分化したまま成立するケースは、統計的には少数派なのでしょうか？（自然に融合しやすい傾向性がある？）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結論から申し上げますと、比較政治学・比較歴史学・社会人類学などの見地において、「第一機能（神聖・権威・法）」と「第二機能（武力・軍事・実効支配）」が長期間にわたって純粋に分化したままシステムとして安定し続けたケースは、世界史的・統計的に極めて「少数派（稀有な例外）」と評価されます",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "多くの場合、実権者が王を排除して融合を図りますが、日本のケースは「実権者（武家）側があえて神聖王を不可侵の存在として棚上げ（無力化・神聖化）し続けた」という極めて特異なシステム的安定に成功した例とみなされます",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「純粋に分化したまま数百年にわたって持続し、最終的に高潔な道徳・人間性の象徴へと結晶化したケース」は、比較史的に見ても極めて稀少で特異な歴史的帰結（少数派）であるといえます",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中世ヨーロッパにおける教皇（第一機能）と皇帝（第二機能）の権力闘争（カノッサの屈辱等）の歴史的展開を、現代企業における株主（第一機能）と経営陣（第二機能）の泥沼の対立・ガバナンス不全の事例と対比して解説してください",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "両者の歴史的展開と現代的企業事例を対比しながら、ガバナンスの構造的破綻メカニズムを解説いたします",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "結果として組織は空転し、長期的な企業価値低下（内乱状態）を招いた末に、最終的に司法の判断やガバナンスコードの改定によって「所有と経営の厳密な分界線」を強固に引き直すことになります",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. 歴史的・現代的の具体的アプローチ（事例）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "歴史的にも、この「ヴァイシャによる国家（第1・第2機能）の浸食・間接支配」は鮮やかな事例を残しています",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[一般知識 / 推論合成（一般）] その結果、外部からの武力侵略や内部からの暴動（危機発生）に耐えられなくなり、再び第二機能（強権的な軍事独裁・強権政治）や第一機能（宗教的・思想的ファンダメンタリズム）への強力な先祖返り（揺り戻し）を巻き起こすことになります",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "史実における「資本流出と国家の衰退」の事例",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "| v4.2 の障害事例は現代職域層の説明便益の例示にとどまり、三機能・IEMPに系統的に接続するモデル全体の検証ではないと明記（§8.36）",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "| 共有会話21質疑・§5全51論点・追補の比較事例を通常の史料批判で再評価",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を、§7.7 の D8 と同型の失敗が当該分野の中心で起きた実例として記録",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "命題A の較正事例としてのメソポタミアを7基準で評価（結論:",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ウル第三王朝／古バビロニアの文書構成比、シャマシュへの転換、同害報復法、マルドゥクによるアサルルヒ吸収、日本の記紀、サーサーン朝のカヤーン朝系譜という6事例で A′ を検証",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は両方の測定器が同時に適用できる唯一級の事例であり、しかも A′ ではなく A″ を支持する",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[53]【物理学との非対称】計量標準の追跡可能性が歴史学には存在せず、橋渡し事例と",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エサギル・キーン・アプリの校訂はイシン第二王朝——§8.11.6 の A″ 陽性事例（ネブカドネザル1世）と同じ王朝——に属する",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "個別史料・事例内の過程追跡・限定母集団の比較・系統抽出を区別し、Skocpol の比較歴史研究、Collier の方法論、古アッシリア交易の系統抽出、Seshat 撤回事例を参照して A″ の到達点を比較",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[91]「６事例」＝独立した検証事例数という読解を退ける",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "個別史実、限定範囲の傾向、事例内因果・条件付き機制、時空間の移転を分け、歴史学・社会学・経済学・政治学の典型的な研究設計と比較した",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A″-R をローマ帝政内で検証する手順を明示し、旧版の「６事例」「８％」の訂正を維持",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A″ の種全体への一般化は未検証とし、旧稿の「６事例」「８％」の訂正を維持",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "絶対的普遍性・条件付き規則性・統計的傾向を区別し、測定の対応と事例間の依存をそれぞれ評価する",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "全21質疑・全51論点・後続事例の再判定は別冊 `academic_standard_reassessment.md` を優先",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in M&E: 4 Types and Examples | M&E Studio",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation in M&E: Four Types, Examples and What to Do When Sources Disagree",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most methodologies describe what happens when sources agree and are silent on the case that actually requires judgment.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If the sources differ, give the range, the likely reason and what you checked. See the examples below.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Contribution Analysis: Building a Credible Case Without a Control Group",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Negative Case Analysis: Testing a Finding Against What Does Not Fit",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Design Triangulation in Case Study Research",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Designing Triangulation in Case Studies",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How Do You Design Triangulation Within a Case Study?",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Should the interviews, documents, and observations confirm the same findings? What if administrators describe extensive faculty consultation while faculty members report that major decisions had already been made? Does disagreement indicate a methodological weakness, or could it reveal something important about the case?",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation is frequently invoked as evidence of qualitative rigor, yet its analytical procedures are often left unspecified. A defensible case study needs to explain not only which evidence sources will be collected, but also how they will be compared, interpreted, and used to evaluate the study's claims.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "To design triangulation within a case study, identify the claims or phenomena that require examination, select evidence sources or analytical perspectives capable of informing them, and specify how agreements, differences, and contradictions will be evaluated.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation may involve different data sources, methods, investigators, or theoretical perspectives. Its purpose is not necessarily to make all evidence agree. Depending on the research tradition, triangulation may strengthen corroboration, reveal contrasting meanings, expose limitations in particular sources, or produce a more nuanced interpretation of the bounded case.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Does Triangulation Mean in Case Study Research?",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In case study research, triangulation is particularly relevant because the case often involves multiple actors, processes, and contextual conditions that cannot be adequately understood from one perspective alone.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, an institutional policy may exist as a formal document, be interpreted differently by faculty members, and be implemented inconsistently across departments.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Each perspective provides information about a different aspect of the case.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Denzin's influential typology distinguishes data, investigator, theory, and methodological triangulation. Yin emphasizes converging lines of evidence as an important feature of case study inquiry, while Stake's interpretive approach gives considerable attention to understanding the case through multiple perspectives.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a claim that faculty consultation influenced policy revisions could be examined through participant accounts, consultation records, successive policy drafts, and documented decision sequences.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "whether case studies need multiple sources of evidence",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, interview accounts should be interpreted with attention to participants' roles, experiences, and possible limitations of recall.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
   ],
   "手順・やり方": [
@@ -2277,203 +1272,891 @@
     "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
     "pass": 3,
     "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学術的定説からの乖離度（❓）: ❓ [1/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀 [2/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️ [2/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀 [3/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠 [2/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️ [4/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「徳と祈りへの特化型（権力と権威の完全分離）」",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠 [3/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学術的定説からの乖離度（❓）: ❓❓❓ [3/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️⭐️ [4/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀🌀 [5/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人類の歴史において、権力構造が「第一機能＋第二機能の統合型」へ収斂・融合しやすいのには、主に3つの力学的理由が存在します",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. 世界史における「融合型（多数派）」と「分化型（少数派）」の対比",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "明治維新から太平洋戦争期にかけての「大日本帝国憲法」下では、それまでの分化を解消し、「大元帥（第二機能）にして神聖不可侵（第一機能）」という西洋・大陸型の「第一＋第二機能の融合」",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️ [3/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀 [4/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第一機能と第二機能の分離が不十分な国家（権力集中型の権威主義国家）では、行政権が司法や立法を飲み込み、「第二機能が第一機能の顔をして暴走する」状態に陥ります",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業者・オーナー社長による独裁型企業中国の皇帝制、絶対王政、独裁国家意思決定は極めて迅速だが、トップの暴走や判断ミスを内部で修正できず、一瞬で倒産・失脚するリスク（易姓革命型）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学術的定説からの乖離度（❓）: ❓❓ [2/5] （※諸説紹介や独自説の度合い） 論理的整合性からの乖離度（❗️）: ❗️ [1/5] （※論理飛躍の度合い） 学術的新規性（⭐️）: ⭐️⭐️⭐️⭐️ [4/5] （※新たな視点・統合の度合い） 学際的統合度（🌀）: 🌀🌀🌀🌀🌀 [5/5] （※複数分野の結合度合い） 抽象化の強度（💠）: 💠💠💠💠 [4/5] （※普遍的構造への昇華度合い） パーソナル影響度（❤️）: ❤️❤️❤️❤️❤️ [5/5] （※ユーザーの関心・フレーム反映度） ハルシネーション・リスク（💭）: 💭 [1/5] （※仮説飛躍による誤謬リスク）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現代社会における「グローバル資本と国家権力の関係」や「巨大企業によるガバナンスと法・倫理の変容」を読み解くうえでも、この「三機能の動態と第三機能による浸食」というフレームワークは、極めて深い洞察と分析力を与えてくれる分析軸であるといえます",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「印欧語族の三機能」という古代の神話的・社会構造的フレームを、現代の「複雑系システム論・データサイエンス」へアップデートするきわめて筋の良いモデル",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "| 捨て子型、神格再編、エジプトの複数神格、欧州王統、ヴェーダと叙事詩、日本の古代・現代ゲノムを A″ と照合",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "し、歴史社会学の方法論（比較史の3論理・理念型・ガルトン問題・従属変数による選択・神話＝物語形式のイデオロギー）に照らして判定基準を再設定",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "を、§7.7 の D8 と同型の失敗が当該分野の中心で起きた実例として記録",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【方法論上の突破】A″ の独立変数は人名学（オノマスティクス）で測れる**——行政文書中のアムル系人名比率はプロパガンダではない文書から得られ、§8.9.6 で行き詰まった「テクストから独立な指標」問題を解く",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新出典なし、§8.17〜18 と N80〜N81 に基づく方法論上の整理",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "個別史料・事例内の過程追跡・限定母集団の比較・系統抽出を区別し、Skocpol の比較歴史研究、Collier の方法論、古アッシリア交易の系統抽出、Seshat 撤回事例を参照して A″ の到達点を比較",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "個別史実、限定範囲の傾向、事例内因果・条件付き機制、時空間の移転を分け、歴史学・社会学・経済学・政治学の典型的な研究設計と比較した",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A″-R をローマ帝政内で検証する手順を明示し、旧版の「６事例」「８％」の訂正を維持",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "B が A の見落とし（アダルベロンの司教区、明治の範型＝プロイセン型、2026年6月の皇室典範改正案、Paramore論文）を検出した点は維持される",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. クロスチェックの方法",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2.2 照合手順",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "訂正表と改善手順を含む | 本文中のインラインリンクが不足し、読者の追検証動線が弱い",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "| 4.5 | 構造が明瞭（サマリー→方法→フェーズ別→横断問題→トラジェクトリ→自己監査→拡張→限界）",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A が見落とした4件（アダルベロン、プロイセン型、2026年6月の改正案、Paramore）を検出",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "| 構成が最も整っている（§0方法→§1要約→§2対象→§3トラジェクトリ→§4判定表→§5分野別解説→§6対話構造→§7最新状況→§8発展的示唆→§9自己点検→§10自己評価）",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", drawing on several stakeholder groups, or applying different methods to the same question. The goal is not to collect more data. It is to collect",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The four types differ in what you vary: the data, the method, the people analyzing it or the theory used to interpret it.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Methodological triangulation",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Different collection methods on the same question",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Methods that answer adjacent rather than identical questions",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "More than one analytical framework applied to the same findings",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Denzin (1978) set out these four types. Name the type you use in your methodology, and list the sources that sit behind it.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use triangulation whenever a conclusion matters enough that someone will question it, and whenever a single method could plausibly have produced the result on its own. It is not a technique reserved for large evaluations; it is a habit of design that costs little when planned early and cannot be retrofitted later.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When a finding is unwelcome to any stakeholder, the first line of attack is method. Triangulated findings are far harder to dismiss.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation is less useful when the measure is unambiguous and directly observed. Counting completed boreholes does not need a second method. Judging whether they are used, and by whom, does.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "examines the same findings through different analytical frameworks, testing whether the conclusion holds regardless of the lens applied.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "State what happens when sources disagree, because they will. Divergence is a finding, not a failure, and the methodology should say who adjudicates it and on what basis.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Name the type in your methodology.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most methodologies describe what happens when sources agree and are silent on the case that actually requires judgment.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation is a check on a finding, not a method for producing one. Knowing its limits keeps you from claiming more than your sources support.",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Design Triangulation in Case Study Research",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation requires more than collecting interviews, documents, and observations. Learn how to design meaningful comparisons across evidence, investigate disagreements, avoid false corroboration, and establish what different sources can legitimately support.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the methodology, you write that triangulation will be achieved through multiple data sources. But what happens after those sources have been collected?",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Should the interviews, documents, and observations confirm the same findings? What if administrators describe extensive faculty consultation while faculty members report that major decisions had already been made? Does disagreement indicate a methodological weakness, or could it reveal something important about the case?",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation may involve different data sources, methods, investigators, or theoretical perspectives. Its purpose is not necessarily to make all evidence agree. Depending on the research tradition, triangulation may strengthen corroboration, reveal contrasting meanings, expose limitations in particular sources, or produce a more nuanced interpretation of the bounded case.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Build a Coherent Triangulation Strategy",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation refers to examining a phenomenon through different sources of evidence, methods, investigators, or theoretical perspectives to develop a more informed understanding.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Denzin's influential typology distinguishes data, investigator, theory, and methodological triangulation. Yin emphasizes converging lines of evidence as an important feature of case study inquiry, while Stake's interpretive approach gives considerable attention to understanding the case through multiple perspectives.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Methodological triangulation",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Methods used to investigate a phenomenon",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "These forms can overlap. Comparing interviews from different stakeholder groups is data triangulation, while comparing interview findings with documentary analysis also involves methodological triangulation.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Contradictions should be investigated rather than automatically treated as methodological failures.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Theory triangulation should not involve adding unrelated theories merely to make the conceptual framework appear more extensive.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Does Triangulation Require Mixed Methods?",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "However, the presence of qualitative and quantitative data does not automatically establish a mixed-methods design. Mixed-methods research requires a coherent rationale for integrating qualitative and quantitative approaches.",
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
+  "一次情報の探し方": [
    {
-    "quote": "superbasic-research/standards/triangulation-mapping-guide.md at main · iamstefanp/superbasic-research · GitHub",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "triangulation-mapping-guide.md",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Triangulation Mapping: Claim Validation Visual Logic",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "What Is Triangulation Mapping?",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Triangulation mapping shows",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "✓ Strong triangulation (multiple independent sources, different",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "⚠ Weak triangulation (multiple sources, same persona/bias)",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "❌ No triangulation (single-sourced claims)",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Text-Based Triangulation Map (For Reports)",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Triangulation Quality:",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Visual Triangulation Diagram (For Training/Analysis)",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Compare to FALSE triangulation:",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Triangulation Matrix (For Full Report)",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Claims 1 & 4: strong triangulation (3–4 sources, multiple personas)",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Claims 2 & 5: weak triangulation (2 sources, limited persona",
-    "url": "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Source Triangulation Matrix - The Encyclopedia of Abstractions",
+    "quote": ". GOV.UK (2026). Warns that multiple sources may create false corroboration when they repeat the same primary source.",
     "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Source Triangulation Matrix",
+    "quote": "The Home Office methodology names 'false corroboration' (several sources citing one primary source) as a hazard to avoid; it does not describe an independence-counting matrix or balance check.",
     "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Source Triangulation Matrix operates as an analytical, modeling, inference, comparison, or optimization procedure that derives insight or a solution because it arrays each claim against its sources to test whether apparent corroboration is genuinely independent or just one interested origin echoed — and whether the source mix is balanced enough to trust.",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
+    "quote": "平成・令和の「公的な祈り」と高い人間性の規範：",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "The frozen evidence defines Source Triangulation Matrix as 'Arrays each claim against its sources to test whether apparent corroboration is genuinely independent or just one interested origin echoed — and whether the source mix is balanced enough to trust', so its operative form is Analysis, Modeling & Optimization.",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
+    "quote": "これらについては、歴史的な傾向性としても、純粋に分化したまま成立するケースは、統計的には少数派なのでしょうか？（自然に融合しやすい傾向性がある？）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "— Source Triangulation Matrix includes features of a bounded evaluation of existing evidence or work that produces a finding or disposition, but its defining operation is an analytical, modeling, inference, comparison, or optimization procedure that derives insight or a solution.",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
+    "quote": "結論から申し上げますと、比較政治学・比較歴史学・社会人類学などの見地において、「第一機能（神聖・権威・法）」と「第二機能（武力・軍事・実効支配）」が長期間にわたって純粋に分化したままシステムとして安定し続けたケースは、世界史的・統計的に極めて「少数派（稀有な例外）」と評価されます",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "Arraying claims against independent source types to detect echoed rather than genuine corroboration is qualitative triangulation. GAO case-study guidance explicitly uses evidence matrices and multiple sources to corroborate findings and expose limitations.",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
+    "quote": "③ 制度的囲い込みと独占権の付与（特許・利権との引き換え）",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "GAO, Case Study Evaluations: Triangulation and Evidence Matrices",
-    "url": "https://abstractopedia.org/mechanisms/source_triangulation_matrix/",
+    "quote": "たとえば「第3機能へのリソース集中が一定閾値（例：上位1%への富の過度な集中や、インフラの完全民間化）を超えた時、過去の統計的パターンから",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "Triangulation Matrix - The Encyclopedia of Abstractions",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "quote": "1. 統計力学・統計物理学における「大数の法則」と「粗視化」の原理",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "Source Provenance Triangulation",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "quote": "個々の政治家の発言、特定の選挙結果、突発的な事件などのミクロなイベントは、統計的・時間的に相互に相殺（平均化）されます",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "earns over agreement within one type. High weighting rewards true triangulation; too high penalizes domains where one source type dominates.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "quote": "T4で「マリヤンヌはミタンニの用語」、T6で「統計的根拠がない」、T20で「ブータンは神権国家ではない」と指摘されていれば、トラジェクトリは別の経路を取りえました",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "methodological triangulation",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "quote": "C の「問題なし」という結論自体が網羅性不足の結果であるため、C の自己点検は採用しません",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "legible, distinguishing broad triangulation from agreement within a single type.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "quote": "- **未来予測・記事全体の総括** → **A・B の側を採用**",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "Triangulation Matrix is defined in the frozen evidence as: Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once. Its operative deployed or enacted form is therefore Representation, Specification & Plan.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "quote": "**自己点検は機能しておらず、採用しない** |",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "A claims-by-sources matrix operationalizes methodological triangulation: each conclusion is checked against evidence produced through more than one source or method. CDC explicitly defines triangulation as cross-verification using multiple sources and methods; statistics supplies formal comparison.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "quote": "T6「統計的には少数派**なのでしょうか？**」、T20「ある程度分類できてしまう、ということでも**あるのでしょうか？**」——どちらも疑問文です",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "— Data modeling, telemetry, and analytic monitoring supplies a distinct formative lineage for the mechanism's triangulation matrix logic.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "quote": "存在しない統計を肯定し分類を断定したのは AI です",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "CDC, Gathering Credible Evidence and Triangulation",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "quote": "「7. 留保」については、基本的に古代に遡るほど、文献学的な記録がそもそもパピルスや羊皮紙などによって、遺物として残りにくいという問題や、記録として作成されるものが一部の公的文書に限定されることなどがあるため、原理的にこの要求水準を満たすことができないため、この手法で扱えるのは、中世以降、あるいは近代以降に限定されるのでしょうか？",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "ed., 370 pp. (1978). Develops triangulation as the combination of methods, data sources, investigators, or theories so convergence can strengthen a finding beyond any single approach.",
-    "url": "https://abstractopedia.org/mechanisms/triangulation_matrix/",
+    "quote": "約10,450個人の人名を悉皆入力し、1名ごとに言語系統を判定した統計研究",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "| 3者の判定を突き合わせ、一致した判定を確度高として採用し、不一致は",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "㊱**【自己訂正】§8.11.7 で「本レポートの提案」とした人名学による測定は、既に実行済みの確立手法だった**——Gelb (1980) 6,662名、Streck (2000)、Golinets (2018)、de Boer（約10,450個人の悉皆統計）",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "古代は破壊が文庫を作る（正のバイアス）が、近代は動乱が統計機構を壊す（負のバイアス）",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人類史で N が十数件以下、統計的検定は原理的に不可能という未列挙の推測を撤回",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人名統計そのものは維持し、何を測定していないかを明示",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "絶対的普遍性・条件付き規則性・統計的傾向を区別し、測定の対応と事例間の依存をそれぞれ評価する",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただちに採用せず、本統合で独立に再検証",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "再検証で裏付けが取れたもののみを統合表に採用し、裏付けが取れなかったものは**「B の指摘を追認（⚠️留保）」**として明示した（§7.2 の項目4・5・6）",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "されているため、そのまま採用できない",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（v1.2 で T4 の表記揺れ、T15 の「第六次改革」、T16 の照合皆無、T21 の結語を追加）（第五琦の破損／塩利7割／マリヤンヌ／アダルベロンの司教区／トマス・ライリー／紫衣事件の年次／自己評価ラベルの較正不全／「統計的に少数派」の量化不在／粗視化予測の過剰確定／外国語文字の混入と回答番号の内部不整合）",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "| 18 | 第1・第2機能の分化は統計的に少数派 | ❌ | ❓ | — |",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "T6 の原文は「統計的には少数派",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "であり、正しい応答は「そのような統計は存在しない」であった",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "T6「統計的少数派」",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（T6「統計的には少数派なのでしょうか？」、T20「ある程度分類できてしまう、ということでも",
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 2,
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cognova_founder/n/na15f1497aac0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/k314y/n/n4878d6bd440f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/curiosity_wint/n/n8e44c87bf98e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sou_devnotes/n/n7cb245b7d741",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hidetoshi_h_/n/nc18eaa9c476e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gsi.go.jp/common/000258639.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ndl.go.jp/math/s1/c7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.histeq.jp/kaishi_29/HE29_227_232_Imakiire.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.202",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/hinata_coffee/n/n296d989ff4c1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gsi.go.jp/common/000233835.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aeha.or.jp/assessment/kz/htm/rei/rei00.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prc.nao.ac.jp/publication/NAOJnews/NN0189/OEBPS/text/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://warp.ndl.go.jp/web/20210703201216/www.data.jma.go.jp/suishin/oshirase/pdf/20190107.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tsukuba.repo.nii.ac.jp/record/2015284/files/SR_93-348.pdf",
+    "status": "http_406",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1407.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nict.go.jp/publication/shuppan/kihou-journal/houkoku69-1/index.html?pNo=88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chiringi.or.jp/k_library/survey/h14survey_ippan/h1400703.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25158659/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evalacademy.com/articles/part-2-how-do-you-present-triangulated-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medcraveonline.com/JABB/application-of-triangulation-in-qualitative-research.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.betterevaluation.org/methods-approaches/methods/triangulation",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） site:note.com",
+   "results": [
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "https://note.com/cognova_founder/n/na15f1497aac0",
+    "https://note.com/k314y/n/n4878d6bd440f",
+    "https://note.com/curiosity_wint/n/n8e44c87bf98e",
+    "https://note.com/sou_devnotes/n/n7cb245b7d741",
+    "https://note.com/sou_devnotes/n/n2f4082999ff8",
+    "https://note.com/deft_willet5238/n/ne2d515b6a336",
+    "https://note.com/clean_fox6473/n/nb62d96489319"
+   ]
+  },
+  {
+   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） note",
+   "results": [
+    "https://note.com/hidetoshi_h_/n/nc18eaa9c476e",
+    "https://www.gsi.go.jp/common/000258639.pdf",
+    "https://www.ndl.go.jp/math/s1/c7.html",
+    "https://www.histeq.jp/kaishi_29/HE29_227_232_Imakiire.pdf",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.202",
+    "https://note.com/hinata_coffee/n/n296d989ff4c1",
+    "https://japonyol.net/editor/article/triangulation-sagamino-baseline.html",
+    "https://www.daiwakoei.co.jp/wp-content/uploads/2021/09/sankaku-NO08.pdf",
+    "https://www.chiseki.go.jp/info/pdf/unyoukizyun_unnyoukaisetu.pdf",
+    "https://x.com/Nhazama/status/2102355298396598302"
+   ]
+  },
+  {
+   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） やり方",
+   "results": [
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.202",
+    "https://www.aeha.or.jp/assessment/kz/htm/rei/rei00.htm",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://prc.nao.ac.jp/publication/NAOJnews/NN0189/OEBPS/text/index.html",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "https://www.gispri.or.jp/_old_www.gispri.or.jp////////kenkyu/kenkyu3.html",
+    "https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/5525/1/JCG272(1-4).pdf",
+    "https://scholarcompass.net/columns/184"
+   ]
+  },
+  {
+   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） 事例",
+   "results": [
+    "https://rde.ac/DOIx.php?id=10.5395/rde.202",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://warp.ndl.go.jp/web/20210703201216/www.data.jma.go.jp/suishin/oshirase/pdf/20190107.pdf",
+    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
+    "https://tsukuba.repo.nii.ac.jp/record/2015284/files/SR_93-348.pdf",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/1407.pdf",
+    "https://www.nict.go.jp/publication/shuppan/kihou-journal/houkoku69-1/index.html?pNo=88",
+    "https://www.chiringi.or.jp/k_library/survey/h14survey_ippan/h1400703.htm",
+    "https://scholarcompass.net/columns/184"
+   ]
+  },
+  {
+   "query": "source triangulation matrix independence scoring",
+   "results": [
+    "https://pubmed.ncbi.nlm.nih.gov/25158659/",
+    "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "https://www.evalacademy.com/articles/part-2-how-do-you-present-triangulated-data",
+    "https://manuelgarcia.info/guides/research/guide/triangulation-case-study-research",
+    "https://medcraveonline.com/JABB/application-of-triangulation-in-qualitative-research.html",
+    "https://www.betterevaluation.org/methods-approaches/methods/triangulation",
+    "https://www.scribbr.com/methodology/triangulation/",
+    "https://www.researchprospect.com/triangulation/",
+    "https://github.com/iamstefanp/superbasic-research/blob/main/standards/triangulation-mapping-guide.md",
+    "https://abstractopedia.org/mechanisms/source_triangulation_matrix/"
+   ]
+  },
+  {
+   "query": "site:note.com 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）",
+   "results": [
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "https://note.com/cognova_founder/n/na15f1497aac0",
+    "https://note.com/k314y/n/n4878d6bd440f",
+    "https://note.com/curiosity_wint/n/n8e44c87bf98e",
+    "https://note.com/sou_devnotes/n/n2f4082999ff8",
+    "https://note.com/sou_devnotes/n/n7cb245b7d741",
+    "https://note.com/deft_willet5238/n/ne2d515b6a336",
+    "https://note.com/clean_fox6473/n/nb62d96489319"
+   ]
+  },
+  {
+   "query": "site:x.com 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）",
+   "results": [
+    "https://x.com/Nhazama/status/2102355298396598302",
+    "https://x.com/nayuta_office/status/2115670108685181438",
+    "https://x.com/spring_online1/status/2117829214045184172",
+    "https://x.com/nayuta_office/status/2107002948232323517",
+    "https://x.com/D_Dogshin/status/2066860113659666463",
+    "https://x.com/CoachPoten/status/2115942317639037136",
+    "https://x.com/Themiss12345/status/1799578281144193411"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）",
+   "results": [
+    "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
+    "https://www.linkedin.com/in/amashrabov",
+    "https://jp.linkedin.com/pulse/triangulating-data-dr-selena-fisk-htgpc?tl=ja",
+    "https://jp.linkedin.com/pulse/triangulation-migration-deception-detection-from-art-uddin-msc--gpmsc?tl=ja",
+    "https://jp.linkedin.com/pulse/when-leaders-get-pulled-middle-hidden-cost-renee-thompson-unhhe?tl=ja",
+    "https://jp.linkedin.com/pulse/trust-triangulation-cracking-code-llms-tim-andrews?tl=ja",
+    "https://jp.linkedin.com/pulse/why-media-auditing-falls-short-without-triangulation-dominois-y325e?tl=ja"
+   ]
+  },
+  {
+   "query": "site:facebook.com 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）",
+   "results": [
+    "https://www.facebook.com/media/set/?set=a.971729412937126",
+    "https://www.facebook.com/dreamn.official/photos/a.135700801306779/412822056927984/",
+    "https://www.facebook.com/media/set/?set=a.794514740658595",
+    "https://www.facebook.com/jsce.magazine/photos/ドボコンの土木用語no80-重力測量-gravity-survey重力を測定する測量であり標高のわかっている地点すなわち水準点三角点あるいは独立標高点等の上で行/2824317537810960/",
+    "https://www.facebook.com/100088965797623/posts/夏の夜空はるか遠い星までの距離も三角測量の原理で測られています地球の公転軌道の端から端まで約3億kmを三角形の底辺としてその各視準点から目標の星を観測した角度年/242539952054863/",
+    "https://www.facebook.com/hakodateburatanbou/posts/第２１７回八幡町大川町田家町巡りその４道南の地図は田家町の大称寺が基点-明治８年開拓使が三角測量で正確な北海道地図を作るため一本木村北斗市一本木と亀田村現函館市/931406549013492/",
+    "https://www.facebook.com/3beelf/videos/43歳のモロッコ人移民アブドゥラヒムファキールさんが警察の取り締まり中に亡くなり街全体が抗議の声で揺れているモロッコ人コミュニティや人権団体は独立した透明な調査/1106713625211975/"
+   ]
+  },
+  {
+   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） note 社長",
+   "results": [
+    "https://www.gsi.go.jp/common/000258639.pdf",
+    "https://note.com/hidetoshi_h_/n/nc18eaa9c476e",
+    "https://note.com/hinata_coffee/n/n296d989ff4c1",
+    "https://www.ndl.go.jp/math/s1/c7.html",
+    "https://www.histeq.jp/kaishi_29/HE29_227_232_Imakiire.pdf",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://www.mlit.go.jp/page/kanbo01_hy_000374.html",
+    "https://japonyol.net/editor/article/triangulation-sagamino-baseline.html",
+    "https://x.com/Nhazama/status/2102355298396598302"
+   ]
+  },
+  {
+   "query": "出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点） X 投稿",
+   "results": [
+    "https://www.gsi.go.jp/LAW/2930-meizi.html",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.202",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www.gispri.or.jp/_old_www.gispri.or.jp////////kenkyu/kenkyu3.html",
+    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
+    "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09=",
+    "https://repository.naro.go.jp/records/9734",
+    "https://prc.nao.ac.jp/publication/NAOJnews/NN0168/OEBPS/text/index.html",
+    "https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_article/-char/ja"
+   ]
+  },
+  {
+   "query": "source triangulation matrix independence scoring site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/dr-olivia-ochoo-oo-018995197_triangulation-and-corroboration-in-meal-activity-7503849335688785920-LVKp",
+    "https://www.linkedin.com/pulse/dear-oecd-only-takes-two-triangulate-steve-powell",
+    "https://pt.linkedin.com/in/elena-kolocharova",
+    "https://www.linkedin.com/posts/max-moorkamp-45724662_over-the-last-3-months-i-have-worked-on-replacing-activity-7506784093930426369-aUwG",
+    "https://ca.linkedin.com/in/ashishagupta",
+    "https://www.linkedin.com/in/swayambhoojain",
+    "https://www.linkedin.com/in/helenwgu",
+    "https://www.linkedin.com/posts/ediz-herkert-7579b914b_the-least-squares-method-is-a-well-known-activity-7393967835212836864-lE-O",
+    "https://www.linkedin.com/in/brendan-hoffman-02a70812",
+    "https://www.linkedin.com/in/zehao-shao-2077351a6"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-05T22:11:19.273762+00:00"
 }
