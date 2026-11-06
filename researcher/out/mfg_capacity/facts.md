@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・109品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・111品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5722,6 +5722,69 @@
 - 生産能力・設備：記載なし（読んだ22頁・検索18回）
 - 10年推移：記載なし（読んだ22頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ22頁・検索18回）
+
+## 生産動態統計年報 金型の生産金額・数量の年次（団体でないサイトの上限値を差し替える・金型の一次の系列・4-55）（METI yearbook of production dynamics statistics dies and molds annual production value）
+- 文脈：一次・金型
+- 痛み・損（深さの印）：記載なし（読んだ34頁・検索18回）
+- 事業所数・社数：記載なし（読んだ34頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ34頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ34頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ34頁・検索18回）
+- 生産能力・設備：記載なし（読んだ34頁・検索18回）
+- 10年推移：記載なし（読んだ34頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ34頁・検索18回）
+
+## 日本造船工業会・国土交通省の年ごとの新造船受注量（累計と年の切り分け・受注残と分けて・4-53）（Japan shipbuilders annual new orders volume gross tonnage yearly not cumulative）
+- 文脈：痛み・造船
+- 痛み・損（深さの印）：
+  - 「※ 船舶建造中に造船所が倒産等した場合に公的金融機関が発注者に前払金」（https://www.meti.go.jp/files/900016855.pdf）
+- 社員数・平均社員数：
+  - 「特定技能制度・育成就労制度による外国人材受入れ（育成就労制度は2027年4月運用開始）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「第２次安倍内閣リーマンショック人民元改革」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「従業員数7.7万人」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「従業員数4.9万人」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「従業員数9.4万人」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「３ 海事人材の確保・育成 2.5億円」（https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf）
+  - 「法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査」（https://www.e-stat.go.jp/stat-search/files?toukei=00600300）
+  - 「労働人口 70,149人（2023.4現在）」（https://www.meti.go.jp/files/900016855.pdf）
+  - 「◼ 韓国・中国の造船所は日本の造船所と比べて従業員数、敷地面積、生産量ともに１事業所の規模が大きい」（https://www.meti.go.jp/files/900016855.pdf）
+- 受注金額・加工賃収入：
+  - 「⚫ 令和7年度補正予算で1,200億円を措置」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官:3,800億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官民:2,800億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（民:3,500億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「1,200億円」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「120億円：～2030」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「約410億円の内数：2025～2030 （官民約270億円）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「150億円※１：～2026」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「生産設備整備支援 約960億円※２：2025～2029」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官民約2,510億円）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「国庫債務負担行為）として151億円を措置」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（6,094億円）」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「（1,976億円）」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「（533億円）」（https://www.mlit.go.jp/common/001353025.pdf）
+- 生産能力・設備：
+  - 「第3次産業活動能力・稼働率指数」（https://www.e-stat.go.jp/stat-search/files?toukei=00600300）
+- 10年推移：
+  - 「※2024年竣工船（隻数ベース）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 海上輸送量の増加や過去の大量に建造された船舶の代替需要等によって、 2030年代には8000万から１億総ト」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「ン規模まで建造需要が増加していくと各機関は予測」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「中国は2024年に世界の７割超」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「日本造船工業会予測： 第33回海事立国フォーラム 日本造船工業会講演資料（2024年2月）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「Clarksons予測： Clarkson Shipbuilding Forecast Club資料（2024年3月）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「OECD予測： Monitoring developments of ship demand and supply（2025年4月）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「日本のシェアは15-16%で推移してい」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「たが、2024年には８％に下落」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 中国は、2024年に世界の７割超の受注を行い、今後建造量の増加が見込まれ、市場支配力を強めている」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「2017 2018 2019 2020 2021 2022 2023 2024」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「日本造船所の建造量推移 日本船主の新造船発注量推移」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 他方で、2020年以降、日本造船所の建造能力はおおむね1,000万総トン前後の船舶しか建造しておらず、日本」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+- 事業所数・社数：記載なし（読んだ35頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ35頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ35頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

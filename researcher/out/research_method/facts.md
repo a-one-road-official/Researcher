@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・113品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・115品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2153,11 +2153,11 @@
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3777,7 +3777,7 @@
   - 「https://cdn.example.net/img/hp-guide.jpg」（https://mydatascraper.com/services/website-content-scraping/）
   - 「Tell us what data you need, where it lives, and how you want it delivered. Our team will design the extraction workflow around your use case.」（https://mydatascraper.com/services/website-content-scraping/）
   - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
 
 ## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
 - 文脈：
@@ -5722,7 +5722,7 @@
   - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
   - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
   - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
 - 文脈：出どころ
@@ -5855,6 +5855,8 @@
   - 「5.6 Resolution steps.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
   - 「. This methodology does not publish numeric matching thresholds: the rule above states which evidence is admissible, not a calibrated score. Collection and publication of personal data are additionally limited by privacy law.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
   - 「Source Reliability & Confidence Methodology」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
+- 突き合わせ・推定：
+  - 「Revenue and employee estimates」（https://zephira.ai/entity-resolution-without-fuzzy-matching-how-registry-identifiers-solve-the-duplicate-problem/）
 - 一次情報の探し方：
   - 「Filings such as annual reports, corporate bylaws, or statements of control.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
   - 「Secondary identifiers often come from filings or user forms. Their quality and consistency vary greatly.」（https://blog.opencorporates.com/2025/02/03/primary-vs-secondary-identifiers-for-entity-resolution/）
@@ -5889,7 +5891,8 @@
   - 「Example 1: two pension systems sharing a domain family (illustrative).」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
   - 「Example 2: a fund and its adviser.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
   - 「Example 3: a rename.」（https://altss.com/knowledge-center/frameworks/entity-resolution-methodology）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 検索結果の抜粋：
+  - 「Frequently Asked Questions - California Secretary of StateEntity Resolution Explained: Matching Company Records Across ...Entity Resolution Without Fuzzy Matching: How Registry ...Tracking Entity Name Changes Across State SOS DatabasesHow to Verify a Business Was Dissolved & Get ProofTrack Entity Name Changes Through SOS Records — A business entity can be formed in California online at bizfileOnli」（https://www.sos.ca.gov/business-programs/business-entities/faqs）
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
@@ -6897,3 +6900,169 @@
   - 「In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling」（https://arxiv.org/pdf/2404.05622）
   - 「of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be」（https://arxiv.org/pdf/2404.05622）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## ファクトチェック団体の検証記事の検索の使い方（FIJ ファクトチェック・ナビ・Google Fact Check Explorer）と、翻訳・要約で離れた文脈を一次と見比べる手順（fact check explorer how to use verify translated summarized claims against original source）
+- 文脈：手順・やり方
+- 手順・やり方：
+  - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「／ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「本記事では、コンテンツ制作に役立つファクトチェックのやり方、便利なサポートツールなどを紹介します」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックには、さまざまなステップや方法があります」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ここでは、具体的な方法を見ていきましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「LLMOモニタリングの手順と計測設計とは？【AI引用率を月次で追う実践ガイド】」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「AISoVスコアとは？AI検索での自社シェアを数値化する計測方法」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「SEOに強いタイトルの付け方！文字数の目安やクリック率を高める手順をわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「コンテンツSEOとは？コンテンツマーケティングとの違いや効果・やり方を事例で解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「Copilot（コパイロット）の使い方を分かりやすく解説！無料版の始め方からMicrosoft 365での活用事例まで」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「GA4（Googleアナリティクス4）とは？コンバージョン設定方法と基本的な見方をわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックのやり方完全ガイド｜基本手順からAI活用まで解説 | iTSCOM for Business」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「AI・ツールを活用したファクトチェックの実践方法」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「本記事では、ファクトチェックの基本的な考え方から、公的機関や一次情報を用いた確認手順、複数メディアでのクロスチェック方法までを詳しく解説します」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+- 突き合わせ・推定：
+  - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「Fact Check ExplorerはGoogleが提供する、世界中のファクトチェック機関による検証記事を検索できるツールです」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「言語を選んで検索できることから、国内はもちろん国際的な情報を検証する際も便利です」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「記事の中では、取り上げられているトピックの正誤判定や検証結果を確認できます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「本記事では、ファクトチェックの基本的な考え方から、公的機関や一次情報を用いた確認手順、複数メディアでのクロスチェック方法までを詳しく解説します」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「ファクトチェックとは、社会に広がっている情報や言説が事実に基づいているかを調べ、その検証プロセスを記事化して正確な情報を人々と共有する営みです」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「単なる情報確認ではなく、客観的な証拠に基づいて真実性・正確性を検証し、その結果を発表することが本質です」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「重要なのは「事実」を検証する点で、個人の価値観に基づく意見や評価は基本的に対象としません」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「情報源の確認、複数ソースの照合、事実と意見の区別、検証ラベルの理解」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「ここでは、公式発表との照合から、一次情報の確認、複数ソースでのクロスチェック、そして事実と意見を見分けるポイントまで、実務でそのまま使える基本的なファクトチェックのやり方を分かりやすく解説します」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「情報源を確認する（公的機関・公式発表との照合）」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「政策、法律、統計、災害、健康、経済などの分野では、国や自治体、国際機関、企業の公式発表と照合することが重要」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「複数メディア・複数ソースでクロスチェックする方法」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「信頼性を高めるためには、複数のメディアや情報源を比較し、内容に一貫性があるかを確認するクロスチェックが欠かせません」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+- 一次情報の探し方：
+  - 「公的機関や報道機関が発信している情報と照らし合わせてみましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「政府や官公庁、地方自治体、国内外の研究機関、学術論文データベース、公的な国際機関など」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックをする上で欠かせないのが、「一次情報」の存在です」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「一次情報とは、自分が直接したり、調査したりした情報を指します」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「具体的には、以下のようなものが一次情報に分類されます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックをする際は、可能な限り一次情報を参考にしましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「「一次情報を元にしているコンテンツ＝正しい情報」とは限らない」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「一次情報が組み込まれていても、作為的な「切り取り」がされていたり、ないはずの情報が加えられたりといったケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「そのため、一次情報そのものとしっかり見比べて真意を確認するようにしましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「統計データや事件・事故の続報、進行中の出来事など状況が変化しやすい事象は、調査を繰り返す過程で記録が変わっている可能性もあります」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「本記事では、ファクトチェックの基本的な考え方から、公的機関や一次情報を用いた確認手順、複数メディアでのクロスチェック方法までを詳しく解説します」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「ここでは、公式発表との照合から、一次情報の確認、複数ソースでのクロスチェック、そして事実と意見を見分けるポイントまで、実務でそのまま使える基本的なファクトチェックのやり方を分かりやすく解説します」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「情報源を確認する（公的機関・公式発表との照合）」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「政策、法律、統計、災害、健康、経済などの分野では、国や自治体、国際機関、企業の公式発表と照合することが重要」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+- 失敗・落とし穴：
+  - 「不確かな情報を発信しないように注意し、常に正しい情報を発信する」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「注意すべきは、」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「なお、ここで注意したいのが」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ここでは、キーワードを入力すると「誤り」「不正確」といった判定と一緒に、関連記事を見ることができます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「発言の一部を切り取り、発言した本人の意図と異なる印象を与えるようなニュースや動画にはとくに注意しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「キーワードを入力すると、その情報の正確性を「誤り」「不正確」などの基準で判定してくれます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ただし、現時点では日本の情報環境に特化している点には注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「また、信頼できそうな記事であっても、情報源が明示されていない場合は注意が必要です」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「AI・ツールを使う際の注意点と信頼性判断のポイント」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「存在しない情報源を示したり、事実と異なる内容を提示したりする場合があることに注意が必要です」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「AIやツールを使えば、文章内の数値や表現を学習済みデータや外部ソースをもとに、誤りや不整合の可能性がある箇所を自動で提示できます」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「ただし、AIの指摘は「誤りの可能性」を示すものに過ぎないため、最終的な表現判断は人が行う必要があります」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「ChatGPT・Grok・Geminiなどのツールや専用サービスを活用すれば効率化できますが、AIの出力を鵜呑みにせず必ずダブルチェックを行いましょう」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
+  - 「これを怠り内容に誤りがあると見なされてしまうと、読み手の信頼を失うだけでなく、Googleに記事として内容が不十分だと認識され、上位表示されにくくなります」（https://simplique.jp/fact-checking/）
+- 実例：
+  - 「近年、インターネットの発展により多様な情報にアクセスしやすくなった一方、中には誤った情報が紛れているケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「実際、悪意のある偽情報や、差別を助長しかねないプロパガンダ（政治的宣伝）は急増しており、一般ユーザーが知らないうちに情報操作されているケースも見られます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「著名人や政治家の画像を使って、あたかも本人が話しているような映像が配信された事例もありました」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「新聞や雑誌、テレビなどのマスコミでは、制作側があらかじめファクトチェックを施すケースがほとんどです」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「一方で、個人が発信するSNSやブログ、クチコミサイトなどではそのようなチェック体制が整っていないケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「一次情報が組み込まれていても、作為的な「切り取り」がされていたり、ないはずの情報が加えられたりといったケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックのためのリソースがない、情報の真意を確かめるスキルがない、というケースもあるでしょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「例えば、非営利団体「FIJ」では「ファクトチェック・ナビ」というサービスを提供しています」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「情報の中には引用や要約、翻訳の過程で元の文脈から内容が大きく乖離してしまうケースが少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「国内外のファクトチェック事例や、メディアリテラシーに関する情報を収集・公開しています」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「ファクトチェックの結果を確認できる記事もあるので、トレンドになっている情報の正確性を確認する際に活用しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「記事の中では、取り上げられているトピックの正誤判定や検証結果を確認できます」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「製造業のLLMO対策事例｜AI検索で引き合いを増やした具体的な施策」（https://fungry.co.jp/cnaps/blog/fact-check/）
+
+## 名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲）（reversible entity merge audit log identifier provenance scope entity resolution）
+- 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「ここに生成AIを組み込めれば、調査の進め方をかなり変えられるかもしれません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「まずは、そのような制御しやすい使い方から始めたいと考えています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「スタンフォード大学等の研究チームは、検索結果を参照して回答を生成するRAG型の法律調査ツールを評価し、研究時点の対象システムで17〜33％のハルシネーションを報告しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「私としては、取得方法やアクセス頻度を決める手順と、集めた文章・図をチャートにどのように掲載するかを確認する手順を、別々に設けたいと思います」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「## 0. 使い方」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「材料・組成（MATERIAL）／工程（STEP）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- クレームカテゴリ（物／方法／プログラム／システム／製造方法）を判定し、方法クレームの場合は」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 方法クレームの実施主体の仮置きが実態と合うか」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 特許法101条（間接侵害）の検討に必要な材料：クレームの物・方法の「生産にのみ用いる物」」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「各要件の機能・方法・結果を明細書の記載から整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 方法クレームの分割実施（divided infringement, Akamai）の可能性がある場合、指揮・管理の関係が」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「3. 規格・認証・型番の手がかり（該当し得る規格名、認証マーク、チップの型番、インタフェース名）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「1. 要件ごとの語彙表（下位概念／業界用語／規格・型番の手がかり／機能の見え方／反対証拠の表現）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+- 突き合わせ・推定：
+  - 「侵害・非侵害を言い切るAIではなく、候補製品と根拠資料を集め、専門家が検証できるクレームチャートをつくる仕組み」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「今回の調査報告では、これを「クレーム解釈」、「候補発見」、「証拠収集」、「チャート起案」、「人による検証」の5工程に分けて整理しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「2．技術的なポイントは、分解・検索・引用検証の3つ」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「したがって、検証は二段階に分けたいと思います」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「クレーム解釈 → 候補発見 → 収集・保全 → 索引・検索 → 要素対比 → 引用検証 → 人のレビュー」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「これはベンダーによる機能説明であり、今回こちらで精度を検証した結果ではありません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「※本稿は文献・公開情報に基づく設計検討であり、実運用での精度や工数削減を検証した報告ではありません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「P5 証拠箇所抽出 ─▶ P6 要素充足判定 ─▶ P7 グラウンディング検証 ─▶ P8 複数ジャッジ統合」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「`{{OUTPUT_MODE}}=json` とし、付録AのJSONスキーマで構造化出力（またはスキーマ検証）を行う」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 引用の機械検証（付録E）を P5・P6 の直後に必ず挟む」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- §112(f) の推定（"means for" は推定あり、"configured to" 等は構造を示す語かどうか）を要件ごとに」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「クエリは事実の主張ではなく探索のための仮説である」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「**機械検証（必須）**：出力された各 `quote` が `DOC_TEXT` 内に（空白・改行の正規化後に）存在することをコードで確認する（付録E）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「判定と抽出を分けることで、判定モデルが原文を「読み違える」余地を減らし、引用の機械検証を可能にする」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+- 一次情報の探し方：
+  - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「「Web上の製品情報を生成AIで調べれば、自社の特許が使われている可能性のある製品を見つけられるのではないか？」」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「こうした公開情報を集め、特許の請求項と比較し、対応する記載を整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「EoU調査では、対象特許のクレームを読み、候補製品を探し、資料を収集し、構成要件ごとに製品との対応関係を整理します」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「特許と製品資料を丸ごと渡して「侵害していますか」と聞くよりも、構成要件ごとに必要な証拠を探し、それぞれの対応を確認する形を基本にしたいと考えました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 位置づけ：「生成AIによる特許EoU調査システム — 情報収集報告」（2026年9月17日）の第3章「参照アーキテクチャ（7層）」のうち、LLMが担う工程を実行するためのプロンプト群」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 対応法域：日本特許・米国特許（変数 `{{JURISDICTION}}` で切替）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「PDFはテキスト化してから貼る（報告書3.4節：表・図の構造が崩れると検索・判定精度が落ちるため、表はMarkdown表として保持する）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「** 対象特許の選定理由、ターゲット企業リスト、権利行使方針は原則プロンプトに含めない」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「3. **逐語引用のない判定は採用しない」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「あなたは特許のEoU（Evidence of Use）調査を支援する分析アシスタントです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「【対象法域】{{JURISDICTION}}（JP: 日本特許 / US: 米国特許 / BOTH: 両方）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+- 失敗・落とし穴：
+  - 「これらは調査報告でも、分解・検索・判定を通じて注意すべき点として整理しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「生成AIの誤りというと、存在しない文献やURLをつくることを想像しがちです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「この役割分担を、注意書きではなく、検索・引用・保全・承認の仕組みとして実装する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「(g) 検索・判定時の注意（例：マーケティング資料では別名で呼ばれる可能性、数値は仕様表を見る等）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「2. 構成要件一覧（要件ID／原文／分解後の記述／種別／依存要件／否定・限定語／機能的表現／検索・判定時の注意）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「存在しない抜粋は破棄し、当該要件を再抽出するか「抽出失敗」として記録する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「表・図は構造を保持して渡す（表構造の不一致が検索失敗の7割）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「**実行上の注意**：P6とは別のセッション（可能なら別モデル）で実行する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「"required": ["bias_assessment", "changed_elements"],」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「"bias_assessment": { "type": "string" },」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「検証に失敗した引用は、まず抽出テキスト側の問題（改行位置、表の展開）を疑い、原文PDFで人が確認する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「| 要件ID | 原文 | 種別 | 依存 | 否定・限定語 | 機能的表現 | 検索・判定時の注意 |」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「| 1D | 前記筐体の装着状態を検出するセンサと、 | STRUCTURE/FUNCTION | 1A | — | はい | 「装着検出」「着脱検知」「近接センサー」「光学センサー」等の別名に注意 |」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+- 実例：
+  - 「今回は、導入後の成功事例ではなく、研究やサービスの公開情報をもとに、「どの工程に使えそうか」、「どのような仕組みなら実務に載せられそうか」を考えたものです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「「そのセンサーの検出結果に基づいて制御する」という限定なら、センサーの存在と制御機能の存在だけでなく、両者の関係も確認する必要があります」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「検索エージェントを評価するBrowseComp-Plusの研究でも、同じLLMに組み合わせる検索器を変えることで、結果が大きく変わる例が報告されています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「例えば、クレームの抽象的な用語をそのまま検索するだけでなく、「メーカーなら、この機能をどう説明するか」を考えて検索語をつくるイメージです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「スタンフォード大学等の研究チームは、検索結果を参照して回答を生成するRAG型の法律調査ツールを評価し、研究時点の対象システムで17〜33％のハルシネーションを報告しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「実務上の表示は、例えば次のようにしたいと考えています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「例えばPatlyticsの公式資料では、公開情報や製品文書を探索し、構成要件単位のクレームチャートを作成する機能、証拠のスナップショット保存、Word・Excelへの出力などが紹介されています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「これはベンダーによる機能説明であり、今回こちらで精度を検証した結果ではありません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「個別に検討し、検討結果を明記する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「分解結果はP3〜P10のすべてで参照されるため、G1で人が確定させてから先に進む」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「各要件の機能・方法・結果を明細書の記載から整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- **チャット（手動）**：弁理士が検索結果や候補ページの本文を貼り、同じシステムプロンプトで整理させる」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「私が検索結果やページ本文を貼りますので、」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「判定の手順（要件ごとに必ずこの順で検討し、検討結果を出力する）：」（https://note.com/tsunobuchi/n/nb8ca80cd6249）

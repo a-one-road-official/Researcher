@@ -8,7 +8,7 @@
  ],
  "context": "定義の点検",
  "kind": "market",
- "researched_at": "2026-11-06T06:58:46.229900+00:00",
+ "researched_at": "2026-11-06T11:22:12.283191+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -54,32 +54,12 @@
     "method": "http"
    },
    {
-    "url": "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://instant.engineer/entry/sampling-inspection",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.onoff.ne.jp/blog/?p=14424&doing_wp_cron=1793948372.9956789016723632812500",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://takuminotie.com/blog/2021/04/19/post-19152/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://sangyo-tech.jp/columns/what-is-full-inspection/",
+    "url": "https://www.onoff.ne.jp/blog/?p=14424",
     "status": "ok",
     "method": "http"
    },
@@ -94,19 +74,19 @@
     "method": "pdf"
    },
    {
-    "url": "https://bioinsight.co.jp/reference/reference04/543/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://training.nielseniq.com/wp-content/uploads/sites/4/2021/02/what-tools-can-i-use-to-understand-my-coverage.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.cpgdatainsights.com/measure-sales/shipments-vs-retailsales/",
+    "url": "https://sangyo-tech.jp/columns/what-is-full-inspection/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2019/0130/shiryo_07.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.census.gov/foreign-trade/guide/sec2.html",
@@ -114,17 +94,27 @@
     "method": "http"
    },
    {
-    "url": "https://www.ocean.io/glossary/sales-coverage",
+    "url": "https://www.salesforce.com/sales/performance-management/sales-kpis/?bc=OTH",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://learn.microsoft.com/en-us/dynamics365/supply-chain/master-planning/coverage-settings",
+    "url": "https://learn.g2.com/sales-terms",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.alexandergroup.com/insights/sales-compensation-careful-about-that-threshold/",
+    "url": "https://blog.hubspot.com/sales/sales-pipeline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/default-reports/sales-report",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://deltasalesapp.com/blog/what-is-sales-coverage-and-how-can-companies-measure-it",
     "status": "ok",
     "method": "http"
    }
@@ -149,10 +139,10 @@
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
     "https://note.com/kenko2024/n/na7db5c406f98",
     "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
     "https://instant.engineer/entry/sampling-inspection",
     "https://www.onoff.ne.jp/blog/?p=14424",
-    "https://takuminotie.com/blog/2021/04/19/post-19152/"
+    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
+    "https://www.soumu.go.jp/main_content/000596373.pdf"
    ]
   },
   {
@@ -161,10 +151,10 @@
     "https://www.onoff.ne.jp/blog/?p=14424",
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
     "https://instant.engineer/entry/sampling-inspection",
-    "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
     "https://sangyo-tech.jp/columns/what-is-full-inspection/",
-    "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
-    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html"
+    "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
+    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf"
    ]
   },
   {
@@ -174,21 +164,21 @@
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
     "https://www.onoff.ne.jp/blog/?p=14424",
     "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
-    "https://sangyo-tech.jp/columns/what-is-full-inspection/",
     "https://www.soumu.go.jp/main_content/000596373.pdf",
-    "https://bioinsight.co.jp/reference/reference04/543/"
+    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2019/0130/shiryo_07.pdf"
    ]
   },
   {
    "query": "checking statistical definitions coverage threshold member-only shipment vs sales",
    "results": [
-    "https://training.nielseniq.com/wp-content/uploads/sites/4/2021/02/what-tools-can-i-use-to-understand-my-coverage.pdf",
-    "https://www.cpgdatainsights.com/measure-sales/shipments-vs-retailsales/",
     "https://www.census.gov/foreign-trade/guide/sec2.html",
-    "https://www.ocean.io/glossary/sales-coverage",
-    "https://learn.microsoft.com/en-us/dynamics365/supply-chain/master-planning/coverage-settings",
-    "https://www.alexandergroup.com/insights/sales-compensation-careful-about-that-threshold/",
-    "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-772/section-772.1"
+    "https://www.salesforce.com/sales/performance-management/sales-kpis/",
+    "https://learn.g2.com/sales-terms",
+    "https://blog.hubspot.com/sales/sales-pipeline",
+    "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/default-reports/sales-report",
+    "https://deltasalesapp.com/blog/what-is-sales-coverage-and-how-can-companies-measure-it",
+    "https://www.cbp.gov/trade/rulings/informed-compliance-publications"
    ]
   },
   {
@@ -198,20 +188,20 @@
     "https://note.com/kenko2024/n/na7db5c406f98",
     "https://note.com/makememo/n/n7ae565d6e7f0",
     "https://note.com/statistics_ai/n/n205349f6d99d",
-    "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
     "https://note.com/paguinu/n/n175e4c9bea71",
+    "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
     "https://note.com/roselite/n/nda0bcd852d3e"
    ]
   },
   {
    "query": "site:x.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
    "results": [
-    "https://x.com/Sakura_Med_DSci/status/2117084361283760618",
     "https://x.com/bot_kanazawa/status/2102382783327072664",
-    "https://x.com/tokuyobi/status/2060647415372259783",
+    "https://x.com/Sakura_Med_DSci/status/2117084361283760618",
     "https://x.com/Gustav_Mononobe/status/2112725020472680713",
+    "https://x.com/tokuyobi/status/2060647415372259783",
     "https://x.com/makoto1688/status/1998967163785457900",
-    "https://x.com/tru_isct/status/2083915567153770905",
+    "https://x.com/bot_kanazawa/status/2036775114419658946",
     "https://x.com/socius_time"
    ]
   },
@@ -222,9 +212,9 @@
     "https://jp.linkedin.com/pulse/statistical-sampling-market-research-what-its-types-?tl=ja",
     "https://www.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7269624851126988800-WZ_c",
     "https://www.linkedin.com/posts/shokamura_近況報告-english-follows-japanese-実務教育研究所-activity-7357251360871903232-BIC0",
+    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3371063",
     "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3369083",
-    "https://jp.linkedin.com/pulse/wat-statistics-why-important-digital-elearning?tl=ja",
-    "https://jp.linkedin.com/pulse/why-statistics-terminology-especially-confusing-karen-grace-martin-3dfrc?tl=ja"
+    "https://jp.linkedin.com/pulse/wat-statistics-why-important-digital-elearning?tl=ja"
    ]
   },
   {
@@ -236,7 +226,7 @@
     "https://www.facebook.com/reel/2149036295858466/",
     "https://www.facebook.com/chiikiokoshikyouryokutai/posts/農林水産省からのお知らせ農林水産統計調査-専門調査員を知っていますか農林水産省大臣官房統計部では実施する一部の統計調査において一般の方を専門調査員として任命雇用/1103569168476743/",
     "https://www.facebook.com/smb.ricoh.co.jp/photos/新しいコラムを公開しました大量のアンケート結果やsnsの投稿から有益な情報を抽出したいそんなお悩みを解決するのがテキストマイニング-ですテキストマイニングは膨大/1287124113449998/",
-    "https://www.facebook.com/JAISA.JAPAN/posts/自動認識市場調査報告自動認識システム関連製品の2024年出荷数量出荷金額2025年出荷数量予測出荷金額予測をまとめた自動認識市場調査報告書が完成しました順次会員/1112444967589826/"
+    "https://www.facebook.com/uedareikoyonaoshi/videos/本日経済港湾委員会本日は来る事務事業質疑各局事業の総括点検に向けて当局から説明を聞き資料要求をしますことに産業労働局は都政屈指の事業数の多さを誇り千を超えます昨/1101317146159466/"
    ]
   },
   {
@@ -245,9 +235,9 @@
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
     "https://note.com/kenko2024/n/na7db5c406f98",
     "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
-    "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
+    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
     "https://www.soumu.go.jp/main_content/000596373.pdf",
+    "https://aso-verse.com/magazine/ai-data-analysis-ai0638",
     "https://www.onoff.ne.jp/blog/?p=14424"
    ]
   },
@@ -257,33 +247,33 @@
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
     "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
     "https://www.onoff.ne.jp/blog/?p=14424",
-    "https://instant.engineer/entry/sampling-inspection",
     "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
-    "https://www.soumu.go.jp/main_content/000596373.pdf",
-    "https://aso-verse.com/magazine/ai-data-analysis-ai0638"
+    "https://instant.engineer/entry/sampling-inspection",
+    "https://account.adobe.com/?lang=ja",
+    "https://www.soumu.go.jp/main_content/000596373.pdf"
    ]
   },
   {
    "query": "checking statistical definitions coverage threshold member-only shipment vs sales site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/pipeline-coverage-what-right-value-your-reps-andteams-zacharia-cpa-wbsnc",
     "https://www.linkedin.com/pulse/secret-sales-superpower-maximizing-quality-pipeline-gropper-kaufman-u6b9c/",
+    "https://www.linkedin.com/pulse/analyzing-sales-coverage-maps-espatial",
     "https://business.linkedin.com/sell/resources/sales-terms",
     "https://business.linkedin.com/sales-solutions/resources/sales-pipeline-definition-and-stages",
     "https://www.linkedin.com/top-content/sales/sales-planning/sales-coverage-planning-tips/",
-    "https://www.linkedin.com/advice/0/how-do-you-optimize-sales-coverage-efficiency",
-    "https://in.linkedin.com/in/someshbhatt"
+    "https://www.linkedin.com/pulse/how-calculate-pipeline-coverage-formula-2026-sales-teams-filipowski-eerbf",
+    "https://www.linkedin.com/pulse/how-risk-adjust-your-pipeline-coverage-ratio-because-sales-sullivan-s35se"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ23頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ23頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ23頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）",
-  "実例": "記載なし（読んだ23頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ21頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ21頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ21頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ21頁・検索12回）",
+  "実例": "記載なし（読んだ21頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-05T05:36:39.709245+00:00"
 }
