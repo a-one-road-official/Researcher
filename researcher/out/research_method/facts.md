@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・122品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・125品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1492,6 +1492,11 @@
 ## AIリサーチの出典・反証・不確実性の管理（重要主張からの検証）（verify AI research claims sources counterevidence uncertainty）
 - 文脈：裏取り
 - 手順・やり方：
+  - 「AIで市場調査をする方法：情報を集め、出典付きレポートにまとめる」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「4. 既存の対処方法と残る疑問」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「許可された資料を自分で渡す方法もありますが、その場合は「渡した資料の分析」です」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「では、ノート型は担当者や期限を別途管理する必要があり、チケット型は会議中にチケット間を移動する手間がある、という違いが説明されています」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「今回、別の通常の公開ページ取得方法で原文を読めたものは、内容を照合しました」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「通常検索・エージェント型検索・Deep Research・ファイル検索を使い分ける」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「現在の主要AIサービスには、最新Web情報を取得する検索、複数の検索を自律的に進めるエージェント型検索、長時間の調査と統合を行うDeep Research、アップロード資料から関連箇所を検索するファイル検索・RAGなどがあります」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「では、適切な方法が異なります」（https://note.com/gtminami/n/n5d18b36d3acc）
@@ -1502,28 +1507,25 @@
   - 「Deep Researchは、複数ステップの探索、情報源の評価、質問の改善、結果の統合をまとめて進める用途に向いています」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「一方、効果はタスク、利用者、利用方法、評価指標によって異なります」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「通常検索・エージェント型検索・Deep Research・ファイル検索を使い分けられる」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「AI成果を、モデル、要件、情報、実行方法、評価、権限から捉える基本構造を整理しています」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「法務・税務・労務などの高リスク業務で、複数AI、公式資料、専門家確認を組み合わせ、回答品質を高める方法を整理しています」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「学会発表前の引用ネットワーク調査｜先行研究・反証・撤回を確認する手順 | DeskrexAIリサーチ」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「学会発表前の引用ネットワーク調査｜先行研究・反証・撤回を確認する手順」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「そして、主張ごとに採用する引用、保留する主張、提出前や登壇前に更新する再検索条件を適切に決める手順を解説します」（https://media.deskrex.ai/case-citation-research-2026/）
 - 突き合わせ・推定：
+  - 「もっともらしい製品アイデアを、検証済みの需要として扱わない」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「調査は公開資料による探索的な調査であり、代表性のあるアンケート、市場規模の推計、製品の推奨ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「少数の投稿だけで市場規模は推計できないため」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「調査によって当初の仮説が弱まる余地を残すため」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「これは公開情報による調査で、統計的な市場規模の推計ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「5. 事実と仮説を分けた結論」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「リンクが開くことだけでなく、原文が主張を支えているか照合してください」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「12件の出典は、検証済みの利用事例が12件あるという意味ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「編集時に元ページを別途取得し、AIとツールでこの記述を照合しました」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「今回、別の通常の公開ページ取得方法で原文を読めたものは、内容を照合しました」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「未取得の原文、対象者の情報不足、古い資料、矛盾する情報」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「出典ID、日付、不明点、結論を原版と照合する」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「企業の公式発表を、第三者が検証した市場評価のように扱っていた」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「AI活用成熟度のフェーズ4では、問い、前提、仮説、代替案、判断基準を整理しました」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「フェーズ5では、その判断に使う情報が本当に信頼できるのかを検証します」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「フェーズ5｜調査・検証・信頼性管理」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「将来予測は、確認済み事実ではなく仮説です」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「ただし、出力は最終成果物ではなく、重要主張を検証するための調査下書きとして扱います」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「文章をそのまま検証せず、重要主張へ分解する」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「記事や提案の全文章を、同じ密度で検証する必要はありません」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「文章を`FACT`と分類しただけでは、検証は完了していません」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「以下の文章を、検証可能な主張単位へ分解してください」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「は、第三者情報や独立した検証も必要です」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「自分の仮説を支持する情報は見つけやすいものです」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「矛盾は、どちらかが間違いとは限りません」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「情報が矛盾したときは、平均を取らず、違いの原因を調べる」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「矛盾の原因には、次があります」（https://note.com/gtminami/n/n5d18b36d3acc）
 - 一次情報の探し方：
+  - 「これは公開情報による調査で、統計的な市場規模の推計ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「読みやすい要約だけが返ってきたら、結論を採用する前に出典表を求めます」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「AIが情報を提示したことと、人間がその情報を判断材料として採用したことは分けます」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「引用先が一次情報か、別資料の要約か」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「しかし、実際にFACTとして採用するには、」（https://note.com/gtminami/n/n5d18b36d3acc）
@@ -1537,9 +1539,9 @@
   - 「AIによって調査を速くしながら、何を根拠として採用したかを説明できる状態を作ることです」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「そして、主張ごとに採用する引用、保留する主張、提出前や登壇前に更新する再検索条件を適切に決める手順を解説します」（https://media.deskrex.ai/case-citation-research-2026/）
   - 「また、契約外の論文PDFを丸ごと送信することは避け、公開されているメタデータや許諾範囲内の抜粋テキストのみを利用します」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「これらの情報および利用許諾のあるオープンアクセス論文のPDFや抜粋テキストを、Gemini APIの」（https://media.deskrex.ai/case-citation-research-2026/）
-  - 「なお、処理の過程でFiles APIへアップロードしたPDFなどのファイルは、利用者が明示的に削除する運用を組み込みます」（https://media.deskrex.ai/case-citation-research-2026/）
 - 失敗・落とし穴：
+  - 「一人の実務者による運用の考え方を示す資料であり、人数とオンライン会議の利用を確認できる小規模チームの最近の失敗事例ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「一方、一度取得に失敗したからといって、その情報が誤りだとは限りません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「矛盾は、どちらかが間違いとは限りません」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「AI時代には、仮説を速く作ることだけでなく、間違いに気づき、現実に合わせて修正する速度が重要であることを扱っています」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「この整理において最も注意すべきは、引用関係があるという事実を「元の研究への支持」と同一視してはいけない点です」（https://media.deskrex.ai/case-citation-research-2026/）
@@ -1553,24 +1555,22 @@
   - 「深い研究は、いきなり deep にすると高確率で失敗します」（https://note.com/tasty_dunlin998/n/nef86167fa436）
   - 「失敗1：質問が広すぎて、調査が散る」（https://note.com/tasty_dunlin998/n/nef86167fa436）
   - 「失敗2：出典はあるが、単一ソース依存になる」（https://note.com/tasty_dunlin998/n/nef86167fa436）
-  - 「失敗3：それっぽい文章で、検証不能になる」（https://note.com/tasty_dunlin998/n/nef86167fa436）
-  - 「再現可能な調査には、各段階の入力、出力、失敗条件、レビュー担当者が必要です」（https://openmax.com/ja-JP/resources/guides/ai-powered-research-assistant）
 - 実例：
+  - 「レポートは実際の生成結果を基に要約・言い換えした編集版で、未編集の出力ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「ロシア語・英語の結果は同じ調査の翻訳で、各市場の独立調査ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「誰の、どの仕事の、どの段階を調べ、結果を何の判断に使うかを決めます」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「12件の出典は、検証済みの利用事例が12件あるという意味ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「一人の実務者による運用の考え方を示す資料であり、人数とオンライン会議の利用を確認できる小規模チームの最近の失敗事例ではありません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「これは日付のある提供企業の発表として扱い、現在のOtterの全機能を調べた結果とはしていません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「否定的な結果や結論保留でも、確認範囲と未解決事項が分かれば成果物になります」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「ロシア語の成果物も日本語・英語の資料に基づいているため、ロシアの利用者を調査した結果とは説明できません」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
+  - 「URL数ではなく、重複を除いた独立性と関連性のある事例を数える」（https://ofox.ai/ja/blog/ai-market-research-sourced-report/）
   - 「AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「AIの調査結果を、どこまで信じてよいのか？出典・反証・不確実性を管理する基本設計」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「重要なのは、検索結果を大量に集めることでも、参考文献の数を増やすことでもありません」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「調査結果を誰が何に使うかで、確認密度を変える」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「ただし、検索結果の要約やスニペットだけで確定せず、最終的には該当ページを開きます」（https://note.com/gtminami/n/n5d18b36d3acc）
   - 「エージェント型検索では、AIが検索結果を読み、」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「Deep Researchは、複数ステップの探索、情報源の評価、質問の改善、結果の統合をまとめて進める用途に向いています」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「回答が検索結果ではなく、モデルの一般知識を混ぜていないか」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「研究結果を対象外へ一般化していないか確認する」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「研究や報告書には、肯定的な結果と同時に限定条件が書かれている場合があります」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「検索結果に含まれた資料だけを正確に引用していても、調査全体として偏っている可能性があります」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「同時に、研究結果には適用範囲があります」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「原因と結果まで確定するには、追加の設計や証拠が必要です」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「成功事例だけでは、成功条件を判断できません」（https://note.com/gtminami/n/n5d18b36d3acc）
-  - 「別の原因でも同じ結果を説明できないか考える」（https://note.com/gtminami/n/n5d18b36d3acc）
 
 ## 情報機関の分析基準（ODNIの分析基準）を市場調査に使う（ODNI analytic standards applied business research）
 - 文脈：型
@@ -1745,6 +1745,11 @@
 ## 同じ会社かどうかの判定（エンティティ・レゾリューション、名寄せ）（entity resolution company record matching rules）
 - 文脈：同一性
 - 手順・やり方：
+  - 「名寄せの定義と計算方法について読みましょう」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「Step 1: ペア」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「Step 2: 類似度」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「💬 手計算 (Step 2) 0.75 と Python 出力が完全一致」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「さらに先へ進むなら： Fellegi-Sunter 型の確率的リンケージを実装した」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
   - 「実務での使い方 — 3つのステップ」（https://note.com/sr_mako/n/n611995af6f74）
   - 「ステップ1: SFAのアカウントに法人番号フィールドを追加する」（https://note.com/sr_mako/n/n611995af6f74）
   - 「型: テキスト(13桁固定長)」（https://note.com/sr_mako/n/n611995af6f74）
@@ -1755,12 +1760,12 @@
   - 「6月24日(水)14:00〜、SalesRadarを使ったシグナル型スクリーニングを実演解説するウェビナーを開催する」（https://note.com/sr_mako/n/n611995af6f74）
   - 「もっとも単純な方法は、**完全一致（Exact Match）**です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
   - 「Deterministic Matchingは、事前に定義したルールに従って照合する方法です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「大規模な確率的Entity Resolutionでは、OSSを利用する方法もあります」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「のような文字列をEmbeddingへ変換し、意味的な類似度から候補を検索する方法です」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「How to Evaluate a CDP」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「一致の判定には2つの方法がある」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「名寄せの仕組み：5つのステップ」（https://cdp.com/ja/glossary/identity-resolution/）
 - 突き合わせ・推定：
+  - 「ためには、 以下の観点で検証するのが定番です」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「コード 2: difflib で類似度ベース照合」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「— 異なるソースの個人情報を名寄せすると「容易照合性」が生じ、 仮名加工情報や匿名加工情報の要件が変わる」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「— 名前から国籍を推定する名寄せは、 採用や融資で差別的に作用する可能性」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「する（ここだけ人手検証） → ② 以降の結合はすべてコードで行う」という二段構えにすると、 名寄せコストを 1 回に封じ込められます」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
   - 「展示会リスト × SFA × 名刺データを突き合わせようとすると、「株式会社A商事」「A商事株式会社」「㈱A商事」が別エントリとして残り、どれが同一企業か判別できなくなる」（https://note.com/sr_mako/n/n611995af6f74）
   - 「法人番号をマスターキーにしておけば、複数の民間DBのデータを後から突き合わせることができる」（https://note.com/sr_mako/n/n611995af6f74）
   - 「法人番号をキーにして一発で同一法人を突き合わせられる」（https://note.com/sr_mako/n/n611995af6f74）
@@ -1771,12 +1776,14 @@
   - 「確率的マッチングは、IPアドレス、デバイスの種類、行動パターンといったシグナルを用いて、2件のレコードが同一顧客に属する可能性を推定する」（https://cdp.com/ja/glossary/identity-resolution/）
   - 「レコードAがメールを介してレコードBと一致し、レコードBが電話番号を介してレコードCと一致する場合、推移的マッチングはAとCが共通のキーを持たないにもかかわらず、同一顧客に属すると推定する」（https://cdp.com/ja/glossary/identity-resolution/）
   - 「シグナル（IP、デバイス、行動）からの統計的な推定」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「に準拠しているかを検証できず、データチームはプロファイルが誤って統合されたり分断されたまま残ったりした際に精度の問題を診断できなかった」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「：どの識別子がどの統合を引き起こしたか、いつ発生したか、確定的マッチングと確率的マッチングのどちらによるものか、あるいは推移的推定がどのようにそれらをつなげたのかを示す完全な監査ログ」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「検証の出発点は、正解のラベルを付けたサンプルだ」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「顧客の識別子を照合し、統合するプロセス」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「確率的な名寄せは、IPアドレス、デバイスの種類、行動パターンといったシグナルを用いて、2件のレコードが同一顧客に属する可能性を推定する」（https://cdp.com/ja/glossary/identity-resolution/）
 - 一次情報の探し方：
+  - 「顧客マスタ統合、 文献データベース、 公的統計の事業所集計」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「— e-Stat / RESAS / 自治体オープンデータの結合」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「SSDSE-B-2026 の都道府県名は表記揺れが少ないが、 「東京都/東京/トウキョウ/Tokyo」のような複数表記を統一する処理が、 県をキーに別データ (経産省・厚労省の地域統計) と結合する際に必須になる」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「e-Stat 全市町村 (約 1700 件) でも数秒」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「— 名前から国籍を推定する名寄せは、 採用や融資で差別的に作用する可能性」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「— 独立行政法人統計センター、 47 都道府県マスタの参照源」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「列（R01000〜R47000、 JIS X 0401 都道府県コードに基づく 47 個の一意キー）があり、 コード付きの外部統計とはこれで結合すれば表記揺れ問題そのものが消滅します」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
   - 「: 設立登記法人(株式会社・合同会社・NPO等)、国・地方公共団体、一定の人格なき社団等」（https://note.com/sr_mako/n/n611995af6f74）
   - 「: 13桁(先頭1桁はチェックデジット + 商業登記番号ベースの12桁)」（https://note.com/sr_mako/n/n611995af6f74）
   - 「国が全法人に付与し、誰でも使えるようにしている、きわめて珍しい公的識別子だ」（https://note.com/sr_mako/n/n611995af6f74）
@@ -1785,14 +1792,9 @@
   - 「シグナル（IP、デバイス、行動）からの統計的な推定」（https://cdp.com/ja/glossary/identity-resolution/）
   - 「名寄せにおける統計的なマッチングは、AIという呼び名よりも古い」（https://cdp.com/ja/glossary/identity-resolution/）
   - 「生成AIに式や判定の条件を相談した場合も、その答えを個人のチャット履歴に置かず、採用した条件だけを台帳に書き写します」（https://www.sento.group/concepts/nayose）
-  - 「3. Linking and profiling」（https://www.rudderstack.com/blog/what-is-entity-resolution/）
-  - 「2. Data Profiling and Standardization」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「2. Scalable Data Profiling and Cleansing」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「pull filings from every jurisdiction (plus SEC, tax, and licensing data).」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
-  - 「, and every field links back to its official filing. That provenance isn’t a nice-to-have; auditors demand it, regulators expect it, and machine-learning teams need it for training sets.」（https://blog.opencorporates.com/2025/06/17/entity-resolution-for-data-aggregators/）
 - 失敗・落とし穴：
+  - 「⚠️ 落とし穴（重要） — inner join の「静かな欠落」は集計を黙って歪める」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「「東京都 ↔ 東京」の名寄せに失敗して東京都の 1 行が落ちると、 合計は」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
   - 「「半年ぶりに見たら移転していた」「社名変更に気づかなかった」という手動管理の罠から抜け出せる」（https://note.com/sr_mako/n/n611995af6f74）
   - 「唯一の注意点は、個人事業主と外資系の一部には付与されていないことだ」（https://note.com/sr_mako/n/n611995af6f74）
   - 「匿名のトラフィック、表記の誤りを含むオフラインのレコード」（https://cdp.com/ja/glossary/identity-resolution/）
@@ -1806,9 +1808,11 @@
   - 「compare librarian, database engineer, investigator, privacy owner and receiver. Each values a different balance between recall and mistaken identity.」（https://edukatesg.com/2026/09/05/how-entity-resolution-works/）
   - 「機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
   - 「：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
-  - 「データクレンジングは個々のレコードの誤りや表記ゆれを修正してデータ品質を高める前処理であり、名寄せは複数のレコードから同一人物・同一企業を特定して統合する作業です」（https://geniee.co.jp/media/cdp/datacleansing-datamatching/）
-  - 「データクレンジングとは、データベースや管理ファイルに含まれる誤り・欠損・表記ゆれ・重複を修正し、データ全体の品質を高める作業です」（https://geniee.co.jp/media/cdp/datacleansing-datamatching/）
 - 実例：
+  - 「名寄せの結果に元レコード ID と信頼度を残す」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「は個人情報を含まないので、 名寄せに法的制約はほぼないが、 解析結果の解釈には地域別の社会的文脈を尊重する必要がある」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「☐ 名寄せ結果に「元レコード ID」「類似度スコア」をメタとして残したか?」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
+  - 「— 自分で集めた外部データ (オープンデータ・スクレイピング結果) を SSDSE-B-2026 と結合し、 オリジナル分析を組む」（https://www.matsumotolab.com/stats/glossary/name-resolution.html）
   - 「例えば、次のような顧客データが存在していたとします」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
   - 「例えば、次のようなケースを考えてみましょう」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
   - 「例えば、一人の顧客であっても、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
@@ -1820,10 +1824,6 @@
   - 「結果にはMatch IDが付与され、同じ実体として判定されたレコードをグループ化できます」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
   - 「Databricksでも2026年7月にAI Search High QPSが一般提供され、ユースケースの一つとしてEntity Matchingが挙げられています」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
   - 「例えばAI Agentが、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「結果として、」（https://qiita.com/mellowlaunch/items/8822735de5082515a690）
-  - 「Build a Business Case」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「すべてのソースと活用事例を1つの手法で賄えるわけではないからだ」（https://cdp.com/ja/glossary/identity-resolution/）
-  - 「確定的マッチングのルールを骨格とし、確率的マッチングは誤りを許容できる活用事例に限って使い、アイデンティティグラフには統合履歴を残す」（https://cdp.com/ja/glossary/identity-resolution/）
 
 ## 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）（company registry verification OpenCorporates EDGAR）
 - 文脈：探し方
@@ -4021,6 +4021,7 @@
 ## 名寄せ・照合の正解例（正解ラベル）で判定を検証する実務（失敗例・未判定例の扱い・自動で上書きしない）（entity resolution gold standard labeled pairs evaluation precision recall manual review）
 - 文脈：同一性
 - 手順・やり方：
+  - 「名寄せとは？意味や実施方法などわかりやすく解説 - myBridgeブログ」（https://sharebook.mybridge.com/blog/article13）
   - 「この手順で確認するのは入力データの一致です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「ベンチマークの方法論と再現手順（固定コミット）」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
@@ -4035,23 +4036,22 @@
   - 「更新日が新しい情報を優先する方法、情報源の信頼性を基準にする方法、項目ごとに優先順位を設定する方法などがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「判定の根拠が弱いものは候補として保留し、担当者が確認する手順を設けてください」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「名寄せは個人情報を扱うことがあるため、利用目的やアクセス権限、保管方法を確認してから実施します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「データの抽出、加工、外部委託、作業後の保管や削除など、工程ごとに管理方法を決めることが重要です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 突き合わせ・推定：
+  - 「同一顧客かどうかの判定は、氏名・住所・電話番号・メールアドレスといった属性データを突き合わせて行います」（https://sharebook.mybridge.com/blog/article13）
+  - 「共通の顧客IDがあればIDで突合できますが、部署やシステムが分かれていると使えないこともあるため、属性データによる照合が中心になります」（https://sharebook.mybridge.com/blog/article13）
+  - 「照合キーにはならないが、統合後に顧客単位で正しく紐付けるべき情報」（https://sharebook.mybridge.com/blog/article13）
+  - 「照合に使う項目（氏名、会社名、住所、電話番号など）と、統合後に活用したい項目（購買履歴、商談履歴など）を区別して整理します」（https://sharebook.mybridge.com/blog/article13）
+  - 「抽出したデータは、そのままでは表記のばらつきが原因で正しく照合できません」（https://sharebook.mybridge.com/blog/article13）
+  - 「5.7 統合後の精度と業務への影響を検証する」（https://sharebook.mybridge.com/blog/article13）
+  - 「統合が完了したら、想定した精度で名寄せができているかを検証します」（https://sharebook.mybridge.com/blog/article13）
+  - 「ずれが見つかった場合は、ルールを修正して再度照合します」（https://sharebook.mybridge.com/blog/article13）
+  - 「判定方法は、値の突き合わせ方（完全一致・部分一致・あいまい一致）と、複数項目の結果をまとめる重み付け判定に分かれます」（https://sharebook.mybridge.com/blog/article13）
+  - 「データ件数が増えるほど前処理や確認の工数は大きく膨らむため、事前調査からルール設計、検証までを含めた計画的なスケジュール管理が欠かせません」（https://sharebook.mybridge.com/blog/article13）
+  - 「ただし判定根拠が分からないため、なぜ統合されたのかを後から検証できません」（https://sharebook.mybridge.com/blog/article13）
+  - 「あわせて、誤統合が発生した場合の修正対応と成果物の検証方法を契約前に明確にしておくことが重要です」（https://sharebook.mybridge.com/blog/article13）
+  - 「名寄せとは、氏名・住所・電話番号・法人番号など複数の項目を照合し、同一人物や同一企業を識別して顧客データを統合する作業です」（https://sharebook.mybridge.com/blog/article13）
   - 「また、このv1では全入力の生成元が検証用DBに存在するため、unmatched率と偽陰性率が一致します」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「には、入力の生成器、検証用データ（fixture）、曖昧行のラベル、集計コード、測定結果があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「ここでは、入力の再構築とAPI照合の再測定を分けて説明します」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「曖昧性の判定を独立に検証したり、APIを呼んで名寄せの精度を測り直したりするものではありません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「API経由で照合結果まで測り直すには、同じfixtureを投入済みの検証APIとAPIキーが必要です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「環境変数の指定だけで検証APIやDBが作られるわけではありません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「どのデータに、どのルールを適用した結果なのかまで確認して、自分たちの入力で検証する範囲を決める必要があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「名寄せとは、複数のデータに記録された情報を照合し、同じ人物・企業・世帯などに関するものを判定して、関連付けたり統合したりする作業です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「名寄せとは、複数の記録を照合し、同じ対象についての情報であると判断できたものに共通の識別子を付けたり、代表となる情報にまとめたりすることです」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「顧客番号や法人番号のように重複しにくい番号があれば照合に役立ちますが、番号がない場合は氏名、住所、電話番号などの組み合わせを使います」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「氏名、ふりがな、生年月日、住所、電話番号、メールアドレスなどが照合項目になります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「法人番号のような識別情報が利用できれば、名称だけに頼るより照合しやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「旧社名や合併前の情報は削除せず、変更履歴として保持すると、過去の取引記録との照合にも役立ちます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「仮説を立て、データで検証する思考を身に付ける」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「これに対して名寄せは、整えたデータを照合し、同一の人物や企業などに属する記録を特定して結び付ける作業です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 一次情報の探し方：
   - 「資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
@@ -4069,6 +4069,14 @@
   - 「2020年末から2025年末までなら5年ですが、2020年度と2025年度の決算値を比較するときは、各値がどの時点を表すかを確かめます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
   - 「年度のラベルだけで機械的に判断せず、決算期、対象期間、データの基準日をそろえるのが基本です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 失敗・落とし穴：
+  - 「データクレンジングとの違いや、よくある失敗例も交えて紹介します」（https://sharebook.mybridge.com/blog/article13）
+  - 「とくに注意したいのが、顧客の信頼を損なうミスです」（https://sharebook.mybridge.com/blog/article13）
+  - 「4. 名寄せの対象となる顧客情報と注意点」（https://sharebook.mybridge.com/blog/article13）
+  - 「一意性が高く精度を上げやすいが、ハイフンや国番号、部署ごとの代表番号に注意」（https://sharebook.mybridge.com/blog/article13）
+  - 「5. 失敗しない名寄せの進め方」（https://sharebook.mybridge.com/blog/article13）
+  - 「9. 名寄せでよくある失敗例」（https://sharebook.mybridge.com/blog/article13）
+  - 「大量の名刺を一括処理するコツと注意点も紹介」（https://sharebook.mybridge.com/blog/article13）
+  - 「エクセルでの名刺管理の手順や必要な項目、名刺画像の取込方、楽な入力法といった具体的な方法から、注意すべきポイントなどを解説しています」（https://sharebook.mybridge.com/blog/article13）
   - 「ほとんどの入力を人手確認へ回せば、自動確定した結果の誤りは減らしやすくなります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「人手に戻る件数と、自動処理に混ざる誤りを、一つの数字で表そうとしないための2軸です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「この条件で自動確定した1,363件では、誤りが観測されませんでした」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
@@ -4076,15 +4084,12 @@
   - 「この合成セットでのconfident判定の誤り」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「このセットでは、0.70の点でも誤りが観測されていないからです」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「寮や集合住宅、事業所なども同じ住所を共有するため、住所の一致だけで世帯を判断すると誤りが生じます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「データクレンジングとは、データの誤りや欠損、表記のばらつきなどを確認し、決めた基準に沿って修正・整理する作業です」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「小さな範囲で試行し、結果を業務担当者が確認してから全体に適用すると、影響の大きい誤りを抑えられます」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「どの程度の誤りを許容できるかは業務によって異なるため、試行結果を確認しながら調整します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「統合後は、無作為に選んだ記録や誤りが起きやすいパターンを確認し、誤統合と見落としの両方を検証します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「顧客情報を修正する担当者、統合を承認する責任者、誤りが見つかった場合の戻し方を決めておくと、継続運用が安定します」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
-  - 「ただし、名寄せだけでデータが正確になるわけではなく、欠損や入力誤り、集計条件も別途確認する必要があります」（https://nano.globis.ac.jp/r/digital-glossary/article/248）
 - 実例：
+  - 「5.6 マッチング結果を確認してデータを統合する」（https://sharebook.mybridge.com/blog/article13）
+  - 「統合結果を関係部門に共有し、実際の運用で不整合が生じていないかを確認することで、判定ルールが妥当だったかを最終的に見極められます」（https://sharebook.mybridge.com/blog/article13）
+  - 「判定方法は、値の突き合わせ方（完全一致・部分一致・あいまい一致）と、複数項目の結果をまとめる重み付け判定に分かれます」（https://sharebook.mybridge.com/blog/article13）
+  - 「営業・マーケティング・情報システムのいずれかが主導するケースが多いですが、部署をまたいでデータを使う以上、単独では判断基準がずれます」（https://sharebook.mybridge.com/blog/article13）
+  - 「もっともらしく誤った統合が行われるほか、行のズレによる誤統合の事例も報告されており、最終判断は必ず人が確認する運用が前提です」（https://sharebook.mybridge.com/blog/article13）
   - 「自動確定できた割合と、自動確定した結果の正しさを分けて測ること」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「公開している合成データ2,000件のベンチマークを使い、指標の分母、曖昧な入力の採点、測定結果の読み方を整理します」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「正解を付けた評価データに適用して、結果を測る必要があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
@@ -4095,11 +4100,6 @@
   - 「一方、公開している閾値カーブには、候補のスコアに別の閾値を当てた比較結果もあります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「これは候補のスコアを使った事後分析であり、本番の設定を変えて測り直した結果ではありません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
   - 「閾値を選ぶ材料にはなりますが、0.85が最適だと示した結果ではありません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「合成データで観測した結果を、そのまま顧客の取引先マスタや本番の全入力へ当てはめることはできません」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「同じ判定ルールでも、入力の構成が違えば測定結果は変わります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「には、入力の生成器、検証用データ（fixture）、曖昧行のラベル、集計コード、測定結果があります」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「API経由で照合結果まで測り直すには、同じfixtureを投入済みの検証APIとAPIキーが必要です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
-  - 「本文の精度やカバレッジは7月20日付の保存結果、9月27日に確認したのは入力の再構築です」（https://zenn.dev/takuma_kanazawa/articles/9da6868bb2dd96）
 
 ## 分析の成果物で「前回から何が変わったか」を書く実務（ICD 203・分析の変化の説明・判断の言い換え）（analytic standards change in analytic judgment explain what changed ICD 203 tradecraft）
 - 文脈：書き方
@@ -7391,3 +7391,237 @@
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「仮に調査の結果，自社の」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
 - 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+
+## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
+- 文脈：手法・突き合わせ
+- 手順・やり方：
+  - 「システマティック・レビュー（SR）の報告方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「な作業手順の1 つである」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「成手順のような SR プロセスの追加的要素は，適格」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「様な SR の報告方法のいわばスタンダード版である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「3. エビデンス統合のためのすべての文献検索方法に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「ブ ・レビュー ） ，mixed methods review（混合法レ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「のか，また検索の詳細を報告する最善の方法につい」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「るためにさまざまな方法を用いてきた 11, 17, 19, 20）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「難である可能性が高いことが，検索方法の出版後査」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「情報源や方法を使用した検索を報告方法に関する指」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「文献検索方法の報告が不完全であると疑念が生」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「rapid review: SR の手順を簡略化したアプローチ ; realist review: 複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「雑な政策介入のためにデザインされた新しい SR の方法 ; meta-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「意 図 的 に 検 索 ，閲 覧 し た オ ン ラ イ ン ま た は 印 刷 物 の 情 報 源（例 ：目次， 学会抄録， Web サイ ト） と， その方法を記述する」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+- 突き合わせ・推定：
+  - 「ファベット学習 ABC の A」に相当し，ここで仮説」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「検証のために必要な研究を見逃した場合，すでにそ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「開発，検証，翻訳について報告している元の論文を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「テストされ，検証されているが， SR またはその他」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「of grey literature influence estimates of intervention」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「これらを補完する目的で、PRISMA-Sでは、既存の出版物に関するデータベースや臨床試験登録データベースなどの「情報源・方法」、実際の検索にかかわる検索式の制約や限界・検索フィルターの使用有無・先行研究の検索手法の活用状況、検索の実施日等に関する「検索手段」について、さらに検索プロセスの「ピアレビュー」（検証、査読）、検索結果の全レコード数・複数の情報源を用いた場合の重複処理の扱いなどにかかわる「検索結果の管理」などについて項目立てられており機能性表示食品制度に直ぐ関わるわけではないが、研究レビューの検索過程の妥当性について考える１つのヒントになりうる」（https://wellness-news.co.jp/posts/%E3%82%A8%E3%83%93%E3%83%87%E3%83%B3%E3%82%B9%E5%85%A5%E9%96%80%EF%BC%8840%EF%BC%89%E3%80%80prisma-s%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/）
+  - 「使用前にチームによって検証されたフォーム，データの抽出が単独あるいは複数名で行」（https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471）
+  - 「—The combination of quantitative results of two or more studies. This encompasses meta-analysis of effect estimates (described below) and other methods, such as combining P values, calculating the range and distribution of observed effects, and vote counting based on the direction of effect (see McKenzie and Brennan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Meta-analysis of effect estimates」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「—A statistical technique used to synthesize results when study effect estimates and their variances are available, yielding a quantitative summary of results」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「—The combination of a point estimate (such as a mean difference, risk ratio or proportion) and a measure of its precision (such as a confidence/credible interval) for a particular outcome」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Present results for main outcomes, preferably indicating the number of included studies and participants for each. If meta-analysis was done, report the summary estimate and confidence/credible interval. If comparing groups, indicate the direction of the effect (that is, which group is favoured)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「Furthermore, authors need to interpret effect estimates in relation to whether the effect is of importance to decision makers. For a particular outcome and effect measure, this requires specification of thresholds (or ranges) used to interpret the size of effect (such as minimally important difference; ranges for no/trivial, small, moderate, and large effects).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「transforming effect estimates (such as converting standardised mean differences to odds ratios」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+  - 「The principal graphical method for meta-analysis is the forest plot, which displays the effect estimates and confidence intervals of each study and often the summary estimate.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/）
+- 一次情報の探し方：
+  - 「善したというエビデンスは統計的に有意でないもの」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「を採用しているため，研究レジストリはますます重」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Cochrane Reviews 119, 120）で採用された介入（実施戦」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「を採用する 135-138）」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「crd/Systematic_Reviews.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Retrieval_v2-0.pdf. Accessed 31 Jan, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「情報源が採用されると，著者は新しいプロセスに対」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Webサイトから Wordおよび PDF 形式でダウンロー」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「普及させ，雑誌による採用を促進する予定である」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「2018/08/27/401554.full.pdf.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「of%20Cochrane%20Intervention%20Reviews.PDF. Accessed」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「books/NBK44099/pdf/TOC.pdf. Accessed 1 Feb, 2020.」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「１：現時点での状況で，変更の可能性あり．２：各論文の質の評価は必須ではないが，場合によって実施されることがある．３：統計的メタ分析（量的」（https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471）
+- 失敗・落とし穴：
+  - 「バイアスを最小限に抑えるよう，頑健かつ再現性が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「いことを理由として，そのレビューにはバイアスが」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「使用した場合，著者特有の検索状況によるバイアス」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「SR 検索に学会抄録を含めると，バイアスを最小限に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「な限り多くのバイアスを取り除くために開発された」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「が偏って収録されており，バイアスの削減を達成す」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「索方法にバイアスがかかる可能性がある 67, 68） が，」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「DB の絞り込み機能の使用で検索にバイアスがか」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「込み機能は，その誤りの可能性があるため， SR で」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「は公開された検索の誤り 23）または DB の大きな変」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「outcome reporting bias in randomised controlled trials on a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「publication bias in different categories of research cohorts: a」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Lengeler C, Antes G. Language bias in randomised controlled」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「１つ１つの研究論文に含まれるバイアスリスクをチェッ」（https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471）
+  - 「の方法は明確だが，バイアスリスクの評価など個々の対」（https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471）
+- 実例：
+  - 「献検索，または情報検索プロセスは， SR の結果に」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「追跡した結果，この比は年を追うごとに 1.0 に近づ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「scoping review: 既存の研究結果をマッピングしまとめたレビュー;」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「レビュー ; mixed methods review: 定性的および定量的研究の結果を」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「ナリシスや SR のデータを統合的に分析して結果をまとめたレ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「研究の完了後に投稿された研究結果も含まれる場合がある」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「デルファイ調査の結果は，Medical Library Associa-」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「ファイル検索として同時に行い，結果は Ovid 重複」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「のWeb サイトを検索すると管理できない数の結果が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「自体が表示できる結果件数に限りがある（たとえば」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「Googleは1,000 件の結果しか表示しない） ，あるいは」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「る結果件数の制限を事前に指定することがよくあ」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「レビューチームが限られた結果をレビューする」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「発表された研究の大部分は，とくに研究結果が統計」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+  - 「文献 DB には肯定的な結果を報告した英語の出版物」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
+
+## OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）（osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration）
+- 文脈：一次情報の探し方
+- 手順・やり方：
+  - 「B. Methodological principles ....................13」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「III. LEGAL FRAMEWORK ................... 17」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「methods of fact-finding and analysis. One of the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「prosecutors and counsel. If, however, unsound methods」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「or crime-based evidence. Common methodological」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「methodological principles and approaches to support」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「digital technologies and methodologies to expose」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「range of technical, legal and methodological experts,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「and methods for uncovering, assessing, verifying」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Methodology, Education and Training Section of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「methodology, OHCHR and the Human Rights」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「also provides guidance on methodologies and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「The Berkeley Protocol follows in the footsteps of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「lawyers on how to recognize and document the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「consistent methods, which both strengthen the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+- 一次情報の探し方：
+  - 「PDF Portable Document Format」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「pdf?x32994.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「humanrights.berkeley.edu/sites/default/files/publications/bellagio_report_july2018_final.pdf」（https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C）
+  - 「leiden-guidelines.com/assets/DDE%20in%20ICL.pdf」（https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C）
+  - 「www.usip.org/sites/default/files/resources/sr170.pdf」（https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C）
+  - 「www.icc-cpi.int/sites/default/files/RelatedRecords/CR2019_00267.PDF」（https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C）
+  - 「trialinternational.org/wp-content/uploads/2019/12/Manuel-pratique-preuve-audiovisuelle.pdf」（https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C）
+- 失敗・落とし穴：
+  - 「and structural biases to affect their work and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Inherent biases in the Internet’s architecture」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「counterbalance such biases by applying」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「correct for their own biases, which may be」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「chances of biased selection, interpretation and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「biases in the data available online. All of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+- 実例：
+  - 「establishing facts in a case. Courts and investigative」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「manner, which is often the case in international」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Stuart Casey-Maslen, Honorary Professor, Faculty」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「Stuart Casey-Maslen, University of Pretoria」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「may include, for example: content posted on」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「reports of the fact-finding mission were also relied upon in the case filed before the International Court of Justice by the Gambia against」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「investigation took place, for example, due to」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「in cases in which there is State cooperation,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「example is information that can only be acquired」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「12 The dark web refers to that part of the Internet that can only be accessed through specialized software. The Tor browser is one example」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「be accessed, for example, on public websites,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「source, examples include privileged, classified」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「such cases, while the information is observable」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「human rights cases, open source intelligence is」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「making functions – for example, to inform」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+
+## 会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検）（fiscal year calendar year alignment comparing statistics company data）
+- 文脈：失敗
+- 手順・やり方：
+  - 「モデルが求める精度、ソフトウェア基盤、データ型、通信方式、コンパイラ、運用体制により総所有コストが変わる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「世代交代が速い場合、旧型機の性能当たり電力費、保守費、ラック密度が不利になる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「最高経営責任者は、現時点で計画している2027年と2028年の供給能力では顧客の需要を満たしきれない見込みだとし、2028年の能力を従来示していた30％増からさらに上積みする方法を検討していると述べた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「FTはSynMaxの分析として、2026年稼働予定の米データセンターの約4割が遅延に直面し、Microsoft、OpenAIなどの大型案件は3か月以上遅れる見込みだと伝えた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「IEAは同時に、ガスタービン、変圧器、先端チップの供給不足や系統接続の遅れ、複雑な許認可がデータセンター開発を遅らせていると指摘し、データセンター事業者と結ばれた小型モジュール炉（SMR）の計画が2024年末の25GWから45GWに増えたことも紹介している」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「これがAI産業におけるジェボンズ型の反作用である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「OpenAIとの大型契約への依存と、マイナスの自由キャッシュフローが懸念の中心だ」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「それでも、数千億ドル規模の計算資源契約を裏付ける売上の見え方が、計上方法ひとつで200億ドル動くことを市場は思い知らされた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「プロンプトの最適化、キャッシュ、小型モデルへの振り分けが進めば、利用件数が増えても計算資源需要の伸びは鈍る」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「AIビジネスモデルは「計算資源の時間貸し」「APIトークン課金」「月額SaaS」「AI社員型」「処理件数課金」「成果報酬」「導入・保守・監査サービス」に分けられる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「成果報酬型は魅力的だが、営業成果がAIに起因したか、顧客側の業務変更や外部要因の影響をどう除くかという問題があるため、固定料金と変動料金の併用が現実的だ」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「第19章で見たとおり、年換算売上は計上方法で大きく変わる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「半導体製造工場、変電所、送電線、大型発電設備は時間がかかる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「供給側の強みと弱点を一言でまとめると、NVIDIAは需要の厚さが強みで、利益率の緩やかな低下と顧客の内製化が弱点、TSMCは価格決定力が強みで、2027年以降の大型投資の回収が論点になる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「このうちOracleは、OpenAIとの大型契約への依存、マイナスの自由キャッシュフロー、格付けの低下が重なり、ハイパースケーラーの中でも信用面の弱さが際立つ」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+- 突き合わせ・推定：
+  - 「強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「第30章 予測リストの検証――何がすでに起き、何が極端か」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「現時点の最重要仮説は、需要不足か供給不足かの二者択一ではない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「Goldman SachsはCoWoSの生産能力が2026年の約128万枚から2027年に約273万枚へ倍増すると推計している」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「これらは証券会社の推計であり、会社の計画値ではない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「アナリストはメモリ事業だけで約110兆ウォンを稼いだと推計し、NVIDIAのVera Rubin向けHBM4の出荷も寄与したとされる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「生産能力は月30万枚前後とされ、SemiAnalysisは2026年末に月35万枚に達し、Micron（月38.5万枚）に迫ると推計している」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「Bloombergは2026年4月、米国で2026年に稼働予定だったデータセンター容量（12〜16GWと推計）のうち、実際に建設中なのは約5GWにとどまり、3〜5割が遅延か中止になる可能性があると報じた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「3分の1という比率はFT自身の推計か解説側の要約か、原文で確認できていないため、目安として扱いたい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「提示された弱気予測には、OpenAIとAnthropicがOSS規制に失敗し、Googleが性能の高いGeminiを大幅に安く提供し、xAIがGrokのオープン化を進め、AI企業のARR成長が鈍化するという仮説が含まれる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「OSSの「禁止」も対象となる法規制や行為が特定されなければ、検証できる命題ではない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「年換算売上は直近の一時点の売上を12倍した推計値で、総額計上か純額計上か、一時的な大口契約を含むかで大きく変わる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「従来の人間との一問一答と、自律的に計画・検索・処理・検証を繰り返すエージェントは、計算需要が異なる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「幻覚、不適切なツール操作、曖昧な指示への誤対応、長時間タスクの中断、例外処理の弱さが残れば、人間による監督と事後検証の費用が増える」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+- 一次情報の探し方：
+  - 「一方で、TSMCとNVIDIAは過去最高の決算を出し、メモリ大手は2027年分の生産枠をほぼ売り切ったと伝えられている」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「2026年10月時点の状況を各制約に当てはめると、④GPUと⑤メモリは「供給者の決算が過去最高で、受注は先まで埋まっている」段階、②データセンターと③電力は「計画は多いが着工・接続が遅れている」段階、⑥資金は「借り手の選別が始まった」段階にある」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「供給制約下の過去最高決算と、利益率の緩やかな低下が同時に起きている点は押さえておきたい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「10月15日発表の2026年7〜9月期決算は、売上1兆4,942億台湾ドル（約467億米ドル）、純利益7,631億台湾ドルで、純利益は前年同期比68.7％増と過去最高を更新した」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「同じ決算の中で、スマートフォンなど完成品部門は2四半期連続の営業赤字になる見通しと伝えられた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「AI向けのメモリ高騰が、消費者向け機器の需要を押しのけている構図が一社の決算の中に表れている」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「確定決算は10月29日に発表される予定である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「ハイパースケーラーの決算にもメモリ高騰は表れた」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「決算が過去最高でも、市場はすでに「メモリの山の後」を織り込み始めている」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「今後のデータセンター供給統計では、IT負荷のMW、契約済みMW、送電接続済みMW、GPU搭載ラック数、商用利用可能MWを分ける必要がある」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「次の確認点は11月の7〜9月期決算と、年内に期限を迎える債務の借り換え条件である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「4大ハイパースケーラーの2026年の設備投資見通しは、7月末の決算で軒並み上方修正された」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「10月下旬から始まる7〜9月期決算で、2027年の見通しがどう語られるかが最大の焦点となる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「2026〜2030年の投資計画を企業比較する際は、投資予定額だけでなく発表日、決算期、対象範囲（GPU購入か、土地建物か、メモリか）、確定契約か希望計画か、実際の稼働開始時期をそろえる必要がある」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+- 失敗・落とし穴：
+  - 「供給不足で高値が付く時期ほど、その後の投資判断を誤りやすい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「第19章 「年換算売上」の落とし穴――OpenAIの200億ドル問題」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「第31章 供給計画の二重計上と設備稼働率の落とし穴」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「確定した受注ではなく、顧客の関心の表明である点には注意したい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「上限は州知事らの要求で設けられたもので、価格が「本来の需給で決まった水準」より低く抑えられている可能性にも注意したい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「提示された弱気予測には、OpenAIとAnthropicがOSS規制に失敗し、Googleが性能の高いGeminiを大幅に安く提供し、xAIがGrokのオープン化を進め、AI企業のARR成長が鈍化するという仮説が含まれる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「実務では確認、再試行、分岐、失敗からの復旧で品質を改善できる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「それでも長期処理では失敗管理が重要になることを示す例だ」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「セキュリティと権限逸脱：業務操作に失敗すると損害が拡大」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「一方、OpenAI・Anthropicが法的にOSSを禁止しようとして失敗するという表現は対象法案や具体的な行為を示さない限り検証不能である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「①OpenAI・Anthropicによる米国でのOSS「禁止」失敗――前提となる制度・法案の特定が必要」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「設計段階でのチェックが極めて重要になるのは、この落とし穴があるからです」（https://note.com/umaki11/n/ned3be3c1c101）
+  - 「データを扱ううえで、3つの罠がありました」（https://note.com/umaki11/n/ned3be3c1c101）
+  - 「下落局面で希薄化が加速する構図には注意が必要だと思います」（https://note.com/umaki11/n/ned3be3c1c101）
+  - 「自社株買いの発表額だけを見て還元が手厚いと判断すると、その半分以上が埋め戻しに消えている会社を見誤ります」（https://note.com/umaki11/n/ned3be3c1c101）
+- 実例：
+  - 「象徴的な事例が、OpenAI向け「Stargate」計画の旗艦拠点の一つであるニューメキシコ州のProject Jupiterである」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「2026年7月14日に結果が出た2028/2029年度分も、域内全体で上限の325ドルに張り付き、確保量は138,318MWだった」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「原油高によるインフレ、財政赤字に伴う国債増発、実質金利の上昇が重なった結果である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「その結果、2030年末までに3.5兆ドル超のAIインフラ投資が減損リスクにさらされ、現在の投資ペースが続けば2032年までに4兆ドル超の資産価値が評価減の対象になり得るとした」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「競争の結果として、単純なAPIトークン販売の利益率には圧力がかかる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「例えば各工程の成功率を99％と仮定し、100工程が独立して全て成功しなければならない場合、単純な連続成功確率は0.99の100乗で約36.6％となる」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「第14章で見た社債発行の急増はその結果である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「例えば一年に十分な発電量があっても、変圧器の交換待ちや送電線増強の遅れで特定サイトの接続が不能なら、発表したGPU容量を商用運転できない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「この状況を定量的に考えるため、企業は少なくとも以下の3つのケースを置くとよい」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「基本ケースはAI処理件数が拡大し、価格下落が緩やかで、新設備の稼働率が高い状態」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「供給過剰ケースは小型モデルと推論最適化が進み、タスク当たりGPU秒数が急減し、新GPU・HBM供給量が需要を上回り、時間貸し単価が下落する状態」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「供給不足ケースはエージェント・動画・複雑な推論の利用量が効率改善より速く増え、電力・メモリ・建設に遅れが残り、API制限や料金上昇が続く状態である」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「いずれのケースでも、売上が伸びることと投資利益が得られることは別々に評価する」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
+  - 「PJM｜2026年7月14日、2028/2029年度容量市場入札結果（一次資料）」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）

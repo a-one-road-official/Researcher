@@ -1,0 +1,1803 @@
+{
+ "name": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）",
+ "en": "osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration",
+ "aliases": [
+  "site:osint.dev evidence capture",
+  "Berkeley Protocol digital open source investigations preservation",
+  "Memento RFC 7089 OSINT"
+ ],
+ "context": "一次情報の探し方",
+ "kind": "market",
+ "researched_at": "2026-11-06T15:02:21.264875+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "B. Methodological principles ....................13",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "III. LEGAL FRAMEWORK ................... 17",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methods of fact-finding and analysis. One of the",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "prosecutors and counsel. If, however, unsound methods",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "or crime-based evidence. Common methodological",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodological principles and approaches to support",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "digital technologies and methodologies to expose",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "range of technical, legal and methodological experts,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and methods for uncovering, assessing, verifying",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Methodology, Education and Training Section of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodology, OHCHR and the Human Rights",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "also provides guidance on methodologies and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Berkeley Protocol follows in the footsteps of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "lawyers on how to recognize and document the",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "consistent methods, which both strengthen the",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Workshop on Building an Ethical Framework for Open Source Investigation in Essex University, United Kingdom, January 28–29, 2019",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Berkeley Protocol on Digital Open Source Investigations treats digital open-source work as a professional process involving the gathering, analysis and preservation of digital information, with verification and authentication as central methodological concerns.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Excellent researchers know how to:",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "here is how to move from a question to evidence and from evidence to a calibrated conclusion,",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tool lists are useful, but training people around interfaces creates dependency. Durable OSINT education should teach questions, signal meaning, source criticism, limitations, evidence states and judgment — with tools inside the method.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and hybrid tribunals broadly prohibit the introduction of evidence ‘obtained by methods which cast substantial doubt on its reliability or if its admission is antithetical to, and would seriously damage, the integrity of the proceedings’.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As such, practitioners should proactively take all possible steps to ensure the clarity of the authenticity and reliability of evidence to rebut any potential concerns.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "While both methods can demonstrate an unbroken chain of custody, ensuring that continuity in the first place is a more challenging. The task of ensuring that continuity is based more in policy and practice than in technology, and those practices become more difficult to regulate as the storage of digital evidence becomes more complex.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Traditionally, prosecutors rely on Mutual Legal Assistance Treaties (MLATs), which are bilateral frameworks for co-operation in law enforcement,",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For international courts and investigators working outside the framework of states, the process for accessing data is even less regulated. Under Rule 104(2) of the ICC RPE, the Prosecutor may seek additional information from third parties, including ‘States, organs of the United Nations, intergovernmental and non-governmental organizations, or other reliable sources’.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "With a standing mechanism, the administrative and organizational framework would already be in place when a situation arises meriting further investigation, allowing for more cost-effective and timelier investigations.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Using these initiations as a model for the broader international criminal justice community, a standing international investigative mechanism can offer a framework through which a digital locker could be established.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "basis. Further, by co-ordinating work internally within one framework, a standing mechanism could also more effectively create a shared SOP for documentation, storage, and analysis of digital evidence.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A centralized investigative body could also aid in the rise of domestic prosecutions of atrocity crimes and strengthen the complementarity of the Court. One practitioner expressed a need not only for standardized investigations but also a replicable investigative framework.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "‘Methods and Tools’,",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "syrianarchive.org/en/about/methods-tools",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "J. Deutch and H. Habal, ‘The Syrian Archive: A Methodological Case Study of Open-Source Investigation of State Crime Using Video Evidence from Social Media Platforms’, (2018) 7(1)",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "One of the most acute investigation challenges that has surfaced in the Digital Age is how to find relevant information amidst the huge quantities of content posted online. As noted in Beth Van Schaack’s new book,",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", more than 500 hours of video were posted to YouTube, approximately 87,500 people Tweeted, and roughly 2.1 million Snaps were created on SnapChat. As Van Schaack explains, today the challenge is how to find relevant information in a cacophony of digital noise.",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The professional principles relate to the investigator’s preparation to conduct digital open source investigations. They include accountability, competency, objectivity, legality, and security awareness. The methodological principles, in contrast, further safeguard the quality of the investigation, but focus more on",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Given its temporal convergence with the rise of social media and the spread of smartphones, the Syrian conflict has come to epitomize the use of digital information to document and make sense of alleged war crimes violations for advocacy and legal accountability. In doing so, it has spurred new tools and significant innovation in methods and uses along the way.",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "establishing facts in a case. Courts and investigative",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "manner, which is often the case in international",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Stuart Casey-Maslen, Honorary Professor, Faculty",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Stuart Casey-Maslen, University of Pretoria",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "may include, for example: content posted on",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "reports of the fact-finding mission were also relied upon in the case filed before the International Court of Justice by the Gambia against",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "investigation took place, for example, due to",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in cases in which there is State cooperation,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example is information that can only be acquired",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "12 The dark web refers to that part of the Internet that can only be accessed through specialized software. The Tor browser is one example",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be accessed, for example, on public websites,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "source, examples include privileged, classified",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "such cases, while the information is observable",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "human rights cases, open source intelligence is",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "making functions – for example, to inform",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Case for War Crimes Charges Against Russia’s Sandworm Hackers",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Case for War Crimes Charges Against Russia’s Sandworm Hackers, featuring Lindsay Freeman and her team’s research and submission to the International",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Open-Source Digital Evidence in International Criminal Cases: A Way Forward in Ensuring Accountability for Core Crimes?",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Open-Source Digital Evidence in International Criminal Cases: A Way Forward in Ensuring Accountability for Core Crimes? by Konstantina Stavrou, with mention of",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Nothing in these examples requires the original data to be false.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bellingcat's Online Investigations Toolkit is valuable partly because it does not present tools as magic buttons. Its entries emphasize use cases, requirements, limitations and ethical considerations.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Closing cases with open-source: Facilitating the use of user-generated open-source evidence in international criminal investigations through the creation of a standing investigative mechanism | Leiden Journal of International Law | Cambridge Core",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Closing cases with open-source: Facilitating the use...",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Closing cases with open-source: Facilitating the use of user-generated open-source evidence in international criminal investigations through the creation of a standing investigative mechanism",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Not only is this incident reflective of suboptimal moderation policies of social media platforms, but it is also an example of the potential weaponization of digital sources. The wrongfully-suspended accounts alleged that their accounts were removed due to an attack by Russian bots that had mass reported these accounts’ content.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This incident is not an unprecedented one – digital evidence is particularly unique in its volatility, both in terms of the ease with which it can be altered and with which it can be publicly removed. Whether in error or intentionally, in the case of moderation of hate speech or incitement to violence,",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This exclusionary standard is discretionary, however, and permits judges ‘to seek an appropriate balance between the statute’s fundamental values in each concrete case’.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Even if Chambers determine that evidence is admissible, this finding has ‘no bearing on the final weight to be afforded to it, which will only be determined by the Chamber at the end of the case when assessing the evidence as a whole’.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to determine the weight of digital evidence, precluding a need for significant discussion of the factors in case law. Further, Chambers have explicitly stated that ‘it will consider all the standard evidentiary criteria for each item of evidence submitted, though it may not necessarily discuss in the judgment every submitted item’.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "tribunals’ establishment and the associated technological advancements, the ICC certainly offers additional insight into international tribunals’ handling of digital evidence, but the still limited case law regarding digital evidence leaves open a number of remaining issues.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Given the lack of case law on the subject, it is possible that even opening the access of the content in this manner to external actors may complicate the maintenance of a chain of custody for international courts. For this reason, the question of ensuring effective storage of potential evidence is of the utmost importance.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Syrian Archive, for example, is working proactively to compile an archive of open-source information. By scraping platforms for relevant content, the Syrian Archive is able to store potential evidence in advance of the opening of a formal investigation.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the case of a violation of the right to privacy in the context of open-source evidence, digital content would be consistent, regardless of whether it was obtained in respect or in violation of that right.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Particularly within the realm of atrocity crimes, where state actors are often directly or indirectly involved in the perpetration of crimes, state actor’s involvement in the moderation of potential evidence in these cases raises significant concern.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", Appeals Chamber, Decision on Prosecutor’s Interlocutory Appeals regarding Exclusion of Evidence, Case Nos. ICTR-98-41-AR93 and ICTR-98-41-AR93.2, 19 December 2003, para. 16;",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", Decision on the Prosecutor’s Motion for Admission of Certain Exhibits into Evidence, Case No. ICTR-98-44-T, Trial Chamber III, 25 January 2008, para. 9.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Strengthening Atrocity Cases with Digital Open Source Investigations - Lieber Institute West Point",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Strengthening Atrocity Cases with Digital Open Source Investigations",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Syrian Hero Boy Example",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the case of Syrian Hero Boy,",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). The latter includes, for example, confirmation bias, through which investigators unintentionally overvalue information that supports their preferred working hypothesis of who did what to whom and when, and undervalue or ignore contradictory information.",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "and structural biases to affect their work and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Inherent biases in the Internet’s architecture",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "counterbalance such biases by applying",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "correct for their own biases, which may be",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "chances of biased selection, interpretation and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "biases in the data available online. All of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Because these actions are easy to see, they are often mistaken for the discipline itself.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The mistake is treating it as the final skill.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Despite the utility of digital evidence, it is not without its pitfalls. In the wake of a mass of new uploads, Twitter recently mistakenly suspended a number of accounts reporting from Ukraine.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "E. Culliford, ‘Twitter Says It Mistakenly Took Down Accounts Posting on Russian Military’,",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.reuters.com/world/twitter-says-it-mistakenly-took-down-accounts-posting-russian-military-2022-02-23/",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). The latter includes, for example, confirmation bias, through which investigators unintentionally overvalue information that supports their preferred working hypothesis of who did what to whom and when, and undervalue or ignore contradictory information.",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Yvonne McDermott, Alexa Koenig and Daragh Murray, “Open Source Information’s Blind Spots: Human and Machine Bias in International Criminal Investigations,” Journal of International Criminal Investigations (2021).",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "PDF Portable Document Format",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pdf?x32994.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "humanrights.berkeley.edu/sites/default/files/publications/bellagio_report_july2018_final.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "leiden-guidelines.com/assets/DDE%20in%20ICL.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.usip.org/sites/default/files/resources/sr170.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.icc-cpi.int/sites/default/files/RelatedRecords/CR2019_00267.PDF",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "trialinternational.org/wp-content/uploads/2019/12/Manuel-pratique-preuve-audiovisuelle.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "piac.asn.au/wp-content/uploads/2023/03/Investigating-Perpetrators_PIAC-HRC_2023.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www1.essex.ac.uk/hrc/documents/Introductory_Guide_to_Open_Source_Inteligence_and_Digitial%20Verification.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.eyewitness.global/documents/How-To-Info-Booklet.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.eyewitness.global/documents/What-happens-when-you-upload-footage.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "humanrights.berkeley.edu/sites/default/files/digital_lockers_report5.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/j_circon/n/n29eab4f9b17e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/solo_style/n/n985b3c636ab6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dds_field_note/n/n820dbccacd9f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blogs.icrc.org/law-and-policy/2023/12/05/deploying-osint-in-armed-conflict-settings-law-ethics-theory-of-harm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://product.sct.co.jp/blog/security/what-is-osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sans.org/webcasts/osint-open-source-intelligence-starting-from-scratch-ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe.asahi.com/article/14757751",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elcamy.com/blog/osint-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.criminalip.io/ja/asset/report/211.40.26.148",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.akamai.com/ja/blog",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://digitallibrary.un.org/record/3973652",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.academia.edu/81631939/The_Berkeley_Protocol_on_Digital_Open_Source_Investigations_A_Practical_Guide_on_the_Effective_Use_of_Digital_Open_Source_Information_in_International_Human_Rights_Humanitarian_Law_and_Criminal_Investigations",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://academic.oup.com/lril/article/13/1/93/8126615",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opiniojuris.org/2025/11/28/balancing-digital-truths-and-human-costs-witnesses-and-open-source-evidence-in-atrocity-trials/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） site:note.com",
+   "results": [
+    "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
+    "https://note.com/j_circon/n/n29eab4f9b17e",
+    "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "https://note.com/solo_style/n/n985b3c636ab6",
+    "https://note.com/dds_field_note/n/n820dbccacd9f",
+    "https://note.com/dds_field_note/n/neccd096ac071",
+    "https://note.com/dds_field_note/n/n7e979f5f57d5",
+    "https://note.com/magic_vole6213/n/ned75084de255",
+    "https://note.com/nikinusu318/n/nf6a8daf345d3"
+   ]
+  },
+  {
+   "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） note",
+   "results": [
+    "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "https://osint.dev/articles/osint-is-not-just-searching",
+    "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
+    "https://blogs.icrc.org/law-and-policy/2023/12/05/deploying-osint-in-armed-conflict-settings-law-ethics-theory-of-harm/",
+    "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
+    "https://ethosrisk.com/blog/osint-best-practices/",
+    "https://www.criminalip.io/ja/asset/report/218.188.222.31",
+    "https://www.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e",
+    "https://en.wikipedia.org/wiki/Open-source_intelligence"
+   ]
+  },
+  {
+   "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） やり方",
+   "results": [
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
+    "https://product.sct.co.jp/blog/security/what-is-osint",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.sans.org/webcasts/osint-open-source-intelligence-starting-from-scratch-ja",
+    "https://ethosrisk.com/blog/osint-best-practices/",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.youtube.com/watch?v=k-gICgZ_RgM",
+    "https://en.wikipedia.org/wiki/Open-source_intelligence"
+   ]
+  },
+  {
+   "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） 事例",
+   "results": [
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://globe.asahi.com/article/14757751",
+    "https://www.elcamy.com/blog/osint-case-studies",
+    "https://www.criminalip.io/ja/asset/report/211.40.26.148",
+    "https://www.akamai.com/ja/blog",
+    "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja",
+    "https://cysec148.hatenablog.com/entry/2025/06/30/164859",
+    "https://www.jpcert.or.jp/magazine/chronology/",
+    "https://jp.security.ntt/insights_resources/cyber_security_report/csr202604/",
+    "https://en.wikipedia.org/wiki/Open-source_intelligence"
+   ]
+  },
+  {
+   "query": "osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration",
+   "results": [
+    "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "https://osint.dev/articles/osint-is-not-just-searching",
+    "https://digitallibrary.un.org/record/3973652",
+    "https://www.academia.edu/81631939/The_Berkeley_Protocol_on_Digital_Open_Source_Investigations_A_Practical_Guide_on_the_Effective_Use_of_Digital_Open_Source_Information_in_International_Human_Rights_Humanitarian_Law_and_Criminal_Investigations",
+    "https://academic.oup.com/lril/article/13/1/93/8126615",
+    "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "https://opiniojuris.org/2025/11/28/balancing-digital-truths-and-human-costs-witnesses-and-open-source-evidence-in-atrocity-trials/",
+    "https://en.wikipedia.org/wiki/Open-source_intelligence"
+   ]
+  },
+  {
+   "query": "site:note.com OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）",
+   "results": [
+    "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
+    "https://note.com/j_circon/n/n29eab4f9b17e",
+    "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "https://note.com/solo_style/n/n985b3c636ab6",
+    "https://note.com/dds_field_note/n/n820dbccacd9f",
+    "https://note.com/dds_field_note/n/neccd096ac071",
+    "https://note.com/dds_field_note/n/n7e979f5f57d5",
+    "https://note.com/magic_vole6213/n/ned75084de255",
+    "https://note.com/nikinusu318/n/nf6a8daf345d3"
+   ]
+  },
+  {
+   "query": "site:x.com OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）",
+   "results": [
+    "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
+    "https://note.com/j_circon/n/n29eab4f9b17e",
+    "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "https://note.com/solo_style/n/n985b3c636ab6",
+    "https://note.com/dds_field_note/n/n820dbccacd9f",
+    "https://note.com/dds_field_note/n/neccd096ac071",
+    "https://note.com/dds_field_note/n/n7e979f5f57d5",
+    "https://note.com/magic_vole6213/n/ned75084de255",
+    "https://note.com/nikinusu318/n/nf6a8daf345d3"
+   ]
+  },
+  {
+   "query": "site:linkedin.com OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）",
+   "results": [
+    "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
+    "https://note.com/j_circon/n/n29eab4f9b17e",
+    "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "https://note.com/solo_style/n/n985b3c636ab6",
+    "https://note.com/dds_field_note/n/n820dbccacd9f",
+    "https://note.com/dds_field_note/n/neccd096ac071",
+    "https://note.com/dds_field_note/n/n7e979f5f57d5",
+    "https://note.com/magic_vole6213/n/ned75084de255",
+    "https://note.com/nikinusu318/n/nf6a8daf345d3"
+   ]
+  },
+  {
+   "query": "site:facebook.com OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）",
+   "results": []
+  },
+  {
+   "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） note 社長",
+   "results": [
+    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://www.criminalip.io/ja/asset/report/218.188.222.31",
+    "https://f2ff.jp/introduction/11270?event_id=secd-2025-02-tokyo",
+    "https://note.com/itta_usa/n/nd300923856e1",
+    "https://globe.asahi.com/article/14757751",
+    "https://cysec148.hatenablog.com/entry/2025/06/30/164859",
+    "https://x.com/osintjapan",
+    "https://digitalforensic.jp/2019/02/",
+    "https://en.wikipedia.org/wiki/Open-source_intelligence"
+   ]
+  },
+  {
+   "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） X 投稿",
+   "results": [
+    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://ethosrisk.com/blog/osint-best-practices/",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://x.com/osintjapan",
+    "https://www.youtube.com/watch?v=k-gICgZ_RgM",
+    "https://hwdream.com/about_osint/",
+    "https://www.criminalip.io/ja/asset/report/218.188.222.31",
+    "https://osint.jp/",
+    "https://en.wikipedia.org/wiki/Open-source_intelligence"
+   ]
+  },
+  {
+   "query": "osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/bradleyshervheim",
+    "https://www.linkedin.com/in/fuhardixit",
+    "https://www.linkedin.com/in/tanishkamali",
+    "https://www.linkedin.com/in/tessrubin",
+    "https://www.linkedin.com/in/andromeda-ambard",
+    "https://www.linkedin.com/in/ezztahoun",
+    "https://www.linkedin.com/in/michaelangelomelo",
+    "https://www.linkedin.com/in/ernest-templin",
+    "https://www.linkedin.com/in/jongmin-sung",
+    "https://www.linkedin.com/in/himanshunimonkar"
+   ]
+  }
+ ],
+ "missing": {
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "B. Methodological principles ....................13",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "III. LEGAL FRAMEWORK ................... 17",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methods of fact-finding and analysis. One of the",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "prosecutors and counsel. If, however, unsound methods",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "or crime-based evidence. Common methodological",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodological principles and approaches to support",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "digital technologies and methodologies to expose",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "range of technical, legal and methodological experts,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and methods for uncovering, assessing, verifying",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Methodology, Education and Training Section of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodology, OHCHR and the Human Rights",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "also provides guidance on methodologies and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Berkeley Protocol follows in the footsteps of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "lawyers on how to recognize and document the",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "consistent methods, which both strengthen the",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Workshop on Building an Ethical Framework for Open Source Investigation in Essex University, United Kingdom, January 28–29, 2019",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Berkeley Protocol on Digital Open Source Investigations treats digital open-source work as a professional process involving the gathering, analysis and preservation of digital information, with verification and authentication as central methodological concerns.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Excellent researchers know how to:",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "here is how to move from a question to evidence and from evidence to a calibrated conclusion,",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tool lists are useful, but training people around interfaces creates dependency. Durable OSINT education should teach questions, signal meaning, source criticism, limitations, evidence states and judgment — with tools inside the method.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and hybrid tribunals broadly prohibit the introduction of evidence ‘obtained by methods which cast substantial doubt on its reliability or if its admission is antithetical to, and would seriously damage, the integrity of the proceedings’.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As such, practitioners should proactively take all possible steps to ensure the clarity of the authenticity and reliability of evidence to rebut any potential concerns.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "While both methods can demonstrate an unbroken chain of custody, ensuring that continuity in the first place is a more challenging. The task of ensuring that continuity is based more in policy and practice than in technology, and those practices become more difficult to regulate as the storage of digital evidence becomes more complex.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Traditionally, prosecutors rely on Mutual Legal Assistance Treaties (MLATs), which are bilateral frameworks for co-operation in law enforcement,",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For international courts and investigators working outside the framework of states, the process for accessing data is even less regulated. Under Rule 104(2) of the ICC RPE, the Prosecutor may seek additional information from third parties, including ‘States, organs of the United Nations, intergovernmental and non-governmental organizations, or other reliable sources’.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "With a standing mechanism, the administrative and organizational framework would already be in place when a situation arises meriting further investigation, allowing for more cost-effective and timelier investigations.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Using these initiations as a model for the broader international criminal justice community, a standing international investigative mechanism can offer a framework through which a digital locker could be established.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "basis. Further, by co-ordinating work internally within one framework, a standing mechanism could also more effectively create a shared SOP for documentation, storage, and analysis of digital evidence.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A centralized investigative body could also aid in the rise of domestic prosecutions of atrocity crimes and strengthen the complementarity of the Court. One practitioner expressed a need not only for standardized investigations but also a replicable investigative framework.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "‘Methods and Tools’,",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "syrianarchive.org/en/about/methods-tools",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "J. Deutch and H. Habal, ‘The Syrian Archive: A Methodological Case Study of Open-Source Investigation of State Crime Using Video Evidence from Social Media Platforms’, (2018) 7(1)",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "One of the most acute investigation challenges that has surfaced in the Digital Age is how to find relevant information amidst the huge quantities of content posted online. As noted in Beth Van Schaack’s new book,",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", more than 500 hours of video were posted to YouTube, approximately 87,500 people Tweeted, and roughly 2.1 million Snaps were created on SnapChat. As Van Schaack explains, today the challenge is how to find relevant information in a cacophony of digital noise.",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The professional principles relate to the investigator’s preparation to conduct digital open source investigations. They include accountability, competency, objectivity, legality, and security awareness. The methodological principles, in contrast, further safeguard the quality of the investigation, but focus more on",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Given its temporal convergence with the rise of social media and the spread of smartphones, the Syrian conflict has come to epitomize the use of digital information to document and make sense of alleged war crimes violations for advocacy and legal accountability. In doing so, it has spurred new tools and significant innovation in methods and uses along the way.",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "establishing facts in a case. Courts and investigative",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "manner, which is often the case in international",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Stuart Casey-Maslen, Honorary Professor, Faculty",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Stuart Casey-Maslen, University of Pretoria",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "may include, for example: content posted on",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "reports of the fact-finding mission were also relied upon in the case filed before the International Court of Justice by the Gambia against",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "investigation took place, for example, due to",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in cases in which there is State cooperation,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example is information that can only be acquired",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "12 The dark web refers to that part of the Internet that can only be accessed through specialized software. The Tor browser is one example",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be accessed, for example, on public websites,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "source, examples include privileged, classified",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "such cases, while the information is observable",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "human rights cases, open source intelligence is",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "making functions – for example, to inform",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Case for War Crimes Charges Against Russia’s Sandworm Hackers",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Case for War Crimes Charges Against Russia’s Sandworm Hackers, featuring Lindsay Freeman and her team’s research and submission to the International",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Open-Source Digital Evidence in International Criminal Cases: A Way Forward in Ensuring Accountability for Core Crimes?",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Open-Source Digital Evidence in International Criminal Cases: A Way Forward in Ensuring Accountability for Core Crimes? by Konstantina Stavrou, with mention of",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Nothing in these examples requires the original data to be false.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bellingcat's Online Investigations Toolkit is valuable partly because it does not present tools as magic buttons. Its entries emphasize use cases, requirements, limitations and ethical considerations.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Closing cases with open-source: Facilitating the use of user-generated open-source evidence in international criminal investigations through the creation of a standing investigative mechanism | Leiden Journal of International Law | Cambridge Core",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Closing cases with open-source: Facilitating the use...",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Closing cases with open-source: Facilitating the use of user-generated open-source evidence in international criminal investigations through the creation of a standing investigative mechanism",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Not only is this incident reflective of suboptimal moderation policies of social media platforms, but it is also an example of the potential weaponization of digital sources. The wrongfully-suspended accounts alleged that their accounts were removed due to an attack by Russian bots that had mass reported these accounts’ content.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This incident is not an unprecedented one – digital evidence is particularly unique in its volatility, both in terms of the ease with which it can be altered and with which it can be publicly removed. Whether in error or intentionally, in the case of moderation of hate speech or incitement to violence,",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This exclusionary standard is discretionary, however, and permits judges ‘to seek an appropriate balance between the statute’s fundamental values in each concrete case’.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Even if Chambers determine that evidence is admissible, this finding has ‘no bearing on the final weight to be afforded to it, which will only be determined by the Chamber at the end of the case when assessing the evidence as a whole’.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to determine the weight of digital evidence, precluding a need for significant discussion of the factors in case law. Further, Chambers have explicitly stated that ‘it will consider all the standard evidentiary criteria for each item of evidence submitted, though it may not necessarily discuss in the judgment every submitted item’.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "tribunals’ establishment and the associated technological advancements, the ICC certainly offers additional insight into international tribunals’ handling of digital evidence, but the still limited case law regarding digital evidence leaves open a number of remaining issues.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Given the lack of case law on the subject, it is possible that even opening the access of the content in this manner to external actors may complicate the maintenance of a chain of custody for international courts. For this reason, the question of ensuring effective storage of potential evidence is of the utmost importance.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Syrian Archive, for example, is working proactively to compile an archive of open-source information. By scraping platforms for relevant content, the Syrian Archive is able to store potential evidence in advance of the opening of a formal investigation.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the case of a violation of the right to privacy in the context of open-source evidence, digital content would be consistent, regardless of whether it was obtained in respect or in violation of that right.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Particularly within the realm of atrocity crimes, where state actors are often directly or indirectly involved in the perpetration of crimes, state actor’s involvement in the moderation of potential evidence in these cases raises significant concern.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", Appeals Chamber, Decision on Prosecutor’s Interlocutory Appeals regarding Exclusion of Evidence, Case Nos. ICTR-98-41-AR93 and ICTR-98-41-AR93.2, 19 December 2003, para. 16;",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", Decision on the Prosecutor’s Motion for Admission of Certain Exhibits into Evidence, Case No. ICTR-98-44-T, Trial Chamber III, 25 January 2008, para. 9.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Strengthening Atrocity Cases with Digital Open Source Investigations - Lieber Institute West Point",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Strengthening Atrocity Cases with Digital Open Source Investigations",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The Syrian Hero Boy Example",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the case of Syrian Hero Boy,",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). The latter includes, for example, confirmation bias, through which investigators unintentionally overvalue information that supports their preferred working hypothesis of who did what to whom and when, and undervalue or ignore contradictory information.",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "and structural biases to affect their work and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Inherent biases in the Internet’s architecture",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "counterbalance such biases by applying",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "correct for their own biases, which may be",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "chances of biased selection, interpretation and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "biases in the data available online. All of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Because these actions are easy to see, they are often mistaken for the discipline itself.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The mistake is treating it as the final skill.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Despite the utility of digital evidence, it is not without its pitfalls. In the wake of a mass of new uploads, Twitter recently mistakenly suspended a number of accounts reporting from Ukraine.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "E. Culliford, ‘Twitter Says It Mistakenly Took Down Accounts Posting on Russian Military’,",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.reuters.com/world/twitter-says-it-mistakenly-took-down-accounts-posting-russian-military-2022-02-23/",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). The latter includes, for example, confirmation bias, through which investigators unintentionally overvalue information that supports their preferred working hypothesis of who did what to whom and when, and undervalue or ignore contradictory information.",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Yvonne McDermott, Alexa Koenig and Daragh Murray, “Open Source Information’s Blind Spots: Human and Machine Bias in International Criminal Investigations,” Journal of International Criminal Investigations (2021).",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "PDF Portable Document Format",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pdf?x32994.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "humanrights.berkeley.edu/sites/default/files/publications/bellagio_report_july2018_final.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "leiden-guidelines.com/assets/DDE%20in%20ICL.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.usip.org/sites/default/files/resources/sr170.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.icc-cpi.int/sites/default/files/RelatedRecords/CR2019_00267.PDF",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "trialinternational.org/wp-content/uploads/2019/12/Manuel-pratique-preuve-audiovisuelle.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "piac.asn.au/wp-content/uploads/2023/03/Investigating-Perpetrators_PIAC-HRC_2023.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www1.essex.ac.uk/hrc/documents/Introductory_Guide_to_Open_Source_Inteligence_and_Digitial%20Verification.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.eyewitness.global/documents/How-To-Info-Booklet.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.eyewitness.global/documents/What-happens-when-you-upload-footage.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "humanrights.berkeley.edu/sites/default/files/digital_lockers_report5.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T15:02:21.264875+00:00"
+}
