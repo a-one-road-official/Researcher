@@ -22,6 +22,7 @@ import re
 import statistics
 import sys
 import time
+import unicodedata
 from collections import Counter, defaultdict
 from urllib.parse import urlparse as _raw_urlparse
 
@@ -146,7 +147,7 @@ def _listed() -> set:
     if not f.exists():
         return set()
     with open(f, encoding="utf-8") as fh:
-        return {norm(r["name"]) for r in csv.DictReader(fh)}
+        return {cmp_key(r["name"]) for r in csv.DictReader(fh)}
 
 
 def norm(name: str) -> str:
@@ -154,6 +155,13 @@ def norm(name: str) -> str:
     n = n.translate(str.maketrans("ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ０１２３４５６７８９＆",
                                     "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789&"))
     return n.strip(" ・-")
+
+
+# 2026-11-06 4-57：比べるためだけの鍵（データビズラボ「名寄せ・データクレンジングのやり方」：旧字と新字で同じ会社が別扱いになる。
+# 表記ゆれの辞書は見つかるたびに足す）。表示の社名は元の表記のまま残し、この鍵は比べるときだけ使う（4-8）
+KYUJI = str.maketrans("髙﨑德濵邊邉澤齋齊廣國櫻龍會實與壽榮檜", "高崎徳浜辺辺沢斎斉広国桜竜会実与寿栄桧")
+def cmp_key(name: str) -> str:
+    return re.sub(r"[\s・\-]", "", norm(unicodedata.normalize("NFKC", name)).translate(KYUJI)).lower()
 
 
 def valid_name(core: str) -> bool:
@@ -434,13 +442,15 @@ def write_outputs(finished: bool = True) -> None:
             return True
         return e > 300 and c > 30000 or e > 1000 or c > 100000
     listed = _listed()
-    ok = [r for r in rows if r["status"] == "ok" and r.get("official_url") and not _is_portal(r["official_url"]) and not _big(r) and norm(r["name"]) not in listed]
+    ok = [r for r in rows if r["status"] == "ok" and r.get("official_url") and not _is_portal(r["official_url"]) and not _big(r) and cmp_key(r["name"]) not in listed]
     # 同じ会社が県違いで重複したら、出典の多い方を残す
-    best: dict[str, dict] = {}
+    # 2026-11-06 4-57・4-8：社名だけで同じ会社とみなさない（同名の別会社を誤って1つにした）。社名の鍵と公式URLのホストが両方同じときだけ束ねる
+    best: dict[tuple, dict] = {}
     for r in ok:
-        cur = best.get(r["name"])
+        k = (cmp_key(r["name"]), _host(r["official_url"]))
+        cur = best.get(k)
         if not cur or int(src.get((r["name"], r["pref"]), {}).get("mentions", 0)) > int(src.get((cur["name"], cur["pref"]), {}).get("mentions", 0)):
-            best[r["name"]] = r
+            best[k] = r
     ok = list(best.values())
 
     with open(ROOT / "inputs" / "setouchi_mfg.csv", "w", newline="", encoding="utf-8-sig") as f:
