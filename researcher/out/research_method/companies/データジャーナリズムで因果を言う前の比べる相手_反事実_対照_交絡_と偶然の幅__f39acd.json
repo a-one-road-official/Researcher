@@ -8,8 +8,138 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-05T22:44:49.240117+00:00",
+ "researched_at": "2026-11-06T04:46:38.959014+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "You should be skeptical of any headline that says the number of jobs in the United States has changed by fewer than about 105,000 since last month. That’s because the monthly jobs growth estimate has a",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It couldn’t have been long before someone thought of counting by letting each of the chosen stand for 10, but millennia passed before anyone was able to estimate the accuracy of this process.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This formula makes it possible to tally the number of ways to get a sample with any particular number of unemployed people. Dividing the number of possible samples for each level of unemployment by the total of 2,118,760 possible samples gives the probability of seeing each possible unemployment estimate.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Estimated Unemployment",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Because this interval covers a 40% range, and our best estimate is right in the middle, we say that the estimate has a margin of error of 20%. The",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "And that’s it. We’ve now calculated the margin of error on our unemployment estimate. There many different ways of phrasing our result, which all mean the same thing.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This is how we know the error in our monthly unemployment estimates. The Current Population Survey samples 150,000 people out of 300,000,000. The Bureau of Labor statistics has run the math and worked out that it’ll get within 300,000 of the true unemployment rate 90 percent of the time, which corresponds to 0.2% difference in the national unemployment rate.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Large counts are usually estimates, which differ from the true value by some amount.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "it’s very tempting to interpret something as meaningful when it could just as easily be a coincidence—especially if it makes a good story. But dumb luck is always in the running as an explanation for your data. To try to untangle chance from other factors, we can estimate the probability of sheer coincidence.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "But is it really “extremely improbable?” Nate Silver has estimated the odds:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". Thus, dying in a terrorist attack can seem just as probable as being struck by lightning even though a conservative estimate puts lighting at least ten times more likely. Telling people the actual numbers does not change this perception, because their perception is not based on numbers!",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Lifetime odds of being struck by lightning estimated at 1 in 12,000 by NOAA, based on 2004–2013 averages.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "PDFs and printed copies of this report are available on the",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Denise Schmandt-Besserat, “Tokens and Writing: The Cognitive Development,”SCRIPTA (2009): 145–154, https://sites.utexas.edu/dsb/files/2014/01/TokensWriting_the_Cognitive_Development.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Brian Gratton and Myron P. Guttman, “Hispanics in the United States 1850–1990,” Historical Methods, 3 (2000), https://www.latinamericanstudies.org/immigration/Hispanics-US-1850-1990.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "“Sixteenth Decennial Census of the United States, Instructions to Enumerators,Population and Agriculture,” U.S. Census Bureau, 1940, https://www.census.gov/history/pdf/1940instructions.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Steven Raphael and Jens Ludwig, Evaluating Gun Policy: Effects on Crime and Violence (Chicago: Brookings Institution Press, 2003), 251–277, https://home.uchicago.edu/ludwigj/papers/Exile_chapter_2003.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Andrew Gelman, “Statistics for Cigarette Sellers,” Chance, 3 (2012), https://www.stat.columbia.edu/~gelman/research/published/ChanceEthics4.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "This is a book about the principles behind data journalism. Not what visualization software to use and how to scrape a website, but the fundamental ideas that underlie the human use of data. This isn’t “how to use data” but “how data works.”",
@@ -97,92 +227,6 @@
    },
    {
     "quote": "Any claim of cause is implicitly a claim about data from a world we don’t ever get to see: a world where the cause never happened. it’s worth thinking about how to approximate this world through comparisons or modeling. Just looking for increases or decreases is not enough. As the Project Exile researchers put it:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "You should be skeptical of any headline that says the number of jobs in the United States has changed by fewer than about 105,000 since last month. That’s because the monthly jobs growth estimate has a",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It couldn’t have been long before someone thought of counting by letting each of the chosen stand for 10, but millennia passed before anyone was able to estimate the accuracy of this process.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This formula makes it possible to tally the number of ways to get a sample with any particular number of unemployed people. Dividing the number of possible samples for each level of unemployment by the total of 2,118,760 possible samples gives the probability of seeing each possible unemployment estimate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Estimated Unemployment",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Because this interval covers a 40% range, and our best estimate is right in the middle, we say that the estimate has a margin of error of 20%. The",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "And that’s it. We’ve now calculated the margin of error on our unemployment estimate. There many different ways of phrasing our result, which all mean the same thing.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This is how we know the error in our monthly unemployment estimates. The Current Population Survey samples 150,000 people out of 300,000,000. The Bureau of Labor statistics has run the math and worked out that it’ll get within 300,000 of the true unemployment rate 90 percent of the time, which corresponds to 0.2% difference in the national unemployment rate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Large counts are usually estimates, which differ from the true value by some amount.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "it’s very tempting to interpret something as meaningful when it could just as easily be a coincidence—especially if it makes a good story. But dumb luck is always in the running as an explanation for your data. To try to untangle chance from other factors, we can estimate the probability of sheer coincidence.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "But is it really “extremely improbable?” Nate Silver has estimated the odds:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "your data. This comes out in the mathematical derivation of the method, which says we need to multiply our Bayes factor of 2.3 to 1 by the prior odds to get a final estimate.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "There is a lot more to say about this method of comparing the likelihood that different models generated your data. The method here only applies to multiple-choice questions, whereas real work often estimates a parameter: how",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". Thus, dying in a terrorist attack can seem just as probable as being struck by lightning even though a conservative estimate puts lighting at least ten times more likely. Telling people the actual numbers does not change this perception, because their perception is not based on numbers!",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Lifetime odds of being struck by lightning estimated at 1 in 12,000 by NOAA, based on 2004–2013 averages.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -311,62 +355,18 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "PDFs and printed copies of this report are available on the",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Denise Schmandt-Besserat, “Tokens and Writing: The Cognitive Development,”SCRIPTA (2009): 145–154, https://sites.utexas.edu/dsb/files/2014/01/TokensWriting_the_Cognitive_Development.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Brian Gratton and Myron P. Guttman, “Hispanics in the United States 1850–1990,” Historical Methods, 3 (2000), https://www.latinamericanstudies.org/immigration/Hispanics-US-1850-1990.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“Sixteenth Decennial Census of the United States, Instructions to Enumerators,Population and Agriculture,” U.S. Census Bureau, 1940, https://www.census.gov/history/pdf/1940instructions.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Steven Raphael and Jens Ludwig, Evaluating Gun Policy: Effects on Crime and Violence (Chicago: Brookings Institution Press, 2003), 251–277, https://home.uchicago.edu/ludwigj/papers/Exile_chapter_2003.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Andrew Gelman, “Statistics for Cigarette Sellers,” Chance, 3 (2012), https://www.stat.columbia.edu/~gelman/research/published/ChanceEthics4.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/platypus2000jp/n/n19c141ec868d",
+    "url": "https://note.com/yu_epiphany/n/n80f78e5600d0",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/suntarooo3/n/n1d5335f83dfc",
+    "url": "https://note.com/platypus2000jp/n/n19c141ec868d",
     "status": "ok",
     "method": "http"
    },
@@ -386,128 +386,78 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/openwave/n/n86c4590c143a",
+    "url": "https://note.com/platypus2000jp/n/nd95b71edbb3d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/repkuririn7/n/n5b9d7572d30d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/macromill/n/n73fa02c20ec3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://wakara.co.jp/mathlog/20260104",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/m3dag/n/n3db1f5090e0e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/globis_engineers/n/n3f45bc222df8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.intage.co.jp/gallery/statistical-dataunderstanding/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.asmarq.co.jp/column/column-cat/glossary/confounding/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.krsk-phs.com/entry/counterfactual_assumptions",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiqumo.jp/contents/knowhow/3241",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.skillupai.com/blog/tech/causal-inference/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://martechlab.gaprise.jp/archives/abtest/causal-relationship/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
+    "url": "https://x.com/mMEDICI_Inc/article/2065374280419004739",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200717-00000072-impress-sci&lang=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
+    "url": "https://www.icrweb.jp/pluginfile.php/802/mod_resource/content/2/ICRweb_20191030.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://elsur.jpn.org/mt/cat13/",
+    "url": "https://i-datascience.com/2026/11/06/%E5%9B%A0%E6%9E%9C%E9%96%A2%E4%BF%82%E3%81%AE%E5%88%A4%E6%96%AD%EF%BC%9Ahill%E3%81%AE%E5%9F%BA%E6%BA%96/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://webview.isho.jp/journal/detail/pdf/10.11477/mf.055704330610111201",
+    "url": "https://www.transparently.jp/dskentei/causal-inference",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m.u-tokyo.ac.jp/sph/wp-content/uploads/2024/09/060e811d2c2c4818de8af815c3dbd750.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mmedici.co.jp/mmedici-library/zUxQIgoy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1-byte.com/blog/data/causal-inference-introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yakugaku-gokaku.com/eisei-inga-kankei-bias-kouraku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marginaleffects.com/chapters/comparisons.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getrecast.com/deep-dive-counterfactuals/",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://journalistsresource.org/media/margin-error-journalists-surveys-polls/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12723",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.qualtrics.com/articles/strategy-research/margin-of-error/",
-    "status": "ok",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1048984323000012",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://knology.org/article/numbers-in-the-news-margin-of-error/",
-    "status": "ok",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0895435620311756",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -516,85 +466,65 @@
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 site:note.com",
    "results": [
+    "https://note.com/yu_epiphany/n/n80f78e5600d0",
     "https://note.com/platypus2000jp/n/n19c141ec868d",
-    "https://note.com/suntarooo3/n/n1d5335f83dfc",
     "https://note.com/momoen_de/n/ndb1acc01b83e",
     "https://note.com/biostat_lab/n/naa6165d6ff13",
     "https://note.com/genial_robin6007/n/n4ffb76b4cea3",
-    "https://note.com/openwave/n/n86c4590c143a",
-    "https://note.com/platypus2000jp/n/nd95b71edbb3d"
+    "https://note.com/platypus2000jp/n/nd95b71edbb3d",
+    "https://note.com/openwave/n/n86c4590c143a"
    ]
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 note",
    "results": [
-    "https://note.com/repkuririn7/n/n5b9d7572d30d",
-    "https://note.com/macromill/n/n73fa02c20ec3",
-    "https://wakara.co.jp/mathlog/20260104",
-    "https://note.com/m3dag/n/n3db1f5090e0e",
-    "https://note.com/globis_engineers/n/n3f45bc222df8",
-    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://ehm-yuge-h.esnet.ed.jp/json/blogs/saveLikeJson/1/108/7072",
-    "https://note.com/pocketstudio/n/n8f1ddd5c09b4",
-    "https://www.zentsuken.net/journal/file/166_2.html",
-    "https://x.com/mMEDICI_Inc/article/2065374280419004739"
+    "https://x.com/mMEDICI_Inc/article/2065374280419004739",
+    "https://www.icrweb.jp/pluginfile.php/802/mod_resource/content/2/ICRweb_20191030.pdf",
+    "https://note.com/momoen_de/n/ndb1acc01b83e",
+    "https://i-datascience.com/2026/11/06/因果関係の判断：hillの基準/",
+    "https://www.transparently.jp/dskentei/causal-inference",
+    "https://www.m.u-tokyo.ac.jp/sph/wp-content/uploads/2024/09/060e811d2c2c4818de8af815c3dbd750.pdf",
+    "https://mmedici.co.jp/mmedici-library/zUxQIgoy"
    ]
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 やり方",
-   "results": [
-    "https://www.intage.co.jp/gallery/statistical-dataunderstanding/",
-    "https://www.asmarq.co.jp/column/column-cat/glossary/confounding/",
-    "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
-    "https://www.krsk-phs.com/entry/counterfactual_assumptions",
-    "https://qiqumo.jp/contents/knowhow/3241",
-    "https://www.skillupai.com/blog/tech/causal-inference/",
-    "https://wakara.co.jp/mathlog/20260104",
-    "https://www.acceluniverse.com/blog/developers/2019/12/post-32.html",
-    "https://www.salesanalytics.co.jp/column/no00450/",
-    "https://x.com/mMEDICI_Inc/article/2065374280419004739"
-   ]
+   "results": []
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 事例",
    "results": [
-    "https://www.asmarq.co.jp/column/column-cat/glossary/confounding/",
-    "https://martechlab.gaprise.jp/archives/abtest/causal-relationship/",
-    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
-    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200717-00000072-impress-sci&lang=ja",
-    "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "https://elsur.jpn.org/mt/cat13/",
-    "https://webview.isho.jp/journal/detail/pdf/10.11477/mf.055704330610111201",
-    "https://hgpi.org/wp-content/uploads/advocacy-college.pdf",
-    "https://x.com/mMEDICI_Inc/article/2065374280419004739"
+    "https://x.com/mMEDICI_Inc/article/2065374280419004739",
+    "https://www.icrweb.jp/pluginfile.php/802/mod_resource/content/2/ICRweb_20191030.pdf",
+    "https://www.transparently.jp/dskentei/causal-inference",
+    "https://i-datascience.com/2026/11/06/因果関係の判断：hillの基準/",
+    "https://mmedici.co.jp/mmedici-library/zUxQIgoy",
+    "https://1-byte.com/blog/data/causal-inference-introduction",
+    "https://yakugaku-gokaku.com/eisei-inga-kankei-bias-kouraku/"
    ]
   },
   {
    "query": "data journalism counterfactual comparison confounding chance small counts margin of error guide",
    "results": [
-    "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php/",
-    "https://journalistsresource.org/media/margin-error-journalists-surveys-polls/",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
-    "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
-    "https://www.qualtrics.com/articles/strategy-research/margin-of-error/",
-    "https://knology.org/article/numbers-in-the-news-margin-of-error/",
-    "https://www.youtube.com/watch?v=W2ifrvrRrxc",
+    "https://marginaleffects.com/chapters/comparisons.html",
     "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "https://sciencemediacentre.es/en/short-guide-statistics-journalists-how-open-black-box-scientific-study",
-    "https://marginaleffects.com/chapters/comparisons.html"
+    "https://getrecast.com/deep-dive-counterfactuals/",
+    "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12723",
+    "https://www.sciencedirect.com/science/article/pii/S1048984323000012",
+    "https://www.sciencedirect.com/science/article/pii/S0895435620311756",
+    "https://www.vishalsingh.org/ch05-counterfactual"
    ]
   },
   {
    "query": "site:note.com データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務",
    "results": [
     "https://note.com/yu_epiphany/n/n80f78e5600d0",
-    "https://note.com/cy_larm/n/n9251890dec5b",
-    "https://note.com/suntarooo3/n/n1d5335f83dfc",
+    "https://note.com/platypus2000jp/n/n19c141ec868d",
     "https://note.com/momoen_de/n/ndb1acc01b83e",
     "https://note.com/biostat_lab/n/naa6165d6ff13",
     "https://note.com/platypus2000jp/n/nd95b71edbb3d",
-    "https://note.com/genial_robin6007/n/n4ffb76b4cea3"
+    "https://note.com/genial_robin6007/n/n4ffb76b4cea3",
+    "https://note.com/relearningsquare/n/nbd56ec2bd65d"
    ]
   },
   {
@@ -618,7 +548,7 @@
     "https://jp.linkedin.com/pulse/counterfactuals-causal-inference-peter-walker-hns2e?tl=ja",
     "https://jp.linkedin.com/pulse/causality-counterfactuals-role-iot-digital-twin-dr-pg-madhavan?tl=ja",
     "https://jp.linkedin.com/pulse/potential-outcomes-challenge-counterfactuals-athulya-ganapathi-kandy-isjwc?tl=ja",
-    "https://jp.linkedin.com/pulse/因果推論という言葉と実際に使われている推定手法がズレる理由-michio-okazaki-6yhmc"
+    "https://jp.linkedin.com/pulse/unlocking-causal-inference-comprehensive-guide-back-door-bowen-li-7jwdc?tl=ja"
    ]
   },
   {
@@ -636,50 +566,42 @@
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 note 社長",
    "results": [
-    "https://note.com/repkuririn7/n/n5b9d7572d30d",
-    "https://note.com/macromill/n/n73fa02c20ec3",
-    "https://www.asmarq.co.jp/column/column-cat/glossary/confounding/",
-    "https://www.krsk-phs.com/entry/counterfactual_assumptions",
-    "https://note.com/m3dag/n/n3db1f5090e0e",
-    "https://wakara.co.jp/mathlog/20260104",
-    "https://www.acceluniverse.com/blog/developers/2019/12/post-32.html",
-    "https://news.rease.co.jp/n/n3ef06df59a7b",
-    "https://www.datacurrent.co.jp/column/correlation_causation20211109/"
+    "https://x.com/mMEDICI_Inc/article/2065374280419004739",
+    "https://www.icrweb.jp/pluginfile.php/802/mod_resource/content/2/ICRweb_20191030.pdf",
+    "https://note.com/momoen_de/n/ndb1acc01b83e",
+    "https://i-datascience.com/2026/11/06/因果関係の判断：hillの基準/",
+    "https://www.transparently.jp/dskentei/causal-inference",
+    "https://x.com/mMEDICI_Inc/article/2067552926709731407",
+    "https://www.youtube.com/watch?v=nlOaMRvqgic"
    ]
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 X 投稿",
    "results": [
-    "https://www.asmarq.co.jp/column/column-cat/glossary/confounding/",
-    "https://healthpolicyhealthecon.wordpress.com/2014/09/30/study-design-overview/",
-    "https://intelligence-is.co.jp/causal-inference-causal-relation/",
-    "https://martechlab.gaprise.jp/archives/abtest/causal-relationship/",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20190926-00000001-tospoweb-ent&lang=ja",
-    "https://elsur.jpn.org/mt/cat13/",
-    "https://id.ndl.go.jp/bib/025491812",
-    "https://www.jabes1993.org/%E7%B5%8C%E5%96%B6%E5%80%AB%E7%90%86%E5%AD%A6%E4%BC%9A%E8%AA%8C_%E7%AC%AC31%E5%8F%B7.pdf",
-    "https://www.chosakai.gr.jp/wp/wp-content/uploads/2023/02/20230200_734pd.pdf",
-    "https://x.com/mMEDICI_Inc/article/2065374280419004739"
+    "https://x.com/mMEDICI_Inc/article/2065374280419004739",
+    "https://www.icrweb.jp/pluginfile.php/802/mod_resource/content/2/ICRweb_20191030.pdf",
+    "https://x.com/mMEDICI_Inc/article/2067552926709731407",
+    "https://i-datascience.com/2026/11/06/因果関係の判断：hillの基準/",
+    "https://www.transparently.jp/dskentei/causal-inference",
+    "https://www.m.u-tokyo.ac.jp/sph/wp-content/uploads/2024/09/060e811d2c2c4818de8af815c3dbd750.pdf",
+    "https://qiita.com/Seine_A_Shintani/items/d3b0866baec898e613fd"
    ]
   },
   {
    "query": "data journalism counterfactual comparison confounding chance small counts margin of error guide site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/sanghoonio",
-    "https://www.linkedin.com/in/justin-steve-50361727",
-    "https://nl.linkedin.com/in/hermon-kweon",
-    "https://ch.linkedin.com/in/robin-j-hofmeister-a74029b6",
-    "https://my.linkedin.com/in/lim-zi-xiang-datascience",
     "https://www.linkedin.com/pulse/causal-inference-ii-counterfactuals-randomization-confounder-medin",
     "https://www.linkedin.com/posts/handy-research_episode-11-counterfactual-framework-practical-activity-7439697916736229376-BenY",
     "https://www.linkedin.com/advice/1/what-best-practices-addressing-confounding-variables-jkejf",
     "https://www.linkedin.com/pulse/causal-inference-scenario-illustration-ajay-taneja-ejzsf",
-    "https://www.linkedin.com/pulse/potential-outcomes-challenge-counterfactuals-athulya-ganapathi-kandy-isjwc"
+    "https://www.linkedin.com/pulse/potential-outcomes-challenge-counterfactuals-athulya-ganapathi-kandy-isjwc",
+    "https://www.linkedin.com/advice/0/how-can-you-address-bias-confounding-variables",
+    "https://www.linkedin.com/top-content/productivity/improving-research-outcomes/how-to-manage-confounding-variables-in-research/"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-05T20:04:55.850292+00:00"
 }

@@ -8,60 +8,8 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-05T22:49:56.340652+00:00",
+ "researched_at": "2026-11-06T04:38:23.704694+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "observed, derived and estimated data",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Triangulation (Source Triangulation)",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Observed, Derived and Estimated Data",
-    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Information Credibility: Triangulation",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Admiralty Code for OSINT: Grading Sources in Practice — Sep 30, 2026 · Grading OSINT Sources with the Admiralty Code: A Practical Guide How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.",
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Altss Private Markets OSINT Verification Standard | Altss Frameworks",
@@ -704,6 +652,50 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "observed, derived and estimated data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "DERIVED and ESTIMATED values have no origin of their own. Their origin is the set of origins of their inputs.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For DERIVED and ESTIMATED values, validation covers the inputs and the correct application of the rule or method. Validation never turns an ESTIMATED value into an OBSERVED one.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reliability and credibility grades are judgments. Irwin and Mandel (2019) argue that the Admiralty-style scales mask subjectivity and recommend numeric probability estimates and periodic re-evaluation. This standard keeps ordinal grades for sources and information, requires reasons for each, and uses numeric ranges for likelihood judgments.",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Triangulation (Source Triangulation)",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Observed, Derived and Estimated Data",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Information Credibility: Triangulation",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "checked against the cited primary sources on",
@@ -831,6 +823,14 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Admiralty Code for OSINT: Grading Sources in Practice — Sep 30, 2026 · Grading OSINT Sources with the Admiralty Code: A Practical Guide How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.",
+    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -847,11 +847,6 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/sk_kasou/n/n5f1905ea4f6f",
     "status": "ok",
     "method": "http"
@@ -862,22 +857,32 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/itta_usa/n/nd300923856e1",
+    "url": "https://note.com/bright_slug2632/n/n44571e8c8f5d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://intelligencenotes.com/",
+    "url": "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "url": "https://www.forensicnotes.com/osint-tools/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "url": "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/dora_e_m/n/n53da07162cf1",
     "status": "ok",
     "method": "http"
    },
@@ -887,47 +892,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.ibm.com/jp-ja/think/topics/osint",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dataimpulse.com/ja-jp/blog/osint-tools/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.octoparse.jp/blog/osint-tools",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://atsoho.com/blog/osint-how-to",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://product.sct.co.jp/blog/security/what-is-osint",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "url": "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "status": "ok",
     "method": "browser"
    },
@@ -937,43 +902,88 @@
     "method": "http"
    },
    {
+    "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibm.com/jp-ja/think/topics/osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f2ff.jp/introduction/11270?event_id=secd-2025-02-tokyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aofirs.org/articles/osint-open-source-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybersecurity-info.com/column/40141/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://it.miyazaki.tv/osint/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kaeken.hatenablog.com/entry/2026/10/30/000000",
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
+    "url": "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Admiralty-Code",
+    "url": "https://www.babelstreet.com/blog/reliable-and-verifiable-osint-with-new-standard",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.robertduraniv.com/answers/evidence/verify-osint-source",
+    "url": "https://knowlesys.com/en/articles/news/resources_a_practical_guide_to_source_verification_in_open_source_intelligence.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://owasp.org/projects/open-source-intelligence-standard",
+    "url": "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://osintblog.com/blog/what-makes-osint-source-reliable",
+    "url": "https://osint.dev/osint",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "status": "ok",
+    "url": "https://www.bitsight.com/learn/cti/osint-framework",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -984,63 +994,74 @@
    "results": [
     "https://note.com/platypus2000jp/n/n5eecd471d349",
     "https://note.com/sk_kasou/n/nbde2a2effa4d",
-    "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
     "https://note.com/sk_kasou/n/n5f1905ea4f6f",
     "https://note.com/platypus2000jp/n/n908cf3d0301e",
-    "https://note.com/itta_usa/n/nd300923856e1",
-    "https://note.com/bright_slug2632/n/n44571e8c8f5d"
+    "https://note.com/bright_slug2632/n/n44571e8c8f5d",
+    "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
+    "https://note.com/osintechofficial/n/n5a35c4aae9aa",
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://note.com/everprogress/n/nde8351a93d60",
+    "https://note.com/itta_usa/n/nd300923856e1"
    ]
   },
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） note",
    "results": [
-    "https://intelligencenotes.com/",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://cybersecurity-info.com/column/40141/",
+    "https://www.forensicnotes.com/osint-tools/",
+    "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
+    "https://note.com/dora_e_m/n/n53da07162cf1",
     "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
-    "https://note.com/sk_kasou/n/nbde2a2effa4d",
-    "https://www.ibm.com/jp-ja/think/topics/osint",
-    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
-    "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
-    "https://it.miyazaki.tv/osint/",
-    "https://kaeken.hatenablog.com/entry/2026/10/30/000000"
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "https://note.com/4989er/n/n40c8fd7dc601",
+    "https://intelligencenotes.com/"
    ]
   },
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） やり方",
    "results": [
-    "https://dataimpulse.com/ja-jp/blog/osint-tools/",
-    "https://www.octoparse.jp/blog/osint-tools",
-    "https://atsoho.com/blog/osint-how-to",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "https://www.tisi.jp/special/security-diagnosis-column-019/",
-    "https://crexgroup.com/ja/security/solutions/osint-guide-tools/",
-    "https://product.sct.co.jp/blog/security/what-is-osint",
-    "https://media-security.printemps.tokyo/articles/recon-osint",
-    "https://digitaldata-forensics.com/column/security/8873/"
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "https://www.ibm.com/jp-ja/think/topics/osint",
+    "https://www.youtube.com/watch?v=lr-4eNnBKNA",
+    "https://dataimpulse.com/ja-jp/blog/osint-tools/"
    ]
   },
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） 事例",
    "results": [
-    "https://aofirs.org/articles/osint-open-source-intelligence",
-    "https://cybersecurity-info.com/column/40141/",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
     "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://it.miyazaki.tv/osint/",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://kaeken.hatenablog.com/entry/2026/10/30/000000",
-    "https://www.ibm.com/jp-ja/think/topics/osint"
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.youtube.com/watch?v=RcpXi3gnS84",
+    "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "https://f2ff.jp/introduction/11270?event_id=secd-2025-02-tokyo",
+    "https://product.sct.co.jp/blog/security/free-7-recommended-osint-tools",
+    "https://aofirs.org/articles/osint-open-source-intelligence"
    ]
   },
   {
    "query": "OSINT source verification framework reliability grading provenance",
    "results": [
-    "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework",
-    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Admiralty-Code",
-    "https://www.robertduraniv.com/answers/evidence/verify-osint-source",
-    "https://owasp.org/projects/open-source-intelligence-standard",
-    "https://osintblog.com/blog/what-makes-osint-source-reliable",
-    "https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/",
-    "https://theosintvault.io/osint-handbook"
+    "https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence",
+    "https://www.babelstreet.com/blog/reliable-and-verifiable-osint-with-new-standard",
+    "https://knowlesys.com/en/articles/news/resources_a_practical_guide_to_source_verification_in_open_source_intelligence.html",
+    "https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/",
+    "https://osint.dev/osint",
+    "https://www.bitsight.com/learn/cti/osint-framework",
+    "https://www.sans.org/cyber-security-courses/advanced-open-source-intelligence-gathering-analysis",
+    "https://shadowdragon.io/resources/osint-data-sources/",
+    "https://osintersect.com/training/specialist-training/verification-validation/",
+    "https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework"
    ]
   },
   {
@@ -1050,7 +1071,7 @@
     "https://note.com/sk_kasou/n/nbde2a2effa4d",
     "https://note.com/nikkeimatomemo/n/ncd86c6ef3ffb",
     "https://note.com/sk_kasou/n/n5f1905ea4f6f",
-    "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "https://note.com/osintechofficial/n/n5a35c4aae9aa",
     "https://note.com/itta_usa/n/nd300923856e1",
     "https://note.com/bright_slug2632/n/n44571e8c8f5d"
    ]
@@ -1073,11 +1094,11 @@
     "https://jp.linkedin.com/pulse/what-osint-investigation-why-does-matter-ethos-risk-services-h8bfe?tl=ja",
     "https://jp.linkedin.com/pulse/open-source-intelligence-osint-powerful-tool-information-t-w96pc?tl=ja",
     "https://www.linkedin.com/pulse/evolution-osint-beyond-modern-investigations-vub6f",
-    "https://at.linkedin.com/posts/nihonmatsu_ctivd-automated-osint自動化されたosint-オープンソース-activity-7065927076675006465-OeBm",
     "https://www.linkedin.com/pulse/7-essential-tools-open-source-intelligence-osint-gathering-gupta--mbpsc",
+    "https://at.linkedin.com/posts/nihonmatsu_ctivd-automated-osint自動化されたosint-オープンソース-activity-7065927076675006465-OeBm",
+    "https://sa.linkedin.com/in/سكسي-نيك-طيز-6295a21aa",
     "https://br.linkedin.com/company/osintcombine",
-    "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja",
-    "https://sa.linkedin.com/in/سكسي-نيك-طيز-6295a21aa"
+    "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja"
    ]
   },
   {
@@ -1095,42 +1116,51 @@
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） note 社長",
    "results": [
-    "https://ja.wikipedia.org/wiki/加藤貞顕",
-    "https://intelligencenotes.com/",
-    "https://note.com/platypus2000jp/n/n5eecd471d349",
-    "https://www.octoparse.jp/blog/osint-tools",
-    "https://note.com/sk_kasou/n/nbde2a2effa4d",
-    "https://media-security.printemps.tokyo/articles/recon-osint",
-    "https://shiraberu-note.com/osint-basic-tools-guide/"
+    "https://note.com/itta_usa/n/nd300923856e1",
+    "https://note.com/dora_e_m/n/n53da07162cf1",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf",
+    "https://note.com/terueda/n/n5707498651c3",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.netattest.com/osint-2023_mkt_tst",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
    ]
   },
   {
    "query": "OSINTの出どころ評価と検証の型（intelligencenotes・osint-software） X 投稿",
    "results": [
-    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
-    "https://ttlab.hopto.org/blog/culture/2026-05-16-modern-osint-tools-2026-maltego-spiderfoot-recon-ng-theharvester-osint-industries-trace-labs-bellingcat-aleph-project-deep-dive?lang=ja",
-    "https://www.octoparse.jp/blog/osint-tools",
-    "https://product.sct.co.jp/blog/security/what-is-osint",
-    "https://blog.b-son.net/2026/04/osint-tools-links-guide.html",
     "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
-    "https://yasashii-cybersecurity.com/osint-professional-techniques/"
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.wiz.io/ja-jp/academy/threat-intel/osint-tools",
+    "https://www.sentinelone.com/ja/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://osintframework.com/",
+    "https://www.ibm.com/jp-ja/think/topics/osint",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://japanese.opswat.com/products/metadefender/insights-osint",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
    ]
   },
   {
    "query": "OSINT source verification framework reliability grading provenance site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/top-content/marketing/authenticity-in-digital-content/how-to-verify-osint-source-credibility/",
     "https://www.linkedin.com/pulse/assessing-source-credibility-osint-applying-admiralty-matthias-wilson-chqif",
-    "https://pe.linkedin.com/pulse/intelligence-source-grading-ensuring-reliability-critical-mcquade-lgs1c",
-    "https://ca.linkedin.com/in/liranassaf",
-    "https://pe.linkedin.com/pulse/how-ai-osint-tools-can-uncover-fraud-blcsf",
-    "https://se.linkedin.com/in/mohammedaleryani",
-    "https://www.linkedin.com/pulse/verification-osint-caputosta-calabra-yumne"
+    "https://www.linkedin.com/posts/leendertvanbochoven_defence-osint-intelligence-activity-7516828680438898688-0Qy3",
+    "https://www.linkedin.com/pulse/ethical-dilemma-using-data-breach-information-osint-paul-wright-jmmaf",
+    "https://www.linkedin.com/posts/the-coalition-of-cyber-investigators_from-guidance-to-proof-what-an-evidence-grade-activity-7516834000397811712-18Uw",
+    "https://www.linkedin.com/posts/hitesh-ramnani_nothing-here-is-secret-thats-the-problem-activity-7512785158798958593-Owft",
+    "https://de.linkedin.com/in/christina-lekati-social-engineering",
+    "https://nl.linkedin.com/in/dutch-osintguy",
+    "https://uk.linkedin.com/in/markjohnsontrmg",
+    "https://www.linkedin.com/pulse/digital-forensic-validation-principles-methods-examples-james-henning-xbjye",
+    "https://nl.linkedin.com/in/privacy-insight-solutions"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-05T04:42:23.981695+00:00"
 }

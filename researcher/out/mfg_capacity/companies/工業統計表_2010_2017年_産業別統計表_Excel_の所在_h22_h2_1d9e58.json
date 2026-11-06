@@ -1,0 +1,436 @@
+{
+ "name": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016）",
+ "en": "Census of Manufacture 2010-2017 industry tables excel METI",
+ "aliases": [
+  "工業統計表 平成29年 確報 産業別統計表 xls site:meti.go.jp",
+  "工業統計表 平成25年 産業編 データ site:meti.go.jp",
+  "工業統計 平成22年 確報 産業別統計表 site:meti.go.jp"
+ ],
+ "context": "全体・統計・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T04:38:35.933952+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/2961.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.e-gov.go.jp/data/dataset/cao_20150109_0017/resource/85b9f777-8bdc-4eee-968c-6a7a301f848d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/2948.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h29-kakuhou/h28-jisseki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/29kogyosokuhou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/29kougyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/page/2950.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2016/kekka/pdf/hinsan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aj-pia.or.jp/wp-content/uploads/2021/09/h30insta_indus_h29achieve.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.city.fukuyama.hiroshima.jp/pl/dataset/industry/resource/54a61417-e48f-4e66-b8a3-a7132921bab3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/22kogyo-kakuho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/iip/b2010_result-2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://www.pref.ehime.jp/page/2961.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://data.e-gov.go.jp/data/dataset/cao_20150109_0017/resource/85b9f777-8bdc-4eee-968c-6a7a301f848d",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h29/kakuho/sangyo/index.html",
+    "https://www.stat.go.jp/library/opac/Free_word_search/hlist?q=0&idx=2757&tmtl=1&rgtn=WT9931251",
+    "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/content/001994097.pdf",
+    "https://release.nikkei.co.jp/attach_file/0536402_02.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji00367877/index.html"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.ehime.jp/page/2948.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h29-kakuhou/h28-jisseki.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/29kogyosokuhou.pdf",
+    "https://www.city.toyama.lg.jp/shisei/1001818/1011652/1010975/1002235.html"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h29-kakuhou/h28-jisseki.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/29kougyou.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.stat.go.jp/data/e-census/2016/kekka/pdf/hinsan.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h29-kakuhou/h28-jisseki.html",
+    "https://www.pref.ehime.jp/page/2948.html",
+    "https://www.aj-pia.or.jp/wp-content/uploads/2021/09/h30insta_indus_h29achieve.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/29kogyosokuhou.pdf",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/29kougyou.html"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h29-kakuhou/h28-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.aj-pia.or.jp/wp-content/uploads/2021/09/h30insta_indus_h29achieve.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h29-kakuhou/h28-jisseki.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://data.city.fukuyama.hiroshima.jp/pl/dataset/industry/resource/54a61417-e48f-4e66-b8a3-a7132921bab3",
+    "https://www.pref.ehime.jp/page/2948.html",
+    "https://www.aj-pia.or.jp/wp-content/uploads/2021/09/h30insta_indus_h29achieve.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/22kogyo-kakuho.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://data.city.fukuyama.hiroshima.jp/pl/dataset/industry/resource/54a61417-e48f-4e66-b8a3-a7132921bab3",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h29-kakuhou/h28-jisseki.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/29kougyou.html"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h29-kakuhou/h28-jisseki.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/29kougyou.html",
+    "https://www.pref.ehime.jp/page/2950.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/29kogyosokuhou.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.aj-pia.or.jp/wp-content/uploads/2021/09/h30insta_indus_h29achieve.pdf",
+    "https://www.jpc-net.jp/research/rd/db/",
+    "https://www.pref.ehime.jp/page/2948.html"
+   ]
+  },
+  {
+   "query": "Census of Manufacture 2010-2017 industry tables excel METI Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/b2010_result-2.html",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "https://www.census.gov/foreign-trade/balance/c5880.html",
+    "https://www.meti.go.jp/english/statistics/tyo/iip/h2afdlde.html",
+    "https://www.rieti.go.jp/en/database/R-JIP2017/",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016）",
+   "results": [
+    "https://note.com/endo_ops/n/n5df7b4df71b1",
+    "https://note.com/grand_wren6791/n/n7fabb37a77ce",
+    "https://note.com/kiduki_to_manabi/n/n59314d256a59",
+    "https://note.com/kiduki_to_manabi/n/n0d2d705ff688",
+    "https://note.com/kaizen_mexico/n/n1326c8920851",
+    "https://note.com/kyosunlab/n/n0d02655a1f42",
+    "https://note.com/monotsukuri_lab/n/nfaaa6f8f3ca0"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016）",
+   "results": [
+    "https://www.linkedin.com/learning/excel-for-sales-professionals-2017/welcome",
+    "https://www.linkedin.com/learning/excel-for-sales-professionals-2017/create-a-leaderboard",
+    "https://in.linkedin.com/in/sanjaygrouoexcelindia",
+    "https://www.linkedin.com/learning/excel-2016-essential-training/using-the-exercise-files",
+    "https://www.linkedin.com/pulse/excel-2016-level-1-2-8th-august-2017-11th-angeline-devine",
+    "https://jp.linkedin.com/learning/excel-2016-charts/692002",
+    "https://jp.linkedin.com/in/akemi-n-7ab62b38a"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016）",
+   "results": [
+    "https://www.facebook.com/worksinstitute/posts/中途採用実態調査2016年上半期実績2017年度見通しを公開しました2017年度の中途採用はさらに増加の見通し2016年度上半期において約2社に1社は中途採用で/1190441894396426/",
+    "https://www.facebook.com/YSP.H.Y.M/videos/高畫質gc1-實測影片/1138049756240988/",
+    "https://www.facebook.com/104hr/posts/週年制及曆年轉週年制excel工具檔案下載分享-您的公司屬於每年11給假的特休制度修法後的特休給假你知道要給幾天嗎excel試算表讓您輕鬆計算特休假歡迎加入人資/1213487078688289/",
+    "https://www.facebook.com/Mofa.Japan/posts/1936317729773529/",
+    "https://www.facebook.com/JissoNews/photos/統計情報4月23日に日本電子回路工業会-jpca-が電子回路基板電子回路実装基板の生産動向資料を更新2025年2月実績を追加経済産業省生産動態統計月報4月14日/1117140343548018/",
+    "https://www.facebook.com/JissoNews/photos/統計情報12月24日に日本電子回路工業会-jpca-が電子回路基板電子回路実装基板の生産動向資料を更新2025年10月実績を追加経済産業省生産動態統計月報11月/1306493614612689/",
+    "https://www.facebook.com/hashikenkyo/posts/耐候性鋼橋梁実績結果資料集調査年2017年度までを橋建協ｈｐにアップしました実績資料集の第２４版は２０１７年度平成２９年度までの受注情報をまとめたものです２０１/2168119533237503/"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.pref.ehime.jp/page/2948.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/29kogyosokuhou.pdf",
+    "https://data.city.fukuyama.hiroshima.jp/pl/dataset/industry/resource/54a61417-e48f-4e66-b8a3-a7132921bab3",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm"
+   ]
+  },
+  {
+   "query": "工業統計表 2010〜2017年 産業別統計表 Excel の所在（h22〜h29・実績2009〜2016） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2016/kg16q20000.htm",
+    "https://www.pref.ehime.jp/page/2948.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/29kogyosokuhou.pdf",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/29kougyou.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm"
+   ]
+  },
+  {
+   "query": "Census of Manufacture 2010-2017 industry tables excel METI site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/learning/learning-public-data-sets-2/us-census-bureau-industry-data",
+    "https://www.linkedin.com/learning/learning-public-data-sets-2/us-census-bureau-maps-and-visualizations",
+    "https://np.linkedin.com/company/excel-industry",
+    "https://sg.linkedin.com/company/excel-cosmeceutical-industry-pte-ltd",
+    "https://id.linkedin.com/company/excel-metal-industries",
+    "https://in.linkedin.com/in/shreya-meti-747ba31a3",
+    "https://id.linkedin.com/company/excel-metal-industry-pt"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ35頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ35頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ35頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ35頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ35頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ35頁・検索18回）",
+  "10年推移": "記載なし（読んだ35頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ35頁・検索18回）"
+ }
+}

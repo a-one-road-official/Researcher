@@ -1,0 +1,508 @@
+{
+ "name": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳）",
+ "en": "Census of Manufacture processing fee revenue by detailed industry Japan METI xls",
+ "aliases": [
+  "工業統計表 産業別統計表 加工賃収入額 site:meti.go.jp filetype:xls",
+  "工業統計 製造品出荷額等の内訳 加工賃収入額 産業細分類",
+  "工業統計 品目別統計表 賃加工 site:meti.go.jp"
+ ],
+ "context": "全体・統計・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T04:52:23.416805+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389975",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.gifu.lg.jp/page/10612.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2014/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h26-kakuhou/documents/intro1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18qf1000.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.daisen.lg.jp/open-data/dataset/2021120900290",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/documents/riyou_2023kkj_shizu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h25-kakuhou/documents/intro.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/h21kougyoukakuhou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12965/k-h15-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/2019kogyokekkapdf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12967/k-h17-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2020chuui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/faq/faq08/faq08b02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/data_report/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389975",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.gifu.lg.jp/page/10612.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/sangyou/sangyou_53/siryou_3a.pdf",
+    "https://www.indb.co.jp/wp-content/themes/in/service/economy/cdrom/update/pdf/kogyo_R0201.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep26/0information.htm",
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2014/01.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&kikan=00550&statdisp_id=0003432847",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h26-kakuhou/documents/intro1.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18qf1000.pdf",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.pref.oita.jp/10800/chosakekka/kogyodata/h14/shikumi.html",
+    "https://www.pref.ibaraki.jp/kikaku/tokei/fukyu/tokei/betsu/koko/kogyo2020/index.html"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.city.daisen.lg.jp/open-data/dataset/2021120900290",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.toyama.jp/sections/1015/lib/kogyo/rep22/15industry.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） 統計 PDF",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/documents/riyou_2023kkj_shizu.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h25-kakuhou/documents/intro.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/h21kougyoukakuhou1.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.nara.lg.jp/documents/12965/k-h15-00.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://data-seisaku.com/00200-soumu-00200555-seizou10-09-full-listm/"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h26-kakuhou/documents/intro1.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/2019kogyokekkapdf.pdf",
+    "https://www.pref.nara.lg.jp/documents/12967/k-h17-00.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/2019kogyokekkapdf.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/h21kougyoukakuhou1.pdf",
+    "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2020chuui.pdf",
+    "https://www.stat.go.jp/library/faq/faq08/faq08b02.html"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/h21kougyoukakuhou1.pdf",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf"
+   ]
+  },
+  {
+   "query": "Census of Manufacture processing fee revenue by detailed industry Japan METI xls Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.meti.go.jp/english/statistics/index.html",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.meti.go.jp/english/data_report/index.html",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳）",
+   "results": [
+    "https://note.com/stats47/n/n5d86476e9c73",
+    "https://note.com/taguchi_yasutomo/n/ne96b7d8b4443",
+    "https://note.com/kagawatomo/n/n49f13e2d83fe",
+    "https://note.com/stayfoolish2005/n/n8196ec1af16f",
+    "https://note.com/makabe_takashi/n/n2c8a3e772c07",
+    "https://note.com/idplusi_suzuki/n/n43489afbee15",
+    "https://note.com/jack4manastalk/n/ncf970b24dd2b",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/matsunoya_note/n/n271a6ec4b9ea",
+    "https://note.com/makabe_takashi/n/n10bd363c59a6"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳）",
+   "results": [
+    "https://x.com/i/article/2107975579580739876",
+    "https://jf.x.com/images/media-preview/2114139069064392916",
+    "https://jf.x.com/images/media-preview/2111680219052642760",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/ohmura_hideaki/status/2082434710060560428",
+    "https://x.com/tokei_ibaraki/status/2082712347798577159",
+    "https://x.com/takano_mario/status/2093143372257251825",
+    "https://x.com/masashi_i/status/2084834106253472010"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳）",
+   "results": [
+    "https://www.linkedin.com/help/linkedin/answer/a720019",
+    "https://www.linkedin.com/posts/market-pulse-report-24_機能性繊維加工剤-市場-2032年までの細分化将来動向と分析-activity-7189654496212410369-u9jG",
+    "https://br.linkedin.com/in/diogo-kravetz-359531259",
+    "https://jp.linkedin.com/pulse/フアルムア-加工-設備市場の最新動向主要企業市場細分化と将来展望2026年版-qr-pro-strategy-hub-utvkf",
+    "https://jp.linkedin.com/pulse/クアントウム-インフオルムアション-加工市場の最新動向主要企業市場細分化と将来展望2026年版-0wvuf",
+    "https://jp.linkedin.com/pulse/医療-イムアグエ-加工-ソフトウェア市場の最新動向主要企業市場細分化と将来展望2026年版-zo9jf",
+    "https://www.linkedin.com/jobs/view/20～40代活躍中／収入面を重視されている方にオススメ！／月収例29-7万円【工具を使用した産業用ロボットの制御装置の組立】（no-ty-11363-03-jp）-at-フジアルテ株式会社-4457800112"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳）",
+   "results": [
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/groups/1117274224969459/posts/27093195153617344/",
+    "https://www.facebook.com/okisou.naikakufu/photos/令和6年-農業産出額-及び-生産農業所得沖縄県を公表しました令和6年の農業産出額はさとうきびの生産量が増加したことなどから前年に比べて増加しています農業産出額と/1204262308509989/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/非鉄金属大手８社の２０２６年３月期連結業績予想は６社が当期減益を見込む銅製錬会社の加工賃収入であるｔｃｒｃ溶錬費精錬費が銅精鉱の供給不足と海外銅製錬所の新規稼働/1252133540250646/",
+    "https://www.facebook.com/100088886342216/posts/舞台技術サービス事業日本標準産業分類承認の件第14回日本標準産業分類改正令和6年4月1日施行において舞台技術スタッフを指す産業分類番号として大分類n-生活関連サ/224951593811051/",
+    "https://www.facebook.com/fcstandard2020/videos/令和2年の全国開港別貿易額表より輸出額86位206億円輸入額46位1250億円総額1456億円貿易総額国内63位石狩湾港主な輸出入品目は魚介類及び同調整品石狩湾/1627888277552125/"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/200999.pdf",
+    "https://www.pref.kagoshima.jp/ac09/tokei/bunya/kogyo/kogyo/documents/h21kougyoukakuhou1.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://books.google.com/books/about/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%A1%A8.html?id=s6q1AAAAIAAJ",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/documents/22chosa-gaiyo-riyojonochui.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18qf1000.pdf",
+    "https://www.jagat.or.jp/archives/20681"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 加工賃収入額の表（産業細分類×年・製造品出荷額等の内訳） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2019chuui.pdf",
+    "https://catalog.dxpn-dev.net/ja/dataset/?res_format=XLS&tags=%E9%89%B1%E5%B7%A5%E6%A5%AD_%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3&organization=ymns_toukei",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html"
+   ]
+  },
+  {
+   "query": "Census of Manufacture processing fee revenue by detailed industry Japan METI xls site:linkedin.com",
+   "results": [
+    "https://th.linkedin.com/in/laurene-daull/fr",
+    "https://www.linkedin.com/in/maya-grevatt",
+    "https://www.linkedin.com/in/doug-gallagher-b0a75637",
+    "https://th.linkedin.com/in/laurene-daull/zh-cn",
+    "https://www.linkedin.com/in/kennywinn",
+    "https://et.linkedin.com/in/kaleab-araya",
+    "https://jp.linkedin.com/in/tetsuji-madarame-6a337916b",
+    "https://ca.linkedin.com/in/yong-kang-ma",
+    "https://uk.linkedin.com/in/goncalocanhoto",
+    "https://bw.linkedin.com/in/kgomotso-sefako-704b79180"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ46頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ46頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ46頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ46頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ46頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ46頁・検索18回）",
+  "10年推移": "記載なし（読んだ46頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ46頁・検索18回）"
+ }
+}

@@ -529,50 +529,56 @@
   - ［SNS］2026-11-06「SMR（小型モジュール炉）は、工場で大部分が製造された後、運転現場に輸送され、そこで設置されて産業施設、建物、その他の商業用途に電力を供給する小型原子炉です。その最大出力は通常300メガワット（MWe）程度です。この報告書では、SMRの信頼性と運転効率の高さが普及拡大の主な理由として挙げられており、ゼネラル・エレクトリック社がこの分野におけるモジュール炉技術の主要サプライヤーとして挙げられています。」https://note.com/techpress/n/nb1fc5262f0a6
   - ［SNS］2026-11-06「市場拡大の主な原動力として、2つの要因が際立っている。第一に、クリーンエネルギー発電への世界的な動きが、各国政府や電力会社を化石燃料の代替手段として原子力発電へと向かわせており、小型モジュール炉（SMR）はその移行における拡張可能な要素として位置づけられている。第二に、産業エネルギー消費量は増加の一途をたどっており、特に軽水炉は、信頼性が高くコスト効率の良いエネルギー源を求める企業にとって、発電、電力会社、データセンター運営など幅広い分」https://note.com/techpress/n/nb1fc5262f0a6
 ### 業界ニュース（毎日）｜バイオ由来化学品（bio-based chemicals）
-- 取得：2026-11-05T04:31・調査2回目・読んだ頁37
+- 取得：2026-11-06T04:53・調査3回目・読んだ頁41
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
-- 顧客（金を払う側）（43件）：
-  - ［一次］2026-11-05「 2025年3月、GX企業の人材確保に関する事例集を公表」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
-  - ［一次］2026-11-04「本発表会は、バイオものづくり分野に取り組む大学・研究機関や企業、自治体等に毎月ご登壇いただき、取組内容の紹介と意見交換を行うことで、バイオものづくり分野への理解を深めていただき、産学連携・産産連携の促進を図ることを目的としています」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「随時募集中となっておりますので、バイオものづくり分野に取り組まれている研究者、企業、自治体の皆様は是非エントリーください」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「14:10～14:30 「『【企業向け】事例から考える！バイオものづくり製品導入に向けたガイドブック』のご紹介」」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「バイオものづくりは、環境対応だけでなく調達戦略や新たな価値創出にもつながる、現在注目の生産技術です」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-- 顧客の顧客（発注元が求めること）（20件）：
-  - ［一次］2026-11-04「本講演では、糖資源を用いた発酵法による芳香族化学品生産を紹介し、脱炭素と経済安全保障を両立する国産バイオものづくりの方向性を議論する」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「⚫ 併せて、経済安全保障や脱炭素の観点から国内生産基盤の構築が求められる領域（バイオエタノール等）については、需要創」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「原料「バイオものづくり」／石化代替技術 社会実装へ／政府支援、脱炭素加速」」https://www.rite.or.jp/bio/works/media/
-  - ［一次］2026-11-04「「東京五輪までのサプライC整備に課題 バイオジェット検討会、認証の取得も」」https://www.rite.or.jp/bio/works/media/
-  - ［記事］2026-11-05「①国内投資支援としてバイオ製造技術プラットフォームの高度化や設備投資リスクの低減、②需要創出として消費者の認知拡大、国産SAF等の官公需調達による初期需要喚起、実証事業、③立地競争力強化として原料の安定調達・コスト低減と人材エコシステムの確立、④国際連携として国際認証制度との連携やLCAガイドライン策定、バイオセーフティ・セキュリティの確保を進めます」https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html
-- 顧客の競合（奪いに来る側）（22件）：
-  - ［一次］2026-11-04「演者はこれまでにインドネシア研究者らとの連携によって、実バイオマスを用いたバイオものづくりに焦点をあてた研究を進めてきている」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「2025年12月には中国バイオも」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「米国研究機関はCRISPR-Cas9（高効」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「• また、米国は2025年12月、Biosecure Act」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「中国新聞セレクト 2021年1月30日」https://www.rite.or.jp/bio/works/media/
-- 自社の競合（商社・代理店・仲介）：未完（まだ取れていない・掘る対象）
-- 政治（法・予算・規制）（25件）：
-  - ［一次］2026-11-05「革命推進基金（2,700億円）」を実施中」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-05「①GI基金 （1,775億円）」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「本講演では、糖資源を用いた発酵法による芳香族化学品生産を紹介し、脱炭素と経済安全保障を両立する国産バイオものづくりの方向性を議論する」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「経済安全保障の重視 バイオ覇権の動き バイオ市場形成の推進 EUに負けない市場形成の動き」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「２つのバイオ基金における取組について」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-- 経済（規模・価格・為替）（46件）：
-  - ［一次］2026-11-05「1.3兆円~」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
-  - ［一次］2026-11-04「13:30～14:00 「高品質L-PGAの低価格化に向けた枯草菌生産技術の開発」」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「産業として、これまで10年間で約1兆円の経済産業省支援を実施」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「2024年におけるバイオ医薬品の輸出入は、1.7兆円の輸入超過」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「1000億ドル（約11兆円）以上の」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-- 社会（人・担い手）（7件）：
+- 顧客（金を払う側）（59件）：
+  - ［一次］2026-11-06「I. バイオプラスチック及び再生材等の研究開発、製造動向、導入状況に関する調査 （仕様書1） 3」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「I – ① バイオプラスチックの研究開発、製造動向、導入状況に関する調査 4」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「I – ② 再生材の研究開発、製造動向、導入状況に関する調査 55」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「I – ③ バイオプラスチック製品及び再生材製品の調達拡大に向けた検討及び課題等の把握 63」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「II. バイオプラスチック及び再生材等の導入に関連する規制・施策の調査 （仕様書2） 68」https://www.env.go.jp/content/000322560.pdf
+- 顧客の顧客（発注元が求めること）（26件）：
+  - ［一次］2026-11-06「今後、同認証によりバイオマ」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「大日本印刷 ISCC PLUS認証を受けたバイオマス由来特性及びリサイ」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「出光興産がIPCC PLUS認証を取得してバイオマスナフサ」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「2024年にIPCC PLUC認証を取得予定」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「用堆肥化(NF T51-800)認証を取得した PLA、PBAT、複」https://www.env.go.jp/content/000322560.pdf
+- 顧客の競合（奪いに来る側）（40件）：
+  - ［一次］2026-11-06「II – ② 欧州におけるバイオプラスチック等の動向調査 242」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「世界の樹脂別バイオプラスチックの製造能力シェア（2024年、2029年）」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「世界の用途別バイオプラスチックの製造能力シェア（2024年）」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「and copolymers（PBS）、polyethylene furanoate （PEF）、polyhydroxyalkanoates（PHA） and polypropylene（PP）のシェアは1%未満」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「主な製造企業 • Braskem （ブラジル） • LyondellBasell （米国）、Dow （米国）、SABIC（サウジアラ」https://www.env.go.jp/content/000322560.pdf
+- 自社の競合（商社・代理店・仲介）（3件）：
+  - ［一次］2026-11-06「3) バイオプラスチック導入ロードマップ（2021年1月）（商社へのヒアリング結果）, http://www.env.go.jp/recycle/plastic/bio/pdf/bioplasticRoadmap_210329.pdf」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「5) バイオプラスチック導入ロードマップ（2021年1月）（商社へのヒアリング結果）, http://www.env.go.jp/recycle/plastic/bio/pdf/bioplasticRoadmap_210329.pdf」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「出所：N. Scarlat et al (European Commission, Joint Research Centre), Environmental Development, 15, 3-34 （2015)」https://www.nedo.go.jp/content/100870192.pdf
+- 政治（法・予算・規制）（37件）：
+  - ［一次］2026-11-06「II. バイオプラスチック及び再生材等の導入に関連する規制・施策の調査 （仕様書2） 68」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「II – ① 国内及び海外でのプラスチックに関連する規制・制度、バイオプラスチック及び再生材に関連する施策等の調査 69」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「• 政府は、バイオエコノミー戦略（令和６年６月、総合イノベーション戦略推進会議決定）を」https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf
+  - ［一次］2026-11-06「• バイオものづくり分野の産官学連携でのルール形成（GX施策等の活用）、政府調達」https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf
+  - ［一次］2026-11-06「２つの大規模な予算事業（GI基金バイオものづくりPJ、バイオものづくり革命推進事業）を軸に、国内の微生物・」https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf
+- 経済（規模・価格・為替）（84件）：
+  - ［一次］2026-11-06「1-1) Braskem社プレスリリース（2021年2月23日）「Braskem invests US$61 million to increase biopolymer production」, https://www.braskem.com.br/usa/news-detail/braskem-invests-us61-million-to-increase-」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「市場単価（国内） • 石化PEと比較して約3倍3) （2021年ヒアリング結果）」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「• 約260円/kg（2021年12月LLDPE輸入単価）4)」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「市場単価（国内） • 180～200円/kg4)」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「輸入単価は近年上昇しており、2018年からの直近5年間で約2倍と」https://www.env.go.jp/content/000322560.pdf
+- 社会（人・担い手）（11件）：
+  - ［一次］2026-11-06「• バイオファウンドリ拠点の整備（培養・発酵等の生産プロセス開発、人材育成）」https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf
+  - ［一次］2026-11-06「また、バイオものづくり産業の人材不足に備え、バイオものづくり産業人材」https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf
+  - ［一次］2026-11-06「１．バイオ人材エコシステムの確立」https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf
+  - ［一次］2026-11-06「① バイオ人材に求められるケイパビリティ・スキルセットの明確化及び評価」https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf
   - ［一次］2026-11-04「0.25L～30Lまでの比較的小規模の培養槽を設置しており、バイオものづくり分野の新規参入企業をターゲットに、これまで30社以上の培養条件の最適化・小規模試作支援、150社400名以上の人材育成など、多くの実績を積み重ねてきました」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「 2025年3月、GX企業の人材確保に関する事例集を公表」https://www.meti.go.jp/policy/mono_info_service/material_industry/materialslides.pdf
-  - ［記事］2026-11-05「三井化学、総務省消防庁主催の自衛防災技能コンテストで2つの工場が奨励賞を受賞」https://jp.mitsuichemicals.com/jp/release/2026/index.htm
-  - ［記事］2026-11-05「投資内容は、バイオ製造技術の開発・高度化、パイロット・デモ規模から商用規模までの生産拠点整備、バイオ人材の獲得・育成で、投資主体は国、事業会社、金融機関（銀行・VC等）です」https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html
-  - ［記事］2026-11-04「自治体は、バイオマスや廃棄物などの未利用資源の供給、産学官の産業クラスター、国産SAF等の官公需調達、人材育成で直接関われます」https://digital-supporter.net/mirai-ai/17invest/bio-monozukuri.html
-- 技術（新しい技術・実証）（34件）：
-  - ［一次］2026-11-05「を俯瞰した技術開発及び実証を進めることで、バイオ原料や製品の早期の社会実装を目指す」https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/009_04_01.pdf
-  - ［一次］2026-11-04「近年、バイオテクノロジーとデジタル技術の進展により、微生物等の生物機能を最大限に活用した「バイオものづくり」が新たに生まれ、次世代を担う産業として国内外で大きな注目を集めています」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「13:30～14:00 「高品質L-PGAの低価格化に向けた枯草菌生産技術の開発」」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「13:30～14:00 「循環型社会の実現を目指したバイオものづくり技術の開発」」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
-  - ［一次］2026-11-04「本講演では、当機構における未利用バイオマスやCO2など多様な炭素源の有効利用を目指した微生物変換およびバイオプロセス開発の取組を紹介する」https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html
+- 技術（新しい技術・実証）（51件）：
+  - ［一次］2026-11-06「I. バイオプラスチック及び再生材等の研究開発、製造動向、導入状況に関する調査 （仕様書1） 3」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「I – ① バイオプラスチックの研究開発、製造動向、導入状況に関する調査 4」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「I – ② 再生材の研究開発、製造動向、導入状況に関する調査 55」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「I. バイオプラスチック及び再生材等の研究開発、製造動向、導入状況に関する調」https://www.env.go.jp/content/000322560.pdf
+  - ［一次］2026-11-06「I – ① バイオプラスチック及び再生材等の研究開発、製造動向の調査」https://www.env.go.jp/content/000322560.pdf
+- 検索結果の抜粋（2件）：
+  - ［一次］2026-11-06「令和6年度 バイオ プラスチック及び再生材 利用の促進に向け ... — 令和6年度 バイオ プラスチック及び再生材 利用の促進に向け ... 環境省 PDF https://www.env.go.jp > content」https://www.env.go.jp/content/000322560.pdf
+  - ［記事］2026-11-06「バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 — バイオ由来化学品 とは？7事例に学ぶ製造・採用の条件 iri-group.jp https://iri-group.jp > ナレッジ」https://iri-group.jp/knowledge/bio-based-chemicals/
 - SNS・note（LinkedIn・検索結果の抜粋）（1件）：
   - ［SNS］2026-11-04「Bio - based Chemicals : Paving the Way for a Sustainable ... Bio - based Chemicals : Paving the Way for a Sustainable ... LinkedIn https://www.linkedin.com > pulse > bi...」https://www.linkedin.com/pulse/bio-based-chemicals-paving-way-sustainable-1xghe

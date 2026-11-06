@@ -85,6 +85,7 @@
   - 「そのため、コンサルティングファームは選考過程にフェルミ推定やケース面接を設けることによって学生の「」（https://unistyleinc.com/techniques/1459）
   - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかということが大事です」（https://unistyleinc.com/techniques/1459）
 - 検索結果の抜粋：
+  - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk Research: What It Is, Methods & When to Use It | PRSDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
 
@@ -2479,6 +2480,11 @@
 ## デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）（desk research automation citation verification private company revenue estimation）
 - 文脈：探し先
 - 手順・やり方：
+  - 「エンドツーエンドリサーチとは｜7ステップをAIで通す設計」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「Deep Researchとの違い、7ステップ×AIツール対応表、ハルシネーション対策の4点セット、日本語で回すSnorbeまで、R&D企画・新規事業・知財向けに解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AI検索エンジンPerplexity AIの使い方とサービスを徹底比較！（職種ごとの応用リサーチプロンプト57選付き）」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「How to Find Decision Makers in Your Customer List (2026 Sales Guide)」（https://cufinder.io/blog/find-private-company-revenue/）
+  - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「本記事では、AIへ任せる候補収集と構造化、人が残す原典確認と採否、工程ごとの成果物をつなぎ、再現可能なデスクリサーチへ変える方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「これにより、情報が陳腐化した時点で再び収集のステップから始まるサイクルが動き出し、常に最新の実務判断を下せる運用が定着します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「ひとつの実務課題において調査を自動化するには、担当者の裁量に頼るのではなく、AIに与える前提資料、実行させる作業、受け取るデータ、そして最終的に人間が行う確認手順を、一連の流れとして具体的に記録しておく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2489,11 +2495,6 @@
   - 「まず、前回作成した比較表や自社の企画書を前提となる資料としてどのようにシステムへ提示したかという手順を記録します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「まず、届けたい成果物と現在の作業手順を確認し、実際の仕事をAIで試します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「実行回数や費用の上限、人の判断を待つ条件、途中の状態を保存して再開する方法も含めて設計し、実務で動作を確かめます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「新規事業テーマ探索の手順｜AIで回す3-6-12週間ロードマップ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「新規事業テーマ探索の手順を、3週間マクロ発散→6週間フォーカス絞り込み→12週間ゴー/ノーゴー判断のロードマップで整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「AIヒアリングで集めた現場の回答を事業仮説の検証へつなぐ方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 突き合わせ・推定：
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
@@ -2527,6 +2528,8 @@
   - 「Q3. パソコン内のPDFを新しい版へ差し替えれば、Gemini Notebookの出力結果も自動で更新されますか？」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「手元に集めた論文PDFの中から、技術調査や企画に必要な文献をAIで探し出して比較する際、まず取り組むべきは「対象資料を正確に特定し、整理すること」です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 失敗・落とし穴：
+  - 「Perplexity AIの特徴や利点だけでなく、限界や注意点も知ることができ、効果的な活用方法が見つかるはずです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIの全件目視を減らす前に必要な失敗記録、反復評価、例外レビュー、人間承認の境界を、低リスク工程の実務設計として説明します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「社内資料を接続するときの注意点は何ですか？」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「重大な仕様変更や取得失敗があれば定期日を待たず見直します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「特に注意したいのは、同じ研究の異なる版を別の独立した研究として数えてしまうことや、PDFファイルをパソコンにダウンロードした日時を、論文の発行日時と混同してしまうことです」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
@@ -2540,9 +2543,9 @@
   - 「AIの出力は鵜呑みにせず、必ずリンク先の原文の文脈へ遡り、人間が評価条件を確認して採否を決めてください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「オークランド大学図書館の調査ワークフローでは、大学の購読契約に反するため、著作権のある文献の全文をAIへアップロードしないよう注意を促しています」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「88万件の記事を瞬時に生成する革新性の裏に潜む、中央集権モデルの課題とバイアスの危険性を徹底分析」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「入力がファイルとして固定されているからこそ、検索の失敗原因を特定し、エージェントへの依頼を何度でも正確にやり直すことができます」（https://media.deskrex.ai/how-to-conference-survey-2026/）
-  - 「抽出や除外の判定が正しい文脈で行われているか、原文とバイアスは人が確認する必要があります」（https://media.deskrex.ai/how-to-conference-survey-2026/）
 - 実例：
+  - 「Perplexity AIの基本的なリサーチのための使い方から、リクルーター、マーケター、教育者、プロダクトマネージャーなど職種ごとの活用事例、ChatGPTやDeskrexとの比較まで、Perplexity AIを徹底的に解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「毎週、生成AIに関するビジネス活用の事例をお届けしています」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2556,8 +2559,6 @@
   - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「このとき、単に複数のツールを場当たり的に使うのではなく、何を前提となるデータとして渡し、どのように処理を実行させ、どのような結果を受け取り、最終的に人間がどこを確かめるのかという一連の流れを記録しながら進行します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「問いが明確になったら、その結果を次の二次情報収集ツールへ引き継ぎます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「などへ検索の指示を渡し、ウェブ上の膨大なページから関連する情報を探し出させ、引用元のリンクが添えられた初期レポートの形で結果を引き出します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「その結果をもとに、工程の統合や並列化、ツール連携、結果の検証と修正の手順を組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 
 ## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
 - 文脈：分析の型
@@ -2622,6 +2623,7 @@
 ## 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）（entity resolution survivorship rules precision recall human review）
 - 文脈：同一性
 - 手順・やり方：
+  - 「Explore the best unified data analytics platforms, their architecture, features, benefits, use cases, and how to choose the right solution for your business.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
   - 「Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Deduplication is often one step within entity resolution. Deduplication generally identifies duplicate records within a dataset, whereas entity resolution can connect related records across multiple sources and determine which records collectively represent the same real-world entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「What Is an Entity Resolution Framework?」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2636,7 +2638,6 @@
   - 「No. Some implementations only identify and group records belonging to the same entity while preserving every source record. Creating a golden record is a separate canonicalization step that applies survivorship rules to select the preferred values for the resolved entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「What Are Entity Graphs and How to Build One You Can Trust」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-  - 「how to evaluate entity resolution systems (Binette et al., 2024)」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
 - 突き合わせ・推定：
   - 「techniques to compare attributes and estimate whether records belong to the same entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Assigns weights to agreements and disagreements across multiple attributes to estimate whether records refer to the same entity. It is useful when no single reliable identifier is available.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2657,6 +2658,9 @@
 - 失敗・落とし穴：
   - 「High-consequence identity systems should generally bias toward review when evidence is ambiguous.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
 - 実例：
+  - 「Explore the best unified data analytics platforms, their architecture, features, benefits, use cases, and how to choose the right solution for your business.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
+  - 「Customer-Facing Analytics: Benefits, Examples & Tools」（https://www.puppygraph.com/learn/best-entity-resolution-software）
+  - 「Learn how customer-facing analytics works, including its architecture, benefits, examples, tools, implementation strategies, and best practices.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
   - 「For example, a CRM may contain a customer named “Maria Hernandez,” while a billing system records the same person as “M. Hernández.” Their names are not identical, but similarities across their address, email, telephone number, and other attributes may provide enough evidence to link the records to the same customer.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「For example, one system may use “Customer Name,” another “Account Holder,” and a third separate the same information into first-name and last-name fields.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「The appropriate thresholds depend on the consequences of false positives and false negatives for the use case.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2669,9 +2673,6 @@
   - 「This example illustrates why entity resolution is broader than simply deleting duplicate rows. The process evaluates evidence across systems, groups related records, preserves source lineage, and creates a usable representation of the underlying entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Adapt ER rules for different business use cases (e.g., customer data deduplication vs. fraud detection).」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「In most cases, time is critical for ER projects, especially in the case of」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Entity Resolution Use Cases」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「A single accuracy percentage can be misleading because most possible record pairs are non-matches. Evaluation should therefore include false positives, false negatives, the percentage of cases requiring human review and the quality of complete entity clusters—not only individual record pairs.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
 
 ## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
 - 文脈：推定
@@ -5361,7 +5362,7 @@
   - 「Case Study Research: Principles and Practices」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「How Does Neopatrimonialism Affect the African State? The Case of Tax Collection in Zambia」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「Process Tracing and Elite Interviewing: A Case for Non-Probability Sampling」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -5743,11 +5744,11 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
