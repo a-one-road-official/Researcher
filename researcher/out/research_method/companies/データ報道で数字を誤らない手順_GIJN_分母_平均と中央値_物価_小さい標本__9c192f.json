@@ -8,40 +8,8 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-06T07:36:28.430611+00:00",
+ "researched_at": "2026-11-06T12:14:14.292831+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "<p>Sorting in Google Sheets is <a href=\"https://www.youtube.com/watch?v=7nwp0fYm99w&amp;list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq&amp;index=6\">surprisingly straightforward</a> — and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.</p>",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "— and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to interrogate AI regulations",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to make a donation to The Journalist’s Resource",
-    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "<p>Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.</p>",
@@ -133,6 +101,38 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "<p>Sorting in Google Sheets is <a href=\"https://www.youtube.com/watch?v=7nwp0fYm99w&amp;list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq&amp;index=6\">surprisingly straightforward</a> — and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.</p>",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "— and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to interrogate AI regulations",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to make a donation to The Journalist’s Resource",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
@@ -154,19 +154,99 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/genial_robin6007/n/n86004959ed5f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/ooo_stork7656/n/n697fedbbabc9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/imuret_/n/n4518c3cf3339",
+    "url": "https://note.com/kamokita/n/n46705dccb70b",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://note.com/genial_robin6007/n/n86004959ed5f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiny_oxalis335/n/n9e02ee8daecc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cograph_data/n/n5b916d8fd6d1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jschild.or.jp/wp-content/uploads/2023/12/%E9%88%B4%E6%9C%A8%E7%BE%8E%E6%9E%9D%E5%AD%90%E5%85%88%E7%94%9F-%E3%80%8E%E5%B0%8F%E5%85%90%E4%BF%9D%E5%81%A5%E7%A0%94%E7%A9%B6%E3%80%8F%E8%AC%9B%E6%BC%94%E6%8A%84%E9%8C%B2%EF%BC%88%E7%AC%AC82%E5%B7%BB1%E5%8F%B7%EF%BC%890016-0023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seijo-e.city-iwata.ed.jp/json/blogs/saveLikeJson/1/5/3833",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jmp.com/ja/statistics-knowledge-portal/measures-of-central-tendency-and-variability/mean-median-and-mode",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amed.go.jp/content/000034153.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://bellcurve.jp/statistics/course/9427.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heisei-u.ac.jp/ba/fukui/pdf/apstattext05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.statweb.jp/method",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2018/wp18j06.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seijo-e.city-iwata.ed.jp/json/blogs/saveLikeJson/2/7/3876",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://warp.da.ndl.go.jp/collections/https://www.nier.go.jp/13chousakekkahoukoku/data/research-report/chart_j.pdf",
+    "status": "http_403",
+    "method": "pdf"
    },
    {
     "url": "https://wakara.co.jp/mathlog/20251008",
@@ -179,68 +259,33 @@
     "method": "http"
    },
    {
-    "url": "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
-    "status": "http_429",
-    "method": "http"
-   },
-   {
-    "url": "https://1-byte.com/blog/data/statistics-judgment-hub",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/data-preprocessing",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://1-byte.com/blog/data/average-pitfall-judgment",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://i-datascience.com/2026/10/31/%E8%A8%98%E8%BF%B0%E7%B5%B1%E8%A8%88%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9A%E4%BB%A3%E8%A1%A8%E5%80%A4%E3%81%A8%E3%81%B0%E3%82%89%E3%81%A4%E3%81%8D%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jobraku.com/4356/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://numtr.jp/2026-03-29/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://gijn.org/topic/data-journalism/page/2/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-journalists-often-use-standard-references-to-put-very-large-or-very-small-thing/1517388197096943/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17512786.2026.2679484",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.newsbreak.com/news/3971748073596-data-don-ts-expert-tips-to-avoid-misleading-audiences-with-numbers",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/posts/gijn-africa_data-donts-expert-tips-to-avoid-misleading-activity-7322492321537708032-D748",
+    "url": "https://www.quora.com/What-are-the-common-mistakes-of-news-agencies-that-report-numbers-and-percentages-from-a-statisticians-perspective",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://www.linkedin.com/posts/investigative-reporters-and-editors_data-donts-expert-tips-to-avoid-misleading-activity-7322617039678844928-Vy2W",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://gijn.org/stories/page/2/?gijn_topic=data-journalism",
-    "status": "http_403",
+    "url": "https://www.prsa.org/article/how-data-can-misinform---even-when-accurate-FEB26",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -252,75 +297,78 @@
     "https://note.com/baripro001/n/n0ab2b0b54784",
     "https://note.com/miiichii/n/n4e791a2fa254",
     "https://note.com/alert_hyssop1862/n/nfc3f8b223a0e",
-    "https://note.com/genial_robin6007/n/n86004959ed5f",
     "https://note.com/ooo_stork7656/n/n697fedbbabc9",
-    "https://note.com/imuret_/n/n4518c3cf3339",
+    "https://note.com/kamokita/n/n46705dccb70b",
+    "https://note.com/genial_robin6007/n/n86004959ed5f",
     "https://note.com/med_kentalog/n/nb4cca1b5a3f1"
    ]
   },
   {
    "query": "データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手） note",
-   "results": []
+   "results": [
+    "https://note.com/shiny_oxalis335/n/n9e02ee8daecc",
+    "https://note.com/cograph_data/n/n5b916d8fd6d1",
+    "https://www.youtube.com/watch?v=WR_b_EsDfe8",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://www.jschild.or.jp/wp-content/uploads/2023/12/%E9%88%B4%E6%9C%A8%E7%BE%8E%E6%9E%9D%E5%AD%90%E5%85%88%E7%94%9F-%E3%80%8E%E5%B0%8F%E5%85%90%E4%BF%9D%E5%81%A5%E7%A0%94%E7%A9%B6%E3%80%8F%E8%AC%9B%E6%BC%94%E6%8A%84%E9%8C%B2%EF%BC%88%E7%AC%AC82%E5%B7%BB1%E5%8F%B7%EF%BC%890016-0023.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://seijo-e.city-iwata.ed.jp/json/blogs/saveLikeJson/1/5/3833",
+    "https://www.lifescience.co.jp/yk/ronbun.pdf",
+    "https://ehm-yuge-h.esnet.ed.jp/json/blogs/saveLikeJson/1/108/7083"
+   ]
   },
   {
    "query": "データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手） やり方",
    "results": [
-    "https://wakara.co.jp/mathlog/20251008",
-    "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
-    "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
-    "https://1-byte.com/blog/data/statistics-judgment-hub",
-    "https://data-viz-lab.com/data-preprocessing",
-    "https://1-byte.com/blog/data/average-pitfall-judgment",
-    "https://i-datascience.com/2026/10/31/記述統計とは何か：代表値とばらつきでデータを/"
+    "https://www.jmp.com/ja/statistics-knowledge-portal/measures-of-central-tendency-and-variability/mean-median-and-mode",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://bellcurve.jp/statistics/course/9427.html",
+    "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "https://www.heisei-u.ac.jp/ba/fukui/pdf/apstattext05.pdf",
+    "https://www.statweb.jp/method",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
+    "https://qiita.com/JMP_Japan/items/ad242c996c468865c5a0",
+    "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201003nyuumon.pdf",
+    "https://wakara.co.jp/mathlog/20251008"
    ]
   },
   {
    "query": "データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手） 事例",
    "results": [
-    "https://wakara.co.jp/mathlog/20251008",
-    "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
-    "https://github.com/sgbms1/ja-news-skills/blob/main/skills/data-hodo/SKILL.md",
-    "https://1-byte.com/blog/data/statistics-judgment-hub",
-    "https://i-datascience.com/2026/10/31/記述統計とは何か：代表値とばらつきでデータを/",
-    "https://jobraku.com/4356/",
-    "https://numtr.jp/2026-03-29/"
+    "https://www.statweb.jp/method",
+    "https://www.boj.or.jp/research/wps_rev/wps_2018/wp18j06.htm",
+    "https://seijo-e.city-iwata.ed.jp/json/blogs/saveLikeJson/2/7/3876",
+    "https://www.youtube.com/watch?v=Ptkr0C-zjOI",
+    "https://www.hamt.or.jp/cabinets/cabinet_files/index/215/study/kouhou/kouhou/HYOGOnews",
+    "https://note.com/shiny_oxalis335/n/n9e02ee8daecc",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://www.nier.go.jp/13chousakekkahoukoku/data/research-report/chart_j.pdf",
+    "https://wakara.co.jp/mathlog/20251008"
    ]
   },
   {
    "query": "GIJN data reporting don'ts misleading numbers",
    "results": [
     "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
-    "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
     "https://gijn.org/topic/data-journalism/page/2/",
-    "https://www.newsbreak.com/news/3971748073596-data-don-ts-expert-tips-to-avoid-misleading-audiences-with-numbers",
-    "https://www.linkedin.com/posts/gijn-africa_data-donts-expert-tips-to-avoid-misleading-activity-7322492321537708032-D748",
-    "https://www.linkedin.com/posts/investigative-reporters-and-editors_data-donts-expert-tips-to-avoid-misleading-activity-7322617039678844928-Vy2W",
-    "https://gijn.org/stories/page/2/?gijn_topic=data-journalism"
+    "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-journalists-often-use-standard-references-to-put-very-large-or-very-small-thing/1517388197096943/",
+    "https://www.tandfonline.com/doi/full/10.1080/17512786.2026.2679484",
+    "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "https://www.youtube.com/watch?v=Zo00y1gK_QQ",
+    "https://www.quora.com/What-are-the-common-mistakes-of-news-agencies-that-report-numbers-and-percentages-from-a-statisticians-perspective",
+    "https://www.prsa.org/article/how-data-can-misinform---even-when-accurate-FEB26",
+    "https://speero.com/post/dont-be-fooled-by-deceptive-data",
+    "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/"
    ]
   },
   {
    "query": "site:note.com データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）",
-   "results": [
-    "https://note.com/baripro001/n/n0ab2b0b54784",
-    "https://note.com/yu_toukei/n/n51211cb2c084",
-    "https://note.com/miiichii/n/n4e791a2fa254",
-    "https://note.com/alert_hyssop1862/n/nfc3f8b223a0e",
-    "https://note.com/kamokita/n/n46705dccb70b",
-    "https://note.com/genial_robin6007/n/n86004959ed5f",
-    "https://note.com/ooo_stork7656/n/n697fedbbabc9"
-   ]
+   "results": []
   },
   {
    "query": "site:x.com データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）",
-   "results": [
-    "https://x.com/4ki4/status/1116751811774304257",
-    "https://x.com/nkinvestigation",
-    "https://x.com/morihiroaki/status/2004172039477989594",
-    "https://x.com/y_cony/status/1532192168596877312",
-    "https://x.com/takumi_deveblog/status/2111343954419417174",
-    "https://x.com/risk_loving/status/2074331333661454428",
-    "https://x.com/y__fixer/status/2109260260624175612"
-   ]
+   "results": []
   },
   {
    "query": "site:linkedin.com データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）",
@@ -329,42 +377,73 @@
     "https://www.linkedin.com/posts/ellenclegg_lessons-learned-10-common-mistakes-in-data-activity-7192541676035264513-yMuV",
     "https://jp.linkedin.com/pulse/mean-sd-median-iqr-which-more-appropriate-use-priyank-goyal-zrgxc?tl=ja",
     "https://jp.linkedin.com/pulse/data-storytelling-how-turn-numbers-narratives-drive-adebola-a--weynf?tl=ja",
-    "https://jp.linkedin.com/pulse/data-storytelling-how-turn-numbers-insights-drive-action-ajuruchi-pybxf?tl=ja",
+    "https://jp.linkedin.com/pulse/beyond-numbers-storytelling-data-how-present-impact-udzge?tl=ja",
     "https://jp.linkedin.com/pulse/mastering-art-data-storytelling-analytics-turning-numbers-sharma-0hgkf?tl=ja",
-    "https://jp.linkedin.com/pulse/beyond-numbers-storytelling-data-how-present-impact-udzge?tl=ja"
+    "https://jp.linkedin.com/pulse/storytelling-data-making-numbers-meaningful-sephrine-wabwire-hgnzf?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）",
-   "results": []
+   "results": [
+    "https://www.facebook.com/imakarasuugaku/videos/この動画では代表値①-平均と中央値統計学をやさしく解説の内容を-notebooklm-を使ってわかりやすくダイジェストでご紹介しますaiはたまに日本語を間違える/1391052656003206/",
+    "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/gijn-resource-centers-top-guides-for-2025in-2025-gijn-expanded-its-resource-cent/1255274726641626/",
+    "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-in-our-era-of-data-driven-journalism-connecting-the-dots-can-lead-to-groundbrea/719850316850739/",
+    "https://www.facebook.com/SlowNewsJP/posts/新シリーズスタート荻原和樹のビジュアルデータウォッチhttpsslownewscomnn52a5db64aaf7データ可視化やデータ報道のスペシャリスト荻原和樹/657284697055520/",
+    "https://www.facebook.com/ONAJapan/photos/本日ですイベント概要メディア関係者向けona-japanウェビナーコロナとデータ報道ニュースメディアは何を伝えられなかったか新型コロナウイルスに関する報道をめぐ/854955011576140/",
+    "https://www.facebook.com/sratohokuinc/videos/いまさら聞けない数字の見える化番外編ダイジェスト版/539061076252108/",
+    "https://www.facebook.com/SlowNewsJP/posts/データ可視化の歴史的な傑作とはあのナイチンゲールが軍部を説得するために制作したインフォグラフィックをはじめ数々の実例を紹介そしてデータ報道の進化とその意義につい/1121694458479710/"
+   ]
   },
   {
    "query": "データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手） note 社長",
-   "results": []
+   "results": [
+    "https://note.com/shiny_oxalis335/n/n9e02ee8daecc",
+    "https://note.com/wise_cedum2012/n/na815427047ac",
+    "https://www.boj.or.jp/research/wps_rev/wps_2018/wp18j06.htm",
+    "https://japan.zdnet.com/article/35254318/p/2/",
+    "https://researchmap.jp/blogs/blog_entries/view/76494/4037491d0fe276d541b5042b4def9892?frame_id=706711",
+    "https://seijo-e.city-iwata.ed.jp/json/blogs/saveLikeJson/1/5/3833",
+    "https://markezine.jp/article/detail/39424",
+    "https://ehm-yuge-h.esnet.ed.jp/json/blogs/saveLikeJson/1/108/7083",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/110500097/index.html"
+   ]
   },
   {
    "query": "データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手） X 投稿",
-   "results": []
+   "results": [
+    "https://www.jmp.com/ja/statistics-knowledge-portal/measures-of-central-tendency-and-variability/mean-median-and-mode",
+    "https://bellcurve.jp/statistics/course/19014.html",
+    "https://asanoucla.github.io/R10_inference_1.html",
+    "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://www.youtube.com/watch?v=v2TSrjcGdQ0",
+    "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201002nyuumon.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://youtu.be/_D1gsqQYfa0?si=yJ0r7gv0iJAa8N2d"
+   ]
   },
   {
    "query": "GIJN data reporting don'ts misleading numbers site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/global-investigative-journalism-network_data-donts-expert-tips-to-avoid-misleading-activity-7321518374767779840-hXmm",
-    "https://www.linkedin.com/posts/investigative-reporters-and-editors_data-donts-expert-tips-to-avoid-misleading-activity-7322617039678844928-Vy2W",
-    "https://www.linkedin.com/posts/gijn-africa_data-donts-expert-tips-to-avoid-misleading-activity-7322492321537708032-D748",
-    "https://www.linkedin.com/posts/joanna-demarco-35563858_data-donts-expert-tips-to-avoid-misleading-activity-7321428083322839041-5Fsv",
-    "https://www.linkedin.com/pulse/how-lie-data-understanding-manipulation-wilson-gitonga-whfsf",
-    "https://www.linkedin.com/pulse/dangerous-side-statistics-when-numbers-lie-fahim-ahamed-5e1xe",
-    "https://www.linkedin.com/pulse/can-data-tell-truth-still-mislead-us-josephine-jesuraj-c03sc/"
+    "https://www.linkedin.com/company/global-investigative-journalism-network",
+    "https://www.linkedin.com/posts/ibtesam-mou-927a6a86_gijn-masterclass-round-up-data-journalism-activity-7492987824275677184-MeoE",
+    "https://www.linkedin.com/in/rowan-philp-36325020",
+    "https://www.linkedin.com/in/abtran",
+    "https://www.linkedin.com/posts/rana-sabbagh-04864965_ijweek-investigativejournalism-journalism-activity-7511756683115712512-OwN_",
+    "https://ug.linkedin.com/showcase/gijn-africa/",
+    "https://www.linkedin.com/pulse/five-months-expert-guidance-round-up-mkaye",
+    "https://www.linkedin.com/posts/global-investigative-journalism-network_behind-the-scenes-how-four-journalism-teams-activity-7512822647274229760-q495",
+    "https://ca.linkedin.com/in/craigjsilverman",
+    "https://uk.linkedin.com/in/laurajaynedixon"
    ]
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ21頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ21頁・検索12回）",
-  "実例": "記載なし（読んだ21頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-06T02:57:06.153225+00:00"
 }

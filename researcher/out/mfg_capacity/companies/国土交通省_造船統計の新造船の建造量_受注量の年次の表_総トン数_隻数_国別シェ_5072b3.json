@@ -1,0 +1,1264 @@
+{
+ "name": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56）",
+ "en": "Japan MLIT shipbuilding statistics annual new orders completions gross tonnage table",
+ "aliases": [
+  "造船統計 新造船 建造量 受注量 年次 総トン",
+  "海事レポート 造船 受注量 表",
+  "日本 造船 受注量 減少 推移"
+ ],
+ "context": "需要・造船",
+ "kind": "market",
+ "researched_at": "2026-11-06T12:09:32.036871+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "中国・韓国と比べ、１つの造船所当たりの規模が小さく、手動・人海戦術を要する工程において自動化等が進んでいない部分が多い",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能制度・育成就労制度による外国人材受入れ（育成就労制度は2027年4月運用開始）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1兆円規模の投資という方向が示されても、それを受け止める人が揃うかどうかは別の問題として残ります",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定技能制度・育成就労制度による外国人材受入れ（育成就労制度は2027年4月運用開始）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人民元安80.00",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "就労者数：330人（2022.9.30現在）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造船分野における外国人技能実習生：3,010人（2022.４.１現在）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "舶用工業分野における外国人技能実習生：164人（2022.４.１現在）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.外国人技能実習制度",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 海事人材の確保・育成 2.5億円",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２次安倍内閣リーマンショック人民元改革",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数7.7万人",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数4.9万人",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数9.4万人",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外航 日本人 ０.２万人（2023年10月時点）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外国人 ５.４万人（2023年7月時点）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.67.0従 業 員 （ 万 人 ）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人民元安90.00",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造船業に従事する就労者等は、約７～８万人で推移",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（１号特定技能外国人：8,182人、２号特定技能外国人：12人（令和６年３月末時点速報値））",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、技能実習制度については、令和９年から人材確保及び人材育成を目的とする新たな制度（育成就労制",
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "労働人口 70,149人（2023.4現在）",
+    "url": "https://www.meti.go.jp/files/900016855.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 韓国・中国の造船所は日本の造船所と比べて従業員数、敷地面積、生産量ともに１事業所の規模が大きい",
+    "url": "https://www.meti.go.jp/files/900016855.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●2025年に22.5百万トンを建造する前提とした場合、造船・舶用の就労者数は13.5万人となる",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●2014年の就労者数は12.5万人であるため、1万人の追加雇用となる",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 13.5万人（１）造船・舶用に従事する就労者数推移",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）新規採用率（新規採用者／全就労者）を2％として試算しており、退職者の4人に一人が再雇用される場合の想定",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2014年 12.5万人",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年人員は現状より",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１万人以上増",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2014年12.5万人→2025年13.5万人",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "（官:3,800億円規模）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民:2,800億円規模）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（民:3,500億円規模）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,200億円",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "120億円：～2030",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150億円※１：～2026",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産設備整備支援 約960億円※２：2025～2029",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民約2,510億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国庫債務負担行為）として151億円を措置",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次世代船舶の開発:350億円/10年",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "水素SC及び運搬船の開発:3000億円/10年",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①次世代船舶の開発：350億円(10年間)",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "：3,000億円/10年）",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 令和7年度補正予算で1,200億円を措置",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官:3,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民:2,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（民:3,500億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,200億円",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "120億円：～2030",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150億円※１：～2026",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産設備整備支援 約960億円※２：2025～2029",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民約2,510億円）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国庫債務負担行為）として151億円を措置",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年上半期は、売上高営業利益率は改善しているものの、前期に引き続き3社とも赤字を計上",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業に対する支援事業（R4当初予算総額1.5億円、補助率１/２以内）を開始",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総額3,500億円規模を目指す",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度 海事局関係補正予算案 1,208億円 ＋ 関係部局計上予算",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 海事産業の競争力強化 1.8億円",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 造船業再生基金 R7補正 1,200億円",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 海事分野のGX推進 2.3億円",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 海事人材の確保・育成 2.5億円",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【事項要求】日米協力を踏まえた造船についての強靭なサプライチェーンの構築 ＋ 造船分野関連 1,203億円",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "R7補正 1,200億円",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3年毎の達成状況を踏まえ、10年間で合計3,500億円規模の支援を目指す",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（研究開発予算は5年間で120億円）",
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（6,094億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1,976億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（533億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（463億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（7,970億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2,496億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（5,006億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（248億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1,056億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（6,506億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（178億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（988億円）",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約1.8千億円、",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "700億円で売却",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "げは約175億円",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は約3.7",
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 2.3兆円（2022年度）",
+    "url": "https://www.meti.go.jp/files/900016855.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "等の開発・実証※を実施（10年間で350億円)",
+    "url": "https://www.meti.go.jp/files/900016855.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船2.4兆円（売上額）",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "近年、我が国造船業の建造量は減少傾向が継続（2019年1,600万総トン→2024年900万総トン）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "的に、海上輸送量の増加による建造需要が拡大",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術者（受注・設計等を担う者）の人数は横ばいで推移しているが、今後、新規需要船に対応した高度な技術にも対応する必要",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技能者 (造船所内での作業を担う者)の人数は減少傾向であり、人材確保が急務",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【参考：2024年時点】",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "203520272026 20282025",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産設備整備支援 約960億円※２：2025～2029",
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年の1,600万総トンから2024年の900万総トンへ",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省海事局船舶産業課「造船業の現況と造船業再生ロードマップについて」(2026年1月)によれば、我が国造船業の建造量は減少傾向が続いています",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国は2024年の世界の建造量のうち約50%を建造",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "15〜16%で推移",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年にかけて受注量・シェアが減少したあと、その水準にとどまっている形です",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年以降、日本の造船所の建造能力はおおむね1,000万総トン前後",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年以降、日本船主による中国造船所への発注が大きく増加し、全体の3〜4割程度",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "に達しています(2010年代後半はより低い水準でした)",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省の資料によれば、建造量は2019年の1,600万総トンから2024年の900万総トンへ減少しています",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "同資料によれば、中国は2024年の世界の建造量のうち約50%を建造し、受注では世界の7割超を占めています",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のシェアは15〜16%で推移しています",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月19日",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第33回海事立国ﾌｫｰﾗﾑ in 東京2024",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．世界新造船建造量の推移（地域別）",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IHS（旧Lloyd's Register）資料から作成（対象：100総トン以上の商船）、2022年からはClarksons2019年は1-6月の",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．世界受注量(棒)及び船価(折線)の推移",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年世界建造量シェア",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年国内主要造船所の建造量",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◎ 従来のIMO 2050年目標「GHG総排出量半減」を、2023年7月に実質ゼロに改訂",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年1月1日適用開始",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年頃の大量建造",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建造需要量 ＝ 荷動き増加分（IMOｽﾀﾃﾞｨ利用） ＋ 代替需要（船舶燃料の転換需要も考慮）",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総船腹量 2021年：約15億総トン ⇒ 2050年：約20億総トン（見込）",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典: DNV (2021), Pathway to net zero emissions,",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Transition Outlook 2021",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロエミ燃料船が早期に増加し、2050年に80%",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2040年頃までLNG燃料船が増加し50%程度",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロエミ燃料船は徐々に増加し2050",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年頃までLNG燃料船が急速に増加し",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2024年竣工船（隻数ベース）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 海上輸送量の増加や過去の大量に建造された船舶の代替需要等によって、 2030年代には8000万から１億総ト",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ン規模まで建造需要が増加していくと各機関は予測",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中国は2024年に世界の７割超",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本造船工業会予測： 第33回海事立国フォーラム 日本造船工業会講演資料（2024年2月）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Clarksons予測： Clarkson Shipbuilding Forecast Club資料（2024年3月）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OECD予測： Monitoring developments of ship demand and supply（2025年4月）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のシェアは15-16%で推移してい",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たが、2024年には８％に下落",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 中国は、2024年に世界の７割超の受注を行い、今後建造量の増加が見込まれ、市場支配力を強めている",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017 2018 2019 2020 2021 2022 2023 2024",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本造船所の建造量推移 日本船主の新造船発注量推移",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 他方で、2020年以降、日本造船所の建造能力はおおむね1,000万総トン前後の船舶しか建造しておらず、日本",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 2022年以降、日本船主による中国造船所への発注が大きく増加し、全体の３～４割程度（2010年代後半は",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 造船業に従事する日本人就労者数は、中期的に減少傾向が継続",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主な竣工船（2022年度上半期編）",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022.09.20",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022.07.28",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022.04.22",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "承継の場面では、受注残が多いことがそのまま価値になるわけではなく、",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船は受注から引き渡しまで年単位で、受注残の内容が数年先の収益を決めます",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "承継の検討では、全国の傾向ではなく、その事業者が抱える受注残の中身と納期、設備の更新時期、技能者の年齢構成をご確認ください",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "受注残と技能者から、確かめませんか",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "貴社の受注残・技能者・取引先が譲渡の場面でどう見られるかは、決算書と体制を拝見してからお話しします",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "※ 船舶建造中に造船所が倒産等した場合に公的金融機関が発注者に前払金",
+    "url": "https://www.meti.go.jp/files/900016855.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※１ 2015年の建造量は速報値、2016、2017年の受注残については、民間調査機関の2016年と2017年の受注残の平均とした",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "承継の場面では、受注残が多いことがそのまま価値になるわけではなく、",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船は受注から引き渡しまで年単位で、受注残の内容が数年先の収益を決めます",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "承継の検討では、全国の傾向ではなく、その事業者が抱える受注残の中身と納期、設備の更新時期、技能者の年齢構成をご確認ください",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "受注残と技能者から、確かめませんか",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "貴社の受注残・技能者・取引先が譲渡の場面でどう見られるかは、決算書と体制を拝見してからお話しします",
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "pass": 3
+   },
+   {
+    "quote": "なり、作業工数や手戻りが削減できることで大幅な納期短縮を実現",
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※１ 2015年の建造量は速報値、2016、2017年の受注残については、民間調査機関の2016年と2017年の受注残の平均とした",
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "86:99:94（大規模設備投資）",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後５年以内に設備投資し2030年に ▲建造能力２倍化(24時間稼働)",
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/hakusyo/transport/shouwa42/ind090101/001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsanet.or.jp/data/pdf/data2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data.e-gov.go.jp/data/dataset/mlit_20201105_0007/resource/ac29c04f-df49-4fbd-a4dd-747d74dbc365",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001353025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/files/900016855.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chisou.go.jp/tiiki/kokusentoc_wg/r8/pdf/260914_shiryou_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001118265.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00600&toukei=00600300&statdisp_id=0003421934",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/k-toukei/zousensokuhou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040297314&fileKind=2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/002025888.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00600300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/k-toukei/03_202412c_00001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/hakusyo/mlit/r04/hakusho/r05/data/html/ns011070.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00600&toukei=00600300&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/peer-review-of-the-japanese-shipbuilding-industry-2026_717ba40f-en/full-report/component-5.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/8888/shipbuilding-industry-in-japan/?srsltid=AYCX9vKTgO2423Eerz-I7O3nHBrUGn_mu58kFsdCrSe1NmNEYwOTrc6A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-shipbuilding-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://capitallinkshipping.com/japan-targets-18m-gross-tons-of-shipbuilding-capacity-within-10-years/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/safety4sea/posts/japan-is-aiming-high-in-the-global-shipbuilding-racewith-a-target-of-18-million/1858176902463452/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jittiusa.org/jittijournal-1/japan%E2%80%99s-initiatives-on-revitalizing-the-shipbuilding-industry",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） 人手不足 受注 断る",
+   "results": [
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa42/ind090101/001.html",
+    "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00600&toukei=00600300&statdisp_id=0003421934",
+    "https://www.mlit.go.jp/k-toukei/03_202412c_00001.html",
+    "https://www.mlit.go.jp/k-toukei/zousensokuhou.html"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） 受注残 人手不足",
+   "results": [
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.jsanet.or.jp/data/pdf/data2024.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://data.e-gov.go.jp/data/dataset/mlit_20201105_0007/resource/ac29c04f-df49-4fbd-a4dd-747d74dbc365",
+    "https://www.mlit.go.jp/k-toukei/zousensokuhou.html"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） 人手不足 損失 億円",
+   "results": [
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.mlit.go.jp/common/001353025.pdf",
+    "https://www.mlit.go.jp/maritime/content/001895997.pdf",
+    "https://www.meti.go.jp/files/900016855.pdf",
+    "https://www.chisou.go.jp/tiiki/kokusentoc_wg/r8/pdf/260914_shiryou_1.pdf",
+    "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "https://www.mlit.go.jp/common/001118265.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56）",
+   "results": [
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa42/ind090101/001.html",
+    "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00600&toukei=00600300&statdisp_id=0003421934",
+    "https://data.e-gov.go.jp/data/dataset/mlit_20201105_0007/resource/ac29c04f-df49-4fbd-a4dd-747d74dbc365",
+    "https://www.mlit.go.jp/k-toukei/zousensokuhou.html"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） 推移",
+   "results": [
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa42/ind090101/001.html",
+    "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00600&toukei=00600300&statdisp_id=0003421934",
+    "https://data.e-gov.go.jp/data/dataset/mlit_20201105_0007/resource/ac29c04f-df49-4fbd-a4dd-747d74dbc365",
+    "https://www.mlit.go.jp/k-toukei/zousensokuhou.html"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） 統計 PDF",
+   "results": [
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.jsanet.or.jp/data/pdf/data2024.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.jsanet.or.jp/data/pdf/data2024.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） 従業者規模別",
+   "results": [
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.jsanet.or.jp/data/pdf/data2024.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00600&toukei=00600300&layout=dataset"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） 1人当たり 万円",
+   "results": [
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.jsanet.or.jp/data/pdf/data2024.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） 2015 2025",
+   "results": [
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.jpmac.or.jp/data/maritime_commission_document01.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.jsanet.or.jp/data/pdf/data2024.pdf",
+    "https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00600&toukei=00600300&layout=dataset",
+    "https://data.e-gov.go.jp/data/dataset/mlit_20201105_0007/resource/ac29c04f-df49-4fbd-a4dd-747d74dbc365"
+   ]
+  },
+  {
+   "query": "Japan MLIT shipbuilding statistics annual new orders completions gross tonnage table Japan statistics",
+   "results": [
+    "https://www.oecd.org/en/publications/peer-review-of-the-japanese-shipbuilding-industry-2026_717ba40f-en/full-report/component-5.html",
+    "https://www.statista.com/topics/8888/shipbuilding-industry-in-japan/?srsltid=AYCX9vKTgO2423Eerz-I7O3nHBrUGn_mu58kFsdCrSe1NmNEYwOTrc6A",
+    "https://www.trade.gov/market-intelligence/japan-shipbuilding-industry",
+    "https://capitallinkshipping.com/japan-targets-18m-gross-tons-of-shipbuilding-capacity-within-10-years/",
+    "https://www.facebook.com/safety4sea/posts/japan-is-aiming-high-in-the-global-shipbuilding-racewith-a-target-of-18-million/1858176902463452/",
+    "https://www.jittiusa.org/jittijournal-1/japan%E2%80%99s-initiatives-on-revitalizing-the-shipbuilding-industry",
+    "https://www.imarinenews.com/24161.html",
+    "https://www.mlit.go.jp/en/maritime/maritime_fr1_000010.html",
+    "https://unctadstat.unctad.org/insights/theme/108",
+    "https://www.statista.com/study/108552/shipbuilding-industry-in-japan/"
+   ]
+  },
+  {
+   "query": "site:note.com 国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56）",
+   "results": [
+    "https://note.com/s_shindan/n/nc2017629c6da",
+    "https://note.com/toyama_tetsuo/n/ne3dfa7c52063",
+    "https://note.com/deltacf/n/n55a08f5d9a58",
+    "https://note.com/busintemasamo1/n/nb49abba6e3f5",
+    "https://note.com/deltacf/n/nc2972247e460",
+    "https://note.com/deltacf/n/n3ce3b1df0e04",
+    "https://note.com/jijian/n/nf0d9429b6061"
+   ]
+  },
+  {
+   "query": "site:x.com 国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56）",
+   "results": [
+    "https://x.com/Kaiji_Press/status/2089868618804936923",
+    "https://x.com/Kaiji_Press/status/2099802227020062801",
+    "https://x.com/Kaiji_Press/status/2055885058293334303",
+    "https://x.com/Kaiji_Press/status/2097794674450919607",
+    "https://x.com/Kaiji_Press/status/2044907819733012869",
+    "https://x.com/kaijiweb/status/2042709211961053256",
+    "https://x.com/Kaiji_Press/status/2043834114567283092"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56）",
+   "results": [
+    "https://in.linkedin.com/company/bctglobal",
+    "https://www.linkedin.com/posts/motive-asia_国土交通省報道資料令和７年版国土交通白書を公表します-みんなで支え合う-activity-7343769995274829824-LU6h",
+    "https://www.linkedin.com/home?originalSubdomain=ar",
+    "https://www.linkedin.com/posts/hirofumi-yamamoto-maritime-bridge_maritimebridgejapan-japanshipping-shipbuilding-activity-7419245624992243712-ExMg",
+    "https://www.linkedin.com/posts/maritime-bridge-japan_drydel-orders-three-additional-newbuildings-activity-7465938968463831040-cI1U",
+    "https://www.linkedin.com/posts/hirofumi-yamamoto-maritime-bridge_maritimebridgejapan-japanshipping-shipbuilding-activity-7410679827436908548-PdiE",
+    "https://www.linkedin.com/in/louisanicola"
+   ]
+  },
+  {
+   "query": "site:facebook.com 国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56）",
+   "results": [
+    "https://www.facebook.com/JapanMaritimeDaily/posts/2026年01月20日付のヘッドライン船舶輸組まとめ25年受注893万総トン手持ち拡大も成約継続nmdグループco2回収装置開発へ環境省事業採択29年度実装目標/1525903692876846/",
+    "https://www.facebook.com/news.nna.asia/posts/中国25年の造船受注５減世界シェアは約７割中国船舶工業行業協会が１日発表した中国の2025年の造船指標によると新規受注量は載貨重量トン数ｄｗｔベースで前年比46/1476372934494830/",
+    "https://www.facebook.com/JapanMaritimeDaily/photos/2025年05月27日付のヘッドライン13月新造船受注3割増3445万総トンコンテナ船-成約急伸新トップに聞く商船三井マリテックス社長菊地和彦氏新たなバリュー創/1278820000918551/",
+    "https://www.facebook.com/cgtnjapanese/photos/中国造船業の主要3指標世界シェアで引き続き首位を維持中国船舶工業協会の最新統計によりますと中国造船業の主要3指標完工量新規受注量手持ち受注量は過去5年間引き続き/1155998296670432/",
+    "https://www.facebook.com/jinminmou/posts/中国造船業が3大指標で再び記録更新2026年1-6月中国の造船業は新造船竣工量新造船受注量手持ち工事量の3大指標でいずれも過去最高を更新し引き続きグローバル市場/1569381668562697/",
+    "https://www.facebook.com/JapanMaritimeDaily/posts/2026年03月23日付のヘッドライン第2回造船wglng船建造-国支援を船舶修繕国際戦略官民投資工程表策定へ解説造船サイドは慎重内航海運の標準的な考え方適切な/1583786233755258/",
+    "https://www.facebook.com/xinhuajapan/posts/中国の造船業の三大指標新造船竣工量新造船受注量手持ち工事量は2025年まで16年連続で世界最大の市場シェアを維持した25年の新造船竣工量は世界全体の561新造船/1368879258588843/"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） note 社長",
+   "results": [
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa42/ind090101/001.html",
+    "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00600&toukei=00600300&statdisp_id=0003421934",
+    "https://www.jsanet.or.jp/data/pdf/data2024.pdf"
+   ]
+  },
+  {
+   "query": "国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56） X 投稿",
+   "results": [
+    "https://www.mlit.go.jp/k-toukei/zousenzoukitoukei.html",
+    "https://www.mlit.go.jp/maritime/content/001975728.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa42/ind090101/001.html",
+    "https://www.platinumpartners.jp/column-trend-zosen.html",
+    "https://www.jpmac.or.jp/file/1708909913694.pdf",
+    "https://www.mlit.go.jp/hakusyo/transport/shouwa43/ind090201/frame.html",
+    "https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00600&toukei=00600300&statdisp_id=0003421934"
+   ]
+  },
+  {
+   "query": "Japan MLIT shipbuilding statistics annual new orders completions gross tonnage table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/japanmaritimedaily_tradewindsevents-shippingnews-japaneseshipping-activity-7381501088392298496-JIuS",
+    "https://www.linkedin.com/posts/japanmaritimedaily_shipping-maritime-jmd-activity-7503988258482049024-yYlr",
+    "https://be.linkedin.com/company/classnk",
+    "https://ie.linkedin.com/company/classnk",
+    "https://www.linkedin.com/posts/japanmaritimedaily_shipping-maritime-shipbuilding-activity-7507604980632203264-0iF4",
+    "https://www.linkedin.com/pulse/japanese-us-maritime-leaders-discuss-tb1ve",
+    "https://www.linkedin.com/posts/ramprasad-ravi-b901273_shipbuilding-activity-7414894969452257280-0vza",
+    "https://au.linkedin.com/company/classnk?trk=pprofile_company",
+    "https://www.linkedin.com/posts/hirofumi-yamamoto-maritime-bridge_maritimebridgejapan-japanshipping-shipbuilding-activity-7518864863063031808-hC2F",
+    "https://sg.linkedin.com/company/classnk"
+   ]
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ31頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ31頁・検索18回）"
+ }
+}

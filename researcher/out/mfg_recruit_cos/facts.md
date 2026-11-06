@@ -11,9 +11,10 @@
 - 従業員数：1,000名以上（https://fujiarte.co.jp/・1回目）
 - 従業員数：300名以上（https://fujiarte.co.jp/・1回目）
 - 従業員数：100名以上（https://fujiarte.co.jp/results/case/post-254・1回目）
+- 売上高：561億円（2026年3月期） グループ合計607億円（2026年3月期）（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+- 売上高：561億円（2026年3月期） 
+グループ合計607億円（2026年3月期）（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
 - 売上高：561億円（2026年3月期） グループ合計607億円（2026年3月期）（https://www.gakujo.ne.jp/campus/company/baseinfo/68585/・3回目）
-- 売上高：497億円（https://www.careermap.jp/corporations/21763・3回目）
-- 売上高：561億円（2025年3月期） グループ合計607億円（2025年3月期）（https://job.mynavi.jp/28/pc/search/corp81695/outline.html・3回目）
 - 事業内容：総合人材サービス事業 人材派遣事業 人材紹介事業 アウトソーシング事業 労働者派遣事業・労働大臣許可／（派）27-300012 有料職業紹介事業・労働大臣許可／27-ユ-300013（https://fujiarte.co.jp/about/company-overview・1回目）
 - 事業内容：バックオフィス支援事業 データ入力・スキャニングサービス事業（https://fujiarte.co.jp/about/company-overview・1回目）
 - 事業内容：半導体・エッジAI設計開発事業（https://fujiarte.co.jp/about/company-overview・1回目）
@@ -23,29 +24,29 @@
 - 株主構成：
   - 「(株)ジェイ エイ シー リクルートメント【東証プライム市場上場】」（https://job.mynavi.jp/28/pc/search/corp81695/outline.html・3回目）
   - 「美容師向けのヘアケア商品や化粧品を製造、販売するプライム上場企業」（https://shachomeikan.jp/industry_article/2593・3回目）
+  - 「フィクスコミュニケーションズ株式会社の子会社化」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+  - 「サンリン(株)【東証スタンダード市場上場】」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+  - 「(株)オービーシステム【東証スタンダード市場上場】」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+  - 「トランクルーム「ハローストレージ」を展開する上場企業」（https://shachomeikan.jp/industry_article/2593・3回目）
+  - 「メディカルとテクノロジーを軸に、22,000超の医療機関を支える上場企業」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「プライム上場企業を始め4000社以上が導入する人事管理システム「カオナビ」を展開するグロース上場企業」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「全国に40拠点を展開するプライム上場企業」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「【ダイハツグループ】ダイハツ工業100％出資の安定した基盤」（https://www.gakujo.ne.jp/campus/company/baseinfo/68585/・3回目）
   - 「子会社の株式会社平山の改善事例を紹介します」（https://www.manufacturing-hr.com/feature/examples.html・3回目）
   - 「業務用・家庭用ごま油で国内シェアトップを誇るスタンダード上場企業」（https://shachomeikan.jp/industry_article/2593・3回目）
-  - 「60万軒超の施工実績を誇るプライム上場企業」（https://shachomeikan.jp/industry_article/2593・3回目）
-  - 「フジアルテスタッフサポートセンター株式会社(障がい者雇用特例子会社)」（https://fujiarte.co.jp/about/company-overview・1回目）
-  - 「（障がい者雇用特例子会社）データ入力、スキャニングサービス事業」（https://fujiarte.co.jp/about/company-overview・1回目）
-  - 「フジアルテスタッフサポートセンター株式会社（障がい者雇用特例子会社）設立」（https://fujiarte.co.jp/about/company-overview・1回目）
-  - 「株式会社シンコムの子会社化」（https://fujiarte.co.jp/about/company-overview・1回目）
 - 創業年度：
+  - 「私たちフジアルテは、1962年の創業以来「製造アウトソーシング業界のパイオニア」として、日本のモノづくりを支え続けてきました」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+  - 「創業から60年以上、約700社の大手企業様から選ばれ続けている理由は、独自のノウハウだけでなく、何よりも「人」を大切に想う心があるからです」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+  - 「私たちフジアルテは「製造アウトソーシング業界のパイオニア」として、1962年の創業以来、60年以上に及び、日本の高度成長を牽引してきた製造業とともに発展してきました」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+  - 「富士工業(株)を設立し、平尾工業を継承」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+  - 「フジアルテ・ド・ブラジルHR社（サンパウロ市）設立」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+  - 「フジアルテスタッフサポートセンター(株)設立」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+  - 「フジグループ創業50周年を迎える」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
+  - 「創業60周年」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
   - 「創業3年で国内シェアトップへ」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「創業者が語る国内シェアトップへと上り詰めた “信念の経営”」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「創業60年の」（https://fujiarte.co.jp/・1回目）
   - 「創業100年に向け、製造業における人材ニーズにお応えするためにフジアルテは更に前に進みます」（https://fujiarte.co.jp/・1回目）
-  - 「総合人材サービス業界のパイオニアとして創業以来培ってきた独自のノウハウから、厳選した事例や人材活用のポイントをご紹介します」（https://fujiarte.co.jp/・1回目）
-  - 「製造派遣や製造請負を通じて、自動車、電子機器、半導体など、ものづくりの現場を支えてきた、創業より60年以上の歴史を持つ総合人材サービス会社です」（https://fujiarte.co.jp/・1回目）
-  - 「創業から60年以上にわたり、製造業に特化した総合人材サービス会社として、製造に意欲的な若手人材を採用可能なネットワークを広げてきました」（https://fujiarte.co.jp/services/new-graduate・1回目）
-  - 「1962年創業 業界を牽引するパイオニアとして」（https://fujiarte.co.jp/about/company-overview・1回目）
-  - 「平尾工業を創業」（https://fujiarte.co.jp/about/company-overview・1回目）
-  - 「富士工業株式会社設立」（https://fujiarte.co.jp/about/company-overview・1回目）
-  - 「フジアルテ株式会社設立」（https://fujiarte.co.jp/about/company-overview・1回目）
-  - 「フジアルテ・ド・ブラジル（ブラジル現地法人）設立」（https://fujiarte.co.jp/about/company-overview・1回目）
 - 売上・規模：
   - 「本方針は、当社内に掲示し、全従業員に周知させます」（https://fujiarte.co.jp/about/csr・1回目）
   - 「また、従業員各自の教育、啓発に努め個人情報保護意識の高揚を図ります」（https://fujiarte.co.jp/about/csr・1回目）
@@ -86,6 +87,7 @@
   - 「改善・向上事例 | 製造業の人材派遣会社ならフジアルテ」（https://fujiarte.co.jp/results/case・1回目）
   - 「早期離職率を1/3に低減！大手電気機器メーカーの「2ヶ月の壁」を打破した、メンター登用と現場密着型フォローの導入事例」（https://fujiarte.co.jp/results/case・1回目）
 - 売り方：
+  - 「◆有料職業紹介事業・労働大臣許可／27-ユ-300013」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
   - 「当サイトでは利便性向上や閲覧の追跡のためにGoogle・他提携サービスによりCookieが使用されています」（https://fujiarte.co.jp/services/mobility・1回目）
   - 「当サイトでは利便性向上や閲覧の追跡のためにGoogle・他提携サービスによりCookieが使用されています」（https://fujiarte.co.jp/about・1回目）
   - 「フジアルテの概要・沿革など、コーポレート情報をご紹介します」（https://fujiarte.co.jp/about/company-overview・1回目）
@@ -97,7 +99,6 @@
   - 「当サイトでは利便性向上や閲覧の追跡のためにGoogle・他提携サービスによりCookieが使用されています」（https://fujiarte.co.jp/about/network・1回目）
   - 「国内営業拠点37箇所の採用ネットワークを活用した全国採用で人材不足を迅速に解決」（https://fujiarte.co.jp/about/strength・1回目）
   - 「海外の学校や紹介会社と提携し、現地での採用活動を実施」（https://fujiarte.co.jp/about/strength・1回目）
-  - 「製造の現場で生じるさまざまなトラブルを回避し、円滑な企業経営が行えるようさまざまなテーマの法務セミナーを実施することで、クライアント様にとって有益な情報をシェアさせていただいています」（https://fujiarte.co.jp/about/strength・1回目）
 - 採用・人数：
   - 「製造に高い意欲をもつ若手人材の安定的な採用や適性に応じた配置、「フジアルテフォローシステム」という独自のフォロー体制により、高い定着率を実現」（https://fujiarte.co.jp/services/new-graduate・1回目）
   - 「自身のキャリア形成や、ものづくりに興味がある意欲的な人材を採用しています」（https://fujiarte.co.jp/services/new-graduate・1回目）
@@ -112,6 +113,7 @@
   - 「採用方法比較リスト、外国人雇用ハンドブックなど資料をダウンロード頂けます」（https://fujiarte.co.jp/about/network・1回目）
   - 「国内から海外に広がる製造に特化した採用ネットワーク」（https://fujiarte.co.jp/about/strength・1回目）
 - 発言：
+  - 「平尾社長 日本生産技能労務協会 理事長就任」（https://job.mynavi.jp/27/pc/search/corp81695/outline.html・3回目）
   - 「業界毎特集記事－フジアルテ株式会社 代表取締役社長 平尾 隆志｜社長名鑑」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「父から受け継いだ創業の精神を貫き、業界を先導し続ける2代目社長の理念とは」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「～フジアルテ株式会社 代表取締役社長 平尾 隆志～」（https://shachomeikan.jp/industry_article/2593・3回目）
@@ -123,8 +125,9 @@
   - 「1994年フジアルテ株式会社に入社後、1995年に代表取締役社長に就任」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「『声優業界で生計をたてられるのはごくわずか』だからこそ、大手声優プロダクションの社長が果たしたい使命とは 声優業界の未来を担う」（https://shachomeikan.jp/industry_article/2593・3回目）
   - 「上場企業の「社長の右腕」となったビジネスパーソンから見る、キャリアアップのヒント」（https://shachomeikan.jp/industry_article/2593・3回目）
-  - 「上場企業の「社長の右腕」として活躍されている3名のビジネスパーソン」（https://shachomeikan.jp/industry_article/2593・3回目）
 - 検索結果の抜粋：
+  - 「持株会社設立およびホールディングス体制移行のお知らせ — 持株会社設立およびホールディングス体制移行のお知らせ フジアルテ https://fujiarte.co.jp > ニュースリリース」（https://fujiarte.co.jp/topics/post-7434・3回目）
+  - 「マージン率について | 製造業の人材派遣会社なら フジアルテ — マージン率について | 製造業の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp > margin-rate」（https://fujiarte.co.jp/margin-rate・3回目）
   - 「フジアルテ (株)【製造職コース】の採用データ | マイナビ2027 — フジアルテ (株)【製造職コース】の採用データ | マイナビ2027 マイナビ https://job.mynavi.jp > corp243657 > recruiting_course」（https://job.mynavi.jp/27/pc/search/corp243657/recruiting_course27055154/recruiting_course.html?site_preference=pc・3回目）
   - 「フジアルテ - Wikipedia — フジアルテ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > フジアルテ」（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%86・3回目）
   - 「会社概要 | 製造業の人材派遣会社なら フジアルテ — 会社概要 | 製造業の人材派遣会社なら フジアルテ フジアルテ https://fujiarte.co.jp > 会社情報」（https://fujiarte.co.jp/about/company-overview・3回目）
@@ -135,8 +138,6 @@
   - 「フジアルテ 株式会社 - 会社図鑑 関西版100選 — フジアルテ 株式会社 - 会社図鑑 関西版100選 c-filekansai.com https://c-filekansai.com > fujiarte」（https://c-filekansai.com/m5EtWtgK-1/fujiarte・3回目）
   - 「フジアルテ 株式会社の新卒採用・就活情報 - Re就活キャンパス — フジアルテ 株式会社の新卒採用・就活情報 - Re就活キャンパス Ｒｅ就活キャンパス https://www.gakujo.ne.jp > campus > company > baseinfo」（https://www.gakujo.ne.jp/campus/company/baseinfo/68585/・3回目）
   - 「フジアルテ 株式会社 | 専門学校の就活No.1サイト キャリアマップ — フジアルテ 株式会社 | 専門学校の就活No.1サイト キャリアマップ Careermap https://www.careermap.jp > corporations」（https://www.careermap.jp/corporations/21763・3回目）
-  - 「フジアルテ (株)【総合職コース】の会社概要 | マイナビ2028 — フジアルテ (株)【総合職コース】の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp81695 > outline」（https://job.mynavi.jp/28/pc/search/corp81695/outline.html・3回目）
-  - 「フジアルテ の業績・将来性・強み・弱み - エン カイシャの評判 — フジアルテ の業績・将来性・強み・弱み - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company」（https://en-hyouban.com/company/10096952335/23/・3回目）
 - 株主：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部30頁・検索12回）
 - 許認可：記載なし（3回確認済み：公式30頁／PDF・画像3件／外部30頁・検索12回）
 
@@ -168,28 +169,28 @@
   - 「ケイアイスター不動産(株)【東証プライム市場上場】」（https://job.mynavi.jp/28/pc/search/corp226291/outline.html・3回目）
   - 「(株)明光ネットワークジャパン（明光義塾本部）【東証プライム市場上場】」（https://job.mynavi.jp/28/pc/search/corp226291/outline.html・3回目）
   - 「(株)アイリックコーポレーション（保険クリニック）【東証グロース上場】」（https://job.mynavi.jp/28/pc/search/corp226291/outline.html・3回目）
-  - 「万円（前期比10.3％減）、経常利益3,200百万円（前期比10.2％減）、親会社株主に帰属する当期純利益1,902百万」（https://www.nisso-hd.com/ir/finance/forecasts.html・3回目）
-  - 「今回は、東証プライム上場企業として、女優の黒島結菜さんを起用したTVCM放映、更に売上高700億以上にも誇る日総工産の主力媒体「工場求人ナビ」にEFOcatsを導入していただきました」（https://www.fcafe.com/efocats/case/case-nissokosan・3回目）
-  - 「日総工産株式会社の特例子会社 日総ぴゅあ株式会社を設立」（https://www.nisso.co.jp/company/history/・1回目）
-  - 「東京証券取引所市場第一部に上場」（https://www.nisso.co.jp/company/history/・1回目）
-  - 「株式会社ベクトル伸和 子会社化」（https://www.nisso.co.jp/company/history/・1回目）
-  - 「インターステラテクノロジズ株式会社への出資とパートナーシップ協定を締結」（https://www.nisso.co.jp/company/history/・1回目）
-  - 「NISSOホールディングス株式会社が東京証券取引所 プライム市場に上場（日総工産株式会社は上場廃止）」（https://www.nisso.co.jp/company/history/・1回目）
-  - 「「株式会社アイズ」を子会社化」（https://www.nisso.co.jp/company/history/・1回目）
-  - 「ＮＩＳＳＯホールディングスが「Man to Manホールディングス株式会社およびそのグループ各社」、「オールジャパンガード株式会社」を子会社化」（https://www.nisso.co.jp/company/history/・1回目）
+  - 「結論から言うと、UTエイムは東証プライム上場のUTグループを親会社に持つ、製造業に特化した信頼性の高い派遣会社です」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「東証プライム上場のUTグループ株式会社のグループ会社であり、信頼性と実績を兼ね備えています」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「UTグループ・UTエイムの基本情報項目内容会社名UTエイム株式会社親会社UTグループ（東証プライム上場）特化業種製造業・工場勤務雇用形態無期雇用派遣（正社員雇用）給与形態月給制（派遣中断中も給与保証）対応エリア全国（北海道〜九州）UTエイムが手がける求人は、自動車・半導体・電子部品・食品など製造業の幅広い業種に対応しています」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「・東京証券取引所の一部に上場（現在は東証プライム市場上場）」（https://job.mynavi.jp/27/pc/search/corp65057/outline.html・3回目）
+  - 「・インターステラテクノロジズ(株)への出資とパートナーシップ協定を締結」（https://job.mynavi.jp/27/pc/search/corp65057/outline.html・3回目）
+  - 「・NISSOホールディングス(株)が設立、日総工産は東証プライム上場企業グループの傘下へ」（https://job.mynavi.jp/27/pc/search/corp65057/outline.html・3回目）
+  - 「・ＮＩＳＳＯホールディングスが「Man to Manホールディングス株式会社およびそのグループ各社」、「オールジヤパンガード株式会社」を子会社化」（https://job.mynavi.jp/27/pc/search/corp65057/outline.html・3回目）
+  - 「(株)昭和システムエンジニアリング【東証スタンダード市場上場】」（https://job.mynavi.jp/27/pc/search/corp65057/outline.html・3回目）
+  - 「トランスコスモス(株)【東証プライム上場】」（https://job.mynavi.jp/27/pc/search/corp65057/outline.html・3回目）
 - 創業年度：
-  - 「1971年に創業、日本の高度経済成長とともに急成長し、オイルショックやバブル崩壊、リーマンショックなど、製造業にとって厳しい時代も、着実に技術力をつける人材育成を貫き、「メイド・イン・ジャパンを支える最高のプロ集団」を目指してきました」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
-  - 「日総工産株式会社は、お父様でもある現在代表取締役会長の清水唯雄さんが、40年以上前に創業されたのですね」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
-  - 「2003年に株式会社ワークポートを仲間とともに創業し、リーマン・ショックという会社存続の危機を「仕組み化」と「決断」で乗り越えてきた、代表取締役社長COO・林徹...」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
-  - 「1999年の創業当時は、...」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
-  - 「2007年設立」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
-  - 「求人情報媒体が読者の職業の選択と安定した職業生活に役立つことなどを目的に、昭和60年2月、労働大臣の許可を得て、公益法人として設立されました」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
-  - 「労働者派遣法の趣旨に則り、労働者派遣事業の適正な運営を図るための自主的な取り組みを行うことを通じて、派遣事業の健全な発展を図ることを目的として、設立されました」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
-  - 「「日本におけるHRMプロフェッショナリズムの確立」を使命に、我が国の人材マネジメントを担う方々のための会員(年会費制)組織として2000年に設立」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
-  - 「創業からの主要サービスである製造工程請負はもちろん、あらゆるニーズに対応します」（https://www.nisso.co.jp/・1回目）
-  - 「「人を育て 人を活かす」の創業理念のもと、50年以上に渡り培われてきた歴史と文化に深い敬意を抱き、その価値を損なうことなく、次の時代に向けて発展させていくことが、私に課せられた使命であると強く感じております」（https://www.nisso.co.jp/company/message/・1回目）
-  - 「創業50年を超えて、次の時代へ」（https://www.nisso.co.jp/company/brand-slogan/・1回目）
-  - 「こうした時代に、創業者の清水唯雄は、「日本の総ての工場の生産業務を受託していく」という想いを胸に抱き、社名として「日総工産」と名付けました」（https://www.nisso.co.jp/company/brand-slogan/・1回目）
+  - 「日総工産は1971年創業の」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「創業50年以上の製造業特化企業」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「1971年2月3日に創業」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「1971年の創業から50年以上をかけて蓄積した取引実績が、こうした大手との安定した取引関係につながっています」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「日総工産は1971年創業、全国55か所の拠点を持つ製造業特化の人材派遣会社です」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「株式会社ワールドインテックの企業基礎情報２０２１年３月時の情報会社名株式会社ワールドインテック設立2014年（平成26年）2月4日在籍人数17,909名（2020年12月時点）資本金4,500,000,000円※参照 株式会社ワールドインテック 会社概要[corporation:124]一日の作業スケジュールは？勤務時間・シフト例（岡山県瀬戸内市の電子部品の製造・検査の求人の場合）勤務シフトは４勤２休の日勤と夜勤の交替勤務です」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「株式会社ワールドインテックの会社情報会社名株式会社ワールドインテック設立2014年（平成26年）2月4日従業員数17,909名（2020年12月現在）株式会社ワールドインテックは、人材派遣業界全体の売上高ランキング(2019 - 2020年)でも6位、製造業限定すると2位に位置する大手人材派遣会社です」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「会社名日研トータルソーシング株式会社設立1981年4月1日資産金約5,000万円従業員数約2万人日研トータルソーシングは地域未来牽引企業に選定されています」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「【茨城県つくばみらい市】特典最大50万円！月収例45万円の超高収入求人！最寄り駅からなんと徒歩15分♪トラクタの組立・塗装など特徴4：信頼と実績がある日研トータルソーシングは2021年で設立40周年を迎えます」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「株式会社BREXA Nextの会社情報会社名株式会社BREXA Next設立1997年（2025年7月1日、社名を株式会社アウトソーシングより変更）資本金100,000,000円（2024年10月現在）社員数129,487人（2022年12月31日現在）求人職種製造スタッフ（自動車、半導体、家電、食品、建材など）公式HP 公式企業サイト株式会社BREXA Next（以下、BREXA Next）は1997年に設立し、現在では工場製造ラインへの人材派遣を主力として成長を続けている実力派企業です」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「新たな価値創出・人材輩出のために、創業理念「人を育て人を活かす」を実践します（代表取締役社長執行役員 藤野 賢治）」（https://job.mynavi.jp/27/pc/search/corp65057/outline.html・3回目）
+  - 「こうした時代背景の中、創業者である清水唯雄は、「日本の総ての工場の生産業務を受託していく」ことをビジョンとして掲げ、当社を創業しました」（https://job.mynavi.jp/27/pc/search/corp65057/outline.html・3回目）
 - 売上・規模：
   - 「10,018名」（https://www.nisso-hd.com/ir/stock-bond/shareholder.html・3回目）
   - 「2,016百万円」（https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3・3回目）
@@ -204,18 +205,18 @@
   - 「全国拠点で、「つくる」をバックアップ」（https://www.nisso.co.jp/・1回目）
   - 「全国拠点で、」（https://www.nisso.co.jp/・1回目）
 - 料金：
-  - 「このような状況の中、当連結会計年度の経営成績は、売上高111,430百万円（前期比9.7％増）、営業利益3,190百」（https://www.nisso-hd.com/ir/finance/forecasts.html・3回目）
-  - 「万円（前期比10.3％減）、経常利益3,200百万円（前期比10.2％減）、親会社株主に帰属する当期純利益1,902百万」（https://www.nisso-hd.com/ir/finance/forecasts.html・3回目）
-  - 「他EFOツールと比較すると、初期費用や導入期間へのハードルは少し高いですが、それなりの価値はあると実感しています」（https://www.fcafe.com/efocats/case/case-nissokosan・3回目）
-  - 「どのような要因でミスマッチが生じているかを分析し、募集費用を絞りつつ効率を高める施策が必要です」（https://www.nisso.co.jp/company/message/・1回目）
-  - 「100百万円（2026年3月31日現在）」（https://www.nisso.co.jp/company/overview/・1回目）
-  - 「87,419百万円（2026年3月期）」（https://www.nisso.co.jp/company/overview/・1回目）
-  - 「この時点から各種費用が発生するので、原則、サービス開始までお客様のご負担はございません」（https://www.nisso.co.jp/service/engineer/・1回目）
-  - 「「完全成功報酬型」のためリスクなし」（https://www.nisso.co.jp/service/recruitment/・1回目）
-  - 「本サービスは、人材の採用（入社）をもって『成約』となりますので、募集時はもちろんそのプロセスにおいて一切のご費用負担はございません」（https://www.nisso.co.jp/service/recruitment/・1回目）
-  - 「成約課金の「完全成功報酬型」サービスのため、最大限の費用対効果を得ることが出来ます」（https://www.nisso.co.jp/service/recruitment/・1回目）
-  - 「外部講師がいない、費用が高い」（https://www.nisso.co.jp/service/e-learning/・1回目）
-  - 「・通勤手当（月10万円迄）」（https://www.nisso.co.jp/recruit/product26/・1回目）
+  - 「寮費は月額数千円〜2万円程度の格安で設定されているケースが多く、光熱費込みの場合もあります」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「製造業の現場で役立つ資格の取得費用を会社が負担してくれる」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「Q. 日総工産に登録すると費用はかかりますか？」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「ただし、寮の形式（個室アパート・集合寮）や費用は求人によって異なります」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「個室タイプ・集合寮の違いや費用、生活上の注意点を実態ベースで解説しています」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「即決×即赴任可！【日勤・土日休み】簡単軽作業だから未経験からも始められるオシゴト！時給1,600円、月収例34万円以上、寮費無料、入社特典総額50万円」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「デジタルギフト5万円+入社特典45万円、総額50万円で収入面も安心！」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「月収34万円以上可能で安定収入を目指せます」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「【月収例30万円以上】電子部品のマシンオペレーター・検査など／在籍中はずっと社宅費無料／時給アップも目指せる！」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「※布団一式1706円・TV1739円・冷蔵庫1304円・洗濯機1338円(いずれも月額)」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「11月に入社すれば、入社祝い金40万円！」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「【部品の加工・取り付け・検査・ピッキングなど】月収例36万円以上／社宅費無料／土日休み／年間休日125日／日勤／11月入社限定！入社特典50万円／20～40代男女活躍中」（https://jobhouse.jp/factory/columns/1181・3回目）
 - 製造業の顧客：
   - 「お取引先様のニーズや仕様を把握し、独自の教育ノウハウと訓練施設を使って人を育て、長年積み上げてきた管理体制とキャリアパスで人を活かし、現場の「ひとづくり力」と「ものづくり力」を必要なレベルに高めます」（https://www.nisso.co.jp/service/contract/・1回目）
   - 「弊社の製造請負は、お取引先様と共に価値を創り出すビジネスモデルであり、例えば設備管理と融合した一貫サービスの導入により、さらにプラスの効果が期待できます」（https://www.nisso.co.jp/service/contract/・1回目）
@@ -243,19 +244,21 @@
   - 「製造業・エンジニアの人材派遣・紹介・請負の日総工産」（https://www.nisso.co.jp/service/case/・1回目）
   - 「会社案内やサービス資料など、日総工産を詳しくご紹介するお役立ち資料をご活用ください」（https://www.nisso.co.jp/service/download/・1回目）
 - 採用・人数：
-  - 「応募者対応や選考結果のご通知、面接アレンジや基幹システム入力など、採用活動には大きな業務負荷が掛かりますが、本サービスをご利用いただくことにより、ご担当者様の負担軽減と業務効率改善が見込めます」（https://www.nisso.co.jp/service/recruitment/・1回目）
-  - 「自社求人メディアをはじめとする独自の採用チャネルや、全国58拠点の採用ネットワークの活用により、お客様のニーズに沿った人材を速やかにご紹介することが可能です」（https://www.nisso.co.jp/service/recruitment/・1回目）
-  - 「お客様の採用計画や募集ターゲティングに基づき、プランニングや適正なメディア選定、募集によって生じた課題感の共有と早期解決～新たなご提案など、営業担当や専任コンサルタントがお客様の『外部ブレーン』として人材確保までのフローを全力サポートします」（https://www.nisso.co.jp/service/recruitment/・1回目）
-  - 「本サービスは、人材の採用（入社）をもって『成約』となりますので、募集時はもちろんそのプロセスにおいて一切のご費用負担はございません」（https://www.nisso.co.jp/service/recruitment/・1回目）
-  - 「請負工程の人材募集・採用・福利厚生・各種保険・給与支払いのみならず、現場の指揮命令者の配置も日総工産が行うため、間接費を含めたコストを抑えることが可能になります」（https://www.nisso.co.jp/service/contract/・1回目）
-  - 「必要スキルを満たすITエンジニアの採用に苦戦している」（https://www.nisso.co.jp/service/it/・1回目）
-  - 「多様な採用チャネルを活用し、即戦力からポテンシャル層まで幅広いIT人材を確保」（https://www.nisso.co.jp/service/it/・1回目）
-  - 「蓄積された採用ノウハウをもとに、スキル・志向・プロジェクト適性を多角的に評価し、最適な人材マッチングを実現」（https://www.nisso.co.jp/service/it/・1回目）
-  - 「例えば採用業務にお困りの際は、募集の企画、媒体出稿から面接業務、結果分析など採用判断を除く業務をご提案し業務負荷軽減をご提案させて頂きます」（https://www.nisso.co.jp/service/bpo/・1回目）
-  - 「営業 / 事務 / 採用 / 管理の採用サイトへ」（https://www.nisso.co.jp/recruit/・1回目）
-  - 「中途採用（本社・全国拠点）｜日総工産株式会社」（https://www.nisso.co.jp/recruit/career/・1回目）
-  - 「人事労務に関わる事務業務、社員・スタッフ採用に関連する業務」（https://www.nisso.co.jp/recruit/career/・1回目）
+  - 「求人の空き状況や企業側の採用条件によっては、希望とは異なる職場を紹介されることがあります」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「STEP2：職場見学・面談・採用選考」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「採用選考が通過したら就業条件（時給・勤務時間・寮の詳細など）の最終確認を行い、就業開始日を決定します」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「うれしい高時給1800円＆日勤土日休み！ 人気のシフトを高時給で募集開始◎」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「４．採用連絡各担当者から、入社日の案内、遠方の方は、引っ越しの案内がある」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「5．採用連絡各担当者から、入社日の案内、遠方の方は、引っ越しの案内がある」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「ただし、「無期雇用派遣」という独自の仕組みを採用しており、一般的な派遣のイメージとは異なる点があるため、事前に正しく理解しておくことが重要です」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「登録から採用内定までの流れWeb登録・エントリー: UTエイムの公式サイトから氏名・連絡先・希望条件（職種・エリア・勤務形態）を入力して登録担当者との面談（オンライン可）: 希望条件の詳細確認・経験スキルのヒアリング・仕組みの説明が行われる案件の提案・選考: 担当者が条件に合う案件を提案」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「希望する職種・業種・エリア工場・製造業の経験の有無保有資格（フォークリフト・危険物など）シフト・夜勤への対応可否転居・単身赴任の可否「未経験です」「資格はありません」でも採用されるケースは多く、採用のハードルは全体的に低めです」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「Q. UTエイムは未経験でも採用されますか？はい、採用されやすいです」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「他にも、即面接、即採用、即入寮、即勤務の求人も多く、早く働きたい方にはおススメと言えるでしょう」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「前の職場で働いていた時に取ったフォークリフトの資格を評価していただき、即戦力として採用してもらえました」（https://jobhouse.jp/factory/columns/1181・3回目）
 - 発言：
+  - 「5つの代表的な良い評判を紹介します」（https://jobhouse.jp/factory/columns/1181・3回目）
+  - 「新たな価値創出・人材輩出のために、創業理念「人を育て人を活かす」を実践します（代表取締役社長執行役員 藤野 賢治）」（https://job.mynavi.jp/27/pc/search/corp65057/outline.html・3回目）
   - 「めまぐるしい社会変化のさなか、代表取締役社長執行役員に就任した藤野賢治は、日総工産の舵をどのように取り、めざす方向に開けている地表にどのような未来を思い描いているのでしょうか」（https://nisso-connect.com/archives/1203・3回目）
   - 「新社長を拝命したことは大変な重責を伴いますので、身が引き締まる思いです」（https://nisso-connect.com/archives/1203・3回目）
   - 「また、総合人材サービスと介護・福祉サービスの2つのセグメントで構成されている日総グループは、2023年にホールディングス化して以来、経営と事業の分離を進めていますが、このたびの日総工産の社長拝命を機に、私は弊社の強みである高付加価値の人材育成をさらに強化し、売上高と営業利益の達成を実現することを第一義としています」（https://nisso-connect.com/archives/1203・3回目）
@@ -266,10 +269,11 @@
   - 「日総工産株式会社は、お父様でもある現在代表取締役会長の清水唯雄さんが、40年以上前に創業されたのですね」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
   - 「清水社長は、大学卒業後はどちらに就職されたのですか」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
   - 「HRソリューション業界TOPインタビューのバックナンバー」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
-  - 「奥山貴広さん（株式会社ギークリー 代表取締役社長）：」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
-  - 「IT・Web・ゲーム業界に特化した人材紹介会社、株式会社ギークリーの代表・奥山貴広さん」（https://service.jinjibu.jp/article/detl/innovator/1149/・3回目）
 - 検索結果の抜粋：
   - 「日総工産 (株)【研究開発エンジニア職コース】 - マイナビ — 日総工産 (株)【研究開発エンジニア職コース】 - マイナビ マイナビ https://job.mynavi.jp > search > corp294748 > outline」（https://job.mynavi.jp/27/pc/search/corp294748/outline.html・3回目）
+  - 「日総工産 (株)【コーポレート職コース】の会社概要 - マイナビ — 日総工産 (株)【コーポレート職コース】の会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp65057 > outline」（https://job.mynavi.jp/27/pc/search/corp65057/outline.html・3回目）
+  - 「日総工産 はやばい会社？気になる評判・口コミの真相を3人の ... — 日総工産 はやばい会社？気になる評判・口コミの真相を3人の ... バイトル https://www.baitoru.com > ... > 派遣の仕事探し > 日総工産」（https://www.baitoru.com/contents/list/detail/id=3461・3回目）
+  - 「工場求人ナビ | 工場・製造業の求人・お仕事・派遣なら 日総工産 — 工場求人ナビ | 工場・製造業の求人・お仕事・派遣なら 日総工産 工場求人ナビ https://www.717450.net」（https://www.717450.net/・3回目）
   - 「工場求人ナビ | 工場・ 製造業 の求人・お仕事・派遣なら 日総工産 — 工場求人ナビ | 工場・ 製造業 の求人・お仕事・派遣なら 日総工産 工場求人ナビ https://www.717450.net」（https://www.717450.net/・3回目）
   - 「グループ会社 | 企業情報 - 日総工産株式会社 — グループ会社 | 企業情報 - 日総工産株式会社 日総工産株式会社 https://www.nisso.co.jp > company > group」（https://www.nisso.co.jp/company/group/・3回目）
   - 「日総工産 - Wikipedia — 日総工産 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 日総工産」（https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3・3回目）
@@ -278,10 +282,7 @@
   - 「沿革 | 企業情報 - 日総工産株式会社 — 沿革 | 企業情報 - 日総工産株式会社 日総工産株式会社 https://www.nisso.co.jp > company > history」（https://www.nisso.co.jp/company/history/・3回目）
   - 「運営会社 | 工場・製造業の求人・お仕事・派遣なら 日総工産 — 運営会社 | 工場・製造業の求人・お仕事・派遣なら 日総工産 工場求人ナビ https://www.717450.net > company」（https://www.717450.net/company/・3回目）
   - 「会社概要 | 企業情報 - 日総工産株式会社 — 会社概要 | 企業情報 - 日総工産株式会社 日総工産株式会社 https://www.nisso.co.jp > company > overview」（https://www.nisso.co.jp/company/overview/・3回目）
-  - 「日総工産 (株)【生産技術エンジニア・プロダクト職コース】 — 日総工産 (株)【生産技術エンジニア・プロダクト職コース】 マイナビ https://job.mynavi.jp > search > corp226291 > outline」（https://job.mynavi.jp/28/pc/search/corp226291/outline.html・3回目）
-  - 「日総工産 /1Qの 売上高 としては上場来過去最高 - logmi Finance — 日総工産 /1Qの 売上高 としては上場来過去最高 - logmi Finance ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/377242・3回目）
-  - 「事例 紹介｜サービス - 日総工産株式会社 — 事例 紹介｜サービス - 日総工産株式会社 日総工産株式会社 https://www.nisso.co.jp > service > case」（https://www.nisso.co.jp/service/case/・3回目）
-- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部26頁・検索12回）
 
 ## 株式会社PLEX
 - 公式URL：https://plex.co.jp/（given）
@@ -433,7 +434,7 @@
 - 資本金：1000万円（https://job.mynavi.jp/27/pc/search/corp289840/outline.html・3回目）
 - 従業員数：80名（https://www.r-4.co.jp/company/・1回目）
 - 従業員数：80名（https://www.r-4.co.jp/recruit/company/・1回目）
-- 従業員数：79名（2026年5月時点）（https://job.mynavi.jp/27/pc/search/corp289840/outline.html・3回目）
+- 従業員数：79名(2023年2月時点)（https://winc-career.jp/president-id0183/company/・3回目）
 - 売上高：12億7,090万円（2026年3月実績）（https://job.mynavi.jp/27/pc/search/corp289840/outline.html・3回目）
 - 事業内容：採用代行・アウトソーシング 求人広告 教育・社員研修 人材紹介 採用ツール制作 Indeed WEB制作 ブランディング・採用ブランディング 事業内容の詳細はこちら＞ 具体的なサービス内容はこちら＞（https://www.r-4.co.jp/company/・1回目）
 - 事業内容：人材紹介事業、ヘッドハンティング・サーチスカウト事業（https://www.r-4.co.jp/company/・1回目）
@@ -449,6 +450,8 @@
   - 「株式会社R4CAREER（株式会社Ｒ4 100％出資）」（https://www.r-4.co.jp/recruit/company/・1回目）
   - 「県出資法人の概要数値（R４年度決算）」（https://www.pref.ehime.jp/uploaded/attachment/110897.pdf・3回目）
 - 創業年度：
+  - 「R4の理念は、創業から一度も変わっていません」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「R4に入社したのは、創業して間もない頃でした」（https://winc-career.jp/president-id0183/company/・3回目）
   - 「創業以来掲げてきた」（https://www.r-4.co.jp/・1回目）
   - 「株式会社R4 （アールフォー） の設立にいたりました」（https://www.r-4.co.jp/company/・1回目）
   - 「私たちはまだ設立20年目の会社ですが、10年前から短時間社員制度を導入」（https://www.r-4.co.jp/recruit/company/・1回目）
@@ -459,9 +462,9 @@
   - 「R4に入社したのは、創業して間もない頃でした」（https://winc-career.jp/president-id0183/・3回目）
   - 「入社してしばらく経った社員旅行の場で、創業者にふと「僕、いつかR4の社長になります！」と口にしたことがあったんです」（https://winc-career.jp/president-id0183/・3回目）
   - 「今思えば、かなり生意気だったと思います（笑）でも、その一言を創業者が覚えていてくれたことが、後々とても大きな意味を持つことになりました」（https://winc-career.jp/president-id0183/・3回目）
-  - 「変えたくなかったのは、創業から続く」（https://winc-career.jp/president-id0183/・3回目）
-  - 「株式会社R4（アールフォー）という社名は、創業メンバーであるリクルート出身の4人が中心となって立ち上げたことに由来しています」（https://winc-career.jp/president-id0183/・3回目）
 - 売上・規模：
+  - 「79名(2023年2月時点)」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「〒460-0008 愛知県名古屋市中区栄2-9-26 ポーラ名古屋ビル3F」（https://winc-career.jp/president-id0183/company/・3回目）
   - 「キーボードの製品名や競馬の予想、中学受験の偏差値など、幅広い分野の記事が集まっています」（https://note.com/tag/R4・3回目）
   - 「RENTA 4 BANCO SA – BME:R4の売上高内訳 – TradingView」（https://jp.tradingview.com/symbols/BME-R4/financials-segments/・3回目）
   - 「2025年7月に登場する新シリーズの名称は・・・」（https://takakou.co.jp/data/pdf/202506111041341749606094629444.pdf・3回目）
@@ -472,9 +475,8 @@
   - 「数名から数十名の規模もあれば、」（https://www.r-4.co.jp/・1回目）
   - 「数百名や数千名規模になることもあります」（https://www.r-4.co.jp/・1回目）
   - 「愛知県名古屋市中区栄2-9-26 ポーラ名古屋ビル 3F」（https://www.r-4.co.jp/company/・1回目）
-  - 「愛知県名古屋市中区栄」（https://www.r-4.co.jp/company/・1回目）
-  - 「2-9-26ポーラ名古屋ビル3F」（https://www.r-4.co.jp/company/・1回目）
 - 料金：
+  - 「1,000万円」（https://winc-career.jp/president-id0183/company/・3回目）
   - 「予告なく仕様・価格等が変更になることがあります」（https://takakou.co.jp/data/pdf/202506111041341749606094629444.pdf・3回目）
   - 「ご契約料金について０３」（https://takakou.co.jp/data/pdf/202506111041341749606094629444.pdf・3回目）
   - 「移行特別価格 ※1」（https://takakou.co.jp/data/pdf/202506111041341749606094629444.pdf・3回目）
@@ -486,20 +488,19 @@
   - 「1000万円」（https://www.r-4.co.jp/company/・1回目）
   - 「1000万円」（https://www.r-4.co.jp/recruit/company/・1回目）
   - 「11億6,500万円（2021年3月実績）」（https://www.r-4.co.jp/recruit/company/・1回目）
-  - 「「本気シート」を使って申請すれば、社外研修や資格取得などの費用を会社が一部(70％)負担してくれる制度があります」（https://www.r-4.co.jp/recruit/company/・1回目）
 - 製造業の顧客：
+  - 「何よりもまず義理堅く お客様と一緒に考え成果の出せる日本一顧客志向の高い会社を創ります」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「それは「顧客志向」を、言葉ではなく行動で貫くことです」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「今の時代、顧客志向を掲げる企業は少なくありません」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「だからこそR4は、「本気の顧客志向で日本一を目指す」と決めました」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「多くのお客様とのご縁に支えられ、今もなお取引先は増え続けています」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「R4は、日本一の顧客志向が高い会社を目指し、体現しています」（https://winc-career.jp/president-id0183/company/・3回目）
   - 「日本一顧客志向の高い」（https://www.r-4.co.jp/・1回目）
   - 「おおよそ20年前『何よりもまず義理堅く お客様と一緒に考え成果の出せる、日本一顧客志向の高い会社を創ります」（https://www.r-4.co.jp/recruit/・1回目）
   - 「誰もが聞いたことのある大企業の人事担当者、家族経営の社長、工場をまとめる工場長など、私たちの仕事はさまざまなお客様と関わります」（https://www.r-4.co.jp/recruit/personality/・1回目）
   - 「おおよそ20年前『何よりもまず義理堅く お客様と一緒に考え成果の出せる、日本一顧客志向の高い会社を創ります」（https://www.r-4.co.jp/recruit/personality/・1回目）
   - 「「ヤリガイを伝えるために先輩社員のインタビューを撮りたい」「製造工程も見せたいから工場も撮影したい」企画意図や要望を伝えながら進め、迎えた撮影当日」（https://www.r-4.co.jp/recruit/interview/entry-35.html・1回目）
   - 「岡山の工場へ行き、直接目で見て得られた情報を原稿内容に反映しました」（https://job.mynavi.jp/27/pc/search/corp289840/outline.html・3回目）
-  - 「会計ソフト導入事例」（https://www.epson.jp/products/ac/zeimu/price.htm・3回目）
-  - 「30年以上の信頼と実績のある大手メーカーエプソンの会計ソフト『財務応援R4シリーズ』」（https://www.kaikei-h.com/epson.html・3回目）
-  - 「老舗大手メーカーと言えるだけの充実した体制が整ってますので、手厚いサポートを求めている方にはオススメの財務会計ソフトと言えるでしょう」（https://www.kaikei-h.com/epson.html・3回目）
-  - 「本質的なサービスを磨き続けた先に、結果として顧客が増え、会社の規模も2倍、3倍と自然に広がっていく」（https://winc-career.jp/president-id0183/・3回目）
-  - 「2社がお互いの強み、蓄積されたノウハウを活かし合うことで、取引先企業のエンゲージメント向上・DX支援促進の一助となることを目指します」（https://stmn.co.jp/news/10497・3回目）
-  - 「スタメンは、R4の取引先企業に対し、「人と組織」に関する経営課題のヒアリングから打ち手となる組織改善施策の提案を一貫して担い、クライアント企業の成長と変革に寄与する組織の信頼関係＝エンゲージメントの向上を支援します」（https://stmn.co.jp/news/10497・3回目）
 - 売り方：
   - 「「エプソンの会計シリーズ」で対応する新たな機能の一部をご紹介します」（https://takakou.co.jp/data/pdf/202506111041341749606094629444.pdf・3回目）
   - 「サービス紹介」（https://www.r-4.co.jp/・1回目）
@@ -514,6 +515,10 @@
   - 「紹介事業許可年」（https://www.r-4.co.jp/recruit/company/・1回目）
   - 「採用広報の企画（人材採用のお手伝い）、企業広報物の企画制作、自治体との地方活性化、媒体編集、人材紹介、その他」（https://www.r-4.co.jp/recruit/company/・1回目）
 - 採用・人数：
+  - 「R4では、お客様の状況によっては「今回は採用をしない方がいい」という判断をすることもあります」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「「その採用が、企業の持続的な成長につながるのか」」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「また、私たちの仕事は「採用できたら終わり」ではありません」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「主となるサービスはIndeedを中心とした求人広告による人材採用のお手伝いですが、入社後の人材定着・戦力化のための研修、パンフレットなどのツール制作、web制作・開発、ブランディングなど、「人」にまつわるサービスを幅広く提供しています」（https://winc-career.jp/president-id0183/company/・3回目）
   - 「新卒採用に関わる提案を初めてすることになりました」（https://www.r-4.co.jp/recruit/interview/entry-36.html・1回目）
   - 「担当のお客様との取引状況を把握する書類、採用成果を出すことができた事例集、業界毎にファイリングをして知識を深めるためのファイルなど」（https://www.r-4.co.jp/recruit/interview/entry-36.html・1回目）
   - 「本社ヘッドオフィス 営業職 マネージャー 渡邊洋司 | インタビュー | 株式会社R4」（https://www.r-4.co.jp/recruit/interview/entry-35.html・1回目）
@@ -522,11 +527,8 @@
   - 「組織運営をしていくうえで年齢構成に偏りがありましたし、事業展開を考えると定期的に若い人を採用した方がいいと思ったんですね」（https://www.r-4.co.jp/recruit/interview/entry-35.html・1回目）
   - 「ただ採用サイトに掲載するだけではなく、採用活動の全体を考える必要があったため、自分一人では分からないので先輩へ相談」（https://www.r-4.co.jp/recruit/interview/entry-35.html・1回目）
   - 「管理画面の運用・説明会への呼び込みなど『採用事務代行』」（https://www.r-4.co.jp/recruit/interview/entry-35.html・1回目）
-  - 「数か月で3000名程のエントリーを見込んでいましたが、採用業務代行を担当する社内の女性スタッフによると、その数は500名に留まっていました」（https://www.r-4.co.jp/recruit/interview/entry-35.html・1回目）
-  - 「初めで絞りすぎると採用がゼロになってしまいますからね」（https://www.r-4.co.jp/recruit/interview/entry-35.html・1回目）
-  - 「(株)R4の新卒採用・会社概要 | マイナビ2027」（https://job.mynavi.jp/27/pc/search/corp289840/outline.html・3回目）
-  - 「採用から定着まで、幅広いサービスを展開」（https://job.mynavi.jp/27/pc/search/corp289840/outline.html・3回目）
 - 発言：
+  - 「正直、当時は「社長になろう」と明確な目標にしていたわけではありません」（https://winc-career.jp/president-id0183/company/・3回目）
   - 「3ヶ月に1度、社長～新入社員まで全員参加の全社研修を開催しています」（https://job.mynavi.jp/27/pc/search/corp289840/outline.html・3回目）
   - 「正直、当時は「社長になろう」と明確な目標にしていたわけではありません」（https://winc-career.jp/president-id0183/・3回目）
   - 「人とのご縁に本気で向き合い、努力を続けた先に、社長という未来があった」（https://winc-career.jp/president-id0183/・3回目）
@@ -538,8 +540,10 @@
   - 「社長に就任したばかりで、今まさに自分の強みを経営に反映させにいっている途中、という段階です」（https://winc-career.jp/president-id0183/・3回目）
   - 「そのサービスや会社の形をつくるのは、社長である私一人ではありません」（https://winc-career.jp/president-id0183/・3回目）
   - 「このインタビューを読んでいただいた学生さんへのメッセージをお願いします」（https://winc-career.jp/president-id0183/・3回目）
-  - 「（本社：愛知県名古屋市、代表取締役社長：平松洋一、以下R4）とアライアンス体制を構築し、エンゲージメント経営プラットフォーム「」（https://stmn.co.jp/news/10497・3回目）
 - 検索結果の抜粋：
+  - 「株式会社 R4 企業情報 | ウインク（WinC） — 株式会社 R4 企業情報 | ウインク（WinC） winc-career.jp https://winc-career.jp > 熊澤 祐太 株式会社R4」（https://winc-career.jp/president-id0183/company/・3回目）
+  - 「株式会社 R4 | 女性活躍企業を探す — 株式会社 R4 | 女性活躍企業を探す あいち女性の活躍促進応援サイト https://jokatsu.pref.aichi.jp > company > details」（https://jokatsu.pref.aichi.jp/company/details/cp-00957.html・3回目）
+  - 「R4 の 新卒採用・就職・企業情報 - 就活会議 — R4 の 新卒採用・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > その他業界の企業一覧」（https://syukatsu-kaigi.jp/companies/131465・3回目）
   - 「株主 資本等変動計算書 - よくあるご質問（FAQ）を検索 — 株主 資本等変動計算書 - よくあるご質問（FAQ）を検索 エプソン ホームページ https://faq.r4support.epson.jp > app > answers > list > page」（https://faq.r4support.epson.jp/app/answers/list/kw/%E6%A0%AA%E4%B8%BB%E8%B3%87%E6%9C%AC%E7%AD%89%E5%A4%89%E5%8B%95%E8%A8%88%E7%AE%97%E6%9B%B8/page/0・3回目）
   - 「県 出資 法人の概要数値（ R4 年度決算） - 愛媛県 — 県 出資 法人の概要数値（ R4 年度決算） - 愛媛県 愛媛県庁公式ホームページ PDF https://www.pref.ehime.jp > uploaded > attachment」（https://www.pref.ehime.jp/uploaded/attachment/110897.pdf・3回目）
   - 「R4 改正 配当課税特例の大口 株主 の判定に係る同族関係者の適否 — R4 改正 配当課税特例の大口 株主 の判定に係る同族関係者の適否 税務研究会 https://www.zeiken.co.jp > news」（https://www.zeiken.co.jp/news/28730279.php・3回目）
@@ -549,10 +553,7 @@
   - 「企業情報 - R4株式会社 — 企業情報 - R4株式会社 r4-corp.com https://r4-corp.com > company」（https://r4-corp.com/company・3回目）
   - 「地域創生起業支援事業( 創業 者向け補助金) - 静岡県産業振興財団 — 地域創生起業支援事業( 創業 者向け補助金) - 静岡県産業振興財団 静岡県産業振興財団 https://www.ric-shizuoka.or.jp > shienkin > download_r4」（https://www.ric-shizuoka.or.jp/sougyou/shienkin/download_r4.html・3回目）
   - 「熊澤 祐太 株式会社 R4 | ウインク（WinC） — 熊澤 祐太 株式会社 R4 | ウインク（WinC） winc-career.jp https://winc-career.jp > president-id0183」（https://winc-career.jp/president-id0183/・3回目）
-  - 「(株) R4 の新卒採用・会社概要 | マイナビ2027 — (株) R4 の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp289840 > outline」（https://job.mynavi.jp/27/pc/search/corp289840/outline.html・3回目）
-  - 「R4 株式会社｜人を増やさず収益を伸ばす、AI時代の事業運営 ... — R4 株式会社｜人を増やさず収益を伸ばす、AI時代の事業運営 ... r4-corp.com https://r4-corp.com」（https://r4-corp.com/・3回目）
-  - 「財務応援 R4 Liteの よくあるご質問（FAQ）検索結果 - エプソン — 財務応援 R4 Liteの よくあるご質問（FAQ）検索結果 - エプソン エプソン ホームページ https://faq.r4support.epson.jp > 売上高が知りたい > page」（https://faq.r4support.epson.jp/app/answers/list/kw/%E5%A3%B2%E4%B8%8A%E9%AB%98%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84/p/23/page/1・3回目）
-- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）
 
 ## 株式会社nCore
 - 公式URL：https://ncore.co.jp/（given）
@@ -661,6 +662,7 @@
 - 検索結果の抜粋：
   - 「ワイヤレスゲート 米国 nCore 社へ 出資 を決定 - 財経新聞 — ワイヤレスゲート 米国 nCore 社へ 出資 を決定 - 財経新聞 財経新聞 https://www.zaikei.co.jp > article」（https://www.zaikei.co.jp/article/20151019/274515.html・3回目）
   - 「NCore 株式会社の情報 - 官報決算データベース — NCore 株式会社の情報 - 官報決算データベース 官報決算データベース https://catr.jp > companies」（https://catr.jp/companies/1a1ef/64747・3回目）
+  - 「USENの音楽情報サイト「encore（ アンコール ）」 - X — USENの音楽情報サイト「encore（ アンコール ）」 - X X https://x.com > @encore_inf」（https://x.com/encore_inf/status/2116002171653444069・3回目）
   - 「合同会社 NCORE 東日本｜法人番号 4070003005622 — 合同会社 NCORE 東日本｜法人番号 4070003005622 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報」（https://lawplayer.com/jp/company/4070003005622・3回目）
   - 「墨田区産業共創施設 SUMIDA INNOVATION CORE — 墨田区産業共創施設 SUMIDA INNOVATION CORE sic-sumida.net https://sic-sumida.net」（https://sic-sumida.net/・3回目）
   - 「最強の Ncore パワーアンプ - Innocent Key — 最強の Ncore パワーアンプ - Innocent Key Innocent Key http://innocent-key.com > wordpress」（http://innocent-key.com/wordpress/?page_id=1208・3回目）
@@ -670,7 +672,6 @@
   - 「NCore 株式会社の東京都・コンサルの会社概要【2026年時点】 — NCore 株式会社の東京都・コンサルの会社概要【2026年時点】 SalesNow https://salesnow.jp > トップ > 都道府県 > 東京都」（https://salesnow.jp/db/companies/jcba81x205f1n4ub6・3回目）
   - 「株式会社N CORE - 全国企業データベース — 株式会社N CORE - 全国企業データベース 全国企業データベース https://companydata.tsujigawa.com > company2」（https://companydata.tsujigawa.com/company2/2013302018145/・3回目）
   - 「N CORE 株式会社の求人・採用と企業情報 - HelloBoss — N CORE 株式会社の求人・採用と企業情報 - HelloBoss HelloBoss https://helloboss.com > corp」（https://helloboss.com/corp/6010401141626・3回目）
-  - 「「 ncore 」の人気商品一覧・価格比較 — 「 ncore 」の人気商品一覧・価格比較 価格.com https://search.kakaku.com > ncore」（https://search.kakaku.com/ncore/・3回目）
 - 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
 - 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
 - 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
@@ -720,6 +721,7 @@
   - 「御社の設立から沿革など会社の概要について教えてください」（https://tenshoku.abi.co.jp/yuryokigyo-channel/itv-s.html・3回目）
   - 「そこから、新しいテレビ局への開設申請が461件があり、最終的に一本化されて、1991年4月26日に予備免許交付、7月3日に当時の社名である「伊予テレビ」として会社設立」（https://note.com/kozukatanohibi/n/n78f594ad375d・3回目）
 - 売上・規模：
+  - 「「まさか自分が…」今治市の建築板金工・中浦昌彦さんが「現代の名工」に 宝厳寺屋根など伝統の技光る 愛媛」（https://www.itv6.jp/・1回目）
   - 「【GW 渋滞予測 地図あり】今日はどこが混雑? 下りピークで最大45km…NEXCO東日本〜中日本〜西日本【東北道 常磐道 中央道 首都圏 東名 名神 近畿道 山陽道 中国道 松山道 九州道・全国の高速道路】(あいテレビ)」（https://note.com/tag/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
   - 「その告知にSNSの活用を提案したところ、賛同をいただき、部署一丸となってイベントに取り組んだ結果、売上を伸ばすことができました」（https://www.itv6.jp/recruit/・1回目）
   - 「資本金1億円 発行済株式総数61,375株」（https://www.itv6.jp/company/・1回目）
@@ -731,8 +733,8 @@
   - 「の拠点放送局」（https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
   - 「2年）7月28日 - 資本金を40億円から1億円に減じた」（https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
   - 「への取材拠点であった八幡浜支局（八幡浜市）を、南海放送・愛媛朝日テレビの支局と共に一斉に廃止したうえで、テレビ愛媛を含めた愛媛県内の民放テレビ局の共同運用による「八幡浜共同支局」を設置」（https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
-  - 「企業・団体は当時の名称」（https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
 - 料金：
+  - 「山本由伸の実使用球が77万円! 大谷翔平らMLB公式グッズストアが松山に期間限定オープン」（https://www.itv6.jp/・1回目）
   - 「SNS広告から「偽アプリ」を入れたら…60万円送金被害 遠隔操作による不正送金急増、県警が注意呼びかけ・愛媛」（https://www.itv6.jp/・1回目）
   - 「そうして、壊れて電波を停めてしまうことなく、保守をして設備を長く使い、長期的に費用を抑えた計画を立てるというところが腕の見せ所です」（https://www.itv6.jp/recruit/・1回目）
   - 「大学卒：235,000円 （住宅手当1.5万円含） 2026年4月入社実績」（https://www.itv6.jp/recruit/2026y/・1回目）
@@ -768,6 +770,8 @@
 - 採用・人数：
   - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIibKGO_bASMVC1BcmwIqHYNnAYymSyTkwAiITA5WUEz5iN7Rvm・3回目）
   - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIibKGO_bASMVC1BcmwIqHYNnAYymSyTkwAiITA5WUEz5iN7Rvm・3回目）
+  - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vLm6bvbVf48HYb9zbhnzbEcQPjZLpK_l06upu3hK5A23x0DL7pI・3回目）
+  - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vLm6bvbVf48HYb9zbhnzbEcQPjZLpK_l06upu3hK5A23x0DL7pI・3回目）
   - 「選定にあたっては、現状の運用とできるだけ変えることなく、収録から送出まで統一フォーマットXDCAMで運用できる、ソニーのシステムを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKcmWhdJAJgdro4-Pa8F34wTyQriQ5XMZ3fyDJsQLm9XumUwu20・3回目）
   - 「報道取材に関しては、より迅速に送出できるよう、転送速度の速いXDCAMメモリーカムコーダーを採用しました」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKcmWhdJAJgdro4-Pa8F34wTyQriQ5XMZ3fyDJsQLm9XumUwu20・3回目）
   - 「【アナウンサー試験】《itv（あいテレビ）》itv研究・分析＆実際に面接試験で聞かれる想定質問100問（質問＋回答例＆回答のポイント）【アナウンサー就活｜アナウンサー受験｜採用｜面接｜コーチング｜就職活｜公務員試験&就活🌸ほまれ」（https://note.com/yo0425/n/n87da79e7e808?magazine_key=m0a32871c5bcb・3回目）
@@ -776,8 +780,6 @@
   - 「2027年4月入社の募集は春・秋とも締め切られ、2028年4月入社の募集要項は2026年11月3日時点でまだ公表されていません」（https://note.com/yo0425/n/n87da79e7e808?magazine_key=m0a32871c5bcb・3回目）
   - 「『採用』をつかむ上で、」（https://note.com/yo0425/n/n87da79e7e808?magazine_key=m0a32871c5bcb・3回目）
   - 「多くの方に『採用』をつかんでほしいと思い、」（https://note.com/yo0425/n/n87da79e7e808?magazine_key=m0a32871c5bcb・3回目）
-  - 「購入して『採用』をつかみ、自分がなりたいキャリアを手に入れてほしいです！！」（https://note.com/yo0425/n/n87da79e7e808?magazine_key=m0a32871c5bcb・3回目）
-  - 「▼【アナウンサー試験】《全局》就活｜受験｜採用｜面接」（https://note.com/yo0425/n/n87da79e7e808?magazine_key=m0a32871c5bcb・3回目）
 - 発言：
   - 「ラジオ業界の常識を打ち破る！人気パーソナリティ江本一真さんにインタビュー」（https://note.com/tag/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
   - 「第5回 My SWITCHインタビュー！【前編】」（https://note.com/tag/%E3%81%82%E3%81%84%E3%83%86%E3%83%AC%E3%83%93・3回目）
@@ -793,6 +795,7 @@
   - 「先輩インタビュー」（https://navi.himeboss.jp/company_detail/208・3回目）
 - 検索結果の抜粋：
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vIibKGO_bASMVC1BcmwIqHYNnAYymSyTkwAiITA5WUEz5iN7Rvm・3回目）
+  - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vLm6bvbVf48HYb9zbhnzbEcQPjZLpK_l06upu3hK5A23x0DL7pI・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKcmWhdJAJgdro4-Pa8F34wTyQriQ5XMZ3fyDJsQLm9XumUwu20・3回目）
   - 「視聴データの取扱いについて | あいテレビ は6チャンネル — 視聴データの取扱いについて | あいテレビ は6チャンネル itv6.jp https://www.itv6.jp > viewingdata」（https://www.itv6.jp/viewingdata/・3回目）
   - 「株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM — 株式会社 あいテレビ 様 | 映像制作機器 XDCAM／NXCAM ソニーストア https://www.sony.jp > xdcam > casestudy > itv」（https://www.sony.jp/xdcam/casestudy/itv.html?srsltid=AYCX9vKseXUQD6BwL-oLV79DvuLp7DeWroj1HJfycD66i8jmQfHfbx12・3回目）
@@ -803,8 +806,7 @@
   - 「株式会社 あいテレビ | 企業詳細 - ひめボスNAVI — 株式会社 あいテレビ | 企業詳細 - ひめボスNAVI ひめボスNAVI https://navi.himeboss.jp > company_detail」（https://navi.himeboss.jp/company_detail/208・3回目）
   - 「(株) あいテレビ の新卒採用・会社概要 | マイナビ2027 — (株) あいテレビ の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp101256 > outline」（https://job.mynavi.jp/27/pc/search/corp101256/outline.html・3回目）
   - 「株式会社 あいテレビ （愛媛県）の会社概要・売上・役員 — 株式会社 あいテレビ （愛媛県）の会社概要・売上・役員 Compalyze https://compalyze.co.jp > 企業検索 > テレビ・ラジオ」（https://compalyze.co.jp/company/4500001000481・3回目）
-  - 「(株) あいテレビ の2027年度会社概要 | マイナビ2028 — (株) あいテレビ の2027年度会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp101256 > outline」（https://job.mynavi.jp/28/pc/search/corp101256/outline.html・3回目）
-- 許認可：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）
 
 ## 株式会社アウトソーシング
 - 公式URL：https://www.outsourcing.co.jp/（given）
@@ -824,6 +826,7 @@
 - 代表者：代表取締役会長 会長執行役員CEO　上山 健二 代表取締役社長 社長執行役員COO　山﨑 高之（https://www.brexa.com/news/1646/・3回目）
 - 代表者：代表取締役社長 佐藤 正秀（https://www.ots.co.jp/news/2025/1223.html・3回目）
 - 株主構成：
+  - 「日本法人及び外国法人の子会社、支店を中心として会社設立から経理事務全般に関してのバックサービスを実施します」（https://www.aska-tax.jp/s_out.html・3回目）
   - 「のため、売上高は売上収益、純利益は親会社の所有者に帰属する当期利益、純資産は親会社の所有者に帰属する持分」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「12月 - 株式会社アクセント（2005年1月吸収合併）を子会社化」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「に上場（2012年6月2日上場廃止）」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
@@ -835,8 +838,11 @@
   - 「2004年上場の企業」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「◆ 上場を機に、転籍モデルを」（https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf・3回目）
   - 「１．従業員数１人の中小企業から従業員数およそ1万人の東証一部上場企業まで委託を受けた実績があり、幅広い人数規模で対応が可能です」（https://www.nkr-office.com/works3/・3回目）
-  - 「マーベル18兆円買収、背後でうごめくNVIDIA 売り買い双方に出資」（https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/・3回目）
 - 創業年度：
+  - 「業務内容（設立支援・アウトソーシング）｜税理士法人アスカパートナーズ」（https://www.aska-tax.jp/s_out.html・3回目）
+  - 「日本法人及び外国法人の子会社、支店を中心として会社設立から経理事務全般に関してのバックサービスを実施します」（https://www.aska-tax.jp/s_out.html・3回目）
+  - 「個人の事業主が会社を興し、ビジネスを一定の軌道にのせるためには、営業活動に特化し“設立・事務管理にかかるコスト・時間を極力抑えることは重要です」（https://www.aska-tax.jp/s_out.html・3回目）
+  - 「アスカパートナーズは社会保険労務士及び司法書士とのネットワーク組織を活用して、会社設立、経理事務代行、給与計算事務代行、資金管理（キャッシュマネジメント）等クライアントの要望に応じてご提供します」（https://www.aska-tax.jp/s_out.html・3回目）
   - 「5月 - 株式会社中部綜合設立」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「11月 - 株式会社リアルタイムを分社・設立」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「11月 - 株式会社ワークシステム・エンジニアを分社・設立」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
@@ -845,12 +851,10 @@
   - 「10月 - 株式会社リアルタイム北陸を分社・設立」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「1月 - ワーク・システム、リアルタイム、ワークシステム・エンジニア、リアルタイム関東、リアルタイム静岡、リアルタイム北陸の事業を統合し、株式会社アウトソーシングを静岡県静岡市駿河区稲川に設立」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「1997年設立の日本企業」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
-  - 「創業 ： 2000年（旧みずほキャピタルパートナーズとしてプライベート・エクイティ業務を開始）」（https://www.ots.co.jp/news/2025/1223.html・3回目）
-  - 「設立 ： 2021年（MCPキャピタル株式会社として分社化）」（https://www.ots.co.jp/news/2025/1223.html・3回目）
-  - 「MCPキャピタルは、2000年の創業以来、累計6本のファンド運用を業務受託し、合計40件超の投資実績を有しております」（https://www.ots.co.jp/news/2025/1223.html・3回目）
-  - 「設立： 2005年9月」（https://www.ots.co.jp/news/2025/1223.html・3回目）
 - 売上・規模：
   - 「情シスアウトソーシング導入事例 ― 製造業50名規模のひとり情シスが限界を迎えるまでと、その後 | 情シス365」（https://www.josis365.com/blog/outsourcing-case-manufacturing/・3回目）
+  - 「クアルコム、データセンター事業が売上計上へ 車載は年率80億ドル規模に」（https://strainer.jp/tags/bpo・3回目）
+  - 「アーム決算：ライセンス収入50%増、自社チップの売上見通しは最大20億ドルへ」（https://strainer.jp/tags/bpo・3回目）
   - 「252億93百万円」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「連結: 7496億8百万円」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「単独: 829億23百万円」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
@@ -860,8 +864,6 @@
   - 「連結: 51億62百万円」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「単独: 47億99百万円」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
   - 「連結: 897億75百万円」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
-  - 「単独: 600億63百万円」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
-  - 「連結: 4237億94百万円」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
 - 料金：
   - 「次に、総務アウトソーシングの費用に違いが出てくる理由を5つ挙げ、解説していきます」（https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/・3回目）
   - 「252億93百万円」（https://ja.wikipedia.org/wiki/BREXA_Next・3回目）
@@ -889,6 +891,7 @@
   - 「製造業50名規模の典型的なケースを紹介しています」（https://www.josis365.com/blog/outsourcing-case-manufacturing/・3回目）
   - 「本記事では、複数の支援実績をもとに構成した典型的なケーススタディとして、従業員50名規模の製造業企業が情シスアウトソーシングを導入するまでの経緯と成果を紹介します」（https://www.josis365.com/blog/outsourcing-case-manufacturing/・3回目）
 - 売り方：
+  - 「個人の事業主が会社を興し、ビジネスを一定の軌道にのせるためには、営業活動に特化し“設立・事務管理にかかるコスト・時間を極力抑えることは重要です」（https://www.aska-tax.jp/s_out.html・3回目）
   - 「営業利益 158 △ 139 △ 88.0%」（https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf・3回目）
   - 「販管費、営業利益推移グラフ販管費、営業利益推移グラフ」（https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf・3回目）
   - 「売上原価 販管費 営業利益 販管費率 営業利益率」（https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf・3回目）
@@ -900,7 +903,6 @@
   - 「地方の製造業にITエンジニアを呼ぶハードルは高く、人材紹介会社に依頼しても3ヶ月以上マッチングがつかない状態でした」（https://www.josis365.com/blog/outsourcing-case-manufacturing/・3回目）
   - 「この記事では、ITアウトソーシングの基本と市場動向から、その導入事例まで幅広く紹介し、私の知見に基づいた成功の秘訣を詳しく解説いたします」（https://www.anets.co.jp/is/blog/cotents16.php・3回目）
   - 「9. おすすめのアウトソーシング先のご紹介」（https://www.anets.co.jp/is/blog/cotents16.php・3回目）
-  - 「ITアウトソーシングとは？について、下記の記事で詳しくご紹介していますのでご覧ください」（https://www.anets.co.jp/is/blog/cotents16.php・3回目）
 - 採用・人数：
   - 「採用と管理部門の伴走者：株式会社みらいキャリアラボ」（https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0・3回目）
   - 「一人当たり採用コスト推移一人当たり採用コスト推移」（https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf・3回目）
@@ -928,6 +930,7 @@
   - 「プロ経営者の原点には何があるのか？〜BREXA Holdings 代表取締役社長 山﨑 高之インタビューVol.1～」（https://note.com/brexa_holdings/n/nf5b3a95a256d・3回目）
   - 「その問いに答えるべく、ひとりの起業家であり事業再生のプロにインタビューを行った」（https://note.com/brexa_holdings/n/nf5b3a95a256d・3回目）
 - 検索結果の抜粋：
+  - 「業務内容（ 設立 支援・ アウトソーシング ）｜税理士法人アスカ ... — 業務内容（ 設立 支援・ アウトソーシング ）｜税理士法人アスカ ... 税理士法人アスカパートナーズ https://www.aska-tax.jp > s_out」（https://www.aska-tax.jp/s_out.html・3回目）
   - 「総合人材 アウトソーシング 事業の部門別売上実績 — 総合人材 アウトソーシング 事業の部門別売上実績 マジカル IR http://www.magicalir.net > slideshow > html」（http://www.magicalir.net/2471/slideshow/080709/html/06.html・3回目）
   - 「経理代行・ アウトソーシング導入事例 厳選5社を紹介！課題 ... — 経理代行・ アウトソーシング導入事例 厳選5社を紹介！課題 ... タクシタ https://go.taxita.com > ... > 経理」（https://go.taxita.com/column/accounting021/・3回目）
   - 「給与計算の アウトソーシング （代行・外注）の内容と 料金 — 給与計算の アウトソーシング （代行・外注）の内容と 料金 なかの経営労務事務所 https://www.nkr-office.com > works3」（https://www.nkr-office.com/works3/・3回目）
@@ -939,14 +942,13 @@
   - 「株式会社 アウトソーシング 、グループガバナンス強化のため ... — 株式会社 アウトソーシング 、グループガバナンス強化のため ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000013.000077850.html・3回目）
   - 「沿革 | OTS 株式会社 アウトソーシング トータルサポート — 沿革 | OTS 株式会社 アウトソーシング トータルサポート OTS 株式会社アウトソーシングトータルサポート https://www.ots.co.jp > company > history」（https://www.ots.co.jp/company/history/・3回目）
   - 「沿革 - アウトソーシング — 沿革 - アウトソーシング outsourcing.co.jp https://www.outsourcing.co.jp > company > history」（https://www.outsourcing.co.jp/company/history・3回目）
-  - 「アウトソーシング 会社起業について — アウトソーシング 会社起業について profile.dreamgate.gr.jp https://profile.dreamgate.gr.jp > QaItems > detail」（https://profile.dreamgate.gr.jp/QaItems/detail/1371・3回目）
-- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
-- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
-- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
-- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
-- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
-- 許認可：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
-- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
 
 ## 株式会社ウィルオブ・ワーク
 - 公式URL：https://willof-work.co.jp/（given）
@@ -1039,6 +1041,7 @@
   - 「家電メーカー販売 人材派遣・紹介・業務委託」（https://willof-work.co.jp/corp/service/bus-truck/・1回目）
   - 「家電メーカー販売 人材派遣・紹介・業務委託」（https://willof-work.co.jp/corp/service/logistics-warehouse/・1回目）
 - 売り方：
+  - 「、営業担当を勤めたウィルオブ横井・角がこれまでの取り組みを振り返りました」（https://willof-work.co.jp/corp/case/1413/・1回目）
   - 「販売、営業職/コールセンター/製造・物流/介護/保育/ITエンジニア」（https://willof-work.co.jp/corp/aboutus/client/・1回目）
   - 「人材紹介事業を株式会社グローリアスとして分社化」（https://willof-work.co.jp/corp/aboutus/history/・1回目）
   - 「保育士の紹介、派遣サービス開始」（https://willof-work.co.jp/corp/aboutus/history/・1回目）
@@ -1050,7 +1053,6 @@
   - 「主にシンガポールの日系企業に対して、人材紹介、人材派遣、エグゼクティブサーチサービスを提供しています」（https://willof-work.co.jp/corp/aboutus/group/・1回目）
   - 「シンガポールにおいて、シンガポールに地域統括会社を設置する多国籍企業を主な対象として、人材紹介、人材派遣、エグゼクティブサーチサービスを提供しています」（https://willof-work.co.jp/corp/aboutus/group/・1回目）
   - 「The Chapman Consulting Group Pte.Ltd.は、シンガポールを中心に、香港、日本、米国、中国、U.A.E、オーストラリア及び英国の各国の完全子会社を通じて、HR領域に特化した人材紹介、コンサルティング事業を展開しています」（https://willof-work.co.jp/corp/aboutus/group/・1回目）
-  - 「オーストラリア、シンガポールにおいて、主にエグゼクティブレベルやニッチなスキルを持った人材の人材紹介や人材派遣サービスを、金融、IT、行政機関、消費財、製造、ヘルスケアやリーガルといった様々な業界の企業へ提供しています」（https://willof-work.co.jp/corp/aboutus/group/・1回目）
 - 採用・人数：
   - 「リファラル採用を活性化するサービス「Refcome」「Refcome Teams」の開発・運営を行っています」（https://willof-work.co.jp/corp/aboutus/group/・1回目）
   - 「介護士資格取得支援「WILLOF ケアアカデミー」<br> ※現在新規の受講生募集は停止中」（https://willof-work.co.jp/corp/service/officework/・1回目）
@@ -1252,18 +1254,19 @@
   - 「また、展示会（機械の即売会）を実施した際、初年度は2日間で4000万円ほどの売上がありました」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
   - 「社員約40名の組織において、客観的な基準のない評価が続いていました」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
   - 「当社は喫緊の売上や利益につながる業務を優先して採用や評価制度の整備が「後回し」になりやすい状況です」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
+  - 「」を使命と捉え、現在10拠点に支店を構え展開しているサービスを、今後は47都道府県すべてで活用いただけるように拡大していく方針です」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「営業の属人化を解消！名刺を会社の資産に変える「Eight Team」の実力とは？」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
   - 「左バーが資産の内訳、右バーが負債・純資産の内訳（最新年度・百万円）」（https://edinetdb.jp/company/E39367・3回目）
   - 「売上高から各コストを差し引いて当期純利益に至る流れ（最新年度・百万円）」（https://edinetdb.jp/company/E39367・3回目）
   - 「売上高が前年比+12.0%成長」（https://edinetdb.jp/company/E39367・3回目）
   - 「1億円超はXBRL入力ミスとしてNULL」（https://edinetdb.jp/company/E39367・3回目）
   - 「三菱ＵＦＪキャピタル株式会社（組合名）三菱UFJｷｬﾋﾟﾀﾙ7号投資事業有限責任組合」（https://edinetdb.jp/company/E39367・3回目）
   - 「市区町村名のリンクから 不動産DB のエリアページで詳細を確認できます」（https://edinetdb.jp/company/E39367・3回目）
-  - 「同名でも法人番号が異なる別会社は統合していません」（https://edinetdb.jp/company/E39367・3回目）
-  - 「XBRL 形式の原本を直接パースし、JP GAAP / IFRS / US GAAP を統一名寄せした Bronze（生データ）→ Silver（名寄せ済）→ Gold（集計済）の 3 層構造です」（https://edinetdb.jp/company/E39367・3回目）
 - 料金：
   - 「高卒初任給をそれまでの19万円前後から20万円以上へ、中途採用については経験者で25万円以上に引き上げています」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
   - 「また、展示会（機械の即売会）を実施した際、初年度は2日間で4000万円ほどの売上がありました」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
   - 「山本精工所の採用改革を支えている「人事部パック」は、中小企業の「外部人事部」として、採用・定着・評価制度の構築を一貫して支援する月額型の人事支援サービスです」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
+  - 「業務のご相談からサービスの機能・料金に関する質問まで、」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
   - 「高卒初任給をそれまでの19万円前後から20万円以上へ、中途採用については経験者で25万円以上に引き上げています」（https://jinjib.co.jp/case/30%E5%B9%B4%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%8E%A1%E7%94%A8%E3%81%AE%E6%AD%AF%E8%BB%8A%E3%81%8C%E5%8B%95%E3%81%8D%E5%87%BA%E3%81%99%EF%BC%81-%E5%89%B5%E6%A5%AD104%E5%B9%B4・1回目）
   - 「また、展示会（機械の即売会）を実施した際、初年度は2日間で4000万円ほどの売上がありました」（https://jinjib.co.jp/case/30%E5%B9%B4%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%8E%A1%E7%94%A8%E3%81%AE%E6%AD%AF%E8%BB%8A%E3%81%8C%E5%8B%95%E3%81%8D%E5%87%BA%E3%81%99%EF%BC%81-%E5%89%B5%E6%A5%AD104%E5%B9%B4・1回目）
   - 「山本精工所の採用改革を支えている「人事部パック」は、中小企業の「外部人事部」として、採用・定着・評価制度の構築を一貫して支援する月額型の人事支援サービスです」（https://jinjib.co.jp/case/30%E5%B9%B4%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%8E%A1%E7%94%A8%E3%81%AE%E6%AD%AF%E8%BB%8A%E3%81%8C%E5%8B%95%E3%81%8D%E5%87%BA%E3%81%99%EF%BC%81-%E5%89%B5%E6%A5%AD104%E5%B9%B4・1回目）
@@ -1272,33 +1275,32 @@
   - 「これまでの「高卒採用」の支援にとどまらず、「採用戦略策定」「教育」「定着」「評価」「福利厚生」など、中小企業の「人的資本経営」を支える人事にまつわる業務のサポートをする月額サービスです」（https://jinjib.co.jp/service/hrsupport・1回目）
   - 「5,000万円（2026年8月1日現在）」（https://jinjib.co.jp/company/outline・1回目）
   - 「第三者割当増資により、資本金9,800万円へ増資」（https://jinjib.co.jp/company/outline・1回目）
-  - 「「人事部パック」は、「定着支援」を主軸に、早期離職の防止・組織力向上・戦力化促進を実現する月額型の人事支援サービスです」（https://jinjib.co.jp/archives/26961・1回目）
 - 製造業の顧客：
   - 「誠実さ・勤勉さといった基本姿勢、技術力・営業力、顧客理解と自社商材への知識、提案力、会社のプレゼンス向上への貢献といった軸で項目を設定し、各項目を点数で評価、合計点数によって等級をクラス分けする仕組みです」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
   - 「製造業の未来を築く！高校との関係構築とジンジブの力【高卒採用成功事例】」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
+  - 「「製造業」「建設業」「物流」「介護」など、従来型の業種ほど高卒採用の依存度が高い一方、近年は大卒・中途だけでは人材確保が困難になった企業が高卒市場へ参入し始めています」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「は、既存の顧客基盤を“新たな収益”に変える紹介マーケットです」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「厳選された多彩な商材を、仕入れ交渉や直接契約の手間なくすぐに取り扱えるため、顧客への提案の幅が即座に広がります」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「メーカー・代理店双方で実績を積み重ねてきた弊社の代理店戦略をまとめました」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
   - 「製造業の未来を築く！高校との関係構築とジンジブの力【高卒採用成功事例】」（https://jinjib.co.jp/case/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%B9%AF%E6%B5%85%E6%A7%98・1回目）
   - 「誠実さ・勤勉さといった基本姿勢、技術力・営業力、顧客理解と自社商材への知識、提案力、会社のプレゼンス向上への貢献といった軸で項目を設定し、各項目を点数で評価、合計点数によって等級をクラス分けする仕組みです」（https://jinjib.co.jp/case/30%E5%B9%B4%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%8E%A1%E7%94%A8%E3%81%AE%E6%AD%AF%E8%BB%8A%E3%81%8C%E5%8B%95%E3%81%8D%E5%87%BA%E3%81%99%EF%BC%81-%E5%89%B5%E6%A5%AD104%E5%B9%B4・1回目）
   - 「製造業の未来を築く！高校との関係構築とジンジブの力【高卒採用成功事例】」（https://jinjib.co.jp/case/30%E5%B9%B4%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E6%8E%A1%E7%94%A8%E3%81%AE%E6%AD%AF%E8%BB%8A%E3%81%8C%E5%8B%95%E3%81%8D%E5%87%BA%E3%81%99%EF%BC%81-%E5%89%B5%E6%A5%AD104%E5%B9%B4・1回目）
   - 「製造業の未来を築く！高校との関係構築とジンジブの力【高卒採用成功事例】 - ジンジブ」（https://jinjib.co.jp/case/koutaku-daiwa・1回目）
   - 「製造業の未来を築く！高校との関係構築とジンジブの力【高卒採用成功事例】」（https://jinjib.co.jp/case/koutaku-daiwa・1回目）
   - 「製造業の未来を築く！高校との関係構築とジンジブの力【高卒採用成功事例】」（https://jinjib.co.jp/service/recruitsupport/jobdraftplan・1回目）
-  - 「製造業の未来を築く！高校との関係構築とジンジブの力【高卒採用成功事例】」（https://jinjib.co.jp/case・1回目）
-  - 「愛知県は製造業を中心とした全国有数の産業集積地であり、地元での就職・進学を選ぶ若者が多い地域です」（https://jinjib.co.jp/archives/27006・1回目）
-  - 「1から何かを生み出すことができるものづくりに興味があって、製造業を中心に話をきいていました」（https://jinjib.co.jp/archives/26886・1回目）
-  - 「社会的にもお客さんや取引先のための人事部に成り得る会社になりたいというのが社名の由来ですね」（https://note.com/jinjib/n/ne3e25f3e22f2・3回目）
 - 売り方：
   - 「また、展示会（機械の即売会）を実施した際、初年度は2日間で4000万円ほどの売上がありました」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
   - 「展示会での露出増加がホームページへのアクセス増につながり、採用ページへの流入増に加え、SNS発信がブランドの認知力を高めることを期待します」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
   - 「誠実さ・勤勉さといった基本姿勢、技術力・営業力、顧客理解と自社商材への知識、提案力、会社のプレゼンス向上への貢献といった軸で項目を設定し、各項目を点数で評価、合計点数によって等級をクラス分けする仕組みです」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
   - 「合同説明会・SNS・ホームページ・評価制度・スカウト・展示会など、多岐にわたる取り組みも中長期的には連動していくと見据えています」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
-  - 「株式会社ジンジブの考えていることや日常をご紹介します」（https://note.com/jinjib/all?sort=popular・3回目）
-  - 「ジンジブで活躍している人を紹介している記事を紹介します」（https://note.com/jinjib/all?sort=popular・3回目）
-  - 「中小企業の“右腕”として、経費削減・業務効率化・営業支援を通じて、安定経営と挑戦の土台づくりを支援する株式会社バンソウ」（https://note.com/bansou_koushiki/n/n325b3dcfa313・3回目）
-  - 「株式会社ジンジブの考えていることや日常をご紹介します」（https://note.com/jinjib・3回目）
-  - 「ジンジブで活躍している人を紹介している記事を紹介します」（https://note.com/jinjib・3回目）
-  - 「トラックの運転手を経て広告代理店でトップセールス」（https://note.com/taniguchi_newh/n/ndba3abb92bfb・3回目）
-  - 「2014年頃まではホールディングスの形態をとっており、広告ビジネスを手掛ける「株式会社ピーアンドエフ」、中途紹介採用の「株式会社社長室」、そして「株式会社ジンジブ」がありました」（https://note.com/taniguchi_newh/n/ndba3abb92bfb・3回目）
-  - 「株式会社ジンジブの考えていることや日常をご紹介します」（https://note.com/jinjib/m/m29a48690a75b・3回目）
+  - 「優良な商材を活用して新たな収益の柱を築きたい個人や企業の皆さまに向けた、オンラインセミナー」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「が展開する支援サービス「ジョブドラフト」シリーズが紹介されました」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「登壇したのは、同社で専務取締役を務める森氏と、高卒新卒1期生として入社後、営業推進部統括責任者にまで昇進した佐々木氏」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「セミナーではまず、高卒採用の制度的な課題が指摘されました」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「前述の課題に対する解決策として紹介されたのが、株式会社ジンジブが展開する複数のプロダクトです」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「パートナー企業や地方金融機関との連携によるネットワークは、すでに」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「94の金融機関と提携」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
+  - 「するまでに広がっており、紹介経由での商談が成約に繋がる確率も非常に高いといいます」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
 - 採用・人数：
   - 「高卒採用の知識ゼロからのスタート！ジンジブのサービスがもたらした変化【高卒採用成功事例】」（https://jinjib.co.jp/case・1回目）
   - 「高校生の就職を支援する株式会社ジンジブ（本社：大阪市）は、一般社団法人HASSYADAI social（以下、ハッシャダイソーシャル）とともに、愛知県豊田市が実施する「令和8年度 教員と企業の接点創出・交流事業」の一環として、教員と地域企業に向けたこれからの進路指導やキャリア教育、若手人材の採用と育成を考えるプログラムを実施します」（https://jinjib.co.jp/archives/27014・1回目）
@@ -1316,6 +1318,7 @@
   - 「社長、現場スタッフ、総務のみで構成されていて、人事は存在していませんでしたね」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
   - 「横浜・東京を中心に4社を経験した後、2023年9月に地元の今治へ戻り、兄（現社長）が経営する山本精工所に入社しました」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
   - 「給与の改定額は社長と部長が協議し、感覚的な判断で決定していました」（https://jinjib.co.jp/case/case26_y-seiko・1回目）
+  - 「パートナーサクセス株式会社 代表取締役CEO」（https://partnersuccess.jp/media/eventreport-20250425report・3回目）
   - 「ワンロジ 白石絵梨副社長 次代を担う人材支援「若手と女性つなぐ力に」」（https://weekly-net.co.jp/news/193609/・3回目）
   - 「第一貨物 越智史朗社長 選ばれ続ける物流パートナーへ」（https://weekly-net.co.jp/news/193609/・3回目）
   - 「【三重】富洲原エキサイティングＣＬＵＢ（野呂忠生代表、野呂水産運輸）は１０月１１日、野呂水産運輸（同...」（https://weekly-net.co.jp/news/193609/・3回目）
@@ -1324,7 +1327,6 @@
   - 「の代表を務めております、谷岡 遼です」（https://note.com/bansou_koushiki/n/n325b3dcfa313・3回目）
   - 「それは、高卒就活支援事業で上場を果たした企業、株式会社ジンジブの佐々木社長です」（https://note.com/bansou_koushiki/n/n325b3dcfa313・3回目）
   - 「今回は、佐々木社長に社会課題の解決への覚悟と経営哲学について、お話を伺いました」（https://note.com/bansou_koushiki/n/n325b3dcfa313・3回目）
-  - 「株式会社ジンジブ 代表取締役社長 佐々木 満秀（ささき みつひで）さん」（https://note.com/bansou_koushiki/n/n325b3dcfa313・3回目）
 - 検索結果の抜粋：
   - 「ジンジブ （142A）の決算・業績分析 - 金脈コード — ジンジブ （142A）の決算・業績分析 - 金脈コード 金脈コード https://kinmyakucode.com > company」（https://kinmyakucode.com/ja/company/142A/・3回目）
   - 「製造業 の未来を築く！高校との関係構築と ジンジブ の力【高卒 ... — 製造業 の未来を築く！高校との関係構築と ジンジブ の力【高卒 ... ジンジブ https://jinjib.co.jp > 成功事例 > ジョブドラフト」（https://jinjib.co.jp/case/koutaku-daiwa・3回目）
@@ -1423,7 +1425,7 @@
   - 「意味のない推薦は自社の生産性を下げるばかりか、顧客企業にいらっしゃる人事の方や応募された求職者など全員の時間を無駄にします」（https://hrbc.porters.jp/magazine/special_detail/id=1320・3回目）
   - 「仕事をいかに面白くできるか、仕事をして成果を残し、顧客から「ありがとう」と言われてうれしい環境にいることが大事だと思います」（https://hrbc.porters.jp/magazine/special_detail/id=1320・3回目）
   - 「関西を中心としたメーカー特化型の転職エージェント」（https://hrbc.porters.jp/magazine/special_detail/id=1320・3回目）
-  - 「創業者メッセージ｜メーカー専門の転職エージェント「タイズ」-製造業の求人・中途採用・転職情報が満載」（https://www.ee-ties.com/about/ceo/・3回目）
+  - 「メーカー転職成功事例・体験談｜メーカー転職エージェント「タイズ」」（https://www.ee-ties.com/interview/?consultant_id=nakata・3回目）
 - 売り方：
   - 「タイズでは「アナログマッチング®」を掲げ、希望条件だけではなく、社風や働きごこちまで含めて、ひとりひとりの価値観にあった求人を厳選してご紹介しています」（https://www.ee-ties.com/ties-service/・3回目）
   - 「採用企業のニーズをヒアリングしたうえで求人情報をいただき、それを転職希望者へ紹介します」（https://www.ee-ties.com/ties-service/・3回目）
@@ -1431,12 +1433,12 @@
   - 「「適した求人を紹介してほしい」「市場価値や転職可能性を相談したい」など転職にお悩みの場合は転職支援サービス（無料）をお申し込みください」（https://www.ee-ties.com/ties-service/・3回目）
   - 「サービスにご登録いただければ、非公開求人含めて求人をご紹介させていただきます」（https://www.ee-ties.com/ties-service/・3回目）
   - 「1. 第三者へ提供する目的：職業紹介や就職・転職に関するサービス提供のため」（https://www.ee-ties.com/ties-service/・3回目）
+  - 「1. 第三者へ提供する目的：職業紹介や就職・転職に関するサービス提供のため」（https://www.ee-ties.com/interview/?consultant_id=nakata・3回目）
   - 「株式会社タイズは、「HR事業を通じて、企業の発展、個人の幸せを実現し、ひいては日本社会の繁栄に貢献する」という想いのもと、2005年にメーカー業界に特化した人材紹介会社として創業いたしました」（https://www.ee-ties.com/about/ceo/・3回目）
   - 「人材紹介会社向け業務管理システムならCAREER」（https://www.ee-ties.com/about/ceo/・3回目）
   - 「人材派遣・紹介会社向けクラウド業務管理システムならMatchinGood」（https://www.ee-ties.com/about/ceo/・3回目）
   - 「1. 第三者へ提供する目的：職業紹介や就職・転職に関するサービス提供のため」（https://www.ee-ties.com/about/ceo/・3回目）
   - 「リンクタイズホールディングス株式会社との資本業務提携契約の締結及び同社株式取得（持分法適用関連会社化）のお知らせ(SBIホールディングス)｜ニュースリリース｜SBIホールディングス」（https://www.sbigroup.co.jp/news/2025/1229_16004.html・3回目）
-  - 「リンクタイズホールディングス株式会社との資本業務提携契約の」（https://www.sbigroup.co.jp/news/2025/1229_16004.html・3回目）
 - 採用・人数：
   - 「転職エージェントとは、転職希望者と採用企業の間に立って、双方の支援を行うサービスです」（https://www.ee-ties.com/ties-service/・3回目）
   - 「採用企業のニーズをヒアリングしたうえで求人情報をいただき、それを転職希望者へ紹介します」（https://www.ee-ties.com/ties-service/・3回目）
@@ -1465,6 +1467,9 @@
   - 「今井 良祐インタビュー【PORTERS MAGAZINE】人材紹介・人材派遣管理システム」（https://hrbc.porters.jp/magazine/special_detail/id=1320・3回目）
 - 検索結果の抜粋：
   - 「株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース」（https://zigexn.co.jp/11938/?srsltid=AYCX9vLymd98PKJ3QdkWWUG9drajn-n3ntXkxoV5lFsb-SEk7kAYQHRp・3回目）
+  - 「株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース」（https://zigexn.co.jp/11938/?srsltid=AYCX9vKCOzf0kgiVFw1LmvPkyFdsM_tCH7AwtGcjyI5SEPKKibZNKf9L・3回目）
+  - 「メーカー転職成功 事例 ・体験談 - タイズ — メーカー転職成功 事例 ・体験談 - タイズ ee-ties.com https://www.ee-ties.com > interview」（https://www.ee-ties.com/interview/?consultant_id=nakata・3回目）
+  - 「タイズ - 人材コンサルティング会社＆サービスガイド100選 — タイズ - 人材コンサルティング会社＆サービスガイド100選 日本人材ニュースONLINE https://jinzainews.net > jinzaiguide > ee-ties」（https://jinzainews.net/jinzaiguide/ee-ties/・3回目）
   - 「Group Company リンク タイズ グループ — Group Company リンク タイズ グループ リンクタイズホールディングス株式会社 https://linkties-holdings.com > group」（https://linkties-holdings.com/group/・3回目）
   - 「リンク タイズ ホールディングス株式会社 — リンク タイズ ホールディングス株式会社 スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-IFRFX」（https://initial.inc/companies/A-IFRFX・3回目）
   - 「株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース」（https://zigexn.co.jp/11938/?srsltid=AYCX9vIMIYg-FTSTV8FhIcWMj-z8mdP__K2n6UVSrsbAFVU38C0pxWBY・3回目）
@@ -1473,9 +1478,6 @@
   - 「メーカー専門の転職エージェント「 タイズ 」- 製造業 の求人 ... — メーカー専門の転職エージェント「 タイズ 」- 製造業 の求人 ... ee-ties.com https://www.ee-ties.com」（https://www.ee-ties.com/・3回目）
   - 「【 タイズ ってどんな会社？】メーカー転職を成功に ... - YouTube — 【 タイズ ってどんな会社？】メーカー転職を成功に ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=PJxDIqQkIqQ・3回目）
   - 「【体験談】 タイズ の評判と口コミは？メーカー転職に特化して ... — 【体験談】 タイズ の評判と口コミは？メーカー転職に特化して ... IT業界ノート https://it-sales-note.com > reputation-of-ties」（https://it-sales-note.com/reputation-of-ties/・3回目）
-  - 「【社員 インタビュー 】神戸大学卒の彼が大手ではなく タイズ を ... — 【社員 インタビュー 】神戸大学卒の彼が大手ではなく タイズ を ... チアキャリア（CheerCareer） https://cheercareer.jp > 株式会社タイズ > タイムライン一覧」（https://cheercareer.jp/companies/3603/messages/117643・3回目）
-  - 「株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース」（https://zigexn.co.jp/11938/?srsltid=AYCX9vJG3h8QThxRceaeqetJQ0utlKKtkvFdOglj9ZNaAT5e-rrUQN6W・3回目）
-  - 「株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... — 株式会社イーエイチアイ及び株式会社 タイズ の株式取得（完全 ... 株式会社じげん || ZIGExN Co., Ltd. https://zigexn.co.jp > プレスリリース」（https://zigexn.co.jp/11938/?srsltid=AYCX9vJYheo3327Yd_NnsKPGRrvvZ-Q4tSNHBHm2OmHvwQPhHSR9NvsH・3回目）
 - 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）
 - 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）
 - 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）
@@ -1521,6 +1523,7 @@
   - 「子会社 株式会社アクサスコンサルティングジャパンと株式会社コスモ・サイエンティフィック・システムが事業統合をし、アクサス株式会社に社名変更」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
   - 「子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
 - 創業年度：
+  - 「SBCメディカルグループホールディングス CEO／湘南美容クリニック創業者 相川佳之さん」（https://careerpark-agent.jp/interview/206-2・3回目）
   - 「【1日密着】野村證券→アサイン創業5人目の採用責任者！新卒採用責任者のしごと／アサイン」（https://www.youtube.com/watch?v=A7H-IIGtreA・3回目）
   - 「株式会社ネオキャリアは、2000年設立の総合人材サービス会社です」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
   - 「当社は、2000年に創業以来、採用支援・人材育成・風土変革等、組織人事に関するワンストップコンサルティングをクライアントに提供することで成長してまいりました」（https://www.lmi.ne.jp/news/release/detail.php?id=722・3回目）
@@ -1532,7 +1535,6 @@
   - 「現地法人 現・Agensi Pekerjaan Reeracoen Malaysia Sdn. Bhd.）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
   - 「海外法人「ABROADERS Co., Ltd.（タイ現地法人）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
   - 「海外法人「REERACOEN (SHANGHAI) HUMAN RESOURCE SERVICE CO.,LTD.(中国現地法人）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
-  - 「子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立」（https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2・3回目）
 - 売上・規模：
   - 「本資料は、2026年に3月に10名以上の施工管理職の採用をした採用担当者102名への調査結果をまとめ...」（https://www.neo-career.co.jp/humanresource/middlecareer/other/・1回目）
   - 「本資料は、2025年に10名以上の未経験エンジニアを採用した企業111社への調査結果をまとめています...」（https://www.neo-career.co.jp/humanresource/middlecareer/other/・1回目）
@@ -1603,14 +1605,14 @@
   - 「採用課題の解決、新しい採用の取り組みなどを取材したインタビュー記事が読める」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/・1回目）
   - 「【社長インタビュー】売却の葛藤を知るからこそ」（https://www.youtube.com/watch?v=A7H-IIGtreA・3回目）
   - 「経営者JP 代表取締役社長・CEO 井上 和幸さん」（https://careerpark-agent.jp/interview/206-2・3回目）
+  - 「【1日密着】エス・エム・エスの事業責任者の1日の働き方に迫る！転職の背景・業務のやりがいを徹底インタビュー【BizDev／介護／福祉／キャリア入社／20代転職／SaaS／大企業転職】」（https://www.youtube.com/watch?v=A7H-IIGtreA・3回目）
+  - 「メディカル・ケア・サービス 執行役員 社長室長 森田 智行さん」（https://careerpark-agent.jp/interview/206-2・3回目）
+  - 「ジオコード 代表取締役社長 原口 大輔さん」（https://careerpark-agent.jp/interview/206-2・3回目）
   - 「【転職2.0時代の新常識】20代で一度は転職すべき理由／30歳からリスキリングすべき理由／LinkedIn社長として学んだこと／キャリアオーナーシップを取り戻す／ジョブ型雇用の本質／タグ付けを意識せよ」（https://www.youtube.com/watch?v=A7H-IIGtreA・3回目）
   - 「【ネオキャリア社長の学べるチャンネル】りょういっちゃんねる」（https://www.youtube.com/watch?v=A7H-IIGtreA・3回目）
   - 「【社長面接】いい人だけど圧倒的◯◯不足 ｜ネオキャリア」（https://www.youtube.com/watch?v=A7H-IIGtreA・3回目）
   - 「中途入社2年目 ネオキャリアの新卒採用担当者 渡邉さんにインタビューしました」（https://www.youtube.com/watch?v=A7H-IIGtreA・3回目）
   - 「【就活生向け】ネオキャリア採用責任者が語る、面接でこれをやったら絶対NG」（https://www.youtube.com/watch?v=A7H-IIGtreA・3回目）
-  - 「ネオキャリア西澤社長｜「選ばれる人材」になって初めて「選ぶ」ことができる｜理想は高く、現実は泥臭く」（https://careerpark-agent.jp/interview/206-2・3回目）
-  - 「ネオキャリア 代表取締役社長 西澤 亮一さん」（https://careerpark-agent.jp/interview/206-2・3回目）
-  - 「2002年には代表取締役に就任後、現職」（https://careerpark-agent.jp/interview/206-2・3回目）
 - 検索結果の抜粋：
   - 「株式会社 ネオキャリア - en-courage — 株式会社 ネオキャリア - en-courage en-courage https://app.en-courage.com > companies」（https://app.en-courage.com/companies/01GHZ0YSW7DFT62HAWYJA3VTMQ?locale=ja・3回目）
   - 「株式会社 ネオキャリア の評判・ 料金 ・特徴 — 株式会社 ネオキャリア の評判・ 料金 ・特徴 eigyoudaikou-insidesales.com https://www.eigyoudaikou-insidesales.com > neo-career」（https://www.eigyoudaikou-insidesales.com/neo-career・3回目）
@@ -1624,7 +1626,7 @@
   - 「事例 検索結果 - ネオキャリア — 事例 検索結果 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > case_search_result」（https://www.neo-career.co.jp/humanresource/case_search_result?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8&tag=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88RPO%EF%BC%89・3回目）
   - 「急成長企業 ネオキャリア社長 に聞く 「会社の業績を伸ばす ... — 急成長企業 ネオキャリア社長 に聞く 「会社の業績を伸ばす ... 企業理念ラボ https://rinen-lab.encourage-inc.jp > times > interview」（https://rinen-lab.encourage-inc.jp/times/interview/664/・3回目）
   - 「ネオキャリア 西澤 亮一｜4000万円の赤字 - 創業手帳 — ネオキャリア 西澤 亮一｜4000万円の赤字 - 創業手帳 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー」（https://sogyotecho.jp/neo-career-1/・3回目）
-- 株主：記載なし（3回確認済み：公式30頁／PDF・画像6件／外部23頁・検索12回）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部24頁・検索12回）
 
 ## 株式会社ペイジェント広島
 - 公式URL：https://www.kk-synergy.co.jp/（search:yahoo_jp:株式会社広島 採用支援）
@@ -1868,6 +1870,7 @@
   - 「採用AIエージェント「採用一括かんりくん」を展開する、HRクラウド株式会社 代表取締役社長の中島悠揮さんは、自らの歩みを「圧倒的な量の積み上げ」だったと語ります...」（https://service.jinjibu.jp/article/detl/innovator/1539/3/・3回目）
   - 「三坂健さん（株式会社HRインスティテュート 代表取締役社長）：」（https://service.jinjibu.jp/article/detl/innovator/1539/3/・3回目）
 - 検索結果の抜粋：
+  - 「メイテック グループ - X — メイテック グループ - X X https://x.com > @meitec_group」（https://x.com/meitec_group/status/2018202725977391376・3回目）
   - 「メイテック グループの本質 「Engineering Firm at The Core」 — メイテック グループの本質 「Engineering Firm at The Core」 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > group > essence」（https://www.meitecgroup-holdings.com/ja/group/essence.html・3回目）
   - 「【11月トップメッセージを公開】# メイテック 社長 の関口より ... — 【11月トップメッセージを公開】# メイテック 社長 の関口より ... Facebook https://www.facebook.com > meitec.group > posts > 11月...」（https://www.facebook.com/meitec.group/posts/11%E6%9C%88%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%83%A1%E3%82%A4%E3%83%86%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%81%AE%E9%96%A2%E5%8F%A3%E3%82%88%E3%82%8A%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8-%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E3%81%94%E5%AD%98%E3%81%98%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8Aai%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%81%8C%E6%80%A5%E9%80%9F%E3%81%AB%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%AF%E7%94%9F%E7%94%A3%E6%80%A7%E5%90%91%E4%B8%8A%E3%81%A0/1583046210515451/・3回目）
   - 「株式の状況 | 株式情報 | 投資家情報 — 株式の状況 | 株式情報 | 投資家情報 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > stock > basic」（https://www.meitecgroup-holdings.com/ja/ir/stock/basic.html・3回目）
@@ -1879,9 +1882,8 @@
   - 「沿革 | 会社情報 - 株式会社メイテックグループホールディングス — 沿革 | 会社情報 - 株式会社メイテックグループホールディングス 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > history」（https://www.meitecgroup-holdings.com/ja/company/history.html・3回目）
   - 「沿革 - メイテック — 沿革 - メイテック meitec.co.jp https://www.meitec.co.jp > company > overview > history」（https://www.meitec.co.jp/company/overview/history.html・3回目）
   - 「(株) メイテック 【技術職コース】の会社概要 | マイナビ2027 — (株) メイテック 【技術職コース】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp72008 > outline」（https://job.mynavi.jp/27/pc/search/corp72008/outline.html・3回目）
-  - 「業績ハイライト | 業績・財務 | 投資家情報 — 業績ハイライト | 業績・財務 | 投資家情報 株式会社メイテックグループホールディングス https://www.meitecgroup-holdings.com > highlight」（https://www.meitecgroup-holdings.com/ja/ir/finance/highlight.html・3回目）
-- 株主：記載なし（3回確認済み：公式24頁／PDF・画像3件／外部29頁・検索12回）
-- 許認可：記載なし（3回確認済み：公式24頁／PDF・画像3件／外部29頁・検索12回）
+- 株主：記載なし（3回確認済み：公式24頁／PDF・画像3件／外部28頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式24頁／PDF・画像3件／外部28頁・検索12回）
 
 ## 株式会社リクルート（ジョブズリサーチセンター）
 - 公式URL：https://jbrc.recruit.co.jp/（given）
@@ -1942,6 +1944,7 @@
   - 「料金設定の概要」（https://www.databricks.com/jp/customers/recruit・3回目）
   - 「料金計算ツール」（https://www.databricks.com/jp/customers/recruit・3回目）
 - 製造業の顧客：
+  - 「【即興ロープレ】ラスベガス営業研修を売れ──今井晶也の顧客の体験を呼び起こす“キラークエスチョン”が炸裂！」（https://www.youtube.com/watch?v=DeAR_eGpXsM・3回目）
   - 「4月 - 企業向けITの導入検討をする方とIT製品メーカーとのマッチングを行なう会員サイト「」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「SUUMO注文住宅 - 地元のハウスメーカー・工務店情報を地元の人に届ける住宅情報誌」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「【リクルートグループ/新卒採用】顧客接点（じゃらん）社員インタビュー|Long ver.」（https://www.youtube.com/watch?v=DeAR_eGpXsM・3回目）
@@ -1953,8 +1956,10 @@
   - 「導入事例 | 人材育成・研修のリクルートマネジメントソリューションズ」（https://www.recruit-ms.co.jp/casestudy/・3回目）
   - 「ピックアップ導入事例」（https://www.recruit-ms.co.jp/casestudy/・3回目）
   - 「製造・メーカー」（https://www.recruit-ms.co.jp/casestudy/・3回目）
-  - 「SPI３の導入事例｜SPI３リクルートMSの適性検査」（https://www.spi.recruit.co.jp/spi3/case/・3回目）
 - 売り方：
+  - 「【Udemy】10万人が学んだ最強の営業術／もっとも重要なのはヒアリング／ヒアリングの4ステップ／説得ではなく納得」（https://www.youtube.com/watch?v=DeAR_eGpXsM・3回目）
+  - 「【即興ロープレ】ラスベガス営業研修を売れ──今井晶也の顧客の体験を呼び起こす“キラークエスチョン”が炸裂！」（https://www.youtube.com/watch?v=DeAR_eGpXsM・3回目）
+  - 「NEW SALES チャンネル ~みんなが売れる営業になる~」（https://www.youtube.com/watch?v=DeAR_eGpXsM・3回目）
   - 「10月 - 資本提携により、プロメトリック株式会社をアール・プロメトリック株式会社（現・」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「- 経営者・経営幹部・エグゼクティブ人材に特化した人材紹介」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「- リフォーム会社紹介サイト「ホームプロ」の運営」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
@@ -1964,12 +1969,11 @@
   - 「“リクルートが「サクラ」行為を認めて謝罪 オンラインセミナーで学生装い、質問投稿”」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「求人広告に留まらず、企業クライアントが従来人材紹介企業に支払っていた費用、並びに人材採用に関わる社内費用も取り込み、マネタイゼーションの進化と売上収益の増大を実現しています」（https://note.com/humble_fowl4938/n/nf9377bfd2838・3回目）
   - 「セミナー「あなたにとって、AIの進化は望ましいものですか？」／インディードリクルートパートナーズ特任研究員 高田悠矢講演」（https://www.youtube.com/watch?v=DeAR_eGpXsM・3回目）
-  - 「企業情報 / 事業紹介」（https://recruit-holdings.com/ja/about/history/・3回目）
-  - 「1960年に大学新聞専門の広告代理店として創業」（https://recruit-holdings.com/ja/about/history/・3回目）
-  - 「中途採用、人材紹介、人材派遣等人材関連事業を拡げるほか、進学、住宅、中古車、結婚等のライフイベント領域へ、そして旅行、飲食、美容等の日常消費領域へと事業を拡大し、近年では、SaaS（Software」（https://recruit-holdings.com/ja/about/history/・3回目）
 - 採用・人数：
   - 「【ReHacQvs仕事術】Googleが採用！最強マネジメント手法徹底解説！管理職として知っておくべきことは？【雫石将克&中谷公三&諸橋峰雄&水野ジュンイチロ】」（https://www.youtube.com/watch?v=DeAR_eGpXsM・3回目）
   - 「8,486回視聴 • 2026/04/24 • #就活 #28卒 #新卒採用」（https://www.youtube.com/watch?v=DeAR_eGpXsM・3回目）
+  - 「8,491回視聴 • 2026/04/24 • #就活 #28卒 #新卒採用」（https://www.youtube.com/watch?v=DeAR_eGpXsM・3回目）
+  - 「リクルートHDは、企業が採用に使う金の総額を」（https://note.com/humble_fowl4938/n/nf9377bfd2838・3回目）
   - 「4月 - 中途採用専門誌「就職情報」創刊」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「11月 - 中途採用事業部が独立し、株式会社就職情報センターを設立」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「8月 - 株式会社採用企画センターを設立」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
@@ -1978,8 +1982,6 @@
   - 「3月 - Indeed上で採用プロセスを完結できるソリューション「Indeed Hiring Platform」をリリース」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「全機能無料、採用HPの無料作成、Indeedへの転載、応募者管理ができる採用管理システム「Airワーク 採用管理(ATS)」をリリース」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「- アセスメント・トレーニング・コンサルティング・HRアナリティクスを活用した、人材採用・人材開発・組織開発・制度構築における課題解決の支援」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
-  - 「リクナビHRTech 採用管理 - テクノロジーを活用した採用管理支援サービス」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
-  - 「採用に基準ができ、面接の第一印象に左右されずに、応募者と向き合えています」（https://www.spi.recruit.co.jp/spi3/case/・3回目）
 - 発言：
   - 「が代表取締役会長、」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「が代表取締役会長に、高木邦夫氏が常務取締役に就任」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
@@ -1997,6 +1999,7 @@
   - 「リクルートジョブズ と 創業 手帳の比較 「社員クチコミ ... — リクルートジョブズ と 創業 手帳の比較 「社員クチコミ ... OpenWork https://www.openwork.jp > ... > リクルートジョブズ」（https://www.openwork.jp/a0910000002ZSOo/compa/a0C1000001ClPDh/・3回目）
   - 「数字で見る リクルート — 数字で見る リクルート 株式会社リクルート https://www.recruit.co.jp > 人的資本経営」（https://www.recruit.co.jp/people/data/・3回目）
   - 「リクルートジョブズ とRJC リサーチ の比較 「社員クチコミ ... — リクルートジョブズ とRJC リサーチ の比較 「社員クチコミ ... OpenWork https://www.openwork.jp > ... > リクルートジョブズ」（https://www.openwork.jp/a0910000002ZSOo/compa/a0C1000000PTSVd/・3回目）
+  - 「国内・海外事業、サービス｜新卒採用 - 株式会社リクルート — 国内・海外事業、サービス｜新卒採用 - 株式会社リクルート 株式会社リクルート https://www.recruit.co.jp > employment > students > service」（https://www.recruit.co.jp/employment/students/service/・3回目）
   - 「会社概要｜企業情報 | 人材育成・研修の リクルート ... — 会社概要｜企業情報 | 人材育成・研修の リクルート ... リクルートマネジメントソリューションズ https://www.recruit-ms.co.jp > 企業情報」（https://www.recruit-ms.co.jp/company/outline/・3回目）
   - 「株式会社 リクルート — 株式会社 リクルート 株式会社リクルート https://www.recruit.co.jp」（https://www.recruit.co.jp/・3回目）
   - 「(株) リクルートジョブズ より有期労働市場の今と未来を考える ... — (株) リクルートジョブズ より有期労働市場の今と未来を考える ... 株式会社リクルート https://www.recruit.co.jp > newsroom > recruitjobs > press」（https://www.recruit.co.jp/newsroom/recruitjobs/press/pr20131001_528/・3回目）
@@ -2005,14 +2008,13 @@
   - 「リクルート ホールディングス - Wikipedia — リクルート ホールディングス - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > リクルートホールディングス」（https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
   - 「株式会社 リクルート の組織再編に関するお知らせ — 株式会社 リクルート の組織再編に関するお知らせ 株式会社リクルート https://www.recruit.co.jp > newsroom > news > information」（https://www.recruit.co.jp/newsroom/recruitcareer/news/information/2021y/210105-01/・3回目）
   - 「ジョブズリサーチセンター - 株式会社 リクルート — ジョブズリサーチセンター - 株式会社 リクルート 就職みらい研究所 https://jbrc.recruit.co.jp」（https://jbrc.recruit.co.jp/・3回目）
-  - 「リクルートジョブズ 、有期労働市場の今と未来を考える ... — リクルートジョブズ 、有期労働市場の今と未来を考える ... 日本の人事部『プロネット』 https://service.jinjibu.jp > ... > 雇用・採用（人事サービス）」（https://service.jinjibu.jp/news/detl/7591/・3回目）
-- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
-- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
-- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
-- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
-- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
-- 許認可：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
-- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
 
 ## 株式会社中国新聞社（採用支援）
 - 公式URL：https://www.chugoku-np.co.jp/（given）
@@ -2047,6 +2049,7 @@
   - 「中四国最大の発行部数の中国新聞社と中国新聞販売所の出資により、1962年(昭和37年)に創業いたしました」（https://job.mynavi.jp/27/pc/search/corp229982/outline.html・3回目）
   - 「東亜道路工業(株)【東証プライム市場上場】」（https://job.mynavi.jp/27/pc/search/corp229982/outline.html・3回目）
 - 創業年度：
+  - 「Mebiusが作詞作曲 東広島の志和中学校創立80周年記念テーマソング「志和（しあ）わせ」披露」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
   - 「1930年創業」（https://www.naito.jp/adsaku/flyer/chugoku-guide/・3回目）
   - 「創業者遺族、２８億円の申告漏れ」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
   - 「設立2年目を迎えた一般社団法人が10月から、市内3地区で新路線や既存路線の増便を3カ月間試行」（https://www.chugoku-np.co.jp/articles/-/909307・1回目）
@@ -2061,14 +2064,14 @@
   - 「政府、サイバー対策に１００億円」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
   - 「浜田の美容師、2年連続で着付け日本一 振り袖に続き花嫁部門も制覇 目標は「名人」」（https://www.chugoku-np.co.jp/articles/-/917469・1回目）
   - 「｢バッテリー｣だけじゃない 作家あさのあつこさんのある名作が再び話題に 20年来のファン 人生観を変えられた記者があさのさんの思いに迫る」（https://www.chugoku-np.co.jp/articles/-/917469・1回目）
-  - 「広島市に文化ホール、新設なら150億～780億円必要 市が事業費試算 エンタメや演劇、クラシック音楽の施設を複数想定」（https://www.chugoku-np.co.jp/・1回目）
-  - 「広島市に文化ホール、新設なら150億～780億円必要 市が事業費試算 エンタメや演劇、クラシック音楽の施設を複数想定」（https://www.chugoku-np.co.jp/list/audionews・1回目）
-  - 「広島市に文化ホール、新設なら150億～780億円必要 市が事業費試算 エンタメや演劇、クラシック音楽の施設を複数想定」（https://www.chugoku-np.co.jp/feature/special/%E9%89%84%E9%81%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9・1回目）
-  - 「広島市に文化ホール、新設なら150億～780億円必要 市が事業費試算 エンタメや演劇、クラシック音楽の施設を複数想定」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
-  - 「広島市に文化ホール、新設なら150億～780億円必要 市が事業費試算 エンタメや演劇、クラシック音楽の施設を複数想定」（https://www.chugoku-np.co.jp/feature/visualnews・1回目）
-  - 「広島市に文化ホール、新設なら150億～780億円必要 市が事業費試算 エンタメや演劇、クラシック音楽の施設を複数想定」（https://www.chugoku-np.co.jp/list/mynews・1回目）
-  - 「広島市に文化ホール、新設なら150億～780億円必要 市が事業費試算 エンタメや演劇、クラシック音楽の施設を複数想定」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
-  - 「広島市に文化ホール、新設なら150億～780億円必要 市が事業費試算 エンタメや演劇、クラシック音楽の施設を複数想定」（https://www.chugoku-np.co.jp/feature/special/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%B7%B1%E6%8E%98%E3%82%8A・1回目）
+  - 「広島市に博物館、新設したら最大100億円 市が試算」（https://www.chugoku-np.co.jp/・1回目）
+  - 「呉のディスコ桑畑工場、従業員2000人の4割が女性 サポートや研修で働きやすい職場づくり」（https://www.chugoku-np.co.jp/・1回目）
+  - 「広島から「現代の名工」に3人選出」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「広島市に博物館、新設したら最大100億円 市が試算」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「広島市に博物館、新設したら最大100億円 市が試算」（https://www.chugoku-np.co.jp/list/audionews・1回目）
+  - 「広島市に博物館、新設したら最大100億円 市が試算」（https://www.chugoku-np.co.jp/feature/special/%E9%89%84%E9%81%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9・1回目）
+  - 「広島市に博物館、新設したら最大100億円 市が試算」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
+  - 「広島市に博物館、新設したら最大100億円 市が試算」（https://www.chugoku-np.co.jp/feature/visualnews・1回目）
 - 料金：
   - 「赤木晴哉、300万円増「こんなに1軍に長く滞在できると思ってなかった」【一問一答】」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
   - 「杉田健、100万円増「直球の質と強さ追い求める」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
@@ -2083,18 +2086,18 @@
   - 「「異常な上がり方」広島高速の新料金案、地元住民に反対の声 公社が年内に出す結論は【ニュース深掘り】」（https://www.chugoku-np.co.jp/articles/-/880757・1回目）
   - 「横田知事、広島知事公舎に入居へ 修繕費3400万円、中国地方3県は廃止」（https://www.chugoku-np.co.jp/articles/-/880757・1回目）
 - 製造業の顧客：
-  - 「④マツダとトヨタが折半出資のアラバマ工場、深まる協業」（https://www.chugoku-np.co.jp/・1回目）
-  - 「台湾パナ工場で２人死亡」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
-  - 「④マツダとトヨタが折半出資のアラバマ工場、深まる協業」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
-  - 「Gグレードではメーカーオプションとして選択が可能だ」（https://www.chugoku-np.co.jp/stp/Ad/t-corolla_alphard_vellfire_202606/?utm_source=CND&utm_medium=display&utm_campaign=TPR・1回目）
-  - 「DX専門のコンサルタントが個々の取引先の課題を整理した上で、生産性向上に向けた計画の策定や必要なツールの導入、運用までを支援しています」（https://www.chugoku-np.co.jp/stp/Ad/hirogin_layerx_202603/?utm_source=CND&utm_medium=display&utm_campaign=TPR・1回目）
-  - 「顧客のＤＸを支援する上で重視しているのが、」（https://www.chugoku-np.co.jp/stp/Ad/hirogin_layerx_202603/?utm_source=CND&utm_medium=display&utm_campaign=TPR・1回目）
-  - 「自社の取引先ごとの仕訳ルールを学習し、次回からは自動で推測・提案を行うようになります」（https://www.chugoku-np.co.jp/stp/Ad/hirogin_layerx_202603/?utm_source=CND&utm_medium=display&utm_campaign=TPR・1回目）
-  - 「ＡＩによる効率化で生まれる時間を、顧客との対話や経営判断など、人にしかできない付加価値の高い業務に生かしていただきたいと思います」（https://www.chugoku-np.co.jp/stp/Ad/hirogin_layerx_202603/?utm_source=CND&utm_medium=display&utm_campaign=TPR・1回目）
-  - 「会社見学・工場見学あり」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=83036&recruitingCourseId=27019828・3回目）
-  - 「広島市郊外の疎開工場から本社屋に復帰し、印刷開始」（https://job.mynavi.jp/27/pc/search/corp83036/outline.html・3回目）
-  - 「廿日市市に新印刷工場の広島制作センター（ちゅーピーパーク）がオープン」（https://job.mynavi.jp/27/pc/search/corp83036/outline.html・3回目）
-  - 「株式会社中国新聞社 様｜導入事例｜【公式】(株)サテライトオフィス:ChatGPT(チャットGPT)/Google Workspace/Chromebook/Microsoft 365/LINE WORKS/Google Workspace for Educationの導入支援はお任せください！」（https://www.sateraito.jp/case_gw/17.html・3回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/・1回目）
+  - 「呉のディスコ桑畑工場、従業員2000人の4割が女性 サポートや研修で働きやすい職場づくり」（https://www.chugoku-np.co.jp/・1回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/list/audionews・1回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/feature/special/%E9%89%84%E9%81%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9・1回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/feature/visualnews・1回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/list/mynews・1回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/feature/special/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%B7%B1%E6%8E%98%E3%82%8A・1回目）
+  - 「マツダKDセンター完成 地場メーカーの部品集約、海外の工場へ」（https://www.chugoku-np.co.jp/feature/special/%E3%81%A1%E3%82%85%E3%83%BC%E3%83%94%E3%83%BC%E3%81%8F%E3%82%89%E3%81%B6・1回目）
 - 売り方：
   - 「トヨタカローラ広島発！「ノア／ヴォクシー」改良モデルの魅力紹介」（https://www.chugoku-np.co.jp/articles/-/920584・1回目）
   - 「グループ各社が手掛ける企業、官公庁向けの広告商品、事業を網羅的に紹介」（https://www.chugoku-np.co.jp/articles/-/920584・1回目）
@@ -2112,15 +2115,15 @@
   - 「中国新聞販売所では、新聞配達スタッフを募集しています」（https://www.chugoku-np.co.jp/articles/-/920584・1回目）
   - 「中国新聞販売所では、新聞配達スタッフを募集しています」（https://www.chugoku-np.co.jp/articles/-/917469・1回目）
   - 「県内各エリアに均一にリーチできるため、広域採用から地域密着の募集まで、ターゲットに応じた最適な求人展開をサポートします」（https://www.naito.jp/adsaku/flyer/chugoku-guide/・3回目）
-  - 「中国新聞販売所では、新聞配達スタッフを募集しています」（https://www.chugoku-np.co.jp/articles/-/479971・1回目）
-  - 「新卒採用 | 中国新聞社コーポレートサイト」（https://chugoku-np.com/saiyou/newgraduate/・3回目）
-  - 「新卒採用とキャリア採用の社員募集、応募方法などをお知らせします」（https://chugoku-np.com/saiyou/newgraduate/・3回目）
-  - 「株式会社中国新聞社の企業情報 | インターンシップ・新卒採用情報からES・面接対策まで掲載！キャリタス就活」（https://job.career-tasu.jp/corp/00051970/・3回目）
-  - 「新卒学生のためのインターンシップ・採用情報サイト」（https://job.career-tasu.jp/corp/00051970/・3回目）
-  - 「新卒採用者数と離職者数（過去3年間）」（https://job.career-tasu.jp/corp/00051970/・3回目）
-  - 「2025年度：採用人数6名、うち離職者数0名」（https://job.career-tasu.jp/corp/00051970/・3回目）
-  - 「2024年度：採用人数7名、うち離職者数0名」（https://job.career-tasu.jp/corp/00051970/・3回目）
-  - 「2023年度：採用人数9名、うち離職者数0名」（https://job.career-tasu.jp/corp/00051970/・3回目）
+  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/・1回目）
+  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/articles/-/913482・1回目）
+  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/list/audionews・1回目）
+  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/feature/special/%E9%89%84%E9%81%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9・1回目）
+  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
+  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/feature/visualnews・1回目）
+  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/list/mynews・1回目）
+  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/articles/-/917705・1回目）
+  - 「広島トヨタ全店舗でサンクスフェア 思い出フォトも募集中」（https://www.chugoku-np.co.jp/subcategory/%E4%B8%BB%E8%A6%81・1回目）
 - 発言：
   - 「【新社長】カイハラ社長・貝原祥之氏（41）広島県福山市 海外販路拡大と生産体制の省力化が課題」（https://www.chugoku-np.co.jp/・1回目）
   - 「法人ダルク代表、１億円私的流用」（https://www.chugoku-np.co.jp/category/news-kyodo・1回目）
@@ -2147,13 +2150,13 @@
   - 「中国新聞社 の 評判・口コミ一覧（全51件） - 就活会議 — 中国新聞社 の 評判・口コミ一覧（全51件） - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 株式会社中国新聞社」（https://syukatsu-kaigi.jp/companies/18431/word_mouths・3回目）
   - 「採用 - 中国新聞アド — 採用 - 中国新聞アド 中国新聞アド https://chu-ad.com > recruit」（https://chu-ad.com/recruit/・3回目）
   - 「導入 企業：株式会社 中国新聞社 様 - サテライトオフィス — 導入 企業：株式会社 中国新聞社 様 - サテライトオフィス サテライトオフィス https://www.sateraito.jp > case_gw」（https://www.sateraito.jp/case_gw/17.html・3回目）
-- 株主：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 資本金：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
-- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部21頁・検索12回）
+- 株主：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部22頁・検索12回）
 
 ## 株式会社山陽新聞社
 - 公式URL：https://www.sanyonews.jp/（given）
@@ -2177,6 +2180,8 @@
 - 代表者：稲垣 宏（https://www.sanyonews.jp/article/2016002・1回目）
 - 代表者：宮田 裕也（https://www.sanyonews.jp/article/2016002・1回目）
 - 株主構成：
+  - 「南海放送、四国屈指の名門「愛媛ゴルフ倶楽部」の筆頭株主に」（https://www.sanyonews.jp/・1回目）
+  - 「プロ野球パ・リーグ６球団が出資する共同事業会社「パ・リーグマーケティング（ＰＬＭ）」は６日、同社が管理する球団公式サイトのうち、...」（https://www.sanyonews.jp/global/global_sports・1回目）
   - 「ＪＰＸ、新興企業に３億円出資 非上場株を売買しやすく」（https://www.sanyonews.jp/article/2016086?rct=・1回目）
   - 「配信委託アララが原因の流出続く 三井住友銀やＮＴＴ東子会社など」（https://www.sanyonews.jp/article/2016086?rct=・1回目）
   - 「ＪＰＸ、新興企業に３億円出資 非上場株を売買しやすく」（https://www.sanyonews.jp/article/2016086・1回目）
@@ -2187,9 +2192,10 @@
   - 「（約3万株）が大株主となっている」（https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E・3回目）
   - 「と共同出資）」（https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E・3回目）
   - 「（第2位の株主(7.45%)」（https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E・3回目）
-  - 「加盟局が運営・出資する」（https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E・3回目）
-  - 「2026年現在では、テレビ東京のみが運営・出資している」（https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E・3回目）
 - 創業年度：
+  - 「岡山の将来像、にぎわい創出巡り協議 ワンダーシップ創立２０周年記念シンポ」（https://www.sanyonews.jp/・1回目）
+  - 「フォーマルウエア文化の産業活性化を目的に設立された...」（https://www.sanyonews.jp/entertain/oricon/oricon_news・1回目）
+  - 「フォーマルウエア文化の産業活性化を目的に設立された...」（https://www.sanyonews.jp/entertain/oricon/oricon_news/・1回目）
   - 「（株）山陽新聞サービスセンターの母体となる山陽清掃（株）を設立」（https://sj-sanyo.jp/company/・3回目）
   - 「マーケツティングセンターの三社を合併して（株）山陽新聞事業社を設立」（https://sj-sanyo.jp/company/・3回目）
   - 「1879年の創業以来、地域とともに歩み続け、より深くわかりやすく新鮮な情報を提供し続けています」（https://www.daj.jp/bs/case/case22/・3回目）
@@ -2199,9 +2205,6 @@
   - 「東京都中央区日本橋一丁目に本拠を構える、野村ホールディングス傘下の野村證券株式会社（以下、野村證券）は、1925年の設立」（https://www.daj.jp/bs/case/case22/・3回目）
   - 「霧島酒造株式会社は、創業から100年以上、培ってきたレシピや研究データ、顧客情報、品質管理情報などの機密情報をいかに守るかは、非常に重要な課題であり、そのための対策として霧島酒造が選んだのは、「i-FILTER」と「FireEye」の連携を活用した標的型攻撃対策でした」（https://www.daj.jp/bs/case/case22/・3回目）
   - 「神戸・南京町の元祖豚饅頭店・老祥記は、創業111年を迎える11月11日「豚饅（ぶたまん）の日」に本店をリニューアルオープンする」（https://www.sanyonews.jp/entertain/oricon・1回目）
-  - 「神戸・南京町の元祖豚饅頭店・老祥記は、創業111年を迎える11月11日「豚饅（ぶたまん）の日」に本店をリニューアルオープンする」（https://www.sanyonews.jp/entertain/oricon/oricon_news・1回目）
-  - 「神戸・南京町の元祖豚饅頭店・老祥記は、創業111年を迎える11月11日「豚饅（ぶたまん）の日」に本店をリニューアルオープンする」（https://www.sanyonews.jp/entertain/oricon/oricon_news/・1回目）
-  - 「ＡＩ活用先進県へ推進機構設立 新産業創出へ岡山企業トップら」（https://www.sanyonews.jp/・1回目）
 - 売上・規模：
   - 「ロシアへの出稼ぎ頼りから中央アジア有数の物流、産業拠点へ―」（https://www.sanyonews.jp/prime/prime_special・1回目）
   - 「政府、サイバー対策に１００億円 機材整備、点検にＡＩ活用」（https://www.sanyonews.jp/global/global_syuyo・1回目）
@@ -2224,12 +2227,16 @@
   - 「【福袋2027】ファミリーマート、氣志團と初コラボ 販売価格と同額相当以上のクーポン券と実用的グッズがセットに」（https://www.sanyonews.jp/entertain/oricon/oricon_news・1回目）
   - 「価格は税込3900円」（https://www.sanyonews.jp/entertain/oricon/oricon_news/・1回目）
   - 「【福袋2027】ファミリーマート、氣志團と初コラボ 販売価格と同額相当以上のクーポン券と実用的グッズがセットに」（https://www.sanyonews.jp/entertain/oricon/oricon_news/・1回目）
-  - 「サービスの機能や費用だけでなく、情報を適切に管理・保護できる体制が整っているかどうかも、選定時に意識されていることがうかがえます」（https://www.sanyonews.jp/article/2016002・1回目）
-  - 「株式会社SAKIGAKEホールディングス11月5日（木）から12月27日（日）まで、対象の油そば2商品を並盛・大盛を同一料金で提...」（https://www.sanyonews.jp/pr_times/prtimes_hiro/・1回目）
-  - 「サービスの機能や費用だけでなく、情報を適切に管理・保護できる体制が整っているかどうかも、選定時に意識されていることがうかがえます」（https://www.sanyonews.jp/article/2016002?rct=prtimes_chushikoku・1回目）
-  - 「1億4850万円（2023年）」（https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E8%81%9E・3回目）
+  - 「クリスマスケーキ商戦熱く 小ぶりで価格抑制 値上げ分華やかに 岡山県内の百貨店や菓子店、ホテル」（https://www.sanyonews.jp/・1回目）
+  - 「認知症注射、年２８２万円 レカネマブ、自宅投与可に」（https://www.sanyonews.jp/global/global_environment・1回目）
+  - 「認知症注射、年２８２万円 レカネマブ、自宅投与可に」（https://www.sanyonews.jp/global/global_syuyo・1回目）
+  - 「ヤクルトの松下は１００万円増 「自信を信じて来年やりたい」」（https://www.sanyonews.jp/global/global_sports・1回目）
 - 製造業の顧客：
   - 「取引先装い電線詐取 容疑の男逮捕 岡山中央署」（https://www.sanyonews.jp/・1回目）
+  - 「ＭＬＣＣ工場新設へ１５５０億円投資 岡山村田、最大２０００人雇用も」（https://www.sanyonews.jp/・1回目）
+  - 「日本製紙は６日、７月の熊本地震で被災した八代工場（熊本県八代市）について、新聞用紙やコピー用紙、製紙用パルプの生産再開を断念する...」（https://www.sanyonews.jp/global/global_syuyo・1回目）
+  - 「顧客情報の保護を最優先に、セキュリティ強...」（https://www.sanyonews.jp/entertain/oricon/oricon_news・1回目）
+  - 「顧客情報の保護を最優先に、セキュリティ強...」（https://www.sanyonews.jp/entertain/oricon/oricon_news/・1回目）
   - 「【セキュリティ意識に関する調査】およそ5人に1人が、個人情報漏えいに関するニュースを見て「利用するサービスや取引先を変えたことがある」」（https://www.sanyonews.jp/・1回目）
   - 「【セキュリティ意識に関する調査】およそ5人に1人が、個人情報漏えいに関するニュースを見て「利用するサービスや取引先を変えたことがある」：山陽新聞デジタル｜さんデジ」（https://www.sanyonews.jp/article/2016002・1回目）
   - 「【セキュリティ意識に関する調査】およそ5人に1人が、個人情報漏えいに関するニュースを見て「利用するサービスや取引先を変えたことがある」」（https://www.sanyonews.jp/article/2016002・1回目）
@@ -2237,23 +2244,19 @@
   - 「質問8：取引先や発注先のシステム会社を選ぶとき、セキュリティ面をどのくらい重視しますか」（https://www.sanyonews.jp/article/2016002・1回目）
   - 「質問9：取引先や発注先のシステム会社のセキュリティ面を、どのように確認していますか」（https://www.sanyonews.jp/article/2016002・1回目）
   - 「質問10：取引先や発注先のシステム会社のセキュリティ面を、どのように確認しているか具体的に教えてください」（https://www.sanyonews.jp/article/2016002・1回目）
-  - 「■18.7％が、個人情報漏えいのニュースを見て、利用するサービスや取引先を「変えた」「変更を検討した」と回答」（https://www.sanyonews.jp/article/2016002・1回目）
-  - 「合わせて18.7％が、ニュースをきっかけにサービスや取引先の見直しを考えたことがわかりました」（https://www.sanyonews.jp/article/2016002・1回目）
-  - 「■53.7％が、取引先や発注先のシステム会社を選ぶときにセキュリティ面を「重視する」と回答」（https://www.sanyonews.jp/article/2016002・1回目）
-  - 「続いて、事前調査で「現在働いている」と回答した方に、取引先や発注先のシステム会社を選ぶとき、セキュリティ面をどのくらい重視するか聞いてみました」（https://www.sanyonews.jp/article/2016002・1回目）
 - 売り方：
   - 「トヨタ自動車が２０２７年３月期の営業利益予想を上方修正した」（https://www.sanyonews.jp/prime/prime_special・1回目）
   - 「名古屋名物「幻の手羽先」で知られる居酒屋チェーン「世界の山ちゃん」の栄店が、約28年にわたる営業に幕を下ろす」（https://www.sanyonews.jp/entertain/oricon/oricon_news・1回目）
   - 「名古屋名物「幻の手羽先」で知られる居酒屋チェーン「世界の山ちゃん」の栄店が、約28年にわたる営業に幕を下ろす」（https://www.sanyonews.jp/entertain/oricon/oricon_news/・1回目）
+  - 「24時間営業」（https://www.sanyonews.jp/town/event/tourism_detail/6127・1回目）
+  - 「スターバックスは、ホリデーシーズンに展開するティービバレッジ3種類のおすすめカスタマイズを紹介した」（https://www.sanyonews.jp/entertain/oricon/oricon_news・1回目）
+  - 「スターバックスは、ホリデーシーズンに展開するティービバレッジ3種類のおすすめカスタマイズを紹介した」（https://www.sanyonews.jp/entertain/oricon/oricon_news/・1回目）
   - 「深刻化する特殊詐欺被害を防ぐため、警察庁は５日、特殊詐欺に使われた不正な口座情報を全国にある８０７の金融機関と共有し、同じ口座へ...」（https://www.sanyonews.jp/global/global_syuyo・1回目）
   - 「「ある」「検討したが、変えなかった」と回答した方に聞いてみたので一部紹介します」（https://www.sanyonews.jp/article/2016002・1回目）
   - 「さらに、安心できる条件をより具体的に聞いてみたので、回答の一部を紹介します」（https://www.sanyonews.jp/article/2016002・1回目）
   - 「そう思う理由も聞いてみたので、それぞれ回答の一部を紹介します」（https://www.sanyonews.jp/article/2016002・1回目）
   - 「具体的な確認方法についても聞いてみたので、回答の一部を紹介します」（https://www.sanyonews.jp/article/2016002・1回目）
   - 「11/14・15 終活セミナー開催」（https://www.sanyonews.jp/article/2016002・1回目）
-  - 「「乳がんと医療費のリアル」テーマ 倉敷で１０日にセミナー」（https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/・1回目）
-  - 「「乳がんと医療費のリアル」をテーマとした市民啓発セミナー（日本乳癌（がん）学会教育・研修委員会市民啓発ワーキンググループ主催）が...」（https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/・1回目）
-  - 「本人の意欲や可能性大切に 福岡・大牟田市の猿渡さん講演 岡山市で認知症セミナー」（https://www.sanyonews.jp/okayama/m_syakai/iryo_fukushi/2/・1回目）
 - 採用・人数：
   - 「第77回県展 作品募集」（https://www.sanyonews.jp/article/2016002・1回目）
   - 「第77回県展 作品募集」（https://www.sanyonews.jp/area/area_bingo/hiroshimaken/2/・1回目）
@@ -2269,17 +2272,17 @@
   - 「第77回県展 作品募集」（https://www.sanyonews.jp/article/2016002?rct=prtimes_chushikoku・1回目）
 - 発言：
   - 「直近の不正アクセスなどに代表されるサイバー攻撃の大きな要因のひとつは、生成人工知能（ＡＩ）の普及にある」（https://www.sanyonews.jp/prime/prime_special・1回目）
+  - 「西川、山口が力強い打球 野球日本代表の宮崎合宿」（https://www.sanyonews.jp/global/global_sports・1回目）
+  - 「１２日開幕のアジアプロ野球チャンピオンシップ（東京ドーム）に出場する野球日本代表の合宿が６日、宮崎市のひなたサンマリンスタジアム...」（https://www.sanyonews.jp/global/global_sports・1回目）
+  - 「ラグビーＷ杯へ現在地知る４試合 英国遠征の日本代表」（https://www.sanyonews.jp/global/global_sports・1回目）
+  - 「【カーディフ（英国）共同】ラグビーの国際大会、ネーションズ選手権の後半戦で日本代表は７日（日本時間８日）のウェールズ戦を皮切りに...」（https://www.sanyonews.jp/global/global_sports・1回目）
+  - 「塩貝、三井寺らを選出 サッカーＵ―２１日本代表」（https://www.sanyonews.jp/global/global_sports・1回目）
+  - 「日本サッカー協会は６日、スペイン・エジプト遠征に臨むＵ―２１（２１歳以下）日本代表に、今夏のワールドカップ北中米３カ国大会に出場...」（https://www.sanyonews.jp/global/global_sports・1回目）
+  - 「松岡茉優、ヒーローファッションで『NYLON guys』表紙初登場 髙松アロハのハワイ写真＆約1万字インタビューも」（https://www.sanyonews.jp/entertain/oricon・1回目）
+  - 「負ける要因が見当たらない」【試合前インタビュー】」（https://www.sanyonews.jp/entertain/oricon/oricon_news・1回目）
+  - 「負ける要因が見当たらない」【試合前インタビュー】」（https://www.sanyonews.jp/entertain/oricon/oricon_news/・1回目）
   - 「国民民主は比例代表定数の３１削減を含め時限的...」（https://www.sanyonews.jp/prime/prime_special・1回目）
   - 「代表番号 : 086-803-8260」（https://sj-sanyo.jp/company/・3回目）
-  - 「日本を代表する大手独立系SIerのTIS株式会社」（https://www.daj.jp/bs/case/case22/・3回目）
-  - 「日本代表合宿は休養日 ７、８日に練習試合」（https://www.sanyonews.jp/global/global_sports・1回目）
-  - 「宮崎市のひなたサンマリンスタジアム宮崎で行われているアジアプロ野球チャンピオンシップ（１２日開幕・東京ドーム）に向けた日本代表の...」（https://www.sanyonews.jp/global/global_sports・1回目）
-  - 「【RIZIN】太田忍、五輪代表争いの“地獄”を告白 文田健一郎との知られざる絆も明かす」（https://www.sanyonews.jp/entertain/oricon/oricon_news・1回目）
-  - 「【RIZIN】太田忍、五輪代表争いの“地獄”を告白 文田健一郎との知られざる絆も明かす」（https://www.sanyonews.jp/entertain/oricon/oricon_news/・1回目）
-  - 「Hi-STANDARD独占ロングインタビュー【前編】バンドは“人生のシェア”――新ドラマー・ZAX加入と再始動の舞台裏」（https://www.sanyonews.jp/article/2016310・1回目）
-  - 「Hi-STANDARD独占ロングインタビュー【中編】“最高のお爺ちゃんバンド”になりたい――再出発＆ニューアルバムに込めたメッセージ」（https://www.sanyonews.jp/article/2016310・1回目）
-  - 「Hi-STANDARD独占ロングインタビュー【後編】俺たちはまだ行くんだ――新たなバランスで3人が描く未来」（https://www.sanyonews.jp/article/2016310・1回目）
-  - 「ロナルドがポルトガル代表引退 ４１歳「背番号７を返上する」」（https://www.sanyonews.jp/global/global_syuyo・1回目）
 - 検索結果の抜粋：
   - 「山陽新聞社 新社長に桑原氏 松田氏は会長に — 山陽新聞社 新社長に桑原氏 松田氏は会長に 山陽新聞 https://www.sanyonews.jp > article」（https://www.sanyonews.jp/article/1685693・3回目）
   - 「会社概要 | 岡山の広告なら 山陽新聞 事業社 — 会社概要 | 岡山の広告なら 山陽新聞 事業社 sj-sanyo.jp https://sj-sanyo.jp > company」（https://sj-sanyo.jp/company/・3回目）
@@ -2293,5 +2296,5 @@
   - 「山陽新聞社 ｜STARTUP DB（スタートアップデータベース） — 山陽新聞社 ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > 投資家企業一覧」（https://startup-db.com/investment-companies/E0zvGDyUvnwpNnMa・3回目）
   - 「社長及び役員の改選に関するお知らせ - 山陽新聞社 — 社長及び役員の改選に関するお知らせ - 山陽新聞社 山陽新聞社 https://c.sanyonews.jp > release > 2025/02」（https://c.sanyonews.jp/release/2025/02/20250227090000.html・3回目）
   - 「株式会社 山陽新聞社 ｜HubSpot 導入 ・外部データ連携の ... — 株式会社 山陽新聞社 ｜HubSpot 導入 ・外部データ連携の ... 株式会社JBN https://www.jbnet.jp > 実績紹介」（https://www.jbnet.jp/portfolio/sanyonews・3回目）
-- 事業内容：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部32頁・検索12回）
-- 許認可：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部32頁・検索12回）
+- 事業内容：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部31頁・検索12回）
+- 許認可：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部31頁・検索12回）

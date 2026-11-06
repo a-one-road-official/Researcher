@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・111品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・114品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -5785,6 +5785,183 @@
 - 事業所数・社数：記載なし（読んだ35頁・検索18回）
 - 1人あたり・1社あたり金額：記載なし（読んだ35頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ35頁・検索18回）
+
+## 国土交通省 造船統計の新造船の建造量・受注量の年次の表（総トン数・隻数・国別シェアと前年比の増減を分けて・4-56）（Japan MLIT shipbuilding statistics annual new orders completions gross tonnage table）
+- 文脈：需要・造船
+- 痛み・損（深さの印）：
+  - 「承継の場面では、受注残が多いことがそのまま価値になるわけではなく、」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「造船は受注から引き渡しまで年単位で、受注残の内容が数年先の収益を決めます」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「承継の検討では、全国の傾向ではなく、その事業者が抱える受注残の中身と納期、設備の更新時期、技能者の年齢構成をご確認ください」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「受注残と技能者から、確かめませんか」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「貴社の受注残・技能者・取引先が譲渡の場面でどう見られるかは、決算書と体制を拝見してからお話しします」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「※ 船舶建造中に造船所が倒産等した場合に公的金融機関が発注者に前払金」（https://www.meti.go.jp/files/900016855.pdf）
+  - 「※１ 2015年の建造量は速報値、2016、2017年の受注残については、民間調査機関の2016年と2017年の受注残の平均とした」（https://www.mlit.go.jp/common/001118265.pdf）
+- 社員数・平均社員数：
+  - 「中国・韓国と比べ、１つの造船所当たりの規模が小さく、手動・人海戦術を要する工程において自動化等が進んでいない部分が多い」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「特定技能制度・育成就労制度による外国人材受入れ（育成就労制度は2027年4月運用開始）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「1兆円規模の投資という方向が示されても、それを受け止める人が揃うかどうかは別の問題として残ります」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「特定技能制度・育成就労制度による外国人材受入れ（育成就労制度は2027年4月運用開始）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「人民元安80.00」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf）
+  - 「就労者数：330人（2022.9.30現在）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf）
+  - 「造船分野における外国人技能実習生：3,010人（2022.４.１現在）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf）
+  - 「舶用工業分野における外国人技能実習生：164人（2022.４.１現在）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf）
+  - 「1.外国人技能実習制度」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf）
+  - 「３ 海事人材の確保・育成 2.5億円」（https://www.monohakobi.com/ja/wp-content/uploads/2025/12/00_MTF2025_keynote.pdf）
+  - 「第２次安倍内閣リーマンショック人民元改革」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「従業員数7.7万人」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「従業員数4.9万人」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「従業員数9.4万人」（https://www.mlit.go.jp/common/001353025.pdf）
+  - 「外航 日本人 ０.２万人（2023年10月時点）」（https://www.mlit.go.jp/maritime/content/001895997.pdf）
+- 受注金額・加工賃収入：
+  - 「（官:3,800億円規模）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「（官民:2,800億円規模）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「（民:3,500億円規模）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「1,200億円」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「120億円：～2030」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「約410億円の内数：2025～2030 （官民約270億円）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「150億円※１：～2026」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「生産設備整備支援 約960億円※２：2025～2029」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「（官民約2,510億円）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「国庫債務負担行為）として151億円を措置」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「次世代船舶の開発:350億円/10年」（https://www.jpmac.or.jp/file/1708909913694.pdf）
+  - 「水素SC及び運搬船の開発:3000億円/10年」（https://www.jpmac.or.jp/file/1708909913694.pdf）
+  - 「①次世代船舶の開発：350億円(10年間)」（https://www.jpmac.or.jp/file/1708909913694.pdf）
+  - 「：3,000億円/10年）」（https://www.jpmac.or.jp/file/1708909913694.pdf）
+- 生産能力・設備：
+  - 「86:99:94（大規模設備投資）」（https://www.jpmac.or.jp/file/1708909913694.pdf）
+  - 「今後５年以内に設備投資し2030年に ▲建造能力２倍化(24時間稼働)」（https://www.jpmac.or.jp/file/1708909913694.pdf）
+- 10年推移：
+  - 「近年、我が国造船業の建造量は減少傾向が継続（2019年1,600万総トン→2024年900万総トン）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「的に、海上輸送量の増加による建造需要が拡大」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「技術者（受注・設計等を担う者）の人数は横ばいで推移しているが、今後、新規需要船に対応した高度な技術にも対応する必要」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「技能者 (造船所内での作業を担う者)の人数は減少傾向であり、人材確保が急務」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「【参考：2024年時点】」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「203520272026 20282025」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「約410億円の内数：2025～2030 （官民約270億円）」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「生産設備整備支援 約960億円※２：2025～2029」（https://www.mlit.go.jp/maritime/content/001975728.pdf）
+  - 「2019年の1,600万総トンから2024年の900万総トンへ」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「国土交通省海事局船舶産業課「造船業の現況と造船業再生ロードマップについて」(2026年1月)によれば、我が国造船業の建造量は減少傾向が続いています」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「中国は2024年の世界の建造量のうち約50%を建造」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「15〜16%で推移」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「2020年にかけて受注量・シェアが減少したあと、その水準にとどまっている形です」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「2020年以降、日本の造船所の建造能力はおおむね1,000万総トン前後」（https://www.platinumpartners.jp/column-trend-zosen.html）
+- 人手と仕事の差：
+  - 「承継の場面では、受注残が多いことがそのまま価値になるわけではなく、」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「造船は受注から引き渡しまで年単位で、受注残の内容が数年先の収益を決めます」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「承継の検討では、全国の傾向ではなく、その事業者が抱える受注残の中身と納期、設備の更新時期、技能者の年齢構成をご確認ください」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「受注残と技能者から、確かめませんか」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「貴社の受注残・技能者・取引先が譲渡の場面でどう見られるかは、決算書と体制を拝見してからお話しします」（https://www.platinumpartners.jp/column-trend-zosen.html）
+  - 「なり、作業工数や手戻りが削減できることで大幅な納期短縮を実現」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1667376685/module/14336218327/name/%E3%80%902022-2Q%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AE%E9%80%A0%E8%88%B9%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%91%E3%81%8C%E5%9B%BD%E9%80%A0%E8%88%B9%E6%A5%AD%E3%81%AE%E5%8B%95%E5%90%91.pdf）
+  - 「※１ 2015年の建造量は速報値、2016、2017年の受注残については、民間調査機関の2016年と2017年の受注残の平均とした」（https://www.mlit.go.jp/common/001118265.pdf）
+- 事業所数・社数：記載なし（読んだ31頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ31頁・検索18回）
+
+## 造船業・舶用工業の従業員数の年次（国交省の海事レポートの表・造船と舶用を分けて・年つき・4-44）（Japan shipbuilding marine equipment industry employees by year MLIT）
+- 文脈：供給・造船
+- 痛み・損（深さの印）：
+  - 「他方で、職人不足や高齢化で技能継承が進まないほか、協力会社の廃業なども重なり、増産要請に人的・設備面で余力に乏しく、受注は堅調でも売上計上が進まない例もみられた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「また、ティア2における倒産（経営破綻）のリスクが高まる「債務超過（自己資本がマイナス）」の割合は、サプライチェーン全体で2024年度に12.82％となった」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「※ 船舶建造中に造船所が倒産等した場合に公的金融機関が発注者に前払金」（https://www.meti.go.jp/files/900016855.pdf）
+- 事業所数・社数：
+  - 「社数ではサプライチェーン全体の3割前後にとどまるものの、取引額ベースでは全体の9割を占めた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「「ティア2」は1万1400社と社数が最も多かったものの、取引額は3051億円・1社あたり年間2000万円前後にとどまった」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「「ティア3以降」は社数1550社・取引額146億円と、全取引階層（ティア）のなかで最小規模だった」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「業種別に社数をみると最も多いのは「製造業」の8094社で、取引額は1兆8338億円を占めた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「サプライチェーンに占める社数は4割超、取引額は5割超を占めた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「兵庫県内を中心に、貨物船、タンカー、コンテナ船などを建造する造船所や船舶用工業製品プラント、修繕修理などの重要拠点が多く、社数では大阪府が全国トップ（2464社、兵庫県：3位・2046社）、従業員数では大阪府が2位（15万3015人、兵庫県：3位・10万4961人）と、いずれも上位を占めた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+- 社員数・平均社員数：
+  - 「• 今後、新造船需要の回復局面で2030年代の需要は倍増すると見込まれる一方、人材確保は困難な状況」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「ＤXによる船舶産業の省人化・効率化補助 造船のDXオートメーション補助（1.8億円要求中）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「③造船のＤＸオートメーションによる省人化推進 令和７年度要求額：１８０百万円（新規）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「従業員数： 7.0万人」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「✓ 日本造船業の就労者数等は、2016年には9万人を超えていたが、現在は7.6万人にまで減少」（https://www.jpmac.or.jp/file/1773288914694.pdf）
+  - 「兵庫県内を中心に、貨物船、タンカー、コンテナ船などを建造する造船所や船舶用工業製品プラント、修繕修理などの重要拠点が多く、社数では大阪府が全国トップ（2464社、兵庫県：3位・2046社）、従業員数では大阪府が2位（15万3015人、兵庫県：3位・10万4961人）と、いずれも上位を占めた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「「受注倍増」サプライチェーンで最大1万人超不足の試算」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「次世代燃料船などの技術開発や、設備投資、人材育成を重点的に支援する方針で、官民で1兆円規模の投資を行う計画も判明している」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「そこで、現状のサプライチェーン企業の情報を基に、2024年度比で主要造船12社からの受注が金額ベースで「2倍」になったと仮定し、2025年時点におけるサプライチェーン全体の従業員総数（125.6万人）からどれだけ不足するか、不足分を補うための生産性改善率についてマンパワーシミュレーションを行った」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「生産性の指標では、売上高を従業員数（正社員）で除算した「1人あたり売上高」を用いた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「この結果、現状より造船向けの受注（取引）が1割増加した場合、受注額を消化するためにサプライチェーン全体で最大3300人が新たに必要となることが分かった」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「202４年度比で受注が2倍になると、単純試算で最大1.2万人分の従業員確保が求められる試算となる」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「従業員数を増やさずに受注増に対応する場合、1人あたりの売上高ベース（生産性）では1割増で平均0.1％、2倍で3.9％改善する必要がある」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「なお、少子高齢化が今後も進み、就業者を確保できないことで現状より従業員数が1割減少した状態では、最大で計1.7万人が不足する試算となった」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「従業員数を増やさずに対応する場合、受注1割増で9.2％、2倍で13.9％の生産性アップが必要となる」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+- 受注金額・加工賃収入：
+  - 「ゼロエミッション船等の生産基盤強化補助（R6年度開始分 5年間 ６００億円）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「ゼロエミッション船等の生産基盤強化補助（R７年度開始分 5年間 300億円要求中）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「経済安全保障推進法に基づく「船舶関連機器のサプライチェーン強靭化」補助（１０６億円）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「ＤXによる船舶産業の省人化・効率化補助 造船のDXオートメーション補助（1.8億円要求中）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「経済安全保障推進法に基づく「デジタル技術を用いた高性能次世代船舶開発技術」等開発（１２０億円）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「令和6年度：94億円（令和６～10年度：600億円,令和7～11年度：300億円（要求中））」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「令和6年度 94億円」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「令和6～10年度 合計600億円」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「令和7～11年度 合計300億円（要求中）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「合計900億円」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「120億円が拠出される」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「最大120億円程度」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「政府は、令和４年９月に第１次研究開発ビジョンを策定し、総額2,500億円の支援対象テーマを決定」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「令和５年８月には第２次研究開発ビジョンを策定し、新たに総額2,500億円分の支援対象テーマを決定」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「③造船のＤＸオートメーションによる省人化推進 令和７年度要求額：１８０百万円（新規）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+- 1人あたり・1社あたり金額：
+  - 「③造船のＤＸオートメーションによる省人化推進 令和７年度要求額：１８０百万円（新規）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「③造船業における人材の確保・育成 令和７年度要求額：１３７百万円（令和６年度予算額： ５９百万円）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「令和７年度要求額：２２０百万円」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「（５か年国庫債務負担行為総額１０,５８５百万円）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「「ティア2」は1万1400社と社数が最も多かったものの、取引額は3051億円・1社あたり年間2000万円前後にとどまった」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「■鍋屋バイテック会社（資本金 9,600 万円、従業員数 435 名）」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「■株式会社三松（資本金 8,500 万円、従業員数 178 名）」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「■シナノケンシ株式会社（資本金 6 億 5,000 万円、従業員数 連結 4，000 名）」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+- 生産能力・設備：
+  - 「次世代燃料船などの技術開発や、設備投資、人材育成を重点的に支援する方針で、官民で1兆円規模の投資を行う計画も判明している」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「帝国データバンクが毎年実施する「設備投資に関する企業の意識調査」を基に、造船サプライチェーン企業のうち回答のあった約400社について分析を行った」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「その結果、2025年度計画で「（設備投資を）予定している」割合が34.5％となり、全項目で最も高かったものの、前年（38.7％）からは4.2pt低下し、過去5年間で最も少なかった」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「2025年度に設備投資の予定（計画）が「ある」造船サプライチェーン企業の動向をみると、最も多い計画内容は、入れ替えや交換、更新など「設備の代替」で70.4％だった」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「他方で、「設備投資をしない」造船サプライチェーン企業では、「先行きが見通せない」（37.5％）が最も高いものの、全国水準（47.9.％）より低かった」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「しかし、直近で設備投資を行ったなど「現状で設備は適正水準である」とした企業の割合が26.8％と全体（25.2％）を上回るほか、「投資に見合う収益を確保できない」（19.6％、全体：15.4％）、「人件費の高騰による利益率の低下」（15.2％、同：11.2％）など、コスト高による収益性の悪化から設備投資を見送るケースもみられた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+- 10年推移：
+  - 「※2023年竣工船（隻数ベース）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「造船企業グループ別の建造量（2023年）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「(2019年11月)」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「（2023年5月）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「（2021年1月）」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「2023年より増加に転じ、現在は約３.」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「長期的な増加が見込まれ、生産基盤」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「202420232022202120202019」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「○受注量は2020年頃まで低迷したが、」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「2021～23年にかけて高水準が継続」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「20242019 2020 2021 2022 2023」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「202420232019 2020 2021 2022」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「※ 2023年の建造ベース」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「2019年４月、三菱重工業の横浜製作所で米海軍・横須賀基地所属のイージス艦の整備を初」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「2020年10月に補給艦の整備も実施」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+- 人手と仕事の差：
+  - 「● 一方、人口減少に伴い、造船・舶用事業者の人手不足はさらに深刻化していく」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「・人手不足への対応 ・船舶の効率的な建造 ・国際競争力の強化」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「国内の人口減少に伴い、造船業では若年層を中心に人手不足が」（https://sb5c6a3c4c4237c33.jimcontent.com/download/version/1733449476/module/14757943027/name/3_%E8%B3%87%E6%96%99%EF%BC%88%E6%B5%B7%E4%BA%8B%E5%B1%80%E8%88%B9%E8%88%B6%E7%94%A3%E6%A5%AD%E8%AA%B2%EF%BC%89.pdf）
+  - 「官民ともに船舶受注の拡大が見込める点は追い風となるが、建造現場での「人手不足」を補う生産性向上が課題」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「造船・艤装関連やエンジン、素材など各サプライヤーによって差異はあるものの、資材・外注・電力の高止まりや賃上げによる販管費・原価の上昇を、船価の高い案件の受注増で価格転嫁を行うほか、生産効率化、不採算の是正などで吸収し、利益率を改善するサプライヤーが目立った」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「他方で、職人不足や高齢化で技能継承が進まないほか、協力会社の廃業なども重なり、増産要請に人的・設備面で余力に乏しく、受注は堅調でも売上計上が進まない例もみられた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「ティア2以下のサプライヤーでも、新造・修繕・代替需要のいずれも底堅く、売り上げが増加したものの、原材料や外注費・労務費の上昇と価格転嫁にラグも生じており、収益性が抑制されたケースもみられた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「他方で、造船のサプライチェーン企業からは人手不足や職人の高齢化などに直面しており、設備更新による生産効率化などの対応に迫られている」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「いずれの計画内容も、全国平均の水準を上回っており、老朽化した設備の更新や人手不足に対応した省人化投資といった需要は引き続き大きい様子がみられた」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「現状でも、建造現場では人的余力の不足から「受注は堅調でも売上計上（実際の建造）が進まない」といった事態も発生している」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「近年は防衛・沿岸警備向け各種艦艇の修繕需要も旺盛となるなか、ドック等の設備を有する地域では「人手不足が顕著」という指摘はサプライヤーからも多く、今後は案件増に耐えうるだけの受注能力をそろえることができるかが焦点となる」（https://www.tdb.co.jp/report/industry/2026318-shipbuilding26y/）
+  - 「（７）深刻な人手不足と技能継承 ............................................................................................................ 25」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「業規模が小さく、複数の船を短納期で一括納入するロットでの受注に苦戦している」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「人手不足が深刻化する中、船舶産業においてはより少ない人手で建造量を維持し、」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+  - 「すでに人手不足や就労者の高齢化が進行しており、より少ない人手で生産量を維持するか、」（https://www.murc.jp/wp-content/uploads/2024/05/koukai_240524_02.pdf）
+
+## 生産動態統計 金型 年報の生産金額・数量の時系列を e-Stat の統計コードで（00550030・金型の一次の系列・4-30）（METI production dynamics statistics dies and molds annual production value e-Stat）
+- 文脈：統計・金型
+- 痛み・損（深さの印）：記載なし（読んだ31頁・検索18回）
+- 事業所数・社数：記載なし（読んだ31頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ31頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ31頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ31頁・検索18回）
+- 生産能力・設備：記載なし（読んだ31頁・検索18回）
+- 10年推移：記載なし（読んだ31頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ31頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

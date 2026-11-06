@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・115品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・117品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3373,6 +3373,8 @@
   - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「一般社団法人との義務範囲・罰則(100万円/50万円)・閲覧方法の違いを比較表で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告はどこで見れる？無料・有料の閲覧方法6選を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告はどこで見れる？官報・EDINET・企業HPなど無料で閲覧できる方法から有料データベースまで6つの手段を比較表付きで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「司法書士会への非司行為(にせ司法書士)取締要請書（ひな型）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「新人司法書士が必ず陥る「誤字脱字などのケアレスミス地獄」からの脱出方法」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「所在と家屋番号が一致しない建物の発生原因と対処方法」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3380,8 +3382,6 @@
   - 「遺言書への財産の記載方法は、包括的か個別具体的か、どちらが良いですか？」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「［清算型遺贈のススメ］相続人以外の第三者に、遺言で「不動産」を渡すのは危険」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「貸金庫があるときの相続手続（相続した貸金庫の開扉方法）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「遺産分割協議成立後、相続人の漏れに気付いた場合の対応方法［グループ会員限定］」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「遺贈の放棄｜遺言で受けた贈与（遺贈）を放棄する方法は、遺言の書き方によって異なります」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 突き合わせ・推定：
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3419,6 +3419,7 @@
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「相続クイズ５０問（間違いだらけのネット情報）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3428,7 +3429,6 @@
   - 「会社法人設立時に作るべき会社法人の印鑑の種類は？！注文の注意点やタイミングは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「【インサイダー取引規制】上場株式を売買する場合のほか、上場企業から受注する場合にも要注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「セミナー参加者の募集をウェブ上で行なうときの注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -5386,6 +5386,7 @@
   - 「中世ヨーロッパにおける教皇（第一機能）と皇帝（第二機能）の権力闘争（カノッサの屈辱等）の歴史的展開を、現代企業における株主（第一機能）と経営陣（第二機能）の泥沼の対立・ガバナンス不全の事例と対比して解説してください」（https://note.com/jack4manastalk/n/n8bdaa740d64c）
 - 検索結果の抜粋：
   - 「Triangulation Matrix - The Encyclopedia of Abstractions — Sep 14, 2026 · Triangulation Matrix Template — instantiates Source Provenance Triangulation Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
+  - 「Triangulation Matrix - The Encyclopedia of Abstractions — Sep 14, 2026 · Places claims against multiple sources so agreement, disagreement, independence, and source-type diversity can be seen at once. A list of sources tells you how many you have; it does not tell you which claims they actually cover, or whether the ones that agree are truly independent.」（https://abstractopedia.org/mechanisms/triangulation_matrix/）
 
 ## 専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り）（expert interview triangulation evidence weight insiders social desirability bias）
 - 文脈：裏取り
@@ -5927,9 +5928,9 @@
   - 「“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）（revision analysis official statistics mean revision mean absolute revision）
 - 文脈：統計
@@ -6744,7 +6745,7 @@
   - 「estimation accuracy in such cases.」（https://arxiv.org/pdf/2210.01230）
   - 「This section provides more information on example 1.」（https://arxiv.org/pdf/2210.01230）
   - 「For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a」（https://arxiv.org/pdf/2210.01230）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
@@ -7067,3 +7068,94 @@
   - 「- **チャット（手動）**：弁理士が検索結果や候補ページの本文を貼り、同じシステムプロンプトで整理させる」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「私が検索結果やページ本文を貼りますので、」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「判定の手順（要件ごとに必ずこの順で検討し、検討結果を出力する）：」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+
+## 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）（quote grounding verification extracted citation exists in source text RAG hallucination legal research）
+- 文脈：検証
+- 手順・やり方：
+  - 「ここに生成AIを組み込めれば、調査の進め方をかなり変えられるかもしれません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「まずは、そのような制御しやすい使い方から始めたいと考えています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「スタンフォード大学等の研究チームは、検索結果を参照して回答を生成するRAG型の法律調査ツールを評価し、研究時点の対象システムで17〜33％のハルシネーションを報告しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「私としては、取得方法やアクセス頻度を決める手順と、集めた文章・図をチャートにどのように掲載するかを確認する手順を、別々に設けたいと思います」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「## 0. 使い方」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「材料・組成（MATERIAL）／工程（STEP）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- クレームカテゴリ（物／方法／プログラム／システム／製造方法）を判定し、方法クレームの場合は」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 方法クレームの実施主体の仮置きが実態と合うか」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 特許法101条（間接侵害）の検討に必要な材料：クレームの物・方法の「生産にのみ用いる物」」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「各要件の機能・方法・結果を明細書の記載から整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 方法クレームの分割実施（divided infringement, Akamai）の可能性がある場合、指揮・管理の関係が」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「3. 規格・認証・型番の手がかり（該当し得る規格名、認証マーク、チップの型番、インタフェース名）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「1. 要件ごとの語彙表（下位概念／業界用語／規格・型番の手がかり／機能の見え方／反対証拠の表現）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+- 突き合わせ・推定：
+  - 「侵害・非侵害を言い切るAIではなく、候補製品と根拠資料を集め、専門家が検証できるクレームチャートをつくる仕組み」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「今回の調査報告では、これを「クレーム解釈」、「候補発見」、「証拠収集」、「チャート起案」、「人による検証」の5工程に分けて整理しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「2．技術的なポイントは、分解・検索・引用検証の3つ」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「したがって、検証は二段階に分けたいと思います」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「クレーム解釈 → 候補発見 → 収集・保全 → 索引・検索 → 要素対比 → 引用検証 → 人のレビュー」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「これはベンダーによる機能説明であり、今回こちらで精度を検証した結果ではありません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「※本稿は文献・公開情報に基づく設計検討であり、実運用での精度や工数削減を検証した報告ではありません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「P5 証拠箇所抽出 ─▶ P6 要素充足判定 ─▶ P7 グラウンディング検証 ─▶ P8 複数ジャッジ統合」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「`{{OUTPUT_MODE}}=json` とし、付録AのJSONスキーマで構造化出力（またはスキーマ検証）を行う」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 引用の機械検証（付録E）を P5・P6 の直後に必ず挟む」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- §112(f) の推定（"means for" は推定あり、"configured to" 等は構造を示す語かどうか）を要件ごとに」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「クエリは事実の主張ではなく探索のための仮説である」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「**機械検証（必須）**：出力された各 `quote` が `DOC_TEXT` 内に（空白・改行の正規化後に）存在することをコードで確認する（付録E）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「判定と抽出を分けることで、判定モデルが原文を「読み違える」余地を減らし、引用の機械検証を可能にする」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+- 一次情報の探し方：
+  - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「「Web上の製品情報を生成AIで調べれば、自社の特許が使われている可能性のある製品を見つけられるのではないか？」」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「こうした公開情報を集め、特許の請求項と比較し、対応する記載を整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「EoU調査では、対象特許のクレームを読み、候補製品を探し、資料を収集し、構成要件ごとに製品との対応関係を整理します」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「特許と製品資料を丸ごと渡して「侵害していますか」と聞くよりも、構成要件ごとに必要な証拠を探し、それぞれの対応を確認する形を基本にしたいと考えました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 位置づけ：「生成AIによる特許EoU調査システム — 情報収集報告」（2026年9月17日）の第3章「参照アーキテクチャ（7層）」のうち、LLMが担う工程を実行するためのプロンプト群」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- 対応法域：日本特許・米国特許（変数 `{{JURISDICTION}}` で切替）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「PDFはテキスト化してから貼る（報告書3.4節：表・図の構造が崩れると検索・判定精度が落ちるため、表はMarkdown表として保持する）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「** 対象特許の選定理由、ターゲット企業リスト、権利行使方針は原則プロンプトに含めない」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「3. **逐語引用のない判定は採用しない」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「あなたは特許のEoU（Evidence of Use）調査を支援する分析アシスタントです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「【対象法域】{{JURISDICTION}}（JP: 日本特許 / US: 米国特許 / BOTH: 両方）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+- 失敗・落とし穴：
+  - 「これらは調査報告でも、分解・検索・判定を通じて注意すべき点として整理しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「生成AIの誤りというと、存在しない文献やURLをつくることを想像しがちです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「この役割分担を、注意書きではなく、検索・引用・保全・承認の仕組みとして実装する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「(g) 検索・判定時の注意（例：マーケティング資料では別名で呼ばれる可能性、数値は仕様表を見る等）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「2. 構成要件一覧（要件ID／原文／分解後の記述／種別／依存要件／否定・限定語／機能的表現／検索・判定時の注意）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「存在しない抜粋は破棄し、当該要件を再抽出するか「抽出失敗」として記録する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「表・図は構造を保持して渡す（表構造の不一致が検索失敗の7割）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「**実行上の注意**：P6とは別のセッション（可能なら別モデル）で実行する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「"required": ["bias_assessment", "changed_elements"],」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「"bias_assessment": { "type": "string" },」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「検証に失敗した引用は、まず抽出テキスト側の問題（改行位置、表の展開）を疑い、原文PDFで人が確認する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「| 要件ID | 原文 | 種別 | 依存 | 否定・限定語 | 機能的表現 | 検索・判定時の注意 |」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「| 1D | 前記筐体の装着状態を検出するセンサと、 | STRUCTURE/FUNCTION | 1A | — | はい | 「装着検出」「着脱検知」「近接センサー」「光学センサー」等の別名に注意 |」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+- 実例：
+  - 「今回は、導入後の成功事例ではなく、研究やサービスの公開情報をもとに、「どの工程に使えそうか」、「どのような仕組みなら実務に載せられそうか」を考えたものです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「「そのセンサーの検出結果に基づいて制御する」という限定なら、センサーの存在と制御機能の存在だけでなく、両者の関係も確認する必要があります」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「検索エージェントを評価するBrowseComp-Plusの研究でも、同じLLMに組み合わせる検索器を変えることで、結果が大きく変わる例が報告されています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「例えば、クレームの抽象的な用語をそのまま検索するだけでなく、「メーカーなら、この機能をどう説明するか」を考えて検索語をつくるイメージです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「スタンフォード大学等の研究チームは、検索結果を参照して回答を生成するRAG型の法律調査ツールを評価し、研究時点の対象システムで17〜33％のハルシネーションを報告しました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「実務上の表示は、例えば次のようにしたいと考えています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「例えばPatlyticsの公式資料では、公開情報や製品文書を探索し、構成要件単位のクレームチャートを作成する機能、証拠のスナップショット保存、Word・Excelへの出力などが紹介されています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「これはベンダーによる機能説明であり、今回こちらで精度を検証した結果ではありません」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「個別に検討し、検討結果を明記する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「分解結果はP3〜P10のすべてで参照されるため、G1で人が確定させてから先に進む」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「各要件の機能・方法・結果を明細書の記載から整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「- **チャット（手動）**：弁理士が検索結果や候補ページの本文を貼り、同じシステムプロンプトで整理させる」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「私が検索結果やページ本文を貼りますので、」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「判定の手順（要件ごとに必ずこの順で検討し、検討結果を出力する）：」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+
+## 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ（cognitive bias investigation workflow disconfirming evidence osintblog）
+- 文脈：偏り
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
