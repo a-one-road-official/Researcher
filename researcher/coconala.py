@@ -10,7 +10,7 @@ from playwright.sync_api import sync_playwright
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "out" / "coconala"
 PACE = 2.0
-MAX_PAGES = 80
+MAX_PAGES = int(os.environ.get("COCONALA_MAX_PAGES", "40"))
 DEADLINE = time.time() + float(os.environ.get("COCONALA_SECONDS", "16800"))
 
 def rx(p, t, g=1, f=None):
@@ -24,7 +24,7 @@ def num(v):
 
 def page_text(pg, url, scroll=6):
     pg.goto(url, wait_until="domcontentloaded", timeout=60000)
-    try: pg.wait_for_load_state("networkidle", timeout=15000)
+    try: pg.wait_for_load_state("networkidle", timeout=8000)
     except Exception: pass
     for _ in range(scroll):
         pg.mouse.wheel(0, 4000); time.sleep(0.4)
@@ -82,8 +82,11 @@ def main():
                 except Exception as e:
                     print("list fail", url, e); break
                 (d / "lists" / f"page{p}.txt").write_text(t, encoding="utf-8")
-                new = [i for i in dict.fromkeys(re.findall(r'/services/(\d+)', h)) if i not in order]
-                if not new: break
+                found = list(dict.fromkeys(re.findall(r'/services/(\d+)', h)))
+                new = [i for i in found if i not in order]
+                print("list", name, "page", p, "links", len(found), "new", len(new), "textlen", len(t), "head:", t[:150].replace("\n"," "), flush=True)
+                if os.environ.get("COCONALA_PROBE"): return
+                if len(new) < 3: break
                 for i in new: order[i] = len(order) + 1
                 ids += new; time.sleep(PACE)
             json.dump(order, open(d / "order.json", "w"), ensure_ascii=False)
