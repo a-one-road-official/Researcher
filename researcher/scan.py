@@ -237,13 +237,26 @@ GOLD = [
     ("表の番号（4-40）", "表 33 事業所数、従業者数", "https://www.pref.kanagawa.jp/a", []),
     ("階級でない金額は残す（4-40）", "売上高は5,000万円だった", "https://example.go.jp/a", [(5000, "万円")]),
 ]
+# 2026-11-06 4-47：正解例との照合を「通った件数」だけでなく、拾った値ごとに TP（拾うべきを拾った）・FP（拾ってはいけない混入）・
+# FN（拾うべきを落とした）に分け、精度＝TP/(TP+FP)・再現率＝TP/(TP+FN)・F1 を出す（AWS Entity Resolution の精度の測り方）。
+# A1 では混入（FP）のほうが落とし（FN）より害が大きい（4-8）ので、精度が1を割ったら先に直す
+GOLD_PRF = {}
 def gold_check():
-    bad = []
+    bad = []; tp = fp = fn = 0
     for label, q, url, want in GOLD:
         d = {"name": "__gold__", "evidence": {"テスト": [{"quote": q, "url": url}]}}
         got = sorted((round(r["値"], 4), r["単位"]) for r in rows_from_doc("__gold__", d))
-        if got != sorted((round(v, 4), u) for v, u in want): bad.append(f"- ✗ {label}：「{q}」→ 期待 {want}／実際 {got}")
+        exp = sorted((round(v, 4), u) for v, u in want)
+        rest = list(exp)
+        for g in got:
+            if g in rest: tp += 1; rest.remove(g)
+            else: fp += 1
+        fn += len(rest)
+        if got != exp: bad.append(f"- ✗ {label}：「{q}」→ 期待 {want}／実際 {got}")
     OUTLIERS.pop("__gold__", None); DROPS.pop("__gold__", None)
+    pr = tp / (tp + fp) if tp + fp else 1.0; rc = tp / (tp + fn) if tp + fn else 1.0
+    f1 = 2 * pr * rc / (pr + rc) if pr + rc else 0.0
+    GOLD_PRF.update({"TP": tp, "FP": fp, "FN": fn, "精度": round(pr, 3), "再現率": round(rc, 3), "F1": round(f1, 3)})
     return bad
 
 # 2026-11-05 4-26：工業統計は2022年から経済構造実態調査（製造業事業所調査）に包まれ、対象が「従業者4人以上の全数」から
@@ -503,7 +516,8 @@ def kougyo_section(topic):
         if y is None: continue
         by.setdefault((r["code"], r["name"]), []).append((int(y), r))
     md = ["## 工業統計表 産業別統計表（確報）の直接読み：産業細分類×年（kougyo_series.csv・同じ表・同じ年の組だけで割った値）",
-          "- 年の切れ目：2016年は工業統計なし（経済センサス）、2021年からは経済構造実態調査。この表は2020年までで、2021年以降とつながない（4-26）。金額は名目・単位は表の欄の見出しのまま",
+          "- 年は実績の年（表の年次の欄。2026-11-06 までの版はファイルの年＝調査の年を付けていて、2020年ファイルの最初の行＝2015年実績を「2020年」と誤って並べていた・4-34）",
+          "- 年の切れ目：実績2015年は経済センサス‐活動調査（2016年調査）の値で、工業統計の他の年と調査が違う。実績2020年以降は経済構造実態調査。この表は実績2019年までで、それ以降とつながない（4-26）。金額は名目・単位は表の欄の見出しのまま（百万円）",
           "- 年率は複利（(最後÷最初)^(1/年数)−1・4-37）。「端の1点に依存」は最初か最後の年を外すと向きが変わるもの（4-40）"]
     keys = sorted(by, key=lambda k: (0 if KOUGYO_FOCUS.search(k[1] or "") else 1, k[0]))
     shown = 0
@@ -511,7 +525,8 @@ def kougyo_section(topic):
         rs = sorted(by[(code, name)], key=lambda t: t[0])
         if not KOUGYO_FOCUS.search(name or "") and shown >= 40: continue
         parts = []
-        for fld in ("従業者1人あたり加工賃収入額", "1事業所あたり従業者数", "加工賃収入額", "事業所数", "従業者数"):
+        if any("file_year" not in r for _, r in rs): continue  # 古い版（file_year の欄が無い＝年が調査の年で、最初の行だけ）は並べない
+        for fld in ("従業者1人あたり加工賃収入額", "従業者1人あたり製造品出荷額等", "1事業所あたり従業者数", "加工賃収入額", "事業所数", "従業者数"):
             pts = [(y, _kf(r.get(fld))) for y, r in rs]
             pts = [(y, v) for y, v in pts if v is not None]
             if len(pts) < 2: continue
@@ -520,7 +535,9 @@ def kougyo_section(topic):
             sgn = lambda a, b: (b > a) - (b < a)
             d = sgn(v0, v1)
             edge = len(pts) >= 3 and (sgn(pts[1][1], v1) != d or sgn(v0, pts[-2][1]) != d)
-            parts.append(f"{fld} {y0}年 {v0:,.1f}→{y1}年 {v1:,.1f}（{len(pts)}点" + (f"・年率 {g:+.1%}" if g is not None else "") + ("・⚠ 端の1点に依存" if edge else "") + "）")
+            cen = any(y == 2015 for y, _ in pts) and y0 != 2015 or y0 == 2015 or y1 == 2015
+            parts.append(f"{fld} {y0}年 {v0:,.1f}→{y1}年 {v1:,.1f}（{len(pts)}点" + (f"・年率 {g:+.1%}" if g is not None else "") + ("・⚠ 端の1点に依存" if edge else "")
+                         + ("・⚠ 2015年は経済センサスの値を含む" if cen else "") + "）")
         if parts:
             md.append(f"- 【一次で確認】{code} {name}：" + "／".join(parts))
             shown += 1
@@ -536,6 +553,8 @@ def scan(topic):
           "可能性の言葉（4-39・ICD 203。この7語だけを使い、確度の印と同じ文に並べない）：" + "／".join(f"{w}={p}" for w, p in LIKELIHOOD), ""]
     gb = gold_check()
     md += [f"- 判定の正解例の点検（4-38）：{len(GOLD) - len(gb)}／{len(GOLD)}件が期待どおり", *gb]
+    md += [f"- 正解例の照合（4-47）：TP {GOLD_PRF['TP']}・混入FP {GOLD_PRF['FP']}・落としFN {GOLD_PRF['FN']}／精度 {GOLD_PRF['精度']}・再現率 {GOLD_PRF['再現率']}・F1 {GOLD_PRF['F1']}"
+           + ("（混入あり：精度を先に直す）" if GOLD_PRF['FP'] else "")]
     picks = {}  # 4-38：前回からの変化を出すため、欄ごとの採る値を残す
     # 2026-11-05 4-19：出どころの記録（URL・取得日）が欠けた数字を数える。0件でなければ HEALTH と同じく直す対象
     nprov = sum(1 for r in rows if not r["URL"] or not r["取得日"])

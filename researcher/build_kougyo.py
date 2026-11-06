@@ -218,6 +218,7 @@ def _read(url: str, year: int, log: list[str]) -> list[dict]:
 
 
 def _pick(col: str) -> str:
+    col = re.sub(r"\s", "", col)  # 2026-11-06 見出しは「製 造 品 出荷額等」のように字の間に空白がある（出荷額が0件だった）
     for f, keys in FIELDS.items():
         if any(k in col for k in keys):
             return f
