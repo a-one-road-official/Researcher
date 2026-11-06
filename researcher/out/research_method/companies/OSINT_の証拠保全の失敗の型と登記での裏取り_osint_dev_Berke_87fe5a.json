@@ -8,7 +8,7 @@
  ],
  "context": "一次情報の探し方",
  "kind": "market",
- "researched_at": "2026-11-06T18:58:48.632970+00:00",
+ "researched_at": "2026-11-06T23:41:15.829593+00:00",
  "evidence": {
   "実例": [
    {
@@ -344,6 +344,358 @@
    {
     "quote": "Examples of transformations include:",
     "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EHRAC’s own journey in OSI began with the case of",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "has spent a lot of time exploring tools that help to automate capture and analysis of large datasets from social media, such as pinpoint. Really helpful are the many dashboards that open source investigators have created, which compile a number of useful tools (most free) in one place. An example includes that put out by",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "and structural biases to affect their work and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Inherent biases in the Internet’s architecture",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "counterbalance such biases by applying",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "correct for their own biases, which may be",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "chances of biased selection, interpretation and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "biases in the data available online. All of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Because these actions are easy to see, they are often mistaken for the discipline itself.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The mistake is treating it as the final skill.",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Despite the utility of digital evidence, it is not without its pitfalls. In the wake of a mass of new uploads, Twitter recently mistakenly suspended a number of accounts reporting from Ukraine.",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "E. Culliford, ‘Twitter Says It Mistakenly Took Down Accounts Posting on Russian Military’,",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.reuters.com/world/twitter-says-it-mistakenly-took-down-accounts-posting-russian-military-2022-02-23/",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "). The latter includes, for example, confirmation bias, through which investigators unintentionally overvalue information that supports their preferred working hypothesis of who did what to whom and when, and undervalue or ignore contradictory information.",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Yvonne McDermott, Alexa Koenig and Daragh Murray, “Open Source Information’s Blind Spots: Human and Machine Bias in International Criminal Investigations,” Journal of International Criminal Investigations (2021).",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 1 — Screenshot without URL",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 2 — URL without timestamp",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 3 — Hash without capture context",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 4 — Archive URL without understanding archive limits",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 5 — Preserving only derived artifacts",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 6 — Capturing everything",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 7 — No research question",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 8 — No limitation note",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 9 — Publicly archiving sensitive material",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 10 — Assuming one file format solves evidence",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 11 — Relying on proprietary storage only",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mistake 12 — No backup",
+    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As for methods, it’s important to build online search skills and verification skills, and to understand how access and human and machine biases might interfere with an objective search. On the team at Berkeley,",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "PDF Portable Document Format",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pdf?x32994.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "humanrights.berkeley.edu/sites/default/files/publications/bellagio_report_july2018_final.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "leiden-guidelines.com/assets/DDE%20in%20ICL.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.usip.org/sites/default/files/resources/sr170.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.icc-cpi.int/sites/default/files/RelatedRecords/CR2019_00267.PDF",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "trialinternational.org/wp-content/uploads/2019/12/Manuel-pratique-preuve-audiovisuelle.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "piac.asn.au/wp-content/uploads/2023/03/Investigating-Perpetrators_PIAC-HRC_2023.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www1.essex.ac.uk/hrc/documents/Introductory_Guide_to_Open_Source_Inteligence_and_Digitial%20Verification.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.eyewitness.global/documents/How-To-Info-Booklet.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "www.eyewitness.global/documents/What-happens-when-you-upload-footage.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "humanrights.berkeley.edu/sites/default/files/digital_lockers_report5.pdf",
+    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Вопросы и ответы: Использование расследований по открытым источникам в судебных процессах по правам человека (PDF)",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -684,332 +1036,36 @@
     "url": "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
     "pass": 3,
     "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
+   },
    {
-    "quote": "PDF Portable Document Format",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "quote": "Investigators should verify online findings before treating them as reliable evidence. A single post, photo, or profile may not tell the full story, so investigators should look for supporting information from other sources. The Berkeley Protocol, an international standard for digital open-source investigations, identifies verification as a key step in the investigative process.",
+    "url": "https://ethosrisk.com/blog/osint-best-practices/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "quote": "OSINT can be a highly effective method of complementing and corroborating other types of evidence, but where should lawyers interested in using OSI in their work start, and what are some of the best techniques and tools to use?",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "quote": "(Oxford University Press 2020). The book is an introduction to open source investigation methods, as well as OSI’s history, and relevant ethical and security considerations. It includes contributions from some of the best open source practitioners and academics in the world.",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "pdf?x32994.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "humanrights.berkeley.edu/sites/default/files/publications/bellagio_report_july2018_final.pdf",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "leiden-guidelines.com/assets/DDE%20in%20ICL.pdf",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "www.usip.org/sites/default/files/resources/sr170.pdf",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "www.icc-cpi.int/sites/default/files/RelatedRecords/CR2019_00267.PDF",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "trialinternational.org/wp-content/uploads/2019/12/Manuel-pratique-preuve-audiovisuelle.pdf",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "piac.asn.au/wp-content/uploads/2023/03/Investigating-Perpetrators_PIAC-HRC_2023.pdf",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "www1.essex.ac.uk/hrc/documents/Introductory_Guide_to_Open_Source_Inteligence_and_Digitial%20Verification.pdf",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "www.eyewitness.global/documents/How-To-Info-Booklet.pdf",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "www.eyewitness.global/documents/What-happens-when-you-upload-footage.pdf",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "humanrights.berkeley.edu/sites/default/files/digital_lockers_report5.pdf",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
+    "quote": "As for methods, it’s important to build online search skills and verification skills, and to understand how access and human and machine biases might interfere with an objective search. On the team at Berkeley,",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
+  "突き合わせ・推定": [
    {
-    "quote": "and structural biases to affect their work and",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Inherent biases in the Internet’s architecture",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "counterbalance such biases by applying",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "correct for their own biases, which may be",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "chances of biased selection, interpretation and",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "biases in the data available online. All of",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Because these actions are easy to see, they are often mistaken for the discipline itself.",
-    "url": "https://osint.dev/articles/osint-is-not-just-searching",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The mistake is treating it as the final skill.",
-    "url": "https://osint.dev/articles/osint-is-not-just-searching",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Despite the utility of digital evidence, it is not without its pitfalls. In the wake of a mass of new uploads, Twitter recently mistakenly suspended a number of accounts reporting from Ukraine.",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "E. Culliford, ‘Twitter Says It Mistakenly Took Down Accounts Posting on Russian Military’,",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "www.reuters.com/world/twitter-says-it-mistakenly-took-down-accounts-posting-russian-military-2022-02-23/",
-    "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "). The latter includes, for example, confirmation bias, through which investigators unintentionally overvalue information that supports their preferred working hypothesis of who did what to whom and when, and undervalue or ignore contradictory information.",
-    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Yvonne McDermott, Alexa Koenig and Daragh Murray, “Open Source Information’s Blind Spots: Human and Machine Bias in International Criminal Investigations,” Journal of International Criminal Investigations (2021).",
-    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 1 — Screenshot without URL",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 2 — URL without timestamp",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 3 — Hash without capture context",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 4 — Archive URL without understanding archive limits",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 5 — Preserving only derived artifacts",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 6 — Capturing everything",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 7 — No research question",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 8 — No limitation note",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 9 — Publicly archiving sensitive material",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 10 — Assuming one file format solves evidence",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 11 — Relying on proprietary storage only",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 12 — No backup",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "quote": "There are both pros and cons to using open source information as evidence in litigation. A significant pro is its ability to complement more traditional testimonial, physical and documentary evidence. Incorporating such digital data allows for triangulation and corroboration of survivors’ testimonies.",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -1019,12 +1075,27 @@
  "checked": {
   "pass3": [
    {
+    "url": "https://note.com/j_circon/n/n29eab4f9b17e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/platypus2000jp/n/n908cf3d0301e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/j_circon/n/n29eab4f9b17e",
+    "url": "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/solo_style/n/n985b3c636ab6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
     "status": "ok",
     "method": "http"
    },
@@ -1034,32 +1105,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/dds_field_note/n/neccd096ac071",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/dds_field_note/n/n7e979f5f57d5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/magic_vole6213/n/ned75084de255",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
-    "status": "ok",
-    "method": "browser"
+    "status": "http_403",
+    "method": "http"
    },
    {
-    "url": "https://osint.dev/tools/singlefile/docs/evidence-capture-workflow",
+    "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "url": "https://osint.dev/articles/osint-is-not-just-searching",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.icrc.org/law-and-policy/2023/12/05/deploying-osint-in-armed-conflict-settings-law-ethics-theory-of-harm/",
     "status": "ok",
     "method": "http"
    },
@@ -1069,12 +1130,97 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
+    "url": "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/",
+    "url": "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sans.org/webcasts/osint-open-source-intelligence-starting-from-scratch-ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ethosrisk.com/blog/osint-best-practices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe.asahi.com/article/14757751",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.criminalip.io/ja/asset/report/218.188.222.31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.akamai.com/ja/blog",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cysec148.hatenablog.com/entry/2025/06/30/164859",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpcert.or.jp/magazine/chronology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academic.oup.com/lril/article/13/1/93/8126615",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://digitallibrary.un.org/record/3973652",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6455838",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "status": "ok",
     "method": "http"
    }
@@ -1084,8 +1230,11 @@
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） site:note.com",
    "results": [
-    "https://note.com/platypus2000jp/n/n908cf3d0301e",
     "https://note.com/j_circon/n/n29eab4f9b17e",
+    "https://note.com/platypus2000jp/n/n908cf3d0301e",
+    "https://note.com/kishioka/n/nf3b74d4d4ffe",
+    "https://note.com/solo_style/n/n985b3c636ab6",
+    "https://note.com/sekamoto_home615/n/n6ea7a136b97d",
     "https://note.com/dds_field_note/n/n820dbccacd9f",
     "https://note.com/dds_field_note/n/neccd096ac071",
     "https://note.com/dds_field_note/n/n7e979f5f57d5",
@@ -1095,26 +1244,59 @@
   },
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） note",
-   "results": []
+   "results": [
+    "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
+    "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "https://osint.dev/articles/osint-is-not-just-searching",
+    "https://blogs.icrc.org/law-and-policy/2023/12/05/deploying-osint-in-armed-conflict-settings-law-ethics-theory-of-harm/",
+    "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "https://www.forensicnotes.com/blog/osint-tools-capturing-evidence/",
+    "https://ethosrisk.com/blog/osint-best-practices/",
+    "https://www.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e",
+    "https://note.com/red_structure/n/na2c79b00d217"
+   ]
   },
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） やり方",
-   "results": []
+   "results": [
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://www.trendmicro.com/ja_jp/what-is/threat-detection/open-source-intelligence-osint.html",
+    "https://www.tisi.jp/special/security-diagnosis-column-019/",
+    "https://www.sans.org/webcasts/osint-open-source-intelligence-starting-from-scratch-ja",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://ethosrisk.com/blog/osint-best-practices/",
+    "https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/",
+    "https://product.sct.co.jp/blog/security/what-is-osint",
+    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja"
+   ]
   },
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） 事例",
-   "results": []
+   "results": [
+    "https://globe.asahi.com/article/14757751",
+    "https://www.criminalip.io/ja/asset/report/218.188.222.31",
+    "https://www.akamai.com/ja/blog",
+    "https://jp.linkedin.com/pulse/case-studies-successful-osint-investigations-vijay-gupta--0b7cc?tl=ja",
+    "https://cysec148.hatenablog.com/entry/2025/06/30/164859",
+    "https://www.jpcert.or.jp/magazine/chronology/",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20230601-03991414-nnn-soci&lang=ja",
+    "https://www.mason-c.co.jp/security_magazine/",
+    "https://www.amiya.co.jp/media/article/blaze25_sponsor0205/"
+   ]
   },
   {
    "query": "osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration",
    "results": [
-    "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
-    "https://osint.dev/tools/singlefile/docs/evidence-capture-workflow",
-    "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
     "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
-    "https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/",
-    "https://github.com/igor-invernon/investigation-frameworks/tree/main"
+    "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
+    "https://osint.dev/articles/osint-is-not-just-searching",
+    "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "https://academic.oup.com/lril/article/13/1/93/8126615",
+    "https://digitallibrary.un.org/record/3973652",
+    "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6455838",
+    "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
+    "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source"
    ]
   },
   {
@@ -1133,12 +1315,12 @@
    "query": "site:x.com OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）",
    "results": [
     "https://x.com/chisaidehissori",
-    "https://x.com/chisaidehissori/status/2083008446153273630",
     "https://x.com/chisaidehissori/status/2094050470071607429",
     "https://x.com/chisaidehissori/status/2083008452138614830",
-    "https://x.com/chisaidehissori/status/1800528837463388558",
+    "https://x.com/chisaidehissori/status/2083008446153273630",
+    "https://x.com/chisaidehissori/status/2100454320387113453",
     "https://x.com/chisaidehissori/status/2083008449617784982",
-    "https://x.com/chisaidehissori/status/2100454320387113453"
+    "https://x.com/chisaidehissori/status/2083008443645079852"
    ]
   },
   {
@@ -1150,7 +1332,7 @@
     "https://at.linkedin.com/posts/nihonmatsu_ctivd-automated-osint自動化されたosint-オープンソース-activity-7065927076675006465-OeBm",
     "https://www.linkedin.com/posts/tomoko-tanizaki_hack-fes-2026でのワークショップmythos世代のネットワークosint-activity-7485312493448364033-itHP",
     "https://it.linkedin.com/posts/nihonmatsu_sansのnew-to-cyber-field-manualによればosint-activity-7061860609398640640-QxbP",
-    "https://jp.linkedin.com/pulse/osint-unlocked-building-transparent-defensible-toby-langston-a2yde?tl=ja"
+    "https://jp.linkedin.com/pulse/open-source-intelligence-osint-powerful-tool-information-t-w96pc?tl=ja"
    ]
   },
   {
@@ -1167,312 +1349,115 @@
   },
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） note 社長",
-   "results": []
+   "results": [
+    "https://note.com/red_structure/n/na2c79b00d217",
+    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
+    "https://note.com/itta_usa/n/nd300923856e1",
+    "https://f2ff.jp/introduction/11270?event_id=secd-2025-02-tokyo",
+    "https://osint.jp/",
+    "https://globe.asahi.com/article/14757751",
+    "https://cysec148.hatenablog.com/entry/2025/06/30/164859",
+    "https://techtarget.itmedia.co.jp/tt/article/2512/03/225120304/",
+    "https://x.com/osintjapan"
+   ]
   },
   {
    "query": "OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento） X 投稿",
-   "results": []
+   "results": [
+    "https://ethosrisk.com/blog/osint-best-practices/",
+    "https://group.gmo/security/cybersecurity/penetration-testing/blog/osint/",
+    "https://codebook.machinarecord.com/cyber-intelligence/osint/15117/",
+    "https://jp.linkedin.com/pulse/osint-gone-wrong-risks-failures-james-grew-ni15e?tl=ja",
+    "https://osint.jp/",
+    "https://x.com/osintjapan",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02700/010900002/?P=2",
+    "https://www.criminalip.io/ja/asset/report/218.188.222.31",
+    "https://hwdream.com/about_osint/"
+   ]
   },
   {
    "query": "osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/activity-7513484300533673985-Gm0j",
-    "https://www.linkedin.com/pulse/ethical-effective-digital-human-rights-inquiries-galal-abukhashaba-hnyuc",
-    "https://cy.linkedin.com/posts/susan-wolfinbarger-ph-d-4738a336_in-ukraine-berkeley-experts-are-shaping-activity-7033985774706425856-Xgzp",
-    "https://www.linkedin.com/posts/aroosa-salahuddin26_verify-first-osint-ai-and-the-diplomat-activity-7521299757789757441-u9RC",
-    "https://www.linkedin.com/posts/osmosis-institute_osint-berkelyprotocol-osmosis-activity-7322983059165691906-vBGl",
-    "https://www.linkedin.com/pulse/berkeley-protocol-digital-open-source-investigations-danny-haas",
-    "https://www.linkedin.com/posts/nextsight_digitalevidence-verification-osint-activity-7493924972948746240-mjuy"
+    "https://www.linkedin.com/in/bradleyshervheim",
+    "https://www.linkedin.com/in/fuhardixit",
+    "https://www.linkedin.com/in/tanishkamali",
+    "https://www.linkedin.com/in/tessrubin",
+    "https://www.linkedin.com/in/andromeda-ambard",
+    "https://www.linkedin.com/in/ezztahoun",
+    "https://www.linkedin.com/in/michaelangelomelo",
+    "https://www.linkedin.com/in/ernest-templin",
+    "https://www.linkedin.com/in/jongmin-sung",
+    "https://www.linkedin.com/in/himanshunimonkar"
    ]
   }
  ],
- "missing": {
-  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）"
- },
+ "missing": {},
  "new_this_run": {
   "実例": [
    {
-    "quote": "A case folder contains hundreds of artifacts with filenames such as:",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "quote": "EHRAC’s own journey in OSI began with the case of",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "The page identified Alice Example as a director of Example Ltd at the time of capture.",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "storage location or case identifier",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Case: ACME-2026-08",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Did example.com identify Company A as the operator of the service?",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://example.com/terms",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "cases/ACME-2026-08/evidence/EV-0042/",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Examples of volatile material include:",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://example.com/reports/2026/result?id=42",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "WARC is powerful, but not mandatory for every case",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Instead of asking the investigator to decide manually when to save every page, it can document browsing activity inside a case-oriented workflow.",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Do not make the filename carry the entire case.",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "20260818T194211Z_EV-0042_example-com_terms_singlefile.html",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "20260818T194211Z_EV-0042_example-com_terms_screenshot.png",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Examples of transformations include:",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Its current documentation describes capture methods including:",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The Memento framework formalizes the concept of accessing prior states of web resources through time-based web architecture.",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The Berkeley Protocol provides a rigorous framework for digital open-source investigations, including preservation and documentation considerations.",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 1 — Research question",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 2 — Immediate current capture",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 3 — Integrity",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 4 — Analyst note",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 5 — Historical evidence",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 6 — Transition window",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Step 7 — Registry corroboration",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "IETF RFC 7089 — HTTP Framework for Time-Based Access to Resource States (Memento)",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A practical framework for resolving legal entities, verifying registry records, mapping ownership and control, screening sanctions carefully, and preserving evidence without turning name matches into conclusions.",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Log the collector name and the method used.",
-    "url": "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Tools matter, but the method decides whether you produce usable intelligence or a pile of screenshots.",
-    "url": "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", published with the UN Office of the High Commissioner for Human Rights, is the most widely cited standard for open source investigation method.",
-    "url": "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Collector name and method",
-    "url": "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "findings, sources, method and reasoning.",
-    "url": "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "What are the steps of an OSINT investigation?",
-    "url": "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Brand impersonation enables phishing, fraud, and reputation damage. How to detect the fake profiles, domains, and apps that use your brand.",
-    "url": "https://www.digitalstakeout.com/blog/osint-investigation-workflow",
+    "quote": "has spent a lot of time exploring tools that help to automate capture and analysis of large datasets from social media, such as pinpoint. Really helpful are the many dashboards that open source investigators have created, which compile a number of useful tools (most free) in one place. An example includes that put out by",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ],
   "失敗・落とし穴": [
    {
-    "quote": "Mistake 1 — Screenshot without URL",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "quote": "As for methods, it’s important to build online search skills and verification skills, and to understand how access and human and machine biases might interfere with an objective search. On the team at Berkeley,",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Вопросы и ответы: Использование расследований по открытым источникам в судебных процессах по правам человека (PDF)",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Investigators should verify online findings before treating them as reliable evidence. A single post, photo, or profile may not tell the full story, so investigators should look for supporting information from other sources. The Berkeley Protocol, an international standard for digital open-source investigations, identifies verification as a key step in the investigative process.",
+    "url": "https://ethosrisk.com/blog/osint-best-practices/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Mistake 2 — URL without timestamp",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "quote": "OSINT can be a highly effective method of complementing and corroborating other types of evidence, but where should lawyers interested in using OSI in their work start, and what are some of the best techniques and tools to use?",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Mistake 3 — Hash without capture context",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "quote": "(Oxford University Press 2020). The book is an introduction to open source investigation methods, as well as OSI’s history, and relevant ethical and security considerations. It includes contributions from some of the best open source practitioners and academics in the world.",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Mistake 4 — Archive URL without understanding archive limits",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "quote": "As for methods, it’s important to build online search skills and verification skills, and to understand how access and human and machine biases might interfere with an objective search. On the team at Berkeley,",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
-   },
+   }
+  ],
+  "突き合わせ・推定": [
    {
-    "quote": "Mistake 5 — Preserving only derived artifacts",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 6 — Capturing everything",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 7 — No research question",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 8 — No limitation note",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 9 — Publicly archiving sensitive material",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 10 — Assuming one file format solves evidence",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 11 — Relying on proprietary storage only",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mistake 12 — No backup",
-    "url": "https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow",
+    "quote": "There are both pros and cons to using open source information as evidence in litigation. A significant pro is its ability to complement more traditional testimonial, physical and documentary evidence. Incorporating such digital data allows for triangulation and corroboration of survivors’ testimonies.",
+    "url": "https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ]
  },
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-06T15:02:21.264875+00:00"
 }

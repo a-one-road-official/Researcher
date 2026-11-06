@@ -8,20 +8,180 @@
  ],
  "context": "探し方",
  "kind": "market",
- "researched_at": "2026-11-06T19:29:00.684390+00:00",
+ "researched_at": "2026-11-06T23:51:09.107422+00:00",
  "evidence": {
-  "検索結果の抜粋": [
+  "実例": [
    {
-    "quote": "OpenCorporates vs Companies House vs SEC EDGAR for Company ... — May 27, 2026 · OpenCorporates Role: Registry-derived company records across supported jurisdictions First-pass company verification, jurisdiction lookup, company-number checks, officer/director pivots, and public-register source discovery. Read this evidence lane against the comparison methodology and limits instead of treating any p",
-    "url": "https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/",
+    "quote": "検索結果に表示される 13 桁の番号が法人番号です",
+    "url": "https://www.ssl-store.jp/houjin-bangou/",
     "pass": 3,
     "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   },
    {
-    "quote": "Luke Shepherd - RegTech, FinTech & AI Platforms | Entity ...OpenCorporates - LinkedInEdgar E-File Solutions Pvt. Ltd. | LinkedInLegal-entity data you can trust | OpenCorporates - LinkedIn IndiaEdgar Fuk Hung Lau - MBA, MEC, ACG, MCMI | LinkedIn RegTech, FinTech & AI Platforms | Entity Verification & Financial Crime Compliance | Legal Entity Data @ OpenCorporates · Connecting FinTech, RegTech, and ",
-    "url": "https://uk.linkedin.com/in/luke-shepherd-332a11173",
+    "quote": "法人登記の検索が必要になる具体的なケースは？",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "補助金の概要や各制度の内容に加え、会社設立直後の企業でも使いやすい補助金や実際の活用事例などについてまとめました",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "マネーフォワード クラウド会社設立の導入事例",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事業承継におけるお家騒動とは？事例や回避する方法を解説",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "種類株式とは？事業承継に活用するメリット・方法や組み合わせ事例を解説",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業融資に担保は必要？日本政策金融公庫の制度や不要なケースを解説",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "社会福祉法人とは？設立を検討すべきケースやメリット・注意点を解説",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "会社名のアイデアの出し方は？ネーミングに役立つフレームワークや事例、注意点を解説",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ビジネスモデルとは？作り方や構成要素、フレームワーク、面白い企業事例まで解説",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "水ビジネスは本当に儲かる？市場規模や将来性・企業事例を解説",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事前確定届出給与の届出期限はいつまで？出し忘れや支給日のズレによる否認事例も解説",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事業譲渡の登記は必要？不要なケースや例外、具体的な手続きの流れを解説",
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に新規取引を行う際には、相手企業が実在する法人かどうかを確認するために、法人登記番号を照会するケースが少なくありません",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なぜなら、似たような商号を持つ企業が存在するケースがあるためです",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果には、以下のような情報が表示されます",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "近年では、経理システムや顧客管理システムと連携し、自動で法人情報を取得するケースも増えています",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「株式会社○○」と「○○株式会社」では検索結果が異なる場合があるため、会社名の表記順にも注意しなければなりません",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、検索時には全角・半角の違いや、スペースの有無、英語表記、略称の使用などによって、希望する法人情報が表示されないケースもあります",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検索結果が複数表示された場合は、商号だけで判断せず、本店所在地や法人種別などの情報もあわせて確認することが大切です",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に同じような商号を持つ企業が複数存在するケースでは、所在地を指定することで検索精度が大きく向上します",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、「東京都新宿区」「大阪府大阪市」「福岡県福岡市」といった本店所在地をあわせて検索することで、対象となる法人を絞り込みやすくなります",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同一グループ内で類似した商号を使用しているケースもあるため、所在地情報まで含めて確認することで誤認防止につながります",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "近年はインボイス制度の開始により、適格請求書発行事業者の登録番号確認が必要となったため、法人番号を基礎情報として活用するケースが増えています",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "例えば、顧客管理システムや会計ソフトと連携することで、企業情報入力の自動化や重複登録防止が可能になります",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "登記変更後すぐには最新情報が反映されないケースもあるため、重要な契約や審査を行う際には、登記事項証明書などもあわせて確認すると安心です",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法人番号自体は原則として変更されませんが、法人格変更など特殊なケースでは取り扱いが異なることもあります",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "When to use OpenCorporates versus SEC EDGAR for US company data. Registry coverage, filing depth, API access, pricing, and the 7,500-vs-36-million gap that defines which tool fits which use case.",
+    "url": "https://www.businessdataguide.com/blog/comparisons/opencorporates-vs-sec-edgar-us",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Compliance use cases for each tool",
+    "url": "https://www.businessdataguide.com/blog/comparisons/opencorporates-vs-sec-edgar-us",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -174,6 +334,28 @@
    {
     "quote": "helps prevent identity mistakes when the company name is not enough.",
     "url": "https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "このような場合でも、法人番号は原則として継続して使用されるため、過去情報と現在情報を照合する際には、法人番号を基準に確認するとスムーズです",
+    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Luke Shepherd - RegTech, FinTech & AI Platforms | Entity ...Edgar E-File Solutions Pvt. Ltd. | LinkedInOpenCorporates - LinkedInLegal-entity data you can trust | OpenCorporates - LinkedIn IndiaOver 300 million official company officer records are now in ... Connecting FinTech, RegTech, and AI builders with foundational, primary-sourced corporate registry data. When scaling automated compliance and",
+    "url": "https://uk.linkedin.com/in/luke-shepherd-332a11173",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Luke Shepherd - RegTech, FinTech & AI Platforms | Entity ...OpenCorporates - LinkedInEdgar E-File Solutions Pvt. Ltd. | LinkedInLegal-entity data you can trust | OpenCorporates - LinkedIn IndiaEdgar Fuk Hung Lau - MBA, MEC, ACG, MCMI | LinkedIn RegTech, FinTech & AI Platforms | Entity Verification & Financial Crime Compliance | Legal Entity Data @ OpenCorporates · Connecting FinTech, RegTech, and ",
+    "url": "https://uk.linkedin.com/in/luke-shepherd-332a11173",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -546,190 +728,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "このような場合でも、法人番号は原則として継続して使用されるため、過去情報と現在情報を照合する際には、法人番号を基準に確認するとスムーズです",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "検索結果に表示される 13 桁の番号が法人番号です",
-    "url": "https://www.ssl-store.jp/houjin-bangou/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人登記の検索が必要になる具体的なケースは？",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "補助金の概要や各制度の内容に加え、会社設立直後の企業でも使いやすい補助金や実際の活用事例などについてまとめました",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マネーフォワード クラウド会社設立の導入事例",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事業承継におけるお家騒動とは？事例や回避する方法を解説",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "種類株式とは？事業承継に活用するメリット・方法や組み合わせ事例を解説",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業融資に担保は必要？日本政策金融公庫の制度や不要なケースを解説",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "社会福祉法人とは？設立を検討すべきケースやメリット・注意点を解説",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "会社名のアイデアの出し方は？ネーミングに役立つフレームワークや事例、注意点を解説",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ビジネスモデルとは？作り方や構成要素、フレームワーク、面白い企業事例まで解説",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "水ビジネスは本当に儲かる？市場規模や将来性・企業事例を解説",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事前確定届出給与の届出期限はいつまで？出し忘れや支給日のズレによる否認事例も解説",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事業譲渡の登記は必要？不要なケースや例外、具体的な手続きの流れを解説",
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に新規取引を行う際には、相手企業が実在する法人かどうかを確認するために、法人登記番号を照会するケースが少なくありません",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なぜなら、似たような商号を持つ企業が存在するケースがあるためです",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果には、以下のような情報が表示されます",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "近年では、経理システムや顧客管理システムと連携し、自動で法人情報を取得するケースも増えています",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「株式会社○○」と「○○株式会社」では検索結果が異なる場合があるため、会社名の表記順にも注意しなければなりません",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、検索時には全角・半角の違いや、スペースの有無、英語表記、略称の使用などによって、希望する法人情報が表示されないケースもあります",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "検索結果が複数表示された場合は、商号だけで判断せず、本店所在地や法人種別などの情報もあわせて確認することが大切です",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "特に同じような商号を持つ企業が複数存在するケースでは、所在地を指定することで検索精度が大きく向上します",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、「東京都新宿区」「大阪府大阪市」「福岡県福岡市」といった本店所在地をあわせて検索することで、対象となる法人を絞り込みやすくなります",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同一グループ内で類似した商号を使用しているケースもあるため、所在地情報まで含めて確認することで誤認防止につながります",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "近年はインボイス制度の開始により、適格請求書発行事業者の登録番号確認が必要となったため、法人番号を基礎情報として活用するケースが増えています",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば、顧客管理システムや会計ソフトと連携することで、企業情報入力の自動化や重複登録防止が可能になります",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "登記変更後すぐには最新情報が反映されないケースもあるため、重要な契約や審査を行う際には、登記事項証明書などもあわせて確認すると安心です",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人番号自体は原則として変更されませんが、法人格変更など特殊なケースでは取り扱いが異なることもあります",
-    "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "When to use OpenCorporates versus SEC EDGAR for US company data. Registry coverage, filing depth, API access, pricing, and the 7,500-vs-36-million gap that defines which tool fits which use case.",
-    "url": "https://www.businessdataguide.com/blog/comparisons/opencorporates-vs-sec-edgar-us",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Compliance use cases for each tool",
-    "url": "https://www.businessdataguide.com/blog/comparisons/opencorporates-vs-sec-edgar-us",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "方法 1:国税庁 法人番号公表サイトから調べる(おすすめ)",
@@ -953,23 +951,26 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "OpenCorporates vs Companies House vs SEC EDGAR for Company ... — May 27, 2026 · OpenCorporates Role: Registry-derived company records across supported jurisdictions First-pass company verification, jurisdiction lookup, company-number checks, officer/director pivots, and public-register source discovery. Read this evidence lane against the comparison methodology and limits instead of treating any p",
+    "url": "https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/splseo/n/n63d7fa262b5e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/geeky_banker/n/n0e619bab49c5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/houjinbase/n/neff812ed9dec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/splseo/n/n63d7fa262b5e",
     "status": "ok",
     "method": "http"
    },
@@ -979,12 +980,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/geeky_banker/n/n0e619bab49c5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/konosho/n/n4464324f7443",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/sim_labo/n/n437b7714e770",
+    "url": "https://note.com/tantei_note/n/n533f95ab8e3b",
     "status": "ok",
     "method": "http"
    },
@@ -994,62 +1000,22 @@
     "method": "http"
    },
    {
-    "url": "https://opencorporates.com/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://houmukyoku.moj.go.jp/toyama/page000017.PDF",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://total-slawyer.com/blog/5462/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ssl-store.jp/houjin-bangou/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shiodome.co.jp/js/blog/8947",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www1.touki.or.jp/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://media.sherpaz.jp/corporate-number/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://b2bportal.jp/corporate-number",
     "status": "robots_disallowed",
     "method": ""
    },
    {
+    "url": "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://denwachek.com/column/how-to-search-company-info-from-corporate-number/",
     "status": "ok",
     "method": "http"
    },
@@ -1059,8 +1025,13 @@
     "method": "http"
    },
    {
-    "url": "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
+    "url": "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/establish/basic/88844/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -1069,34 +1040,39 @@
     "method": "browser"
    },
    {
+    "url": "https://opencorporates.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edgarcompany.sec.gov/servlet/CompanyDBSearch?page=main",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opencorporates.com/use-cases/entity-verification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.sec.gov/edgar/search/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://en.wikipedia.org/wiki/OpenCorporates",
+    "url": "https://www.businessdataguide.com/blog/comparisons/opencorporates-vs-sec-edgar-us",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://app.snowflake.com/marketplace/listing/GZTDZM1AK5/opencorporates-company-data",
+    "url": "https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/in/luke-shepherd-332a11173",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://www.sec.gov/search-filings",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://exposingtheinvisible.org/en/databases/opencorporates/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.businessdataguide.com/blog/jurisdictions/united-states-company-search-guide",
-    "status": "ok",
-    "method": "http"
    }
   ]
  },
@@ -1104,96 +1080,85 @@
   {
    "query": "登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR） site:note.com",
    "results": [
-    "https://note.com/splseo/n/n63d7fa262b5e",
-    "https://note.com/geeky_banker/n/n0e619bab49c5",
     "https://note.com/houjinbase/n/neff812ed9dec",
+    "https://note.com/splseo/n/n63d7fa262b5e",
     "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://note.com/geeky_banker/n/n0e619bab49c5",
     "https://note.com/konosho/n/n4464324f7443",
-    "https://note.com/sim_labo/n/n437b7714e770",
-    "https://note.com/tantei_note/n/n533f95ab8e3b"
+    "https://note.com/tantei_note/n/n533f95ab8e3b",
+    "https://note.com/sim_labo/n/n437b7714e770"
    ]
   },
   {
    "query": "登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR） note",
    "results": [
     "https://www.houjin-bangou.nta.go.jp/",
-    "https://opencorporates.com/",
-    "https://houmukyoku.moj.go.jp/toyama/page000017.PDF",
-    "https://total-slawyer.com/blog/5462/",
-    "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html",
-    "https://www.ssl-store.jp/houjin-bangou/",
-    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
-    "https://www1.touki.or.jp/operate/registered-use/corporation/company-id/",
-    "https://media.sherpaz.jp/corporate-number/",
-    "https://b2bportal.jp/corporate-number"
+    "https://b2bportal.jp/corporate-number",
+    "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
+    "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "https://denwachek.com/column/how-to-search-company-info-from-corporate-number/",
+    "https://toukishinsei.com/column/a-comprehensive-guide-to-searching-and-viewing-the-corporate-registry/",
+    "https://houjin.hakusyoportal.com/"
    ]
   },
   {
    "query": "登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR） やり方",
    "results": [
     "https://www.houjin-bangou.nta.go.jp/",
-    "https://opencorporates.com/",
-    "https://houmukyoku.moj.go.jp/toyama/page000017.PDF",
-    "https://www.ssl-store.jp/houjin-bangou/",
+    "https://b2bportal.jp/corporate-number",
+    "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "https://toukishinsei.com/column/a-comprehensive-guide-to-searching-and-viewing-the-corporate-registry/",
+    "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
     "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html",
-    "https://shiodome.co.jp/js/blog/8947",
-    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
-    "https://www1.touki.or.jp/",
-    "https://media.sherpaz.jp/corporate-number/"
+    "https://biz.moneyforward.com/establish/basic/88844/"
    ]
   },
   {
    "query": "登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR） 事例",
    "results": [
     "https://www.houjin-bangou.nta.go.jp/",
-    "https://opencorporates.com/",
-    "https://houmukyoku.moj.go.jp/toyama/page000017.PDF",
-    "https://www.ssl-store.jp/houjin-bangou/",
-    "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html",
-    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
-    "https://shiodome.co.jp/js/blog/8947",
-    "https://www.meti.go.jp/policy/digital_transformation/gbizinfo/",
-    "https://www1.touki.or.jp/",
-    "https://b2bportal.jp/corporate-number"
+    "https://b2bportal.jp/corporate-number",
+    "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
+    "https://toukishinsei.com/column/a-comprehensive-guide-to-searching-and-viewing-the-corporate-registry/",
+    "https://houjin.hakusyoportal.com/",
+    "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html"
    ]
   },
   {
    "query": "company registry verification OpenCorporates EDGAR",
    "results": [
     "https://opencorporates.com/",
+    "https://www.edgarcompany.sec.gov/servlet/CompanyDBSearch?page=main",
+    "https://opencorporates.com/use-cases/entity-verification/",
     "https://www.sec.gov/edgar/search/",
-    "https://www.youtube.com/watch?v=grahg9_EQ3c",
-    "https://en.wikipedia.org/wiki/OpenCorporates",
-    "https://app.snowflake.com/marketplace/listing/GZTDZM1AK5/opencorporates-company-data",
-    "https://www.sec.gov/search-filings",
-    "https://exposingtheinvisible.org/en/databases/opencorporates/",
-    "https://www.businessdataguide.com/blog/jurisdictions/united-states-company-search-guide",
-    "https://www.trustpilot.com/review/opencorporates.com",
-    "https://www.edgarcompany.sec.gov/servlet/CompanyDBSearch?page=main"
+    "https://www.businessdataguide.com/blog/comparisons/opencorporates-vs-sec-edgar-us",
+    "https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/",
+    "https://www.sec.gov/search-filings"
    ]
   },
   {
    "query": "site:note.com 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）",
    "results": [
-    "https://note.com/splseo/n/n63d7fa262b5e",
-    "https://note.com/geeky_banker/n/n0e619bab49c5",
     "https://note.com/houjinbase/n/neff812ed9dec",
     "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://note.com/splseo/n/n63d7fa262b5e",
+    "https://note.com/geeky_banker/n/n0e619bab49c5",
     "https://note.com/konosho/n/n4464324f7443",
-    "https://note.com/sim_labo/n/n437b7714e770",
-    "https://note.com/tantei_note/n/n533f95ab8e3b"
+    "https://note.com/tantei_note/n/n533f95ab8e3b",
+    "https://note.com/sim_labo/n/n437b7714e770"
    ]
   },
   {
    "query": "site:x.com 登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR）",
    "results": [
-    "https://x.com/compalyze/status/2075747108737675610",
-    "https://x.com/issei_vaigate/status/2114146010872058348",
-    "https://x.com/usonar_jp/status/1793501993354571973",
     "https://x.com/matsuimusashino/status/2071589769247850720",
-    "https://x.com/badtzryo1979/status/2101189546977235149",
+    "https://x.com/fennelofox/status/2108151837157371992",
+    "https://x.com/usonar_jp/status/1793501993354571973",
+    "https://x.com/issei_vaigate/status/2114146010872058348",
     "https://x.com/bz_office/status/2114296271574077854",
-    "https://help.x.com/ja/safety-and-security/email-and-phone-discoverability-settings"
+    "https://x.com/infocrestxx/status/2108096335409025064",
+    "https://x.com/machi_measure/status/2104065511185326292"
    ]
   },
   {
@@ -1203,8 +1168,8 @@
     "https://jp.linkedin.com/company/houjin-bangou",
     "https://www.linkedin.com/company/opencorporates",
     "https://in.linkedin.com/posts/opencorporates_search-300-million-official-company-officer-activity-7009550960427474944-8m_y",
-    "https://uk.linkedin.com/in/henriettagriffiths",
     "https://uk.linkedin.com/in/countculture",
+    "https://uk.linkedin.com/in/henriettagriffiths",
     "https://www.linkedin.com/posts/利明-和泉-331756322_顧客が会社を選ぶとき情報の速さだけでなく分からないことを分からないと言える担当者-activity-7515242863526481920-C59r"
    ]
   },
@@ -1217,57 +1182,57 @@
     "https://www.facebook.com/p/司法書士あおば綜合事務所-100069706580173/",
     "https://www.facebook.com/yurioffice/posts/httpswwwshihou-syoshinetyuriblo202104post-2066html大阪の女性司法書士-悠里司法書士行政書士事務所ブログ/3862446153838312/",
     "https://www.facebook.com/yurioffice/posts/httpswwwshihou-syoshinetyuriblo201910post-1849html大阪の女性司法書士-悠里司法書士行政書士事務所ブログ/2453858794697062/",
-    "https://www.facebook.com/yurioffice/posts/司法書士事務所も個人情報の取り扱いにもっと慎重にならなければなりません-httpstcoouznr4tu0p/1458863787529906/"
+    "https://www.facebook.com/100057489668461/posts/備忘録ノートその3登記の現場改め消滅会社被合併会社の会社法人等番号についてa登記上の抵当権者a商号変更b合併1抵当権抹消の前提として合併による抵当権移転が必要2/1887009914769829/"
    ]
   },
   {
    "query": "登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR） note 社長",
    "results": [
     "https://www.houjin-bangou.nta.go.jp/",
-    "https://opencorporates.com/",
-    "https://houmukyoku.moj.go.jp/toyama/page000017.PDF",
-    "https://www.ssl-store.jp/houjin-bangou/",
-    "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html",
-    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
-    "https://shiodome.co.jp/js/blog/8947",
-    "https://media.sherpaz.jp/corporate-number/",
-    "https://help.gmo-aozora.com/faqs/6686541defe214ffd6342abc/",
-    "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/"
+    "https://b2bportal.jp/corporate-number",
+    "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
+    "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
+    "https://denwachek.com/column/how-to-search-company-info-from-corporate-number/",
+    "https://toukishinsei.com/column/a-comprehensive-guide-to-searching-and-viewing-the-corporate-registry/",
+    "https://atsoho.com/blog/employers-corporate-registry-checking"
    ]
   },
   {
    "query": "登記簿・会社番号から会社を確かめる方法（法人番号・OpenCorporates・EDGAR） X 投稿",
    "results": [
-    "https://opencorporates.com/",
+    "https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/",
     "https://www.houjin-bangou.nta.go.jp/",
-    "https://houmukyoku.moj.go.jp/toyama/page000017.PDF",
-    "https://www.ssl-store.jp/houjin-bangou/",
-    "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/index.html",
-    "https://corporate.ai-con.lawyer/articles/copy-of-register/15",
-    "https://shiodome.co.jp/js/blog/8947",
-    "https://media.sherpaz.jp/corporate-number/",
-    "https://biz.moneyforward.com/establish/basic/88844/",
-    "https://b2bportal.jp/corporate-number"
+    "https://b2bportal.jp/corporate-number",
+    "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
+    "https://kanpou.ai/guide/houjin-bangou",
+    "https://toukishinsei.com/column/a-comprehensive-guide-to-searching-and-viewing-the-corporate-registry/",
+    "https://biz.moneyforward.com/establish/basic/88844/"
    ]
   },
   {
    "query": "company registry verification OpenCorporates EDGAR site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/five-ways-find-ultimate-beneficial-ownership-christian-focacci",
-    "https://uk.linkedin.com/in/aswathyreji",
-    "https://www.linkedin.com/posts/craigjsilverman_each-edition-of-our-free-weekly-indicator-activity-7412172439423471616-U0r0",
-    "https://www.linkedin.com/posts/lauraviji_china-linked-targeting-what-should-activity-7511815374032683008-chjk",
-    "https://www.linkedin.com/pulse/osint-powerful-tool-aml-fraud-investigations-mikael-gustafsson-7mqbc",
-    "https://www.linkedin.com/posts/virajacharya_max-lemmens-gtm-elevenlabs-on-how-he-explains-activity-7382721903762767872-HcUI",
-    "https://in.linkedin.com/in/nikita-upadhyay-a784151a8",
-    "https://www.linkedin.com/posts/ivaylo-penev-18154295_elevenlabs-has-officially-arrived-in-brussels-activity-7511391428850266112-gSAo",
-    "https://www.linkedin.com/in/vahid-sazegara",
-    "https://www.linkedin.com/in/leighton-weston"
+    "https://www.linkedin.com/posts/opencorporates_how-factset-automated-entity-matching-against-activity-7505566085459509248-Nn37",
+    "https://www.linkedin.com/posts/craigjsilverman_theres-a-new-free-tool-you-can-use-to-search-activity-7491565498061733889-br3t",
+    "https://uk.linkedin.com/in/luke-shepherd-332a11173",
+    "https://in.linkedin.com/company/edgar-efile-solutions-pvt-ltd",
+    "https://ca.linkedin.com/company/opencorporates",
+    "https://in.linkedin.com/posts/opencorporates_search-300-million-official-company-officer-activity-7009550960427474944-8m_y",
+    "https://it.linkedin.com/posts/opencorporates_search-300-million-official-company-officer-activity-7009550960427474944-8m_y"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 15,
+ "new_this_run": {
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Luke Shepherd - RegTech, FinTech & AI Platforms | Entity ...Edgar E-File Solutions Pvt. Ltd. | LinkedInOpenCorporates - LinkedInLegal-entity data you can trust | OpenCorporates - LinkedIn IndiaOver 300 million official company officer records are now in ... Connecting FinTech, RegTech, and AI builders with foundational, primary-sourced corporate registry data. When scaling automated compliance and",
+    "url": "https://uk.linkedin.com/in/luke-shepherd-332a11173",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 16,
  "first_researched_at": "2026-11-05T02:52:32.017389+00:00"
 }

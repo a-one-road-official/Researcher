@@ -5002,7 +5002,7 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -6766,6 +6766,10 @@
   - 「The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「In this euro area example, the efficient-release step selects」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Still others come from methodological changes or benchmark updates.」（https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/）
+  - 「The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.」（https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/）
+  - 「In this euro area example, the efficient-release step selects」（https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/）
+  - 「The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.」（https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/）
 - 突き合わせ・推定：
   - 「Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.」（https://ropensci.org/blog/2026/04/13/reviser/）
@@ -6797,6 +6801,7 @@
   - 「The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「(rationality tests), i.e. revisions should not be biased and therefore present a zero mean, revisions should be small」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.」（https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/）
 - 実例：
   - 「A compact example with GDP vintages」（https://ropensci.org/blog/2026/04/13/reviser/）
   - 「The package ships with a GDP example dataset in long vintage format.」（https://ropensci.org/blog/2026/04/13/reviser/）
@@ -6810,7 +6815,10 @@
   - 「shown the usefulness of using vintages for forecasting, see for example Garrat et al. (2008), Kishor and Koenig」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
   - 「the CV-VAR approach can improve the forecast of the initial announcements for most of the cases compared to」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
   - 「significant and there is no case where the V -VAR model generates a statistically significant better forecast than」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+  - 「A compact example with GDP vintages」（https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/）
+  - 「The package ships with a GDP example dataset in long vintage format.」（https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/）
+  - 「In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.」（https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
 
 ## 指数の基準年の改定と遡及の作り直し系列を当時の公表値とつながない実務（基準改定・rebasing・backcast）（index rebasing backcast series contemporaneous publication statistical break）
 - 文脈：手順・やり方
@@ -7745,6 +7753,8 @@
   - 「The Berkeley Protocol follows in the footsteps of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「lawyers on how to recognize and document the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「consistent methods, which both strengthen the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+- 突き合わせ・推定：
+  - 「There are both pros and cons to using open source information as evidence in litigation. A significant pro is its ability to complement more traditional testimonial, physical and documentary evidence. Incorporating such digital data allows for triangulation and corroboration of survivors’ testimonies.」（https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/）
 - 一次情報の探し方：
   - 「PDF Portable Document Format」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
@@ -7793,7 +7803,6 @@
   - 「such cases, while the information is observable」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「human rights cases, open source intelligence is」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「making functions – for example, to inform」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
 
 ## 会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検）（fiscal year calendar year alignment comparing statistics company data）
 - 文脈：失敗

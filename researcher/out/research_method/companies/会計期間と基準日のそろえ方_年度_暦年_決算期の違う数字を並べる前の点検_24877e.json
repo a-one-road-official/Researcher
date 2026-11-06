@@ -8,8 +8,178 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-06T19:21:25.122796+00:00",
+ "researched_at": "2026-11-06T23:43:18.254342+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "象徴的な事例が、OpenAI向け「Stargate」計画の旗艦拠点の一つであるニューメキシコ州のProject Jupiterである",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年7月14日に結果が出た2028/2029年度分も、域内全体で上限の325ドルに張り付き、確保量は138,318MWだった",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "原油高によるインフレ、財政赤字に伴う国債増発、実質金利の上昇が重なった結果である",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その結果、2030年末までに3.5兆ドル超のAIインフラ投資が減損リスクにさらされ、現在の投資ペースが続けば2032年までに4兆ドル超の資産価値が評価減の対象になり得るとした",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "競争の結果として、単純なAPIトークン販売の利益率には圧力がかかる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば各工程の成功率を99％と仮定し、100工程が独立して全て成功しなければならない場合、単純な連続成功確率は0.99の100乗で約36.6％となる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第14章で見た社債発行の急増はその結果である",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば一年に十分な発電量があっても、変圧器の交換待ちや送電線増強の遅れで特定サイトの接続が不能なら、発表したGPU容量を商用運転できない",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この状況を定量的に考えるため、企業は少なくとも以下の3つのケースを置くとよい",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "基本ケースはAI処理件数が拡大し、価格下落が緩やかで、新設備の稼働率が高い状態",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "供給過剰ケースは小型モデルと推論最適化が進み、タスク当たりGPU秒数が急減し、新GPU・HBM供給量が需要を上回り、時間貸し単価が下落する状態",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "供給不足ケースはエージェント・動画・複雑な推論の利用量が効率改善より速く増え、電力・メモリ・建設に遅れが残り、API制限や料金上昇が続く状態である",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いずれのケースでも、売上が伸びることと投資利益が得られることは別々に評価する",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PJM｜2026年7月14日、2028/2029年度容量市場入札結果（一次資料）",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それでも、セールスフォースのように11年で株式報酬232億ドル・自社株買い320億ドルを費やして株数が44.5%増えているケースを見ると、還元と希薄化が同時進行している構図は見えてきます",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人工知能分野の人材獲得に極めて大きな報酬パッケージを提示してきた結果が、この残高に表れているとみるのが自然です",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それが結果を決めたのであって、株式報酬そのものが良いか悪いかを示しているわけではありません",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株式報酬の絶対額が突出していても、それを上回る現金創出力があれば株主の持ち分は守れるという実例です",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "結果として希薄化後株式数は11年で13.5%増えました",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "時価総額世界最大級の企業が、自ら見栄えを良くする調整を降りた事例になります",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府による出資や受託製造事業の受注積み上げが期待を集めた結果です",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "結果として希薄化後株式数は11年で35.2%減りました",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PBR42.0倍という数字は、自社株買いの結果として自己資本が極端に薄くなっていることの裏返しでもあります",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株式報酬がなくても人材は集まり、企業価値は積み上がるという実例が、時価総額1兆ドル超という形でそこにあります",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実測の結果を書いてきましたが、限界も正直に共有しておきます",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "バックテストの結果は過去11年という特定の期間のものです",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "原題は業績なき報酬という意味で、株式報酬が本来の動機づけとして機能せず、経営陣が株主から価値を引き出す装置になっている構図を、豊富な実例とともに論じています",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "供給不足で高値が付く時期ほど、その後の投資判断を誤りやすい",
@@ -103,6 +273,140 @@
    },
    {
     "quote": "ここで判断を誤りやすいのが、仮決算のコストの見積りである",
+    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第30章 予測リストの検証――何がすでに起き、何が極端か",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "現時点の最重要仮説は、需要不足か供給不足かの二者択一ではない",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Goldman SachsはCoWoSの生産能力が2026年の約128万枚から2027年に約273万枚へ倍増すると推計している",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これらは証券会社の推計であり、会社の計画値ではない",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アナリストはメモリ事業だけで約110兆ウォンを稼いだと推計し、NVIDIAのVera Rubin向けHBM4の出荷も寄与したとされる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生産能力は月30万枚前後とされ、SemiAnalysisは2026年末に月35万枚に達し、Micron（月38.5万枚）に迫ると推計している",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bloombergは2026年4月、米国で2026年に稼働予定だったデータセンター容量（12〜16GWと推計）のうち、実際に建設中なのは約5GWにとどまり、3〜5割が遅延か中止になる可能性があると報じた",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3分の1という比率はFT自身の推計か解説側の要約か、原文で確認できていないため、目安として扱いたい",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提示された弱気予測には、OpenAIとAnthropicがOSS規制に失敗し、Googleが性能の高いGeminiを大幅に安く提供し、xAIがGrokのオープン化を進め、AI企業のARR成長が鈍化するという仮説が含まれる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OSSの「禁止」も対象となる法規制や行為が特定されなければ、検証できる命題ではない",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年換算売上は直近の一時点の売上を12倍した推計値で、総額計上か純額計上か、一時的な大口契約を含むかで大きく変わる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "従来の人間との一問一答と、自律的に計画・検索・処理・検証を繰り返すエージェントは、計算需要が異なる",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "幻覚、不適切なツール操作、曖昧な指示への誤対応、長時間タスクの中断、例外処理の弱さが残れば、人間による監督と事後検証の費用が増える",
+    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただ、その制度を株主の側から眺めるとどう見えるのかを、数字で検証した記事はほとんど見当たりません",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "教科書に書いてある結論と、数字が示す結論はきれいに食い違いました",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここからは、通説の検証に入ります",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "売上の概念が当てはまりにくい金融・REITは、この検証から除きました",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ検証を株式報酬÷営業キャッシュフローでもやりました",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ヘルスケアや小売、エネルギーといった業種は、今回の検証でも株式報酬が最も軽いグループ（Q5）の常連でした",
+    "url": "https://note.com/umaki11/n/ned3be3c1c101",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "連結消去仕訳が止まる原因は照合の段取り、内部取引と未実現利益の実務",
     "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -380,310 +684,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第30章 予測リストの検証――何がすでに起き、何が極端か",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "現時点の最重要仮説は、需要不足か供給不足かの二者択一ではない",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Goldman SachsはCoWoSの生産能力が2026年の約128万枚から2027年に約273万枚へ倍増すると推計している",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これらは証券会社の推計であり、会社の計画値ではない",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "アナリストはメモリ事業だけで約110兆ウォンを稼いだと推計し、NVIDIAのVera Rubin向けHBM4の出荷も寄与したとされる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生産能力は月30万枚前後とされ、SemiAnalysisは2026年末に月35万枚に達し、Micron（月38.5万枚）に迫ると推計している",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bloombergは2026年4月、米国で2026年に稼働予定だったデータセンター容量（12〜16GWと推計）のうち、実際に建設中なのは約5GWにとどまり、3〜5割が遅延か中止になる可能性があると報じた",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3分の1という比率はFT自身の推計か解説側の要約か、原文で確認できていないため、目安として扱いたい",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "提示された弱気予測には、OpenAIとAnthropicがOSS規制に失敗し、Googleが性能の高いGeminiを大幅に安く提供し、xAIがGrokのオープン化を進め、AI企業のARR成長が鈍化するという仮説が含まれる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OSSの「禁止」も対象となる法規制や行為が特定されなければ、検証できる命題ではない",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "年換算売上は直近の一時点の売上を12倍した推計値で、総額計上か純額計上か、一時的な大口契約を含むかで大きく変わる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "従来の人間との一問一答と、自律的に計画・検索・処理・検証を繰り返すエージェントは、計算需要が異なる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "幻覚、不適切なツール操作、曖昧な指示への誤対応、長時間タスクの中断、例外処理の弱さが残れば、人間による監督と事後検証の費用が増える",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただ、その制度を株主の側から眺めるとどう見えるのかを、数字で検証した記事はほとんど見当たりません",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "教科書に書いてある結論と、数字が示す結論はきれいに食い違いました",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここからは、通説の検証に入ります",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "売上の概念が当てはまりにくい金融・REITは、この検証から除きました",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同じ検証を株式報酬÷営業キャッシュフローでもやりました",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ヘルスケアや小売、エネルギーといった業種は、今回の検証でも株式報酬が最も軽いグループ（Q5）の常連でした",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "連結消去仕訳が止まる原因は照合の段取り、内部取引と未実現利益の実務",
-    "url": "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "象徴的な事例が、OpenAI向け「Stargate」計画の旗艦拠点の一つであるニューメキシコ州のProject Jupiterである",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "IEAの「Energy and AI」（2025年4月）は、世界のデータセンター電力消費を2024年約415TWh、2030年の基本ケース約945TWhと推計した",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2026年7月14日に結果が出た2028/2029年度分も、域内全体で上限の325ドルに張り付き、確保量は138,318MWだった",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "原油高によるインフレ、財政赤字に伴う国債増発、実質金利の上昇が重なった結果である",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その結果、2030年末までに3.5兆ドル超のAIインフラ投資が減損リスクにさらされ、現在の投資ペースが続けば2032年までに4兆ドル超の資産価値が評価減の対象になり得るとした",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "競争の結果として、単純なAPIトークン販売の利益率には圧力がかかる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば各工程の成功率を99％と仮定し、100工程が独立して全て成功しなければならない場合、単純な連続成功確率は0.99の100乗で約36.6％となる",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第14章で見た社債発行の急増はその結果である",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば一年に十分な発電量があっても、変圧器の交換待ちや送電線増強の遅れで特定サイトの接続が不能なら、発表したGPU容量を商用運転できない",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この状況を定量的に考えるため、企業は少なくとも以下の3つのケースを置くとよい",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "基本ケースはAI処理件数が拡大し、価格下落が緩やかで、新設備の稼働率が高い状態",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "供給過剰ケースは小型モデルと推論最適化が進み、タスク当たりGPU秒数が急減し、新GPU・HBM供給量が需要を上回り、時間貸し単価が下落する状態",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "供給不足ケースはエージェント・動画・複雑な推論の利用量が効率改善より速く増え、電力・メモリ・建設に遅れが残り、API制限や料金上昇が続く状態である",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "いずれのケースでも、売上が伸びることと投資利益が得られることは別々に評価する",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PJM｜2026年7月14日、2028/2029年度容量市場入札結果（一次資料）",
-    "url": "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "それでも、セールスフォースのように11年で株式報酬232億ドル・自社株買い320億ドルを費やして株数が44.5%増えているケースを見ると、還元と希薄化が同時進行している構図は見えてきます",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "人工知能分野の人材獲得に極めて大きな報酬パッケージを提示してきた結果が、この残高に表れているとみるのが自然です",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "それが結果を決めたのであって、株式報酬そのものが良いか悪いかを示しているわけではありません",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "株式報酬の絶対額が突出していても、それを上回る現金創出力があれば株主の持ち分は守れるという実例です",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結果として希薄化後株式数は11年で13.5%増えました",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "時価総額世界最大級の企業が、自ら見栄えを良くする調整を降りた事例になります",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "政府による出資や受託製造事業の受注積み上げが期待を集めた結果です",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "結果として希薄化後株式数は11年で35.2%減りました",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PBR42.0倍という数字は、自社株買いの結果として自己資本が極端に薄くなっていることの裏返しでもあります",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "株式報酬がなくても人材は集まり、企業価値は積み上がるという実例が、時価総額1兆ドル超という形でそこにあります",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "実測の結果を書いてきましたが、限界も正直に共有しておきます",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "バックテストの結果は過去11年という特定の期間のものです",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "原題は業績なき報酬という意味で、株式報酬が本来の動機づけとして機能せず、経営陣が株主から価値を引き出す装置になっている構図を、豊富な実例とともに論じています",
-    "url": "https://note.com/umaki11/n/ned3be3c1c101",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "モデルが求める精度、ソフトウェア基盤、データ型、通信方式、コンパイラ、運用体制により総所有コストが変わる",
@@ -933,12 +933,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/junwatanabe72/n/nb4c7f877948e",
+    "url": "https://note.com/hirokimiyano/n/nae2be004bf29",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hirokimiyano/n/nae2be004bf29",
+    "url": "https://note.com/junwatanabe72/n/nb4c7f877948e",
     "status": "ok",
     "method": "http"
    },
@@ -958,9 +958,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/consolidated/commentary-consolidated-2013-12-13",
+    "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
@@ -974,6 +974,11 @@
    },
    {
     "url": "https://www.obc.co.jp/360/list/post433",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/consolidated/commentary-consolidated-2013-12-13",
     "status": "ok",
     "method": "http"
    },
@@ -1013,19 +1018,9 @@
     "method": "http"
    },
    {
-    "url": "https://otemachiprep.com/glossary/calendarization/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://biz.moneyforward.com/accounting/basic/75536/",
     "status": "http_403",
     "method": "http"
-   },
-   {
-    "url": "https://www.reddit.com/r/analytics/comments/1c5tar1/comparing_year_over_year_data/",
-    "status": "robots_disallowed",
-    "method": ""
    },
    {
     "url": "https://www.criadv.com/insight/decide-fiscal-calendar-tax-year/",
@@ -1033,14 +1028,9 @@
     "method": "browser"
    },
    {
-    "url": "https://site.financialmodelingprep.com/insights/data/how-to-align-earnings-dates-fiscal-quarters-estimates-and-reported",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://help.databox.com/switch-to-a-fiscal-calendar",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.reddit.com/r/analytics/comments/1c5tar1/comparing_year_over_year_data/",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://www.investopedia.com/terms/c/calendaryear.asp",
@@ -1048,7 +1038,17 @@
     "method": "http"
    },
    {
-    "url": "https://community.sigmacomputing.com/t/mastering-fiscal-period-metrics-with-sigma/3245",
+    "url": "https://site.financialmodelingprep.com/insights/data/how-to-align-earnings-dates-fiscal-quarters-estimates-and-reported",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-fiscal-year-setup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.databox.com/switch-to-a-fiscal-calendar",
     "status": "ok",
     "method": "http"
    }
@@ -1062,12 +1062,12 @@
     "https://note.com/kagawatomo/n/nfc3ca8f1e6ba",
     "https://note.com/umaki11/n/ned3be3c1c101",
     "https://note.com/kagawatomo/n/n6a1020b18070",
-    "https://note.com/junwatanabe72/n/nb4c7f877948e",
     "https://note.com/hirokimiyano/n/nae2be004bf29",
-    "https://note.com/jd_kayaba/n/n1b0cc3647c08",
+    "https://note.com/junwatanabe72/n/nb4c7f877948e",
     "https://note.com/tonesystem/n/n823fc028b030",
     "https://note.com/catalysinc/n/ndc156bef53b6",
-    "https://note.com/eyesworks/n/n73543134d3c1"
+    "https://note.com/jd_kayaba/n/n1b0cc3647c08",
+    "https://note.com/ikedon0505/n/n3d4e402301e3"
    ]
   },
   {
@@ -1076,7 +1076,7 @@
     "https://biz.moneyforward.com/accounting/basic/68465/",
     "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
     "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/consolidated/commentary-consolidated-2013-12-13",
+    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
     "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
     "https://renketsu.icas.imprex.co.jp/knowledge/consolidation-fiscal-year-end-differences/",
     "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
@@ -1096,21 +1096,21 @@
     "https://jicpa.or.jp/specialized_field/publication/files/2-11-0-2a-20120516.pdf",
     "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
     "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "https://renketsu.icas.imprex.co.jp/knowledge/consolidation-fiscal-year-end-differences/",
-    "https://otemachiprep.com/glossary/fiscal-year-calendar-conversion/"
+    "https://otemachiprep.com/glossary/fiscal-year-calendar-conversion/",
+    "https://shirugear.com/articles/fiscal-year-guide"
    ]
   },
   {
    "query": "会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検） 事例",
    "results": [
     "https://biz.moneyforward.com/accounting/basic/68465/",
-    "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
     "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/consolidated/commentary-consolidated-2013-12-13",
+    "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
     "https://www.obc.co.jp/360/list/post433",
-    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
-    "https://renketsu.icas.imprex.co.jp/knowledge/consolidation-fiscal-year-end-differences/",
     "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
+    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
+    "https://jicpa.or.jp/specialized_field/publication/files/2-11-0-2a-20120516.pdf",
+    "https://renketsu.icas.imprex.co.jp/knowledge/consolidation-fiscal-year-end-differences/",
     "https://otemachiprep.com/glossary/fiscal-year-calendar-conversion/",
     "https://www.yayoi-kk.co.jp/kaikei/oyakudachi/kaikeikikan/"
    ]
@@ -1118,15 +1118,15 @@
   {
    "query": "fiscal year calendar year alignment comparing statistics company data",
    "results": [
-    "https://www.reddit.com/r/analytics/comments/1c5tar1/comparing_year_over_year_data/",
     "https://www.criadv.com/insight/decide-fiscal-calendar-tax-year/",
-    "https://site.financialmodelingprep.com/insights/data/how-to-align-earnings-dates-fiscal-quarters-estimates-and-reported",
-    "https://help.databox.com/switch-to-a-fiscal-calendar",
+    "https://www.reddit.com/r/analytics/comments/1c5tar1/comparing_year_over_year_data/",
     "https://www.investopedia.com/terms/c/calendaryear.asp",
+    "https://site.financialmodelingprep.com/insights/data/how-to-align-earnings-dates-fiscal-quarters-estimates-and-reported",
+    "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-fiscal-year-setup",
+    "https://help.databox.com/switch-to-a-fiscal-calendar",
     "https://community.sigmacomputing.com/t/mastering-fiscal-period-metrics-with-sigma/3245",
     "https://www.hblcpa.com/fiscal-year-vs-calendar-year/",
-    "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-fiscal-year-setup",
-    "https://www.indeed.com/career-advice/career-development/fiscal-year",
+    "https://www.ibm.com/docs/en/apptio-platform/fcs/saas?topic=services-fiscal-calendar",
     "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29"
    ]
   },
@@ -1138,23 +1138,23 @@
     "https://note.com/umaki11/n/ned3be3c1c101",
     "https://note.com/mone_desu/n/nd2421c5e9861",
     "https://note.com/mfg_profitatlas/n/nb7df191c8bc4",
-    "https://note.com/astrolabinc/n/nefb2fe66277a",
+    "https://note.com/2025onkochishin/n/na2e2b56595f8",
     "https://note.com/shingeki_saisei/n/nbef848b1dac8",
     "https://note.com/kdtakagi/n/nbb0a7417baad",
-    "https://note.com/lemuria793/n/n732e36bf2c4d",
-    "https://note.com/aigx/n/n0800a149dd7b"
+    "https://note.com/astrolabinc/n/nefb2fe66277a",
+    "https://note.com/lemuria793/n/n732e36bf2c4d"
    ]
   },
   {
    "query": "site:x.com 会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検）",
    "results": [
     "https://x.com/oyasenmon/status/2080225066285940966",
-    "https://x.com/otemachiprep/status/2110273155977613589",
     "https://x.com/nagi_cpa_tax/status/2106149257397096580",
     "https://x.com/kita_yysskk/status/2058076916234830252",
+    "https://x.com/otemachiprep/status/2110273155977613589",
     "https://x.com/us_stock_zukai/status/2111585547495829634",
     "https://x.com/keiri_investor/status/2111096968814772413",
-    "https://x.com/ASBJ_Japan"
+    "https://x.com/houjinzei_guide/status/2094924048849645769"
    ]
   },
   {
@@ -1163,21 +1163,21 @@
     "https://www.linkedin.com/pulse/会計年度バリアントの登録20230515-sap-red-dragon-liux",
     "https://www.linkedin.com/pulse/16-会計期間バリアントの登録20230421-sap-red-dragon-liux",
     "https://www.linkedin.com/pulse/会計期間の設定20230418-sap-red-dragon-liux",
-    "https://jp.linkedin.com/learning/microsoft-project-2021-and-project-online-desktop-client-essential-training/3204217",
     "https://jp.linkedin.com/posts/yoshiki-kumazawa-91988713_外資系企業におけるクオーターの使われ方-ビジネスや金融業界ではクオーター-activity-7378580217256312832-TewQ",
     "https://www.linkedin.com/pulse/会計期間バリアントを会社コードに割当する20230420-sap-red-dragon-liux",
-    "https://www.linkedin.com/pulse/using-advanced-date-ranges-filters-d365fo-ax-hylke-britstra-un2he/"
+    "https://www.linkedin.com/pulse/using-advanced-date-ranges-filters-d365fo-ax-hylke-britstra-un2he/",
+    "https://www.linkedin.com/posts/hirokazu-aoi-6215a5231_asbjssbjオープンセミナー2025我が国における会計基準及びサステナビリティ-activity-7301401951236235264-QXRw"
    ]
   },
   {
    "query": "site:facebook.com 会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検）",
    "results": [
-    "https://www.facebook.com/EYJapanOfficial/posts/2026年3月期決算に向けた会計の留意事項解説記事を公開-今年の決算では2026年3月期から適用される新会計基準金利為替変動物価上昇が会計処理へ与える影響退職給/1473884844749498/",
+    "https://www.facebook.com/EYJapanOfficial/posts/動画公開2025年3月期の決算上の留意事項-会計編-2025年3月期の-決算-に当たっての主な留意点の解説動画を公開中です改正法人税等会計基準グローバルミニマム/1165816928889626/",
     "https://www.facebook.com/kaisei.tax/photos/今日から4月4月は入学就職のシーズンです暦における一年の始まりは1月ですがこれとは別に官公庁では4月から始まって翌年の3月まで続く会計年度があります会計年度とは/538082736333526/",
-    "https://www.facebook.com/baudit.japan/posts/令和8年次の検査検査実施期間-7年10月から8年9月までに当たって社会経済の動向等を踏まえつつ会計検査をより効率的かつ効果的に行い会計検査院に課された使命を的確/1094175946231559/",
+    "https://www.facebook.com/EYJapanOfficial/posts/2026年3月期決算に向けた会計の留意事項解説記事を公開-今年の決算では2026年3月期から適用される新会計基準金利為替変動物価上昇が会計処理へ与える影響退職給/1473884844749498/",
     "https://www.facebook.com/acctexcel/posts/excel財報分析中有個最基本的期間差異比較本文簡單以兩期損益表差異金額及比率為例介紹addressrowcolumnindirect等函數組合應用設計管理報表/2284878701679332/",
     "https://www.facebook.com/KPMG.JP/posts/2025年3月期決算の留意事項会計-2025年3月期決算で原則適用される改正企業会計基準第27号法人税住民税及び事業税等に関する会計基準などについてあずさ監査法/1051857626961434/",
-    "https://www.facebook.com/EYJapanOfficial/posts/動画公開2025年3月期の決算上の留意事項-会計編-2025年3月期の-決算-に当たっての主な留意点の解説動画を公開中です改正法人税等会計基準グローバルミニマム/1165816928889626/",
+    "https://www.facebook.com/baudit.japan/posts/令和8年次の検査検査実施期間-7年10月から8年9月までに当たって社会経済の動向等を踏まえつつ会計検査をより効率的かつ効果的に行い会計検査院に課された使命を的確/1094175946231559/",
     "https://www.facebook.com/bugyo.obc/videos/定型業務9割削減40時間短縮の会計aiとは/4285903595006500/"
    ]
   },
@@ -1185,14 +1185,14 @@
    "query": "会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検） note 社長",
    "results": [
     "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
-    "https://biz.moneyforward.com/accounting/basic/68465/",
     "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
     "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/consolidated/commentary-consolidated-2013-12-13",
+    "https://biz.moneyforward.com/accounting/basic/68465/",
     "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
     "https://note.com/gentle_whale205/n/nacbbb94f6294",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://renketsu.icas.imprex.co.jp/knowledge/consolidation-fiscal-year-end-differences/",
+    "https://note.com/shingeki_saisei/n/nbef848b1dac8",
     "https://jicpa.or.jp/specialized_field/publication/files/2-11-0-2a-20120516.pdf",
+    "https://www.obc.co.jp/360/list/post433",
     "https://www.yayoi-kk.co.jp/kaikei/oyakudachi/kaikeikikan/"
    ]
   },
@@ -1201,14 +1201,13 @@
    "results": [
     "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
     "https://biz.moneyforward.com/accounting/basic/68465/",
-    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/consolidated/commentary-consolidated-2013-12-13",
     "https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/",
     "https://www.obc.co.jp/360/list/post433",
-    "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/consolidated/commentary-consolidated-2013-12-13",
     "https://jicpa.or.jp/specialized_field/publication/files/2-11-0-2a-20120516.pdf",
-    "https://renketsu.icas.imprex.co.jp/knowledge/consolidation-fiscal-year-end-differences/",
+    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
     "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://www.yayoi-kk.co.jp/kaikei/oyakudachi/kaikeikikan/"
+    "https://renketsu.icas.imprex.co.jp/knowledge/consolidation-fiscal-year-end-differences/"
    ]
   },
   {
@@ -1216,11 +1215,11 @@
    "results": [
     "https://www.linkedin.com/posts/dinmmhs_sapanalyticscloud-sap-financialplanning-activity-7514975519663276032-qlew",
     "https://www.linkedin.com/pulse/product-owners-guide-financial-data-analytics-power-bi-kanika-sud-usldf",
+    "https://www.linkedin.com/in/john-keller-27739113",
     "https://www.linkedin.com/pulse/5-ways-analyze-retail-point-sale-scanned-sales-data-sue-nicholls",
     "https://www.linkedin.com/company/bureau-of-the-fiscal-service",
-    "https://uk.linkedin.com/in/denizcansuturan",
-    "https://www.linkedin.com/in/john-keller-27739113",
     "https://www.linkedin.com/in/diannachiu",
+    "https://uk.linkedin.com/in/denizcansuturan",
     "https://www.linkedin.com/in/johnmao",
     "https://www.linkedin.com/in/selen-onel-5324434",
     "https://www.linkedin.com/pulse/one-week-databricks-q1-why-2026-budget-moment-your-data-stratulat-qpele"
@@ -1229,6 +1228,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-06T15:02:12.184889+00:00"
 }
