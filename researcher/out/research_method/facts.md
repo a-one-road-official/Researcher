@@ -3713,30 +3713,30 @@
   - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「2 前項の規定にかかわらず、その公告方法が第939条第1項第1号（官報）又は第2号（時事に関する事項を掲載する日刊新聞紙）に掲げる方法である株式会社は、前項に規定する」（https://kanpo-ad.com/kaisya-kamoku1.html）
+  - 「決算公告の官報費用はいくら？枠数別の料金表と節約する3つの方法」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「会社規模別の費用シミュレーションと節約3つの方法を比較表で紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「3つの公告方法」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
   - 「１－１．困ったら経団連のひな型を読む」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「会社法施行規則及び会社計算規則による株式会社の各種書類のひな型（改訂版） - 2022年11月1日 より抜粋」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「上記は経団連ひな型の計算書類の項から、個別注記表を抜粋したものです」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「１－２．決算公告の方法」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「ただし、決算公告の方法によっては、要旨だけ掲載すればよい場合もあります」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「公告の方法には下記3つがあります」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「公告の方法は、会社の定款に定めることができます」（https://note.com/isa99999/n/n7aadf977f2e7）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
+  - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
+  - 「一方、商業登記簿で公告方法を「官報」と届け出ている株式会社は推計217.9万社とされています」（https://media.denshi-kessan-koukoku.com/columns/chusho-kigyou-kessan-koukoku-jittai/）
+  - 「この記事では、中小企業における決算公告の実態を数字で検証しながら、なぜこれほど多くの企業が未履行なのか、実際に過料が科されるケースはどういう状況なのか、そして今すぐ合法的に対応する方法まで、順を追って解説します」（https://media.denshi-kessan-koukoku.com/columns/chusho-kigyou-kessan-koukoku-jittai/）
+  - 「登記簿上「官報」を公告方法とする株式会社数（推計）」（https://media.denshi-kessan-koukoku.com/columns/chusho-kigyou-kessan-koukoku-jittai/）
+  - 「国税庁推計の株式会社総数（2021年度）」（https://media.denshi-kessan-koukoku.com/columns/chusho-kigyou-kessan-koukoku-jittai/）
+  - 「定時株主総会の議事録で承認された計算書類の日付と照合する」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hinagata/）
+  - 「株主総会日から逆算し、遅くとも総会の2週間後には原稿を提出する」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hinagata/）
+  - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hinagata/）
   - 「前期と今期の純資産を比較することで、利益の増減を推定できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「ただし、前期と今期の純資産の差額から大まかな利益・損失の傾向を推定することは可能です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「前期比での純資産の変化から、損益の傾向を間接的に推定できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「法務部員が知っておくべき「二段の推定」とは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「この場合、印字された内訳（株主資本・負債の部の各科目など）から合計を算出し、資産合計との一致を検証できた行だけを表示しています」（https://kaijiwire.jp/guide/kessan-kokoku）
-  - 「「検証中」は、その期の公告に当期純利益の印字はあるが、符号または単位の判読を検証中のため非掲載にしていることを示します」（https://kaijiwire.jp/guide/kessan-kokoku）
-  - 「期の区切りは前後の期末からの推定で、欠落した期を詰めずに軸上に空きを残して描きます」（https://kaijiwire.jp/guide/kessan-kokoku）
-  - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「10 ACCOUNTING POLICIES, ESTIMATES AND ERRORS」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
-  - 「Accounting Policies, Estimates and Errors」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
-  - 「Amendment to introduce the definition of ‘accounting estimate’ to help entities distinguish changes in accounting estimates from changes in accounting policies (see」（https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2025/issued/html-ifrs-for-smes.html）
 - 一次情報の探し方：
   - 「皆さんは非上場の会社の決算公告と聞いて何を思い浮かべますか？」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「には、非上場会社であっても決算を公告する義務が規定されているものの、多くの中小企業で決算公告がおこなわれてないのが実情のようです」（https://note.com/isa99999/n/n7aadf977f2e7）
@@ -3758,33 +3758,33 @@
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「中小企業の経営者や経理担当者が陥りやすい落とし穴が2つあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「20〜40%が一般的な目安（業種によって異なる）、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「流動比率が100%を下回る場合、短期的な支払い義務が短期間に現金化できる資産を上回っていることを意味し、資金繰りの悪化サインとして注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「ただし、中小企業の決算公告はB/Sのみのため、売上成長率や利益率の比較はできない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「株式会社の決算公告を調べる際と対象を混同しないようご注意ください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「電子公告の場合は要旨ではなく全文の掲載が必要で、かつ5年間の継続掲載義務がある点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
+  - 「ただし電子公告は5年間の継続掲載が必要で、「要旨」ではなく「全文」を掲載する必要がある点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
+  - 「ミス4: 科目名の誤り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「特に注意すべきは「当期純利益（又は当期純損失）」の付記です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「「資産合計」は三区分の合計で、「負債及び純資産合計」と一致しなければなりません（一致しない場合は記載誤りです）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「この「付記」は省略できない必須事項であり、見落としがちな点ですので注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
+  - 「中小企業が官報決算公告で陥りやすい3つの落とし穴」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-chusho-kigyou/）
+  - 「落とし穴1: 申込タイミングが遅すぎる」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-chusho-kigyou/）
 - 実例：
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「そのため、官報掲載の会社であっても電子公告ページを持っているケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「経済産業省の商工業実態基本調査によると、製造業の中小企業では20%台が一つの基準となるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（前編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（後編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「スポットでも使える「補助＋代理権付与」【事例紹介】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「高齢になった収益不動産オーナーの資産管理＜家族信託による解決事例＞」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「記入済みサンプルで見る貸借対照表の要旨【実例つき】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「この付記を忘れるケースが非常に多いため、必ず確認してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「貸借対照表の数値だけを転記して満足してしまい、損益計算書の数値である当期純利益の付記を忘れるケースが後を絶ちません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「「流動資産は千円単位、固定資産は円単位」のように、同じ表の中で異なる単位が混在するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「端数処理（四捨五入・切り捨て）の結果、資産合計と負債及び純資産合計に差異が生じることがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「「資本準備金」と「資本剰余金」を混同するケース、「当期未処分利益」と「利益剰余金」を取り違えるケースが見られます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「実務上、積極的に摘発されるケースは多くありませんが、法的リスクとして認識しておく必要があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「近年はコンプライアンス意識の高まりから、取引先や金融機関が決算公告の実施を確認するケースも増えています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
+  - 「つまり、義務はあるのに実際に掲載しているケースがごく少数という現実があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
@@ -5599,32 +5599,33 @@
   - 「今回は以前から温めていた課題「テキスト分類（名寄せ）作業、生成AIでなんとか楽にできないか？」を解決するため、Databricksを使っていろいろ検証した過程を記事にしました」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
   - 「fers are for the same real-world product) of the clusters estimated」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
   - 「pairs in total. Overall, the noise level in the sample is estimated」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「so that they can estimate the performance of different matching」（https://d-nb.info/1351217534/34）
-  - 「the performance estimated in this way is only meaningful if both」（https://d-nb.info/1351217534/34）
-  - 「dataset is unknown, these numbers have to be estimated. Heise」（https://d-nb.info/1351217534/34）
-  - 「metrics and evaluation strategies that try to estimate matching」（https://d-nb.info/1351217534/34）
-  - 「Chaudhuri et al. [7] can estimate the quality of the whole match-」（https://d-nb.info/1351217534/34）
-  - 「viations from the majority votes can be used to estimate the」（https://d-nb.info/1351217534/34）
+  - 「5つのアルゴリズムと照合キー戦略の組み合わせが、企業データ運用の上限を決めます」（https://salesnow.jp/media/125/）
+  - 「基本の仕組み・5つのマッチングアルゴリズム・設計5ステップ・前処理（正規化・クレンジング）・照合キー戦略・精度を高める運用ポイント・ツール活用・アルゴリズム別の精度コスト比較・ROBOT PAYMENT事例・SalesNow MCPによる自然言語実装・着手前チェックリストまでを順に扱います」（https://salesnow.jp/media/125/）
+  - 「SFAやCRMの顧客データを企業データと突き合わせ、重複と表記ゆれを解消します」（https://salesnow.jp/media/125/）
+  - 「名寄せロジックは、大きく分けて「前処理（正規化）」「照合（マッチング）」「判定（統合/非統合の決定）」の3層構造で成り立っています」（https://salesnow.jp/media/125/）
+  - 「第2層：照合」（https://salesnow.jp/media/125/）
+  - 「完全一致方式とは、照合対象の文字列が一字一句同じ場合のみ「一致」と判定するマッチング方式です」（https://salesnow.jp/media/125/）
 - 一次情報の探し方：
   - 「特許スクリーニングをAIで効率化｜最大80％の工数削減事例と導入メリット | Hakky Handbook」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
   - 「本記事では特許調査における膨大な文献のスクリーニング作業をAIで効率化する方法を解説します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
   - 「provides profiling information for all variants of the benchmark.」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
   - 「4 BENCHMARK PROFILING」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
   - 「[36] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「完全一致方式を採用する場合は、事前の正規化処理が不可欠です」（https://salesnow.jp/media/125/）
+  - 「金融機関や大手企業など、判定の透明性が求められる組織で多く採用されています」（https://salesnow.jp/media/125/）
+  - 「SalesNowは独自のJCコードを基準に名寄せを行い、法人番号を公的キーとして紐づけて管理しているため、ユーザーのCRM/SFAデータに法人番号を自動付与することもできます」（https://salesnow.jp/media/125/）
+  - 「同社はSalesNowを導入し、独自のJCコードを基準とした照合ロジックを採用することで名寄せ率を以前の3倍まで引き上げました」（https://salesnow.jp/media/125/）
+  - 「☐ 採用するマッチングアルゴリズム（完全一致/あいまい一致/類似度スコアリング/ルールベース/AI）の組み合わせが決まっている」（https://salesnow.jp/media/125/）
   - 「with traditional profiling metrics and three new metrics for mea-」（https://d-nb.info/1351217534/34）
   - 「solely on profiling benchmark datasets and grouped 21 benchmarks」（https://d-nb.info/1351217534/34）
   - 「according to five profiling metrics, namely schema complexity, tex-」（https://d-nb.info/1351217534/34）
   - 「profiling metrics allow for better comparability of quality metrics」（https://d-nb.info/1351217534/34）
   - 「sidered. Moreover, profiling metrics that measure the difficulty or」（https://d-nb.info/1351217534/34）
-  - 「Frost supports a wide range of profiling metrics for measuring」（https://d-nb.info/1351217534/34）
-  - 「dataset’s difficulty together with additional profiling dimensions.」（https://d-nb.info/1351217534/34）
-  - 「real-world matching task. A suitability score based on profiling」（https://d-nb.info/1351217534/34）
-  - 「[49] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark」（https://d-nb.info/1351217534/34）
-  - 「http://ceur-ws.org/Vol-1486/paper_43.pdf」（https://d-nb.info/1351217534/34）
 - 失敗・落とし穴：
   - 「respective other class(es). In order to prevent selection bias to-」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
   - 「reduce selection bias. As the basis for the later generation of the」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
   - 「of similarity metrics, we avoid biasing the benchmark towards a」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
+  - 「ただし、十分な学習データ（一般的に数千件以上の正解ペア）が必要であり、導入初期のコストが高い点に注意が必要です」（https://salesnow.jp/media/125/）
   - 「partition. While this technique is unbiased, it may also only」（https://d-nb.info/1351217534/34）
   - 「1. This technique has the advantage of unbiasedly representing」（https://d-nb.info/1351217534/34）
   - 「occurrences within an attribute do not bias the𝑛𝑢𝑙𝑙𝑅𝑎𝑡𝑖𝑜 . Calculat-」（https://d-nb.info/1351217534/34）
@@ -7415,11 +7416,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
@@ -7512,6 +7513,8 @@
   - 「決算公告をホームページで行う方法を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「中小企業が官報で決算公告する費用・記載項目・申込手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「存続会社になれない整備法37条のルール、消滅会社になる場合の費用・手順を解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+- 突き合わせ・推定：
+  - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 一次情報の探し方：
   - 「官報の決算公告に損益計算書は載る？大会社と中小企業の違いを解説 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「官報の決算公告に損益計算書は載る？大会社と中小企業の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
@@ -7560,7 +7563,8 @@
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「公告する貸借対照表の項目の数次第となりますが、「2枠」又は「3枠」に収まるケースが多いでしょう」（https://shiodome.co.jp/js/blog/13590）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 検索結果の抜粋：
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...多くの中小企業において、官報で行う決算公告には何を記載するか | RS...大会社の決算公告【記載例】貸借対照表・損益計算書の要旨と電子公告 ...決算公告義務——知らないと過料も？中小企業が知っておくべきルール - ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小」（https://www.kigyou-houmu.com/secret-4/）
 
 ## 分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書）（building synonym lists across domains patent vs paper terminology search strategy）
 - 文脈：手順
@@ -7614,7 +7618,7 @@
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「仮に調査の結果，自社の」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ
@@ -8122,7 +8126,7 @@
   - 「such cases, while the information is observable」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「human rights cases, open source intelligence is」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「making functions – for example, to inform」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
 
 ## リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない）（real-time data vintage analysis first release versus latest vintage practice）
 - 文脈：改訂
