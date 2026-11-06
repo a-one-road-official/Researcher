@@ -1,0 +1,5095 @@
+{
+ "name": "防衛装備の維持整備費の推移",
+ "en": "Japan defense equipment maintenance cost trend",
+ "aliases": [
+  "維持整備費 推移 防衛",
+  "防衛 維持整備 経費 推移",
+  "装備品 維持整備 増加"
+ ],
+ "context": "一次・防衛白書・場面①",
+ "kind": "market",
+ "researched_at": "2026-11-06T16:40:04.314916+00:00",
+ "evidence": {
+  "AM・3Dプリンタ": [
+   {
+    "quote": "URL：\u0007 https://www.mod.go.jp/j/policy/agenda/guideline/pamph/",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "契約品目には「戦術ＡＩ衛星実証機の試作」がある",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "極超音速誘導弾の研究試作（その 1 ） 1 式 584 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "島嶼防衛用高速滑空弾の要素技術（その 3 ）の研究試作 1 式 339 川崎重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "極超音速誘導弾の研究試作（その 2 ） 1 式 629 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "装備庁 極超音速誘導弾の研究試作（その 3 ） 1 式 585 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2023年度：研究試作 1 式584億円，2024年度：1 式629億円，2025年度：1 式585億円），⑤",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AMRO事務局長兼CEOの視点（2）―中東紛争下での経済見通し",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PRI Open Campus ～財務総研の研究・交流活動紹介～ 55",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 装備品の可動数向上や安定的かつ計画的な取得を行うために必要となる品質の検証などを含む、3Dプリンタの活用に関する調査等を実施（3億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＊8）GCAP：Global Combat Air Programme",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "０３式中距離地対空誘導弾（中SAM） 三菱電機株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "０４式空対空誘導弾（AAM-5） 三菱重工業株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高出力レーザーや高出力マイクロ波といった指向性エネルギー技術の研究等を推進",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 三次元積層造形技術(３Dプリンタ)の活用に関する調査等(３億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ＤＣＳ：Damage Control Surgery",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "する加盟国間で衛星の通信帯域を共有する枠組であるＰＡＴＳ（Pr otected Anti-jam",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 Maintenance/Enhancement of Function of Military Camps/Bases to Serve as Hubs for",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 SACO-Related Expenses(Item Request without Specific Amount of the Budget)",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅶ Streamlining Initiatives ４２",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "secure ammunition and ensure maintenance of equipment.",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "field, Japan will enhance research and development into potential game-",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to achieve greater efficiency and streamlining through various measures",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to streamline procurements while harmonizing with other policies and",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- Material expenses (Contract fees for newly necessary programs) are ¥3.8388 trillion, a significant increase from the",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "technologies that are potentially game-changing, a ¥79.6 billion (37.6%) increase and the highest amount ever",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Excluding SACO-related, U.S. Forces realignment-related, government aircraft and national resilience expenses (expenses under the Medium Term Defense Program）",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In total, the amount of SACO-related expenses is: FY2021: (Expenditure) ¥14.4 billion; (Future obligation concerning new contracts) ¥3.5 billion;",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The total amount of U.S. Forces realignment-related expenses (the portion allocated for mitigating the impact on local communities) is:",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2: Blue text indicates new programs.",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "newly formed. The former will be in charge of detecting jamming against Japan’s satellites;",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Develop a system that enables seamless interoperability between",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "exercises (Schriever Wargame, etc.) hosted by the U.S.",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "trainings (sample image)",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Update onboard equipment and retrofit airframe to improve",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ Enhance surveillance capabilities of vessels’ radio detection and jamming equipment (¥0.3 billion)",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In order to enhance surveillance capabilities, modify radio detection and jamming devices that detect",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Strengthening Capability to Minimize Electromagnetic Jamming from Opponents Attempting",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "procured in FY2022 (same as FY2019-2022)",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "missiles, increasing ammunition payload, and improving electronic",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Conduct joint electronic warfare training among the GSDF,",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What fundamentally changed this situation was the release of three strategic documents in 2022—the National Security Strategy, the National Defense Strategy, and the Defense Buildup Program",
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. The government should promptly begin revising the Defense Buildup Program for fiscal year 2028 and beyond to enhance predictability for defense firms and encourage the formulation of medium-term investment plans.",
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. The Ministry of Defense should amend the Defense Production Base Reinforcement Act to encourage upfront investment decisions by companies and expand their production base by:",
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5. The Cabinet Office, the Ministry of Education, Culture, Sports, Science and Technology, the Ministry of Economy, Trade and Industry (METI), and the Ministry of Defense should increase budget allocations for projects that fall between grant programs supporting advanced dual-use technology research and development (R&D) and full-scale defense equipment R&D that involves producing prototypes.",
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "#Europe and Americas Group",
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "1 2025 年度防衛関係費の概要",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 装備品の取得や施設整備などの事業について、当該年度に支払われる額の合計",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 装備品の取得や施設整備などの事業について、当該年度に結ぶ契約額の合計",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度防衛関係費",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "として8兆4,748億円 （対前年度比7,498億円 （9.7％）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は、 2025年度中に着手すべき事業",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "億円 （対前年度比9,293億円 （9.9％） 減） を計上した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表Ⅱ -3-2-1 （防衛関係費の 2024 年度と 2025 年度",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "移） 、 図表Ⅱ-3-2-3 （ 2025年度予算の配分 （ 15区",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表Ⅱ-3-2-1 防衛関係費の2024年度と2025年度の比較",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "区 分 令和6 （2024） 年度",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和7 （2025） 年度",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これらを含めた防衛関係費の総額は、 歳出額については、 令和6 （2024） 年度は",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "79,496億円、 令和7 （2025） 年度は87,005億円になり、 後年度負担額については、 令和6 （2024） 年度は141,926億円、 令和7 （2025） 年度は160,350億円になる",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度に引き続き、 射程や速度、 飛翔の態様、 対処目",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度中に、 国産の1",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（地上発射型） の配備を開始し、 同誘導弾 （艦艇発射型）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "型誘導弾についても2025年度から量産に着手する予定",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "米国製のトマホークについては、 2025年",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛2025_2-3.indd 218防衛2025_2-3.indd 218 2025/06/12 9:23:442025/06/12 9:23:44",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "て、 2025年度末から、P",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料：令和7（2025）年度予算の概要",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表Ⅱ-3-2-2 防衛関係費（当初予算）の推移",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成9年度予算を",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年 8 月，ビジネス週刊誌『週刊ダイヤモンド』は「大激変！軍事ビジネス＆自衛隊，",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "コマツ 2019年 軽装甲機動車",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイセル 2020年 パイロット緊急脱出装置，火薬など",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三井Ｅ＆Ｓ造船 2021年 艦艇 三菱重工業に事業譲渡",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "横河電気 2021年 航空機コックピット用ディスプレイ ＯＫＩに事業譲渡",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ＫＹＢ 2022年 ブレーキ，アクチュエータなど油圧機器",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "住友重機械工業 2022年 新型機関銃 機関砲などは継続",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）『週刊ダイヤモンド』2022年8月27日号，27ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大阪経大論集・第77巻第 3 号・2026年 9 月 37",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度予算のため事業の予見性が確保できず，経営計画が立てられないことなど，企業側の",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いずれにせよ，このような状況は 4 か月後の2022",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は 1 年前倒し で2026年中に三文 書を改定して，軍拡経済（軍事と経済の相互関係）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2）『週刊ダイヤモンド』2022年 8 月27日号，26～27ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは高市内閣でいっそう鮮明になり，高市内閣が2025年11月に決定した総合経済対策",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 3 月27日に決定した第 7 期科学技術・イノベーション基本計画では，「科学",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安保戦略を受 け，2023年６月に「防衛生産基盤強化法」（防衛省が調達する装備品等の",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6）国家安全保障会議決定・閣議決定「国家安全保障戦略」2022年12月16日，19ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお，2013年",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「国家安全保障戦 略」2013年12月17日，31ページ，下線は梅原）と書いていた",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7）同上（2022年国家安全保障戦略，以下同様），19～20，30ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9）防衛省『防衛白書（令和 7 年版）』日経印刷，2025年，199ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年11月21日， 4 ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "11）閣議決定「科学技術・イノベーション基本計画」2026年 3 月27日，44ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検討（Ⅰ）」『大阪経大論集』第77巻第 2 号，2026年 7 月，参照）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特集 令和8年度 防衛関係予算について : 財務省",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 農林水産関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 国土交通省・公共事業関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 防衛関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．令和8年度防衛関係予算の全体像",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度の防衛関係予算は、令和4年（2022年）12月16日の国家安全保障会議及び閣議において決定された「防衛力整備計画」等を踏まえて編成を行った結果、全体で9兆353億円（対前年度比＋3.8％）を計上している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を除く防衛力整備計画対象経費については、8兆8,093億円（対前年度比＋3.9％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表1：防衛関係予算の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、新規契約額については、8兆8,459億円（対前年度比＋0.6％）を計上しており、このうち防衛力整備計画対象経費については、8兆2,607億円（対前年度比▲2.0％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表2：新規契約額の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表1 防衛関係予算の推移",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "件数の推移": [
+   {
+    "quote": "うち人件・糧食費 22,290 23,508 1,218 5.5%",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "うち物件費 54,960 61,240 6,280 11.4%",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "省・自衛隊の調達先4425社の調査では，６割以上が",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8.9兆億円程度），（ｃ）「新たに必要となる事業に係る契約額（物件費）」を43.5兆円程度と",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "社会保障関係費 362,735 368,687 377,193 382,938 390,559 27,823 1.08",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（３）激増する物件費の契約額",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "とくに「新たに必要となる事業に係る契約額（物件費）」が43.5兆円に激増されたこと",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図をみれば，整備計画の43兆円は，①自衛隊員の給与や食事などのための「人件・糧食",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "費」11兆円，②「期限内（2023～27年度）に結ぶ契約に基づき期限内に支払う物件費」27",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "兆円，③「期限前（2022年度まで）に結んだ契約に基づき期限内に支払う物件費」 5 兆円",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "からなり，物件費の契約額43.5兆円は，②と④「期限内に結ぶ契約に基づき期限 後（2028",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度以降）に支払う物件 費」16.5兆円の合計だ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "契約ベースの物件費は歳出ベースの防衛関係費より増加が激しく，2022年度 3 兆4980億",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①人件・糧食費 11兆円",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "き期限内に支払う物件費 27兆円",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "づき期限内に支払う物件費 5兆円",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "き期限後に支払う物件費 16.5兆円",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 6 防衛関係費（歳出ベース）と物件費（契約ベース） ，後年度負担の推移（当初予算）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人件・糧食費 21,740 21,969 22,290 23,508 23,897 1.1",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "物件費 30,048 44,032 54,960 61,240 64,196 2.1",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般物件費（活動経費）（Ａ） 10,397 18,850 17,032 18,121 18,798 1.8",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "契約ベースの物件費（Ａ＋Ｂ） 34,980 89,525 93,625 84,332 82,607 2.4",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（物件費）43.5兆円（②＋④）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新たに必要となる事業に係る契約額（物件費） ４３兆５，０００億円程度 １７兆１，７００億円程度",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "→ 約 1,100 社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "→ 約 1,300 社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "→ 約 8,300 社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（令和２年度の実績）※180社中151社から得られた回答による（令和２年度調査では150社回答）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２０式５.５６mm小銃 豊和工業株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１２０mm迫撃砲RT 豊和工業株式会社（ライセンス国産）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１９式装輪自走１５５mmりゅう弾砲 株式会社日本製鋼所",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１０式戦車 車体：三菱重工業株式会社主砲：株式会社日本製鋼所",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１６式機動戦闘車 車体：三菱重工業株式会社主砲：株式会社日本製鋼所",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "０３式中距離地対空誘導弾（中SAM） 三菱電機株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "９１式携帯地対空誘導弾 株式会社東芝（現：東芝インフラシステムズ㈱）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "施設器材 ０７式機動支援橋 株式会社日立製作所",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１３式空挺傘 藤倉航装株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "野外入浴セット２型 伸誠商事株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "多用途ヘリコプターUH-2 株式会社SUBARU",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "観測ヘリコプターOH-1 川崎重工業株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対戦車ヘリコプターAH-1S 富士重工業株式会社（現： ㈱SUBARU）（ライセンス国産）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦闘ヘリコプターAH-64D 富士重工業株式会社（現： ㈱SUBARU）（ライセンス国産）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "多用途ヘリコプターUH-1J 富士重工業株式会社（現： ㈱SUBARU）（ライセンス国産）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "多用途ヘリコプターUH-60JA 三菱重工業株式会社（ライセンス国産）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "費等を除く歳出予算６兆6,001億円の内訳は、人件 ・ 糧食費が２兆1,969億円（前年度比1.1％",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歳出予算の構成比は33.3％）、物件費7のうち歳出化経費8が２兆5,182億円",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歳出予算の構成比は38.2％）、一般物件費9が１兆8,850億円",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "29 フィンランドのPatria社製の既存車両であるＡＭＶを取得する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（１）日米同盟強化及び地域社会との調和に係る施策等",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "る契約額（物件費）は43.5兆円程度とされて",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経費別では、人件・糧食費は従来から 2.2",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 物件費（契約額）と後年度負担額",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(1) 物件費（契約額）",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和６（2024）年度における物件費（契約",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(3) 防衛力整備計画における物件費（契約額）",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和５（2023）年度以降の物件費（契約額）",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表６）物件費（契約額）と新規後年度負担額の推移（令和６年４月１日現在）",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※令和７年度から９年度の物件費（契約額）8.4 兆円は、防衛力整備計画における物件費（契約額）総額 43.5",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "21 東京新聞社会部『兵器を買わされる日本』文藝春秋（2019）195-201頁",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "主体": [
+   {
+    "quote": "本的強化が達成でき、防衛省・自衛隊として役割をしっ",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省としても、かかる予算や税制措置の必要性に",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ特集の別の記事では，「防衛企業から見ても，防衛省向け取引は安定的な利益を",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安保戦略を受 け，2023年６月に「防衛生産基盤強化法」（防衛省が調達する装備品等の",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9）防衛省『防衛白書（令和 7 年版）』日経印刷，2025年，199ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府安全保障能力強化支援）で，防衛省以外の他省庁関連予算",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２．防衛関係費には防衛省情報システム関係経費のうちデジタル庁計上分を含まない",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これにより防衛関係費（防衛省情報システム関係経費のうちデジタル庁計上分を除く）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "20）防衛省「令和 6 年度予算の概要」2024年 3 月， 3 ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）防衛省「予算の概要」各年度，より作成",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "含まず，防衛省情報システム関連経費のうちデジタル庁計上分を含む",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）防衛省『防衛白書（令和 7 年版）』2025年，215ページ，より作成",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（４）激増する防衛装備庁の調達実績",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊の装備品等（火器，誘導武器，電気通信，",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "理・輸送など）の調達（契約）は，防衛装備庁が行う「中央調達」と，防衛省大臣官房長",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前者については防衛装備庁から実績資料が公表さ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお，防衛装備庁は安倍内閣が2015年10月に防衛省内の調達，研究開発等にかかる装備",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "較的大きい組織だ（中小企業庁は約200人）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "21）防衛装備庁「中央調達の概略（令和 7 年度版）」2026年 3 月， 6 ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "と防衛装備庁のサイト内を探したが，掲載されているのは個別機関の毎月の調達情報のみで，地方",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 7 防衛装備庁中央調達実績",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所） 防衛装備庁 「中央調達の概略 （令和 7 年度版）」",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）防衛装備庁「中央調達における調達実績」各年度，より作成",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "との契約品目（ 2 件298億円）は「防衛省ＯＡシステム基盤借上（換装）」と「防衛大学校",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24）以下，防衛装備庁「令和 7 年度中央調達実績」2026年 6 月，参照",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25）防衛省「令和 7 年度予算の概要」2024年12月， 8 ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＊1）防衛省情報システム関係経費のうちデジタル庁に計上する510億円を含む",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（H28 防衛装備庁調べ）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出典）令和3年度防衛装備庁装備政策部装備政策課企業アンケート調査結果",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "構成部品製造分野の例（分野名は経産省業種分類表による）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・「防衛省次世代情報通信戦略」を策定(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省・自衛隊のサイバー業務を支える外部人材の確保(０．５億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国防に関与し、防衛省・自衛隊のサイバー業務を支える意思・能力のある",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "省外のサイバー人材による、防衛省・自衛隊のサイバー業務への支援の確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省次世代情報通信戦略に示した新たな防衛情報通信基盤(仮称)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド基盤等の整備(７１８億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各自衛隊の一元的な指揮統制を可能とする防衛省クラウドを整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド地方拠点の整備(２０５億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省外で研究されている大学等の有望な萌芽的技術のうち、防衛分野における将来の研究開発に資す",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛力の強化や社会変革につながる機能・技術を創出するため、防衛省外から採用したプログラムマネー",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 防衛省ハラスメント防止対策有識者会議の提言を踏まえた各種教育機会等の充実(１億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 「防衛省女性・平和・安全保障(ＷＰＳ)推進計画」に基づき、各種取組を実施する",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（共同要望：経済産業省、内閣府、総務省、文部科学省、農林水産省、厚生労働省、国土交通省、環境省、 復興庁）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(共同要望：内閣官房、内閣府、警察庁、こども家庭庁、総務省、法務省、外務省、文部科学省、厚生労働省、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "14 その他の外国製ミサイルについて、当初、防衛省は射程約900kmの米国製ＬＲＡＳＭの導入も検討していた",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に遅延させるリスクがあることから、2021年８月５日に防衛省はＦ－15への搭載を見送ることを表明した",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ついて、防衛省は従来、センサーやシューターの能力を高めていくほか、ネットワークを",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "16 防衛省は、2019年度から、Ｆ－15近代化改修機について、スタンド・オフ・ミサイルの搭載、搭載弾薬数の",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24 従来、防衛省・自衛隊は、中期防等に基づいて、宇宙空間の安定的利用を確保するための宇宙状況監視（Ｓ",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛関係費においては、①防衛省・自衛隊で運用するシステムのリスク管理を継続的に",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "イバー安全保障研究室（仮称）」の新設、防衛省における「サイバー企画課（仮称）」及",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "28 防衛省『令和４年版防衛白書』によれば「装備品について、基本的な構成部品を共通化させつつ、機能、性",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "34 防衛省から外務省に出向した自衛官であり、在外公館に勤務し、各国の軍・国防当局や他国の駐在武官から",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "40 例えば、2022年10月21日、防衛省は、弾道ミサイル防衛に使用する迎撃ミサイルの保有数が必要量の６割程",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本の防衛産業について、国家防衛戦略には、「防衛省・自衛隊と共に国防を担うパート",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "程等の効率化、②防衛省と契約関係にある企業の防衛部門及びその下請企業に対する総合",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、予算書及び防衛省設置法第６条53において規定さ",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "52 統合幕僚監部、共同の部隊、情報本部、内部部局及び防衛装備庁をいう",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合幕僚監部に所属する自衛官、情報本部に所属する自衛官、内部部局に所属する自衛官及び防衛装備庁に",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "57 防衛省は、2011年以降、南西地域における防衛態勢の充実のため、馬毛島に自衛隊施設を整備するとともに、",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "場面・目的": [
+   {
+    "quote": "装備品などの維持整備費・可動確保 約9兆円（他分野も含め約10兆円） 1兆7,930億円（他分野も含め2兆355億円） 1兆9,094億円（他分野も含め2兆3,367億円） 1兆7,696億円（他分野も含め2兆2,247億円）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はじめに 「撤退ラッシュ」 （？）からの転換",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その最初の記事は「防衛事業からの撤退ラッシュ（スクー",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 1 防衛ビジネスから撤退した企業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プ！）」と題し，撤退する企業が相次ぐ状況を報じ（表 1 ），当時，撤退の意向を表明して",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 1 を見ても，撤退企業か ら事業を引き受ける企業もあり， 「何十年という長きにわ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "用，維持整備等を通じて防衛力を支える重要な要素である」 （国家安全保障会議決定・閣議決定",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を確保する取組（サプライチェーン調査・強靱化，製造工程の効率化，サイバーセキュリ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ティ強化，事業承継など）を進めるとともに，スタートアップ企業等新規企業の参入を促",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "契約品目には「戦術ＡＩ衛星実証機の試作」がある",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "極超音速誘導弾の研究試作（その 1 ） 1 式 584 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "島嶼防衛用高速滑空弾の要素技術（その 3 ）の研究試作 1 式 339 川崎重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "極超音速誘導弾の研究試作（その 2 ） 1 式 629 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "装備庁 極超音速誘導弾の研究試作（その 3 ） 1 式 585 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2023年度：研究試作 1 式584億円，2024年度：1 式629億円，2025年度：1 式585億円），⑤",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "常務理事（研究担当） 航空自衛隊補給本部長 第10師団長",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "監事 航空自衛隊補給本部長 航空自衛隊補給本部長",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 南西地域等の広大な空域において戦闘機等が粘り強く戦闘を継続するために必要な空中給油・輸送機（KC－46A）（2機：877億円）を取得するとともに、南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、補給品等（コンテナ）の輸送に特化した民間船舶（2隻：110億円）を確保（PFI方式）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、維持整備に係る成果の達成に応じて対価を支払う契約方式（PBL",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 陸自PBLを活用した特別輸送ヘリコプター（EC─225LP）の維持整備（▲35億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 海自PBLを活用した練習ヘリコプター（TH－135）の維持整備（▲27億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライヤの撤退や倒産により、",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 装備品の高度化・複雑化により、調達単価・維持整備費は増加傾向",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注１）：「装備品等の維持整備費」とは、陸海空各自衛隊の装備品等の修理や消耗品の代価及び役務費などに係る予算額（各自衛隊の修理費から、艦船の艦齢延伸及び航空機の近代化改修等のための修理費を除いたもの）を示す",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注２）：令和元年度～２年度の装備品等の維持整備費については、防災・減災、国土強靭化のための３か年緊急対策に係る経費を含む",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注４）：令和４年度の装備品等の維持整備費は、令和３年度補正予算込みの金額",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "め、主として補給品等(コンテナ)の輸送に特化したＰＦＩ船舶を",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注1:本文中の青字は新規事業を表示している",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等(コンテナ)の輸送に",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【装備品等の維持整備】約２兆１，４７２億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．無人アセット防衛能力 6人 新規装備品導入を踏まえた補給整備体制の強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅳ．日米同盟の強化 15人 佐世保弾薬補給所(前畑弾薬庫)の返還に係る体制強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "として、現有装備品の維持整備に加え、新しい装備品の購入や研究開発等にかかる経費の",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "議の焦点―」『立法と調査』No.427（2020.9.11）128～132頁及び佐久間惇「イージス・アショアの代替措置",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ティクス基盤システム（仮称）の整備38（134億円）など輸送・補給基盤の整備も実施する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "38 海上自衛隊は、部隊が要求する艦船、航空機用の部品等を必要な時に、必要な場所へ補給することを目的と",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "基づき、装備品の維持整備の経費として前年度比431.8倍となる２兆355億円が計上された",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "億円）についてＰＢＬ44による維持整備を推進する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "して、補給、艦船造修整備及び航空機造修整備に係るデータを一元的に処理して管理する海上自衛隊造修整",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要予測、在庫管理を企業の裁量に委ね、国際的なサプライチェーンを活用して、迅速な部品供給を実現で",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "的・一体的なサイバーセキュリティ対策の実施、③サプライチェーンの国産化といった代",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "替性を確保すること等によるサプライチェーンリスクへの対応、④防衛産業からの事業撤",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "退を表明している企業からの円滑な事業承継等となっている",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の乗組員となっている再任用自衛官を補給艦・試験艦等の補助艦の乗組員として配置拡大",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の主な内訳は、代替施設の建設に係る経費として、環境影響評価関連54億円、埋立工事1,666",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "性を始めとする評価項目を設け、代替案と比較考量した上で、取得要否の検討や仕様決定、部品選定等を行",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6 主要な事業の契約年限は、護衛艦は４～５年、航空機は３～５年、誘導弾は４年程度、弾薬は２～３年、維持整備は１～",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "備品の取得・維持整備、施設整備、研究開発、",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7）ただし，これには，「43兆5000億円程度（維持整備等の事業効率化に資する契約の計画期間外の支",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金額が大きいのは，「装備品等の維持整備費・可動確保」9 兆円（全体の20.7％），「車両・",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それを反映して，2023年度では，①装備品等の維持整備費・可動確保（ 1 兆7930億円，",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それを反映して，2024年度で金額が多いのは，①装備品等の維持整備費・可動確保（ 1",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023，2024年度の 2 年間の合計では，①装備品等の維持整備費・可動確保（ 3 兆7024億",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "航空機等（41.9％），⑧装備品等の維持整備費・可動確 保（41.1％），⑨機動展開能力・国",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のため，製造工程の効率化やサイバーセキュリティの強化をはじめとする企業の取組を促",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "58）整備計画が43.5兆円程度について括弧書きで「（維持整備等の事業効率化に資する契約の計画期間",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "備型イージス・システム」（イージス・アショア）の代替だからである",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "期間・審査": [
+   {
+    "quote": "は、 防衛力整備計画期間内の防衛力抜本的強化実現に向",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "隊独自仕様を絞り込み、 取得にかかる期間を短縮する",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いずれにせよ，このような状況は 4 か月後の2022",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は計画期間後の2028年度以降に支払われる部分で，それを計画期間内（2023～27年度）で",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "少しでも早く必要な装備品を各部隊に届け運用できるよう，防衛力整備計画期間の初期に",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（修理期間435日超）を要する不具合が発見されていたことなどを報告している",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もう 1 つは「コスト変動調整率」の導入で，「生産期間中におけるコスト変動を考慮し，",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5次のトリセツ―FATF第5次対日相互審査で示す官民のチカラ― ―第1回：序論―",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個別の契約の履行期間に応じて、総原価に積算することで、",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度概算要求においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画期間内の防衛力の抜本的強化を実現するため、令和8年度中に着手すべき事業を積み上げるとともに、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画期間におけるこれまでの事業の進捗状況や予算の執行状況も踏まえ、歳出予算の要求額を着実に増額",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "改修期間の延長等を理由として、2021年度は予算計上等が見送られた",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "むことで、研究開発に要する期間を大幅に短縮し、将来の戦いにおいて実効的に対処する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同協定の主な内容は、①有効期間５年間（2022年度から2026年度まで）、",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "きであることを指摘した上で、 「特に重要な装備品の取得を進めるに当たっては、研究・開発に要する期間、",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "現行の防衛力整備計画（令和５（2023）～令和９（2027）年度）は、同期間内の歳出総額を",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかしながら、当該期間内に締結され",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ぞれの製造期間に長短があるため、数か年度",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "既定分となって増加し、同計画期間終了時に",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "されて支払われるが、残額の16.5兆円は期間",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いて防衛力整備計画は、「本計画期間中、2023",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・期間内歳出として次期防衛力整備計画に充てること",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "少するため、維持費や期間内に完成・納入となる装",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・期間外歳出（後年度負担額）は26.5兆円に増加",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "つ、期間外歳出（後年度負担額）を現行の計画の16.5兆円に維持する場合",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・案①と同様、期間内歳出の減少により、防衛力整備",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "案③ 物件費（契約額）総額及び期間外歳出（後年度負担額）を現行の計画の43.5兆円",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・物件費（契約額）総額、期間内歳出及び期間外歳出",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "つ、期間外歳出（後年度負担額）を10兆円に減少させる場合",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "案⑤ 物件費（契約額）総額を現行の計画の43.5兆円に維持し、期間外歳出（後年度負",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・既定分と期間内歳出の増加により、歳出総額は61兆",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "総額43.5兆円 うち期間内歳出 27兆円 うち期間外歳出 （後年度負担額） 16.5兆円",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（契約額）総額を維持しても、期間外歳出（後",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "次期防衛力整備計画においては、期間外歳",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "額は、現行の計画期間中における後年度負担",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "42 第211回国会参議院財政金融委員会、外交防衛委員会連合審査会会議録第1号９頁（令5.5.30）前田政府参考人（財務省",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "て期間内歳出を求める必要があり、容易に理",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "45 第 211 回国会衆議院財務金融委員会安全保障委員会連合審査会議録第２号 13 頁（令 5.4.26）、衆議院財務金融委員会議",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "48 第211回国会衆議院財務金融委員会安全保障委員会連合審査会議録第２号13頁（令5.4.26）鈴木財務大臣答弁",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7）ただし，これには，「43兆5000億円程度（維持整備等の事業効率化に資する契約の計画期間外の支",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10） 1 ％枠に代えて，「［中期防の］期間中の各年度の防衛関係経費については，同計画に定める所要経",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「期間内［2023～2027年度］に結ぶ 契約に基づき期間内に支払う物件費」 （27兆円），③",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「期間前［2022 年度まで］に結んだ契約に基づき期間内 に支払う物件費」（5兆 円 ），④",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「期間内に結ぶ契約に基づき期間後［2028年度以降］に支払う物件費」（16.5兆円）で，43",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「期間前［2022年度まで］に結んだ契約に基づき期間後［2028年度以降］に支払う物件費」",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "58）整備計画が43.5兆円程度について括弧書きで「（維持整備等の事業効率化に資する契約の計画期間",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このように，整備計画期間終了後 の2028年度以降にも負",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "体，機関，武器等多数の契約に分かれる複雑なものであり，それぞれの製造期間に長短が",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "84）安保 3 文書はいずれも「おおむ ね10年間の期間を念頭に置いてい る」が，安保戦略はその中で",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額の推移": [
+   {
+    "quote": "2 装備品の取得や施設整備などの事業について、当該年度に結ぶ契約額の合計",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "として8兆4,748億円 （対前年度比7,498億円 （9.7％）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "億円 （対前年度比9,293億円 （9.9％） 減） を計上した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の比較） 、 図表Ⅱ -3-2-2 （防衛関係費 （当初予算） の推",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "移） 、 図表Ⅱ-3-2-3 （ 2025年度予算の配分 （ 15区",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "79,496億円、 令和7 （2025） 年度は87,005億円になり、 後年度負担額については、 令和6 （2024） 年度は141,926億円、 令和7 （2025） 年度は160,350億円になる",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 予算額には、 デジタル庁にかかる経費を含む",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料：令和7（2025）年度予算の概要",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表Ⅱ-3-2-2 防衛関係費（当初予算）の推移",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10年連続減少 13年連続増加",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成9年度予算を",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "発作業について、 2025年度予算を着実に執行し、 開発",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表Ⅱ-3-2-3 2025年度予算の配分（15区分）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "区 分 分 野 5年間の総事業費 2023年度事業費 2024年度事業費 2025年度事業費",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スタンド・オフ防衛能力 約5兆円 1兆4,130億円 7,127億円 9,390億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合防空ミサイル防衛能力 約3兆円 9,829億円 1兆2,284億円 5,331億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無人アセット防衛能力 約1兆円 1,791億円 1,146億円 1,110億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "宇宙 約1兆円 1,529億円 984億円 2,119億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サイバー 約1兆円 2,363億円 2,026億円 2,615億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "車両・艦船・航空機など 約6兆円 1兆1,763億円 1兆3,391億円 1兆1,385億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 3 防衛関係費の推移（当初予算）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 3 防衛関係費の推移（当初予算） （続き）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "97ページ），1964年度以降は財務総合政策研究所『財政金融統計月報』各年度予算特集（財務省のホームページ掲載） ，",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 ．②と③は主要（重要）経費別内訳で当初予算",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのための予算水準が現在の国内総生産（ＧＤＰ）の 2 ％に達するよう，所要の措置を講",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度の防衛関係費 5 兆3687億円の2 .1倍である",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "という防衛関係費以外の他省庁関連予算（ 1 兆円程度）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を含むので，それを差し引いても 2 倍近い規模になる",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こうして「 1 ％枠」は一挙に倍増",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8.9兆億円程度），（ｃ）「新たに必要となる事業に係る契約額（物件費）」を43.5兆円程度と",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（ａ）は1.57倍，（ｂ）は1.59倍，（ｃ）は2.53倍に増大された（表 4 ）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "区分 中期防衛力整備計画（2019～2023年度） 防衛力整備計画（2023～2027年度） 増加率（倍）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①整備計画の実施金額 27兆4700億円程度 43兆円程度 1.57",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "②各年度の予算編成に伴う防衛関係費の総額 25兆5000億円程度 40兆5000億円程度 1.59",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "総額 17兆1700億円程度 43兆5000億円程度 2.53",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）防衛力整備計画では，②の2027年度の金額を 8 兆9000億円程度としている",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 5 一般会計歳出予算の主要経費別内訳（当初予算）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特集 令和8年度 防衛関係予算について : 財務省",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 農林水産関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 国土交通省・公共事業関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 防衛関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．令和8年度防衛関係予算の全体像",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度の防衛関係予算は、令和4年（2022年）12月16日の国家安全保障会議及び閣議において決定された「防衛力整備計画」等を踏まえて編成を行った結果、全体で9兆353億円（対前年度比＋3.8％）を計上している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を除く防衛力整備計画対象経費については、8兆8,093億円（対前年度比＋3.9％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表1：防衛関係予算の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、新規契約額については、8兆8,459億円（対前年度比＋0.6％）を計上しており、このうち防衛力整備計画対象経費については、8兆2,607億円（対前年度比▲2.0％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表2：新規契約額の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表1 防衛関係予算の推移",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表2 新規契約額の推移",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２．令和8年度予算における主要事業",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度予算は、防衛力の整備等に必要な事業を着実に推進しているところ、その主な内容は以下のとおりである",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 我が国に侵攻してくる艦艇や上陸部隊等に対して、対空ミサイル等の脅威圏外から対処するスタンド・オフ防衛能力を抜本的に強化するため、極超音速誘導弾及び地上装置等の取得等（1,927億円、うち初度費1,626億円）、潜水艦発射型誘導弾の取得（160億円）、12式地対艦誘導弾能力向上型（艦発型）の取得（357億円）、JSM（空対艦ミサイル）（36億円）及びJASSM（空対地ミサイル）（17億円）の取得等を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ イージス・システム搭載艦の整備に伴い、各種試験の準備等（797億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 弾道ミサイル、巡航ミサイル、極超音速滑空兵器等の迎撃能力を強化するため、SM－3ブロックⅡA（弾道ミサイル防衛用迎撃ミサイル）（723億円）、SM－6（長距離艦対空ミサイル）（107億円）を取得",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 弾道ミサイル等への対処能力を向上させるため、ペトリオット・システムの改修（77億円、うち初度費72億円）を開始",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 警戒管制能力の強化のため、次世代JADGE（仮称）の整備（547億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 安価かつ大量のUAV・USV・UUVを活用し、これらの組み合わせによる多層的沿岸防衛体制（SHIELD）の構築（1,001億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 情報収集・警戒監視・偵察・ターゲティング機能の強化のため、UAV（広域用）の取得（111億円）及び滞空型UAV「MQ－9B（シーガーディアン）」の取得等（765億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 現在運用中のⅩバンド防衛通信衛星（きらめき1号）の後継機として、抗たん性や通信能力等が向上された次期防衛通信衛星を整備するとともに、令和7年度から製造を開始する現防衛通信衛星（きらめき2号）の後継機の打上げに向けて地上器材等の整備（882億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "素材の内訳": [
+   {
+    "quote": "・ニッケル、アルミ、合金等",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・アルミ、ニッケル",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/pdf/202605g.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ajda.jp/publics/index/143/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-defense.ikaros.jp/docs/mod/005039.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2017pdf/20171201081.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8672140&contentNo=24",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ichigayariku.com/2025jp-defense-budget/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/press/wp/wp2024/html/n230203000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/seifuan2026/19.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F1006490&contentNo=1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-maintenance-repair-operations-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/japan-defence-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-defense-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/japan-aerospace-and-defense-market",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "防衛装備の維持整備費の推移 推移",
+   "results": [
+    "https://www.mof.go.jp/public_relations/finance/202605/pdf/202605g.pdf",
+    "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "https://ajda.jp/smarts/index/143/",
+    "https://j-defense.ikaros.jp/docs/mod/005039.html",
+    "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2017pdf/20171201081.pdf",
+    "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "https://www.nippon.com/ja/articles/-/10170",
+    "https://www.meti.go.jp/files/900013521.pdf",
+    "https://www.inoue-satoshi.com/parliament/配付資料190207②.pdf"
+   ]
+  },
+  {
+   "query": "防衛装備の維持整備費の推移 年度別",
+   "results": [
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/index.html",
+    "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "https://j-defense.ikaros.jp/docs/mod/005039.html",
+    "https://ajda.jp/smarts/index/143/",
+    "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2017pdf/20171201081.pdf",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F8672140&contentNo=24",
+    "https://ichigayariku.com/2025jp-defense-budget/",
+    "https://www.meti.go.jp/files/900013521.pdf",
+    "https://www.mod.go.jp/j/press/wp/wp2024/html/n230203000.html"
+   ]
+  },
+  {
+   "query": "防衛装備の維持整備費の推移 件数 pdf",
+   "results": [
+    "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/seifuan2026/19.pdf",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F1006490&contentNo=1",
+    "https://www.ssri-j.com/MediaReport/DocumentJPN/FY21Budget.pdf",
+    "https://www.meti.go.jp/files/900013521.pdf"
+   ]
+  },
+  {
+   "query": "Japan defense equipment maintenance cost trend",
+   "results": [
+    "https://www.imarcgroup.com/japan-maintenance-repair-operations-market",
+    "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "https://www.sphericalinsights.com/reports/japan-defence-market",
+    "https://www.trade.gov/market-intelligence/japan-defense-industry",
+    "https://www.mordorintelligence.com/industry-reports/japan-aerospace-and-defense-market",
+    "https://en.wikipedia.org/wiki/Military_budget_of_Japan",
+    "https://straitsresearch.com/report/defence-equipment-market",
+    "https://www.kenresearch.com/japan-defense-market",
+    "https://www.statista.com/statistics/1225346/japan-defense-equipment-maintenance-expenses-mod/"
+   ]
+  },
+  {
+   "query": "site:note.com 防衛装備の維持整備費の推移",
+   "results": [
+    "https://note.com/adabana_sinsyo/n/n133e3db7ef13",
+    "https://note.com/yyukizi/n/n18554d2b167f",
+    "https://note.com/zz08/n/nd990bb870618",
+    "https://note.com/lively_zebra5840/n/na7686a6f5cae",
+    "https://note.com/hirokimiyano/n/na70be250ff3c",
+    "https://note.com/y44901726/n/n3c1aa277a237",
+    "https://note.com/fujita_fukushi/n/n8696006658ac",
+    "https://note.com/gijutsu_lab/n/n9a8a80214207",
+    "https://note.com/dataneko/n/n44534f61149a",
+    "https://note.com/takeokmt/n/nf5f19dd63804"
+   ]
+  },
+  {
+   "query": "site:x.com 防衛装備の維持整備費の推移",
+   "results": [
+    "https://x.com/KagawaTomo/status/2074110368088240636",
+    "https://x.com/nittaryo/status/2001656725297107015",
+    "https://x.com/KagawaTomo/article/2074235913388061168",
+    "https://x.com/fujikawa/status/2117026246253232428",
+    "https://x.com/fujikawa/status/2115207077073449077",
+    "https://x.com/iki_rikushi8492",
+    "https://x.com/kanetoyokubo/status/2037488773723025746",
+    "https://x.com/shift47ym",
+    "https://x.com/Maritime_InfoUK/status/2116163706887311486",
+    "https://x.com/BFbFkTBDaF65106"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 防衛装備の維持整備費の推移",
+   "results": [
+    "https://jp.linkedin.com/pulse/2035%E5%B9%B4%E3%81%AB1%E5%85%866751%E5%84%846000%E4%B8%87%E7%B1%B3%E3%83%89%E3%83%AB%E3%81%B8%E9%98%B2%E8%A1%9B%E3%83%AD%E3%82%B8%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%8C%E6%80%A5%E6%8B%A1%E5%A4%A7%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%871158%E6%AC%A1%E4%B8%96%E4%BB%A3%E9%98%B2%E8%A1%9B-7522875721350832128-g4mjc",
+    "https://ro.linkedin.com/jobs/view/%E3%80%90k632%E3%80%91%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%BA%81%E3%83%BB%E9%87%8D%E5%B7%A5%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%90%91%E3%81%91%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%93%81%E3%81%AE%E6%B3%95%E4%BA%BA%E5%96%B6%E6%A5%AD%EF%BC%88%E7%89%B9%E6%AE%8A%E6%A9%9F%E6%A2%B0%E9%83%A8-%E7%89%B9%E6%A9%9F%E5%96%B6%E6%A5%AD%E5%AE%A4%EF%BC%8F%E6%9D%B1%E4%BA%AC%EF%BC%89-at-kobe-steel-ltd-4480207978",
+    "https://jp.linkedin.com/pulse/%E8%80%81%E6%9C%BD%E5%8C%96%E3%81%97%E3%81%9F%E9%98%B2%E8%A1%9B%E8%A8%AD%E5%82%99%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%AB%E3%83%8D%E3%81%A7%E6%95%B4%E5%82%99%E3%81%99%E3%82%8B-%E5%85%AC%E4%B8%80-%E6%A4%8D%E6%9D%91",
+    "https://jp.linkedin.com/posts/preferred-networks_pfn%E3%81%AF%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%BA%81-%E6%96%B0%E4%B8%96%E4%BB%A3%E8%A3%85%E5%82%99%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%8C%E5%AE%9F%E6%96%BD%E3%81%99%E3%82%8B%E7%94%9F%E6%88%90ai%E7%AD%89%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E4%BD%9C%E6%88%A6%E7%92%B0%E5%A2%83%E6%83%85%E5%A0%B1%E5%88%86%E6%9E%90%E6%94%AF%E6%8F%B4%E5%AE%9F%E7%8F%BE-activity-7488141269462863872-WUmP",
+    "https://jp.linkedin.com/posts/crisis-intelligence_%E9%98%B2%E8%A1%9B%E7%94%A3%E6%A5%AD%E5%8F%82%E5%85%A5%E4%BF%83%E9%80%B2%E5%B1%95-dipex-%E6%9D%B1%E4%BA%AC-activity-7215884405024645120-lOI2",
+    "https://jp.linkedin.com/jobs/view/%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%93%81%EF%BC%88%E7%99%BA%E5%B0%84%E8%A3%85%E7%BD%AE%EF%BC%89%E3%81%AB%E9%96%A2%E3%82%8F%E3%82%8B%E8%A8%AD%E8%A8%88%E3%83%BB%E7%AE%A1%E7%90%86%E6%A5%AD%E5%8B%99%E3%81%8A%E3%82%88%E3%81%B3%E9%A1%A7%E5%AE%A2%E3%81%B8%E3%81%AE%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%A5%AD%E5%8B%99-at-mitsubishi-heavy-industries-4484908023",
+    "https://www.linkedin.com/posts/kojiro-iizuka_%E3%81%93%E3%81%AE%E5%BA%A6%E9%98%B2%E8%A1%9B%E7%9C%81-%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%BA%81atla%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%97%E3%81%9F%E7%AC%AC4%E5%9B%9E-%E7%A9%BA%E6%88%A6ai%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6-activity-7418908818773970944-TVGt",
+    "https://jp.linkedin.com/pulse/%E5%9B%BD%E5%86%85%E9%98%B2%E8%A1%9B%E6%A9%9F%E5%99%A8%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E4%BF%AE%E7%90%86%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E7%8F%BE%E7%8A%B6%E3%81%A8%E4%BB%8A%E5%BE%8C-northstar-demand-insights-becgf",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%88%B8%E5%A1%9A%EF%BC%8F%E8%87%AA%E7%A4%BE%E5%8B%A4%E5%8B%99%E3%80%91%E9%98%B2%E8%A1%9B%E7%9C%81%E5%90%91%E3%81%91%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E9%96%8B%E7%99%BA%E2%97%87c-c%2B%2B%E2%97%87%E8%89%A6%E8%88%B9%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%8A%E3%83%BC%E3%83%BB%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%81%AE%E8%A3%85%E5%82%99%E5%93%81%E3%81%AA%E3%81%A9-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4488007539",
+    "https://jp.linkedin.com/pulse/%E9%99%B8%E4%B8%8A%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99-%E5%B8%82%E5%A0%B4%E6%88%90%E9%95%B7%E5%88%86%E6%9E%902026-2033%E5%B9%B4%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E6%88%A6%E7%95%A5cagr-149-quorixxc-qzdse"
+   ]
+  },
+  {
+   "query": "site:facebook.com 防衛装備の維持整備費の推移",
+   "results": [
+    "https://www.facebook.com/atlamod/posts/9%E6%9C%8824%E6%97%A5-25%E6%97%A5%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%BA%81%E3%81%AF%E7%B1%B3%E8%BB%8D%E8%A3%85%E5%82%99%E5%93%81%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E5%8F%8A%E3%81%B3%E7%B1%B3%E8%BB%8D%E3%81%AE%E7%B6%AD%E6%8C%81%E6%95%B4%E5%82%99%E4%BA%8B%E6%A5%AD%E3%81%B8%E3%81%AE%E6%88%91%E3%81%8C%E5%9B%BD%E9%98%B2%E8%A1%9B%E7%94%A3%E6%A5%AD%E3%81%AE%E5%8F%82%E7%94%BB%E3%82%92%E5%9B%B3%E3%82%8B%E3%81%9F%E3%82%81%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E6%A9%9F%E4%BC%9A%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%81%A8%E3%81%97%E3%81%A6%E3%82%A4%E3%83%B3%E3%83%80%E3%82%B9%E3%83%88%E3%83%AA/122188085702575382/",
+    "https://www.facebook.com/atlamod/?locale=ja_JP",
+    "https://www.facebook.com/mod.japn/videos/%E5%88%9D%E3%81%AE%E5%AE%8C%E6%88%90%E5%93%81%E7%A7%BB%E8%BB%A2%E6%A1%88%E4%BB%B6%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%BA%81%E3%81%AF%E5%AE%98%E6%B0%91%E4%B8%80%E4%BD%93%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E6%8A%80%E8%A1%93%E5%8D%94%E5%8A%9B%E3%81%AE%E6%8E%A8%E9%80%B2%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E6%98%A8%E5%B9%B410%E6%9C%88%E3%81%AB%E3%81%AF%E6%88%91%E3%81%8C%E5%9B%BD%E5%88%9D%E3%81%AE%E5%AE%8C%E6%88%90%E5%93%81%E7%A7%BB%E8%BB%A2%E6%A1%88%E4%BB%B6%E3%81%A8%E3%81%97%E3%81%A6%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E3%81%AB%EF%BC%91%E5%9F%BA%E7%9B%AE%E3%81%AE%E8%AD%A6%E6%88%92%E7%AE%A1%E5%88%B6%E3%83%AC/741427624771711/",
+    "https://www.facebook.com/atlamod/videos/-%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%BA%81%E3%81%AF2024%E5%B9%B410%E6%9C%88%E9%98%B2%E8%A1%9B%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%82%92%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC%E3%81%AB%E6%96%B0%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%BA%81%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%A7%E3%83%95%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E5%8B%95%E7%94%BB%E3%82%92%E5%85%AC%E9%96%8B%E4%B8%ADh/575612245177918/",
+    "https://www.facebook.com/sourikantei/videos/%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E7%92%B0%E5%A2%83%E3%81%8C%E4%B8%80%E5%B1%A4%E5%8E%B3%E3%81%97%E3%81%95%E3%82%92%E5%A2%97%E3%81%99%E4%B8%AD%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%89%E5%85%A8%E7%A2%BA%E4%BF%9D%E3%82%84%E5%9C%B0%E5%9F%9F%E3%81%A8%E5%9B%BD%E9%9A%9B%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%B9%B3%E5%92%8C%E3%81%A8%E5%AE%89%E5%AE%9A%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%92%E3%82%8B%E3%81%9F%E3%82%81%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E7%A7%BB%E8%BB%A2%E5%88%B6%E5%BA%A6%E3%82%92%E6%94%B9%E6%AD%A3%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%9B%BD%E3%81%8B%E3%82%89%E6%AD%93%E8%BF%8E%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%B9%B3%E5%92%8C/1292055556222053/",
+    "https://www.facebook.com/mod.japn/videos/%E6%8B%A1%E5%A4%A7asean%E5%9B%BD%E9%98%B2%E7%9B%B8%E4%BC%9A%E8%AD%B0admm%E3%83%97%E3%83%A9%E3%82%B9%E3%81%A7%E3%81%AE%E5%B0%8F%E6%B3%89%E9%98%B2%E8%A1%9B%E5%A4%A7%E8%87%A3%E3%81%AE%E3%82%B9%E3%83%94%E3%83%BC%E3%83%81%E3%81%AE%E6%A7%98%E5%AD%90%E3%82%92%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99-%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-here-is-dm-koizumis-speec/1659053719088790/",
+    "https://www.facebook.com/atlamod/videos/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%EF%BC%97%E6%9C%88%EF%BC%91%EF%BC%95%E6%97%A5%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%BA%81%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%82%AA%E3%83%95%E9%9B%BB%E5%AD%90%E6%88%A6%E6%A9%9F%EF%BD%98%EF%BD%85%EF%BD%83%EF%BC%92%E3%81%AE%E9%A3%9B%E8%A1%8C%E8%A9%A6%E9%A8%93%E3%82%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E5%90%84%E7%A8%AE%E8%A9%A6%E9%A8%93%E3%82%92%E5%AE%89%E5%85%A8%E3%81%8B%E3%81%A4%E7%A2%BA%E5%AE%9F%E3%81%AB%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99/2562944040842337/",
+    "https://www.facebook.com/mod.japn/posts/1%E6%9C%8828%E6%97%A5%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%BA%81%E3%81%A8%E7%B1%B3%E5%9B%BD%E9%98%B2%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E5%8D%94%E5%8A%9B%E5%BA%81%E3%81%AF%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E5%8D%94%E5%8A%9B%E5%8D%94%E8%AD%B0%E4%BC%9A%E5%90%88%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BE%E3%81%9F%E7%BF%8C29%E6%97%A5%E8%8B%A5%E6%9E%97%E9%98%B2%E8%A1%9B%E5%A4%A7%E8%87%A3%E6%94%BF%E5%8B%99%E5%AE%98%E3%81%AF%E7%B1%B3%E5%9B%BD%E9%98%B2%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E5%8D%94%E5%8A%9B%E5%BA%81%E9%95%B7%E5%AE%98%E3%81%AE%E8%A1%A8%E6%95%AC%E3%82%92%E5%8F%97%E3%81%91fms%E8%AA%BF%E9%81%94%E3%81%AE%E5%90%88%E7%90%86/1363541735811890/",
+    "https://www.facebook.com/mod.japn/posts/%E9%98%B2%E8%A1%9B%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%8A%E9%87%91%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%BE%E3%82%8B%E3%82%8F%E3%81%8B%E3%82%8A%E6%97%A5%E6%9C%AC%E3%81%AE%E9%98%B2%E8%A1%9B%E4%BB%A4%E5%92%8C62024%E5%B9%B4%E5%BA%A6%E3%81%AE%E9%98%B2%E8%A1%9B%E9%96%A2%E4%BF%82%E8%B2%BB%E3%81%AF%E7%B4%8477%E5%85%86%E5%86%86%E5%89%8D%E5%B9%B4%E5%BA%A6%E6%AF%94%E7%B4%8417%E5%A2%97%E3%81%A7%E3%81%99%E3%81%9D%E3%81%AE%E3%81%86%E3%81%A1%E8%81%B7%E5%93%A1%E3%81%AE%E7%B5%A6%E4%B8%8E%E3%82%84%E9%83%A8%E9%9A%8A%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%99%E3%82%8B%E3%81%8A%E9%87%91%E3%81%AA/933804472118954/",
+    "https://www.facebook.com/atlamod/photos/%E5%B0%8F%E6%B3%89%E9%98%B2%E8%A1%9B%E5%A4%A7%E8%87%A3%E3%81%AF%E9%98%B2%E8%A1%9B%E7%9C%81%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E6%8E%A1%E6%8A%9E%E7%B5%90%E6%9E%9C%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E5%BA%A6%E3%82%82%E5%88%B6%E5%BA%A6%E5%89%B5%E8%A8%AD%E4%BB%A5%E9%99%8D%E6%9C%80%E5%A4%9A%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%99%E3%82%8B560%E4%BB%B6%E3%81%AE%E5%BF%9C%E5%8B%9F%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E5%A4%96%E9%83%A8%E6%9C%89%E8%AD%98%E8%80%85%E3%81%AE%E5%AF%A9%E6%9F%BB%E3%82%92%E7%B5%8C%E3%81%A647%E4%BB%B6%E3%82%92%E6%8E%A1%E6%8A%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC/122236983644575382/"
+   ]
+  },
+  {
+   "query": "防衛装備の維持整備費の推移 note 社長",
+   "results": [
+    "https://www.mof.go.jp/public_relations/finance/202504/202504d.html",
+    "https://note.com/yo4shi80/n/n06bbcc93a9ca",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/2023/yosan_20230329.pdf",
+    "https://note.com/quirky_crab9076/n/n0e4e74507c26",
+    "https://www.nikkei.com/article/DGXZQOUA09ANV0Z01C22A2000000/",
+    "https://note.com/kiyotani/n/n49cb929808f9",
+    "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "https://note.com/hr_marketing/n/n8b82ae39e8fe",
+    "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "https://www.meti.go.jp/files/900013521.pdf"
+   ]
+  },
+  {
+   "query": "防衛装備の維持整備費の推移 X 投稿",
+   "results": [
+    "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/seifuan2026/19.pdf",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "https://rssystem.go.jp/project/6d43a756-6a57-49f6-8950-2bd70ea16128",
+    "https://x.com/ModJapan_jp/status/1872573404853022829",
+    "https://j-defense.ikaros.jp/docs/mod/005039.html",
+    "https://www.tokyo-np.co.jp/article/523541",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA09ANV0Z01C22A2000000/",
+    "https://www.mof.go.jp/public_relations/finance/202504/202504d.html",
+    "https://www.meti.go.jp/files/900013521.pdf"
+   ]
+  },
+  {
+   "query": "Japan defense equipment maintenance cost trend site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/military-maintenance-repair-overhaul-mro-industry-report-revenue-ksrzc",
+    "https://www.linkedin.com/pulse/key-trends-revenue-potential-global-japan-military-buj5e",
+    "https://www.linkedin.com/pulse/civil-helicopter-maintenance-market-us-japan-korea-ngq0f",
+    "https://www.linkedin.com/pulse/understanding-dmsms-challenge-facing-japan-self-defense-forces-uln8c",
+    "https://www.linkedin.com/pulse/projected-growth-revenue-military-maintenance-repair-overhaul-edude",
+    "https://www.linkedin.com/pulse/hangar-maintenance-equipment-market-analysis-report-xjeye",
+    "https://www.linkedin.com/posts/mike-sondalini-6a4631239_japanese-path-to-maintenance-and-reliability-activity-7389417974660730880-qmVO",
+    "https://www.linkedin.com/pulse/market-insights-global-japan-primary-surveillance-radar-forecast-m5i9e",
+    "https://uk.linkedin.com/in/shaun-humber-0b29221a",
+    "https://ca.linkedin.com/in/cameronwight"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "AM・3Dプリンタ": [
+   {
+    "quote": "URL：\u0007 https://www.mod.go.jp/j/policy/agenda/guideline/pamph/",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "契約品目には「戦術ＡＩ衛星実証機の試作」がある",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "極超音速誘導弾の研究試作（その 1 ） 1 式 584 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "島嶼防衛用高速滑空弾の要素技術（その 3 ）の研究試作 1 式 339 川崎重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "極超音速誘導弾の研究試作（その 2 ） 1 式 629 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "装備庁 極超音速誘導弾の研究試作（その 3 ） 1 式 585 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2023年度：研究試作 1 式584億円，2024年度：1 式629億円，2025年度：1 式585億円），⑤",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AMRO事務局長兼CEOの視点（2）―中東紛争下での経済見通し",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PRI Open Campus ～財務総研の研究・交流活動紹介～ 55",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 装備品の可動数向上や安定的かつ計画的な取得を行うために必要となる品質の検証などを含む、3Dプリンタの活用に関する調査等を実施（3億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＊8）GCAP：Global Combat Air Programme",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "０３式中距離地対空誘導弾（中SAM） 三菱電機株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "０４式空対空誘導弾（AAM-5） 三菱重工業株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高出力レーザーや高出力マイクロ波といった指向性エネルギー技術の研究等を推進",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 三次元積層造形技術(３Dプリンタ)の活用に関する調査等(３億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ＤＣＳ：Damage Control Surgery",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "する加盟国間で衛星の通信帯域を共有する枠組であるＰＡＴＳ（Pr otected Anti-jam",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 Maintenance/Enhancement of Function of Military Camps/Bases to Serve as Hubs for",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 SACO-Related Expenses(Item Request without Specific Amount of the Budget)",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅶ Streamlining Initiatives ４２",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "secure ammunition and ensure maintenance of equipment.",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "field, Japan will enhance research and development into potential game-",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to achieve greater efficiency and streamlining through various measures",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to streamline procurements while harmonizing with other policies and",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- Material expenses (Contract fees for newly necessary programs) are ¥3.8388 trillion, a significant increase from the",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "technologies that are potentially game-changing, a ¥79.6 billion (37.6%) increase and the highest amount ever",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Excluding SACO-related, U.S. Forces realignment-related, government aircraft and national resilience expenses (expenses under the Medium Term Defense Program）",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In total, the amount of SACO-related expenses is: FY2021: (Expenditure) ¥14.4 billion; (Future obligation concerning new contracts) ¥3.5 billion;",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The total amount of U.S. Forces realignment-related expenses (the portion allocated for mitigating the impact on local communities) is:",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2: Blue text indicates new programs.",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "newly formed. The former will be in charge of detecting jamming against Japan’s satellites;",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• Develop a system that enables seamless interoperability between",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "exercises (Schriever Wargame, etc.) hosted by the U.S.",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "trainings (sample image)",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Update onboard equipment and retrofit airframe to improve",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ Enhance surveillance capabilities of vessels’ radio detection and jamming equipment (¥0.3 billion)",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In order to enhance surveillance capabilities, modify radio detection and jamming devices that detect",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Strengthening Capability to Minimize Electromagnetic Jamming from Opponents Attempting",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "procured in FY2022 (same as FY2019-2022)",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "missiles, increasing ammunition payload, and improving electronic",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Conduct joint electronic warfare training among the GSDF,",
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What fundamentally changed this situation was the release of three strategic documents in 2022—the National Security Strategy, the National Defense Strategy, and the Defense Buildup Program",
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. The government should promptly begin revising the Defense Buildup Program for fiscal year 2028 and beyond to enhance predictability for defense firms and encourage the formulation of medium-term investment plans.",
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. The Ministry of Defense should amend the Defense Production Base Reinforcement Act to encourage upfront investment decisions by companies and expand their production base by:",
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5. The Cabinet Office, the Ministry of Education, Culture, Sports, Science and Technology, the Ministry of Economy, Trade and Industry (METI), and the Ministry of Defense should increase budget allocations for projects that fall between grant programs supporting advanced dual-use technology research and development (R&D) and full-scale defense equipment R&D that involves producing prototypes.",
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "#Europe and Americas Group",
+    "url": "https://instituteofgeoeconomics.org/en/research/2025102402/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "1 2025 年度防衛関係費の概要",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 装備品の取得や施設整備などの事業について、当該年度に支払われる額の合計",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 装備品の取得や施設整備などの事業について、当該年度に結ぶ契約額の合計",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度防衛関係費",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "として8兆4,748億円 （対前年度比7,498億円 （9.7％）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は、 2025年度中に着手すべき事業",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "億円 （対前年度比9,293億円 （9.9％） 減） を計上した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表Ⅱ -3-2-1 （防衛関係費の 2024 年度と 2025 年度",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "移） 、 図表Ⅱ-3-2-3 （ 2025年度予算の配分 （ 15区",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表Ⅱ-3-2-1 防衛関係費の2024年度と2025年度の比較",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "区 分 令和6 （2024） 年度",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和7 （2025） 年度",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これらを含めた防衛関係費の総額は、 歳出額については、 令和6 （2024） 年度は",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "79,496億円、 令和7 （2025） 年度は87,005億円になり、 後年度負担額については、 令和6 （2024） 年度は141,926億円、 令和7 （2025） 年度は160,350億円になる",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度に引き続き、 射程や速度、 飛翔の態様、 対処目",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度中に、 国産の1",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（地上発射型） の配備を開始し、 同誘導弾 （艦艇発射型）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "型誘導弾についても2025年度から量産に着手する予定",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "米国製のトマホークについては、 2025年",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛2025_2-3.indd 218防衛2025_2-3.indd 218 2025/06/12 9:23:442025/06/12 9:23:44",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "て、 2025年度末から、P",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料：令和7（2025）年度予算の概要",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表Ⅱ-3-2-2 防衛関係費（当初予算）の推移",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成9年度予算を",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年 8 月，ビジネス週刊誌『週刊ダイヤモンド』は「大激変！軍事ビジネス＆自衛隊，",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "コマツ 2019年 軽装甲機動車",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイセル 2020年 パイロット緊急脱出装置，火薬など",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三井Ｅ＆Ｓ造船 2021年 艦艇 三菱重工業に事業譲渡",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "横河電気 2021年 航空機コックピット用ディスプレイ ＯＫＩに事業譲渡",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ＫＹＢ 2022年 ブレーキ，アクチュエータなど油圧機器",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "住友重機械工業 2022年 新型機関銃 機関砲などは継続",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）『週刊ダイヤモンド』2022年8月27日号，27ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "大阪経大論集・第77巻第 3 号・2026年 9 月 37",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度予算のため事業の予見性が確保できず，経営計画が立てられないことなど，企業側の",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いずれにせよ，このような状況は 4 か月後の2022",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は 1 年前倒し で2026年中に三文 書を改定して，軍拡経済（軍事と経済の相互関係）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2）『週刊ダイヤモンド』2022年 8 月27日号，26～27ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは高市内閣でいっそう鮮明になり，高市内閣が2025年11月に決定した総合経済対策",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年 3 月27日に決定した第 7 期科学技術・イノベーション基本計画では，「科学",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安保戦略を受 け，2023年６月に「防衛生産基盤強化法」（防衛省が調達する装備品等の",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6）国家安全保障会議決定・閣議決定「国家安全保障戦略」2022年12月16日，19ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお，2013年",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「国家安全保障戦 略」2013年12月17日，31ページ，下線は梅原）と書いていた",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7）同上（2022年国家安全保障戦略，以下同様），19～20，30ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9）防衛省『防衛白書（令和 7 年版）』日経印刷，2025年，199ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年11月21日， 4 ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "11）閣議決定「科学技術・イノベーション基本計画」2026年 3 月27日，44ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検討（Ⅰ）」『大阪経大論集』第77巻第 2 号，2026年 7 月，参照）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特集 令和8年度 防衛関係予算について : 財務省",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 農林水産関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 国土交通省・公共事業関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 防衛関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．令和8年度防衛関係予算の全体像",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度の防衛関係予算は、令和4年（2022年）12月16日の国家安全保障会議及び閣議において決定された「防衛力整備計画」等を踏まえて編成を行った結果、全体で9兆353億円（対前年度比＋3.8％）を計上している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を除く防衛力整備計画対象経費については、8兆8,093億円（対前年度比＋3.9％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表1：防衛関係予算の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、新規契約額については、8兆8,459億円（対前年度比＋0.6％）を計上しており、このうち防衛力整備計画対象経費については、8兆2,607億円（対前年度比▲2.0％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表2：新規契約額の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表1 防衛関係予算の推移",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "件数の推移": [
+   {
+    "quote": "うち人件・糧食費 22,290 23,508 1,218 5.5%",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "うち物件費 54,960 61,240 6,280 11.4%",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "省・自衛隊の調達先4425社の調査では，６割以上が",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8.9兆億円程度），（ｃ）「新たに必要となる事業に係る契約額（物件費）」を43.5兆円程度と",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "社会保障関係費 362,735 368,687 377,193 382,938 390,559 27,823 1.08",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（３）激増する物件費の契約額",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "とくに「新たに必要となる事業に係る契約額（物件費）」が43.5兆円に激増されたこと",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図をみれば，整備計画の43兆円は，①自衛隊員の給与や食事などのための「人件・糧食",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "費」11兆円，②「期限内（2023～27年度）に結ぶ契約に基づき期限内に支払う物件費」27",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "兆円，③「期限前（2022年度まで）に結んだ契約に基づき期限内に支払う物件費」 5 兆円",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "からなり，物件費の契約額43.5兆円は，②と④「期限内に結ぶ契約に基づき期限 後（2028",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度以降）に支払う物件 費」16.5兆円の合計だ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "契約ベースの物件費は歳出ベースの防衛関係費より増加が激しく，2022年度 3 兆4980億",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①人件・糧食費 11兆円",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "き期限内に支払う物件費 27兆円",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "づき期限内に支払う物件費 5兆円",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "き期限後に支払う物件費 16.5兆円",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 6 防衛関係費（歳出ベース）と物件費（契約ベース） ，後年度負担の推移（当初予算）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人件・糧食費 21,740 21,969 22,290 23,508 23,897 1.1",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "物件費 30,048 44,032 54,960 61,240 64,196 2.1",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般物件費（活動経費）（Ａ） 10,397 18,850 17,032 18,121 18,798 1.8",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "契約ベースの物件費（Ａ＋Ｂ） 34,980 89,525 93,625 84,332 82,607 2.4",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（物件費）43.5兆円（②＋④）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新たに必要となる事業に係る契約額（物件費） ４３兆５，０００億円程度 １７兆１，７００億円程度",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "→ 約 1,100 社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "→ 約 1,300 社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "→ 約 8,300 社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（令和２年度の実績）※180社中151社から得られた回答による（令和２年度調査では150社回答）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２０式５.５６mm小銃 豊和工業株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１２０mm迫撃砲RT 豊和工業株式会社（ライセンス国産）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１９式装輪自走１５５mmりゅう弾砲 株式会社日本製鋼所",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１０式戦車 車体：三菱重工業株式会社主砲：株式会社日本製鋼所",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１６式機動戦闘車 車体：三菱重工業株式会社主砲：株式会社日本製鋼所",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "０３式中距離地対空誘導弾（中SAM） 三菱電機株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "９１式携帯地対空誘導弾 株式会社東芝（現：東芝インフラシステムズ㈱）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "施設器材 ０７式機動支援橋 株式会社日立製作所",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１３式空挺傘 藤倉航装株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "野外入浴セット２型 伸誠商事株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "多用途ヘリコプターUH-2 株式会社SUBARU",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "観測ヘリコプターOH-1 川崎重工業株式会社",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対戦車ヘリコプターAH-1S 富士重工業株式会社（現： ㈱SUBARU）（ライセンス国産）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦闘ヘリコプターAH-64D 富士重工業株式会社（現： ㈱SUBARU）（ライセンス国産）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "多用途ヘリコプターUH-1J 富士重工業株式会社（現： ㈱SUBARU）（ライセンス国産）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "多用途ヘリコプターUH-60JA 三菱重工業株式会社（ライセンス国産）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "費等を除く歳出予算６兆6,001億円の内訳は、人件 ・ 糧食費が２兆1,969億円（前年度比1.1％",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歳出予算の構成比は33.3％）、物件費7のうち歳出化経費8が２兆5,182億円",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歳出予算の構成比は38.2％）、一般物件費9が１兆8,850億円",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "29 フィンランドのPatria社製の既存車両であるＡＭＶを取得する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（１）日米同盟強化及び地域社会との調和に係る施策等",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "る契約額（物件費）は43.5兆円程度とされて",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経費別では、人件・糧食費は従来から 2.2",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 物件費（契約額）と後年度負担額",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(1) 物件費（契約額）",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和６（2024）年度における物件費（契約",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(3) 防衛力整備計画における物件費（契約額）",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和５（2023）年度以降の物件費（契約額）",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表６）物件費（契約額）と新規後年度負担額の推移（令和６年４月１日現在）",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※令和７年度から９年度の物件費（契約額）8.4 兆円は、防衛力整備計画における物件費（契約額）総額 43.5",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "21 東京新聞社会部『兵器を買わされる日本』文藝春秋（2019）195-201頁",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "主体": [
+   {
+    "quote": "本的強化が達成でき、防衛省・自衛隊として役割をしっ",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省としても、かかる予算や税制措置の必要性に",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ特集の別の記事では，「防衛企業から見ても，防衛省向け取引は安定的な利益を",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安保戦略を受 け，2023年６月に「防衛生産基盤強化法」（防衛省が調達する装備品等の",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9）防衛省『防衛白書（令和 7 年版）』日経印刷，2025年，199ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府安全保障能力強化支援）で，防衛省以外の他省庁関連予算",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２．防衛関係費には防衛省情報システム関係経費のうちデジタル庁計上分を含まない",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これにより防衛関係費（防衛省情報システム関係経費のうちデジタル庁計上分を除く）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "20）防衛省「令和 6 年度予算の概要」2024年 3 月， 3 ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）防衛省「予算の概要」各年度，より作成",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "含まず，防衛省情報システム関連経費のうちデジタル庁計上分を含む",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）防衛省『防衛白書（令和 7 年版）』2025年，215ページ，より作成",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（４）激増する防衛装備庁の調達実績",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊の装備品等（火器，誘導武器，電気通信，",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "理・輸送など）の調達（契約）は，防衛装備庁が行う「中央調達」と，防衛省大臣官房長",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前者については防衛装備庁から実績資料が公表さ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお，防衛装備庁は安倍内閣が2015年10月に防衛省内の調達，研究開発等にかかる装備",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "較的大きい組織だ（中小企業庁は約200人）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "21）防衛装備庁「中央調達の概略（令和 7 年度版）」2026年 3 月， 6 ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "と防衛装備庁のサイト内を探したが，掲載されているのは個別機関の毎月の調達情報のみで，地方",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 7 防衛装備庁中央調達実績",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所） 防衛装備庁 「中央調達の概略 （令和 7 年度版）」",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出所）防衛装備庁「中央調達における調達実績」各年度，より作成",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "との契約品目（ 2 件298億円）は「防衛省ＯＡシステム基盤借上（換装）」と「防衛大学校",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24）以下，防衛装備庁「令和 7 年度中央調達実績」2026年 6 月，参照",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25）防衛省「令和 7 年度予算の概要」2024年12月， 8 ページ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＊1）防衛省情報システム関係経費のうちデジタル庁に計上する510億円を含む",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（H28 防衛装備庁調べ）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（出典）令和3年度防衛装備庁装備政策部装備政策課企業アンケート調査結果",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "構成部品製造分野の例（分野名は経産省業種分類表による）",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・「防衛省次世代情報通信戦略」を策定(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省・自衛隊のサイバー業務を支える外部人材の確保(０．５億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国防に関与し、防衛省・自衛隊のサイバー業務を支える意思・能力のある",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "省外のサイバー人材による、防衛省・自衛隊のサイバー業務への支援の確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省次世代情報通信戦略に示した新たな防衛情報通信基盤(仮称)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド基盤等の整備(７１８億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各自衛隊の一元的な指揮統制を可能とする防衛省クラウドを整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド地方拠点の整備(２０５億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省外で研究されている大学等の有望な萌芽的技術のうち、防衛分野における将来の研究開発に資す",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛力の強化や社会変革につながる機能・技術を創出するため、防衛省外から採用したプログラムマネー",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 防衛省ハラスメント防止対策有識者会議の提言を踏まえた各種教育機会等の充実(１億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 「防衛省女性・平和・安全保障(ＷＰＳ)推進計画」に基づき、各種取組を実施する",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（共同要望：経済産業省、内閣府、総務省、文部科学省、農林水産省、厚生労働省、国土交通省、環境省、 復興庁）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(共同要望：内閣官房、内閣府、警察庁、こども家庭庁、総務省、法務省、外務省、文部科学省、厚生労働省、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "14 その他の外国製ミサイルについて、当初、防衛省は射程約900kmの米国製ＬＲＡＳＭの導入も検討していた",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に遅延させるリスクがあることから、2021年８月５日に防衛省はＦ－15への搭載を見送ることを表明した",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ついて、防衛省は従来、センサーやシューターの能力を高めていくほか、ネットワークを",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "16 防衛省は、2019年度から、Ｆ－15近代化改修機について、スタンド・オフ・ミサイルの搭載、搭載弾薬数の",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24 従来、防衛省・自衛隊は、中期防等に基づいて、宇宙空間の安定的利用を確保するための宇宙状況監視（Ｓ",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛関係費においては、①防衛省・自衛隊で運用するシステムのリスク管理を継続的に",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "イバー安全保障研究室（仮称）」の新設、防衛省における「サイバー企画課（仮称）」及",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "28 防衛省『令和４年版防衛白書』によれば「装備品について、基本的な構成部品を共通化させつつ、機能、性",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "34 防衛省から外務省に出向した自衛官であり、在外公館に勤務し、各国の軍・国防当局や他国の駐在武官から",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "40 例えば、2022年10月21日、防衛省は、弾道ミサイル防衛に使用する迎撃ミサイルの保有数が必要量の６割程",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本の防衛産業について、国家防衛戦略には、「防衛省・自衛隊と共に国防を担うパート",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "程等の効率化、②防衛省と契約関係にある企業の防衛部門及びその下請企業に対する総合",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、予算書及び防衛省設置法第６条53において規定さ",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "52 統合幕僚監部、共同の部隊、情報本部、内部部局及び防衛装備庁をいう",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合幕僚監部に所属する自衛官、情報本部に所属する自衛官、内部部局に所属する自衛官及び防衛装備庁に",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "57 防衛省は、2011年以降、南西地域における防衛態勢の充実のため、馬毛島に自衛隊施設を整備するとともに、",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "場面・目的": [
+   {
+    "quote": "装備品などの維持整備費・可動確保 約9兆円（他分野も含め約10兆円） 1兆7,930億円（他分野も含め2兆355億円） 1兆9,094億円（他分野も含め2兆3,367億円） 1兆7,696億円（他分野も含め2兆2,247億円）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はじめに 「撤退ラッシュ」 （？）からの転換",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その最初の記事は「防衛事業からの撤退ラッシュ（スクー",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 1 防衛ビジネスから撤退した企業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プ！）」と題し，撤退する企業が相次ぐ状況を報じ（表 1 ），当時，撤退の意向を表明して",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 1 を見ても，撤退企業か ら事業を引き受ける企業もあり， 「何十年という長きにわ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "用，維持整備等を通じて防衛力を支える重要な要素である」 （国家安全保障会議決定・閣議決定",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を確保する取組（サプライチェーン調査・強靱化，製造工程の効率化，サイバーセキュリ",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ティ強化，事業承継など）を進めるとともに，スタートアップ企業等新規企業の参入を促",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "契約品目には「戦術ＡＩ衛星実証機の試作」がある",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "極超音速誘導弾の研究試作（その 1 ） 1 式 584 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "島嶼防衛用高速滑空弾の要素技術（その 3 ）の研究試作 1 式 339 川崎重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "極超音速誘導弾の研究試作（その 2 ） 1 式 629 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "装備庁 極超音速誘導弾の研究試作（その 3 ） 1 式 585 三菱重工業",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2023年度：研究試作 1 式584億円，2024年度：1 式629億円，2025年度：1 式585億円），⑤",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "常務理事（研究担当） 航空自衛隊補給本部長 第10師団長",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "監事 航空自衛隊補給本部長 航空自衛隊補給本部長",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 南西地域等の広大な空域において戦闘機等が粘り強く戦闘を継続するために必要な空中給油・輸送機（KC－46A）（2機：877億円）を取得するとともに、南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、補給品等（コンテナ）の輸送に特化した民間船舶（2隻：110億円）を確保（PFI方式）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、維持整備に係る成果の達成に応じて対価を支払う契約方式（PBL",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 陸自PBLを活用した特別輸送ヘリコプター（EC─225LP）の維持整備（▲35億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 海自PBLを活用した練習ヘリコプター（TH－135）の維持整備（▲27億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライヤの撤退や倒産により、",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 装備品の高度化・複雑化により、調達単価・維持整備費は増加傾向",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注１）：「装備品等の維持整備費」とは、陸海空各自衛隊の装備品等の修理や消耗品の代価及び役務費などに係る予算額（各自衛隊の修理費から、艦船の艦齢延伸及び航空機の近代化改修等のための修理費を除いたもの）を示す",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注２）：令和元年度～２年度の装備品等の維持整備費については、防災・減災、国土強靭化のための３か年緊急対策に係る経費を含む",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注４）：令和４年度の装備品等の維持整備費は、令和３年度補正予算込みの金額",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "め、主として補給品等(コンテナ)の輸送に特化したＰＦＩ船舶を",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注1:本文中の青字は新規事業を表示している",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等(コンテナ)の輸送に",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【装備品等の維持整備】約２兆１，４７２億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．無人アセット防衛能力 6人 新規装備品導入を踏まえた補給整備体制の強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅳ．日米同盟の強化 15人 佐世保弾薬補給所(前畑弾薬庫)の返還に係る体制強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "として、現有装備品の維持整備に加え、新しい装備品の購入や研究開発等にかかる経費の",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "議の焦点―」『立法と調査』No.427（2020.9.11）128～132頁及び佐久間惇「イージス・アショアの代替措置",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ティクス基盤システム（仮称）の整備38（134億円）など輸送・補給基盤の整備も実施する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "38 海上自衛隊は、部隊が要求する艦船、航空機用の部品等を必要な時に、必要な場所へ補給することを目的と",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "基づき、装備品の維持整備の経費として前年度比431.8倍となる２兆355億円が計上された",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "億円）についてＰＢＬ44による維持整備を推進する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "して、補給、艦船造修整備及び航空機造修整備に係るデータを一元的に処理して管理する海上自衛隊造修整",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "需要予測、在庫管理を企業の裁量に委ね、国際的なサプライチェーンを活用して、迅速な部品供給を実現で",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "的・一体的なサイバーセキュリティ対策の実施、③サプライチェーンの国産化といった代",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "替性を確保すること等によるサプライチェーンリスクへの対応、④防衛産業からの事業撤",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "退を表明している企業からの円滑な事業承継等となっている",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の乗組員となっている再任用自衛官を補給艦・試験艦等の補助艦の乗組員として配置拡大",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の主な内訳は、代替施設の建設に係る経費として、環境影響評価関連54億円、埋立工事1,666",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "性を始めとする評価項目を設け、代替案と比較考量した上で、取得要否の検討や仕様決定、部品選定等を行",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6 主要な事業の契約年限は、護衛艦は４～５年、航空機は３～５年、誘導弾は４年程度、弾薬は２～３年、維持整備は１～",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "備品の取得・維持整備、施設整備、研究開発、",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7）ただし，これには，「43兆5000億円程度（維持整備等の事業効率化に資する契約の計画期間外の支",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金額が大きいのは，「装備品等の維持整備費・可動確保」9 兆円（全体の20.7％），「車両・",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それを反映して，2023年度では，①装備品等の維持整備費・可動確保（ 1 兆7930億円，",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "それを反映して，2024年度で金額が多いのは，①装備品等の維持整備費・可動確保（ 1",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023，2024年度の 2 年間の合計では，①装備品等の維持整備費・可動確保（ 3 兆7024億",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "航空機等（41.9％），⑧装備品等の維持整備費・可動確 保（41.1％），⑨機動展開能力・国",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "のため，製造工程の効率化やサイバーセキュリティの強化をはじめとする企業の取組を促",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "58）整備計画が43.5兆円程度について括弧書きで「（維持整備等の事業効率化に資する契約の計画期間",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "備型イージス・システム」（イージス・アショア）の代替だからである",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "期間・審査": [
+   {
+    "quote": "は、 防衛力整備計画期間内の防衛力抜本的強化実現に向",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "隊独自仕様を絞り込み、 取得にかかる期間を短縮する",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いずれにせよ，このような状況は 4 か月後の2022",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は計画期間後の2028年度以降に支払われる部分で，それを計画期間内（2023～27年度）で",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "少しでも早く必要な装備品を各部隊に届け運用できるよう，防衛力整備計画期間の初期に",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（修理期間435日超）を要する不具合が発見されていたことなどを報告している",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "もう 1 つは「コスト変動調整率」の導入で，「生産期間中におけるコスト変動を考慮し，",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5次のトリセツ―FATF第5次対日相互審査で示す官民のチカラ― ―第1回：序論―",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個別の契約の履行期間に応じて、総原価に積算することで、",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度概算要求においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画期間内の防衛力の抜本的強化を実現するため、令和8年度中に着手すべき事業を積み上げるとともに、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画期間におけるこれまでの事業の進捗状況や予算の執行状況も踏まえ、歳出予算の要求額を着実に増額",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "改修期間の延長等を理由として、2021年度は予算計上等が見送られた",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "むことで、研究開発に要する期間を大幅に短縮し、将来の戦いにおいて実効的に対処する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同協定の主な内容は、①有効期間５年間（2022年度から2026年度まで）、",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "きであることを指摘した上で、 「特に重要な装備品の取得を進めるに当たっては、研究・開発に要する期間、",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "現行の防衛力整備計画（令和５（2023）～令和９（2027）年度）は、同期間内の歳出総額を",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかしながら、当該期間内に締結され",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ぞれの製造期間に長短があるため、数か年度",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "既定分となって増加し、同計画期間終了時に",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "されて支払われるが、残額の16.5兆円は期間",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いて防衛力整備計画は、「本計画期間中、2023",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・期間内歳出として次期防衛力整備計画に充てること",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "少するため、維持費や期間内に完成・納入となる装",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・期間外歳出（後年度負担額）は26.5兆円に増加",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "つ、期間外歳出（後年度負担額）を現行の計画の16.5兆円に維持する場合",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・案①と同様、期間内歳出の減少により、防衛力整備",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "案③ 物件費（契約額）総額及び期間外歳出（後年度負担額）を現行の計画の43.5兆円",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・物件費（契約額）総額、期間内歳出及び期間外歳出",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "つ、期間外歳出（後年度負担額）を10兆円に減少させる場合",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "案⑤ 物件費（契約額）総額を現行の計画の43.5兆円に維持し、期間外歳出（後年度負",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・既定分と期間内歳出の増加により、歳出総額は61兆",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "総額43.5兆円 うち期間内歳出 27兆円 うち期間外歳出 （後年度負担額） 16.5兆円",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（契約額）総額を維持しても、期間外歳出（後",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "次期防衛力整備計画においては、期間外歳",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "額は、現行の計画期間中における後年度負担",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "42 第211回国会参議院財政金融委員会、外交防衛委員会連合審査会会議録第1号９頁（令5.5.30）前田政府参考人（財務省",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "て期間内歳出を求める必要があり、容易に理",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "45 第 211 回国会衆議院財務金融委員会安全保障委員会連合審査会議録第２号 13 頁（令 5.4.26）、衆議院財務金融委員会議",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "48 第211回国会衆議院財務金融委員会安全保障委員会連合審査会議録第２号13頁（令5.4.26）鈴木財務大臣答弁",
+    "url": "https://www.shugiin.go.jp/internet/itdb_rchome.nsf/html/rchome/shiryo/2024ron21-06.pdf/$File/2024ron21-06.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7）ただし，これには，「43兆5000億円程度（維持整備等の事業効率化に資する契約の計画期間外の支",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10） 1 ％枠に代えて，「［中期防の］期間中の各年度の防衛関係経費については，同計画に定める所要経",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「期間内［2023～2027年度］に結ぶ 契約に基づき期間内に支払う物件費」 （27兆円），③",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「期間前［2022 年度まで］に結んだ契約に基づき期間内 に支払う物件費」（5兆 円 ），④",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「期間内に結ぶ契約に基づき期間後［2028年度以降］に支払う物件費」（16.5兆円）で，43",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「期間前［2022年度まで］に結んだ契約に基づき期間後［2028年度以降］に支払う物件費」",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "58）整備計画が43.5兆円程度について括弧書きで「（維持整備等の事業効率化に資する契約の計画期間",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このように，整備計画期間終了後 の2028年度以降にも負",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "体，機関，武器等多数の契約に分かれる複雑なものであり，それぞれの製造期間に長短が",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "84）安保 3 文書はいずれも「おおむ ね10年間の期間を念頭に置いてい る」が，安保戦略はその中で",
+    "url": "https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_075_006_137-161.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額の推移": [
+   {
+    "quote": "2 装備品の取得や施設整備などの事業について、当該年度に結ぶ契約額の合計",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "として8兆4,748億円 （対前年度比7,498億円 （9.7％）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "億円 （対前年度比9,293億円 （9.9％） 減） を計上した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の比較） 、 図表Ⅱ -3-2-2 （防衛関係費 （当初予算） の推",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "移） 、 図表Ⅱ-3-2-3 （ 2025年度予算の配分 （ 15区",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "79,496億円、 令和7 （2025） 年度は87,005億円になり、 後年度負担額については、 令和6 （2024） 年度は141,926億円、 令和7 （2025） 年度は160,350億円になる",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 予算額には、 デジタル庁にかかる経費を含む",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料：令和7（2025）年度予算の概要",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表Ⅱ-3-2-2 防衛関係費（当初予算）の推移",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "10年連続減少 13年連続増加",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "平成9年度予算を",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "発作業について、 2025年度予算を着実に執行し、 開発",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表Ⅱ-3-2-3 2025年度予算の配分（15区分）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "区 分 分 野 5年間の総事業費 2023年度事業費 2024年度事業費 2025年度事業費",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スタンド・オフ防衛能力 約5兆円 1兆4,130億円 7,127億円 9,390億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合防空ミサイル防衛能力 約3兆円 9,829億円 1兆2,284億円 5,331億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無人アセット防衛能力 約1兆円 1,791億円 1,146億円 1,110億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "宇宙 約1兆円 1,529億円 984億円 2,119億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サイバー 約1兆円 2,363億円 2,026億円 2,615億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "車両・艦船・航空機など 約6兆円 1兆1,763億円 1兆3,391億円 1兆1,385億円",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 3 防衛関係費の推移（当初予算）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 3 防衛関係費の推移（当初予算） （続き）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "97ページ），1964年度以降は財務総合政策研究所『財政金融統計月報』各年度予算特集（財務省のホームページ掲載） ，",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 ．②と③は主要（重要）経費別内訳で当初予算",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのための予算水準が現在の国内総生産（ＧＤＰ）の 2 ％に達するよう，所要の措置を講",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年度の防衛関係費 5 兆3687億円の2 .1倍である",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "という防衛関係費以外の他省庁関連予算（ 1 兆円程度）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を含むので，それを差し引いても 2 倍近い規模になる",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こうして「 1 ％枠」は一挙に倍増",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8.9兆億円程度），（ｃ）「新たに必要となる事業に係る契約額（物件費）」を43.5兆円程度と",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（ａ）は1.57倍，（ｂ）は1.59倍，（ｃ）は2.53倍に増大された（表 4 ）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "区分 中期防衛力整備計画（2019～2023年度） 防衛力整備計画（2023～2027年度） 増加率（倍）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①整備計画の実施金額 27兆4700億円程度 43兆円程度 1.57",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "②各年度の予算編成に伴う防衛関係費の総額 25兆5000億円程度 40兆5000億円程度 1.59",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "総額 17兆1700億円程度 43兆5000億円程度 2.53",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（注）防衛力整備計画では，②の2027年度の金額を 8 兆9000億円程度としている",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表 5 一般会計歳出予算の主要経費別内訳（当初予算）",
+    "url": "https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特集 令和8年度 防衛関係予算について : 財務省",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 農林水産関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 国土交通省・公共事業関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 防衛関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．令和8年度防衛関係予算の全体像",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度の防衛関係予算は、令和4年（2022年）12月16日の国家安全保障会議及び閣議において決定された「防衛力整備計画」等を踏まえて編成を行った結果、全体で9兆353億円（対前年度比＋3.8％）を計上している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を除く防衛力整備計画対象経費については、8兆8,093億円（対前年度比＋3.9％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表1：防衛関係予算の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、新規契約額については、8兆8,459億円（対前年度比＋0.6％）を計上しており、このうち防衛力整備計画対象経費については、8兆2,607億円（対前年度比▲2.0％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表2：新規契約額の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表1 防衛関係予算の推移",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表2 新規契約額の推移",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２．令和8年度予算における主要事業",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度予算は、防衛力の整備等に必要な事業を着実に推進しているところ、その主な内容は以下のとおりである",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 我が国に侵攻してくる艦艇や上陸部隊等に対して、対空ミサイル等の脅威圏外から対処するスタンド・オフ防衛能力を抜本的に強化するため、極超音速誘導弾及び地上装置等の取得等（1,927億円、うち初度費1,626億円）、潜水艦発射型誘導弾の取得（160億円）、12式地対艦誘導弾能力向上型（艦発型）の取得（357億円）、JSM（空対艦ミサイル）（36億円）及びJASSM（空対地ミサイル）（17億円）の取得等を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ イージス・システム搭載艦の整備に伴い、各種試験の準備等（797億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 弾道ミサイル、巡航ミサイル、極超音速滑空兵器等の迎撃能力を強化するため、SM－3ブロックⅡA（弾道ミサイル防衛用迎撃ミサイル）（723億円）、SM－6（長距離艦対空ミサイル）（107億円）を取得",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 弾道ミサイル等への対処能力を向上させるため、ペトリオット・システムの改修（77億円、うち初度費72億円）を開始",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 警戒管制能力の強化のため、次世代JADGE（仮称）の整備（547億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 安価かつ大量のUAV・USV・UUVを活用し、これらの組み合わせによる多層的沿岸防衛体制（SHIELD）の構築（1,001億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 情報収集・警戒監視・偵察・ターゲティング機能の強化のため、UAV（広域用）の取得（111億円）及び滞空型UAV「MQ－9B（シーガーディアン）」の取得等（765億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 現在運用中のⅩバンド防衛通信衛星（きらめき1号）の後継機として、抗たん性や通信能力等が向上された次期防衛通信衛星を整備するとともに、令和7年度から製造を開始する現防衛通信衛星（きらめき2号）の後継機の打上げに向けて地上器材等の整備（882億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "素材の内訳": [
+   {
+    "quote": "・ニッケル、アルミ、合金等",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・アルミ、ニッケル",
+    "url": "https://www.meti.go.jp/files/900013521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T16:40:04.314916+00:00"
+}

@@ -1,0 +1,3509 @@
+{
+ "name": "SOLIZE株式会社",
+ "aliases": [
+  "SOLIZE",
+  "ソライズ"
+ ],
+ "context": "AM受託・設計",
+ "researched_at": "2026-11-06T16:43:35.374417+00:00",
+ "official_url": "https://www.solize.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "株主資本配当率（DOE",
+    "value": "Dividend on equity ratio）を採用しており、前事業年度末の連結純資産の2.5%を目安",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区三番町6番3号 三番町UFビル3F",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "大和営業所所在地",
+    "value": "神奈川県大和市中央林間7丁目10番1号三機大和ビル Global Engineering Center-Yamato",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "■本社 東京都千代田区三番町6番3号 三番町UFビル3F ■Global Engineering Center-Yamato・大和工場 神奈川県大和市中央林間7-10-1 三機大和ビル1F ■東日本ブランチ 栃木県宇都宮市東宿郷6-1-7 MRR宇都宮4F ■関東ブランチ 東京都国分寺市西恋ヶ窪1-36-3 住まいるプラザ3F ■中部ブランチ 愛知県名古屋市中村区名駅3-19-14 第2名古屋三交ビル5F ■中部ブランチ浜松オフィス 静岡県浜松市中区板屋町111-2 浜松アクトタワー17F ■西日本ブランチ 大阪府大阪市西区靱本町1-7-25 イトーダイ靱本町ビル4F ■西日本ブランチ熊本オフィス 熊本県熊本市中央区下通1-3-8 下通NSビル #635 ■豊田工場 愛知県豊田市深田町1-97-1",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2025年1月",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1990年7月27日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5871",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "1,312名（2025年7月時点）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "120 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5871",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "257億7,900万円（連結：2025年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者氏名",
+    "value": "宮藤　康聡",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5871",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "SOLIZE PARTNERSとNTTデータザムテクノロジーズ「AM量産市場の創出」に向けた戦略的パートナーシップを締結",
+    "url": "https://www.solize.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる量産事業を開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり変革で培ったコア技術により、企業課題・社会課題の解決を行うコンサルティングおよびエンジニアリングサービスの提供",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "社会・産業課題の解決に向けた新規事業の開発および運営",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり変革で培ったコア技術により、企業課題・社会課題の解決",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "組み込みおよび業務システムにおける品質課題を解決",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "民間学童保育の運営、学童保育の運営コンサルティング、学童保育職員の研修および人材育成事業",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "SOLIZE PARTNERSとNTTデータザムテクノロジーズ「AM量産市場の創出」に向けた戦略的パートナーシップを締結",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "～AM領域で豊富な実績と知見を持つ両社が連携、日本発の競争力あるAM量産市場の創出へ～",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "コベルコE&Mの社内に蓄積された安全対策ノウハウを組織知化して利活用し、安全管理基盤を強化",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "AI駆動経営を見据えた人材・業務変革研修サービス「STELAQ AI Dev Camp」を提供開始",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "環境マネジメントシステムISO14001：2015認証",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、国際標準化機構（ISO）が策定した、企業の環境管理（環境マネジメントシステム）に関する国際規格ISO14001の認証を取得しています",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "CO2排出量に関する規制や国境炭素調整などのカーボンプライシングの導入が進むと、環境配慮の優先度は、機能・性能・コストと同等レベルになることが予想されます",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "誌面では、中小製造業が抱える事業継続や生産性向上などの課題を背景に、当社がM&Aを通じて目指すことや、その考え方、今後の展望などが取り上げられています",
+    "url": "https://www.solize.com/news/2026/1104/",
+    "pass": 1
+   },
+   {
+    "quote": "り、企業課題・社会課題の解決",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dデータの最大活用を実現 次世代の開発に向けた課題解決",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ ISO 9001認証取得",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ティに関するリスクを分析するなど、開発",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "善SW品質向上を支援開発工程のあらゆる課題を網羅",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設計 解析 生産準備 量産研究開発 企画 販売 アフターサポート",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンターによる量産品・補給部品供給",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は株主の皆さまに対する利益還元を最重要課題の一つと位置づけており、将来の事業展開のための内部留保を確保しつ",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SOLIZE PARTNERSが選ばれている理由",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアリングをもとに仕様検討・提案からデータ作成、検査・納品まで一貫して対応します",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "長年にわたる3Dプリンターの運用ノウハウと、最終製品に適した最新の3Dプリンターを活用し、適用部品の選定から材料評価、再設計、生産準備、最終製品製作、適用部品拡大までサポートします",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSは、設計・仕様検討からものづくりまで一貫して対応する技術力があり、試作品から最終製品の製作まで小ロットのものづくりの課題を解決できます",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSが選ばれる理由",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは1990年の創業から、ユーザーとして運用のノウハウを蓄積し、3Dプリントの技術を磨き続けています",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "表面の滑らかさ、工数削減のための後処理",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "特に3Dプリンターによる最終製品製作は、コストや生産性、材料物性に加え、設計領域（ジェネレーティブ設計）での取り組みも重要になるため、導入前の踏み込んだ検証が必要不可欠です",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターはこうした要望に応えられる技術として注目されており、設計自由度の向上や試作コストの削減にも貢献しています",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "金型不要で少量生産に適しており、試作コストや在庫リスクを抑えられます",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "設備のメンテナンスや材料管理、造形後の後処理に手間がかかります",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "金型を用いた射出成形などに比べると、1個あたりの造形スピードやコストで劣るため、量産用途には適していません",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターにはさまざまな造形方式があり、それぞれ材料や精度、コスト、対応できる形状に特徴があります",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・量産向きではなく、主に試作やデザインモデル向き",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "機能部品の試作から小ロット生産まで広く活用されています",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・サポート材不要、ほかの方式と比較すると生産性が高く、小ロット生産にも活用可能",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・導入コストが低いため、小規模の試作や教育用途に適する",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "軽量・耐薬品性・耐水性・低吸湿・耐疲労性あり・低コスト",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "コスト（材料価格だけでなく造形や後処理費用も含む）",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデータを専用ソフトで検査し、問題を自動修正するツールの活用がおすすめです",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・外注費用を削減でき、長期的にはコストダウンの可能性がある",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・社員がノウハウを蓄積でき、将来的な技術力強化につながる",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・利用頻度が少ない場合、投資回収が難しい",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、初期投資や運用体制を十分に見極めないと「高額な設備を持て余す」リスクもあります",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・短納期対応や量産対応など、柔軟に依頼可能",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・機密性の高いデータを外部に預けるリスクがある",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "外注は、試作や小ロット製造が中心の企業、初めて3Dプリンターを活用する企業に最適です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット試作、初めての導入、スポット利用",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "35年以上の運用実績に基づく豊富なノウハウとサポート体制",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "この再発注機能により、治具や小ロット量産のリピート注文が容易となる上、過去の発注履歴も管理できるため、在庫状況を見ながらいつでも必要な時に必要な数を追加発注できるオンデマンド発注が可能となる",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "国産量産車にAM製造品を正式採用されたSOLIZEの強さの秘密",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "国産量産車で初のAM製部品採用！LEXUS LC500のオイルクーラーダクト（純正OP品）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "群馬県の就労支援施設「ONECODE」、3Dプリンターやプログラミングを活用したIT人材育成を推進",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "1個の場合の単価",
+    "url": "https://online.solize.com/",
+    "pass": 3
+   },
+   {
+    "quote": "4個の場合の単価",
+    "url": "https://online.solize.com/",
+    "pass": 3
+   },
+   {
+    "quote": "10個の場合の単価",
+    "url": "https://online.solize.com/",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "SOLIZE PARTNERSとNTTデータザムテクノロジーズ「AM量産市場の創出」に向けた戦略的パートナーシップを締結",
+    "url": "https://www.solize.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Systems社の光造形システムを導入し、光造形による試作ビジネスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Systems社の粉末造形システムを導入し、粉末造形による試作ビジネスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Systems社の金属造形システムを導入し、金属造形による試作ビジネスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる量産事業を開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発受託・エンジニア派遣・コンサルティングに関する事業、3Dプリント試作・最終製品製作に関する事業、3Dプリンター装置導入に関する事業およびエンジニアリングに関するシステムの販売・構築事業",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター 試作品製作",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "SOLIZE PARTNERSとNTTデータザムテクノロジーズ「AM量産市場の創出」に向けた戦略的パートナーシップを締結",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "～AM領域で豊富な実績と知見を持つ両社が連携、日本発の競争力あるAM量産市場の創出へ～",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川県の「2050年脱炭素社会の実現」に資する研究開発プロジェクトに採択",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊自動車新聞に鷺宮製作所とのドライビングシミュレーション技術共同開発に関する記事掲載",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊自動車新聞に代表取締役社長 堤 寛朗のインタビュー記事掲載",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊自動車新聞に代表取締役社長 井上 雄介のインタビュー記事掲載",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "・社用車にZEV（電気自動車や燃料電池車などのゼロエミッション車）を導入",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "・事業所の電力を再生可能エネルギーや実質再エネに転換",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "」による実質再生可能エネルギー（再エネ）の電力が導入されています",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "※2 RE100：「Renewable Energy 100%」の略称で、企業が事業活動で消費するエネルギーを100％再エネで調達することを目標とする国際的イニシアチブ",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "豊田工場に燃料電池自動車（FCEV）「MIRAI」を導入",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月に、豊田工場の社用車としてトヨタ自動車の燃料電池自動車（FCEV）「MIRAI」を導入しました",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "また、Global Engineering Center-Yamatoに電気自動車（EV）の「日産リーフ」を1台導入しています",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "再生されたペレットは、自動車部品の原材料としても使用されています",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者(自動車部品メーカー出身 )が、",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1990年 光造形試作",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1998年 金型試作",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2003年 粉末造形試作 2018年 3Dプリント最終製品製作2015年 金属造形試作",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "将来の競争力強化に向けた変革活動実行開発力増大派遣エンジニア数、試作部品外部委託増加エンジニア派遣、試作部品受注",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設計 解析 生産準備 量産研究開発 企画 販売 アフターサポート",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンターによる量産品・補給部品供給",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンターによる試作品製作",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "トヨタ自動車、本田技研工業、本田技術研究所、日産自動車",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SUBARU、マツダ、ダイハツ工業、スズキ、日野自動車、い",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動車部品メーカー、自動車系商社",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製造業（自動車以外）、建設業、その他",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "松建設、マブチモーター、国立研究開発法人新エネルギー・",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "樹脂・金属の試作から最終製品のものづくりを支援します",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品から家電、コンシューマー商品、玩具など、幅広い分野のエンジニアが在籍しています",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 試作品製作",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターのほか、切削加工や板金加工、注型、鋳造、試作金型などさまざまな工法にも対応しています",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター試作品製作",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSは、設計・仕様検討からものづくりまで一貫して対応する技術力があり、試作品から最終製品の製作まで小ロットのものづくりの課題を解決できます",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "近年、産業用3Dプリンターの生産性や材料物性は飛躍的に向上しており、従来の試作用途のみならず、治工具活用や最終製品製作など、3Dプリンターの適用範囲が広がり、活用も高度化しています",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを中心にさまざまな工法で樹脂・金属の試作から最終製品のものづくりまで支援します",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "従来の切削加工や金型成形とは異なり、材料を一層ずつ積層して造形するため「積層造形（Additive Manufacturing）」とも呼ばれます",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "製造業においては、試作品の迅速な製作や複雑形状の部品製造に活用され、開発リードタイムの短縮に大きく貢献しています",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターはこうした要望に応えられる技術として注目されており、設計自由度の向上や試作コストの削減にも貢献しています",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "従来の金型製作に比べ、設計データから直接造形できるため試作品製作期間が短縮されます",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "金型不要で少量生産に適しており、試作コストや在庫リスクを抑えられます",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "金型を用いた射出成形などに比べると、1個あたりの造形スピードやコストで劣るため、量産用途には適していません",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法 / Directed Energy Deposition",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・複雑な小型～中型部品やデザイン試作に向く",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・量産向きではなく、主に試作やデザインモデル向き",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "機能部品の試作から小ロット生産まで広く活用されています",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "・導入コストが低いため、小規模の試作や教育用途に適する",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "扱いやすく、日常用途や試作に適しています",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "試作、模型、玩具",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "屋外向け試作部品、カバー、看板など",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "高耐熱・高強度が要求される航空宇宙や医療などの先端分野で利用され、造形には専用の高性能3Dプリンターが必要です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、自動車、医療機器",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "試作モデル、デザイン検証、外観確認",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "医療用モデル、柔軟部品",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   }
+  ],
+  "参入の時期と形": [
+   {
+    "quote": "3D Systems社の光造形システムを導入し、光造形による試作ビジネスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元モデリングビジネスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAD教育ビジネスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社インクスエンジニアリングサービス設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Systems社の粉末造形システムを導入し、粉末造形による試作ビジネスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dスタイリングサービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国現地法人 英知創機械科技(上海)有限公司設立、設計・解析等のエンジニアリングサービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "プロトタイプ事業を分社化し、SOLIZE Products株式会社設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "インド現地法人 SOLIZE India Private Limited設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Systems社の金属造形システムを導入し、金属造形による試作ビジネスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アメリカ現地法人 SOLIZE USA Corporation設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "CSM Software Private Limited および CSM Software USA Inc.,を買収、設計・解析等のエンジニアリングサービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる量産事業を開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "自然言語処理AIエンジンを搭載したSaaS型プロダクト「SpectA」シリーズの提供を開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア開発支援のエンジニアリングおよびコンサルティングサービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "LCA（ライフサイクルアセスメント）サービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アフタースクール寺子屋株式会社（現ALQ株式会社）の全株式を取得、民間学童保育事業を開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "会社分割による持株会社体制移行のため、分割準備会社として当社100％出資の子会社3社（SOLIZE PARTNERS株式会社、SOLIZE Ureka Technology株式会社、+81株式会社）を設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米国現地法人 SOLIZE USA Corporationがカナダ現地法人 SOLIZE Canada Corporation設立、設計・解析等のエンジニアリングサービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "タイ王国現地法人 SOLIZE Corporation (Thailand) Ltd.設立、設計・解析等のエンジニアリングサービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "AI駆動経営を見据えた人材・業務変革研修サービス「STELAQ AI Dev Camp」を提供開始",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊建設工業新聞に、グリーンクロスとの業務提携および危険予知を支援するAIアプリ「D.D safe Ai」の提供開始に関する記事掲載",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "SOLIZE Ureka Technologyとグリーンクロスが業務提携し、危険予知を支援するAIアプリ「D.D safe Ai」の販売体制を強化",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "SOLIZE PARTNERSとダイセルが液晶ポリマー（LCP）を用いた3Dプリント技術の共同開発を開始",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターを活用したものづくりのプロフェッショナルとして地球環境保護の重要性を認識し、部品製作や工法提案、3Dプリンター販売や立ち上げ支援の活動を通じて環境保全に配慮した活動を継続的に行い、環境負荷の低減に努めます",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで廃棄物削減に向けて、資源循環の情報プラットフォーム「MateRe（マテリ）」を開発するdigglue社に協力いただき粉末プラスチックのペレット化に取り組み、2023年から大和工場にて運用を開始しました",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "また、「LCEプロジェクト」を立ち上げ、エンジニアがLCEを知る、理解する、発信するという仕組み作りを行っています",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "設立 1990年",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 2025年12月期第4四半期単独期間においては、当社設立以来初の70億円を超過",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1993年 3D Systems社 販売代理店契約締結",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2018年 日本HP社 販売代理店契約締結",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2012年 中国法人設立",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年インド法人設立",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年 アメリカ法人設立",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 Roboze社 販売代理店契約締結",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンジンの組み付けプロセスを事前に検討することにより、生産ラインの早期立ち上げが可能",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSは、1990年に日本で初めて3Dプリンターを導入し、試作品製作サービスを開始したパイオニア企業です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE、3D Systemsの大型高速光造形3Dプリンター「SLA 750」販売と装置導入サポートを開始",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "米Protolabsが3Dプリントでの造形可能性を検証するオンラインサービスを開始",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "・前払い銀行振込 （ご入金確認後に発送日を確定・造形開始します）",
+    "url": "https://online.solize.com/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジンの組み付けプロセスを事前に検討することにより、生産ラインの早期立ち上げが可能",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "光造形は創業当初の1990年から運用を開始、粉末造形も2003年から20年以上にわたる運用実績があります",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "事前に試作品製作サービスで検証し、装置導入後にスムーズに社内で生産開始",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、1990年の設立から一貫して取り組んできた3DプリンティングのノウハウとHP Jet Fusion 3Dプリンターの最新テクノロジーを活用し、適用部品の選定から、最終製品の供給までをサポートしています",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERS が Formlabs の国内販売代理店として３Dプリンターの販売を開始 | Formlabs",
+    "url": "https://formlabs.com/jp/blog/solize-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERS が Formlabs の国内販売代理店として３Dプリンターの販売を開始",
+    "url": "https://formlabs.com/jp/blog/solize-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERS株式会社（本社︓東京都千代田区、代表取締役社長︓井上 雄介）は、 Formlabs 株式会社.（本社︓ アメリカ合衆国マサチューセッツ州、APAC General Manager︓ Michael Agam）と販売代理店契約を締結し、同社の光造形方式（SLA）および粉末焼結積層造形方式（SLS）の３Dプリンターの販売を開始します",
+    "url": "https://formlabs.com/jp/blog/solize-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使った製造受注などを手がけるSOLIZE Holdings傘下のSOLIZEパートナーズ（東京・千代田）は、同業でNTTデータ子会社のNTTデータザムテクノロジーズ（東京・江東）と業務提携した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野の造船･宇宙に照準 ダイヘンが3Dプリンター参入",
+    "url": "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ワコールが車の内装部品に参入 下着の製造技術を応用、BASFと連携",
+    "url": "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業は、1990年の設立時に、日本の製造業が海外に後れを取ることなく競争力を高めていくことを目指し、３Ｄ技術及び光造形技術を活用した製造業向け開発支援を開始したことに端を発します",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、近年は、これらの事業活動を基盤として、社会課題の解決に取組むビジネスインキュベーション事業も開始しました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当サービスでは、３Ｄプリンターによる試作品の製作から製品開発支援の事業を開始し、主に自動車産業に属する顧客企業の開発部門のエンジニアリングパートナーとして開発支援領域におけるサービスを拡大して参りました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "特に、インド、米国については、2016年５月に、ESO（Engineering Services Outsourcing）の会社であるCSMグループのCSM Software Private Limited（現SOLIZE PARTNERS India Private Limited）及びCSM Software USA,LLC（現SOLIZE USA Corporation）を買収し、インド及び米国における支援体制を強化しました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらなるグローバルでの開発支援体制の拡充を目的として、2025年にタイ法人、カナダ法人を設立いたしました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、1990年に日本で初めて米3D Systems社の造形機を導入し、日本でいち早く光造形の試作サービスを開始したため、単なる装置販売や装置メーカーとの技術協力にとどまらず、長年にわたり蓄積してきた生産技術ノウハウを活用し、顧客企業が装置を導入する際には、そのニーズに応じた生産技術を併せて提案しております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、各新規事業オーナーのアントレプレナーシップを核に、事業の構想・検証・組織設計から、事業立ち上げ後の資金調達・人材確保・バックオフィス支援までのサービスを一貫して提供しております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "このような環境においても、当社グループは、グローバルに展開する顧客ニーズへの対応やグローバルでのリソースの確保に向けてカナダ及びタイ王国に拠点を設立しエンジニアリングサービスの提供を開始、技術分野においても新規の３Ｄプリンターメーカー 米Formlabs社やドライビングシミュレーションプロバイダー 独VI-grade社との提携等を推進して領域の拡大やサービスレベルの向上を進めて参りました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "3Dプリンターによる量産事業を開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発受託・エンジニア派遣・コンサルティングに関する事業、3Dプリント試作・最終製品製作に関する事業、3Dプリンター装置導入に関する事業およびエンジニアリングに関するシステムの販売・構築事業",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター パーツ製造",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ハイエンド3Dプリンターを使いこなし、",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター 試作品製作",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター 最終製品製作",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター 販売・保守",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "失われゆく型を、3Dプリンターの技術でつなぐ 越前和紙の伝統技法「ひっかけ」の継承に挑戦",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "SOLIZE Ureka Technology 新・本社のお知らせ ～東京駅隣接に閃きを実現する拠点を開設～",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞にRoboze社製3Dプリンター増設に関する記事掲載",
+    "url": "https://www.solize.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "同ビルでは、入居テナントの専用部においても再エネ化が図れる電力利用スキームを提供しており、当社は当該のスキームを利用することで、2023年1月から同拠点で使用する電力について、実質再エネ化を実施しました",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターを活用したものづくりのプロフェッショナルとして地球環境保護の重要性を認識し、部品製作や工法提案、3Dプリンター販売や立ち上げ支援の活動を通じて環境保全に配慮した活動を継続的に行い、環境負荷の低減に努めます",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター工場の廃棄プラスチックの再利用",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターの材料については品質確認をしながら可能な限り再利用するプロセスを構築してきましたが、それでも一定量の粉末状のプラスチックについては廃棄せざるを得ない状況でした",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、残りの廃棄プラスチックについても3Dプリンターを活用し、再利用する取り組みを進めています",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "JAPAN HOUSEは、戦略的対外発信の強化に向けた取り組みの一環として、外務省がサンパウロ、ロンドン、ロサンゼルスに設置した対外発信拠点です",
+    "url": "https://www.solize.com/news/2026/0522/",
+    "pass": 1
+   },
+   {
+    "quote": "に売上高が減少 、民事再生手続きを申",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 2010年代後半は売上高は横ばい傾向、2020年コロナ禍により売上高が減少",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 2020年以降、成長に向けた投資を積極的に行い、2025年にかけて10%以上の売上高成長率を達成",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 2025年12月期第4四半期単独期間においては、当社設立以来初の70億円を超過",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高推移（2017年～2025年）",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "161億円 167億円 163億円",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "178億円 200億円",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "70億円227億円",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンターパーツ製造",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンター パーツ製造 変革コンサルティング AI",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンター 販売・保守",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハイエンド3Dプリンターを使いこなし、",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンターパーツ製造&3Dプリンター販売・保守",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハイエンド3Dプリンターを使いこなし、最終製品までを高い品質で製作",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンターを",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンターで",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンター技術の",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 3Dプリンターをはじめ、",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 3Dプリンターに合わせた設",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 3Dプリンターの材料/要素技",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 3Dプリンター活用コンサル",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "将来の競争力強化に向けた変革活動実行開発力増大派遣エンジニア数、試作部品外部委託増加エンジニア派遣、試作部品受注",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンター活用による",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンターによる量産品・補給部品供給",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンター パーツ製造｜SOLIZE PARTNERS",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター パーツ製造",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを中心に、さまざまな工法で",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの要素技術",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの活用実績",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZEは、日本の3Dプリンティングサービスビューローとして初めて3Dプリンターを国内に導入し、35年以上にわたり積層造形に取り組んでいます",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ハイエンド3Dプリンターの",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems社やHP社、Roboze社の高品質・高精度なハイエンド3Dプリンターを保有しています",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの特性を考慮した設計（DfAM）や、軽量化などを目的としたトポロジー最適化に関する設計提案も可能です",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 試作品製作",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターをはじめとするさまざまな工法で、納期や予算に合わせた幅広いサービスをご提供します",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 最終製品製作",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "長年にわたる3Dプリンターの運用ノウハウと、最終製品に適した最新の3Dプリンターを活用し、適用部品の選定から材料評価、再設計、生産準備、最終製品製作、適用部品拡大までサポートします",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの製造限界を広げるための「造形技術の開発」や、さまざまな解析技術を用いて「複数要素を踏まえた最適解」を追求し、お客さまの製品価値向上に向けた技術開発を、伴走型で支援します",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSでは６種類の造形方式による3Dプリンターを国内最大級となる42台保有しています",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターのほか、切削加工や板金加工、注型、鋳造、試作金型などさまざまな工法にも対応しています",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターでは20種類以上の材料を標準で取り揃えています",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター パーツ製造 導入事例",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "3D Systems社の金属造形システムを導入し、金属造形による試作ビジネスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、脱炭素社会の実現に貢献すべく、当社グループの事業活動による温室効果ガス排出量（Scope1およびScope2）を、2030年度までにカーボンニュートラルとする目標を定めました",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "自社起因の温室効果ガス排出量（Scope1およびScope2）について、2030年までにカーボンニュートラル化を実現",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラルの達成および資源循環型社会の実現に向けて、製品設計の手法自体にも変化が必要です",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "CO2排出量に関する規制や国境炭素調整などのカーボンプライシングの導入が進むと、環境配慮の優先度は、機能・性能・コストと同等レベルになることが予想されます",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "上流の設計から環境を配慮することで、カーボンニュートラルの世界を目指すという難題に対して、パートナー企業と連携しながら取り組みを進めています",
+    "url": "https://www.solize.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年 粉末造形試作 2018年 3Dプリント最終製品製作2015年 金属造形試作",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "樹脂・金属の試作から最終製品のものづくりを支援します",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック（一般樹脂材料からPEEKなどのスーパーエンプラ材料まで）やゴム材、金属材料（アルミ、ステンレス、マグネシウム）など、さまざまな材料に対応可能です",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "材料： Duraform® GF＋耐熱樹脂",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを中心にさまざまな工法で樹脂・金属の試作から最終製品のものづくりまで支援します",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーエンジニアリングプラスチック（スーパーエンプラ）",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター用材料",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターは、3Dデータをもとに、樹脂や金属などの材料を積み重ねて立体物を作り出す装置です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "光硬化性樹脂（レジン）を液槽に入れ、光を照射して硬化させる方式です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーやプロジェクターで樹脂を硬化させることで、非常に高精細な造形が可能です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "液状樹脂をインクジェットのようにノズルから吹き付け、光で硬化させて積層する方式です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂にも金属にも対応しますが、装置は材料ごとに分かれています",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、一般的に「粉末造形方式」と呼ばれる樹脂の造形方式を２種類紹介します",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "材料押出法は、熱可塑性樹脂（ABSやPLAなど）をノズルで溶かし、ソフトクリームのように押し出して積層する方式です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターでは、樹脂や金属などの材料が使用可能です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "加熱すると柔らかくなり、冷やすと再び固まる樹脂です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使われる代表的なエンプラ",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使われる代表的なスーパーエンプラ",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "高耐熱・高強度・耐薬品性・耐衝撃性、PEEKより加工性が良い場合もある",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "加熱すると化学反応で硬化し、その後は再び加熱しても溶けない樹脂です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "光硬化性樹脂は、熱硬化性樹脂の一種で、光造形方式で用いられる液体樹脂です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使われる代表的な光硬化性樹脂",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・医療・自動車などの高機能部品向けに利用され、造形には専用の金属3Dプリンターが必要です",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使われる代表的な金属材料",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "上記に記載のない樹脂や金属材料もぜひご相談ください",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級のキャパシティを誇る自社保有の樹脂3Dプリンターで製作対応",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂材料（73）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料（29）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年9月7日、SOLIZE株式会社は、LEXUS LC500のATトランスミッションの樹脂製オイルクーラーダクトに、自社で生産した3Dプリント製品が採用さ …",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える樹脂材料は？ABS樹脂やPLA樹脂など種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂・金属以外の材料の3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "高強度・高靭性のPA12やPA12GB、柔軟性のあるPP、硬度65度のゴムライク材、高温環境下化でも使用できる300℃の高耐熱材、透明度の高いTough Clearなど、用途に応じたさまざまな樹脂材料をラインアップしています",
+    "url": "https://online.solize.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SLAの透明樹脂SL7870は最大450×450×500mmを一体製作ができるため、製品サイズが大きな場合に最適です",
+    "url": "https://online.solize.com/",
+    "pass": 3
+   },
+   {
+    "quote": "その他対応工法・二次処理：注型、鋳造、切削、板金、試作金型、メッキ、塗装、アルミ蒸着、銀鏡塗装など",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "今までは、金属で試作品を製作しており（旋盤と放電加工でエッジを出していました）製作に1か月かかっていましたが、光造形を用いることで1週間で試作品を製作することが可能となりました",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "また、光造形でもシャープエッジの再現ができる微細造形機を使用し、これまでの金属部品と同じ性能データを得ることができています",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "SUS430、SUS316Lニッケル合金（Inco718）",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "試作調達困難だった耐熱鋼のニッケル合金(Inco718)が、短納期で安定して製作可能",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "より量産材料に近い材料、SUS430を使用し、金属3Dプリンターで製作可能",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターは機種ごとに造形可能な標準材料が定められていることがほとんどですが、SOLIZEでは、光造形、粉末造形材料ともに、標準材料以外の材料を造形できるようにした実績や独自開発樹脂開発の実績が多数あります",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "熱可塑性樹脂のような画期的な機械特性と耐候性に優れた量産グレード材料",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "収縮が少なく、高い寸法精度を実現、また粘度が低く樹脂抜けしやすいことが特徴",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "ソライズは樹脂製の3Dプリンター技術をメインに扱い、",
+    "url": "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットや船舶部品向け金属3Dプリンター ダイヘン、製造コスト半減",
+    "url": "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "金属造形（PBF）｜SOLIZE PARTNERS",
+    "url": "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "会社分割による持株会社体制移行のため、分割準備会社として当社100％出資の子会社3社（SOLIZE PARTNERS株式会社、SOLIZE Ureka Technology株式会社、+81株式会社）を設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は株主の皆さまに対する利益還元を最重要課題の一つと位置づけており、将来の事業展開のための内部留保を確保しつ",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主資本配当率（DOE：Dividend on equity ratio）を採用しており、前事業年度末の連結純資産の2.5%を目安",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの結果、当社グループの連結売上高は25,779百万円（前年同期比13.5％増）、営業利益は85百万円（前年同期比81.2％減）、経常利益は82百万円（前年同期比80.3％減）、親会社株主に帰属する当期純損失は36百万円（前年同期の親会社株主に帰属する当期純利益は254百万円）となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、前連結会計年度と比較して税金等調整前当期純利益が287百万円減少し43百万円となり、法人税、住民税及び事業税が166百万円減少し59百万円となった一方、一部子会社において、税効果会計における会社分類を保守的に判定したこと等により法人税等調整額が169百万円増加し、親会社株主に帰属する当期純損失は36百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な支出の内訳は、株式会社フューレックス社の買収による連結の範囲の変更を伴う子会社株式の取得1,076百万円、ソフトウエア等無形固定資産の取得436百万円、オフィスの拡張や３Ｄプリンター等有形固定資産の取得281百万円、コーポレートベンチャーキャピタル等への出資による投資有価証券の取得179百万円、RACAR Canada社からの事業譲受による支出179百万円となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "最初に中長期の成長目標、続いて2026年12月期第2四半期の決算内容、連結業績予想、株主還元、質疑応答を予定しています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "今年2月の決算でも申し上げたとおり、株主資本配当率（DOE）を採用しており、2025年12月期と同様に、2026年12月期の予想配当は55円を維持する予定です",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5871",
+    "pass": 3
+   },
+   {
+    "quote": "+81 will acquire all 1,000 shares of Enjoy stock held by two individual shareholders. The names of the sellers and their individual shareholding ratios are undisclosed at their request.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, the debt must be repaid in the future, but they can acquire a company worth 3.2 billion yen without significantly damaging their current shareholder equity.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "株式会社インクスエンジニアリングサービス設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国現地法人 英知創機械科技(上海)有限公司設立、設計・解析等のエンジニアリングサービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "プロトタイプ事業を分社化し、SOLIZE Products株式会社設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "インド現地法人 SOLIZE India Private Limited設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アメリカ現地法人 SOLIZE USA Corporation設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "会社分割による持株会社体制移行のため、分割準備会社として当社100％出資の子会社3社（SOLIZE PARTNERS株式会社、SOLIZE Ureka Technology株式会社、+81株式会社）を設立",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米国現地法人 SOLIZE USA Corporationがカナダ現地法人 SOLIZE Canada Corporation設立、設計・解析等のエンジニアリングサービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "タイ王国現地法人 SOLIZE Corporation (Thailand) Ltd.設立、設計・解析等のエンジニアリングサービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "SOLIZEグループは創業時より一貫して、デジタルテクノロジーを活用したものづくりのデジタル化およびデジタルものづくりを革新し続けています",
+    "url": "https://www.solize.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "SOLIZEグループは1990年の創業以来、デジタルテクノロジーを活かしたものづくりの革新を追求してきました",
+    "url": "https://www.solize.com/news/2026/0522/",
+    "pass": 1
+   },
+   {
+    "quote": "設立 1990年",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業者(自動車部品メーカー出身 )が、",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 2025年12月期第4四半期単独期間においては、当社設立以来初の70億円を超過",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業時より、一貫してものづくりのデジタル化を推進",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2012年 中国法人設立",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年インド法人設立",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年 アメリカ法人設立",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年 コーポレートベンチャーキャピタル創設1990年 創業",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちは1990年の創業から、ユーザーとして運用のノウハウを蓄積し、3Dプリントの技術を磨き続けています",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE（ソライズ）株式会社は1990年の創業から3Dプリンターの活用に取り組み30年以上の実績を持つ、3D設計や解析にも強みを持つデジタルエンジニアリング …",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "光造形は創業当初の1990年から運用を開始、粉末造形も2003年から20年以上にわたる運用実績があります",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは創業以来30年間で培った3Dプリント技術と品質管理体制が評価され、",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、1990年の設立から一貫して取り組んできた3DプリンティングのノウハウとHP Jet Fusion 3Dプリンターの最新テクノロジーを活用し、適用部品の選定から、最終製品の供給までをサポートしています",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "OUI Inc.様は、現役医師が創業した医療ベンチャー企業です",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZEは1990年の創業以来、多くのお客さまに選ばれてきました",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "1990年の創業より積み重ねた豊富な知識に裏付けされた提案力",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "1990年のSOLIZE創業から、ユーザーとして運用のノウハウを蓄積し、3Dプリントの技術を磨き続けています",
+    "url": "https://partners.solize.com/3dp-sales/3dsystems",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、1990年のSOLIZE創業時から積み上げてきた3Dプリンター（積層造形）に関するノウハウとネットワークを活かし、金属3Dプリンターを活用したものづくりを全面的にサポートします",
+    "url": "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業は、1990年の設立時に、日本の製造業が海外に後れを取ることなく競争力を高めていくことを目指し、３Ｄ技術及び光造形技術を活用した製造業向け開発支援を開始したことに端を発します",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらなるグローバルでの開発支援体制の拡充を目的として、2025年にタイ法人、カナダ法人を設立いたしました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "このような環境においても、当社グループは、グローバルに展開する顧客ニーズへの対応やグローバルでのリソースの確保に向けてカナダ及びタイ王国に拠点を設立しエンジニアリングサービスの提供を開始、技術分野においても新規の３Ｄプリンターメーカー 米Formlabs社やドライビングシミュレーションプロバイダー 独VI-grade社との提携等を推進して領域の拡大やサービスレベルの向上を進めて参りました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "このような環境においても、当社グループは、グローバルに展開する顧客ニーズへの対応やグローバルでのリソースの確保に向けてカナダ及びタイ王国に拠点を設立しエンジニアリングサービスの提供を開始、技術分野においても新規の３Ｄプリンターメーカー 伊Roboze社や米Formlabs社、ドライビングシミュレーションプロバイダー 独VI-grade社との提携等を推進して領域の拡大やサービスレベルの向上を進めて参りました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は創業以来、主に製造業の開発工程、設計、解析、生産準備などの事業範囲で、さまざまなサービスを展開してきました",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社インクスエンジニアリングサービス設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現地法人「英知創機械科技(上海)有限公司」設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロトタイプ事業を分社化し、SOLIZE Products株式会社設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現地法人「SOLIZE India Private Limited」設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現地法人「SOLIZE USA Corporation」設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSでは、1990年のSOLIZE設立から一貫して取り組んできた",
+    "url": "https://partners.solize.com/manufacturing/3dp-production",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Holdings株式会社は、創業時より一貫して、デジタルテクノロジーを活用したものづくりのデジタル化及びデジタルものづくりを革新し続けている企業です",
+    "url": "https://finance.logmi.jp/ir_event/1097",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、「広済（広く社会に貢献する）」を企業の原点とし、社会や時代の変化に応じて事業領域を拡大してきました",
+    "url": "https://finance.logmi.jp/ir_event/1097",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Holdings株式会社は、創業時より一貫して、デジタルテクノロジーを活用したものづくりのデジタル化及びデジタルものづくりを革新し続けている企業です",
+    "url": "https://www.youtube.com/watch?v=YW0752i2aCQ",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE was founded in 1990. It is a company that has provided design and analysis, digital engineering, 3D printing, software development, AI, and consulting to the manufacturing industry, including automobiles.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "+81, which is acquiring Enjoy this time, is a new core company established in January 2025. With the mission of \"promoting the circulation of funds and creating opportunities for new business creation and challenges,\" it is in charge of growth areas different from existing manufacturing engineering, such as software, XR, and private after-school care.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Enjoy was established in November 2013. Headquartered in Ueno, Tokyo, it is an IT company that develops SES, contract development, customer cloud systems, and its own cloud services. It currently has offices in Sapporo, Kanazawa, and Fukuoka, with approximately 90 employees in the entire group.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since Enjoy was founded in 2013, it is achieving an exit with an enterprise equity value of 3.2 billion yen in about 13 years.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1990年の創業から30年以上、日本の製造業のデジタル変革を最前線で牽引してきたSOLIZEです",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE／創業1990年／従業員数約3,900名（連結）",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "🔍 2-1 創業の原点と不変の信念",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZEは1990年に創業しました",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "創業当時、3Dプリンティング技術（当時は「ラピッドプロトタイピング」と呼ばれていました）は、まだ黎明期にありました",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "「新しい技術で製造業を変える」という創業の志は、30年以上を経た今も同社のDNAとして受け継がれています",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "同社の創業理念は「ものづくりの革新を通じて、社会に貢献する」というものです",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "実際、SOLIZEは創業以来一貫して、最先端技術への投資と人材育成に力を注いできました",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "創業から30年以上が経過し、3Dプリンティング技術は大きく進化しました",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "創業から34年を経て、SOLIZEは新たな成長ステージへと踏み出しました",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "同社は創業以来、3Dプリンティング技術のパイオニアとして、常に技術の最前線に立ち続けてきました",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZEは1990年の創業以来、3Dプリンティングのパイオニアとして技術革新を牽引してきました",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング事業は、同社の創業以来の中核事業です",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来培ってきた価値観や暗黙知を次世代に伝えながら、時代の変化に合わせて組織文化そのものを進化させていくことが求められています",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "CSM Software Private Limited および CSM Software USA Inc.,を買収、設計・解析等のエンジニアリングサービスを開始",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、インド、米国については、2016年５月に、ESO（Engineering Services Outsourcing）の会社であるCSMグループのCSM Software Private Limited（現SOLIZE PARTNERS India Private Limited）及びCSM Software USA,LLC（現SOLIZE USA Corporation）を買収し、インド及び米国における支援体制を強化しました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な支出の内訳は、株式会社フューレックス社の買収による連結の範囲の変更を伴う子会社株式の取得1,076百万円、ソフトウエア等無形固定資産の取得436百万円、オフィスの拡張や３Ｄプリンター等有形固定資産の取得281百万円、コーポレートベンチャーキャピタル等への出資による投資有価証券の取得179百万円、RACAR Canada社からの事業譲受による支出179百万円となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "2016年に実施したCSM Software Private Limited（現SOLIZE PARTNERS India Private Limited）及びCSM Software USA,LLC（現SOLIZE USA Corporation）の買収時のように、一時的にまとまった資金需要が発生し、資金の流動性が低下するリスクがあるため、借入等機動的な資金調達ができる体制の構築を進めて参ります",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "CSM Software Private Limited および CSM Software USA Inc.,を買収",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "大和ハウスが23道県で新築撤退へ…ハウスメーカー業界のヤバい現状についてお伝えします",
+    "url": "https://www.youtube.com/watch?v=YW0752i2aCQ",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Acquires 260 Million Operating Profit SES Company for 3.2 Billion | 2.7 Billion of Acquisition Funds to be Borrowed, Enjoy's Net Assets Exceed 1 Billion｜モリタマナヴ / M&Aニュース解説",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Acquires 260 Million Operating Profit SES Company for 3.2 Billion | 2.7 Billion of Acquisition Funds to be Borrowed, Enjoy's Net Assets Exceed 1 Billion",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition Ratio: 100%",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Number of Shares Acquired: 1,000 shares",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Share Acquisition Price: 3.2 billion yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Holdings Planned Acquisition Loan Amount: 2.7 billion yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing the acquisition price of 3.2 billion yen with the fiscal year ending October 2025 performance, the price-to-sales ratio is approximately 1.17x, the operating profit multiple is approximately 12.2x, the ordinary profit multiple is approximately 10.6x, the net profit multiple is approximately 15.0x, and the PBR is approximately 3.09x.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And what is even more important this time is the financing. SOLIZE Holdings plans to borrow 2.7 billion yen from city banks as part of the acquisition funds, covering approximately 84% of the 3.2 billion yen stock acquisition price through borrowing. This is an M&A that accelerates the growth of the software business by making significant use of bank loans rather than just a cash acquisition.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisition price is 3.2 billion yen.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "+81 will acquire all 1,000 shares of Enjoy stock held by two individual shareholders. The names of the sellers and their individual shareholding ratios are undisclosed at their request.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The stock acquisition price is 3.2 billion yen, and the total expenditure including advisory fees is approximately 3.212 billion yen. After the stock transfer, +81 will hold 100% of the voting rights.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dividing the 3.2 billion yen stock acquisition price by the most recent financial results gives:",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Against a share acquisition price of 3.2 billion yen, Enjoy's net assets as of the end of October 2025 are 1.037 billion yen.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, in actual business combination accounting, assets and liabilities are revalued at fair value at the time of acquisition, and identifiable intangible assets such as customer-related assets may be recognized, so this 2.163 billion yen will not necessarily become goodwill as is.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, SOLIZE itself has also disclosed that goodwill is expected to arise on its consolidated financial statements from this M&A.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "257億79百万円（連結：2025年12月期）",
+    "url": "https://www.solize.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "に売上高が減少 、民事再生手続きを申",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 2010年代後半は売上高は横ばい傾向、2020年コロナ禍により売上高が減少",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 2020年以降、成長に向けた投資を積極的に行い、2025年にかけて10%以上の売上高成長率を達成",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 2025年12月期第4四半期単独期間においては、当社設立以来初の70億円を超過",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高推移（2017年～2025年）",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "161億円 167億円 163億円",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "178億円 200億円",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "70億円227億円",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2025年度連結売上）",
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "両社のノウハウや人材を組み合わせて、2社合計で早期に200億円規模の売り上げを目指す",
+    "url": "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末の資産合計は前連結会計年度末に比べて251百万円増加し、15,699百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "現金及び預金等の流動資産が1,558百万円減少した一方、のれん等の無形固定資産が1,410百万円増加したほか、投資有価証券等の投資その他の資産が258百万円増加したこと等が主な要因となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末の負債合計は前連結会計年度末に比べて401百万円増加し、4,371百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他流動負債が90百万円減少、また買掛金が70百万円減少した一方、未払消費税等が529百万円増加したこと等が主な要因となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末の純資産合計は前連結会計年度末に比べて149百万円減少し、11,328百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "資本剰余金が69百万円増加、また自己株式の減少により68百万円増加した一方、利益剰余金が283百万円減少したこと等が主な要因となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、当社グループの連結売上高は25,779百万円（前年同期比13.5％増）、営業利益は85百万円（前年同期比81.2％減）、経常利益は82百万円（前年同期比80.3％減）、親会社株主に帰属する当期純損失は36百万円（前年同期の親会社株主に帰属する当期純利益は254百万円）となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、エンジニアリング・マニュファクチャリング事業の売上高は18,828百万円（前年同期比6.9％増）、セグメント利益は435百万円（前年同期比35.9％減）となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、コンサルティング・エンジニアリング事業の売上高は4,617百万円（前年同期比20.1％増）、セグメント利益は305百万円（前年同期比57.5％減）となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、ビジネスインキュベーションの売上高は2,333百万円（前年同期比86.5％増）、セグメント損失は834百万円（前年同期のセグメント損失は942百万円）となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "営業外収益は、為替差益の増加等により前連結会計年度と比較して23百万円増加し42百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、営業外費用は、上場関連費用の減少等により11百万円減少し46百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、特別損失は、投資有価証券評価損の減少等により46百万円減少し38百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、前連結会計年度と比較して税金等調整前当期純利益が287百万円減少し43百万円となり、法人税、住民税及び事業税が166百万円減少し59百万円となった一方、一部子会社において、税効果会計における会社分類を保守的に判定したこと等により法人税等調整額が169百万円増加し、親会社株主に帰属する当期純損失は36百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度末における現金及び現金同等物の残高は4,592百万円となり、前連結会計年度末と比較し2,597百万円の減少となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "営業活動によるキャッシュ・フローは、208百万円の支出となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な増加要因は減価償却費280百万円、主な減少要因は売上債権及び契約資産の増加額327百万円、未払費用や預り金の増減によるその他の主たる営業活動181百万円等となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "前連結会計年度との比較では、営業活動によるキャッシュ・フローは506百万円減少しました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な増加要因は未払消費税等の増減額149百万円、棚卸資産の増減額137百万円、主な減少要因は税金等調整前当期純利益287百万円、仕入債務の増減額274百万円、賞与引当金の増減額200百万円となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "投資活動によるキャッシュ・フローは、2,205百万円の支出となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な支出の内訳は、株式会社フューレックス社の買収による連結の範囲の変更を伴う子会社株式の取得1,076百万円、ソフトウエア等無形固定資産の取得436百万円、オフィスの拡張や３Ｄプリンター等有形固定資産の取得281百万円、コーポレートベンチャーキャピタル等への出資による投資有価証券の取得179百万円、RACAR Canada社からの事業譲受による支出179百万円となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "前連結会計年度との比較では、投資活動によるキャッシュ・フローは1,487百万円の支出増加となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "連結の範囲の変更を伴う子会社株式の取得による支出が1,029百万円増加、ソフトウエア等無形固定資産の取得による支出が369百万円増加したこと等が主な要因となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "財務活動によるキャッシュ・フローは、181百万円の支出となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Holdings（5871）、2Q累計として売上高・売上総利益は過去最高を更新 売上高成長率を維持し営業利益は業績予想を上振れて着地 - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZEグループは、2033年に売上高1,000億円規模の企業体となることを目指しています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "2027年に売上高400億円を計画しています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "当社は2024年の秋、2033年の売上高1,000億円という目標を掲げました",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "2027年には売上高400億円規模、2033年には1,000億円規模の企業体となることを目指しています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "売上高成長による営業利益創出のフェーズ継続",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "今年2月の決算発表時にもお伝えしましたが、当社は成長フェーズから、売上高成長による営業利益創出のフェーズへと移行しています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "体制強化がある程度完了した状況の中で、2026年からはしっかりと成長しながら売上総利益を確保しつつ、販管費を適切にコントロールすることで、営業利益を着実に創出するフェーズが継続する見込みです",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は前年同期比16.8パーセント増の142億7,400万円、売上総利益は38億2,200万円となり、第2四半期累計としては売上高および売上総利益ともに過去最高を記録しました",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況の中でも慎重に対応しながら売上高の確保と売上総利益の向上に努め、販売管理費をコントロールし、確実に利益を出すことを目指しています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "売上高全体に占める割合とそれぞれの成長率です",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の売上高と営業利益はスライドのとおりです",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "一方、国内の自動車部品や3Dプリンターによる試作品の需要がやや減少しており、これが売上に影響を及ぼしています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "中核事業の状況も踏まえ、当社は第2四半期で売上高142億7,400万円、売上総利益38億2,200万円、営業利益は前年同期の赤字から8,200万円となっています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "順調に右肩上がりで推移していますが、第2四半期は当社の季節性により、稼働日が減少しますが、新入社員の配属が決まり、第3四半期以降に一気に売上が伸びる傾向にあります",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期第2四半期では赤字額が4億3,100万円でしたが、売上増加などに伴う利益増が約6億円となりました",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "通期での業績予想は、売上高305億円、営業利益5億円、経常利益5億円、当期純利益3億円としています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "これらを踏まえ、残りの第3四半期および第4四半期で売上を着実に伸ばし、経費の適切なコントロールに取り組んでいきます",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE HD、売上高・売上総利益とも過去最高を更新 Q4以降回復継続、増収益路線へ復帰予想",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "川崎汽船、通期経常利益を上方修正 新中計発表で31年度ROE15％以上・当期純利益2,100億円プラスアルファを目指す",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "BASE、3Q累計売上高YoY34％増・売上総利益48.5％増 グループの非連続な成長の実現に向け、SBIHDとの資本業務提携契約を締結",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "シーユーシー、国内医療機関の支援先拡大で2Q売上収益は過去最高 EBITDAマージンも13％に改善",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "顧客基盤(産業別売上比率(2024年度連結売上))",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "※別端末やネットワークからのログイン、メンテナンス終了後は30日を経過していなくても二段階認証が必要な場合があります",
+    "url": "https://online.solize.com/",
+    "pass": 3
+   },
+   {
+    "quote": "左ボタンによる回転と、マウスホイールでの拡大/縮小のご利用をお薦めします",
+    "url": "https://online.solize.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3．拡大縮小のやり方",
+    "url": "https://online.solize.com/",
+    "pass": 3
+   },
+   {
+    "quote": "解像度が高く、ほかの造形機では再現できないような微細造形や縮小モデルの製作に向く",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング・エンジニアリング事業の市場環境は、主要既存顧客の属する自動車産業において、期間中一時的に当社グループに対する需要が弱含む傾向となりましたが、通期では自動車産業を含め、重工業、プラント・建設業等概ね堅調な需要となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのため当社グループには、エンジニアやコンサルタント等人財への投資、製品の設計開発を行う専用ハードウエア及びソフトウエア等のツールへの投資、３Ｄ造形設備への投資、及びその原材料費の支払や人件費等運転資金に対して資金の需要があります",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "2016年に実施したCSM Software Private Limited（現SOLIZE PARTNERS India Private Limited）及びCSM Software USA,LLC（現SOLIZE USA Corporation）の買収時のように、一時的にまとまった資金需要が発生し、資金の流動性が低下するリスクがあるため、借入等機動的な資金調達ができる体制の構築を進めて参ります",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの見積りについては、継続して評価し、必要に応じて見直しを行っていますが、見積りには不確実性を伴うため、実際の結果は、これらと異なることがあります",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、継続的に収支の把握を行っている管理会計上の事業区分に基づき資産のグルーピングをし、減損の兆候の有無を判定しております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "減損の兆候があった場合、将来キャッシュ・フローを見積り、減損の要否を判定しております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "判定の結果、減損が必要と判断された資産については、帳簿価額を回収可能価額まで減額しております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、国内の自動車部品や3Dプリンターによる試作品の需要がやや減少しており、これが売上に影響を及ぼしています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "海外ではインドが非常に好調である一方、中国と北米では設計開発の需要が若干減少しています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、自動車産業が厳しい状況にある中、当社の産業分野を拡張する観点では、重工業における変革コンサルティングサービスの需要が今年非常に拡大しており、この流れは秋以降も継続する見込みです",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "中核事業の状況も踏まえ、当社は第2四半期で売上高142億7,400万円、売上総利益38億2,200万円、営業利益は前年同期の赤字から8,200万円となっています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期第2四半期では赤字額が4億3,100万円でしたが、売上増加などに伴う利益増が約6億円となりました",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "スローガン、新卒採用支援「Goodfind」が堅調に成長 不採算事業の整理で上期増収増益、営業利益率34.7％",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "現在、応募受付を停止しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度新卒採用 全職種募集終了のお知らせ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度新卒採用 CAD/CAEエンジニア職につきましては、多くの皆さまからご応募をいただき、採用予定人数に達したため募集を終了いたしました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、CAD/CAEエンジニア職の募集終了をもちまして、2027年度新卒採用における全職種の募集を終了いたしました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "大和ハウスが23道県で新築撤退へ…ハウスメーカー業界のヤバい現状についてお伝えします",
+    "url": "https://www.youtube.com/watch?v=YW0752i2aCQ",
+    "pass": 3
+   },
+   {
+    "quote": "Since Enjoy was founded in 2013, it is achieving an exit with an enterprise equity value of 3.2 billion yen in about 13 years.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーをはじめとする顧客企業が開発投資を縮小する中、SOLIZEの受注も大きく落ち込みました",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は、製造業のデジタル化需要の高まりを背景に、SOLIZEのサービスへの需要が拡大していることを示しています",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3Dプリンター パーツ製造 - SOLIZE PARTNERS — 3Dプリンター パーツ製造 - SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > manufacturing",
+    "url": "https://partners.solize.com/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 販売・保守 - SOLIZE PARTNERS — 3Dプリンター 販売・保守 - SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > ...",
+    "url": "https://partners.solize.com/3dp-sales",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター とは？基礎知識～活用方法まで徹底解説 — 3Dプリンター とは？基礎知識～活用方法まで徹底解説 SOLIZE Holdings https://online.solize.com > blog",
+    "url": "https://online.solize.com/blog/about3dp",
+    "pass": 3
+   },
+   {
+    "quote": "「 SOLIZE オンライン 3D プリント」がリニューアル、2つの ... — 「 SOLIZE オンライン 3D プリント」がリニューアル、2つの ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 造形サービス",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE オンライン 3D プリント出力サービス — SOLIZE オンライン 3D プリント出力サービス SOLIZE Holdings https://online.solize.com",
+    "url": "https://online.solize.com/",
+    "pass": 3
+   },
+   {
+    "quote": "工業用 3Dプリント 出力、 3Dプリンター による試作品製作なら ... — 工業用 3Dプリント 出力、 3Dプリンター による試作品製作なら ... SOLIZE PARTNERS株式会社 https://partners.solize.com > ...",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems社製 3Dプリンター - SOLIZE PARTNERS — 3D Systems社製 3Dプリンター - SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > ... > 3Dプリンター 販売・保守",
+    "url": "https://partners.solize.com/3dp-sales/3dsystems",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERS が Formlabs の国内販売代理店として 3D ... — SOLIZE PARTNERS が Formlabs の国内販売代理店として 3D ... Formlabs https://formlabs.com > blog > solize-partners",
+    "url": "https://formlabs.com/jp/blog/solize-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 2社が市場拡大へ連携 SOLIZE とNTTデータ系 — 3Dプリンター 2社が市場拡大へ連携 SOLIZE とNTTデータ系 日本経済新聞 https://www.nikkei.com > ビジネス > 情報通信・ネット",
+    "url": "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 造形 （PBF） - SOLIZE PARTNERS — 金属 造形 （PBF） - SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > manufacturing > technology",
+    "url": "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Holdings【5871】の 事業 内容 - キタイシホン — SOLIZE Holdings【5871】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE HD、2Q累計として 売上 高・ 売上 総利益は過去最高を ... — SOLIZE HD、2Q累計として 売上 高・ 売上 総利益は過去最高を ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "製造技術（ 造形 ・加工技術） - SOLIZE PARTNERS — 製造技術（ 造形 ・加工技術） - SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > ... > 3Dプリンター パーツ製造",
+    "url": "https://partners.solize.com/manufacturing/technology",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERS(株)の新卒採用・会社概要 | マイナビ2027 — SOLIZE PARTNERS(株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp76518 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 最終製品製作 - SOLIZE PARTNERS — 3Dプリンター 最終製品製作 - SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > ... > 3Dプリンター パーツ製造",
+    "url": "https://partners.solize.com/manufacturing/3dp-production",
+    "pass": 3
+   },
+   {
+    "quote": "工業用3Dプリント出力、 3Dプリンター による試作品製作なら ... — 工業用3Dプリント出力、 3Dプリンター による試作品製作なら ... SOLIZE PARTNERS株式会社 https://partners.solize.com > ...",
+    "url": "https://partners.solize.com/lp",
+    "pass": 3
+   },
+   {
+    "quote": "【 SOLIZE PARTNERS】試作から量産まで 3D プリントを加速 ... — 【 SOLIZE PARTNERS】試作から量産まで 3D プリントを加速 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=1UyR2aPzHag",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道・航空宇宙まで広がる 3Dプリンター 本格活用～トーマス ... — 鉄道・航空宇宙まで広がる 3Dプリンター 本格活用～トーマス ... SOLIZE PARTNERS株式会社 https://partners.solize.com > TOP > イベント",
+    "url": "https://partners.solize.com/event/2025/1028-2",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 資料 - SOLIZE — 決算説明 資料 - SOLIZE SOLIZE Holdings https://www.solize.com > library > presentation",
+    "url": "https://www.solize.com/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年12月期第2四半期 決算説明 会】 SOLIZE Holdings(5871) — 【2026年12月期第2四半期 決算説明 会】 SOLIZE Holdings(5871) ログミーFinance https://finance.logmi.jp > IRイベント",
+    "url": "https://finance.logmi.jp/ir_event/1097",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 - SOLIZE — 株主・投資家情報 - SOLIZE SOLIZE Holdings株式会社 https://www.solize.com > ...",
+    "url": "https://www.solize.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年12月期第2四半期 決算説明 会】 SOLIZE ... - YouTube — 【2025年12月期第2四半期 決算説明 会】 SOLIZE ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=YW0752i2aCQ",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 - SOLIZE — 沿革 - SOLIZE SOLIZE Holdings株式会社 https://www.solize.com > corporate > history",
+    "url": "https://www.solize.com/corporate/history/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 情報： SOLIZE Holdings株式 会社 — 会社 情報： SOLIZE Holdings株式 会社 SOLIZE Holdings https://www.solize.com > corporate > company",
+    "url": "https://www.solize.com/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "持株 会社 体制への移行完了に関するお知らせ | 2025年 - SOLIZE — 持株 会社 体制への移行完了に関するお知らせ | 2025年 - SOLIZE SOLIZE Holdings https://www.solize.com > news",
+    "url": "https://www.solize.com/news/2025/0701/",
+    "pass": 3
+   },
+   {
+    "quote": "【 SOLIZE Holdings】[5871]企業 概要 社員数や役員報酬・資本金 — 【 SOLIZE Holdings】[5871]企業 概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5871",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 - SOLIZE — よくあるご質問 - SOLIZE SOLIZE Holdings株式会社 https://www.solize.com > faq",
+    "url": "https://www.solize.com/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Holdings株式 会社 — SOLIZE Holdings株式 会社 SOLIZE Holdings https://www.solize.com",
+    "url": "https://www.solize.com/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "これらの結果、当社グループの連結売上高は25,779百万円（前年同期比13.5％増）、営業利益は85百万円（前年同期比81.2％減）、経常利益は82百万円（前年同期比80.3％減）、親会社株主に帰属する当期純損失は36百万円（前年同期の親会社株主に帰属する当期純利益は254百万円）となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、前連結会計年度と比較して税金等調整前当期純利益が287百万円減少し43百万円となり、法人税、住民税及び事業税が166百万円減少し59百万円となった一方、一部子会社において、税効果会計における会社分類を保守的に判定したこと等により法人税等調整額が169百万円増加し、親会社株主に帰属する当期純損失は36百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な増加要因は未払消費税等の増減額149百万円、棚卸資産の増減額137百万円、主な減少要因は税金等調整前当期純利益287百万円、仕入債務の増減額274百万円、賞与引当金の増減額200百万円となっております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針・経営戦略、経営上の目標の達成状況を判断するため、当社グループでは売上高対前年増加率及び営業利益額を重視するとともに、売上高の大部分を占める構成要素である国内エンジニア数(含 コンサルタント)を客観的な指標としております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社グループサービスの本業による付加価値の拡大を目指し、営業利益の成長を重要な目標と考えております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度においては、売上高対前年増加率13.5％、営業利益は85百万円となりました",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．セグメント利益又は損失（△）は、連結財務諸表の営業利益と調整を行っております",
+    "url": "https://kitaishihon.com/company/5871/business",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Holdings（5871）、2Q累計として売上高・売上総利益は過去最高を更新 売上高成長率を維持し営業利益は業績予想を上振れて着地 - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "売上高成長による営業利益創出のフェーズ継続",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "今年2月の決算発表時にもお伝えしましたが、当社は成長フェーズから、売上高成長による営業利益創出のフェーズへと移行しています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "体制強化がある程度完了した状況の中で、2026年からはしっかりと成長しながら売上総利益を確保しつつ、販管費を適切にコントロールすることで、営業利益を着実に創出するフェーズが継続する見込みです",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、営業利益も前年同期比5億1,300万円増の8,200万円となっています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の売上高と営業利益はスライドのとおりです",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "一部の事業では営業利益が前年同期を下回っていますが、これは昨年7月の持株会社化に伴う費用増加によるものです",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "中核事業の状況も踏まえ、当社は第2四半期で売上高142億7,400万円、売上総利益38億2,200万円、営業利益は前年同期の赤字から8,200万円となっています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期第2四半期では赤字額が4億3,100万円でしたが、売上増加などに伴う利益増が約6億円となりました",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "通期での業績予想は、売上高305億円、営業利益5億円、経常利益5億円、当期純利益3億円としています",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "川崎汽船、通期経常利益を上方修正 新中計発表で31年度ROE15％以上・当期純利益2,100億円プラスアルファを目指す",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "シーユーシー、国内医療機関の支援先拡大で2Q売上収益は過去最高 EBITDAマージンも13％に改善",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "スローガン、新卒採用支援「Goodfind」が堅調に成長 不採算事業の整理で上期増収増益、営業利益率34.7％",
+    "url": "https://finance.logmi.jp/articles/385719",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Acquires 260 Million Operating Profit SES Company for 3.2 Billion | 2.7 Billion of Acquisition Funds to be Borrowed, Enjoy's Net Assets Exceed 1 Billion｜モリタマナヴ / M&Aニュース解説",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Acquires 260 Million Operating Profit SES Company for 3.2 Billion | 2.7 Billion of Acquisition Funds to be Borrowed, Enjoy's Net Assets Exceed 1 Billion",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Operating Profit: 263 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ordinary Profit: 302 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Net Profit for the Period: 213 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing the acquisition price of 3.2 billion yen with the fiscal year ending October 2025 performance, the price-to-sales ratio is approximately 1.17x, the operating profit multiple is approximately 12.2x, the ordinary profit multiple is approximately 10.6x, the net profit multiple is approximately 15.0x, and the PBR is approximately 3.09x.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While not an extremely cheap M&A, Enjoy has consistently secured 260 million yen in operating profit and 210 million yen in net profit while growing its sales by approximately 37% over two years. Its finances are also strong, with an equity ratio of approximately 67%. Considering it is a growing, profitable SES company, the price of 3.2 billion yen has a certain degree of rationality.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Operating profit: 230 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ordinary profit: 271 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Net income: 185 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Operating profit: 260 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ordinary profit: 285 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Net income: 199 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Operating profit: 263 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ordinary profit: 302 million yen",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期の売上高は約270億円で、営業利益率は5〜6%程度と報告されています",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は5〜6%程度と、製造業向けサービス企業としては標準的な水準にあります",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "SOLIZE Acquires 260 Million Operating Profit SES ... - note SOLIZE Acquires 260 Million Operating Profit SES ... - note note https://note.com > ... > 戦略・組織論",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】 SOLIZE の志望動機30例×面接質問の解答例30例 - note 【27卒】 SOLIZE の志望動機30例×面接質問の解答例30例 - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Holdings（5871）株価・今後の見通し ... SOLIZE Holdings（5871）株価・今後の見通し ... note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-5871",
+    "pass": 3
+   },
+   {
+    "quote": "小林紀知 ｜ SOLIZE サステナブルクリエイティビティラボ - note 小林紀知 ｜ SOLIZE サステナブルクリエイティビティラボ - note note https://note.com > solize_scl",
+    "url": "https://note.com/solize_scl",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "SOLIZE Acquires 260 Million Operating Profit SES Company for 3.2 Billion | 2.7 Billion of Acquisition Funds to be Borrowed, Enjoy's Net Assets Exceed 1 Billion｜モリタマナヴ / M&Aニュース解説",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Acquires 260 Million Operating Profit SES Company for 3.2 Billion | 2.7 Billion of Acquisition Funds to be Borrowed, Enjoy's Net Assets Exceed 1 Billion",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A 3-minute explanation",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On September 10, 2026, SOLIZE Holdings, listed on the Tokyo Stock Exchange Standard Market, announced that it would acquire all shares of Enjoy Co., Ltd., a company engaged in System Engineering Services (SES), through its consolidated subsidiary +81 Inc. The share acquisition price is 3.2 billion yen, with a total investment amount including advisory fees and other costs of approximately 3.212 bi",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The key points of this transaction are as follows:",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Buyer: +81 Inc., a SOLIZE Holdings Group company",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Target Company: Enjoy Co., Ltd.",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition Ratio: 100%",
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】SOLIZEの志望動機30例×面接質問の解答例30例｜企業研究から内定獲得まで【平均年収580万】【44,193文字】｜JobVoice｜志望動機と企業研究",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】SOLIZEの志望動機30例×面接質問の解答例30例｜企業研究から内定獲得まで【平均年収580万】【44,193文字】",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "「3Dプリンターは試作品を作るもの」——そんな常識を覆し、最終製品の量産にまで3Dプリンティング技術を進化させた企業があります。1990年の創業から30年以上、日本の製造業のデジタル変革を最前線で牽引してきたSOLIZEです。2024年には東証スタンダード市場への上場を果たし、さらなる成長ステージへと歩みを進めています。",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "「SOLIZEの企業研究を進めているけれど、何が本当の強みなのかがつかめない」——あなたはそう感じていませんか。3Dプリンティングやデジタルエンジニアリングという言葉は知っていても、それが製造業にとってどれほど革新的な価値を持つのか、競合他社とどう違うのかを説明できる就活生は多くありません。ESを書こうとしても「技術力が高い」「成長している」といった表面的な言葉しか浮かばず、面接で深掘りされると言葉に詰まってしまう——そんな不安を抱えている方も少なくないでしょう。",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は、そんな悩みを解決します。SOLIZEの存在意義から歴史、ビジネスモデル、競争優位性、企業文化まで6つの視点で徹底分析し、さらに志望動機30例と面接質問攻略30選を収録しています。この記事を読み終えるころには、あなたはSOLIZEという企業の本質を深く理解し、他の就活生とは一線を画す志望動機と面接回答を準備できるようになります。さあ、SOLIZE内定への第一歩を、今ここから踏み出しましょう。",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "🗂️ 第1章 SOLIZEの存在意義と社会的役割",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE／創業1990年／従業員数約3,900名（連結）",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.solize.com/",
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "pass": 3
+   },
+   {
+    "quote": "ＳＯＬＩＺＥ Ｈｏｌｄｉｎｇｓ（5871）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-5871",
+    "pass": 3
+   },
+   {
+    "quote": "小林紀知 ｜SOLIZEサステナブルクリエイティビティラボ｜note",
+    "url": "https://note.com/solize_scl",
+    "pass": 3
+   },
+   {
+    "quote": "関係のレッスン＠京都とRENEW/2026＠越前鯖江",
+    "url": "https://note.com/solize_scl",
+    "pass": 3
+   },
+   {
+    "quote": "小林紀知 ｜SOLIZEサステナブルクリエイティビティラボ",
+    "url": "https://note.com/solize_scl",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN HOUSEの巡回企画展第8期に採択！",
+    "url": "https://note.com/solize_scl",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SOLIZE Holdings株式会社 (@SolizeC) / X SOLIZE Holdings株式会社 (@SolizeC) / X X https://x.com > SolizeC",
+    "url": "https://x.com/SolizeC",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Holdings株式会社 - X SOLIZE Holdings株式会社 - X X https://x.com > @SolizeC",
+    "url": "https://x.com/SolizeC/status/2118163085655679231",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Holdings株式会社 - X SOLIZE Holdings株式会社 - X X https://x.com > @SolizeC",
+    "url": "https://x.com/SolizeC/status/2072215612361937141",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE オンライン3Dプリント (@solizeonline3dp) / X SOLIZE オンライン3Dプリント (@solizeonline3dp) / X X https://x.com > solizeonline3dp",
+    "url": "https://x.com/solizeonline3dp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SOLIZE North America - Talent & Technology | LinkedIn SOLIZE North America - Talent & Technology | LinkedIn LinkedIn https://www.linkedin.com > company > solize-na",
+    "url": "https://www.linkedin.com/company/solize-na",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Corporation - LinkedIn SOLIZE Corporation - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/solize-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERS India Pvt. Ltd | LinkedIn SOLIZE PARTNERS India Pvt. Ltd | LinkedIn LinkedIn India https://in.linkedin.com > company > s...",
+    "url": "https://in.linkedin.com/company/solizepartnersindia",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE Corporation | LinkedIn SOLIZE Corporation | LinkedIn LinkedIn https://jp.linkedin.com > company > solize-corporation",
+    "url": "https://jp.linkedin.com/company/solize-corporation",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SOLIZE 株式会社 採用チーム - Facebook SOLIZE 株式会社 採用チーム - Facebook Facebook https://www.facebook.com > ... > Interest > Science & Tech",
+    "url": "https://www.facebook.com/p/SOLIZE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%8E%A1%E7%94%A8%E3%83%81%E3%83%BC%E3%83%A0-61556465392526/",
+    "pass": 3
+   },
+   {
+    "quote": "Solize 東川町駐在チーム - Facebook Solize 東川町駐在チーム - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Furniture",
+    "url": "https://www.facebook.com/p/Solize%E6%9D%B1%E5%B7%9D%E7%94%BA%E9%A7%90%E5%9C%A8%E3%83%81%E3%83%BC%E3%83%A0-61577770320228/",
+    "pass": 3
+   },
+   {
+    "quote": "Solize Mahn - Facebook Solize Mahn - Facebook Facebook https://www.facebook.com > solize",
+    "url": "https://www.facebook.com/solize.mahn/",
+    "pass": 3
+   },
+   {
+    "quote": "Solize Holdings株式会社 | Chiyoda-ku Tokyo - Facebook Solize Holdings株式会社 | Chiyoda-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/p/Solize-Holdings%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-61554720998261/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.solize.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solize.com/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solize.com/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solize.com/corporate/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solize.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solize.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solize.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solize.com/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solize.com/news/2026/0522/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solize.com/news/2026/1104/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.solize.com/ir/library/material/SOLIZE%20Holdings_company%20profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.solize.com/common/img/business/img_logo_1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.solize.com/common/img/business/img_logo_2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.solize.com/common/img/business/img_logo_3.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.solize.com/common/img/business/img_logo_4.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.solize.com/common/img/business/img_1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.solize.com/common/img/business/img_2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://partners.solize.com/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/3dp-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/about3dp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/lp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/3dp-sales/3dsystems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/solize-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/about3dp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5871/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/385719",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/manufacturing/technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/manufacturing/3dp-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/lp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=1UyR2aPzHag",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.solize.com/event/2025/1028-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinarweek.net/ww/2023093DP/webinar/WN_hMURnrj5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finance.logmi.jp/ir_event/1097",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=YW0752i2aCQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5871",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-5871",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/solize_scl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SolizeC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SolizeC/status/2118163085655679231",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SolizeC/status/2072215612361937141",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/solizeonline3dp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/solize-na",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/solize-corporation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/solizepartnersindia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/solize-corporation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/SOLIZE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%8E%A1%E7%94%A8%E3%83%81%E3%83%BC%E3%83%A0-61556465392526/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Solize%E6%9D%B1%E5%B7%9D%E7%94%BA%E9%A7%90%E5%9C%A8%E3%83%81%E3%83%BC%E3%83%A0-61577770320228/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/solize.mahn/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Solize-Holdings%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-61554720998261/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SolizeC",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SOLIZE 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://partners.solize.com/manufacturing",
+    "https://partners.solize.com/3dp-sales",
+    "https://online.solize.com/blog/about3dp",
+    "https://news.sharelab.jp/3dp-news/3dprinting/solize-online-3dprint-230613/",
+    "https://online.solize.com/",
+    "https://www.youtube.com/watch?v=a9ObfXQkXVg",
+    "https://formlabs.com/jp/blog/solize-partners/",
+    "https://shikiho.toyokeizai.net/news/0/851445",
+    "https://online.solize.com/blog/about-sla",
+    "https://ja.wikipedia.org/wiki/SOLIZE_Holdings"
+   ]
+  },
+  {
+   "query": "SOLIZE 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://partners.solize.com/lp",
+    "https://partners.solize.com/3dp-sales/3dsystems",
+    "https://formlabs.com/jp/blog/solize-partners/",
+    "https://online.solize.com/blog/about3dp",
+    "https://www.nikkei.com/article/DGXZQOUC281MZ0Y6A021C2000000/",
+    "https://shikiho.toyokeizai.net/news/0/851445",
+    "https://online.solize.com/blog/metal3dp-mechanism",
+    "https://news.sharelab.jp/tag/solize/",
+    "https://mono.ipros.com/product/detail/2000547731/",
+    "https://www.solize.com/news/2025/0109/"
+   ]
+  },
+  {
+   "query": "SOLIZE 積層造形 事業 売上",
+   "results": [
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://kitaishihon.com/company/5871/business",
+    "https://finance.logmi.jp/articles/385719",
+    "https://partners.solize.com/manufacturing/technology",
+    "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "https://shikiho.toyokeizai.net/stocks/5871/corporate",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/solize20250423.pdf",
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "https://kabutan.jp/news/marketnews/?b=n202505120484",
+    "https://www.solize.com/ir/library/result/"
+   ]
+  },
+  {
+   "query": "SOLIZE 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://partners.solize.com/manufacturing/3dp-production",
+    "https://partners.solize.com/lp",
+    "https://www.youtube.com/watch?v=1UyR2aPzHag",
+    "https://partners.solize.com/event/2025/1028-2",
+    "https://webinarweek.net/ww/2023093DP/webinar/WN_hMURnrj5",
+    "https://www.instagram.com/reel/DQGwjYdD9GQ/",
+    "https://partners.solize.com/manufacturing",
+    "https://tv.aperza.com/watch/665",
+    "https://sharelab.jp/events/solize-event-250716/",
+    "https://shachomeikan.jp/corporations/22823"
+   ]
+  },
+  {
+   "query": "SOLIZE 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.solize.com/ir/library/presentation/",
+    "https://finance.logmi.jp/ir_event/1097",
+    "https://www.solize.com/ir/",
+    "https://www.youtube.com/watch?v=YW0752i2aCQ",
+    "https://www.solize.com/corporate/history/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5871",
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20251107591698/140120251107591698.pdf",
+    "https://shikiho.toyokeizai.net/stocks/5871/corporate",
+    "https://www.solize.com/ir/library/result/",
+    "https://edinetdb.jp/company/E35118/presentations/"
+   ]
+  },
+  {
+   "query": "SOLIZE 会社概要 設立 株主",
+   "results": [
+    "https://www.solize.com/corporate/company/",
+    "https://www.solize.com/news/2025/0701/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5871",
+    "https://www.solize.com/ir/faq/",
+    "https://www.solize.com/",
+    "https://ja.wikipedia.org/wiki/SOLIZE_Holdings",
+    "https://job.mynavi.jp/27/pc/search/corp76518/outline.html",
+    "https://www.solize.com/corporate/history/",
+    "https://kabutan.jp/stock/holder?code=5871",
+    "https://www.solize.com/en/corporate/company/"
+   ]
+  },
+  {
+   "query": "site:note.com SOLIZE",
+   "results": [
+    "https://note.com/manav_/n/nb0788799de3b?hl=en",
+    "https://note.com/jobhuntkeyence/n/n7a0c5a03259e",
+    "https://note.com/tag/vm/investment_money/company-5871",
+    "https://note.com/solize_scl",
+    "https://note.com/qfindr/n/n3e451ed5d4ff",
+    "https://note.com/stelaq_id/n/nf0a4ba56a624",
+    "https://note.com/ict_pe/n/nf4d2e8c8595e",
+    "https://note.com/stelaq_id/n/n339d7936e48e",
+    "https://note.com/solize_scl/n/n8367d06e2f49",
+    "https://note.com/kaisyakachitrend/n/nb20d8335ce8d"
+   ]
+  },
+  {
+   "query": "site:x.com SOLIZE",
+   "results": [
+    "https://x.com/SolizeC",
+    "https://x.com/SolizeC/status/2118163085655679231",
+    "https://x.com/SolizeC/status/2072215612361937141",
+    "https://x.com/solizeonline3dp",
+    "https://x.com/SolizeC/status/2117082825912623216",
+    "https://x.com/SolizeC/status/2118200371655135288",
+    "https://x.com/SolizeC/status/2117838181290955170",
+    "https://x.com/Sol_Higashikawa",
+    "https://x.com/SolizeC/status/2059447678749245948",
+    "https://x.com/SolizeC/status/2059546732099473432"
+   ]
+  },
+  {
+   "query": "site:linkedin.com SOLIZE",
+   "results": [
+    "https://www.linkedin.com/company/solize-na",
+    "https://www.linkedin.com/company/solize-corporation",
+    "https://in.linkedin.com/company/solizepartnersindia",
+    "https://jp.linkedin.com/company/solize-corporation",
+    "https://www.linkedin.com/in/bharath-mani-7a48a94",
+    "https://in.linkedin.com/jobs/view/teritory-sales-manager-at-solize-partners-india-pvt-ltd-4440522278",
+    "https://in.linkedin.com/in/sridhar-sripad-78812b55",
+    "https://in.linkedin.com/in/anup-dubey-71881852",
+    "https://in.linkedin.com/in/mahadevan-v-s",
+    "https://in.linkedin.com/in/naveen-sp-980006107"
+   ]
+  },
+  {
+   "query": "site:facebook.com SOLIZE",
+   "results": [
+    "https://www.facebook.com/p/SOLIZE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%8E%A1%E7%94%A8%E3%83%81%E3%83%BC%E3%83%A0-61556465392526/",
+    "https://www.facebook.com/p/Solize%E6%9D%B1%E5%B7%9D%E7%94%BA%E9%A7%90%E5%9C%A8%E3%83%81%E3%83%BC%E3%83%A0-61577770320228/",
+    "https://www.facebook.com/solize.mahn/",
+    "https://www.facebook.com/p/Solize-Holdings%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-61554720998261/",
+    "https://www.facebook.com/61554720998261/posts/solize-partners-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E3%81%AE%E4%BA%95%E4%B8%8A-%E9%9B%84%E4%BB%8B%E3%81%8C%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%86%B1%E8%AA%9E%E3%82%BC%E3%83%9F%E3%81%AB%E7%99%BB%E5%A3%87%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%95%99%E9%A4%8A%E5%AD%A6%E9%83%A8%E5%AE%87%E9%87%8E%E5%81%A5%E5%8F%B8%E6%95%99%E6%8E%88%E3%81%8C%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%99%E3%82%8B%E6%9C%80%E5%85%88%E7%AB%AF%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%92%E7%86%B1%E3%81%8F%E8%AA%9E%E3%82%8B%E3%82%BC%E3%83%9F/122270308826157366/",
+    "https://www.facebook.com/Solize.Online3DPrint/albums/1001644473257152/",
+    "https://www.facebook.com/61554720998261/posts/solize-partners%E3%81%8C%E6%9C%AC%E6%97%A5%E3%81%8B%E3%82%893%E6%97%A5%E9%96%93%E7%AC%AC38%E5%9B%9E-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%B1%E4%BA%AC%E3%81%AB%E5%87%BA%E5%B1%95%E4%B8%AD%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%88-%E8%A5%BF%E5%B1%95%E7%A4%BA%E6%A3%9F%E3%81%A7%E3%81%99%E3%81%94%E6%9D%A5%E5%A0%B4%E3%81%AE%E9%9A%9B%E3%81%AF%E3%81%9C%E3%81%B2%E3%81%8A%E7%AB%8B%E3%81%A1%E5%AF%84%E3%82%8A%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E6%AC%A1%E4%B8%96%E4%BB%A3-3/122255279222157366/",
+    "https://www.facebook.com/61556465392526/posts/%E6%98%A8%E5%B9%B412%E6%9C%88%E3%81%ABsolize-innovations%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%81%AE%E5%85%88%E8%BC%A9%E7%A4%BE%E5%93%A1%E3%81%8Cyoutube%E9%85%8D%E4%BF%A1%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E5%8F%82%E5%8A%A0%E4%B8%80%E8%88%AC%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9C%E3%81%B2%E3%81%BB%E3%81%8B%E3%81%AE%E4%BC%81%E6%A5%AD%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%A8%E5%85%B1%E3%81%ABsolize/122273198360215513/",
+    "https://www.facebook.com/Solize.Online3DPrint/",
+    "https://www.facebook.com/solizemusic/"
+   ]
+  },
+  {
+   "query": "SOLIZE note 社長",
+   "results": [
+    "https://note.com/stelaq_id/n/nf0a4ba56a624",
+    "https://www.solize.com/corporate/message/",
+    "https://note.com/stelaq_id/n/n339d7936e48e",
+    "https://partners.solize.com/aboutus/info",
+    "https://www.nikkei.com/article/DGXZQOUC221X80S4A120C2000000/",
+    "https://note.com/manav_/n/nb0788799de3b",
+    "https://www.solize.com/corporate/officer/",
+    "https://shachomeikan.jp/industry_article/2616",
+    "https://www.youtube.com/watch?v=lrxHcXHWKWg",
+    "https://kigyo-scope.jp/company/5871/ceo/"
+   ]
+  },
+  {
+   "query": "SOLIZE X 投稿",
+   "results": [
+    "https://www.solize.com/",
+    "https://x.com/SolizeC",
+    "https://www.solize.com/en/ir/",
+    "https://www.solize.com/en/business/",
+    "https://www.solize.com/ir/",
+    "https://s.kabutan.jp/stocks/5871/news/",
+    "https://www.solize.com/contacts/",
+    "https://syukatsu-kaigi.jp/companies/107097/screening_experiences",
+    "https://x.com/hashtag/SOLIZE?f=live",
+    "https://note.com/seizo_japan/n/n3e1894d0551a"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式10頁／PDF・画像7件／外部40頁・検索12回）"
+ }
+}

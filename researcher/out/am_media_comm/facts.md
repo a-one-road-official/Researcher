@@ -1,0 +1,1078 @@
+# AMのメディア・コミュニティ（日本・海外）：運営母体・規模・稼ぎ方・読者と会員（事実のみ・12社）
+
+## 3DPrint.com
+- 公式URL：https://3dprint.com（given）
+- 稼ぎ方：
+  - 「Advertise - 3DPrint.com | Additive Manufacturing Business」（https://3dprint.com/advertise/・1回目）
+  - 「In-Vision LIVE-Webinar: Bioprinting from Scratch」（https://3dprint.com/advertise/・1回目）
+  - 「, please contact — advertising@3dprint.com — for any questions or complete the form below.」（https://3dprint.com/advertise/・1回目）
+  - 「I'm Interested In Advertising」（https://3dprint.com/advertise/・1回目）
+  - 「Join Our Growing List of Advertisers and Event Sponsors」（https://3dprint.com/advertise/・1回目）
+  - 「In-Vision LIVE-Webinar: Bioprinting from Scratch」（https://3dprint.com/events/・1回目）
+  - 「If you would like to advertise your event with 3DPrint.com, please」（https://3dprint.com/events/・1回目）
+  - 「In-Vision LIVE-Webinar: Bioprinting from Scratch」（https://3dprint.com/newsletter/・1回目）
+  - 「Following its beta phase, the Additive App Suite is now commercially available, with subscription options for individuals and teams.」（https://3dprint.com/336112/how-trinckle-turns-everyday-production-challenges-into-3d-printable-solutions/・1回目）
+  - 「In-Vision LIVE-Webinar: Bioprinting from Scratch」（https://3dprint.com/category/3d-printing-events/・1回目）
+  - 「In-Vision LIVE-Webinar: Bioprinting from Scratch」（https://3dprint.com/category/sponsored/・1回目）
+  - 「In-Vision LIVE-Webinar: Bioprinting from Scratch」（https://3dprint.com/get-pro/・1回目）
+- 規模：
+  - 「Free Daily Newsletter」（https://3dprint.com/advertise/・1回目）
+  - 「I agree to receive the 3DPrint.com Daily newsletter and promotional email correspondence.」（https://3dprint.com/advertise/・1回目）
+  - 「Free Daily Newsletter」（https://3dprint.com/events/・1回目）
+  - 「I agree to receive the 3DPrint.com Daily newsletter and promotional email correspondence.」（https://3dprint.com/events/・1回目）
+  - 「Newsletter - 3DPrint.com | Additive Manufacturing Business」（https://3dprint.com/newsletter/・1回目）
+  - 「Free Daily Newsletter」（https://3dprint.com/newsletter/・1回目）
+  - 「Subscribe to Our Email Newsletter」（https://3dprint.com/newsletter/・1回目）
+  - 「I agree to receive the 3DPrint.com Daily newsletter and promotional email correspondence.」（https://3dprint.com/newsletter/・1回目）
+  - 「Subscribe to Our Email Newsletter」（https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls/・1回目）
+  - 「Subscribe to Our Email Newsletter」（https://3dprint.com/336112/how-trinckle-turns-everyday-production-challenges-into-3d-printable-solutions/・1回目）
+  - 「subscribers only. Already a PRO subscriber?」（https://3dprint.com/335396/what-are-failed-3d-printing-companies-actually-worth/・1回目）
+  - 「Free Daily Newsletter」（https://3dprint.com/category/3d-printing-events/・1回目）
+- 読者・会員は誰か：
+  - 「Each app is designed around a particular industrial use case, simplifying the steps involved in creating a suitable solution. This allows engineers, production personnel, and other manufacturing professionals to develop customized solutions with less dependence on dedicated CAD resources.」（https://3dprint.com/336112/how-trinckle-turns-everyday-production-challenges-into-3d-printable-solutions/・1回目）
+  - 「The fastest 3D printing supplier in your shortlist may no longer be the one closest to your office. That sounds unlikely to many engineers. For years, overseas 3D printing carried…」（https://3dprint.com/category/sponsored/・1回目）
+  - 「For years, additive manufacturing has promised engineers greater design freedom. The challenge wasn’t printing the part—it was proving the part belonged on an aircraft. Designing a lightweight bracket or consolidating…」（https://3dprint.com/category/sponsored/・1回目）
+  - 「Artificial Intelligence (AI) has brought a new look to the hardware engineering domain. Using generative design algorithms, engineers put performance parameters and weight constraints together and the program generates complex,…」（https://3dprint.com/category/sponsored/・1回目）
+  - 「, will convene hospital leaders, medical device developers, and additive manufacturing engineers on Wednesday, October 21, 2026, from 10:00 AM to 12:40 PM EDT (4:00 PM to 6:40 PM CEST).」（https://3dprint.com/333306/ai-design-and-point-of-care-integration-headline-additiv-medical-2026/・1回目）
+  - 「The summit takes place on Wednesday, October 21, 2026, from 10:00 AM to 12:40 PM EDT (4:00 PM to 6:40 PM CEST) and is free to attend. The event consists of three expert panels and live audience Q&As.」（https://3dprint.com/333306/ai-design-and-point-of-care-integration-headline-additiv-medical-2026/・1回目）
+  - 「Society of Plastics Engineers」（https://3dprint.com/333306/ai-design-and-point-of-care-integration-headline-additiv-medical-2026/・1回目）
+  - 「will be in Houston, Texas from February 23-26 this week, bringing together a community of designers, engineers, entrepreneurs, and business leaders. Attendees will be able to explore all the latest design innovations from Dassault Systèmes in the 3DEXPERIENCE Works portfolio and the SOLIDWORKS ecosystem. Plus, if you can’t make it in person, the General Sessions and keynotes will」（https://3dprint.com/316532/3d-printing-webinars-events-2-23-25/・1回目）
+- 運営母体：
+  - 「Selling Printers Is Only Part of the Business」（https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls/・1回目）
+  - 「A major part of TPM3D’s approach involves helping customers manage more than the printing stage itself. Manufacturers need to select the right materials, prepare and handle powder, clean finished parts, and reuse material where possible. To support these steps, TPM3D develops its own powder materials and offers powder-handling and」（https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls/・1回目）
+  - 「Ask most people why additive manufacturing is fast, and they’ll point to the printer. A part that would take weeks to machine or mold comes off the build plate overnight. That’s true, but it’s not the whole story, and it isn’t the part of the story that’s changing how programs get to market.」（https://3dprint.com/335456/speed-to-production-isnt-about-print-speed-its-about-everything-in-between/・1回目）
+  - 「3D printer prototype as part of the」（https://3dprint.com/314387/3d-printing-webinars-events-11-10-24/・1回目）
+  - 「Device for secure fastening of crimped decorative element i.e. stone, on e.g. jewel, has setting support comprising guide slot and safe rotatable thrust, into which fixing bead is introduced, where claws are formed part of fixing bead」（https://pitchbook.com/profiles/company/100739-08・3回目）
+- AMの扱い：
+  - 「3DPrint.com — Additive Manufacturing Business」（https://3dprint.com/・1回目）
+  - 「3DPrint.com | The Voice of 3D Printing / Additive Manufacturing」（https://3dprint.com/・1回目）
+  - 「3D Printing Financials: Nikon’s Digital Manufacturing Revenue Grows 77% as Sam O’Leary Moves to Supervisory Board」（https://3dprint.com/・1回目）
+  - 「Additive Manufacturing Simulation, Monitoring, Inspection, & More at Formnext 2026」（https://3dprint.com/・1回目）
+  - 「Formnext 2026 is getting closer, and we’re already seeing lots of 3D printing industry news ahead of the trade show in Frankfurt. In this pre-event roundup, we’ll tell you about…」（https://3dprint.com/・1回目）
+  - 「3D printing has made it easier to produce prosthetics and orthotics tailored to individual patients. But making that work on a larger scale comes with its own challenges. For companies…」（https://3dprint.com/・1回目）
+  - 「3D Printing Financials: 3D Systems Still Posting Losses, But Sees 2027 Tailwinds」（https://3dprint.com/・1回目）
+  - 「Additive manufacturing (AM) has become very good at proving what is possible. Companies can print complex metal parts, reduce weight, combine multiple components into one, and produce designs that are…」（https://3dprint.com/・1回目）
+  - 「3D Printing News Briefs, November 5, 2026: Tungsten, Color Mixing, Prosthetic Socket, & More」（https://3dprint.com/・1回目）
+  - 「Making Additive Manufacturing More Accessible: How Trinckle Turns Everyday Production Challenges into 3D-Printable Solutions」（https://3dprint.com/・1回目）
+  - 「Additive manufacturing has the potential to transform how companies approach production tooling, workholding, part handling, and many other everyday manufacturing tasks. Yet, despite the growing availability of industrial 3D printing…」（https://3dprint.com/・1回目）
+  - 「3D Printing Financials: Yet Again, Xometry Sets a New Revenue Record」（https://3dprint.com/・1回目）
+- 株主構成：
+  - 「The cases of 3DEO, Evolve Additive Solutions and Fusion3, which faced closures or asset sales, and BigRep, which continued operating after a change in ownership, show how differently these situations can play out.」（https://3dprint.com/335396/what-are-failed-3d-printing-companies-actually-worth/・1回目）
+  - 「Some companies have put their machinery up for auction, while others have tried to sell their patents or keep their operations running under new ownership. And although the circumstances are different, they all make us wonder what happens next. That is, how much value remains after years of investment in an AM business that can no longer stay in business?」（https://3dprint.com/335396/what-are-failed-3d-printing-companies-actually-worth/・1回目）
+  - 「HeyGears G1X Series, the world’s first desktop full-color 3D & UV printer, has now surpassed $15 million on Kickstarter, backed by a growing global community of creators, makers, artists, and…」（https://3dprint.com/category/sponsored/・1回目）
+- 創業年度：
+  - 「Together, its manufacturing operations and partner network allow TPM3D to work with a broad range of customers, from established industrial manufacturers to smaller businesses adopting SLS for the first time.」（https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls/・1回目）
+  - 「3DPrint.com was founded in 2013.」（https://pitchbook.com/profiles/company/100739-08・3回目）
+- 売上：
+  - 「3D Printing Financials: Nikon’s Digital Manufacturing Revenue Grows 77% as Sam O’Leary Moves to Supervisory Board」（https://3dprint.com/・1回目）
+  - 「Nikon (TYO: 7731) just announced its earnings for Q2 (fiscal year ending March ’27), and we learned that the digital manufacturing business grew revenue by 77 percent to ¥17.4 billion…」（https://3dprint.com/・1回目）
+  - 「3D Printing Financials: Yet Again, Xometry Sets a New Revenue Record」（https://3dprint.com/・1回目）
+  - 「Several 3D printing companies have closed, sold their assets or restructured in 2026. Some spent years developing new printing technologies and raised millions of dollars along the way. Others built…」（https://3dprint.com/・1回目）
+  - 「TPM3D works with overseas resellers and partners to serve manufacturers across Europe, the Americas, the Middle East, Australia, and other regions. The network supports customers with equipment installation, operator training, technical assistance, and after-sales service.」（https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls/・1回目）
+  - 「3D printing revenue growth」（https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls/・1回目）
+  - 「3D Printing Financials: Protolabs Hits Record Q3 Revenue, 3D Printing Rebounds」（https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls/・1回目）
+  - 「In Q3 2025, Protolabs‘ 3D printing revenue fell by around 6 percent year-over-year (YOY), and in Q2 2026, it declined another 2.6 percent to $20.7 million. In Q3 2026, however,...」（https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls/・1回目）
+  - 「3D Printing Financials: Protolabs Hits Record Q3 Revenue, 3D Printing Rebounds」（https://3dprint.com/336112/how-trinckle-turns-everyday-production-challenges-into-3d-printable-solutions/・1回目）
+  - 「In Q3 2025, Protolabs‘ 3D printing revenue fell by around 6 percent year-over-year (YOY), and in Q2 2026, it declined another 2.6 percent to $20.7 million. In Q3 2026, however,...」（https://3dprint.com/336112/how-trinckle-turns-everyday-production-challenges-into-3d-printable-solutions/・1回目）
+  - 「The cases of 3DEO, Evolve Additive Solutions and Fusion3, which faced closures or asset sales, and BigRep, which continued operating after a change in ownership, show how differently these situations can play out.」（https://3dprint.com/335396/what-are-failed-3d-printing-companies-actually-worth/・1回目）
+  - 「Last week’s International Manufacturing Technology Snow (IMTS) in Chicago welcomed over 90,000 attendees to the jungle that is McCormick Place. With over 1.17 million square feet of exhibit space, and…」（https://3dprint.com/category/3d-printing-events/・1回目）
+- 黒字・収益性：
+  - 「The additive manufacturing (AM) industry has spent the last few years getting a lot more serious about business. Growth, profitability, consolidation, defense spending, supply chains, and scaling production now matter…」（https://3dprint.com/category/3d-printing-events/・1回目）
+  - 「. Driven by the non-profit National Center for Defense Manufacturing and Machining (」（https://3dprint.com/329818/talking-about-the-need-for-speed-at-mmx-2026/・1回目）
+  - 「for additive manufacturing (AM), is further strengthening its commitment to sustainability and circular manufacturing by joining the global non-profit Additive Manufacturer Green Trade Association (」（https://3dprint.com/317749/sustainable-am-continuum-joins-amgta/・1回目）
+- 存続：
+  - 「Several 3D printing companies have closed, sold their assets or restructured in 2026. Some spent years developing new printing technologies and raised millions of dollars along the way. Others built…」（https://3dprint.com/・1回目）
+  - 「3d printing acquisitions」（https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls/・1回目）
+  - 「When ADDMAN closed its acquisition of Forecast 3D in January 2026, the headlines focused on fleet size and Southern California footprint. Six months later, those metrics feel almost beside the…」（https://3dprint.com/category/sponsored/・1回目）
+  - 「Several 3D printing companies have closed, sold their assets or restructured in 2026. Some spent years developing new printing technologies and raised millions of dollars along the way. Others built…」（https://3dprint.com/get-pro/・1回目）
+  - 「America Makes members can help by developing capabilities that are able to produce at speed and at the point of need, and working with the government to adapt the acquisition process to the speed that additive provides at scale.」（https://3dprint.com/329818/talking-about-the-need-for-speed-at-mmx-2026/・1回目）
+  - 「3DPrint.com 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook」（https://pitchbook.com/profiles/company/100739-08・3回目）
+  - 「Corporate Backed or Acquired」（https://pitchbook.com/profiles/company/100739-08・3回目）
+  - 「When was 3DPrint.com acquired?」（https://pitchbook.com/profiles/company/100739-08・3回目）
+  - 「3DPrint.com was acquired on 10-Sep-2015.」（https://pitchbook.com/profiles/company/100739-08・3回目）
+  - 「Who acquired 3DPrint.com?」（https://pitchbook.com/profiles/company/100739-08・3回目）
+  - 「3DPrint.com was acquired by」（https://pitchbook.com/profiles/company/100739-08・3回目）
+- 検索結果の抜粋：
+  - 「About Us - 3DPrint.com | Additive Manufacturing Business — About Us - 3DPrint.com | Additive Manufacturing Business 3DPrint.com https://3dprint.com > about」（https://3dprint.com/about/・3回目）
+  - 「3DPrint.com - LinkedIn — 3DPrint.com - LinkedIn LinkedIn https://jp.linkedin.com > company > 3dprint-com」（https://jp.linkedin.com/company/3dprint-com・3回目）
+  - 「Advertise - 3DPrint.com | Additive Manufacturing Business — Advertise - 3DPrint.com | Additive Manufacturing Business 3DPrint.com https://3dprint.com > advertise」（https://3dprint.com/advertise/・3回目）
+  - 「3DPrint.com PRO — Additive Manufacturing Business — 3DPrint.com PRO — Additive Manufacturing Business 3DPrint.com https://3dprint.com > get-pro」（https://3dprint.com/get-pro/・3回目）
+  - 「3DPrint.com - YouTube — 3DPrint.com - YouTube YouTube https://www.youtube.com > 3DPrintc...」（https://www.youtube.com/c/3DPrintcomvideos・3回目）
+  - 「What's Left When a 3D Printing Company Shuts Down? — What's Left When a 3D Printing Company Shuts Down? 3DPrint.com https://3dprint.com > ...」（https://3dprint.com/335396/what-are-failed-3d-printing-companies-actually-worth/・3回目）
+  - 「3DPrint.com — Additive Manufacturing Business — 3DPrint.com — Additive Manufacturing Business 3DPrint.com https://3dprint.com」（https://3dprint.com/・3回目）
+  - 「3DPrint.com 2026 Company Profile - PitchBook — 3DPrint.com 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/100739-08・3回目）
+  - 「MecklerMedia Announces Acquisition of 3DPrint.com ... — MecklerMedia Announces Acquisition of 3DPrint.com ... 3DPrint.com https://3dprint.com > 3dprint-com-ac...」（https://3dprint.com/94995/3dprint-com-acquired/・3回目）
+  - 「3DPrint.com : Revenue , Competitors, Alternatives - Growjo — 3DPrint.com : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company」（https://growjo.com/company/3DPrint.com・3回目）
+  - 「3D Printing Financials: Yet Again, Xometry Sets a New ... — 3D Printing Financials: Yet Again, Xometry Sets a New ... 3DPrint.com https://3dprint.com > 3d-printing-fina...」（https://3dprint.com/336116/3d-printing-financials-yet-again-xometry-sets-a-new-revenue-record/・3回目）
+  - 「3D Printing Market Hits $4.48B After Six Straight Quarters of ... — 3D Printing Market Hits $4.48B After Six Straight Quarters of ... 3DPrint.com https://3dprint.com > ...」（https://3dprint.com/332850/3d-printing-market-hits-4-48b-after-six-straight-quarters-of-growth/・3回目）
+- 株主：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部22頁・検索11回）
+- 設立：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部22頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部22頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部22頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部22頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部22頁・検索11回）
+
+## 3D Printing Industry
+- 公式URL：https://platform.wohlersassociates.com/（search:ddgs:bing:３Ｄ　Ｐｒｉｎｔｉｎｇ　Ｉｎｄｕｓｔｒｙ）
+- 稼ぎ方：
+  - 「Subscription-based design libraries and software-led monetization」（https://market.us/report/3d-printing-market/・3回目）
+  - 「Market Research Reports」（https://www.grandviewresearch.com/industry-analysis/3d-printing-market-report・3回目）
+  - 「For report inquiries, custom research, subscriptions and other market intelligence requirements.」（https://www.grandviewresearch.com/industry-analysis/3d-printing-market-report・3回目）
+  - 「The fund is divided into two tracks. The first, a $50,000 Founding Sponsorship Track, has been allocated to six projects that contributed to the U1 ecosystem:」（https://3dprintingindustry.com/news/snapmaker-launches-150000-innovation-fund-for-3d-printing-developers-252320/・3回目）
+  - 「that blocked communication with unofficial third-part software, and OrcaSlicer’s developer, SoftFever, publicly declined to adopt the company’s Bambu Connect tool. That same slicer is now among the six projects Snapmaker has selected for direct sponsorship.」（https://3dprintingindustry.com/news/snapmaker-launches-150000-innovation-fund-for-3d-printing-developers-252320/・3回目）
+- 規模：
+  - 「3D Printing Industry newsletter」（https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/・3回目）
+  - 「Submissions are scored through a weighted system: 80% comes from a Tech Committee composed of Snapmaker’s product and engineering staff, invited industry experts, and longstanding community members, while the remaining 20% is drawn from a community vote based on GitHub stars, likes in community channels, and upvotes on project pages.」（https://3dprintingindustry.com/news/snapmaker-launches-150000-innovation-fund-for-3d-printing-developers-252320/・3回目）
+  - 「3D Printing Industry newsletter」（https://3dprintingindustry.com/news/snapmaker-launches-150000-innovation-fund-for-3d-printing-developers-252320/・3回目）
+- 読者・会員は誰か：
+  - 「Drawing on ongoing research, industry engagement, and market monitoring, this update highlights the most significant signals of the quarter and interprets their implications for decision makers navigating a rapidly evolving AM landscape.」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「The mission of 3DPI is to report on and create original content centered around the latest developments in 3D printing and 3D scanning to keep our large and growing audience abreast of technology breakthroughs, the latest applications and the opinions of industry insiders.」（https://3dprintingindustry.com/about-us/・3回目）
+  - 「is the head of sales and marketing at 3D Printing Industry, he holds a BSC in Business Management from the University of Manchester and is fluent in French, Italian, and Spanish. With over 5 years of experience in media and publishing, Oscar can plan a bespoke marketing campaign, drawing upon insights on the industry to help clients reach the correct audiences and meet their marketing objectives.」（https://3dprintingindustry.com/about-us/・3回目）
+  - 「Most additive manufacturing engineers working on structural drone airframes have hit a familiar constraint. HP’s Multi Jet Fusion can produce complex PA12 geometries with good dimensional accuracy, but for parts that need to handle cyclic loads or absorb impact without…」（https://3dprintingindustry.com/・3回目）
+  - 「The shortage of skilled engineers, technicians, and operators remains a major challenge for additive manufacturing. India is expected to face a deficit of several hundred thousand advanced manufacturing professionals by 2027, while similar skill gaps have been identified across Europe. Advanced manufacturing roles also carry wage premiums of」（https://market.us/report/3d-printing-market/・3回目）
+  - 「Register now for AMA: Software 2026. Join 3D Printing Industry on 22 October for expert presentations, panel discussions and live audience Q&A exploring the software shaping additive manufacturing.」（https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/・3回目）
+  - 「series from 3D Printing Industry, featuring perspectives from CEOs, engineers, and industry leaders on the」（https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/・3回目）
+  - 「series from 3D Printing Industry, featuring perspectives from CEOs, engineers, and industry leaders on the」（https://3dprintingindustry.com/news/snapmaker-launches-150000-innovation-fund-for-3d-printing-developers-252320/・3回目）
+- 運営母体：
+  - 「Made In Space, now part of Redwire, focuses on in-orbit manufacturing supported by multi-million-dollar NASA and commercial contracts. Tier-1 companies are estimated to control」（https://market.us/report/3d-printing-market/・3回目）
+  - 「The firm also sees possible signs of saturation. Chinese exports of 3D printers grew 58% in Q2, bringing first-half exports to 3.9 million units. Part of this volume reflects stocking ahead of the Q4 holiday season, but CONTEXT points to a potential gap between units shipped and what end markets can absorb.」（https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/・3回目）
+  - 「3D printing is becoming an increasingly important part of the factory - it just won’t replace the factory.」（https://www.3dprintingjournal.com/p/the-3d-printing-market-is-growing-8b9・3回目）
+- AMの扱い：
+  - 「Reports, market analysis, segment forecasts, company tracking, and the complete Wohlers Report archive for additive manufacturing.」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「Additive Manufacturing」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「The Q3 2026 Update provides the latest market intelligence on the global additive manufacturing industry, covering investment activity, international trade, and evolving competitive dynamics.」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「The Wohlers Report 2026 provides a comprehensive overview of the additive manufacturing (AM) and 3D printing industry, combining proprietary data, expert analysis, and global stakeholder input to map key trends shaping the market.」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「Wohlers Report 2026 is the definitive annual analysis of the global additive manufacturing and 3D printing industry, reflecting the market as it stands today.」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「From paintings to maps: why additive manufacturing needs live market intelligence」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「Exploring why additive manufacturing organizations depend on current market intelligence rather than annual reports. Addresses the methodology black box problem, market category dissolution, and the silo tax affecting technical teams and financial decision-makers.」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「How AI is realizing the promise of additive manufacturing」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「AI is enabling and reshaping additive manufacturing in multiple ways beyond simple process control. This report explores how AI is making it possible for AM to cross the distance toward realizing its full potential. Drawing from ASTM ICAM 2025, it provides a tour through the clear, specific, and varied ways that AI is helping to expand and realize AM's promise.」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「Reflecting on Europe's additive manufacturing path: insights from NextGen 2025」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「Expert analysis on Europe's additive manufacturing landscape following the Bayern Innovative Next Generation Manufacturing conference in Munich. Examines competitive positioning, global trade imbalances, and strategic recommendations for European AM leadership.」（https://platform.wohlersassociates.com/insights・1回目）
+  - 「In March 2025, Wohlers Report 2025 presented a comprehensive overview of the additive manufacturing (AM) and 3D printing market's performance in 2024 and Q1 of 2025. The landmark 30th anniversary edition drew from extensive surveys, interviews, and proprietary data to identify key trends shaping the global AM landscape.」（https://platform.wohlersassociates.com/insights・1回目）
+- 株主構成：
+  - 「offer a largely untapped opportunity by replacing hardware ownership with asset-light access models. These networks can reduce logistics costs by」（https://market.us/report/3d-printing-market/・3回目）
+  - 「Voxeljet and ExOne were merged into a unified industrial binder jet organization under common ownership, creating a combined metal and sand 3D printing portfolio addressing a total additive manufacturing market estimated at」（https://market.us/report/3d-printing-market/・3回目）
+  - 「or another public page, shared in a Snapmaker community channel, and submitted through the fund’s online form. Entrants retain full ownership of their work.」（https://3dprintingindustry.com/news/snapmaker-launches-150000-innovation-fund-for-3d-printing-developers-252320/・3回目）
+- 創業年度：
+  - 「from prototyping to serial production is the largest market driver, especially in aerospace, medical devices, and industrial machinery. Part volumes are increasing from tens to several thousand units per platform, while aerospace programs have adopted dozens of flight-qualified components since 2024. Additive manufacturing can reduce unit costs by」（https://market.us/report/3d-printing-market/・3回目）
+- 売上：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/about-us/・3回目）
+  - 「is the head of sales and marketing at 3D Printing Industry, he holds a BSC in Business Management from the University of Manchester and is fluent in French, Italian, and Spanish. With over 5 years of experience in media and publishing, Oscar can plan a bespoke marketing campaign, drawing upon insights on the industry to help clients reach the correct audiences and meet their marketing objectives.」（https://3dprintingindustry.com/about-us/・3回目）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/・3回目）
+  - 「Revenue, 2023 (US$B)」（https://market.us/report/3d-printing-market/・3回目）
+  - 「USD 4.7 million」（https://market.us/report/3d-printing-market/・3回目）
+  - 「USD 19.8 billion」（https://market.us/report/3d-printing-market/・3回目）
+  - 「USD 135.4 billion」（https://market.us/report/3d-printing-market/・3回目）
+  - 「USD 6.9 billion」（https://market.us/report/3d-printing-market/・3回目）
+  - 「$20 billion」（https://market.us/report/3d-printing-market/・3回目）
+  - 「$3.1 billion」（https://market.us/report/3d-printing-market/・3回目）
+  - 「£468 million」（https://market.us/report/3d-printing-market/・3回目）
+  - 「$62.76 billion」（https://market.us/report/3d-printing-market/・3回目）
+- 黒字・収益性：
+  - 「, which can reduce EBITDA margins by up to」（https://market.us/report/3d-printing-market/・3回目）
+  - 「Creality issued a profit warning citing price competition, with essentially flat first-half revenue from 3D printer sales. Bambu Lab and other major vendors have expanded into laser engravers and UV printers, which CONTEXT suggests may indicate they expect printer shipment growth to slow.」（https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/・3回目）
+  - 「A successful company in the 3D printing industry will always be smaller and less profitable than a successful company in another manufacturing sector.」（https://www.3dprintingjournal.com/p/the-3d-printing-market-is-growing-8b9・3回目）
+  - 「The largest 3D printing company in the world will always be smaller and less profitable than the largest company in injection molding, casting, machining, or any comparable industrial field.」（https://www.3dprintingjournal.com/p/the-3d-printing-market-is-growing-8b9・3回目）
+  - 「Giga-print farms exist only because the economics work when the cost per part is pushed to the absolute minimum. This is volume without unit value. Millions of parts, pennies per part, thousands in accumulated profit.」（https://www.3dprintingjournal.com/p/the-3d-printing-market-is-growing-8b9・3回目）
+- 存続：
+  - 「High acquisition costs for industrial-grade」（https://market.us/report/3d-printing-market/・3回目）
+  - 「Sustainable closed-loop material ecosystems」（https://market.us/report/3d-printing-market/・3回目）
+  - 「Arc Impact acquired Desktop Metal’s core additive manufacturing assets, including Adaptive3D and EnvisionTEC, in a multi-asset transaction that consolidated key polymer and binder jet 3D printing technologies under a single investor platform and folded the ExOne and voxeljet binder jet operations into one holding structure to streamline industrial capacity.」（https://market.us/report/3d-printing-market/・3回目）
+  - 「Voxeljet and ExOne were merged into a unified industrial binder jet organization under common ownership, creating a combined metal and sand 3D printing portfolio addressing a total additive manufacturing market estimated at」（https://market.us/report/3d-printing-market/・3回目）
+  - 「Stratasys’ pending acquisition of」（https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/・3回目）
+  - 「Stratasys acquired the Forward AM materials business from BASF, Markforged from the troubled Nano Dimension, and the remaining assets of Nexa3D. ADDMAN bought Forecast 3D from GKN. Voxeljet and ExOne merged into a single organization.」（https://www.3dprintingjournal.com/p/the-3d-printing-market-is-growing-8b9・3回目）
+  - 「In my fourteenth year in this industry, I prefer a market that grows while understanding its own weight over one that promises to replace all of manufacturing and then files for bankruptcy.」（https://www.3dprintingjournal.com/p/the-3d-printing-market-is-growing-8b9・3回目）
+  - 「Projects are evaluated on three criteria: innovation and technical depth, openness and quality, and practicality across the wider community. While the fund prioritizes open, reproducible, and documented work, closed-source projects remain eligible if they contribute in other ways, such as offering open application programming interfaces (APIs) or transparent setup processes.」（https://3dprintingindustry.com/news/snapmaker-launches-150000-innovation-fund-for-3d-printing-developers-252320/・3回目）
+- 検索結果の抜粋：
+  - 「About Us - 3D Printing Industry — About Us - 3D Printing Industry 3D Printing Industry https://3dprintingindustry.com > abou...」（https://3dprintingindustry.com/about-us/・3回目）
+  - 「3D Printing Industry - Additive Manufacturing and 3D Printing ... — 3D Printing Industry - Additive Manufacturing and 3D Printing ... 3D Printing Industry https://3dprintingindustry.com」（https://3dprintingindustry.com/・3回目）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer ... — Drones, Rockets and Phones Push Industrial 3D Printer ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/・3回目）
+  - 「Snapmaker launches $150000 Innovation Fund for 3D ... — Snapmaker launches $150000 Innovation Fund for 3D ... 3D Printing Industry https://3dprintingindustry.com > news」（https://3dprintingindustry.com/news/snapmaker-launches-150000-innovation-fund-for-3d-printing-developers-252320/・3回目）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索15回）
+- 設立：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索15回）
+- 代表者：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索15回）
+
+## All3DP
+- 公式URL：https://all3dp.com（given）
+- 稼ぎ方：
+  - 「This article is free for you and free from outside influence. To keep things this way, we finance it through advertising, ad-free subscriptions, and shopping links. If you purchase using a shopping link, we may earn a commission.」（https://all3dp.com/4/3dmakerpro-owl-meet-the-lidar-scanner-that-captures-point-clouds-4k-hdr-panoramas-in-one-pass/・1回目）
+  - 「Advertise With Us | All3DP」（https://advertise.all3dp.com/・3回目）
+  - 「advertise@all3dp.com」（https://advertise.all3dp.com/・3回目）
+  - 「Download Our Media Kit」（https://advertise.all3dp.com/・3回目）
+- 規模：
+  - 「Newsletter Signup | All3DP」（https://all3dp.com/newsletter-signup/・1回目）
+  - 「The online 3D printing marketplace is All3DP’s core offering and is available worldwide. The online magazine All3DP.com complements the company’s range of services and attracts readers with user-oriented reviews and specialist articles as well as 3D printing news. With over 1.5 million visits per month, All3DP.com is the international market leader.」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「You'll be promoted via our homepage, social media accounts, push notifications and newsletter.」（https://advertise.all3dp.com/・3回目）
+  - 「Subscribe to Our Email Newsletter」（https://3dprint.com/313289/all3dp-closes-financing-round-led-by-hzg-group/・3回目）
+- 読者・会員は誰か：
+  - 「Starting at $1,499, architects, designers, and field engineers get synchronized geometry, imagery, and AI-generated 2D floor plans from a single tripod setup.」（https://all3dp.com/4/3dmakerpro-owl-meet-the-lidar-scanner-that-captures-point-clouds-4k-hdr-panoramas-in-one-pass/・1回目）
+- AMの扱い：
+  - 「All About 3D Printing & Additive Manufacturing | All3DP」（https://all3dp.com/・1回目）
+  - 「Compare, Book, Print: 3D Printing Marketplace Craftcloud gets Growth Funding」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「The online 3D printing marketplace is All3DP’s core offering and is available worldwide. The online magazine All3DP.com complements the company’s range of services and attracts readers with user-oriented reviews and specialist articles as well as 3D printing news. With over 1.5 million visits per month, All3DP.com is the international market leader.」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「It is the first investment in a digital marketplace start-up for HZG Group, a venture capital firm specialising in 3D printing. K」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「explained: “Platform economics are an effective lever in the 3D printing market. The industry benefits from efficient and transparent processes and can also tap into new customer segments. Craftcloud is ideally positioned to continue to play a leading international role among online marketplaces and to continue its impressive growth story in the years to come.”」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「, comments: “The successful financing round is a great result of the outstanding work of Mathias Plica and his team over the last few years. We are thrilled to have HZG Group on board as a new shareholder and true industry expert in 3D printing. Together as shareholders, we will continue to actively support the exciting growth story of All3DP GmbH.”」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「3D Printing Materials」（https://advertise.all3dp.com/・3回目）
+  - 「3D printing magazine!"」（https://advertise.all3dp.com/・3回目）
+  - 「ox of the model from all 3D printing services」（https://advertise.all3dp.com/・3回目）
+  - 「3D Printing & Additive Manufacturing」（https://advertise.all3dp.com/・3回目）
+  - 「All3DP Closes Financing Round Led by HZG Group - 3DPrint.com | Additive Manufacturing Business」（https://3dprint.com/313289/all3dp-closes-financing-round-led-by-hzg-group/・3回目）
+  - 「3D Printing」（https://3dprint.com/313289/all3dp-closes-financing-round-led-by-hzg-group/・3回目）
+- 株主構成：
+  - 「, comments: “The successful financing round is a great result of the outstanding work of Mathias Plica and his team over the last few years. We are thrilled to have HZG Group on board as a new shareholder and true industry expert in 3D printing. Together as shareholders, we will continue to actively support the exciting growth story of All3DP GmbH.”」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+- 売上：
+  - 「The online 3D printing marketplace is All3DP’s core offering and is available worldwide. The online magazine All3DP.com complements the company’s range of services and attracts readers with user-oriented reviews and specialist articles as well as 3D printing news. With over 1.5 million visits per month, All3DP.com is the international market leader.」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「Biograil raises €20 Million financing round to advance preparations for clinical trials」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「Rabot Energy raises $50M: Turning millions of households into a virtual power plant」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「Finches Raises €2 Million Pre-Seed Funding for AI Early-Warning-System in Agricultural Sourcing」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「All3DP: Revenue, Competitors, Alternatives」（https://growjo.com/company/All3DP・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/All3DP・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/All3DP・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/All3DP・3回目）
+  - 「's estimated revenue per employee is $」（https://growjo.com/company/All3DP・3回目）
+  - 「Best Sales Lead Database」（https://growjo.com/company/All3DP・3回目）
+  - 「over $6 billion」（https://3dprint.com/313289/all3dp-closes-financing-round-led-by-hzg-group/・3回目）
+  - 「3D Printing Financials: Protolabs Hits Record Q3 Revenue, 3D Printing Rebounds」（https://3dprint.com/313289/all3dp-closes-financing-round-led-by-hzg-group/・3回目）
+- 存続：
+  - 「marketplace, has closed a financing round for an undisclosed amount, led by new investor」（https://3dprint.com/313289/all3dp-closes-financing-round-led-by-hzg-group/・3回目）
+- 検索結果の抜粋：
+  - 「All3DP : About Us — All3DP : About Us All3DP https://about.all3dp.com」（https://about.all3dp.com/・3回目）
+  - 「All3DP - LinkedIn — All3DP - LinkedIn LinkedIn https://www.linkedin.com > all3dp」（https://www.linkedin.com/company/all3dp・3回目）
+  - 「All3DP - Facebook — All3DP - Facebook Facebook https://www.facebook.com > ... > Media/news company」（https://www.facebook.com/All3DP/?locale=ja_JP・3回目）
+  - 「HTGF Financing All3DP — HTGF Financing All3DP High-Tech Gründerfonds https://www.htgf.de > htgf-financing-...」（https://www.htgf.de/en/htgf-financing-all3dp/・3回目）
+  - 「All3DP - 2026 Company Profile, Funding, Competitors ... — All3DP - 2026 Company Profile, Funding, Competitors ... Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/all3dp/__4M6JlA3QLPU6LUSm_LI5FXTnk41nmrtZh7DIAM02nR4・3回目）
+  - 「All3DP : Advertise With Us — All3DP : Advertise With Us All3DP https://advertise.all3dp.com」（https://advertise.all3dp.com/・3回目）
+  - 「All3DP - X — All3DP - X X https://x.com > All3DP」（https://x.com/All3DP・3回目）
+  - 「All3DP - Instagram — All3DP - Instagram Instagram https://www.instagram.com > all3dp」（https://www.instagram.com/all3dp/・3回目）
+  - 「All3DP - YouTube — All3DP - YouTube YouTube https://www.youtube.com > all3dp」（https://www.youtube.com/all3dp・3回目）
+  - 「All3DP - LinkedIn — All3DP - LinkedIn LinkedIn https://jp.linkedin.com > company > all3dp」（https://jp.linkedin.com/company/all3dp・3回目）
+  - 「Investors & PR - All3DP — Investors & PR - All3DP All3DP https://all3dp.com > investors-pr-press」（https://all3dp.com/investors-pr-press/・3回目）
+  - 「All3DP : Revenue , Competitors, Alternatives - Growjo — All3DP : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > All3DP」（https://growjo.com/company/All3DP・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
+- 設立：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
+- 運営母体：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
+- 黒字・収益性：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索11回）
+
+## MONOist
+- 公式URL：https://promotion.itmedia.co.jp/（search:yahoo_jp:株式会社MONOist）
+- 創業年度：Established：December 1999（https://promotion.itmedia.co.jp/english・1回目）
+- 稼ぎ方：
+  - 「【出展社募集】アイティメディア主催オンライン展示会/協賛ウェビナーはこちら>>」（https://promotion.itmedia.co.jp/・1回目）
+  - 「弊社メディアの読者会員にアンケート調査を実施」（https://promotion.itmedia.co.jp/・1回目）
+  - 「展示会やセミナー等のオンラインイベントを支援」（https://promotion.itmedia.co.jp/・1回目）
+  - 「弊社メディアの読者会員をセミナー申込へ誘導」（https://promotion.itmedia.co.jp/・1回目）
+  - 「弊社メディア主催のオンラインイベントへ協賛」（https://promotion.itmedia.co.jp/・1回目）
+  - 「弊社が有するサイトの特性を生かした広告や読者行動データを活用した誘導配信などを組み合わせ、効率的な読者の閲覧を獲得します」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「既成概念にとらわれないチャレンジで想定の5倍に近いリード獲得を低単価で実現したPolyの取り組み内容をご紹介します」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「記事広告に動画を差し込むことはできますか？」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「アイティメディアが運営する20以上の専門メディア読者会員に直接リーチ」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+  - 「業種や職種といった会員登録情報などを元に、対象を指定して1通独占型のメール広告を配信することができるため、ターゲットに合致する見込み客に向けて、効率的なアプローチが可能です」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+  - 「メールマガジンを受信する読者会員は専門性の高い興味・関心を持っているため、セミナーやキャンペーンサイトを閲覧してほしいターゲット層のいるメディアを活用することで、ターゲット層を効率よく」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+  - 「アイティメディアでは、メールマガジン広告を活用するセミナー集客に特化したサービスのご用意もございます」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+- 規模：
+  - 「弊社メディアの読者会員にアンケート調査を実施」（https://promotion.itmedia.co.jp/・1回目）
+  - 「弊社メディアの読者会員をセミナー申込へ誘導」（https://promotion.itmedia.co.jp/・1回目）
+  - 「4億PVを超える専門メディア」（https://promotion.itmedia.co.jp/・1回目）
+  - 「専門メディアの特性を活かし、効率的に読者の閲覧を獲得」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「専⾨の編集スタッフがその知見を持って読者の理解を促す記事コンテンツを提案」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「参考資料：【ITmedia読者へのインタビュー公開】記事を読み製品導入に至ったプロセスをうかがいます」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「メディア掲載される記事を執筆編集している編集者がその知見を活かし、読者の理解を促すコンテンツを提案」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「弊社が有するサイトの特性を生かした広告や読者行動データを活用した誘導配信などを組み合わせ、効率的な読者の閲覧を獲得します」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「掲載期間終了後にはPV/UBのほか閲覧企業名などを記載したレポートをご提供します」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「課題についていかに取り組むべきかをインタビューという形で分かりやすく読者に提示します」（https://promotion.itmedia.co.jp/service/awareness/advertorial・1回目）
+  - 「アイティメディアが運営する20以上の専門メディア読者会員に直接リーチ」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+  - 「専門性に特化したメディアに関心をもつ読者へ直接アプローチ」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+- 読者・会員は誰か：
+  - 「「ITエンジニア」「ビジネスパーソン」「製造業」「セキュリティ」など、認知を図りたい対象を読者に持つ専門メディアへの掲載をお約束します」（https://promotion.itmedia.co.jp/service/awareness/bannerad・1回目）
+  - 「As Japan's largest internet-only media company, ITmedia Inc. delivers cutting-edge information in business and technology, connecting enterprises with their audiences. Our mission is to powerfully support our clients' growth and digital transformation in the Japanese market through highly reliable specialized information and innovative marketing solutions.」（https://promotion.itmedia.co.jp/english・1回目）
+  - 「monthly, we can widely reach high-quality business and technology-interested audiences.」（https://promotion.itmedia.co.jp/english・1回目）
+  - 「AudienceDashboardの詳細はこちら」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「Proposal of Audience Targeting Advertising」（https://ferret-one.akamaized.net/files/6017bbe9d9c7570b9a176b08/newsletter.pdf?utime=1612168169・2回目）
+  - 「製造業に従事するエンジニアを対象に、モノづくりの現場で働くスペシャリストの役に立つ技術情報や業界の最新動向を提供するメディアです」（https://corp.itmedia.co.jp/media/topic/service/monoist/・3回目）
+  - 「「組み込み開発」「メカ設計」「製造マネジメント」「オートモーティブ」の4つのフォーラムを中心に、基礎から応用まで多彩な技術解説記事、図版を多用した分かりやすいコンテンツ、話題のトピックスをより深く掘り下げた連載記事など、モノづくりに役立つ蓄積型コンテンツを充実させ、製造業における最新かつ専門性の高い技術情報を発信することで、技術者の問題解決をサポートしていきます」（https://corp.itmedia.co.jp/media/topic/service/monoist/・3回目）
+  - 「実践的なメカ設計技術、3次元CADを中心としたITツールの有効活用法などを提供する、メカ設計者のための問題解決・応援フォーラムです」（https://corp.itmedia.co.jp/media/topic/service/monoist/・3回目）
+  - 「最新の自動車を設計／開発するために必要なエレクトロニクス、メカ設計／生産管理、電気自動車をはじめとするエコカーの技術動向を詳しく解説します」（https://corp.itmedia.co.jp/media/topic/service/monoist/・3回目）
+  - 「医療機器分野の最新ニュースや、高品質で安全な機器を開発するために欠かせないエレクトロニクスの技術動向、CEマーク/医療機器指令の情報を掲載します」（https://corp.itmedia.co.jp/media/topic/service/monoist/・3回目）
+  - 「加工技術や製造業向けIT解説、コミュニティ情報を提供する、大志を抱く中小企業のためのモノづくり支援フォーラムです」（https://corp.itmedia.co.jp/media/topic/service/monoist/・3回目）
+  - 「製造業エンジニアのための転職支援・キャリア構築・スキルアップ支援フォーラム」（https://corp.itmedia.co.jp/media/topic/service/monoist/・3回目）
+- 運営母体：
+  - 「【出展社募集】アイティメディア主催オンライン展示会/協賛ウェビナーはこちら>>」（https://promotion.itmedia.co.jp/・1回目）
+  - 「弊社メディア主催のオンラインイベントへ協賛」（https://promotion.itmedia.co.jp/・1回目）
+  - 「アイティメディアが運営する20以上の専門メディア読者会員に直接リーチ」（https://promotion.itmedia.co.jp/service/awareness/mailad・1回目）
+  - 「弊社メディア主催のオンラインイベントへ協賛」（https://promotion.itmedia.co.jp/english・1回目）
+  - 「アイティメディアでは運営する各メディアの記事を閲覧した読者の行動履歴を解析することにより、」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「バナー広告はアイティメディアの運営するメディア群だけではなく、読者の行動データを利用しGoogle広告などを通じて外部サイトへも配信されます」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「アイティメディアが運営する様々なメディアの「読者行動データ」と、100万人を越える会員基盤「アイティメディアID」に蓄積されたデータを組み合わせ、その活用を担う独自のデータマネージメントプラットフォームが「ITmedia DMP」です」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「当社運営のメディアを横断し広告枠を配信することで、掲載面の品質を担保しつつ、より多くの情報集欲の高い読者に効果的にアプローチできます」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「アイティメディアが運営するメディア群にどのような興味関心を持った読者が集まっているかを数値にてチェックできますので、マーケティング施策の参考にご利用ください」（https://promotion.itmedia.co.jp/service/target/behavioral・1回目）
+  - 「メールマガジンは分野別に5種類発行しています」（https://corp.itmedia.co.jp/media/topic/service/monoist/・3回目）
+  - 「医療用AI、IoTプラットフォームを開発、運営する新会社を共同で設立」（https://www.optim.co.jp/newsdetail/20200617-media-01・3回目）
+  - 「記事掲載：WEB: MONOist 4.21発行号｜MTDO」（https://note.com/mtdo/n/nd7e23f902077・3回目）
+- AMの扱い：
+  - 「3Dプリンタ」（https://monoist.itmedia.co.jp/・3回目）
+- 株主構成：
+  - 「Shareholder Information」（https://www.advantech.com/ja-jp/resources/news/monoist-2026・3回目）
+- 創業年度：
+  - 「MONOist（ITmedia）に、当社とシスメックスが「ディピューラメディカルソリューションズ株式会社」を共同設立した発表について掲載されました」（https://www.optim.co.jp/newsdetail/20200617-media-01・3回目）
+  - 「医療用AI、IoTプラットフォームを開発、運営する新会社を共同で設立」（https://www.optim.co.jp/newsdetail/20200617-media-01・3回目）
+  - 「ティアフォー、The Autoware Foundationを設立 自動運転OSの業界標準へ https://prtimes.jp/main/html/rd/p/000000002.000040119.html @PRTIMES_JPより」（https://note.com/tag/MONOist・3回目）
+- 売上：
+  - 「JPY 1,891 million (as of March 31, 2025)」（https://promotion.itmedia.co.jp/english・1回目）
+  - 「400 million PV」（https://promotion.itmedia.co.jp/english・1回目）
+  - 「50 million unique browsers」（https://promotion.itmedia.co.jp/english・1回目）
+  - 「1 million members」（https://promotion.itmedia.co.jp/english・1回目）
+  - 「ITmedia Inc. Sales Division」（https://ferret-one.akamaized.net/files/6017bbe9d9c7570b9a176b08/newsletter.pdf?utime=1612168169・2回目）
+  - 「TOTOが半導体製造で役立つセラミック次世代品の工場建設、投資額は600億円」（https://monoist.itmedia.co.jp/・3回目）
+- 存続：
+  - 「Interviews with customers who have implemented various services such as lead acquisition, virtual events, and webcasts.」（https://promotion.itmedia.co.jp/english・1回目）
+- 検索結果の抜粋：
+  - 「MONOist 【公式】 (@MONOist_itmedia) / X — MONOist 【公式】 (@MONOist_itmedia) / X X https://x.com > MONOist_itmedia」（https://x.com/MONOist_itmedia・3回目）
+  - 「MONOist - 運営 メディア紹介 — MONOist - 運営 メディア紹介 アイティメディア株式会社 https://corp.itmedia.co.jp > topic > service > monoist」（https://corp.itmedia.co.jp/media/topic/service/monoist/・3回目）
+  - 「MONOist ポッドキャスト | Listen to the Podcast on Spotify — MONOist ポッドキャスト | Listen to the Podcast on Spotify Spotify https://open.spotify.com > show」（https://open.spotify.com/show/0yByjKmZruVI7xXp2WxAIU・3回目）
+  - 「MONOist （ITmedia）に、当社とシスメックスが「ディ ... — MONOist （ITmedia）に、当社とシスメックスが「ディ ... OPTiM（オプティム） https://www.optim.co.jp > newsdetail > 20200617-media-01」（https://www.optim.co.jp/newsdetail/20200617-media-01・3回目）
+  - 「Monoist に掲載されました。～製造業がIoTサービス企業を立ち ... — Monoist に掲載されました。～製造業がIoTサービス企業を立ち ... アムニモ株式会社 https://amnimo.com > ニュース」（https://amnimo.com/news/monoist%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%EF%BD%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%8Ciot%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%81%E6%A5%AD%E3%82%92/・3回目）
+  - 「MONOist へのご掲載検討はこちら - アイティメディア - ITmedia — MONOist へのご掲載検討はこちら - アイティメディア - ITmedia ITmedia https://promotion.itmedia.co.jp > media > monoist」（https://promotion.itmedia.co.jp/media/monoist・3回目）
+  - 「日本の“モノづくり”を支援する専門情報メディア『 MONOist 』 — 日本の“モノづくり”を支援する専門情報メディア『 MONOist 』 メディアレーダー https://media-radar.jp > 媒体資料を探す」（https://media-radar.jp/detail2557.html・3回目）
+  - 「Media Guide - MONOist — Media Guide - MONOist MONOist https://monoist.atmarkit.co.jp > special」（https://monoist.atmarkit.co.jp/mn/special/mo131204/index.html・3回目）
+  - 「MONOist （モノイスト） - Muck Rack — MONOist （モノイスト） - Muck Rack Muck Rack https://muckrack.com > media-outlet > monoistatmarkitco」（https://muckrack.com/media-outlet/monoistatmarkitco・3回目）
+  - 「MONOist （モノイスト） - Facebook — MONOist （モノイスト） - Facebook Facebook https://www.facebook.com > ... > News & media website」（https://www.facebook.com/MONOist/?locale=ja_JP・3回目）
+  - 「MONOist 【公式】 on X: "目標は2030年度に 売上 高2500億円 ... — MONOist 【公式】 on X: "目標は2030年度に 売上 高2500億円 ... X https://x.com > @MONOist_itmedia」（https://x.com/MONOist_itmedia/status/2099979100425535526・3回目）
+  - 「モノづくりスペシャリストのための情報ポータル - MONOist ... — モノづくりスペシャリストのための情報ポータル - MONOist ... MONOist https://monoist.itmedia.co.jp」（https://monoist.itmedia.co.jp/・3回目）
+- 株主：記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）
+- 設立：記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）
+- 所在地：記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）
+- 代表者：記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）
+- 黒字・収益性：記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）
+
+## Metal AM magazine
+- 公式URL：https://www.inovar-communications.com/（search:ddgs:google:Metal AM magazine）
+- 稼ぎ方：
+  - 「Advertising Sales Director」（https://www.inovar-communications.com/about-us/・1回目）
+  - 「Jon has extensive experience of the Powder Metallurgy and Metal Injection Moulding industries following his career at Elsevier. He joined Inovar’s team in 2006 and is responsible for all print and on-line advertising sales for」（https://www.inovar-communications.com/about-us/・1回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.voxelmatters.directory/company/metal-am-magazine-2/・3回目）
+  - 「Webinars & Recordings」（https://www.americamakes.us/media-partners/・3回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.americamakes.us/media-partners/・3回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+  - 「Sponsors & Media Partners — MAMC 2026」（https://www.mamc.at/partners/・3回目）
+  - 「Sponsors & Media Partners」（https://www.mamc.at/partners/・3回目）
+  - 「MAMC 2026 would not be possible without the support of our sponsors and」（https://www.mamc.at/partners/・3回目）
+  - 「Sponsoring or media partnership — there is a fitting way to be part of」（https://www.mamc.at/partners/・3回目）
+  - 「Hi! I can answer questions about MAMC 2026 — dates, venue, abstracts, registration, sponsoring and more. What would you like to know?」（https://www.mamc.at/partners/・3回目）
+- 規模：
+  - 「Subscribe to our enewsletters」（https://www.inovar-communications.com/・1回目）
+  - 「I agree to my personal data being stored and used to receive the newsletters」（https://www.inovar-communications.com/subscribe/・1回目）
+  - 「I would like to receive the following enewsletters」（https://www.inovar-communications.com/subscribe/・1回目）
+  - 「is the world’s largest online magazine for all things 3D printing and additive manufacturing reaching a million readers every month. Its professional side at All3DP Pro delves deeper into the business of 3D printing with a unique focus on how companies in virtually any industry can profit from additive manufacturing.」（https://www.americamakes.us/media-partners/・3回目）
+- 読者・会員は誰か：
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.directory/company/metal-am-magazine-2/・3回目）
+  - 「These individual partnerships reflect the shared mission of promoting the advancement, adoption, and commercialization of additive manufacturing (AM) technologies. Each media group is working to increase awareness among its targeted audience of the America Makes mission and our impact as the national accelerator for additive manufacturing and 3D printing.」（https://www.americamakes.us/media-partners/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+- 運営母体：
+  - 「Published by Inovar Communications Ltd」（https://www.voxelmatters.directory/company/metal-am-magazine-2/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/metal-am-magazine-2/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/media-partners/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+  - 「Sponsoring or media partnership — there is a fitting way to be part of」（https://www.mamc.at/partners/・3回目）
+- AMの扱い：
+  - 「A publishing company dedicated to metal Additive Manufacturing, Metal Injection Moulding and Powder Metallurgy.」（https://www.inovar-communications.com/・1回目）
+  - 「Inovar Communications Ltd, based in Shrewsbury, UK, is a specialist publisher of business-to-business magazines for advanced manufacturing industries. These include metal Additive Manufacturing / 3D Printing, Powder Metallurgy and Metal Injection Moulding / Ceramic Injection Moulding.」（https://www.inovar-communications.com/about-us/・1回目）
+  - 「Metal Additive Manufacturing」（https://www.inovar-communications.com/about-us/・1回目）
+  - 「Metal Additive Manufacturing」（https://www.inovar-communications.com/subscribe/・1回目）
+  - 「Metal AM magazine — VoxelMatters - The largest database of additive manufacturing companies」（https://www.voxelmatters.directory/company/metal-am-magazine-2/・3回目）
+  - 「Metal AM is dedicated to reporting on commercial and technical developments in the metal AM and metal 3D printing industry.」（https://www.voxelmatters.directory/company/metal-am-magazine-2/・3回目）
+  - 「is dedicated to reporting on commercial and technical developments in the metal AM and metal 3D printing industry. As well as our quarterly news round-up, each issue of」（https://www.voxelmatters.directory/company/metal-am-magazine-2/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.directory/company/metal-am-magazine-2/・3回目）
+  - 「America Makes is proud to partner with leading media organizations to accelerate the adoption of additive manufacturing technologies.」（https://www.americamakes.us/media-partners/・3回目）
+  - 「These individual partnerships reflect the shared mission of promoting the advancement, adoption, and commercialization of additive manufacturing (AM) technologies. Each media group is working to increase awareness among its targeted audience of the America Makes mission and our impact as the national accelerator for additive manufacturing and 3D printing.」（https://www.americamakes.us/media-partners/・3回目）
+  - 「3DPrint.com is the leading source for actionable intelligence related to 3D printing technology and the larger AM industry. By covering breaking stories via investigative journalism, interviews, and on-the-ground reporting, 3DPrint.com provides access to knowledge from industry insiders as the news happens.」（https://www.americamakes.us/media-partners/・3回目）
+  - 「Metal Additive Manufacturing magazine is the go-to international source for the latest developments in metal 3D printing. Published quarterly in print and online, each issue features exclusive in-depth articles and comprehensive industry news highlights. Whether you’re new to metal AM or an industry expert, our magazine provides valuable content to keep you ahead of the curve.」（https://www.americamakes.us/media-partners/・3回目）
+- 創業年度：
+  - 「A graduate of the University of Manchester, Nick founded Inovar in 2002 after an international career in publishing and scientific/technical event management that spanned a range of industries, from industrial engineering to medicine and private banking/Family Offices.」（https://www.inovar-communications.com/about-us/・1回目）
+- 売上：
+  - 「Advertising Sales Director」（https://www.inovar-communications.com/about-us/・1回目）
+  - 「Jon has extensive experience of the Powder Metallurgy and Metal Injection Moulding industries following his career at Elsevier. He joined Inovar’s team in 2006 and is responsible for all print and on-line advertising sales for」（https://www.inovar-communications.com/about-us/・1回目）
+  - 「is the world’s largest online magazine for all things 3D printing and additive manufacturing reaching a million readers every month. Its professional side at All3DP Pro delves deeper into the business of 3D printing with a unique focus on how companies in virtually any industry can profit from additive manufacturing.」（https://www.americamakes.us/media-partners/・3回目）
+  - 「The top 10 metal AM companies by revenue | VoxelMatters - The heart of additive manufacturing」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+  - 「https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue.md」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+  - 「The top 10 metal AM companies by revenue」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+  - 「If we combine revenues from all core AM segments (hardware, materials, and services), all of the top 10 metal AM companies by revenue in 2023 are hardware manufacturers. This is one of the key findings from」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+  - 「, is the largest company in the world, generating approximately $150 million from its metal AM-related activities according to VoxelMatters’ own estimates and sources. The other top three contenders in this space include」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+  - 「The next group of three companies sees a more varied range of companies. The fourth largest company by revenue is」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+- 黒字・収益性：
+  - 「is the world’s largest online magazine for all things 3D printing and additive manufacturing reaching a million readers every month. Its professional side at All3DP Pro delves deeper into the business of 3D printing with a unique focus on how companies in virtually any industry can profit from additive manufacturing.」（https://www.americamakes.us/media-partners/・3回目）
+- 検索結果の抜粋：
+  - 「Metal AM magazine - VoxelMatters directory — Metal AM magazine - VoxelMatters directory voxelmatters.directory https://www.voxelmatters.directory > ...」（https://www.voxelmatters.directory/company/metal-am-magazine-2/・3回目）
+  - 「Magazine shop - Metal AM — Magazine shop - Metal AM Metal Additive Manufacturing magazine https://www.metal-am.com > store」（https://www.metal-am.com/store/・3回目）
+  - 「Metal Additive Manufacturing - Inovar Communications Ltd. — Metal Additive Manufacturing - Inovar Communications Ltd. Inovar Communications Ltd. https://www.inovar-communications.com > ...」（https://www.inovar-communications.com/metal-additive-manufacturing/・3回目）
+  - 「The top 10 metal AM companies by revenue - VoxelMatters — The top 10 metal AM companies by revenue - VoxelMatters VoxelMatters https://www.voxelmatters.com > the-t...」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+  - 「6K Additive, Inc., has reported growing demand for its metal ... — 6K Additive, Inc., has reported growing demand for its metal ... Facebook https://www.facebook.com > metalAMmag > posts > 6k-a...」（https://www.facebook.com/metalAMmag/posts/6k-additive-inc-has-reported-growing-demand-for-its-metal-powders-in-its-quarter/1760599626073875/・3回目）
+  - 「October was a busy month of event partnerships! Metal AM ... — October was a busy month of event partnerships! Metal AM ... Facebook https://www.facebook.com > metalAMmag > posts > octo...」（https://www.facebook.com/metalAMmag/posts/october-was-a-busy-month-of-event-partnerships-metal-am-alongside-our-sister-pub/1767385375395300/・3回目）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）
+- 株主構成：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）
+- 存続：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）
+
+## TCT Japan
+- 公式URL：https://www.tctjapan.jp/（search:yahoo_jp:TCT Japan）
+- 稼ぎ方：
+  - 「造形失敗や工程のやり直しを最小限に抑え、開発から製造までのリードタイム全体を圧縮することを目指しています」（https://www.tctjapan.jp/・1回目）
+  - 「リード獲得から育成までつなげる金属技研様の挑戦について」（https://www.tctjapan.jp/・1回目）
+  - 「展示会のリードは、お礼の連絡が早いほど商談につながりやすくなります」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「当協会からは「日本ＡＭ協会ブース」15社、その他会員単独ブース 20社・8団体が参加しました」（https://jsam.or.jp/event/2026-02-10-6129/・3回目）
+  - 「今回、会員企業15社の展示を行い、AM実製品活用について様々なご提案を致しました」（https://jsam.or.jp/event/2026-02-10-6129/・3回目）
+  - 「AME Techで試作リードタイムを大幅に短縮できます」（https://jsam.or.jp/event/2026-02-10-6129/・3回目）
+  - 「今回「Beyond Printing ～AMは“造形”から“制御された製造プロセス”へ～」をテーマとして、大阪大学・三菱重工業・愛知産業による3部構成のセミナー「AM最新動向と日本の進むべき方向」、「品質は造形中に作り込む ― AMにおけるインプロセス制御」、「世界をリードするCranfield大学のWAAM研究と産業応用」を開催」（https://jsam.or.jp/event/2026-02-10-6129/・3回目）
+- 規模：
+  - 「最新の造形プロセスに触れる「ライブ造形」と、技術力を競い合う「TCT Japanコンテスト」の投票拠点を中心に、来場者と出展者が一体となる交流空間を創出します」（https://www.tctjapan.jp/・1回目）
+  - 「主催者の公式サイトで確かめた会期・会場・来場者の層と、会期から逆算した出展準備の日程をまとめました」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「出展社数 126社 来場者数 45,202人 （2026年1月）」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「出展社1社あたりの来場者数（」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「2026年の来場者45,202名は同時開催展を含む東京ビッグサイトの来場者数で、TCT Japan単独の数ではありません」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「TCT Japan 3Dプリンティング&AM技術の総合展の規模（出展社数・来場者数）は？」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「2026年1月の実績で、出展社数126社・来場者数45,202人です（主催者の発表）」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「主催者は、製造業の設計・開発・生産技術者を来場者の層としています」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「日本で「この人しかやっていない」と言える取り組みを実践する先駆者を迎え、来場者が会場で直接話を聞き、挨拶を交わせる機会をつくる」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「Subscribe to Our Newsletter!」（https://www.3dnatives.com/en/events/tct-japan/・3回目）
+  - 「事務局の発表では、当日の会場来場者数及び出展者数は以下の通りでした」（https://jsam.or.jp/event/2026-02-10-6129/・3回目）
+  - 「【来場者数】1/28（水）12,903名（12,396名）、1/29（木）15,574名（14,241名）、1/30（金）16,725名（15,452名） 3日間合計 45,202名（42,089名） ※（ ）内数＝前回実績、同時開催展含む」（https://jsam.or.jp/event/2026-02-10-6129/・3回目）
+- 読者・会員は誰か：
+  - 「次世代自動車技術を実現する生産技術としての金属AM」（https://www.tctjapan.jp/・1回目）
+  - 「日産自動車 パワートレイン・EVコンポーネント生産技術開発本部」（https://www.tctjapan.jp/・1回目）
+  - 「航空宇宙・自動車・医療・産業機器などの製品開発・設計・生産管理・研究開発の担当者が来場します」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「造形の受託サービス、設計・シミュレーションのソフトを、製造業の開発・設計担当に紹介したい会社」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「主催者は、製造業の設計・開発・生産技術者を来場者の層としています」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「自動車・宇宙から建設・医療まで 3Dプリンター最前線が集結する「TCT Japan 2026」開催 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「自動車・宇宙から建設・医療まで 3Dプリンター最前線が集結する「TCT Japan 2026」開催」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「製造業における3Dプリンティング／AM技術は、世界的な技術進化とともに、国内でも実用化が着実に進んでいる」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「航空機分野では軽量かつ高機能な部品への適用が進み、自動車分野では高付加価値部品の製造手法として存在感を高めている」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「医療分野においても、個別最適医療の実現を見据えたインプラントへの応用が広がりつつあり、AM技術は試作を超え、最終製品製造を視野に入れた技術として活用領域を拡大している」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「少子高齢化による労働人口減少や生産性向上といった課題を背景に、AM技術は国内製造業の競争力強化と持続的成長を支える基盤技術として、その重要性を高めている」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「経済産業省、防衛装備庁、NASA関連研究者、大学・企業の研究者による講演やパネルディスカッションを通じ、AM技術の現状と今後の方向性が示される予定だ」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+- 運営母体：
+  - 「主催者の公式サイトで確かめた会期・会場・来場者の層と、会期から逆算した出展準備の日程をまとめました」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「会期・規模・締切は主催者の公式サイトで確かめたものです」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「主催者の出展マニュアルにある提出物の締切を優先してください」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「締切は公式サイトに載っていないため、出展案内のページか事務局に確かめてください」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「主催者の出展マニュアルの提出物（小間の図面・電気の申込など）の締切をカレンダーに入れる」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「主催は株式会社JTBコミュニケーションデザイン、Rapid News Publications Ltd.です」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「2026年1月の実績で、出展社数126社・来場者数45,202人です（主催者の発表）」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「主催者は、製造業の設計・開発・生産技術者を来場者の層としています」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「公式サイトに締切の日付が載っていないため、出展案内のページか事務局にご確認ください」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「nano tech、SURTECH、MEMS SENSING & NETWORK SYSTEM、Convertech JAPAN、3DECO tech、新機能材料展、GREEN MATERIAL、ENEXが同時に開かれます（主催者の発表）」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「（出典：TCT Japan 展示会事務局）」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「TCT Japan事務局（株式会社JTBコミュニケーションデザイン）は、2026年1月28日（水）から30日（金）までの3日間、東京ビッグサイト南3ホールにて「TCT Japan 2026 ― 3Dプリンティング＆AM技術の総合展 ―」を開催する」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+- AMの扱い：
+  - 「次世代自動車技術を実現する生産技術としての金属AM」（https://www.tctjapan.jp/・1回目）
+  - 「会場内では、普段はメーカーショールームや専用設備環境でしか見ることのできない大型・産業用3Dプリンタの実機を稼働展示します」（https://www.tctjapan.jp/・1回目）
+  - 「3Dプリンター装置の開発・製造に必要な」（https://www.tctjapan.jp/・1回目）
+  - 「3Dプリンタ・積層造形・AM・3Dスキャナ」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「3Dプリンター、3Dスキャナー、造形材料、造形サービス、設計・シミュレーションのソフトなど、3Dプリンティング・AM（積層造形）技術を集めた展示会です」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「産業用・業務用の3Dプリンターや、樹脂・金属の造形材料を扱うメーカーや商社」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「自動車・宇宙から建設・医療まで 3Dプリンター最前線が集結する「TCT Japan 2026」開催 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「自動車・宇宙から建設・医療まで 3Dプリンター最前線が集結する「TCT Japan 2026」開催」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「3Dプリンターを取り巻く技術と活用は、試作のための手法から、製造現場で実際に使われる選択肢へと変わりつつある」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「3Dプリンター活用の実践者を会場に招き、公開取材を行う予定だ」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「前身となる3D Printing展から数え、今回で12回目の開催となる」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+  - 「ナノ3Dプリンタから産学連携拠点まで、初出展技術に注目」（https://news.sharelab.jp/cases/other-fields/tct-japan-2026-additive-manufacturing-exhibition-260126/・3回目）
+- 創業年度：
+  - 「Since 2015,」（https://www.3dnatives.com/en/events/tct-japan/・3回目）
+  - 「2025年4月に「3Dプリンティング研究所」を設立し、DfAM設計から最終製品の評価・分析までのプロセス全体を支援している」（https://jsam.or.jp/event/2026-02-10-6129/・3回目）
+  - 「創業以来11年間、5000社以上の法人様・400以上の教育機関／研究機関に導入実績あり」（https://jsam.or.jp/event/2026-02-10-6129/・3回目）
+- 検索結果の抜粋：
+  - 「TCT Japan | 国内最大級3Dプリンティング&AM技術の総合展 — TCT Japan | 国内最大級3Dプリンティング&AM技術の総合展 TCT Japan https://www.tctjapan.jp」（https://www.tctjapan.jp/・3回目）
+  - 「TCT Japan 3Dプリンティング&AM技術の総合展 2027 — TCT Japan 3Dプリンティング&AM技術の総合展 2027 ジンベイ株式会社 https://jinbay.co.jp > 展示会データベース」（https://jinbay.co.jp/tradeshows/tct-japan-tokyo・3回目）
+  - 「＜出展報告＞3Dプリンターの展示会「 TCT Japan 2026」に出展 — ＜出展報告＞3Dプリンターの展示会「 TCT Japan 2026」に出展 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com > ニュース > イベント」（https://www.nttdata-xam.com/news/event/article_8594/・3回目）
+  - 「〈出展 情報 〉 TCT Japan 2026 - 日本未来技研 — 〈出展 情報 〉 TCT Japan 2026 - 日本未来技研 日本未来技研 https://nmgiken.jp > post_ > uncategorized」（https://nmgiken.jp/post_/%E3%80%88%E5%87%BA%E5%B1%95%E6%83%85%E5%A0%B1%E3%80%89tct-japan-2026/uncategorized/・3回目）
+  - 「TCT Japan -3Dプリンティング&AM技術の総合展 - X — TCT Japan -3Dプリンティング&AM技術の総合展 - X X https://x.com > TCTJapan」（https://x.com/TCTJapan・3回目）
+  - 「The Event for 3D Printing & Additive Manufacturing Intelligence — The Event for 3D Printing & Additive Manufacturing Intelligence TCT Japan https://www.tctjapan.jp > index_en」（https://www.tctjapan.jp/index_en.html・3回目）
+  - 「TCT Japan - 3Dnatives — TCT Japan - 3Dnatives 3Dnatives https://www.3dnatives.com > tct-japan」（https://www.3dnatives.com/en/events/tct-japan/・3回目）
+  - 「Strong momentum at TCT Japan 2026 - Visitech — Strong momentum at TCT Japan 2026 - Visitech visitech.com https://visitech.com > strong-moment...」（https://visitech.com/strong-momentum-at-tct-japan-2026/・3回目）
+  - 「TCT Japan — TCT Japan TCT Magazine https://www.tctmagazine.com > events」（https://www.tctmagazine.com/events/tct-japan/・3回目）
+  - 「TCTJapan (Dec 2026), TCT Japan , Koto Japan - Trade Show — TCTJapan (Dec 2026), TCT Japan , Koto Japan - Trade Show 10Times https://10times.com > tct-japan」（https://10times.com/tct-japan・3回目）
+  - 「TCT Japan 2026 - SIJテクノロジ — TCT Japan 2026 - SIJテクノロジ SIJテクノロジ https://sijtechnology.com > tct-japan-...」（https://sijtechnology.com/en/tct-japan-2026/・3回目）
+  - 「【展示会】1/28～30「 TCT Japan 2026」展示について — 【展示会】1/28～30「 TCT Japan 2026」展示について 日本AM協会 https://jsam.or.jp > セミナー・イベント」（https://jsam.or.jp/event/2026-02-10-6129/・3回目）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+- 株主構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+- 売上：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+- 黒字・収益性：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+- 存続：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）
+
+## TCT Magazine
+- 公式URL：https://www.tctmagazine.com（given）
+- 稼ぎ方：
+  - 「A live TCT webinar with Prodways Printers and Adva Cera on how process control, metrology and repeatability are moving ceramic AM into real production.」（https://www.tctmagazine.com/・1回目）
+  - 「A TCT webinar with UnionTech on producing seamless 1m+ plastic parts in a single SLA build: multi-laser stitching, auto-calibration, single-operator workflows.」（https://www.tctmagazine.com/・1回目）
+  - 「Invitations to TCT Webinars and Community Events from select partners」（https://www.tctmagazine.com/membership/・1回目）
+  - 「Everything included in Community membership plus...」（https://www.tctmagazine.com/membership/・1回目）
+  - 「From world-leading trade shows and conferences to exclusive online webinars and virtual sessions. Explore our chronological directory to stay up to date with the latest opportunities to connect, learn, and innovate across the additive manufacturing and 3D printing industry.」（https://www.tctmagazine.com/events/・1回目）
+  - 「A live TCT webinar with Prodways Printers and Adva Cera on how process control, metrology and repeatability are moving ceramic AM into real production.」（https://www.tctmagazine.com/events/・1回目）
+  - 「A TCT webinar with UnionTech on producing seamless 1m+ plastic parts in a single SLA build: multi-laser stitching, auto-calibration, single-operator workflows.」（https://www.tctmagazine.com/events/・1回目）
+  - 「Our newsletters record when they are opened and which links are clicked, so we can improve them and report results to sponsors. You can unsubscribe at any time.」（https://www.tctmagazine.com/signup/・1回目）
+  - 「Live webinar | Wednesday 28 October 2026 | 15:00 GMT · 16:00 CET · 11:00 EDT」（https://www.tctmagazine.com/events/mission-ready-supply-chains-additive-manufacturing-for-defense/・1回目）
+  - 「About our sponsor: EOS」（https://www.tctmagazine.com/events/mission-ready-supply-chains-additive-manufacturing-for-defense/・1回目）
+  - 「A live TCT webinar with Prodways Printers and Adva Cera on how process control, metrology and repeatability are moving ceramic AM into real production.」（https://www.tctmagazine.com/events/ensuring-precision-and-repeatability-in-ceramic-additive-manufacturing-a-service-bureau-perspective/・1回目）
+  - 「TCT Webinar · in partnership with Prodways Printers and Adva Cera」（https://www.tctmagazine.com/events/ensuring-precision-and-repeatability-in-ceramic-additive-manufacturing-a-service-bureau-perspective/・1回目）
+- 規模：
+  - 「Weekly Additive Insight Newsletter」（https://www.tctmagazine.com/membership/・1回目）
+  - 「Everything included in Community membership plus...」（https://www.tctmagazine.com/membership/・1回目）
+  - 「Monthly Members Only Podcast」（https://www.tctmagazine.com/membership/・1回目）
+  - 「Our audience relies on our magazines, newsletters and digital output to deliver news and trends shaping their industry.」（https://www.tctmagazine.com/advertise/・1回目）
+  - 「Our newsletters record when they are opened and which links are clicked, so we can improve them and report results to sponsors. You can unsubscribe at any time.」（https://www.tctmagazine.com/signup/・1回目）
+  - 「Some time will also be dedicated for attendees to ask their questions of the panel.」（https://www.tctmagazine.com/events/mission-ready-supply-chains-additive-manufacturing-for-defense/・1回目）
+  - 「Attendees will learn:」（https://www.tctmagazine.com/events/from-concept-to-certified-how-3d-printed-fluidic-fittings-are-disrupting-the-medtech-market-2/・1回目）
+  - 「Sign up to our newsletter」（https://www.tctmagazine.com/what-additive-manufacturing-engineers-should-know-about-x-ray-ct/・1回目）
+  - 「Our newsletters record when they are opened and which links are clicked, so we can improve them and report results to sponsors. You can unsubscribe at any time.」（https://www.tctmagazine.com/signup/?tier=free・1回目）
+  - 「Our newsletters record when they are opened and which links are clicked, so we can improve them and report results to sponsors. You can unsubscribe at any time.」（https://www.tctmagazine.com/signup/?tier=paid&tier_id=68665e2d0cfda10008df8d7f&frequency=yearly・1回目）
+  - 「is the 1st CAD/CAM/CAE portal in Spanish. Readers will find news, articles, events, software solutions, service providers, and consulting services. Main topics are Metrology, Additive Manufacturing, Digital Twin, PLM, Design, Engineering, Manufacturing.」（https://www.rapid3devent.com/event/supporters/media-sponsors/・3回目）
+  - 「(3DPI) has become the first choice for additive manufacturing news, insights, and analysis for a regular monthly readership of over 1.2 million people.」（https://www.rapid3devent.com/event/supporters/media-sponsors/・3回目）
+- 読者・会員は誰か：
+  - 「What additive manufacturing engineers should know about X-ray CT」（https://www.tctmagazine.com/・1回目）
+  - 「TCT is a multi-media insights and information platform that reaches industry decision makers.」（https://www.tctmagazine.com/advertise/・1回目）
+  - 「Our audience relies on our magazines, newsletters and digital output to deliver news and trends shaping their industry.」（https://www.tctmagazine.com/advertise/・1回目）
+  - 「What additive manufacturing engineers should know about X-ray CT」（https://www.tctmagazine.com/sponsored/・1回目）
+  - 「Design and manufacturing engineers evaluating ceramic AM for a new application; production and quality teams moving an existing ceramic application towards volume; anyone currently outsourcing ceramic components and assessing whether additive is a viable route.」（https://www.tctmagazine.com/events/ensuring-precision-and-repeatability-in-ceramic-additive-manufacturing-a-service-bureau-perspective/・1回目）
+  - 「What additive manufacturing engineers should know about X-ray CT」（https://www.tctmagazine.com/what-additive-manufacturing-engineers-should-know-about-x-ray-ct/・1回目）
+  - 「・コンテンツ：TCT Japan 2020プレビュー、海外⾃動⾞・航空宇宙、材料応⽤事例紹介(TCT Magazineバックナンバーより)」（https://www.jtbcom.co.jp/news/2020/929.html・3回目）
+  - 「・来場対象：⾃動⾞、家電、航空宇宙、医療、建築、スポーツ、アパレル、⼤学・研究機関などにおける製品開発、設計、デザイン、⽣産、購買、マーケティング担当者」（https://www.jtbcom.co.jp/news/2020/929.html・3回目）
+  - 「(3DPI) has become the first choice for additive manufacturing news, insights, and analysis for a regular monthly readership of over 1.2 million people.」（https://www.rapid3devent.com/event/supporters/media-sponsors/・3回目）
+  - 「Based in London, our team of full-time journalists and engineers produce original content and technical reports, breaking away from a PR-led agenda. Our reporters are a constant presence at all leading 3D printing and advanced manufacturing events, including Formnext, RAPID, AMUG, and IMTS.」（https://www.rapid3devent.com/event/supporters/media-sponsors/・3回目）
+  - 「is the only trade publication exclusively dedicated to the design, manufacturing, assembly, and MRO of aircraft and components. This vertical focus gives you direct access to the engineers and manufacturers who need your products to succeed. No other trade publication can match the power of our vertical reach in the aerospace manufacturing, design, and MRO market.」（https://www.rapid3devent.com/event/supporters/media-sponsors/・3回目）
+  - 「ASSEMBLY reaches over 60,000 engineers and managers responsible for designing and manufacturing cars, computers, catheters, coffeemakers and everything in between.」（https://www.rapid3devent.com/event/supporters/media-sponsors/・3回目）
+- 運営母体：
+  - 「TCT is an integral part of our media and event strategy. We appreciate their industry knowledge as well as their marketing expertise: a combination that makes them a successful and appreciated partner.」（https://www.tctmagazine.com/advertise/・1回目）
+  - 「Prodways Printers, part of the Prodways Group, delivers industrial and professional 3D printing across the full value chain: software, printers, materials, parts and services. A pioneer in ceramic DLP printing, with 200+ machines installed worldwide serving aerospace and defence, semiconductors, automotive and investment casting.」（https://www.tctmagazine.com/events/ensuring-precision-and-repeatability-in-ceramic-additive-manufacturing-a-service-bureau-perspective/・1回目）
+  - 「TCT Japanを主催するJTBコミュニケーションデザインとRapid News Publicationsは、イーエクスプレスと共同で⽇本におけるメディア事業をスタート」（https://www.jtbcom.co.jp/news/2020/929.html・3回目）
+  - 「トレードショー事業では、あらゆる産業分野の発展に向け、最先端技術を紹介する等の展⽰会を主催・共催する」（https://www.jtbcom.co.jp/news/2020/929.html・3回目）
+  - 「・事業内容：雑誌刊⾏、ウェブサイトの運営、海外メディアの広告エージェント業務、カンファレンス・セミナー事業の主催・運営、事務局運営業務、Webを利⽤した 各種販促プロモーションの企画・⽴案」（https://www.jtbcom.co.jp/news/2020/929.html・3回目）
+  - 「TCT Japan 事務局（JTBコミュニケーションデザイン内）」（https://www.jtbcom.co.jp/news/2020/929.html・3回目）
+  - 「Published by KEYMAR Solutions,」（https://www.rapid3devent.com/event/supporters/media-sponsors/・3回目）
+  - 「'Nano Dimension sees Additively Manufacturing Electronics as part of its core.' - Nano General Manager AME Nir Sade」（https://www.nano-di.com/newsroom/tct-magazine-reports-on-the-acquisition-of-global-inkjet-systems-by-nano-dimension・3回目）
+- AMの扱い：
+  - 「TCT | Additive Manufacturing & 3D Printing Intelligence」（https://www.tctmagazine.com/・1回目）
+  - 「Introducing a brand new experience by TCT for the additive manufacturing industry.」（https://www.tctmagazine.com/・1回目）
+  - 「Editor-in-Chief at ManufacturingIQ, joined TCT Magazine in 2014 and is now recognised as one of additive manufacturing’s leading voices. Her deep application knowledge and C-suite connections make her industry insight second to none.」（https://www.tctmagazine.com/・1回目）
+  - 「Lithoz to debut 'Performance Pack' for ceramic 3D printing」（https://www.tctmagazine.com/・1回目）
+  - 「ManufacturingIQ Senior Editor, began writing for TCT Magazine in 2016 and has since become one of additive manufacturing’s go-to journalists. From breaking news to in-depth analysis, Sam’s insight and expertise are highly sought after.」（https://www.tctmagazine.com/・1回目）
+  - 「From Invention to Industrialization: The Next Era of Additive Manufacturing」（https://www.tctmagazine.com/・1回目）
+  - 「Mission-Ready Supply Chains: Additive Manufacturing for Defense」（https://www.tctmagazine.com/・1回目）
+  - 「Ensuring Precision and Repeatability in Ceramic Additive Manufacturing: A Service Bureau Perspective」（https://www.tctmagazine.com/・1回目）
+  - 「The 1m+ SLA Advantage: Boosting Efficiency with Monolithic 3D Printing」（https://www.tctmagazine.com/・1回目）
+  - 「Metal additive manufacturing has grown quickly in the large-format segment. The SFM-AT850 responds with a clear increase in capacity.」（https://www.tctmagazine.com/・1回目）
+  - 「What additive manufacturing engineers should know about X-ray CT」（https://www.tctmagazine.com/・1回目）
+  - 「Rigaku on the practical value of CT for additive manufacturing.」（https://www.tctmagazine.com/・1回目）
+- 株主構成：
+  - 「It is grounded in deployment rather than capability — full-size automotive dashboards, appliance housings, aerospace wind-tunnel models and sacrificial casting patterns — and in what total cost of ownership actually looks like once assembly labour, tolerance rework and freight are counted properly.」（https://www.tctmagazine.com/events/the-1m-sla-advantage-boosting-efficiency-with-monolithic-3d-printing/・1回目）
+  - 「True total cost of ownership of multi-part assembly against a localised one-piece SLA build for parts over one metre.」（https://www.tctmagazine.com/events/the-1m-sla-advantage-boosting-efficiency-with-monolithic-3d-printing/・1回目）
+  - 「Plant managers, VPs of manufacturing, R&D directors and additive manufacturing leads looking to scale production of large plastic parts, lower total cost of ownership, and build more resilient local supply chains.」（https://www.tctmagazine.com/events/the-1m-sla-advantage-boosting-efficiency-with-monolithic-3d-printing/・1回目）
+- 創業年度：
+  - 「is the leading authority on 3D printing and additive manufacturing, with a global media portfolio that encompasses print magazines, websites, newsletters and podcasts. TCT has been following the growth of 3D printing since 1992, providing insights into the development and application of the technology inside automotive, aerospace, healthcare, and more.」（https://www.rapid3devent.com/event/supporters/media-sponsors/・3回目）
+  - 「TCT Japan is one of the largest comprehensive exhibitions of 3D Printing and Additive Manufacturing Intelligence in Japan since 2019, as a member of the TCT Group portfolio which has been a leading authority in additive manufacturing, 3D printing, design and engineering technology for 30 years.」（https://www.tctjapan.jp/outline_en.html・3回目）
+  - 「Since 2015, TCT Japan (formerly “3D Printing Japan”) has been one of the most influential exhibitions focused on 3D printing and additive manufacturing and also features conferences where visitors explore market trends, industry challenges and innovative applications from domestic and international perspectives.」（https://www.tctjapan.jp/outline_en.html・3回目）
+- 売上：
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/・1回目）
+  - 「Generate leads for your sales team」（https://www.tctmagazine.com/advertise/・1回目）
+  - 「Sales & Business Development」（https://www.tctmagazine.com/signup/・1回目）
+  - 「Sales Business Development & Product Management」（https://www.tctmagazine.com/signup/・1回目）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/sponsored/・1回目）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/what-additive-manufacturing-engineers-should-know-about-x-ray-ct/・1回目）
+  - 「Sales & Business Development」（https://www.tctmagazine.com/signup/?tier=free・1回目）
+  - 「Sales Business Development & Product Management」（https://www.tctmagazine.com/signup/?tier=free・1回目）
+  - 「Sales & Business Development」（https://www.tctmagazine.com/signup/?tier=paid&tier_id=68665e2d0cfda10008df8d7f&frequency=yearly・1回目）
+  - 「Sales Business Development & Product Management」（https://www.tctmagazine.com/signup/?tier=paid&tier_id=68665e2d0cfda10008df8d7f&frequency=yearly・1回目）
+  - 「(3DPI) has become the first choice for additive manufacturing news, insights, and analysis for a regular monthly readership of over 1.2 million people.」（https://www.rapid3devent.com/event/supporters/media-sponsors/・3回目）
+  - 「i-Connect 007 Reports On Nano Dimension Q3 2021 Revenues」（https://www.nano-di.com/newsroom/tct-magazine-reports-on-the-acquisition-of-global-inkjet-systems-by-nano-dimension・3回目）
+- 黒字・収益性：
+  - 「3D Systems donates MultiJet 3D printer to nonprofit for production of customised dentures」（https://www.tctmagazine.com/・1回目）
+  - 「for cutting-edge product news and competitive operating solutions to help improve processes and product quality, equipment reliability, operator safety, and business profitability.」（https://www.rapid3devent.com/event/supporters/media-sponsors/・3回目）
+  - 「Nano Dimension’s Post-Acquisition Focus Turns to Profitability」（https://www.nano-di.com/newsroom/tct-magazine-reports-on-the-acquisition-of-global-inkjet-systems-by-nano-dimension・3回目）
+- 存続：
+  - 「How automated transfer, closed-loop washing and controlled post-curing cut delivery from weeks to 23–55 hours and labour cost by 70% in real deployments.」（https://www.tctmagazine.com/events/the-1m-sla-advantage-boosting-efficiency-with-monolithic-3d-printing/・1回目）
+  - 「TCT Magazine On The Acquisition Of GIS | Nano Dimension」（https://www.nano-di.com/newsroom/tct-magazine-reports-on-the-acquisition-of-global-inkjet-systems-by-nano-dimension・3回目）
+  - 「Nano Dimension’s Post-Acquisition Focus Turns to Profitability」（https://www.nano-di.com/newsroom/tct-magazine-reports-on-the-acquisition-of-global-inkjet-systems-by-nano-dimension・3回目）
+  - 「TCT Magazine Reports On The Acquisition Of Global Inkjet Systems By Nano Dimension」（https://www.nano-di.com/newsroom/tct-magazine-reports-on-the-acquisition-of-global-inkjet-systems-by-nano-dimension・3回目）
+  - 「has announced the acquisition of UK-based」（https://www.nano-di.com/newsroom/tct-magazine-reports-on-the-acquisition-of-global-inkjet-systems-by-nano-dimension・3回目）
+- 検索結果の抜粋：
+  - 「TCT Magazine — TCT Magazine TCT Magazine https://www.tctmagazine.com」（https://www.tctmagazine.com/・3回目）
+  - 「世界有数の3Dプリンティング&AMメディアが「 TCT Magazine ... — 世界有数の3Dプリンティング&AMメディアが「 TCT Magazine ... JTBコミュニケーションデザイン https://www.jtbcom.co.jp > リリース・お知らせ > 2020年」（https://www.jtbcom.co.jp/news/2020/929.html・3回目）
+  - 「Media Guide 2026 - TCT Magazine — Media Guide 2026 - TCT Magazine TCT Magazine https://www.tctmagazine.com > media...」（https://www.tctmagazine.com/media-kit-2026/・3回目）
+  - 「About us - TCT 3Sixty — About us - TCT 3Sixty TCT 3Sixty https://tct3sixty.com > about-us」（https://tct3sixty.com/about-us・3回目）
+  - 「Rapid Fusion revenue exceeds £2m for first time as it ... — Rapid Fusion revenue exceeds £2m for first time as it ... TCT Magazine https://www.tctmagazine.com > rapid-...」（https://www.tctmagazine.com/rapid-fusion-revenue-exceeds-2m-for-first-time-as-it-prepares-to-roll-out-cerberus-platform/・3回目）
+  - 「TCT Magazine On The Acquisition Of GIS - Nano Dimension — TCT Magazine On The Acquisition Of GIS - Nano Dimension Nano Dimension https://www.nano-di.com > newsroom」（https://www.nano-di.com/newsroom/tct-magazine-reports-on-the-acquisition-of-global-inkjet-systems-by-nano-dimension・3回目）
+  - 「TCT Magazine | Advanced Manufacturing for Aerospace ... — TCT Magazine | Advanced Manufacturing for Aerospace ... Defence IQ https://www.defenceiq.com > tct-2」（https://www.defenceiq.com/events-advanced-manufacturing/mediapartners/tct-2・3回目）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部23頁・検索11回）
+- 設立：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部23頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部23頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部23頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部23頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部23頁・検索11回）
+
+## VoxelMatters
+- 公式URL：特定できず（not_found）
+- 稼ぎ方：
+  - 「sponsorship opportunities」（https://www.voxelmatters.com/about/・3回目）
+  - 「If you have any questions, feedback or would like to discuss marketing and advertising opportunities,」（https://www.voxelmatters.com/about/・3回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.voxelmatters.com/about/・3回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.voxelmatters.report/・3回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.voxelmatters.directory/・3回目）
+  - 「Advertise | VoxelMatters - The heart of additive manufacturing」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「https://www.voxelmatters.com/about/advertise.md」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「to request our latest media kit.」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「Webinars – The opportunity to show an application to a live and engaged audience.」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「Banner advertisements can be placed in several different positions on VoxelMatters. They can also be placed in various positions in our weekly, curated newsletters.」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「Weekly Newsletter – ideal for lead generation, banners are positioned in key areas of the curated newsletter」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「Our newsletters are sent to almost 10,000 professional subscribers—56% of whom are managers with buying power. The weekly newsletter contains the week’s top stories and can feature your story or banner in a high-visibility position. Dedicated newsletters grab attention and help raise brand awareness as well as offering a vehicle for lead generation campaigns.」（https://www.voxelmatters.com/about/advertise/・3回目）
+- 規模：
+  - 「Every day, we bring our readers relevant, accurate news and announcements from AM industry stakeholders and operators around the world. We do this through our large AM network, which includes over 6,500 AM companies listed in our」（https://www.voxelmatters.com/about/・3回目）
+  - 「, the largest global directory of verified 3D printing companies. All of this means that our readers, whether they are professional adopters or newcomers to AM, can rely on us for the industry’s latest innovations and trends.」（https://www.voxelmatters.com/about/・3回目）
+  - 「Our reach is global. We have collaborators and partners in all seven continents (yes, currently even in Antarctica). Our editors and core team members are based both in Europe and North America so that we can cover a range of time zones with our reporting. We work directly with companies in the US, EMEA and APAC. We see the AM industry as both the most global and the most local manufacturing.」（https://www.voxelmatters.com/about/・3回目）
+  - 「section. Each month, we zoom in on a specific AM vertical, giving our readers the unique opportunity to find what matters to them and gain valuable insights within a defined and focused context. This includes exclusive and original stories, analyses and interviews on each specific topic. At the end of each month, the best content, as well as more exclusive content, is collected in an VM Focus 2024」（https://www.voxelmatters.com/about/・3回目）
+  - 「Throughout our VM Focus 2024 series, we are spotlighting leading subsegments of the additive manufacturing industry. Each AM Focus addresses a specific area of additive, covering important technical advancements, market trends and industry announcements to provide our readers with a unique and comprehensive perspective.」（https://www.voxelmatters.com/about/・3回目）
+  - 「are carefully curated documents that provide our readers with invaluable insights on」（https://www.voxelmatters.com/about/・3回目）
+  - 「contains the best content from the week including the latest industry news, market analyses & forecasts and exclusive interviews. We don’t do spam: we only send a few, highly relevant newsletters a week, as we realize that you already get way too many emails and we don’t want you to miss the additive insights that matter.」（https://www.voxelmatters.com/about/・3回目）
+  - 「Banner advertisements can be placed in several different positions on VoxelMatters. They can also be placed in various positions in our weekly, curated newsletters.」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「Weekly Newsletter – ideal for lead generation, banners are positioned in key areas of the curated newsletter」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「Our newsletters are sent to almost 10,000 professional subscribers—56% of whom are managers with buying power. The weekly newsletter contains the week’s top stories and can feature your story or banner in a high-visibility position. Dedicated newsletters grab attention and help raise brand awareness as well as offering a vehicle for lead generation campaigns.」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「Weekly – subscribers receive a curated selection of the week’s best content.」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「If you’re interested in our newsletter opportunities」（https://www.voxelmatters.com/about/advertise/・3回目）
+- 読者・会員は誰か：
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/about/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.report/・3回目）
+  - 「A listing on VoxelMatters puts your brand in front of the qualified audience that already searches here for 3D printing technologies, services and suppliers. Listed companies receive:」（https://www.voxelmatters.directory/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.directory/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.group/about/・3回目）
+  - 「Webinars – The opportunity to show an application to a live and engaged audience.」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「Ready to communicate your latest developments, products and services to an engaged audience of end-users? Get in touch to discuss your needs.」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「Advertising in a contextually relevant environment is critical: promoting professional and industrial products and services to hobbyists is not effective. With a professional readership, advertising on our channels means engaging with your real potential customers.」（https://www.voxelmatters.group/marketing/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.group/marketing/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.report/database/・3回目）
+  - 「Next Layer, Romania’s only event dedicated exclusively to additive manufacturing, debuted last year and was a runaway success. The show’s formula, which combines a strong speaker lineup, an enthusiastic audience, great conversations among industry players,…」（https://www.voxelmatters.com/・3回目）
+- 運営母体：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/about/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.report/・3回目）
+  - 「Every company in the VoxelMatters directory is classified into one of more than 150 categories and subcategories, organized by 3D printing technology, materials, application, vertical industry and geography. This depth of segmentation makes finding the right 3D printing supplier, partner or competitor fast and precise.」（https://www.voxelmatters.directory/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.report/database/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/・3回目）
+  - 「Being a part of the AM industry ourselves, we’re not like generalist media and research companies, we know what matters in AM and have the data to back it up.」（https://www.voxelmatters.group/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.report/product/additive-manufacturing-market-report-2025/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/analysis/・3回目）
+- AMの扱い：
+  - 「About | VoxelMatters - The heart of additive manufacturing」（https://www.voxelmatters.com/about/・3回目）
+  - 「VoxelMatters is a trusted independent resource for additive manufacturing industry news, information and market insights.」（https://www.voxelmatters.com/about/・3回目）
+  - 「have nearly two decades of combined experience covering the additive manufacturing industry and are familiar with all major companies, technologies, materials and applications. We believe that additive manufacturing—in its many forms—is the future of all production and represents the clearest path toward a more sustainable future.」（https://www.voxelmatters.com/about/・3回目）
+  - 「, the largest global directory of verified 3D printing companies. All of this means that our readers, whether they are professional adopters or newcomers to AM, can rely on us for the industry’s latest innovations and trends.」（https://www.voxelmatters.com/about/・3回目）
+  - 「Throughout our VM Focus 2024 series, we are spotlighting leading subsegments of the additive manufacturing industry. Each AM Focus addresses a specific area of additive, covering important technical advancements, market trends and industry announcements to provide our readers with a unique and comprehensive perspective.」（https://www.voxelmatters.com/about/・3回目）
+  - 「additive manufacturing segments.」（https://www.voxelmatters.com/about/・3回目）
+  - 「3D Printing Service Providers」（https://www.voxelmatters.com/about/・3回目）
+  - 「Ceramic Additive Manufacturing」（https://www.voxelmatters.com/about/・3回目）
+  - 「Sinto Advanced Ceramics adds non-oxide ceramics to its 3D printing portfolio」（https://www.voxelmatters.com/about/・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/about/・3回目）
+  - 「Deep additive manufacturing insights and the data that matters - VoxelMatters Research」（https://www.voxelmatters.report/・3回目）
+  - 「Metal AM Market 2026」（https://www.voxelmatters.report/・3回目）
+- 株主構成：
+  - 「Backed by over 268,000 data points and 205 detailed data tables and charts, this 550+ page report delivers actionable insights into the trends, challenges, and opportunities shaping the future of AM.」（https://www.voxelmatters.report/product/additive-manufacturing-market-report-2025/・3回目）
+- 創業年度：
+  - 「Since 2013, the VoxelMatters Directory has been the most reliable and current source of additive manufacturing company data. It was the first directory dedicated exclusively to 3D printing companies and remains the largest in the world. Its data is continuously refreshed through close integration with the VoxelMatters」（https://www.voxelmatters.directory/・3回目）
+- 売上：
+  - 「The global core AM market generated almost $12.3 billion in revenues in 2024 (across hardware, materials, and services in polymer, metal, and ceramic), growing by 18.7% from $10.34 billion in 2023. Growth is forecast to continue, reaching $108 billion by 2034 at a 24.4% CAGR.」（https://www.voxelmatters.report/・3回目）
+  - 「$5.53 billion revenue generated by AM hardware」（https://www.voxelmatters.report/・3回目）
+  - 「$2.39 billion revenue generated by AM materials」（https://www.voxelmatters.report/・3回目）
+  - 「$4.35 billion revenue generated by AM services」（https://www.voxelmatters.report/・3回目）
+  - 「Including sales to vertical end-users」（https://www.voxelmatters.report/・3回目）
+  - 「VCs looking to identify the next billion-dollar opportunity」（https://www.voxelmatters.report/・3回目）
+  - 「We support investment companies that are looking for the disruptive production technologies and applications that will fuel the next billion dollar manufacturing company. By continuously tracking every segment of the market, our market studies can provide business cases and an overview of the business potential over the next 10-year period.」（https://www.voxelmatters.report/・3回目）
+  - 「The VoxelMatters directory connects you to companies and to the data shaping the $10 billion additive manufacturing industry. Our」（https://www.voxelmatters.directory/・3回目）
+  - 「help companies focus on specific markets by product, technology, geography and adoption segment. Sales teams use the directory to identify high-value prospects and partners. Competitive intelligence teams map their position against direct rivals. Buyers shortlist qualified 3D printing suppliers in minutes, not weeks.」（https://www.voxelmatters.directory/・3回目）
+  - 「Sales Account Manager」（https://www.voxelmatters.group/about/・3回目）
+  - 「Our database includes 351 unique AM hardware companies ranging from startups and SMEs all the way to the largest hardware OEMSs . The overall unit sale and revenue data for each single product is available for each material segment (polymers, composites, metals, ceramics), as well as for every AM technology family and sub-family.」（https://www.voxelmatters.report/database/・3回目）
+  - 「Our database includes 303 unique AM material companies, including large and small suppliers of polymers, composites, metals, and ceramics. These are intended as manufacturers of materials in 3D printable form. Data on global and national material shipments and revenues is available for each material type and material form.」（https://www.voxelmatters.report/database/・3回目）
+- 存続：
+  - 「is where we publish all the immediately relevant AM industry news, such as distribution deals and partnerships, new product launches, acquisitions and funding. In the」（https://www.voxelmatters.com/about/・3回目）
+  - 「Acquisitions, Mergers & Partnerships」（https://www.voxelmatters.com/・3回目）
+  - 「Designated users are not permitted to resell, distribute, disseminate, disclose, copy, or otherwise pass any of the information contained in VoxelMatters reports to persons outside of the organization that has acquired the license to access the content.」（https://www.voxelmatters.report/product/additive-manufacturing-market-report-2025/・3回目）
+- 検索結果の抜粋：
+  - 「About | VoxelMatters - The heart of additive manufacturing — About | VoxelMatters - The heart of additive manufacturing VoxelMatters https://www.voxelmatters.com > about」（https://www.voxelmatters.com/about/・3回目）
+  - 「VoxelMatters - LinkedIn — VoxelMatters - LinkedIn LinkedIn https://uk.linkedin.com > voxelmatters」（https://uk.linkedin.com/company/voxelmatters・3回目）
+  - 「VoxelMatters Research: Deep additive manufacturing insights ... — VoxelMatters Research: Deep additive manufacturing insights ... VoxelMatters Research https://www.voxelmatters.report」（https://www.voxelmatters.report/・3回目）
+  - 「The first & largest directory of 3D printing companies ... — The first & largest directory of 3D printing companies ... voxelmatters.directory https://www.voxelmatters.directory」（https://www.voxelmatters.directory/・3回目）
+  - 「About - VoxelMatters Group — About - VoxelMatters Group voxelmatters.group https://www.voxelmatters.group > ab...」（https://www.voxelmatters.group/about/・3回目）
+  - 「Advertise | VoxelMatters - The heart of additive manufacturing — Advertise | VoxelMatters - The heart of additive manufacturing VoxelMatters https://www.voxelmatters.com > about」（https://www.voxelmatters.com/about/advertise/・3回目）
+  - 「Marketing - VoxelMatters Group — Marketing - VoxelMatters Group voxelmatters.group https://www.voxelmatters.group > ma...」（https://www.voxelmatters.group/marketing/・3回目）
+  - 「VoxelMatters directory — VoxelMatters directory voxelmatters.directory https://www.voxelmatters.directory」（https://www.voxelmatters.directory/・3回目）
+  - 「The largest database of AM companies and products — The largest database of AM companies and products VoxelMatters Research https://www.voxelmatters.report > dat...」（https://www.voxelmatters.report/database/・3回目）
+  - 「The heart of additive manufacturing - VoxelMatters News — The heart of additive manufacturing - VoxelMatters News VoxelMatters https://www.voxelmatters.com」（https://www.voxelmatters.com/・3回目）
+  - 「VoxelMatters - YouTube — VoxelMatters - YouTube YouTube https://www.youtube.com > @voxelm...」（https://www.youtube.com/@voxelmatters・3回目）
+  - 「VoxelMatters Group: Your partner for additive manufacturing — VoxelMatters Group: Your partner for additive manufacturing voxelmatters.group https://www.voxelmatters.group」（https://www.voxelmatters.group/・3回目）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部30頁・検索19回）
+- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部30頁・検索19回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部30頁・検索19回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部30頁・検索19回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部30頁・検索19回）
+- 代表者：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部30頁・検索19回）
+- 黒字・収益性：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部30頁・検索19回）
+
+## fabcross
+- 公式URL：https://www.meitec.co.jp/（search:yahoo_jp:fabcross）
+- 創業年度：創業：1974年7月17日（https://www.meitec.co.jp/company/overview.html・1回目）
+- 創業年度：設立：2023年4月3日 ※株式会社メイテックは2023年10月1日の持株会社体制への移行にともない、新たに設立となりました(メイテックの沿革は こちら )（https://www.meitec.co.jp/company/overview.html・1回目）
+- 創業年度：設立：1974年07月（https://prtimes.jp/main/html/rd/p/000000010.000001214.html・3回目）
+- 所在地：東京本社／〒110-0005　東京都台東区上野1丁目1-10 オリックス上野1丁目ビル MAP → 「当社サービス」に関するお問い合わせは、以下のフォームよりお問い合わせください 【サービス】お問い合わせフォーム（https://www.meitec.co.jp/company/overview.html・1回目）
+- 所在地：東京都台東区上野1丁目1-10 
+オリックス上野1丁目ビル（https://prtimes.jp/main/html/rd/p/000000010.000001214.html・3回目）
+- 売上高：956億82百万円（2026年3月期） グループ連結：1,376億86百万円（2026年3月期）（https://www.meitec.co.jp/company/overview.html・1回目）
+- 代表者：代表取締役社長　関口 晃介（https://www.meitec.co.jp/company/overview.html・1回目）
+- 代表者：Tel 050-3000-5820（代）（受付時間：平日9:00〜18:00） 営業のお電話はお取次ぎできませんので、以下フォームよりお願いいたします 【採用・その他全般】お問い合わせフォーム（https://www.meitec.co.jp/company/overview.html・1回目）
+- 代表者：関口晃介（https://prtimes.jp/main/html/rd/p/000000010.000001214.html・3回目）
+- 稼ぎ方：
+  - 「Maker系イベントの国内開催や、Kickstarter等でのクラウドファンディングも普及しはじめたこともあり、新しいものづくりが注目されていました」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「僕はメイテックの子会社でデジタルマーケティングを専業していて、石川さんが関わっているWebメディア「デイリーポータルZ」に広告記事を出したりしていたんです」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「ヒット記事が増えたことでfabcrossの認知も広がり、Maker Faireなどイベントにも出店」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「イベントなどで知り合った方がライターになってくれるのは本当に嬉しかったです」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「企業や他メディアとのコラボレーションも、広告記事枠のあった初期には多かったですよね」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「デイリーポータルZとのコラボイベント「頭の悪いメカ発表会」は楽しかったなぁ」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「なぜか2回目には当時の東急ハンズさんもスポンサーになってくれたし」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「運営が厳しい初期に、本社で開催したイベントに100人くらい集まってくれたときにも、ようやく「これはイケるかも」と手ごたえを感じました」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「イベントで直接声を聞けると元気をもらえるので、僕も文学フリマやMakerFaireに出て、生の声が聞けるのを楽しみにしています」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「越智さんはご自身のnoteで「広告のない非営利に近いメディアとして12年続いたのは、奇跡のようなものだと思います」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「fabcrossはメイテックというエンジニア派遣の会社が新規事業として2013年に立ち上げ、後に紆余曲折を経てブランディングと社員採用の広告ツールとして運営してきました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「広告のない非営利に近いメディアとして12年続いたのは、奇跡のようなものだと思います」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+- 規模：
+  - 「【ご注意ください】あたかも当社が在宅業務参加者を募っているかのような不審な紹介について」（https://www.meitec.co.jp/・1回目）
+  - 「ものづくり系メディアの先達として多くの読者、そして編集者やライター陣にも長く愛されてきたfabcross」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「そこから読者が増えて、企業や行政からも問い合わせが来るようになりました」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「読者からライターへ、じっくり育てる”ひよこ組”」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「読者からライターになる導線があったのは、メディア運営側としても手応えがありました」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「読者のみなさまに加え、運営に携わっていただいた関係者の皆様には感謝しかありません」とも書かれていました」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「読者コミュニティとの距離を意識した、読者投稿などにもチャレンジしていきますよ」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「これまでご愛読いただいた読者のみなさまに感謝をお伝えしたいと思い、このnoteを書いています」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「読者のみなさまに加え、運営に携わっていただいた関係者の皆様には感謝しかありません」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「ローンチから半年が経ちサイトのPVは少しずつ伸びてきたのですが、いかんせん企画当初の目標には到達していません」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「バズった効果もあって月間PVが10万を超えたあたりから業界内での認知が進み、取材やリリース前商品の紹介依頼などが増え始めました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「最終的には兄弟サイトの「fabcross for エンジニア」と合算で100万PV/月まで成長しました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+- 読者・会員は誰か：
+  - 「メイテック ～エンジニアリングソリューション 研究開発・設計プロのエンジニア～」（https://www.meitec.co.jp/・1回目）
+  - 「私たちは「人と技術」でものづくりの核心を担うエンジニア集団です」（https://www.meitec.co.jp/・1回目）
+  - 「日経電子版（2025.2.12）の「製造業“ハケン”半導体・宇宙まで 独自の育成で技能向上」に掲載されました」（https://www.meitec.co.jp/・1回目）
+  - 「エンジニアと共に生き、共に繁栄する」（https://www.meitec.co.jp/・1回目）
+  - 「製造業と共に生き、共に繁栄する」（https://www.meitec.co.jp/・1回目）
+  - 「創業以来50年間、私たちメイテックは「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高めています」（https://www.meitec.co.jp/・1回目）
+  - 「正社員エンジニア約8,000名が全国の製造業の皆さまのもとで技術サービスを提供しています」（https://www.meitec.co.jp/・1回目）
+  - 「自動車、輸送機器関連 ：」（https://www.meitec.co.jp/・1回目）
+  - 「世の中の技術革新スピードはますます速まり、日本の製造業のお客さまの設計・開発現場を取り巻く環境も劇的に変化し、開発プロセスごとに多くの課題やニーズが顕在化しています」（https://www.meitec.co.jp/・1回目）
+  - 「メイテックのエンジニアリングソリューション事業は、設計・開発業務において「人と技術」のサービスで、お客さまに最適な課題解決策を提供しています」（https://www.meitec.co.jp/・1回目）
+  - 「モビリティ— / ロボット / 航空・宇宙 / 半導体・LSI / 産業用機械 / 電気・電子機器 / 素材 / エネルギー・プラント / システム / 医療 / 次世代技術」（https://www.meitec.co.jp/・1回目）
+  - 「「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高め続けられるよう、技術だけでなく人間力を磨くものまで、独自の研修制度に力を入れています」（https://www.meitec.co.jp/・1回目）
+- 運営母体：
+  - 「名古屋テクノセンターが日本経済新聞社主催の「‘88全国優秀先端事業所賞」を受賞」（https://www.meitec.co.jp/company/overview/history.html・1回目）
+  - 「神戸テクノセンターが日本経済新聞社主催の「‘92全国優秀先端事業所賞」を受賞」（https://www.meitec.co.jp/company/overview/history.html・1回目）
+  - 「副編集長としてサイト運営と並行して国内外で取材を重ねる」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「現在は自分のファブ施設「京島共同凸工所」を運営しながら、墨田区での暮らしを満喫中」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「ギャグ系電子工作の制作、「技術力の低い人限定ロボコン（通称：ヘボコン）」主催などの活動でものづくりにも携わり、fabcrossにも多数の記事を寄稿」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「「自分が必要なものを作る」をテーマに衣食住に関わるものを作るFARMTORY-LABを主催」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「現在は、メイカースペースの運営に関わりつつ、個人のものづくりや子育てに奮闘中」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「）、メディア運営について語る機会はこの12年間ありませんでした」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「とはいえ、チームには全然知見がなかったし、メディア運営もやったことがない」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「すぐに相談に乗ってくれて、原稿料の相場とか運営の仕方とか、かなり赤裸々に教えてくれましたよね」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「あの頃はデイリーポータルZもニフティが運営していた（※）ので、会社まで来てもらって打ち合わせしたのを覚えてます」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「※デイリーポータルZは運営会社がニフティ→イッツ・コミュニケーションズ→東急メディア・コミュニケーションズ→デイリーポータルZ株式会社へと変遷している」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+- AMの扱い：
+  - 「大学で3Dプリンターと出会いものづくりの面白さを知る」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「とはいえ、当時のメイカー・ムーブメントや3Dプリンターブームの追い風もあり、ローンチ5ヶ月目ぐらいで開催したイベントは100名以上が集まるなど、徐々に手応えを感じるようになっていきました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「3Dプリンター所持率が過半数を超え、中には自らメイカースペースを運営に関わる人も何人かいました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「大企業のエンジニアが休憩時間に安価な3Dプリンターでプロトタイピングを楽しむ光景を、誰が予想できたでしょうか」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「「はじめまして」の挨拶／個人で稼ぐMaker／3Dプリンター祭ほか、2025年6月の人気記事まとめ」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「オープンソースハードウェアや3Dプリンター、デジタルファブリケーション、ハードウェアスタートアップを専門領域とする」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「Bambu Lab、ツール9本を自動で切り替える3Dプリンター「H3C」を発売」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「なぜ3Dプリンターは金型に勝てないのか──6500年変わらない量産の絶対王者」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「The actual core was not just electronics hobby projects, but also coverage of 3D printing, digital fabrication, hardware startup-related articles, and cutting-edge research from overseas, which were also content that drove the site. We have experts who are well-versed in each of these areas.」（https://note.com/gkt/n/nf0799e8a303d?hl=en・3回目）
+  - 「低コスト化が大変！ 3Dプリンターでチャレンジ、オリジナルカプセルトイ作り」（https://note.com/_5884/n/n21daf87618bf・3回目）
+- 株主構成：
+  - 「私たちメイテックグループは、全社員がつながり合い、エンジニア価値を起点とした「社員価値」「顧客価値」「株主価値」「社会価値」の5つの価値を持続的に向上させるため、「目指すべき姿」を定め取り組んでいます」（https://www.meitec.co.jp/company/index.html・1回目）
+  - 「メイテックグループは、事業を通じて、経営資源(人・技術・情報)を社会的に共有することにより、エンジニア、社員、顧客、株主、社会と共に生き、共に繁栄していきます」（https://www.meitec.co.jp/company/principal.html・1回目）
+  - 「4) 株主価値」（https://www.meitec.co.jp/company/principal.html・1回目）
+  - 「持続的な価値向上に基づく「健全な利益」を創出し、中長期的に株主還元を最大化します」（https://www.meitec.co.jp/company/principal.html・1回目）
+  - 「当時、メイテックネクストという子会社にいた私は、グループで唯一のデジタルマーケティング専業担当として、親会社の新規事業プロジェクトに参加しました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+- 創業年度：
+  - 「創業以来50年間、私たちメイテックは「技術の核心」といえる部分を情熱を持って切り拓き、重要な仕事を託される醍醐味を通じて、エンジニア一人ひとりがプロフェッショナルとしての価値を高めています」（https://www.meitec.co.jp/・1回目）
+  - 「※株式会社メイテックは2023年10月1日の持株会社体制への移行にともない、新たに設立となりました(メイテックの沿革は」（https://www.meitec.co.jp/company/overview.html・1回目）
+  - 「メイテックの設立以来目指し続けてきたことであり、現在もグループで掲げる経営理念です」（https://www.meitec.co.jp/company/principal.html・1回目）
+  - 「（1985年に株式会社ジエクスに社名変更）を設立」（https://www.meitec.co.jp/company/overview/history.html・1回目）
+  - 「2013年にWebメディア「fabcross」の設立に参画」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「東証一部上場・創業ウン十年という企業ブランドも、インターネット領域ではまったく意味をなさない状況でした」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「2013年当時に所属していた会社でwebメディア「fabcross」の設立に参画」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「2017年に独立、2021年にシンツウシン株式会社を設立」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「2025年にFabSceneを設立」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「Makerから企業まで席巻する魔法の箱、「M5Stack」創業者Jimmy Laiの半生」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「The web media "fabcross," which had been in operation since 2013, will be closed as of March 31, 2025.」（https://note.com/gkt/n/nf0799e8a303d?hl=en・3回目）
+- 売上：
+  - 「956億82百万円（2026年3月期）」（https://www.meitec.co.jp/company/overview.html・1回目）
+  - 「グループ連結：1,376億86百万円（2026年3月期）」（https://www.meitec.co.jp/company/overview.html・1回目）
+  - 「当時は事業として運営していたので、売上もKPIの一つだったのです」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「PR企画やイベントへの波及効果も見込めるため、2014年ごろから広告の売上が出始め、単月で黒字になることも1回だけありました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「大学生時代にカジノサークルで稼いだ1億円で起業、世界的ソフトウェアを生み出した男の話」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「fabcrossによる年間売上ランキングインタビュー記事をアーカイブ公開！ — スイッチサイエンス」（https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vLagWJ7G6N38URmYcEsR9ry67KViaonAeSr_v2z8rc71rb4u08Y・3回目）
+  - 「fabcrossによる年間売上ランキングインタビュー記事をアーカイブ公開！」（https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vLagWJ7G6N38URmYcEsR9ry67KViaonAeSr_v2z8rc71rb4u08Y・3回目）
+  - 「スイッチサイエンス年間売上ランキングベスト100に見る」（https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vLagWJ7G6N38URmYcEsR9ry67KViaonAeSr_v2z8rc71rb4u08Y・3回目）
+  - 「fabcrossによる年間売上ランキングインタビュー記事をアーカイブ公開！ — スイッチサイエンス」（https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vLfFtSUPrfEBQkKYV5xOisSCI9-lspbfN3L3z049zZLPiW_L3h-・3回目）
+  - 「fabcrossによる年間売上ランキングインタビュー記事をアーカイブ公開！」（https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vLfFtSUPrfEBQkKYV5xOisSCI9-lspbfN3L3z049zZLPiW_L3h-・3回目）
+  - 「スイッチサイエンス年間売上ランキングベスト100に見る」（https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vLfFtSUPrfEBQkKYV5xOisSCI9-lspbfN3L3z049zZLPiW_L3h-・3回目）
+  - 「Looking back, I believe this kind of sales activity was extremely important for developing sources for interviews. After becoming independent, I have sometimes helped with content marketing and owned media management, and I have the impression that media outlets whose representatives do not show their faces to interviewees struggle to grow.」（https://note.com/gkt/n/nf0799e8a303d?hl=en・3回目）
+- 黒字・収益性：
+  - 「最初は新規事業として「黒字化しよう」とやっていたけど、数千億規模の業績を誇るメイテックに大きく貢献するのは難しくて」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「PR企画やイベントへの波及効果も見込めるため、2014年ごろから広告の売上が出始め、単月で黒字になることも1回だけありました」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「I think it is a miracle that it lasted for 12 years as a media outlet with almost no advertising and a non-profit nature. I have nothing but gratitude for our readers and all the people involved in its operation.」（https://note.com/gkt/n/nf0799e8a303d?hl=en・3回目）
+- 存続：
+  - 「状況によっては「事業の成長性なし」と判断し、撤退する可能性もありましたが、一定の規模に成長したことを評価され、会社のブランディングツールとして存続することになったのです」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「fabcrossが立ち上がった時期に、似たような領域で他社が立ち上げたサービスはほとんど撤退しています（代表的なところではリクルートのMakersHubやDMM.make AKIBAのwebメディアなど）」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「三菱ケミカル、AIとデータセンターの需要で2月に決めた炭素材事業の撤退を撤回」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか」（https://fabscene.com/new/infomation/helloworld/・3回目）
+  - 「The web media "fabcross," which had been in operation since 2013, will be closed as of March 31, 2025.」（https://note.com/gkt/n/nf0799e8a303d?hl=en・3回目）
+- 検索結果の抜粋：
+  - 「ものづくりメディアは続くよどこまでも。「 fabcross 」を ... — ものづくりメディアは続くよどこまでも。「 fabcross 」を ... セメダイン株式会社 https://www.cemedine.co.jp > fabcrosszadannkai2025」（https://www.cemedine.co.jp/cemedine_reports/fabcrosszadannkai2025.html・3回目）
+  - 「fabcross forエンジニア」サイト閉鎖のお知らせ - メイテック — fabcross forエンジニア」サイト閉鎖のお知らせ - メイテック meitec.co.jp https://www.meitec.co.jp > fabcross」（https://www.meitec.co.jp/fabcross.html・3回目）
+  - 「fabcross の閉鎖に寄せて｜越智 岳人 - note — fabcross の閉鎖に寄せて｜越智 岳人 - note note https://note.com > 科学・テクノロジー > テクノロジー全般」（https://note.com/gkt/n/nf0799e8a303d・3回目）
+  - 「fabcross (@fabcrossjp) / X — fabcross (@fabcrossjp) / X X https://x.com > fabcrossjp」（https://x.com/fabcrossjp・3回目）
+  - 「fabcross による年間売上ランキングインタビュー記事を ... — fabcross による年間売上ランキングインタビュー記事を ... スイッチサイエンス https://www.switch-science.com > blogs > magazine > fab...」（https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vLagWJ7G6N38URmYcEsR9ry67KViaonAeSr_v2z8rc71rb4u08Y・3回目）
+  - 「fabcross による年間 売上 ランキングインタビュー記事を ... — fabcross による年間 売上 ランキングインタビュー記事を ... スイッチサイエンス https://www.switch-science.com > blogs > magazine > fab...」（https://www.switch-science.com/blogs/magazine/fabcross-interview-top100?srsltid=AYCX9vLfFtSUPrfEBQkKYV5xOisSCI9-lspbfN3L3z049zZLPiW_L3h-・3回目）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部38頁・検索12回）
+- 設立：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部38頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部38頁・検索12回）
+
+## おおたAMプロジェクト
+- 公式URL：https://piopark.net/（search:yahoo_jp:おおたAMプロジェクト）
+- 稼ぎ方：
+  - 「Haneda Next Makers -ベンチャーフレンドリー2026-年度会員募集および11/18(水) 第3回開催のお知らせ」（https://piopark.net/・1回目）
+  - 「会員募集および第2回11/19(木) 開催のご案内」（https://piopark.net/・1回目）
+  - 「PiO PARKでは、コワーキングスペースやイベント、会議用のスペースを提供しています」（https://piopark.net/・1回目）
+  - 「Haneda Next Makers -ベンチャーフレンドリー2026-年度会員募集および11/18(水) 第3回開催のお知らせ｜お知らせ｜PiOPARK(ピオパーク)」（https://piopark.net/info/detail/410/・1回目）
+  - 「Haneda Next Makers -ベンチャーフレンドリー2026-年度会員募集および11/18(水) 第3回開催のお知らせ」（https://piopark.net/info/detail/410/・1回目）
+  - 「本シリーズは、年間3〜4回開催する、令和8年度限定の会員制プロジェクトとなります」（https://piopark.net/info/detail/410/・1回目）
+  - 「参加希望の方については、令和8年度シリーズ会員登録申請後、内容確認ののち、承認をもってシリーズ会員となります」（https://piopark.net/info/detail/410/・1回目）
+  - 「：年度会員登録申請後、登録となった方には」（https://piopark.net/info/detail/410/・1回目）
+  - 「（既に年度会員に登録されている方あてには、別途ご案内メールをお送りいたします」（https://piopark.net/info/detail/410/・1回目）
+  - 「会員募集および第2回11/19(木) 開催のご案内｜お知らせ｜PiOPARK(ピオパーク)」（https://piopark.net/info/detail/409/・1回目）
+  - 「会員募集および第2回11/19(木) 開催のご案内」（https://piopark.net/info/detail/409/・1回目）
+  - 「会員企業間の連携を醸成しながら、工業デザイン、高速プロトタイピングや販路開拓などを学び、」（https://piopark.net/info/detail/409/・1回目）
+- 規模：
+  - 「会員企業間の連携を醸成しながら、工業デザイン、高速プロトタイピングや販路開拓などを学び、」（https://piopark.net/info/detail/409/・1回目）
+  - 「■会員数(令和8年3月末時点）： 約100名」（https://piopark.net/info/detail/409/・1回目）
+- 読者・会員は誰か：
+  - 「一方、近年、製造業の新たな可能性を切り拓く技術として注目を集めているのが、AM（Additive Manufacturing＝付加製造）です」（https://www.pio-ota.jp/techno-plaza/blog/association_business/ota-am-project/・3回目）
+  - 「区内製造業約10社が参加し、大阪大学の中野貴由氏（AM研究開発センター・センター長（現：3DPTec統合センター・センター長））の監修のもと、全3回にわたり学習と意見交換を重ねました」（https://www.pio-ota.jp/techno-plaza/blog/association_business/ota-am-project/・3回目）
+- 運営母体：
+  - 「（公財）大田区産業振興協会が運営するビジネス交流空間です」（https://piopark.net/・1回目）
+  - 「新たな枠組みを進化させるプロジェクトとして、大田区産業振興協会は「HANEDA共創プラットフォーム」を運営しています」（https://piopark.net/info/detail/410/・1回目）
+  - 「HANEDA共創プラットフォーム 運営事務局」（https://piopark.net/info/detail/410/・1回目）
+  - 「大田区産業振興協会は「HANEDA共創プラットフォーム」を運営しています」（https://piopark.net/info/detail/409/・1回目）
+  - 「■事務局： 公益財団法人大田区産業振興協会」（https://piopark.net/info/detail/409/・1回目）
+  - 「② 会長および副会長、事務局が会員と認める方 （ご入会申込み後に正式に入会可否をご連絡します」（https://piopark.net/info/detail/409/・1回目）
+  - 「※本人が希望する場合に加え、不参加が続いた場合に事務局より退会をお願いすることがあります」（https://piopark.net/info/detail/409/・1回目）
+  - 「HANEDA共創プラットフォーム 運営事務局」（https://piopark.net/info/detail/409/・1回目）
+- AMの扱い：
+  - 「「3Dプリンター」は機械だけじゃない」（https://piopark.net/・1回目）
+  - 「AIの比較と実務活用、3Dプリンターの活用で“自社商品づくり”を加速する など」（https://piopark.net/info/detail/409/・1回目）
+  - 「「3Dプリンター」は機械だけじゃない」（https://www.pio-ota.jp/techno-plaza/blog/association_business/ota-am-project/・3回目）
+  - 「> 「3Dプリンター」は機械だけじゃない」（https://www.pio-ota.jp/techno-plaza/blog/association_business/ota-am-project/・3回目）
+  - 「3Dプリンター（AM＝付加製造）を切り口に、区内のものづくり企業が手をつなぎ、新しい製造のカタチをつくる――」（https://www.pio-ota.jp/techno-plaza/blog/association_business/ota-am-project/・3回目）
+  - 「一方、近年、製造業の新たな可能性を切り拓く技術として注目を集めているのが、AM（Additive Manufacturing＝付加製造）です」（https://www.pio-ota.jp/techno-plaza/blog/association_business/ota-am-project/・3回目）
+  - 「一口に3Dプリンターといっても、「原料はどうやって作るの？」「造形した後、どう仕上げる？」「設計は誰が担う？」「最終製品として求められる精度や品質をどう実現する？」といった課題が必ず付きまといます」（https://www.pio-ota.jp/techno-plaza/blog/association_business/ota-am-project/・3回目）
+  - 「AMを単なる「3Dプリンターによる造形技術」として捉えるのではなく、大田区に集積する高度な加工技術と融合させることで、AMを「実際の製品・事業につなげられる技術」へと進化させていきます」（https://www.pio-ota.jp/techno-plaza/blog/association_business/ota-am-project/・3回目）
+  - 「（一社）日本Additive Manufacturing学会（日本AM学会） 代表理事・会長」（https://www.pio-ota.jp/techno-plaza/blog/association_business/ota-am-project/・3回目）
+  - 「経済産業省でも、2025年10月より金属積層造形の普及拡大・活用促進に向けた検討会が実施され、提言もまとめられ、現在、日本のものづくりにAMが投入される好機です」（https://www.pio-ota.jp/techno-plaza/blog/association_business/ota-am-project/・3回目）
+  - 「[S1-03: 招待講演] おおたAMプロジェクトにおける地域連携型AM社会実装の取り組み | 日本Additive Manufacturing学会 第2回講演大会 | Confit」（https://pub.confit.atlas.jp/ja/event/jiam2026/presentation/S1-03・3回目）
+- 創業年度：
+  - 「区内外のスタートアップ企業、ものづくり企業、第2次創業・創業予定者や金融機関、VC・CVC、インキュベーション施設間の連携促進にフォーカスし、新たなイノベーション創出やビジネスチャンス獲得の加速を図ります」（https://piopark.net/info/detail/410/・1回目）
+  - 「区内外のスタートアップ企業、ものづくり企業、第2次創業、創業予定者や金融機関、」（https://piopark.net/info/detail/410/・1回目）
+  - 「〇第2次創業、創業予定者」（https://piopark.net/info/detail/410/・1回目）
+- 検索結果の抜粋：
+  - 「おおたAMプロジェクト - PiOPARK(ピオパーク) — おおたAMプロジェクト - PiOPARK(ピオパーク) PiOPARK https://piopark.net > project > detail」（https://piopark.net/project/detail/11/・3回目）
+  - 「おおた AMプロジェクト — おおた AMプロジェクト 大阪大学 PDF https://www-mat.eng.osaka-u.ac.jp > msp6 > uploads」（https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/uploads/b043a9f3edb08b83b1ebc22dc992378adf5f61cb.pdf・3回目）
+  - 「[S1-03: 招待講演] おおたAMプロジェクト における地域連携型 ... — [S1-03: 招待講演] おおたAMプロジェクト における地域連携型 ... pub.confit.atlas.jp https://pub.confit.atlas.jp > event > jiam2026 > presentation」（https://pub.confit.atlas.jp/ja/event/jiam2026/presentation/S1-03・3回目）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部21頁・検索12回）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部21頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部21頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部21頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部21頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部21頁・検索12回）
+- 株主構成：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部21頁・検索12回）
+- 売上：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部21頁・検索12回）
+- 黒字・収益性：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部21頁・検索12回）
+- 存続：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部21頁・検索12回）
+
+## 技術研究組合次世代3D積層造形技術総合開発機構
+- 公式URL：http://www.trafam.com.mx/（search:yahoo_jp:TRAFAM）
+- 稼ぎ方：
+  - 「「日経ものづくり」定期購読者もログインしてお読みいただけます」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4・3回目）
+  - 「リードタイムが短縮され、接合しない分、強度も高まっています」（https://connect.panasonic.com/jp-ja/gemba/article/00192516・3回目）
+- 規模：
+  - 「財)電力中央研究所、東芝エネルギーシステムズ(株)、(株)戸上電機製作所、日本板硝子(株)、(一社)日本PVプラ」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「置太陽光発電システム技術開発・壁面設置基盤技術開発、③高安全PVモジュール、高安全PVシステムの技術基準」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「PVへのAI・機械学習応用研究会／PVと金融研究会／タンデムPV研究会／再エネ電力のデジタル取引研究会の５」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「PVモジュール・システムの、」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「「日経ものづくり」定期購読者もログインしてお読みいただけます」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4・3回目）
+- 読者・会員は誰か：
+  - 「このプロジェクトを通じて、金属積層造形部品等の品質向上及び開発の効率化を図り、今後中小企業においても金属3Dプリンタの導入を促進していきます」（https://newscast.jp/news/3489783・3回目）
+  - 「① 「異業種連携研究型」 同種の製品･サービスを提供していない事業者同士が、それぞれの強みを活かしつつ、共同で研究開発を行っているもの(中小･ベンチャー企業が参加している場合もある) 22」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「(株)、(株)横浜環境デザイン【22社(うち中小5社、1国研、3団体、1自治体)】」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「【9社(うち中小3社)】」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「【22社(うち中小3社)】」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「■理事長：山口耕司((有)オービタルエンジニアリング取締役社長)」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「■組合員：(有)オービタルエンジニアリング、山本産業(株)」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「【中小2社】」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「【15社(うち中小13社)、3団体、1個人】」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「刷(株)、トヨタ自動車（株）、日産化学（株）、日産自動車（株）、(株)日本触媒、パナソニック(株)、ビークルエナ」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「■理事長：濱村 芳彦（トヨタ自動車（株） FC事業領域 統括部長）」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「■組合員：トヨタ自動車(株)、日産自動車(株)、パナソニック(株)、東芝燃料電池システム(株)、(株)本田技術研究」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+- 運営母体：
+  - 「日本機械学会機械材料・材料加工部門 運営委員」（https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf・3回目）
+  - 「日本学術振興会・鋳物第 24委員会 運営委員」（https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf・3回目）
+  - 「（一社）溶接学会 全国大会運営委員会 委員」（https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf・3回目）
+  - 「テスラ「サイバーキャブ」の衝撃 車の稼働率10倍へ、収益構造が激変／「ガリバー」運営IDOMがAXに大型投資 注目記事を音声化」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4・3回目）
+- AMの扱い：
+  - 「近畿大学次世代基盤技術研究所 特任教授の京極 秀樹が 技術研究組合次世代3D積層造形技術総合開発機構 理事長に就任 | NEWSCAST」（https://newscast.jp/news/3489783・3回目）
+  - 「近畿大学次世代基盤技術研究所 特任教授の京極 秀樹が 技術研究組合次世代3D積層造形技術総合開発機構 理事長に就任」（https://newscast.jp/news/3489783・3回目）
+  - 「近畿大学次世代基盤技術研究所（広島県東広島市）特任教授の京極 秀樹が、令和3年（2021年）5月26日付で、技術研究組合次世代3D積層造形技術総合開発機構（以下、TRAFAM）理事長に就任しました」（https://newscast.jp/news/3489783・3回目）
+  - 「TRAFAMは、付加価値の高い製品・部品の少量多品種製造に適した、世界最高水準の次世代型産業用3Dプリンタおよび超精密三次元造形システムを構築し、日本の新たなものづくり産業の創出をめざしています」（https://newscast.jp/news/3489783・3回目）
+  - 「研究テーマ：金属積層造形技術開発に関する研究」（https://newscast.jp/news/3489783・3回目）
+  - 「そのため"ものづくり"を革新する新しい重要なツールの一つである3Dプリンタの製造ノウハウを我が国に蓄積しておくことが重要であると念頭に置いてプロジェクトを推進してきました」（https://newscast.jp/news/3489783・3回目）
+  - 「TRAFAMは、「次世代型産業用3Dプリンタ技術開発」と「超精密三次元造形システム技術開発」を行うことをめざし、近畿大学、東北大学、産業技術総合研究所、企業27社が参画して、平成26年（2014年）4月1日に設立されました」（https://newscast.jp/news/3489783・3回目）
+  - 「設立後、経済産業省から「平成26年度 三次元造形技術を核としたものづくり革命プログラム（次世代型産業用3Dプリンタ技術開発及び超精密三次元造形システム技術開発）」の委託先として選定され、5機種の装置開発に成功、販売しました」（https://newscast.jp/news/3489783・3回目）
+  - 「また、装置開発と併せて重要である、3Dプリンタ専用の金属粉末の開発ならびにソフトウェア開発を推進し、実際に製品に適用しました」（https://newscast.jp/news/3489783・3回目）
+  - 「さらに、平成31年度（2019年度）からは、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）のプロジェクトとして、「積層造形部品開発の効率化のための基盤技術開発事業」を5カ年計画で実施しています」（https://newscast.jp/news/3489783・3回目）
+  - 「このプロジェクトを通じて、金属積層造形部品等の品質向上及び開発の効率化を図り、今後中小企業においても金属3Dプリンタの導入を促進していきます」（https://newscast.jp/news/3489783・3回目）
+  - 「事業内容：次世代型産業用3Dプリンタの技術開発、」（https://newscast.jp/news/3489783・3回目）
+- 創業年度：
+  - 「グローバル市場において日本のものづくり産業が持続的かつ発展的な競争力を維持するため、平成26年（2014年）に設立されました」（https://newscast.jp/news/3489783・3回目）
+  - 「TRAFAMは、「次世代型産業用3Dプリンタ技術開発」と「超精密三次元造形システム技術開発」を行うことをめざし、近畿大学、東北大学、産業技術総合研究所、企業27社が参画して、平成26年（2014年）4月1日に設立されました」（https://newscast.jp/news/3489783・3回目）
+  - 「設立後、経済産業省から「平成26年度 三次元造形技術を核としたものづくり革命プログラム（次世代型産業用3Dプリンタ技術開発及び超精密三次元造形システム技術開発）」の委託先として選定され、5機種の装置開発に成功、販売しました」（https://newscast.jp/news/3489783・3回目）
+  - 「設立：H2.12.20」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「設立：H12.2.28」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「設立：H12.5.26」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「設立：H21.8.24」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「設立：H22.3.3」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「設立：H22.3.8」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「設立：H22.3.10」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「設立：H22.4.2」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+  - 「設立：H23.1.7」（https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf・3回目）
+- 売上：
+  - 「活況のAIロボ部品、売上高5年で7倍へ」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4・3回目）
+  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4・3回目）
+  - 「国は、約100億円の資金をこのプロジェクトに投入しています」（https://connect.panasonic.com/jp-ja/gemba/article/00192516・3回目）
+- 存続：
+  - 「撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4・3回目）
+  - 「マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる」（https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4・3回目）
+- 検索結果の抜粋：
+  - 「技術研究組合次世代3D積層造形技術総合開発機構 ｜法人番号 ... — 技術研究組合次世代3D積層造形技術総合開発機構 ｜法人番号 ... 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報」（https://lawplayer.com/jp/company/7010005022346・3回目）
+  - 「技術研究組合次世代3D積層造形技術総合 — 技術研究組合次世代3D積層造形技術総合 TRAFAM https://www.trafam.or.jp」（https://www.trafam.or.jp/・3回目）
+  - 「技術研究組合次世代3D積層造形技術総合開発機構 と国家 ... — 技術研究組合次世代3D積層造形技術総合開発機構 と国家 ... OpenWork https://www.openwork.jp > compa」（https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/・3回目）
+  - 「技術研究組合次世代3D積層造形技術総合開発機構 と一般財団 ... — 技術研究組合次世代3D積層造形技術総合開発機構 と一般財団 ... OpenWork https://www.openwork.jp > compa」（https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/・3回目）
+  - 「TRAFAM、 次世代 金属 3D プリンターで10月に前倒し ... — TRAFAM、 次世代 金属 3D プリンターで10月に前倒し ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/440468・3回目）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）
+- 株主構成：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）
+- 黒字・収益性：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）
+
+## 日刊工業新聞社
+- 公式URL：https://newswitch.jp/（search:yahoo_jp:日刊工業新聞社）
+- 稼ぎ方：
+  - 「イベント一覧｜ニュースイッチ by 日刊工業新聞社」（https://newswitch.jp/events・1回目）
+  - 「広告アーカイブ一覧｜ニュースイッチ by 日刊工業新聞社」（https://newswitch.jp/ads・1回目）
+  - 「ニュースイッチでは、企業や業界団体、自治体などのブランディングやサービス・イベントを分かりやすく紹介するメニューを展開しています」（https://newswitch.jp/ads・1回目）
+  - 「会員登録｜ニュースイッチ by 日刊工業新聞社」（https://newswitch.jp/register・1回目）
+  - 「ニュースイッチでは会員向けに日々の情報収集に役立つ機能やサービスをご提供します」（https://newswitch.jp/register・1回目）
+  - 「ニュースイッチの会員登録には日刊工IDでのログインが必要となります」（https://newswitch.jp/register・1回目）
+  - 「日刊工IDをまだお持ちでない方は先に日刊工IDに新規登録いただいたあと、ニュースイッチの会員登録にお進みください」（https://newswitch.jp/register・1回目）
+  - 「話題のテーマを専門家に学べる有料ウェビナーなどを定期で開催しています」（https://newswitch.jp/about・1回目）
+  - 「ビジネスについても、記事と広告特集の両方で紹介する」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「・展示会やイベントを日刊工業新聞社として主催・共催している」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「（昭和18年）には、日刊工業新聞社広告部出身のスタッフを中心に『」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「』（日本経済広告社、日経広告を経て現・」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+- 規模：
+  - 「新聞発行に加えて、新聞読者層である各業界向けの」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+- 読者・会員は誰か：
+  - 「三菱商事･三井物産･住友商事･丸紅…商社大手の通期見通し、4社が当期益上方修正の要因」（https://newswitch.jp/・1回目）
+  - 「トヨタ・三菱自動車・マツダ…完成車が今日から4－9月期決算発表、原材料高騰・中国市場失速が重荷」（https://newswitch.jp/・1回目）
+  - 「防衛・宇宙需要増など追い風…UACJのアルミ合金部材、国内サプライチェーン強靱化」（https://newswitch.jp/・1回目）
+  - 「『どうなる半導体不足 ～最前線の経営者とトップアナリストが解説～』」（https://newswitch.jp/events・1回目）
+  - 「『失敗パターンから学ぶ 製造業AI導入のカギ 〜AIプロジェクトのリベンジを目指して〜』」（https://newswitch.jp/events・1回目）
+  - 「『全固体電池入門の入門』第２回 ビジネス視点で解説 自動車業界へのインパクト」（https://newswitch.jp/events・1回目）
+  - 「「発明から生まれる 未来のかたち」―中小・中堅企業の発明応募、受付中」（https://newswitch.jp/ads・1回目）
+  - 「製造業の暗黙知を、生成ＡＩで「使える知」に変える」（https://newswitch.jp/ads・1回目）
+  - 「調達・購買のプロフェッショナル集団が企業価値の向上に貢献する」（https://newswitch.jp/ads・1回目）
+  - 「個人・中小企業4,400円」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「「自動車」「機械・ロボット・航空機」「電機・電子部品」「情報通信」など産業ごとに分けて、企業と業界のトピックスを扱う」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「など）一方で、製造業や中小企業が集積している地区には県庁所在地や」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+- 運営母体：
+  - 「発行部数は公称約33万部」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「発行は基本的に平日（祝日含む元日を除き、」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「通常は28 - 40ページ体制で第2部という形で別刷を発行することもある」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「新聞発行に加えて、新聞読者層である各業界向けの」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「・展示会やイベントを日刊工業新聞社として主催・共催している」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「組織「産業人クラブ」を全国および各地域で運営している」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「」や防災産業の育成強化を図る産学官の連携組織「日本防災産業会議」の事務局を担っている」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「土曜付新聞発行の休止、『流通サービス新聞』の休刊や、人員削減、海外支局の全面閉鎖などの」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「現在は正社員の採用も行い、土曜日付の新聞発行も月1回のペースで復活している」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「- 大東亜戦争中の一時期、当社を合併し『軍事工業新聞』を発行した」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「<発行部数>338.086部(2022年2月)」（https://www.dainichiad.co.jp/html/baitai/1002.php・3回目）
+  - 「最高賞金は100万円！日本最大級の学生ビジネスプランコンテスト「CVG」、事務局がかける思いとは」（https://note.com/nikkankogyo・3回目）
+- 株主構成：
+  - 「「フジテレビが右翼団体会長に手渡した「詫び状」株主問題めぐり書いた「中身」とは」『週刊朝日』2005年4月8日号」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+- 創業年度：
+  - 「「日本工業人クラブ連合会」（現：日本産業人クラブ）を設立」（https://job.mynavi.jp/28/pc/search/corp53725/outline.html・3回目）
+- 売上：
+  - 「京セラ、通期見通し上方修正…売上高最高の要因」（https://newswitch.jp/・1回目）
+  - 「当期益4800億円…JERA、最高益大幅更新見通しの背景事情」（https://newswitch.jp/・1回目）
+  - 「ジェイテクト・日本精工・NTN…軸受3社は通期売上高上方修正も、構造改革が必要な理由」（https://newswitch.jp/・1回目）
+  - 「しかし、2010年3月期の売上高は100億円を割り込み、」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「約100億円（2024年度見込み）」（https://job.mynavi.jp/28/pc/search/corp53725/outline.html・3回目）
+- 存続：
+  - 「経営不振により日刊スポーツ・朝日新聞に事業譲渡」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+- 検索結果の抜粋：
+  - 「会社 案内 - 日刊工業新聞社 — 会社 案内 - 日刊工業新聞社 株式会社日刊工業新聞社 https://corp.nikkan.co.jp > company」（https://corp.nikkan.co.jp/p/company/index・3回目）
+  - 「日刊工業新聞 - Wikipedia — 日刊工業新聞 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 日刊工業新聞」（https://ja.wikipedia.org/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E・3回目）
+  - 「(株) 日刊工業新聞社 の 会社概要 | マイナビ2028 — (株) 日刊工業新聞社 の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp53725 > outline」（https://job.mynavi.jp/28/pc/search/corp53725/outline.html・3回目）
+  - 「日刊工業新聞 創刊110周年 産業界の羅針盤「知と技」つなぐ ... — 日刊工業新聞 創刊110周年 産業界の羅針盤「知と技」つなぐ ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/767054・3回目）
+  - 「株式会社 日刊工業新聞社 の 会社概要 ・製品情報 - Metoree — 株式会社 日刊工業新聞社 の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/367/・3回目）
+  - 「媒体資料・ 広告 掲載ガイド - 日刊工業新聞社 — 媒体資料・ 広告 掲載ガイド - 日刊工業新聞社 株式会社日刊工業新聞社 PDF https://corp.nikkan.co.jp > media-sheet_202607」（https://corp.nikkan.co.jp/images/media-sheet/media-sheet_202607.pdf・3回目）
+  - 「日刊工業新聞社 広告 制作ガイド｜ 料金 表 — 日刊工業新聞社 広告 制作ガイド｜ 料金 表 日刊工業新聞 https://biz.nikkan.co.jp > adv > ad_guide > charge」（https://biz.nikkan.co.jp/adv/ad_guide/charge.html・3回目）
+  - 「広告 掲載ガイド - 日刊工業新聞社 — 広告 掲載ガイド - 日刊工業新聞社 株式会社日刊工業新聞社 https://corp.nikkan.co.jp > adguide」（https://corp.nikkan.co.jp/p/adguide・3回目）
+  - 「日刊工業新聞 - 広告 掲載・ 料金 表・ターゲティングデータ、特徴 — 日刊工業新聞 - 広告 掲載・ 料金 表・ターゲティングデータ、特徴 大日広告社 https://www.dainichiad.co.jp > html > baitai」（https://www.dainichiad.co.jp/html/baitai/1002.php・3回目）
+  - 「記事・写真（動画）・図表 利用サービス スポット利用価格表 ... — 記事・写真（動画）・図表 利用サービス スポット利用価格表 ... 株式会社日刊工業新聞社 PDF https://corp.nikkan.co.jp > nikkan_kijiriyo_kakaku」（https://corp.nikkan.co.jp/service/nikkan_kijiriyo_kakaku.pdf・3回目）
+  - 「新聞媒体資料のご案内 - 日刊工業新聞社 — 新聞媒体資料のご案内 - 日刊工業新聞社 株式会社日刊工業新聞社 https://corp.nikkan.co.jp > media-sheet」（https://corp.nikkan.co.jp/p/media-sheet・3回目）
+  - 「媒体資料・広告掲載ガイド - 日刊工業新聞社 — 媒体資料・広告掲載ガイド - 日刊工業新聞社 株式会社日刊工業新聞社 PDF https://corp.nikkan.co.jp > media-sheet_202607」（https://corp.nikkan.co.jp/images/media-sheet/media-sheet_202607.pdf・3回目）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）
+- 設立：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）
+- 代表者：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）
+- AMの扱い：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）
+- 黒字・収益性：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）

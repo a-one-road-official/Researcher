@@ -1,0 +1,3199 @@
+{
+ "name": "株式会社ジェイエムシー",
+ "aliases": [
+  "JMC",
+  "ジェイエムシー"
+ ],
+ "context": "上場のAM受託（3D出力）",
+ "researched_at": "2026-11-06T16:40:05.273620+00:00",
+ "official_url": "https://www.jmc-rp.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1992年12月18日",
+    "url": "https://www.jmc-rp.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1992年12月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1992年12月18日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1992年12月18日",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1999年9月30日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5704",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "152名（臨時雇用者含む）",
+    "url": "https://www.jmc-rp.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "128名（2021 年12月末）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "172名（臨時雇用者含む）",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "138 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5704",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "222-0033 横浜市港北区新横浜 2-5-5 住友不動産新横浜ビル 1F",
+    "url": "https://www.jmc-rp.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "399-2431 長野県飯田市川路 7502-1",
+    "url": "https://www.jmc-rp.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "434-0016 静岡県浜松市浜名区根堅1450番2",
+    "url": "https://www.jmc-rp.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "神奈川県横浜市港北区新横浜2-5-5\n住友不動産新横浜ビル1階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "神奈川県横浜市港北区新横浜2-5-5住友不動産新横浜ビル1F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主確定基準日",
+    "value": "毎事業年度末日",
+    "url": "https://www.jmc-rp.co.jp/ir_stock/",
+    "pass": 1
+   },
+   {
+    "label": "株主名簿管理人及び 特別口座の口座管理機関",
+    "value": "三井住友信託銀行株式会社 東京都千代田区丸の内一丁目4番1号",
+    "url": "https://www.jmc-rp.co.jp/ir_stock/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "渡邊大知",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長兼CEO 渡邊大知",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者氏名",
+    "value": "渡邊　大知",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5704",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "2,416百万円（2021年12月期）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "かつて、「きつい、汚い、危険」の「3K」と言われる時代もあった製造業のイメージを変えることで、これまでリーチできなかった業界やマーケット、優秀な人材とつながりを築き、ものづくりの進化を加速させていきます",
+    "url": "https://www.jmc-rp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "同ビル内には、国内最大規模の3Dプリンター設備を要し、試作・小ロット量産の領域に特化して、3Dプリンター業界の創成期より業界の一翼を担ってきました",
+    "url": "https://www.jmc-rp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001 認証取得",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上を目的として品質保証部門を設置",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンセプトセンターに第4期棟を建設し、機械加工と検査業務を拡充",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属製品の非破壊検査による品質保証強化を目的として第3世代産業用CTスキャナを導入",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用CTスキャナによる検査・測定を行うCT事業を開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンセプトセンター第8期棟を建設し、自硬性砂型鋳造による量産を強化",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "これからも、長い間に培われたノウハウと豊富なキャパシティによって、あらゆるオーダーに対して、短納期・高品質で製品を提供していきます",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "JMCはその蓄積されたノウハウを生かし、お客さまのご希望に最適な工法を提案します",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "高品質・小ロット生産を実現し自由なものづくりを支援しています",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな治療・検査の場に欠かせない命を守るテクノロジー",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "同ビル内には、国内最大規模の3Dプリンター設備を要し、試作・小ロット量産の領域に特化して、3Dプリンター業界の創成期より業界の一翼を担ってきました",
+    "url": "https://www.jmc-rp.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、品質保証体制を万全にするため、非接触測定や産業用CTなどの設備強化に積極的に取り組み、2015年には航空・宇宙分野の品質マネジメントシステム、JIS",
+    "url": "https://www.jmc-rp.co.jp/business/casting.html",
+    "pass": 1
+   },
+   {
+    "quote": "数値化が難しいと言われる職人技を、産業用CTによって評価しデジタルデータとして蓄積することによって、砂型鋳造を定量観測な可能な環境を構築しています",
+    "url": "https://www.jmc-rp.co.jp/business/casting.html",
+    "pass": 1
+   },
+   {
+    "quote": "三次元測定機による寸法測定や浸透探傷試験、耐圧検査といった従来の検査手法に加えて、産業用CTによる内部品質の評価や、分光分析や組織観察といった素材の検査まで、あらゆる検査手法を組み合わせて多角的な視点からの品質保証に努めています",
+    "url": "https://www.jmc-rp.co.jp/business/casting.html",
+    "pass": 1
+   },
+   {
+    "quote": "近年、製品の開発・製造プロセスにおいて、検査技術として注目を集めている産業用CTを使った3Dスキャン",
+    "url": "https://www.jmc-rp.co.jp/business/ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "台体制のハイエンド産業用CTスキャナを揃えるとともに、自らものづくりに使用してきたノウハウを活かし、圧倒的な品質と納期を実現することで、製造業のみならず、大学や研究機関など幅広いお客様から信頼を得ています",
+    "url": "https://www.jmc-rp.co.jp/business/ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "心臓カテーテル検査・治療に携わる医師が、再現性の高い心臓モデルで術前シミュレーションすることにより、治療をより安全かつ効率的に行うことが可能です",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "Q9100」認証取得を皮切りに、産業用CTや強度試験機、分光分析による成分検査など、鋳造という品質保証の難しい分野においても、定量的な検査手法の確立と、生産体制の整備に取り組んできました",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "思い起こせば、常にさまざまな難問や課題との格闘の連続",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、ひとつずつ問題を解決し、結果を出しつづける中で培ってきた3Dデータに関する技術やノウハウは、今やすべての事業を支える基盤であり、当社の大きな財産となっています",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年には、鋳造事業の中で行われた産業用CTによる検査工程を切り出し、CT事業としてサービス化",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、試作・製造・検査という一貫したバリューチェーンを有し、お客様の試作・開発における課題を解決するパートナー企業としての立ち位置を確立することで、さまざまな業界で厚い信頼を獲得できるまでに至りました",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様ひとり一人から目をそらさず、耳を傾け、その中から需要を読み取り、先手を打つ」、「価格競争ではなく価値競争をする」、「ものづくりのあらゆる段階で挑戦的な姿勢で躍動する」",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "安定性と低ランニングコストを両立した実用機です",
+    "url": "https://www.jmc-rp.co.jp/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "蓄積されたノウハウを活用し、造形サービス・装置販売の両方でお客様に安心して3Dプリンターをご利用頂ける価値を提供いたします",
+    "url": "https://www.jmc-rp.co.jp/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、3Dプリンター事業の出力分野では、提案力とスピードの強化に加え、人材育成についてもさらに強化することで、安定的な収益の確保を目指してまいります",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社を取り巻く市場環境は、各種コストの高止まりや、自動車業界の方針・予算見直しに伴う研究開発スケジュールの停滞など、依然として先の見通しは困難であります",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "溶かした金属を流し込み部品などを作成するための砂型鋳造の試作や、金属の切削、産業用のCTスキャンによる測定・検査などを行う企業",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "非破壊検査や内部構造の把握、3Dへのデータ変換などに使われている",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "その理由は、石膏方式では大まかな色の指定はできるが、顧客の満足いく色に仕上げることが非常に困難で「だいたいピンク、まあまあ赤」程度のカラー表現しかできない",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ミマキの説明はロジカルで丁寧、良い点と課題点をしっかり伝えられ、「3DUJ-553」のポテンシャルを確実に把握できたという",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "この「取りに行きたい」というのも重要なポイントで、同社が新横浜に本社を構えるのは、これが理由",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "月10,000個の量産も3Dプリンターで",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "20年以上にわたって3Dプリンターを取り扱ってきたノウハウと、充実した生産体制によってお客様のご要望に応じて最適な造形方式をご提案いたします",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "JMCはその蓄積されたノウハウを生かし、お客さまのご希望に最適な工法をご提案いたします",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターは1個～数十個程度の少量生産を得意としていますが、サイズやデザインによっては、数百～数千個という生産量でも、十分にコストメリットを出せる場合がございます",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "また、樹脂型を使った少量での量産にも提案しておりますので、お気軽にご相談ください",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "あらゆる業界の豊富な実績とノウハウでお客様の多様なニーズにお応えします",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "長年の事業展開のノウハウを装置販売においても生かし、ハイエンド機種に関しては導入時の技術サポートや、購入した3Dプリンターがダウン/オーバーフローした際の代理出力などもオプションサービスとして提案しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年には産業用CTによる非破壊検査・測定を目的としたCT事業を開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "ISO9001 認証取得",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の品質向上を目的として品質保証部門を設置",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "コンセプトセンターに第4期棟を建設し、機械加工と検査業務を拡充",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品の非破壊検査による品質保証強化を目的として第3世代産業用CTスキャナを導入",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用CTスキャナによる検査・測定を行うCT事業を開始",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "コンセプトセンター第8期棟を建設し、自硬性砂型鋳造による量産を強化",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に2台目の砂型3Dプリンターの導入も予定しており、今後は自社工程での活用を通じて砂型造形のノウハウを蓄積するとともに、砂型造形サービスのさらなる顧客獲得に努め、主力事業である鋳造事業の売上拡大を目指す",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "群馬県の就労支援施設「ONECODE」、3Dプリンターやプログラミングを活用したIT人材育成を推進",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "2つ目が、心臓をはじめとしたカテーテル検査や、治療に携わるトレーニングシステムとして自社開発された「",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "「HEARTROID」は心臓カテーテル治療・検査のさまざまな症例に合わせて心臓モデルやポンプ、タンクなどをカスタムしたパッケージで提供されており、要望に合わせたカスタマイズも可能だ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は量産体制の拡張に注力すると発表された",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "すでに、3D Systems社の3Dプリンター「Figure4」の導入や、株式会社ケイズデザインラボ（東京都千代田区）と企業連携を組み、3Dプリンターによる小ロット生産を普及推進するプラットフォーム事業「デジタル製造プログラム」のスタートも発表されている",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターでの小ロット生産を普及させる「デジタル製造プログラム」をスタート ― ケイズデザインラボ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "群馬県の就労支援施設「ONECODE」、3Dプリンターやプログラミングを活用したIT人材育成を推進",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "３つの事業を持つことで、３次元ＣＡＤデータのノウハウを共有するだけでなく、人員のローテーションや設備の共同利用など社内のハード・ソフト資源を有効に活用することが可能になります",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業",
+    "url": "https://www.jmc-rp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "同ビル内には、国内最大規模の3Dプリンター設備を要し、試作・小ロット量産の領域に特化して、3Dプリンター業界の創成期より業界の一翼を担ってきました",
+    "url": "https://www.jmc-rp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター、鋳造、そしてCTスキャン",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "光造形機を導入し、3Dプリンター事業を開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリングと代理店契約を結び、フルカラー3Dプリンターの販売を開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンセプトセンターに第6期棟を建設し、鋳造用砂型3Dプリンターを導入",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターに関する協業プロジェクト「3D innovation Hub」を発足",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "EOS GmbH Electro Optical Systemと代理店契約を結び、EOS社製 樹脂3Dプリンターの販売を開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業 | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターという名前が定着さえしていなかった1999年",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターが一般に広く普及し、製品開発において必要不可欠な技術となった現在でも、圧倒的なサービススピードや幅広いマテリアル対応力、優れた加工技術、そして積極的な設備投資によって、自動車、家電、病院、出版、アパレルなど、多様な業種のお客様から、JMCは高い信頼を得ています",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "JMCは1999年の3Dプリンターの黎明期から試作品を中心としたモデルの製作を続けて参りました",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "近年、3Dプリンターの材料・工法の組み合わせは多岐に渡りますが、",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター「無料造形サービス」",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力専門サイト",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "アクアマリンふくしま「サンマ」企画展への展示協力について | トピックス | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/topic/service/topic_260713_aquamarine/",
+    "pass": 1
+   },
+   {
+    "quote": "IRニュース | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業",
+    "url": "https://www.jmc-rp.co.jp/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力",
+    "url": "https://www.jmc-rp.co.jp/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター装置販売",
+    "url": "https://www.jmc-rp.co.jp/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力専門サイト",
+    "url": "https://www.jmc-rp.co.jp/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "事業について | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター装置販売",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターにより試作品の製作でさまざまな企業の製品開発のスピードアップに貢献しています",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力専門サイト",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報 | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業",
+    "url": "https://www.jmc-rp.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力",
+    "url": "https://www.jmc-rp.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター装置販売",
+    "url": "https://www.jmc-rp.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "同ビル内には、国内最大規模の3Dプリンター設備を要し、試作・小ロット量産の領域に特化して、3Dプリンター業界の創成期より業界の一翼を担ってきました",
+    "url": "https://www.jmc-rp.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力専門サイト",
+    "url": "https://www.jmc-rp.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業",
+    "url": "https://www.jmc-rp.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力",
+    "url": "https://www.jmc-rp.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター装置販売",
+    "url": "https://www.jmc-rp.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力専門サイト",
+    "url": "https://www.jmc-rp.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報 | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業",
+    "url": "https://www.jmc-rp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力",
+    "url": "https://www.jmc-rp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター装置販売",
+    "url": "https://www.jmc-rp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力専門サイト",
+    "url": "https://www.jmc-rp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造事業 | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/business/casting.html",
+    "pass": 1
+   },
+   {
+    "quote": "また低圧鋳造炉や砂型3Dプリンターなど、難度の高い製品にも対応するべく、最新鋭の設備の導入と、技術力の向上に努めています",
+    "url": "https://www.jmc-rp.co.jp/business/casting.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業",
+    "url": "https://www.jmc-rp.co.jp/business/casting.html",
+    "pass": 1
+   },
+   {
+    "quote": "CT事業 | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/business/ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "また3Dプリンター事業や鋳造事業と連携することによって、新たな付加価値の提供に努めています",
+    "url": "https://www.jmc-rp.co.jp/business/ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業",
+    "url": "https://www.jmc-rp.co.jp/business/ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "新注力分野 | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター事業",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターおよび砂型鋳造による試作品、各種部品・商品の製造、販売",
+    "url": "https://www.jmc-rp.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター出力 専門サイト ：",
+    "url": "https://www.jmc-rp.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "役員紹介 | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "その小さな工場にあったものは、当時珍しかった3Dプリンター装置1台、そして、ものづくりに対する情熱だけでした",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "アクセス | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/aboutus/access.html",
+    "pass": 1
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "3つの技術の使い分けによって、「試作」「製造」「品質向上」といったすべての工程をハイレベルに実現",
+    "url": "https://www.jmc-rp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "同ビル内には、国内最大規模の3Dプリンター設備を要し、試作・小ロット量産の領域に特化して、3Dプリンター業界の創成期より業界の一翼を担ってきました",
+    "url": "https://www.jmc-rp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品の受託範囲の拡大を目的として鋳造事業を行う有限会社エス・ケー・イーと合併",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "大学及び医療機関向けに心臓カテーテルシミュレーター『HEARTROID（ハートロイド）』を販売開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンセプトセンター第8期棟を建設し、自硬性砂型鋳造による量産を強化",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターが一般に広く普及し、製品開発において必要不可欠な技術となった現在でも、圧倒的なサービススピードや幅広いマテリアル対応力、優れた加工技術、そして積極的な設備投資によって、自動車、家電、病院、出版、アパレルなど、多様な業種のお客様から、JMCは高い信頼を得ています",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "JMCは1999年の3Dプリンターの黎明期から試作品を中心としたモデルの製作を続けて参りました",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "スケッチや図面からのモデリングはもちろん、医療用のCTやMRIのデータから3Dデータ化することも可能です",
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作、製造から、品質向上まで",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3つの技術を使い分けによって、「試作」、「製造」、「品質向上」といったすべての工程をハイレベルに実現",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターにより試作品の製作でさまざまな企業の製品開発のスピードアップに貢献しています",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "健康を支えるために確かな医療に貢献していきます",
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "同ビル内には、国内最大規模の3Dプリンター設備を要し、試作・小ロット量産の領域に特化して、3Dプリンター業界の創成期より業界の一翼を担ってきました",
+    "url": "https://www.jmc-rp.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、品質保証体制を万全にするため、非接触測定や産業用CTなどの設備強化に積極的に取り組み、2015年には航空・宇宙分野の品質マネジメントシステム、JIS",
+    "url": "https://www.jmc-rp.co.jp/business/casting.html",
+    "pass": 1
+   },
+   {
+    "quote": "11基の鋳造炉と4基の熱処理炉、10台以上のマシニングセンタなど、強力な生産体制でお客様の試作プロセスをサポートしています",
+    "url": "https://www.jmc-rp.co.jp/business/casting.html",
+    "pass": 1
+   },
+   {
+    "quote": "JMCでは、WEBやカタログといった従来の販促品の制作から、ライブ配信や医療施設での動画撮影・編集まで、お客様のコンテンツ制作・イベント開催をトータルでサポートいたします",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "この無限の可能性を秘めた素材を知り尽くし、他社の追従を許さない高品質、高難度の鋳造品を製造できる企業として、JMCは目指すべき分野を「航空・宇宙市場」と定めました",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "安定した生産と厳格な品質管理を求められる航空分野への参入を目指し、JMCは2015年の「JIS",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年からは防衛関連の機体およびエンジンメーカーへの部品供給を開始し、本格的に航空分野への挑戦をスタートします",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q 9100は、航空宇宙・防衛産業に特化し、顧客および規制要求事項を一貫して満たす製品・サービスの提供を目的として定められた、品質マネジメントシステムに関する国際規格です",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターおよび砂型鋳造による試作品、各種部品・商品の製造、販売",
+    "url": "https://www.jmc-rp.co.jp/aboutus/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、試作・製造・検査という一貫したバリューチェーンを有し、お客様の試作・開発における課題を解決するパートナー企業としての立ち位置を確立することで、さまざまな業界で厚い信頼を獲得できるまでに至りました",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、更なる飛躍に向けたマイルストーンとして中期経営計画を発表し、医療機器分野や宇宙・航空分野という高付加価値市場に向かっていくための準備も整えました",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "飯田山本ICより 車で約 10分(三遠南信自動車道経由・約",
+    "url": "https://www.jmc-rp.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂試作から外観モデルまで幅広く対応し、プロレベルの造形を最短1日からの短納期で提供可能",
+    "url": "https://www.jmc-rp.co.jp/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社を取り巻く市場環境は、各種コストの高止まりや、自動車業界の方針・予算見直しに伴う研究開発スケジュールの停滞など、依然として先の見通しは困難であります",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "溶かした金属を流し込み部品などを作成するための砂型鋳造の試作や、金属の切削、産業用のCTスキャンによる測定・検査などを行う企業",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタでは、真空注型やアルミウム真空蒸着、ネジ加工など、工業品の部材試作はもちろん、人体・臓器模型など医療分野の造形も行っており、医師のシミュレーションや手術の模擬練習などに活用されている",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、医療用の臓器・人体模型でも、フルカラーとクリアインクを搭載している「3DUJ-553」では、体の内部を透けさせて、臓器に色を付けて造形するなどで活躍しそうだ",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社では看護師免許を持った社員がおり、医師と対等に話ながら、医療現場が求める特性をそのまま造形物で再現できる",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "月10,000個の量産も3Dプリンターで",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "JMCは1999年の3Dプリンターの黎明期から試作品を中心としたモデルの製作を続けて参りました",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "本製品はギガキャストクラスの自動車用フレーム部品で、できるかぎり製品に近いサイズで出力したいというニーズがありました",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "また、樹脂型を使った少量での量産にも提案しておりますので、お気軽にご相談ください",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：3Dプリンターおよび砂型鋳造による試作品、各種部品・商品の製造、販売",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターおよび砂型鋳造による試作品、各種部品・商品の製造、販売",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "試作品の受託範囲の拡大を目的として鋳造事業を行う有限会社エス・ケー・イーと合併",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "大学及び医療機関向けに心臓カテーテルシミュレーター『HEARTROID（ハートロイド）』を販売開始",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "コンセプトセンター第8期棟を建設し、自硬性砂型鋳造による量産を強化",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野や航空分野における高付加価値製品の製造に特化した工場棟を長野県飯田市に建設",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "として、自動車関連メーカーへの納入を開始した",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野や航空分野における高付加価値製品の製造に特化した工場棟",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "従来職人の手作業によって行われていた作業工程を短縮し、数多くの砂型を組み合わせて構成する自動車のシリンダーヘッドやインテークマニホールドの中子製作において、飛躍的な工期短縮を実現する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "※1 Electric Vehicle = 電気自動車",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "※2 Plug-in Hybrid Vehicle = プラグインハイブリッド自動車",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金の製造においても、自動車のシリンダーブロックやシリンダーヘッド、足回り部品等の重要保安部品、航空分野で求められる高品質の鋳造品が、従来よりも容易に製造できる",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター技術を活用した医療用シミュレーターブランド「JMC Lab」が誕生",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力事業、 鋳造事業、 CT事業を展開する株式会社 JMC（神奈川県横浜市 / 代表取締役社長兼CEO：渡邊大知）は、 新たに医療用シミュレーター …",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法 / DED（Direct Energy Deposition）を解説！WAAM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   }
+  ],
+  "参入の時期と形": [
+   {
+    "quote": "横浜市港北区に有限会社ジェイ・エム・シーを設立",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "光造形機を導入し、3Dプリンター事業を開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "大学及び医療機関向けに心臓カテーテルシミュレーター『HEARTROID（ハートロイド）』を販売開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用CTスキャナによる検査・測定を行うCT事業を開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "GEセンシング&インスペクション・テクノロジーズ株式会社と代理店契約を結び、",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリングと代理店契約を結び、フルカラー3Dプリンターの販売を開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "レストア用パーツの製造販売を行う『JMC BASE』プロジェクトを開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "EOS GmbH Electro Optical Systemと代理店契約を結び、EOS社製 樹脂3Dプリンターの販売を開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、翌年からは他社に向けたサービスも開始",
+    "url": "https://www.jmc-rp.co.jp/business/ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "安定した生産と厳格な品質管理を求められる航空分野への参入を目指し、JMCは2015年の「JIS",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年からは防衛関連の機体およびエンジンメーカーへの部品供給を開始し、本格的に航空分野への挑戦をスタートします",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、1999年9月に横浜の住宅街にある小さな町工場として製造業に参入しました",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年より国外を中心に現代アーティストとしての活動を開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年にグローバル・トランザクション・パートナーズ株式会社を設立、代表取締役（現任）に就任",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年にITコンサルティングサービス会社を設立し代表取締役を務める",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーメット社およびユニオンテック社の3Dプリンターを販売開始",
+    "url": "https://www.jmc-rp.co.jp/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "装置選定から立ち上げ、運用まで安心してお任せいただけます",
+    "url": "https://www.jmc-rp.co.jp/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社JMCは1992年設立",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "1999年、 光造形方式の3Dプリンターを導入して製造業に参入",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年には産業用CTによる非破壊検査・測定を目的としたCT事業を開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立：1992年12月18日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "光造形機を導入し、3Dプリンター事業を開始",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "大学及び医療機関向けに心臓カテーテルシミュレーター『HEARTROID（ハートロイド）』を販売開始",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用CTスキャナによる検査・測定を行うCT事業を開始",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "GEセンシング&インスペクション・テクノロジーズ株式会社と代理店契約を結び、",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミマキエンジニアリングと代理店契約を結び、フルカラー3Dプリンターの販売を開始",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "レストア用パーツの製造販売を行う『JMC BASE』プロジェクトを開始",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS GmbH Electro Optical Systemと代理店契約を結び、EOS社製 樹脂3Dプリンターの販売を開始",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "旧車のレストアおよびアフターパーツ開発を行うブランドとして『PZ』を立ち上げ",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "JMC 新工場棟の稼働および砂型造形サービス開始! | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "JMC 新工場棟の稼働および砂型造形サービス開始!",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター活用で知られるJMCが、 本格的に砂型3Dプリンターを用いた砂型造形サービスを開始",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "1999年に光造形方式の3Dプリンターを導入して製造業に参入し、3Dプリンター出力による部品製造の事業規模を拡大してきた",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "として、自動車関連メーカーへの納入を開始した",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年2月に着工し、稼働を開始（ 8月6日発表）したコンセプトセンター第6期棟は、",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "コンセプトセンター第5期棟（2018年1月稼働開始）および第6期棟",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "当社も事業開始時は砂型の作製、鋳込、仕上工程のみ自社で行っており、それ以外の工程を外部委託しておりましたが、顧客からの短納期や品質向上の要求に応えるためには、完全素加一貫（注11）の生産体制を構築する必要があり、１工程ずつ着実に内製化してきました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "また当社で保有する産業用ＣＴで検査・測定が困難なサイズのスキャン対象物は、業務提携先の大型産業用ＣＴ装置を用いて測定したデータを当社で解析し提供しております",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野に関しては新規事業を立ち上げており、ヒト・モノ・カネに積極的な投資を行い、今期のうちに事業インフラをつくっていこうという思いで、2番目を掲げました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "われわれは中計でも申し上げていますが、対応策としては、新工場設立や航空・医療分野への参入によるポートフィリオの構築を行います",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "当初は日本で販売するための商品でしたが、いい意味で思惑とは外れて世界的に売れつつあり、こちらのスライドに掲載したように、販売代理店と提携し、製品ラインナップを充実させるといった流れになります",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力事業 重点実行施策 医療機器分野への参入",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "次に、こちらが医療機器分野への参入についてのスライドとなります",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "期初に設定した目標が多くございますが、現在、一番力を入れているのは、航空産業への参入に向けた生産体制を整備することであり、そのために工場の整備を行っています",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "コンセプトセンター第6期棟に関しては、2019年7月下旬から8月上旬にかけて引渡しが終わり、稼働を開始しており、引き続き安定稼働できるように（努めてまいります）",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "BASE、3Q累計売上高YoY34％増・売上総利益48.5％増 グループの非連続な成長の実現に向け、SBIHDとの資本業務提携契約を締結",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "新機種発売の際は、私たちもメーカーさんにお話を伺うんですが、実際に3Dプリンターを使っている製造現場で何が起こっているかは、伺う機会も少なくて、なかなか情報が出てこないですよね",
+    "url": "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、無料でおいてくれというのは、立ち上げノウハウを作ってくれということと同義なんです",
+    "url": "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "pass": 3
+   },
+   {
+    "quote": "そういったところの大きなユーザーであるトヨタさんとマツダさんの資本提携とか、そういった大きな波がまずは訪れております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、こちらブームで、いろんな業者が参入してきました",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "とにかく3Dプリンター、みなさまもこの名前を聞いて、パッとわかるようなかたちになったのはいいんですけれども、それによって競合が参入してきたり、価格競争が起きたり、内製化したりといったところの全般に対する対応の遅れが、この数字になっておると思います",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "大きな参入もなく、ある程度限られた社で、安定して施策をまわしていくというのが成し得たマーケットだと思います",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "できあがりが12月、もしくは1月というかたちで、ここから稼働開始というかたちになります",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "下に書いておりますけれども、CT事業に関しては2017年4月に開始をしております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "BASE、3Q累計売上高YoY34％増・売上総利益48.5％増 グループの非連続な成長の実現に向け、SBIHDとの資本業務提携契約を締結",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "特定健診未受診者対策・特定保健指導事業を開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221850/outline.html",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "金属製品の非破壊検査による品質保証強化を目的として第3世代産業用CTスキャナを導入",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "EOS GmbH Electro Optical Systemと代理店契約を結び、EOS社製 樹脂3Dプリンターの販売を開始",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属や複合部品を一体で測定するためには出力の高いX線を照射する必要があります",
+    "url": "https://www.jmc-rp.co.jp/business/ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "「軽量」かつ「高強度」という素材特性から、幅広い輸送機器分野で多用されてきたアルミニウム",
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロフェッショナル向けの高精度光造形機(SLA)、ソフトウェアおよびその樹脂材料を三位一体開発、独自技術、日本国産にこだわり、産業用光造形機トップシェアとなる多くの納入実績を持つ日本の3Dプリンターメーカーです",
+    "url": "https://www.jmc-rp.co.jp/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "ABSライク、樹脂低収縮、耐候性、高精度",
+    "url": "https://www.jmc-rp.co.jp/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂試作から外観モデルまで幅広く対応し、プロレベルの造形を最短1日からの短納期で提供可能",
+    "url": "https://www.jmc-rp.co.jp/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "溶かした金属を流し込み部品などを作成するための砂型鋳造の試作や、金属の切削、産業用のCTスキャンによる測定・検査などを行う企業",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタでは、真空注型やアルミウム真空蒸着、ネジ加工など、工業品の部材試作はもちろん、人体・臓器模型など医療分野の造形も行っており、医師のシミュレーションや手術の模擬練習などに活用されている",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタでカラー1,000万色を表現できるのは、今のところ「3DUJ-553」だけ、この特性と、同社が持つCTスキャンや3DCADのデータ作成力、金属の鋳造・切削技術などをフル活用すれば、従来にない製品の開発にも結び付く",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "塗装や真空注型、アルミ真空蒸着、ネジ加工などモデル作製後の加工もお任せください",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "塗装や真空注型、アルミ真空蒸着、ネジ加工などモデル作製後の加工も承っております",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元の立体モデルをデータ上で輪切りにしてできるスライスデータにしたがって、樹脂や機体樹脂を下から一層一層積み重ねて立体にしていくもので、さまざまな形状の造形が可能です",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "本作品では、樹脂と金属という異素材を内部で組み合わせています",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "製作にあたっては、FRPによって製作された本体に3Dプリンターによる透明部材と砂型鋳造による金属部材を接合するなど、様々な製造技術が掛け合わされており、技術的にも非常にユニークな作品となっています",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "また、樹脂型を使った少量での量産にも提案しておりますので、お気軽にご相談ください",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品の非破壊検査による品質保証強化を目的として第3世代産業用CTスキャナを導入",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS GmbH Electro Optical Systemと代理店契約を結び、EOS社製 樹脂3Dプリンターの販売を開始",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂材料（73）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料（29）",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金の製造においても、自動車のシリンダーブロックやシリンダーヘッド、足回り部品等の重要保安部品、航空分野で求められる高品質の鋳造品が、従来よりも容易に製造できる",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える樹脂材料は？ABS樹脂やPLA樹脂など種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂・金属以外の材料の3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂材料（73）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料（29）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "光造形方式の3Dプリンターで作製した樹脂モデルを母型に、他の機能材料に形状を転写する3次元モールドと呼ばれる技術を用い製作されている",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの3Dプリンター用金属粉末素材メーカーのTekna社が2023年度第3四半期の決算を発表した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える樹脂材料は？ABS樹脂やPLA樹脂など種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂・金属以外の材料の3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "」というビジョンのもと、３次元ＣＡＤデータ技術を用いて「樹脂を素材とする３Ｄプリンター」と「金属を素材とする砂型鋳造」の両成型法を利用、発展させながら、製造業を中心に幅広い業種の「試作品」から「最終製品」までの「ものづくり」をトータルサポートすることを主たる事業としております",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "金型鋳造法のひとつで、金型に溶融した金属を圧入することにより、高い寸法精度の鋳造品を短時間で大量に生産する鋳造方式のことです",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、３Ｄプリンターでの作製後の各種後加工（塗装・染色・ネジ加工・アルミ真空蒸着（注６）・真空注型（注７））も行っております",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "液体樹脂にレーザーをあて、硬化させながら層を積み重ねていくことで作製します",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "熱可塑性樹脂（ＰＬＡ、ＡＢＳなど）を溶かしてノズルから押し出し、一層ずつ積み重ねて立体物を造形する",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）６．アルミ真空蒸着",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "真空内でアルミニウムを加熱して、気化・昇華させ、離れた位置に置かれた基材・基板の表面に付着・堆積させて薄膜を形成する技術のことです",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "その型に樹脂を流し込み固化させた後、型を外して複製品を作製する工法のことです",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造は、製品の形状を反転させた型に、鉄・銅・アルミニウム・マグネシウム等の溶かした金属を流し込み、製品を作製する工法になります",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社では、主にアルミニウム合金及びマグネシウム合金による鋳造を行っております",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンの素材強度に影響するカーボン繊維の配向の解析サービスを行っております",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼業、非鉄金属製造業",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "大型の光造形方式の装置の場合、材料に液体樹脂を使うのですが、レーザーで硬化させるタンクの中には数百リットルの材料が入っています",
+    "url": "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "横浜市港北区に有限会社ジェイ・エム・シーを設立",
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年にグローバル・トランザクション・パートナーズ株式会社を設立、代表取締役（現任）に就任",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年にITコンサルティングサービス会社を設立し代表取締役を務める",
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社JMCは1992年設立",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立：1992年12月18日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "われわれは中計でも申し上げていますが、対応策としては、新工場設立や航空・医療分野への参入によるポートフィリオの構築を行います",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "また、創業以来培ったノウハウと確かな実績をもとに、唯一無二の存在であり続ける努力 を社員全員が続けています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221850/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2002年に有限会社エス・ケー・イーを設立",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "2026年12月期中間期は、3Dプリンター事業の一部であります、心臓カテーテルシミュレータ「HEARTROID」分野の伸長や、前事業年度において減損を余儀なくされた鋳造事業での業績復旧に向けた取り組みが進み、一部で成果が見え始めたことで、わずかではあるものの営業利益を残す結果となりました",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社を取り巻く市場環境は、各種コストの高止まりや、自動車業界の方針・予算見直しに伴う研究開発スケジュールの停滞など、依然として先の見通しは困難であります",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "安定性も特長で、3Dプリンタを帰宅前に動かし始めて、朝には造形が終了している",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイズは約38.6%に縮小し、一体で造形可能な695×580×246mmで製作しています",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年東京証券取引所マザーズに上場（2022年に東京証券取引所の市場区分見直しに伴いグロースを選択）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、当事業年度の経営成績は、売上高3,223,030千円（前期比4.9％増）、営業利益103,588千円（前期比17.6％増）、経常利益101,212千円（前期比17.7％減）、当期純損失については鋳造事業セグメントにおいて減損損失の計上をしたことで1,263,645千円（前期は当期純利益50,671千円）となりました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "）は、税引前当期純損失1,221,124千円（前期は税引前当期純利益82,274千円）の計上等があったものの、減損損失の計上等により、前事業年度末に比べ5,292千円増加し、当事業年度末には425,004千円となりました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に、税引前当期純損失1,221,124千円等の資金の減少があったものの、減損損失1,319,409千円、減価償却費381,464千円等の資金の増加があったことによるものであります",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "経済環境は全体的に悪化する流れであると思いますので、開発の縮小や取りやめに関しては、少なからず余波が出始めているという認識をしています",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "あと、投資も行いますが、選択と集中を行うことを明確にし、前に進んでまいりたいと思います",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター市場に関心を持っている企業は多いですが、撤退する企業も多く、毎月のように装置や事業の売却話が舞い込んできます",
+    "url": "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "pass": 3
+   },
+   {
+    "quote": "すると1年たたないうちに、うちに装置を中古で買ってほしいとか、営業譲渡の相談に来てしまいます",
+    "url": "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも数千万円の装置を買う必要があるほど社内需要があるのであれば、目的に即した装置を導入するべきです",
+    "url": "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "pass": 3
+   },
+   {
+    "quote": "ここから先は推察ではございますけれども、昨今発表がありましたように、自動車業界というのは大きく再編の波が訪れております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、先ほど申し上げたとおり、急速なEV化、もしくは再編によって開発のペンディング等が多くて、このような業績にいたってしまったことを感じております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "反面わたしが思うのは、この方針自体、これからものが少なくなるとかアルミの需要が大きくなるということは、間違いないと思っております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "先ほど申し上げたとおり、EVへの急な転換だったり、大手の再編によって従来やってたものが止まるとか、推察の域を脱しませんけれども、今の分析論としてはわたしどもはそういう結果を導き出しております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "少しずつ時間をかけながら体制を見直しながら、売上増を目指してまいりたいと思っております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力事業 売上高伸び悩みの要因",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "こちらは私どもの一番大きな主力の顧客である、医療機器関係のお客さまに限っての流れになりますけれども、いろんな規格の見直し、ISOだったりJISだったりというところが統一化されずに、なかなか開発が進ませることができないといったところが、医療関係の市場ではありました",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の再編だったり、EV化への対応の遅れだったり、EV化だからと言って、アルミの鋳造の部品を使わないというわけではないんです",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "まずは事業環境・顧客分析、売上高見込みの精緻化というところで、いろんな業界再編はあるんですけども、私ども上半期でいろいろ動いて掴んだ手応えとしては、私どもがやっている部品以外に、EVになっても付加価値があって、普遍的な部品というのは、足回りも含めていろいろあります",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "こちら価格帯の見直しというところで、社内からもいろいろ声が上がりました",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "ただ反面、それが結果として今回のように仕事が取れなかったということもございましたので、そういった所の反省も踏まえて、価格帯の見直し",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "管理職の配置・役割の見直し、書いております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "そして、営業戦力の見直し",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "そういったところに、アプローチ先とか産業見直し、価格帯の見直し、あとは担当者制とか、そういったものを引きながらお客様との接点を多く持って、距離をより近くというかたちでやってまいりたいと思います",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "株主・投資家の皆様へ | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "株主の皆様におかれましては、益々ご健勝のこととお慶び申し上げます",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "これもひとえに株主の皆様をはじめ、多くの関係者の皆様からのご支援の賜物と、心より感謝申し上げます",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "株主の皆様におかれましては、引き続き当社ならびに当社事業へのご指導とご支援を賜りたく、重ねてお願い申し上げます",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "決算発表 定時株主総会 第1四半期決算発表 第2四半期決算発表",
+    "url": "https://www.jmc-rp.co.jp/assets/images/lg/ir_calender_img.png",
+    "pass": 2
+   },
+   {
+    "quote": "株主のみなさま含めステークホルダーのみなさま、期待を裏切ったことを心よりお詫び申し上げます",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "そういったところの大きなユーザーであるトヨタさんとマツダさんの資本提携とか、そういった大きな波がまずは訪れております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5704",
+    "pass": 3
+   },
+   {
+    "quote": "WeRideはすでに、広東省広州市などでRobotaxi、いわゆる自動運転タクシーを、株主である宇通(Yutong)と連携してRobobusを、買収を通じてRobotruckを、それぞれ展開しており、今回新たに「Robovan」を提唱、自動運転の様々な可能性を模索する姿勢をより一層鮮明にした形だ",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "しかしながら、新たな業界・業種へのチャレンジや、お客様との真摯かつ頻度の高い対話を通じ、当社事業領域がお役に立てる「仕事の在り処」を探りながら、1件ごとのお引き合いを大切にすることで、売上と利益の双方を積み上げる努力を続けてまいります",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高：2,416百万円（2021年12月期）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に2台目の砂型3Dプリンターの導入も予定しており、今後は自社工程での活用を通じて砂型造形のノウハウを蓄積するとともに、砂型造形サービスのさらなる顧客獲得に努め、主力事業である鋳造事業の売上拡大を目指す",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "HEARTROID（ハートロイド）」の増加、アフターコロナによる出力サービスの回復により、売上高は前年同四半期比でプラス41.7%で3億3,600万円、利益はプラス168.5%で8,500万円だった",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometryが3Dプリント受託プラットフォーム事業で売上を大幅に伸ばす",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "海外・国内の医療関係デバイスメーカーより、想定を上回る受注・売上を獲得しました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、当事業年度の経営成績は、売上高3,223,030千円（前期比4.9％増）、営業利益103,588千円（前期比17.6％増）、経常利益101,212千円（前期比17.7％減）、当期純損失については鋳造事業セグメントにおいて減損損失の計上をしたことで1,263,645千円（前期は当期純利益50,671千円）となりました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、３Ｄプリンター事業の売上高は764,482千円（前期比21.3％増）、セグメント利益は241,395千円（前期比60.3％増）となりました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、鋳造事業の売上高は2,083,683千円（前期比6.9％増）、セグメント利益は87,772千円（前期比104.2％増）となりました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、国内メーカーへのＣＴ装置販売の実績が当初の予定を下回ったことや、全数検査・選別といったボリュームの大きいスキャン案件が少なかったことで、売上高・セグメント利益は前年を下回りました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、ＣＴ事業の売上高は374,864千円（前期比23.9％減）、セグメント利益は247,916千円（前期比32.5％減）となりました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の内部売上高又は振替高は含まれておりません",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．販売件数、販売金額及び比率は、セグメント間の内部売上高又は振替高は含まれておりません",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "われわれは啓発を行い、市場をつくり、自分たちがマーケット・リーダーとして市場拡大を積極的に行い、売上をつくっていきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "まず、特筆すべきものは売上高となります",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期の売上高は12億7,100万円でしたが、今期は16億2,400万円となり、大きく伸ばすことができました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "後ほどご説明いたしますが、全体の売上高を大きく牽引したのは、鋳造事業となります",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は全体的に増加しましたが、そのなかで特筆すべきは、材料費が減少したことになります",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "当然、労務費・外注加工費は増加しましたが、売上が向上したわりには比較的、労務費や外注加工費は抑えられた結果となりました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "売上原価に関しては、医療機器の販売を始めたので、今まで取引がなかったところから製品仕入をはじめた結果、仕入在庫が（棚卸資産に）記載されることになりました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は全体的に増加したわりには、販売及び一般管理費は比較的コンパクトに抑えられたという所感を持っています",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "次に、こちらのスライドには、2019年12月期第2四半期の事業別売上高比率を、円グラフとして掲載しています",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月期 第2四半期 セグメント別売上高・営業利益",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "次に、こちらのスライドには2019年12月期のセグメント別の売上高と営業利益を、表として記載しています",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期の売上高である2億5,800万円に対して、今期はやや増加し（2億7,600万円となり）ました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "次に、弊社の売上の大きな柱であり、今回（売上高を）牽引した鋳造事業についてご説明します",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期の売上高である7億7,500万円に対して、今期は10億7,600万円となった結果、売上高と営業利益の数字を大きく引き上げることができました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期の売上高は、装置販売事業の売上高である1億5,300万円を含めると2億6,000万円になりますが、今期の売上高は装置販売事業の売上高である9,300万円を含めると3億3,000万円となりました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "まず、3Dプリンター出力事業に関しては、地道ながらも徐々に売上が伸びている事業になります",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "現在も比較的に（好調を）維持しながら推移しており、売上高に占める数字は全体の2割となりますが、営業利益等を考えると、たいへん大きな貢献をしていると思います",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどにも申し上げましたが、売上高は増加しましたが、営業利益は減少しております",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力事業 産業別売上高",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "次に、こちらのスライドには、3Dプリンター出力事業の前年同期と今期の売上高を比較した産業別売上高が円グラフとして掲載してあります",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "スライドの1番上側にも書かれているように、全体的なトレンドとしては、自動車と医療の2分野が、エンドユーザーとして、3Dプリンターの売上を牽引したという流れになります",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "次に、鋳造事業の産業別売上高についてご説明します",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "われわれのなかで売上高が一番大きいのは電気機械器具製造業となりますが、売上自体も大きく伸びており、比率としては26.9パーセントから47.6パーセントまで拡大しました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "短納期の仕事が多いなか、オペレーターの育成と設備増強を同時にうまくシンクロさせることにより、売上を伸ばすことができました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "CT事業 産業別売上高分析（装置販売は除く）",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "この10年で50億円が200億円になったかもしれませんが、大変小さい市場であると感じています",
+    "url": "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "pass": 3
+   },
+   {
+    "quote": "当初に掲げた予算・売上目標、売上に関しては15.6パーセント、営業利益に関しては95.4パーセントと、大きな下方修正を先月7月25日にいたしております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "基本的には売上が伸びなかった、そしてそれに対して経費を使っていて、見合った経費ではなくて過剰に大きくなった",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "わたしども売上の大半を、とくに鋳造事業に関しては輸送機器に関して売上を持っております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "次は通期の売上高についてお話し申し上げます",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "少しずつ時間をかけながら体制を見直しながら、売上増を目指してまいりたいと思っております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "ここで、鋳造事業全般で売上がいかないものに関して外注費の増加というところが気になるというご指摘をいただくものだと思っております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益、こちらに関して下がっておりますのと、いろいろ経費がかさんでいって、結果利益としては経常利益率1.3パーセントと、当初の数字よりかけ離れて低くなってしまいました",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "それ以降、販売管理費になりますけれども、当然売上を上げる前提でございましたので、展示会、Webの戦略等に費用を投じております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "こちら、事業別売上高の内訳になります",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "結局それがあだになって、そこでも売上いかなかったじゃないかというお話になるとは思うんですけれども、努力の結果というかたちにはなってませんけども、成果を出すことができなかったというところが本音でございます",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力事業 売上高分析",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "こちら、主たる要因としては、私どもWebやDMを使ったプル戦略を主体に、3Dプリンターの売上を作っております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力事業 売上高伸び悩みの要因",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "こういったところも結果、売上や客先動向に関して、半期の立ち返りで見てみて、初めて気づいたことが多かったです",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "こちらに関しては、売上自体が落ちております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "そこに関しては、この上期でやったことをお伝えしますと、1つ1つサンプルを無償で提供を申し上げて、それに対して評価をいただいて、実績として扱っていただいて、下期に対して売上を作っていくような流れを取っております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、売上が減っております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "2026年12月期中間期は、3Dプリンター事業の一部であります、心臓カテーテルシミュレータ「HEARTROID」分野の伸長や、前事業年度において減損を余儀なくされた鋳造事業での業績復旧に向けた取り組みが進み、一部で成果が見え始めたことで、わずかではあるものの営業利益を残す結果となりました",
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "pass": 1
+   },
+   {
+    "quote": "この結果、当事業年度の経営成績は、売上高3,223,030千円（前期比4.9％増）、営業利益103,588千円（前期比17.6％増）、経常利益101,212千円（前期比17.7％減）、当期純損失については鋳造事業セグメントにおいて減損損失の計上をしたことで1,263,645千円（前期は当期純利益50,671千円）となりました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "）は、税引前当期純損失1,221,124千円（前期は税引前当期純利益82,274千円）の計上等があったものの、減損損失の計上等により、前事業年度末に比べ5,292千円増加し、当事業年度末には425,004千円となりました",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "それに紐づくように、営業利益は前年同期より88.2パーセントの増加の3億1,000万円となり、大きく向上することができました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "それに伴い、経常利益・四半期純利益も向上しました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "次に、営業利益の増減分析についてご説明します",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月期 第2四半期 セグメント別売上高・営業利益",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "次に、こちらのスライドには2019年12月期のセグメント別の売上高と営業利益を、表として記載しています",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "その反面、営業利益は前年同期より1,300万円減少し、マイナス19.3パーセントとなりました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期の売上高である7億7,500万円に対して、今期は10億7,600万円となった結果、売上高と営業利益の数字を大きく引き上げることができました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "また、前年同期の営業利益である2億2,900万円に対して、今期の営業利益は4億500万円となりました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "また、前年同期の営業利益である5,600万円に対して、今期の営業利益は1億2,600万円となりました",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "現在も比較的に（好調を）維持しながら推移しており、売上高に占める数字は全体の2割となりますが、営業利益等を考えると、たいへん大きな貢献をしていると思います",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどにも申し上げましたが、売上高は増加しましたが、営業利益は減少しております",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "川崎汽船、通期経常利益を上方修正 新中計発表で31年度ROE15％以上・当期純利益2,100億円プラスアルファを目指す",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "東邦亜鉛、1Qは前年同期比で増収増益 足元で銀相場が下落する中、在庫評価損除外のEBITDAは15億円黒字を確保",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "JMC、営業利益95.6%減 3Dプリンター出力事業の新規受注減少 - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "当初に掲げた予算・売上目標、売上に関しては15.6パーセント、営業利益に関しては95.4パーセントと、大きな下方修正を先月7月25日にいたしております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益に関しては1,000万円",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益1,500万円の、当期純利益1,000万円というかたちになっております",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "川崎汽船、通期経常利益を上方修正 新中計発表で31年度ROE15％以上・当期純利益2,100億円プラスアルファを目指す",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "東邦亜鉛、1Qは前年同期比で増収増益 足元で銀相場が下落する中、在庫評価損除外のEBITDAは15億円黒字を確保",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "業績の推移 （営業利益） 直近３ヵ年",
+    "url": "https://www.net-presentations.com/5704/20170223/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3Dプリンター ・鋳造・CTの JMC — 3Dプリンター ・鋳造・CTの JMC JMC Corporation https://www.jmc-rp.co.jp",
+    "url": "https://www.jmc-rp.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品導入事例株式会社 JMC - ミマキエンジニアリング — 製品導入事例株式会社 JMC - ミマキエンジニアリング 株式会社ミマキエンジニアリング https://japan.mimaki.com > 3d_print > story_detail02",
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 出力サービスの JMC | スピード見積・短納期 ... — 3Dプリンター 出力サービスの JMC | スピード見積・短納期 ... 3d-printout.com https://www.3d-printout.com",
+    "url": "https://www.3d-printout.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜ 3Dプリンター 出力サービスの JMC — 会社概要｜ 3Dプリンター 出力サービスの JMC 3d-printout.com https://www.3d-printout.com > company",
+    "url": "https://www.3d-printout.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "JMC 新工場棟の稼働および砂型造形サービス 開始 ! — JMC 新工場棟の稼働および砂型造形サービス 開始 ! ShareLab NEWS https://news.sharelab.jp > 業界動向 > 造形サービス",
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 JMC 、2023年第2四半期決算を発表 - ShareLab NEWS — 株式会社 JMC 、2023年第2四半期決算を発表 - ShareLab NEWS ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "JMC 【5704】の 事業 内容 - キタイシホン — JMC 【5704】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5704/business",
+    "pass": 3
+   },
+   {
+    "quote": "JMC (5704) の企業概要・業績・財務・IR資料 — JMC (5704) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/5704",
+    "pass": 3
+   },
+   {
+    "quote": "JMC /2Qは増収増益 鋳造 事業 が全社業績を牽引 — JMC /2Qは増収増益 鋳造 事業 が全社業績を牽引 ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/359492",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 3Dプリンター・鋳造・CTの JMC — IR情報 | 3Dプリンター・鋳造・CTの JMC JMC Corporation https://www.jmc-rp.co.jp > ...",
+    "url": "https://www.jmc-rp.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "AMの可能性と現実の正しい理解促進ー JMC 渡邊 社長 — AMの可能性と現実の正しい理解促進ー JMC 渡邊 社長 ShareLab NEWS https://news.sharelab.jp > 独自記事",
+    "url": "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 3Dプリンター ・鋳造・CTの JMC — IR情報 | 3Dプリンター ・鋳造・CTの JMC JMC Corporation https://www.jmc-rp.co.jp > ...",
+    "url": "https://www.jmc-rp.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 JMC 、2023年第2四半期 決算 を発表 - ShareLab NEWS — 株式会社 JMC 、2023年第2四半期 決算 を発表 - ShareLab NEWS ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "pass": 3
+   },
+   {
+    "quote": "JMC 、営業利益95.6%減 3Dプリンター 出力事業の新規受注減少 — JMC 、営業利益95.6%減 3Dプリンター 出力事業の新規受注減少 ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/237051",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 JMC 2016年12月期 決算説明 会 — 株式会社 JMC 2016年12月期 決算説明 会 ネットプレゼンテーションズ https://www.net-presentations.com > ...",
+    "url": "https://www.net-presentations.com/5704/20170223/",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイエムシー ( 株 )の 会社概要 | マイナビ2028 — ジェイエムシー ( 株 )の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp221850 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221850/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | ジェイエムシー株式 会社 — 会社概要 | ジェイエムシー株式 会社 ジェイエムシー株式会社 https://www.jmc-ltd.co.jp > company",
+    "url": "https://www.jmc-ltd.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 株式会社JMC — 企業情報 | 株式会社JMC 株式会社JMC https://www.jmc-edu.co.jp > company",
+    "url": "https://www.jmc-edu.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "【 JMC 】[5704]企業 概要 社員数や役員報酬・資本金 | 日経電子版 — 【 JMC 】[5704]企業 概要 社員数や役員報酬・資本金 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5704",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社ジェイエムシー(JMC) — 会社概要 - 株式会社ジェイエムシー(JMC) 株式会社ジェイエムシー https://jmcn.co.jp > mobile > corporate > about",
+    "url": "https://jmcn.co.jp/mobile/corporate/about.html",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "3Dプリンター市場に関心を持っている企業は多いですが、撤退する企業も多く、毎月のように装置や事業の売却話が舞い込んできます",
+    "url": "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "pass": 3
+   },
+   {
+    "quote": "WeRideはすでに、広東省広州市などでRobotaxi、いわゆる自動運転タクシーを、株主である宇通(Yutong)と連携してRobobusを、買収を通じてRobotruckを、それぞれ展開しており、今回新たに「Robovan」を提唱、自動運転の様々な可能性を模索する姿勢をより一層鮮明にした形だ",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "求人情報 JMC ｜障害者の転職･求人 就職･採用 雇用就労支援 求人情報 JMC ｜障害者の転職･求人 就職･採用 雇用就労支援 note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/unpetitpas/n/n4661d457129f",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 JMC 代表取締役社長兼CEO 渡邊 大知さん - note 株式会社 JMC 代表取締役社長兼CEO 渡邊 大知さん - note note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   },
+   {
+    "quote": "WeRide「Robovan」発表、 JMC と共同製造、ZTOで実際活用 WeRide「Robovan」発表、 JMC と共同製造、ZTOで実際活用 note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 JMC 代表取締役 社長 兼CEO 渡邊 大知さん - note 株式会社 JMC 代表取締役 社長 兼CEO 渡邊 大知さん - note note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   },
+   {
+    "quote": "Joyful story Craft （ JMC ）の記事一覧｜ note （ ノート ） Joyful story Craft （ JMC ）の記事一覧｜ note （ ノート ） note https://note.com > jmc_japan > all",
+    "url": "https://note.com/jmc_japan/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "求人情報 ㈱ＪＭＣ ｜障害者の転職･求人 就職･採用 雇用就労支援／アンプティパ",
+    "url": "https://note.com/unpetitpas/n/n4661d457129f",
+    "pass": 3
+   },
+   {
+    "quote": "障害者の転職･求人 就職･採用 雇用就労支援／アンプティパ",
+    "url": "https://note.com/unpetitpas/n/n4661d457129f",
+    "pass": 3
+   },
+   {
+    "quote": "教育市場における各教育機関に対する教育のＩＴ化事業、",
+    "url": "https://note.com/unpetitpas/n/n4661d457129f",
+    "pass": 3
+   },
+   {
+    "quote": "教育用情報セキュリティ支援ツール「Hardlockey」の開発、販売 等",
+    "url": "https://note.com/unpetitpas/n/n4661d457129f",
+    "pass": 3
+   },
+   {
+    "quote": "（正常性確認、容量確認、バックアップ確認、ログ確認）",
+    "url": "https://note.com/unpetitpas/n/n4661d457129f",
+    "pass": 3
+   },
+   {
+    "quote": "・機器管理（PC調達、社内展開、修理対応）",
+    "url": "https://note.com/unpetitpas/n/n4661d457129f",
+    "pass": 3
+   },
+   {
+    "quote": "※Excel：関数利用、表・グラフの作成実務経験/必須",
+    "url": "https://note.com/unpetitpas/n/n4661d457129f",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン経営から生まれた”女子高生が働ける工場”【2021/4/11放送_株式会社JMC代表取締役社長兼CEO 渡邊 大知さん】｜文化百貨店",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン経営から生まれた”女子高生が働ける工場”【2021/4/11放送_株式会社JMC代表取締役社長兼CEO 渡邊 大知さん】",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   },
+   {
+    "quote": "Fm yokohama（84.7MHz）から毎週日曜日深夜24:30～25:00にお送りするラジオ番組『",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   },
+   {
+    "quote": "』。今週のゲストは、山崎が取締役兼CDOを務める株式会社JMC代表取締役社長兼CEOの渡邊大知さん。経済産業省と特許庁が推進する“デザイン経営”のモデルケースの1つとして、デザイナーやデザインが経営にもたらす影響について、たっぷりお話をお伺いしました。",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   },
+   {
+    "quote": "セイタロウデザイン代表・アートディレクター 山崎晴太郎（",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社JMC代表取締役社長兼CEO 渡邊 大知さん",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   },
+   {
+    "quote": "高校卒業後、ファイティング原田ジムに入門しプロボクサーとしてデビュー。引退後の1999年、株式会社JMCで3Dプリンター出力事業を立ち上げ、日本における黎明期から3Dプリンター業界に携わる。2004年に代表取締役就任。2006年には鋳造会社を合併し、事業規模を大きく拡大。「MADE BY JMC」を企業理念に掲げ、旧来の栄光や方法論に縛られない、本質的で革新的なものづくりを実現するため、日夜挑戦を続ける。",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   },
+   {
+    "quote": "▶︎経営者として、デザインが必要だと感じていた部分",
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "pass": 3
+   },
+   {
+    "quote": "WeRide「Robovan」発表、JMCと共同製造、ZTOで実際活用｜CHINA CASE",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   },
+   {
+    "quote": "WeRide「Robovan」発表、JMCと共同製造、ZTOで実際活用",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   },
+   {
+    "quote": "中国自動運転スタートアップ文遠知行(WeRide)は2021年9月9日、自動運転レベル4のバン「Robovan」を発表した。Robotaxi、Robobus、Robotruckに次ぐ、中国でも初めてのコンセプト。バン分野で中国トップとされる江鈴汽車(JMC)と、配送大手の中通快递(ZTO Express)と戦略的パートナーシップを締結、JMCと共同でプリインストールの自動運転レベル4バスを製造して、ZTO Expressに納車する。",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   },
+   {
+    "quote": "同日、三社により「横空出世 The Next」オンライン発表会が開催され、三社のトップが勢ぞろいし、戦略的パートナーシップ協議に調印した。",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   },
+   {
+    "quote": "今回の協力では、WeRideが技術・製品・シチュエーションを携え、JMCと共同で中国初めての自動運転レベル4バン「Robovan」を打ち出し、ZTO Expressによってもたらされる全方位の配送応用シチュエーションの中で利用、「Robovan」のビジネス化に向けた試験運営を共同で展開するという。当初のプリインストールは手作業によるものとされるが、今後はJMCの生産ラインの改造、カスタマイズか含めて検討される。",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   },
+   {
+    "quote": "WeRideファウンダーの韓旭CEOは、「中国初の自動運転レベル4バンで同一都市内の配送業務に自動運転を取り入れ、JMC、ZTO Expressという上下流2社と連携して、自動運転の“鉄のトライアングル”戦略パートナーシップモデル2.0の進化を実現する」とした。",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   },
+   {
+    "quote": "JMCの金文輝第一執行副総裁は、「今回三者による“鉄のトライアングル”で、チャンスをシェアし、未来を共創、スマートかつ美しい“Robovan”を共同で打ち出す。今後の同一都市内配送の新たな局面を改めて定義する」とした。",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   },
+   {
+    "quote": "ZTO Expressの頼建法董事長は、「今回の協業を通じて、当社の同一都市内配送の自動運転領域における応用と着地を加速、テックによる物流配送の新たなエコシステムを構築、企業の発展及び転換のグレードアップをサポートしていく」とした。",
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "pass": 3
+   },
+   {
+    "quote": "Joyful Fantsy Craft （JMC）の記事一覧｜note",
+    "url": "https://note.com/jmc_japan/all",
+    "pass": 3
+   },
+   {
+    "quote": "「私の給料が100万円になる方法ありますか？」～無料版〜恥もプライドも捨ててAIに丸投げした、会社員の泥臭いAI活用起業実録〜",
+    "url": "https://note.com/jmc_japan/all",
+    "pass": 3
+   },
+   {
+    "quote": "Joyful Fantsy Craft （JMC）",
+    "url": "https://note.com/jmc_japan/all",
+    "pass": 3
+   },
+   {
+    "quote": "「私の給料が100万円になる方法ありますか？」～第１部〜恥もプライドも捨ててAIに丸投げした、会社員の泥臭いAI活用起業実録〜",
+    "url": "https://note.com/jmc_japan/all",
+    "pass": 3
+   },
+   {
+    "quote": "「私の給料が100万円になる方法ありますか？」～第２部〜素人が「75万円控除」を逃さないためにAIを使う。【税務ディフェンス構築】のすべて〜",
+    "url": "https://note.com/jmc_japan/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# JMC - Search / X # JMC - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/JMC",
+    "pass": 3
+   },
+   {
+    "quote": "JMC (@jmc5221) / X JMC (@jmc5221) / X X https://x.com > jmc5221",
+    "url": "https://x.com/jmc5221",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 JMC (@jmcedu_official) / X 株式会社 JMC (@jmcedu_official) / X X https://x.com > jmcedu_official",
+    "url": "https://x.com/jmcedu_official",
+    "pass": 3
+   },
+   {
+    "quote": "JMC (@narrowQRS) / X JMC (@narrowQRS) / X X https://x.com > narrowQRS",
+    "url": "https://x.com/narrowQRS",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "JMC Ltd. - LinkedIn JMC Ltd. - LinkedIn LinkedIn Ireland https://ie.linkedin.com > company > j...",
+    "url": "https://ie.linkedin.com/company/jmc-van-trans-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "JMC Family Office - LinkedIn JMC Family Office - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/jmc-familyoffice",
+    "pass": 3
+   },
+   {
+    "quote": "JMC Global - LinkedIn JMC Global - LinkedIn LinkedIn https://www.linkedin.com > jmc-global",
+    "url": "https://www.linkedin.com/company/jmc-global",
+    "pass": 3
+   },
+   {
+    "quote": "JMC Corporation - LinkedIn JMC Corporation - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/jmccorporation/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "JMC Motors | Nanchang - Facebook JMC Motors | Nanchang - Facebook Facebook https://www.facebook.com > Pages > Other > Brand > Cars",
+    "url": "https://www.facebook.com/JMCGMotors/",
+    "pass": 3
+   },
+   {
+    "quote": "JMC Power Automotive Ltd | Limassol - Facebook JMC Power Automotive Ltd | Limassol - Facebook Facebook https://www.facebook.com > ... > Motor vehicle company",
+    "url": "https://www.facebook.com/p/JMC-Power-Automotive-Ltd-100063597222292/",
+    "pass": 3
+   },
+   {
+    "quote": "JMC Automotive Equipment | Bohemia NY - Facebook JMC Automotive Equipment | Bohemia NY - Facebook Facebook https://www.facebook.com > ... > Automotive Body Shop",
+    "url": "https://www.facebook.com/JMCAutoEquipment/",
+    "pass": 3
+   },
+   {
+    "quote": "UA&P JMC (@uapjmcs) - Facebook UA&P JMC (@uapjmcs) - Facebook Facebook https://www.facebook.com > ... > Education website",
+    "url": "https://www.facebook.com/uapjmcs/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jmc-rp.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/aboutus/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/business/3d-printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/topic/service/topic_260713_aquamarine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/business/casting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/business/ct.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/business/newfields.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/aboutus/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/aboutus/board.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/aboutus/access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir_management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir_finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir_library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir_stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir_calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/topic/service/topic_20260825_d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir_library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/ir_finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/aboutus/compliance/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jmc-rp.co.jp/assets/images/lg/ir_calender_img.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/assets/images/sm/ir_calender_img.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printout.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutoh.co.jp/support/3d/support_end/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printout.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5704/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/company/5704",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/359492",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ninesigma.com/jp/news/column_3dprinter/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/237051",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.net-presentations.com/5704/20170223/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crex-data.com/company/5704",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp221850/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-ltd.co.jp/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jmc-edu.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5704",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmcn.co.jp/mobile/corporate/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/unpetitpas/n/n4661d457129f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/china_case/n/n9aebaba852d5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/JMC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jmc5221",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jmcedu_official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/narrowQRS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ie.linkedin.com/company/jmc-van-trans-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/jmc-familyoffice",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/jmc-global",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/jmccorporation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/JMCGMotors/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/JMC-Power-Automotive-Ltd-100063597222292/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/JMCAutoEquipment/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/uapjmcs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jmc_japan/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/JMC",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジェイエムシー 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.jmc-rp.co.jp/",
+    "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "https://www.3d-printout.com/",
+    "https://www.mutoh.co.jp/support/3d/support_end",
+    "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "https://ja.nc-net.or.jp/company/46595/",
+    "https://strainer.jp/notes/4968",
+    "https://finance.logmi.jp/articles/237051",
+    "https://www.jmc-rp.co.jp/ir/",
+    "https://www.jmc-rp.co.jp/aboutus/history.html"
+   ]
+  },
+  {
+   "query": "ジェイエムシー 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.3d-printout.com/company/",
+    "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "https://news.sharelab.jp/3dp-news/3dprinting/%E6%96%B0%E5%B7%A5%E5%A0%B4%E6%A3%9F%E3%81%AE%E7%A8%BC%E5%83%8D%E5%8F%8A%E3%81%B3%E7%A0%82%E5%9E%8B%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "https://www.jmc-rp.co.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000090.000006663.html",
+    "https://www.jspmi.or.jp/material/file/tri/document/tf12_04.pdf",
+    "https://www.metal-casting.jp/company/",
+    "https://www.tdb.co.jp/report/economic/kw859zt0go/",
+    "https://ja.nc-net.or.jp/company/46595/",
+    "https://www.jmc-rp.co.jp/aboutus/history.html"
+   ]
+  },
+  {
+   "query": "ジェイエムシー 積層造形 事業 売上",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "https://kitaishihon.com/company/5704/business",
+    "https://www.crex-data.com/company/5704",
+    "https://finance.logmi.jp/articles/359492",
+    "https://www.jmc-rp.co.jp/ir/",
+    "https://kabuyoho.jp/sp/reportTop?bcode=5704",
+    "https://strainer.jp/tags/3d-printing",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02986-00.pdf",
+    "https://www.metal-casting.jp/company/",
+    "https://kessan.openup-lab.com/companies/7702/index.html"
+   ]
+  },
+  {
+   "query": "ジェイエムシー 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.jmc-rp.co.jp/",
+    "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "https://www.ninesigma.com/jp/news/column_3dprinter/",
+    "https://japan.mimaki.com/special/3d_print/story_detail02.html",
+    "https://news.sharelab.jp/interviews/jmc-mr-watanabe-20220730/",
+    "https://www.jspmi.or.jp/material/file/tri/document/tf12_04.pdf",
+    "https://tv.aperza.com/watch/665",
+    "https://magazine.aktio.co.jp/work-ability/20220727-1431.html",
+    "https://zuuonline.com/archives/235249",
+    "https://www.jmc-rp.co.jp/aboutus/board.html"
+   ]
+  },
+  {
+   "query": "ジェイエムシー 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.jmc-rp.co.jp/ir/",
+    "https://news.sharelab.jp/3dp-news/ir/jmc-230921/",
+    "https://finance.logmi.jp/articles/237051",
+    "https://www.net-presentations.com/5704/20170223/",
+    "https://www.crex-data.com/company/5704",
+    "https://strainer.jp/notes/4968",
+    "https://www.jmc-rp.co.jp/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5704",
+    "https://kaijiwire.jp/companies/9260001003117",
+    "https://kaijiwire.jp/kokoku/01a14880-d9d1-79d3-b606-ebd04a4a2289"
+   ]
+  },
+  {
+   "query": "ジェイエムシー 会社概要 設立 株主",
+   "results": [
+    "https://job.mynavi.jp/28/pc/search/corp221850/outline.html",
+    "https://www.jmc-ltd.co.jp/company",
+    "https://www.jmc-edu.co.jp/company/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5704",
+    "https://jmcn.co.jp/mobile/corporate/about.html",
+    "https://www.metal-casting.jp/company/",
+    "https://kabutan.jp/stock/holder?code=5704",
+    "https://companydata.tsujigawa.com/company2/6490001001273/",
+    "https://www.jmc-rp.co.jp/aboutus/outline.html",
+    "https://jmc-in.com/company/"
+   ]
+  },
+  {
+   "query": "site:note.com ジェイエムシー",
+   "results": [
+    "https://note.com/seitarodesign/n/n8c4594efa881",
+    "https://note.com/unpetitpas/n/n4661d457129f",
+    "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "https://note.com/china_case/n/n9aebaba852d5",
+    "https://money.note.com/companies/5704?term=five_years",
+    "https://note.com/fond_ferret685/n/n28b2866de32f",
+    "https://note.com/bunkahyakkaten/n/n2c1e57066788",
+    "https://note.com/akiaki81765862/n/n6b6dc78e8956",
+    "https://note.com/tag/vm/investment_money/company-5704",
+    "https://note.com/jmc_text_lecture/n/n2ef18f15b408?hl=en"
+   ]
+  },
+  {
+   "query": "site:x.com ジェイエムシー",
+   "results": [
+    "https://x.com/hashtag/JMC",
+    "https://x.com/jmc5221",
+    "https://x.com/jmcedu_official",
+    "https://x.com/narrowQRS",
+    "https://x.com/JMCCollege",
+    "https://x.com/jonnycraig4L",
+    "https://x.com/i/broadcasts/1BRKjmMQbjvxw",
+    "https://x.com/CEMFInews/status/2118655554541510698",
+    "https://x.com/jmcaljabr/status/2117214619777286503",
+    "https://x.com/JackMillerCtr/status/1965763843142914102"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ジェイエムシー",
+   "results": [
+    "https://ie.linkedin.com/company/jmc-van-trans-ltd",
+    "https://www.linkedin.com/company/jmc-familyoffice",
+    "https://www.linkedin.com/company/jmc-global",
+    "https://www.linkedin.com/company/jmccorporation/",
+    "https://uk.linkedin.com/company/jmc-aviation",
+    "https://www.linkedin.com/company/jmc-retail-group",
+    "https://www.linkedin.com/company/jmc-enterprises-inc",
+    "https://ie.linkedin.com/jobs/view/european-road-freight-forwarder-at-jmc-ltd-4217254628",
+    "https://www.linkedin.com/company/jmc-restaurant-distribution-company",
+    "https://www.linkedin.com/company/jmc-products"
+   ]
+  },
+  {
+   "query": "site:facebook.com ジェイエムシー",
+   "results": [
+    "https://www.facebook.com/JMCGMotors/",
+    "https://www.facebook.com/p/JMC-Power-Automotive-Ltd-100063597222292/",
+    "https://www.facebook.com/JMCAutoEquipment/",
+    "https://www.facebook.com/uapjmcs/",
+    "https://www.facebook.com/JMCGMotors/videos/jmc-all-new-carrying-plus/755608482667395/",
+    "https://www.facebook.com/JMCSouthAfrica/",
+    "https://www.facebook.com/jmcusedcarsglasgow/",
+    "https://www.facebook.com/JMCFinechem/",
+    "https://www.facebook.com/jmcaviation/",
+    "https://www.facebook.com/JMCGMotors/videos/a-new-chapter-for-jmc-pickupsall-new-vigus-officially-launches-in-colombiaa-new-/1110769918184027/"
+   ]
+  },
+  {
+   "query": "ジェイエムシー note 社長",
+   "results": [
+    "https://note.com/bunkahyakkaten/n/n5a7ad5b8aa98",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/jmc_japan/all",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://www.jmc-ltd.co.jp/about",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.com/sadaaki",
+    "https://shachomeikan.jp/industry_article/4945",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "ジェイエムシー X 投稿",
+   "results": [
+    "https://x.com/hashtag/JMC",
+    "https://phs.onlinejmc.com/CM/",
+    "https://www.jmc-ltd.co.jp/",
+    "https://syukatsu-kaigi.jp/companies/8879/word_mouths",
+    "https://thejmc.com/portfolio_category/mobile-application/",
+    "https://www.thejmc.art/videos",
+    "https://x.com/jmc5221",
+    "https://github.com/jcm93/jmc",
+    "https://x.com/Dmiag2008/status/2079774741964185607",
+    "https://www.jmc-co.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式26頁／PDF・画像2件／外部43頁・検索12回）"
+ }
+}

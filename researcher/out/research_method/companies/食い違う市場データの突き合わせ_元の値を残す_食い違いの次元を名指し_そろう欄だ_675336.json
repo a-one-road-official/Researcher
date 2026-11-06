@@ -1,0 +1,1187 @@
+{
+ "name": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
+ "en": "reconcile conflicting market data definitions scope period revisions evidence ledger",
+ "aliases": [
+  "市場データ 食い違い 突き合わせ 定義 範囲",
+  "統計 不一致 原因 期間 定義 改訂",
+  "reconciling conflicting statistics census bls methodology differences"
+ ],
+ "context": "突き合わせ",
+ "kind": "market",
+ "researched_at": "2026-11-06T16:40:00.005343+00:00",
+ "evidence": {
+  "実例": [
+   {
+    "quote": "返ってきた結果を自分で点検できて、はじめて実務に使えるようになります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事は、楽天やAmazonなどのモールや自社サイトを運営するEC運営者・店舗担当者が、Grok Botに「1つの仕事」を渡し、その結果を自分で点検する力を身につけるための演習集です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "架空メール・架空ECデータで結果を自己採点する方法",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25本の依頼文と3つのケーススタディで、手元にすぐ使える型を持ち帰る",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、返ってきた結果を人が点検してはじめて、実務で使える成果物になります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機検証はケース1のみで、ほかの出力例はすべて執筆時の想定アンサーです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ケース1では、日用品3商品の点検表、週次報告、確認依頼の下書きを扱います",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ケース2は問い合わせ6件の対応表、返信案6通、FAQ候補です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ケース3は商品紹介文1本、SNS案2本、画像案3件、15秒動画台本1本です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ケース1のBot作成、入力確認、3商品の計算、確認事項の抜けの修正、会話内の週次報告を確認しています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機未検証なのは、ケース2・3、ケース1の確認依頼作成、インストールと初回認証、実サービスへの接続・書き込み、定期実行、複数Bot連携などです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公式資料や動画を参考にした説明と、実行して確認した結果は、この記事の中で区別しています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「2026-09-05_メール分類_01」のようにします",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「分類が良くなった」と感じても、入力したメールが違えば、指示を直した効果なのか、簡単なメールに変わっただけなのか分かりません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Grok Botは、2026年8月にxAIとCursorが共同で公開した自律型AIエージェントです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "架空メール・架空ECデータで結果を自己採点する方法",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "複数Botに仕事を分ける「Swarm」の引き継ぎ手順",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25本の依頼文と3つのケーススタディで、手元にすぐ使える型を持ち帰る",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Grok Botとは、xAIとCursorが共同で提供する、ブラウザーやアプリを自分で操作して仕事を進める自律型のAIエージェントです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここで大切なのは、立派な管理方法よりも、何を渡したら何が返ったかを見失わないことです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これを行うと、うまくいった理由を説明しやすくなり、担当者が変わったときにも手順を渡せます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第8章で確認済みの手順を保存・定期化し、第9章の点検票で運用を見直しましょう",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スキルは作業方法を保存した手順、ルーティンは実行する時刻や条件の設定、グループは複数の担当者が一つの成果を作るための会話の場所を指します",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そこでこの記事は、準備、単独作業、情報整理、数値分析、分担、デザインへの応用、手順の保存、運用の順にまとめました",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プラグインは外部サービスへの接続、スキルは作業方法の保存、ルーティンは実行する時刻や条件の設定です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "起動後の「Get started」からCursorアカウントで認証する（公式手順）",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "保存方法はアプリ版の実画面で確認してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分類方法の検討と、実メールへの適用を同じメッセージで依頼しないほうが、何を変えたかを確認しやすくなります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Gmailへの接続と、5件だけ読ませる手順",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "この記事の解答は、AIが出した文章をそのまま採用してよいという意味ではありません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本文「2026年9月7日17時までに採用する案をご返信ください」",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "返信案が自然でも、資料にない納期や値引きを約束していたら採用できません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では統計的な効果測定を保証しませんが、少なくとも変更日と変更内容、同時に変えた条件を記録するところから始められます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リンクが返った段階と、変更が採用された段階は別です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提案が採用された割合は一つの参考になりますが、採用した判断そのものが正しかったかは別です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確認が甘ければ採用率だけ高くなることもあります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "案を採用する前に元ページを確認し、価格・広告・在庫を同時に変えたかも記録します",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "入力：input／作成中：drafts／点検結果：review／人が採用した版：approved／実行記録：logs",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用者、対象、変更内容、確認日時を別に記録する案にします",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ情報の重複説明を省き、却下された案と現在採用している案を分けます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人が決めること：確認担当、回答期限、採用する改善一件",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "説明欄の禁止事項は作業方針であり、技術的なアクセス権を隔離する設定ではない点に注意してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "逆に、毎回守る必要がある「原文にない期限は補わない」が会話の奥に埋もれてしまうと、後から見直しにくくなるので注意してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「6件中5件だから本番で問題ない」とは判断せず、失敗した条件を直してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "添付を実際に確認していない演習なので、添付の金額や発行者を読み取ったように書くことも誤りです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：個人情報保護委員会は2023年6月2日、生成AIサービスの利用に関する注意喚起を出しています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "後から件数が違ったときに、取得失敗なのか単位の違いなのかを切り分けられます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "知らない数百件をいきなり分類すると、誤りを発見するために元の数百件を読む必要があります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個人情報保護法の注意点は第3章を参照してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「全部もう一度」の前に、誤りの種類を伝えると同じ間違いを探しやすくなります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一回の仕事が成功する前に定期実行を作ると、誤りも繰り返されます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "担当Bot、入力の置き場所、データの日付、変更しない操作、失敗時の扱いを明記してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：正しい例と、注意する例があるか",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回の誤り：配布予定日を返信期限として扱いました",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、変化なしの通知を減らすことと、失敗を隠すことは別です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確認作業が増え続ける、元資料に戻れない、期限や金額の誤りが繰り返される場合は、自動化の範囲を狭めます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機検証はケース1のみで、ほかの出力例はすべて執筆時の想定アンサーです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、今回の実機検証はWindows版です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bot作成から計算・修正・週次報告までの実行記録を掲載していますが、確認依頼の下書き作成そのものは今回の実機検証の対象外です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いずれも教材用の演習と完成例で、Grok Botでの実機検証はまだ行っていません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機検証済みなのは、2026年9月5日、記事制作者のWindows環境で、CodexのComputer UseによりGrok Botを操作した部分です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実際の返答を「実機検証」の章へ転記しています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機未検証なのは、ケース2・3、ケース1の確認依頼作成、インストールと初回認証、実サービスへの接続・書き込み、定期実行、複数Bot連携などです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "画面が小さくても、数値や操作名は本文で照合できるようにしています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "解答と照合することで、読者自身が確認の観点を身に付けるためのものです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人が元資料と照合できる成果になったかを基準にします",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "興味のある応用章から選んでも構いませんが、入力と結果を照合する基本は第2章で身に付けてください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "重要なのは量よりも、矛盾がないことです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実務では文脈から推定する場合もありますが、この演習の条件は「本文にない年月日を補わない」です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推定が役立つ場面でも、確定情報とは分けて表示させる必要があります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/ai_shain_lab_jp/n/n8d0af86cc9cf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sumitsuke/n/ndc9f7089df63",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jg1bqz/n/nd056e0875222",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pumalfb/n/nbda0820ff41c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pumalfb/n/n6bd8d79ad748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moritomokyan/n/n8549d50bb719",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://debono.co.jp/media/tossup-kijun-kensan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sonaeareba/n/n78ddc46b6d96",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/1567",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://xn--8pr380g.com/ja/blog/data-totsugou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://excel-komarigoto.com/excel%E3%81%AE%E6%99%82%E7%9F%AD%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/excel%EF%BC%92%E8%A1%A8%E7%AA%81%E3%81%8D%E5%90%88%E3%82%8F%E3%81%9B%E3%81%8C%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E6%96%B9%E6%B3%95/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ha.athuman.com/tokyo/blog/assets_c/2015/06/%E5%85%83%E3%83%87%E3%83%BC%E3%82%BF1-24659.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://debono.co.jp/media/ai-usecase/document-fact-crosscheck/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://booth.pm/ja/items/8933837",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/excel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dualentry.com/blog/what-is-account-reconciliation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simetrik.com/glossary/reconciliation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stripe.com/resources/more/accounting-reconciliation-101",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.highradius.com/resources/Blog/general-ledger-reconciliation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.cornell.edu/controller/internalcontrols/unitlevelactivities/reconciliation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tipalti.com/resources/learn/account-reconciliation/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） site:note.com",
+   "results": [
+    "https://note.com/ai_shain_lab_jp/n/n8d0af86cc9cf",
+    "https://note.com/sumitsuke/n/ndc9f7089df63",
+    "https://note.com/jg1bqz/n/nd056e0875222",
+    "https://note.com/pumalfb/n/nbda0820ff41c",
+    "https://note.com/pumalfb/n/n6bd8d79ad748",
+    "https://note.com/moritomokyan/n/n8549d50bb719",
+    "https://note.com/threeplussix/n/n7862ca73381a",
+    "https://note.com/alert_human3909/n/nb483c34803f1",
+    "https://note.com/crypvo/n/nfed65c0226a2",
+    "https://note.com/quirky_panda2214/n/nde96615d6b3c"
+   ]
+  },
+  {
+   "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） note",
+   "results": [
+    "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "https://debono.co.jp/media/tossup-kijun-kensan/",
+    "https://note.com/sonaeareba/n/n78ddc46b6d96",
+    "https://nano.globis.ac.jp/r/digital-glossary/article/1567",
+    "https://note.com/sumitsuke/n/ndc9f7089df63",
+    "https://note.com/moritomokyan/n/n8549d50bb719",
+    "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
+    "https://xn--8pr380g.com/ja/blog/data-totsugou/",
+    "https://debono.co.jp/media/ai-usecase/document-fact-crosscheck/",
+    "https://booth.pm/ja/items/8933837"
+   ]
+  },
+  {
+   "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） やり方",
+   "results": [
+    "https://excel-komarigoto.com/excel%E3%81%AE%E6%99%82%E7%9F%AD%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/excel%EF%BC%92%E8%A1%A8%E7%AA%81%E3%81%8D%E5%90%88%E3%82%8F%E3%81%9B%E3%81%8C%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E6%96%B9%E6%B3%95/",
+    "https://ha.athuman.com/tokyo/blog/assets_c/2015/06/%E5%85%83%E3%83%87%E3%83%BC%E3%82%BF1-24659.html",
+    "https://note.com/sumitsuke/n/ndc9f7089df63",
+    "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
+    "https://note.com/moritomokyan/n/n8549d50bb719",
+    "https://xn--8pr380g.com/ja/blog/data-totsugou/",
+    "https://debono.co.jp/media/ai-usecase/document-fact-crosscheck/",
+    "https://booth.pm/ja/items/8933837",
+    "https://data-viz-lab.com/excel"
+   ]
+  },
+  {
+   "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） 事例",
+   "results": [
+    "https://note.com/sumitsuke/n/ndc9f7089df63",
+    "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
+    "https://note.com/moritomokyan/n/n8549d50bb719",
+    "https://debono.co.jp/media/ai-usecase/document-fact-crosscheck/",
+    "https://xn--8pr380g.com/ja/blog/data-totsugou/",
+    "https://data-viz-lab.com/excel",
+    "https://booth.pm/ja/items/8933837"
+   ]
+  },
+  {
+   "query": "reconcile conflicting market data definitions scope period revisions evidence ledger",
+   "results": [
+    "https://www.dualentry.com/blog/what-is-account-reconciliation",
+    "https://simetrik.com/glossary/reconciliation/",
+    "https://stripe.com/resources/more/accounting-reconciliation-101",
+    "https://www.highradius.com/resources/Blog/general-ledger-reconciliation/",
+    "https://finance.cornell.edu/controller/internalcontrols/unitlevelactivities/reconciliation",
+    "https://tipalti.com/resources/learn/account-reconciliation/",
+    "https://www.sage.com/en-us/blog/general-ledger-reconciliation/",
+    "https://www.wright.edu/financial-operations/controller/wings-express-finance-support/chapter-7-reconciliation-techniques",
+    "https://www.numeric.io/blog/general-ledger-reconciliation",
+    "https://cointab.net/resources/Ledger-Reconciliation-Checklist-Steps-and-Best-Practices"
+   ]
+  },
+  {
+   "query": "site:note.com 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
+   "results": [
+    "https://note.com/ai_shain_lab_jp/n/n8d0af86cc9cf",
+    "https://note.com/sumitsuke/n/ndc9f7089df63",
+    "https://note.com/moritomokyan/n/n8549d50bb719",
+    "https://note.com/threeplussix/n/n7862ca73381a",
+    "https://note.com/alert_human3909/n/nb483c34803f1",
+    "https://note.com/jg1bqz/n/nd056e0875222",
+    "https://note.com/workshiftlab_jp/n/ne25be25a6686"
+   ]
+  },
+  {
+   "query": "site:x.com 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
+   "results": [
+    "https://x.com/ai01080108/status/2114190270052917440",
+    "https://x.com/on_tsuba/status/2113397487482638561",
+    "https://x.com/Laki_ideal_life/status/2097132974273962436",
+    "https://x.com/matcha_ai_biz/status/2112536528887185685",
+    "https://x.com/matcha_ai_biz/status/2108189116517244984",
+    "https://x.com/ai_database/status/2114184481951330365",
+    "https://x.com/tomi_ai_work/status/2107765844461674724"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
+   "results": [
+    "https://jp.linkedin.com/pulse/understanding-slowly-changing-dimensions-scd-data-vikas-kumar-k31hc?tl=ja",
+    "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
+    "https://jp.linkedin.com/posts/oodateyoshimasa_在庫や発注のトラブルはデータが無いからではなく-あるデータ同士が突き合わされていない-activity-7486586032507990017-JkiH",
+    "https://jp.linkedin.com/posts/layerx_バクラク明細照合リリース-請求書と発注納品データを自動照合-ai-activity-7475699290317889536-OLYg",
+    "https://jp.linkedin.com/learning/excel-power-query-365-2019/2919003",
+    "https://jp.linkedin.com/pulse/data-importing-preprocessing-basics-power-bi-nimra-iman-gbdof?tl=ja",
+    "https://www.linkedin.com/posts/akiyama-ayano-62b75a70_sentinel-1データで12月と1月の3時期のデータを使って地震前と後とで変化抽出-activity-7152285514212036608-VBof"
+   ]
+  },
+  {
+   "query": "site:facebook.com 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）",
+   "results": [
+    "https://www.facebook.com/tastuo.oguri/posts/日本政府のデータと実質の油類関連した使用量の食い違い高市首相の見積もり発表している事に大きな誤りになると-今後ともどうなる日本は確実な情報が必要/26362787033364533/",
+    "https://www.facebook.com/funnary/posts/データを突き合わせて確認する時にvlookupの次に使えるのがこのexact関数httpswwwpqnavicomreportsview1625/1971880409735752/",
+    "https://www.facebook.com/atsushi.segawa.3/posts/リユース市場データブック2026を10月20日に発売します今回は2030年までのリユース企業店舗数の予測を収録しました全体だけでなく買取専門店と買取販売店に分け/28655442507482268/",
+    "https://www.facebook.com/masato.suzuki.564/posts/簗農水大臣の道路予算大幅カット発言に高橋洋一氏が反論国交省データと食い違いオールドメディアの報道姿勢にも疑問オールドメディア界のニューメディア静岡朝日テレビの情/28617751127877599/",
+    "https://www.facebook.com/matchdata/posts/マッチデータプロジェクトではデータを突き合わせて分析することを通じて人材マネジメントの各実践についてデータに基づいてpdcaのサイクルを回していくための支援をさ/1480597945490120/",
+    "https://www.facebook.com/landerblue/posts/企業prを丸呑みしないでちゃんとデータとかと突き合わせしようの巻httpswwwlanderbluecojpblogp39136/1933752733323922/",
+    "https://www.facebook.com/nikkei/posts/日米関税合意投資枠組みに食い違い-適用日は不明httpswwwnikkeicomarticledgxzqoua245640u5a720c2000000n_cid/1274179940720072/"
+   ]
+  },
+  {
+   "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） note 社長",
+   "results": [
+    "https://image.docswell.com/s/kokuren333/KY86QV-2026-10-03-191929",
+    "https://note.com/sumitsuke/n/ndc9f7089df63",
+    "https://note.com/moritomokyan/n/n8549d50bb719",
+    "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
+    "https://debono.co.jp/media/ai-usecase/document-fact-crosscheck/",
+    "https://xn--8pr380g.com/ja/blog/data-totsugou/",
+    "https://booth.pm/ja/items/8933837",
+    "https://data-viz-lab.com/excel"
+   ]
+  },
+  {
+   "query": "食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告） X 投稿",
+   "results": [
+    "https://kimkj.com/wp-content/uploads/2026/08/jiritsuteki-kagaku-hakken-no-jidai-20260820-ja.pdf",
+    "https://hayaron.kyukyodo.work/yakusya_by_ai",
+    "https://tokoiy.jp/kataro/",
+    "https://suyamapro.co.jp/topics/",
+    "https://spain-press.com/categories/%E7%A4%BE%E4%BC%9A/",
+    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
+    "https://image.docswell.com/s/kokuren333/KY86QV-2026-10-03-191929",
+    "https://ai-news.iru-yo.com/topic/ai-community/",
+    "https://github.com/mistval/edict-index/blob/master/frequency.json",
+    "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c"
+   ]
+  },
+  {
+   "query": "reconcile conflicting market data definitions scope period revisions evidence ledger site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/building-golden-source-reduce-bank-reconciliation-efforts-zarikar-gleqf",
+    "https://www.linkedin.com/posts/yuvaraj-aravindan-93689a25_sap-sapbtp-sox-activity-7517912229980225537-_uM1",
+    "https://www.linkedin.com/pulse/continuous-audit-through-ai-transforming-assurance-andre-3a7ne",
+    "https://www.linkedin.com/posts/jdcybertech_jdcybertech-itac-itapplicationcontrols-activity-7520166780842201088-fX5k",
+    "https://www.linkedin.com/posts/philipp-hellwing-0a9349b6_%F0%9D%97%95%F0%9D%97%B2%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%AE-%F0%9D%97%98%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B6-activity-7513499605385334784-0ayx",
+    "https://www.linkedin.com/pulse/when-everyone-has-data-one-context-crisis-information-andre-osobe",
+    "https://www.linkedin.com/pulse/enterprise-finance-accounting-automation-through-ai-rl-ramachandran-vyrxe",
+    "https://www.linkedin.com/pulse/can-ai-resolve-routine-procurement-finance-requests-andre-uy2ye",
+    "https://www.linkedin.com/pulse/9246m-came-back-week-only-three-companies-earned-leon-eisen-phd-6neke",
+    "https://www.linkedin.com/pulse/rise-erp-as-a-data-source-instead-system-record-shift-andre-lxhle"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "返ってきた結果を自分で点検できて、はじめて実務に使えるようになります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事は、楽天やAmazonなどのモールや自社サイトを運営するEC運営者・店舗担当者が、Grok Botに「1つの仕事」を渡し、その結果を自分で点検する力を身につけるための演習集です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "架空メール・架空ECデータで結果を自己採点する方法",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25本の依頼文と3つのケーススタディで、手元にすぐ使える型を持ち帰る",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、返ってきた結果を人が点検してはじめて、実務で使える成果物になります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機検証はケース1のみで、ほかの出力例はすべて執筆時の想定アンサーです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ケース1では、日用品3商品の点検表、週次報告、確認依頼の下書きを扱います",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ケース2は問い合わせ6件の対応表、返信案6通、FAQ候補です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ケース3は商品紹介文1本、SNS案2本、画像案3件、15秒動画台本1本です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ケース1のBot作成、入力確認、3商品の計算、確認事項の抜けの修正、会話内の週次報告を確認しています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機未検証なのは、ケース2・3、ケース1の確認依頼作成、インストールと初回認証、実サービスへの接続・書き込み、定期実行、複数Bot連携などです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公式資料や動画を参考にした説明と、実行して確認した結果は、この記事の中で区別しています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「2026-09-05_メール分類_01」のようにします",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば「分類が良くなった」と感じても、入力したメールが違えば、指示を直した効果なのか、簡単なメールに変わっただけなのか分かりません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Grok Botは、2026年8月にxAIとCursorが共同で公開した自律型AIエージェントです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "架空メール・架空ECデータで結果を自己採点する方法",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "複数Botに仕事を分ける「Swarm」の引き継ぎ手順",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "25本の依頼文と3つのケーススタディで、手元にすぐ使える型を持ち帰る",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Grok Botとは、xAIとCursorが共同で提供する、ブラウザーやアプリを自分で操作して仕事を進める自律型のAIエージェントです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここで大切なのは、立派な管理方法よりも、何を渡したら何が返ったかを見失わないことです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これを行うと、うまくいった理由を説明しやすくなり、担当者が変わったときにも手順を渡せます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第8章で確認済みの手順を保存・定期化し、第9章の点検票で運用を見直しましょう",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スキルは作業方法を保存した手順、ルーティンは実行する時刻や条件の設定、グループは複数の担当者が一つの成果を作るための会話の場所を指します",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そこでこの記事は、準備、単独作業、情報整理、数値分析、分担、デザインへの応用、手順の保存、運用の順にまとめました",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プラグインは外部サービスへの接続、スキルは作業方法の保存、ルーティンは実行する時刻や条件の設定です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "起動後の「Get started」からCursorアカウントで認証する（公式手順）",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "保存方法はアプリ版の実画面で確認してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分類方法の検討と、実メールへの適用を同じメッセージで依頼しないほうが、何を変えたかを確認しやすくなります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Gmailへの接続と、5件だけ読ませる手順",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "この記事の解答は、AIが出した文章をそのまま採用してよいという意味ではありません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本文「2026年9月7日17時までに採用する案をご返信ください」",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "返信案が自然でも、資料にない納期や値引きを約束していたら採用できません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では統計的な効果測定を保証しませんが、少なくとも変更日と変更内容、同時に変えた条件を記録するところから始められます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リンクが返った段階と、変更が採用された段階は別です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "提案が採用された割合は一つの参考になりますが、採用した判断そのものが正しかったかは別です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確認が甘ければ採用率だけ高くなることもあります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "案を採用する前に元ページを確認し、価格・広告・在庫を同時に変えたかも記録します",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "入力：input／作成中：drafts／点検結果：review／人が採用した版：approved／実行記録：logs",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用者、対象、変更内容、確認日時を別に記録する案にします",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同じ情報の重複説明を省き、却下された案と現在採用している案を分けます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人が決めること：確認担当、回答期限、採用する改善一件",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "説明欄の禁止事項は作業方針であり、技術的なアクセス権を隔離する設定ではない点に注意してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "逆に、毎回守る必要がある「原文にない期限は補わない」が会話の奥に埋もれてしまうと、後から見直しにくくなるので注意してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「6件中5件だから本番で問題ない」とは判断せず、失敗した条件を直してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "添付を実際に確認していない演習なので、添付の金額や発行者を読み取ったように書くことも誤りです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：個人情報保護委員会は2023年6月2日、生成AIサービスの利用に関する注意喚起を出しています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "後から件数が違ったときに、取得失敗なのか単位の違いなのかを切り分けられます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "知らない数百件をいきなり分類すると、誤りを発見するために元の数百件を読む必要があります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個人情報保護法の注意点は第3章を参照してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「全部もう一度」の前に、誤りの種類を伝えると同じ間違いを探しやすくなります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一回の仕事が成功する前に定期実行を作ると、誤りも繰り返されます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "担当Bot、入力の置き場所、データの日付、変更しない操作、失敗時の扱いを明記してください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：正しい例と、注意する例があるか",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回の誤り：配布予定日を返信期限として扱いました",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、変化なしの通知を減らすことと、失敗を隠すことは別です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "確認作業が増え続ける、元資料に戻れない、期限や金額の誤りが繰り返される場合は、自動化の範囲を狭めます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機検証はケース1のみで、ほかの出力例はすべて執筆時の想定アンサーです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、今回の実機検証はWindows版です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bot作成から計算・修正・週次報告までの実行記録を掲載していますが、確認依頼の下書き作成そのものは今回の実機検証の対象外です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いずれも教材用の演習と完成例で、Grok Botでの実機検証はまだ行っていません",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機検証済みなのは、2026年9月5日、記事制作者のWindows環境で、CodexのComputer UseによりGrok Botを操作した部分です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実際の返答を「実機検証」の章へ転記しています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実機未検証なのは、ケース2・3、ケース1の確認依頼作成、インストールと初回認証、実サービスへの接続・書き込み、定期実行、複数Bot連携などです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "画面が小さくても、数値や操作名は本文で照合できるようにしています",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "解答と照合することで、読者自身が確認の観点を身に付けるためのものです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人が元資料と照合できる成果になったかを基準にします",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "興味のある応用章から選んでも構いませんが、入力と結果を照合する基本は第2章で身に付けてください",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "重要なのは量よりも、矛盾がないことです",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実務では文脈から推定する場合もありますが、この演習の条件は「本文にない年月日を補わない」です",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "推定が役立つ場面でも、確定情報とは分けて表示させる必要があります",
+    "url": "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T16:40:00.005343+00:00"
+}

@@ -1,0 +1,3854 @@
+{
+ "name": "株式会社ソディック",
+ "aliases": [
+  "ソディック",
+  "Sodick"
+ ],
+ "context": "金属AM装置（OPM）",
+ "researched_at": "2026-11-06T16:46:21.535849+00:00",
+ "official_url": "https://www.sodick.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "期末配当金 受領株主確定日",
+    "value": "12月31日",
+    "url": "https://www.sodick.co.jp/ir/memo.html",
+    "pass": 1
+   },
+   {
+    "label": "中間配当金 受領株主確定日",
+    "value": "6月30日",
+    "url": "https://www.sodick.co.jp/ir/memo.html",
+    "pass": 1
+   },
+   {
+    "label": "株主名",
+    "value": "名寄株式数（株） 持株比率（％）",
+    "url": "https://www.sodick.co.jp/ir/memo.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社／技術・研修センター 〒224-8522　横浜市都筑区仲町台3-12-1 TEL： (045)942-3111 (大代) 加賀事業所 〒922-0595　石川県加賀市宮町力1-1 TEL： (0761)75-2000 (大代) 福井事業所 〒919-0598　福井県坂井市坂井町長屋78 TEL： (0776)66-8877 (大代) 宮崎事業所 〒889-1701　宮崎県宮崎市田野町甲8798-239 TEL： (0985)-64-6000 (大代)",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：昭和51年8月3日(創業 昭和46年2月)",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 CEO 社長執行役員　圷 祐次",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役会長",
+    "value": "古川健一",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役 CEO 社長執行役員",
+    "value": "圷 祐次",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "代表電話",
+    "value": "045-942-3111",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "label": "・団体戦（日本代表）",
+    "value": "準優勝",
+    "url": "https://www.sodick.co.jp/pdf/261020155317_Press_Release_Results_Report_World_Sumo_Championships_2026_20261019.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "3,272名(連結)　1,173名(個別)　※2025年12月期",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "717億円 YoY +27.3%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "556億円 YoY +33.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "83億円 YoY +16.3%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "43億円 YoY +6.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "34億円 YoY -1.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "参入の時期と形": [
+   {
+    "quote": "設立50周年を迎えた今、新たな時代の中でさらなる成長へ私たちは進みます",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年を迎え、ショールームをリニューアルいたしまして、新しいショールームで金属3Dプリンタをご覧いただけます",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年記念配当に関するお知らせ（PDF:202KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "最大可搬質量43kgを実現した電極・ワーク交換装置「SZ50」販売開始",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【設立50周年記念モデル】リニアモータ駆動 高速・高性能 精密形彫り放電加工機 「A40G」「A60G」販売開始",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 年頭所感 ―設立50周年を迎え、新たな理念体系のもとでさらなる成長を推進―",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期につきましては、設立50周年を記念し、記念配当を含め1株当たり35円の配当を予想しておりますが、2027年12月期以降は当該35円を基礎配当水準と位置付け、当該水準を下回らない累進配当を実施する方針です",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年を迎えた今､新たな時代の中でさらなる成長へ私たちは進みます",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年を迎えた今､",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "アジアを中心とした海外生産移管、ITの先進国であるアメリカでの開発拠点設立など、各エリアの特性を見据えた拠点戦略を促進するとともに、市場ごとの変化を素早く据えるマーケティング網の整備にも注力しています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "に加え、中国・厦門（アモイ）工場での生産も開始します",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社は本年、設立50周年を迎え、ショールームをリニューアルいたしました",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受付開始 12:30",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設立50周年のご挨拶",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おかげさまで当社は本年8月に設立50周年を迎えました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 設立50周年記念モデル",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、本転換社債の保有者であるAAGS S14, L.P.及び株式会社アドバンテッジパートナーズとの事業提携関係に変",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "すぐに再生が開始しない場合は、デバイスを再起動してください",
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター事業を次の成長の柱へ ――ソディックが伊AltFormの買収を決めた理由【前編】 | Frontier Eyes Online by フロンティア・マネジメント",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター事業を次の成長の柱へ ――ソディックが伊AltFormの買収を決めた理由【前編】",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "（買収当時はPrima Additive）へ出資し、翌25年に子会社化した",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "放電による熱の力で金属を加工する放電加工機で世界トップクラスのシェアを誇るソディックは、なぜ金属3Dプリンターを次の成長領域に選び、AltFormへの出資・買収に踏み切ったのか",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場に入り込むための「ツテ」も買収の魅力",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年にマイノリティ出資をした後に、2025年に子会社化しました",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "出資後の約1年間は、経営陣が約束したことを実際に進める能力があるのか、ということを確認するために必要な時間でした",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "その道筋が見えたことが、買収の前提になりました",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "1988年のタイ工場の設立から携わり、製品設計・開発、製造、生産管理等幅広い業務経験がある",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "【後編】ソディックのリソース×AltFormのスピード感 ――買収シナジーと次のM&...",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "【後編】ソディックのリソース×AltFormのスピード感 ――買収シナジーと次のM&Aへの布石",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の株式取得は、2024年4月1日付で締結された資本業務提携契約に基づき、コールオプションの行使によって実施されたものである",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックは2014年に金属3Dプリンター事業に参入し、冷却水管を内部に3D形成可能な金型（プラスチック・ダイカスト）を中心に展開してきた",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "1980年設立以来、「創造・実行・苦労・感謝」を理念に、最先端のものづくりを支えている",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3DプリンターメーカーのPrima Additiveは、Prima Industrieグループの一員として設立された",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック、その他買収の関連記事",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックが大型金属3DプリンターLPM450を発売",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop社がcloudfluid社を買収し、設計から製造までのワークフローを強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の技術投資会社Anzu社がvoxeljet AG社を買収する契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックは、工作機械向け統合リモートサービスプラットフォーム「SatelinC（サテリンク）」の提供を開始した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックが伊の金属3Dプリンタ企業と資本業務提携、相互の製品拡充など推進",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックはイタリアのPrima Additiveが実施する第三者割当増資を引き受け、業務提携実施に関する契約を締結した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスがPLC専用AIエージェントを発売へ、自然文でラダー作成",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック設立50周年 圷祐次社長に聞く",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械などの製造を手掛けるソディックは2026年8月、設立50周年を迎える",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "1976年の設立以来、顧客の課題を解決する製品やサービスを生み出しながら技術力を高め、成長を続けてきた",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "――ソディック設立の背景と、現在の事業概要を教えてください",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月にはイタリアの金属3Dプリンタ製造会社を子会社化し、同11月には射出成形機の欧州市場拡販を目指して、商社の山善とドイツに新会社を設立することを発表しました",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "事業成長のリソースを強化するためにも、引き続きM＆A（合併・買収）は視野に入れていきます",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "設立50周年のテーマは「新たな時代の中でさらなる成長へ」",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "― 設立50周年 ― 世の中にないなら、自分たちでつくる",
+    "url": "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立50周年を迎え、これからもものづくり現場と共に歩むパートナーであり続けます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック株式会社は1976年に設立された工作機械メーカーであり、その創業事業はNC放電加工機（EDM）でした 1",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "2. 競争環境と参入障壁",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械のような資本集約型産業では、高度な製造設備と洗練された研究開発能力への多額の先行投資が必要となるため、これが大きな参入障壁となります",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "このコスト効率と一貫した品質の両立は、新規参入企業が同様の規模とグローバルな統合なしに競争することが極めて困難な、実質的な規模の経済性による障壁を形成しています",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械産業において、このような最先端のグローバルな研究開発および生産施設を開発・維持するために継続的に必要とされる巨額の設備投資は、新たな競争相手の参入を効果的に抑制する、強固な参入障壁となっています",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. 製品差別化と独占的な製品技術",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "特許や企業秘密によって保護される独占的な技術は、競合他社が模倣することが困難な排他的な優位性をもたらします",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   }
+  ],
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "工作機械や産業機械のノウハウを活かしたソディックの食品機械には、製麺装置、茹麺装置、無菌包装米飯製造システムなどのラインナップがあります",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AI・データセンター需要の拡大に対応 光通信コネクタ向け超精密射出成形機の生産能力を増強（PDF:226KB）",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックグループはサステナビリティを巡る課題への対応を重要な経営課題と認識し、",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AI・データセンター需要の拡大に対応 光通信コネクタ向け超精密射出成形機の生産能力を増強",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "グループの最重要経営課題として特定した４つのマテリアリティの一つとして、「環境マネジメントへの対応」を掲げ、中長期的な企業価値向上の観点から、カーボンニュートラル、地球温暖化、省エネルギー、化学物質管理等の各テーマに取り組んでいきます",
+    "url": "https://www.sodick.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "本計画のスローガンとして「Represented × Redesigned × Reignited」を掲げ、技術・組織・人材の進化を通じて競争力を強化します",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客課題の解決を起点に競争優位性を確立し、持続的成長の実現をめざします",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様の課題に共に取り組み、新たな付加価値を生み出す」",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様の課題を深く理解し、共に向き合うことで、単なる解決にとどまらず、新たな価値を創造します",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、あらゆるモノづくりの現場の課題に挑戦し、共に未来を創る存在であり続けます",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題に共に取り組み、新たな付加価値を生み出していく",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックは「お客様のものづくりのお役に立ちたい」の一心のもと、お客様のどんなささいな要求にも耳を傾け、どんなに困難な技術課題にも挑戦して克服し、お客様とともに問題解決してまいりました",
+    "url": "https://www.sodick.co.jp/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "「ものづくり」のあらゆるプロセスにおいて、お客様の課題解決をサポートします",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "このように、「ものづくり」をトータルでサポートすることで、各工程における最新情報やノウハウを蓄積でき、お客様の「ものづくり」における技術課題に対して、つねに最適なソリューション（解決策）をご提供できる体制を構築しています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、海外連携を保てるよう各拠点・工程に、品質責任者である当社独自のPQL(Products Quality Leader)を設置し、グローバルな横の連携強化を図っています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "認証登録証は、株式会社日本環境認証機構に帰属するものですので、不特定多数に転用されたり、使用用途が明確でなく、いつ、誰に渡したかの特定ができないとならないよう周知願います",
+    "url": "https://www.sodick.co.jp/company/iso_domestic.html",
+    "pass": 1
+   },
+   {
+    "quote": "勝手にPDF転送されたり、お客様への配付管理がされていなかったりすると、認証登録の抹消となります",
+    "url": "https://www.sodick.co.jp/company/iso_domestic.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックグループでは、紛争鉱物問題解決への取組を企業の社会的責任と捉え、紛争鉱物を使用しない方針です",
+    "url": "https://www.sodick.co.jp/company/procure.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックグループでは、自然災害、事故、テロ等の緊急事態発生時におけるサプライチェーンの寸断リスクを軽減しつつ、中核事業の継続あるいは早期復旧を可能とするために、事業継続計画（BCP）の策定をしています",
+    "url": "https://www.sodick.co.jp/company/procure.html",
+    "pass": 1
+   },
+   {
+    "quote": "それに伴い、サプライチェーン全体のリスクを把握するため、サプライヤー様のBCP策定状況を調査しています",
+    "url": "https://www.sodick.co.jp/company/procure.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、ソディックグループでは、BCP策定をサプライチェーン上に存在する全企業の社会的責任と考えています",
+    "url": "https://www.sodick.co.jp/company/procure.html",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル調達による調達先の広範囲化が進む中で、サプライチェーン上でのさまざまなリスクが考えられますが、日本国内及び海外グループ会社のサプライヤー様にBCPの重要性をご説明の上、継続的な調査にご協力頂いています",
+    "url": "https://www.sodick.co.jp/company/procure.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ソディックは、AI・データセンターの市場拡大を背景に需要が急増している光通信コネクタ向け超精",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生成 AI の普及に伴い、データセンター内外の高速・大容量通信需要が急速に高まっています",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "間では膨大なデータ通信が発生するため、高速光通信を支える光コネクタへの需要が世界的に伸長していま",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これにより、グローバルでの需要拡",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆データセンター向け光コネクタの堅調な需要が継続し、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆製麺設備の堅調な需要は継続し増収の一方で",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆金型生産の最大地域である中華圏で好調な需要が継続するとともに、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆データセンター向け光コネクタの旺盛な需要が継続し増収",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆国内外における製麺設備の需要が堅調に推移し増収",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "部品、航空宇宙・エネルギー関連需要",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加えて、AI・データセンター関連需要を背景に",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 次の50年を見据えた人材戦略",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 麺・米飯で蓄積したノウハウを新市場へ展開",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ コンビニ・外食・食品メーカー向け需要の拡大",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AP社から得られるノウハウ・ネットワークの内製化",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "守りのガバナンスの強化 ⚫ 数値目標は設定せず、取締役会実効性評価、内部統制、リスクマネジメント、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンプライアンス等の観点からの課題解決を図る",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ データセンター向け光コネクタ需要の継続性",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のような将来に関する記述には、既知または未知のリスク、不確実性、その他実際の結果または当社の業績が、明示的また",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2．修正の理由",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124523.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 12 月期通期連結業績予想につきましては、工作機械事業において、中華圏の旺盛な需要を背景に",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124523.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "問合せ先責任者 （役職名）取締役 常務執行役員 （氏名）高木 正人 ＴＥＬ 045-942-3111",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イナや中東情勢などの地政学的リスクの継続により依然として先行きは不透明な状況にあります",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "けをはじめとする電子部品・光コネクタ・半導体などの旺盛な需要が継続しております",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "標とする中期経営計画「Grow Forward 2029」を策定し、超高精度・微細加工による成長市場の課題解決及び省人",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の再構築などの「経営基盤の強化」、資本コストと株価を意識した経営及び成長投資の確実な実行などの「財務戦",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本政策に係る取組みとして、金融機関における政策保有株式の見直しに伴う売却需要、及び当社が2025年８月",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４日に発行した第２回無担保転換社債型新株予約権付社債の一部転換に伴う売却需要（なお、当該転換に際しては",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術・開発活動におきましては、当社が50年にわたり蓄積してきた研究開発ノウハウを結集し、大型電極を用い",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、旺盛なデータセンター関連市場を背景に需要が急速に拡大している光コネクタ向けに、さらなる",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金型生産の最大地域である中華圏において電子部品、半導体、NEVなどの好調な需要が継続しました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の各地域においても堅調な需要が継続し、全地域で増収となったことから、売上高は前年同期比で大幅な増加となり",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後もデータセンター向け光コネクタの旺盛な需要が高水準で推移する見込みに加え、電子部品・半導体・コネクタ",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データセンター向け光コネクタの旺盛な需要が継続する一方で、自動車関連における設備投資の先送りが継続した",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "足元でのデータセンター向け光コネクタの急激かつ旺盛な需要へ対応するため、各工場における増産体制の整備を進",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内外における製麺設備の需要が堅調に推移し、売上高は前年同期比で増加となりました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１.自己株式の取得を行う理由",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属３Dプリンター事業を次の成長の柱へ ――ソディックが伊AltFormの買収を決めた理由【前編】 | Frontier Eyes Online by フロンティア・マネジメント",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "トップメッセージや基本理念から、拠点情報・沿革といった会社概要までご覧いただけます",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックは、世界首位級のシェアを持つ放電加工機をはじめ、精密マシニングセンタや金属3Dプリンタ、微細レーザ加工機など、お客様の多種多様なご要望にお応えできるよう、幅広いラインナップの製品を提供しています",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「金属AMプライベートショー」を開催いたします",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年を迎え、ショールームをリニューアルいたしまして、新しいショールームで金属3Dプリンタをご覧いただけます",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属AMの最新技術や活用事例をご紹介し、導入や活用をご検討の皆様に役立つ情報をお届けいたします",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はお客様のものづくりに貢献するため、常に社是である「創造、実行、苦労・克服」を実践することで、放電加工機だけでなく高精度なマシニングセンタ、金属3Dプリンタ、レーザー加工機、独自技術のVライン方式を活かした射出成形機、さらに製麺装置を中心とした食品機械などの製造販売を行ってまいりました",
+    "url": "https://www.sodick.co.jp/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "500億円の営業CF",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "戦略投資に200億円",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "（AP社からの資金調達分100億円含む）を充当し事業成長、",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元に165億円",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックは、世界中のお客様が安心して使え、次も使いたいと思える製品づくりを通して、社会価値の向上に貢献するため、TQM(Total Quality Management)の観点から品質推進体制として、当社独自の業務改革・改善のためのQVP+(Quality Victory Plan)活動を、代表取締役の品質・環境・安全全社方針に基づき、海外の各拠点を含めた全社で展開しています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、海外連携を保てるよう各拠点・工程に、品質責任者である当社独自のPQL(Products Quality Leader)を設置し、グローバルな横の連携強化を図っています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界中の「ものづくり」を支えるために、開発、生産、販売拠点のグローバル化を促進しています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "アジアを中心とした海外生産移管、ITの先進国であるアメリカでの開発拠点設立など、各エリアの特性を見据えた拠点戦略を促進するとともに、市場ごとの変化を素早く据えるマーケティング網の整備にも注力しています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "805億円(連結) 455億円(個別) ※2025年12月期",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密金属3Dプリンタ",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ窓口",
+    "url": "https://www.sodick.co.jp/company/office.html",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは、各生産拠点とその国の特長についてご紹介します",
+    "url": "https://www.sodick.co.jp/company/location.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社／技術・研修センター、日本国内全ての拠点",
+    "url": "https://www.sodick.co.jp/company/iso_domestic.html",
+    "pass": 1
+   },
+   {
+    "quote": "放電加工機､マシニングセンタ､金属3Dプリンタ、レーザー加工機、射出成形機、食品機械、植物性人工肉製造装置、また関連するリニアモータ、回転モータ、モータドライバ、CNC装置､モーションコントローラ、精密ステージ、これらに関連するシステムも含めた開発、設計、製造、販売、メンテナンスサービス",
+    "url": "https://www.sodick.co.jp/company/iso_domestic.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年の射出成形機の出荷台数は、約 900 台を予定しています",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "荷台数を 2026 年比約 3 倍へ拡大することを目指します",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■日本・タイ・中国の 3 拠点でのグローバル生産体制を構築",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これまで当該機種は、日本とタイの 2 拠点で生産していましたが、生産能力増強に向けて、両拠点での増産",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生産体制を 3 拠点に再編し、生産能力約 3 倍への拡大を目指す",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このたび、2026年12月9日（水）、ソディック本社／技術・研修センターにて「金属AMプライベートショー」を開催いたします",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当日は、新しいショールームで金属3Dプリンタをご",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属AMの最新技術や活用事例をご紹介し、導入や活用をご検討の皆様に役立つ情報をお届けいたします",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精密金属3Dプリンタ",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高速造形 金属3Dプリンタ",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高い汎用性 金属3Dプリンタ",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ セグメント利益の調整額 -26億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高： 717億円 YoY +27.3%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益： 72億円 YoY +42億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高： 556億円 YoY +33.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益： 87億円 YoY +44億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高： 83億円 YoY +16.3%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益： 6億円 YoY +3億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高： 43億円 YoY +6.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益： 4億円 YoY -0億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高： 34億円 YoY -1.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益： 0億円 YoY -0億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生産台数増加による工場稼働率向上や生産効率",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 49,936 51,005 56,346 71,752 +27.3%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 14,634 16,607 19,991 27,522 +37.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 29.3% 32.6% 35.5% 38.4% +2.9pt",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上効果 収益性 人件費（販管費） その他販管費 FY2026Q3営業利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 35,525 37,448 41,617 55,645 +33.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 6,367 6,395 7,188 8,358 +16.3%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 4,573 3,529 4,039 4,309 +6.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 3,468 3,631 3,499 3,438 -1.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品販売 / 保守サービス・消耗品 （単位：百万円）地域別売上高 （単位：百万円）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上効果 その他販管費収益性 人件費（販管費）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆増収に伴う利益率改善に加え、生産台数増加による工場稼働率向上が継続し増益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "放電加工機 金属3Dプリンタ マシニングセンタ",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆増収に伴う利益率改善に加え、生産台数増加による工場稼働率が向上し増益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "要を背景とした光コネクタ向け精密射出成形機の販売が好調に推移しており 、売上高は前回発表予想を上回",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124523.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益面につきましては、生産台数の増加に伴う工場稼働率の向上などにより、営業",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124523.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する四半期純利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する当期純利益 １株当たり当期純利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "工作機械は、プラスチックなどの素材を成形加工する際に必要となる「金型」や、各種機械の金属部品を作るなど、全てのモノづくりの原点として活躍しています",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機械事業では、原料を溶かし、金型に注入して成形品を作り出す射出成形機の開発・製造・販売を手掛けています",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "原料に熱を加えて溶かす可塑化スクリュと、溶かした原料を金型に流し込む射出プランジャを独立させた独自機構「V-LINE」を搭載したソディックの射出成形機は、特に精密成形領域で優位性を発揮します",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工作機械や産業機械のノウハウを活かしたソディックの食品機械には、製麺装置、茹麺装置、無菌包装米飯製造システムなどのラインナップがあります",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "V-LINE技術と脱気技術を融合した「V-LINE Complete」をはじめ、乾燥工程の削減による省エネルギー化や再生材の有効活用を実現する最新技術をご覧いただけます",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これらは全て「ものづくりのための金型」を製作する工作機械の発展なくしては実現できないことでした",
+    "url": "https://www.sodick.co.jp/company/t_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "この形彫り放電加工機のNC化（数値制御化）により金型の精度が飛躍的に向上しました",
+    "url": "https://www.sodick.co.jp/company/t_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "このころ、ソディックの放電加工機を用いて精度よく作られたプラスチック金型を使って成形しても、最終プラスチック部品の品質が安定しないとのお客様からの声をよく耳にするようになりました",
+    "url": "https://www.sodick.co.jp/company/t_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究の結果、プラスチック樹脂を溶かす可塑化と言う部位と、その溶けた樹脂を金型へ注入する射出と言う部位を分けた、今までに無い「V-LINE",
+    "url": "https://www.sodick.co.jp/company/t_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "方式と併せて、金型を真っ直ぐに閉じる「直圧型締機構」を搭載した「ハイブリッド成形機」を完成させました",
+    "url": "https://www.sodick.co.jp/company/t_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "また工作機械分野では、前述のソディックモーションコントローラ（SMC）で培った制御技術を元に、工作機械のシーケンシャル制御のみならず、幅広い産業機械の自動制御を可能とするプログラマブルロジックコントローラ（PLC）を開発しております",
+    "url": "https://www.sodick.co.jp/company/t_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックグループは、サステナビリティ活動の推進を担う専門組織であるエネルギー・設備管理室を中心に、これまで継続してきた環境保全活動に加え、より実効性のある取り組みを推進する体制を整えています",
+    "url": "https://www.sodick.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループの最重要経営課題として特定した４つのマテリアリティの一つとして、「環境マネジメントへの対応」を掲げ、中長期的な企業価値向上の観点から、カーボンニュートラル、地球温暖化、省エネルギー、化学物質管理等の各テーマに取り組んでいきます",
+    "url": "https://www.sodick.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックグループは、「Total Manufacturing Solution」を事業コンセプトとして、CAD/CAMシステムによる製品の設計から、放電加工機・マシニングセンタによる金型や部品の加工、電子ビームPIKA面加工装置による加工表面の仕上げ、射出成形機やプレスセンタによる成形品にいたるまで、「ものづくり」に関するあらゆる工程をサポートしています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容：精密金型・精密成型品の製造、販売",
+    "url": "https://www.sodick.co.jp/company/network.html",
+    "pass": 1
+   },
+   {
+    "quote": "◆工作機械事業が好調を維持し、産業機械事業も伸長",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆金型生産の最大地域である中華圏で好調な需要が継続するとともに、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体、NEV等幅広い業種から",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空宇宙・医療関連が堅調に推移し、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空宇宙関連は好調な一方、その他",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "部品、航空宇宙・エネルギー関連需要",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加え、産業機械事業も好調に推移し、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AI・データセンター市場（工作機械・産業機械） 惣菜・菓子・パン市場（食品機械）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金型、成形が求められる",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工作機械事業 産業機械事業 食品機械事業 その他事業",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ ICT・車載・医療・軽金属・リサイクル",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属3Dプリンタ 半導体製造装置",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 微細・高精度が必要となる医療分野、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体製造装置関連、光学分野、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空宇宙分野、データセンター関連",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 医療機器、AI、航空宇宙等に向けた高精度加工ソリューションを提案",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 産業機械、食品機械セグメントについては変更なし",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、産業機械事業においても、AI・データセンター関連需",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124523.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な回復基調が継続した一方で、不安定な為替相場、金利の上昇、原材料価格・エネルギー価格の高止まり、ウクラ",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業種別では自動車産業において地域により濃淡はあるもののグローバルでは伸び悩む一方で、データセンター向",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "けをはじめとする電子部品・光コネクタ・半導体などの旺盛な需要が継続しております",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術・開発活動におきましては、当社が50年にわたり蓄積してきた研究開発ノウハウを結集し、大型電極を用い",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同展示会では医療・AI関連、航空・宇宙関連、産業用ガスタービン関連をテーマに超精密ワイヤ放電加工機",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金型生産の最大地域である中華圏において電子部品、半導体、NEVなどの好調な需要が継続しました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後もデータセンター向け光コネクタの旺盛な需要が高水準で推移する見込みに加え、電子部品・半導体・コネクタ",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産業機械事業 売上高 8,358百万円 （前年同期比 16.3％増 ）営業利益 667百万円 （前年同期比 302百万円増 ）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データセンター向け光コネクタの旺盛な需要が継続する一方で、自動車関連における設備投資の先送りが継続した",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精密コネクタなどの受託生産を行う金型成形事業とセラミックス製品、LED投光器等の販売を行う要素技術事業から",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加え、金型成形事業において主要取引先である自動車業界が低調に推移したことにより、売上高、セグメント利益と",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「その他」の区分は、報告セグメントに含まれない事業セグメントであり、精密金型・精密成形事業、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント その他 合計工作機械 産業機械 食品機械 （注）１",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント その他 合計工作機械 産業機械 食品機械 （注）２",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２.「その他」の区分は、報告セグメントに含まれない事業セグメントであり、精密金型・精密成形事業、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "造形の途中で切削することで最終的に高精度な面を残せるため金型に適しており、複数工程を一台に集約できるのが特徴です",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "金型内部に自由な形状の「３D冷却水管」を設け、冷却時間の短縮や冷却ムラを軽減できることも大きな利点でした",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型業界は事業者数が減り、高齢化で若い人材が不足している会社も多くなっています",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、製品が多品種少量化し、同じものを大量に作る案件が減ると、金型への投資回収の考え方も変わります",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、AltFormはPBFに加え、DED（指向性エネルギー堆積法）の技術を持っていました",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "金型だけでなく、部品生産や補修まで市場を広げようとすれば、DEDは外せない技術だと考えました",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー加工や金属3Dプリンターは欧米が先行し、航空宇宙、自動車、エネルギーなどで受け入れられてきました",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州には、日本と異なる研究開発の環境もあるそうですね",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "EUの研究開発枠組みにも継続的に関わり、将来どのように技術や規制が動くかという情報を早くつかんでいる",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "今、分かりやすい例は自動車用ブレーキディスクのコーティングです",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙ではエンジンや機体関連、エネルギー分野ではガスタービンのブレード補修などが考えられます",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック、金型革新を支える金属3Dプリンター事業の深化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "工作機械は、プラスチックなどの素材を成形加工する際に必要となる「金型」や、各種機械の金属部品を作るなど、全てのモノづくりの原点として活躍しています",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックは、世界首位級のシェアを持つ放電加工機をはじめ、精密マシニングセンタや金属3Dプリンタ、微細レーザ加工機など、お客様の多種多様なご要望にお応えできるよう、幅広いラインナップの製品を提供しています",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「金属AMプライベートショー」を開催いたします",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年を迎え、ショールームをリニューアルいたしまして、新しいショールームで金属3Dプリンタをご覧いただけます",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属AMの最新技術や活用事例をご紹介し、導入や活用をご検討の皆様に役立つ情報をお届けいたします",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "こうして、高精度に位置決め動作させるための指示を出すNC装置（数値制御装置）と、高精度に金属加工を行うことのできる機械構造をもった放電加工機を自社開発しました",
+    "url": "https://www.sodick.co.jp/company/t_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究の結果、プラスチック樹脂を溶かす可塑化と言う部位と、その溶けた樹脂を金型へ注入する射出と言う部位を分けた、今までに無い「V-LINE",
+    "url": "https://www.sodick.co.jp/company/t_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "横浜銀行の「カーボンオフセット型私募債」を発行",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はお客様のものづくりに貢献するため、常に社是である「創造、実行、苦労・克服」を実践することで、放電加工機だけでなく高精度なマシニングセンタ、金属3Dプリンタ、レーザー加工機、独自技術のVライン方式を活かした射出成形機、さらに製麺装置を中心とした食品機械などの製造販売を行ってまいりました",
+    "url": "https://www.sodick.co.jp/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループの最重要経営課題として特定した４つのマテリアリティの一つとして、「環境マネジメントへの対応」を掲げ、中長期的な企業価値向上の観点から、カーボンニュートラル、地球温暖化、省エネルギー、化学物質管理等の各テーマに取り組んでいきます",
+    "url": "https://www.sodick.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密金属3Dプリンタ",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ窓口",
+    "url": "https://www.sodick.co.jp/company/office.html",
+    "pass": 1
+   },
+   {
+    "quote": "放電加工機､マシニングセンタ､金属3Dプリンタ、レーザー加工機、射出成形機、食品機械、植物性人工肉製造装置、また関連するリニアモータ、回転モータ、モータドライバ、CNC装置､モーションコントローラ、精密ステージ、これらに関連するシステムも含めた開発、設計、製造、販売、メンテナンスサービス",
+    "url": "https://www.sodick.co.jp/company/iso_domestic.html",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、2026年12月9日（水）、ソディック本社／技術・研修センターにて「金属AMプライベートショー」を開催いたします",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当日は、新しいショールームで金属3Dプリンタをご",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属AMの最新技術や活用事例をご紹介し、導入や活用をご検討の皆様に役立つ情報をお届けいたします",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精密金属3Dプリンタ",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高速造形 金属3Dプリンタ",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高い汎用性 金属3Dプリンタ",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "放電加工機 金属3Dプリンタ マシニングセンタ",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "横型射出成形機 竪型射出成形機 軽金属射出成形機",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ ICT・車載・医療・軽金属・リサイクル",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 金属３Dプリンタを活用した部材の",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 金属3Dプリンタを活用した",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属3Dプリンタ 半導体製造装置",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カーボンニュートラルに向けて再生可能 エネル",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属3Dプリンタ マシニングセンタ レーザー加工機",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 金属積層造形、アプリケーションサンプルの展示を通じて総合的な技術力を訴求",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属3Dプリンタ 「Print Brilliance 400」（AltForm社製） 等",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 国内初披露となるAltForm製金属3Dプリンタによる",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属3Dプリンタ 「Print Sharp 200」（AltForm社製） 等",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AltForm社製金属３Ⅾプリンタ「Print Brilliance 400」等を出展し、シェア拡大に向け積極的な営業活動を展開し",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【金属3Dプリンタ】LPM325 紹介動画 - YouTube",
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "pass": 3
+   },
+   {
+    "quote": "【金属3Dプリンタ】LPM325 紹介動画",
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "pass": 3
+   },
+   {
+    "quote": "何もない金属面から文字が浮き出る印鑑を作るプロセス",
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の溶融凝固による3D造形と、加工物への基準面加工を1台で行う、",
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタのエントリーモデル",
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "pass": 3
+   },
+   {
+    "quote": "＜金属粉末の3D造形と基準面加工の複合加工機＞",
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末をレーザー光でスキャンすることにより溶融凝固させ3D造形を行い、また、段取り変えなしでの基準面加工を行う複合加工機です",
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発・製造の新型NC装置「RM4RP」は、マニュアル動作の各ボタンを金属3Dプリンタ専用に配置し、作業者にやさしい操作環境を提供します",
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター事業を次の成長の柱へ ――ソディックが伊AltFormの買収を決めた理由【前編】 | Frontier Eyes Online by フロンティア・マネジメント",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター事業を次の成長の柱へ ――ソディックが伊AltFormの買収を決めた理由【前編】",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "は、2024年にイタリアの金属3Dプリンターメーカーの",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "放電による熱の力で金属を加工する放電加工機で世界トップクラスのシェアを誇るソディックは、なぜ金属3Dプリンターを次の成長領域に選び、AltFormへの出資・買収に踏み切ったのか",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "事業の将来性、PBFとDEDという金属3Dプリンターの二つの方式の違い、欧州市場ならではの強み、そして投資の際に見極めたポイントを、同社取締役の塚本 英樹氏に聞いた",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "まず、ソディックが金属3Dプリンター事業に取り組んだ背景から教えてください",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "その後に登場したのが金属3Dプリンターです",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "は、敷き詰めた金属粉末をレーザーで溶かして一層ずつ積み上げるPBF（粉末床溶融結合）方式に、切削加工を組み合わせています",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックの金属３Dプリンター OPMシリーズ",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、機械を設置すればすぐに使えるというものではありません",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "敷き詰めた金属粉末の必要な部分だけをレーザーで溶かし、薄い層を積み重ねる方式で、複雑で精密な部品加工に向いています",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "DEDは、粉末やワイヤー状の金属材料を供給しながらレーザーなどで溶かし、必要な場所に直接盛っていく方式です",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "DED方式の金属３Dプリンターでの加工（AltFormホームページから）",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー加工や金属3Dプリンターは欧米が先行し、航空宇宙、自動車、エネルギーなどで受け入れられてきました",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "肉盛り溶接で補修する手法は以前からありましたが、金属３Dプリンターによって従来よりも自動化・効率化の可能性が広がります",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック、イタリアの金属3DプリンターメーカーPrima Additive社を子会社化 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック、イタリアの金属3DプリンターメーカーPrima Additive社を子会社化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソディック（横浜市都筑区、以下、ソディック）は、イタリア・トリノを拠点とする金属3DプリンターメーカーPrima Additive S.r.l.（以下、Prima Additive）の株式を追加取得し、同社を子会社化することを正式に決定した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック、金型革新を支える金属3Dプリンター事業の深化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックは2014年に金属3Dプリンター事業に参入し、冷却水管を内部に3D形成可能な金型（プラスチック・ダイカスト）を中心に展開してきた",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "私たちソディックは、数値制御（NC）放電加工機メーカーの先駆者であり、創業以来、放電加工制御の研究、NC装置開発などにより加工精度を飛躍的に向上させてきました",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年を迎えた今、新たな時代の中でさらなる成長へ私たちは進みます",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年を迎え、ショールームをリニューアルいたしまして、新しいショールームで金属3Dプリンタをご覧いただけます",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年記念配当に関するお知らせ（PDF:202KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "【設立50周年記念モデル】リニアモータ駆動 高速・高性能 精密形彫り放電加工機 「A40G」「A60G」販売開始",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 年頭所感 ―設立50周年を迎え、新たな理念体系のもとでさらなる成長を推進―",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちソディックは、NC放電加工機メーカーの先駆者として、創業以来、放電電源装置の研究、NC装置開発などにより加工性能を飛躍的に向上させ、世界中のものづくりに貢献してまいりました",
+    "url": "https://www.sodick.co.jp/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期につきましては、設立50周年を記念し、記念配当を含め1株当たり35円の配当を予想しておりますが、2027年12月期以降は当該35円を基礎配当水準と位置付け、当該水準を下回らない累進配当を実施する方針です",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年を迎えた今､新たな時代の中でさらなる成長へ私たちは進みます",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "設立50周年を迎えた今､",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はモノづくりの多様なニーズをかなえるため、1976年の創業より40年間以上にわたり、様々な技術開発、ソリューション提案、事業展開を推し進める中、世界に羽ばたける基盤が整ってまいりました",
+    "url": "https://www.sodick.co.jp/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックグループでは、加工機のモータを自在にコントロールするために、創業時よりNC装置の自社開発を続けてきました",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "アジアを中心とした海外生産移管、ITの先進国であるアメリカでの開発拠点設立など、各エリアの特性を見据えた拠点戦略を促進するとともに、市場ごとの変化を素早く据えるマーケティング網の整備にも注力しています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和51年8月3日(創業 昭和46年2月)",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は本年、設立50周年を迎え、ショールームをリニューアルいたしました",
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設立50周年のご挨拶",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おかげさまで当社は本年8月に設立50周年を迎えました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業以来、未踏のフェーズへ",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 設立50周年記念モデル",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）、並びに一部の創業家株主における保有方",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1988年のタイ工場の設立から携わり、製品設計・開発、製造、生産管理等幅広い業務経験がある",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "1980年設立以来、「創造・実行・苦労・感謝」を理念に、最先端のものづくりを支えている",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3DプリンターメーカーのPrima Additiveは、Prima Industrieグループの一員として設立された",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック設立50周年 圷祐次社長に聞く",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械などの製造を手掛けるソディックは2026年8月、設立50周年を迎える",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "1976年の設立以来、顧客の課題を解決する製品やサービスを生み出しながら技術力を高め、成長を続けてきた",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "――ソディック設立の背景と、現在の事業概要を教えてください",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "創業者の古川利彦は、放電加工機の研究開発に携わっていました",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月にはイタリアの金属3Dプリンタ製造会社を子会社化し、同11月には射出成形機の欧州市場拡販を目指して、商社の山善とドイツに新会社を設立することを発表しました",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "達成に向けて、創業時から受け継がれてきた「お客様の課題解決のためには、世の中にないものは自分たちで創る」という精神で、これからも製品開発に注力していくほか、例えば、アフターサービスの分野ももっと成長させていきたいですね",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "設立50周年のテーマは「新たな時代の中でさらなる成長へ」",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "― 設立50周年 ― 世の中にないなら、自分たちでつくる",
+    "url": "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立50周年を迎え、これからもものづくり現場と共に歩むパートナーであり続けます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業家中心の経営から外部知見を取り込むこの転換をどう評価するかも、企業研究の深度を測る論点です",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック株式会社（東証：6143）は、1976年創業の日本の主要な工作機械メーカーであり、特にNC放電加工機（EDM）分野で世界的な先駆者として知られています",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック株式会社は1976年に設立された工作機械メーカーであり、その創業事業はNC放電加工機（EDM）でした 1",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "この事業の主力製品は、創業以来の基盤である放電加工機であり、工作機械事業の売上高の約90%を占めています 5",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックは、創業以来、放電加工機や射出成形機といった主要製品の製造において、この経験曲線効果を活かしてきました",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "―設立 50 周年を迎え、新たな理念体系のもとでさらなる成長を推進",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年 8 月、当社は設立 50 周年という大きな節目を迎えます",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "設立から 50 年にわたり当社の成長を支えてくださったお客様をはじめ、全てのステークホルダーの皆様に心より感謝申し上げます",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、1976 年、創業者の古川利彦が、放電加工機を開発・製造する企業として設立しました",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "変革を進める中で迎える設立 50 周年という節目を、これまでの 50 年を礎に、次の 50 年に向けた成長をより明確に打ち出す重要な転換点と位置づけています",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック設立 50 周年のテーマと、新たな理念体系（Purpose、Mission、Vision、Value）",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "設立 50 周年を迎えた今、新たな時代の中でさらなる成長へ私たちは進みます",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ（PDF:68KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡制限付株式報酬としての自己株式の処分に関する取締役会決議公告（PDF：53KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ（PDF:109KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "自己株式の取得状況及び取得終了に関するお知らせ（PDF:104KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ソディックは、AI・データセンターの市場拡大を背景に需要が急増している光通信コネクタ向け超精",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生成 AI の普及に伴い、データセンター内外の高速・大容量通信需要が急速に高まっています",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "間では膨大なデータ通信が発生するため、高速光通信を支える光コネクタへの需要が世界的に伸長していま",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生産体制を 3 拠点に再編し、生産能力約 3 倍への拡大を目指す",
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆データセンター向け光コネクタの堅調な需要が継続し、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆金型生産の最大地域である中華圏で好調な需要が継続するとともに、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆データセンター向け光コネクタの旺盛な需要が継続し増収",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆国内外における製麺設備の需要が堅調に推移し増収",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※受注台数・販売台数については、管理精度向上を目的として集計方法を見直しております",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年 ●人事諮問委員・報酬委員数の見直し（社内取締役2名、社外取締役3名）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業種別では自動車産業において地域により濃淡はあるもののグローバルでは伸び悩む一方で、データセンター向",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "けをはじめとする電子部品・光コネクタ・半導体などの旺盛な需要が継続しております",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本政策に係る取組みとして、金融機関における政策保有株式の見直しに伴う売却需要、及び当社が2025年８月",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "針の見直しを踏まえ、株主基盤の拡充及び流動性向上を図ることを目的として当社株式の売出しを実施しました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、旺盛なデータセンター関連市場を背景に需要が急速に拡大している光コネクタ向けに、さらなる",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金型生産の最大地域である中華圏において電子部品、半導体、NEVなどの好調な需要が継続しました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の各地域においても堅調な需要が継続し、全地域で増収となったことから、売上高は前年同期比で大幅な増加となり",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後もデータセンター向け光コネクタの旺盛な需要が高水準で推移する見込みに加え、電子部品・半導体・コネクタ",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データセンター向け光コネクタの旺盛な需要が継続する一方で、自動車関連における設備投資の先送りが継続した",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内外における製麺設備の需要が堅調に推移し、売上高は前年同期比で増加となりました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 当社は、2026年４月17日開催の取締役会決議に基づき、2026年５月15日付で譲渡制限付株式報酬として自己",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粉末吸引装置標準搭載造形室内の容積を大幅に縮小し、さらにレーザー加工時に発生するヒューム回収方法を最適化することで、高品質での造形速度向上を実現しました",
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "pass": 3
+   },
+   {
+    "quote": "「自分でやった方が早い」が部下の成長を止める――管理職が見直したい仕事の任せ方",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "近年では自動車業界の「ギガキャスティング」技術普及により、金属3Dプリンターの需要がさらに高まっている",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "過去最高の四半期売上高、光コネクター向け需要が急拡大",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械事業も、データセンター向け光コネクターの堅調な需要が続き、売上高が同10.3％増の52億円、営業利益は同1億円増の3億円だった",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "少なくとも2030年までは需要が続くと見ており、もしかしたらそれ以降も続くかもしれない」と見る",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "好調な業績を反映して、通期の業績予想も見直した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、円安を反映した為替前提の見直しも上方修正につながった",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック 取締役 常務執行役員の高木正人氏は「調達に関する懸念も踏まえながら、今期に出荷できそうな台数を見積もり、売上高などを見直した」と語る",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "その中であらためて魅力を感じて決めましたので、様々な業界を見て、そこからは焦らずに自分を見直して自分に合うと思う企業を探すことが大切だと思います",
+    "url": "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "入社式の終了後から、約1週間の導入研修がスタートします",
+    "url": "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "事務系職種の新入社員の方は、導入研修終了後にOJT（実務研修）へと進み、実際の業務を通じてさらに理解を深めていきます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入研修の終了後、技術職・営業職の新入社員は、各事業部での研修に進みます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の赤字転落は何が原因だったのか？ それは一時的なものなのか？",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "実は2023年、ソディックは厳しい営業赤字を経験しました",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "AIブームに伴い、高速通信に欠かせない高密度光ファイバーの需要が急増しています",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "圷氏は、赤字だった米国子会社を立て直した実績を持つ人物です",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "：利益の出にくい製品を見直し、レーザー加工機や金属3Dプリンタなどの成長分野にリソースを集中",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "蘇州工場縮小（2025年11月閉鎖予",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "これらの組織再編は、グループ全体の競争力を強化し、グローバル市場のトレンドに迅速に対応するための内部統合の取り組みを反映しています 3",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "「株主手帳（2026 年５月号）」当社記事掲載のお知らせ（PDF:138 KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "第50回定時株主総会動画配信",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "第50回定時株主総会 質疑応答概要（PDF:560 KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "第50回定時株主総会決議ご通知（PDF:481KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "第50回定時株主総会の招集に際しての電子提供措置事項（PDF:883KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "第50回定時株主総会招集ご通知（PDF:1502KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画の策定及び株主還元方針の変更に関するお知らせ（PDF:223KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、事業成長を起点としてキャッシュ・フローを創出し、それを成長投資と株主還元に適切に配分していくことを基本的な考え方としています",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "本計画では、持続的成長と株主還元を両立し、企業価値の最大化をめざします",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元に165億円",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、本計画期間の4年間における配当および自己株式取得の累計額を、同期間の当期純利益の累計額で除した総還元性向として70%以上を目安に、積極的な株主還元を実施してまいります",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "1株当たり配当金・DOE（株主資本配当率）",
+    "url": "https://www.sodick.co.jp/ir/ir_financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主名簿管理人および特別口座の口座管理機関",
+    "url": "https://www.sodick.co.jp/ir/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "株券電子化に伴い、株主様の住所変更、買取請求その他各種お手続きにつきましては、原則、口座を開設されている口座管理機関（証券会社等）で承ることとなっております",
+    "url": "https://www.sodick.co.jp/ir/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主名簿管理人（三井住友信託銀行）ではお取り扱いができませんのでご注意ください",
+    "url": "https://www.sodick.co.jp/ir/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元※ 50億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４年間の株主還元",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主総会 1回 全ての取締役",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主・投資家との対話状況（202５年12月期）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、親会社株主に帰属する当期純利益につきましては、第 3 四",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124523.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する四半期純利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する当期純利益 １株当たり当期純利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（株主資本の金額に著しい変動があった場合の注記） ………………………………………………………… 8",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）、並びに一部の創業家株主における保有方",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "針の見直しを踏まえ、株主基盤の拡充及び流動性向上を図ることを目的として当社株式の売出しを実施しました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益72億92百万円（前年同期比141.6％増）、経常利益82億58百万円（前年同期比182.8％増）、親会社株主に帰属す",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主資本合計 69,242 76,227",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主持分 71 90",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主に帰属する四半期純利益又は非支配株主",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社株主に帰属する四半期純利益 2,170 6,888",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社株主に係る四半期包括利益 1,142 8,348",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主に係る四半期包括利益 △8 18",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（株主資本の金額に著しい変動があった場合の注記）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中期経営計画「Grow Forward 2029」に掲げる、株主還元の強化と資本効率の向上を図るとともに、2026年10",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（買収当時はPrima Additive）へ出資し、翌25年に子会社化した",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "放電による熱の力で金属を加工する放電加工機で世界トップクラスのシェアを誇るソディックは、なぜ金属3Dプリンターを次の成長領域に選び、AltFormへの出資・買収に踏み切ったのか",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年にマイノリティ出資をした後に、2025年に子会社化しました",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "出資後の約1年間は、経営陣が約束したことを実際に進める能力があるのか、ということを確認するために必要な時間でした",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 株主還元への本気度",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックは新たに**「DOE（株主資本配当率）2%以上、総還元性向40%以上」**という目標を掲げました",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "\\text{株主還元} & \\text{DOE 2\\%以上 / 総還元性向 40\\%以上} \\\\ \\hline",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソディック『中期経営計画の策定及び株主還元方針の変更に関するお知らせ』（2026年2月13日）",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "過去のフリーキャッシュフロー（FCF）は変動が見られるものの、同社は革新への強いコミットメントと株主還元への意欲を示しています",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "500億円の営業CF",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "戦略投資に200億円",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "（AP社からの資金調達分100億円含む）を充当し事業成長、",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元に165億円",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "246億18百万円",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "805億円(連結) 455億円(個別) ※2025年12月期",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "※ セグメント利益の調整額 -26億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高： 717億円 YoY +27.3%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益： 72億円 YoY +42億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高： 556億円 YoY +33.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益： 87億円 YoY +44億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高： 83億円 YoY +16.3%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益： 6億円 YoY +3億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高： 43億円 YoY +6.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益： 4億円 YoY -0億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高： 34億円 YoY -1.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益： 0億円 YoY -0億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 49,936 51,005 56,346 71,752 +27.3%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 14,634 16,607 19,991 27,522 +37.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 29.3% 32.6% 35.5% 38.4% +2.9pt",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上効果 収益性 人件費（販管費） その他販管費 FY2026Q3営業利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+4,603 百万円-115 百万円+2,621 百万円+1,778 百万円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 35,525 37,448 41,617 55,645 +33.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 6,367 6,395 7,188 8,358 +16.3%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 4,573 3,529 4,039 4,309 +6.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 3,468 3,631 3,499 3,438 -1.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品販売 / 保守サービス・消耗品 （単位：百万円）地域別売上高 （単位：百万円）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上効果 その他販管費収益性 人件費（販管費）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 （単位：百万円） セグメント利益率",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 67,174 73,668 80,572 97,000 101,400 +4.5%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：百万円） FY20231-12 FY20241-12 FY20251-12 FY2026",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "要を背景とした光コネクタ向け精密射出成形機の販売が好調に推移しており 、売上高は前回発表予想を上回",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124523.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する四半期純利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）包括利益 2026年12月期第３四半期 8,367百万円（637.6％） 2025年12月期第３四半期 1,134百万円（△41.3％）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（参考）自己資本 2026年12月期第３四半期 98,946百万円 2025年12月期 90,502百万円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する当期純利益 １株当たり当期純利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 円 銭",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような経済環境のもと、当社グループは2029年12月期までに売上高1,000億円、営業利益100億円の達成を目",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式総数（自己株式を除く）に対する割合 4.80％）、または30億円を上限とする自己株式の取得を決定し、現在、",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月末時点では、656千株（進捗率 27.33％）、962百万円（進捗率 32.08％）分の",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの結果、当第３四半期連結累計期間の経営成績は、売上高717億52百万円（前年同期比27.3％増）、営業利",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益72億92百万円（前年同期比141.6％増）、経常利益82億58百万円（前年同期比182.8％増）、親会社株主に帰属す",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る四半期純利益68億88百万円（前年同期比217.4％増）となりました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工作機械事業 売上高 55,645百万円 （前年同期比 33.7％増 ）営業利益 8,738百万円 （前年同期比 4,404百万円増 ）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の各地域においても堅調な需要が継続し、全地域で増収となったことから、売上高は前年同期比で大幅な増加となり",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、売上増加による利益率改善、生産台数増加による工場稼働率の向上などの継続により前年同期",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産業機械事業 売上高 8,358百万円 （前年同期比 16.3％増 ）営業利益 667百万円 （前年同期比 302百万円増 ）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ものの、売上高は前年同期比で増加となりました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "食品機械事業 売上高 4,309百万円 （前年同期比 6.7％増 ）営業利益 448百万円 （前年同期比 72百万円減 ）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内外における製麺設備の需要が堅調に推移し、売上高は前年同期比で増加となりました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他 売上高 3,438百万円 （前年同期比 1.7％減 ）営業利益 37百万円 （前年同期比 20百万円減 ）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加え、金型成形事業において主要取引先である自動車業界が低調に推移したことにより、売上高、セグメント利益と",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第３四半期連結会計期間末の資産は、前連結会計年度末と比較して、77億27百万円増加し、1,634億23百万円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な増加要因としては、現金及び預金の増加64億18百万円、商品及び製品の増加20億51百万円など",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "があげられますが、受取手形、売掛金及び契約資産の減少24億26百万円などにより一部相殺されております",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、負債は前連結会計年度末と比較して、７億35百万円減少し、643億67百万円となりました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "過去最高の四半期売上高、光コネクター向け需要が急拡大",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第2四半期の売上高は、中華圏を中心に主力の工作機械事業が業績をけん引して前年同期比23.5％増の469億円となり、四半期ベースの売上高では過去最高となった",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "さらに、本計画期間の4年間における配当および自己株式取得の累計額を、同期間の当期純利益の累計額で除した総還元性向として70%以上を目安に、積極的な株主還元を実施してまいります",
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "1株当たり当期純利益",
+    "url": "https://www.sodick.co.jp/ir/ir_financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益： 72億円 YoY +42億円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益増益のほか、移転補償金や固定資産売却益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 -1,405 838 3,018 7,292 +141.6%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 -2.8% 1.6% 5.4% 10.2% +4.8pt",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益 -889 402 2,170 6,888 +217.4%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上効果 収益性 人件費（販管費） その他販管費 FY2026Q3営業利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※営業利益増減要因とセグメント利益増減要因の合計は、事業ミックス影響等により一致しません",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益の増加に加え、当期純利益について",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 -2,819 2,231 4,224 9,200 11,000 +19.6%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 -4.2% 3.0% 5.2% 9.5% 10.8% +1.4pt",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益 -4,604 4,115 4,514 7,400 9,500 +28.4%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益（億円） ９８ -28 22 42 110 100",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率(%) 12.0 -4.2 3.0 5.2 10.8 10.0",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 42億円 110億円 100億円 +24.0%/年",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 5.2% 10.8% 10.0％ +4.8pt",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1株当たり当期純利益）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROE：通期の純利益（損失）／自己資本（期首期末の平均）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４年間の当期純利益=70%以上",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・EBITDAの2年平均",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 1,281 - 868 20.1% 868 -3.0% 1,206 -13.4% 4,224 89.4%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 6.8% - 4.5% 0.5pt 4.7% -0.4pt 5.0% -1.1pt 5.2% 2.2pt",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益 946 - 142 -89.0% 1,081 - 2,344 -36.9% 4,514 9.7%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 1,778 38.8% 2,673 207.8% 2,839 227.1% 7,292 141.6%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 8.2% 1.4pt 10.6% 6.1pt 11.4% 6.7pt 10.2% 4.8pt",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益 1,957 106.8% 2,024 1322.0% 2,907 168.7% 6,888 217.4%",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、親会社株主に帰属する当期純利益につきましては、第 3 四",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124523.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する四半期純利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する当期純利益 １株当たり当期純利益",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような経済環境のもと、当社グループは2029年12月期までに売上高1,000億円、営業利益100億円の達成を目",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る四半期純利益68億88百万円（前年同期比217.4％増）となりました",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工作機械事業 売上高 55,645百万円 （前年同期比 33.7％増 ）営業利益 8,738百万円 （前年同期比 4,404百万円増 ）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産業機械事業 売上高 8,358百万円 （前年同期比 16.3％増 ）営業利益 667百万円 （前年同期比 302百万円増 ）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "食品機械事業 売上高 4,309百万円 （前年同期比 6.7％増 ）営業利益 448百万円 （前年同期比 72百万円減 ）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他 売上高 3,438百万円 （前年同期比 1.7％減 ）営業利益 37百万円 （前年同期比 20百万円減 ）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 3,018 7,292",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "税金等調整前四半期純利益 3,282 9,835",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "四半期純利益 2,162 6,905",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主に帰属する四半期純利益又は非支配株主",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社株主に帰属する四半期純利益 2,170 6,888",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益は同23億円増の44億円で、大幅な増収増益となった",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では工作機械事業は売上高が同30.3％増の365億円、営業利益は同24億円増の54億円で、中華圏における放電加工機の旺盛な需要を背景に大幅な増収増益となった",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械事業も、データセンター向け光コネクターの堅調な需要が続き、売上高が同10.3％増の52億円、営業利益は同1億円増の3億円だった",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "食品機械事業は同1.3％減の26億円、営業利益は2億円だった",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は期初計画より85億円（9.6％）増の970億円、営業利益は37億円（67.3％）増の92億円、営業利益率は同3.3ポイント増の9.5％、経常利益は同39億円（65％）増の99億円、当期純利益は同23億円（45.1％）増の74億円と、いずれも大幅に上方修正した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の赤字転落は何が原因だったのか？ それは一時的なものなのか？",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "実は2023年、ソディックは厳しい営業赤字を経験しました",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2024年12月期には驚くべき回復を見せ、黒字転換を果たしました",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "圷氏は、赤字だった米国子会社を立て直した実績を持つ人物です",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "中計2025-2027では、最終年度の売上885億円・営業利益70億円を目標とし、グローバル化推進（蘇州工場2025年11月閉鎖を含む中国生産規模適正化／タイ・日本・宮崎事業所への再配置）、新規事業創造（AltFormとの連携によるLPBF・DEDなど積層造形）、保守ソリューション強化（累計60,000台超の納入実績活用）、既存経営管理強化、人材育成という5つの重点戦略を掲げています",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "さらにその先のNext Stage 2033では売上1,000億円規模・営業利益10%超を視野に入れた長期ビジョンが描かれています",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "円・営業利益70億円目標を支える設計に納得感を覚え",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "金属 3Dプリンタ | 株式会社 ソディック — 金属 3Dプリンタ | 株式会社 ソディック ソディック https://www.sodick.co.jp > tool > metal-3d-printer",
+    "url": "https://www.sodick.co.jp/products/tool/metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "イタリア金属 3Dプリンタ 製造企業の子会社化決定のお知らせ — イタリア金属 3Dプリンタ 製造企業の子会社化決定のお知らせ ソディック PDF https://www.sodick.co.jp > pdf > 250321153111_Pr...",
+    "url": "https://www.sodick.co.jp/pdf/250321153111_Press_Release_Notice_of_Acquisition_of_an_Italian_Metal_3D_Printer_Company_20250321_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンタ 活用ソリューション | Sodick - ソディック — 金属 3Dプリンタ 活用ソリューション | Sodick - ソディック ソディック https://www.sodick.co.jp > special",
+    "url": "https://www.sodick.co.jp/special/3dsolution/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンタ が切り拓く 「積層造形金型」新時代 - 山善 — 金属 3Dプリンタ が切り拓く 「積層造形金型」新時代 - 山善 株式会社山善 https://machine.yamazen.co.jp > article > ソディック-金属...",
+    "url": "https://machine.yamazen.co.jp/s/article/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF-%E9%87%91%E5%B1%9E%EF%BC%93%EF%BC%A4%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%8C%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E9%87%91%E5%9E%8B-%E6%96%B0%E6%99%82%E4%BB%A3",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック が伊AltFormの 買収 を決めた理由【前編】 — ソディック が伊AltFormの 買収 を決めた理由【前編】 frontier-eyes.online https://frontier-eyes.online > M＆A/事業承継/PMI",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ | 株式会社 ソディック — 金属3Dプリンタ | 株式会社 ソディック ソディック https://www.sodick.co.jp > products > tool",
+    "url": "https://www.sodick.co.jp/products/tool/metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第2四半期（中間期） 決算説明資料 - ソディック — 2026年12月期第2四半期（中間期） 決算説明資料 - ソディック ソディック PDF https://www.sodick.co.jp > pdf > 260807_meeting",
+    "url": "https://www.sodick.co.jp/ir/pdf/02/260807_meeting.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック 光コネクター向け“3種の神器”受注殺到 - MONOist — ソディック 光コネクター向け“3種の神器”受注殺到 - MONOist MONOist https://monoist.itmedia.co.jp > articles > news046",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト | 株式会社 ソディック — 業績ハイライト | 株式会社 ソディック ソディック https://www.sodick.co.jp > ir_financial",
+    "url": "https://www.sodick.co.jp/ir/ir_financial.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック (6143) の企業概要・業績・財務・IR資料 — ソディック (6143) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/6143",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック が伊AltFormの買収を決めた理由【前編】 — ソディック が伊AltFormの買収を決めた理由【前編】 frontier-eyes.online https://frontier-eyes.online > M＆A/事業承継/PMI",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ソディック (@SodickCoLtd) / X — 株式会社 ソディック (@SodickCoLtd) / X X https://x.com > SodickCoLtd",
+    "url": "https://x.com/SodickCoLtd",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の 課題 解決に向け、世の中にないものは自ら創り — 顧客の 課題 解決に向け、世の中にないものは自ら創り ps.nikkei.com https://ps.nikkei.com > sodick2601",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第2四半期（中間期） 決算説明 資料 - ソディック — 2026年12月期第2四半期（中間期） 決算説明 資料 - ソディック ソディック PDF https://www.sodick.co.jp > pdf > 260807_meeting",
+    "url": "https://www.sodick.co.jp/ir/pdf/02/260807_meeting.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース | 株式会社 ソディック — IRニュース | 株式会社 ソディック ソディック https://www.sodick.co.jp > irnews",
+    "url": "https://www.sodick.co.jp/ir/irnews.html?year=2024",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明 資料 | 株式会社 ソディック — 決算短信・ 決算説明 資料 | 株式会社 ソディック ソディック https://www.sodick.co.jp > library > results",
+    "url": "https://www.sodick.co.jp/ir/library/results.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第2四半期 決算説明 会質疑応答概要（1） — 2026年12月期第2四半期 決算説明 会質疑応答概要（1） ソディック PDF https://www.sodick.co.jp > pdf > tmp",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20260817115500.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | よくあるご質問 | 株式会社 ソディック — 事業内容 | よくあるご質問 | 株式会社 ソディック ソディック https://www.sodick.co.jp > faq_02",
+    "url": "https://www.sodick.co.jp/ir/faq_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 ・地図｜株式会社 ソディック — 会社概要 ・地図｜株式会社 ソディック ソディック https://www.sodick.co.jp > company > outline",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業 情報 | よくあるご質問 | 株式 会社ソディック — 企業 情報 | よくあるご質問 | 株式 会社ソディック ソディック https://www.sodick.co.jp > faq_01",
+    "url": "https://www.sodick.co.jp/ir/faq_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式・ 株主情報 | 株式 会社ソディック — 株式・ 株主情報 | 株式 会社ソディック ソディック https://www.sodick.co.jp > memo",
+    "url": "https://www.sodick.co.jp/ir/memo.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ソディック 【東証プライム上場】の 会社概要 | マイナビ2028 — (株) ソディック 【東証プライム上場】の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp231768 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "第50期（2025年12月期）： 株主 通信詳細 - ソディック — 第50期（2025年12月期）： 株主 通信詳細 - ソディック ソディック https://www.sodick.co.jp > ir_report_50_02",
+    "url": "https://www.sodick.co.jp/ir/ir_report_50_02.html",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "金属３Dプリンター事業を次の成長の柱へ ――ソディックが伊AltFormの買収を決めた理由【前編】 | Frontier Eyes Online by フロンティア・マネジメント",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター事業を次の成長の柱へ ――ソディックが伊AltFormの買収を決めた理由【前編】",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "（買収当時はPrima Additive）へ出資し、翌25年に子会社化した",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "放電による熱の力で金属を加工する放電加工機で世界トップクラスのシェアを誇るソディックは、なぜ金属3Dプリンターを次の成長領域に選び、AltFormへの出資・買収に踏み切ったのか",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場に入り込むための「ツテ」も買収の魅力",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "その道筋が見えたことが、買収の前提になりました",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "【後編】ソディックのリソース×AltFormのスピード感 ――買収シナジーと次のM&...",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "【後編】ソディックのリソース×AltFormのスピード感 ――買収シナジーと次のM&Aへの布石",
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック、その他買収の関連記事",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop社がcloudfluid社を買収し、設計から製造までのワークフローを強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の技術投資会社Anzu社がvoxeljet AG社を買収する契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "pass": 3
+   },
+   {
+    "quote": "事業成長のリソースを強化するためにも、引き続きM＆A（合併・買収）は視野に入れていきます",
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "なぜ評価が低いのか？」—— ソディック の銘柄研究｜ひろき なぜ評価が低いのか？」—— ソディック の銘柄研究｜ひろき note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 ソディック 面接対策 想定質問100選｜中途採用 ... 【2026年版】 ソディック 面接対策 想定質問100選｜中途採用 ... note https://note.com > キャリア > 転職・キャリアチェンジ",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "NC放電加工機の世界企業・ ソディック 株式会社の株は割安か？ NC放電加工機の世界企業・ ソディック 株式会社の株は割安か？ note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "年頭所感（2026年） 株式会社 ソディック 代表取締役 CEO ... 年頭所感（2026年） 株式会社 ソディック 代表取締役 CEO ... note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【銘柄研究】「世界シェア35％なのに、なぜ評価が低いのか？」——ソディックの銘柄研究｜ひろき_ note日記",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "【銘柄研究】「世界シェア35％なのに、なぜ評価が低いのか？」——ソディックの銘柄研究",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "皆さんは「放電加工機（EDM）」という言葉を聞いたことがありますか？",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "恥ずかしながら、私は投資を始めるまでその存在を詳しく知りませんでした。しかし、調べてみると、私たちが普段手にしているスマートフォンや自動車、そして最先端の航空宇宙産業に至るまで、この機械がなければ作れない精密な部品や金型が溢れているのです。",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックは、この分野で世界トップクラスのシェアを誇る日本を代表する工作機械メーカーです。しかし、その株価指標（PBR）を見ると、驚くほど割安な水準に放置されているように見えます。",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "この素朴な疑問から、私のソディック研究は始まりました。",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "①疑問：なぜ「世界トップシェア」の価値が市場に届いていないのか？",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "私が最初に抱いた疑問は、以下の3点に集約されます。",
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】ソディック面接対策 想定質問100選｜中途採用で聞かれる質問と模範回答を徹底解説｜Career Compass 転職ナビ",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】ソディック面接対策 想定質問100選｜中途採用で聞かれる質問と模範回答を徹底解説",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックの中途採用面接を控えて、「ファナック・牧野フライス・三菱電機・DMG MORI・GF Machining Solutionsといった工作機械各社が並ぶ中で、ソディックならではの志望理由をどう整理すればよいかわからない」と感じていませんか？",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "「1971年創業／東証プライム上場（証券コード6143）／代表取締役社長CEO圷祐次氏が率いる経営体制をどう咀嚼するか」「放電加工機で世界首位級のシェアを誇り、リニアモータ駆動などの独自技術を起点に、マシニングセンタ・金属3Dプリンタ・レーザー加工機・射出成形機（産業機械事業部）・食品機械まで多角化した事業構造をどう志望動機に織り込むか」「中期経営計画2025-2027が掲げる売上885億円・営業利益70億円目標と、5つの重点戦略（脱中国依存・新規事業創造・保守ソリューション・既存経営管理強化・人材育成）への共感」「2024年に資本参加し2025年にAltFormへ改称したPrima Additive（イタリア）連携による金属3Dプリンタ／レーザー加工機の本格展開」「AI高速光通信を支えるMTフェルール用金型・ギガキャスト関連の積層造形・医療機器向け微細加工など最先端需要への対応」「202",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "面接は準備の質で対応力が大きく変わります。事前に想定される質問を洗い出し、自分の言葉で整理しておくことで、当日の落ち着きと回答の説得力は確実に高まります。",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、ソディックの中途採用面接に特化した想定質問100選PDFをご紹介します。質問だけでなく、面接官が何を評価しようとしているのか、どう答えれば伝わるのかまで具体的に解説した内容です。",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックの面接には、放電加工機の専門特化型グローバルメーカーで変革期に入った独自ポジションならではの特徴があります。",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "1. 放電加工機トップシェア×多角化事業ポートフォリオへの理解",
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "pass": 3
+   },
+   {
+    "quote": "NC放電加工機の世界企業・ソディック株式会社の株は割安か？｜グローバルニッチトップ企業研究所",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "NC放電加工機の世界企業・ソディック株式会社の株は割安か？",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック株式会社の包括的な戦略的および財務分析",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック株式会社（東証：6143）は、1976年創業の日本の主要な工作機械メーカーであり、特にNC放電加工機（EDM）分野で世界的な先駆者として知られています。同社は、射出成形機および食品機械へと事業ポートフォリオを戦略的に多角化し、研究開発、生産、販売における強固なグローバルネットワークを確立しています。ハイエンドEDM市場で圧倒的な世界シェアを維持する一方、ソディックは現在、中国市場への依存度を低減し、製品ポートフォリオの最適化と新興市場へのグローバル展開を通じて収益性を向上させるための大規模な構造改革を推進しています。過去のフリーキャッシュフロー（FCF）は変動が見られるものの、同社は革新への強いコミットメントと株主還元への意欲を示しています。本報告書では、ソディックの競争環境、市場での地位、過去の財務実績、およびM&A戦略を詳細に分析し、5年間のFCF予測と割引キャッシュフロー（",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック株式会社は1976年に設立された工作機械メーカーであり、その創業事業はNC放電加工機（EDM）でした 1。同社はこの分野で急速にリーダーシップを確立しました。その後、ソディックは事業ポートフォリオを戦略的に多様化し、射出成形機や食品機械の製造にも進出しました 2。この多角化は、市場の変化に対応し、新たな成長機会を追求する同社の積極的な姿勢を示しています。",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "企業の重要な発展としては、2009年のソディックハイテックの吸収合併、および2012年のソディックプラステックの吸収合併が挙げられます 2。これらの組織再編は、グループ全体の競争力を強化し、グローバル市場のトレンドに迅速に対応するための内部統合の取り組みを反映しています 3。2015年3月には東京証券取引所市場第一部への指定替えを果たし、企業としての成熟度と市場での存在感を高めました 2。さらに、2016年には加賀事業所の敷地内に食品機械工場を開設し、製造拠点の拡充を進めています 2。",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "1.2. 主要事業セグメントと製品ポートフォリオ",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "ソディックの事業は主に3つのセグメントで構成されています。",
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "pass": 3
+   },
+   {
+    "quote": "●年頭所感（2026年） 株式会社ソディック 代表取締役 CEO 社長執行役員 圷 祐次｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "●年頭所感（2026年） 株式会社ソディック 代表取締役 CEO 社長執行役員 圷 祐次",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "―設立 50 周年を迎え、新たな理念体系のもとでさらなる成長を推進",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソディックは、2026 年の年頭にあたり、代表取締役 CEO 社長執行役員 圷 祐次より、謹んで新年のご挨拶を申し上げます。旧年中は格別のご愛顧を賜り、心より御礼申し上げます。",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年 8 月、当社は設立 50 周年という大きな節目を迎えます。設立から 50 年にわたり当社の成長を支えてくださったお客様をはじめ、全てのステークホルダーの皆様に心より感謝申し上げます。",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、1976 年、創業者の古川利彦が、放電加工機を開発・製造する企業として設立しました。「お客様のモノづくりのお役に立ちたい」の一心のもと、お客様のどんな些細な要望にも耳を傾け、どんなに困難な技術課題にも挑戦して克服し、お客様とともに課題解決に取り組んでまいりました。",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "この姿勢のもと、一歩一歩着実に事業を成長させ、今や、放電加工機のみならずマシニングセンタや金属 3Dプリンタなどの工作機械に加え、産業機械、さらには食品機械など多種多様な製品群を展開し、グローバルに60 カ国以上で事業を展開することができました。",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   },
+   {
+    "quote": "私は、2025 年 3 月の就任当初より、「グローバルに展開するグローバル企業」を目指し、各国・各地域に根差した事業運営の推進に取り組んでまいりました。昨年は、経営管理体制の高度化やグローバル戦略の加速を目的に、外部の専門的知見を有するパートナーとの事業提携を行い、経営戦略の実行力を一段と高める体制づく",
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ソディック (@SodickCoLtd) / X 株式会社 ソディック (@SodickCoLtd) / X X https://x.com > SodickCoLtd",
+    "url": "https://x.com/SodickCoLtd",
+    "pass": 3
+   },
+   {
+    "quote": "Articles by 株式会社 ソディック (@SodickCoLtd) / X Articles by 株式会社 ソディック (@SodickCoLtd) / X X https://x.com > SodickCoLtd > articles",
+    "url": "https://x.com/SodickCoLtd/articles",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by 株式会社 ソディック (@SodickCoLtd) / X Replies by 株式会社 ソディック (@SodickCoLtd) / X X https://x.com > SodickCoLtd > with_replies",
+    "url": "https://x.com/SodickCoLtd/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by 株式会社 ソディック (@SodickCoLtd) / X Reposts by 株式会社 ソディック (@SodickCoLtd) / X X https://x.com > SodickCoLtd > reposts",
+    "url": "https://x.com/SodickCoLtd/reposts",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sodick Co., Ltd. - LinkedIn Sodick Co., Ltd. - LinkedIn LinkedIn https://jp.linkedin.com > company > sodick-co.-ltd.",
+    "url": "https://jp.linkedin.com/company/sodick-co.-ltd.",
+    "pass": 3
+   },
+   {
+    "quote": "Kevin Yamada - Sodick , Inc. - LinkedIn Kevin Yamada - Sodick , Inc. - LinkedIn LinkedIn https://www.linkedin.com > kevinya...",
+    "url": "https://www.linkedin.com/in/kevinyamada",
+    "pass": 3
+   },
+   {
+    "quote": "Sodick America Corporation - LinkedIn Sodick America Corporation - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/sodick-america-corp.",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ソディック 社長インタビュー掲載についてのお知らせ 株式会社 ソディック 社長インタビュー掲載についてのお知らせ LinkedIn https://jp.linkedin.com > pulse > 株式会社ソディック-社長...",
+    "url": "https://jp.linkedin.com/pulse/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E6%8E%B2%E8%BC%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-sodick-co-ltd--apjec",
+    "pass": 3
+   },
+   {
+    "quote": "#公式アカウント #teamsodick | Sodick Co., Ltd. - LinkedIn #公式アカウント #teamsodick | Sodick Co., Ltd. - LinkedIn LinkedIn https://jp.linkedin.com > posts > sodick-co.-ltd._公式アカ...",
+    "url": "https://jp.linkedin.com/posts/sodick-co.-ltd._%E5%85%AC%E5%BC%8F%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-teamsodick-activity-7416700024153194497-W51n",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ソディック DAC - Home | Facebook ソディック DAC - Home | Facebook Facebook https://www.facebook.com > pages > ソディックDAC",
+    "url": "https://www.facebook.com/pages/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AFDAC/122157704542064?locale=ne_NP",
+    "pass": 3
+   },
+   {
+    "quote": "LED照明 ソディック エフ・ティ - Facebook LED照明 ソディック エフ・ティ - Facebook Facebook https://www.facebook.com > ... > Rūpniecības uzņēmums",
+    "url": "https://www.facebook.com/100025904920735/?locale=lv_LV",
+    "pass": 3
+   },
+   {
+    "quote": "Sodick Technology Malaysia - Facebook Sodick Technology Malaysia - Facebook Facebook https://www.facebook.com > ... > Engineering Service",
+    "url": "https://www.facebook.com/p/Sodick-Technology-Malaysia-100092396870247/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sodick.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/t_history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/support/service-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/sustainability/environment/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/ir_financial.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/memo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/private/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/schedule.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/philosophy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/office.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/location.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/network.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/iso_domestic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/procure.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/wire-recycling-system_campaign-flyer_2026.04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/pdf/261105142108_Press_Release_Kaga_City_Citizens_Honor_Award_20261105.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/pdf/261104122703_Press_Release_Expansion_of_Injection_Molding_Machine_Production_Capacity_20261104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/pdf/04/reportandaccounts2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/AM_Private_Show.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124711.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124523.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261106124335.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/pdf/260928123323_Press_Release_Champion_of_the_68th_All_Japan_Business_Sumo_Championship_20260928.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/pdf/261020155317_Press_Release_Results_Report_World_Sumo_Championships_2026_20261019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/img/pic_ir_annual_2025.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/img/logo-nikkoir-2025-jp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sodick.co.jp/sustainability/environment/img/pic_index01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/img/index-img-message.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/img/index-img-plan.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/img/index-img-private.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://machine.yamazen.co.jp/s/article/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF-%E9%87%91%E5%B1%9E%EF%BC%93%EF%BC%A4%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%8C%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E9%87%91%E5%9E%8B-%E6%96%B0%E6%99%82%E4%BB%A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/company/6143",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://frontier-eyes.online/sodick_altform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/SodickCoLtd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ps.nikkei.com/sodick2601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/careercompass_c/n/nc249777f64b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SodickCoLtd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SodickCoLtd/articles",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SodickCoLtd/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SodickCoLtd/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/sodick-co.-ltd.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/kevinyamada",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sodick-america-corp.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E6%8E%B2%E8%BC%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-sodick-co-ltd--apjec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AFDAC/122157704542064?locale=ne_NP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100025904920735/?locale=lv_LV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Sodick-Technology-Malaysia-100092396870247/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SodickCoLtd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/sodick-co.-ltd._%E5%85%AC%E5%BC%8F%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-teamsodick-activity-7416700024153194497-W51n",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ソディック 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.sodick.co.jp/products/tool/metal-3d-printer/",
+    "https://www.sodick.co.jp/pdf/250321153111_Press_Release_Notice_of_Acquisition_of_an_Italian_Metal_3D_Printer_Company_20250321_JP.pdf",
+    "https://www.sodick.co.jp/special/3dsolution/",
+    "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "https://machine.yamazen.co.jp/s/article/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF-%E9%87%91%E5%B1%9E%EF%BC%93%EF%BC%A4%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%8C%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E9%87%91%E5%9E%8B-%E6%96%B0%E6%99%82%E4%BB%A3",
+    "https://www.sodick.co.jp/product/tool/metal_3d_printer/metalpowder/list.html",
+    "https://metoree.com/categories/5523/663/",
+    "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-2.pdf"
+   ]
+  },
+  {
+   "query": "ソディック 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.sodick.co.jp/pdf/250321153111_Press_Release_Notice_of_Acquisition_of_an_Italian_Metal_3D_Printer_Company_20250321_JP.pdf",
+    "https://www.sodick.co.jp/products/tool/metal-3d-printer/",
+    "https://frontier-eyes.online/sodick_altform/",
+    "https://news.sharelab.jp/3dp-news/ir/sodick-prima-additive-250414/",
+    "https://www.sodick.co.jp/special/3dsolution/",
+    "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "https://machine.yamazen.co.jp/s/article/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF-%E9%87%91%E5%B1%9E%EF%BC%93%EF%BC%A4%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%8C%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E9%87%91%E5%9E%8B-%E6%96%B0%E6%99%82%E4%BB%A3",
+    "https://kanagata-shimbun.com/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%81%8C%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E9%96%8B%E5%A7%8B/",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-2.pdf",
+    "https://kikai-news.net/2025/03/25/ソディック、イタリア金属-3d-プリンタ製造企業の/"
+   ]
+  },
+  {
+   "query": "ソディック 積層造形 事業 売上",
+   "results": [
+    "https://www.sodick.co.jp/products/tool/metal-3d-printer/",
+    "https://www.sodick.co.jp/ir/pdf/02/260807_meeting.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html",
+    "https://www.sodick.co.jp/ir/ir_financial.html",
+    "https://www.crex-data.com/company/6143",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-2.pdf",
+    "https://the-shashi.com/tse/6143/financials/segment/",
+    "https://www.sodick.co.jp/ir/pdf/tmp/20141212103102.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "https://www.sodick.co.jp/ir/ir_section.html"
+   ]
+  },
+  {
+   "query": "ソディック 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.sodick.co.jp/products/tool/metal-3d-printer/",
+    "https://frontier-eyes.online/sodick_altform/",
+    "https://www.youtube.com/watch?v=cqQDT6rxzVI",
+    "https://x.com/SodickCoLtd",
+    "https://ps.nikkei.com/sodick2601/",
+    "https://net.keizaikai.co.jp/archives/77",
+    "https://kanagata-shimbun.com/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%81%8C%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E9%96%8B%E5%A7%8B/",
+    "https://www.youtube.com/watch?v=IMr0po9h3Kk",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-2.pdf",
+    "https://www.sodick.co.jp/st/interview/"
+   ]
+  },
+  {
+   "query": "ソディック 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.sodick.co.jp/ir/pdf/02/260807_meeting.pdf",
+    "https://www.sodick.co.jp/ir/irnews.html?year=2024",
+    "https://www.sodick.co.jp/ir/library/results.html",
+    "https://www.sodick.co.jp/ir/pdf/tmp/20260817115500.pdf",
+    "https://www.sodick.co.jp/ir/faq_02.html",
+    "https://finance.logmi.jp/articles/384018",
+    "https://www.sodick.co.jp/ir/library/ir-event.html",
+    "https://www.sodick.co.jp/ir/pdf/02/200512_meeting.pdf",
+    "https://www.sodick.co.jp/ir/",
+    "https://edinetdb.jp/company/E01504/presentations/"
+   ]
+  },
+  {
+   "query": "ソディック 会社概要 設立 株主",
+   "results": [
+    "https://www.sodick.co.jp/company/outline.html",
+    "https://www.sodick.co.jp/ir/faq_01.html",
+    "https://www.sodick.co.jp/ir/memo.html",
+    "https://job.mynavi.jp/28/pc/search/corp231768/outline.html",
+    "https://www.sodick.co.jp/ir/ir_report_50_02.html",
+    "https://www.sodick.co.jp/company/",
+    "https://shikiho.toyokeizai.net/stocks/6143/corporate",
+    "https://www.sodick.co.jp/ir/meeting.html",
+    "https://baseconnect.in/companies/2856e8b5-ea89-4871-8c49-4c120d6ec69c",
+    "https://ja.wikipedia.org/wiki/ソディック"
+   ]
+  },
+  {
+   "query": "site:note.com ソディック",
+   "results": [
+    "https://note.com/invest_papa57/n/nb52bdc0faa0b",
+    "https://note.com/careercompass_c/n/nc249777f64b4",
+    "https://note.com/tatsuya_sabato/n/nde6aef3663a5",
+    "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "https://note.com/tsuruichipooh/n/n71a4d44d8fbb",
+    "https://note.com/miniko_okane/n/ncfa0f3913e7c",
+    "https://note.com/sankituushin/n/ndb98fe4c9286",
+    "https://note.com/sankituushin/n/n0017e7687a3b",
+    "https://note.com/tag/vm/investment_money/company-6143",
+    "https://note.com/sankituushin/n/nacdb8555e783"
+   ]
+  },
+  {
+   "query": "site:x.com ソディック",
+   "results": [
+    "https://x.com/SodickCoLtd",
+    "https://x.com/SodickCoLtd/articles",
+    "https://x.com/SodickCoLtd/with_replies",
+    "https://x.com/SodickCoLtd/reposts",
+    "https://x.com/SodickCoLtd/status/2110211881701187983",
+    "https://x.com/SodickCoLtd/status/2089182160502870026",
+    "https://x.com/SodickCoLtd/status/2115337775188963728",
+    "https://x.com/SodickCoLtd/status/2016335007997194462",
+    "https://x.com/SodickCoLtd/status/2094331126949327190",
+    "https://x.com/SodickCoLtd/status/2110211724582506649"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ソディック",
+   "results": [
+    "https://jp.linkedin.com/company/sodick-co.-ltd.",
+    "https://www.linkedin.com/in/kevinyamada",
+    "https://www.linkedin.com/company/sodick-america-corp.",
+    "https://jp.linkedin.com/pulse/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E6%8E%B2%E8%BC%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-sodick-co-ltd--apjec",
+    "https://www.linkedin.com/company/sodick-inc.",
+    "https://jp.linkedin.com/in/yoshio-suzuki-697310277",
+    "https://jp.linkedin.com/company/sodick-plustech-inc-",
+    "https://www.linkedin.com/posts/sodick-co.-ltd._sodick-%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF-smallholedrillingedm-activity-7310483493002584064-tNEw",
+    "https://www.linkedin.com/in/jake-burch-226960160",
+    "https://jp.linkedin.com/posts/sodick-co.-ltd._ワイヤ放電加工機で細穴加工ができるソディック開発のsmart-k1をご紹介-activity-7401786128938500097-KU2C"
+   ]
+  },
+  {
+   "query": "site:facebook.com ソディック",
+   "results": [
+    "https://www.facebook.com/pages/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AFDAC/122157704542064?locale=ne_NP",
+    "https://www.facebook.com/100025904920735/?locale=lv_LV",
+    "https://www.facebook.com/p/Sodick-Technology-Malaysia-100092396870247/",
+    "https://www.facebook.com/groups/3205815586394422/",
+    "https://www.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF/614589708578615",
+    "https://www.facebook.com/sodickimm/",
+    "https://www.facebook.com/NSTOOL.PR/posts/%E5%8D%94%E8%B3%9B%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E6%A7%98-sodickcoltd-%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%99%E3%82%8B%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%94%AF%E5%BA%97%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC2026%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E6%9C%AC%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E3%81%82%E3%81%9F%E3%82%8A%E5%BC%8A%E7%A4%BE%E3%82%82%E5%8D%94%E8%B3%9B%E5%87%BA%E5%B1%95%E3%81%99%E3%82%8B/1389708582948711/",
+    "https://www.facebook.com/titansofcnc/videos/jig-grinding-on-our-sodick-mill/1083305344600571/",
+    "https://www.facebook.com/sodickphilippines/",
+    "https://www.facebook.com/p/SODIC-Sports-Club-100090983524406/"
+   ]
+  },
+  {
+   "query": "ソディック note 社長",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUC1115R0R10C25A9000000/",
+    "https://note.com/sankituushin/n/n939fe9fcd6c9",
+    "https://www.sodick.co.jp/pdf/250328150357_Press_Release_Sodick_New_President_Announcement_20250328_JP.pdf",
+    "https://www.sodick.co.jp/company/outline.html",
+    "https://note.com/sankituushin/n/n23c81d189c5e",
+    "https://jp.linkedin.com/pulse/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF-%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E6%8E%B2%E8%BC%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-sodick-co-ltd--apjec",
+    "https://note.com/everydayjukucho/n/n266fbc2179f6",
+    "https://www.sodick.co.jp/company/message.html",
+    "https://open-keieisha-db.com/executives/akutsu-yuji",
+    "https://the-shashi.com/tse/6143/executives/ceo/akutsu-yuji/"
+   ]
+  },
+  {
+   "query": "ソディック X 投稿",
+   "results": [
+    "https://x.com/SodickCoLtd",
+    "https://www.sodick.co.jp/products/tool/dedm/",
+    "https://www.sodick.co.jp/",
+    "https://jp.linkedin.com/posts/sodick-co.-ltd._%E5%85%AC%E5%BC%8F%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-teamsodick-activity-7416700024153194497-W51n",
+    "https://www.youtube.com/channel/UCjA0T1BjAGueat5Ted79BJA",
+    "https://www.sodick.co.jp/pdf/240416123410_Press%20release_New%20product_EDM%20AL%20Plus%20series_a.pdf",
+    "https://www.youtube.com/watch?v=bPlv6BIQWYs",
+    "https://x.com/SodickCoLtd/with_replies",
+    "https://www.ns-tool.com/nstool2020/exhibitor02/sodick.html",
+    "https://www.instagram.com/sodickcoltd/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式26頁／PDF・画像16件／外部28頁・検索12回）"
+ }
+}

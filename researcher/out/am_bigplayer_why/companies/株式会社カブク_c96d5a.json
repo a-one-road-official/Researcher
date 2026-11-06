@@ -1,0 +1,1849 @@
+{
+ "name": "株式会社カブク",
+ "aliases": [
+  "Kabuku",
+  "カブク"
+ ],
+ "context": "3Dプリント受託の窓口・赤字の経緯",
+ "researched_at": "2026-11-06T16:39:59.531000+00:00",
+ "official_url": "https://kabu-ku.com/",
+ "identified_by": "search:yahoo_jp:カブク",
+ "profile": {},
+ "evidence": {
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "これまでアーティストとして培ってきた経験やノウハウ、そして、長年携わってきた印刷・広告業界で身につけた専門知識等をしっかりと活かし、世の中のお役に立てることへの挑戦を続けています",
+    "url": "https://kabu-ku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント業務管理士２級 / 食品衛生責任者",
+    "url": "https://kabu-ku.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "経験豊富なパイロット、技術スタッフが責任を持って担当いたします",
+    "url": "https://kabu-ku.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「製造現場に則した自社のシステム開発力」と「AMの品質とコスト競争力」",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つには、「AMの品質とコスト競争力」が大きな強みです",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "AMのノウハウを蓄積している企業などにAM品の造形を依頼しているため、高品質な造形が、競争力のあるコストで実現できています",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "機械の稼働率が高く、減価償却も既に終わっていることが多い、ということが価格メリットを打ち出せる理由の一つです",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほど私も試してみましたが、3Dモデルデータをブラウザ上にドロップし、工法、材質、後処理をリストから選び、数量を指定するだけで、直ぐに見積りが表示され驚かされました",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysコスト効率の高い新型3Dプリンタ「J55」を発表",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "エスラボ、3Dプリント量産「飛沫防止用フェイスシールド」製造開始",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "ICT（情報通信技術）で独自のノウハウを持つカブクを傘下に収め、事業領域の拡大につなげたい考えだ",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "カブクは3Dプリンターを持つ企業と持たない会社や個人をクラウドでつなぐサービスを展開するなど、効率的なモノづくりに関するノウハウを持つ",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドワークス、AIで祖業苦戦 専門人材マッチングに活路",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "では、素材の変更によりコスト削減を行った事例など、3Dプリントの活用事例を掲載している",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "群馬県の就労支援施設「ONECODE」、3Dプリンターやプログラミングを活用したIT人材育成を推進",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡企業と同様に、安定した経営を実現して事業を拡大していくためには同業者との合従連衡による規模拡大と業務効率化が必要性を認識しており、自社の経営ノウハウを活かしながら事業の効率化・拡大ができると判断し、株式譲受により譲渡企業をグループに迎え入れました",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "従事する職員としても、近隣に姉妹園がある環境に変わったことから、情報および人材の交流をスピーディーにおこなうことができることとなり、労働環境が改善することとなりました",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社の海外生産、輸出、海外販売、物流、広告機能を活かしながら、譲渡企業の生産コスト及び物流コストの削減、海外販売を進められると判断し、株式取得により、譲渡企業をグループに迎え入れました",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンド製造サービスで、コスト重視の声に応える3Dプリント素材を4種追加：3Dプリンタニュース - MONOist",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンド製造サービスで、コスト重視の声に応える3Dプリント素材を4種追加",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "「納期に余裕があるためコストを抑えたい」といった顧客ニーズに応える",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作あるいは試作から量産までに適した素材をラインアップしている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "31種類以上ある従来素材と比べてコスト面で強みがある一方で、対応納期や対応色（ホワイト系、グレー系のみ）、サイズなどに制限がある",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wi-Fi非対応かつ外部カメラ非搭載で、データ窃取や遠隔侵入のリスクを低減した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計意図を3Dモデルに組み込むとは？ 寸法と形状に理由を持たせる設計",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンター需要に沸く製造業、リスクは？",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "そういうノウハウは人工知能をやってないと共有できないみたいなことがあり、エコシステムの考え方とか、生物多様性みたいな話と全く一緒です",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "人工知能で得るノウハウはダーウィンの進化論みたいですね",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "会社はまだ立ち上げて1年目ですが、立上げ時の資金工面や人材集めはどうされたのですか？",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "“カブク”の経営課題について教えて頂けますか？",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "“カブク”が今後仲間になる社員に求める人材像についても教えて頂けますでしょうか？",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "僕らもエンジェルさんに投資していただいていますけれども、日本には初期にリスクを取る投資家がなかなかいないので今のエンジェルさんは本当に神みたいな存在です",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "■試作・特注品・量産オンデマンド受託製造サービス事業",
+    "url": "https://mono.ipros.com/company/detail/2064506/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチックは低コストで様々な特性を付与することができるため、非常に魅力的な材料です",
+    "url": "https://mono.ipros.com/company/detail/2064506/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2064506/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2064506/",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、ランサーズと業務提携 3Dモデリング領域の人材流通で連携",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "最短5秒で見積り、革新的な製造業プラットフォーム－株式会社カブク | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター自体が産業用として再評価されてきている、また、当社が長年モノづくりの最前線で活躍し、高い生産技術力がある双葉電子工業株式会社の連結子会社となり、カブクとしての更なる技術力が評価されたことも要因かと思います",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "高性能3Dプリンターを販売する3Dプリンター専門ショップ『3DPS id.arts』",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメント対応の低価格3Dプリンタ「Adventurer3X」",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "10万円を切る価格でプロ仕様の精度を実現した3Dプリンタ「DreamerNX」",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "工業用FFF方式3Dプリンタ「Guider2s」販売開始",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabsの最新3Dプリンタ「Form 3」日本市場で展開開始",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "準産業用途向けFDM方式3Dプリンタ「Creator3」",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "次世代小型3Dプリンタ「Adventurer 3」",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysコスト効率の高い新型3Dプリンタ「J55」を発表",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントのカブク、4億円を調達--プラットフォーム機能を強化 - CNET Japan",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントのカブク、4億円を調達--プラットフォーム機能を強化",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "カブクは8月28日、グローバル・ブレインから約4億円の資金を調達したと発表した",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は本ラウンドで総額約7.5億円の資金調達を計画しており、今回の増資はそれに先立ち実施したもの",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "カブクは、3Dプリンタを使ったデジタルものづくりプラットフォーム「Rinkak（リンカク）」や、個人や法人の作り手と3Dプリンタを保有する製造工場をつなぐものづくりマーケットプレイス「",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、3Dプリンタ工場向けの基幹業務クラウドサービス「",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "デザイナーらが直販できる「rinkak」正式サービス開始--3Dプリンタで製品化",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "カブクは3Dプリンターを持つ企業と持たない会社や個人をクラウドでつなぐサービスを展開するなど、効率的なモノづくりに関するノウハウを持つ",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "金属、樹脂系3Dプリント製造の即時見積り機能をカブク、Webプラットフォームで提供開始 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用3Dプリンター / AM技術の情報ポータル",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "その他材料3Dプリンター（21）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "今年２月に東京で開催された次世代3Dプリンター展 で、同社のブースにて話を伺った時は、この即時見積り機能を「スタッフがかかりっきりで鋭意開発中です",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "その他材料3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "チェコで世界初、3Dプリンターを大規模活用した教会を建設へ 約870点の部材を造形",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "群馬県の就労支援施設「ONECODE」、3Dプリンターやプログラミングを活用したIT人材育成を推進",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "セレンディクス、大分県の水力発電所に3Dプリンター製の詰所を建設 屋根を含む建屋全体を造形",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマイチ・ユニハイムエステート社とセレンディクス社が3Dプリンター建築で、大阪・関西万博に運営参加！",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "楽しみながら3Dプリンタを理解する オマケ付きワークショップ （2/14＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタの可能性を限界まで高める！ nTop体験ワークショップ（3/7＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "【2023年12月版】小規模なモノづくりで活躍する手が届くおすすめ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの業界メディアShareLabで働きませんか？",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入における作業者健康対策ガイド",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用3Dプリンターについて学ぶ",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子工業＜6986＞、3Dプリンターものづくりプラットフォーム運営のカブクを買収 - コーポレート・アドバイザーズM&A",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子工業＜6986＞、3Dプリンターものづくりプラットフォーム運営のカブクを買収",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "5000万円～1億円",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "5～10億円",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "10～50億円",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "様々な業態の会社で構成されるグループで、個々のグループ会社の事業特性・機能・取引先を相互に連携、活用しながら売上・利益を最大化していく事を得意としています",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンド製造サービスで、コスト重視の声に応える3Dプリント素材を4種追加：3Dプリンタニュース - MONOist",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタニュース",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "カブクは、オンデマンド製造プラットフォーム「Kabuku Connect」の即時見積サービスにおいて、従来比で最大77.7％価格を抑えることが可能な「エコノミー版」の3Dプリンタ素材を4種類追加した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "カブクは2025年9月25日、オンデマンド製造プラットフォーム「Kabuku Connect」の即時見積サービスにおいて、従来比で最大77.7％価格を抑えることが可能な「エコノミー版」の3Dプリンタ素材を4種類追加したと発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "⇒ その他の「3Dプリンタ」関連ニュースはこちら",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "わずか10mm、フルカラー3Dプリンタ製“極小”鉄道模型フィギュアシリーズ登場",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "タカラトミーグループのトミーテックは、フルカラー3Dプリンタで製造した鉄道模型フィギュア「ジオコレ3Dものがたり」シリーズを2025年9月から展開する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "防衛や高セキュリティ環境向けの3Dプリンタを発表",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "3Dプリンティングだけでなく、さまざまな工法に対応しているため、例えば、トヨタ自動車、スクウェア・エニックス、オリンパスなど、 製造業だけでなく、幅広い業界のクライアント様とお取引をしています",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも、外資自動車メーカーの研究開発を請け負い、",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "エスラボ、3Dプリント量産「飛沫防止用フェイスシールド」製造開始",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、3Dプリントで自動車のカスタムパーツを制作するトヨタ自動車との共同プロジェクト「",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子は金型用部品などを製造する生産器材部門を抱えており、カブクの技術を活用することで事業を拡大できると判断した",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法 / DED（Direct Energy Deposition）を解説！WAAM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車インパネ等の蛍光表示管で世界首位の双葉電子工業（本社：千葉県茂原市、代表：代表取締役社長 高橋 和伸）は、カブク（本社：東京都新宿区、代表：代表取締役 稲田 雅彦）の株式を取得し子会社化すること発表した",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "卸売だけではなくメーカー機能を有し、ライフサイエンスにおける最先端の研究開発等も行っている",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "買収企業は、医療関連の一定領域のパイオニアであり、それを基盤とした他分野への事業展開の1つの柱として、保育園の運営もおこなってる上場企業",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作あるいは試作から量産までに適した素材をラインアップしている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "防衛や高セキュリティ環境向けの3Dプリンタを発表",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMakerは、防衛や高セキュリティ環境で利用可能な3Dプリンタ「Secure Line」シリーズを発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来の工業製品のような商品ですと、クリエイターさんが工場を口説いて金型を作る作業が発生します",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "そうすると、１回金型を作って100万円、という作業を4-5回繰り返して400万、500万",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "■試作・特注品・量産オンデマンド受託製造サービス事業",
+    "url": "https://mono.ipros.com/company/detail/2064506/",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車、本田技術工業、オリンパス、ロフト、電通、博報堂 他300社",
+    "url": "https://mono.ipros.com/company/detail/2064506/",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、三菱商事とグローバル製造プラットフォーム事業で業務提携 試作品・特注品・金型製造の見積りから納品までのワンストップ支援を開始",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "金属・樹脂3Dプリンティングの造形データガイドラインもご確認いただけます",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメント対応の低価格3Dプリンタ「Adventurer3X」",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "金属、樹脂系3Dプリント製造の即時見積り機能をカブク、Webプラットフォームで提供開始 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂材料（73）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料（29）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属、樹脂系3Dプリント製造の即時見積り機能をカブク、Webプラットフォームで提供開始！",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属：SUS316L、SUS630、AlSi10Mg、Ti6Al4V",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂：Onyx（短繊維 CFRP）、Onyx+Carbon Fiber（長繊維 CFRP）",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属：最小 / (W)10 x (D)10 x (H)10mm、最大 / (W)398 x (D)398 x (H)360mm",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂：最小 / (W)10 x (D)10 x (H)10mm、最大 / (W)320 x (D)132 x (H)154mm",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える樹脂材料は？ABS樹脂やPLA樹脂など種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂・金属以外の材料の3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・金属製品製造業界のM&Aニュースをすべて見る",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回追加された素材はいずれも樹脂系で、価格を重視した新たなラインアップとして位置付けられている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "エコノミー版素材として追加されたのは、「ポリアミド（SLS PA12）／エコノミー」「ポリアミド（MJF PA12）／エコノミー」「ABS-like樹脂・白／エコノミー」「ポリプロピレン（SLS PP-GD）／エコノミー」の4種類である",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ABS-like樹脂・白／エコノミー」「ポリプロピレン（SLS PP-GD）／エコノミー」［クリックで拡大］ 出所：カブク",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "高精細なPEEK造形に対応する、国産超高速産業用3Dプリンタを発売",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "最高ノズル温度は450℃、最高造形速度は毎秒700mm、積層ピッチは0.05〜0.2mmで、従来困難だったPEEK部品の高精細な造形に対応する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、オンデマンド製造プラットフォーム「Kabuku Connect」、3Dプリントエコノミー版に「光造形樹脂」を追加",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "当社は2013年に創業したベンチャー企業で、オンデマンド製造業プラットフォーム「",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "はい、当社は2013年に創業し、個人・スタートアップの規模でも、ものづくりのビジネスを興せるように、と",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "はい、創業当初はホビーユースをメインにサービス提供していたこともあり、『カブク』の名前をご存知の方の中でもBtoB製造業の企業様とのお取引に驚かれる方もいらっしゃいますが、",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "カブク創業者の稲田雅彦社長ら経営陣は続投し、双葉電子は非常勤の取締役と監査役を1人ずつ派遣する見通しだ",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "ファブラボ神田錦町とデザイニトは、都市型マイクロファクトリー「錦町三丁目工場」を創業した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "カブク株式会社は2013年1月に設立されたベンチャー企業",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年株式会社カブクを設立",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年に株式会社アマテラス（現スタートアップクラス）を創業",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   }
+  ],
+  "参入の時期と形": [
+   {
+    "quote": "ステンレス鋼部品製作用「Ultrafuse 316L」販売開始",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "工業用FFF方式3Dプリンタ「Guider2s」販売開始",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabsの最新3Dプリンタ「Form 3」日本市場で展開開始",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "世界最軽量フィラメント『Pegasus PP Ultralight』販売開始",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー彫刻可能なフィラメント「Laser Marking PLA」発売開始",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "エスラボ、3Dプリント量産「飛沫防止用フェイスシールド」製造開始",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "“木材”を利用した3Dプリントサービス--Rinkakが4月28日に開始",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "デザイナーらが直販できる「rinkak」正式サービス開始--3Dプリンタで製品化",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "“3Dデータ版Etsy”目指す--ものづくりマーケット「rinkak」、ユーザーの事前登録を開始",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "カブクの経営陣や投資ファンドが保有する株式を買い取り、出資比率を90%とする",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子は5月に策定した中期経営計画で、M&A（合併・買収）を積極的に進める方針を示した",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "金属、樹脂系3Dプリント製造の即時見積り機能をカブク、Webプラットフォームで提供開始 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "金属、樹脂系3Dプリント製造の即時見積り機能をカブク、Webプラットフォームで提供開始！",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "カブクコネクト）」において、3Dプリント製造向けの即時見積機能を追加し、2019年7月3日(水)より提供を開始した",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子工業＜6986＞、3Dプリンターものづくりプラットフォーム運営のカブクを買収 - コーポレート・アドバイザーズM&A",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子工業＜6986＞、3Dプリンターものづくりプラットフォーム運営のカブクを買収",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "買収企業は、九州地方に基盤を置き、全国展開をしている同業者",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "買収企業は、プラント設備の製造・販売・メンテナンスをしている会社です",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "買収企業は、医療関連の一定領域のパイオニアであり、それを基盤とした他分野への事業展開の1つの柱として、保育園の運営もおこなってる上場企業",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、積極的にM&Aに取り組んでいる企業であることから、弊社より本件M&Aの可能性を打診し、その有効性についての提案をおこなったもの、買収企業としては、今後の更なるエリアの拡大に寄与する場所に位置し、かつ既存園との距離が適度に保たれている場所であることから、前向きに進めたい意向を表明しました",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "買収企業は、グループ会社約30社を擁する持株会社です",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "高精細なPEEK造形に対応する、国産超高速産業用3Dプリンタを発売",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "グーテンベルクは、国産の超高速産業用3Dプリンタ「G-ZERO MP1」の販売開始を発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "pass": 3
+   },
+   {
+    "quote": "カブク株式会社は2013年1月に設立されたベンチャー企業",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年株式会社カブクを設立",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "かつ、在庫を持たずに、受注がくれば、その都度カブクの提携工場で製造して発送される",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "僕が博報堂にいたときに2年くらい前に仕事を通じて足立（現 カブク取締役CTO）と知合い、“ハードウェアにおける個人の民主化”を行なおうと考えてカブクを立ち上げました",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "それに、そもそも個人として参入できるような世界ではないというのが現状です",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "そういう経緯で立ち上げたのが“カブク”です",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "それが“rinkak”を立ち上げることに繋がるのですが、いろんな裾野を広げて多様性を増やして、今いるプレーヤー以外にもいろんな血が入ってくることで、競争環境が生まれて、最終的に今よりも遥かに大きな山に登れる",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "“カブク”を立ち上げたのもそもそも大きな山を登れるようなことをしていきたいという考えが根底にあります",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "会社はまだ立ち上げて1年目ですが、立上げ時の資金工面や人材集めはどうされたのですか？",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "今後のビジョンや、“rinkak”以外の事業立ち上げのイメージは？",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "2004年、株式会社ドリームインキュベータに参画し、スタートアップへの投資（ベンチャーキャピタル）、戦略構築、事業立ち上げ、実行支援、経営管理などに携わる",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の提携工場で製造する、オンデマンド製造プラットフォーム「Kabuku Connect」を提供しております",
+    "url": "https://mono.ipros.com/company/detail/2064506/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月に技術コンサル協会を立ち上げ",
+    "url": "https://mono.ipros.com/company/detail/2064506/",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、ローランド・ベルガーとデジタル製造分野でのソリューション連携において業務提携",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、日本通運とデジタル製造事業におけるグローバル物流で業務提携",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、三菱商事とグローバル製造プラットフォーム事業で業務提携 試作品・特注品・金型製造の見積りから納品までのワンストップ支援を開始",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、ランサーズと業務提携 3Dモデリング領域の人材流通で連携",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "リンカク、FEEL GOOD CREATION とデジタルものづくりの仕上げ領域で業務提携",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、電通と業務提携 デジタルファブリケーション領域で連携",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンド製造プラットフォーム「Kabuku Connect」にて『リバースエンジニアリングサービス』を本格提供開始",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、オンデマンド製造プラットフォーム「Kabuku Connect」にて発注者転送機能提供開始、見積から発注までをよりスムーズに",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、オンデマンド製造プラットフォーム「Kabuku Connect」において製罐（溶接）の対応開始、より広範囲な工法・材質で見積りから調達までサポート可能に",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "「rinkak」がサービス終了を発表 | 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "3Dものづくりマーケット「rinkak」がサービス終了を発表",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "3Dものづくりマーケットとして、国内3Dプリントサービスの先駆けとなった「rinkak」は、2020年8月1日（土）にサービスを終了することを発表",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "サービス終了に伴い、下記の通り機能の停止等を実施することをユーザーへ伝えた",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "提供終了サービス：「rinkak（リンカク）」",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "サービス終了日：2020年8月1日",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "※ 2020年6月1日より、新規ご注文及び新規データの登録機能を停止",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "※ 2020年8月1日より、ユーザーページへのログイン等、すべての機能が終了",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "サービス終了後、売り上げが発生しているクリエイターに対しては、2020年8月末日までにPayPalアカウントに売り上げが支払われる",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "サービス終了後に再製造の注文を希望する場合は、同社ホームページ「お問い合わせ」（",
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "pass": 3
+   },
+   {
+    "quote": "居抜きでの設備譲渡を想定していますが、患者や歯科医師1名の引継ぎも応相談です",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "譲渡企業と同様に、安定した経営を実現して事業を拡大していくためには同業者との合従連衡による規模拡大と業務効率化が必要性を認識しており、自社の経営ノウハウを活かしながら事業の効率化・拡大ができると判断し、株式譲受により譲渡企業をグループに迎え入れました",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京エリア拡充のため、譲渡企業の株式譲渡を受ける運びとなった",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "長年の経験により培われた譲渡企業の技術を取り入れることで制御技術の内製化を図るため、譲渡企業をグループに迎え入れました",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社の海外生産、輸出、海外販売、物流、広告機能を活かしながら、譲渡企業の生産コスト及び物流コストの削減、海外販売を進められると判断し、株式取得により、譲渡企業をグループに迎え入れました",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "3Dプリントのカブク、4億円を調達--プラットフォーム機能を強化 - CNET Japan",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントのカブク、4億円を調達--プラットフォーム機能を強化",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "カブクは8月28日、グローバル・ブレインから約4億円の資金を調達したと発表した",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は本ラウンドで総額約7.5億円の資金調達を計画しており、今回の増資はそれに先立ち実施したもの",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "取得価額は、1,355 百万円",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "5000万円～1億円",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "5～10億円",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "10～50億円",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "様々な業態の会社で構成されるグループで、個々のグループ会社の事業特性・機能・取引先を相互に連携、活用しながら売上・利益を最大化していく事を得意としています",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、第三者割当増資を実施 約3.5億円を調達",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、第三者割当増資を実施 約4億円を調達",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "カブク、第三者割当増資を実施 総額約2億円を調達",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "カブクの経営陣や投資ファンドが保有する株式を買い取り、出資比率を90%とする",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "双葉電子は5月に策定した中期経営計画で、M&A（合併・買収）を積極的に進める方針を示した",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子工業＜6986＞、3Dプリンターものづくりプラットフォーム運営のカブクを買収 - コーポレート・アドバイザーズM&A",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子工業＜6986＞、3Dプリンターものづくりプラットフォーム運営のカブクを買収",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "買収企業は、九州地方に基盤を置き、全国展開をしている同業者",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "買収企業は、プラント設備の製造・販売・メンテナンスをしている会社です",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "買収企業は、医療関連の一定領域のパイオニアであり、それを基盤とした他分野への事業展開の1つの柱として、保育園の運営もおこなってる上場企業",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、積極的にM&Aに取り組んでいる企業であることから、弊社より本件M&Aの可能性を打診し、その有効性についての提案をおこなったもの、買収企業としては、今後の更なるエリアの拡大に寄与する場所に位置し、かつ既存園との距離が適度に保たれている場所であることから、前向きに進めたい意向を表明しました",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "買収企業は、グループ会社約30社を擁する持株会社です",
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "革新的な製造業プラットフォーム－株式会社 カブク | 業務用 3D ... — 革新的な製造業プラットフォーム－株式会社 カブク | 業務用 3D ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > その他製品・サービス",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンド製造プラットフォーム「Kabuku Connect」にて ... — オンデマンド製造プラットフォーム「Kabuku Connect」にて ... 株式会社カブク https://www.kabuku.co.jp > 新着情報 > 新着情報",
+    "url": "https://www.kabuku.co.jp/news/release-kabukuconnect-250925/",
+    "pass": 3
+   },
+   {
+    "quote": "3D プリントの カブク 、4億円を調達--プラットフォーム機能を ... — 3D プリントの カブク 、4億円を調達--プラットフォーム機能を ... CNET Japan https://japan.cnet.com > ニュース > 企業・業界",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子、 カブク を子会社化 クラウド技術活用へ - 日本経済新聞 — 双葉電子、 カブク を子会社化 クラウド技術活用へ - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "金属、樹脂系 3Dプリント 製造の即時見積り機能を カブク — 金属、樹脂系 3Dプリント 製造の即時見積り機能を カブク ShareLab NEWS https://news.sharelab.jp > 業界動向 > その他製品・サービス",
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント の カブク 、4億円を調達--プラットフォーム機能を ... — 3Dプリント の カブク 、4億円を調達--プラットフォーム機能を ... CNET Japan https://japan.cnet.com > ニュース > 企業・業界",
+    "url": "https://japan.cnet.com/article/35069579/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カブク 代表取締役 稲田雅彦氏 - CEO インタビュー — 株式会社 カブク 代表取締役 稲田雅彦氏 - CEO インタビュー スタクラ https://startupclass.co.jp > ... > CEOインタビュー",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "将来・環境 - 株式会社 カブク — 将来・環境 - 株式会社 カブク 株式会社カブク https://www.kabuku.co.jp > 採用",
+    "url": "https://www.kabuku.co.jp/recruit/future/",
+    "pass": 3
+   },
+   {
+    "quote": "第一回 次世代 3Dプリンタ 展にオンデマンド受託製造サービス ... — 第一回 次世代 3Dプリンタ 展にオンデマンド受託製造サービス ... 株式会社カブク https://www.kabuku.co.jp > 新着情報 > 新着情報",
+    "url": "https://www.kabuku.co.jp/news/exhibition_3dpt/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント ＋鋳造で精密な部品を作る！ - Kabuku Connect — 3Dプリント ＋鋳造で精密な部品を作る！ - Kabuku Connect Kabuku Connect https://www.kabuku.io > ... > ウェビナー申し込み・視聴",
+    "url": "https://www.kabuku.io/webinars/goto0826/",
+    "pass": 3
+   },
+   {
+    "quote": "カブク | 企業情報 | イプロスものづくり — カブク | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2064506/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社カブク - スピーダ スタートアップ情報リサーチ — 株式 会社カブク - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-12255",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社カブク 代表取締役 稲田雅彦氏 - CEOインタビュー — 株式 会社カブク 代表取締役 稲田雅彦氏 - CEOインタビュー スタクラ https://startupclass.co.jp > ... > CEOインタビュー",
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カブク （東京都）の 会社概要 ・役員 - Compalyze — 株式会社 カブク （東京都）の 会社概要 ・役員 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > SaaS",
+    "url": "https://compalyze.co.jp/company/5011001093309",
+    "pass": 3
+   },
+   {
+    "quote": "革新的な製造業プラットフォーム－株式 会社カブク | 業務用3D ... — 革新的な製造業プラットフォーム－株式 会社カブク | 業務用3D ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > その他製品・サービス",
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 カブク (@kabuku_news) / X 株式会社 カブク (@kabuku_news) / X X https://x.com > kabuku_news",
+    "url": "https://x.com/kabuku_news",
+    "pass": 3
+   },
+   {
+    "quote": "KJ Sunada on X: \" カブク では、20%のリソースを好きなこと ... KJ Sunada on X: \" カブク では、20%のリソースを好きなこと ... X https://x.com > @KENZI_SUNADA",
+    "url": "https://x.com/KENZI_SUNADA/status/2117560532840435750",
+    "pass": 3
+   },
+   {
+    "quote": "KJ Sunada - カブク のエンジニアを集めて合宿中 この半年で - X KJ Sunada - カブク のエンジニアを集めて合宿中 この半年で - X X https://x.com > @KENZI_SUNADA",
+    "url": "https://x.com/KENZI_SUNADA/status/2117508887473770512",
+    "pass": 3
+   },
+   {
+    "quote": "カブク (@MtDh5a) / X カブク (@MtDh5a) / X X https://x.com > ...",
+    "url": "https://x.com/MtDh5a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "yoshiaki nishimura - 株式会社 カブク - 取締役 - LinkedIn yoshiaki nishimura - 株式会社 カブク - 取締役 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/yoshiaki-nishimura-7130b9270",
+    "pass": 3
+   },
+   {
+    "quote": "shimpei yamaguchi - カブク ー 事業開発 - LinkedIn shimpei yamaguchi - カブク ー 事業開発 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/shimpei-yamaguchi-7a8639131",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 カブク | Chiyoda-ku Tokyo - Facebook 株式会社 カブク | Chiyoda-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/KabukuInc/",
+    "pass": 3
+   },
+   {
+    "quote": "【おかげさまで5年目に入りました】 株式会社 カブク は ... 【おかげさまで5年目に入りました】 株式会社 カブク は ... Facebook https://www.facebook.com > junichi.ito.52 > posts > おか...",
+    "url": "https://www.facebook.com/junichi.ito.52/posts/%E3%81%8A%E3%81%8B%E3%81%92%E3%81%95%E3%81%BE%E3%81%A7%EF%BC%95%E5%B9%B4%E7%9B%AE%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%96%E3%82%AF%E3%81%AF%E6%9C%AC%E6%97%A54%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%885%E5%B9%B4%E7%9B%AE%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%93%E3%81%BE%E3%81%A7%E6%9D%A5%E3%82%89%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%AF%E9%96%A2%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%A3%E3%81%9F%E7%9A%86%E3%81%95%E3%81%BE%E3%81%AE%E3%81%8A%E3%81%8B%E3%81%92%E3%81%A7%E3%81%99-%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84/26889133607402898/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カブク （本社：東京都千代田区、代表取締役：村野 ... 株式会社 カブク （本社：東京都千代田区、代表取締役：村野 ... Facebook https://www.facebook.com > KabukuInc > posts > 株式会...",
+    "url": "https://www.facebook.com/KabukuInc/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%96%E3%82%AF%E6%9C%AC%E7%A4%BE%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E6%9D%91%E9%87%8E-%E4%BB%81%E8%8B%B1%E3%81%AF%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%9C%AC%E7%A4%BE%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E8%A7%92%E7%94%B0-%E6%B5%A9%E5%8F%B8%E3%81%A8%E5%8D%94%E6%A5%AD%E3%81%97%E3%82%AB%E3%83%96%E3%82%AF%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%A6%E7%99%BD/848670443927395/",
+    "pass": 3
+   },
+   {
+    "quote": "Kabuku - Facebook Kabuku - Facebook Facebook https://www.facebook.com > KABUKUSTORE > posts",
+    "url": "https://www.facebook.com/KABUKUSTORE/posts/%E3%82%AB%E3%83%96%E3%82%AF%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%AB%E3%81%82%E3%82%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%AC%E3%83%88%E3%83%AD%E3%81%95%E3%81%A8%E4%BB%8A%E3%82%92mix%E3%81%95%E3%81%9B%E3%81%9F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%92%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%A7%E8%A1%A8%E7%8F%BE%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9D%E3%82%8C%E3%81%AF%E5%9B%BD%E3%81%AB%E3%81%A8%E3%82%89%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E6%96%87%E5%AD%97%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%8A%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%8A%E6%97%A5%E5%B8%B8%E7%9A%84%E3%81%AB/1079469157175106/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kabu-ku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabu-ku.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabu-ku.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabu-ku.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabu-ku.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabu-ku.com/business/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuku.co.jp/news/release-kabukuconnect-250925/",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/article/35069579/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://co-ad.jp/news/20170828-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/article/35069579/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://strainer.jp/tags/3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-117013",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ninesigma.com/jp/news/column_3dprinter/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_9305/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuku.co.jp/recruit/future/",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuku.co.jp/news/exhibition_3dpt/",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuku.io/webinars/goto0826/",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/article/35069579/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2064506/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-12255",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/5011001093309",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kabuku_news",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KENZI_SUNADA/status/2117560532840435750",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KENZI_SUNADA/status/2117508887473770512",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MtDh5a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yoshiaki-nishimura-7130b9270",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shimpei-yamaguchi-7a8639131",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KabukuInc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/junichi.ito.52/posts/%E3%81%8A%E3%81%8B%E3%81%92%E3%81%95%E3%81%BE%E3%81%A7%EF%BC%95%E5%B9%B4%E7%9B%AE%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%96%E3%82%AF%E3%81%AF%E6%9C%AC%E6%97%A54%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%885%E5%B9%B4%E7%9B%AE%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%93%E3%81%BE%E3%81%A7%E6%9D%A5%E3%82%89%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%AF%E9%96%A2%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%A3%E3%81%9F%E7%9A%86%E3%81%95%E3%81%BE%E3%81%AE%E3%81%8A%E3%81%8B%E3%81%92%E3%81%A7%E3%81%99-%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84/26889133607402898/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KabukuInc/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%96%E3%82%AF%E6%9C%AC%E7%A4%BE%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E6%9D%91%E9%87%8E-%E4%BB%81%E8%8B%B1%E3%81%AF%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%9C%AC%E7%A4%BE%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E8%A7%92%E7%94%B0-%E6%B5%A9%E5%8F%B8%E3%81%A8%E5%8D%94%E6%A5%AD%E3%81%97%E3%82%AB%E3%83%96%E3%82%AF%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%A6%E7%99%BD/848670443927395/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KABUKUSTORE/posts/%E3%82%AB%E3%83%96%E3%82%AF%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%AB%E3%81%82%E3%82%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%AC%E3%83%88%E3%83%AD%E3%81%95%E3%81%A8%E4%BB%8A%E3%82%92mix%E3%81%95%E3%81%9B%E3%81%9F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%92%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%A7%E8%A1%A8%E7%8F%BE%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9D%E3%82%8C%E3%81%AF%E5%9B%BD%E3%81%AB%E3%81%A8%E3%82%89%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E6%96%87%E5%AD%97%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%8A%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%8A%E6%97%A5%E5%B8%B8%E7%9A%84%E3%81%AB/1079469157175106/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MtDh5a",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "カブク",
+   "results": [
+    "https://mono.ipros.com/company/detail/2064506/",
+    "https://kabu-ku.com/",
+    "https://www.kabuku.co.jp/recruit/future/",
+    "https://www.facebook.com/KabukuInc/",
+    "https://ipbase.go.jp/learn/content/example/page001.php",
+    "https://initial.inc/companies/A-12255",
+    "https://pr.forkwell.com/career_navi/kabuku-web-infrastructure/",
+    "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "https://www.kabuku.co.jp/"
+   ]
+  },
+  {
+   "query": "カブク 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "https://www.kabuku.co.jp/news/release-kabukuconnect-250925/",
+    "https://idarts.co.jp/3dp/rinkak_finish/?srsltid=AYCX9vJtlYTaDE4PZ1mrs4aoenDfDx2wj2G2KU-xmwzZpIJUcVHrl8GH",
+    "https://japan.cnet.com/article/35069579/",
+    "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "https://www.lifehacker.jp/article/140106startup_kabuku/",
+    "https://www.kabuku.io/tech_category/3d-printer/",
+    "https://www.futaba.co.jp/product/equipment_smmw/3dprint",
+    "https://www.wantedly.com/projects/49534",
+    "https://www.kabuku.co.jp/"
+   ]
+  },
+  {
+   "query": "カブク 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.nikkei.com/article/DGXLASDZ25I5U_V20C17A8TJ2000/",
+    "https://news.sharelab.jp/3dp-news/others/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%8D%B3%E6%99%82%E8%A6%8B%E7%A9%8D%E6%A9%9F%E8%83%BD%E3%82%92%E3%82%AB%E3%83%96%E3%82%AF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/",
+    "https://co-ad.jp/news/20170828-2.html",
+    "https://japan.cnet.com/article/35069579/",
+    "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "https://idarts.co.jp/3dp/kabuku-patent/?srsltid=AYCX9vLaucfxWxLc_HkuC1VQOFidAmWYgNaQj6O4g82h39HS_LCF0E46",
+    "https://www.kabuku.io/webinars/goto0826/",
+    "https://www.futaba.co.jp/product/equipment_smmw/3dprint",
+    "https://prtimes.jp/main/html/rd/p/000000083.000007606.html",
+    "https://www.kabuku.co.jp/"
+   ]
+  },
+  {
+   "query": "カブク 積層造形 事業 売上",
+   "results": [
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://strainer.jp/tags/3d-printing",
+    "https://www.fortunebusinessinsights.com/jp/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-117013",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.atpress.ne.jp/news/4635643",
+    "https://startup-db.com/companies/M6r0Ge9UNBVGn3v5",
+    "https://news.sharelab.jp/3dp-news/report/idtechex-250610/",
+    "https://www.dreamnews.jp/press/0000366520",
+    "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/981"
+   ]
+  },
+  {
+   "query": "カブク 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "https://www.ninesigma.com/jp/news/column_3dprinter/",
+    "https://www.nttdata-xam.com/blog/development/article_9305/",
+    "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "https://www.kabuku.co.jp/recruit/future/",
+    "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "https://www.aktio.co.jp/magazine/work-ability/20221102-1342.html",
+    "https://www.kabuku.io/case/3d-printer/am-0020/",
+    "https://sekokan-navi.jp/magazine/87660",
+    "https://kabukicho-culture-press.jp/all/business/1417"
+   ]
+  },
+  {
+   "query": "カブク 決算説明 3Dプリンタ",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "https://www.kabuku.co.jp/news/exhibition_3dpt/",
+    "https://monoist.itmedia.co.jp/mn/articles/2510/01/news056.html",
+    "https://www.kabuku.io/webinars/goto0826/",
+    "https://japan.cnet.com/article/35069579/",
+    "https://kigyolog.com/company.php?id=42",
+    "https://forbesjapan.com/articles/detail/11847",
+    "https://prtimes.jp/main/html/rd/p/000000018.000007606.html",
+    "https://startup-db.com/investment-companies/7LPWpoVUO9MGz5Em",
+    "https://catr.jp/companies/1169e/25990/settlements/76525/476423"
+   ]
+  },
+  {
+   "query": "カブク 会社概要 設立 株主",
+   "results": [
+    "https://mono.ipros.com/company/detail/2064506/",
+    "https://initial.inc/companies/A-12255",
+    "https://startupclass.co.jp/article/2014/01/06/technology-kabuku/",
+    "https://compalyze.co.jp/company/5011001093309",
+    "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "https://www.buffett-code.com/company/5ejfqk5mfc/",
+    "https://tomoruba.eiicon.net/articles/323",
+    "https://kabu-peace.co.jp/company",
+    "https://ipbase.go.jp/learn/content/example/page001.php",
+    "https://www.kabuku.co.jp/company"
+   ]
+  },
+  {
+   "query": "site:note.com カブク",
+   "results": [
+    "https://note.com/kj_suna/n/nf1a28b97ee74",
+    "https://note.com/clever_chives786/n/n91948cc0fd22",
+    "https://note.com/dnx_vc/n/n38de96a0d100",
+    "https://note.com/laterne_hkd/n/nbb22f226b7e4",
+    "https://note.com/dnx_vc/n/n824dc9636af0",
+    "https://note.com/kaneiri14/n/na0a8c1aca9b1",
+    "https://note.com/dnx_vc/n/n53b68c9c364d",
+    "https://note.com/kakuichi/n/n5009268c1d6b",
+    "https://note.com/dnx_vc/n/n6652372d61e0",
+    "https://note.com/ubies/n/nbd797238f905"
+   ]
+  },
+  {
+   "query": "site:x.com カブク",
+   "results": [
+    "https://x.com/kabuku_news",
+    "https://x.com/KENZI_SUNADA/status/2117560532840435750",
+    "https://x.com/KENZI_SUNADA/status/2117508887473770512",
+    "https://x.com/MtDh5a",
+    "https://x.com/kabuku_news/status/2015620814260105256",
+    "https://x.com/HafHtheWorld/status/2096961152404304127",
+    "https://x.com/kabuku_unit",
+    "https://x.com/kabuku_news/status/2027217137413071068",
+    "https://x.com/hashtag/%E5%8B%9D%E6%89%8B%E3%81%AB%E3%82%AB%E3%83%96%E3%82%AF",
+    "https://x.com/MtDh5a/status/1784776218254131614"
+   ]
+  },
+  {
+   "query": "site:linkedin.com カブク",
+   "results": [
+    "https://jp.linkedin.com/in/yoshiaki-nishimura-7130b9270",
+    "https://jp.linkedin.com/in/shimpei-yamaguchi-7a8639131",
+    "https://jp.linkedin.com/in/masanori-suzuki-3a3444405",
+    "https://jp.linkedin.com/in/%E5%85%BC%E4%BA%BA-%E6%B8%A1%E9%82%89-22731498",
+    "https://jp.linkedin.com/in/%E4%BB%81%E8%8B%B1-%E6%9D%91%E9%87%8E-2ab9b61b8",
+    "https://www.linkedin.com/pub/dir/Shimpei/Yamaguchi",
+    "https://www.linkedin.com/pub/dir/Yoshiaki/Nishimura/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Shinpei/Yamaguchi",
+    "https://jp.linkedin.com/pub/dir/Shimpei/Yamaguchi",
+    "https://jp.linkedin.com/in/adamtwebb"
+   ]
+  },
+  {
+   "query": "site:facebook.com カブク",
+   "results": [
+    "https://www.facebook.com/KabukuInc/",
+    "https://www.facebook.com/junichi.ito.52/posts/%E3%81%8A%E3%81%8B%E3%81%92%E3%81%95%E3%81%BE%E3%81%A7%EF%BC%95%E5%B9%B4%E7%9B%AE%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%96%E3%82%AF%E3%81%AF%E6%9C%AC%E6%97%A54%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%885%E5%B9%B4%E7%9B%AE%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%93%E3%81%BE%E3%81%A7%E6%9D%A5%E3%82%89%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%AF%E9%96%A2%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%A3%E3%81%9F%E7%9A%86%E3%81%95%E3%81%BE%E3%81%AE%E3%81%8A%E3%81%8B%E3%81%92%E3%81%A7%E3%81%99-%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84/26889133607402898/",
+    "https://www.facebook.com/KabukuInc/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%96%E3%82%AF%E6%9C%AC%E7%A4%BE%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E6%9D%91%E9%87%8E-%E4%BB%81%E8%8B%B1%E3%81%AF%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%9C%AC%E7%A4%BE%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E8%A7%92%E7%94%B0-%E6%B5%A9%E5%8F%B8%E3%81%A8%E5%8D%94%E6%A5%AD%E3%81%97%E3%82%AB%E3%83%96%E3%82%AF%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%A6%E7%99%BD/848670443927395/",
+    "https://www.facebook.com/KABUKUSTORE/posts/%E3%82%AB%E3%83%96%E3%82%AF%E3%81%AF%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%AB%E3%81%82%E3%82%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%AC%E3%83%88%E3%83%AD%E3%81%95%E3%81%A8%E4%BB%8A%E3%82%92mix%E3%81%95%E3%81%9B%E3%81%9F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%92%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%A7%E8%A1%A8%E7%8F%BE%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9D%E3%82%8C%E3%81%AF%E5%9B%BD%E3%81%AB%E3%81%A8%E3%82%89%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E6%96%87%E5%AD%97%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%8A%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%8A%E6%97%A5%E5%B8%B8%E7%9A%84%E3%81%AB/1079469157175106/",
+    "https://www.facebook.com/KabukuInc/posts/%E3%81%8A%E5%BD%B9%E7%AB%8B%E3%81%A1%E6%83%85%E5%A0%B1%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%8A%80%E8%A1%93%E5%A3%AB%E3%81%AE%E7%94%B0%E5%8F%A3%E5%85%88%E7%94%9F%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A3%E8%BC%89%E8%A8%AD%E8%A8%88%E8%80%85%E3%81%8C%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%81%AE%E6%9D%90%E6%96%99%E7%89%B9%E6%80%A7%E7%AC%AC7%E5%9B%9E%E3%81%AF%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%81%AE%E5%BF%9C%E7%94%A8%E7%89%B9%E6%80%A71%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%A7%E3%81%99%E8%A8%98%E4%BA%8B%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%8B%E3%82%89/785982476862859/",
+    "https://www.facebook.com/thegardenofsiloam.org.jp/posts/6%E6%9C%88%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E8%B5%A4%E9%81%93%E7%9B%B4%E4%B8%8B%E3%81%AE%E3%82%B1%E3%83%8B%E3%82%A2%E3%81%A7%E4%BF%A1%E3%81%98%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8C6-8%E6%9C%88%E3%81%AF%E3%81%A8%E3%83%BC%E3%81%A3%E3%81%A6%E3%82%82%E5%AF%92%E3%81%84%E3%82%93%E3%81%A7%E3%81%99%E6%96%B0%E6%96%BD%E8%A8%AD%E3%81%AE%E3%81%82%E3%82%8B%E3%82%AB%E3%83%96%E3%82%AF%E6%9D%91%E3%81%AF%E6%A8%99%E9%AB%98%E7%B4%842500m%E3%81%82%E3%82%8A%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%93%E3%82%88%E3%82%8A%E3%81%9A%E3%81%A3%E3%81%A8%E9%AB%98%E3%81%84%E3%81%93%E3%82%8C/880553384113921/",
+    "https://www.facebook.com/media/set/?set=a.593007144238929.1073741833.525477757658535&type=3",
+    "https://www.facebook.com/enfackigyotv/videos/%E3%82%AB%E3%83%96%E3%82%AF%E7%A8%B2%E7%94%B0%E9%9B%85%E5%BD%A6%E4%BB%A3%E8%A1%A8%E6%9D%B1%E5%A4%A7%E9%99%A2%E3%81%8B%E3%82%89%E5%8D%9A%E5%A0%B1%E5%A0%82%E3%81%9D%E3%81%97%E3%81%A6%E8%B5%B7%E6%A5%AD%E7%A4%BE%E5%86%85%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%88%E3%82%8A%E5%A4%96%E3%81%A7%E8%B5%B7%E6%A5%AD%E3%81%99%E3%82%8B%E3%81%BB%E3%81%86%E3%81%8C%E5%91%A8%E5%9B%B2%E3%82%92%E5%B7%BB%E3%81%8D%E8%BE%BC%E3%81%BF%E3%82%84%E3%81%99%E3%81%84%E5%BE%8C%E7%B7%A8/1234954683198311/",
+    "https://www.facebook.com/JSTF.jp/posts/%E5%9B%A3%E4%BD%93pv%E7%AC%AC3%E5%BC%BE%E7%AC%AC3%E5%BC%BE%E3%81%AFc%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AE3%E5%9B%A3%E4%BD%93%E3%81%A7%E3%81%99%EF%B8%8F%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%AD%A6%E7%94%9F%E6%BC%94%E5%8A%87%E7%A5%AD%E6%8E%A8%E8%96%A6%E5%8A%87%E5%9B%A3%E3%81%A8%E3%81%8B%E3%81%92%E3%81%AE%E3%81%97%E3%81%A3%E3%81%BD-%E5%8C%97%E6%B5%B7%E9%81%93%E5%AD%A6%E7%94%9F%E6%BC%94%E5%8A%87%E7%A5%AD%E6%8E%A8%E8%96%A6%E3%82%AB%E3%83%96%E3%82%AF%E7%A6%8F%E5%B2%A1%E5%AD%A6%E7%94%9F%E6%BC%94%E5%8A%87%E7%A5%AD%E6%8E%A8%E8%96%A6%E3%83%88%E3%83%AD%E3%82%A4%E3%81%AE%E7%AE%B1%E9%A6%AC%E5%85%A8%E5%9B%BD%E5%AD%A6%E7%94%9F%E6%BC%94%E5%8A%87%E7%A5%AD20/1485591696904516/",
+    "https://www.facebook.com/17841450376798110/videos/24280960374899518/"
+   ]
+  },
+  {
+   "query": "カブク note 社長",
+   "results": [
+    "https://diamond.jp/articles/-/388572",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "カブク X 投稿",
+   "results": [
+    "https://x.com/MtDh5a",
+    "https://www.asoview.com/base/158435/asorepo/image/",
+    "https://news.sharelab.jp/3dp-news/others/kabuku-quote/",
+    "https://www.kabuku.co.jp/recruit/future/",
+    "https://kabu-ku.com/",
+    "https://kigyolog.com/company.php?id=42",
+    "https://www.kabuku.io/helpful/",
+    "https://x.com/kabuku_unit",
+    "https://www.instagram.com/kabuku_unit/",
+    "https://www.instagram.com/reel/DQJc_4bEorH/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部41頁・検索13回）",
+  "設立": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部41頁・検索13回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部41頁・検索13回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部41頁・検索13回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部41頁・検索13回）",
+  "代表者": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部41頁・検索13回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部41頁・検索13回）"
+ }
+}

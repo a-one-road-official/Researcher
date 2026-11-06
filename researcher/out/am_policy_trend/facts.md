@@ -1,0 +1,1349 @@
+# AMに関わる施策・需要の集計開始から2026年までの推移（増加率の材料）（事実のみ・12品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年）（Japan Defense Production Base Strengthening Act certified plans number and amount by year）
+- 文脈：一次・防衛装備庁・場面①
+- 件数の推移：
+  - 「2025年度は、計164件について認定を行ったところである」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「2025年度は、計164件について認定を行ったところであるが、このうち、124件は、中小企業による取組が認定されている」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「計画の認定は2024年度121件（約234億円）、2025年度164件（うち中小企業124件）」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「法施行〜2025年3月末（累計）」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「うち中小企業124件」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「認定件数は増加傾向にあり、2025年度は認定の約4分の3が中小企業によるものでした」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「経団連は2026年5月の提言「防衛生産・技術基盤の抜本的強化に向けて」で、国営工廠やGOCO（国有施設民間操業）について、民間投資が現実的でない案件に限定し、政府の統制・関与を極力少なくするなど慎重な検討を求めています」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「運営者の視点：1件あたりの金額と、制度間の規模の差」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「1. 認定1件あたりは約2億円」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「2024年度の認定は121件で約234億円、1件あたり約1.9億円です」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「法施行から2025年3月末までの累計は157件・約332億円で、1件あたり約2.1億円になります」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「2. 移転の基金は認定累計の約5倍」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「特定取組の認定の累計（約332億円、2025年3月末時点）の約5倍にあたります」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「部品や素材を供給するサプライヤーも、プライム契約がなくても申請でき、2025年度の認定164件のうち124件が中小企業による取組でした」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「防衛関連株・防衛関連企業とは？防衛装備庁の契約額上位20社と見るべきポイントを解説」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+- 金額の推移：
+  - 「2024年3月、防衛装備移転円滑化基金を造成し、これまでに計1,600億円を同法人に対して交付した（2026年6月1日時点）」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「計画の認定は2024年度121件（約234億円）、2025年度164件（うち中小企業124件）」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「防衛装備移転円滑化基金への交付は2026年6月1日時点で計1,600億円です」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「防衛用途と民生用途を兼ねる設備は、防衛用途の割合分のみを支払う（例：1億円の設備で防衛用途60%なら6,000万円）」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「約234億円」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「約332億円」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「認定件数は増加傾向にあり、2025年度は認定の約4分の3が中小企業によるものでした」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「指定装備移転支援法人への交付額 計1,200億円」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「基金からの交付 計1,600億円（令和8年版防衛白書）」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「1年以下の拘禁刑または50万円以下の罰金」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「2年以下の拘禁刑または100万円以下の罰金」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「1. 認定1件あたりは約2億円」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「2024年度の認定は121件で約234億円、1件あたり約1.9億円です」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「法施行から2025年3月末までの累計は157件・約332億円で、1件あたり約2.1億円になります」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「2. 移転の基金は認定累計の約5倍」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+- AM・3Dプリンタ：
+  - 「最新設備の導入、AIを用いた検査の自動化、3Dプリンタの導入（修理・点検工程も対象）」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「K Programとは？経済安全保障重要技術育成プログラムの仕組み・支援対象技術・中間評価をわかりやすく解説」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「（実用例）宇宙用3Dプリンター、ブロックチェーン統合プラットフォーム など」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「European Council, EU investments in defence: Council and Parliament agree to support faster, more flexible and coordinated investments in European defence https://www.consilium.europa.eu/en/press/press-」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「releases/2025/11/05/eu-investments-in-defence-council-and-parliament-agree-to-support-faster-more-flexible-and-coordinated-investments-in-european-defence/」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「（参考）経済安全保障重要技術育成プログラム（K Program）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「✓ 新たなサプライヤーとの取引の開始は喫緊の課題だが、高い品質基準をクリアできるか、試作品を製造」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「させるなどして確認しているが、こうした試作品の発注費用を軽減することが必要」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「政府としては、防衛装備品の調達のみならず、国内の防衛関連企業の生産・技術基盤の強化を通じて持続的な発展・競争力強化を促す視点を持ち、防衛需要で培われた先端技術等を、社会課題解決に活用する一方、民生技術が防衛装備品を高度化させ防衛政策に貢献するといった「防衛と民生の技術・需要の好循環」を実現すべきである、そのためにも、安全保障の観点から、国産を中心とする防衛装備品の継続的な調達を前提とし、研究開発から試作、量産、配備、維持・整備、能力更新に至る戦略の時間軸を明確化し、国内の防衛生産・技術基盤とサプライチェーンを維持・強化することが求められる」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「今後の国家防衛戦略・防衛力整備計画の改定や防衛産業に関する政府の対応方針の策定にあたっては、防衛装備品の長期的なライフサイクル（構想から研究・開発、試作、生産、維持・整備、補給、用途廃止など）と調達品目・数量、長期的に企業に求める対応能力を可能な限り明示し、必要かつ十分な予算を複数年度で継続的かつ安定的に確保・拡大することが肝要である」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「また、防衛装備庁との契約においては、研究開発の不確実性を踏まえた納期の柔軟な設定や期間の見直し、研究開発段階のものから試作・量産等に至るまでの納期遅延ペナルティの軽減・撤廃、技術難易度に応じた利益率の設定などにより、研究開発参画のインセンティブを高めるべきである」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「下：金属3Dプリンタ導入による自動化（イメージ）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf）
+  - 「火器（小火器、火砲等）、指向性エネルギー兵器、誘導弾発射装置、ロケット弾発射装置、」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf）
+  - 「➢ 積層造形機（３Ｄプリンタ）等」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf）
+  - 「・製造工程において、従来の機械加工に替えて、積層造形機（３Ｄプリンタ）等を導入」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf）
+- 素材の内訳：
+  - 「【対象部材】サマリウムコバルト磁石 / ネオジム磁石 / タンタル（金属・合金）/ タングステン粉末 / タングステン重合金」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「下：金属3Dプリンタ導入による自動化（イメージ）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf）
+  - 「半導体回路や航空機エンジン等で活用される高機能・高付加価値な革新的金属部」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「我が国金属部素材メーカー等の高い技術開発能力をい かし、革新的金属部素材の」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「・2030年に航空機エンジン向け高機能金属で 世界シェア５割、半導体回路向け高機」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「能金属で世界シェア８割を目指す」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「・航空機エンジン向け高機能金属等について、革新的金属部素材の素材探索に加え、」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「・スタートアップによる革新的金属部素材の開発に向けたＡＩ等のＤＸ技術の社会」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「・革新的金属部素材に必要な希少原材料の確保に資するリサイクル技術開発、設備」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「アルミニウムやレアメタルを中心に、欧州を始め需要サイドでも脱炭素化要請が」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「投資、国・地方公共団体による初期需要創出を通じ、高品質な低炭素金属部素材市」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「・アルミニウムは、2030 年代前半に年間約90万トン以上の高品質な低炭素アルミ市」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「アルミ展伸材について、2030 年時点で国内生」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「産量の約４割を目安として再生アルミ原料由来とすることを目指す」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「に向け、リチウムで年間約10万トン、ニッケルで 年間約９万トン、コバルトで 年」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+- 場面・目的：
+  - 「わが国の防衛産業は装備品等のライフサイクルの各段階（研究、開発、生産、維持・整備、補給、用途廃止など）を担っており、装備品等と防衛産業は一体不可分である」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「加えて、近年、経済安全保障の観点から各国による技術の囲い込みが進み、また、新型コロナウイルスの感染拡大などでサプライチェーンの途絶なども生じた」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「①経費面においても継続的な取得や維持整備が可能であること、②わが国に比較優位がある分野を育成し、劣後する分野や欠落する分野を必要に応じ補完すること、③防衛生産・技術基盤を国内に維持し、強化していく必要があること」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「イ 有事の際の持続的な対応能力の維持と平素からの運用、維持整備にかかる改善能力の確保の観点から不可欠なもの（例：弾薬、艦船）」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「安全保障環境が加速度的に変化するなかにおいて、質・量の両面でわが国の防衛を全うできる装備品等を、継続的に開発・生産・維持整備できる能力を構築することが不可欠である」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「持続可能な対応能力や「新しい戦い方」を踏まえたわが国独自の「新しい守り方」を支えるため、開発・生産・維持整備の各能力を確保することが求められる」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「そのため、需要の急増にも対応可能な生産基盤・維持整備基盤を構築するとともに、サプライチェーンの強靱化を図る」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「（1）特定取組（サプライチェーン強靱化、製造工程効率化、サイバーセキュリティ強化、事業承継など）」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「例えば、①外国政府が輸出を規制して原材料などの輸入が困難となるリスク、②老朽化した設備が更新されず生産性や技術水準が低迷し納入遅延や要求性能未達となるリスク、③工程においてマルウェアやスパイウェアが混入するといった懸念部品（悪意あるソフトウェアが組み込まれた部品）のリスク、④サイバー攻撃によって性能などの情報が流出するリスク、⑤事業継続が困難となって防衛事業から撤退するリスクなどがあげられる」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「このようなリスクに効果的に対応し、プライム企業とサプライヤーから構成されるサプライチェーンが効果的・効率的に機能し、指定装備品等」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「代替素材、部品等の研究開発 など」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「サプライチェーン強靱化については、輸入部材の国産化などに関する調査や生産が停止される部品の代替品選定のための調査などに関する計画を認定した」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「①特定取組（供給網強靱化・製造工程効率化・サイバーセキュリティ強化・事業承継等）への経費支払い、②装備移転の円滑化（基金）、③製造施設の国による取得、④装備品等秘密の情報管理」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「部品や素材を供給する中小企業が防衛事業から撤退すると、代わりの供給元が見つからず、装備品の生産や修理が滞るおそれがあります」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「防衛産業全体の構造的な課題（利益率、企業撤退など）は、当サイトの「日本の防衛産業の課題とは？」で詳しく解説しています」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+- 推移：
+  - 「防衛省・自衛隊｜令和8年版防衛白書｜1 防衛生産基盤強化法と基本方針」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「が2023年に施行された」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「この基本方針では、防衛生産基盤強化法に定められた施策が適切に行われるために必要な事項を定めるとともに、2014年に策定した「防衛生産・技術基盤戦略」に代わり、今後の防衛生産・技術基盤の維持・強化の方向性を新たに示した」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「2025年度は、計164件について認定を行ったところである」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「2025年度は、計164件について認定を行ったところであるが、このうち、124件は、中小企業による取組が認定されている」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「前述の助成金の交付とこれに必要な基金を管理し、また、装備移転が防衛省の政策目的に適合したものとして事業者による装備移転が適切な管理のもとで円滑に行われるようにするために、2024年2月、防衛大臣が指定装備移転支援法人を指定した」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「2024年3月、防衛装備移転円滑化基金を造成し、これまでに計1,600億円を同法人に対して交付した（2026年6月1日時点）」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「2026年6月20日」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「2026年11月5日」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「防衛生産基盤強化法（令和5年法律第54号）は2023年6月7日に成立し、同年10月1日に施行されました」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「計画の認定は2024年度121件（約234億円）、2025年度164件（うち中小企業124件）」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「防衛装備移転円滑化基金への交付は2026年6月1日時点で計1,600億円です」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「防衛生産基盤強化法の正式名称は「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」（令和5年法律第54号）です」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「衆議院の審議経過によると、2023年5月9日に衆議院、同年6月7日に参議院で可決されて成立し、6月14日に公布されました」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「施行は2023年10月1日です」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+- 期間・審査：
+  - 「• 欧米では、特に、戦時に短期間で需要が急増する装備品の重整備を、製造施設等の国による保有及び運営（いわゆるＧＯ」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「※１ 開発総経費の算定期間は、運用開始まで（軍用機の場合、初期作戦能力（IOC: Initial Operating Capability）の獲得まで）としている」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「• 予算：50億円を超えない範囲 研究期間：2024年度～2029年度」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「から、防衛装備品の情報提供に係る許可手続（申請書類に相手先を記載、審査期間）のハード」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「過去に調達実績のある装備品や部品といったリピート品など、一定期間における調達数量が見通せるものについては、年度ごとの分割契約ではなく一括契約を可能とし、国庫債務負担行為の支払い可能年度範囲（契約年度＋4年度）の例外的適用を拡充することにより、企業の生産計画の最適化と納期が長期にわたるものへの対応を容易にし、効率化を図るべきである」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「防衛関連企業の国内生産体制は、国内需要や同盟国・同志国からの受注機会が増加し、供給・設備投資・人材確保が追いつかない状況にあり、さらに、増産体制を必要とする場合には短期間では解消できない課題が存在する」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「とりわけ火薬・弾薬や機材・補用品、無人機等の消耗品については、現状、事業拡大の意思決定や設備投資、人員確保を短期間で行うことは困難であり、長期的な生産基盤強化が求められる」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「また、防衛装備庁との契約においては、研究開発の不確実性を踏まえた納期の柔軟な設定や期間の見直し、研究開発段階のものから試作・量産等に至るまでの納期遅延ペナルティの軽減・撤廃、技術難易度に応じた利益率の設定などにより、研究開発参画のインセンティブを高めるべきである」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「他方、わが国防衛産業は、武器輸出三原則による事実上の輸出禁止期間が長期にわたり、防衛省・自衛隊向けの装備品を計画的に納入することに専念してきた経緯もあり、国際共同開発や装備移転を加速させる上では、法的・政治的な不確実性のほか、実戦経験不足をはじめとする多くの課題が存在する」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「外国企業との商談を円滑に進めるには、官民間の情報共有および審査の迅速化が重要であり、同一内容・類型の案件について重複審査を不要とするなど改善を図るべきである」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「企業経営の視点で、現在の防衛調達をみた場合、防衛装備品はリードタイムが長く、サプライヤーへの発注や材料調達のために投じた資金（売掛金）の回収期間が、一般の場合と比べ、長期に及び、資金繰りの負担が大きくなっている」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「防衛事業の資金回収期間は長い場合、約18ヶ月であり、防衛関連企業はそれに応じた資金を準備する必要がある」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「プライム企業の資金回収期間の長期化は、サプライヤーへの支払いにも影響している（防衛装備工業会調べ）」（https://www.keidanren.or.jp/policy/2026/026_honbun.html）
+  - 「期間内の防衛力抜本的強化実現に向け、令和６年度において必要かつ十分な予算を確保」（https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf）
+- 主体：
+  - 「防衛省・自衛隊｜令和8年版防衛白書｜1 防衛生産基盤強化法と基本方針」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「防衛産業は、防衛省・自衛隊とともに国防を担う重要なパートナーである」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「これまで防衛産業は、主な販路が防衛省に限られることや利益率の低さなどから、成長が見込めないと考えられてきた」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「防衛省は、認定後に事業者と特定取組にかかる契約を直接締結し、当該契約の定めに従って遅滞なく対価を支払うこととしている」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「そのほか認定された計画、申請方法や相談窓口については、防衛装備庁ホームページに掲載されている」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「前述の助成金の交付とこれに必要な基金を管理し、また、装備移転が防衛省の政策目的に適合したものとして事業者による装備移転が適切な管理のもとで円滑に行われるようにするために、2024年2月、防衛大臣が指定装備移転支援法人を指定した」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「装備品等の製造等にあたって、より質の高い装備品等を安定的に調達するために、防衛省は先端技術などの装備品等に含まれる秘密情報を事業者に提供している」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「上記（1）と（2）の各種取組では防衛省による指定装備品等の安定的な調達ができないと判断される場合には、当該指定装備品等の製造等をする施設や設備を防衛省が取得することができる」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「取得した製造施設などは、事業者が指定装備品等の製造等のために防衛省から委託を受けてその管理を行う」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「1 防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「4 防衛大臣が指定する自衛隊の任務遂行に不可欠な装備品等であって、その製造等を行う特定の装備品製造等事業者による製造等が停止された場合に、防衛省による適確な調達に支障を生じるものをいう」（https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html）
+  - 「防衛生産基盤強化法の正式名称は「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」（令和5年法律第54号）です」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「防衛省・自衛隊は装備品を国内の企業から調達していますが、2022年12月に策定された国家防衛戦略は、こうした防衛生産・技術基盤を「いわば防衛力そのもの」と位置づけています」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+  - 「防衛装備庁 装備政策課 防衛生産基盤強化法室」（https://www.defense-navi.com/boei-seisan-kiban-kyokaho/）
+
+## 防衛生産基盤強化法 認定のうち製造工程効率化（3Dプリンタ導入）の件数の推移（Defense production base act manufacturing efficiency 3D printer certified plans）
+- 文脈：一次・防衛装備庁・AMの件数
+- 件数の推移：
+  - 「→ 約 1,100 社」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「→ 約 1,300 社」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「→ 約 8,300 社」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「1件でも多くの」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「計１５７件、約332億円分の装備品安定製造等確保計画が認定されています」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「10件以上 東京（19）、神奈川（12）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「6件～9件 兵庫（7）、岐阜（6）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「２件～5件 愛知（5）、大阪（4）、栃木（4）、茨城（3）、」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「令和７年３月末までに認定された「中小企業ほか88件」の」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「工場等所在地別の件数（2件以上の都府県のみ記載）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「１件でも多く」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「１件でも多く認定させていただきたいという思いからのもの」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「A２-４ 公共調達においては、一般競争入札により、なるべく有利な（安価な）条件での調達を行うこ」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「て、企業が1社単独で担うことは容易ではない」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「F-35：U.S. Government Accountability Office Boeing787：市場調査企業INCEPTONE社HP」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+- 金額の推移：
+  - 「6000万円が」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「計１５７件、約332億円分の装備品安定製造等確保計画が認定されています」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「１億円 防需100％」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「（※）令和８年度予算では約３０４億円を要求中」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「費：約3,600億円 → F-35開発費：約12兆円）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「• １９８５年から１９９８年にかけて、国防予算が約３割減少する中、１９９３年、アスピン国防長官、ペリー国防副長」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「官が主要防衛企業１５社のトップに対し「政府として国防予算の削減に取り組むこと」「防衛産業は将来的には供給」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「• UARC1機関の政府予算(中央値)は約4,800万ドル」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「※Ｒ８は予算案の金額 24」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「「元年」予算－ 令和５年度予算の概要（令和5年3月28日掲載）」より引用」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「2,201億円」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「7年間分の予算」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「（210億円）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「• 令和３年度補正予算として計上された2,500億円のうち1,250億円を経済産業省（NEDO）が執行（残」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+- AM・3Dプリンタ：
+  - 「下：金属3Dプリンタ導入による自動化（イメージ）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「▸ 積層造形機（3Dプリンタ）等の導入」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「（実用例）宇宙用3Dプリンター、ブロックチェーン統合プラットフォーム など」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「European Council, EU investments in defence: Council and Parliament agree to support faster, more flexible and coordinated investments in European defence https://www.consilium.europa.eu/en/press/press-」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「releases/2025/11/05/eu-investments-in-defence-council-and-parliament-agree-to-support-faster-more-flexible-and-coordinated-investments-in-european-defence/」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「（参考）経済安全保障重要技術育成プログラム（K Program）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「✓ 新たなサプライヤーとの取引の開始は喫緊の課題だが、高い品質基準をクリアできるか、試作品を製造」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「させるなどして確認しているが、こうした試作品の発注費用を軽減することが必要」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「（老朽設備の更新、AIによる検査の自動化、3Dプリンタの導入など）」（https://note.com/lucky_whale741/n/n0138150d4758）
+  - 「最新の工作機械、AI検査装置、3Dプリンタ——具体的な設備名と概算額が一行あるだけで、相談も計画づくりも一気に前へ進みます」（https://note.com/lucky_whale741/n/n0138150d4758）
+  - 「なお、設計・試作、部隊配備・運用、」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20231101051.pdf）
+  - 「下：金属3Dプリンタ導入による自動化（イメージ）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf）
+  - 「火器（小火器、火砲等）、指向性エネルギー兵器、誘導弾発射装置、ロケット弾発射装置、」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf）
+  - 「➢ 積層造形機（３Ｄプリンタ）等」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf）
+  - 「・製造工程において、従来の機械加工に替えて、積層造形機（３Ｄプリンタ）等を導入」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf）
+- 素材の内訳：
+  - 「下：金属3Dプリンタ導入による自動化（イメージ）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「【対象部材】サマリウムコバルト磁石 / ネオジム磁石 / タンタル（金属・合金）/ タングステン粉末 / タングステン重合金」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「下：金属3Dプリンタ導入による自動化（イメージ）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf）
+  - 「下：金属3Dプリンタ導入による自動化（イメージ）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r071028.pdf）
+- 場面・目的：
+  - 「▸ 国が調査を実施し、サプライチェーンリスクを直接把握」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「→ サプライチェーンリスクへ対応し、基盤強化を推進」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「（3-② 参考）製造工程の効率化」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「サプライチェーンリスクが顕在化している我が国の防衛生産・技術基盤」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「▸ 代替素材、部品等の研究開発」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「・輸入部材や生産が停止される部品の代替品の選定のための調査研究」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「・航空機部品の製造から撤退する企業からの当該製造事業の承継（設備を導入）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「・車両の製造工程から撤退する企業からの当該製造事業の承継（建屋の建設、クレーン等の導入）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「ども、更新できるかな？ A6-３ 建屋の更新は、「製造工程効率化」や「事業承継等」に不可欠なものであるといった、」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「８．事業承継等に関する特定取組について」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「A８-1 装備品等の安定的な製造等を継続していくためには、A社さまからの事業承継後も、事業承継」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「このため、事業承継後も、プライム企業さま（事業」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「さまの上位サプライヤーさま）に事業承継を受けた」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「①供給網強靱化 ②製造工程効率化 ③ｻｲﾊﾞｰｾｷｭﾘﾃｨ強化 ④事業承継等」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「業撤退を抑止するため政府保有・請負者運営（GOCO）の枠組みを規定しているが、GOCOを通じて、」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+- 推移：
+  - 「令和7年１1月版」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「防衛生産基盤強化法が令和5年10月１日に施行されました」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「を防衛大臣から受けることで、必要な経費が国から支払われる制度が開始されました」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「◼ 令和5年10月１日に新たに施行された防衛生産基盤強化法に基づき」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「令和７年１０月３１日をもちまして終了いたしました」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「◼ 令和５年10月に防衛生産基盤強化法が施行されてから、令和７年3月末までに」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「令和７年３月末までに認定された「中小企業ほか88件」の」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「場合、特定取組契約の履行が完了した年度の末日の翌日から５年の間について、設備等を防衛向け、」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「部品を製造し、上位サプライヤーへの供給を開始した時点）から、」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「受けられる時点で、担当者とご相談ください（各年度での支払計」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「年度での支払計画を含めて認定していますので、認定後に前金払に切り替えることはできません）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「めの基盤の強化に関する法律施行規則（令和５年防衛省令第１４号）様式第１から第４により、認められていません（特定取組は、事業者」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「2026年2月」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「• 民生事業と比較して魅力が低下していた防衛事業も、防衛生産基盤強化法の施行や調達制度の改善に」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「ライムのみならず、サプライヤーに対しても）直接的に経費を支払う制度を創設」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+- 期間・審査：
+  - 「※いずれも取組の一例であり、実際に認定されるか否かは、個別の事業計画の審査によります」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「発生し、かえって認定までに時間がかかってしまうことになります」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「事業者さまから申請された計画が認定されるか否かについては、個別案件での審査によります」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「た、計画を審査する過程で、追加資料のご提出や申請書の修正をお願い」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「また、多くの「補助金」で行われているような、一定期間、応募者を募り、寄せられた応募者の計画を審査基準に」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「このため、事業者さまから申請いただきました装備品安定製造等確保計画の審査においては、計画の内容が、」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「審査の過程で追加資料のご提出や申請書の修正をお願い」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「Q3-２-１ 特定取組の完了から、紐付け契約の納期までにしばらく期間があるんですけど、もう少し早く支払いを受けられないですか？」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「• 欧米では、特に、戦時に短期間で需要が急増する装備品の重整備を、製造施設等の国による保有及び運営（いわゆるＧＯ」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「※１ 開発総経費の算定期間は、運用開始まで（軍用機の場合、初期作戦能力（IOC: Initial Operating Capability）の獲得まで）としている」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「• 予算：50億円を超えない範囲 研究期間：2024年度～2029年度」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「から、防衛装備品の情報提供に係る許可手続（申請書類に相手先を記載、審査期間）のハード」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「適用する場合やその期間を延長する場合は、あらかじめ必要な予算を国会で審議することとなる（第211回国」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20231101051.pdf）
+  - 「⇒①～④の特定取組に関する具体例（当該取組で認定されるかは個々の計画の審査次第）」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20231101051.pdf）
+- 主体：
+  - 「（H28 防衛装備庁調べ）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「† 防衛装備庁と事業者さまの間で別途契約を締結する必要があります」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「（防衛省と直接の契約関係にある、いわゆる「プライム企業」でなくても認定が受けられます」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「† 防衛省が求めるサイバーセキュリティ基準」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「⚫ 防衛省が定める基準「防衛産業サイバーセキュリ」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「）† 原価計算方式を採用する企業として、防衛省が経費率（いわゆるレート）」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「† 防衛省が求めるサイバーセキュリティ基準に適合するものに限ります」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「⚫ 計画の認定を受けた事業者さまが、直接、防衛装備庁と「随意契約」」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「供給網強靱化や製造工程効率化に係る特定取組の実現可能性調査、サイバーセキュリティ強化に係る特定取組のための脆弱性調査においては、事業者さまから防衛装備庁」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「⚫ 事業者さまが取組に関する事業計画を作成し、直接、防衛装備庁に提出」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「◼ まずは、事業計画を防衛装備庁に提出し、防衛大臣の認定を受ける必要があります」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「◼ 事業計画の認定後、防衛装備庁と事業者さまの間で「特定取組契約」を締結します」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「事業者さまが防衛装備庁と「特定取組契約」を締結いただき、」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「◼ 防衛装備庁のホームページから募集要項をダウンロードすることができます」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+  - 「◼ まずは、防衛装備庁のホームページへのアクセスをお待ちしています！」（https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf）
+
+## 防衛生産基盤強化法 関係予算の推移（2023〜2027年度要求）（Japan defense production base strengthening budget by fiscal year）
+- 文脈：一次・防衛省予算の概要
+- 件数の推移：
+  - 「１ 日米同盟強化及び地域社会との調和に係る施策等」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「令和8年度 社会保障関係予算のポイント」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「て、企業が1社単独で担うことは容易ではない」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「F-35：U.S. Government Accountability Office Boeing787：市場調査企業INCEPTONE社HP」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「Boeing707：市場調査企業The Geography of Transport Systems社HP」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「Boeing777：市場調査企業ResearchGate社HP」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「官が主要防衛企業１５社のトップに対し「政府として国防予算の削減に取り組むこと」「防衛産業は将来的には供給」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「当初５１社あったプライム企業が５社になるなど、防衛産業の再編統合が急速に進められた」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「アビオ開発と産業システム開発の2社に分社化して存続」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「１０のノンコア事業を分離（Loral社の業務含む）⇒Ｌ－３コミュニケーションズとして独立」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「• 『第７期科学技術・イノベーション基本計画』の答申素案にて、「デュアルユース技術の研究開発及び社」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「計画を実施するために新たに必要となる事業に係る契約額（物件費）は、43兆5,000億円程」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+  - 「6 契約ベースとは、装備品の取得や施設整備等の事業について、当該年度に結ぶ契約額の合計（一般物件費と」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+  - 「億円を主要な計数で見た内訳は、人件・糧食費が２兆2,290億円（前年度比1.5％（320億円）」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+- 金額の推移：
+  - 「※ 「令和９年度予算の概算要求に当たっての基本的な方針について」（令和８年７月３０日閣議了解）」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「本年中に改定する三文書を踏まえて編成される令和９年度予算については、同文書に係る議論を経て結論を得る必要があることから予算編成」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「※ 令和９年度予算においては、危機管理投資・成長投資をはじめ、国内投資を通じた潜在成長率の引上げにつながる施策を予見可能性を持って実施できるよう、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「通常歳出とは別に、「強く豊かな日本」投資枠が創設された（経済財政運営と改革の基本方針2026（令和8年7月21日閣議決定）・令和９年度予算の」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「（例）2025年における中国空母の太平洋進出回数は、2022年の2回から5回に増加」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「おける艦載機の発着艦回数も約320回から約1,460回に増加」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ １２式地対艦誘導弾能力向上型（艦発型）の取得(５６２億円）」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ １２式地対艦誘導弾能力向上型（空発型）の取得(３４５億円)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ ２５式地対艦誘導弾及び地上装置等の取得(１，５７５億円+事項要求)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ ２５式高速滑空弾及び地上装置等の取得(３６１億円+事項要求)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ 極超音速誘導弾の開発(１４２億円+事項要求)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「長射程で極超音速(音速の５倍以上)飛翔といった迎撃困難な能力を有する」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ 極超音速誘導弾及び地上装置等の取得(１，６７３億円+事項要求)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ 潜水艦発射型誘導弾の取得(１６３億円)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ ＪＳＭ(１８０億円)、ＪＡＳＳＭ(５３億円＋事項要求) 取得」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+- AM・3Dプリンタ：
+  - 「・ 中SAM（改）能力向上型への改修・取得」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「(ＰＡＴＳ)に接続する器材等を整備 ※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「・ 装輪装甲車(人員輸送型) AMV(２２両：２０８億円＋事項要求）」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「・ 装輪装甲車(指揮通信型) AMV(３両：３３億円＋事項要求）」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「・ 装輪装甲車(患者輸送型) AMV(３両：２６億円+事項要求）」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ 三次元積層造形技術(３Dプリンタ)の活用に関する調査等(４億円)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「機能を付与する各種ＵＵＶ用モジュールを試作」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「※ＤＣＳ：Damage Control Surgery」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「AMRO事務局長兼CEOの視点（2）―中東紛争下での経済見通し」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「PRI Open Campus ～財務総研の研究・交流活動紹介～ 55」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「○ 装備品の可動数向上や安定的かつ計画的な取得を行うために必要となる品質の検証などを含む、3Dプリンタの活用に関する調査等を実施（3億円）」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「＊8）GCAP：Global Combat Air Programme」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「戦術AI衛星の研究（事項要求）：衛星上でAIにより他衛星の情報を統合処理し、装備品と双方向の戦術通信を行う衛星を試作」（https://digital-supporter.net/mirai-ai/gaisan/bouei.html）
+  - 「（実用例）宇宙用3Dプリンター、ブロックチェーン統合プラットフォーム など」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「European Council, EU investments in defence: Council and Parliament agree to support faster, more flexible and coordinated investments in European defence https://www.consilium.europa.eu/en/press/press-」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+- 素材の内訳：
+  - 「【対象部材】サマリウムコバルト磁石 / ネオジム磁石 / タンタル（金属・合金）/ タングステン粉末 / タングステン重合金」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+- 場面・目的：
+  - 「そのほか、有人アセットの機能を代替」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「装備品・補給物資等を迅速かつ継続的に供給し続けるためにも、「輸送力」」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「注１：本文中の青字は新規事業を表示している」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ ＡＩを活用した補給品の需要予測機能の整備(３億円＋事項要求)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「補給業務の効率化、迅速化のため、補給品の需要予測に」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「装備品の維持整備業務について、必要な修理や部品の調達をその都度契約するのではなく、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「・艦艇用ガスタービン機関(ＳＭ１Ｃ型)の維持整備(事項要求)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「・航空機（ＭＣＨ－１０１、ＴＣ／ＬＣ－９０）の維持整備(事項要求)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「令和９年度よりＳＨ－６０Ｋ／Ｌの維持整備について」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「(２)装備品等の維持整備」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「を図るため、十分な部品を確保し、確実な維持整備を行うための経費を確保」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「機能を付与する各種ＵＵＶ用モジュールを試作」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「・ 駐屯地・基地等の厚生施設及び隊舎の共用区画における無線LAN環境の維持整備」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「防衛協力・交流の機動的推進、輸送・補給・衛生等の後方支援機能の強化、施設の整備、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「〇 持続的な対応能力と防衛生産・技術基盤構築のため、サプライチェーン強靱化の推進、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+- 推移：
+  - 「令和９年度概算要求の概要」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「Ⅰ 令和９年度概算要求」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「Ⅱ 令和９年度概算要求～ポイント～」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「Ⅰ 令和９年度概算要求～基本的な考え方～」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「※１ 国家安全保障戦略、国家防衛戦略及び防衛力整備計画（令和4年12月16日 国家安全保障会議決定・閣議決定）」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「令和５年度 令和６年度 令和７年度 令和８年度 令和９年度」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「Ⅰ 令和９年度概算要求 ～ 概算要求の方針 ～」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「令和９年度概算要求においては、概算要求基準※に基づき、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「※ 「令和９年度予算の概算要求に当たっての基本的な方針について」（令和８年７月３０日閣議了解）」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「（参考）「経済財政運営と改革の基本方針2026」（令和８年７月２１日閣議決定）（抜粋）」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「本年中に改定する三文書を踏まえて編成される令和９年度予算については、同文書に係る議論を経て結論を得る必要があることから予算編成」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「※ 令和９年度予算においては、危機管理投資・成長投資をはじめ、国内投資を通じた潜在成長率の引上げにつながる施策を予見可能性を持って実施できるよう、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「通常歳出とは別に、「強く豊かな日本」投資枠が創設された（経済財政運営と改革の基本方針2026（令和8年7月21日閣議決定）・令和９年度予算の」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「概算要求に当たっての基本的な方針について（令和8年7月30日閣議了解））」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「令和９年度概算要求～ポイント～」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+- 期間・審査：
+  - 「民生部品の活用や民生品の設計・製造技術の適用により、安価で短期間に大量生産可能な、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「修理時間の短縮や在庫の確保などの成果に主眼を置いて、一定期間包括的な契約を結ぶもの」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「スタートアップの研究開発を支援するSBIR（※）制度（短期間で複数企業と同時契約し」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「〇 補助の実態と措置内容との均衡の観点から、創設から長期間継続している補助金につ」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「対象区域の指定から長期間が経過し、配備機種等の変化により騒音分布状況が実」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「行う河川改修等に対して助成をしているが、長期間にわたる事業においては、経年」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「あることから、一定期間経過後に検証を行うなど必要な取組を実施」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「5次のトリセツ―FATF第5次対日相互審査で示す官民のチカラ― ―第1回：序論―」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「低コストなスタンド・オフ防衛用UAVの開発（事項要求）：民生部品の活用や民生品の設計・製造技術の適用により、安価で短期間に大量生産可能なUAVを実現」（https://digital-supporter.net/mirai-ai/gaisan/bouei.html）
+  - 「ディフェンステックSBIR制度（仮称）（事項要求）：スタートアップの研究開発を支援し、短期間に複数企業と同時契約して比較するアジャイル型調達を実施」（https://digital-supporter.net/mirai-ai/gaisan/bouei.html）
+  - 「短い期間で複数の企業と同時に契約して比べ、部隊の試験運用と技術改善を素早く回す「アジャイル型調達」を行う点が特徴です」（https://digital-supporter.net/mirai-ai/gaisan/bouei.html）
+  - 「• 欧米では、特に、戦時に短期間で需要が急増する装備品の重整備を、製造施設等の国による保有及び運営（いわゆるＧＯ」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「※１ 開発総経費の算定期間は、運用開始まで（軍用機の場合、初期作戦能力（IOC: Initial Operating Capability）の獲得まで）としている」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+  - 「• 予算：50億円を超えない範囲 研究期間：2024年度～2029年度」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+- 主体：
+  - 「１ 防衛省・自衛隊の組織編成」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「最先端のデュアルユース技術・サービスの研究開発を防衛省が牽引するとともに、防衛省がア」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「・ 防衛省クラウドの整備（高機密ソブリンクラウド（仮）を導入を推進）」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「防衛省と防衛関連企業の情報共有をセキュアな環境で行うための防衛セキュリティゲート」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「能動的サイバー防御の実施に関係する省庁の関係部局（防衛省、内閣官房国家サイバー」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「の概念を防衛省・自衛隊のシステムに取り入れる」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「オンプレミスとのハイブリッドによる「防衛省クラウド」の整備を推進」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「最先端科学技術の研究を担う国研・大学等の基礎研究を支援し、防衛省自身では発意」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「に、防衛省における研究開発もより一層推進」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「防衛省外から公募し、支援する制度を創設」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「防衛力の強化や社会変革につながる機能・技術を創出するため、防衛省外から採用した」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「○ 防衛省ハラスメント防止対策有識者会議の提言を踏まえた、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「「防衛省女性・平和・安全保障(ＷＰＳ)推進計画」の４つの取組に基づき、ＷＰＳを」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「１ 防衛省・自衛隊の組織編成 ※名称については全て仮称」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+  - 「（３）防衛装備庁の体制強化」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf）
+
+## 安全保障技術研究推進制度 予算・応募件数・採択件数の推移（2015〜2026年度）（Japan ATLA innovative science and technology initiative for security budget applications awards by year）
+- 文脈：一次・防衛装備庁・場面②
+- 件数の推移：
+  - 「防衛省は20日、軍事技術に応用可能な基礎研究を財政支援する2026年度の「安全保障技術研究推進制度（防衛省ファンディング）」に、採択された研究課題47件を発表した」（https://www.tokyo-np.co.jp/article/522831）
+  - 「今回は応募件数が過去最多の560件に上り、うち大学の応募が291件を占めた」（https://www.tokyo-np.co.jp/article/522831）
+  - 「昨年度の123件から倍増し企業や公的研究機関などの応募件数を上回った」（https://www.tokyo-np.co.jp/article/522831）
+  - 「応募件数は2023年度までは100件前後で推移していたが、2024年度に203件、2025年度に340件に急増」（https://www.tokyo-np.co.jp/article/522831）
+  - 「2026年度も含めた3年間で大学からの応募増が全体の件数を押し上げた」（https://www.tokyo-np.co.jp/article/522831）
+  - 「採択された47件の内訳でも大学が30件を占めた」（https://www.tokyo-np.co.jp/article/522831）
+  - 「公表されない大学の分担研究の件数の総数は2019年度以降計13件」（http://no-military-research.jp/?p=3033）
+  - 「わない形態で共同研究を実施しており、2015年 1月 1日までに32件の研究協力が締結さ」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「数実績は年間 9~21件 （医3)、予算は年間 3億～110億円（図 6)である」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「確保に関する基礎研究」外 28件のテーマを募集している」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「※採択機関 の分担研究機関として別途次の大学数が関与→2017:4大学（内 l大学は 2件に関与）、2018:」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「※ 2019年度は大規模研究課題（タイプS)の 2次募集が行われており、その応募・採択件数を含む」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「制度創設当初は全体の応募数 が最も多く (109件）、大学等の応募数も 58件に上っていた」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「大学の採択数は最大 5件 (2016年度）、最小0件 (2017年度）となっ」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「※ 2017年度のみ、 1国立大学が採択課題 2件 に分担研究機関として参加しているが、これは 1大学とし」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+- 金額の推移：
+  - 「昨年度の123件から倍増し企業や公的研究機関などの応募件数を上回った」（https://www.tokyo-np.co.jp/article/522831）
+  - 「夫婦漫才で「安全保障」考えていかなな～！ 吉本興業が上限1.5億円で受注した政府広報、皆どう思てる？」（https://www.tokyo-np.co.jp/article/522831）
+  - 「簗和生（やなかずお）前農相の「予算カット」発言を巡り、5日の参院国土交通委...」（https://www.tokyo-np.co.jp/article/522831）
+  - 「課題は 3種類に分類されており、大規模研究課題（タイプS)が最大 5年で最大 20億円／」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「5年、小規模研究課題のうちタイプA は最大 3年で最大 3,900万円／年、タイプ Cが最大」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「3年で最大 1,300万円／年とされている」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「数実績は年間 9~21件 （医3)、予算は年間 3億～110億円（図 6)である」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「が、2016年度は全体の応募数も大学 等の応募数も急激に減少して いる」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「を 1,000億円に拡充するなど、基盤的経費の財源 が年々減少している状況である」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「的資金である安全保障技術研究推進制度は徐々に 金額 を増加させ、2020年度の概算要求で」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「は 108億 円（閣講決定後 101億円／前年度要求額 103億円）となっている44)」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「※ 2017年度運営費交付金には 、国立大学法人機能強化促進費 (45億円）を含む」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「※ 2018年度運営費交付金には、国立大学法人機能強化促進費 (89億円）を含む」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「※ 2019年度運営費交付金には、評価に基づく配分 (1,000億円（内訳：成果にかかわる配分 700億円、」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「機能強化促進分 300億円））を含む」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+- AM・3Dプリンタ：
+  - 「しかし、購入した備品、資産及び防衛装備庁が指定する試作品等の所有権は防衛」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「ing that the technologies that may decide future wars are being developed predominantly among commercial companies, the DOD has launched initiatives to enhance the acquisition of such technologies both domestically and globally. The Defense Innovation Unit (DIU) of the DOD updated its strategy last February and」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「to foster collaboration with dual-use technology start-ups among its members.」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「. The promotion of start-up businesses with innovative and advanced science and technology, namely “deep-tech,” is」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「program for universities and start-ups to support deep-tech research that will contribute to future R&D in the defense sector. ATLA and METI also established the」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「in 2023 to create opportunities for matching the Japan Self-Defense Force (JSDF) and start-ups. As a result of these efforts, the start-ups and VCs interested in the defense sector are steadily increasing. Notable examples include」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「, which consolidates industrial security rules, following the U.S. National Industrial Security Program Operating Manual. Additionally, Japan became the first Asian country to join the」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「, a collaborative body for international industrial security best practices. Last May, Japan’s parliament」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「, with emerging deep-tech start-up ecosystems, and further, there is a well-established trade control system between both countries. The United States can leverage technologies and prototypes funded and developed by allies through bilateral and multilateral programs, aligning with the Republican policy platform’s goal of strengthening alliances by ensuring allies’ investment in common defense.」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「The DOD has already implemented acquisition programs to actively adopt advanced and superior technologies from other countries. The」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「(FCT) program helps U.S. military program offices procure defense articles from abroad by evaluating mature foreign technologies, and has experience of over」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「technological tests with about 40 countries. Among them,」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「Japan’s Global Startup Campus」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「Furthermore, start-ups from both countries will have opportunities to be integrated into each other’s supply chains and collaborate with large companies on joint development projects. They may also participate in government initiatives, ranging from research to implementation, although establishing the necessary framework may take time.」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+  - 「the nation’s defense framework against cyberattacks, known as active cyber defense, and addressing the」（https://www.csis.org/analysis/exploring-promising-opportunities-defense-tech-start-ups-us-japan-alliance）
+- 場面・目的：
+  - 「しかし、購入した備品、資産及び防衛装備庁が指定する試作品等の所有権は防衛」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+- 推移：
+  - 「令和８年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数５６０課題のうち４７課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和８年度「安全保障技術研究推進制度」応募状況及び新規採択研究課題」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和７年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数３４０課題のうち４９課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和７年度「安全保障技術研究推進制度」応募状況及び新規採択研究課題」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和６年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数２０３課題のうち２５課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和６年度「安全保障技術研究推進制度」応募状況及び新規採択研究課題」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和５年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数１１９課題のうち２３課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和５年度「安全保障技術研究推進制度」応募状況及び新規採択研究課題」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和４年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数１０２課題のうち２４課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和4年度「安全保障技術研究推進制度」応募状況及び新規採択研究課題（更新後）」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和３年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数９１課題のうち２３課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和３年度「安全保障技術研究推進制度」応募状況及び新規採択研究課題」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和２年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数１２０課題のうち２１課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和２年度「安全保障技術研究推進制度」応募状況及び新規採択研究課題」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和元年度２次募集」（https://www.mod.go.jp/atla/funding/kadai.html）
+- 期間・審査：
+  - 「令和８年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数５６０課題のうち４７課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和７年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数３４０課題のうち４９課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和６年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数２０３課題のうち２５課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和５年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数１１９課題のうち２３課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和４年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数１０２課題のうち２４課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和３年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数９１課題のうち２３課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和２年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数１２０課題のうち２１課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和元年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数44課題のうち5課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「令和元年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数57課題のうち16課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「平成30年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数73課題のうち20課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「平成２９年度新規採択課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数104課題のうち14課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「平成28年度新規採択研究課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数44課題のうち10課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「平成27年度新規採択課題について、安全保障技術研究推進委員会の審査結果に基づき、応募総数109課題のうち9課題を採択しました」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「採択年度のあとにSとあるのは大規模研究タイプS（最大研究期間５年）」（http://no-military-research.jp/?p=3033）
+  - 「ないのは小規模研究（最大研究期間３年）」（http://no-military-research.jp/?p=3033）
+- 主体：
+  - 「防衛装備庁 : 安全保障技術研究推進制度（防衛省ファンディング）」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「安全保障技術研究推進制度（防衛省ファンディング）」（https://www.mod.go.jp/atla/funding/kadai.html）
+  - 「防衛省は20日、軍事技術に応用可能な基礎研究を財政支援する2026年度の「安全保障技術研究推進制度（防衛省ファンディング）」に、採択された研究課題47件を発表した」（https://www.tokyo-np.co.jp/article/522831）
+  - 「2015年度に防衛装備庁の「安全保障技術研究推進制度」が発足したことを受けて、日本」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「背景には 2015年度に防衛装備庁の「安全保障技術研究推進制度」が発足したことがあげら」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「2 防衛装備庁安全保障技術研究推進制度について」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「阿曽沼（防衛庁技術振興官付技術振興官補佐）2) によると、防衛省では、技術研究本部」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「」とされ、これらを踏まえて防衛省の「防衛生産・技術基盤戦略」」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「その成果を将来活用することを目指して、防衛省独自のファンディング制度について、競」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「ョン総合戦略」にも、2015年度以降防衛省の役割が明記されるようになる」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「阿曽沼は、「防衛省として新たにファンディング制度を運用し、」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「防衛装備庁のウェブサイトには、安全保障技術研究推進制度の概要と して、「防衛分野で」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「政ニーズに基づいて発案され、防衛省自らが行うことが難しいテーマが選ばれる巴 研究」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「成果の公表は制限されないが 、公表の際はあらかじめ防衛装備庁への通知が義務付けられ」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+  - 「助言又は指導を行う（指導については防衛装備庁側の運用統括職員 (PD)が不正の防止の」（https://coi-sec.tsukuba.ac.jp/wp-content/uploads/2020/06/gunjitekianzenhosyou_202004.pdf）
+- 素材の内訳：記載なし（読んだ21頁・検索11回）
+
+## 防衛予算（防衛関係費）の推移（2012〜2027年度要求）（Japan defense budget by fiscal year 2012 to 2027）
+- 文脈：一次・防衛省
+- 件数の推移：
+  - 「一般会計、過去最大の115兆円―25年度予算案 : 社会保障と国債費で58%」（https://www.nippon.com/ja/articles/-/10170）
+  - 「1）本稿ⅠとⅡの一部に，拙稿「高市内閣と大軍拡財政」（新日本出版社『経 済』2026年 3 月号）と重」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「経費（防衛駐在官人件費等），（v）在日米軍の駐留に関連する経費（基地交付金等）の 5」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「5）防衛省『防衛白書（令和 7 年版日本の防衛）』日経印刷株式会社，2025年，198ページ」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「6）ＳＡＣＯ関係経費は，1995年 9 月の在沖米軍兵士による少女暴行事件を契機に設置されたＳＡＣＯ」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「区分 2024年度 2025年度 2026年度 累計予算額 件数 予算額 件数 予算額 件数 予算額 件数」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「2024年度161件1805億円，2025年度209件3649億円，2026年度」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「281件5144億円と件数・金額とも急速に増加し， 3 年間の累計 は651件 1 兆598 億円に達す」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「実施案件と金額をみる と，2023年度 4 か国 4」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「件20億 円，2024年 度 4 か 国 5 件50億 円，2025年 度 4 か 国 4 件43億 円（2025年12月 5 日 ま」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「累計 332」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「表6－2 ＯＳＡの実施案件」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「2023年度実施案件（予算：20億円）」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「2024年度実施案件（予算：50億円）」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「2025年度実施案件」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+- 金額の推移：
+  - 「日本で長らく守られてきた防衛費の「GDP比1%枠」が取り払われたのが2023年度予算」（https://www.nippon.com/ja/articles/-/10170）
+  - 「「2027年度2％」の目標に向けて、毎年、およそ1兆円のペースで防衛費を積み増しているが、超高齢化、人口減少などで厳しい財政運営が求められる中で、「2％」のさらに先は見通せるのか？」（https://www.nippon.com/ja/articles/-/10170）
+  - 「87年に中曽根康弘内閣が1%枠を撤廃したものの、その後も（93年度からはGDP=国内総生産比）、予算編成において「1%」が強く意識されてきたことがグラフの折れ線から読み取れる」（https://www.nippon.com/ja/articles/-/10170）
+  - 「27年度に防衛力の抜本的強化とそれを補完する取り組みを合わせ、予算水準が現在の国内総生産（GDP）比2%に達するよう措置する」ことを明記した」（https://www.nippon.com/ja/articles/-/10170）
+  - 「当初予算ベースで22年度は5兆4000億円（米軍再編関係経費含む）だった防衛費は、23年度6兆8000億円、24年度7兆9000億円とほぼ1兆円ずつ積み増しし、2025年度は前年度比9.4%増の8兆7005億円」（https://www.nippon.com/ja/articles/-/10170）
+  - 「海上保安庁予算など関連経費も含めた総額は9兆9000億円となり、22年度GDPの1.8%、25年度のGDP見通しに対しては1.6%」（https://www.nippon.com/ja/articles/-/10170）
+  - 「令和7年度防衛関係予算のポイント」（https://www.nippon.com/ja/articles/-/10170）
+  - 「防衛予算、ウクライナ情勢受け2年前の1.5倍に：2025年度概算要求も過去最大」（https://www.nippon.com/ja/articles/-/10170）
+  - 「一般会計、過去最大の115兆円―25年度予算案 : 社会保障と国債費で58%」（https://www.nippon.com/ja/articles/-/10170）
+  - 「Ⅱ．2025年度補正予算による 2 ％目標の前倒し達成」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「予算を12月16日に成立し，10日後の12月26日に2026年度予算案を閣議決定した」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「同予算案は翌2026年 1 月23日に始まる通常国会に提出されると思いきや，高市首相は高」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「に特別国会が召集され，第 2 次高市内閣が発足し，2026年度予算の年度内成立を目指して」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「して防衛費の対ＧＤＰ（国内総生産）比 2 ％目標を2025年度補正予算で前倒しで達成した」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「について，補正予算と合わせて，今年度［2025年度］中に前倒して措置を講じます」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+- AM・3Dプリンタ：
+  - 「32）The White House, National Security Strategy of the United States of America , November 2025, p. 24.」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「データの取得，③低軌道通信衛星コンステレーションのサービス利用，④ＰＡＴＳ （Protected Anti-jam Tactical」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「the United States of America , December 2017 ）における対中国対決方 針の採用，2018年７ 月の対中」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+- 場面・目的：
+  - 「の代替施設となる辺野古基地（沖縄県名護市）の建設，在沖米海兵隊の移転のためのグアム基地の」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「沖縄の補給処支所新編に伴う施設整備 48」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「普天間飛行場の移設（普天間飛行場代替施設の建設等） 534」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「で，以下では総合防衛費を代替指標とする」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「確保，施設・装備品などの維持整備などによって各種活動を継続する継戦力のことで，概」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「①陸海空輸送力の強化，②輸送・補給基盤の整 備，③ＰＦＩ船舶（Private Finance Initiative ，民間資金の活用）」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「【装備品の維持整備】 ①装備品の 維持整備，②ＰＢＬ（ Performance Based Logistics ，成果ベースでの装備品」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「装備品に係る代替案分析は行われていたものの，その」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「政負担の問題（購入価格が高く，維持整備費の負担もある」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「防衛生産から企業が撤退する動きがある），自衛隊の装備体系への影響（装備品等のアメリ」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「２．「その他」について，2021年度はイージス・アショア代替措置関連経費，東京オリンピック・パラリンピック開催に伴うテロ対策経 費，2022年度は戦」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「その内訳は、代替施設建設の経費として環境影響評価関連 24 億円・」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2016pdf/20160203068.pdf）
+- 推移：
+  - 「日本の防衛費の推移 : 「1％」の枠を捨て、当面の目標は「2027年度2％」 | nippon.com」（https://www.nippon.com/ja/articles/-/10170）
+  - 「日本の防衛費の推移 : 「1％」の枠を捨て、当面の目標は「2027年度2％」」（https://www.nippon.com/ja/articles/-/10170）
+  - 「2025. 06. 24」（https://www.nippon.com/ja/articles/-/10170）
+  - 「日本で長らく守られてきた防衛費の「GDP比1%枠」が取り払われたのが2023年度予算」（https://www.nippon.com/ja/articles/-/10170）
+  - 「「2027年度2％」の目標に向けて、毎年、およそ1兆円のペースで防衛費を積み増しているが、超高齢化、人口減少などで厳しい財政運営が求められる中で、「2％」のさらに先は見通せるのか？」（https://www.nippon.com/ja/articles/-/10170）
+  - 「国家安全保障戦略の目標は「2027年度2%」」（https://www.nippon.com/ja/articles/-/10170）
+  - 「87年に中曽根康弘内閣が1%枠を撤廃したものの、その後も（93年度からはGDP=国内総生産比）、予算編成において「1%」が強く意識されてきたことがグラフの折れ線から読み取れる」（https://www.nippon.com/ja/articles/-/10170）
+  - 「脱「1%」のきっかけとなったのは、2022年2月のロシアによるウクライナ侵攻」（https://www.nippon.com/ja/articles/-/10170）
+  - 「27年度に防衛力の抜本的強化とそれを補完する取り組みを合わせ、予算水準が現在の国内総生産（GDP）比2%に達するよう措置する」ことを明記した」（https://www.nippon.com/ja/articles/-/10170）
+  - 「当初予算ベースで22年度は5兆4000億円（米軍再編関係経費含む）だった防衛費は、23年度6兆8000億円、24年度7兆9000億円とほぼ1兆円ずつ積み増しし、2025年度は前年度比9.4%増の8兆7005億円」（https://www.nippon.com/ja/articles/-/10170）
+  - 「海上保安庁予算など関連経費も含めた総額は9兆9000億円となり、22年度GDPの1.8%、25年度のGDP見通しに対しては1.6%」（https://www.nippon.com/ja/articles/-/10170）
+  - 「令和7年度防衛関係予算のポイント」（https://www.nippon.com/ja/articles/-/10170）
+  - 「バナー写真 : 自衛隊観閲式 / 航空自衛隊のF15自衛隊観閲式で飛行する航空自衛隊のF15戦闘機（2024年11月9日、陸上自衛隊朝霞訓練場）（時事）」（https://www.nippon.com/ja/articles/-/10170）
+  - 「防衛予算、ウクライナ情勢受け2年前の1.5倍に：2025年度概算要求も過去最大」（https://www.nippon.com/ja/articles/-/10170）
+  - 「INSIGHT | 2024. 09. 09」（https://www.nippon.com/ja/articles/-/10170）
+- 期間・審査：
+  - 「（２）次期三文書の目標と計画期間の設定 4 年か， 5 年か」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「2022年12月に決定された現行の三文書は「おおむ ね10年の期間を念頭に置」」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「期間であり，「現有装備品の最大限の有効活用と，将来の自衛隊の中核となる能力の強化に取り組」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「合防衛費の目標を 5 年後の2031年度に，次期整備計画の対象期間を2027～2031年度の 5 年」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「まえ，防衛力整備計画の対象期間や，策定と見直しのサイクル等の在り方について，その」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「備計画の対象期間を「より柔軟」に設定すること，その際，「変化の速さを踏まえ」るな」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「度3.5％達成，整備計画の計画期間2027～2031年度）とするケースについても整理する」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「また，新しい整備計画も現行整備計画と同じ 5 年にするなら，計画期間は2027～2031年」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「この意見交換は終了後１か月以上経ってから，整理した「議論の要旨」が一括して発表」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「画」は防衛力強化のための「防衛力整備計画」に替えること，④３文書の対象期間を「概」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「④の対象期間については，安保戦略と大綱」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「びに厳格審査及び情報公開，③目的外使用及び第三国移転に係る適正管理の確保，の３つの原則を」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「に替えて「［中期防の］期間中の各年度の防衛関係経費については，同計画に定める所要」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「① 計画期間中の防衛関係費の総額の限度は，下記３の額 ［1,500億円］ を含め，平成12年価格でおおむね25」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+  - 「② 本計画期間中， （略）おおむね7,000億円程度の実質的な財源の確保を図り，本計画の下で実施される各」（https://www.jstage.jst.go.jp/article/keidaironshu/73/5/73_29/_pdf/-char/ja）
+- 主体：
+  - 「自衛隊「増強」45％で過去最高に―内閣府調査 : 厳しい安保環境を反映」（https://www.nippon.com/ja/articles/-/10170）
+  - 「また，前稿でのシミュレーションも資料の内閣府「中長期の経済財政に関す」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「⑧防衛関係費（防衛省所管） 67,880 79,172 86,691 8,445 95,136 89,843」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「（出所）防衛省『防衛白書』2024年版234～235ページ，2025年版225ページ，財務省主計局・理財局「予算及び財政投融資計画の説明」各年度当初・補正，後掲 表３～表６－」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「なお，竹内真氏（日本共産党国会議員団事務 局）が「防衛省提出資料」（同党が憲法62」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「5）防衛省『防衛白書（令和 7 年版日本の防衛）』日経印刷株式会社，2025年，198ページ」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「2 ．内閣府 27 6 477 11 794 14 1,298 31」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「7 ．経済産業省 272 57 765 70 1,136 100 2,173 227」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「には，総合的な防衛体制の強化に資する科学技術の研究開発の推進のため，防衛省の意見」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「によれば，内閣府のサイバー安全保障予算 は，2024年度当初56億円，補正425億円，2025」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「16）防衛省「防衛技術指針2023」（2023年 6 月） などに則り，関係省庁の民生利用目的の研究の中で総」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「実際，防衛省の2025年度補正予算を見ても（表 8 ），①隊舎や庁舎など施設整備を初め」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「（出所）防衛省「予算の概要」各年度当初・補正，財務省主計局・理財局「予算及び財政投融資計」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「（出所）防衛省「令和 7 年度補正予算の概要」2025年12月，より作成」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+  - 「を除く通常の防衛関係費は過去最大の 8 兆9843億円，防衛省情報システム関係経費デジタ」（https://www.jstage.jst.go.jp/article/keidaironshu/77/1/77_243/_pdf/-char/ja）
+- 検索結果の抜粋：
+  - 「防衛関係費 の増額—「GDP比2％以上」という虚像 — 防衛関係費 の増額—「GDP比2％以上」という虚像 生活経済政策研究所 PDF https://www.seikatsuken.or.jp > database > files」（https://www.seikatsuken.or.jp/database/files/n202211-310-004.pdf）
+- 素材の内訳：記載なし（読んだ18頁・検索11回）
+
+## 防衛装備の維持整備費の推移（Japan defense equipment maintenance cost trend）
+- 文脈：一次・防衛白書・場面①
+- 件数の推移：
+  - 「うち人件・糧食費 22,290 23,508 1,218 5.5%」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「うち物件費 54,960 61,240 6,280 11.4%」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「省・自衛隊の調達先4425社の調査では，６割以上が」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「8.9兆億円程度），（ｃ）「新たに必要となる事業に係る契約額（物件費）」を43.5兆円程度と」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「社会保障関係費 362,735 368,687 377,193 382,938 390,559 27,823 1.08」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「（３）激増する物件費の契約額」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「とくに「新たに必要となる事業に係る契約額（物件費）」が43.5兆円に激増されたこと」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「図をみれば，整備計画の43兆円は，①自衛隊員の給与や食事などのための「人件・糧食」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「費」11兆円，②「期限内（2023～27年度）に結ぶ契約に基づき期限内に支払う物件費」27」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「兆円，③「期限前（2022年度まで）に結んだ契約に基づき期限内に支払う物件費」 5 兆円」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「からなり，物件費の契約額43.5兆円は，②と④「期限内に結ぶ契約に基づき期限 後（2028」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「年度以降）に支払う物件 費」16.5兆円の合計だ」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「契約ベースの物件費は歳出ベースの防衛関係費より増加が激しく，2022年度 3 兆4980億」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「①人件・糧食費 11兆円」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「き期限内に支払う物件費 27兆円」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+- 金額の推移：
+  - 「2 装備品の取得や施設整備などの事業について、当該年度に結ぶ契約額の合計」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「として8兆4,748億円 （対前年度比7,498億円 （9.7％）」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「億円 （対前年度比9,293億円 （9.9％） 減） を計上した」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「の比較） 、 図表Ⅱ -3-2-2 （防衛関係費 （当初予算） の推」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「移） 、 図表Ⅱ-3-2-3 （ 2025年度予算の配分 （ 15区」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「79,496億円、 令和7 （2025） 年度は87,005億円になり、 後年度負担額については、 令和6 （2024） 年度は141,926億円、 令和7 （2025） 年度は160,350億円になる」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「２ 予算額には、 デジタル庁にかかる経費を含む」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「資料：令和7（2025）年度予算の概要」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「図表Ⅱ-3-2-2 防衛関係費（当初予算）の推移」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「10年連続減少 13年連続増加」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「平成9年度予算を」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「発作業について、 2025年度予算を着実に執行し、 開発」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「図表Ⅱ-3-2-3 2025年度予算の配分（15区分）」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「区 分 分 野 5年間の総事業費 2023年度事業費 2024年度事業費 2025年度事業費」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「スタンド・オフ防衛能力 約5兆円 1兆4,130億円 7,127億円 9,390億円」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+- AM・3Dプリンタ：
+  - 「URL： https://www.mod.go.jp/j/policy/agenda/guideline/pamph/」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「契約品目には「戦術ＡＩ衛星実証機の試作」がある」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「極超音速誘導弾の研究試作（その 1 ） 1 式 584 三菱重工業」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「島嶼防衛用高速滑空弾の要素技術（その 3 ）の研究試作 1 式 339 川崎重工業」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「極超音速誘導弾の研究試作（その 2 ） 1 式 629 三菱重工業」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「装備庁 極超音速誘導弾の研究試作（その 3 ） 1 式 585 三菱重工業」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「（2023年度：研究試作 1 式584億円，2024年度：1 式629億円，2025年度：1 式585億円），⑤」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「AMRO事務局長兼CEOの視点（2）―中東紛争下での経済見通し」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「PRI Open Campus ～財務総研の研究・交流活動紹介～ 55」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「○ 装備品の可動数向上や安定的かつ計画的な取得を行うために必要となる品質の検証などを含む、3Dプリンタの活用に関する調査等を実施（3億円）」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「＊8）GCAP：Global Combat Air Programme」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「０３式中距離地対空誘導弾（中SAM） 三菱電機株式会社」（https://www.meti.go.jp/files/900013521.pdf）
+  - 「０４式空対空誘導弾（AAM-5） 三菱重工業株式会社」（https://www.meti.go.jp/files/900013521.pdf）
+  - 「※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf）
+  - 「高出力レーザーや高出力マイクロ波といった指向性エネルギー技術の研究等を推進」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf）
+- 素材の内訳：
+  - 「・ニッケル、アルミ、合金等」（https://www.meti.go.jp/files/900013521.pdf）
+  - 「・アルミ、ニッケル」（https://www.meti.go.jp/files/900013521.pdf）
+- 場面・目的：
+  - 「装備品などの維持整備費・可動確保 約9兆円（他分野も含め約10兆円） 1兆7,930億円（他分野も含め2兆355億円） 1兆9,094億円（他分野も含め2兆3,367億円） 1兆7,696億円（他分野も含め2兆2,247億円）」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「はじめに 「撤退ラッシュ」 （？）からの転換」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「その最初の記事は「防衛事業からの撤退ラッシュ（スクー」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「表 1 防衛ビジネスから撤退した企業」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「プ！）」と題し，撤退する企業が相次ぐ状況を報じ（表 1 ），当時，撤退の意向を表明して」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「表 1 を見ても，撤退企業か ら事業を引き受ける企業もあり， 「何十年という長きにわ」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「用，維持整備等を通じて防衛力を支える重要な要素である」 （国家安全保障会議決定・閣議決定」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「を確保する取組（サプライチェーン調査・強靱化，製造工程の効率化，サイバーセキュリ」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「ティ強化，事業承継など）を進めるとともに，スタートアップ企業等新規企業の参入を促」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「契約品目には「戦術ＡＩ衛星実証機の試作」がある」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「極超音速誘導弾の研究試作（その 1 ） 1 式 584 三菱重工業」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「島嶼防衛用高速滑空弾の要素技術（その 3 ）の研究試作 1 式 339 川崎重工業」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「極超音速誘導弾の研究試作（その 2 ） 1 式 629 三菱重工業」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「装備庁 極超音速誘導弾の研究試作（その 3 ） 1 式 585 三菱重工業」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「（2023年度：研究試作 1 式584億円，2024年度：1 式629億円，2025年度：1 式585億円），⑤」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+- 推移：
+  - 「1 2025 年度防衛関係費の概要」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「1 装備品の取得や施設整備などの事業について、当該年度に支払われる額の合計」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「2 装備品の取得や施設整備などの事業について、当該年度に結ぶ契約額の合計」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「2025年度防衛関係費」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「として8兆4,748億円 （対前年度比7,498億円 （9.7％）」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「は、 2025年度中に着手すべき事業」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「億円 （対前年度比9,293億円 （9.9％） 減） を計上した」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「図表Ⅱ -3-2-1 （防衛関係費の 2024 年度と 2025 年度」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「移） 、 図表Ⅱ-3-2-3 （ 2025年度予算の配分 （ 15区」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「図表Ⅱ-3-2-1 防衛関係費の2024年度と2025年度の比較」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「区 分 令和6 （2024） 年度」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「令和7 （2025） 年度」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「これらを含めた防衛関係費の総額は、 歳出額については、 令和6 （2024） 年度は」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「79,496億円、 令和7 （2025） 年度は87,005億円になり、 後年度負担額については、 令和6 （2024） 年度は141,926億円、 令和7 （2025） 年度は160,350億円になる」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「2024年度に引き続き、 射程や速度、 飛翔の態様、 対処目」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+- 期間・審査：
+  - 「は、 防衛力整備計画期間内の防衛力抜本的強化実現に向」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「隊独自仕様を絞り込み、 取得にかかる期間を短縮する」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「いずれにせよ，このような状況は 4 か月後の2022」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「は計画期間後の2028年度以降に支払われる部分で，それを計画期間内（2023～27年度）で」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「少しでも早く必要な装備品を各部隊に届け運用できるよう，防衛力整備計画期間の初期に」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「（修理期間435日超）を要する不具合が発見されていたことなどを報告している」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「もう 1 つは「コスト変動調整率」の導入で，「生産期間中におけるコスト変動を考慮し，」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「5次のトリセツ―FATF第5次対日相互審査で示す官民のチカラ― ―第1回：序論―」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「個別の契約の履行期間に応じて、総原価に積算することで、」（https://www.meti.go.jp/files/900013521.pdf）
+  - 「○ 令和８年度概算要求においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf）
+  - 「計画期間内の防衛力の抜本的強化を実現するため、令和8年度中に着手すべき事業を積み上げるとともに、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf）
+  - 「計画期間におけるこれまでの事業の進捗状況や予算の執行状況も踏まえ、歳出予算の要求額を着実に増額」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829_summary.pdf）
+  - 「改修期間の延長等を理由として、2021年度は予算計上等が見送られた」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf）
+  - 「むことで、研究開発に要する期間を大幅に短縮し、将来の戦いにおいて実効的に対処する」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf）
+  - 「同協定の主な内容は、①有効期間５年間（2022年度から2026年度まで）、」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2023pdf/20230208097.pdf）
+- 主体：
+  - 「本的強化が達成でき、防衛省・自衛隊として役割をしっ」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「防衛省としても、かかる予算や税制措置の必要性に」（https://www.mod.go.jp/j/press/wp/wp2025/pdf/R07020302.pdf）
+  - 「同じ特集の別の記事では，「防衛企業から見ても，防衛省向け取引は安定的な利益を」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「安保戦略を受 け，2023年６月に「防衛生産基盤強化法」（防衛省が調達する装備品等の」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「9）防衛省『防衛白書（令和 7 年版）』日経印刷，2025年，199ページ」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「政府安全保障能力強化支援）で，防衛省以外の他省庁関連予算」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「２．防衛関係費には防衛省情報システム関係経費のうちデジタル庁計上分を含まない」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「これにより防衛関係費（防衛省情報システム関係経費のうちデジタル庁計上分を除く）」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「20）防衛省「令和 6 年度予算の概要」2024年 3 月， 3 ページ」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「（出所）防衛省「予算の概要」各年度，より作成」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「含まず，防衛省情報システム関連経費のうちデジタル庁計上分を含む」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「（出所）防衛省『防衛白書（令和 7 年版）』2025年，215ページ，より作成」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「（４）激増する防衛装備庁の調達実績」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「防衛省・自衛隊の装備品等（火器，誘導武器，電気通信，」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「理・輸送など）の調達（契約）は，防衛装備庁が行う「中央調達」と，防衛省大臣官房長」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+
+## 防衛産業からの撤退・事業承継の件数の推移（Japan defense industry withdrawal number of companies by year）
+- 文脈：一次・防衛省・報道・場面①
+- 件数の推移：
+  - 「（計画期間の物件費（契約ベース）※1：17.2兆円程度」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「✓ 政府1号案件として、防衛省において「衛星」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「ム「BRAVE1」に登録するドローン企業は、7社（2022年時」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「点）から500社以上（2025年時点）に大幅増加」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「新たに必要となる事業に係る契約額（物件費） ４３兆５，０００億円程度 １７兆１，７００億円程度」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「→ 約 1,100 社」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「→ 約 1,300 社」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「→ 約 8,300 社」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「（令和２年度の実績）※180社中151社から得られた回答による（令和２年度調査では150社回答）」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「２０式５.５６mm小銃 豊和工業株式会社」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「１２０mm迫撃砲RT 豊和工業株式会社（ライセンス国産）」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「１９式装輪自走１５５mmりゅう弾砲 株式会社日本製鋼所」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「１０式戦車 車体：三菱重工業株式会社主砲：株式会社日本製鋼所」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「１６式機動戦闘車 車体：三菱重工業株式会社主砲：株式会社日本製鋼所」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「０３式中距離地対空誘導弾（中SAM） 三菱電機株式会社」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+- 金額の推移：
+  - 「防衛予算の増加（令和5年度～）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「14年間連続増加（見込み）10年間連続減少」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「8兆8,093億円」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「4兆9,414億円」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「点）から500社以上（2025年時点）に大幅増加」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「防衛力整備の水準 ４３兆円程度 ２７兆４，７００億円程度」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「各年度の予算編成に伴う防衛関係費 ４０兆５，０００億円程度 ２５兆５，０００億円程度」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「新たに必要となる事業に係る契約額（物件費） ４３兆５，０００億円程度 １７兆１，７００億円程度」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「74式戦車：約3.9億円（平成1年度契約）」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「↓ （3.28倍）」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「10式戦車：約12.8億円（平成29年度契約）」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「おやしお型：約520億円（平成5年度契約）」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「↓ （1.４倍）」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「たいげい型：約728億円（平成29年度契約）」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「E-2C：約99.4億円（平成2年度契約）」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+- AM・3Dプリンタ：
+  - 「† GCAP： Global Combat Air Programme」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「✓ 研究機関における3Dプリンター、高性能工作機械といった」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「研究設備を、ドローン部品の試作・小ロット生産に活用」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「０３式中距離地対空誘導弾（中SAM） 三菱電機株式会社」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「０４式空対空誘導弾（AAM-5） 三菱重工業株式会社」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「下：金属3Dプリンタ導入による自動化（イメージ）」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「・ 3Dプリンターによる断熱性・耐震性に優れた住宅施行」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「† GCAP： Global Combat Air Programme」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「†1 Global Combat Air Programme」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「特にミサイルの共同生産については、AMRAAM（空対空ミサイル）及びPAC-3MSE（地対空ミサイル）の」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「・ 島嶼防衛用新対艦誘導弾の要素技術（その３）の研究試作」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「General Dynamics Corp. 72％ 283」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「▸ 積層造形機（3Dプリンタ）等の導入 等」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「契約品目には「戦術ＡＩ衛星実証機の試作」がある」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「極超音速誘導弾の研究試作（その 1 ） 1 式 584 三菱重工業」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+- 素材の内訳：
+  - 「・ニッケル、アルミ、合金等」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「・アルミ、ニッケル」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「下：金属3Dプリンタ導入による自動化（イメージ）」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「半導体回路や航空機エンジン等で活用される高機能・高付加価値な革新的金属部」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「我が国金属部素材メーカー等の高い技術開発能力をい かし、革新的金属部素材の」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「・2030年に航空機エンジン向け高機能金属で 世界シェア５割、半導体回路向け高機」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「能金属で世界シェア８割を目指す」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「・航空機エンジン向け高機能金属等について、革新的金属部素材の素材探索に加え、」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「・スタートアップによる革新的金属部素材の開発に向けたＡＩ等のＤＸ技術の社会」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「・革新的金属部素材に必要な希少原材料の確保に資するリサイクル技術開発、設備」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「アルミニウムやレアメタルを中心に、欧州を始め需要サイドでも脱炭素化要請が」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「投資、国・地方公共団体による初期需要創出を通じ、高品質な低炭素金属部素材市」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「・アルミニウムは、2030 年代前半に年間約90万トン以上の高品質な低炭素アルミ市」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「アルミ展伸材について、2030 年時点で国内生」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+  - 「産量の約４割を目安として再生アルミ原料由来とすることを目指す」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf）
+- 場面・目的：
+  - 「として、防衛事業からの撤退が生起し、装備品等の可動率に影響を及ぼすなど、防衛産業の脆弱化が進行」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「▸ 改善した利益が、サプライチェーン全体で共有されるよう、取引適正化のガイドラインを策定（令和7年3月～）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「43.5兆円程度、 維持整備費※2：約4兆円」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「前計画（同上）の「装備品等の維持整備費・可動確保」に係る計画額（契約ベース） 4兆円程度に対し、今計画（同上）の「装備品等の維持整備費・可動確保」に係る計画額（契約ベース） 9兆円程度」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「• サブコントラクターも含めた、サプライチェーン全体での基盤強化を図っていくため、取引適正化のガイドラインを」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「デュアルユース技術、サプライチェーンに関する」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「• 装備品等の開発・生産・維持整備を担う防衛産業は、我が国の防衛を全うする上で不可欠」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「• ウクライナの教訓等を踏まえると、強靭なサプライチェーンや柔軟な生産体制の構築、最先端科学技術・民生先端」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「✓ 防衛産業への投資が低調だった欧米諸国では、コロナ禍のサプライチェーンの混乱の影響もあり、」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「３．サプライチェーンリスクの顕在化」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「• 防衛産業の能力強化は、サプライチェーンの強化や民間・防衛の技術融合を促進し、」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「る」こと、特に、十分な弾薬や補給品の在庫確保、産業による迅速な供給、産」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「• 防衛サプライチェーンの発達による、地域の雇用や産業基盤の強化」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「研究設備を、ドローン部品の試作・小ロット生産に活用」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「③同盟国・同志国との協力（装備移転等）、④サプライチェーン上・中流の基盤の強化のた」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+- 推移：
+  - 「2026年2月」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「国家防衛戦略（令和4年12月16日 国家安全保障会議決定・閣議決定）抄」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「国家安全保障戦略（令和4年12月16日 国家安全保障会議決定・閣議決定）抄」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「⚫ 令和４年度頃までは、防衛事業は、民生事業に比べて利益率が低く、成長も見込めないため、その魅力が低下」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「▸ 民生部門の利益率も参考に企業の努力を適正に評価する利益制度へ（令和5年4月～）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「▸ 改善した利益が、サプライチェーン全体で共有されるよう、取引適正化のガイドラインを策定（令和7年3月～）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「▸ 防衛生産基盤強化法を施行、中小サプライヤの設備投資等に直接経費を支払う制度を創設（令和5年10月～）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「▸ 防衛装備移転三原則・運用指針の改正により、部品等のサプライヤとして参画する企業にも、輸出の途が拓かれた（令和5年12月・令和6年3月）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「防衛予算の増加（令和5年度～）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「▸ 防衛イノベーションや画期的な装備品等を生み出す機能を抜本的に強化するため、防衛イノベーション科学技術研究所を創設」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「▸ 新たな随意契約スキームである「スタートアップ技術提案評価方式」の創設と活用」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「前計画（中期防衛力整備計画（平成31年度～平成35年度））の計画額（契約ベース）17.2兆円程度に対し、今計画（防衛力整備計画（令和5年度~令和9年度））の計画額（契約ベース）43.5兆円程度」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「（平成15年～平成23年）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「（平成23年）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「（平成13年）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+- 期間・審査：
+  - 「（計画期間の物件費（契約ベース）※1：17.2兆円程度」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「✓ 前線におけるアップデートのニーズを極めて短期間（2～3週間）で取込み、前線へ投入※1」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「個別の契約の履行期間に応じて、総原価に積算することで、」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「▸ 計画期間の事業費※は、17.2兆円程度から43.5兆円程度へ増額され、我が国防衛産業の受注も大幅増」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「（注1） 仕向先等の適切性・防衛装備の機微性を含め厳格に審査」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「（注2） 審査体制・手続・基準等の透明性を確保」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「透明性を確保しつつ、厳格審査」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「いずれにせよ，このような状況は 4 か月後の2022」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「は計画期間後の2028年度以降に支払われる部分で，それを計画期間内（2023～27年度）で」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「少しでも早く必要な装備品を各部隊に届け運用できるよう，防衛力整備計画期間の初期に」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「（修理期間435日超）を要する不具合が発見されていたことなどを報告している」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「もう 1 つは「コスト変動調整率」の導入で，「生産期間中におけるコスト変動を考慮し，」（https://www.jstage.jst.go.jp/article/keidaironshu/77/3/77_37/_pdf/-char/ja）
+  - 「これまで 国内防衛産業では、開発期間中の 仕様変更や 物価上昇を背景に事業採算を確保し」（https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf）
+  - 「（注）対象の全期間で武器製造および軍事サービス売上高を」（https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf）
+  - 「対象期間の GDP 成長率が中央値以下の年と定義」（https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf）
+- 主体：
+  - 「我が国の防衛産業は、自衛隊の任務遂行に当たっての装備品の確保の面から、防衛省・自衛隊と共に国防を担うパートナーというべき」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「（本省、各幕、防衛装備庁）」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「▸ 経産省と防衛省が共同で、スタートアップ企業と自衛隊・防衛産業とのマッチングを実施」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「✓ 防衛省が、中小サプライヤの設備投資」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「• 経産省・防衛省の合同で、自衛隊のニーズとスタートアップの技術シーズのマッチング機会を創出する枠組み「防衛」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「✓ 政府1号案件として、防衛省において「衛星」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「• 米国の国防総省が大学内に設置している研究開発機関」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「• 国防総省が必要とする基礎／応用研究、エンジニアリング能力」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「• 国防総省は最大の実施機関（年10億ドル規模）で、各軍の」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「• 同様の日本版SBIRが存在するが、防衛省は安全保障技術研究」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「・現在の生産基盤は現在の防衛省・自衛隊の需要に最適化」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「防衛産業は、防衛省・自衛隊と共に国防を担うパートナーというべき重要な存在であり、安全保障環境の変化」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「主な販路が防衛省に限られることや利益率の低さから、成長が見込めないと考えられてきた」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_03_00.pdf）
+  - 「（H28 防衛装備庁調べ）」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+  - 「（出典）令和3年度防衛装備庁装備政策部装備政策課企業アンケート調査結果」（https://www.mod.go.jp/atla/soubiseisaku/soubiseisakukaigishiryou/kentoukai01_shiryo04.pdf）
+
+## 防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移（Japan Ministry of Defense 3D printer additive manufacturing budget contracts）
+- 文脈：一次・防衛省・AM
+- 件数の推移：
+  - 「SOLIZE（ソライズ）株式会社は1990年の創業から3Dプリンターの活用に取り組み30年以上の実績を持つ、3D設計や解析にも強みを持つデジタルエンジニアリング …」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2023年10月19日、長野県伊那市のスワニー社で、3D Systems（3DS）の新型機「EXT Titan ペレット3Dプリンター（以下、Titan）」の国 …」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「日揮グループで海外プラントの設計、調達、施工を行うEPC事業会社である日揮グローバル株式会社（英名：JGC Corpration）は、プラント建設における3Dプ …」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「ヤマイチ・ユニハイムエステート社とセレンディクス社が3Dプリンター建築で、大阪・関西万博に運営参加！」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「・ 支給要件を「引き続き２０年」勤続して定年退職から「通算２０年」に緩和」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「800万件以上」（https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f）
+  - 「令和8年度 社会保障関係予算のポイント」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「６ 日米同盟強化及び地域社会との調和に係る施策等」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+  - 「計画を実施するために新たに必要となる事業に係る契約額（物件費）は、43兆5,000億円程」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+  - 「6 契約ベースとは、装備品の取得や施設整備等の事業について、当該年度に結ぶ契約額の合計（一般物件費と」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+  - 「億円を主要な計数で見た内訳は、人件・糧食費が２兆2,290億円（前年度比1.5％（320億円）」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+  - 「歳出予算の構成比は28.9％）、物件費7のうち歳出化経費8が３兆7,928億円（同50.6％」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+  - 「歳出予算の構成比は49.1％）、一般物件費9が１兆7,032億円（同9.6％」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+  - 「使途別構成比は、人件・糧食費が28.9％（２兆2,290億円）、隊員の教育訓練や艦船・航空」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+  - 「35 フィンランドのPatria社製である」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+- 金額の推移：
+  - 「この１０年で日本の防衛費は、約２倍（４兆円台より８兆円台へ）になっており、防衛産業は活況の状況だ」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「令和８年度予算案の概要」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「○ 令和８年度予算案においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「令和8年度予算案 ～基本的な考え方～」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「の国家安全保障戦略に定める「対GDP比２％水準※１」について、当初・補正予算を合わせて、前倒し」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「で、令和８年度においては、まずは現行の防衛力整備計画等に基づき、必要かつ十分な予算を確保」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「予算額を着実に増額し、整備計画対象経費として８兆８,０９３億円を計上」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「８兆２,６０７億円を計上」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「66,001億円」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「4,962億円」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「70,963億円」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「77, 249億円」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「89,525億円 93,625億円」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+- AM・3Dプリンタ：
+  - 「防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切） | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「業務用3Dプリンター / AM技術の情報ポータル」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「樹脂3Dプリンター（148）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「金属3Dプリンター（104）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「その他材料3Dプリンター（21）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「参入障壁も格段に下がっており、重工業メーカー中心だった防衛産業は、ベンチャー企業や、攻撃型・偵察型ドローンや小型遠隔操作ロボット等の、AM活用分野の製品へ期待が高まっている」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「こうした背景もあり、防衛省は日本AM協会などを通じて、防衛装備品の製造や運用において活用期待の高まる３Dプリンティングとその周辺技術に関する国内民間企業業態を把握するための調査を実施している」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「戦争に対する忌避感は健全な感覚だが、世界は平和ではないし、政府や防衛省、自衛隊はAM技術の可能性に関心を向けている」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「AM製造工程の適格性を定めるISO/ASTM52920とは？ISO 9001と何がちがう？導入で何ができる？ ― テュフズードジャパン」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「DIN SPEC17071など各国個別に進んできたAM分野の規格整備」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「この度、国際規格ISOでもAM製造工程の適格性を定める規格ISO/ASTM 52920:2 …」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「国産量産車にAM製造品を正式採用されたSOLIZEの強さの秘密」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「SOLIZE（ソライズ）株式会社は1990年の創業から3Dプリンターの活用に取り組み30年以上の実績を持つ、3D設計や解析にも強みを持つデジタルエンジニアリング …」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2023年10月19日、長野県伊那市のスワニー社で、3D Systems（3DS）の新型機「EXT Titan ペレット3Dプリンター（以下、Titan）」の国 …」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「プラント建設分野で金属3Dプリンター導入検証 ― 日揮グローバル」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+- 素材の内訳：
+  - 「樹脂3Dプリンター（148）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「金属3Dプリンター（104）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「樹脂材料（73）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「金属材料（29）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「プラント建設分野で金属3Dプリンター導入検証 ― 日揮グローバル」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「樹脂3Dプリンター」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「金属3Dプリンター」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「3Dプリンターで使える樹脂材料は？ABS樹脂やPLA樹脂など種類と特徴を解説」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「樹脂・金属以外の材料の3Dプリンター | 材料から選ぶ3Dプリンター」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「樹脂3Dプリンター | 材料から選ぶ3Dプリンター」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「金属3Dプリンター | 材料から選ぶ3Dプリンター」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「【対象部材】サマリウムコバルト磁石 / ネオジム磁石 / タンタル（金属・合金）/ タングステン粉末 / タングステン重合金」（https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf）
+- 場面・目的：
+  - 「自動車業界の試作開発部門で活躍する3Dプリンター」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「め、主として補給品等(コンテナ)の輸送に特化したＰＦＩ船舶を」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「注1:本文中の青字は新規事業を表示している」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等(コンテナ)の輸送に」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「【装備品等の維持整備】約２兆１，２４０億円」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「３．無人アセット防衛能力 6人 新規装備品導入を踏まえた補給整備体制の強化」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「Ⅳ．日米同盟の強化 9人 佐世保弾薬補給所(前畑弾薬庫)の返還に係る体制強化」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「○ 南西地域等の広大な空域において戦闘機等が粘り強く戦闘を継続するために必要な空中給油・輸送機（KC－46A）（2機：877億円）を取得するとともに、南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、補給品等（コンテナ）の輸送に特化した民間船舶（2隻：110億円）を確保（PFI方式）」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「また、維持整備に係る成果の達成に応じて対価を支払う契約方式（PBL」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「○ 陸自PBLを活用した特別輸送ヘリコプター（EC─225LP）の維持整備（▲35億円）」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「○ 海自PBLを活用した練習ヘリコプター（TH－135）の維持整備（▲27億円）」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「○ 南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等(コ」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+  - 「Ⅲ 主要事項注１：本文中の青字は新規事業を表示している」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+  - 「南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+  - 「(２)装備品等の維持整備 約２兆１，４７２億円(他分野を除くと約１兆７，４９２億円)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+- 推移：
+  - 「2025年12月18日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「回答締切は、2025年12月25日（木）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2023年7月5日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2023年9月7日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2023年11月1日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2023年10月19日、長野県伊那市のスワニー社で、3D Systems（3DS）の新型機「EXT Titan ペレット3Dプリンター（以下、Titan）」の国 …」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2024年1月10日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2026年11月6日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2026年11月5日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2026年11月4日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2026年11月2日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2026年10月30日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2025年1月24日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「2025年1月23日」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+- 期間・審査：
+  - 「防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切） | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「回答締切は、2025年12月25日（木）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「○ 令和８年度予算案においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「－ 歳出ベースは、整備計画期間中のこれまでの事業の進捗状況や予算の執行状況も踏まえ、」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「実施に影響を与えないよう、課税期間の延長により、復興財源の総額は確実に確保する」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「5次のトリセツ―FATF第5次対日相互審査で示す官民のチカラ― ―第1回：序論―」（https://www.mof.go.jp/public_relations/finance/202605/202605g.html）
+  - 「○ 令和８年度概算要求においても、計画期間内の防衛力抜本的強化実現の」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+  - 「力整備計画期間内の防衛力の抜本的強化を実現するため、令和8年」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+  - 「度中に着手すべき事業を積み上げるとともに、計画期間におけるこれま」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+  - 「出現により、広範な無人アセットを短期間で大量に取得可能な状況が到来」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+  - 「無人アセットには、従来の装備品と比べ、短期間で安価に取得可能、苛烈で危険な環境下で」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+  - 「なく、修理時間の短縮や在庫の確保などの成果に主眼を置いて、一定期間包括的な契約」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf）
+  - 「むことで、研究開発に要する期間を大幅に短縮し、将来の戦いにおいて実効的に対処する」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf）
+  - 「○ 令和８年度予算においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf）
+- 主体：
+  - 「防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切） | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切）」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「こうした背景もあり、防衛省は日本AM協会などを通じて、防衛装備品の製造や運用において活用期待の高まる３Dプリンティングとその周辺技術に関する国内民間企業業態を把握するための調査を実施している」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「戦争に対する忌避感は健全な感覚だが、世界は平和ではないし、政府や防衛省、自衛隊はAM技術の可能性に関心を向けている」（https://news.sharelab.jp/interviews/mod-go-jp-research-251225/）
+  - 「・「防衛省次世代情報通信戦略」を策定(2025年7月)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「○ 防衛省・自衛隊のサイバー業務を支える外部人材の確保(０．４億円)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「国防に関与し、防衛省・自衛隊のサイバー業務を支える意思・能力のある」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「省外のサイバー人材による、防衛省・自衛隊のサイバー業務への支援の確保」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「防衛省次世代情報通信戦略に示した新たな防衛情報通信基盤(仮称)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「○ 防衛省クラウド基盤等の整備(６７６億円)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「各自衛隊の一元的な指揮統制を可能とする防衛省クラウドを整備」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「○ 防衛省クラウド地方拠点の整備(１８１億円)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「防衛省外で研究されている大学等の有望な萌芽的技術のうち、防衛分野における将来の研究開発に資す」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「防衛力の強化や社会変革につながる機能・技術を創出するため、防衛省外から採用したプログラムマネー」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+  - 「・ 防衛省ハラスメント防止対策有識者会議の提言を踏まえた各種教育機会等の充実(１億円)」（https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf）
+- 検索結果の抜粋：
+  - 「三次元 積層造形 技術( 3Dプリンタ )の部隊導入に向けた実証実験 ... — 三次元 積層造形 技術( 3Dプリンタ )の部隊導入に向けた実証実験 ... nSearch | エヌ・サーチ https://nsearch.jp > ... > 防衛省 > 陸上自衛隊 > 中央会計隊」（https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f）
+
+## 米国防総省のAM支出・部品調達の推移（US Department of Defense additive manufacturing spending by fiscal year）
+- 文脈：海外・国防総省
+- 件数の推移：記載なし（読んだ24頁・検索11回）
+- 金額の推移：記載なし（読んだ24頁・検索11回）
+- AM・3Dプリンタ：記載なし（読んだ24頁・検索11回）
+- 素材の内訳：記載なし（読んだ24頁・検索11回）
+- 場面・目的：記載なし（読んだ24頁・検索11回）
+- 推移：記載なし（読んだ24頁・検索11回）
+- 期間・審査：記載なし（読んだ24頁・検索11回）
+- 主体：記載なし（読んだ24頁・検索11回）
+
+## 経済産業省・NEDO・TRAFAMのAM国家プロジェクト予算の推移（2014年〜）（Japan METI NEDO TRAFAM additive manufacturing national project budget by year）
+- 文脈：一次・経産省・NEDO
+- 件数の推移：
+  - 「事例④ 健康長寿社会 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ p.31」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「事例⑧ 社会課題対応センサー ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ p.62」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「（参考） ナショプロ成果を社会実装するにあたってのポイントと対応策・・・・・・・・・・・・・ p.78」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「（※） 1994年に設立されたUDC社は、今ではOLEDのグローバルリーダーに成長」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「2012年に富士フイルム株式会社、2016年にBASF社から特許権を取得して、2020年2」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「2019年には、台湾WiseChip社がKyuluxのHyperfluorescence™を用いたディスプレイを発表」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「1．意義・アウトカム（社会実装）達成までの道筋」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「＜評価項目１＞意義・アウトカム（社会実装）達成までの道筋」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「1. 意義・アウトカム（社会実装）までの道筋 ※ 本事業の位置づけ・意義（終了時評価においては評価対象外）」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「1. 意義・アウトカム（社会実装）までの道筋 (1)アウトカム達成までの道筋」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「1. 意義・アウトカム（社会実装）までの道筋 (2) 知的財産・標準化戦略」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「3Dプリンタを用いて造形条件等の最適化をするために必要な期間を母数とした開発」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「【５】社会実装する主体がどこになるのか明確で」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「トビジットを3件実施」（https://www.nedo.go.jp/content/100982091.pdf）
+- 金額の推移：
+  - 「築、これにより材料開発のスピードが従来の10倍に向上した」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「このKyumatic™により、従来の材料開発手法に比べ10倍以上のスピードで有望なTADF材料を見いだす」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「色においても開発当初と比べて100倍以上の寿命を実現した」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「約2.5億円予算」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「約34億円予算」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「「クモの糸」に代表される構造タンパク質は、鋼鉄の約340倍のタフネスを有するなど既存材料に比べ高」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「30億円予算」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「糸」（重さあたりの強靱性が鋼鉄の約340倍を誇る）に代表される構造タンパク質素材の設計・加」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「約12億円予算」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「1～10億円/年予算」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「単層CNTは、多層CNTに比べ、軽量、高強度で、熱伝導性は銅の10倍、電気伝導」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「性は銅の1000倍という優れた新機能材料であるが、2000年代初期は生産技術が確立しておらず、量産」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「NEDO）の中で産総研の畠賢治博士らにより、従来の合成法より約1000倍の生産効率の炭層CNTの合」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「ッ素ゴム材料の3.5倍の耐久時間を有し、髙耐熱、髙」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「約122億円予算」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+- AM・3Dプリンタ：
+  - 「「経済安全保障重要技術育成プログラム」で高度な金属積層造形システム技術の開発・実証に着手します | ニュース | NEDO」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「「経済安全保障重要技術育成プログラム」で高度な金属積層造形システム技術の開発・実証に着手します」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「NEDOは、経済安全保障を強化・推進する観点から支援対象とすべき先端的な重要技術の研究開発を進める「経済安全保障重要技術育成プログラム（通称“K Program”）」（以下、本プログラム）の一環で実施する研究開発として、「高度な金属積層造形システム技術の開発・実証」（以下、本事業）に着手します」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「本事業では、造形技術、金属粉末、設計技術などの要素技術を一体的に開発し、統合型金属積層造形システムとして確立させるとともに、実機による実証を行い、品質保証の規格化、認証基準の策定などを行うことで、最適地であるオンサイトで高機能な部品を製造し、納期短縮を実現する生産プロセスの確立を目指します」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「本事業の成果が基盤技術となり、統合型金属積層造形システムとしてより幅広い産業分野で活用され、製品・部品が製造されることを目指します」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「本事業では、統合型積層造形システムを実現するために必要となる造形技術、金属粉末、設計技術などの要素技術を開発し、さらに、実機に搭載して実際の製品・部品を製造する実証を行います」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「経済安全保障重要技術育成プログラム／高度な金属積層造形システム技術の開発・実証」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「Spiber等と、「デュアルユーズを含めた製品化試作・評価」を行う用途開発に興味を示した」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「（※） 正式名称 IO2076 Textiles — Man-made fibres — Generic names」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「• 構造タンパク質繊維を用いた紡績糸及びテキスタイルを開発し、アパレル最終製品の試作品」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「かいタッチセンサーシステムを試作、これがNature誌に掲載され、注目を集めた」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「試作し、この技術のフレキシブルエレクトロニクスへの有用性を明らかにすることが」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「COI STREAM 真の社会イノベーションを実現する革新的「健やか力」創造事業」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「COI STREAM 真の社会イノベーションを実現する革新的「健やか力」創造事業（MEXT/JST）」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「方式を導入、スタートアップ企業のサービスや製品、試作品のデモンストレーションによるパフォーマンス」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+- 素材の内訳：
+  - 「「経済安全保障重要技術育成プログラム」で高度な金属積層造形システム技術の開発・実証に着手します | ニュース | NEDO」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「「経済安全保障重要技術育成プログラム」で高度な金属積層造形システム技術の開発・実証に着手します」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「NEDOは、経済安全保障を強化・推進する観点から支援対象とすべき先端的な重要技術の研究開発を進める「経済安全保障重要技術育成プログラム（通称“K Program”）」（以下、本プログラム）の一環で実施する研究開発として、「高度な金属積層造形システム技術の開発・実証」（以下、本事業）に着手します」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「本事業では、造形技術、金属粉末、設計技術などの要素技術を一体的に開発し、統合型金属積層造形システムとして確立させるとともに、実機による実証を行い、品質保証の規格化、認証基準の策定などを行うことで、最適地であるオンサイトで高機能な部品を製造し、納期短縮を実現する生産プロセスの確立を目指します」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「本事業の成果が基盤技術となり、統合型金属積層造形システムとしてより幅広い産業分野で活用され、製品・部品が製造されることを目指します」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「本事業では、統合型積層造形システムを実現するために必要となる造形技術、金属粉末、設計技術などの要素技術を開発し、さらに、実機に搭載して実際の製品・部品を製造する実証を行います」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「経済安全保障重要技術育成プログラム／高度な金属積層造形システム技術の開発・実証」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「事例⑤ カーボンナノチューブ ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ p.38」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「これにより、従来の金属酸化物では難しかったプラスチック基板な」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「カーボンナノチューブ：ナショナルプロジェクトから研究開発成果の社会実装へ向けた道のり」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「出典：技術研究組合懇談会ホームページ、NEDO 低炭素社会を実現するナノ炭素材料実用化プロジェクト「基本計画」、ニュースリリース「世界初 スーパーグロース・カーボンナノチューブの量産工場が稼働」、「SGCNTと」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「飯島博士、カーボン」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「1991年、飯島澄男博士により発見されたカーボンナノチューブ（以下、CNT）は、複数層の多層CNTと単」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「単層CNTは、多層CNTに比べ、軽量、高強度で、熱伝導性は銅の10倍、電気伝導」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「性は銅の1000倍という優れた新機能材料であるが、2000年代初期は生産技術が確立しておらず、量産」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+- 場面・目的：
+  - 「Spiber等と、「デュアルユーズを含めた製品化試作・評価」を行う用途開発に興味を示した」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「• 構造タンパク質繊維を用いた紡績糸及びテキスタイルを開発し、アパレル最終製品の試作品」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「かいタッチセンサーシステムを試作、これがNature誌に掲載され、注目を集めた」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「試作し、この技術のフレキシブルエレクトロニクスへの有用性を明らかにすることが」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「方式を導入、スタートアップ企業のサービスや製品、試作品のデモンストレーションによるパフォーマンス」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「上等、日本社会の諸課題に対する有効なアプローチとして、人間の代替、または、人間以上の能」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「（※）本プロジェクトでは、当該研究開発に係る技術を活用した試作品・サービス等の関連事業者 により実証・利用が開始されることを実用化、」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「局所クリーン化された超小型半導体製造システムを用いてデバイスを実際に試作することで、そのシステ」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「試作機を含めミニマル装置を105台製作」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「Wafer Level Package）の試作サービスを開始している」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「• 開発した製造装置のみを使用したフルミニマルプロセスでCMOSを試作、正常動作を実現」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「レーザービーム式及び電子ビーム式の積層造形機により、造形サンプルの試作」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「ソフトウェアを試作し、欠陥予測システムの」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「サイトビジット(東北大) 電子ビーム 2019/10月 • 進捗報告、確認、今後の予定等確認• 要素技術研究機、日本電子2次試作機確認」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「１．汎用型モニタリング装置の試作」（https://www.nedo.go.jp/content/100982091.pdf）
+- 推移：
+  - 「2025年5月9日」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「2024年度～2028年度（予定）」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「事業期間：2022年度～2031年度」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「本基金は、経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（令和4年法律第43号）第63条第1項における「特定重要技術の研究開発の促進及びその成果の適切な活用を目的するもの」として指定基金に指定されています」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「プロジェクト開始前 プロジェクト実施中 プロジェクト終了後」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「SUCCESS [JST] 2016・2018」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「2009~2013」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「[METI] 2012」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「2015-2016」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「2002 20212015」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「A-STEP [JST] 2017~2019」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「（2016年02月25日）やヒアリングを基にADL作成」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「独占的ライセンス 2016」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「光材料を世界初出荷2020」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「たディスプレイを発表 2019研究開発成果の」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+- 期間・審査：
+  - 「事業期間：2022年度～2031年度」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「国プロが終わると資金が途絶えますが、国プロで生まれた成果に関する特許出願の審査請」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「あるため、将来スタートアップに特許を移管することを想定し、FIRSTの期間中に開発された特許は大学」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「ェクト期間中の有機デバイスの開発動向を見据え、 人体の外側から生体情報をモニターする「ウェアラブ」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「しかし、プロジェクト期間中に、ウェアラブルデバイスに必要な小型バッテリーやデータ解析」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「を捉え、当初の想定を早めてプロジェクト期間中の2015年にXenoma社を設立しました」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「その後もプロジェクト期間中に、世界最軽量、世界最薄の柔らかい有機ＬＥＤ、」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「当初は9年というプロジェクト期間を長く感じましたが実際にスタートするとあっという間」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「審査により、AI 技術の社会実装の実現可能性を多角的に評価し、採択が行われた」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「で、積層造形部品の開発期間が1/5に短縮されることを目指す」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「期間：2019～2023年度（5年間）」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「た金属部品の開発期間を1/5に短縮することにより、我が国における積層造形技術の普及」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「知財基本方針：「本プロジェクト（委託研究）の範囲内及びプロジェクトの期間内で得られた知的財産（職務発明）は、技術研究組合」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「積層造形部品の開発期間を1/5に」（https://www.nedo.go.jp/content/100982091.pdf）
+  - 「3Dプリンタを用いて造形条件等の最適化をするために必要な期間を母数とした開発」（https://www.nedo.go.jp/content/100982091.pdf）
+- 主体：
+  - 「「経済安全保障重要技術育成プログラム」で高度な金属積層造形システム技術の開発・実証に着手します | ニュース | NEDO」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「NEDOは、経済安全保障を強化・推進する観点から支援対象とすべき先端的な重要技術の研究開発を進める「経済安全保障重要技術育成プログラム（通称“K Program”）」（以下、本プログラム）の一環で実施する研究開発として、「高度な金属積層造形システム技術の開発・実証」（以下、本事業）に着手します」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「そこで、経済安全保障を強化・推進するため、内閣府や経済産業省、その他の関係府省が連携し、先端的な重要技術の研究開発から技術実証までを迅速かつ柔軟に推進するため、本プログラム」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「本プログラムでは、NEDOに造成された基金」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「※2 NEDOに造成された基金」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「「研究開発構想」とは、研究開発ビジョンをもとに内閣府および経済産業省が具体的な研究開発の構想を示すために策定するものです」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「最新の資料は、内閣府ホームページ（」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「NEDO バイオ・材料部 E-mail：kpro_koubo_3dprint1[*]nedo.go.jp」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「NEDO 事業統括部 経済安全保障室 E-mail：economic-security[*]ml.nedo.go.jp」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「（その他NEDO事業についての一般的な問い合わせ先）」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「NEDO 経営企画部 広報企画・報道課 TEL：044-520-5151 E-mail：nedo_press[*]ml.nedo.go.jp」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「※新聞、TVなどで弊機構の名称をご紹介いただく際は、“NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）”または“NEDO”のご使用をお願いいたします」（https://www.nedo.go.jp/news/press/AA5_101845.html）
+  - 「FIRST「スーパー有機ＥＬデバイスとその革新的材料への挑戦」（内閣府）に採択され、スタートアップによる」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+  - 「出典：内閣府「最先端研究開発支援プログラムの事後評価結果について」、「最先端研究開発支援プログラムのフォローアップについて」」（https://www.meti.go.jp/policy/economy/gijutsu_kakushin/innovation_policy/IP_Strategy_Case_Studies.pdf）
+
+## 宇宙戦略基金の予算と採択件数の推移（2024年〜）（Japan Space Strategy Fund budget awards by year）
+- 文脈：一次・内閣府・JAXA
+- 件数の推移：
+  - 「技術開発テーマ５件、基金概要、お問い合わせ先等を公開しました」（https://fund.jaxa.jp/）
+  - 「130件・247機関の応募」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「複数組織による案件 約65% 複数組織による案件 約63%※複数応募の組織数は」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「採択52件のうち」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「52件採択（120機関参画）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「応募130件のうち」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「総務省 4テーマ 5件 225億円 83億円（4件）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「文部科学省 13テーマ 24件 1,394億円 954億円（24件）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「経済産業省 5テーマ 23件 1,082億円 500億円（23件）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「合計 22テーマ 52件 2,701億円 1,537億円（51件）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「支援規模：145億円/１件程度」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「支援規模：19億円/１件程度」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「支援規模：64億円/１件程度」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「支援規模：５億円/１件程度」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「順次、基金部職員を講師として派遣（27件）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+- 金額の推移：
+  - 「総務省 4テーマ 5件 225億円 83億円（4件）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「文部科学省 13テーマ 24件 1,394億円 954億円（24件）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「経済産業省 5テーマ 23件 1,082億円 500億円（23件）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「合計 22テーマ 52件 2,701億円 1,537億円（51件）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「第一期技術開発テーマ（総務省計上分、R５補正予算：240億円分）の進捗状況」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「支援規模：145億円/１件程度」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「支援規模：19億円/１件程度」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「支援規模：64億円/１件程度」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「支援規模：５億円/１件程度」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「※このほか、令和５年度補正予算の内訳としては本基金事業の管理費（７億円程度）を含む」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「 第２期における技術開発テーマの増加に対応するため、POを追加・増強するほか、GPを8名体制へ拡充した」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「宇宙戦略基金事業第二期（令和６年度補正予算分）公募状況」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「：235億円」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「：(A)25億円、(B)５億円」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「：110億円」（https://www.soumu.go.jp/main_content/001022248.pdf）
+- AM・3Dプリンタ：
+  - 「高比推力・長寿命化推進技術に資するＴａ合金積層造形および耐酸化コーティング開発」（https://fund.jaxa.jp/）
+  - 「宇宙空間向け高機能樹脂材料、軌道上での3D積層造形技術の創出」（https://fund.jaxa.jp/）
+  - 「（更新）「宇宙輸送機の?新的な軽量・?性能化及びコスト低減技術 B-2）ロケット用大型構造部品を対象とした金属3D 積層に係る基盤技術開発」の「技術開発課題の概要」を公表しました」（https://fund.jaxa.jp/）
+  - 「WAAMを用いた軽量かつ低コストな大型極低温推進薬タンクの製造技術研究」（https://fund.jaxa.jp/）
+  - 「「宇宙輸送機の革新的な軽量・高性能化及びコスト低減技術 B-1）宇宙用途に適用可能な精密部品を対象とした金属3D 積層に係る装置開発及び基盤技術開発」の「技術開発課題の概要」を公表しました」（https://fund.jaxa.jp/）
+  - 「Am 発熱体と熱電変換デバイスからなる半永久電源システムの開発」（https://fund.jaxa.jp/）
+  - 「「宇宙輸送機の革新的な軽量・高性能化及びコスト低減技術 B-2）ロケット用大型構造部品を対象とした金属3D 積層に係る基盤技術開発」の「技術開発課題の概要」を公表しました」（https://fund.jaxa.jp/）
+  - 「金属3D積層によるロケット用大型液体推進薬タンクの製造技術開発」（https://fund.jaxa.jp/）
+  - 「将来ロケットへ搭載可能な大型精密部品への金属3D積層技術の確立」（https://fund.jaxa.jp/）
+  - 「 8月29日（金）：宇宙―海洋―地球―生命の研究開発拠点形成に向けて（JAMSTEC）※」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「る、複合材適用拡大や、金属3D積層活用拡大に向けた」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「PO：Program Officer（各領域の技術開発テーマを統括）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/003_s02_01.pdf）
+  - 「• 海洋研究開発機構<JAMSTEC>（7/10・神奈川県）」（https://www.soumu.go.jp/main_content/001081842.pdf）
+  - 「JAXA manages the effort, so the President of JAXA, Dr. Yamakawa Hiroshi, is ultimately responsible, but the effort is overseen by an outside Program Director, SPACETIDE Foundation」（https://www.japanearthobserver.com/jeo-17-japans-space-strategy-fund-in-2026/）
+  - 「President & CEO, Masayasu Ishida. Then there is a Program Officer for each domain (Transportation, Satellites, and Exploration) and a review committee for each theme/topic.」（https://www.japanearthobserver.com/jeo-17-japans-space-strategy-fund-in-2026/）
+- 素材の内訳：
+  - 「衛星データを活用した自然由来カーボンクレジットのアジア向けプラットフォーム高度化」（https://fund.jaxa.jp/）
+  - 「大型展開アンテナ用低コスト金属メッシュの開発」（https://fund.jaxa.jp/）
+  - 「ベトナムにおけるカーボンクレジット開発における排出量管理ツールと衛星研究との結合による国家排出管理システムの構築」（https://fund.jaxa.jp/）
+  - 「ロケット構造体用大型アルミニウム鍛造品の製造プロセス刷新」（https://fund.jaxa.jp/）
+  - 「宇宙空間向け高機能樹脂材料、軌道上での3D積層造形技術の創出」（https://fund.jaxa.jp/）
+  - 「水・金属元素探査装置のフライトモデル開発と月面資源量の実測」（https://fund.jaxa.jp/）
+  - 「（更新）「宇宙輸送機の?新的な軽量・?性能化及びコスト低減技術 B-2）ロケット用大型構造部品を対象とした金属3D 積層に係る基盤技術開発」の「技術開発課題の概要」を公表しました」（https://fund.jaxa.jp/）
+  - 「CFRP主鏡を有する超軽量CFRP望遠鏡の開発」（https://fund.jaxa.jp/）
+  - 「「宇宙輸送機の革新的な軽量・高性能化及びコスト低減技術 B-1）宇宙用途に適用可能な精密部品を対象とした金属3D 積層に係る装置開発及び基盤技術開発」の「技術開発課題の概要」を公表しました」（https://fund.jaxa.jp/）
+  - 「「宇宙輸送機の革新的な軽量・高性能化及びコスト低減技術 B-2）ロケット用大型構造部品を対象とした金属3D 積層に係る基盤技術開発」の「技術開発課題の概要」を公表しました」（https://fund.jaxa.jp/）
+  - 「ＤＸ技術を活用した低コスト熱可塑CFRP 製大型タンクの設計・製造技術の高度化」（https://fund.jaxa.jp/）
+  - 「金属3D積層によるロケット用大型液体推進薬タンクの製造技術開発」（https://fund.jaxa.jp/）
+  - 「将来ロケットへ搭載可能な大型精密部品への金属3D積層技術の確立」（https://fund.jaxa.jp/）
+  - 「る、複合材適用拡大や、金属3D積層活用拡大に向けた」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「ロケット構造体用大型アルミニウム鍛造品の製造プロセス刷新」（https://fund.jaxa.jp/jigyou/）
+- 場面・目的：
+  - 「「（追加公募）衛星サプライチェーン構築のための衛星部品・コンポーネントの開発・実証」の「技術開発課題の概要」を公表しました」（https://fund.jaxa.jp/）
+  - 「「（追加公募）衛星サプライチェーン構築のための衛星部品・コンポーネントの開発・実証」の採択結果を掲載しました」（https://fund.jaxa.jp/）
+  - 「衛星サプライチェーン構築のための衛星部品・コンポーネントの開発・実証のステージゲート評価結果を掲載しました」（https://fund.jaxa.jp/）
+  - 「静止軌道上でのサービスを見据えた電気推進薬の燃料補給技術の開発」（https://fund.jaxa.jp/）
+  - 「（第一期）「衛星サプライチェーン構築のための衛星部品・コンポーネントの開発・実証」の追加公募を開始しました」（https://fund.jaxa.jp/）
+  - 「「衛星サプライチェーン構築のための衛星部品・コンポーネントの開発・実証」追加公募に関する説明会の資料、質疑応答集を公表しました」（https://fund.jaxa.jp/）
+  - 「「衛星サプライチェーン構築のための衛星部品・コンポーネントの開発・実証」の「技術開発課題の概要」を公表しました」（https://fund.jaxa.jp/）
+  - 「(第一期）衛星領域「衛星サプライチェーン構築のための衛星部品・コンポーネントの開発・実証」追加公募に関する説明会のご案内を公表しました」（https://fund.jaxa.jp/）
+  - 「「高分解能・高頻度な光学衛星観測システム」と「国際競争力と自立・自在性を有する 物資補給システムに係る技術」の「技術開発課題の概要」を公表しました」（https://fund.jaxa.jp/）
+  - 「「衛星サプライチェーン構築のための衛星部品・コンポーネントの開発・実証」の採択結果を掲載しました」（https://fund.jaxa.jp/）
+  - 「「国際競争力と自立・自在性を有する物資補給システムに係る技術」の採択結果を掲載しました」（https://fund.jaxa.jp/）
+  - 「米国商業宇宙ステーションへの物資補給システム技術開発、次世代近傍通信システム技術開発」（https://fund.jaxa.jp/）
+  - 「物資補給システムに係る技術（155億円程度）」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「【文】国際競争力と自立・自在性を有する物資補給システムに係る技術」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/003_s02_01.pdf）
+  - 「【経】衛星サプライチェーン構築のための衛星部品・コンポーネントの開発・実証（180億円／2～6年）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/003_s02_01.pdf）
+- 推移：
+  - 「2026年10月30日」（https://fund.jaxa.jp/）
+  - 「2026年9月9日」（https://fund.jaxa.jp/）
+  - 「2026年7月17日」（https://fund.jaxa.jp/）
+  - 「なお、変更後の様式10つきましては「2026年7月21日(火)」より運用開始といたします」（https://fund.jaxa.jp/）
+  - 「2026年7月3日」（https://fund.jaxa.jp/）
+  - 「2026年10月16日」（https://fund.jaxa.jp/）
+  - 「2026年10月9日」（https://fund.jaxa.jp/）
+  - 「2026年10月1日」（https://fund.jaxa.jp/）
+  - 「９月１８日より追加公募を開始した「高頻度打上げに資するロケット部品・コンポーネント等の開発」の公募説明動画を公開しました」（https://fund.jaxa.jp/）
+  - 「2026年9月29日」（https://fund.jaxa.jp/）
+  - 「第124回 宇宙政策委員会（2026年9月28日開催）にて宇宙戦略基金事業の経過報告を行いました」（https://fund.jaxa.jp/）
+  - 「2026年9月18日」（https://fund.jaxa.jp/）
+  - 「公募締切 2026年11月19日（正午）」（https://fund.jaxa.jp/）
+  - 「（第二期）「高頻度打上げに資するロケット部品・コンポーネント等の開発」の追加公募を開始しました」（https://fund.jaxa.jp/）
+  - 「2026年9月14日」（https://fund.jaxa.jp/）
+- 期間・審査：
+  - 「公募締切 2026年11月19日（正午）」（https://fund.jaxa.jp/）
+  - 「公募締切 2026年11月26日（正午）」（https://fund.jaxa.jp/）
+  - 「【7/31締切】宇宙戦略基金×CONSEO合同イベント「産官学金の衛星データ利用エコシステムの共創」を8月3日に開催します」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金Q&A「応募及び審査」のNo. 2、「事業推進」のNo. 23、68、69に新規Q&Aを追加しました」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金Q&A「応募及び審査」のNo. 9に新規Q&Aを追加しました」（https://fund.jaxa.jp/）
+  - 「① 外部有識者からなる審査会から示された採択にあたっての指摘事項等を踏まえ、採択事業者が技術開発計画書の作り込みを実施し、」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「POの承認を受けた後、委託契約締結（委託事業）／補助金交付決定（補助事業）を開始」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「の期間は、最初のステージゲート評価又は中間評価が終了する日の属する年度の末日まで」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「 第一期公募テーマの採択結果に伴う支援件数や支援予定金額、契約締結・交付決定等の状況は下表のとおり」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「担当省 技術開発テーマ数 採択数 支援上限額の総計注１ 契約締結・交付決定済額の総計注２」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「注１ 支援上限額は、予見可能性確保の観点から、採択時に、事業者に対して実施期間全体を通して支援する上限額を通知したものであり、ステージゲート評価等により金」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「注２ 契約締結・交付決定済額は、最初のステージゲート評価又は中間評価が終了する日の属する年度の末日までの金額」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「現在契約締結に向けて調整中の案件もあり、契約締結・交付決定済額及び件数は今後も増加する見込み」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「支援期間：５年間程度」（https://www.soumu.go.jp/main_content/001022248.pdf）
+  - 「支援期間：３年間程度」（https://www.soumu.go.jp/main_content/001022248.pdf）
+- 主体：
+  - 「宇宙戦略基金事業補助金取扱要領の一部改正について」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金事業補助金取扱要領内容変更のお知らせ（成果の外部発表）について」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金PRシート集の英語版（第一期・第二期）を公開しました」（https://fund.jaxa.jp/）
+  - 「第70回宇宙科学技術連合講演会における 宇宙戦略基金関連講演等のお知らせ」（https://fund.jaxa.jp/）
+  - 「第124回 宇宙政策委員会（2026年9月28日開催）にて宇宙戦略基金事業の経過報告を行いました」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金事務処理マニュアル（委託・補助共通）を改訂しました」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金事業における国内打上げが調整可能な軌道上実証機関登録リスト（2026年9月11日時点）を更新しました」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金×CONSEO合同イベントのアーカイブ動画、レポートを公開しました」（https://fund.jaxa.jp/）
+  - 「【7/31締切】宇宙戦略基金×CONSEO合同イベント「産官学金の衛星データ利用エコシステムの共創」を8月3日に開催します」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金（第二期） PRシート集を公開しました」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金事業における国内打上げ調整に関する説明会資料、FAQを公開しました」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金事業における国内打上げが調整可能な軌道上実証機関登録リスト（2026年6月19日時点）を更新しました」（https://fund.jaxa.jp/）
+  - 「第123回 宇宙政策委員会（2026年5月21日開催）にて 宇宙戦略基金事業の経過報告 を行いました」（https://fund.jaxa.jp/）
+  - 「展示会「SPEXA」（5月27日～29日）にて宇宙戦略基金事業 採択・出展企業特集を行います」（https://fund.jaxa.jp/）
+  - 「宇宙戦略基金事業における国内打上げ調整に関する説明会のご案内を公開しました」（https://fund.jaxa.jp/）
+
+## ものづくり補助金のうち3Dプリンタ導入の採択件数の推移（Japan monozukuri subsidy 3D printer adopted projects by year）
+- 文脈：一次・中小企業庁
+- 件数の推移：
+  - 「試作品をすぐに形にできる、金型なしで少量の製品をつくれる、治具や補修部品を自社で内製できる——3Dプリンターは、製造業の開発スピードとものづくりの幅を大きく広げる設備です」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「当社でも、鞄製造業の3Dプリンター導入による新製品開発で」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「御社で3Dプリンターの導入に補助金が使えるか、無料で診断します」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「なお、新事業進出・ものづくり補助金は、応募時点で従業員が1名以上いることが条件になります」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「事業者様自身で申請した場合の全国平均採択率は30〜50%であるのに対し、弊社がサポートした案件では高い採択率を実現しています」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「ものづくり補助金とは？ | 日本3Dプリンター株式会社」（https://3dprinter.co.jp/4991/）
+  - 「日本3Dプリンター株式会社」（https://3dprinter.co.jp/4991/）
+  - 「30社以上の中小企業に対し、革新性や拡張性、持続性などを持つビジネスモデル構築や事業計画策定を支援するプログラムの開発・提供を目的とした補助」（https://3dprinter.co.jp/4991/）
+  - 「付加価値額・賃金引上げ要件を満たす3年～5年の事業計画を策定し、従業員に表明していることも条件」（https://3dprinter.co.jp/4991/）
+  - 「この条件には、要件が3つ存在します」（https://3dprinter.co.jp/4991/）
+  - 「「事業計画書」「賃金引上げ計画の表明書」については、経営革新により以下の①～③の要件をすべて満たす3年～5年の事業計画を策定し、従業員に表明していることが必須となります」（https://3dprinter.co.jp/4991/）
+  - 「日本3Dプリンター株式会社では、経営革新等を目的とした3Dプリンター導入の提案を数多く行っております」（https://3dprinter.co.jp/4991/）
+  - 「申請における専門知識を有した中小企業診断士等をご紹介することも可能ですので、ものづくり補助金の申請をお考えの方は、ぜひお気軽に日本3Dプリンター株式会社にご連絡ください」（https://3dprinter.co.jp/4991/）
+  - 「具体的には、申請件数5,336件に対し採択件数1,698件、全体の採択率は31.8％でした」（https://hojokin-joseikin.com/1407/）
+  - 「5,336件」（https://hojokin-joseikin.com/1407/）
+- 金額の推移：
+  - 「一方で、業務用の3Dプリンターは数百万〜数千万円にのぼり、導入をためらう事業者も多いのではないでしょうか」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「750万〜2,500万円」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「（賃上げ特例で最大3,500万円）」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「2,500万〜7,000万円」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「（賃上げ特例で最大9,000万円）」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「750万〜8,000万円」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「（賃上げ特例で最大1億円）」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「50万〜250万円程度」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「200万円以上」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「（小規模事業者は150万円以上・税抜き）」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「「試作1回あたりのコストを○万円削減」「開発期間を○か月から○か月に短縮」「新製品で年間○万円の売上」など、導入効果を数値で示すと説得力が増します」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「Q. 数十万円程度の3Dプリンターでも対象になりますか？」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「中小企業の場合は資本金3億円以下、常勤従業員300名以下」（https://3dprinter.co.jp/4991/）
+  - 「一つ目は、付加価値額の年率平均3％以上の増加」（https://3dprinter.co.jp/4991/）
+  - 「二つ目は、給与支給総額の年率平均1.5%以上の増加です」（https://3dprinter.co.jp/4991/）
+- AM・3Dプリンタ：
+  - 「3Dプリンターの導入に使える補助金【2026年版】対象になる機種・採択事例と申請のポイント」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「試作品をすぐに形にできる、金型なしで少量の製品をつくれる、治具や補修部品を自社で内製できる——3Dプリンターは、製造業の開発スピードとものづくりの幅を大きく広げる設備です」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「一方で、業務用の3Dプリンターは数百万〜数千万円にのぼり、導入をためらう事業者も多いのではないでしょうか」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「3Dプリンターの導入費用は、」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「当社でも、鞄製造業の3Dプリンター導入による新製品開発で」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「この記事では、3Dプリンターの導入に使える補助金・対象になる機種となりにくい機種・採択されるためのポイントを、中小企業診断士が解説します」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「3Dプリンターの補助金申請は、」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「3Dプリンターが補助金の対象になるか、」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「3Dプリンターの導入に使える主な補助金」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「補助金の対象になる3Dプリンター・なりにくい3Dプリンター」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「3Dプリンターが活躍する製造業のシーン」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「3Dプリンターの導入で補助金に採択されるためのポイント」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「① 「3Dプリンターで何をつくるか」を具体的に示す」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「3Dプリンター導入の補助金の無料相談はRIGIDへ」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「3Dプリンターで「何をつくりたいか」によって、相性の良い補助金が変わります」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+- 素材の内訳：
+  - 「業務用・産業用の3Dプリンター（樹脂・金属・高精度造形機など）」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「製造業：樹脂成型機の導入による新製品の製造体制の構築」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「製造業：3Dプリンター・検査機・樹脂成型機の導入」（https://rigid-consulting.com/column/saitakuritu-monohojyo/）
+- 場面・目的：
+  - 「試作品をすぐに形にできる、金型なしで少量の製品をつくれる、治具や補修部品を自社で内製できる——3Dプリンターは、製造業の開発スピードとものづくりの幅を大きく広げる設備です」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「○ 小規模事業者の試作・小ロット生産用の導入に」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「機械装置に加えて、試作品の開発に必要な原材料費も補助対象になります」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「新製品の試作・開発、製品・部品の製造など、補助事業での用途がはっきりしている」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「生産終了した部品や交換部品を必要な分だけ製造」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「「これまで外注していた試作を内製し、新製品の開発期間を半分にする」「金型なしで小ロットのカスタム製品を販売する」など、」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「「試作1回あたりのコストを○万円削減」「開発期間を○か月から○か月に短縮」「新製品で年間○万円の売上」など、導入効果を数値で示すと説得力が増します」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「A. 新事業進出・ものづくり補助金の革新的新製品・サービス枠などでは、試作品の開発に必要な原材料費が対象になります」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「2026年事業承継・M&A補助金の15次公募開始【7/24締切】」（https://hojokin-joseikin.com/1407/）
+  - 「→補助金を使って3Dプリントサービス（外注）を使い用途に応じて「試作費」などに充てる」（https://make.dmm.com/blog/business/subsidy/）
+  - 「試作品の開発に必要な原材料及び副資材の購入に要する経費」（https://make.dmm.com/blog/business/subsidy/）
+  - 「量産試作とは？製造業の新常識！3Dプリント活用についても解説」（https://make.dmm.com/blog/business/subsidy/）
+  - 「初めての申請でも安心して新規事業や設備投資を進められます」（https://planbase.co.jp/column/monodukuri-acceptance-trend/）
+  - 「る一方、「ただし、試作品の原材料費については補助対象としま」（https://portal.monodukuri-hojo.jp/common/bunsho/ippan/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F_20250421.pdf）
+  - 「原材料費は、試作品の開発に必要なもののみ対象です」（https://portal.monodukuri-hojo.jp/common/bunsho/ippan/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F_20250421.pdf）
+- 推移：
+  - 「3Dプリンターの導入に使える補助金【2026年版】対象になる機種・採択事例と申請のポイント」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「2026-10-19」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「最終更新日：2026.11.05」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「歯科技工所が使える補助金【2026年版】CAD/CAM・ミリングマシン・3Dプリンター導入の採択例と申請のポイント」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「【2026年版】製造業の設備導入に使える補助金まとめ｜設備別の選び方と採択のコツ」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「【2026年版】射出成形機の導入に使える補助金｜ものづくり補助金での申請のコツと採択事例」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「ものづくり補助金のコンサルティングとは？費用相場と失敗しない選び方を中小企業診断士が解説【2026年版】」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「2021.11.19 更新日：2024.02.28」（https://3dprinter.co.jp/4991/）
+  - 「以下では主要な「一般型」「グローバル展開型」「ビジネスモデル構築型」を解説いたしますが、例えば2020年度からは「特別枠」として新型コロナウイルス対応のため、ビジネスモデル転換に向けた前向きな投資を支援する枠も新設されました」（https://3dprinter.co.jp/4991/）
+  - 「ものづくり補助金の採択率・採択結果！2026年の採択に向けて分析」（https://hojokin-joseikin.com/1407/）
+  - 「2026.05.21」（https://hojokin-joseikin.com/1407/）
+  - 「2026年ものづくり補助金は継続して実施！採択結果、採択率を分析」（https://hojokin-joseikin.com/1407/）
+  - 「2025年までのものづくり補助金の採択率は？」（https://hojokin-joseikin.com/1407/）
+  - 「2025年ものづくり補助金の採択率・採択結果 (19〜22次)」（https://hojokin-joseikin.com/1407/）
+  - 「2024年までのものづくり補助金の採択率は？」（https://hojokin-joseikin.com/1407/）
+- 期間・審査：
+  - 「デザインや機能の検証を短期間で繰り返し、開発期間を短縮」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「「これまで外注していた試作を内製し、新製品の開発期間を半分にする」「金型なしで小ロットのカスタム製品を販売する」など、」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「「試作1回あたりのコストを○万円削減」「開発期間を○か月から○か月に短縮」「新製品で年間○万円の売上」など、導入効果を数値で示すと説得力が増します」（https://rigid-consulting.com/column/3d-printer-hojokin/）
+  - 「審査における加点を希望する場合は追加書類が必要」（https://3dprinter.co.jp/4991/）
+  - 「その後、事務局にて審査が行われ、採択・不採択の結果通知が行われますが、採択された場合は補助事業を実施し、実施内容を補助金事務局に報告、晴れて補助金受給、といった流れです」（https://3dprinter.co.jp/4991/）
+  - 「また、20次（33.6％）からほぼ横ばいで、3社に1社しか通らない厳しい審査が続いています」（https://hojokin-joseikin.com/1407/）
+  - 「・ものづくり補助金15次締切における申請枠別の採択率」（https://hojokin-joseikin.com/1407/）
+  - 「15次（2023年7月28日締切）の申請枠別の採択率は下記となっています」（https://hojokin-joseikin.com/1407/）
+  - 「まず、加点項目とは、審査上有利になる項目のことです」（https://hojokin-joseikin.com/1407/）
+  - 「・ 経営革新計画：申請締切日時点で有効な「経営革新計画」の承認を取得している事業者」（https://hojokin-joseikin.com/1407/）
+  - 「・事業継続力強化計画／連携事業継続力強化計画：申請締切日時点で有効な「（連携）事業継続力強化計画」を取得している事業者」（https://hojokin-joseikin.com/1407/）
+  - 「・成長加速マッチングサービス：申請締切日時点において、中小企業庁「成長加速マッチングサービス」で会員登録を行い、挑戦課題を登録している事業者」（https://hojokin-joseikin.com/1407/）
+  - 「2026年事業承継・M&A補助金の15次公募開始【7/24締切】」（https://hojokin-joseikin.com/1407/）
+  - 「助成金・補助金の審査をクリアすることで対外的な信用力が上がる」（https://make.dmm.com/blog/business/subsidy/）
+  - 「ものづくり補助金の公募期間やスケジュールは、次のとおりです」（https://make.dmm.com/blog/business/subsidy/）
+- 主体：
+  - 「中小企業庁と独立行政法人中小企業基盤整備機構が、ものづくりや商業、サービス生産性向上の促進を補助する制度」（https://3dprinter.co.jp/4991/）
+  - 「補助金による資金調達支援や経済産業省支援策の認定実績」（https://hojokin-joseikin.com/1407/）
+  - 「2026年のものづくり補助金概要はこちら（リーフレット、中小企業庁）」（https://hojokin-joseikin.com/1407/）
+  - 「・成長加速マッチングサービス：申請締切日時点において、中小企業庁「成長加速マッチングサービス」で会員登録を行い、挑戦課題を登録している事業者」（https://hojokin-joseikin.com/1407/）
+  - 「経済産業省 ものづくり・商業・サービス 生産性向上促進補助金について」（https://hojokin-joseikin.com/1407/）
+  - 「経済産業省系補助金を活用した設備投資支援に強み」（https://hojokin-joseikin.com/1407/）
+  - 「「どんな補助金があるか？」を探す！ミラサポplus（経済産業省）」（https://make.dmm.com/blog/business/subsidy/）
+  - 「」は経済産業省および中小企業庁が運営する「中小企業向け補助金・総合支援サイト」です」（https://make.dmm.com/blog/business/subsidy/）
+  - 「事業再構築補助金（経済産業省補助金）｜中小企業庁」（https://make.dmm.com/blog/business/subsidy/）
+  - 「たとえば、経済産業省の中小企業向け補助金・総合支援サイト「ミラサポplus」では、ものづくり補助金を申請する際の事業計画書の書き方について、次のように記載しています」（https://make.dmm.com/blog/business/subsidy/）
+  - 「経済産業省 ミラサポplus「ものづくり補助金の書き方」」（https://make.dmm.com/blog/business/subsidy/）
+  - 「補助金ナビでは、主に中小企業様向けに経済産業省などの実施する補助金についてご案内しています」（https://hojokin-navi.com/hojokin-news/chusho-shokibo/monohojo/20260503_monohojo_suii/）
+  - 「2026年度 経済産業省補助金徹底比較」（https://hojokin-navi.com/hojokin-news/chusho-shokibo/monohojo/20260503_monohojo_suii/）
+  - 「令和9年 経産省中小企業向け補助金動向 考察(No.4)」（https://hojokin-navi.com/hojokin-news/chusho-shokibo/monohojo/20260503_monohojo_suii/）
+  - 「ものづくり補助金パンフレット-R6年12月時点版（中小企業庁）」（https://keieichiryou.com/monozukuri-hojokin-healthcare-service）

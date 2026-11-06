@@ -1,0 +1,2486 @@
+{
+ "name": "株式会社松浦機械製作所",
+ "aliases": [
+  "松浦機械",
+  "Matsuura",
+  "LUMEX"
+ ],
+ "context": "金属AM装置（LUMEX）",
+ "researched_at": "2026-11-06T16:43:28.369728+00:00",
+ "official_url": "https://www.matsuura.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1960年9月（創業1935年8月）",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1935年8月",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1960年 9月",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "福井県福井市東森田四丁目201番地",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 910-8530 福井県福井市東森田四丁目201番地",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 松浦 勝俊",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 松浦 勝俊",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 社長 松浦勝俊",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "404名",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "417名（2024年12月現在） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "178億円",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "158億2,000万円（2024年12月期） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入の時期と形": [
+   {
+    "quote": "LUMEX CAM Ver.12.0ダウンロード版のリリース開始",
+    "url": "https://www.lumex-matsuura.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "すぐに再生が開始しない場合は、デバイスを再起動してください",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "2002年に試作機である「金属光造形複合加工機 M-SINT」が誕生．そして，2003年7月に，世界初となる「金属光造形複合加工機 M-PHOTON 25C」の本格販売が開始されました．その当時は3Dプリンタという言葉自体が存在していなかったので，こんな仰々しい命名がされたのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この松浦正則の考えのもと生まれたMAM72シリーズですが，数十枚のパレットと数百本の工具容量がついた5軸機というのは当時にしては規格外の仕様で，とんでもない機械を作ったと言われていました．発売当初はあまりの初期投資費用の高さと扱いの複雑さの印象から市場からは全く相手にされなかったそうです．しかし，時代が進むにつれてそのコンセプトは受け入れられるようになり，やがて市場の評価は確かなものになりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この時代，日本の大手工作機械メーカーもM＆Aなどによって3Dプリンタ市場に参入することがありました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "CAD/CAMと呼ばれる機械のプログラムを3Dモデルから生成するソフトウェアがあります．ハイブリッド金属3Dプリンタなんて工法は今まで市場になかったため，専用のCAD/CAMが必要でした．これをとある企業に開発を依頼していたのですが，そのソフトウェア会社がライバル工作機械メーカーに買収されるなんてことがあったのもちょうどこの頃です．CAD/CAMは機械とは切っても切り離せない重要な要素のため，これを機にCAD/CAMをマツウラで自社開発することになりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "2014年には三菱商事と独占販売契約を結び，米国市場へ打って出ます．その数年後に欧州にも進出しました．経産省の主導する大型プロジェクトにも参画が決まりました．さらなるビジネスの発展のために，対象とするアプリケーションを金型だけでなく造形物をそのまま製品に使えるようなものにも展開しようとしました．航空機部品，医療部品，空圧油圧部品がその例です．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益560百万円を計上し、利益剰余金が215億円を超えて積み上がっている点は、長年にわたる高付加価値な製品供給と、世界的な特定領域での高いシェア（世界市場独占的地位）がもたらした堅実な蓄積の結果であると推測されます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "設立: 1960年9月（創業1935年8月）",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "潤沢な利益剰余金を活用し、自社にない特定のデジタル技術（例えばシミュレーションAIや高度な材料解析）を持つベンチャー企業への出資やM&Aを戦略的に行い、ハードとソフトが完全に一体化した「次世代のモノづくり基盤」を構築するはずです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "特に金属3Dプリンタ事業においては、宇宙・防衛やハイエンド医療といった、付加価値が極めて高い特定のニッチ市場を世界規模で独占する「グローバル・ニッチトップ」の地位をさらに先鋭化させるでしょう",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "「松浦機械製作所」創業、旋盤の生産開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人に改組、「(株)松浦機械製作所」設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "立形マシニングセンタを米国に出荷、本格的輸出を開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "超高速回転マシニングセンタ開発、販売開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "- 株式会社松浦機械製作所を設立し、法人改組",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "- 電気式プログラム制御自動フライス盤の生産・販売を開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "「MC-750V」の生産・販売を開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "- 超高速マシニングセンタおよび2軸立形マシニングセンタの生産・販売を開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "- 横形マシニングセンタの生産・販売を開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "米国に現地法人「Matsuura Machinery USA Inc.」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "欧米市場への輸出比率が高く、以下の国に現地法人（子会社）を設立して販売およびアフターサービスを行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "1960年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "若手2名だけの部署で開始し、外注に頼らない動画制作を遂行！動画活用の幅を拡げた戦略で、2021年7月に経産省の定める",
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "pass": 3
+   },
+   {
+    "quote": "すぐに再生が開始しない場合は、デバイスを再起動してください",
+    "url": "https://www.youtube.com/watch?v=VR7b10DZJJY",
+    "pass": 3
+   },
+   {
+    "quote": "切削加工技術生かし航空宇宙分野に参入―由紀精密 : 家業のネジ屋を再生、目指すは製造業コングロマリット",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所を福井市に創設、旋盤の生産・販売開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人に改組、株式会社松浦機械製作所を設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "電気式プログラム制御自動フライス盤の生産・販売開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国にMatsuura Machinery USA Inc. 設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業90周年 武生事業所 C・D工場稼働開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "すぐに再生が開始しない場合は、デバイスを再起動してください",
+    "url": "https://www.youtube.com/watch?v=Y69W-1-BBlI",
+    "pass": 3
+   },
+   {
+    "quote": "動画配信をド素人若手2名だけの部署で開始し、1年で300個以上の動画を自力で制作！動画活用の幅を拡げた戦略で、2021年7月に経産省の定めるDX認定事業者に！なぜ動画が重要と考えるか、DX認定までの道のりを共有します！",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "ハイブリッド金属3Dプリンター LUMEXシリーズ",
+    "url": "https://www.lumex-matsuura.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "【LUMEX×金型革命】ハイブリッド金属3DプリンターLUMEX 活用事例紹介 - YouTube",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "【LUMEX×金型革命】ハイブリッド金属3DプリンターLUMEX 活用事例紹介",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "【基礎から解説】光造形3Dプリンター！後編 運用プロセス編！スライスのポイントから片付けまで",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "【SDGs】“最短2日”3Dプリンター住宅 破格の550万円 問い合わせ殺到【スーパーJチャンネル】(2023年9月19日)",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "#3dプリンター",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "1,744回視聴 • 2024/10/01 • #ハイブリッド #3dプリンター #製造業",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "マツウラのハイブリッド金属3Dプリンター「LUMEX」の活用方法をご提案いたします",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "【下町3Dプリンタ】金型業界に変革を起こしたい4代目｜松浦 悠人",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "【下町3Dプリンタ】金型業界に変革を起こしたい4代目",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタで試作品を作る．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ボタン1つで実用的な金型そのものを作る3Dプリンタ．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "（以下，マツウラ）は，元はと言えばマシニングセンタを手掛ける工作機械メーカーです．1935年創業，福井県に本拠を置く中小企業がなぜ金属3Dプリンタを作ることになったのか．その歴史は私の祖父，2代目社長の松浦正則の時代まで遡ります．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ LUMEX Avance-25",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "当時の松下電工はドイツ製の金属3Dプリンタを設備して，内部水管を配置した高効率金型を試験的に製造してました．その中で特に課題感を感じていたのは複雑な凸部を持つコア型です．その形状の複雑さからどうしても製作時間を短縮できずに，全体のリードタイムがコア型の製造に左右されていました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "そこで，松下電工が辿り着いたのは造形と切削を層ごとに繰り返すハイブリッド工法でした．造形する金型の3Dモデルさえ作ってしまえば，あとは機械1台で金型が出来上がる．今までこの世になかった革新的な金属3Dプリンタの技術です．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "2002年に試作機である「金属光造形複合加工機 M-SINT」が誕生．そして，2003年7月に，世界初となる「金属光造形複合加工機 M-PHOTON 25C」の本格販売が開始されました．その当時は3Dプリンタという言葉自体が存在していなかったので，こんな仰々しい命名がされたのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "さて，2003年の華々しい登場以降，マツウラの3Dプリンタビジネスはどのような紆余曲折を経てきたでしょうか．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "しかし，ビジネスとしてうまくいっていたわけではありませんでした．なんとか販売台数を増やすために，欧州のメーカーにOEM機として機械を販売してもらえないかと交渉をしに行ったこともあります．機械がなかなか売れない中で社内からは事業中止を望む声も出ていたのですが，いつかは花開くことを信じてコツコツ開発を続けました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "転機は2013年に訪れました．米国のオバマ前大統領が一般教書演説で3Dプリンタを言及したことをきっかけに，世の中に3Dプリンタブームが巻き起こりました．以下の販売台数の推移を見れば一目瞭然だと思います．その頃も，マツウラの機械は3Dプリンタではなく金属光造形複合加工機であると主張していました．しかし，世間の波に乗るために2014年にハイブリッド金属3Dプリンタと呼称を変えて今に至ります．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この時代，日本の大手工作機械メーカーもM＆Aなどによって3Dプリンタ市場に参入することがありました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "CAD/CAMと呼ばれる機械のプログラムを3Dモデルから生成するソフトウェアがあります．ハイブリッド金属3Dプリンタなんて工法は今まで市場になかったため，専用のCAD/CAMが必要でした．これをとある企業に開発を依頼していたのですが，そのソフトウェア会社がライバル工作機械メーカーに買収されるなんてことがあったのもちょうどこの頃です．CAD/CAMは機械とは切っても切り離せない重要な要素のため，これを機にCAD/CAMをマツウラで自社開発することになりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "キャズム理論はどういうことかと言うと，その話題性を理由に，まずは新しい物好きの人たちが新製品を購入します．しかし，それは一時的な流行です．高まった期待感と実現性や得られる実利との乖離が発生することで，売上やシェアが急激に鈍化します．そして，キャズムを越えた製品のみが市場に普及されていきます．キャズムを越えられなかったメーカーは撤退，自然消滅します．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この10年の間，金属3Dプリンタはキャズムの真っただ中にいたと言っても過言ではないでしょう．これはまさしくマツウラのハイブリッド金属3Dプリンタの販売状況にも如実に現れました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ業界はベンチャーキャピタルが絡む投資/投機的な対象にもなっており，投資家からの資金を用いて欧米のメーカーが大規模な開発を行いました．華やかな世界に見えましたが，決算報告書等を見るとどこも全く利益を出していないなんてこともざらでした．数年前まで展示会で巨大なブースを設けて，メディアにもガンガン宣伝していた新進気鋭のビッグプレイヤー．その1年後には人員の20%を削減し展示会出展規模を縮小．その次の年には欧州から撤退を発表するなんてことも起きました．奢れるものも久しからず．理論の通りにキャズムによって淘汰されたのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "地域の力を集結して開発された金属3Dプリンタとレーザ加工技術",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "強力なリーダーシップを失ったマツウラのハイブリッド金属3Dプリンタ事業．新役員体制になってからしばらくして，あっけなく事業方針にメスが入りました．販売にかけるリソースを最小限に，自分たちが勝てる分野に絞って開発をしよう．技術的目標を達成するまでは，販売活動にリソースは投資しない．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "我々が設定したターゲットは原点回帰の金型市場です．拡げすぎた風呂敷を小さくし，ハイブリッド金属3Dプリンタで勝負するのは金型だと再度強く心に決めました．航空関係，宇宙関係の3Dプリンタ部品市場は何倍も大きいのは分かっていましたが，自分たちの強い分野に絞り，特に海外のビジネスでは金型の案件だけを受けることと方針を定めました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ事業の開発方針の変更と組織再編，技術目標をクリアを経た今，再出発できるはずが…",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "そう思った私は，役員会議で話をしてこの3Dプリンタ事業の主導を申し出ることになりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "おかげで海外グループ会社からの意見，原価，生産能力，在庫，アフターサービス売上，開発計画，利益率，欲しかった情報がすべて手元に集まりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "それもそのはず．今まで販売にかけるリソースを最小限にしたのですから．実際マツウラは20年以上販売していましたが，これを読んでいる皆さん，ハイブリッド金属3Dプリンタなんてものがこの世にあったなんて知っていましたか？",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ここで，マーケティング理論に立ち返りましょう．今，金属3Dプリンタ業界はキャズムを越えるか越えないかの最中にあると私は考えています．キャズム理論の中では，キャズムを越えるための戦略として以下のようなものが示されています．（他にもあります）",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンターが新たなものづくりを提案します",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、ハイブリッド金属3Dプリンタ「LUMEX」による造形サンプルを中心に出展します",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形と切削加工を融合したLUMEX独自の製造技術を、実際のサンプルを通じて分かりやすくご紹介",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "当社が創業以来培った高速切削加工技術と、積層造形を1台に融合した世界初のハイブリッド金属3Dプリンタ",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形と切削加工を交互に行い、高精度な造形を実現",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "造形装置(3Dプリンター)",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター（粉末床溶融結合法/PBF方式）",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "PBF方式国産最大級のハイブリッド金属3Dプリンタ",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "特に、世界中の航空宇宙産業や医療機器メーカーが絶大な信頼を寄せる5軸制御技術や、切削加工と金属積層造形を融合させたハイブリッド金属3Dプリンタは、まさに日本の「匠の技」と「デジタル技術」が高次元で結実した姿と言えるでしょう",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "(約310.6億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "(約87.4億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "(約223.2億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "(約5.6億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益560百万円を計上し、利益剰余金が215億円を超えて積み上がっている点は、長年にわたる高付加価値な製品供給と、世界的な特定領域での高いシェア（世界市場独占的地位）がもたらした堅実な蓄積の結果であると推測されます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "✔ハイブリッド金属3Dプリンタ事業",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同社のように輸出比率が約8割に達し、世界各地に自社拠点を持つグローバル企業にとっては、為替の変動を機動的な拠点運営で相殺しつつ、特定の地域に依存しない安定した受注環境を確保できていることが、大きな強みとして機能していると分析します",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "90年にわたり蓄積された高度な精密組み付け技術と、世界に先駆けて製品化に成功した5軸制御技術およびハイブリッド金属3Dプリンタという、圧倒的な製品開発力が最大の強みです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "また、約72%という傑出した自己資本比率に裏打ちされた強固な財務体質は、長期的な研究開発や大規模な拠点投資を自前で完結させることを可能にしています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "また、高度な職人技術に依拠する部分が大きく、福井の本社拠点における技術伝承や高度なIT人材の継続的な確保が、将来的な成長スピードの制約要因となる懸念も否定できません",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、金属3Dプリンタの活用による製造プロセスの抜本的見直し（工程集約）が進む中で、同社のハイブリッド技術が業界標準としての地位を確立するチャンスが広がっています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "国内の生産年齢人口の激減が、自社の製造拠点維持だけでなく、国内顧客の設備投資意欲の長期的な減退を招くなど、構造的な市場縮小という厳しい環境への備えも重要になると考えられます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、自社の新工場（武生事業所C・D工場）で実証している最新の無人化ラインを「生きた展示場」として世界中に公開し、顧客の投資対効果を具体的にイメージさせることで、高単価なシステム受注の比率を高めるはずです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "特に金属3Dプリンタ事業においては、宇宙・防衛やハイエンド医療といった、付加価値が極めて高い特定のニッチ市場を世界規模で独占する「グローバル・ニッチトップ」の地位をさらに先鋭化させるでしょう",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "164.9億円（2025年度/輸出比率80.6%）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業90年以上！世界初の「ハイブリッド金属3Dプリンタ」など独創的な製品を生み出し続けてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "分かりやすく表現するなら“3Dプリンターの最高峰”",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1975年に製品をアメリカに輸出以来、毎年売上の7割以上を海外へ輸出しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "ハイブリッド金属3Dプリンター LUMEXシリーズ",
+    "url": "https://www.lumex-matsuura.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "【LUMEX×金型革命】ハイブリッド金属3DプリンターLUMEX 活用事例紹介 - YouTube",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "【LUMEX×金型革命】ハイブリッド金属3DプリンターLUMEX 活用事例紹介",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "マツウラのハイブリッド金属3Dプリンター「LUMEX」の活用方法をご提案いたします",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "（以下，マツウラ）は，元はと言えばマシニングセンタを手掛ける工作機械メーカーです．1935年創業，福井県に本拠を置く中小企業がなぜ金属3Dプリンタを作ることになったのか．その歴史は私の祖父，2代目社長の松浦正則の時代まで遡ります．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ LUMEX Avance-25",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代，松下電工は短期間での製品開発を目的にレーザーを使った金型の造形技術の開発に取り組んでいました．金型は融けた金属や樹脂を流し込み，部品や部材を量産するためのツールです．金型に不良があれば，その金型を使って生み出された部品全てに反映されます．金型が故障すれば，生産は止まります．高性能な金型はモノづくりの世界には欠かせません．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "当時の松下電工はドイツ製の金属3Dプリンタを設備して，内部水管を配置した高効率金型を試験的に製造してました．その中で特に課題感を感じていたのは複雑な凸部を持つコア型です．その形状の複雑さからどうしても製作時間を短縮できずに，全体のリードタイムがコア型の製造に左右されていました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "そこで，松下電工が辿り着いたのは造形と切削を層ごとに繰り返すハイブリッド工法でした．造形する金型の3Dモデルさえ作ってしまえば，あとは機械1台で金型が出来上がる．今までこの世になかった革新的な金属3Dプリンタの技術です．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "2002年に試作機である「金属光造形複合加工機 M-SINT」が誕生．そして，2003年7月に，世界初となる「金属光造形複合加工機 M-PHOTON 25C」の本格販売が開始されました．その当時は3Dプリンタという言葉自体が存在していなかったので，こんな仰々しい命名がされたのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "松浦正則は2007年に社長を長男の松浦勝俊（現社長）に譲り，2014年に永眠しました．孫の私は2018年に松浦機械に入社．仕事の世界での祖父の姿をこの目で見ることは叶いませんでした．以下は2003年1月の新聞のインタビューで松浦正則が金属光造形複合加工機について語った内容です．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "転機は2013年に訪れました．米国のオバマ前大統領が一般教書演説で3Dプリンタを言及したことをきっかけに，世の中に3Dプリンタブームが巻き起こりました．以下の販売台数の推移を見れば一目瞭然だと思います．その頃も，マツウラの機械は3Dプリンタではなく金属光造形複合加工機であると主張していました．しかし，世間の波に乗るために2014年にハイブリッド金属3Dプリンタと呼称を変えて今に至ります．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "CAD/CAMと呼ばれる機械のプログラムを3Dモデルから生成するソフトウェアがあります．ハイブリッド金属3Dプリンタなんて工法は今まで市場になかったため，専用のCAD/CAMが必要でした．これをとある企業に開発を依頼していたのですが，そのソフトウェア会社がライバル工作機械メーカーに買収されるなんてことがあったのもちょうどこの頃です．CAD/CAMは機械とは切っても切り離せない重要な要素のため，これを機にCAD/CAMをマツウラで自社開発することになりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この10年の間，金属3Dプリンタはキャズムの真っただ中にいたと言っても過言ではないでしょう．これはまさしくマツウラのハイブリッド金属3Dプリンタの販売状況にも如実に現れました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ業界はベンチャーキャピタルが絡む投資/投機的な対象にもなっており，投資家からの資金を用いて欧米のメーカーが大規模な開発を行いました．華やかな世界に見えましたが，決算報告書等を見るとどこも全く利益を出していないなんてこともざらでした．数年前まで展示会で巨大なブースを設けて，メディアにもガンガン宣伝していた新進気鋭のビッグプレイヤー．その1年後には人員の20%を削減し展示会出展規模を縮小．その次の年には欧州から撤退を発表するなんてことも起きました．奢れるものも久しからず．理論の通りにキャズムによって淘汰されたのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "地域の力を集結して開発された金属3Dプリンタとレーザ加工技術",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "強力なリーダーシップを失ったマツウラのハイブリッド金属3Dプリンタ事業．新役員体制になってからしばらくして，あっけなく事業方針にメスが入りました．販売にかけるリソースを最小限に，自分たちが勝てる分野に絞って開発をしよう．技術的目標を達成するまでは，販売活動にリソースは投資しない．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "我々が設定したターゲットは原点回帰の金型市場です．拡げすぎた風呂敷を小さくし，ハイブリッド金属3Dプリンタで勝負するのは金型だと再度強く心に決めました．航空関係，宇宙関係の3Dプリンタ部品市場は何倍も大きいのは分かっていましたが，自分たちの強い分野に絞り，特に海外のビジネスでは金型の案件だけを受けることと方針を定めました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ事業の開発方針の変更と組織再編，技術目標をクリアを経た今，再出発できるはずが…",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "それもそのはず．今まで販売にかけるリソースを最小限にしたのですから．実際マツウラは20年以上販売していましたが，これを読んでいる皆さん，ハイブリッド金属3Dプリンタなんてものがこの世にあったなんて知っていましたか？",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ここで，マーケティング理論に立ち返りましょう．今，金属3Dプリンタ業界はキャズムを越えるか越えないかの最中にあると私は考えています．キャズム理論の中では，キャズムを越えるための戦略として以下のようなものが示されています．（他にもあります）",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "3.ホールプロダクトは他の書籍の中での造語ですが，顧客が求めていることを実現できる完全なプロダクト群を揃えるということです．メインである製品を補完する製品，拡張させる製品まで用意する必要があります．これを聞いて一般的な例を思いつくのは非常に難しいとは思うのですが，弊社のハイブリッド金属3Dプリンタではすんなり当てはまります．補助的な製品で代表的な物はCAD/CAMシステムです．これは3Dモデルを基に機械のプログラムを生成するソフトウェアですが，使いやすさを求めて自社開発しており定期的にバージョンアップしています．その他にも，粉末，工具，粉末吸引装置，メンテナンス機器，脱磁機などのまさに補助的な製品まで提供しています．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "初めに出てくる金型が，一般的な金属3Dプリンタで製造可能なワークの見た目です．表面はざらざらでこれだけでは使い物になりません．電極による放電加工などの後加工で細溝までも含む表面を仕上げることで，初めて実用的な金型になります．3Dプリンタ/Additive Manufacturingを金型に適用するメリットとして，除去加工では絶対に作りえない内部水管やポーラス構造によるガス抜きなどが知られています．実際，これらのテクニックは昔から金型業界で知られていました．しかし，それらの革新的なデザインを含んだ金型を一般的な金属3Dプリンタを作ったとして，複雑な後加工が必要だったり分割した方が製造が楽だったりしたわけです．金属3Dプリンタが金型界のゲームチェンジャーになれなかった背景の1つはここにあります．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタはレーザーで金属粉末を融かし焼結するため，造形ワークは熱変形によって歪みが生じます．これが金型製造における天敵でした．テーブル温度，レーザーの焼結条件，切削のパスなどを突き詰めることで，ベースプレートと金型パーティングラインの平面度を劇的に向上させることが可能になりました．「金属3Dプリンタで作った金型は歪んでるのが当たり前」の固定観念を変えられると思います．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "以下の動画は一般の人が見てもなんてことないものですが，金属3Dプリンタではすごいことなんです．こんな地味ですが実質的には大事なことをコツコツ極めていました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの一番の敵はズバリ熱変形！",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "このようなアプリケーションで工夫がいるのは段取りです．とある形状の上に正確に造形を付加したいとなると，レーザーの照射位置にずれがあってはいけません．一般的な金属3Dプリンタだと難しいですが，マツウラのハイブリッド金属3Dプリンタは切削用の主軸があります．この主軸にタッチプローブを持たせることで正確な座標系を作成することができるのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "「10年前に一度金属3Dプリンタを試してみたが，まったく実用的なものじゃなかった」",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "今まではそれが金属3Dプリンタ検討の大前提になっていたのですが，最近は人不足の進行の影響からか，",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンターが新たなものづくりを提案します",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、ハイブリッド金属3Dプリンタ「LUMEX」による造形サンプルを中心に出展します",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形と切削加工を融合したLUMEX独自の製造技術を、実際のサンプルを通じて分かりやすくご紹介",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "当社が創業以来培った高速切削加工技術と、積層造形を1台に融合した世界初のハイブリッド金属3Dプリンタ",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "PBF方式国産最大級のハイブリッド金属3Dプリンタ",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "特に、世界中の航空宇宙産業や医療機器メーカーが絶大な信頼を寄せる5軸制御技術や、切削加工と金属積層造形を融合させたハイブリッド金属3Dプリンタは、まさに日本の「匠の技」と「デジタル技術」が高次元で結実した姿と言えるでしょう",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容: 5軸制御マシニングセンタ、金属光造形複合加工機、CAD/CAMシステムの開発・製造・販売",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "✔ハイブリッド金属3Dプリンタ事業",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "「LUMEX Series」を展開し、レーザによる金属光造形と、マシニングセンタによる高精度な切削加工を一台に融合させた、世界初の革新的技術を誇ります",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "90年にわたり蓄積された高度な精密組み付け技術と、世界に先駆けて製品化に成功した5軸制御技術およびハイブリッド金属3Dプリンタという、圧倒的な製品開発力が最大の強みです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、金属3Dプリンタの活用による製造プロセスの抜本的見直し（工程集約）が進む中で、同社のハイブリッド技術が業界標準としての地位を確立するチャンスが広がっています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "特に金属3Dプリンタ事業においては、宇宙・防衛やハイエンド医療といった、付加価値が極めて高い特定のニッチ市場を世界規模で独占する「グローバル・ニッチトップ」の地位をさらに先鋭化させるでしょう",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容の詳細: 5軸制御マシニングセンタ、金属光造形複合加工機、CAD/CAMシステムの開発・製造・販売、および自動化ソリューションの提供",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "創業90年以上！世界初の「ハイブリッド金属3Dプリンタ」など独創的な製品を生み出し続けてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "その1つ証明が、金属光造形複合機「LUMEX」です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属のレーザー加工と切削加工を1つのマシンで行える、世界初の工作機械です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ハイブリッド金属3Dプリンタ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ハイブリッド金属3Dプリンタ」はレーザ焼結と切削加工を融合した世界初の工作機械",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ「LUMEX 25C」が「第33回日本産業技術大賞・文部科学大臣賞」受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ「LUMEX Avance-25」が「第37回機械工業デザイン賞／日本会議所会頭賞」を受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ「LUMEX Avance-60」を発表",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、多くの新技術を開発・商品化し、高速加工やリニア駆動、5軸加工機や金属３Dプリンタ等で",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "高速・高精度・複雑加工や変種・変量生産が可能な高精度マシニングセンタをはじめ、製造業の未来を担うハイブリッド金属３Dプリンタなど、オンリーワン技術に挑戦し続け、グローバルビジネスを展開",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界初の「金属光造形複合加工技術」による金型などの製造装置",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属３Ｄプリンタ（金属光造形複合加工機）",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属光造形複合加工技術は全く新しい概念の加工法です",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型などを機械製作する工程において、金属粉末をレーザーで一層ずつ焼結して積み上げる作業と、それを切削して仕上げる作業とを同一装置内で行う世界で初めての複合加工法です",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来の切削加工などでは不可能であった複雑な立体形状の製作が、この金属光造形複合加工機のみで可能となり、",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "このハイブリッド金属３Dプリンタ以外にも、他社に先駆けた高速加工機の開発で「高速加工機のマツウラ」、続いて5軸制御立形マシニングセンタMAM72シリーズの開発で「5軸加工機のマツウラ」のブランドを構築しています",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械（マシニングセンタ）及びハイブリッド金属３Dプリンタの製造、販売",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "【工場潜入】株式会社山崎技研に潜入!!!フライス盤日本トップシェアたる理由が一目瞭然!!! #78",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代，松下電工は短期間での製品開発を目的にレーザーを使った金型の造形技術の開発に取り組んでいました．金型は融けた金属や樹脂を流し込み，部品や部材を量産するためのツールです．金型に不良があれば，その金型を使って生み出された部品全てに反映されます．金型が故障すれば，生産は止まります．高性能な金型はモノづくりの世界には欠かせません．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "これは現代にもつながっている課題ですが，経験のある技術者や職人の持つ熟練の技に依存しているケースが金型の製造においては多くあります．また，マシニングセンタ，研削盤，放電加工機，ワイヤカット放電加工機などの多様な設備とそれらの工程も金型製造には必要になります．そのため，素材の調達，各部品の製造，組立を含めれば，1つの金型の製造に数か月かかるのが一般的です．新製品開発のサイクルが早ければ，その製品に使われる部品を量産するための金型の製造も早く求められます．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "当時の松下電工はドイツ製の金属3Dプリンタを設備して，内部水管を配置した高効率金型を試験的に製造してました．その中で特に課題感を感じていたのは複雑な凸部を持つコア型です．その形状の複雑さからどうしても製作時間を短縮できずに，全体のリードタイムがコア型の製造に左右されていました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "その当時，マツウラは切削加工において工具の摩耗が発生することによる精度の劣化を課題ととらえ，短パルスレーザによるアブレーション加工について開発研究していました．非接触によるレーザー除去加工が新たな技術革新を生むと考えていたのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "「世の中にない物を作っていく点で、リスクは確かに大きい",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "しかし『ウオンツ』が『ニーズ』に変化した時点で、競争が激化するのは明白」との理由から十年先の市場を見据えたR&D（研究開発）に取り組む",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "キャズム理論はどういうことかと言うと，その話題性を理由に，まずは新しい物好きの人たちが新製品を購入します．しかし，それは一時的な流行です．高まった期待感と実現性や得られる実利との乖離が発生することで，売上やシェアが急激に鈍化します．そして，キャズムを越えた製品のみが市場に普及されていきます．キャズムを越えられなかったメーカーは撤退，自然消滅します．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "当時としては、市場はまだ形成されておらず、技術的にも未成熟な点が多かった中、事業化に踏み切った理由として松浦機械製作所松浦勝俊社長は「当時の松浦正則社長の熱意もあるが、会社の考えとして、会社の屋台骨が傾かない程度のリスクであれば、新しいもの、「尖った製品」を世の中に出すという会社の方針がある」と述べている",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "マツウラは福井の片田舎にある上場もしていないオーナー系中小企業です．すぐに結果を求められるベンチャーキャピタルの世界とは違います，しかし，好き勝手にはできません．報いるべきシェアホルダーや金融機関がいます．直接的な圧力があったかは私の知るところではありませんが，社内ではそこを理由に縮小や撤退に関する議論が何度もありました．血と汗と涙の開発．外野ではありましたが，特に人の涙は何回も見ることになりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月，世代交代を理由にその取締役の方が勇退されました．本人としては夢半ばで諦めるのは非常につらかったと確信していますが，会社の今後のために決断してくれました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "今，振り返って思うのですが，このとき，マツウラの「リスクを取ってでも尖った製品を出す」という会社の文化に危機が訪れました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "そして，開発型の中小企業にありがちだと個人的に思うのは，マーケティングと言うものをすごく軽視しているということです．「情報を発信することは他社に真似されるリスクを増やすだけだ．いい物さえ作れば必ず売れる」．今まで力を入れていなかったので，意外に伸びしろってのは多くあると思うのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "1.は初めから大きな市場を狙うのではなく，その技術が課題解決に確実につながるニッチな小市場を攻めるというものです．これははっきり金型市場として定めています．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "2.簡単に使いこなせることが重要．ユーザーインターフェースについては使いやすいと言えばそれまでですが，1つ他の事例を述べると弊社ではユーザー向けのガイドブックを用意しています．これは3Dプリンタの使い方，トラブルシューティングだけではなく，金型のデザインのガイダンス，設計のノウハウや熱処理や表面処理を含めた後工程についてを主に説明したものです．数年かけて試験データと実績を集めて具現化した集大成です．例として以下のようなものを準備しています．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "3.ホールプロダクトは他の書籍の中での造語ですが，顧客が求めていることを実現できる完全なプロダクト群を揃えるということです．メインである製品を補完する製品，拡張させる製品まで用意する必要があります．これを聞いて一般的な例を思いつくのは非常に難しいとは思うのですが，弊社のハイブリッド金属3Dプリンタではすんなり当てはまります．補助的な製品で代表的な物はCAD/CAMシステムです．これは3Dモデルを基に機械のプログラムを生成するソフトウェアですが，使いやすさを求めて自社開発しており定期的にバージョンアップしています．その他にも，粉末，工具，粉末吸引装置，メンテナンス機器，脱磁機などのまさに補助的な製品まで提供しています．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "時間減！コスト減！品質アップ！効率アップ！を実現した化け物金型",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "こちらはヨーロッパのユーザー事例で，車載ヒューズボックスの射出成形金型になります．この金型は実際にヒューズボックスの量産に使われており工場内で使用していた金型をすべて置き換えるために，LUMEXがフル稼働しています．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "600万円のコストダウンの秘密を見にきてください！",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "作業工数の削減により，CAV・COR金型セットで約600万円のコストを削減",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "上記の動画の後半に出てくるのがLUMEXのハイブリッド工法で製造した金型ワークです．3Dプリンタ内で切削をしているため，このような表面精度で機械から出てきます．これにより，後工程，後処理の負担を減らしたり，放電加工レスを実現したりすることができます．結果的に何が起きるかと言うと，",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "これにより，金型製造のコストやリードタイム短縮だけでなく，実際に金型を用いて部品を成形するときに品質向上やサイクルタイム短縮のメリットを得ることができるのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "3時間：検査（CMM）",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この入れ子自体は複雑な内部構造を持たないシンプルな形状です．3Dプリンタである必要性はありません．正直に言えば，既存製法よりコストはかかるでしょう しかし，生産が停止する間のロスを考えれば，大成功だったわけです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "これにより，電極設計期間が8日から2日に，電極加工期間が14日から3日に短縮し，9,000＄のコストダウンを実現しました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "このようなアプリケーションで工夫がいるのは段取りです．とある形状の上に正確に造形を付加したいとなると，レーザーの照射位置にずれがあってはいけません．一般的な金属3Dプリンタだと難しいですが，マツウラのハイブリッド金属3Dプリンタは切削用の主軸があります．この主軸にタッチプローブを持たせることで正確な座標系を作成することができるのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "単なる機械提供に留まらず、長時間無人運転を可能にする自動化システムを組み合わせることで、顧客の労働力不足という経営課題を解決する価値を提供しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "特に同社が強みを持つ5軸加工機は、工程集約による生産性向上の核心であり、欧米やアジアの先進国を中心に根強い需要が続いています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、マクロ経済的な懸念事項としては、地政学リスクに伴うサプライチェーン（供給網）の断絶や、原材料・エネルギー価格の不安定な推移が挙げられます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "固定負債3,737百万円も、総資産規模に比べれば極めて小さく、長期的な金利上昇リスクに対しても非常に強い耐性を持っています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "また、高度な職人技術に依拠する部分が大きく、福井の本社拠点における技術伝承や高度なIT人材の継続的な確保が、将来的な成長スピードの制約要因となる懸念も否定できません",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な製造現場における深刻な人材不足と賃金上昇は、同社が推進する「72時間連続無人運転」などの自動化ソリューションに対する投資意欲を構造的に押し上げています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "また、脱炭素社会の実現に向けた次世代モビリティや再生可能エネルギー機器の製造において、複雑形状を一度に削り出す5軸加工機の需要はさらに拡大する絶好の機会です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "地政学的な緊張の高まりに伴う輸出規制の強化や、重要技術の流出リスクは、グローバル展開を主軸とする同社にとって常に監視すべき深刻な脅威です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "また、海外競合メーカーによる技術的な追い上げや、ソフトウェアを軸とした新たな製造プラットフォームの台頭により、ハードウェアの優位性が相対的に低下するリスクも否定できません",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、現在直面している「人手不足」と「働き方改革」という社会課題を商機に変えるべく、既存の「MAM72 Series」等の自動化パッケージの提案をさらに強化すると考えられます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、自社の新工場（武生事業所C・D工場）で実証している最新の無人化ラインを「生きた展示場」として世界中に公開し、顧客の投資対効果を具体的にイメージさせることで、高単価なシステム受注の比率を高めるはずです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "世界最先端のモノづくりを支えるだけでなく人手不足や長時間労働などの社会課題を解消します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年6月、パナソニックが「LUMEX」導入による製造コスト3割削減を発表したことは、世界の産業界が注目する一大トピックスになり、最先端技術のフィールドにマツウラありという強烈な存在感を焼き付けることとなりました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、新しい技術への挑戦ができる環境がある事もその理由です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、工作機械業界で初めてISO9001の認証取得しました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後もISO14001及びOHSAS18001（労働安全衛生マネジメントシステム）も認証取得し、品質・環境・労働安全衛生の国際規格をトリプルで取得している企業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械業界初のISO9001認証取得",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ISO14001認証取得",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型などの製作が期間1/2、コスト1/2でできるようになりました",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "- OHSAS18001（労働安全衛生マネジメントシステム）認証を取得",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "操作性とコストパフォーマンスを重視している",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "高速・高剛性を特徴とし、自動車部品などの量産加工や難削材加工に適した横形機",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "高い剛性とコストパフォーマンスを両立させ、幅広い加工ニーズに対応するモデル",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "その中で、弊社が選ばれる理由の1つは「",
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "pass": 3
+   },
+   {
+    "quote": "少し愚痴っぽいですが、あんなに「出来ない、難しい",
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械のDX推進室で動画制作に使用している機器、動画制作ノウハウについて別noteで紹介しています",
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "pass": 3
+   },
+   {
+    "quote": "さらにそのころ、中期経営計画が練られ、人材教育を全部署が見直していました",
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、地方の中小企業である我々は人材が豊富にあるわけではありません",
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "pass": 3
+   },
+   {
+    "quote": "そのような専任の人材や工数を未来永劫確保できるでしょうか",
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、「申請して不可の場合、理由や修正箇所等を提言し再提出を促すのでまず提出することをお勧めします",
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "pass": 3
+   },
+   {
+    "quote": "～その課題と将来～ | 一般社団法人 日本機械学会 一般社団法人 日本機械学会",
+    "url": "https://www.jsme.or.jp/event/4196/",
+    "pass": 3
+   },
+   {
+    "quote": "本講習会では，3Dプリンターの概略と，応用に於けるメリット・デメリット，その課題と将来を，3Dプリンターに造詣深い芝浦工大安斎教授にご紹介いただきます. 更にはこの技術を利用し実際にものづくりをされているユーザー2社，金属3Dプリンターを開発販売しているメーカー2社にご発表頂き，「金属3Dプリンター」の次世代ものづくりへの可能性について事例を中心に多角的な視点よりご講演頂きます. 日夜ものづくりに携わっている人たちにとって，新しい技術をどの様に応用していくか，新しい発想を持って創造する事が如何に重要かをこの講演を通じて実感できる極めて有益な講習会になると確信しております．奮ってご参加下さい．",
+    "url": "https://www.jsme.or.jp/event/4196/",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、それまで2週間から1カ月近くかかった設計・加工期間を3分の1に短縮できた上に、コストも最大で半減した",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減に血眼になっているメーカーにとっては文字通り、“救世主”的な存在だ",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "【LUMEX×金型革命】ハイブリッド金属3DプリンターLUMEX 活用事例紹介 - YouTube",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "【LUMEX×金型革命】ハイブリッド金属3DプリンターLUMEX 活用事例紹介",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "LUMEXを使用すれば、射出成型サイクル短縮や複雑金型一体造形など様々なメリットがあります",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "【下町3Dプリンタ】金型業界に変革を起こしたい4代目｜松浦 悠人",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "【下町3Dプリンタ】金型業界に変革を起こしたい4代目",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタで試作品を作る．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ボタン1つで実用的な金型そのものを作る3Dプリンタ．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代，松下電工は短期間での製品開発を目的にレーザーを使った金型の造形技術の開発に取り組んでいました．金型は融けた金属や樹脂を流し込み，部品や部材を量産するためのツールです．金型に不良があれば，その金型を使って生み出された部品全てに反映されます．金型が故障すれば，生産は止まります．高性能な金型はモノづくりの世界には欠かせません．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "これは現代にもつながっている課題ですが，経験のある技術者や職人の持つ熟練の技に依存しているケースが金型の製造においては多くあります．また，マシニングセンタ，研削盤，放電加工機，ワイヤカット放電加工機などの多様な設備とそれらの工程も金型製造には必要になります．そのため，素材の調達，各部品の製造，組立を含めれば，1つの金型の製造に数か月かかるのが一般的です．新製品開発のサイクルが早ければ，その製品に使われる部品を量産するための金型の製造も早く求められます．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "当時の松下電工はドイツ製の金属3Dプリンタを設備して，内部水管を配置した高効率金型を試験的に製造してました．その中で特に課題感を感じていたのは複雑な凸部を持つコア型です．その形状の複雑さからどうしても製作時間を短縮できずに，全体のリードタイムがコア型の製造に左右されていました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "そこで，松下電工が辿り着いたのは造形と切削を層ごとに繰り返すハイブリッド工法でした．造形する金型の3Dモデルさえ作ってしまえば，あとは機械1台で金型が出来上がる．今までこの世になかった革新的な金属3Dプリンタの技術です．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この基本技術と取得した特許を基に松下電工で自社設備を作ろうとしたのですが，産業機械を設計する経験はありません．そこで，松下電工が使う立場としてマシニングセンタの優秀さを認めていたマツウラに自社設備設計の手伝いの話が舞い込みます．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "持ち掛けられた開発内容は除去加工とはまったく毛色が違うレーザーによる造形の分野．切削用の高速主軸の技術に親和性はあるが，マツウラにとっては完全に新しい分野です．試作機の設計の手伝いぐらいだけならといいだろうという気持ちで話を受けることになりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "当時は，本業のマシニングセンタでも5軸という新技術が注目されていた時代であり，マツウラの5軸ラインナップを迅速に揃えようと構想を練っていた時でした．その開発リソースが削られないように，技術本部の社員は何度も社長の松浦正則にやめましょうと直談判します．毎回その場では了承を得られるのですが，何度やっても次の日に「やはりやることにする」と言われてしまいます．金型造形装置の新規事業化については頑なに譲ることはありませんでした．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "2002年に試作機である「金属光造形複合加工機 M-SINT」が誕生．そして，2003年7月に，世界初となる「金属光造形複合加工機 M-PHOTON 25C」の本格販売が開始されました．その当時は3Dプリンタという言葉自体が存在していなかったので，こんな仰々しい命名がされたのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "しかし『ウオンツ』が『ニーズ』に変化した時点で、競争が激化するのは明白」との理由から十年先の市場を見据えたR&D（研究開発）に取り組む",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "2014年には三菱商事と独占販売契約を結び，米国市場へ打って出ます．その数年後に欧州にも進出しました．経産省の主導する大型プロジェクトにも参画が決まりました．さらなるビジネスの発展のために，対象とするアプリケーションを金型だけでなく造形物をそのまま製品に使えるようなものにも展開しようとしました．航空機部品，医療部品，空圧油圧部品がその例です．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "我々が設定したターゲットは原点回帰の金型市場です．拡げすぎた風呂敷を小さくし，ハイブリッド金属3Dプリンタで勝負するのは金型だと再度強く心に決めました．航空関係，宇宙関係の3Dプリンタ部品市場は何倍も大きいのは分かっていましたが，自分たちの強い分野に絞り，特に海外のビジネスでは金型の案件だけを受けることと方針を定めました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "金型市場への訴求力を高めるための開発項目も最小限に選りすぐって絞りました．特に精度面を徹底的に高めるということに注力したのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "1.は初めから大きな市場を狙うのではなく，その技術が課題解決に確実につながるニッチな小市場を攻めるというものです．これははっきり金型市場として定めています．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "2.簡単に使いこなせることが重要．ユーザーインターフェースについては使いやすいと言えばそれまでですが，1つ他の事例を述べると弊社ではユーザー向けのガイドブックを用意しています．これは3Dプリンタの使い方，トラブルシューティングだけではなく，金型のデザインのガイダンス，設計のノウハウや熱処理や表面処理を含めた後工程についてを主に説明したものです．数年かけて試験データと実績を集めて具現化した集大成です．例として以下のようなものを準備しています．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "これがうちの金型の実績だ！(2025/4/2更新)",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "時間減！コスト減！品質アップ！効率アップ！を実現した化け物金型",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "こちらはヨーロッパのユーザー事例で，車載ヒューズボックスの射出成形金型になります．この金型は実際にヒューズボックスの量産に使われており工場内で使用していた金型をすべて置き換えるために，LUMEXがフル稼働しています．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この部品の金型作るのにどのくらいの期間必要ですか？金型屋の皆さん！",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この金型，元々は80個以上のパーツに分割されており，それぞれの部品素材を調達，放電加工用の電極を製造，全加工部品を集約し，一つ一つ人手で調整しながら組み立てをしていました．LUMEXを用いることでその80個以上の金型部品を10個まで集約したのです．動画はその中で一番大きな主要部品になります．これにより，製造工数と金型のリードタイムが大きく削減されました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この造形には234時間かかりました．とてつもなく長く感じるかもしれませんが，ボタンを押して10日後にはこの表面精度の金型ができるわけです．その間に人手の介入はありません．これは既存工法と比べるととんでもないことです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "結果的に，この金型で以下を実現しました",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "金型や部品における高精度化、短納期化、設計自由度向上など、従来工法では難しかった価値創出の可能性をご提案します",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作では放電加工レスによる深溝加工で工数削減に貢献し、3次元冷却水管やポーラス構造を内包した高機能金型を実現します",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "金型加工技術、射出成型技術",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "特に、世界中の航空宇宙産業や医療機器メーカーが絶大な信頼を寄せる5軸制御技術や、切削加工と金属積層造形を融合させたハイブリッド金属3Dプリンタは、まさに日本の「匠の技」と「デジタル技術」が高次元で結実した姿と言えるでしょう",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "複雑な形状を一度の取り付けで加工しきる5軸制御技術は、航空宇宙や医療、精密金型といった、一分の誤差も許されない最先端の製造現場において不可欠な存在です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "この技術により、従来の加工法では不可能だった複雑な冷却水路を持つ金型製作などが可能となり、成形サイクルの短縮や製品品質の劇的な向上に寄与しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "また、航空機の機体軽量化ニーズや、医療分野での個人最適化された人工関節等の製造において、高精度な多軸加工の重要性は一段と増しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、マクロ経済的な懸念事項としては、地政学リスクに伴うサプライチェーン（供給網）の断絶や、原材料・エネルギー価格の不安定な推移が挙げられます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "この厚い内部留保は、景気変動の激しい工作機械業界において、研究開発投資の手を緩めない「攻めの守り」を可能にする源泉となっています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "また、約72%という傑出した自己資本比率に裏打ちされた強固な財務体質は、長期的な研究開発や大規模な拠点投資を自前で完結させることを可能にしています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "また、脱炭素社会の実現に向けた次世代モビリティや再生可能エネルギー機器の製造において、複雑形状を一度に削り出す5軸加工機の需要はさらに拡大する絶好の機会です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "特に金属3Dプリンタ事業においては、宇宙・防衛やハイエンド医療といった、付加価値が極めて高い特定のニッチ市場を世界規模で独占する「グローバル・ニッチトップ」の地位をさらに先鋭化させるでしょう",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "福井から世界へ！IT、自動車など様々なモノづくりを支える仕事！あの製品もマツウラが無ければ作れないかも",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1935年の創業時から受け継がれてきた私たちだからできるモノづくりは、日本を飛び越え、世界、さらには宇宙にまでビジネスを広げてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売先としては、F1関連及び自動車産業、航空宇宙産業、家電産業、医療機器産業等多岐に亘って使用されています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社独自の開発・設計・製造による工作機械は、航空・宇宙産業から家電製品、医療・スポーツ分野など、世界中のあらゆる産業で部品や金型を製造し、モノづくりを支えています",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界初の「金属光造形複合加工技術」による金型などの製造装置",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型などを機械製作する工程において、金属粉末をレーザーで一層ずつ焼結して積み上げる作業と、それを切削して仕上げる作業とを同一装置内で行う世界で初めての複合加工法です",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型などの製作が期間1/2、コスト1/2でできるようになりました",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車㈱、本田技研工業㈱、パナソニック㈱、㈱ニコン、ボーイング 他",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "その高い加工精度と信頼性から、F1などのモータースポーツ部品、航空宇宙、医療機器といったハイエンドな市場で高いシェアを持つ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "高速・高剛性を特徴とし、自動車部品などの量産加工や難削材加工に適した横形機",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "深リブや通気性金型（ポーラス造形）の製作が可能",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "〔 協賛(予定)：型技術協会，精密工学会，日本機械工具工業会，ダイヤモンド工業協会，砥粒加工学会，日本金型工業会，日本工作機械工業会，日本工作機械輸入協会，日本工作機器工業会，自動車技術会，塑性加工学会，日刊工業新聞社，日本工業出版社〕",
+    "url": "https://www.jsme.or.jp/event/4196/",
+    "pass": 3
+   },
+   {
+    "quote": "一昨年より世界中で3Dプリンターの話題が毎日マスコミを賑わせている．一説ではこの技術は「第三次産業革命」のツールとも言われており，特に米国・欧州では航空機産業を筆頭にものづくりへの応用に向けかなりのスピードで開発が進められている．そういった意味で日本はどうか、工作機械メーカーが昨年より本格的に金属3Dプリンターを開発販売始めはしたものの、実際のものづくりへの応用は米国・欧州と比べ遅れている.",
+    "url": "https://www.jsme.or.jp/event/4196/",
+    "pass": 3
+   },
+   {
+    "quote": "モノを大量生産するために必要な「金型」（金属の型）づくりの過程で、「造形」と「切削」の2つの作業を1つの機械内で行える装置を開発",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、金型の仕上がりの精度が大幅に上がった",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   },
+   {
+    "quote": "LUMEXを使えば、金型の内部に水管を自在に配置できるため、金型に流し込んだ樹脂の冷却効果も格段に高まり、部品の生産性が向上",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   },
+   {
+    "quote": "マツウラがLUMEXの原型機（試作機）を開発した当時はまだ、3Dプリンターという言葉は一般的でなかった",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   },
+   {
+    "quote": "切削加工技術生かし航空宇宙分野に参入―由紀精密 : 家業のネジ屋を再生、目指すは製造業コングロマリット",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ日本の医療DXは進まないのか──命の現場から見えた突破口",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙における防衛イノベーションと日本の課題",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "キャズム理論はどういうことかと言うと，その話題性を理由に，まずは新しい物好きの人たちが新製品を購入します．しかし，それは一時的な流行です．高まった期待感と実現性や得られる実利との乖離が発生することで，売上やシェアが急激に鈍化します．そして，キャズムを越えた製品のみが市場に普及されていきます．キャズムを越えられなかったメーカーは撤退，自然消滅します．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ業界はベンチャーキャピタルが絡む投資/投機的な対象にもなっており，投資家からの資金を用いて欧米のメーカーが大規模な開発を行いました．華やかな世界に見えましたが，決算報告書等を見るとどこも全く利益を出していないなんてこともざらでした．数年前まで展示会で巨大なブースを設けて，メディアにもガンガン宣伝していた新進気鋭のビッグプレイヤー．その1年後には人員の20%を削減し展示会出展規模を縮小．その次の年には欧州から撤退を発表するなんてことも起きました．奢れるものも久しからず．理論の通りにキャズムによって淘汰されたのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "マツウラは福井の片田舎にある上場もしていないオーナー系中小企業です．すぐに結果を求められるベンチャーキャピタルの世界とは違います，しかし，好き勝手にはできません．報いるべきシェアホルダーや金融機関がいます．直接的な圧力があったかは私の知るところではありませんが，社内ではそこを理由に縮小や撤退に関する議論が何度もありました．血と汗と涙の開発．外野ではありましたが，特に人の涙は何回も見ることになりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ事業の開発方針の変更と組織再編，技術目標をクリアを経た今，再出発できるはずが…",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "何台売ったらいいのか，採算性もよく分かっていない",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "この入れ子自体は複雑な内部構造を持たないシンプルな形状です．3Dプリンタである必要性はありません．正直に言えば，既存製法よりコストはかかるでしょう しかし，生産が停止する間のロスを考えれば，大成功だったわけです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "特に同社が強みを持つ5軸加工機は、工程集約による生産性向上の核心であり、欧米やアジアの先進国を中心に根強い需要が続いています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、金属3Dプリンタの活用による製造プロセスの抜本的見直し（工程集約）が進む中で、同社のハイブリッド技術が業界標準としての地位を確立するチャンスが広がっています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "国内の生産年齢人口の激減が、自社の製造拠点維持だけでなく、国内顧客の設備投資意欲の長期的な減退を招くなど、構造的な市場縮小という厳しい環境への備えも重要になると考えられます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "さらにそのころ、中期経営計画が練られ、人材教育を全部署が見直していました",
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "pass": 3
+   },
+   {
+    "quote": "優秀製品賞（2024年度終了）",
+    "url": "https://www.jsme.or.jp/event/4196/",
+    "pass": 3
+   },
+   {
+    "quote": "分科会・研究会の再編について（2023年12月）",
+    "url": "https://www.jsme.or.jp/event/4196/",
+    "pass": 3
+   },
+   {
+    "quote": "教材のみのご希望の方，また聴講者で教材を余分にご希望の方は1冊につき会員2 000円，会員外3 000円で頒布いたしますので，開催前に代金を添えて予約申込み下さい．講習会終了後発送いたします．",
+    "url": "https://www.jsme.or.jp/event/4196/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "（以下，マツウラ）は，元はと言えばマシニングセンタを手掛ける工作機械メーカーです．1935年創業，福井県に本拠を置く中小企業がなぜ金属3Dプリンタを作ることになったのか．その歴史は私の祖父，2代目社長の松浦正則の時代まで遡ります．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "当社が創業以来培った高速切削加工技術と、積層造形を1台に融合した世界初のハイブリッド金属3Dプリンタ",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所は、1935年の創業以来、「人のやらない事をやる」という不屈の精神を掲げ、マシニングセンタの先駆者として君臨してきました",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "設立: 1960年9月（創業1935年8月）",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "同社の内部環境における最大の差別化要因は、創業90年の歴史の中で磨き上げられた「福井の匠の技」と「高度なデジタル開発力」の高度な融合にあります",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "創業90年以上！世界初の「ハイブリッド金属3Dプリンタ」など独創的な製品を生み出し続けてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "マツウラでは1935年の創業以来、高品質な工作機械の提供を通じて世界中のあらゆるモノづくりを支えています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1935年の創業時から受け継がれてきた私たちだからできるモノづくりは、日本を飛び越え、世界、さらには宇宙にまでビジネスを広げてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは2035年の創業100周年に向けて、さらなるグローバル化を進めています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来多くの新技術を他社に先駆けて開発商品化し、高速加工やリニア駆動、そして現在は5軸加工機等で業界トップクラスの地位を築いてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は創業以来中小企業、今の呼び方でいうベンチャー企業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「松浦機械製作所」創業、旋盤の生産開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人に改組、「(株)松浦機械製作所」設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、多くの新技術を開発・商品化し、高速加工やリニア駆動、5軸加工機や金属３Dプリンタ等で",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "にて創業し、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "- 株式会社松浦機械製作所を設立し、法人改組",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "米国に現地法人「Matsuura Machinery USA Inc.」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "欧米市場への輸出比率が高く、以下の国に現地法人（子会社）を設立して販売およびアフターサービスを行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "1960年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "は福井県にあります1935年創業の工作機械メーカーであり、オーナー系企業で現社長が3代目、私が4代目となる予定です",
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "pass": 3
+   },
+   {
+    "quote": "創立120周年",
+    "url": "https://www.jsme.or.jp/event/4196/",
+    "pass": 3
+   },
+   {
+    "quote": "創立130周年",
+    "url": "https://www.jsme.or.jp/event/4196/",
+    "pass": 3
+   },
+   {
+    "quote": "独自技術、ニッチ戦略、異色経営ありのユニークな企業とともに、創業百年を超す長寿企業・老舗企業を紹介する",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   },
+   {
+    "quote": "創業90年！世界初の「ハイブリッド金属3Dプリンタ」など長年にわたり独創的な製品を生み出し続けてきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "マツウラでは1935年の創業以来、高品質な工作機械の提供を通じて世界中のあらゆるモノづくりを支えています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人に改組、株式会社松浦機械製作所を設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国にMatsuura Machinery USA Inc. 設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業90周年 武生事業所 C・D工場稼働開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【3代目×4代目 特別対談】マツウラ創業90周年、そして100周年へ－",
+    "url": "https://www.youtube.com/watch?v=Y69W-1-BBlI",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所、通称「マツウラ」は、1935年に福井市で創業した工作機械メーカーです",
+    "url": "https://www.youtube.com/watch?v=Y69W-1-BBlI",
+    "pass": 3
+   },
+   {
+    "quote": "1935年の創業以来、高精度・高信頼性の工作機械づくりを強みとし、現在では5軸制御マシニングセンタやハイブリッド金属3Dプリンタなど、先進的な加工技術を世界市場へ提供しています",
+    "url": "https://kikaicatalog.com/matsuura/",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "キャズム理論はどういうことかと言うと，その話題性を理由に，まずは新しい物好きの人たちが新製品を購入します．しかし，それは一時的な流行です．高まった期待感と実現性や得られる実利との乖離が発生することで，売上やシェアが急激に鈍化します．そして，キャズムを越えた製品のみが市場に普及されていきます．キャズムを越えられなかったメーカーは撤退，自然消滅します．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "おかげで海外グループ会社からの意見，原価，生産能力，在庫，アフターサービス売上，開発計画，利益率，欲しかった情報がすべて手元に集まりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "#14469 決算分析 : 株式会社松浦機械製作所 第66期決算 当期純利益 560百万円 - 決算公告データ倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "31,059百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "(約310.6億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "8,738百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "(約87.4億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "22,321百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "(約223.2億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "560百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "(約5.6億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益560百万円を計上し、利益剰余金が215億円を超えて積み上がっている点は、長年にわたる高付加価値な製品供給と、世界的な特定領域での高いシェア（世界市場独占的地位）がもたらした堅実な蓄積の結果であると推測されます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "財務諸表を分析すると、資産合計31,059百万円のうち純資産が22,321百万円に達しており、外部の資本に頼らない極めて自立した経営姿勢が伺えます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "資本金9,000万円に対し、利益剰余金が資本金の約240倍に相当する21,574百万円も蓄積されている点は、驚異的な収益力の持続性を証明しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "自己資本比率約71.9%という数値は、負債合計8,738百万円に対して純資産が2.5倍以上存在することを示しており、事実上の無借金経営に近い状態にあることが推測されます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "流動比率（流動資産18,815百万円÷流動負債5,001百万円）は約376%に達し、短期的な支払能力に不安を抱く要素は皆無です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "固定負債3,737百万円も、総資産規模に比べれば極めて小さく、長期的な金利上昇リスクに対しても非常に強い耐性を持っています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "今期の純利益560百万円は、潤沢な資産規模に対して控えめに見えるかもしれませんが、これは将来の成長に向けた積極的な先行投資（武生事業所の新工場稼働や最新鋭の設備導入）を飲み込んだ上での安定的な黒字計上であると考えられます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "560百万円という純利益と約72%の自己資本比率は、同社が単に優れた機械を作っているだけでなく、いかに誠実に、そして堅実に経営の土台を築き上げてきたかの証左です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "資本金: 90百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "164.9億円（2025年度/輸出比率80.6%）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1975年に製品をアメリカに輸出以来、毎年売上の7割以上を海外へ輸出しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「100億円企業」全国に1万5159社―帝国データ調査 : 3年以内の “ネクスト”候補は2398社",
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "pass": 3
+   },
+   {
+    "quote": "164.9億円（2025年度/輸出比率80.6%）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "158.2億円（2024年度／輸出比率77%）",
+    "url": "https://kikaicatalog.com/matsuura/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "何台売ったらいいのか，採算性もよく分かっていない",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "#14469 決算分析 : 株式会社松浦機械製作所 第66期決算 当期純利益 560百万円 - 決算公告データ倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益560百万円を計上し、利益剰余金が215億円を超えて積み上がっている点は、長年にわたる高付加価値な製品供給と、世界的な特定領域での高いシェア（世界市場独占的地位）がもたらした堅実な蓄積の結果であると推測されます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "今期の純利益560百万円は、潤沢な資産規模に対して控えめに見えるかもしれませんが、これは将来の成長に向けた積極的な先行投資（武生事業所の新工場稼働や最新鋭の設備導入）を飲み込んだ上での安定的な黒字計上であると考えられます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "560百万円という純利益と約72%の自己資本比率は、同社が単に優れた機械を作っているだけでなく、いかに誠実に、そして堅実に経営の土台を築き上げてきたかの証左です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "CAD/CAMと呼ばれる機械のプログラムを3Dモデルから生成するソフトウェアがあります．ハイブリッド金属3Dプリンタなんて工法は今まで市場になかったため，専用のCAD/CAMが必要でした．これをとある企業に開発を依頼していたのですが，そのソフトウェア会社がライバル工作機械メーカーに買収されるなんてことがあったのもちょうどこの頃です．CAD/CAMは機械とは切っても切り離せない重要な要素のため，これを機にCAD/CAMをマツウラで自社開発することになりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "キャズム理論はどういうことかと言うと，その話題性を理由に，まずは新しい物好きの人たちが新製品を購入します．しかし，それは一時的な流行です．高まった期待感と実現性や得られる実利との乖離が発生することで，売上やシェアが急激に鈍化します．そして，キャズムを越えた製品のみが市場に普及されていきます．キャズムを越えられなかったメーカーは撤退，自然消滅します．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ業界はベンチャーキャピタルが絡む投資/投機的な対象にもなっており，投資家からの資金を用いて欧米のメーカーが大規模な開発を行いました．華やかな世界に見えましたが，決算報告書等を見るとどこも全く利益を出していないなんてこともざらでした．数年前まで展示会で巨大なブースを設けて，メディアにもガンガン宣伝していた新進気鋭のビッグプレイヤー．その1年後には人員の20%を削減し展示会出展規模を縮小．その次の年には欧州から撤退を発表するなんてことも起きました．奢れるものも久しからず．理論の通りにキャズムによって淘汰されたのです．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   },
+   {
+    "quote": "マツウラは福井の片田舎にある上場もしていないオーナー系中小企業です．すぐに結果を求められるベンチャーキャピタルの世界とは違います，しかし，好き勝手にはできません．報いるべきシェアホルダーや金融機関がいます．直接的な圧力があったかは私の知るところではありませんが，社内ではそこを理由に縮小や撤退に関する議論が何度もありました．血と汗と涙の開発．外野ではありましたが，特に人の涙は何回も見ることになりました．",
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ハイブリッド金属 3Dプリンタ | 工作機械の 松浦機械製作所 — ハイブリッド金属 3Dプリンタ | 工作機械の 松浦機械製作所 Matsuura Machinery https://www.matsuura.co.jp > ... > 平成モノづくり30年史",
+    "url": "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属 3Dプリンター LUMEXシリーズ — ハイブリッド金属 3Dプリンター LUMEXシリーズ lumex-matsuura.com https://www.lumex-matsuura.com > japan",
+    "url": "https://www.lumex-matsuura.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "【LUMEX×金型革命】ハイブリッド金属 3D - YouTube — 【LUMEX×金型革命】ハイブリッド金属 3D - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "pass": 3
+   },
+   {
+    "quote": "主軸で後工程がラクになる！金属 3Dプリンタ のお悩み解決 — 主軸で後工程がラクになる！金属 3Dプリンタ のお悩み解決 Matsuura Machinery https://www.matsuura.co.jp > japan > media_library > 主...",
+    "url": "https://www.matsuura.co.jp/japan/media_library/%E4%B8%BB%E8%BB%B8%E3%81%A7%E5%BE%8C%E5%B7%A5%E7%A8%8B%E3%81%8C%E3%83%A9%E3%82%AF%E3%81%AB%E3%81%AA%E3%82%8B%EF%BC%81%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%81%8A%E6%82%A9",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所 | 出展者詳細 | TCT Japan| 国内最大級 3D ... — 松浦機械製作所 | 出展者詳細 | TCT Japan| 国内最大級 3D ... unifiedsearch.jcdbizmatch.jp https://unifiedsearch.jcdbizmatch.jp > tct > details",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "pass": 3
+   },
+   {
+    "quote": "#14469 決算分析 : 株式会社 松浦機械製作所 第66期決算 当期純 ... — #14469 決算分析 : 株式会社 松浦機械製作所 第66期決算 当期純 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2026/04/20",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 松浦機械製作所 の新卒採用・会社概要 | マイナビ2027 — (株) 松浦機械製作所 の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp99636 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報について | 工作機械の 松浦機械製作所 — 会社情報について | 工作機械の 松浦機械製作所 Matsuura Machinery https://www.matsuura.co.jp > ホーム > マツウラについて",
+    "url": "https://www.matsuura.co.jp/japan/company/profile",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 松浦機械製作所 - 福井県 — 株式会社 松浦機械製作所 - 福井県 福井県ホームページ https://info.pref.fukui.lg.jp > tisan > jitsuwafukui > machine",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所 - Wikipedia — 松浦機械製作所 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 松浦機械製作所",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所社長インタビュー ”グローバルサービスサポート” — 松浦機械製作所社長インタビュー ”グローバルサービスサポート” YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=VR7b10DZJJY",
+    "pass": 3
+   },
+   {
+    "quote": "#14469 決算 分析 : 株式会社 松浦機械製作所 第66期 決算 当期純 ... — #14469 決算 分析 : 株式会社 松浦機械製作所 第66期 決算 当期純 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2026/04/20",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所 の企業情報｜業界研究 - 会社四季報オンライン — 松浦機械製作所 の企業情報｜業界研究 - 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 業界研究",
+    "url": "https://shikiho.toyokeizai.net/gyoukai/company/75a28dae07a4f62",
+    "pass": 3
+   },
+   {
+    "quote": "会社 情報について | 工作機械の 松浦機械製作所 — 会社 情報について | 工作機械の 松浦機械製作所 Matsuura Machinery https://www.matsuura.co.jp > ホーム > マツウラについて",
+    "url": "https://www.matsuura.co.jp/japan/company/profile",
+    "pass": 3
+   },
+   {
+    "quote": "( 株 ) 松浦機械製作所 の 会社概要 | マイナビ2028 — ( 株 ) 松浦機械製作所 の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp99636 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 会社 説明動画】5分でわかる！ 松浦機械製作所 - YouTube — 【 会社 説明動画】5分でわかる！ 松浦機械製作所 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Y69W-1-BBlI",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社松浦機械製作所 - 福井県 — 株式 会社松浦機械製作所 - 福井県 福井県ホームページ https://info.pref.fukui.lg.jp > tisan > jitsuwafukui > machine",
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 松浦機械製作所 - キカイカタログ — 株式 会社 松浦機械製作所 - キカイカタログ キカイカタログ https://kikaicatalog.com > matsuura",
+    "url": "https://kikaicatalog.com/matsuura/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "潤沢な利益剰余金を活用し、自社にない特定のデジタル技術（例えばシミュレーションAIや高度な材料解析）を持つベンチャー企業への出資やM&Aを戦略的に行い、ハードとソフトが完全に一体化した「次世代のモノづくり基盤」を構築するはずです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【 松浦機械製作所 】企業研究コンプリードガイドブック - note 【 松浦機械製作所 】企業研究コンプリードガイドブック - note note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "松浦 悠人 - note 松浦 悠人 - note note https://note.com > yuto_matsuura",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【松浦機械製作所】企業研究コンプリードガイドブック｜松浦 悠人",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "【松浦機械製作所】企業研究コンプリードガイドブック",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ - 株式会社松浦機械製作所 リクルート特設サイト",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "どの企業に就職しても変わらない？そんなことはない。 他社ではやっていない、他社では真似できない、君にしか出来ない。 そんな",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "福井県の工作機械メーカー松浦機械製作所4代目| 京大⇒ﾄﾛﾝﾄ大院⇒ﾌｧﾅｯｸ⇒家業|本気で会社を変えようと全力取組中|amazonアソシエイト参加中(書籍のリンクに使ってます)|",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "【京大合格から海外大学院留学まで根性だけでやり抜いたって話】",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "結局、正論ばっか口にして何も決断できない奴が一番だるいって話",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "「環境に合わせて組織を変え続けろ」ということがめっちゃ腹落ちした本を紹介したい",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ部門間の壁を壊す必要があるのか？どう壊すのか？を学べた書籍",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "しつちょう｜しゅごい工作 機械 屋さん (@yuto_matsuura) / X しつちょう｜しゅごい工作 機械 屋さん (@yuto_matsuura) / X X https://x.com > yuto_matsuura",
+    "url": "https://x.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所 西川 (@Yuta_mmc) / X 松浦機械製作所 西川 (@Yuta_mmc) / X X https://x.com > Yuta_mmc",
+    "url": "https://x.com/Yuta_mmc",
+    "pass": 3
+   },
+   {
+    "quote": "塚本涼太@ 松浦機械製作所 (@MMC1169) / X 塚本涼太@ 松浦機械製作所 (@MMC1169) / X X https://x.com > MMC1169",
+    "url": "https://x.com/MMC1169",
+    "pass": 3
+   },
+   {
+    "quote": "しつちょう｜しゅごい工作 機械 屋さん on X: \"「加工工場の倉庫 ... しつちょう｜しゅごい工作 機械 屋さん on X: \"「加工工場の倉庫 ... X https://x.com > @yuto_matsuura",
+    "url": "https://x.com/yuto_matsuura/status/2067366686412488940",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Matsuura Machinery Corporation - LinkedIn Matsuura Machinery Corporation - LinkedIn LinkedIn https://www.linkedin.com > posts > matsuura-machinery-c...",
+    "url": "https://www.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF-activity-7475465262671101952-V-_p",
+    "pass": 3
+   },
+   {
+    "quote": "Matsuura Machinery Corporation - LinkedIn Matsuura Machinery Corporation - LinkedIn LinkedIn https://jp.linkedin.com > posts > matsuura-machinery-cor...",
+    "url": "https://jp.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF-activity-7219968954457280512-Nz5Q",
+    "pass": 3
+   },
+   {
+    "quote": "Matsuura Machinery Corporation - LinkedIn Matsuura Machinery Corporation - LinkedIn LinkedIn https://www.linkedin.com > posts > matsuura-machinery-c...",
+    "url": "https://www.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF-activity-7257583638257520640-86S1",
+    "pass": 3
+   },
+   {
+    "quote": "# 松浦機械製作所 #工作機械 #立形 #マシニングセンタ #無人化 ... # 松浦機械製作所 #工作機械 #立形 #マシニングセンタ #無人化 ... LinkedIn https://www.linkedin.com > posts > matsuura-machinery-c...",
+    "url": "https://www.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E7%AB%8B%E5%BD%A2-activity-6744929394286043136-84Wu",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/matsuuramc/",
+    "pass": 3
+   },
+   {
+    "quote": "Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Facebook https://www.facebook.com > matsuuramc > photos",
+    "url": "https://www.facebook.com/matsuuramc/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所 - Inicio - Facebook 松浦機械製作所 - Inicio - Facebook Facebook https://www.facebook.com > pages > 松浦機械製作所",
+    "url": "https://www.facebook.com/pages/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80/137445193015748?locale=es_LA",
+    "pass": 3
+   },
+   {
+    "quote": "Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/matsuuramc/videos/we-would-like-to-introduce-the-manufacturing-engineering-office-at-our-takefu-pl/835397432682248/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.matsuura.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.lumex-matsuura.com/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumex-matsuura.com/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsme.or.jp/event/4196/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=VR7b10DZJJY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nippon.com/ja/articles/-/2091",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/gyoukai/company/75a28dae07a4f62",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y69W-1-BBlI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaicatalog.com/matsuura/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuto_matsuura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yuto_matsuura",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Yuta_mmc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MMC1169",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yuto_matsuura/status/2067366686412488940",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF-activity-7475465262671101952-V-_p",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF-activity-7219968954457280512-Nz5Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF-activity-7257583638257520640-86S1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E7%AB%8B%E5%BD%A2-activity-6744929394286043136-84Wu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matsuuramc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matsuuramc/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80/137445193015748?locale=es_LA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matsuuramc/videos/we-would-like-to-introduce-the-manufacturing-engineering-office-at-our-takefu-pl/835397432682248/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/yuto_matsuura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yuto_matsuura",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "松浦機械製作所 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "https://www.lumex-matsuura.com/japan",
+    "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "https://www.matsuura.co.jp/japan/media_library/%E4%B8%BB%E8%BB%B8%E3%81%A7%E5%BE%8C%E5%B7%A5%E7%A8%8B%E3%81%8C%E3%83%A9%E3%82%AF%E3%81%AB%E3%81%AA%E3%82%8B%EF%BC%81%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%81%8A%E6%82%A9",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "https://monoque.jp/mechanical_processing/movie/3277ded4d858ca3fa4b7ae45af7ae2f49d1831b7/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf"
+   ]
+  },
+  {
+   "query": "松浦機械製作所 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "https://www.lumex-matsuura.com/japan",
+    "https://www.youtube.com/watch?v=EsNhPovDp38",
+    "https://www.matsuura.co.jp/japan/media_library/%E4%B8%BB%E8%BB%B8%E3%81%A7%E5%BE%8C%E5%B7%A5%E7%A8%8B%E3%81%8C%E3%83%A9%E3%82%AF%E3%81%AB%E3%81%AA%E3%82%8B%EF%BC%81%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%81%8A%E6%82%A9",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://www.jsme.or.jp/event/4196/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf"
+   ]
+  },
+  {
+   "query": "松浦機械製作所 積層造形 事業 売上",
+   "results": [
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "https://www.matsuura.co.jp/japan/company/profile",
+    "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://www.nippon.com/ja/articles/-/2091",
+    "https://shikiho.toyokeizai.net/gyoukai/company/75a28dae07a4f62",
+    "https://x.com/yuto_matsuura/status/1959029259273740670",
+    "https://www.boring-processing.com/machining-center/matsuura.html",
+    "https://firmnavi.com/companies/g74-065"
+   ]
+  },
+  {
+   "query": "松浦機械製作所 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "https://www.jsme.or.jp/event/4196/",
+    "https://www.youtube.com/watch?v=VR7b10DZJJY",
+    "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "https://www.nippon.com/ja/articles/-/2091",
+    "https://www.instagram.com/reel/CIXmovGp-kN/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02221/110900015/",
+    "https://www.lumex-matsuura.com/japan/technicalreport",
+    "https://jp.linkedin.com/in/yuto-matsuura-3187501b7/ja",
+    "https://www.youtube.com/playlist?list=PLEeI1-0QYWG3KwyXeduipU_H_Ip39Mvf_"
+   ]
+  },
+  {
+   "query": "松浦機械製作所 決算説明 3Dプリンタ",
+   "results": [
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/04/20/114500",
+    "https://shikiho.toyokeizai.net/gyoukai/company/75a28dae07a4f62",
+    "https://www.matsuura.co.jp/japan/company/profile",
+    "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "https://www.matsuura.co.jp/japan/media_library/%E4%B8%BB%E8%BB%B8%E3%81%A7%E5%BE%8C%E5%B7%A5%E7%A8%8B%E3%81%8C%E3%83%A9%E3%82%AF%E3%81%AB%E3%81%AA%E3%82%8B%EF%BC%81%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%81%8A%E6%82%A9",
+    "https://www23183ue.sakura.ne.jp/disclosures/150457",
+    "https://www.nippon.com/ja/articles/-/2091",
+    "https://www.lumex-matsuura.com/japan/technicalreport",
+    "https://kaijiwire.jp/companies/4210001003869"
+   ]
+  },
+  {
+   "query": "松浦機械製作所 会社概要 設立 株主",
+   "results": [
+    "https://www.matsuura.co.jp/japan/company/profile",
+    "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "https://www.youtube.com/watch?v=Y69W-1-BBlI",
+    "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "https://kikaicatalog.com/matsuura/",
+    "https://www.emdustrial.net/2022/01/25/matsuura/",
+    "https://monoque.jp/kaisya-guide/kaisya-detail/?id=11870",
+    "https://www.matsuura.co.jp/japan/media_library/%E3%80%90%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E5%8B%95%E7%94%BB%E3%80%915%E5%88%86%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%81%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://ja.wikipedia.org/wiki/松浦機械製作所"
+   ]
+  },
+  {
+   "query": "site:note.com 松浦機械製作所",
+   "results": [
+    "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "https://note.com/yuto_matsuura",
+    "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "https://note.com/yuto_matsuura/n/n538cb0f29319",
+    "https://note.com/yuto_matsuura/n/n679970098394",
+    "https://note.com/yuto_matsuura/n/n48e2d9336ea6",
+    "https://note.com/sankituushin/n/na113880efbb2",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://note.com/yuto_matsuura/all"
+   ]
+  },
+  {
+   "query": "site:x.com 松浦機械製作所",
+   "results": [
+    "https://x.com/yuto_matsuura",
+    "https://x.com/Yuta_mmc",
+    "https://x.com/MMC1169",
+    "https://x.com/yuto_matsuura/status/2067366686412488940",
+    "https://x.com/yuto_matsuura/status/1959029259273740670",
+    "https://x.com/fkiutd_official/status/2052644745600782683",
+    "https://x.com/yuto_matsuura/status/1640473782006738946",
+    "https://x.com/yuto_matsuura/status/2056495043557621834",
+    "https://x.com/yuto_matsuura/status/2080057801771196673",
+    "https://x.com/yuto_matsuura/status/1875507278662791467"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 松浦機械製作所",
+   "results": [
+    "https://www.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF-activity-7475465262671101952-V-_p",
+    "https://jp.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF-activity-7219968954457280512-Nz5Q",
+    "https://www.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF-activity-7257583638257520640-86S1",
+    "https://www.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-%E7%AB%8B%E5%BD%A2-activity-6744929394286043136-84Wu",
+    "https://jp.linkedin.com/in/yuto-matsuura-3187501b7/ja",
+    "https://jp.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-25%E5%8D%92-26%E5%8D%92-activity-7141322994877997056-arna",
+    "https://jp.linkedin.com/posts/matsuura-machinery-corporation_%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-5%E8%BB%B8-activity-6739818937011228673-4cRl",
+    "https://www.linkedin.com/posts/matsuura-machinery-corporation_maxia-cnc-instamachinist-activity-7211627574232244225-QD-n",
+    "https://jp.linkedin.com/in/yukinori-urushisaki-937947a1",
+    "https://www.linkedin.com/company/（株）松浦機械製作所"
+   ]
+  },
+  {
+   "query": "site:facebook.com 松浦機械製作所",
+   "results": [
+    "https://www.facebook.com/matsuuramc/",
+    "https://www.facebook.com/matsuuramc/photos/",
+    "https://www.facebook.com/pages/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80/137445193015748?locale=es_LA",
+    "https://www.facebook.com/matsuuramc/videos/we-would-like-to-introduce-the-manufacturing-engineering-office-at-our-takefu-pl/835397432682248/",
+    "https://www.facebook.com/MATSUURA.de/posts/unser-vertriebsteam-ist-aktuell-mit-kunden-in-japan-auf-der-von-matsuura-machine/1888120852175820/",
+    "https://www.facebook.com/matsuuramc/posts/%E6%9C%AC%E7%A4%BE%E6%A7%8B%E5%86%85%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%BB%A2%E8%90%BD%E4%BA%8B%E6%95%85%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A62023%E5%B9%B42%E6%9C%8818%E6%97%A5%E5%9C%9F%E5%8D%88%E5%89%8D%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E7%94%A8%E5%A4%A7%E5%9E%8B%E3%82%B3%E3%83%94%E3%83%BC%E6%A9%9F%E5%85%A5%E6%9B%BF%E3%81%AE%E6%90%AC%E5%85%A5%E6%90%AC%E5%87%BA%E4%BD%9C%E6%A5%AD%E3%82%92%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E9%9A%9B%E3%81%AB%E8%B2%A9%E5%A3%B2%E5%95%86%E7%A4%BE%E3%81%8B%E3%82%89%E5%A7%94%E8%A8%97%E3%81%95%E3%82%8C%E3%81%9F%E9%81%8B%E9%80%81%E6%A5%AD%E8%80%85%E3%81%AE%E4%BD%9C%E6%A5%AD%E8%80%85%E3%81%8C%E6%90%AC%E5%87%BA%E4%B8%AD/678025224214648/",
+    "https://www.facebook.com/matsuuramc/videos/%E7%B4%84130%E5%8F%B0%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%82%92%E4%BF%9D%E6%9C%89%E3%81%97%E5%A4%9A%E5%93%81%E7%A8%AE%E5%B0%91%E9%87%8F%E7%94%9F%E7%94%A3%E3%82%92%E5%BE%97%E6%84%8F%E3%81%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%B8%AD%E5%B3%B6%E3%82%BF%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E6%A7%98%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%90%8C%E7%A4%BE%E3%81%AB%E5%B0%8E%E5%85%A5%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%A6%E3%81%84%E3%82%8Bmx-520%E3%81%AE%E6%93%8D%E4%BD%9C%E6%80%A7%E4%BD%9C%E6%A5%AD%E6%80%A7%E3%82%84gibbscam%E3%81%A8/1465236925531028/",
+    "https://www.facebook.com/matsuuramc/videos/matsuuras-pallet-changers-have-two-advantages-that-other-companies-do-not-haveth/1841158849697811/",
+    "https://www.facebook.com/matsuuramc/videos/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80%E7%A4%BE%E9%95%B7%E3%81%AE%E6%9D%BE%E6%B5%A6%E5%8B%9D%E4%BF%8A%E3%81%8C%E5%BC%8A%E7%A4%BE%E3%81%AE%E3%81%8A%E3%82%82%E3%81%A6%E3%81%AA%E3%81%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E5%B7%A5%E5%A0%B4%E3%81%A7%E3%81%AE%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E5%B7%A5%E7%A8%8B%E3%82%84%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%80%A7%E8%83%BD%E5%93%81%E8%B3%AA%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E4%BD%9C%E6%A5%AD%E8%80%85%E3%82%84%E7%A4%BE%E5%93%A1%E3%81%AE%E5%AE%9F%E7%9B%B4%E3%81%AA%E5%A7%BF%E5%8B%A2%E3%82%84%E6%85%8B%E5%BA%A6%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E4%BC%9A%E7%A4%BE/816420802241623/",
+    "https://www.facebook.com/matsuuramc/videos/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AF%E6%9C%AA%E6%9D%A5%E6%88%A6%E7%95%A5%E5%AE%A4%E3%81%A7%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86%E3%82%92%E6%8B%85%E5%BD%93%E3%81%99%E3%82%8B%E5%85%A5%E7%A4%BE2%E5%B9%B4%E7%9B%AE%E3%81%AE%E5%A0%80%E5%86%85%E3%81%95%E3%82%93%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E7%B7%A8%E3%81%AFyoutube%E3%81%A7%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84ht/1089089689297093/"
+   ]
+  },
+  {
+   "query": "松浦機械製作所 note 社長",
+   "results": [
+    "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "https://note.com/yuto_matsuura",
+    "https://note.com/yuto_matsuura/n/n538cb0f29319",
+    "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "https://www.nikkei.com/article/DGXZQOCC264E90W6A120C2000000/",
+    "https://www.youtube.com/watch?v=tiUgm0Pkqg0",
+    "https://x.com/yuto_matsuura",
+    "https://note.com/yuto_matsuura/n/n6b89ccba4f9b",
+    "https://note.com/yuto_matsuura/all",
+    "https://monoque.jp/columns/post-417/"
+   ]
+  },
+  {
+   "query": "松浦機械製作所 X 投稿",
+   "results": [
+    "https://x.com/yuto_matsuura",
+    "https://www.youtube.com/watch?v=Y69W-1-BBlI",
+    "https://www.matsuura.co.jp/japan",
+    "https://monoque.jp/columns/dx-4/",
+    "https://x.com/yuto_matsuura/status/1627105596481875968",
+    "https://info.pref.fukui.lg.jp/tisan/sangakukan/jitsuwafukui/machine/120.html",
+    "https://www.youtube.com/watch?v=slyEqjg8YhY",
+    "https://syukatsu-kaigi.jp/companies/51394/intern",
+    "https://x.com/Yuta_mmc",
+    "https://www.instagram.com/matsuura_mc/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

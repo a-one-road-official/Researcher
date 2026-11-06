@@ -1,0 +1,1190 @@
+{
+ "name": "技術研究組合次世代3D積層造形技術総合開発機構",
+ "aliases": [
+  "TRAFAM",
+  "トラファム"
+ ],
+ "context": "日本・AMの国プロの組合",
+ "researched_at": "2026-11-06T16:39:54.064150+00:00",
+ "official_url": "http://www.trafam.com.mx/",
+ "identified_by": "search:yahoo_jp:TRAFAM",
+ "profile": {},
+ "evidence": {
+  "読者・会員は誰か": [
+   {
+    "quote": "このプロジェクトを通じて、金属積層造形部品等の品質向上及び開発の効率化を図り、今後中小企業においても金属3Dプリンタの導入を促進していきます",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "① 「異業種連携研究型」 同種の製品･サービスを提供していない事業者同士が、それぞれの強みを活かしつつ、共同で研究開発を行っているもの(中小･ベンチャー企業が参加している場合もある) 22",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(株)、(株)横浜環境デザイン【22社(うち中小5社、1国研、3団体、1自治体)】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【9社(うち中小3社)】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【22社(うち中小3社)】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■理事長：山口耕司((有)オービタルエンジニアリング取締役社長)",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■組合員：(有)オービタルエンジニアリング、山本産業(株)",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【中小2社】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【15社(うち中小13社)、3団体、1個人】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "刷(株)、トヨタ自動車（株）、日産化学（株）、日産自動車（株）、(株)日本触媒、パナソニック(株)、ビークルエナ",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■理事長：濱村 芳彦（トヨタ自動車（株） FC事業領域 統括部長）",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■組合員：トヨタ自動車(株)、日産自動車(株)、パナソニック(株)、東芝燃料電池システム(株)、(株)本田技術研究",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所、日野自動車(株)、スズキ（株)、（株）SCREENファインテックソリューションズ、（株）富士テクニカルリサーチ、",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2社(うち中小1社)、2自治体】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【13社（うち中小5社）】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【4社(うち中小2社)】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【32社(うち中小3社)、1大学、1国研、1団体】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【7社(うち中小0社)、1国研、1大学、1団体】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■理事長：重本和宏(地独)東京都健康長寿医療センター副センター長)",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■組合員：(公財)東京都医学総合研究所、(地独)東京都健康長寿医療センター、(国大)東京農工大学、(公大)",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【8社(うち中小5社)、3大学、1独法、1財法、2個人】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【15社(うち中小4社)、1独法、4個人】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(株)デンソー、トヨタ自動車(株)、三菱電機(株)、(株)明電舎",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "次世代自動車や家電、産業機械の省エネ化を目的に、希少な資源「レアアース」を使用せずに従来以上の優れた磁気",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "念横浜生命科学振興財団、国立研究開発法人産業技術総合研究所、国立研究開発法人国立成育医療研究セ",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【35社(うち中小19社)、4団体、2国法、4大学】",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIで激化するサイバー攻撃、矛先は製造業へ 防御対象選定とBCPが急務",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   },
+   {
+    "quote": "芋づる式に建設資格の不正取得発覚、技術者の要件満たさず営業停止",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   },
+   {
+    "quote": "――製造業は後継者不足にともない、技術伝承に課題を抱えています",
+    "url": "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、従来工法の技術力を武器とする既存の製造企業、とりわけ中小企業にとって新たな技術は脅威とも捉えられますが、その点についてはどう考えていますか",
+    "url": "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ、中小製造業の保護・育成も、組合が設立された目的の1つなのです",
+    "url": "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "pass": 3
+   },
+   {
+    "quote": "中小製造企業も3Dプリンタを導入し、従来工法に加え、新しいものづくりにどんどん挑戦してもらえるよう、環境を整えていきたいと思っています",
+    "url": "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "pass": 3
+   },
+   {
+    "quote": "それを、宇宙航空研究開発機構（JAXA）やトヨタ自動車、小松製作所などのユーザー企業に使用してもらい、評価を参考に装置を改良していきました",
+    "url": "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "pass": 3
+   }
+  ],
+  "AMの扱い": [
+   {
+    "quote": "近畿大学次世代基盤技術研究所 特任教授の京極 秀樹が 技術研究組合次世代3D積層造形技術総合開発機構 理事長に就任 | NEWSCAST",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学次世代基盤技術研究所 特任教授の京極 秀樹が 技術研究組合次世代3D積層造形技術総合開発機構 理事長に就任",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学次世代基盤技術研究所（広島県東広島市）特任教授の京極 秀樹が、令和3年（2021年）5月26日付で、技術研究組合次世代3D積層造形技術総合開発機構（以下、TRAFAM）理事長に就任しました",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "TRAFAMは、付加価値の高い製品・部品の少量多品種製造に適した、世界最高水準の次世代型産業用3Dプリンタおよび超精密三次元造形システムを構築し、日本の新たなものづくり産業の創出をめざしています",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "研究テーマ：金属積層造形技術開発に関する研究",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "そのため\"ものづくり\"を革新する新しい重要なツールの一つである3Dプリンタの製造ノウハウを我が国に蓄積しておくことが重要であると念頭に置いてプロジェクトを推進してきました",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "TRAFAMは、「次世代型産業用3Dプリンタ技術開発」と「超精密三次元造形システム技術開発」を行うことをめざし、近畿大学、東北大学、産業技術総合研究所、企業27社が参画して、平成26年（2014年）4月1日に設立されました",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "設立後、経済産業省から「平成26年度 三次元造形技術を核としたものづくり革命プログラム（次世代型産業用3Dプリンタ技術開発及び超精密三次元造形システム技術開発）」の委託先として選定され、5機種の装置開発に成功、販売しました",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "また、装置開発と併せて重要である、3Dプリンタ専用の金属粉末の開発ならびにソフトウェア開発を推進し、実際に製品に適用しました",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、平成31年度（2019年度）からは、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）のプロジェクトとして、「積層造形部品開発の効率化のための基盤技術開発事業」を5カ年計画で実施しています",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "このプロジェクトを通じて、金属積層造形部品等の品質向上及び開発の効率化を図り、今後中小企業においても金属3Dプリンタの導入を促進していきます",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：次世代型産業用3Dプリンタの技術開発、",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "次世代型産業用3Dプリンタ",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代３Ｄ積層造形技術総合開発機構と国家公務員共済組合連合会の比較 「社員クチコミ」 OpenWork",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代３Ｄ積層造形技術総合開発機構と国家公務員共済組合連合会のスコア比較 「社員クチコミ」",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代３Ｄ積層造形技術総合開発機構と国家公務員共済組合連合会のスコア比較",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代３Ｄ積層造形技術総合開発機構",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代３Ｄ積層造形技術総合開発機構 (0件)",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/",
+    "pass": 3
+   },
+   {
+    "quote": "就職・転職の参考情報として、採用企業「技術研究組合次世代３Ｄ積層造形技術総合開発機構」の「社員による会社評価」を8つの評価スコアでレーダーチャート表示しています",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/",
+    "pass": 3
+   },
+   {
+    "quote": "注意点：掲載情報は、ユーザーの方の主観的な評価であり、当社が技術研究組合次世代３Ｄ積層造形技術総合開発機構の価値を客観的に評価しているものではありません",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代3D積層造形技術総合開発",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(株)IHI、(株)木村鋳造所、金属技研(株)、(株)金属積層造形サポートシステム、群栄化学工業(株)、(株)コイワ",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(株)、多田電機(株)、(株)東芝、芝浦機械(株)、東洋アルミニウム(株)、(株)ニコン、日本積層造形(株)、日本電産",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "少量多品種で高付加価値の製品･部品を製造するため、金属粉末材料を積層造形する産業用3Dプリンタ装置及び",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "系材料を中心とした３D積層造形技術に関する研究開発を行うだけでなく， 経済産業省 「地",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "フォーム構築支援事業地域） 」を通じて導入した金属3Dプリンタを利用して，本分野の人",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ム技術開発プログラム） 」 の実施母体である技術研究組合次世代3D積層造形技術総合開発",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年度には，NEDO（2019 年度～2023 年度） 「積層造形部品開発の効率化のための",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) NEDO（2019 年度～2023 年度） 「積層造形部品開発の効率化のための基盤技術開",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「次世代３D積層造形技術",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "NEDO（2019 年度～2023 年度） 「積層造形部品開発の効率化のための基盤技術開発",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業」 ， 技術研究組合次世代3D積層造形技術総合開発機構 （TRAFAM)の委託研究 （分",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Spattering mechanism of laser powder bed fusion additive manufacturing on",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5) 京極秀樹，積層造形技術の活用 金属積層造形技術概説，KANRIN日本船舶海洋工学会",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6) 京極秀樹，金属3Dプリンタの技術動向と展望，第31回日国際工作機械見本市ガイドブ",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7) 京極秀樹，金属積層造形による金型材料の造形技術の動向，型技術，38(3) (2022)",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8) 京極秀樹，金属AMの基礎と技術開発動向，溶接技術，71(3) (2022) pp.60-65.",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "laser powder bed fusion additive manufacturing” European Congress on Laser,",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "H13の高出力レーザ積層造形による高速造形と造形体特性”，粉体粉末冶金協会",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ザ積層造形プロセスにおける諸現象のその場観察” ，機械学会年次大会2022，",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1) 京極秀樹，招待講演 “金属AM技術動向と国産MEX方式金属AM普及プロジェクト紹",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3) 京極秀樹，特別講演 “次世代産業用3Dプリンタ開発と今後の展開～レーザービーム方",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4) 京極秀樹，特別講演 “金属積層造形技術の最新動向と今後の展開”",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5) 京極秀樹，“金属積層造形技術セミナー実用編”技術研究組合次世代3D積層造形技術総",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6) 京極秀樹，“金属積層造形の最新動向”第33回射出成形技術・評価研究会，(2022.12.16)，",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7) 京極秀樹，“金属積層造形技術の最新動向と今後の展開” 令和4年度第3回滋賀3Dイノベ",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本機械学会2022年度年次大会先端技術フォーラム金属AMにおけるDesign for",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing (DfAM)を理解するために［機械材料・材料加工部門，計算力",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "13) 池庄司敏孝，“金属積層造形技術セミナー実用編 第4章 積層造形のためのシミュレーシ",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代３Ｄ積層造形技術総合開発機構と一般財団法人公衆保健協会の比較 「社員クチコミ」 OpenWork",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代３Ｄ積層造形技術総合開発機構と一般財団法人公衆保健協会のスコア比較 「社員クチコミ」",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代３Ｄ積層造形技術総合開発機構と一般財団法人公衆保健協会のスコア比較",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代３Ｄ積層造形技術総合開発機構",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代３Ｄ積層造形技術総合開発機構 (0件)",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/",
+    "pass": 3
+   },
+   {
+    "quote": "就職・転職の参考情報として、採用企業「技術研究組合次世代３Ｄ積層造形技術総合開発機構」の「社員による会社評価」を8つの評価スコアでレーダーチャート表示しています",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/",
+    "pass": 3
+   },
+   {
+    "quote": "注意点：掲載情報は、ユーザーの方の主観的な評価であり、当社が技術研究組合次世代３Ｄ積層造形技術総合開発機構の価値を客観的に評価しているものではありません",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/",
+    "pass": 3
+   },
+   {
+    "quote": "競争力強化に必須、日本に3Dプリンターを（4ページ目） | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   },
+   {
+    "quote": "競争力強化に必須、日本に3Dプリンターを",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   },
+   {
+    "quote": "#3Dプリンター",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタの活用が急速に広まっていた2014年、技術開発のための国家プロジェクトが動き始めた",
+    "url": "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "グローバル市場において日本のものづくり産業が持続的かつ発展的な競争力を維持するため、平成26年（2014年）に設立されました",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "TRAFAMは、「次世代型産業用3Dプリンタ技術開発」と「超精密三次元造形システム技術開発」を行うことをめざし、近畿大学、東北大学、産業技術総合研究所、企業27社が参画して、平成26年（2014年）4月1日に設立されました",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "設立後、経済産業省から「平成26年度 三次元造形技術を核としたものづくり革命プログラム（次世代型産業用3Dプリンタ技術開発及び超精密三次元造形システム技術開発）」の委託先として選定され、5機種の装置開発に成功、販売しました",
+    "url": "https://newscast.jp/news/3489783",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H2.12.20",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H12.2.28",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H12.5.26",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H21.8.24",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H22.3.3",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H22.3.8",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H22.3.10",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H22.4.2",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H23.1.7",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H23.2.16",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H23.2.17",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H23.3.23",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H23.4.21",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H23.7.13",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H23.8.31",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H24.3.6",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H24.3.8",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H24.9.25",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H24.10.3",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H24.12.17",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H25.8.1",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H25.9.26",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H25.10.17",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H25.10.25",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設立：H26.1.20",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ、中小製造業の保護・育成も、組合が設立された目的の1つなのです",
+    "url": "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "財)電力中央研究所、東芝エネルギーシステムズ(株)、(株)戸上電機製作所、日本板硝子(株)、(一社)日本PVプラ",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "置太陽光発電システム技術開発・壁面設置基盤技術開発、③高安全PVモジュール、高安全PVシステムの技術基準",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PVへのAI・機械学習応用研究会／PVと金融研究会／タンデムPV研究会／再エネ電力のデジタル取引研究会の５",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PVモジュール・システムの、",
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「日経ものづくり」定期購読者もログインしてお読みいただけます",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "技術研究組合次世代3D積層造形技術総合開発機構 ｜法人番号 ... — 技術研究組合次世代3D積層造形技術総合開発機構 ｜法人番号 ... 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報",
+    "url": "https://lawplayer.com/jp/company/7010005022346",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代3D積層造形技術総合 — 技術研究組合次世代3D積層造形技術総合 TRAFAM https://www.trafam.or.jp",
+    "url": "https://www.trafam.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代3D積層造形技術総合開発機構 と国家 ... — 技術研究組合次世代3D積層造形技術総合開発機構 と国家 ... OpenWork https://www.openwork.jp > compa",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究組合次世代3D積層造形技術総合開発機構 と一般財団 ... — 技術研究組合次世代3D積層造形技術総合開発機構 と一般財団 ... OpenWork https://www.openwork.jp > compa",
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/",
+    "pass": 3
+   },
+   {
+    "quote": "TRAFAM、 次世代 金属 3D プリンターで10月に前倒し ... — TRAFAM、 次世代 金属 3D プリンターで10月に前倒し ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/440468",
+    "pass": 3
+   }
+  ],
+  "運営母体": [
+   {
+    "quote": "日本機械学会機械材料・材料加工部門 運営委員",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本学術振興会・鋳物第 24委員会 運営委員",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）溶接学会 全国大会運営委員会 委員",
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "テスラ「サイバーキャブ」の衝撃 車の稼働率10倍へ、収益構造が激変／「ガリバー」運営IDOMがAXに大型投資 注目記事を音声化",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   }
+  ],
+  "稼ぎ方": [
+   {
+    "quote": "「日経ものづくり」定期購読者もログインしてお読みいただけます",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   },
+   {
+    "quote": "リードタイムが短縮され、接合しない分、強度も高まっています",
+    "url": "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "活況のAIロボ部品、売上高5年で7倍へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   },
+   {
+    "quote": "国は、約100億円の資金をこのプロジェクトに投入しています",
+    "url": "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "兵庫県立工業技術センター - 日本鋳造工学会 豊田賞 受賞のお知らせ..... 工業技術センターも参画するTRAFAM（技術研究組合次世代3D積層造形技術総合開発機構）が「高速砂型積層造形装置の開発」で、日本鋳造工学会 豊田賞を受賞しました。 この砂型3Dプリンタは、国家プロジェクト「超精密三次元造形システム.",
+    "url": "https://www.facebook.com/hyogo.kg/posts/-日本鋳造工学会-豊田賞-受賞のお知らせ工業技術センターも参画するtrafam技術研究組合次世代3d積層造形技術総合開発機構が高速砂型積層造形装置の開発で日本鋳/2210183645684299/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.trafam.com.mx/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.trafam.com.mx/bannersRotan/img/funeraria-atencion-inmediata.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://lawplayer.com/jp/company/7010005022346",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trafam.or.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3489783",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trafam.or.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jica.go.jp/Resource/jica-ri/ja/publication/booksandreports/l75nbg0000037wt6-att/open_innovation_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kogakuin.ac.jp/research/r_insutitute/fbb28u0000002z1x-att/research_activity_report_2015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/series/4103/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-it.ac.jp/about_kit/annual_report_2019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trafam.or.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/800026065.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trafam.or.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/tech_evaluation/c00/C0000000H27/160329_3Dprinter1/3Dprinter1_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/440468",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kabutan.jp/news/marketnews/?b=n201809200565",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.f2ff.jp/3dex/2015/sponsor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.trafam.or.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://imap.isij.or.jp/event/event2023/data/shiraishi74.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/tech_evaluation/c00/C0000000H27/160329_3Dprinter1/3Dprinter1_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.facebook.com/hyogo.kg/posts/-日本鋳造工学会-豊田賞-受賞のお知らせ工業技術センターも参画するtrafam技術研究組合次世代3d積層造形技術総合開発機構が高速砂型積層造形装置の開発で日本鋳/2210183645684299/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://www.nedo.go.jp/content/100982091.pdf",
+    "https://unit.aist.go.jp/cmt-ri/research-topics/am.htm",
+    "https://times.sanpou-s.net/detail/pid-29201/",
+    "https://www.jstage.jst.go.jp/article/vss/68/9/68_20181551/_pdf",
+    "https://www.openwork.jp/a0CIh000003ECEP/compa/a09100000086PxW/",
+    "http://www.monozukuri.org/mono/db-dmrc/3dprinter/link.html",
+    "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "http://blog.tanaka-ryosei.com/archives/52150540.html",
+    "https://kaijiwire.jp/kaisan/01a06409-bba2-78a2-9ad7-8e1a537c2251"
+   ]
+  },
+  {
+   "query": "株式会社技術研究組合次世代3D積層造形技術総合開発機構",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://www.nedo.go.jp/content/100982091.pdf",
+    "https://www.jstage.jst.go.jp/article/jsmemecj/2020/0/2020_F04104/_pdf/-char/en",
+    "https://www.openwork.jp/a0CIh000003ECEP/compa/a09100000086PxW/",
+    "https://www.jeol.co.jp/recruit/professional-interview/08/",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/065.pdf",
+    "https://www.mhi.com/jp/news/190516.html",
+    "http://www.monozukuri.org/mono/db-dmrc/3dprinter/link.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3dprintermaker-japan-201023/",
+    "https://kumiaikon.sakura.ne.jp/docs/meti/2018/34.pdf"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 株式会社",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://www.nedo.go.jp/content/100982091.pdf",
+    "https://www.jeol.co.jp/recruit/professional-interview/08/",
+    "https://www.mhi.com/jp/news/190516.html",
+    "https://www.jstage.jst.go.jp/article/jsmemecj/2020/0/2020_F04104/_pdf/-char/en",
+    "https://www.openwork.jp/a0CIh000003ECEP/compa/a09100000086PxW/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3dprintermaker-japan-201023/",
+    "https://www.nikkan.co.jp/articles/view/440468",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data06/179.pdf",
+    "https://www.houjin.info/detail/7010005022346/"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代３Ｄ積層造形技術総合開発機構",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://www.nedo.go.jp/content/100982091.pdf",
+    "https://unit.aist.go.jp/cmt-ri/research-topics/am.htm",
+    "https://www.jstage.jst.go.jp/article/vss/68/9/68_20181551/_pdf",
+    "https://times.sanpou-s.net/detail/pid-29201/",
+    "http://www.monozukuri.org/mono/db-dmrc/3dprinter/link.html",
+    "https://www.openwork.jp/a0CIh000003ECEP/compa/a09100000086PxW/",
+    "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "https://jampt.jp/prep/kpro/",
+    "https://www.trafam.or.jp/link/"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 Japan",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://www.nedo.go.jp/content/100982091.pdf",
+    "https://www.jstage.jst.go.jp/article/jsmemecj/2020/0/2020_F04104/_pdf/-char/en",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.jeol.co.jp/recruit/professional-interview/08/",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/065.pdf",
+    "https://times.sanpou-s.net/detail/pid-29201/",
+    "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "https://unit.aist.go.jp/cmt-ri/research-topics/am.htm",
+    "https://kaijiwire.jp/kaisan/01a06409-bba2-78a2-9ad7-8e1a537c2251"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 日本",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://www.nedo.go.jp/content/100982091.pdf",
+    "https://www.jstage.jst.go.jp/article/jsmemecj/2020/0/2020_F04104/_pdf/-char/en",
+    "https://www.jeol.co.jp/recruit/professional-interview/08/",
+    "https://www.openwork.jp/a0CIh000003ECEP/compa/a09100000086PxW/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://times.sanpou-s.net/detail/pid-29201/",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/065.pdf",
+    "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "https://kaijiwire.jp/kaisan/01a06409-bba2-78a2-9ad7-8e1a537c2251"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 K.K.",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://www.mhi.com/jp/technology/review/abstract-55-3-90",
+    "https://www.nedo.go.jp/content/100982091.pdf",
+    "https://lawplayer.com/jp/company/7010005022346",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://jampt.jp/metal3dprinter/strengths/",
+    "https://www.jeol.co.jp/recruit/professional-interview/08/",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "https://www.tc-koiwai.co.jp/project/",
+    "https://kaijiwire.jp/kaisan/01a06409-bba2-78a2-9ad7-8e1a537c2251"
+   ]
+  },
+  {
+   "query": "TRAFAM",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://utw10945.utweb.utexas.edu/sites/default/files/2019/138%20The%20Development%20Status%20of%20the%20National%20Project%20by.pdf",
+    "https://www.acronymfinder.com/Technology-Research-Association-for-Future-Additive-Manufacturing-(Japan)-(TRAFAM).html",
+    "http://www.trafam.com.mx/",
+    "https://monoist.itmedia.co.jp/mn/articles/1811/13/news027.html",
+    "https://www.jstage.jst.go.jp/article/jsmemecj/2020/0/2020_F04104/_pdf/-char/en",
+    "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3dprintermaker-japan-201023/",
+    "https://ja.wikipedia.org/wiki/Transmission_Control_Protocol",
+    "https://en.wikipedia.org/wiki/Tram"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 会社概要 運営 設立",
+   "results": [
+    "https://lawplayer.com/jp/company/7010005022346",
+    "https://www.trafam.or.jp/",
+    "https://newscast.jp/news/3489783",
+    "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000qdP0w/",
+    "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "https://company-life.jp/company/7010005022346",
+    "http://blog.tanaka-ryosei.com/archives/52150540.html",
+    "https://www.nedo.go.jp/content/100922599.pdf",
+    "https://www.nikkan.co.jp/articles/view/440468",
+    "https://www.houjin.info/detail/7010005022346/"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 広告 料金 OR media kit OR rate card",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://www.jica.go.jp/jica-ri/ja/publication/booksandreports/l75nbg0000037wt6-att/open_innovation_report.pdf",
+    "https://www.kogakuin.ac.jp/research/r_insutitute/fbb28u0000002z1x-att/research_activity_report_2015.pdf",
+    "https://monoist.itmedia.co.jp/mn/series/4103/",
+    "https://www.kanazawa-it.ac.jp/about_kit/annual_report_2019.pdf",
+    "https://en.wikipedia.org/wiki/Rate_card",
+    "http://www.mplayerhq.hu/DOCS/man/en/mplayer.1.html",
+    "https://www.google.com/",
+    "https://docs.google.com/",
+    "https://open.spotify.com/"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 会員数 OR 読者数 OR subscribers OR readers",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.trafam.or.jp/",
+    "https://www.nedo.go.jp/content/800026065.pdf",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf",
+    "https://www.openwork.jp/a0CIh000003ECEP/compa/a0C1000000UBstT/",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/a11e63548e4009ea7a0b92cd65745bf0848c6223.pdf",
+    "https://times.sanpou-s.net/detail/pid-29201/",
+    "https://ji-am.jp/group/about/",
+    "https://www.mhi.com/jp/news/190416.html",
+    "https://www.jimmycrystal.co/collections/readers"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 売上 OR revenue OR acquired",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://www.meti.go.jp/policy/tech_evaluation/c00/C0000000H27/160329_3Dprinter1/3Dprinter1_06.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=4",
+    "https://www.nikkan.co.jp/articles/view/440468",
+    "https://kabutan.jp/news/marketnews/?b=n201809200565",
+    "https://monoist.itmedia.co.jp/mn/articles/1807/05/news056.html",
+    "https://idarts.co.jp/3dp/sojitz-koiwai-jampt-metal-3d-printing-company/?srsltid=AYCX9vIQG2BqX0HBT7eNmGkNO6od90XjjQ4Bab8RP92O2CDNbAg7JtZ0",
+    "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://lawrencecountyal.org/revenue-commissioner/"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 スポンサー OR sponsorship OR 協賛",
+   "results": [
+    "https://www.f2ff.jp/3dex/2015/sponsor/",
+    "https://www.trafam.or.jp/",
+    "https://imap.isij.or.jp/event/event2023/data/shiraishi74.pdf",
+    "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "https://www.meti.go.jp/policy/tech_evaluation/c00/C0000000H27/160329_3Dprinter1/3Dprinter1_06.pdf",
+    "http://www.monozukuri.org/mono/db-dmrc/3dprinter/link.html",
+    "https://www.nedo.go.jp/content/100982091.pdf",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/6416991435d5476ca4314412d8831d1f32b1e10c.pdf",
+    "https://www.tc-koiwai.co.jp/project/",
+    "https://www.casapartners.org/sponsorship-opportunities"
+   ]
+  },
+  {
+   "query": "site:note.com 技術研究組合次世代3D積層造形技術総合開発機構",
+   "results": [
+    "https://note.com/sakak01/n/n69e22a9bf352",
+    "https://note.com/platypus2000jp/n/nac1e766ba1e0",
+    "https://note.com/platypus2000jp/n/n4d2adfe23136",
+    "https://note.com/ocaml/n/n43eae8cc0bec",
+    "https://note.com/cozyiwasaki/n/nb8936921beda",
+    "https://note.com/handoutainews/n/n8792c447f647",
+    "https://note.com/y44901726/n/n3b556ac26405",
+    "https://note.com/jfe_tec/n/n390e31c22c0b",
+    "https://note.com/semicontimes/n/n8241847ca465",
+    "https://note.com/atom_/n/n32cdce712af9"
+   ]
+  },
+  {
+   "query": "site:x.com 技術研究組合次世代3D積層造形技術総合開発機構",
+   "results": [
+    "https://x.com/miya_space/status/2067845900475810150",
+    "https://x.com/JST_mirai/status/2031945171383042068",
+    "https://x.com/semi_journal_jp/status/2056845915315753441",
+    "https://x.com/InoueFumihiro/status/2043653807973003486",
+    "https://x.com/industryJapan/status/2063035773985955913",
+    "https://x.com/AIST_JP/status/2031567068831650079",
+    "https://x.com/industryJapan/status/2062152131273236946"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 技術研究組合次世代3D積層造形技術総合開発機構",
+   "results": [
+    "https://jp.linkedin.com/in/toshiyuki-urano-1a695759",
+    "https://jp.linkedin.com/posts/taiyo-nippon-sanso_焼結型積層造形とデジタルプロセス設計を組み合わせた-金属３ｄプリンタシステムの研究開発-activity-7364570003980918785-62Nr",
+    "https://www.linkedin.com/posts/kimihiro-sugino-58a38114_技術研究組合collaborative-innovation-partnership-activity-7143922127857999873-qKzx",
+    "https://www.linkedin.com/posts/nishimurawataru_次世代3dプリンタ展-積層造形-3dプリンティング-activity-7077931308366114816-UKGl",
+    "https://jp.linkedin.com/posts/masato-matsubara-a61026221_次世代3次元積層技術研究会-第5回勉強会-activity-7165966012260016128-unDC",
+    "https://jp.linkedin.com/pulse/半導体における積層造形の有力企業トップ10-prepped-to-go-dpgme",
+    "https://jp.linkedin.com/posts/masato-matsubara-a61026221_このたびは第36回型技術論文賞という栄誉ある賞を賜り誠にありがとうございます-activity-7476106194844098560-93-b"
+   ]
+  },
+  {
+   "query": "site:facebook.com 技術研究組合次世代3D積層造形技術総合開発機構",
+   "results": [
+    "https://www.facebook.com/hyogo.kg/posts/-日本鋳造工学会-豊田賞-受賞のお知らせ工業技術センターも参画するtrafam技術研究組合次世代3d積層造形技術総合開発機構が高速砂型積層造形装置の開発で日本鋳/2210183645684299/",
+    "https://www.facebook.com/kagawa.sangi/posts/-かがわ次世代３ｄ積層造形技術フォーラムを開催しましたかがわ次世代３ｄ積層造形技術フォーラム-日-時平成３０年１２月６日木13001630-場-所香川県産業技術/1815278955266508/",
+    "https://www.facebook.com/kagawa.sangi/posts/-かがわ次世代３d積層造形技術フォーラムを開催します-3d積層造形技術アディティブ-マニュファクチャリングamは従来作製が困難であった高付加価値な立体複雑形状を/1784387501688987/",
+    "https://www.facebook.com/kagawa.sangi/photos/-かがわ次世代３ｄ積層造形技術フォーラムを開催しましたかがわ次世代３ｄ積層造形技術フォーラム-日-時平成３０年１２月６日木13001630-場-所香川県産業技術/1815278898599847/",
+    "https://www.facebook.com/100063700727939/posts/3477988525662201/",
+    "https://www.facebook.com/kagawa.sangi/photos/-かがわ次世代３d積層造形技術フォーラムを開催します-3d積層造形技術アディティブ-マニュファクチャリングamは従来作製が困難であった高付加価値な立体複雑形状を/1784385441689193/",
+    "https://www.facebook.com/kagawa.sangi/photos/研究開発情報-３dプリンタによる高密度セラミックス造形体の開発に成功-当センターの次世代３d積層造形技術プロジェクトチームは光造形法による3次元積層の高密度セラ/911706032290476/"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 note 社長",
+   "results": [
+    "https://newscast.jp/news/3489783",
+    "https://www.trafam.or.jp/",
+    "https://note.com/eiji_fujisato/n/nef7beb0a7201",
+    "https://www.nikkan.co.jp/articles/view/392075",
+    "https://monoist.itmedia.co.jp/mn/articles/1811/13/news027.html",
+    "https://newswitch.jp/p/19162",
+    "https://imap.isij.or.jp/event/event2023/data/shiraishi74.pdf",
+    "https://www.nikkan.co.jp/articles/view/440468",
+    "https://www.projectdesign.jp/articles/83fec765-9ca4-4626-8317-8a69c4ef6f44",
+    "https://biz-maps.com/item/XyYKKp2pYg"
+   ]
+  },
+  {
+   "query": "技術研究組合次世代3D積層造形技術総合開発機構 X 投稿",
+   "results": [
+    "https://www.trafam.or.jp/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3dprintermaker-japan-201023/",
+    "https://www.nedo.go.jp/content/800026065.pdf",
+    "https://x.com/jampt_official",
+    "http://www.monozukuri.org/mono/db-dmrc/3dprinter/link.html",
+    "https://connect.panasonic.com/jp-ja/gemba/article/00192516",
+    "https://www.meti.go.jp/policy/tech_evaluation/c00/C0000000H27/160329_3Dprinter1/3Dprinter1_06.pdf",
+    "https://unit.aist.go.jp/cmt-ri/research-topics/am.htm",
+    "https://xtech.nikkei.com/dm/article/MAG/20150723/429054/",
+    "https://www.houjin.info/detail/7010005022346/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）",
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）",
+  "株主構成": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部26頁・検索19回）"
+ }
+}

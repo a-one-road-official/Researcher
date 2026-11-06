@@ -1,0 +1,3018 @@
+{
+ "name": "日本電子株式会社",
+ "aliases": [
+  "日本電子",
+  "JEOL"
+ ],
+ "context": "電子ビーム金属AM装置",
+ "researched_at": "2026-11-06T16:43:19.386547+00:00",
+ "official_url": "https://www.jeol.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 196-8558 東京都 昭島市 武蔵野三丁目1番2号",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1949年 （ 昭和 24年） 5月30日 （株式会社日本電子光学研究所）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "大井泉 （ 代表取締役 社長 兼 最高経営責任者 CEO ）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：1,793億3,530万円 （2026年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：3,604人、単独：2,313人 （2025年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "主要 株主",
+    "value": "日本マスタートラスト信託銀行 （信託口） 13.09% 日本カストディ銀行 （信託口） 6.27% ミサキエンゲージメントアスターファンド 4.06 % MLIクライントジェネラルノントリーティPB 3.50% 2026年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入の時期と形": [
+   {
+    "quote": "世界初、ISO24583（qNMR手法）を採用した認証標準物質（CRM）の生産を開始",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社日本電子光学研究所設立(東京都三鷹市)",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "初の海外現地法人JEOLCO (U.S.A) INC.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "フランスに現地法人JEOLCO (FRANCE) S.A.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "イギリスに現地法人JEOLCO (U.K.) LTD.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーストラリアに現地法人JEOLCO (AUSTRALASIA) PTY.LTD.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "オランダに現地法人JEOL (EUROPE) B.V.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "スウェーデンに現地法人JEOL (SKANDINAVISKA) A.B.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "イタリアに現地法人JEOL (ITALIA) S.p.A.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL DE MEXICO S.A. DE C.V.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL CANADA,INC.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL (MALAYSIA) SDN BHD設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツ現地法人JEOL (GERMANY) GmbH設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL DATUM TAIWAN LTD.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL Shanghai Semiconductors Ltd. 設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL BRASIL Instrumentos Cientificos Ltda.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL INDIA PVT.LTD.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋大学と共同出資で株式会社CeSPIAを設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国カリフォルニア州にあるベンチャー企業 IDES社を買収",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "の下、産業界からの期待を受けつつ設立した研究所は、当初から社会実装（実用化）を目的に据えていた",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "このため、発足から1年も経たない2021年4月に同研究所のメンバーが中心となって「全固体電池実用化研究会」を立ち上げたのは自然な流れだった",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "全固体電池研究所、設立",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "MicroEDのNational Centerを立ち上げたい！",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/16.html",
+    "pass": 1
+   },
+   {
+    "quote": "Center」を立ち上げて、より多くの方々のお役に立ちたいです！」",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/16.html",
+    "pass": 1
+   },
+   {
+    "quote": "その特許を利用したいとの声が複数の企業から寄せられたことをきっかけに一般社団法人 日本MA-T工業会が設立された (2020年11月)",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/15.html",
+    "pass": 1
+   },
+   {
+    "quote": "嘉数教授はさらに新会社「ダイヤモンドセミコンダクター」を立ち上げてその動きを加速させる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/14.html",
+    "pass": 1
+   },
+   {
+    "quote": "まだ稼働開始から間もないため、試作品の製作を中心に運用しています",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこで私は、差別化とは違う「参入障壁の高い、どこにもない自社開発で、独占的な装置を作る」ということを言い出したのですが、社内でも同じ考えを共有していて、実際にそういう装置が出てきました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/13.html",
+    "pass": 1
+   },
+   {
+    "quote": "それよりも、ニッチで他ではやれない、マーケットは小さいが100%独占的なマーケットを取る",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/13.html",
+    "pass": 1
+   },
+   {
+    "quote": "Synergy-ED」という製品を発売しました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/13.html",
+    "pass": 1
+   },
+   {
+    "quote": "帰国後は東京大学理学部で液胞の研究を行い、1988年に同教養学部でオートファジーに関する研究を開始し、1996年より基礎生物学研究所、2009年より東京工業大学で同研究を続け、オートファジーに関するメカニズム解明への寄与で、2016年にノーベル生理学・医学賞を単独受賞した",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/13.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在も同研究を継続するとともに、2017年に大隅基礎科学創成財団を設立し理事長として、基礎科学の発展に努めている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/13.html",
+    "pass": 1
+   },
+   {
+    "quote": "「日本電子とのパートナーを基に設立されたJCATは極めて重要なプラットフォームになるでしょう",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/08.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在教授は、フロー合成への理解を広げるために、産官学連携によるパイロットプラントの立ち上げを計画している",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/06.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子顕微鏡の電子放出源として以前から使われてきた技術で、電子顕微鏡で長く技術を蓄積してきた日本電子も1967年から参入",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/05.html",
+    "pass": 1
+   },
+   {
+    "quote": "開始から終了まで、ひとつの分析に要する時間は約10分であり、これは45分以上かかる他の手法に比べ迅速です",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/04.html",
+    "pass": 1
+   },
+   {
+    "quote": "年に実用化、販売を開始しました",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "プリンタ等技術開発）」の開始とともに技術研究組合次世代",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "月の発売発表直後から多数のお問い合わせをいただいています",
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子、高品質で再現性の高い電子ビーム金属3Dプリンター「JAM-5200EBM」販売開始 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子、高品質で再現性の高い電子ビーム金属3Dプリンター「JAM-5200EBM」販売開始",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "pass": 3
+   },
+   {
+    "quote": "開発企業の日本電子（JEOL）は、1949年に電子顕微鏡の開発会社として設立",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "pass": 3
+   },
+   {
+    "quote": "マルチビーム市場はほぼ独占状態で、微細化対応のみならず、高スループットも実現します",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "施設：独身寮、各種社宅、社員食堂、スポーツホール、保養所、提携リゾート施設 など",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "すぐに再生が開始しない場合は、デバイスを再起動してください",
+    "url": "https://www.youtube.com/watch?v=3tTh80fOumA",
+    "pass": 3
+   },
+   {
+    "quote": "の館屋を間借りして株式会社日本電子光学研究所を設立、新たに電子顕微鏡（透過型）の設計、製造事業を始めた",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "ネームバリューを日本国外へも生かすため、社名を変更しても設立当時からの称号である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "21年） 千葉県茂原市で電子顕微鏡の試作研究開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "に東京都三鷹市で「株式会社日本電子光学研究所」として事業を開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "「日本電子株式会社との資本業務提携に関する合意のお知らせ」2014年2月14日,ニコン",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "〈中巻〉愈々欧州勢の反撃開始 昭和41年(1966)! 、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "1949年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "実用化の先を見据える ― 全固体電池研究の最前線と課題",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和のTEMがスマート家電のようになった理由",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、ISO24583（qNMR手法）を採用した認証標準物質（CRM）の生産を開始",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、レーザー方式では造形後に熱処理を行って内部応力を和らげる必要がある場合がありますが、電子ビーム方式ではそのような後処理が不要です",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "X線CTのように造形後の検査工程を待つことがないため、品質管理の効率化に繋がります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン部品の製造におけるEB-PBF技術の応用可能性、直面する課題、そして将来の展望について詳しく探ります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "JAM-5200EBMはAMS7032認証を取得しており、航空宇宙用材料において信頼性の高い製造プロセスを確立します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる銅の造形：技術的課題と解決アプローチ",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロジェクト責任者の眞部弘宣氏をはじめとする開発メンバーへのインタビューを通じ、開発の背景、苦労、そして製品に込められた想いや未来への展望を掘り下げてご紹介します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "実用化の先を見据える ― 全固体電池研究の最前線と課題",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "全固体電池は電気自動車の次世代バッテリーとして期待されているが実用化にはまだ多くの課題がある",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪公立大学の全固体電池研究所では複数の研究グループが技術課題に取り組むとともに、「全固体電池実用化研究会」を通じ企業連携や人材交流にも取り組んでいる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "国際標準化機構の品質保証規格「BS EN ISO9001」を取得",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "IMSと共同で世界初の量産向けマルチ電子ビーム描画装置の市場投入を発表",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "だから、予測して活性の高い分子を作ることは今のところ難しい",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/22.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究を通じて、そんな人材を育成できればいいなと思っています」",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/22.html",
+    "pass": 1
+   },
+   {
+    "quote": "クライオEMの利用に多くの企業が関心を持ち始め、西野准教授がそれをサポートするようになると、ある課題が立ち上がってきました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/21.html",
+    "pass": 1
+   },
+   {
+    "quote": "生物試料であれば液体成分はほぼ水であり、その扱いのノウハウは知られています",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/21.html",
+    "pass": 1
+   },
+   {
+    "quote": "幸い、様々な企業との共同研究や大学のオープンファシリティ制度を利用した技術提供を通して、そうした試料の作り方や扱い方、観察方法といったノウハウが徐々に西野准教授のもとに集まるようになりました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/21.html",
+    "pass": 1
+   },
+   {
+    "quote": "蓄積されたノウハウはセミナーやワークショップの場で発信します",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/21.html",
+    "pass": 1
+   },
+   {
+    "quote": "置換基の位置、反応の順番、立体の向き、右巻き・左巻き、これらを制御するのは、後からくっつけるだけでは難しい",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "pass": 1
+   },
+   {
+    "quote": "「本気で獣医を目指している同級生がいて、彼の真剣に取り組む姿を見ていると、好きという理由だけで仕事にするのは、どうも違うんじゃないかと思ったんです」",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "pass": 1
+   },
+   {
+    "quote": "「たとえば、AIに聞いてみて、あの反応から『メビウス型の分子をつくろう』という発想が出てくるかというと、なかなか難しいんじゃないかと思います",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこには、まだ誰も実現していない挑戦的な課題が数多く残されており、その一つひとつが新たな研究テーマとなる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "pass": 1
+   },
+   {
+    "quote": "難しい理由の一つが、ベータ水素脱離という副反応である",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "pass": 1
+   },
+   {
+    "quote": "Interview18 実用化の先を見据える ― 全固体電池研究の最前線と課題 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "実用化の先を見据える ― 全固体電池研究の最前線と課題",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "全固体電池は電気自動車の次世代バッテリーとして期待されているが、実用化にはまだ多くの課題がある",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪公立大学の全固体電池研究所では複数の研究グループが技術課題に取り組むとともに、「全固体電池実用化研究会」を通じ企業連携や人材交流にも取り組んでいる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "だが、実用化に向けてはまだ多くの技術課題やコストの問題があるという",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回、その技術課題や研究の難しさについてメカニズム解明グループの森茂生教授にお話を伺った",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "全固体電池の研究ではこのほかにも「より短い時間で充電できる材料探し」や「工数の少ない製造プロセス」など多くの課題が存在し、その一つひとつを解決していかなければならないのだ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "SXESでは、EDSでは分析が難しい軽元素であるリチウムを高感度に分析できるだけでなく、その化学状態や結合状態に関する情報も得ることができる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "一度の測定で同じ試料を多角的に分析できるため「課題解明の大きな手助けになると期待される装置」(森教授) なのだ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業との連携や研究人材の交流を目的とした会だ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業との連携／研究人材の交流を積極的に進めることを目的とした研究会",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "近畿経済産業局を中心に産学官が連携し、2030年までに電池製造分野で約2.2万人、材料などサプライチェーン全体で約3万人の人材育成を目指すコンソーシアム",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "大学には高度技術人材約8,000人の育成が期待されているほか、講義や見学受入れ等を通じて製造人材育成も担っている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "全固体電池研究所は、最先端の電池材料開発や評価解析技術をベースとした人材育成拠点として参画している",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、研究を進める中で、安定した蒸着が難しいという課題を感じるようになった",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究室では、量産設備のような大型装置ではなく、研究テーマに応じて条件を変更しながら試作や評価を繰り返す",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "BSシリーズを評価した理由について、竹内教授は次のように話す",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "2台目の導入にあたって課題となったのが、アルミの蒸着レートだった",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "オート機能が多いことも、学生が扱いやすい理由の一つだ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "単粒子解析で得た何千枚も画像撮影をするノウハウを使ってソフトマテリアルを撮影し、分布評価というか、特定形状の自動定量ができるようにすれば結構いいかもと思っています",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/17.html",
+    "pass": 1
+   },
+   {
+    "quote": "つまり現状の一番の課題は、固体試料を凍結させた後に、いかにスムーズに薄く切って低温のままクライオ電子顕微鏡に装填できるかという試料調製の部分だ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/17.html",
+    "pass": 1
+   },
+   {
+    "quote": "筑波大単独で高価な設備を導入することは難しいかもしれませんが、オールつくばとしての導入なら可能性があるんじゃないかと",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/17.html",
+    "pass": 1
+   },
+   {
+    "quote": "オールつくばでのプロジェクト推進で課題解決へ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/17.html",
+    "pass": 1
+   },
+   {
+    "quote": "300 II、CRYO ARM™ 200) の運営」などの研究課題に取り組んでいる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/17.html",
+    "pass": 1
+   },
+   {
+    "quote": "微小、微量、多形な結晶構造を解析できるMicroEDの需要は確かにあるのだが、ワークフローやソフトウェアが完全に確立している単粒子解析のように簡単に使うことはできない",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/16.html",
+    "pass": 1
+   },
+   {
+    "quote": "µm以下のサイズの結晶でも回折データを集められるMicroEDだが、さまざまな粒子が混在して目的の結晶があるかどうかわからない試料を測定するのは難しい",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/16.html",
+    "pass": 1
+   },
+   {
+    "quote": "クライオEMが人気である理由は、これまでX線結晶構造解析で必須だったタンパク質の結晶化が不要になることだ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/15.html",
+    "pass": 1
+   },
+   {
+    "quote": "試料作りに数カ月以上かかる場合もある上、そもそも結晶化が難しいタンパク質や複合体も存在する",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/15.html",
+    "pass": 1
+   },
+   {
+    "quote": "精製が難しいタンパク質や、不安定ですぐに凝集してしまう複合体でも構造解析に挑戦しやすくなった",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/15.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、この方法は濃度調整が難しいという課題があった",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/15.html",
+    "pass": 1
+   },
+   {
+    "quote": "ただ、取り扱いが難しいため世界には売れない",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/15.html",
+    "pass": 1
+   },
+   {
+    "quote": "そもそもなぜダイヤモンド半導体が注目されているかというと、シリコン（Si）をはるかにしのぐ各種ポテンシャルを持っていて、シリコンでは難しい分野での活用が期待されているからだ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/14.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば電気自動車（EV）などで電力制御を行うパワー半導体は需要が高まっているが、その特性として絶縁破壊電界強度が高いことと、その一方でキャリア（自由電子あるいは正孔）が存在する部分では電流が流れやすいことが求められている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/14.html",
+    "pass": 1
+   },
+   {
+    "quote": "それは実用化を有利に進めるノウハウにもなっている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/14.html",
+    "pass": 1
+   },
+   {
+    "quote": "――電子ビーム方式の金属3Dプリンターを選ばれた理由を教えてください",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "金属3Dプリンター (AM)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高周波焼入れ技術の進化を支える金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JAM-5200EBM開発の軌跡--電子ビーム金属3Dプリンターが目指す未来",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンターがもたらす材料開発の革命",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター「JAM-5200EBM」| 製品情報 | JEOL 日本電子株式会社 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "一 外観だけでは語れない、金属積層造形の本質を追求",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOLは世界最高クラス性能の電子顕微鏡や半導体製造用電子ビーム描画装置の開発で培った電子ビーム制御技術を応用し、高出力・高速の電子ビームで、高密度・高強度部品の造形が可能なパウダーベット方式の電子ビーム金属3Dプリンターを開発しました",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの製品分類",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター (積層造形装置) の主な方式としてパウダーベッドフュージョン方式 (PBF)、デポジション方式 (DED)、バインダージェット方式、FDM方式などがあります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "の金属3Dプリンターです",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの各方式の違いと特徴は以下の記事をご参照ください",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの基礎知識：各方式の違いと特徴を徹底解説",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "本コラムでは、金属3Dプリンターの基本的な仕組みと主要な造形方式について詳しく解説します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム積層造形では、電子ビームによる予熱 (ホットプロセス) により、造形物の急激な温度変化が少なくなります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、レーザー積層造形では、加熱・急冷を繰り返すことにより残留応力が蓄積しやすく、材料や形状によっては変形や割れが発生する場合があります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー積層造形ではこうした変形や割れを防ぐために、強固なサポート材が必要になりますが、電子ビーム積層造形では、周囲の粉末同士が軽く結合して造形物を支えるため、サポート材を少なくできるという利点があります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム積層造形は、高真空環境下で造形を行います",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、レーザー積層造形装置では不活性ガス雰囲気 (大気圧) 下で造形されるものの、酸素や水分が残留している場合があるため、チタン合金などの活性金属には注意が必要となります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー積層造形や他の造形方式では困難な、電子顕微鏡技術を応用した造形品質の見える化が可能となります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター「JAM-5200EBM」の製品カタログです",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "― 電子ビーム金属3Dプリンターによるタングステン加工の優位性について",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターでチタン合金を造形",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる銅の造形：技術的課題と解決アプローチ",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる銅の積層造形では従来の製造方法では実現できなかった複雑な形状を作製することができ、近年注目が集まっています",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "本コラムでは、3Dプリンターによる銅の造形についてわかりやすく解説します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子工業株式会社は、高周波焼入れ技術の分野で長年の実績を持ち、金属積層造形技術を採用することでさらなる進化を目指しています",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回のインタビューでは、日本電子工業が金属3Dプリンターを導入した経緯や今後の展望、日本電子に寄せる期待について詳しくお話を伺いました",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "【開発秘話】JAM-5200EBM開発の軌跡--電子ビーム金属3Dプリンターが目指す未来",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンターがもたらす材料開発の革命",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "金属部品を3Dプリンターで造形する積層造形技術",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "国内における金属積層造形技術を牽引する東北大学金属材料研究所の千葉晶彦教授に、その可能性を質した",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "フランス原子力委員会よりJEM-5G 電子顕微鏡を受注",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東北での生産拠点「山形クリエイティブ (株) 天童工場」完成",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター JAM-5200EBM 完成",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした実績と体制からも、大阪公立大学は全固体電池研究において世界をリードする拠点のひとつであることがうかがえる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "全固体電池研究所は、最先端の電池材料開発や評価解析技術をベースとした人材育成拠点として参画している",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "共同利用・共同研究拠点として文科省から認可",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "全固体電池に特化した共同利用・共同研究拠点としては全国初",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマートエネルギー棟は文部科学省「大学の連携による産学官連携・共同研究の施設整備事業」及びJ-PEAKSの支援を受けて大阪公立大学 中百舌鳥キャンパスに建てられた拠点",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター導入事例：日本電子工業株式会社様 | 導入事例 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "～高周波焼入れ技術の進化を支える金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子工業株式会社は、高周波焼入れ技術の分野で長年の実績を持ち、金属積層造形技術を採用することでさらなる進化を目指しています",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回のインタビューでは、日本電子工業が金属3Dプリンターを導入した経緯や今後の展望、日本電子に寄せる期待について詳しくお話を伺いました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "内製化実現に向けて金属3DプリンターJAM-5200EBMを導入",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "――金属3Dプリンターを導入した経緯を教えてください",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、加熱コイルは高周波焼き入れにおいて必要不可欠な部品であり、将来的に受託加工を安定して受注するには内製化も必要と考えていました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした背景から金属3Dプリンターの導入検討を始めました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの導入によるコイルの複雑形状の実現と内製化による安定供給が、顧客満足度向上や受注の拡大に繋がると考えました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、装置販売時に付属品として提供することで、安定した受注も期待されます",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "――電子ビーム方式の金属3Dプリンターを選ばれた理由を教えてください",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターは電子ビーム方式とレーザー方式の選択肢がある中で、純銅の造形にはエネルギー変換効率の高い電子ビーム方式が優位であるということでこちらを選びました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内ではレーザー方式の金属3Dプリンターは何社かありましたが、電子ビーム方式は日本電子さんが唯一取り扱っているということでご相談させていただきました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、弊社はまだ積層造形技術の経験が浅いため、日本電子さんの指導を受けつつ、事業を進めてまいりたいと考えています",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "JAM-5200EBM 電子ビーム金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "Interview10 電子ビーム金属3Dプリンターがもたらす材料開発の革命 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/10.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンターがもたらす材料開発の革命",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/10.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属部品を3Dプリンターで造形する積層造形技術",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/10.html",
+    "pass": 1
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "あなたは、医療関係者ですか？",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連分野で利用される電子ビーム描画装置、理科学機器を紹介します",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヤモンド半導体、実用化はすぐそこ",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人 物質・材料研究機構 中核機能部門 強磁場ステーション",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "超高精度のイメージング、高空間分解能・高エネルギー分解能の分光法および「その場」電子顕微鏡法",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "“NMRとシルク”で、新たな再生医療の分野を拓く",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子顕微鏡用高エネルギー分解能軟Ｘ線分光器",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人海洋研究開発機構 高知コア研究所",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "先端半導体の故障解析を加速する新しい解析プラットフォーム",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "*半導体、ライフサイエンス等重点市場での、シェアトップクラスを目指すことを意味する",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JEOLは世界最高クラス性能の電子顕微鏡や半導体製造用電子ビーム描画装置の開発で培った電子ビーム制御技術を応用し、高出力・高速の電子ビームで、高密度・高強度部品の造形が可能なパウダーベット方式の電子ビーム金属3Dプリンターを開発しました",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙用材料規格に基づくJEOL電子ビーム溶融技術の評価",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "JAM-5200EBMはAMS7032認証を取得しており、航空宇宙用材料において信頼性の高い製造プロセスを確立します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "あなたは、医療関係者ですか？",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降の製品情報ページは、医療関係者を対象としています",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "全固体電池は電気自動車の次世代バッテリーとして期待されているが実用化にはまだ多くの課題がある",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヤモンド半導体、実用化はすぐそこ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヤモンド半導体はパワー半導体や高周波デバイスとして注目されているが、最近は基礎研究の段階を脱し実用化へ向かっていることを示す動きが相次いでいる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人産業技術総合研究所 機能化学研究部門 副研究部門長",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "超高精度のイメージング、高空間分解能・高エネルギー分解能の分光法および「その場」電子顕微鏡法",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "光チップ、半導体レーザの革新、熱輻射制御、高効率太陽電池...",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "電子顕微鏡用高エネルギー分解能軟Ｘ線分光器",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "竹内研究室では2013年、日本電子製の研究開発用電子ビーム蒸着装置「BSシリーズ」を導入",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "強度、信頼度が求められる航空機やロケットの部品に革命をもたらすと期待されている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県茂原市で電子顕微鏡の試作研究をはじめる",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "IMSと共同で世界初の量産向けマルチ電子ビーム描画装置の市場投入を発表",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に強い関心を示したのが、燃料電池を研究する自動車関連企業でした",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/21.html",
+    "pass": 1
+   },
+   {
+    "quote": "反応の途中で越えなければならないエネルギーのピークを触媒によって下げることができれば、ベンゼン環をひとつ作るだけでなく、もっと大きな分子骨格を一気に構築できるのではないか",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "pass": 1
+   },
+   {
+    "quote": "EI法（電子イオン化法）の高いエネルギーで分子をあえて粉々にして、生じたフラグメント（断片）イオンのパターンを見ることで、分子のどの部分にどんな官能基や骨格があるかを見極めている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "pass": 1
+   },
+   {
+    "quote": "全固体電池は電気自動車の次世代バッテリーとして期待されているが、実用化にはまだ多くの課題がある",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "固体電池は次世代の二次電池、特に電気自動車 (EV)",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "の駆動用バッテリーとして期待され、いまや多くの電池メーカーや自動車メーカーが取り組んでいる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "一つはエネルギー分散形X線分析装置 (EDS：Energy",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "四つ目のエネルギーフィルター走査電子顕微鏡は日本電子が提案する、これまでにない新しい電子分光装置だ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれエネルギー帯の異なる、二次電子 (数十eV以下)、オージェ電子 (数十～数keV)、反射電子",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "(入射電子のエネルギーに近い高エネルギーから、二次電子に近い低エネルギー帯まで)",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "つまりエネルギー帯を後から指定することで、試料表面の元素分析 (オージェ電子分光)",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪公立大学が強みを持つ全固体電池を基軸にしたエネルギー材料研究は、産学官民の共創を通して推進することで政策の立案や社会実装に積極的に貢献できる特徴ある研究シーズの代表例として言及されている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマートエネルギー棟は文部科学省「大学の連携による産学官連携・共同研究の施設整備事業」及びJ-PEAKSの支援を受けて大阪公立大学 中百舌鳥キャンパスに建てられた拠点",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "次世代全固体電池の試作ラインや研究基盤共用センター、産学官連携のインキュベーションスペースを備えている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "関西地区にはパナソニックエナジーやGSユアサなど電池関連企業が多く、特に大阪湾沿岸地域はリチウムイオン電池の製造工場、関連部材メーカー、研究開発機関が集積していて「関西バッテリーベイ」と呼ばれるほどである",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月1日にオープンしたイノベーションアカデミースマートエネルギー棟",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "窒化物半導体を用いた青色面発光レーザー (VCSEL：Vertical-Cavity Surface-Emitting Laser) と深紫外LED (Deep UV",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "竹内研究室では2013年、日本電子製の研究開発用電子ビーム蒸着装置「BSシリーズ」を導入",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "窒化物半導体から広がる、青色面発光レーザーと深紫外LEDの研究",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "竹内教授の研究室では、窒化物半導体を用いた光デバイスの研究を進めている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "青色LEDの実用化によって窒化物半導体の可能性は大きく広がった",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "新たな蒸着装置を検討する中で、竹内教授が重視したのは、研究開発用途に適した装置であることだった",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究室では、量産設備のような大型装置ではなく、研究テーマに応じて条件を変更しながら試作や評価を繰り返す",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発用として非常にバランスの取れた装置だと感じました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした研究開発用途に適したサイズと拡張性が、BSシリーズ導入の決め手となった",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究テーマや材料に応じた技術提案を受けながら装置構成を検討できることも、研究開発の現場を支える重要な要素となっている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発では、装置の性能だけでなく、安定して使い続けられることも重要な要素となる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ、数多くの実験を繰り返す化合物半導体の研究では、装置が安定して稼働し続けることの意味は大きい",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発では、一つひとつの実験結果の積み重ねが成果につながる",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "窒化物半導体を用いた光デバイスの研究は、新たな応用分野へ広がりを見せている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究テーマが広がる中、研究開発を支える装置にも、新たな技術や機能を柔軟に取り入れられることを求めている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発用の装置だからこそ、新しい技術や新しい機能を柔軟に取り入れながら、長く使い続けられることを期待しています",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界最高レベルの性能を持つ光デバイスの実現を目指し、研究開発を進めている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   }
+  ],
+  "素材": [
+   {
+    "quote": "液晶からブルーカーボンまで 来るモノは拒まないNMR測定",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター (AM)",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高周波焼入れ技術の進化を支える金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JAM-5200EBM開発の軌跡--電子ビーム金属3Dプリンターが目指す未来",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンターがもたらす材料開発の革命",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター「JAM-5200EBM」| 製品情報 | JEOL 日本電子株式会社 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "一 外観だけでは語れない、金属積層造形の本質を追求",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOLは世界最高クラス性能の電子顕微鏡や半導体製造用電子ビーム描画装置の開発で培った電子ビーム制御技術を応用し、高出力・高速の電子ビームで、高密度・高強度部品の造形が可能なパウダーベット方式の電子ビーム金属3Dプリンターを開発しました",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "耐久性や強度が求められる最先端の製品にも対応し、要求される高い品質基準をクリアする金属部品の製造を実現します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの製品分類",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター (積層造形装置) の主な方式としてパウダーベッドフュージョン方式 (PBF)、デポジション方式 (DED)、バインダージェット方式、FDM方式などがあります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "の金属3Dプリンターです",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの各方式の違いと特徴は以下の記事をご参照ください",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの基礎知識：各方式の違いと特徴を徹底解説",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "本コラムでは、金属3Dプリンターの基本的な仕組みと主要な造形方式について詳しく解説します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、レーザー積層造形装置では不活性ガス雰囲気 (大気圧) 下で造形されるものの、酸素や水分が残留している場合があるため、チタン合金などの活性金属には注意が必要となります",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "本機能では、金属粉末を電子ビームで溶融した後、電子ビームを再度溶融面全体に照射することでBSE画像を取得します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "AM-22010PRS 金属粉末リカバリーシステム",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラストして回収した金属粉末は造形に再利用",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "AM-22010PRSはチタン合金等の活性金属種に対応する窒素雰囲気仕様",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター「JAM-5200EBM」の製品カタログです",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "― 電子ビーム金属3Dプリンターによるタングステン加工の優位性について",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金 (Ti-6Al-4V)",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターでチタン合金を造形",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "本コラムでは、チタン合金3Dプリントの基礎知識から、LB-PBFとEB-PBFの違いや活用事例をわかりやすく解説します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる銅の造形：技術的課題と解決アプローチ",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる銅の積層造形では従来の製造方法では実現できなかった複雑な形状を作製することができ、近年注目が集まっています",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "本コラムでは、3Dプリンターによる銅の造形についてわかりやすく解説します",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニッケル基合金718",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "有機金属触媒を駆使した独創的な合成反応の開発により、有機合成化学の新たな地平を切り拓いてきた",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "LED、燃料電池、ダイヤモンドライクカーボン...",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンターがもたらす材料開発の革命",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学金属材料研究所 加工プロセス工学研究部門",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "金属部品を3Dプリンターで造形する積層造形技術",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "国内における金属積層造形技術を牽引する東北大学金属材料研究所の千葉晶彦教授に、その可能性を質した",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンター JAM-5200EBM 完成",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "導電性の金属コーティングをしないので、電子線の連続照射によって試料が帯電 (チャージアップ)",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/21.html",
+    "pass": 1
+   },
+   {
+    "quote": "有機金属触媒を駆使して、未踏分子へ至る新しい合成反応を開拓してきた、有機合成化学の第一線で活躍する研究者である",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "pass": 1
+   },
+   {
+    "quote": "社員でありながら留学の機会にも恵まれ、有機金属化学や触媒化学に本格的に触れた",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "pass": 1
+   },
+   {
+    "quote": "有機金属触媒のなかには不安定なものもあり、使いにくいものは敬遠されやすい",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "pass": 1
+   },
+   {
+    "quote": "ボンバード蒸着源が支えた、アルミ電極形成と高反射率への取り組み",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこで2台目は金属蒸着専用という考え方にしました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "2台目の導入にあたって課題となったのが、アルミの蒸着レートだった",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミは十分な反射率を得るために蒸着レートを高くする必要がある",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "「アルミは蒸着レートを高くしないと、十分な反射率が得られません",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、日本電子と相談を重ねる中で、アルミを高速で蒸着する方法としてボンバード蒸着源の提案を受け、採用に至った",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター導入事例：日本電子工業株式会社様 | 導入事例 | 製品情報 | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "～高周波焼入れ技術の進化を支える金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子工業株式会社は、高周波焼入れ技術の分野で長年の実績を持ち、金属積層造形技術を採用することでさらなる進化を目指しています",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回のインタビューでは、日本電子工業が金属3Dプリンターを導入した経緯や今後の展望、日本電子に寄せる期待について詳しくお話を伺いました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "関西大学工学部金属工学科を卒業後、1977年に日本電子工業株式会社へ入社",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "内製化実現に向けて金属3DプリンターJAM-5200EBMを導入",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "――金属3Dプリンターを導入した経緯を教えてください",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "高周波焼き入れに欠かせないのが、銅製の加熱コイルです",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした背景から金属3Dプリンターの導入検討を始めました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの導入によるコイルの複雑形状の実現と内製化による安定供給が、顧客満足度向上や受注の拡大に繋がると考えました",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "――電子ビーム方式の金属3Dプリンターを選ばれた理由を教えてください",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "日本電子創立75周年 特別企画",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子は、1949年の創業以来、これまで最先端の理科学・計測機器、産業機器そして医用機器の開発に邁進してきました",
+    "url": "https://www.jeol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子創立当初の英文社名 \"JAPAN ELECTRON OPTICS LABORATORY CO., LTD\"",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社日本電子光学研究所設立(東京都三鷹市)",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "初の海外現地法人JEOLCO (U.S.A) INC.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "フランスに現地法人JEOLCO (FRANCE) S.A.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "イギリスに現地法人JEOLCO (U.K.) LTD.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーストラリアに現地法人JEOLCO (AUSTRALASIA) PTY.LTD.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "オランダに現地法人JEOL (EUROPE) B.V.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "スウェーデンに現地法人JEOL (SKANDINAVISKA) A.B.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "イタリアに現地法人JEOL (ITALIA) S.p.A.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL DE MEXICO S.A. DE C.V.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL CANADA,INC.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL (MALAYSIA) SDN BHD設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツ現地法人JEOL (GERMANY) GmbH設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL DATUM TAIWAN LTD.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "創立50周年",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL Shanghai Semiconductors Ltd. 設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "創立60周年",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL BRASIL Instrumentos Cientificos Ltda.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JEOL INDIA PVT.LTD.設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "創立65周年",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋大学と共同出資で株式会社CeSPIAを設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "創立70周年",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "創立70周年記念フォーラムをホテルニューオータニで開催",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "の下、産業界からの期待を受けつつ設立した研究所は、当初から社会実装（実用化）を目的に据えていた",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "全固体電池研究所、設立",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "pass": 1
+   },
+   {
+    "quote": "その特許を利用したいとの声が複数の企業から寄せられたことをきっかけに一般社団法人 日本MA-T工業会が設立された (2020年11月)",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/15.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、創業者の理念ですので、これからもその責任を果たしていきます",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/13.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在も同研究を継続するとともに、2017年に大隅基礎科学創成財団を設立し理事長として、基礎科学の発展に努めている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/13.html",
+    "pass": 1
+   },
+   {
+    "quote": "「日本電子とのパートナーを基に設立されたJCATは極めて重要なプラットフォームになるでしょう",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/08.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発企業の日本電子（JEOL）は、1949年に電子顕微鏡の開発会社として設立",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "pass": 3
+   },
+   {
+    "quote": "・弊社の金属3Dプリンターは、創業当時から研究を続けている電子ビームの技術を用いた製品で電子ビーム金属3Dプリンターの領域では国内随一の技術力・シェアを持っています",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に創立70周年を迎え、いまや国内外の先端技術の研究・開発に携わる方々からご信頼を頂き、ノーベル賞を受賞された教授や、各方面の著名な先生方に装置をご活用頂いています",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "創立当初の英文社名“JAPAN ELECTRON OPTICS LABORATORY CO., LTD”の頭文字をとって「JEOL」と命名されました",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "の館屋を間借りして株式会社日本電子光学研究所を設立、新たに電子顕微鏡（透過型）の設計、製造事業を始めた",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "ネームバリューを日本国外へも生かすため、社名を変更しても設立当時からの称号である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "1949年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "1949年に創業し、70年以上の歴史を持つJEOL",
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "造形終了後に、造形物周囲の仮焼結粉末を取り除くためのブラスト装置",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 1
+   },
+   {
+    "quote": "【販売終了】JSM-IT800 ショットキー電界放出形走査電子顕微鏡",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/21.html",
+    "pass": 1
+   },
+   {
+    "quote": "100個の粒子を見ればいいのか1,000個の粒子を見なければダメなのかMicroEDだけでは判断が難しく、どこで撤退すれば良いかわからないからだ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/16.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば電気自動車（EV）などで電力制御を行うパワー半導体は需要が高まっているが、その特性として絶縁破壊電界強度が高いことと、その一方でキャリア（自由電子あるいは正孔）が存在する部分では電流が流れやすいことが求められている",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/14.html",
+    "pass": 1
+   },
+   {
+    "quote": "競争が激しいため撤退する企業もありますが、日本にとんがった企業が何社かあることはとても誇りに思います",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/13.html",
+    "pass": 1
+   },
+   {
+    "quote": "というのも、反応は管を通過するだけで終了させる必要があり、一度原料を入れたあとは、最後の合成が終わるまで、副産物が入ったままとなり、反応過程に影響が出てしまうためだ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/06.html",
+    "pass": 1
+   },
+   {
+    "quote": "開始から終了まで、ひとつの分析に要する時間は約10分であり、これは45分以上かかる他の手法に比べ迅速です",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/04.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気二重層キャパシタは2012年 撤退、医用機器事業は2026年4月1日付でシスメックス社へ譲渡",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "医用機器事業は2026年4月1日付でシスメックス社へ譲渡",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "2012年12月現在、両者とも撤退",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "連結子会社の異動 (株式譲渡) 、連結子会社へ債権放棄および特別損失の計上に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "【6951:日本電子】16％急落でも通期据え置き――日本電子のQ1赤字は「期ずれ」で戻るのか｜オッコ主任の未来産業地図",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "【6951:日本電子】16％急落でも通期据え置き――日本電子のQ1赤字は「期ずれ」で戻るのか",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期の営業利益57億9,200万円から、一転して赤字になりました",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "円安による売上押し上げ10億円、研究開発費の減少5億円が一部を補いましたが、販売管理費の増加6億円もあり、赤字を吸収できませんでした",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "固定費を吸収する売上が足りず、営業赤字になりました",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、今回の損失は採算性が突然壊れたというより、高額装置の売上計上が少ない四半期に固定費が先行した姿です",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "2.二つの事業を分けると、赤字の場所が見える",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "Q1赤字だけで財務が直ちに不安定になる状態ではありません",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "決算前の約20倍から評価倍率が切り下がり、Q1赤字と通期達成リスクの一部を織り込んだ水準です",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "7,425円は推定適正価格6,600～8,100円の範囲内にあるため、株価との整合性を10点から12点へ見直し、総合80点としました",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子には、輸出規制、高額装置の検収集中、Q1赤字、通期計画の後半負荷が残っています",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "単一四半期の赤字を年率換算せず、通期EPSと評価倍率を組み合わせて試算します",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "第1四半期は営業赤字でも、会社は想定内と言います",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子（6951）は本当に「やばい」のか ― 4〜6月は39%減収で営業赤字20億円、それでも通期265億円は据え置き",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子（6951）は何で儲けているのか｜売上20%の事業が利益の9割を作る会社の1Q営業赤字を読み解く",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "【6951:日本電子】16％急落でも通期据え置き――日本電子のQ1赤字は「期ずれ」で戻るのか",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "名古屋大学と共同出資で株式会社CeSPIAを設立",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、日本電子さんは弊社と長年の歴史的な繋がりがあり、重要な株主でもあります",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンが筆頭株主となり、顕微鏡と医療分野の協業をめざす",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "米国カリフォルニア州にあるベンチャー企業 IDES社を買収",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "100個の粒子を見ればいいのか1,000個の粒子を見なければダメなのかMicroEDだけでは判断が難しく、どこで撤退すれば良いかわからないからだ",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/16.html",
+    "pass": 1
+   },
+   {
+    "quote": "競争が激しいため撤退する企業もありますが、日本にとんがった企業が何社かあることはとても誇りに思います",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/13.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気二重層キャパシタは2012年 撤退、医用機器事業は2026年4月1日付でシスメックス社へ譲渡",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "2012年12月現在、両者とも撤退",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "人類は非常な才能を発揮して、この技術を高めてきましたが、大量のエネルギーを消費し、金型をつくるのに、小さいものでも数百万円がかかるうえ、冷えて小さくなる分や材質分布が偏る分を見込んで製造する必要があるなど、まさにアナログ技術の集合体でした",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/10.html",
+    "pass": 1
+   },
+   {
+    "quote": "大学はといえば年間数百万円も研究費用がとれれば御の字で、1カップサイズの日本酒の空容器をビーカーがわりに使う研究室もあったほどです",
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/05.html",
+    "pass": 1
+   },
+   {
+    "quote": "■海外売上比率：70.7%",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "179,353百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "28,610百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "84,769百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "75,274百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "83,191百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "79,629百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "99,698百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "111,289百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "7,440百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "117,243百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "7,203百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "110,439百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "6,550百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "138,408百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "16,313百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "162,689百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "23,501百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "174,336百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "30,023百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "196,695百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "34,424百万円",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月14日に発表した2027年3月期第1四半期は、売上高244億6,500万円、営業損失19億6,100万円",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "一方、会社は通期の売上高1,640億円、営業利益265億円を据え置きました",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "一部装置の売上計上時期と輸出規制の影響は、期初計画へ概ね織り込み済みだと説明しています",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "1.第1四半期は売上39.1％減、営業損失19.61億円",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益の前年差約78億円は、売上数量減などによる87億円の悪化が中心です",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "円安による売上押し上げ10億円、研究開発費の減少5億円が一部を補いましたが、販売管理費の増加6億円もあり、赤字を吸収できませんでした",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "売上原価率は前年同期の51.5％から51.9％へ0.4ポイント上昇しただけでした",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、売上総利益117億6,800万円に対し、販管費は137億2,900万円",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "固定費を吸収する売上が足りず、営業赤字になりました",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、今回の損失は採算性が突然壊れたというより、高額装置の売上計上が少ない四半期に固定費が先行した姿です",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中国の大学・研究機関向け輸入免税制度の更新が遅れ、売上高は前年を下回っています",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "売上計上時期が後ろへずれたマルチビーム装置",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "成長製品は、評価から量産採用へ進んで初めて売上になります",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "上期計画を達成するには、第2四半期だけで売上高約385億円、営業利益約80億円が必要です",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "通期計画からQ1実績を差し引くと、残り9か月で売上高約1,395億円、営業利益約285億円",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子（6951）は本当に「やばい」のか ― 4〜6月は39%減収で営業赤字20億円、それでも通期265億円は据え置き",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "残り9か月の宿題は285億円",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子（6951）は何で儲けているのか｜売上20%の事業が利益の9割を作る会社の1Q営業赤字を読み解く",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "「上期20億円増、下期ゼロ増」の違和感",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "JAM-5200EBM開発の軌跡-- 電子 ビーム金属 3Dプリンター が ... — JAM-5200EBM開発の軌跡-- 電子 ビーム金属 3Dプリンター が ... 日本電子株式会社 https://www.jeol.co.jp > technology_cases > story",
+    "url": "https://www.jeol.co.jp/products/technology_cases/story/07.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子 ビーム金属 3Dプリンター 「JAM-5200EBM」| 製品情報 — 電子 ビーム金属 3Dプリンター 「JAM-5200EBM」| 製品情報 日本電子株式会社 https://www.jeol.co.jp > products > industrial",
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子 ビーム金属 3Dプリンター | JEOL 装置入門 | 製品情報 — 電子 ビーム金属 3Dプリンター | JEOL 装置入門 | 製品情報 日本電子株式会社 https://www.jeol.co.jp > products > science > 3d",
+    "url": "https://www.jeol.co.jp/products/science/3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンター の基礎知識：各方式の違いと特徴を徹底解説 — 金属 3Dプリンター の基礎知識：各方式の違いと特徴を徹底解説 日本電子株式会社 https://www.jeol.co.jp > column > detail001",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会資料 - 日本電子 — 決算説明会資料 - 日本電子 日本電子株式会社 PDF https://www.jeol.co.jp > financial_report_59_04_ja",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/financial_report/financial_report_59_04_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 - 決算説明会 - 日本電子 — 2026年3月期 - 決算説明会 - 日本電子 日本電子株式会社 PDF https://www.jeol.co.jp > assets > pdf > financial_report",
+    "url": "https://www.jeol.co.jp/assets/pdf/ir/financial_report/financial_report_61_5_K1cGir.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 株式会社：電子ビーム金属3Dプリンターのシステム ... — 日本電子 株式会社：電子ビーム金属3Dプリンターのシステム ... JACリクルートメント https://www.jac-recruitment.jp > search > NJB2411220",
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンター 導入事例： 日本電子 工業株式会社様 | 製品情報 — 金属 3Dプリンター 導入事例： 日本電子 工業株式会社様 | 製品情報 日本電子株式会社 https://www.jeol.co.jp > technology_cases > cases",
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "JEOL 電子 ビーム金属 3Dプリンター JAM-5200EBM - YouTube — JEOL 電子 ビーム金属 3Dプリンター JAM-5200EBM - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=3tTh80fOumA",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会資料 | IR情報 (株主・投資家の皆様へ) - 日本電子 — 決算説明 会資料 | IR情報 (株主・投資家の皆様へ) - 日本電子 日本電子株式会社 https://www.jeol.co.jp > financial_report",
+    "url": "https://www.jeol.co.jp/ir/financial_report/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報（株主・投資家の皆様へ） | JEOL 日本電子 株式会社 — IR情報（株主・投資家の皆様へ） | JEOL 日本電子 株式会社 日本電子株式会社 https://www.jeol.co.jp > ...",
+    "url": "https://www.jeol.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | IR情報 (株主・投資家の皆様へ) | JEOL 日本電子 株式 ... — 決算 短信 | IR情報 (株主・投資家の皆様へ) | JEOL 日本電子 株式 ... 日本電子株式会社 https://www.jeol.co.jp > financial_results",
+    "url": "https://www.jeol.co.jp/ir/financial_results/",
+    "pass": 3
+   },
+   {
+    "quote": "IRスケジュール | IR情報 (株主・投資家の皆様へ) - 日本電子 — IRスケジュール | IR情報 (株主・投資家の皆様へ) - 日本電子 日本電子株式会社 https://www.jeol.co.jp > schedule",
+    "url": "https://www.jeol.co.jp/ir/schedule.html",
+    "pass": 3
+   },
+   {
+    "quote": "有価証券報告書 | IR情報 (株主・投資家の皆様へ) - 日本電子 — 有価証券報告書 | IR情報 (株主・投資家の皆様へ) - 日本電子 日本電子株式会社 https://www.jeol.co.jp > sec_report",
+    "url": "https://www.jeol.co.jp/ir/sec_report/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | JEOL 日本電子 株式会社 — 会社概要 | 会社情報 | JEOL 日本電子 株式会社 日本電子株式会社 https://www.jeol.co.jp > corporate > outline > about",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | 会社情報 | JEOL 日本電子 株式会社 — 沿革 | 会社情報 | JEOL 日本電子 株式会社 日本電子株式会社 https://www.jeol.co.jp > corporate > outline > history",
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 （6951）のプロフィール - 会社四季報オンライン — 日本電子 （6951）のプロフィール - 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > 日本電子",
+    "url": "https://shikiho.toyokeizai.net/stocks/6951/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | JEOL 日本電子 株式会社 — 会社概要 | 会社情報 | JEOL 日本電子 株式会社 日本電子株式会社 https://www.jeol.co.jp > corporate",
+    "url": "https://www.jeol.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 - Wikipedia — 日本電子 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 日本電子",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "「装置を売る会社」が終わる日。 日本電子 が特許48件に隠した 「装置を売る会社」が終わる日。 日本電子 が特許48件に隠した note https://note.com > ビジネス > 法務・コンプライアンス・知財",
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 のQ1赤字は「期ずれ」で戻るのか - note 日本電子 のQ1赤字は「期ずれ」で戻るのか - note note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 の人気・新着記事まとめ - note 日本電子 の人気・新着記事まとめ - note note https://note.com > tag > 日本電子",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "「装置を売る会社」が終わる日。日本電子が特許48件に隠した、分析業界の次のルール｜ねる",
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "pass": 3
+   },
+   {
+    "quote": "「装置を売る会社」が終わる日。日本電子が特許48件に隠した、分析業界の次のルール",
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子の装置・分析技術・特許戦略を、YouTubeでも解説しています。",
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "pass": 3
+   },
+   {
+    "quote": "そんなふうに思っている方は多いかもしれません。 確かに、NVIDIAのようなド派手な話題はありません。でも今、その「地味な精密機器の世界」で、業界のルールを静かに書き換えようとしている日本企業がいます。",
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、特許データから読み解いたJEOLの戦略が、なぜ単なる「技術者のための話」では終わらないのかをお伝えします！",
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "pass": 3
+   },
+   {
+    "quote": "あなたは「分析機器」と聞いて、何を思い浮かべますか？",
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "pass": 3
+   },
+   {
+    "quote": "電子顕微鏡、質量分析計、核磁気共鳴（NMR）装置——。 研究者や製薬会社の開発部門では当たり前に使われる機器ですが、一般にはほとんど知られていません。",
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "pass": 3
+   },
+   {
+    "quote": "この業界、実は巨大な市場です。 世界の分析機器市場規模は",
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "pass": 3
+   },
+   {
+    "quote": "【6951:日本電子】16％急落でも通期据え置き――日本電子のQ1赤字は「期ずれ」で戻るのか｜オッコ主任の未来産業地図",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "【6951:日本電子】16％急落でも通期据え置き――日本電子のQ1赤字は「期ずれ」で戻るのか",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "半導体は、回路を設計してウエハーへ作り込めば完成するわけではありません。",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "回路原版となるマスクを電子ビームで描き、製造途中の微細構造を電子顕微鏡で観察し、欠陥や材料の状態を原子レベルで確かめる。日本電子は、半導体を「作る前」と「作っている途中」の両方を支える装置メーカーです。",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月14日に発表した2027年3月期第1四半期は、売上高244億6,500万円、営業損失19億6,100万円。前年同期の営業利益57億9,200万円から、一転して赤字になりました。",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "翌営業日の株価は16.07％下落し、7,425円まで急落しています。",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "一方、会社は通期の売上高1,640億円、営業利益265億円を据え置きました。一部装置の売上計上時期と輸出規制の影響は、期初計画へ概ね織り込み済みだと説明しています。",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "赤字は本当に「期ずれ」で戻るのか。それとも、中国向け輸出管理と需要変化が成長率を下げ始めたのか。",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "10月30日（金）10:20 大量保有 日本電子",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子（6951）は本当に「やばい」のか ― 4〜6月は39%減収で営業赤字20億円、それでも通期265億円は据え置き。残り9か月の宿題は285億円",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "フォトマスク：回路の原版と、それを作る会社",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "【決算・修正速報】MS＆ADインシュアランス、SOMPO、アシックス、荏原製作所、アサヒグループ、朝日インテック、電通グループ、シチズン時計、フェローテック、日本電子、トリドール、BuySellTechnologies、KeePer技研、など",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子（6951）は何で儲けているのか｜売上20%の事業が利益の9割を作る会社の1Q営業赤字を読み解く",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "【IR分析アップデート】 日本電子（6951） ｜ いい銘柄を、安いときに買う ｜ 2026.3期 IR情報から考える",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "\"ちょこっとIR\" ーいい銘柄を安いときに買うためのIR情報分析",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "【6951:日本電子】16％急落でも通期据え置き――日本電子のQ1赤字は「期ずれ」で戻るのか｜オッコ主任の未来産業地図",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "【6951:日本電子】16％急落でも通期据え置き――日本電子のQ1赤字は「期ずれ」で戻るのか",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期の営業利益57億9,200万円から、一転して赤字になりました",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "一方、会社は通期の売上高1,640億円、営業利益265億円を据え置きました",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益の前年差約78億円は、売上数量減などによる87億円の悪化が中心です",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "円安による売上押し上げ10億円、研究開発費の減少5億円が一部を補いましたが、販売管理費の増加6億円もあり、赤字を吸収できませんでした",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "固定費を吸収する売上が足りず、営業赤字になりました",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、今回の損失は採算性が突然壊れたというより、高額装置の売上計上が少ない四半期に固定費が先行した姿です",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "2.二つの事業を分けると、赤字の場所が見える",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "上期計画を達成するには、第2四半期だけで売上高約385億円、営業利益約80億円が必要です",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "Q2の営業利益率は約20.7％になります",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "通期計画からQ1実績を差し引くと、残り9か月で売上高約1,395億円、営業利益約285億円",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "必要な営業利益率は約20.4％です",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、残り期間に20％を超える営業利益率を求める計画は軽くありません",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "Q1赤字だけで財務が直ちに不安定になる状態ではありません",
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子（6951）は本当に「やばい」のか ― 4〜6月は39%減収で営業赤字20億円、それでも通期265億円は据え置き",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子（6951）は何で儲けているのか｜売上20%の事業が利益の9割を作る会社の1Q営業赤字を読み解く",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   },
+   {
+    "quote": "【6951:日本電子】16％急落でも通期据え置き――日本電子のQ1赤字は「期ずれ」で戻るのか",
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "日本電子 株式会社 / JEOL Ltd.【公式】 (@JEOL_Japan) / X 日本電子 株式会社 / JEOL Ltd.【公式】 (@JEOL_Japan) / X X https://x.com > JEOL_Japan",
+    "url": "https://x.com/JEOL_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 株式会社 / JEOL Ltd.【公式】 (@JEOL_Japan) on X 日本電子 株式会社 / JEOL Ltd.【公式】 (@JEOL_Japan) on X X https://x.com > JEOL_Japan > highlights",
+    "url": "https://x.com/JEOL_Japan/highlights",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 株式会社 / JEOL Ltd.【公式】 on X: \"北海道大学が ... 日本電子 株式会社 / JEOL Ltd.【公式】 on X: \"北海道大学が ... X https://x.com > @JEOL_Japan",
+    "url": "https://x.com/JEOL_Japan/status/2118253957327823023",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 株式会社 / JEOL Ltd.【公式】 - X 日本電子 株式会社 / JEOL Ltd.【公式】 - X X https://x.com > @JEOL_Japan",
+    "url": "https://x.com/JEOL_Japan/status/2003337610845200520",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "日本電子 株式会社 / JEOL Ltd. - LinkedIn 日本電子 株式会社 / JEOL Ltd. - LinkedIn LinkedIn https://www.linkedin.com > company > jeol-ltd-ja",
+    "url": "https://www.linkedin.com/company/jeol-ltd-ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 （株） - LinkedIn 日本電子 （株） - LinkedIn LinkedIn https://www.linkedin.com > company > 日本電子（株）",
+    "url": "https://www.linkedin.com/company/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 材料（株） - LinkedIn 日本電子 材料（株） - LinkedIn LinkedIn https://www.linkedin.com > 日本電子材料（株）",
+    "url": "https://www.linkedin.com/company/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E6%9D%90%E6%96%99%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 （株） | LinkedIn 日本電子 （株） | LinkedIn LinkedIn https://jp.linkedin.com > company > 日本電子（株）",
+    "url": "https://jp.linkedin.com/company/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "日本電子 株式会社 / JEOL Ltd. | Akishima-shi Tokyo - Facebook 日本電子 株式会社 / JEOL Ltd. | Akishima-shi Tokyo - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/jeol.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 株式会社 / JEOL Ltd. (@jeol.jp) - Videos | Facebook 日本電子 株式会社 / JEOL Ltd. (@jeol.jp) - Videos | Facebook Facebook https://www.facebook.com > jeol.jp > videos",
+    "url": "https://www.facebook.com/jeol.jp/videos/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 株式会社 / JEOL Ltd. added a new photo. 日本電子 株式会社 / JEOL Ltd. added a new photo. Facebook https://www.facebook.com > jeol.jp > photos",
+    "url": "https://www.facebook.com/jeol.jp/photos/1619505776860196/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子 株式会社 / JEOL Ltd. - Facebook 日本電子 株式会社 / JEOL Ltd. - Facebook Facebook https://www.facebook.com > jeol.jp > posts",
+    "url": "https://www.facebook.com/jeol.jp/posts/1073847451426034/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jeol.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/corporate/outline/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/22.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/21.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/20.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/18.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/19.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/17.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/16.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/15.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/14.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/13.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/12.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/11.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/10.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/09.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/interviews/02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/newsletter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/scientific/maldi-tofms/SpiralTOF.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/technology_cases/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jeol.co.jp/assets/img/technology_cases/interviews/11/img_interview_11_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/assets/images/img_NewSpiralTOF_01_20260513.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/assets/images/img_NewSpiralTOF_02_20260513.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/assets/images/img_NewSpiralTOF_03_20260513.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/assets/images/img_NewSpiralTOF_04_20260513.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/assets/images/img_NewSpiralTOF_05_20260513.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pasonacareer.jp/job/81067241/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=3tTh80fOumA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/stocks/6951/corporate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nicks701/n/n81afd9c3f596",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/okko_fil/n/n77069e05bd6b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/JEOL_Japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JEOL_Japan/highlights",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JEOL_Japan/status/2118253957327823023",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JEOL_Japan/status/2003337610845200520",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/jeol-ltd-ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E6%9D%90%E6%96%99%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jeol.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jeol.jp/videos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jeol.jp/photos/1619505776860196/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jeol.jp/posts/1073847451426034/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JEOL_Japan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本電子 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.jeol.co.jp/products/technology_cases/story/07.html",
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "https://www.jeol.co.jp/products/science/3d.html",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "https://www.jeol.co.jp/recruit/professional-interview/08/",
+    "https://www.nikkei.com/article/DGKKZO91789550X01C25A0L01000/",
+    "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html"
+   ]
+  },
+  {
+   "query": "日本電子 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://www.jeol.co.jp/products/science/3d.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "https://www.jeol.co.jp/products/technology_cases/story/07.html",
+    "https://www.jeol.co.jp/recruit/professional-interview/08/",
+    "https://www.nikkei.com/article/DGKKZO91789550X01C25A0L01000/",
+    "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "https://skhonpo.com/blogs/blog/3d-2025-2026"
+   ]
+  },
+  {
+   "query": "日本電子 積層造形 事業 売上",
+   "results": [
+    "https://www.jeol.co.jp/assets/pdf/ir/financial_report/financial_report_59_04_ja.pdf",
+    "https://www.jeol.co.jp/assets/pdf/ir/financial_report/financial_report_61_5_K1cGir.pdf",
+    "https://jampt.jp/company/",
+    "https://www.jac-recruitment.jp/search/NJB2411220/",
+    "https://www.pasonacareer.jp/job/81067241/",
+    "https://metoree.com/categories/5523/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://finance.logmi.jp/articles/376021",
+    "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2019_06.pdf",
+    "https://www.jeol.co.jp/ir/financial_results/"
+   ]
+  },
+  {
+   "query": "日本電子 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "https://www.jeol.co.jp/products/technology_cases/story/07.html",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.youtube.com/watch?v=3tTh80fOumA",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "https://www.nikkei.com/article/DGKKZO91789550X01C25A0L01000/",
+    "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "https://www.jeol.co.jp/recruit/professional-interview/08/"
+   ]
+  },
+  {
+   "query": "日本電子 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.jeol.co.jp/ir/financial_report/",
+    "https://www.jeol.co.jp/ir/",
+    "https://www.jeol.co.jp/ir/financial_results/",
+    "https://www.jeol.co.jp/ir/schedule.html",
+    "https://www.jeol.co.jp/ir/sec_report/",
+    "https://www.jem-net.co.jp/ir/ir-library/kessansetumeikai",
+    "https://www.jeol.co.jp/ir/integrated_reports/",
+    "https://www.jeol.co.jp/ir/annualreport/",
+    "https://www.jeol.com/ir/",
+    "https://www.buffett-code.com/company/6951/library"
+   ]
+  },
+  {
+   "query": "日本電子 会社概要 設立 株主",
+   "results": [
+    "https://www.jeol.co.jp/corporate/outline/about.html",
+    "https://www.jeol.co.jp/corporate/outline/history.html",
+    "https://shikiho.toyokeizai.net/stocks/6951/corporate",
+    "https://www.jeol.co.jp/corporate/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "https://job.mynavi.jp/28/pc/search/corp1014/outline.html",
+    "https://www.accretech.com/jp/product/measuring/usersvoice/000008.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6951",
+    "https://www.jeol.co.jp/corporate/outline/overseas_relative/",
+    "https://ja.wikipedia.org/wiki/日本電子"
+   ]
+  },
+  {
+   "query": "site:note.com 日本電子",
+   "results": [
+    "https://note.com/nicks701/n/n81afd9c3f596",
+    "https://note.com/okko_fil/n/n77069e05bd6b",
+    "https://note.com/irshukatsu/n/na70ab4780d00",
+    "https://note.com/tag/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "https://note.com/kabutabi2000/n/n4f8143a75358",
+    "https://note.com/jobhuntkeyence/n/n6cb25f07e3f7",
+    "https://note.com/jip_official",
+    "https://note.com/kabutabi2000/n/n8273b40c3146",
+    "https://note.com/tatsuya_sabato/n/n5007afdbc9fa",
+    "https://note.com/kabude/n/n111fb5905a68"
+   ]
+  },
+  {
+   "query": "site:x.com 日本電子",
+   "results": [
+    "https://x.com/JEOL_Japan",
+    "https://x.com/JEOL_Japan/highlights",
+    "https://x.com/JEOL_Japan/status/2118253957327823023",
+    "https://x.com/JEOL_Japan/status/2003337610845200520",
+    "https://x.com/JEOL_Japan/status/2104707744942928369/photo/1",
+    "https://x.com/nikkei",
+    "https://x.com/JEOL_Japan/status/2029427907517661456",
+    "https://x.com/JEOL_Japan/status/1971392423139082483",
+    "https://x.com/JEOL_Japan/status/2104739171805917657",
+    "https://x.com/jeol_japan"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 日本電子",
+   "results": [
+    "https://www.linkedin.com/company/jeol-ltd-ja",
+    "https://www.linkedin.com/company/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://www.linkedin.com/company/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E6%9D%90%E6%96%99%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://www.linkedin.com/posts/jeol-ltd_%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-solutions-for-innovation-activity-7122024416904966144-FfSh",
+    "https://jp.linkedin.com/in/takaki-ishikawa-646501157",
+    "https://jp.linkedin.com/company/jeol-ltd",
+    "https://www.linkedin.com/pulse/jeol-usa-microscopy-news-jeol-kks1e",
+    "https://www.linkedin.com/company/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E8%A8%88%E7%AE%97%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/masaaki-ubukata-0b873950"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本電子",
+   "results": [
+    "https://www.facebook.com/jeol.jp/",
+    "https://www.facebook.com/jeol.jp/videos/",
+    "https://www.facebook.com/jeol.jp/photos/1619505776860196/",
+    "https://www.facebook.com/jeol.jp/posts/1073847451426034/",
+    "https://www.facebook.com/jeol.jp/photos/1619505670193540/",
+    "https://www.facebook.com/jeol.jp/posts/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E8%A3%BDnmr%E8%A3%85%E7%BD%AE%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E9%AB%98%E6%AC%A1%E5%85%83%E5%9B%BA%E4%BD%93nmr%E3%81%AE%E6%B8%AC%E5%AE%9A%E6%B3%95%E9%96%8B%E7%99%BA%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E3%81%AE%E6%A7%8B%E9%80%A0%E8%A7%A3%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%E3%81%8Cacs-measurement-science-au%E8%AA%8C%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE/1474678601342915/",
+    "https://www.facebook.com/jeol.jp/posts/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E3%81%8C%E5%8F%82%E7%94%BB%E3%81%97%E3%81%9Fsejong-university%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%A8%E3%81%99%E3%82%8B%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E6%AD%A3%E6%A5%B5%E6%9D%90%E9%96%8B%E7%99%BA%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%85%B1%E5%90%8C%E7%A0%94%E7%A9%B6%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E6%88%90%E6%9E%9C%E3%81%8Cesience%E8%AA%8C%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC/1596255352518572/",
+    "https://www.facebook.com/jeol.jp/reels/",
+    "https://www.facebook.com/jeol.jp/posts/%E9%96%A2%E6%9D%B1%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6%E3%81%8A%E3%82%88%E3%81%B3%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E3%81%AB%E3%82%88%E3%82%8B%E5%85%B1%E5%90%8C%E7%A0%94%E7%A9%B6%E8%AB%96%E6%96%87%E3%81%8C%E5%AD%A6%E8%A1%93%E8%AA%8Cultramicroscopy%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E8%AB%96%E6%96%87%E3%81%A7%E3%81%AF%E5%88%86%E5%89%B2%E5%9E%8B%E6%A4%9C%E5%87%BA%E5%99%A8%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F-sem%E8%B5%B0%E6%9F%BB%E9%9B%BB%E5%AD%90%E9%A1%95%E5%BE%AE%E9%8F%A1-%E3%81%AB%E3%82%88%E3%82%8B%E6%96%B0/1438473928296716/",
+    "https://www.facebook.com/jeol.jp/posts/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E3%81%8C%E5%8F%82%E7%94%BB%E3%81%97%E3%81%9F%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E3%81%A8%E3%81%AE%E5%85%B1%E5%90%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E6%88%90%E6%9E%9C%E3%81%8Cjournal-of-non-crystalline-solids%E8%AA%8C%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9Fdoi-101016jj/1606202461523861/"
+   ]
+  },
+  {
+   "query": "日本電子 note 社長",
+   "results": [
+    "https://www.jeol.co.jp/corporate/outline/message.html",
+    "https://www.jeol.co.jp/corporate/outline/about.html",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.jepa.or.jp/sem/20260225/",
+    "https://www.nikkei.com/article/DGXMZO42920860W9A320C1YZ0000/",
+    "https://www.jeol.co.jp/corporate/",
+    "https://www.m-next.jp/knowledge/note/1370.html",
+    "https://the-shashi.com/tse/6951/executives/",
+    "https://open-keieisha-db.com/executives/ooi-izumi"
+   ]
+  },
+  {
+   "query": "日本電子 X 投稿",
+   "results": [
+    "https://x.com/JEOL_Japan",
+    "https://www.jeol.co.jp/",
+    "https://www.jeol.co.jp/events_seminars/webinars/2021/20210129_01_movieform.html",
+    "https://www.jeol.co.jp/products/scientific/feature_eo/",
+    "https://www.jeol.co.jp/solutions/applications/details/1700.html",
+    "https://www.facebook.com/jeol.jp/?locale=ja_JP",
+    "https://www.jeol.co.jp/corporate/",
+    "https://x.com/JEOLUSA",
+    "https://www2.tagen.tohoku.ac.jp/lab/ama/html/?p=introduce",
+    "https://x.com/jeol_japan"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部26頁・検索12回）"
+ }
+}

@@ -1,0 +1,4757 @@
+{
+ "name": "防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移",
+ "en": "Japan Ministry of Defense 3D printer additive manufacturing budget contracts",
+ "aliases": [
+  "防衛省 3Dプリンタ 予算",
+  "自衛隊 3Dプリンタ 導入",
+  "防衛装備庁 積層造形 契約",
+  "陸上自衛隊 3Dプリンター 部品"
+ ],
+ "context": "一次・防衛省・AM",
+ "kind": "market",
+ "researched_at": "2026-11-06T16:42:12.101057+00:00",
+ "evidence": {
+  "金額の推移": [
+   {
+    "quote": "この１０年で日本の防衛費は、約２倍（４兆円台より８兆円台へ）になっており、防衛産業は活況の状況だ",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和８年度予算案の概要",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度予算案においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度予算案 ～基本的な考え方～",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の国家安全保障戦略に定める「対GDP比２％水準※１」について、当初・補正予算を合わせて、前倒し",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "で、令和８年度においては、まずは現行の防衛力整備計画等に基づき、必要かつ十分な予算を確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "予算額を着実に増額し、整備計画対象経費として８兆８,０９３億円を計上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "８兆２,６０７億円を計上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "66,001億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4,962億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "70,963億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "77, 249億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "89,525億円 93,625億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1,297億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "84,748億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "90,823億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 契約ベースは、令和８年度中に着手すべき事業を積み上げ、令和８年度予算までで、防衛力整備計画事業費",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和８年度予算案 ～整備計画対象経費の進捗～",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4,961億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "82,210億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "84,332億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "94,691億円Ｒ6補正",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1,066億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特集 令和8年度 防衛関係予算について : 財務省",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 農林水産関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 国土交通省・公共事業関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 防衛関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．令和8年度防衛関係予算の全体像",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度の防衛関係予算は、令和4年（2022年）12月16日の国家安全保障会議及び閣議において決定された「防衛力整備計画」等を踏まえて編成を行った結果、全体で9兆353億円（対前年度比＋3.8％）を計上している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を除く防衛力整備計画対象経費については、8兆8,093億円（対前年度比＋3.9％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表1：防衛関係予算の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、新規契約額については、8兆8,459億円（対前年度比＋0.6％）を計上しており、このうち防衛力整備計画対象経費については、8兆2,607億円（対前年度比▲2.0％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表2：新規契約額の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表1 防衛関係予算の推移",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表2 新規契約額の推移",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２．令和8年度予算における主要事業",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度予算は、防衛力の整備等に必要な事業を着実に推進しているところ、その主な内容は以下のとおりである",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 我が国に侵攻してくる艦艇や上陸部隊等に対して、対空ミサイル等の脅威圏外から対処するスタンド・オフ防衛能力を抜本的に強化するため、極超音速誘導弾及び地上装置等の取得等（1,927億円、うち初度費1,626億円）、潜水艦発射型誘導弾の取得（160億円）、12式地対艦誘導弾能力向上型（艦発型）の取得（357億円）、JSM（空対艦ミサイル）（36億円）及びJASSM（空対地ミサイル）（17億円）の取得等を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ イージス・システム搭載艦の整備に伴い、各種試験の準備等（797億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 弾道ミサイル、巡航ミサイル、極超音速滑空兵器等の迎撃能力を強化するため、SM－3ブロックⅡA（弾道ミサイル防衛用迎撃ミサイル）（723億円）、SM－6（長距離艦対空ミサイル）（107億円）を取得",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 弾道ミサイル等への対処能力を向上させるため、ペトリオット・システムの改修（77億円、うち初度費72億円）を開始",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 警戒管制能力の強化のため、次世代JADGE（仮称）の整備（547億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 安価かつ大量のUAV・USV・UUVを活用し、これらの組み合わせによる多層的沿岸防衛体制（SHIELD）の構築（1,001億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 情報収集・警戒監視・偵察・ターゲティング機能の強化のため、UAV（広域用）の取得（111億円）及び滞空型UAV「MQ－9B（シーガーディアン）」の取得等（765億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 現在運用中のⅩバンド防衛通信衛星（きらめき1号）の後継機として、抗たん性や通信能力等が向上された次期防衛通信衛星を整備するとともに、令和7年度から製造を開始する現防衛通信衛星（きらめき2号）の後継機の打上げに向けて地上器材等の整備（882億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ サイバー攻撃等対処に係る状況把握・対処等をより迅速かつ的確に行うため、AIを活用した支援システムの整備（39億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、令和８年度概算要求においては、１，２８７億円を計上してこれ",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 無人機同時管制機能の導入に資する実証(２３億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ SHIELD構築のためのＵＡＶ・ＵＳＶ・ＵＵＶの取得(１，２８７億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "る基本方針」に基づき、令和８年度概算要求に関連事業に係る７，６５８億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 自衛官の処遇改善 ６１億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 生活・勤務環境の改善 ７，５２７億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 新たな生涯設計の確立 ２４億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４ その他 ４５億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ スタンド・オフ防衛能力 約１兆２４６億円(他分野を除くと約１兆２４６億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ １２式地対艦誘導弾能力向上型(地発型)及び地上装置等の取得(１，７９８億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ １２式地対艦誘導弾能力向上型(艦発型)の取得(３６２億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "主体": [
+   {
+    "quote": "防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切） | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こうした背景もあり、防衛省は日本AM協会などを通じて、防衛装備品の製造や運用において活用期待の高まる３Dプリンティングとその周辺技術に関する国内民間企業業態を把握するための調査を実施している",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦争に対する忌避感は健全な感覚だが、世界は平和ではないし、政府や防衛省、自衛隊はAM技術の可能性に関心を向けている",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・「防衛省次世代情報通信戦略」を策定(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省・自衛隊のサイバー業務を支える外部人材の確保(０．４億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国防に関与し、防衛省・自衛隊のサイバー業務を支える意思・能力のある",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "省外のサイバー人材による、防衛省・自衛隊のサイバー業務への支援の確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省次世代情報通信戦略に示した新たな防衛情報通信基盤(仮称)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド基盤等の整備(６７６億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各自衛隊の一元的な指揮統制を可能とする防衛省クラウドを整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド地方拠点の整備(１８１億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省外で研究されている大学等の有望な萌芽的技術のうち、防衛分野における将来の研究開発に資す",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛力の強化や社会変革につながる機能・技術を創出するため、防衛省外から採用したプログラムマネー",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 防衛省ハラスメント防止対策有識者会議の提言を踏まえた各種教育機会等の充実(１億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 「防衛省女性・平和・安全保障(ＷＰＳ)推進計画」に基づき、各種取組を実施する",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（共同要望：経済産業省、内閣府、総務省、文部科学省、農林水産省、厚生労働省、国土交通省、環境省、 復興庁）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(共同要望：内閣官房、内閣府、警察庁、こども家庭庁、総務省、法務省、外務省、文部科学省、厚生労働省、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "農林水産省、経済産業省、国土交通省、環境省)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＊1）防衛省情報システム関係経費のうちデジタル庁に計上する510億円を含む",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１０ 防衛省・自衛隊の組織編成",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊として備えるべきサイバー防衛機能の見直し、必要なサイバー要員を拡充",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省・自衛隊のサイバー業務を支える外部人材の確保(０．５億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国防に関与し、防衛省・自衛隊のサイバー業務を支える意思・能力のある省外のサイバー",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人材による、防衛省・自衛隊のサイバー業務への支援の確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド基盤等の整備(７１８億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各自衛隊の一元的な指揮統制を可能とする防衛省クラウドを整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省に対するサイバー攻撃等への対処を迅速かつ的確",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本年７月、民間で急速に進展する次世代情報通信技術の防衛省としての活用の在り方",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "示す、防衛省次世代情報通信戦略を策定",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "な指揮統制を可能とする防衛省クラウドを整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド地方拠点の整備(２０５億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省外で研究されている大学等の有望な萌芽的技術のうち、防衛分野における将来の研",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛力の強化や社会変革につながる機能・技術を創出するため、防衛省外から採用したプ",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊においては、防衛関連企業等からの提案(注)や、スタートアップ企業",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省ハラスメント防止対策有識者会議の提言を踏まえた、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「防衛省女性・平和・安全保障(WPS)推進計画」の４つの取組に基づき、WPSを強力に推進",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 取組３ 防衛省主導のＷＰＳにかかる国際会議の実施、外国政府・国際機関等が主催",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊は、フィリピンとともに、インド太平洋地域における公式な防衛担当",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "気候変動が今後与える様々な環境下において、防衛省・自衛隊に与えられた任務・役割",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（共同要望：経済産業省、内閣府、総務省、文部科学省、農林水産省、厚生労働省、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(共同要望：内閣官房、内閣府、警察庁、こども家庭庁、総務省、法務省、外務省、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 関係省庁の枠組みの下、防衛省の意見を踏まえた研究開発ニーズと関係省庁が有",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "て、防衛省は、当初2026年度からの配備を計画していたところ、2023年12月15日、2025年",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "13 防衛省「国産スタンド・オフ・ミサイルの早期整備について」（2023.12.15）<https://www.mod.go.jp/j/pr",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、トマホークについて、防衛省は、当初2026年度及び2027年度に",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "19 2023年８月19日、防衛省は、日米両国でＧＰＩの共同開発を開始することを発表した（防衛省ウェブサイト",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "め、防衛省が静止軌道間のデータ中継のための機能（光ターミナル等）を付加し、実証を行うことで技術を",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年１月、防衛省は、同省として初めて所有・運用するＸバンド防衛通信",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "器材やシステム等の整備のみならず、防衛省・自衛隊のサイバー要員を拡充すること",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ア要員と合わせて防衛省・自衛隊のサイバー要員を約２万人体制とし、将来的には、更なる体制拡充を目指",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、防衛省によると、2024年度におけるＦ－35Ａ戦闘機の機体単価について、完成機",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "41 防衛省から外務省に出向した自衛官であり、在外公館に勤務し、各国の軍・国防当局や他国の駐在武官から",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、防衛省と特別目的会社である高速マリン・トラ",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "程等の効率化の促進、③防衛省と契約関係にある企業の防衛部門及びその下請企業に対す",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "46 正式名称は「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や防衛産業を取り巻く現状等については、藤川隆明「第211回国会法律案等ＮＡＶＩ『防衛省が調達する装備",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に強化するため、防衛装備庁に「防衛イノベーション技術研究所（仮称）」を創設する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "49 防衛装備庁・商社・製造企業が連携して相手国を訪問するなど、先方の潜在的なニーズを把握して提案に向",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省ハラスメント防止対策有識者会議の提言を受け、ハラスメント相談窓口の部外委託",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "2025年12月18日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答締切は、2025年12月25日（木）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年7月5日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年9月7日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年11月1日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月19日、長野県伊那市のスワニー社で、3D Systems（3DS）の新型機「EXT Titan ペレット3Dプリンター（以下、Titan）」の国 …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年1月10日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月6日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月5日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月4日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月2日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年1月24日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年1月23日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2023年12月版】小規模なモノづくりで活躍する手が届くおすすめ3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2023年版】大型3Dプリンターの比較・選び方〜造形方式ごとの特徴や、導入時に気をつけたいこと",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2023年版】産業用3Dプリンターの造形準備ソフトウェア（スライサー）って何ができるの？どんな製品があるの？",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年版】3Dプリンターフィラメント完全ガイド｜PLA・ABS・PETG等15種類を徹底比較",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年版】光造形3Dプリンター完全ガイド｜SLA・DLP・LCD方式の違いと選び方",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和８年度予算案の概要",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7つの重視分野 抜本的強化の進捗状況（一例）(2025年1月以降)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度予算案においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2025年6月～8月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "開発完了、配備予定(2025年度中)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年10月～11月）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・トマホーク及びＪＳＭ納入予定（2025年度中）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "陸上統合試験を開始(2025年9月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ＵＡＶ(狭域用)汎用型及びＵＡＶ(中域用)機能向上型の納入(2025年3月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・輸送用ＵＡＶ(小型・陸地艦艇間)の実証試験を実施(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(先進技術協力)に関する取組)(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Xバンド防衛通信衛星「きらめき３号」の運用開始(2025年2月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・第８地対艦ミサイル連隊を湯布院駐屯地に新編(2025年3月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・航空自衛隊宇宙作戦群によるSSA※レーダーの運用開始(2025年3月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・小松基地にＦ－３５Ａを配備(2025年4月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・「宇宙領域防衛指針」を策定(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・佐賀駐屯地を開設し、Ｖ－２２(オスプレイ)を移駐(2025年7～８月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・新田原基地にＦ－３５Ｂを配備(2025年8月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・「もがみ」型護衛艦(ＦＦＭ)１２番艦の命名・進水式を実施(2025年12月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・統合作戦司令部を新設(2025年3月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・「防衛省次世代情報通信戦略」を策定(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「あおぞら」の命名・進水式を実施(2025年10月及び同年11月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・予備装備品の維持のための保管に向けた取組を開始",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2025年4月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三次元積層造形技術(3Dプリンタ)の部隊導入に向けた実証実験を伴う調査 2025/08/28-東京都 | エヌ・サーチ",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025/09/10",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025/08/28",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特集 令和8年度 防衛関係予算について : 財務省",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 農林水産関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 国土交通省・公共事業関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 防衛関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．令和8年度防衛関係予算の全体像",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度の防衛関係予算は、令和4年（2022年）12月16日の国家安全保障会議及び閣議において決定された「防衛力整備計画」等を踏まえて編成を行った結果、全体で9兆353億円（対前年度比＋3.8％）を計上している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を除く防衛力整備計画対象経費については、8兆8,093億円（対前年度比＋3.9％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表1：防衛関係予算の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、新規契約額については、8兆8,459億円（対前年度比＋0.6％）を計上しており、このうち防衛力整備計画対象経費については、8兆2,607億円（対前年度比▲2.0％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "期間・審査": [
+   {
+    "quote": "防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切） | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答締切は、2025年12月25日（木）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度予算案においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "－ 歳出ベースは、整備計画期間中のこれまでの事業の進捗状況や予算の執行状況も踏まえ、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実施に影響を与えないよう、課税期間の延長により、復興財源の総額は確実に確保する",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5次のトリセツ―FATF第5次対日相互審査で示す官民のチカラ― ―第1回：序論―",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度概算要求においても、計画期間内の防衛力抜本的強化実現の",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "力整備計画期間内の防衛力の抜本的強化を実現するため、令和8年",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "度中に着手すべき事業を積み上げるとともに、計画期間におけるこれま",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出現により、広範な無人アセットを短期間で大量に取得可能な状況が到来",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無人アセットには、従来の装備品と比べ、短期間で安価に取得可能、苛烈で危険な環境下で",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なく、修理時間の短縮や在庫の確保などの成果に主眼を置いて、一定期間包括的な契約",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "むことで、研究開発に要する期間を大幅に短縮し、将来の戦いにおいて実効的に対処する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度予算においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "－ 歳出ベースは、整備計画期間中のこれまでの事業の進捗状況や予算の執行状況も踏まえ、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実施に影響を与えないよう、課税期間の延長により、復興財源の総額は確実に確保する",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 欧米では、特に、戦時に短期間で需要が急増する装備品の重整備を、製造施設等の国による保有及び運営（いわゆるＧＯ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※１ 開発総経費の算定期間は、運用開始まで（軍用機の場合、初期作戦能力（IOC: Initial Operating Capability）の獲得まで）としている",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 予算：50億円を超えない範囲 研究期間：2024年度～2029年度",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "から、防衛装備品の情報提供に係る許可手続（申請書類に相手先を記載、審査期間）のハード",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期間のうち４年度目に当たる2026年度予算政府案が閣議決定された",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その都度契約するのではなく、修理時間の短縮や在庫の確保などの成果に主眼を置いて、一定期間包括的な",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "場面・目的": [
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "め、主として補給品等(コンテナ)の輸送に特化したＰＦＩ船舶を",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注1:本文中の青字は新規事業を表示している",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等(コンテナ)の輸送に",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【装備品等の維持整備】約２兆１，２４０億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．無人アセット防衛能力 6人 新規装備品導入を踏まえた補給整備体制の強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅳ．日米同盟の強化 9人 佐世保弾薬補給所(前畑弾薬庫)の返還に係る体制強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 南西地域等の広大な空域において戦闘機等が粘り強く戦闘を継続するために必要な空中給油・輸送機（KC－46A）（2機：877億円）を取得するとともに、南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、補給品等（コンテナ）の輸送に特化した民間船舶（2隻：110億円）を確保（PFI方式）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、維持整備に係る成果の達成に応じて対価を支払う契約方式（PBL",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 陸自PBLを活用した特別輸送ヘリコプター（EC─225LP）の維持整備（▲35億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 海自PBLを活用した練習ヘリコプター（TH－135）の維持整備（▲27億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等(コ",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅲ 主要事項注１：本文中の青字は新規事業を表示している",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(２)装備品等の維持整備 約２兆１，４７２億円(他分野を除くと約１兆７，４９２億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "装備品の維持整備業務について、必要な修理や部品の調達をその都度契約するのでは",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 輸送船舶の維持整備(１６億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ ＡＩを活用した補給品の需要予測機能の整備(１６億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "補給業務の効率化、迅速化のため、補給品の需要予測にＡＩを活用",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、維持整備に係る成果の達成に応じ",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ＰＢＬを活用した特別輸送ヘリコプター（ＥＣ－２２５ＬＰ）の維持整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ＰＢＬを活用した練習ヘリコプター（ＴＨ－１３５）の維持整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "継続するために洋上における後方支援能力を強化した新型補給艦（14,500トン、１隻：",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "38 従来の補給艦に比べ、船体が大型化し、燃料などの補給能力が強化され、サイド・ランプを装備することで",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この主な事業内容は、①サプライチェーンリスク",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "る総合的・一体的なサイバーセキュリティ対策の促進、④防衛事業からの撤退を表明して",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いる企業からの円滑な事業承継等の促進となっている47",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ほかにも、サプライチェーン調査",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の結果をデータベース化することなど（10億円）によって、サプライチェーンの現状及び",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "場の移設については1,614億円（同299億円減）が計上され、その主な内訳は、代替施設の",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "契約手続が不要になるとともに、需要予測、在庫管理を企業の裁量に委ね、国際的なサプライチェーンを活",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "め、主として補給品等(コンテナ)の輸送に特化したＰＦＩ船舶を",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注1:本文中の青字は新規事業を表示している",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等(コンテナ)の輸送に",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【装備品等の維持整備】約２兆１，２４０億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．無人アセット防衛能力 6人 新規装備品導入を踏まえた補給整備体制の強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅳ．日米同盟の強化 9人 佐世保弾薬補給所(前畑弾薬庫)の返還に係る体制強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業撤退を抑止するため政府保有・請負者運営（GOCO）の枠組みを規定しているが、GOCOを通じて、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ サプライチェーンの維持・拡大のためには、長期的な需要見通しが示されることが重要",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）経済安全保障推進法におけるサプライチェーン強靱化の取組の全体像",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表は、内閣府HP「サプライチェーン強靱化の取組（重要物資の安定的な供給の確保に関する制度）」より引用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛産業において、装備品等の製造、維持整備、研究開発等を安定的に行う上で必要な取組について、防衛省が（プ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（２）地政学的なサプライチェーン・リスクが増大する中で、重要な部素材の安定供給を確保",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 新型コロナウィルス感染症の蔓延及びウクライナ侵略、米中対立等により、サプライチェーンリスクが",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、重要物資、重要技術に関する国境措置の応酬が発生する中で、サプライチェーン上の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛装備品も例外ではなく、安定的な調達を担保するには、代替性の低い原材料・部品も含めたサプラ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 米国では、防衛関連企業に対して重要物資サプライチェーンを把握し、装備品に使用する重要物資の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ サプライチェーン上流のリスク確認には、一次サプライヤーのみならず、その先の二次、三次と確認が",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国防権限法：国防省の契約企業に対して、重要鉱物のサプライチェーンの開示を義務化",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーンの透明性を向上し、国防省が依存状況を把握するために、国防省と契約している企業に対して、 対象",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材（レアアース、タングステン、ネオジム磁石等）のサプライチェーン情報を可視化し報告する義務を課した",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 2025年6月に重要鉱物のサプライチェーンの開示の義務化：PUBL263.PS",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 米国では、防衛関連企業に対し、重要鉱物サプライチェーンの報告の義務化や、特定国がサプライチェーンに関与し",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）防衛生産基盤強化法に基づくサプライチェーン強靱化のための取組",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛生産基盤強化法に基づき、防衛省が企業に対し個別にサプライチェーン調査を実施",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• これによりサプライチェーンリスクを把握し、防衛省から「供給網強靱化」等に係る特定取組の実施を促すことが可能",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "供給網強靭化（サプライチェーン強靭化）に係る取組（イメージ）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦略技術の国内確保、研究開発基盤の強靭化、サプライチェーンの多元化、技術流出の防止といった観点から、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「非伝統的防衛プレイヤー」を含め、海外防衛サプライチェーンへの参入や海外防衛企業との連携は、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• サプライチェーン・科学技術・標準化等の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "三次元 積層造形 技術( 3Dプリンタ )の部隊導入に向けた実証実験 ... — 三次元 積層造形 技術( 3Dプリンタ )の部隊導入に向けた実証実験 ... nSearch | エヌ・サーチ https://nsearch.jp > ... > 防衛省 > 陸上自衛隊 > 中央会計隊",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "AM・3Dプリンタ": [
+   {
+    "quote": "防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切） | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業務用3Dプリンター / AM技術の情報ポータル",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その他材料3Dプリンター（21）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "参入障壁も格段に下がっており、重工業メーカー中心だった防衛産業は、ベンチャー企業や、攻撃型・偵察型ドローンや小型遠隔操作ロボット等の、AM活用分野の製品へ期待が高まっている",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こうした背景もあり、防衛省は日本AM協会などを通じて、防衛装備品の製造や運用において活用期待の高まる３Dプリンティングとその周辺技術に関する国内民間企業業態を把握するための調査を実施している",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦争に対する忌避感は健全な感覚だが、世界は平和ではないし、政府や防衛省、自衛隊はAM技術の可能性に関心を向けている",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AM製造工程の適格性を定めるISO/ASTM52920とは？ISO 9001と何がちがう？導入で何ができる？ ― テュフズードジャパン",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DIN SPEC17071など各国個別に進んできたAM分野の規格整備",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この度、国際規格ISOでもAM製造工程の適格性を定める規格ISO/ASTM 52920:2 …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国産量産車にAM製造品を正式採用されたSOLIZEの強さの秘密",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SOLIZE（ソライズ）株式会社は1990年の創業から3Dプリンターの活用に取り組み30年以上の実績を持つ、3D設計や解析にも強みを持つデジタルエンジニアリング …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月19日、長野県伊那市のスワニー社で、3D Systems（3DS）の新型機「EXT Titan ペレット3Dプリンター（以下、Titan）」の国 …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プラント建設分野で金属3Dプリンター導入検証 ― 日揮グローバル",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その他材料3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "チェコで世界初、3Dプリンターを大規模活用した教会を建設へ 約870点の部材を造形",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "群馬県の就労支援施設「ONECODE」、3Dプリンターやプログラミングを活用したIT人材育成を推進",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "セレンディクス、大分県の水力発電所に3Dプリンター製の詰所を建設 屋根を含む建屋全体を造形",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ヤマイチ・ユニハイムエステート社とセレンディクス社が3Dプリンター建築で、大阪・関西万博に運営参加！",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高出力レーザーや高出力マイクロ波といった指向性エネルギー技術の研究等を推進",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 三次元積層造形技術(３Dプリンタ)の活用に関する調査等(３億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ＤＣＳ：Damage Control Surgery",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三次元積層造形技術(3Dプリンタ)の部隊導入に向けた実証実験を伴う調査 2025/08/28-東京都 | エヌ・サーチ",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三次元積層造形技術(3Dプリンタ)の部隊導入に向けた実証実験を伴う調査",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AMRO事務局長兼CEOの視点（2）―中東紛争下での経済見通し",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PRI Open Campus ～財務総研の研究・交流活動紹介～ 55",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 装備品の可動数向上や安定的かつ計画的な取得を行うために必要となる品質の検証などを含む、3Dプリンタの活用に関する調査等を実施（3億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＊8）GCAP：Global Combat Air Programme",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 三次元積層造形技術(３Dプリンタ)の活用に関する調査等(３億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ＤＣＳ：Damage Control Surgery",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 米比主催多国間共同演習(Exercise SAMASAMA 2026)への参加",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(Exercise SAMASAMA 2024)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高出力レーザーや高出力マイクロ波といった指向性エネルギー技術の研究等を推進",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 三次元積層造形技術(３Dプリンタ)の活用に関する調査等(３億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ＤＣＳ：Damage Control Surgery",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（実用例）宇宙用3Dプリンター、ブロックチェーン統合プラットフォーム など",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "European Council, EU investments in defence: Council and Parliament agree to support faster, more flexible and coordinated investments in European defence https://www.consilium.europa.eu/en/press/press-",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "releases/2025/11/05/eu-investments-in-defence-council-and-parliament-agree-to-support-faster-more-flexible-and-coordinated-investments-in-european-defence/",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）経済安全保障重要技術育成プログラム（K Program）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 新たなサプライヤーとの取引の開始は喫緊の課題だが、高い品質基準をクリアできるか、試作品を製造",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "させるなどして確認しているが、こうした試作品の発注費用を軽減することが必要",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "21 ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM（多国間の衛星通信帯域共有枠組み）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ＧＣＡＰ（Global Combat Air Programme）は、日英伊３か国が2035年までに次期",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "54 ＤＣＳ：Damage Control Surgery",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "素材の内訳": [
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂材料（73）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属材料（29）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プラント建設分野で金属3Dプリンター導入検証 ― 日揮グローバル",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターで使える樹脂材料は？ABS樹脂やPLA樹脂など種類と特徴を解説",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂・金属以外の材料の3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【対象部材】サマリウムコバルト磁石 / ネオジム磁石 / タンタル（金属・合金）/ タングステン粉末 / タングステン重合金",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "件数の推移": [
+   {
+    "quote": "SOLIZE（ソライズ）株式会社は1990年の創業から3Dプリンターの活用に取り組み30年以上の実績を持つ、3D設計や解析にも強みを持つデジタルエンジニアリング …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月19日、長野県伊那市のスワニー社で、3D Systems（3DS）の新型機「EXT Titan ペレット3Dプリンター（以下、Titan）」の国 …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日揮グループで海外プラントの設計、調達、施工を行うEPC事業会社である日揮グローバル株式会社（英名：JGC Corpration）は、プラント建設における3Dプ …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ヤマイチ・ユニハイムエステート社とセレンディクス社が3Dプリンター建築で、大阪・関西万博に運営参加！",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 支給要件を「引き続き２０年」勤続して定年退職から「通算２０年」に緩和",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "800万件以上",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "６ 日米同盟強化及び地域社会との調和に係る施策等",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画を実施するために新たに必要となる事業に係る契約額（物件費）は、43兆5,000億円程",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6 契約ベースとは、装備品の取得や施設整備等の事業について、当該年度に結ぶ契約額の合計（一般物件費と",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "億円を主要な計数で見た内訳は、人件・糧食費が２兆2,290億円（前年度比1.5％（320億円）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歳出予算の構成比は28.9％）、物件費7のうち歳出化経費8が３兆7,928億円（同50.6％",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歳出予算の構成比は49.1％）、一般物件費9が１兆7,032億円（同9.6％",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "使途別構成比は、人件・糧食費が28.9％（２兆2,290億円）、隊員の教育訓練や艦船・航空",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "35 フィンランドのPatria社製である",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人件費等に係る経費（11億円）に加え、大学等における革新的・萌芽的な技術についての",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "49 防衛装備庁・商社・製造企業が連携して相手国を訪問するなど、先方の潜在的なニーズを把握して提案に向",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "お、自衛隊の発足後間もない昭和30年代は自衛隊を取り巻く社会的環境が厳しかったこともあり、定員を充",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 支給要件を「引き続き２０年」勤続して定年退職から「通算２０年」に緩和",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "て、企業が1社単独で担うことは容易ではない",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "F-35：U.S. Government Accountability Office Boeing787：市場調査企業INCEPTONE社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Boeing707：市場調査企業The Geography of Transport Systems社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Boeing777：市場調査企業ResearchGate社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官が主要防衛企業１５社のトップに対し「政府として国防予算の削減に取り組むこと」「防衛産業は将来的には供給",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当初５１社あったプライム企業が５社になるなど、防衛産業の再編統合が急速に進められた",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アビオ開発と産業システム開発の2社に分社化して存続",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１０のノンコア事業を分離（Loral社の業務含む）⇒Ｌ－３コミュニケーションズとして独立",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 『第７期科学技術・イノベーション基本計画』の答申素案にて、「デュアルユース技術の研究開発及び社",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "41 防衛力の強化や社会変革につながる機能・技術を創出するため、防衛省外から採用したプログラムマネー",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "49 金額は契約ベースだが、ア自衛官の処遇改善、イ生活・勤務環境の改善には手当の人件費が含まれる",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "るため、各種取組52を実施することで、国民の保護や国際社会の平和と安定に貢献する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "米軍従業員に対する社会保険料(健康保険、厚生年金保険等)の事業主負担分等の負担(286億円)である",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "防衛省（Japan Ministry of Defense） - Facebook#陸上自衛隊 は、#防衛力の抜本的強化 の一環として整備能力を強化す...令和9年度概算要求では、5年以内に防衛力を変革し、抑... - 防衛省（J...本日、令和6年度補正予算案が閣議決定されました。防衛... - 防衛省（...防衛省（Japan - \\11月28日、令和7年度補正予算案が閣議決定されまし...3DP id.arts - 防衛省は、オーストラリアの3DプリンタメーカーSPEE3D...陸上自衛隊 Japan Ground Self-Defense Force | Shinjuku-ku Tokyo 防衛省（Japan Ministry of Defense）. 222,140 followers · 44,353 talking about this. 防衛省・自衛隊の公式Facebook",
+    "url": "https://www.facebook.com/mod.japn/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "#陸上自衛隊 は、#防衛力の抜本的強化 の一環として整備能力を強化す...令和9年度概算要求では、5年以内に防衛力を変革し、抑... - 防衛省（J...本日、令和6年度補正予算案が閣議決定されました。防衛... - 防衛省（...防衛省（Japan - \\11月28日、令和7年度補正予算案が閣議決定されまし...3DP id.arts - 防衛省は、オーストラリアの3DプリンタメーカーSPEE3D...陸上自衛隊 Japan Ground Self-Defense Force | Shinjuku-ku Tokyo Aug 9, 2024 · 部品等の補給が難しい活動地域でも、3Dプリンターを使用することで、装備品の整備に必要な部品を現地で取得可能となります。 土浦駐屯地では #XSPEE3D （ #SPEE3D... Aug 31, 2026 · 令和9年度概算要求では、5年以内に防衛",
+    "url": "https://www.facebook.com/jgsdf.fp/videos/陸上自衛隊-は防衛力の抜本的強化-の一環として整備能力を強化すべく３ｄプリンター-の導入に向けた取組を進めています部品等の補給が難しい活動地域でも３ｄプリンター/1030915528478654/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo07_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2023/yosan_20230328.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/gaisan/bouei.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.clearing.mod.go.jp/hakusho_data/2025/pdf/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/seifuan2026/19.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://defensegraph.com/programs/jp/programs/program-3d-printing-research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/industries-and-applications/3d-printing-industries/government/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pivotam.com/used-3d-printers/how-the-ndaa-is-forcing-defense-contractors-to-replace-chinese-often-bambu-3d-printers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://warontherocks.com/cogs-of-war/the-additive-manufacturing-mirage-in-defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/mod.japn/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jgsdf.fp/videos/陸上自衛隊-は防衛力の抜本的強化-の一環として整備能力を強化すべく３ｄプリンター-の導入に向けた取組を進めています部品等の補給が難しい活動地域でも３ｄプリンター/1030915528478654/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移 推移",
+   "results": [
+    "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo07_01.pdf",
+    "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1335/",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/2023/yosan_20230328.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "https://www.mod.go.jp/j/budget/index.html"
+   ]
+  },
+  {
+   "query": "防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移 年度別",
+   "results": [
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo07_01.pdf",
+    "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/2023/yosan_20230328.pdf",
+    "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "https://digital-supporter.net/mirai-ai/gaisan/bouei.html",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "https://www.mod.go.jp/j/budget/index.html"
+   ]
+  },
+  {
+   "query": "防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移 件数 pdf",
+   "results": [
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo07_01.pdf",
+    "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/2023/yosan_20230328.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "https://www.mod.go.jp/j/budget/index.html"
+   ]
+  },
+  {
+   "query": "Japan Ministry of Defense 3D printer additive manufacturing budget contracts",
+   "results": [
+    "https://www.stratasys.com/en/industries-and-applications/3d-printing-industries/government/",
+    "https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "https://pivotam.com/used-3d-printers/how-the-ndaa-is-forcing-defense-contractors-to-replace-chinese-often-bambu-3d-printers/",
+    "https://warontherocks.com/cogs-of-war/the-additive-manufacturing-mirage-in-defense/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.trade.gov/market-intelligence/japan-3d-printing-market",
+    "https://www.ic3dprinters.com/government-activity/",
+    "https://www.youtube.com/watch?v=9FpEWIDM_NM",
+    "https://acquisitiongateway.gov/success-stories-center/resources/20702",
+    "https://3dprint.com/303335/japan-ground-self-defense-force-buys-spee3d-metal-3d-printers/"
+   ]
+  },
+  {
+   "query": "site:note.com 防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移",
+   "results": [
+    "https://note.com/ocaml/n/ne144fb47885f",
+    "https://note.com/ocaml/n/n2c027478b941",
+    "https://note.com/ocaml/n/n43eae8cc0bec",
+    "https://note.com/ocaml/n/nb4d8473484bb",
+    "https://note.com/dakudhigura/n/nd6ecd7896d07",
+    "https://note.com/yo4shi80/n/n06bbcc93a9ca",
+    "https://note.com/masahisa_sato/n/n7a0754304957",
+    "https://note.com/adabana_sinsyo/n/n133e3db7ef13",
+    "https://note.com/ai_issa/n/nbc6ca52d8651",
+    "https://note.com/mimir_38/n/n0f9cb0bed7b3"
+   ]
+  },
+  {
+   "query": "site:x.com 防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移",
+   "results": [
+    "https://x.com/ModJapan_jp",
+    "https://x.com/mod_kitakanDB/status/1598119693088423942",
+    "https://x.com/ModJapan_jp/status/2094417681286086745",
+    "https://x.com/coCoco69494006/status/1719646164591767705",
+    "https://x.com/TORNADO_P107/status/2080994580179390600",
+    "https://x.com/iw_toshiki/status/2052984426041090360",
+    "https://x.com/ModJapan_jp/status/1994296958068863189"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移",
+   "results": [
+    "https://jp.linkedin.com/pulse/additive-manufacturings-arrival-main-stage-quest-global-i8u6f?tl=ja",
+    "https://jp.linkedin.com/pulse/航空宇宙防衛分野における3dプリンティングと積層造形-market-overview-analyzing-trends-yqp0e",
+    "https://jp.linkedin.com/pulse/航空宇宙防衛分野における3dプリンティングと積層造形-market-size-expansion-2026年から2033年までの109のcagrを伴う課題販売量およびシェアの分析-lqm3e",
+    "https://jp.linkedin.com/pulse/インテリジェンスおよび防衛コミュニティにおける3dマッピングとモデリングの市場動向および市場成長見通し2-7505652573094416384-ayywf",
+    "https://jp.linkedin.com/pulse/navigating-additive-manufacturing-landscape-potential-dr-yogi-g43le?tl=ja",
+    "https://jp.linkedin.com/pulse/from-prototype-product-business-case-additive-serial-naveed-iqbal-hyhef?tl=ja",
+    "https://www.linkedin.com/posts/satoshi-matsuie-ab3b772b_ded-additivemanufacturing-metalam-activity-7490445537817694208-Nymr"
+   ]
+  },
+  {
+   "query": "site:facebook.com 防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移",
+   "results": [
+    "https://www.facebook.com/mod.japn/",
+    "https://www.facebook.com/jgsdf.fp/videos/陸上自衛隊-は防衛力の抜本的強化-の一環として整備能力を強化すべく３ｄプリンター-の導入に向けた取組を進めています部品等の補給が難しい活動地域でも３ｄプリンター/1030915528478654/",
+    "https://www.facebook.com/mod.japn/posts/令和9年度概算要求では5年以内に防衛力を変革し抑止力対処力を大幅に強化することに向け新しい戦い方への対応持続的な対応能力防衛力の基盤の3つの項目の下9つの柱を重/1558112296354832/",
+    "https://www.facebook.com/mod.japn/posts/本日令和6年度補正予算案が閣議決定されました防衛省は①自衛隊の活動基盤や災害への対処能力の強化等②自衛隊等の安全保障環境の変化への的確な対応に必要な緊要性の高い/1000311995468201/",
+    "https://www.facebook.com/3dp.idarts/posts/防衛省はオーストラリアの3dプリンタメーカーspee3dと提携し陸上自衛隊へ大型金属3dプリントシステムを導入するhttpsidartscojp3dpjgdsf/705886191575412/",
+    "https://www.facebook.com/mod.japn/photos/11月28日令和7年度補正予算案が閣議決定されました防衛省は特に緊急を要する以下の事業のため8472億円を計上しています①自衛隊の活動基盤や災害への対処能力の強/1306412758191455/",
+    "https://www.facebook.com/jgsdf.fp/"
+   ]
+  },
+  {
+   "query": "防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移 note 社長",
+   "results": [
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo07_01.pdf",
+    "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "https://www.mof.go.jp/public_relations/finance/202404/202404f.html",
+    "https://note.com/dsw2047/n/n5f70f0ebfa69",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "https://note.com/tatsuya_sabato/n/n8d391a9e3845",
+    "https://3dprinter.co.jp/case/4224/",
+    "https://www.mod.go.jp/j/budget/index.html"
+   ]
+  },
+  {
+   "query": "防衛省・自衛隊の3Dプリンタ・積層造形の予算と契約の推移 X 投稿",
+   "results": [
+    "https://x.com/JGSDF_pr/status/1821856536773456365",
+    "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "https://www.spee3d.com/ja/%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E9%98%B2%E8%A1%9B%E3%81%AE%E6%9E%B6%E3%81%91%E6%A9%8B-spee3ds%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%8C/",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "https://idarts.co.jp/3dp/jgdsf-spee3d/?srsltid=AYCX9vJ96suvt4Xjh-xamDODeE7OGgI_3l0Goh9C9GPm8dYnOBGFnYSt",
+    "https://www.facebook.com/jgsdf.fp/posts/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A-%E3%81%AF%E9%98%B2%E8%A1%9B%E5%8A%9B%E3%81%AE%E6%8A%9C%E6%9C%AC%E7%9A%84%E5%BC%B7%E5%8C%96-%E3%81%AE%E4%B8%80%E7%92%B0%E3%81%A8%E3%81%97%E3%81%A6%E6%95%B4%E5%82%99%E8%83%BD%E5%8A%9B%E3%82%92%E5%BC%B7%E5%8C%96%E3%81%99%E3%81%B9%E3%81%8F%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%8F%96%E7%B5%84%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E9%83%A8%E5%93%81%E7%AD%89%E3%81%AE%E8%A3%9C%E7%B5%A6%E3%81%8C%E9%9B%A3%E3%81%97%E3%81%84%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9F%9F%E3%81%A7%E3%82%82%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/879045307578325/",
+    "https://3dprinter.co.jp/case/4224/",
+    "https://www.dreamnews.jp/press/0000362233",
+    "https://www.mod.go.jp/j/budget/index.html"
+   ]
+  },
+  {
+   "query": "Japan Ministry of Defense 3D printer additive manufacturing budget contracts site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/paulperera_analysis-of-us-military-budget-shows-increased-activity-7407877007230869505-owb_",
+    "https://www.linkedin.com/posts/ampulse-daily_link-solution-selected-for-south-koreas-activity-7471389852580646912-cLII",
+    "https://in.linkedin.com/in/varmaefesto3dmetalprinting",
+    "https://www.linkedin.com/in/terry-wohlers-6b3291a",
+    "https://de.linkedin.com/in/jacobrindler",
+    "https://uk.linkedin.com/in/danjohns1",
+    "https://uk.linkedin.com/in/pierre-lin-31741646",
+    "https://www.linkedin.com/posts/machinist-in_hmt-limited-signs-mou-with-rosatom-additive-activity-7440789035859677184-bp5o",
+    "https://www.linkedin.com/posts/themachinemaker_infinite-series-by-intech-additive-metal-activity-7427709783207624705-gt-e",
+    "https://www.linkedin.com/company/3yourmind"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "金額の推移": [
+   {
+    "quote": "この１０年で日本の防衛費は、約２倍（４兆円台より８兆円台へ）になっており、防衛産業は活況の状況だ",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和８年度予算案の概要",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度予算案においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度予算案 ～基本的な考え方～",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の国家安全保障戦略に定める「対GDP比２％水準※１」について、当初・補正予算を合わせて、前倒し",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "で、令和８年度においては、まずは現行の防衛力整備計画等に基づき、必要かつ十分な予算を確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "予算額を着実に増額し、整備計画対象経費として８兆８,０９３億円を計上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "８兆２,６０７億円を計上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "66,001億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4,962億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "70,963億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "77, 249億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "89,525億円 93,625億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1,297億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "84,748億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "90,823億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 契約ベースは、令和８年度中に着手すべき事業を積み上げ、令和８年度予算までで、防衛力整備計画事業費",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和８年度予算案 ～整備計画対象経費の進捗～",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4,961億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "82,210億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "84,332億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "94,691億円Ｒ6補正",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1,066億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特集 令和8年度 防衛関係予算について : 財務省",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 農林水産関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 国土交通省・公共事業関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 防衛関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．令和8年度防衛関係予算の全体像",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度の防衛関係予算は、令和4年（2022年）12月16日の国家安全保障会議及び閣議において決定された「防衛力整備計画」等を踏まえて編成を行った結果、全体で9兆353億円（対前年度比＋3.8％）を計上している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を除く防衛力整備計画対象経費については、8兆8,093億円（対前年度比＋3.9％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表1：防衛関係予算の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、新規契約額については、8兆8,459億円（対前年度比＋0.6％）を計上しており、このうち防衛力整備計画対象経費については、8兆2,607億円（対前年度比▲2.0％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表2：新規契約額の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表1 防衛関係予算の推移",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表2 新規契約額の推移",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２．令和8年度予算における主要事業",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度予算は、防衛力の整備等に必要な事業を着実に推進しているところ、その主な内容は以下のとおりである",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 我が国に侵攻してくる艦艇や上陸部隊等に対して、対空ミサイル等の脅威圏外から対処するスタンド・オフ防衛能力を抜本的に強化するため、極超音速誘導弾及び地上装置等の取得等（1,927億円、うち初度費1,626億円）、潜水艦発射型誘導弾の取得（160億円）、12式地対艦誘導弾能力向上型（艦発型）の取得（357億円）、JSM（空対艦ミサイル）（36億円）及びJASSM（空対地ミサイル）（17億円）の取得等を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ イージス・システム搭載艦の整備に伴い、各種試験の準備等（797億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 弾道ミサイル、巡航ミサイル、極超音速滑空兵器等の迎撃能力を強化するため、SM－3ブロックⅡA（弾道ミサイル防衛用迎撃ミサイル）（723億円）、SM－6（長距離艦対空ミサイル）（107億円）を取得",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 弾道ミサイル等への対処能力を向上させるため、ペトリオット・システムの改修（77億円、うち初度費72億円）を開始",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 警戒管制能力の強化のため、次世代JADGE（仮称）の整備（547億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 安価かつ大量のUAV・USV・UUVを活用し、これらの組み合わせによる多層的沿岸防衛体制（SHIELD）の構築（1,001億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 情報収集・警戒監視・偵察・ターゲティング機能の強化のため、UAV（広域用）の取得（111億円）及び滞空型UAV「MQ－9B（シーガーディアン）」の取得等（765億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 現在運用中のⅩバンド防衛通信衛星（きらめき1号）の後継機として、抗たん性や通信能力等が向上された次期防衛通信衛星を整備するとともに、令和7年度から製造を開始する現防衛通信衛星（きらめき2号）の後継機の打上げに向けて地上器材等の整備（882億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ サイバー攻撃等対処に係る状況把握・対処等をより迅速かつ的確に行うため、AIを活用した支援システムの整備（39億円）を実施",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、令和８年度概算要求においては、１，２８７億円を計上してこれ",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 無人機同時管制機能の導入に資する実証(２３億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ SHIELD構築のためのＵＡＶ・ＵＳＶ・ＵＵＶの取得(１，２８７億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "る基本方針」に基づき、令和８年度概算要求に関連事業に係る７，６５８億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ 自衛官の処遇改善 ６１億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "２ 生活・勤務環境の改善 ７，５２７億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３ 新たな生涯設計の確立 ２４億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "４ その他 ４５億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１ スタンド・オフ防衛能力 約１兆２４６億円(他分野を除くと約１兆２４６億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ １２式地対艦誘導弾能力向上型(地発型)及び地上装置等の取得(１，７９８億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ １２式地対艦誘導弾能力向上型(艦発型)の取得(３６２億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "主体": [
+   {
+    "quote": "防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切） | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こうした背景もあり、防衛省は日本AM協会などを通じて、防衛装備品の製造や運用において活用期待の高まる３Dプリンティングとその周辺技術に関する国内民間企業業態を把握するための調査を実施している",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦争に対する忌避感は健全な感覚だが、世界は平和ではないし、政府や防衛省、自衛隊はAM技術の可能性に関心を向けている",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・「防衛省次世代情報通信戦略」を策定(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省・自衛隊のサイバー業務を支える外部人材の確保(０．４億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国防に関与し、防衛省・自衛隊のサイバー業務を支える意思・能力のある",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "省外のサイバー人材による、防衛省・自衛隊のサイバー業務への支援の確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省次世代情報通信戦略に示した新たな防衛情報通信基盤(仮称)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド基盤等の整備(６７６億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各自衛隊の一元的な指揮統制を可能とする防衛省クラウドを整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド地方拠点の整備(１８１億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省外で研究されている大学等の有望な萌芽的技術のうち、防衛分野における将来の研究開発に資す",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛力の強化や社会変革につながる機能・技術を創出するため、防衛省外から採用したプログラムマネー",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 防衛省ハラスメント防止対策有識者会議の提言を踏まえた各種教育機会等の充実(１億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 「防衛省女性・平和・安全保障(ＷＰＳ)推進計画」に基づき、各種取組を実施する",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（共同要望：経済産業省、内閣府、総務省、文部科学省、農林水産省、厚生労働省、国土交通省、環境省、 復興庁）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(共同要望：内閣官房、内閣府、警察庁、こども家庭庁、総務省、法務省、外務省、文部科学省、厚生労働省、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "農林水産省、経済産業省、国土交通省、環境省)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＊1）防衛省情報システム関係経費のうちデジタル庁に計上する510億円を含む",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１０ 防衛省・自衛隊の組織編成",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊として備えるべきサイバー防衛機能の見直し、必要なサイバー要員を拡充",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省・自衛隊のサイバー業務を支える外部人材の確保(０．５億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国防に関与し、防衛省・自衛隊のサイバー業務を支える意思・能力のある省外のサイバー",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人材による、防衛省・自衛隊のサイバー業務への支援の確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド基盤等の整備(７１８億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "各自衛隊の一元的な指揮統制を可能とする防衛省クラウドを整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省に対するサイバー攻撃等への対処を迅速かつ的確",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本年７月、民間で急速に進展する次世代情報通信技術の防衛省としての活用の在り方",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "示す、防衛省次世代情報通信戦略を策定",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "な指揮統制を可能とする防衛省クラウドを整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省クラウド地方拠点の整備(２０５億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省外で研究されている大学等の有望な萌芽的技術のうち、防衛分野における将来の研",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛力の強化や社会変革につながる機能・技術を創出するため、防衛省外から採用したプ",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊においては、防衛関連企業等からの提案(注)や、スタートアップ企業",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 防衛省ハラスメント防止対策有識者会議の提言を踏まえた、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「防衛省女性・平和・安全保障(WPS)推進計画」の４つの取組に基づき、WPSを強力に推進",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 取組３ 防衛省主導のＷＰＳにかかる国際会議の実施、外国政府・国際機関等が主催",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊は、フィリピンとともに、インド太平洋地域における公式な防衛担当",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "気候変動が今後与える様々な環境下において、防衛省・自衛隊に与えられた任務・役割",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（共同要望：経済産業省、内閣府、総務省、文部科学省、農林水産省、厚生労働省、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(共同要望：内閣官房、内閣府、警察庁、こども家庭庁、総務省、法務省、外務省、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 関係省庁の枠組みの下、防衛省の意見を踏まえた研究開発ニーズと関係省庁が有",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "て、防衛省は、当初2026年度からの配備を計画していたところ、2023年12月15日、2025年",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "13 防衛省「国産スタンド・オフ・ミサイルの早期整備について」（2023.12.15）<https://www.mod.go.jp/j/pr",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、トマホークについて、防衛省は、当初2026年度及び2027年度に",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "19 2023年８月19日、防衛省は、日米両国でＧＰＩの共同開発を開始することを発表した（防衛省ウェブサイト",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "め、防衛省が静止軌道間のデータ中継のための機能（光ターミナル等）を付加し、実証を行うことで技術を",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2017年１月、防衛省は、同省として初めて所有・運用するＸバンド防衛通信",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "器材やシステム等の整備のみならず、防衛省・自衛隊のサイバー要員を拡充すること",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ア要員と合わせて防衛省・自衛隊のサイバー要員を約２万人体制とし、将来的には、更なる体制拡充を目指",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、防衛省によると、2024年度におけるＦ－35Ａ戦闘機の機体単価について、完成機",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "41 防衛省から外務省に出向した自衛官であり、在外公館に勤務し、各国の軍・国防当局や他国の駐在武官から",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、防衛省と特別目的会社である高速マリン・トラ",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "程等の効率化の促進、③防衛省と契約関係にある企業の防衛部門及びその下請企業に対す",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "46 正式名称は「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "や防衛産業を取り巻く現状等については、藤川隆明「第211回国会法律案等ＮＡＶＩ『防衛省が調達する装備",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に強化するため、防衛装備庁に「防衛イノベーション技術研究所（仮称）」を創設する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "49 防衛装備庁・商社・製造企業が連携して相手国を訪問するなど、先方の潜在的なニーズを把握して提案に向",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省ハラスメント防止対策有識者会議の提言を受け、ハラスメント相談窓口の部外委託",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "2025年12月18日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答締切は、2025年12月25日（木）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年7月5日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年9月7日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年11月1日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月19日、長野県伊那市のスワニー社で、3D Systems（3DS）の新型機「EXT Titan ペレット3Dプリンター（以下、Titan）」の国 …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年1月10日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月6日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月5日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月4日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月2日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年1月24日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年1月23日",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2023年12月版】小規模なモノづくりで活躍する手が届くおすすめ3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2023年版】大型3Dプリンターの比較・選び方〜造形方式ごとの特徴や、導入時に気をつけたいこと",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2023年版】産業用3Dプリンターの造形準備ソフトウェア（スライサー）って何ができるの？どんな製品があるの？",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年版】3Dプリンターフィラメント完全ガイド｜PLA・ABS・PETG等15種類を徹底比較",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年版】光造形3Dプリンター完全ガイド｜SLA・DLP・LCD方式の違いと選び方",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和８年度予算案の概要",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7つの重視分野 抜本的強化の進捗状況（一例）(2025年1月以降)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度予算案においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2025年6月～8月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "開発完了、配備予定(2025年度中)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2025年10月～11月）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・トマホーク及びＪＳＭ納入予定（2025年度中）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "陸上統合試験を開始(2025年9月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ＵＡＶ(狭域用)汎用型及びＵＡＶ(中域用)機能向上型の納入(2025年3月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・輸送用ＵＡＶ(小型・陸地艦艇間)の実証試験を実施(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(先進技術協力)に関する取組)(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・Xバンド防衛通信衛星「きらめき３号」の運用開始(2025年2月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・第８地対艦ミサイル連隊を湯布院駐屯地に新編(2025年3月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・航空自衛隊宇宙作戦群によるSSA※レーダーの運用開始(2025年3月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・小松基地にＦ－３５Ａを配備(2025年4月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・「宇宙領域防衛指針」を策定(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・佐賀駐屯地を開設し、Ｖ－２２(オスプレイ)を移駐(2025年7～８月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・新田原基地にＦ－３５Ｂを配備(2025年8月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・「もがみ」型護衛艦(ＦＦＭ)１２番艦の命名・進水式を実施(2025年12月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・統合作戦司令部を新設(2025年3月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・「防衛省次世代情報通信戦略」を策定(2025年7月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「あおぞら」の命名・進水式を実施(2025年10月及び同年11月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・予備装備品の維持のための保管に向けた取組を開始",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2025年4月)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三次元積層造形技術(3Dプリンタ)の部隊導入に向けた実証実験を伴う調査 2025/08/28-東京都 | エヌ・サーチ",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025/09/10",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025/08/28",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特集 令和8年度 防衛関係予算について : 財務省",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 農林水産関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 国土交通省・公共事業関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 防衛関係予算について",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１．令和8年度防衛関係予算の全体像",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度の防衛関係予算は、令和4年（2022年）12月16日の国家安全保障会議及び閣議において決定された「防衛力整備計画」等を踏まえて編成を行った結果、全体で9兆353億円（対前年度比＋3.8％）を計上している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を除く防衛力整備計画対象経費については、8兆8,093億円（対前年度比＋3.9％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（図表1：防衛関係予算の推移）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、新規契約額については、8兆8,459億円（対前年度比＋0.6％）を計上しており、このうち防衛力整備計画対象経費については、8兆2,607億円（対前年度比▲2.0％）を措置している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "期間・審査": [
+   {
+    "quote": "防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切） | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回答締切は、2025年12月25日（木）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度予算案においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "－ 歳出ベースは、整備計画期間中のこれまでの事業の進捗状況や予算の執行状況も踏まえ、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実施に影響を与えないよう、課税期間の延長により、復興財源の総額は確実に確保する",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5次のトリセツ―FATF第5次対日相互審査で示す官民のチカラ― ―第1回：序論―",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度概算要求においても、計画期間内の防衛力抜本的強化実現の",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "力整備計画期間内の防衛力の抜本的強化を実現するため、令和8年",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "度中に着手すべき事業を積み上げるとともに、計画期間におけるこれま",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出現により、広範な無人アセットを短期間で大量に取得可能な状況が到来",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無人アセットには、従来の装備品と比べ、短期間で安価に取得可能、苛烈で危険な環境下で",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なく、修理時間の短縮や在庫の確保などの成果に主眼を置いて、一定期間包括的な契約",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "むことで、研究開発に要する期間を大幅に短縮し、将来の戦いにおいて実効的に対処する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 令和８年度予算においても、計画期間内の防衛力抜本的強化実現のため、令和８年度中に着手すべき",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "－ 歳出ベースは、整備計画期間中のこれまでの事業の進捗状況や予算の執行状況も踏まえ、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "実施に影響を与えないよう、課税期間の延長により、復興財源の総額は確実に確保する",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 欧米では、特に、戦時に短期間で需要が急増する装備品の重整備を、製造施設等の国による保有及び運営（いわゆるＧＯ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※１ 開発総経費の算定期間は、運用開始まで（軍用機の場合、初期作戦能力（IOC: Initial Operating Capability）の獲得まで）としている",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 予算：50億円を超えない範囲 研究期間：2024年度～2029年度",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "から、防衛装備品の情報提供に係る許可手続（申請書類に相手先を記載、審査期間）のハード",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期間のうち４年度目に当たる2026年度予算政府案が閣議決定された",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その都度契約するのではなく、修理時間の短縮や在庫の確保などの成果に主眼を置いて、一定期間包括的な",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "場面・目的": [
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "め、主として補給品等(コンテナ)の輸送に特化したＰＦＩ船舶を",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注1:本文中の青字は新規事業を表示している",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等(コンテナ)の輸送に",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【装備品等の維持整備】約２兆１，２４０億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．無人アセット防衛能力 6人 新規装備品導入を踏まえた補給整備体制の強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅳ．日米同盟の強化 9人 佐世保弾薬補給所(前畑弾薬庫)の返還に係る体制強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 南西地域等の広大な空域において戦闘機等が粘り強く戦闘を継続するために必要な空中給油・輸送機（KC－46A）（2機：877億円）を取得するとともに、南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、補給品等（コンテナ）の輸送に特化した民間船舶（2隻：110億円）を確保（PFI方式）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、維持整備に係る成果の達成に応じて対価を支払う契約方式（PBL",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 陸自PBLを活用した特別輸送ヘリコプター（EC─225LP）の維持整備（▲35億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 海自PBLを活用した練習ヘリコプター（TH－135）の維持整備（▲27億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等(コ",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅲ 主要事項注１：本文中の青字は新規事業を表示している",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(２)装備品等の維持整備 約２兆１，４７２億円(他分野を除くと約１兆７，４９２億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "装備品の維持整備業務について、必要な修理や部品の調達をその都度契約するのでは",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 輸送船舶の維持整備(１６億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ ＡＩを活用した補給品の需要予測機能の整備(１６億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "補給業務の効率化、迅速化のため、補給品の需要予測にＡＩを活用",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、維持整備に係る成果の達成に応じ",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ＰＢＬを活用した特別輸送ヘリコプター（ＥＣ－２２５ＬＰ）の維持整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ＰＢＬを活用した練習ヘリコプター（ＴＨ－１３５）の維持整備",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "継続するために洋上における後方支援能力を強化した新型補給艦（14,500トン、１隻：",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "38 従来の補給艦に比べ、船体が大型化し、燃料などの補給能力が強化され、サイド・ランプを装備することで",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この主な事業内容は、①サプライチェーンリスク",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "る総合的・一体的なサイバーセキュリティ対策の促進、④防衛事業からの撤退を表明して",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いる企業からの円滑な事業承継等の促進となっている47",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ほかにも、サプライチェーン調査",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の結果をデータベース化することなど（10億円）によって、サプライチェーンの現状及び",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "場の移設については1,614億円（同299億円減）が計上され、その主な内訳は、代替施設の",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "契約手続が不要になるとともに、需要予測、在庫管理を企業の裁量に委ね、国際的なサプライチェーンを活",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "め、主として補給品等(コンテナ)の輸送に特化したＰＦＩ船舶を",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注1:本文中の青字は新規事業を表示している",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "南西地域の島嶼部へ部隊等を輸送する海上輸送力を補完するため、主として補給品等(コンテナ)の輸送に",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【装備品等の維持整備】約２兆１，２４０億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３．無人アセット防衛能力 6人 新規装備品導入を踏まえた補給整備体制の強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ⅳ．日米同盟の強化 9人 佐世保弾薬補給所(前畑弾薬庫)の返還に係る体制強化",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業撤退を抑止するため政府保有・請負者運営（GOCO）の枠組みを規定しているが、GOCOを通じて、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ サプライチェーンの維持・拡大のためには、長期的な需要見通しが示されることが重要",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）経済安全保障推進法におけるサプライチェーン強靱化の取組の全体像",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表は、内閣府HP「サプライチェーン強靱化の取組（重要物資の安定的な供給の確保に関する制度）」より引用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛産業において、装備品等の製造、維持整備、研究開発等を安定的に行う上で必要な取組について、防衛省が（プ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（２）地政学的なサプライチェーン・リスクが増大する中で、重要な部素材の安定供給を確保",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 新型コロナウィルス感染症の蔓延及びウクライナ侵略、米中対立等により、サプライチェーンリスクが",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、重要物資、重要技術に関する国境措置の応酬が発生する中で、サプライチェーン上の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛装備品も例外ではなく、安定的な調達を担保するには、代替性の低い原材料・部品も含めたサプラ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 米国では、防衛関連企業に対して重要物資サプライチェーンを把握し、装備品に使用する重要物資の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ サプライチェーン上流のリスク確認には、一次サプライヤーのみならず、その先の二次、三次と確認が",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国防権限法：国防省の契約企業に対して、重要鉱物のサプライチェーンの開示を義務化",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーンの透明性を向上し、国防省が依存状況を把握するために、国防省と契約している企業に対して、 対象",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材（レアアース、タングステン、ネオジム磁石等）のサプライチェーン情報を可視化し報告する義務を課した",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 2025年6月に重要鉱物のサプライチェーンの開示の義務化：PUBL263.PS",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 米国では、防衛関連企業に対し、重要鉱物サプライチェーンの報告の義務化や、特定国がサプライチェーンに関与し",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）防衛生産基盤強化法に基づくサプライチェーン強靱化のための取組",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛生産基盤強化法に基づき、防衛省が企業に対し個別にサプライチェーン調査を実施",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• これによりサプライチェーンリスクを把握し、防衛省から「供給網強靱化」等に係る特定取組の実施を促すことが可能",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "供給網強靭化（サプライチェーン強靭化）に係る取組（イメージ）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦略技術の国内確保、研究開発基盤の強靭化、サプライチェーンの多元化、技術流出の防止といった観点から、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「非伝統的防衛プレイヤー」を含め、海外防衛サプライチェーンへの参入や海外防衛企業との連携は、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• サプライチェーン・科学技術・標準化等の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "三次元 積層造形 技術( 3Dプリンタ )の部隊導入に向けた実証実験 ... — 三次元 積層造形 技術( 3Dプリンタ )の部隊導入に向けた実証実験 ... nSearch | エヌ・サーチ https://nsearch.jp > ... > 防衛省 > 陸上自衛隊 > 中央会計隊",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "AM・3Dプリンタ": [
+   {
+    "quote": "防衛省、陸上自衛隊による委託先調査が実施中（12月25日締切） | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業務用3Dプリンター / AM技術の情報ポータル",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その他材料3Dプリンター（21）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "参入障壁も格段に下がっており、重工業メーカー中心だった防衛産業は、ベンチャー企業や、攻撃型・偵察型ドローンや小型遠隔操作ロボット等の、AM活用分野の製品へ期待が高まっている",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こうした背景もあり、防衛省は日本AM協会などを通じて、防衛装備品の製造や運用において活用期待の高まる３Dプリンティングとその周辺技術に関する国内民間企業業態を把握するための調査を実施している",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦争に対する忌避感は健全な感覚だが、世界は平和ではないし、政府や防衛省、自衛隊はAM技術の可能性に関心を向けている",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AM製造工程の適格性を定めるISO/ASTM52920とは？ISO 9001と何がちがう？導入で何ができる？ ― テュフズードジャパン",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DIN SPEC17071など各国個別に進んできたAM分野の規格整備",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この度、国際規格ISOでもAM製造工程の適格性を定める規格ISO/ASTM 52920:2 …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国産量産車にAM製造品を正式採用されたSOLIZEの強さの秘密",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SOLIZE（ソライズ）株式会社は1990年の創業から3Dプリンターの活用に取り組み30年以上の実績を持つ、3D設計や解析にも強みを持つデジタルエンジニアリング …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月19日、長野県伊那市のスワニー社で、3D Systems（3DS）の新型機「EXT Titan ペレット3Dプリンター（以下、Titan）」の国 …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プラント建設分野で金属3Dプリンター導入検証 ― 日揮グローバル",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その他材料3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "チェコで世界初、3Dプリンターを大規模活用した教会を建設へ 約870点の部材を造形",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "群馬県の就労支援施設「ONECODE」、3Dプリンターやプログラミングを活用したIT人材育成を推進",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "セレンディクス、大分県の水力発電所に3Dプリンター製の詰所を建設 屋根を含む建屋全体を造形",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ヤマイチ・ユニハイムエステート社とセレンディクス社が3Dプリンター建築で、大阪・関西万博に運営参加！",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高出力レーザーや高出力マイクロ波といった指向性エネルギー技術の研究等を推進",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 三次元積層造形技術(３Dプリンタ)の活用に関する調査等(３億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ＤＣＳ：Damage Control Surgery",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三次元積層造形技術(3Dプリンタ)の部隊導入に向けた実証実験を伴う調査 2025/08/28-東京都 | エヌ・サーチ",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "三次元積層造形技術(3Dプリンタ)の部隊導入に向けた実証実験を伴う調査",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AMRO事務局長兼CEOの視点（2）―中東紛争下での経済見通し",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PRI Open Campus ～財務総研の研究・交流活動紹介～ 55",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 装備品の可動数向上や安定的かつ計画的な取得を行うために必要となる品質の検証などを含む、3Dプリンタの活用に関する調査等を実施（3億円）",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "＊8）GCAP：Global Combat Air Programme",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 三次元積層造形技術(３Dプリンタ)の活用に関する調査等(３億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ＤＣＳ：Damage Control Surgery",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 米比主催多国間共同演習(Exercise SAMASAMA 2026)への参加",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(Exercise SAMASAMA 2024)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "高出力レーザーや高出力マイクロ波といった指向性エネルギー技術の研究等を推進",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "○ 三次元積層造形技術(３Dプリンタ)の活用に関する調査等(３億円)",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ＤＣＳ：Damage Control Surgery",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（実用例）宇宙用3Dプリンター、ブロックチェーン統合プラットフォーム など",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "European Council, EU investments in defence: Council and Parliament agree to support faster, more flexible and coordinated investments in European defence https://www.consilium.europa.eu/en/press/press-",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "releases/2025/11/05/eu-investments-in-defence-council-and-parliament-agree-to-support-faster-more-flexible-and-coordinated-investments-in-european-defence/",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）経済安全保障重要技術育成プログラム（K Program）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 新たなサプライヤーとの取引の開始は喫緊の課題だが、高い品質基準をクリアできるか、試作品を製造",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "させるなどして確認しているが、こうした試作品の発注費用を軽減することが必要",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "21 ＰＡＴＳ：Protected Anti-Jam Tactical SATCOM（多国間の衛星通信帯域共有枠組み）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ＧＣＡＰ（Global Combat Air Programme）は、日英伊３か国が2035年までに次期",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "54 ＤＣＳ：Damage Control Surgery",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "素材の内訳": [
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂材料（73）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属材料（29）",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プラント建設分野で金属3Dプリンター導入検証 ― 日揮グローバル",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターで使える樹脂材料は？ABS樹脂やPLA樹脂など種類と特徴を解説",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂・金属以外の材料の3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "樹脂3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【対象部材】サマリウムコバルト磁石 / ネオジム磁石 / タンタル（金属・合金）/ タングステン粉末 / タングステン重合金",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "件数の推移": [
+   {
+    "quote": "SOLIZE（ソライズ）株式会社は1990年の創業から3Dプリンターの活用に取り組み30年以上の実績を持つ、3D設計や解析にも強みを持つデジタルエンジニアリング …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月19日、長野県伊那市のスワニー社で、3D Systems（3DS）の新型機「EXT Titan ペレット3Dプリンター（以下、Titan）」の国 …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日揮グループで海外プラントの設計、調達、施工を行うEPC事業会社である日揮グローバル株式会社（英名：JGC Corpration）は、プラント建設における3Dプ …",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ヤマイチ・ユニハイムエステート社とセレンディクス社が3Dプリンター建築で、大阪・関西万博に運営参加！",
+    "url": "https://news.sharelab.jp/interviews/mod-go-jp-research-251225/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 支給要件を「引き続き２０年」勤続して定年退職から「通算２０年」に緩和",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20251226_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "800万件以上",
+    "url": "https://nsearch.jp/nyusatsu_ankens/68b00d9ded1ed6d1dff0c30f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年度 社会保障関係予算のポイント",
+    "url": "https://www.mof.go.jp/public_relations/finance/202605/202605g.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "６ 日米同盟強化及び地域社会との調和に係る施策等",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20250829.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画を実施するために新たに必要となる事業に係る契約額（物件費）は、43兆5,000億円程",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6 契約ベースとは、装備品の取得や施設整備等の事業について、当該年度に結ぶ契約額の合計（一般物件費と",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "億円を主要な計数で見た内訳は、人件・糧食費が２兆2,290億円（前年度比1.5％（320億円）",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歳出予算の構成比は28.9％）、物件費7のうち歳出化経費8が３兆7,928億円（同50.6％",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "歳出予算の構成比は49.1％）、一般物件費9が１兆7,032億円（同9.6％",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "使途別構成比は、人件・糧食費が28.9％（２兆2,290億円）、隊員の教育訓練や艦船・航空",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "35 フィンランドのPatria社製である",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人件費等に係る経費（11億円）に加え、大学等における革新的・萌芽的な技術についての",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "49 防衛装備庁・商社・製造企業が連携して相手国を訪問するなど、先方の潜在的なニーズを把握して提案に向",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "お、自衛隊の発足後間もない昭和30年代は自衛隊を取り巻く社会的環境が厳しかったこともあり、定員を充",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2024pdf/20240207083.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 支給要件を「引き続き２０年」勤続して定年退職から「通算２０年」に緩和",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2026/yosan_20260408_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "て、企業が1社単独で担うことは容易ではない",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "F-35：U.S. Government Accountability Office Boeing787：市場調査企業INCEPTONE社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Boeing707：市場調査企業The Geography of Transport Systems社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Boeing777：市場調査企業ResearchGate社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官が主要防衛企業１５社のトップに対し「政府として国防予算の削減に取り組むこと」「防衛産業は将来的には供給",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当初５１社あったプライム企業が５社になるなど、防衛産業の再編統合が急速に進められた",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アビオ開発と産業システム開発の2社に分社化して存続",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１０のノンコア事業を分離（Loral社の業務含む）⇒Ｌ－３コミュニケーションズとして独立",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 『第７期科学技術・イノベーション基本計画』の答申素案にて、「デュアルユース技術の研究開発及び社",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "41 防衛力の強化や社会変革につながる機能・技術を創出するため、防衛省外から採用したプログラムマネー",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "49 金額は契約ベースだが、ア自衛官の処遇改善、イ生活・勤務環境の改善には手当の人件費が含まれる",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "るため、各種取組52を実施することで、国民の保護や国際社会の平和と安定に貢献する",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "米軍従業員に対する社会保険料(健康保険、厚生年金保険等)の事業主負担分等の負担(286億円)である",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2026pdf/20260303057.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "防衛省（Japan Ministry of Defense） - Facebook#陸上自衛隊 は、#防衛力の抜本的強化 の一環として整備能力を強化す...令和9年度概算要求では、5年以内に防衛力を変革し、抑... - 防衛省（J...本日、令和6年度補正予算案が閣議決定されました。防衛... - 防衛省（...防衛省（Japan - \\11月28日、令和7年度補正予算案が閣議決定されまし...3DP id.arts - 防衛省は、オーストラリアの3DプリンタメーカーSPEE3D...陸上自衛隊 Japan Ground Self-Defense Force | Shinjuku-ku Tokyo 防衛省（Japan Ministry of Defense）. 222,140 followers · 44,353 talking about this. 防衛省・自衛隊の公式Facebook",
+    "url": "https://www.facebook.com/mod.japn/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "#陸上自衛隊 は、#防衛力の抜本的強化 の一環として整備能力を強化す...令和9年度概算要求では、5年以内に防衛力を変革し、抑... - 防衛省（J...本日、令和6年度補正予算案が閣議決定されました。防衛... - 防衛省（...防衛省（Japan - \\11月28日、令和7年度補正予算案が閣議決定されまし...3DP id.arts - 防衛省は、オーストラリアの3DプリンタメーカーSPEE3D...陸上自衛隊 Japan Ground Self-Defense Force | Shinjuku-ku Tokyo Aug 9, 2024 · 部品等の補給が難しい活動地域でも、3Dプリンターを使用することで、装備品の整備に必要な部品を現地で取得可能となります。 土浦駐屯地では #XSPEE3D （ #SPEE3D... Aug 31, 2026 · 令和9年度概算要求では、5年以内に防衛",
+    "url": "https://www.facebook.com/jgsdf.fp/videos/陸上自衛隊-は防衛力の抜本的強化-の一環として整備能力を強化すべく３ｄプリンター-の導入に向けた取組を進めています部品等の補給が難しい活動地域でも３ｄプリンター/1030915528478654/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T16:42:12.101057+00:00"
+}

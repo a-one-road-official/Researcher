@@ -1,0 +1,5397 @@
+{
+ "name": "防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年）",
+ "en": "Japan Defense Production Base Strengthening Act certified plans number and amount by year",
+ "aliases": [
+  "防衛生産基盤強化法 認定 件数",
+  "基盤強化 認定 製造工程効率化",
+  "防衛生産基盤強化法 認定 累計",
+  "サプライチェーン強靱化 認定 防衛"
+ ],
+ "context": "一次・防衛装備庁・場面①",
+ "kind": "market",
+ "researched_at": "2026-11-06T16:40:00.679657+00:00",
+ "evidence": {
+  "主体": [
+   {
+    "quote": "防衛省・自衛隊｜令和8年版防衛白書｜1 防衛生産基盤強化法と基本方針",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛産業は、防衛省・自衛隊とともに国防を担う重要なパートナーである",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これまで防衛産業は、主な販路が防衛省に限られることや利益率の低さなどから、成長が見込めないと考えられてきた",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省は、認定後に事業者と特定取組にかかる契約を直接締結し、当該契約の定めに従って遅滞なく対価を支払うこととしている",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのほか認定された計画、申請方法や相談窓口については、防衛装備庁ホームページに掲載されている",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前述の助成金の交付とこれに必要な基金を管理し、また、装備移転が防衛省の政策目的に適合したものとして事業者による装備移転が適切な管理のもとで円滑に行われるようにするために、2024年2月、防衛大臣が指定装備移転支援法人を指定した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "装備品等の製造等にあたって、より質の高い装備品等を安定的に調達するために、防衛省は先端技術などの装備品等に含まれる秘密情報を事業者に提供している",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上記（1）と（2）の各種取組では防衛省による指定装備品等の安定的な調達ができないと判断される場合には、当該指定装備品等の製造等をする施設や設備を防衛省が取得することができる",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取得した製造施設などは、事業者が指定装備品等の製造等のために防衛省から委託を受けてその管理を行う",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4 防衛大臣が指定する自衛隊の任務遂行に不可欠な装備品等であって、その製造等を行う特定の装備品製造等事業者による製造等が停止された場合に、防衛省による適確な調達に支障を生じるものをいう",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛生産基盤強化法の正式名称は「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」（令和5年法律第54号）です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊は装備品を国内の企業から調達していますが、2022年12月に策定された国家防衛戦略は、こうした防衛生産・技術基盤を「いわば防衛力そのもの」と位置づけています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁 装備政策課 防衛生産基盤強化法室",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本の防衛産業は、防衛省・自衛隊という限られた顧客に向けた少量生産が中心で、収益性の低さが課題とされてきました",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特定取組の4類型と取組例（防衛装備庁の制度紹介資料）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "脆弱性診断、多要素認証、従業員教育、物理的なセキュリティ対策（防衛省の基準を満たす必要あり）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁の制度紹介資料（令和7年11月版）は、この制度は補助金ではなく「補助率」という考え方もないと説明しています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "認定後、事業者は防衛装備庁と「特定取組契約」を結び、計画で認められた経費が契約にもとづいて支払われます",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "申請前に防衛装備庁の事前相談窓口との相談が必須",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他の手段では装備品の安定的な調達が難しい場合に、防衛省が製造施設や設備を取得し、事業者に管理を委託できる仕組みです",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省が事業者に提供する秘密情報を「装備品等秘密」として指定し、取り扱う人に情報管理の徹底を求める仕組みです",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁の資料によると、指定は2024年4月1日から始まっています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "またサイバーセキュリティについては、防衛省が令和4年3月に米国国防省の基準（NIST SP800-171）と同水準の管理策を盛り込んだ基準を整備しており、特定取組でもこの基準を満たすことが求められます",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁の資料によると補助金ではなく、認定を受けた計画にもとづいて防衛装備庁と契約を結び、認められた経費が支払われる仕組みです",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "衆議院「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律案」審議経過（",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省「令和8年版防衛白書」防衛生産基盤強化法関連ページ（",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省「令和7年版防衛白書 1 防衛生産基盤強化法と基本方針」（",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁「装備品等の安定的な製造等の確保のための事業計画の認定を受けることで、必要な経費が国から支払われる制度のご紹介」（令和7年11月版）（",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁「防衛生産基盤強化法に基づく施策等について」（",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事は、防衛省などの公的機関の公表資料や報道をもとに運営者が作成し、出典で確認できた内容だけを掲載しています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁（ATLA）とは？研究開発・調達の司令塔を解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛関連株・防衛関連企業とは？防衛装備庁の契約額上位20社と見るべきポイントを解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省の調達制度とは？入札・随意契約の割合、契約額上位企業、FMSの課題をわかりやすく解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表は、内閣府HP「サプライチェーン強靱化の取組（重要物資の安定的な供給の確保に関する制度）」より引用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛産業において、装備品等の製造、維持整備、研究開発等を安定的に行う上で必要な取組について、防衛省が（プ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出典：経済産業省「経済安全保障に関する産業・技術基盤強化のための有識者会議」第8回 事務局資料",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛生産基盤強化法に基づき、防衛省が企業に対し個別にサプライチェーン調査を実施",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• これによりサプライチェーンリスクを把握し、防衛省から「供給網強靱化」等に係る特定取組の実施を促すことが可能",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 防衛省、防衛産業、スタートアップ、アカデミアが行うべきことの役割分担をすべき",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 諸外国を見習って、防衛省がアカデミアの研究力を強化する取組を行っていくことが重要",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 技術開発のスピードが速いスタートアップにとって、防衛省の契約サイクルは遅く、技術の陳腐化や経",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 防衛省の誰に相談すればいいのか、どのようなニーズがあるのかわからないので提案ができない",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• DoD (国防総省) 海軍研究所 など",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• DoD：10 リンカーン研究所（MIT運営） など",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "15の研究所・センター（DoDのみ）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 大学・スタートアップ・DoDの橋渡しを担う人材・連携・アクセラレーションのプログラム群を運用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 民間企業、スタートアップ、DoD関係者を巻き込んだピッチ・カンファレンスの実施や国際共同イベ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• また、デュアルユース技術には、既存の防衛装備品の機能・性能を向上させるもので、単体で防衛省が",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 現防衛力整備計画のもとで防衛省の研究開発費は大幅に増額",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "我が国の防衛予算に占める研究開発費は、防衛省「我が国の防衛と予算－防衛力抜本的強化",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 令和３年度補正予算として計上された2,500億円のうち1,250億円を経済産業省（NEDO）が執行（残",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 令和４年度補正予算において、2,500億円（NEDO分は1,250億円）を追加措置",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 2025年10月に、装備庁・経産省とNATO",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 同ミッションと連携し、経産省と共に、JETROと現地貿易",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ そのため、事前に防衛装備庁による技術情報の安全保障上の懸念を確認する技術的な機微性の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓防衛省/装備庁からの講演、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 非伝統的防衛プレイヤー（非防衛大企業、アカデミア）等において、防衛省・自衛隊向けの装備品への",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こうした状況を踏まえ、防衛省「防衛力の抜本的強化に関する有識者会議」は、防衛力抜本的強化の7本柱の推進と戦略装備の導入による抑止力・対処力の一層の強化等を提言した",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "防衛省・自衛隊｜令和8年版防衛白書｜1 防衛生産基盤強化法と基本方針",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "が2023年に施行された",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この基本方針では、防衛生産基盤強化法に定められた施策が適切に行われるために必要な事項を定めるとともに、2014年に策定した「防衛生産・技術基盤戦略」に代わり、今後の防衛生産・技術基盤の維持・強化の方向性を新たに示した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度は、計164件について認定を行ったところである",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度は、計164件について認定を行ったところであるが、このうち、124件は、中小企業による取組が認定されている",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前述の助成金の交付とこれに必要な基金を管理し、また、装備移転が防衛省の政策目的に適合したものとして事業者による装備移転が適切な管理のもとで円滑に行われるようにするために、2024年2月、防衛大臣が指定装備移転支援法人を指定した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年3月、防衛装備移転円滑化基金を造成し、これまでに計1,600億円を同法人に対して交付した（2026年6月1日時点）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年6月20日",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月5日",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛生産基盤強化法（令和5年法律第54号）は2023年6月7日に成立し、同年10月1日に施行されました",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画の認定は2024年度121件（約234億円）、2025年度164件（うち中小企業124件）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備移転円滑化基金への交付は2026年6月1日時点で計1,600億円です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛生産基盤強化法の正式名称は「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」（令和5年法律第54号）です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "衆議院の審議経過によると、2023年5月9日に衆議院、同年6月7日に参議院で可決されて成立し、6月14日に公布されました",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "施行は2023年10月1日です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年版防衛白書は、この法律の目的を、防衛産業が高度な装備品等を生産し、高い可動率を確保できる能力を維持・強化していくために必要な施策を講じることだと説明しています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊は装備品を国内の企業から調達していますが、2022年12月に策定された国家防衛戦略は、こうした防衛生産・技術基盤を「いわば防衛力そのもの」と位置づけています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和5年法律第54号",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年6月7日（参議院可決）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年6月14日",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月1日",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月に防衛大臣が公表",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年12月の国家安全保障戦略などの戦略3文書は、防衛生産・技術基盤を防衛力の重要な要素と位置づけ、その強化を打ち出しました",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁の制度紹介資料（令和7年11月版）は、この制度は補助金ではなく「補助率」という考え方もないと説明しています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和7年版防衛白書",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法施行〜2025年3月末（累計）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年版防衛白書",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "認定件数は増加傾向にあり、2025年度は認定の約4分の3が中小企業によるものでした",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年2月",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 民生事業と比較して魅力が低下していた防衛事業も、防衛生産基盤強化法の施行や調達制度の改善に",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ライムのみならず、サプライヤーに対しても）直接的に経費を支払う制度を創設",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ 令和8年1月7日時点の実績",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（※）令和８年度予算では約３０４億円を要求中",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）米中の国境措置の動向（2025年11月20日時点）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸2024年5月に設定された「特定国に依存した重要鉱物の装備品への利用禁止」について、2027年1月に対象プロセスを",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 2024年5月に国防省調達規則条項改正：Federal Register : Defense Federal Acquisition Regulation Supplement",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 2025年6月に重要鉱物のサプライチェーンの開示の義務化：PUBL263.PS",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 2027年1月に国防省調達規則による規制強化：Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten.",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※１ 開発総経費の算定期間は、運用開始まで（軍用機の場合、初期作戦能力（IOC: Initial Operating Capability）の獲得まで）としている",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※２ 各機種の開発総経費は、開発時期の物価水準の相違を踏まえ、2024年の物価水準に統一している",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "用は、2024年のレート（156円/US＄）により、円に換算している",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成2年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成7年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成12年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成17年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成22年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成27年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（令和2年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 空軍：1 戦略自立研究所 (ハワード大学等 9大学コンソ) ※2023年設立",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※FY2021実績：500万～8.3億ドル",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "FY2024",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Source: Comparison of Major Contract Types Chart | www.dau.edu (2026/1/9参照)",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経団連：防衛生産・技術基盤の抜本的強化に向けて (2026-05-19)",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年5月19",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年12月に策定された安全保障関連三文書",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を示し、防衛生産基盤強化法の施行により、供給網強靭化等に向けた法的枠組みが整備されるなど、防衛分野の事業環境は改善しつつある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、高市首相は施政方針演説（2026年2月）において、三文書の前倒し改定や、防衛装備移転に関するいわゆる5類型の見直しに向けた検討を加速する旨を表明し、2026年4月には、防衛装備移転三原則および運用指針が改正された",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額の推移": [
+   {
+    "quote": "2024年3月、防衛装備移転円滑化基金を造成し、これまでに計1,600億円を同法人に対して交付した（2026年6月1日時点）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画の認定は2024年度121件（約234億円）、2025年度164件（うち中小企業124件）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備移転円滑化基金への交付は2026年6月1日時点で計1,600億円です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛用途と民生用途を兼ねる設備は、防衛用途の割合分のみを支払う（例：1億円の設備で防衛用途60%なら6,000万円）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約234億円",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約332億円",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "認定件数は増加傾向にあり、2025年度は認定の約4分の3が中小企業によるものでした",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "指定装備移転支援法人への交付額 計1,200億円",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "基金からの交付 計1,600億円（令和8年版防衛白書）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1年以下の拘禁刑または50万円以下の罰金",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2年以下の拘禁刑または100万円以下の罰金",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 認定1件あたりは約2億円",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度の認定は121件で約234億円、1件あたり約1.9億円です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法施行から2025年3月末までの累計は157件・約332億円で、1件あたり約2.1億円になります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 移転の基金は認定累計の約5倍",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備移転円滑化基金からの交付は、2026年6月1日時点で計1,600億円です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特定取組の認定の累計（約332億円、2025年3月末時点）の約5倍にあたります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "装備品等秘密の故意の漏えいの罰則は「1年以下の拘禁刑または50万円以下の罰金」です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "で紹介している重要経済安保情報の漏えい（業務で扱う人の場合、5年以下の拘禁刑または500万円以下の罰金）と比べると、軽い罰則になっています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年6月1日時点で計1,600億円が交付されています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（※）令和８年度予算では約３０４億円を要求中",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "費：約3,600億円 → F-35開発費：約12兆円）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• １９８５年から１９９８年にかけて、国防予算が約３割減少する中、１９９３年、アスピン国防長官、ペリー国防副長",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官が主要防衛企業１５社のトップに対し「政府として国防予算の削減に取り組むこと」「防衛産業は将来的には供給",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• UARC1機関の政府予算(中央値)は約4,800万ドル",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※Ｒ８は予算案の金額 24",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「元年」予算－ 令和５年度予算の概要（令和5年3月28日掲載）」より引用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2,201億円",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7年間分の予算",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（210億円）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 令和３年度補正予算として計上された2,500億円のうち1,250億円を経済産業省（NEDO）が執行（残",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "りの1250億円は文部科学省（JST）が執行）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 令和４年度補正予算において、2,500億円（NEDO分は1,250億円）を追加措置",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 予算：50億円を超えない範囲 研究期間：2024年度～2029年度",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 予算：80 億円を超えない範囲／5年",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "パプアニューギニア 災害対処・道路構築用重機の供与 4億円",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スリランカ 無人航空機（UAV）供与 5億円",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "マレーシア 潜水作業支援船及び停戦監視用機材の供与 31億円",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（以下、三文書）において、国は、防衛生産・技術基盤を「防衛力そのもの」と位置づけ、抜本的強化の方向性と約43兆円予算を確保する計画",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(1)予見性向上と経営基盤強化に向けた「戦略的な予算・制度・施策」の確立",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2)需要増加を見据えた「国内生産・官民連携体制」の構築",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）予見性向上と経営基盤強化に向けた「戦略的な予算・制度・施策」の確立",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）需要増加を見据えた「国内生産・官民連携体制」の構築",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和６年度予算の概要",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和６年度予算 －基本的考え方－",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期間内の防衛力抜本的強化実現に向け、令和６年度において必要かつ十分な予算を確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "－ 歳出ベースは、令和５年度に大きく増加した契約額を着実に執行するための予算を確保し、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "整備計画対象経費として７兆７,２４９億円を計上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の整備に早期に着手できるよう、整備計画対象経費として９兆３,６２５億円を計上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（今年度と合わせると、計画の実施に必要な契約額４３．５兆円のうち、既計上分は４２％）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和６年度予算 －配分－",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "区 分 分 野 ５年間の総事業費 令和５年度事業費 令和６年度事業費",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スタンド・オフ防衛能力 約 ５兆円 １兆４，１３０億円 ７，１２７億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合防空ミサイル防衛能力 約 ３兆円 ９，８２９億円 １兆２，２８４億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無人アセット防衛能力 約 １兆円 １，７９１億円 １，１４６億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "宇宙 約 １兆円 １，５２９億円 ９８４億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サイバー 約 １兆円 ２，３６３億円 ２，０２６億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "車両・艦船・航空機等 約 ６兆円 １兆１，７６３億円 １兆３，３９１億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "指揮統制・情報関連機能 約 １兆円 ３，０５３億円 ４，２４８億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "場面・目的": [
+   {
+    "quote": "わが国の防衛産業は装備品等のライフサイクルの各段階（研究、開発、生産、維持・整備、補給、用途廃止など）を担っており、装備品等と防衛産業は一体不可分である",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、近年、経済安全保障の観点から各国による技術の囲い込みが進み、また、新型コロナウイルスの感染拡大などでサプライチェーンの途絶なども生じた",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①経費面においても継続的な取得や維持整備が可能であること、②わが国に比較優位がある分野を育成し、劣後する分野や欠落する分野を必要に応じ補完すること、③防衛生産・技術基盤を国内に維持し、強化していく必要があること",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "イ 有事の際の持続的な対応能力の維持と平素からの運用、維持整備にかかる改善能力の確保の観点から不可欠なもの（例：弾薬、艦船）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安全保障環境が加速度的に変化するなかにおいて、質・量の両面でわが国の防衛を全うできる装備品等を、継続的に開発・生産・維持整備できる能力を構築することが不可欠である",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "持続可能な対応能力や「新しい戦い方」を踏まえたわが国独自の「新しい守り方」を支えるため、開発・生産・維持整備の各能力を確保することが求められる",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、需要の急増にも対応可能な生産基盤・維持整備基盤を構築するとともに、サプライチェーンの強靱化を図る",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）特定取組（サプライチェーン強靱化、製造工程効率化、サイバーセキュリティ強化、事業承継など）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、①外国政府が輸出を規制して原材料などの輸入が困難となるリスク、②老朽化した設備が更新されず生産性や技術水準が低迷し納入遅延や要求性能未達となるリスク、③工程においてマルウェアやスパイウェアが混入するといった懸念部品（悪意あるソフトウェアが組み込まれた部品）のリスク、④サイバー攻撃によって性能などの情報が流出するリスク、⑤事業継続が困難となって防衛事業から撤退するリスクなどがあげられる",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このようなリスクに効果的に対応し、プライム企業とサプライヤーから構成されるサプライチェーンが効果的・効率的に機能し、指定装備品等",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代替素材、部品等の研究開発 など",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーン強靱化については、輸入部材の国産化などに関する調査や生産が停止される部品の代替品選定のための調査などに関する計画を認定した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①特定取組（供給網強靱化・製造工程効率化・サイバーセキュリティ強化・事業承継等）への経費支払い、②装備移転の円滑化（基金）、③製造施設の国による取得、④装備品等秘密の情報管理",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "部品や素材を供給する中小企業が防衛事業から撤退すると、代わりの供給元が見つからず、装備品の生産や修理が滞るおそれがあります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛産業全体の構造的な課題（利益率、企業撤退など）は、当サイトの「日本の防衛産業の課題とは？」で詳しく解説しています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸入部材の国産化、在庫の積み増し、代替部品の研究、調査",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "撤退する企業の製造事業の引き継ぎ、設備の整備、ライセンス取得、技能者の育成",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーンの末端にいる中小企業の支援が、制度の重要な役割になっていることがわかります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーン調査で知り得た秘密の漏えい・盗用",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本の防衛産業の課題とは？企業撤退・利益率・防衛生産基盤強化法・5類型撤廃をわかりやすく解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業撤退を抑止するため政府保有・請負者運営（GOCO）の枠組みを規定しているが、GOCOを通じて、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ サプライチェーンの維持・拡大のためには、長期的な需要見通しが示されることが重要",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）経済安全保障推進法におけるサプライチェーン強靱化の取組の全体像",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表は、内閣府HP「サプライチェーン強靱化の取組（重要物資の安定的な供給の確保に関する制度）」より引用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛産業において、装備品等の製造、維持整備、研究開発等を安定的に行う上で必要な取組について、防衛省が（プ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（２）地政学的なサプライチェーン・リスクが増大する中で、重要な部素材の安定供給を確保",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 新型コロナウィルス感染症の蔓延及びウクライナ侵略、米中対立等により、サプライチェーンリスクが",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、重要物資、重要技術に関する国境措置の応酬が発生する中で、サプライチェーン上の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛装備品も例外ではなく、安定的な調達を担保するには、代替性の低い原材料・部品も含めたサプラ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 米国では、防衛関連企業に対して重要物資サプライチェーンを把握し、装備品に使用する重要物資の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ サプライチェーン上流のリスク確認には、一次サプライヤーのみならず、その先の二次、三次と確認が",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国防権限法：国防省の契約企業に対して、重要鉱物のサプライチェーンの開示を義務化",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーンの透明性を向上し、国防省が依存状況を把握するために、国防省と契約している企業に対して、 対象",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材（レアアース、タングステン、ネオジム磁石等）のサプライチェーン情報を可視化し報告する義務を課した",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 2025年6月に重要鉱物のサプライチェーンの開示の義務化：PUBL263.PS",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 米国では、防衛関連企業に対し、重要鉱物サプライチェーンの報告の義務化や、特定国がサプライチェーンに関与し",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）防衛生産基盤強化法に基づくサプライチェーン強靱化のための取組",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛生産基盤強化法に基づき、防衛省が企業に対し個別にサプライチェーン調査を実施",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• これによりサプライチェーンリスクを把握し、防衛省から「供給網強靱化」等に係る特定取組の実施を促すことが可能",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "供給網強靭化（サプライチェーン強靭化）に係る取組（イメージ）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦略技術の国内確保、研究開発基盤の強靭化、サプライチェーンの多元化、技術流出の防止といった観点から、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「非伝統的防衛プレイヤー」を含め、海外防衛サプライチェーンへの参入や海外防衛企業との連携は、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• サプライチェーン・科学技術・標準化等の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "論点４：サプライチェーン上・中流の基盤の強化",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、サイバーセキュリティ対策や事業継続（BCP）を含むレジリエンスの強化、国内外のサプライヤーとの協創による裾野拡大とサプライチェーンの維持・強化に努める",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府としては、防衛装備品の調達のみならず、国内の防衛関連企業の生産・技術基盤の強化を通じて持続的な発展・競争力強化を促す視点を持ち、防衛需要で培われた先端技術等を、社会課題解決に活用する一方、民生技術が防衛装備品を高度化させ防衛政策に貢献するといった「防衛と民生の技術・需要の好循環」を実現すべきである、そのためにも、安全保障の観点から、国産を中心とする防衛装備品の継続的な調達を前提とし、研究開発から試作、量産、配備、維持・整備、能力更新に至る戦略の時間軸を明確化し、国内の防衛生産・技術基盤とサプライチェーンを維持・強化することが求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "足もとでは、国際情勢の一層の緊迫化、物価・為替の変動、サプライチェーン制約等が重なり、防衛事業の収益性悪化や資金繰りへの懸念が強まっている",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今後の国家防衛戦略・防衛力整備計画の改定や防衛産業に関する政府の対応方針の策定にあたっては、防衛装備品の長期的なライフサイクル（構想から研究・開発、試作、生産、維持・整備、補給、用途廃止など）と調達品目・数量、長期的に企業に求める対応能力を可能な限り明示し、必要かつ十分な予算を複数年度で継続的かつ安定的に確保・拡大することが肝要である",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、装備品のライフサイクルが長期化する中で、構成部品の生産終了等により、補用品の確保が困難となるリスクや、国内外のサプライヤーが当該事業から撤退し、知的財産・ノウハウを含む生産基盤そのものが消失する懸念もある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "円滑な事業承継に必要な資金を提供する仕組みを整備するとともに、モニタリングの結果、生産困難が見込まれる場合には、政府・自衛隊は、代替品の確保や仕様変更、再設計等を適時に受け入れるなどにより製品の維持を図るべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あわせて、サプライチェーン全体を維持するため、二次・三次等のサプライヤーの管理のあり方を含めて検討する必要がある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、中堅・中小企業や海外サプライヤーを含むサプライチェーンは、特定企業・特定地域への集中や、サイバー攻撃・自然災害・地政学リスク等への脆弱性を抱えているとともに、事業撤退等に伴う供給途絶リスクも依然存在している",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あわせて、海外依存度が高い部材・機能等については、代替品の認定や調達の複線化、国内サプライヤーの育成、輸入調達上の課題（ブラックボックス開示）等の是正、国による必要物資の備蓄等の供給安定確保、従来国内では実施しえなかった装備品の性能試験等のための国内における環境整備を進める必要がある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "わが国周辺の安全保障環境が一層厳しさを増す中、懸念される緊急事態とその長期化、それに伴う需要急増局面を想定し、まずは、平時における生産余力の確保と運用効率・稼働率の向上を図ったうえで、長期的な弾薬・ミサイル・無人アセット・センサー等の大量消費への対応と、それらを支える防衛産業の生産・補給・整備能力を確保する重要性が指摘されている",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そして、国民生活および防衛基盤にかかる重要インフラ等の防護（関連工場の抗堪化・分散化の検討）、兵站・補給の確保、サイバー対策、情報戦への対応など、攻撃リスクを低減する防護手段の強化や、操業継続を担保するため、国家・社会全体を巻き込んだ総合的な防衛体制の構築に向けた検討が求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、各装備品（含むデュアルユース品）の製造等で使用する鉱物等を特定し、サプライチェーンの可視化と脆弱性評価、官民での情報共有を行うとともに、安定供給確保の取り組みを進める必要がある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同盟国・同志国との連携のもとで、代替供給源の確保や共同探鉱・鉱山開発等の調達先の多角化、国内での回収・再利用、レアアースフリー材料の研究・技術開発、海洋資源開発、戦略的備蓄を中長期的に促進すべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同時に、中堅・中小企業を含むサプライチェーン全体のサイバーセキュリティ対策の強化を支援するとともに、他分野でみられるように緊急事態を想定した関係者による官民共同での机上演習を実施することも一案と考えられる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、装備品は長期運用を前提とするため、調達終了後も補給部品の供給を続ける必要があるが、調達頻度・数量が限定的な場合には、設備更新投資の回収が困難となり、設備維持が企業負担に偏りやすい",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府は、補給段階における設備の維持・更新費用への支援や、補給部品のラストバイ等を検討し、サプライチェーンの維持と安定供給を確保すべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "件数の推移": [
+   {
+    "quote": "2025年度は、計164件について認定を行ったところである",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度は、計164件について認定を行ったところであるが、このうち、124件は、中小企業による取組が認定されている",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画の認定は2024年度121件（約234億円）、2025年度164件（うち中小企業124件）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法施行〜2025年3月末（累計）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "うち中小企業124件",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "認定件数は増加傾向にあり、2025年度は認定の約4分の3が中小企業によるものでした",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経団連は2026年5月の提言「防衛生産・技術基盤の抜本的強化に向けて」で、国営工廠やGOCO（国有施設民間操業）について、民間投資が現実的でない案件に限定し、政府の統制・関与を極力少なくするなど慎重な検討を求めています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "運営者の視点：1件あたりの金額と、制度間の規模の差",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 認定1件あたりは約2億円",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度の認定は121件で約234億円、1件あたり約1.9億円です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法施行から2025年3月末までの累計は157件・約332億円で、1件あたり約2.1億円になります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 移転の基金は認定累計の約5倍",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特定取組の認定の累計（約332億円、2025年3月末時点）の約5倍にあたります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "部品や素材を供給するサプライヤーも、プライム契約がなくても申請でき、2025年度の認定164件のうち124件が中小企業による取組でした",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛関連株・防衛関連企業とは？防衛装備庁の契約額上位20社と見るべきポイントを解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "台湾の防衛戦略とは？2025年版QDR・兵役1年・漢光42号演習から読む「全社会の防衛レジリエンス」",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "て、企業が1社単独で担うことは容易ではない",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "F-35：U.S. Government Accountability Office Boeing787：市場調査企業INCEPTONE社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Boeing707：市場調査企業The Geography of Transport Systems社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Boeing777：市場調査企業ResearchGate社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官が主要防衛企業１５社のトップに対し「政府として国防予算の削減に取り組むこと」「防衛産業は将来的には供給",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当初５１社あったプライム企業が５社になるなど、防衛産業の再編統合が急速に進められた",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アビオ開発と産業システム開発の2社に分社化して存続",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１０のノンコア事業を分離（Loral社の業務含む）⇒Ｌ－３コミュニケーションズとして独立",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 『第７期科学技術・イノベーション基本計画』の答申素案にて、「デュアルユース技術の研究開発及び社",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今般、政府においては、与党提言等を受けて、防衛装備移転三原則と運用指針の改定により「5類型」を撤廃し、原則すべての完成品が輸出可能となったものの、相手国からのオフセット要求への対応や、維持・整備への対応、知的財産権の取り扱い、国内および相手国法令への準拠、大型プラットフォームにおいては一社ではなく複数社が防衛省と直接契約関係にあるなど、民間企業単独では対処し切れないリスク・課題は多く存在している",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ン」作成に係る基本方針策定業務(全１件)及びマスタープラン作成",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業務(全１５件)を契約締結し、作成作業に着手",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約8,200件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約5,200件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約3,000件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約2,200件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約5,800件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約2,400件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人件・糧食費 ２１，９６９ ２２９[１．１] ２２，２９０ ３２０ [１．５]",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "物件費 ４４，０３２",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般物件費 １８，８５０",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2040 年度までに累計 370 兆円超である",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・1:N遠隔監視等の 事業モデル構築、 L413・L2++14事業用車両等 の社会実装支援、",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "13 システムが周辺監視し、一定の条件下で自動運転をする機能を有し、条件外でも車両が安全確保をするもの",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "る、我が国の産業や社会のＤＸを進めるために不可欠な通信基盤 （NTN15 、５Ｇ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・2030年に東名阪でのQKD の社会実装を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・国内衛星の国内打上げ比率を2030 ～2040年累計で60～80％以上とし、打上げ費用",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安全保障等に直結する社会基盤であり、民間利用の 拡大を背景に、2030年代には世",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・2030年代早期に国内企業等による衛星システムを５件以上構築し、 主要な通信･",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "衛星データ利用サービスを世界で新たに30件以上社会実装することを目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業 A社事業撤退※（2026年） B社事業撤退※（2024年）",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "させる取組を推進（2026年度は281件、5,144億円を計上）",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "16の特定重要物資を指定し、その安定供給確保のための取組に関する計画(152件(2026年7月29日現在))を認定",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "導入等における事前審査を実施（2025年度の事前届出件数：1200件）",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度は、 計 164 件について",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※2025年度は一般社団法人1件含む",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度は、 計 164 件について認定を行ったところ",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "であるが、 このうち、 124件は、 中小企業による取組が",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は、 1964年に制式装備品となった64式7.62mm",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "累計で約 550 億円の認定額になっています",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株式会社吉光工業 板金加工事業部 組立1課 愛",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "溶接加工を行う株式会社吉光工業 板金加工事業部組立 1 課",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8.1 日本の社会課題と重なる 3 分野 ............................................................................................................ 38",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "期間・審査": [
+   {
+    "quote": "• 欧米では、特に、戦時に短期間で需要が急増する装備品の重整備を、製造施設等の国による保有及び運営（いわゆるＧＯ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※１ 開発総経費の算定期間は、運用開始まで（軍用機の場合、初期作戦能力（IOC: Initial Operating Capability）の獲得まで）としている",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 予算：50億円を超えない範囲 研究期間：2024年度～2029年度",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "から、防衛装備品の情報提供に係る許可手続（申請書類に相手先を記載、審査期間）のハード",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "過去に調達実績のある装備品や部品といったリピート品など、一定期間における調達数量が見通せるものについては、年度ごとの分割契約ではなく一括契約を可能とし、国庫債務負担行為の支払い可能年度範囲（契約年度＋4年度）の例外的適用を拡充することにより、企業の生産計画の最適化と納期が長期にわたるものへの対応を容易にし、効率化を図るべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛関連企業の国内生産体制は、国内需要や同盟国・同志国からの受注機会が増加し、供給・設備投資・人材確保が追いつかない状況にあり、さらに、増産体制を必要とする場合には短期間では解消できない課題が存在する",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "とりわけ火薬・弾薬や機材・補用品、無人機等の消耗品については、現状、事業拡大の意思決定や設備投資、人員確保を短期間で行うことは困難であり、長期的な生産基盤強化が求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、防衛装備庁との契約においては、研究開発の不確実性を踏まえた納期の柔軟な設定や期間の見直し、研究開発段階のものから試作・量産等に至るまでの納期遅延ペナルティの軽減・撤廃、技術難易度に応じた利益率の設定などにより、研究開発参画のインセンティブを高めるべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、わが国防衛産業は、武器輸出三原則による事実上の輸出禁止期間が長期にわたり、防衛省・自衛隊向けの装備品を計画的に納入することに専念してきた経緯もあり、国際共同開発や装備移転を加速させる上では、法的・政治的な不確実性のほか、実戦経験不足をはじめとする多くの課題が存在する",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外国企業との商談を円滑に進めるには、官民間の情報共有および審査の迅速化が重要であり、同一内容・類型の案件について重複審査を不要とするなど改善を図るべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業経営の視点で、現在の防衛調達をみた場合、防衛装備品はリードタイムが長く、サプライヤーへの発注や材料調達のために投じた資金（売掛金）の回収期間が、一般の場合と比べ、長期に及び、資金繰りの負担が大きくなっている",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛事業の資金回収期間は長い場合、約18ヶ月であり、防衛関連企業はそれに応じた資金を準備する必要がある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プライム企業の資金回収期間の長期化は、サプライヤーへの支払いにも影響している（防衛装備工業会調べ）",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期間内の防衛力抜本的強化実現に向け、令和６年度において必要かつ十分な予算を確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３年程度の「変革期間」を視野に入れ、我が国経済を熱量あふれる新たなステージへと移行させるため",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "、研究開発に要する期間を飛躍的に短縮し、将来の戦いにおいて実効的に対処する能力を早期に実現",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 指定装備品等の製造等を行う期間を超えないこと",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◆ 管理委託契約の期間満了前に、製造施設等を買い受けて指定装備品等の製造等を行う",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（なお、買い受ける事業者が決まった場合でも、既存の管理委託契約の契約期間中は、引き続き指定",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ 融資の可否・額・条件については、認定に係る審査とは別途の審査により判断される",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・医療機器のサイバーセキュリティ確保、薬事審査体制の強化、国際展開 45や国際",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "場システムを活用した ニーズに応じた農産物の安定供給のほか、栽培期間が短縮さ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "72 スタートアップの迅速性を いかし、極めて短期間に一連のフィードバックサイクルを繰り返すことで、製",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "までに長期間と大規模資金を要するため、その壁を乗り越えるための支援の強化が",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ベンチャーファンド市場を活性化すべく、2026 年夏までにポートフォリオ構築期間",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "禁止法上10年とされる議決権保有制限の例外となる期間を2026年度内に見直す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に一定期間利用してもらい、評価・フィードバックを行う仕組みを構築する",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弱性が短期間に大量に発見され得る、 ②脆弱性の発見から攻撃に至るまでの期間が大幅に短縮され得る、③ フ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "教育訓練給付金の指定講座の効果把握や申請・審査プロセス等の合理化、実績・成",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よって、部品取得に係るリードタイムが延び、計画期間内には",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "導入等における事前審査を実施（2025年度の事前届出件数：1200件）",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究機関向けの研究セキュリティ確保に関する手順書の策定や、外為法改正（2026年）による投資審査の高度化、対日外国投資委員会",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（※１）2026年度予算完成時勢力であり、（ ）内は現行計画期間中に予算計上した機数",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "争入札においては、 公示から入札までの期間が約1か",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "率を算定するとともに、 契約の履行期間に応じてコスト",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まれるほか、 技術提案の審査においても加点されるな",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "う契約を履行する体制にあることを、 契約の前に審査する制度",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取得を 2〜3 年から 2〜3 か月に短縮した Brave1 など、制度設計そのものが輸出可能な資",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24 か月で全領域・消耗前提の自律システムを「数千機」実戦配備する",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上記は欧州委員会が示した暫定配分であり、各国計画の審査、理事会承認、融資契約等を",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "融資条件は 10 年間の据置期間、低金利",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生産量は対象機種、集計期間、目標値／実績値の違いに注意",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "攻撃が記録され、2025 年 8 月の新モデル開始から 6 か月で 24 万機のドローンが e-",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DOT-Chain Defence 経由の平均配送期間は 10 日とされる（同",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 審査：ロシア関連スクリーニング後、科学・技術・軍事の専門家約 80 名が採点",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "NATO ストック番号（NSN）認証を 2〜3 年から 2〜3 か月に短縮",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "認証期間の短縮、プロトタ",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こにある課題を自ら把握し解決案を提示しながら、短期間で製品を実装する モデルを採る",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の要望を踏まえてシステムを短期間で更新し続ける能力が重要になる",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "い性能と信頼性を確保して長期間運用することが競争力の中心だった",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生産着手 2026 年 3 月（予定より 3 か月前倒し）",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Palantir の「顧客現場に人材が入り込み短期間でシステム実装を繰り返すモデル」、",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 審査・管理の強化：自衛隊法上の武器に該当する完成品は NSC で認可・公表のう",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ら契約まで約 3 か月半）③アジ",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "末） - 経団連は「資金回収期間が長い場合約 18 か月」に及ぶことによるサプライチェー",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「研究の期間内及び期間後に、研究の方向性や秘密性の保",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機関に技術的・倫理的審査制度の設置を求めた",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公募から契約まで約 3",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回収期間が長い場合約 18",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "AM・3Dプリンタ": [
+   {
+    "quote": "最新設備の導入、AIを用いた検査の自動化、3Dプリンタの導入（修理・点検工程も対象）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Programとは？経済安全保障重要技術育成プログラムの仕組み・支援対象技術・中間評価をわかりやすく解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（実用例）宇宙用3Dプリンター、ブロックチェーン統合プラットフォーム など",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "European Council, EU investments in defence: Council and Parliament agree to support faster, more flexible and coordinated investments in European defence https://www.consilium.europa.eu/en/press/press-",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "releases/2025/11/05/eu-investments-in-defence-council-and-parliament-agree-to-support-faster-more-flexible-and-coordinated-investments-in-european-defence/",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）経済安全保障重要技術育成プログラム（K Program）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 新たなサプライヤーとの取引の開始は喫緊の課題だが、高い品質基準をクリアできるか、試作品を製造",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "させるなどして確認しているが、こうした試作品の発注費用を軽減することが必要",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府としては、防衛装備品の調達のみならず、国内の防衛関連企業の生産・技術基盤の強化を通じて持続的な発展・競争力強化を促す視点を持ち、防衛需要で培われた先端技術等を、社会課題解決に活用する一方、民生技術が防衛装備品を高度化させ防衛政策に貢献するといった「防衛と民生の技術・需要の好循環」を実現すべきである、そのためにも、安全保障の観点から、国産を中心とする防衛装備品の継続的な調達を前提とし、研究開発から試作、量産、配備、維持・整備、能力更新に至る戦略の時間軸を明確化し、国内の防衛生産・技術基盤とサプライチェーンを維持・強化することが求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今後の国家防衛戦略・防衛力整備計画の改定や防衛産業に関する政府の対応方針の策定にあたっては、防衛装備品の長期的なライフサイクル（構想から研究・開発、試作、生産、維持・整備、補給、用途廃止など）と調達品目・数量、長期的に企業に求める対応能力を可能な限り明示し、必要かつ十分な予算を複数年度で継続的かつ安定的に確保・拡大することが肝要である",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、防衛装備庁との契約においては、研究開発の不確実性を踏まえた納期の柔軟な設定や期間の見直し、研究開発段階のものから試作・量産等に至るまでの納期遅延ペナルティの軽減・撤廃、技術難易度に応じた利益率の設定などにより、研究開発参画のインセンティブを高めるべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "下：金属3Dプリンタ導入による自動化（イメージ）",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "火器（小火器、火砲等）、指向性エネルギー兵器、誘導弾発射装置、ロケット弾発射装置、",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "➢ 積層造形機（３Ｄプリンタ）等",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・製造工程において、従来の機械加工に替えて、積層造形機（３Ｄプリンタ）等を導入",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（積層造形機（３Ｄプリンタ）等の導入による部品代替の実現可能性の調査研究を含む）",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 委託先 ： General Dynamics Land Systems社",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・免疫・再生医療等の 基礎研究力強化、国際水準の治験実施体制整備、AMED 41によ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "44 スタートアップ等が迅速に試作品開発を行い製品を洗練させていける環境",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、柔軟な契約に基づく研究試作の推",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済安全保障重要技術育成プログラム（K Program）において、51の支援対象技術を選定した上で、指定基金協議会を組織し、重要技",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": " 03式中SAM改・能力向上の取得",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "え、積層造形機（３Ｄプリンタ）などを導入し、",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SBIR、ファストパス調達、K Program",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の DAML Program（DARPA Agent Markup Language）等の国防系セマンティックウェブ研",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DAML の研究成果が同社製品へ直接承継されたことを示す一次資料は本調査では確認でき",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Aeronautical の Amber で実証された技術が Predator へ発展",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①防衛・情報機関向け意思決定基盤「Gotham」 ②企業向けデータ・業務基盤",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "試作品の開発だけでなく、設計から量産までを競争力にしようとしている点 が、従来の防",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「Kizuna」 日本製部品のみで構成した自律ドローン試作機を 2025 年に公開",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上、AMTI 衛星最大 600 機構想",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Program 等の経済安保枠組みを活用した量産設備投資支援を明記",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Program は日本のデュアルユース政策の実質的な入口になっている",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Program／サプライチェーン支援と防衛需要の接続が政策的に公認された",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「Fujitsu Accelerator Program for Defense Tech」開始",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Program 基金 5,000 億円",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• K Program における防衛省関与の定量的な内訳",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Program 経済安全保障重要技術育成プログラム",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 内閣府「経済安全保障重要技術育成プログラム（K Program）」",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 欧州委員会「EDF 2026 Work Programme」（2025 年 12 月 17 日）／「€1.07",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• NATO DIANA「2026 Challenge Programme」",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "素材の内訳": [
+   {
+    "quote": "【対象部材】サマリウムコバルト磁石 / ネオジム磁石 / タンタル（金属・合金）/ タングステン粉末 / タングステン重合金",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "下：金属3Dプリンタ導入による自動化（イメージ）",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "半導体回路や航空機エンジン等で活用される高機能・高付加価値な革新的金属部",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "我が国金属部素材メーカー等の高い技術開発能力をい かし、革新的金属部素材の",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・2030年に航空機エンジン向け高機能金属で 世界シェア５割、半導体回路向け高機",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "能金属で世界シェア８割を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・航空機エンジン向け高機能金属等について、革新的金属部素材の素材探索に加え、",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・スタートアップによる革新的金属部素材の開発に向けたＡＩ等のＤＸ技術の社会",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・革新的金属部素材に必要な希少原材料の確保に資するリサイクル技術開発、設備",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アルミニウムやレアメタルを中心に、欧州を始め需要サイドでも脱炭素化要請が",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資、国・地方公共団体による初期需要創出を通じ、高品質な低炭素金属部素材市",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・アルミニウムは、2030 年代前半に年間約90万トン以上の高品質な低炭素アルミ市",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アルミ展伸材について、2030 年時点で国内生",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "産量の約４割を目安として再生アルミ原料由来とすることを目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に向け、リチウムで年間約10万トン、ニッケルで 年間約９万トン、コバルトで 年",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・アルミスクラップ溶解設備等の低炭素金属部素材生産基盤の構築や、リサイクル",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・低炭素金属部素材の国内初期需要創出に向け、グリーン購入法等を踏まえた国・",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・低炭素金属部素材のＧＸ価値の国際標準への反映を図る",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・2030年までにベースメタル （銅、亜鉛、スズ、鉛） の自給率を80 ％以上とし、その",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・国内で生産される電解銅の約３割を再生資源由来とすることを目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "する、域内のカーボンニュートラル/ネット・ゼロ排出に向けた協力のための枠組み",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "きましたが、 重要部品の金属加工においては熟練工の",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は工作機械部門を有し、 金属加工製造ラインの",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/committee/2025/1121shiryou3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO98731220R10C26A9EA2000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/zaiseia20261105/02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cyber.go.jp/pdf/policy/kihon-s/cs2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/ab1/20241028/sankou1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/DOJ2026_EN_Full.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.upi.com/Top_News/World-News/2026/11/02/japan-defense-ministry-defense-spending-drone/7801793654501/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japantimes.co.jp/news/2026/08/31/japan/politics/japan-defense-budget-request-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/japan-defense-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/en/d_act/d_budget/pdf/fy2026_20251226a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.csis.org/analysis/japans-defense-industry-charts-uncertain-global-path",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年） 推移",
+   "results": [
+    "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/committee/2025/1121shiryou3.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "https://sakumaga.sakura.ad.jp/entry/atla/",
+    "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/ab1/20241028/sankou1.pdf",
+    "https://ja.wikipedia.org/wiki/防衛生産基盤強化法"
+   ]
+  },
+  {
+   "query": "防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年） 年度別",
+   "results": [
+    "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/committee/2025/1121shiryou3.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "https://www.nikkei.com/article/DGKKZO98731220R10C26A9EA2000/",
+    "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/zaiseia20261105/02.pdf",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf"
+   ]
+  },
+  {
+   "query": "防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年） 件数 pdf",
+   "results": [
+    "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/committee/2025/1121shiryou3.pdf",
+    "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/zaiseia20261105/02.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "https://www.cyber.go.jp/pdf/policy/kihon-s/cs2026.pdf",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/ab1/20241028/sankou1.pdf"
+   ]
+  },
+  {
+   "query": "Japan Defense Production Base Strengthening Act certified plans number and amount by year",
+   "results": [
+    "https://www.mod.go.jp/j/press/wp/wp2026/pdf/DOJ2026_EN_Full.pdf",
+    "https://www.upi.com/Top_News/World-News/2026/11/02/japan-defense-ministry-defense-spending-drone/7801793654501/",
+    "https://www.japantimes.co.jp/news/2026/08/31/japan/politics/japan-defense-budget-request-2026/",
+    "https://www.mordorintelligence.com/industry-reports/japan-defense-market",
+    "https://www.mod.go.jp/en/d_act/d_budget/pdf/fy2026_20251226a.pdf",
+    "https://www.csis.org/analysis/japans-defense-industry-charts-uncertain-global-path",
+    "https://www.japaneselawtranslation.go.jp/outline/126/905R639.pdf",
+    "https://www.defencefinancemonitor.com/p/defense-of-japan-2025-industrial",
+    "https://thediplomat.com/2025/12/japan-accelerates-defense-buildup-with-record-budget-and-expanded-unmanned-capabilities/",
+    "https://www.mod.go.jp/atla/soubiseisaku/basicpolicy/basicpolicy_summary_en_202310.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年）",
+   "results": [
+    "https://note.com/loyal_ivy9071/n/n0b50824d612c",
+    "https://note.com/toushi_gyousei/n/n49bef56158fa",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/loyal_ivy9071/n/nf5227f7a4b5c",
+    "https://note.com/nobuto545/n/n46d55106d703",
+    "https://note.com/loyal_ivy9071/n/nf5e9824eb19a",
+    "https://note.com/loyal_ivy9071/n/n2a4e10b590ba",
+    "https://note.com/tamakitext/n/nd4e2f02548cd",
+    "https://note.com/loyal_ivy9071/n/nf9d76c15a02a",
+    "https://note.com/loyal_ivy9071/n/ned59bf0c9cbd"
+   ]
+  },
+  {
+   "query": "site:x.com 防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2096061049116168303",
+    "https://jf.x.com/images/media-preview/2104340763031347570",
+    "https://x.com/mikimarufund/status/2073589919004721440",
+    "https://x.com/zosen_ojisan/status/2102586185478758693",
+    "https://x.com/musukataisakabu/status/2094939626293391572",
+    "https://x.com/ev0123456789/status/2049224886027997400",
+    "https://x.com/reiwadesho/status/2059275747420954854"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年）",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年）",
+   "results": [
+    "https://www.facebook.com/100067166833774/posts/%E3%81%94%E5%A0%B1%E5%91%8Afacebook%E6%8A%95%E7%A8%BF%E3%81%8C1%EF%BC%94%E4%B8%87%E4%BB%B6%E3%82%92%E7%AA%81%E7%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9D%B1%E4%BA%AC%E3%81%8B%E3%82%89%E5%8C%97%E6%B5%B7%E9%81%93%E5%8D%83%E6%AD%B3%E5%B8%82%E3%81%B8%E6%8B%A0%E7%82%B9%E3%82%92%E7%A7%BB%E3%81%97%E7%A7%81%E3%81%AF%E4%BB%8A%E7%A7%91%E5%AD%A6%E3%81%A8%E5%B8%82%E6%B0%91%E3%81%AE%E5%8A%9B%E3%81%A7%E5%9C%B0%E5%9F%9F%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F%E6%B4%BB%E5%8B%95%E3%81%AB%E5%85%A8%E5%8A%9B%E3%81%A7%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99-%E7%A7%81%E3%81%AE%E6%B4%BB/1273992041516345/",
+    "https://www.facebook.com/Sato.Construction.Management.Company/posts/建設特定技能受入計画認定-3名技能実習2号終了後特定技能１号へ/4138716459533777/",
+    "https://www.facebook.com/ey.pcc/posts/契約變更各項金額之認定均應以加帳部分之數額為準不須扣除減帳部分之金額稽核案例機關辦理契約變更誤以當次加帳部分扣除減帳部分之金額認定決標金額函釋依據工程會115年/1445208517628091/",
+    "https://www.facebook.com/PTOTST.NET/photos/様式医科excel-全71ファイル公開令和8年度の診療報酬改定に対応した別紙様式医科のexcelデータを公開しましたリハビリテーション総合実施計画書など見直しさ/984573947241408/",
+    "https://www.facebook.com/PTOTST.NET/posts/様式医科excel-全71ファイル公開令和8年度の診療報酬改定に対応した別紙様式医科のexcelデータを公開しましたリハビリテーション総合実施計画書など見直しさ/984574093908060/",
+    "https://www.facebook.com/orches.org/posts/あけましておめでとうございます2024年の手術件数を集計しました手術件数は合計3055同時手術を分けると3425件総件数3055件の内訳は以下の通り白内障-22/1108803367703099/",
+    "https://www.facebook.com/kshouse.yc/videos/新青安-30-總價上限踩雷預警你以為成交價沒超過就可以辦新青安嗎-事情沒有你想的那麼簡單️各地區房屋總價上限提醒台北市3500-萬新北竹北2500-萬其他縣市2/2704472493332475/",
+    "https://www.facebook.com/kyotoshimbun/posts/厚生労働省が２４日に発表した２０２４年度都道府県別の障害者虐待件数で人口１０万人あたりの家庭内虐待件数５カ年平均値で滋賀県が５５/1483824393746033/"
+   ]
+  },
+  {
+   "query": "防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年） note 社長",
+   "results": [
+    "https://note.com/lucky_whale741/n/n0138150d4758",
+    "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "https://note.com/rocket_ogiwara/n/n8f775e431b11",
+    "https://sakumaga.sakura.ad.jp/entry/atla/",
+    "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "https://note.com/exportcontrol/n/nc4a54fe428ce",
+    "https://ala-mocchi.com/archives/1",
+    "https://www.mod.go.jp/atla/hourei/hourei_dpb/02_kyoka_keihi_seido_r0711.pdf"
+   ]
+  },
+  {
+   "query": "防衛生産基盤強化法 認定計画の件数と金額の推移（2023年10月施行〜2026年） X 投稿",
+   "results": [
+    "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "https://www.nikkei.com/article/DGKKZO98731220R10C26A9EA2000/",
+    "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "https://sakumaga.sakura.ad.jp/entry/atla/",
+    "https://timewell.jp/columns/japan-defense-surge-production-drones-ammunition-2026",
+    "https://www.mod.go.jp/j/press/wp/wp2026/html/n420102000.html",
+    "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "https://www.defense-navi.com/boei-sangyo-kadai/"
+   ]
+  },
+  {
+   "query": "Japan Defense Production Base Strengthening Act certified plans number and amount by year site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/justinmcfarlin",
+    "https://www.linkedin.com/in/peterbanyas",
+    "https://www.linkedin.com/in/john-tran-mba-pmp",
+    "https://www.linkedin.com/in/megan-rutkai-3b7034154",
+    "https://www.linkedin.com/in/gregory-l-bowman-j-d-ll-m-561a5786",
+    "https://www.linkedin.com/in/trey-turbett-24132061",
+    "https://jp.linkedin.com/in/benjamineichhorn",
+    "https://www.linkedin.com/in/andrew-dorn",
+    "https://ca.linkedin.com/in/boris-shubin-996a4a197",
+    "https://www.linkedin.com/in/oscar-castillo-21813844"
+   ]
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "主体": [
+   {
+    "quote": "防衛省・自衛隊｜令和8年版防衛白書｜1 防衛生産基盤強化法と基本方針",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛産業は、防衛省・自衛隊とともに国防を担う重要なパートナーである",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これまで防衛産業は、主な販路が防衛省に限られることや利益率の低さなどから、成長が見込めないと考えられてきた",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省は、認定後に事業者と特定取組にかかる契約を直接締結し、当該契約の定めに従って遅滞なく対価を支払うこととしている",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのほか認定された計画、申請方法や相談窓口については、防衛装備庁ホームページに掲載されている",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前述の助成金の交付とこれに必要な基金を管理し、また、装備移転が防衛省の政策目的に適合したものとして事業者による装備移転が適切な管理のもとで円滑に行われるようにするために、2024年2月、防衛大臣が指定装備移転支援法人を指定した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "装備品等の製造等にあたって、より質の高い装備品等を安定的に調達するために、防衛省は先端技術などの装備品等に含まれる秘密情報を事業者に提供している",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上記（1）と（2）の各種取組では防衛省による指定装備品等の安定的な調達ができないと判断される場合には、当該指定装備品等の製造等をする施設や設備を防衛省が取得することができる",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取得した製造施設などは、事業者が指定装備品等の製造等のために防衛省から委託を受けてその管理を行う",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4 防衛大臣が指定する自衛隊の任務遂行に不可欠な装備品等であって、その製造等を行う特定の装備品製造等事業者による製造等が停止された場合に、防衛省による適確な調達に支障を生じるものをいう",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛生産基盤強化法の正式名称は「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」（令和5年法律第54号）です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊は装備品を国内の企業から調達していますが、2022年12月に策定された国家防衛戦略は、こうした防衛生産・技術基盤を「いわば防衛力そのもの」と位置づけています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁 装備政策課 防衛生産基盤強化法室",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本の防衛産業は、防衛省・自衛隊という限られた顧客に向けた少量生産が中心で、収益性の低さが課題とされてきました",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特定取組の4類型と取組例（防衛装備庁の制度紹介資料）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "脆弱性診断、多要素認証、従業員教育、物理的なセキュリティ対策（防衛省の基準を満たす必要あり）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁の制度紹介資料（令和7年11月版）は、この制度は補助金ではなく「補助率」という考え方もないと説明しています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "認定後、事業者は防衛装備庁と「特定取組契約」を結び、計画で認められた経費が契約にもとづいて支払われます",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "申請前に防衛装備庁の事前相談窓口との相談が必須",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他の手段では装備品の安定的な調達が難しい場合に、防衛省が製造施設や設備を取得し、事業者に管理を委託できる仕組みです",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省が事業者に提供する秘密情報を「装備品等秘密」として指定し、取り扱う人に情報管理の徹底を求める仕組みです",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁の資料によると、指定は2024年4月1日から始まっています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "またサイバーセキュリティについては、防衛省が令和4年3月に米国国防省の基準（NIST SP800-171）と同水準の管理策を盛り込んだ基準を整備しており、特定取組でもこの基準を満たすことが求められます",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁の資料によると補助金ではなく、認定を受けた計画にもとづいて防衛装備庁と契約を結び、認められた経費が支払われる仕組みです",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "衆議院「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律案」審議経過（",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省「令和8年版防衛白書」防衛生産基盤強化法関連ページ（",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省「令和7年版防衛白書 1 防衛生産基盤強化法と基本方針」（",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁「装備品等の安定的な製造等の確保のための事業計画の認定を受けることで、必要な経費が国から支払われる制度のご紹介」（令和7年11月版）（",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁「防衛生産基盤強化法に基づく施策等について」（",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事は、防衛省などの公的機関の公表資料や報道をもとに運営者が作成し、出典で確認できた内容だけを掲載しています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁（ATLA）とは？研究開発・調達の司令塔を解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛関連株・防衛関連企業とは？防衛装備庁の契約額上位20社と見るべきポイントを解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省の調達制度とは？入札・随意契約の割合、契約額上位企業、FMSの課題をわかりやすく解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表は、内閣府HP「サプライチェーン強靱化の取組（重要物資の安定的な供給の確保に関する制度）」より引用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛産業において、装備品等の製造、維持整備、研究開発等を安定的に行う上で必要な取組について、防衛省が（プ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "出典：経済産業省「経済安全保障に関する産業・技術基盤強化のための有識者会議」第8回 事務局資料",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛生産基盤強化法に基づき、防衛省が企業に対し個別にサプライチェーン調査を実施",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• これによりサプライチェーンリスクを把握し、防衛省から「供給網強靱化」等に係る特定取組の実施を促すことが可能",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 防衛省、防衛産業、スタートアップ、アカデミアが行うべきことの役割分担をすべき",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 諸外国を見習って、防衛省がアカデミアの研究力を強化する取組を行っていくことが重要",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 技術開発のスピードが速いスタートアップにとって、防衛省の契約サイクルは遅く、技術の陳腐化や経",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 防衛省の誰に相談すればいいのか、どのようなニーズがあるのかわからないので提案ができない",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• DoD (国防総省) 海軍研究所 など",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• DoD：10 リンカーン研究所（MIT運営） など",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "15の研究所・センター（DoDのみ）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 大学・スタートアップ・DoDの橋渡しを担う人材・連携・アクセラレーションのプログラム群を運用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◼ 民間企業、スタートアップ、DoD関係者を巻き込んだピッチ・カンファレンスの実施や国際共同イベ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• また、デュアルユース技術には、既存の防衛装備品の機能・性能を向上させるもので、単体で防衛省が",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 現防衛力整備計画のもとで防衛省の研究開発費は大幅に増額",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "我が国の防衛予算に占める研究開発費は、防衛省「我が国の防衛と予算－防衛力抜本的強化",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 令和３年度補正予算として計上された2,500億円のうち1,250億円を経済産業省（NEDO）が執行（残",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 令和４年度補正予算において、2,500億円（NEDO分は1,250億円）を追加措置",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 2025年10月に、装備庁・経産省とNATO",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 同ミッションと連携し、経産省と共に、JETROと現地貿易",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ そのため、事前に防衛装備庁による技術情報の安全保障上の懸念を確認する技術的な機微性の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓防衛省/装備庁からの講演、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 非伝統的防衛プレイヤー（非防衛大企業、アカデミア）等において、防衛省・自衛隊向けの装備品への",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こうした状況を踏まえ、防衛省「防衛力の抜本的強化に関する有識者会議」は、防衛力抜本的強化の7本柱の推進と戦略装備の導入による抑止力・対処力の一層の強化等を提言した",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "推移": [
+   {
+    "quote": "防衛省・自衛隊｜令和8年版防衛白書｜1 防衛生産基盤強化法と基本方針",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "が2023年に施行された",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この基本方針では、防衛生産基盤強化法に定められた施策が適切に行われるために必要な事項を定めるとともに、2014年に策定した「防衛生産・技術基盤戦略」に代わり、今後の防衛生産・技術基盤の維持・強化の方向性を新たに示した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度は、計164件について認定を行ったところである",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度は、計164件について認定を行ったところであるが、このうち、124件は、中小企業による取組が認定されている",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "前述の助成金の交付とこれに必要な基金を管理し、また、装備移転が防衛省の政策目的に適合したものとして事業者による装備移転が適切な管理のもとで円滑に行われるようにするために、2024年2月、防衛大臣が指定装備移転支援法人を指定した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年3月、防衛装備移転円滑化基金を造成し、これまでに計1,600億円を同法人に対して交付した（2026年6月1日時点）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年6月20日",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年11月5日",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛生産基盤強化法（令和5年法律第54号）は2023年6月7日に成立し、同年10月1日に施行されました",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画の認定は2024年度121件（約234億円）、2025年度164件（うち中小企業124件）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備移転円滑化基金への交付は2026年6月1日時点で計1,600億円です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛生産基盤強化法の正式名称は「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」（令和5年法律第54号）です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "衆議院の審議経過によると、2023年5月9日に衆議院、同年6月7日に参議院で可決されて成立し、6月14日に公布されました",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "施行は2023年10月1日です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年版防衛白書は、この法律の目的を、防衛産業が高度な装備品等を生産し、高い可動率を確保できる能力を維持・強化していくために必要な施策を講じることだと説明しています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省・自衛隊は装備品を国内の企業から調達していますが、2022年12月に策定された国家防衛戦略は、こうした防衛生産・技術基盤を「いわば防衛力そのもの」と位置づけています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和5年法律第54号",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年6月7日（参議院可決）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年6月14日",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月1日",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2023年10月に防衛大臣が公表",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年12月の国家安全保障戦略などの戦略3文書は、防衛生産・技術基盤を防衛力の重要な要素と位置づけ、その強化を打ち出しました",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備庁の制度紹介資料（令和7年11月版）は、この制度は補助金ではなく「補助率」という考え方もないと説明しています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和7年版防衛白書",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法施行〜2025年3月末（累計）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和8年版防衛白書",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "認定件数は増加傾向にあり、2025年度は認定の約4分の3が中小企業によるものでした",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年2月",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 民生事業と比較して魅力が低下していた防衛事業も、防衛生産基盤強化法の施行や調達制度の改善に",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ライムのみならず、サプライヤーに対しても）直接的に経費を支払う制度を創設",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ 令和8年1月7日時点の実績",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（※）令和８年度予算では約３０４億円を要求中",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）米中の国境措置の動向（2025年11月20日時点）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸2024年5月に設定された「特定国に依存した重要鉱物の装備品への利用禁止」について、2027年1月に対象プロセスを",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 2024年5月に国防省調達規則条項改正：Federal Register : Defense Federal Acquisition Regulation Supplement",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 2025年6月に重要鉱物のサプライチェーンの開示の義務化：PUBL263.PS",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 2027年1月に国防省調達規則による規制強化：Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten.",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※１ 開発総経費の算定期間は、運用開始まで（軍用機の場合、初期作戦能力（IOC: Initial Operating Capability）の獲得まで）としている",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※２ 各機種の開発総経費は、開発時期の物価水準の相違を踏まえ、2024年の物価水準に統一している",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "用は、2024年のレート（156円/US＄）により、円に換算している",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成2年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成7年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成12年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成17年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成22年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（平成27年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（令和2年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 空軍：1 戦略自立研究所 (ハワード大学等 9大学コンソ) ※2023年設立",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※FY2021実績：500万～8.3億ドル",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "FY2024",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Source: Comparison of Major Contract Types Chart | www.dau.edu (2026/1/9参照)",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経団連：防衛生産・技術基盤の抜本的強化に向けて (2026-05-19)",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年5月19",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2022年12月に策定された安全保障関連三文書",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を示し、防衛生産基盤強化法の施行により、供給網強靭化等に向けた法的枠組みが整備されるなど、防衛分野の事業環境は改善しつつある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、高市首相は施政方針演説（2026年2月）において、三文書の前倒し改定や、防衛装備移転に関するいわゆる5類型の見直しに向けた検討を加速する旨を表明し、2026年4月には、防衛装備移転三原則および運用指針が改正された",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "金額の推移": [
+   {
+    "quote": "2024年3月、防衛装備移転円滑化基金を造成し、これまでに計1,600億円を同法人に対して交付した（2026年6月1日時点）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画の認定は2024年度121件（約234億円）、2025年度164件（うち中小企業124件）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備移転円滑化基金への交付は2026年6月1日時点で計1,600億円です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛用途と民生用途を兼ねる設備は、防衛用途の割合分のみを支払う（例：1億円の設備で防衛用途60%なら6,000万円）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約234億円",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約332億円",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "認定件数は増加傾向にあり、2025年度は認定の約4分の3が中小企業によるものでした",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "指定装備移転支援法人への交付額 計1,200億円",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "基金からの交付 計1,600億円（令和8年版防衛白書）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1年以下の拘禁刑または50万円以下の罰金",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2年以下の拘禁刑または100万円以下の罰金",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 認定1件あたりは約2億円",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度の認定は121件で約234億円、1件あたり約1.9億円です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法施行から2025年3月末までの累計は157件・約332億円で、1件あたり約2.1億円になります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 移転の基金は認定累計の約5倍",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛装備移転円滑化基金からの交付は、2026年6月1日時点で計1,600億円です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特定取組の認定の累計（約332億円、2025年3月末時点）の約5倍にあたります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "装備品等秘密の故意の漏えいの罰則は「1年以下の拘禁刑または50万円以下の罰金」です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "で紹介している重要経済安保情報の漏えい（業務で扱う人の場合、5年以下の拘禁刑または500万円以下の罰金）と比べると、軽い罰則になっています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2026年6月1日時点で計1,600億円が交付されています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（※）令和８年度予算では約３０４億円を要求中",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "費：約3,600億円 → F-35開発費：約12兆円）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• １９８５年から１９９８年にかけて、国防予算が約３割減少する中、１９９３年、アスピン国防長官、ペリー国防副長",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官が主要防衛企業１５社のトップに対し「政府として国防予算の削減に取り組むこと」「防衛産業は将来的には供給",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• UARC1機関の政府予算(中央値)は約4,800万ドル",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※Ｒ８は予算案の金額 24",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「元年」予算－ 令和５年度予算の概要（令和5年3月28日掲載）」より引用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2,201億円",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "7年間分の予算",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（210億円）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 令和３年度補正予算として計上された2,500億円のうち1,250億円を経済産業省（NEDO）が執行（残",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "りの1250億円は文部科学省（JST）が執行）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 令和４年度補正予算において、2,500億円（NEDO分は1,250億円）を追加措置",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 予算：50億円を超えない範囲 研究期間：2024年度～2029年度",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 予算：80 億円を超えない範囲／5年",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "パプアニューギニア 災害対処・道路構築用重機の供与 4億円",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スリランカ 無人航空機（UAV）供与 5億円",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "マレーシア 潜水作業支援船及び停戦監視用機材の供与 31億円",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（以下、三文書）において、国は、防衛生産・技術基盤を「防衛力そのもの」と位置づけ、抜本的強化の方向性と約43兆円予算を確保する計画",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(1)予見性向上と経営基盤強化に向けた「戦略的な予算・制度・施策」の確立",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(2)需要増加を見据えた「国内生産・官民連携体制」の構築",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）予見性向上と経営基盤強化に向けた「戦略的な予算・制度・施策」の確立",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2）需要増加を見据えた「国内生産・官民連携体制」の構築",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和６年度予算の概要",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和６年度予算 －基本的考え方－",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期間内の防衛力抜本的強化実現に向け、令和６年度において必要かつ十分な予算を確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "－ 歳出ベースは、令和５年度に大きく増加した契約額を着実に執行するための予算を確保し、",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "整備計画対象経費として７兆７,２４９億円を計上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の整備に早期に着手できるよう、整備計画対象経費として９兆３,６２５億円を計上",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（今年度と合わせると、計画の実施に必要な契約額４３．５兆円のうち、既計上分は４２％）",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和６年度予算 －配分－",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "区 分 分 野 ５年間の総事業費 令和５年度事業費 令和６年度事業費",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スタンド・オフ防衛能力 約 ５兆円 １兆４，１３０億円 ７，１２７億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合防空ミサイル防衛能力 約 ３兆円 ９，８２９億円 １兆２，２８４億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無人アセット防衛能力 約 １兆円 １，７９１億円 １，１４６億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "宇宙 約 １兆円 １，５２９億円 ９８４億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サイバー 約 １兆円 ２，３６３億円 ２，０２６億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "車両・艦船・航空機等 約 ６兆円 １兆１，７６３億円 １兆３，３９１億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "指揮統制・情報関連機能 約 １兆円 ３，０５３億円 ４，２４８億円",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "場面・目的": [
+   {
+    "quote": "わが国の防衛産業は装備品等のライフサイクルの各段階（研究、開発、生産、維持・整備、補給、用途廃止など）を担っており、装備品等と防衛産業は一体不可分である",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、近年、経済安全保障の観点から各国による技術の囲い込みが進み、また、新型コロナウイルスの感染拡大などでサプライチェーンの途絶なども生じた",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①経費面においても継続的な取得や維持整備が可能であること、②わが国に比較優位がある分野を育成し、劣後する分野や欠落する分野を必要に応じ補完すること、③防衛生産・技術基盤を国内に維持し、強化していく必要があること",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "イ 有事の際の持続的な対応能力の維持と平素からの運用、維持整備にかかる改善能力の確保の観点から不可欠なもの（例：弾薬、艦船）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安全保障環境が加速度的に変化するなかにおいて、質・量の両面でわが国の防衛を全うできる装備品等を、継続的に開発・生産・維持整備できる能力を構築することが不可欠である",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "持続可能な対応能力や「新しい戦い方」を踏まえたわが国独自の「新しい守り方」を支えるため、開発・生産・維持整備の各能力を確保することが求められる",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、需要の急増にも対応可能な生産基盤・維持整備基盤を構築するとともに、サプライチェーンの強靱化を図る",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（1）特定取組（サプライチェーン強靱化、製造工程効率化、サイバーセキュリティ強化、事業承継など）",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、①外国政府が輸出を規制して原材料などの輸入が困難となるリスク、②老朽化した設備が更新されず生産性や技術水準が低迷し納入遅延や要求性能未達となるリスク、③工程においてマルウェアやスパイウェアが混入するといった懸念部品（悪意あるソフトウェアが組み込まれた部品）のリスク、④サイバー攻撃によって性能などの情報が流出するリスク、⑤事業継続が困難となって防衛事業から撤退するリスクなどがあげられる",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "このようなリスクに効果的に対応し、プライム企業とサプライヤーから構成されるサプライチェーンが効果的・効率的に機能し、指定装備品等",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代替素材、部品等の研究開発 など",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーン強靱化については、輸入部材の国産化などに関する調査や生産が停止される部品の代替品選定のための調査などに関する計画を認定した",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①特定取組（供給網強靱化・製造工程効率化・サイバーセキュリティ強化・事業承継等）への経費支払い、②装備移転の円滑化（基金）、③製造施設の国による取得、④装備品等秘密の情報管理",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "部品や素材を供給する中小企業が防衛事業から撤退すると、代わりの供給元が見つからず、装備品の生産や修理が滞るおそれがあります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛産業全体の構造的な課題（利益率、企業撤退など）は、当サイトの「日本の防衛産業の課題とは？」で詳しく解説しています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "輸入部材の国産化、在庫の積み増し、代替部品の研究、調査",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "撤退する企業の製造事業の引き継ぎ、設備の整備、ライセンス取得、技能者の育成",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーンの末端にいる中小企業の支援が、制度の重要な役割になっていることがわかります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーン調査で知り得た秘密の漏えい・盗用",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本の防衛産業の課題とは？企業撤退・利益率・防衛生産基盤強化法・5類型撤廃をわかりやすく解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業撤退を抑止するため政府保有・請負者運営（GOCO）の枠組みを規定しているが、GOCOを通じて、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ サプライチェーンの維持・拡大のためには、長期的な需要見通しが示されることが重要",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）経済安全保障推進法におけるサプライチェーン強靱化の取組の全体像",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "図表は、内閣府HP「サプライチェーン強靱化の取組（重要物資の安定的な供給の確保に関する制度）」より引用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛産業において、装備品等の製造、維持整備、研究開発等を安定的に行う上で必要な取組について、防衛省が（プ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（２）地政学的なサプライチェーン・リスクが増大する中で、重要な部素材の安定供給を確保",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 新型コロナウィルス感染症の蔓延及びウクライナ侵略、米中対立等により、サプライチェーンリスクが",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに、重要物資、重要技術に関する国境措置の応酬が発生する中で、サプライチェーン上の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛装備品も例外ではなく、安定的な調達を担保するには、代替性の低い原材料・部品も含めたサプラ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 米国では、防衛関連企業に対して重要物資サプライチェーンを把握し、装備品に使用する重要物資の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ サプライチェーン上流のリスク確認には、一次サプライヤーのみならず、その先の二次、三次と確認が",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国防権限法：国防省の契約企業に対して、重要鉱物のサプライチェーンの開示を義務化",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "サプライチェーンの透明性を向上し、国防省が依存状況を把握するために、国防省と契約している企業に対して、 対象",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "素材（レアアース、タングステン、ネオジム磁石等）のサプライチェーン情報を可視化し報告する義務を課した",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 2025年6月に重要鉱物のサプライチェーンの開示の義務化：PUBL263.PS",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 米国では、防衛関連企業に対し、重要鉱物サプライチェーンの報告の義務化や、特定国がサプライチェーンに関与し",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）防衛生産基盤強化法に基づくサプライチェーン強靱化のための取組",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 防衛生産基盤強化法に基づき、防衛省が企業に対し個別にサプライチェーン調査を実施",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• これによりサプライチェーンリスクを把握し、防衛省から「供給網強靱化」等に係る特定取組の実施を促すことが可能",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "供給網強靭化（サプライチェーン強靭化）に係る取組（イメージ）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "戦略技術の国内確保、研究開発基盤の強靭化、サプライチェーンの多元化、技術流出の防止といった観点から、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 「非伝統的防衛プレイヤー」を含め、海外防衛サプライチェーンへの参入や海外防衛企業との連携は、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• サプライチェーン・科学技術・標準化等の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "論点４：サプライチェーン上・中流の基盤の強化",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加えて、サイバーセキュリティ対策や事業継続（BCP）を含むレジリエンスの強化、国内外のサプライヤーとの協創による裾野拡大とサプライチェーンの維持・強化に努める",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府としては、防衛装備品の調達のみならず、国内の防衛関連企業の生産・技術基盤の強化を通じて持続的な発展・競争力強化を促す視点を持ち、防衛需要で培われた先端技術等を、社会課題解決に活用する一方、民生技術が防衛装備品を高度化させ防衛政策に貢献するといった「防衛と民生の技術・需要の好循環」を実現すべきである、そのためにも、安全保障の観点から、国産を中心とする防衛装備品の継続的な調達を前提とし、研究開発から試作、量産、配備、維持・整備、能力更新に至る戦略の時間軸を明確化し、国内の防衛生産・技術基盤とサプライチェーンを維持・強化することが求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "足もとでは、国際情勢の一層の緊迫化、物価・為替の変動、サプライチェーン制約等が重なり、防衛事業の収益性悪化や資金繰りへの懸念が強まっている",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今後の国家防衛戦略・防衛力整備計画の改定や防衛産業に関する政府の対応方針の策定にあたっては、防衛装備品の長期的なライフサイクル（構想から研究・開発、試作、生産、維持・整備、補給、用途廃止など）と調達品目・数量、長期的に企業に求める対応能力を可能な限り明示し、必要かつ十分な予算を複数年度で継続的かつ安定的に確保・拡大することが肝要である",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、装備品のライフサイクルが長期化する中で、構成部品の生産終了等により、補用品の確保が困難となるリスクや、国内外のサプライヤーが当該事業から撤退し、知的財産・ノウハウを含む生産基盤そのものが消失する懸念もある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "円滑な事業承継に必要な資金を提供する仕組みを整備するとともに、モニタリングの結果、生産困難が見込まれる場合には、政府・自衛隊は、代替品の確保や仕様変更、再設計等を適時に受け入れるなどにより製品の維持を図るべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あわせて、サプライチェーン全体を維持するため、二次・三次等のサプライヤーの管理のあり方を含めて検討する必要がある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、中堅・中小企業や海外サプライヤーを含むサプライチェーンは、特定企業・特定地域への集中や、サイバー攻撃・自然災害・地政学リスク等への脆弱性を抱えているとともに、事業撤退等に伴う供給途絶リスクも依然存在している",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あわせて、海外依存度が高い部材・機能等については、代替品の認定や調達の複線化、国内サプライヤーの育成、輸入調達上の課題（ブラックボックス開示）等の是正、国による必要物資の備蓄等の供給安定確保、従来国内では実施しえなかった装備品の性能試験等のための国内における環境整備を進める必要がある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "わが国周辺の安全保障環境が一層厳しさを増す中、懸念される緊急事態とその長期化、それに伴う需要急増局面を想定し、まずは、平時における生産余力の確保と運用効率・稼働率の向上を図ったうえで、長期的な弾薬・ミサイル・無人アセット・センサー等の大量消費への対応と、それらを支える防衛産業の生産・補給・整備能力を確保する重要性が指摘されている",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そして、国民生活および防衛基盤にかかる重要インフラ等の防護（関連工場の抗堪化・分散化の検討）、兵站・補給の確保、サイバー対策、情報戦への対応など、攻撃リスクを低減する防護手段の強化や、操業継続を担保するため、国家・社会全体を巻き込んだ総合的な防衛体制の構築に向けた検討が求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そのため、各装備品（含むデュアルユース品）の製造等で使用する鉱物等を特定し、サプライチェーンの可視化と脆弱性評価、官民での情報共有を行うとともに、安定供給確保の取り組みを進める必要がある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同盟国・同志国との連携のもとで、代替供給源の確保や共同探鉱・鉱山開発等の調達先の多角化、国内での回収・再利用、レアアースフリー材料の研究・技術開発、海洋資源開発、戦略的備蓄を中長期的に促進すべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同時に、中堅・中小企業を含むサプライチェーン全体のサイバーセキュリティ対策の強化を支援するとともに、他分野でみられるように緊急事態を想定した関係者による官民共同での机上演習を実施することも一案と考えられる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、装備品は長期運用を前提とするため、調達終了後も補給部品の供給を続ける必要があるが、調達頻度・数量が限定的な場合には、設備更新投資の回収が困難となり、設備維持が企業負担に偏りやすい",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府は、補給段階における設備の維持・更新費用への支援や、補給部品のラストバイ等を検討し、サプライチェーンの維持と安定供給を確保すべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "件数の推移": [
+   {
+    "quote": "2025年度は、計164件について認定を行ったところである",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年度は、計164件について認定を行ったところであるが、このうち、124件は、中小企業による取組が認定されている",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/html/n420101000.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計画の認定は2024年度121件（約234億円）、2025年度164件（うち中小企業124件）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法施行〜2025年3月末（累計）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "うち中小企業124件",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "認定件数は増加傾向にあり、2025年度は認定の約4分の3が中小企業によるものでした",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経団連は2026年5月の提言「防衛生産・技術基盤の抜本的強化に向けて」で、国営工廠やGOCO（国有施設民間操業）について、民間投資が現実的でない案件に限定し、政府の統制・関与を極力少なくするなど慎重な検討を求めています",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "運営者の視点：1件あたりの金額と、制度間の規模の差",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 認定1件あたりは約2億円",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度の認定は121件で約234億円、1件あたり約1.9億円です",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法施行から2025年3月末までの累計は157件・約332億円で、1件あたり約2.1億円になります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 移転の基金は認定累計の約5倍",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特定取組の認定の累計（約332億円、2025年3月末時点）の約5倍にあたります",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "部品や素材を供給するサプライヤーも、プライム契約がなくても申請でき、2025年度の認定164件のうち124件が中小企業による取組でした",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛関連株・防衛関連企業とは？防衛装備庁の契約額上位20社と見るべきポイントを解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "台湾の防衛戦略とは？2025年版QDR・兵役1年・漢光42号演習から読む「全社会の防衛レジリエンス」",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "て、企業が1社単独で担うことは容易ではない",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "F-35：U.S. Government Accountability Office Boeing787：市場調査企業INCEPTONE社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Boeing707：市場調査企業The Geography of Transport Systems社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Boeing777：市場調査企業ResearchGate社HP",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官が主要防衛企業１５社のトップに対し「政府として国防予算の削減に取り組むこと」「防衛産業は将来的には供給",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当初５１社あったプライム企業が５社になるなど、防衛産業の再編統合が急速に進められた",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アビオ開発と産業システム開発の2社に分社化して存続",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１０のノンコア事業を分離（Loral社の業務含む）⇒Ｌ－３コミュニケーションズとして独立",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 『第７期科学技術・イノベーション基本計画』の答申素案にて、「デュアルユース技術の研究開発及び社",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今般、政府においては、与党提言等を受けて、防衛装備移転三原則と運用指針の改定により「5類型」を撤廃し、原則すべての完成品が輸出可能となったものの、相手国からのオフセット要求への対応や、維持・整備への対応、知的財産権の取り扱い、国内および相手国法令への準拠、大型プラットフォームにおいては一社ではなく複数社が防衛省と直接契約関係にあるなど、民間企業単独では対処し切れないリスク・課題は多く存在している",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ン」作成に係る基本方針策定業務(全１件)及びマスタープラン作成",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業務(全１５件)を契約締結し、作成作業に着手",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約8,200件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約5,200件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約3,000件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約2,200件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約5,800件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約2,400件",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人件・糧食費 ２１，９６９ ２２９[１．１] ２２，２９０ ３２０ [１．５]",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "物件費 ４４，０３２",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一般物件費 １８，８５０",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2040 年度までに累計 370 兆円超である",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・1:N遠隔監視等の 事業モデル構築、 L413・L2++14事業用車両等 の社会実装支援、",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "13 システムが周辺監視し、一定の条件下で自動運転をする機能を有し、条件外でも車両が安全確保をするもの",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "る、我が国の産業や社会のＤＸを進めるために不可欠な通信基盤 （NTN15 、５Ｇ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・2030年に東名阪でのQKD の社会実装を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・国内衛星の国内打上げ比率を2030 ～2040年累計で60～80％以上とし、打上げ費用",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安全保障等に直結する社会基盤であり、民間利用の 拡大を背景に、2030年代には世",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・2030年代早期に国内企業等による衛星システムを５件以上構築し、 主要な通信･",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "衛星データ利用サービスを世界で新たに30件以上社会実装することを目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業 A社事業撤退※（2026年） B社事業撤退※（2024年）",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "させる取組を推進（2026年度は281件、5,144億円を計上）",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "16の特定重要物資を指定し、その安定供給確保のための取組に関する計画(152件(2026年7月29日現在))を認定",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "導入等における事前審査を実施（2025年度の事前届出件数：1200件）",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度は、 計 164 件について",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※2025年度は一般社団法人1件含む",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025 年度は、 計 164 件について認定を行ったところ",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "であるが、 このうち、 124件は、 中小企業による取組が",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は、 1964年に制式装備品となった64式7.62mm",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "累計で約 550 億円の認定額になっています",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株式会社吉光工業 板金加工事業部 組立1課 愛",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "溶接加工を行う株式会社吉光工業 板金加工事業部組立 1 課",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "8.1 日本の社会課題と重なる 3 分野 ............................................................................................................ 38",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "期間・審査": [
+   {
+    "quote": "• 欧米では、特に、戦時に短期間で需要が急増する装備品の重整備を、製造施設等の国による保有及び運営（いわゆるＧＯ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※１ 開発総経費の算定期間は、運用開始まで（軍用機の場合、初期作戦能力（IOC: Initial Operating Capability）の獲得まで）としている",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※なお、再編統合が一定進行したのち、 １９９８年のLockheed Martin社とNorthrop Grumman社の合併審査では、企業数の減少が競争",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 予算：50億円を超えない範囲 研究期間：2024年度～2029年度",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "から、防衛装備品の情報提供に係る許可手続（申請書類に相手先を記載、審査期間）のハード",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "過去に調達実績のある装備品や部品といったリピート品など、一定期間における調達数量が見通せるものについては、年度ごとの分割契約ではなく一括契約を可能とし、国庫債務負担行為の支払い可能年度範囲（契約年度＋4年度）の例外的適用を拡充することにより、企業の生産計画の最適化と納期が長期にわたるものへの対応を容易にし、効率化を図るべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛関連企業の国内生産体制は、国内需要や同盟国・同志国からの受注機会が増加し、供給・設備投資・人材確保が追いつかない状況にあり、さらに、増産体制を必要とする場合には短期間では解消できない課題が存在する",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "とりわけ火薬・弾薬や機材・補用品、無人機等の消耗品については、現状、事業拡大の意思決定や設備投資、人員確保を短期間で行うことは困難であり、長期的な生産基盤強化が求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、防衛装備庁との契約においては、研究開発の不確実性を踏まえた納期の柔軟な設定や期間の見直し、研究開発段階のものから試作・量産等に至るまでの納期遅延ペナルティの軽減・撤廃、技術難易度に応じた利益率の設定などにより、研究開発参画のインセンティブを高めるべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "他方、わが国防衛産業は、武器輸出三原則による事実上の輸出禁止期間が長期にわたり、防衛省・自衛隊向けの装備品を計画的に納入することに専念してきた経緯もあり、国際共同開発や装備移転を加速させる上では、法的・政治的な不確実性のほか、実戦経験不足をはじめとする多くの課題が存在する",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外国企業との商談を円滑に進めるには、官民間の情報共有および審査の迅速化が重要であり、同一内容・類型の案件について重複審査を不要とするなど改善を図るべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業経営の視点で、現在の防衛調達をみた場合、防衛装備品はリードタイムが長く、サプライヤーへの発注や材料調達のために投じた資金（売掛金）の回収期間が、一般の場合と比べ、長期に及び、資金繰りの負担が大きくなっている",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛事業の資金回収期間は長い場合、約18ヶ月であり、防衛関連企業はそれに応じた資金を準備する必要がある",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "プライム企業の資金回収期間の長期化は、サプライヤーへの支払いにも影響している（防衛装備工業会調べ）",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "期間内の防衛力抜本的強化実現に向け、令和６年度において必要かつ十分な予算を確保",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "３年程度の「変革期間」を視野に入れ、我が国経済を熱量あふれる新たなステージへと移行させるため",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "、研究開発に要する期間を飛躍的に短縮し、将来の戦いにおいて実効的に対処する能力を早期に実現",
+    "url": "https://www.mod.go.jp/j/budget/yosan_gaiyo/2024/yosan_20240328_summary.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ 指定装備品等の製造等を行う期間を超えないこと",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "◆ 管理委託契約の期間満了前に、製造施設等を買い受けて指定装備品等の製造等を行う",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（なお、買い受ける事業者が決まった場合でも、既存の管理委託契約の契約期間中は、引き続き指定",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "※ 融資の可否・額・条件については、認定に係る審査とは別途の審査により判断される",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・医療機器のサイバーセキュリティ確保、薬事審査体制の強化、国際展開 45や国際",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "場システムを活用した ニーズに応じた農産物の安定供給のほか、栽培期間が短縮さ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "72 スタートアップの迅速性を いかし、極めて短期間に一連のフィードバックサイクルを繰り返すことで、製",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "までに長期間と大規模資金を要するため、その壁を乗り越えるための支援の強化が",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ベンチャーファンド市場を活性化すべく、2026 年夏までにポートフォリオ構築期間",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "禁止法上10年とされる議決権保有制限の例外となる期間を2026年度内に見直す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に一定期間利用してもらい、評価・フィードバックを行う仕組みを構築する",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "弱性が短期間に大量に発見され得る、 ②脆弱性の発見から攻撃に至るまでの期間が大幅に短縮され得る、③ フ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "教育訓練給付金の指定講座の効果把握や申請・審査プロセス等の合理化、実績・成",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よって、部品取得に係るリードタイムが延び、計画期間内には",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "導入等における事前審査を実施（2025年度の事前届出件数：1200件）",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "研究機関向けの研究セキュリティ確保に関する手順書の策定や、外為法改正（2026年）による投資審査の高度化、対日外国投資委員会",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（※１）2026年度予算完成時勢力であり、（ ）内は現行計画期間中に予算計上した機数",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "争入札においては、 公示から入札までの期間が約1か",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "率を算定するとともに、 契約の履行期間に応じてコスト",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まれるほか、 技術提案の審査においても加点されるな",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "う契約を履行する体制にあることを、 契約の前に審査する制度",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取得を 2〜3 年から 2〜3 か月に短縮した Brave1 など、制度設計そのものが輸出可能な資",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24 か月で全領域・消耗前提の自律システムを「数千機」実戦配備する",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上記は欧州委員会が示した暫定配分であり、各国計画の審査、理事会承認、融資契約等を",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "融資条件は 10 年間の据置期間、低金利",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生産量は対象機種、集計期間、目標値／実績値の違いに注意",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "攻撃が記録され、2025 年 8 月の新モデル開始から 6 か月で 24 万機のドローンが e-",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DOT-Chain Defence 経由の平均配送期間は 10 日とされる（同",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 審査：ロシア関連スクリーニング後、科学・技術・軍事の専門家約 80 名が採点",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "NATO ストック番号（NSN）認証を 2〜3 年から 2〜3 か月に短縮",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "認証期間の短縮、プロトタ",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こにある課題を自ら把握し解決案を提示しながら、短期間で製品を実装する モデルを採る",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の要望を踏まえてシステムを短期間で更新し続ける能力が重要になる",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "い性能と信頼性を確保して長期間運用することが競争力の中心だった",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生産着手 2026 年 3 月（予定より 3 か月前倒し）",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Palantir の「顧客現場に人材が入り込み短期間でシステム実装を繰り返すモデル」、",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 審査・管理の強化：自衛隊法上の武器に該当する完成品は NSC で認可・公表のう",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ら契約まで約 3 か月半）③アジ",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "末） - 経団連は「資金回収期間が長い場合約 18 か月」に及ぶことによるサプライチェー",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「研究の期間内及び期間後に、研究の方向性や秘密性の保",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機関に技術的・倫理的審査制度の設置を求めた",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公募から契約まで約 3",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "回収期間が長い場合約 18",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "AM・3Dプリンタ": [
+   {
+    "quote": "最新設備の導入、AIを用いた検査の自動化、3Dプリンタの導入（修理・点検工程も対象）",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Programとは？経済安全保障重要技術育成プログラムの仕組み・支援対象技術・中間評価をわかりやすく解説",
+    "url": "https://www.defense-navi.com/boei-seisan-kiban-kyokaho/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（実用例）宇宙用3Dプリンター、ブロックチェーン統合プラットフォーム など",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "European Council, EU investments in defence: Council and Parliament agree to support faster, more flexible and coordinated investments in European defence https://www.consilium.europa.eu/en/press/press-",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "releases/2025/11/05/eu-investments-in-defence-council-and-parliament-agree-to-support-faster-more-flexible-and-coordinated-investments-in-european-defence/",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）経済安全保障重要技術育成プログラム（K Program）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "✓ 新たなサプライヤーとの取引の開始は喫緊の課題だが、高い品質基準をクリアできるか、試作品を製造",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "させるなどして確認しているが、こうした試作品の発注費用を軽減することが必要",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "政府としては、防衛装備品の調達のみならず、国内の防衛関連企業の生産・技術基盤の強化を通じて持続的な発展・競争力強化を促す視点を持ち、防衛需要で培われた先端技術等を、社会課題解決に活用する一方、民生技術が防衛装備品を高度化させ防衛政策に貢献するといった「防衛と民生の技術・需要の好循環」を実現すべきである、そのためにも、安全保障の観点から、国産を中心とする防衛装備品の継続的な調達を前提とし、研究開発から試作、量産、配備、維持・整備、能力更新に至る戦略の時間軸を明確化し、国内の防衛生産・技術基盤とサプライチェーンを維持・強化することが求められる",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今後の国家防衛戦略・防衛力整備計画の改定や防衛産業に関する政府の対応方針の策定にあたっては、防衛装備品の長期的なライフサイクル（構想から研究・開発、試作、生産、維持・整備、補給、用途廃止など）と調達品目・数量、長期的に企業に求める対応能力を可能な限り明示し、必要かつ十分な予算を複数年度で継続的かつ安定的に確保・拡大することが肝要である",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、防衛装備庁との契約においては、研究開発の不確実性を踏まえた納期の柔軟な設定や期間の見直し、研究開発段階のものから試作・量産等に至るまでの納期遅延ペナルティの軽減・撤廃、技術難易度に応じた利益率の設定などにより、研究開発参画のインセンティブを高めるべきである",
+    "url": "https://www.keidanren.or.jp/policy/2026/026_honbun.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "下：金属3Dプリンタ導入による自動化（イメージ）",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "火器（小火器、火砲等）、指向性エネルギー兵器、誘導弾発射装置、ロケット弾発射装置、",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "➢ 積層造形機（３Ｄプリンタ）等",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・製造工程において、従来の機械加工に替えて、積層造形機（３Ｄプリンタ）等を導入",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（積層造形機（３Ｄプリンタ）等の導入による部品代替の実現可能性の調査研究を含む）",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "▸ 委託先 ： General Dynamics Land Systems社",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・免疫・再生医療等の 基礎研究力強化、国際水準の治験実施体制整備、AMED 41によ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "44 スタートアップ等が迅速に試作品開発を行い製品を洗練させていける環境",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、柔軟な契約に基づく研究試作の推",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経済安全保障重要技術育成プログラム（K Program）において、51の支援対象技術を選定した上で、指定基金協議会を組織し、重要技",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": " 03式中SAM改・能力向上の取得",
+    "url": "https://www.cas.go.jp/jp/seisaku/boueiryoku_kaigi/sogoteki_dai4/shiryo2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "え、積層造形機（３Ｄプリンタ）などを導入し、",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SBIR、ファストパス調達、K Program",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の DAML Program（DARPA Agent Markup Language）等の国防系セマンティックウェブ研",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DAML の研究成果が同社製品へ直接承継されたことを示す一次資料は本調査では確認でき",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Aeronautical の Amber で実証された技術が Predator へ発展",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "①防衛・情報機関向け意思決定基盤「Gotham」 ②企業向けデータ・業務基盤",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "試作品の開発だけでなく、設計から量産までを競争力にしようとしている点 が、従来の防",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「Kizuna」 日本製部品のみで構成した自律ドローン試作機を 2025 年に公開",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "上、AMTI 衛星最大 600 機構想",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Program 等の経済安保枠組みを活用した量産設備投資支援を明記",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Program は日本のデュアルユース政策の実質的な入口になっている",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Program／サプライチェーン支援と防衛需要の接続が政策的に公認された",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「Fujitsu Accelerator Program for Defense Tech」開始",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Program 基金 5,000 億円",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• K Program における防衛省関与の定量的な内訳",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "K Program 経済安全保障重要技術育成プログラム",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 内閣府「経済安全保障重要技術育成プログラム（K Program）」",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 欧州委員会「EDF 2026 Work Programme」（2025 年 12 月 17 日）／「€1.07",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• NATO DIANA「2026 Challenge Programme」",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/b7f34efe514a96c96d56.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "素材の内訳": [
+   {
+    "quote": "【対象部材】サマリウムコバルト磁石 / ネオジム磁石 / タンタル（金属・合金）/ タングステン粉末 / タングステン重合金",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "下：金属3Dプリンタ導入による自動化（イメージ）",
+    "url": "https://www.mod.go.jp/atla/hourei/hourei_dpb/01_gaiyo_dpb_shisaku_r080521.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "半導体回路や航空機エンジン等で活用される高機能・高付加価値な革新的金属部",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "我が国金属部素材メーカー等の高い技術開発能力をい かし、革新的金属部素材の",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・2030年に航空機エンジン向け高機能金属で 世界シェア５割、半導体回路向け高機",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "能金属で世界シェア８割を目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・航空機エンジン向け高機能金属等について、革新的金属部素材の素材探索に加え、",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・スタートアップによる革新的金属部素材の開発に向けたＡＩ等のＤＸ技術の社会",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・革新的金属部素材に必要な希少原材料の確保に資するリサイクル技術開発、設備",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アルミニウムやレアメタルを中心に、欧州を始め需要サイドでも脱炭素化要請が",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "投資、国・地方公共団体による初期需要創出を通じ、高品質な低炭素金属部素材市",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・アルミニウムは、2030 年代前半に年間約90万トン以上の高品質な低炭素アルミ市",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "アルミ展伸材について、2030 年時点で国内生",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "産量の約４割を目安として再生アルミ原料由来とすることを目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "に向け、リチウムで年間約10万トン、ニッケルで 年間約９万トン、コバルトで 年",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・アルミスクラップ溶解設備等の低炭素金属部素材生産基盤の構築や、リサイクル",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・低炭素金属部素材の国内初期需要創出に向け、グリーン購入法等を踏まえた国・",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・低炭素金属部素材のＧＸ価値の国際標準への反映を図る",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・2030年までにベースメタル （銅、亜鉛、スズ、鉛） の自給率を80 ％以上とし、その",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・国内で生産される電解銅の約３割を再生資源由来とすることを目指す",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "する、域内のカーボンニュートラル/ネット・ゼロ排出に向けた協力のための枠組み",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/jgs2026.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "きましたが、 重要部品の金属加工においては熟練工の",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当社は工作機械部門を有し、 金属加工製造ラインの",
+    "url": "https://www.mod.go.jp/j/press/wp/wp2026/pdf/R08040201.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T16:40:00.679657+00:00"
+}

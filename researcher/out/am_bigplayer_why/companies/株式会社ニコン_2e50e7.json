@@ -1,0 +1,4022 @@
+{
+ "name": "株式会社ニコン",
+ "aliases": [
+  "ニコン",
+  "Nikon SLM Solutions",
+  "Nikon Advanced Manufacturing"
+ ],
+ "context": "金属AM（SLM Solutions買収）",
+ "researched_at": "2026-11-06T16:46:37.202723+00:00",
+ "official_url": "https://www.jp.nikon.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "参入の時期と形": [
+   {
+    "quote": "スポーツフォトグラファー向けに世界初1.4倍テレコンバーター内蔵の開放F値2.8一定望遠ズームレンズ「NIKKOR Z 120-300mm f/2.8 TC VR S」を発売",
+    "url": "https://www.jp.nikon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始",
+    "url": "https://www.jp.nikon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツフォトグラファー向けに世界初1.4倍テレコンバーター内蔵の開放F値2.8一定望遠ズームレンズ「NIKKOR Z 120-300mm f/2.8 TC VR S」を発売 | ニュース | Nikon 企業情報",
+    "url": "https://www.jp.nikon.com/company/news/2026/1029_01/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ニコンの子会社、株式会社ニコンイメージングジャパンは、フルサイズ/FXフォーマットミラーレスカメラ対応の大口径望遠ズームレンズ「NIKKOR Z 120-300mm f/2.8 TC VR S」を発売します",
+    "url": "https://www.jp.nikon.com/company/news/2026/1029_01/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、テレコンバーターを内蔵しながらも、「AF-S NIKKOR 120-300mm f/2.8E FL ED SR VR」（2020年発売）と比較し、約515g軽い質量約2,735gを達成",
+    "url": "https://www.jp.nikon.com/company/news/2026/1029_01/",
+    "pass": 1
+   },
+   {
+    "quote": "日本での予約販売受付は、11月5日10時より開始します",
+    "url": "https://www.jp.nikon.com/company/news/2026/1029_01/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ニコンの子会社、株式会社ニコンイメージングジャパンは、ゴルフ用レーザー距離計の最高峰モデル「COOLSHOT PROIII STABILIZED」の新たなカラー「ブラック」を数量限定で発売します",
+    "url": "https://www.jp.nikon.com/company/news/2026/1029_02/",
+    "pass": 1
+   },
+   {
+    "quote": "予約販売受付は、11月5日10時より開始します",
+    "url": "https://www.jp.nikon.com/company/news/2026/1029_02/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始 | ニュース | Nikon 企業情報",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/",
+    "pass": 1
+   },
+   {
+    "quote": "）のFPD露光装置「FX-6ASLH」の受注を開始しました",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツフォトグラファー向けに世界初1.4倍テレコンバーター内蔵の開放F値2.8一定望遠ズームレンズ「NIKKOR Z 120-300mm f/2.8 TC VR S」を発売",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "解像度1.5µmのデジタル露光装置「DSP-110」を発売",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "フルサイズミラーレスカメラ「ニコン Z5IIC」を発売",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "アライメントステーション「Litho Booster 1000」を発売",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "従来モデル比最大6倍の高速スキャンと、小型・軽量化を実現したレーザーレーダ「APDIS MV5X」を発売",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコン双眼鏡「MONARCH M5 10x50/12x50」「PROSTAFF P7 10x50/12x50」を発売",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコン双眼鏡「ACTION 8x42」「ACTION ZOOM 10-22x50」を発売",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコン双眼鏡「SPORTSTAR EX II」を発売",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "商業宇宙ステーション事業を行う、米国Vast, Inc.への出資に関して",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "大幅な軽量化に加え、卓越した描写力と次世代の高性能AFを両立した大口径望遠ズームレンズ「NIKKOR Z 70-200mm f/2.8 VR S II」を発売",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "米国Trener Roboticsへの出資に関して",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広いシーンでの映像表現が可能、携行性にも優れた標準ズームレンズ「NIKKOR Z 24-105mm f/4-7.1」を発売",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツフォトグラファー向けに世界初1.4倍テレコンバーター内蔵の開放F値2.8一定望遠ズームレンズ「NIKKOR Z 120-300mm f/2.8 TC VR S」を発売",
+    "url": "https://www.jp.nikon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始",
+    "url": "https://www.jp.nikon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "解像度1.5µmのデジタル露光装置「DSP-110」を発売",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツフォトグラファー向けに世界初1.4倍テレコンバーター内蔵の開放F値2.8一定望遠ズームレンズ「NIKKOR Z 120-300mm f/2.8 TC VR S」を発売",
+    "url": "https://www.jp.nikon.com/company/updates/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始",
+    "url": "https://www.jp.nikon.com/company/updates/",
+    "pass": 1
+   },
+   {
+    "quote": "解像度1.5µmのデジタル露光装置「DSP-110」を発売",
+    "url": "https://www.jp.nikon.com/company/updates/",
+    "pass": 1
+   },
+   {
+    "quote": "フルサイズミラーレスカメラ「ニコン Z5IIC」を発売",
+    "url": "https://www.jp.nikon.com/company/updates/",
+    "pass": 1
+   },
+   {
+    "quote": "アライメントステーション「Litho Booster 1000」を発売",
+    "url": "https://www.jp.nikon.com/company/updates/",
+    "pass": 1
+   },
+   {
+    "quote": "COOLPIX 900：デジタルで「撮る」を立ち上げるために",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、東京計器製作所の光学計器部門、岩城硝子製造所の反射鏡部門、藤井レンズ製造所を統合した新しい光学会社設立が計画された",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "5月ごろから光学ガラス熔解試験を開始し、6月に350kgるつぼで初の窯出しを行った",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "超小型双眼鏡「ミクロン4×、6×」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1921（大正10）年に発売した超小型双眼鏡「ミクロン」は、初めてニコンで開発、設計、製造のすべてを行った双眼鏡のひとつ",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1948年（昭和23年）と1997（平成9）年には復刻版が発売され、現在も販売される人気機種である",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンの写真レンズ開発も、彼らによって本格的な設計が開始された",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その努力が実り、1925（大正14）年には「JOICO（ジョイコ）顕微鏡」を発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ガラス精密焼鈍（アニール）の研究も開始し、廊下の片隅に炉をつくり、試験ガラスの歪みの変化を観測した",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "測量機「レベルE型」「トランシットG型」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "写真左は「レベルE型」、写真右は「トランシットG型」に改良が加えられ1949年に発売された「トランシットG2型」",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ニコンⅠ型」は、発売に先行して雑誌広告が掲載されるなど、その期待は大きかった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "発売にこぎつけたのも束の間、そこからが本当の戦いだった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "発売当初は「ニコン」として売られたが、後続のカメラと区別するため、後に、製品名称に「I型」が追加された",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "写真文化の向上のため「ニッコールクラブ」設立",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "設立発起人には、海外からはライフやマグナムの著名なカメラマン、国内では著名な写真家のほか、小説家、学者、映画俳優なども名を連ねた",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "木村伊兵衛、土門拳、三木淳、亀倉雄策、溝口健二、高峰秀子氏などが発起人となり設立",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "レンジファインダーカメラ「ニコンSP」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "超高解像力レンズ「ウルトラマイクロ・ニッコール」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「光電式ロータリーエンコーダRIE型」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "開発のベースには、1968年に発売されていた「ニコンフォトミックFTN」が選ばれた",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "精密光波測距装置「MND-2」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ニコンF2」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1972年1月、報道機関向けに「NIKKOR‒H 300mm F2.8」が発売され、札幌五輪のさまざまな競技の撮影に使われた",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年、ルーリングエンジン2号機は完成し、分光分析機「ニコン・モノクロメータG-250」に搭載する2インチ角の回折格子の量産が開始された",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算説明会の動画配信を開始しました",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算説明会の動画配信を開始しました",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期決算説明会の動画配信を開始しました",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始",
+    "url": "https://www.jp.nikon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始 | ニュース | Nikon 企業情報",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/",
+    "pass": 1
+   },
+   {
+    "quote": "）のFPD露光装置「FX-6ASLH」の受注を開始しました",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始",
+    "url": "https://www.jp.nikon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金属アディティブマニュファクチャリング装置（DED方式金属3Dプリンター）",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "金属アディティブマニュファクチャリング装置（L-PBF方式金属3Dプリンター）",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始",
+    "url": "https://www.jp.nikon.com/company/updates/",
+    "pass": 1
+   },
+   {
+    "quote": "光加工機は、ニコン独自の金属加工機で、造形・肉盛りといった金属3Dプリンターの要素マーキング、接合、さらには研磨まで、レーザーによる様々な金属加工を高精度で容易に行うことができる",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月29日、100年以上にわたって拠点を構え、さまざまな製品やサービスを生み出してきたゆかりの地である東京都品川区西大井に本社を移転",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月に米国カリフォルニア州ロングビーチに開設した「Nikon AM Technology Center」のアジア拠点として開設",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル露光装置「DSP-100」の受注開始",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "）の高解像度かつ600mm角の大型基板に対応した、デジタル露光装置「DSP-100」の受注を2025年7月より開始",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "の設備投資を支援し、製造拠点を整備するとともに、再生・細胞医療・遺伝子治療製品の次世代製造に必要な自動化装置や品質管理システムの導入を促進するもの",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "光学部品の生産技術の強化に向けた国内拠点の再編について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Global 450 Consortiumから450mmウエハー対応液浸露光装置を受注",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "精機カンパニーの事業拠点再編と改革について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初 サブミクロン解像度のFPD露光装置「FX-6ASLH」の受注開始 | ニュース | Nikon 企業情報",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/?b2b-bu=fpd",
+    "pass": 1
+   },
+   {
+    "quote": "）のFPD露光装置「FX-6ASLH」の受注を開始しました",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/?b2b-bu=fpd",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターで、宇宙産業を変革する",
+    "url": "https://www.jp.nikon.com/company/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第２四半期（中間期）の連結業績予想につきましては、売上収益は、概ね前回予想どおりとなる見込みです",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な半導体市況の恩恵を受けた精機事業におけるサービス売上の上振れ、費用抑制や一部支出の後ろ倒しによる販売費および一",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通期の連結業績予想につきましては、売上収益は、主に映像事業における下期の販売計画の見直しにより、前回予想を下回る",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定資産について58 億円の減損損失および保有期間が長期化している棚卸資産について56 億円の評価損",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を一時費用（総額113 億円）として計上いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、個別決算（日本基準）においても、 本件について固定資産の減損損失56 億円および棚卸資産の",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "評価損56 億円を一時費用（総額112 億円）として計上いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益、営業利益、税引前利益および親会社の所有者に帰属する当期利益を、 それぞれ上記１．（１）のとおり下方修正いたし",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第２四半期（中間期）の連結業績につきましては 、売上収益は 主にデジタルマニュファクチャリング事業の販売 繰延による下振",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通期の連結業績予想につきましては、精機事業やデジタルマニュファクチャリング事業で販売が下振れる見通しのため、売上収",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、前回発表予想には織り込んでいなかった米国関税影響を反映した影響もあり、売上収益 90 億円、営業利益及び税引",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前利益 110 億円をそれぞれ下方修正いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "伴う繰延税金資産（法人税等調整額）93 億円の計上があり、15 億円上方修正いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250508_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結業績につきましては、売上収益、営業利益および税引前利益は概ね前回予想通りとなりましたが、決算手続きの過程で連結",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250508_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "能価額を下回った固定資産について79億円の減損損失、将来において収益の確保が困難となった棚卸資産について 50億円の評",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価損、また、サービス拠点最適化のための構造改革費用13億円を一時費用（総額142億円）として計上することといたしました",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益は、映像事業とデジタルマニュファクチャリング事業で販売計画を下回った結果、 全社の売上収益は前回予想を若干",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "下回り7,150 億円となる見込みです",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、映像事業とデジタルマニュファクチャリング事業 における売上収益の下振れに加え、上記１．にある一時費用の計上により、",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する中間利益 基本的１株当たり中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ケア事業のアイケアソリューション分野で一時費用10億円、コンポーネント事業のインダストリアルソリューションズ事業（旧産業機器",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業）で構造改革関連の費用25億円を見込み、上記１．（２）の通り下方修正いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3) 株式の取得価額の総額 300 億円（上限）",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニコン「CFO経営」に試練 3Dプリンターで巨額損失、縮小均衡の危機 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に買収した金属3Dプリンター事業にからむ巨額損失が生じ、26年3月期は過去最大となる850億円の最終赤字に沈む見通しだ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "苦境ニコン、成長投資5年で3500億円 半導体装置は最先端で勝負せず",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン最終黒字100億円 27年3月期、減損影響なくなる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン社長「3Dプリンターに半導体の知見注入」 カメラもテコ入れ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンがオフィスでも使える金属3Dプリンターを作った理由 | リコー",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "ものづくり、先端医療、研究開発",
+    "url": "https://www.jp.nikon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NEDOの「ポスト5G情報通信システム基盤強化研究開発事業／先端半導体製造技術の開発（補助）」に採択",
+    "url": "https://www.jp.nikon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、歩留まりの高い量産プロセスの実現に貢献します",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/",
+    "pass": 1
+   },
+   {
+    "quote": "NEDOの「ポスト5G情報通信システム基盤強化研究開発事業／先端半導体製造技術の開発（補助）」に採択 | ニュース | Nikon 企業情報",
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/",
+    "pass": 1
+   },
+   {
+    "quote": "のデジタル露光装置の開発において、NEDO（国立研究開発法人 新エネルギー・産業技術総合開発機構）が行う、「ポスト5G情報通信システム基盤強化研究開発事業／先端半導体製造技術の開発（補助）」に採択されました",
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンは、先端半導体製造装置開発における「大面積かつ高精細露光装置開発」のテーマに対し、「高精細アドバンストパッケージ用デジタル露光装置の開発」を提案し、採択されました",
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/",
+    "pass": 1
+   },
+   {
+    "quote": "ポスト5Gと呼ばれる次世代通信技術やAIの普及による情報量増大、その消費電力抑制といった課題を解決するため、高性能半導体デバイスの開発が加速しています",
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、半導体デバイス製造の後工程（アドバンストパッケージング）において技術革新が進んでおり、Panel Level Packagingでは、大型基板向けの高精細かつ高密度なRDL（再配線層）を形成可能な露光技術が重要となります",
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/",
+    "pass": 1
+   },
+   {
+    "quote": "NEDOの「ポスト5G情報通信システム基盤強化研究開発事業／先端半導体製造技術の開発（補助）」に採択",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙戦略基金 共通環境整備費を活用した追加支援対象に選定",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "NASA支援のプロジェクトに採択された生細胞観察装置が国際宇宙ステーションへ",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "商業宇宙ステーション事業を行う、米国Vast, Inc.への出資に関して",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり、先端医療、研究開発",
+    "url": "https://www.jp.nikon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "NEDOの「ポスト5G情報通信システム基盤強化研究開発事業／先端半導体製造技術の開発（補助）」に採択",
+    "url": "https://www.jp.nikon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり、先端医療、研究開発",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "半導体後工程露光（アドバンストパッケージング）",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "半導体後工程露光（アドバンストパッケージング）：デジタル露光装置「DSP-100」と製品製造ソリューションの提供",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙輸送コストを変える製造技術：AM技術がロケット開発にもたらす価値",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "AM技術によるロケットエンジンの一体造形と再利用が、製造工程を簡素化し、宇宙輸送コストの低減に貢献する仕組みを実証事例とともに紹介します",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "NEDOの「ポスト5G情報通信システム基盤強化研究開発事業／先端半導体製造技術の開発（補助）」に採択",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "環境への配慮や医療への貢献、そして未知なる体験の提供に向けて、",
+    "url": "https://www.jp.nikon.com/company/corporate/brand/ad/",
+    "pass": 1
+   },
+   {
+    "quote": "摩擦抵抗の低減で、エネルギー効率を高め、脱炭素化へ貢献",
+    "url": "https://www.jp.nikon.com/company/corporate/brand/ad/",
+    "pass": 1
+   },
+   {
+    "quote": "医療発展のために」篇（15秒）",
+    "url": "https://www.jp.nikon.com/company/corporate/brand/ad/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォンや家電など様々な製品に組み込まれる「半導体」を生み出す半導体製造装置",
+    "url": "https://www.jp.nikon.com/company/corporate/brand/ad/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンはその装置の一つ「半導体露光装置」を展開する世界で３社しかいないうちの１社なんです",
+    "url": "https://www.jp.nikon.com/company/corporate/brand/ad/",
+    "pass": 1
+   },
+   {
+    "quote": "NEDOの「ポスト5G情報通信システム基盤強化研究開発事業／先端半導体製造技術の開発（補助）」に採択",
+    "url": "https://www.jp.nikon.com/company/updates/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙戦略基金 共通環境整備費を活用した追加支援対象に選定",
+    "url": "https://www.jp.nikon.com/company/updates/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり、先端医療、研究開発",
+    "url": "https://www.jp.nikon.com/company/corporate/businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンフォトミックFTN：宇宙という究極の撮影現場へ",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年、人類史上初めて月面で自動車を走らせたアポロ15号",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ウルトラマイクロ・ニッコール：産業用レンズが築いた半導体大国の礎",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「アニター12cm F4.5」は1929（昭和４）年末に試作完了後、さらに修正され、1931年には本家のテッサーに見劣りしないレベルに達したといわれるまでになった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その目的はひとえにガラスの品質の向上、量産技術の確立にあった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "役目を終えた後、2014年4月からは、国立科学博物館の地球館地下3階、「宇宙を探る」コーナーにて常設展示されている",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "苦心の末に試作品ができても、撮影したら思うような画質にならない",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1933年（昭和8）年、地図製作を目的とした航空写真機用レンズを納入したことからNIKKORレンズの歴史は始まる",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "最初に70cm F5のほか、小型航空写真用として18cm F4.5のNIKKORレンズが納入された",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ウルトラマイクロ・ニッコール」は、「史上最も精密な機械」と呼ばれることになる半導体露光装置の核となる技術として受け継がれていく",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971（昭和46）年1月、ニコンはNASA（アメリカ航空宇宙局）からの依頼に応えてある契約を結んだ",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙という極限の環境でも確実にカメラが機能するように要求されたNASAの仕様",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "NASA仕様の「ニコンフォトミックFTN」は、その後、宇宙飛行士3名が長期間にわたって居住可能な宇宙実験室、スカイラブにも特殊カメラシステムとして採用された",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "連続溶解によって他社に先がけて大型化・量産化した",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "現在「EDガラス」は、交換レンズはもとより、双眼鏡、フィールドスコープにも採用され、さらに派生したガラスは半導体露光装置の投影レンズに用いられ、ニコン製品に不可欠な存在となっている",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ダイヤモンドカッターの研磨技術、回折格子の量産に向けたレプリカ製作技術などの開発にも取り組んだ",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年、ルーリングエンジン2号機は完成し、分光分析機「ニコン・モノクロメータG-250」に搭載する2インチ角の回折格子の量産が開始された",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ルーリングエンジン2号機の実現は、ニコンが半導体露光装置を開発する大きなきっかけとなった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "植村が犬ぞりで使用するトランクに試作品を入れて、大井製作所の階段から転がり落として衝撃テストを行った",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、2年後の1978年3月、「試作1号機」を超LSI研に納入",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに「試作2号機」を完成させ、いずれも高い評価を受けた",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1978（昭和53）年の秋、NASA（アメリカ航空宇宙局）からスペースシャトルに搭載するカメラ製作の依頼があった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "主に半導体製造のリソグラフィ工程・エッチング工程における外観検査に使用され、歩留まりの向上や製造ラインの安定化に寄与",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンは、半導体露光装置の技術を活かして、液晶ディスプレイ製造用などのFPD（フラットパネルディスプレイ）の露光装置開発に取り組んだ",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当時の半導体露光装置の露光範囲は最大30mm角であったが、この装置は75mm角までの対応を可能にした",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "再生医療の実用化に向け、株式会社ヘリオスと業務・資本提携関係を拡大",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ASMLおよびCarl Zeissに対する半導体露光装置に関する特許侵害訴訟の提起について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ヘリオスと再生医療の実用化に向けた業務・資本提携契約を締結",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコン 半導体露光装置生産用新棟建設の一部延期",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "米国 DRVision Technologies LLC との業務提携により、半導体検査装置・測定機・顕微鏡分野におけるソフトウェア開発力を強化",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコン 半導体露光装置生産用新棟2棟を建設",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコングループは、光を核とした技術と創造力を活かし、エネルギー効率の向上や循環設計などを推進するとともに、サプライチェーン全体での脱炭素化や資源循環への対応を進めています",
+    "url": "https://www.jp.nikon.com/company/sustainability/environment/",
+    "pass": 1
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "精機事業における一時費用（固定資産の減損損失および棚卸資産の評価損）の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/ir_library/result/",
+    "pass": 1
+   },
+   {
+    "quote": "連結財務諸表におけるのれん等の非金融資産の減損損失、個別財務諸表における固定資産の減損損失および関係会社株式評価損の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/ir_library/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期連結業績予想の修正及び減損損失の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/ir_library/result/",
+    "pass": 1
+   },
+   {
+    "quote": "販売が既に終了している製品や、組織の変更等、最新の情報と異なる場合がありますのでご了承ください",
+    "url": "https://www.jp.nikon.com/company/news/2026/1029_01/",
+    "pass": 1
+   },
+   {
+    "quote": "販売が既に終了している製品や、組織の変更等、最新の情報と異なる場合がありますのでご了承ください",
+    "url": "https://www.jp.nikon.com/company/news/2026/1029_02/",
+    "pass": 1
+   },
+   {
+    "quote": "販売が既に終了している製品や、組織の変更等、最新の情報と異なる場合がありますのでご了承ください",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/",
+    "pass": 1
+   },
+   {
+    "quote": "販売が既に終了している製品や、組織の変更等、最新の情報と異なる場合がありますのでご了承ください",
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/",
+    "pass": 1
+   },
+   {
+    "quote": "精機事業における一時費用（固定資産の減損損失および棚卸資産の評価損）の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Mark Roberts Motion Control Limitedの譲渡について",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "連結財務諸表におけるのれん等の非金融資産の減損損失、個別財務諸表における固定資産の減損損失および関係会社株式評価損の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "販売が既に終了している製品や、組織の変更等、最新の情報と異なる場合がありますのでご了承ください",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "戦後の日本では、かさばる文書をマイクロフィルムに縮小して焼き付けて保存するために、米国の最先端マイクロファイルシステムを導入していたが、アルファベットと比べて漢字は画数が多く、導入されたレンズでは解像力が不十分であった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "超LSI製造用縮小投影型露光装置「NSR-1010G」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "超LSI研はニコンに回路パターンを10分の1にする縮小投影型露光装置、ステッパーの開発を依頼した",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年2月には、国産初の商用機、縮小投影型露光装置「NSR-1010G」を発表",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "縮小投影型露光装置「NSR-1010i3」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "縮小投影型露光装置「NSR-1505EX」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "富士写真フイルム（現 富士フイルム）と共同で開発した、独自の縮小光学系を搭載した一眼レフ型デジタル（スチル）カメラ",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "縮小投影型露光装置「NSR-S201A」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "縮小投影型露光装置「NSR-S306C」の発表",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、外力を感知してロボットを安全に停止させたり、人がロボットを直接動かして動作を記憶させる「ダイレクトティーチング」など、さまざまな機能をロボットに盛り込むことが可能だ",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "精機事業における一時費用（固定資産の減損損失および棚卸資産の評価損）の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "連結財務諸表におけるのれん等の非金融資産の減損損失、個別財務諸表における固定資産の減損損失および関係会社株式評価損の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡制限付株式報酬としての自己株式の処分及び業績連動型株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡制限付株式報酬としての自己株式の処分及び業績連動型株式報酬としての自己株式の処分に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "自己株式の取得状況及び取得終了並びに自己株式の消却に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "（訂正）「譲渡制限付株式報酬としての自己株式の処分及び業績連動型株式報酬としての自己株式の処分に関するお知らせ」の一部訂正について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期連結業績予想の修正及び減損損失の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "自己株式の取得状況及び取得終了に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "連結子会社（映像事業の中国の生産子会社）の操業停止に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "光学部品の生産技術の強化に向けた国内拠点の再編について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "精機カンパニー生産子会社再編の詳細について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "精機カンパニーの事業拠点再編と改革について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "自己株式の市場買付け及び取得終了に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "販売が既に終了している製品や、組織の変更等、最新の情報と異なる場合がありますのでご了承ください",
+    "url": "https://www.jp.nikon.com/company/news/2012/0203_01/",
+    "pass": 1
+   },
+   {
+    "quote": "販売が既に終了している製品や、組織の変更等、最新の情報と異なる場合がありますのでご了承ください",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/?b2b-bu=fpd",
+    "pass": 1
+   },
+   {
+    "quote": "販売が既に終了している製品や、組織の変更等、最新の情報と異なる場合がありますのでご了承ください",
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/?b2b-bu=sc",
+    "pass": 1
+   },
+   {
+    "quote": "販売が既に終了している製品や、組織の変更等、最新の情報と異なる場合がありますのでご了承ください",
+    "url": "https://www.jp.nikon.com/company/news/2026/1013_01/?b2b-bu=sc",
+    "pass": 1
+   },
+   {
+    "quote": "通期の連結業績予想につきましては、売上収益は、主に映像事業における下期の販売計画の見直しにより、前回予想を下回る",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精機事業における一時費用（固定資産の減損損失および棚卸資産の評価損）の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、2026 年３月期第４四半期連結会計期間において、固定資産の減損損失および棚卸資産の評価損を一",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．一時費用（固定資産の減損損失および棚卸資産の評価損）の計上",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定資産について58 億円の減損損失および保有期間が長期化している棚卸資産について56 億円の評価損",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、個別決算（日本基準）においても、 本件について固定資産の減損損失56 億円および棚卸資産の",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "れに加え、デジタルマニュファクチャリング事業の非金融資産の 減損損失および精機事業の棚卸評価損見込みを織り込んだ結果、",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結財務諸表におけるのれん等の非金融資産の減損損失、",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "個別財務諸表における固定資産の減損損失および関係会社株式評価損の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、2026 年３月期第３四半期において、連結財務諸表におけるのれん等の非金融資産の減損損失、なら",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "びに個別財務諸表における固定資産の減損損失および関係会社株式の評価損を計上することとなりましたので、",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．連結財務諸表におけるのれん等の非金融資産の減損損失の計上について",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "将来キャッシュ・フローの減少が見込まれ、複数の資産に減損の兆候が認められました",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に係る減損損失として90,627百万円を計上することとなりました",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "減損損失を計上した主要な項目は以下のとおりです",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "んの全額60,568百万円および識別可能無形資産の一部26,244百万円の減損損失を計上いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２. 個別財務諸表における固定資産の減損損失および関係会社株式評価損の計上について",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社DM 事業に係る固定資産については、 前記１. に記載のとおり、 連結財務諸表において減損損失を計",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社個別財務諸表（日本基準）においても、同事業に係る固定資産の減損損失3,176 百",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開発事業譲渡益が前倒し計上されたことやヘルスケア事業・コンポーネント事業における経費抑制及び繰延などにより上記１．（１）",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "株主還元方針の変更、および自己株式取得に係る事項の決定に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/ir_library/result/",
+    "pass": 1
+   },
+   {
+    "quote": "商業宇宙ステーション事業を行う、米国Vast, Inc.への出資に関して",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "米国Trener Roboticsへの出資に関して",
+    "url": "https://www.jp.nikon.com/company/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第162期定時株主総会決議ご通知を掲載しました",
+    "url": "https://www.jp.nikon.com/company/updates/",
+    "pass": 1
+   },
+   {
+    "quote": "米国の宇宙航空機部品受託加工会社Morf3D Inc.（現 Nikon AM Synergy Inc.）に出資、子会社化",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第162期定時株主総会決議ご通知を掲載しました",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第161期定時株主総会決議ご通知を掲載しました",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第160期定時株主総会決議ご通知を掲載しました",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第159期定時株主総会決議ご通知を掲載しました",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第158期定時株主総会決議ご通知を掲載しました",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "再生医療の実用化に向け、株式会社ヘリオスと業務・資本提携関係を拡大",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元方針の変更、および自己株式取得に係る事項の決定に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第154期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第153期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ヘリオスと再生医療の実用化に向けた業務・資本提携契約を締結",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "米国Carbon3D社への出資に関して",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第152期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "米国Tribogenics社への出資に関して",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第151期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "英国Optos社株主総会における承認決議に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "英国Optos社株主へのスキーム・オブ・アレンジメント書類発送に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第150期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社日本網膜研究所への出資に関する合意のお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第149期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第148期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第147期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第146期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第145期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第144期定時株主総会を終えて",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第162期定時株主総会決議ご通知を掲載しました",
+    "url": "https://www.jp.nikon.com/company/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "税引前利益、親会社の 所有者に帰属する中",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "税引前利益、親会社の所有者に帰属する当期利益は、主に営業利益の改善に",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益、営業利益、税引前利益および親会社の所有者に帰属する当期利益を、 それぞれ上記１．（１）のとおり下方修正いたし",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "配当予想につきましては、2026年３月期の連結業績予想の修正により親会社株主に帰属する当期利益の減額が見込まれること",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益、営業利益、税引前利益及び親会社の所有者に帰属する当期利益をそれぞれ上記１．（２）の通り下方修正いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社の所有者に帰属する中間利益は、連結子会社の解散及び清算決議に",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250508_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "子会社の税金費用の見積もり額が変更となり、親会社の所有者に帰属する当期利益が前回予想を上回りました",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250508_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益、税引前利益及び親会社の所有者に帰属する当期利益は前回予想を下回る見込みです",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "配当予想につきましては、2025年３月期の連結業績予想の修正により親会社株主に帰属する当期利益の減額が見込まれること",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する中間利益 基本的１株当たり中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、2026 年３月期を最終年度とする中期経営計画の資本配分方針として、「成長投資」と「株主還元」",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自己株式の取得を実施することにより、株主還元の強化及び資本効率の",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、中期的な株主価値の向上を図るため、取得した自己株式はその全株の消却を実施します",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SLMは2016年にGEが7億4500万ドルで買収予定だったが、物言う株主の買収価格引き上げ要求で断念していた",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon米国3Dプリンタベンチャーへ約10億円出資",
+    "url": "https://idarts.co.jp/3dp/nikon-morf3d/?srsltid=AYCX9vJriUxNGfZw_1PeY4Dk1mK3qjOaDIDtANSQ5RnjV1RPU9NVrpim",
+    "pass": 3
+   },
+   {
+    "quote": "（親会社の所有者に帰属する当期損失、2026年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "の個人出資により「日本光學工業株式會社（日本光学工業株式会社、にっぽんこうがくこうぎょう）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2015年以降大井製作所の一部部門や関連会社も移転するほか、登記上の本店も2015年6月26日開催の定時株主総会で承認を受けた上で同日に移転した",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "5月 - 2026年3月期決算で、デジタルマニュファクチャリング事業の減損損失などにより、連結営業損失1,124億円、親会社の所有者に帰属する当期損失860億円を計上した",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月、EssilorLuxotticaは大量保有報告書上の議決権割合が10.75%となり、ニコンの主要株主かつ筆頭株主となった",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "これにより、歩留まりの高い量産プロセスの実現に貢献します",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/",
+    "pass": 1
+   },
+   {
+    "quote": "ポスト5Gと呼ばれる次世代通信技術やAIの普及による情報量増大、その消費電力抑制といった課題を解決するため、高性能半導体デバイスの開発が加速しています",
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題解決やイノベーション創出に向けて、ニコンのさまざまなソリューションや事例、技術情報をご紹介します",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙輸送コストを変える製造技術：AM技術がロケット開発にもたらす価値",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "AM技術によるロケットエンジンの一体造形と再利用が、製造工程を簡素化し、宇宙輸送コストの低減に貢献する仕組みを実証事例とともに紹介します",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "ニコン「Rayfact」で学ぶ、失敗しないための3つのステップ：高精細検査の精度を左右するレンズ選定の考え方",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "産業用カメラレンズの性能を最大限に引き出すには、検査対象や用途に応じた適切なレンズ選定が重要です",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "徹底的にお客様に寄り添い、潜在的ニーズや課題を解決",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンは多岐にわたる事業領域から社会課題への挑戦を続けています",
+    "url": "https://www.jp.nikon.com/company/corporate/brand/ad/",
+    "pass": 1
+   },
+   {
+    "quote": "その目的はひとえにガラスの品質の向上、量産技術の確立にあった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "旺盛な国産カメラの需要に応えるために開発が決定していた小型カメラは、当初、社名である日本光学（当時）の略称であるニッコー（Nikko）をもとに小型という意味を加えて二コレット（Nikorette）の仮称で設計が進められていた",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当時、国産カメラの需要は旺盛で、供給が追いついていなかった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年には「ニコンM型」、1950年には「ニコンS型」と、課題を次々に克服し改良が加えられていった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "主に社内用としてつくられていた投影検査機を、平行光線照明法などを採用し再設計した",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "研究用をはじめ、さまざまな検査や測定の現場で万能ぶりを発揮したため万能投影機と称された",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "連続溶解によって他社に先がけて大型化・量産化した",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ダイヤモンドカッターの研磨技術、回折格子の量産に向けたレプリカ製作技術などの開発にも取り組んだ",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年、ルーリングエンジン2号機は完成し、分光分析機「ニコン・モノクロメータG-250」に搭載する2インチ角の回折格子の量産が開始された",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密かつ高速ステージの課題は、とにかくまっすぐに動くことで、ニコンが開発したものは、東京から富士山頂にあるテニスボールに矢を命中させるほどの精度を誇ったという",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェハ検査顕微鏡装置「オプチステーション」発売",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「オプチステーション」とは、ウェハを自動搬送し、目視外観検査を効率化する装置",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1979（昭和54）年に発売したウェハ表面検査装置NICIS-MX2に代えて製品化した",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "主に半導体製造のリソグラフィ工程・エッチング工程における外観検査に使用され、歩留まりの向上や製造ラインの安定化に寄与",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "CNC（コンピューター数値制御：Computer Numerical Control）画像測定システムは、光学測定技術とコンピューターによる画像処理技術を用いて各種精密機器・電子部品等の被検物（ワーク）の寸法・形状を、高精度に自動測定・検査する装置である",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "一方、生産のオートメーション化に伴い、計測検査工程の現場においても大量に、迅速に、そして、精密に自動で測ることが強く求められていた",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ますます複雑化する先端精密部品の検査工程で高品質維持に貢献している",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "設計その他の部署から集められた10人ほどの精鋭がこの課題に取り組むこととなる",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当初、現場のリーダーから、デジタル技術の蓄積が少ない現状において2年での開発は難しい、せめて3年は欲しいという申し出があった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "100ナノメートルルールのデバイスの量産に対応したレンズスキャニング方式ArF エキシマステッパー（ArFスキャナー）",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第10世代（約3メートル角）のマザーガラスに対応し、60インチ以上の大型パネルも効率的に量産可能に",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ダブルパターニングを用いた量産プロセスに対応した半導体露光装置",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "従来、加工部品の検査には接触式の測定機が用いられてきたが、短い時間で測定することが難しく、時間を短縮すると測定点数が少なくなり、評価は不完全なものとなってしまう",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "主鏡の母材はSiC（炭化ケイ素）であり、この材料は非常に硬く加工が難しいが、精密加工技術を駆使することで完成させた",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "7ナノメートルノードプロセスの半導体量産用（マルチプルパターニング対応）として開発されたArF液浸スキャナー",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "デザインセンターでは、クリエイティビティにこだわりを持ちつつ、徹底的にお客様に寄り添い、潜在的ニーズや課題を解決していきます",
+    "url": "https://www.jp.nikon.com/company/design/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に内在している潜在的なニーズや本質的な課題を見出し、ニコンの多様な技術を組み合わせて新たな価値を創出していきます",
+    "url": "https://www.jp.nikon.com/company/design/about/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン組織の中長期計画立案からデザインの品質管理、人材育成まで、幅広く組織の基盤づくりを推進しています",
+    "url": "https://www.jp.nikon.com/company/design/about/",
+    "pass": 1
+   },
+   {
+    "quote": "まだ誰も気づいていない課題をデザインで解決する",
+    "url": "https://www.jp.nikon.com/company/design/interviews/",
+    "pass": 1
+   },
+   {
+    "quote": "「モーニングスター社会的責任投資株価指数(MS-SRI)」の構成銘柄に選定",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "国連責任投資原則（PRI）への署名機関投資家グループがニコンをリーダー企業に選定",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "米国 DRVision Technologies LLC との業務提携により、半導体検査装置・測定機・顕微鏡分野におけるソフトウェア開発力を強化",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "気候変動や資源制約などの環境課題が深刻化する中、企業には課題解決と事業成長の両立が求められています",
+    "url": "https://www.jp.nikon.com/company/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "生態系に関する依存、インパクト、リスク、機会の把握と開示とともに、各種活動を通した生態系の保全に努めています",
+    "url": "https://www.jp.nikon.com/company/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "人材を「資本」と捉え、その価値を最大限に引き出す「人的資本経営」を推進しています",
+    "url": "https://www.jp.nikon.com/company/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "事業展開上のリスク要因となる可能性があると考えられる事項を記載しています",
+    "url": "https://www.jp.nikon.com/company/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェハ全面の一括撮像による高速検査に加えて、高速計測も実現",
+    "url": "https://www.business.nikon.com/ja/products-and-services/semiconductors-and-fpds-top/",
+    "pass": 1
+   },
+   {
+    "quote": "検査と計測を1台で行い、生産性向上を実現します",
+    "url": "https://www.business.nikon.com/ja/products-and-services/semiconductors-and-fpds-top/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェハ外観検査装置 OPTISTATION",
+    "url": "https://www.business.nikon.com/ja/products-and-services/semiconductors-and-fpds-top/",
+    "pass": 1
+   },
+   {
+    "quote": "300 mmウェハの目視検査を簡単・迅速に",
+    "url": "https://www.business.nikon.com/ja/products-and-services/semiconductors-and-fpds-top/",
+    "pass": 1
+   },
+   {
+    "quote": "インライン検査システムとR&D欠陥解析の解析ツールとして、生産性の飛躍的な向上に貢献します",
+    "url": "https://www.business.nikon.com/ja/products-and-services/semiconductors-and-fpds-top/",
+    "pass": 1
+   },
+   {
+    "quote": "イメージセンサー検査用照明装置 N-SIS",
+    "url": "https://www.business.nikon.com/ja/products-and-services/semiconductors-and-fpds-top/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコン独自の技術を活用したイメージセンサー検査用照明装置",
+    "url": "https://www.business.nikon.com/ja/products-and-services/semiconductors-and-fpds-top/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、歩留まりの高い量産プロセスの実現に貢献します",
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/?b2b-bu=fpd",
+    "pass": 1
+   },
+   {
+    "quote": "ポスト5Gと呼ばれる次世代通信技術やAIの普及による情報量増大、その消費電力抑制といった課題を解決するため、高性能半導体デバイスの開発が加速しています",
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/?b2b-bu=sc",
+    "pass": 1
+   },
+   {
+    "quote": "向けの高密度配線に対する需要拡大を背景に、RDL（再配線層）露光技術の重要性が高まっています",
+    "url": "https://www.jp.nikon.com/company/news/2026/1013_01/?b2b-bu=sc",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、お客様の生産効率向上とトータルコスト低減に寄与します",
+    "url": "https://www.jp.nikon.com/company/news/2026/1013_01/?b2b-bu=sc",
+    "pass": 1
+   },
+   {
+    "quote": "多様な基板条件に対して安定したパターニングを実現し、歩留まりと量産安定性の向上に貢献します",
+    "url": "https://www.jp.nikon.com/company/news/2026/1013_01/?b2b-bu=sc",
+    "pass": 1
+   },
+   {
+    "quote": "新たな協創で、社会課題に挑むパートナーとの取り組み",
+    "url": "https://www.jp.nikon.com/company/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "２． 業績予想修正の理由",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2） 修正の理由",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   }
+  ],
+  "素材": [
+   {
+    "quote": "金属アディティブマニュファクチャリング装置（DED方式金属3Dプリンター）",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "金属アディティブマニュファクチャリング装置（L-PBF方式金属3Dプリンター）",
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "pass": 1
+   },
+   {
+    "quote": "シャッター幕は、チタン材（厚さ0.02mm）を採用",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ニコンF2チタンウエムラスペシャル」の開発",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "カメラの上部、底部、ペンタ部、エプロン部のカバーをチタン製に換装した",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当時、カメラ部品をチタンで製造できるのはニコンだけだった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "こうして、1977年12月、世界初のチタン外装の一眼レフカメラとなった「ニコンF2チタンウエムラスペシャル」3台が完成",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、1982年に南極大陸3,000キロの犬ぞり単独行と同大陸最高峰ビンソン・マシフの登頂のため「ニコンF3」を基本にした「ニコンF3チタンウエムラスペシャル」を製作したが、この年の3月から始まったフォークランド紛争により中止となり、実際の冒険に使用されることはなかった",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "植村直己冒険館（兵庫県豊岡市）に展示されている「ニコンF2チタンウエムラスペシャル」",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "従来のニッケル合金フレームに比べ強度が高いうえ、約50％の軽量化を実現",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンは光加工機「Lasermeister 100A」を、「誰にでも使える金属加工機」をコンセプトに、ものづくりに新たな市場と産業を創出することを目的に開発",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "長年に渡って、「史上最も精密な機械」と言われる半導体露光装置によって培われた、ニコンの高度な光利用技術と精密制御技術を活用することで、従来の「大きい」「高価」「操作が複雑」という金属加工機のイメージを刷新し、高品質・小型化・低価格化を実現した",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "光加工機は、ニコン独自の金属加工機で、造形・肉盛りといった金属3Dプリンターの要素マーキング、接合、さらには研磨まで、レーザーによる様々な金属加工を高精度で容易に行うことができる",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "最先端の金属アディティブマニュファクチャリング技術の開発およびソリューション・サービスを提供",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラルを目指す、航空機の技術革新－リブレット加工",
+    "url": "https://www.jp.nikon.com/company/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターで、宇宙産業を変革する",
+    "url": "https://www.jp.nikon.com/company/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "金属 3D プリンター市場の将来成長率の低下や競争環境の激化等を背景に、デジタルマニュファクチ",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（４） 事業内容 金属アディティブマニュファクチャリングにおける統合ソリューションの提供",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年に買収した金属3Dプリンター事業にからむ巨額損失が生じ、26年3月期は過去最大となる850億円の最終赤字に沈む見通しだ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンがオフィスでも使える金属3Dプリンターを作った理由 | リコー",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンがオフィスでも使える金属3Dプリンターを作った理由",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "航空・宇宙・医療など金属3Dプリンターが実際に活用される事例が増えてきた昨今、メーカーの参入も相次いでいます",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、国産の金属3Dプリンターとして独自の存在感を見せているのがニコンです",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター「Lasermeister 100Aシリーズ（以下、レーザーマイスター）」は「CAD設計する設計者がオフィスの自席の横においても稼働」できるように製造されています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "粉体を材料に扱うレーザー加工装置である金属3Dプリンターをオフィスに設置できるレベルで作りこんだニコンの取り組みは、何を目指して行われたのか",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "高温で金属粉を溶融しているにもかかわらず、この距離で近寄ってもまったく熱を感じない",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "私自身、金属3Dプリンターの開発にかかわる以前は、半導体露光装置の設計・開発に20年以上携わっていました",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "その製造で培った技術・ノウハウを活かして金属3Dプリンターを開発しました",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "いろいろ検討される中で金属のDED方式にたどり着かれたとおもうのですが、どんな経緯があったのでしょうか？",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "検討時、金属プリンターの市場に入っていくには、後発のメーカーになることがわかっていました",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "その為、装置の主流になっているPBF方式でなく、LMD方式で金属3Dプリンターを自社開発することにしました",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターによる加工は市場規模が大きいと見込まれていたことも、大きな要因です",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "LMD方式では金属粉をレーザーで溶融しながら肉盛りしていく方式なので、レーザーの制御や、フィードバック制御など、いままで培った半導体露光装置のあらゆる技術・ノウハウを活かして新しい価値を生み出せると考えました",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "光学メーカーとして培ってきたノウハウで、従来では難しかった低出力レーザーで省エネかつ低コストで金属の付加造形ができる装置を生み出すことができました",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "造形は、レーザーで加熱した部分に金属粉体を吹き付け積層していきます",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉は溶融し、固まり、造形していくので、強度としては鋳造と同等レベルとなっています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂を使用したサポートでも、除去することは手間がかかりますが、硬い金属でのサポートを除去するのは機材も技術も必要になってきます",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "また金属3Dプリンターの材料粉末は専用材料で、通常の材料より値が張ります",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "【レーザーマイスターで薄い層を造形し金属膜を生成】",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "ベースになる部品の上に薄い金属の膜をコーティングする加工を施しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "見せていただいた造形サンプルを見ていると、レーザーマイスターが単純な金属3Dプリンターを目指しているわけではないことが伝わってきました",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "品質の観点からも、金属AMという発展途上中の技術が持つリスクは許容されにくいように感じる部分はあります",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブのアプローチは、付加積層造形、と表現し既存の金属部品に新たな形状を付け足していく加工です",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばECサイトで買った部品、今ある金属部品などに、欲しい形状、少しだけ違う形状を付加する、などのアプローチです",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは樹脂を用いたものが中心でしたが、金属を用いた付加加工も徐々に活用されるようになり、金属3Dプリンターの導入に向けた動きが高まっています",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "このような環境の中、ニコンは独自開発のLMD方式の金属3Dプリンターを用いて、金属での付加加工を試してみたいお客様、金属3Dプリンターの導入を検討しているお客様に、受託加工サービスを提供します",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンの金属3Dプリンターの特長を説明します",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属アディティブマニュファクチャリング装置（金属3Dプリンター）",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属アディティブマニュファクチャリング装置(DED方式金属３Dプリンター)",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属アディティブマニュファクチャリング装置 (L-PBF方式金属3Dプリンター)",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンの金属3Dプリンターは、破損・摩耗した部品に対して、金属の肉盛りにより補修することが可能です",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンの金属3Dプリンターは、既存品に対して別の形状を新たに付け加える“付加積層造形”を行うことが可能です",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンの金属3Dプリンターは、固い材料（ハイス鋼等）で金属表面にコーティングを行い、耐摩耗性能を向上させることが可能です",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンがドイツの大手金属3Dプリンターメーカーを買収｜デジタルマニュファクチャリング業界に旋風",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "日本のニコンが金属3Dプリントに本気となった",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "実はすでに数年前より、ニコンは国産の金属3Dプリンターメーカーとして頭角を現していた",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "きっかけとなったのは2019年に発表された金属3Dプリンター「Lasermeister 100Aシリーズ」だろう",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "「CAD設計する設計者がオフィスの自席の横においても稼働」できるように製造されたというこのシリーズは、粉体を材料に扱うレーザー加工装置である金属3Dプリンターをオフィスに設置できるレベルで作りこんだという点で極めて画期的だった",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "1863年にドイツで創業し、現在は金属3Dプリンターメーカーとして知られる名門企業であるSLMソリューションズ社を買収したのだ",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "SLMソリューションズ社はこれまで金属3Dプリント業界の最先端を走ってきた",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "その実現を託されたのが、三菱の創業者である岩崎彌太郎の甥であり、当時の三菱合資会社社長、岩崎小彌太（こやた）である",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、東京計器製作所の光学計器部門、岩城硝子製造所の反射鏡部門、藤井レンズ製造所を統合した新しい光学会社設立が計画された",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京市小石川区原町120番地（現 文京区白山四丁目）の東京計器製作所内におかれた創立当時の本社",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンは創業時から顕微鏡の開発に携わり、当時の定款の生産品目にもあげられている",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "写真文化の向上のため「ニッコールクラブ」設立",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "設立発起人には、海外からはライフやマグナムの著名なカメラマン、国内では著名な写真家のほか、小説家、学者、映画俳優なども名を連ねた",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "木村伊兵衛、土門拳、三木淳、亀倉雄策、溝口健二、高峰秀子氏などが発起人となり設立",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年に迎える創立100周年を記念して開設",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創立100周年",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創立100周年記念事業の一環として「ニコン創立100周年記念ロゴ」を制定",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコン創立100周年記念製品の発売のほか、世界各地でイベントやキャンペーンを開催",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング事業の統括会社Nikon Advanced Manufacturing Inc.を米国に設立",
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "SBIインベストメントとのプライベートファンドの共同設立に関して",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "映像関連製品の販売会社「Nikon Latin America, S.A.」を設立、営業開始",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "アジア・オセアニア地域の財務統括会社「Nikon Asia Pacific Pte. Ltd.」を設立",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "映像関連製品の販売会社「P.T. Nikon Indonesia」を設立、営業開始",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「Nikon Middle East FZE」を設立、営業開始へ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「Nikon do Brasil Ltda.」を設立、営業開始",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「Nikon Sales (Thailand) Co., Ltd.」を設立、営業開始",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "中国・アジア統括会社「Nikon Holdings Hong Kong Limited（尼康香港控股有限公司）」を設立",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「Nikon Mexico S.A. de C.V.」設立、営業開始について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンシステムと富士通ビー・エス・シーが合弁会社を設立",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ニコン・アンド・エシロールインターナショナル・ジョイントリサーチセンター設立について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「Nikon (Russia) LLC.」設立、営業開始について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコングループ会社の会社分割による新会社設立について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "1863年にドイツで創業し、現在は金属3Dプリンターメーカーとして知られる名門企業であるSLMソリューションズ社を買収したのだ",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "SLMは1996年の創業で独リューベックに本社を置く金属3Dプリンター大手",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "設立年：2006年",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "医療、自動車、衛星システムに至るまで、先進的な半導体やスマートデバイスパネルなどを製造するニコンは、2019年7月に材料加工技術をはじめとする新規・成長事業の立ち上げを加速する「次世代プロジェクト本部」を設立",
+    "url": "https://idarts.co.jp/3dp/nikon-morf3d/?srsltid=AYCX9vJriUxNGfZw_1PeY4Dk1mK3qjOaDIDtANSQ5RnjV1RPU9NVrpim",
+    "pass": 3
+   },
+   {
+    "quote": "一方、2013年に設立されたMorf3D社は、複雑な設計や製造上の課題を解決するための独自の積層造形設計・解析ツールと、最先端のAM連続製造によって最適化された金属AMシステムを、航空宇宙や自動車産業向けに供給している",
+    "url": "https://idarts.co.jp/3dp/nikon-morf3d/?srsltid=AYCX9vJriUxNGfZw_1PeY4Dk1mK3qjOaDIDtANSQ5RnjV1RPU9NVrpim",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンは1917年の創立以来、100年以上にわたり、光利用技術と精密技術の可能性に挑み続けながら、社会や科学技術、文化の発展に貢献するためにさまざまな製品やサービスを提供してきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp186/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（大正6年）に「日本光学工業株式会社」として設立され、当初は双眼鏡・測距儀などの光学機器を製造した",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "の個人出資により「日本光學工業株式會社（日本光学工業株式会社、にっぽんこうがくこうぎょう）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "（昭和43年） - 創立50周年を記念して銀座三丁目に",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "に、Nikon Thailand Co., Ltd.設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "にNikon Holdings Europe B.V.を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "にNikon Polska sp.z.o.o.を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "の創業100周年を記念し、本社2階にニコンの歴史・製品・技術を展示する初の施設「",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "双眼鏡は創業初期からの製品分野で、天文、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "顕微鏡はニコンの創業以来の光学技術を応用した主要製品の一つで、研究・医療用途の各種顕微鏡システムを展開している",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2017年に迎える創立100周年を記念し、「ニコンミュージアム」を10月17日にオープン",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1917年設立の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "創業から100年以上、戦争、宇宙、デジタル革命……激動の時代を「",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "「やばい、日本独自の光学技術がないと詰む！」 ってことで、三菱財閥の岩崎小弥太さんが音頭を取って設立されたのが、",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "設立当初、やっぱり技術が足りなくて、ドイツからハインリッヒ・アハト（Heinrich Acht）さんたち8人の技術者を招いたの",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "「Nikon Sales (Thailand) Co., Ltd.」を設立、営業開始",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、これに伴い発生した、建物・設備等の固定資産およびたな卸資産の毀損に関わる損失等10,904百万円を特別損失に計上いたします",
+    "url": "https://www.jp.nikon.com/company/news/2012/0203_01/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、固定資産およびたな卸資産の損失等については保険を付保しており、被災したたな卸資産の被害額の一部について保険金500百万円が確定したため、これを特別利益に計上いたします",
+    "url": "https://www.jp.nikon.com/company/news/2012/0203_01/",
+    "pass": 1
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第２四半期（中間期）の連結業績予想につきましては、売上収益は、概ね前回予想どおりとなる見込みです",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な半導体市況の恩恵を受けた精機事業におけるサービス売上の上振れ、費用抑制や一部支出の後ろ倒しによる販売費および一",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通期の連結業績予想につきましては、売上収益は、主に映像事業における下期の販売計画の見直しにより、前回予想を下回る",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定資産について58 億円の減損損失および保有期間が長期化している棚卸資産について56 億円の評価損",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を一時費用（総額113 億円）として計上いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、個別決算（日本基準）においても、 本件について固定資産の減損損失56 億円および棚卸資産の",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "評価損56 億円を一時費用（総額112 億円）として計上いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益、営業利益、税引前利益および親会社の所有者に帰属する当期利益を、 それぞれ上記１．（１）のとおり下方修正いたし",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に係る減損損失として90,627百万円を計上することとなりました",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "んの全額60,568百万円および識別可能無形資産の一部26,244百万円の減損損失を計上いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "下回ったことから、当社において1,822 百万円、NAMS において1,588 百万円、NAMIにおいて405 百万円",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第２四半期（中間期）の連結業績につきましては 、売上収益は 主にデジタルマニュファクチャリング事業の販売 繰延による下振",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通期の連結業績予想につきましては、精機事業やデジタルマニュファクチャリング事業で販売が下振れる見通しのため、売上収",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、前回発表予想には織り込んでいなかった米国関税影響を反映した影響もあり、売上収益 90 億円、営業利益及び税引",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前利益 110 億円をそれぞれ下方修正いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "伴う繰延税金資産（法人税等調整額）93 億円の計上があり、15 億円上方修正いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250508_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結業績につきましては、売上収益、営業利益および税引前利益は概ね前回予想通りとなりましたが、決算手続きの過程で連結",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250508_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "能価額を下回った固定資産について79億円の減損損失、将来において収益の確保が困難となった棚卸資産について 50億円の評",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価損、また、サービス拠点最適化のための構造改革費用13億円を一時費用（総額142億円）として計上することといたしました",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益は、映像事業とデジタルマニュファクチャリング事業で販売計画を下回った結果、 全社の売上収益は前回予想を若干",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "下回り7,150 億円となる見込みです",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、映像事業とデジタルマニュファクチャリング事業 における売上収益の下振れに加え、上記１．にある一時費用の計上により、",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する中間利益 基本的１株当たり中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ケア事業のアイケアソリューション分野で一時費用10億円、コンポーネント事業のインダストリアルソリューションズ事業（旧産業機器",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業）で構造改革関連の費用25億円を見込み、上記１．（２）の通り下方修正いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3) 株式の取得価額の総額 300 億円（上限）",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年に買収した金属3Dプリンター事業にからむ巨額損失が生じ、26年3月期は過去最大となる850億円の最終赤字に沈む見通しだ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "苦境ニコン、成長投資5年で3500億円 半導体装置は最先端で勝負せず",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン最終黒字100億円 27年3月期、減損影響なくなる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "現時点(※2022年3月)では、カメラなど映像事業以外の産業用機器が売上の7割弱を占めており、光学メーカーとして総合的に培った強みを活かし、新たな事業展開を行っています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、ドイツの3Dプリンター大手買収 約840億円 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "買収額は6億2200万ユーロ（約840億円）",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "などへの販路を持つ米モーフ3Dを100億円弱で買収し、中小型衛星向けの部品製造に参入",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "苦境ニコン、成長投資5年で3500億円 半導体装置は最先端で勝負せず",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon米国3Dプリンタベンチャーへ約10億円出資",
+    "url": "https://idarts.co.jp/3dp/nikon-morf3d/?srsltid=AYCX9vJriUxNGfZw_1PeY4Dk1mK3qjOaDIDtANSQ5RnjV1RPU9NVrpim",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、通期予想850億円の最終赤字に 過去最大 3Dプリンター減損響く(2026年2月5日) - YouTube",
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、通期予想850億円の最終赤字に 過去最大 3Dプリンター減損響く(2026年2月5日)",
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "pass": 3
+   },
+   {
+    "quote": "資産80億円／元手50万円から増やした投資法／「株の4タイプ」解説／「景気の谷」で買って儲ける／購入した銘柄／銘柄の探し方／売り時「3つのルール」／末期がんの医師が娘に伝える【個人投資家・たーちゃん】",
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンは当初、純損益を200億円の黒字と予想していましたが、一転して850億円の赤字になる見通しです",
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "pass": 3
+   },
+   {
+    "quote": "これまで注力してきたレーザーで金属が造形できる「金属3Dプリンター」を扱う事業で906億円の減損処理をしたことが主な要因です",
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "pass": 3
+   },
+   {
+    "quote": "苦境ニコン、成長投資5年で3500億円 半導体装置は最先端で勝負せず",
+    "url": "https://www.nikkei.com/article/DGXZQOUC10C1G0Q6A610C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "決算:ニコン一転最大の赤字 26年3月期最終850億円、金属3Dプリンター減損 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "は5日、2026年3月期の連結最終損益（国際会計基準）が850億円の赤字（前期は61億円の黒字）になる見通しだと発表した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "従来予想は200億円の黒字だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "赤字額は、新型コロナウイルス禍で構造改革を実施した21年3月期（344億円の赤字）を上回って過去最大となり、事前の市場予想（QUICKコンセンサス、222億円の黒字）を大きく下回る",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "減損対象は、23年に800億円強を投じて買収した独金属3Dプリンター大手のSLMソリューションズ・グループだ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "減損額は、ニコン単体やその他グループ会社の有形・無形資産も含めて約906億円になる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "連結子会社の解散及び清算、並びに繰延税金資産（法人税等調整額）の計上に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "英国Optos社の買収（子会社化）に係るスキーム・オブ・アレンジメントの効力発生に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "英国Optos社買収に係る競争法上の承認取得に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "英国Optos社を完全子会社化するための友好的な買収手続き開始の合意について",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Metris NV社買収手続き完了に関するお知らせ",
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "開発事業譲渡益が前倒し計上されたことやヘルスケア事業・コンポーネント事業における経費抑制及び繰延などにより上記１．（１）",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社の所有者に帰属する中間利益は、連結子会社の解散及び清算決議に",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年に買収した金属3Dプリンター事業にからむ巨額損失が生じ、26年3月期は過去最大となる850億円の最終赤字に沈む見通しだ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンがドイツの大手金属3Dプリンターメーカーを買収｜デジタルマニュファクチャリング業界に旋風",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの名門企業SLMソリューションズを日本のニコンが買収",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "1863年にドイツで創業し、現在は金属3Dプリンターメーカーとして知られる名門企業であるSLMソリューションズ社を買収したのだ",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "そのSLMソリューションズを日本のニコンが買収したというのだ",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ニコンはSLMソリューションズ買収発表の2週間後、テキサスに本拠を置くHybrid Manufacturing Technologiesへの投資と、ユタ州に本社を置きアンテナやその他の無線周波数 (RF) コンポーネント用の金属AMアプリケーションを設計する企業Optisysの株式購入を発表している",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "今回の一連の買収と投資に関して、ニコンのCEOである馬立俊和氏はそのように語っているようだ",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "すでに2021年にはニコンは南カリフォルニアに拠点を置くAM企業Morf3Dも買収している",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、ドイツの3Dプリンター大手買収 約840億円 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "は2日、独3Dプリンター大手SLMソリューションズ・グループを買収すると発表した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "買収額は6億2200万ユーロ（約840億円）",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "馬立稔和社長は同日のオンライン説明会で「製造業のデジタル化やカーボンニュートラルなどで有望市場の金属3Dプリンターで世界的リーダーを目指す」と買収の狙いを話した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "SLMは2016年にGEが7億4500万ドルで買収予定だったが、物言う株主の買収価格引き上げ要求で断念していた",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "などへの販路を持つ米モーフ3Dを100億円弱で買収し、中小型衛星向けの部品製造に参入",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM Solutionsとは？【企業分析】ニコンが買収した金属3Dプリンタメーカーの技術戦略を徹底解説|TechnoProducer株式会社|",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM Solutionsとは？【企業分析】ニコンが買収した金属3Dプリンタメーカーの技術戦略を徹底解説",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年にニコンが買収したことで、日本でも話題になっています（",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、SLMのコア技術と収益構造、ニコンによる買収の狙いを詳しく解説します",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンタメーカーの比較分析 ～ニコンが買収したSLMとNo.1メーカーEOSの特許技術を解説|TechnoProducer株式会社|",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM Solutionsの技術の概要とニコン買収の背景",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "SLMを買収したニコンも、半導体露光装置など、非常に精密な光学機器を開発する企業として知られています",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "SLMを買収したニコンも、金属３Dプリンタ関連の特許出願を強化",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "以上、ニコンが買収したSLMについて、レーザーを利用した金属３Dプリント技術の概要と収益構造、金属３Dプリンタ市場でトップを狙うニコンの戦略を解説しました",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikonが米国Morf3Dを買収 | 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/nikon-morf3d/?srsltid=AYCX9vJriUxNGfZw_1PeY4Dk1mK3qjOaDIDtANSQ5RnjV1RPU9NVrpim",
+    "pass": 3
+   },
+   {
+    "quote": "Nikonが米国Morf3Dを買収",
+    "url": "https://idarts.co.jp/3dp/nikon-morf3d/?srsltid=AYCX9vJriUxNGfZw_1PeY4Dk1mK3qjOaDIDtANSQ5RnjV1RPU9NVrpim",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC10C1G0Q6A610C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "過去に買収した金属3Dプリンター事業でのれんや無形資産に関する減損損失が発生する",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "減損対象は、23年に800億円強を投じて買収した独金属3Dプリンター大手のSLMソリューションズ・グループだ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "買収価格と買収先企業の純資産との差額であるのれんや無形資産にかかる減損を計上する",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンはデジタルカメラや半導体露光装置に次ぐ収益の柱と期待し、金属3Dプリンターの大型買収に踏み切った",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、ドイツの3Dプリンター大手買収 約840億円",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "12月 藤井レンズ製造所を買収",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "では一眼レフカメラの開発から「撤退」と表現していたが",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期には、Nikon SLM Solutions買収に伴って計上したのれん・無形資産などを中心にデジタルマニュファクチャリング事業で906億円の減損損失を計上し、同事業の営業損失が拡大した",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "“ニコン、一眼レフカメラ開発から撤退 60年超の歴史に幕”",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "“ニコンが一眼レフ開発撤退と日経報道 ニコン「憶測によるもの」とコメント”",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "SLM Solutions Group AGの買収について 発表情報",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、何度かnoteでも書いている通り、RED社の買収後辺りからマーケティングの『揺らぎ』を感じてなりません",
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益は、好調",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "間利益は、主に営業利益の改善に伴い前回予想を上回る見込みです",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益は、上期実績を踏まえ、精機事業、ヘルスケア事業およびインダストリー事業の利益見通しを引き上げるこ",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "税引前利益、親会社の所有者に帰属する当期利益は、主に営業利益の改善に",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益、営業利益、税引前利益および親会社の所有者に帰属する当期利益を、 それぞれ上記１．（１）のとおり下方修正いたし",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益、営業利益、税引前利益及び親会社の所有者に帰属する当期利益をそれぞれ上記１．（２）の通り下方修正いたします",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する中間利益 基本的１株当たり 中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に 帰属する当期利益 基本的１株当たり 当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、前回発表予想には織り込んでいなかった米国関税影響を反映した影響もあり、売上収益 90 億円、営業利益及び税引",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250508_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結業績につきましては、売上収益、営業利益および税引前利益は概ね前回予想通りとなりましたが、決算手続きの過程で連結",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250508_02_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益、税引前利益及び親会社の所有者に帰属する当期利益は前回予想を下回る見込みです",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する中間利益 基本的１株当たり中間利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上収益 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的１株当たり当期利益",
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年に買収した金属3Dプリンター事業にからむ巨額損失が生じ、26年3月期は過去最大となる850億円の最終赤字に沈む見通しだ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン最終黒字100億円 27年3月期、減損影響なくなる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、通期予想850億円の最終赤字に 過去最大 3Dプリンター減損響く(2026年2月5日) - YouTube",
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、通期予想850億円の最終赤字に 過去最大 3Dプリンター減損響く(2026年2月5日)",
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "pass": 3
+   },
+   {
+    "quote": "「ニコン」は3Dプリンター事業での減損損失などにより、今年3月まで1年間の純損益が過去最大の赤字に転落すると発表しました",
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンは当初、純損益を200億円の黒字と予想していましたが、一転して850億円の赤字になる見通しです",
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "pass": 3
+   },
+   {
+    "quote": "決算:ニコン一転最大の赤字 26年3月期最終850億円、金属3Dプリンター減損 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "は5日、2026年3月期の連結最終損益（国際会計基準）が850億円の赤字（前期は61億円の黒字）になる見通しだと発表した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "最終赤字は5年ぶりで額は過去最大になる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "従来予想は200億円の黒字だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "赤字額は、新型コロナウイルス禍で構造改革を実施した21年3月期（344億円の赤字）を上回って過去最大となり、事前の市場予想（QUICKコンセンサス、222億円の黒字）を大きく下回る",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の12月末の自己資本は約5762億円、自己資本比率は52%で、大幅赤字でも財務は健全だ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "今期の売上高にあたる売上収益は6750億円、営業損益は1000億円の赤字の見通しで、それぞれ50億円、1140億円下方修正した",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "事業別の営業利益では、デジカメなどの映像が49%減の210億円と110億円下振れする",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "計画策定時は売上収益で7000億円、営業利益率で10%以上を目標としていたが、達成は困難になった",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "同日発表した、25年4〜12月期の連結決算は売上収益が前年同期比6%減の4839億円、最終損益が872億円の赤字（同62億円の黒字）だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン5年ぶり営業赤字48億円、米関税重荷 4〜9月",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "AOKIHDの4〜9月期、純利益75%減 天候不順で夏物販売が低迷",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "巨額赤字予想のニコン CEOが退任 3Dプリンター事業で減損(2026年2月13日) - YouTube",
+    "url": "https://www.youtube.com/watch?v=YpESKlCRcZs",
+    "pass": 3
+   },
+   {
+    "quote": "巨額赤字予想のニコン CEOが退任 3Dプリンター事業で減損(2026年2月13日)",
+    "url": "https://www.youtube.com/watch?v=YpESKlCRcZs",
+    "pass": 3
+   },
+   {
+    "quote": "【ジャングリア赤字173億】現状と今後の再建計画について考察します",
+    "url": "https://www.youtube.com/watch?v=YpESKlCRcZs",
+    "pass": 3
+   },
+   {
+    "quote": "過去最大の最終赤字を見込むニコンは馬立稔和会長CEO（最高経営責任者）が4月1日付で退任する人事を発表しました",
+    "url": "https://www.youtube.com/watch?v=YpESKlCRcZs",
+    "pass": 3
+   },
+   {
+    "quote": "「今期は大きな赤字を出す見込みとなっております",
+    "url": "https://www.youtube.com/watch?v=YpESKlCRcZs",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンは2025年度の決算で新たな収益源にしようとしてきた3Dプリンター事業で巨額の減損処理を行い、850億円の最終赤字に転落する見通しです",
+    "url": "https://www.youtube.com/watch?v=YpESKlCRcZs",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ニコン 「CFO経営」に試練 3Dプリンター で巨額損失 — ニコン 「CFO経営」に試練 3Dプリンター で巨額損失 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン がオフィスでも使える金属 3Dプリンター を作った理由 — ニコン がオフィスでも使える金属 3Dプリンター を作った理由 リコー ソリューション・商品サイト https://www.ricoh.co.jp > 3Dプリンター",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "付加加工｜株式会社 ニコン アドバンストマニュファク ... - Nikon — 付加加工｜株式会社 ニコン アドバンストマニュファク ... - Nikon Nikon https://ngpd.nikon.com > additive-manufacturing",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン がドイツの大手金属 3Dプリンター メーカーを買収 — ニコン がドイツの大手金属 3Dプリンター メーカーを買収 SK本舗 https://skhonpo.com > 【3Dプリンター】業界ニュース",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン 、ドイツの 3Dプリンター 大手 買収 約840億円 — ニコン 、ドイツの 3Dプリンター 大手 買収 約840億円 日本経済新聞 https://www.nikkei.com > ビジネス > エレクトロニクス",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM Solutionsとは？【企業分析】 ニコン が 買収 した金属 3D ... — SLM Solutionsとは？【企業分析】 ニコン が 買収 した金属 3D ... TechnoProducer株式会社 https://www.techno-producer.com > 深堀りコラム > 半導体",
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン がドイツの大手金属 3Dプリンター メーカーを 買収 — ニコン がドイツの大手金属 3Dプリンター メーカーを 買収 SK本舗 https://skhonpo.com > 【3Dプリンター】業界ニュース",
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン 、今期一転850億円の最終赤字に 金属3Dプリンターで ... — ニコン 、今期一転850億円の最終赤字に 金属3Dプリンターで ... Reuters https://www.reuters.com > markets > world-indices",
+    "url": "https://www.reuters.com/jp/markets/world-indices/VX7JDB5QC5PSLLLAKDBJM27MPM-2026-02-05/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン 、通期予想850億円の最終赤字に 過去最大 ... - YouTube — ニコン 、通期予想850億円の最終赤字に 過去最大 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン がオフィスでも使える金属3Dプリンターを作った理由 — ニコン がオフィスでも使える金属3Dプリンターを作った理由 リコー ソリューション・商品サイト https://www.ricoh.co.jp > 3Dプリンター",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン社長 「 3Dプリンター に半導体の知見注入」 カメラも ... — ニコン社長 「 3Dプリンター に半導体の知見注入」 カメラも ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC10C1G0Q6A610C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりの革新】 ニコン はいま、金属 3Dプリンター の開発 ... — ものづくりの革新】 ニコン はいま、金属 3Dプリンター の開発 ... Facebook https://www.facebook.com > ... > ニコン グループ > Videos",
+    "url": "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%8C%E7%9B%AE%E6%8C%87%E3%81%99%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E9%9D%A9%E6%96%B0%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AF%E3%81%84%E3%81%BE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%A8%E6%99%AE%E5%8F%8A%E3%81%AB%E5%8A%9B%E3%82%92%E6%B3%A8%E3%81%84%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E8%A3%85%E7%BD%AE%E3%81%8C%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E4%BE%A1%E5%80%A4%E3%81%A8%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%81%82%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%81%A8%E3%81%AF%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA%E3%81%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5/910409805008105/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン 、今期一転850億円の最終赤字に 金属 3Dプリンター で ... — ニコン 、今期一転850億円の最終赤字に 金属 3Dプリンター で ... Reuters https://www.reuters.com > markets > world-indices",
+    "url": "https://www.reuters.com/jp/markets/world-indices/VX7JDB5QC5PSLLLAKDBJM27MPM-2026-02-05/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMの未来を切り拓く。 Nikon SLM Solutionsで挑戦を ... — 金属AMの未来を切り拓く。 Nikon SLM Solutionsで挑戦を ... Nikon https://ngpd.nikon.com > interview > nikon-slm-interview1",
+    "url": "https://ngpd.nikon.com/special/interview/nikon-slm-interview1.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 : ニコン 一転最大の赤字 26年3月期最終850億円、金属 3D ... — 決算 : ニコン 一転最大の赤字 26年3月期最終850億円、金属 3D ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "巨額赤字予想の ニコン CEOが退任 3Dプリンター 事業で減損 ... — 巨額赤字予想の ニコン CEOが退任 3Dプリンター 事業で減損 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=YpESKlCRcZs",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | ニコン について | Nikon 企業情報 — 会社概要 | ニコン について | Nikon 企業情報 Nikon https://www.jp.nikon.com > ニコンについて",
+    "url": "https://www.jp.nikon.com/company/corporate/data/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ニコン の 会社概要 | マイナビ2028 — (株) ニコン の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp186 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp186/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン - Wikipedia — ニコン - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ニコン",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "なぜ ニコン なのか？その「不器用で愛おしい」100年の物語を ... なぜ ニコン なのか？その「不器用で愛おしい」100年の物語を ... note https://note.com > ホビー > カメラ・ビデオ",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン の人気・新着記事まとめ - note ニコン の人気・新着記事まとめ - note note https://note.com > tag > ニコン",
+    "url": "https://note.com/tag/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン ビジョン公式note ニコン ビジョン公式note note.com https://note.com > nikonvision_1917",
+    "url": "https://note.com/nikonvision_1917",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン が富士フイルムに抜かれてカメラシェア4位に転落した ... ニコン が富士フイルムに抜かれてカメラシェア4位に転落した ... note https://note.com > ビジネス > データ・分析",
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "なぜニコンなのか？その「不器用で愛おしい」100年の物語を全力解説させて！📸｜永遠丸",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "なぜニコンなのか？その「不器用で愛おしい」100年の物語を全力解説させて！📸",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "みなさん、こんにちは！ 休み時間は屋上でファインダーを覗いていたい系女子高生JKちゃんです！",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "突然ですが、みなさんのカメラ、どこのメーカーですか？ キヤノン？ソニー？富士フイルム？……うんうん、どれも素晴らしいよね。わかる。",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "「ニコンって、おじさんが持ってる黒くて重いカメラでしょ？」 「なんか地味じゃない？」",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンはただの機械メーカーじゃないんです。 ニコンは、「",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "光に対してあまりにも真面目で、不器用なほど一途な、愛すべき技術屋集団",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "創業から100年以上、戦争、宇宙、デジタル革命……激動の時代を「",
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "pass": 3
+   },
+   {
+    "quote": "精密な光学技術を背景に、カメラから半導体露光装置まで幅広い事業を展開しています。",
+    "url": "https://note.com/tag/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "機材レビューや製品の歴史、最新の市場動向や投資分析に関する記事が集まっています。",
+    "url": "https://note.com/tag/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "精密な光学技術を背景に、カメラから半導体露光装置まで幅広い事業を展開していま…",
+    "url": "https://note.com/tag/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "マリー・アントワネット展｜NIKON Z5IICで撮影｜カメラと写真日記",
+    "url": "https://note.com/tag/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "はなさんと双眼鏡【散策編】仏像に会いに覚園寺へ",
+    "url": "https://note.com/tag/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "新宿のニコンプラザでニコンを大量に浴びた話",
+    "url": "https://note.com/tag/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "つづき/おひとり様、街歩き、カフェ活など🚶🏿",
+    "url": "https://note.com/tag/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "感動体験への扉を開き、一人ひとりの探究のジャーニーに伴走すること。それが私たちのミッションです",
+    "url": "https://note.nvj.nikon.com/?gs=8fb0da70efae726efa59ac355f11d0b8",
+    "pass": 3
+   },
+   {
+    "quote": "シーンごとにおすすめな双眼鏡の選び方と基本的な使い方をご紹介します",
+    "url": "https://note.nvj.nikon.com/?gs=8fb0da70efae726efa59ac355f11d0b8",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンの高い光利用技術・精密技術は、ゴルフ用レーザー距離計にも活かされています",
+    "url": "https://note.nvj.nikon.com/?gs=8fb0da70efae726efa59ac355f11d0b8",
+    "pass": 3
+   },
+   {
+    "quote": "Try ニコン STABILIZED 手振れ補正つきコンパクト双眼鏡 | ニコン",
+    "url": "https://note.nvj.nikon.com/?gs=8fb0da70efae726efa59ac355f11d0b8",
+    "pass": 3
+   },
+   {
+    "quote": "はなさんと双眼鏡｜見えることで広がる好奇心の世界",
+    "url": "https://note.nvj.nikon.com/?gs=8fb0da70efae726efa59ac355f11d0b8",
+    "pass": 3
+   },
+   {
+    "quote": "はなさんと双眼鏡【散策編】仏像に会いに覚園寺へ",
+    "url": "https://note.nvj.nikon.com/?gs=8fb0da70efae726efa59ac355f11d0b8",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンが富士フイルムに抜かれてカメラシェア4位に転落した理由｜Alice_photolog",
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンが富士フイルムに抜かれてカメラシェア4位に転落した理由",
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "pass": 3
+   },
+   {
+    "quote": "各社から決算発表があったりして、業績の明暗に株価の変化など、重要なニュースが多いですね。",
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、日経新聞社の『日経 業界地図2027』に記載されているデジタルカメラのシェア率が大きな話題になっています。",
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "pass": 3
+   },
+   {
+    "quote": "1.ニコンがついに富士フイルムに抜かれた！",
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "pass": 3
+   },
+   {
+    "quote": "富士フイルムが3位に上がり、ニコンが4位に落ちてしまいました。",
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンは今年ほぼ新製品が出ていません（70-200mm F2.8のⅡ型くらい）。",
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "pass": 3
+   },
+   {
+    "quote": "程、需要過多かつ供給不足の体制でよく116万台出荷したものです。",
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ニコン ちゃん (@nikon_chan) / X ニコン ちゃん (@nikon_chan) / X X https://x.com > nikon_chan",
+    "url": "https://x.com/nikon_chan",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン 新卒採用 (@NikonRecruit) / X ニコン 新卒採用 (@NikonRecruit) / X X https://x.com > NikonRecruit",
+    "url": "https://x.com/NikonRecruit",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン プラザ大阪 (@NikonPlazaOsaka) / X ニコン プラザ大阪 (@NikonPlazaOsaka) / X X https://x.com > NikonPlazaOsaka",
+    "url": "https://x.com/NikonPlazaOsaka",
+    "pass": 3
+   },
+   {
+    "quote": "高校生の頃から野鳥撮影を趣味とする ニコン社長 CEOの大村 ... 高校生の頃から野鳥撮影を趣味とする ニコン社長 CEOの大村 ... X https://x.com > @NikonBrand",
+    "url": "https://x.com/NikonBrand/status/2097610970310799413",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nikon Advanced Manufacturing | LinkedIn Nikon Advanced Manufacturing | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/nikon-advanced-manufacturing",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ニコン グループ (@NikonGroupjp) - Facebook ニコン グループ (@NikonGroupjp) - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/NikonGroupjp/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン の技術はさまざまな場所で日々の暮らしや産業 を支え ... ニコン の技術はさまざまな場所で日々の暮らしや産業 を支え ... Facebook https://www.facebook.com > ... > ニコン グループ > Videos",
+    "url": "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%AF%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%A0%B4%E6%89%80%E3%81%A7%E6%97%A5%E3%80%85%E3%81%AE%E6%9A%AE%E3%82%89%E3%81%97%E3%82%84%E7%94%A3%E6%A5%AD%E3%82%92%E6%94%AF%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%AC%A1%E3%80%85%E3%81%AB%E5%BA%83%E3%81%8C%E3%82%8B%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AE%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%9230%E7%A7%92%E3%81%A7%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E3%83%95%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%8B%E3%82%89httpswwwjp/1434660678000685/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jp.nikon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/ir/ir_library/result/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/news/2026/1029_01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/news/2026/1029_02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.business.nikon.com/ja/?from=cs-top-sliderbnr-20250905",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/corporate/brand/ad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/info/cautions_instagram/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/updates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/corporate/businesses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/design/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/design/interviews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/design/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/ir/management/midtermbusiness/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/news/2012/0203_01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/sustainability/environment_action/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.business.nikon.com/ja/products-and-services/semiconductors-and-fpds-top/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/news/2026/1026_01/?b2b-bu=fpd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/news/2026/1020_01/?b2b-bu=sc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/news/2026/1013_01/?b2b-bu=sc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/technology/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20261030_01_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260430_01_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_01_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2026/20260205_02_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20251031_01_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250807_01_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250508_02_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2025/20250428_01_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_01_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/news/2024/20241031_02_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jp.nikon.com/etc.clientlibs/company/clientlibs/clientlib-site/resources/img/pic_global-navi_midtermbusiness.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/pic_hero_large_01.jpg?cb=1778978448607",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/pic_pickup_ir_202211.jpg?cb=1778978517321",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/pic_category_ir_large.jpg?cb=1778978298271",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.business.nikon.com/content/dam/db/business/logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.business.nikon.com/content/dam/web-assets/nikoncom/business/local/jp/ja/top/hero_01_sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/column/slm-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/3dnikon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/nikon-morf3d/?srsltid=AYCX9vJriUxNGfZw_1PeY4Dk1mK3qjOaDIDtANSQ5RnjV1RPU9NVrpim",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/world-indices/VX7JDB5QC5PSLLLAKDBJM27MPM-2026-02-05/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=A3yrip399g4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.business.nikon.com/ja/products-and-services/material-processing-solutions/product-basic-info.additive-manufacturing-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC10C1G0Q6A610C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%8C%E7%9B%AE%E6%8C%87%E3%81%99%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E9%9D%A9%E6%96%B0%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AF%E3%81%84%E3%81%BE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%A8%E6%99%AE%E5%8F%8A%E3%81%AB%E5%8A%9B%E3%82%92%E6%B3%A8%E3%81%84%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E8%A3%85%E7%BD%AE%E3%81%8C%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E4%BE%A1%E5%80%A4%E3%81%A8%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%81%82%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%81%A8%E3%81%AF%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA%E3%81%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5/910409805008105/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/world-indices/VX7JDB5QC5PSLLLAKDBJM27MPM-2026-02-05/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ngpd.nikon.com/special/interview/nikon-slm-interview1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/markets/world-indices/VX7JDB5QC5PSLLLAKDBJM27MPM-2026-02-05/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=YpESKlCRcZs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp186/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ayuki1222/n/n99a98dd73037",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.nvj.nikon.com/?gs=8fb0da70efae726efa59ac355f11d0b8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nikon_chan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NikonRecruit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NikonPlazaOsaka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nikon-advanced-manufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NikonGroupjp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%AF%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%A0%B4%E6%89%80%E3%81%A7%E6%97%A5%E3%80%85%E3%81%AE%E6%9A%AE%E3%82%89%E3%81%97%E3%82%84%E7%94%A3%E6%A5%AD%E3%82%92%E6%94%AF%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%AC%A1%E3%80%85%E3%81%AB%E5%BA%83%E3%81%8C%E3%82%8B%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AE%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%9230%E7%A7%92%E3%81%A7%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E3%83%95%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%8B%E3%82%89httpswwwjp/1434660678000685/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NikonBrand/status/2097610970310799413",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nikon_chan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ニコン 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUC05A9E0V00C26A2000000/",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "https://skhonpo.com/blogs/blog/3dnikon",
+    "https://www.techno-producer.com/column/metal-3d-printer-maker/",
+    "https://www.youtube.com/watch?v=A3yrip399g4",
+    "https://www.business.nikon.com/ja/solutions/l-pbf-3d-printer/",
+    "https://finance.biggo.jp/news/wCKYB54BmHHDnbgy6oI0",
+    "https://research.nicoxz.com/articles/nikon-3d-printer-loss-leadership-change"
+   ]
+  },
+  {
+   "query": "ニコン 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUC0271A0S2A900C2000000/",
+    "https://www.techno-producer.com/column/slm-solutions/",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://skhonpo.com/blogs/blog/3dnikon",
+    "https://idarts.co.jp/3dp/nikon-morf3d/?srsltid=AYCX9vJriUxNGfZw_1PeY4Dk1mK3qjOaDIDtANSQ5RnjV1RPU9NVrpim",
+    "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%8C%E7%9B%AE%E6%8C%87%E3%81%99%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E9%9D%A9%E6%96%B0%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AF%E3%81%84%E3%81%BE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%A8%E6%99%AE%E5%8F%8A%E3%81%AB%E5%8A%9B%E3%82%92%E6%B3%A8%E3%81%84%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E8%A3%85%E7%BD%AE%E3%81%8C%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E4%BE%A1%E5%80%A4%E3%81%A8%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%81%82%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%81%A8%E3%81%AF%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA%E3%81%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5/910409805008105/",
+    "https://www.jp.nikon.com/company/news/2022/slm/",
+    "https://maonline.jp/articles/current_state_off_3d_printer_market230908",
+    "https://rkyoto456.hatenablog.com/entry/2026/02/09/125547"
+   ]
+  },
+  {
+   "query": "ニコン 積層造形 事業 売上",
+   "results": [
+    "https://www.reuters.com/jp/markets/world-indices/VX7JDB5QC5PSLLLAKDBJM27MPM-2026-02-05/",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/result/pdf/2027/27first_all.pdf",
+    "https://www.youtube.com/watch?v=A3yrip399g4",
+    "https://www.business.nikon.com/ja/products-and-services/material-processing-solutions/product-basic-info.additive-manufacturing-solution/",
+    "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/result/pdf/2026/26_all.pdf",
+    "https://note.com/seodoa_academy/n/n1dd6ad0b3797",
+    "https://strainer.jp/tags/3d-printing",
+    "https://finance.biggo.jp/news/wCKYB54BmHHDnbgy6oI0",
+    "https://eetimes.itmedia.co.jp/ee/articles/2611/06/news037.html"
+   ]
+  },
+  {
+   "query": "ニコン 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://www.nikkei.com/article/DGXZQOUC10C1G0Q6A610C2000000/",
+    "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%8C%E7%9B%AE%E6%8C%87%E3%81%99%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E9%9D%A9%E6%96%B0%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AF%E3%81%84%E3%81%BE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%A8%E6%99%AE%E5%8F%8A%E3%81%AB%E5%8A%9B%E3%82%92%E6%B3%A8%E3%81%84%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E8%A3%85%E7%BD%AE%E3%81%8C%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E4%BE%A1%E5%80%A4%E3%81%A8%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%81%82%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%81%A8%E3%81%AF%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA%E3%81%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5/910409805008105/",
+    "https://www.reuters.com/jp/markets/world-indices/VX7JDB5QC5PSLLLAKDBJM27MPM-2026-02-05/",
+    "https://ngpd.nikon.com/special/interview/nikon-slm-interview1.html",
+    "https://maonline.jp/articles/current_state_off_3d_printer_market230908",
+    "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "https://idarts.co.jp/3dp/nikon-slm-solutions-metal-3d-printing-growth-expectations-reset/?srsltid=AYCX9vIzMZIr7VLUg5qeBdoxImP2P2P5QUBLZeeNMIIU-Mm-CgUz3-Ac",
+    "https://www.insource.co.jp/contents/hr-article-no68889.html",
+    "https://research.nicoxz.com/articles/nikon-3d-printer-loss-leadership-change"
+   ]
+  },
+  {
+   "query": "ニコン 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/result/pdf/2026/26third_all.pdf",
+    "https://www.nikkei.com/article/DGXZQOUC053QA0V00C26A2000000/",
+    "https://www.jp.nikon.com/company/ir/ir_library/result/",
+    "https://www.reuters.com/jp/markets/world-indices/VX7JDB5QC5PSLLLAKDBJM27MPM-2026-02-05/",
+    "https://www.youtube.com/watch?v=YpESKlCRcZs",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/result/pdf/2027/27first_all.pdf",
+    "https://www.jp.nikon.com/content/dam/web-assets/nikoncom/company/local/jp/ja/ir/ir_library/result/pdf/2026/26_all.pdf",
+    "https://newswitch.jp/p/49153",
+    "https://www.youtube.com/watch?v=A3yrip399g4",
+    "https://finance.biggo.jp/news/wCKYB54BmHHDnbgy6oI0"
+   ]
+  },
+  {
+   "query": "ニコン 会社概要 設立 株主",
+   "results": [
+    "https://www.jp.nikon.com/company/corporate/data/",
+    "https://www.jp.nikon.com/company/ir/faq/",
+    "https://job.mynavi.jp/28/pc/search/corp186/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "https://www.jp.nikon.com/company/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7731",
+    "https://www.jp.nikon.com/company/corporate/group/nsl/",
+    "https://www.jp.nikon.com/company/corporate/data/companyprofile/",
+    "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AE%E3%81%84%E3%81%BE%E3%81%8C4%E5%88%86%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85%E5%8B%95%E7%94%BB%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AF%E4%BA%BA%E3%81%A8%E6%A9%9F%E6%A2%B0%E3%81%8C%E5%85%B1%E5%89%B5%E3%81%99%E3%82%8B%E7%A4%BE%E4%BC%9A%E3%81%AE%E4%B8%AD%E5%BF%83%E4%BC%81%E6%A5%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E6%97%A5%E3%80%85%E9%80%B2%E5%8C%96%E3%81%97%E7%B6%9A%E3%81%91%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9D%E3%81%86%E3%81%97%E3%81%9F%E3%81%84%E3%81%BE%E3%81%AE%E5%A7%BF%E3%81%AB%E3%81%82%E3%82%8F%E3%81%9B%E3%81%A6%E4%BC%9A%E7%A4%BE/1953310028732731/",
+    "https://ja.wikipedia.org/wiki/ニコン"
+   ]
+  },
+  {
+   "query": "site:note.com ニコン",
+   "results": [
+    "https://note.com/ayuki1222/n/n99a98dd73037",
+    "https://note.com/tag/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "https://note.com/nikonvision_1917",
+    "https://note.com/alice_photolog/n/ne7cf2ccf15e1",
+    "https://note.com/zakkaya_sun/n/nfdc535c0c83b",
+    "https://note.com/wttw602/n/n009a3b011527",
+    "https://note.com/alice_photolog/n/ne3556164c4d8",
+    "https://note.com/fujiitomohiro/n/n84e1a1884f8a",
+    "https://note.com/alice_photolog/n/nf3507a39cff5",
+    "https://note.com/keita_ogawa/n/nccaca1f28c18"
+   ]
+  },
+  {
+   "query": "site:x.com ニコン",
+   "results": [
+    "https://x.com/nikon_chan",
+    "https://x.com/NikonUSA",
+    "https://x.com/NikonRecruit",
+    "https://x.com/NikonPlazaOsaka",
+    "https://x.com/tsuyo428",
+    "https://x.com/i/trending/2052721357130256656?lang=da",
+    "https://x.com/Nikon",
+    "https://x.com/NikonPlazaTokyo",
+    "https://x.com/i/trending/2049626331223396427",
+    "https://x.com/NikonBrand"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ニコン",
+   "results": [
+    "https://jp.linkedin.com/company/nikon",
+    "https://jp.linkedin.com/company/nikon-research-corporation-of-america",
+    "https://jp.linkedin.com/company/nikon-precision-inc-",
+    "https://www.linkedin.com/company/nikon-advanced-manufacturing",
+    "https://www.linkedin.com/showcase/nikon-small-world/",
+    "https://www.linkedin.com/pulse/nikon-metrology-delivers-advanced-robotic-system-gkn-roberto-alberio",
+    "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%8B%E3%82%B3%E3%83%B3%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "https://www.linkedin.com/company/nikon-research-corporation-of-america",
+    "https://jp.linkedin.com/company/nikon-usa",
+    "https://jp.linkedin.com/company/（株）ニコン"
+   ]
+  },
+  {
+   "query": "site:facebook.com ニコン",
+   "results": [
+    "https://www.facebook.com/NikonGroupjp/",
+    "https://www.facebook.com/nikonusa/",
+    "https://www.facebook.com/NikonImagingJapan/",
+    "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%AF%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%A0%B4%E6%89%80%E3%81%A7%E6%97%A5%E3%80%85%E3%81%AE%E6%9A%AE%E3%82%89%E3%81%97%E3%82%84%E7%94%A3%E6%A5%AD%E3%82%92%E6%94%AF%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%AC%A1%E3%80%85%E3%81%AB%E5%BA%83%E3%81%8C%E3%82%8B%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AE%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%9230%E7%A7%92%E3%81%A7%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E3%83%95%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%8B%E3%82%89httpswwwjp/1434660678000685/",
+    "https://www.facebook.com/nikon/?locale=ja_JP",
+    "https://www.facebook.com/NikonGroup/",
+    "https://www.facebook.com/marketplace/greenwood-mo/nikon-cameras/?locale=ja_JP",
+    "https://www.facebook.com/groups/2039211586436612/posts/2718505211840576/",
+    "https://www.facebook.com/nikon/",
+    "https://www.facebook.com/nikonlenswearjp/"
+   ]
+  },
+  {
+   "query": "ニコン note 社長",
+   "results": [
+    "https://note.nvj.nikon.com/",
+    "https://note.nvj.nikon.com/n/n73f6dd368dc0",
+    "https://x.com/NikonBrand/status/2097610970310799413",
+    "https://note.com/tag/Nikon",
+    "https://note.nvj.nikon.com/all",
+    "https://note.com/open_azalea2045/n/n188502e5e6f7",
+    "https://www.nikkei.com/article/DGXZQOUC154NX0V10C24A2000000/",
+    "https://note.com/brisk_spirea4803/n/ndd98da8c3034",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/7731/executives/ceo/omura-yasuhiro/"
+   ]
+  },
+  {
+   "query": "ニコン X 投稿",
+   "results": [
+    "https://x.com/nikon_chan",
+    "https://www.jp.nikon.com/socialmedia/",
+    "https://nij.nikon.com/connect/socialmedia/?srsltid=AYCX9vLmwwrdq1fNyPkTojArzDazzpSCAifN_0Jbj-M3AguUOu67Thn0",
+    "https://nij.nikon.com/connect/socialmedia/twitter/nikon_chan/?srsltid=AYCX9vKOmZKweFr0ULM0wkFnh3Ph92Vz310dDVoPk0Ei3Wc6PqI0lD-s",
+    "https://www.nikon.com/socialmedia/",
+    "https://nikkor.tokyocameraclub.com/creatorschallenge2026/",
+    "https://x.com/NikonBrand",
+    "https://prtimes.jp/main/html/rd/p/000000372.000016573.html",
+    "https://nij.nikon.com/connect/socialmedia/",
+    "https://photoxp.jp/nikon"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部33頁・検索12回）",
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部33頁・検索12回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部33頁・検索12回）"
+ }
+}

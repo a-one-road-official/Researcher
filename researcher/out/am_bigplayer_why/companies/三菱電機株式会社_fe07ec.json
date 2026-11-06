@@ -1,0 +1,3473 @@
+{
+ "name": "三菱電機株式会社",
+ "aliases": [
+  "三菱電機",
+  "AZ600"
+ ],
+ "context": "金属AM装置（ワイヤ式・要確認）",
+ "researched_at": "2026-11-06T16:50:19.485469+00:00",
+ "official_url": "https://www.mitsubishielectric.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "漆間 啓",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "漆間啓 （ 取締役 兼 代表執行役 兼執行役 社長 兼 CEO ） 松本匡 （代表執行役兼執行役 副社長 ） 加賀邦彦 （代表執行役兼専務執行役）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1921年1月15日",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1921年 1月15日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "5,894,747百万円",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結5兆5,217億1,100万円、単独2兆700億円（2025年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結従業員数",
+    "value": "150,386人",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結149,914名、単独31,213名（2025年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 100-8310 東京都 千代田区 丸の内 二丁目7番3号 （ 東京ビルディング ）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "主要 株主",
+    "value": "日本マスタートラスト信託銀行株式会社（信託口）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入の時期と形": [
+   {
+    "quote": "三菱電機（株）設立以来、扇風機、テレビ、エレベーター、冷蔵庫、電子計算機などの第1号機の歴史を掲載しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IBM社、ヒューレット・パッカード社との提携や、米国、タイに財団設立、米国環境保護庁の受賞、業界初のリサイクルプラントの歴史を掲載しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱創業時のマークの起源から、設立から現在までのコーポレートロゴと企業スローガンの変遷の歴史を掲載しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "鴻海精密工業と自動車機器事業の共同運営を通じた戦略的提携に関する説明会資料を掲載しました",
+    "url": "https://www.mitsubishielectric.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "米国ソフトウェア会社の買収をはじめとする数々の戦略的プロジェクトを推進",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "以降、インドにおけるファクトリーオートメーション事業の立ち上げおよび拡大において中心的な役割を果たしてきた",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "M&Aの実行、戦略的パートナーシップの構築、およびグリーンフィールド型の製造拠点設立プロジェクトのリードを担う",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングで培った経験・スキルを生かし、2018年より三菱電機にて、モビリティ領域に係る新規事業立案プロジェクトに参画、事業立ち上げを経験",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年より北米の事業会社に駐在し、自動運転関連事業及び車載カメラデータ活用事業の立ち上げを実施",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年に帰任し、コーポレートベンチャーキャピタル「MEイノベーションファンド」に参画、キャピタリストとして、スタートアップへの出資、協業に携わっている",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規事業創出に関わるプログラムの企画、運営や新規事業の立ち上げを支援",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "防衛宇宙製品の生産技術者として日米共同プロジェクトに参画、工場の立ち上げや量産体制の構築に従事",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "欧州や東南アジアの電気事業者を対象にした新規事業の企画立案から立ち上げまで、数多くのプロジェクトを主導",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "その後、2021年4月より、ビジネスイノベーション本部にてコーポレートベンチャーキャピタル「MEイノベーションファンド」の立ち上げに従事",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "衛星関連事業においてはスタートアップとの協業を推進し、新規事業の立ち上げに貢献",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年1月、MEイノベーションファンドの立ち上げとともに参画、広報宣伝を担当",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "光方式量子コンピューターハードウエア開発のスタートアップOptQCへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "量子コンピューターを活用した数理最適化ミドルウエア開発スタートアップJIJへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "データセンターの運用最適化を実現する米国のスタートアップ Lucendへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "水を推進剤とする人工衛星用推進技術のスタートアップ 株式会社Pale Blueへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "AI支援型PLMシステムを開発するスタートアップ 株式会社Thingsへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンクレジットモニタリング解析のスタートアップ 株式会社Archedaへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "光方式量子コンピューターハードウエア開発のスタートアップOptQCへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "量子コンピューターを活用した数理最適化ミドルウエア開発スタートアップJIJへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "データセンターの運用最適化を実現する米国のスタートアップ Lucendへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "水を推進剤とする人工衛星用推進技術のスタートアップ 株式会社Pale Blueへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "AI支援型PLMシステムを開発するスタートアップ 株式会社Thingsへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンクレジットモニタリング解析のスタートアップ 株式会社Archedaへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国発のスタートアップSolestial, Inc.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュージーランド発のスタートアップZenno Astronautics Ltd.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国発のスタートアップFormic Technologies Inc.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "IaaSを提供するスタートアップPente Networks Inc.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国発のスタートアップHayden AI Technologies, Inc.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポール発のスタートアップHydroleap Pte. Ltd.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属インクジェット印刷のスタートアップ エレファンテック株式会社へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "イスラエル発のスタートアップSCADAfence Ltd.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "CVCは誰がために：設立から1年──「MEイノベーションファンド」の苦悩と希望",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "量子コンピュータベンチャーに三菱電機が出資する理由",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポールのスタートアップFTV LABS PTE. LTD.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "量子コンピュータ系スタートアップの株式会社QunaSysへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "はワイヤ・レーザーを使用した金属3Dプリンターの新製品を25日に発売する",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は22年から3Dプリンター事業に参入した",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野の造船･宇宙に照準 ダイヘンが3Dプリンター参入",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "すぐに再生が開始しない場合は、デバイスを再起動してください",
+    "url": "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機は金属３Ｄプリンターを９月２日に発売する",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "発売するのは金属３Ｄプリンター「ＥＺ３００」",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "三井化学がＪＳＲ買収へ、１兆円超の業界最大Ｍ＆Ａ",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "花王、塗膜剥離剤を発売 機械作業不要で負担軽減",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト開始当時、私はまだ入社していなかったのですが、これまで先輩方が築き上げてきた信頼と実績のおかげもあり、「工作機械のソフトウェアを作るなら三菱電機ソフトウエアしかいない」と迷いなく指名してもらったと聞いています",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "多くありましたが、わかりやすい例を挙げると、加工開始と終了部分の制御です",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "発売開始が2022年3月なので、本当に発売する直前まで調整していました",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "その分、無事発売された時の達成感も大きかったです",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "発売から少し経つと、プレスリリースや展示会の反響なども耳に入るようになり、自分のやってきたことが世に出たんだと実感が湧いてきましたね",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "─無事に製品も発売された今、次に目指す目標をお伺いできますか",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、設計から生産までのリードタイムや立ち上げコストも低下し、多品種少量生産のハードルが下がるはず",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "すぐに再生が開始しない場合は、デバイスを再起動してください",
+    "url": "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "pass": 3
+   },
+   {
+    "quote": "このプログラムを継続・発展していただき、現時点では宇宙への進出を考えていない多くの企業にも、技術的な参入障壁になっている部分を解決してビジネス機会の創出を実施していただけると、宇宙産業の活性化に繋がっていきます",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "すぐに再生が開始しない場合は、デバイスを再起動してください",
+    "url": "https://www.youtube.com/watch?v=V83NwDouuxI",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "オーロラビジョンの第1号機、世界最高レベルの半導体レーザーの製品化、ロンドン、パリの証券取引所に株式上場などの歴史を掲載しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "社会システム事業、電力システム事業、防衛・宇宙システム事業",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/",
+    "pass": 1
+   },
+   {
+    "quote": "FAシステム事業、自動車機器事業",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/",
+    "pass": 1
+   },
+   {
+    "quote": "最先端の研究開発とグローバルな知財・標準化活動を通じて、新たな価値を創出しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車機器事業本部長、三菱電機モビリティ株式会社 代表取締役 取締役社長",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/management/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機グループは、カーボンニュートラルの実現に向けて、製造プロセスにおけるエネルギー効率の向上や再生可能エネルギーの活用、製品の省エネ性能の改良等、バリューチェーン全体におけるCO",
+    "url": "https://www.mitsubishielectric.co.jp/ja/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "鴻海精密工業と自動車機器事業の共同運営を通じた戦略的提携に関する説明会資料を掲載しました",
+    "url": "https://www.mitsubishielectric.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "旬の宇宙開発の話題や天文情報をご紹介しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "連載コラムやスペシャルコンテンツなど楽しい宇宙の話題が盛り沢山！",
+    "url": "https://www.mitsubishielectric.co.jp/ja/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年、三菱電機 防衛・宇宙システム事業本部に入社",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年からは、防衛グローバル営業部で、防衛および宇宙分野の海外営業に従事",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術・営業・企画を横断的に担うことで、産業・エネルギー領域における課題解決力と事業創出力を磨く",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "防衛宇宙製品の生産技術者として日米共同プロジェクトに参画、工場の立ち上げや量産体制の構築に従事",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "その後、宇宙スタートアップ企業Space BDに参画",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロジェクトマネージャーとして衛星打ち上げ事業や国際宇宙ステーションにおける各種プロジェクトを牽引、宇宙をテーマにした地域産業振興や教育振興にも貢献",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造現場で培った知識と肌感覚、防衛宇宙に係る知見を活かして、投資先候補のスタートアップ企業との協業の検討を主導する",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "FAシステム事業本部にてスマートメータシステム、エネルギーモニタリングシステム、配電制御システムに関する事業企画に従事",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "防衛・宇宙システム事業本部にて営業担当として防衛省向け装備品の提案・受注活動に従事",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機、大型部品向け金属3Dプリンター販売 航空宇宙に対応 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー関連や航空宇宙関連などの需要増に対応する",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙やエネルギー関連のほか、ボリュームゾーンとして自動車関連での販売を見込む",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野の造船･宇宙に照準 ダイヘンが3Dプリンター参入",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトデザイナーは無意識のうちに、金型や切削加工で作りやすい形状を前提にデザインします",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "金型や切削加工を必要としない、三菱電機の金属3Dプリンタでの出力を前提に、",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "1時間以上かけてしっかりと学ぶ半導体 (ダイオード、トランジスタ、MOSFET、CMOS、製造工程など)",
+    "url": "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機は、積層造形（ＡＭ）の国プロジェクト「次世代３Ｄ積層造形技術総合開発機構（ＴＲＡＦＡＭ）」に参画し、新エネルギー・産業技術総合開発機構（ＮＥＤＯ）と共同研究した",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "ホンダと三菱自動車、ピックアップ車を相互補完",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "住友化学、台湾で半導体用機能材拡充 収益力強化へ",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "旭化成、ＡＩ活用ラボ開設 半導体材料を開発",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "日系素材大手、中国輸入博覧会で半導体技術アピール",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "バルカー４～９月期、半導体関連が好調",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "自民成長戦略本部、半導体工場建設の人材不足で議論",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "住ベ、半導体材料の新会社発足 ＡＩＤＣ需要捕捉",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "ＴＯＴＯ、半導体用セラに６００億円追加投資",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカル、情報電子部門 利益４割上振れ、半導体材料が牽引",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "住友化学、総合半導体材料企業へ 次世代後工程向け育成",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "クラボウ、半導体関連成長 高機能樹脂引き合い活発",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "ＪＳＲ、半導体技術で平面レンズ エッチング不要",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "東京応化工業、半導体材料の増強前倒し レジストなど日韓で検討",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機株式会社/3D-ANTインタビュー｜JAXA｜研究開発部門 革新的衛星技術実証プログラム",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "鎌倉製作所 宇宙技術部 技術第一課 三浦 昂大",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内で初めて3Dプリンタで作ったアンテナの軌道上実証を行う同社鎌倉製作所 宇宙技術部・三浦昂大氏にテーマの内容、開発のポイントなどを伺った",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "人工衛星は宇宙空間でのミッションを行うために、地上と通信をしています",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "人工衛星の機能を保持し、即時即応性を維持するために重要なのは安定した通信で、高い信頼性を持つ通信性能を実現し、過酷な宇宙環境においても高効率で動作するアンテナ、フィルターの開発に日々取り組んでいます",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタを買ってきてしまえば、誰でも作れると思うかもしれませんが、実際にはいろいろな加工のパラメータがあり、部品の試作などを社内で繰り返し実施し、技術の蓄積ができてようやくRFコンポーネントに適用できるフェーズに達しました",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "それを克服するために試作を繰り返すことで最適な形状や加工パラメータを蓄積していき、少しずつ技術課題をクリアすることができました",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "軽量化にあたっては、比較的質量が大きくなりやすい支持構造を肉抜き形状にするなど大幅な軽量化ができるのではないかと考えており、リソースが厳しい宇宙探査機などへの適用が期待されます",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプログラムを継続・発展していただき、現時点では宇宙への進出を考えていない多くの企業にも、技術的な参入障壁になっている部分を解決してビジネス機会の創出を実施していただけると、宇宙産業の活性化に繋がっていきます",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "個人的なことですが、最近子どもが生まれまして、この子が大きくなって何かを成し遂げたいと思ったときに、宇宙利用という選択肢がごく当たり前になっている世の中になっていたら、宇宙開発に携わる一員としてうれしいと思っています",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪ガスの電力事業が面白い】新電力トップ5 大阪ガスの電力事業が強い理由／電力×トレード×脱炭素／金融･コンサルのスキルが武器になる／エネルギー産業の最前線で働く30代のリアルなやりがい",
+    "url": "https://www.youtube.com/watch?v=V83NwDouuxI",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体産業の業界研究】売上ランキングトップ30／キオクシア急成長の理由／レゾナックは大化けする／東京エレクトロンの将来性／NVIDIAに富が集中する構造／日本の装置・材料メーカーは生き残れるか",
+    "url": "https://www.youtube.com/watch?v=V83NwDouuxI",
+    "pass": 3
+   },
+   {
+    "quote": "決算:三菱電機の純利益21％増 27年3月期、AI・半導体の投資追い風 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "人工知能（AI）や半導体関連の設備投資需要を取り込む",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "空調・家電事業が33%増の1400億円、自動車機器が52%増の760億円とそれぞれ50億円、40億円上方修正した",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "藤本健一郎最高財務責任者（CFO）は同日、オンラインで開いた決算説明会で「AIや半導体メモリー関連の設備投資需要が強く、特に中国の増加が著しい",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用電装品（一部の農業機械用、建設機械用電装品を含む）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "独自のデジタル基盤「Serendie（セレンディ）」を活用し、家庭用機器から宇宙システムに至る幅広い事業領域のデータを掛け合わせることで、これまでにない新たな統合ソリューションの創出を目指している",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "日本の総合電機メーカーにおいてはトップクラスの売上規模を誇り、とりわけFA機器や昇降機（エレベーター・エスカレーター）、人工衛星などの宇宙システム分野において高い世界シェアや国内シェアを有している",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "一般消費者向け（BtoC）としてはルームエアコン「霧ヶ峰」などの家電製品が広く知られているが、実際の収益の柱はFAシステムやビル・インフラ設備、防衛装備品などの企業・官公庁向け（BtoB・BtoG）事業が大部分を占めている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "その中核となるのが独自のデジタル基盤「Serendie（セレンディ）」であり、家庭機器から宇宙システムに至る幅広い事業領域のデータを横断的に掛け合わせることで、新たな価値創出を図っている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "三菱電機（株）設立以来、扇風機、テレビ、エレベーター、冷蔵庫、電子計算機などの第1号機の歴史を掲載しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IBM社、ヒューレット・パッカード社との提携や、米国、タイに財団設立、米国環境保護庁の受賞、業界初のリサイクルプラントの歴史を掲載しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社創立100周年と、創立100周年を契機に、企業理念体系改定などの歴史を掲載しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱創業時のマークの起源から、設立から現在までのコーポレートロゴと企業スローガンの変遷の歴史を掲載しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1921年の創立からグループ内外の共創により新たな価値を生み出し、国際的な成長を続けています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機は創業以来、長年にわたって培ってきた技術力を軸に多岐にわたる事業を展開しています",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "M&Aの実行、戦略的パートナーシップの構築、およびグリーンフィールド型の製造拠点設立プロジェクトのリードを担う",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "CVCは誰がために：設立から1年──「MEイノベーションファンド」の苦悩と希望",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "創立30周年記念技術展を東京で開催",
+    "url": "https://www.mee.co.jp/kaisyaan/",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣業の子会社「サンエール技研（株）」（現（株）ダイヤモンドパーソネル）を設立",
+    "url": "https://www.mee.co.jp/kaisyaan/",
+    "pass": 3
+   },
+   {
+    "quote": "中国広州市に設計子会社「広州海菱機電技術有限公司」を設立",
+    "url": "https://www.mee.co.jp/kaisyaan/",
+    "pass": 3
+   },
+   {
+    "quote": "創立50周年記念技術展を東京で開催",
+    "url": "https://www.mee.co.jp/kaisyaan/",
+    "pass": 3
+   },
+   {
+    "quote": "創立前 - 1920年代",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "13年） - 創業80周年を機に、国内外統一のコーポレートステートメント（企業スローガン）として「",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "事業を統合した合弁会社「三菱ジェネレーター」を設立するなど、積極的な協業も行われている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "会社設立日（登記上）は1月15日であるが、創立記念日は2月1日とされている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "1924年（大正13年）9月 - 初の自社単独工場である名古屋製作所を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "1958年（昭和33年） - 三菱電機が中核となり三菱グループ25社で三菱原子力工業を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "に三菱電機アメリカ社（現・三菱電機US）設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "にメルコ・セールス・シンガポール社（現・三菱電機アジア）設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "8月 - 米国に研究開発拠点三菱電機インフォメーション・テクノロジーセンター・アメリカ社（現・三菱電機リサーチ・ラボラトリーズ）設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "に研究開発拠点三菱電機インフォメーション・テクノロジーセンター・ヨーロッパ社（現・三菱電機R&Dセンター・ヨーロッパ）設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "における事業戦略支援のための投資持株会社 三菱電機（中国）有限公司設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "10月 - 日立製作所とホームエレベーター事業合弁会社 三菱日立ホームエレベーター設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "（月不明） - 創業80周年",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "に総合販売会社 三菱電機インドネシア社設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2月1日 - 創立100周年に際し、100周年記念ロゴマークを策定",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機は1921年の設立当初、技術水準が不十分で製品品質に課題を抱えていたが、1923年11月に",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "を設立するなど、自社の研究開発体制の構築においても影響を受けた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "1921年の設立当初は社長職を置かず、会長が経営トップを務めていた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "し、三菱電機モビリティを設立した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "（TMEIC/ティーマイク）という新会社を設立し、一部の設計開発製造を移行した（旧三菱電機部隊は神戸・長崎にて設計開発製造を行っていたが、2004年までに順次東芝府中に集約された）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機モビリティ株式会社 - 2024年4月に自動車機器事業を分社化し設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "（1910年代に「日本建鐵工業」として創業された 洗濯機の企画・生産を担当 2005年に株式交換にて完全子会社化された",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "（日立製作所との半導体事業の合弁会社であるルネサス テクノロジと、日本電気の半導体部門を分社化したNECエレクトロニクスが合併して設立",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "創立の地であり、旧三菱造船神戸造船所の電機製作所を母体とする",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機編『三菱電機社史：創立60年』三菱電機、1983年",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "買収対象であるPCIは、1992年に設立された従業員約370名を擁するソフトウェア専業企業であり、北米を中心にエネルギー事業者向けにSaaS型のプラットフォームを提供している",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機で学んだ「配慮」｜第二創業の経営ノート #04",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "三菱電機グループは、事業成長と社会・環境課題の解決に向け、リスクを恐れず新たな発想で価値を創出する「イノベーティブカンパニー」への変革を目指しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/",
+    "pass": 1
+   },
+   {
+    "quote": "事業成長と社会・環境課題の解決に向け、リスクを恐れず新たな発想で価値を創出する「イノベーティブカンパニー」への変革を加速するために、従業員ひとりひとりが次の一歩を踏み出すときのよりどころとなるものです",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機グループは、事業成長と社会・環境課題の解決に向け、リスクを恐れず新たな発想で価値を創出する「イノベーティブカンパニー」への変革を目指しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "その上で、収益性・資本効率・成長性を追求するとともに、顧客と繋がり続け、また様々なパートナーと共創していくことで、社会課題を解決する新たな価値を創出し、企業価値の持続的向上を図ってまいります",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "CRO（リスクマネジメント・経済安全保障、法務・知的財産渉外、知的財産、安全保障貿易管理担当）",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/management/",
+    "pass": 1
+   },
+   {
+    "quote": "法務・リスクマネジメント統括部長、渉外担当、知的財産担当",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/management/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機グループは、環境貢献を重要な経営課題と位置付け、長期環境経営ビジョンである「環境ビジョン2050」を定めています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001の認証取得、環境データの第三者保証、その他外部からの評価、イニシアチブについて開示しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・営業・企画を横断的に担うことで、産業・エネルギー領域における課題解決力と事業創出力を磨く",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "防衛宇宙製品の生産技術者として日米共同プロジェクトに参画、工場の立ち上げや量産体制の構築に従事",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "人材育成を目的とした海外派遣制度に選ばれ、2022年より1年間、北米拠点「Mitsubishi Electric US, Inc.」に派遣、西海岸で数多くのスタートアップ企業と協業検討を経験",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "北米で推進するオープンイノベーション—社会課題解決への挑戦",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "北米で推進するオープンイノベーション—社会課題解決への挑戦",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "量子コンピュータベンチャーに三菱電機が出資する理由",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー関連や航空宇宙関連などの需要増に対応する",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "トレーサビリティー（生産・流通履歴の追跡）もオプションで搭載し、造形物の品質保証に役立てる",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "人の気持ちに寄り添いながら社会が抱える課題に向き合い、美しいモノとワクワクするコトとの新しい関係をデザインします",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "【エアコンはどのメーカーが良い？】三菱電機の製造現場に行ったらプロが霧ヶ峰を絶讃する理由が判明！＜国内生産のこだわりがスゴい＞",
+    "url": "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "pass": 3
+   },
+   {
+    "quote": "自民成長戦略本部、半導体工場建設の人材不足で議論",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "住ベ、半導体材料の新会社発足 ＡＩＤＣ需要捕捉",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "CO2排出削減や資源の有効活用などが社会的課題となる中、金属３Dプリンタは設計データを直接プリントして製品を製造できるため、従来の切削工法に比べ省資源、省エネで金属製品を製造でき、モノづくりのデジタル化につながる手法として期待を集めている",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、現在主流の金属粉末を材料とする3Dプリンタは、材料コストなどで課題があり、幅広い産業で利用できるわけではない",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、三菱電機ソフトウエアが挑んだのは、それらの課題を解決するワイヤ・レーザ金属3Dプリンタ（三菱電機製品）のソフトウェア開発だ",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、加工性能だけでなく、社会的課題への貢献という観点でも「ワイヤ・レーザDED方式」には大きなメリットがあります",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "より低コストで空孔のない造形を実現することで、さまざまな産業分野における3Dプリンタ利用が拡大し、CO2排出削減と資源の有効活用に寄与することができるのです",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "その信頼は嬉しかったですが、その分責任の重さも感じました",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "それに当社としても、ご依頼いただいた三菱電機（株）の名古屋製作所としても、まったく新しい工作機械の製品開発は久しぶりの試みだったため、期待と責任の大きさをひしひしと感じていました",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "K.Mさんが本プロジェクトに参加したのは、ちょうどこの課題にトライしている時期でした",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "新しいベンチマーク形状の造形にトライするたびに新たな課題点が見つかったため、加工ヘッド位置、ワイヤ供給、レーザ出力の協調制御をブラッシュアップして対応しました",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "加工性能は順調に向上していきましたが、スムーズに開発が進んだというには取り組む課題が少々多かったですね",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、設計から生産までのリードタイムや立ち上げコストも低下し、多品種少量生産のハードルが下がるはず",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "短納期・低コストの衛星用アンテナが求められる現在、三菱電機株式会社は金属3Dプリンタを使って、精密な加工を要求される衛星通信用のRFコンポーネント製作を行っている",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの活用にはフレキシブル化、低コスト化、軽量化といった多くの利点があるので、さまざまな場面に利用されていますが、人工衛星も例外ではなく、構造物やコンポーネントへの適用が検討されています",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "－ ほかの実証機会と比較して、「革新的衛星技術実証プログラム」を選ばれた理由がありましたら教えてください",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは柔軟な形状設定が可能ですが、従来の加工技術と比べるとどうしても精度が出にくく、表面精度も粗くなりがちという課題がありました",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "それを克服するために試作を繰り返すことで最適な形状や加工パラメータを蓄積していき、少しずつ技術課題をクリアすることができました",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、格段にデータ通信量の増大が期待できる、より高周波数帯であるKa帯用のコンポーネントへの金属3Dプリンタの適用、及び従来技術と比べてコスト・工期の50パーセント改善を目指して、さらなる顧客獲得を推し進めていきます",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "この軽量化を可能とする設計技術を培っていくことが、今後の課題と思っています",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪ガスの電力事業が面白い】新電力トップ5 大阪ガスの電力事業が強い理由／電力×トレード×脱炭素／金融･コンサルのスキルが武器になる／エネルギー産業の最前線で働く30代のリアルなやりがい",
+    "url": "https://www.youtube.com/watch?v=V83NwDouuxI",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体産業の業界研究】売上ランキングトップ30／キオクシア急成長の理由／レゾナックは大化けする／東京エレクトロンの将来性／NVIDIAに富が集中する構造／日本の装置・材料メーカーは生き残れるか",
+    "url": "https://www.youtube.com/watch?v=V83NwDouuxI",
+    "pass": 3
+   },
+   {
+    "quote": "【日立社長 vs. 忖度ナシ社員】「大企業病は治っていない」／NVIDIA・OpenAIが日立を選んだ理由／ジョブ型人事は成功か？／株価は10年で5倍／GAFAMはライバルではない【CEO Chat】",
+    "url": "https://www.youtube.com/watch?v=V83NwDouuxI",
+    "pass": 3
+   },
+   {
+    "quote": "人工知能（AI）や半導体関連の設備投資需要を取り込む",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "藤本健一郎最高財務責任者（CFO）は同日、オンラインで開いた決算説明会で「AIや半導体メモリー関連の設備投資需要が強く、特に中国の増加が著しい",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣業の子会社「サンエール技研（株）」（現（株）ダイヤモンドパーソネル）を設立",
+    "url": "https://www.mee.co.jp/kaisyaan/",
+    "pass": 3
+   },
+   {
+    "quote": "また、サステナビリティを経営の根幹に据え、「カーボンニュートラル」「サーキュラーエコノミー」「安心・安全」「インクルージョン」「ウェルビーイング」といった多様化する社会課題の解決と、自社の事業成長の両立（トレード・オン）を持続的に追求している",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "等の需要増大に対応し無線機製作所（現・電子通信システム製作所、コミュニケーション・ネットワーク製作所）新設",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "量産専門工場として北伊丹工場（現・高周波光デバイス製作所他）新設",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "7月2日 - 6月に発覚した鉄道車両向け空調機器の不正検査事案の発覚を受け、杉山武史社長（2018年就任）が引責辞任[8]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機は1921年の設立当初、技術水準が不十分で製品品質に課題を抱えていたが、1923年11月に",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "から漸次撤退を進め、提携対象となる事業分野が消滅したことを直接の理由として、両社の長年にわたる提携関係は終了した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "など）の需要が急増し、名古屋製作所や新設された伊丹製作所（旧・大阪工場）が生産の中核を担った",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "当時の宮崎駒吉社長が生産責任者に選出され、実質的に経営の代表権を失う形となったが、会社側は定款を変更して社長や常務取締役の役職名を存続させるなど、戦時体制下においても一定の経営主体性を維持しようとする動きも見せた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "の開発ノウハウをフィードバックした人工衛星標準プラットフォーム",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "）にもかつてブラウン管を供給していた（ビクターは経営不振を理由に2008年限りでテレビ受像機生産から完全撤退）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "にスピードセレクターなどの一部技術・ノウハウを提供した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "製品の需要低迷を理由に2021年末までに生産終了、並びに完全撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "に新方式での検査方法が決められた後も、2014年11月から",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "6月にかけて旧方式での検査で出荷していたことが発表された",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "を設けて組織的に不正な検査が行われていたことが発覚した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "までの40年間に渡って、不正な検査が行われていたことが発覚した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "これまでChanges for the Betterは社内外へのコミットメント（約束）に位置づけていましたが、未来の価値の創造に向け、私たちが大切にする考えに位置づけを見直しています",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "多くありましたが、わかりやすい例を挙げると、加工開始と終了部分の制御です",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたトラブルが絶対に起きないよう、機械の不備を察知して加工を停止させる機能など、作業者の安全を守るための制御プログラムを実装していきました",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "藤本健一郎最高財務責任者（CFO）は同日、オンラインで開いた決算説明会で「AIや半導体メモリー関連の設備投資需要が強く、特に中国の増加が著しい",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "県内2工場は操業を一時停止していた",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "1983年（昭和58年）10月 - 事業本部を機電・商品・電子システム・電子計算機・電子デバイス・海外の6事業本部に再編",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "1993年（平成5年）6月 - 事業本部を電力工業システム・社会システム・電子システム・情報通信システム・映像情報・住環境・FAシステム・自動車機器・半導体の9事業本部に再編し、生産システム本部（現・ものづくり技術本部）新設",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "1996年（平成8年）6月 - 欧州販売事業体制を再編、",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "10月 - 売り上げ不振で赤字が続いていた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "向け出荷を9月で終了したと発表",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2023年（令和5年）4月 - ビジネスエリア（BA）経営体制の見直しに伴い各BAにBA戦略室を新設、ビジネスプラットフォームBAをビジネス・プラットフォームBAと半導体・デバイス事業本部に分割",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "4月1日 - ビジネス・プラットフォームBA、ITソリューションビジネス・業務改革推進本部を再編してデジタルイノベーション事業本部を新設するとともに事業機能を分社化し、情報システム・サービス事業子会社3社（三菱電機インフォメーションネットワーク、三菱電機インフォメーションシステムズ、三菱電機ITソリューションズ）と統合して",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "から漸次撤退を進め、提携対象となる事業分野が消滅したことを直接の理由として、両社の長年にわたる提携関係は終了した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "など）の需要が急増し、名古屋製作所や新設された伊丹製作所（旧・大阪工場）が生産の中核を担った",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月の組織再編により発足したビジネスエリア",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "最上位モデルのZシリーズ同様に「匠フラップ」や「ムーヴアイ極（きわみ）」を搭載するが、「匠フラップ」は正面から吹出し口が見えない格納式フラップ構造を、「ムーヴアイ極」は運転停止時に本体ボディへ格納する構造を採用",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "「はずせるボディ」も運転停止中にリモコン操作でフラップが自動で開く「お掃除アシスト」を追加し、デザインと機能・性能を両立したスタイリッシュモデルである",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "が2026年3月限りで「TOSHIBA」ブランド浴室用換気扇生産より撤退したため、三菱製浴室用換気扇は",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "がそれぞれ行っていたが、2012年10月の事業再編で三菱電機照明がオスラム・メルコと三菱電機オスラムを吸収・統合し、照明機器事業を一体化させた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "：三菱電機オスラム時代ではLED電球をオスラム社と同じ「PARATHOM（パラトン）」のブランド名で展開していたが、事業再編に伴い、照明器具を含めたLED照明のブランド名を「MILIE（ミライエ）」に改めた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に全機種の製造を終了したことに伴って同市場から撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "に5.5kgと6.2kgの中容量モデル（MAW-55Y/62Y）が順次生産を終了したことで一旦は市場から撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "」向けモデルのみながら、完全撤退から4年ぶりに洗濯機の販売を再開",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "機能や操作パネルは「白い約束」と同じだが、デザインの変更に加え、商標権の関係で表現を変更している違いがあり（「お湯取」→「ふろ水」、「エアジェット乾燥」→「風乾燥」、「手造り」→「メモリー」）、「スタート/一時停止」ボタンの上に「これっきりボタン」の表記もない（機能そのものは「これっきりボタン」に準じている）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2019年発売のMAW-70BP（NW-70CのOEMモデル）の製造終了に伴って再び撤退となった",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "に製造を打ち切り、市場から撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "機などの製造を打ち切り、市場から撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "に鞍替えするメーカーもあったが、三菱電機は8ミリビデオを発売せず撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2008年をもってブラウン管テレビは生産を終了し、地上デジタル非対応テレビもラインアップから消えた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "）にもかつてブラウン管を供給していた（ビクターは経営不振を理由に2008年限りでテレビ受像機生産から完全撤退）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "であり、再エネ導入の初期段階における基盤整備需要が成長を支えました",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーソフトウェア業界では近年、巨大な資本を背景としたダイナミックなM&Aと業界再編が連鎖的に発生している",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "今後の再編のターゲットとして具体的に名前が挙がる企業群とその理由は以下の通りである",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、高度な数値気象予報（NWP）モデルと強化学習を組み合わせて電力需給をマイクロ秒単位で予測するAIアルゴリズム開発企業が再編の標的となる",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "この新たに定めた「Our Philosophy」のもと、サステナビリティを経営の根幹に据え、社会・顧客・株主・従業員をはじめとしたステークホルダーからの信頼を大切にしてまいります",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年に帰任し、コーポレートベンチャーキャピタル「MEイノベーションファンド」に参画、キャピタリストとして、スタートアップへの出資、協業に携わっている",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "光方式量子コンピューターハードウエア開発のスタートアップOptQCへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "量子コンピューターを活用した数理最適化ミドルウエア開発スタートアップJIJへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "データセンターの運用最適化を実現する米国のスタートアップ Lucendへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "水を推進剤とする人工衛星用推進技術のスタートアップ 株式会社Pale Blueへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "AI支援型PLMシステムを開発するスタートアップ 株式会社Thingsへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンクレジットモニタリング解析のスタートアップ 株式会社Archedaへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主総会招集ご通知・株主通信 | 三菱電機 Mitsubishi Electric",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第155回定時株主総会招集ご通知（2026年3月期）",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第155回定時株主総会招集ご通知",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第155回定時株主総会その他の電子提供措置事項（交付書面省略事項）",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信2025（2025年度中間報告書）～2025年4月1日から2025年9月30日まで～",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第154回定時株主総会招集ご通知（2025年）",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第154回定時株主総会その他の電子提供措置事項（交付書面省略事項）",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信2024（2024年度中間報告書）～2024年4月1日から2024年9月30日まで～",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第153回定時株主総会招集ご通知（2024年）",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第153回定時株主総会その他の電子提供措置事項（交付書面省略事項）",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信2023（2023年度中間報告書）～2023年4月1日から2023年9月30日まで～",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第152回定時株主総会招集ご通知（2023年）",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第152回定時株主総会その他の電子提供措置事項（交付書面省略事項）",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信2022（2022年度中間報告書）～2022年4月1日から2022年9月30日まで～",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第151回定時株主総会招集ご通知（2022年）",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "第151回定時株主総会招集ご通知に際してのインターネット開示事項",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "株主通信2021（2021年度中間報告書）～2021年4月1日から2021年9月30日まで～",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "光方式量子コンピューターハードウエア開発のスタートアップOptQCへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "量子コンピューターを活用した数理最適化ミドルウエア開発スタートアップJIJへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "データセンターの運用最適化を実現する米国のスタートアップ Lucendへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "水を推進剤とする人工衛星用推進技術のスタートアップ 株式会社Pale Blueへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "AI支援型PLMシステムを開発するスタートアップ 株式会社Thingsへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンクレジットモニタリング解析のスタートアップ 株式会社Archedaへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国発のスタートアップSolestial, Inc.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュージーランド発のスタートアップZenno Astronautics Ltd.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国発のスタートアップFormic Technologies Inc.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "IaaSを提供するスタートアップPente Networks Inc.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国発のスタートアップHayden AI Technologies, Inc.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポール発のスタートアップHydroleap Pte. Ltd.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属インクジェット印刷のスタートアップ エレファンテック株式会社へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "イスラエル発のスタートアップSCADAfence Ltd.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "量子コンピュータベンチャーに三菱電機が出資する理由",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポールのスタートアップFTV LABS PTE. LTD.へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "量子コンピュータ系スタートアップの株式会社QunaSysへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機：日本建鉄を全額出資に、44億円規模の株式交換－相乗効果発",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "が保有していた株式の譲渡を受けて一時的に出資していたが（そのため、そごうグループの経営破綻時にもいよてつそごうは経営破綻を免れた）、提携相手を高島屋に変更した際に三菱電機の保有株式を高島屋に譲渡して撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "（注）各部門の売上高には、部門間の内部売上高（振替高）を含めて表示しております",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "pass": 1
+   },
+   {
+    "quote": "拠点情報 | 三菱電機 Mitsubishi Electric",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "FAシステム事業本部の福山製作所にて、国内外向け低圧配電遮断器のマーケティング業務に従事し、同製品の売上拡大に貢献",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "M&Aの実行、戦略的パートナーシップの構築、およびグリーンフィールド型の製造拠点設立プロジェクトのリードを担う",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在はシンガポールを拠点に、東南アジア・オセアニアを中心としたスタートアップ探索に注力",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年より北米拠点「Mitsubishi Electric US, Inc.」にてドローンプラットフォームの新規事業開発に従事",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在はボストンを拠点に、北米を中心としたスタートアップ探索に注力",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "防衛・宇宙システム事業本部にて営業担当として防衛省向け装備品の提案・受注活動に従事",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "人材育成を目的とした海外派遣制度に選ばれ、2022年より1年間、北米拠点「Mitsubishi Electric US, Inc.」に派遣、西海岸で数多くのスタートアップ企業と協業検討を経験",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在はNYを拠点に、北米を中心としたスタートアップ探索に注力",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機、大型部品向け金属3Dプリンター販売 航空宇宙に対応 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "はワイヤ・レーザーを使用した金属3Dプリンターの新製品を25日に発売する",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "新たな3Dプリンター「AZ1200」は質量1000キログラムまで対応する",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は22年から3Dプリンター事業に参入した",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使用することで、あらかじめ形状を作り込んだうえで切削加工を施すため時間短縮や素材費の削減が可能となる",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野の造船･宇宙に照準 ダイヘンが3Dプリンター参入",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 統合デザイン研究所 | 金属3Dプリンタが紡ぐ世界｜DESIGNART TOKYO 2025｜BRAVE",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 統合デザイン研究所 | 金属3Dプリンタが紡ぐ世界",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタが紡ぐ世界",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "金型や切削加工を必要としない、三菱電機の金属3Dプリンタでの出力を前提に、",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで作りやすい形",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタにしかできない形",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "【三菱電機】革新の技術！国産の金属3Dプリンタを紹介！ - YouTube",
+    "url": "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "pass": 3
+   },
+   {
+    "quote": "【三菱電機】革新の技術！国産の金属3Dプリンタを紹介！",
+    "url": "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "pass": 3
+   },
+   {
+    "quote": "【空から工場見学】三菱電機の巨大事業所26拠点を巡る！人工衛星からリンゴまで！？日本を支える巨大工場と神戸から始まった100年の歴史を分かりやすく解説",
+    "url": "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機が業界最速造形の金属3Dプリンター、競合の2.5倍｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "# 金属3Dプリンター",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機が業界最速造形の金属3Dプリンター、競合の2.5倍",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機は、積層造形（ＡＭ）の国プロジェクト「次世代３Ｄ積層造形技術総合開発機構（ＴＲＡＦＡＭ）」に参画し、新エネルギー・産業技術総合開発機構（ＮＥＤＯ）と共同研究した",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の技術はここまで進化している！",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "ＴＯＴＯ、半導体用セラに６００億円追加投資",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトストーリー02 - ワイヤ・レーザ金属3Dプリンタ開発プロジェクト - 三菱電機ソフトウエア",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属3Dプリンタ開発プロジェクト",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属3Dプリンタの開発",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、現在主流の金属粉末を材料とする3Dプリンタは、材料コストなどで課題があり、幅広い産業で利用できるわけではない",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、三菱電機ソフトウエアが挑んだのは、それらの課題を解決するワイヤ・レーザ金属3Dプリンタ（三菱電機製品）のソフトウェア開発だ",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、私たちが取り組んだのは、これまでにない新しい加工方式の金属3Dプリンタに搭載されるソフトウェアの開発です",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の金属3Dプリンタの多くは、微細な粉末金属をレーザなどで溶かして固めた層を積み重ねていく方式をとっています",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "これらに対応するために生まれたのが「ワイヤ・レーザDED方式」という新たな方法を採用した金属3Dプリンタです",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "より低コストで空孔のない造形を実現することで、さまざまな産業分野における3Dプリンタ利用が拡大し、CO2排出削減と資源の有効活用に寄与することができるのです",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、3Dプリンタは多品種少量生産に向いているため、この方式を普及させることで、さまざまな人々のニーズに応えて多様な製品がつくられる豊かな社会の実現を本プロジェクトは目指しています",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様では、このプロジェクト始動の数年前から3Dプリンタで金属の造形を行う研究に着手していて、具体的に製品化するタイミングで依頼いただいたのがスタートです",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "画面開発チームでは、3Dプリンタの状態や制御ソフトウェアの機能をわかりやすくユーザに提示し、直感的に操作できるUI画面の設計や開発を担当",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、私とK.Mさんは制御ソフトウェア開発チームとして、レーザ出力、ワイヤ送給、加工ヘッドの移動指令をどのように協調動作させるかという3Dプリンタの造形能力に直接関わる部分を設計・開発しました",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の金属3Dプリンタは、従来の工作機械に比べて短時間で部品を製造できることがアピールポイントの一つであり、工作機械において加工時間は生産性に直結しているため、利用されるお客様の売り上げを左右する要素でもあります",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "そんな3Dプリンタへと改良していきたいです",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、3Dプリンタを活用してモノづくりをデジタル化することは、製造現場における労働力不足や職人技の継承者不足の解決にも寄与します",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "従来手作業だった溶接工程を金属3Dプリンタに置き換え、自動化、デジタル化するという話も出ています",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属3Dプリンタ - AZ600 × 薄壁造形 - | 三菱電機FA - YouTube",
+    "url": "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属3Dプリンタ - AZ600 × 薄壁造形 - | 三菱電機FA",
+    "url": "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "pass": 3
+   },
+   {
+    "quote": "【基礎から解説】光造形3Dプリンター！前編 仕組みから選び方、導入方法まで解説！ELEGOO SATURN2 8K",
+    "url": "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機ワイヤ・レーザ金属3Dプリンタ「AZ600」での造形事例をご紹介いたします",
+    "url": "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで製作した衛星用アンテナを軌道上で実証し、衛星搭載機器の開発プロセスを確立する",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "短納期・低コストの衛星用アンテナが求められる現在、三菱電機株式会社は金属3Dプリンタを使って、精密な加工を要求される衛星通信用のRFコンポーネント製作を行っている",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内で初めて3Dプリンタで作ったアンテナの軌道上実証を行う同社鎌倉製作所 宇宙技術部・三浦昂大氏にテーマの内容、開発のポイントなどを伺った",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の実証では、金属3Dプリンタのアディティブマニュファクチャリング（積層造形技術）を活用したフィルターと一体型のアンテナを開発し、それを小型実証衛星２号機（RAISE-2）に搭載して、打上げから約1年間かけて、沖縄等の各地上局との通信によって動作の健全性を確認します",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の実証の中では、金属3Dプリンタを過酷な環境で使われる製品に適用し、衛星搭載のRFコンポーネントの開発プロセスを確立させることが目的となっています",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの活用にはフレキシブル化、低コスト化、軽量化といった多くの利点があるので、さまざまな場面に利用されていますが、人工衛星も例外ではなく、構造物やコンポーネントへの適用が検討されています",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "実際に軌道上に打ち上げられているものもありますが、衛星通信に用いられるような高周波数帯数のRFコンポーネントは、高精度の加工技術がなければ高性能は得られず、金属3Dプリンタで製造するには技術難度が高く、まだ世界的にもあまり例がありません",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社としては世界に先駆けて金属3Dプリンタを活用したRFコンポーネントの軌道上での実績を獲得し、開発プロセスを確立して市場に展開していきたいというのが、今回の実証の展望です",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "175,820百万円",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "pass": 1
+   },
+   {
+    "quote": "5,894,747百万円",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "pass": 1
+   },
+   {
+    "quote": "7,357,512百万円",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "pass": 1
+   },
+   {
+    "quote": "（注）各部門の売上高には、部門間の内部売上高（振替高）を含めて表示しております",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "pass": 1
+   },
+   {
+    "quote": "FAシステム事業本部の福山製作所にて、国内外向け低圧配電遮断器のマーケティング業務に従事し、同製品の売上拡大に貢献",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＴＯＴＯ、半導体用セラに６００億円追加投資",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体産業の業界研究】売上ランキングトップ30／キオクシア急成長の理由／レゾナックは大化けする／東京エレクトロンの将来性／NVIDIAに富が集中する構造／日本の装置・材料メーカーは生き残れるか",
+    "url": "https://www.youtube.com/watch?v=V83NwDouuxI",
+    "pass": 3
+   },
+   {
+    "quote": "は31日、2027年3月期の連結純利益（国際会計基準）が前期比21%増の4950億円になる見通しだと発表した",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "過去最高益の従来予想を200億円上回る",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は6%増の6兆2700億円、事業や資産の売却損益などを除いた調整後営業利益は24%増の6200億円を見込む",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "事業別の調整後営業利益でみると、FA（ファクトリーオートメーション）システム事業が60%増の1200億円と180億円上振れする",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "空調・家電事業が33%増の1400億円、自動車機器が52%増の760億円とそれぞれ50億円、40億円上方修正した",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "足元の円安が今後も継続した場合、売上高でプラス1000億円、調整後営業利益でプラス300億円程度の影響が出る可能性もあるという",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "同日発表した26年4〜6月期の連結決算は売上高が前年同期比14%増の1兆4971億円、純利益が21%増の1098億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "1,296億円（2025年度）",
+    "url": "https://www.mee.co.jp/kaisyaan/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高が1,000億円を突破",
+    "url": "https://www.mee.co.jp/kaisyaan/",
+    "pass": 3
+   },
+   {
+    "quote": "1758億20百万円（2024/3月期)",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "連結5兆5,217億1,100万円、単独2兆700億円（2025年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "※税引前当期純利益：連結4,372億円",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "連結：3兆8664億18百万円",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "日本の総合電機メーカーにおいてはトップクラスの売上規模を誇り、とりわけFA機器や昇降機（エレベーター・エスカレーター）、人工衛星などの宇宙システム分野において高い世界シェアや国内シェアを有している",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代以降、海外売上高比率は50%を超えている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機：日本建鉄を全額出資に、44億円規模の株式交換－相乗効果発",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電社員ら4.6億円着服か 新幹線予約システム巡り",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "架空発注問題の三菱電機、2.4億円申告漏れ 国税指摘",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "100.6億円",
+    "url": "https://www.mitsubishielectric-mobility.com/jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "6,903億円",
+    "url": "https://www.mitsubishielectric-mobility.com/jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機株式会社は、米国オクラホマ州に本拠を置くエネルギー管理・最適化ソフトウェア大手のPCI Energy Solutions（登記上の名称：Power Costs, Inc.、以下「PCI」）を、約14億米ドル（約2,200億円）で完全子会社化",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の売上高は8,200万ドル",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "売上継続率（NRR）は113%",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "この買収を通じた具体的な財務目標として、三菱電機はエネルギーソリューション事業の売上高を",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度見込みの1,000億円から、2030年度には2倍の2,000億円へ拡大",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "非公開企業が多いため厳密なグローバル売上高ランキングを一元的に作成することは困難であるが、プラットフォームの導入シェア、評価額、および開示されている財務データに基づき、市場における影響力と推定事業規模のランキングを構成すると以下のようになる",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "米国の発電量の60%を管理し、2025年の売上高は8,200万ドル（約130億円）に達する",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "自社の発電タービンや送配電インフラハードウェアと組み合わせてDERMSやADMS（高度配電管理システム）を提供し、巨大な売上を構成している",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "取引額は10億米ドル（約1,500億円）を超えると報じられた",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模が今後数年で数千億円規模へと拡大を続ける中、北米の発電量の60%を握るPCIの強固な顧客基盤と高利益率のSaaSモデルは、三菱電機に安定したリカーリング収益とグローバル展開への強力な足がかりをもたらす",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "【三菱電機】（6503）投資家向け分析レポート｜調整後営業益予想を7,100億円に上方修正、2,000億円の自社株買い",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機の「つなぐ時間」はどう売上になる？",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "三菱電機グループは、カーボンニュートラルの実現に向けて、製造プロセスにおけるエネルギー効率の向上や再生可能エネルギーの活用、製品の省エネ性能の改良等、バリューチェーン全体におけるCO",
+    "url": "https://www.mitsubishielectric.co.jp/ja/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンクレジットモニタリング解析のスタートアップ 株式会社Archedaへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンクレジットモニタリング解析のスタートアップ 株式会社Archedaへ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属インクジェット印刷のスタートアップ エレファンテック株式会社へ出資",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機、大型部品向け金属3Dプリンター販売 航空宇宙に対応 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "はワイヤ・レーザーを使用した金属3Dプリンターの新製品を25日に発売する",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 統合デザイン研究所 | 金属3Dプリンタが紡ぐ世界｜DESIGNART TOKYO 2025｜BRAVE",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 統合デザイン研究所 | 金属3Dプリンタが紡ぐ世界",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタが紡ぐ世界",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "金型や切削加工を必要としない、三菱電機の金属3Dプリンタでの出力を前提に、",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで作りやすい形",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタにしかできない形",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "【三菱電機】革新の技術！国産の金属3Dプリンタを紹介！ - YouTube",
+    "url": "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "pass": 3
+   },
+   {
+    "quote": "【三菱電機】革新の技術！国産の金属3Dプリンタを紹介！",
+    "url": "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機が業界最速造形の金属3Dプリンター、競合の2.5倍｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "# 金属3Dプリンター",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機が業界最速造形の金属3Dプリンター、競合の2.5倍",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Ｄプリンター「ＥＺ３００」",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機は金属３Ｄプリンターを９月２日に発売する",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "発売するのは金属３Ｄプリンター「ＥＺ３００」",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の技術はここまで進化している！",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機、大型造形対応ワイヤー金属３Ｄプリンター : 化学工業日報 電子版",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機、大型造形対応ワイヤー金属３Ｄプリンター",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "ＪＸ金属、高純度硫酸銅の生産能力５割増強",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "阪和興業、ニッケル中間原料の販売倍増へ ＬｉＢ正極材向け",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "クラボウ、半導体関連成長 高機能樹脂引き合い活発",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトストーリー02 - ワイヤ・レーザ金属3Dプリンタ開発プロジェクト - 三菱電機ソフトウエア",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属3Dプリンタ開発プロジェクト",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属3Dプリンタの開発",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "CO2排出削減や資源の有効活用などが社会的課題となる中、金属３Dプリンタは設計データを直接プリントして製品を製造できるため、従来の切削工法に比べ省資源、省エネで金属製品を製造でき、モノづくりのデジタル化につながる手法として期待を集めている",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、現在主流の金属粉末を材料とする3Dプリンタは、材料コストなどで課題があり、幅広い産業で利用できるわけではない",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、三菱電機ソフトウエアが挑んだのは、それらの課題を解決するワイヤ・レーザ金属3Dプリンタ（三菱電機製品）のソフトウェア開発だ",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、私たちが取り組んだのは、これまでにない新しい加工方式の金属3Dプリンタに搭載されるソフトウェアの開発です",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の金属3Dプリンタの多くは、微細な粉末金属をレーザなどで溶かして固めた層を積み重ねていく方式をとっています",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "これらに対応するために生まれたのが「ワイヤ・レーザDED方式」という新たな方法を採用した金属3Dプリンタです",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "これは金属ワイヤを直接加工部分に供給し、それをレーザで溶かして固めることで造形していく方式です",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様では、このプロジェクト始動の数年前から3Dプリンタで金属の造形を行う研究に着手していて、具体的に製品化するタイミングで依頼いただいたのがスタートです",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の金属3Dプリンタは、従来の工作機械に比べて短時間で部品を製造できることがアピールポイントの一つであり、工作機械において加工時間は生産性に直結しているため、利用されるお客様の売り上げを左右する要素でもあります",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "従来手作業だった溶接工程を金属3Dプリンタに置き換え、自動化、デジタル化するという話も出ています",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属3Dプリンタ - AZ600 × 薄壁造形 - | 三菱電機FA - YouTube",
+    "url": "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属3Dプリンタ - AZ600 × 薄壁造形 - | 三菱電機FA",
+    "url": "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機ワイヤ・レーザ金属3Dプリンタ「AZ600」での造形事例をご紹介いたします",
+    "url": "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで製作した衛星用アンテナを軌道上で実証し、衛星搭載機器の開発プロセスを確立する",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "短納期・低コストの衛星用アンテナが求められる現在、三菱電機株式会社は金属3Dプリンタを使って、精密な加工を要求される衛星通信用のRFコンポーネント製作を行っている",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の実証では、金属3Dプリンタのアディティブマニュファクチャリング（積層造形技術）を活用したフィルターと一体型のアンテナを開発し、それを小型実証衛星２号機（RAISE-2）に搭載して、打上げから約1年間かけて、沖縄等の各地上局との通信によって動作の健全性を確認します",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の実証の中では、金属3Dプリンタを過酷な環境で使われる製品に適用し、衛星搭載のRFコンポーネントの開発プロセスを確立させることが目的となっています",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの活用にはフレキシブル化、低コスト化、軽量化といった多くの利点があるので、さまざまな場面に利用されていますが、人工衛星も例外ではなく、構造物やコンポーネントへの適用が検討されています",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "実際に軌道上に打ち上げられているものもありますが、衛星通信に用いられるような高周波数帯数のRFコンポーネントは、高精度の加工技術がなければ高性能は得られず、金属3Dプリンタで製造するには技術難度が高く、まだ世界的にもあまり例がありません",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社としては世界に先駆けて金属3Dプリンタを活用したRFコンポーネントの軌道上での実績を獲得し、開発プロセスを確立して市場に展開していきたいというのが、今回の実証の展望です",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタを買ってきてしまえば、誰でも作れると思うかもしれませんが、実際にはいろいろな加工のパラメータがあり、部品の試作などを社内で繰り返し実施し、技術の蓄積ができてようやくRFコンポーネントに適用できるフェーズに達しました",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで製作したアンテナの軌道上実証は世界的にもあまり例のない試みですから、エンジニアとして腕が鳴るというか、わくわくが止まらない気持ちです",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは柔軟な形状設定が可能ですが、従来の加工技術と比べるとどうしても精度が出にくく、表面精度も粗くなりがちという課題がありました",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、格段にデータ通信量の増大が期待できる、より高周波数帯であるKa帯用のコンポーネントへの金属3Dプリンタの適用、及び従来技術と比べてコスト・工期の50パーセント改善を目指して、さらなる顧客獲得を推し進めていきます",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、サステナビリティを経営の根幹に据え、「カーボンニュートラル」「サーキュラーエコノミー」「安心・安全」「インクルージョン」「ウェルビーイング」といった多様化する社会課題の解決と、自社の事業成長の両立（トレード・オン）を持続的に追求している",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "kg、サイクロン式（TC-EJ8J）は本体質量3.2kgだったが、世代を重ねるごとに軽量化が図られ、2010年モデル（第2世代）はサイクロン式のTC-EK8Jで本体質量を3.1kgに、2012年モデル（第4世代）は紙パック式（TC-FXB5J/FXB7P/FXB8P）の本体質量を2.8kgに、サイクロン式（TC-EXB8J）の本体質量を3.0kgに軽量化（同時に、グリップ・ホース・パイプに「かるスマパーツ」を採用したことで標準質量も軽量化）していたが、2013年モデル（第5世代）で主要部品をアルミ化した「アルミフレームモーター」の採用と本体の小型化により、サイクロン式（TC-EXC7J/EXC8P/EXC10P）は本体質量を2.4kgに、紙パック式（TC-FXC5J/FXC7P/FXC8P）は本体質量を約2.5kgとなり、デザインを一新",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "がラインナップされている（かつては充電式のニッケル水素電池や",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "このプラットフォームは、機械学習に基づく価格予測、再生可能エネルギーのポジション管理、およびリアルタイムのカーボンクレジット追跡機能を統合しており、従来のルールベースのリスク監視から、AIによる能動的な「取引の意思決定支援」へとソフトウェアの付加価値を根本から引き上げている",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "米国ソフトウェア会社の買収をはじめとする数々の戦略的プロジェクトを推進",
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "三井化学がＪＳＲ買収へ、１兆円超の業界最大Ｍ＆Ａ",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "から漸次撤退を進め、提携対象となる事業分野が消滅したことを直接の理由として、両社の長年にわたる提携関係は終了した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "が2026年3月限りで「TOSHIBA」ブランド浴室用換気扇生産より撤退したため、三菱製浴室用換気扇は",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に全機種の製造を終了したことに伴って同市場から撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "に5.5kgと6.2kgの中容量モデル（MAW-55Y/62Y）が順次生産を終了したことで一旦は市場から撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "」向けモデルのみながら、完全撤退から4年ぶりに洗濯機の販売を再開",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2019年発売のMAW-70BP（NW-70CのOEMモデル）の製造終了に伴って再び撤退となった",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "に製造を打ち切り、市場から撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "機などの製造を打ち切り、市場から撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "に鞍替えするメーカーもあったが、三菱電機は8ミリビデオを発売せず撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "）にもかつてブラウン管を供給していた（ビクターは経営不振を理由に2008年限りでテレビ受像機生産から完全撤退）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2013年12月に「今後はBDレコーダー一体型液晶テレビに事業を集中する」として事業からの撤退を発表した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "：2016年時点は家庭用・事業者用パソコン「アプリコット」共に撤退している（家庭向けは不明・事業者向けは2012年3月に終了）、かつては「",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "元祖のMELCOMの後継であったEntranceそしてCENTRAGEシリーズを展開していたが、2022年に最新モデル「CENTRAGE II」の受注を停止し、衰退するオフコンより撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "：2008年をもって撤退",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "のみ、開業から撤退まで一切供給していなかった",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "後に撤退し、「ディーガ」の商標も",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "モジュール.- 2020年で撤退し、以降は京セラ製パネルを自社ソリューションに使用",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2013年12月に個人向け液晶ディスプレイの開発・生産事業から撤退",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2022年6月をめどに全ての液晶事業から撤退予定",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "- 自動車メーカー（主に三菱自動車や三菱ふそう）と協業の純正品のほか、市販品も手掛けていたが2023年末を以って生産終了、並びに完全撤退",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "ただし同社専用品のアダプターやスピーカー、純正カーオーディオは先述の通り、2023年末の事業完全撤退直前まで継続生産された",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "製品の需要低迷を理由に2021年末までに生産終了、並びに完全撤退した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2015年清算）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "“石油ファンヒーター： 「生みの親」の三菱電機が撤退”",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "三菱、単体BDレコーダー事業から撤退へ - Phile-web",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ三菱電機は米PCIエナジーソリューションズを買収したのか？【解説】｜Better Equation Research",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ三菱電機は米PCIエナジーソリューションズを買収したのか？【解説】",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "この巨額買収の背景には、グローバルな電力システムの構造的かつ不可逆的な変化が存在する",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "買収対象であるPCIは、1992年に設立された従業員約370名を擁するソフトウェア専業企業であり、北米を中心にエネルギー事業者向けにSaaS型のプラットフォームを提供している",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "本買収の最大のシナジーは、三菱電機が長年培ってきた空調・産業機器などのハードウェア制御技術やコンポーネントに関する知見と、PCIが持つ北米市場での高いシェアおよび高度なエネルギー最適化ソフトウェア技術を融合させる",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "この買収を通じた具体的な財務目標として、三菱電機はエネルギーソリューション事業の売上高を",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "世界79カ国、500社以上の電力会社やコンサルタントに導入されており、2023年に10億ドル以上で買収された事実がその規模と収益性の高さを証明している",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機の買収によりさらなる規模拡大が見込まれる",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "最も象徴的な事例が、2023年10月に発表され2024年5月に完了した、世界最大級のPEファンドであるBlackstoneと同Vista Equity Partnersによる「Energy Exemplar」の共同買収である",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、業界内でのボルトオン買収（機能補完型M&A）も活発化している",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "上記のEnergy Exemplarは、Blackstoneらによる買収完了とほぼ同時期の2024年5月に、競合または補完関係にあった「Adapt2 Solutions」を買収した",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機による14億ドルのPCI買収は、まさにこうした「海外巨大ファンドによるソフトウェアプラットフォームの寡占化」に対する、日本の重電メーカーによる強力なカウンター戦略としての意味合いを持つ",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーソフトウェア業界は、主要プラットフォーマーへの集約が進みつつあるものの、技術的な細分化が著しいため、三菱電機やBlackstoneのような巨大資本による「ロールアップ（連続買収による市場シェアの拡大・機能補完）」が今後数年間でさらに加速すると予想される",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "一方、シーメンス、日立、ABBなどのグローバル重電メーカーや大手プラットフォーマーは、自社の巨大なインフラに最新のソフトウェア機能を即座に統合（プラグイン）する手段を求めており、技術力の高いこれらの中小企業は極めて魅力的なボルトオン買収の対象となる",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "ITとOTのコンバージェンスが進む中、OT領域のサイバーセキュリティ企業も強力な買収候補となる",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "日本のサイバー防衛は、誰の手に委ねられるのか～GSX買収、アクセンチュアの世界戦略、そして「自国を守る力」の行方【前編】",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【金属 3Dプリンタ 篇】加工時間を約80%削減。 三菱電機 が ... — 【金属 3Dプリンタ 篇】加工時間を約80%削減。 三菱電機 が ... mitsubishielectric.co.jp https://www.mitsubishielectric.co.jp > insights14 > report01",
+    "url": "https://www.mitsubishielectric.co.jp/fa/the-art-of-manufacturing/focus/insights14/report01.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンタ (AM) | 製品情報 | 三菱電機 FA — 金属 3Dプリンタ (AM) | 製品情報 | 三菱電機 FA mitsubishielectric.co.jp https://www.mitsubishielectric.co.jp > products > mecha",
+    "url": "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 、大型部品向け金属 3Dプリンター 販売 航空宇宙に対応 — 三菱電機 、大型部品向け金属 3Dプリンター 販売 航空宇宙に対応 日本経済新聞 https://www.nikkei.com > ビジネス > 電機",
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属 3Dプリンター “AZ600” - 三菱電機 — ワイヤ・レーザ金属 3Dプリンター “AZ600” - 三菱電機 mitsubishielectric.co.jp https://www.mitsubishielectric.co.jp > cutting-edges54",
+    "url": "https://www.mitsubishielectric.co.jp/fa/the-art-of-manufacturing/technologies/cutting-edges54/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 統合デザイン研究所 | 金属 3Dプリンタ が紡ぐ世界 — 三菱電機 統合デザイン研究所 | 金属 3Dプリンタ が紡ぐ世界 DESIGNART https://www.designart.jp > exhibitions",
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "pass": 3
+   },
+   {
+    "quote": "【 三菱電機 】革新の技術！国産の金属 3Dプリンタ を紹介！ — 【 三菱電機 】革新の技術！国産の金属 3Dプリンタ を紹介！ YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 が業界最速 造形 の金属3Dプリンター、競合の2.5倍 — 三菱電機 が業界最速 造形 の金属3Dプリンター、競合の2.5倍 ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > ...",
+    "url": "https://newswitch.jp/p/18959",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・デバイス 事業 2026 - 三菱電機 — 半導体・デバイス 事業 2026 - 三菱電機 mitsubishielectric.co.jp PDF https://www.mitsubishielectric.co.jp > pdf",
+    "url": "https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 、大型 造形 対応ワイヤー金属3Dプリンター — 三菱電機 、大型 造形 対応ワイヤー金属3Dプリンター 化学工業日報 電子版 https://chemicaldaily.com > archives",
+    "url": "https://chemicaldaily.com/archives/866785",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算説明会 - 三菱電機 — 2026年3月期 決算説明会 - 三菱電機 mitsubishielectric.co.jp PDF https://www.mitsubishielectric.co.jp > pdf",
+    "url": "https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0428_co2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属 3Dプリンタ 開発プロジェクト - 三菱電機 ... — ワイヤ・レーザ金属 3Dプリンタ 開発プロジェクト - 三菱電機 ... 三菱電機ソフトウエア https://www.mesw.co.jp > recruit > special > story2",
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザ金属 3Dプリンタ - AZ600 × 薄壁造形 - - YouTube — ワイヤ・レーザ金属 3Dプリンタ - AZ600 × 薄壁造形 - - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 株式会社/ 3D -ANT インタビュー - JAXA｜研究開発部門 — 三菱電機 株式会社/ 3D -ANT インタビュー - JAXA｜研究開発部門 JAXA｜研究開発部門 https://www.kenkai.jaxa.jp > interview > interview02_06",
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 関連 | 三菱電機 Mitsubishi Electric — 決算 関連 | 三菱電機 Mitsubishi Electric mitsubishielectric.co.jp https://www.mitsubishielectric.co.jp > data > financial-result",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/financial-result/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 株式会社 2027年3月期 第1四半期 決算説明 会 - YouTube — 三菱電機 株式会社 2027年3月期 第1四半期 決算説明 会 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=V83NwDouuxI",
+    "pass": 3
+   },
+   {
+    "quote": "投資家情報 | 三菱電機 Mitsubishi Electric — 投資家情報 | 三菱電機 Mitsubishi Electric mitsubishielectric.co.jp https://www.mitsubishielectric.co.jp > investors",
+    "url": "https://www.mitsubishielectric.co.jp/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 の純利益21％増 27年3月期、AI・半導体の投資追い風 — 三菱電機 の純利益21％増 27年3月期、AI・半導体の投資追い風 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明 会 - 三菱電機 — 2027年3月期 第1四半期 決算説明 会 - 三菱電機 mitsubishielectric.co.jp PDF https://www.mitsubishielectric.co.jp > financial-result",
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/management-report/pdf/financial-result/20260731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プロフィール | 三菱電機 Mitsubishi Electric — プロフィール | 三菱電機 Mitsubishi Electric mitsubishielectric.co.jp https://www.mitsubishielectric.co.jp > corporate-data",
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 三菱電機エンジニアリング — 会社概要 - 三菱電機エンジニアリング 三菱電機エンジニアリング株式会社 https://www.mee.co.jp > kaisyaan",
+    "url": "https://www.mee.co.jp/kaisyaan/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 - Wikipedia — 三菱電機 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 三菱電機",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 三菱電機 モビリティ — 会社概要 | 企業情報 | 三菱電機 モビリティ Mitsubishi Electric Mobility https://www.mitsubishielectric-mobility.com > profile",
+    "url": "https://www.mitsubishielectric-mobility.com/jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 Mitsubishi Electric — 三菱電機 Mitsubishi Electric mitsubishielectric.co.jp https://www.mitsubishielectric.co.jp > ...",
+    "url": "https://www.mitsubishielectric.co.jp/ja/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "決算:三菱電機の純利益21％増 27年3月期、AI・半導体の投資追い風 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "は31日、2027年3月期の連結純利益（国際会計基準）が前期比21%増の4950億円になる見通しだと発表した",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は6%増の6兆2700億円、事業や資産の売却損益などを除いた調整後営業利益は24%増の6200億円を見込む",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "調整後営業利益率は9.9%と1.4ポイント上回る",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "事業別の調整後営業利益でみると、FA（ファクトリーオートメーション）システム事業が60%増の1200億円と180億円上振れする",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "足元の円安が今後も継続した場合、売上高でプラス1000億円、調整後営業利益でプラス300億円程度の影響が出る可能性もあるという",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "同日発表した26年4〜6月期の連結決算は売上高が前年同期比14%増の1兆4971億円、純利益が21%増の1098億円だった",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "AOKIHDの4〜9月期、純利益75%減 天候不順で夏物販売が低迷",
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "※税引前当期純利益：連結4,372億円",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "10月 - 売り上げ不振で赤字が続いていた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機も液晶撤退 採算悪化、パナに続き",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度に16%と見込まれる営業利益率を、2030年度には28%まで引き上げる",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機2378人応募に見る「黒字リストラ」の現実",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "早期退職は\"前兆\"で読める｜黒字でも線を引かれる前に",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "三菱電機 公式 三菱電機 公式 note.com https://note.com > mitsubishidenki",
+    "url": "https://note.com/mitsubishidenki",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 、公式noteをはじめます！ 三菱電機 、公式noteをはじめます！ note.com https://note.com > mitsubishidenki",
+    "url": "https://note.com/mitsubishidenki/n/n6722803b8384",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ 三菱電機 は米PCIエナジーソリューションズを買収した ... なぜ 三菱電機 は米PCIエナジーソリューションズを買収した ... note https://note.com > ビジネス > 戦略・組織論",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 の人気・新着記事まとめ - note 三菱電機 の人気・新着記事まとめ - note note https://note.com > tag > 三菱電機",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "スマート保全サービス──AIを、安心して使い続けるための品質づくりと部門を越えた連携",
+    "url": "https://note.mitsubishielectric.co.jp/?gs=8d3e6ba67f514da7b82192b3093cf66e",
+    "pass": 3
+   },
+   {
+    "quote": "“分かった”が生まれる瞬間を信じて。MelBridgeⓇが現場に架ける、言葉の橋",
+    "url": "https://note.mitsubishielectric.co.jp/?gs=8d3e6ba67f514da7b82192b3093cf66e",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIは、0.1mmのズレをどう乗り越えるのか ──現合調整AIが挑む、製造現場の「匠の技術」",
+    "url": "https://note.mitsubishielectric.co.jp/?gs=8d3e6ba67f514da7b82192b3093cf66e",
+    "pass": 3
+   },
+   {
+    "quote": "SNSコンテンツ「ゆっこのトキメキ出張」、始まります。",
+    "url": "https://note.mitsubishielectric.co.jp/?gs=8d3e6ba67f514da7b82192b3093cf66e",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機、公式noteをはじめます！｜三菱電機 公式",
+    "url": "https://note.mitsubishielectric.co.jp/n/n6722803b8384?gs=7bf05bb4cc2226325a7fdc593552d53e",
+    "pass": 3
+   },
+   {
+    "quote": "みなさんのあたりまえの毎日を、技術で支える三菱電機。",
+    "url": "https://note.mitsubishielectric.co.jp/n/n6722803b8384?gs=7bf05bb4cc2226325a7fdc593552d53e",
+    "pass": 3
+   },
+   {
+    "quote": "エアコンやエレベーター、交通、エネルギーなど、",
+    "url": "https://note.mitsubishielectric.co.jp/n/n6722803b8384?gs=7bf05bb4cc2226325a7fdc593552d53e",
+    "pass": 3
+   },
+   {
+    "quote": "実は、日常のいろいろな場面で知らないうちに利用されているんです。",
+    "url": "https://note.mitsubishielectric.co.jp/n/n6722803b8384?gs=7bf05bb4cc2226325a7fdc593552d53e",
+    "pass": 3
+   },
+   {
+    "quote": "そんなことを知る機会は、意外と少ないかもしれません。",
+    "url": "https://note.mitsubishielectric.co.jp/n/n6722803b8384?gs=7bf05bb4cc2226325a7fdc593552d53e",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機の人や技術、その裏側にあるストーリーをお届けします。",
+    "url": "https://note.mitsubishielectric.co.jp/n/n6722803b8384?gs=7bf05bb4cc2226325a7fdc593552d53e",
+    "pass": 3
+   },
+   {
+    "quote": "そんな一つひとつを、気軽な読みものとしてまとめています。",
+    "url": "https://note.mitsubishielectric.co.jp/n/n6722803b8384?gs=7bf05bb4cc2226325a7fdc593552d53e",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ、気になる記事からのぞいてみてください！",
+    "url": "https://note.mitsubishielectric.co.jp/n/n6722803b8384?gs=7bf05bb4cc2226325a7fdc593552d53e",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ三菱電機は米PCIエナジーソリューションズを買収したのか？【解説】｜Better Equation Research",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ三菱電機は米PCIエナジーソリューションズを買収したのか？【解説】",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "Better Equation Research",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月20日、日本の総合電機大手である",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機株式会社は、米国オクラホマ州に本拠を置くエネルギー管理・最適化ソフトウェア大手のPCI Energy Solutions（登記上の名称：Power Costs, Inc.、以下「PCI」）を、約14億米ドル（約2,200億円）で完全子会社化",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "すると発表した。本件は三菱電機にとって過去最大のM&A案件であり、対米外国投資委員会（CFIUS）など必要な規制当局の承認や一般的な取引条件の充足を経て、2026年中にクロージングする予定である。",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "この巨額買収の背景には、グローバルな電力システムの構造的かつ不可逆的な変化が存在する。近年、気候変動対策としての脱炭素化を推し進めるため、太陽光発電や風力発電といった再生可能エネルギーの導入が急速に拡大している。同時に、蓄電池（BESS）や電気自動車（EV）などの分散型電源（DER）が送配電網に大量に接続されるようになった。これにより、天候に左右される不安定な供給と、複雑化する需要のバランスをリアルタイムで制御する難易度が飛躍的に上昇している。従来の火力発電を中心とした一方向的な需給管理ロジックは既に通用しなくなっており、市場変動に合わせて設備全体を統合・最適制御（オーケストレーション）する高度なソフトウェア能力が、エネルギー業界における最大の付加価値の源泉となっている。",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "買収対象であるPCIは、1992年に設立された従業員約370名を擁するソフトウェア専業企業であり、北米を中心にエネルギー事業者向けにSaaS型のプラットフォームを提供している。同社の基幹プラットフォーム「GenManager」などは、発電資産の最適化、エネルギー取引・リスク管理（ETRM）、需要予測、市場への入札から決済（Bid-to-Bill）までを一気通貫で支援する機能を備えている。特に、",
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "pass": 3
+   },
+   {
+    "quote": "防衛・宇宙、FA、電力インフラから生活家電まで、幅広い事業を展開する総合電機メーカーです。",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "投資分析や就活対策、製品の活用術など、様々な切り口の記事が集まっています。",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "防衛・宇宙、FA、電力インフラから生活家電まで、幅広い事業を展開する総合電機メ…",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "【年末の損益通算に向けた実践売買編】年末の「投げ売り」をチャンスに変える！需給とテクニカルで狙う反転投資術",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "株タック（かぶちゃん） @kabutakkuchan",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ企業と日本企業の経営戦略やマーケティング戦略について速報的に取り上げるプランとなります。今日はフィジカルAI関連の過去1週間のニュースまとめとなります。フィジカルAI関連でどのような変化があったのか？この変化に着目して1週間のまとめとして取り上げます。今日は日立製作所（6501）、ファナック（6954）、三菱重工業（7011）、三菱電機（6503）、ウインテスト（6721）を取り上げました。また髙市政権の経済政策や企業や大学の動き も含めてフィジカルAI全般の動きを取り上げています。",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "冷凍室で食品が迷子になるなら｜容量だけでは分からない各社の収納の工夫",
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "三菱電機 ｜Mitsubishi Electric (@ME_JP_official) on X 三菱電機 ｜Mitsubishi Electric (@ME_JP_official) on X X https://x.com > ME_JP_official > highlights",
+    "url": "https://x.com/ME_JP_official/highlights",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 ｜Mitsubishi Electric（@ME_JP_official） / X 三菱電機 ｜Mitsubishi Electric（@ME_JP_official） / X X https://x.com > ME_JP_official",
+    "url": "https://x.com/ME_JP_official?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 Biz Timeline (@BizTimeline_PR) / X 三菱電機 Biz Timeline (@BizTimeline_PR) / X X https://x.com > BizTimeline_PR",
+    "url": "https://x.com/BizTimeline_PR",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by 三菱電機 ｜Mitsubishi Electric (@ME_JP_official) / X Reposts by 三菱電機 ｜Mitsubishi Electric (@ME_JP_official) / X X https://x.com > ME_JP_official > reposts",
+    "url": "https://x.com/ME_JP_official/reposts",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "三菱電機 エンジニアリング（株） - LinkedIn 三菱電機 エンジニアリング（株） - LinkedIn LinkedIn https://www.linkedin.com > company > 三菱電機エンジニ...",
+    "url": "https://www.linkedin.com/company/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "三菱電機 株式会社 ( 三菱電機 ) (@mitsubishidenki) - Facebook 三菱電機 株式会社 ( 三菱電機 ) (@mitsubishidenki) - Facebook Facebook https://www.facebook.com > ... > 都市インフラ",
+    "url": "https://www.facebook.com/mitsubishidenki/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 FA | Chiyoda-ku Tokyo - Facebook 三菱電機 FA | Chiyoda-ku Tokyo - Facebook Facebook https://www.facebook.com > MitsubishiElectricFA",
+    "url": "https://www.facebook.com/MitsubishiElectricFA.JP/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 株式会社 ( 三菱電機 ) (@mitsubishidenki) - Facebook 三菱電機 株式会社 ( 三菱電機 ) (@mitsubishidenki) - Facebook Facebook https://www.facebook.com > mitsubishidenki > albums",
+    "url": "https://www.facebook.com/mitsubishidenki/albums/673633321476687/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機 株式会社は、米国の子会社 Mitsubishi Electric Power ... 三菱電機 株式会社は、米国の子会社 Mitsubishi Electric Power ... Facebook https://www.facebook.com > mitsubishidenki > posts > 三...",
+    "url": "https://www.facebook.com/mitsubishidenki/posts/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF%E7%B1%B3%E5%9B%BD%E3%81%AE%E5%AD%90%E4%BC%9A%E7%A4%BE-mitsubishi-electric-power-products-inc%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6nvidia%E8%A3%BDgpuvera-rubin-n/1565409362299074/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/about/locations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/newsroom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/management-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/investors/data/business-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/investors/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/investors/inquiries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/news.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mitsubishielectric.co.jp/global/common/img/sustainability/environment/main_visualEnvironment.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/common/images/hdr_logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/common/images/main_bg06.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/common/images/main_bg05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/common/images/main_bg04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/business-innovation/cvc/common/images/main_bg03.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newswitch.jp/p/18959",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://chemicaldaily.com/archives/866785",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mesw.co.jp/recruit/special/story2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DfHYtOEv_Ro/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=V83NwDouuxI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mee.co.jp/kaisyaan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric-mobility.com/jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.mitsubishielectric.co.jp/?gs=8d3e6ba67f514da7b82192b3093cf66e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.mitsubishielectric.co.jp/n/n6722803b8384?gs=7bf05bb4cc2226325a7fdc593552d53e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/better_equation/n/n7819efeeee55",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ME_JP_official/highlights",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ME_JP_official?lang=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BizTimeline_PR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ME_JP_official/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mitsubishidenki/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MitsubishiElectricFA.JP/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mitsubishidenki/albums/673633321476687/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mitsubishidenki/posts/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF%E7%B1%B3%E5%9B%BD%E3%81%AE%E5%AD%90%E4%BC%9A%E7%A4%BE-mitsubishi-electric-power-products-inc%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6nvidia%E8%A3%BDgpuvera-rubin-n/1565409362299074/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ME_JP_official?lang=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ME_JP_official/highlights",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三菱電機 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.mitsubishielectric.co.jp/fa/the-art-of-manufacturing/focus/insights14/report01.html",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/index.html",
+    "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "https://www.mitsubishielectric.co.jp/fa/the-art-of-manufacturing/technologies/cutting-edges54/index.html",
+    "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pmerit/index.html",
+    "https://edm-expertnavi.com/1865/",
+    "https://www.mitsubishielectric.co.jp/it-is-the-sustainability/products026/",
+    "https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F/",
+    "https://biggo.jp/news/202507271312_Anker_Suspends_3D_Printer_Sales"
+   ]
+  },
+  {
+   "query": "三菱電機 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "https://www.mitsubishielectric.co.jp/fa/the-art-of-manufacturing/focus/insights14/report01.html",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pr/zoukei/index.html",
+    "https://www.youtube.com/watch?v=TNbOm0CaP_o",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/index.html",
+    "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "https://www.kyoei.co.jp/product/division/machine/3d_printer/mitsubishi.html",
+    "https://edm-expertnavi.com/1865/",
+    "https://www.youtube.com/watch?v=TMGJsRDfuQY",
+    "https://www.yomiuri.co.jp/local/chubu/news/20260925-GYTNT00175/"
+   ]
+  },
+  {
+   "query": "三菱電機 積層造形 事業 売上",
+   "results": [
+    "https://newswitch.jp/p/18959",
+    "https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co5.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://chemicaldaily.com/archives/866785",
+    "https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0428_co2.pdf",
+    "https://eetimes.itmedia.co.jp/ee/articles/2608/04/news064.html",
+    "https://www.nikkei.com/article/DGXMZO36815450T21C18A0X35000/",
+    "https://goldeneggs-investment.hatenablog.jp/entry/2026/09/25/211713",
+    "https://www.mitsubishielectric.co.jp/investors/data/financial-result/",
+    "https://the-shashi.com/tse/6503/segment/"
+   ]
+  },
+  {
+   "query": "三菱電機 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.mitsubishielectric.co.jp/fa/the-art-of-manufacturing/focus/insights14/report01.html",
+    "https://www.mesw.co.jp/recruit/special/story2/",
+    "https://www.youtube.com/watch?v=ku-envbVDvc",
+    "https://www.kenkai.jaxa.jp/kakushin/interview/02/interview02_06.html",
+    "https://www.instagram.com/reel/DfHYtOEv_Ro/",
+    "https://www.nikkei.com/article/DGXZQOFD2433D0U6A920C2000000/",
+    "https://edm-expertnavi.com/1865/",
+    "https://www.designart.jp/designarttokyo2025/exhibitions/10854/",
+    "https://monoque.jp/news/3e1666b21ed3abc982ad62dd31a7e63a982989ab/",
+    "https://dempa-digital.com/article/702009"
+   ]
+  },
+  {
+   "query": "三菱電機 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.mitsubishielectric.co.jp/investors/data/financial-result/",
+    "https://www.youtube.com/watch?v=V83NwDouuxI",
+    "https://www.mitsubishielectric.co.jp/investors/",
+    "https://www.nikkei.com/article/DGXZQOUB3070W0Q6A730C2000000/",
+    "https://www.mitsubishielectric.co.jp/investors/data/management-report/pdf/financial-result/20260731.pdf",
+    "https://www.mitsubishi-motors.com/jp/investors/library/earning.html",
+    "https://www.facebook.com/mitsubishidenki/videos/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F-25%E5%B9%B4%E5%BA%A6%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F-%E9%80%A3%E7%B5%90%E6%B1%BA%E7%AE%97%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E5%BD%93%E7%A4%BE%E6%B1%BA%E7%AE%97%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%92%E6%8A%BD%E5%87%BA%E3%81%97%E3%81%A6%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%97%E3%81%BE%E3%81%99-25%E5%B9%B4%E5%BA%A6%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F-%E9%80%A3%E7%B5%90%E6%B1%BA%E7%AE%97%E7%99%BA%E8%A1%A8%E3%82%B5%E3%83%9E%E3%83%AA-%E5%A3%B2%E4%B8%8A%E9%AB%981423/732386746396846/",
+    "https://www.mhi.com/jp/finance/library/result",
+    "https://www.mitsubishielectric-mobility.com/jp/company/public_notice/",
+    "https://www.mitsubishielectric.co.jp/ja/pr/2026/1030_co1/"
+   ]
+  },
+  {
+   "query": "三菱電機 会社概要 設立 株主",
+   "results": [
+    "https://www.mitsubishielectric.co.jp/ja/about/corporate-data/",
+    "https://www.mee.co.jp/kaisyaan/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "https://www.mitsubishielectric-mobility.com/jp/company/profile/",
+    "https://www.mitsubishielectric.co.jp/ja/",
+    "https://job.mynavi.jp/28/pc/search/corp13/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6503",
+    "https://www.mitsubishielectric.co.jp/investors/",
+    "https://www.mitsubishielectric.co.jp/ja/about/",
+    "https://ja.wikipedia.org/wiki/三菱電機"
+   ]
+  },
+  {
+   "query": "site:note.com 三菱電機",
+   "results": [
+    "https://note.com/mitsubishidenki",
+    "https://note.com/mitsubishidenki/n/n6722803b8384",
+    "https://note.com/better_equation/n/n7819efeeee55",
+    "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "https://note.com/zyokyozyuku/n/n0f26d1f3863d",
+    "https://note.com/henkaku_note",
+    "https://note.com/company_scope/n/ne3058336d2ec",
+    "https://note.com/medigital",
+    "https://note.com/mitsubishidenki/m/md650eb94f400",
+    "https://note.com/aikakimono/n/nd25a23d75f5b"
+   ]
+  },
+  {
+   "query": "site:x.com 三菱電機",
+   "results": [
+    "https://x.com/ME_JP_official/highlights",
+    "https://x.com/ME_JP_official?lang=ja",
+    "https://x.com/BizTimeline_PR",
+    "https://x.com/ME_JP_official/reposts",
+    "https://x.com/MitsubishiKaden",
+    "https://x.com/ME_JP_official/status/2113103314569097278",
+    "https://x.com/i/trending/2111119539635409093",
+    "https://x.com/MitsubishiFA_JP",
+    "https://x.com/ME_JP_official/status/2071489158346834009",
+    "https://x.com/ME_JP_official/status/2017070449444659570"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 三菱電機",
+   "results": [
+    "https://jp.linkedin.com/company/mitsubishielectric",
+    "https://www.linkedin.com/company/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://www.linkedin.com/company/mitsubishielectric",
+    "https://jp.linkedin.com/company/mitsubishi-electric-us-inc-?trk=public_profile_experience-item_result-card_image-click",
+    "https://www.linkedin.com/company/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://www.linkedin.com/news/story/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F-%E9%81%A0%E9%9A%94%E5%9C%B0%E5%8B%A4%E5%8B%99%E5%88%B6%E5%BA%A6%E3%82%92%E5%B0%8E%E5%85%A5-4412377/",
+    "https://sg.linkedin.com/company/mitsubishielectric",
+    "https://www.linkedin.com/news/story/%E9%98%B2%E8%A1%9B%E6%83%85%E5%A0%B1%E7%84%A1%E4%BA%8B-%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83-4497355/",
+    "https://jp.linkedin.com/in/mitsuhiro-hattori-2064035a",
+    "https://jp.linkedin.com/company/mitsubishi-electric-fa-global"
+   ]
+  },
+  {
+   "query": "site:facebook.com 三菱電機",
+   "results": [
+    "https://www.facebook.com/mitsubishidenki/?locale=ja_JP",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/",
+    "https://www.facebook.com/mitsubishidenki/albums/673633321476687/",
+    "https://www.facebook.com/mitsubishidenki/posts/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF%E7%B1%B3%E5%9B%BD%E3%81%AE%E5%AD%90%E4%BC%9A%E7%A4%BE-mitsubishi-electric-power-products-inc%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6nvidia%E8%A3%BDgpuvera-rubin-n/1565409362299074/",
+    "https://www.facebook.com/mitsubishidenki/videos/",
+    "https://www.facebook.com/mitsubishidenki/videos/mitsubishi-electric-group-greeting/806565672438300/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/mentions/",
+    "https://www.facebook.com/mitsubishidenki/photos/1504815761691768/",
+    "https://www.facebook.com/mitsubishidenki/videos/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E3%81%AF%E3%81%9D%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%A7%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E3%81%9D%E3%81%97%E3%81%A6%E4%B8%96%E7%95%8C%E4%B8%AD%E3%81%AE%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E4%BA%BA%E3%81%9F%E3%81%A1%E3%81%AE%E6%AF%8E%E6%97%A5%E3%82%92%E6%94%AF%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E4%BB%8A%E5%9B%9E%E3%81%9D%E3%82%93%E3%81%AA%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E6%83%B3%E3%81%84%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8C%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE/939580661738288/",
+    "https://www.facebook.com/mitsubishidenki/posts/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%8A%80%E8%A1%93%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AB%E3%82%88%E3%82%8B%E6%A5%AD%E5%8B%99%E3%81%AE%E8%87%AA%E5%8B%95%E5%8C%96%E7%9C%81%E5%8A%9B%E5%8C%96%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E8%A8%BC%E5%AE%9F%E9%A8%93%E3%82%92%E5%AE%AE%E5%B4%8E%E5%A4%A7%E5%AD%A6%E3%81%A8%E5%85%B1%E5%90%8C%E3%81%A7%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%AF%E8%BE%B2%E6%A5%AD%E3%81%AE%E5%AE%B3%E7%8D%A3%E5%AF%BE%E7%AD%96%E3%82%92/1593506296156047/"
+   ]
+  },
+  {
+   "query": "三菱電機 note 社長",
+   "results": [
+    "https://note.mitsubishielectric.co.jp/",
+    "https://note.com/henkaku_note",
+    "https://note.mitsubishielectric.co.jp/n/n6722803b8384",
+    "https://note-medigital.com/",
+    "https://note.com/henkaku_note/n/n7692fcc28e15",
+    "https://note.com/tag/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+    "https://www.mitsubishielectric.co.jp/corporate/randd/people/note/003/index.html",
+    "https://x.com/medigital_offcl/status/2080457945427349742",
+    "https://note.com/henkaku_note/n/n5765a555d9d3"
+   ]
+  },
+  {
+   "query": "三菱電機 X 投稿",
+   "results": [
+    "https://x.com/ME_JP_official?lang=ja",
+    "https://www.mitsubishielectric.co.jp/ja/social/",
+    "https://x.com/ME_JP_official/highlights",
+    "https://www.mitsubishielectric.co.jp/our-stories/articles/design-x/",
+    "https://coki.jp/article/column/74121/",
+    "https://www.mitsubishi-motors.com/jp/usage/twitter/index.html",
+    "https://de-fa.mitsubishielectric.com/fa/de_en/lp/socialmedia",
+    "https://www.youtube.com/watch?v=uwYk6qDJme4",
+    "https://x.com/ME_JP_official",
+    "https://x.com/medigital_offcl"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部31頁・検索12回）"
+ }
+}

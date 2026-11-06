@@ -1,0 +1,4342 @@
+{
+ "name": "株式会社ミスミグループ本社",
+ "aliases": [
+  "ミスミ",
+  "meviy"
+ ],
+ "context": "部品のオンライン受託（meviy）",
+ "researched_at": "2026-11-06T16:40:14.036093+00:00",
+ "official_url": "https://www.misumi.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1963年2月23日",
+    "url": "https://www.misumi.co.jp/about/company/summary",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1963年2月23日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9962",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1963年 （昭和38年） 2月23日 （三住商事株式会社）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（連結）",
+    "value": "441,383百万円（2026年3月期）",
+    "url": "https://www.misumi.co.jp/about/company/summary",
+    "pass": 1
+   },
+   {
+    "label": "売上高_前回",
+    "value": "22９億円⇒今回：230億円",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "連結:  441,383百万円 (2026/3月期)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（連結）",
+    "value": "11,304名（2026年3月31日時点）",
+    "url": "https://www.misumi.co.jp/about/company/summary",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "327 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9962",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：\t11,064名 （2025年3月31日時点）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒102-8583 東京都千代田区九段南1丁目6番5号九段会館テラス",
+    "url": "https://www.misumi.co.jp/about/company/summary",
+    "pass": 1
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 102-8583 東京都 千代田区 九段南 一丁目6番5号 九段会館テラス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "本社執行役員 欧州リージョン・ハブ代表役員",
+    "value": "木戸　雄介",
+    "url": "https://www.misumi.co.jp/about/company/management",
+    "pass": 1
+   },
+   {
+    "label": "代表者氏名",
+    "value": "清水　新",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9962",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "清水新（代表取締役社長）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "主要 株主",
+    "value": "日本マスタートラスト信託銀行 株式会社19.45% 株式会社 日本カストディ銀行 10.22% STATE STREET BANK AND TRUST COMPANY 505001 常任代理人 株式会社 みずほ銀行 決済営業部 3.81% BNYM AS AGT/CLTS NON TREATY JASDEC 常任代理人 株式会社 三菱UFJ銀行 5.33% STATE STREET BANK AND TRUST COMPANY 505103 常任代理人 株式会社みずほ銀行決済営業部 3.31% JP MORGAN CHASE BANK 385781 常任代理人 株式会社みずほ銀行決済営業部 2.33% THE BANK OF NEW YORK MELLON 140044 常任代理人 株式会社みずほ銀行決済営業部 1.55% GOVERNMENT OF NORWAY 常任代理人 シティバンク、エヌ・エイ東京支店 1.53% （2025年9月30日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入の時期と形": [
+   {
+    "quote": "次世代のものづくりの担い手を支援する 「ミスミ・インプリント基金」を設立",
+    "url": "https://www.misumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度「ミスミ学生ものづくり支援」公募開始",
+    "url": "https://www.misumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器、ベアリングの販売を目的として三住商事株式会社を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "米国に現地法人「MISUMI USA, Inc.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "台湾に現地法人「MISUMI TAIWAN CORP.」を設立し、台北支店の事業を継承",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポールに現地法人「MISUMI SOUTH EAST ASIA PTE. LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "香港に現地法人「MISUMI E.A. HK LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タイに現地法人「MISUMI (THAILAND) CO., LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "韓国に現地法人「MISUMI KOREA CORP.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツに現地法人「MISUMI Europa GmbH」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "(現 MISUMI(CHINA)PRECISION MACHINERY TRADING CO., LTD.)」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タイに現地法人「SURUGA (THAILAND) CO., LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "駿河精機株式会社(現 株式会社駿河生産プラットフォーム)に子会社「三島精機株式会社」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "韓国に現地法人「SURUGA KOREA CO., LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "神戸に集合生産基地として「ミスミ生産パーク」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "インドに現地法人「MISUMI INDIA Pvt. Ltd.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "他社ブランド商品を販売する新事業「ミスミVONA(ヴォーナ)」を開始",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "インドに現地法人「SURUGA INDIA Pvt. Ltd.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "上海に現地法人「SURUGA SEIKI SALES & TRADING (SHANGHAI) CO., Ltd.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "米国金型部品メーカーの「Dayton Progress Corporation」およびThe Anchor Danly CompanyのComponents事業会社である「Anchor Lamina America, Inc.」を買収",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "南通(中国)に現地法人「SURUGA SEIKI (NANTONG) CO., LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシアに現地法人「PT. MISUMI INDONESIA」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムに現地法人「MISUMI VIETNAM CO., LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "メキシコに現地法人「MISUMI Mexico S. de R.L. de C.V.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミとコアコンセプト・テクノロジーによる合弁会社「株式会社DTダイナミクス」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "「パンチ工業株式会社」（東京）と資本業務提携",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ネパールに現地法人「Misumi Nepal Pvt. Ltd.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミスミグループ本社（本社：東京都千代田区、代表取締役社長：清水新）は、2020年より開発を開始し、約6年をかけて全面刷新した次世代基幹システム「NEWTON」について、2026年9月にグローバル全13か国・地域の現地法人への導入を完了したことをお知らせします",
+    "url": "https://www.misumi.co.jp/news/press_261104",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月より日本で本格運用を開始",
+    "url": "https://www.misumi.co.jp/news/press_261104",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミは、今後のさらなる事業拡大に向けた開発スピードの加速と顧客体験の向上を経営課題と位置付け、2020年より開発を開始し、約6年をかけて基幹システムの全面刷新を行いました",
+    "url": "https://www.misumi.co.jp/news/press_261104",
+    "pass": 1
+   },
+   {
+    "quote": "次世代のものづくりの担い手を支援する 「ミスミ・インプリント基金」を設立 | 株式会社ミスミグループ本社",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミスミグループ本社（本社：東京都千代田区、代表取締役社長：清水新）は米国におけるエンジニアリング教育、応用設計・ロボティクスプログラム、産学連携を支援する「MISUMI Imprint Foundation（ミスミ・インプリント基金）」を設立しました",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループとして初の基金設立であり、200万米ドル（1米ドル158.46円換算で約3億円）のシード投資で発足します",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "これらの職種の人材不足に対応するため、ミスミ・アメリカスは本基金を設立し、次世代のものづくりの担い手の育成を支援してまいります",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "なお、最初の助成事業は2027年初頭に開始予定です",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "サプライヤーネットワークに共同出資を呼びかけ",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "これは、人材不足が個社の問題ではなく業界全体の課題であるという考えに基づき、ミスミのグローバルなサプライヤーネットワークに対し、基金への共同出資を呼びかけるものです",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "インプリント基金は、次世代のものづくりの担い手のために当社として初めて設立した専門組織です",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "2000年には業界に先駆けてインターネット注文サービスを開始し、部品の選定から発注までをWebで完結させる仕組みを構築しました",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "2000年には業界に先駆けてインターネット注文サービスを開始し、部品の選定から発注までをWebで完結させる仕組みを構築しました",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "次世代のものづくりの担い手を支援する 「ミスミ・インプリント基金」を設立",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」 切削加工 「穴位置度」の自動見積もり開始",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度「ミスミ学生ものづくり支援」公募開始",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」切削加工 アルミニウム材A7050・A1050の自動見積もり開始",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "米国シリコンバレーに5,000万米ドル規模のコーポレートベンチャーキャピタルファンドを設立",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "特定子会社の異動（子会社設立）に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミ、DAIKO XTECH、テクノアによる業務提携のお知らせ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」自販機の新モデル、ドロワー（引き出し）タイプを提供開始",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "Oishii Farm Corporationとの資本業務提携に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」「iCAD SX」との寸法公差情報の自動連携を開始",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「D-JIT」【インドサービス開始】機械部品の大量調達 D-JIT",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "パンチ工業株式会社との物流協業開始並びに効果実証に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度「ミスミ学生ものづくり支援」商品提供開始",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "2000年には業界に先駆けてインターネット注文サービスを開始し、部品の選定から発注までをWebで完結させる仕組みを構築",
+    "url": "https://www.misumi.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "当社は今後、グローバル展開、デジタルモデルシフト、成長産業への参入という3つの成長戦略に積極投資を行い、事業ドメインの拡大を狙ってまいります",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "成長産業への参入については、AIがもたらす新たな産業領域への展開を積極的に推進します",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "データセンター市場向け製造装置で求められる自動ステージの増産のための設備投資として2026年度に20億円の投資を予定しているほか、アグリテック分野ではOishiiFarm社との業務資本提携を通じた共同研究に取り組みます",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "また、ロボティクス・ヒューマノイド分野では、関連企業との提携や業務資本提携を検討・推進してまいります",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル展開、デジタルモデルシフト、成長産業への参入、AIを中心とした既存事業基盤の強化等、今後3年を目途に最大1,500億円の投資を計画しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "「グローバル展開」「デジタルモデルシフト」「成長産業への参入」という3つの戦略が、どのような市場機会を捉え、持続的な成長にどうつなげていくのか、現場の実態と進捗をあわせて解説します",
+    "url": "https://www.misumi.co.jp/news/news_261029",
+    "pass": 1
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "「MISUMI floow」自動車部品メーカーの江崎工業 栃木工場にMISUMI floowを導入",
+    "url": "https://www.misumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "米国金型部品メーカーの「Dayton Progress Corporation」およびThe Anchor Danly CompanyのComponents事業会社である「Anchor Lamina America, Inc.」を買収",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "FA事業・金型部品事業・VONA事業、各事業を中心とした企業グループの",
+    "url": "https://www.misumi.co.jp/about/company/summary",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/about/company/summary",
+    "pass": 1
+   },
+   {
+    "quote": "関西工場（金型製造部・製造サポート部、ME製造部、関西meviy製造部）",
+    "url": "https://www.misumi.co.jp/about/company/global",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/about/company/global",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/about/company/management",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/ir/about",
+    "pass": 1
+   },
+   {
+    "quote": "こうした柔軟な基盤におけるサービス拡張を通じて、開発スピードが求められるアグリテックやロボティクス、航空宇宙といった新たな成長産業のお客さまにも貢献できると見込んでいます",
+    "url": "https://www.misumi.co.jp/news/press_261104",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/news/press_261104",
+    "pass": 1
+   },
+   {
+    "quote": "人工知能（AI）がソフトウェアの領域からロボティクス・自動化生産・医療機器・防衛・航空宇宙といった物理的なシステムへと広がるなか、設計図面を製品へと形にするあらゆる職種で需要が高まっています",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、エンジニア、現実世界で安全かつ確実に機能するハードウェアを作る機械加工技術者（マシニスト）、CNCプログラマー、工具・金型技術者、品質管理・保全技術者、自動化スペシャリスト、製造現場の監督者などです",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」自動車部品メーカーの江崎工業 栃木工場にMISUMI floowを導入 | 株式会社ミスミグループ本社",
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品メーカーの江崎工業 栃木工場にMISUMI floowを導入",
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "pass": 1
+   },
+   {
+    "quote": "▼ 日本信号株式会社 半年かかった試作提案を3カ月に",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」自動車部品メーカーの江崎工業 栃木工場にMISUMI floowを導入",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」 自動車用ランプなどを手がけるスタンレー電気 浜松工場、 間接材をJITの視点で管理、手袋のコストを約20％低減",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」製造業従事者400名超への調査で見えた実態 宇宙産業機械設計者の75%が\"成長\"を確信も、周辺業務が障壁に",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」自動車の軸受関連製品を手がけるジェイテクト 亀山工場に 「MISUMI floow」を導入",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」宇宙ビジネス共創プラットフォーム「クロスユー」に参画",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」第3回SPEXA－【国際】宇宙ビジネス展－出展のご案内",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」宇宙産業の開発スピード向上へ、meviyが調達課題解決を支援",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "INTERMOLD 名古屋/金型展 名古屋出展のご案内",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」ゴム成形用金型の設計・製造を手がける石井精工 葛飾工場に 「MISUMI floow」を導入",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」航空宇宙業界向けに表面処理を拡充",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "INTERMOLD 2026（第37回金型加工技術展）出展のご案内",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」自動車用プレス部品や空調機器などを手がける東プレ、 岐阜事業所に「MISUMI floow」を導入",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/esg/environment",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/ir/financial",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "これにより主要顧客産業である自動車関連の稼働も膠着状態が続きました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "一方、中国・アジアを中心に、通信関連や半導体関連向けの需要は堅調に推移しました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品事業は、中国・アジアの堅調な成長が、需要低迷で弱含むその他地域をカバーし、売上高は883億6千8百万円（前年同期比2.2％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度の連結業績については、地政学リスクをはじめとした不透明な状況が続く一方、データセンターや半導体等の成長産業における自動化需要はグローバルで持続的に高まっていくものと想定し、売上高は4,915億円、営業利益は550億円、親会社株主に帰属する当期純利益は374億円と予想しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/ir/disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり現場に欠かせない、自動化装置・設備の部品や、金型用精密部品などを製造・販売しています",
+    "url": "https://www.misumi.co.jp/business-overview",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり現場で必要な自動化装置・設備に組み込まれる機械部品・金型用部品は一品一様のため、一般的には部品ごとに設計者が図面を描き複数の部品加工メーカーに見積・発注しなければなりませんでした",
+    "url": "https://www.misumi.co.jp/business-overview",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/business-overview",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/business-foundation",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/news/news_261029",
+    "pass": 1
+   },
+   {
+    "quote": "当社ブースでは、量産工場のお客さま向けに、間接材調達業務にかかる工数を約70％削減する、間接材トータルコストダウンサービス「MISUMI floow」を展示します",
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "pass": 1
+   },
+   {
+    "quote": "金型加工や精密加工の現場での活用を想定した、切削工具の新商品を展示します",
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/news/news_261007",
+    "pass": 1
+   },
+   {
+    "quote": "自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け",
+    "url": "https://www.misumi.co.jp/ir/library/companyprofile",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」自動車部品メーカーの江崎工業 栃木工場にMISUMI floowを導入",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」 自動車用ランプなどを手がけるスタンレー電気 浜松工場、 間接材をJITの視点で管理、手袋のコストを約20％低減",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」製造業従事者400名超への調査で見えた実態 宇宙産業機械設計者の75%が\"成長\"を確信も、周辺業務が障壁に",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "次世代のものづくりの担い手を支援する 「ミスミ・インプリント基金」を設立",
+    "url": "https://www.misumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器、ベアリングの販売を目的として三住商事株式会社を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "米国に現地法人「MISUMI USA, Inc.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "台湾に現地法人「MISUMI TAIWAN CORP.」を設立し、台北支店の事業を継承",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポールに現地法人「MISUMI SOUTH EAST ASIA PTE. LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "香港に現地法人「MISUMI E.A. HK LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タイに現地法人「MISUMI (THAILAND) CO., LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "韓国に現地法人「MISUMI KOREA CORP.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツに現地法人「MISUMI Europa GmbH」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "(現 MISUMI(CHINA)PRECISION MACHINERY TRADING CO., LTD.)」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タイに現地法人「SURUGA (THAILAND) CO., LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "駿河精機株式会社(現 株式会社駿河生産プラットフォーム)に子会社「三島精機株式会社」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "韓国に現地法人「SURUGA KOREA CO., LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "神戸に集合生産基地として「ミスミ生産パーク」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "インドに現地法人「MISUMI INDIA Pvt. Ltd.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "インドに現地法人「SURUGA INDIA Pvt. Ltd.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "上海に現地法人「SURUGA SEIKI SALES & TRADING (SHANGHAI) CO., Ltd.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "南通(中国)に現地法人「SURUGA SEIKI (NANTONG) CO., LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシアに現地法人「PT. MISUMI INDONESIA」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムに現地法人「MISUMI VIETNAM CO., LTD.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "メキシコに現地法人「MISUMI Mexico S. de R.L. de C.V.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミとコアコンセプト・テクノロジーによる合弁会社「株式会社DTダイナミクス」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ネパールに現地法人「Misumi Nepal Pvt. Ltd.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "特別顧問･第2期創業者",
+    "url": "https://www.misumi.co.jp/about/company/management",
+    "pass": 1
+   },
+   {
+    "quote": "次世代のものづくりの担い手を支援する 「ミスミ・インプリント基金」を設立 | 株式会社ミスミグループ本社",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミスミグループ本社（本社：東京都千代田区、代表取締役社長：清水新）は米国におけるエンジニアリング教育、応用設計・ロボティクスプログラム、産学連携を支援する「MISUMI Imprint Foundation（ミスミ・インプリント基金）」を設立しました",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループとして初の基金設立であり、200万米ドル（1米ドル158.46円換算で約3億円）のシード投資で発足します",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "これらの職種の人材不足に対応するため、ミスミ・アメリカスは本基金を設立し、次世代のものづくりの担い手の育成を支援してまいります",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "インプリント基金は、次世代のものづくりの担い手のために当社として初めて設立した専門組織です",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "次世代のものづくりの担い手を支援する 「ミスミ・インプリント基金」を設立",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "米国シリコンバレーに5,000万米ドル規模のコーポレートベンチャーキャピタルファンドを設立",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "特定子会社の異動（子会社設立）に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "米州事業の社長にFictiv共同創業者のDave Evansを任命 次世代ものづくりの成長とイノベーションを牽引へ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "次世代のものづくりの担い手を支援する 「ミスミ・インプリント基金」を設立",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "米国シリコンバレーに5,000万米ドル規模のコーポレートベンチャーキャピタルファンドを設立",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "米州事業の社長にFictiv共同創業者のDave Evansを任命 次世代ものづくりの成長とイノベーションを牽引へ",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来の「安全」を重視した製品思想で、工場の自動化や社会の安全・安心・ウェルビーイングに貢献しています",
+    "url": "https://www.misumi.co.jp/news/press_260318",
+    "pass": 1
+   },
+   {
+    "quote": "特定子会社の異動（子会社設立）に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news?category=ir",
+    "pass": 1
+   },
+   {
+    "quote": "マークフォージドは2013年創業でアメリカのボストンに本社を置く3Dプリンターメーカーだ",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictivは創業以来主に製造業のユーザーに対して機械部品などを供給してきた",
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年設立のFictivは、米国、中国、インド、メキシコに拠点を持ち、約400名の従業員を抱える",
+    "url": "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vIu9NFByPuRFMOE0sK-0jkH9Ok5-BqjcOCKuz5HrkjkmvikeVCJ",
+    "pass": 3
+   },
+   {
+    "quote": "次世代のものづくりの担い手を支援する「ミスミ・インプリント基金」を設立",
+    "url": "https://kitaishihon.com/company/9962/top/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループは1963年に田口弘が創業し、金型部品を扱う商社としてスタートしました",
+    "url": "https://ny-benricho.com/business/interview/interview-misumi/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミUSAは30年前の1988年に現地法人として設立されました",
+    "url": "https://ny-benricho.com/business/interview/interview-misumi/",
+    "pass": 3
+   },
+   {
+    "quote": "設立当時はアメリカの商材を現地メーカーから購入し日本のお客様へ輸出する拠点としてスタート",
+    "url": "https://ny-benricho.com/business/interview/interview-misumi/",
+    "pass": 3
+   },
+   {
+    "quote": "現地法人設立後の業績は毎年二桁の成長を果たしています",
+    "url": "https://ny-benricho.com/business/interview/interview-misumi/",
+    "pass": 3
+   },
+   {
+    "quote": "設立後間もないまだ小さな現地法人ながら、250人程従業員がいました",
+    "url": "https://ny-benricho.com/business/interview/interview-misumi/",
+    "pass": 3
+   },
+   {
+    "quote": "社会貢献性の高い製作活動を行う団体、グローバル大会への参加を目指し、明確な目標に向けて高い意欲を持って活動する団体、ものづくりを通じて社会課題の解決を目指す団体、設立間もないながらも明確な意志を持ち積極的に社会貢献に取り組む団体を評価した",
+    "url": "https://news.sharelab.jp/cases/other-fields/misumi-20250117/",
+    "pass": 3
+   },
+   {
+    "quote": "1963年2月、電子機器、ベアリングの販売を目的としてミスミグループを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "会社名は、創業者の",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "2月 - 米国に現地法人・MISUMI USA, Inc.を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "台湾に現地法人MISUMI TAIWAN CORP.を設立し、台北支店の事業を継承",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "4月 - シンガポールに現地法人・MISUMI SOUTH EAST ASIA PTE. LTD.を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "8月 - 香港に現地法人・MISUMI E.A. HK LTD.を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "1月 - タイに現地法人・MISUMI (THAILAND) CO., LTD.を設立、バンコクに営業拠点を開設",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "5月 - 韓国に現地法人・MISUMI KOREA CORP.を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "4月 - ドイツに現地法人・MISUMI Europa GmbHを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "6月 - 中国上海に現地法人・SHANGHAI MISUMI PRECISION MACHINERY CO., LTD.（現・MISUMI (CHINA) PRECISION MACHINERY TRADING CO., LTD.）を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "2月 - タイに現地法人・SURUGA (THAILAND) CO., LTD.を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "9月 - 韓国に現地法人・SURUGA KOREA CO., LTDを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "物流拠点として関西プラント(現西日本流通センター)を開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "上海に物流拠点としてQCT配送センターを開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "北米に物流拠点としてQCT配送センターを開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "広州に物流拠点としてQCT配送センターを開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムに生産拠点として駿河ベトナム第2工場を開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タイに物流・生産拠点としてQCT配送センターと駿河タイ工場を開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "フランクフルトに物流拠点としてQCT配送センターを開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "韓国に物流拠点としてQCT配送センターを開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "国内の受注センターを東京・熊本QCTセンター(2カ所)に集約",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポールに物流拠点として在庫センターを開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "武漢(中国)、バンガロール(インド)、新竹(台湾)に営業拠点を開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "蘇州、東莞(中国)に営業拠点を開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムに生産拠点として駿河ベトナム第3工場を開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "インドに生産拠点として駿河インド工場を開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ロサンゼルス(北米)に物流拠点として在庫センターを増設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "チカラン(インドネシア)に営業拠点・配送センターを開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "南通(中国)に生産拠点として南通工場を開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムに生産拠点として駿河ベトナム第4工場を開設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムに物流拠点として在庫センターを増設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "オハイオ(北米)に物流拠点として在庫センターを増設",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "営業拠点、配送センター、生産拠点の3点セットでグローバル事業を展開",
+    "url": "https://www.misumi.co.jp/about/company/global",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、グローバル全拠点への導入が完了したことで、世界中で同様のサービスを提供できる環境が整いました",
+    "url": "https://www.misumi.co.jp/news/press_261104",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループとして初の基金設立であり、200万米ドル（1米ドル158.46円換算で約3億円）のシード投資で発足します",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミとパンチ工業、物流拠点統合の効果を実証",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "これまで当社が築いてきたIT、生産、物流の強固な事業基盤やグローバル拠点網を活用しながら、新商品・新サービスを含む新事業開発を継続し、顧客の需要を的確に捉えることに努めましたが、一部地域においてはアメリカの関税政策による需要低迷の影響を受けました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "この結果、2025年度の連結売上高は4,413億8千3百万円（前年同期比9.8％増）となり、過去最高を更新しました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別に見ると、FA事業は、日本の設備投資需要の低調が継続した一方、中国の通信関連需要の攻略をはじめ、meviy、エコノミーシリーズ、D-JIT等の独自施策による需要獲得により海外地域が総じて堅調に推移したことから、売上高は1,604億9千8百万円（前年同期比18.2％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品事業は、中国・アジアの堅調な成長が、需要低迷で弱含むその他地域をカバーし、売上高は883億6千8百万円（前年同期比2.2％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "VONA事業は、全地域で総じて堅調に推移し、売上高は1,925億1千6百万円（前年同期比7.1％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度の連結業績については、地政学リスクをはじめとした不透明な状況が続く一方、データセンターや半導体等の成長産業における自動化需要はグローバルで持続的に高まっていくものと想定し、売上高は4,915億円、営業利益は550億円、親会社株主に帰属する当期純利益は374億円と予想しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "アメリカでは、MISUMI USAとFictivのシナジー創出により、市場浸透を加速し、アジアでは、今後2年間でインド・ベトナムを韓国およびタイに続く売上100億円超の現地法人に育ててまいります",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "データセンター市場向け製造装置で求められる自動ステージの増産のための設備投資として2026年度に20億円の投資を予定しているほか、アグリテック分野ではOishiiFarm社との業務資本提携を通じた共同研究に取り組みます",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル展開、デジタルモデルシフト、成長産業への参入、AIを中心とした既存事業基盤の強化等、今後3年を目途に最大1,500億円の投資を計画しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "なお、2026年度は自己株式300億円の取得を予定しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "また当社は、全て寸法が異なる受注製作品であっても最小1個から製造し、強固なロジスティクスによって納期遵守率99.7％以上の確実短納期をグローバルで実現しています",
+    "url": "https://www.misumi.co.jp/business-overview",
+    "pass": 1
+   },
+   {
+    "quote": "本来は部品ごとに受注生産となる部品を独自の方法で”標準化”しMISUMI ECサイトに掲載",
+    "url": "https://www.misumi.co.jp/business-overview",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミは受注製作部品を”標準化”し、MISUMI ECサイトに掲載",
+    "url": "https://www.misumi.co.jp/business-overview",
+    "pass": 1
+   },
+   {
+    "quote": "今後も物流拠点の新たなモデルを世界展開してまいります",
+    "url": "https://www.misumi.co.jp/business-foundation",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミとパンチ工業、物流拠点統合の効果を実証",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "(３) 株式の取得価額の総額 300 億円（上限）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-11/irnews_261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（億円） FY25上期実績※1 FY26上期見通し（7/31公表） FY26上期実績 前年比（現地通貨ベース） 7/31公表比（現地通貨ベース）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 2,058 2,660 2,736 +32.9％（＋24.4％） +2.9％（＋1.9％）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高・営業利益は、四半期・半期ともに過去最高を更新",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（億円） FY25実績 FY26見通し（7/31公表） FY26見通し（10/30公表） 前年比（現地通貨ベース） 7/31公表比（現地通貨ベース）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 4,413 5,320 5,650 +28.0％（＋24.0％） +6.2％（＋5.8％）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7/31公表比売上高＋330億円、営業利益+110億円の上方修正",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（約78億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（約3億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（約62億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動ステージ増産投資と併せ約189億円の成長投資を決定",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上期ハイライト＿基幹システム「NEWTON」 ミスミ全拠点への導入完了",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導入地域は売上2桁成長※",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ FY25通期＝米州・中国・アジアの3地域の売上前年比の単純平均（円ベース）、FY26上期＝アジアの売上前年比（円ベース）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 2,010 2,616 +30.1%(+21.8%)",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※2：内訳（FY25 上期：M＆A仲介費用▲11億円・Fictiv単体業績▲3億円、FY26 上期：Fictiv単体業績▲3億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※3：内のれん等償却(FY25 上期：▲9億円、FY26 上期：▲19億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高2,736億円（前年比＋32.9%）、営業利益371億円（前年比＋89.8%）、四半期・半期ともに過去最高を更新",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FA事業・VONA事業は売上高・営業利益ともに大きく成長",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高、売上高ともに前年比・前四半期比で伸長、収益改善は計画通り進捗し、２Qは黒字で着地",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高 24 36 31 2535 40 - -",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   }
+  ],
+  "売上": [
+   {
+    "quote": "上海に現地法人「SURUGA SEIKI SALES & TRADING (SHANGHAI) CO., Ltd.」を設立",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "441,383百万円（2026年3月期）",
+    "url": "https://www.misumi.co.jp/about/company/summary",
+    "pass": 1
+   },
+   {
+    "quote": "14,727百万円(2026年3月31日時点)",
+    "url": "https://www.misumi.co.jp/about/company/summary",
+    "pass": 1
+   },
+   {
+    "quote": "West Sales Office【カリフォルニア】",
+    "url": "https://www.misumi.co.jp/about/company/global",
+    "pass": 1
+   },
+   {
+    "quote": "San Jose Sales Office【カリフォルニア】",
+    "url": "https://www.misumi.co.jp/about/company/global",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループとして初の基金設立であり、200万米ドル（1米ドル158.46円換算で約3億円）のシード投資で発足します",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "この結果、2025年度の連結売上高は4,413億8千3百万円（前年同期比9.8％増）となり、過去最高を更新しました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別に見ると、FA事業は、日本の設備投資需要の低調が継続した一方、中国の通信関連需要の攻略をはじめ、meviy、エコノミーシリーズ、D-JIT等の独自施策による需要獲得により海外地域が総じて堅調に推移したことから、売上高は1,604億9千8百万円（前年同期比18.2％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品事業は、中国・アジアの堅調な成長が、需要低迷で弱含むその他地域をカバーし、売上高は883億6千8百万円（前年同期比2.2％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "VONA事業は、全地域で総じて堅調に推移し、売上高は1,925億1千6百万円（前年同期比7.1％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "利益面につきましては、独自施策による数量増等が、持続的成長に向けた施策に関わる支出および7月からFictiv Inc.の業績を連結範囲に含めた影響を吸収し、営業利益は476億1千3百万円（ 前年同期比2.4％増）、経常利益は490億9千5百万円（前年同期比1.6％減）、親会社株主に帰属する当期純利益は米国における連結納税制度の導入に伴い、繰越欠損金に係る繰延税金資産を計上したこと等により法人税等調整額が減少したため、404億5千7百万円（前年同期比10.7％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度の連結業績については、地政学リスクをはじめとした不透明な状況が続く一方、データセンターや半導体等の成長産業における自動化需要はグローバルで持続的に高まっていくものと想定し、売上高は4,915億円、営業利益は550億円、親会社株主に帰属する当期純利益は374億円と予想しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "アメリカでは、MISUMI USAとFictivのシナジー創出により、市場浸透を加速し、アジアでは、今後2年間でインド・ベトナムを韓国およびタイに続く売上100億円超の現地法人に育ててまいります",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "データセンター市場向け製造装置で求められる自動ステージの増産のための設備投資として2026年度に20億円の投資を予定しているほか、アグリテック分野ではOishiiFarm社との業務資本提携を通じた共同研究に取り組みます",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル展開、デジタルモデルシフト、成長産業への参入、AIを中心とした既存事業基盤の強化等、今後3年を目途に最大1,500億円の投資を計画しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "なお、2026年度は自己株式300億円の取得を予定しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "(３) 株式の取得価額の総額 300 億円（上限）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-11/irnews_261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（億円） FY25上期実績※1 FY26上期見通し（7/31公表） FY26上期実績 前年比（現地通貨ベース） 7/31公表比（現地通貨ベース）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 2,058 2,660 2,736 +32.9％（＋24.4％） +2.9％（＋1.9％）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高・営業利益は、四半期・半期ともに過去最高を更新",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（億円） FY25実績 FY26見通し（7/31公表） FY26見通し（10/30公表） 前年比（現地通貨ベース） 7/31公表比（現地通貨ベース）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 4,413 5,320 5,650 +28.0％（＋24.0％） +6.2％（＋5.8％）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7/31公表比売上高＋330億円、営業利益+110億円の上方修正",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（約78億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（約3億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（約62億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動ステージ増産投資と併せ約189億円の成長投資を決定",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導入地域は売上2桁成長※",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ FY25通期＝米州・中国・アジアの3地域の売上前年比の単純平均（円ベース）、FY26上期＝アジアの売上前年比（円ベース）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 2,010 2,616 +30.1%(+21.8%)",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※2：内訳（FY25 上期：M＆A仲介費用▲11億円・Fictiv単体業績▲3億円、FY26 上期：Fictiv単体業績▲3億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※3：内のれん等償却(FY25 上期：▲9億円、FY26 上期：▲19億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高2,736億円（前年比＋32.9%）、営業利益371億円（前年比＋89.8%）、四半期・半期ともに過去最高を更新",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FA事業・VONA事業は売上高・営業利益ともに大きく成長",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高、売上高ともに前年比・前四半期比で伸長、収益改善は計画通り進捗し、２Qは黒字で着地",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+176億円（+89.8%）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上数量増、商品MIX等が先行支出を吸収し、前年比＋176億円（＋89.8％）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※2: Fictiv関連の増減は±0億円（のれん等償却 ▲11億円、M&Aコスト +11億円）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 4,413 5,320 5,650 +28.0%(+24.0%) +6.2%(+5.8%)",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高_前回：22９億円⇒今回：230億円",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のれん等償却前営業利益__前回：▲8億円⇒今回：▲8億円",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益_前回：▲47億円⇒今回：▲47億円",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する中間純利益",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注１) 包括利益 2027年3月期中間期 23,691百万円( 32.1％) 2026年3月期中間期 17,929百万円( 79.5％)",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(参考) 自己資本 2027年3月期中間期 378,850百万円 2026年3月期 379,832百万円",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する当期純利益 1株当たり当期純利益",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 円 銭",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、連結売上高は273,606百万円（前年同期比32.9％増）となりました",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益は37,132百万円（前年同期比89.8％増）、経常利益は37,058百万円（前年同期比82.2％増）、親会社株主に帰属",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する中間純利益は25,037百万円（前年同期比78.9％増）となりました",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "え、Fictiv、エコノミーシリーズ、D-JIT、meviy等のデジタルモデル施策が業績を牽引したことにより、売上高は",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "109,246百万円（前年同期比50.2％増）、営業利益は19,014百万円（前年同期比135.5％増）となりました",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上高は48,497百万円（前年同期比13.9％増）、営業利益においては5,609百万円（前年同期比34.3％増）となりま",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とにより、売上高は115,861百万円（前年同期比28.0％増）、営業利益は12,508百万円（前年同期比71.2％増）と",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間末の総資産は、前連結会計年度末と比べ13,117百万円（＋2.8％）増加し、478,086百万円と",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が19,074百万円（＋6.5％）増加した一方で、有形固定資産が1,540百万円（△2.7％）減少したこと、無形固定資",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産が3,625百万円（△4.0％）減少したことによるものです",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "総負債は、前連結会計年度末と比べ14,323百万円（＋17.4％）増加し、96,783百万円となりました",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "純資産は、前連結会計年度末と比べ1,206百万円（△0.3％）減少し、381,303百万円となりました",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   }
+  ],
+  "存続": [
+   {
+    "quote": "米国金型部品メーカーの「Dayton Progress Corporation」およびThe Anchor Danly CompanyのComponents事業会社である「Anchor Lamina America, Inc.」を買収",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "カスタム機械部品のオンライン調達サービスを展開する「Fictiv Inc.」（米国）を買収",
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "※1：営業利益にFictiv Inc買収に係るのれん償却費および無形資産の償却費を加算した利益",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関係会社清算益 － 461",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関係会社清算損益（△は益） － △461",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※２ セグメント利益にFictiv Inc.買収にかかるのれんの償却額および技術関連資産の償却費を加算した利益",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前中間連結会計期間において、Fictiv Inc.およびその子会社７社を買収いたしました",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．買収への対応方針の導入の有無",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．買収への対応方針の導入の有無",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．買収への対応方針の導入の有無",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．買収への対応方針の導入の有無",
+    "url": "https://www.misumi.co.jp/sites/default/files/2025-11/esgnews_251114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Nano Dimension、Markforgedの買収を完了！金属・複合材料製造分野での地位を強化",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ、米Fictiv社を約501億円で買収 デジタル調達領域を強化へ",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "Nano DimensionがDesktop Metalの買収を完了",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の技術投資会社Anzu社がvoxeljet AG社を買収する契約を締結",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "Nano Dimension社がDesktop Metal社を買収",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "Nano Dimension社は、Desktop Metal社を買収することで合意した",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "ADDiTECがElem Additive Solutions買収！",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "Nano Dimension社がAdditive Flow社の買収を発表",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "XYZプリンティングが3Dプリント事業から撤退",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "台湾に本社を構える3DプリンターメーカーのXYZプリンティング社が、3Dプリンター事業から撤退することが2023年7月1日付で同社のホームページで発表された",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysがドイツの樹脂材料メーカー・CovestroのAM材料事業を買収",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMakerがMakerBot買収後の新しいブランド方針を発表",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "Nano Dimensionからの買収交渉も話題になったStratasys（ストラタシス）が、Desktop Metal（デスクトップメタル）と約18億USドル…",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "3D SystemsがTitan Additive LLCを買収しペレット式3Dプリント技術を獲得",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループがFictivを3億5000万ドルで買収 ｜ 世界の3Dプリンターニュース「セカプリ」",
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループがFictivを3億5000万ドルで買収",
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "pass": 3
+   },
+   {
+    "quote": "東証一部上場の株式会社ミスミグループが、アメリカのカスタム機械部品サービスビューローのFictivを3億5000万ドル（約507億円）で買収する",
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictivの買収により競争力強化と商品の安定供給、更なる成長の加速に繋げたいとしている",
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアライズがRSPrintを820万ユーロで買収",
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップメタルがエンビジョンテックを3億ドルで買収",
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシスがオリジンを1億ドルで買収",
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "pass": 3
+   },
+   {
+    "quote": "イーライリリーがオーガノボの知的財産を1000万ドルで買収",
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ、米国製造業大手Fictivを買収 | 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vIu9NFByPuRFMOE0sK-0jkH9Ok5-BqjcOCKuz5HrkjkmvikeVCJ",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ、米国製造業大手Fictivを買収",
+    "url": "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vIu9NFByPuRFMOE0sK-0jkH9Ok5-BqjcOCKuz5HrkjkmvikeVCJ",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ、米国の3Dプリント・オンライン調達企業Fictivを買収",
+    "url": "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vIu9NFByPuRFMOE0sK-0jkH9Ok5-BqjcOCKuz5HrkjkmvikeVCJ",
+    "pass": 3
+   },
+   {
+    "quote": "（以下 Fictiv）を約3.5億米ドル（約501億円）で買収すると発表した",
+    "url": "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vIu9NFByPuRFMOE0sK-0jkH9Ok5-BqjcOCKuz5HrkjkmvikeVCJ",
+    "pass": 3
+   },
+   {
+    "quote": "Fictivが展開するオンライン調達事業は、ミスミが提供する「meviy（メビー）」事業と高い親和性を有しており、同社の技術力と顧客サービス体制、強固な顧客基盤が買収の決め手となった",
+    "url": "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vIu9NFByPuRFMOE0sK-0jkH9Ok5-BqjcOCKuz5HrkjkmvikeVCJ",
+    "pass": 3
+   },
+   {
+    "quote": "今回のFictiv買収の狙いは、meviyを中心としたデジタルサービスのさらなる強化と顧客領域の拡大である",
+    "url": "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vIu9NFByPuRFMOE0sK-0jkH9Ok5-BqjcOCKuz5HrkjkmvikeVCJ",
+    "pass": 3
+   },
+   {
+    "quote": "買収したフィクティブの連結効果も寄与したが、既存事業単独でも高い成長を持続した",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "買収したフィクティブ（FICTIVE）を連結に取り込んだ効果も大きいが、フィクティブ連結前の既存事業だけで見ても売上高は1,264億円（前年比27.3%増）、営業利益は195億円（同82.4%増）と高い成長を維持した",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "11月 - 米国金型メーカーのDayton Progress Corporation、及びThe AnchorDanly CompanyのComponents事業会社であるAnchor Lamina America Inc.を買収",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "6月 - カスタム機械部品のオンライン調達サービスを展開するFictiv Inc.（米国）を買収",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "米国で508億円の買収をした",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "買収の歴史をたどると、駿河精機（2005年）、米国の金型部品メーカー2社（2012年）、ダイセキ（2015年）と続く",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社の構造的課題と追い風は、4つに分けて第3章で扱う（設備投資の波に利益が振れる／Fictivの買収とのれん440億円／海外6割と関税・地政学／デジタルの差を保つ人材とAI）",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "売上高4,414億円（+9.8%）、VONA事業の営業利益186億円（+28.8%）、Fictiv買収508億円、海外で働く人が7割強、第1四半期の営業利益+85.3%——ミスミの構造を数字で確認しました",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "「Fictivの買収で、FA事業の営業利益は9.9%減りましたが、のれん等の償却前では2.8%増えています",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "——設備投資の波に利益が振れる／Fictivの買収とのれん440億円／海外6割と関税・地政学／デジタルの差を保つ人材とAI",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   }
+  ],
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "兼 人材・法務プラットフォーム・ハブ代表役員",
+    "url": "https://www.misumi.co.jp/about/company/management",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミは、今後のさらなる事業拡大に向けた開発スピードの加速と顧客体験の向上を経営課題と位置付け、2020年より開発を開始し、約6年をかけて基幹システムの全面刷新を行いました",
+    "url": "https://www.misumi.co.jp/news/press_261104",
+    "pass": 1
+   },
+   {
+    "quote": "2. 開発の効率化 -開発スピード3倍・コストは1/3に-",
+    "url": "https://www.misumi.co.jp/news/press_261104",
+    "pass": 1
+   },
+   {
+    "quote": "開発スピードは3倍、開発コストは3分の1となり、今後の事業拡大や地域への個別対応へも柔軟かつスピーディーに対応できるようになりました",
+    "url": "https://www.misumi.co.jp/news/press_261104",
+    "pass": 1
+   },
+   {
+    "quote": "本基金は、ミスミのお客さまや製造パートナーネットワーク、そして業界全体が直面している人材課題に取り組むものです",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "人工知能（AI）がソフトウェアの領域からロボティクス・自動化生産・医療機器・防衛・航空宇宙といった物理的なシステムへと広がるなか、設計図面を製品へと形にするあらゆる職種で需要が高まっています",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "これらの職種の人材不足に対応するため、ミスミ・アメリカスは本基金を設立し、次世代のものづくりの担い手の育成を支援してまいります",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "製造現場の課題に基づくカリキュラム、インターンシップ・見習い制度（アプレンティスシップ）を通じたキャリアパス、メンタリング・キャリア支援",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "これは、人材不足が個社の問題ではなく業界全体の課題であるという考えに基づき、ミスミのグローバルなサプライヤーネットワークに対し、基金への共同出資を呼びかけるものです",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "同時に、今の時代に必要な人材の供給パイプラインがあまりにも細いことも認識しています",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "本基金は、この人材パイプラインへの投資です",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループは、「デジタルモデルシフト」を成長戦略の核に据え、設計・調達プロセスのDX化によって、設計・生産現場の生産性を飛躍的に向上させるとともに、最適な調達サービスを通じたコスト削減も実現します",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "間接材トータルコストダウンサービス「MISUMI floow」",
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミスミグループ本社（本社：東京都千代田区、代表取締役社長：清水新）は、間接材トータルコストダウンサービス「MISUMI floow（フロー）」が江崎工業株式会社（本社：東京都大田区、代表取締役社長：江﨑史敏、以下、江崎工業）の栃木工場（栃木県栃木市）に導入されたことをお知らせします",
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "pass": 1
+   },
+   {
+    "quote": "導入後、ミスミが江崎工業の間接材在庫を管理し、在庫切れや過剰在庫のリスク低減を支援することで、人件費まで含めたトータルコストダウンを実現しています",
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、ホームセンターやネット通販でも品薄となるほど需給が逼迫したパーツクリーナーについても、専任担当者が需要動向を確認しながら調達に伴走し、工場の安定稼働を支援しました",
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "pass": 1
+   },
+   {
+    "quote": "間接材トータルコストダウンサービス「MISUMI floow（フロー）」",
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」はデジタル革新により、顧客の需要データに基づいた最適なチャネルでの商品提供を可能とし、工場における間接材調達の整流化を実現するトータルコストダウンサービスです",
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、自販機から取り出す際は顔認証やIDパスが必要になるため、使い過ぎを防ぎ、社員のコストに対する意識改革にもつながります",
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "pass": 1
+   },
+   {
+    "quote": "同社が新規事業として開発を進める高所作業ロボット「ZIZAI」において、図面完成後も、見積もり回答までに約2週間、加工着手までに約1カ月を要していた部品調達プロセスの課題を解決する手段として活用されました",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "こうした課題を受け鉄道業界では、高所作業を代替するロボット開発への注目が高まっています",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "同社のR&S技術部は、人手不足という社会課題の解決に向けて、高所作業を代替するロボット「ZIZAI」を開発する約20名で構成される社内プロジェクトチームです",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、図面が完成しても、部品調達に時間がかかり、すぐに製作へ着手できないことが「ZIZAI」開発の課題となっていました",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "また、開発の途中では、機能や仕様の見直し、それに伴う設計のやり直しが発生しやすく、当初予定した納期を守ることが難しいという課題もありました",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "こうした課題を解決するため、短納期かつ見積もり回答が早い「meviyマーケットプレイス」を導入しました",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "3. 加工会社との直接対話により、コスト・納期の改善提案も",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "加工会社とチャットで直接やり取りでき、加工が難しい箇所への対応に加えて、コストを抑える方法や納期を早めるための提案も受けられるようになりました",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "加工会社とチャットで直接やり取りができるので、加工しにくい箇所についても教えていただき、コストを抑える工夫や納期を早める工夫も提案していただけるのがありがたいです",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループは、「デジタルモデルシフト」を成長戦略の核に据え、設計・調達プロセスのDX化によって、設計・生産現場の生産性を飛躍的に向上させるとともに、最適な調達サービスを通じたコスト削減も実現します",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」 自動車用ランプなどを手がけるスタンレー電気 浜松工場、 間接材をJITの視点で管理、手袋のコストを約20％低減",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "若手ポテンシャル人材の採用を通年採用・一本化へ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」宇宙産業の開発スピード向上へ、meviyが調達課題解決を支援",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループのシステム開発会社DTダイナミクスにて 情報セキュリティ国際規格「ISO27001」認証を取得",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "現場の生産性を飛躍的に高めるだけでなく、最適な調達サービスを通じてコスト削減も同時に実現します",
+    "url": "https://www.misumi.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度における世界経済は、アメリカの関税政策やそれに伴う各国への影響、地政学リスクの高まりなど先行き不透明な状況が継続しました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "一方、中国・アジアを中心に、通信関連や半導体関連向けの需要は堅調に推移しました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "これまで当社が築いてきたIT、生産、物流の強固な事業基盤やグローバル拠点網を活用しながら、新商品・新サービスを含む新事業開発を継続し、顧客の需要を的確に捉えることに努めましたが、一部地域においてはアメリカの関税政策による需要低迷の影響を受けました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別に見ると、FA事業は、日本の設備投資需要の低調が継続した一方、中国の通信関連需要の攻略をはじめ、meviy、エコノミーシリーズ、D-JIT等の独自施策による需要獲得により海外地域が総じて堅調に推移したことから、売上高は1,604億9千8百万円（前年同期比18.2％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品事業は、中国・アジアの堅調な成長が、需要低迷で弱含むその他地域をカバーし、売上高は883億6千8百万円（前年同期比2.2％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度の連結業績については、地政学リスクをはじめとした不透明な状況が続く一方、データセンターや半導体等の成長産業における自動化需要はグローバルで持続的に高まっていくものと想定し、売上高は4,915億円、営業利益は550億円、親会社株主に帰属する当期純利益は374億円と予想しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関するご判断は、利用者ご自身の責任において行われますようお願い致します",
+    "url": "https://www.misumi.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "また、掲載内容に誤りがあった場合や、データダウンロード等によって生じた損害等に関し、当社は一切責任を負うものではありませんのでご了承下さい",
+    "url": "https://www.misumi.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "当社ウェブサイトの掲載内容のうち、過去または現在の事実に関するもの以外は、現在入手可能な情報から得られた計画・将来の見通し・戦略などであり、経済情勢、市場動向、税制や諸制度の変更等に係るリスクや不確実な要素を含んでいます",
+    "url": "https://www.misumi.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "したがって、実際の業績は、様々なリスクや不確定要素の変動および経済情勢などによってこれらと異なる結果になる場合があります",
+    "url": "https://www.misumi.co.jp/ir/disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、ECサイトへの掲載が難しい複雑な部品でも人手を介さずデータのみで簡単に調達することが可能となりました",
+    "url": "https://www.misumi.co.jp/business-overview",
+    "pass": 1
+   },
+   {
+    "quote": "設計時間と調達コストを削減、3DｰCADデータライブラリー「Rapid Design」",
+    "url": "https://www.misumi.co.jp/business-overview",
+    "pass": 1
+   },
+   {
+    "quote": "新たなサービス等のシステム開発リードタイムと開発コストは従来比約1/3に圧縮され、事業の早回しを支え変化対応力も向上",
+    "url": "https://www.misumi.co.jp/business-foundation",
+    "pass": 1
+   },
+   {
+    "quote": "当社ブースでは、量産工場のお客さま向けに、間接材調達業務にかかる工数を約70％削減する、間接材トータルコストダウンサービス「MISUMI floow」を展示します",
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "pass": 1
+   },
+   {
+    "quote": "MISUMI floowが現場にもたらしたトータルコストダウンの実態」をテーマにワークショップを開催します",
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "pass": 1
+   },
+   {
+    "quote": "不等リード・不等分割エンドミル：高いコストパフォーマンスと安定した加工を両立したXALシリーズや、ステンレス加工まで幅広く対応可能なVACシリーズ",
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "pass": 1
+   },
+   {
+    "quote": "MISUMI floowが現場にもたらしたトータルコストダウンの実態",
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "pass": 1
+   },
+   {
+    "quote": "間接材トータルコストダウンサービス「MISUMI floow（フロー）」",
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」はデジタル革新により、顧客の需要データに基づいた最適なチャネルでの商品提供を可能とし、工場における間接材調達の整流化を実現するトータルコストダウンサービスです",
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、自販機から取り出す際は顔認証やIDパスが必要になるため、使い過ぎを防ぎ、社員のコストに対する意識改革にもつながります",
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "pass": 1
+   },
+   {
+    "quote": "国内・海外の教育機関とも連携し、グローバルに人材育成へ取り組んでいます",
+    "url": "https://www.misumi.co.jp/news/news_261007",
+    "pass": 1
+   },
+   {
+    "quote": "「MISUMI floow」 自動車用ランプなどを手がけるスタンレー電気 浜松工場、 間接材をJITの視点で管理、手袋のコストを約20％低減",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "若手ポテンシャル人材の採用を通年採用・一本化へ",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」宇宙産業の開発スピード向上へ、meviyが調達課題解決を支援",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "本開発キットは、導入までに平均1年半を要するAMRの開発期間を、最短半年へと劇的な短縮を実現しており、その中で課題であった車体モデルの設計を「MISUMI FRAMES」で標準化し、お客さまへ提供することで、高度な専門知識不要で迅速かつ柔軟な車体設計を実現しました",
+    "url": "https://www.misumi.co.jp/news/press_260318",
+    "pass": 1
+   },
+   {
+    "quote": "導入背景と課題： 専門知識と長い開発期間がAMR導入の障壁に",
+    "url": "https://www.misumi.co.jp/news/press_260318",
+    "pass": 1
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "人工知能（AI）がソフトウェアの領域からロボティクス・自動化生産・医療機器・防衛・航空宇宙といった物理的なシステムへと広がるなか、設計図面を製品へと形にするあらゆる職種で需要が高まっています",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "また、開発の途中では、機能や仕様の見直し、それに伴う設計のやり直しが発生しやすく、当初予定した納期を守ることが難しいという課題もありました",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "取締役に対する譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "自己株式の取得状況および取得終了に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループ幹部社員に対する譲渡制限付株式報酬としての 自己株式の処分の払込完了に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループ幹部社員に対する譲渡制限付株式報酬としての 自己株式の処分に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "取締役に対する譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news?category=ir",
+    "pass": 1
+   },
+   {
+    "quote": "自己株式の取得状況および取得終了に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news?category=ir",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループ幹部社員に対する譲渡制限付株式報酬としての 自己株式の処分の払込完了に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news?category=ir",
+    "pass": 1
+   },
+   {
+    "quote": "ミスミグループ幹部社員に対する譲渡制限付株式報酬としての 自己株式の処分に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news?category=ir",
+    "pass": 1
+   },
+   {
+    "quote": "減損損失 504 155",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、2026年６月25日の取締役会決議に基づき、取締役に対する譲渡制限付株式報酬として自己",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原価の当初配分額の重要な見直しが反映されております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③中長期的な業績拡大による企業価値向上へのインセンティブとなる譲渡制限付株式",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・各年度において支払った取締役の報酬総額のうち、固定報酬、業績連動賞与および譲渡制限付株式のそれぞれの総額を、毎年開示する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の決算説明会資料等において、事業ポートフォリオの見直し等に関する開示を行っております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "的として、業績連動型報酬および譲渡制限付株式を付与しております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当該報酬とは別枠で支給される、社外取締役を除く取締役に対しての譲渡制限付株式の額は年額8億5千万",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、取締役の報酬は、定額の「基本報酬」と、会社業績等によって支給額が変動する「業績連動報酬」、長期インセンティブ報酬としての「譲渡制限",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3) 長期インセンティブ報酬（譲渡制限付株式）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長期インセンティブ報酬は、中長期的な業績および企業価値向上への貢献意欲を高める目的で譲渡制限付株式とします",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "譲渡制限付株式は、各",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の個人評価に基づき付与数を決定した上で、毎年一定の時期に付与するものとし、その譲渡制限は、取締役が、当社、当社子会社または",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ただし、譲渡制限付株式の付与に制約がある場合は、譲渡制限付株式の付与に代えて、金銭を支給することとします",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "酬（譲渡制限付株式）の付与数は、業績および個人評価に応じて変動し、年度によっては全く支給しないこともあり得ます",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、長期インセンティブ報酬（譲渡",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ついて定期的に評価および必要な見直しを行っています",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③中長期的な業績拡大による企業価値向上へのインセンティブとなる譲渡制限付株式",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・各年度において支払った取締役の報酬総額のうち、固定報酬、業績連動賞与および譲渡制限付株式のそれぞれの総額を、毎年開示する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の決算説明会資料等において、事業ポートフォリオの見直し等に関する開示を行っております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "的として、業績連動型報酬および譲渡制限付株式を付与しております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当該報酬とは別枠で支給される、社外取締役を除く取締役に対しての譲渡制限付株式の額は年額8億5千万",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、取締役の報酬は、定額の「基本報酬」と、会社業績等によって支給額が変動する「業績連動報酬」、長期インセンティブ報酬としての「譲渡制限",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3)長期インセンティブ報酬（譲渡制限付株式）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長期インセンティブ報酬は、中長期的な業績および企業価値向上への貢献意欲を高める目的で譲渡制限付株式とします",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "譲渡制限付株式は、各",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の個人評価に基づき付与数を決定した上で、毎年一定の時期に付与するものとし、その譲渡制限は、取締役が、当社、当社子会社または",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ただし、譲渡制限付株式の付与に制約がある場合は、譲渡制限付株式の付与に代えて、金銭を支給することとします",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "酬（譲渡制限付株式）の付与数は、業績および個人評価に応じて変動し、年度によっては全く支給しないこともあり得ます",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、長期インセンティブ報酬（譲渡",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ついて定期的に評価および必要な見直しを行っています",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③中長期的な業績拡大による企業価値向上へのインセンティブとなる譲渡制限付株式",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・各年度において支払った取締役の報酬総額のうち、固定報酬、業績連動賞与および譲渡制限付株式のそれぞれの総額を、毎年開示する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の決算説明会資料等において、事業ポートフォリオの見直し等に関する開示を行っております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "的として、業績連動型報酬および譲渡制限付株式を付与しております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当該報酬とは別枠で支給される、社外取締役を除く取締役に対しての譲渡制限付株式の額は年額8億5千万",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、取締役の報酬は、定額の「基本報酬」と、会社業績等によって支給額が変動する「業績連動報酬」、長期インセンティブ報酬としての「譲渡制限",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3)長期インセンティブ報酬（譲渡制限付株式）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長期インセンティブ報酬は、中長期的な業績および企業価値向上への貢献意欲を高める目的で譲渡制限付株式とします",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "譲渡制限付株式は、各",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の個人評価に基づき付与数を決定した上で、毎年一定の時期に付与するものとし、その譲渡制限は、取締役が、当社、当社子会社または",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ただし、譲渡制限付株式の付与に制約がある場合は、譲渡制限付株式の付与に代えて、金銭を支給することとします",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "酬（譲渡制限付株式）の付与数は、業績および個人評価に応じて変動し、年度によっては全く支給しないこともあり得ます",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、長期インセンティブ報酬（譲渡制限付",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ついて定期的に評価および必要な見直しを行っています",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③中長期的な業績拡大による企業価値向上へのインセンティブとなる譲渡制限付株式",
+    "url": "https://www.misumi.co.jp/sites/default/files/2025-11/esgnews_251114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・各年度において支払った取締役の報酬総額のうち、固定報酬、業績連動賞与および譲渡制限付株式のそれぞれの総額を、毎年開示する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2025-11/esgnews_251114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の決算説明会資料等において、事業ポートフォリオの見直し等に関する開示を行っております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2025-11/esgnews_251114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "的として、業績連動型報酬および譲渡制限付株式を付与しております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2025-11/esgnews_251114.pdf",
+    "pass": 2
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "サプライヤーネットワークに共同出資を呼びかけ",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "これは、人材不足が個社の問題ではなく業界全体の課題であるという考えに基づき、ミスミのグローバルなサプライヤーネットワークに対し、基金への共同出資を呼びかけるものです",
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "pass": 1
+   },
+   {
+    "quote": "第64回定時株主総会の招集ご通知",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "第64回定時株主総会その他の電子提供措置事項 (交付書面省略事項)",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家情報 | 株式会社ミスミグループ本社",
+    "url": "https://www.misumi.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり力・IT力・AIを掛け合わせ、プラットフォームとサプライチェーンを進化させることで、持続的成長と株主価値の向上に取り組んでまいります",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "株主の皆さまにおかれましては、今後とも変わらぬご支援とご鞭撻を賜りますよう心よりお願い申し上げます",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "利益面につきましては、独自施策による数量増等が、持続的成長に向けた施策に関わる支出および7月からFictiv Inc.の業績を連結範囲に含めた影響を吸収し、営業利益は476億1千3百万円（ 前年同期比2.4％増）、経常利益は490億9千5百万円（前年同期比1.6％減）、親会社株主に帰属する当期純利益は米国における連結納税制度の導入に伴い、繰越欠損金に係る繰延税金資産を計上したこと等により法人税等調整額が減少したため、404億5千7百万円（前年同期比10.7％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度の連結業績については、地政学リスクをはじめとした不透明な状況が続く一方、データセンターや半導体等の成長産業における自動化需要はグローバルで持続的に高まっていくものと想定し、売上高は4,915億円、営業利益は550億円、親会社株主に帰属する当期純利益は374億円と予想しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "データセンター市場向け製造装置で求められる自動ステージの増産のための設備投資として2026年度に20億円の投資を予定しているほか、アグリテック分野ではOishiiFarm社との業務資本提携を通じた共同研究に取り組みます",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "また、ロボティクス・ヒューマノイド分野では、関連企業との提携や業務資本提携を検討・推進してまいります",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "また、地域・事業・新商品・新サービス開発等への積極的な成長投資と株主還元のバランスを重視し、資本効率の向上によるエクイティスプレッドの拡大に注力してまいりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元につきましては、さらなる充実を図るため、2026年度より配当性向35%を目安とした累進配当を導入することを決定いたしました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、成長投資を優先しつつも、株主の皆さまに対して、より安定的な還元を実施してまいります",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミスミグループ本社(以下、「当社」といいます)は、株主、投資家の皆様に対し、透明性、公平性、継続性を基本に迅速な情報提供に努めます",
+    "url": "https://www.misumi.co.jp/ir/disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "第64回定時株主総会の招集ご通知",
+    "url": "https://www.misumi.co.jp/news?category=ir",
+    "pass": 1
+   },
+   {
+    "quote": "第64回定時株主総会その他の電子提供措置事項 (交付書面省略事項)",
+    "url": "https://www.misumi.co.jp/news?category=ir",
+    "pass": 1
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する中間純利益",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する当期純利益 1株当たり当期純利益",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（株主資本の金額に著しい変動があった場合の注記） ……………………………………………………９",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益は37,132百万円（前年同期比89.8％増）、経常利益は37,058百万円（前年同期比82.2％増）、親会社株主に帰属",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "因は、自己株式の取得等により自己株式が増加（純資産は減少）した一方で利益剰余金が増加したことにより株主",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主資本合計 309,738 310,200",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主持分 1,383 1,440",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主に帰属する中間純利益 77 79",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社株主に帰属する中間純利益 13,997 25,037",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社株主に係る中間包括利益 17,849 23,589",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主に係る中間包括利益 79 101",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（株主資本の金額に著しい変動があった場合の注記）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ガイドライン2. 「株主の皆様との関係」の（3）において、「株主総会の招集通知の発送に先立ち、その内容を日本語および英語にて当社ウェブサ",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、議決権電子行使プラットフォームを利用するなど、株主の皆様の議決権行使の利便性を確保する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ガイドライン2. 「株主の皆様との関係」の（5）において、以下のように定めております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・株主の皆様への還元については、持続的な成長による配当可能利益の増加により株主還元を増大することを基本とする",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保有した場合の議決権行使については、投資先企業の中長期的な企業価値の向上や株主利益の向上につながるかどうかなどを総合的に勘案",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ガイドライン4.(1) 「取締役会の役割」において、「当社がその取締役・監査役や主要株主との取引を行う場合には、当該取引についてあらかじめ",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・取締役の任期は１年とし、経歴、重要な兼職の状況、候補者として選任した理由、社外取締役の独立性等、株主の皆様の判断に必要な情報を",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開示の上、株主総会に取締役選任議案を上程する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定時株主総会招集ご通知の参考書類をご参照ください",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「第64回定時株主総会招集ご通知」は、当社ウェブサイトに掲載しています",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ガイドライン2. 「株主の皆様との関係」の（4）に「株主の皆様に広く公平に情報を提供するため、決算説明資料や会社説明資料については、当",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "26年6月開催の株主総会以降、9名中4名が独立社外取締役で、プライム市場において求められる1/3を超",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、株主・投資家等のステークホルダーとの対話をすすめ、社内取締役・社外取締役の人数や構成、多様性および知識・経験・能力のバランス",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ガイドライン2. 「株主の皆様との関係」の（4）において以下のように定めております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社と株主の皆様との対話に関する方針は次の通りとする",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・当社は、IR活動を管掌する取締役を中心として、株主の皆様との建設的な対話を積極的に行う",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・株主の皆様に広く公平に情報を提供するため、決算説明資料や会社説明資料については、当社ウェブサイト等を通じて積極的に開示する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・株主の皆様からの意見・提言等は、必要により取締役・取締役会に報告し、その内容について議論する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営幹部が直接、株主・投資家との意見交換にあたり、2",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主・投資家との対話の実施状況については、当社ウェブサイトに掲載しておりますのでご参照ください",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1 「大株主の状況」については、2026年3月31日現在の状況を記載しております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※2 当社は自己株式20,288,824株を保有しておりますが、上記大株主からは除外しております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．支配株主との取引等を行う際における少数株主の保護の方策に関する指針",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "b 上場会社の親会社の業務執行者又は非業務執行取締役",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "g 上場会社の主要株主（当該主要株主が法人である場合には、当該法人の業務執行者）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ガイドライン2.「株主の皆様との関係」の（3）において、「株主総会の招集通知の発送に先立ち、その内容を日本語および英語にて当社ウェブサ",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、議決権電子行使プラットフォームを利用するなど、株主の皆様の議決権行使の利便性を確保する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ガイドライン2.「株主の皆様との関係」の（5）において、以下のように定めております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・株主の皆様への還元については、持続的な成長による配当可能利益の増加により株主還元を増大することを基本とする",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保有した場合の議決権行使については、投資先企業の中長期的な企業価値の向上や株主利益の向上につながるかどうかなどを総合的に勘案",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ガイドライン4.(1)「取締役会の役割」において、「当社がその取締役・監査役や主要株主との取引を行う場合には、当該取引についてあらかじめ",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   }
+  ],
+  "素材": [
+   {
+    "quote": "加えて、板金・切削・樹脂加工など、加工方法ごとに発注先が異なるため、個別のやり取りが開発現場の負担となっていました",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "「ZIZAI」に使用する板金・切削・樹脂などの加工部品を、meviyマーケットプレイス上でまとめて発注できるようになり、管理の手間が削減できました",
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」切削加工 アルミニウム材A7050・A1050の自動見積もり開始",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」「meviyマーケットプレイス」 金属加工業の谷野製作所で全面導入、2D図面作成の工程をほぼゼロに",
+    "url": "https://www.misumi.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "MISUMI FRAMESは、簡単なマウス操作で直感的にアルミフレームを用いた筐体を設計･発注できるインストール型ソフトです",
+    "url": "https://www.misumi.co.jp/business-overview",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」切削加工 アルミニウム材A7050・A1050の自動見積もり開始",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "「meviy」「meviyマーケットプレイス」 金属加工業の谷野製作所で全面導入、2D図面作成の工程をほぼゼロに",
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "pass": 1
+   },
+   {
+    "quote": "筐体設計時間を最大90％削減 アルミフレーム筐体設計ソフト「MISUMI FRAMES」",
+    "url": "https://www.misumi.co.jp/news/press_260318",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミスミグループ本社（本社：東京都千代田区、代表取締役社長：大野龍隆）が提供する、アルミフレーム筐体設計ソフト「MISUMI FRAMES（ミスミフレームズ）」が、制御機器と安全関連機器のリーディングカンパニーであるIDEC株式会社（本社：大阪府大阪市、代表取締役会長兼社長：舩木俊之、以下 IDEC）の「AMR（自律走行搬送ロボット）開発キット」に採用されたことをお知らせします",
+    "url": "https://www.misumi.co.jp/news/press_260318",
+    "pass": 1
+   },
+   {
+    "quote": "「お客さまとの対話の中で『アルミフレームの設計ならMISUMI FRAMESを使っている』という声を非常によく聞いていました",
+    "url": "https://www.misumi.co.jp/news/press_260318",
+    "pass": 1
+   },
+   {
+    "quote": "MISUMI FRAMESは、簡単なマウス操作で直感的にアルミフレームを用いた筐体を設計・発注できる無料ソフトです",
+    "url": "https://www.misumi.co.jp/news/press_260318",
+    "pass": 1
+   },
+   {
+    "quote": "2050年にカーボンゼロを実現するために、2030年度の温室効果ガス排出量（スコープ1,2）を、2020年度対比で42％削減する目標を設定し、2024年",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2050年のカーボンゼロを実現するために、2030年度の温室効果ガス排出量（スコープ1,2）を、2020年度対比で42％削減する目標を設定し、2024",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2050年のカーボンゼロを実現するために、2030年度の温室効果ガス排出量（スコープ1,2）を、2020年度対比で42％削減する目標を設定し、2024",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2050年のカーボンゼロを実現するために、2030年度の温室効果ガス排出量（スコープ1,2）を、2020年度対比で42％削減する目標を設定し、2023",
+    "url": "https://www.misumi.co.jp/sites/default/files/2025-11/esgnews_251114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "樹脂3Dプリンター（148）",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂材料（73）",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料（29）",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "金属バインダージェット製品（PX100）はNano Dimens…",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "Nano Dimension、Markforgedの買収を完了！金属・複合材料製造分野での地位を強化",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター企業のADDiTEC社が、Xerox Holdings Corporationの子会社で、積層造形部門にあたるElem Additive So…",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysがドイツの樹脂材料メーカー・CovestroのAM材料事業を買収",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター大手のStratasys（以下、ストラタシス）は、ドイツに本社を置く樹脂材料メーカーCovestro AG（以下、コベストロ）のAM材料事業の…",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aで積極拡大！炭素繊維材料で世界を席巻したマークフォージドが見据える次の市場",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "特徴としては、ナイロンベースの樹脂にカーボンファイバーの長繊維を取り入…",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "その中から樹脂3Dプリンター、金属3Dプリンター両方を扱う3D…",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える樹脂材料は？ABS樹脂やPLA樹脂など種類と特徴を解説",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂・金属以外の材料の3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント造形や2次加工にも対応しています",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミと同等強度！Onyx+カーボンファイバー",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Markforged社製の3Dプリンタで製造できる材料のOnyx＋カーボンファイバーは、「アルミニウムに匹敵する強度」を備えています",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "高強度樹脂で治工具を製造することで、",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、3Dモデルの作成、現物からのデータ作成化、軽量化設計、樹脂・金属なんでも対応",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "機器：Carbon M2 / 材料： 樹脂材料",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "液槽に紫外線硬化性樹脂を入れ、液面に向かって 上面または下面から光を照射し硬化積層する",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "紫外線 硬化樹脂のABSライク、PMMAライクなど出力可能",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "PA、PP、PPSなどの 高強度・高靭性の樹脂が出力可能",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂のフィラメントやペレットを溶融しノズルから押し出し積層する",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "紫外線硬化樹脂をノズルから選択的に吐出し積層する",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属の粉末にレーザーを照射し溶融凝固させ積層する",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "造形品の機械強度も高く、アルミ、ステンレス、インコネルなどが出力可能",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末とバインダーを混錬した材料をノズルから押し出し積層する",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "脱脂・焼結するMIM技術を応用し、純銅やステンレスが出力可能",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂3Dプリント材料の物性値一覧表は",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント材料の物性値一覧表は",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金（Ti-6Al-4V）",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx(PA12＋短繊維CFRP)",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "｜お知らせ&コラム｜カーボンファイバー/金属対応産業用3Dプリンタ Markforged",
+    "url": "https://www.datadesign.co.jp/markforged/news/2692/",
+    "pass": 3
+   },
+   {
+    "quote": "Markforged｜カーボン/金属対応3Dプリンタ",
+    "url": "https://www.datadesign.co.jp/markforged/news/2692/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボン対応 3Dプリンタ",
+    "url": "https://www.datadesign.co.jp/markforged/news/2692/",
+    "pass": 3
+   },
+   {
+    "quote": "金属対応3Dプリンタ",
+    "url": "https://www.datadesign.co.jp/markforged/news/2692/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンファイバー対応3Dプリンタ",
+    "url": "https://www.datadesign.co.jp/markforged/news/2692/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンファイバー/スーパーエンプラ対応3Dプリンタ",
+    "url": "https://www.datadesign.co.jp/markforged/news/2692/",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "利益面につきましては、独自施策による数量増等が、持続的成長に向けた施策に関わる支出および7月からFictiv Inc.の業績を連結範囲に含めた影響を吸収し、営業利益は476億1千3百万円（ 前年同期比2.4％増）、経常利益は490億9千5百万円（前年同期比1.6％減）、親会社株主に帰属する当期純利益は米国における連結納税制度の導入に伴い、繰越欠損金に係る繰延税金資産を計上したこと等により法人税等調整額が減少したため、404億5千7百万円（前年同期比10.7％増）となりました",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度の連結業績については、地政学リスクをはじめとした不透明な状況が続く一方、データセンターや半導体等の成長産業における自動化需要はグローバルで持続的に高まっていくものと想定し、売上高は4,915億円、営業利益は550億円、親会社株主に帰属する当期純利益は374億円と予想しております",
+    "url": "https://www.misumi.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益 195 350 371 +89.8％（＋59.5％） +6.1％（＋3.4％）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 9.5% 13.2％ 13.6% +4.1pt（＋2.7pt） +0.4pt（＋0.2pt）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益 １３９ ２３３ 250 +78.9％ +7.5％",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益（円） 51.06 88.18 95.05 +86.2％ +7.8％",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高・営業利益は、四半期・半期ともに過去最高を更新",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 476 ６7０ 780 +63.8％（＋53.6％） +16.4％（＋15.2％）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 10.8％ 12.6％ 13.8% +3.0pt（＋2.6pt） +1.2pt（＋1.1pt）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益 404 ４４８ 524 +29.5％ +17.0％",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益（円） 149.30 169.67 199.98 +33.9％ +17.9％",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7/31公表比売上高＋330億円、営業利益+110億円の上方修正",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は13.8%へ向上（公表比+1.2pt）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 ２１８ 394 +80.6%(+52.7%)",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益 １６１ 275 +70.8%",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1：営業利益にFictiv Inc買収に係るのれん償却費および無形資産の償却費を加算した利益",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高2,736億円（前年比＋32.9%）、営業利益371億円（前年比＋89.8%）、四半期・半期ともに過去最高を更新",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FA事業・VONA事業は売上高・営業利益ともに大きく成長",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高、売上高ともに前年比・前四半期比で伸長、収益改善は計画通り進捗し、２Qは黒字で着地",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 476 670 780 +63.8%(+53.6%) +16.4%(+15.2%)",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益 404 ４４８ 524 +29.5% +17.0%",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のれん等償却前営業利益__前回：▲8億円⇒今回：▲8億円",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益_前回：▲47億円⇒今回：▲47億円",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高5,650億円（+330億円）、営業利益780億円（+110億円）へ上方修正",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全事業で前年比増収増益、営業利益率は13.8%（前年比+3.0pt）へ改善",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "組織強化など更なる成長施策を織り込みつつ、売上数量増等で営業利益+110億円（7/31公表比）",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益性も営業利益率13.8%（+1.2pt）へ向上",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する中間純利益",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 経常利益 親会社株主に帰属する当期純利益 1株当たり当期純利益",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する中間純利益は25,037百万円（前年同期比78.9％増）となりました",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "109,246百万円（前年同期比50.2％増）、営業利益は19,014百万円（前年同期比135.5％増）となりました",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上高は48,497百万円（前年同期比13.9％増）、営業利益においては5,609百万円（前年同期比34.3％増）となりま",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とにより、売上高は115,861百万円（前年同期比28.0％増）、営業利益は12,508百万円（前年同期比71.2％増）と",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この主な内訳は、税金等調整前中間純利益が37,404百万円、減価償却費が9,724百万円、賞与引当金の増加",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 19,559 37,132",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "税金等調整前中間純利益 19,834 37,404",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中間純利益 14,075 25,116",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非支配株主に帰属する中間純利益 77 79",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "親会社株主に帰属する中間純利益 13,997 25,037",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※１ セグメント利益の合計は、中間連結損益計算書の営業利益と一致しております",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・収益性を示す指標として、営業利益率を採用し、営業利益率の目安となる数値を公表する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・収益性を示す指標として、営業利益率を採用し、営業利益率の目安となる数値を公表する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・収益性を示す指標として、営業利益率を採用し、営業利益率の目安となる数値を公表する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・収益性を示す指標として、営業利益率を採用し、営業利益率の目安となる数値を公表する",
+    "url": "https://www.misumi.co.jp/sites/default/files/2025-11/esgnews_251114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※１円の変動による、営業利益など本業収益へのプラス効果を示す",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9962",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の営業利益",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9962",
+    "pass": 3
+   },
+   {
+    "quote": "【ミスミグループ本社 FY2026 Q1 決算説明会】売上高1,314億円・営業利益85%増で過去最高、データセンター向けに46億円の追加投資 — BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "【ミスミグループ本社 FY2026 Q1 決算説明会】売上高1,314億円・営業利益85%増で過去最高、データセンター向けに46億円の追加投資",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社は8月4日、2027年3月期第1四半期（2026年4-6月）決算を発表し、売上高1,314億円（前年比32.3%増）、営業利益178億円（同85.3%増）、営業利益率13.6%と、売上・利益とも四半期として過去最高を更新した",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて通期見通しを上方修正し、売上高5,320億円（前回公表比+8.2%）、営業利益670億円（同+21.8%）とした",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社は2026年8月4日、2027年3月期第1四半期（2026年4-6月）決算を発表し、売上高1,314億円（前年比32.3%増）、営業利益178億円（同85.3%増）、営業利益率13.6%と、売上高・営業利益ともに四半期として過去最高を更新した",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "買収したフィクティブ（FICTIVE）を連結に取り込んだ効果も大きいが、フィクティブ連結前の既存事業だけで見ても売上高は1,264億円（前年比27.3%増）、営業利益は195億円（同82.4%増）と高い成長を維持した",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "全セグメントで2桁増収・2桁営業利益率",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では、デジタルモデル施策の効果が出たFA事業が売上高515億円（前年比53.6%増）、営業利益81億円（同107.3%増）と大きく伸びた",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "フィクティブを除いたベースでも売上高465億円（同38.8%増）、営業利益97億円（同96.4%増）と成長している",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "金型部品事業も売上高242億円（同14.9%増）、営業利益29億円（同38.5%増）、VONA事業も売上高556億円（同24.5%増）、営業利益67億円（同88.8%増）と、全セグメントが2桁増収・2桁営業利益率を達成した",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "CFOの高波徹氏は「全事業セグメントで2桁超の前年比売上成長率、かつ2桁の営業利益率を確保できた」と総括した",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は従来公表値の4,915億円から5,320億円（前回比+8.2%、前年比+20.5%）へ、営業利益は550億円から670億円（同+21.8%、前年比+40.7%）へと増額した",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は12.6%と、前年から1.8ポイント改善する見通しだ",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益は448億円（同+19.8%、前年比+10.7%）に上振れし、累進配当方針を上回る1株当たり6.47円の増配を見込む",
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3D プリント造形サービス - meviy — 3D プリント造形サービス - meviy jp.marketplace.meviy.misumi-ec.com https://jp.marketplace.meviy.misumi-ec.com > 3d-printing",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター と切削加工の違い、効果的な使い分けについて — 3Dプリンター と切削加工の違い、効果的な使い分けについて meviy https://jp.meviy.misumi-ec.com > info > howto",
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/howto/32628/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ 「meviy 」日本最大級の製造業マーケット ... — ミスミグループ 「meviy 」日本最大級の製造業マーケット ... ShareLab NEWS https://news.sharelab.jp > 独自記事",
+    "url": "https://news.sharelab.jp/interviews/20240920_meviy_marketplace_pressrelease/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント 造形サービス - meviy — 3Dプリント 造形サービス - meviy jp.marketplace.meviy.misumi-ec.com https://jp.marketplace.meviy.misumi-ec.com > 3d-printing",
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ がFictivを3億5000万ドルで 買収 - セカプリ — ミスミグループ がFictivを3億5000万ドルで 買収 - セカプリ セカプリ https://sekapri.com > business",
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "pass": 3
+   },
+   {
+    "quote": "【米国・メキシコ サービス 開始 】機械部品の大量調達D-JIT — 【米国・メキシコ サービス 開始 】機械部品の大量調達D-JIT 株式会社ミスミグループ本社 https://www.misumi.co.jp > news > press_251104",
+    "url": "https://www.misumi.co.jp/news/press_251104",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ 、米国製造業大手Fictivを 買収 | 3DP id.arts — ミスミ 、米国製造業大手Fictivを 買収 | 3DP id.arts アイディーアーツ株式会社 https://idarts.co.jp > Home > 最新情報",
+    "url": "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vIu9NFByPuRFMOE0sK-0jkH9Ok5-BqjcOCKuz5HrkjkmvikeVCJ",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る ミスミ — 数字で見る ミスミ 株式会社ミスミグループ本社 https://www.misumi.co.jp > about > data",
+    "url": "https://www.misumi.co.jp/about/data",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社 (9962) の企業概要・業績・財務・IR資料 — ミスミグループ本社 (9962) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/9962",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社 【9962】の企業情報 - キタイシホン — ミスミグループ本社 【9962】の企業情報 - キタイシホン キタイシホン https://kitaishihon.com > company > top",
+    "url": "https://kitaishihon.com/company/9962/top",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社 24年3月期 売上 高1.5%減の3676億円 — ミスミグループ本社 24年3月期 売上 高1.5%減の3676億円 金型新聞社 https://kanagata-shimbun.com > 202406_misumi_kesan",
+    "url": "https://kanagata-shimbun.com/202406_misumi_kesan/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社 のセグメント別・地域別 売上 高の推移 — ミスミグループ本社 のセグメント別・地域別 売上 高の推移 The社史 https://the-shashi.com > ミスミグループ本社の歴史",
+    "url": "https://the-shashi.com/tse/9962/segment/",
+    "pass": 3
+   },
+   {
+    "quote": "C・Mさん | 株式会社 ミスミグループ本社 — C・Mさん | 株式会社 ミスミグループ本社 株式会社ミスミグループ本社 https://www.misumi.co.jp > node",
+    "url": "https://www.misumi.co.jp/node/1941",
+    "pass": 3
+   },
+   {
+    "quote": "【アメリカで活躍する日本企業 インタビュー 】 ミスミ USA ... — 【アメリカで活躍する日本企業 インタビュー 】 ミスミ USA ... ニューヨーク便利帳 https://ny-benricho.com > interview > interview-misumi",
+    "url": "https://ny-benricho.com/business/interview/interview-misumi/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度「 ミスミ 学生ものづくり支援」商品提供開始 — 2024年度「 ミスミ 学生ものづくり支援」商品提供開始 ShareLab NEWS https://news.sharelab.jp > 事例 > その他業界事例",
+    "url": "https://news.sharelab.jp/cases/other-fields/misumi-20250117/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会（動画）／ その他の説明会資料 | 株式会社 ミスミ ... — 決算説明 会（動画）／ その他の説明会資料 | 株式会社 ミスミ ... 株式会社ミスミグループ本社 https://www.misumi.co.jp > library > financial_document",
+    "url": "https://www.misumi.co.jp/ir/library/financial_document",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社 【9962】の最新 決算 発表、業績修正 - 株探 — ミスミグループ本社 【9962】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > ミスミグループ本社 (9962) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=9962",
+    "pass": 3
+   },
+   {
+    "quote": "【 ミスミグループ本社 】[9962] 決算 発表や業務・財務情報 — 【 ミスミグループ本社 】[9962] 決算 発表や業務・財務情報 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9962",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社 (9962) : 決算 情報・業績 [MISUMI Group] — ミスミグループ本社 (9962) : 決算 情報・業績 [MISUMI Group] みんかぶ https://minkabu.jp > stock > settlement",
+    "url": "https://minkabu.jp/stock/9962/settlement",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 ミスミグループ本社 — 会社概要 | 株式会社 ミスミグループ本社 株式会社ミスミグループ本社 https://www.misumi.co.jp > about > company > summary",
+    "url": "https://www.misumi.co.jp/about/company/summary",
+    "pass": 3
+   },
+   {
+    "quote": "【 ミスミグループ本社 】[9962]企業 概要 社員数や役員報酬 ... — 【 ミスミグループ本社 】[9962]企業 概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9962",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社 - Wikipedia — ミスミグループ本社 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ミスミグループ本社",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "よくいただくご質問 - 株式会社ミスミグループ本社 — よくいただくご質問 - 株式会社ミスミグループ本社 株式会社ミスミグループ本社 https://www.misumi.co.jp > faq",
+    "url": "https://www.misumi.co.jp/ir/faq",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ミスミ の企業情報 - 転職はアンドプロ — 株式 会社ミスミ の企業情報 - 転職はアンドプロ アンドプロ https://and-pro.jp > company-info-3715",
+    "url": "https://and-pro.jp/company-info-3715/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ミスミグループ本社 の人気・新着記事まとめ - note ミスミグループ本社 の人気・新着記事まとめ - note note https://note.com > tag > ミスミグループ本社",
+    "url": "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社 ｜28卒就活×IR資料分析——売上の ... - note ミスミグループ本社 ｜28卒就活×IR資料分析——売上の ... - note note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社 （9962）株価・今後の見通し・予想 - note ミスミグループ本社 （9962）株価・今後の見通し・予想 - note note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-9962",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 ミスミグループ本社 面接対策 想定質問100選 - note 【2026年版】 ミスミグループ本社 面接対策 想定質問100選 - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/careercompass_c/n/naee5454205a9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ミスミグループ本社の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "ゆとり世代のしんがり〜世界で唯一の就職氷河期研究家〜",
+    "url": "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "【投資日記：スイングトレード記録】11月2日：11月初日は+3.1万円の好スタート！任天堂の回転売買と新監視銘柄の利確",
+    "url": "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "【決算・修正速報】東京エレクトロン、キオクシア、村田製作所、三菱電機、HOYA、パナソニック、大塚、住友電気工業、第一三共、TDK、JR東、レーザーテック、SCREEN、大東建託、双日、積水化学、きんでん、TOTO、住友ファーマ、東京地下鉄、牧野フライス、東映アニメーション、住友ベークライト、ニコン、など",
+    "url": "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社｜28卒就活×IR資料分析——売上の最大事業は他社製品も扱う流通だった（9962）｜有価証券報告書で読む企業研究・面接対策",
+    "url": "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "11月4日、日経平均は一時3,000円安。次営業日に注目したい日本株5銘柄",
+    "url": "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "【速報】2026年10月30日の強烈IR15件を仕分け｜◎本物3件 ✕見かけ倒し2件 ▼下方3件",
+    "url": "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社｜28卒就活×IR資料分析——売上の最大事業は他社製品も扱う流通だった（9962）｜有価証券報告書で読む企業研究・面接対策｜やましゃん@IR就活",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社｜28卒就活×IR資料分析——売上の最大事業は他社製品も扱う流通だった（9962）｜有価証券報告書で読む企業研究・面接対策",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社を受ける就活生は必ず読んでほしい。また、ミスミグループ本社に勤める若手社員、中間管理職の方にも読んでほしい。自社の有価証券報告書を通しで読んだことがある社員は、ほとんどいない。この記事を最後まで理解できれば、あなたはミスミグループ本社の面接官より、この会社の論点を整理して語れるようになる。",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事の数値は、株式会社ミスミグループ本社 有価証券報告書 第64期（2025年4月1日〜2026年3月31日）に基づきます。直近の数字は2026年7月31日公表の2027年3月期第1四半期決算短信と、同年9〜10月の適時開示で補っています。",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "です。ミスミグループ本社が何に賭けているのか、FA・機械部品業界の収益構造まで読めます。",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "です。業界の構造的課題と追い風、面接前に押さえる最新ニュース10本、内定者の選考と面接攻略、職種別キャリアと年収、働く環境の現実、IRで差をつける面接回答例と逆質問集、総合評価を収めています。",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "▶︎ LINE（毎朝の就活ニュース便・企業記事のリクエスト受付）",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "https://lin.ee/rJt6xIq",
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社（9962）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-9962",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】ミスミグループ本社面接対策 想定質問100選｜中途採用で聞かれる質問と模範回答を徹底解説｜Career Compass 転職ナビ",
+    "url": "https://note.com/careercompass_c/n/naee5454205a9",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】ミスミグループ本社面接対策 想定質問100選｜中途採用で聞かれる質問と模範回答を徹底解説",
+    "url": "https://note.com/careercompass_c/n/naee5454205a9",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社の中途面接対策｜想定質問100問＋模範回答＋解説ガイド",
+    "url": "https://note.com/careercompass_c/n/naee5454205a9",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社の面接、どんなことを聞かれるか不安ではないですか？",
+    "url": "https://note.com/careercompass_c/n/naee5454205a9",
+    "pass": 3
+   },
+   {
+    "quote": "「meviyやVONAなど事業構造の理解をどこまで求められるのか」「QCT（品質・コスト・納期）モデルについて自分の意見を述べられるか」「製造業のDX推進企業としてのミスミの方向性にどう共感を示すべきか」——中途採用の面接を控えている方なら、一度はこのような不安を抱いたことがあるのではないでしょうか。",
+    "url": "https://note.com/careercompass_c/n/naee5454205a9",
+    "pass": 3
+   },
+   {
+    "quote": "面接は準備の質で結果が大きく変わります。事前にどんな質問が来るか把握し、自分なりの回答を準備しておくだけで、当日の対応力は格段に上がります。",
+    "url": "https://note.com/careercompass_c/n/naee5454205a9",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、ミスミグループ本社の中途採用面接に特化した想定質問100選の解説ガイドをご紹介します。質問に加え、面接官がその質問で何を見ているのか、どのように回答すれば評価されるのかまで踏み込んだ内容になっています。",
+    "url": "https://note.com/careercompass_c/n/naee5454205a9",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ本社の中途採用面接には、製造業向け間接材プラットフォーム企業ならではの特徴があります。",
+    "url": "https://note.com/careercompass_c/n/naee5454205a9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ミスミ 「ものづくり」支援 (@misumi_st_pj) / X ミスミ 「ものづくり」支援 (@misumi_st_pj) / X X https://x.com > misumi_st_pj",
+    "url": "https://x.com/misumi_st_pj",
+    "pass": 3
+   },
+   {
+    "quote": "平川 凌 على X: \" ミスミグループ本社 、米国でCVCファンドを ... 平川 凌 على X: \" ミスミグループ本社 、米国でCVCファンドを ... X https://x.com > @g7z5e",
+    "url": "https://x.com/g7z5e/status/2100898166849912950?lang=ar",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株） ミスミグループ本社 - LinkedIn （株） ミスミグループ本社 - LinkedIn LinkedIn https://www.linkedin.com > （株）ミスミグループ本社",
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE?trk=similar-pages_result-card_full-click",
+    "pass": 3
+   },
+   {
+    "quote": "（株） ミスミグループ本社 - LinkedIn （株） ミスミグループ本社 - LinkedIn LinkedIn https://jp.linkedin.com > （株）ミスミグループ本社",
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "（株） ミスミグループ本社 | LinkedIn （株） ミスミグループ本社 | LinkedIn LinkedIn https://tr.linkedin.com > （株）ミスミグループ本社",
+    "url": "https://tr.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE?trk=similar-pages_result-card_full-click",
+    "pass": 3
+   },
+   {
+    "quote": "（株） ミスミグループ本社 - LinkedIn （株） ミスミグループ本社 - LinkedIn LinkedIn Ecuador https://ec.linkedin.com > （株）ミスミグループ本社",
+    "url": "https://ec.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE?trk=similar-pages_result-card_full-click",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ミスミグループ本社 - Accueil | Facebook 株式会社 ミスミグループ本社 - Accueil | Facebook Facebook https://fr-fr.facebook.com > 株式会社ミスミグループ本社",
+    "url": "https://fr-fr.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ミスミグループ本社 - Página inicial | Facebook 株式会社 ミスミグループ本社 - Página inicial | Facebook Facebook https://pt-br.facebook.com > 株式会社ミスミグループ本社",
+    "url": "https://pt-br.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ミスミグループ本社 - Halaman Utama | Facebook 株式会社 ミスミグループ本社 - Halaman Utama | Facebook Facebook https://ms-my.facebook.com > 株式会社ミスミグループ本社",
+    "url": "https://ms-my.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ミスミグループ本社 - Strona główna | Facebook 株式会社 ミスミグループ本社 - Strona główna | Facebook Facebook https://pl-pl.facebook.com > 株式会社ミスミグループ本社",
+    "url": "https://pl-pl.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ 「ものづくり」支援 (@misumi.st.project) - Facebook ミスミ 「ものづくり」支援 (@misumi.st.project) - Facebook Facebook https://www.facebook.com > misumi.st.project",
+    "url": "https://www.facebook.com/misumi.st.project/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.misumi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/about/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/about/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/about/company/summary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/about/company/global",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/about/company/management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/ir/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/press_261104",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/press_261021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/press_261016_2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/press_261016",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/esg/environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/ir/financial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/ir/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/ir/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/ir/disclaimer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/ir/disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/business-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/business-foundation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/news_261029",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/news_261016",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/news_261007",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/ir/library/companyprofile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news?category=press_release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/press_260318",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news?category=ir",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-11/irnews_261102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/news_261030_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-06/esgnews_260626.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-04/esgnews_260415.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-02/esgnews_260213.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2025-11/esgnews_251114.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/news_261030_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-10/irnews_261001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-03/company-director_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2026-07/misumi_ir_schedule1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2023-04/card_img_environment.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2024-03/business-overview_mv_0.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2024-03/business-overview_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2024-03/business-overview_02_2.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/tag/ma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutoh.co.jp/support/3d/support_end/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datadesign.co.jp/markforged/news/2692/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/howto/32628/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/20240920_meviy_marketplace_pressrelease/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekapri.com/business/20250419-19190/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vIu9NFByPuRFMOE0sK-0jkH9Ok5-BqjcOCKuz5HrkjkmvikeVCJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/company/9962",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/9962/top/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/202406_misumi_kesan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/9962/segment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ny-benricho.com/business/interview/interview-misumi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/pr/misumix/?srsltid=AYCX9vKWYG-Cr5CWOSe0bgRa_zwbcMR_1zunOanwGAXuTyVdHhVJJ_1U",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/other-fields/misumi-20250117/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/finance?code=9962",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9962",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minkabu.jp/stock/9962/settlement",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9962",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://and-pro.jp/company-info-3715/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-9962",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/careercompass_c/n/naee5454205a9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/misumi_st_pj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/g7z5e/status/2100898166849912950?lang=ar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE?trk=similar-pages_result-card_full-click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tr.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE?trk=similar-pages_result-card_full-click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ec.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE?trk=similar-pages_result-card_full-click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr-fr.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pt-br.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ms-my.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pl-pl.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/irshukatsu/n/n1bca47de5502",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/misumi_st_pj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/misumi.st.project/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミスミグループ本社 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://news.sharelab.jp/tag/ma/",
+    "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "https://www.mutoh.co.jp/support/3d/support_end",
+    "https://www.datadesign.co.jp/markforged/news/2692/",
+    "https://jp.meviy.misumi-ec.com/info/ja/howto/32628/",
+    "https://monoist.itmedia.co.jp/mn/articles/2307/20/news042.html",
+    "https://www.misumi.co.jp/index.html",
+    "https://jp.meviy.misumi-ec.com/info/ja/howto/metal-machining/17599/",
+    "https://skhonpo.com/blogs/blog/40history",
+    "https://business.nikkei.com/atcl/NBD/19/00119/00304/"
+   ]
+  },
+  {
+   "query": "ミスミグループ本社 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://news.sharelab.jp/interviews/20240920_meviy_marketplace_pressrelease/",
+    "https://jp.marketplace.meviy.misumi-ec.com/info/ja/service/3d-printing/",
+    "https://sekapri.com/business/20250419-19190/",
+    "https://www.misumi.co.jp/news/press_251104",
+    "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vIu9NFByPuRFMOE0sK-0jkH9Ok5-BqjcOCKuz5HrkjkmvikeVCJ",
+    "https://jp.meviy.misumi-ec.com/info/ja/howto/metal-machining/46316/",
+    "https://ja.3dsystems.com/press-releases/3d-systems-expands-portfolio-selective-laser-sintering-platforms-acquisition",
+    "https://online.logi-biz.com/123119/",
+    "https://www.facebook.com/3dp.idarts/posts/%E3%83%9F%E3%82%B9%E3%83%9F%E7%B1%B3%E5%9B%BD%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%A4%A7%E6%89%8Bfictiv%E3%82%92%E8%B2%B7%E5%8F%8E-%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E8%A3%BD%E5%93%81%E3%81%AE%E8%B2%A9%E5%A3%B2%E3%81%AA%E3%81%A9%E3%82%92%E8%A1%8C%E3%81%86%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF%E5%90%8C%E7%A4%BE%E3%81%AE%E7%B1%B3%E5%9B%BD%E5%AD%90%E4%BC%9A%E7%A4%BE-misumi-investment-usa-corpora/1100532745444086/",
+    "https://business.nikkei.com/atcl/NBD/19/00119/00304/"
+   ]
+  },
+  {
+   "query": "ミスミグループ本社 積層造形 事業 売上",
+   "results": [
+    "https://www.misumi.co.jp/about/data",
+    "https://www.crex-data.com/company/9962",
+    "https://kitaishihon.com/company/9962/top",
+    "https://kanagata-shimbun.com/202406_misumi_kesan/",
+    "https://the-shashi.com/tse/9962/segment/",
+    "https://netkeizai.com/articles/detail/14346",
+    "https://shikiho.toyokeizai.net/news/0/299488",
+    "https://www.automation-news.jp/2026/08/107325/",
+    "https://investalk.jp/9962/misumi-2026-03-earnings/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9962"
+   ]
+  },
+  {
+   "query": "ミスミグループ本社 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.misumi.co.jp/node/1941",
+    "https://ny-benricho.com/business/interview/interview-misumi/",
+    "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "https://jp.misumi-ec.com/pr/misumix/?srsltid=AYCX9vKWYG-Cr5CWOSe0bgRa_zwbcMR_1zunOanwGAXuTyVdHhVJJ_1U",
+    "https://news.sharelab.jp/cases/other-fields/misumi-20250117/",
+    "https://www.sbbit.jp/article/st/115909",
+    "https://prtimes.jp/main/html/rd/p/000000385.000012100.html",
+    "https://kanagata-shimbun.com/211010interview-misumi/",
+    "https://www.youtube.com/watch?v=mpXNmIt0hh0",
+    "https://www.automation-news.jp/2026/10/109655/"
+   ]
+  },
+  {
+   "query": "ミスミグループ本社 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.misumi.co.jp/ir/library/financial_document",
+    "https://kabutan.jp/stock/finance?code=9962",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9962",
+    "https://minkabu.jp/stock/9962/settlement",
+    "https://finance.biggo.jp/news/JP_9962.T_2026-08-04",
+    "https://www.misumi.co.jp/ir/financial/result",
+    "https://edinetdb.jp/company/E02770/ir-docs/",
+    "https://investalk.jp/9962/misumi-2026-03-earnings/"
+   ]
+  },
+  {
+   "query": "ミスミグループ本社 会社概要 設立 株主",
+   "results": [
+    "https://www.misumi.co.jp/about/company/summary",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9962",
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "https://www.misumi.co.jp/ir/faq",
+    "https://and-pro.jp/company-info-3715/",
+    "https://job.mynavi.jp/27/pc/search/corp56201/outline.html",
+    "https://app.en-courage.com/companies/01GHZ0YVQN4GKTEWX94HJRBW6T?locale=ja",
+    "https://kabutan.jp/stock/holder?code=9962",
+    "https://ja.wikipedia.org/wiki/ミスミグループ本社",
+    "https://www.wikiwand.com/ja/ミスミグループ本社"
+   ]
+  },
+  {
+   "query": "site:note.com ミスミグループ本社",
+   "results": [
+    "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "https://note.com/irshukatsu/n/n1bca47de5502",
+    "https://note.com/tag/vm/investment_money/company-9962",
+    "https://note.com/careercompass_c/n/naee5454205a9",
+    "https://note.com/iqoys/n/nb2913e5dfe16",
+    "https://note.com/anozaki/n/n161396b382ac",
+    "https://note.com/ipponclub/n/n97ab71a7069a",
+    "https://note.com/nifty_agapan1691/n/nb7c23877e9cc",
+    "https://note.com/kabutabi2000/n/n699cd96eede1",
+    "https://note.com/invest_papa57/n/ne932255b9a08"
+   ]
+  },
+  {
+   "query": "site:x.com ミスミグループ本社",
+   "results": [
+    "https://x.com/misumi_st_pj",
+    "https://x.com/asmootharchitec/status/2117195281657983123",
+    "https://x.com/g7z5e/status/2100898166849912950?lang=ar",
+    "https://x.com/itleaders_jp/status/2118149662695621102",
+    "https://x.com/LogiBizOnline/status/2118085881802133849",
+    "https://x.com/nkinvestigation/status/2117020261837099495",
+    "https://x.com/logi_today/status/2118210072660836385",
+    "https://x.com/roukijunpo/status/2117232292217401642",
+    "https://x.com/hashtag/%E3%83%9F%E3%82%B9%E3%83%9F",
+    "https://x.com/net_keizai/status/2118471671824941173"
+   ]
+  },
+  {
+   "query": "site:linkedin.com ミスミグループ本社",
+   "results": [
+    "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE?trk=similar-pages_result-card_full-click",
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "https://tr.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE?trk=similar-pages_result-card_full-click",
+    "https://ec.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE?trk=similar-pages_result-card_full-click",
+    "https://jp.linkedin.com/in/takeshitakazawa",
+    "https://jp.linkedin.com/in/tsutomu-kato-14a033195",
+    "https://jp.linkedin.com/in/izumisekinourfcno80423",
+    "https://jp.linkedin.com/in/takumi-toya-b2569373",
+    "https://jp.linkedin.com/in/yuri-haraguchi-031b26398",
+    "https://jp.linkedin.com/in/ryosuke-takahashi-ba3053179"
+   ]
+  },
+  {
+   "query": "site:facebook.com ミスミグループ本社",
+   "results": [
+    "https://fr-fr.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "https://pt-br.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "https://ms-my.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "https://pl-pl.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "https://pt-pt.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "https://cs-cz.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "https://ne-np.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "https://www.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342?locale=sv_SE",
+    "https://ko-kr.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342",
+    "https://mk-mk.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE/104250251229342"
+   ]
+  },
+  {
+   "query": "ミスミグループ本社 note 社長",
+   "results": [
+    "https://note.com/tag/%E3%83%9F%E3%82%B9%E3%83%9F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "https://www.nikkei.com/article/DGXZQOUC032LB0T00C26A6000000/",
+    "https://note.com/irshukatsu/n/n1bca47de5502",
+    "https://www.misumi.co.jp/index.html",
+    "https://note.com/invest_papa57/n/ne932255b9a08",
+    "https://toyokeizai.net/articles/-/943021?display=b",
+    "https://finsight-note.com/company/9962/human-capital",
+    "https://zaimani.com/financial-analysis-catalog/9962/",
+    "https://kitaishihon.com/company/9962/top",
+    "https://kigyo-scope.jp/company/9962/ceo/"
+   ]
+  },
+  {
+   "query": "ミスミグループ本社 X 投稿",
+   "results": [
+    "https://x.com/misumi_st_pj",
+    "https://www.misumi.co.jp/index.html",
+    "https://www.facebook.com/misumi.st.project/",
+    "https://www.youtube.com/watch?v=mpXNmIt0hh0",
+    "https://jp.misumi-ec.com/pr/misumix/?srsltid=AYCX9vJDMRtgZjMTgQvYJyW-bzPK2e6S7t8rLOB6F30JanVCEt4K1w4O",
+    "https://syukatsu-kaigi.jp/companies/120672/word_mouths/employee/job_small_categories/42",
+    "https://prtimes.jp/main/html/rd/p/000000371.000012100.html",
+    "https://sns.userlocal.jp/document/casestudy/misumi/",
+    "https://ja.wikipedia.org/wiki/ノート:ミスミグループ本社",
+    "https://www.misumi.co.jp/news/news_261029"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部42頁・検索12回）"
+ }
+}

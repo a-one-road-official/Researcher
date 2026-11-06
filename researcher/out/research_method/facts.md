@@ -2170,17 +2170,21 @@
   - 「決算短信・有価証券報告書との関係、会社規模別の開示義務、公告方法と費用まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「株式会社保険会社との違い、公告方法、罰則、現存する生保5社を一次資料で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「会社の公告とは？決算公告・合併公告など4種類と公告方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「本記事では、官報に掲載される決算公告の見方・読み方を項目ごとに丁寧に解説し、財務分析への実践的な活用方法まで詳しく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「（1）決算公告を官報以外の方法（電子公告・日刊新聞）で実施している、（2）有価証券報告書提出会社のため免除されている、（3）決算公告を実施していない（法令違反の状態）、の3パターンです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「コスト面を含めた各公告方法の違いについては」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「[官報の決算公告の探し方——無料で他社の公告を調べる方法](https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/)」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報・電子公告の費用比較と年間4,000円で始める最安の方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「日経新聞の決算公告を検索する方法｜縮刷版・日経テレコンの限界と代替手段」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「日経新聞に掲載された決算公告を検索する方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「日経テレコンでは法定公告の本文検索ができない実態、縮刷版の使い方、帝国データバンクなど確実な代替手段まで紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告を無料で検索する5つの方法｜目的別おすすめサイトを徹底比較【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告を無料で検索する方法を5つ紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「【早見表】会社の規模×公告方法で売上高がわかるかどうかが決まる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「Q4. 非上場企業の売上高を無料で確実に知る方法はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「「どんな会社の、どの決算公告なら売上高がわかるのか」を一覧できるよう、会社の規模と公告方法の組み合わせごとに整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「第二に、公告方法が電子公告の場合は要旨ではなく全文の掲載が必要ですが、それでも公告対象が貸借対照表だけであることに変わりはありません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告のコストは公告方法によって大きく異なります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「電子公告と決算公告の違いとは？関係性・3つの公告方法の費用を徹底比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 突き合わせ・推定：
+  - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「信用調査会社：推定値を含めて売上規模を把握できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「Q3. 決算公告の当期純利益から売上高を推定できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「前期と今期の純資産を比較することで、利益の増減を推定できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「ただし、前期と今期の純資産の差額から大まかな利益・損失の傾向を推定することは可能です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「前期比での純資産の変化から、損益の傾向を間接的に推定できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -2192,28 +2196,26 @@
   - 「仮説2：発行価格100円は、資本増強後の会社の価値より安い」（https://note.com/ib_pe_hf/n/n91f16945e33e）
   - 「仮説3：ハンズオンの実績を作れる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
   - 「5-2. iBによるリターンの推定（仮定値）」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「出口は市場売却なので、株価から逆算できる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「2005年11月の株価300円台と矛盾しない」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「5-3. 仮説の答え合わせ」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「仮説1（御三家は潰さない）：○」（https://note.com/ib_pe_hf/n/n91f16945e33e）
 - 一次情報の探し方：
-  - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報の決算公告の見方を徹底解説｜貸借対照表要旨から財務状況を読み取る方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報に掲載された決算公告を実際に開いてみたものの、「どこを見ればよいのか」「数字が何を意味するのか」がわからず困った経験はないでしょうか」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報の決算公告は取引先の与信調査や競合分析に活用できる貴重な財務情報ですが、独特のフォーマットや省略表記に慣れていないと正しく読み取るのは難しい面があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「本記事では、官報に掲載される決算公告の見方・読み方を項目ごとに丁寧に解説し、財務分析への実践的な活用方法まで詳しく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報を公告媒体に選択している会社は、国立印刷局が発行する官報に財務情報を掲載する形で、この義務を果たします」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「会社法第440条第2項は、官報または日刊新聞紙による公告の場合、「要旨」の掲載で足りると定めています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「会社法上の「大会社」（資本金5億円以上または負債総額200億円以上）と、それ以外の「非大会社」では、官報に掲載しなければならない内容が異なります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「日本の株式会社の99%以上は非大会社であるため、官報に掲載されている決算公告のほとんどは「貸借対照表の要旨のみ」という形式です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「売上高や営業利益などの損益情報は、非大会社の官報公告からは直接読み取れません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報に掲載される貸借対照表の要旨は、以下の3区分で構成されています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「土地・建物・機械設備などの有形固定資産、商標権・特許権などの無形固定資産、投資有価証券などの投資その他の資産が含まれます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報に掲載される決算公告では、貸借対照表の数値を「百万円」または「千円」単位で省略して記載することが認められています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報のスペース制約上、詳細な数値はすべて記載されているわけではない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「官報で公告できる情報量は会社の規模によって大きく異なります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告に売上高が載っていないのはなぜ？理由と調べ方を解説 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告に売上高が載っていないのはなぜ？理由と調べ方を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「取引先の決算公告をせっかく探し当てたのに、肝心の売上高がどこにも書かれていない」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「会社法上の「大会社」（資本金5億円以上または負債総額200億円以上）に該当しない限り、決算公告に売上高を載せる義務はそもそもないのです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「日本の株式会社の大多数は大会社に該当しないため、世の中の決算公告のほとんどには売上高が記載されていません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「その後、決算公告から読み取れる情報の活用法と代替調査手段を解説し、最後に自社が公告する側になった場合の売上高の扱いにも触れます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告に売上高が載っていない理由は会社法440条にある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「官報・新聞の公告は「要旨」でよいため情報量がさらに絞られる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「売上高がなくても決算公告から読み取れる情報は多い」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「EDINET：非上場でも有価証券報告書の提出企業なら無料で全開示」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「自社が決算公告を出す側になったら：売上高は載せなくてよい」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「Q1. 決算公告に売上高が載っていないのは違法ではないのですか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「Q2. 大会社かどうかは決算公告のどこで見分けられますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「Q3. 決算公告の当期純利益から売上高を推定できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 失敗・落とし穴：
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「30%以上なら比較的安定、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「見落としがちなポイントですが、単位を確認せずに数字を読むと100倍・1,000倍の誤解につながるため注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報のスペース制約上、詳細な数値はすべて記載されているわけではない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -2226,10 +2228,12 @@
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
 - 実例：
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「中小企業の取引先を調べる場面では、相手が大会社に該当しないケースが大半であり、決算公告に売上高が載っていないのはむしろ標準的な状態といえます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「筆者が実際に取引先候補の決算公告を官報検索で調べた際も、売上高がわからないことに最初は戸惑いましたが、純資産と当期純利益の2つを数期分並べて見るだけで「純資産が毎期着実に増えている＝利益を出し続けている会社」だと判断でき、結果的に与信判断には十分でした」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -2240,10 +2244,6 @@
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「バイアウトのケーススタディから投資について学びたい方」（https://note.com/ib_pe_hf/n/n91f16945e33e）
   - 「同じことが他の不祥事でも起きるのかを、日本企業の主な事例で確かめる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「今の日本のドラッグストアがその実例になっている」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「仕入の一本化とPBの相互供給で粗利を上げ、本部費を1つにした結果で、市場の成長率（年5〜9%）を大きく上回る」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「①はFC、②はデジタルシフト、③はMY BOX、と結果的に3つとも打っている」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「大手4社の8.0〜9.9%は、地域要件のない大型工事で全国の上位等級同士が価格で競う構造の結果で、経営判断の巧拙ではなく市場の違いによる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
 
 ## 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）（how to find private company revenue Japan consulting knowledge base）
 - 文脈：探し先
@@ -3049,11 +3049,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -3285,6 +3285,7 @@
 ## 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）（Admiralty code source reliability information credibility grading OSINT practice examples）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
+  - 「help you evaluate data, demonstrate your methodology, and clearly communicate your analysis work.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Disclaimer: This article is for education and for lawful, authorised professional research. Use these methods only where you have a legitimate purpose and a lawful basis, and follow the laws and platform terms that apply to you, including data protection law such as the UK GDPR and EU GDPR. See our」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「The oldest and most widely used scheme for this is the Admiralty system. This guide explains how it works, why so much open-source material starts at the bottom of the scale, how corroboration moves grades up, and how to grade results that reach you through an aggregated platform.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
@@ -3299,7 +3300,6 @@
   - 「OSINT Report Template: How to Write Findings Other Analysts Can Check」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Demystifying Source Reliability: How To Ensure Credible CTI - Kraven Security」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「Demystifying Source Reliability: How to Ensure Credible CTI」（https://kravensecurity.com/source-reliability-and-information-credibility/）
-  - 「, you must evaluate them separately. This disciplined separation provides a structured framework to cut through the noise and improve your threat prioritization.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
 - 一次情報の探し方：
   - 「Filing history and accounts consistent」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Register shows active status and recent filing」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
@@ -3337,7 +3337,7 @@
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -4519,33 +4519,39 @@
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
 - 手順・やり方：
-  - 「statistics on how to interpret the results of a revision analys es for economic variable s」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「this document for other sophisticated / specific user methods.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「aware of changes to compilation methods that may have occurred over time to the」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「3 The task-force has made recommendations on how to build a database of „real-time‟ data required for」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「the real-time dataset available to analyse. The reader is therefore referred to the guidelines on how to build」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「expect a non-zero mean revision, such as the impact of methodological or definitional changes which may」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「take place as new methods of calculating figures are」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
-  - 「revision results from changes in the methodology used to compile」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
-  - 「The first step in constructing a real-time database is deciding」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
-  - 「is that revisions due to methodological changes are likely to」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and coordinated way. These changes can take place beyond the three-year production cycle. Our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「This looks at the revisions in each Blue Book and relates to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication that was open to revision. It is one indicator of the trade-off between timeliness and accuracy, and also captures methodological improvements that come through our annual Blue Books.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「The main methodological and data improvements in Blue Book 2026 are the incorporation of the Annual Survey of Goods and Services (ASGS), which gives us more information on products that are produced by the services industries, and changes to our estimates of actual and imputed rentals. For quarterly changes in volume GDP, the MAR for Blue Book 2026 was 0.04 percentage points.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「There will be some periods where revisions are larger, where this likely reflects higher levels of uncertainty in early estimates (for example, the coronavirus (COVID-19) pandemic) and/or where methodological and data changes have had more pronounced impacts in specific years. This can help to show what drives larger revisions to gross domestic product (GDP).」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「Two examples of years that have seen larger annual GDP revisions over a number of subsequent Blue Books are 2012 and 2017. In this section, we explore how the level of GDP has been revised up in these years because of methodological and data improvements across subsequent Blue Books.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「, specifically the Annual Survey of Goods and Services, led to a revision to this historical data and now reflects a latest estimate of 1.7% for annual GDP in 2012. This is a consequence of a change in methods to bring in an entirely new data source that shed greater light on goods production in the service sector.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「However, there have been a series of methodological revisions over the last six years, which have had a particular impact for the change in 2017. For instance,」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「the enhancement in the quality of price deflators, including new methods to account for changes in the quality of computer hardware」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「introducing new weighting methods for market output deflators」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「bringing in method improvements to trade in services travel deflators」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「These case studies show how revisions not only reflect data revisions within the production cycle, but also methodological improvements that can take place beyond the three-year period of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「One likely explanation is that these revisions reflect the impact of balancing our full range of information in a SUT framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate. However, the MAR is smaller in recent decades, although again with the partial exception of the pandemic period.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「Communicating the UK Economic Cycle methodology article」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「Estimates of business investment were updated in Blue Book 2026 because of revised and newly available data, methodological improvements and the annual review of our seasonal adjustment models. More information on the revisions can be found in Section 3 of our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「GDP quality and methodology information (QMI)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
 - 突き合わせ・推定：
-  - 「revision interval for say first published estimates of third quarter and fourth quarter data).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Lt: later estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Pt: preliminary (earlier) estimate for reference period t」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「3.6 What is the average size of revision relative to the estimate itself?」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「that on average earlier releases have been under -estimated (negative sign means over -」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「exists in the earlier estimates. Four possible outcomes have been chosen to describe」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「variable that follows a normal distribution with variance estimate as above, the t -critic」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「estimate and the sign of earlier estimate are the same.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「later estimate also signifies this.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「of the size of the earlier estimates. Aside from the above issue, it is useful as a measure」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
+  - 「We maintain a transparent approach in showing revisions to UK gross domestic product (GDP) estimates by publishing real-time estimates of GDP, alongside our data vintages, and by providing a timely assessment of these revisions.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「There is a mean revision between the first estimate and the final estimate of positive 0.1 percentage points over the period Quarter 1 (Jan to Mar) 1961 to Quarter 4 (Oct to Dec) 2023; for the period Quarter 1 2020 to Quarter 4 2023, there is a mean revision of positive 0.3 percentage points, which includes the impact of the uncertainty around the coronavirus (COVID-19) pandemic.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「When we look at the sign of quarterly GDP growth, of the 175 times where the growth in the first estimate was positive, 168 of these (96%) have remained positive in the final estimate, while 42 of the 64 (66%) instances where the growth in the first estimate was negative have remained negative.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「For the period between May 2018 and December 2023, the mean revision to the first estimate of the three-month change in GDP is positive 0.26 percentage points.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「In the UK, the value of the economy in 2025 is estimated to be £3.0 trillion; this estimate is compiled from over」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「in the annual production round, with a time series that goes back to 1948 annually and 1955 quarterly. In the UK, we produce a first estimate of quarterly GDP six weeks after that quarter ends, alongside our higher-frequency monthly GDP estimates, which are also available around 40 days after the month ends.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「There is a trade-off between the timeliness and accuracy of estimates of GDP. As additional information becomes available, we have a more complete picture of economic activity in that period. This compilation cycle for the national accounts estimates, which includes these data revisions and is explained in the」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「, can take up to three years and naturally leads to revisions in our estimates of GDP.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「Managing the trade-off between timeliness and accuracy in producing our best estimates of GDP blog」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「We can analyse revisions to our GDP estimates using three internationally recognised approaches, as outlined in the Organisation for Economic Co-operation and Development's (OECD's)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「the mean revision (MR), which shows whether there is a systematic tendency for initial estimates to be revised upwards or downwards – the MRs for quarterly GDP are in Table 1」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「the relative mean absolute revision (RMAR), which incorporates the size of the initial estimate in relation to the revision, as a large revision on a very large initial growth rate can have less of an impact than a large revision to a very small initial growth rate」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「This article analyses the revisions to our quarterly GDP estimates that were published in our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「and revisions of our short-term GDP estimates in our regular statistical bulletins and articles, and seek opportunities to improve this on an ongoing basis.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「We are exploring how we can further assist users to interpret movements in our main economic statistics by developing a smoothed seasonally adjusted measure of monthly GDP, which is planned to be published before the end of 2026. An example of the application of smoothed estimates is available from the」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
 - 一次情報の探し方：
+  - 「Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
   - 「http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「http://www.oecd.org/dataoecd/20/26/34350524.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
@@ -4556,29 +4562,37 @@
   - 「http://www.oecd.org/dataoecd/47/15/40315408.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
   - 「ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
 - 失敗・落とし穴：
-  - 「revisions are more in one direction than another, suggesting possible bias in the earlier」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「the average size of the revisions, but it cannot provide an indication of directional bias」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「be of limited use (also called “average bias”).」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「revision is statistically different from zero which may give an insight of whether a bias 7」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「considering whether there is bias in the revision process (i.e. there may be some degree of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「statistically significant positive bias to revisions for GDP growth.」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
-  - 「however, is whether this apparent bias is statistically significant」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「In those studies where the potential pitfalls of relying on current-vintage data have been」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「to Equation 3 yields an unbiased and consistent estimate of ". Less obviously, var(T(t)) # var(w(t)),」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「forecast that is unbiased, conditional on the restricted information set. Swanson (1996) and」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「government at time t, applying least squares to Equation 3' will yield an unbiased estimate of ".」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「inconsistent estimate of " and a biased forecast of y(T).」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「on the right-hand side. This approach yields unbiased coefficient estimates if, and only if, revisions」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「y(t) = x(t)" + w(t), although both strategies yield unbiased estimates of ".」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「estimate the forecasting model of interest yield unbiased parameter estimates (West and」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「In those studies where the pitfalls of relying on current-」（https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf）
 - 実例：
-  - 「example, a user may be interested in studying revision between first published data and」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「statistical agency publishing the data. For example, if reconciliation with annual data」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「3.5 In the case of growth rates, how often is the later published growth rate in the」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「data points of the time series. For example, 1994Q1 – 2007Q3 represents 55」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「% of positive revisions : it returns the number of cases revised upward as a proportion of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「% of negative revisions: it returns the number of cases revised down ward as a proportion」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「% of zero revisions: it returns the number of cases with null revision as a proportion of」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「This is an extreme case of unreliability, although it may be that the change of a small」（https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf）
-  - 「For example, the United States releases initial estimates of GDP」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
-  - 「Following the example set by the Philadelphia Federal Reserve」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
-  - 「be misleading in certain cases.」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
-  - 「forecast differs from a standard forecast. In this case, the aim is」（https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8）
+  - 「We are exploring how we can further assist users to interpret movements in our main economic statistics by developing a smoothed seasonally adjusted measure of monthly GDP, which is planned to be published before the end of 2026. An example of the application of smoothed estimates is available from the」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2026 revisions reflect those between the August 2026 and September 2026 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2026.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「There will be some periods where revisions are larger, where this likely reflects higher levels of uncertainty in early estimates (for example, the coronavirus (COVID-19) pandemic) and/or where methodological and data changes have had more pronounced impacts in specific years. This can help to show what drives larger revisions to gross domestic product (GDP).」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「Two examples of years that have seen larger annual GDP revisions over a number of subsequent Blue Books are 2012 and 2017. In this section, we explore how the level of GDP has been revised up in these years because of methodological and data improvements across subsequent Blue Books.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「in 2021 led to a revision from 1.7% to 2.1%. Another example is in」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「These case studies show how revisions not only reflect data revisions within the production cycle, but also methodological improvements that can take place beyond the three-year period of the first estimate.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「For example, the mean revision between the estimate published a year later (m plus 12) and this “final” estimate is 0.08 percentage points. It will then be zero by the time of the estimate that is published three years later, which is taken to be the “final” one.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「if the economy is contracting in real time. However, this is also conditional on the distribution of these growth rates for the first estimates. First estimates that are closer to no growth (for example, 0.0%) are more likely to change sign if there is a revision, where the mean revision over this entire sample is positive 0.13 percentage points. Our」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「For example, from the period May 2018 to August 2025, we find a mean revision between the first estimate and the one published a year later of positive 0.1 percentage points. As our sample increases, we will move to a “final” estimate that is the one that is published three years later to improve comparability.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2026 revisions reflect those between the August 2026 and September 2026 vintages of quarterly estimates of volume business investment – this includes up to Quarter 2 (Apr to June) 2026.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026）
+  - 「example, 1999:Q1-vintage data (the most recent available at the time this paper was written) might」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「example, when the left-hand-side variable is 1990:Q1 GDP growth, all right-hand-side variables」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「For example, since 1990, the root-mean-square error of the Blue Chip consensus forecast of GDP」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「Except in the uninteresting case in which y(t)t is never revised, the Equation 3's error term has」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
+  - 「x(T)T and the sample mean of the x(t)t (t = 0, 1, ...T - 1). The simplest case is that in which x(T)T」（https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf）
 
 ## 名寄せ・突き合わせの前の鍵の棚卸し（キーごとの欠損率・複合キーの失敗例：同じビルの別会社）（entity matching key profiling missing rate composite key false merge）
 - 文脈：突き合わせ
@@ -6547,11 +6561,41 @@
 
 ## 競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり）（competitor revenue filed stated estimated two methods disagree factor of two customer count）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ14頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
-- 実例：記載なし（読んだ14頁・検索12回）
+- 手順・やり方：
+  - 「Revised language to clarify how to apply a taxpayer’s shared percentage of household income to standard expense allowances, revised example.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「If the vehicles are not owned jointly, the liable taxpayer would be allowed actual expenses paid for the vehicle they own. The percentage method can be applied if two vehicles are jointly owned, but the maximum expense allowed for the liable taxpayer will be the standard amount for one vehicle.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Revenue Officers may request FATCA data research on their assigned taxpayer case. To find out how to access FATCA data, see IRM 5.1.18.21 , FATCA Research.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「See IRM 5.1.18.22.1,Access to CKGE, for guidance on how to gain access to CKGE.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「To determine the value of closely held stock that is either not traded publicly or for which there is no established market, consider the following methods of valuing the company and assign a proportion of the company's value to the taxpayer's stock:」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Credit cards are generally considered a method of payment, rather than a specific expense. A taxpayer may be paying for necessary living expenses using cash or a credit card, e.g. food, clothing, gas, etc. Consequently, payments for the portion of the credit card debt reflecting necessary living expenses are provided for as allowable expenses under the national and local standards.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「- Depreciation is a method to deduct the purchase price or basis of an asset over its useful life.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「When determining equity in real estate, FMV of the property must be established. FMV is defined as the price a willing buyer will pay for the property in an arm’s length transaction with full knowledge of the relevant facts based on the property's current condition and use. The following methods may be used to establish FMV:」（https://www.irs.gov/irm/part5/irm_05-015-001）
+- 突き合わせ・推定：
+  - 「Address full compliance and ensure taxpayer is current with all filing and paying requirements, including federal tax deposits and estimated tax payments.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「When the taxpayer will liquidate the retirement plan, allow any penalty for early withdrawal and the current year tax consequence. Consider requiring the taxpayer to submit an estimated tax payment as applicable.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+- 一次情報の探し方：
+  - 「If appropriate consult with a Field Insolvency caseworker to review Schedules, Statement of Financial Affairs, Statement of Monthly Income and Means Test Calculation, and Other Court Documents such as motions, pleadings or filings from third parties.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Partnership Income is allocated to the partners based upon the percentages specified in the partnership agreement by filing Form 1065, U.S. Return of Partnership Income, with associated Schedule K-1s, Partner’s Share of Income, Deductions, Credits, etc. Schedule K-1 income is in turn reported on the partners’ income tax returns.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「An LLC is organized as a distinct legal entity under state law by filing articles of organization or a similar document with a designated state official.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Consider filing a notice of federal tax lien. See IRM 5.12, Federal Tax Liens.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Address full compliance and ensure taxpayer is current with all filing and paying requirements, including federal tax deposits and estimated tax payments.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+- 実例：
+  - 「Reformatted examples of expense verification to bullets.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Revised language to clarify how to apply a taxpayer’s shared percentage of household income to standard expense allowances, revised example.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Updated figures in examples.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Reformatted bullets into paragraphs, updated figures in examples.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「: This guidance contains procedures for analyzing a taxpayer’s financial condition for the purpose of determining the most appropriate case resolution for Collection employees to pursue. Following these procedures ensures the protection of taxpayer rights, emphasizes employee safety and protection, and leads to timely and effective case resolution consistent with the taxpayer’s ability to pay.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Revenue officers must follow IRM 5.1.10.3, Initial Contact Process, to schedule an initial investigative interview with a taxpayer or their representative to secure information and determine the appropriate case resolution, see IRM 5.1.10.3.2 , Initial Investigative Interview. When conducting the initial investigative interview, revenue officers should:」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Form 433-F cannot be used for Offer-in-Compromise cases or for cases designated as Abusive Tax Avoidance Transactions (ATAT).」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Substantiation can consist of credible verbal communication or written documentation received from the taxpayer. Both types of substantiation should be thoroughly documented in the case history.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Taxpayer's income dropped significantly from the prior year and taxpayer explains that he went through a divorce and is no longer claiming two incomes. Verbal substantiation supporting the drop in income should be documented in the case history.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Document the case file accordingly. Examples of items that may be requested for substantiation of expenses over the standard or to verify other necessary expenses include, but are not limited to:」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「If a Collection employee and taxpayer disagree about an economic hardship determination, the taxpayer should be referred to the Taxpayer Advocate Service. See IRM 13.1.7.2, Introduction to TAS Case Criteria.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Explain the Offer in Compromise provisions. In cases where an Offer in Compromise appears to be a viable solution to a tax delinquency, the IRS employee assigned the case will discuss the compromise alternative with the taxpayer and, when necessary, assist in preparing the required forms. See IRM 5.8.1, Offer In Compromise, Overview.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Identify assets which can be pledged as security (For example, equipment or accounts receivable that may be factored.)」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「In some cases, payments on expense items are not due in regular monthly increments. Average necessary living expense items with varying monthly payments over 12 months.」（https://www.irs.gov/irm/part5/irm_05-015-001）
+  - 「Examples of questions to ask business taxpayers include, but are not limited to:」（https://www.irs.gov/irm/part5/irm_05-015-001）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
 
 ## 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）（revision triangle real-time dataset noise versus news test mean revision t-test Eurostat）
 - 文脈：手順・やり方
@@ -7683,8 +7727,80 @@
 
 ## 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）（reconcile conflicting market data definitions scope period revisions evidence ledger）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「Grok Botは、2026年8月にxAIとCursorが共同で公開した自律型AIエージェントです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「架空メール・架空ECデータで結果を自己採点する方法」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「複数Botに仕事を分ける「Swarm」の引き継ぎ手順」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「25本の依頼文と3つのケーススタディで、手元にすぐ使える型を持ち帰る」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「Grok Botとは、xAIとCursorが共同で提供する、ブラウザーやアプリを自分で操作して仕事を進める自律型のAIエージェントです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「ここで大切なのは、立派な管理方法よりも、何を渡したら何が返ったかを見失わないことです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「これを行うと、うまくいった理由を説明しやすくなり、担当者が変わったときにも手順を渡せます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「第8章で確認済みの手順を保存・定期化し、第9章の点検票で運用を見直しましょう」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「スキルは作業方法を保存した手順、ルーティンは実行する時刻や条件の設定、グループは複数の担当者が一つの成果を作るための会話の場所を指します」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「そこでこの記事は、準備、単独作業、情報整理、数値分析、分担、デザインへの応用、手順の保存、運用の順にまとめました」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「プラグインは外部サービスへの接続、スキルは作業方法の保存、ルーティンは実行する時刻や条件の設定です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「起動後の「Get started」からCursorアカウントで認証する（公式手順）」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「保存方法はアプリ版の実画面で確認してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「分類方法の検討と、実メールへの適用を同じメッセージで依頼しないほうが、何を変えたかを確認しやすくなります」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「Gmailへの接続と、5件だけ読ませる手順」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+- 突き合わせ・推定：
+  - 「架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「実機検証はケース1のみで、ほかの出力例はすべて執筆時の想定アンサーです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「ただし、今回の実機検証はWindows版です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「Bot作成から計算・修正・週次報告までの実行記録を掲載していますが、確認依頼の下書き作成そのものは今回の実機検証の対象外です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「いずれも教材用の演習と完成例で、Grok Botでの実機検証はまだ行っていません」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「実機検証済みなのは、2026年9月5日、記事制作者のWindows環境で、CodexのComputer UseによりGrok Botを操作した部分です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「実際の返答を「実機検証」の章へ転記しています」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「実機未検証なのは、ケース2・3、ケース1の確認依頼作成、インストールと初回認証、実サービスへの接続・書き込み、定期実行、複数Bot連携などです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「画面が小さくても、数値や操作名は本文で照合できるようにしています」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「解答と照合することで、読者自身が確認の観点を身に付けるためのものです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「人が元資料と照合できる成果になったかを基準にします」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「興味のある応用章から選んでも構いませんが、入力と結果を照合する基本は第2章で身に付けてください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「重要なのは量よりも、矛盾がないことです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「実務では文脈から推定する場合もありますが、この演習の条件は「本文にない年月日を補わない」です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「推定が役立つ場面でも、確定情報とは分けて表示させる必要があります」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+- 一次情報の探し方：
+  - 「この記事の解答は、AIが出した文章をそのまま採用してよいという意味ではありません」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「本文「2026年9月7日17時までに採用する案をご返信ください」」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「返信案が自然でも、資料にない納期や値引きを約束していたら採用できません」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「この記事では統計的な効果測定を保証しませんが、少なくとも変更日と変更内容、同時に変えた条件を記録するところから始められます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「リンクが返った段階と、変更が採用された段階は別です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「提案が採用された割合は一つの参考になりますが、採用した判断そのものが正しかったかは別です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「確認が甘ければ採用率だけ高くなることもあります」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「案を採用する前に元ページを確認し、価格・広告・在庫を同時に変えたかも記録します」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「入力：input／作成中：drafts／点検結果：review／人が採用した版：approved／実行記録：logs」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「採用者、対象、変更内容、確認日時を別に記録する案にします」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「同じ情報の重複説明を省き、却下された案と現在採用している案を分けます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「人が決めること：確認担当、回答期限、採用する改善一件」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+- 失敗・落とし穴：
+  - 「説明欄の禁止事項は作業方針であり、技術的なアクセス権を隔離する設定ではない点に注意してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「逆に、毎回守る必要がある「原文にない期限は補わない」が会話の奥に埋もれてしまうと、後から見直しにくくなるので注意してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「「6件中5件だから本番で問題ない」とは判断せず、失敗した条件を直してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「添付を実際に確認していない演習なので、添付の金額や発行者を読み取ったように書くことも誤りです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「：個人情報保護委員会は2023年6月2日、生成AIサービスの利用に関する注意喚起を出しています」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「後から件数が違ったときに、取得失敗なのか単位の違いなのかを切り分けられます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「知らない数百件をいきなり分類すると、誤りを発見するために元の数百件を読む必要があります」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「個人情報保護法の注意点は第3章を参照してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「「全部もう一度」の前に、誤りの種類を伝えると同じ間違いを探しやすくなります」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「一回の仕事が成功する前に定期実行を作ると、誤りも繰り返されます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「担当Bot、入力の置き場所、データの日付、変更しない操作、失敗時の扱いを明記してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「：正しい例と、注意する例があるか」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「今回の誤り：配布予定日を返信期限として扱いました」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「ただし、変化なしの通知を減らすことと、失敗を隠すことは別です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「確認作業が増え続ける、元資料に戻れない、期限や金額の誤りが繰り返される場合は、自動化の範囲を狭めます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+- 実例：
+  - 「返ってきた結果を自分で点検できて、はじめて実務に使えるようになります」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「この記事は、楽天やAmazonなどのモールや自社サイトを運営するEC運営者・店舗担当者が、Grok Botに「1つの仕事」を渡し、その結果を自分で点検する力を身につけるための演習集です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「架空メール・架空ECデータで結果を自己採点する方法」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「25本の依頼文と3つのケーススタディで、手元にすぐ使える型を持ち帰る」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「ただし、返ってきた結果を人が点検してはじめて、実務で使える成果物になります」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「実機検証はケース1のみで、ほかの出力例はすべて執筆時の想定アンサーです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「ケース1では、日用品3商品の点検表、週次報告、確認依頼の下書きを扱います」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「ケース2は問い合わせ6件の対応表、返信案6通、FAQ候補です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「ケース3は商品紹介文1本、SNS案2本、画像案3件、15秒動画台本1本です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「ケース1のBot作成、入力確認、3商品の計算、確認事項の抜けの修正、会話内の週次報告を確認しています」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「実機未検証なのは、ケース2・3、ケース1の確認依頼作成、インストールと初回認証、実サービスへの接続・書き込み、定期実行、複数Bot連携などです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「公式資料や動画を参考にした説明と、実行して確認した結果は、この記事の中で区別しています」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「例えば「2026-09-05_メール分類_01」のようにします」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「例えば「分類が良くなった」と感じても、入力したメールが違えば、指示を直した効果なのか、簡単なメールに変わっただけなのか分かりません」（https://note.com/ai_love_009/n/n2f8c22cb0191）

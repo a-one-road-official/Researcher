@@ -1,0 +1,3169 @@
+{
+ "name": "DMG森精機株式会社",
+ "aliases": [
+  "DMG森精機",
+  "DMG MORI"
+ ],
+ "context": "金属AM装置（LASERTEC）",
+ "researched_at": "2026-11-06T16:42:36.557205+00:00",
+ "official_url": "https://www.dmgmori.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1948年10月26日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6141",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1948年10月26日",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者氏名",
+    "value": "森　雅彦",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6141",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "451 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6141",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "14,026名（連結）（2025年12月31日時点）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都江東区潮見2丁目3-23",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "第二本社所在地",
+    "value": "奈良県奈良市三条本町1002番",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "5,150億円（2025年1-12月実績）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "生産計画から準備、生産、モニタリング、メンテナンスまでお客様の課題を解決するデジタルソリューションをご紹介",
+    "url": "https://www.dmgmori.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "人手不足や品質・コスト・納期といった重要課題を解決し、企業の競争力を高めるための“製造業DX”について、基礎知識、進め方、成功事例をご紹介します",
+    "url": "https://www.dmgmori.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "品質向上と生産コストの最適化に貢献するソフトウェア",
+    "url": "https://www.dmgmori.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "Road to Front Runner Vol. 86「株式会社野村工具製作所」複合加工機を使った工程集約・納期短縮・コストダウンの達人",
+    "url": "https://www.dmgmori.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "MXを推し進め、製造業はもとより人々や社会が抱える課題の解決に深く関わりたい、製造業の未来や技術革新の動向を広く共有することを目的としたオウンドメディアです",
+    "url": "https://www.dmgmori.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORIグループのマテリアリティ（優先すべき重要課題）を制定し、公表しています",
+    "url": "https://www.dmgmori.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブ・マニュファクチャリング | 加工ノウハウ/ナレッジ | DMG MORI",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "お客様事例 | 加工ノウハウ/ナレッジ | DMG MORI",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=customer_case",
+    "pass": 1
+   },
+   {
+    "quote": "Road to Front Runner Vol. 86「株式会社野村工具製作所」複合加工機を使った工程集約・納期短縮・コストダウンの達人",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=customer_case",
+    "pass": 1
+   },
+   {
+    "quote": "加工事例 | 加工ノウハウ/ナレッジ | DMG MORI",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "このように御所実業高校では、課題研究が進化し、技術力だけでなく、生徒の意識も変わってきました",
+    "url": "https://www.dmgmori.co.jp/topics_detail11/id=9390",
+    "pass": 1
+   },
+   {
+    "quote": "「当時は5軸加工に対して「難しい」というイメージが強く、正直、不安はありました",
+    "url": "https://www.dmgmori.co.jp/topics_detail11/id=9390",
+    "pass": 1
+   },
+   {
+    "quote": "「実習課題をDMG森精機に立ち上げてもらい、それを実施するためのテキストもありましたので、それを活用して複数の先生で実習をどんどん回していくことで、先生がだんだんと工作機械の操作やプログラミングに慣れていくことができました",
+    "url": "https://www.dmgmori.co.jp/topics_detail11/id=9390",
+    "pass": 1
+   },
+   {
+    "quote": "例えば御所実業高校では、課題研究授業の生徒にまずデジタルアカデミーの「機械加工ベーシック」の受講を勧めています",
+    "url": "https://www.dmgmori.co.jp/topics_detail11/id=9390",
+    "pass": 1
+   },
+   {
+    "quote": "「生徒の自主性を延ばす課題研究にはデジタル授業は絶対に必要です",
+    "url": "https://www.dmgmori.co.jp/topics_detail11/id=9390",
+    "pass": 1
+   },
+   {
+    "quote": "実際の工作機械を使った加工はさまざまなリスクがあり、素材や工具も限られているため、なかなか自由にチャレンジさせることはできません",
+    "url": "https://www.dmgmori.co.jp/topics_detail11/id=9390",
+    "pass": 1
+   },
+   {
+    "quote": "DX時代に求められる新しい学びVol.1「最新工作機械で挑む課題研究」",
+    "url": "https://www.dmgmori.co.jp/topics_detail11/id=9390",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORIアカデミーでは、40年にわたりお客様の人材育成をサポートしてきました",
+    "url": "https://www.dmgmori.co.jp/topics_detail11/id=9390",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機の5軸加工機とデジタルアカデミーeラーニングを活用した課題研究を2018年から進めてきた御所実業高校",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9389",
+    "pass": 1
+   },
+   {
+    "quote": "「製品レベルの品質で加工するのは本当に大変でしたが、学生が全体の一部を担っていること、そして我々が製作した部品が最終製品として組み上がること、課題研究とは異なる分業としての製造を体験する貴重な機会でした",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9389",
+    "pass": 1
+   },
+   {
+    "quote": "DX時代に求められる新しい学びVol.1「最新工作機械で挑む課題研究」 | お客様事例 | DMG MORI",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "DX時代に求められる新しい学びVol.1「最新工作機械で挑む課題研究」",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県御所市にある奈良県立御所実業高等学校では、機械工学科、都市工学科、薬品科学科、電気工学科、環境緑地科の5科を設置し、産業界を担う人材の育成に努めています",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "御所実業高校では、3年生が自ら研究テーマを設定し、1年をかけて専門技術を深化させていく「課題研究」という授業があります",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "授業を担当している機械科教員の大西幸宏教諭へのインタビューを元に、同校の課題研究の進化とその過程で見られた生徒の変化を全3話に分けて紹介します",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "初めてNC工作機械を使用：最初の課題研究テーマ①「はんこ」",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機の5軸加工機とターニングセンタを導入直後の2018年、NC工作機械を使用すること自体が初めての中、最初に取り組んだ課題が「はんこ」の加工です",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "「工作機械の納入時期の関係で、設置後すぐに課題研究を始める必要がありました",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "同時5軸加工への進化：課題研究テーマ②「キャラクター造形」",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "切削段階で綺麗に仕上げて、手作業を無くすことがいかに重要かということを生徒と一緒に身をもって学ぶことができました」と大西教諭は次なる課題を発見しました",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "「形を作る」から「産業を考える」課題研究へ：",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "課題研究テーマ③「タイヤホイール模型」、 課題研究テーマ④「タンブラー金型」",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "自由曲面形状の加工が可能になったことで、課題研究のテーマはさらに発展していきました",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "課題研究テーマ⑤「ラグビーボールと手」、課題研究テーマ⑥「野球グローブ」",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "加工が難しい箇所もあったそうだが、「加工自体はこれまでの課題研究の応用でしたので、プログラム作成から加工まで生徒自身がやり遂げました」と生徒の成長に目を細めます",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、技術レベルが上がるにつれ、新たな課題も見つかってきました",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001 認証取得",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001認証取得",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "OHSAS18001認証取得",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "人材開発センタ設立＜現DMG森精機アカデミー＞",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、保全に精通した人材の確保は多くのお客様にとって課題であり、情報量の多いマニュアルから必要な情報を探し出すまでに時間を要する場合もありました",
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形特有の熱応力や積層痕、未溶融の金属粉末が溜まるなどの課題を克服した高度な制御技術が認められます",
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261014_dreamcontest2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "その理由は、金属3Dプリンタとしては、両方式が実用化レベルに達しており、技術的成熟度も高いためだという",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、中心のロールについては安価な材料を用い、必要な箇所だけAMで盛ることで、より速く低コストで製造することが可能になった",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "データで見るAMの品質保証、DMG森精機の分析結果とは",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンター需要に沸く製造業、リスクは？",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機、金属3Dプリンター「3～5年で投資回収できる」 日本に需要 | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機、金属3Dプリンター「3～5年で投資回収できる」 日本に需要",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "最初は裾野を広げるために小型かつ安価で設計したが、やはり量産の機械を造りたいという気持ちが強かった",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "サムスン電子とAMDが急接近、AIインフラの課題解消へ強力タッグ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "第一三共、創薬プロセスを量子技術で高速化 開発期間とコスト削減に期待",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "福井県工事でダンプ運搬の施工単価を過大算定、富士通Japanがデータ誤入力",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "工事写真の改ざんどう防ぐ、生成AIリスクに要注意 技術力低下に懸念も",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "箇所の補修などの付加加工と、切削除去加工の工程集約の需要が高まっている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界での新規パーツ開発の他、石油ガス産業やプラントエンジニアリングなどの領域でも補修やメンテナンスでの需要拡大",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "共に効率性を高め、コストを削減し、イノベーションを加速する新世代の産業アプリケーションを可能にする理想的なパートナーシップを目指しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "pass": 3
+   },
+   {
+    "quote": "テクニウムはこれらのソリューションを既存の周辺機器製品と統合し、お客様の製造課題をより効果的に解決します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "pass": 3
+   },
+   {
+    "quote": "この契約を通じて、両社は顧客の生産性向上、運用コストの削減、リードタイムの短縮を目指すとともに、日本の産業分野全体における3Dプリンティング技術のより広範な採用を促進します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社の製品には、SLAおよびSLS 3Dプリンター、後処理ソリューション、最高クラスのソフトウェア、および数十の用途に適した45以上の材料が含まれます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)TOP",
+    "url": "https://www.dmgmori.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)TOP",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "【お客様事例】金属積層造形機LASERTEC 30",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "「積層造形加工 × CAM導入のベネフィット（NX CAM）」",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "で金属積層造形した部品を実装したソーラーカーが3,000km耐久レースへ出場！",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "パウダーベッド方式の金属積層造形：NXを活用した包括的なプロセスチェーン",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "「レーザ金属積層造形と旋削・ミーリング加工をワンチャッキングで実現する5軸複合加工機 LASERTEC 3000",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=customer_case",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=customer_case",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)TOP",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=customer_case",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)TOP",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "ロケットノズル：AM技術による大型ワークの積層造形",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "Road to Front Runner Vol.8「東金属産業株式会社」3Dプリンタ活用の達人～3Dプリンタ導入による新規事業参入～",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ) | 製品 | DMG MORI",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)TOP",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形と旋削・ミーリングをワンチャッキングで実現",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ発振器を最大 4 台搭載可能な高速・高精度レーザ金属積層造形機",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "DED方式のレーザ金属積層造形とミーリング加工を融合",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ金属積層造形と5軸ミーリング加工の融合",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)TOP",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "超音波/レーザ加工機：アディティブマニュファクチャリング(3Dプリンタ)：",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形と旋削・ミーリングをワンチャッキングで実現",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "DED方式のレーザ金属積層造形とミーリング加工を融合",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ金属積層造形と5軸ミーリング加工の融合",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/machine/?id=6297",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp/products/machine/?id=6297",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)TOP",
+    "url": "https://www.dmgmori.co.jp/products/machine/?id=6297",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=15",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=15",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)TOP",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=15",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂） | 周辺機器｜DMG MORI",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)TOP",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）（2）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "光造形3Dプリンタ「Form 4L」",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "大型の高精度造形を実現する光造形3Dプリンタ",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "光造形3Dプリンタ「Form 4」",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "高品質な造形を実現する光造形3Dプリンタ",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂） | 周辺機器｜DMG MORI",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)TOP",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）（2）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "光造形3Dプリンタ「Form 4L」",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "大型の高精度造形を実現する光造形3Dプリンタ",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "光造形3Dプリンタ「Form 4」",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "高品質な造形を実現する光造形3Dプリンタ",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=15",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブマニュファクチャリング(3Dプリンタ)",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=15",
+    "pass": 1
+   }
+  ],
+  "素材": [
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "チタン、ニッケル系合金などの難削材にも対応",
+    "url": "https://www.dmgmori.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブ・マニュファクチャリングとは、金属を積層して3D形状を造形する最新の技術です",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "パウダーノズル方式は、金属材料粉末をノズルから供給して積層し、そこにレーザを照射して粉末材を溶融し焼結させます",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "積層と溶融を同時に行うため造形時間が早く、異なる金属材料粉末の積層や、インペラやブレードといった複雑形状で高付加価値製品の補修に適しています",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "【お客様事例】金属積層造形機LASERTEC 30",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "で金属積層造形した部品を実装したソーラーカーが3,000km耐久レースへ出場！",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "パウダーベッド方式の金属積層造形：NXを活用した包括的なプロセスチェーン",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "「レーザ金属積層造形と旋削・ミーリング加工をワンチャッキングで実現する5軸複合加工機 LASERTEC 3000",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=customer_case",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "アルミフレーム：広いテーブルスペースを利用したワーク2個取り加工",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "Road to Front Runner Vol.8「東金属産業株式会社」3Dプリンタ活用の達人～3Dプリンタ導入による新規事業参入～",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形と旋削・ミーリングをワンチャッキングで実現",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ発振器を最大 4 台搭載可能な高速・高精度レーザ金属積層造形機",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "DED方式のレーザ金属積層造形とミーリング加工を融合",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ金属積層造形と5軸ミーリング加工の融合",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形と旋削・ミーリングをワンチャッキングで実現",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "DED方式のレーザ金属積層造形とミーリング加工を融合",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ金属積層造形と5軸ミーリング加工の融合",
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/machine/?id=6297",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=15",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂） | 周辺機器｜DMG MORI",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）（2）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂） | 周辺機器｜DMG MORI",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）（2）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=15",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=161",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形と旋削・ミーリングをワンチャッキングで実現",
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ発振器を最大 4 台搭載可能な高速・高精度レーザ金属積層造形機",
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "DED方式のレーザ金属積層造形とミーリング加工を融合",
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ金属積層造形と5軸ミーリング加工の融合",
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=113",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形と旋削・ミーリングをワンチャッキングで実現",
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "DED方式のレーザ金属積層造形とミーリング加工を融合",
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ金属積層造形と5軸ミーリング加工の融合",
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=596",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9389",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ（樹脂）",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形特有の熱応力や積層痕、未溶融の金属粉末が溜まるなどの課題を克服した高度な制御技術が認められます",
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261014_dreamcontest2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "加工した銅の表面に、材料特有の化学的特性をうまく活用して着色を行い、美しいデザインを実現しています",
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261014_dreamcontest2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタの実用化が加速 DMG森精機とマザックが語るDED方式活用例：FAイベントレポート（1/3 ページ） - MONOist",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの実用化が加速 DMG森精機とマザックが語るDED方式活用例",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの実用化が製造現場で進んでいる",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "DED（指向性エネルギー堆積法）方式の金属積層造形（Additive Manufacturing：以下、AM）の適用例が増えている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "その理由は、金属3Dプリンタとしては、両方式が実用化レベルに達しており、技術的成熟度も高いためだという",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに造形途中で金属の種類を変更でき、バイメタルや傾斜機能材料の造形にも対応する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "LASERTEC 3000 DED hybridは複合加工技術と金属積層技術を1台に融合し、切削加工と金属積層造形を1台で行うDED方式のレーザ金属積層造形機です",
+    "url": "https://www.youtube.com/watch?v=XOuCPit3JOc",
+    "pass": 3
+   },
+   {
+    "quote": "●金属部品の修復が可能 破損個所の切削・積層・仕上げ加工をワンチャッキングで実現",
+    "url": "https://www.youtube.com/watch?v=XOuCPit3JOc",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機、金属3Dプリンター「3～5年で投資回収できる」 日本に需要 | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機、金属3Dプリンター「3～5年で投資回収できる」 日本に需要",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機で金属3Dプリンター事業を主導する廣野陽子氏は、更なる性能向上に挑戦したいと語った（写真：今紀之）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "その中で同社が提案するのは切削や研削の工程に金属3Dプリンター「AM（Additive Manufacturing、金属付加製造）」の活用だ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機、5軸複合加工機ベースのレーザー金属3Dプリンターを開発 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機、5軸複合加工機ベースのレーザー金属3Dプリンターを開発",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   }
+  ],
+  "参入の時期と形": [
+   {
+    "quote": "生成AIが工作機械の不具合診断から解決策提示までを支援 my DMG MORI「サービスエージェント」提供開始",
+    "url": "https://www.dmgmori.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Road to Front Runner Vol.5「株式会社シャルマン」医療器具分野への新規参入",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "Road to Front Runner Vol.8「東金属産業株式会社」3Dプリンタ活用の達人～3Dプリンタ導入による新規事業参入～",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "「実習課題をDMG森精機に立ち上げてもらい、それを実施するためのテキストもありましたので、それを活用して複数の先生で実習をどんどん回していくことで、先生がだんだんと工作機械の操作やプログラミングに慣れていくことができました",
+    "url": "https://www.dmgmori.co.jp/topics_detail11/id=9390",
+    "pass": 1
+   },
+   {
+    "quote": "同校では、2017年に奈良県とDMG森精機が締結した「連携と協力に関する包括協定」の一環として当社より無償貸与した最新の工作機械（5軸加工機とターニングセンタ）を実習に使用しており、2020年にはDMG森精機デジタルアカデミーのeラーニングを採用し、DX活用を開始しました",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIが工作機械の不具合診断から解決策提示までを支援 my DMG MORI「サービスエージェント」提供開始",
+    "url": "https://www.dmgmori.co.jp/corporate/news/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機、Noetra株式会社へ出資、国産AI基盤技術の発展を支援",
+    "url": "https://www.dmgmori.co.jp/corporate/news/",
+    "pass": 1
+   },
+   {
+    "quote": "工作機械のキーコンポーネンツ 「turnMASTER」、「turretMASTER」、「ERGOline X」 安心の5年間保証を開始",
+    "url": "https://www.dmgmori.co.jp/corporate/news/",
+    "pass": 1
+   },
+   {
+    "quote": "奈良県大和郡山市において、繊維機械の製造・販売開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "MORI SEIKI U.S.A., INC. 設立＜現DMG MORI U.S.A., INC.＞",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "伊賀第1工場本格稼働開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良第1工場本格稼働開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "伊賀第2工場稼働開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "伊賀第2工場精密棟操業開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル工学研究所（DTL）設立＜現DMG MORI Digital Technology Laboratory Corporation＞",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "MORI SEIKI SHANGHAI CO., LTD. 設立",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "24時間365日サービスサポート開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "人材開発センタ設立＜現DMG森精機アカデミー＞",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "3月 DMGと森精機の資本業務提携開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "統一操作盤MAPPSを全面リニューアル、MAPPS Ⅳとして新機種より搭載開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "（株）森精機セールスアンドサービス設立＜現DMG森精機セールスアンドサービス（株）＞",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "欧州全域で共同販売、サービスを開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORI AGと連結企業として一体経営開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良事業所にシステムソリューション工場を設立",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "LASERTEC 30 SLM販売開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "テーブル一体型バイス ビルトインバイス販売開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "DMU 50 3rd Generation販売開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "主軸MASTERシリーズ3年間無償保証開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルパーツセンタ開所、DMP 70販売開始、",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "LASERTEC 12 SLM販売開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "LASERTEC 30 DUAL SLMを販売開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "LASERTEC 6600 DED hybridを販売開始",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "フロンテン工場（ドイツ）にmonoBLOCKエクセレンスセンタを設立",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIが工作機械の不具合診断から解決策提示までを支援 my DMG MORI「サービスエージェント」提供開始 | ニュース | DMG MORI",
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORI「サービスエージェント」提供開始",
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORI」において、生成AIを活用した新機能「サービスエージェント」の提供を開始しました",
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html",
+    "pass": 1
+   },
+   {
+    "quote": "「サービスエージェント」は、提供開始時後も継続的に機能拡充を進めていきます",
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度中間配当金支払い開始日：2026年9月11日",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスがPLC専用AIエージェントを発売へ、自然文でラダー作成",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "すぐに再生が開始しない場合は、デバイスを再起動してください",
+    "url": "https://www.youtube.com/watch?v=XOuCPit3JOc",
+    "pass": 3
+   },
+   {
+    "quote": "新会社を設立し、AM事業を強化する（出所：日経クロステック）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "E2E自動運転「業界地図」、AIモデルなど注目4分野を総覧 テスラ猛追へ参入増",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "3DプリンティングリーダーのFormlabs、DMG森精機子会社のテクニウム社と提携 | Formlabs株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "pass": 3
+   },
+   {
+    "quote": "3DプリンティングリーダーのFormlabs、DMG森精機子会社のテクニウム社と提携",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "pass": 3
+   },
+   {
+    "quote": "– DMG森精機株式会社（本社：東京都江東区、代表取締役社長：森 雅彦）の子会社で周辺ソリューション事業を担当するテクニウム株式会社（本社：東京都、代表取締役社長：ブルーメンシュテンゲル 健太郎、以下テクニウム）は、高性能3DプリンティングソリューションのプロバイダーであるFormlabs（本社：米国マサチューセッツ州、CEO：マキシム・ロボフスキー）との日本における販売代理店契約を本年4月24日に締結したことを発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "pass": 3
+   },
+   {
+    "quote": "この提携は、DMG MORIグループの広範なネットワークとテクニウムの周辺ソリューションにおける専門知識を活用し、日本の製造業顧客に先進的なアディティブマニュファクチャリング機能を提供します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスがPLC専用AIエージェントを発売へ、自然文でラダー作成",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "21年10月1日に発売した",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "E2E自動運転「業界地図」、AIモデルなど注目4分野を総覧 テスラ猛追へ参入増",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "ですから、AMイノベーションセンタは、当社の工作機械に使用しているAM部品について、その設計者らがアイデアを得たときに皆でワイワイ相談しながら試作したり、どうつくるのが一番安くて良いものができるかを検討したりする場をイメージして設立しました",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機Additive はAMイノベーションセンタと同じタイミングの2025 年4 月に第二本社内に立ち上げました",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは新技術の開発へ投資する面が多かったのですが、昨今では引き合いや具体的な造形の案件がかなり増えてきたので、ここが新会社立ち上げのタイミングと判断しました",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "ここ数年になって環境対応の有無が企業価値に直結したり、スタートアップだと環境対応がなければ出資者が集まらなかったりすることもあって、環境対応面から導入したいという声もいただいています",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスがPLC専用AIエージェントを発売へ、自然文でラダー作成",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機は昨年、2種類の金属3Dプリンターを相次いで発売した",
+    "url": "https://monoque.jp/columns/dmgamam/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、昨年発売したLASERTEC 30 SLM 3rd Generationはこれまでと大きく異なると同社AM部AM技術営業グループの萩森紗季グループ長は話す",
+    "url": "https://monoque.jp/columns/dmgamam/",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "を活用した宇宙産業向け部品の生産 | LIGHTWAY（ドイツ）",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Road to Front Runner Vol.5「株式会社シャルマン」医療器具分野への新規参入",
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "pass": 1
+   },
+   {
+    "quote": "Road to Front Runner Vol. 32「株式会社エフアンドエム」5軸加工とCAMによる金型加工の達人",
+    "url": "https://www.dmgmori.co.jp/products/machine/?id=6297",
+    "pass": 1
+   },
+   {
+    "quote": "課題研究テーマ③「タイヤホイール模型」、 課題研究テーマ④「タンブラー金型」",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "曲面形状だけでなく、位置決めピンと穴の精度、金型として成立させるための分割構造など「製品として成立させるための加工」を学ぶことができたテーマとなりました",
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "pass": 1
+   },
+   {
+    "quote": "GENIAC事業に採択、生産設備データエコシステム構築と製造フィジカルAI基盤の研究開発を推進",
+    "url": "https://www.dmgmori.co.jp/corporate/news/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネスケール 奈良事業所 半導体製造における基幹要素 レーザスケールの新工場を稼働",
+    "url": "https://www.dmgmori.co.jp/corporate/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2026年8月より本事業における研究開発に着手しています",
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html",
+    "pass": 1
+   },
+   {
+    "quote": "厳正な審査の結果、全応募作品63点の中から、産業部品加工部門より4点、試作・テスト加工部門より7点、芸術造形加工部門より4点、先端加工部門より4点、アカデミック部門より5点を選出しました",
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261014_dreamcontest2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "DED（指向性エネルギー堆積法）方式の金属積層造形（Additive Manufacturing：以下、AM）の適用例が増えている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "使い方としては一部だけ盛ることが多く、金型の補修にも使われる",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタグループでは、4気筒エンジンのダイカスト金型の補修にAM複合加工機を適用した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来は、補修前の金型を測定室で測定し、その後加工室に持ち込んで摩耗部分に対して切削、溶接を繰り返すため、非常に時間がかかっていた",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "リードタイムが短くなっただけでなく、金型の寿命も延び20万ショットを問題なく耐えた",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機部品のポンプシャフトは、以前はベアリングが摩耗すると1本丸ごと廃棄されていた",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「金型の補修がキラーアプリになることは分かっていたため、次にロータリーダイに目を向けた」（廣野氏）",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田機械、独ドレスデンに半導体搬送システムの教育センター新設",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "13,601回視聴 • 2021/09/29 • #半導体 #コーティング #DMG森精機",
+    "url": "https://www.youtube.com/watch?v=XOuCPit3JOc",
+    "pass": 3
+   },
+   {
+    "quote": "当時は三菱重工業で歯車機械を開発する部署にいたが、その商品化に当たってパウダーノズル（DED：Direct Energy Deposition）方式の3Dプリンター「LAMDA」を造り上げた",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "最初は裾野を広げるために小型かつ安価で設計したが、やはり量産の機械を造りたいという気持ちが強かった",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "「液体電池」を海上輸送へ、元ソニーの開発者 エネルギー密度はLIB並み",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "繊維から宇宙へ、セーレン 「できると直感」元複合機エンジニアの読み",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "元プレステ開発者が挑む AI半導体新興LENZO、藤原CEO「寄り道しない」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "LG、家電への独自AI半導体搭載を加速 クルマやロボ向けに触手か",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサス、半導体設計全体をAIエージェント化 全製品に適用へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "iPhone 18 Pro分解、「中身は別物」 半導体チップの冷却優先に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLab NEWS編集部でも、半導体エレクトロニクス、医療、航空宇宙など、さまざまな分野の製造現場で導入事例をご紹介してきた",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、AM技術を採用した金属3Dプリンターは市場としての期待感はあるものの高価であることから、航空機関連や宇宙関連など、高付加価値製品への適用に限定されてきた経緯がある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界での新規パーツ開発の他、石油ガス産業やプラントエンジニアリングなどの領域でも補修やメンテナンスでの需要拡大",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、自動車業界でもEV（電気自動車）化などで製造工程が大きく変わる中、工程集約を進める動きが広がっている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "DED（Directed Energy Deposition／指向性エネルギー堆積法）方式のレーザー金属積層造形機",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙探査を推進する3Dプリント ロケットノズルを開発 ― NASA",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "マサチューセッツ州サマービルに本社を置き、世界中にオフィスを持つFormlabsは、エンジニア、デザイナー、医療提供者、製造業者、意思決定者が選ぶプロフェッショナル3Dプリンターです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機業界や金型修理などの領域で着実に成長を重ねており「2025年には500億円の売上高を目指す」（DMG森精機 取締役社長 森雅彦氏）としている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形機への取り組みについてDMG森精機 取締役社長 森雅彦氏は「航空機部品、鍛造品の修理、金型の修理、エンジンの修理などで着実に広がっている」と手応えについて語る",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "「単なる試作機器や製造設備で終わらせないためには？」――今、求められる3Dプリンタの真価と進化",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "作られるモノ（対象）のイメージを変えないまま、従来通り、試作機器や製造設備として使っているだけでは、3Dプリンタの可能性はこれ以上広がらない",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "「第28回日本国際工作機械見本市（JIMTOF2016）」の特別講演で、「TNGA（Toyota New Global Architecture）」やエコカー戦略を支える生産技術について、トヨタ自動車 パワートレーンカンパニー ユニット生産技術領域 常務理事の近藤禎人氏が語った",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田機械、独ドレスデンに半導体搬送システムの教育センター新設",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMの方式は、母材に吹き付けた金属粉末をレーザーで溶融する「指向性エネルギー体積法（Direct Energy Deposition）」を採用している",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサス、半導体設計全体をAIエージェント化 全製品に適用へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "LG、家電への独自AI半導体搭載を加速 クルマやロボ向けに触手か",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "iPhone 18 Pro分解、「中身は別物」 半導体チップの冷却優先に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "新設の「AMイノベーションセンタ」から量産への適用を見据えたAM技術を展開―DMG森精機 - 工場マガジンラック｜日刊工業新聞社",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "新設の「AMイノベーションセンタ」から量産への適用を見据えたAM技術を展開―DMG森精機",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "切削加工と積層造形を融合したハイブリッド加工機や、加工プロセスの最適化、さらにはユーザーの量産適用を見据えたトータルソリューションまでを一貫して展開し、AMを「使える生産技術」へと推し進めている",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "インベンションはゼロから1 を生み出す「発明」を意味しますが、そうして生まれたものを量産の実現までコツコツと進めていくことまでは含んでいません",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "AMイノベーションセンタの名称には、誰かがゼロから生み出したアイデアをイノベーション（革新）によって一緒になって具現化して、量産につなげていこうという思いが込められています",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "ですから、AMイノベーションセンタは、当社の工作機械に使用しているAM部品について、その設計者らがアイデアを得たときに皆でワイワイ相談しながら試作したり、どうつくるのが一番安くて良いものができるかを検討したりする場をイメージして設立しました",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "AMというと米国や欧州で広がっているイメージがあって、実際これらの国々ではAMが活況なのですが、日本でもわれわれとともに量産に向けてさまざまな試験やデータ収集などをコツコツ行ってきたお客様がいて、ようやくここ数年で導入が進み始めたと感じています",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "米国はまずやってみるというのは早いですが、できたものを量産へもっていくのに時間がかかっています",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "同様の理由で向いているのが部品や金型の補修です",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "修士課程修了後は三菱重工業へ入社し、工作機械の設計・開発に携わる中でAM技術に出会いました",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "2009 年 三菱重工業㈱ 入社",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "半導体「その時に備える」自動車「“工程集約”が必要」",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体や航空、宇宙、防衛、医療などを伸ばしていく方針を出しています",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、自動車産業はどのように見ていますか",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体業界は、微細化と積層化という方向性自体は出ており、5年先くらいまでは見えている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "DMG森精機、Noetra株式会社へ出資、国産AI基盤技術の発展を支援",
+    "url": "https://www.dmgmori.co.jp/corporate/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家の皆様へ | DMG MORI",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家の皆様に、DMG森精機をより理解していただけますよう、さまざまな情報をご用意しています",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "期末配当（12月31日確定）は3月下旬、中間配当（6月30日確定）は9月中旬に支払われますが、具体的な支払日や金額は定時株主総会（3月開催）や取締役会の",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ここ数年になって環境対応の有無が企業価値に直結したり、スタートアップだと環境対応がなければ出資者が集まらなかったりすることもあって、環境対応面から導入したいという声もいただいています",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6141",
+    "pass": 3
+   },
+   {
+    "quote": "一方、親会社の所有者に帰属する当期利益は240億円で、前期の77億円から212.1％増えた",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "ROEは、株主から預かった資金でどれだけ利益を出したかを示す比率だ",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "これは親会社所有者帰属持分3,404億円の14.1％にあたる",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "MORI SEIKI U.S.A., INC. 設立＜現DMG MORI U.S.A., INC.＞",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル工学研究所（DTL）設立＜現DMG MORI Digital Technology Laboratory Corporation＞",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "MORI SEIKI SHANGHAI CO., LTD. 設立",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "人材開発センタ設立＜現DMG森精機アカデミー＞",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "（株）森精機セールスアンドサービス設立＜現DMG森精機セールスアンドサービス（株）＞",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "奈良事業所にシステムソリューション工場を設立",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "フロンテン工場（ドイツ）にmonoBLOCKエクセレンスセンタを設立",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "DMG 森精機プレシジョンコンポーネンツ株式会社 設立",
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "新会社を設立し、AM事業を強化する（出所：日経クロステック）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のグローバル本社が東京都の潮見（江東区）にあるのですが、BCP（事業継続計画）などの観点から第二本社も設けておいた方がよいのではないかということで、創業の地の奈良県にこのビルを建てました",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "ですから、AMイノベーションセンタは、当社の工作機械に使用しているAM部品について、その設計者らがアイデアを得たときに皆でワイワイ相談しながら試作したり、どうつくるのが一番安くて良いものができるかを検討したりする場をイメージして設立しました",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "海外現地法人第1号として、モリセイキGmbHを設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外現地法人として、モリセイキU.S.A.INC.を設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソニーより計測機器事業を譲受 「マグネスケール」を設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMG 森精機プレシジョンコンポーネンツ株式会社 設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "研修内容は、新入社員から管理職、役員にいたるまで役割別に行われる階層別研修、社員の専門技術と管理能力を高めるために2006年に設立したDMG森精機アカデミーを主管とした各種技能研修、英語力アップのためのTOEIC対策講座、最新の加工技術や産業界のトレンドを紹介する公開セミナー、オンラインで工作機械が学べるEODなど、各種研修を準備しており社員のキャリア特性に合わせた充実のプログラムを用意しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立: 1948年10月26日",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "特に、創業の地である奈良県を中心とした地域社会や、理工系人材の育成に力を入れています",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "1948年創業",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機がABBと合弁へ、シュナイダーはソフト強化 FA業界に再編の波",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "マンション工事停止の仮命令を取り消し 高裁決定、盛土規制法違反は認定",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "芋づる式に建設資格の不正取得発覚、技術者の要件満たさず営業停止",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "箇所の補修などの付加加工と、切削除去加工の工程集約の需要が高まっている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため工程集約など採算の合う用途が広がってきている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機がABBと合弁へ、シュナイダーはソフト強化 FA業界に再編の波",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "マンション工事停止の仮命令を取り消し 高裁決定、盛土規制法違反は認定",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "芋づる式に建設資格の不正取得発覚、技術者の要件満たさず営業停止",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械は、自動車、航空宇宙、一般機械など、顧客の設備投資によって需要が変動する資本財です",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルに製品を製造・販売しているため、円高は輸出採算の悪化を招き、業績に大きな影響を与えます",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "直近では航空・宇宙・防衛やエネルギー関連の需要が業績を押し上げ、年末の受注残高も積み上がってきた",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2030年にはDED方式のAM搭載機の売上高を4～5倍となる50億円としていくとさらなる発展を宣言している",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形に手応えをつかむDMG森精機、2025年には500億円の売上高目指す：JIMTOF2018 - MONOist",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形に手応えをつかむDMG森精機、2025年には500億円の売上高目指す",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機業界や金型修理などの領域で着実に成長を重ねており「2025年には500億円の売上高を目指す」（DMG森精機 取締役社長 森雅彦氏）としている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに積層造形機の売上高については「2018年で50〜60億円で、2019年には100億円に拡大する見込みだ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には500億円まで伸びるだろう」と述べている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "「2030年ごろには売上高8000億から1兆円を目指す」――",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の売上高（売上収益）は、工作機械業界全体が好調だった2018年度の5012億円をピークに、19年度は4858億円、20年度は新型コロナウイルス感染症拡大の影響で3283億円に落ち込んでいる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、21年度は回復基調にあり、「18、19年並みに受注が戻ってきた」（同氏）として3650億円を見込む",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の伸長に向けて今後の成長に期待をかけているのが、金属AM装置だ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "博士課程を修了した結果、当社の事業でどのような開発ができるか、具体的にどれだけの売上げが得られるかについて、当社の森雅彦社長や役員らの前でプレゼンを行って承認を得る必要がありますが、それが認められれば資金的なバックアップを得ながら業務として実験や論文執筆ができるようになります",
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "pass": 3
+   },
+   {
+    "quote": "在任中に“トリプル”8000億円達成へ、DMG森精機社長の展望とは：FAインタビュー（2/2 ページ） - MONOist",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "在任中に“トリプル”8000億円達成へ、DMG森精機社長の展望とは",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体後工程の微細化／積層化で需要増、2030年売上300億円へ奈良が担う100億",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "AM部はグローバルで2030年に100億円以上の販売を目指す",
+    "url": "https://monoque.jp/columns/dmgamam/",
+    "pass": 3
+   },
+   {
+    "quote": "71,804(百万円)",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6141",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期 （百万円） ［］内は人数",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6141",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期 （百万円）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6141",
+    "pass": 3
+   },
+   {
+    "quote": "5,150億円（2025年1-12月実績）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＭＧ森精機の売上高と利益は、工作機械市場の循環的な性質（好不況の波）に左右されますが、近年は構造改革と技術革新により、安定性を高めています",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "同社は世界最大級の工作機械メーカーとして、広範な製品群とグローバルなサービス網を背景に、安定的な売上規模を維持しています",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "特に、航空宇宙、医療、半導体関連といったハイエンド分野向けの高付加価値製品（5軸加工機、複合加工機、自動化ソリューション）の販売が、売上を牽引する重要な要素となっています",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は、売上高の変動に加えて、研究開発費（R&D）やサービス体制への継続的な投資によって影響を受けます",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "特に円安が進行した場合、海外売上を円換算した際に増益要因となるなど、為替の影響も大きいです",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "高付加価値化率: 5軸加工機や複合加工機、自動化システムといった、高価格帯かつ高利益率の製品が売上全体に占める比率を重視しています",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル・サービス売上: 機械の販売後のアフターサービスや部品販売の売上は、景気変動の影響を受けにくく、収益の安定化に寄与します",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "3,431億円",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "5,050億円",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "3,819億円",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "MRO・スペアパーツ・エンジニアリング受注：928億円",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "目標は売上6,000億円、営業利益率12%等",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "一方、最新の通期予想（2025年）は売上5,050億円・営業利益180億円（短信記載）で、",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信で、MRO・スペアパーツ・エンジニアリングの受注がまとまった規模で提示されており（928億円）、",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "日本の森精機が独DMGと統合し、売上収益は約5,150億円、世界中の工場に製品を送り出す業界トップ級の会社になっている",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、最新の有価証券報告書、IR資料、社員クチコミといった一次データから、ネームバリューや売上規模だけでは見えてこないDMG森精機の素顔を読み解いていく",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益は約5,150億円",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益は約240億円だ",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "売上の地域別構成は欧州が過半を占め、ドイツの旧DMGと統合した今では、事業の重心は日本一国にとどまらない",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益は5期で約3,960億→4,748億→5,394億→5,409億→5,150億と推移してきた",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "直前期に77億円まで沈んだ純利益が、直近期は240億円へと急回復しているのが目を引く",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "実際、地域別の売上構成は欧州が過半を占め、欧州や米州の受注動向ひとつで全体が揺れる",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "次章では、この約5,150億円の売上を「どの事業で稼いでいるのか」を見にいく",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機の売上は、大きく2つのセグメントに分かれている",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "柱は工作機械で、売上収益は約3,433億円",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つがインダストリアルサービスで、約1,717億円",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "機械を売って終わりではなく、長く使い続けてもらうための事業が、売上の3分の1を占めている",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "ここで見落とせないのが、売上の大きさと利益の出やすさが一致しないという点だ",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "最新期のセグメント利益を見ると、売上で倍の規模を持つ工作機械よりも、規模では半分のインダストリアルサービスのほうが、利益額では上回っている",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "、連結14,026人に対して提出会社に在籍して働くのは451人（ほかに出向者2,325名）という組織の形、セグメント利益ではマシンツールよりサービスのほうが2.7倍大きいこと、そして2026年8月に480億円の海外増資を決めた背景まで読めます",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月に、約480億円の海外増資を決めた",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の営業利益は190億円で、前期の437億円から56.6％減った",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "一方、親会社の所有者に帰属する当期利益は240億円で、前期の77億円から212.1％増えた",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "前期はこの収用で151億円の損失が出て当期利益を押し下げた",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "当期は逆に、ドイツ政府の海外直接投資保険から172億円の保険金を受け取り、非継続事業の利益として計上した",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "つまり当期利益240億円のうち172億円は一過性の保険金で、続けている事業だけの当期利益は前期230億円から70億円へ約7割減っている",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2026年8月に通期の営業利益予想は300億円へ上方修正された",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "1-3. ROE目標15％と、480億円の増資",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "払込金額の総額は約480億円で、使い道は設備投資とM&Aだ",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "撤退報道を否定し新スマホ投入、Nothingはメモリー高騰を乗り越えられるか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "基礎から分かるアディティブマニュファクチャリング — 基礎から分かるアディティブマニュファクチャリング dmgmori.co.jp https://www.dmgmori.co.jp > ...",
+    "url": "https://www.dmgmori.co.jp/sp/am/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンタ の実用化が加速 DMG森精機 とマザックが語る ... — 金属 3Dプリンタ の実用化が加速 DMG森精機 とマザックが語る ... MONOist https://monoist.itmedia.co.jp > articles > news017",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 、金属 3Dプリンター 「3～5年で投資回収できる ... — DMG森精機 、金属 3Dプリンター 「3～5年で投資回収できる ... 日経クロステック https://xtech.nikkei.com > テクノロジーリーダー名鑑",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "pass": 3
+   },
+   {
+    "quote": "アディティブマニュファクチャリングについて - DMG MORI — アディティブマニュファクチャリングについて - DMG MORI dmgmori.co.jp https://www.dmgmori.co.jp > labandfab",
+    "url": "https://www.dmgmori.co.jp/sp/labandfab/am.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 、5軸複合加工機ベースのレーザー金属 3D ... — DMG森精機 、5軸複合加工機ベースのレーザー金属 3D ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "3D プリンティングリーダーのFormlabs、 DMG森精機 子会社の ... — 3D プリンティングリーダーのFormlabs、 DMG森精機 子会社の ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMG 森精機 株式会社 — DMG 森精機 株式会社 dmgmori.co.jp PDF https://www.dmgmori.co.jp > ir_library > pdf",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2026_2shihanki_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形 に手応えをつかむ DMG森精機 、2025年には500億円 ... — 積層造形 に手応えをつかむ DMG森精機 、2025年には500億円 ... MONOist https://monoist.itmedia.co.jp > ... > 金属3Dプリンタ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMG 森精機 株式会社 — DMG 森精機 株式会社 dmgmori.co.jp PDF https://www.dmgmori.co.jp > ir_library > pdf",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2023_3shihanki_release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「2030年には1兆円企業に」 DMG森精機 、金属AM新機種など ... — 「2030年には1兆円企業に」 DMG森精機 、金属AM新機種など ... 日経クロステック https://xtech.nikkei.com > ニュース",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 株式会社 2024年度 (1-12月) 決算説明資料 2025年 ... — DMG森精機 株式会社 2024年度 (1-12月) 決算説明資料 2025年 ... dmgmori.co.jp PDF https://www.dmgmori.co.jp > ir_library > pdf",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2024_4shihanki_ex.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "在任中に“トリプル”8000億円達成へ、 DMG森精機社長 の展望 ... — 在任中に“トリプル”8000億円達成へ、 DMG森精機社長 の展望 ... MONOist https://monoist.itmedia.co.jp > articles > news047_2",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 、金属 3Dプリンター 開発「 社長 に直談判」 — DMG森精機 、金属 3Dプリンター 開発「 社長 に直談判」 日本経済新聞 https://www.nikkei.com > prime > tech-foresight > article",
+    "url": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC165740W5A710C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 AM部 AM技術営業グループ グループ長 萩森 紗季 氏 — DMG森精機 AM部 AM技術営業グループ グループ長 萩森 紗季 氏 Mono Que https://monoque.jp > columns > dmgamam",
+    "url": "https://monoque.jp/columns/dmgamam/",
+    "pass": 3
+   },
+   {
+    "quote": "JIMTOF2022特別 インタビュー DMG森精機 株式会社 取締役 ... — JIMTOF2022特別 インタビュー DMG森精機 株式会社 取締役 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=wmWvwFyyQ7Q",
+    "pass": 3
+   },
+   {
+    "quote": "決算 報告 | IR資料 | 株主・投資家の皆様へ - DMG MORI — 決算 報告 | IR資料 | 株主・投資家の皆様へ - DMG MORI dmgmori.co.jp https://www.dmgmori.co.jp > ir_library > financial_report",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/financial_report.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 株式会社 2026年度 第3四半期（1月～9月） 決算 ... — DMG森精機 株式会社 2026年度 第3四半期（1月～9月） 決算 ... dmgmori.co.jp https://www.dmgmori.co.jp > corporate > ir_library > video",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/video/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ - DMG MORI — 株主・投資家の皆様へ - DMG MORI dmgmori.co.jp https://www.dmgmori.co.jp > corporate",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 株式会社 2026年度上半期 (1-6月) 決算説明 資料 ... — DMG森精機 株式会社 2026年度上半期 (1-6月) 決算説明 資料 ... dmgmori.co.jp PDF https://www.dmgmori.co.jp > ir_library > pdf",
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2026_2shihanki_ex.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DMG MORI Japan（ DMG森精機 ） - X — DMG MORI Japan（ DMG森精機 ） - X X https://x.com > @dmgmorijapan",
+    "url": "https://x.com/dmgmorijapan/status/2050364648009138307",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 - DMG MORI — 会社概要 | 企業情報 - DMG MORI dmgmori.co.jp https://www.dmgmori.co.jp > company > outline",
+    "url": "https://www.dmgmori.co.jp/corporate/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 DMG森精機 】[6141]企業 概要 社員数や役員報酬・資本金 — 【 DMG森精機 】[6141]企業 概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6141",
+    "pass": 3
+   },
+   {
+    "quote": "DMG MORI 企業・IR情報サイト — DMG MORI 企業・IR情報サイト dmgmori.co.jp https://www.dmgmori.co.jp > corporate",
+    "url": "https://www.dmgmori.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - DMG MORI — 企業情報 - DMG MORI dmgmori.co.jp https://www.dmgmori.co.jp > corporate > company",
+    "url": "https://www.dmgmori.co.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 (株)の 会社概要 | マイナビ2028 — DMG森精機 (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp1151 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "そのため工程集約など採算の合う用途が広がってきている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルに製品を製造・販売しているため、円高は輸出採算の悪化を招き、業績に大きな影響を与えます",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は、売上高の変動に加えて、研究開発費（R&D）やサービス体制への継続的な投資によって影響を受けます",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "目標は売上6,000億円、営業利益率12%等",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "一方、最新の通期予想（2025年）は売上5,050億円・営業利益180億円（短信記載）で、",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "当期純利益は約240億円だ",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "もっと振れ幅が大きいのは純利益のほうで、約135億→254億→339億→77億→240億と、年によって数倍の開きが出る",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "直前期に77億円まで沈んだ純利益が、直近期は240億円へと急回復しているのが目を引く",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＭＧ森精機｜28卒就活×IR資料分析——営業減益でも純利益3倍（6141）｜有価証券報告書で読む企業研究・面接対策｜やましゃん@IR就活",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＭＧ森精機｜28卒就活×IR資料分析——営業減益でも純利益3倍（6141）｜有価証券報告書で読む企業研究・面接対策",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益が56.6％減ったのに当期利益が212.1％増えた理由",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期は、営業利益が56.6％減ったのに当期利益は212.1％増えた",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "1-2. 営業利益56.6％減、当期利益212.1％増のねじれ",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の営業利益は190億円で、前期の437億円から56.6％減った",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "ロシアの組立工場Ulyanovsk Machine Toolsは2024年2月にロシア政府に株式を収用され、前期（2024年12月期）から「非継続事業」（すでに手放した事業）として、営業利益の外に置かれている",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益はこれを除いた数字で、当期利益はこれを含む数字である",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2026年8月に通期の営業利益予想は300億円へ上方修正された",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＭＧ森精機の構造的課題と追い風は、5つに分けて第3章で扱う（営業利益率3.7％という水準／財務レバレッジ2.544倍、持分比率39.2％／日本の受注構成比は10％／数字の定義が2つ混在している／平均年収905万円と、出向者2,325名を含む母集団）",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益が56.6％減った一方で当期利益が212.1％増えたのは、前期にロシアのUlyanovsk Machine Tools社の収用損失151億円が出ていたのに対し、当期はドイツ政府の投資保険から172億円の保険金を受け取り、どちらも非継続事業の損益として当期利益にだけ入っているためであること",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "——営業利益率3.7％という水準／財務レバレッジ2.544倍、持分比率39.2％／日本の受注構成比は10％／数字の定義が2つ混在している／平均年収905万円と、出向者2,325名を含む母集団",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【続編】大好き 宇宙関連株 （103）【 DMG森精機 】概要 - note 【続編】大好き 宇宙関連株 （103）【 DMG森精機 】概要 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "「 DMG森精機 」の最新動向、技術・事業戦略、マネジメント ... 「 DMG森精機 」の最新動向、技術・事業戦略、マネジメント ... note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 の年収｜30歳で669万は妥当か【2026年最新】 DMG森精機 の年収｜30歳で669万は妥当か【2026年最新】 note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 ｜28卒就活×IR資料分析——営業減益でも純利益 ... DMG森精機 ｜28卒就活×IR資料分析——営業減益でも純利益 ... note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【続編】大好き 宇宙関連株 （103）【ＤＭＧ森精機】概要｜まさ",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "【続編】大好き 宇宙関連株 （103）【ＤＭＧ森精機】概要",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "ウォーレンバフェット氏の教え「社長になりたいと思えるような企業に投資せよ」、これに従い私も社長になりたい会社を探します。",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "まずは小学生の時から憧れている「宇宙」に関連した企業について調べてみます。",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "この続編では、まだ取り上げていない宇宙関連株についてAIに聞いてみました。（根拠となる情報は確認していません。）",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "※ 冒頭写真は内容と関係ありません。私が好きなものを載せています。",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＭＧ森精機株式会社は、日本の工作機械メーカーであり、ドイツのDMG MORI AKTIENGESELLSCHAFTと経営統合し、世界最大級の工作機械メーカーグループを形成しています。",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "社名（英語名）: DMG MORI CO., LTD.",
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "pass": 3
+   },
+   {
+    "quote": "「DMG森精機」の最新動向、技術・事業戦略、マネジメント哲学と知財戦略（１）～DMG森精機のMX戦略：工程集約×自動化×DX×GXで築くエコノミックモート｜楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "「DMG森精機」の最新動向、技術・事業戦略、マネジメント哲学と知財戦略（１）～DMG森精機のMX戦略：工程集約×自動化×DX×GXで築くエコノミックモート",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer株式会社 CEO／発明塾塾長 の楠浦（くすうら）です。今日は、僕が企業や大学、研究機関で知財戦略について講演（セミナー）やワークショップを行うために、日ごろからAIと壁打ちしてまとめている「企業分析」「経営戦略」「マネジメント」「技術戦略」「知財戦略」に関する調査メモを一部公開します。",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "「５軸加工機」と呼ばれる工作機械で世界を変えつつあるダントツ企業",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "利用したAIは「ChatGPT」（ちゃっぴー）です。僕が理解を深めるために日々行っている調査のメモですので、不明点や疑問点があればコメントくださると幸いです。",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "情報のコンタミを避けるために、公開情報だけにもとづいてAIにまとめさせています",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "。公開情報でどこまでわかるか、を把握する目的です。いわゆる「クリーンルーム環境」ですね。",
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機の年収｜30歳で669万は妥当か【2026年最新】｜企業スコープ_ハイクラス向け企業分析",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機の年収｜30歳で669万は妥当か【2026年最新】",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械という言葉に馴染みがなくても、スマートフォンの筐体も、自動車のエンジン部品も、航空機のタービンも、その金属を削り出した機械のどこかにDMG森精機の名がある。製造業を支える機械をつくる、いわば「機械をつくる機械」のメーカーだ。日本の森精機が独DMGと統合し、売上収益は約5,150億円、世界中の工場に製品を送り出す業界トップ級の会社になっている。",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "その会社で働く社員の30歳時点の年収相場は、約669万円。提出会社である単体の平均年収は905万円に達するが、30歳という節目で見ると、体感はだいぶ手前に着地する。この差はどこから来るのか。世界の製造業を足元から支える機械メーカーで、30歳669万という水準は妥当なのか。本記事では、最新の有価証券報告書、IR資料、社員クチコミといった一次データから、ネームバリューや売上規模だけでは見えてこないDMG森精機の素顔を読み解いていく。",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "「工作機械メーカー」と聞いて事業の中身まで思い浮かぶ人は多くない。決算書を開くと、この会社が何で稼ぎ、どこへ向かおうとしているのかが見えてくる。",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益は約5,150億円。当期純利益は約240億円だ。注目したいのは、この会社が日本企業でありながら、決算をIFRS(国際会計基準)で、しかも12月締めで開示している点にある。売上の地域別構成は欧州が過半を占め、ドイツの旧DMGと統合した今では、事業の重心は日本一国にとどまらない。国内のメーカーというより、日本に本籍を置くグローバル企業と見たほうが実像に近い。",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "平均年収は単体で905万円。ただしこれは提出会社であるDMG森精機本体、平均年齢43.3歳・平均勤続17.2年という、中堅以上が厚い母集団の平均だ。そして、ここに母集団の翻訳がいる。提出会社の単体従業員は451人にすぎず、連結では約14,026人にふくらむ。つまり",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "実際に機械をつくり、売り、保守しているのは、本体ではなく国内外の事業会社で働く大多数の社員",
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＭＧ森精機｜28卒就活×IR資料分析——営業減益でも純利益3倍（6141）｜有価証券報告書で読む企業研究・面接対策｜やましゃん@IR就活",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＭＧ森精機｜28卒就活×IR資料分析——営業減益でも純利益3倍（6141）｜有価証券報告書で読む企業研究・面接対策",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＭＧ森精機を受ける就活生は必ず読んでほしい。また、ＤＭＧ森精機に勤める若手社員、中間管理職の方にも読んでほしい。自社の有価証券報告書を通しで読んだことがある社員は、ほとんどいない。この記事を最後まで理解できれば、あなたはＤＭＧ森精機の面接官より、この会社の論点を整理して語れるようになる。",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事の数値は、ＤＭＧ森精機株式会社 有価証券報告書 第78期（2025年1月1日－2025年12月31日、IFRS）、2026年12月期第2四半期（中間期）決算短信および連結業績予想の修正に関するお知らせ（いずれも2026年8月4日公表）、海外募集による新株式の発行条件等の決定に関するお知らせ（2026年8月12日公表）に基づきます。",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益が56.6％減ったのに当期利益が212.1％増えた理由",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "、連結14,026人に対して提出会社に在籍して働くのは451人（ほかに出向者2,325名）という組織の形、セグメント利益ではマシンツールよりサービスのほうが2.7倍大きいこと、そして2026年8月に480億円の海外増資を決めた背景まで読めます。",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "です。業界の構造的課題と追い風、面接前に押さえる最新ニュース10本、内定者の選考と面接攻略、職種別キャリアと年収、働く環境の現実、IRで差をつける面接回答例と逆質問集、総合評価を収めています。",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   },
+   {
+    "quote": "▶︎ LINE（毎朝の就活ニュース便・企業記事のリクエスト受付）",
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "DMG MORI Japan（ DMG森精機 ） (@dmgmorijapan) / X DMG MORI Japan（ DMG森精機 ） (@dmgmorijapan) / X X https://x.com > dmgmorijapan",
+    "url": "https://x.com/dmgmorijapan",
+    "pass": 3
+   },
+   {
+    "quote": "DMG MORI Japan（ DMG森精機 ） (@dmgmorijapan) on X DMG MORI Japan（ DMG森精機 ） (@dmgmorijapan) on X X https://x.com > dmgmorijapan > with_replies",
+    "url": "https://x.com/dmgmorijapan/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "DMG MORI Japan（ DMG森精機 ） - X DMG MORI Japan（ DMG森精機 ） - X X https://x.com > @dmgmorijapan",
+    "url": "https://x.com/dmgmorijapan/status/2116074424680202687",
+    "pass": 3
+   },
+   {
+    "quote": "AIの活用で広がる DMG MORIのアフターサービス〜 . JIMTOF ... AIの活用で広がる DMG MORIのアフターサービス〜 . JIMTOF ... X https://x.com > @dmgmorijapan",
+    "url": "https://x.com/dmgmorijapan/status/2115619537429397896",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "DMG MORI Japan ( DMG森精機 ) - LinkedIn DMG MORI Japan ( DMG森精機 ) - LinkedIn LinkedIn https://jp.linkedin.com > company > dmgmorijapan",
+    "url": "https://jp.linkedin.com/company/dmgmorijapan",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機 （株） | LinkedIn DMG森精機 （株） | LinkedIn LinkedIn https://www.linkedin.com > ｄｍｇ森精機（株）",
+    "url": "https://www.linkedin.com/company/%EF%BD%84%EF%BD%8D%EF%BD%87%E6%A3%AE%E7%B2%BE%E6%A9%9F%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "DMG MORI Asia | LinkedIn DMG MORI Asia | LinkedIn LinkedIn https://jp.linkedin.com > company > dmg-mori-asia",
+    "url": "https://jp.linkedin.com/company/dmg-mori-asia",
+    "pass": 3
+   },
+   {
+    "quote": "Naoki FUJITA - DMG森精機 株式会社/DMG MORI Co., Ltd. Naoki FUJITA - DMG森精機 株式会社/DMG MORI Co., Ltd. LinkedIn https://jp.linkedin.com > naoki-fujita-069693127",
+    "url": "https://jp.linkedin.com/in/naoki-fujita-069693127",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "DMG 森精機 株式会社 (@DMGMORI.CO) - Facebook DMG 森精機 株式会社 (@DMGMORI.CO) - Facebook Facebook https://www.facebook.com > DMGMORI",
+    "url": "https://www.facebook.com/DMGMORI.CO/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG 森精機 株式会社 added a new photo. - Facebook DMG 森精機 株式会社 added a new photo. - Facebook Facebook https://www.facebook.com > photos",
+    "url": "https://www.facebook.com/100063715381100/photos/1213881377412364/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG 森精機 株式会社 (@DMGMORI.CO) - Mentions - Facebook DMG 森精機 株式会社 (@DMGMORI.CO) - Mentions - Facebook Facebook https://www.facebook.com > DMGMORI.CO > mentions",
+    "url": "https://www.facebook.com/DMGMORI.CO/mentions/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG 森精機 株式会社 - DMG 森精機 株式会社 added a new ... DMG 森精機 株式会社 - DMG 森精機 株式会社 added a new ... Facebook https://www.facebook.com > DMGMORI.CO > photos",
+    "url": "https://www.facebook.com/DMGMORI.CO/photos/1579825937484571/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.dmgmori.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9390",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=additive-manufacturing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=customer_case",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/knowledge/category/?type=case",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=113",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/list/?contents_type=596",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/machine/?id=6297",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/circular-economy/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=15",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/dmqp/?contents_type=546",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=546",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=15",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/dmqp/contents_type=161",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=113",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/products/list/contents_type=596",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/dreamcontest/award/2026.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/topics_detail11/id=9390",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9389",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/theme/case/id=9234",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/serviceGuide/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/movie_library/movie/id=8157",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/video/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/news/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261019_serviceagent.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/news/2026/20261014_dreamcontest2026.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/company/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/ir/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2026_3shihanki_release.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2026_3shihanki_ex.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2026_3shihanki_kessan.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/commons/images/logo.png",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://bat.bing.com/action/0?ti=187228103&Ver=2&mid=169dda13-1e43-435a-847e-4acd2b24a04b&bo=3&sid=34c35b40da0111f19b95ef39fad96e36&vid=34c39840da0111f192e4416f0718615a&vids=0&msclkid=N&pi=0&lg=ja-JP&sw=1280&sh=720&sc=24&nwd=1&tl=DMG%20MORI%20%E4%BC%81%E6%A5%AD%E3%83%BBIR%E6%83%85%E5%A0%B1%E3%82%B5%E3%82%A4%E3%83%88&p=https%3A%2F%2Fwww.dmgmori.co.jp%2Fcorporate%2F&r=&lt=1616&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=671077",
+    "status": "http_204",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/files/user/img/header/nav02_img_01_18.png?v=1780967708",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://bat.bing.com/action/0?ti=187228103&Ver=2&mid=8461022c-45ce-4642-b80c-a37414428875&bo=3&sid=4723e520da0111f1b51257e2e9bdff48&vid=47240c90da0111f1a86e0fbec9bc10fb&vids=0&msclkid=N&pi=0&lg=ja-JP&sw=1280&sh=720&sc=24&nwd=1&tl=LASERTEC%20DED(Directed%20Energy%20Deposition)%20%7C%20%E8%A3%BD%E5%93%81%20%7C%20DMG%20MORI&p=https%3A%2F%2Fwww.dmgmori.co.jp%2Fproducts%2Flist%2F%3Fcontents_type%3D596&r=&lt=2753&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=421609",
+    "status": "http_204",
+    "method": "http"
+   },
+   {
+    "url": "https://bat.bing.com/action/0?ti=187228103&Ver=2&mid=b03e8246-4711-4f44-ae69-e39555240760&bo=3&sid=7611de60da0111f1baf94fe2f82f7f01&vid=761206d0da0111f1aef6fd0a9afe07cc&vids=0&msclkid=N&pi=0&lg=ja-JP&sw=1280&sh=720&sc=24&nwd=1&tl=LASERTEC%20DED(Directed%20Energy%20Deposition)%20%7C%20%E8%A3%BD%E5%93%81%20%7C%20DMG%20MORI&p=https%3A%2F%2Fwww.dmgmori.co.jp%2Fproducts%2Flist%2Fcontents_type%3D596&r=&lt=2593&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=873272",
+    "status": "http_204",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/corporate/ir/ir_library/video/img/logo.svg",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=XOuCPit3JOc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC165740W5A710C2000000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/columns/dmgamam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=wmWvwFyyQ7Q",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/dmgmorijapan/status/2050364648009138307",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6141",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/dmgmorijapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dmgmorijapan/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dmgmorijapan/status/2116074424680202687",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dmgmorijapan/status/2115619537429397896",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/dmgmorijapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%EF%BD%84%EF%BD%8D%EF%BD%87%E6%A3%AE%E7%B2%BE%E6%A9%9F%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/dmg-mori-asia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/naoki-fujita-069693127",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DMGMORI.CO/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100063715381100/photos/1213881377412364/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DMGMORI.CO/mentions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DMGMORI.CO/photos/1579825937484571/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kusuura/n/nb221be502715",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/good_dill292/n/n821ba1e539f8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/company_scope/n/nddd815e85ef4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/dmgmorijapan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "DMG森精機 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "https://www.youtube.com/watch?v=XOuCPit3JOc",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "https://www.dmgmori.co.jp/sp/labandfab/am.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "https://www.dmgmori.co.jp/products/machine/id=3592",
+    "https://www.recmbus-3dprint.com/list/dmgmori.html",
+    "https://www.dmgmori.co.jp/movie_library/movie/id=9151"
+   ]
+  },
+  {
+   "query": "DMG森精機 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://monoist.itmedia.co.jp/mn/articles/2603/24/news017.html",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03181/071400009/",
+    "https://www.dmgmori.co.jp/sp/labandfab/am.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "https://prtimes.jp/main/html/rd/p/000000027.000079262.html",
+    "https://www.fuji-mold.co.jp/media/kikaisetubi/a18",
+    "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "https://formlabs.com/jp/blog/dmg-mori-technium-formlabs-japan-partners/",
+    "https://newspicks.com/news/14725965/"
+   ]
+  },
+  {
+   "query": "DMG森精機 積層造形 事業 売上",
+   "results": [
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2026_2shihanki_release.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/1811/06/news049.html",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2023_3shihanki_release.pdf",
+    "https://xtech.nikkei.com/atcl/nxt/news/18/11335/",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2024_4shihanki_ex.pdf",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2025_ir_j.pdf",
+    "https://newswitch.jp/p/45617",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2025_3shihanki_release.pdf",
+    "https://seizougenba.com/node/14477",
+    "https://gurafu.net/jpn/dmg-mori"
+   ]
+  },
+  {
+   "query": "DMG森精機 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://kojomag.nikkan.co.jp/kata/kanto/539",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047_2.html",
+    "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC165740W5A710C2000000",
+    "https://monoque.jp/columns/dmgamam/",
+    "https://www.youtube.com/watch?v=wmWvwFyyQ7Q",
+    "https://www.dmgmori.co.jp/theme/movie/id=4484",
+    "https://www.weekly-economist.com/interview/mori_masahiko/",
+    "https://rs-hokkaido.net/change/202505_dmgmoridigital.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/dmgmori-211013/",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/15/news047.html"
+   ]
+  },
+  {
+   "query": "DMG森精機 決算説明 3Dプリンタ",
+   "results": [
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/financial_report.html",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/video/",
+    "https://www.dmgmori.co.jp/corporate/ir/",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/fy2026_2shihanki_ex.pdf",
+    "https://x.com/dmgmorijapan/status/2050364648009138307",
+    "https://finance.logmi.jp/articles/375556",
+    "https://www.dmgmori.co.jp/corporate/",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/video_2024q4/",
+    "https://www.buffett-code.com/company/6141/library",
+    "https://edinetdb.jp/company/E01502/presentations/"
+   ]
+  },
+  {
+   "query": "DMG森精機 会社概要 設立 株主",
+   "results": [
+    "https://www.dmgmori.co.jp/corporate/company/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6141",
+    "https://www.dmgmori.co.jp/corporate/",
+    "https://www.dmgmori.co.jp/corporate/company/",
+    "https://job.mynavi.jp/28/pc/search/corp1151/outline.html",
+    "https://ja.wikipedia.org/wiki/DMG%E6%A3%AE%E7%B2%BE%E6%A9%9F",
+    "https://www.dmgmori.co.jp/corporate/company/history.html",
+    "https://www.dmgmori.co.jp/corporate/ir/stock/info.html",
+    "https://www.dmgmori.co.jp/corporate/ir/shareholders/engagement.html",
+    "https://ja.wikipedia.org/wiki/DMG森精機"
+   ]
+  },
+  {
+   "query": "site:note.com DMG森精機",
+   "results": [
+    "https://note.com/good_dill292/n/n821ba1e539f8",
+    "https://note.com/kusuura/n/nb221be502715",
+    "https://note.com/company_scope/n/nddd815e85ef4",
+    "https://note.com/irshukatsu/n/n7b125aa0c3ee",
+    "https://note.com/tag/DMG%E6%A3%AE%E7%B2%BE%E6%A9%9F",
+    "https://note.com/sankituushin/n/n21ec54a51b3c",
+    "https://note.com/anatagohanyo/n/nf7f253097f8c",
+    "https://note.com/osasa_newbusi/n/nc351fa4cc428",
+    "https://note.com/sankituushin/n/ncfa686545d37",
+    "https://note.com/bhrtaym/n/n06b44bfd0d0c"
+   ]
+  },
+  {
+   "query": "site:x.com DMG森精機",
+   "results": [
+    "https://x.com/dmgmorijapan",
+    "https://x.com/dmgmorijapan/with_replies",
+    "https://x.com/dmgmorijapan/status/2116074424680202687",
+    "https://x.com/dmgmorijapan/status/2115619537429397896",
+    "https://x.com/dmgmorijapan/status/2055256885012693495",
+    "https://x.com/dmgmorijapan/status/2091858161905041482",
+    "https://x.com/niigata_nippo/status/1890129345882304909",
+    "https://x.com/dmgmorijapan/status/2115006099753701713",
+    "https://x.com/dmgmorijapan/status/2074825995669147811",
+    "https://x.com/dmgmorijapan/status/2090393715575820498"
+   ]
+  },
+  {
+   "query": "site:linkedin.com DMG森精機",
+   "results": [
+    "https://jp.linkedin.com/company/dmgmorijapan",
+    "https://www.linkedin.com/company/%EF%BD%84%EF%BD%8D%EF%BD%87%E6%A3%AE%E7%B2%BE%E6%A9%9F%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/dmg-mori-asia",
+    "https://jp.linkedin.com/in/naoki-fujita-069693127",
+    "https://jp.linkedin.com/posts/dmgmorijapan_dmgmori%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF-dmgmori-dmg%E6%A3%AE%E7%B2%BE%E6%A9%9F-activity-7516090851983331328-zNSH",
+    "https://jp.linkedin.com/company/%EF%BD%84%EF%BD%8D%EF%BD%87%E6%A3%AE%E7%B2%BE%E6%A9%9F%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://www.linkedin.com/company/dmgmorico",
+    "https://jp.linkedin.com/posts/dmgmorijapan_dmgmori-dmg%E6%A3%AE%E7%B2%BE%E6%A9%9F-%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0-activity-7521443360277090304-3rbh",
+    "https://jp.linkedin.com/posts/dmgmorijapan_dmgmori%E3%81%AE-dmgmori-dmg%E6%A3%AE%E7%B2%BE%E6%A9%9F-activity-7478402264726990849-fCTH",
+    "https://www.linkedin.com/company/dmgmoriusa"
+   ]
+  },
+  {
+   "query": "site:facebook.com DMG森精機",
+   "results": [
+    "https://www.facebook.com/DMGMORI.CO/",
+    "https://www.facebook.com/100063715381100/photos/1213881377412364/",
+    "https://www.facebook.com/DMGMORI.CO/mentions/",
+    "https://www.facebook.com/DMGMORI.CO/photos/1579825937484571/",
+    "https://www.facebook.com/DMGMORI.CO/videos/dmg%E6%A3%AE%E7%B2%BE%E6%A9%9F-%E4%BC%8A%E8%B3%80%E4%BA%8B%E6%A5%AD%E6%89%80%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B/272292020359340/",
+    "https://www.facebook.com/DMGMORI.CO/videos/dmgmori%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BFpowering-quality-in-the-age-of-ai-saki-corporation%E9%9B%BB%E5%AD%90%E6%A9%9F%E5%99%A8%E3%81%AE%E5%93%81%E8%B3%AA%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%A4%9C%E6%9F%BB%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7/1791626935223251/",
+    "https://www.facebook.com/DMGMORI.CO/photos/d41d8cd9/1634619825338515/",
+    "https://www.facebook.com/DMGMORI.CO/videos/",
+    "https://www.facebook.com/DMGMORI.CO/posts/dmg-mori%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BFlets-learn-about-the-life-cycles-of-various-products-in-the-world%E4%B8%96%E3%81%AE/1160995996034236/",
+    "https://www.facebook.com/dmgmori/"
+   ]
+  },
+  {
+   "query": "DMG森精機 note 社長",
+   "results": [
+    "https://note.com/kusuura/n/nb221be502715",
+    "https://www.dmgmori.co.jp/corporate/company/",
+    "https://note.com/good_dill292/n/n821ba1e539f8",
+    "https://note.com/company_scope/n/nddd815e85ef4",
+    "https://www.dmgmori.co.jp/corporate/news/2026/20260831_award.html",
+    "https://www.nikkei.com/article/DGXZQOUC117IF0R10C26A9000000/",
+    "https://note.com/tabun_nao/n/na77cea132783",
+    "https://www.dmgmori.co.jp/corporate/company/message.html",
+    "https://www.dmgmori.co.jp/movie_library/movie/id=8810",
+    "https://ja.wikipedia.org/wiki/森雅彦"
+   ]
+  },
+  {
+   "query": "DMG森精機 X 投稿",
+   "results": [
+    "https://x.com/dmgmorijapan",
+    "https://www.dmgmori.co.jp/",
+    "https://www.dmgmori.co.jp/corporate/news/2026/20260327_assurance.html",
+    "https://www.dmgmori.co.jp/theme/movie/id=8774",
+    "https://www.youtube.com/watch?v=uOg-yutxYjg",
+    "https://monoist.itmedia.co.jp/mn/articles/2505/13/news102.html",
+    "https://www.facebook.com/DMGMORI.CO/videos/the-launch-of-5-year-warranty-for-turnmaster-turretmaster-and-ergoline-x%E5%AE%89%E5%BF%83%E3%81%AE5%E5%B9%B4%E9%96%93%E4%BF%9D%E8%A8%BC/947913234660402/",
+    "https://www.dmgmori.co.jp/theme/list/",
+    "https://www.youtube.com/channel/UCX6wWvXVHGA4_f4Oc0NnrVw",
+    "https://www.instagram.com/dmgmorijapan/"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像9件／外部37頁・検索12回）",
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像9件／外部37頁・検索12回）"
+ }
+}

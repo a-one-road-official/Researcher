@@ -1,0 +1,1632 @@
+{
+ "name": "MONOist",
+ "aliases": [
+  "MONOist",
+  "モノイスト",
+  "アイティメディア"
+ ],
+ "context": "日本・製造業メディア（3Dプリンタ記事）",
+ "researched_at": "2026-11-06T16:40:09.759184+00:00",
+ "official_url": "https://promotion.itmedia.co.jp/",
+ "identified_by": "search:yahoo_jp:株式会社MONOist",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Established",
+    "value": "Established：December 1999",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "稼ぎ方": [
+   {
+    "quote": "【出展社募集】アイティメディア主催オンライン展示会/協賛ウェビナーはこちら>>",
+    "url": "https://promotion.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディアの読者会員にアンケート調査を実施",
+    "url": "https://promotion.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会やセミナー等のオンラインイベントを支援",
+    "url": "https://promotion.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディアの読者会員をセミナー申込へ誘導",
+    "url": "https://promotion.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディア主催のオンラインイベントへ協賛",
+    "url": "https://promotion.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社が有するサイトの特性を生かした広告や読者行動データを活用した誘導配信などを組み合わせ、効率的な読者の閲覧を獲得します",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "pass": 1
+   },
+   {
+    "quote": "既成概念にとらわれないチャレンジで想定の5倍に近いリード獲得を低単価で実現したPolyの取り組み内容をご紹介します",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "pass": 1
+   },
+   {
+    "quote": "記事広告に動画を差し込むことはできますか？",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアが運営する20以上の専門メディア読者会員に直接リーチ",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "業種や職種といった会員登録情報などを元に、対象を指定して1通独占型のメール広告を配信することができるため、ターゲットに合致する見込み客に向けて、効率的なアプローチが可能です",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "メールマガジンを受信する読者会員は専門性の高い興味・関心を持っているため、セミナーやキャンペーンサイトを閲覧してほしいターゲット層のいるメディアを活用することで、ターゲット層を効率よく",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアでは、メールマガジン広告を活用するセミナー集客に特化したサービスのご用意もございます",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "各メディアの配信するメールマガジンにおいて、号外版として貴社広告文のみで構成されたメッセージを送付",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "業種や職種・役職・従業員数・役職・勤務地など、メディア読者会員の属性を指定した配信が可能",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "各メディアの配信するメールマガジン内の冒頭に広告文を掲載",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "料金やサイズなど詳細は「広告料金表」をご覧ください",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "一部のバナー広告は読者行動データを用い、興味関心事項でのターゲティングが可能です",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/bannerad",
+    "pass": 1
+   },
+   {
+    "quote": "掲載料金は広告料金表にてご確認いただけます",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/bannerad",
+    "pass": 1
+   },
+   {
+    "quote": "料金など詳細は「広告料金表」をご覧ください",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/bannerad",
+    "pass": 1
+   },
+   {
+    "quote": "定められた期間や表示回数に対し料金を支払い掲載を行う広告は、原則として、午前0時に掲載が開始され、終了時間は掲載終了日24時となります",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/bannerad",
+    "pass": 1
+   },
+   {
+    "quote": "メール広告などを利用してセミナー集客を支援",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアは月間4億PV、会員数約182万人超を誇る国内最大級のインターネット専業メディアです",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "ハウスリストやSNSなどではリーチが難しい、20以上の専門メディアを閲覧する読者が集客対象となるため新規リードの獲得が見込めます",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "クリック保証広告：貴社セミナー申込ページへの誘導数を保証",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "ターゲティングメール：開催直前まで配信可能な1通独占メール広告",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "各メディア会員の登録情報、行動履歴などをもとに、対象を指定して配信できる1通独占型のメール広告です",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "集客ページを当社メディア内に設置し、メール広告などを利用",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "当社メディアの広告枠とオーディエンスデータ（ウェブサイト上の行動データ）を活用",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "各メディア会員の登録情報、行動履歴などをもとに、対象を指定して配信可能",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "オフライン（リアル開催）イベントの集客支援サービスはありますか？",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディアの読者会員にアンケート調査を実施",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "展示会やセミナー等のオンラインイベントを支援",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディアの読者会員をセミナー申込へ誘導",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディア主催のオンラインイベントへ協賛",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "E-newsletter subscription",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "広告の品質確保について|オンラインプロモーション by ITmedia",
+    "url": "https://promotion.itmedia.co.jp/ad-quality",
+    "pass": 1
+   },
+   {
+    "quote": "社におけるブランドセーフティおよび広告トラフィックの品質確保のための取り組み",
+    "url": "https://promotion.itmedia.co.jp/ad-quality",
+    "pass": 1
+   },
+   {
+    "quote": "広告トラフィックの品質確保やその対策について",
+    "url": "https://promotion.itmedia.co.jp/ad-quality",
+    "pass": 1
+   },
+   {
+    "quote": "■ 広告トラフィックの品質確保に関するガイドライン（無効トラフィック対策ガイドライン）",
+    "url": "https://promotion.itmedia.co.jp/ad-quality",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月1日付けで、一般社団法人 デジタル広告品質認証機構（JICDAQ）が定める第三者検証のJICDAQ認証基準を満たし、",
+    "url": "https://promotion.itmedia.co.jp/ad-quality",
+    "pass": 1
+   },
+   {
+    "quote": "媒体事業者（広告販売者）としてJICDAQ認証を取得しました",
+    "url": "https://promotion.itmedia.co.jp/ad-quality",
+    "pass": 1
+   },
+   {
+    "quote": "「読者の行動データ」に基づくより効果的な広告出稿",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット広告においては長らく、「Webサイト」や「メディア」単位での出稿が一般的でした",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "「読者の行動データ」に基づいた広告商品をご用意しております",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "「読者の行動」（読者の興味関心）をもとに広告を配信・運用するため、より効果的な広告出稿を可能です",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "読者の行動データをもとに、「クラウドコンピューティング」や「情報漏えい策」「ネットワーク管理」など、「ある事柄に興味がある人」へバナー広告を配信します",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "バナー広告はアイティメディアの運営するメディア群だけではなく、読者の行動データを利用しGoogle広告などを通じて外部サイトへも配信されます",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "実施に際しては、CPC（Cost Per Click：広告を1回クリックした際に発生する費用）の「金額」および「クリック数」を保証します",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "読者行動データをGoogle広告などの外部サービスへ連携して拡張配信を行うことで、アイティメディアに訪れたことのない、同じ「興味・関心を持つ人」を外部メディアで捕まえる事が可能になります",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアが運営する様々なメディアの「読者行動データ」と、100万人を越える会員基盤「アイティメディアID」に蓄積されたデータを組み合わせ、その活用を担う独自のデータマネージメントプラットフォームが「ITmedia DMP」です",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "読者行動データと会員データを組み合わせることで、「当社メディアを横断した高精度なターゲティング」「読者行動データを利用した外部広告配信」「強力な広告レポート」「読者行動データの連係利用」などが可能です",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "当社運営のメディアを横断し広告枠を配信することで、掲載面の品質を担保しつつ、より多くの情報集欲の高い読者に効果的にアプローチできます",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "大きな配信母数をもつDSP（デマンドサイドプラットフォーム）やFacecbookなどのSNSと接続し、ITmedia DMP で作成したセグメントを用いて、アイティメディア外での広告配信を行う、パブリッシャートレーディングデスクが可能です",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "PV や imp、Click などの数値だけではない＋αの情報を提供することで、広告効果を明確化し次の施策に向けたインサイトを提供します",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "また、分析結果を踏まえた新たなターゲットリストの作成と広告配信が可能です",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "「ジャンル」を利用した広告商品を展開しておりますので、詳細は下部ボタンよりご確認ください",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "読者行動データを利用し「興味関心の高い読者」へ絞り込んだ広告出稿を行うことで、より高い効果を期待できます",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "E-newsletter subscription",
+    "url": "https://promotion.itmedia.co.jp/mailnews",
+    "pass": 1
+   },
+   {
+    "quote": "※こちらのサービスは、日頃弊社とお取引いただいております広告主企業様と広告代理店様を対象に行なわせていただいております",
+    "url": "https://promotion.itmedia.co.jp/mailnews",
+    "pass": 1
+   },
+   {
+    "quote": "※This service is available to advertisers and advertising agencies who do / will do business with us on a regular basis. We reserve the right to decline your applications at our discretion. We appreciate your understanding.",
+    "url": "https://promotion.itmedia.co.jp/mailnews",
+    "pass": 1
+   }
+  ],
+  "規模": [
+   {
+    "quote": "弊社メディアの読者会員にアンケート調査を実施",
+    "url": "https://promotion.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディアの読者会員をセミナー申込へ誘導",
+    "url": "https://promotion.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "4億PVを超える専門メディア",
+    "url": "https://promotion.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "専門メディアの特性を活かし、効率的に読者の閲覧を獲得",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "pass": 1
+   },
+   {
+    "quote": "専⾨の編集スタッフがその知見を持って読者の理解を促す記事コンテンツを提案",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "pass": 1
+   },
+   {
+    "quote": "参考資料：【ITmedia読者へのインタビュー公開】記事を読み製品導入に至ったプロセスをうかがいます",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "pass": 1
+   },
+   {
+    "quote": "メディア掲載される記事を執筆編集している編集者がその知見を活かし、読者の理解を促すコンテンツを提案",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "pass": 1
+   },
+   {
+    "quote": "弊社が有するサイトの特性を生かした広告や読者行動データを活用した誘導配信などを組み合わせ、効率的な読者の閲覧を獲得します",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "pass": 1
+   },
+   {
+    "quote": "掲載期間終了後にはPV/UBのほか閲覧企業名などを記載したレポートをご提供します",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "pass": 1
+   },
+   {
+    "quote": "課題についていかに取り組むべきかをインタビューという形で分かりやすく読者に提示します",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアが運営する20以上の専門メディア読者会員に直接リーチ",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "専門性に特化したメディアに関心をもつ読者へ直接アプローチ",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "20を超えるBtoB専門メディアの読者に配信",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "メディア読者、業種、職種など様々な属性で配信対象者を絞り込むことも可能です",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "20以上の専門メディアを閲覧する読者がメールマガジンを受信しているため、ハウスリストやSNSなどではリーチが難しい新規の見込み客に向けて情報発信することが可能です",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "メールマガジンを受信する読者会員は専門性の高い興味・関心を持っているため、セミナーやキャンペーンサイトを閲覧してほしいターゲット層のいるメディアを活用することで、ターゲット層を効率よく",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "業種や職種・役職・従業員数・役職・勤務地など、メディア読者会員の属性を指定した配信が可能",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "「ITエンジニア」「ビジネスパーソン」「製造業」「セキュリティ」など、認知を図りたい対象を読者に持つ専門メディアへの掲載をお約束します",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/bannerad",
+    "pass": 1
+   },
+   {
+    "quote": "一部のバナー広告は読者行動データを用い、興味関心事項でのターゲティングが可能です",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/bannerad",
+    "pass": 1
+   },
+   {
+    "quote": "複数メディアをまたいで記事を閲覧する読者を追従しての訴求が可能です",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/bannerad",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアは月間4億PV、会員数約182万人超を誇る国内最大級のインターネット専業メディアです",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "ハウスリストやSNSなどではリーチが難しい、20以上の専門メディアを閲覧する読者が集客対象となるため新規リードの獲得が見込めます",
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "pass": 1
+   },
+   {
+    "quote": "400 million PV",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": ", ensuring your message is conveyed accurately and compellingly to readers.",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "1 million members",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディアの読者会員にアンケート調査を実施",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディアの読者会員をセミナー申込へ誘導",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "If you sign up for our e-newsletter, you will receive information emails about our services, seminars, and other updates on an irregular basis. >>",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "E-newsletter subscription",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "「読者の行動データ」に基づくより効果的な広告出稿",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアでは運営する各メディアの記事を閲覧した読者の行動履歴を解析することにより、",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "「読者の行動データ」に基づいた広告商品をご用意しております",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "「読者の行動」（読者の興味関心）をもとに広告を配信・運用するため、より効果的な広告出稿を可能です",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "読者の行動データをもとに、「クラウドコンピューティング」や「情報漏えい策」「ネットワーク管理」など、「ある事柄に興味がある人」へバナー広告を配信します",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "バナー広告はアイティメディアの運営するメディア群だけではなく、読者の行動データを利用しGoogle広告などを通じて外部サイトへも配信されます",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "読者の行動データを利用し、",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "読者の行動データ（記事閲覧履歴）を元に「興味・関心」を特定",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "読者行動データをGoogle広告などの外部サービスへ連携して拡張配信を行うことで、アイティメディアに訪れたことのない、同じ「興味・関心を持つ人」を外部メディアで捕まえる事が可能になります",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアが運営する様々なメディアの「読者行動データ」と、100万人を越える会員基盤「アイティメディアID」に蓄積されたデータを組み合わせ、その活用を担う独自のデータマネージメントプラットフォームが「ITmedia DMP」です",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "読者行動データと会員データを組み合わせることで、「当社メディアを横断した高精度なターゲティング」「読者行動データを利用した外部広告配信」「強力な広告レポート」「読者行動データの連係利用」などが可能です",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "当社運営のメディアを横断し広告枠を配信することで、掲載面の品質を担保しつつ、より多くの情報集欲の高い読者に効果的にアプローチできます",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "PV や imp、Click などの数値だけではない＋αの情報を提供することで、広告効果を明確化し次の施策に向けたインサイトを提供します",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "ITmedia DMPで捕捉した「ワークスタイル変革」や「情報系システム」「エレクトロニクス」といった「ジャンルごとの興味関心読者数」を数値（直近60日のユニークブラウザ数）で確認できます",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアが運営するメディア群にどのような興味関心を持った読者が集まっているかを数値にてチェックできますので、マーケティング施策の参考にご利用ください",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "読者行動データを利用し「興味関心の高い読者」へ絞り込んだ広告出稿を行うことで、より高い効果を期待できます",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "E-newsletter subscription",
+    "url": "https://promotion.itmedia.co.jp/mailnews",
+    "pass": 1
+   },
+   {
+    "quote": "If you would like to subscribe “ITmedia‘s useful information E-newsletter”, please fill out the form below. We will send you information about our services, seminars, and other updates on an irregular basis.",
+    "url": "https://promotion.itmedia.co.jp/mailnews",
+    "pass": 1
+   },
+   {
+    "quote": "Banner / E-newsletter Advertisement Guide for Manufacturing",
+    "url": "https://ferret-one.akamaized.net/files/6017bbe9d9c7570b9a176b08/newsletter.pdf?utime=1612168169",
+    "pass": 2
+   },
+   {
+    "quote": "・現場からリーダークラス・経営層までモノづくりエンジニアを中心に製造業全体の読者をカバー",
+    "url": "https://media-radar.jp/detail2557.html",
+    "pass": 3
+   }
+  ],
+  "運営母体": [
+   {
+    "quote": "【出展社募集】アイティメディア主催オンライン展示会/協賛ウェビナーはこちら>>",
+    "url": "https://promotion.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディア主催のオンラインイベントへ協賛",
+    "url": "https://promotion.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアが運営する20以上の専門メディア読者会員に直接リーチ",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "pass": 1
+   },
+   {
+    "quote": "弊社メディア主催のオンラインイベントへ協賛",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアでは運営する各メディアの記事を閲覧した読者の行動履歴を解析することにより、",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "バナー広告はアイティメディアの運営するメディア群だけではなく、読者の行動データを利用しGoogle広告などを通じて外部サイトへも配信されます",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアが運営する様々なメディアの「読者行動データ」と、100万人を越える会員基盤「アイティメディアID」に蓄積されたデータを組み合わせ、その活用を担う独自のデータマネージメントプラットフォームが「ITmedia DMP」です",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "当社運営のメディアを横断し広告枠を配信することで、掲載面の品質を担保しつつ、より多くの情報集欲の高い読者に効果的にアプローチできます",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアが運営するメディア群にどのような興味関心を持った読者が集まっているかを数値にてチェックできますので、マーケティング施策の参考にご利用ください",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "メールマガジンは分野別に5種類発行しています",
+    "url": "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "pass": 3
+   },
+   {
+    "quote": "医療用AI、IoTプラットフォームを開発、運営する新会社を共同で設立",
+    "url": "https://www.optim.co.jp/newsdetail/20200617-media-01",
+    "pass": 3
+   },
+   {
+    "quote": "記事掲載：WEB: MONOist 4.21発行号｜MTDO",
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "pass": 3
+   },
+   {
+    "quote": "記事掲載：WEB: MONOist 4.21発行号",
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングプラットフォーム運営企業｜営業フロー改善のご紹介",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "【メディア掲載】先日のリョーサン主催イベントが紹介されました",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   }
+  ],
+  "読者・会員は誰か": [
+   {
+    "quote": "「ITエンジニア」「ビジネスパーソン」「製造業」「セキュリティ」など、認知を図りたい対象を読者に持つ専門メディアへの掲載をお約束します",
+    "url": "https://promotion.itmedia.co.jp/service/awareness/bannerad",
+    "pass": 1
+   },
+   {
+    "quote": "As Japan's largest internet-only media company, ITmedia Inc. delivers cutting-edge information in business and technology, connecting enterprises with their audiences. Our mission is to powerfully support our clients' growth and digital transformation in the Japanese market through highly reliable specialized information and innovative marketing solutions.",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "monthly, we can widely reach high-quality business and technology-interested audiences.",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "AudienceDashboardの詳細はこちら",
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "pass": 1
+   },
+   {
+    "quote": "Proposal of Audience Targeting Advertising",
+    "url": "https://ferret-one.akamaized.net/files/6017bbe9d9c7570b9a176b08/newsletter.pdf?utime=1612168169",
+    "pass": 2
+   },
+   {
+    "quote": "製造業に従事するエンジニアを対象に、モノづくりの現場で働くスペシャリストの役に立つ技術情報や業界の最新動向を提供するメディアです",
+    "url": "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "pass": 3
+   },
+   {
+    "quote": "「組み込み開発」「メカ設計」「製造マネジメント」「オートモーティブ」の4つのフォーラムを中心に、基礎から応用まで多彩な技術解説記事、図版を多用した分かりやすいコンテンツ、話題のトピックスをより深く掘り下げた連載記事など、モノづくりに役立つ蓄積型コンテンツを充実させ、製造業における最新かつ専門性の高い技術情報を発信することで、技術者の問題解決をサポートしていきます",
+    "url": "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "pass": 3
+   },
+   {
+    "quote": "実践的なメカ設計技術、3次元CADを中心としたITツールの有効活用法などを提供する、メカ設計者のための問題解決・応援フォーラムです",
+    "url": "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "pass": 3
+   },
+   {
+    "quote": "最新の自動車を設計／開発するために必要なエレクトロニクス、メカ設計／生産管理、電気自動車をはじめとするエコカーの技術動向を詳しく解説します",
+    "url": "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器分野の最新ニュースや、高品質で安全な機器を開発するために欠かせないエレクトロニクスの技術動向、CEマーク/医療機器指令の情報を掲載します",
+    "url": "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "pass": 3
+   },
+   {
+    "quote": "加工技術や製造業向けIT解説、コミュニティ情報を提供する、大志を抱く中小企業のためのモノづくり支援フォーラムです",
+    "url": "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業エンジニアのための転職支援・キャリア構築・スキルアップ支援フォーラム",
+    "url": "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "pass": 3
+   },
+   {
+    "quote": "医療用AI、IoTプラットフォームを開発、運営する新会社を共同で設立",
+    "url": "https://www.optim.co.jp/newsdetail/20200617-media-01",
+    "pass": 3
+   },
+   {
+    "quote": "～製造業がIoTサービス企業を立ち上げるまで～ - IoT・クラウド・AIのことなら|アムニモ株式会社",
+    "url": "https://amnimo.com/news/monoist%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%EF%BD%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%8Ciot%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%81%E6%A5%AD%E3%82%92/",
+    "pass": 3
+   },
+   {
+    "quote": "～製造業がIoTサービス企業を立ち上げるまで～",
+    "url": "https://amnimo.com/news/monoist%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%EF%BD%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%8Ciot%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%81%E6%A5%AD%E3%82%92/",
+    "pass": 3
+   },
+   {
+    "quote": "MONOistとは、日本の製造業のモノづくりに関する最新情報や、問題解決につながる“気付き”を発信し続けているモノづくり専門メディアです",
+    "url": "https://media-radar.jp/detail2557.html",
+    "pass": 3
+   },
+   {
+    "quote": "・製造業 64%、モノづくり関連職 56%",
+    "url": "https://media-radar.jp/detail2557.html",
+    "pass": 3
+   },
+   {
+    "quote": "・現場からリーダークラス・経営層までモノづくりエンジニアを中心に製造業全体の読者をカバー",
+    "url": "https://media-radar.jp/detail2557.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、製造業でもAI技術の活用が急速に進んでいる",
+    "url": "https://monoist.itmedia.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビューや技術解説、最新トレンドを通じて、AIが製造業にもたらす変化の現在地を探る",
+    "url": "https://monoist.itmedia.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "その中で製造業は新たにどういう取り組みを進めるべきか",
+    "url": "https://monoist.itmedia.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノン超高感度カメラが製造業へ、独自SPADセンサーが応える新たな可視化ニーズ",
+    "url": "https://monoist.itmedia.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、記事の中では、テルえもんが検討委員会・実務者ワーキング委員として関わらせていただいた経済産業省 東北経済産業局（委託先：日本能率コンサルティング）が2020年度に調査した「令和2年度 東北地域におけるオープンイノベーション加速化に向けた、オープンイノベーション拠点及びデジタルエンジニア人材高度化調査に関する調査報告」から抜粋した図を使って、3DCADの導入について、説明もしています",
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングプラットフォーム運営企業｜営業フロー改善のご紹介",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "化学プラント技術者の活動レポート【2026年3月】",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "🔍 製造業エンジニアのAIリアル事情2026｜設計・解析現場の本音を徹底解剖！期待と課題の\"生の声\"がヤバかった",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のエンジニア向け情報ポータル「MONOist」に連載「製造業のためのアジャイル開発入門」が公開されました",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "JPY 1,891 million (as of March 31, 2025)",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "400 million PV",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "50 million unique browsers",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "1 million members",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   },
+   {
+    "quote": "ITmedia Inc. Sales Division",
+    "url": "https://ferret-one.akamaized.net/files/6017bbe9d9c7570b9a176b08/newsletter.pdf?utime=1612168169",
+    "pass": 2
+   },
+   {
+    "quote": "TOTOが半導体製造で役立つセラミック次世代品の工場建設、投資額は600億円",
+    "url": "https://monoist.itmedia.co.jp/",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "Interviews with customers who have implemented various services such as lead acquisition, virtual events, and webcasts.",
+    "url": "https://promotion.itmedia.co.jp/english",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "MONOist（ITmedia）に、当社とシスメックスが「ディピューラメディカルソリューションズ株式会社」を共同設立した発表について掲載されました",
+    "url": "https://www.optim.co.jp/newsdetail/20200617-media-01",
+    "pass": 3
+   },
+   {
+    "quote": "医療用AI、IoTプラットフォームを開発、運営する新会社を共同で設立",
+    "url": "https://www.optim.co.jp/newsdetail/20200617-media-01",
+    "pass": 3
+   },
+   {
+    "quote": "ティアフォー、The Autoware Foundationを設立 自動運転OSの業界標準へ https://prtimes.jp/main/html/rd/p/000000002.000040119.html @PRTIMES_JPより",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "MONOist 【公式】 (@MONOist_itmedia) / X — MONOist 【公式】 (@MONOist_itmedia) / X X https://x.com > MONOist_itmedia",
+    "url": "https://x.com/MONOist_itmedia",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist - 運営 メディア紹介 — MONOist - 運営 メディア紹介 アイティメディア株式会社 https://corp.itmedia.co.jp > topic > service > monoist",
+    "url": "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist ポッドキャスト | Listen to the Podcast on Spotify — MONOist ポッドキャスト | Listen to the Podcast on Spotify Spotify https://open.spotify.com > show",
+    "url": "https://open.spotify.com/show/0yByjKmZruVI7xXp2WxAIU",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist （ITmedia）に、当社とシスメックスが「ディ ... — MONOist （ITmedia）に、当社とシスメックスが「ディ ... OPTiM（オプティム） https://www.optim.co.jp > newsdetail > 20200617-media-01",
+    "url": "https://www.optim.co.jp/newsdetail/20200617-media-01",
+    "pass": 3
+   },
+   {
+    "quote": "Monoist に掲載されました。～製造業がIoTサービス企業を立ち ... — Monoist に掲載されました。～製造業がIoTサービス企業を立ち ... アムニモ株式会社 https://amnimo.com > ニュース",
+    "url": "https://amnimo.com/news/monoist%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%EF%BD%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%8Ciot%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%81%E6%A5%AD%E3%82%92/",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist へのご掲載検討はこちら - アイティメディア - ITmedia — MONOist へのご掲載検討はこちら - アイティメディア - ITmedia ITmedia https://promotion.itmedia.co.jp > media > monoist",
+    "url": "https://promotion.itmedia.co.jp/media/monoist",
+    "pass": 3
+   },
+   {
+    "quote": "日本の“モノづくり”を支援する専門情報メディア『 MONOist 』 — 日本の“モノづくり”を支援する専門情報メディア『 MONOist 』 メディアレーダー https://media-radar.jp > 媒体資料を探す",
+    "url": "https://media-radar.jp/detail2557.html",
+    "pass": 3
+   },
+   {
+    "quote": "Media Guide - MONOist — Media Guide - MONOist MONOist https://monoist.atmarkit.co.jp > special",
+    "url": "https://monoist.atmarkit.co.jp/mn/special/mo131204/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist （モノイスト） - Muck Rack — MONOist （モノイスト） - Muck Rack Muck Rack https://muckrack.com > media-outlet > monoistatmarkitco",
+    "url": "https://muckrack.com/media-outlet/monoistatmarkitco",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist （モノイスト） - Facebook — MONOist （モノイスト） - Facebook Facebook https://www.facebook.com > ... > News & media website",
+    "url": "https://www.facebook.com/MONOist/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist 【公式】 on X: \"目標は2030年度に 売上 高2500億円 ... — MONOist 【公式】 on X: \"目標は2030年度に 売上 高2500億円 ... X https://x.com > @MONOist_itmedia",
+    "url": "https://x.com/MONOist_itmedia/status/2099979100425535526",
+    "pass": 3
+   },
+   {
+    "quote": "モノづくりスペシャリストのための情報ポータル - MONOist ... — モノづくりスペシャリストのための情報ポータル - MONOist ... MONOist https://monoist.itmedia.co.jp",
+    "url": "https://monoist.itmedia.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "第三者保守に関するタイアップ記事が MONOist に掲載されました — 第三者保守に関するタイアップ記事が MONOist に掲載されました 株式会社ゲットイット https://www.get-it.ne.jp > news",
+    "url": "https://www.get-it.ne.jp/news/260625/",
+    "pass": 3
+   },
+   {
+    "quote": "OKIグループの一員として、2020年に新スタート ... - Facebook — OKIグループの一員として、2020年に新スタート ... - Facebook Facebook https://www.facebook.com > MONOist > posts > okiグル...",
+    "url": "https://www.facebook.com/MONOist/posts/oki%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E4%B8%80%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A62020%E5%B9%B4%E3%81%AB%E6%96%B0%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%92%E5%88%87%E3%81%A3%E3%81%9Foki%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%86%E3%83%83%E3%82%AF%E3%81%AF2031%E5%B9%B4%E5%BA%A6%E3%81%AB%E5%A3%B2%E4%B8%8A%E9%AB%98100%E5%84%84%E5%86%86%E4%BB%A5%E4%B8%8A%E3%81%AE%E9%81%94%E6%88%90%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E4%BA%8B%E6%A5%AD%E5%A4%89%E9%9D%A9%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E3%81%9D%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF/1823038493155754/",
+    "pass": 3
+   },
+   {
+    "quote": "利用規約 - MONOist - ITmedia — 利用規約 - MONOist - ITmedia MONOist https://monoist.atmarkit.co.jp > special > agreement",
+    "url": "https://monoist.atmarkit.co.jp/mn/special/mo111205/agreement.html",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー記事】WEB媒体『 Monoist 』記事掲載 — 【インタビュー記事】WEB媒体『 Monoist 』記事掲載 Advantech https://www.advantech.com > ... > 技術サポート > リソース",
+    "url": "https://www.advantech.com/ja-jp/resources/news/monoist-2026",
+    "pass": 3
+   }
+  ],
+  "AMの扱い": [
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://monoist.itmedia.co.jp/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "Shareholder Information",
+    "url": "https://www.advantech.com/ja-jp/resources/news/monoist-2026",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "MONOist で新連載スタート！テルえもんの3Dモノづくり相談所 MONOist で新連載スタート！テルえもんの3Dモノづくり相談所 note https://note.com > DIY > 電子工作",
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "pass": 3
+   },
+   {
+    "quote": "記事掲載：WEB: MONOist 4.21発行号｜MTDO - note 記事掲載：WEB: MONOist 4.21発行号｜MTDO - note note https://note.com > MTDO",
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist の人気・新着記事まとめ - note MONOist の人気・新着記事まとめ - note note https://note.com > tag > MONOist",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "MODE Sensor Awardについて「 MONOist 」に掲載 - note MODE Sensor Awardについて「 MONOist 」に掲載 - note note https://note.com > tinkermodejapan",
+    "url": "https://note.com/tinkermodejapan/n/n4aa5e1d747c9?magazine_key=m5a896f9f385c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "MONOistで新連載スタート！テルえもんの3Dモノづくり相談所｜小原 照記（テルえもん）",
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "pass": 3
+   },
+   {
+    "quote": "MONOistで新連載スタート！テルえもんの3Dモノづくり相談所",
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "pass": 3
+   },
+   {
+    "quote": "モノづくりスペシャリストのための情報ポータルサイト「MONOist」での、テルえもんの新連載がスタートしました。",
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "pass": 3
+   },
+   {
+    "quote": "その名も、「テルえもんの3Dモノづくり相談所」",
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "pass": 3
+   },
+   {
+    "quote": "「テルえもん」の名前も徐々に浸透してきそうです♪",
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "pass": 3
+   },
+   {
+    "quote": "記念すべき第1回目の内容は、2DCADから3DCADへの移行についてです。",
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "pass": 3
+   },
+   {
+    "quote": "テルえもんが普段、企業様から相談を受けた際に、どのようにヒアリングして対応しているのかを書かせていただきました。",
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ、お時間あるときに読んで頂ければ幸いです。",
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "pass": 3
+   },
+   {
+    "quote": "記事掲載：WEB: MONOist 4.21発行号｜MTDO",
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "pass": 3
+   },
+   {
+    "quote": "記事掲載：WEB: MONOist 4.21発行号",
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "pass": 3
+   },
+   {
+    "quote": "※この記事は2014年4月21日に作成されたものです。",
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりスペシャリストのための情報ポータルサイト「MONOist」に",
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションを生む「デザインマネジメント」の力とは",
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "pass": 3
+   },
+   {
+    "quote": "鳴海製陶のOSOROの事例を取り上げながら、デザインとの違いは何か？デザインマネジメントの役割、効果は何か？といったことを説明しています。",
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "pass": 3
+   },
+   {
+    "quote": "http://monoist.atmarkit.co.jp/mn/articles/1404/21/news002.html",
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "pass": 3
+   },
+   {
+    "quote": "MONOistの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】なぜ鶏肉を手渡しすると歩留まりが上がるのか？元トヨタ生技が明かす「改善」の本質",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "📰 2026-06-12 今週のニュースBOT",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "製造業マッチングプラットフォーム運営企業｜営業フロー改善のご紹介",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "吉冨 剛典｜Takenori Yoshitomi",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "「TRON 組込みOSシェア60%で世界一⁉️は疑わしい ～ 日本発のOS標準規格の基礎と歴史」 にコメントしてみました。",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "📰 AI・DXニュースまとめ（2026/06/03）",
+    "url": "https://note.com/tag/MONOist",
+    "pass": 3
+   },
+   {
+    "quote": "MODE Sensor Awardについて「MONOist」に掲載｜MODE Japan",
+    "url": "https://note.com/tinkermodejapan/n/n4aa5e1d747c9?magazine_key=m5a896f9f385c",
+    "pass": 3
+   },
+   {
+    "quote": "MODE Sensor Awardについて「MONOist」に掲載",
+    "url": "https://note.com/tinkermodejapan/n/n4aa5e1d747c9?magazine_key=m5a896f9f385c",
+    "pass": 3
+   },
+   {
+    "quote": "「MONOist」2023年11月30日に、MODE Sensor Awardについて掲載されました。",
+    "url": "https://note.com/tinkermodejapan/n/n4aa5e1d747c9?magazine_key=m5a896f9f385c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "MONOist 【公式】 (@MONOist_itmedia) / X MONOist 【公式】 (@MONOist_itmedia) / X X https://x.com > MONOist_itmedia",
+    "url": "https://x.com/MONOist_itmedia",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist 【公式】 on X: \"「良いモノ」を作るだけでは稼げ ... MONOist 【公式】 on X: \"「良いモノ」を作るだけでは稼げ ... X https://x.com > @MONOist_itmedia",
+    "url": "https://x.com/MONOist_itmedia/status/2117739873566437551",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist 製造マネジメント (@mono_promng) / X MONOist 製造マネジメント (@mono_promng) / X X https://x.com > mono_promng",
+    "url": "https://x.com/mono_promng",
+    "pass": 3
+   },
+   {
+    "quote": "【レベル17】オリジナルのスマホスタンドを企画し - X 【レベル17】オリジナルのスマホスタンドを企画し - X X https://x.com > @MONOist_itmedia",
+    "url": "https://x.com/MONOist_itmedia/status/2117724773593837708",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "MEDA Featured on MONOist , Japan's Leading Engineering ... MEDA Featured on MONOist , Japan's Leading Engineering ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/ank-world_cad-computeraideddesign-aiagents-activity-7407003646791643137-g3hh",
+    "pass": 3
+   },
+   {
+    "quote": "LENZO Featured in MONOist's Coverage of OKI WORLD 2026 LENZO Featured in MONOist's Coverage of OKI WORLD 2026 LinkedIn https://www.linkedin.com > posts > le...",
+    "url": "https://www.linkedin.com/posts/lenzo-inc_lenzo-featured-in-monoists-coverage-of-oki-activity-7521144191507202048-_dGo",
+    "pass": 3
+   },
+   {
+    "quote": "Yuya Tsunoda - 製造現場にMESが必要なのか ( MONOist ) Yuya Tsunoda - 製造現場にMESが必要なのか ( MONOist ) LinkedIn https://jp.linkedin.com > posts > yuya-tsunoda-8258b75a...",
+    "url": "https://jp.linkedin.com/posts/yuya-tsunoda-8258b75a_%E3%81%AA%E3%81%9C%E4%BB%8A%E8%A3%BD%E9%80%A0%E7%8F%BE%E5%A0%B4%E3%81%ABmes%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%AE%E3%81%8B-monoist-activity-7414064883731750912-o-jT",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MONOist （モノイスト） - Facebook MONOist （モノイスト） - Facebook Facebook https://www.facebook.com > ... > News & media website",
+    "url": "https://www.facebook.com/MONOist/",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist （モノイスト） - Facebook MONOist （モノイスト） - Facebook Facebook https://www.facebook.com > ... > MONOist（モノイスト）",
+    "url": "https://www.facebook.com/MONOist/about/",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist （モノイスト） (@ MONOist ) - Facebook MONOist （モノイスト） (@ MONOist ) - Facebook Facebook https://www.facebook.com > ... > MONOist（モノイスト）",
+    "url": "https://www.facebook.com/media/set/?vanity=MONOist&set=a.2941965639155197",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist （モノイスト） (@ MONOist ) - Facebook MONOist （モノイスト） (@ MONOist ) - Facebook Facebook https://www.facebook.com > ... > MONOist（モノイスト）",
+    "url": "https://www.facebook.com/media/set/?vanity=MONOist&set=a.526825699443713",
+    "pass": 3
+   },
+   {
+    "quote": "MONOist （モノイスト） - Facebook MONOist （モノイスト） - Facebook Facebook https://www.facebook.com > ... > News & media website",
+    "url": "https://www.facebook.com/MONOist/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://promotion.itmedia.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promotion.itmedia.co.jp/service/awareness/advertorial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promotion.itmedia.co.jp/service/awareness/bannerad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promotion.itmedia.co.jp/service/event/seminar_promotion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promotion.itmedia.co.jp/english",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promotion.itmedia.co.jp/ad-quality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promotion.itmedia.co.jp/service/target/behavioral",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promotion.itmedia.co.jp/service/awareness/mailad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://promotion.itmedia.co.jp/mailnews",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ferret-one.akamaized.net/files/6017bbe9d9c7570b9a176b08/newsletter.pdf?utime=1612168169",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ferret-one.akamaized.net/images/5f9bafb6b9aff038a6040cd6/normal.png?utime=1604038582",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://x.com/MONOist_itmedia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open.spotify.com/show/0yByjKmZruVI7xXp2WxAIU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.optim.co.jp/newsdetail/20200617-media-01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amnimo.com/news/monoist%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%EF%BD%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%8Ciot%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%81%E6%A5%AD%E3%82%92/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-radar.jp/detail2557.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mediakit.time.com/print-rate-card/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/special/mo131204/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=xx2BQWoHFC8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://muckrack.com/media-outlet/monoistatmarkitco",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/MONOist/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://media-radar.jp/detail2557.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://academic.oup.com/monist/pages/About",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MONOist_itmedia/status/2099979100425535526",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://muckrack.com/media-outlet/monoistatmarkitco",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.get-it.ne.jp/news/260625/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/MONOist/posts/oki%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E4%B8%80%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A62020%E5%B9%B4%E3%81%AB%E6%96%B0%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%92%E5%88%87%E3%81%A3%E3%81%9Foki%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%86%E3%83%83%E3%82%AF%E3%81%AF2031%E5%B9%B4%E5%BA%A6%E3%81%AB%E5%A3%B2%E4%B8%8A%E9%AB%98100%E5%84%84%E5%86%86%E4%BB%A5%E4%B8%8A%E3%81%AE%E9%81%94%E6%88%90%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E4%BA%8B%E6%A5%AD%E5%A4%89%E9%9D%A9%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E3%81%9D%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF/1823038493155754/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/special/mo111205/agreement.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muckrack.com/media-outlet/monoistatmarkitco",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MONOist_itmedia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.advantech.com/ja-jp/resources/news/monoist-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-radar.jp/detail2557.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/teruemon/n/ne97ee5096dcd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mtdo/n/nd7e23f902077",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/MONOist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MONOist_itmedia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MONOist_itmedia/status/2117739873566437551",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mono_promng",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MONOist_itmedia/status/2117724773593837708",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ank-world_cad-computeraideddesign-aiagents-activity-7407003646791643137-g3hh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/lenzo-inc_lenzo-featured-in-monoists-coverage-of-oki-activity-7521144191507202048-_dGo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/yuya-tsunoda-8258b75a_%E3%81%AA%E3%81%9C%E4%BB%8A%E8%A3%BD%E9%80%A0%E7%8F%BE%E5%A0%B4%E3%81%ABmes%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%AE%E3%81%8B-monoist-activity-7414064883731750912-o-jT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MONOist/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MONOist/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/media/set/?vanity=MONOist&set=a.2941965639155197",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/media/set/?vanity=MONOist&set=a.526825699443713",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tinkermodejapan/n/n4aa5e1d747c9?magazine_key=m5a896f9f385c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MONOist_itmedia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MONOist_itmedia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MONOist/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MONOist",
+   "results": [
+    "https://mtg.wiki/page/Monasteriat",
+    "https://monoist.itmedia.co.jp/",
+    "https://scryfall.com/card/yeoe/11/monoist-gravliner",
+    "https://lhmandco.com/represented-media/monoist/",
+    "https://www.reddit.com/r/mtgvorthos/comments/1lwxs1j/absolutely_loving_the_monoists_in_eoe/",
+    "https://en.wikipedia.org/wiki/Monism",
+    "https://scryfall.com/search?q=art%3Amonoist&unique=art",
+    "https://monoist.com/",
+    "https://www.dictionary.net/dictionary/monist",
+    "https://www.merriam-webster.com/dictionary/monism"
+   ]
+  },
+  {
+   "query": "株式会社MONOist",
+   "results": [
+    "https://monoist.itmedia.co.jp/",
+    "https://x.com/MONOist_itmedia",
+    "https://promotion.itmedia.co.jp/media/monoist",
+    "https://muckrack.com/media-outlet/monoistatmarkitco",
+    "https://open.spotify.com/show/0yByjKmZruVI7xXp2WxAIU",
+    "https://www.facebook.com/MONOist/?locale=ja_JP",
+    "https://amnimo.com/news/monoist%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%EF%BD%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%8Ciot%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%81%E6%A5%AD%E3%82%92/",
+    "https://lhmandco.com/represented-media/monoist/",
+    "https://monoist.atmarkit.co.jp/mn/special/mo131204/index.html",
+    "https://monoist.itmedia.co.jp/mn/special/mo140501/index.html"
+   ]
+  },
+  {
+   "query": "MONOist 会社概要 運営 設立",
+   "results": [
+    "https://x.com/MONOist_itmedia",
+    "https://corp.itmedia.co.jp/media/topic/service/monoist/",
+    "https://open.spotify.com/show/0yByjKmZruVI7xXp2WxAIU",
+    "https://www.optim.co.jp/newsdetail/20200617-media-01",
+    "https://amnimo.com/news/monoist%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%EF%BD%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%8Ciot%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%81%E6%A5%AD%E3%82%92/",
+    "https://skillnote.jp/news/0615-2/",
+    "https://www.kaku-ichi.co.jp/medias/monoist/",
+    "https://corp.itmedia.co.jp/pr/releases/2007/08/01/20070801/",
+    "https://www.t-venture.co.jp/works/184",
+    "https://monoist.itmedia.co.jp/"
+   ]
+  },
+  {
+   "query": "MONOist 広告 料金 OR media kit OR rate card",
+   "results": [
+    "https://promotion.itmedia.co.jp/media/monoist",
+    "https://media-radar.jp/detail2557.html",
+    "https://mediakit.time.com/print-rate-card",
+    "https://monoist.atmarkit.co.jp/mn/special/mo131204/index.html",
+    "https://www.youtube.com/watch?v=xx2BQWoHFC8",
+    "https://solutions.hearst.co.jp/media-kit",
+    "https://www.pinterest.com/ideas/media-kit-rate-card/897735859918/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/monoist/",
+    "https://mediakit.bio/media-kit/media-kit-vs-rate-card/"
+   ]
+  },
+  {
+   "query": "MONOist 会員数 OR 読者数 OR subscribers OR readers",
+   "results": [
+    "https://promotion.itmedia.co.jp/media/monoist",
+    "https://muckrack.com/media-outlet/monoistatmarkitco",
+    "https://www.facebook.com/MONOist/?locale=ja_JP",
+    "https://media-radar.jp/detail2557.html",
+    "https://academic.oup.com/monist/pages/About",
+    "https://duotrope.com/magazine/the-monist-21230",
+    "https://www.ceatec.com/en/application/outline/outline04.html",
+    "https://monoist.itmedia.co.jp/",
+    "https://www.forbes.com/sites/forbes-personal-shopper/article/the-best-reading-glasses/",
+    "https://www.amazon.com/Reading-Glasses/b?node=3779821"
+   ]
+  },
+  {
+   "query": "MONOist 売上 OR revenue OR acquired",
+   "results": [
+    "https://x.com/MONOist_itmedia/status/2099979100425535526",
+    "https://muckrack.com/media-outlet/monoistatmarkitco",
+    "https://monoist.itmedia.co.jp/",
+    "https://www.get-it.ne.jp/news/260625/",
+    "https://www.facebook.com/MONOist/posts/oki%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E4%B8%80%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A62020%E5%B9%B4%E3%81%AB%E6%96%B0%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%92%E5%88%87%E3%81%A3%E3%81%9Foki%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%86%E3%83%83%E3%82%AF%E3%81%AF2031%E5%B9%B4%E5%BA%A6%E3%81%AB%E5%A3%B2%E4%B8%8A%E9%AB%98100%E5%84%84%E5%86%86%E4%BB%A5%E4%B8%8A%E3%81%AE%E9%81%94%E6%88%90%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E4%BA%8B%E6%A5%AD%E5%A4%89%E9%9D%A9%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E3%81%9D%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF/1823038493155754/",
+    "https://www.sec.gov/Archives/edgar/data/1280452/000143774926003191/ex_886152.htm",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/monoist/",
+    "https://finance.yahoo.com/video/miivo-ai-reports-nearly-560-151943763.html",
+    "https://en.wikipedia.org/wiki/Revenue",
+    "https://www.bankdirector.com/event/acquire-or-be-acquired-2027/"
+   ]
+  },
+  {
+   "query": "MONOist スポンサー OR sponsorship OR 協賛",
+   "results": [
+    "https://monoist.atmarkit.co.jp/mn/special/mo111205/agreement.html",
+    "https://muckrack.com/media-outlet/monoistatmarkitco",
+    "https://x.com/MONOist_itmedia",
+    "https://www.advantech.com/ja-jp/resources/news/monoist-2026",
+    "https://media-radar.jp/detail2557.html",
+    "https://premier-eg.co.jp/monoist/",
+    "https://promotion.itmedia.co.jp/campaign/2604_07",
+    "https://m-e-f.info/sponsorship_ja/",
+    "https://www.kanazawa-it.ac.jp/kitnews/2026/0127_ICC_MONOist.html",
+    "https://www.marke-media.net/whitepaper/ad-031/"
+   ]
+  },
+  {
+   "query": "site:note.com MONOist",
+   "results": [
+    "https://note.com/teruemon/n/ne97ee5096dcd",
+    "https://note.com/mtdo/n/nd7e23f902077",
+    "https://note.com/tag/MONOist",
+    "https://note.com/okappiki3/n/n4e33a205d522?hl=en",
+    "https://note.com/tinkermodejapan/n/n4aa5e1d747c9?magazine_key=m5a896f9f385c",
+    "https://note.com/okappiki3/n/n89d3865beadd?hl=en",
+    "https://note.com/okappiki3/n/nb9def2d7e7ed?hl=en",
+    "https://note.com/jeakansai/n/n74513dd1e5a6?hl=en",
+    "https://note.com/mfabrica/n/nd3a600784cb0",
+    "https://note.com/creationlinetech/n/n5e6163bdc3af"
+   ]
+  },
+  {
+   "query": "site:x.com MONOist",
+   "results": [
+    "https://x.com/MONOist_itmedia",
+    "https://x.com/MONOist_itmedia/status/2117739873566437551",
+    "https://x.com/mono_promng",
+    "https://x.com/MONOist_itmedia/status/2117724773593837708",
+    "https://x.com/MONOist_itmedia/status/2118585472578716119",
+    "https://x.com/MONOist_itmedia/status/2118102264670007380",
+    "https://x.com/MONOist_itmedia/status/2118207974925889599",
+    "https://x.com/MONOist_itmedia/status/2117090614592647187",
+    "https://x.com/MONOist_itmedia/status/2117083055882203500",
+    "https://x.com/MONOist_itmedia/status/2115248472383471632"
+   ]
+  },
+  {
+   "query": "site:linkedin.com MONOist",
+   "results": [
+    "https://www.linkedin.com/posts/ank-world_cad-computeraideddesign-aiagents-activity-7407003646791643137-g3hh",
+    "https://www.linkedin.com/posts/lenzo-inc_lenzo-featured-in-monoists-coverage-of-oki-activity-7521144191507202048-_dGo",
+    "https://jp.linkedin.com/posts/shunsuke-aoki-2baa85b3_%E3%82%A2%E3%83%88%E3%83%A0%E3%81%AE%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E9%83%A8%E5%93%81%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6monoist%E3%81%95%E3%82%93%E3%81%AB%E5%8F%96%E3%82%8A%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-activity-7515293621919772672-iAdd",
+    "https://jp.linkedin.com/posts/yuya-tsunoda-8258b75a_%E3%81%AA%E3%81%9C%E4%BB%8A%E8%A3%BD%E9%80%A0%E7%8F%BE%E5%A0%B4%E3%81%ABmes%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%AE%E3%81%8B-monoist-activity-7414064883731750912-o-jT",
+    "https://www.linkedin.com/posts/tomo-kamiya-4b0a143_%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E6%94%AF%E6%8F%B4%E5%BC%B7%E5%8C%96%E3%81%A7%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E5%A4%A7%E5%9B%BD%E5%BE%A9%E6%B4%BB%E3%81%B8ptc%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E7%A5%9E%E8%B0%B7%E6%B0%8F%E3%81%AE%E6%88%A6%E7%95%A5-activity-7155848622671110145-8pz6",
+    "https://www.linkedin.com/posts/tsuyoshi-kitagawa-2855762_%E6%97%A5%E6%9C%AC%E5%B8%82%E5%A0%B4%E3%81%AF%E6%94%BB%E3%82%81%E6%99%82forescout%E3%81%AF2029%E5%B9%B4%E6%9C%AB%E3%81%BE%E3%81%A7%E3%81%AB%E4%BA%8B%E6%A5%AD%E8%A6%8F%E6%A8%A13%E5%80%8D%E3%81%B8-activity-7493908011741163520-ctCu",
+    "https://jp.linkedin.com/posts/accenture-japan_monoist-activity-7302598729197309953-YPgl",
+    "https://www.linkedin.com/posts/tomo-kamiya-4b0a143_ptc%E3%81%8C%E6%96%B0%E8%A3%BD%E5%93%81orbitjetstream%E3%82%92%E7%99%BA%E8%A1%A8creocodebeamer-activity-7477268757292138496-svwh",
+    "https://www.linkedin.com/posts/yasuhiko-okumura-817282327_%E6%99%82%E3%81%AF%E6%9D%A5%E3%81%9F%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E3%81%8C%E5%9B%BD%E5%86%85%E7%89%A9%E6%B5%81%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BA%8B%E6%A5%AD%E3%82%92%E6%9C%AC%E6%A0%BC%E5%B1%95%E9%96%8B%E3%81%B8monoist-activity-7343618207791910912-w3HT",
+    "https://jp.linkedin.com/posts/masahito-komiya-36578354_monoist-iot-forum-2022-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E4%BE%A1%E5%80%A4%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8Biot%E6%B4%BB%E7%94%A8%E3%81%A8%E3%81%AF-activity-7005700981246083072--EYA"
+   ]
+  },
+  {
+   "query": "site:facebook.com MONOist",
+   "results": [
+    "https://www.facebook.com/MONOist/",
+    "https://www.facebook.com/MONOist/about/",
+    "https://www.facebook.com/media/set/?vanity=MONOist&set=a.2941965639155197",
+    "https://www.facebook.com/media/set/?vanity=MONOist&set=a.526825699443713",
+    "https://www.facebook.com/media/set/?vanity=MONOist&set=a.249994661685655",
+    "https://www.facebook.com/media/set/?vanity=MONOist&set=a.2941983289153432",
+    "https://www.facebook.com/MONOist/posts/monoist%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%9F%E4%B8%BB%E8%A6%81%E3%81%AA%E8%A8%98%E4%BA%8B%E3%82%92%E8%AA%AD%E3%81%BF%E3%82%84%E3%81%99%E3%81%84pdf%E5%BD%A2%E5%BC%8F%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%81%AB%E5%86%8D%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E4%BB%8A%E5%9B%9E%E3%81%AF%E9%80%A3%E8%BC%89%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E5%8C%96%E5%AD%A6%E5%B7%A5%E5%AD%A6%E3%81%AE%E7%AC%AC46%E5%9B%9E%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F/1818193216973615/",
+    "https://www.facebook.com/MONOist/posts/2026%E5%B9%B411%E6%9C%885%E6%97%A5%E3%81%AB%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%9Fmonoist%E3%81%AE%E6%96%B0%E7%9D%80%E8%A8%98%E4%BA%8B%E3%82%92%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%A6%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99/1821910426601894/",
+    "https://www.facebook.com/MONOist/posts/monoist%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%9F%E4%B8%BB%E8%A6%81%E3%81%AA%E8%A8%98%E4%BA%8B%E3%82%92%E8%AA%AD%E3%81%BF%E3%82%84%E3%81%99%E3%81%84pdf%E5%BD%A2%E5%BC%8F%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%81%AB%E5%86%8D%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E4%BB%8A%E5%9B%9E%E3%81%AFmonoist%E3%81%AE%E5%A4%A7%E4%BA%BA%E6%B0%97%E9%80%A3%E8%BC%89%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%82%B9%E3%82%AD/1801379651988305/",
+    "https://www.facebook.com/MONOist/posts/%E5%9B%BD%E5%86%85%E3%81%AE%E8%A3%BD%E9%80%A0%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AF%E5%88%86%E9%87%8E%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E3%81%AF%E5%8D%81%E5%88%86%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93/1818133486979588/"
+   ]
+  },
+  {
+   "query": "MONOist note 社長",
+   "results": [
+    "https://note.com/tinkermodejapan/n/n4aa5e1d747c9?magazine_key=m5a896f9f385c",
+    "https://www.retail-ai.jp/news/monoist_ceo_interview/",
+    "https://x.com/MONOist_itmedia",
+    "https://monoist.itmedia.co.jp/mn/series/459/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://corp.skillnote.jp/news/20220908/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/soramichicoltd/m/m58bf1b7d4aae",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ]
+  },
+  {
+   "query": "MONOist X 投稿",
+   "results": [
+    "https://x.com/MONOist_itmedia",
+    "https://monoist.itmedia.co.jp/mn/articles/2601/21/news028.html",
+    "https://open.spotify.com/show/0yByjKmZruVI7xXp2WxAIU",
+    "https://www.facebook.com/MONOist/?locale=ja_JP",
+    "https://monoist.itmedia.co.jp/mn/series/43723/",
+    "https://x.com/MONOist_itmedia/status/2117739873566437551",
+    "https://muckrack.com/media-outlet/monoistatmarkitco",
+    "https://www.kanazawa-it.ac.jp/kitnews/2026/0127_ICC_MONOist.html",
+    "https://prtimes.jp/main/html/rd/p/000000066.000001247.html",
+    "https://x.com/monoist_itmedia/status/2098533313975894142"
+   ]
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）",
+  "設立": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）",
+  "所在地": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）",
+  "代表者": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）",
+  "黒字・収益性": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部41頁・検索13回）"
+ }
+}

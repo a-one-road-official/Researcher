@@ -1,0 +1,2488 @@
+{
+ "name": "プロトラブズ合同会社",
+ "aliases": [
+  "Protolabs Japan",
+  "プロトラブズ",
+  "Proto Labs"
+ ],
+ "context": "日本から撤退（2022）",
+ "researched_at": "2026-11-06T16:40:17.354170+00:00",
+ "official_url": "https://www.protolabs.com/",
+ "identified_by": "search:yahoo_jp:プロトラブズ",
+ "profile": {
+  "株主": [
+   {
+    "label": "Mold Ownership",
+    "value": "Upon request Yes",
+    "url": "https://www.protolabs.com/services/injection-molding/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "参入の時期と形": [
+   {
+    "quote": "Two new materials, Ceramic-filled and Tough Black, have been added to our material library alongside our newly launched HPS 3D printing process.",
+    "url": "https://www.protolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A new category, Advanced Photopolymers, has been added to our material selection dropdown with two brand new materials; Ceramic-filled and Tough Black. These two materials use our newly launched HPS process providing excellent resolution and higher mechanical properties for more advanced/end-use applications.",
+    "url": "https://www.protolabs.com/resources/release-notes/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1999, we radically reduced the time needed to produce molded prototypes through complex software that automated the manufacturing process. Over the next two decades, we added CNC machining, 3D printing, and sheet metal fabrication, and later launched",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "プロトラブズ合同会社は2009年に神奈川県座間市を拠点にで事業を開始、オンデマンドのプロトタイピングや切削加工などの部品加工サービスを提供してきた",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズは1999年設立",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "コア・インダストリアルパートナーズがGoProtoを買収",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "UGEEが子供向け3Dプリンター「Funbox」の販売を開始",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンがメタル3Dプリンター事業へ参入",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "スカルプティオ、FDM3Dプリンティングサービスを開始",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "HPとハイペリオンが超硬合金の3Dプリント実用化で提携",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブス社（アメリカ）は設計開発支援から、金型含む樹脂射出成形、金属CNC切削加工、樹脂金属3Dプリンティング、シートメタル加工の試作から量産までを、自社工場と国内外の200以上の提携企業工場により、オンライン見積発注システムでサービス提供する企業だ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズが3Dハブズを2億8千万ドルで買収 ｜ 世界の3Dプリンターニュース「セカプリ」",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズが3Dハブズを2億8千万ドルで買収",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの大手3Dプリンティングサービスビューローのプロトラブズが、オランダのオンライン3Dプリンティングサービスビューローの3Dハブズを2億8千万ドル（約294億円）で買収する",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "買収により、オンラインとオフラインを合わせた世界最大規模の3Dプリンティングサービスビューローが誕生する",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dハブズの買収について、プロトラブズの時期社長兼CEO就任予定のロブ・ボーダー氏は、「3Dハブズの買収により、お客様に高次元のマニュファクチャリングの柔軟性を提供するという我々のサービスモデルをさらに進化させることが可能になります",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dハブズは2013年設立",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "設立当初は一般の3Dプリンター所有者をインターネットでネットワークし、3Dプリント希望者とオンラインでマッチングする仕組を提供していた",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズは1999年設立",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ、極微小SLA樹脂素材の提供を開始",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズがメタル3Dプリンティングサービスを開始",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "UGEEが子供向け3Dプリンター「Funbox」の販売を開始",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンがメタル3Dプリンター事業へ参入",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "スカルプティオ、FDM3Dプリンティングサービスを開始",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "HPとハイペリオンが超硬合金の3Dプリント実用化で提携",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsが3D Hubを買収 | 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsが3D Hubを買収",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs、3D Hubsを2億8000万ドルで買収へ",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "を、総額2億8000万ドル（約290億円）で買収することを発表した",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "この買収により Protolabs は、約240社の製造パートナーから成る 3D Hubs のグローバルネットワークを利用可能となり、カスタムパーツ製造のための世界で最も包括的なデジタル製造サービスを提供できるようになる",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "2013年に設立された 3D Hubs は、独自のデジタルプラットフォームを通じて600万個以上のカスタムパーツや製品の生産を可能にするグローバル製造プラットフォームを構築",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "また Protolabs は、財務実績と従業員の目標達成度に基づいて、3D Hubs の従業員に支払われるインセンティブ基金を設立した",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal によるパイオニア企業 EnvisionTEC の買収など、Additive Manufacturing製造業界における統合と拡大が新たな局面へと加速している",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop MetalがEnvisionTECを3億ドルで買収",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "ランボルギーニ、新型モデル用3Dプリント部品の生産を開始",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレス鋼部品製作用「Ultrafuse 316L」販売開始",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "DMM.makeが3Dプリント品の表面処理サービスを開始",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズは1999年設立",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "UGEEが子供向け3Dプリンター「Funbox」の販売を開始",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンがメタル3Dプリンター事業へ参入",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "スカルプティオ、FDM3Dプリンティングサービスを開始",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "HPとハイペリオンが超硬合金の3Dプリント実用化で提携",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年後半に着手した市場参入（Go-to-Market）戦略の改革を受け、欧州地域は2桁の売上増を達成しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "2019年、米Protolabsは創業20周年を、日本は国内事業開始10周年を迎えました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本事業を担うプロトラブズ合同会社 (本社：神奈川県座間市、社長 今井歩、以下プロトラブズ) は、5月15日に国内での事業開始10周年を迎えました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsは1999年、ソフトウェアエンジニアのラリー・ルーカスによって設立されました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "Protlabsのアジア唯一の拠点であるプロトラブズが、日本における事業を開始したのは、2009年5月15日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   }
+  ],
+  "撤退・縮小の時期と理由": [
+   {
+    "quote": "Maximum part size is a function of mold size and part complexity. The largest size we can support with plastic injection molding is 18.9 in. by 29.6 in. by 8 in. (480mm by 751mm by 203mm).",
+    "url": "https://www.protolabs.com/services/injection-molding/family-multi-cavity/",
+    "pass": 1
+   },
+   {
+    "quote": "The number of possible cavities can be 2, 4, or 8 per mold. This ultimately is dependent on part complexity and size.",
+    "url": "https://www.protolabs.com/services/injection-molding/family-multi-cavity/",
+    "pass": 1
+   },
+   {
+    "quote": "Fundamentally, lead times are based on the complexity and size of your mold and can vary from 1 to 20 days, based on those attributes. Below is a rough idea of what you can expect in terms of turnaround for your parts.",
+    "url": "https://www.protolabs.com/services/injection-molding/family-multi-cavity/",
+    "pass": 1
+   },
+   {
+    "quote": "Mold Complexity and Cost:",
+    "url": "https://www.protolabs.com/services/injection-molding/family-multi-cavity/",
+    "pass": 1
+   },
+   {
+    "quote": "It costs more to design and build a balanced multi-cavity mold due to the added complexity and time it takes to cut the mold, but you might make up for that with a lower piece-part price",
+    "url": "https://www.protolabs.com/services/injection-molding/family-multi-cavity/",
+    "pass": 1
+   },
+   {
+    "quote": "Because of the initial capital investment in tooling, injection molding makes sense for higher volumes of parts. Our mold cost starts at $1,495 and will vary depending on part geometry and complexity. Other factors that will impact injection molding cost are lead times and material.",
+    "url": "https://www.protolabs.com/services/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "Turnaround time for each process varies and is dependent on factors like part complexity and quantity.",
+    "url": "https://www.protolabs.com/services/injection-molding/secondary-operations/",
+    "pass": 1
+   },
+   {
+    "quote": "Transfer a two-dimensional image, like a company logo, onto a three-dimensional object. All images are reviewed for size, color, and complexity restrictions.",
+    "url": "https://www.protolabs.com/services/injection-molding/secondary-operations/",
+    "pass": 1
+   },
+   {
+    "quote": "By combining custom sheet metal fabrication, off-the-shelf component sourcing, assembly services, and engineering expertise, this update helps reduce complexity and deliver assemblies that are ready for the next stage of production.",
+    "url": "https://www.protolabs.com/resources/release-notes/",
+    "pass": 1
+   },
+   {
+    "quote": "A new material has been added to our advanced photopolymer list, now offering Flame Retardant Black (Arkema FR512). This material utilizes our HPS process and is a flame-retardant resin that achieves a UL-94 rating of V-0 at 0.031 in. while maintaining good print accuracy with fine feature parts. This material will replace Carbon EPX86 FR that will be discontinued on May 30th.",
+    "url": "https://www.protolabs.com/resources/release-notes/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of our ongoing efforts to streamline our 3D printing product line and ensure the highest quality materials are available, we have decided to discontinue the RPU70 material effective April 15th.",
+    "url": "https://www.protolabs.com/resources/release-notes/",
+    "pass": 1
+   },
+   {
+    "quote": "All complexities sized up to 79 in. (2m)",
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "プロトラブズが日本法人閉鎖、日本市場から撤退 ｜ 世界の3Dプリンターニュース「セカプリ」",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズが日本法人閉鎖、日本市場から撤退",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの大手デジタルマニュファクチャリングサービスビューローのプロトラブズが、日本法人を閉鎖し、日本市場から撤退すると発表した",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "で、「プロトラブズ合同会社は日本法人としての業務を終了することとなりました",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形サービスは2022年6月8日正午をもって受注を停止しておりますが切削加工サービスは2022年7月15日まで受注を受け付けております",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形や切削加工の受託WEBサービスをしているプロトラブズが日本から撤退するようです",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに契約終了後2年間の業績目標に応じて5,000万ドル（50％の現金と50％の Protolabs 株）が支払われる",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "第2四半期と比較すると、非GAAP営業利益率は11.9%とほぼ横ばいだったものの、非GAAP売上総利益率は230ベーシスポイント縮小した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "また決算説明資料では、同社の非GAAP指標には株式報酬費用、無形資産償却費、特定の事業再編コストまたは変革コストなどの項目が含まれておらず、他の企業が公表している同種の名称の指標と比較できない場合があると付記された",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国の株式市場が下げ幅を縮小し、安値圏にあるSKハイニックスやサムスンに押し目買いが入るなか、KOSPIはサーキットブレーカー発動後に5,000ポイントの大台を回復した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "木曜には一時4,147.06ドルを付け、2週間超ぶりの高値を記録したものの、その後は上げ幅を一部縮小した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "米連邦準備制度理事会（FRB）が10月の会合で利上げを一時停止したばかりであり、市場が依然として12月の追加利上げに賭けている中、今回の雇用統計によって米労働市場の底堅さが確認されるかどうかは、金利見通しや米国株、米ドル、金（XAUUSD）の短期的な値動きを左右する重要な変数となる",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "CNC加工などの強い需要が牽引し、顧客1社あたり売上高は17%拡大した",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ（NYSE: PRLB）は、CNC加工、3Dプリンティング、射出成形における強い需要が2桁成長を後押しし、2026年第3四半期の売上高が過去最高を記録したと発表しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングの売上高は、直接金属レーザー焼結法（DMLS）およびHP Multi Jet Fusion（MJF）に対する米国の強力な需要が牽引し、11.5%増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "最終市場全般の広範な不振が影響したものの、航空宇宙・防衛分野の需要が一部を相殺しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣は、需要が宇宙、人工衛星、ドローン、ロボティクス、データセンターなど多岐に分散していると説明し、当面の間2桁成長を維持するという目標を堅持しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国の株式市場が下げ幅を縮小し、安値圏にあるSKハイニックスやサムスンに押し目買いが入るなか、KOSPIはサーキットブレーカー発動後に5,000ポイントの大台を回復した",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "木曜には一時4,147.06ドルを付け、2週間超ぶりの高値を記録したものの、その後は上げ幅を一部縮小した",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "米連邦準備制度理事会（FRB）が10月の会合で利上げを一時停止したばかりであり、市場が依然として12月の追加利上げに賭けている中、今回の雇用統計によって米労働市場の底堅さが確認されるかどうかは、金利見通しや米国株、米ドル、金（XAUUSD）の短期的な値動きを左右する重要な変数となる",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "[CVR] シカゴリヴェット＆マシン 3Q増収赤字転落 売上高2％増753万ドル、営業赤字91.6万ドル、EPSマイナス0.95ドル",
+    "url": "https://www.moomoo.com/ja/news/post/1003352628/proto-labs-raises-multi-jet-fusion-3d-printing-capacity-by",
+    "pass": 3
+   },
+   {
+    "quote": "そこで射出成形プロセス全体を見直し、独自に開発したソフトウェアを前面に置いた効率のよいスケーラブルなオートメーションフレームワークとして再構築し、従来の複雑な製造プロセスを自動化する方法を考案しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   }
+  ],
+  "存続": [
+   {
+    "quote": "Our SLS equipment includes sPro140 machines, which have the world’s largest sintering build volume, and feature fully digital high-speed scanning systems, unparalleled process consistency, and closed systems for powder blending and delivery for reliable part quality. We also use sPro60 machines, which allow for multiple materials and high throughput.",
+    "url": "https://www.protolabs.com/services/3d-printing/selective-laser-sintering/",
+    "pass": 1
+   },
+   {
+    "quote": "プロトラブズが日本法人閉鎖、日本市場から撤退 ｜ 世界の3Dプリンターニュース「セカプリ」",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズが日本法人閉鎖、日本市場から撤退",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの大手デジタルマニュファクチャリングサービスビューローのプロトラブズが、日本法人を閉鎖し、日本市場から撤退すると発表した",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "コア・インダストリアルパートナーズがGoProtoを買収",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形や切削加工の受託WEBサービスをしているプロトラブズが日本から撤退するようです",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズが3Dハブズを2億8千万ドルで買収 ｜ 世界の3Dプリンターニュース「セカプリ」",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズが3Dハブズを2億8千万ドルで買収",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの大手3Dプリンティングサービスビューローのプロトラブズが、オランダのオンライン3Dプリンティングサービスビューローの3Dハブズを2億8千万ドル（約294億円）で買収する",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "買収により、オンラインとオフラインを合わせた世界最大規模の3Dプリンティングサービスビューローが誕生する",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dハブズの買収について、プロトラブズの時期社長兼CEO就任予定のロブ・ボーダー氏は、「3Dハブズの買収により、お客様に高次元のマニュファクチャリングの柔軟性を提供するという我々のサービスモデルをさらに進化させることが可能になります",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsが3D Hubを買収 | 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsが3D Hubを買収",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs、3D Hubsを2億8000万ドルで買収へ",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "を、総額2億8000万ドル（約290億円）で買収することを発表した",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "この買収により Protolabs は、約240社の製造パートナーから成る 3D Hubs のグローバルネットワークを利用可能となり、カスタムパーツ製造のための世界で最も包括的なデジタル製造サービスを提供できるようになる",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal によるパイオニア企業 EnvisionTEC の買収など、Additive Manufacturing製造業界における統合と拡大が新たな局面へと加速している",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop MetalがEnvisionTECを3億ドルで買収",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   }
+  ],
+  "売上": [
+   {
+    "quote": "700 Million",
+    "url": "https://www.protolabs.com/about-us/press/",
+    "pass": 1
+   },
+   {
+    "quote": "4.4 Million",
+    "url": "https://www.protolabs.com/services/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "Use as the primary production method for products with annual sales volumes of a few thousand units.",
+    "url": "https://www.protolabs.com/services/injection-molding/production/",
+    "pass": 1
+   },
+   {
+    "quote": "700 Million",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Sales & Customer Service, Americas",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Sales & Customer Service, Europe",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "プロッドウェイズ、3Dプリンター売上前年比130%増",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング市場は、2023年において26.8%の成長を記録し、22.14億ドル（約3,500億円）に達した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "（約2,800億円）から大幅な増加であり、予測を大きく上回った結果である",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "（約4,000億円）、2028年には57.1億ドル",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "（約9,000億円）に達する見込みである",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までに中国で3Dプリント ハードウェアの売上が 80億ドル規模へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの大手3Dプリンティングサービスビューローのプロトラブズが、オランダのオンライン3Dプリンティングサービスビューローの3Dハブズを2億8千万ドル（約294億円）で買収する",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "プロッドウェイズ、3Dプリンター売上前年比130%増",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "を、総額2億8000万ドル（約290億円）で買収することを発表した",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "同社の同期間中の売上高は1億5430万ドル（約2425億2510万円）で、前年同期比で14%のプラスとなった",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング部門の売上高は2240万ドル（約35億1680万円）で、前年同期比で11.4%のプラスとなった",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "メタル3Dプリンティング関連の発注が増加し、売上伸長に貢献した",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズの2026年第3四半期売上高は14%増、Non-GAAP EPSは33%増",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズの2026年第3四半期決算は、戦略的顧客の需要拡大を背景に売上高が前年同期比14.0%増の1億5,430万ドル、非GAAP希薄化後EPSが33.4%増の0.63ドルとなり、増収増益を達成した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "CNC加工が成長を牽引し、営業レバレッジの効用で営業利益率やEBITDAマージンが改善した一方、売上総利益率は低下した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "第4四半期は売上高1億4,300万〜1億5,100万ドル、通期では10%〜11%の売上成長を予想している",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ（Protolabs）は、戦略的顧客や主要成長産業からの需要に支えられ、2026年第3四半期に2桁の売上高成長と収益性の向上を達成したと発表した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "売上高はGAAPベースで前年同期比14.0%増、恒常為替レートベースで14.2%増の1億5,430万ドルに達し、非GAAPの希薄化後1株当たり利益（EPS）は33.4%増の0.63ドルとなった",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "顧客担当者あたりの売上高は前年同期比で17%増加し、顧客とのやり取り全般における支出拡大を示している",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "増収となったものの、売上総利益率は低下した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "GAAP売上総利益率は前年同期の45.3%から44.5%に低下し、非GAAP売上総利益率は45.9%から44.5%に低下した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "第2四半期と比較すると、非GAAP営業利益率は11.9%とほぼ横ばいだったものの、非GAAP売上総利益率は230ベーシスポイント縮小した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "CNC加工は引き続きプロトラブズ最大の製品ラインであり、恒常為替レートベースで16.7%増の7,340万ドルの売上高を記録した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形の売上高は12.6%増の5,370万ドル、3Dプリンティングの売上高は11.5%増の2,240万ドルとなった",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、米国の売上高が14.7%増の1億2,540万ドルとなった",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の売上高はGAAPベースで11.2%増の2,890万ドル、恒常為替レートベースで12.2%増加した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "2026年第1〜第3四半期累計の総売上高は4億4,300万ドルで、GAAPベースで11.7%増、恒常為替レートベースで11.1%増となった",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "2026年第4四半期について、プロトラブズは売上高を1億4,300万ドル〜1億5,100万ドル、非GAAP希薄化後EPSを0.46ドル〜0.54ドルと予想している",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣は、外国為替相場の変動が第4四半期の売上高に与える影響は軽微であると見込んでおり、非GAAP実効税率を19%〜21%、希薄化後発行済株式数を約2,400万株と予測している",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "2026年通期について、同社は売上高が10%〜11%の成長になると見込んでいる",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ (PRLB) 2026年第3四半期決算説明会：過去最高の売上高を記録、通期見通しを上方修正",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズの2026年第3四半期決算は、売上高が前年同期比14.2%増の1億5,430万ドルと過去最高を更新し、4四半期連続の2桁成長を記録した",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "CNC加工などの強い需要が牽引し、顧客1社あたり売上高は17%拡大した",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "これを受け、通期売上高成長率見通しを従来の8%〜10%から10%〜11%へ引き上げた",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "リスク要因として原材料コスト上昇や機器アップグレード費用による売上総利益率の圧迫が挙げられている",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ（NYSE: PRLB）は、CNC加工、3Dプリンティング、射出成形における強い需要が2桁成長を後押しし、2026年第3四半期の売上高が過去最高を記録したと発表しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "工場の売上総利益率に対する短期的圧迫にもかかわらず、収益性は改善しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "2026年第3四半期の売上高は前年同期比14.2%増（固定為替レートベース）の1億5,430万ドルとなり、同社過去最高を更新するとともに、4四半期連続で2桁成長を達成しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "調整後EBITDAは2,620万ドル（売上高の17.0%）に増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "顧客1社あたりの売上高は前年同期比で17%増加し、プロトラブズのサービス利用顧客数は2万人近くに達しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場のCNC加工売上高は22%増加し、グローバルでの3Dプリンティング売上高は12%増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズは2026年通期の売上高成長率見通しを、従来の8%〜10%から10%〜11%へ引き上げました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣は、2018年以来初となるオーガニックな売上高の2桁成長を見込んでいます",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "第4四半期の売上高は1億4,300万ドル〜1億5,100万ドル、Non-GAAP EPSは0.46ドル〜0.54ドルとなる見込みです",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期比170万ドル増、売上高比32.6%（2025年第3四半期は35.9%）",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "2026年首からの9か月間（第1〜第3四半期累計）において、売上高は12%増加、調整後営業利益率は300ベーシスポイント拡大、調整後EPSは46%上昇しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "CNC加工の売上高は固定為替レートベースで前年同期比16.7%増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣によると、米国の自社工場CNC売上高は6四半期連続で20%超の成長を記録しています",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形の売上高は、エレクトロニクス、航空宇宙・防衛、電気通信に牽引され、固定為替レートベースで12.6%増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングの売上高は、直接金属レーザー焼結法（DMLS）およびHP Multi Jet Fusion（MJF）に対する米国の強力な需要が牽引し、11.5%増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "米国工場における年初来のMJF売上高は40%以上増加しており、追加の能力投資を実施しています",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "板金加工の売上高は固定為替レートベースで4.6%減少しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場の売上高が17.5%増加したのに対し、プロトラブズ・ネットワークの成長率は3%にとどまりました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   }
+  ],
+  "素材": [
+   {
+    "quote": "Take a quick peek behind the curtain of our injection molding process. We offer a fully digitized injection molding process to bring your cost-efficient parts fast.",
+    "url": "https://www.protolabs.com/services/",
+    "pass": 1
+   },
+   {
+    "quote": "Using PEEK materials (chemically known as polyetheretherketone) is ideal for a wide spectrum of CNC machining applications where thermal, chemical, and combustion properties are critical to performance.",
+    "url": "https://www.protolabs.com/services/cnc-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether in a sheet, rod, tube, or film, PEEK is a high-performance material that can be cut to size and used for a variety of CNC machining projects.",
+    "url": "https://www.protolabs.com/services/cnc-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "We stock more than 30 engineering-grade plastic and metal materials that are suitable for various part applications and industries. Materials range from plastics like ABS, polycarbonate, nylon, and PEEK to aluminum, stainless steel, platinum, and copper.",
+    "url": "https://www.protolabs.com/services/cnc-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉末樹…",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSがBIZUスペースの金属3Dプリンター導入を支援",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "ロールスロイスがノルスク・チタニウムにチタン部品発注",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉…",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブス社（アメリカ）は設計開発支援から、金型含む樹脂射出成形、金属CNC切削加工、樹脂金属3Dプリンティング、シートメタル加工の試作から量産までを、自社工場と国内外の200以上の提携企業工場により、オンライン見積発注システムでサービス提供する企業だ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "また、航空宇宙分野では、大型の金属部品が精密かつ迅速に製造されることにより、機体の軽量化や設計自由度が向上している",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "「樹脂3Dプリントの未来を探る特別イベント」参加報告 YOKOITOが起こすイノベーションとは？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形と樹脂・金属の切削加工で、試作と小ロット生産に対応します",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ、極微小SLA樹脂素材の提供を開始",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉末樹…",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSがBIZUスペースの金属3Dプリンター導入を支援",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "ロールスロイスがノルスク・チタニウムにチタン部品発注",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉…",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉末樹…",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSがBIZUスペースの金属3Dプリンター導入を支援",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "ロールスロイスがノルスク・チタニウムにチタン部品発注",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉…",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングの売上高は、直接金属レーザー焼結法（DMLS）およびHP Multi Jet Fusion（MJF）に対する米国の強力な需要が牽引し、11.5%増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "同社はまた、金属3Dプリンティングの新しい熱処理、FDM機能、および追加のCNC表面仕上げによりProDeskを拡充しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ・真鍮、ABS、PC、POM、PP、PEEK、Ultem®、ナイロン、アクリルなど20 種類以上の材料を在庫して対応しています",
+    "url": "https://www.daijob.com/jobs/introduction/7283",
+    "pass": 3
+   },
+   {
+    "quote": "ABS、PC/ABS、PC、アクリル、POM、ナイロン、PP、PS、PE、HDPE、GPPS、HIPS、PPSなどの各種 樹脂を在庫しています",
+    "url": "https://www.daijob.com/jobs/introduction/7283",
+    "pass": 3
+   },
+   {
+    "quote": "カスタムパーツの試作・小ロットのオンデマンド受託製造、樹脂・液状シリコーンゴム(LSR)射出成形サービス、金属・樹脂の切削加工サービス",
+    "url": "https://www.aperza.com/aboutus/page/2488/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂・液状シリコーンゴム（LSR）射出成...",
+    "url": "https://www.aperza.com/aboutus/page/2488/",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "Learn how on-demand manufacturing can help companies reduce total cost of ownership, increase speed to market, and handle unforeseen changes in demand after product launch.",
+    "url": "https://www.protolabs.com/services/injection-molding/production/",
+    "pass": 1
+   },
+   {
+    "quote": "TradingKey - 11月6日のアジア時間、前晩の米国株主要3指数は全面安となった",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "TradingKey - 11月6日のアジア時間、前晩の米国株主要3指数は全面安となった",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "Founded in 1999, we radically reduced the time needed to produce molded prototypes through complex software that automated the manufacturing process. Over the next two decades, we added CNC machining, 3D printing, and sheet metal fabrication, and later launched",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "プロトラブズは1999年設立",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dハブズは2013年設立",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "設立当初は一般の3Dプリンター所有者をインターネットでネットワークし、3Dプリント希望者とオンラインでマッチングする仕組を提供していた",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズは1999年設立",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年に設立された 3D Hubs は、独自のデジタルプラットフォームを通じて600万個以上のカスタムパーツや製品の生産を可能にするグローバル製造プラットフォームを構築",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "また Protolabs は、財務実績と従業員の目標達成度に基づいて、3D Hubs の従業員に支払われるインセンティブ基金を設立した",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズは1999年設立",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年、米Protolabsは創業20周年を、日本は国内事業開始10周年を迎えました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "米Protolabs (本社：ミネソタ州メープルレイン、社長兼CEO ヴィッキー・ホルト、以下Protolabs) は2019年5月5日、創業20周年を迎えました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsは1999年、ソフトウェアエンジニアのラリー・ルーカスによって設立されました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   }
+  ],
+  "AMの規模": [
+   {
+    "quote": "プロトラブズが日本法人閉鎖、日本市場から撤退 ｜ 世界の3Dプリンターニュース「セカプリ」",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の3Dプリンターニュース",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形サービスは2022年6月8日正午をもって受注を停止しておりますが切削加工サービスは2022年7月15日まで受注を受け付けております",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、受注状況によっては予告なく変更させていただく場合もございます",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ合同会社は2009年に神奈川県座間市を拠点にで事業を開始、オンデマンドのプロトタイピングや切削加工などの部品加工サービスを提供してきた",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "ミネソタ州メープルプレーンズに拠点を置く手デジタルマニュファクチャリングサービスビューロー",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "フォームラブズが低価格SLA3Dプリンター「フォーム・スタジオ1」を…",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "UGEEが子供向け3Dプリンター「Funbox」の販売を開始",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンがメタル3Dプリンター事業へ参入",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "GMが20超の工場でストラタシスの3Dプリンターを導入",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉末樹…",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "スリーディーシステムズ、義歯製造3Dプリンターを非営利団体に寄贈",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "鎌倉市が市内の全公立中学校に3Dプリンターを導入",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "岡山大学が高校生向け3Dプリンター講座を開催",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "プロッドウェイズ、3Dプリンター売上前年比130%増",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSがBIZUスペースの金属3Dプリンター導入を支援",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "エクストラボールドが大型3Dプリンターに関する特許を取得",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "石川県野々市市が3Dプリンターを市民に開放",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "キャデラックF1チームがスリーディーシステムズの3Dプリンターを活用",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "レガシーモータークラブがレースカー用パーツを3Dプリンターで製造",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "全世界の食品3Dプリンター市場が2033年に54億8340万ドル規模へ成長",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "建設3Dプリンター",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "メタル3Dプリンター",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "フード3Dプリンター",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3Dプリンティングの市場成長と技術革新 ― プロトラブズ社 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング市場は、2023年において26.8%の成長を記録し、22.14億ドル（約3,500億円）に達した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "（約2,800億円）から大幅な増加であり、予測を大きく上回った結果である",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "（約4,000億円）、2028年には57.1億ドル",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "（約9,000億円）に達する見込みである",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "調査によれば、2023年には回答者の70%が前年よりも多くの部品を3Dプリンターで製造しており、生産量が安定していることが示された",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までに中国で3Dプリント ハードウェアの売上が 80億ドル規模へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "最終受注日は7月15日（金）となるみたいですので、ご注意ください",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "最終受注日は2022年7月15日",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ機器まとめ（岩手県）",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "#3dcad #3dプリンタ #iwate3d",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズが3Dハブズを2億8千万ドルで買収 ｜ 世界の3Dプリンターニュース「セカプリ」",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の3Dプリンターニュース",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの大手3Dプリンティングサービスビューローのプロトラブズが、オランダのオンライン3Dプリンティングサービスビューローの3Dハブズを2億8千万ドル（約294億円）で買収する",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "設立当初は一般の3Dプリンター所有者をインターネットでネットワークし、3Dプリント希望者とオンラインでマッチングする仕組を提供していた",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "同社はこれまでに個人の3Dプリンター所有者をネットワークから排除し、法人パートナーとパートナーシップを構築するビジネスモデルへ転換している",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "ミネソタ州メープルプレーンズに拠点を置く3Dプリンティングサービスビューロー",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "フォームラブズが低価格SLA3Dプリンター「フォーム・スタジオ1」を…",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "UGEEが子供向け3Dプリンター「Funbox」の販売を開始",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンがメタル3Dプリンター事業へ参入",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "GMが20超の工場でストラタシスの3Dプリンターを導入",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉末樹…",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "スリーディーシステムズ、義歯製造3Dプリンターを非営利団体に寄贈",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "鎌倉市が市内の全公立中学校に3Dプリンターを導入",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "岡山大学が高校生向け3Dプリンター講座を開催",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "プロッドウェイズ、3Dプリンター売上前年比130%増",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSがBIZUスペースの金属3Dプリンター導入を支援",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "エクストラボールドが大型3Dプリンターに関する特許を取得",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   }
+  ],
+  "客の業界": [
+   {
+    "quote": "全世界の医療用3Dプリンティング市場が2034年に574億ドル規模へ成長",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブス社（アメリカ）は設計開発支援から、金型含む樹脂射出成形、金属CNC切削加工、樹脂金属3Dプリンティング、シートメタル加工の試作から量産までを、自社工場と国内外の200以上の提携企業工場により、オンライン見積発注システムでサービス提供する企業だ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "この急成長は、航空宇宙、自動車、医療などの主要産業における3Dプリンティング技術の採用が進んだことが一因とされる",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "特に医療や電子機器分野において、新素材の導入が期待されており、これらの材料は製品の性能や耐久性を大幅に向上させる可能性がある",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑な形状や高精度が求められる部品の製造に適しており、特に航空宇宙や医療機器などの分野での採用が進んでいる",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の機能性やデザインの自由度が大幅に向上し、特に医療や電子機器の分野で注目されており、複雑なデバイスやセンサーの製造が可能となる",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロ3Dプリンティングは、微細な部品や構造の製造に特化した技術であり、特に医療や歯科分野で注目されている",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "投資が進むことで、マイクロ3Dプリンティングの応用範囲が広がり、新しい治療法や医療機器の開発が進展している",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "大型3Dプリンティングは、建設、航空宇宙、自動車などの分野での利用が進んでいる",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "また、航空宇宙分野では、大型の金属部品が精密かつ迅速に製造されることにより、機体の軽量化や設計自由度が向上している",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形と樹脂・金属の切削加工で、試作と小ロット生産に対応します",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "試作／小ロットのオンデマンド受託製造サービスを展開するプロトラブズは、同社Webサイトにて「日本法人の閉鎖についてのお知らせ」を掲載した",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介～No.007『岩手大学ものづくりエンジニアリングファクトリー高度試作加工センター』",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品分解展示場リニューアルオープン！（岩手県北上市）",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "全世界の医療用3Dプリンティング市場が2034年に574億ドル規模へ成長",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "ランボルギーニが3Dプリンタで量産部品を製造",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "BMWは3Dプリント技術で100万個超の自動車部品を製造",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙産業、ロボット、データセンターなど、新興産業において投資が加速しています",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "全世界の医療用3Dプリンティング市場が2034年に574億ドル規模へ成長",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "Nasdaqが5%超下落、半導体・AIインフラ株が売られフィラデルフィア半導体株指数は12%急落; マイクロンは17%下落、エヌビディアは9%下落",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター建設の減速を巡る市場の懸念が高まるなか、投資家によるハイテク株の持ち高解消の動きが加速し、半導体株やAIインフラ関連銘柄に売りが集中した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣は、航空宇宙、防衛、宇宙探査、ドローン、ロボティクス、データセンターからの堅調な需要を理由として挙げました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場でのCNC加工は宇宙探査、人工衛星、ドローン、ロボティクスからの需要に支えられ22%成長しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形の売上高は、エレクトロニクス、航空宇宙・防衛、電気通信に牽引され、固定為替レートベースで12.6%増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "最終市場全般の広範な不振が影響したものの、航空宇宙・防衛分野の需要が一部を相殺しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "アナリストからは将来の防衛予算を巡る不確実性が指摘されました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣は、需要が宇宙、人工衛星、ドローン、ロボティクス、データセンターなど多岐に分散していると説明し、当面の間2桁成長を維持するという目標を堅持しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣は顧客1社あたりの売上高が17%増加した理由として、企業向け営業カバレッジの強化、厳選された高付加価値顧客との関係深化、ならびに試作から量産に至るフェーズでの関与拡大を挙げました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "Nasdaqが5%超下落、半導体・AIインフラ株が売られフィラデルフィア半導体株指数は12%急落; マイクロンは17%下落、エヌビディアは9%下落",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター建設の減速を巡る市場の懸念が高まるなか、投資家によるハイテク株の持ち高解消の動きが加速し、半導体株やAIインフラ関連銘柄に売りが集中した",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "当時ラリーは試作の現場において、効率の悪い射出成形の作業に不満を持っていました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "前述のデジタル マニュファクチャリング プロセスを通して、オンラインによるカスタムパーツの試作や小ロット生産サービスを国内3,000社以上のお客様に提供しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズはICTを駆使した独自のデジタル マニュファクチャリング システムにより、カスタムパーツの試作から小ロット生産をオンデマンドかつ画期的な速さで受託製造する会社です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作、機能試験、治工具やオリジナルパーツの製作や、社内加工の負担軽減などにご利用いただいております",
+    "url": "https://www.daijob.com/jobs/introduction/7283",
+    "pass": 3
+   },
+   {
+    "quote": "機能試験、小ロット生産、先行量産にご活用いただいており、価格の安さにも好評をいただいております",
+    "url": "https://www.daijob.com/jobs/introduction/7283",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズは「開発を加速するオンデマンド受託製造サービス」により、カスタムパーツの試作、小ロット生産を受託しています",
+    "url": "https://www.aperza.com/aboutus/page/2488/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ合同会社はICT による独自のデジタル･マニュファクチャリング･システムを活用し、射出成形および切削加工による試作や小ロット生産をオンデマンドで受託製造します",
+    "url": "https://www.aperza.com/aboutus/page/2488/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタムパーツの試作・小ロットのオンデマンド受託製造、樹脂・液状シリコーンゴム(LSR)射出成形サービス、金属・樹脂の切削加工サービス",
+    "url": "https://www.aperza.com/aboutus/page/2488/",
+    "pass": 3
+   }
+  ],
+  "参入しない・慎重な理由の発言": [
+   {
+    "quote": "プロトラブス社（アメリカ）は設計開発支援から、金型含む樹脂射出成形、金属CNC切削加工、樹脂金属3Dプリンティング、シートメタル加工の試作から量産までを、自社工場と国内外の200以上の提携企業工場により、オンライン見積発注システムでサービス提供する企業だ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、製造のリードタイム短縮やコスト削減といった利点が評価され、生産プロセスに組み込む企業が増えている",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド製造技術により、製造プロセスの効率化やコスト削減が可能となり、製品の品質向上にも寄与している",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータビジョンやサーマルセンサー、AIを活用した自動化システムにより、労働力の削減とコスト効率化が実現されている",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "この技術の進化により、製造業全体が効率化され、コスト削減や生産性の向上が期待されている",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速",
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形と樹脂・金属の切削加工で、試作と小ロット生産に対応します",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "試作／小ロットのオンデマンド受託製造サービスを展開するプロトラブズは、同社Webサイトにて「日本法人の閉鎖についてのお知らせ」を掲載した",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "生産ﾗｲﾝｼﾐｭﾚｰｼｮﾝｿﾌﾄｳｪｱ「VPS GP4」の導入 ～岩手県内企業への生産性向上に資する支援、人材育成をｽﾀｰﾄ",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "ランボルギーニが3Dプリンタで量産部品を製造",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズの2026年第3四半期決算は、戦略的顧客の需要拡大を背景に売上高が前年同期比14.0%増の1億5,430万ドル、非GAAP希薄化後EPSが33.4%増の0.63ドルとなり、増収増益を達成した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ（Protolabs）は、戦略的顧客や主要成長産業からの需要に支えられ、2026年第3四半期に2桁の売上高成長と収益性の向上を達成したと発表した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズは、将来予測に関する見通しにはリスクや不確実性が伴い、実際の業績がこれらと大きく異なる可能性があると注意を促した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "また決算説明資料では、同社の非GAAP指標には株式報酬費用、無形資産償却費、特定の事業再編コストまたは変革コストなどの項目が含まれておらず、他の企業が公表している同種の名称の指標と比較できない場合があると付記された",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "AIインフラの資金調達コストや建設ペース、潜在的な政策規制に対する市場の懸念が高まる中、Nasdaqは10月に記録した過去最高値から10%超下落した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "米国株急落、Nasdaqは4％超下落; AIデータセンター拡張の減速がインフラ需要を損なうとの懸念でマイクロンは12％超急落",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "CNC加工などの強い需要が牽引し、顧客1社あたり売上高は17%拡大した",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "リスク要因として原材料コスト上昇や機器アップグレード費用による売上総利益率の圧迫が挙げられている",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ（NYSE: PRLB）は、CNC加工、3Dプリンティング、射出成形における強い需要が2桁成長を後押しし、2026年第3四半期の売上高が過去最高を記録したと発表しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣は、航空宇宙、防衛、宇宙探査、ドローン、ロボティクス、データセンターからの堅調な需要を理由として挙げました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場でのCNC加工は宇宙探査、人工衛星、ドローン、ロボティクスからの需要に支えられ22%成長しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングの売上高は、直接金属レーザー焼結法（DMLS）およびHP Multi Jet Fusion（MJF）に対する米国の強力な需要が牽引し、11.5%増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "最終市場全般の広範な不振が影響したものの、航空宇宙・防衛分野の需要が一部を相殺しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "原材料コストの上昇、機器アップグレード、一時的な労務投資が工場運営に影響したため、Non-GAAP売上総利益率は低下しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場の需要は引き続き堅調だったものの、米国のプロトラブズ・ネットワーク需要は軟調でした",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣は、需要が宇宙、人工衛星、ドローン、ロボティクス、データセンターなど多岐に分散していると説明し、当面の間2桁成長を維持するという目標を堅持しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣は顧客1社あたりの売上高が17%増加した理由として、企業向け営業カバレッジの強化、厳選された高付加価値顧客との関係深化、ならびに試作から量産に至るフェーズでの関与拡大を挙げました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "前四半期比での売上総利益率の低下について、経営陣は機器のアップグレードが約100ベーシスポイント、外部請負費用が約90ベーシスポイント寄与し、残りは原材料コストに関連していると試算しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、第4四半期に予想される取扱量の減少と休日関連の労働力需要により、短期的には利益率の回復が限定的となる可能性が高いです",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "AIインフラの資金調達コストや建設ペース、潜在的な政策規制に対する市場の懸念が高まる中、Nasdaqは10月に記録した過去最高値から10%超下落した",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "米国株急落、Nasdaqは4％超下落; AIデータセンター拡張の減速がインフラ需要を損なうとの懸念でマイクロンは12％超急落",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "moomooおよび情報提供者は、翻訳の正確性と信頼性の向上に努めていますが、これを保証するものではなく、翻訳の誤りや脱落によって生じたいかなる損失や損害についても責任を負いません",
+    "url": "https://www.moomoo.com/ja/news/post/1003352628/proto-labs-raises-multi-jet-fusion-3d-printing-capacity-by",
+    "pass": 3
+   },
+   {
+    "quote": "前述のデジタル マニュファクチャリング プロセスを通して、オンラインによるカスタムパーツの試作や小ロット生産サービスを国内3,000社以上のお客様に提供しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズはICTを駆使した独自のデジタル マニュファクチャリング システムにより、カスタムパーツの試作から小ロット生産をオンデマンドかつ画期的な速さで受託製造する会社です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "機能試験、小ロット生産、先行量産にご活用いただいており、価格の安さにも好評をいただいております",
+    "url": "https://www.daijob.com/jobs/introduction/7283",
+    "pass": 3
+   },
+   {
+    "quote": "充実の研修体制でプロへ成長 ＩＴインフラの専門人材へ！ 語学力を活かしグローバルに 手厚いサポートで安心の環境",
+    "url": "https://www.daijob.com/jobs/introduction/7283",
+    "pass": 3
+   },
+   {
+    "quote": "国際間人材紹介の専門コンサルタントが、国境を越えて活躍する就職・転職を全力で支援しております",
+    "url": "https://www.daijob.com/jobs/introduction/7283",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズは「開発を加速するオンデマンド受託製造サービス」により、カスタムパーツの試作、小ロット生産を受託しています",
+    "url": "https://www.aperza.com/aboutus/page/2488/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ合同会社はICT による独自のデジタル･マニュファクチャリング･システムを活用し、射出成形および切削加工による試作や小ロット生産をオンデマンドで受託製造します",
+    "url": "https://www.aperza.com/aboutus/page/2488/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタムパーツの試作・小ロットのオンデマンド受託製造、樹脂・液状シリコーンゴム(LSR)射出成形サービス、金属・樹脂の切削加工サービス",
+    "url": "https://www.aperza.com/aboutus/page/2488/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "プロトラブズ が日本法人閉鎖、日本市場から 撤退 - セカプリ — プロトラブズ が日本法人閉鎖、日本市場から 撤退 - セカプリ セカプリ https://sekapri.com > business",
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ はデジタル製造業で成長し、 3D プリンティング ... — プロトラブズ はデジタル製造業で成長し、 3D プリンティング ... 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%80%81%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E6%88%90%E9%95%B7%E3%81%97%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ 合同会社日本法人閉鎖 - いわて3D通信 — プロトラブズ 合同会社日本法人閉鎖 - いわて3D通信 iwate3d.jp https://iwate3d.jp > 情報提供",
+    "url": "https://iwate3d.jp/post-4621/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ が 3D ハブズを2億8千万ドルで 買収 - セカプリ — プロトラブズ が 3D ハブズを2億8千万ドルで 買収 - セカプリ セカプリ https://sekapri.com > 未分類",
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsでは、 3Dプリント がロボット部品の開発を加速させ ... — Protolabsでは、 3Dプリント がロボット部品の開発を加速させ ... 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%83%A8%E5%93%81%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabsが 3D Hubを 買収 | 3DP id.arts — Protolabsが 3D Hubを 買収 | 3DP id.arts アイディーアーツ株式会社 https://idarts.co.jp > Home > 最新情報",
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs：3Dプリント 事業 が2026年第3四半期に11.4％成長 — Protolabs：3Dプリント 事業 が2026年第3四半期に11.4％成長 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/protolabs%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E4%BA%8B%E6%A5%AD%E3%80%81%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E3%81%AB114%EF%BC%85%E6%88%90%E9%95%B7-57164907/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ が2026年度第3四半期決算を発表 | セカプリ — プロトラブズ が2026年度第3四半期決算を発表 | セカプリ セカプリ https://sekapri.com > business",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ の2026年第3四半期 売上 高は14%増 - TradingKey — プロトラブズ の2026年第3四半期 売上 高は14%増 - TradingKey TradingKey https://www.tradingkey.com > 262257831-tradingkey",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ はデジタル製造業で成長し、3Dプリンティング ... — プロトラブズ はデジタル製造業で成長し、3Dプリンティング ... 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%80%81%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E6%88%90%E9%95%B7%E3%81%97%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ 利益 - Investing.com — プロトラブズ 利益 - Investing.com Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース https://jp.investing.com > equities > proto-labs-inc-earnings",
+    "url": "https://jp.investing.com/equities/proto-labs-inc-earnings",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ が2026年度第3四半期 決算 を発表 | セカプリ — プロトラブズ が2026年度第3四半期 決算 を発表 | セカプリ セカプリ https://sekapri.com > business",
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs： 3Dプリント 事業が2026年第3四半期に11.4％成長 — Protolabs： 3Dプリント 事業が2026年第3四半期に11.4％成長 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/protolabs%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E4%BA%8B%E6%A5%AD%E3%80%81%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E3%81%AB114%EF%BC%85%E6%88%90%E9%95%B7-57164907/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ (PRLB) 2026年第3四半期 決算説明 会 - TradingKey — プロトラブズ (PRLB) 2026年第3四半期 決算説明 会 - TradingKey TradingKey https://www.tradingkey.com > 262254623-tradingkey",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "Proto Labs 、Multi Jet Fusion方式の 3Dプリント 生産能力を50 ... — Proto Labs 、Multi Jet Fusion方式の 3Dプリント 生産能力を50 ... Moomoo https://www.moomoo.com > news > post > proto-labs-rais...",
+    "url": "https://www.moomoo.com/ja/news/post/1003352628/proto-labs-raises-multi-jet-fusion-3d-printing-capacity-by",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ 【PRLB】の株価・業績 - 会社四季報オンライン — プロトラブズ 【PRLB】の株価・業績 - 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 米国株",
+    "url": "https://shikiho.toyokeizai.net/us/PRLB",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ 取引条件 - Protolabs — プロトラブズ 取引条件 - Protolabs Protolabs https://www.protolabs.com > legal-notices > protoquote",
+    "url": "https://www.protolabs.com/ja-jp/legal-notices/protoquote/",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ - 2019年、米Protolabsは創業20周年を - PR TIMES — プロトラブズ - 2019年、米Protolabsは創業20周年を - PR TIMES PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人・企業情報｜ プロトラブズ 合同 会社 / Proto Labs G.K. — 求人・企業情報｜ プロトラブズ 合同 会社 / Proto Labs G.K. Daijob.com https://www.daijob.com > jobs > introduction",
+    "url": "https://www.daijob.com/jobs/introduction/7283",
+    "pass": 3
+   },
+   {
+    "quote": "プロトラブズ 合同 会社 | Apérza Catalog（アペルザカタログ） — プロトラブズ 合同 会社 | Apérza Catalog（アペルザカタログ） Apérza https://www.aperza.com > ... > プロトラブズ合同会社",
+    "url": "https://www.aperza.com/aboutus/page/2488/",
+    "pass": 3
+   },
+   {
+    "quote": "PRLB | Proto Labs 株価 今日 - Investing.com — PRLB | Proto Labs 株価 今日 - Investing.com Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース https://jp.investing.com > equities > proto-labs-inc",
+    "url": "https://jp.investing.com/equities/proto-labs-inc",
+    "pass": 3
+   }
+  ],
+  "黒字・収益性": [
+   {
+    "quote": "CNC加工が成長を牽引し、営業レバレッジの効用で営業利益率やEBITDAマージンが改善した一方、売上総利益率は低下した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "GAAP営業利益は前年同期の880万ドルから1,440万ドルに増加し、GAAP営業利益率は6.5%から9.4%に上昇した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "非GAAPベースでは、営業利益率が190ベーシスポイント拡大して11.9%となった",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "調整後EBITDAは2,110万ドルから2,620万ドルに増加し、調整後EBITDAマージンは15.6%から17.0%に上昇した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "第2四半期と比較すると、非GAAP営業利益率は11.9%とほぼ横ばいだったものの、非GAAP売上総利益率は230ベーシスポイント縮小した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "GAAP純利益は1,180万ドル（純利益率7.6%）となり、前年同期の720万ドル（同5.3%）から増加した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "非GAAP純利益は1,140万ドルから1,530万ドルに増加した",
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "調整後EBITDAは2,620万ドル（売上高の17.0%）に増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "2026年首からの9か月間（第1〜第3四半期累計）において、売上高は12%増加、調整後営業利益率は300ベーシスポイント拡大、調整後EPSは46%上昇しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "調整後EBITDAは前年同期比27.2%増加しました",
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "pass": 3
+   },
+   {
+    "quote": "[CVR] シカゴリヴェット＆マシン 3Q増収赤字転落 売上高2％増753万ドル、営業赤字91.6万ドル、EPSマイナス0.95ドル",
+    "url": "https://www.moomoo.com/ja/news/post/1003352628/proto-labs-raises-multi-jet-fusion-3d-printing-capacity-by",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Protolabs - LinkedIn Protolabs - LinkedIn LinkedIn https://www.linkedin.com > proto-labs",
+    "url": "https://www.linkedin.com/company/proto-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Proto Labs G.K. | LinkedIn Proto Labs G.K. | LinkedIn LinkedIn https://www.linkedin.com > company > proto-labs-japan",
+    "url": "https://www.linkedin.com/company/proto-labs-japan",
+    "pass": 3
+   },
+   {
+    "quote": "樋口 伸太郎 - プロトラブズ 合同会社 - マーケティング - LinkedIn 樋口 伸太郎 - プロトラブズ 合同会社 - マーケティング - LinkedIn LinkedIn https://jp.linkedin.com > 伸太郎-樋口-5bb9b1233",
+    "url": "https://jp.linkedin.com/in/%E4%BC%B8%E5%A4%AA%E9%83%8E-%E6%A8%8B%E5%8F%A3-5bb9b1233?trk=public_profile_browsemap",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Protolabs - X Protolabs - X X https://x.com > Protolabs",
+    "url": "https://x.com/Protolabs",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.protolabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/injection-molding/family-multi-cavity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/stereolithography/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/multi-jet-fusion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/selective-laser-sintering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/polyjet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/advanced-photopolymers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/fused-deposition-modeling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/large-format/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/finishing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/injection-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/injection-molding/plastic-injection-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/injection-molding/liquid-silicone-rubber-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/injection-molding/overmolding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/injection-molding/insert-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/injection-molding/prototyping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/injection-molding/production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/injection-molding/quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/injection-molding/secondary-operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/cnc-machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/resources/partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/resources/release-notes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.protolabs.com/media/nirbm2jn/2026-022-3dp-fdm_prototyping-abs_data-sheet.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.protolabs.com/media/l1xfsn5s/ctq-capability-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.protolabs.com/media/uzggjbdi/ctq-fai-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.protolabs.com/media/u1mkx5fe/digital-inspection-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.protolabs.com/media/fu1fq155/injection-molding-ppap-example.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://sekapri.com/business/20220621-14540/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%80%81%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E6%88%90%E9%95%B7%E3%81%97%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://iwate3d.jp/post-4621/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%83%A8%E5%93%81%E3%81%AE/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/protolabs%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E4%BA%8B%E6%A5%AD%E3%80%81%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E3%81%AB114%EF%BC%85%E6%88%90%E9%95%B7-57164907/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%80%81%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E6%88%90%E9%95%B7%E3%81%97%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/equities/proto-labs-inc-earnings",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%80%81%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E6%88%90%E9%95%B7%E3%81%97%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ninesigma.com/jp/news/column_3dprinter/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_9305/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekapri.com/business/20261031-21663/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/protolabs%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E4%BA%8B%E6%A5%AD%E3%80%81%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E3%81%AB114%EF%BC%85%E6%88%90%E9%95%B7-57164907/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/ja/news/post/1003352628/proto-labs-raises-multi-jet-fusion-3d-printing-capacity-by",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/us/PRLB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daijob.com/jobs/introduction/7283",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/aboutus/page/2488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/equities/proto-labs-inc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/proto-labs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/proto-labs-japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E4%BC%B8%E5%A4%AA%E9%83%8E-%E6%A8%8B%E5%8F%A3-5bb9b1233?trk=public_profile_browsemap",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Protolabs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "プロトラブズ",
+   "results": [
+    "https://www.protolabs.com/",
+    "https://www.automation-news.jp/2022/07/63848/",
+    "https://www.incom.co.jp/corporation/top.php?company_id=6790",
+    "https://www.daijob.com/jobs/introduction/7283",
+    "https://monoist.itmedia.co.jp/mn/articles/2206/02/news149.html",
+    "https://inouemasashi.com/perspective-of-consultants/%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%81%8C%E6%97%A5%E6%9C%AC%E6%B3%95%E4%BA%BA%E3%82%92%E9%96%89%E9%8E%96%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%82%8B%E6%97%A5%E6%9C%AC%E3%81%AE/",
+    "https://inouemasashi.com/perspective-of-consultants/プロトラブズが日本法人を閉鎖から考える日本の/",
+    "https://sekapri.com/business/20220621-14540/",
+    "https://proto.rockykasei.co.jp/",
+    "https://monoist.itmedia.co.jp/mn/articles/2206/23/news067.html"
+   ]
+  },
+  {
+   "query": "プロトラブズ 3Dプリンタ 撤退 OR 縮小 OR 終了",
+   "results": [
+    "https://sekapri.com/business/20220621-14540/",
+    "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=2",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%80%81%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E6%88%90%E9%95%B7%E3%81%97%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3/",
+    "https://iwate3d.jp/post-4621/",
+    "https://sekapri.com/business/20241030-18418/",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/21/news023.html",
+    "https://inouemasashi.com/perspective-of-consultants/%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%81%8C%E6%97%A5%E6%9C%AC%E6%B3%95%E4%BA%BA%E3%82%92%E9%96%89%E9%8E%96%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%82%8B%E6%97%A5%E6%9C%AC%E3%81%AE/",
+    "https://skhonpo.com/blogs/blog/3d-2025-2026",
+    "https://style.recordingartistsdevelopment.org/フロトラフス-3dフリンター-フロトラフス-閉鎖-フロ/"
+   ]
+  },
+  {
+   "query": "プロトラブズ 3Dプリンタ 参入 OR 開始 OR 買収",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "https://sekapri.com/%E6%9C%AA%E5%88%86%E9%A1%9E/20210120-12014/",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%83%A8%E5%93%81%E3%81%AE/",
+    "https://idarts.co.jp/3dp/protolabs-to-3d-hubs/?srsltid=AYCX9vIwg8MvTKjFmRkv65DDxBm7chZcwo3BW-_7kaelD-olj54ua5eh",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=2",
+    "https://monoist.itmedia.co.jp/mn/articles/1704/13/news025.html",
+    "https://iwate3d.jp/post-4621/",
+    "https://prtimes.jp/main/html/rd/p/000000012.000002818.html",
+    "https://ja.3dsystems.com/press-releases/3d-systems-expands-portfolio-selective-laser-sintering-platforms-acquisition",
+    "https://style.recordingartistsdevelopment.org/フロトラフス-3dフリンター-フロトラフス-閉鎖-フロ/"
+   ]
+  },
+  {
+   "query": "プロトラブズ 積層造形 事業 売上",
+   "results": [
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/protolabs%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E4%BA%8B%E6%A5%AD%E3%80%81%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E3%81%AB114%EF%BC%85%E6%88%90%E9%95%B7-57164907/",
+    "https://sekapri.com/business/20261031-21663/",
+    "https://www.tradingkey.com/jp/news/presentation/262257831-tradingkey",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%80%81%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E6%88%90%E9%95%B7%E3%81%97%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3/",
+    "https://jp.investing.com/equities/proto-labs-inc-earnings",
+    "https://strainer.jp/tags/3d-printing",
+    "https://prtimes.jp/main/html/rd/p/000000041.000002818.html",
+    "https://www.tikr.com/ja/blog/proto-labs-sinks-15-as-higher-raw-material-costs-squeeze-margins-despite-record-quarter",
+    "https://investors.protolabs.com/news-releases/news-release-details/protolabs-reports-financial-results-second-quarter-2026/",
+    "https://3druck.com/ja/産業/プロトラブズ、デジタル製造業で成長し、3dプリン/"
+   ]
+  },
+  {
+   "query": "プロトラブズ 3Dプリンター 社長 インタビュー 課題",
+   "results": [
+    "https://www.cct-inc.co.jp/koto-online/archives/396",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%80%81%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%A7%E6%88%90%E9%95%B7%E3%81%97%E3%80%813d%E3%83%97%E3%83%AA%E3%83%B3/",
+    "https://www.ninesigma.com/jp/news/column_3dprinter/",
+    "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "https://www.nttdata-xam.com/blog/development/article_9305/",
+    "https://3dprinter.co.jp/news/11970/",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00009/00067/?P=2",
+    "https://www.youtube.com/watch?v=afLEM7a6hdc",
+    "https://www.jetro.go.jp/biz/areareports/2017/e54f2e25c4db8033.html",
+    "https://news.livedoor.com/article/detail/8201169/"
+   ]
+  },
+  {
+   "query": "プロトラブズ 決算説明 3Dプリンタ",
+   "results": [
+    "https://sekapri.com/business/20261031-21663/",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/protolabs%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E4%BA%8B%E6%A5%AD%E3%80%81%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E3%81%AB114%EF%BC%85%E6%88%90%E9%95%B7-57164907/",
+    "https://www.tradingkey.com/jp/news/transcripts/262254623-tradingkey",
+    "https://www.moomoo.com/ja/news/post/1003352628/proto-labs-raises-multi-jet-fusion-3d-printing-capacity-by",
+    "https://shikiho.toyokeizai.net/us/PRLB",
+    "https://news.sharelab.jp/3dp-news/ir/protolabs-report-240711/",
+    "https://jp.investing.com/equities/proto-labs-inc",
+    "https://prtimes.jp/main/html/searchrlp/company_id/2818",
+    "https://sekapri.com/business/20251101-20044/",
+    "https://stocknow.ai/ja/calls/ptmxjihkzc3nzhran4ni15vg/prlb_q3-2026-earnings-call"
+   ]
+  },
+  {
+   "query": "プロトラブズ 会社概要 設立 株主",
+   "results": [
+    "https://www.protolabs.com/ja-jp/legal-notices/protoquote/",
+    "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "https://www.daijob.com/jobs/introduction/7283",
+    "https://www.aperza.com/aboutus/page/2488/",
+    "https://jp.investing.com/equities/proto-labs-inc",
+    "https://www.techno-labo.com/protolabs/",
+    "https://monoist.itmedia.co.jp/mn/articles/2206/02/news149.html",
+    "https://www.youtube.com/watch?v=-5Xc2CqNsDk",
+    "https://proto.rockykasei.co.jp/",
+    "https://companydata.tsujigawa.com/company2/1021003003565/"
+   ]
+  },
+  {
+   "query": "site:note.com プロトラブズ",
+   "results": [
+    "https://note.com/iwasada_s/n/nb7a1f00d05e2",
+    "https://note.com/teruemon/n/nb79c4f2b7f27",
+    "https://note.com/haru_mech/n/n2940b3fc26dd",
+    "https://note.com/takasu/n/n2cb56c260ca3",
+    "https://note.com/hiranotomoki/n/n78b8f71b43a1",
+    "https://note.com/takuya_t/n/n679867afad01",
+    "https://note.com/mabarasuji/n/nbadee53b230e",
+    "https://note.com/kyoto_gonchan/n/nf1f13511fad2",
+    "https://note.com/oraubiz/n/n239ceb406de8",
+    "https://note.com/oraubiz/n/nb796c2d5ba0e"
+   ]
+  },
+  {
+   "query": "site:x.com プロトラブズ",
+   "results": [
+    "https://x.com/masashi_i/status/1533949883685965824?ref_src=twsrc%5Etfw",
+    "https://x.com/SnskAkym/status/1535554840033886208",
+    "https://x.com/yuyakm",
+    "https://x.com/SnskAkym",
+    "https://x.com/5axis_machine/status/1532500931954475008",
+    "https://x.com/Yowkees/status/1532652008251224064",
+    "https://x.com/SEN4474/status/2115590824570577359",
+    "https://x.com/takitaki_L_D/status/2112159600690807026",
+    "https://x.com/Doraji29/status/2111023114318655982",
+    "https://x.com/Akatarou_uma/status/2098434828953891047"
+   ]
+  },
+  {
+   "query": "site:linkedin.com プロトラブズ",
+   "results": [
+    "https://www.linkedin.com/company/proto-labs",
+    "https://www.linkedin.com/company/proto-labs-japan",
+    "https://jp.linkedin.com/in/shinya-kawamura",
+    "https://jp.linkedin.com/in/%E4%BC%B8%E5%A4%AA%E9%83%8E-%E6%A8%8B%E5%8F%A3-5bb9b1233?trk=public_profile_browsemap",
+    "https://jp.linkedin.com/in/naomi-tokita-ba1aa4193",
+    "https://jp.linkedin.com/pub/dir/+/Yoda/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/+/%E4%BE%9D%E7%94%B0",
+    "https://jp.linkedin.com/in/kimiaki-emoto-36291711",
+    "https://jp.linkedin.com/in/keisuke-yoshioka-84842411"
+   ]
+  },
+  {
+   "query": "site:facebook.com プロトラブズ",
+   "results": [
+    "https://www.facebook.com/iwate3d/videos/%EF%BC%97%E5%B9%B4%E5%89%8D%E3%81%AB%E5%AF%8C%E5%A3%AB%E9%80%9A%E3%81%AEvps%E3%82%BD%E3%83%95%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E5%88%B6%E4%BD%9C%E3%81%97%E3%81%9F%E7%B5%84%E7%AB%8B%E5%8B%95%E7%94%BB%E7%B5%84%E7%AB%8B%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%AF%E3%83%97%E3%83%AD%E3%83%88%E3%83%A9%E3%83%96%E3%82%BA%E3%81%A7%E6%8F%90%E4%BE%9B%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%83%AC%E3%82%B8%E3%83%B3%E3%83%91%E3%82%BA%E3%83%AB%E6%9D%A5%E9%80%B1vps%E3%81%AE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99%E3%81%9C%E3%81%B2%E5%BE%A1%E5%8F%82%E5%8A%A0%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84htt/364540191088716/",
+    "https://www.facebook.com/itscobuy/posts/caddi%E3%82%AD%E3%83%A3%E3%83%87%E3%82%A3-vs-meviy%E3%83%9F%E3%82%B9%E3%83%9F%E7%AB%B6%E4%BA%89%E6%BF%80%E5%8C%96-%E3%81%9D%E3%81%97%E3%81%A6%E6%9D%BF%E9%87%91%E8%AA%BF%E9%81%94%E3%81%AE%E8%B3%BC%E8%B2%B7%E6%8A%9C%E3%81%8D%E3%81%AF%E3%81%95%E3%82%89%E3%81%AB%E5%8A%A0%E9%80%9F%E3%81%8B-%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E4%BB%96-cobuy%E7%8F%BE%E5%9C%A8%E8%B3%BC%E8%B2%B7%E7%B3%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E6%9C%80%E3%82%82%E7%9B%AE%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/2518429524854943/",
+    "https://www.facebook.com/sisakubisai/",
+    "https://www.facebook.com/ymwc.co.jp/",
+    "https://www.facebook.com/HFOJapan/posts/神奈川県のhaasユーザープロトラブズ合同会社様の特集記事がjbpressに掲載されています️標準3日最短1日という超々短納期をどのように実現しているのでしょう/970295863153182/",
+    "https://www.facebook.com/MONOist/posts/オランダに育ち日本ではソニーやフィリップスを経て現在はデジタル加工サービスを提供する米プロトラブズの日本法人社長を務める今井歩氏同氏が見る世界の製造業の現在とは/5165026843515721/",
+    "https://www.facebook.com/MONOist/posts/オランダに育ち日本ではソニーやフィリップスを経て現在はデジタル加工サービスを提供する米プロトラブズの日本法人社長を務める今井歩氏同氏が見る世界の製造業の現在とは/4808660919152317/",
+    "https://www.facebook.com/MONOist/posts/試作小ロットのオンデマンド受託製造サービスを展開するプロトラブズは同社webサイトにて日本法人の閉鎖についてのお知らせを掲載した最終受注日は2022年7月15日/5458229374195465/",
+    "https://www.facebook.com/MONOist/posts/オランダに育ち日本ではソニーやフィリップスを経て現在はデジタル加工サービスを提供する米プロトラブズの日本法人社長を務める今井歩氏本連載では同氏が見た米国のモノづ/4716455788372831/",
+    "https://www.facebook.com/jpShareLab/posts/2024年3dプリンティングの市場成長と技術革新-プロトラブズ社プロトラブスは設計開発支援から金型含む樹脂射出成形金属cnc切削加工樹脂金属3dプリンティングシ/1032285742232251/"
+   ]
+  },
+  {
+   "query": "プロトラブズ note 社長",
+   "results": [
+    "https://www.protolabs.com/ja-jp/legal-notices/protoquote/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000002818.html",
+    "https://kanagata-shimbun.com/210910interview-protolabs/",
+    "https://monoist.itmedia.co.jp/mn/articles/2206/02/news149.html",
+    "https://www.daijob.com/jobs/introduction/7283",
+    "https://news.mynavi.jp/techplus/article/20180702-657283/",
+    "https://note.com/ogiwara6553",
+    "https://www.techno-labo.com/protolabs/home/why1/",
+    "https://www.itmedia.co.jp/author/235726/",
+    "https://www.nikkan.co.jp/articles/view/479951"
+   ]
+  },
+  {
+   "query": "プロトラブズ X 投稿",
+   "results": [
+    "https://www.protolabs.com/",
+    "https://x.com/Protolabs",
+    "https://www.youtube.com/watch?v=-5Xc2CqNsDk",
+    "https://iwate3d.jp/post-4621/",
+    "https://www.nikkei.com/article/DGXLRSP440683_Y7A320C1000000/",
+    "https://koutoku-pla.com/protolabs_mitumori_review/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/2818",
+    "https://monoist.itmedia.co.jp/mn/articles/2206/02/news149.html",
+    "https://www.protolabs.com/about-us/digital-factories-x-partner-network/",
+    "https://inouemasashi.com/perspective-of-consultants/プロトラブズが日本法人を閉鎖から考える日本の/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像5件／外部33頁・検索13回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像5件／外部33頁・検索13回）",
+  "所在地": "記載なし（3回確認済み：公式30頁／PDF・画像5件／外部33頁・検索13回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像5件／外部33頁・検索13回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像5件／外部33頁・検索13回）"
+ }
+}
