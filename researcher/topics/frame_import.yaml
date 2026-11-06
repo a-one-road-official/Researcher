@@ -1,3 +1,4 @@
+# 2026-11-06 軸に合わせて品目を直す：痛み・損（深さの印）の欄と検索を先頭に足した。
 # 本人の指示（2026-11-04）：顧客起点の3C（顧客の顧客・顧客の競合・顧客・自社・自社の競合）＋PEST を、まず業界ごとに、海外→日本（輸入）の向きで。
 # 目的は本人が読むことではなく、Claude と Muse が質問に答える前に必ず通る最新の事実の土台にすること。3時間おきに回り、1品目は24時間ごとに取り直して足していく（消さない）。
 kind: market
@@ -6,6 +7,7 @@ input: researcher/inputs/field6_gap.csv
 columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
 refresh_hours: 24
 evidence:
+  痛み・損（深さの印）: [受注を断, 断った, 断らざるを得, 失注, 機会損失, 稼働停止, 設備が止, ライン停止, 納期遅れ, 受注残, 人手不足倒産, 倒産, 廃業, 欠員, 採用できなかった, 応募がない, 離職, 損失額, 被害額, 億円の損失, 減産, 操業停止, turned down orders, lost orders, backlog, labor shortage, shutdown]
   顧客（金を払う側）: [メーカー, 企業, 導入, 採用, 発注, 受注, 調達, 設備投資, 量産, 工場, 納入, 顧客, customers, manufacturers, adopted, orders]
   顧客の顧客（発注元が求めること）: [発注元, 元請, 防衛省, 官公庁, 調達方針, サプライヤー, 要求, 認証, 品質要求, 納期, 脱炭素, BCP, OEM, prime contractor, procurement, supplier requirements, qualification]
   顧客の競合（奪いに来る側）: [競合, 中国, 韓国, 台湾, インド, 欧州, 米国, シェア, 海外勢, 価格競争, 安価, 追い上げ, competitor, Chinese, Korean, market share, low-cost]
@@ -16,6 +18,9 @@ evidence:
   技術（新しい技術・実証）: [新技術, 開発, 実証, 特許, 量産化, 次世代, 試作, 3Dプリンタ, 積層造形, AI, 自動化, ロボット, technology, prototype, additive manufacturing, patent]
 numeric: [経済（規模・価格・為替）]
 external_queries:
+  - "{name} 人手不足 受注 断る"
+  - "{name} 受注残 人手不足"
+  - "{name} 人手不足 損失 億円"
   - "{name} 輸入 {y}"
   - "{name} 海外製 日本 導入"
   - "{name} 日本 代理店 販売開始"
