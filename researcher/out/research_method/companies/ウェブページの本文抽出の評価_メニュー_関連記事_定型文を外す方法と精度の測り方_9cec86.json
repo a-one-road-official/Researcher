@@ -8,8 +8,72 @@
  ],
  "context": "取り方",
  "kind": "market",
- "researched_at": "2026-11-06T11:52:54.179539+00:00",
+ "researched_at": "2026-11-06T15:43:51.566727+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "有料部分では、導入から抽出、設定の比較、欄外の欠落の発見、題名と日付の照合、資料の保存、人による採用確認まで進めます",
+    "url": "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PDF-converted pages, scanned-document OCR outputs, and academic preprints served as HTML tend to have unusual DOM structures. Extractors trained on the distribution of general news sites may perform poorly on these, either hallucinating structure (including headers and footers from the PDF rendering layer) or failing to extract anything.",
+    "url": "https://praveentn.live/learn/concepts/text-extraction-and-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://readability.readthedocs.io/_/downloads/en/latest/pdf/",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方｜NITI Technology",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。Webページからナビゲーションバーや広告などのノイズを除去し、",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://nititech.jp/blog/nf614a498b089/",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "新製品の提案書に、メーカーが説明している使い方を引用したい",
@@ -372,6 +436,42 @@
     "first_seen": "2026-11-06"
    },
    {
+    "quote": "What Is Boilerplate Removal? Methods and Evaluation",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "No method is perfect across every page.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Rule-Based and Semantic Methods",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Text-density methods divide a page into blocks or lines and score how much natural-language text appears relative to tags or markup. Long paragraphs with punctuation often score as content. Link density helps identify navigation and recommendation lists, where much of the text is inside anchors.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Repetition is not proof of irrelevance. A product specification, safety warning, author biography, or legal condition may appear on many pages and still matter to the task. Cross-page methods should produce candidate boilerplate that is evaluated against the intended content schema, not an automatic deletion list.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Machine-learning systems classify blocks using textual, structural, visual, and neighboring features. Sequence models can use the fact that content blocks tend to occur in runs, while graph methods can connect similar blocks or layout relationships. The",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
     "quote": "Online order: https://classic.ntis.gov/help/order-methods/",
     "url": "https://www.osti.gov/servlets/purl/2429881",
     "pass": 3,
@@ -510,38 +610,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "有料部分では、導入から抽出、設定の比較、欄外の欠落の発見、題名と日付の照合、資料の保存、人による採用確認まで進めます",
-    "url": "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDF-converted pages, scanned-document OCR outputs, and academic preprints served as HTML tend to have unusual DOM structures. Extractors trained on the distribution of general news sites may perform poorly on these, either hallucinating structure (including headers and footers from the PDF rendering layer) or failing to extract anything.",
-    "url": "https://praveentn.live/learn/concepts/text-extraction-and-boilerplate-removal",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://readability.readthedocs.io/_/downloads/en/latest/pdf/",
-    "url": "https://www.osti.gov/servlets/purl/2429881",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294",
-    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
     "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方｜N... 【Webスクレイピングを効率化するTrafilatura】 HTMLの「ノイズ」を自動で除去し、記事の本文だけを高精度に抽出するPythonツール「Trafilatura」をご存知ですか？",
@@ -554,6 +622,156 @@
     "url": "https://jp.linkedin.com/posts/niti-technology-株式会社-a1400a363_webスクレイピング本文抽出ツールtrafilaturaの特徴と使い方niti-activity-7435557619198525441-c8km",
     "pass": 3,
     "first_seen": "2026-11-05"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています [1]。",
+    "url": "https://nititech.jp/blog/trafilatura-content-extraction/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura ...",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スクレイピング時に本文だけを抽出する最高精度ツールが優秀！【日本...Webページの本文抽出 (主要コンテンツ抽出) - Notes - 64p.orgウェブページ内の階層構造を考慮した本文抽出技術ブラウザを開かない記事抽出ツール — しかもきれいに整える | Thunder...Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — スクレイピングでテキストを抽出するとルールベースでは除外できないヘッダーなどが大量に混ざってノイズになりますよね。 それをフィルタリングするツールの最高精度モデル(BoilerNet)が良い感じだったので紹介します。日本語対応版のソースコードも公開しています。 See full list on qiita.com See full list on qiita.com 日本語対応版のソースコード、モデルはこちらに置いてます。 モデルは",
+    "url": "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています[1]。 RAGやテキストマイニングの前処理として有用です。 1.…",
+    "url": "https://nititech.jp/blog/trafilatura-content-extraction/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スクレイピング時に本文だけを抽出する最高精度ツールが優秀！【日本...Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方ブラウザを開かない記事抽出ツール — しかもきれいに整える | Thunder...Trafilaturaで記事本文をAIの資料にする｜広告・コメントの除外と欠落...Defuddle — ウェブページ本文抽出ライブラリ — スクレイピングでテキストを抽出するとルールベースでは除外できないヘッダーなどが大量に混ざってノイズになりますよね。 それをフィルタリングするツールの最高精度モデル(BoilerNet)が良い感じだったので紹介します。日本語対応版のソースコードも公開しています。 See full list on qiita.com See full list on qiita.com 日本語対応版のソースコード、モデルはこちらに置いてます。 ",
+    "url": "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "収集と抽出を一つの失敗として扱わないことが、原因を見つける助けになります",
+    "url": "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注意点として、画像抽出機能は必ずしも意図した画像が選ばれるとは限らず、本文に最も関係のある画像を1つ取得する挙動となるようです",
+    "url": "https://nititech.jp/blog/trafilatura-content-extraction/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あわせて、複数形式の出力、軽量なセットアップ、処理速度、失敗時の挙動、そして商品カタログや任意フィールドの抽出に向いていない理由も扱っています",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こういうライブラリを何本も見ていると、次に何か落とし穴が来るのではと身構えてしまいます",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この地味だけれど正しい失敗の振る舞いは、定期実行のバッチで動かす用途にはまさに欲しいものです",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注意点は 3 つあります",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3 つ目は、私自身の検証方法に関する注意です",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を返す、落ち着いた失敗挙動",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "extraction profile tuning, the held-out test set was never used during development and provides an unbiased",
+    "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "systems inherit the same article bias as heuristic systems — they were trained predominantly on article-like",
+    "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "driven stages may introduce systematic biases; we mitigate this through multi-pass structure, two rounds of",
+    "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and ReaderLM-v2 inherit the article bias of their training data. Held-out results preserve the development-",
+    "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "[3] under multilingual conditions. We first identified biases in exist-",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "configured not to extract comments, which can introduce a bias in",
+    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 Feb 7, 2026 · Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura ...",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    }
   ],
   "突き合わせ・推定": [
@@ -626,6 +844,12 @@
    {
     "quote": "phrases rather than individual words. Per-type 95% confidence intervals are estimated by non-parametric",
     "url": "https://arxiv.org/pdf/2605.21097",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Estimate source acquisition, rendering, storage, labeling, evaluation, and downstream indexing together.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -818,6 +1042,12 @@
     "first_seen": "2026-11-06"
    },
    {
+    "quote": "Label blocks and boundary cases, including repeated content that remains relevant.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
     "quote": "allow you to control which elements of the webpage are extracted. For example, you can select for",
     "url": "https://www.osti.gov/servlets/purl/2429881",
     "pass": 3,
@@ -877,280 +1107,83 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。",
-    "url": "https://note.com/niti_technology/n/nf614a498b089",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。",
-    "url": "https://note.com/niti_technology/n/nf614a498b089",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています [1]。",
-    "url": "https://nititech.jp/blog/trafilatura-content-extraction/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "収集と抽出を一つの失敗として扱わないことが、原因を見つける助けになります",
-    "url": "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注意点として、画像抽出機能は必ずしも意図した画像が選ばれるとは限らず、本文に最も関係のある画像を1つ取得する挙動となるようです",
-    "url": "https://nititech.jp/blog/trafilatura-content-extraction/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "あわせて、複数形式の出力、軽量なセットアップ、処理速度、失敗時の挙動、そして商品カタログや任意フィールドの抽出に向いていない理由も扱っています",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "こういうライブラリを何本も見ていると、次に何か落とし穴が来るのではと身構えてしまいます",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この地味だけれど正しい失敗の振る舞いは、定期実行のバッチで動かす用途にはまさに欲しいものです",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注意点は 3 つあります",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3 つ目は、私自身の検証方法に関する注意です",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "を返す、落ち着いた失敗挙動",
-    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "extraction profile tuning, the held-out test set was never used during development and provides an unbiased",
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "systems inherit the same article bias as heuristic systems — they were trained predominantly on article-like",
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "driven stages may introduce systematic biases; we mitigate this through multi-pass structure, two rounds of",
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and ReaderLM-v2 inherit the article bias of their training data. Held-out results preserve the development-",
-    "url": "https://arxiv.org/pdf/2605.21097",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "[3] under multilingual conditions. We first identified biases in exist-",
-    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "configured not to extract comments, which can introduce a bias in",
-    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方｜NITI Technology",
-    "url": "https://note.com/niti_technology/n/nf614a498b089",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方",
-    "url": "https://note.com/niti_technology/n/nf614a498b089",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。Webページからナビゲーションバーや広告などのノイズを除去し、",
-    "url": "https://note.com/niti_technology/n/nf614a498b089",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。",
-    "url": "https://note.com/niti_technology/n/nf614a498b089",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://nititech.jp/blog/nf614a498b089/",
-    "url": "https://note.com/niti_technology/n/nf614a498b089",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。",
-    "url": "https://note.com/niti_technology/n/nf614a498b089",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 Feb 7, 2026 · Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。",
-    "url": "https://note.com/niti_technology/n/nf614a498b089",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/gtminami/n/nac7ff90798ca",
+    "url": "https://note.com/55clotho/n/n816d179b53ec",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/zenkok/n/ndd9acda2e800",
+    "url": "https://note.com/todoonada/n/ne5b21886eec0",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/minamominamoto/n/n6dafd444d520",
+    "url": "https://note.com/onatah/n/n096c6d139f64",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/loyal_gnu2078/n/n899b7d4d9052",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/simizu_note_ai/n/n98d84eba96d9",
+    "url": "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/trimoneyx/n/n13a25a7d7895",
+    "url": "https://note.com/just_mole7809/n/nfd1b213e4fd8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_komon/n/ndd2a1fdc500b",
+    "url": "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kira_ai_lab/n/n0c9d01a4cb9e",
+    "url": "https://64p.org/notes/html-content-extraction.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.help-note.com/hc/ja/articles/40993401998489-AI%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-%CE%B2-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2011/0/JSAI2011_3F35/_pdf/-char/ja",
     "status": "ok",
-    "method": "browser"
+    "method": "pdf"
    },
    {
-    "url": "https://note.com/asahi_ictrad/n/n306b1aa244c0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.moneyforward.com/work-efficiency/basic/19685/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/a_g_e_n_t_b_o_t/n/n2bec089e05d1",
+    "url": "https://thunderbit.com/ja/blog/trafilatura-review",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tech.smarthr.jp/entry/2025/08/05/192115",
+    "url": "https://nititech.jp/blog/trafilatura-content-extraction/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mieruka-engine.com/media/textmining",
+    "url": "https://53able.github.io/docs-site/docs/defuddle.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://rabiloo.co.jp/blog/model-evaluation",
+    "url": "https://easegis.jp/blog/article-extractor/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jreadability.net/jwriter/",
+    "url": "https://arxiv.org/pdf/2605.21097",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://zenn.dev/pharmax/articles/9b5fba24c252f3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://crystal-method.com/blog/textmining/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.science.co.jp/document_blog/44658/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://hnavi.co.jp/knowledge/blog/text-mining-basics/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.mieruka-engine.com/media/txm-case",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pickupon.io/posts/text-analysis",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://gmo-research.ai/research-column/text-mining",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://it-trend.jp/textmining/article/124-0019",
+    "url": "https://arxiv.org/html/1801.02607v3",
     "status": "ok",
     "method": "http"
    },
@@ -1160,27 +1193,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.osti.gov/servlets/purl/2429881",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "url": "https://praveentn.live/learn/concepts/text-extraction-and-boilerplate-removal",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dias.users.greyc.fr/publications/sigir2025.pdf",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://dl.acm.org/doi/10.1145/3539618.3591920",
-    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
+    "url": "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
     "status": "ok",
     "method": "http"
    },
@@ -1188,6 +1216,11 @@
     "url": "https://jp.linkedin.com/posts/niti-technology-株式会社-a1400a363_webスクレイピング本文抽出ツールtrafilaturaの特徴と使い方niti-activity-7435557619198525441-c8km",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -1195,107 +1228,83 @@
   {
    "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） site:note.com",
    "results": [
-    "https://note.com/gtminami/n/nac7ff90798ca",
-    "https://note.com/zenkok/n/ndd9acda2e800",
-    "https://note.com/minamominamoto/n/n6dafd444d520",
-    "https://note.com/loyal_gnu2078/n/n899b7d4d9052",
-    "https://note.com/simizu_note_ai/n/n98d84eba96d9",
-    "https://note.com/trimoneyx/n/n13a25a7d7895",
-    "https://note.com/it_shikaku_lab/n/n2e340abb783a",
-    "https://note.com/zenkok/n/n866418d067c8",
-    "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
-    "https://note.com/unikoukokun/n/n7e0a8e5fc4f3"
+    "https://note.com/55clotho/n/n816d179b53ec",
+    "https://note.com/todoonada/n/ne5b21886eec0",
+    "https://note.com/onatah/n/n096c6d139f64",
+    "https://note.com/niti_technology/n/nf614a498b089",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
+    "https://note.com/just_mole7809/n/nfd1b213e4fd8",
+    "https://note.com/ai_hexwrench/n/nb44e7016604f"
    ]
   },
   {
    "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） note",
    "results": [
-    "https://note.com/ai_komon/n/ndd2a1fdc500b",
-    "https://note.com/kira_ai_lab/n/n0c9d01a4cb9e",
-    "https://www.help-note.com/hc/ja/articles/40993401998489-AI%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-%CE%B2-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
-    "https://note.com/asahi_ictrad/n/n306b1aa244c0",
-    "https://biz.moneyforward.com/work-efficiency/basic/19685/",
-    "https://note.com/a_g_e_n_t_b_o_t/n/n2bec089e05d1",
-    "https://www.watch.impress.co.jp/docs/news/1480286.html",
-    "https://zenn.dev/pharmax/articles/9b5fba24c252f3",
-    "https://evernote.com/ja-jp/learn/how-to-write-a-literature-review-from-your-notes",
-    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57"
+    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
+    "https://64p.org/notes/html-content-extraction.html",
+    "https://note.com/55clotho/n/n816d179b53ec",
+    "https://www.jstage.jst.go.jp/article/pjsai/JSAI2011/0/JSAI2011_3F35/_pdf/-char/ja",
+    "https://note.com/niti_technology/n/nf614a498b089",
+    "https://thunderbit.com/ja/blog/trafilatura-review",
+    "https://nititech.jp/blog/trafilatura-content-extraction/"
    ]
   },
   {
    "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） やり方",
    "results": [
-    "https://tech.smarthr.jp/entry/2025/08/05/192115",
-    "https://www.mieruka-engine.com/media/textmining",
-    "https://rabiloo.co.jp/blog/model-evaluation",
-    "https://jreadability.net/jwriter/",
-    "https://zenn.dev/pharmax/articles/9b5fba24c252f3",
-    "https://note.com/asahi_ictrad/n/n306b1aa244c0",
-    "https://crystal-method.com/blog/textmining/",
-    "https://www.acceluniverse.com/blog/developers/2020/02/post-45.html",
-    "https://textmining.userlocal.jp/questions",
-    "https://note.com/55clotho/n/n816d179b53ec"
+    "https://www.jstage.jst.go.jp/article/pjsai/JSAI2011/0/JSAI2011_3F35/_pdf/-char/ja",
+    "https://note.com/niti_technology/n/nf614a498b089",
+    "https://nititech.jp/blog/trafilatura-content-extraction/",
+    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
+    "https://thunderbit.com/ja/blog/trafilatura-review",
+    "https://53able.github.io/docs-site/docs/defuddle.html",
+    "https://easegis.jp/blog/article-extractor/"
    ]
   },
   {
    "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） 事例",
    "results": [
-    "https://www.science.co.jp/document_blog/44658/",
-    "https://hnavi.co.jp/knowledge/blog/text-mining-basics/",
-    "https://www.mieruka-engine.com/media/txm-case",
-    "https://pickupon.io/posts/text-analysis",
-    "https://gmo-research.ai/research-column/text-mining",
-    "https://it-trend.jp/textmining/article/124-0019",
-    "https://www.nttcoms.com/service/research/dataanalysis/textmining/",
-    "https://data-viz-lab.com/text-data-cleansing",
-    "https://biz.loyalty.co.jp/column/096/",
-    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57"
+    "https://www.jstage.jst.go.jp/article/pjsai/JSAI2011/0/JSAI2011_3F35/_pdf/-char/ja",
+    "https://note.com/niti_technology/n/nf614a498b089",
+    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
+    "https://nititech.jp/blog/trafilatura-content-extraction/",
+    "https://thunderbit.com/ja/blog/trafilatura-review",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
+    "https://53able.github.io/docs-site/docs/defuddle.html",
+    "https://note.com/55clotho/n/n816d179b53ec"
    ]
   },
   {
    "query": "web main text extraction boilerplate removal evaluation precision recall",
    "results": [
+    "https://arxiv.org/pdf/2605.21097",
+    "https://arxiv.org/html/1801.02607v3",
     "https://trafilatura.readthedocs.io/en/latest/evaluation.html",
-    "https://www.osti.gov/servlets/purl/2429881",
-    "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
-    "https://dias.users.greyc.fr/publications/sigir2025.pdf",
-    "https://dl.acm.org/doi/10.1145/3539618.3591920",
-    "https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark",
-    "https://www.reddit.com/r/Bard/comments/1pv5phb/document_extraction_accuracy_and_recall_tips/",
-    "https://www.llamaindex.ai/glossary/f1-score-for-document-extraction",
+    "https://praveentn.live/learn/concepts/text-extraction-and-boilerplate-removal",
+    "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
     "https://downloads.webis.de/publications/papers/bevendorff_2023c.pdf",
-    "https://ws-dl.blogspot.com/2017/03/2017-03-20-survey-of-5-boilerplate.html"
+    "https://health-nlp.com/files/pubs/ecir18a.pdf",
+    "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "https://webcontentextraction.org/",
+    "https://www.emergentmind.com/topics/mainwebbench"
    ]
   },
   {
    "query": "site:note.com ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）",
    "results": [
-    "https://note.com/minamominamoto/n/n6dafd444d520",
-    "https://note.com/trimoneyx/n/n13a25a7d7895",
-    "https://note.com/it_shikaku_lab/n/n2e340abb783a",
-    "https://note.com/unikoukokun/n/n7e0a8e5fc4f3",
-    "https://note.com/nonb0716/n/n368fd19cf874",
-    "https://note.com/calm_mimosa478/n/n1bc9372972f8",
-    "https://note.com/misaki_ai_work/n/ncf3719c7972c",
-    "https://note.com/ryuyan/n/nab3b305ca57b",
     "https://note.com/55clotho/n/n816d179b53ec",
-    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135"
+    "https://note.com/todoonada/n/ne5b21886eec0",
+    "https://note.com/onatah/n/n096c6d139f64",
+    "https://note.com/niti_technology/n/nf614a498b089",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
+    "https://note.com/ai_hexwrench/n/nb44e7016604f",
+    "https://note.com/just_mole7809/n/nfd1b213e4fd8",
+    "https://note.com/stamp_/n/nd9ab3d346f58"
    ]
   },
   {
    "query": "site:x.com ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）",
-   "results": [
-    "https://x.com/MakeAI_CEO/article/2084991158426755538",
-    "https://x.com/curryNOprince/status/2112421491300340214",
-    "https://x.com/fujikawa/status/2115585448978563288",
-    "https://x.com/y__fixer/article/2097525977865973954?lang=ar",
-    "https://x.com/MakeAI_CEO/article/2077774187863978101",
-    "https://x.com/noel_ai_lab/status/2072554321926148201",
-    "https://x.com/KagawaTomo/status/2113066175089508431",
-    "https://x.com/MGT_maccha/article/2073014053153480914",
-    "https://x.com/sora_biz/status/2058901946845815092",
-    "https://x.com/ai_hacks_akira/status/2110720390805024957"
-   ]
+   "results": []
   },
   {
    "query": "site:linkedin.com ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）",
@@ -1303,8 +1312,8 @@
     "https://www.linkedin.com/post-inspector/",
     "https://jp.linkedin.com/jobs/view/ウェブ検索結果品質評価者-at-welocalize-3654767035",
     "https://jp.linkedin.com/posts/niti-technology-株式会社-a1400a363_webスクレイピング本文抽出ツールtrafilaturaの特徴と使い方niti-activity-7435557619198525441-c8km",
-    "https://www.linkedin.com/jobs/view/search-quality-rater-japanese-ウェブ検索結果品質評価者【在宅-フリーランス-英語を活かせる】-日本在住の方-at-welocalize-3492472557",
     "https://jp.linkedin.com/pulse/understanding-osint-2025-tools-techniques-every-analyst-okorobie-1xkff?tl=ja",
+    "https://www.linkedin.com/jobs/view/search-quality-rater-japanese-ウェブ検索結果品質評価者【在宅-フリーランス-英語を活かせる】-日本在住の方-at-welocalize-3492472557",
     "https://jp.linkedin.com/pulse/googleのリンク評価を読み解くリーズナブルサーファーモデルから考えるseo設計-剛-柏崎-nddqc",
     "https://jp.linkedin.com/jobs/view/scout-search-quality-rater-japanese-ウェブ検索結果品質評価者【在宅-フリーランス-英語を活かせる】-日本在住の方-at-welocalize-3595137899"
    ]
@@ -1312,64 +1321,144 @@
   {
    "query": "site:facebook.com ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）",
    "results": [
-    "https://www.facebook.com/ebisol/videos/%E4%BA%88%E7%B4%84%E3%82%92%E5%A2%97%E3%82%84%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E3%81%8A%E8%80%83%E3%81%88%E3%81%AE%E9%A3%B2%E9%A3%9F%E5%BA%97%E3%81%AE%E6%96%B9%E5%BF%85%E8%A6%8B%E3%81%84%E3%81%84%E3%81%AD%E3%82%92%E4%BA%88%E7%B4%84%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8Binstagram%E3%81%8B%E3%82%89%E3%81%AE%E4%BA%88%E7%B4%84%E3%81%A9%E3%81%86%E3%82%84%E3%81%A3%E3%81%A6%E5%A2%97%E3%82%84%E3%81%99%E5%85%A8%E5%9B%BD15000%E5%BA%97%E8%88%97%E3%81%8C%E5%B0%8E%E5%85%A5%E4%B8%AD%E9%A3%B2%E9%A3%9F%E5%BA%97%E5%90%91%E3%81%91%E4%BA%88%E7%B4%84%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0eb/1875065699746303/",
     "https://www.facebook.com/shukan.bunshun.official/",
     "https://www.facebook.com/waca.jp/photos/ウェブ解析士認定試験公式テキスト2026第17版pdf版発売しました生成ai関連など最新の状況に対応するため内容を大幅に改訂しています-主な変更点生成ai関連を/1387957500007623/",
     "https://www.facebook.com/ajinomoto.co.jp/posts/失敗も評価する社内表彰味の素グループの味の素agf株式会社にagfチャレンジアワードという社内表彰制度について聞いてきました️-社内表彰と聞くと成果や数字での評/851550407526877/",
     "https://www.facebook.com/Deloitte.Japan/posts/ウェブ更新情報ストレス関連情報マクロ経済リスク情報提供サービスフォワードルッキングな視点に基づく経営管理体制構築のために企業の経営者や財務企画部門が必要とする漠/1500685406681198/",
-    "https://www.facebook.com/nscajapan/posts/nscaジャパンが運営するウェブメディアnsca-park-最新記事はこちらnscaジャパン機関誌2026年6月号を発刊今月号のフリー記事の中からシーズン中のス/1298163439181408/",
+    "https://www.facebook.com/kyoikugijutsu/posts/通知表特集評価のポイントや所見文の書き方多様な状況下にある先生方に少しでも合う方法を選んでいただけるよういろいろな視点から通知表に関する記事を提案していますht/714431145883020/",
     "https://www.facebook.com/NRICPT/posts/保存科学第59号令和元年度版2020年3月発行がウェブ公開されました-報文報告資料あわせて11件が掲載されています報文湿度制御温風処理における殺虫効果判定法の開/2889571664474822/",
-    "https://www.facebook.com/kyoikugijutsu/posts/通知表特集評価のポイントや所見文の書き方多様な状況下にある先生方に少しでも合う方法を選んでいただけるよういろいろな視点から通知表に関する記事を提案していますht/714431145883020/"
+    "https://www.facebook.com/digikar.jp/posts/digikarデジカルは現場の声を反映して成長し続けますリリースノート2016315ファイルタブの文書雛形ボタンから下記の文書のテンプレートをダウンロードできる/521888651317115/"
    ]
   },
   {
    "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） note 社長",
    "results": [
-    "https://note.com/ai_komon/n/ndd2a1fdc500b",
-    "https://note.com/kira_ai_lab/n/n0c9d01a4cb9e",
-    "https://note.com/asahi_ictrad/n/n306b1aa244c0",
-    "https://www.watch.impress.co.jp/docs/news/1480286.html",
-    "https://note.com/pokemimi/n/nc4b6cfd25f67",
-    "https://note.com/egashi_aiwork/n/n657336ddf4d7",
-    "https://zenn.dev/ktymmt/articles/aa5e1e8cc4e68c",
-    "https://textmining.userlocal.jp/questions",
-    "https://qiita.com/ntaka329/items/ed0be05099ae142d9e70",
-    "https://axgo.jp/recipes/089d43fb-3ca3-4257-8eb6-56cf8bafa4b9"
+    "https://axgo.jp/recipes/089d43fb-3ca3-4257-8eb6-56cf8bafa4b9",
+    "https://64p.org/notes/html-content-extraction.html",
+    "https://note.com/55clotho/n/n816d179b53ec",
+    "https://www.jstage.jst.go.jp/article/pjsai/JSAI2011/0/JSAI2011_3F35/_pdf/-char/ja",
+    "https://note.com/niti_technology/n/nf614a498b089",
+    "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
+    "https://thunderbit.com/ja/blog/trafilatura-review"
    ]
   },
   {
    "query": "ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方） X 投稿",
    "results": [
-    "https://x.com/read_kei/article/2086758239665054031",
-    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%90%E4%BF%9D%E5%AD%98%E7%89%88%E3%80%91%E4%BC%B8%E3%81%B3%E3%82%8Bx%E9%81%8B%E7%94%A8%E3%81%AE%E7%A7%98%E5%AF%86%EF%BD%9C%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%8B%E3%82%89/",
-    "https://www.cl.ecei.tohoku.ac.jp/resources/twitter_target_review/",
-    "https://note.com/ogataka/n/n51f144be23b1",
-    "https://camtsuku.com/guide/3811",
-    "https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews?hl=ja",
-    "https://qiita.com/ntaka329/items/ed0be05099ae142d9e70",
-    "https://uzurea.net/how-to-exclude-and-search-for-impression-spam-in-x/",
-    "https://readability-checker.khufrudamonotes.com/",
-    "https://note.com/55clotho/n/n816d179b53ec"
+    "https://www.jstage.jst.go.jp/article/pjsai/JSAI2011/0/JSAI2011_3F35/_pdf/-char/ja",
+    "https://note.com/55clotho/n/n816d179b53ec",
+    "https://note.com/niti_technology/n/nf614a498b089",
+    "https://nititech.jp/blog/trafilatura-content-extraction/",
+    "https://53able.github.io/docs-site/docs/defuddle.html",
+    "https://thunderbit.com/ja/blog/trafilatura-review",
+    "https://easegis.jp/blog/article-extractor/"
    ]
   },
   {
    "query": "web main text extraction boilerplate removal evaluation precision recall site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/martijn-schouten_day-19-document-parsing-and-ingestion-activity-7462041839056011265-2jzd",
-    "https://www.linkedin.com/pulse/building-high-accuracy-rag-chatbot-5000-complex-pdfs-text-akash-singh-e08ic",
-    "https://www.linkedin.com/pulse/document-parsing-rag-comprehensive-guide-understand-skugan-venkatesan-nt0bc",
-    "https://www.linkedin.com/posts/andrey-kutuzov-b53a1318b_hplt-datasets-v2-activity-7247252150282555394-nBwt",
-    "https://www.linkedin.com/posts/sidmanchkanti_pulse-ultra-2-is-live-our-highest-accuracy-activity-7452395479142785024-hxq2",
-    "https://www.linkedin.com/in/vietrov",
-    "https://www.linkedin.com/pulse/from-ots-production-ready-data-pipeline-frontier-model-training-bojkf",
-    "https://www.linkedin.com/pulse/how-llm-tools-actually-read-your-website-joe-robson-v4gge",
-    "https://www.linkedin.com/posts/prvshrvo_the-first-rag-system-that-never-reads-text-activity-7473303599997984768-7Tvq",
-    "https://www.linkedin.com/posts/simon-lechevalier-5ba743198_feeding-raw-html-or-full-dom-trees-to-an-activity-7510941586269261824-jGwr"
+    "https://www.linkedin.com/posts/matthewedgar_technicalseo-technicalgeo-geo-activity-7371146624489857024-wM0O",
+    "https://www.linkedin.com/pulse/from-raw-web-text-training-ready-data-inside-nemo-sagar-shankaran-vf0xe/",
+    "https://pe.linkedin.com/pulse/mastering-model-evaluation-comprehensive-guide-accuracy-bin-liao",
+    "https://pe.linkedin.com/pulse/evaluating-logistic-regression-models-precision-recall-rashid-rgcyc",
+    "https://www.linkedin.com/pulse/how-perform-accurate-text-extractions-using-llms-jake-wang-gbhjc",
+    "https://www.linkedin.com/pulse/benchmarking-ai-text-outputs-metrics-methods-best-use-umamaheswari-cuzuc",
+    "https://www.linkedin.com/pulse/evaluation-metrics-llms-well-beyond-precision-recall-walid-negm-0sqne",
+    "https://www.linkedin.com/advice/1/what-precision-recall-how-can-you-use-them-evaluate-yhv4e"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 4,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "What Is Boilerplate Removal? Methods and Evaluation",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "No method is perfect across every page.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Rule-Based and Semantic Methods",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Text-density methods divide a page into blocks or lines and score how much natural-language text appears relative to tags or markup. Long paragraphs with punctuation often score as content. Link density helps identify navigation and recommendation lists, where much of the text is inside anchors.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Repetition is not proof of irrelevance. A product specification, safety warning, author biography, or legal condition may appear on many pages and still matter to the task. Cross-page methods should produce candidate boilerplate that is evaluated against the intended content schema, not an automatic deletion list.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Machine-learning systems classify blocks using textual, structural, visual, and neighboring features. Sequence models can use the fact that content blocks tend to occur in runs, while graph methods can connect similar blocks or layout relationships. The",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura ...",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スクレイピング時に本文だけを抽出する最高精度ツールが優秀！【日本...Webページの本文抽出 (主要コンテンツ抽出) - Notes - 64p.orgウェブページ内の階層構造を考慮した本文抽出技術ブラウザを開かない記事抽出ツール — しかもきれいに整える | Thunder...Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — スクレイピングでテキストを抽出するとルールベースでは除外できないヘッダーなどが大量に混ざってノイズになりますよね。 それをフィルタリングするツールの最高精度モデル(BoilerNet)が良い感じだったので紹介します。日本語対応版のソースコードも公開しています。 See full list on qiita.com See full list on qiita.com 日本語対応版のソースコード、モデルはこちらに置いてます。 モデルは",
+    "url": "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています[1]。 RAGやテキストマイニングの前処理として有用です。 1.…",
+    "url": "https://nititech.jp/blog/trafilatura-content-extraction/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スクレイピング時に本文だけを抽出する最高精度ツールが優秀！【日本...Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方ブラウザを開かない記事抽出ツール — しかもきれいに整える | Thunder...Trafilaturaで記事本文をAIの資料にする｜広告・コメントの除外と欠落...Defuddle — ウェブページ本文抽出ライブラリ — スクレイピングでテキストを抽出するとルールベースでは除外できないヘッダーなどが大量に混ざってノイズになりますよね。 それをフィルタリングするツールの最高精度モデル(BoilerNet)が良い感じだったので紹介します。日本語対応版のソースコードも公開しています。 See full list on qiita.com See full list on qiita.com 日本語対応版のソースコード、モデルはこちらに置いてます。 ",
+    "url": "https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura ...",
+    "url": "https://note.com/niti_technology/n/nf614a498b089",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Estimate source acquisition, rendering, storage, labeling, evaluation, and downstream indexing together.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Label blocks and boundary cases, including repeated content that remains relevant.",
+    "url": "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 5,
  "first_researched_at": "2026-11-05T22:11:28.747705+00:00"
 }

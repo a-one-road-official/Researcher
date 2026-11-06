@@ -8,8 +8,88 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-06T11:48:35.957430+00:00",
+ "researched_at": "2026-11-06T15:38:33.678197+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/20/26/34350524.pdf.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/45/29/36561675.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/47/15/40315408.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
+    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
+    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
+    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "statistics on how to interpret the results of a revision analys es for economic variable s",
@@ -126,162 +206,88 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977",
+    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "http://www.oecd.org/dataoecd/20/26/34350524.pdf.",
+    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.",
+    "quote": "be of limited use (also called “average bias”).",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf",
+    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462",
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "http://www.oecd.org/dataoecd/45/29/36561675.pdf",
+    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf",
+    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "http://www.oecd.org/dataoecd/47/15/40315408.pdf",
+    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
     "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
     "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
     "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.",
     "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "example, a user may be interested in studying revision between first published data and",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "statistical agency publishing the data. For example, if reconciliation with annual data",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3.5 In the case of growth rates, how often is the later published growth rate in the",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "data points of the time series. For example, 1994Q1 – 2007Q3 represents 55",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "% of positive revisions : it returns the number of cases revised upward as a proportion of",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "% of negative revisions: it returns the number of cases revised down ward as a proportion",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "% of zero revisions: it returns the number of cases with null revision as a proportion of",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This is an extreme case of unreliability, although it may be that the change of a small",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(for example, a given month or quarter) a revision can be defined as",
-    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.",
-    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.",
-    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This test indicates whether, for example, growth rates tend to be systematically revised upwards or downwards over the three years after they are first published.",
-    "url": "https://www.abs.gov.au/statistics/research/analysis-revisions-gross-domestic-product",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -648,88 +654,82 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
+  "実例": [
    {
-    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
+    "quote": "example, a user may be interested in studying revision between first published data and",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
+    "quote": "statistical agency publishing the data. For example, if reconciliation with annual data",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "be of limited use (also called “average bias”).",
+    "quote": "3.5 In the case of growth rates, how often is the later published growth rate in the",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
+    "quote": "data points of the time series. For example, 1994Q1 – 2007Q3 represents 55",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "quote": "% of positive revisions : it returns the number of cases revised upward as a proportion of",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
+    "quote": "% of negative revisions: it returns the number of cases revised down ward as a proportion",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
+    "quote": "% of zero revisions: it returns the number of cases with null revision as a proportion of",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
+    "quote": "This is an extreme case of unreliability, although it may be that the change of a small",
     "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "quote": "(for example, a given month or quarter) a revision can be defined as",
     "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "quote": ". However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.",
     "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "quote": "As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.",
     "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
-    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
-    "url": "https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Over the entire available time span of the household saving ratio, from Quarter 2 2017 to the latest period, the average revisions have been unbiased.",
+    "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.",
     "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This test indicates whether, for example, growth rates tend to be systematically revised upwards or downwards over the three years after they are first published.",
+    "url": "https://www.abs.gov.au/statistics/research/analysis-revisions-gross-domestic-product",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -779,12 +779,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/e_dao/n/n4a89d35ed368",
+    "url": "https://note.com/paguinu/n/n8f522394d90d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/paguinu/n/n8f522394d90d",
+    "url": "https://note.com/e_dao/n/n4a89d35ed368",
     "status": "ok",
     "method": "http"
    },
@@ -911,14 +911,14 @@
    "results": [
     "https://note.com/akiyama924/n/n80fa21555400",
     "https://katosei.jsbba.or.jp/view_html.php?aid=1208",
-    "https://note.com/e_dao/n/n4a89d35ed368",
     "https://note.com/paguinu/n/n8f522394d90d",
+    "https://note.com/e_dao/n/n4a89d35ed368",
     "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
     "https://mnakao.net/data/statistics1.pdf",
     "https://note.com/e_dao/n/nb475d41b7cc7",
     "https://www.lifescience.co.jp/yk/ronbun.pdf",
     "https://www.jacle.org/meeting-download/cle2016.pdf",
-    "https://note.com/rd_analytics_hub/n/n71a2ff63fec9"
+    "https://note.com/jitsumu_drill/n/n88eac0ba4f47"
    ]
   },
   {
@@ -933,7 +933,7 @@
     "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_06.pdf",
     "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
     "https://note.com/rd_analytics_hub/n/n71a2ff63fec9",
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1196"
+    "https://qiita.com/molecular_pool/items/7b0170cede76bec771a1"
    ]
   },
   {
@@ -947,7 +947,7 @@
     "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_03.pdf",
     "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
     "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201004nyumon.pdf",
-    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://www.soumu.go.jp/main_content/000422928.pdf",
     "https://note.com/rd_analytics_hub/n/n71a2ff63fec9"
    ]
   },
@@ -974,8 +974,8 @@
     "https://note.com/e_dao/n/n66df0213c7f2",
     "https://note.com/mao114514/n/n6c32b75f5486",
     "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
-    "https://note.com/reading_monkey/n/nad4589381f56",
     "https://note.com/uminomieruheya/n/nf38fa7d953a7",
+    "https://note.com/reading_monkey/n/nad4589381f56",
     "https://note.com/jun8888888/n/n671b79694bb7",
     "https://note.com/reading_monkey/n/ndbee20392934",
     "https://note.com/bizgram/n/n9a587c22ec50"
@@ -988,9 +988,9 @@
     "https://x.com/desireblood641/status/2081873013415506122",
     "https://x.com/gkt_phd/status/2069425239407415446",
     "https://x.com/smo_yutohisano/status/2075165578747342927",
-    "https://x.com/genkuroki/status/1754419136179130644",
     "https://x.com/genkuroki/status/1260402105841410050",
-    "https://x.com/nananairu7/status/2074096861515063569",
+    "https://x.com/genkuroki/status/1754419136179130644",
+    "https://x.com/AISTATSCH/status/2088387705675862222",
     "https://x.com/stern_bow/status/2084112861882921342"
    ]
   },
@@ -1010,8 +1010,8 @@
   {
    "query": "site:facebook.com 統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定）",
    "results": [
-    "https://www.facebook.com/JMPjpn/videos/平均の検定の標本サイズと検出力/167465312069372/",
     "https://www.facebook.com/datascience222/posts/1252313385950123/",
+    "https://www.facebook.com/JMPjpn/videos/平均の検定の標本サイズと検出力/167465312069372/",
     "https://www.facebook.com/JMPjpn/videos/平均の検定の標本サイズと検出力/3237566846255925/",
     "https://www.facebook.com/impress.corp/photos/好評につき7刷重版決定データ分析実務スキル検定-公式テキスト全試験範囲を解説模擬試験で力試しデータ分析実務スキル検定cbasプロジェクトマネージャー級pm級唯一/1136425661622454/",
     "https://www.facebook.com/toukei.kentei/posts/東京図書株式会社より統計調査士に対応したテキストの改訂版が2024年4月に刊行されます改訂版では公的統計および統計調査に関する変更を反映し公的統計に関する記述を/928510505734997/",
@@ -1029,16 +1029,16 @@
     "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
     "https://mnakao.net/data/statistics1.pdf",
     "https://note.com/paguinu/n/n8f522394d90d",
-    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
     "https://www.lifescience.co.jp/yk/ronbun.pdf",
-    "https://note.com/tasuto11/n/n274220876f4a"
+    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/pdf/2020kijun/20251119announce.pdf",
+    "https://note.com/jitsumu_drill/n/n88eac0ba4f47"
    ]
   },
   {
    "query": "統計の改訂分析の実務（平均改訂・平均絶対改訂・符号・検定） X 投稿",
    "results": [
-    "https://zenn.dev/taiyou/articles/a0324e7cd6d315",
     "https://www.lifescience.co.jp/yk/ronbun.pdf",
+    "https://zenn.dev/taiyou/articles/a0324e7cd6d315",
     "https://rnpsychology.org/lecture/papermanual_stat.pdf",
     "https://www.youtube.com/watch?v=7QmPjJwgeQA",
     "https://logics-of-blue.com/anova-foundation/",
@@ -1054,19 +1054,19 @@
    "results": [
     "https://www.linkedin.com/top-content/workplace-trends/job-market-trends-insights/how-to-interpret-jobs-report-revisions/",
     "https://www.linkedin.com/top-content/workplace-trends/job-market-trends-insights/how-benchmark-revisions-impact-job-growth-data/",
+    "https://www.linkedin.com/posts/jason-miller-32110325_the-revised-gdp-data-as-expected-showed-activity-7511052868943024128-hAX3",
     "https://www.linkedin.com/pulse/eu-gmp-annex-11-revision-what-industry-said-2025-draft-uday-shetty-tasrf",
     "https://www.linkedin.com/posts/anil-shinde-96b975b8_as-my-ib-mathematics-ai-sl-students-prepare-activity-7460214350088232960-pr4J",
-    "https://www.linkedin.com/posts/jason-miller-32110325_the-revised-gdp-data-as-expected-showed-activity-7511052868943024128-hAX3",
     "https://www.linkedin.com/posts/midhamicky_frm-part-1-the-greeks-activity-7517283763807207425-m-mj",
     "https://www.linkedin.com/pulse/aws-ai-practitioner-preparation-last-minute-sheet-hardik-joshi--cqsnc",
     "https://www.linkedin.com/posts/pooja-belwal-7078601a7_csirnet-jrf-lifesciences-activity-7471252488503877632-y3N9",
-    "https://uk.linkedin.com/in/philippa-crick-38385851",
+    "https://www.linkedin.com/pulse/eighty-years-unamended-japans-constitution-article-96-habib-al-badawi-i81nf",
     "https://www.linkedin.com/posts/rishi-raj-6776171a6_difference-between-revision-appeal-activity-7399128863534002176-fmsn"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-06T02:54:43.056411+00:00"
 }

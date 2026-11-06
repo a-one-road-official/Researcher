@@ -8,40 +8,8 @@
  ],
  "context": "書き方",
  "kind": "market",
- "researched_at": "2026-11-06T11:17:34.755764+00:00",
+ "researched_at": "2026-11-06T15:38:34.222232+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic producti;.",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "well as source access, validation, motivation, possible bias, or expertise. Source summary",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "politicization, biased reporting, or lack of objectivity in intelligence analysis.",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of collection as well as source access, validation, motivation, possible bias, or expertise. When a",
-    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "The 2024 update exists because analysts now routinely cite AI-generated outputs, rely on commercial platforms that sit between them and the original data, and work with sources that can disappear overnight. ICS 206-01 tells them how to document all of that so the reader can evaluate it, and these principles should apply wherever intelligence work happens.",
@@ -105,6 +73,38 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "objectivity, bias, politicization, or other issues in Standards application in analytic producti;.",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "well as source access, validation, motivation, possible bias, or expertise. Source summary",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "politicization, biased reporting, or lack of objectivity in intelligence analysis.",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of collection as well as source access, validation, motivation, possible bias, or expertise. When a",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -126,17 +126,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/cocowrite/n/n8481fac195e3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/umigameobasan/n/n3e92bc1539e1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/proper_toad507/n/n9eda7815bb0a",
+    "url": "https://note.com/cocowrite/n/n8481fac195e3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_create_sho/n/nc69e649a506a",
     "status": "ok",
     "method": "http"
    },
@@ -181,6 +181,11 @@
     "method": "pdf"
    },
    {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.hiroshima-u.ac.jp/wrc/howtowrite/Citation",
     "status": "ok",
     "method": "http"
@@ -196,11 +201,6 @@
     "method": "pdf"
    },
    {
-    "url": "https://rs.usaco.co.jp/column/editage/how-to-23.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://davidbioinformatics.nih.gov/content.jsp?file=citation.htm",
     "status": "ok",
     "method": "http"
@@ -208,11 +208,6 @@
    {
     "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
     "method": "http"
    },
    {
@@ -228,7 +223,7 @@
    {
     "url": "https://iso10646hk.net/jp/training/question3.jsp?trainingChapter=8",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://archive.dni.gov/files/documents/ICD/ICD-206.pdf",
@@ -236,8 +231,8 @@
     "method": "pdf"
    },
    {
-    "url": "https://policycommons.net/artifacts/18286813/rements-products/19187285/",
-    "status": "http_403",
+    "url": "https://pangearesearch.io/research/sourcing-for-osint-icd-206-01/",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -246,8 +241,8 @@
     "method": "pdf"
    },
    {
-    "url": "https://pangearesearch.io/research/sourcing-for-osint-icd-206-01/",
-    "status": "ok",
+    "url": "https://policycommons.net/artifacts/18286813/rements-products/19187285/",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -269,10 +264,10 @@
     "https://note.com/note_hanbai_lab/n/neeeb5a41ad80",
     "https://note.com/moritomokyan/n/n3302ffe0697d",
     "https://note.com/airi_study_life/n/n0ce90bdc33f2",
-    "https://note.com/cocowrite/n/n8481fac195e3",
     "https://note.com/umigameobasan/n/n3e92bc1539e1",
-    "https://note.com/proper_toad507/n/n9eda7815bb0a",
-    "https://note.com/ibooks_japan/n/n61a4eb372cc1"
+    "https://note.com/cocowrite/n/n8481fac195e3",
+    "https://note.com/ai_create_sho/n/nc69e649a506a",
+    "https://note.com/goldmist1959/n/n88276ab96488"
    ]
   },
   {
@@ -286,21 +281,22 @@
     "https://hybrid-analysis.com/sample/c2fc06662c3b01ad58f02d8702519b6f1577b1424c901fa8174a91a1eb915ac7",
     "https://www.worldoftest.com/ja/print/pdf/node/5895",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://note.com/shore9999/n/ncbe0fb8eb5ca"
+    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
+    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_206.pdf"
    ]
   },
   {
    "query": "情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け やり方",
    "results": [
-    "https://alc.chiba-u.jp/eyr/2020/03/16/03quote.html",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "https://alc.chiba-u.jp/eyr/2020/03/16/03quote.html",
     "https://www.library.osaka-u.ac.jp/doc/ISLIB_017.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.hiroshima-u.ac.jp/wrc/howtowrite/Citation",
     "https://concours.toshokan.or.jp/concours/reference",
     "https://www.chem.tsukuba.ac.jp/junji/lecture/data/reference_instruction.pdf",
-    "https://rs.usaco.co.jp/column/editage/how-to-23.html",
-    "https://isijint.net/jp/guide-to-authors/writing-style-for-references/",
-    "https://library.rikkyo.ac.jp/learning/reportguide/citation/"
+    "https://life-content.idoocloud.com/page/help_explain/ja/903.html",
+    "https://prc.nao.ac.jp/publication/NAOJnews/NN0189/OEBPS/text/index.html"
    ]
   },
   {
@@ -322,13 +318,13 @@
    "results": [
     "https://archive.dni.gov/files/documents/ICD/ICD-206.pdf",
     "https://pangearesearch.substack.com/p/show-your-work-the-intelligence-standard",
-    "https://policycommons.net/artifacts/18286813/rements-products/19187285/",
-    "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
     "https://pangearesearch.io/research/sourcing-for-osint-icd-206-01/",
+    "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "https://policycommons.net/artifacts/18286813/rements-products/19187285/",
     "https://www.hsdl.org/document/480352",
     "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_203.pdf",
-    "https://github.com/SOsintOps/Exploratores/blob/v3/docs/field-notes/analytic-standards.md",
     "https://archive.dni.gov/files/documents/ICD/ICS-206-01.pdf",
+    "https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf",
     "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_206.pdf"
    ]
   },
@@ -341,17 +337,19 @@
     "https://note.com/umigameobasan/n/n3e92bc1539e1",
     "https://note.com/goldmist1959/n/n88276ab96488",
     "https://note.com/worksflow/n/n091fa3d00856",
-    "https://note.com/cocowrite/n/n8481fac195e3",
-    "https://note.com/ai_create_sho/n/nc69e649a506a"
+    "https://note.com/cocowrite/n/n8481fac195e3"
    ]
   },
   {
    "query": "site:x.com 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け",
    "results": [
-    "https://jf.x.com/images/media-preview/2107454803261689974",
+    "https://x.com/okayamamental/status/2064838826275868943",
+    "https://jf.x.com/images/media-preview/2115719028056682706",
     "https://x.com/aooi_AI/status/2065590127624339574",
-    "https://x.com/hirokaneko226/status/2073252352744988855",
-    "https://x.com/Suji_kin_DV/status/2031392251918823772"
+    "https://x.com/NagatabiP/status/2092109081796571214",
+    "https://x.com/nxqnxp/status/2078156349788348590",
+    "https://x.com/Suji_kin_DV/status/2031392251918823772",
+    "https://x.com/nikkei_kotoba/status/778218941919272960"
    ]
   },
   {
@@ -359,9 +357,9 @@
    "results": [
     "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-sourcing-activity-7428112139405414400-PYxz",
     "https://www.linkedin.com/posts/odni_ics-206-01pdf-activity-7269818693260349440-zVb5",
-    "https://www.linkedin.com/pulse/ai-enabled-intelligence-advancing-tradecraft-through-icd-joshua-gobin-m6yze?tl=en",
     "https://www.linkedin.com/pulse/uncertainty-design-why-icd-203206-guardrails-matter-more-joshua-gobin-wywse",
-    "https://www.linkedin.com/posts/osint-foundation_osint-opensourceintelligence-intelligence-activity-7416462289769390080-zdSW",
+    "https://www.linkedin.com/pulse/ai-enabled-intelligence-advancing-tradecraft-through-icd-joshua-gobin-m6yze?tl=en",
+    "https://www.linkedin.com/posts/randall-stickley-36b0a5109_odni-ics-206-01-activity-7270083064033153024--XfY",
     "https://www.linkedin.com/posts/jessicastutzman_osint-intelligencecommunity-opensourceintelligence-activity-7428900130843602944-xlft",
     "https://jp.linkedin.com/pulse/osint-isnt-problem-undisciplined-analysis-joshua-gobin-zopbe?tl=ja"
    ]
@@ -371,10 +369,11 @@
    "results": [
     "https://www.facebook.com/jsqsh.anzen2005/",
     "https://www.facebook.com/japan.icd.org/",
-    "https://www.facebook.com/people/第21回-医療の質安全学会-学術集会/61588115708138/",
     "https://www.facebook.com/TCROSS.NEWS.JP/posts/26jcs速報-日本人患者におけるicd及びwcdの適応と予後-transition-japan-icdwcd研究transition-japan-icdwcd/1774378210478518/",
+    "https://www.facebook.com/people/第21回-医療の質安全学会-学術集会/61588115708138/",
     "https://www.facebook.com/iwamibeer/posts/缶充填の豆知識202缶206缶について最近ほぼ毎日のように問い合わせがあるので再度情報をアップしますアルミ缶には蓋の口径により202缶204缶206缶があります/795790365891631/",
     "https://www.facebook.com/TCROSS.NEWS.JP/posts/esccongress2025高リスクのmi後の患者におけるicdの効果-refine-icd試験refine-icd試験よりホルター心電図で異常が認められたm/1596895034893504/",
+    "https://www.facebook.com/100067669523711/posts/テキスト正誤表第２版-第11刷用を追加厚生労働省カリキュラム準拠要約筆記者養成テキスト正誤表第２版-第11刷用を追加しましたお手持ちのテキストの版をご確認の上ご/969071825358459/",
     "https://www.facebook.com/p/正源五金工具行-61553007007701/"
    ]
   },
@@ -384,8 +383,8 @@
     "https://catill.bitbucket.io/CM/5_1_5_1.html",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/shore9999/n/ncbe0fb8eb5ca",
     "https://www.coinex.zone/ja/academy/2882/related-articles",
     "https://www.worldoftest.com/ja/print/pdf/node/6768",
     "https://www.tmj.jp/column/column_23826/",
@@ -398,32 +397,24 @@
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://www.jreast.co.jp/th/web_accessibility/2023/01/40/2.4.4.html",
     "https://davidbioinformatics.nih.gov/content.jsp?file=citation.htm",
-    "https://www.inpit.go.jp/content/100881807.pdf",
     "https://hybrid-analysis.com/sample/ea6e09e356c4346e9fff8b145837bdc1a16367ee5f6e9104e7988ca462214fc1/5c6cf2077ca3e1325a6b4334",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://catill.bitbucket.io/CM/5_1_5_1.html",
     "https://milab.mi-6.co.jp/article/t0004",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.idc.com/jp/client/data-quotation/"
+    "https://www.idc.com/jp/client/data-quotation/",
+    "https://www.inpit.go.jp/content/100881807.pdf"
    ]
   },
   {
    "query": "ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-sourcing-activity-7428112139405414400-PYxz",
-    "https://www.linkedin.com/top-content/productivity/creating-effective-standard-operating-procedures/standardizing-expertise-in-intelligence-work/",
-    "https://it.linkedin.com/posts/mirkolapi_con-il-rilascio-delle-nuove-linee-guida-ics-activity-7271843491519811584-2_sw",
-    "https://business.linkedin.com/hire/resources/how-to-hire-guides",
-    "https://www.linkedin.com/pulse/uncertainty-design-why-icd-203206-guardrails-matter-more-joshua-gobin-wywse",
-    "https://www.linkedin.com/pulse/ai-enabled-intelligence-advancing-tradecraft-through-icd-joshua-gobin-m6yze",
-    "https://www.linkedin.com/posts/american-university-aurora_thank-you-to-dr-jessica-stutzman-for-leading-activity-7513687320701616131-xslC"
-   ]
+   "results": []
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ29頁・検索12回）",
+  "実例": "記載なし（読んだ29頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-05T15:19:45.423228+00:00"
 }

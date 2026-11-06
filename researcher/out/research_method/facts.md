@@ -2156,11 +2156,11 @@
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3365,7 +3365,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -4221,8 +4221,8 @@
   - 「well as source access, validation, motivation, possible bias, or expertise. Source summary」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「politicization, biased reporting, or lack of objectivity in intelligence analysis.」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「of collection as well as source access, validation, motivation, possible bias, or expertise. When a」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
@@ -5162,11 +5162,11 @@
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
@@ -5199,6 +5199,7 @@
   - 「そのギャップを少し埋めるため、別途、あえて採点対象にしないデモとして、実際の記事ページを 2 つ検証しました」（https://thunderbit.com/ja/blog/trafilatura-review）
   - 「公開ページでの文章検証は、実ニュース記事ではなく商品説明ブロックを使った」（https://thunderbit.com/ja/blog/trafilatura-review）
   - 「phrases rather than individual words. Per-type 95% confidence intervals are estimated by non-parametric」（https://arxiv.org/pdf/2605.21097）
+  - 「Estimate source acquisition, rendering, storage, labeling, evaluation, and downstream indexing together.」（https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal）
 - 一次情報の探し方：
   - 「有料部分では、導入から抽出、設定の比較、欄外の欠落の発見、題名と日付の照合、資料の保存、人による採用確認まで進めます」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
   - 「Python、R、Java、統計学における深い専門性は同業者からも高く評価されており、理論段階の複雑な AI アルゴリズムを本番運用レベルのアーキテクチャへと落とし込むための、実践に裏打ちされた知見を共有しています」（https://thunderbit.com/ja/blog/trafilatura-review）
@@ -5240,6 +5241,10 @@
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。」（https://note.com/niti_technology/n/nf614a498b089）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。」（https://note.com/niti_technology/n/nf614a498b089）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています [1]。」（https://nititech.jp/blog/trafilatura-content-extraction/）
+  - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura ...」（https://note.com/niti_technology/n/nf614a498b089）
+  - 「スクレイピング時に本文だけを抽出する最高精度ツールが優秀！【日本...Webページの本文抽出 (主要コンテンツ抽出) - Notes - 64p.orgウェブページ内の階層構造を考慮した本文抽出技術ブラウザを開かない記事抽出ツール — しかもきれいに整える | Thunder...Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — スクレイピングでテキストを抽出するとルールベースでは除外できないヘッダーなどが大量に混ざってノイズになりますよね。 それをフィルタリングするツールの最高精度モデル(BoilerNet)が良い感じだったので紹介します。日本語対応版のソースコードも公開しています。 See full list on qiita.com See full list on qiita.com 日本語対応版のソースコード、モデルはこちらに置いてます。 モデルは」（https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57）
+  - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています[1]。 RAGやテキストマイニングの前処理として有用です。 1.…」（https://nititech.jp/blog/trafilatura-content-extraction/）
+  - 「スクレイピング時に本文だけを抽出する最高精度ツールが優秀！【日本...Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方ブラウザを開かない記事抽出ツール — しかもきれいに整える | Thunder...Trafilaturaで記事本文をAIの資料にする｜広告・コメントの除外と欠落...Defuddle — ウェブページ本文抽出ライブラリ — スクレイピングでテキストを抽出するとルールベースでは除外できないヘッダーなどが大量に混ざってノイズになりますよね。 それをフィルタリングするツールの最高精度モデル(BoilerNet)が良い感じだったので紹介します。日本語対応版のソースコードも公開しています。 See full list on qiita.com See full list on qiita.com 日本語対応版のソースコード、モデルはこちらに置いてます。 」（https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57）
 
 ## 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）（official statistics revision analysis vintages real-time data revision triangle）
 - 文脈：統計の版
@@ -5776,8 +5781,8 @@
   - 「Centralized workflows help preserve relationships between collected artifacts and case context.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事（analytic tradecraft key assumptions check indicators alternative hypotheses blog）
 - 文脈：分析の技法
