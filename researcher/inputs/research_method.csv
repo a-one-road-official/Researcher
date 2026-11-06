@@ -128,3 +128,6 @@ OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berke
 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）,reconcile conflicting market data definitions scope period revisions evidence ledger,市場データ 食い違い 突き合わせ 定義 範囲;統計 不一致 原因 期間 定義 改訂;reconciling conflicting statistics census bls methodology differences,突き合わせ
 ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）,point in time data survivorship bias research analyst method,ポイントインタイム 生存者バイアス 検証 方法;当時の情報だけで評価 後知恵 防ぐ 調査;point-in-time backtest survivorship bias blog,検証
 AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ）,auditing AI chat output fabricated statistics verification,生成AI 回答 検証 存在しない統計 監査 note;ChatGPT 調査 ファクトチェック 手順 出典 実在;LLM hallucination citation verification workflow journalist,検証
+公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）,Berkeley Protocol digital open source investigations search bias verification steps,バークレー・プロトコル オープンソース調査 手順;デジタル証拠 検証 手順 調査報道;OSINT 検索語 バイアス 複数の検索エンジン,検証
+リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない）,real-time data vintage analysis first release versus latest vintage practice,統計 速報値 確報値 系列 混在;改定 前の値 で判断 検証 実務;real-time dataset vintages Croushore,改訂
+引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）,misgrounded citation detection RAG hallucination evaluation legal research,AI 検索 引用 根拠 ずれ 点検;生成AI 出典 実在 主張 不一致 検証;RAG ハルシネーション 評価 方法,検証

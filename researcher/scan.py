@@ -908,6 +908,17 @@ def scan(topic):
         _one = [r.get("品目", "") for r in _inp if UPW.search(" ".join(r.get(k, "") or "" for k in ("品目", "英語名", "別名"))) and not DNW.search(" ".join(r.get(k, "") or "" for k in ("品目", "英語名", "別名")))]
         md.append(f"  - 検索語の向きの片寄り（4-56）：一方の向きの語だけで探している品目 {len(_one)}件／{len(_inp)}件" + (f"（例：{_one[0][:40]}）。反対の向きの別名を足して取り直す" if _one else ""))
     except Exception: pass
+    # 2026-11-07 4-62（Stanford RegLab「Legal RAG Hallucinations」：前提の誤った問いに検索・生成は同調しやすい。Berkeley Protocol：
+    # 検索エンジンと検索語の選び方が結果を片寄らせる）。品目名が「なぜ・理由・背景・原因・ため」など答えの向きを前提に置く問いの形なら、
+    # 集まった引用は前提を支える側に寄る。前提を外した中立の言い方（「〜の推移」「〜の件数」）の別名を足して取り直す
+    try:
+        import csv as _csv3
+        PREM = re.compile(r"(なぜ|理由|背景|原因|のため|による|せい|why|because|reason)", re.I)
+        _inp3 = list(_csv3.DictReader(open(os.path.join(os.path.dirname(__file__), "inputs", topic + ".csv"), encoding="utf-8-sig")))
+        _pr = [r.get("品目", "") for r in _inp3 if PREM.search(r.get("品目", "") or "")]
+        _prn = {n: sum(1 for r in rows if r["品目"] == n) for n in _pr}
+        md.append(f"  - 前提を置いた問いの形の品目（4-62）：{len(_pr)}件／{len(_inp3)}件" + ("（" + "、".join(f"{n[:30]}＝{c}行" for n, c in list(_prn.items())[:5]) + "）。中立の言い方の別名を足し、前提に反する引用があるかを先に見る" if _pr else ""))
+    except Exception: pass
     md.append(f"  - 取得の記録の連鎖（4-55）：{_h[:12]}" + ("（前回と同じ）" if _prev == _h else f"（前回 {_prev[:12]} から変わった：足された・消えた・書き換えられた行がある）" if _prev else "（初回）"))
     # 2026-11-06 4-52（Binette ら arXiv 2210.01230：件数に比例して抜いた品目で誤りを数えたら、素朴に「誤り合計÷確かめた合計」とせず、
     # 抜かれやすさで重みを戻す（件数比例なら品目ごとの誤り率の平均）。素朴な割合は大きい品目に引っ張られる）。
@@ -1169,6 +1180,14 @@ def scan(topic):
             vc = {}
             for r in g:
                 if r.get("版"): vc[r["版"]] = vc.get(r["版"], 0) + 1
+            # 2026-11-07 4-62（Koenig・Dolmas・Piger「real-time data」：系列の中で、ある年は最新の改定値、ある年は速報と版がばらばらだと、
+            # 向きに改定の差が混ざる。年ごとに同じ版（すべて確報、またはすべてその時点の初出）でそろえてから向きを読む）
+            yv = {}
+            for r in g:
+                if r["年"] and not r["予測"] and r.get("版"): yv.setdefault(int(r["年"]), set()).add(r["版"])
+            _vs = {y: ("確報・改定" if (v & {"確報", "改定"}) else "速報") for y, v in yv.items()}
+            if len(set(_vs.values())) >= 2:
+                md.append("  - ⚠ 年ごとの版がそろわない（4-62）：" + "、".join(f"{y}年＝{k}" for y, k in sorted(_vs.items())) + "。速報の年は確報が出るまで向きの端に使わない")
             if len(vc) >= 2: md.append("  - ⚠ 版が混在：" + "、".join(f"{k}{v}件" for k, v in vc.items()) + "（同じ年は確報・改定を採り、速報は年の中央値から外した）")
             # 4-19：一次の出どころが2か所以上で中央値の±20%に収まれば、いちばん確度が高い（一次どうしの裏付け）
             pmed = statistics.median(vals)
