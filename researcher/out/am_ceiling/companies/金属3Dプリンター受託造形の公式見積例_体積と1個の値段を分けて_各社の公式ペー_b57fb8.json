@@ -1,0 +1,493 @@
+{
+ "name": "金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ）",
+ "en": "metal 3D printing service bureau official quote example volume and price per part",
+ "aliases": [
+  "金属3Dプリント 見積例 公式 造形サービス site:co.jp -比較 -求人",
+  "金属積層造形 受託 価格例 体積 公式",
+  "DMG森精機 OR ニコン OR ソディック 金属3Dプリント 受託 料金"
+ ],
+ "context": "料金・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T11:46:42.663136+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://jampt.jp/column/column_488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j3d.co.jp/blog/blog10/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://online.solize.com/page/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/tetteihikaku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make.dmm.com/print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_1189/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/service7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakudo.co.jp/product/3d_printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/print_service/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/hakudo/product/detail/2001034200/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.honda/jp/tech/serial/Hondas_RandD_Facilities_part08/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j3d.co.jp/blog/knowledge/index37/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/jp/blog/estimate-3d-printing-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/simulation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter-accuracy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hikaku-hub.com/metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hikaku-hub.com/metal-3d-printing/list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/bfull-3dprint-auto-quote-260109/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inouetimber.co.jp/blog/3d-printing-quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doho.co.jp/3d-print-business/service-print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j3d.co.jp/blog/entrustment/index19/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/print_service/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/services/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/blog/metal-3d-printing-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/capabilities/3d-printing-service/metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jcadusa.com/metal-3d-printing-cost-calculator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/how-to-get-a-quote-for-custom-3d-printed-parts-quickly-and-accurately/?srsltid=AYCX9vK5vCD0jl0Oovfynu4fjNo-ZUILduWgeNrsWlap_NgLS1A7MPhc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fathommfg.com/capabilities/3d-printing-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/stratasysdirect/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hawkridgesys.com/blog/3d-printer-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/blog/roi-for-metal-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyafs.com/blog/metal-3d-printer-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fathommfg.com/request-quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makerverse.com/resources/3d-printing/metal-powder-costs-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ） 単価 万円",
+   "results": [
+    "https://jampt.jp/column/column_488/",
+    "https://j3d.co.jp/blog/blog10/",
+    "https://online.solize.com/page/price",
+    "https://news.sharelab.jp/study/price/",
+    "https://skhonpo.com/blogs/3dprinter-practice/tetteihikaku",
+    "https://make.dmm.com/print/",
+    "https://www.industrial-3d-printer.com/basic-knowledge/price-market.html",
+    "https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vItrvXwMCNaEQn8Qm1BhTU4qhzH6GoVIB__Y1IirmYatgfKBvoz",
+    "https://www.youtube.com/watch?v=ijPSh6y2gTw",
+    "https://steelsale.jp/casestudy/3dp/a113"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ） 費用 相場",
+   "results": [
+    "https://jampt.jp/column/column_1189/",
+    "https://skhonpo.com/blogs/3dprinter-practice/service7",
+    "https://make.dmm.com/print/",
+    "https://online.solize.com/page/price",
+    "https://www.hakudo.co.jp/product/3d_printer/",
+    "https://j3d.co.jp/blog/blog10/",
+    "https://www.ricoh.co.jp/3dp/print_service/price/",
+    "https://news.sharelab.jp/study/price/",
+    "https://pr.mono.ipros.com/hakudo/product/detail/2001034200/",
+    "https://steelsale.jp/casestudy/3dp/a113"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ） 最大 受注 億円",
+   "results": [
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jampt.jp/column/column_1189/",
+    "https://www.youtube.com/watch?v=gFEV17DvB9g",
+    "https://global.honda/jp/tech/serial/Hondas_RandD_Facilities_part08/",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://make.dmm.com/print/",
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://jlc3dp.com/jp/blog/estimate-3d-printing-cost",
+    "https://jampt.jp/simulation/"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ） 量産 受注 年間",
+   "results": [
+    "https://jampt.jp/column/column_1189/",
+    "https://make.dmm.com/print/",
+    "https://online.solize.com/page/price",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://pr.mono.ipros.com/hakudo/product/detail/2001034200/",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter-accuracy/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://j3d.co.jp/blog/blog10/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jampt.jp/simulation/"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ） 売上高 受託",
+   "results": [
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://jampt.jp/column/column_488/",
+    "https://make.dmm.com/print/",
+    "https://skhonpo.com/blogs/3dprinter-practice/service7",
+    "https://news.sharelab.jp/3dp-news/others/bfull-3dprint-auto-quote-260109/",
+    "https://www.inouetimber.co.jp/blog/3d-printing-quote/",
+    "https://doho.co.jp/3d-print-business/service-print/",
+    "https://jampt.jp/simulation/"
+   ]
+  },
+  {
+   "query": "metal 3D printing service bureau official quote example volume and price per part price per part",
+   "results": [
+    "https://www.protolabs.com/services/3d-printing/",
+    "https://jlc3dp.com/blog/metal-3d-printing-cost",
+    "https://www.xometry.com/capabilities/3d-printing-service/metal/",
+    "https://www.rapiddirect.com/blog/metal-3d-printing-cost/",
+    "https://jcadusa.com/metal-3d-printing-cost-calculator/",
+    "https://additiveplus.com/how-to-get-a-quote-for-custom-3d-printed-parts-quickly-and-accurately/?srsltid=AYCX9vK5vCD0jl0Oovfynu4fjNo-ZUILduWgeNrsWlap_NgLS1A7MPhc",
+    "https://fathommfg.com/3d-printing-quotes",
+    "https://www.youtube.com/watch?v=oas32UUfSXs",
+    "https://www.acsmaterial.com/metal-3d-printing-service.html?srsltid=AYCX9vITMGU25W_wg65Uqo57mJxkhcgopT1JSRhbJwdneUw0ElQKVdz3",
+    "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/"
+   ]
+  },
+  {
+   "query": "metal 3D printing service bureau official quote example volume and price per part largest contract million",
+   "results": [
+    "https://fathommfg.com/metal-3d-printing",
+    "https://facfox.com/docs/kb/the-10-best-metal-3d-printing-services-in-2022",
+    "https://www.stratasys.com/en/stratasysdirect/",
+    "https://www.youtube.com/watch?v=oas32UUfSXs",
+    "https://jlc3dp.com/blog/metal-3d-printing-cost",
+    "https://hawkridgesys.com/blog/3d-printer-cost",
+    "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "https://www.rapiddirect.com/blog/metal-3d-printing-cost/",
+    "https://markforged.com/resources/blog/roi-for-metal-3d-printers",
+    "https://www.3deo.co/"
+   ]
+  },
+  {
+   "query": "metal 3D printing service bureau official quote example volume and price per part serial production long-term agreement value",
+   "results": [
+    "https://markforged.com/resources/blog/roi-for-metal-3d-printers",
+    "https://www.protolabs.com/services/3d-printing/",
+    "https://www.rapiddirect.com/blog/metal-3d-printing-cost/",
+    "https://www.lyafs.com/blog/metal-3d-printer-cost/",
+    "https://jcadusa.com/metal-3d-printing-cost-calculator/",
+    "https://fathommfg.com/3d-printing-quotes",
+    "https://www.makerverse.com/resources/3d-printing/metal-powder-costs-3d-printing/",
+    "https://www.xometry.com/capabilities/3d-printing-service/metal/",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://www.hyperforge3d.com/"
+   ]
+  },
+  {
+   "query": "metal 3D printing service bureau official quote example volume and price per part revenue",
+   "results": [
+    "https://www.xometry.com/capabilities/3d-printing-service/metal/",
+    "https://www.protolabs.com/resources/blog/metal-3d-printing-cost/",
+    "https://jcadusa.com/metal-3d-printing-cost-calculator/",
+    "https://www.youtube.com/watch?v=oas32UUfSXs",
+    "https://www.rapiddirect.com/blog/metal-3d-printing-cost/",
+    "https://additiveplus.com/how-to-get-a-quote-for-custom-3d-printed-parts-quickly-and-accurately/?srsltid=AYCX9vJhAI4RjrGaQUVRcJLQXcXvpz8M49l3AR9UQyqOI7cXuO2RX7CV",
+    "https://thevirtualfoundry.com/3d-printing-cost-efficiency-2/",
+    "https://fathommfg.com/3d-printing-quotes",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://zorapid.com/custom-metal-3d-printing-cost-breakdown/"
+   ]
+  },
+  {
+   "query": "site:note.com 金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ）",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://note.com/p_modellabo/n/nf6cf54bf6277",
+    "https://note.com/kensetsu_dx/n/nc426a04af3eb",
+    "https://note.com/jfe_tec/n/n390e31c22c0b",
+    "https://note.com/mocchan/n/n5466a2aa7bae",
+    "https://note.com/castem/n/n836e5c2a4a0f",
+    "https://note.com/mar810/n/n75954e5b6621",
+    "https://note.com/mysdg/n/n99ccf314f412"
+   ]
+  },
+  {
+   "query": "site:x.com 金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ）",
+   "results": [
+    "https://x.com/jampt_official",
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/jpShareLab",
+    "https://x.com/box_3d",
+    "https://x.com/MTStokyoCEC",
+    "https://x.com/castem_liq",
+    "https://x.com/box_3d/status/1642657564646334464",
+    "https://x.com/nidec_mt",
+    "https://x.com/mugenrenpou/status/1804970575548592423",
+    "https://x.com/jpShareLab/status/2010959865490161682"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ）",
+   "results": [
+    "https://jp.linkedin.com/company/%E4%B8%89%E8%8F%B1%E5%95%86%E4%BA%8B%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B9%E3%80%80%E6%9D%B1%E4%BA%AC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://jp.linkedin.com/showcase/sharelab-jp/",
+    "https://jp.linkedin.com/company/%E3%83%9B%E3%83%83%E3%83%86%E3%82%A3%E3%83%BC%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://jp.linkedin.com/pulse/3d-%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%95%E3%82%8C%E3%81%9F%E9%87%91%E5%B1%9E%E8%A3%BD%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E4%B8%8A%E4%BD%8D10%E7%A4%BE%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-bathymetry-bases-jgnoe",
+    "https://jp.linkedin.com/pulse/robotics-additive-manufacturing-automating-next-hafsa-naveed-iqbal-1eixf?tl=ja",
+    "https://jp.linkedin.com/in/seiji-miyasaka-3905a412",
+    "https://jp.linkedin.com/posts/shinnosuke-y-2ab53826a_%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%AC%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E4%BD%93%E9%A8%93%E6%8B%A0%E7%82%B9%E3%82%92%E6%8B%A1%E5%BC%B5-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E-activity-7178881741070225408-rERB",
+    "https://jp.linkedin.com/pulse/%E4%B8%96%E7%95%8C%E3%81%AE%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99-3d-%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E5%88%86%E6%9E%90%E6%88%90%E9%95%B7%E8%A6%8B%E9%80%9A%E3%81%97%E3%81%A8%E5%B0%86%E6%9D%A5%E4%BA%88%E6%B8%AC20262033-draft-drivess1-2aphe",
+    "https://jp.linkedin.com/in/lian-weng-83658a21a",
+    "https://jp.linkedin.com/in/hashimoto-hiroshi-18962375"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ）",
+   "results": [
+    "https://www.facebook.com/p/J3D-100063524918233/",
+    "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%8C%E7%9B%AE%E6%8C%87%E3%81%99%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E9%9D%A9%E6%96%B0%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AF%E3%81%84%E3%81%BE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%A8%E6%99%AE%E5%8F%8A%E3%81%AB%E5%8A%9B%E3%82%92%E6%B3%A8%E3%81%84%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E8%A3%85%E7%BD%AE%E3%81%8C%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E4%BE%A1%E5%80%A4%E3%81%A8%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%81%82%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%81%A8%E3%81%AF%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA%E3%81%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5/910409805008105/",
+    "https://www.facebook.com/metalprintj3d/",
+    "https://www.facebook.com/metalprintj3d/posts/%E6%9C%AC%E6%97%A5%E3%81%AF%E6%96%B0%E6%BD%9F%E5%B8%82%E3%81%AB%E3%81%82%E3%82%8B%E3%81%AB%E3%81%84%E3%81%8C%E3%81%9F%E7%94%A3%E6%A5%AD%E5%89%B5%E9%80%A0%E6%A9%9F%E6%A7%8B%E6%A7%98%E6%96%B0%E6%BD%9F%E7%9C%8C%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E6%A7%98%E3%81%A8%E3%81%AE%E5%85%B1%E5%82%AC%E3%81%AB%E3%81%A6%E6%9C%B1%E9%B7%BA%E3%83%A1%E3%83%83%E3%82%BB%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E8%A8%AA%E5%95%8F%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%E3%81%AE%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%81%A7%E3%81%AF%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99/2579478209219069/",
+    "https://www.facebook.com/NikonGroupjp/posts/%E7%AC%AC4%E5%9B%9E%E9%96%A2%E8%A5%BF-%E6%AC%A1%E4%B8%96%E4%BB%A33d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%B1%95%E3%81%AB%E5%87%BA%E5%B1%95105%E6%B0%B4%E3%81%8B%E3%82%89%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E5%A4%A7%E9%98%AA%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E7%AC%AC4%E5%9B%9E%E9%96%A2%E8%A5%BF-%E6%AC%A1%E4%B8%96%E4%BB%A33d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%B1%95%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%99%E3%83%8B%E3%82%B3%E3%83%B3%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%E3%81%AF%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E3%81%AA%E3%81%A9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F/1507508613044811/",
+    "https://www.facebook.com/3dp.idarts/posts/%E7%95%B0%E3%81%AA%E3%82%8B%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E3%82%92%E5%90%8C%E6%99%82%E3%81%AB%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%8A%80%E8%A1%93-%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C-3d-systems-%E3%81%A8%E5%85%B1%E5%90%8C%E3%81%A7%E9%81%8B%E5%96%B6%E3%81%99%E3%82%8B-cimp-3d%E9%9D%A9%E6%96%B0%E7%9A%84%E6%9D%90%E6%96%99%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E7%A0%94%E7%A9%B6/1088975469933147/",
+    "https://www.facebook.com/matsuuramc/videos/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AA%E3%81%AE%E3%81%AB%E9%80%A0%E5%BD%A2%E3%81%97%E3%81%9F%E3%81%BE%E3%81%BE%E3%81%A7%E3%81%93%E3%81%AE%E6%BB%91%E3%82%89%E3%81%8B%E3%81%95%E3%83%9E%E3%83%84%E3%82%A6%E3%83%A9%E7%8B%AC%E8%87%AA%E3%81%AE%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E6%9D%A1%E4%BB%B6%E3%81%A8lumex%E3%81%A0%E3%81%8B%E3%82%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%9D%E3%81%AE%E7%A7%98%E5%AF%86%E3%82%92%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E3%81%BE%E3%81%9A%E3%81%AF%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8A%E8%A9%A6%E3%81%97%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%8A%E5%95%8F/1079690937784322/",
+    "https://www.facebook.com/3dp.idarts/",
+    "https://www.facebook.com/Yokoito.AM/",
+    "https://www.facebook.com/mercari.r4d/videos/%E6%8D%A8%E3%81%A6%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F%E9%A3%9F%E3%81%B9%E7%89%A9%E3%82%84%E6%9C%8D%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%9D%90%E6%96%99%E3%81%AB%E4%BB%8A%E5%9B%9E%E3%81%AFextrabold%E3%81%95%E3%82%93%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%993d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%82%A2%E3%83%83%E3%83%97%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C-%E5%BE%AA%E7%92%B0%E5%9E%8B%E7%A4%BE%E4%BC%9A-%E3%83%A1%E3%83%AB/28421996490789853/"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ） note 社長",
+   "results": [
+    "https://jampt.jp/column/column_1189/",
+    "https://note.com/castem/n/n643bacc3c750",
+    "https://j3d.co.jp/blog/blog10/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://pr.mono.ipros.com/hakudo/product/detail/2001034200/",
+    "https://www.youtube.com/watch?v=GGZsELd_I6g",
+    "https://online.solize.com/blog/protocost",
+    "https://rightmfg.co.jp/lp/m3dp.html",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jampt.jp/simulation/"
+   ]
+  },
+  {
+   "query": "金属3Dプリンター受託造形の公式見積例（体積と1個の値段を分けて・各社の公式ページ） X 投稿",
+   "results": [
+    "https://jampt.jp/column/column_488/",
+    "https://make.dmm.com/print/",
+    "https://pr.mono.ipros.com/hakudo/product/detail/2001034200/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://online.solize.com/page/price",
+    "https://skhonpo.com/blogs/3dprinter-practice/service7",
+    "https://j3d.co.jp/blog/blog10/",
+    "https://3dprinter.co.jp/cms3d/wp-content/themes/3dprinter-wp_new/images/product/markforged/metal-x/Metal-3dprinter.pdf",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jampt.jp/simulation/"
+   ]
+  },
+  {
+   "query": "metal 3D printing service bureau official quote example volume and price per part site:linkedin.com",
+   "results": [
+    "https://ca.linkedin.com/company/agile-manufacturing-inc",
+    "https://uk.linkedin.com/company/ryse3d",
+    "https://www.linkedin.com/company/forecast3d",
+    "https://www.linkedin.com/company/i3d-mfg",
+    "https://www.linkedin.com/in/kevinalansheehy",
+    "https://www.linkedin.com/company/tronix3dprinting",
+    "https://www.linkedin.com/in/mv2woods",
+    "https://cn.linkedin.com/company/hbd-metal-3d-printer",
+    "https://ca.linkedin.com/company/proto3000-3d-printing-rapid-prototyping-3d-scanning-cad-engineering",
+    "https://www.linkedin.com/showcase/hp3dprinting/"
+   ]
+  }
+ ],
+ "missing": {
+  "1件の単価": "記載なし（読んだ45頁・検索16回）",
+  "最大案件・上限": "記載なし（読んだ45頁・検索16回）",
+  "顧客1社の年間": "記載なし（読んだ45頁・検索16回）",
+  "受託会社の売上": "記載なし（読んだ45頁・検索16回）",
+  "用途別": "記載なし（読んだ45頁・検索16回）",
+  "価格を決める要因": "記載なし（読んだ45頁・検索16回）"
+ }
+}

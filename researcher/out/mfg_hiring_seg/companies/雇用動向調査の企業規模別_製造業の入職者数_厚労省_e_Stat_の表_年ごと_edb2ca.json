@@ -1,0 +1,437 @@
+{
+ "name": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと）",
+ "en": "Employment Trend Survey manufacturing hires by enterprise size Japan e-Stat table",
+ "aliases": [
+  "雇用動向調査 企業規模別 入職者 製造業 site:e-stat.go.jp",
+  "雇用動向調査 産業 企業規模 入職率 製造業 xlsx",
+  "雇用動向調査 結果の概況 企業規模別 製造業"
+ ],
+ "context": "規模・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T11:50:33.952038+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/285/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450073&tstat=000001012468&cycle=7&tclass1=000001012469&tclass2=000001161806&stat_infid=000040490135&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20250519-laborshortage202504/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001133144&result_page=1&tclass2val=0&statdisp_id=0003376366",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&year=20240&month=0&kikan=00450&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&result_back=1&result_page=1&tclass3val=0&stat_infid=000040306001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&kikan=00450&toukei=00450073&stat_infid=000040489821",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tebiki.jp/genba/useful/manufacturing-industry-labor-shortage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00450073&tstat=000001012468&toukei_kind=7&result_page=1&statdisp_id=0003376365",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revitalizejapan.com/research/research-949/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/roudou/sokuhou/tsuki/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tclass=000001008247&cycle=0&layout=datalist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&statdisp_id=0004009540",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/dl/gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20250326_93514/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.surece.co.jp/monitor/progress/6111/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=0&toukei=00450073&tstat=000001012468&tclass1=000001012478&tclass2val=0&second2=1&statdisp_id=0003377360",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00450073",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/html/k34.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00450073&tstat=000001012468&cycle=7&year=20250&stat_infid=000040490242",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media.emuniinc.jp/2025/02/14/labor-shortage-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004009540",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/9-23-1.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） 人手不足 受注 断る",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://marugotoinc.jp/blog/seizou_rishokuritsu/",
+    "https://www.surece.co.jp/monitor/progress/6111/",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ]
+  },
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） 受注残 人手不足",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450073&tstat=000001012468&cycle=7&tclass1=000001012469&tclass2=000001161806&stat_infid=000040490135&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "https://www.tdb.co.jp/report/economic/20250519-laborshortage202504/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001133144&result_page=1&tclass2val=0&statdisp_id=0003376366",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&year=20240&month=0&kikan=00450&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&result_back=1&result_page=1&tclass3val=0&stat_infid=000040306001",
+    "https://www.meti.go.jp/report/whitepaper/mono/2024/pdf/honbun_1_2_1.pdf"
+   ]
+  },
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&kikan=00450&toukei=00450073&stat_infid=000040489821",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://tebiki.jp/genba/useful/manufacturing-industry-labor-shortage/",
+    "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/",
+    "https://skillnote.jp/knowledge/seizougyou-hitodebusoku/"
+   ]
+  },
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） 採用単価 規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450073&tstat=000001012468&cycle=7&tclass1=000001012469&tclass2=000001161806&stat_infid=000040490135&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00450073&tstat=000001012468&toukei_kind=7&result_page=1&statdisp_id=0003376365",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001133144&result_page=1&tclass2val=0&statdisp_id=0003376366",
+    "https://revitalizejapan.com/research/research-949/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html"
+   ]
+  },
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） 採用コスト 調査 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450073&tstat=000001012468&cycle=7&tclass1=000001012469&tclass2=000001161806&stat_infid=000040490135&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00450073&tstat=000001012468&toukei_kind=7&result_page=1&statdisp_id=0003376365",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001133144&result_page=1&tclass2val=0&statdisp_id=0003376366",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "https://www.stat.go.jp/data/roudou/sokuhou/tsuki/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ]
+  },
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450073&tstat=000001012468&cycle=7&tclass1=000001012469&tclass2=000001161806&stat_infid=000040490135&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.works-i.com/surveys/item/260209_midcareer.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00450073&tstat=000001012468&toukei_kind=7&result_page=1&statdisp_id=0003376365",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "https://career-research.mynavi.jp/reserch/20250326_93514/"
+   ]
+  },
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） 採用経路 割合 調査",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001133144&result_page=1&tclass2val=0&statdisp_id=0003376366",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.surece.co.jp/monitor/progress/6111/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450073&tstat=000001012468&cycle=7&tclass1=000001012469&tclass2=000001161806&stat_infid=000040490135&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&cycle=0&toukei=00450073&tstat=000001012468&tclass1=000001012478&tclass2val=0&second2=1&statdisp_id=0003377360",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00450073&tstat=000001012468&toukei_kind=7&result_page=1&statdisp_id=0003376365",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ]
+  },
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00450073&tstat=000001012468&cycle=7&year=20250&stat_infid=000040490242",
+    "https://edenred.jp/article/hr-recruiting/285/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "https://www.tdb.co.jp/report/economic/20260108-laborshortage-br2025/",
+    "https://www.meti.go.jp/report/whitepaper/mono/2025/pdf/honbun_1_2_1.pdf",
+    "https://media.emuniinc.jp/2025/02/14/labor-shortage-manufacturing/",
+    "https://www.nomura-system.co.jp/contents/%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%AF%EF%BC%9F%E7%8F%BE%E7%8A%B6%E3%83%BB%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E5%AF%BE/"
+   ]
+  },
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） 白書 採用",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450073&tstat=000001012468&cycle=7&tclass1=000001012469&tclass2=000001161806&stat_infid=000040490135&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001133144&result_page=1&tclass2val=0&statdisp_id=0003376366",
+    "https://www.surece.co.jp/monitor/progress/6111/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00450073&tstat=000001012468&toukei_kind=7&result_page=1&statdisp_id=0003376365",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ]
+  },
+  {
+   "query": "site:note.com 雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと）",
+   "results": [
+    "https://note.com/keisemi/n/naf14ab3c9062",
+    "https://note.com/ai_nigekiri/n/n52663ed5190f",
+    "https://note.com/jazzy_mole4471/n/n64cfb0ee529a",
+    "https://note.com/crisp_panda5486/n/nce1fc643137d",
+    "https://note.com/kazucallnote/n/nfd2a0d206e0d",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://note.com/ogawa_tech/n/ne996eb47b09b",
+    "https://note.com/sr_sqi/n/n5d68b23b90e0",
+    "https://note.com/ogawa_tech/n/n19db97c36eea"
+   ]
+  },
+  {
+   "query": "site:x.com 雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと）",
+   "results": [
+    "https://x.com/jilpt_PR2023/status/2023221223149424714",
+    "https://x.com/tftf2424/status/2099872179496288482",
+    "https://x.com/rodokijunkoho/status/2094343935498002518",
+    "https://x.com/OgawaSeisakusho/status/2100329360326811983",
+    "https://x.com/tftf2424/status/2114376965306413482",
+    "https://x.com/OgawaSeisakusho/status/2047421836292702546",
+    "https://x.com/OgawaSeisakusho/status/2101838401943323059"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと）",
+   "results": []
+  },
+  {
+   "query": "site:facebook.com 雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと）",
+   "results": [
+    "https://www.facebook.com/mhlw.japan/posts/令和7年上半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1159409019555823/",
+    "https://www.facebook.com/mhlw.japan/posts/令和7年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1315096163987107/",
+    "https://www.facebook.com/mhlw.japan/posts/令和6年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします回答はオン/1019527123544014/",
+    "https://www.facebook.com/mhlw.japan/posts/雇用動向調査上半期を実施しています主要産業における入職離職や未充足求人の状況などを調査していますお手元に調査票が届いている事業所でまだ回答がお済みでない場合はご/1435509178612471/",
+    "https://www.facebook.com/mhlw.japan/posts/令和6年下半期雇用動向調査にご協力ください主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします事業/984165253746868/",
+    "https://www.facebook.com/mhlw.japan/posts/令和7年下半期雇用動向調査にご協力ください主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします事業/1270702971759760/",
+    "https://www.facebook.com/mhlw.japan/posts/令和7年上半期雇用動向調査にご協力ください主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします事業/1130393482457377/"
+   ]
+  },
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450073&tstat=000001012468&cycle=7&tclass1=000001012469&tclass2=000001161806&stat_infid=000040490135&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001133144&result_page=1&tclass2val=0&statdisp_id=0003376366",
+    "https://www.fukoku-life.co.jp/about/ir/economy/upload/report_VOL221.pdf",
+    "https://note.com/ogawa_tech/n/n79684d75a109",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00450073&tstat=000001012468&toukei_kind=7&result_page=1&statdisp_id=0003376365",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ]
+  },
+  {
+   "query": "雇用動向調査の企業規模別・製造業の入職者数（厚労省・e-Stat の表・年ごと） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450073&tstat=000001012468&cycle=7&tclass1=000001012469&tclass2=000001161806&stat_infid=000040490135&tclass3val=0",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001012469&tclass2=000001161806&tclass3val=0&year=20230&month=0&result_back=1",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&kikan=00450&toukei=00450073",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=03&layout=dataset&toukei=00450073&tstat=000001012468&result_page=1&statdisp_id=0003398544",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00450073&tstat=000001012468&toukei_kind=7&result_page=1&statdisp_id=0003376365",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00450073&tstat=000001012468&tclass1=000001133144&result_page=1&tclass2val=0&statdisp_id=0003376366",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/dl/siryo.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&kikan=00450&toukei=00450073&tstat=000001012468&result_page=1&stat_infid=000031612648",
+    "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0003398539"
+   ]
+  },
+  {
+   "query": "Employment Trend Survey manufacturing hires by enterprise size Japan e-Stat table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/bureau-of-labor-statistics",
+    "https://www.linkedin.com/in/mary-potter",
+    "https://www.linkedin.com/in/melissa-cidade",
+    "https://www.linkedin.com/in/emilylwiley",
+    "https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/Work-Change-Report.pdf",
+    "https://www.linkedin.com/in/alex-ruvolo",
+    "https://www.linkedin.com/posts/christinemoorman_cmo-survey-march-2026-activity-7444738216215220224-LRtr",
+    "https://www.linkedin.com/pulse/linkedin-jobs-rise-2026-25-fastest-growing-roles-us-linkedin-news-dlb1c",
+    "https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions-lodestone/body/pdf/global_talent_trends_2022.pdf",
+    "https://www.linkedin.com/in/kenzie-severson-21886a106"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ38頁・検索16回）",
+  "セグメント定義": "記載なし（読んだ38頁・検索16回）",
+  "採用単価": "記載なし（読んだ38頁・検索16回）",
+  "年間採用費": "記載なし（読んだ38頁・検索16回）",
+  "採用経路": "記載なし（読んだ38頁・検索16回）",
+  "充足・欠員": "記載なし（読んだ38頁・検索16回）",
+  "調査主体・時期": "記載なし（読んだ38頁・検索16回）"
+ }
+}

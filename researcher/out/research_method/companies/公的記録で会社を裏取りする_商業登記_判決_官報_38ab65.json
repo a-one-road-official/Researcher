@@ -8,9 +8,15 @@
  ],
  "context": "一次の探し方",
  "kind": "market",
- "researched_at": "2026-11-06T07:44:44.643553+00:00",
+ "researched_at": "2026-11-06T11:56:42.756734+00:00",
  "evidence": {
-  "突き合わせ・推定": [
+  "手順・やり方": [
+   {
+    "quote": "公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
    {
     "quote": "登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
@@ -18,43 +24,37 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "危機管理と情報検証の実務で、情報の真偽を判定する作業に長く関わってきた",
+    "quote": "その作業の中で、商業登記や裁判記録の取り寄せは定型業務だった",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "その経験から断言できるのは、ネット上に流通する企業情報の多くは、調査会社に頼まなくても、公的記録を読めば一般読者が自分で裏取りできるということだ",
+    "quote": "本記事では、誰でもアクセスできる主要な公的記録の使い方を、料金や画面遷移のレベルまで具体的に整理し、最後に公的記録では分からない領域についても触れておく",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "商業登記・裁判記録・官報がその代表で、ネット上の主張を一次情報で裏取りする際の中核になる",
+    "quote": "商業登記簿は、法人の基本情報——商号、本店所在地、目的、資本金、公告方法、役員などを、法令に基づいて記録した公的な記録だ",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ただし、企業の裏取りで実際に使う記録の多くは、いちいち情報公開請求を出さなくても、法定の公示制度として最初から閲覧可能になっている",
+    "quote": "読者向けには、上から順に①会社名、②本店、③事業目的、④公告方法、⑤株式と資本金の基本設計、⑥役員履歴、という順番で読むと迷わない",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "役員の就任日・退任日と本店所在地の履歴を時系列で追うことが、登記簿を企業情報の裏取りに使う基本になる",
+    "quote": "2026年5月時点の登記情報提供サービスは、利用方法が2系統に整理されている",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "なお、「履歴事項全部証明書」は現在事項に加えて過去の変更履歴も追えるので、企業の裏取りには「現在事項証明書」よりこちらを取り寄せた方がよい",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「本店所在地＝営業実態の所在地」と短絡しないことが、裏取り記事では重要だ",
+    "quote": "いずれの利用方法でも、EMV 3-Dセキュア登録済みのクレジットカードが必要だ",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -66,13 +66,13 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として",
+    "quote": "いずれも、第三者が同じ手順で登記を取れば再現できる検証だ",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "いずれも、第三者が同じ手順で登記を取れば再現できる検証だ",
+    "quote": "公的記録を使って企業の実態を確認する具体的な手順は、私の著書",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -84,74 +84,62 @@
     "first_seen": "2026-11-05"
    },
    {
+    "quote": "判決文の具体的な読み解き例として、「反社」「反社会的勢力」のようなレッテル型の表現について最高裁が真実相当性の基準を示した、最判平成9年9月9日（夕刊フジ・ロス疑惑事件）の活用例を、別記事",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「『反社』表現の最高裁判例と4階層フレーム」",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
     "quote": "判決理由のどこに着目すれば、現代のネット告発の検証に橋を架けられるかを、フレームごとに示している",
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "公的記録は強力な裏取り手段だが、設計上の限界がある",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的記録を使えば、ネット上に流通している企業情報の多くは、第三者が独立に裏取りできる",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Teikoku Databank (tdb.co.jp) or Tokyo Shoko Research (tsrdata.co.jp). Order a company report — ¥3,000–30,000 depending on depth. Contains estimated financials, employee count, credit score, and in many cases partial shareholder data collected through banking relationships. Japanese only.",
+    "quote": "Explore the proposed methodology for evaluating AI company answers.",
     "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Where GK accounts are unavailable, Zephira appends revenue estimates, employee bands, and credit signals from bureau partnerships.",
+    "quote": "The Ministry of Justice revised registry document fees in April 2025. The online Touki information service (砯記情報提供サービス) is now approximately ¥330 per company for online access — a non-certified view. Certified extracts (砯記事项諝明書) remain ¥480–600 depending on the method of application. These are among the lowest document fees of any G7 registry.",
     "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "All Japanese-language registry output is normalised and delivered in English. GK financial gaps are supplemented with bureau-sourced estimates. Available via REST API or bulk delivery via S3 or SFTP.",
+    "quote": "Japan does not have a public beneficial ownership register. This is one of the most significant gaps in Japan’s AML/CFT framework and was explicitly criticised in FATF’s",
     "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この「法律が定めた範囲」の内側と外側の境界を意識することが、登記を情報検証に使う際の出発点になる",
-    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "quote": "in April 2024. Reforms include strengthening beneficial ownership verification requirements, improving the corporate transparency framework under the Commercial Registration Act, and working toward meeting updated FATF Recommendation 24 standards ahead of the fifth round mutual evaluation. A central publicly searchable UBO register is not yet established and no firm timeline has been announced.",
+    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "商業登記を情報検証に使うとき、この「制度の射程の外側」を理解していないと、書かれていない情報を「存在しない」と誤読してしまう",
-    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "quote": "Japan’s Insolvency Framework",
+    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "裁判での証拠、行政手続、契約の前提確認、報道の裏取りなど、幅広い場面で信頼できる情報源として使われている",
-    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "quote": "Branch KYB — the key step most teams miss",
+    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "両者は目的も記載内容も異なるので、情報検証の際は目的に応じて使い分けます",
-    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "登記情報を情報検証の一次資料として使うときの実務姿勢は、「登記でわかることを最大限に活用しつつ、わからないことは別の情報源で埋める」というシンプルな原則に集約できる",
-    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ネット上の風評や告発記事を、登記簿や公的記録で裏取りして検証しています",
-    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "quote": "Commits to strengthening beneficial ownership framework ahead of FATF fifth round evaluation. No firm timeline for public UBO register.",
+    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -386,140 +374,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "手順・やり方": [
-   {
-    "quote": "公的記録で企業情報を確認する方法 — 商業登記・裁判記録・官報の読み方",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その作業の中で、商業登記や裁判記録の取り寄せは定型業務だった",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本記事では、誰でもアクセスできる主要な公的記録の使い方を、料金や画面遷移のレベルまで具体的に整理し、最後に公的記録では分からない領域についても触れておく",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "商業登記簿は、法人の基本情報——商号、本店所在地、目的、資本金、公告方法、役員などを、法令に基づいて記録した公的な記録だ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "読者向けには、上から順に①会社名、②本店、③事業目的、④公告方法、⑤株式と資本金の基本設計、⑥役員履歴、という順番で読むと迷わない",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2026年5月時点の登記情報提供サービスは、利用方法が2系統に整理されている",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "いずれの利用方法でも、EMV 3-Dセキュア登録済みのクレジットカードが必要だ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "いずれも、第三者が同じ手順で登記を取れば再現できる検証だ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公的記録を使って企業の実態を確認する具体的な手順は、私の著書",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業の裏取りで実務上よく使うのは、まず民事・刑事・行政という事件の性質を頭で分けたうえで、画面上は統合検索または行政事件タブを使い分ける、というやり方だ",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "判決文の具体的な読み解き例として、「反社」「反社会的勢力」のようなレッテル型の表現について最高裁が真実相当性の基準を示した、最判平成9年9月9日（夕刊フジ・ロス疑惑事件）の活用例を、別記事",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「『反社』表現の最高裁判例と4階層フレーム」",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "判決理由のどこに着目すれば、現代のネット告発の検証に橋を架けられるかを、フレームごとに示している",
-    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Explore the proposed methodology for evaluating AI company answers.",
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The Ministry of Justice revised registry document fees in April 2025. The online Touki information service (砯記情報提供サービス) is now approximately ¥330 per company for online access — a non-certified view. Certified extracts (砯記事项諝明書) remain ¥480–600 depending on the method of application. These are among the lowest document fees of any G7 registry.",
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Japan does not have a public beneficial ownership register. This is one of the most significant gaps in Japan’s AML/CFT framework and was explicitly criticised in FATF’s",
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "in April 2024. Reforms include strengthening beneficial ownership verification requirements, improving the corporate transparency framework under the Commercial Registration Act, and working toward meeting updated FATF Recommendation 24 standards ahead of the fifth round mutual evaluation. A central publicly searchable UBO register is not yet established and no firm timeline has been announced.",
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Japan’s Insolvency Framework",
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Branch KYB — the key step most teams miss",
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Commits to strengthening beneficial ownership framework ahead of FATF fifth round evaluation. No firm timeline for public UBO register.",
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として",
@@ -564,6 +418,152 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "登記簿・判決検索・官報といった公的記録を使って、ネット上の企業情報を自分で裏取りする方法を、手順と限界の両面から整理しました",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "危機管理と情報検証の実務で、情報の真偽を判定する作業に長く関わってきた",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "その経験から断言できるのは、ネット上に流通する企業情報の多くは、調査会社に頼まなくても、公的記録を読めば一般読者が自分で裏取りできるということだ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "商業登記・裁判記録・官報がその代表で、ネット上の主張を一次情報で裏取りする際の中核になる",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、企業の裏取りで実際に使う記録の多くは、いちいち情報公開請求を出さなくても、法定の公示制度として最初から閲覧可能になっている",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "役員の就任日・退任日と本店所在地の履歴を時系列で追うことが、登記簿を企業情報の裏取りに使う基本になる",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、「履歴事項全部証明書」は現在事項に加えて過去の変更履歴も追えるので、企業の裏取りには「現在事項証明書」よりこちらを取り寄せた方がよい",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「本店所在地＝営業実態の所在地」と短絡しないことが、裏取り記事では重要だ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際にこの方法で買取大吉と株式会社エンパワーの2社の商業登記を取り寄せ、両社の関係を独立検証した事例として",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同じ手法で、アクセスジャーナルが報じた株式会社エンパワーをめぐる9つの個別主張を項目別に登記と照合した事例として",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "いずれも、第三者が同じ手順で登記を取れば再現できる検証だ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業の裏取りで実務上よく使うのは、まず民事・刑事・行政という事件の性質を頭で分けたうえで、画面上は統合検索または行政事件タブを使い分ける、というやり方だ",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "判決理由のどこに着目すれば、現代のネット告発の検証に橋を架けられるかを、フレームごとに示している",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的記録は強力な裏取り手段だが、設計上の限界がある",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公的記録を使えば、ネット上に流通している企業情報の多くは、第三者が独立に裏取りできる",
+    "url": "https://shiraberu-note.com/public-records-corporate-verification/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Teikoku Databank (tdb.co.jp) or Tokyo Shoko Research (tsrdata.co.jp). Order a company report — ¥3,000–30,000 depending on depth. Contains estimated financials, employee count, credit score, and in many cases partial shareholder data collected through banking relationships. Japanese only.",
+    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Where GK accounts are unavailable, Zephira appends revenue estimates, employee bands, and credit signals from bureau partnerships.",
+    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "All Japanese-language registry output is normalised and delivered in English. GK financial gaps are supplemented with bureau-sourced estimates. Available via REST API or bulk delivery via S3 or SFTP.",
+    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この「法律が定めた範囲」の内側と外側の境界を意識することが、登記を情報検証に使う際の出発点になる",
+    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "商業登記を情報検証に使うとき、この「制度の射程の外側」を理解していないと、書かれていない情報を「存在しない」と誤読してしまう",
+    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "裁判での証拠、行政手続、契約の前提確認、報道の裏取りなど、幅広い場面で信頼できる情報源として使われている",
+    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "両者は目的も記載内容も異なるので、情報検証の際は目的に応じて使い分けます",
+    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "登記情報を情報検証の一次資料として使うときの実務姿勢は、「登記でわかることを最大限に活用しつつ、わからないことは別の情報源で埋める」というシンプルな原則に集約できる",
+    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ネット上の風評や告発記事を、登記簿や公的記録で裏取りして検証しています",
+    "url": "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "検索を使うときの最大の注意点は、収録範囲だ",
@@ -601,32 +601,7 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/kumaro/n/n3efed43289e5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hourei_ch/n/nbfae3e5dc976",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hourei_ch/n/ne326f7a8adfb",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/jack4manastalk/n/ncabf83a88dd4",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/pr_fuku/n/ne4f7d734d857",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/pr_fuku/n/n5dc4bdd34f28",
+    "url": "https://note.com/jackfrost3/n/n9a3da2945e6f",
     "status": "ok",
     "method": "http"
    },
@@ -636,9 +611,24 @@
     "method": "http"
    },
    {
-    "url": "https://www.law.ryukoku.ac.jp/gakkai/data/hougaku/hougaku57_4.pdf",
+    "url": "https://note.com/long_quoll6738/n/n7e227185e06b",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ngraph/n/n462857b673fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kumaro/n/n3efed43289e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/real_ram9758/n/n015e975a7128",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://shiraberu-note.com/public-records-corporate-verification/",
@@ -661,77 +651,57 @@
     "method": "http"
    },
    {
-    "url": "https://www.tokyo-kansho.co.jp/koukoku/flow",
+    "url": "https://tenra.jp/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kanpo-ad.com/10/online-touki.html",
+    "url": "https://kanpou.ai/guide",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zeroichicfo.com/public_notice",
+    "url": "https://kaisha-hajimekata.com/guide/touki-tohon-torikata",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cent-legal.com/blog/colum_02/218/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://blog.ishimoto-legal.com/tips/online-official-gazette-for-registration/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://faq.corporate.ai-con.lawyer/hc/touki/ja/articles/d00bcfd0d792986f07d84a764a007377-%E7%99%BB%E8%A8%98%E7%94%B3%E8%AB%8B%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6%E5%AE%98%E5%A0%B1%E3%82%92%E6%B3%95%E5%8B%99%E5%B1%80%E3%81%AB%E6%8F%90%E5%87%BA%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://sumaho-study.com/157_1_9/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/H25FYshogaikokuchosa.pdf",
+    "url": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00224504-20181228-0077.pdf?file_id=142748",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.moj.go.jp/content/000119005.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.city.kawasaki.jp/170/cmsfiles/contents/0000026/26416/jouhoukoukaihb.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "http://www.esg-hp.com/",
-    "status": "network_error:ConnectTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mof.go.jp/policy/international_policy/amlcftcpf/20221228.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://regbase.jp/en/japanese-company-registry",
+    "url": "https://www.courts.go.jp/hanrei/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
+    "url": "https://www.asahi.com/articles/ASQCB5H52QCBUTIL00G.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.moj.go.jp/EN/MINJI/denshininshou.html",
+    "url": "https://koukai-hogo-db.soumu.go.jp/judge",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regbase.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin-bangou.nta.go.jp/en/index.html",
     "status": "ok",
     "method": "http"
    },
@@ -741,12 +711,22 @@
     "method": "http"
    },
    {
-    "url": "https://vlolawfirm.com/insights/japan-company-registry-extract",
+    "url": "https://regbase.jp/en/japanese-company-registry",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "url": "https://bizsearch.loreatec.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpdd.ai/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.in-japanese.com/corpgo/guides",
     "status": "ok",
     "method": "http"
    }
@@ -756,27 +736,21 @@
   {
    "query": "公的記録で会社を裏取りする（商業登記・判決・官報） site:note.com",
    "results": [
+    "https://note.com/jackfrost3/n/n9a3da2945e6f",
+    "https://note.com/itojukusyoshi/n/n2290d24d0baa",
+    "https://note.com/long_quoll6738/n/n7e227185e06b",
+    "https://note.com/ngraph/n/n462857b673fa",
     "https://note.com/kumaro/n/n3efed43289e5",
-    "https://note.com/hourei_ch/n/nbfae3e5dc976",
-    "https://note.com/hourei_ch/n/ne326f7a8adfb",
-    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
-    "https://note.com/pr_fuku/n/ne4f7d734d857",
-    "https://note.com/pr_fuku/n/n5dc4bdd34f28",
-    "https://note.com/pr_fuku/n/nf0e56e559e2d",
-    "https://note.com/pr_fuku/n/n803aebd42545",
-    "https://note.com/rosy_puma1215/n/n63c1e215dc99",
-    "https://note.com/jackfrost3/n/n9a3da2945e6f"
+    "https://note.com/real_ram9758/n/n015e975a7128",
+    "https://note.com/s_o_0517/n/n3b0359c33d8a"
    ]
   },
   {
    "query": "公的記録で会社を裏取りする（商業登記・判決・官報） note",
    "results": [
-    "https://note.com/kumaro/n/n3efed43289e5",
-    "https://note.com/itojukusyoshi/n/n2290d24d0baa",
-    "https://note.com/hourei_ch/n/nbfae3e5dc976",
-    "https://www.law.ryukoku.ac.jp/gakkai/data/hougaku/hougaku57_4.pdf",
     "https://shiraberu-note.com/public-records-corporate-verification/",
     "https://shiraberu-note.com/corporate-realestate-registry-scope/",
+    "https://note.com/kumaro/n/n3efed43289e5",
     "https://shiraberu-note.com/kanpo-reading-guide/",
     "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
     "https://tenra.jp/",
@@ -787,84 +761,72 @@
    "query": "公的記録で会社を裏取りする（商業登記・判決・官報） やり方",
    "results": [
     "https://shiraberu-note.com/public-records-corporate-verification/",
-    "https://www.tokyo-kansho.co.jp/koukoku/flow",
-    "https://kanpo-ad.com/10/online-touki.html",
-    "https://zeroichicfo.com/public_notice",
-    "https://cent-legal.com/blog/colum_02/218/",
-    "https://blog.ishimoto-legal.com/tips/online-official-gazette-for-registration/",
-    "https://faq.corporate.ai-con.lawyer/hc/touki/ja/articles/d00bcfd0d792986f07d84a764a007377-%E7%99%BB%E8%A8%98%E7%94%B3%E8%AB%8B%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6%E5%AE%98%E5%A0%B1%E3%82%92%E6%B3%95%E5%8B%99%E5%B1%80%E3%81%AB%E6%8F%90%E5%87%BA%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95",
-    "https://www.kanpo.go.jp/guidance.html",
-    "http://o-shihousyoshi-osaka.com/blog/%E5%95%86%E6%A5%AD%E7%99%BB%E8%A8%98%E7%94%B3%E8%AB%8B%E3%81%A7%E3%81%AE%E5%AE%98%E5%A0%B1%E5%85%AC%E5%91%8A%E3%81%AE%E5%8E%9F%E6%9C%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
-    "https://kigyo-research-compass.com/corporate-registry-reading-guide/"
+    "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
+    "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
+    "https://kanpou.ai/guide",
+    "https://tenra.jp/",
+    "https://note.com/kumaro/n/n3efed43289e5",
+    "https://kaisha-hajimekata.com/guide/touki-tohon-torikata"
    ]
   },
   {
    "query": "公的記録で会社を裏取りする（商業登記・判決・官報） 事例",
    "results": [
-    "https://sumaho-study.com/157_1_9/",
-    "https://note.com/kumaro/n/n3efed43289e5",
-    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/H25FYshogaikokuchosa.pdf",
-    "https://www.moj.go.jp/content/000119005.pdf",
-    "https://www.city.kawasaki.jp/170/cmsfiles/contents/0000026/26416/jouhoukoukaihb.pdf",
-    "http://www.esg-hp.com/",
-    "https://www.mof.go.jp/policy/international_policy/amlcftcpf/20221228.pdf",
-    "https://www.moj.go.jp/content/001321607.pdf",
     "https://shiraberu-note.com/public-records-corporate-verification/",
-    "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00224504-20181228-0077.pdf?file_id=142748"
+    "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00224504-20181228-0077.pdf?file_id=142748",
+    "https://www.courts.go.jp/hanrei/",
+    "https://www.asahi.com/articles/ASQCB5H52QCBUTIL00G.html",
+    "https://koukai-hogo-db.soumu.go.jp/judge",
+    "https://www.kanpo.go.jp/",
+    "https://regbase.jp/"
    ]
   },
   {
    "query": "public records corporate verification Japan registry court kanpo",
    "results": [
-    "https://regbase.jp/en/japanese-company-registry",
-    "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "https://www.moj.go.jp/EN/MINJI/denshininshou.html",
-    "https://regbase.jp/en",
-    "https://vlolawfirm.com/insights/japan-company-registry-extract",
     "https://www.houjin-bangou.nta.go.jp/en/index.html",
-    "https://www.j-screen.jp/database-compliance-public-records/",
-    "https://zavia.ai/how-to-verify-a-japanese-company-for-free-step-by-step-guide/",
-    "https://www.businessdataguide.com/blog/jurisdictions/japan-company-search-guide",
-    "https://regbase.jp/en/guides"
+    "https://regbase.jp/en",
+    "https://regbase.jp/en/japanese-company-registry",
+    "https://bizsearch.loreatec.jp/",
+    "https://jpdd.ai/en",
+    "https://www.in-japanese.com/corpgo/guides",
+    "https://japancompanycheck.com/guides/how-to-verify-a-japanese-company"
    ]
   },
   {
    "query": "site:note.com 公的記録で会社を裏取りする（商業登記・判決・官報）",
    "results": [
-    "https://note.com/kumaro/n/n3efed43289e5",
-    "https://note.com/hourei_ch/n/nbfae3e5dc976",
-    "https://note.com/hourei_ch/n/ne326f7a8adfb",
-    "https://note.com/jack4manastalk/n/ncabf83a88dd4",
-    "https://note.com/pr_fuku/n/ne4f7d734d857",
-    "https://note.com/pr_fuku/n/nf0e56e559e2d",
-    "https://note.com/dakudhigura/n/nc01aeb72a6ad",
-    "https://note.com/dakudhigura/n/n55af22458dd3",
-    "https://note.com/dakudhigura/n/n54b04dfbbe50",
-    "https://note.com/jackfrost3/n/n9a3da2945e6f"
+    "https://note.com/jackfrost3/n/n9a3da2945e6f",
+    "https://note.com/washow/n/nabefd51e4ea4",
+    "https://note.com/itojukusyoshi/n/n2290d24d0baa",
+    "https://note.com/long_quoll6738/n/n7e227185e06b",
+    "https://note.com/real_ram9758/n/n015e975a7128",
+    "https://note.com/ngraph/n/n462857b673fa",
+    "https://note.com/kumaro/n/n3efed43289e5"
    ]
   },
   {
    "query": "site:x.com 公的記録で会社を裏取りする（商業登記・判決・官報）",
    "results": [
     "https://x.com/hiroyukihimeno/status/2093373761823338748",
-    "https://x.com/uwaaaa/status/1107919918974951424",
     "https://x.com/grok/status/2030241414596956657",
     "https://x.com/hiroaki_kosaki/status/1950311878250606870",
-    "https://x.com/j__g0405/status/2062208255607341267",
+    "https://x.com/okaguchik/status/2043899228691542121",
     "https://x.com/kanpo_blog",
-    "https://x.com/hojotomohisa4/status/2113239674491932773"
+    "https://x.com/j__g0405/status/2062208255607341267",
+    "https://x.com/n_ochiishi/status/2075362305903329554"
    ]
   },
   {
    "query": "site:linkedin.com 公的記録で会社を裏取りする（商業登記・判決・官報）",
    "results": [
+    "https://px.ads.linkedin.com/collect/?pid=8434833&fmt=gif",
     "https://tw.linkedin.com/pulse/工商登記必知-稅籍登記商業登記公司登記營利事業登記證我到底該辦哪一個-彥竹-林-vds5f",
     "https://jp.linkedin.com/posts/ゆう子-天沢-b1a13826b_公益通報者への報復訴訟5120万円損害請求法的制限を求める署名にご協力をお-activity-7388667440538247168-GMPY",
     "https://www.linkedin.com/posts/ampersand-tax_企業の公的情報登記で一括変更年500万件手続き省略-日本経済新聞-activity-7164570892830797824-qf-g",
     "https://www.linkedin.com/posts/旭-井村-97b9ba2a2_pgm子会社への課税処分取り消し東京地裁判決-日本経済新聞-activity-7251588623190433793-wYpf",
     "https://jp.linkedin.com/pulse/understanding-role-public-records-governance-chris-chiancone-tuwic?tl=ja",
-    "https://cn.linkedin.com/posts/clonn_google-這次踩到了一個動搖根本的商業-bug慕尼黑法院的一紙判決直接擊穿了搜尋引擎過去二十年最核心的印鈔邏輯-activity-7473865287214256131-asQk",
-    "https://jp.linkedin.com/pulse/拡大先願による新規性喪失の判断基準と趣旨-知的財産及び商業裁判所110年度民專訴字第32号判決-tsai-lee-chen"
+    "https://cn.linkedin.com/posts/clonn_google-這次踩到了一個動搖根本的商業-bug慕尼黑法院的一紙判決直接擊穿了搜尋引擎過去二十年最核心的印鈔邏輯-activity-7473865287214256131-asQk"
    ]
   },
   {
@@ -882,26 +844,21 @@
   {
    "query": "公的記録で会社を裏取りする（商業登記・判決・官報） note 社長",
    "results": [
-    "https://note.com/kumaro/n/n3efed43289e5",
-    "https://note.com/itojukusyoshi/n/n2290d24d0baa",
-    "https://note.com/chosakuken/n/n90d5e860b811",
     "https://shiraberu-note.com/public-records-corporate-verification/",
-    "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
+    "https://shiraberu-note.com/corporate-realestate-registry-scope/",
     "https://tenra.jp/",
     "https://shiraberu-note.com/fact-check-procedure/",
-    "https://www.asahi.com/articles/ASQCB5H52QCBUTIL00G.html",
     "https://kanpou.ai/guide",
-    "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/"
+    "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
+    "https://www.asahi.com/articles/ASQCB5H52QCBUTIL00G.html"
    ]
   },
   {
    "query": "公的記録で会社を裏取りする（商業登記・判決・官報） X 投稿",
    "results": [
-    "https://note.com/kumaro/n/n3efed43289e5",
-    "https://note.com/sakurafina/n/n9e1ea9f84269",
-    "https://www.ppc.go.jp/files/pdf/201803_shogaikoku.pdf",
     "https://shiraberu-note.com/public-records-corporate-verification/",
     "https://tenra.jp/",
+    "https://note.com/kumaro/n/n3efed43289e5",
     "https://kigyo-research-compass.com/public-data-tool-comprehensive-guide/",
     "https://kanpou.ai/guide",
     "https://regbase.jp/about",
@@ -911,30 +868,18 @@
   {
    "query": "public records corporate verification Japan registry court kanpo site:linkedin.com",
    "results": [
-    "https://jp.linkedin.com/in/komatani",
-    "https://www.linkedin.com/in/davidgreenstein",
-    "https://www.linkedin.com/in/bethwelch22",
-    "https://in.linkedin.com/in/ksraghavendra",
-    "https://in.linkedin.com/in/hemanthputtaiah",
-    "https://ph.linkedin.com/in/masakimitsuhashi",
     "https://www.linkedin.com/company/registry-support-japan",
-    "https://www.linkedin.com/posts/japan-tax-public-procurement-helpdesk-jtpp_japan-public-procurement-activity-7313021720498503680-h6CX",
+    "https://www.linkedin.com/pulse/paper-trail-protects-you-japans-land-registry-explained-翔貴-江本-pmb5c",
     "https://sg.linkedin.com/company/asiaverify",
-    "https://www.linkedin.com/posts/mattjones007_asian-kyb-requires-live-registry-data-not-activity-7483233932646322176-kvOp"
+    "https://my.linkedin.com/products/shufti-pro-kyb-corporate-verification",
+    "https://in.linkedin.com/in/ayush-shriva",
+    "https://co.linkedin.com/company/kanpo",
+    "https://sg.linkedin.com/company/jcai-ltd"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "一次情報の探し方": [
-   {
-    "quote": "Missouri LLCs file once and never again: no annual report, no recurring fee. What that means for the Secretary of State search, and why some services still sell a filing that doesn't exist.",
-    "url": "https://zephira.ai/japan-company-registry-the-complete-guide-to-kk-gk-and-corporate-number/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ]
- },
- "runs": 11,
+ "new_this_run": {},
+ "runs": 12,
  "first_researched_at": "2026-11-05T06:04:15.032851+00:00"
 }

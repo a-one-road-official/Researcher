@@ -1,0 +1,325 @@
+{
+ "name": "中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構）",
+ "en": "SMRJ SME business conditions survey report PDF management problems table manufacturing quarterly",
+ "aliases": [
+  "site:smrj.go.jp 中小企業景況調査 報告書 filetype:pdf 経営上の問題点",
+  "中小企業景況調査 製造業 経営上の問題点 第1位 求人難 PDF",
+  "中小企業景況調査 付表 経営上の問題点 時系列"
+ ],
+ "context": "原表・一次",
+ "kind": "market",
+ "researched_at": "2026-11-06T11:47:19.254554+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/sangyo-seisaku/keikyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/a/?c=168820&r=9&f=d168820-9-756fc0cda95b4f1dd132fe491e8bffb1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/smseach2026_10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/report/smrjsurvey/tsdlje0000001alv-att/174th_shiryo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou5-2-26101502.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/tyousa_sihanki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/press/2026/qsktgp0000000pvv-att/20260630_press01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index_gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuokai.or.jp/index.php/13574/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk.tsukuba.ac.jp/~harada/1153.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tobishima-sci.com/image/keieihattatsu/doukoutyousa/keikyoutyousa2025.1-3_4-6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yasufuru.jp/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/uploaded/attachment/611793.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.isenp.co.jp/2026/07/02/149591/%E4%B8%AD%E5%B0%8F%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%81%EF%BC%94%E6%9C%9F%E9%80%A3%E7%B6%9A%E4%BD%8E%E4%B8%8B%E3%80%80%EF%BC%94%E2%80%95%EF%BC%96%E6%9C%88%E6%9C%9F%E3%80%81%E4%B8%AD%E5%B0%8F%E6%A9%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chushin.co.jp/cms_source/files/20260929260.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構）",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://www.pref.aichi.jp/soshiki/sangyo-seisaku/keikyo.html",
+    "https://prtimes.jp/a/?c=168820&r=9&f=d168820-9-756fc0cda95b4f1dd132fe491e8bffb1.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "https://www.smrj.go.jp/press/2026/qsktgp0000000pvv-att/20260630_press01.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/"
+   ]
+  },
+  {
+   "query": "中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構） 調査 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.pref.aichi.jp/soshiki/sangyo-seisaku/keikyo.html",
+    "https://www.jfc.go.jp/n/findings/pdf/smseach2026_10.pdf",
+    "https://prtimes.jp/a/?c=168820&r=9&f=d168820-9-756fc0cda95b4f1dd132fe491e8bffb1.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.shokochukin.co.jp/report/data/",
+    "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "https://www.smrj.go.jp/research_case/"
+   ]
+  },
+  {
+   "query": "中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構） 厚生労働省",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou5-2-26101502.pdf",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.pref.aichi.jp/soshiki/sangyo-seisaku/keikyo.html",
+    "https://www.jfc.go.jp/n/findings/tyuusyou_topics.html",
+    "https://prtimes.jp/a/?c=168820&r=9&f=d168820-9-756fc0cda95b4f1dd132fe491e8bffb1.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094"
+   ]
+  },
+  {
+   "query": "中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構） 規模別 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.jfc.go.jp/n/findings/tyousa_sihanki.html",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://prtimes.jp/a/?c=168820&r=9&f=d168820-9-756fc0cda95b4f1dd132fe491e8bffb1.pdf",
+    "https://www.smrj.go.jp/press/2026/qsktgp0000000pvv-att/20260630_press01.pdf",
+    "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094",
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index_gaiyo.html"
+   ]
+  },
+  {
+   "query": "中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構） 製造業 事例",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.chuokai.or.jp/index.php/13574/",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.sk.tsukuba.ac.jp/~harada/1153.pdf",
+    "https://tobishima-sci.com/image/keieihattatsu/doukoutyousa/keikyoutyousa2025.1-3_4-6.pdf",
+    "https://www.pref.aichi.jp/soshiki/sangyo-seisaku/keikyo.html",
+    "https://www.jfc.go.jp/n/findings/tyousa_sihanki.html",
+    "https://www.yasufuru.jp/report/"
+   ]
+  },
+  {
+   "query": "中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構） 2025 OR 2026",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.pref.aichi.jp/uploaded/attachment/611793.pdf",
+    "https://www.jfc.go.jp/n/findings/tyousa_sihanki.html",
+    "https://www.isenp.co.jp/2026/07/02/149591/%E4%B8%AD%E5%B0%8F%E6%99%AF%E6%B3%81%E6%84%9F%E3%80%81%EF%BC%94%E6%9C%9F%E9%80%A3%E7%B6%9A%E4%BD%8E%E4%B8%8B%E3%80%80%EF%BC%94%E2%80%95%EF%BC%96%E6%9C%88%E6%9C%9F%E3%80%81%E4%B8%AD%E5%B0%8F%E6%A9%9F/",
+    "https://prtimes.jp/a/?c=168820&r=9&f=d168820-9-756fc0cda95b4f1dd132fe491e8bffb1.pdf",
+    "https://www.chushin.co.jp/cms_source/files/20260929260.pdf",
+    "https://www.smrj.go.jp/research_case/survey/fbrion0000002oup-att/185_42_seizogyo.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構）",
+   "results": [
+    "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
+    "https://note.com/ezuremanagement/n/n62ac85c83529",
+    "https://note.com/btobmarketing/n/ne454c1a86093",
+    "https://note.com/77777777777/n/n61761d0c6abd",
+    "https://note.com/keiei_lab_note/n/nbfb89bcc221f",
+    "https://note.com/ksdshu11/n/n95c00b5fc54f",
+    "https://note.com/smemgmt/n/n042d745a13e5",
+    "https://note.com/salon_ai_keiei/n/naa022cf5e68d",
+    "https://note.com/son_jon/n/n23c5556647c0"
+   ]
+  },
+  {
+   "query": "site:x.com 中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構）",
+   "results": [
+    "https://jp.linkedin.com/pulse/製造業の経営９-エンゲージメントの続き-美徳-鈴木-iu4ac",
+    "https://jp.linkedin.com/posts/naruhiro-seya-a66281342_日本の製造業が長年築き上げてきた現場力や品質力-今それが組織のあちこちで-activity-7465205137754492928-s1Rd",
+    "https://www.linkedin.com/login/zh",
+    "https://jp.linkedin.com/posts/yashima-sangyo_製造業-新創刊-半導体-activity-7434098891437858816-TVBC",
+    "https://jp.linkedin.com/posts/kohama_camp経営分析システムまずここだけ機能を公開しました-経営分析のシステム-activity-7515032405561233408-MxlX",
+    "https://uk.linkedin.com/posts/kinyaseto_第3四半期は引き続き厳しい事業環境の中で国内の一部事業で部品調達難や物流ひっ迫-activity-6893864632562405376-UGXg",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7401436324928638978/"
+   ]
+  },
+  {
+   "query": "site:facebook.com 中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構）",
+   "results": [
+    "https://www.facebook.com/shoko.senboku/photos/中小企業景況調査2024年4月6月期の調査報告について-商工会では仙北市内の商工会会員事業所15社よりご協力いただき四半期ごとに中小企業景況調査を実施しています/469831685675265/",
+    "https://www.facebook.com/mssf.jp/posts/連載コラム中小製造業の今を変える-経営と現場のデジタル改革-第４回本コラムでは労働生産性に焦点を当てなぜデジタル化dx化が重要なのかを考察します第４回のテーマは/122161576166609139/",
+    "https://www.facebook.com/nichietsukouryu/posts/特定技能飲食料品製造業学習テキストの更新otaffより飲食料品製造業の2号評価試験の学習テキストの改定版の案内が出ました以前までのテキストからは大幅な見直しがさ/1320328963444047/",
+    "https://www.facebook.com/osakacci/photos/２０２６年１３月期-経営経済動向調査自社業況のプラス幅が縮小中小企業はマイナスに転じました大阪商工会議所は関西経済連合会と共同で四半期ごとに実施している経営経済/984278547500030/",
+    "https://www.facebook.com/iwate.ibrc/photos/5月20日に財団監事監査平成25年度決算監査と県農林水産部農業普及技術課による指導監督実地検査を受けました公益財団法人となって２年目の監事監査ですが本センターで/632432523493101/",
+    "https://www.facebook.com/maffjapan/posts/統計情報令和6年農業経営体の経営収支を公表しましたので概要を紹介します全国の農業経営体1経営体当たりの平均的な経営収支の状況は以下のとおりです１-農業粗収益農業/1319808926851983/",
+    "https://www.facebook.com/CCPOUTJP/videos/中国景気悪化が示す過剰生産と日本経済への波及リスク中国の8月の製造業pmiが2か月連続で50を下回ったこれは単なる一時的な景気減速ではなく中国経済が抱える構造問/1080629221003730/"
+   ]
+  },
+  {
+   "query": "中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.jfc.go.jp/n/findings/tyousa_sihanki.html",
+    "https://www.rieti.go.jp/jp/columns/a01_0699.html",
+    "https://www.pref.aichi.jp/soshiki/sangyo-seisaku/keikyo.html",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.sk.tsukuba.ac.jp/~harada/1153.pdf",
+    "https://www.city.toshima.lg.jp/582/machizukuri/sangyo/sangyoshinko/003905.html",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf"
+   ]
+  },
+  {
+   "query": "中小企業景況調査 報告書 PDF の経営上の問題点の表（製造業・四半期ごと・中小機構） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/keikyo/index.html",
+    "https://www.smrj.go.jp/research_case/survey/",
+    "https://www.shinkin.co.jp/kanazawa/assets/pdf/houjin/soudan/kinshin189.pdf",
+    "https://www.jfc.go.jp/n/findings/tyousa_sihanki.html",
+    "https://prtimes.jp/a/?c=168820&r=9&f=d168820-9-756fc0cda95b4f1dd132fe491e8bffb1.pdf",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://www.pref.aichi.jp/soshiki/sangyo-seisaku/keikyo.html",
+    "https://www.smrj.go.jp/press/2026/qsktgp0000000pvv-att/20260630_press01.pdf",
+    "https://www.siroyama.or.jp/_src/1814/h2707-09.pdf?v=1791254656094"
+   ]
+  },
+  {
+   "query": "SMRJ SME business conditions survey report PDF management problems table manufacturing quarterly site:linkedin.com",
+   "results": [
+    "https://in.linkedin.com/in/vinodkeni",
+    "https://jp.linkedin.com/company/codetots",
+    "https://uk.linkedin.com/company/the-international-trade-consultancy",
+    "https://in.linkedin.com/in/hasina-khatun",
+    "https://uk.linkedin.com/in/emina",
+    "https://jp.linkedin.com/in/atsushi-haga-a4365b88",
+    "https://jp.linkedin.com/in/okumura-fumio-865026146",
+    "https://jp.linkedin.com/in/jutatip-vuthiparum-82026122b/ja"
+   ]
+  }
+ ],
+ "missing": {
+  "社数（規模別）": "記載なし（読んだ25頁・検索13回）",
+  "採用難（公的統計）": "記載なし（読んだ25頁・検索13回）",
+  "採用にいくら払うか": "記載なし（読んだ25頁・検索13回）",
+  "採用広報・採用サイトの単価": "記載なし（読んだ25頁・検索13回）",
+  "継続して払うか": "記載なし（読んだ25頁・検索13回）",
+  "作る側の原価": "記載なし（読んだ25頁・検索13回）",
+  "どう買われるか": "記載なし（読んだ25頁・検索13回）",
+  "営業と採用のどちらに困っているか": "記載なし（読んだ25頁・検索13回）",
+  "前例の会社（製造業特化）": "記載なし（読んだ25頁・検索13回）"
+ }
+}

@@ -3449,37 +3449,37 @@
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
-  - 「需給ギャップは実際の産出と基準となる産出の差であるが、基準となる潜在産出は直接観測されず、推計の方法に依存する」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「景気の判定方法そのものも、経済構造の変化に合わせて改定の対象になっている」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「同研究会は、新CIと新DIに基づく景気基準日付の判定方法を、早ければ次の景気の山を暫定設定する際に、従来の方法と大きな乖離がないことを確認したうえで採用するとした[19]」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「潜在産出は生産要素、生産性、インフレ率の動きなどから推計する持続可能な産出の水準であり、推計方法が複数ある」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「そのうえでHamiltonは、四半期データについて2年先の値を現在までの直近4期の値に回帰し、その残差を循環成分とする方法を代替案として提案した[24]」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「複数の系列の突き合わせが個々の推計誤差の影響を小さくするという性質は、推計値を誤差のない観測値として扱わずに景気を判断する方法が存在することを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「例えば、ハイエク型の機構で特定の不況を説明するには、その前の拡張期に投資の期間構成と信用条件が実際に変化していたことを示す証拠が必要になる」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「合理的期待と政策の実体的な効果が両立する経済が存在することは、ルーカス批判が対象とするのが政策の有効性ではなく政策評価の方法であることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「ただし、金融循環の長さも、測定に用いる系列、平滑化の方法、各国の金融制度に依存し、固定周期の法則として確立したものではない」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「金融循環の長さが測定方法と制度に依存することは、金融循環も固定周期の規則として予測に用いることができないことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「石油価格ショックの効果と政策反応の効果の配分が推定方法によって変わることは、供給ショックの影響を金融政策の反応から切り離して測定できないことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「ショックの寄与率が系統的な反応の効果を含まないことは、二つの問いに別の推定方法が必要であることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「外部操作変数を用いる方法は、関心のある構造ショックとだけ相関する外部の系列を利用して、モデル全体の構造を特定せずに動学的な因果効果を推定する」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「彼らは、名目硬直性に強く依存せずに需要主導の循環を生むモデルが、データに見られる伝播の型と整合しやすいと論じた[87]」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「公刊された実証研究が報告する財政乗数は、国、期間、識別の方法、経済の状態によって異なり、一つの普遍的な値に収束していない」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「method developed by Foster et al. (2001) to Japanese micro data and have」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「productivity dynamics. Section 3 presents the standard method o f decomposing」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Foster et al. (2001) have developed a standard method (FHK deco mposition) to」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「3 As a brief history of the methods for decomposing aggregate productivity, the first method was」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「“cleansing effects” proposed by Foster et al. (2014). Although the method is not」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「apply the method proposed in Foster et al. (2001) to data from Japanese」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「This section first presents the standard method in Foster et al . (2001) (FHK) that」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「associated with various dimensions of firm dynamics. Then, we e xplain how to」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「the benchmark. As demonstrated above, the FHK method used in th is study」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「12 For the calculation of the TFP, we estimate the production fun ction using the method of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Ackerberg et al. (2016), which is currently considered the stan dard method, and measure it as the」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「14 See Appendix for details on how to estimate the merging effect.」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「we use the IPW method to estimate the ATT for the merger events. Given it might」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「with the bootstrap method.」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
 - 突き合わせ・推定：
+  - 「closures for each year, which may cause our coverage to be underestimated.」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「12 For the calculation of the TFP, we estimate the production fun ction using the method of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Against this background discussion, we estimate the causal effect that runs from」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「based on the propensity score to estimate the causal effect of mergers on」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「14 See Appendix for details on how to estimate the merging effect.」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「we use the IPW method to estimate the ATT for the merger events. Given it might」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「take time for merging firms to experience the causal effect of mergers, we estimate」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Figure 6 depicts the estimated ATTs for the merger events for m ultiple-year」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「windows. We confirm that the estimates of ATTs are positive and statistically away」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「of those estimates, the net merger effect gets larger as time p asses. This is partly」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「propensity score, in this case, is an estimate of the propensity to become a merging」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「ability of the model, as well as the significance of variables. Second, we estimate」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「the estimated ATT to equation (10) and (11) in Section 5 and take the sum of them」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「Jevonsは1878年に、イギリスの商業恐慌がおよそ10年の間隔で繰り返し起きていることを指摘し、その間隔を太陽黒点の周期と結びつける仮説を提示した[1]」（https://note.com/reading_monkey/n/n6ea2542812c6）
   - 「これらの名称は、個々の研究者が観測した変動に後の研究者が与えた整理であり、名称が付いた時点で循環の存在や重なりが検証されていたわけではない」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「反実仮想の問いは、別の政策ルールや制度の下で同じ起点が生じた場合に経済がどう動いたかを推定する作業であり、厚生評価の問いは、変動を小さくすることで誰の消費、雇用、将来所得がどれだけ改善するかを測る作業である」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「GDPの推移を正確に記述しても起点は特定されず、起点を特定しても別の政策の下での経路は推定されず、その経路を推定しても望ましい政策は確定しないので、四つの問いはそれぞれ別の情報と仮定を必要とする」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「需給ギャップは実際の産出と基準となる産出の差であるが、基準となる潜在産出は直接観測されず、推計の方法に依存する」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「各量の定義が異なる対象を指していることは、GDPが増えているかという問いと生活が改善しているかという問いを別々に検証しなければならない根拠になる」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「これらは公表表からの単純集計であり将来の周期を推定したものではないが、平均の約37%に当たる散らばりは、平均の長さから次の転換点の時期を決められないことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「さらに、長さの異なる循環が重なって観測データを生んでいるという仮説は、それぞれの機構が存在するかどうかとは別に検証を要する命題である」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「分類が時間スケールと機構の対応を示すだけで重なりの検証を含まないことは、この分類を転換点の予測規則として用いることができない理由になる」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「彼らが推定したモデルでは、外生的な攪乱がごく短命であっても、内生的な循環の力によってデータの周期的な性質が再現された[22]」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「一つの研究が第一と第二の命題を支持する証拠を与えながら第三の命題を含まないことは、三つの命題が別々に検証されるべきものであることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「潜在産出は生産要素、生産性、インフレ率の動きなどから推計する持続可能な産出の水準であり、推計方法が複数ある」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「Hamiltonは、HPフィルターが元のデータ生成過程に根拠のない動学的関係を作り出すこと、標本の末端での推計値が標本の中央での推計値と大きく異なること、問題を統計的に定式化すると慣行の1600とはかけ離れた平滑化パラメータが選ばれることを指摘した[24]」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「政策当局がその時点で用いる需給ギャップの推計は、事後に改訂されたデータによる推計と大きく異なることがある」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「Orphanides–van Nordenは、米国の産出ギャップについて、各時点で入手できたデータで推計した値と最終的な改訂データで推計した値を比較した[26]」（https://note.com/reading_monkey/n/n6ea2542812c6）
 - 一次情報の探し方：
   - 「景気変動という概念は、19世紀の工業化した経済で繰り返された恐慌の観察から生まれ、20世紀に統計による測定と政策の対象になり、現在は家計と企業の分布、金融、期待を含む動学として研究されている」（https://note.com/reading_monkey/n/n6ea2542812c6）
   - 「教科書の一つの用語がこの三つの段階を経て現在の形になったことは、景気変動の理解に経済史、統計、政治、経済理論の複数の領域の知識が必要であることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
@@ -3497,6 +3497,7 @@
   - 「Hamiltonは、HPフィルターが元のデータ生成過程に根拠のない動学的関係を作り出すこと、標本の末端での推計値が標本の中央での推計値と大きく異なること、問題を統計的に定式化すると慣行の1600とはかけ離れた平滑化パラメータが選ばれることを指摘した[24]」（https://note.com/reading_monkey/n/n6ea2542812c6）
   - 「同じ原油価格の上昇は、家計の実質所得を減らして消費需要を減らし、企業の利益と担保価値を減らして借入制約を強め、先行きの悲観的な見通しを通じて投資と採用を減らす」（https://note.com/reading_monkey/n/n6ea2542812c6）
 - 失敗・落とし穴：
+  - 「decompositions have still suffered from the biases as business dynamics that are associated with」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「ただし、残された誤りは筆者らに帰する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
@@ -3510,21 +3511,21 @@
   - 「ただし、 残された誤りは筆者らに帰する」（https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf）
   - 「ョン比率を高めることにはつながらない点には注意が必要である」（https://www.boj.or.jp/research/wps_rev/wps_2024/data/wp24j17.pdf）
 - 実例：
-  - 「Kydland–Prescottは、その時点ごとに最適な裁量的政策を選ぶと、事前に規則を約束する場合より悪い結果になりうるという時間非整合性の問題を示し、この議論は中央銀行に政府から独立した権限を与える制度の理論的な根拠の一つになった[12]」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「米国の景気後退でも、期間と深さは事例ごとに大きく異なる」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「期間の短さと低下幅の大きさが同じ事例の中で併存することは、景気後退の大きさを期間の長さだけで比較できないことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「広く使われてきたHodrick–Prescottフィルターは、元のデータ生成過程にない循環的な動学を抽出結果に生じさせることがある」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「その結果、両者の差は産出ギャップそのものと同程度の大きさになり、差の主な源泉はGDPデータの改訂ではなく、標本の末端でトレンドの推計値が変わることにあった[26]」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「リアルタイム推計と事後推計の差が主にトレンドの末端推計から生じるという結果は、政策判断の時点で需給ギャップを誤差のない観測値として扱えないことを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「この5は仮定したモデルの計算結果であって実際の経済で測定された財政乗数ではなく、価格、金利、計画投資、税、輸入、供給能力の反応をすべて固定したことに依存している」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「この結果は、税を一定とする仮定を税が支出に連動する仮定に置き換えただけで生じる」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「支出と所得の相互依存は、個々の主体にとって合理的な行動が、集計すると意図と異なる結果を生む場合があることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「この結果は貯蓄のパラドックスと呼ばれ、投資が貯蓄の増加に反応して増える場合や、金利が下がって支出を支える場合には成立しない」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「成立するかどうかが投資と政策の反応に依存することは、この集計上の結果が支出と所得の相互依存の仮定から導かれていることを示す」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「例えば、ハイエク型の機構で特定の不況を説明するには、その前の拡張期に投資の期間構成と信用条件が実際に変化していたことを示す証拠が必要になる」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「例えば、政府が一度だけ給付金を支払う場合と、景気が悪化するたびに自動的に給付する制度を導入する場合とでは、家計の平常時の貯蓄やリスクのとり方が異なりうる」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「Basu–Fernald–Kimballは、稼働率の変動などを補正した技術の系列では技術の改善が短期的に労働投入を減らすことを示し、Galíも長期制約による識別から同様の結果を得た[35][36]」（https://note.com/reading_monkey/n/n6ea2542812c6）
-  - 「第二に、基本モデルで変動が効率的な調整になるのは、保険市場の不完備、金融危機、名目契約などを省いた結果であり、現実の不況が効率的であることの証拠ではない」（https://note.com/reading_monkey/n/n6ea2542812c6）
+  - 「For example, a series of studies like Fukao and Kwon (2006) hav e applied the」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「Many other studies have confirmed this “positive” exit effect. For example, Alon」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「effect will be higher, for example, when firms with a larger share as of period ݐെ1」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「previous period, this share effect will be higher, for example, when firms with」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「effect will be high, for example , when firms with relatively hi gher productivity」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「productivity as of period ݐെ1 . Thus, this exit effect will be high, for example,」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「4 It is still informative to use, for example, the method proposed in Melitz and Polanec (2015) to」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「5 As discussed, Crane et al. (2020), for example, it is not necessarily clear how we should define」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「case contains a typical merger as well as some sort of reorganization of companies」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「decompose it into two subcomponents, that is, ݄ݏ݈ܾ݅ܽݐݏ݁ and ݊݅݀݊݅ .The first case」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「accounts for pure entry into the economy, while the second case accounts for the」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「For example, the number of digits in sales for a limited number of firms」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「end of March, the file labeled ݐ ൌ 2012 , for example, consists of a large amount of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「A part of the KJ FLG file is accompanied by the list of merging firm(s) in the case」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
+  - 「dynamics of Japanese firms suffer from data truncation. For example, studies using」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
 
 ## 競合仮説分析（ACH）とOSINTの情報評価の実務ブログ（誤り仮説・合わない証拠・結論を変える証拠）（analysis of competing hypotheses OSINT practitioner blog disconfirming evidence）
 - 文脈：突き合わせ・推定
@@ -4194,8 +4195,8 @@
   - 「Check again for missing cases/duplicate cases.」（https://datamgmtinedresearch.com/clean）
   - 「in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:」（https://datamgmtinedresearch.com/clean）
   - 「If there are true errors where the correct answer can be easily inferred (e.g., a 3-item rank order question is completed as 1, 2, 4), sometimes logical or deductive editing can be used in those cases and the value is replaced with the logical correction」（https://datamgmtinedresearch.com/clean）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
 
 ## 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け（ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood）
 - 文脈：書き方
@@ -5760,8 +5761,8 @@
   - 「Centralized workflows help preserve relationships between collected artifacts and case context.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
 
 ## 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事（analytic tradecraft key assumptions check indicators alternative hypotheses blog）
 - 文脈：分析の技法
