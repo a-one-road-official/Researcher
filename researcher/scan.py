@@ -21,6 +21,8 @@ COPYHOST = re.compile(r"(irbank|buffett-code|kabutan|minkabu|ullet|houjin\.info|
 # 都道府県・市の公式ドメイン（pref.<名>.jp・city.<名>.<…>.jp・metro.tokyo）は自治体自身の統計なので一次にする
 LOCALGOV = re.compile(r"(^|\.)(pref\.[a-z]+\.jp|city\.[a-z-]+(\.[a-z]+)?\.jp|metro\.tokyo(\.lg)?\.jp)$", re.I)
 # 2026-11-06 4-49：範囲の違いの語（グロービス「マーケットシェア」・電子決算公告ドットコム「官報の決算公告の閲覧」）
+# 2026-11-06 4-50：品目が名指しする指標の語（結果の差し替えの点検に使う）
+INDICATOR = ["加工賃", "出荷額", "付加価値", "従業者", "事業所数", "受注", "給与", "採用単価", "採用費", "有効求人倍率", "売上高", "生産額"]
 SCOPEMIX = re.compile(r"(合算|を含む|を含めた|含まない|を除く|連結ベース|全事業|グループ全体|広義|狭義)")
 def is_primary(url):
     host = urlparse(url).netloc
@@ -525,6 +527,52 @@ def _kf(x):
     except Exception: return None
 def _cagr(a, b, n):
     return (b / a) ** (1 / n) - 1 if a and b and a > 0 and b > 0 and n > 0 else None
+# 2026-11-06 4-50（4-25・4-31 の規模の内側の向きを、所管の表の規模別の行で機械に出す）：kougyo_size.csv（build_kougyo.py が
+# 産業別統計表の従業者規模別のシートから取った行）で、細分類×規模区分ごとに最初と最後の年の1人あたり（付加価値・出荷額）の向きを並べる。
+# 秘匿（X）・注記（***）の付いた行は値にしない（4-26：秘匿を0として扱わない）。全区分で同じ向きのときだけ「構成変化だけでは説明できない」とする。
+# あわせて規模区分ごとの従業者の割合（構成）の最初と最後を出し、構成の移り変わりを見えるようにする（4-35 の配分の効き）
+def kougyo_size_section(topic):
+    f = os.path.join(OUT, topic, "kougyo_size.csv")
+    if not os.path.exists(f): return []
+    by = {}
+    for r in csv.DictReader(open(f, encoding="utf-8-sig")):
+        y = _kf(r.get("year")); band = unicodedata.normalize("NFKC", r.get("規模", "") or "")
+        if y is None or not KOUGYO_FOCUS.search(r.get("name", "") or ""): continue
+        flag = "X" in band.split() or "***" in band
+        band = re.sub(r"\s*(X|\*+)(\s+X)*\s*$", "", band).strip()
+        by.setdefault((r["code"], r["name"]), {}).setdefault(band, {})[int(y)] = (r, flag)
+    if not by: return []
+    md = ["## 工業統計表 産業細分類×従業者規模の規模の内側の向き（kougyo_size.csv・同じ表・同じ年の組・名目・4-25・4-31・4-50）",
+          "- 秘匿（X）・注記（***）の付いた年の行は値にしない。年は実績の年。区分ごとに最初と最後の年だけを比べる（年率は複利）"]
+    for (code, name), bands in sorted(by.items()):
+        out = []; spans = set(); dirs = {"従業者1人あたり付加価値額_万円": set(), "従業者1人あたり製造品出荷額等_万円": set()}
+        tot = bands.get("計", {})
+        for band, ys in sorted(bands.items()):
+            if band == "計": continue
+            ok = {y: r for y, (r, fl) in ys.items() if not fl}
+            if len(ok) < 2: out.append(f"{band}：秘匿・注記で比べられない"); continue
+            y0, y1 = min(ok), max(ok); parts = []; spans.add((y0, y1))
+            for k in dirs:
+                a, b = _kf(ok[y0].get(k)), _kf(ok[y1].get(k))
+                if a and b and a > 0:
+                    g = _cagr(a, b, y1 - y0); dirs[k].add("上" if b > a else "下" if b < a else "横")
+                    parts.append(f"{k.replace('従業者1人あたり', '1人あたり').replace('_万円', '')} {a:,.1f}→{b:,.1f}万円（年率 {g * 100:+.1f}%）")
+            sh = []
+            for yy in (y0, y1):
+                e, t = _kf(ok[yy].get("従業者数")), _kf((tot.get(yy) or ({}, False))[0].get("従業者数") if tot.get(yy) else None)
+                if e and t: sh.append(f"{e * 100 / t:.1f}%")
+            out.append(f"{band} {y0}→{y1}年：" + "／".join(parts) + (f"／従業者の割合 {'→'.join(sh)}" if len(sh) == 2 else ""))
+        verdict = []
+        for k, d in dirs.items():
+            lab = k.replace("従業者1人あたり", "1人あたり").replace("_万円", "")
+            if not d: continue
+            verdict.append(f"{lab}：全区分で{'上向き' if d == {'上'} else '下向き' if d == {'下'} else ''}（構成変化だけでは説明できない）" if len(d) == 1 and d != {"横"} else f"{lab}：区分で向きが割れる（平均の向きは構成変化を含みうる・判定できない）")
+        if len(spans) >= 2: verdict.append("⚠ 区分ごとに比べた年が違う（" + "・".join(f"{a}→{b}" for a, b in sorted(spans)) + "）：同じ年どうしになるまで言い切らない")
+        md.append(f"- {code} {name}：" + "／".join(verdict or ["比べられる区分なし"]))
+        md += [f"  - {o}" for o in out]
+    md.append("")
+    return md
+
 def kougyo_section(topic):
     f = os.path.join(OUT, topic, "kougyo_series.csv")
     if not os.path.exists(f): return []
@@ -651,6 +699,15 @@ def scan(topic):
     # 2026-11-06 4-42：照合の前の棚卸し（GENIEE の名寄せロジック：キーごとの欠損率を先に測り、欠けが多いキーは補助のキーで補う）。
     # 突き合わせの鍵（年・規模・文脈・取得日）ごとに欠けた数字の割合を出す。欠けの多い鍵で突き合わせた向き・裏付けは弱い
     keys = [("年", lambda r: not r["年"]), ("規模区分", lambda r: not r.get("規模")), ("文脈", lambda r: r["文脈"] == "不明"), ("取得日", lambda r: not r["取得日"])]
+    # 2026-11-06 4-50（Binette ら「How to Evaluate Entity Resolution Systems」arXiv 2404.05622：数字の組を均一に抜いて目で確かめると精度が偏る。
+    # まとまり（ここでは品目）ごと、件数に比例した確率で抜き、まとまりの中を全部確かめる）。走査で本文を目で確かめる品目を、その日の日付を種に3つ選ぶ
+    import random as _rnd
+    _items = {}
+    for r in rows: _items[r["品目"]] = _items.get(r["品目"], 0) + 1
+    _rg = _rnd.Random(str(__import__("datetime").date.today()) + topic); _pool = dict(_items); _pick = []
+    while _pool and len(_pick) < 3:
+        it0 = _rg.choices(list(_pool), weights=list(_pool.values()))[0]; _pick.append(f"{it0}（{_pool.pop(it0)}件）")
+    md += ["- 目で確かめる抜き取り（品目ごと・件数に比例・4-50）：" + "、".join(_pick) + "。この品目の引用は全件を本文と照らす"]
     md += ["- 鍵の欠け率（照合の前の棚卸し・4-42）：" + "、".join(f"{k} {sum(1 for r in rows if f(r))}/{len(rows)}件（{sum(1 for r in rows if f(r)) * 100 / len(rows):.0f}%）" for k, f in keys), ""]
     by_item = {}
     for r in rows: by_item.setdefault(r["品目"], []).append(r)
@@ -698,6 +755,12 @@ def scan(topic):
         if nct: md.append(f"- ⚠ 調査の委託先の変更の語が{nct}件：集め方が変わり系列の継続性が落ちる。その年を切れ目として扱う（4-44）")
         nis = sum(1 for r in rs if INTERSEG.search(r["引用"]))
         if nis: md.append(f"- ⚠ セグメント間・内部売上の語が{nis}件：外部の客への売上と内部の売上を分け、合計に内部を足さない（4-44）")
+        # 2026-11-06 4-50（BMJ Open 2023 の登録と論文の食い違いのメタ分析：主要な結果の差し替えが3割前後の研究で起きていた）。
+        # 品目が名指しした指標（加工賃・出荷額・付加価値・従業者・事業所数・受注・給与など）が、取れた引用のどれにも出てこなければ、
+        # 別の指標で答えた（結果の差し替え）疑い。その数字で品目の問いに答えたと書かず、計画どおりの指標を取り直す
+        named = [k for k in INDICATOR if k in subj]
+        if named and rs and not any(any(k in r["引用"] for k in named) for r in rs):
+            md.append(f"- ⚠ 品目が名指しした指標（{'・'.join(named)}）が引用に1件も無い：{len(rs)}件は別の指標の数字。品目の問いの答えとして使わず、名指しした指標を取り直す（結果の差し替えの疑い・4-50）")
         # 2026-11-06 4-45（iri-group 新規事業の市場調査：工場向けなら会社数と工場数のどちらを数えているかを確かめる）：
         # 同じ品目の数え上げに「社」と「事業所」が両方あれば、企業と事業所（工場）が混ざっている。1社が複数の工場を持つので、同じ欄として比べない
         ucnt = {}
@@ -810,6 +873,14 @@ def scan(topic):
                         md.append(f"  - ⚠ 最初の数字に寄った疑い（アンカリング）：採る値は最初の取得日（{d0}）の値で、あとで取った{len(later)}件のうち{len(far)}件が2倍以上離れる。あとの値の定義・年を先に確かめる（4-49）")
             # 2026-11-06 4-49：市場の定義・範囲が違う数字を同じ欄で比べない（グロービス「マーケットシェア」：定義を変えたのに過去の数値と比べるのがよくある失敗／
             # 決算が複数事業の合算なら対象の売上を切り分ける）。引用に合算・含む・範囲の語があれば件数を印す
+            # 2026-11-06 4-50（Authentic8「OSINT chain of custody」：画面の写しは見た時点の証拠で、元のページがいつ変わったかは示さない。
+            # URL・取得日時・取り方を値ごとに残す）。同じURLが取得日の違う回で、この欄に1つも共通の値を持たなければ、ページの中身が変わった疑い。
+            # どの日の版から取った値かを書き、古い日の値を今の事実として使わない
+            byu = {}
+            for r in g:
+                if r.get("URL") and r.get("取得日"): byu.setdefault(r["URL"], {}).setdefault(r["取得日"], set()).add(r["値"])
+            chg = [u0 for u0, dd in byu.items() if len(dd) >= 2 and not (dd[min(dd)] & dd[max(dd)])]
+            if chg: md.append(f"  - ⚠ ページの中身が変わった疑い {len(chg)}URL（同じURLで最初と最後の取得日に共通の値が無い。例 {urlparse(chg[0]).netloc}）：どの取得日の版の値かを書き、古い版の値を今の事実にしない（4-50）")
             mix = [r for r in g if SCOPEMIX.search(r["引用"])]
             if mix: md.append(f"  - ⚠ 範囲が違う数字の疑い {len(mix)}件（合算・〜を含む・範囲の語）：何を含む数字かをそろえてから突き合わせる。合算の決算は対象の事業を切り分ける（4-49）")
             if gr in ("【食い違い】", "【未確認】") and len(vals) >= 2:
@@ -1065,6 +1136,7 @@ def scan(topic):
             sl.append(f"- 【推定】{it}｜{byu['万円'][0]:g}万円÷{byu['人'][0]:g}人＝{byu['万円'][0] / byu['人'][0]:,.1f}万円/人（同じ文の総額÷人数）｜{urlparse(url).netloc}：{q[:60]}")
     md += ["## 同じ文の中の割り出し（総額÷人数・4-39）", *(sl[:30] or ["（なし）"]), ""]
     md += kougyo_section(topic)
+    md += kougyo_size_section(topic)
     md += ["## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）", *(f"- {t}" for t in thin or ["（なし）"]), ""]
     md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))
