@@ -1231,6 +1231,23 @@ def scan(topic):
         except Exception: pass
     empty = sorted(n for n in names - set(by_item) if n)
     empty += [f"{n}（取れたのは欄と単位の合わない混入だけ・4-46）" for n in onlymix]
+    # 2026-11-07 4-59（deskrex「学会発表前の引用ネットワーク調査」：PRISMA-S の考え方で、調べる仕様（inputs）と実行の記録（companies/*.json）を
+    # 突き合わせ、仕様にあって一度も回っていない品目と、仕様から消えたのに結果だけ残る品目を分けて出す。数字0件と「未実行」を混ぜない）
+    spec = set()
+    try:
+        with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "inputs", f"{topic}.csv"), encoding="utf-8-sig") as fh:
+            spec = {(r.get("品目") or r.get("name") or "").strip() for r in csv.DictReader(fh)} - {""}
+    except Exception: pass
+    notrun = sorted(spec - names); orphan = sorted(n for n in names - spec if n) if spec else []
+    # 2026-11-07 4-59（グロービス「名寄せとは」：年度のラベルだけで機械的に比べず、決算期・対象期間・基準日をそろえる）。
+    # 同じ品目・同じ年に「年度」の引用と暦年（「年末」「年平均」「暦年」「1〜12月」）の引用が並ぶ欄を数える。向きや食い違いを読む前に期間をそろえる
+    fymix = {}
+    for r in rows:
+        if not r["年"]: continue
+        q = r["引用"]
+        k = "年度" if "年度" in q else ("暦年" if re.search(r"(年末|年平均|暦年|1\s*[〜~～-]\s*12\s*月|年間累計)", q) else None)
+        if k: fymix.setdefault((r["品目"], r["年"]), set()).add(k)
+    fymix = sorted(f"{it}（{y}年）" for (it, y), s in fymix.items() if len(s) > 1)
     # 2026-11-05 4-24：記事・調査会社が一次を名指しして紹介している数字。元の統計・開示を取り直すまで「記者が書いたこと」として扱う
     # 2026-11-06 4-44：比較の相手（Stray：増えた・減っただけでは原因も意味も言えない。比べる相手＝起きなかった世界の近似が要る）。
     # 同じテーマ・同じ単位の欄の年率（複利）の中央値を「相手」にして、各欄の年率との差（差の差）を出す。単位が違う欄どうしは比べない
@@ -1346,6 +1363,10 @@ def scan(topic):
     md += kougyo_size_section(topic)
     md += ["## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）", *(f"- {t}" for t in thin or ["（なし）"]), ""]
     md += ["## 数字が1つも取れなかった品目（範囲の明示）", *(f"- {n}" for n in empty or ["（なし）"]), ""]
+    md += ["## 仕様と実行の照合（inputs と結果・4-59）",
+           f"- 仕様にあるがまだ一度も回っていない品目：{len(notrun)}件" + ("（数字0件とは別。次の回を待つ）" if notrun else ""), *(f"  - {n}" for n in notrun[:20]),
+           f"- 仕様から外れたのに結果が残る品目：{len(orphan)}件（結論に使うときは、外した理由を先に確かめる）", *(f"  - {n}" for n in orphan[:10]),
+           f"- 同じ品目・同じ年に年度と暦年の引用が並ぶ欄：{len(fymix)}件（期間をそろえるまで向き・食い違いを読まない）", *(f"  - {n}" for n in fymix[:15]), ""]
     open(os.path.join(OUT, topic, "scan_auto.md"), "w", encoding="utf-8").write("\n".join(md))
     return len(rows)
 

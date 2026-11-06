@@ -121,3 +121,6 @@ OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの�
 統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合）,reconcile downloaded statistical tables with official summary totals data validation,統計表 合計 照合 結果の概要 一致;e-Stat Excel 取得 照合 手順;データ移行 照合 件数 キー 値,統計
 決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先,which companies publish income statement in kessan koukoku large company EDINET alternative sources,決算公告 損益計算書 大会社 判定;決算公告 当期純損益 付記;非上場 売上高 決算公告 無い 代わり,企業
 分野ごとに言葉が違う対象の検索語の作り方（論文と特許・統計と業界紙・官公庁と求人の言い換え辞書）,building synonym lists across domains patent vs paper terminology search strategy,特許 論文 用語 違い 検索式;検索語 言い換え 辞書 調査;統計用語 業界用語 対応表,手順
+調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）,PRISMA-S search reporting log reproducible search protocol,PRISMA-S 検索 記録;系統的レビュー 検索式 記録 再現;search log reproducibility literature review agent,手法・突き合わせ
+OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）,osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration,site:osint.dev evidence capture;Berkeley Protocol digital open source investigations preservation;Memento RFC 7089 OSINT,一次情報の探し方
+会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検）,fiscal year calendar year alignment comparing statistics company data,年度 暦年 混在 比較 注意;決算期 違う 会社 比較 調整;fiscal year vs calendar year data comparison pitfalls,失敗
