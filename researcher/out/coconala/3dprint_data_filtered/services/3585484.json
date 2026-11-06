@@ -1,0 +1,1692 @@
+{
+ "id": "3585484",
+ "url": "https://coconala.com/services/3585484",
+ "一覧の順位": 1,
+ "タイトル": "会員登録で10％割引クーポンを獲得！",
+ "価格_円": "5000",
+ "ランク": "プラチナ",
+ "評価": "4.9",
+ "評価件数": "275",
+ "販売実績": "362",
+ "総販売実績": "439",
+ "お願い中_人": "",
+ "残り枠": "8",
+ "納期_日": "10",
+ "星5": "9",
+ "ld_json": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Product",
+   "@id": "https://coconala.com/services/3585484#product",
+   "name": "3Dプリンターで印刷代行します 1個から印刷。データがない方もご相談ください",
+   "image": [
+    "https://service-cdn.coconala.com/resize/1220/1240/service_images/original/5c834387-10008061.png",
+    "https://service-cdn.coconala.com/resize/1220/1240/service_images/original/2230f738-9984616.png",
+    "https://service-cdn.coconala.com/resize/1220/1240/service_images/original/3b6da595-9984617.png",
+    "https://service-cdn.coconala.com/resize/1220/1240/service_images/original/70289a04-9984618.png",
+    "https://service-cdn.coconala.com/resize/1220/1240/service_images/original/6971eb8c-9984619.png",
+    "https://service-cdn.coconala.com/resize/1220/1240/service_images/original/8e81cfb5-9984620.png",
+    "https://service-cdn.coconala.com/resize/1220/1240/service_images/original/3631faa1-9984864.png",
+    "https://service-cdn.coconala.com/resize/1220/1240/service_images/original/63c42d69-9984865.jpeg",
+    "https://service-cdn.coconala.com/resize/1220/1240/service_images/original/9ecb6b8a-9984866.jpeg"
+   ],
+   "description": "お持ちの3Dデータを印刷し、完成品を発送します。試作品、治具、交換用パーツ、模型、コスプレ小物など、1個からご注文いただけます。データがない場合も、文章だけのご相談で大丈夫です。写真・イラスト・手描きの図があれば、あわせてお送りください。素材が決まっていなければ、何に使うものか教えてください。【印刷方法・素材】・熱積層：PLA／PETG／ABS／ASA／TPU／PA12・光造形：レジン。細かな形や模様の印刷にも対応しています。【色】単色・マルチカラー・フルカラー印刷に対応しています。ほとんどの色に対応でき、在庫にない色も取り寄せできます。素材によって選べる色は異なりますので、ご希望の色をお知らせください。【サイズ】・熱積層：幅350 × 奥行320 × 高さ320mm。・光造形：幅780 × 奥行780 × 高さ580mm。大型品の納期はお問い合わせください。印刷方法や形によっては、いくつかに分けて印刷します。【お送りいただくデータ】STL／3MF／STEPなど。フルカラー印刷では、モデルの色情報も確認します。データ形式が分からなければ、そのままご相談ください。【熱積層の品質】レベル1：試作・形状確認レベル2：通常品質レベル3：外観も重視レベル4：細部の仕上がり重視レベル5：特に仕上がりを重視積層ピッチや印刷の向きは、形や大きさに合わせて変えます。レベルごとに積層ピッチを固定しているわけではありません。【料金】熱積層は基本作業料金に、印刷時間・材料費を加え、品質レベルの倍率をかけて計算します。サポート除去、多色印刷、材料の取り寄せ、組立などの作業費と送料は別途かかります。基本作業料金は1件分です。複数個でも、全個数の印刷時間と材料を合計して計算します。光造形は、ご相談ごとに個別見積もりします。フルカラー印刷も別途お見積もりします。ページの5,000円は一律料金ではありません。データを見て、ご購入前に料金と納期をお伝えします。【モデル制作も頼みたい方へ】モデル制作費と印刷代・送料は別料金です。先にモデルを制作し、形が決まってから印刷代をお見積もりします。金額を確認してご購入いただいた後、印刷に入ります。STLなどの完成データや、編集できる元データも必要な方は、最初にお知らせください。【ご注文の流れ】相談 → お見積もり → ご購入 → 製作・検品 → 完成品の確認・発送「見積り相談」から、作りたいものをお知らせください。文章だけでも大丈夫です。データや参考画像があれば、あわせてお送りください。",
+   "sku": "3585484",
+   "category": "デザイン制作 > 製品設計・プロダクトデザイン",
+   "brand": {
+    "@type": "Brand",
+    "name": "ココナラ"
+   },
+   "offers": {
+    "@type": "Offer",
+    "@id": "https://coconala.com/services/3585484#offer",
+    "priceCurrency": "JPY",
+    "price": 5000,
+    "availability": "https://schema.org/InStock",
+    "url": "https://coconala.com/services/3585484",
+    "seller": {
+     "@type": "Person",
+     "@id": "https://coconala.com/users/5220015#person",
+     "name": "Craft Nemi",
+     "image": "https://coconala.com/img/resized/172x172/435aaef20fc3b6a32ead5910d5cfe07d1db4241b1a0369dc533a573831f1a724.png",
+     "url": "https://coconala.com/users/5220015"
+    }
+   },
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.900000095367432,
+    "reviewCount": 275,
+    "bestRating": 5,
+    "worstRating": 1
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Brazil"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "自宅の排水溝フィルターがEOLにより代替品が無く困っていたため、3Dプリンターでの製作を依頼させていただきました。\nSTLとSCAD設計データ（自分でChatGPTを用いてデータを制作）を、こちらからCraft Nemi様へ送付し、内容をご確認いただき製作いただきました。\n小生は、3Dプリンター初心者のため、どの材質を選択すれば良いか分かっていなかったため、Craft Nemi様へ相談したところ、最適な材質を提案いただけました。また、製作後は、発送前に外観写真を送っていただき、イメージ通りに完成しているかなどの確認も実施いただけました。\nお忙しいところ、きめ細かな対応をいただき、誠にありがとうございました。また次回も依頼させていただこうと思います。",
+     "datePublished": "2026-08-29"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "はえたたき経済水域"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "卒業制作で使用する部品のプリントを依頼しました。\nこちらの設計に不備がありプリントし直していただくことになってしまったのですが、とても丁寧にご対応いただきました。\nまた、私自身がココナラを初めて利用するということもあり不慣れな点もありましたが、結果的に利用してよかったと感じる結果となりました。\n印刷の質も申し分なかったです。\nまた機会があれば利用したいと考えています。",
+     "datePublished": "2026-08-31"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "この度は丁寧でスムーズなお取引をありがとうございました。\n個数や印刷時の条件など注文時点で取りまとめておくべき要求事項が漏れており、複数回仕様に関するやり取りを発生させてしまったにも関わらず丁寧にご対応頂きました。\n梱包も含め納品物は要求通りで問題ありませんでした。",
+     "datePublished": "2026-11-02"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "siiijeee"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "お取引いただきありがとうございました。\n\n今回を含む計3回に渡るお取引で、とても丁寧にご対応くださいました。\n非常に満足のいく物ができたと実感しております。\n\nまた機会がございましたら、よろしくお願いいたします。",
+     "datePublished": "2026-07-21"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "私はモデリング超初心者でしたので、データやら専門用語やらがよく分からない状態でのやりとりになりましたが、優しくヒアリングして頂き、スムーズにお取引ができました。ありがとうございました。またお願いいたします！",
+     "datePublished": "2026-08-12"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "clerk133"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "3Dプリントはあまり詳しくありませんでしたが、Craft Nemiさんは丁寧に説明してくれました。お勧めします。",
+     "datePublished": "2026-10-27"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "初めての作成で少しどんな物が出来るのか不安でしたが非常に良い出来上がりでした。\n次回作成する際は、又お願いしたいと思います",
+     "datePublished": "2026-11-05"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "tech2525"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "今回も大変速やかでご丁寧に対応いただきありがとうございました\nまた次回もよろしくお願いいたします",
+     "datePublished": "2026-11-03"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "てるちゃんこ"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 4,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "とても丁寧に対応していただきましま！",
+     "datePublished": "2026-10-23"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "今回もありがとうございました！",
+     "datePublished": "2026-10-27"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "対応は丁寧で、連絡も適宜いただけて安心してお取引できました。",
+     "datePublished": "2026-10-30"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "iChirno"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "この度は小物にもかかわらず丁寧に対応いただきましてありがとうございます。",
+     "datePublished": "2026-10-31"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "とても丁寧な対応で安心しました。",
+     "datePublished": "2026-10-31"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "とても綺麗な制作物をありがとうございました。大切に使わせていただきます。",
+     "datePublished": "2026-10-16"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "epi1201"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "今回も綺麗に製作していただきありがとうございました！\nまた機会がありましたらよろしくお願いいたします(^^)",
+     "datePublished": "2026-10-15"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "毎回、迅速な対応ありがとうございます！",
+     "datePublished": "2026-10-15"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "ボードゲーム制作者"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "やり取りが凄く早くて、完成品も凄く良く\n助かります。",
+     "datePublished": "2026-10-13"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "ご丁寧に対応してくださりありがとうございます。素敵に仕上げていただけて嬉しかったです。",
+     "datePublished": "2026-10-14"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "迅速に対応していただきありがとうございます。 丁寧に梱包されており、商品もイメージ通りでした。 また機会がありましたら、よろしくお願いいたします。",
+     "datePublished": "2026-10-11"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "MOKU glass"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "製品試作で利用させていただきました。\n丁寧かつ迅速にご対応いただき、仕上がりも大変満足でした。\nありがとうございました！",
+     "datePublished": "2026-10-09"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "頼来詩弦"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "初めての3Dモデリング依頼で色々わからないことだらけでしたが、丁寧にご対応いただきました。\nまた是非次回以降もお願い出来たらと思います。",
+     "datePublished": "2026-10-07"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 4,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "スムーズに進んだ",
+     "datePublished": "2026-10-05"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "今回もありがとうございました！",
+     "datePublished": "2026-10-03"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "kandabotan"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "ありがとうございました。",
+     "datePublished": "2026-10-03"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "こちらのつたない図面を３D化してくださいました。\n制作の意図を理解していただきご提案もいただきましてありがとうございました。\n\n",
+     "datePublished": "2026-10-02"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "初心者にもわかりやすく丁寧な対応でとても助かりました。\nまた是非よろしくお願いいたします。",
+     "datePublished": "2026-09-27"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "今回もありがとうございました。",
+     "datePublished": "2026-09-27"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "3Dプリンターの知識がなくても安心の対応でした。",
+     "datePublished": "2026-09-27"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "atusiatusi3011"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "とても良いものをありがとうございました。\nお願いした通りの物になりました。",
+     "datePublished": "2026-09-21"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "今回もありがとうございました！\nまたよろしくお願いします。",
+     "datePublished": "2026-09-20"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "この度もありがとうございました！\nまたよろしくお願いします。",
+     "datePublished": "2026-09-19"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "yuukinishikubo"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "迅速丁寧に対応頂きました\nまた機会がありましたら宜しくお願い致します",
+     "datePublished": "2026-09-15"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "丁寧かつ迅速なご対応ありがとうございました(^^)\n届いたお品物のクオリティも素晴らしいです。\nまた機会がありましたらよろしくお願いいたします！",
+     "datePublished": "2026-09-13"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "parmigiano"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "こういうのが初めての私の分かりづらいオーダーにもちゃんと向き合ってお答えいただけて感謝です。無事に庭先で働いております！",
+     "datePublished": "2026-09-13"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "mailanamiyuta"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "丁寧に印刷・ご対応いただき、ありがとうございました。",
+     "datePublished": "2026-09-09"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "キャロルさん"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "とてもスムーズな取り引きができて、成果品も大満足です。",
+     "datePublished": "2026-09-08"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "サブ　サカモト"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "細かな要求にも対応して頂き良い製品が出来上がりました。",
+     "datePublished": "2026-09-05"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mai0628"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "対応が非常に丁寧、かつ分かりやすく安心してお任せすることができました。\n納品された製品もとてもかわいらしいです。\nとても満足しています。",
+     "datePublished": "2026-09-04"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "iftatsuya"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "スムーズなお取り、ありがとうございました！\nまたよろしくお願いします。",
+     "datePublished": "2026-09-03"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "初めての3Dデータ作成の依頼でしたが、丁寧に対応くださりスムーズな取引を行うことができました。\nまた機会があればお願いしたいと思います。",
+     "datePublished": "2026-08-27"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "parmigiano"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "引き続きのオーダーですが，親切丁寧かつ，より良くなる提案などしていただけて大変嬉しく思います。ありがとうございました！",
+     "datePublished": "2026-08-26"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "松野 雄一朗"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "紙ベースからAIで3D化。\n大変だったと思います。\n素晴らしい作品でした。\nありがとうございました。",
+     "datePublished": "2026-08-19"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "オノケン材塗装"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "対応も早く、希望通りのデザインを3Dプリントしていただきました。3Dプリンターについてついて教えていただきありがとうございました。",
+     "datePublished": "2026-08-13"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "質問に迅速に回答いただき、安心してやり取りができました。誠にありがとうございました！！また機会がありましたらお願い致します。",
+     "datePublished": "2026-08-14"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "松野 雄一朗"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 4,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "回答を頂く時に返答が早く、スムーズにやりとりが行えました。\n完成品をまだ見ていないので4と致しました。",
+     "datePublished": "2026-08-11"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mai0628"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "非常にご丁寧に対応して下さってありがとうございます。",
+     "datePublished": "2026-08-11"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "こちらの要望に寄り添っていただき、納得した商品を購入することができました。",
+     "datePublished": "2026-08-10"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "迅速なご対応ありがとうございました。引き続きよろしくお願い致します。",
+     "datePublished": "2026-08-09"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "takuP"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "2回目の購入になります。\n毎度商品には大変満足しております。\n機会があればまたお願いしたいと思います。",
+     "datePublished": "2026-08-07"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "iftatsuya"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "非常にスムーズに対応していただきました。",
+     "datePublished": "2026-08-05"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "tepco000touden"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "親切に対応して頂きました。\nありがとうございます。",
+     "datePublished": "2026-08-04"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "この度も迅速かつ丁寧なご対応ありがとうございました。\n印刷品質もとても満足です。\n今後ともよろしくお願いいたします。",
+     "datePublished": "2026-08-02"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "svkn888"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "この度はありがとうございました。\nまた、機会がありましたらよろしくお願い致します",
+     "datePublished": "2026-08-02"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "iftatsuya"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "終始、安心してお取引できました。",
+     "datePublished": "2026-07-30"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "7たp"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 4,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "やり取りも細かくしてくださり難しいデザインでしたがしっかりと対応していただけました。\n\n納期についても私が考えていたよりもスムーズに進んだため早く納品していただけました。",
+     "datePublished": "2026-07-27"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "素敵な愛犬のフィギュアを無茶なお願いで作っていただきました。イメージだけでしたが、満足な仕上がりです。\n細かく連絡もいただき、嬉しかったです。\nまた、機会がありましたら、よろしくお願いします。",
+     "datePublished": "2026-07-25"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "lmmrh"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "細やかな気配りと、こちらの理想に近づくように丁寧に相談にのって頂きました！また宜しくお願い致します(^^)",
+     "datePublished": "2026-07-21"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "pinring0330"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "見積もりから発送まで迅速に対応いただき、スムーズに取引ができました。\nありがとうございました。",
+     "datePublished": "2026-07-24"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "親切・丁寧で寄り添う形で色々と提案・対応していただきました。\n最終の品質についても問題なく、梱包状態も丁寧で安心した取引ができました。\nまたの機会もぜひお願いしたいと思います。",
+     "datePublished": "2026-07-21"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "毎度丁寧なご対応今後ともよろしくお願いします。",
+     "datePublished": "2026-07-21"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "毎回きっちりとした仕上がりで安心して依頼できます。",
+     "datePublished": "2026-07-18"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "初めて依頼させて頂き、上手く伝わるか不安でしたが、思ってた以上のものを、作成いただきました。",
+     "datePublished": "2026-07-13"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "毎回きっちりと丁寧なお仕事でありがとうございます。",
+     "datePublished": "2026-07-11"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "takuP"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "この度はありがとうございました。\n大変親身になって創作のお手伝いをしていただきました。\nまた宜しくお願い致します。",
+     "datePublished": "2026-07-09"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "分からない事にはしっかりと丁寧にお応え頂き、こちらの細かな希望にも大変真摯に向きあっていただきました。\nデータがない中、理想の造形を作っていただき本当にありがとうございました。\nぜひまた利用させていただきます！",
+     "datePublished": "2026-07-10"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "siiijeee"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "お取引いただき、ありがとうございました。\n\n購入後、製作から配送まで迅速に実施いただいたおかげで、フィッティングの確認や調整箇所決めをスムーズに行うことができました。\nこちらからの質問に対して図を用いて丁寧にわかりやすく説明してくださったおかげで、調整の方向性をすぐに決めることができました。\n非常に良いお取引ができたと感じております。\n\n\n\n",
+     "datePublished": "2026-07-06"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 4,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "お取引中のやりとりが大変スムーズでした。\n作成いただいた3Dデータの納品を希望する場合には追加料金がかかる旨は事前に記載があると良かったです。\n一般的には3Dデータの作成後データの納品までがセットになっているパターンの方が多く、データをいただけると勘違いされる方も多いと思います。",
+     "datePublished": "2026-07-06"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "こちらの要望を叶えてくれようと親身になって対応していただきました。\n今後もよろしくお願いいたします。",
+     "datePublished": "2026-07-06"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "VOSOLA"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "とても親切で、細かな修正も応じてくれました\nありがとうございました",
+     "datePublished": "2026-07-06"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "この度はありがとうございました。\n不慣れで不手際があったかと存じますが\n丁寧に対応いただき満足しております\nご縁がありましたらまたぜひよろしくお願いいたします。",
+     "datePublished": "2026-07-06"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "wadaYo"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "とてもスムーズに取引できました ありがとうございます。",
+     "datePublished": "2026-07-03"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 4,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "やり取りの際の返信が早く安心して作業をお任せできました。\n料金体系についてはもう少し事前に明確になっていたらさらに良かったかなと思います。",
+     "datePublished": "2026-07-03"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "説明も丁寧で分かりやすかった。\n対応が早くスムーズに取引を進めることができた。\n",
+     "datePublished": "2026-06-29"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "midrus243"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "サービスがいいね",
+     "datePublished": "2026-07-01"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "丁寧な対応でした\n",
+     "datePublished": "2026-06-30"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "丁寧に対応してくださいました。",
+     "datePublished": "2026-06-29"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "丁寧に対応いただけて大変助かりました。",
+     "datePublished": "2026-06-28"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "みーあ3"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "ご相談させていただいた日から、提案・商品に関する相談・納品まで非常にスムーズに取引を進めていただけました。\nまた次回も注文させていただきたいです。",
+     "datePublished": "2026-06-27"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "iftatsuya"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "この度はご丁寧に対応、ありがとうございました！\nまたよろしくお願いします。",
+     "datePublished": "2026-06-27"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "とても親切丁寧にご対応いただきました。\n細部に渡りこちらの要望を汲み取っていただき、唯一無二の製品を造っていただきました。\n本当にありがとうございました。",
+     "datePublished": "2026-06-26"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "やり取りが迅速で納品まで早かった。",
+     "datePublished": "2026-06-26"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "【認定】Designer Wraith"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "この度はありがとうございました。\n3D生成からプリントまでご迅速かつご丁寧なご対応でございました。\nとても親身に接していただき、届いたものも満足な仕上がりです。\nまたご機会ございましたら、よろしくお願いいたします。",
+     "datePublished": "2026-06-25"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "非常に完成度が高くて満足いたしました♪\n",
+     "datePublished": "2026-06-24"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "ランディ2000"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "完璧な出品者様です。\n初めての利用で、3Dプリンタ製作は無知識でしたが、度重なる要望にも非常に親切で行き届いた対応をしていただきました。\n見積額も圧倒的に低予算ながら、臨機応変に対応していただき、割に合わないのでは…とこちらが心配になるほどです。\nまた、図面データ確認結果・納品前のパーツ不足有無など進捗や確認のため適宜連絡して下さり、安心して取引ができました。\n用事がなくてもまたお願いしたいと思えるほどの出取引ができ、よい方に巡り合えました。",
+     "datePublished": "2026-06-23"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "【認定】Designer Wraith"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "ご迅速かつご丁寧なご対応ありがとうございました。\n技術も高く満足な仕上がりです。\nまたよろしくお願いいたします。",
+     "datePublished": "2026-06-23"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "りんごちゃーん"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 4,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "ありがとうございました！",
+     "datePublished": "2026-06-22"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "kazupeace25"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 4,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "見積もり時の項目間違いはありましたが、それ以外は丁寧にご対応いただけました！納品物も満足です。",
+     "datePublished": "2026-06-22"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "知識がない私にも分かりやすい形でご説明いただき、納得できる形に仕上げることができました。",
+     "datePublished": "2026-06-17"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "かなり特殊なオーダーとなってしまったかもしれませんが、ご快諾頂き誠にありがとうございました。対応も迅速かつ丁寧でした。引き続きよろしくお願いいたします。",
+     "datePublished": "2026-06-17"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "funatozu"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "とても丁寧で、高クオリティのプリントをしていただきました。",
+     "datePublished": "2026-06-05"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "homeyrider108"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "最初の見積もり相談から、丁寧な対応をして頂き安心して相談することができました。見積もり依頼に対しても、こちらの想定以上に細かな提案を返していただき細かく相談させていただくことが出来ました。\n私は初めての依頼でしたが、とても良い方に巡り合うことが出来ました。",
+     "datePublished": "2026-06-15"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "いつも要望を丁寧に汲み取っていただいて助かってます。\n今後ともよろしくお願いいたします。",
+     "datePublished": "2026-06-15"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "eno3249"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "迅速かつ丁寧で大満足です\n価格についても複数見積もりを取りましたが圧倒的に安かったです\n\nまたお願いします",
+     "datePublished": "2026-06-14"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "shingoujiie"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "2度目の購入になりますが、丁寧にやり取りいただき、期待を下回らない良い品質で今回も仕上げて頂き、満足しています。\nまたお願いします！",
+     "datePublished": "2026-06-12"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "hirakataokuchin"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "親切丁寧な対応をして頂き、とても気持ちの良い製作依頼が出来ました。\nまた次回も宜しくお願い致します。",
+     "datePublished": "2026-06-12"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "迅速に対応していただけました！\n質問にもすぐに回答いただけ安心してお任せすることができました。\n物の品質にも大変満足です！",
+     "datePublished": "2026-06-09"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "sekine1990"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "丁寧に対応していただきました。\n印刷する前にイメージを送ってくださり、足りないものにも気づくことができ、すぐに対応してもらえてよかったです。\n\n梱包も丁寧で、製品自体も凄く綺麗でお願いしてよかったです。",
+     "datePublished": "2026-06-07"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "こちらの細かな要望にも快く対応して頂けて、大変安心して依頼の出来る出品者です。\nまたリピートさせて頂きます。",
+     "datePublished": "2026-06-05"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "匿名"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "コスト最安でお願いしましたが、想像以上の綺麗さに大満足です！\nまたお願いします！",
+     "datePublished": "2026-06-05"
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "wadaYo"
+     },
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5,
+      "worstRating": 1
+     },
+     "reviewBody": "とても綺麗な仕上がりでした。また次回もお願いいたします。",
+     "datePublished": "2026-06-05"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "https://coconala.com/",
+      "name": "ココナラTOP"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "https://coconala.com/categories/18",
+      "name": "デザイン制作"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "https://coconala.com/categories/671",
+      "name": "製品設計・プロダクトデザイン"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "item": {
+      "@id": "https://coconala.com/categories/671/330",
+      "name": "3Dプリンター用データ作成"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "初めてですが、何を送ればいいですか？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "文章だけでもご相談いただけます。作りたいものの説明と、大きさ・個数・使い道をお知らせください。データや参考画像があれば、あわせてお送りください。予算や希望到着日、素材や品質は分かる範囲で大丈夫です。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "このデータで印刷できるか見てもらえますか？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "はい。データと完成させたい大きさをお送りください。薄すぎる部分や、印刷が難しい箇所があればお伝えします。データの修正が必要な場合は、作業内容と料金を確認してから進めます。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "料金はどう決まりますか？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "熱積層は基本作業料金に印刷時間と材料費を加え、品質レベルの倍率をかけます。多色印刷、サポート除去、取り寄せなどの作業費と送料は別です。基本作業料金は1件分なので、個数分を重ねて請求するものではありません。光造形はご相談ごとに個別見積もり、フルカラーも別途お見積もりします。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "納期はどのくらいですか？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "大きさや個数、素材の在庫、印刷の混み具合によって変わります。ご購入前に納期をお伝えします。お急ぎの場合は、いつまでに届いてほしいかをお知らせください。特急で受けられるかどうかと、追加料金をお伝えします。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "どんな形でも印刷できますか？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "薄い部分や細い突起、内部の空洞などは、そのままでは印刷できないことがあります。厚みを変えたり、分割したりする必要があれば、印刷前にご相談します。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "素材や色は選べますか？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "熱積層はPLA・PETG・ABS・ASA・TPU・PA12、光造形はレジンを扱っています。色は取り寄せも含め、ほとんどの色に対応しています。選べる色は素材によって異なります。単色・マルチカラー・フルカラー印刷ができますので、ご希望の色をお知らせください。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "熱積層の品質レベル1〜5は何が違いますか？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "レベル1は試作・形状確認、2は通常品質、3は外観も重視、4は細部の仕上がり重視、5は特に仕上がりを重視する区分です。積層ピッチや印刷の向きは、形や大きさに合わせて変えます。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "データがなくても頼めますか？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "文章だけでもご相談ください。写真・イラスト・手描きの図があれば、あわせてお送りください。まずモデル制作分をお見積もりし、ご購入後に制作します。形が決まったら印刷代と送料をお見積もりします。モデルを作った後、印刷を注文するかどうかを決めていただけます。STLなどのデータや編集できる元データも必要な方は、最初にお知らせください。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "印刷方法やカラー印刷の違いが分かりません。",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "熱積層は樹脂を積み重ねる印刷方法で、光造形はレジンを使います。マルチカラーは複数の色を使い分ける印刷、フルカラーはモデルの色情報を使った印刷です。どれを選べばよいか分からなければ、作りたいものと使い道を教えてください。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "どのくらいの大きさまで作れますか？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "熱積層は幅350×奥行320×高さ320mm、光造形は幅780×奥行780×高さ580mmまで対応しています。大型品の納期はお問い合わせください。印刷方法や形によっては、いくつかに分けて印刷します。ご希望の縦・横・高さをmmでお知らせください。"
+     }
+    }
+   ]
+  }
+ ],
+ "本文": "会員登録で10％割引クーポンを獲得！\nホーム\nデザイン制作\n製品設計・プロダクトデザイン\n3Dプリンター用データ作成\n3Dプリンターで印刷代行します\n1個から印刷。データがない方もご相談ください\n物品配送可能\n評価 \n 4.9(275)\n販売実績 362件\n残り 8枠 / お願い中：12人\nCraft Nemi\n総販売実績：439件\nプラチナ認定者の\nサービス\n\n直近3ヶ月で高い実績を維持した、信頼性の高い出品者のサービスです\n\nサービス内容\n購入時のお願い\nよくある質問\n評価・感想\nお気に入り（199）\n商用利用\n著作権譲渡\n印刷・配送\n無料修正回数\n5回\nラフ提案数\n無制限\nお届け日数\n要相談 / 約10日（実績）\nスタイル\n3D\n業種\n教育\nその他\nファイル形式\nその他\n高評価のレビュー\nすべての評価・感想をみる\nBrazil\n見積り相談\n2ヶ月前\n自宅の排水溝フィルターがEOLにより代替品が無く困っていたため、3Dプリンターでの製作を依頼させていただきました。\nSTLとSCAD設計データ（自分でChatGPTを用いてデータを制作）を、こちらからCraft Nemi様へ送付し、内容をご確認いただき製作いただきました。\n小生は、3Dプリンター初心者のため、どの材質を選択すれば良いか分かっていなかったため、Craft Nemi様へ相談したところ、最適な材質を提案いただけました。また、製作後は、発送前に外観写真を送っていただき、イメージ通りに完成しているかなどの確認も実施いただけました。\nお忙しいところ、きめ細かな対応をいただき、誠にありがとうございました。また次回も依頼させていただこうと思います。\nはえたたき経済水域\n見積り相談\n2ヶ月前\n卒業制作で使用する部品のプリントを依頼しました。\nこちらの設計に不備がありプリントし直していただくことになってしまったのですが、とても丁寧にご対応いただきました。\nまた、私自身がココナラを初めて利用するということもあり不慣れな点もありましたが、結果的に利用してよかったと感じる結果となりました。\n印刷の質も申し分なかったです。\nまた機会があれば利用したいと考えています。\n匿名\n見積り相談\n4日前\nこの度は丁寧でスムーズなお取引をありがとうございました。\n個数や印刷時の条件など注文時点で取りまとめておくべき要求事項が漏れており、複数回仕様に関するやり取りを発生させてしまったにも関わらず丁寧にご対応頂きました。\n梱包も含め納品物は要求通りで問題ありませんでした。\nsiiijeee\n見積り相談\n3ヶ月前\nお取引いただきありがとうございました。\n\n今回を含む計3回に渡るお取引で、とても丁寧にご対応くださいました。\n非常に満足のいく物ができたと実感しております。\n\nまた機会がございましたら、よろしくお願いいたします。\n匿名\n見積り相談\n2ヶ月前\n私はモデリング超初心者でしたので、データやら専門用語やらがよく分からない状態でのやりとりになりましたが、優しくヒアリングして頂き、スムーズにお取引ができました。ありがとうございました。またお願いいたします！\nサービス内容\nお持ちの3Dデータを印刷し、完成品を発送します。\n試作品、治具、交換用パーツ、模型、コスプレ小物など、1個からご注文いただけます。\n\nデータがない場合も、文章だけのご相談で大丈夫です。\n写真・イラスト・手描きの図があれば、あわせてお送りください。\n素材が決まっていなければ、何に使うものか教えてください。\n\n【印刷方法・素材】\n・熱積層：PLA／PETG／ABS／ASA／TPU／PA12\n・光造形：レジン。細かな形や模様の印刷にも対応しています。\n\n【色】\n単色・マルチカラー・フルカラー印刷に対応しています。\nほとんどの色に対応でき、在庫にない色も取り寄せできます。素材によって選べる色は異なりますので、ご希望の色をお知らせください。\n\n【サイズ】\n・熱積層：幅350 × 奥行320 × 高さ320mm。\n・光造形：幅780 × 奥行780 × 高さ580mm。\n大型品の納期はお問い合わせください。\n印刷方法や形によっては、いくつかに分けて印刷します。\n\n【お送りいただくデータ】\nSTL／3MF／STEPなど。\nフルカラー印刷では、モデルの色情報も確認します。データ形式が分からなければ、そのままご相談ください。\n\n【熱積層の品質】\nレベル1：試作・形状確認\nレベル2：通常品質\nレベル3：外観も重視\nレベル4：細部の仕上がり重視\nレベル5：特に仕上がりを重視\n\n積層ピッチや印刷の向きは、形や大きさに合わせて変えます。レベルごとに積層ピッチを固定しているわけではありません。\n\n【料金】\n熱積層は基本作業料金に、印刷時間・材料費を加え、品質レベルの倍率をかけて計算します。サポート除去、多色印刷、材料の取り寄せ、組立などの作業費と送料は別途かかります。\n基本作業料金は1件分です。複数個でも、全個数の印刷時間と材料を合計して計算します。\n光造形は、ご相談ごとに個別見積もりします。フルカラー印刷も別途お見積もりします。\nページの5,000円は一律料金ではありません。データを見て、ご購入前に料金と納期をお伝えします。\n\n【モデル制作も頼みたい方へ】\nモデル制作費と印刷代・送料は別料金です。\n先にモデルを制作し、形が決まってから印刷代をお見積もりします。金額を確認してご購入いただいた後、印刷に入ります。\nSTLなどの完成データや、編集できる元データも必要な方は、最初にお知らせください。\n\n【ご注文の流れ】\n相談 → お見積もり → ご購入 → 製作・検品 → 完成品の確認・発送\n\n「見積り相談」から、作りたいものをお知らせください。文章だけでも大丈夫です。データや参考画像があれば、あわせてお送りください。\n購入にあたってのお願い\n■ご購入前に\nまずは見積り相談をお願いします。文章だけのご相談でも大丈夫です。作るもの・料金・納期を確認してから進めます。途中で仕様や数量を変える場合や、印刷後の修正は、追加料金がかかることがあります。\n\n■仕上がり\n積層の跡、サポート材を外した跡、色むら、寸法のずれが出る場合があります。はめ合わせる部品や、強度・耐熱性が必要なものは、使い方と必要な寸法を教えてください。研磨・塗装・接着・組立は、お見積もりに含めた作業のみ行います。\n\n■発送\n送料と発送方法は、発送先と梱包サイズを確認してお伝えします。送料無料になるかどうかも、お見積もり時にお知らせします。\n配送先は、こちらからお伝えするココナラの手続きでご登録ください。お急ぎの場合は、ご購入前に希望到着日をお知らせください。\n\n■データの扱い\nご自身で作ったデータか、製作・利用の許可を得たデータをご用意ください。\nこちらでモデルを作る場合、データの受け取りや商用利用、権利の譲渡もご希望でしたら、見積り相談に書き添えてください。モデル制作費に印刷代は含まれません。\n\n■製造の委託\n大きさ・納期・設備の稼働状況によっては、当方の品質基準を満たす協力事業者で印刷することがあります。品質管理・検品・納品後の対応は当方が行います。機密性の高いデータは、送る前にお知らせください。\n5,000 円\n25ポイント (0.5％) 獲得\n無料で見積り相談\nこのサービスは見積り相談後に購入できます\n見積りから購入までの流れ\n 出品者に質問\n フォロー\n94\nココナラの安心保証\nCraft Nemi\n本人確認\n機密保持契約(NDA)\nインボイス発行事業者\n未登録\n総販売実績\n439\n評価\n4.9\nフォロワー\n94\nプロフィール詳細を見る\n 出品者に質問\n フォロー\n94\nスケジュール\n基本的に深夜以外対応可能ですが、返信までに2、3時間かかる場合もございます。\n経験職種\n\nデザイナー / プロダクトデザイナー 経験年数 : 2年\n\n相談・ライフスタイル・その他 / 講師・インストラクター 経験年数 : 3年\n\nプログラミング言語・フレームワーク\nC:2年\nC++:1年\nPython:1年\nビジネス・クリエイティブツール\nFusion 360:3年\nその他ツール\nAutodesk Fusion:3年\n得意分野\n\nイラスト作成・漫画制作 3Dモデリング\n\n学習指導・資格・キャリア相談 学習指導（理系科目）\n\n語学力\n\n英語 日常会話レベル\n\n出品者の実績をもっと見る\n出品者のポートフォリオ\nもっと見る\n\n風力発電機の羽部分を3Dプリンタで制作\n\n出品者のその他の人気サービス\n3Dデータ作成/3Dモデリングします 初稿1日〜｜特急なら最短1時間（＋3,000円）\n5.0\n(43)\n5,000 円\nオーダーメイドの3D立体文字を作ります 特注サイズ・漢字対応OK！装飾やインテリアに！\n5.0\n(8)\n2,500 円\n3Dプリンタの使い方を教えます 初心者歓迎！プロが3Dプリンタの活かし方を教えます！\n5.0\n(12)\n3,000 円\n3Dプリンター用データ作成の関連サービス\nミニチュア製作、模型製作致します 画像や漫画絵から模型製作致します！！\n5.0\n(45)\nJUN88FACTORY\n5,000 円\n高性能3Dプリンターでプリント出力し納品致します 3Dデータを3Dプリントし納品致します！\n5.0\n(651)\nJUN88FACTORY\n5,000 円\n短納期！最新型！カラーで3Dプリントいたします 高性能3Dプリンターでプリンㇳいたします。\n5.0\n(164)\nマニー 3D CAD モデリング\n5,000 円\n3Dプリンターで印刷し、現物を納品します 手書き図面からでも印刷します。\n5.0\n(160)\nHK351\n5,000 円\n3Dプリンターのデータ、印刷、発送代行いたします データ制作から印刷、発送まで一貫対応が可能です\n4.9\n(56)\nKOSEI／3DCGデザイナー\n5,000 円\n多色3Dプリント対応　3Dプリント量産行います 展示・販売に使える視線を止める多色3DプリントでGOOD！\n5.0\n(6)\nDesign Lover\n5,000 円\n3Dプリント用データ・3DCGデータの製作致します 3Dプリンタ用データ作成！3DCG画像データ作成を致します！\n5.0\n(186)\nまんたろー\n5,000 円\n大型・多色・高精度3Dプリンターで印刷します 初めてでも大丈夫！技術サポート付きで安心のプリントサービス\n4.9\n(107)\nLaboRobo\n5,000 円\nジュエリー制作用CADデータを作成します 手描きや画像から立体設計に落とします\n5.0\n(21)\nAtelier Pindot\n5,000 円\n3Dプリンターで造形・多色造形致します 最大300mm、多色造形・塗装・3Dデータ作成まで幅広く対応\n5.0\n(172)\nHARU＠3Dモデリング×3Dプリンター\n5,000 円\n３Dプリンタを使った樹脂部品を造形します 現役機械設計者が造形－現物複製OK！3Dスキャン対応サービス\n4.7\n(7)\nナンでもツクる\n5,000 円\nデータ作成・木質3Dプリント代行します アイデアを木の質感で立体化！データ作成から対応\n4.9\n(21)\nyuzuriha　11\n5,000 円\n3Dプリンターでお持ちの3Dデータを印刷代行します 1個から大量注文まで丁寧に3Dプリント！\n5.0\n(4)\nものづくり工房tomoki\n5,000 円\n最新高速3Dプリンターでモデル出力を代行いたします 2026年最新デュアルノズル機×多色対応。最短翌日発送です！\n5.0\n(2)\nkeumaru／けうまる\n5,000 円\n3Dプリンターで高精度・高精細モデルを出力します 即日対応可能！短納期・安価で出力します\n4.9\n(36)\nココログ工房\n5,000 円\n選択的レーザー溶融で金属3Dプリントを出力します 最短48時間で出荷可能・特大サイズ対応・高品質を低コストで\n5.0\n(4)\n3DSPRO\n5,000 円\nアイデアを形に。3Dプリント用モデルを制作します STLデータ作成から造形サポートまで対応します。\n5.0\n(8)\n大櫃 湧也／YuI Studio\n5,000 円\nCADデータ/3Dプリント用データの制作いたします 商品開発にて試作品を制作したい方々へ\n5.0\n(17)\nStudio Seventhwell\n5,000 円\n3Dデータを3Dプリンター出力し、安くて高品質ます 3Dデータ作成、設計、3Dプリンㇳ、FDM\n4.9\n(36)\nKKPrintingLab\n5,000 円\n製品試作品製作、モックアップ製作致します 製品の模型、ミニチュア製作、試作品製作致します！\n5.0\n(22)\nJUN88FACTORY\n10,000 円\n粉末焼結積層造形で高精度3Dプリントを出力します 最短48時間で出荷可能・特大サイズ対応・高品質を低コストで\n5.0\n(2)\n3DSPRO\n5,000 円\nMJF（ナイロン素材）で3Dプリントを出力します 最短48時間で出荷可能・特大サイズ対応・高品質を低コストで\n5.0\n(1)\n3DSPRO\n5,000 円\n3Dプリンタでの出力、3Dデータの製作、承ります PC PETG ゴム素材　様々な素材　ノズルサイズ使用可\n5.0\n(106)\n立体おじさん\n5,000 円\nCADデータ（2D,3D）の作成をします 図面作成、造形、レーザー彫刻対応\n5.0\n(20)\nHK351\n5,000 円\nこのサービスを見た人はこちらもチェックしています\nミニチュア製作、模型製作致します 画像や漫画絵から模型製作致します！！\n5.0\n(45)\nJUN88FACTORY\n5,000 円\n高性能3Dプリンターでプリント出力し納品致します 3Dデータを3Dプリントし納品致します！\n5.0\n(651)\nJUN88FACTORY\n5,000 円\n3Dプリンターのデータ、印刷、発送代行いたします データ制作から印刷、発送まで一貫対応が可能です\n4.9\n(56)\nKOSEI／3DCGデザイナー\n5,000 円\n3Dデータ作成、3Dモデリング、図面作成します アクセサリー、3Dプリント、3Dデータ、モデリングします！！\n5.0\n(425)\nJUN88FACTORY\n5,000 円\n3Dプリンターで印刷し、現物を納品します 手書き図面からでも印刷します。\n5.0\n(160)\nHK351\n5,000 円\n3Dプリント用データ・3DCGデータの製作致します 3Dプリンタ用データ作成！3DCG画像データ作成を致します！\n5.0\n(186)\nまんたろー\n5,000 円\n短納期！最新型！カラーで3Dプリントいたします 高性能3Dプリンターでプリンㇳいたします。\n5.0\n(164)\nマニー 3D CAD モデリング\n5,000 円\n3Dプリンター用データ作成、STLデータ作成します 3Dモデリング＋3Dプリンターでの出力まで対応可能です。\n5.0\n(416)\nHARU＠3Dモデリング×3Dプリンター\n5,000 円\n3D データ、CAD、モデリング、お手伝いします 3D図面作成、設計、シリコン型、クラファンサポートまで対応。\n5.0\n(625)\nマニー 3D CAD モデリング\n5,000 円\nスピード納品！ポップで目を惹く人物×動物描きます 挿絵・動画・グッズなど鮮やかな配色で個性を出したい方へ\n5.0\n(1374)\nhoppe（ほっぺ）\n10,000 円\n大型の3Dプリント品製作、納品致します 大型のフィギュアや、模型、建築模型など製作、納品致します！\n4.8\n(42)\nJUN88FACTORY\n20,000 円\n大型・多色・高精度3Dプリンターで印刷します 初めてでも大丈夫！技術サポート付きで安心のプリントサービス\n4.9\n(107)\nLaboRobo\n5,000 円\n3Dデータ作成/3Dモデリングします 初稿1日〜｜特急なら最短1時間（＋3,000円）\n5.0\n(43)\nCraft Nemi\n5,000 円\n製品試作品製作、モックアップ製作致します 製品の模型、ミニチュア製作、試作品製作致します！\n5.0\n(22)\nJUN88FACTORY\n10,000 円\n多色3Dプリント対応　3Dプリント量産行います 展示・販売に使える視線を止める多色3DプリントでGOOD！\n5.0\n(6)\nDesign Lover\n5,000 円\nお急ぎの方！人とはちょっと違う名刺を最速で作ります あなただけのオリジナル名刺を！翌日までにデザイン作成します！\n4.9\n(1181)\nFumi’ｓDesign\n8,000 円\nフィギュア・怪獣の3Dプリント用データ作成致します 簡単なイラストからでもオリジナルキャラクターのデータ作成！！\n5.0\n(65)\nまんたろー\n5,000 円\n3D-CADで3Dデータを作成します 3Dデータが必要な方へ、即日対応・短納期で作成します\n5.0\n(99)\nココログ工房\n5,000 円\nイラストをを3Dモデリング、3Dプリントします オリジナルキャラクターのフィギュアを作ります。\n5.0\n(77)\nleafpi\n5,000 円\n3Dプリンター用のデータ作成、3Dモデリングします アクセサリー、シリコン型、プラモデル、フィギュア、3Dデータ\n4.9\n(142)\nJUN88FACTORY\n5,000 円\n2D図面から3D CADデータを作成します 3Dプリント・STEP/STL変換対応\n5.0\n(11)\n3Dモデリング・設計・3Dプリント・図面\n5,000 円\n3Dプリンターで造形・多色造形致します 最大300mm、多色造形・塗装・3Dデータ作成まで幅広く対応\n5.0\n(172)\nHARU＠3Dモデリング×3Dプリンター\n5,000 円\n実績2000件以上！Live2Dモデルを制作します 全工程完結｜修正無制限｜著作権譲渡込｜初心者も安心\n5.0\n(728)\nユウシイ＠Vtuber制作\n20,000 円\n男性Vtuber専門｜Live2Dモデル制作します 実績2000件以上｜全工程対応・著作権譲渡込｜初心者も安心\n5.0\n(709)\nユウシイ＠Vtuber制作\n20,000 円\nよくある質問\n初めてですが、何を送ればいいですか？\n回答を見る \nこのデータで印刷できるか見てもらえますか？\n回答を見る \n料金はどう決まりますか？\n回答を見る \n納期はどのくらいですか？\n回答を見る \nどんな形でも印刷できますか？\n回答を見る \n素材や色は選べますか？\n回答を見る \n熱積層の品質レベル1〜5は何が違いますか？\n回答を見る \nデータがなくても頼めますか？\n回答を見る \n印刷方法やカラー印刷の違いが分かりません。\n回答を見る \nどのくらいの大きさまで作れますか？\n回答を見る \n \n評価・感想（275件）- 非常に良かった\n総合評価\n4.9\n星5 (非常に良かった)\t\n\t259件\n星4 (良かった)\t\n\t15件\n星3 (普通)\t\n\t0件\n星2 (悪かった)\t\n\t1件\n星1 (非常に悪かった)\t\n\t0件\n項目別評価\nサービス内容/提案のわかりやすさ \nコミュニケーション \nクオリティ \nスケジュール \n275件の評価\n評価で絞り込む\n星5で絞り込み\n星4で絞り込み\n星3で絞り込み\n星2で絞り込み\n星1で絞り込み\n10月27日\nclerk133 見積り相談\n3Dプリントはあまり詳しくありませんでしたが、Craft Nemiさんは丁寧に説明してくれました。お勧めします。\n参考になった\n1日前\n男性 見積り相談\n初めての作成で少しどんな物が出来るのか不安でしたが非常に良い出来上がりでした。\n次回作成する際は、又お願いしたいと思います\n参考になった\n3日前\ntech2525 見積り相談\n今回も大変速やかでご丁寧に対応いただきありがとうございました\nまた次回もよろしくお願いいたします\n参考になった\n10月23日\nてるちゃんこ 見積り相談\nとても丁寧に対応していただきましま！\n参考になった\n4日前\n匿名 見積り相談\nこの度は丁寧でスムーズなお取引をありがとうございました。\n個数や印刷時の条件など注文時点で取りまとめておくべき要求事項が漏れており、複数回仕様に関するやり取りを発生させてしまったにも関わらず丁寧にご対応頂きました。\n梱包も含め納品物は要求通りで問題ありませんでした。\n参考になった\n10月27日\n匿名 見積り相談\n今回もありがとうございました！\n参考になった\n10月30日\n匿名 見積り相談\n対応は丁寧で、連絡も適宜いただけて安心してお取引できました。\n参考になった\n6日前\niChirno 見積り相談\nこの度は小物にもかかわらず丁寧に対応いただきましてありがとうございます。\n参考になった\n6日前\n匿名 見積り相談\nとても丁寧な対応で安心しました。\n参考になった\n10月16日\n匿名 見積り相談\nとても綺麗な制作物をありがとうございました。大切に使わせていただきます。\n参考になった\nもっと見る \n \n関連キーワード\n光造形\nこのサービスを買った人がよく購入しているサービス\nテーパータイプチャンネル文字 制作します 激安オーダー看板制作、イメージ図でデザインを直感的に確認する\n4.5\n(27)\n株式会社東旭\n12,000 円\n高性能3Dプリンターでプリント出力し納品致します 3Dデータを3Dプリントし納品致します！\n5.0\n(651)\nJUN88FACTORY\n5,000 円\n大型・多色・高精度3Dプリンターで印刷します 初めてでも大丈夫！技術サポート付きで安心のプリントサービス\n4.9\n(107)\nLaboRobo\n5,000 円\nバッグ・ファッショングッズのデザイン・絵型作ります ブランド立ち上げ・オリジナル商品開発はプロにお任せ！\n5.0\n(28)\nナオコロンデザイン\n25,000 円\nサ4)3Dデータをプリンターで精密にお作りします 滑らかな表面を持つ立体パーツで組立や寸法などを検証したい方へ\n4.9\n(32)\nココナラ仲良\n15,000 円\nアイディアを3D CADデータ・図面に致します 簡単な図と打ち合わせを基に製品化できる3Dデータを作成します\n5.0\n(134)\nY’S design\n5,000 円\n3Dプリント用データ・3DCGデータの製作致します 3Dプリンタ用データ作成！3DCG画像データ作成を致します！\n5.0\n(186)\nまんたろー\n5,000 円\n3Dデータ作成/3Dモデリングします 初稿1日〜｜特急なら最短1時間（＋3,000円）\n5.0\n(43)\nCraft Nemi\n5,000 円\n初回特典価格　プロダクトデザインを提案します あなたの商品のデザインを作成します\n5.0\n(6)\nハイダデザイン\n36,000 円\n最高品質！個性溢れる男性Vtuber制作します デビュー完全サポート【表情差分8個】修正無制限、著作権譲渡\n5.0\n(305)\nRei ★\n65,000 円\n翌日納品◆商標登録の出願書類を、弁理士が作成します 事業を始めたら模倣を防ぐため商品名・サービス名の商標登録を！\n5.0\n(176)\n東京IT特許事務所_Isayama\n10,000 円\n日用品や雑貨のプロダクトデザイン承ります 様々なテイストにご対応いたします\n5.0\n(6)\nSekii design\n45,000 円\n3Dプリンターで造形・多色造形致します 最大300mm、多色造形・塗装・3Dデータ作成まで幅広く対応\n5.0\n(172)\nHARU＠3Dモデリング×3Dプリンター\n5,000 円\n光造形（SLA）で高精度3Dプリントを出力します 最短48時間で出荷可能・特大サイズ対応・高品質を低コストで\n4.6\n(12)\n3DSPRO\n5,000 円\nラフ修正無制限！絵柄寄せ可能！！イラスト作成します 【商用可】SNS集客・キャラデザ・似顔絵・アイコン・配信対応\n5.0\n(50)\nマオ　\n5,000 円\n成果につながるMeta広告を丸ごと運用代行します 運用歴8年｜Meta広告運用から改善提案までワンストップ対応\n4.9\n(20)\nミッツ｜広告×分析が得意な現役マーケター\n30,000 円\n3Dプリンターで印刷し、現物を納品します 手書き図面からでも印刷します。\n5.0\n(160)\nHK351\n5,000 円\n3D データ、CAD、モデリング、お手伝いします 3D図面作成、設計、シリコン型、クラファンサポートまで対応。\n5.0\n(625)\nマニー 3D CAD モデリング\n5,000 円\n3Dプリンタの使い方を教えます 初心者歓迎！プロが3Dプリンタの活かし方を教えます！\n5.0\n(12)\nCraft Nemi\n3,000 円\nジャンル不問！高品質な写真の撮影を代行します プロ仕様の機材で高画質・高品質な写真を提供します！\n5.0\n(36)\nSUGI WORK\n10,000 円\n推薦推奨Amazonや楽天の商品の専門家監修します 美容、トレーニング、食関連の商品の権威性アップに貢献します\n5.0\n(4)\n川並まどか\n22,000 円\nフィギュア・怪獣の3Dプリント用データ作成致します 簡単なイラストからでもオリジナルキャラクターのデータ作成！！\n5.0\n(65)\nまんたろー\n5,000 円\nあったらいいなを3Dでカタチにします 話題のMeshy AIも、はじめての3Dプリントも安心！\n5.0\n(7)\n森樹エンジニアリング\n3,000 円\nオリジナルのシリコンモールドを作製します 完全オリジナルのシリコン型を使ってみませんか？\n5.0\n(103)\nちゃーはんさん\n15,000 円\n3Dプリンター用データ作成の人気サービス\nミニチュア製作、模型製作致します 画像や漫画絵から模型製作致します！！\n5.0\n(45)\nJUN88FACTORY\n5,000 円\n3Dプリンターのデータ、印刷、発送代行いたします データ制作から印刷、発送まで一貫対応が可能です\n4.9\n(56)\nKOSEI／3DCGデザイナー\n5,000 円\n短納期！最新型！カラーで3Dプリントいたします 高性能3Dプリンターでプリンㇳいたします。\n5.0\n(164)\nマニー 3D CAD モデリング\n5,000 円\n３Dプリンタを使った樹脂部品を造形します 現役機械設計者が造形－現物複製OK！3Dスキャン対応サービス\n4.7\n(7)\nナンでもツクる\n5,000 円\n3Dプリンターで印刷し、現物を納品します 手書き図面からでも印刷します。\n5.0\n(160)\nHK351\n5,000 円\n多色3Dプリント対応　3Dプリント量産行います 展示・販売に使える視線を止める多色3DプリントでGOOD！\n5.0\n(6)\nDesign Lover\n5,000 円\n高品質なジュエリー3D CADデータをお作りします 匠の技と3D CADで挑戦するジュエリークリエイション\n5.0\n(44)\nKANAITO STUDIO\n15,000 円\n高性能3Dプリンターでプリント出力し納品致します 3Dデータを3Dプリントし納品致します！\n5.0\n(651)\nJUN88FACTORY\n5,000 円\nサ4)3Dデータをプリンターで精密にお作りします 滑らかな表面を持つ立体パーツで組立や寸法などを検証したい方へ\n4.9\n(32)\nココナラ仲良\n15,000 円\n大型・多色・高精度3Dプリンターで印刷します 初めてでも大丈夫！技術サポート付きで安心のプリントサービス\n4.9\n(107)\nLaboRobo\n5,000 円\n3Dプリント用データ・3DCGデータの製作致します 3Dプリンタ用データ作成！3DCG画像データ作成を致します！\n5.0\n(186)\nまんたろー\n5,000 円\n製品試作品製作、モックアップ製作致します 製品の模型、ミニチュア製作、試作品製作致します！\n5.0\n(22)\nJUN88FACTORY\n10,000 円\n格安＆高品質　樹脂・金属3Dプリント製造します 【全国対応】格安3Dプリント｜金属・樹脂を1個から量産まで\n5.0\n(2)\nプロメシアン\n10,000 円\n大型も対応！3Dプリンターで造形します データ持ち込み歓迎。データがない場合も設計から相談可\n4.5\n(54)\n大崎裕翔\n10,000 円\n選択的レーザー溶融で金属3Dプリントを出力します 最短48時間で出荷可能・特大サイズ対応・高品質を低コストで\n5.0\n(4)\n3DSPRO\n5,000 円\nジュエリー制作用CADデータを作成します 手描きや画像から立体設計に落とします\n5.0\n(21)\nAtelier Pindot\n5,000 円\n3Dプリンターで造形・多色造形致します 最大300mm、多色造形・塗装・3Dデータ作成まで幅広く対応\n5.0\n(172)\nHARU＠3Dモデリング×3Dプリンター\n5,000 円\n3Dプリンターで印刷します モデルはあるけどプリンターが無い方！\n4.9\n(40)\nちゃーはんさん\n5,000 円\nデータなしOK！ラフから実用品を3Dプリントします ラフや写真から設計・造形まで送料無料で丁寧に対応します。\n4.9\n(23)\nつのD7\n5,000 円\n24色対応！！3Dプリント代行します 多色展開！丁寧に造形・配送します！\n5.0\n(2)\nMinami_lab\n5,000 円\n大型の3Dプリント品製作、納品致します 大型のフィギュアや、模型、建築模型など製作、納品致します！\n4.8\n(42)\nJUN88FACTORY\n20,000 円\nキャラクターフィギュア製作致します 画像や漫画絵からキャラクターフィギュアを製作致します！！\n4.9\n(18)\nJUN88FACTORY\n10,000 円\n3Dプリンターを使い設計から制作まで行います 設計から3Dプリントまでお任せください！イメージをカタチに！\n5.0\n(3)\nものづくり工房tomoki\n10,000 円\nデータ作成・木質3Dプリント代行します アイデアを木の質感で立体化！データ作成から対応\n4.9\n(21)\nyuzuriha　11\n5,000 円\nお気に入り登録が多いサービス\n高性能3Dプリンターでプリント出力し納品致します 3Dデータを3Dプリントし納品致します！\n5.0\n(651)\nJUN88FACTORY\n5,000 円\n3Dプリンターで貴方のアイディア形にします 3Dプリンタでオリジナルグッツ作ってみませんか？\n4.9\n(183)\nちゃーはんさん\n5,000 円\n3Dデータ作成 追加料金で3Dプリントいたします 3Dデータ作成から追加料金で3Dプリントまで丁寧にサポート！\n4.9\n(45)\nHeso lab\n5,000 円\n短納期！最新型！カラーで3Dプリントいたします 高性能3Dプリンターでプリンㇳいたします。\n5.0\n(164)\nマニー 3D CAD モデリング\n5,000 円\n3Dプリンターでオリジナルフィギュアを作ります 3Dプリンター製オリジナルフィギュア制作（モデリング込み）\n4.9\n(55)\nつけまる\n5,000 円\n3Dプリンターで造形・多色造形致します 最大300mm、多色造形・塗装・3Dデータ作成まで幅広く対応\n5.0\n(172)\nHARU＠3Dモデリング×3Dプリンター\n5,000 円\n業務用大型３Ｄプリンターで超高精度積層出力できます 出力時間×単価の単純会計、フィラメントは大手メーカー品使用\n4.9\n(44)\nＳＭＫＣ\n5,000 円\nあなたの3Dデータを3Dプリンターで出力します 材料の専門家が高品質素材で最適な3Dプリント物をお届けします\n4.9\n(39)\nクロスリンク＆リサーチ\n5,000 円\n3Dプリント用データ・3DCGデータの製作致します 3Dプリンタ用データ作成！3DCG画像データ作成を致します！\n5.0\n(186)\nまんたろー\n5,000 円\nココナラ最安で3Dプリントいたします 3Dモデル作成・カラー3Dプリントもお安く提供します\n5.0\n(110)\nRitsu432\n5,000 円\n高品質なジュエリー3D CADデータをお作りします 匠の技と3D CADで挑戦するジュエリークリエイション\n5.0\n(44)\nKANAITO STUDIO\n15,000 円\n３Dプリンターで立体化します 各種３Dプリンターで出力対応可能です。\n5.0\n(13)\nイメージ 工房\n6,000 円\n大型・多色・高精度3Dプリンターで印刷します 初めてでも大丈夫！技術サポート付きで安心のプリントサービス\n4.9\n(107)\nLaboRobo\n5,000 円\nサ4)3Dデータをプリンターで精密にお作りします 滑らかな表面を持つ立体パーツで組立や寸法などを検証したい方へ\n4.9\n(32)\nココナラ仲良\n15,000 円\n3Dプリンターで印刷し、現物を納品します 手書き図面からでも印刷します。\n5.0\n(160)\nHK351\n5,000 円\n金属・樹脂の3Dプリントサービス承ります 3Dプリント用のデータ作成からプリントまでお任せください。\n5.0\n(3)\nものづくりデザイナー\n5,000 円\n3Dプリント代行します エンジニアが用途に合わせて高精度に造形\n4.9\n(50)\nぽよちゃんち\n8,000 円\nキャラクターフィギュア製作致します 画像や漫画絵からキャラクターフィギュアを製作致します！！\n4.9\n(18)\nJUN88FACTORY\n10,000 円\n3Dデータを3Dプリンター出力し、安くて高品質ます 3Dデータ作成、設計、3Dプリンㇳ、FDM\n4.9\n(36)\nKKPrintingLab\n5,000 円\nミニチュア製作、模型製作致します 画像や漫画絵から模型製作致します！！\n5.0\n(45)\nJUN88FACTORY\n5,000 円\n3Dプリンターで印刷します モデルはあるけどプリンターが無い方！\n4.9\n(40)\nちゃーはんさん\n5,000 円\n大型の3Dプリント品製作、納品致します 大型のフィギュアや、模型、建築模型など製作、納品致します！\n4.8\n(42)\nJUN88FACTORY\n20,000 円\n3Dプリンターのデータ、印刷、発送代行いたします データ制作から印刷、発送まで一貫対応が可能です\n4.9\n(56)\nKOSEI／3DCGデザイナー\n5,000 円\nサ3)透明部品を3Dプリンターで作成します クリア・半透明パーツの試作量産に！高精度・大型出力対応\n4.9\n(9)\nココナラ仲良\n18,000 円\n3Dプリンター用データ作成の定番サービス\n3Dプリンターのデータ、印刷、発送代行いたします データ制作から印刷、発送まで一貫対応が可能です\n4.9\n(56)\nKOSEI／3DCGデザイナー\n5,000 円\nオリジナルワッペンバッジを作成します 3Dプリンターで自分だけのデザインを安価に作成！\n5.0\n(2)\n花緑青製作\n5,000 円\nジュエリー用キャスト用樹脂で3Dプリント出力します 制作工程を理解した視点で仕上げるから安心！\n4.9\n(15)\nAtelier Pindot\n5,000 円\nデータ作成・木質3Dプリント代行します アイデアを木の質感で立体化！データ作成から対応\n4.9\n(21)\nyuzuriha　11\n5,000 円\n3Dプリンターで樹脂歯車代替えパーツをつくります 生産設備を自分で保守してコスト削減してみませんか！？\n4.9\n(34)\nちゃーはんさん\n5,000 円\n多色3Dプリント対応　3Dプリント量産行います 展示・販売に使える視線を止める多色3DプリントでGOOD！\n5.0\n(6)\nDesign Lover\n5,000 円\nデータなしOK！ラフから実用品を3Dプリントします ラフや写真から設計・造形まで送料無料で丁寧に対応します。\n4.9\n(23)\nつのD7\n5,000 円\nアイデアを形に。3Dプリント用モデルを制作します STLデータ作成から造形サポートまで対応します。\n5.0\n(8)\n大櫃 湧也／YuI Studio\n5,000 円\n初心者歓迎！モデリング込みで3Dプリント代行します 「データが作れない」「手書きラフしかない」方もOK。\n5.0\n(2)\nしょへ＠ソフトエンジニア\n5,000 円\nジュエリー制作用CADデータを作成します 手描きや画像から立体設計に落とします\n5.0\n(21)\nAtelier Pindot\n5,000 円\n３Dプリンタを使った樹脂部品を造形します 現役機械設計者が造形－現物複製OK！3Dスキャン対応サービス\n4.7\n(7)\nナンでもツクる\n5,000 円\n初心者大歓迎！3D造形用のデータ製作承ります 簡単なラフ画から3Dプリンター用のモデルデータを製作します。\n5.0\n(11)\nokegawa\n9,000 円\n希望価格にて業務用3Dプリンターで作成します まずは希望価格等含めて気軽にご相談してください。\n5.0\n(2)\nCADuser\n5,000 円\n光造形（SLA）で高精度3Dプリントを出力します 最短48時間で出荷可能・特大サイズ対応・高品質を低コストで\n4.6\n(12)\n3DSPRO\n5,000 円\n最大30cm四方　3Dプリント代行します 小さなアイデア・大きなかたち　モノづくりに興味のある全て方へ\n5.0\n(4)\nケイティ 電機\n5,000 円\n3Dプリンターで貴方のアイディア形にします 3Dプリンタでオリジナルグッツ作ってみませんか？\n4.9\n(183)\nちゃーはんさん\n5,000 円\nフィギュア用3Dデータを製作致します 先方の要望に合わせてジャンル問わず製作致します。\n5.0\n(1)\n鹿山田\n70,000 円\n3Dデータ作成/追加料金で3Dプリントします 3DCADであなたのデザイン（想い）を形に\n5.0\n(2)\nラインライン\n5,000 円\n送料無料で部品複製承ります 壊れた部品・無くした部品を３Dプリンタで復元します\n4.8\n(5)\nHectare\n12,000 円\nCADデータ/3Dプリント用データの制作いたします 商品開発にて試作品を制作したい方々へ\n5.0\n(17)\nStudio Seventhwell\n5,000 円\n3Dプリンターで印刷し、現物を納品します 手書き図面からでも印刷します。\n5.0\n(160)\nHK351\n5,000 円\nサ3)透明部品を3Dプリンターで作成します クリア・半透明パーツの試作量産に！高精度・大型出力対応\n4.9\n(9)\nココナラ仲良\n18,000 円\n3Dプリンターでデータを印刷し、現物を納品します 小物・試作・1点ものもお気軽にご相談ください！\n5.0\n(2)\nななりんくす\n5,000 円\n3Dプリンターを使い設計から制作まで行います 設計から3Dプリントまでお任せください！イメージをカタチに！\n5.0\n(3)\nものづくり工房tomoki\n10,000 円",
+ "レビューのページ": []
+}
