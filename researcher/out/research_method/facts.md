@@ -1038,16 +1038,22 @@
   - 「数字ひとつで決めず、組み合わせて“桁”で捉えるのがコツです」（https://shokubalog.com/articles/kaisha-kibo-shirabe-kata）
   - 「官報・電子公告の費用比較と年間4,000円で始める最安の方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告は英語で何という?公式訳と関連用語の使い方を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「利益を生み出す構造（損益分岐点）から逆算するのがコツです」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「【早見表】会社の規模×公告方法で売上高がわかるかどうかが決まる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「Q4. 非上場企業の売上高を無料で確実に知る方法はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「「どんな会社の、どの決算公告なら売上高がわかるのか」を一覧できるよう、会社の規模と公告方法の組み合わせごとに整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「第二に、公告方法が電子公告の場合は要旨ではなく全文の掲載が必要ですが、それでも公告対象が貸借対照表だけであることに変わりはありません」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告のコストは公告方法によって大きく異なります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告のやり方｜3つの方法の選び方と手続きの流れ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告を無料で検索する5つの方法｜目的別おすすめサイトを徹底比較【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「How To Estimate A Private Company's Revenue (2026)」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
+  - 「How to Estimate a Private Company’s Revenue: A Practical Guide」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
+  - 「How to estimate a private company’s revenue is one of the most common challenges faced by investors, sales teams, job seekers, and business analysts. Unlike public companies, private businesses aren’t required to disclose their financial statements, which makes revenue estimation part research and part educated calculation.」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
+  - 「This article walks you through practical, reliable methods to estimate a private company’s revenue using publicly available data, industry benchmarks, and smart analytical techniques. Whether you’re evaluating a potential business partner, researching a competitor, or preparing for B2B sales outreach, you’ll find actionable steps here.」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「How to Find Revenue Estimates for Private Companies | Inven」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「How to Find Revenue Estimates for Private Companies」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Yet, revenue estimates are a crucial part of private company analysis - so how are they achieved then?」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
+  - 「Why Private Company Revenue Estimates Matter」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
   - 「推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし」（https://note.com/pythonddd/n/nd056ead22003）
   - 「１．従業員数を推定する」（https://note.com/pythonddd/n/nd056ead22003）
   - 「２．人件費を推定する」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1056,12 +1062,6 @@
   - 「６．売上高を推定する」（https://note.com/pythonddd/n/nd056ead22003）
   - 「８．固定資産を推定する」（https://note.com/pythonddd/n/nd056ead22003）
   - 「利益を生み出す構造（損益分岐点）から逆算するのがコツです」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「それも無ければ、店舗の有無やおおよその面積から推定します」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「それでも推定できないレベルであれば、「従業員数5名以下の規模」と仮定して問題ありません」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「この給与額を年収換算し、推定した従業員数を掛ければ、固定費の大部分を占める「人件費」が算出できます」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「本店住所や店舗の面積から、残りの固定費を推定します」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「自社保有とみられる場合は路線価などから逆算します（※自社保有の不動産は後述するBSの推定に直結します）」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「最後に肌感覚で、その他の固定費用を足します（これは何百件と推定決算書を作れば感覚が磨かれます）」（https://note.com/pythonddd/n/nd056ead22003）
 - 一次情報の探し方：
   - 「本ガイドでは採用担当者を納得させる具体的な文例と、AnyGenを活用した即戦力書類の自動作成法を解説します」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
   - 「Export to PowerPoint, Google Slides or PDF · No watermark on free tier」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
@@ -1095,6 +1095,7 @@
   - 「「大会社」に該当するかどうかによって、公告すべき書類の範囲が変わる点にも注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
   - 「電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
 - 実例：
+  - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）」（https://note.com/pythonddd/n/nd056ead22003）
   - 「例えば回収サイクルが30日なら、PLで推定した「日商 × 30日分」が売掛金となります」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1109,7 +1110,6 @@
   - 「例えば、単位が「百万円」の表にある「1,200」は、1,200万円ではなく12億円です」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「例えば、架空のA社グループが食品卸と発注支援ソフトを営んでいるとします」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
   - 「検索結果が3件あることを「3つの独立した情報で確認できた」とは扱いません」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「例えば月額3万円で、年間平均200契約、期末時点では300契約まで増えた架空のサービスを考えます」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
 - 検索結果の抜粋：
   - 「How to Find Company Revenue: 6 Methods (2026) — Key takeaways To find a company's revenue, first check whether it is public, registered where accounts are filed, or neither. Public companies report exact revenue in SEC filings and annual reports. Many private companies in France, the UK, and the EU file turnover in official registries. When no figure is filed, estimate it with the revenue-per-empl」（https://derrick-app.com/business-data/find-revenue）
 
@@ -1399,9 +1399,9 @@
   - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
   - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
   - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=3165cbb9ee15e916e3ec09e96fdd5e5a）
-  - 「新卒時代によくやっていたデスクトップリサーチの失敗と、現在の対処法｜仙田 真郷」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「新卒時代によくやっていたデスクトップリサーチの失敗と、現在の対処法」（https://note.com/sendamasato/n/n2aa275f51bad）
-  - 「デスクリサーチをすることが度々あり、たくさん失敗をしてきました」（https://note.com/sendamasato/n/n2aa275f51bad）
+  - 「有名になりたいという気持ちは私にもありますが、仕事で自分の露出が目的化しないよう注意しています」（https://note.com/diisuket/n/n01a1dc6cd4e7）
+  - 「ただ自分に対して使う場合には、自らが使う言葉で錯覚しないよう細心の注意を払っています」（https://note.com/diisuket/n/n01a1dc6cd4e7）
+  - 「本業で、社員インタビュー（採用広報など）・顧客インタビュー（導入事例など）・各種表彰（社内外）を受ける際も注意が必要です」（https://note.com/diisuket/n/n01a1dc6cd4e7）
 - 実例：
   - 「あるいは、検索結果を一つずつ確認しているうちに、情報収集だけで何日もかかってしまうことはありませんか」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
   - 「まずは導入事例の資料ででデスクリサーチをどう効率化し、調査結果をどのように整理したか確認してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
@@ -3216,7 +3216,7 @@
   - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -5632,13 +5632,15 @@
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「読むときの4つの注意点」（https://note.com/joshima_s/n/n04cab9927719）
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「ウェブで閲覧した官報を根拠資料として使用する場合、以前は「正本ではない」という注意書きが必要でしたが、電子化後はウェブ版がそのまま正本として扱えます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「官報の決算公告を閲覧する際には、いくつかの実務上の注意点があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 実例：
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -6932,11 +6934,11 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
