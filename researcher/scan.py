@@ -62,7 +62,11 @@ DEFN = [("連結", re.compile(r"連結")), ("単体", re.compile(r"単体|個別
         ("出荷ベース", re.compile(r"出荷")), ("販売・小売ベース", re.compile(r"小売|販売額|販売ベース")),
         ("会員企業のみ", re.compile(r"会員企業|会員各社|加盟")),
         # 2026-11-05 4-26：付加価値額は従業者規模で式が違う（30人以上は生産額から・減価償却を引く、9人以下は引かない。RIETI 05-P-001）。出荷額・加工賃と同じ欄で比べない
-        ("付加価値", re.compile(r"付加価値")), ("加工賃", re.compile(r"加工賃")), ("規模の裾切り", re.compile(r"(従業者|従業員)\s*\d+\s*人以上|\d+人以上の事業所"))]
+        ("付加価値", re.compile(r"付加価値")), ("加工賃", re.compile(r"加工賃")), ("規模の裾切り", re.compile(r"(従業者|従業員)\s*\d+\s*人以上|\d+人以上の事業所")),
+        # 2026-11-06 4-58（ゴムマリ「経済センサスの統計表の取り方と活用法」：令和6年基礎調査と令和3年活動調査は対象の範囲が違い、統計局が比較に留意としている。
+        # 売上（収入）金額は必要な事項が得られた事業所だけの集計で、事業所数の全体とは分母が違う）。調査の種類と売上の集計範囲を定義に残し、混ざれば「定義が混在」で出す
+        ("センサス基礎調査", re.compile(r"経済センサス\s*[-‐ー－―]?\s*基礎調査")), ("センサス活動調査", re.compile(r"経済センサス\s*[-‐ー－―]?\s*活動調査")),
+        ("売上は回答事業所のみ", re.compile(r"(必要な事項の数値が得られた|売上\s*[（(]?収入[）)]?\s*金額.{0,20}(集計対象|得られた事業所))"))]
 NUM = re.compile(r"(\d{1,3}(?:,\d{3})+|\d+(?:\.\d+)?)\s*(兆円|億円|百万円|千万円|万円|千円|円|万人|千人|人|名|社|事業所|件|倍|％|%|台)")
 YEAR = re.compile(r"(20[0-3]\d|19[89]\d)\s*年")
 TO_MAN = {"兆円": 1e8, "億円": 1e4, "千万円": 1e3, "百万円": 100, "万円": 1, "千円": 0.1, "円": 1e-4}
@@ -197,6 +201,9 @@ SHORTQ = 12
 AMITEM = re.compile(r"金属AM|AM受託|積層造形|3Dプリン|WAAM|DED", re.I)
 AMWORD = re.compile(r"積層|3D|ＡＭ|\bAM\b|アディティブ|additive|プリンタ", re.I)
 MTORDER = re.compile(r"工作機械(の)?受注|日工会|日本工作機械工業会")
+SHIPWORK = re.compile(r"造船.{0,12}(就労|従業|人手|働く)")
+SEAFARER = re.compile(r"(船員|外航|内航|定員|乗組)")
+SHIPYARD = re.compile(r"(造船|造船所|舶用|建造)")
 def rows_for(topic):
     for f in glob.glob(os.path.join(OUT, topic, "companies", "*.json")):
         try: d = json.load(open(f, encoding="utf-8"))
@@ -221,6 +228,12 @@ def rows_from_doc(topic, d):
                 # 積層造形・3Dプリンターの語を含まないものは、その品目の事実にしない
                 if AMITEM.search(name) and MTORDER.search(q) and not AMWORD.search(q):
                     if NUM.search(q): drop(topic, "主語が別の統計（工作機械受注・4-5）")
+                    continue
+                # 2026-11-06 走査の失敗から（4-58 主語の一致）：mfg_capacity の「造船業の就労者数」の品目に、国交省の資料の船員の人数
+                # （外航・内航・日本人・外国人の船員、練習船の定員）が社員数として入った。造船所で働く人と船に乗る船員は別の対象。
+                # 品目が造船の就労者・従業員なのに、引用が船員・外航・内航・定員の語を含み造船・造船所の語を含まないものは、その品目の事実にしない
+                if SHIPWORK.search(name) and SEAFARER.search(q) and not SHIPYARD.search(q):
+                    if NUM.search(q): drop(topic, "主語が別の対象（船員・定員・4-58）")
                     continue
                 ys = YEAR.findall(q)
                 ctx = context_of(q)
