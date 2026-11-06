@@ -741,6 +741,17 @@ def scan(topic):
     while _pool and len(_pick) < 3:
         it0 = _rg.choices(list(_pool), weights=list(_pool.values()))[0]; _pick.append(f"{it0}（{_pool.pop(it0)}件）")
     md += ["- 目で確かめる抜き取り（品目ごと・件数に比例・4-50）：" + "、".join(_pick) + "。この品目の引用は全件を本文と照らす"]
+    # 2026-11-06 4-52（Binette ら arXiv 2210.01230：件数に比例して抜いた品目で誤りを数えたら、素朴に「誤り合計÷確かめた合計」とせず、
+    # 抜かれやすさで重みを戻す（件数比例なら品目ごとの誤り率の平均）。素朴な割合は大きい品目に引っ張られる）。
+    # Claude が走査で本文と照らした結果を out/<テーマ>/spot_check.csv（品目,確かめた件数,誤りの件数）に残すと、ここで両方を出す
+    try:
+        import csv as _csv
+        sc = [r for r in _csv.DictReader(open(os.path.join(OUT, topic, "spot_check.csv"), encoding="utf-8")) if int(r.get("確かめた件数") or 0) > 0]
+    except Exception: sc = []
+    if sc:
+        n_ = sum(int(r["確かめた件数"]) for r in sc); e_ = sum(int(r["誤りの件数"] or 0) for r in sc)
+        pps = statistics.mean(int(r["誤りの件数"] or 0) / int(r["確かめた件数"]) for r in sc)
+        md += [f"- 抜き取りの誤り率（4-52）：素朴 {e_}/{n_}＝{e_ / n_:.1%}／抜かれやすさで重みを戻した値 {pps:.1%}（{len(sc)}品目）。結論には後者を使い、品目が5未満なら幅が広いと書く"]
     md += ["- 鍵の欠け率（照合の前の棚卸し・4-42）：" + "、".join(f"{k} {sum(1 for r in rows if f(r))}/{len(rows)}件（{sum(1 for r in rows if f(r)) * 100 / len(rows):.0f}%）" for k, f in keys), ""]
     by_item = {}
     for r in rows: by_item.setdefault(r["品目"], []).append(r)
@@ -1161,7 +1172,26 @@ def scan(topic):
                    "片寄りは目立たない（上下の直しが打ち消し合う）")
         md += ["## 改訂の分析（同じ欄・同じ年で値が直った分・4-43）",
                f"- 件数 {len(rv)}／平均改訂（向き）{mr:+.1%}／平均絶対改訂（大きさ）{mar:.1%}／上方 {up / len(rv):.0%}・下方 {dn / len(rv):.0%}・ゼロ {1 - (up + dn) / len(rv):.0%}／片寄りの t {tval:+.2f}（|t|≥2 で偶然の幅を超える・4-46）",
-               f"- {verdict}", ""]
+               f"- {verdict}"]
+        # 2026-11-06 4-52（rOpenSci reviser：改訂の要約は平均だけでなく分位・ばらつき・続けて同じ向きに直るか（系列相関）を出し、
+        # 何回目の公表から先は直しが小さくなるか（効率的な版）を選ぶ）。欄×年ごとに直しの順番を数え、順番ごとの平均絶対改訂を出す
+        if len(rv) >= 5:
+            q = statistics.quantiles(rv, n=10)
+            md += [f"- 改訂の分位（4-52）：下10% {q[0]:+.1%}／中央 {statistics.median(rv):+.1%}／上10% {q[-1]:+.1%}。中央と平均が大きく離れたら、少数の大きな直しが平均を動かしている"]
+        seq = {}
+        for x in revs:
+            if abs(x["率"]) < 100: seq.setdefault((x["欄"], x["年"]), []).append(x["率"])
+        byord = {}
+        for v in seq.values():
+            for i, r_ in enumerate(v): byord.setdefault(min(i + 1, 3), []).append(abs(r_))
+        if byord:
+            md += ["- 直しの順番ごとの平均絶対改訂（4-52・効率的な版）：" + "、".join(f"{'3回目以降' if k == 3 else f'{k}回目'} {statistics.mean(v):.1%}（{len(v)}件）" for k, v in sorted(byord.items()))
+                   + "。後の回で小さくなっていれば、その回の値から採る。小さくならなければ版を待っても締まらない"]
+        pairs = [(v[i], v[i + 1]) for v in seq.values() for i in range(len(v) - 1)]
+        if len(pairs) >= 5 and len({a for a, _ in pairs}) > 1 and len({b for _, b in pairs}) > 1:
+            rho = statistics.correlation([a for a, _ in pairs], [b for _, b in pairs])
+            md += [f"- 続けての直しの相関（4-52）：{rho:+.2f}（{len(pairs)}組）。" + ("正で大きい（0.3以上）：同じ欄が同じ向きに直り続ける。途中の値で言い切らず、直りが止まるまで待つ" if rho >= 0.3 else "負で大きい（-0.3以下）：直しが行き過ぎて戻る。直後の値を採らない" if rho <= -0.3 else "目立たない")]
+        md += [""]
     md += ["## 前回からの変化（採る値・確度・年。4-38）", *(ch[:40] or (["（変化なし）"] if prev is not None else ["（初回。次の実行から比べる）"])), *([f"- ほか{len(ch) - 40}件"] if len(ch) > 40 else []), ""]
     json.dump(picks, open(pf, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     # 2026-11-05 4-39：同じ文の中の総額と人数（例「年間の中途採用費用総額は平均650.6万円、採用人数の平均は20.8人」）から
