@@ -8,7 +8,7 @@
  ],
  "context": "統計",
  "kind": "market",
- "researched_at": "2026-11-06T15:02:12.270390+00:00",
+ "researched_at": "2026-11-06T18:54:38.486029+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -34,9 +34,9 @@
     "method": "http"
    },
    {
-    "url": "https://sukyojuku.com/joho1-data-seikei/",
+    "url": "https://buralog.jp/excel-20261007-pivot-distinct-count/",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
@@ -44,9 +44,9 @@
     "method": "http"
    },
    {
-    "url": "https://buralog.jp/excel-20261007-pivot-distinct-count/",
+    "url": "https://sukyojuku.com/joho1-data-seikei/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://www.nier.go.jp/edsc/edp/_uploads/2026/08/26edata_02.pdf",
@@ -59,7 +59,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://note.com/koukou_tools/n/n5a0ad435e759",
+    "url": "https://data-viz-lab.com/excel",
     "status": "ok",
     "method": "http"
    },
@@ -69,7 +69,7 @@
     "method": "http"
    },
    {
-    "url": "https://data-viz-lab.com/excel",
+    "url": "https://note.com/koukou_tools/n/n5a0ad435e759",
     "status": "ok",
     "method": "http"
    },
@@ -79,9 +79,9 @@
     "method": "http"
    },
    {
-    "url": "https://it-notes.stylemap.co.jp/excel/excel%E3%81%AE%E7%B5%B1%E5%90%88%E6%A9%9F%E8%83%BD%E3%81%A7%E8%A4%87%E6%95%B0%E9%9B%86%E8%A8%88%E8%A1%A8%E3%81%AE%E5%B7%AE%E5%88%86%E3%81%A8%E5%90%88%E8%A8%88%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81/",
+    "url": "https://note.com/ai_henshubu_note/n/n6aa0bb5c7bb8",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://egaoyo.com/data-collation",
@@ -89,17 +89,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_henshubu_note/n/n6aa0bb5c7bb8",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ai-goodwork.tokyo/excel-total-reconcile/",
+    "url": "https://it-notes.stylemap.co.jp/excel/excel%E3%81%AE%E7%B5%B1%E5%90%88%E6%A9%9F%E8%83%BD%E3%81%A7%E8%A4%87%E6%95%B0%E9%9B%86%E8%A8%88%E8%A1%A8%E3%81%AE%E5%B7%AE%E5%88%86%E3%81%A8%E5%90%88%E8%A8%88%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81/",
     "status": "ok",
     "method": "browser"
    },
    {
     "url": "https://wakara.co.jp/mathlog/20260918",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--8pr380g.com/ja/blog/excel-data-comparison/",
     "status": "ok",
     "method": "http"
    },
@@ -143,9 +143,9 @@
     "https://www.stat.go.jp/",
     "https://www.soumu.go.jp/main_content/000723697.pdf",
     "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
-    "https://sukyojuku.com/joho1-data-seikei/",
-    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
     "https://buralog.jp/excel-20261007-pivot-distinct-count/",
+    "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
+    "https://sukyojuku.com/joho1-data-seikei/",
     "https://www.nier.go.jp/edsc/edp/_uploads/2026/08/26edata_02.pdf",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
     "https://note.com/easy_honest8308/n/n4b5c35ba34b1"
@@ -163,7 +163,7 @@
     "https://sukyojuku.com/joho1-data-seikei/",
     "https://www.nier.go.jp/edsc/edp/_uploads/2026/08/26edata_02.pdf",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
-    "https://note.com/koukou_tools/n/n5a0ad435e759"
+    "https://data-viz-lab.com/excel"
    ]
   },
   {
@@ -178,21 +178,21 @@
     "https://sukyojuku.com/joho1-data-seikei/",
     "https://www.nier.go.jp/edsc/edp/_uploads/2026/08/26edata_02.pdf",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
-    "https://note.com/easy_honest8308/n/n4b5c35ba34b1"
+    "https://data-viz-lab.com/excel"
    ]
   },
   {
    "query": "統計表を落としたあとの照合（全国の合計を結果の概要と突き合わせる・除いた行の定義・表を移したときの件数とキーと値の照合） 事例",
    "results": [
     "https://data-viz-lab.com/large-scale-excel-data",
-    "https://www.soumu.go.jp/main_content/000723697.pdf",
     "https://www.stat.go.jp/",
-    "https://sukyojuku.com/joho1-data-seikei/",
+    "https://www.soumu.go.jp/main_content/000723697.pdf",
     "https://shigotonotonari.jp/2026/11/01/excel-merge-row-count-check/",
-    "https://www.nier.go.jp/edsc/edp/_uploads/2026/08/26edata_02.pdf",
-    "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
     "https://buralog.jp/excel-20261007-pivot-distinct-count/",
     "https://www.microsoft.com/ja-jp/area/biz/smb/column-excel-remove-duplicates",
+    "https://sukyojuku.com/joho1-data-seikei/",
+    "https://www.nier.go.jp/edsc/edp/_uploads/2026/08/26edata_02.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
     "https://data-viz-lab.com/excel"
    ]
   },
@@ -206,9 +206,9 @@
     "https://www.datafold.com/blog/data-reconciliation-best-practices/",
     "https://biz.libretexts.org/Courses/East_Los_Angeles_College/Business_Data_Reporting_(Word_and_Excel)/06%3A_Excel_Tables_and_Data_Analysis/6.01%3A_Understanding_Data_Data_Validation_and_Data_Tables",
     "https://www.hyperbots.com/glossary/reconciliation-data-validation",
-    "https://www.youtube.com/watch?v=H7k_DY-iPJE",
     "https://montecarlo.ai/blog-data-reconciliation",
-    "https://github.com/Kiran-p-Kumar/data-validation-reconciliation-excel"
+    "https://performalytic.com/blog/data-reconciliation-guide/",
+    "https://www.datagaps.com/blog/automated-data-reconciliation-across-multiple-sources/"
    ]
   },
   {
@@ -217,13 +217,13 @@
     "https://note.com/reading_monkey/n/ncf0dd10190ca",
     "https://note.com/jpopendata/n/nba7be02408a2",
     "https://note.com/sion_remake0415/n/nc78b91232028",
+    "https://note.com/bizgram/n/n9a587c22ec50",
     "https://note.com/mizeee7956/n/n7312e52443df",
     "https://note.com/doctor_nopopon24/n/ne4f4ba006636",
-    "https://note.com/bizgram/n/n9a587c22ec50",
     "https://note.com/ichi_twnovel/n/n9bde056023e1",
     "https://note.com/yajirushi_works/n/n93360ad7b5b2",
-    "https://note.com/slownewsjp/n/n37ca7d5001d5",
-    "https://note.com/lifelink/n/n6399646c2ecd"
+    "https://note.com/lifelink/n/n6399646c2ecd",
+    "https://note.com/slownewsjp/n/n37ca7d5001d5"
    ]
   },
   {
@@ -232,13 +232,7 @@
     "https://x.com/KagawaTomo/status/2117526795083821560",
     "https://x.com/muj_k",
     "https://x.com/KagawaTomo/article/2077913764050190547",
-    "https://x.com/KeroNewsJP",
-    "https://note.com/easy_honest8308/n/n4b5c35ba34b1",
-    "https://note.com/aiofficelab/n/n0a370cbccddd",
-    "https://note.com/ai_henshubu_note/n/n6aa0bb5c7bb8",
-    "https://note.com/kotsukotsu_jimu/n/n983b7c3f6ffd",
-    "https://note.com/keiri_no_arkr/n/n90f7ef80201e",
-    "https://note.com/crisp_borage7350/n/n0244a0e25795"
+    "https://x.com/KeroNewsJP"
    ]
   },
   {
@@ -262,13 +256,13 @@
     "https://www.facebook.com/100067712509676/posts/7215ee9c/1445549187712151/",
     "https://www.facebook.com/maffjapan/posts/%E6%B5%B7%E3%81%AE%E5%B9%B8%E3%82%92%E5%AE%89%E5%85%A8%E3%81%AB%E9%A3%9F%E3%81%B9%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8F%E3%81%9F%E3%82%81%E3%82%A2%E3%83%8B%E3%82%B5%E3%82%AD%E3%82%B9%E3%81%AB%E3%81%94%E6%B3%A8%E6%84%8F%E3%82%92%E8%A1%8C%E6%A5%BD%E3%81%A8%E9%A3%9F%E6%AC%B2%E3%81%AE%E7%A7%8B%E3%81%AB%E9%AD%9A%E9%87%A3%E3%82%8A%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80%E6%96%B9%E3%82%82%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E9%AD%9A%E3%81%AE%E5%86%85%E8%87%93%E3%82%84%E8%BA%AB%E3%81%AB%E7%B4%84%EF%BC%92cm%E3%81%AE%E7%99%BD%E8%89%B2%E3%81%AE%E7%B3%B8%E7%8A%B6%E3%81%AE%E3%82%82%E3%81%AE%E3%82%92/955118366654376/",
     "https://www.facebook.com/naoto.matsushita.1016/",
-    "https://www.facebook.com/nihonmiraiken/",
     "https://www.facebook.com/61584187930928/posts/%E3%81%95%E3%81%91-vs-%E3%83%9E%E3%82%B0%E3%83%AD-%E5%B9%B4%E9%96%93%E8%B3%BC%E5%85%A5%E6%95%B0%E9%87%8F-vsmap-no024%E5%87%BA%E5%85%B8%E7%B7%8F%E5%8B%99%E7%9C%81%E7%B5%B1%E8%A8%88%E5%B1%80%E5%AE%B6%E8%A8%88%E8%AA%BF%E6%9F%BB%E4%BA%8C%E4%BA%BA%E4%BB%A5%E4%B8%8A%E3%81%AE%E4%B8%96%E5%B8%AF%E5%93%81%E7%9B%AE%E5%88%A5%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%BA%81%E6%89%80%E5%9C%A8%E5%B8%82%E5%8F%8A%E3%81%B3%E6%94%BF%E4%BB%A4%E6%8C%87%E5%AE%9A%E9%83%BD%E5%B8%82%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B02023%E5%B9%B4%E4%BB%A4%E5%92%8C5%E5%B9%B4/122151082635139597/",
-    "https://www.facebook.com/61584187930928/posts/%E9%98%AA%E7%A5%9E%E5%84%AA%E5%8B%9D-%E9%96%A2%E5%BF%83%E5%BA%A6google%E6%A4%9C%E7%B4%A2%E6%8C%87%E6%95%B0%E7%9B%B4%E8%BF%911%E9%80%B1%E9%96%93-%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5map-no235%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%AFgoogle%E6%A4%9C%E7%B4%A2%E6%8C%87%E6%95%B0%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E7%8B%AC%E8%87%AA%E3%81%AB9%E6%AE%B5%E9%9A%8E%E3%81%B8%E5%8C%BA%E5%88%86%E6%A4%9C%E7%B4%A2%E6%8C%87%E6%95%B0%E3%81%AF%E5%90%84%E5%9C%B0%E5%9F%9F%E3%81%AE%E7%B7%8F%E6%A4%9C%E7%B4%A2%E6%95%B0%E3%81%AB%E5%8D%A0/122148820659139597/",
+    "https://www.facebook.com/groups/aiacademy.jp/",
+    "https://www.facebook.com/nihonmiraiken/",
     "https://www.facebook.com/61584187930928/posts/%E3%83%97%E3%83%AD%E9%87%8E%E7%90%8312%E7%90%83%E5%9B%A3%E4%BA%BA%E6%B0%97-%E5%BE%8C%E7%B7%A8google%E6%A4%9C%E7%B4%A2%E5%89%B2%E5%90%88%E7%9B%B4%E8%BF%911%E5%B9%B4-%E5%8B%A2%E5%8A%9B%E5%9B%B3map-no003%E6%9C%AC%E5%8B%95%E7%94%BB%E3%81%AE%E4%BA%BA%E6%B0%97%E3%81%AFgoogle-trends%E3%81%AE%E6%A4%9C%E7%B4%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%96%A2%E5%BF%83%E5%BA%A6%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E6%AF%94%E8%BC%83%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE/122149712877139597/",
     "https://www.facebook.com/groups/960024861146835/",
-    "https://www.facebook.com/61584187930928/posts/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%87%BA%E8%BA%AB%E5%88%A5-%E3%82%BB%E3%83%AA%E3%83%BC%E3%82%B0%E4%BB%8A%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E6%9C%80%E9%AB%98%E6%89%93%E7%8E%87%E9%81%B8%E6%89%8B-%E3%83%87%E3%83%BC%E3%82%BF%E5%9C%B0%E5%9B%B3map-no0022026%E5%B9%B4%E5%87%BA%E5%85%B8%E6%97%A5%E6%9C%AC%E9%87%8E%E7%90%83%E6%A9%9F%E6%A7%8Bnpb2026%E5%B9%B4%E5%BA%A6-%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B0%E5%80%8B%E4%BA%BA%E6%89%93%E6%92%83%E6%88%90%E7%B8%BE%E8%A6%8F%E5%AE%9A%E6%89%93%E5%B8%AD%E4%BB%A5/122150238417139597/",
-    "https://www.facebook.com/61584187930928/posts/122146308153139597/"
+    "https://www.facebook.com/61584187930928/posts/%E9%98%AA%E7%A5%9E%E5%84%AA%E5%8B%9D-%E9%96%A2%E5%BF%83%E5%BA%A6google%E6%A4%9C%E7%B4%A2%E6%8C%87%E6%95%B0%E7%9B%B4%E8%BF%911%E9%80%B1%E9%96%93-%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5map-no235%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%AFgoogle%E6%A4%9C%E7%B4%A2%E6%8C%87%E6%95%B0%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E7%8B%AC%E8%87%AA%E3%81%AB9%E6%AE%B5%E9%9A%8E%E3%81%B8%E5%8C%BA%E5%88%86%E6%A4%9C%E7%B4%A2%E6%8C%87%E6%95%B0%E3%81%AF%E5%90%84%E5%9C%B0%E5%9F%9F%E3%81%AE%E7%B7%8F%E6%A4%9C%E7%B4%A2%E6%95%B0%E3%81%AB%E5%8D%A0/122148820659139597/",
+    "https://www.facebook.com/61584187930928/posts/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%87%BA%E8%BA%AB%E5%88%A5-%E3%82%BB%E3%83%AA%E3%83%BC%E3%82%B0%E4%BB%8A%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E6%9C%80%E9%AB%98%E6%89%93%E7%8E%87%E9%81%B8%E6%89%8B-%E3%83%87%E3%83%BC%E3%82%BF%E5%9C%B0%E5%9B%B3map-no0022026%E5%B9%B4%E5%87%BA%E5%85%B8%E6%97%A5%E6%9C%AC%E9%87%8E%E7%90%83%E6%A9%9F%E6%A7%8Bnpb2026%E5%B9%B4%E5%BA%A6-%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B0%E5%80%8B%E4%BA%BA%E6%89%93%E6%92%83%E6%88%90%E7%B8%BE%E8%A6%8F%E5%AE%9A%E6%89%93%E5%B8%AD%E4%BB%A5/122150238417139597/"
    ]
   },
   {
@@ -283,7 +277,7 @@
     "https://sukyojuku.com/joho1-data-seikei/",
     "https://www.nier.go.jp/edsc/edp/_uploads/2026/08/26edata_02.pdf",
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
-    "https://note.com/easy_honest8308/n/n4b5c35ba34b1"
+    "https://data-viz-lab.com/excel"
    ]
   },
   {
@@ -325,6 +319,6 @@
   "実例": "記載なし（読んだ24頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-06T15:02:12.270390+00:00"
 }

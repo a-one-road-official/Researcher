@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・132品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・135品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1334,7 +1334,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -5687,8 +5687,8 @@
   - 「). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「8.2 Case 2: Grey Dynamics’ Key Assumptions Check」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ33頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ33頁・検索12回）
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
 - 文脈：突き合わせ
@@ -7692,7 +7692,7 @@
   - 「such cases, while the information is observable」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「human rights cases, open source intelligence is」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「making functions – for example, to inform」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
 
 ## 会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検）（fiscal year calendar year alignment comparing statistics company data）
 - 文脈：失敗
@@ -8141,3 +8141,230 @@
   - 「Q. 検索結果を確認できない製品では、どうすればよいですか？」（https://note.com/aiyoroz/n/nbe2e49bb97c1）
   - 「例えば「外来の2型糖尿病患者の悪化を予測した先行研究を10本挙げてください」と頼むと、AIは著者名・雑誌名・出版年のそろった、それらしい文献リストを返してきます」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
   - 「しかし、検索結果の取り違え、原文の読み違い、引用と主張の不一致の可能性は残ります」（https://note.com/rinsho_ai_lab/n/na25614a8cd65）
+
+## 市場規模の食い違いを対象・地域・時点・取引段階・単位・推計方法で横に並べる比較表の作り方（公的統計から2経路で推計して差を検証する工程）（market sizing reconcile top-down bottom-up comparison table transaction stage definition）
+- 文脈：市場規模の推計
+- 手順・やり方：
+  - 「市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介 - 【公式】| 市場調査・マーケティングリサーチ会社のアスマーク」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「3つの算出方法」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「もう1つの方法は、消費者調査を専門とする調査会社に依頼する方法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この数値は、対象とする製品や地域といった「市場の範囲」のほか、「集計方法（出荷ベースか販売ベースか、あるいはメーカー売上か小売売上か）」や「期間の設定」によって大きく変動します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この記事では、マーケティングにおける商品開発とは何かについて、その進め方や活用できるフレームワーク、さらには成功に導くための重要ポイントなどを解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「短期間で実施しやすく、同じ方法で再検証しやすい」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「調査データやレポートを活用する際は、製品範囲や地域などの定義、回答の集計方法、輸出入の扱いを必ずチェックしましょう」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「＜関連コラム＞ 市場調査の依頼方法は？相場（費用感）や成功させるためのポイントなど紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+- 突き合わせ・推定：
+  - 「ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「ネットリサーチ（Webアンケート）を実施し、そのデータを必要に応じて拡大推計する形で推計します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「市場規模を把握することは、市場の成長性や参入余地の見極め、売上目標や投資額の妥当性の検証など、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「短期間で実施しやすく、同じ方法で再検証しやすい」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「まずは信頼できるデータを集め、定義や対象範囲を整理しながら、複数の情報源を突き合わせて検証するのが基本です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「資料内には出荷量や生産量、事業所数、売上高など、市場規模の推計に直結する指標が数多く掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「これらの公開データを土台にして前提条件を整理すれば、推計の客観的な根拠を明確に示せるようになります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「し、他の情報源と突き合わせることでデータの信頼性をさらに高めることができます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「産業調査を専門とする調査会社の調査データや民間データベースの強みは、市場規模の推計だけでなく、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「どの企業やチャネルを対象にしているのか、どのような推計ロジックを用いているのか、単なる二次引用が重なったデータではないか、といった点を確認しなければ、見た目は精密でも「根拠の薄い引用」になってしまいます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「市場規模の算出方法（専門調査会社に依頼して推計する）」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「自社の課題や目的に合わせた「オーダーメイドの市場規模推計」が可能」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「ネットリサーチ（Webアンケート）を用いた市場規模の推計」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この調査手法を用いた市場規模の推計では、主に需要側（消費者・ユーザー起点）のアプローチを活用し、以下のような計算式で市場規模を拡大推計」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+- 一次情報の探し方：
+  - 「しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「一次情報に近いデータから順にアプローチし、整理済みのレポートで補完する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「具体的には、官公庁の公的統計や業界団体のデータで市場の「全体像（総量）」を把握します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「各府省等が公表する統計データ、公表予定、新着情報、調査票項目情報などの各種統計情報を閲覧することが可能です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「総務省統計局、統計研究研修所の共同運営」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「対象とする市場がBtoB分野なのか、モノ（製造業）中心なのか、あるいはサービス産業なのかによって最適な統計は異なります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「自社の調査目的に合致した統計を選択すること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「たとえ統計データそのものが正確であっても、解釈や読み替えを誤ると、全く別の市場を測定してしまうことになりかねません」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「これらは官公庁の統計とは異なる独自の製品カテゴリや用途区分で集計されていることが多いため、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「代表的な業界団体・協会の調査データを下表にまとめました」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「生産統計（数字でわかる！見て学ぶ！2026」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「既存の統計データや業界レポートが存在しない新しい市場やニッチなカテゴリ、あるいは自社独自のターゲット定義で市場規模を把握したい場合は、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+- 失敗・落とし穴：
+  - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この手法で最も注意すべきは、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「もう一つの落とし穴は、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「● 設問設計による回答バイアスを最小限に抑えたい」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=ee8b15525913e8e5430320b8375d2b8e）
+  - 「これを3年間ずっと続く確定予測として使うのは誤りです」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「10．市場規模分析でよくある失敗」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「失敗①：広い業界統計を自社TAMと呼んでしまう」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「失敗②：SAMやSOMの割合を経験や印象で決め、根拠を残さない」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「失敗④：前年の成長率を将来に機械的に延長する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+- 実例：
+  - 「これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「人材紹介大手3社転職実績集計結果」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「前提条件の置き方によって結果が大きく変動します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「結果を左右する重要なパラメータを見極めること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+
+## 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）（anchoring bias research question design avoid numeric anchors common-mode bias trust the delta）
+- 文脈：偏り
+- 手順・やり方：
+  - 「― 調査プロセス別のチェックポイントで“歪みの芽”を摘み取る手順 ―」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「バイアスは「気づけば混入している」ことが多いため、本章では典型的な発生パターンを工程別に分解し、どこで何を見れば“歪みの芽”を早期に発見できるかを示します」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「選択／カバレッジバイアスは、母集団定義、対象者条件（スクリーニング）、サンプル設計、回収方法といった「誰に聞くか／どう到達するか」を決める局面で起きます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「モード効果（Mode Effect）──同じ質問でも聞く方法で答えが変わる」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「モード効果は、調査の実施方法（Web／紙／電話／会場／郵送）や、回収方法（混合モードを含む）の選定に起因して発生します」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「特に複数の調査方法を併用する場合、その差が「回答者属性の違い」なのか「モードの違い」なのかが混ざり、差分の解釈を誤りやすくなります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「前章「3.実践ステップ」では、「調査設計」「設問設計」「分析・報告」の各プロセスで発生するバイアスについて解説しましたが、この3つのプロセスのなかで、多くの種類のバイアスが存在するのが「設問設計」に関するバイアスです」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「時系列で追うKPIは、設問文・導入文・尺度・選択肢・対象条件（スクリーニング/割付）・回収方法（モード/チャネル）を原則同一に固定する」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「誘導質問や選択肢の偏り、サンプリング方法、集計時の選択的報告などが典型例です」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「QiQUMOのセルフ型調査なら設問設計をスピーディに修正できます」（https://qiqumo.jp/contents/knowhow/7500）
+- 突き合わせ・推定：
+  - 「判断・計測・推定・設計などを行う際に、何が“系統的なゆがみ”の発生源となるかを説明するための共通語として、さまざまな領域で使われます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「、設計上の欠陥によって推定が系統的に偏るリスクとして整理されます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「推定量の系統誤差、設計・計測上の偏り」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「確証バイアス（Confirmation Bias）──仮説・目的が“結論ありき”になる」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「確証バイアスは、調査の目的設定や意思決定の前提、仮説の置き方、そしてアウトプット要件（分析軸）の定義といった、設計の上流で起きやすいバイアスです」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「具体的には、事前仮説に合う設問・選択肢・分析軸だけを用意してしまい、反証や想定外の理由を拾えなくなることがあります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「満足度向上が目的であるにもかかわらず、改善要因の候補が仮説に基づく数項目に限定されており、自由記述欄や「その他」選択肢の設計が不十分」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「選択肢は仮説の列挙で終わらせず、」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「分析軸も仮説だけで決めず、「探索枠（未想定の分岐）」を残す」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「市場全体の推定をしたつもりでも、実際には「特定チャネルにいる人の意見」を測っている状態になり、解釈を誤るリスクが生じます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「「全体の推定」か「特定セグメントの理解」かを明確にし、目的とサンプル設計を一致させる」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「3) 想起・推定の過大要求」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「可能な範囲で「回答者 vs 非回答者」の既知属性（年代・性別・利用状況等）を比較し、偏りの方向性を推定する」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「“全体推定”を主張する場合は、ウェイト調整や追跡回収（リマインド、短縮版追跡）などの補正策をセットで検討する」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「主要KPI・主要仮説・主要比較は事前に固定し、探索分析は探索として区別して書く」（https://qiqumo.jp/contents/knowhow/7500）
+- 一次情報の探し方：
+  - 「認知心理学や行動経済学では、個人の判断が規範（論理・確率）から一定方向にズレる現象として扱われ、統計学・実験計画や疫学・臨床研究法では、」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「6) 統計学・実験計画」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「マーケティングリサーチの文脈でのバイアスは、心理学、統計学、HCIといった複数の学問領域に由来するバイアスが関わります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「回答者は記憶の曖昧さや社会的望ましさに影響される「心理的側面」を持ち、調査自体はサンプリングや変数制御といった「統計的側面」の制約を受けます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「p-hacking／データドレッジング（P-hacking / Data dredging）──“試して当たった有意差”を採用してしまう」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「セグメントを細かく切っていき、有意になった切り口だけを採用して結論を作る」（https://qiqumo.jp/contents/knowhow/7500）
+- 失敗・落とし穴：
+  - 「【バイアス対策】無意識の歪みを排除するーアンケートに潜むバイアスの正体と防ぎ方」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「アンケートのバイアスは調査設計・設問設計・分析報告の3工程で発生する」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「確証バイアス・選択バイアス・誘導質問など具体的な歪みのメカニズムを解説」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「本記事では、アンケート実務を工程別に分解し、バイアスが混入しやすいポイントと、未然に防ぐためのチェック項目をまとめました」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「本記事では、この「バイアス」が生じてしまう要因を、アンケート調査の実務プロセスに当てはめて整理します」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「まず、バイアスという言葉が何を指し、どんな前提で捉えるべきかを整理します」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「バイアスとは偏りや歪み、傾きなどを表す言葉です」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「ヒューリスティクス（代表性、利用可能性など）、確証バイアス」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「プロスペクト理論（損失回避、参照点依存）、現状維持バイアス」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「グループシンク、同調、内集団バイアス、権威の影響」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「サイロ化、稟議バイアス、KPIの歪み、NIH（外部案拒否）」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「構造的不平等、制度バイアス、排除のメカニズム」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「選択バイアス、測定バイアス、p-hacking、サンプリング偏向」（https://qiqumo.jp/contents/knowhow/7500）
+- 実例：
+  - 「調査対象の切り方や集計・報告のプロセスはもちろんのこと、質問文のわずかな表現の違いといった設問設計そのものによっても、結果に偏りや歪みが生じます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「各工程に潜むバイアスを見過ごすと、結果だけがそれっぽく整った、実態とは異なるストーリーを導き出してしまうリスクがあります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「このやり取りでは、質問がテキストで回答者に伝えられ、答えは選ばれた選択肢の合計として定量化されて結果に反映されます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「このアンケート特有のコミュニケーションの制約に加え、定量化する際の枠組みや集計する際のルール決めによって集計結果が変わってきます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「調査結果に偏りや歪みを生み出し、アンケート調査の主要な目的である「特定の集団の実態を写し取る」ことを阻む要因を「バイアス」と呼びます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「読み終えていただくと、調査の途中で起きがちな「結果のゆがみ」を事前に察知し、データの品質を担保するための“実務の勘所”が掴めるようになります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「社会・組織の文脈では、制度や権力、情報の流れが生む構造的な不均衡として語られ、HCI（Human-Computer Interaction：人機相互作用）/UXや機械学習の領域では、表示設計やシステムが行動や結果を一定方向に動かしてしまう問題として議論されます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「つまり、アンケートの偏りは「回答者の心理」「調査手法」「設問設計」が複雑に絡み合った結果です」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「調査設計の段階で生じるバイアスは、調査対象をどのように切り出すか、調査の目的に沿った調査対象を正しく設定できるかどうかによって結果の妥当性そのものが決定づけられます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「その結果、「想定通りのストーリー」には見える一方で、意思決定に必要なリスク情報（離脱理由、代替選択、条件付き評価など）が欠落しやすくなります」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「ここでの典型は、回答してくれる人・到達できる人にサンプリングが寄ってしまい、結果が実態より極端化しやすくなることです（高評価・高関与に寄る／不満層だけが残る等）」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「テキストで表示される質問の文章表現のわずかな差が解釈の余地を生み、結果の歪み（バイアス）を招きやすくなるからです」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「設問設計の欠陥がもたらす結果は、大きく次の2系統に整理できます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「分析者の判断が入りやすく、結果を大きく左右しやすい6つのバイアスを取り上げます」（https://qiqumo.jp/contents/knowhow/7500）
+  - 「欠測（無回答・途中離脱・スキップ）がランダムではなく、特定の属性や態度と関連している場合、欠測処理の方法によって結果が体系的に動きます」（https://qiqumo.jp/contents/knowhow/7500）
+
+## 上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期）（Japan kessan koukoku obligation change delisting capital increase large company P/L summary）
+- 文脈：決算公告
+- 手順・やり方：
+  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本｜ひぐらしさとし司法書士事務所（仮）」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「ところが、いざ決算公告を出そうとしたり、合併や減資の手続きで公告が必要になったりして初めて、「官報の掲載って意外とお金がかかる」「うちの公告方法、変えられるの？」と気づく経営者の方は少なくありません」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「そして、公告方法を変えるには」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「今回は、3つの公告方法の違い、見落とされがちな決算公告の義務、そして公告方法を変更するときの登記の流れと費用を、経営者の方向けに整理します」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「これらの公告を「どの方法で行うか」を定めたものが、」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「公告方法は3種類」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「会社法は、株式会社が選べる公告方法を次の3つと定めています（会社法939条1項）」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「定款に公告方法を定めていない会社は、自動的に「官報に掲載する方法」になる」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「つまり、「特に決めた覚えがない」という会社も、法律上は官報が公告方法とされています」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「公告方法は、登記簿（履歴事項全部証明書）に記載される」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「定款で公告方法を定めているときは、その定め」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「登記簿を見れば、その会社がどの方法で公告するのかが誰にでも分かるようになっている、というわけです」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「決算公告の負担（特に官報の掲載料）は、公告方法を見直すきっかけになることが多い論点です」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
+- 突き合わせ・推定：
+  - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「法務部員が知っておくべき「二段の推定」とは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「この構造を理解すると、「大会社なのに要旨だけでいい（官報の場合）」「電子公告なら全文が必要」という一見矛盾した結論が、法令の論理から正確に導けるようになる」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
+  - 「3. 申込から掲載まで約15営業日かかるため、逆算してスケジュールを立てる」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
+  - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
+- 一次情報の探し方：
+  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本｜ひぐらしさとし司法書士事務所（仮）」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「会社の公告方法、官報のままで大丈夫？──電子公告・日刊新聞紙との違いと変更登記の基本」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「ところが、いざ決算公告を出そうとしたり、合併や減資の手続きで公告が必要になったりして初めて、「官報の掲載って意外とお金がかかる」「うちの公告方法、変えられるの？」と気づく経営者の方は少なくありません」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「は、官報のほかに、日刊新聞紙や電子公告（自社ホームページ等への掲載）を選ぶことができます」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「今回は、3つの公告方法の違い、見落とされがちな決算公告の義務、そして公告方法を変更するときの登記の流れと費用を、経営者の方向けに整理します」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「定款に公告方法を定めていない会社は、自動的に「官報に掲載する方法」になる」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「つまり、「特に決めた覚えがない」という会社も、法律上は官報が公告方法とされています」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「設立時の定款をあらためて確認してみると、官報になっていることがほとんどです」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「公告方法は、登記簿（履歴事項全部証明書）に記載される」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「電子公告を選んでいるときは、あわせて**ウェブページのアドレス（URL）**も登記されます（会社法911条3項28号イ）」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「登記簿を見れば、その会社がどの方法で公告するのかが誰にでも分かるようになっている、というわけです」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「「中小企業はやらなくていい」と思われがちですが、法律上は中小企業にも決算公告の義務があります」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「なお、決算公告で公告するのは貸借対照表などの「決算の数字」ですが、その作成や税務処理は税理士の専門領域です」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「本記事では公告という手続きの面に絞って解説し、決算書の中身や税務については触れません」（https://note.com/real_ram9758/n/n015e975a7128）
+- 失敗・落とし穴：
+  - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「Q6: 決算公告を行う際の注意点は何ですか？」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「決算公告を行う際には、以下の点に注意が必要です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「以下のとおり手続きを行う必要がありますので注意しましょう」（https://www.kigyou-houmu.com/secret-4/）
+  - 「また、自社サイトへの掲載は無料とはいえ、更新に対する費用や手間が発生する場合もあるので、注意が必要です」（https://keiridriven.mjs.co.jp/171979/）
+  - 「官報や日刊新聞紙の場合、掲載までは少し時間がかかるので注意しましょう」（https://keiridriven.mjs.co.jp/171979/）
+  - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「相続クイズ５０問（間違いだらけのネット情報）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「相続に関与しようとする民間資格や民間団体にご注意ください」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「平成13年6月までに相続開始又は代襲原因発生の場合は要注意｢非嫡出子の法定相続分｣」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「会社や法人が子会社を設立するとき（発起人が会社のとき）の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+  - 「会社法人設立時に作るべき会社法人の印鑑の種類は？！注文の注意点やタイミングは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
+- 実例：
+  - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
+  - 「株式会社の決算公告義務とは？幸田町・岡崎市・蒲郡市の事例を詳しく解説｜神谷佳希｜人生について考え続け、その歩みに寄り添う人」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「株式会社の決算公告義務とは？幸田町・岡崎市・蒲郡市の事例を詳しく解説」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「特に、幸田町・岡崎市・蒲郡市など地域密着型の中小企業においては、この義務に対する認識不足や手続きの煩雑さが原因で、公告を怠ってしまうケースも少なくありません」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「これらの企業の中には、決算公告の必要性を十分に認識していなかったり、手続きの詳細が分からないために対応が後回しになるケースがあります」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「：特に非公開会社や中小企業では、決算公告の必要性が十分に理解されていないケースが多いと考えられます」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「Q3: 実際に過料が科された事例はありますか？」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「実務上、決算公告を行わなかったことに対して過料が科された事例は非常に稀です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「例えば、コストを重視する企業には電子公告の活用を提案し、その手続きも代行可能です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「例えば、地元での公告手段の選択や、商工会議所との連携など、地域性を考慮したアプローチが可能です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「例えば、地元紙への公告を検討する場合や、商工会議所との連携を図る際に、有用な情報を提供してくれます」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「例えば、電子公告を選択する場合、官報や新聞公告に比べて費用を抑えることができます」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「例えば、決算公告の準備と同時に、税務上のメリットが得られるような手続きの提案を受けることも可能です」（https://note.com/nice_cosmos4982/n/n1ef54ae444af）
+  - 「法律顧問料はかかりますが、結果としてコストの削減にも繋がっていきます」（https://www.kigyou-houmu.com/secret-4/）
