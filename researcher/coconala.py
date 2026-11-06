@@ -64,7 +64,10 @@ def parse(text, html):
         "ld_json": ld,
     }
 
+SAVED = 0
+
 def main():
+    global SAVED
     rows = list(csv.DictReader(open(ROOT / "inputs" / "coconala.csv", encoding="utf-8")))
     with sync_playwright() as pw:
         b = pw.chromium.launch()
@@ -105,7 +108,7 @@ def main():
                     except Exception: pass
                     time.sleep(PACE)
                 rec["レビューのページ"] = rv
-                json.dump(rec, open(f, "w"), ensure_ascii=False, indent=1)
+                json.dump(rec, open(f, "w"), ensure_ascii=False, indent=1); SAVED += 1
                 time.sleep(PACE)
             keys = ["id", "url", "一覧の順位", "タイトル", "価格_円", "ランク", "評価", "評価件数", "販売実績", "総販売実績", "お願い中_人", "残り枠", "納期_日"]
             with open(d / "summary.csv", "w", encoding="utf-8", newline="") as w:
@@ -113,6 +116,7 @@ def main():
                 for f in sorted((d / "services").glob("*.json"), key=lambda x: order.get(x.stem, 9999)):
                     cw.writerow(json.load(open(f)))
         b.close()
+    (OUT / "saved_last_run.txt").write_text(str(SAVED))
 
 if __name__ == "__main__":
     main()
