@@ -1,0 +1,381 @@
+{
+ "name": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+ "en": "Census of Manufacture 2010-2014 industry tables e-Stat 00550010",
+ "aliases": [
+  "e-Stat 00550010 工業統計調査 産業別統計表 平成24年",
+  "e-Stat 工業統計表 産業編 平成25年 確報 xls",
+  "工業統計調査 平成26年確報 産業別統計表 e-stat"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T07:05:14.862062+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?kikan=00550&toukei=00550010&result_page=1&page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/archives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001022686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/library/library_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?layout=dataset&query=%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/statistics/00550010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=dataset&data=1&metadata=1&cycle=0&toukei=00200552&tstat=000001072573&tclass1=000001074966&tclass2=000001077095&tclass3=000001077107&result_page=1&tclass4val=0&stat_infid=000031334482",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/econ_timeseries/?programCode=M3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 人手不足 受注 断る",
+   "results": [
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?kikan=00550&toukei=00550010&result_page=1&page=1",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 受注残 人手不足",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?kikan=00550&toukei=00550010&result_page=1&page=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+   "results": [
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?kikan=00550&toukei=00550010&result_page=1&page=1"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?kikan=00550&toukei=00550010&result_page=1&page=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 統計 PDF",
+   "results": [
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?kikan=00550&toukei=00550010&result_page=1&page=1"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0",
+    "https://ja.wikipedia.org/wiki/工業統計調査"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?kikan=00550&toukei=00550010&result_page=1&page=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 1人当たり 万円",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?kikan=00550&toukei=00550010&result_page=1&page=1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0"
+   ]
+  },
+  {
+   "query": "Census of Manufacture 2010-2014 industry tables e-Stat 00550010 Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/e-census/",
+    "https://www.e-stat.go.jp/en/statistics/00550010",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=dataset&data=1&metadata=1&cycle=0&toukei=00200552&tstat=000001072573&tclass1=000001074966&tclass2=000001077095&tclass3=000001077107&result_page=1&tclass4val=0&stat_infid=000031334482",
+    "https://www.census.gov/econ_timeseries/?programCode=M3",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://rnavi.ndl.go.jp/en/post-485394.html",
+    "https://www.prnewswire.com/news-releases/census-bureau-completes-release-of-all-364-manufacturing-reports-from-economic-census-industry-series-277803591.html",
+    "https://www.ipss.go.jp/history/EnglishPamphletSeries/pdf/J000008744.pdf"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+   "results": [
+    "https://note.com/yuki0001/n/n9e5558678431",
+    "https://note.com/stats47/n/n23262330a5e5",
+    "https://note.com/bizarre69/n/n06f758fdecc8",
+    "https://note.com/great_chimp5478/n/n01e65b21aded",
+    "https://note.com/monotsukuri_lab/n/nfaaa6f8f3ca0",
+    "https://note.com/powerpoint_jp/n/n5fe611924a90",
+    "https://note.com/kyosunlab/n/n0d02655a1f42"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+   "results": [
+    "https://jp.linkedin.com/",
+    "https://jp.linkedin.com/in/kazuhiro-一泰-wakatsuki-若月-abb12a171",
+    "https://jp.linkedin.com/in/jeganathan-manikandan-36181427a",
+    "https://jp.linkedin.com/in/tomotaka-kuwahara-410a61332",
+    "https://www.linkedin.com/pulse/reframing-grid-discussion-from-system-strength-behaviour-bruce-miller-pperc/",
+    "https://jp.linkedin.com/posts/keiichiro-itakura-6b2653a_ai就職氷河期が現実味を帯びてきた-経産省は2040年までに-事務職-activity-7463387678852435968-dE7z",
+    "https://jp.linkedin.com/posts/誠-坂田-a4454a257_ホワイトカラー文系は絶望-経産省2040年の就業構造推計改訂版について-activity-7438496340315369472-Oqsc"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30）",
+   "results": [
+    "https://graph.facebook.com/v2.8/2904706632941606/picture/",
+    "https://www.facebook.com/METI.Wakate/",
+    "https://www.facebook.com/hitoridecom/posts/excel-2022年-エクセルexcel年間カレンダーa4横型カレンダー方式無料ダウンロード1月始まりhttphito-ridecomp8587/3206254206315427/",
+    "https://www.facebook.com/reel/2119100192188101/",
+    "https://www.facebook.com/reel/2077413346136529/",
+    "https://www.facebook.com/JissoNews/photos/統計情報4月23日に日本電子回路工業会-jpca-が電子回路基板電子回路実装基板の生産動向資料を更新2025年2月実績を追加経済産業省生産動態統計月報4月14日/1117140250214694/",
+    "https://www.facebook.com/JissoNews/photos/統計情報12月24日に日本電子回路工業会-jpca-が電子回路基板電子回路実装基板の生産動向資料を更新2025年10月実績を追加経済産業省生産動態統計月報11月/1306493614612689/"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?kikan=00550&toukei=00550010&result_page=1&page=1"
+   ]
+  },
+  {
+   "query": "工業統計表 産業別統計表 実績2010〜2014年の Excel（経産省の所管ページが CAPTCHA のため e-Stat の政府統計コード00550010の file-download で取る・10年推移の前半・4-30） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&stat_infid=000032115236",
+    "https://www.meti.go.jp/statistics/",
+    "https://data-seisaku.com/00550-meti-00550010/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001023214&tclass3val=0&stat_infid=000002224830",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144102",
+    "https://www.e-stat.go.jp/statistics/00550010",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&kikan=00550&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022687&tclass2=000001034263&layout=datalist&tclass3val=0"
+   ]
+  },
+  {
+   "query": "Census of Manufacture 2010-2014 industry tables e-Stat 00550010 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/learning/learning-public-data-sets-2/us-census-bureau-industry-data",
+    "https://bg.linkedin.com/company/estat-ltd.",
+    "https://uk.linkedin.com/company/e-tabs",
+    "https://ca.linkedin.com/in/emranbillah",
+    "https://in.linkedin.com/company/census",
+    "https://cn.linkedin.com/in/alvein-t-furniture-0a515124",
+    "https://www.linkedin.com/pulse/explore-postgresql-catalogs-extensions-swanand-kshirsagar-sfo5f"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ23頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ23頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ23頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ23頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ23頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ23頁・検索18回）",
+  "10年推移": "記載なし（読んだ23頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ23頁・検索18回）"
+ }
+}

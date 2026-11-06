@@ -8,7 +8,7 @@
  ],
  "context": "点検",
  "kind": "market",
- "researched_at": "2026-11-06T00:22:30.956734+00:00",
+ "researched_at": "2026-11-06T07:13:25.818473+00:00",
  "evidence": {
   "実例": [
    {
@@ -243,17 +243,17 @@
     "method": "http"
    },
    {
+    "url": "https://data-viz-lab.com/how-to-data-cleaning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://data-viz-lab.com/data-cleansing-methods",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/how-to-data-cleaning",
     "status": "ok",
     "method": "http"
    },
@@ -268,17 +268,12 @@
     "method": "http"
    },
    {
-    "url": "https://datajournalismjp.github.io/handbook/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pig-data.jp/blog_news/blog/scraping-crawling/du_data-cleansing/",
+    "url": "https://datajournalismjp.github.io/handbook/",
     "status": "ok",
     "method": "http"
    },
@@ -329,15 +324,7 @@
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） note",
-   "results": [
-    "https://data-viz-lab.com/data-cleansing-methods",
-    "https://alc.chiba-u.jp/eyr/2025/09/24/data-cleaning.html",
-    "https://data-viz-lab.com/how-to-data-cleaning",
-    "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
-    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
-    "https://datajournalismjp.github.io/handbook/",
-    "https://note.com/kizashi_note/n/n6da9f1204a77"
-   ]
+   "results": []
   },
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） やり方",
@@ -443,8 +430,8 @@
     "https://data-viz-lab.com/how-to-data-cleaning",
     "https://data.bfts.co.jp/blog/data-cleansing-five-steps",
     "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-guide-2/",
-    "https://datajournalismjp.github.io/handbook/",
-    "https://pig-data.jp/blog_news/blog/scraping-crawling/du_data-cleansing/"
+    "https://crexgroup.com/ja/data/column/data-ops/data-cleansing-how-to-2/",
+    "https://www.tableau.com/ja-jp/learn/articles/data-cleansing"
    ]
   },
   {
@@ -461,10 +448,10 @@
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ20頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ20頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ19頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ19頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-05T15:23:56.343731+00:00"
 }

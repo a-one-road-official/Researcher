@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・104品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・107品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -418,22 +418,24 @@
 ## 業界分析・業界構造の調べ方（一次情報から）（industry analysis primary sources method）
 - 文脈：業界
 - 手順・やり方：
-  - 「「高学歴じゃなくても、考え方とツールの使い方次第で戦える」をテーマに発信しています」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「この記事では、私が企業研究で試行錯誤した結果たどり着いた方法を共有します」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「AIを使って企業の情報を構造的に集め、複数の企業を比較できるようにするやり方です」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「私がやった企業研究の方法：AIで「調べるべきこと」を構造化した」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「ここからは、私が実際にやった企業研究の方法についてお話しします」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「就活での考え方とAIの使い方を書いてます」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「業界をまたいで「どう儲けているか」の型を学ぶ層です」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「この章では、業界研究そのもののやり方から教えてくれる入門書を集めました」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「2026年2月刊行のムックで、通常版から就活に必要な部分を抜き出し、業界研究のやり方の解説を足した構成になっています」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「A4変型の大判で図版が大きく、電車の中で開くのは少し勇気が要りますが、机に広げて業界を比較する使い方には向いています」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「夏のインターン選考から本選考へ移る時期に、最新の情報を補充する目的で買い足す使い方もできます」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「使い方のコツは、通読しないことです」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「ES提出直前や面接前日に該当ページだけ開き直す使い方が、いちばん費用対効果が高くなります」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「NA（回答拒否）表記の多さから企業の姿勢を読み取る、という使い方も定番です」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「読み方のコツは、NAの扱いにあります」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「はじめての方へ｜一次情報で日本株を読み解く、このnoteの使い方｜日本個別株デューデリジェンスセンター」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「はじめての方へ｜一次情報で日本株を読み解く、このnoteの使い方」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「【最新版】業界研究のやり方やポイントをわかりやすく徹底解説」（https://unistyleinc.com/techniques/1404）
+  - 「業界研究ノートの作り方は以下のステップで行ってみてください」（https://unistyleinc.com/techniques/1404）
+  - 「【step1】市場規模を把握する」（https://unistyleinc.com/techniques/1404）
+  - 「【step2】業界のビジネスモデルを理解する」（https://unistyleinc.com/techniques/1404）
+  - 「【step3】業界1位の企業を調べる」（https://unistyleinc.com/techniques/1404）
+  - 「【step4】新規参入企業を調べる」（https://unistyleinc.com/techniques/1404）
+  - 「【step5】自分の企業選びの軸に合っている企業を選ぶ」（https://unistyleinc.com/techniques/1404）
+  - 「【step6】興味ある業界の志望動機と自己PRを考える」（https://unistyleinc.com/techniques/1404）
+  - 「step1：市場規模を把握する」（https://unistyleinc.com/techniques/1404）
+  - 「step2：業界のビジネスモデルを理解する」（https://unistyleinc.com/techniques/1404）
+  - 「【最新版】業界研究のやり方やポイントをわかりやすく徹...」（https://unistyleinc.com/techniques/1404）
+  - 「step3：業界1位の企業を調べる」（https://unistyleinc.com/techniques/1404）
+  - 「step4：新規参入企業を調べる」（https://unistyleinc.com/techniques/1404）
 - 突き合わせ・推定：
+  - 「経営方針や事業内容、社風など企業により様々な特徴がありますが、企業選びの軸を明確にすることでブレや矛盾がなく説得力のある志望動機を書くことができます」（https://unistyleinc.com/techniques/1404）
+  - 「論理矛盾が起こらない志望動機を書くためには、必ず大枠の論理、志望動機で言えば「どんな仕事をしたいのか」という大きな枠から整理して、徐々に「この業界・この企業で働きたい」という小さな枠に落とし込むことが重要になります」（https://unistyleinc.com/techniques/1404）
   - 「この2つの目的から逆算すると、調べるべき情報はある程度絞れます」（https://note.com/4kodai_student/n/n298d2518aad8）
   - 「全体を俯瞰する業界地図、企業のデータを突き合わせる就職四季報、志望業界を掘り下げる業界別の専門書、そして業界の稼ぎ方そのものを読み解くビジネスモデル本まで、就活のフェーズに合わせて選べるように並べました」（https://note.com/tasuto11/n/n3d32991f6192）
   - 「業界と職種を「掛け算」で考えさせる構成」（https://note.com/tasuto11/n/n3d32991f6192）
@@ -447,56 +449,54 @@
   - 「ただし、個々の経験や主観に基づく情報もあるため、全てを鵜呑みにせず、自分なりに検証することが重要です」（https://typeshukatsu.jp/s/article/step/research/57960/）
   - 「ただし、SNS上の情報は誤った情報が混在していることも多いため、複数の信頼できる情報源を照合し、情報の正確性を見極める姿勢が重要です」（https://www.wakayama-uiturn.jp/arekore/arekore014）
   - 「③その変化が業界の売上/コスト/採用に与える影響を短い仮説にする」（https://br-campus.jp/articles/report/2408）
-  - 「次に、仮説を1つ立てたら、同じ数だけ「反対の根拠」も探す（例：成長業界でも減速要因は？）と、見落としが減ります」（https://br-campus.jp/articles/report/2408）
-  - 「③自分の仮説が崩れていないか」（https://br-campus.jp/articles/report/2408）
 - 一次情報の探し方：
   - 「採用担当が『この学生は業界をちゃんと理解している』と判定する業界研究の質」（https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/）
   - 「①採用担当が見抜く『浅い業界研究 vs 深い業界研究』の 5 つの違い、② 5 ステップ業界研究法（マクロ → 業界構造 → 主要企業 → ビジネスモデル → 自分との接点）、③ 30 業界（IT・コンサル・メーカー・金融・商社・小売・サービス・公務員・物流・医療・教育・不動産・建設・広告・マスコミ・人材・エネルギー・化学・自動車・電機・食品・運輸・通信・保険・証券・銀行・流通・農業・観光・スタートアップ）の調べ方早見表、④ ES・面接で『業界理解』を語る型と例文、⑤『時間がない人向け』5 時間版・15 時間版・30 時間版の業界研究プラン、⑥『業界研究ですぐ詰まる』時の対処法」（https://sinmido-recruit.com/columns/%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9%EF%BD%9C%E5%B0%B1%E6%B4%BB%E3%81%A7%E5%B7%AE%E3%81%8C%E3%81%A4%E3%81%8F%E8%AA%BF%E3%81%B9%E6%96%B9%E3%81%A8%E6%95%B4%E7%90%86/）
-  - 「「受けるかどうかの判断」に必要なのは、待遇（初任給、残業時間、福利厚生）、採用選考の情報（選考フロー、求める人物像）、人材定着性（離職率、退職理由の傾向）などです」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「もちろんそれは大切な一次情報ですが、実際の社風や職場の雰囲気、働いている人たちの様子は、文字だけではなかなか伝わりません」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「待遇、採用選考、事業構造、技術戦略、開発文化……すべて同じ項目が同じ順番で並ぶので、後から2社、3社を横並びで比較できるようになります」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「採用選考の情報」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「採用人数・3年後離職率・平均年収・有休取得日数といった、企業の採用サイトには載りにくい数字が並びます」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「就職活動版はそこを削り、業界ごとの働き方や採用の実態、志望動機への落とし込み方に紙面を割いています」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「著者の岡茂信氏は、長年にわたり就活生の指導とエントリーシート添削に携わってきた採用のプロです」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「2026年3月刊行で、最新の採用スケジュールに対応しています」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「掲載されるのは、採用予定数、応募倍率、3年後離職率、平均年収、平均勤続年数、有休取得日数、残業時間、そして男女別の採用実績です」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「採用サイトの美しい言葉と、四季報の数字を突き合わせる作業が、企業研究の核心になります」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「掲載項目は総合版と同じく、採用実績、離職率、年収、有休といった実数が中心です」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「近年は総合系ファームの採用規模が拡大しており、以前より門戸は広がっています」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「売上規模、事業領域、採用実績といった情報に加え、現場エンジニアや若手社員へのインタビューが多数収録されています」（https://note.com/tasuto11/n/n3d32991f6192）
+  - 「はじめての方へ｜一次情報で日本株を読み解く、このnoteの使い方｜日本個別株デューデリジェンスセンター」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「はじめての方へ｜一次情報で日本株を読み解く、このnoteの使い方」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「このnoteは、決算短信・有価証券報告書・適時開示などの一次情報から、日本企業の強み・成長余地・リスクを整理する企業研究メディアです」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「決算の読み方を学びたい初心者から、分析を深めたい中級者まで、個別銘柄・業界比較・値動きの背景を毎日発信しています」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「ニュースや株価の「動き」だけでなく、一次情報に何が書かれ、何がまだ確認できないかを分けることを重視しています」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「・決算短信や有価証券報告書の注目点に迷う方」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「・テーマ株や成長株を一次情報ベースで整理したい方」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「業績は調べられるのに、好決算後の下落や出来高の急増で迷う」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「チャート、売り時、決算、TOB、配当、仕事のAI活用、世界史の学び直しまで」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「内容が合いそうならフォローして、次回の一次情報ベースの記事をお受け取りください」（https://note.com/tatsuya_sabato/n/na9bc92107c20）
+  - 「志望動機は志望度をアピールするものであるため、理解が浅いと「この就活生は本当にうちを志望しているのかな？」と採用担当に不信感を持たれてしまう可能性があります」（https://unistyleinc.com/techniques/1404）
+  - 「他にも、同社の求める人材やビジネスモデル、採用数等、本選考対策に関する情報をまとめました」（https://unistyleinc.com/techniques/1404）
+  - 「企業がインターンシップを開催する目的・メリット企業が行う採用活動は、それが直接的に利益を生む事業行為ではありません」（https://unistyleinc.com/techniques/1404）
 - 失敗・落とし穴：
-  - 「業界研究でよくある失敗と、その対策」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「❌ 失敗1：業界地図を1ページ目から読もうとする」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「❌ 失敗2：最新版でない本を使う」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「❌ 失敗3：業界研究を自己分析と切り離す」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「❌ 失敗4：本だけで完結させる」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「【調査上の注意】」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
-  - 「業界研究ノート作成時の注意点」（https://shukatsu-magazine.com/column/52152/?columnid=52152）
-  - 「結果的に、「この会社じゃないとダメな理由」が言語化しやすくなるので、ESや面接対策にもつながります」（https://shukatsu-magazine.com/column/52152/?columnid=52152）
-  - 「実際の就職活動に役立てるには、視点や記述方法に注意する必要があるでしょう」（https://shukatsu-magazine.com/column/52152/?columnid=52152）
-  - 「「なぜ似たような別の業界ではダメなのか？」という面接官の鋭い質問に答えられる準備をします（例：銀行ではなく、なぜ信託銀行なのか？）」（https://typeshukatsu.jp/s/article/step/research/57960/）
-  - 「ただし、情報の信頼性や正確性には注意が必要です」（https://typeshukatsu.jp/s/article/step/research/57960/）
-  - 「ただし、個々の経験や主観に基づく情報もあるため、全てを鵜呑みにせず、自分なりに検証することが重要です」（https://typeshukatsu.jp/s/article/step/research/57960/）
-  - 「年間20件以上の就活イベント運営や、東北大・京大などの現役インターン生との日常的な対話から、AIでは汲み取れない「今の学生が直面するリアルな葛藤や失敗談」を直接ヒアリング」（https://typeshukatsu.jp/s/article/step/research/57960/）
-  - 「単なるノウハウ提供に留まらず、自身の失敗経験や現場での一次情報を交え 、最新の就活トレンドと検索意図の両面から、就活生が「納得感のある決断」を下せるために、就活生に「今、本当に必要な情報」を届けている」（https://typeshukatsu.jp/s/article/step/research/57960/）
-  - 「業界研究は情報の集めやすさが落とし穴になる」（https://www.shupass.jp/guides/gyokai-kenkyu-yarikata）
+  - 「(実際の面接開始の５分前)」、人事の人に気遣う人もいると思いますが、それは罠だと思っていただいて結構です」（https://unistyleinc.com/techniques/1404）
+  - 「この記事でわかることインターンシップの全体像インターンシップとはインターンシップの準備▼目次クリックで展開本記事の構成インターンシップの全体像インターンシップとは企業がインターンシップを開催する目的・メリット就活生がインターンシップに参加する目的・メリットインターンシップの概要募集はいつから？季節ごとのインターンシップ開催時期インターンシップを探す前の準備インターンシップの探し方・選び方インターンシップのエントリー方法インターンシップの選考対策インターンシップ参加時の注意点インターンシップ参加後にやるべきことインターンシップのよくある質問まとめインターンシップの全体像インターンシップESの作り方・書き方インターンシップにおけるエントリーシート(ES)の作り方についてポイントを解説しています」（https://unistyleinc.com/techniques/1404）
+  - 「オンラインインターンシップの対策オンラインのインターンシップへの参加にあたっての対策や注意点を紹介しています」（https://unistyleinc.com/techniques/1404）
+  - 「会社自体の魅力を書きすぎてしまうと入れるべき項目が入らなくなってしまうので注意しましょう」（https://unistyleinc.com/techniques/1404）
+  - 「インターンシップ参加時の注意点主な注意点は以下です」（https://unistyleinc.com/techniques/1404）
+  - 「カンペを見ながら話している前提としてカンペを作ること、見ることがダメということはありません」（https://unistyleinc.com/techniques/1404）
+  - 「その結果、不確実な状況にも柔軟に対応でき、失敗を恐れずに挑戦することで変化をチャンスに変える力が養われます」（https://unistyleinc.com/techniques/1404）
+  - 「企業側の意図■課題や困難に対する乗り越え方を見たい社会人になると、失敗や挫折など乗り越えるべき壁が出てきます」（https://unistyleinc.com/techniques/1404）
+  - 「具体的な数字やエピソードがない具体的な数字やエピソードがなければ、あなたの成果を正しく伝えられない可能性が高いので注意しましょう」（https://unistyleinc.com/techniques/1404）
+  - 「​​また、よくある志望動機の作成パターンとして、(6)の同業比較から考え始めてしまうことが挙げられますが、狭い視点から1社1社考えることは難しく、また論理性に欠けるケースも多いため注意しましょう」（https://unistyleinc.com/techniques/1404）
+  - 「エントリーシート(ES)志望動機におけるフレームワーク-6つのステップで書き方を解説-ここからは、先ほど紹介した志望動機のフレームワークを基に、各ステップの詳細や注意点について解説します」（https://unistyleinc.com/techniques/1404）
+  - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1404）
+  - 「もちろん、成し遂げたいことがその業界で成し遂げたいこととして的外れな場合は評価されないので注意してください」（https://unistyleinc.com/techniques/1404）
+  - 「経験に根差していれば何でもいいわけではないので注意が必要です」（https://unistyleinc.com/techniques/1404）
+  - 「(4)他に受けている業界および他の業界ではダメな理由志望動機のフレームワークに基づき、成し遂げたいこと・企業選びのポイント及びそのきっかけとなる経験を書いた上で次に他の業界ではなく志望業界の理由について話しましょう」（https://unistyleinc.com/techniques/1404）
 - 実例：
-  - 「この記事では、私が企業研究で試行錯誤した結果たどり着いた方法を共有します」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「最初から業界全体を完璧に理解しようとするよりも、まずは気になる企業を1社ずつ調べていく方が、結果的に業界への理解も深まると思います」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「こうすると、どの企業を調べても同じ構成の調査結果が出てきます」（https://note.com/4kodai_student/n/n298d2518aad8）
-  - 「日経は毎年「主要商品・サービスの世界シェア調査」を実施しており、その結果が地図に反映されています」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「ジョブ選考やケース面接が課される世界なので、早い段階で全体像を掴んでおく価値は大きいはずです」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「ケース面接やフェルミ推定の対策本は別に必要ですが、その前提となる業界理解はこの1冊で足ります」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「この本はその流れを、開発の実例に沿って追いかけます」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「単に事例を並べるのではなく、収益モデルの型として整理されているため、応用が効きます」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「取り上げられる企業は、既存の大企業から新しいスタートアップまで幅広く、社会性と経済合理性を両立させた事例が多く選ばれています」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「原価率、固定費、回転率、立地といった要素が、実例とともに感覚的に理解できます」（https://note.com/tasuto11/n/n3d32991f6192）
-  - 「今回は、28卒の企業研究を想定して、①ChatGPTの機能の使い分け、②Deep Researchの使い方、③企業研究で最初に渡すべき情報、④そのまま使えるプロンプト、⑤調査結果を志望動機につなげる方法までまとめます」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
-  - 「例えばChatGPTに、「三菱商事について企業研究してください」とだけ入力したとします」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
-  - 「例えば、「総合デベロッパーを比較するとき、どんな評価軸を見るべき？」のような問いなら、まず通常チャットで十分です」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
-  - 「例えば、「三菱地所の最新中期経営計画は？」「28卒向けの採用情報は公開されている？」といった確認です」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
-  - 「例えば、「三井不動産・三菱地所・東急不動産を、最新のIR、統合報告書、中期経営計画、採用情報から比較し、志望動機を言い分けられるレベルまで分析する」といった使い方です」（https://note.com/shukatsu_decode/n/ncf4c08c027df）
+  - 「例えば、自動車業界であれば「自動車業界」という広い括りではなく、「自動車部品メーカー」「完成車メーカー」「自動車販売会社」などと、業界の中でも細かく分類してノートを作成するというものが挙げられます」（https://unistyleinc.com/techniques/1404）
+  - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかということが大事です」（https://unistyleinc.com/techniques/1404）
+  - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかという、」（https://unistyleinc.com/techniques/1404）
+  - 「例えば、総合商社であれば「三菱商事」、自動車業界であれば「トヨタ自動車」などといったように各業界のリーディングカンパニーを知っておくことも必要です」（https://unistyleinc.com/techniques/1404）
+  - 「長期インターンの場合、有給で募集されることもありますが、短期のものは無給のケースが多いです」（https://unistyleinc.com/techniques/1404）
+  - 「募集時期8月～10月頃から募集が始まるケースが多く、エントリーのピークは9月～10月頃」（https://unistyleinc.com/techniques/1404）
+  - 「SNS・イベント経由X（旧Twitter）やLinkedIn、合同説明会、逆求人イベントなどから、その場でインターンシップにつながるケースもあります」（https://unistyleinc.com/techniques/1404）
+  - 「一方で、実務型や選考直結型のインターンは3年生以上を対象としているケースが多く、応募条件は事前に必ず確認しましょう」（https://unistyleinc.com/techniques/1404）
+  - 「例えば、苦手意識を持つ生徒には、テキストの説明に加え、イラストや例え話を用いて説明する等、伝え方を工夫しました」（https://unistyleinc.com/techniques/1404）
+  - 「このように子どもたち一人一人に寄り添った指導をした結果、担当していた生徒から積極的な発言が増え、より良好な学習環境を築くことができました」（https://unistyleinc.com/techniques/1404）
+  - 「この経験を通じて、個々の異なるニーズを把握し、柔軟に対応することで、より良い結果を生み出すことができるということを実感しました」（https://unistyleinc.com/techniques/1404）
+  - 「例えば、カナダ人は積極的に会話を広げる接客を好んだのに対し、韓国人は素早い提供を重視していた」（https://unistyleinc.com/techniques/1404）
+  - 「チームで試行錯誤を重ねて取り組んだ結果、3か月で売り上げを20％向上させることに成功した」（https://unistyleinc.com/techniques/1404）
+  - 「インターンシップに応募した理由は人それぞれだと思いますが、特にその企業のインターンシップに魅力を感じるのは、その企業の何かがあなたの中に響いたからではありませんか?例えば、インターンシップを通じて成長したいと考え志望している人は「なぜその企業でなら成長できると思うのか」「その根拠となる自分自身の経験」を答えると良いでしょう」（https://unistyleinc.com/techniques/1404）
+  - 「例えば、「○○（名前）と申します」（https://unistyleinc.com/techniques/1404）
 
 ## 有価証券報告書・決算資料から稼ぎ方を読み解く方法（read annual reports business model analysis）
 - 文脈：企業
@@ -676,11 +676,12 @@
   - 「STIXとは異なって、脅威そのものではなく、IDSに投入するレベルに落とし込んだIOCの表現方法」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「攻撃の方法は絶えず変化するので、confidenceを75%くらいに設定して、ルールを運用するとよいそうです」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
   - 「組織の根幹であるリスク管理に相当する事項のため、分析で得られた知見の使い方については、一意の正解はありません」（https://qiita.com/osada/items/c75c34ce716ee4ffba8f）
-  - 「ペネトレーションテストの標準的なフレームワークでは、最初のフェーズは必ず」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「典型的なペンテストの偵察フェーズでは次のような情報を収集する」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「Step 1」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「Step 2」（https://note.com/red_structure/n/na2c79b00d217）
+  - 「【2026年最新版】OSINT Framework JP 公開情報調査ツール一覧」（https://mikiya-webdesign.com/osint-tools/）
+  - 「TYLabs QuickSand Framework」（https://mikiya-webdesign.com/osint-tools/）
+  - 「使い方について7件まとめました」（https://mikiya-webdesign.com/osint-tools/）
+  - 「利用目的・方法・各規約によっては問題になる場合があるため、規約と法令を守り不当な用途では使わないでください」（https://mikiya-webdesign.com/osint-tools/）
 - 突き合わせ・推定：
+  - 「1990年代後半に確認されて以来、今もなお猛威を振るい続けるこの攻撃手法について、プログラミングが全くわからない方でも理解できるよう、仕組み・実際の検証・そして具体的な対策まで徹底解説します」（https://yasashii-cybersecurity.com/osint-professional-techniques/）
   - 「OSINT を通じて得られる情報は、すべて検証されているわけではありません」（https://note.com/subland_/n/nd946aa4f734d）
   - 「情報を正確に活用するためには、取得した情報を検証することが大切です」（https://note.com/subland_/n/nd946aa4f734d）
   - 「本稿は、主要なインテリジェンス機関（CIA、モサド、MI6、KGB）が情報を収集・分析する手法を検証し、これらの手法が企業の市場調査にどのように適用可能かを考察するものである」（https://note.com/everprogress/n/n28fc53b2c5cc）
@@ -695,7 +696,6 @@
   - 「よく知られた事例では、商用衛星が撮った小売店の駐車場の画像から車の台数を数え、小売業者の四半期の売上を推計する手法が使われた」（https://note.com/everprogress/n/nde8351a93d60）
   - 「要点は、公開データを実行に移せるインテリジェンスに変える手順、すなわち情報を検証し、文脈の中で分析し、意思決定者に使いやすい形で届ける手順を備えることである」（https://note.com/everprogress/n/nde8351a93d60）
   - 「情報源の質と信頼性を記述すること、主要な判断に伴う不確実性を明示すること、根拠となる情報と分析官の仮定を区別すること、代替仮説を検討すること、顧客にとっての意味を示すこと、明快で論理的な論証を用いることなどが、すべての分析製品が満たすべき技法基準とされる(ODNI, 2015)」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「この検証の段階では、複数の情報源による裏づけを通じて情報の出所と信頼性を確かめることが、実務上の要点として強調されている(三和コムテック, 2025; GMOインターネットグループ, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
 - 一次情報の探し方：
   - 「とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ」（https://note.com/red_structure/n/na2c79b00d217）
   - 「検索エンジンの検索結果・SNSの投稿・企業のWebサイト・ドメイン登録情報（WHOIS）・求人票・政府機関の公開データベース・学術論文・ニュース記事——これらすべてが対象になりうる」（https://note.com/red_structure/n/na2c79b00d217）
@@ -745,6 +745,9 @@
   - 「：ケーススタディによれば、インテリジェンス思考を導入することで戦略的優位性を得ることができる」（https://note.com/everprogress/n/n28fc53b2c5cc）
   - 「例えば、ヘッジファンドが画像データや取引データを活用して投資判断を行ったり、企業がプライベート・インテリジェンス企業を利用してデューデリジェンスや競合分析を行ったりしている（Black Cube, n.d.）」（https://note.com/everprogress/n/n28fc53b2c5cc）
 - 検索結果の抜粋：
+  - 「【2026年最新版】OSINT Framework JP 公開情報調査ツール一覧 — OSINT Frameworkを日本語で利用できる公開情報調査ツール一覧。1168件のOSINTツールを33カテゴリに整理し、ユーザー名・SNS・メール・ドメイン・IP・位置情報など目的別に検索できます。初心者向けQ&Aも掲載。」（https://mikiya-webdesign.com/osint-tools/）
+  - 「Open-Source Intelligence (OSINT) - Global Strategic Business ...Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) for Researchers and ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Open-Source Intelligence (Osint) Market Size, Share | Growth ...Top 15 OSINT Tools for Business Intelligence - salesfuel.com — The Open-Source Intelligence (OSINT) 」（https://www.researchandmarkets.com/reports/6236083/open-source-intelligence-osint-global）
+  - 「Open Source Intelligence (OSINT) Market (2026 – 2035)Open-Source Intelligence (OSINT) for Researchers and ...Open Source Intelligence Market Trends Anaysis Report 2026-2030Open-Source Intelligence (Osint) Market Size, Share | Growth ...Top 15 OSINT Tools for Business Intelligence - salesfuel.com — Open-Source Intelligence (OSINT) Type Insights Based on technique, the Open-Source Intelligence (OSIN」（https://www.marketresearchfuture.com/reports/open-source-intelligence-market-4545）
   - 「公開情報という武器――OSINT入門｜red_structure — Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。」（https://note.com/red_structure/n/na2c79b00d217）
   - 「OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 — Jul 28, 2026 · OSINT（Open Source Intelligence／公開情報調査）は、公開されている情報源を体系的に収集・分析し、判断材料として整理する手法の総称だ。 特別なツールを揃えないと使えないものではなく、公的データベースや報道アーカイブと...」（https://shiraberu-note.com/osint-basic-tools-guide/）
   - 「OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · OSINT（オープンソース・インテリジェンス）は、インターネット上の公開情報を利用して情報収集・分析を行う手法です。 サイバーセキュリティから企業調査まで幅広い分野で活用されています。」（https://cybersecurity-info.com/column/30403/）
@@ -757,9 +760,6 @@
   - 「公開情報という武器――OSINT入門｜red_structure — Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence） とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく 「公開されている情報源」 を意味する。 もともとは軍 ...」（https://note.com/red_structure/n/na2c79b00d217）
   - 「OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 — Jul 28, 2026 · OSINT（公開情報調査）入門｜個人でも使える基本ツール5選 OSINT（Open Source Intelligence／公開情報調査）は、公開されている情報源を体系的に収集・分析し、判断材料として整理する手法の総称だ。」（https://shiraberu-note.com/osint-basic-tools-guide/）
   - 「公開情報という武器――OSINT入門｜red_structure — Mar 18, 2026 · OSINTとは何か——諜報活動との違い OSINT（Open Source Intelligence）とは、インターネット上や公的機関が公開している情報源から情報を収集・分析する手法の総称だ。「オープンソース」という言葉は、ソフトウェアのオープンソースではなく「公開されている情報源」を意味する。 もともとは軍や ...」（https://note.com/red_structure/n/na2c79b00d217）
-  - 「OSINT（オシント）とは？手法や活用方法、おすすめツールを解説 — Jul 29, 2024 · 近年注目を集めるOSINT（オープンソースインテリジェンス）。誰でも使える公開情報から、企業分析、セキュリティ対策、調査報道まで、幅広い目的に役立つ情報収集手法です。この記事では、OSINTの手法と活用方法を徹底解説。初心者でも始められるおすすめツールも紹介します。」（https://product.sct.co.jp/blog/security/what-is-osint）
-  - 「【初心者向け完全ガイド】OSINTとは何か？公開情報から真実を読み解く... — Mar 9, 2026 · OSINT（Open Source Intelligence）とは何かを初心者向けに解説。公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド。」（https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/）
-  - 「OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · OSINT（オープンソース・インテリジェンス）は、インターネット上の公開情報を利用して情報収集・分析を行う手法です。サイバーセキュリティから企業調査まで幅広い分野で活用されています。 本記事では、OS […]」（https://cybersecurity-info.com/column/30403/）
 
 ## コンサル・アナリストのリサーチの型（consultant research methodology）
 - 文脈：型
@@ -3735,11 +3735,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -4177,8 +4177,8 @@
   - 「Check again for missing cases/duplicate cases.」（https://datamgmtinedresearch.com/clean）
   - 「in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:」（https://datamgmtinedresearch.com/clean）
   - 「If there are true errors where the correct answer can be easily inferred (e.g., a 3-item rank order question is completed as 1, 2, 4), sometimes logical or deductive editing can be used in those cases and the value is replaced with the logical correction」（https://datamgmtinedresearch.com/clean）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
 
 ## 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け（ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood）
 - 文脈：書き方
@@ -5661,7 +5661,7 @@
   - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
   - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
   - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
 
 ## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
 - 文脈：出どころ
@@ -6374,3 +6374,133 @@
   - 「Example of a digitally signed, court-ready capture report」（https://www.forensicosint.com/）
   - 「Cases are built across days, weeks, or months. Evidence must stay organized, traceable, and connected as the case develops.」（https://www.forensicosint.com/）
   - 「Notes, observations, and investigative context are captured with the evidence itself, not stored separately. This keeps meaning, intent, and relevance intact as the case develops.」（https://www.forensicosint.com/）
+
+## 競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり）（competitor revenue filed stated estimated two methods disagree factor of two customer count）
+- 文脈：手順・やり方
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
+
+## 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）（revision triangle real-time dataset noise versus news test mean revision t-test Eurostat）
+- 文脈：手順・やり方
+- 手順・やり方：
+  - 「Still others come from methodological changes or benchmark updates.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「In this euro area example, the efficient-release step selects」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.」（https://ropensci.org/blog/2026/04/13/reviser/）
+- 突き合わせ・推定：
+  - 「Gross domestic product (GDP), inflation, employment, and other official statistics arrive as early estimates, then get revised as new source data arrive, seasonal adjustment is updated, or benchmarking changes are applied.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The first step is to reshape the data into a tidy vintage format, where each row corresponds to an observed value, the date it refers to, and the publication date of that estimate.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Estimate Std. Error t value Pr(>|t|)」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「That matters if you need to make decisions on preliminary data but also want a structured way to estimate how those figures are likely to change later.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Both approaches cast the revision problem into state-space form, which makes it possible to estimate the dynamics of news and noise in successive data releases.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「, then estimate the revision system on the corresponding panel of releases.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Parameter Estimate Std.Error」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The fitted object contains estimated parameters, filtered and smoothed latent states, and plotting methods for the implied efficient-release path.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Official estimates of economic growth are regularly revised and therefore forecasts for GDP growth are done」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「Statistical Agencies (SAs) to revise their estimates beyond the timeliness of their data collection. We show that」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「estimates too much, while they are much more open to revise GDP expenditure components over time. More」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「availability of data sources. For instance, the flash estimate for the euro area GDP is available as soon as 30」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「We postulate that SAs consider the initial GDP growth estimates to be accurate enough and they internalise the」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「initial GDP estimates, but it changes other GDP sub -components on the expenditure side which then cancel each」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+- 失敗・落とし穴：
+  - 「Those revisions matter because they can change the narrative around turning points, policy mistakes, and forecast performance.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「summarize bias, dispersion, and serial dependence in revisions;」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Suppose we want to focus on U.S. GDP growth, visualize how estimates moved during the 2008-09 global financial crisis, and then ask whether early releases were systematically biased relative to a later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「id release `Bias (mean)` `Bias (robust p-value)` `Noise/Signal`」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.52 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.425 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.507 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.851 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.326 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.181 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「• No significant bias detected (p = 0.202 )」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The revision summary reports quantities that applied work often needs but usually rebuilds ad hoc: mean bias, quantiles, volatility, noise-to-signal ratios, and hypothesis tests for bias, serial correlation, and news-versus-noise interpretations.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「(rationality tests), i.e. revisions should not be biased and therefore present a zero mean, revisions should be small」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+- 実例：
+  - 「A compact example with GDP vintages」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「The package ships with a GDP example dataset in long vintage format.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「In the bundled example, the early U.S. GDP releases over this sample show little evidence of systematic bias relative to the later benchmark.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「For many users, revision summaries will be the main use case.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「example following the Kishor-Koenig workflow from the」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「In this euro area example, the efficient-release step selects」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「Diagnostic plot from the Kishor-Koenig nowcast example.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「If you find gaps in the workflow or have a use case to share, open an issue or contribute an example.」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「A digest of R package and software review news, use cases, blog posts, and events, curated monthly. Subscribe to get it in your inbox, or check the」（https://ropensci.org/blog/2026/04/13/reviser/）
+  - 「shown the usefulness of using vintages for forecasting, see for example Garrat et al. (2008), Kishor and Koenig」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「the CV-VAR approach can improve the forecast of the initial announcements for most of the cases compared to」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+  - 「significant and there is no case where the V -VAR model generates a statistically significant better forecast than」（https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## 指数の基準年の改定と遡及の作り直し系列を当時の公表値とつながない実務（基準改定・rebasing・backcast）（index rebasing backcast series contemporaneous publication statistical break）
+- 文脈：手順・やり方
+- 手順・やり方：
+  - 「Chapter 2: Backcasting methods .......................................................................................... 21」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「B. Backcasting methods consistency issues. .............................................................. ........................................ 21」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「C. Integration Methods for the backcasted sequence of accounts ...................................................................... 26」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「5. Changes to accounting methods (valuation and timing of recording of transactions); ........................... 31」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「6. Improvements in compilation methodologies and quali ty of source data. ............................................. 31」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「E. Assess methodological options for each consistency issue. .......................................................................... 32」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Individual revision topics and methods ............................................................... ................................................. 48」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Technical Backcasting methodologies .................................................................. ............................................... 48」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Research papers and methods for long time series ..................................................... .......................................... 48」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「implementing new interpolation/projection technique s and other methodological changes.」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「methodological guidance in applying backcasting tec hniques to maintain coherent timeseries. In」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「required for the process, and articulate key steps such as analysing existing database, compiling」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「be produced. The Data Quality Assessment Framework for National Accounts published by the」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「1.3 The premise of this Handbook is to provide guidance on how to produce a consistent set」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「of the DQAF to set a framework for developing backcasted series, integrating them into a National」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+- 突き合わせ・推定：
+  - 「to estimate and project the dynamics of the economy . It is important that the database cover」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「economic performance, and that the key users for fi scal and monetary policy employ estimated」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「years” relates to the production of current quarter ly estimates or the “live” period when at least」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「need for at least that length of consistent time se ries to establish reliable estimates for seasonal」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「variable or a set of accounts are documented and pu blished so that the old and new estimates are」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「case there is no sure way to know how earlier estimates would have changed if, for instance, new」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「further back in history, the more difficult it may be to find direct estimates of any specific issue.」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「estimates, the availability of data available to re concile the estimates to produce reasonable」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「estimates and the results of the validation process.」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「on an ongoing basis, and, a backcasting project to extend the new estimates and structure backward」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「completed transforming an existing set of SNA estimates and accounts to a new version」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「“benchmark” to base future estimates on but also is used as the link for the backward」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「estimates; and,」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「series as is “reasonably possible” in line with the “new” SNA estimates.」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「old estimates. Set some」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+- 一次情報の探し方：
+  - 「EN.PDF/3544793c-0bde-4381-a7ad-a5cfe5d8c8d0」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「7B56804562AC/0/1999091p30pub.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「33 https://www.bis.org/ifc/publ/ifcb33a.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「(STD`NA(99)39 https://www.oecd.org/std/na/2681263.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Leo and S. Pisani, ISTAT 1999,https://www.oecd.org/std/na/2681239.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Business June 2008, https://www.bea.gov/scb/pdf/2008/06 June/0608_flexible.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「https://bea.gov/scb/pdf/2008/05 May/0508_nipa_pce.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「bmdi/document/1401_D13_T9_V1-eng.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Leo and S. Pisani, ISTAT 1999 https://www.oecd.org/std/na/2681239.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「www.bea.gov/scb/pdf/2013/11%20November/1113_finance_services.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「May 2008 https://apps.bea.gov/scb/pdf/2008/05%20May/0508_methods.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「WS/Lao WS-Country practices on rebasing and linking NA.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「https://onlinelibrary.wiley.com/doi/10.1111/j.1475-4991.2009.00342.x/pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+- 失敗・落とし穴：
+  - 「effects the trend or level of GDP, and could be the result of a predictable bias. In this literature」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「the use of the analysis was to build “bias” estimat es into the modelling process used in policy」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「revisions in with the regular revision practices when looking at issues of bias. It could lead to a false」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+- 実例：
+  - 「I. Example of a review exercise for a historical backcasting project ................................................................ 35」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「D. Examples of Communication Output of a Major update and backcasting exercise: ..................................... 46」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「case there is no sure way to know how earlier estimates would have changed if, for instance, new」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「economic history unless the change is justified by a documentable phenomenon. For example,」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「alternative backcasting techniques and integration procedures. It describes various examples of」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「project. It discusses that assumptions underlying these methods and presents some examples of」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「2.10 Examples for use of bottom up could be a re-sectori zation exercise to identify quasi-」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「2.11 Another example would be the compilation of Researc h and Development Expenditures」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「can be recompiled using detailed sources. An example could be newly acquired access to payroll」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「2.13 In some cases, a new methodology which caused a dis crepancy between the old and new」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「assumption. It should be used with caution. For example, if a new data source in the recent period」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「new estimates. In the example above, if the casual worker phenomenon was known to have been」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「2.22 In the example above, if the phenomenon of missing wages of causal employment could」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「aggregates. For example, a new survey could reveal that a five-digit level (COICOP) expenditure」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「this case. In the case of a source data change or redesign, it would be preferable to parse the」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
