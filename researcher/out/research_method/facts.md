@@ -2187,6 +2187,7 @@
   - 「信用調査会社：推定値を含めて売上規模を把握できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「Q3. 決算公告の当期純利益から売上高を推定できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「前期と今期の純資産を比較することで、利益の増減を推定できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「ただし、前期と今期の純資産の差額から大まかな利益・損失の傾向を推定することは可能です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「前期比での純資産の変化から、損益の傾向を間接的に推定できる」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -2197,7 +2198,6 @@
   - 「仮説1：御三家は三菱自動車を潰さない」（https://note.com/ib_pe_hf/n/n91f16945e33e）
   - 「仮説2：発行価格100円は、資本増強後の会社の価値より安い」（https://note.com/ib_pe_hf/n/n91f16945e33e）
   - 「仮説3：ハンズオンの実績を作れる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「5-2. iBによるリターンの推定（仮定値）」（https://note.com/ib_pe_hf/n/n91f16945e33e）
 - 一次情報の探し方：
   - 「決算公告に売上高が載っていないのはなぜ？理由と調べ方を解説 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告に売上高が載っていないのはなぜ？理由と調べ方を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -2236,6 +2236,7 @@
   - 「中小企業の取引先を調べる場面では、相手が大会社に該当しないケースが大半であり、決算公告に売上高が載っていないのはむしろ標準的な状態といえます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「筆者が実際に取引先候補の決算公告を官報検索で調べた際も、売上高がわからないことに最初は戸惑いましたが、純資産と当期純利益の2つを数期分並べて見るだけで「純資産が毎期着実に増えている＝利益を出し続けている会社」だと判断でき、結果的に与信判断には十分でした」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -2245,7 +2246,6 @@
   - 「なお、電子公告を選択している中小企業の一部は、義務の範囲を超えて損益計算書も任意で掲載するケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「バイアウトのケーススタディから投資について学びたい方」（https://note.com/ib_pe_hf/n/n91f16945e33e）
-  - 「同じことが他の不祥事でも起きるのかを、日本企業の主な事例で確かめる」（https://note.com/ib_pe_hf/n/n91f16945e33e）
 
 ## 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）（how to find private company revenue Japan consulting knowledge base）
 - 文脈：探し先
@@ -2508,6 +2508,10 @@
 - 突き合わせ・推定：
   - 「海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「しかし、適用対象や例外事項などを正しく解釈しなければならない海外規制調査のような場面においては、ツールの知名度や海外発という出自だけで選ばず、情報源と検証」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「架空の企業分析を例に、説明を求める質問、比較条件と原典の照合、判断できない点を専門知識を持つ人へ引き継ぐ手順を紹介します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「StatistaのStatisticsとMarket Insightsを見分け、国内B2B市場への参入仮説を支持・反証する証拠に整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版」（https://media.deskrex.ai/how-to-conference-survey-2026/）
+  - 「しかし、適用対象や例外事項などを正しく解釈しなければならない海外規制調査のような場面においては、ツールの知名度や海外発という出自だけで選ばず、情報源と検証」（https://media.deskrex.ai/how-to-conference-survey-2026/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ | DeskrexAIリサーチ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2517,10 +2521,6 @@
   - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「モデルを用いた検証でも、タスクによっては3.1〜19.1%のハルシネーション（事実に基づかない出力）が実測」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「前工程で人が検証と承認を終えた事実を、途切れることなく次の判断へ渡すためには、作業の段階に合わせて適切なツールと手法を選択し、つなぎ合わせる必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「を用いて検証済みの事実だけを抽出したりと、目的に応じたガイドを選びます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「最後に、検証を通過した確かな事実だけを、」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「そのため、人が情報源の確からしさをたどり、例外的な条件を補足し、機密情報の取り扱いが適切であったかを検証したプロセスを、調査の完了条件として台帳に書き留めます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 一次情報の探し方：
   - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「人材市場の採用動向を公的統計と求人媒体から調べる手順を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2528,20 +2528,21 @@
   - 「半導体R&D／知財／新規事業／マーケ向けに、『前工程／後工程／装置／材料』の4層フレームワークと、論文・特許・IR資料の3ソース統合フローで、半導体材料の技術トレンド調査をAIで叩き台まで作る7ステップを解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「市場の白地と特許の白地の違い、ナレッジグラフ型AI調査エージェントで白地を見つける手順、R&D企画・新規事業・知財の職種別実例、2026年のトレンド、月曜日から試せる3つの一歩まで」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「2026年に増えすぎたAIモデルを『タスクの変数量 × 推論深度』の2軸で整理し、企業のAI推進担当・エンジニア・非エンジニアの3層それぞれの使い分けを一次情報ベースで解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「外部統計と社内実績をAIで前提台帳と三シナリオへ整理し、経営陣が目標と資源配分を決める6段階を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「Statistaとは？AI調査で統計データを使う確認手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIリサーチエージェントの市場規模を、世界（Grand View 10.9B USD）、日本（IDC 2029年6.9兆円）、Deep Research・特許AI・論文AI・市場調査AIのカテゴリ別、資金調達、業界別導入率、2030年予測の5軸で一次ソースURL付きで整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「さらに、その情報を採用するかどうかの採否、利用における権限、次に見直すべき更新期限を判断します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「化学特許AIツール6選｜構造式・マーカッシュ対応の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「化学のR&Dで使う特許AIツール6選を構造式画像認識・マーカッシュ検索・自然言語AI・FTOの4軸で比較」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「CAS SciFinder・Reaxys・Patsnap Eureka・Derwent・Patentfield AIR・IPRallyの使い分けと、三井化学1万件PDFエージェント事例、職種別早」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「It was 2022, my third year running outbound for a B2B team. I had 200 private companies to tier by size. No filings. No earnings call. Just names and websites. So I eyeballed one mid-market firm into the “small” bucket and pitched them our starter package.」（https://cufinder.io/blog/find-private-company-revenue/）
-  - 「You can’t pull the exact annual revenue of a private company from a filing, because private firms don’t file one. But you can estimate it well by combining headcount, funding, and industry benchmarks, then confirming against a data provider. The more signals agree, the tighter your number.」（https://cufinder.io/blog/find-private-company-revenue/）
-  - 「Yes, for many businesses. Public companies post exact revenue in their filings, and data providers carry estimated revenue for millions of private firms. A free lookup gets you a ballpark, while a paid enrichment tool gets you a researched figure across a whole list.」（https://cufinder.io/blog/find-private-company-revenue/）
 - 失敗・落とし穴：
   - 「Perplexity AIの特徴や利点だけでなく、限界や注意点も知ることができ、効果的な活用方法が見つかるはずです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIの全件目視を減らす前に必要な失敗記録、反復評価、例外レビュー、人間承認の境界を、低リスク工程の実務設計として説明します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「動画は、読者の注意を引き付け、情報を効果的に伝えるのに優れたメディアです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIの全件目視を減らす前に必要な失敗記録、反復評価、例外レビュー、人間承認の境界を、低リスク工程の実務設計として説明します」（https://media.deskrex.ai/how-to-conference-survey-2026/）
+  - 「学習の3層モデル、3サービスの設定パスと削除挙動の比較、個人情報保護委員会の注意喚起を踏まえた顧客データ扱いのチェックリスト、破滅的忘却と継続学習の現在地までを公式ドキュメントと論文から整理しました」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「社内資料を接続するときの注意点は何ですか？」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「重大な仕様変更や取得失敗があれば定期日を待たず見直します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「特に注意したいのは、同じ研究の異なる版を別の独立した研究として数えてしまうことや、PDFファイルをパソコンにダウンロードした日時を、論文の発行日時と混同してしまうことです」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
@@ -2552,7 +2553,6 @@
   - 「そのため、比較表の各項目はそのまま鵜呑みにせず、必ず原典で検証するプロセスが不可欠です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「※なお、全文をAIツールに読み込ませる際、オークランド大学図書館は、同大学の購読契約に反するため、著作権のある文献の全文をAIへアップロードしないよう注意しています」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「そのため、一つのノートで得られた回答を、手持ちの全資料に対する網羅的な調査結果として扱わないよう注意してください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「AIの出力は鵜呑みにせず、必ずリンク先の原文の文脈へ遡り、人間が評価条件を確認して採否を決めてください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 実例：
   - 「Perplexity AIの基本的なリサーチのための使い方から、リクルーター、マーケター、教育者、プロダクトマネージャーなど職種ごとの活用事例、ChatGPTやDeskrexとの比較まで、Perplexity AIを徹底的に解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
@@ -2560,15 +2560,15 @@
   - 「新規事業テーマ探索・顧客課題深掘り・意思決定の3ユースケース別に、実物テンプレとそのまま使えるAIプロンプトを公開します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「市場の白地と特許の白地の違い、ナレッジグラフ型AI調査エージェントで白地を見つける手順、R&D企画・新規事業・知財の職種別実例、2026年のトレンド、月曜日から試せる3つの一歩まで」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「5つの専門AIエージェントを持つSkyworkとは？DeepResearchの性能、活用事例や比較を徹底レビュー！」（https://media.deskrex.ai/how-to-conference-survey-2026/）
+  - 「Claude Fable 5.1とは？使い方・料金・おすすめユースケースを解説」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「Claude CodeとAPIの始め方、公開事例、受入テストを解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「Microsoft、Google、Metaの2024-2025年事例から読み解く6つの買収パターンと、統合後の「空洞化」を防ぐ実務的な管理手法」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「2024年の中国生成AIの事例・規制・スタートアップの覇権競争とは？2025年予測も解説！」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
+  - 「5Forces分析とは？AI自動化の事例と月曜から使う手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「40時間→2時間の事例、ChatGPTプロンプト2種、業界別事例、反復ループ型ワークフローまで具体的に紹介します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「毎週、生成AIに関するビジネス活用の事例をお届けしています」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「このように、事前に判断課題と条件を固定することで、誰が依頼しても同じ品質の調査結果が得られる土台が完成します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「完成した調査結果を一度きりで終わらせるのではなく、台帳へ記録する際に次回の見直し期限や再調査の条件を合わせて定めます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「AIは与えられた文脈をもとにウェブ上の情報を探索し、候補の収集や分類、比較表の初稿作成、過去の調査結果との差分抽出といった作業を実行します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「出来上がるのは、社内の意思決定を支える判断台帳、事実の根拠をたどれる出典台帳、通常とは異なるケースをまとめた例外記録、そして情報が陳腐化した際に再び収集ステップを起動するための再調査条件です」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「されており、引用元のURLが実在しない捏造であるケースも一定割合で発生します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 
 ## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
 - 文脈：分析の型
@@ -3053,11 +3053,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -5427,49 +5427,70 @@
 ## 専門家・関係者インタビューの裏取り（1人の証言の重み・内と外の三角測量・中間層の当事者を選ぶ・社会的に望ましい答えの偏り）（expert interview triangulation evidence weight insiders social desirability bias）
 - 文脈：裏取り
 - 手順・やり方：
-  - 「Why Do We Speak to Experts? Reviving the Strength of the Expert Interview Method | Perspectives on Politics | Cambridge Core」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「Why Do We Speak to Experts? Reviving the Strength of the Expert Interview Method」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「) have dominated the methodological debate in the social sciences. Scholars conduct causal investigations with experimental or quasi-experimental designs (Dunning」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「). This application of rigorous methods of causal inference has greatly expanded our knowledge about political behavior and its outcomes. However, despite the fact that quantitative approaches have driven the recent methodological debate in comparative politics and international relations,」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「However, despite its high practical relevance and the existence of classic works on the qualitative interview method (Aberbach and Rockman」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「), current reflection on the promises and limits of this technique is sparse. There is also little guidance offered on how to use the method most effectively (Fujii」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「, 766), often providing the empirical basis for the process tracing method (Beach and Pedersen」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「). However, the accuracy of expert prediction vis-à-vis other methods, in particular data-based approaches, is highly contested (Hanson et al.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「Finally, expert interviews may serve as a method of」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「inside and outside experts and include them in an integrated analytical framework. The heuristic differentiation of both groups allows us to relate them to each other systematically. For their purposeful selection through the recommendations of other experts, snowball sampling and related techniques can be used (Goldstein」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「The precondition for applying this indirect assessment method is a sufficiently high number of interviewees (Lyall」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「In addition to systematically selecting experts as well as dealing with the reactivity and subjectivity of the expert-interview method, the capturing of evidence should follow clear guidelines. Researchers should ensure that the material used is representative of the whole empirical corpus and triangulate expert interviews.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「, 731, 735). This is all the more important as due to ethical and methodological constraints qualitative research is much harder to replicate than statistical analysis. Often, expert-interview transcripts cannot be made public.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「). Hence, this guiding principle should not make scholars reject the method in difficult cases.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「Much of the current mainstream methodological discussion in political science has centered around the use of experimental methods and new ways of making causal inferences via statistical means. Further insightful research has discussed the methodological, psychological, and ethical issues of field-research methods such as immersion (most recently, Driscoll」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978).」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Data, investigator, theory and method triangulation each corroborate a finding from a different direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What is Method Triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「approaches the same data through more than one theoretical framework.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「combines different methods to study one topic.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Method Triangulation:」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Method triangulation, also called methodological triangulation, combines different methods to explore the same topic. Researchers can pair」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「qualitative and quantitative methods」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「It starts with the research design, where researchers purposefully select a diverse range of data sources, methods, and theories relevant to the research question.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「When reporting, researchers should describe their triangulation strategies clearly. They should name the types of data sources, methods, and theories involved. They should also explain how the data from different sources were compared and contrasted.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Connect the rationale to the research question and the chosen methodology.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Specify the specific types of triangulation used in the study, such as data triangulation, investigator triangulation, theory triangulation, or method triangulation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「For each type, provide a detailed description of the sources, methods, theories, or investigators involved.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「mixed methods approaches」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
 - 突き合わせ・推定：
-  - 「, 99f.). In consequence, the evidentiary value of just one expert interview is close to zero; it needs to be cross-checked with other interviews or data streams (“triangulation,” discussed later). I would furthermore advise scholars to conduct an assessment of the motives a respondent might have to distort or conceal information before interviews start (Beach and Pedersen」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「). One group of interviewees receives the complete list of statements, while the other group gets the same one but without the sensitive statement. The comparison of the two groups’ mean answers provides “an estimate of how many respondents believe the sensitive item to be true” (Swedlund」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「External and Internal Triangulation」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「). The precondition for this triangulation is that the sources do not depend on each other (Beach and Pedersen」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
+  - 「Triangulation in Qualitative Research」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978).」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Data, investigator, theory and method triangulation each corroborate a finding from a different direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Triangulation is not a magic bullet. Used as a checklist item, it can create an illusion of corroboration.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What is Triangulation in Qualitative Research?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What is the purpose of triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What are the types of triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What is Data Triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What is Investigator Triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What is Theory Triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What is Method Triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「How is triangulation reported in research reports?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Triangulation helps researchers to:」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Triangulation does not necessarily imply seeking complete agreement across data sources. The goal is not a singular, unified interpretation. It is to acknowledge and explore the complexities and contradictions that may emerge.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「different types of triangulation」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
 - 失敗・落とし穴：
+  - 「of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「This helps to reduce the risk of relying on a single source that may be biased or incomplete.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「. A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「What are Bias in Qualitative Research?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Addressing how researcher bias was managed through triangulation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「a shared bias can make agreement look like independent confirmation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Combining embedded and outside-observer perspectives reduces the bias either group carries alone.」（https://veridatainsights.com/expert-interviews-research/）
+  - 「How Do You Select and Sample Experts Without Building in Bias?」（https://veridatainsights.com/expert-interviews-research/）
+  - 「reduces bias and captures decision-making mechanisms more completely」（https://veridatainsights.com/expert-interviews-research/）
   - 「Dealing with Personal Biases」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「, 207–9). Interviewing inside and outside experts holds promises but also pitfalls (see the summary in」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「In addition to the selection of both inside and outside experts, it is of crucial importance to limit the possibility that respondents’ personal biases compromise the results and thereby limit expert interviews’ analytical value.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「for different potential biases).」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「, 154). Yet external experts also have their ideological and personal predispositions that affect the answers they give. Analyzing highly contentious issues such as the support for violence or working in post-conflict and authoritarian environments makes social-desirability bias particularly salient (Lyall」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「). Social-desirability bias regularly renders responses invalid. To counter this, scholars have designed so-called list experiments to help examine “true biases and preferences that would be otherwise difficult to reveal” (Dietrich, Hardt, and Swedlund」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「To overcome the power of the good quote and avoid biases in using references, scholars should clearly catalogue the procedures guiding the aggregation and interpretation of information (Tripp」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「(Dis)Courtesy Bias: ‘Methodological Cognates,’ Data Validity, and Ethics in Violence-Adjacent Research」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
 - 実例：
+  - 「For example, one data source may suggest a particular theme while another reveals contradictory evidence. That discrepancy is worth investigating. Researchers should explore the reasons behind the differences and consider how they might shape the overall interpretation of the findings.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「For example, a researcher might interview comparable groups at different sites. Or they might revisit the same group over time. Either way, the aim is to see whether a theme rests on one setting or one moment.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「For example, in a study exploring patient experiences with a new medication, data triangulation might compare interviews with patients and focus groups with healthcare providers. It might also draw on analysis of patient medical records.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「For example, a study exploring the impact of social media on body image could use theories from psychology, sociology, and media studies to analyze the data. This could reveal novel relationships between constructs.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「For example, a researcher might state, “Triangulation was employed in this study to enhance the credibility of the findings by drawing upon multiple data sources and perspectives.”」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「. A worked example came from their own mixed-methods case study evaluating Strategic Clinical Networks in Alberta, Canada.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Credibility, for example, was built through investigator triangulation during coding. Trustworthiness, they concluded, must be built during analysis, not asserted afterwards.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「Checklists for improving rigour in qualitative research: A case of the tail wagging the dog?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「But keep expectations realistic. Expert interview evidence is not representative in the statistical sense, one expert’s account is one perspective, shaped by their position and interests. That’s precisely why triangulation isn’t optional. If you’re building a case study or informing a strategic decision, treat expert interviews as one strong evidence stream among several, not the whole answer.」（https://veridatainsights.com/expert-interviews-research/）
+  - 「Contrast and example requests.」（https://veridatainsights.com/expert-interviews-research/）
+  - 「Ask for a concrete example.」（https://veridatainsights.com/expert-interviews-research/）
+  - 「Case Study: Recruiting YouTubers For Market Research – Veridata Insights」（https://veridatainsights.com/expert-interviews-research/）
   - 「). However, members of the elite are not necessarily knowledgeable about the political process or event of interest. In this case, they do not qualify as experts and the researcher should desist from selecting them as interview partners. For most research objectives, the selection of expert interview partners should therefore be problem- and expertise-centered rather than status-oriented.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「). Inside experts are decision makers who actually shaped the political or social process of interest. In this case, expert interviews are a proxy for participant observation (Pouliot」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「The case for mid- and low-level insiders:」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「Oftentimes, scholars disregard the influence and informational advantage of inside experts who do not occupy top positions—be it election campaigners, civil society activists, or mid-level civil servants. For example, to investigate political intervention into the tax administration in two African countries (von Soest」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「). Hence, this guiding principle should not make scholars reject the method in difficult cases.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「; for another example, Lundgren」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「Reference Archibald, Ambagtsheer, Casey and Lawless」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「Case Study Research: Putting the Quant into the Qual」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「Case Studies and Theory Development in the Social Sciences」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「Case Study Research: Principles and Practices」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「How Does Neopatrimonialism Affect the African State? The Case of Tax Collection in Zambia」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-  - 「Process Tracing and Elite Interviewing: A Case for Non-Probability Sampling」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -6674,7 +6695,7 @@
   - 「Identify assets which can be pledged as security (For example, equipment or accounts receivable that may be factored.)」（https://www.irs.gov/irm/part5/irm_05-015-001）
   - 「In some cases, payments on expense items are not due in regular monthly increments. Average necessary living expense items with varying monthly payments over 12 months.」（https://www.irs.gov/irm/part5/irm_05-015-001）
   - 「Examples of questions to ask business taxpayers include, but are not limited to:」（https://www.irs.gov/irm/part5/irm_05-015-001）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
 
 ## 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）（revision triangle real-time dataset noise versus news test mean revision t-test Eurostat）
 - 文脈：手順・やり方

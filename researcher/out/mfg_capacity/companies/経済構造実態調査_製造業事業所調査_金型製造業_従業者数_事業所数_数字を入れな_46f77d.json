@@ -1,0 +1,484 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し）",
+ "en": "Economic Structure Survey Japan die and mold manufacturing employees establishments",
+ "aliases": [
+  "金属用金型 従業者 事業所 経済構造実態調査 産業別",
+  "金型製造業 産業細分類 統計表 site:meti.go.jp"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T21:14:56.790963+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/qa/answer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASVBZ2PGHVBZOXIE03RM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035166",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/kkjkenkyu/pdf/giji01_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.automation-news.jp/2026/01/99782/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000755729.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001245387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jarea.org/cms_files/general/info/keizai_jittai_chousa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kantoko.com/blog/2025/09/90946/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imes.boj.or.jp/research/papers/english/me27-5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kikatu/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/estatis/esaikin/2026/e202607.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/en/papers/contribution/kawaguchi/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A757.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） 人手不足 受注 断る",
+   "results": [
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.stat.go.jp/data/kkj/qa/answer.html",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "https://www.asahi.com/articles/ASVBZ2PGHVBZOXIE03RM.html",
+    "https://www.kddi-bizedge.com/magazine/251224000010/",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1",
+    "https://www.techs-s.com/media/show/127",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.stat.go.jp/data/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035166",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035166",
+    "https://www.stat.go.jp/info/kenkyu/kkjkenkyu/pdf/giji01_2.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.automation-news.jp/2026/01/99782/",
+    "http://www.etisa.or.jp/kkj-1.htm"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.soumu.go.jp/main_content/000755729.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001245387"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://takumi-senpai.com/blog/mold-industry-2026/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://pref.shimane-toukei.jp/index.php?view=24427",
+    "https://data-seisaku.com/download/00200-soumu-00200555-seizou20-02-1-full-list/"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/219468.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://pref.shimane-toukei.jp/index.php?view=24427"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/07-060/kkj_shizuoka.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035166",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://jarea.org/cms_files/general/info/keizai_jittai_chousa.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.soumu.go.jp/main_content/000744047.pdf"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://kantoko.com/blog/2025/09/90946/",
+    "https://pref.shimane-toukei.jp/index.php?view=24427"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey Japan die and mold manufacturing employees establishments Japan statistics",
+   "results": [
+    "https://www.imes.boj.or.jp/research/papers/english/me27-5.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/index.html",
+    "https://www.jil.go.jp/english/estatis/esaikin/2026/e202607.html",
+    "https://www.rieti.go.jp/en/papers/contribution/kawaguchi/04.html",
+    "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en.html",
+    "https://www.ier.hit-u.ac.jp/Common/publication/DP/DPS-A757.pdf",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.jcer.or.jp/english/how-productive-is-the-japanese-manufacturing-sector",
+    "https://www.statista.com/statistics/270161/economic-sector-distribution-of-the-workforce-in-japan/?srsltid=AYCX9vJ2YiJwHiHneSrJ-I0nkCTzFBV9msavovfbRaX38ASaws6mN-3h",
+    "https://www.e-stat.go.jp/en"
+   ]
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し）",
+   "results": [
+    "https://note.com/kikuyosi/n/ndd3a3c2ab960",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/stats47/n/n816c665cb671?hl=en",
+    "https://note.com/yuiseita/n/n54b8f0dd127c",
+    "https://note.com/_shiripa/n/n1da51c986f33",
+    "https://note.com/kurashiki_note/n/nf62bfe5b9660?hl=en",
+    "https://note.com/powerpoint_jp/n/n5fe611924a90",
+    "https://note.com/umamusume_sui/n/nf372abb48db5"
+   ]
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し）",
+   "results": [
+    "https://x.com/nao_nass/status/2096793391002780049",
+    "https://x.com/_sato_mizuki_/status/2091133295861842418",
+    "https://x.com/techcirc_daihyo/status/2117092899057746181",
+    "https://x.com/_sato_mizuki_/status/2092741377516068916",
+    "https://x.com/amayado77/status/2072645093887295788",
+    "https://x.com/hidekodama",
+    "https://x.com/b_tairyu/status/2102311044404457657"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し）",
+   "results": [
+    "https://economicgraph.linkedin.com/",
+    "https://jp.linkedin.com/",
+    "https://sg.linkedin.com/in/rag-udd-0a2b95145",
+    "https://www.linkedin.com/pulse/how-export-linkedin-data-excel-step-by-step-guide-magicalapi-yjgbe",
+    "https://www.linkedin.com/",
+    "https://www.linkedin.com/posts/satoru-yoshida_限られた時間の中で統計データをうまく使うにはその数字が確かなのかを瞬時に見極めたい-activity-7205688869260808192-VOtv",
+    "https://in.linkedin.com/in/karthickrajas20"
+   ]
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し）",
+   "results": []
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） note 社長",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.automation-news.jp/2026/01/99782/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/gaiyo.html",
+    "https://note.com/dear_hyssop6712/n/nc61b8273f7d3"
+   ]
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 金型製造業 従業者数 事業所数（数字を入れない言い方・こだまの取り直し） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "https://www.nikkenren.com/news/pdf/oshirase/2407/158.pdf",
+    "https://www.yurokyo.or.jp/contents/pdf/5798-2",
+    "https://kantoko.com/blog/2025/09/90946/",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1052265.html"
+   ]
+  },
+  {
+   "query": "Economic Structure Survey Japan die and mold manufacturing employees establishments site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/ashleyaputnam",
+    "https://www.linkedin.com/company/jabil",
+    "https://www.linkedin.com/in/olgamack",
+    "https://www.linkedin.com/in/jim-hollingshad",
+    "https://cn.linkedin.com/in/xinama",
+    "https://www.linkedin.com/posts/michael-roberts-39192_in-2025-hsbc-processed-500-trillion-in-activity-7519042658074361856-mOLD",
+    "https://in.linkedin.com/company/sekisuidljm",
+    "https://www.linkedin.com/in/lara-evans-8018216",
+    "https://www.linkedin.com/in/bjohnson3rd",
+    "https://www.linkedin.com/in/mark-boomgarden-6529804"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ43頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ43頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ43頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ43頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ43頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ43頁・検索18回）",
+  "10年推移": "記載なし（読んだ43頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ43頁・検索18回）"
+ }
+}
