@@ -8,92 +8,8 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-06T09:23:55.563884+00:00",
+ "researched_at": "2026-11-06T13:43:32.954315+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "Here’s how these risks manifest with real-world examples:",
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "These examples highlight the critical importance of maintaining",
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Assign responsibilities for monitoring data freshness. For example, a multinational bank can appoint",
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Here are key strategies, each illustrated with real-world examples of company implementations:",
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Here are three strategies, supported by real-world examples:",
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Stale data refers to information that is outdated or no longer relevant to an organization. The relevance of data depends on its use case—while some data remains useful for months or years, others, such as real-time analytics, can become stale in just minutes.",
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Now, consider a more critical scenario. In a healthcare system, a doctor might prescribe the wrong medication based on outdated information if a patient's records are not updated in time. In such cases, stale data isn't just inconvenient—it can be life-threatening.",
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": One of the main causes of stale data is delays in data collection, often due to outdated collection methods. In systems that require real-time updates, relying on manual processes like copy-and-paste or batch processing can result in stale data. For example, the case we discussed earlier of stale data in a ticketing platform was caused by delays in data collection.",
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": When businesses rely on outdated data, they struggle to accurately understand customer needs and preferences, leading to a poor customer experience. For example, a recommendation platform using stale data may generate irrelevant suggestions, further reducing customer satisfaction.",
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", Quadratic helps users to identify stale data right from their spreadsheet interface. Suppose you’re working with large amounts of data for analysis and you quickly want to identify some stale data that is no longer relevant, you can do so by passing a text prompt in the Quadratic spreadsheet chat. Here’s an example:",
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "Estimate value and cost savings from data observability.",
-    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "shows that organizations lose an estimated $13 million annually due to poor data quality, including stale data.",
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "This page is reference information for research and learning. For accounting, legal, finance, health, security, or other individual decisions, confirm against primary sources or qualified professionals.",
-    "url": "https://core.yogoq.com/en-US/core/decision-log-refresh-plan",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Stale Data: How to Identify and Mitigate its Impact",
@@ -263,6 +179,90 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "実例": [
+   {
+    "quote": "Here’s how these risks manifest with real-world examples:",
+    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "These examples highlight the critical importance of maintaining",
+    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Assign responsibilities for monitoring data freshness. For example, a multinational bank can appoint",
+    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here are key strategies, each illustrated with real-world examples of company implementations:",
+    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here are three strategies, supported by real-world examples:",
+    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Stale data refers to information that is outdated or no longer relevant to an organization. The relevance of data depends on its use case—while some data remains useful for months or years, others, such as real-time analytics, can become stale in just minutes.",
+    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Now, consider a more critical scenario. In a healthcare system, a doctor might prescribe the wrong medication based on outdated information if a patient's records are not updated in time. In such cases, stale data isn't just inconvenient—it can be life-threatening.",
+    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": One of the main causes of stale data is delays in data collection, often due to outdated collection methods. In systems that require real-time updates, relying on manual processes like copy-and-paste or batch processing can result in stale data. For example, the case we discussed earlier of stale data in a ticketing platform was caused by delays in data collection.",
+    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": When businesses rely on outdated data, they struggle to accurately understand customer needs and preferences, leading to a poor customer experience. For example, a recommendation platform using stale data may generate irrelevant suggestions, further reducing customer satisfaction.",
+    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", Quadratic helps users to identify stale data right from their spreadsheet interface. Suppose you’re working with large amounts of data for analysis and you quickly want to identify some stale data that is no longer relevant, you can do so by passing a text prompt in the Quadratic spreadsheet chat. Here’s an example:",
+    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "This page is reference information for research and learning. For accounting, legal, finance, health, security, or other individual decisions, confirm against primary sources or qualified professionals.",
+    "url": "https://core.yogoq.com/en-US/core/decision-log-refresh-plan",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Estimate value and cost savings from data observability.",
+    "url": "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "shows that organizations lose an estimated $13 million annually due to poor data quality, including stale data.",
+    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -299,17 +299,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/shikaku_toruzo/n/n8b3ba15233fe",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/saku_work_note/n/n16ff4363b370",
     "status": "ok",
     "method": "http"
    },
@@ -319,9 +309,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.icba.or.jp/zzfilebox/kenshuka/unyou2022_qa.pdf",
+    "url": "https://gyosyo.info/%E8%A1%8C%E6%94%BF%E4%B8%8D%E6%9C%8D%E5%AF%A9%E6%9F%BB%E6%B3%9559%E6%9D%A1%EF%BC%9A%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%AE%E8%AA%8D%E5%AE%B9%E3%81%AE%E6%B1%BA%E5%AE%9A/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/saku_work_note/n/n16ff4363b370",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shikaku_toruzo/n/n8b3ba15233fe",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://kansa.bvjc.com/news/2025/250307.html",
@@ -330,6 +330,11 @@
    },
    {
     "url": "https://m-assets.com/lp/tax-audit/blog/re-investigation-request-deadline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/law/tsutatsu/kihon/igi/01_02/01_02.htm",
     "status": "ok",
     "method": "http"
    },
@@ -359,9 +364,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://gyosyo.info/%E8%A1%8C%E6%94%BF%E4%B8%8D%E6%9C%8D%E5%AF%A9%E6%9F%BB%E6%B3%9559%E6%9D%A1%EF%BC%9A%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%AE%E8%AA%8D%E5%AE%B9%E3%81%AE%E6%B1%BA%E5%AE%9A/",
+    "url": "https://www.icba.or.jp/zzfilebox/kenshuka/unyou2022_qa.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://taf2012.sakura.ne.jp/wp/?cat=612",
@@ -384,18 +389,8 @@
     "method": "http"
    },
    {
-    "url": "https://genba-base.jp/article/labor-inspection-response-manual-2026/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://monday.com/blog/project-management/decision-log/",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://bigid.com/blog/stale-data-meaning/",
-    "status": "http_403",
     "method": "http"
    },
    {
@@ -409,13 +404,18 @@
     "method": "http"
    },
    {
+    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.ibm.com/think/topics/stale-data",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "status": "ok",
+    "url": "https://www.businesswire.com/news/home/20220511005403/en/Over-80-Percent-of-Companies-Rely-on-Stale-Data-for-Decision-Making",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -430,24 +430,24 @@
     "https://note.com/loyal_condor224/n/nfd91633d9c94",
     "https://note.com/r_asatuki/n/n04815d9f64d1",
     "https://note.com/meda_ka/n/ndf0dc2dd8ffd",
-    "https://note.com/jgiajfid_5293/n/n44a8c595d642",
     "https://note.com/marunage_shacho/n/n848a06092df7",
+    "https://note.com/jgiajfid_5293/n/n44a8c595d642",
     "https://note.com/sou_devnotes/n/n90848e6f0694",
-    "https://note.com/moridai_gyosei/n/nca1abca2f7c3"
+    "https://note.com/nagi_cpa_tax/n/n01477e6dc17b"
    ]
   },
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） note",
    "results": [
-    "https://note.com/shikaku_toruzo/n/n8b3ba15233fe",
     "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
-    "https://note.com/saku_work_note/n/n16ff4363b370",
     "https://izujun-tax.com/faqs-and-practical-examples-for-the-2024-investigation-process/",
-    "https://www.icba.or.jp/zzfilebox/kenshuka/unyou2022_qa.pdf",
+    "https://gyosyo.info/%E8%A1%8C%E6%94%BF%E4%B8%8D%E6%9C%8D%E5%AF%A9%E6%9F%BB%E6%B3%9559%E6%9D%A1%EF%BC%9A%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%AE%E8%AA%8D%E5%AE%B9%E3%81%AE%E6%B1%BA%E5%AE%9A/",
+    "https://note.com/saku_work_note/n/n16ff4363b370",
+    "https://note.com/shikaku_toruzo/n/n8b3ba15233fe",
     "https://kansa.bvjc.com/news/2025/250307.html",
-    "https://www.icba-info.jp/kijyunseibi/qa/unyou.php?keyword=&qid1=&qid2=&date1=&date2=&date=1&limit=10&order=koushin_date&p_order=DESC&step=search&page=20",
     "https://www.bcj.or.jp/publication/html/bcj_upload/product_file/164_04_syuseisiryou.pdf",
-    "https://note.com/ripla_business/n/n62ccc2bc595c",
+    "https://www.icba-info.jp/kijyunseibi/qa/unyou.php?keyword=&qid1=&qid2=&date1=&date2=&date=1&limit=10&order=koushin_date&p_order=DESC&step=search&page=20",
+    "https://www.icba.or.jp/zzfilebox/kenshuka/unyou2022_qa.pdf",
     "https://note.com/moridai_gyosei/n/nca1abca2f7c3"
    ]
   },
@@ -455,6 +455,7 @@
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） やり方",
    "results": [
     "https://m-assets.com/lp/tax-audit/blog/re-investigation-request-deadline",
+    "https://www.nta.go.jp/law/tsutatsu/kihon/igi/01_02/01_02.htm",
     "https://gyosyo.info/%E8%A1%8C%E6%94%BF%E4%B8%8D%E6%9C%8D%E5%AF%A9%E6%9F%BB%E6%B3%9554%E6%9D%A1%EF%BC%9A%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E6%9C%9F%E9%96%93/",
     "https://www.kfs.go.jp/system/relation.html",
     "https://arakawa-g3.com/column/detail/20251119202257/",
@@ -462,15 +463,14 @@
     "https://www.mlit.go.jp/common/001249113.pdf",
     "https://kansa.bvjc.com/news/2025/250307.html",
     "https://www.nikkaku.jp/gyoumu/kison/kijun/",
-    "https://www.icba.or.jp/zzfilebox/kenshuka/unyou2022_qa.pdf",
     "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm"
    ]
   },
   {
    "query": "調査の判断台帳と再調査条件（見直し期限・取り直しの基準） 事例",
    "results": [
-    "https://www.subsurface-exploration.com/necessity/reinvestigation.html",
     "https://kansa.bvjc.com/news/2025/250307.html",
+    "https://www.subsurface-exploration.com/necessity/reinvestigation.html",
     "https://www.nta.go.jp/about/organization/ntc/kenkyu/ronsou/88/03/index.htm",
     "https://www.mlit.go.jp/common/001249113.pdf",
     "https://gyosyo.info/%E8%A1%8C%E6%94%BF%E4%B8%8D%E6%9C%8D%E5%AF%A9%E6%9F%BB%E6%B3%9559%E6%9D%A1%EF%BC%9A%E5%86%8D%E8%AA%BF%E6%9F%BB%E3%81%AE%E8%AB%8B%E6%B1%82%E3%81%AE%E8%AA%8D%E5%AE%B9%E3%81%AE%E6%B1%BA%E5%AE%9A/",
@@ -485,15 +485,15 @@
    "query": "research decision log revisit conditions stale data refresh criteria",
    "results": [
     "https://monday.com/blog/project-management/decision-log/",
-    "https://bigid.com/blog/stale-data-meaning/",
     "https://www.metaplane.dev/blog/stale-data-leads-to-bad-business-decisions",
     "https://www.acceldata.io/blog/how-to-identify-and-eliminate-stale-data-to-optimize-business-decisions",
-    "https://www.ibm.com/think/topics/stale-data",
     "https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay",
-    "https://www.projectmanagertemplate.com/post/decision-logs-the-ultimate-guide",
+    "https://www.ibm.com/think/topics/stale-data",
     "https://www.businesswire.com/news/home/20220511005403/en/Over-80-Percent-of-Companies-Rely-on-Stale-Data-for-Decision-Making",
-    "https://scispace.com/agents/decision-log-template-fcjojbou",
-    "https://team400.ai/blog/2026-07-power-bi-data-refresh"
+    "https://www.projectmanagertemplate.com/post/decision-logs-the-ultimate-guide",
+    "https://nhimg.org/faq/how-should-organisations-monitor-data-freshness-before-stale-data-affects-downst/",
+    "https://atlan.com/stale-data/",
+    "https://smartstatistics.co.uk/power-bi-refresh-timestamp-build-a-stale-data-warning/"
    ]
   },
   {
@@ -518,8 +518,8 @@
     "https://x.com/jaicofficial/status/2106882328018714747",
     "https://x.com/SupagoInc/status/2113592493690524032",
     "https://x.com/wakukoete/status/2115205650003136525",
-    "https://x.com/shizuokagyousei/status/2112369667201437931",
     "https://x.com/xXQhdb3hFxm5oxQ/status/2098721965918052775",
+    "https://x.com/shizuokagyousei/status/2112369667201437931",
     "https://x.com/cb__news/status/2099695296829849892",
     "https://x.com/marusa_tax/status/2114280554254274652"
    ]
@@ -527,11 +527,11 @@
   {
    "query": "site:linkedin.com 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）",
    "results": [
-    "https://www.linkedin.com/help/linkedin/answer/a6269510?lang=pt-BR",
     "https://jp.linkedin.com/pulse/成年後見制度の見直しについて-md-phd-tamura-s9j9f",
     "https://jp.linkedin.com/posts/vaizo-ceo_受注内容を作業台帳へ転記する途中で処理が止まったとき最初からやり直していませんか-activity-7520650490334924800-wcei",
     "https://jp.linkedin.com/pulse/renewals-reviews-realignment-making-contract-cycles-work-tarkowski-6swde?tl=ja",
     "https://jp.linkedin.com/posts/鷹大朗-小林-604527215_kptのproblemに〇〇さんの意識が低い担当者の確認不足と書くと振り-activity-7501855078576713728-V0ji",
+    "https://jp.linkedin.com/posts/takaaki-tanaka（田中-隆明）-a3859a10_今日は経済センサス活動調査なるものを出した期限過ぎて役所から催促来たので任意かと-activity-7461018946159161344-WbQA",
     "https://jp.linkedin.com/posts/fumiaki-kobayashi_デジタル臨調立ち上げと進むべき道1-activity-6938686557910355968-f7vE",
     "https://ae.linkedin.com/in/hend-sharafeldin-76b430220"
    ]
@@ -542,10 +542,10 @@
     "https://www.facebook.com/caremane/posts/公立病院方針見直しの期限を延期-by-ケアマネタイムス/1630698120401485/",
     "https://www.facebook.com/YatsushiroCity/posts/り災証明書に係る住家被害認定調査２次調査の申請受付についてり災証明書に係る住家被害認定調査２次調査について以下のとおり申請受付を開始しています当面の間土日祝日も/1597475575752385/",
     "https://www.facebook.com/CityofKanazawa/posts/高齢者福祉保健台帳一斉調査協力のお願い金沢市では満65歳以上の高齢者の生活状態を把握し援護を必要としている方の緊急連絡先やかかりつけ医などの情報を高齢者福祉保健/4055012661293371/",
-    "https://www.facebook.com/mixonline.jp/posts/中医協総会合同部会-10月15日-議事要旨-条件期限付き再生医療等製品の算定方法の見直し-中医協総会が10月15日開かれ条件期限付き再生医療等製品の診療報酬上の/1117823256999271/",
     "https://www.facebook.com/daikaigi/posts/病院経営定期調査の回答期限を9月末まで延長日病など3団体-年末の最終報告に反映-日本病院会など3団体は2026年度の病院経営定期調査の回答期限を9月30日に延長/1702118001920007/",
+    "https://www.facebook.com/mixonline.jp/posts/中医協総会合同部会-10月15日-議事要旨-条件期限付き再生医療等製品の算定方法の見直し-中医協総会が10月15日開かれ条件期限付き再生医療等製品の診療報酬上の/1117823256999271/",
     "https://www.facebook.com/ecomark.jp/posts/2026年3月までに有効期限を迎える認定基準の見直しに関する意見募集について2023年10月1日10月31日有効期限のおよそ2年前を迎える認定基準について見直し/648095544115392/",
-    "https://www.facebook.com/jimin.official/posts/自由民主先出し刑事再審制度の見直し巡り関係者からヒアリング法務部会司法制度調査会合同会議有罪判決確定後に新たな証拠が見つかるなど一定の場合に誤判を是正して冤罪え/1476034137213507/"
+    "https://www.facebook.com/nikkei/posts/イオン爆発事故地震後に現場判断で再入館許可-再発防止へルール見直し-今後は従業員の避難後の再入館を防ぐため勤務時に従業員が貴重品などを携帯できるようにルールを変/1588035579334505/"
    ]
   },
   {
@@ -558,8 +558,8 @@
     "https://note.com/saku_work_note/n/n16ff4363b370",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://wada-lawcpatax.com/%E5%86%8D%E8%AA%BF%E6%9F%BB%E8%AB%8B%E6%B1%82%E3%82%92%E7%B5%8C%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%8B/",
-    "https://note.com/sane_iris5316/n/n59a7699e5ad8",
     "https://note.com/ripla_business/n/n62ccc2bc595c",
+    "https://note.com/sane_iris5316/n/n59a7699e5ad8",
     "https://iaudit.jp/column/finding-follow-up/"
    ]
   },
@@ -569,11 +569,11 @@
     "https://help.extlink.co.jp/books/5ef69/page/f033a/revisions/590/changes",
     "https://sp.lawlibrary.jp/lgs/lscontents/tkcinfo/201903information.pdf",
     "https://faq.ndsoft.jp/support/next/next_10000.php",
+    "https://taacaa.jp/data/files/kaijonews/52188.pdf",
     "https://www.tisi.jp/documents/jp/news/2021/tis_news/20210806_1.pdf",
-    "https://www.joetsu-consulting.jp/news_contents_9316.html",
-    "https://www.soumu.go.jp/main_content/000620312.pdf",
+    "https://ls.ipros.jp/news/detail/173031/attachFile/",
     "https://rims-dev.misawa.co.jp/fudosan/contents/code/doc/9537155",
-    "https://yamanaka-bengoshi.jp/2026/08/30/hotei-sozoku-joho-ichiranzu-sakusei-koseki-yomikata/",
+    "https://www.soumu.go.jp/main_content/000620312.pdf",
     "https://jcls.or.jp/wp-content/uploads/2020/05/journal_45-2.pdf",
     "https://iaudit.jp/column/finding-follow-up/"
    ]
@@ -589,7 +589,7 @@
     "https://www.linkedin.com/posts/rameshchandranvadali_ai-dependent-financial-controls-protect-activity-7520512311317422080-_Ga2",
     "https://www.linkedin.com/posts/javier-ordieres-8697386b_construction-has-a-data-problem-disguised-activity-7520558400116674560-DNAI",
     "https://www.linkedin.com/posts/bianca-brijnath_ethnically-inclusionscience-equity-activity-7518968223950692352-hXJP",
-    "https://www.linkedin.com/posts/rebecca-ferguson-mba_recruitingcapacity-talentstrategy-recruitingtechnology-activity-7520484015770968064-gBCY",
+    "https://www.linkedin.com/posts/abram-handler_a-research-method-from-the-13th-century-can-activity-7489816008413872128-bXKp",
     "https://www.linkedin.com/in/ravenbrothers"
    ]
   }
@@ -598,6 +598,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-05T06:55:09.007957+00:00"
 }

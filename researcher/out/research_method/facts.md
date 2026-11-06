@@ -2827,8 +2827,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
@@ -3055,22 +3055,26 @@
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
-  - 「これまで、集計生産性を個別企業の生産性の向上効果(内部効果)と資源配分の効率性の向上効果(再配分効果)に分解するいくつかの方法が提案され、日本経済にも適用されてきた」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
-  - 「そこで、本研究は、生産可能性フロンティアを基準とした、新しい集計生産性の分解方法を提案する」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
-  - 「型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「キーワード：生産性、無形資産、利用効率、再配分、 新型コロナウイルス感染症」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「新型コロナウイルス感染症の世界的な感染拡大を受けて、経済成長のさらなる」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「について、いくつかの方法で計測し、 事実確認を行う」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「年 10 月、 「谷」 が2020 年 5 月とされているが、 新型コロナウイルス感染症の拡大による影響が」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「次に、こうした感染症拡大前の議論を前提としたうえで、新型コロナウイルス」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「そして、 第4 節では、新型コロナウイルス感染症拡大下に」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「率を確認しても低成長が続いており、2012 年 10-12 月期から新型コロナウイル」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「の成長率は 1％台前半、2012 年 10-12 月期から新型コロナウイルス感染症拡大」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「生産要素として資本と労働を考慮したコブ・ダグラス型の生産関数を想定する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「次に、企業間の資源再配分について、 Melitz and Polanec (2015) の方法」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「４．新型コロナウイルス感染症拡大下における経済成長・労働生産性」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「わが国の経済成長と労働生産性は、新型コロナウイルス感染症拡大下におい」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
+  - 「This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「based economy. The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「In this paper, we propose an extension of the productivity decomposition method developed by Olley」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「share reallocations among those firms – following the same methodology as the one proposed by Olley」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「In this paper, we propose an extension of the productivity decomposition method devel-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「same methodology as the one proposed by Olley & Pakes (1996). We argue that the other de-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「∗This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international economic」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This publication reﬂects only the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「Scarpetta, 2009). This ﬁnding has spurred the development of productivity decomposition methods」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「exit). Several of these decomposition methods are based on following individual producers from」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「shares and productivity developed by Olley and Pakes (1996) – hereafter OP. That method does」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「tributions that are a feature of the other decomposition methods that follow individual producers」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「step.) Historically, the analysis of aggregate productivity changes across countries and over time」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「Since our goal is to highlight diﬀerences in decomposition methods, we have picked an empirical」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「We contrast the results from our decomposition method with the two main methods that are」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
 - 突き合わせ・推定：
+  - 「and services, nominal physical capital and employment. From these we can calculate (or estimate)」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「per worker. We estimate TFP for our second measure as the residual of the ﬁrm-level production」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「former yields productivity estimates that have a much more direct welfare interpretation. However,」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「substantially greater than Φ S1. Thus, the GR decomposition will substantially over-estimate the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「具体的には、 次式についてパネル推計を」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「推計にあたっては、 各国固有の要因をコントロールするために、 国別の固」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
@@ -3082,10 +3086,6 @@
   - 「技術進歩に関連しては、 計測上の問題により、見かけの生産性が過小推計にな」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「小西葉子 (2003)、 「生産関数の推定における人的資本の代理変数」 、 『経済科」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「表 1 推計結果：無形資産投資が労働生産性に与える影響」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「（注 2）TFPは、日本銀行スタッフによる推計値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「（注 2）TFP（マクロベース）は、日本銀行スタッフによる推計値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「（注 2）カーネル密度推定値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「（注）折れ線は、カーネル密度推定値」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
 - 一次情報の探し方：
   - 「ディスカッション・ペーパー:19-E-069 [PDF:2.6MB] (英語)」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
   - 「この手法を、1986年から2014年までの工業統計の事業所レベルのデータに適用し、5年ごとの平均値を示したのが、図2である」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
@@ -3103,37 +3103,37 @@
   - 「コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
   - 「性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
 - 失敗・落とし穴：
-  - 「ただし、残された誤りは筆者らに帰する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「2 Melitz and Polanec (2015) argue that BHC-FHK decomposition has a potential bias such that entry/」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf）
-  - 「estimates, because it is shown that there is no bias in original LM estimates (except for the level of」（https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf）
-  - 「into these same four components introduce some biases in the measurement of the contributions of」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
-  - 「We find that, over a 5-year period, the measurement bias associated with entry and exit is substantial,」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
-  - 「introduce some biases in the measurement of the contributions of entry and exit.」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
-  - 「other decompositions. We ﬁnd that, over a 5-year period, the measurement bias associated with」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
-  - 「exit. We argue that this extension eliminates biases in the measurement of those entry/exit contri-」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
-  - 「time. Empirically, we show that these biases are substantial for the case of Slovenia’s transition」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
-  - 「ity growth is much more substantial, once the biases regarding entry and exit measurement are」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
-  - 「suﬀer from some biases that stem from their construction method. In general, the theoretical」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
-  - 「direction of those biases (as well as their magnitudes) is ambiguous. For the case of a fast growing」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
-  - 「economy (such as Slovenia from 1995 to 2000), we show theoretically that this bias involves an over-」（https://www.nber.org/system/files/working_papers/w18182/w18182.pdf）
+  - 「into these same four components introduce some biases in the measurement of the contributions of」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「We find that, over a 5 year period, the measurement bias associated with entry and exit is substantial,」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「introduce some biases in the measurement of the contributions of entry and exit.」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「other decompositions. We ﬁnd that, over a 5 year period, the measurement bias associated with」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「exit. We argue that this extension eliminates biases in the measurement of those entry/exit con-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「over time. Empirically, we show that these biases are substantial for the case of Slovenia’s transi-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「ity growth is much more substantial, once the biases regarding entry and exit measurement are」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「suﬀer from some biases that stem from their construction method. In general, the theoretical」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「direction of those biases (as well as their magnitudes) is ambiguous. For the case of a fast growing」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「economy (such as Slovenia from 1995-2000), we show theoretically that this bias involves an over-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「of this bias is substantial and is then also reﬂected in a substantial under-measurement of the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「still introduces some bias into the measurement of the contributions of entry and exit (and hence」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「riod 1. This also attenuates the bias previously mentioned with respect to the BHC decomposition,」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「but we again will argue that some bias still remains.」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「choice of reference productivity level will necessarily lead to a bias in measuring the contribution」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
 - 実例：
+  - 「over time. Empirically, we show that these biases are substantial for the case of Slovenia’s transi-」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「case of an economy in transition that exhibits very large productivity changes: depending on the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「direction of those biases (as well as their magnitudes) is ambiguous. For the case of a fast growing」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「2See, for example, Bartelsman et al. (2009), Hsieh and Klenow (2009), and Collard-Wexler, Asker and De Loecker」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「For example, if productivity is measured as valued-added per worker and the weights are employment shares, then」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「Consider ﬁrst the case of labor productivity. Table 6 reports the underlying aggregate labor」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「Consider next the case of TFP. The same reasoning explains the over-measurement of the」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「In the case of a growing economy such as Slovenia, the over-measurement of the contribution of」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「Φ1 than the GR decomposition reference productivity level ¯Φ. (In both cases, the over-measurement」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「gation. For example, the unweighted mean-covariance decomposition can be applied to industries」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「relevant interpretation, as it captures an average measure of output per unit input. In the case of」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「(value added per worker in our example with labor productivity).」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
+  - 「In this appendix, we show how our decomposition can be applied to this case. The only required」（https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf）
   - 「このノンテクニカルサマリーは、分析結果を踏まえつつ、政策的含意を中心に大胆に記述したもので、DP・PDPの一部分ではありません」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
   - 「これらの結果、特に配分効率性の効果は、従来よく用いられてきたFoster, Haltiwanger, and Krizan (2001)の手法による分解結果とは異なるものであり、本研究によって、資源配分の効率性や企業の参入を促すことの重要性を示す定量的なエビデンスが提供されたといえる」（https://www.rieti.go.jp/jp/publications/nts/19e069.html）
-  - 「進んだ結果、過去に比べて高まっており、米国を上回る水準となっている（図 2）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「大きいため、2019 年 10-12 月期までのデータで計算した結果も参考として掲載している」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「「労働者数」 を用いるケース （労働者一人あたりの産出量） と、 労働者それぞれ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「マンアワー） 」を用いるケース（労働時間あたりの産出量）が存在する」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「3 長期停滞論に関する整理は、例えば、中野・加藤 (2017) を参照」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「みると年率換算で 1％台前半にとどまり、前述の国民経済計算を用いた結果と概」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「産とは、 その名のとおり、 物的な実態が存在しない資産であり、例えばソフトウ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「11 例えば、Oh and Takahashi (2020) は、 無形資産の償却率として0.15 や 0.30 を用いている」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「計算結果をみると、わが国の実質労働生産性の成長率は、多くの部分が内部効」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
-  - 「分解結果について、まず、大企業を中心とした上」（https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf）
 
 ## 調査の判断台帳と再調査条件（見直し期限・取り直しの基準）（research decision log revisit conditions stale data refresh criteria）
 - 文脈：手順・やり方
@@ -3662,6 +3662,9 @@
   - 「公告と広告の違い、官報・新聞・電子公告の方法、違反時の法的責任までわかりやすく解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「公告方法の種類ごとの メリット、デメリット」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「その方法は様々であり、官報、日刊新聞紙、電子公告などがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「2 前項の規定にかかわらず、その公告方法が第939条第1項第1号（官報）又は第2号（時事に関する事項を掲載する日刊新聞紙）に掲げる方法である株式会社は、前項に規定する」（https://kanpo-ad.com/kaisya-kamoku1.html）
   - 「１－１．困ったら経団連のひな型を読む」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「会社法施行規則及び会社計算規則による株式会社の各種書類のひな型（改訂版） - 2022年11月1日 より抜粋」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「上記は経団連ひな型の計算書類の項から、個別注記表を抜粋したものです」（https://note.com/isa99999/n/n7aadf977f2e7）
@@ -3670,9 +3673,6 @@
   - 「ただし、決算公告の方法によっては、要旨だけ掲載すればよい場合もあります」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「公告の方法には下記3つがあります」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「公告の方法は、会社の定款に定めることができます」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「なお、定款に定めが無い場合は官報で掲載する方法とみなされます」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「官報および日刊新聞紙に掲載する方法のメリットは、貸借対照表の要旨（大会社にあたっては、貸借対照表および損益計算書の要旨）だけ掲載すればよく（会社法第440条2項）、公告すべき情報量が電子公告に比べて圧倒的に少なく済む点でしょう」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう」（https://note.com/isa99999/n/n7aadf977f2e7）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「前期と今期の純資産を比較することで、利益の増減を推定できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3707,6 +3707,7 @@
   - 「「大会社」ではない会社の決算公告は、貸借対照表の要旨のみ掲載でしたね」（https://note.com/isa99999/n/n7aadf977f2e7）
 - 失敗・落とし穴：
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「無料の故か、更新した旨の通知が無いなど少々不親切な面もあるようですが、経団連という威厳のある団体が関係法令の改正に合わせて随時更新しているひな型なので、これを活用すればまず間違いはありません」（https://note.com/isa99999/n/n7aadf977f2e7）
   - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128）
   - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128）
@@ -3720,7 +3721,6 @@
   - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「相続クイズ５０問（間違いだらけのネット情報）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「相続に関与しようとする民間資格や民間団体にご注意ください」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -4225,11 +4225,11 @@
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -6051,11 +6051,11 @@
 
 ## 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）（equity research workflow source tracking stale inputs checklist）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ19頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
-- 実例：記載なし（読んだ19頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務（structured analytic techniques scenarios key assumptions check practitioner）
 - 文脈：突き合わせ・推定
@@ -6444,6 +6444,9 @@
   - 「オープンソースで検証可能（MITライセンス）」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
   - 「：社名入りPDF（EnterpriseとCompany）または証拠PDFに証拠ZIPを添えて、依頼者と弁護士が検証できる形で引き渡します」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
   - 「ZIPにはハッシュ値、署名付きマニフェスト、チェーン・オブ・カストディが含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「ZIPにはハッシュ値、署名付きマニフェスト、証拠管理の連鎖が含まれ、弁護士は無料の検証ツールやZIP内の検証スクリプトで確認できます」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
+  - 「報道機関・記者のファクトチェック記録【2026年版】｜取材で参照したページを検証できる形で保全｜ProofSnap」（https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html）
+  - 「オープンソースで検証可能（MITライセンス）」（https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html）
 - 一次情報の探し方：
   - 「探偵・調査会社向けOSINT証拠保全2026｜報告書に添える検証可能な記録と社名入りPDF｜ProofSnap」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
   - 「社名入りPDF · 複数タブのセッション記録 ·」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
@@ -6465,6 +6468,17 @@
   - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「What Are the 8 Most Common OSINT Chain-of-Custody Mistakes?」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
   - 「This can create concerns about selective reporting or confirmation bias, particularly when the investigation is challenged.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「このほか、ドメイン名のDNS照会（GoogleとCloudflare）とWHOIS照会（当社のサーバー経由）、時刻の確認（当社のサーバー、失敗時はGoogleとCloudflare）、PCのIPアドレスを確認する公開サービスへのリクエスト、C2PA署名のためのスクリーンショット（JPEG）の当社サーバーへの送信が発生します」（https://getproofsnap.com/hodo-kikan-kisha-shoko-hozen.html）
+  - 「A guide to preparing credible, safe research accounts for OSINT: why you need them, how to build them and what mistakes burn them.」（https://osint-ui.com/en/blog/document-osint-evidence-court）
+  - 「Mistake 1 — Screenshot without URL」（https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow）
+  - 「Mistake 2 — URL without timestamp」（https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow）
+  - 「Mistake 3 — Hash without capture context」（https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow）
+  - 「Mistake 4 — Archive URL without understanding archive limits」（https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow）
+  - 「Mistake 5 — Preserving only derived artifacts」（https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow）
+  - 「Mistake 6 — Capturing everything」（https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow）
+  - 「Mistake 7 — No research question」（https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow）
+  - 「Mistake 8 — No limitation note」（https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow）
+  - 「Mistake 9 — Publicly archiving sensitive material」（https://osint.dev/articles/building-a-lightweight-evidence-capture-workflow）
 - 実例：
   - 「探偵業者や調査会社がネット調査の結果を報告書で裏づける方法がProofSnapです」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
   - 「bbs.example.jp/thread/8812」（https://getproofsnap.com/tantei-osint-shoko-hozen.html）
@@ -6481,6 +6495,8 @@
   - 「Example of a digitally signed, court-ready capture report」（https://www.forensicosint.com/）
   - 「Cases are built across days, weeks, or months. Evidence must stay organized, traceable, and connected as the case develops.」（https://www.forensicosint.com/）
   - 「Notes, observations, and investigative context are captured with the evidence itself, not stored separately. This keeps meaning, intent, and relevance intact as the case develops.」（https://www.forensicosint.com/）
+- 検索結果の抜粋：
+  - 「How to document OSINT evidence for court — Oct 4, 2026 · A practical guide to digital chain of custody for OSINT evidence: what to capture, how, with what metadata and how to make it reconstructible and admissible.」（https://osint-ui.com/en/blog/document-osint-evidence-court）
 
 ## 競合の売上を届出・言明・推定に分けて書く実務と2つの切り口が2倍以上ずれたときの扱い（Flares などの競合調査の手引き・客数×単価と人数×1人あたり）（competitor revenue filed stated estimated two methods disagree factor of two customer count）
 - 文脈：手順・やり方
@@ -7164,11 +7180,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ

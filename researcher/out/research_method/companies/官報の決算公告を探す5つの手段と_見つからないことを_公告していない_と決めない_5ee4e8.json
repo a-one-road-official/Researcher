@@ -8,112 +8,8 @@
  ],
  "context": "一次情報",
  "kind": "market",
- "researched_at": "2026-11-06T09:07:26.386906+00:00",
+ "researched_at": "2026-11-06T13:44:15.175815+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "この方法が向いているのは、掲載日がすでにわかっているケースです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3. 検索結果から該当する決算公告を選択する",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報に掲載される決算公告は、貸借対照表の「要旨」であるケースがほとんどです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "官報の決算公告は貸借対照表の要旨が中心であり、売上高や営業利益といった業績情報が含まれないケースがほとんどです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "したがって、多くの中小企業の官報公告には貸借対照表の要旨のみが掲載されており、純資産の部・資産合計・負債合計などの主要な数値は把握できますが、売上高や利益などの損益情報は含まれていないケースがほとんどです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3月決算の企業であれば6〜8月、12月決算であれば翌年3〜4月頃に掲載されているケースが多いです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "なお、電子公告の公告期間が終了した後は、各社サイトから削除されているケースもあります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし前述のとおり、実際に決算公告を行っていない中小企業が多く、見つからないケースも珍しくありません",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "一方で、実際には公告を行っていない企業も多く、情報が得られないケースも珍しくありません",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "さらに図書館によっては、館内の端末から本来は有料の官報情報検索サービスを無料で使えるケースも",
-    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "目視だけの時代は、大量の検索結果を上から順に潰していくしかありませんでした",
-    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "以前は新聞記事の検索とGoogle検索を別々に回し、結果をPDF化してフォルダ分けする証跡保存にも相当な時間をとられていたそうです",
-    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "しかし実際には、掲載期間が終了した後にページが削除されるケースもあるため、過去の決算公告を遡って確認できない場合があります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "つまり、非上場の中小企業の決算公告を探しても、そもそも公告自体が存在しないケースが多いということです",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算公告を行っていない中小企業も多いため、情報が見つからないケースもある",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】 | 電子決算公告ドットコムMagazine",
@@ -522,6 +418,48 @@
     "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
     "pass": 3,
     "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報発行サイトで閲覧できない、過去の官報の記事を閲覧する方法はあるのか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、単発的なご利用であれば、官報（紙の印刷物）を所蔵している公共図書館、官報情報検索サービスを導入し、来館者に無料で開放している公共図書館を利用する方法もあります（各図書館のホームページや電話で官報情報検索サービスの有無を事前にご確認ください）",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報発行サイトの操作方法、その他について",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "会社の定款で定められた方法での開示となります",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報情報検索サービスの操作方法その他について",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報が電子化されたことにより、紙面の構成やインターネットでの操作方法に大きな変化はありますか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A. 従来から提供していた紙面の構成やインターネットでの操作方法に大きな変化はありません",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    }
   ],
   "失敗・落とし穴": [
@@ -653,6 +591,140 @@
    },
    {
     "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、官報情報検索サービスをご利用の際は、プライバシーへの配慮が必要な記事においては、記事検索の対象外となっており、キーワードでの検索はできませんのでご注意ください",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(4)入力間違いはないか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "この方法が向いているのは、掲載日がすでにわかっているケースです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. 検索結果から該当する決算公告を選択する",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報に掲載される決算公告は、貸借対照表の「要旨」であるケースがほとんどです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報の決算公告は貸借対照表の要旨が中心であり、売上高や営業利益といった業績情報が含まれないケースがほとんどです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "したがって、多くの中小企業の官報公告には貸借対照表の要旨のみが掲載されており、純資産の部・資産合計・負債合計などの主要な数値は把握できますが、売上高や利益などの損益情報は含まれていないケースがほとんどです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3月決算の企業であれば6〜8月、12月決算であれば翌年3〜4月頃に掲載されているケースが多いです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、電子公告の公告期間が終了した後は、各社サイトから削除されているケースもあります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし前述のとおり、実際に決算公告を行っていない中小企業が多く、見つからないケースも珍しくありません",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一方で、実際には公告を行っていない企業も多く、情報が得られないケースも珍しくありません",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "さらに図書館によっては、館内の端末から本来は有料の官報情報検索サービスを無料で使えるケースも",
+    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "目視だけの時代は、大量の検索結果を上から順に潰していくしかありませんでした",
+    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以前は新聞記事の検索とGoogle検索を別々に回し、結果をPDF化してフォルダ分けする証跡保存にも相当な時間をとられていたそうです",
+    "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "しかし実際には、掲載期間が終了した後にページが削除されるケースもあるため、過去の決算公告を遡って確認できない場合があります",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "つまり、非上場の中小企業の決算公告を探しても、そもそも公告自体が存在しないケースが多いということです",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告を行っていない中小企業も多いため、情報が見つからないケースもある",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1018,6 +1090,96 @@
     "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
     "pass": 3,
     "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報に関するよくあるご質問 独立行政法人 国立印刷局",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ご契約について（官報の定期購読・官報情報検索サービス・公告）",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和7年4月1日からの官報電子化に伴う変更点",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報（官報発行サイト）、官報掲載事項記載書面（紙の印刷物）、電磁的官報記録に係る情報、官報情報検索サービスでは内容に違いがあるのか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、官報情報検索サービスについては、号外国会会議録が含まれておりません",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）官報発行サイトは、官報である(1)本紙、(2)号外、(3)号外政府調達公告、(4)号外国会会議録、(5)特別号外、及び官報目録（付録：月1回）を掲載しています",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報情報検索サービスは、(1)(2)(3)(5)及び官報目録（付録：月1回）が閲覧対象です",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報掲載事項記載書面の定期送付お申込みの方は、(1)(2)(3)(5)及び官報目録（付録：月1回）が交付されます",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "閲覧したい記事があり、いつの官報に掲載されたか（いつ掲載される予定なのか）教えて欲しい",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "裁判所公告について、裁判所の決定が出たあと、官報に掲載されるのはいつごろになるのか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報の記事の内容について、聞きたいことがある",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A. 官報は、所管官庁から原稿をお預かりして、それを記事として掲載しています",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A. 官報では、授与された勲章は名前の後に記載されます",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どの記事が該当するかは、記事を作成する所管省庁等が指定するものですが、対象となる記事は、公開期間（発行から90日間）中に内閣府の官報発行サイトに掲載されているPDFにおいて、テキスト取得ができない（画像化）状態で提供されてます",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ご契約について（官報掲載事項記載書面・官報情報検索サービス・公告）",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    }
   ],
   "突き合わせ・推定": [
@@ -1057,12 +1219,12 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
+    "url": "https://www.kanpo.go.jp/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.kanpo.go.jp/",
+    "url": "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "status": "ok",
     "method": "http"
    },
@@ -1077,27 +1239,27 @@
     "method": "http"
    },
    {
-    "url": "https://www.tokyo-kansho.co.jp/koukoku/kessan",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/6f8f6166-5684-4832-89a1-c7dc2c1585d2/79f6a862/20240527_meeting_digital-system-reform_outline_02%20.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.npb.go.jp/product_service/books/moshikomi/index.html",
+    "url": "https://www.tokyo-kansho.co.jp/koukoku/page-search",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-koukoku.com/0360%20dounyuu_kannpou_hikaku/00%20dounyuu_kannpou_hikaku.html",
     "status": "ok",
     "method": "http"
    },
@@ -1123,6 +1285,21 @@
    },
    {
     "url": "https://blog.roborobo.co.jp/compliance/kanpo-where",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-kansho.co.jp/koukoku/kessan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.npb.go.jp/product_service/books/moshikomi/index.html",
     "status": "ok",
     "method": "http"
    },
@@ -1167,53 +1344,53 @@
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） site:note.com",
    "results": [
-    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://www.kanpo.go.jp/",
+    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
     "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "https://www.tokyo-kansho.co.jp/koukoku/kessan",
     "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/6f8f6166-5684-4832-89a1-c7dc2c1585d2/79f6a862/20240527_meeting_digital-system-reform_outline_02%20.pdf",
-    "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
-    "https://www.npb.go.jp/product_service/books/moshikomi/index.html",
+    "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "https://www.tokyo-kansho.co.jp/koukoku/page-search",
     "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
+    "https://www.n-koukoku.com/0360%20dounyuu_kannpou_hikaku/00%20dounyuu_kannpou_hikaku.html",
     "https://note.com/real_ram9758/n/n015e975a7128"
    ]
   },
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） note",
    "results": [
-    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://www.kanpo.go.jp/",
+    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
     "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "https://www.tokyo-kansho.co.jp/koukoku/kessan",
     "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/6f8f6166-5684-4832-89a1-c7dc2c1585d2/79f6a862/20240527_meeting_digital-system-reform_outline_02%20.pdf",
-    "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
-    "https://www.npb.go.jp/product_service/books/moshikomi/index.html",
+    "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "https://www.tokyo-kansho.co.jp/koukoku/page-search",
     "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
+    "https://www.n-koukoku.com/0360%20dounyuu_kannpou_hikaku/00%20dounyuu_kannpou_hikaku.html",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/"
    ]
   },
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） やり方",
    "results": [
-    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://www.kanpo.go.jp/",
+    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
     "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "https://www.tokyo-kansho.co.jp/koukoku/kessan",
     "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/6f8f6166-5684-4832-89a1-c7dc2c1585d2/79f6a862/20240527_meeting_digital-system-reform_outline_02%20.pdf",
-    "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
+    "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "https://www.tokyo-kansho.co.jp/koukoku/page-search",
     "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
-    "https://www.npb.go.jp/product_service/books/moshikomi/index.html",
+    "https://www.n-koukoku.com/0360%20dounyuu_kannpou_hikaku/00%20dounyuu_kannpou_hikaku.html",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/"
    ]
   },
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） 事例",
    "results": [
-    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://www.kanpo.go.jp/",
+    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
     "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
     "https://www.tokyo-kansho.co.jp/koukoku/kessan",
@@ -1256,13 +1433,13 @@
   {
    "query": "site:x.com 官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性）",
    "results": [
+    "https://x.com/kanpo_blog",
     "https://x.com/kessan_db",
     "https://x.com/kessan_db/status/2110953156008137175",
-    "https://x.com/kanpo_blog/status/2046405102576243177",
     "https://x.com/mister_n7/status/2033083161089806755",
     "https://x.com/kessan_db/status/2040769120866840658",
-    "https://x.com/kaijiwire/status/2109843211565109508",
-    "https://x.com/kanpo_blog"
+    "https://x.com/kanpo_blog/status/2046405102576243177",
+    "https://x.com/kaijiwire/status/2109843211565109508"
    ]
   },
   {
@@ -1292,30 +1469,30 @@
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） note 社長",
    "results": [
-    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://www.kanpo.go.jp/",
+    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
     "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "https://www.tokyo-kansho.co.jp/koukoku/kessan",
     "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/6f8f6166-5684-4832-89a1-c7dc2c1585d2/79f6a862/20240527_meeting_digital-system-reform_outline_02%20.pdf",
-    "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
+    "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "https://www.tokyo-kansho.co.jp/koukoku/page-search",
     "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
-    "https://www.npb.go.jp/product_service/books/moshikomi/index.html",
+    "https://www.n-koukoku.com/0360%20dounyuu_kannpou_hikaku/00%20dounyuu_kannpou_hikaku.html",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/"
    ]
   },
   {
    "query": "官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性） X 投稿",
    "results": [
-    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://www.kanpo.go.jp/",
+    "https://www.cao.go.jp/others/soumu/kanpo/about/kanpo_about.html",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
     "https://www.hosei.ac.jp/library/kensaku/support/shirabekata/kigyo?auth=9abbb458a78210eb174f4bdd385bcf54",
-    "https://www.tokyo-kansho.co.jp/koukoku/kessan",
     "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/6f8f6166-5684-4832-89a1-c7dc2c1585d2/79f6a862/20240527_meeting_digital-system-reform_outline_02%20.pdf",
+    "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "https://www.tokyo-kansho.co.jp/koukoku/page-search",
     "https://j-net21.smrj.go.jp/solution/qa/accounting/Q0536.html",
-    "https://www.npb.go.jp/product_service/books/moshikomi/index.html",
-    "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
+    "https://www.tsr-net.co.jp/data/detail/1201168_1527.html",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/"
    ]
   },
@@ -1323,14 +1500,14 @@
    "query": "how to search kanpo financial statement notice Japan coverage site:linkedin.com",
    "results": [
     "https://www.linkedin.com/in/hiro-nakano",
-    "https://www.linkedin.com/in/alisaevans",
-    "https://jp.linkedin.com/in/naohisa-takahashi-a214b22a4",
     "https://in.linkedin.com/in/sujithnarayanan",
     "https://www.linkedin.com/in/yujiroseki",
-    "https://in.linkedin.com/in/zubair-ahmed-57b377b7",
     "https://www.linkedin.com/in/ethan-bell-434a47260",
+    "https://jp.linkedin.com/in/naohisa-takahashi-a214b22a4",
+    "https://in.linkedin.com/in/zubair-ahmed-57b377b7",
     "https://www.linkedin.com/in/molly-dyer-lac-96b147bb",
     "https://www.linkedin.com/in/davidchen95",
+    "https://za.linkedin.com/in/darlington-munhuwani-090a762a",
     "https://in.linkedin.com/in/kampo-pegu-617275129"
    ]
   }
@@ -1339,69 +1516,175 @@
  "new_this_run": {
   "手順・やり方": [
    {
-    "quote": "Method of Public Notice of a Company in Japan | Japan Shiodome",
-    "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
+    "quote": "官報発行サイトで閲覧できない、過去の官報の記事を閲覧する方法はあるのか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Method of Public Notice of a Company in Japan",
-    "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
+    "quote": "なお、単発的なご利用であれば、官報（紙の印刷物）を所蔵している公共図書館、官報情報検索サービスを導入し、来館者に無料で開放している公共図書館を利用する方法もあります（各図書館のホームページや電話で官報情報検索サービスの有無を事前にご確認ください）",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "During incorporation, we were asked to “decide on a method of public notice”. What does this mean and what should we do?",
-    "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
+    "quote": "官報発行サイトの操作方法、その他について",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "Stock companies are required to indicate their method of public notice in their registered matters.",
-    "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
+    "quote": "会社の定款で定められた方法での開示となります",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "According to the Article 939-1 of the Companies Act, companies may choose from the following their method of public notice:",
-    "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
+    "quote": "官報情報検索サービスの操作方法その他について",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "While the use of an electronic public notice method has grown in recent times, there is still the impression that many companies use the Kanpo as their method of public notice.",
-    "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
+    "quote": "官報が電子化されたことにより、紙面の構成やインターネットでの操作方法に大きな変化はありますか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "An advantage of using the electronic public notice method is that not much expenses are incurred in the publishing of its financial statements, which companies are required to publicize. However, they are required to maintain public access of their balance sheet for five consecutive years. The publication methods only require a summary of the balance sheet.",
-    "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Furthermore, if a company does not decide on its method of public notice in its articles of incorporation, the official gazette is automatically used (Companies Act, Article 939-4).",
-    "url": "https://www.rsm.global/japan/shiodome/en/insights/category/incorporation/method-public-notice-company-japan",
+    "quote": "A. 従来から提供していた紙面の構成やインターネットでの操作方法に大きな変化はありません",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ],
   "失敗・落とし穴": [
    {
-    "quote": "大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します",
+    "quote": "ただし、官報情報検索サービスをご利用の際は、プライバシーへの配慮が必要な記事においては、記事検索の対象外となっており、キーワードでの検索はできませんのでご注意ください",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(4)入力間違いはないか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】",
+    "quote": "食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "官報に関するよくあるご質問 独立行政法人 国立印刷局",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ご契約について（官報の定期購読・官報情報検索サービス・公告）",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "令和7年4月1日からの官報電子化に伴う変更点",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報（官報発行サイト）、官報掲載事項記載書面（紙の印刷物）、電磁的官報記録に係る情報、官報情報検索サービスでは内容に違いがあるのか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なお、官報情報検索サービスについては、号外国会会議録が含まれておりません",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（参考）官報発行サイトは、官報である(1)本紙、(2)号外、(3)号外政府調達公告、(4)号外国会会議録、(5)特別号外、及び官報目録（付録：月1回）を掲載しています",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報情報検索サービスは、(1)(2)(3)(5)及び官報目録（付録：月1回）が閲覧対象です",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報掲載事項記載書面の定期送付お申込みの方は、(1)(2)(3)(5)及び官報目録（付録：月1回）が交付されます",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "閲覧したい記事があり、いつの官報に掲載されたか（いつ掲載される予定なのか）教えて欲しい",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "裁判所公告について、裁判所の決定が出たあと、官報に掲載されるのはいつごろになるのか",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報の記事の内容について、聞きたいことがある",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A. 官報は、所管官庁から原稿をお預かりして、それを記事として掲載しています",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A. 官報では、授与された勲章は名前の後に記載されます",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どの記事が該当するかは、記事を作成する所管省庁等が指定するものですが、対象となる記事は、公開期間（発行から90日間）中に内閣府の官報発行サイトに掲載されているPDFにおいて、テキスト取得ができない（画像化）状態で提供されてます",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ご契約について（官報掲載事項記載書面・官報情報検索サービス・公告）",
+    "url": "https://www.npb.go.jp/product_service/books/kanpo_faq.html",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ]
  },
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-06T05:10:02.307809+00:00"
 }
