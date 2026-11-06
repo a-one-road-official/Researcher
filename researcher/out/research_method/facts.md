@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・84品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・86品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1026,6 +1026,7 @@
 ## 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）（estimate private company revenue headcount methods）
 - 文脈：凄腕・推定
 - 手順・やり方：
+  - 「官報で決算公告を出すのは株主総会の前？後？タイミングと手順の完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「利益を生み出す構造（損益分岐点）から逆算するのがコツです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「この記事を読めば、決算公告に売上高が載らない法的な理由、売上高なしでも決算公告から企業の実力を読み取るコツ、そして非上場企業の売上高を調べる5つの代替手段まで、一通り理解できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1040,8 +1041,8 @@
   - 「決算公告の入手方法から順に確認したい方は、」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「非上場企業の売上の調べ方｜無料の確認先と数字を見極めるコツ｜ナレッジ｜イノベーション総合研究所」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
-  - 「TeamPro Leaders｜判断の型・実践・1on1伴走で育てる」（https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/）
 - 突き合わせ・推定：
+  - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし」（https://note.com/pythonddd/n/nd056ead22003）
   - 「１．従業員数を推定する」（https://note.com/pythonddd/n/nd056ead22003）
   - 「２．人件費を推定する」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1056,24 +1057,24 @@
   - 「本店住所や店舗の面積から、残りの固定費を推定します」（https://note.com/pythonddd/n/nd056ead22003）
   - 「自社保有とみられる場合は路線価などから逆算します（※自社保有の不動産は後述するBSの推定に直結します）」（https://note.com/pythonddd/n/nd056ead22003）
   - 「最後に肌感覚で、その他の固定費用を足します（これは何百件と推定決算書を作れば感覚が磨かれます）」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「よく分からない場合は、仮置きした推定年商の「10％」を適当に加えるだけでも十分な精度になります」（https://note.com/pythonddd/n/nd056ead22003）
 - 一次情報の探し方：
-  - 「推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「皆さんは、非上場企業の決算内容を知りたいと思ったことはありませんか？」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「通常、決算書はその会社の顧問税理士や取引銀行など、直接的な関係がない限り把握することが出来ません」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「まれに自社のホームページで決算公告を公表している中小企業も見かけますが、基本的には非開示である場合が圧倒的に多いです」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「実は株式会社の場合、「決算公告」は会社法に基づく義務です（第440条）」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「定時株主総会の終結後、遅滞なく貸借対照表などを広く知らせる必要があり、ある程度の規模に成長すると、対外信用を考慮して官報に掲載することが一般的になります」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「それでも、官報掲載を行う企業は全体から見ると少数派です」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「公的な裁判データや報道でも、公告を怠っただけで罰則を受けた企業はほとんど確認されていません」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「開示・非開示の良し悪しはさておき、本記事では「公開されている断片的な情報から、非開示企業の決算書を推測して作成する手法」をご紹介します」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「掲載がなければ、ハローワークや求人情報を検索」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「ハローワークなどに求人情報が掲載されていれば、募集給与が把握できます」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「最後に肌感覚で、その他の固定費用を足します（これは何百件と推定決算書を作れば感覚が磨かれます）」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「不動産登記簿に銀行の「根抵当権（借入極度額）」の設定があるので、借入日から逆算して現在の負債額を推定します」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「晴れて「推定決算書」が作成できるというわけです」（https://note.com/pythonddd/n/nd056ead22003）
+  - 「本ガイドでは採用担当者を納得させる具体的な文例と、AnyGenを活用した即戦力書類の自動作成法を解説します」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「Export to PowerPoint, Google Slides or PDF · No watermark on free tier」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「この2つは目的も採用側の見方も根本的に異なります」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「「わからない」と諦める前に、公的データベースや企業公開情報をリサーチすることで正確な売上高が判明するケースが多々あります」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「自社公式サイトの企業概要・IRページ：上場企業はもちろん、非上場企業でも決算月や沿革ページに直近年度の売上高が明記されているケースがあります」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「金融庁 EDINET（有価証券報告書閲覧サイト）：上場企業および有価証券報告書提出義務のある企業であれば、過去5年分の正確な連結・単体売上高が無償で閲覧可能です」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「官報決算公告（官報検索サービス・決算公表サイト）：会社法第440条に基づき決算公告を行っている株式会社であれば、貸借対照表や損益計算書の要約が掲載されています」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「当時の求人票・会社案内パンフレット：自身が入社した際の中途採用求人票、新卒採用時の会社案内、社内報に「年商〇〇億円」などの記載が残っていないか確認します」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「親会社がいる子会社の場合は、親会社の有価証券報告書内の「関係会社の状況」セクションに主要子会社の売上高・出資比率が掲載されていることがあります」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「調査の基準時点：売上高は「直近の決算期」または「自身の在籍当時の決算期」のどちらを記載しても問題ありません」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「採用担当者が知りたいのは「どの規模感の組織でどんな事業をしていたか」であるため、売上高以外の指標で十分に意図が伝わります」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「採用官は売上の絶対金額そのものよりも、与えられた目標を達成できる人物かどうかを審査しています」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「人事・採用：採用充足率やコスト効率（例：中途採用年間24名充足、ダイレクトリクルーティング活用により外部エージェント費用を30%削減）」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「AnyGenを使えば、売上高がわからない・非上場・バックオフィス・社外秘といった複雑な条件でも、採用担当者が求めるフォーマットに沿った職務経歴書とプレゼン資料を数分で自動生成できます」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
+  - 「ATS（採用管理システム）最適化：主要企業の書類選考システムが自動解析しやすい見出し構造・キーワード含有率を保証」（https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html）
 - 失敗・落とし穴：
+  - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）」（https://note.com/pythonddd/n/nd056ead22003）
   - 「30%以上なら比較的安定、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1088,7 +1089,6 @@
   - 「電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
   - 「ただし、以下の点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
   - 「ただし、これは株主総会の手続きに関する特則であり、決算公告の義務自体が免除されるわけではない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
-  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
 - 実例：
   - 「決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです」（https://note.com/pythonddd/n/nd056ead22003）
   - 「つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）」（https://note.com/pythonddd/n/nd056ead22003）
@@ -1328,7 +1328,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -2149,11 +2149,11 @@
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -5335,11 +5335,11 @@
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）（entity matching benchmark corner cases threshold gold standard）
 - 文脈：同一性
@@ -5400,3 +5400,99 @@
   - 「called corner cases [49] to push matching solutions to their limits」（https://d-nb.info/1351217534/34）
   - 「be compatible with the objectives of the evaluation. For example,」（https://d-nb.info/1351217534/34）
   - 「the real-world scenario as defined by the use case (e.g., matching」（https://d-nb.info/1351217534/34）
+
+## 官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社）（how to search official gazette financial statement notices Japan）
+- 文脈：同一性
+- 手順・やり方：
+  - 「過去の公告を会社名などの言葉で探したいときは、有料の官報情報検索サービスを使う方法があります」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「公告の方法が官報か日刊新聞の会社は、貸借対照表の「要旨」を載せれば足ります」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「この公告は、別の公告方法を併用する場合でも官報への掲載が前提です」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「会社が使う公告の方法は、官報・日刊新聞・電子公告の中から定款で選べます」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「決算公告についても、貸借対照表を自社のウェブサイトなどで5年間公開する方法をとっている会社や、有価証券報告書を提出している会社は、官報での公告の対象外です」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「公告方法の選択や決算公告の例外があるため、「載っていない」ことはそれだけで問題とはいえない」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「官報の電子化の経緯や、法令・行政処分・破産情報の追い方まで、官報を一次資料として使う方法を詳しくまとめた解説です」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「登記や裁判の情報など、無料で使える情報源を組み合わせて取引先を確かめる手順をまとめた解説です」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「官報で決算公告を探す方法｜無料3サービス+有料データベースを比較 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「官報で決算公告を探す方法｜無料3サービス+有料データベースを比較」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「この記事では、官報で決算公告を探す具体的な手順を、無料・有料サービス別にわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「2. 官報で決算公告を探す基本ステップ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「4. 有料データベースを使う方法（効率的な調査向け）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「原因2：公告方法として官報を選択していない」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+- 突き合わせ・推定：
+  - 「評価には使わず、所在地などで同じ会社かを照合してから読む」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「国税庁の法人番号と照合済みの企業は法人番号も併記されます」（https://kanpou.ai/guide/kessan-kokoku）
+- 一次情報の探し方：
+  - 「官報の公告欄から見える会社の動き｜公開情報の読み方②｜城島誠一郎」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「官報の公告欄から見える会社の動き｜公開情報の読み方②」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「こうした手続きをとるとき、法律で「官報」への公告が求められる場面があります」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「官報を読めると、会社のこうした動きを、本人の発表やうわさではなく、国の公報に載った記録で確かめられるようになります」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「第2回は、官報の公告欄から会社のどんな動きが見えるのか、そして読むときに何に気をつけるべきかを整理します」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「この記事の内容は、2026年10月23日に、内閣府の官報に関するページ、官報発行サイト、会社法の条文を確認して書いています」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「官報は、国の法令や公示事項を掲載して国民に知らせるための「国の公報」です」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「2025年4月1日からは「官報の発行に関する法律」の施行により電子化され、官報発行サイトに掲載された電子データが官報の正本になりました」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「官報には、毎日発行される「本紙」、本紙に載せきれないときに出る「号外」、国会の会議録を載せる「号外国会会議録」、政府の調達を載せる「号外政府調達公告」、緊急時の「特別号外」の5種類があります」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「官報発行サイトでは、直近90日分の官報が無料で全部読めます」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「日付ごとに本紙・号外・政府調達がPDFで並んでいて、「全体目次」から掲載項目を探せます」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「2025年3月31日以前に国立印刷局が公開していた「インターネット版官報」の情報も、同じサイトの過去の官報のページで提供されています」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「官報には、特定の個人を対象とした処分など、プライバシーへの配慮が必要な記事も載ります」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「過去の公告を会社名などの言葉で探したいときは、有料の官報情報検索サービスを使う方法があります」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「インターネットを使えない人のために、都道府県の図書館などに官報発行サイトを見られる端末も置かれています」（https://note.com/joshima_s/n/n04cab9927719）
+- 失敗・落とし穴：
+  - 「読むときの4つの注意点」（https://note.com/joshima_s/n/n04cab9927719）
+  - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「ウェブで閲覧した官報を根拠資料として使用する場合、以前は「正本ではない」という注意書きが必要でしたが、電子化後はウェブ版がそのまま正本として扱えます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「官報の決算公告を閲覧する際には、いくつかの実務上の注意点があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+- 実例：
+  - 「したがって、多くの中小企業の官報公告には貸借対照表の要旨のみが掲載されており、純資産の部・資産合計・負債合計などの主要な数値は把握できますが、売上高や利益などの損益情報は含まれていないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「3月決算の企業であれば6〜8月、12月決算であれば翌年3〜4月頃に掲載されているケースが多いです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「なお、電子公告の公告期間が終了した後は、各社サイトから削除されているケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「ただし前述のとおり、実際に決算公告を行っていない中小企業が多く、見つからないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「一方で、実際には公告を行っていない企業も多く、情報が得られないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「この方法が向いているのは、掲載日がすでにわかっているケースです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「3. 検索結果から該当する決算公告を選択する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「官報に掲載される決算公告は、貸借対照表の「要旨」であるケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「官報の決算公告は貸借対照表の要旨が中心であり、売上高や営業利益といった業績情報が含まれないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「実務上、直ちに科されるケースは多くありませんが、義務であることに変わりはなく、金融機関や取引先からの信用にも関わります」（https://kanpou.ai/guide/kessan-kokoku）
+
+## 分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例）（analytic tradecraft structured analytic techniques equity research cross check valuation methods）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「One primarily qualitative method to evaluate these techniques would be periodic in-depth reviews of intelligence production on a variety of topics to ascertain how frequently structured techniques are used and which ones are most effective.」（https://www.rand.org/pubs/research_reports/RR1408.html）
+  - 「In addition, quantitative research could examine the extent to which the use or nonuse of structured techniques correlates with the quality of analytic output as measured by product evaluation staffs, while controlled experiments could test these methods' contribution to intelligence analysis.」（https://www.rand.org/pubs/research_reports/RR1408.html）
+  - 「Artner, Stephen, Richard S. Girven, and James B. Bruce,」（https://www.rand.org/pubs/research_reports/RR1408.html）
+  - 「Artner, Stephen, Richard S. Girven, and James B. Bruce, Assessing the Value of Structured Analytic Techniques in the U.S. Intelligence Community. Santa Monica, CA: RAND Corporation, 2016. https://www.rand.org/pubs/research_reports/RR1408.html.」（https://www.rand.org/pubs/research_reports/RR1408.html）
+  - 「Intelligence Analysis in Theater Joint Intelligence Centers: An Experiment in Applying Structured Methods」（https://www.hsdl.org/document/20945）
+  - 「, familiarity with these techniques will help you make sense of incomplete or contradictory information, generate hypotheses, and manage uncertainty. This guide will go through why structured analytic techniques are important for intelligence analysts, how to select SATs that are useful for you, and some resources on SATs, many of which are free.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「Using the AIMS framework is a terrific way to address the above and to conceptualise the structure of your product:」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+- 失敗・落とし穴：
+  - 「More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.」（https://www.rand.org/pubs/research_reports/RR1408.html）
+  - 「The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「. SATs are not the only way of dealing with cognitive bias, but they are developed specifically for analysts to deal with them in their daily work. Using SATs, you can catch issues and reflect on your analysis well before you start drafting the product. It’s also easier to get feedback from peers or supervisors.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「When collaborating with others, it’s important not to inadvertently create Information Bubbles, Confirmation Bias, Echo Chambers and Group Think. SATs go a long way in tackling cognitive biases, but ensuring you’re aware of alternative narratives via other analysts will add another filter against such biases (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「5 Common Mistakes When Using Structured Analytic Techniques」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「Many SATs are meant for longer-term products that can go into more detail, but others can be quite useful. For instance, your team could develop indicators that you update as new reporting comes in. Additionally, fast-paced environments are more prone to cognitive biases, so trying to implement shortened versions of SATs like」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「Familiarising yourself with your own cognitive biases and critically evaluating your sources.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+- 実例：
+  - 「In some cases, however, key assumptions and the logic behind specific techniques were not transparent.」（https://www.rand.org/pubs/research_reports/RR1408.html）
+  - 「The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「for instance, lists 66 “core” techniques, from “several hundred that might have been included.” Don’t fret. Using Heuer and Pherson’s SAT selection process as a handrail, the table below provides a examples on how you can apply a few SATs to tackle any problem-set (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「Here’s a practical example of how and when an Analysis of Competing Hypotheses (ACH) can be used;」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「8 Case Studies in Using Structured Analytic Techniques」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「). Utilise your OSINT toolkit to collect evidence to dissect and forecast a current affair. You can use Beebe & Pherson’s “Cases in Intelligence Analysis: Structured Analytic Techniques in Action” as a primer (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「8.1 Case 1: 9/11 and the formation of the CIA’s Red Cell」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「8.2 Case 2: Grey Dynamics’ Key Assumptions Check」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+- 突き合わせ・推定：記載なし（読んだ32頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ32頁・検索12回）

@@ -8,8 +8,16 @@
  ],
  "context": "凄腕・推定",
  "kind": "market",
- "researched_at": "2026-11-05T21:23:34.203539+00:00",
+ "researched_at": "2026-11-06T00:00:37.432260+00:00",
  "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "How to Find Company Revenue: 6 Methods (2026) — Key takeaways To find a company's revenue, first check whether it is public, registered where accounts are filed, or neither. Public companies report exact revenue in SEC filings and annual reports. Many private companies in France, the UK, and the EU file turnover in official registries. When no figure is filed, estimate it with the revenue-per-empl",
+    "url": "https://derrick-app.com/business-data/find-revenue",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "決算公告義務を怠った場合、法律上は「100万円以下の過料」と定められているものの、実際には適用されるケースが極めて稀だからです",
@@ -379,6 +387,12 @@
    }
   ],
   "突き合わせ・推定": [
+   {
+    "quote": "「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし",
     "url": "https://note.com/pythonddd/n/nd056ead22003",
@@ -1006,6 +1020,96 @@
   ],
   "一次情報の探し方": [
    {
+    "quote": "本ガイドでは採用担当者を納得させる具体的な文例と、AnyGenを活用した即戦力書類の自動作成法を解説します",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Export to PowerPoint, Google Slides or PDF · No watermark on free tier",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この2つは目的も採用側の見方も根本的に異なります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「わからない」と諦める前に、公的データベースや企業公開情報をリサーチすることで正確な売上高が判明するケースが多々あります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自社公式サイトの企業概要・IRページ：上場企業はもちろん、非上場企業でも決算月や沿革ページに直近年度の売上高が明記されているケースがあります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融庁 EDINET（有価証券報告書閲覧サイト）：上場企業および有価証券報告書提出義務のある企業であれば、過去5年分の正確な連結・単体売上高が無償で閲覧可能です",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報決算公告（官報検索サービス・決算公表サイト）：会社法第440条に基づき決算公告を行っている株式会社であれば、貸借対照表や損益計算書の要約が掲載されています",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当時の求人票・会社案内パンフレット：自身が入社した際の中途採用求人票、新卒採用時の会社案内、社内報に「年商〇〇億円」などの記載が残っていないか確認します",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "親会社がいる子会社の場合は、親会社の有価証券報告書内の「関係会社の状況」セクションに主要子会社の売上高・出資比率が掲載されていることがあります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査の基準時点：売上高は「直近の決算期」または「自身の在籍当時の決算期」のどちらを記載しても問題ありません",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用担当者が知りたいのは「どの規模感の組織でどんな事業をしていたか」であるため、売上高以外の指標で十分に意図が伝わります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用官は売上の絶対金額そのものよりも、与えられた目標を達成できる人物かどうかを審査しています",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人事・採用：採用充足率やコスト効率（例：中途採用年間24名充足、ダイレクトリクルーティング活用により外部エージェント費用を30%削減）",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AnyGenを使えば、売上高がわからない・非上場・バックオフィス・社外秘といった複雑な条件でも、採用担当者が求めるフォーマットに沿った職務経歴書とプレゼン資料を数分で自動生成できます",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ATS（採用管理システム）最適化：主要企業の書類選考システムが自動解析しやすい見出し構造・キーワード含有率を保証",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
     "quote": "推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし",
     "url": "https://note.com/pythonddd/n/nd056ead22003",
     "pass": 3,
@@ -1560,6 +1664,12 @@
   ],
   "失敗・落とし穴": [
    {
+    "quote": "社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
     "quote": "つまりBtoC企業であれば「情報がない ≒ 大した規模ではない ≒ 赤字ギリギリ」という見立てで大体合っています（※ただしBtoBのニッチトップ企業や下請け企業は、優良でも意図的に情報を出さないケースがあるため注意が必要です）",
     "url": "https://note.com/pythonddd/n/nd056ead22003",
     "pass": 3,
@@ -1698,15 +1808,13 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "検索結果の抜粋": [
-   {
-    "quote": "How to Find Company Revenue: 6 Methods (2026) — Key takeaways To find a company's revenue, first check whether it is public, registered where accounts are filed, or neither. Public companies report exact revenue in SEC filings and annual reports. Many private companies in France, the UK, and the EU file turnover in official registries. When no figure is filed, estimate it with the revenue-per-empl",
-    "url": "https://derrick-app.com/business-data/find-revenue",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "官報で決算公告を出すのは株主総会の前？後？タイミングと手順の完全ガイド",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "利益を生み出す構造（損益分岐点）から逆算するのがコツです",
     "url": "https://note.com/pythonddd/n/nd056ead22003",
@@ -2555,16 +2663,6 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/toushi_gyousei/n/n14e47b0c5d0c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "status": "ok",
     "method": "http"
@@ -2590,11 +2688,6 @@
     "method": "http"
    },
    {
-    "url": "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.lib.pref.saitama.jp/guide/docs/d24fe439f654d0608847f3cb7bc5a749.pdf",
     "status": "ok",
     "method": "pdf"
@@ -2611,8 +2704,8 @@
    },
    {
     "url": "https://biz.moneyforward.com/erp/basic/2193/",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://shiodome.co.jp/js/blog/13507",
@@ -2645,12 +2738,12 @@
     "method": "http"
    },
    {
-    "url": "https://service.g-search.jp/2024/12/20/01062.html",
+    "url": "https://catr.jp/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "url": "https://service.g-search.jp/2024/12/20/01062.html",
     "status": "ok",
     "method": "http"
    },
@@ -2692,14 +2785,7 @@
    "results": [
     "https://note.com/pythonddd/n/nd056ead22003",
     "https://note.com/funteractive_inc/n/nd5c6502fc018",
-    "https://note.com/dakudhigura/n/n55af22458dd3",
-    "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://note.com/toushi_gyousei/n/n14e47b0c5d0c",
-    "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "https://note.com/s_o_0517/n/n51e06bbe1aed",
-    "https://note.com/irshukatsu/n/n9fd752118742",
-    "https://note.com/zaimani_com/n/n55c23417fd36",
-    "https://note.com/sk_kasou/n/n5f399867efe8"
+    "https://note.com/dakudhigura/n/n55af22458dd3"
    ]
   },
   {
@@ -2736,14 +2822,14 @@
    "query": "非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人） 事例",
    "results": [
     "https://www.lib.pref.saitama.jp/guide/docs/d24fe439f654d0608847f3cb7bc5a749.pdf",
-    "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/",
+    "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
     "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
     "https://shiodome.co.jp/js/blog/13590",
     "https://www.career-adv.jp/recruit_info/career/443/",
-    "https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/",
+    "https://catr.jp/",
     "https://service.g-search.jp/2024/12/20/01062.html"
    ]
   },
@@ -2758,7 +2844,7 @@
     "https://raincatcher.com/private-company-valuation/",
     "https://nodior.com/private-company-revenue-estimation",
     "https://www.linkedin.com/posts/cpastrategicsolutions_knowing-the-formula-is-easy-knowing-how-activity-7511466677562257408-zNCM",
-    "https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue",
+    "https://online.hbs.edu/blog/post/how-to-value-a-company",
     "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/"
    ]
   },
@@ -2779,7 +2865,15 @@
   },
   {
    "query": "site:x.com 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）",
-   "results": []
+   "results": [
+    "https://x.com/F_kokutiyou/status/1261129182949462017",
+    "https://x.com/compalyze",
+    "https://x.com/masayuki_josisu/status/2038111375403393339",
+    "https://x.com/kessan_db",
+    "https://x.com/nagi_cpa_tax/status/2080582907920593277",
+    "https://x.com/skypce__sky/status/2069330783245103127",
+    "https://x.com/biz_arts1/status/2066007720831156440"
+   ]
   },
   {
    "query": "site:linkedin.com 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）",
@@ -2810,8 +2904,8 @@
    "results": [
     "https://note.com/isa99999/n/n7aadf977f2e7",
     "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "https://note.com/cyber_forest/n/n24410a3e7804",
     "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
+    "https://note.com/cyber_forest/n/n24410a3e7804",
     "https://note.com/zaimani_com/n/n55c23417fd36",
     "https://www.sankei.com/article/20180511-BSOB7WDE2JI2ZK4DIHUCUXPWYU/",
     "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
@@ -2824,8 +2918,8 @@
    "query": "非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人） X 投稿",
    "results": [
     "https://www.tsr-net.co.jp/data/detail/1197761_1527.html",
-    "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
     "https://note.com/isa99999/n/n7aadf977f2e7",
+    "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
     "https://shiodome.co.jp/js/blog/13507",
     "https://office.vbest.jp/columns/general_corporate/g_general/6593/",
     "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
@@ -2841,53 +2935,135 @@
     "https://www.linkedin.com/pulse/4-ways-calculate-value-your-company-todd-sullivan",
     "https://www.linkedin.com/posts/davidsymsmith_business-valuation-methods-whats-your-companys-activity-7415041023837646848-npHK",
     "https://www.linkedin.com/posts/acremades_valuing-pre-revenue-companies-activity-7337448332505604096-rECn",
-    "https://www.linkedin.com/posts/financial-modeling-world-cup_valuationmethods-finance-activity-7455903911166738432-r1hW",
     "https://www.linkedin.com/top-content/business-strategy/systematic-investment-planning/valuation-techniques-for-startups/",
     "https://www.linkedin.com/pulse/5-main-methods-value-business-daniel-faloppa",
     "https://www.linkedin.com/pulse/understanding-409a-valuation-nehil-jain-tym2c",
     "https://www.linkedin.com/pulse/valuation-private-limited-companies-purpose-methods-aditya-chokhra",
     "https://www.linkedin.com/posts/andrewmorrisbusinesssalesbrisbane_9-business-valuation-methods-explained-dcf-activity-7511220847244800001-VdHi",
-    "https://www.linkedin.com/top-content/finance/private-equity-basics/private-equity-valuation-methods/"
+    "https://www.linkedin.com/top-content/finance/private-equity-basics/private-equity-valuation-methods/",
+    "https://www.linkedin.com/pulse/understanding-multiples-approach-company-valuation-omer-mba-fmva--bgodc"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {
-  "実例": [
+  "突き合わせ・推定": [
    {
-    "quote": "食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "quote": "「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "本ガイドでは採用担当者を納得させる具体的な文例と、AnyGenを活用した即戦力書類の自動作成法を解説します",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/",
+    "quote": "Export to PowerPoint, Google Slides or PDF · No watermark on free tier",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
     "pass": 3,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この2つは目的も採用側の見方も根本的に異なります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「わからない」と諦める前に、公的データベースや企業公開情報をリサーチすることで正確な売上高が判明するケースが多々あります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "自社公式サイトの企業概要・IRページ：上場企業はもちろん、非上場企業でも決算月や沿革ページに直近年度の売上高が明記されているケースがあります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "金融庁 EDINET（有価証券報告書閲覧サイト）：上場企業および有価証券報告書提出義務のある企業であれば、過去5年分の正確な連結・単体売上高が無償で閲覧可能です",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官報決算公告（官報検索サービス・決算公表サイト）：会社法第440条に基づき決算公告を行っている株式会社であれば、貸借対照表や損益計算書の要約が掲載されています",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "当時の求人票・会社案内パンフレット：自身が入社した際の中途採用求人票、新卒採用時の会社案内、社内報に「年商〇〇億円」などの記載が残っていないか確認します",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "親会社がいる子会社の場合は、親会社の有価証券報告書内の「関係会社の状況」セクションに主要子会社の売上高・出資比率が掲載されていることがあります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "調査の基準時点：売上高は「直近の決算期」または「自身の在籍当時の決算期」のどちらを記載しても問題ありません",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用担当者が知りたいのは「どの規模感の組織でどんな事業をしていたか」であるため、売上高以外の指標で十分に意図が伝わります",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用官は売上の絶対金額そのものよりも、与えられた目標を達成できる人物かどうかを審査しています",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "人事・採用：採用充足率やコスト効率（例：中途採用年間24名充足、ダイレクトリクルーティング活用により外部エージェント費用を30%削減）",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AnyGenを使えば、売上高がわからない・非上場・バックオフィス・社外秘といった複雑な条件でも、採用担当者が求めるフォーマットに沿った職務経歴書とプレゼン資料を数分で自動生成できます",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ATS（採用管理システム）最適化：主要企業の書類選考システムが自動解析しやすい見出し構造・キーワード含有率を保証",
+    "url": "https://www.anygen.io/showcase/shokumu-keirekisho-uriagedaka-wakaranai/index.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します",
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    }
   ],
   "手順・やり方": [
    {
-    "quote": "公告方法の種類ごとの メリット、デメリット",
+    "quote": "官報で決算公告を出すのは株主総会の前？後？タイミングと手順の完全ガイド",
     "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
     "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その方法は様々であり、官報、日刊新聞紙、電子公告などがあります",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それぞれの方法にはメリットとデメリットが存在し、適切な選択が求められます",
-    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
    }
   ]
  },
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-05T00:45:10.289248+00:00"
 }

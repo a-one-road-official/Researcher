@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・85品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・86品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4814,6 +4814,16 @@
   - 「工業統計 調査 確報 2019年確報 産業 編 2-01 【1． 産業別 ... — 工業統計 調査 確報 2019年確報 産業 編 2-01 【1． 産業別 ... 政府統計の総合窓口 https://www.e-stat.go.jp > stat-search > database」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001143706&tclass3val=0&second=1&second2=1&statdisp_id=0003432897）
   - 「令和3年経済センサス‐活動調査（ 確報 ） - 佐賀県 — 令和3年経済センサス‐活動調査（ 確報 ） - 佐賀県 佐賀県 https://www.pref.saga.lg.jp > toukei > kiji003101251」（https://www.pref.saga.lg.jp/toukei/kiji003101251/index.html）
   - 「2019年 工業統計 調査結果（ 確報 ） （ 2019年 6月1日 ... - 愛知県 — 2019年 工業統計 調査結果（ 確報 ） （ 2019年 6月1日 ... - 愛知県 愛知県 https://www.pref.aichi.jp > toukei > kougyo202006」（https://www.pref.aichi.jp/soshiki/toukei/kougyo202006.html）
+
+## 経済構造実態調査 製造業事業所調査 産業別統計表 Excel 2022〜2024年 確報（産業細分類×従業者規模の事業所数・従業者数・加工賃収入額・切れ目の後の系列・工業統計とつながない・4-26）（Economic Structure Actual Survey manufacturing establishments report by industry detailed industry by size Excel）
+- 文脈：業種・統計
+- 事業所数・社数：記載なし（読んだ21頁・検索15回）
+- 社員数・平均社員数：記載なし（読んだ21頁・検索15回）
+- 受注金額・加工賃収入：記載なし（読んだ21頁・検索15回）
+- 1人あたり・1社あたり金額：記載なし（読んだ21頁・検索15回）
+- 生産能力・設備：記載なし（読んだ21頁・検索15回）
+- 10年推移：記載なし（読んだ21頁・検索15回）
+- 人手と仕事の差：記載なし（読んだ21頁・検索15回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
