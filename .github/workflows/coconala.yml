@@ -1,0 +1,58 @@
+name: Coconala
+
+# ココナラのカテゴリ一覧と各サービス（価格・ランク・評価・販売実績・納期・レビュー本文）を取る（researcher/coconala.py）。
+# 入力 researcher/inputs/coconala.csv。push か手動で回る。済んだサービスは飛ばし、時間切れなら自分で次の回を呼ぶ。
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "researcher/coconala.py"
+      - "researcher/inputs/coconala.csv"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: coconala
+  cancel-in-progress: false
+
+jobs:
+  coconala:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: |
+          python -m pip install -q playwright pyyaml
+          python -m playwright install --with-deps chromium
+      - run: python -m researcher.coconala
+        env: { COCONALA_SECONDS: "16200" }
+      - if: always()
+        run: |
+          git config user.name "a1-researcher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add researcher/out/coconala
+          git diff --cached --quiet && exit 0
+          git commit -q -m "coconala: $(date -u +%FT%TZ)"
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep 5; done
+      - if: always()
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          left=$(python - <<'PY'
+          import json,re
+          from pathlib import Path
+          n=0
+          for d in Path("researcher/out/coconala").glob("*"):
+              o=d/"order.json"
+              if o.exists():
+                  ids=json.load(open(o)); n+=sum(1 for i in ids if not (d/"services"/f"{i}.json").exists())
+          print(n)
+          PY
+          )
+          echo "left=$left"
+          if [ "$left" != "0" ]; then gh workflow run coconala.yml --ref main; fi
