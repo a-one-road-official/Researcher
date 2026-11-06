@@ -1,0 +1,776 @@
+{
+ "name": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60）",
+ "en": "Bank of Japan corporate goods price index metal products annual average 2016 2019 index level series code",
+ "aliases": [
+  "企業物価指数 金属製品 年平均 2016 2017 2018 2019 指数 site:boj.or.jp",
+  "時系列統計データ 検索サイト PR01 金属製品 年平均",
+  "国内企業物価指数 金属製品 類別 指数 2020年基準 -前年比"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T16:09:37.337880+00:00",
+ "evidence": {
+  "10年推移": [
+   {
+    "quote": "2020年基準",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年基準",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "表 2020年基準 2026年",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "表 2020年基準 2025年",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月10日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月13日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月10日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 9月11日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 8月13日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 7月10日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 6月11日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "pass": 3
+   },
+   {
+    "quote": "2020 年基準",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 6月",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12－3．価格変動に季節性が強い品目における補完方法（前年比補完）",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5－1．2019～2021年平均（2015年基準指数）における品質調整の実施状況",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1．2020年基準接続指数 ....................................................... 86",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．2020年基準改定の概要 ..................................................... 93",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を、基準時点（2020 年）の価格を 100 として、指数化したものである",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基準時 指数の基準時は、2020 年の年平均",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウエイトは、2019 年と 2020 年の平均値を適用",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・2019 年の国内向け出荷額 （2019 年工",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業統計の出荷額から、2019 年貿易統",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計の輸出額を控除した額） と2020 年",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の国内向け出荷額（2019 年工業統計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の出荷額を 2020 年動態統計で延長",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "推計した額から、2020 年貿易統計の",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・貿易統計（輸出額、輸入額）における2019 年と",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020 年の平均値を採用",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：調査価格数は、2022 年 3月時点",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025/8",
+    "url": "https://www.neji-bane.jp/statistics/price/",
+    "pass": 3
+   },
+   {
+    "quote": "国内企業物価指数（総平均）2020年基準",
+    "url": "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数（2020年基準） : 日本銀行 Bank of Japan",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数（2020年基準）",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数（2020年基準）の概要",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数（2020年基準）の解説、および関連資料",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数（2020年基準）のFAQ",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "以下の時系列データについては、",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数（2020年基準）の時系列データの参考資料",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数・2025年基準改定の基本方針",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 1月16日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 1月16日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 7月12日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数の2020年基準接続指数の追加掲載について",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 6月 3日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数・2020年基準改定結果―改定結果の概要と2020年基準指数の動向―",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 5月 9日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数・2020年基準の公表日程等について",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月20日",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数・2020年基準改定の最終案",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "日本銀行の企業物価指数2020年基準 | フロンティア資産評価研究会",
+    "url": "https://www.frontier-valuation.com/post/columns800",
+    "pass": 3
+   },
+   {
+    "quote": "日本銀行の企業物価指数2020年基準",
+    "url": "https://www.frontier-valuation.com/post/columns800",
+    "pass": 3
+   },
+   {
+    "quote": "2023年2月28日",
+    "url": "https://www.frontier-valuation.com/post/columns800",
+    "pass": 3
+   },
+   {
+    "quote": "日本銀行の企業物価指数は2017年から2015年を基準とした指数が使われてきたが、昨年2022年の6月以降は2020年基準の数値で発表されるようになった",
+    "url": "https://www.frontier-valuation.com/post/columns800",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "7－1．調査価格数・調査先企業数",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "・2019 年の国内向け出荷額 （2019 年工",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業統計の出荷額から、2019 年貿易統",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の国内向け出荷額（2019 年工業統計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の出荷額を 2020 年動態統計で延長",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 国内取引については、①、②、③の取引額を生産者の出荷額ベースで算出している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウエイト対象総取引額 2,229,261億円 656,062 億円 690,426 億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用基準額 669 億円 328億円 345億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜参考＞2015年基準 215 億円 343億円 369億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取引総額 (A) 2,345,440億円 672,727億円 725,816億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウエイト対象総取引額 (B) 2,229,261億円 656,062億円 690,426億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採用商品の取引額 (C) 1,812,944億円 474,514億円 517,206億円",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2020 年基準 企業物価指数 の解説 - 日本銀行 — 2020 年基準 企業物価指数 の解説 - 日本銀行 日本銀行ホームページ PDF https://www.boj.or.jp > outline > exp > cgpi_2020",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数 （ 2020年基準 ） : 日本銀行 Bank of Japan — 企業物価指数 （ 2020年基準 ） : 日本銀行 Bank of Japan 日本銀行ホームページ https://www.boj.or.jp > 統計 > 物価関連統計",
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Makoto Kasai - Director General of the International ...Takatoshi Sasaki - Data Analyst at Nowcast Inc. | LinkedIn企業物価指数（2026年1月速報）－引き続き輸出入物価は上昇トレンドが...1,000+ 企業物価指数 日本経済新聞 jobs in United States2020年基準 消費者物価指数 全国 2026年 (令和8年)3月分及び2025年度 ...加工金属製品業界の市場規模と成長予測（2025年から2032年までの年平... View Makoto Kasai’s profile on LinkedIn, a professional community of 1 billion members. Data Analyst at Nowcast Inc. · E",
+    "url": "https://www.linkedin.com/in/makoto-kasai-4b2846284",
+    "pass": 3
+   },
+   {
+    "quote": "Takatoshi Sasaki - Data Analyst at Nowcast Inc. | LinkedIn企業物価指数（2026年1月速報）－引き続き輸出入物価は上昇トレンドが...1,000+ 企業物価指数 日本経済新聞 jobs in United States2020年基準 消費者物価指数 全国 2026年 (令和8年)3月分及び2025年度 ...加工金属製品業界の市場規模と成長予測（2025年から2032年までの年平... Data Analyst at Nowcast Inc. · Experience: Nowcast Inc. · Education: The London School of Economics and Political Science (LSE) · Location: Tokyo · 500+ connections on LinkedIn",
+    "url": "https://jp.linkedin.com/in/takatoshi-sasaki-40488752/en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "日本銀行 - Facebook日本銀行 - 【企業向けサービス価格指数・2020年基準改定の基本方針】...日本銀行 - 「展望レポート・ハイライト（2025年10月）」を公表しまし...日本経済新聞（日経新聞） - 10円玉の素材価値、銅高騰で「額面超え」...ViralNova - Facebook皆様に質問です。 | Facebook Oct 30, 2026 · （金融研究所DPS）本稿は、価格などのデータを用いて 観測不能な製品品質を数量ベースの生産性から分離し 、1914-20年の日本綿紡績業において、電化による電動 機の普及率の1%上昇が製品品質を1.5%向上させたこと を示しました。 May 26, 2023 · 【企業向けサービス価格指数・2020年基準改定の基本方針】 日本銀行では現在、企業向けサービス価格指数の基準改定に向けた作業を進めています。 今般、改定の基本方針",
+    "url": "https://www.facebook.com/BankofJapan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本銀行 - 【企業向けサービス価格指数・2020年基準改定の基本方針】... May 26, 2023 · 【企業向けサービス価格指数・2020年基準改定の基本方針】 日本銀行では現在、企業向けサービス価格指数の基準改定に向けた作業を進めています。 今般、改定の基本方針が固まりましたので、これを公表し、広く皆様のご意見を募集することとします。",
+    "url": "https://www.facebook.com/BankofJapan/posts/企業向けサービス価格指数2020年基準改定の基本方針日本銀行では現在企業向けサービス価格指数の基準改定に向けた作業を進めています今般改定の基本方針が固まりました/696081928988305/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.neji-bane.jp/statistics/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.frontier-valuation.com/post/columns800",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000893603.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/COJPNZ332",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/regions/mid-atlantic/data/producerpriceindexmetals_us_table.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://app.indexbox.io/indicators/symbol/export-prices-yen-basis-subgroup-metal-products-corporate-goods-price-index-2020-base-percent-change-on-a-year-earlier-bank-of-japan-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/makoto-kasai-4b2846284",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/takatoshi-sasaki-40488752/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/BankofJapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/BankofJapan/posts/企業向けサービス価格指数2020年基準改定の基本方針日本銀行では現在企業向けサービス価格指数の基準改定に向けた作業を進めています今般改定の基本方針が固まりました/696081928988305/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） 人手不足 受注 断る",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） 受注残 人手不足",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） 人手不足 損失 億円",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60）",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） 推移",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） 統計 PDF",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） 従業者規模別",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） 1人当たり 万円",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） 2015 2025",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf"
+   ]
+  },
+  {
+   "query": "Bank of Japan corporate goods price index metal products annual average 2016 2019 index level series code Japan statistics",
+   "results": [
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "https://fred.stlouisfed.org/series/COJPNZ332",
+    "https://www.bls.gov/regions/mid-atlantic/data/producerpriceindexmetals_us_table.htm",
+    "https://app.indexbox.io/indicators/symbol/export-prices-yen-basis-subgroup-metal-products-corporate-goods-price-index-2020-base-percent-change-on-a-year-earlier-bank-of-japan-japan/",
+    "https://data.worldbank.org/indicator",
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2608.pdf",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2023all.pdf",
+    "https://en.macromicro.me/charts/687/jp-corporate-goods-price-index"
+   ]
+  },
+  {
+   "query": "site:note.com 日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60）",
+   "results": [
+    "https://note.com/kagawatomo/n/nd985c3959405",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/loyal_ivy9071/n/n25de3448f0a8",
+    "https://note.com/jack4manastalk/n/n2eeee2240e33",
+    "https://note.com/ezuremanagement/n/n62ac85c83529",
+    "https://note.com/ocaml/n/na588eab9a296",
+    "https://note.com/good_poppy696/n/n979b4d8fb956",
+    "https://note.com/ogawa_tech/n/nf1b46e1253a6",
+    "https://note.com/yas2019/n/n84e67262f82a",
+    "https://note.com/anisokunews/n/n8613bf027199"
+   ]
+  },
+  {
+   "query": "site:x.com 日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60）",
+   "results": []
+  },
+  {
+   "query": "site:linkedin.com 日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60）",
+   "results": [
+    "https://www.linkedin.com/company/日本銀行",
+    "https://www.linkedin.com/in/makoto-kasai-4b2846284",
+    "https://jp.linkedin.com/in/takatoshi-sasaki-40488752/en",
+    "https://jp.linkedin.com/posts/剛士-片岡-030695250_企業物価指数2026年1月速報引き続き輸出入物価は上昇トレンドが加速2026-activity-7427968149733433344-RTB-",
+    "https://www.linkedin.com/jobs/企業物価指数　日本経済新聞-jobs",
+    "https://jp.linkedin.com/posts/工-原田-72823a394_2020年基準-消費者物価指数-全国-2026年令和8年3月分及び2025年度-activity-7454018199819423745-8Gyh",
+    "https://jp.linkedin.com/pulse/加工金属製品業界の市場規模と成長予測2025年から2032年までの年平均成長率96-quarto-research-vsg9c"
+   ]
+  },
+  {
+   "query": "site:facebook.com 日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60）",
+   "results": [
+    "https://www.facebook.com/BankofJapan/photos/3000306326936040/",
+    "https://www.facebook.com/BankofJapan/",
+    "https://www.facebook.com/BankofJapan/posts/企業向けサービス価格指数2020年基準改定の基本方針日本銀行では現在企業向けサービス価格指数の基準改定に向けた作業を進めています今般改定の基本方針が固まりました/696081928988305/",
+    "https://www.facebook.com/BankofJapan/posts/展望レポートハイライト2025年10月を公表しました①日本経済の成長率は伸び悩んだあと高まっていく②物価は減速したあと2程度に向かう③通商政策等の影響を巡る不確/1285599356703223/",
+    "https://www.facebook.com/ViralNova/",
+    "https://www.facebook.com/groups/297016433814304/posts/3287352894780628/",
+    "https://www.facebook.com/nikkei/photos/10円玉の素材価値銅高騰で額面超えhttpswwwnikkeicomarticledgxzqoub105td0q6a610c2000000n_ciddsprm1/1540573000747430/"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） note 社長",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf"
+   ]
+  },
+  {
+   "query": "日本銀行 企業物価指数（2020年基準）金属製品・金属加工製品の年平均指数 2016〜2019年（指数の水準・系列コードで・名目の1人あたりを実質で読む分母・4-37・4-60） X 投稿",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.frontier-valuation.com/post/columns800",
+    "https://www.soumu.go.jp/main_content/000893603.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010501006000010572/2"
+   ]
+  },
+  {
+   "query": "Bank of Japan corporate goods price index metal products annual average 2016 2019 index level series code site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/larryfitzgeraldjr",
+    "https://jp.linkedin.com/in/cory-baird-mn",
+    "https://www.linkedin.com/in/saurabhmishrainternational",
+    "https://ch.linkedin.com/in/jennifer-blanke-b8377b4",
+    "https://www.linkedin.com/in/kedarram",
+    "https://www.linkedin.com/in/luisalbertomoreno",
+    "https://www.linkedin.com/in/reedkimberlyann",
+    "https://ch.linkedin.com/in/ivan-petev-3a802319",
+    "https://www.linkedin.com/in/ken-matheny",
+    "https://www.linkedin.com/in/adamhadi"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ21頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ21頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ21頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ21頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ21頁・検索18回）"
+ }
+}

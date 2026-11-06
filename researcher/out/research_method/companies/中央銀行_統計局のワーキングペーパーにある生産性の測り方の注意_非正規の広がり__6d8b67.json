@@ -8,120 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-06T12:32:59.052403+00:00",
+ "researched_at": "2026-11-06T16:00:47.672389+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的には、 次式についてパネル推計を",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推計にあたっては、 各国固有の要因をコントロールするために、 国別の固",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推計期間は 1995～2017 年であ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本推計は、 無形",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "技術進歩に関連しては、 計測上の問題により、見かけの生産性が過小推計にな",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "小西葉子 (2003)、 「生産関数の推定における人的資本の代理変数」 、 『経済科",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "表 1 推計結果：無形資産投資が労働生産性に与える影響",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（注 2）TFPは、日本銀行スタッフによる推計値",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（注 2）TFP（マクロベース）は、日本銀行スタッフによる推計値",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（注 2）カーネル密度推定値",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（注）折れ線は、カーネル密度推定値",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "ただし、残された誤りは筆者らに帰する",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ",
@@ -214,6 +102,98 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "年の生産性低迷要因が、感染症拡大下でどのような動きとなっているか も検証",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "具体的には、 次式についてパネル推計を",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計にあたっては、 各国固有の要因をコントロールするために、 国別の固",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計期間は 1995～2017 年であ",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計結果をみると、いずれの定式化においても、無形資産の弾性値の合計 （∑ 𝛼）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、 推計結果をみると、 わが国では国ダミーの推計値が大きめのマイナスと",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本推計は、 無形",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "以上の推計結果や Brynjolfsson et al. (2017) の議論を踏まえると、グローバ",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "技術進歩に関連しては、 計測上の問題により、見かけの生産性が過小推計にな",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "小西葉子 (2003)、 「生産関数の推定における人的資本の代理変数」 、 『経済科",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "表 1 推計結果：無形資産投資が労働生産性に与える影響",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注 2）TFPは、日本銀行スタッフによる推計値",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注 2）TFP（マクロベース）は、日本銀行スタッフによる推計値",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注 2）カーネル密度推定値",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注）折れ線は、カーネル密度推定値",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
@@ -301,6 +281,26 @@
    },
    {
     "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "ただし、残された誤りは筆者らに帰する",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "認識や起業能力に対する認識が低いほか、 失敗に対する恐れが高い （図 24）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新興国等、産業構造の大きく異なる国や地域の比較を行う際には注意が必要で",
     "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -413,6 +413,11 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/andyfp_2025/n/nb4b88cb89453",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/lyco_pene/n/n7241631b660c",
     "status": "ok",
     "method": "http"
@@ -424,11 +429,6 @@
    },
    {
     "url": "https://note.com/kanemonfin/n/n769910385371",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kens_reading1/n/n09f86965e019",
     "status": "ok",
     "method": "http"
    },
@@ -453,12 +453,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
     "status": "ok",
     "method": "http"
    },
@@ -468,19 +468,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.univcoop.jp/hosei/ebook01/14.html",
+    "url": "https://www.univcoop.jp/hosei/ebook01/9.html",
     "status": "ok",
     "method": "browser"
-   },
-   {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
-    "status": "ok",
-    "method": "pdf"
    },
    {
     "url": "https://rmc-oden.com/blog/archives/140347",
@@ -488,9 +478,19 @@
     "method": "http"
    },
    {
-    "url": "https://release.nikkei.co.jp/attach_file/0536598_03.pdf",
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0510494_03.pdf",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://da.lib.kobe-u.ac.jp/da/kernel/E0042420/E0042420.pdf",
@@ -533,17 +533,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/research-1/Decomposing-the-Labor-Productivity-Gap-between-Upper-Middle-Income-and-High-Income-Countries.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://openknowledge.worldbank.org/bitstreams/edbc2c82-a185-510c-968b-6708a0bd9219/download",
     "status": "ok",
     "method": "browser"
    },
    {
     "url": "https://www.bis.org/publications/working-paper-534-labour-reallocation-and-productivity-dynamics-financial-causes-real-consequences.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/research-1/Decomposing-the-Labor-Productivity-Gap-between-Upper-Middle-Income-and-High-Income-Countries.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -560,14 +560,13 @@
    "results": [
     "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
     "https://note.com/qp2hp7ga_/n/nc76b72ea361c",
+    "https://note.com/andyfp_2025/n/nb4b88cb89453",
     "https://note.com/lyco_pene/n/n7241631b660c",
     "https://note.com/kens_reading1/n/n17626df2cb9d",
     "https://note.com/kanemonfin/n/n769910385371",
     "https://note.com/kens_reading1/n/n09f86965e019",
     "https://note.com/serene_chives592/n/n1d7d276f777e",
-    "https://note.com/chic_deer1160/n/n6c90181b6a4f",
-    "https://note.com/ogawa_tech/n/nac3afbb88c71",
-    "https://note.com/andyfp_2025/n/nb4b88cb89453"
+    "https://note.com/chic_deer1160/n/n6c90181b6a4f"
    ]
   },
   {
@@ -577,8 +576,8 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
     "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://www.nier.go.jp/17chousakekkahoukoku/factsheet/data/17p_426_2.pdf",
     "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
@@ -589,14 +588,14 @@
    "query": "中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方） やり方",
    "results": [
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
     "https://jsite.mhlw.go.jp/yamagata-roudoukyoku/seisansei_keisanhouhou.html",
-    "https://www.univcoop.jp/hosei/ebook01/14.html",
+    "https://web-material3.yokogawa.com/GSML1-01E_002.pdf",
+    "https://www.univcoop.jp/hosei/ebook01/9.html",
+    "https://rmc-oden.com/blog/archives/140347",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://release.nikkei.co.jp/attach_file/0510494_03.pdf",
     "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
-    "https://rmc-oden.com/blog/archives/140347",
-    "https://release.nikkei.co.jp/attach_file/0536598_03.pdf",
     "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
@@ -605,9 +604,9 @@
    "results": [
     "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://da.lib.kobe-u.ac.jp/da/kernel/E0042420/E0042420.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
     "https://www.jftc.go.jp/cprc/reports/index_files/cr-0411.pdf",
     "https://www.jsest.jp/wp-content/uploads/Toukeigaku/journal/50kinen/stat50_3.pdf",
@@ -620,13 +619,14 @@
    "results": [
     "https://www.ijcb.org/journal/v19n5/credit-booms-labor-reallocation-and-productivity-growth",
     "https://www.chicagofed.org/publications/economic-perspectives/2025/1",
+    "https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/research-1/Decomposing-the-Labor-Productivity-Gap-between-Upper-Middle-Income-and-High-Income-Countries.pdf",
     "https://openknowledge.worldbank.org/bitstreams/edbc2c82-a185-510c-968b-6708a0bd9219/download",
     "https://www.bis.org/publications/working-paper-534-labour-reallocation-and-productivity-dynamics-financial-causes-real-consequences.pdf",
-    "https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/research-1/Decomposing-the-Labor-Productivity-Gap-between-Upper-Middle-Income-and-High-Income-Countries.pdf",
     "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
     "https://www.aeaweb.org/conference/2016/retrieve.php?pdfid=21384&tk=5Yh2FaT5",
     "https://conference.nber.org/confer/2015/SI2015/PRCR/Bai_Carvalho_Phillips.pdf",
-    "https://www.conference-board.org/pdf_free/workingPapers/E-0024-07-WP.pdf"
+    "https://www.federalreserve.gov/econres/feds/files/2018007pap.pdf",
+    "https://www.bis.org/publications/working-paper-534-labour-reallocation-and-productivity-dynamics-financial-causes-real-consequences"
    ]
   },
   {
@@ -636,47 +636,32 @@
     "https://note.com/kens_reading1/n/n17626df2cb9d",
     "https://note.com/lyco_pene/n/n7241631b660c",
     "https://note.com/kens_reading1/n/n09f86965e019",
+    "https://note.com/serene_chives592/n/n1d7d276f777e",
     "https://note.com/ogawa_tech/n/nac3afbb88c71",
     "https://note.com/kanemonfin/n/n769910385371",
-    "https://note.com/serene_chives592/n/n1d7d276f777e",
     "https://note.com/chic_deer1160/n/n6c90181b6a4f"
    ]
   },
   {
    "query": "site:x.com 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）",
-   "results": [
-    "https://jf.x.com/images/media-preview/2107040014349881640",
-    "https://jf.x.com/images/media-preview/2095180828372320712",
-    "https://x.com/Masa_Aug2020/status/2020292637891477991",
-    "https://x.com/gpiftweets/status/2097814809274446208",
-    "https://x.com/aoi_kujaku/status/2076258405665366182",
-    "https://x.com/kenbiolab/status/2096089655880114186",
-    "https://x.com/gpiftweets/status/2052273085576003724"
-   ]
+   "results": []
   },
   {
    "query": "site:linkedin.com 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）",
    "results": [
     "https://jp.linkedin.com/in/nshiraki",
     "https://jp.linkedin.com/pulse/productivity-paradox-ai-age-luca-collina-mba-asrte?tl=ja",
-    "https://www.linkedin.com/pulse/データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践する前に知っておくべき統計的思考-鈴木-xjnbc/",
     "https://jp.linkedin.com/pulse/サーキュラーエコノミーceの費用対効果を見える化するce付加価値生産性指標cvpに関するディスカッションペーパー-7342490674727931904-xxlac",
+    "https://www.linkedin.com/pulse/データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践する前に知っておくべき統計的思考-鈴木-xjnbc/",
     "https://www.linkedin.com/posts/kzappmusi9_研究集会第22-回ノンパラメトリック統計解析とベイズ統計中央大学にて報告してきました-activity-6914134531230904320-GFJk",
     "https://in.linkedin.com/posts/otamakoto_デジタルスイスフランに関するホワイトペーパーデポジットトークンseymour-activity-7065837612963414016-yMuL",
-    "https://jp.linkedin.com/posts/雄平-酒井-a877a822_デロイト人事制度報酬調査2025要員人件費の生産性に関するベンチマーク-activity-7354787057312915456--VUD"
+    "https://jp.linkedin.com/pulse/economic-impact-regulation-ai-key-takeaways-from-imf-alex-chandra-trhjf?tl=ja"
    ]
   },
   {
    "query": "site:facebook.com 中央銀行・統計局のワーキングペーパーにある生産性の測り方の注意（非正規の広がり・合併の再配分・分母の選び方）",
    "results": [
-    "https://www.facebook.com/VUC2021/",
-    "https://www.facebook.com/stat.japan/",
-    "https://www.facebook.com/stat.japan/posts/統計today-no146-平成はどのような時代だったか人口減少社会元年非正規雇用女性活躍デフレ統計todayは統計をめぐる新しい動きやメッセージをお届けするも/2169871449759007/",
-    "https://www.facebook.com/workstyletech/posts/1718816675075683/",
-    "https://www.facebook.com/japan.marketing.academy/posts/ワーキングペーパーvol13-no2紹介劉沛然日系小売チェーンの進出先市場における受容の経時的変化と標準化適応化行動の動態性-ユニクロと無印良品の中国市場進出と/1543740914448016/",
-    "https://www.facebook.com/JICARIJ/posts/ワーキングペーパーno212発刊マイクロファイナンス機関が非常に発達しているカンボジアとフィリピン20092015年の両国のマイクロファイナンス機関の経営特性と/1696942177128433/",
-    "https://www.facebook.com/japan.marketing.academy/photos/ワーキングペーパーvol12-no4紹介大平進network-based-relationship-value-creation-and-its-effects/1416076347214474/",
-    "https://www.facebook.com/SasakawaPeaceFoundation/posts/国際情報ネットワーク分析-iinaの論考をご紹介しますぜひご一読ください現実的な対中戦略構築事業-ワーキングペーパー-vol8日米輸出管理の課題対中安全保障貿易/7146394585435529/"
+    "https://www.facebook.com/VUC2021/"
    ]
   },
   {
@@ -684,14 +669,13 @@
    "results": [
     "https://www.boj.or.jp/research/wps_rev/wps_2021/wp21j13.htm",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://lab.ludashi.com/evaluation/article/59",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
     "https://www.zentsuken.net/journal/file/144_5.html",
     "https://note.com/todobuono/m/m212af1fc670f/hashtag/%E9%89%B1%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E6%8C%87%E6%95%B0",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/446415/3225e7b582aa475d005e104dcbae8a9c?page_id=834263&lang=ja",
     "https://recog.works/ja/news/detail/584",
-    "https://www.boj.or.jp/research/wps_rev/"
+    "https://lab.jinjib.co.jp/archives/category/personnelcolumn/page/3?postID=2708"
    ]
   },
   {
@@ -705,7 +689,7 @@
     "https://www.murc.jp/wp-json/wp/v2/column_reports/93301",
     "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
     "https://www.nri-social.co.jp/rengo/faq/index.php?action=attachment&id=2",
-    "https://release.nikkei.co.jp/attach_file/0504463_02.pdf",
+    "https://contents.xj-storage.jp/xcontents/AS71093/72ae4889/3712/490d/aa4c/266ef31c7d1e/140120230510562986.pdf",
     "https://www.boj.or.jp/research/wps_rev/"
    ]
   },
@@ -714,19 +698,19 @@
    "results": [
     "https://www.linkedin.com/posts/international-and-monetary-economics-network_highly-relevant-webinar-industrial-activity-7510816691526877184--OKe",
     "https://www.linkedin.com/pulse/advanced-ai-investment-banking-transformative-risk-anand-ramachandran-31xee",
+    "https://be.linkedin.com/in/charles-de-beauffort-03410141",
     "https://no.linkedin.com/in/elizaveta-sizova-38394b17a",
     "https://nl.linkedin.com/in/meghna11pal",
     "https://in.linkedin.com/in/saieekatarkar",
     "https://uk.linkedin.com/in/junning-li-853051223",
+    "https://no.linkedin.com/in/hengxiang-yu-630230104",
     "https://in.linkedin.com/in/abhirajjamwal",
-    "https://www.linkedin.com/in/agrawalminal24",
-    "https://ca.linkedin.com/in/shawn-sheng-tu",
-    "https://ch.linkedin.com/in/sergio-ronchel-salas-b85b81223/es"
+    "https://www.linkedin.com/in/agrawalminal24"
    ]
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-05T17:51:10.008965+00:00"
 }
