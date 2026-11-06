@@ -8,8 +8,398 @@
  ],
  "context": "分析の型",
  "kind": "market",
- "researched_at": "2026-11-05T21:44:13.278660+00:00",
+ "researched_at": "2026-11-06T03:44:57.843968+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "notably confirmation bias which compels people to seek evidence confirming their",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "biases when dealing with complex issues. The",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "tive biases in the intuitive analysis that occurs",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "eses (ACH) to help analysts overcome cognitive biases. While experimental evidence on the",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "least, does mitigate confirmation bias. Evidence suggests that these two methods can modestly",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "an optical illusion, no matter how much an analyst consciously tries to see past these biases,",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the unconscious part of the brain continues to assert itself. Indeed, confirmation bias, which",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "to conspiracy theories. Other cognitive biases can have similar negative effects when forecast-",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A common pitfall in this step is to see a large amount of evidence (relative to the total amount",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "remember, unless you find an obvious error or stupid mistake, your first answer is probably",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Brasfield Andrew, Forecasting Accuracy and Cognitive Bias in the Analysis of Competing",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "document/35793494/Forecasting-Accuracy-and-Cognitive-Bias-in-the-Analysis-of-Competing-",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cheikes Brant, et alii, “Confirmation Bias in Complex Analyses”, Technical Report No. MTR",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(1999). It is the most robust operational countermeasure against the cognitive biases — confirmation bias, anchoring, satisficing, mirror imaging — that produce the majority of analytical failures. Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ACH is effective against specific cognitive biases:",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cognitive Biases in Intelligence Analysis",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— the bias taxonomy ACH is designed to mitigate",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "hypothesis before touching the next piece. Working down a single hypothesis's column puts you back in confirmation-bias territory — you start reading each item in that hypothesis's favor. The tool's rating panel is built around this: its next-cell navigation walks across the row before dropping to the next evidence item.",
+    "url": "https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ACH reduces confirmation bias; it does not remove it.",
+    "url": "https://github.com/danielneustadter/ach-workbench",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ACH is especially valuable because it is designed to reduce confirmation bias. It does not promise certainty. It gives teams a disciplined way to compare alternative explanations, expose assumptions, and decide what they need to monitor next.",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reduces confirmation bias.",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "8. Common Pitfalls and How to Avoid Them",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A key assumptions check is often a useful precursor to ACH. It surfaces the beliefs the team is taking for granted, which makes it easier to define better hypotheses and spot where bias may be shaping interpretation.",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Yes. It remains highly relevant for ambiguous decisions where multiple explanations are plausible and bias is a real risk. Most modern teams use it more selectively and more lightly than intelligence agencies once did, but the core logic is still very strong.",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". While counterintuitive, it tests the explanatory power of a proposed hypothesis, whether it’s the analyst’s favored one or not. Every hypothesis receives a “fair shake,” with the analyst verifying evidence alignment to each one. So, ACH acknowledges the presence of biases (in this case, a form of",
+    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "ous foresight examples would be in monitoring",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "website. Heuer, who invented ACH, participated in its development. See Case Study examples and Selective Bibliography.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Let’s imagine an unstable country as an example. When asked, analysts might come up with",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of the competing hypotheses. Should this be the case, the analyst would either need to collect",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "regarding the analysis. For example, if this analysis indicates that the economy has not stabi-",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "main question. For example, the original question “Which industries and tribal groups are",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "example, given that the assumption check revealed that the evidence did, indeed, support the",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, imagine there are three main industries in country x, automotive, textile and min-",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "enough information to answer a question. In the above example, it is entirely possible that data",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SACH Case Study: Ghana Telecommunications",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Note: The following case study conducted for a private client using SACH has been modified",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ment based on the limited evidence available. For purposes of this case study, the analysts",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Tools, Tutorials, Critiques and Case Studies",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The following is an example of the final matrix from a post by Scott J. Roberts, where he applies ACH to understand whether or not the Republican National Committee and Donald J. Trump for President, Inc were victims of similar attacks as the Democratic National Committee [2]. In his post he goes step-by-step on how he created and refined his ACH matrix.",
+    "url": "https://isc.sans.edu/diary/22460",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This was a very brief introduction of ACH, and in my next diary I will apply ACH to a practical recent case. But I definitely encourage those interested to go through Heuer’s book for a deeper explanation of such model.",
+    "url": "https://isc.sans.edu/diary/22460",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Example (2014 Crimea):",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Most analytic errors are not arithmetic errors. They come from building a case for the first plausible explanation and then reading every subsequent report as support for it. ACH is the standard countermeasure: list the hypotheses",
+    "url": "https://github.com/danielneustadter/ach-workbench",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Evidence that rates identically against every hypothesis is flagged as non-diagnostic. This is Heuer's least intuitive and most useful result: an item can be true, vivid, central to the narrative, and still carry no weight in choosing between explanations. The sample case includes one deliberately.",
+    "url": "https://github.com/danielneustadter/ach-workbench",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The bundled case — Meridian Port Authority, the Republic of Castellia, and every source in it — is",
+    "url": "https://github.com/danielneustadter/ach-workbench",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the sample case > reaches the counter-intuitive conclusion the case is built to teach",
+    "url": "https://github.com/danielneustadter/ach-workbench",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The case also demonstrates the honest-limitations path. The tool reports",
+    "url": "https://github.com/danielneustadter/ach-workbench",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "— load the demonstration case over whatever is in storage",
+    "url": "https://github.com/danielneustadter/ach-workbench",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The fictional worked example",
+    "url": "https://github.com/danielneustadter/ach-workbench",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Business Case Development",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "6. Example: Analysis of Competing Hypotheses in Action",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Do not write one favoured hypothesis in detail and make the alternatives caricatures. Ask people with different knowledge to generate possibilities. Include a normal explanation, a technical explanation, an intentional explanation only when warranted, and an “other” or combined case when the space is genuinely open.",
+    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Worked example: a sudden fall in three-site attendance",
+    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Use five alternatives: H1 port disruption; H2 factory quality hold; H3 demand spike consuming available inventory; H4 administrative data error; H5 combined port and factory effects. The combined case prevents false either-or reasoning, but it should not become a refuge that absorbs every contradiction. Define what additional pattern a combined explanation predicts.",
+    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Analysts independently rate a training case, discuss disagreements and revise the handbook—not merely their scores. Preserve examples of borderline calls. Calibration improves shared language without forcing identical judgment.",
+    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Ask a reviewer to construct the strongest case for the second-ranked hypothesis and the strongest reason the leading hypothesis could be wrong. The reviewer may identify an omitted mechanism, dependent evidence or a collection blind spot. Red teaming should challenge the logic, not reward contrarian performance.",
+    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Record prediction, issue time, probability or verbal confidence, resolution rule and outcome. Do not edit a prediction after the event. Review calibration across many cases rather than celebrating one correct call. A method that produces clear reasoning but systematically overconfident forecasts still needs repair.",
+    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". While counterintuitive, it tests the explanatory power of a proposed hypothesis, whether it’s the analyst’s favored one or not. Every hypothesis receives a “fair shake,” with the analyst verifying evidence alignment to each one. So, ACH acknowledges the presence of biases (in this case, a form of",
+    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is an excellent example of ACH implementation in CTI.",
+    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "and retrieve the best possible estimate. ACH resembles Differential Diagnosis (DD) in",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of confidence in their own estimate.",
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "Analysis of Competing Hypotheses (ACH) is an intelligence analysis method based on",
@@ -504,396 +894,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
-   {
-    "quote": "ous foresight examples would be in monitoring",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "TABLE 1. EXAMPLE OF A DOUBLE­ENTRY TABLE",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "website. Heuer, who invented ACH, participated in its development. See Case Study examples and Selective Bibliography.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Let’s imagine an unstable country as an example. When asked, analysts might come up with",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of the competing hypotheses. Should this be the case, the analyst would either need to collect",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "regarding the analysis. For example, if this analysis indicates that the economy has not stabi-",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "main question. For example, the original question “Which industries and tribal groups are",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "example, given that the assumption check revealed that the evidence did, indeed, support the",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, imagine there are three main industries in country x, automotive, textile and min-",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "enough information to answer a question. In the above example, it is entirely possible that data",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SACH Case Study: Ghana Telecommunications",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Note: The following case study conducted for a private client using SACH has been modified",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ment based on the limited evidence available. For purposes of this case study, the analysts",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Tools, Tutorials, Critiques and Case Studies",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The following is an example of the final matrix from a post by Scott J. Roberts, where he applies ACH to understand whether or not the Republican National Committee and Donald J. Trump for President, Inc were victims of similar attacks as the Democratic National Committee [2]. In his post he goes step-by-step on how he created and refined his ACH matrix.",
-    "url": "https://isc.sans.edu/diary/22460",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This was a very brief introduction of ACH, and in my next diary I will apply ACH to a practical recent case. But I definitely encourage those interested to go through Heuer’s book for a deeper explanation of such model.",
-    "url": "https://isc.sans.edu/diary/22460",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Example (2014 Crimea):",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Most analytic errors are not arithmetic errors. They come from building a case for the first plausible explanation and then reading every subsequent report as support for it. ACH is the standard countermeasure: list the hypotheses",
-    "url": "https://github.com/danielneustadter/ach-workbench",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Evidence that rates identically against every hypothesis is flagged as non-diagnostic. This is Heuer's least intuitive and most useful result: an item can be true, vivid, central to the narrative, and still carry no weight in choosing between explanations. The sample case includes one deliberately.",
-    "url": "https://github.com/danielneustadter/ach-workbench",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The bundled case — Meridian Port Authority, the Republic of Castellia, and every source in it — is",
-    "url": "https://github.com/danielneustadter/ach-workbench",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the sample case > reaches the counter-intuitive conclusion the case is built to teach",
-    "url": "https://github.com/danielneustadter/ach-workbench",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The case also demonstrates the honest-limitations path. The tool reports",
-    "url": "https://github.com/danielneustadter/ach-workbench",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— load the demonstration case over whatever is in storage",
-    "url": "https://github.com/danielneustadter/ach-workbench",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The fictional worked example",
-    "url": "https://github.com/danielneustadter/ach-workbench",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Business Case Development",
-    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "6. Example: Analysis of Competing Hypotheses in Action",
-    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Do not write one favoured hypothesis in detail and make the alternatives caricatures. Ask people with different knowledge to generate possibilities. Include a normal explanation, a technical explanation, an intentional explanation only when warranted, and an “other” or combined case when the space is genuinely open.",
-    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Worked example: a sudden fall in three-site attendance",
-    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Use five alternatives: H1 port disruption; H2 factory quality hold; H3 demand spike consuming available inventory; H4 administrative data error; H5 combined port and factory effects. The combined case prevents false either-or reasoning, but it should not become a refuge that absorbs every contradiction. Define what additional pattern a combined explanation predicts.",
-    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Analysts independently rate a training case, discuss disagreements and revise the handbook—not merely their scores. Preserve examples of borderline calls. Calibration improves shared language without forcing identical judgment.",
-    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Ask a reviewer to construct the strongest case for the second-ranked hypothesis and the strongest reason the leading hypothesis could be wrong. The reviewer may identify an omitted mechanism, dependent evidence or a collection blind spot. Red teaming should challenge the logic, not reward contrarian performance.",
-    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Record prediction, issue time, probability or verbal confidence, resolution rule and outcome. Do not edit a prediction after the event. Review calibration across many cases rather than celebrating one correct call. A method that produces clear reasoning but systematically overconfident forecasts still needs repair.",
-    "url": "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". While counterintuitive, it tests the explanatory power of a proposed hypothesis, whether it’s the analyst’s favored one or not. Every hypothesis receives a “fair shake,” with the analyst verifying evidence alignment to each one. So, ACH acknowledges the presence of biases (in this case, a form of",
-    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is an excellent example of ACH implementation in CTI.",
-    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "and retrieve the best possible estimate. ACH resembles Differential Diagnosis (DD) in",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of confidence in their own estimate.",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "similar clinical symptoms in a patient. ACH enables the user to reduce cognitive bias,",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "notably confirmation bias which compels people to seek evidence confirming their",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "biases when dealing with complex issues. The",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "tive biases in the intuitive analysis that occurs",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "eses (ACH) to help analysts overcome cognitive biases. While experimental evidence on the",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "least, does mitigate confirmation bias. Evidence suggests that these two methods can modestly",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "an optical illusion, no matter how much an analyst consciously tries to see past these biases,",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the unconscious part of the brain continues to assert itself. Indeed, confirmation bias, which",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "to conspiracy theories. Other cognitive biases can have similar negative effects when forecast-",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A common pitfall in this step is to see a large amount of evidence (relative to the total amount",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "remember, unless you find an obvious error or stupid mistake, your first answer is probably",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Brasfield Andrew, Forecasting Accuracy and Cognitive Bias in the Analysis of Competing",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "document/35793494/Forecasting-Accuracy-and-Cognitive-Bias-in-the-Analysis-of-Competing-",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cheikes Brant, et alii, “Confirmation Bias in Complex Analyses”, Technical Report No. MTR",
-    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(1999). It is the most robust operational countermeasure against the cognitive biases — confirmation bias, anchoring, satisficing, mirror imaging — that produce the majority of analytical failures. Where intuitive analysis seeks the most likely explanation and builds evidence for it, ACH starts from the full hypothesis space and systematically identifies which hypotheses the evidence most",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ACH is effective against specific cognitive biases:",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cognitive Biases in Intelligence Analysis",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "— the bias taxonomy ACH is designed to mitigate",
-    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "hypothesis before touching the next piece. Working down a single hypothesis's column puts you back in confirmation-bias territory — you start reading each item in that hypothesis's favor. The tool's rating panel is built around this: its next-cell navigation walks across the row before dropping to the next evidence item.",
-    "url": "https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ACH reduces confirmation bias; it does not remove it.",
-    "url": "https://github.com/danielneustadter/ach-workbench",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ACH is especially valuable because it is designed to reduce confirmation bias. It does not promise certainty. It gives teams a disciplined way to compare alternative explanations, expose assumptions, and decide what they need to monitor next.",
-    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Reduces confirmation bias.",
-    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "8. Common Pitfalls and How to Avoid Them",
-    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A key assumptions check is often a useful precursor to ACH. It surfaces the beliefs the team is taking for granted, which makes it easier to define better hypotheses and spot where bias may be shaping interpretation.",
-    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Yes. It remains highly relevant for ambiguous decisions where multiple explanations are plausible and bias is a real risk. Most modern teams use it more selectively and more lightly than intelligence agencies once did, but the core logic is still very strong.",
-    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". While counterintuitive, it tests the explanatory power of a proposed hypothesis, whether it’s the analyst’s favored one or not. Every hypothesis receives a “fair shake,” with the analyst verifying evidence alignment to each one. So, ACH acknowledges the presence of biases (in this case, a form of",
-    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.",
@@ -1070,8 +1070,8 @@
     "method": "http"
    },
    {
-    "url": "https://www.bcbay.com/news/2026/11/05/1042917.html",
-    "status": "ok",
+    "url": "https://www.findagrave.com/cemetery/8288/potter-valley-cemetery",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -1146,9 +1146,9 @@
     "https://note.com/haurix/n/ncc5a33f069f9",
     "https://note.com/repository9/n/n0d9d54dd8a82",
     "https://note.com/noiri_testo/n/nbd05fd6704dd",
+    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921",
     "https://note.com/ramu_study/n/n80040ddd918a",
-    "https://note.com/kronos1229/n/n3c926b00859c",
-    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921"
+    "https://note.com/kronos1229/n/n3c926b00859c"
    ]
   },
   {
@@ -1162,8 +1162,7 @@
     "https://note.com/finalvent/n/n265e0b3c3c31",
     "https://note.com/tsunobuchi/n/n14a67db1074a",
     "https://atsumori.shop/archives/2346",
-    "https://www.consulnote.com/articles/data-analysis/bayesian-hypothesis-testing/",
-    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/"
+    "https://www.consulnote.com/articles/data-analysis/bayesian-hypothesis-testing/"
    ]
   },
   {
@@ -1178,7 +1177,7 @@
     "https://www.cross-m.co.jp/column/marketing/mkc20260717",
     "https://yellowfin.co.jp/blog/5-jpblog4-how-to-formulate-hypotheses-in-data-analysis/",
     "https://www.asmarq.co.jp/column/column-cat/how_to/how_formulate_hypothesis/",
-    "https://www.bcbay.com/news/2026/11/05/1042917.html"
+    "https://www.findagrave.com/cemetery/8288/potter-valley-cemetery"
    ]
   },
   {
@@ -1188,8 +1187,8 @@
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
     "https://www.bi.ksc.co.jp/tips/data-utilization/formulating-hypotheses",
     "https://note.com/ia_wake/n/ne7dcc8132cdf",
-    "https://atsumori.shop/archives/2346",
     "https://www.cross-m.co.jp/column/marketing/mkc20260717",
+    "https://atsumori.shop/archives/2346",
     "https://www.asmarq.co.jp/column/column-cat/how_to/how_formulate_hypothesis/",
     "https://www.gixo.jp/blog/4450/",
     "https://freeasy24.research-plus.net/blog/c264",
@@ -1207,8 +1206,8 @@
     "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
     "https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis",
     "https://sosintel.co.uk/tag/analysis-of-competing-hypotheses/",
-    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses"
+    "https://en.wikipedia.org/wiki/Analysis",
+    "https://simple.wikipedia.org/wiki/Analysis"
    ]
   },
   {
@@ -1220,9 +1219,9 @@
     "https://note.com/haurix/n/ncc5a33f069f9",
     "https://note.com/repository9/n/n0d9d54dd8a82",
     "https://note.com/noiri_testo/n/nbd05fd6704dd",
+    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921",
     "https://note.com/ramu_study/n/n80040ddd918a",
-    "https://note.com/kronos1229/n/n3c926b00859c",
-    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921"
+    "https://note.com/kronos1229/n/n3c926b00859c"
    ]
   },
   {
@@ -1232,9 +1231,9 @@
     "https://note.com/haurix/n/ncc5a33f069f9",
     "https://note.com/repository9/n/n0d9d54dd8a82",
     "https://note.com/noiri_testo/n/nbd05fd6704dd",
+    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921",
     "https://note.com/ramu_study/n/n80040ddd918a",
-    "https://note.com/kronos1229/n/n3c926b00859c",
-    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921"
+    "https://note.com/kronos1229/n/n3c926b00859c"
    ]
   },
   {
@@ -1244,9 +1243,9 @@
     "https://note.com/haurix/n/ncc5a33f069f9",
     "https://note.com/repository9/n/n0d9d54dd8a82",
     "https://note.com/noiri_testo/n/nbd05fd6704dd",
+    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921",
     "https://note.com/ramu_study/n/n80040ddd918a",
-    "https://note.com/kronos1229/n/n3c926b00859c",
-    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921"
+    "https://note.com/kronos1229/n/n3c926b00859c"
    ]
   },
   {
@@ -1256,9 +1255,9 @@
     "https://note.com/haurix/n/ncc5a33f069f9",
     "https://note.com/repository9/n/n0d9d54dd8a82",
     "https://note.com/noiri_testo/n/nbd05fd6704dd",
+    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921",
     "https://note.com/ramu_study/n/n80040ddd918a",
-    "https://note.com/kronos1229/n/n3c926b00859c",
-    "https://note.com/yasuyukikatsube/n/ne2d65a7e8921"
+    "https://note.com/kronos1229/n/n3c926b00859c"
    ]
   },
   {
@@ -1288,68 +1287,27 @@
     "https://datacrew-inc.com/column/hypothesis-from-data/",
     "https://web-kaizen.co.jp/2017/07/24/%E4%BB%AE%E8%AA%AC%E6%A4%9C%E8%A8%BC%E3%81%A3%E3%81%A6%E7%B5%90%E5%B1%80%E3%81%AA%E3%81%AB%EF%BC%9F/",
     "https://webdesigning.book.mynavi.jp/article/4956/",
-    "https://www.merriam-webster.com/dictionary/strong"
+    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/"
    ]
   },
   {
    "query": "analysis of competing hypotheses diagnosticity matrix estimative language site:linkedin.com",
    "results": [
     "https://www.linkedin.com/in/codytipping",
-    "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
-    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "https://www.analysistoolbox.com/tutorials/analysis-of-competing-hypotheses",
-    "https://thefinalmilkman.github.io/zero/ach/",
-    "https://www.analysistoolbox.com/tools/ach",
-    "https://edukatesg.com/portfolio/the-gold-standard-of-intelligence-competing-hypotheses-diagnosticity-evidence-matrices/",
-    "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706"
+    "https://en.wikipedia.org/wiki/Analysis",
+    "https://simple.wikipedia.org/wiki/Analysis",
+    "https://www.merriam-webster.com/dictionary/analysis",
+    "https://dictionary.cambridge.org/dictionary/english/analysis",
+    "https://www.vocabulary.com/dictionary/analysis",
+    "https://dictionary.cambridge.org/us/dictionary/english/analysis",
+    "https://www.thefreedictionary.com/analysis",
+    "https://simplicable.com/en/what-is-analysis",
+    "https://plato.stanford.edu/entries/analysis/"
    ]
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "Scientific Methodologies",
-    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", i.e., highlighting only the evidence that proves the chosen hypothesis) and, through rigorous methodology, seeks to circumvent them.",
-    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ACH adopts other aspects of scientific methodology. Much like a scientific article, it demands registering the rationale process adopted by the CTI team by consolidating and cross-examining hypotheses and evidence through some recording procedure, like a spreadsheet. Therefore, ACH provides credibility through an",
-    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": ". While counterintuitive, it tests the explanatory power of a proposed hypothesis, whether it’s the analyst’s favored one or not. Every hypothesis receives a “fair shake,” with the analyst verifying evidence alignment to each one. So, ACH acknowledges the presence of biases (in this case, a form of",
-    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is an excellent example of ACH implementation in CTI.",
-    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": ". While counterintuitive, it tests the explanatory power of a proposed hypothesis, whether it’s the analyst’s favored one or not. Every hypothesis receives a “fair shake,” with the analyst verifying evidence alignment to each one. So, ACH acknowledges the presence of biases (in this case, a form of",
-    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ]
- },
- "runs": 9,
+ "new_this_run": {},
+ "runs": 10,
  "first_researched_at": "2026-11-05T06:03:41.922315+00:00"
 }

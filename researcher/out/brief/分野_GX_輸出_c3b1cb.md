@@ -1,258 +1,267 @@
 # 分野_GX_輸出（日本→海外（輸出）・顧客起点の3C＋PEST・事実のみ）
 
 ### 日本→海外（輸出）｜ペロブスカイト太陽電池（perovskite solar cell）
-- 取得：2026-11-05T02:41・調査2回目・読んだ頁75
-- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
-- 顧客（金を払う側）（47件）：
-  - ［一次］2026-11-05「② 並行して、既存のシリコン太陽電池のリプレース需要を視野に入れて、社会実装・量産化に向け、GI基金の対象追加を検討し、」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-05「導入初期におけるコスト低減と需要拡大の好循環を形成し、2040年には約20GW」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-05「③ その際、政府機関及び地方自治体及び環境価値を重視するRE100に参加している企業等は、ペロブスカイト太陽電池の」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-05「ペロブスカイト太陽電池の導入支援 | 地球環境・国際環境協力 | 環境省」https://www.env.go.jp/earth/post_94.html
-  - ［一次］2026-11-05「本サイトでは、ペロブスカイト太陽電池の導入事例集等、ペロブスカイト太陽電池の導入に役立つ情報を紹介いたします」https://www.env.go.jp/earth/post_94.html
-- 顧客の顧客（発注元が求めること）（28件）：
+- 取得：2026-11-06T03:46・調査3回目・読んだ頁82
+- 痛み・損（深さの印）（1件）：
+  - ［一次］2026-11-06「・良好な市場環境から受注残高が豊富（54.5GW）」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+- 顧客（金を払う側）（87件）：
+  - ［一次］2026-11-06「所在地 ：（本社）東京都台東区東上野1-7-15 （工場）愛媛県松山市西垣生町2889」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「太陽電池メーカー 自動車関連企業・電子部品関連企業・」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「ただし、太陽電池製造装置の中でも新規装置の案件と改造・増設の案件があり、改造・増設は納入済の装置に対して行うため利益率が比較的高くなる」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「顧客となる企業は主に米国や日本の太陽電池メーカー」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「その中でも最も主要な顧客は米国のFirst Solar社（NASDAQ上場）であり、同社とは20年近い取引実績が」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+- 顧客の顧客（発注元が求めること）（34件）：
+  - ［一次］2026-11-06「特に米国では約30年の実績があり、米国市場で要求されるUL規格やNEC規格などの安全基準への対応、米国顧客から要求されるロックウェル社製の制」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「過去には太陽電池の受託生産（OEM生産）にも取り組み、この経験を太陽電池関」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「や防炎性能の認証を受けた遮熱シートを採用しており耐久性も高い（写真 10）」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
   - ［一次］2026-11-04「⚫ S+3Eを大前提に、電力部門の脱炭素化に向けて、再生可能エネルギーの主力電源化を徹底し、関係省庁が連携して施策」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
   - ［一次］2026-11-04「６．脱炭素電源の拡大と系統整備」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「３．脱炭素電源の拡大と系統整備」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「(1)GXグループ 脱炭素成長型経済構造移行投資促進課」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「環境省 大臣官房 地域脱炭素推進審議官グループ 地域脱炭素事業推進課 電話：03-5521-8233」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-- 顧客の競合（奪いに来る側）（52件）：
-  - ［一次］2026-11-05「イト太陽電池については、欧米、中国、韓国等が挙って大規模な研究開発」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/010_04_00.pdf
-  - ［一次］2026-11-04「向、一部市場が競合する薄型シリコン太陽電池の動向など、政策支援を実施する前提となる状況を絶えず注視し、目標や」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「に、主な原料であるヨウ素は、我が国が世界シェアの約30%を占めるなど、再エネ導入拡大や強靱なエネルギー供給構造の実現にもつ」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「(中国) 2端子 34.6% 1cm2 ペロブスカイト/シリコンのタンデム型で世界最高効率を達成」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「(中国) 4端子 25.4% 7906cm2 4端子タンデム型モジュールの商用販売を開始」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-- 自社の競合（商社・代理店・仲介）（10件）：
+- 顧客の競合（奪いに来る側）（78件）：
+  - ［一次］2026-11-06「して使用され、主に中国・韓国の太陽電」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「顧客となる企業は主に米国や日本の太陽電池メーカー」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「その中でも最も主要な顧客は米国のFirst Solar社（NASDAQ上場）であり、同社とは20年近い取引実績が」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「・米国における太陽光発電の最低発電コストは$38/MWhであり、$71/MWhの石炭火力発電を下回っている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「を法制化（うち5つの州と地域は再生可能エネルギー利用100％を法制化）、多くの米国大企業が太陽光発電所への出資や保有、自社物件屋上への」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+- 自社の競合（商社・代理店・仲介）（13件）：
   - ［一次］2026-11-04「Research and Public Relations Office, Commissioner’s Secretariat, ANRE」https://www.enecho.meti.go.jp/en/category/special/article/detail_196.html
+  - ［記事］2026-11-06「当面の事業規模として、ショールームおよび販売代理店を都内に新設する費用として3億円を見込む」https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04796/?ST=msb
+  - ［記事］2026-11-06「Meta Description: Explore the five largest renewable energy projects in Asia set for commissioning by 2026. From India and the Philippines t...」https://www.renewableenergyasia.org/2026/06/japan-to-offer-support-for-exports-of.html
+  - ［記事］2026-11-06「A patent analysis commissioned by Nikkei and conducted by Clarivate Analytics Japan examined approximately 2,000 perovskite-related patent families — those filed in at least two countries and still active as of the end o」https://enerbe.net/perovskite-solar-cells-2026-china-vs-japan-battery-oem-impact/
   - ［記事］2026-11-04「第2のペロブスカイト｢OPV｣、アジア初量産へ 繊維商社GSIクレオス」https://www.nikkei.com/article/DGXZQOUA1779L0X10C26A2000000/
-  - ［記事］2026-11-04「国内の輸入販売業のモリベニは、中国スタートアップの極電光能（ウトモライト）と業務提携し、ガラス型ペロブスカイト太陽電池を2024年4月から試験販売を開始しています」https://enetech.co.jp/guide/perovskite-solar-cells/
-  - ［記事］2026-11-04「European Commission. "Energy Performance of Buildings Directive." energy.ec.europa.eu」https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market
-  - ［記事］2026-11-04「European Commission. "RoHS Directive Implementation." environment.ec.europa.eu」https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market
-- 政治（法・予算・規制）（48件）：
-  - ［一次］2026-11-05「【】内は令和7年度当初予算額、（）内は令和６年度当初予算額」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-05「※令和7年度予算額610億円（548億円）」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-05「支援事業（令和８年度予算）」https://www.env.go.jp/earth/post_94.html
-  - ［一次］2026-11-05「支援事業（令和７年度予算）」https://www.env.go.jp/earth/post_94.html
-  - ［一次］2026-11-05「2013 住宅用太陽光発電向け補助金 終了」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/010_04_00.pdf
-- 経済（規模・価格・為替）（62件）：
-  - ［一次］2026-11-05「（令和６年度補正予算額 3,828 百万円の内数）」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「2040年に向けた導入目標や価格目標、今後の施策の在り方などについて議論を行い、 同年11」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「価格 20円/kWh～14円/kWh」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「ペロブスカイト太陽電池の社会実装モデルの創出に向けた導入支援事業 【50.2億円（新規）】（GX）」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-04「➢【経産省】 GXサプライチェーン構築支援事業 【610億円（548億円）の内数】（GX）」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-- 社会（人・担い手）（10件）：
+- 政治（法・予算・規制）（77件）：
+  - ［一次］2026-11-06「1. 普及に向けた課題：コストと法規制 ................................ ................................ ................................ .... 24」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
+  - ［一次］2026-11-06「●対策 3 ガイドライン整備と規制緩和 .......................................................................................................... 29」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
+  - ［一次］2026-11-06「政府は第 7 次エネルギー基本計画（第 7 次エネ基）において、2040 年までにペロブスカイト太陽」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
+  - ［一次］2026-11-06「政府による 2040 年の発電コストの予測」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
+  - ［一次］2026-11-06「第 3 章では、ペロブスカイト太陽電池の普及に向けた課題を整理し、政府や自治体が実施すべ」https://www.renewable-ei.org/pdfdownload/activities/REI_PerovskitePV_202510.pdf
+- 経済（規模・価格・為替）（90件）：
+  - ［一次］2026-11-06「資本金 ：2,812百万円（2025年8月末現在）」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「・過去5か年の加重平均売上総利益率は、30.3％」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「・全体の売上総利益率25％を指標としているが、恒久的に30％を達成することを目標としている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「・売上高のグラフは、FY2023～FY2025の3か年の連結業績における売上高合計金額（29,279百万円）を基に作成」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「過去3年間の売上高の比率と内訳」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+- 社会（人・担い手）（14件）：
+  - ［一次］2026-11-06「ものづくりの拠点である松山工場には約170名（有期雇用を含む）が勤務し、装置製造に必要なすべての機能（開発・設計・製造・保守）が集約され」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
   - ［一次］2026-11-04「② 人材や製造装置を通じた技術流出によって競争力を失った過去の反省を踏まえ、フィルム型ペロブスカイト太陽電池においては材料」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
   - ［一次］2026-11-04「② 人材や製造装置を通じた技術流出によって競争力を失った過去の反省を踏まえ、フィルム型ペロブスカイト太陽電池においては材料」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/20241128_1.pdf
   - ［一次］2026-11-04「⚫ ペロブスカイト太陽電池を含めた再エネ電源の普及を担う人材育成のために今年度に調査事業を実施し、」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/20241128_1.pdf
   - ［一次］2026-11-04「ペロブスカイト太陽電池導入拡大に向けて必要なスキルや課題を整理し、人材育成策を検討する」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/20241128_1.pdf
-  - ［一次］2026-11-04「(5)国内外の関係者に対する一層の透明性の確保 ／ (6)インテリジェンス能力の向上と外部人材の活用」https://www.meti.go.jp/policy/anpo/2608_kanmintaiwa-gaiyo.pdf
-- 技術（新しい技術・実証）（59件）：
-  - ［一次］2026-11-05「⚫ 官民協議会において、「次世代型太陽電池戦略」として取りまとめ、その内容について2025年２」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-05「✓ 次世代型太陽電池の信頼性評価等に関する国際標準の早」https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf
-  - ［一次］2026-11-05「次世代型太陽電池の導入拡大及び産業競争力強化に向けた官民協議会」https://www.env.go.jp/earth/post_94.html
-  - ［一次］2026-11-05「次世代型太陽電池の導入拡大及び産業競争力強化に向けた実装加速連絡会」https://www.env.go.jp/earth/post_94.html
-  - ［一次］2026-11-05「難であった場所にも導入可能となる次世代型太陽光電池・ペロブスカイトの活用が期待される」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/010_04_00.pdf
-- SNS・note（X・検索結果の抜粋）（10件）：
+- 技術（新しい技術・実証）（100件）：
+  - ［一次］2026-11-06「株式会社エヌ・ピー・シー 営業、購買、開発、設計、製造、保守サービス 164名」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「・現状はファーストソーラー社への偏重が大きいが、同社との取引は維持したまま、p. 8において成長性が高いと認識しているペロブスカイトなどの次世代向」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「ペロブスカイトなどの次世代型太陽電池も対象としている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「・現在はペロブスカイト太陽電池の研究開発を進めている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+  - ［一次］2026-11-06「・今までに太陽電池を製造していなかった企業も参入しており、各メーカーによって研究開発が進められている」https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf
+- SNS・note（Facebook・検索結果の抜粋）（11件）：
+  - ［SNS］2026-11-06「\ペロブスカイト太陽電池の 実証実験ハウスに行ってミタ／ ~未来のエ...雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには...ECO信頼サービス 株式会社 - FacebookDエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...さいたま市長 清水」https://www.facebook.com/energia.jp/videos/ペロブスカイト太陽電池の-実証実験ハウスに行ってミタ未来のエネルギーと地域交流の融合こんにちは中国電力株カーボンニュートラル推進本部の藤井です_当社はykk-a/878953414493353/
+  - ［SNS］2026-11-06「ECO信頼サービス 株式会社 - FacebookDエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...さいたま市長 清水勇人 - 【“未来の太陽電池ペロブスカイト”が拓く 新... Mar 30, 2026 · ECO信頼サービス株式会社 顧客満足推進室 #ペロブスカイト太陽光 #太陽光発電専門店 #次世代太陽電池 #先行予約受付中 」https://www.facebook.com/ecoshinrai/
+  - ［SNS］2026-11-06「Dエナジー（再生可能エネルギー） | Kumamoto-shi Kumamoto軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...さいたま市長 清水勇人 - 【“未来の太陽電池ペロブスカイト”が拓く 新... Sep 20, 2026 · Posts ＜ペロブスカイト最新情報＞ 第3回：最大の弱点だった“耐久性”はどこまで改善され たのか ペロブスカイト太陽電池は高効率・低コストという大 きな利点を持ちながら、」https://www.facebook.com/daitsu.energy/
+  - ［SNS］2026-11-05「\ペロブスカイト太陽電池の 実証実験ハウスに行ってミタ／ ~未来のエ...雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには...【薄くて軽くて曲がるフィルム型の太陽光発電】従来 のソーラーパネル...さいたま市長 清水勇人 - 【“未来の太陽電池ペロブスカイト”が拓く 新...軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会..」https://www.facebook.com/energia.jp/videos/ペロブスカイト太陽電池の-実証実験ハウスに行ってミタ未来のエネルギーと地域交流の融合こんにちは中国電力株カーボンニュートラル推進本部の藤井です_当社はykk-a/878953414493353/
+  - ［SNS］2026-11-05「ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには... Oct 14, 2026 · ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには？ 一般的な割断法では断面に凹凸が生じ、層構造の詳細評価が難しいケースがあります。一方、通常のイオンミリング法はビーム照射による局所的な発熱でペロブスカイト層が損傷しやすく、適用が難しいとされてきまし ...」https://www.facebook.com/jeol.jp/posts/ペロブスカイト太陽電池の断面を低ダメージかつ平滑に作製するには一般的な割断法では断面に凹凸が生じ層構造の詳細評価が難しいケースがあります一方通常のイオンミリング/1605304444946996/
+- SNS・note（note・検索結果の抜粋）（11件）：
+  - ［SNS］2026-11-06「【完全解説】日本のエネルギー救世主「ペロブスカイト太陽電池」とは... Aug 9, 2026 · 近年、エネルギー界のゲームチェンジャーとして世界中で凄まじい注目を集めている「ペロブスカイト太陽電池」。 「名前は聞いたことがあるけれど、従来の太陽光パネルと何が違うの？」 「なぜ今、日本がこれほど熱狂しているの？」 そんな疑問を解消するために、基礎知識からメリット ...」https://note.com/fitenao55/n/n2be100ec6f15
+  - ［SNS］2026-11-06「ペロブスカイト太陽電池：次世代エネルギーを拓く技術の全貌と製造プ... Jun 19, 2025 · 第1章 ペロブスカイト革命：基礎原理とコア技術 1.1 ペロブスカイト結晶構造（ABX₃）：太陽光発電への天与の才 ペロブスカイト太陽電池の核心は、その名の由来となった特異な結晶構造にある。この構造は一般的に化学式ABX3 で表され、Aサイトにはメチルアンモニウムのような陽イオン、B ...」https://note.com/iem27265/n/n8aabfb740e5a
+  - ［SNS］2026-11-06「ペロブスカイト太陽電池 (PSC)とは何か～なぜ日本はペロブスカイト太... Dec 16, 2025 · 3. 応用範囲の拡張 ―「どこでも電源®」という新市場 経済産業省 資源エネルギー庁 日日本の再エネ拡大の切り札、ペロブスカイト太陽電池とは？（後編）より引用 PSCは従来不可能だった用途を切り開きます。 建材一体型（壁・窓・バルコニー） EV・ドローン・航空機 インフラ、IoT、災害用 ...」https://note.com/human_macaw1926/n/n7a003aedeccb
+  - ［SNS］2026-11-06「日本発・次世代「ペロブスカイト太陽電池」が拓くエネルギー革命 Dec 7, 2025 · 全文文字起こし： 今、日本のエネルギー技術が世界をひっくり返そうとしています。 従来の太陽光パネルの常識を根本から変える新技術、それがペロブスカイト太陽電池です。 薄く、軽く、曲がり、しかも安く作れるという革命的な特徴を持ち、世界中から注目されています。 そしてついに ...」https://note.com/yamada_kazuro/n/nf482934137b9
+  - ［SNS］2026-11-05「ペロブスカイト太陽電池、2030年に向けて何が起きてる？第15回：積水... Mar 31, 2026 · 1. 「塗工のプロ」がトップに立つ戦略的意義 ペロブスカイト太陽電池（PSC）を量産する、特に積水化学が得意とする「フィルム型」において、最大の肝になるのは**「塗工（コーティング）」**の技術です。薄いフィルムの上に、発電材料をいかに均一に、精密に塗り続けるか。 新社長の清水氏 ...」https://note.com/fast_poppy8050/n/n36a5067739be
+- SNS・note（note・本文）（69件）：
+  - ［SNS］2026-11-06「【完全解説】日本のエネルギー救世主「ペロブスカイト太陽電池」とは？特徴・課題・未来像まで｜fitenao」https://note.com/fitenao55/n/n2be100ec6f15
+  - ［SNS］2026-11-06「【完全解説】日本のエネルギー救世主「ペロブスカイト太陽電池」とは？特徴・課題・未来像まで」https://note.com/fitenao55/n/n2be100ec6f15
+  - ［SNS］2026-11-06「そんな疑問を解消するために、基礎知識からメリット・デメリット、技術的課題、そして最新の商用化動向までを分かりやすく一気に解説します！」https://note.com/fitenao55/n/n2be100ec6f15
+  - ［SNS］2026-11-06「1. そもそも「ペロブスカイト」ってなに？」https://note.com/fitenao55/n/n2be100ec6f15
+  - ［SNS］2026-11-06「ペロブスカイト（Perovskite）とは、もともと「特定の結晶構造」を指す化学用語です。1839年にロシアの鉱物学者ペロブスキーの名にちなんで命名されました。」https://note.com/fitenao55/n/n2be100ec6f15
+- SNS・note（X・検索結果の抜粋）（11件）：
+  - ［SNS］2026-11-06「もりした千里 on X: "ペロブスカイト太陽電池は薄くて軽くて曲げられ... また、さいたま市役所に設置されているタンデム型ペロブスカイト太陽電池は100% 国産と伺いました。 まだこれから耐久性やコスト等課題はありますが、 まず多くの方に知っていただくことが重要だと考えています。」https://x.com/ChiiChiiiii/status/2092104999421858191
   - ［SNS］2026-11-05「宮坂力教授が発明したペロブスカイト太陽電池の基礎特許を日本が海外... 東芝未来科学館の宮坂力教授が2009年にペロブスカイト太陽電池を発明し国内特許を取得したが、海外主要国への出願費用数千万円を大学や政府機関が負担せず、Oxford PVが基礎特許を固めTrina SolarやFirst Solarへライセンスした。中国は関連特許33,000件超を取得し世界シェア76%を占め、日本政府は2025 ...」https://x.com/i/trending/2035749372399349876
   - ［SNS］2026-11-05「日本発祥のペロブスカイト太陽電池、中国で100社超が量産へ 薄く曲がる次世代太陽電池が、中国で一気に量産体制を整えています。日本で生まれたこの技術を巡り、X上で日本の巻き返しを求める声が高まっています。 2009年に桐蔭横浜大学の宮坂力教授が発明したペロブスカイト太陽 ...」https://x.com/i/trending/2035274142103339447
   - ［SNS］2026-11-05「積水化学工業株式会社【公式】 on X: "／ 最近よく聞く「#ペロブスカ... ／ 最近よく聞く「#ペロブスカイト太陽電池」 実はもう、実際に使われ始める段階に入っています💡 \ 長年、#積水化学グループ が開発に取り組んできた #フィルム型ペロブスカイト太陽電池 その名も…「SOLAFIL（ソラフィル）」！ 2026年3月、事業開始を決定、供給に向けた具体的な協議も ...」https://x.com/SEKISUI_jp/status/2047827975056626151
   - ［SNS］2026-11-05「Semi-journal公式 on X: "【東芝と信越化学、寿命1.5倍のペロブスカイ... 【東芝と信越化学、寿命1.5倍のペロブスカイト太陽電池 世界最高水準】 東芝と信越化学工業は新潟大学と連携し、耐久性能を先行品の1.5倍に高めた次世代ペロブスカイト太陽電池を開発した。 現時点の世界最高水準で、2030年代の製品販売を目指す。同分野で量産技術を蓄積する中国勢に耐久 ...」https://x.com/semi_journal_jp/status/2097088531038609852
-  - ［SNS］2026-11-05「日本経済新聞 電子版（日経電子版） on X: "ペロブスカイト太陽電池の... May 4, 2026 · これは論点を分けて見る話だと思います。 ペロブスカイト太陽電池は日本発の有力技術で、国際展開特許や素材・封止・フィルム化などでは日本に強みがあります。 一方で中国は、出願件数と量産投資を物量で積み上げてきている。 Show more」https://x.com/nikkei/status/2051393588899012672
-- SNS・note（note・本文）（44件）：
-  - ［SNS］2026-11-05「【ビジネス・関連企業分析】ペロブスカイト太陽電池で日本企業が勝ち残る「隠れたサプライチェーン」と2030年市場シナリオ」https://note.com/tag/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0
-  - ［SNS］2026-11-05「【テクノロジー】「塗る太陽電池」ペロブスカイトは日本の切り札になるか──期待と課題を公平に見る」https://note.com/tag/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0
-  - ［SNS］2026-11-05「ペロブスカイト太陽電池の主役は誰か──2025年版 技術・商業化マップと日米欧企業動向｜kimi」https://note.com/kimi11299696/n/nb03c22ce92f8
-  - ［SNS］2026-11-05「ペロブスカイト太陽電池の主役は誰か──2025年版 技術・商業化マップと日米欧企業動向」https://note.com/kimi11299696/n/nb03c22ce92f8
-  - ［SNS］2026-11-05「ペロブスカイト太陽電池（Perovskite Solar Cells, PSCs）への注目が高まっている。従来の結晶シリコン太陽電池と比較して、変換効率の高さ、製造コストの低減可能性、そして軽量・柔軟性という特徴を持つ。これは既存技術の改良というより、太陽光発電の在り方そのものを変える可能性がある。」https://note.com/kimi11299696/n/nb03c22ce92f8
-- SNS・note（LinkedIn・検索結果の抜粋）（9件）：
+- SNS・note（LinkedIn・検索結果の抜粋）（13件）：
+  - ［SNS］2026-11-06「The Rise of Perovskite Solar Cells - LinkedIn May 19, 2026 · Over the last decade, perovskite-based solar cells (PSCs) have become one of the most exciting frontiers in renewable energy research. Their promise lies not o」https://www.linkedin.com/pulse/rise-perovskite-solar-cells-padmini-moorthy-phd-rih8c/
+  - ［SNS］2026-11-06「Next-Generation Solar Technology: Introduction to Perovskite ... Jul 24, 2025 · Perovskite solar cells are a type of next-generation photovoltaic technology that uses perovskite-structured compounds (usually hybrid organ」https://www.linkedin.com/pulse/next-generation-solar-technology-introduction-perovskite-d-ieflc
+  - ［SNS］2026-11-06「Dr. Rahul Kundara - PDF || Ph.D. (Perovskite Solar Cells) at ... PDF || Ph.D. (Perovskite Solar Cells) at Delhi Technological University (Formerly DCE) · Experience: National Institute of Technology Delhi · Education: De」https://in.linkedin.com/in/dr-rahul-kundara-16b684326
+  - ［SNS］2026-11-06「Dr.Laxman Gouda - Co-Founder and CEO of the startup ABX3PV ...P3C Technology and Solutions Pvt. Ltd. | LinkedInMustafa Haider - Ph.D. Perovskite Solar Cell, Research Expert ...Rida Ahmed - Materials Scientist | Advanced 」https://it.linkedin.com/in/dr-laxman-gouda-49878337
   - ［SNS］2026-11-05「Tatsuya Kawabe - 再エネでモノつくり/ペロブスカイト太陽電池アドバ...#perovskitesolar #renewableenergy #cleanenergy # ... - LinkedIn若手技術者の挑戦：ガラス型ペロブスカイト太陽電池-Panasonic GREEN ...厦门海森工贸有限公司 | 领英 - 领英 (中国)Vagas de ペロブスカイト太陽電池 製造コスト em Moçambique (54」https://jp.linkedin.com/in/tatsuya-kawabe-43511b296
-  - ［SNS］2026-11-05「Vagas de ペロブスカイト太陽電池 製造コスト em Moçambique (54 vaga... As 54 melhores vagas de ペロブスカイト太陽電池 製造コスト hoje em Moçambique. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de ペロブスカイト太陽電池 製造コスト todos os d」https://mz.linkedin.com/jobs/ペロブスカイト太陽電池-製造コスト-vagas
-  - ［SNS］2026-11-04「ペロブスカイト太陽電池モジュールの国内メーカーまとめ 6 days ago · 日本におけるペロブスカイト太陽電池モジュールの需要は、2050年カーボンニュートラル達成へ向けた政策推進と、設置面積が限られる都市部での再生可能エネルギー導入拡大への強い要請によって牽引されている。軽量で折り曲げ可能、弱い光でも発電できる特性が、耐荷重の小さい既築建物 ...」https://jp.linkedin.com/pulse/ペロブスカイト太陽電池モジュールの国内メーカーまとめ-copilot-automotive-l8oce
-  - ［SNS］2026-11-04「#perovskitesolar #renewableenergy #cleanenergy # ... - LinkedIn ⸻ 現在、私たちは以下を融合しています： ・ペロブスカイト太陽電池 ・AIによるエネルギー最適化 ・BIPV（建材一体型太陽光発電） これにより ...」https://www.linkedin.com/posts/nagisa-nakagawa-b18986398_perovskitesolar-renewableenergy-cleanenergy-activity-7440386910348505089-fla5
-  - ［SNS］2026-11-04「若手技術者の挑戦：ガラス型ペロブスカイト太陽電池-Panasonic GREEN ... Noriyuki Kochi Nord - Director Of Development 2mo 若手技術者の挑戦：ガラス型ペロブスカイト太陽電池-Panasonic GREEN IMPACT Channel Panasonic - Official Watch on」https://www.linkedin.com/posts/noriyuki-kochi-60389a58_若手技術者の挑戦ガラス型ペロブスカイト太陽電池-panasonic-green-activity-7486521089909628928-an7E
-- SNS・note（Facebook・検索結果の抜粋）（8件）：
-  - ［SNS］2026-11-05「\ペロブスカイト太陽電池の 実証実験ハウスに行ってミタ／ ~未来のエ...雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには...【薄くて軽くて曲がるフィルム型の太陽光発電】従来 のソーラーパネル...さいたま市長 清水勇人 - 【“未来の太陽電池ペロブスカイト”が拓く 新...軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会..」https://www.facebook.com/energia.jp/videos/ペロブスカイト太陽電池の-実証実験ハウスに行ってミタ未来のエネルギーと地域交流の融合こんにちは中国電力株カーボンニュートラル推進本部の藤井です_当社はykk-a/878953414493353/
-  - ［SNS］2026-11-05「ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには... Oct 14, 2026 · ペロブスカイト太陽電池の断面を、低ダメージかつ平滑に作製するには？ 一般的な割断法では断面に凹凸が生じ、層構造の詳細評価が難しいケースがあります。一方、通常のイオンミリング法はビーム照射による局所的な発熱でペロブスカイト層が損傷しやすく、適用が難しいとされてきまし ...」https://www.facebook.com/jeol.jp/posts/ペロブスカイト太陽電池の断面を低ダメージかつ平滑に作製するには一般的な割断法では断面に凹凸が生じ層構造の詳細評価が難しいケースがあります一方通常のイオンミリング/1605304444946996/
-  - ［SNS］2026-11-05「軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会... #太陽光発電 #エネコート #京大発ベンチャー #イノベーション #ペロブスカイト #ペロブスカイト太陽電池 #サステナブル #エネルギー革命 #グリーンエネルギー #どこでも電源 #SDGs #グリーンエネルギー #太陽電池 #自然エネルギー +2 IElHc.com」https://www.facebook.com/ENECOAT/posts/軽量で柔軟性があることが特徴のペロブスカイト太陽電池その特性についてペロブスカイト太陽電池の構造の観点から解説していきます太陽光発電-エネコート-京大発ベンチャ/218089337987366/
-  - ［SNS］2026-11-05「雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説... Video Transcript のペラペラの素材、なんと太陽光発電ができるシイ ストなんです。 カイト対応電池は、その薄さと高い発電効率により 、派手や窓、雨の日などの弱い光でも有効率で発電 できる もの、従来の対応電池との違いは、名前にも使われ ている、デロブスカイト構造を持っていること ...」https://www.facebook.com/mercari.r4d/videos/雨でも高効率で発電可能ペロブスカイト太陽電池の仕組みを解説太陽電池-sdgs-メルカリr4dラボ/1099728868421970/
-  - ［SNS］2026-11-04「\ペロブスカイト太陽電池の 実証実験ハウスに行ってミタ／ ~未来のエ...雨でも高効率で発電可能！ 「ペロブスカイト太陽電池」の仕組みを解説...ECO信頼サービス 株式会社 - Facebook東京新聞望月衣塑子記者と歩む会 | ＜「次世代型」普及遠のく＞① | Fa...軽量で柔軟性があることが特徴のペロブスカイト太陽電池... - 株式会...【薄くて軽くて曲がるフィルム型の太陽光発電】従来 のソーラーパネル...Seafores」https://www.facebook.com/energia.jp/videos/ペロブスカイト太陽電池の-実証実験ハウスに行ってミタ未来のエネルギーと地域交流の融合こんにちは中国電力株カーボンニュートラル推進本部の藤井です_当社はykk-a/878953414493353/
-- SNS・note（note・検索結果の抜粋）（7件）：
-  - ［SNS］2026-11-05「ペロブスカイト太陽電池、2030年に向けて何が起きてる？第15回：積水... Mar 31, 2026 · 1. 「塗工のプロ」がトップに立つ戦略的意義 ペロブスカイト太陽電池（PSC）を量産する、特に積水化学が得意とする「フィルム型」において、最大の肝になるのは**「塗工（コーティング）」**の技術です。薄いフィルムの上に、発電材料をいかに均一に、精密に塗り続けるか。 新社長の清水氏 ...」https://note.com/fast_poppy8050/n/n36a5067739be
-  - ［SNS］2026-11-05「ペロブスカイト太陽電池の主役は誰か──2025年版 技術・商業化マップと... Nov 2, 2025 · 導入 ペロブスカイト太陽電池（Perovskite Solar Cells, PSCs）への注目が高まっている。従来の結晶シリコン太陽電池と比較して、変換効率の高さ、製造コストの低減可能性、そして軽量・柔軟性という特徴を持つ。これは既存技術の改良というより、太陽光発電の在り方そのものを変える可能性が ...」https://note.com/kimi11299696/n/nb03c22ce92f8
-  - ［SNS］2026-11-04「ペロブスカイト 量産へ国が1000億円 リコーと長州産業で挑む ... ペロブスカイト 量産へ国が1000億円 リコーと長州産業で挑む ... note https://note.com > 政治・経済 > 政策・法律」https://note.com/hirokimiyano/n/n493e7d969f8d
-  - ［SNS］2026-11-04「ペロブスカイト太陽電池 の人気・新着記事まとめ - note ペロブスカイト太陽電池 の人気・新着記事まとめ - note note https://note.com > tag > ペロブスカイト太陽電池」https://note.com/tag/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0
-  - ［SNS］2026-11-04「ペロブスカイト太陽電池 の「現在地」——太陽光業界の中の ... ペロブスカイト太陽電池 の「現在地」——太陽光業界の中の ... note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/lucid_robin8737/n/nc77acc9c9596
-- 検索結果の抜粋（34件）：
-  - ［一次］2026-11-04「① ペロブスカイト 設備導入事業 | 公募情報 — ① ペロブスカイト 設備導入事業 | 公募情報 一般社団法人 環境技術普及促進協会 https://www.eta.or.jp > offering > 2026 > psc」https://www.eta.or.jp/offering/2026/psc/index.php
-  - ［一次］2026-11-04「ペロブスカイト太陽電池 の世界的な動向① — ペロブスカイト太陽電池 の世界的な動向① 農林水産技術会議 PDF https://www.affrc.maff.go.jp > attach > pdf > seika-36」https://www.affrc.maff.go.jp/docs/innovate/attach/pdf/seika-36.pdf
-  - ［一次］2026-11-04「ペロブスカイト太陽電池 事業説明会 - 積水化学工業 — ペロブスカイト太陽電池 事業説明会 - 積水化学工業 積水化学工業株式会社 PDF https://www.sekisui.co.jp > afieldfile > 2025/01/07」https://www.sekisui.co.jp/ir/event/other/__icsFiles/afieldfile/2025/01/07/20250107PVK.pdf
-  - ［一次］2026-11-04「ペロブスカイト太陽電池 の導入支援 - 環境省 — ペロブスカイト太陽電池 の導入支援 - 環境省 環境省 https://www.env.go.jp > earth > post_94」https://www.env.go.jp/earth/post_94.html
-  - ［一次］2026-11-04「日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... — 日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... 資源エネルギー庁 https://www.enecho.meti.go.jp > perovskite_solar_cell_01」https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_01.html
+- 検索結果の抜粋（60件）：
+  - ［一次］2026-11-06「日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... — 日本の再エネ拡大の切り札、 ペロブスカイト太陽電池 とは ... 資源エネルギー庁 https://www.enecho.meti.go.jp > perovskite_solar_cell_02」https://www.enecho.meti.go.jp/about/special/johoteikyo/perovskite_solar_cell_02.html
+  - ［一次］2026-11-06「次世代型「 ペロブスカイト太陽電池 」導入を支援：環境省 — 次世代型「 ペロブスカイト太陽電池 」導入を支援：環境省 J-Net21[中小企業ビジネス支援サイト] https://j-net21.smrj.go.jp > news」https://j-net21.smrj.go.jp/news/uq501j000000ehx8.html
+  - ［一次］2026-11-06「ペロブスカイト太陽電池、ついに日本の夏を耐え過ごす！ — Mar 13, 2026 · 高耐久化手法の開発により、ペロブスカイト太陽電池の社会実装の推進に貢献すると期待されます。 なお、この技術の詳細は、2026年3月17日に第73回応用物理学会春季学術講演会にて発表されます。」https://www.aist.go.jp/aist_j/press_release/pr2026/pr20260313_2/pr20260313_2.html
+  - ［一次］2026-11-06「設置自由度の高いペロブスカイト太陽電池の 実用化開発 — グリーンイノベーション基金事業 次世代太陽電池の開発 設置自由度の高いペロブスカイト太陽電池の実用化開発 発表: 2025年07月16日 国立研究開発法人 新エネルギー・産業技術総合開発機構 発表者名 島 正樹 (株)エネコートテクノロジーズ」https://www.nedo.go.jp/content/800031717.pdf
+  - ［一次］2026-11-06「NEDOエネルギー・地球環境分野成果報告会2026（分野名：太陽光発電） ... — 先表No. : m-29 グリーンイノベーション基金事業/次世代型太陽電池の開発/次世代型太陽電池実用化事業 高効率・高耐久ペロブスカイト太陽電池モジュールの実用化技術開発 団体名:株式会社アイシン、国立大学法人東京大学 発表日:2026年7月22日」https://www.nedo.go.jp/content/800068157.pdf
 ### 日本→海外（輸出）｜水電解装置（water electrolyzer）
-- 取得：2026-11-05T02:40・調査2回目・読んだ頁74
+- 取得：2026-11-06T03:50・調査3回目・読んだ頁79
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
-- 顧客（金を払う側）（51件）：
+- 顧客（金を払う側）（74件）：
+  - ［一次］2026-11-06「国内にはMW規模の水電解装置を導入した再エネ水素事業が2件ある*1」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
+  - ［一次］2026-11-06「水電解装置容量（MW） メーカー 進捗状況 実施場所」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
   - ［一次］2026-11-05「需要増大も見越し、日本の水電解装置メーカーの大型化・モジュール化の取組を支援することは重要」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
   - ［一次］2026-11-05「⚫ そのため、日本の部素材メーカー等の要素技術の基礎研究だけでなく 、水電解装置への実装に向けた擦り合わせも」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
   - ［一次］2026-11-05「表や水電解装置の量産体制構築支援など、様々な取組がなされているところ」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/017_04_00.pdf
-  - ［一次］2026-11-05「⚫ そのため、先行する海外市場獲得や、今後導入される国内再エネポテンシャルを最大限活用すべく、水電解装置の」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/017_04_00.pdf
-  - ［一次］2026-11-05「10MW規模の水電解装置の導入を検討、実現可能性を調査中」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/017_04_00.pdf
-- 顧客の顧客（発注元が求めること）（32件）：
+- 顧客の顧客（発注元が求めること）（37件）：
   - ［一次］2026-11-05「4. 現実的なトランジションの重要性と世界の脱炭素化への貢献」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf
   - ［一次］2026-11-05「大規模PEM型水電解装置の開発、熱需要の脱炭素化実証」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf
   - ［一次］2026-11-04「大規模PEM型水電解装置の開発、熱需要の脱炭素化実証」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
   - ［一次］2026-11-04「背景・目的 2045年にスコットランドでカーボンニュートラルを実現する先駆けとして、グラスゴーで水素サプライチェーンを構築し、2030年までに英国初の脱炭素都市を目指す」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf
   - ［一次］2026-11-04「背景・目的 デンマークでの脱炭素化（2030年70％削減目標）を実現するため、フレゼレシアでグリーン水素の大規模製造・貯蔵施設の構築を目指す」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf
-- 顧客の競合（奪いに来る側）（52件）：
+- 顧客の競合（奪いに来る側）（65件）：
   - ［一次］2026-11-04「• 欧州プロジェクトGrInHy2.0において、720kWのSOECをSalzgitter Flachstahl GmbH（ドイ」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
   - ［一次］2026-11-04「• 2023年4月、欧州プロジェクトMultiPLHYにおいて、グリーン水素供給のため、 2.6MWの」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
   - ［一次］2026-11-04「 具体的には、海外機関等とも必要に応じ連携して欧州の運転環境の再現も可能としつつ、①大型水電解スタック（500kW」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
   - ［一次］2026-11-04「23年内に初回入札結果発表予定、実際の欧州・ドイ」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/017_04_00.pdf
   - ［一次］2026-11-04「⚫ 水電解装置は、2050年のカーボンニュートラルの実現に向けて、①再エネの大量導入時に安価な余剰再エネ等を活」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/017_04_00.pdf
-- 自社の競合（商社・代理店・仲介）（2件）：
+- 自社の競合（商社・代理店・仲介）（5件）：
   - ［一次］2026-11-04「出所: H2Future HP、FCH JUプレスリリース「European Commission funds H2FUTURE Project 」（2017/02）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf
+  - ［記事］2026-11-06「Grid connection constraints and permitting delays for large-scale electrolyzer installations remain structural bottlenecks, with project lead times of 3–5 years from planning to commissioning in many regions of Japan.」https://www.indexbox.io/store/japan-electrolyzer-modules-market-analysis-forecast-size-trends-and-insights/
+  - ［記事］2026-11-06「The study is designed for manufacturers, distributors, importers, exporters, investors, procurement teams, advisors, and strategy teams that need a consistent, data-driven view of market dynamics and a transparent analyt」https://www.indexbox.io/store/japan-electrolyzer-modules-market-analysis-forecast-size-trends-and-insights/
+  - ［記事］2026-11-06「: Stack and Cell Components, Balance of Plant Systems, Power Conversion Units, Gas Processing and Purification, System Integration and Control, Installation and Commissioning, Operation and Maintenance」https://www.indexbox.io/store/japan-electrolyzer-modules-market-analysis-forecast-size-trends-and-insights/
   - ［記事］2026-11-04「BASF commissioned Germany's largest green hydrogen production facility at its Ludwigshafen chemical complex, using PEM electrolysis technology supplied by Siemens Energy. The project demonstrates the application of elect」https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/
-- 政治（法・予算・規制）（40件）：
+- 政治（法・予算・規制）（43件）：
+  - ［一次］2026-11-06「➢ 9億ユーロ(約1,500億円)の予算を確保し、H2Globalによるダブルオークションのうち、第1回固定価格買取入」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf
   - ［一次］2026-11-05「⚫ 本基金事業では、PEM型水電解装置に使われる炭化水素系電解質膜の量産ライン設置に向けた製造技術開発」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/017_04_00.pdf
   - ［一次］2026-11-05「⚫ 2025年2月に第7次エネルギー基本計画が閣議決定」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf
   - ［一次］2026-11-04「⚫ 10年間の事業であるGI基金においては、評価してメリハリを付けることが重要」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
   - ［一次］2026-11-04「⚫ プロジェクト全体の予算額を上限721.5億円→上限1070.5億円に増額」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
-  - ［一次］2026-11-04「PJ規模 940万ユーロ（約13億円）の英国政府補助」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf
-- 経済（規模・価格・為替）（77件）：
+- 経済（規模・価格・為替）（96件）：
   - ［一次］2026-11-05「実施予定（第一弾として約5,400億円規模）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/017_04_00.pdf
   - ［一次］2026-11-05「な事業者が、2030年よりも早い商業運転開始を目指しており、数百～千数百億円規模の案件組成が進められている」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf
   - ［一次］2026-11-05「➢ 水素と既存原燃料との価格差支援(CfD支援)のラウンド１を実施」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf
   - ［一次］2026-11-05「4,485億円)を見込む」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf
   - ［一次］2026-11-05「10年間で総額7.2億ユーロ(約1,200億円)の支援を見込む」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/029_06_00.pdf
-- 社会（人・担い手）（12件）：
+- 社会（人・担い手）（13件）：
   - ［一次］2026-11-04「◼ 約700人の雇用創出」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf
   - ［一次］2026-11-04「(7) RA（リサーチアシスタント）等の雇用」https://www.nedo.go.jp/content/100963636.pdf
+  - ［記事］2026-11-06「2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJwL2jYExbTpEySo7gv0eRxqJxUQeSJO6D4KUh6aTHBfddduGQr
   - ［記事］2026-11-05「2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLy8EwUmwseUSRO64Hndz2uKKPpNzGmhaaEBICwYAFzHvPTzDim
   - ［記事］2026-11-05「C68106700 2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLy8EwUmwseUSRO64Hndz2uKKPpNzGmhaaEBICwYAFzHvPTzDim
-  - ［記事］2026-11-05「2026年版 人材ビジネス業界におけるAIの活用実態と今後の可能性」https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vJiUjuyAjcbH83Y1D9TdZnq-zmJrPhZAnooDnGR1ft6LPiN3ebT
-- 技術（新しい技術・実証）（49件）：
-  - ［一次］2026-11-05「⚫ SOECに関する研究開発の事業費総額を457.8億円、国費負担額は349億円に設定」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/030_03_00.pdf
-  - ［一次］2026-11-04「2026年度「水素利用拡大に向けた共通基盤強化のための研究開発事業」追加公募の実施体制の決定について | 公募 | NEDO」https://www.nedo.go.jp/koubo/SE3_100001_00126.html
-  - ［一次］2026-11-04「2026年度「水素利用拡大に向けた共通基盤強化のための研究開発事業」追加公募の実施体制の決定について」https://www.nedo.go.jp/koubo/SE3_100001_00126.html
-  - ［一次］2026-11-04「2026年度「水素利用拡大に向けた共通基盤強化のための研究開発事業」の追加公募」https://www.nedo.go.jp/koubo/SE3_100001_00126.html
-  - ［一次］2026-11-04「水素の本格的な普及拡大および我が国の産業競争力強化に向け、水素製造と利用の両翼を担う水電解装置と燃料電池の研究ならびに技術開発を加速化させる」https://www.nedo.go.jp/koubo/SE3_100001_00126.html
-- SNS・note（LinkedIn・検索結果の抜粋）（9件）：
-  - ［SNS］2026-11-05「アブドルハリム アシュラフ - Green Hydrogen | Alkaline, PEM & AEM ...トヨタが「水素製造システム」の完成を発表！ 自動車技術とプラント知...SCREEN SPE Singapore Pte. Ltd. | LinkedInシーメンス・エナジー、田村市に水電解装置／製造工程を脱炭素化 – | ...小野圭 - 科研助理 - 领英Miao Jing - Thermofisher Scientifi」https://jp.linkedin.com/in/ashraf-abdelhaleem/ja
-  - ［SNS］2026-11-05「Thijs de Groot - Professor Electrochemical Engineering | LinkedInRITU SARASWAT - PhD | Polymer Chemistry | Developing Anion ...Devilal Dhanavath - PhD Placement Manager @IIT Bombay, PhD in ...Dr.-Ing. Julio C. Garcia-Nav」https://nl.linkedin.com/in/thijs-de-groot-a6968616
-  - ［SNS］2026-11-05「Devilal Dhanavath - PhD Placement Manager @IIT Bombay, PhD in ...Dr.-Ing. Julio C. Garcia-Navarro - LinkedInWEW GmbH | LinkedIn Mar 26, 2024 · PhD Placement Manager @IIT Bombay, PhD in Water Electrolyzer Technology, Expe」https://in.linkedin.com/in/devilal-dhanavath-0aa7511b9
-  - ［SNS］2026-11-04「アブドルハリム アシュラフ - Green Hydrogen | Alkaline, PEM & AEM ...SCREEN Holdings Co., Ltd. | LinkedInシーメンス・エナジー、田村市に水電解装置／製造工程を脱炭素化 – | ...小野圭 - 科研助理 - 领英Rain Wu - 中广核 - 仪控副主任工程师 - 领英Neville Patel - Founder of 280 Carbon | Adding」https://jp.linkedin.com/in/ashraf-abdelhaleem/ja
-  - ［SNS］2026-11-04「シーメンス・エナジー、田村市に水電解装置／製造工程を脱炭素化 – | ... 下記の記事にあります通り、弊社シーメンスエナジーでは、山梨県企業局様を通じて田村市にあるヒメジ理化様工場向けの石英ガラス溶融 ...」https://www.linkedin.com/posts/yasuhiko-otsuki-大築-康彦-44a778172_シーメンスエナジー田村市に水電解装置製造工程を脱炭素化-activity-7346840252839358465-ODFd
-- 検索結果の抜粋（17件）：
-  - ［一次］2026-11-04「国外にはMW規模の 水電解装置 を導入した再エネ水素事業が20 ... — 国外にはMW規模の 水電解装置 を導入した再エネ水素事業が20 ... 環境省 PDF https://www.env.go.jp > list > lowcarbon-h2-sc > PDF」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_overseas_trends.pdf
-  - ［一次］2026-11-04「令和4年度補正 系統用蓄電システム・ 水電解装置 導入支援事業 — 令和4年度補正 系統用蓄電システム・ 水電解装置 導入支援事業 SII：一般社団法人 環境共創イニシアチブ https://sii.or.jp > ...」https://sii.or.jp/chikudenchi04r/
-  - ［記事］2026-11-05「電解 槽 市場 規模、 シェア および動向レポート、2034 年 — 電解 槽 市場 規模、 シェア および動向レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 電解槽市場-1...」https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E8%A7%A3%E6%A7%BD%E5%B8%82%E5%A0%B4-103919
-  - ［記事］2026-11-05「Asahi Kasei to supply 1 MW-class alkaline- water electrolyzer ... — Asahi Kasei to supply 1 MW-class alkaline- water electrolyzer ... Asahi Kasei Corporation https://www.asahi-kasei.com > news」https://www.asahi-kasei.com/news/2025/e250730
-  - ［記事］2026-11-04「脱炭素社会の切り札「グリーン水素」完全解説 2026 年版 — 脱炭素社会の切り札「グリーン水素」完全解説 2026 年版 u-power.jp https://u-power.jp > サステナビリティ > 未来を考えるコラム」https://u-power.jp/sdgs/future/001543.html
-- SNS・note（note・本文）（35件）：
-  - ［SNS］2026-11-05「大型装置を掲げ、初受注は1MW。旭化成の水素事業はどこまで進んだか｜特許観測所」https://note.com/tokkyokansokujo/n/n9f0f44a1fdd8
-  - ［SNS］2026-11-05「大型装置を掲げ、初受注は1MW。旭化成の水素事業はどこまで進んだか」https://note.com/tokkyokansokujo/n/n9f0f44a1fdd8
-  - ［SNS］2026-11-05「水を電気分解して水素をつくる装置を、実験設備から売れる事業へ。旭化成は2022年11月、複数の10MWモジュールを組み合わせた大型アルカリ水電解装置を、2025年までに上市する計画を公表した。MW（メガワット）は装置の電力規模を示す単位だ。化学工場などに向けた、まとまった量の水素をつくる構想だった。」https://note.com/tokkyokansokujo/n/n9f0f44a1fdd8
-  - ［SNS］2026-11-05「2025年、同社は実際に商用化後の初受注を発表する。ところが受注したのは、フィンランドの事業者向けの」https://note.com/tokkyokansokujo/n/n9f0f44a1fdd8
-  - ［SNS］2026-11-05「。当初の説明にあった複数の10MWモジュールとは規模も顧客の用途も異なる。この初受注を、当初の大型化計画のどこに位置づければよいのか。」https://note.com/tokkyokansokujo/n/n9f0f44a1fdd8
-- SNS・note（Facebook・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-05「有限会社 エスティテクノス - Facebook東京ガス グループ - \水素社会の実現へ、大きな一歩！／... | Facebo...玄海丼丸 - 丼丸全店で行っている抜き打ち衛生検査、適合率96％でA評...電力中央研究所 - ／ セミナー情報 第3回 DER＆グリッドセミナー 4月1...Mineyuki Fukuda - Facebook【ナリカインフォメーション】 中学校3 年生「水溶液とイオン」 電解... Nov 4, 2」https://www.facebook.com/st.technos.inc/
-  - ［SNS］2026-11-05「Mineyuki Fukuda - Facebook Sep 28, 2026 · をつくる水電解装置の量産拠点も建設準備が進ん でいます。 今回はその技術を携え、太陽光発電のコストが世 界でも最安級のインドへ。 現地での製造・供給と いう新たな挑戦に踏み出します。 この日印の協力 は、先の日印首脳会談の成果文書にも県の ...」https://www.facebook.com/fukudamineyuki/
-  - ［SNS］2026-11-04「有限会社 エスティテクノス - Facebook東京ガス グループ - \水素社会の実現へ、大きな一歩！／... | Facebo...Facebook電力中央研究所 - ／ セミナー情報 第3回 DER＆グリッドセミナー 4月1...玄海丼丸 - 丼丸全店で行っている抜き打ち衛生検査、適合率96％でA評...【ナリカインフォメーション】 中学校3 年生「水溶液とイオン」 電解... Nov 4, 2020 · 電解殺菌洗浄装置 低塩分」https://www.facebook.com/st.technos.inc/
-  - ［SNS］2026-11-04「電力中央研究所 - ／ セミナー情報 第3回 DER＆グリッドセミナー 4月1... Apr 9, 2025 · 電力中央研究所 - ／ セミナー情報📝 第3回 DER＆グリッドセミナー 4月17日 (木) 13:30～ ＠3×3Lab Future（千代田区大手町） \ 『#DSR としての水電解装置の課題は何か？ 』をテーマに外部講師による招待講演やパネルディスカッションを行います。」https://www.facebook.com/criepi/photos/-セミナー情報第3回-derグリッドセミナー4月17日木-1330３３lab-future千代田区大手町-dsr-としての水電解装置の課題は何かをテーマに外部講/970441378588001/
-- SNS・note（note・検索結果の抜粋）（5件）：
-  - ［SNS］2026-11-05「大型装置を掲げ、初受注は1MW。旭化成の水素事業はどこまで進んだか 2 days ago · 水を電気分解して水素をつくる装置を、実験設備から売れる事業へ。 旭化成は2022年11月、複数の10MWモジュールを組み合わせた大型アルカリ水電解装置を、2025年までに上市する計画を公表した。 MW（メガワット）は装置の電力規模を示す単位だ。」https://note.com/tokkyokansokujo/n/n9f0f44a1fdd8
-  - ［SNS］2026-11-04「独BASFが 水電解装置 稼働、クリーン水素を化学原料と ... - note 独BASFが 水電解装置 稼働、クリーン水素を化学原料と ... - note note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/witty_falcon8350/n/n8e5ea9700099
-  - ［SNS］2026-11-04「GX時代の中核「水素製造 装置 」市場の勃興 脱炭素の ... - note GX時代の中核「水素製造 装置 」市場の勃興 脱炭素の ... - note note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/tatsuya_sabato/n/nfd1d3ca5a715
-  - ［SNS］2026-11-04「再エネを無駄にしない水電解装置とは何か──構造とコストから読み解く“... Jul 11, 2025 · 【構造編】装置構成の理解が第一歩：StackとBoP 水電解装置は大きく2つの構成に分かれます。 Stack（スタック）：水を分子に変える“心臓部” セル、膜電極接合体（MEA）、バイポーラプレート（BPP）などで構成 実際に水素が生成される領域で、装置の変換効率と応答性を左右 BoP（Balance of Plant ...」https://note.com/rocky0224/n/n7a3d3a3103c5
-  - ［SNS］2026-11-04「水電解装置解説ー技術別ロードマップ｜まったり Aug 10, 2025 · 3. CAPEXの構造と削減アプローチ 電解装置のCAPEXは、反応を担う「スタック」と周辺設備である「BOP（Balance of Plant）」に大別される。スタックには膜、電極、触媒、セルフレーム、ガス拡散層などが含まれ、BOPには配管、ポンプ、冷却装置、電源装置、ガス分離装置、安全・制御系統が含まれる ...」https://note.com/rocky0224/n/n78a74a2e0547
+- 技術（新しい技術・実証）（77件）：
+  - ［一次］2026-11-06「ITM Power 2021年～実証･2023年～商用 英国（グラスゴー）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
+  - ［一次］2026-11-06「Cummins/Hydrogenics 2019年～実証・2021年～商用 カナダ（ベカンクール）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
+  - ［一次］2026-11-06「Nel 2022年～実証 スペイン（プエルトリャノ）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
+  - ［一次］2026-11-06「Nel 2021年～実証・2022～商用 デンマーク（フレゼレシア）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
+  - ［一次］2026-11-06「Thyssenkrupp 2022年～実証・2024年～商用 オランダ（ロッテルダム）」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
+- SNS・note（note・本文）（49件）：
+  - ［SNS］2026-11-06「水電解装置市場分析レポート：売上拡大、価格変動、需要予測2026-2032｜YHResearch」https://note.com/yhresearch_news/n/n1a4a02c402ee
+  - ［SNS］2026-11-06「水電解装置市場分析レポート：売上拡大、価格変動、需要予測2026-2032」https://note.com/yhresearch_news/n/n1a4a02c402ee
+  - ［SNS］2026-11-06「水電解装置とは、水を電気分解することにより水素と酸素を生成する装置である。中でも再生可能エネルギーを用いて生成される水素は「グリーン水素」と呼ばれ、カーボンニュートラルの実現に向けた鍵技術として注目されている。」https://note.com/yhresearch_news/n/n1a4a02c402ee
+  - ［SNS］2026-11-06「「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」」https://note.com/yhresearch_news/n/n1a4a02c402ee
+  - ［SNS］2026-11-06「によると、世界の水電解装置市場は2025年に2441百万米ドル規模に達すると予測され、2026年には3568百万米ドルに拡大する見込みです。2032年までに37730百万ドルに達すると予測されており、2026年から2032年までの期間における年平均成長率（CAGR）は48.2%と予想されています。」https://note.com/yhresearch_news/n/n1a4a02c402ee
 - SNS・note（X・検索結果の抜粋）（5件）：
   - ［SNS］2026-11-05「有限会社 デジタルリサーチ on X: "【オーストリアOMV、140MWグリーン... 【オーストリアOMV、140MWグリーン水素製造施設で独Siemens Energy製PEM水電解装置の据付けを開始】 2027年末から年最大23,000トンを生産し、22kmのパイプラインで製油所へ供給。 総投資額は約6億ユーロ（約1,110億円）。 https://t.co/jZnXsOKW3J #水素 #グリーン水素」https://x.com/FuelCellWeekly/status/2117807011719241995
   - ［SNS］2026-11-04「豊田中央研究所（豊田中研） on X: "水電解装置内の水の動きをX線で可... 水電解装置内の水の動きをX線で可視化 tytlabs.co.jp/ja/news/news20… 運転中のPEM形水電解装置をX線で観察し、温度や電流密度に ...」https://x.com/ToyotaCRDL/status/2107663452408094900
   - ［SNS］2026-11-04「日鉄物産は最先端の水電解装置＆技術を持つノルウェー・ハイスター社... 日鉄物産株式会社 公式広報アカウント (@nst_cc_official). 743 views. 日鉄物産は最先端の水電解装置＆技術を持つノルウェー・ハイスター社と世界最大級の水素展に共同出展します！」https://x.com/nst_cc_official/status/2031985960641315068
   - ［SNS］2026-11-04「トヨタと千代田化工、水素製造装置を2029年度量産へ トヨタ自動車と千代田化工建設は3月17日、水を電気分解するPEM型水電解装置を2029年度から量産すると発表した。 実証機は設置面積を従来の半分に抑え、貴金属使用を減らし寿命を2倍に延ばす高効率設計で、グリーン水素生産を促進する。」https://x.com/i/trending/2033861940343095572
   - ［SNS］2026-11-04「飛田 貴大 @ pHydrogen (@TakahiroHida110) / X 水電解装置の製造は中国が圧倒的だけど、インドが第二の集積地になりつつある。 BHELがtk nuceraとアルカリで組み、今月はノルウェーHystarとPEMで提携。 欧米勢は自前工場ではなく、技術供与で入る形が定着してきている。」https://x.com/TakahiroHida110
+- SNS・note（Facebook・検索結果の抜粋）（6件）：
+  - ［SNS］2026-11-06「有限会社 エスティテクノス - Facebookクーポンあります ↓ 腸活の第一歩はお水から！ みんな、お水ってどう...Mineyuki Fukuda - Facebook電力中央研究所 - ／ セミナー情報 第3回 DER＆グリッドセミナー 4月1...株式会社シュウワエンジニアリング | Takasaki-shi Gunma Nov 4, 2020 · 電解殺菌洗浄装置 低塩分濃度の食塩水から、薬品を全く使用せずに除菌 可能な電解」https://www.facebook.com/st.technos.inc/
+  - ［SNS］2026-11-06「電力中央研究所 - ／ セミナー情報 第3回 DER＆グリッドセミナー 4月1... Mar 27, 2025 · ／ セミナー情報 第3回 DER＆グリッドセミナー 4月17日（木）13:30～ ＠3×3Lab Future（東京都千代田区大手町） \ 『#DSR としての水電解装置の課題は何か？』をテーマに、外部講師による招待講演やパネルディスカッションを行います。 お申し込みはコチラ ...」https://www.facebook.com/criepi/photos/-セミナー情報-第３回-derグリッドセミナー4月17日木1330-３３lab-future東京都千代田区大手町-dsr-としての水電解装置の課題は何かをテーマ/961047589527380/
+  - ［SNS］2026-11-05「有限会社 エスティテクノス - Facebook東京ガス グループ - \水素社会の実現へ、大きな一歩！／... | Facebo...玄海丼丸 - 丼丸全店で行っている抜き打ち衛生検査、適合率96％でA評...電力中央研究所 - ／ セミナー情報 第3回 DER＆グリッドセミナー 4月1...Mineyuki Fukuda - Facebook【ナリカインフォメーション】 中学校3 年生「水溶液とイオン」 電解... Nov 4, 2」https://www.facebook.com/st.technos.inc/
+  - ［SNS］2026-11-05「Mineyuki Fukuda - Facebook Sep 28, 2026 · をつくる水電解装置の量産拠点も建設準備が進ん でいます。 今回はその技術を携え、太陽光発電のコストが世 界でも最安級のインドへ。 現地での製造・供給と いう新たな挑戦に踏み出します。 この日印の協力 は、先の日印首脳会談の成果文書にも県の ...」https://www.facebook.com/fukudamineyuki/
+  - ［SNS］2026-11-04「有限会社 エスティテクノス - Facebook東京ガス グループ - \水素社会の実現へ、大きな一歩！／... | Facebo...Facebook電力中央研究所 - ／ セミナー情報 第3回 DER＆グリッドセミナー 4月1...玄海丼丸 - 丼丸全店で行っている抜き打ち衛生検査、適合率96％でA評...【ナリカインフォメーション】 中学校3 年生「水溶液とイオン」 電解... Nov 4, 2020 · 電解殺菌洗浄装置 低塩分」https://www.facebook.com/st.technos.inc/
+- SNS・note（LinkedIn・検索結果の抜粋）（12件）：
+  - ［SNS］2026-11-06「アブドルハリム アシュラフ - Green Hydrogen | Alkaline, PEM & AEM ...トヨタが「水素製造システム」の完成を発表！ 自動車技術とプラント知...SCREEN SPE Singapore Pte. Ltd. | LinkedInSCREEN Holdings Co., Ltd. | LinkedIn小野圭 - 科研助理 - 领英Faiz Azmi - Bandar Kuala Lumpur, Wil」https://jp.linkedin.com/in/ashraf-abdelhaleem/ja
+  - ［SNS］2026-11-06「Dr. Hari Gopi - Hydrogen Expert, Electrochemist, Water ...Thijs de Groot - Professor Electrochemical Engineering | LinkedInRITU SARASWAT - PhD | Polymer Chemistry | Developing Anion ...Dr.-Ing. Julio C. Garcia-Navarro - 」https://in.linkedin.com/in/dr-hari-gopi-4945b936
+  - ［SNS］2026-11-06「Thijs de Groot - Professor Electrochemical Engineering | LinkedInRITU SARASWAT - PhD | Polymer Chemistry | Developing Anion ...Dr.-Ing. Julio C. Garcia-Navarro - LinkedInSebastian Proch – Principle engineer at Alleima - 」https://nl.linkedin.com/in/thijs-de-groot-a6968616
+  - ［SNS］2026-11-05「アブドルハリム アシュラフ - Green Hydrogen | Alkaline, PEM & AEM ...トヨタが「水素製造システム」の完成を発表！ 自動車技術とプラント知...SCREEN SPE Singapore Pte. Ltd. | LinkedInシーメンス・エナジー、田村市に水電解装置／製造工程を脱炭素化 – | ...小野圭 - 科研助理 - 领英Miao Jing - Thermofisher Scientifi」https://jp.linkedin.com/in/ashraf-abdelhaleem/ja
+  - ［SNS］2026-11-05「Thijs de Groot - Professor Electrochemical Engineering | LinkedInRITU SARASWAT - PhD | Polymer Chemistry | Developing Anion ...Devilal Dhanavath - PhD Placement Manager @IIT Bombay, PhD in ...Dr.-Ing. Julio C. Garcia-Nav」https://nl.linkedin.com/in/thijs-de-groot-a6968616
+- SNS・note（note・検索結果の抜粋）（9件）：
+  - ［SNS］2026-11-06「水電解装置市場分析レポート：売上拡大、価格変動、需要予測2026-2032 May 26, 2026 · 水電解装置の製品画像 YHResearch調査チームの最新レポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」によると、世界の水電解装置市場は2025年に2441百万米ドル規模に達すると予測され、2026年には3568百万米ドルに拡大する ...」https://note.com/yhresearch_news/n/n1a4a02c402ee
+  - ［SNS］2026-11-06「AEM水電解装置の世界市場調査：需給動向と企業ランキング2026-2032 Mar 12, 2026 · 上記の図表／データは、QYResearchの最新レポート「2026～2032年のグローバルAEM水電解装置市場調査レポート」から引用されている。 ランキングは2025年のデータに基づいている。 現在の最新データは、当社の最新調査データに基づいている。」https://note.com/qy_research/n/n8c5c67273525
+  - ［SNS］2026-11-06「水電解装置市場分析レポート：売上拡大、価格変動、需要予測2026-2032... May 26, 2026 · 水電解装置の製品画像 YHResearch調査チームの最新レポート「グローバル水電解装置のトップ会社の市場シェアおよびランキング 2026」によると、世界の水電解装置市場は2025年に2441百万米ドル規模に達すると予測され、2026年には3568百万米ドルに拡大する ...」https://note.com/yhresearch_news/n/n1a4a02c402ee
+  - ［SNS］2026-11-06「大型装置を掲げ、初受注は1MW。旭化成の水素事業はどこまで進んだか 3 days ago · 水を電気分解して水素をつくる装置を、実験設備から売れる事業へ。 旭化成は2022年11月、複数の10MWモジュールを組み合わせた大型アルカリ水電解装置を、2025年までに上市する計画を公表した。 MW（メガワット）は装置の電力規模を示す単位だ。」https://note.com/tokkyokansokujo/n/n9f0f44a1fdd8
+  - ［SNS］2026-11-05「大型装置を掲げ、初受注は1MW。旭化成の水素事業はどこまで進んだか 2 days ago · 水を電気分解して水素をつくる装置を、実験設備から売れる事業へ。 旭化成は2022年11月、複数の10MWモジュールを組み合わせた大型アルカリ水電解装置を、2025年までに上市する計画を公表した。 MW（メガワット）は装置の電力規模を示す単位だ。」https://note.com/tokkyokansokujo/n/n9f0f44a1fdd8
+- 検索結果の抜粋（39件）：
+  - ［一次］2026-11-06「水電解 槽を題材に - Mizuho Short Industry Focus — 水電解 槽を題材に - Mizuho Short Industry Focus みずほ銀行 PDF https://www.mizuhobank.co.jp > pdf > msif_209」https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_209.pdf
+  - ［一次］2026-11-06「国内にはMW規模の 水電解装置 を導入した再エネ水素事業が2 ... — 国内にはMW規模の 水電解装置 を導入した再エネ水素事業が2 ... 環境省 PDF https://www.env.go.jp > list > lowcarbon-h2-sc > PDF」https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/PDF/2021-featured_domestic_trends.pdf
+  - ［一次］2026-11-06「【水電解装置を取り巻く状況】 — 【水電解装置を取り巻く状況】 ・2030年までにグローバルで500GWを超える水電解装置の導入計画、FIDに至るプロジェクトは4%と限定的 *1 ・稼働中の水電解装置は最大10MW級であり、海外の主要電解槽メーカーでも生産能力過剰の状況 *1」https://www.nedo.go.jp/content/800021685.pdf
+  - ［一次］2026-11-06「月面用水電解装置の開発結果と将来展望※ — そこで我々は、保有する地上用の水電解技術を活用し、月面での技術実証を目的とした水電解装置を開発した。装置は、株式会社ispace(以下、ispace)による民間月面探査プログラム「HAKUTO-R」Mission 2に貨物(以下、ペイロード)として搭載され2,3)、2025年1月15日に打上げられた。しかしながら同年6月6 ...」https://www.tte-net.com/lab/report/pdf/2025_12.pdf
+  - ［一次］2026-11-06「水電解装置における日本企業の競争力強化に向けて — 水電解装置は、産業競争力の観点でも、日本にとって非常に重要な製品であり、2023年6月に改訂された水素基本戦略においても2030年時点で日本関連企業の導入目標を15GW(世界シェア10%程度)に設定するなど、グローバルシェアの獲得がうたわれた。」https://www.dbj.jp/upload/investigate/docs/2078b65a4d234d069f2325b3ea91c2b1.pdf
 ### 日本→海外（輸出）｜グリーンアンモニア（green ammonia）
-- 取得：2026-11-05T02:42・調査2回目・読んだ頁75
+- 取得：2026-11-06T03:46・調査3回目・読んだ頁82
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
-- 顧客（金を払う側）（60件）：
-  - ［一次］2026-11-05「EU PPWR、2026年8月の適用開始に向けた企業対応Q&A」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-05「低炭素水素・アンモニア案件で問題となる引取に関して、既存顧客への供給とすることで案件の組成へと繋げていると考えられる」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-  - ［一次］2026-11-05「エア・プロダクツ社は既にルイジアナ州および米国メキシコ湾岸において水素（石炭や天然ガスなど化石燃料由来のいわゆるグレー水素）やその他工業用ガスを製造・供給しており、本件で製造されたブルー水素も同社の既存のパイプラインで供給している顧客に販売する予定である」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-  - ［一次］2026-11-05「また、製造されたブルー水素をブルーアンモニア化して海外の顧客に販売することも検討している」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-  - ［一次］2026-11-05「製造したブルー水素は既存水素パイプラインネットワークを通じてエクソンモービル・ロッテルダム製油所およびその他の顧客に供給予定」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-- 顧客の顧客（発注元が求めること）（54件）：
-  - ［一次］2026-11-04「これに先立ち、同プロジェクトはISCC EUの非生物由来再生可能燃料（RFNBO）アンモニア認証を取得し、EUなどの低炭素市場向けの供給資格を得ている」https://spap.jst.go.jp/china/news/260801/topic_3_03.html
-  - ［一次］2026-11-04「加えて製造した水素を活用して国内で肥料用途や石油精製、燃料として使用し脱炭素に貢献するとともに、海外へのエネルギー輸出にも寄与する」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-04「スウェーデンの水素動向（2）クリーン水素で進む特殊鋼の脱炭素」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-04「Statkraft社とAker Horizons社と共同して専業会社HEROGAを設立し、ヤラ社の既存のアンモニア・肥料製造プラントの電化および脱炭素化を図るプロジェクトで、年産2万トンのグリーンアンモニアを製造する計画」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-  - ［一次］2026-11-04「電化・脱炭素化により年間80万トンのCO2発生を抑制する見込み」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-- 顧客の競合（奪いに来る側）（65件）：
-  - ［一次］2026-11-05「インドは年間1,700～1,900万トンのアンモニアを肥料製造に使用している」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-05「、インドの肥料需要だけで世界の消費量の1割弱を占める規模となる」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-05「農業大国インドにとって、このような莫大（ばくだい）なアンモニア需要の輸入依存は重要な問題の1つとなっていた」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-05「安価な太陽光発電がインドのグリーン水素の支え」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-05「2. エア・プロダクツ社（米国）」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-- 自社の競合（商社・代理店・仲介）（6件）：
+- 顧客（金を払う側）（83件）：
+  - ［一次］2026-11-06「５．実施企業等の取組状況とNEDO委員会での意見」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「＜研究開発項目２＞アンモニアの発電利用における高混焼化・専焼化 （2050 年国内導入量 3000 万トン／年に必要な技術の確立）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「５－１．実施企業等の取組状況とNEDO技術・社会実装推進委員会での意見」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「５－２．実施企業等の取組状況とNEDO技術・社会実装推進委員会での意見」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「られた知見を、2-2にも活用できるよう企業横断的な情報共有の枠組みを検討して頂きたい」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+- 顧客の顧客（発注元が求めること）（74件）：
+  - ［一次］2026-11-06「長期脱炭素電源オークションにおいて、計８件のアンモニア発電事業が落札」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「（※1）第1回長期脱炭素電源オークションにて、2030年度のアンモニア20％転換への改修を落札」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「第3回脱炭素電源オークションでは、2032年度に20％転換から40％転換へ引き上げるための改修を落札」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「（※2）長期脱炭素電源オークション容量確保契約約款第11条第1項第6号の規定に該当し市場退出済」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「出典：環境審査顧問会全大会 資料２.長期脱炭素電源オークション（2025年10月6日）をもとにNEDOが作成」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+- 顧客の競合（奪いに来る側）（81件）：
+  - ［一次］2026-11-06「・中国と韓国では、加速していたアンモニア混焼に関する動きが鈍化傾向」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「中国 ・2022年2月、国営大手電力会社「国家能源集団」が石炭火力発電（40 MW）でアンモニア」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「韓国 ・2021年10月に発表した「2050カーボンニュートラルシナリオ」では、アンモニア発電は2027年ま」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「シェアが10％から20％に拡大する見込みである」https://journal.jogmec.go.jp/content/300517186.pdf
+  - ［一次］2026-11-06「欧州復興開発銀行（EBRD）などが資金提供し、2025年」https://journal.jogmec.go.jp/content/300517186.pdf
+- 自社の競合（商社・代理店・仲介）（9件）：
+  - ［一次］2026-11-06「本調査では、2022 年 4 月〜2023 年 2 月に、商社、」https://eneken.ieej.or.jp/data/11322.pdf
+  - ［一次］2026-11-06「本調査では、2022 年 4 月〜2023 年 2 月に、商社、エンジニアリング会社、海運会社、電力会」https://eneken.ieej.or.jp/data/11322.pdf
   - ［一次］2026-11-04「CERC (Central Electricity Regulatory Commission) (2025) Report on Short-term Power Market in India, 2024-25. URL:」https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf
   - ［一次］2026-11-04「CERC (Central Electricity Regulatory Commission) (2026) Suo-Motu Order in Petition No. 12/SM/2025. URL:」https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf
   - ［一次］2026-11-04「日本国内で見ると、原料用アンモニア消費量は約108万トン（2019年）であり、国内生産は約8割、輸入は約2割（輸入元はインドネシア及びマレーシア）と、世界的に見ても小規模な市場となっています」https://www.enecho.meti.go.jp/about/whitepaper/2021/html/3-8-4.html
-  - ［記事］2026-11-05「一方、IHIや日揮、三菱商事、三井物産など日本のエネルギー系のメーカーや商社は数年前から（2）、つまりCO」https://xtech.nikkei.com/atcl/nxt/column/18/00001/08423/
-  - ［記事］2026-11-04「We recently commissioned multiple market research reports from IMARC, and the insights we received were invaluable. The depth of analysis, accuracy of data, and actionable recommendations have greatly enhanced our strate」https://www.imarcgroup.com/green-ammonia-market
-- 政治（法・予算・規制）（37件）：
-  - ［一次］2026-11-05「米国の鉄鋼・アルミ・銅の232条関税の制度変更と企業の実務対応」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-04「同文書中には「Strategic Interventions for Green Hydrogen Transition （SIGHT）」という中央政府のグリーン水素振興策が盛り込まれている」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-04「グリーン水素かグリーンアンモニアを製造・利用した場合に、補助金を拠出する」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-04「前述の中央政府のSIGHTにも電解層製造プロジェクトが対象とされているように、インドでは水素を作るための電解層の製造にも力を入れる」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-04「執筆時点で、モード2Bの結果は関連ウェブサイトに掲載されていないが、政府発表によると1回入札が行われ、結果が公表されている」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-- 経済（規模・価格・為替）（81件）：
-  - ［一次］2026-11-04「香橙会研究院によると、総投資額は約63億元（約1,512億円、1元＝約24円）で、800メガワット（MW）の風力発電設備、200MWの太陽光発電設備、年産3万2,000トンのグリーン水素製造設備、年産18万トンのグリーンアンモニア合成設備を整備したという（「香橙会研究院」7月28日）」https://www.jetro.go.jp/biznews/2026/08/23a8fd67a5996cdd.html
-  - ［一次］2026-11-04「初期段階の財政的インセンティブ：2029-30年度までに1,749億ルピー（約3,060億円、1ルピー＝1.75円）を支出予定」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-04「もっとも、日本の3兆円規模とされる経済産業省の「」https://www.jetro.go.jp/biz/areareports/special/2024/1002/d0c73bb3275a18fa.html
-  - ［一次］2026-11-04「同社の2023年の売上高は126億ドル、純利益は23億ドルとなっている」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-  - ［一次］2026-11-04「（図3）エア・プロダクツ社の売上高および純利益の推移」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-- 社会（人・担い手）（2件）：
+- 政治（法・予算・規制）（56件）：
+  - ［一次］2026-11-06「年度末までの実機実証完了は困難（5年程度超過）のため、GI基金事業から自社での取り組」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「（令和6年度非化石エネルギー等導入促進対策費補助金活用）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「しており、政府の新たな支援策が事業者を後押し、複数のアンモニア混焼事業が事業化に向けて推進」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「価格差に着目した支援において、２件のアンモニア発電事業が認定」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「拠点整備支援において、２件のアンモニアサプライチェーン構築事業が認定」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+- 経済（規模・価格・為替）（128件）：
+  - ［一次］2026-11-06「 事業規模:約284億円」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「 支援規模*：約242億円（既支出額:約34.0億円）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「 事業規模:約27億円」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「 支援規模*：約23億円（既支出額:約11.3億円）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「 事業規模:約615億円」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+- 社会（人・担い手）（5件）：
+  - ［一次］2026-11-06「建設期間に約 1 万 5,000 人の雇用、運用」https://journal.jogmec.go.jp/content/300517186.pdf
+  - ［一次］2026-11-06「時に 3,000 人の雇用創出を見込む」https://journal.jogmec.go.jp/content/300517186.pdf
+  - ［一次］2026-11-06「投資により約5万人分の雇用が創出され、47.7MtCO 2e」https://journal.jogmec.go.jp/content/300517186.pdf
   - ［記事］2026-11-05「2023年には、人材不足に伴う労務費の上昇やインフレ圧力の影響で、その見積額は」https://ieefa.org/resources/japanese-version/japans-ammonia-strategy-constrained%20by%20cost%20supply%20and%20timing
   - ［記事］2026-11-04「2023年1月に発表された「国家グリーン水素ミッション」において、2030年までに60万人以上の雇用を創出し、960億米ドル以上の投資を誘致し、年間5000万トンのCO2排出量を削減すると予測されています」https://www.tkilaw.com/7717
-- 技術（新しい技術・実証）（55件）：
-  - ［一次］2026-11-05「次世代水素技術の商業化を進めるSparc Hydrogen社の20%株式を取得」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-  - ［一次］2026-11-05「Airbus社とグリーン水素を燃料とする航空機の商業化を目指して提携」https://journal.jogmec.go.jp/oilgas/info-reports/info-reports_02011.html
-  - ［一次］2026-11-04「中国の国家電力投資集団（注1）傘下の国電投緑色能源（以下、電投緑能）は7月28日、吉林省大安市の風力・太陽光発電によるグリーン水素製造・合成アンモニア一体化実証プロジェクトで生産したグリーンアンモニア3,750トンについて、FOB（連雲港）条件で国際海上輸送の船積みを完了し、韓国向けに出荷したと発表した」https://www.jetro.go.jp/biznews/2026/08/23a8fd67a5996cdd.html
-  - ［一次］2026-11-04「同プロジェクトは、電投緑能の全額出資子会社が投資・建設した実証事業で、2025年7月26日に試運転を開始した」https://www.jetro.go.jp/biznews/2026/08/23a8fd67a5996cdd.html
-  - ［一次］2026-11-04「同企業連合は2026年1月に世界初の純アンモニア燃料による水素・アンモニア混焼発電実証プロジェクトを開始しており、グリーンアンモニアの安定した調達需要があるという」https://www.jetro.go.jp/biznews/2026/08/23a8fd67a5996cdd.html
-- SNS・note（X・検索結果の抜粋）（8件）：
+- 技術（新しい技術・実証）（85件）：
+  - ［一次］2026-11-06「（参考２）研究開発進捗のマイルストーン」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「研究開発項目１」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「研究開発項目２」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「開発し、石炭火力発電所における実機での実証試験を通じて、アンモニア混」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+  - ［一次］2026-11-06「＜研究開発項目１＞アンモニアの供給コストの低減に必要な技術の確立 （2030 年 10 円台後半/Nm3 の実現に必要な技術）」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/035_05_00.pdf
+- 検索結果の抜粋（52件）：
+  - ［一次］2026-11-06「チリ・グリーンアンモニアサプライチェーンの実現可能性に関する予備... — 結果、IEEJ(2021)に矛盾しないチリのグリーンアンモニアのコスト競争力が確認された。 また、石炭を含む化石燃料由来のブルーアンモニアと比較し、グリーンアンモニアが石炭価格の変動に対してボラティリティが低いことが示された。」https://eneken.ieej.or.jp/data/11322.pdf
+  - ［一次］2026-11-06「我が国の燃料アンモニア導入・拡大 に向けた取組について — また、インドにおいてグリーンアンモニア製造事業確立を目指す国内企業の調査事業へ支援する等、海外市场参入に向けた事業への支援を行っており、アジアでのCO2削減にも貢献している。 点整備支援を行うための制度整備を」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/020_04_00.pdf
+  - ［一次］2026-11-06「グリーンイノベーション基金事業／燃料アンモニアサプライチェーンの... — GI基金事業を通じてグリーンアンモニア製造技術開発を実施 [Mo(N)I(PCP)]OTfにて1,759回/Mo/hという 高いアンモニア生成速度を確認 触媒やPCET還元剤の開発、電解合成技術の開発を行い、多くの新たな知見の取得を進めながら、要素技術開発を推進中」https://www.nedo.go.jp/content/800030895.pdf
+  - ［一次］2026-11-06「Fuel Ammonia Supply Chain Establishment | NEDO Green ... — The cost of building overseas terminals for ammonia fuel production and export will total approximately 200 billion yen per coal-fired power generation (1 millio」https://green-innovation.nedo.go.jp/en/project/building-fuel-ammonia-supply-chain/summary/
+  - ［一次］2026-11-05「資料4 我が国の燃料 アンモニア 導入・拡大に向けた取組 ... — 資料4 我が国の燃料 アンモニア 導入・拡大に向けた取組 ... 経済産業省 PDF https://www.meti.go.jp > energy_structure > pdf」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/012_04_00.pdf
+- SNS・note（note・検索結果の抜粋）（7件）：
+  - ［SNS］2026-11-06「グリーンアンモニアとは？ | 週刊アンモニア #7｜Neology Mar 13, 2026 · グリーンアンモニアはどう作られるのか アンモニア製造は大きく2段階です。 まず水（H2O）から水素（H2）をつくり、次にその水素と空気から取り出した窒素（N2）を反応させてアンモニア（NH3）を合成します。」https://note.com/neology/n/ndd9b1ed8d044
+  - ［SNS］2026-11-06「第81回：グリーンアンモニアってなに？〜水と空気から生まれる、未来... Jul 25, 2025 · 📜歴史と背景 🌍 **通常のアンモニア（グレーアンモニア）**は、天然ガスなどの化石燃料を使って作られるため、CO₂排出が多い。 🌱 グリーンアンモニア は、水素も電力も再エネ由来（太陽光・風力など）で生産するため、“カーボンフリー”なアンモニアとして注目されている。」https://note.com/kamishigen/n/n9ceaffc0b72f
+  - ［SNS］2026-11-06「世界のグリーンアンモニア市場動向、年平均成長率61.78%で拡大継続202... Aug 13, 2026 · グリーンアンモニアの用途別需要と地域市場分析 用途別では肥料分野が最大需要市場となっています。 2025年の肥料用途販売量は185千トンで、世界グリーンアンモニア販売量の65.16%を占め、売上高は146.36百万米ドルでした。」https://note.com/qy_research/n/n3f44e5542b64
+  - ［SNS］2026-11-05「グリーンアンモニア世界市場レポート：主要企業、ランキング、成長予... May 25, 2026 · グリーンアンモニアとは、再生可能エネルギー由来の電力を用いて製造されたグリーン水素と窒素を反応させることで生成される低炭素アンモニアであり、製造工程におけるCO₂排出量を大幅に削減できる次世代エネルギー素材である。」https://note.com/qy_research/n/nbc7825892667
+  - ［SNS］2026-11-04「世界の グリーンアンモニア 市場動向、年平均成長率61.78%で ... 世界の グリーンアンモニア 市場動向、年平均成長率61.78%で ... note https://note.com > ビジネス > データ・分析」https://note.com/qy_research/n/n3f44e5542b64
+- SNS・note（X・検索結果の抜粋）（10件）：
+  - ［SNS］2026-11-06「増井 on X: "丸紅経済研究所 欧州「肥料行動計画」に見るサプライチェ... 丸紅経済研究所 欧州「肥料行動計画」に見るサプライチェーン再設計 https://t.co/udHc8KZ2yJ バイオベース肥料やグリーンアンモニアなどの代替品 の開発や導入について、政府支援が持続するかにも注目したい。」https://x.com/miraclemasui/status/2059599930554212824
+  - ［SNS］2026-11-06「興和グループの化学品商社、興和江守（福井県、岩佐大秀社長）は、福... Jul 11, 2024 · 化学工業日報社 (@chemicaldailyad). 興和グループの化学品商社、興和江守（福井県、岩佐大秀社長）は、福井県で再生エネ由来のアンモニア（グリーンアンモニア）の本格的なFS（事業化調査）を開始する。 – #化学工業日報 #商社 #水素 #アンモニア」https://x.com/chemicaldailyad/status/1811523971692789807
   - ［SNS］2026-11-05「【本日リリース】インドから日本へのグリーンアンモニア供給についてS... 【公式】双日株式会社 (@sojitz_jp). 18 likes. 【本日リリース】インドから日本へのグリーンアンモニア供給についてSembcorpおよび九州電力と基本合意 https://t.co/2nndKDP883 #グリーンアンモニア #再生可能エネルギー」https://x.com/sojitz_jp/status/1798608817535746237
   - ［SNS］2026-11-05「日印企業協力し「グリーンアンモニア」年40万トン生産推進…経済フォー... 日印企業協力し「グリーンアンモニア」年40万トン生産推進…経済フォーラムで高市首相表明 : 読売新聞 yomiuri.co.jp/world/20260702… #グリーンアンモニア #高市首相」https://x.com/Yomiuri_Online/status/2072740321197539377
   - ［SNS］2026-11-05「海事プレスOnline on X: "JERA、インド産グリーンアンモニア調達へ 自... JERA、インド産グリーンアンモニア調達へ 自動車船燃料に kaijipress.com/news/shipping/… AMグリーン社と基本合意。 碧南火力に隣接する設備を中継基地とし、川崎汽船・日本郵船の合弁会社を通じてアンモニア燃料自動車船に供給する。」https://x.com/Kaiji_Press/status/2115223244467015949
-  - ［SNS］2026-11-05「【IHIニュースリリース】インドにおけるグリーンアンモニア製造プロジ... 株式会社IHI (@IHI_ad). 59 likes. 【IHIニュースリリース】インドにおけるグリーンアンモニア製造プロジェクトへの出資検討に関する覚書を締結～日本初のグリーンアンモニア輸入に向けて～」https://x.com/IHI_ad/status/1904444488136950021
-  - ［SNS］2026-11-04「【本日リリース】インドから日本へのグリーンアンモニア供給についてS... sojitz_jp Jun 5 【本日リリース】インドから日本へのグリーンアンモニア供給についてSembcorpおよび九州電力と基本合意 sojitz.com/jp/news/articl… #グリーンアンモニア #再生可能エネルギー 💬 0 🔄 0 🤍 18」https://x.com/sojitz_jp/status/1798608817535746237
-- SNS・note（note・本文）（23件）：
-  - ［SNS］2026-11-05「触媒の専門書8選｜『触媒調製ハンドブック 第2版』から水素・アンモニア・CO2まで【NTS触媒特集】」https://note.com/tag/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2
-  - ［SNS］2026-11-05「「グリーンアンモニアは危険で使い物にならない」と誤解して大恥をかいた僕がAIに教わった100年目の脱炭素解決策 ※プロンプト付」https://note.com/tag/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2
-  - ［SNS］2026-11-05「⚗️水素社会の現実とアンモニア燃料の未来：グリーンアンモニアが拓く脱炭素エネルギー体系」https://note.com/tag/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2
-  - ［SNS］2026-11-05「アンモニア燃料船は「船の話」ではない。7社連合に学ぶ、脱炭素ビジネスの勝ち方」https://note.com/tag/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2
-  - ［SNS］2026-11-05「アンモニアが未来のエネルギーを変える？ 窒素から生まれる新しい可能性」https://note.com/tag/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2
-- SNS・note（LinkedIn・検索結果の抜粋）（13件）：
+- SNS・note（LinkedIn・検索結果の抜粋）（17件）：
+  - ［SNS］2026-11-06「Green Ammonia Manufacturing Market Overview: Components ... 4 days ago · The global "Green Ammonia Manufacturing Market" is expected to witness a compound annual growth rate (CAGR) of 14.8% between 2026 and 2033.」https://www.linkedin.com/pulse/green-ammonia-manufacturing-market-overview-components-application-kbgbe
+  - ［SNS］2026-11-06「Akshay Jatin Solanki - Piping Engineer | Green Hydrogen ... Piping Engineer | Green Hydrogen · Green Ammonia · UHP Ammonia | ASME B31.3 · B31.12 · Experience: Waaree Energies · Education: Vidyavardhini's College of Engin」https://in.linkedin.com/in/akshay-jatin-solanki
+  - ［SNS］2026-11-06「Green Ammonia Market: The $3.73 Billion Clean Energy ... May 15, 2026 · Green ammonia changes everything. It uses the same Haber-Bosch synthesis process, but the hydrogen is derived from water electrolysis powered by ren」https://www.linkedin.com/pulse/green-ammonia-market-373-billion-clean-energy-revolution-wbmhc
+  - ［SNS］2026-11-06「Allied Green Ammonia Pty Ltd - LinkedIn Allied Green Ammonia Pty Ltd Chemical Manufacturing Perth, WA 1,581 followers Bringing the world with sustainable energy solutions for a brighter future.」https://au.linkedin.com/company/allied-green-ammonia
   - ［SNS］2026-11-05「グリーンアンモニアは、企業のクリーンエネルギーやサプライチェーン... Jun 23, 2025 · グリーンアンモニアは企業のサプライチェーンの設計と最適化のあり方を再構築しています。 農業、海運物流、重工業などの分野では、調達や燃料戦略に低炭素代替手段を組み込むことで、サプライチェーンの変動性や排出圧力が緩和されています。」https://jp.linkedin.com/pulse/green-ammonia-changing-how-enterprises-approach-aqxde?tl=ja
-  - ［SNS］2026-11-05「Green Ammonia is emerging as a promising Marine ... - LinkedIn Oct 29, 2026 · Asia-Pacific dominates the global Green Ammonia market with a 78.20% share, led heavily by China and India scaling up industrial-scale Renewab」https://www.linkedin.com/pulse/green-ammonia-emerging-promising-marine-fuel-also-can-giuseppe-panza-klpdc
-  - ［SNS］2026-11-05「UTKARSH DIXIT - Piping Engineer -Materials & Layout | Ex ...Pralhad Gupta - Mechanical Engineer | Green Hydrogen ...Akshay Jatin Solanki - Piping Engineer | Green Hydrogen ... Piping Engineer with 5+ years of experience 」https://in.linkedin.com/in/utkarshiitpalakkad1996
-  - ［SNS］2026-11-05「Green Ammonia Market: The $3.73 Billion Clean Energy ... May 15, 2026 · In this article, we'll break down what green ammonia is, why it's gaining such explosive momentum, who the key players are, where the market is head」https://www.linkedin.com/pulse/green-ammonia-market-373-billion-clean-energy-revolution-wbmhc
-  - ［SNS］2026-11-05「Allied Green Ammonia Pty Ltd - LinkedIn Allied Green Ammonia Pty Ltd | 1,581 followers on LinkedIn. Bringing the world with sustainable energy solutions for a brighter future.」https://au.linkedin.com/company/allied-green-ammonia
-- SNS・note（note・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-05「グリーンアンモニア世界市場レポート：主要企業、ランキング、成長予... May 25, 2026 · グリーンアンモニアとは、再生可能エネルギー由来の電力を用いて製造されたグリーン水素と窒素を反応させることで生成される低炭素アンモニアであり、製造工程におけるCO₂排出量を大幅に削減できる次世代エネルギー素材である。」https://note.com/qy_research/n/nbc7825892667
-  - ［SNS］2026-11-04「世界の グリーンアンモニア 市場動向、年平均成長率61.78%で ... 世界の グリーンアンモニア 市場動向、年平均成長率61.78%で ... note https://note.com > ビジネス > データ・分析」https://note.com/qy_research/n/n3f44e5542b64
-  - ［SNS］2026-11-04「グリーンアンモニア の人気・新着記事まとめ - note グリーンアンモニア の人気・新着記事まとめ - note note https://note.com > tag > グリーンアンモニア」https://note.com/tag/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2
-  - ［SNS］2026-11-04「グリーンアンモニア世界市場レポート：主要企業、ランキング、成長予... May 25, 2026 · グリーンアンモニアとは、再生可能エネルギー由来の電力を用いて製造されたグリーン水素と窒素を反応させることで生成される低炭素アンモニアであり、製造工程におけるCO₂排出量を大幅に削減できる次世代エネルギー素材である。近年、脱炭素政策の強化、水素エネルギー利用拡大 ...」https://note.com/qy_research/n/nbc7825892667
-- 検索結果の抜粋（25件）：
-  - ［一次］2026-11-05「資料4 我が国の燃料 アンモニア 導入・拡大に向けた取組 ... — 資料4 我が国の燃料 アンモニア 導入・拡大に向けた取組 ... 経済産業省 PDF https://www.meti.go.jp > energy_structure > pdf」https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/012_04_00.pdf
-  - ［一次］2026-11-04「中国吉林省の電投緑能、 グリーンアンモニア を韓国に 輸出 (中国) — 中国吉林省の電投緑能、 グリーンアンモニア を韓国に 輸出 (中国) ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/08」https://www.jetro.go.jp/biznews/2026/08/23a8fd67a5996cdd.html
-  - ［一次］2026-11-04「中国・国家電投、3750トンの グリーンアンモニア を韓国へ 輸出 — 中国・国家電投、3750トンの グリーンアンモニア を韓国へ 輸出 Science Portal Asia Pacific https://spap.jst.go.jp > china > news > topic_3_03」https://spap.jst.go.jp/china/news/260801/topic_3_03.html
-  - ［一次］2026-11-04「発電燃料としての輸入 グリーンアンモニア 利用の不経済性 — 発電燃料としての輸入 グリーンアンモニア 利用の不経済性 キヤノングローバル戦略研究所 PDF https://cigs.canon > uploads > sugiyama_note_260703」https://cigs.canon/uploads/2026/07/sugiyama_note_260703.pdf
-  - ［一次］2026-11-04「中国 吉林省の電投緑能、 グリーンアンモニア を 韓国 に輸出( 中国 ) — 中国 吉林省の電投緑能、 グリーンアンモニア を 韓国 に輸出( 中国 ) ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/08」https://www.jetro.go.jp/biznews/2026/08/23a8fd67a5996cdd.html
 - SNS・note（Facebook・検索結果の抜粋）（8件）：
   - ［SNS］2026-11-05「福島イノベ機構 - 日揮HD グリーンアンモニア実証施設起工式！... Nov 8, 2023 · 通常、アンモニア生成では大量の二酸化炭素が発生しますが、近隣のFH2Rからグリーン水素の供給を受け、二酸化炭素の排出量が少ないグリーンアンモニアの生成を目指します。」https://www.facebook.com/fukushimainnov/posts/日揮hd-グリーンアンモニア実証施設起工式10月31日火浪江の棚塩産業団地で日揮hdはグリーンアンモニア実証施設の起工式を行い福島イノベ機構も出席しました通常ア/1081927359735213/
   - ［SNS］2026-11-05「JERA Co., Inc. - 【グリーンアンモニア製造に関するReNew社との共同... Apr 18, 2024 · 【グリーンアンモニア製造に関するReNew社との共同開発契約の締結】 当社は、インドの再生可能エネルギー事業者であるReNew Energy Global PLCの子会社との間で、グリーンアンモニアの製造プロジェクトに関する共同開発契約を締結しました。 ...」https://www.facebook.com/JERA.co.jp/posts/グリーンアンモニア製造に関するrenew社との共同開発契約の締結当社はインドの再生可能エネルギー事業者であるrenew-energy-global-plcの子会/1068151471538775/
   - ［SNS］2026-11-05「Daigasグループ通信 - \グリーンアンモニア製造する米国スターファイ... Daigasグループの大阪ガスUSAは4月9日（日本時間）、空気と水からグリーンアンモニアを製造する装置を開発する米国スターファイアエナジー社に出資したことを発表しました。」https://www.facebook.com/DaigasGroup/posts/グリーンアンモニア製造する米国スターファイアエナジー社に出資daigasグループの大阪ガスusaは4月9日日本時間空気と水からグリーンアンモニアを製造する装置を/3739082062855614/
   - ［SNS］2026-11-05「(English Version Follows) ⭕️グリーンアンモニア事業調査に関するオ... Dec 12, 2023 · ⭕️今後について： 丸紅は、中期経営戦略「GC2024」にてグリーン戦略を掲げ、「グリーン事業の強化」と「全事業のグリーン化推進」により、グリーンのトップランナーになることを目指しています。」https://www.facebook.com/marubeni.jp/videos/english-version-follows️グリーンアンモニア事業調査に関するオマーンhydromとの契約締結について️概要丸紅はオマーン王国国営石油会社傘/1516605119179497/
   - ［SNS］2026-11-04「(English Version Follows) ⭕️グリーンアンモニア事業調査に関するオ... Dec 12, 2023 · 同契約により、今後47年間にわたり、Hydromから本コンソーシアムに対して、事業開発権・用役権が付与されます。 これをもとに、本コンソーシアムは、今後本格的な事業化調査を行った上で、事業開発、グリーンアンモニアサプライチェーン構築を目指し ...」https://www.facebook.com/marubeni.jp/videos/english-version-follows️グリーンアンモニア事業調査に関するオマーンhydromとの契約締結について️概要丸紅はオマーン王国国営石油会社傘/1516605119179497/
+- SNS・note（note・本文）（37件）：
+  - ［SNS］2026-11-06「グリーンアンモニアとは？ | 週刊アンモニア #7｜Neology🇨🇭」https://note.com/neology/n/ndd9b1ed8d044
+  - ［SNS］2026-11-06「グリーンアンモニアとは？ | 週刊アンモニア #7」https://note.com/neology/n/ndd9b1ed8d044
+  - ［SNS］2026-11-06「今週の週刊アンモニアは、最近ますます注目が高まっている」https://note.com/neology/n/ndd9b1ed8d044
+  - ［SNS］2026-11-06「アンモニアを初めて知る方から、よくいただく質問です。」https://note.com/neology/n/ndd9b1ed8d044
+  - ［SNS］2026-11-06「再生可能エネルギーを使って製造される脱炭素型のアンモニア」https://note.com/neology/n/ndd9b1ed8d044
 ### 日本→海外（輸出）｜合成燃料（e-fuels）
 - 取得：2026-11-05T04:31・調査2回目・読んだ頁71
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
@@ -423,92 +432,97 @@
   - ［SNS］2026-11-04「地熱発電 ：世界の動向 (特にケニアとアメリカを中心に) - note 地熱発電 ：世界の動向 (特にケニアとアメリカを中心に) - note note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/satoko_matsuda/n/ncf8a8c35599a
   - ［SNS］2026-11-04「地熱発電 のお話｜レモン/温泉好き - note 地熱発電 のお話｜レモン/温泉好き - note note https://note.com > レモン/温泉好き」https://note.com/cheeky_honest673/n/n976ad1b8f7c3
 ### 日本→海外（輸出）｜洋上風力（offshore wind）
-- 取得：2026-11-05T02:52・調査2回目・読んだ頁80
-- 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
-- 顧客（金を払う側）（72件）：
-  - ［一次］2026-11-05「概観、諸外国の洋上風力政策の概観、洋上風力産業のサプライチェーン構造、風車 OEM 工場」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「 日本は中長期で導入目標（2040年30–45GW）を掲げており、着床式に加え、浮体式の本格導入も市場拡大」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「 風車OEMのKBF（Key Buying Factor）は「信頼性」・「調達力」・「技術適合性」であり、国際標準と現地基準の」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「ブレード・ナセル一体型工場を誘致した場合の10年間の経済波及効果は、地域内調達率が20%で」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「3,400億円、同調達率50%で6,900億円となり、波及効果を高めるには地域内での調達比率を高める取り組みが」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-- 顧客の顧客（発注元が求めること）（42件）：
-  - ［一次］2026-11-05「概観、諸外国の洋上風力政策の概観、洋上風力産業のサプライチェーン構造、風車 OEM 工場」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「 風車OEMのKBF（Key Buying Factor）は「信頼性」・「調達力」・「技術適合性」であり、国際標準と現地基準の」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「04 風車OEM工場を誘致した場合の裨益効果や経済波及効果 ………… P. 37」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「洋上風力市場の概観 諸外国の洋上風力政策の概観 洋上風力産業のサプライチェーン構造 風車OEM工場を誘致した場合の裨益効果や経済波及効果 洋上風力推進に向けた地域の取組」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「→ 2019年段階的に現地調達義務を開発業者に要求」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-- 顧客の競合（奪いに来る側）（74件）：
-  - ［一次］2026-11-05「2023～2024年の世界半導体市場の見通しと米国の戦略」https://www.jetro.go.jp/biz/areareports/2026/c50804350cbaa5f9.html
-  - ［一次］2026-11-05「中国のレアアース輸出管理（1）日本への磁石輸出に大きな影響」https://www.jetro.go.jp/biz/areareports/2026/c50804350cbaa5f9.html
-  - ［一次］2026-11-05「米国2026年中間選挙（1）上院での多数派を目指す民主党の戦い」https://www.jetro.go.jp/biz/areareports/2026/c50804350cbaa5f9.html
-  - ［一次］2026-11-05「 洋上風力市場は欧州・中国が牽引する一方、成長率ではアジア各国（除く中国）が最も高い局面に入っている」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「 2024年：欧州42%、中国48%」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-- 自社の競合（商社・代理店・仲介）（39件）：
+- 取得：2026-11-06T03:44・調査3回目・読んだ頁79
+- 痛み・損（深さの印）（6件）：
+  - ［一次］2026-11-06「コスト約40％上昇（約760億円の損失を」https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf
+  - ［一次］2026-11-06「コスト上昇(約6100億円の損失を計上)」https://www.meti.go.jp/shingikai/santeii/pdf/112_01_00.pdf
+  - ［記事］2026-11-06「定期点検にトラブル対応の人員を加えると計約4500人の作業員が必要になり、高齢化や転職による離職を考慮すると30年までに4500～6750人、現在の約10倍に上る人材育成が必要になると推計している」https://blogs.ricoh.co.jp/RISB/environment/post_886.html
+  - ［記事］2026-11-06「は6日、2024年4～12月期の連結決算（国際会計基準）を発表し、国内3海域のプロジェクトで522億円の損失を計上した」https://www.nikkei.com/article/DGKKZO86584180X00C25A2EA2000/
+  - ［記事］2026-11-06「この事業撤退により、企業連合（三菱商事、中部電力グループなど）からは約200億円の保証金没収の他、三菱商事が2024年度連結決算で525億円の損失計上をするなど、事業各社が損失計上を進めています」https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=5654
+- 顧客（金を払う側）（121件）：
+  - ［一次］2026-11-06「洋上風力発電の導入をいち早く取り入れた欧州・米国」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「2024年現在、900名の海洋エネルギー開発にかかわる企業の社会人が受講し、主に技術者育成の拠点として活用されています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「導入量の予測、各国・地域の目標、日本の動向、そして洋上風力に関連する各論について詳述しています」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「1-1 世界：洋上風力発電の導入実績」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「1-2 世界：2024年導入設備容量と地域割合」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+- 顧客の顧客（発注元が求めること）（56件）：
+  - ［一次］2026-11-06「高さが最大190m以上（50階建てビルに相当）にのぼり、波による揺れも発生する洋上風力発電においては、メンテナンスの実施に高度な技術が要求されます」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「従来より石油天然ガス開発において洋上作業人材が求められてきた背景もあり、石油天然ガス開発業界で得た知見や人材が脱炭素の流れを受けて洋上風力発電業界に移行しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「洋上風力発電の国際的機関であるGWO（国際風力機関）の認証を受けた訓練を提供する拠点です」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「年間に最大1,000人の訓練能力を有し、高所作業や海上サバイバル訓練などのGWO認証訓練に加えて世界初の実海域での洋上風車への移乗訓練など、洋上風力発電の実践的なメンテナンス作業を見据えた訓練プログラムを準備しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「安定供給と脱炭素の道筋を切り開くのは国の責任であり、合理性のない再エネの大量導入で高い電気代を国民に押しつけるのは国民への背信であろう」https://ieei.or.jp/2025/04/aesj-engy_20250421/
+- 顧客の競合（奪いに来る側）（121件）：
+  - ［一次］2026-11-06「洋上風力発電の導入をいち早く取り入れた欧州・米国」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「2-2 欧州：洋上風力発電の導入目標比較」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「2-3 欧州：洋上風力発電の導入目標に関する政策比較」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「3-2 欧州：洋上風力発電の新規導入量の見通し」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「3-3 中国：洋上風力発電の新規導入量の見通し」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+- 自社の競合（商社・代理店・仲介）（46件）：
+  - ［一次］2026-11-06「欧州連合： European Commission (2023), “Communication from the Commission to the European Parliament, the」https://eneken.ieej.or.jp/data/11716.pdf
+  - ［一次］2026-11-06「デンマーク： European Commission (2023), “Wind Pledges - European Wind Power Action”,」https://eneken.ieej.or.jp/data/11716.pdf
+  - ［一次］2026-11-06「オランダ： European Commission (2023), op. cit.」https://eneken.ieej.or.jp/data/11716.pdf
   - ［一次］2026-11-05「EU： EU Commission, “COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THECOMMITTEE OF THE」https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf
   - ［一次］2026-11-05「カリフォルニア州 : California Energy Commission, “Offshore Wind Energy Strategic Plan” （2024年6月）」https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf
-  - ［一次］2026-11-04「• EU Commission, “COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf
-  - ［一次］2026-11-04「• EU Commission” COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf
-  - ［一次］2026-11-04「• EU Commission, “COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
-- 政治（法・予算・規制）（58件）：
-  - ［一次］2026-11-05「2025 年２月に閣議決定された GX2040 ビジョンにおいては、付加価値の高い新たな産」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「予算£5.44億」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「FIT・RPS等の価格支援と税制優遇・補助金を組み合わせ、洋上風力市場を創出」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「*1： RPS：再生可能エネルギー義務化制度、*2：REC：再生可能エネルギー証書、*3：Viability Gap Fundingインフラ開発補助金制度、現在グジャラート州とタミル・ナードゥ州沖の洋上風力PJが対象」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「洋上風力設備の関税免除、」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-- 経済（規模・価格・為替）（86件）：
-  - ［一次］2026-11-05「3,400億円、同調達率50%で6,900億円となり、波及効果を高めるには地域内での調達比率を高める取り組みが」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「• 2024年から2033年の年平均成長率」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「限価格引上げ＋契約20年延」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「（2024/12期決算での売上割合） 事業概要」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「（2024/9期決算での売上割合） 事業概要」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-- 社会（人・担い手）（38件）：
-  - ［一次］2026-11-05「• 洋上風力で10万人の雇用計」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「5.5万人の雇用創出を見据え」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「9.4万人の雇用創出目標」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「• 直接：約1,000人（技能職」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「表１から、洋上風力は風車や基礎構造物の製造から海上輸送、据付工事、送電設備、運転保守まで、陸上風力と比べ更に多くの企業や人材が関与することがわかります」https://www.nef.or.jp/topics/2026/20260630.html
-- 技術（新しい技術・実証）（47件）：
-  - ［一次］2026-11-05「15MW級タービンの実証試験」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「*1： RPS：再生可能エネルギー義務化制度、*2：REC：再生可能エネルギー証書、*3：Viability Gap Fundingインフラ開発補助金制度、現在グジャラート州とタミル・ナードゥ州沖の洋上風力PJが対象」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「→ 2019年段階的に現地調達義務を開発業者に要求」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「*1： APQPはAdvanced Product Quality Planning、PPAPはProduction Part Approval Process、FMEAはFailure Mode and Effects Analysis、RFQはRequest for Quotationの略」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-  - ［一次］2026-11-05「北海道 HOKKAIDO洋上風力産業推進ネットワーク」https://www.gxa.go.jp/news/.assets/20260406b.pdf
-- SNS・note（LinkedIn・検索結果の抜粋）（15件）：
-  - ［SNS］2026-11-05「洋上風力タービンタワーの地域別シェアと主要企業 1 day ago · 洋上風力タービンタワーの主要サプライヤーであるSiemens Gamesa、Vestas Towers、Senvion GmbH、Nordex Group、CS Wind、Arcosa Towers、Broadwind Energy、Valmont SM、Marmen、DONGKUK S&C、KGW、Navacel、Titan Wind、Shanghai Taish」https://jp.linkedin.com/pulse/洋上風力タービンタワーの地域別シェアと主要企業-all-around-motors-wv9jf
-  - ［SNS］2026-11-05「洋上風力の廃止:今後の展開を念頭に置き、廃止から再発電のための設計... May 22, 2026 · 洋上風力発電所の第一世代が設計寿命の終わりに近づく中、洋上風力産業は新しく、あまり馴染みのない段階に入りつつあります。所有者はもはや資産が安全に稼働できるかどうかを単に問うのではなく、寿命延長、廃止、将来の敷地利用に関するより広範な意思決定を模索しています。 洋上 ...」https://jp.linkedin.com/pulse/offshore-wind-decommissioning-keeping-mind-what-comes-john-king-mbese?tl=ja
-  - ［SNS］2026-11-05「#offshorewind #tokyo #offshorewindevent #洋上風力イベント ... Japanese Market Update #OffshoreWind / The first Networking Night of the "SWind Network" was held in #Tokyo. (09/09/2025) #OffshoreWindEvent #洋上風力イベント We were delight」https://www.linkedin.com/posts/sayuriwatanabe_offshorewind-tokyo-offshorewindevent-activity-7371107041936936960--m2g
-  - ［SNS］2026-11-05「U.S. Offshore Wind: An Update on Near-Term Projects - LinkedIn Mar 24, 2025 · The U.S. offshore wind industry, while making leaps and bounds in some areas, has faced a significant amount of turbulence in recent years. A 」https://www.linkedin.com/pulse/us-offshore-wind-update-near-term-projects-s7zhe/
-  - ［SNS］2026-11-05「Offshore Wind Farm Jobs in United States (10,000+ Open Roles ... Today’s top 10,000+ Offshore Wind Farm jobs in United States. Leverage your professional network, and get hired. New Offshore Wind Farm jobs added daily.」https://www.linkedin.com/jobs/offshore-wind-farm-jobs
-- SNS・note（note・検索結果の抜粋）（9件）：
+- 政治（法・予算・規制）（96件）：
+  - ［一次］2026-11-06「政府も2020年に2050年カーボンニュートラル宣言を行い、2030年までに10GW（10MWの風車1,000基相当）、2040年までに30～45GWの洋上風力発電の稼働を目標に定め、普及に向けて動きが加速しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「案件は価格決定が競争入札制に移行するため、その影響が懸念されているが、過去に固定価格買取制度が終了した後も、政府の財政支援なしに産業が成」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「5.6GWを導入するという政府目標の達成は難しそうである」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「2022年に洋上風力ロードマップを発表し、再生可能エネルギーへの外資規制を」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「政府は2028」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+- 経済（規模・価格・為替）（131件）：
+  - ［一次］2026-11-06「and areas of industrial growth」 （2025年6月）」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「出典） RenewableUK「Map of the UK’s wind energy supply chain and areas of industrial growth」（2025年6月）」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf
+  - ［一次］2026-11-06「三菱商事は落札した秋田沖など3海域洋上風力事業で522億円の減損損失を計上し、他の風力事業を含めて事業性の再評価を検討中である」https://ieei.or.jp/2025/04/aesj-engy_20250421/
+  - ［一次］2026-11-06「しかし、海洋利用に関する統一的なルールがない事、海運や漁業等の地域先行利用者との調整に係る枠組みがない状況にあった事、価格の目安として36円/kWhというFIT価格はあまりにも高額である等の課題があった」https://ieei.or.jp/2025/04/aesj-engy_20250421/
+  - ［一次］2026-11-06「140万kWのノーフォーク・ボレアス洋上風力の取引を22年に英国政府と締結したが当初予定していた投資額が40％上昇したとして23年7月に事業撤退を発表」https://ieei.or.jp/2025/04/aesj-engy_20250421/
+- 社会（人・担い手）（67件）：
+  - ［一次］2026-11-06「洋上風力人材育成プロジェクト | 日本財団」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「洋上風力人材育成プロジェクトとは、日本国内で普及が進む洋上風力発電において、不足が懸念される洋上風力人材」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「洋上風力人材とは、プロジェクトを企画・風車設計などを担う「技術者」、風車の建設や設置後のメンテナンスを担う「技能者」のことをいいます」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「従来より石油天然ガス開発において洋上作業人材が求められてきた背景もあり、石油天然ガス開発業界で得た知見や人材が脱炭素の流れを受けて洋上風力発電業界に移行しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「しかし、海洋開発の現場に乏しい日本では、洋上風力発電を設置する人材が慢性的に不足しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+- 技術（新しい技術・実証）（82件）：
+  - ［一次］2026-11-06「従来より石油天然ガス開発において洋上作業人材が求められてきた背景もあり、石油天然ガス開発業界で得た知見や人材が脱炭素の流れを受けて洋上風力発電業界に移行しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「しかし、海洋開発の現場に乏しい日本では、洋上風力発電を設置する人材が慢性的に不足しています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「2024年現在、900名の海洋エネルギー開発にかかわる企業の社会人が受講し、主に技術者育成の拠点として活用されています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「日本財団洋上風力人材育成センター（愛称：NOA TRAINING）」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「洋上風力発電に携わる技術者を対象にした教育プログラム（洋上風力発電におけるHSEや送電システム）の開発を担っています」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+- SNS・note（note・検索結果の抜粋）（13件）：
+  - ［SNS］2026-11-06「洋上風力発電のメリット・デメリットと海洋生物への影響 Feb 23, 2025 · 1. はじめに 洋上風力発電は、海上に風車を設置して電力を得る再生可能エネルギーの一つです。陸上よりも強い風が安定して吹き、大規模化が容易といった利点から、世界各国で急速に導入が進んでいます。一方で、海洋生物への影響をはじめとする環境リスクや、導入コストの高さ、漁業や ...」https://note.com/code4noto/n/nabacf71e578b
+  - ［SNS］2026-11-06「54. 洋上風力発電の基礎形式：モノパイル、ジャケット、重力式を比較 Jun 2, 2026 · はじめに：洋上風力発電の成否を分ける「足腰」の選定 洋上風力発電は、2050年カーボンニュートラルの実現に向けた「再生可能エネルギーの切り札」として期待されています。 その中で、海上に屹立する巨大な風車を支える「基礎（支持構造物）」は、プロジェクト全体の経済性と安全性を ...」https://note.com/sqcd_aid/n/nfb1cdf099c95
+  - ［SNS］2026-11-06「【2026年版】三菱商事の洋上風力撤退から学ぶ｜千葉県銚子市沖プロジ... Jul 6, 2026 · 三菱商事の洋上風力事業撤退はなぜ起きたのか？ 近年、脱炭素社会の実現に向けて注目を集めている「洋上風力発電」。その中でも大きな話題となったのが、千葉県銚子市沖の洋上風力発電事業です。 この事業は、総合商社の 三菱商事 を中心としたコンソーシアムが推進していましたが、2025 ...」https://note.com/ykkitau/n/ne33e4a2e4719
+  - ［SNS］2026-11-06「洋上風力は「何円なら動く」のか／政府がまだ示していない最大の論点... May 22, 2026 · 政府はまだ具体的な上限価格を示していない。 制度の方向性だけでは、洋上風力は動かない。 事業者が銀行融資を受け、最終投資判断（FID）を下せる水準でなければ意味がない。 では何円なのか、事業者は40円台半ば～50円台半ばを想定 問題はここからで ...」https://note.com/energypolicyjp/n/n1832db5f494b
   - ［SNS］2026-11-05「【 洋上風力 コラム#1】風車の巨大化とサプライチェーン① - note 【 洋上風力 コラム#1】風車の巨大化とサプライチェーン① - note note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/reny12779/n/n37c6c6b44189
-  - ［SNS］2026-11-05「洋上風力の人気・新着記事まとめ｜note 脱炭素社会の実現に向けた次世代エネルギーとして、洋上風力発電の導入が加速しています。 技術開発や投資動向、サプライチェーンの国産化に関する記事が集まっています。（AIまとめ）」https://note.com/hashtag/洋上風力
-  - ［SNS］2026-11-05「洋上風力発電に逆風、商社の戦略見直し加速－コスト高騰が直撃 Feb 6, 2025 · 三菱商事は2025年2月6日、洋上風力事業に関連する522億円の減損損失を計上。 資源高、円安、金利上昇といった外部環境の変化により、各社が慎重な姿勢へと転じ始めている。 本記事では、洋上風力発電をめぐる最新の状況と今後の展望について解説する。」https://note.com/k1996/n/ne0ae006b7cca
-  - ［SNS］2026-11-04「洋上風力 の人気・新着記事まとめ - note 洋上風力 の人気・新着記事まとめ - note note https://note.com > tag > 洋上風力」https://note.com/tag/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B
-  - ［SNS］2026-11-04「洋上風力 の課題を補完する「波力発電」の真価と - エネルギー 洋上風力 の課題を補完する「波力発電」の真価と - エネルギー note https://note.com > 科学・テクノロジー > エネルギー」https://note.com/reny12779/n/n957af0d32251
-- 検索結果の抜粋（39件）：
-  - ［一次］2026-11-05「洋上風力 産業ビジョン（第1次） 概要 — 洋上風力 産業ビジョン（第1次） 概要 経済産業省 PDF https://www.meti.go.jp > yojo_furyoku > pdf」https://www.meti.go.jp/shingikai/energy_environment/yojo_furyoku/pdf/002_02_01_01.pdf
-  - ［一次］2026-11-05「洋上風力 発電の動向 - 自然エネルギー財団 — 洋上風力 発電の動向 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > 202407_...」https://www.renewable-ei.org/pdfdownload/activities/202407_Offshorewindinfo.pdf
-  - ［一次］2026-11-04「日本の 洋上風力 産業（後編）欧州の収益化政策と秋田モデルに ... — 日本の 洋上風力 産業（後編）欧州の収益化政策と秋田モデルに ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biz > areareports > 2026」https://www.jetro.go.jp/biz/areareports/2026/c50804350cbaa5f9.html
-  - ［一次］2026-11-04「洋上風力 発電の 動向2025 - 自然エネルギー財団 — 洋上風力 発電の 動向2025 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > REI_OW...」https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack_2510.pdf
-  - ［一次］2026-11-04「洋上風力 — 洋上風力 内閣官房 PDF https://www.cas.go.jp > seisaku > dai16 > shiryo1-2」https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/senmonka_wg/dai16/shiryo1-2.pdf
+- SNS・note（LinkedIn・検索結果の抜粋）（19件）：
+  - ［SNS］2026-11-06「洋上風力タービンタワーの地域別シェアと主要企業 2 days ago · 洋上風力タービンタワーの主要サプライヤーであるSiemens Gamesa、Vestas Towers、Senvion GmbH、Nordex Group、CS Wind、Arcosa Towers、Broadwind Energy、Valmont SM、Marmen、DONGKUK S&C、KGW、Navacel、Titan Wind、Shanghai Tais」https://jp.linkedin.com/pulse/洋上風力タービンタワーの地域別シェアと主要企業-all-around-motors-wv9jf
+  - ［SNS］2026-11-06「Offshore Wind Jobs in United States (11,000+ Open Roles ... Today’s top 11,000+ Offshore Wind jobs in United States. Leverage your professional network, and get hired. New Offshore Wind jobs added daily.」https://www.linkedin.com/jobs/offshore-wind-jobs
+  - ［SNS］2026-11-06「Ralph T. - Offshore Wind - Global Net Zero - Energy ...Offshore Wind Contract Jobs in United Kingdom (3,000+ Open ...Ricardo Rocha - 20+ GW Delivered | 3 GW Tenders Won ...Ivo Lõhmus - Chartered Engineer | Offshore Wind 」https://uk.linkedin.com/in/ralphtorr
+  - ［SNS］2026-11-06「Offshore Wind Contract Jobs in United Kingdom (3,000+ Open ... Today’s top 3,000+ Offshore Wind Contract jobs in United Kingdom. Leverage your professional network, and get hired. New Offshore Wind Contract jobs added da」https://uk.linkedin.com/jobs/offshore-wind-contract-jobs
+  - ［SNS］2026-11-05「洋上風力タービンタワーの地域別シェアと主要企業 1 day ago · 洋上風力タービンタワーの主要サプライヤーであるSiemens Gamesa、Vestas Towers、Senvion GmbH、Nordex Group、CS Wind、Arcosa Towers、Broadwind Energy、Valmont SM、Marmen、DONGKUK S&C、KGW、Navacel、Titan Wind、Shanghai Taish」https://jp.linkedin.com/pulse/洋上風力タービンタワーの地域別シェアと主要企業-all-around-motors-wv9jf
+- SNS・note（Facebook・検索結果の抜粋）（11件）：
+  - ［SNS］2026-11-06「鳥海山沖洋上風力発電を考える会 - FacebookOffshore Wind Laboratory, 合同会社 洋上風力研究所能代山本洋上風力発電を考える会 | Facebook「北九州響灘洋上風力発電」 果てしなく広がる青い海と、空を彩る白い...石狩湾岸の風力発電を考える石狩市民 の会️ 飛行機の上から見つけた、台湾の海上風力発電！ 台湾上空を飛んでい...秋田風力発電コンソーシアム「秋田風作戦」 | Akita-shi Akit」https://www.facebook.com/yuzanoumi/
+  - ［SNS］2026-11-06「Offshore Wind Laboratory, 合同会社 洋上風力研究所能代山本洋上風力発電を考える会 | Facebook「北九州響灘洋上風力発電」 果てしなく広がる青い海と、空を彩る白い...石狩湾岸の風力発電を考える石狩市民 の会️ 飛行機の上から見つけた、台湾の海上風力発電！ 台湾上空を飛んでい...秋田風力発電コンソーシアム「秋田風作戦」 | Akita-shi Akita Offshore Wind Laboratory」https://www.facebook.com/Offshore.Wind.Lab/
+  - ［SNS］2026-11-06「「北九州響灘洋上風力発電」 果てしなく広がる青い海と、空を彩る白い... 4 days ago · 「北九州響灘洋上風力発電」 果てしなく広がる青い海と、空を彩る白い雲。 その水平線に静かに佇む、北九州の洋上風力発電の風 車たち。 海から吹く風を受け、ゆっくりと羽根を回す姿は、自 然と未来が織りなす美しい風景。 吉田勝美 and 2 others 3」https://www.facebook.com/sa.yu.ppp/videos/北九州響灘洋上風力発電果てしなく広がる青い海と空を彩る白い雲その水平線に静かに佇む北九州の洋上風力発電の風車たち海から吹く風を受けゆっくりと羽根を回す姿は自然と/1681262113528910/
+  - ［SNS］2026-11-05「鳥海山沖洋上風力発電を考える会 - FacebookOffshore Wind Laboratory, 合同会社 洋上風力研究所「北九州響灘洋上風力発電」 果てしなく広がる青い海と、空を彩る白い...能代山本洋上風力発電を考える会 | Facebook台湾・洋上風力の離岸距離40㌔へ 住民運動が政府動かす 国内では「2㌔...️ 飛行機の上から見つけた、台湾の海上風力発電！ 台湾上空を飛んでい...Shinichi Stern Kusa」https://www.facebook.com/yuzanoumi/
+  - ［SNS］2026-11-05「Offshore Wind Laboratory, 合同会社 洋上風力研究所「北九州響灘洋上風力発電」 果てしなく広がる青い海と、空を彩る白い...能代山本洋上風力発電を考える会 | Facebook台湾・洋上風力の離岸距離40㌔へ 住民運動が政府動かす 国内では「2㌔...️ 飛行機の上から見つけた、台湾の海上風力発電！ 台湾上空を飛んでい...Shinichi Stern Kusajima - Facebook Offshore W」https://www.facebook.com/Offshore.Wind.Lab/
+- 検索結果の抜粋（72件）：
+  - ［一次］2026-11-06「受注企業の巨額減損が示す 洋上風力 ビジネス ... - ［ 岐ベログ ］ — 受注企業の巨額減損が示す 洋上風力 ビジネス ... - ［ 岐ベログ ］ INFRONEER Holdings Inc. PDF https://www.infroneer.com > topblog > kibelog_vol18」https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf
+  - ［一次］2026-11-06「【提言】 洋上風力 発電導入計画の実態を明らかにし — 【提言】 洋上風力 発電導入計画の実態を明らかにし NPO法人 国際環境経済研究所 https://ieei.or.jp > 2025/04 > aesj-engy_20250421」https://ieei.or.jp/2025/04/aesj-engy_20250421/
+  - ［一次］2026-11-06「令和8年度 予算 「 洋上風力 発電人材育成事業費 補助金 」の事務 ... — 令和8年度 予算 「 洋上風力 発電人材育成事業費 補助金 」の事務 ... 資源エネルギー庁 https://www.enecho.meti.go.jp > appli > public_offer」https://www.enecho.meti.go.jp/appli/public_offer/2025/0127_02.html
+  - ［一次］2026-11-06「洋上風力人材育成プロジェクト - 日本財団 — Nov 7, 2024 · 洋上風力発電の国際的機関であるGWO（国際風力機関）の認証を受けた訓練を提供する拠点です。年間に最大1,000人の訓練能力を有し、高所作業や海上サバイバル訓練などのGWO認証訓練に加えて世界初の実海域での洋上風車への移乗訓練など、洋上風力発電の実践的なメンテナンス作業を見据えた ...」https://www.nippon-foundation.or.jp/what/projects/offshorewind
+  - ［一次］2026-11-06「2050年カーボンニュートラルに向けた 洋上風力発電人材育成の取り組み... — 日本財団洋上風力人材育成センター(24年11月完成) ・ 洋上風力発電の現場を有し、古くから漁業・造船業など海とともに発展してきた長崎県に拠点を設置 • これまでの知見を活用し、長崎県が「洋上風力発電の人材育成のモデル拠点」となることを目指す」https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai77/77shiryou2_3.pdf
 - SNS・note（X・検索結果の抜粋）（11件）：
   - ［SNS］2026-11-05「大林組【公式】 on X: "「次世代の洋上風力発電」として注目される #... 「次世代の洋上風力発電」として注目される #浮体式洋上風力発電 🌊⚡️ 日本周辺のような水深の深い海域で導入が期待される発電方式です。 大林組が研究開発を進めているのは「TLP型ハイブリッド構造」。 鋼材とコンクリートを組み合わせることで、低コスト化や量産化を目指します！」https://x.com/OBAYASHI_JP/status/2104813430146543738
   - ［SNS］2026-11-05「東京電力ホールディングス 株式会社 on X: "【浮体式洋上風力発電のゲ... 【浮体式洋上風力発電のゲームチェンジャー！🌊次世代浮体式風車「FAWT」の海上実証を開始】 当社を含む6社で構成されるコンソーシアム＊は、次世代浮体式風車「浮遊軸型風車＝FAWT（ファウト）」の小型実験機を長崎県壱岐市内の実証海域に設置し、海上実証を開始しました🌊 FAWTは、従来 ...」https://x.com/OfficialTEPCO/status/2074772978911305796
   - ［SNS］2026-11-05「海洋インフラ技術ノート (@oceaninfranote) / X 海洋インフラの技術情報メディア。海底送電ケーブル、海底通信ケーブル、洋上風力、海洋土木などを対象に、国内外の公開一次情報を中心としたニュース・技術解説を発信します。運営：海の技術屋さん」https://x.com/oceaninfranote
   - ［SNS］2026-11-05「【公式】株式会社RYXTEC（リテック） on X: "【最新の再エネニュース ... 【公式】株式会社RYXTEC（リテック） on X: "【最新の再エネニュース🌊】 海に浮かべた風車で電気をつくる計画に、心強い仲間が加わりました！ 「浮体式洋上風力」の実現に向けて、経済産業省とシーメンスエナジー社が協力の約束を交わしました🤝 同社は北海道に、アジア初の点検・修理の ...」https://x.com/RYXTEC142866/status/2118116080484823237
   - ［SNS］2026-11-05「FX・CFDのOANDA証券株式会社【公式】 on X: "【速報】洋上風力推進へ... 【速報】洋上風力推進へ海外勢誘致 ※記事は投稿時点の内容です。 #OANDA #ニュース 27 Oct 2026 10:15:24」https://x.com/OANDAjp/status/2115024556146729300
-- SNS・note（note・本文）（47件）：
-  - ［SNS］2026-11-05「【2026年版】マッコーリー・グループ日本 ケース面接対策100選｜インフラ投資・PF・コモディティ・M&Aの回答プロセスとOK/NG回答を徹底解説」https://note.com/tag/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B
-  - ［SNS］2026-11-05「【元ラグビー日本代表にインタビュー】ラグビーから学んだことは、同じ目標に向けて自分に何が求められているかを理解し、そこに全力を投下するということ。」https://note.com/tag/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B
-  - ［SNS］2026-11-05「海から、日本を元気に。｜見えない海を"手に取るように"わかる世界へ「海洋デジタルツイン」【CEATEC 2026 出展者インタビュー・富士通株式会社】」https://note.com/tag/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B
-  - ［SNS］2026-11-05「【洋上風力コラム#1】風車の巨大化とサプライチェーン①｜Yuto Ito / 船舶・海洋の技術士」https://note.com/reny12779/n/n37c6c6b44189
-  - ［SNS］2026-11-05「【洋上風力コラム#1】風車の巨大化とサプライチェーン①」https://note.com/reny12779/n/n37c6c6b44189
-- SNS・note（Facebook・検索結果の抜粋）（8件）：
-  - ［SNS］2026-11-05「鳥海山沖洋上風力発電を考える会 - FacebookOffshore Wind Laboratory, 合同会社 洋上風力研究所「北九州響灘洋上風力発電」 果てしなく広がる青い海と、空を彩る白い...能代山本洋上風力発電を考える会 | Facebook台湾・洋上風力の離岸距離40㌔へ 住民運動が政府動かす 国内では「2㌔...️ 飛行機の上から見つけた、台湾の海上風力発電！ 台湾上空を飛んでい...Shinichi Stern Kusa」https://www.facebook.com/yuzanoumi/
-  - ［SNS］2026-11-05「Offshore Wind Laboratory, 合同会社 洋上風力研究所「北九州響灘洋上風力発電」 果てしなく広がる青い海と、空を彩る白い...能代山本洋上風力発電を考える会 | Facebook台湾・洋上風力の離岸距離40㌔へ 住民運動が政府動かす 国内では「2㌔...️ 飛行機の上から見つけた、台湾の海上風力発電！ 台湾上空を飛んでい...Shinichi Stern Kusajima - Facebook Offshore W」https://www.facebook.com/Offshore.Wind.Lab/
-  - ［SNS］2026-11-05「「北九州響灘洋上風力発電」 果てしなく広がる青い海と、空を彩る白い... 3 days ago · 「北九州響灘洋上風力発電」 果てしなく広がる青い海と、空を彩る白い雲。 その水平線に静かに佇む、北九州の洋上風力発電の風 車たち。 海から吹く風を受け、ゆっくりと羽根を回す姿は、自 然と未来が織りなす美しい風景。 吉田勝美 and 2 others 3」https://www.facebook.com/sa.yu.ppp/videos/北九州響灘洋上風力発電果てしなく広がる青い海と空を彩る白い雲その水平線に静かに佇む北九州の洋上風力発電の風車たち海から吹く風を受けゆっくりと羽根を回す姿は自然と/1681262113528910/
-  - ［SNS］2026-11-05「能代山本洋上風力発電を考える会 | Facebook 【遊佐沖洋上風力発電——意見書の締切は8月31日（ 月）です】 環境影響評価「準備書」への意見書について、noteを 書きました。 準備書への意見書は、住民が事業者に直接意見を届 けられる最後の機会です（この後は知事・大臣意見 の段階に進みます）。」https://www.facebook.com/groups/972169633202222/
-  - ［SNS］2026-11-04「Offshore Wind Laboratory, 合同会社 洋上風力研究所 Offshore Wind Laboratory, 合同会社 洋上風力研究所. 43 followers. 洋上風力発電や陸上風力発電の風の調査（風況観測）、評価、数値シミュレーション（CFD、WRF）などを行っています。」https://www.facebook.com/Offshore.Wind.Lab/
+- SNS・note（note・本文）（79件）：
+  - ［SNS］2026-11-06「洋上風力発電のメリット・デメリットと海洋生物への影響｜Code for Noto」https://note.com/code4noto/n/nabacf71e578b
+  - ［SNS］2026-11-06「洋上風力発電のメリット・デメリットと海洋生物への影響」https://note.com/code4noto/n/nabacf71e578b
+  - ［SNS］2026-11-06「洋上風力発電は、海上に風車を設置して電力を得る再生可能エネルギーの一つです。陸上よりも強い風が安定して吹き、大規模化が容易といった利点から、世界各国で急速に導入が進んでいます。一方で、海洋生物への影響をはじめとする環境リスクや、導入コストの高さ、漁業や航路利用者との利害調整など、いくつもの課題を抱えています。本記事では、洋上風力発電のメリットとデメリットを整理し、特に海洋生物に対する悪影響に焦点を当てた学術的知見をまとめます。」https://note.com/code4noto/n/nabacf71e578b
+  - ［SNS］2026-11-06「国際エネルギー機関（IEA）や世界風力エネルギー協会（GWEC）の報告によれば、近年の洋上風力市場は急速に拡大しており、特に欧州と中国が先行しています。2022年時点で世界の洋上風力累積導入量は約63GWに達し、今後さらに急拡大すると見込まれています［1,2］。」https://note.com/code4noto/n/nabacf71e578b
+  - ［SNS］2026-11-06「イギリスやドイツ、デンマークを中心に大規模な洋上風力発電所が運用されています。例えば、イギリスのホーンジー（Hornsea）風力発電所は総設備容量が1,200MWを超え、世界最大級です。」https://note.com/code4noto/n/nabacf71e578b
 ### 日本→海外（輸出）｜小型モジュール炉（small modular reactor）
 - 取得：2026-11-05T04:31・調査2回目・読んだ頁72
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）

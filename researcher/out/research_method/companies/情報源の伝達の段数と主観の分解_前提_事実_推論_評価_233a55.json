@@ -1,0 +1,734 @@
+{
+ "name": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
+ "en": "source hops chain of custody intelligence information decomposition assumptions facts inferences",
+ "aliases": [
+  "二次情報 伝聞 劣化 リサーチ",
+  "intelligence report separate facts assumptions judgments",
+  "source chain secondary reporting degradation"
+ ],
+ "context": "出どころ",
+ "kind": "market",
+ "researched_at": "2026-11-06T03:39:48.721492+00:00",
+ "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What Are the 8 Most Common OSINT Chain-of-Custody Mistakes?",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This can create concerns about selective reporting or confirmation bias, particularly when the investigation is challenged.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is there a documented record of the investigative steps used to reach the conclusion?",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Document the tools, methods, and relevant technical conditions used to access and capture the evidence.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Source URL and access method",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The most common OSINT chain-of-custody failures occur when investigators collect information without preserving the metadata, methodology, and contextual records needed to verify it later.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Capturing visual evidence without documenting its source, timestamp, or collection method.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Transferring evidence without the methodology and context supporting it.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "However, the investigator fails to preserve the source URL, capture timestamp, collection method, or file integrity information.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Use suitable archival methods when available.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Preserve the search methodology and significant investigative steps.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Preserve Digital Evidence During OSINT Investigations",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The final report should connect conclusions to the evidence and methodology supporting them.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Collection dates and methods",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Important investigative steps",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "For example, a screenshot of a threat actor’s forum post may preserve its visible content. But the screenshot alone may not establish when the post was accessed, whether the investigator was authenticated, or what information was visible elsewhere on the page.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Investigative team or case assignment",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Associate evidence with the relevant case or investigation.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, an investigator correlating a forum username with a social media profile should retain the underlying observations supporting that connection.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, an investigator may capture a screenshot in one application, document its source in a spreadsheet, store the file in a shared folder, and communicate analytical context through a separate messaging platform.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It is maintaining a consistent relationship between the evidence, the collection process, and the investigative decisions made throughout the case.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Silo Case Manager supports the organization of investigation content and context, while Silo Drive provides capabilities for sharing collected material across authorized teams.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This can help teams apply appropriate access controls, manage investigative resources, and support accountability across analysts and cases.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Silo Case Manager and Silo Drive support evidence organization and team collaboration.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Centralized workflows help preserve relationships between collected artifacts and case context.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/fladdict/n/n247e5dcbaf1b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zenkok/n/n739bfd686951",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/reading_monkey/n/n9010c821e570",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/reading_monkey/n/n4188e17ef405",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/catshun_/n/n99a8efd883c5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jack4manastalk/n/nae5c1f7c390a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/seminar_lab_jp/archives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shinu/n/n567c6705ec18",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.techscore.com/entry/2022/10/12/080000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/phenomenology/misc/52568953?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tasty_dunlin998/n/n781971b94ec4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cdfr.design.kyushu-u.ac.jp/lexicon/185/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zentsuken.net/journal/file/144_5.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www2.lib.keio.ac.jp/project/kitie/evaluate/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/manabuyasuda/articles/3950c61bea392f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukuba.repo.nii.ac.jp/records/2020601",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/gento-k/presentations/52284652?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://repository.kulib.kyoto-u.ac.jp/bitstreams/d8a6a6e8-3a99-40e7-a4cb-f55f5a7bc7c6/download",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jmfrri.gr.jp/wp-content/uploads/RRI_WG3_AI_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://truescreen.io/articles/digital-chain-of-custody-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komprise.com/glossary_terms/chain-of-custody/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cisa.gov/sites/default/files/publications/cisa-insights_chain-of-custody-and-ci-systems_508.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） site:note.com",
+   "results": [
+    "https://note.com/fladdict/n/n247e5dcbaf1b",
+    "https://note.com/zenkok/n/n739bfd686951",
+    "https://note.com/reading_monkey/n/n9010c821e570",
+    "https://note.com/reading_monkey/n/n4188e17ef405",
+    "https://note.com/catshun_/n/n99a8efd883c5",
+    "https://note.com/jack4manastalk/n/nae5c1f7c390a",
+    "https://note.com/kisaburo_y/n/n723408bc1a09",
+    "https://note.com/jack4manastalk/n/n880406135053",
+    "https://note.com/huge_kamaitachi/n/n707dbabbdbb9",
+    "https://note.com/it_navi/n/n1f9f54bdc8f3"
+   ]
+  },
+  {
+   "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） note",
+   "results": [
+    "https://note.com/seminar_lab_jp/archives",
+    "https://note.com/shinu/n/n567c6705ec18",
+    "https://blog.techscore.com/entry/2022/10/12/080000",
+    "https://note.com/fladdict/n/n247e5dcbaf1b",
+    "https://researchmap.jp/phenomenology/misc/52568953?lang=ja",
+    "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
+    "https://note.com/tasty_dunlin998/n/n781971b94ec4",
+    "https://www.chuo-u.ac.jp/uploads/2018/11/7394_commentary20_02-05.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/niwatori_keirin/n/nc3da00c42d7b"
+   ]
+  },
+  {
+   "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） やり方",
+   "results": [
+    "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
+    "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://www.cdfr.design.kyushu-u.ac.jp/lexicon/185/",
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://www2.lib.keio.ac.jp/project/kitie/evaluate/index.html",
+    "https://zenn.dev/manabuyasuda/articles/3950c61bea392f",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://saycon.co.jp/archives/neta/%E3%80%90%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%80%91%E5%A0%B1%E5%91%8A%E4%B8%8A%E6%89%8B%E3%81%AF%E3%81%93%E3%81%93%E3%81%8C%E9%81%95%E3%81%86%EF%BC%81%E3%80%8C%E4%BA%8B%E5%AE%9F%E3%80%8D",
+    "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
+   ]
+  },
+  {
+   "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） 事例",
+   "results": [
+    "https://www.zentsuken.net/journal/file/144_5.html",
+    "https://tsukuba.repo.nii.ac.jp/records/2020601",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://researchmap.jp/gento-k/presentations/52284652?lang=ja",
+    "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
+    "https://repository.kulib.kyoto-u.ac.jp/bitstreams/d8a6a6e8-3a99-40e7-a4cb-f55f5a7bc7c6/download",
+    "https://www.jmfrri.gr.jp/wp-content/uploads/RRI_WG3_AI_.pdf",
+    "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
+    "https://www.soumu.go.jp/main_content/001016953.pdf",
+    "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
+   ]
+  },
+  {
+   "query": "source hops chain of custody intelligence information decomposition assumptions facts inferences",
+   "results": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
+    "https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody",
+    "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "https://truescreen.io/articles/digital-chain-of-custody-guide/",
+    "https://www.komprise.com/glossary_terms/chain-of-custody/",
+    "https://www.cisa.gov/sites/default/files/publications/cisa-insights_chain-of-custody-and-ci-systems_508.pdf",
+    "https://www.kusari.dev/learning-center/chain-of-custody/",
+    "https://www.next-sight.com/resources/chain-of-custody-osint",
+    "https://evidencemanagement.com/the-crucial-role-of-chain-of-custody-ensuring-evidence-integrity-and-quality-assurance/",
+    "https://en.wikipedia.org/wiki/Chain_of_custody"
+   ]
+  },
+  {
+   "query": "site:note.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
+   "results": [
+    "https://note.com/modern_flea8708/n/ndee8060bc853"
+   ]
+  },
+  {
+   "query": "site:x.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
+   "results": [
+    "https://note.com/tsuyu_glassmania/n/n9a3e8da2410e",
+    "https://note.com/vivid_crab2704/n/n7bdaa870499d",
+    "https://note.com/niwatori_keirin/n/nc3da00c42d7b",
+    "https://note.com/fond_bee9001/n/nfb12449e0dfb",
+    "https://note.com/blitz_kun/n/n69e2f77eeba5",
+    "https://note.com/kenhoshino2025/n/ncec38c2088ec",
+    "https://note.com/spaceground/n/n6a55796143c6",
+    "https://note.com/terueda/n/nd6c5923980e2",
+    "https://note.com/rn_thinking/n/nc2922b2527f9",
+    "https://note.com/stoneweb_writing/n/n6da0f119b7a5"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
+   "results": [
+    "https://note.com/tsuyu_glassmania/n/n9a3e8da2410e",
+    "https://note.com/vivid_crab2704/n/n7bdaa870499d",
+    "https://note.com/niwatori_keirin/n/nc3da00c42d7b",
+    "https://note.com/fond_bee9001/n/nfb12449e0dfb",
+    "https://note.com/blitz_kun/n/n69e2f77eeba5",
+    "https://note.com/kenhoshino2025/n/ncec38c2088ec",
+    "https://note.com/spaceground/n/n6a55796143c6",
+    "https://note.com/terueda/n/nd6c5923980e2",
+    "https://note.com/rn_thinking/n/nc2922b2527f9",
+    "https://note.com/stoneweb_writing/n/n6da0f119b7a5"
+   ]
+  },
+  {
+   "query": "site:facebook.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
+   "results": [
+    "https://note.com/tsuyu_glassmania/n/n9a3e8da2410e",
+    "https://note.com/vivid_crab2704/n/n7bdaa870499d",
+    "https://note.com/niwatori_keirin/n/nc3da00c42d7b",
+    "https://note.com/fond_bee9001/n/nfb12449e0dfb",
+    "https://note.com/blitz_kun/n/n69e2f77eeba5",
+    "https://note.com/kenhoshino2025/n/ncec38c2088ec",
+    "https://note.com/spaceground/n/n6a55796143c6",
+    "https://note.com/terueda/n/nd6c5923980e2",
+    "https://note.com/rn_thinking/n/nc2922b2527f9",
+    "https://note.com/stoneweb_writing/n/n6da0f119b7a5"
+   ]
+  },
+  {
+   "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） note 社長",
+   "results": [
+    "https://note.com/shinu/n/n567c6705ec18",
+    "https://blog.techscore.com/entry/2022/10/12/080000",
+    "https://note.com/sudatakashi/n/n5831f0e3b883",
+    "https://agenda-note.com/brands/detail/id=8271",
+    "https://note.com/tasty_dunlin998/n/n781971b94ec4",
+    "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
+    "https://www.insource.co.jp/ihl/260804_data_literacy_dokkai.html",
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K20899",
+    "https://qiita.com/masato_makino/items/58a6eb864707c8b2d477",
+    "https://note.com/niwatori_keirin/n/nc3da00c42d7b"
+   ]
+  },
+  {
+   "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） X 投稿",
+   "results": [
+    "https://note.com/kawaidesign/n/ncc48348607be",
+    "https://qiita.com/f_uto/items/5464a85647f8765fbddb",
+    "https://grow-group.jp/archives/29326/",
+    "https://dxpo.jp/college/front/x-algorithm.html",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vIfV7Arhm0qD62Cdgr_ludrzjvBT3vum2UOFycRBq1wCutogn7B",
+    "https://digital.siance.co.jp/column/2023/08/twitter-x/",
+    "https://marketing.twitter.com/content/dam/marketing-twitter/apac/ja/insights/kakusan/kakusan.pdf",
+    "https://camtsuku.com/guide/3811",
+    "https://baigie.me/nippo/2025/09/11/x_algo/",
+    "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
+   ]
+  },
+  {
+   "query": "source hops chain of custody intelligence information decomposition assumptions facts inferences site:linkedin.com",
+   "results": [
+    "https://in.linkedin.com/in/nihan-anoop",
+    "https://it.linkedin.com/in/nicolabernini",
+    "https://www.linkedin.com/in/devinandrerhodes",
+    "https://es.linkedin.com/in/arnau-vil%C3%A0-phd-83413665",
+    "https://in.linkedin.com/in/dr-saurabh-pramanick-phd-31b8551a",
+    "https://ro.linkedin.com/in/andrei-cioroianu",
+    "https://en.wikipedia.org/wiki/Chain_of_custody",
+    "https://www.researchgate.net/publication/233326972_Analyzing_Evidence_and_Its_Chain_of_Custody_A_Mixed-Initiative_Computational_Approach",
+    "https://www.researchgate.net/publication/359449110_Chain_of_Custody_Scaling_the_Investigation_to_the_Event",
+    "https://www.cambridge.org/core/books/intelligence-analysis-as-discovery-of-evidence-hypotheses-and-arguments/chains-of-custody/C4551D55340C444A8C82C8158F289924"
+   ]
+  }
+ ],
+ "missing": {
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What Are the 8 Most Common OSINT Chain-of-Custody Mistakes?",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This can create concerns about selective reporting or confirmation bias, particularly when the investigation is challenged.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Is there a documented record of the investigative steps used to reach the conclusion?",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Document the tools, methods, and relevant technical conditions used to access and capture the evidence.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Source URL and access method",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The most common OSINT chain-of-custody failures occur when investigators collect information without preserving the metadata, methodology, and contextual records needed to verify it later.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Capturing visual evidence without documenting its source, timestamp, or collection method.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Transferring evidence without the methodology and context supporting it.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "However, the investigator fails to preserve the source URL, capture timestamp, collection method, or file integrity information.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Use suitable archival methods when available.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Preserve the search methodology and significant investigative steps.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Preserve Digital Evidence During OSINT Investigations",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The final report should connect conclusions to the evidence and methodology supporting them.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Collection dates and methods",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Important investigative steps",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "For example, a screenshot of a threat actor’s forum post may preserve its visible content. But the screenshot alone may not establish when the post was accessed, whether the investigator was authenticated, or what information was visible elsewhere on the page.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Investigative team or case assignment",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Associate evidence with the relevant case or investigation.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, an investigator correlating a forum username with a social media profile should retain the underlying observations supporting that connection.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, an investigator may capture a screenshot in one application, document its source in a spreadsheet, store the file in a shared folder, and communicate analytical context through a separate messaging platform.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It is maintaining a consistent relationship between the evidence, the collection process, and the investigative decisions made throughout the case.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Silo Case Manager supports the organization of investigation content and context, while Silo Drive provides capabilities for sharing collected material across authorized teams.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This can help teams apply appropriate access controls, manage investigative resources, and support accountability across analysts and cases.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Silo Case Manager and Silo Drive support evidence organization and team collaboration.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Centralized workflows help preserve relationships between collected artifacts and case context.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-06T03:39:48.721492+00:00"
+}

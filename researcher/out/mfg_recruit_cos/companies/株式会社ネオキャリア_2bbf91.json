@@ -4,7 +4,7 @@
   "ネオキャリア"
  ],
  "context": "採用サイト・採用代行（相場の出典）",
- "researched_at": "2026-11-05T19:30:12.239043+00:00",
+ "researched_at": "2026-11-06T04:03:22.515081+00:00",
  "official_url": "https://www.neo-career.co.jp/",
  "identified_by": "given",
  "profile": {
@@ -57,6 +57,18 @@
     "label": "事業概要",
     "value": "採用支援、就労支援、業務支援",
     "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "label": "サービス名",
+    "value": "登録者数 料金 スカウトメール通数",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1
+   },
+   {
+    "label": "ダイレクトリクルーティングサービス比較表",
+    "value": "各種ダイレクトリクルーティングサービスの比較表を無料でダウンロードできます。 主要ダイレクトリクルーティングの料金や会員層をまとめています。 ダイレクトリクルーティングサービスを選ぶ際にご活用ください。 資料請求ダウンロードする",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
     "pass": 1
    },
    {
@@ -474,1083 +486,6 @@
   ]
  },
  "evidence": {
-  "料金": [
-   {
-    "quote": "9,715百万円に対し、流動負債が7,512百万円であるため、",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資本金: 100百万円",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#23022 決算分析 : 株式会社ＹＭＦＧグロースパートナーズ 第10期決算 当期純利益 125百万円",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第10期決算において当期純利益125百万円を計上し、自己資本比率約91％という驚異的な財務健全性を達成した株式会社ＹＭＦＧグロースパートナーズの業績に大きな注目が集まっています",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#23021 決算分析 : 三井不動産レジデンシャルサービス中国株式会社 第27期決算 当期純利益 41百万円",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第27期決算において当期純利益41百万円を計上し、自己資本比率約63％という高水準の財務健全性を達成した三井不動産レジデンシャルサービス中国株式会社の業績が注目を集めています",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#23020 決算分析 : 株式会社アースクリエイト 第17期決算 当期純損失 194百万円（赤字）",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#23019 決算分析 : 株式会社ＳＣＲＥＥＮ ＳＰＥ テック 第43期決算 当期純利益 791百万円",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#23018 決算分析 : ダイワ電機精工株式会社 第50期決算 当期純利益 68百万円",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "勤続年数5年で50万円、10年で100万円を支給（+10日間の連続休暇）しています",
-    "url": "https://job.mynavi.jp/27/pc/search/corp68756/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "育休復職者のみならず、入社時・転居などで認可外保育所を利用する際に、認可保育所との保育料の差額を月額50,000円まで負担",
-    "url": "https://job.mynavi.jp/27/pc/search/corp68756/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "平均年収 +113万円",
-    "url": "https://note.com/jazzy_snipe8884/n/n46662ae9d5ae",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【2026年最新】求人媒体ランキング13選！中途採用の種類と選び方、費用相場を解説",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ネオキャリア 西澤 亮一｜4,000万円の赤字、リーマンショック",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "資本金：36,238万円",
-    "url": "https://www.jesra.or.jp/search/1339/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "勤続年数5年で50万円、10年で100万円を支給（+10日間の連続休暇）しています",
-    "url": "https://job.mynavi.jp/28/pc/search/corp68756/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "育休復職者のみならず、入社時・転居などで認可外保育所を利用する際に、認可保育所との保育料の差額を月額50,000円まで負担",
-    "url": "https://job.mynavi.jp/28/pc/search/corp68756/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "20代で起業、4000万円の赤字を1年半で黒字化",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業から1年半後に4000万円の赤字で倒産の危機を迎えるも、西澤さんの代表就任後1年半で黒字化、V字回復に成功されました",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして、自転車操業をしながら4000万円の赤字から黒字になったタイミングで、2003 年に1回目の理念・ビジョンを経営陣が中心となって作りました",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "はい、最初は4000万円の赤字で、給料も止まっていたので、とにかく黒字にしなければならないという状況でした",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業から1年半後に4000万円の赤字で倒産の危機を迎えるも、西澤が代表就任後1年半で黒字化、V字回復に成功する",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ネオキャリア 西澤 亮一｜4,000万円の赤字、リーマンショック",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "経営者一家の中で育ち、早くから起業家精神を培ってきた西澤氏ですが、起業早々に抱えた4,000万円の借金や、リーマンショック前後の急激な売り上げ減少により倒産危機を迎えるなど、その道のりは決して平坦ではなかったそうです",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "持ち前の上昇志向とチャレンジ精神で陣頭指揮を執り、わずか1年半の間に4,000万円の借金を完済し、その後は目覚ましい成長を続ける",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そういう死に物狂いの気持ちがあったからこそ、私が就任してから1年半で約4,000万円もの借金を返済することができたのだと思います",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "単月の粗利が1億円を超えていたものが、翌月には2,000万円まで急激に下がったことがあり、このままいけば4ヶ月もすれば倒産してしまう状態に陥りました",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CFOne（シフォン）木村優太｜費用は従来の約1/5！AI税務Saa…",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【2026年改正・税理士監修】基礎控除は最大104万円に！178万円の壁・年末調整はどう変わる？",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【2026年・令和8年】給与所得控除額の早見表｜74万円への引き上げ・年末調整の変更点",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【2026年最新・税理士監修】基礎控除は95万円から最大104万円へ！年末調整・年収別の控除額を解説",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【2026年速報】銀行振込手数料を徹底比較！最新情報を含めた一覧で解説",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ITエンジニアの採用成功事例｜転職フェアの活用で、採用単価45万円で経験者の採用に成功！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "応募者の質を改善し採用率を高めた事例｜原稿とスカウトの工夫で費用対効果の改善は可能！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "地方学生の採用事例｜採用単価を30万円削減しつつマイナビで母集団を形成する方法",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "LINEと連携した採用管理システムの導入事例｜アウトソーシング廃止によって、120万円のコスト削減に成功",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "高額だった割に採用に活かしきれていなかった適性テストを思い切って変更！100万円以上のコスト削減",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "予算に応じたチャネル・ツール・プランの選定、費用対効果や採用単価の可視化",
-    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用規模やターゲット、現状の課題に合わせてプランを組むため、料金は変動する仕組みです",
-    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人材紹介・求人媒体・Web広告といった手法の組み合わせから、専任コンサルタントによるプロジェクト統括まで、貴社専用のオーダーメイド体制を構築し、無駄を省いた適正価格でご提案します",
-    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "書類通過率94.7%・平均年収+113万円・全員20代のアドバイザー",
-    "url": "https://note.com/jazzy_snipe8884/n/n46662ae9d5ae",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新卒初任給：月給28万円（基本給20.7万円＋固定残業代7.3万円）",
-    "url": "https://note.com/oolong_note/n/n458a5921e47a",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開インタビューでは、設立から約1年半で4,000万円の赤字を抱え、一時は倒産の危機に直面したことが明かされています",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "様々な採用手法・料金形態のサービスを揃えているため、採用予算や採用エリアにあわせたご提案が可能です",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "※開催に必要な費用は企業からの協賛を募って確保し、参加校の交通・宿泊・準備費、会場費、広報・運営費などに充てる予定です",
-    "url": "https://www.neo-career.co.jp/news/article_26481/",
-    "pass": 1
-   },
-   {
-    "quote": "・年収600万円以上は転職経験者の約5割",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "■年収600万円以上の割合は、転職経験者で約5割",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "現在の年収について尋ねたところ、年収600万円以上の人の割合は、転職経験者で46.7%となりました",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "現在の年収のボリュームゾーンを見ると、転職経験者では「700万円以上1,000万円未満」が18.2%で最も多く、転職経験のない人では「300万円以上400万円未満」が21.2%で最多となりました",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "また、年収1,000万円以上の割合も、転職経験者では10.9%、転職経験のない人では6.7%となりました",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "一方、新卒時の年収は、転職経験者・転職経験のない人ともに「300万円以上400万円未満」が最も多く、それぞれ29.1%、28.5%でした",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "今回の調査では、転職経験者は新卒入社企業に勤続している人と比べ、マネジメントを担う割合や年収600万円以上の割合が高く、自身のスキルや知識が他社でも通用すると感じる人も多い結果となりました",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(4週間)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(1日)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(6ヶ月)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(月)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(人)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "求人媒体の料金一覧",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(単独掲載)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(ライトプラン)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(早期型プラン／3名)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(自社完結型プラン)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(1日程)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(1名)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(1週間)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "【導入事例6選】ワンキャリアの効果的な活用方法・料金・プラン選びを徹底解説",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "【45社比較表付き】採用代行（RPO）選定ガイド｜料金相場・見積もり比較のポイントまで解説",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "人を「集める」ための求人サイトへの掲載だけでなく、「繋ぐ」「見極める」「惹き付ける」「育成する」といった採用に関わる全てのフェーズに対してサービスを取り扱い、 各サービスを異なる会社に発注するよりも費用を抑えて人材を採用することが可能です",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "【2026年11月】engage（エンゲージ）のメリットは？クチコミや料金プラン解説付き",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "【最新版】求人広告の費用相場と掲載料金比較25選・効果改善解説付き",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "【2026年最新】求人ボックスとは？掲載方法・料金・スタンバイとの違い",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "それまでに数千万円の投資をしてきたにも関わらずこういった事態が起こってしまい、自身のプロジェクト進行やリスク管理の甘さを痛感しました",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "さまざま料金形態のサービスを揃えているため、採用予算にあわせたご提案も可能です",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "求職者がクリックしたときにのみ料金が発生するため、無駄なく予算を活用できます",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/",
-    "pass": 1
-   },
-   {
-    "quote": "内定承諾課金や説明会参加課金まで、文理別や地方などに特化したさまざまな種類の成功報酬型人材紹介サービスをご案内しております",
-    "url": "https://www.neo-career.co.jp/humanresource/newgrad/",
-    "pass": 1
-   },
-   {
-    "quote": "さまざま料金形態のサービスを揃えているため、採用予算にあわせたご提案も可能です",
-    "url": "https://www.neo-career.co.jp/humanresource/parttime/",
-    "pass": 1
-   },
-   {
-    "quote": "認知度や評判が高くおすすめの大手求人媒体だけでなく、応募課金や成功報酬型の求人サイトもを取り扱っています",
-    "url": "https://www.neo-career.co.jp/humanresource/parttime/",
-    "pass": 1
-   },
-   {
-    "quote": "求職者がクリックしたときにのみ料金が発生するため、無駄なく予算を活用できます",
-    "url": "https://www.neo-career.co.jp/humanresource/parttime/",
-    "pass": 1
-   },
-   {
-    "quote": "日本国内で最も訪問数が多く、費用をコントロールできる運用型の求人サイトです",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "IT/WEB業界・ベンチャー企業の経験者採用に強い、成功報酬型の求人メディアです",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "効率的で費用対効果が高い！",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "sonar ATS（ソナーATS）とは？料金や機能解説・最新AI機能で採用を効率化する次世代ATS",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "初期費用のかからない適性検査",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "リーズナブルな料金体系が魅力",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "成功報酬型求人サイト",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "初期費用0円で募集が可能！",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "初期費用0円、シフトごとの求人募集が可能なアルバイト・パート求人サイト",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "IT/WEB業界・ベンチャー企業の経験者採用に強い、成功報酬型の求人メディアです",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
-    "pass": 1
-   },
-   {
-    "quote": "効率的で費用対効果が高い！",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
-    "pass": 1
-   },
-   {
-    "quote": "Offers（オファーズ）の料金【15万円/月〜】エンジニア会員データと採用事例を解説",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
-    "pass": 1
-   },
-   {
-    "quote": "Wantedlyの掲載料金【2026年最新】特徴や強み、会員層を徹底解説",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
-    "pass": 1
-   },
-   {
-    "quote": "ITエンジニアスカウト採用媒体17サービス比較！成果報酬一覧・費用",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
-    "pass": 1
-   },
-   {
-    "quote": "sonar ATS（ソナーATS）とは？料金や機能解説・最新AI機能で採用を効率化する次世代ATS",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/system/",
-    "pass": 1
-   },
-   {
-    "quote": "AI面接サービスおすすめ比較16選、費用やメリット・デメリットを解説【最新】",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/other/",
-    "pass": 1
-   },
-   {
-    "quote": "【2026年版】採用サイト制作に強いWeb制作会社11選｜料金相場や会社選びのポイントを紹介",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/tool/",
-    "pass": 1
-   },
-   {
-    "quote": "成果報酬・成功報酬型",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/tool/",
-    "pass": 1
-   },
-   {
-    "quote": "#7900 決算分析 : 株式会社ネオキャリア 第25期決算 当期純利益 ▲192百万円 - 決算公告データ倉庫",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   },
-   {
-    "quote": "#7900 決算分析 : 株式会社ネオキャリア 第25期決算 当期純利益 ▲192百万円",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   },
-   {
-    "quote": "資産合計: 15,429百万円 (約154.3億円)",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   },
-   {
-    "quote": "負債合計: 11,114百万円 (約111.1億円)",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   },
-   {
-    "quote": "純資産合計: 4,316百万円 (約43.2億円)",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   },
-   {
-    "quote": ": 192百万円 (約1.9億円)",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   },
-   {
-    "quote": "利益剰余金: 1,578百万円 (約15.8億円)",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   }
-  ],
-  "採用・人数": [
-   {
-    "quote": "採用成功に必要なノウハウとマンパワーをご提供します",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "より多くの学校が参加できる文化祭を目指し、引き続き協賛企業を募集しています",
-    "url": "https://www.neo-career.co.jp/news/article_26481/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事業概要：採用支援、就労支援、業務支援",
-    "url": "https://www.neo-career.co.jp/news/article_26481/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事業概要：採用支援、就労支援、業務支援",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "みんなの採用部｜採用に関する無料相談やサービス比較",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用課題と向き合い、代理店という",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "あらゆる採用課題を解決するサービスを取り扱いしています",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新卒採用、中途採用、アルバイト・パート採用などあらゆる採用に対応する幅広いサービスを取り扱っています",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用担当の皆様がよく知る求人媒体やIndeedなどのWeb広告、さらには特定人材採用特化型のニッチな採用ツールまで、各種サービスを取り扱い",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「広告を掲載しただけでは効果が出なかった」「もっと効果的な採用の方法が知りたい」といった企業様は、ぜひ弊社営業担当にご依頼下さい",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自社のサービスのご提案のみに留まらず、人材サービスを提供する各社様とパートナーシップを組むことで枠に因われないオリジナルな新卒採用手法をご提案させて頂いております",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "お客様1社1社の課題に合わせ、新卒採用の成功のために必要な幅広いソリューションをご提供いたします",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "とりあえず募集をしている地域で広告を出せば人が集まるという時代は終わりました",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "いつ、どこで、誰に、いくらの時給で募集をかければ人が集まるのか？",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "求人広告以外にも、人材紹介やツールの制作など、採用に活用できるさまざまなサービスを取り扱っております",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用市場でいち早く新卒紹介サービスを展開、登録学生数約18万人を誇り、企業のターゲットに合わせた学生を紹介しています",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用動画・パンフレット・採用サイトなどの採用に特化したツール制作をおこなっています",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用に関する業務を企業に代わっておこなう人材サービスです",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用の歩留まりが向上！LINE連携採用管理システム",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "無数の採用手法やサービス、どれが自社に最適かわからない方へ",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "星の数ほどある採用サービスの中から何を選ぶべきか、お困りではありませんか？延べ10,000社以上の採用支援実績を活かし、よくあるお悩みを集めました",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用や研修・人材育成に役立つ各種お役立ち資料を無料ダウンロードいただけます",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用担当者の7割が「新卒採用を縮小する可能性あり」AI時代の新卒採用【調査レポート】",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新卒採用担当者の7割以上が、AIの普及によって「今後新卒採用を縮小する可能性がある」と回答しました",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中小経営者107名に聞いた！採用は増えても組織の地力が上がらない理由とは？",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用業務の大部分を内製している企業（従業員100〜300名未満）の経営者107名に調査したところ、7...",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【45社比較表付き】採用代行（RPO）選定ガイド｜料金相場・見積もり比較のポイントまで解説",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用代行会社は、戦略から実務までを担う「総合支援型」、実務だけを切り出せる「オペレーション特化型」な...",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "九州地方で活用可能な中途採用サービス徹底比較",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "仕事内容としては企業様の新卒採用のご支援をしています",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私の所属している採用インテグレーション事業部では約100社のパートナー企業のサービスを取り扱っているため、いわばネオキャリアにいながら100社分の営業を経験できるのが魅力の一つだと思います",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "多くのサービスを提案できるがゆえの難しさもあるのですが、様々なサービスを組み合わせて採用成功の支援ができるため、本当の意味で「お客様の採用成功のことを考えた提案ができる」ことがやりがいに繋がっています",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新卒・中途・アルバイト・人材派遣など様々なニーズに合わせ、多彩なソリューションを提供し、お客様の採用活動や人事戦略をサポートいたします",
-    "url": "https://www.neo-career.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "また、採用代行による採用支援もおこないます",
-    "url": "https://www.neo-career.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "現在は新卒、中途などの企業への「採用支援」や学生や求職者への「就労支援」、業務のアウトソーシングなどの「業務支援」の3つの事業領域でサービスを提供しています",
-    "url": "https://www.neo-career.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/about/ceo-message/",
-    "pass": 1
-   },
-   {
-    "quote": "ネオキャリアは、お客様へのサービス提供、経営判断、メンバーの教育、採用など全ての企業活動において、「NEO CAREER STATEMENT」を最重要視し、日々徹底して実践しております",
-    "url": "https://www.neo-career.co.jp/about/neo-career-statement/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/about/neo-career-statement/",
-    "pass": 1
-   },
-   {
-    "quote": "採用支援 - neo career",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "新卒、中途、アルバイト領域の採用支援",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "中途採用 みんなの採用部",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "年間を通した採用活動に合わせ、幅広いサービスの中から市況や採用状況に合わせた柔軟なご提案が可能です",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用代行 みんなの採用部",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "新卒採用 みんなの採用部",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用ニーズに合わせたご提案が可能です",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "アルバイト採用 みんなの採用部",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "様々な採用手法・料金形態のサービスを揃えているため、採用予算や採用エリアにあわせたご提案が可能です",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "介護職の採用支援",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用ツール（Webサイト、動画、冊子等のツール作成）",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用動画制作",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "SNSや説明会などで活用が増えた採用動画",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用の利用シーンや目的に合わせた各種採用動画制作が可能です",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用パンフレット・リーフレット制作",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "イベントや転職フェアなどの開催で活用いただける採用パンフレットや各種冊子、リーフレットの作成サービスなどをおこないます",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用サイト・ホームページ制作",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用活動の様々なシーンで活用いただけるWebサイト制作サービスです",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用にしっかりと繋がるサイトの構築をおこないます",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "HR Techを活用した採用支援",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "ビッグデータを活用し、いつ、どこで、誰に、どのような手法・訴求でなど、効果的な募集のかけ方をご提案する無料サービスです",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用管理システム「MOCHICA（モチカ）」",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "LINEと連携した採用管理システムです",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "採用業務支援",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "元エンジニアが在籍するエンジニア専門チームが、媒体選定・スカウト文面作成や改善提案などを実施し採用成功に貢献します",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "新卒、中途、アルバイト領域の就労支援",
-    "url": "https://www.neo-career.co.jp/services/services-business/",
-    "pass": 1
-   },
-   {
-    "quote": "採用ニーズに合わせたご提案が可能です",
-    "url": "https://www.neo-career.co.jp/services/services-business/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/services/services-business/",
-    "pass": 1
-   },
-   {
-    "quote": "ネオキャリアのBPOサービスは、人材会社ならではの採用ノウハウを活かし、自社雇用のスタッフを多く配置しています",
-    "url": "https://www.neo-career.co.jp/services/services-facility/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/services/services-facility/",
-    "pass": 1
-   },
-   {
-    "quote": "これまで20年以上に渡り、経営者として新卒・中途採用支援、エンジニア採用支援、介護人材採用支援、HR Techを活用した業務支援など、多角的な事業を展開",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "入社後は一貫して、企業の採用活動を支援する採用コンサルティングに従事",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "入社2年目の2007年には、中途求人広告代理店事業の事業部長へ就任",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "2011年、新卒および中途採用のコンサルティング事業の本部長へ就任したのち、2012年に取締役に就任",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "これまで20年以上に渡り、経営者として新卒・中途採用支援、エンジニア採用支援、介護人材採用支援、HR Techを活用した業務支援など、多角的な事業を展開",
-    "url": "https://www.neo-career.co.jp/company/officers/",
-    "pass": 1
-   },
-   {
-    "quote": "入社後は一貫して、企業の採用活動を支援する採用コンサルティングに従事",
-    "url": "https://www.neo-career.co.jp/company/officers/",
-    "pass": 1
-   },
-   {
-    "quote": "入社2年目の2007年には、中途求人広告代理店事業の事業部長へ就任",
-    "url": "https://www.neo-career.co.jp/company/officers/",
-    "pass": 1
-   },
-   {
-    "quote": "2011年、新卒および中途採用のコンサルティング事業の本部長へ就任したのち、2012年に取締役に就任",
-    "url": "https://www.neo-career.co.jp/company/officers/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/company/officers/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/company/office-list/",
-    "pass": 1
-   },
-   {
-    "quote": "新卒、中途などの企業への「採用支援」や学生や求職者への「就労支援」、業務のアウトソーシングなどの「業務支援」の3つの事業領域でサービスを提供しています",
-    "url": "https://www.neo-career.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "新卒・中途求人メディアの運営",
-    "url": "https://www.neo-career.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "新卒向け人材紹介（第二新卒）・中途向け人材紹介",
-    "url": "https://www.neo-career.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "採用業務アウトソーシング",
-    "url": "https://www.neo-career.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "中途採用支援・求人広告事業を開始",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "中途人材紹介事業を開始",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "新卒採用支援・求人広告事業を開始",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "「第7回 HRチャレンジ大賞」にて、海外事業が人材サービス優秀賞（採用部門）を受賞",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "みんなの採用部",
-    "url": "https://www.neo-career.co.jp/news/",
-    "pass": 1
-   },
-   {
-    "quote": "新卒採用はこちら",
-    "url": "https://www.neo-career.co.jp/recruit/",
-    "pass": 1
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "宮内 和也 - 株式会社 ネオキャリア - 営業職 - LinkedIn 宮内 和也 - 株式会社 ネオキャリア - 営業職 - LinkedIn LinkedIn https://jp.linkedin.com > 和也-宮内-17830b199",
-    "url": "https://jp.linkedin.com/in/%E5%92%8C%E4%B9%9F-%E5%AE%AE%E5%86%85-17830b199",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社 ネオキャリア ／リーベルキャリア（既卒・第二新卒 ... 株式会社 ネオキャリア ／リーベルキャリア（既卒・第二新卒 ... LinkedIn https://www.linkedin.com > company > 株式会社ネオキ...",
-    "url": "https://www.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%EF%BC%8F%E3%83%AA%E3%83%BC%E3%83%99%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%EF%BC%88%E6%97%A2%E5%8D%92%E3%83%BB%E7%AC%AC%E4%BA%8C%E6%96%B0%E5%8D%92%E9%A0%98%E5%9F%9F%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%EF%BC%89",
-    "pass": 3
-   },
-   {
-    "quote": "遠藤 さくら - 株式会社 ネオキャリア ｜海外事業本部 - LinkedIn 遠藤 さくら - 株式会社 ネオキャリア ｜海外事業本部 - LinkedIn LinkedIn https://jp.linkedin.com > さくら-遠藤-6b9060326",
-    "url": "https://jp.linkedin.com/in/%E3%81%95%E3%81%8F%E3%82%89-%E9%81%A0%E8%97%A4-6b9060326",
-    "pass": 3
-   },
-   {
-    "quote": "（株） ネオキャリア - LinkedIn （株） ネオキャリア - LinkedIn LinkedIn https://jp.linkedin.com > company > （株）ネオキャリア",
-    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3
-   }
-  ],
   "SNS・note（note・本文）": [
    {
     "quote": "連載11回目 ”ネオキャリア”で何が変わるの？ーーモバイル通信のその先へ｜日本通信/JCI Group note編集部",
@@ -1798,237 +733,13 @@
     "pass": 3
    }
   ],
-  "SNS・note（X・検索結果の抜粋）": [
-   {
-    "quote": "株式会社 ネオキャリア (@neocareer) / X 株式会社 ネオキャリア (@neocareer) / X X https://x.com > neocareer",
-    "url": "https://x.com/neocareer",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ネオキャリア グループ【公式】 (@neocareer_PR) / X ネオキャリア グループ【公式】 (@neocareer_PR) / X X https://x.com > neocareer_PR",
-    "url": "https://x.com/neocareer_PR",
-    "pass": 3
-   },
-   {
-    "quote": "第二新卒エージェントneo【公式】｜株式会社 ネオキャリア - X 第二新卒エージェントneo【公式】｜株式会社 ネオキャリア - X X https://x.com > under28_career",
-    "url": "https://x.com/under28_career",
-    "pass": 3
-   },
-   {
-    "quote": "# ネオキャリア - Search / X # ネオキャリア - Search / X X https://x.com > Search",
-    "url": "https://x.com/hashtag/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3
-   },
-   {
-    "quote": "人材紹介会社の伴走役 on X: \" ネオキャリア の売上に対する利益 ... 人材紹介会社の伴走役 on X: \" ネオキャリア の売上に対する利益 ... X https://x.com > @stakafumi1986",
-    "url": "https://x.com/stakafumi1986/status/2072299625193840759",
-    "pass": 3
-   },
-   {
-    "quote": "西澤 亮一／ ネオキャリア 代表取締役 (@NC_nishizawa) / X 西澤 亮一／ ネオキャリア 代表取締役 (@NC_nishizawa) / X X https://x.com > NC_nishizawa",
-    "url": "https://x.com/NC_nishizawa",
-    "pass": 3
-   }
-  ],
-  "株主構成": [
-   {
-    "quote": "【案件報告】「株式会社ネオキャリア」への出資のお知らせ ｜ ニュースリリース ｜ Link and Motivation Inc. 株式会社リンクアンドモチベーション",
-    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【案件報告】「株式会社ネオキャリア」への出資のお知らせ",
-    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "経営コンサルティングの株式会社リンクアンドモチベーション（以下 LM）は、2014年11月13日に締結した出資に関する基本合意書に基づき、株式会社ネオキャリア（代表取締役 西澤亮一 本社：東京都新宿区）の第三者割当増資を引き受け、2014年12月12日付で同社に出資いたしました",
-    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2007年に東京証券取引所市場第二部に上場、2008年に市場第一部に指定換えを受け、現在は法人向けビジネス部門と、個人向けコンシューマー部門（PCスクール「AVIVA」、資格スクール「DAIEI」の運営等）の2つのセグメントで事業を推進しています",
-    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのような背景からインキュベーション推進室を設置し、出資を通じて投資先企業の価値向上をはかるサービスを実施しております",
-    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回の出資では、株式会社ネオキャリアの掲げる",
-    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7月 - 子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェント」）設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "子会社 株式会社就活カレッジを株式会社ネオキャリアに統合",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "子会社 株式会社アクサスコンサルティングジャパンと株式会社コスモ・サイエンティフィック・システムが事業統合をし、アクサス株式会社に社名変更",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "子会社「株式会社OA総研（サービス付き高齢者向け住宅及び訪問介護・看護事業所の運営）」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7月 - 子会社「株式会社digsy（障がい者雇用をすすめる特例子会社）」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(株)KOKUSAI ELECTRIC【東証プライム市場上場】",
-    "url": "https://job.mynavi.jp/28/pc/search/corp68756/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株主が大手人材会社だったのですが、そちらからも要請され、2002年から“雇われ社長”を 6 年間続けました",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株主に相談しに行くと、当然のことながら「解散するなら責任もってお金を返せ」と言われました",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私の代表としての最初の仕事は、株主に「一生かけて借金を返します」と宣言書に一筆記すことでした",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：まず会社を再出発させるために株主に出資を、銀行には融資をお願いしに行きました",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "それと同時に上場も延期になり、社員数も120人ほどで停滞",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "上場人材派遣会社からSIerまで、多様な企業の採用をサポート",
-    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "障がいのある方も安心して働くことができ、キャリア形成ができる特例子会社として、様々なアウトソーシングサービスを手掛けています",
-    "url": "https://www.neo-career.co.jp/company/group/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェントNeo」）を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社「株式会社就活カレッジ」を「株式会社ネオキャリア」に統合",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社「株式会社アクサスコンサルティングジャパン」と「株式会社コスモ・サイエンティフィック・システム」が事業統合をし、「アクサス株式会社」に社名変更",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社「株式会社OA総研（サービス付き高齢者向/け住宅及び訪問介護・看護事業所の運営）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社「株式会社digsy（障がい者雇用をすすめる特例子会社）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "障がいのある方も安心して働くことができ、キャリア形成ができる特例子会社として、様々なアウトソーシングサービスを手掛けています",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "未上場企業等に特化して気になる決算公告を収集し自分用に保管している倉庫",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   },
-   {
-    "quote": "売上高524億円という規模は、未上場の人材系企業としてはトップクラスです",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   },
-   {
-    "quote": "上場企業の有価証券報告書から人的資本開示・組織戦略を徹底分析",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   },
-   {
-    "quote": "(株)大京穴吹不動産【オリックスグループ100％出資会社】",
-    "url": "https://job.mynavi.jp/27/pc/search/corp68756/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "キャリアパーク就職エージェントは、東京証券取引所グロース市場に上場しているポート株式会社(証券コード：7047)が運営しているサービスです",
-    "url": "https://careerpark-agent.jp/interview/206-2",
-    "pass": 3
-   },
-   {
-    "quote": "近年も、障がい者雇用を推進する特例子会社の設立や、働きやすい環境づくり、地域社会への貢献などを進めています",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   }
-  ],
   "製造業の顧客": [
+   {
+    "quote": "徹底的な顧客ファーストで日本一を目指すACN経営研究所",
+    "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "その当時「目標を定めない方が良いのではないか」「顧客満足より社員第一にした方が良いのではないか」というような声が社内から聞こえ始め、私自身も経営に自信が持てず迷っていたのです",
     "url": "https://sogyotecho.jp/neo-career-1/",
@@ -2236,28 +947,6 @@
    {
     "quote": "西澤氏の人物像を理解するうえでは、華やかな経営実績だけでなく、創業初期の経営危機を乗り越えた経験や、顧客の声を重視する姿勢にも注目したいところです",
     "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   }
-  ],
-  "SNS・note（Facebook・検索結果の抜粋）": [
-   {
-    "quote": "ネオキャリア 第二新卒エージェント | Shinjuku-ku Tokyo ネオキャリア 第二新卒エージェント | Shinjuku-ku Tokyo Facebook https://www.facebook.com > ... > Consulting agency",
-    "url": "https://www.facebook.com/dainiagent/",
-    "pass": 3
-   },
-   {
-    "quote": "ネオキャリア 業務代行サービス-rpo/bpo | Shinjuku-ku Tokyo ネオキャリア 業務代行サービス-rpo/bpo | Shinjuku-ku Tokyo Facebook https://www.facebook.com > ... > Recruiter",
-    "url": "https://www.facebook.com/neocareer.rpo/",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 ネオキャリア （中途採用支援・求人広告・転職フェア ... 株式会社 ネオキャリア （中途採用支援・求人広告・転職フェア ... Facebook https://www.facebook.com > neocareer",
-    "url": "https://www.facebook.com/neocareer.mi/",
-    "pass": 3
-   },
-   {
-    "quote": "Switch ネオキャリア インターンシッププログラム ... - Facebook Switch ネオキャリア インターンシッププログラム ... - Facebook Facebook https://www.facebook.com > neorecruit.switch",
-    "url": "https://www.facebook.com/neorecruit.switch/",
     "pass": 3
    }
   ],
@@ -2716,1084 +1405,53 @@
     "pass": 3
    }
   ],
-  "創業年度": [
+  "SNS・note（Facebook・検索結果の抜粋）": [
    {
-    "quote": "【1日密着】野村證券→アサイン創業5人目の採用責任者！新卒採用責任者のしごと／アサイン",
-    "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社ネオキャリアは、2000年設立の総合人材サービス会社です",
-    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "当社は、2000年に創業以来、採用支援・人材育成・風土変革等、組織人事に関するワンストップコンサルティングをクライアントに提供することで成長してまいりました",
-    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "設立：2000年11月",
-    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2000年11月15日 株式会社ネオキャリアを設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7月 - 子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェント」）設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "海外法人「REERACOEN SHANGHAI＜HRS＞（中国現地法人）」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現地法人 現・Agensi Pekerjaan Reeracoen Malaysia Sdn. Bhd.）」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "海外法人「ABROADERS Co., Ltd.（タイ現地法人）」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "海外法人「REERACOEN (SHANGHAI) HUMAN RESOURCE SERVICE CO.,LTD.(中国現地法人）」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "子会社「株式会社OA総研（サービス付き高齢者向け住宅及び訪問介護・看護事業所の運営）」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7月 - 子会社「株式会社digsy（障がい者雇用をすすめる特例子会社）」を設立",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2000年設立の日本企業",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "100年企業が新たな理念で挑む第二創業",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業10年でワクワクを求め理念を再策定、",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人材総合サービス会社の株式会社ネオキャリアは、創業から約20年間、大きなピンチを迎える度に、理念やビジョンを作り変え、赤字経営から売上500億円規模の会社に成長",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "社員100人以下の創業フェーズはリーダーシップ型で急成長",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業から1年半後に4000万円の赤字で倒産の危機を迎えるも、西澤さんの代表就任後1年半で黒字化、V字回復に成功されました",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ところが、ネオキャリアは設立から1年半くらい赤字が続いて、給料も払えなくなりました",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2000年11月、株式会社ネオキャリアを設立、取締役に就任",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業から1年半後に4000万円の赤字で倒産の危機を迎えるも、西澤が代表就任後1年半で黒字化、V字回復に成功する",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "天国と地獄を経験した起業家が語る「逆境を乗り越える秘訣」 - 創業手帳【公式】",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2000年に創業した株式会社ネオキャリア",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今回は、そんな経営の酸いも甘いも経験してきた西澤氏に、起業するに至った経緯や起業家として持つべき考えや姿勢について、創業手帳 代表の大久保が伺いました",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大学を卒業した年の2000年に、中途採用支援を行う「株式会社ネオキャリア」を設立し、取締役に就任する",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "大手ITベンチャー役員で、多くの起業家を見た中で「創業後に困ることが共通している」ことに気づき会社の母子手帳、創業手帳を考案",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2014年にビズシード社(現：創業手帳)創業",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "内閣府会社設立ワンストップ検討会の常任委員や大学、官公庁などでの講義も600回以上行っている",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、結果から言うと設立から一回たりとも黒字になることなく損失が膨らみ続け、1年3ヶ月後には役員の給与がストップ",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業メンバーも会社がこんな状態になったことに責任を感じていたようで、「会社を立て直すまでは給与を我慢する」と言ってついてきてくれました",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業期に取り組むべき基本知識や資金調達から経営戦略まで、経営に役立つ内容が満載",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "小規模事業者持続化補助金＜創業型＞は申請すべき？最大200万円でも注意したい自己負担",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2000年の創業以来、一貫して人材ビジネスを中心に事業を拡大しています",
-    "url": "https://www.neo-career.co.jp/",
-    "pass": 1
-   },
-   {
-    "quote": "2000年の創業当時、人材ビジネスの経験が全くなかった私たちは、「成長し続ける」という思想のもと、お客様の成長に繋がるサービスを提供し続けるにこだわり続け、",
-    "url": "https://www.neo-career.co.jp/about/ceo-message/",
-    "pass": 1
-   },
-   {
-    "quote": "同年11月、株式会社ネオキャリアを共同設立し取締役に就任",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "同年11月、株式会社ネオキャリアを共同設立し取締役に就任",
-    "url": "https://www.neo-career.co.jp/company/officers/",
-    "pass": 1
-   },
-   {
-    "quote": "2000年11月15日 株式会社ネオキャリアを設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェントNeo」）を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "初の海外法人「Reeracoen Singapore Pte.Ltd.（シンガポール現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「REERACOEN RECRUITMENT CO.,LTD.（タイ現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「PT.REERACOEN INDONESIA（インドネシア現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「REERACOEN BPO INC.（フィリピン現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「REERACOEN SHANGHAI＜HRS＞（中国現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「REERACOEN PHILIPPINES INC.（フィリピン現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「REERACOEN VIETNAM CO.,LTD（ベトナム現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「REERACOEN EASTERN SEABOARD CO.,LTD.（タイ現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「REERACOEN MALAYSIA SDN. BHD.（マレーシア現地法人 現・Agensi Pekerjaan Reeracoen Malaysia Sdn. Bhd.）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「REERACOEN TAIWAN CO.,LTD（台湾現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「ABROADERS Co., Ltd.（タイ現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「REERACOEN HONG KONG CO.,LTD（香港現地法人）を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "海外法人「REERACOEN (SHANGHAI) HUMAN RESOURCE SERVICE CO.,LTD.(中国現地法人）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社「株式会社OA総研（サービス付き高齢者向/け住宅及び訪問介護・看護事業所の運営）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社「株式会社digsy（障がい者雇用をすすめる特例子会社）」を設立",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "例えば保育所を１園設立するにあたっても、初期投資として1億円ほど資金が必要になるのですが、そういったことに対する判断も一次的なものであれば10分程度でなされるなど、このスピード感の速さは日々実感しています",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "創業から20年以上を経て、人材サービスからHR Tech、ヘルスケア領域へと事業を",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "quote": "ネオキャリア 第二新卒エージェント | Shinjuku-ku Tokyo ネオキャリア 第二新卒エージェント | Shinjuku-ku Tokyo Facebook https://www.facebook.com > ... > Consulting agency",
+    "url": "https://www.facebook.com/dainiagent/",
     "pass": 3
    },
    {
-    "quote": "設立: 2000年11月",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "quote": "ネオキャリア 業務代行サービス-rpo/bpo | Shinjuku-ku Tokyo ネオキャリア 業務代行サービス-rpo/bpo | Shinjuku-ku Tokyo Facebook https://www.facebook.com > ... > Recruiter",
+    "url": "https://www.facebook.com/neocareer.rpo/",
     "pass": 3
    },
    {
-    "quote": "創業以来のコア事業です",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "quote": "株式会社 ネオキャリア （中途採用支援・求人広告・転職フェア ... 株式会社 ネオキャリア （中途採用支援・求人広告・転職フェア ... Facebook https://www.facebook.com > neocareer",
+    "url": "https://www.facebook.com/neocareer.mi/",
     "pass": 3
    },
    {
-    "quote": "設立: 2000年11月15日",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "quote": "Switch ネオキャリア インターンシッププログラム ... - Facebook Switch ネオキャリア インターンシッププログラム ... - Facebook Facebook https://www.facebook.com > neorecruit.switch",
+    "url": "https://www.facebook.com/neorecruit.switch/",
     "pass": 3
-   },
-   {
-    "quote": "「アジアNo.1のサービスカンパニー」「世界を代表するサービスカンパニー」を目指し、2000年に創業した「",
-    "url": "https://kintone-sol.cybozu.co.jp/cases/neocareer.html",
-    "pass": 3
-   },
-   {
-    "quote": "Ryoichi Nisizawa・2000年、大学卒業と同時に中途採用支援を行うネオキャリアを設立し、取締役に就任",
-    "url": "https://careerpark-agent.jp/interview/206-2",
-    "pass": 3
-   },
-   {
-    "quote": "創業まもない会社でロクに企業理解もしていなかったのですが、アルバイト先からも正社員に誘われていたので「ダメならそこに入らせてもらおう」と考え、1期生として飛び込んでみることにしました",
-    "url": "https://careerpark-agent.jp/interview/206-2",
-    "pass": 3
-   },
-   {
-    "quote": "とはいえ入社時の約束どおり、まもなく会社設立に携わることができましたし、創立メンバーにも出会えたので、その点はラッキーだったと思っています",
-    "url": "https://careerpark-agent.jp/interview/206-2",
-    "pass": 3
-   },
-   {
-    "quote": "ネオキャリアは2000年に設立された人材サービス企業です",
-    "url": "https://note.com/cool_briony6489/n/nce8f6916a47c",
-    "pass": 3
-   },
-   {
-    "quote": "また、創業から同社を率いてきた代表取締役CEO・西澤亮一氏の生い立ちや経営者としての人物像についてもご紹介していきます",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "2000年11月15日に設立され、人材の採用から就労、企業の業務効率化まで、多様なニーズに応えるサービスを提供しています",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "設立：2000年11月15日",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社ネオキャリアは、2000年11月に設立されました",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "創業当初は中途採用支援や求人広告事業からスタートし、その後、人材紹介や新卒採用支援、人材派遣などへ事業を拡大しています",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "創業から間もない時期に経営上の困難を経験したものの、経営体制を立て直し、事業の成長を目指してきました",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "2010年には人材派遣事業を開始し、さらに2011年にはシンガポールに現地法人を設立し、海外展開にも着手しています",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "2010年代には海外拠点の設立やグループ会社の拡大を進め、事業の多角化を推進しました",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "近年も、障がい者雇用を推進する特例子会社の設立や、働きやすい環境づくり、地域社会への貢献などを進めています",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "西澤亮一氏は、株式会社ネオキャリアの共同創業者であり、代表取締役CEOを務める経営者です",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "1978年2月に北海道で生まれ、2000年に新卒で投資会社へ入社した後、同年11月に株式会社ネオキャリアを共同設立しました",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "大学卒業後は投資会社に入社しましたが、同年に同期の仲間とネオキャリアを設立しました",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "ネオキャリアの創業後、同社は順調な成長だけを経験してきたわけではありません",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "公開インタビューでは、設立から約1年半で4,000万円の赤字を抱え、一時は倒産の危機に直面したことが明かされています",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   },
-   {
-    "quote": "また、創業時から人材サービスの経験が豊富だったわけではなく、顧客の声に耳を傾けながらサービスを成長させてきたことも、公式の代表メッセージで語られています",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "株式会社 ネオキャリア - en-courage — 株式会社 ネオキャリア - en-courage en-courage https://app.en-courage.com > companies",
-    "url": "https://app.en-courage.com/companies/01GHZ0YSW7DFT62HAWYJA3VTMQ?locale=ja",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社 ネオキャリア の評判・ 料金 ・特徴 — 株式会社 ネオキャリア の評判・ 料金 ・特徴 eigyoudaikou-insidesales.com https://www.eigyoudaikou-insidesales.com > neo-career",
-    "url": "https://www.eigyoudaikou-insidesales.com/neo-career",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【株式譲渡および事業譲渡に関するお知らせ】グループ子会社 ... — 【株式譲渡および事業譲渡に関するお知らせ】グループ子会社 ... 株式会社ネオキャリア https://www.neo-career.co.jp > ニュース > プレスリリース",
-    "url": "https://www.neo-career.co.jp/news/article_25311/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ネオキャリア - Wikipedia — ネオキャリア - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ネオキャリア",
-    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社 ネオキャリア - 一般社団法人 日本人材紹介事業協会 — 株式会社 ネオキャリア - 一般社団法人 日本人材紹介事業協会 一般社団法人 日本人材紹介事業協会 https://www.jesra.or.jp > 会員企業検索",
-    "url": "https://www.jesra.or.jp/search/1339/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ネオキャリア は2020年 20周年を迎えます！ - neo career — ネオキャリア は2020年 20周年を迎えます！ - neo career 株式会社ネオキャリア https://www.neo-career.co.jp > ニュース > プレスリリース",
-    "url": "https://www.neo-career.co.jp/news/article_13288/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(株) ネオキャリア の会社概要 | マイナビ2028 — (株) ネオキャリア の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp68756 > outline",
-    "url": "https://job.mynavi.jp/28/pc/search/corp68756/outline.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社 ネオキャリア 新卒採用サイト — 株式会社 ネオキャリア 新卒採用サイト 株式会社ネオキャリア https://www.neo-career.co.jp > recruit > newgrads",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事例 検索結果 - ネオキャリア — 事例 検索結果 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > case_search_result",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8&tag=%E4%B8%8A%E4%BD%8D%E6%A0%A1",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事例 検索結果 - ネオキャリア — 事例 検索結果 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > case_search_result",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8&tag=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88RPO%EF%BC%89",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "急成長企業 ネオキャリア社長 に聞く 「会社の業績を伸ばす ... — 急成長企業 ネオキャリア社長 に聞く 「会社の業績を伸ばす ... 企業理念ラボ https://rinen-lab.encourage-inc.jp > times > interview",
-    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ネオキャリア 西澤 亮一｜4000万円の赤字 - 創業手帳 — ネオキャリア 西澤 亮一｜4000万円の赤字 - 創業手帳 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ネオキャリア社長 直伝！求められる人材の特徴 - YouTube — ネオキャリア社長 直伝！求められる人材の特徴 - YouTube YouTube https://www.youtube.com > watch",
-    "url": "https://www.youtube.com/watch?v=1its57Sn0SE",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "かわいがられる素直な人になろう（ ネオキャリア 西澤亮一 社長 ... — かわいがられる素直な人になろう（ ネオキャリア 西澤亮一 社長 ... Spotify - Web Player: Music for everyone https://open.spotify.com > episode",
-    "url": "https://open.spotify.com/episode/2kHRfg6098lTRiRKbP8eiV",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年商520億を生み出す驚異の結束力 ネオキャリア社長 の人材戦略 — 年商520億を生み出す驚異の結束力 ネオキャリア社長 の人材戦略 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー",
-    "url": "https://sogyotecho.jp/neo-career-2/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社 ネオキャリア の企業情報 - バフェット・コード — 株式会社 ネオキャリア の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
-    "url": "https://www.buffett-code.com/company/f8gn3ypay9/",
-    "pass": 3
-   },
-   {
-    "quote": "会社概要 - neo career - ネオキャリア — 会社概要 - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > 企業情報",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 3
-   },
-   {
-    "quote": "グループ会社 - neo career - ネオキャリア — グループ会社 - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > 企業情報",
-    "url": "https://www.neo-career.co.jp/company/group/",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 ネオキャリア - スピーダ スタートアップ情報リサーチ — 株式会社 ネオキャリア - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
-    "url": "https://initial.inc/companies/A-16070",
-    "pass": 3
-   },
-   {
-    "quote": "【案件報告】「株式会社 ネオキャリア 」への 出資 のお知らせ — 【案件報告】「株式会社 ネオキャリア 」への 出資 のお知らせ リンクアンドモチベーション https://www.lmi.ne.jp > news > release > detail",
-    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
-    "pass": 3
-   },
-   {
-    "quote": "沿革・受賞歴 - neo career - ネオキャリア — 沿革・受賞歴 - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > 企業情報",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 3
-   },
-   {
-    "quote": "代表メッセージ - neo career - ネオキャリア — 代表メッセージ - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > NEO Career について",
-    "url": "https://www.neo-career.co.jp/about/ceo-message/",
-    "pass": 3
-   },
-   {
-    "quote": "ネオキャリア 西澤 亮一 - 創業手帳 — ネオキャリア 西澤 亮一 - 創業手帳 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー",
-    "url": "https://sogyotecho.jp/neo-career-1/",
-    "pass": 3
-   },
-   {
-    "quote": "数字で見る ネオキャリア — 数字で見る ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > recruit > company > data",
-    "url": "https://www.neo-career.co.jp/recruit/company/data/",
-    "pass": 3
-   },
-   {
-    "quote": "#7900 決算分析 : 株式会社 ネオキャリア 第25期決算 当期純 ... — #7900 決算分析 : 株式会社 ネオキャリア 第25期決算 当期純 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2025/12/31",
-    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
-    "pass": 3
-   },
-   {
-    "quote": "(株) ネオキャリア の新卒採用・会社概要 | マイナビ2027 — (株) ネオキャリア の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp68756 > outline",
-    "url": "https://job.mynavi.jp/27/pc/search/corp68756/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 ネオキャリア の会社情報 - M&Aクラウド — 株式会社 ネオキャリア の会社情報 - M&Aクラウド M&Aクラウド https://macloud.jp > companies",
-    "url": "https://macloud.jp/companies/3",
-    "pass": 3
-   },
-   {
-    "quote": "事例 検索結果 - ネオキャリア — 事例 検索結果 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > case_search_result",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/",
-    "pass": 3
-   },
-   {
-    "quote": "type（タイプ）の 導入事例 ・活用事例を職種・業種別にご紹介 — type（タイプ）の 導入事例 ・活用事例を職種・業種別にご紹介 株式会社ネオキャリア https://www.neo-career.co.jp > ホーム > type（タイプ）",
-    "url": "https://www.neo-career.co.jp/humanresource/typekeisai/case/",
-    "pass": 3
-   },
-   {
-    "quote": "ネオキャリア | 事例 | kintone（キントーン） - サイボウズ — ネオキャリア | 事例 | kintone（キントーン） - サイボウズ サイボウズ株式会社 https://kintone-sol.cybozu.co.jp > cases > neocareer",
-    "url": "https://kintone-sol.cybozu.co.jp/cases/neocareer.html",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 ネオキャリア | 導入事例 | BIZTEL コールセンター — 株式会社 ネオキャリア | 導入事例 | BIZTEL コールセンター BIZTEL https://biztel.jp > case",
-    "url": "https://biztel.jp/case/cs/6122/",
-    "pass": 3
-   },
-   {
-    "quote": "導入事例 - 株式会社 ネオキャリア 様 - ナレッジワーク — 導入事例 - 株式会社 ネオキャリア 様 - ナレッジワーク knowledgework.cloud https://knowledgework.cloud > users > neo-career",
-    "url": "https://knowledgework.cloud/users/neo-career",
-    "pass": 3
-   },
-   {
-    "quote": "中途採用代行・アウトソーシングの 料金 - ネオキャリア — 中途採用代行・アウトソーシングの 料金 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > middlecareerrpo > price",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareerrpo/price/",
-    "pass": 3
-   },
-   {
-    "quote": "エン転職の掲載 料金 表・求人掲載・企画・プラン一覧表 — エン転職の掲載 料金 表・求人掲載・企画・プラン一覧表 株式会社ネオキャリア https://www.neo-career.co.jp > ホーム > エン転職",
-    "url": "https://www.neo-career.co.jp/humanresource/entenshoku/price/",
-    "pass": 3
-   },
-   {
-    "quote": "type（タイプ）の掲載 料金 表・キャンペーン - ネオキャリア — type（タイプ）の掲載 料金 表・キャンペーン - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > ホーム > type（タイプ）",
-    "url": "https://www.neo-career.co.jp/humanresource/typekeisai/price/",
-    "pass": 3
-   },
-   {
-    "quote": "中途採用代行・アウトソーシング - ネオキャリア — 中途採用代行・アウトソーシング - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > middlecareerrpo",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareerrpo/",
-    "pass": 3
-   },
-   {
-    "quote": "新卒採用の 料金 ・特徴は？10タイプ・33 サービスを比較 — 新卒採用の 料金 ・特徴は？10タイプ・33 サービスを比較 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow",
-    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-price-181204/",
-    "pass": 3
-   },
-   {
-    "quote": "社員で知る ネオキャリア — 社員で知る ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > recruit > employee",
-    "url": "https://www.neo-career.co.jp/recruit/employee/",
-    "pass": 3
-   },
-   {
-    "quote": "ネオキャリア の採用担当に インタビュー /入社理由は？前職は ... — ネオキャリア の採用担当に インタビュー /入社理由は？前職は ... YouTube https://www.youtube.com > watch",
-    "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
-    "pass": 3
-   },
-   {
-    "quote": "ネオキャリア 西澤 社長 ｜「選ばれる人材」になって初めて ... — ネオキャリア 西澤 社長 ｜「選ばれる人材」になって初めて ... キャリアパークエージェント https://careerpark-agent.jp > トップ > 経営者インタビュー",
-    "url": "https://careerpark-agent.jp/interview/206-2",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社 ネオキャリア の働き方とストーリー - Wantedly — 株式会社 ネオキャリア の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社ネオキャリア",
-    "url": "https://www.wantedly.com/companies/www-neo-career-co/stories",
-    "pass": 3
-   },
-   {
-    "quote": "ネオキャリア グループ活躍社員 インタビュー 【2021年新卒 ... — ネオキャリア グループ活躍社員 インタビュー 【2021年新卒 ... YouTube https://www.youtube.com > watch",
-    "url": "https://www.youtube.com/watch?v=Vj6gIkdt7Xs",
-    "pass": 3
-   }
-  ],
-  "売上・規模": [
-   {
-    "quote": "本資料は、2026年に3月に10名以上の施工管理職の採用をした採用担当者102名への調査結果をまとめ...",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/other/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本資料は、2025年に10名以上の未経験エンジニアを採用した企業111社への調査結果をまとめています...",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/other/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「残業はほとんどありません」は要注意ワード？正社員転職者300名調査でわかった、求人票と実態のギャップ",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/other/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "『採用における全工程を、すべて自分たちでやるべきなのか？』実務の限界をRPOで解決し、年間75名の採用を成功させたストーリー",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：3000名～",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バックオフィス1名体制で採用成果を最大化した方法",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：～49名",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：100～299名",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：1000～2999名",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年間採用目標1,000名が半年で充足！同じ熱量で採用に向き合ってくれる頼もしいパートナー",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ITエンジニア経験者採用を一貫した採用代行サービスでサポート！顧客の課題に対して最適なプランニングで3ヶ月で5名の内定実績！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：50～99名",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：300～499名",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5名の採用目標に対して6名の採用に成功！予算も想定の6割に抑えながら、紹介でも難しいポジションを媒体で採用できた秘訣とは",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業職の採用成功事例｜転職フェアの活用で一度に5名の営業職の採用に成功！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "携帯販売スタッフの採用成功事例｜マイナビ転職フェアの地方開催で7名の採用に成功",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人材業界の営業職採用成功事例｜人材紹介サービスの利用で3名の採用に成功！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情熱と革新性をもって「これからの軌跡」を描いていくーそんな意思をネオキャリアという社名に再定義し、私たちは新しく生まれ変わります",
-    "url": "https://www.neo-career.co.jp/about/neo-career-statement/",
-    "pass": 1
-   },
-   {
-    "quote": "カスタマーサクセス担当が、人材紹介会社の売上最大化に向けて伴走いたします",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "全国各地の拠点にて地域密着型で展開しています",
-    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
-    "pass": 1
-   },
-   {
-    "quote": "リーマン・ショックの影響を受けて、入社4年目の2009年には業績回復に向けた大阪・名古屋・福岡の拠点立ち上げを推進",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "2000年には旧住友銀行との合併時の給与対策部長（同行従業員組合）、2005年には社長秘書（SMFG）、2014年には企画部長（SMFL）、2017年には姫路法人営業部第三部長（SMBC）を歴任",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "482億円 ※2026年2月期",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "3,651名 ※2026年2月28日時点",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "対象となる労働者の範囲：派遣スタッフ（有期・無期）、外勤正規従業員",
-    "url": "https://www.neo-career.co.jp/company/company-outline/",
-    "pass": 1
-   },
-   {
-    "quote": "リーマン・ショックの影響を受けて、入社4年目の2009年には業績回復に向けた大阪・名古屋・福岡の拠点立ち上げを推進",
-    "url": "https://www.neo-career.co.jp/company/officers/",
-    "pass": 1
-   },
-   {
-    "quote": "2000年には旧住友銀行との合併時の給与対策部長（同行従業員組合）、2005年には社長秘書（SMFG）、2014年には企画部長（SMFL）、2017年には姫路法人営業部第三部長（SMBC）を歴任",
-    "url": "https://www.neo-career.co.jp/company/officers/",
-    "pass": 1
-   },
-   {
-    "quote": "拠点一覧 - neo career",
-    "url": "https://www.neo-career.co.jp/company/office-list/",
-    "pass": 1
-   },
-   {
-    "quote": "愛知県名古屋市中村区名駅3-22-8 大東海ビル2階・7階",
-    "url": "https://www.neo-career.co.jp/company/office-list/",
-    "pass": 1
-   },
-   {
-    "quote": "子会社「株式会社アクサスコンサルティングジャパン」と「株式会社コスモ・サイエンティフィック・システム」が事業統合をし、「アクサス株式会社」に社名変更",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "「働きがいのある会社」2016年版の調査で、従業員1,000名以上部門にて選出",
-    "url": "https://www.neo-career.co.jp/company/history/",
-    "pass": 1
-   },
-   {
-    "quote": "※お問い合わせの際は、件名に「Webサイト作成サービスへの不正アクセスの件」とご記載ください",
-    "url": "https://www.neo-career.co.jp/news/article_26484/",
-    "pass": 1
-   },
-   {
-    "quote": "イベント名：全道文化祭 2026（ZENDO BUNKASAI 2026）",
-    "url": "https://www.neo-career.co.jp/news/article_26481/",
-    "pass": 1
-   },
-   {
-    "quote": "会社名 ：株式会社ネオキャリア",
-    "url": "https://www.neo-career.co.jp/news/article_26481/",
-    "pass": 1
-   },
-   {
-    "quote": "）は、正社員として働く30代のうち、新卒入社した企業に現在も勤続する人（以下「転職経験のない人」）と、転職をしたことがある人（以下「転職経験者」）、計330名を対象に、勤続と転職によるキャリアに関する実態調査を実施しました",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "■転職経験者の2人に1人（53.3%）が、部下・メンバー10名以上をマネジメント",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "調査名称：勤続と転職によるキャリアに関する実態調査",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "有効回答：新卒で正社員として入社し、現在も従業員100名以上の企業で正社員として働いている30代の方330名（うち、新卒で入社した企業に現在も在籍している方165名、転職を1〜3回経験した方165名）",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "会社名 ：株式会社ネオキャリア",
-    "url": "https://www.neo-career.co.jp/news/article_26468/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(早期型プラン／3名)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "万円～(1名)",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "中小経営者107名に聞いた！採用は増えても組織の地力が上がらない理由とは？",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "採用業務の大部分を内製している企業（従業員100〜300名未満）の経営者107名に調査したところ、7...",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "正社員転職者300名に聞く「求人票の書き方」に関するアンケート調査レポート",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "直近1年以内に正社員から正社員へ転職し、求人サイト・転職サイトを利用した20〜50代の男女331名に...",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "また、仙台・大阪・名古屋・福岡など、全国のエリアに対応しています",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "従業員数：100～299名",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "『採用における全工程を、すべて自分たちでやるべきなのか？』実務の限界をRPOで解決し、年間75名の採用を成功させたストーリー",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "従業員数：3000名～",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
-    "url": "https://www.neo-career.co.jp/humanresource/",
-    "pass": 1
-   },
-   {
-    "quote": "ネオキャリアでは、ダイバーシティ&インクルージョンを推進し、従業員一人ひとりのキャリアに向き合い、社員一人ひとりが自身の希望を描きながら、それぞれの能力を発揮できるような環境を目指しています",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "その企業様は当時50人規模の会社であり、新卒採用においても毎年1,2名しか採用できないという現状でした",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "そういった状況下でご支援をして採用を成功させ、引き続きお取引のある今では採用人数も毎年20名まで拡大し、それに伴い会社規模も当時の何倍にも成長させることができました",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "また長期的な観点でいうと事業開発などの「事業の未来を創る仕事」をしており、MOCHICAのサービス名の由来である『人と企業をもっと近くに』という事業コンセプトの下、SNSコンサルやメタバース合説といった新規事業にも取り組んでいます",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "当時2年目ながらセクションのマネージャーを任され、結果として1年後には10名ほどの組織となり、元々組織の形がなかった状態から一定規模の組織にしてサービス運営を行う一連の流れを経験できたのは成長ポイントだったと感じています",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "50名以上といった大規模な組織のマネジメントをできるような立場や役職に就きたいです",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "また、現在は5名のメンバーを見ていますので、メンバーから「新規受注をいただきました！」といった報告をもらうことが嬉しいですし、メンバーの成長も私のやりがいの一つです",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "事業部としての目標達成は大前提のこと、「MOCHICAの知名度を社内外問わず上げたい」というのが直近のビジョンになります",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "MOCHICAは新規事業であるがゆえ、社内外問わずまだまだ知名度が低く、そういった実情に悔しさを感じています",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "サービスの質や社会的価値の大きさには絶対的な自信があり、且つ、社内でも数少ない新規事業になるため、社内外問わず知名度を上げ、「MOCHICAって良いサービスだよね！」「ネオキャリアと言えばMOCHICAが有名だよね！」と言われるようなサービスに育てていきたいです",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "ただ、そういった状況下でも諦めずにサービスの価値を提案し続けた結果、取引企業数も年々増加し、知名度も徐々に上がってきました",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "この判断スピードは私が新卒だった2008年当時、社員が100名弱の頃から変わらないと感じています",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "例えば保育所を１園設立するにあたっても、初期投資として1億円ほど資金が必要になるのですが、そういったことに対する判断も一次的なものであれば10分程度でなされるなど、このスピード感の速さは日々実感しています",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "やりがいとしては「社員数名の会社から数百名規模の会社まで採用という側面から支援した実績」、そしてマネジメント的な観点であれば「メンバーの成長を間近で感じられること」です",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "毎月複数名入社してくる中途社員を一から育成し、人の成長というオンボーディングの取り組みに注力しました",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "私自身も最初は中々上手くいかないかったのですが、そんな状況下でもお客様は私を信じて任せてくださり、何度も打ち合わせを重ねながら本気で向き合った結果、2名の採用に成功しました",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "北は北海道から南は沖縄まで、全国にて拠点展開しています",
-    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
-    "pass": 1
-   },
-   {
-    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/",
-    "pass": 1
-   },
-   {
-    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
-    "url": "https://www.neo-career.co.jp/humanresource/newgrad/",
-    "pass": 1
-   },
-   {
-    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
-    "url": "https://www.neo-career.co.jp/humanresource/parttime/",
-    "pass": 1
-   },
-   {
-    "quote": "日本最大級の規模で高い知名度を誇るdoda転職フェア",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "知名度や規模に頼らず、“人”で勝負できる「質」と「本質的」なマッチングイベント",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
-    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
-    "pass": 1
-   },
-   {
-    "quote": "従業員数：100～299名",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
-    "pass": 1
-   },
-   {
-    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
-    "pass": 1
-   },
-   {
-    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/system/",
-    "pass": 1
-   },
-   {
-    "quote": "【施工管理職採用のカギは？】採用担当者102名に聞いた実態と成功のポイント",
-    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/other/",
-    "pass": 1
    }
   ],
   "発言": [
+   {
+    "quote": "まずはダイレクトリクルーティングの代表的な料金形態、「成功報酬型」と「定額型」について解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用課題の解決、新しい採用の取り組みなどを取材したインタビュー記事が読める",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【社長インタビュー】売却の葛藤を知るからこそ",
+    "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経営者JP 代表取締役社長・CEO 井上 和幸さん",
+    "url": "https://careerpark-agent.jp/interview/206-2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "【転職2.0時代の新常識】20代で一度は転職すべき理由／30歳からリスキリングすべき理由／LinkedIn社長として学んだこと／キャリアオーナーシップを取り戻す／ジョブ型雇用の本質／タグ付けを意識せよ",
     "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
@@ -4484,6 +2142,2552 @@
     "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
     "pass": 3
    }
+  ],
+  "採用・人数": [
+   {
+    "quote": "採用成功に必要なノウハウとマンパワーをご提供します",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "より多くの学校が参加できる文化祭を目指し、引き続き協賛企業を募集しています",
+    "url": "https://www.neo-career.co.jp/news/article_26481/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事業概要：採用支援、就労支援、業務支援",
+    "url": "https://www.neo-career.co.jp/news/article_26481/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事業概要：採用支援、就労支援、業務支援",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "みんなの採用部｜採用に関する無料相談やサービス比較",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用課題と向き合い、代理店という",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "あらゆる採用課題を解決するサービスを取り扱いしています",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新卒採用、中途採用、アルバイト・パート採用などあらゆる採用に対応する幅広いサービスを取り扱っています",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用担当の皆様がよく知る求人媒体やIndeedなどのWeb広告、さらには特定人材採用特化型のニッチな採用ツールまで、各種サービスを取り扱い",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「広告を掲載しただけでは効果が出なかった」「もっと効果的な採用の方法が知りたい」といった企業様は、ぜひ弊社営業担当にご依頼下さい",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社のサービスのご提案のみに留まらず、人材サービスを提供する各社様とパートナーシップを組むことで枠に因われないオリジナルな新卒採用手法をご提案させて頂いております",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "お客様1社1社の課題に合わせ、新卒採用の成功のために必要な幅広いソリューションをご提供いたします",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "とりあえず募集をしている地域で広告を出せば人が集まるという時代は終わりました",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "いつ、どこで、誰に、いくらの時給で募集をかければ人が集まるのか？",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "求人広告以外にも、人材紹介やツールの制作など、採用に活用できるさまざまなサービスを取り扱っております",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用市場でいち早く新卒紹介サービスを展開、登録学生数約18万人を誇り、企業のターゲットに合わせた学生を紹介しています",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用動画・パンフレット・採用サイトなどの採用に特化したツール制作をおこなっています",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用に関する業務を企業に代わっておこなう人材サービスです",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用の歩留まりが向上！LINE連携採用管理システム",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "無数の採用手法やサービス、どれが自社に最適かわからない方へ",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "星の数ほどある採用サービスの中から何を選ぶべきか、お困りではありませんか？延べ10,000社以上の採用支援実績を活かし、よくあるお悩みを集めました",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用や研修・人材育成に役立つ各種お役立ち資料を無料ダウンロードいただけます",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用担当者の7割が「新卒採用を縮小する可能性あり」AI時代の新卒採用【調査レポート】",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新卒採用担当者の7割以上が、AIの普及によって「今後新卒採用を縮小する可能性がある」と回答しました",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中小経営者107名に聞いた！採用は増えても組織の地力が上がらない理由とは？",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用業務の大部分を内製している企業（従業員100〜300名未満）の経営者107名に調査したところ、7...",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【45社比較表付き】採用代行（RPO）選定ガイド｜料金相場・見積もり比較のポイントまで解説",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用代行会社は、戦略から実務までを担う「総合支援型」、実務だけを切り出せる「オペレーション特化型」な...",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "九州地方で活用可能な中途採用サービス徹底比較",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "仕事内容としては企業様の新卒採用のご支援をしています",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私の所属している採用インテグレーション事業部では約100社のパートナー企業のサービスを取り扱っているため、いわばネオキャリアにいながら100社分の営業を経験できるのが魅力の一つだと思います",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "多くのサービスを提案できるがゆえの難しさもあるのですが、様々なサービスを組み合わせて採用成功の支援ができるため、本当の意味で「お客様の採用成功のことを考えた提案ができる」ことがやりがいに繋がっています",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新卒・中途・アルバイト・人材派遣など様々なニーズに合わせ、多彩なソリューションを提供し、お客様の採用活動や人事戦略をサポートいたします",
+    "url": "https://www.neo-career.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、採用代行による採用支援もおこないます",
+    "url": "https://www.neo-career.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は新卒、中途などの企業への「採用支援」や学生や求職者への「就労支援」、業務のアウトソーシングなどの「業務支援」の3つの事業領域でサービスを提供しています",
+    "url": "https://www.neo-career.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/about/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "ネオキャリアは、お客様へのサービス提供、経営判断、メンバーの教育、採用など全ての企業活動において、「NEO CAREER STATEMENT」を最重要視し、日々徹底して実践しております",
+    "url": "https://www.neo-career.co.jp/about/neo-career-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/about/neo-career-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "採用支援 - neo career",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒、中途、アルバイト領域の採用支援",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用 みんなの採用部",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "年間を通した採用活動に合わせ、幅広いサービスの中から市況や採用状況に合わせた柔軟なご提案が可能です",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用代行 みんなの採用部",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用 みんなの採用部",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用ニーズに合わせたご提案が可能です",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "アルバイト採用 みんなの採用部",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な採用手法・料金形態のサービスを揃えているため、採用予算や採用エリアにあわせたご提案が可能です",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "介護職の採用支援",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用ツール（Webサイト、動画、冊子等のツール作成）",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用動画制作",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "SNSや説明会などで活用が増えた採用動画",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用の利用シーンや目的に合わせた各種採用動画制作が可能です",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用パンフレット・リーフレット制作",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "イベントや転職フェアなどの開催で活用いただける採用パンフレットや各種冊子、リーフレットの作成サービスなどをおこないます",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用サイト・ホームページ制作",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用活動の様々なシーンで活用いただけるWebサイト制作サービスです",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用にしっかりと繋がるサイトの構築をおこないます",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "HR Techを活用した採用支援",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "ビッグデータを活用し、いつ、どこで、誰に、どのような手法・訴求でなど、効果的な募集のかけ方をご提案する無料サービスです",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用管理システム「MOCHICA（モチカ）」",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "LINEと連携した採用管理システムです",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "採用業務支援",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "元エンジニアが在籍するエンジニア専門チームが、媒体選定・スカウト文面作成や改善提案などを実施し採用成功に貢献します",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒、中途、アルバイト領域の就労支援",
+    "url": "https://www.neo-career.co.jp/services/services-business/",
+    "pass": 1
+   },
+   {
+    "quote": "採用ニーズに合わせたご提案が可能です",
+    "url": "https://www.neo-career.co.jp/services/services-business/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/services/services-business/",
+    "pass": 1
+   },
+   {
+    "quote": "ネオキャリアのBPOサービスは、人材会社ならではの採用ノウハウを活かし、自社雇用のスタッフを多く配置しています",
+    "url": "https://www.neo-career.co.jp/services/services-facility/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/services/services-facility/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで20年以上に渡り、経営者として新卒・中途採用支援、エンジニア採用支援、介護人材採用支援、HR Techを活用した業務支援など、多角的な事業を展開",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "入社後は一貫して、企業の採用活動を支援する採用コンサルティングに従事",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "入社2年目の2007年には、中途求人広告代理店事業の事業部長へ就任",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年、新卒および中途採用のコンサルティング事業の本部長へ就任したのち、2012年に取締役に就任",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで20年以上に渡り、経営者として新卒・中途採用支援、エンジニア採用支援、介護人材採用支援、HR Techを活用した業務支援など、多角的な事業を展開",
+    "url": "https://www.neo-career.co.jp/company/officers/",
+    "pass": 1
+   },
+   {
+    "quote": "入社後は一貫して、企業の採用活動を支援する採用コンサルティングに従事",
+    "url": "https://www.neo-career.co.jp/company/officers/",
+    "pass": 1
+   },
+   {
+    "quote": "入社2年目の2007年には、中途求人広告代理店事業の事業部長へ就任",
+    "url": "https://www.neo-career.co.jp/company/officers/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年、新卒および中途採用のコンサルティング事業の本部長へ就任したのち、2012年に取締役に就任",
+    "url": "https://www.neo-career.co.jp/company/officers/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/company/officers/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/company/office-list/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒、中途などの企業への「採用支援」や学生や求職者への「就労支援」、業務のアウトソーシングなどの「業務支援」の3つの事業領域でサービスを提供しています",
+    "url": "https://www.neo-career.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒・中途求人メディアの運営",
+    "url": "https://www.neo-career.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒向け人材紹介（第二新卒）・中途向け人材紹介",
+    "url": "https://www.neo-career.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "採用業務アウトソーシング",
+    "url": "https://www.neo-career.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "中途採用支援・求人広告事業を開始",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中途人材紹介事業を開始",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用支援・求人広告事業を開始",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「第7回 HRチャレンジ大賞」にて、海外事業が人材サービス優秀賞（採用部門）を受賞",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなの採用部",
+    "url": "https://www.neo-career.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用はこちら",
+    "url": "https://www.neo-career.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "売上・規模": [
+   {
+    "quote": "本資料は、2026年に3月に10名以上の施工管理職の採用をした採用担当者102名への調査結果をまとめ...",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/other/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本資料は、2025年に10名以上の未経験エンジニアを採用した企業111社への調査結果をまとめています...",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/other/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「残業はほとんどありません」は要注意ワード？正社員転職者300名調査でわかった、求人票と実態のギャップ",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/other/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『採用における全工程を、すべて自分たちでやるべきなのか？』実務の限界をRPOで解決し、年間75名の採用を成功させたストーリー",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数：3000名～",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "バックオフィス1名体制で採用成果を最大化した方法",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数：～49名",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数：100～299名",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数：1000～2999名",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年間採用目標1,000名が半年で充足！同じ熱量で採用に向き合ってくれる頼もしいパートナー",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ITエンジニア経験者採用を一貫した採用代行サービスでサポート！顧客の課題に対して最適なプランニングで3ヶ月で5名の内定実績！",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数：50～99名",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "従業員数：300～499名",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5名の採用目標に対して6名の採用に成功！予算も想定の6割に抑えながら、紹介でも難しいポジションを媒体で採用できた秘訣とは",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業職の採用成功事例｜転職フェアの活用で一度に5名の営業職の採用に成功！",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "携帯販売スタッフの採用成功事例｜マイナビ転職フェアの地方開催で7名の採用に成功",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材業界の営業職採用成功事例｜人材紹介サービスの利用で3名の採用に成功！",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情熱と革新性をもって「これからの軌跡」を描いていくーそんな意思をネオキャリアという社名に再定義し、私たちは新しく生まれ変わります",
+    "url": "https://www.neo-career.co.jp/about/neo-career-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーサクセス担当が、人材紹介会社の売上最大化に向けて伴走いたします",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地の拠点にて地域密着型で展開しています",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "リーマン・ショックの影響を受けて、入社4年目の2009年には業績回復に向けた大阪・名古屋・福岡の拠点立ち上げを推進",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年には旧住友銀行との合併時の給与対策部長（同行従業員組合）、2005年には社長秘書（SMFG）、2014年には企画部長（SMFL）、2017年には姫路法人営業部第三部長（SMBC）を歴任",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "482億円 ※2026年2月期",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "3,651名 ※2026年2月28日時点",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "対象となる労働者の範囲：派遣スタッフ（有期・無期）、外勤正規従業員",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "リーマン・ショックの影響を受けて、入社4年目の2009年には業績回復に向けた大阪・名古屋・福岡の拠点立ち上げを推進",
+    "url": "https://www.neo-career.co.jp/company/officers/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年には旧住友銀行との合併時の給与対策部長（同行従業員組合）、2005年には社長秘書（SMFG）、2014年には企画部長（SMFL）、2017年には姫路法人営業部第三部長（SMBC）を歴任",
+    "url": "https://www.neo-career.co.jp/company/officers/",
+    "pass": 1
+   },
+   {
+    "quote": "拠点一覧 - neo career",
+    "url": "https://www.neo-career.co.jp/company/office-list/",
+    "pass": 1
+   },
+   {
+    "quote": "愛知県名古屋市中村区名駅3-22-8 大東海ビル2階・7階",
+    "url": "https://www.neo-career.co.jp/company/office-list/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社「株式会社アクサスコンサルティングジャパン」と「株式会社コスモ・サイエンティフィック・システム」が事業統合をし、「アクサス株式会社」に社名変更",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「働きがいのある会社」2016年版の調査で、従業員1,000名以上部門にて選出",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※お問い合わせの際は、件名に「Webサイト作成サービスへの不正アクセスの件」とご記載ください",
+    "url": "https://www.neo-career.co.jp/news/article_26484/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント名：全道文化祭 2026（ZENDO BUNKASAI 2026）",
+    "url": "https://www.neo-career.co.jp/news/article_26481/",
+    "pass": 1
+   },
+   {
+    "quote": "会社名 ：株式会社ネオキャリア",
+    "url": "https://www.neo-career.co.jp/news/article_26481/",
+    "pass": 1
+   },
+   {
+    "quote": "）は、正社員として働く30代のうち、新卒入社した企業に現在も勤続する人（以下「転職経験のない人」）と、転職をしたことがある人（以下「転職経験者」）、計330名を対象に、勤続と転職によるキャリアに関する実態調査を実施しました",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "■転職経験者の2人に1人（53.3%）が、部下・メンバー10名以上をマネジメント",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "調査名称：勤続と転職によるキャリアに関する実態調査",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "有効回答：新卒で正社員として入社し、現在も従業員100名以上の企業で正社員として働いている30代の方330名（うち、新卒で入社した企業に現在も在籍している方165名、転職を1〜3回経験した方165名）",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "会社名 ：株式会社ネオキャリア",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(早期型プラン／3名)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(1名)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "中小経営者107名に聞いた！採用は増えても組織の地力が上がらない理由とは？",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "採用業務の大部分を内製している企業（従業員100〜300名未満）の経営者107名に調査したところ、7...",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "正社員転職者300名に聞く「求人票の書き方」に関するアンケート調査レポート",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "直近1年以内に正社員から正社員へ転職し、求人サイト・転職サイトを利用した20〜50代の男女331名に...",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "また、仙台・大阪・名古屋・福岡など、全国のエリアに対応しています",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員数：100～299名",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "『採用における全工程を、すべて自分たちでやるべきなのか？』実務の限界をRPOで解決し、年間75名の採用を成功させたストーリー",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員数：3000名～",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "ネオキャリアでは、ダイバーシティ&インクルージョンを推進し、従業員一人ひとりのキャリアに向き合い、社員一人ひとりが自身の希望を描きながら、それぞれの能力を発揮できるような環境を目指しています",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "その企業様は当時50人規模の会社であり、新卒採用においても毎年1,2名しか採用できないという現状でした",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "そういった状況下でご支援をして採用を成功させ、引き続きお取引のある今では採用人数も毎年20名まで拡大し、それに伴い会社規模も当時の何倍にも成長させることができました",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "また長期的な観点でいうと事業開発などの「事業の未来を創る仕事」をしており、MOCHICAのサービス名の由来である『人と企業をもっと近くに』という事業コンセプトの下、SNSコンサルやメタバース合説といった新規事業にも取り組んでいます",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "当時2年目ながらセクションのマネージャーを任され、結果として1年後には10名ほどの組織となり、元々組織の形がなかった状態から一定規模の組織にしてサービス運営を行う一連の流れを経験できたのは成長ポイントだったと感じています",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "50名以上といった大規模な組織のマネジメントをできるような立場や役職に就きたいです",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "また、現在は5名のメンバーを見ていますので、メンバーから「新規受注をいただきました！」といった報告をもらうことが嬉しいですし、メンバーの成長も私のやりがいの一つです",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "事業部としての目標達成は大前提のこと、「MOCHICAの知名度を社内外問わず上げたい」というのが直近のビジョンになります",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "MOCHICAは新規事業であるがゆえ、社内外問わずまだまだ知名度が低く、そういった実情に悔しさを感じています",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの質や社会的価値の大きさには絶対的な自信があり、且つ、社内でも数少ない新規事業になるため、社内外問わず知名度を上げ、「MOCHICAって良いサービスだよね！」「ネオキャリアと言えばMOCHICAが有名だよね！」と言われるようなサービスに育てていきたいです",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "ただ、そういった状況下でも諦めずにサービスの価値を提案し続けた結果、取引企業数も年々増加し、知名度も徐々に上がってきました",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "この判断スピードは私が新卒だった2008年当時、社員が100名弱の頃から変わらないと感じています",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば保育所を１園設立するにあたっても、初期投資として1億円ほど資金が必要になるのですが、そういったことに対する判断も一次的なものであれば10分程度でなされるなど、このスピード感の速さは日々実感しています",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "やりがいとしては「社員数名の会社から数百名規模の会社まで採用という側面から支援した実績」、そしてマネジメント的な観点であれば「メンバーの成長を間近で感じられること」です",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "毎月複数名入社してくる中途社員を一から育成し、人の成長というオンボーディングの取り組みに注力しました",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "私自身も最初は中々上手くいかないかったのですが、そんな状況下でもお客様は私を信じて任せてくださり、何度も打ち合わせを重ねながら本気で向き合った結果、2名の採用に成功しました",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "北は北海道から南は沖縄まで、全国にて拠点展開しています",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/",
+    "pass": 1
+   },
+   {
+    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
+    "url": "https://www.neo-career.co.jp/humanresource/newgrad/",
+    "pass": 1
+   },
+   {
+    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
+    "url": "https://www.neo-career.co.jp/humanresource/parttime/",
+    "pass": 1
+   },
+   {
+    "quote": "日本最大級の規模で高い知名度を誇るdoda転職フェア",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "知名度や規模に頼らず、“人”で勝負できる「質」と「本質的」なマッチングイベント",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員数：100～299名",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "東海エリアの名古屋支店を主な拠点とし、北海道から沖縄まで全国60か所以上の支店がございます",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/system/",
+    "pass": 1
+   },
+   {
+    "quote": "【施工管理職採用のカギは？】採用担当者102名に聞いた実態と成功のポイント",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/other/",
+    "pass": 1
+   }
+  ],
+  "料金": [
+   {
+    "quote": "ダイレクトリクルーティングの料金形態と費用相場・10社比較",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングの料金形態と費用相場・10社比較",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングサービスの料金形態の1つ「成功報酬型」の費用相場は、採用した人材の想定年収の15％から20％程度と算出されています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、ダイレクトリクルーティングの料金形態はサービスにより異なります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事では2026年最新ダイレクトリクルーティングの料金形態や料金形態別の費用相場について解説をしつつ、おすすめのサービスを比較しながら紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ダイレクトリクルーティングの料金形態と費用相場",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "求人数無制限＋成功報酬無料のダイレクトリクルーティング！",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1．ダイレクトリクルーティングの料金形態",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "料金形態1・成功報酬型",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "料金形態2・定額型",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2．ダイレクトリクルーティングサービスの費用相場",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングサービスの料金比較表",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用予定人数や採用期間により適切な料金形態を選ぶ",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングの料金形態はおおむね",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その他、初期費用やサービス使用料、チケット消費量などが発生するダイレクトリクルーティングサービスもあるので導入前に確認しておきましょう",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まずはダイレクトリクルーティングの代表的な料金形態、「成功報酬型」と「定額型」について解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングの料金形態のひとつ",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「成功報酬型」は、企業が採用に成功したときに費用が発生",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングサービスにより、「採用に成功した」と判断されて費用が発生するタイミングが異なります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "入社日が決定した段階で費用が発生するのか、入社1ヵ月程度猶予を設けて定着の確認後に費用が発生するのかなど、成功報酬の発生時期を導入前に確認をしておきましょう",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングサービスにより、成功報酬とは別に初期費用やサービス利用期間に応じたシステム管理料などが必要な場合があります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はじめてダイレクトリクルーティングサービスを利用する企業や、他の求人媒体と併用予定の企業は採用コストを削減しやすい成功報酬型のダイレクトリクルーティングサービスがおすすめです",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "成功報酬型は成功報酬×採用人数分の料金が発生",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、採用した人材が入社直後に退職してしまったときや、入社直前の内定辞退などが生じたときのために、成功報酬費用の返金の可否をあらかじめ確認しておくと安心です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングの料金形態のふたつめ「定額型」は、ダイレクトリクルーティングサービスの",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "利用期間や採用予定人数などに応じた一定の料金",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "9,715百万円に対し、流動負債が7,512百万円であるため、",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資本金: 100百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#23022 決算分析 : 株式会社ＹＭＦＧグロースパートナーズ 第10期決算 当期純利益 125百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第10期決算において当期純利益125百万円を計上し、自己資本比率約91％という驚異的な財務健全性を達成した株式会社ＹＭＦＧグロースパートナーズの業績に大きな注目が集まっています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#23021 決算分析 : 三井不動産レジデンシャルサービス中国株式会社 第27期決算 当期純利益 41百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第27期決算において当期純利益41百万円を計上し、自己資本比率約63％という高水準の財務健全性を達成した三井不動産レジデンシャルサービス中国株式会社の業績が注目を集めています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#23020 決算分析 : 株式会社アースクリエイト 第17期決算 当期純損失 194百万円（赤字）",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#23019 決算分析 : 株式会社ＳＣＲＥＥＮ ＳＰＥ テック 第43期決算 当期純利益 791百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#23018 決算分析 : ダイワ電機精工株式会社 第50期決算 当期純利益 68百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "勤続年数5年で50万円、10年で100万円を支給（+10日間の連続休暇）しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp68756/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "育休復職者のみならず、入社時・転居などで認可外保育所を利用する際に、認可保育所との保育料の差額を月額50,000円まで負担",
+    "url": "https://job.mynavi.jp/27/pc/search/corp68756/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "平均年収 +113万円",
+    "url": "https://note.com/jazzy_snipe8884/n/n46662ae9d5ae",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【2026年最新】求人媒体ランキング13選！中途採用の種類と選び方、費用相場を解説",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ネオキャリア 西澤 亮一｜4,000万円の赤字、リーマンショック",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "資本金：36,238万円",
+    "url": "https://www.jesra.or.jp/search/1339/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "勤続年数5年で50万円、10年で100万円を支給（+10日間の連続休暇）しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp68756/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "育休復職者のみならず、入社時・転居などで認可外保育所を利用する際に、認可保育所との保育料の差額を月額50,000円まで負担",
+    "url": "https://job.mynavi.jp/28/pc/search/corp68756/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "20代で起業、4000万円の赤字を1年半で黒字化",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業から1年半後に4000万円の赤字で倒産の危機を迎えるも、西澤さんの代表就任後1年半で黒字化、V字回復に成功されました",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、自転車操業をしながら4000万円の赤字から黒字になったタイミングで、2003 年に1回目の理念・ビジョンを経営陣が中心となって作りました",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "はい、最初は4000万円の赤字で、給料も止まっていたので、とにかく黒字にしなければならないという状況でした",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業から1年半後に4000万円の赤字で倒産の危機を迎えるも、西澤が代表就任後1年半で黒字化、V字回復に成功する",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ネオキャリア 西澤 亮一｜4,000万円の赤字、リーマンショック",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "経営者一家の中で育ち、早くから起業家精神を培ってきた西澤氏ですが、起業早々に抱えた4,000万円の借金や、リーマンショック前後の急激な売り上げ減少により倒産危機を迎えるなど、その道のりは決して平坦ではなかったそうです",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "持ち前の上昇志向とチャレンジ精神で陣頭指揮を執り、わずか1年半の間に4,000万円の借金を完済し、その後は目覚ましい成長を続ける",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そういう死に物狂いの気持ちがあったからこそ、私が就任してから1年半で約4,000万円もの借金を返済することができたのだと思います",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "単月の粗利が1億円を超えていたものが、翌月には2,000万円まで急激に下がったことがあり、このままいけば4ヶ月もすれば倒産してしまう状態に陥りました",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CFOne（シフォン）木村優太｜費用は従来の約1/5！AI税務Saa…",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【2026年改正・税理士監修】基礎控除は最大104万円に！178万円の壁・年末調整はどう変わる？",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【2026年・令和8年】給与所得控除額の早見表｜74万円への引き上げ・年末調整の変更点",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【2026年最新・税理士監修】基礎控除は95万円から最大104万円へ！年末調整・年収別の控除額を解説",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【2026年速報】銀行振込手数料を徹底比較！最新情報を含めた一覧で解説",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ITエンジニアの採用成功事例｜転職フェアの活用で、採用単価45万円で経験者の採用に成功！",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "応募者の質を改善し採用率を高めた事例｜原稿とスカウトの工夫で費用対効果の改善は可能！",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "地方学生の採用事例｜採用単価を30万円削減しつつマイナビで母集団を形成する方法",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "LINEと連携した採用管理システムの導入事例｜アウトソーシング廃止によって、120万円のコスト削減に成功",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "高額だった割に採用に活かしきれていなかった適性テストを思い切って変更！100万円以上のコスト削減",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "予算に応じたチャネル・ツール・プランの選定、費用対効果や採用単価の可視化",
+    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用規模やターゲット、現状の課題に合わせてプランを組むため、料金は変動する仕組みです",
+    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材紹介・求人媒体・Web広告といった手法の組み合わせから、専任コンサルタントによるプロジェクト統括まで、貴社専用のオーダーメイド体制を構築し、無駄を省いた適正価格でご提案します",
+    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "書類通過率94.7%・平均年収+113万円・全員20代のアドバイザー",
+    "url": "https://note.com/jazzy_snipe8884/n/n46662ae9d5ae",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新卒初任給：月給28万円（基本給20.7万円＋固定残業代7.3万円）",
+    "url": "https://note.com/oolong_note/n/n458a5921e47a",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開インタビューでは、設立から約1年半で4,000万円の赤字を抱え、一時は倒産の危機に直面したことが明かされています",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "様々な採用手法・料金形態のサービスを揃えているため、採用予算や採用エリアにあわせたご提案が可能です",
+    "url": "https://www.neo-career.co.jp/services/services-recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "※開催に必要な費用は企業からの協賛を募って確保し、参加校の交通・宿泊・準備費、会場費、広報・運営費などに充てる予定です",
+    "url": "https://www.neo-career.co.jp/news/article_26481/",
+    "pass": 1
+   },
+   {
+    "quote": "・年収600万円以上は転職経験者の約5割",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "■年収600万円以上の割合は、転職経験者で約5割",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "現在の年収について尋ねたところ、年収600万円以上の人の割合は、転職経験者で46.7%となりました",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "現在の年収のボリュームゾーンを見ると、転職経験者では「700万円以上1,000万円未満」が18.2%で最も多く、転職経験のない人では「300万円以上400万円未満」が21.2%で最多となりました",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "また、年収1,000万円以上の割合も、転職経験者では10.9%、転職経験のない人では6.7%となりました",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "一方、新卒時の年収は、転職経験者・転職経験のない人ともに「300万円以上400万円未満」が最も多く、それぞれ29.1%、28.5%でした",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "今回の調査では、転職経験者は新卒入社企業に勤続している人と比べ、マネジメントを担う割合や年収600万円以上の割合が高く、自身のスキルや知識が他社でも通用すると感じる人も多い結果となりました",
+    "url": "https://www.neo-career.co.jp/news/article_26468/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(4週間)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(1日)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(6ヶ月)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(月)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(人)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "求人媒体の料金一覧",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(単独掲載)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(ライトプラン)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(早期型プラン／3名)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(自社完結型プラン)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(1日程)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(1名)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "万円～(1週間)",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "【導入事例6選】ワンキャリアの効果的な活用方法・料金・プラン選びを徹底解説",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "【45社比較表付き】採用代行（RPO）選定ガイド｜料金相場・見積もり比較のポイントまで解説",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "人を「集める」ための求人サイトへの掲載だけでなく、「繋ぐ」「見極める」「惹き付ける」「育成する」といった採用に関わる全てのフェーズに対してサービスを取り扱い、 各サービスを異なる会社に発注するよりも費用を抑えて人材を採用することが可能です",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年11月】engage（エンゲージ）のメリットは？クチコミや料金プラン解説付き",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "【最新版】求人広告の費用相場と掲載料金比較25選・効果改善解説付き",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年最新】求人ボックスとは？掲載方法・料金・スタンバイとの違い",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1
+   },
+   {
+    "quote": "それまでに数千万円の投資をしてきたにも関わらずこういった事態が起こってしまい、自身のプロジェクト進行やリスク管理の甘さを痛感しました",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざま料金形態のサービスを揃えているため、採用予算にあわせたご提案も可能です",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "求職者がクリックしたときにのみ料金が発生するため、無駄なく予算を活用できます",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/",
+    "pass": 1
+   },
+   {
+    "quote": "内定承諾課金や説明会参加課金まで、文理別や地方などに特化したさまざまな種類の成功報酬型人材紹介サービスをご案内しております",
+    "url": "https://www.neo-career.co.jp/humanresource/newgrad/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざま料金形態のサービスを揃えているため、採用予算にあわせたご提案も可能です",
+    "url": "https://www.neo-career.co.jp/humanresource/parttime/",
+    "pass": 1
+   },
+   {
+    "quote": "認知度や評判が高くおすすめの大手求人媒体だけでなく、応募課金や成功報酬型の求人サイトもを取り扱っています",
+    "url": "https://www.neo-career.co.jp/humanresource/parttime/",
+    "pass": 1
+   },
+   {
+    "quote": "求職者がクリックしたときにのみ料金が発生するため、無駄なく予算を活用できます",
+    "url": "https://www.neo-career.co.jp/humanresource/parttime/",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内で最も訪問数が多く、費用をコントロールできる運用型の求人サイトです",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "IT/WEB業界・ベンチャー企業の経験者採用に強い、成功報酬型の求人メディアです",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "効率的で費用対効果が高い！",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "sonar ATS（ソナーATS）とは？料金や機能解説・最新AI機能で採用を効率化する次世代ATS",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用のかからない適性検査",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "リーズナブルな料金体系が魅力",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "成功報酬型求人サイト",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用0円で募集が可能！",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用0円、シフトごとの求人募集が可能なアルバイト・パート求人サイト",
+    "url": "https://www.neo-career.co.jp/humanresource/service-list/",
+    "pass": 1
+   },
+   {
+    "quote": "IT/WEB業界・ベンチャー企業の経験者採用に強い、成功報酬型の求人メディアです",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "効率的で費用対効果が高い！",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "Offers（オファーズ）の料金【15万円/月〜】エンジニア会員データと採用事例を解説",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "Wantedlyの掲載料金【2026年最新】特徴や強み、会員層を徹底解説",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "ITエンジニアスカウト採用媒体17サービス比較！成果報酬一覧・費用",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/directrecruiting/",
+    "pass": 1
+   },
+   {
+    "quote": "sonar ATS（ソナーATS）とは？料金や機能解説・最新AI機能で採用を効率化する次世代ATS",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/system/",
+    "pass": 1
+   },
+   {
+    "quote": "AI面接サービスおすすめ比較16選、費用やメリット・デメリットを解説【最新】",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/other/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年版】採用サイト制作に強いWeb制作会社11選｜料金相場や会社選びのポイントを紹介",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/tool/",
+    "pass": 1
+   },
+   {
+    "quote": "成果報酬・成功報酬型",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareer/tool/",
+    "pass": 1
+   },
+   {
+    "quote": "#7900 決算分析 : 株式会社ネオキャリア 第25期決算 当期純利益 ▲192百万円 - 決算公告データ倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "#7900 決算分析 : 株式会社ネオキャリア 第25期決算 当期純利益 ▲192百万円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "資産合計: 15,429百万円 (約154.3億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "負債合計: 11,114百万円 (約111.1億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "純資産合計: 4,316百万円 (約43.2億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": ": 192百万円 (約1.9億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "利益剰余金: 1,578百万円 (約15.8億円)",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 ネオキャリア - en-courage — 株式会社 ネオキャリア - en-courage en-courage https://app.en-courage.com > companies",
+    "url": "https://app.en-courage.com/companies/01GHZ0YSW7DFT62HAWYJA3VTMQ?locale=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社 ネオキャリア の評判・ 料金 ・特徴 — 株式会社 ネオキャリア の評判・ 料金 ・特徴 eigyoudaikou-insidesales.com https://www.eigyoudaikou-insidesales.com > neo-career",
+    "url": "https://www.eigyoudaikou-insidesales.com/neo-career",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【株式譲渡および事業譲渡に関するお知らせ】グループ子会社 ... — 【株式譲渡および事業譲渡に関するお知らせ】グループ子会社 ... 株式会社ネオキャリア https://www.neo-career.co.jp > ニュース > プレスリリース",
+    "url": "https://www.neo-career.co.jp/news/article_25311/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ネオキャリア - Wikipedia — ネオキャリア - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ネオキャリア",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社 ネオキャリア - 一般社団法人 日本人材紹介事業協会 — 株式会社 ネオキャリア - 一般社団法人 日本人材紹介事業協会 一般社団法人 日本人材紹介事業協会 https://www.jesra.or.jp > 会員企業検索",
+    "url": "https://www.jesra.or.jp/search/1339/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ネオキャリア は2020年 20周年を迎えます！ - neo career — ネオキャリア は2020年 20周年を迎えます！ - neo career 株式会社ネオキャリア https://www.neo-career.co.jp > ニュース > プレスリリース",
+    "url": "https://www.neo-career.co.jp/news/article_13288/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(株) ネオキャリア の会社概要 | マイナビ2028 — (株) ネオキャリア の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp68756 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp68756/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社 ネオキャリア 新卒採用サイト — 株式会社 ネオキャリア 新卒採用サイト 株式会社ネオキャリア https://www.neo-career.co.jp > recruit > newgrads",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事例 検索結果 - ネオキャリア — 事例 検索結果 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > case_search_result",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8&tag=%E4%B8%8A%E4%BD%8D%E6%A0%A1",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事例 検索結果 - ネオキャリア — 事例 検索結果 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > case_search_result",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8&tag=%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%EF%BC%88RPO%EF%BC%89",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "急成長企業 ネオキャリア社長 に聞く 「会社の業績を伸ばす ... — 急成長企業 ネオキャリア社長 に聞く 「会社の業績を伸ばす ... 企業理念ラボ https://rinen-lab.encourage-inc.jp > times > interview",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ネオキャリア 西澤 亮一｜4000万円の赤字 - 創業手帳 — ネオキャリア 西澤 亮一｜4000万円の赤字 - 創業手帳 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ネオキャリア社長 直伝！求められる人材の特徴 - YouTube — ネオキャリア社長 直伝！求められる人材の特徴 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=1its57Sn0SE",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "かわいがられる素直な人になろう（ ネオキャリア 西澤亮一 社長 ... — かわいがられる素直な人になろう（ ネオキャリア 西澤亮一 社長 ... Spotify - Web Player: Music for everyone https://open.spotify.com > episode",
+    "url": "https://open.spotify.com/episode/2kHRfg6098lTRiRKbP8eiV",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年商520億を生み出す驚異の結束力 ネオキャリア社長 の人材戦略 — 年商520億を生み出す驚異の結束力 ネオキャリア社長 の人材戦略 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー",
+    "url": "https://sogyotecho.jp/neo-career-2/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社 ネオキャリア の企業情報 - バフェット・コード — 株式会社 ネオキャリア の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/f8gn3ypay9/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - neo career - ネオキャリア — 会社概要 - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > 企業情報",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社 - neo career - ネオキャリア — グループ会社 - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > 企業情報",
+    "url": "https://www.neo-career.co.jp/company/group/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ネオキャリア - スピーダ スタートアップ情報リサーチ — 株式会社 ネオキャリア - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-16070",
+    "pass": 3
+   },
+   {
+    "quote": "【案件報告】「株式会社 ネオキャリア 」への 出資 のお知らせ — 【案件報告】「株式会社 ネオキャリア 」への 出資 のお知らせ リンクアンドモチベーション https://www.lmi.ne.jp > news > release > detail",
+    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
+    "pass": 3
+   },
+   {
+    "quote": "沿革・受賞歴 - neo career - ネオキャリア — 沿革・受賞歴 - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > 企業情報",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "代表メッセージ - neo career - ネオキャリア — 代表メッセージ - neo career - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > NEO Career について",
+    "url": "https://www.neo-career.co.jp/about/ceo-message/",
+    "pass": 3
+   },
+   {
+    "quote": "ネオキャリア 西澤 亮一 - 創業手帳 — ネオキャリア 西澤 亮一 - 創業手帳 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る ネオキャリア — 数字で見る ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > recruit > company > data",
+    "url": "https://www.neo-career.co.jp/recruit/company/data/",
+    "pass": 3
+   },
+   {
+    "quote": "#7900 決算分析 : 株式会社 ネオキャリア 第25期決算 当期純 ... — #7900 決算分析 : 株式会社 ネオキャリア 第25期決算 当期純 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2025/12/31",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ネオキャリア の新卒採用・会社概要 | マイナビ2027 — (株) ネオキャリア の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp68756 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp68756/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ネオキャリア の会社情報 - M&Aクラウド — 株式会社 ネオキャリア の会社情報 - M&Aクラウド M&Aクラウド https://macloud.jp > companies",
+    "url": "https://macloud.jp/companies/3",
+    "pass": 3
+   },
+   {
+    "quote": "事例 検索結果 - ネオキャリア — 事例 検索結果 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > case_search_result",
+    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/",
+    "pass": 3
+   },
+   {
+    "quote": "type（タイプ）の 導入事例 ・活用事例を職種・業種別にご紹介 — type（タイプ）の 導入事例 ・活用事例を職種・業種別にご紹介 株式会社ネオキャリア https://www.neo-career.co.jp > ホーム > type（タイプ）",
+    "url": "https://www.neo-career.co.jp/humanresource/typekeisai/case/",
+    "pass": 3
+   },
+   {
+    "quote": "ネオキャリア | 事例 | kintone（キントーン） - サイボウズ — ネオキャリア | 事例 | kintone（キントーン） - サイボウズ サイボウズ株式会社 https://kintone-sol.cybozu.co.jp > cases > neocareer",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/neocareer.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ネオキャリア | 導入事例 | BIZTEL コールセンター — 株式会社 ネオキャリア | 導入事例 | BIZTEL コールセンター BIZTEL https://biztel.jp > case",
+    "url": "https://biztel.jp/case/cs/6122/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - 株式会社 ネオキャリア 様 - ナレッジワーク — 導入事例 - 株式会社 ネオキャリア 様 - ナレッジワーク knowledgework.cloud https://knowledgework.cloud > users > neo-career",
+    "url": "https://knowledgework.cloud/users/neo-career",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用代行・アウトソーシングの 料金 - ネオキャリア — 中途採用代行・アウトソーシングの 料金 - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > middlecareerrpo > price",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareerrpo/price/",
+    "pass": 3
+   },
+   {
+    "quote": "エン転職の掲載 料金 表・求人掲載・企画・プラン一覧表 — エン転職の掲載 料金 表・求人掲載・企画・プラン一覧表 株式会社ネオキャリア https://www.neo-career.co.jp > ホーム > エン転職",
+    "url": "https://www.neo-career.co.jp/humanresource/entenshoku/price/",
+    "pass": 3
+   },
+   {
+    "quote": "type（タイプ）の掲載 料金 表・キャンペーン - ネオキャリア — type（タイプ）の掲載 料金 表・キャンペーン - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > ホーム > type（タイプ）",
+    "url": "https://www.neo-career.co.jp/humanresource/typekeisai/price/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用代行・アウトソーシング - ネオキャリア — 中途採用代行・アウトソーシング - ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > middlecareerrpo",
+    "url": "https://www.neo-career.co.jp/humanresource/middlecareerrpo/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用の 料金 ・特徴は？10タイプ・33 サービスを比較 — 新卒採用の 料金 ・特徴は？10タイプ・33 サービスを比較 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-price-181204/",
+    "pass": 3
+   },
+   {
+    "quote": "社員で知る ネオキャリア — 社員で知る ネオキャリア 株式会社ネオキャリア https://www.neo-career.co.jp > recruit > employee",
+    "url": "https://www.neo-career.co.jp/recruit/employee/",
+    "pass": 3
+   },
+   {
+    "quote": "ネオキャリア の採用担当に インタビュー /入社理由は？前職は ... — ネオキャリア の採用担当に インタビュー /入社理由は？前職は ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
+    "pass": 3
+   },
+   {
+    "quote": "ネオキャリア 西澤 社長 ｜「選ばれる人材」になって初めて ... — ネオキャリア 西澤 社長 ｜「選ばれる人材」になって初めて ... キャリアパークエージェント https://careerpark-agent.jp > トップ > 経営者インタビュー",
+    "url": "https://careerpark-agent.jp/interview/206-2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ネオキャリア の働き方とストーリー - Wantedly — 株式会社 ネオキャリア の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社ネオキャリア",
+    "url": "https://www.wantedly.com/companies/www-neo-career-co/stories",
+    "pass": 3
+   },
+   {
+    "quote": "ネオキャリア グループ活躍社員 インタビュー 【2021年新卒 ... — ネオキャリア グループ活躍社員 インタビュー 【2021年新卒 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Vj6gIkdt7Xs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "宮内 和也 - 株式会社 ネオキャリア - 営業職 - LinkedIn 宮内 和也 - 株式会社 ネオキャリア - 営業職 - LinkedIn LinkedIn https://jp.linkedin.com > 和也-宮内-17830b199",
+    "url": "https://jp.linkedin.com/in/%E5%92%8C%E4%B9%9F-%E5%AE%AE%E5%86%85-17830b199",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社 ネオキャリア ／リーベルキャリア（既卒・第二新卒 ... 株式会社 ネオキャリア ／リーベルキャリア（既卒・第二新卒 ... LinkedIn https://www.linkedin.com > company > 株式会社ネオキ...",
+    "url": "https://www.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%EF%BC%8F%E3%83%AA%E3%83%BC%E3%83%99%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%EF%BC%88%E6%97%A2%E5%8D%92%E3%83%BB%E7%AC%AC%E4%BA%8C%E6%96%B0%E5%8D%92%E9%A0%98%E5%9F%9F%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "遠藤 さくら - 株式会社 ネオキャリア ｜海外事業本部 - LinkedIn 遠藤 さくら - 株式会社 ネオキャリア ｜海外事業本部 - LinkedIn LinkedIn https://jp.linkedin.com > さくら-遠藤-6b9060326",
+    "url": "https://jp.linkedin.com/in/%E3%81%95%E3%81%8F%E3%82%89-%E9%81%A0%E8%97%A4-6b9060326",
+    "pass": 3
+   },
+   {
+    "quote": "（株） ネオキャリア - LinkedIn （株） ネオキャリア - LinkedIn LinkedIn https://jp.linkedin.com > company > （株）ネオキャリア",
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ネオキャリア (@neocareer) / X 株式会社 ネオキャリア (@neocareer) / X X https://x.com > neocareer",
+    "url": "https://x.com/neocareer",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ネオキャリア グループ【公式】 (@neocareer_PR) / X ネオキャリア グループ【公式】 (@neocareer_PR) / X X https://x.com > neocareer_PR",
+    "url": "https://x.com/neocareer_PR",
+    "pass": 3
+   },
+   {
+    "quote": "第二新卒エージェントneo【公式】｜株式会社 ネオキャリア - X 第二新卒エージェントneo【公式】｜株式会社 ネオキャリア - X X https://x.com > under28_career",
+    "url": "https://x.com/under28_career",
+    "pass": 3
+   },
+   {
+    "quote": "# ネオキャリア - Search / X # ネオキャリア - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社の伴走役 on X: \" ネオキャリア の売上に対する利益 ... 人材紹介会社の伴走役 on X: \" ネオキャリア の売上に対する利益 ... X https://x.com > @stakafumi1986",
+    "url": "https://x.com/stakafumi1986/status/2072299625193840759",
+    "pass": 3
+   },
+   {
+    "quote": "西澤 亮一／ ネオキャリア 代表取締役 (@NC_nishizawa) / X 西澤 亮一／ ネオキャリア 代表取締役 (@NC_nishizawa) / X X https://x.com > NC_nishizawa",
+    "url": "https://x.com/NC_nishizawa",
+    "pass": 3
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "大手上場企業～ベンチャー企業まで計1,000社近くの支援を経験",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【案件報告】「株式会社ネオキャリア」への出資のお知らせ ｜ ニュースリリース ｜ Link and Motivation Inc. 株式会社リンクアンドモチベーション",
+    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【案件報告】「株式会社ネオキャリア」への出資のお知らせ",
+    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "経営コンサルティングの株式会社リンクアンドモチベーション（以下 LM）は、2014年11月13日に締結した出資に関する基本合意書に基づき、株式会社ネオキャリア（代表取締役 西澤亮一 本社：東京都新宿区）の第三者割当増資を引き受け、2014年12月12日付で同社に出資いたしました",
+    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2007年に東京証券取引所市場第二部に上場、2008年に市場第一部に指定換えを受け、現在は法人向けビジネス部門と、個人向けコンシューマー部門（PCスクール「AVIVA」、資格スクール「DAIEI」の運営等）の2つのセグメントで事業を推進しています",
+    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのような背景からインキュベーション推進室を設置し、出資を通じて投資先企業の価値向上をはかるサービスを実施しております",
+    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回の出資では、株式会社ネオキャリアの掲げる",
+    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7月 - 子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェント」）設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "子会社 株式会社就活カレッジを株式会社ネオキャリアに統合",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "子会社 株式会社アクサスコンサルティングジャパンと株式会社コスモ・サイエンティフィック・システムが事業統合をし、アクサス株式会社に社名変更",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "子会社「株式会社OA総研（サービス付き高齢者向け住宅及び訪問介護・看護事業所の運営）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7月 - 子会社「株式会社digsy（障がい者雇用をすすめる特例子会社）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(株)KOKUSAI ELECTRIC【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp68756/outline.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株主が大手人材会社だったのですが、そちらからも要請され、2002年から“雇われ社長”を 6 年間続けました",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株主に相談しに行くと、当然のことながら「解散するなら責任もってお金を返せ」と言われました",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私の代表としての最初の仕事は、株主に「一生かけて借金を返します」と宣言書に一筆記すことでした",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：まず会社を再出発させるために株主に出資を、銀行には融資をお願いしに行きました",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "それと同時に上場も延期になり、社員数も120人ほどで停滞",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "上場人材派遣会社からSIerまで、多様な企業の採用をサポート",
+    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
+    "pass": 1,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "障がいのある方も安心して働くことができ、キャリア形成ができる特例子会社として、様々なアウトソーシングサービスを手掛けています",
+    "url": "https://www.neo-career.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェントNeo」）を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社「株式会社就活カレッジ」を「株式会社ネオキャリア」に統合",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社「株式会社アクサスコンサルティングジャパン」と「株式会社コスモ・サイエンティフィック・システム」が事業統合をし、「アクサス株式会社」に社名変更",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社「株式会社OA総研（サービス付き高齢者向/け住宅及び訪問介護・看護事業所の運営）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社「株式会社digsy（障がい者雇用をすすめる特例子会社）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "障がいのある方も安心して働くことができ、キャリア形成ができる特例子会社として、様々なアウトソーシングサービスを手掛けています",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "未上場企業等に特化して気になる決算公告を収集し自分用に保管している倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "売上高524億円という規模は、未上場の人材系企業としてはトップクラスです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の有価証券報告書から人的資本開示・組織戦略を徹底分析",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "(株)大京穴吹不動産【オリックスグループ100％出資会社】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp68756/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアパーク就職エージェントは、東京証券取引所グロース市場に上場しているポート株式会社(証券コード：7047)が運営しているサービスです",
+    "url": "https://careerpark-agent.jp/interview/206-2",
+    "pass": 3
+   },
+   {
+    "quote": "近年も、障がい者雇用を推進する特例子会社の設立や、働きやすい環境づくり、地域社会への貢献などを進めています",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "quote": "【1日密着】野村證券→アサイン創業5人目の採用責任者！新卒採用責任者のしごと／アサイン",
+    "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "株式会社ネオキャリアは、2000年設立の総合人材サービス会社です",
+    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "当社は、2000年に創業以来、採用支援・人材育成・風土変革等、組織人事に関するワンストップコンサルティングをクライアントに提供することで成長してまいりました",
+    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "設立：2000年11月",
+    "url": "https://www.lmi.ne.jp/news/release/detail.php?id=722",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2000年11月15日 株式会社ネオキャリアを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7月 - 子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェント」）設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "海外法人「REERACOEN SHANGHAI＜HRS＞（中国現地法人）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現地法人 現・Agensi Pekerjaan Reeracoen Malaysia Sdn. Bhd.）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "海外法人「ABROADERS Co., Ltd.（タイ現地法人）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "海外法人「REERACOEN (SHANGHAI) HUMAN RESOURCE SERVICE CO.,LTD.(中国現地法人）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "子会社「株式会社OA総研（サービス付き高齢者向け住宅及び訪問介護・看護事業所の運営）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7月 - 子会社「株式会社digsy（障がい者雇用をすすめる特例子会社）」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2000年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "100年企業が新たな理念で挑む第二創業",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業10年でワクワクを求め理念を再策定、",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "人材総合サービス会社の株式会社ネオキャリアは、創業から約20年間、大きなピンチを迎える度に、理念やビジョンを作り変え、赤字経営から売上500億円規模の会社に成長",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "社員100人以下の創業フェーズはリーダーシップ型で急成長",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業から1年半後に4000万円の赤字で倒産の危機を迎えるも、西澤さんの代表就任後1年半で黒字化、V字回復に成功されました",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ところが、ネオキャリアは設立から1年半くらい赤字が続いて、給料も払えなくなりました",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2000年11月、株式会社ネオキャリアを設立、取締役に就任",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業から1年半後に4000万円の赤字で倒産の危機を迎えるも、西澤が代表就任後1年半で黒字化、V字回復に成功する",
+    "url": "https://rinen-lab.encourage-inc.jp/times/interview/664/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "天国と地獄を経験した起業家が語る「逆境を乗り越える秘訣」 - 創業手帳【公式】",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2000年に創業した株式会社ネオキャリア",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今回は、そんな経営の酸いも甘いも経験してきた西澤氏に、起業するに至った経緯や起業家として持つべき考えや姿勢について、創業手帳 代表の大久保が伺いました",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大学を卒業した年の2000年に、中途採用支援を行う「株式会社ネオキャリア」を設立し、取締役に就任する",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "大手ITベンチャー役員で、多くの起業家を見た中で「創業後に困ることが共通している」ことに気づき会社の母子手帳、創業手帳を考案",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2014年にビズシード社(現：創業手帳)創業",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "内閣府会社設立ワンストップ検討会の常任委員や大学、官公庁などでの講義も600回以上行っている",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、結果から言うと設立から一回たりとも黒字になることなく損失が膨らみ続け、1年3ヶ月後には役員の給与がストップ",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業メンバーも会社がこんな状態になったことに責任を感じていたようで、「会社を立て直すまでは給与を我慢する」と言ってついてきてくれました",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業期に取り組むべき基本知識や資金調達から経営戦略まで、経営に役立つ内容が満載",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "小規模事業者持続化補助金＜創業型＞は申請すべき？最大200万円でも注意したい自己負担",
+    "url": "https://sogyotecho.jp/neo-career-1/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2000年の創業以来、一貫して人材ビジネスを中心に事業を拡大しています",
+    "url": "https://www.neo-career.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年の創業当時、人材ビジネスの経験が全くなかった私たちは、「成長し続ける」という思想のもと、お客様の成長に繋がるサービスを提供し続けるにこだわり続け、",
+    "url": "https://www.neo-career.co.jp/about/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "同年11月、株式会社ネオキャリアを共同設立し取締役に就任",
+    "url": "https://www.neo-career.co.jp/company/company-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "同年11月、株式会社ネオキャリアを共同設立し取締役に就任",
+    "url": "https://www.neo-career.co.jp/company/officers/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年11月15日 株式会社ネオキャリアを設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社 株式会社アクサスコンサルティングジャパン（現：アクサス株式会社）を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社 株式会社就活カレッジ（現：新卒紹介事業「就職エージェントNeo」）を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "初の海外法人「Reeracoen Singapore Pte.Ltd.（シンガポール現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「REERACOEN RECRUITMENT CO.,LTD.（タイ現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「PT.REERACOEN INDONESIA（インドネシア現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「REERACOEN BPO INC.（フィリピン現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「REERACOEN SHANGHAI＜HRS＞（中国現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「REERACOEN PHILIPPINES INC.（フィリピン現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「REERACOEN VIETNAM CO.,LTD（ベトナム現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「REERACOEN EASTERN SEABOARD CO.,LTD.（タイ現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「REERACOEN MALAYSIA SDN. BHD.（マレーシア現地法人 現・Agensi Pekerjaan Reeracoen Malaysia Sdn. Bhd.）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「REERACOEN TAIWAN CO.,LTD（台湾現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「ABROADERS Co., Ltd.（タイ現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「REERACOEN HONG KONG CO.,LTD（香港現地法人）を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外法人「REERACOEN (SHANGHAI) HUMAN RESOURCE SERVICE CO.,LTD.(中国現地法人）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社「株式会社ネオコンストラクション（施工管理職を中心とした技術者派遣）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社「株式会社OA総研（サービス付き高齢者向/け住宅及び訪問介護・看護事業所の運営）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社「株式会社digsy（障がい者雇用をすすめる特例子会社）」を設立",
+    "url": "https://www.neo-career.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば保育所を１園設立するにあたっても、初期投資として1億円ほど資金が必要になるのですが、そういったことに対する判断も一次的なものであれば10分程度でなされるなど、このスピード感の速さは日々実感しています",
+    "url": "https://www.neo-career.co.jp/recruit/newgrads/",
+    "pass": 1
+   },
+   {
+    "quote": "創業から20年以上を経て、人材サービスからHR Tech、ヘルスケア領域へと事業を",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "設立: 2000年11月",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来のコア事業です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "設立: 2000年11月15日",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/12/31/190000_2",
+    "pass": 3
+   },
+   {
+    "quote": "「アジアNo.1のサービスカンパニー」「世界を代表するサービスカンパニー」を目指し、2000年に創業した「",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/neocareer.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ryoichi Nisizawa・2000年、大学卒業と同時に中途採用支援を行うネオキャリアを設立し、取締役に就任",
+    "url": "https://careerpark-agent.jp/interview/206-2",
+    "pass": 3
+   },
+   {
+    "quote": "創業まもない会社でロクに企業理解もしていなかったのですが、アルバイト先からも正社員に誘われていたので「ダメならそこに入らせてもらおう」と考え、1期生として飛び込んでみることにしました",
+    "url": "https://careerpark-agent.jp/interview/206-2",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ入社時の約束どおり、まもなく会社設立に携わることができましたし、創立メンバーにも出会えたので、その点はラッキーだったと思っています",
+    "url": "https://careerpark-agent.jp/interview/206-2",
+    "pass": 3
+   },
+   {
+    "quote": "ネオキャリアは2000年に設立された人材サービス企業です",
+    "url": "https://note.com/cool_briony6489/n/nce8f6916a47c",
+    "pass": 3
+   },
+   {
+    "quote": "また、創業から同社を率いてきた代表取締役CEO・西澤亮一氏の生い立ちや経営者としての人物像についてもご紹介していきます",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "2000年11月15日に設立され、人材の採用から就労、企業の業務効率化まで、多様なニーズに応えるサービスを提供しています",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "設立：2000年11月15日",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ネオキャリアは、2000年11月に設立されました",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "創業当初は中途採用支援や求人広告事業からスタートし、その後、人材紹介や新卒採用支援、人材派遣などへ事業を拡大しています",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "創業から間もない時期に経営上の困難を経験したものの、経営体制を立て直し、事業の成長を目指してきました",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "2010年には人材派遣事業を開始し、さらに2011年にはシンガポールに現地法人を設立し、海外展開にも着手しています",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "2010年代には海外拠点の設立やグループ会社の拡大を進め、事業の多角化を推進しました",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "近年も、障がい者雇用を推進する特例子会社の設立や、働きやすい環境づくり、地域社会への貢献などを進めています",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "西澤亮一氏は、株式会社ネオキャリアの共同創業者であり、代表取締役CEOを務める経営者です",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "1978年2月に北海道で生まれ、2000年に新卒で投資会社へ入社した後、同年11月に株式会社ネオキャリアを共同設立しました",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後は投資会社に入社しましたが、同年に同期の仲間とネオキャリアを設立しました",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "ネオキャリアの創業後、同社は順調な成長だけを経験してきたわけではありません",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "公開インタビューでは、設立から約1年半で4,000万円の赤字を抱え、一時は倒産の危機に直面したことが明かされています",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   },
+   {
+    "quote": "また、創業時から人材サービスの経験が豊富だったわけではなく、顧客の声に耳を傾けながらサービスを成長させてきたことも、公式の代表メッセージで語られています",
+    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
+    "pass": 3
+   }
   ]
  },
  "checked": {
@@ -4624,17 +4828,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.neo-career.co.jp/humanresource/middlecareer/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.neo-career.co.jp/humanresource/newgrad/",
     "status": "ok",
     "method": "http"
    }
@@ -4656,7 +4860,17 @@
     "method": ""
    },
    {
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAK2AQMAAABkZverAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAHxJREFUGBntwTEBAAAAwiD7p14Gf2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAJmWkAAcKjwGQAAAAASUVORK5CYII=",
+    "status": "error",
+    "method": ""
+   },
+   {
     "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAu4AAAHbAQMAAACujI0KAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAEFJREFUGBntwQEBAAAAgqD+r3ZIwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgRbBFAAHPXnpUAAAAAElFTkSuQmCC",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAu4AAAGyAQMAAACBd9OYAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAD5JREFUGBntwQENAAAAwiD7p34PBwwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4E6EOAAGX/qd4AAAAAElFTkSuQmCC",
     "status": "error",
     "method": ""
    }
@@ -4703,11 +4917,6 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/oolong_note/n/n458a5921e47a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/nobusanchamame/n/n73510a31609f",
     "status": "ok",
     "method": "http"
@@ -4748,22 +4957,22 @@
     "method": ""
    },
    {
-    "url": "https://www.facebook.com/dainiagent/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://www.facebook.com/neocareer.rpo/",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://www.facebook.com/neocareer.mi/",
+    "url": "https://www.facebook.com/dainiagent/",
     "status": "robots_disallowed",
     "method": ""
    },
    {
     "url": "https://www.facebook.com/neorecruit.switch/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/neocareer.mi/",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -4839,7 +5048,7 @@
     "https://www.neo-career.co.jp/humanresource/green/case/",
     "https://www.neo-career.co.jp/humanresource/knowhow/b-contents-rpo-saiyodaikozirei-181115/",
     "https://bizfocus.jp/cases",
-    "https://www.neo-career.co.jp/humanresource/case_search_result?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8&tag=%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "https://www.neo-career.co.jp/humanresource/baitoru/case/",
     "https://it-trend.jp/recruitment_outsourcing/23758/case"
    ]
   },
@@ -4853,9 +5062,9 @@
     "https://www.eigyoudaikou-insidesales.com/neo-career",
     "https://www.neo-career.co.jp/humanresource/neokyujinbu/price/",
     "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-newgrad-shinsotsusaiyou-price-181204/",
-    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
     "https://strate.biz/rpo/neocareer/",
-    "https://ja.wikipedia.org/wiki/ネオキャリア"
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "https://www.itreview.jp/products/neo-career-rpo/price"
    ]
   },
   {
@@ -4866,11 +5075,10 @@
     "https://careerpark-agent.jp/interview/206-2",
     "https://www.wantedly.com/companies/www-neo-career-co/stories",
     "https://sogyotecho.jp/neo-career-2/",
+    "https://www.youtube.com/watch?v=Vj6gIkdt7Xs",
     "https://www.youtube.com/channel/UCC9xt8Nlrx9qDuK2pNv1kqQ/videos",
     "https://www.neo-career.co.jp/recruit/newgrads/",
-    "https://www.youtube.com/watch?v=Vj6gIkdt7Xs",
-    "https://rinen-lab.encourage-inc.jp/times/interview/664/",
-    "https://ja.wikipedia.org/wiki/西澤亮一"
+    "https://rinen-lab.encourage-inc.jp/times/interview/664/"
    ]
   },
   {
@@ -4878,10 +5086,10 @@
    "results": [
     "https://note.com/jazzy_snipe8884/n/n46662ae9d5ae",
     "https://note.com/cool_briony6489/n/nce8f6916a47c",
-    "https://note.com/oolong_note/n/n458a5921e47a",
     "https://note.com/nobusanchamame/n/n73510a31609f",
     "https://note.com/merry_tapir4341/n/n6f0aeb7e288f",
     "https://note.com/bee_neocareer/n/n8fa40643bbd4",
+    "https://note.com/oolong_note/n/n458a5921e47a",
     "https://note.com/careercompass_c/n/n937bf3579a16",
     "https://note.com/jci_digital_note/n/n8c102f57eb67",
     "https://note.com/axi333/n/n2c6de93c802f",
@@ -4921,15 +5129,15 @@
   {
    "query": "site:facebook.com ネオキャリア",
    "results": [
-    "https://www.facebook.com/dainiagent/",
     "https://www.facebook.com/neocareer.rpo/",
-    "https://www.facebook.com/neocareer.mi/",
+    "https://www.facebook.com/dainiagent/",
     "https://www.facebook.com/neorecruit.switch/",
+    "https://www.facebook.com/neocareer.mi/",
     "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-bpo%E5%AE%AE%E5%B4%8E%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-100057326834536/",
-    "https://www.facebook.com/kouhei.takayama/",
     "https://www.facebook.com/a.sasajiyui/",
-    "https://www.facebook.com/p/Kai-Kurihara-100012758953923/",
     "https://www.facebook.com/events/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-fronteo%E5%85%B1%E5%82%ACweb%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E6%8E%A1%E7%94%A8%E5%B8%82%E6%B3%81%E3%81%A8%E9%9B%A2%E8%81%B7%E7%8E%87%E3%81%AE%E7%8F%BE%E7%8A%B6-%E3%82%B3%E3%83%AD%E3%83%8A%E7%A6%8D%E3%81%AB%E3%82%88%E3%82%8B%E7%8A%B6%E6%B3%81%E3%81%AE%E5%A4%89%E5%8C%96/453097706052229/",
+    "https://www.facebook.com/neorecruit.switch/videos/%E3%81%93%E3%81%AE%E5%A4%8F%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%EF%BD%8C%E5%85%A8%E5%9B%BD%E3%81%AE%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%81%AE%E4%B8%AD%E3%81%8B%E3%82%89%E9%81%B8%E3%81%B0%E3%82%8C%E3%81%9F%E3%81%9F%E3%81%A3%E3%81%9F20%E5%90%8D%E3%81%AE%E3%81%BF%E3%81%8C%E5%8F%82%E5%8A%A0%E3%81%A7%E3%81%8D%E3%82%8B2%E6%B3%8A3%E6%97%A5%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3beat%E4%BA%A4%E9%80%9A%E8%B2%BB%E5%AE%BF%E6%B3%8A%E8%B2%BB%E3%81%AF%E5%AE%8C%E5%85%A8%E7%84%A1%E6%96%99/1195688013798054/",
+    "https://www.facebook.com/kouhei.takayama/",
     "https://www.facebook.com/ex.tower.of.wish.kg/"
    ]
   },
@@ -4944,8 +5152,8 @@
     "https://note.com/oolong_note/n/n458a5921e47a",
     "https://www.youtube.com/watch?v=475VYPdghIg",
     "https://www.neo-career.co.jp/news/article_17181/",
-    "https://note.com/tag/%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
-    "https://ja.wikipedia.org/wiki/西澤亮一"
+    "https://ja.wikipedia.org/wiki/西澤亮一",
+    "https://note.com/neo_nishizawa/n/nb4e8b93bbe95"
    ]
   },
   {
@@ -4954,337 +5162,221 @@
     "https://x.com/neocareer_PR",
     "https://www.neo-career.co.jp/humanresource/x-techagent/",
     "https://www.neo-career.co.jp/humanresource/growth-x/price/",
+    "https://rocket-boys.co.jp/security-measures-lab/neocareer_studio_xtech_agent_bee_data_exposure_20261020/",
     "https://www.neo-career.co.jp/humanresource/growth-x/strong/",
     "https://syukatsu-kaigi.jp/companies/96767",
     "https://www.neo-career.co.jp/news/article_26461/",
     "https://www.neo-career.co.jp/humanresource/growth-x/plan/",
     "https://www.tiktok.com/@neocareer.saiyo",
-    "https://x.com/neocareer_PR/status/1775088675812229615",
     "https://x.com/hashtag/ネオキャリア"
    ]
   }
  ],
  "missing": {
-  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像4件／外部24頁・検索12回）"
+  "株主": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部23頁・検索12回）"
  },
  "new_this_run": {
-  "料金": [
-   {
-    "quote": "ITエンジニアの採用成功事例｜転職フェアの活用で、採用単価45万円で経験者の採用に成功！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "応募者の質を改善し採用率を高めた事例｜原稿とスカウトの工夫で費用対効果の改善は可能！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "地方学生の採用事例｜採用単価を30万円削減しつつマイナビで母集団を形成する方法",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "LINEと連携した採用管理システムの導入事例｜アウトソーシング廃止によって、120万円のコスト削減に成功",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "高額だった割に採用に活かしきれていなかった適性テストを思い切って変更！100万円以上のコスト削減",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "予算に応じたチャネル・ツール・プランの選定、費用対効果や採用単価の可視化",
-    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用規模やターゲット、現状の課題に合わせてプランを組むため、料金は変動する仕組みです",
-    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人材紹介・求人媒体・Web広告といった手法の組み合わせから、専任コンサルタントによるプロジェクト統括まで、貴社専用のオーダーメイド体制を構築し、無駄を省いた適正価格でご提案します",
-    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "書類通過率94.7%・平均年収+113万円・全員20代のアドバイザー",
-    "url": "https://note.com/jazzy_snipe8884/n/n46662ae9d5ae",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新卒初任給：月給28万円（基本給20.7万円＋固定残業代7.3万円）",
-    "url": "https://note.com/oolong_note/n/n458a5921e47a",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開インタビューでは、設立から約1年半で4,000万円の赤字を抱え、一時は倒産の危機に直面したことが明かされています",
-    "url": "https://note.com/nobusanchamame/n/n73510a31609f",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（note・本文）": [
-   {
-    "quote": "転職や採用を検討している方はもちろん、今後のキャリア形成の参考にもなる内容です。",
-    "url": "https://note.com/cool_briony6489/n/nce8f6916a47c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ネオキャリアは2000年に設立された人材サービス企業です。",
-    "url": "https://note.com/cool_briony6489/n/nce8f6916a47c",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "株主構成": [
-   {
-    "quote": "上場人材派遣会社からSIerまで、多様な企業の採用をサポート",
-    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "製造業の顧客": [
    {
-    "quote": "ITエンジニア経験者採用を一貫した採用代行サービスでサポート！顧客の課題に対して最適なプランニングで3ヶ月で5名の内定実績！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカーの営業職学生の採用成功事例｜独自の強みを持つ合同企業説明会を活用し2名の採用に成功！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー（素材・化学・食品・化粧品・その他）",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカーの新卒採用事例｜マイナビ×採用代行サービスの活用でインターンシップ経由の選考通過率を改善",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "LINEと連携した採用管理システムの導入事例｜アウトソーシング廃止によって、120万円のコスト削減に成功",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカーの営業職学生の採用成功事例｜独自の強みを持つ合同企業説明会を活用し2名の採用に成功！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカー（素材・化学・食品・化粧品・その他）",
-    "url": "https://www.neo-career.co.jp/humanresource/case/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "売り方": [
-   {
-    "quote": "5名の採用目標に対して6名の採用に成功！予算も想定の6割に抑えながら、紹介でも難しいポジションを媒体で採用できた秘訣とは",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ダイレクトリクルーティングの成功事例｜製造・営業など複数職種の採用単価を3分の1まで削減",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ダイレクトリクルーティングの採用事例｜施工管理・営業職の採用単価を半分以下に削減！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業経験者の採用成功事例｜doda Recruitersで採用コストを60％削減したスカウトメール活用術",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "年商520億を生み出す驚異の結束力 ネオキャリア社長 の人材戦略 — 年商520億を生み出す驚異の結束力 ネオキャリア社長 の人材戦略 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー",
-    "url": "https://sogyotecho.jp/neo-career-2/",
+    "quote": "徹底的な顧客ファーストで日本一を目指すACN経営研究所",
+    "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
     "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "売上・規模": [
-   {
-    "quote": "『採用における全工程を、すべて自分たちでやるべきなのか？』実務の限界をRPOで解決し、年間75名の採用を成功させたストーリー",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：3000名～",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "バックオフィス1名体制で採用成果を最大化した方法",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：～49名",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：100～299名",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：1000～2999名",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年間採用目標1,000名が半年で充足！同じ熱量で採用に向き合ってくれる頼もしいパートナー",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ITエンジニア経験者採用を一貫した採用代行サービスでサポート！顧客の課題に対して最適なプランニングで3ヶ月で5名の内定実績！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：50～99名",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "従業員数：300～499名",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "5名の採用目標に対して6名の採用に成功！予算も想定の6割に抑えながら、紹介でも難しいポジションを媒体で採用できた秘訣とは",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業職の採用成功事例｜転職フェアの活用で一度に5名の営業職の採用に成功！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "携帯販売スタッフの採用成功事例｜マイナビ転職フェアの地方開催で7名の採用に成功",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "人材業界の営業職採用成功事例｜人材紹介サービスの利用で3名の採用に成功！",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
    }
   ],
   "発言": [
    {
-    "quote": "採用課題の解決、新しい採用の取り組みなどを取材したインタビュー記事が読める",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8",
+    "quote": "まずはダイレクトリクルーティングの代表的な料金形態、「成功報酬型」と「定額型」について解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
     "pass": 1,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
    },
    {
     "quote": "採用課題の解決、新しい採用の取り組みなどを取材したインタビュー記事が読める",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E6%96%B0%E5%8D%92%E6%8E%A1%E7%94%A8",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
     "pass": 1,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "採用課題の解決、新しい採用の取り組みなどを取材したインタビュー記事が読める",
-    "url": "https://www.neo-career.co.jp/humanresource/case_search_result/?type=%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88%E6%8E%A1%E7%94%A8",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "取り扱いサービスを利用して採用を成功させた事例や、弊社サービスをご利用いただいた企業のインタビューをご紹介しております",
-    "url": "https://www.neo-career.co.jp/humanresource/case/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用課題の解決、新しい採用の取り組みなどを取材したインタビュー記事が読める",
-    "url": "https://www.neo-career.co.jp/humanresource/case/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "採用課題の解決、新しい採用の取り組みなどを取材したインタビュー記事が読める",
-    "url": "https://www.neo-career.co.jp/humanresource/volume-hiring-service/",
-    "pass": 1,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "【ネオキャリア社長の学べるチャンネル】りょういっちゃんねる 4,318回視聴 2 年前",
+    "quote": "【社長インタビュー】売却の葛藤を知るからこそ",
     "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
     "pass": 3,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "大手転職エージェントの実態を暴露【転職エージェントが語るすべらない転職】",
-    "url": "https://www.youtube.com/watch?v=A7H-IIGtreA",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エデュビジョン 【ビジヴォ】代表 教室運営責任者 秋竹 朋子さん",
+    "quote": "経営者JP 代表取締役社長・CEO 井上 和幸さん",
     "url": "https://careerpark-agent.jp/interview/206-2",
     "pass": 3,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "料金": [
+   {
+    "quote": "ダイレクトリクルーティングの料金形態と費用相場・10社比較",
+    "url": "https://www.neo-career.co.jp/humanresource/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本ベッド製造 代表取締役社長 宇佐見壽治さん",
-    "url": "https://careerpark-agent.jp/interview/206-2",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "quote": "ダイレクトリクルーティングの料金形態と費用相場・10社比較",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングサービスの料金形態の1つ「成功報酬型」の費用相場は、採用した人材の想定年収の15％から20％程度と算出されています",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、ダイレクトリクルーティングの料金形態はサービスにより異なります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事では2026年最新ダイレクトリクルーティングの料金形態や料金形態別の費用相場について解説をしつつ、おすすめのサービスを比較しながら紹介します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・ダイレクトリクルーティングの料金形態と費用相場",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "求人数無制限＋成功報酬無料のダイレクトリクルーティング！",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1．ダイレクトリクルーティングの料金形態",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "料金形態1・成功報酬型",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "料金形態2・定額型",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2．ダイレクトリクルーティングサービスの費用相場",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングサービスの料金比較表",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用予定人数や採用期間により適切な料金形態を選ぶ",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングの料金形態はおおむね",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その他、初期費用やサービス使用料、チケット消費量などが発生するダイレクトリクルーティングサービスもあるので導入前に確認しておきましょう",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "まずはダイレクトリクルーティングの代表的な料金形態、「成功報酬型」と「定額型」について解説します",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングの料金形態のひとつ",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「成功報酬型」は、企業が採用に成功したときに費用が発生",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングサービスにより、「採用に成功した」と判断されて費用が発生するタイミングが異なります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "入社日が決定した段階で費用が発生するのか、入社1ヵ月程度猶予を設けて定着の確認後に費用が発生するのかなど、成功報酬の発生時期を導入前に確認をしておきましょう",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングサービスにより、成功報酬とは別に初期費用やサービス利用期間に応じたシステム管理料などが必要な場合があります",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "はじめてダイレクトリクルーティングサービスを利用する企業や、他の求人媒体と併用予定の企業は採用コストを削減しやすい成功報酬型のダイレクトリクルーティングサービスがおすすめです",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "成功報酬型は成功報酬×採用人数分の料金が発生",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "また、採用した人材が入社直後に退職してしまったときや、入社直前の内定辞退などが生じたときのために、成功報酬費用の返金の可否をあらかじめ確認しておくと安心です",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ダイレクトリクルーティングの料金形態のふたつめ「定額型」は、ダイレクトリクルーティングサービスの",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "利用期間や採用予定人数などに応じた一定の料金",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "株主構成": [
+   {
+    "quote": "大手上場企業～ベンチャー企業まで計1,000社近くの支援を経験",
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-direct-recruiting-ryoukin20240131/",
+    "pass": 1,
+    "first_seen": "2026-11-06"
    }
   ]
  },
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-04T15:02:44.849445+00:00"
 }

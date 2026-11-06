@@ -5,7 +5,7 @@
   "OSHD"
  ],
  "context": "製造業向け派遣・請負（上場）",
- "researched_at": "2026-11-05T19:30:14.402547+00:00",
+ "researched_at": "2026-11-06T03:57:34.505168+00:00",
  "official_url": "https://www.outsourcing.co.jp/",
  "identified_by": "given",
  "profile": {
@@ -167,6 +167,46 @@
   ]
  },
  "evidence": {
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "アウトソーシング と顧客満足に関する一般的な誤解 - LinkedIn アウトソーシング と顧客満足に関する一般的な誤解 - LinkedIn LinkedIn https://jp.linkedin.com > pulse",
+    "url": "https://jp.linkedin.com/pulse/common-misconceptions-outsourcing-client-satisfaction-richards-mk5he?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "カスタマーサポートの アウトソーシング 会社で注目すべき ... カスタマーサポートの アウトソーシング 会社で注目すべき ... LinkedIn https://jp.linkedin.com > pulse",
+    "url": "https://jp.linkedin.com/pulse/what-look-customer-support-outsourcing-companies-philip-ruffini-oav0c?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アウトソーシング はもはやお金を節約するためではありません ... アウトソーシング はもはやお金を節約するためではありません ... LinkedIn https://jp.linkedin.com > pulse",
+    "url": "https://jp.linkedin.com/pulse/outsourcing-isnt-saving-money-anymore-xka4e?tl=ja",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アウトソーシング のコスト構造を理解する - LinkedIn アウトソーシング のコスト構造を理解する - LinkedIn LinkedIn https://jp.linkedin.com > pulse > understanding-cost-struct...",
+    "url": "https://jp.linkedin.com/pulse/understanding-cost-structure-outsourcing-andrea-l-richards-afjbe?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "初めての アウトソーシング でよくある失敗を避けるための ... 初めての アウトソーシング でよくある失敗を避けるための ... LinkedIn https://jp.linkedin.com > pulse > tips-tricks-avoid-commo...",
+    "url": "https://jp.linkedin.com/pulse/tips-tricks-avoid-common-first-time-outsourcing-mistakes-ykujf?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "アウトソーシング の現代的根拠 - LinkedIn アウトソーシング の現代的根拠 - LinkedIn LinkedIn https://jp.linkedin.com > pulse",
+    "url": "https://jp.linkedin.com/pulse/modern-case-outsourcing-clive-owen-llp-0yyse?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の アウトソーシング :真の顧客価値はどこから生まれる ... 2026年の アウトソーシング :真の顧客価値はどこから生まれる ... LinkedIn https://jp.linkedin.com > pulse > outsourcing-2026-where...",
+    "url": "https://jp.linkedin.com/pulse/outsourcing-2026-where-real-client-value-come-from-sam-darwish-yysdc?tl=ja",
+    "pass": 3
+   }
+  ],
   "SNS・note（X・検索結果の抜粋）": [
    {
     "quote": "ジパング アウトソーシング サービス株式会社 - X ジパング アウトソーシング サービス株式会社 - X X https://x.com > Japang_Onestop",
@@ -545,206 +585,346 @@
     "pass": 3
    }
   ],
-  "採用・人数": [
+  "製造業の顧客": [
    {
-    "quote": "一人当たり採用コスト推移一人当たり採用コスト推移",
+    "quote": "● 大手自動車メーカー、周辺企業への営業",
     "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "採用人数03年 採用人数04年 採用人数05年",
+    "quote": "● 効率向上を目的とし、メーカー工場内の一部または全ての",
     "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "採用単価03年 採用単価04年 採用単価05年",
+    "quote": "◆ 製造過程の多様なリスクを、顧客と分担してミニマイズ",
     "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "１２月の採用単価低",
+    "quote": "工場における生産の流れ工場における生産の流れ",
     "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "● 山形県、山梨県などで人材募集に効果",
+    "quote": "多業種にわたる顧客企業多業種にわたる顧客企業",
     "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "検討：採用か、アウトソーシングか",
+    "quote": "◆ 顧客業種を分散 → 業績の変動が少ない",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "顧客ニーズに合わせた雇用技術によるビジネスモデル顧客ニーズに合わせた雇用技術によるビジネスモデル",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "◆ 作業の標準化・マニュアル化を顧客に提案",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情シスアウトソーシング導入事例 ― 製造業50名規模のひとり情シスが限界を迎えるまでと、その後 | 情シス365",
     "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "経営者との協議の結果、まずIT専任者の採用を検討しましたが、以下の理由でアウトソーシングに方針転換しました",
+    "quote": "情シスアウトソーシング導入事例 ― 製造業50名規模のひとり情シスが限界を迎えるまでと、その後",
     "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "IT専任者を正社員で採用すると、年間で500万円〜600万円の人件費が必要です",
+    "quote": "製造業50名規模の典型的なケースを紹介しています",
     "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "IT関連コストの月額は増加していますが、Aさんが総務業務に集中できるようになったことで、採用事務や労務管理の品質が向上",
+    "quote": "本記事では、複数の支援実績をもとに構成した典型的なケーススタディとして、従業員50名規模の製造業企業が情シスアウトソーシングを導入するまでの経緯と成果を紹介します",
     "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "IT担当を採用するか、外注するか ― 中小企業のコスト比較シミュレーション",
+    "quote": "約50名（本社＋工場）",
     "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ITアウトソーシングは、企業のIT業務を外部の専門業者に委託する手法で、最近は多くの企業が採用している手法です",
+    "quote": "主要取引先の大手メーカーから、サプライチェーンセキュリティの一環としてセキュリティ対策状況の回答を求められました",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "地方の製造業にITエンジニアを呼ぶハードルは高く、人材紹介会社に依頼しても3ヶ月以上マッチングがつかない状態でした",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに、セキュリティ体制の整備により取引先からのチェックシートにも対応でき、取引継続のリスクが解消されました",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "官公庁・医療・金融・製造業など幅広い業界で10年以上の実績を持つ",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ITアウトソーシング業種別の導入事例から見る成功の秘訣！",
     "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "採用、人材育成、賃金制度、人事評価制度等のコンサルティング実績を数多く有している社労士事務所はそう多くはない印象を持っています",
-    "url": "https://www.nkr-office.com/works3/",
+    "quote": "この記事では、ITアウトソーシングの基本と市場動向から、その導入事例まで幅広く紹介し、私の知見に基づいた成功の秘訣を詳しく解説いたします",
+    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "には、法的な労務相談の対応だけでなく、なかの経営労務事務所の強みである、数多くの採用、人材育成、賃金制度、人事評価制度等のコンサルティング実績を裏付けとした、採用、人材育成、賃金制度、人事評価制度の運用支援のアドバイスも含まれており、ワンランク上のアドバイスを提供できます",
-    "url": "https://www.nkr-office.com/works3/",
+    "quote": "製造業、小売業、金融業など多様な業種での成功事例を通じて、導入の際の注意点やベンダー選びのポイント、さらにはクラウドソリューションの活用方法など、具体的なノウハウと、ITアウトソーシングの全貌を全てお伝えいたします",
+    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【話し手：山﨑 高之／聞き手：松村 周平／執筆：佐野 創太／編集・監修：BREXA Holdings 採用広報・編集チーム】",
-    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
+    "quote": "2. 業種別ITアウトソーシング導入事例",
+    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "人手不足でも採用だけが答えではない｜中小企業の5つの選択肢",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "quote": "今回、製造業、小売業、金融業における具体的なITアウトソーシングの成功事例を紹介します",
+    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "でも、本当に採用が必要ですか？",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "quote": "2.1. 製造業における成功事例",
+    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「採用できなければ無料」という甘美な罠――ある人材紹介会社が送りつけてきた“怪文書”と、仕事をおざなりにする者たちの末路",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "quote": "製造業では、ITアウトソーシングの導入により生産効率が劇的に向上した事例があります",
+    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "もちろん国内での開発体制における人財投資も活発となっており、各社積極的な採用活動をしています",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "quote": "まず、ある大手メーカーは生産管理システムを外部委託しました",
+    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「総合職採用」や「就社」とも表現されますね",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "quote": "顧客の需要に迅速に対応できる体制が整い、競争力が向上しました",
+    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「専門職採用」や「職に就く」=「就社」ではなく「就職」と表現するとわかりやすいかと思います",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "quote": "具体例として、ある大手小売チェーンでは、POSシステムと顧客管理システムを外部に委託しました",
+    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "良くないパターンとして部署異動によって例えば営業職といった希望外の異動があるかもしれません",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "主に製造業のお客様に対し採用に関する支援を7年間経験",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "キャリア採用の応募を受け付けています",
+    "quote": "国内外で製造業などへの人材派遣を手がける",
     "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
     "pass": 3
    },
    {
-    "quote": "日経平均採用の株価",
-    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
+    "quote": "少子高齢化が進行する日本では、製造業、IT業界、建築業界などで深刻な人手不足が続いており、この状況は今後長期にわたると予測されています",
+    "url": "https://www.brexa.com/news/1646/",
     "pass": 3
    },
    {
-    "quote": "本社採用案内",
-    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
+    "quote": "当社は、サービス業界を中心とした幅広い顧客企業様に向けて、業務請負・人材派遣サービスを展開してまいりました",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
     "pass": 3
    },
    {
-    "quote": "前年の採用データ",
+    "quote": "「サービスに付加価値を求めて！お客様に価値あるサービスの提供を！」を企業理念として掲げ、提案力の強化に継続して取り組むことで、人手不足という社会的課題に直面する顧客企業様と、働く意欲を持つ求職者の双方に寄り添い、課題解決を通じて信頼を積み重ねてまいりました",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
+    "pass": 3
+   },
+   {
+    "quote": "取引社数1500社以上！日本を代表する大手・上場メーカーと多数の取引！",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "【秋採用実施中！内々定まで最短2週間】エリア確約可能◎志望動機不問◎文理不問｜製造系人材業界No.1｜取引社数1500以上｜年休120日｜家賃補助あり｜資格取得支援",
+    "quote": "国内1,500社以上のメーカーと取引を行うBREXA Next",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "年間休日120日・エリア限定採用あり！希望エリアで、着実にスキルアップできる環境があります！",
+    "quote": "自動車や電子部品、医療機器、食品など幅広い業界のものづくりを支えながら、日本の製造業の発展に貢献している",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "進むべき道に迷ったときも、キャリアアドバイザーや営業担当、採用部のメンバーが力を合わせて社員を支援します",
+    "quote": "製造業で働く人たちの可能性を広げ、日本のものづくりを支える",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "＜新卒採用部 部長・佐藤 康平＞",
+    "quote": "BREXA Nextでは製造領域を中心としたアウトソーシング事業を通して、国内の1,500社以上のメーカーのものづくりを、“人”の力で支えています",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "採用実績（学校）",
+    "quote": "社員の大多数は製造業未経験者であり、その中には文系出身者も数多く含まれています",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "採用実績（人数）",
+    "quote": "どのメーカーもマニュアルが整っており、どういう順序やタイミングで作業すれば製品が形になるのかは決まっていますから、真摯な姿勢で学び続ければ十分にスタートラインに立つことができます",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "過去3年間の新卒採用者数（男女別）",
+    "quote": "中でも製造業における時間が整った働き方を活用して、別の夢を追いかける社員を支援する「はたゆめプロジェクト」では、イラストレーターや声優などを目指す社員に対して、その道のプロから指導を受けられる場所を提供しています",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "過去3年間の新卒採用者数・",
+    "quote": "製造業向け人材サービス（人材派遣・請負・職業紹介）",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "会社概要に記載されている内容はマイナビ2027に掲載されている内容を一部抜粋しているものであり、2028年卒向けの採用情報ではありません",
+    "quote": "全国の大手メーカーを中心に1,500社以上との取引実績があり、日本のものづくりを支えるさまざまな現場で活躍しています",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "採用受付センター",
+    "quote": "入社後は、製品の組立や加工、検査といった製造業務をはじめ、品質管理や設備保全、生産技術など、多様な仕事に携わることが可能です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車、日産自動車、SUBARU、ダイハツ工業、いすゞ自動車、豊田合成、アイシン、ブリヂストン、キヤノン、ソニー、シャープ、東芝、LIXIL、YKK、川崎重工業、アステラス製薬、味の素冷凍食品、江崎グリコ、紀文食品 ほか大手メーカー1,500社以上（敬称略・順不同）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "他にも、クライアント先工場内での決まり事や基本的な約束ごとなど、",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造・メーカー - 事例紹介｜芙蓉アウトソーシング＆コンサルティング株式会社",
+    "url": "https://www.noc-net.co.jp/case/industry/manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・メーカー",
+    "url": "https://www.noc-net.co.jp/case/industry/manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるアウトソーシングの導入例やメリットについて – 堺・大阪・枚方・京都の人材派遣ならパワーキャスト",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるアウトソーシングの導入例やメリットについて",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、アウトソーシングの基本と、製造業におけるアウトソーシングの導入例を解説します",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "2.製造業におけるアウトソーシングのメリット",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "3.製造業におけるアウトソーシングのデメリット",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "4.製造業におけるアウトソーシングの導入例",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "4-3.工場での製造を一括で委託",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、製造業におけるアウトソーシングのメリットを3つ解説します",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業務のアウトソーシングが実現されれば、自社の持つリソースをコア業務へと振り分けることができます",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで、製造業におけるアウトソーシングのメリットを説明しました",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、製造業は必ずしもメリットばかりではありません",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、製造業におけるアウトソーシングのデメリットを4つ紹介します",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、製造業におけるアウトソーシングの導入例を紹介します",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "想定ケースとして、「製造工程の一部委託」・「製造ライン別の委託」・「工場一括委託」を想定し、各導入例を解説します",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業におけるアウトソーシングでは、「製造工程の一部」を委託契約することが可能です",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "工場一括委託は、工場における製造業務をすべてアウトソーシングする業務委託契約です",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のように、工場での製造を一括で委託する場合は、資材発注や生産管理の業務委託にとどまりません",
     "url": "https://powercast.jp/manufacturing_outsourcing/",
     "pass": 3
    },
@@ -754,77 +934,82 @@
     "pass": 3
    },
    {
-    "quote": "□ ITを担える人材が社内に不足しており、外部採用も難しかった",
+    "quote": "委託側企業は人件費のコストダウンや工場設備の費用削減など、大幅な経費削減を実施することが可能です",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業でも、競争力維持やコスト削減を図るため、多くの企業で積極的に取り入れられている手法です",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "「DX推進の壁」を突破！業務アウトソーシング導入で社員リソースを効率化した事例（製造業様） | サン・エム・システム株式会社",
     "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
     "pass": 3
    },
    {
-    "quote": "社外から採用しようと思っても難しく、求める人材がなかなか採れませんでした",
+    "quote": "「DX推進の壁」を突破！業務アウトソーシング導入で社員リソースを効率化した事例（製造業様）",
     "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
     "pass": 3
    },
    {
-    "quote": "採用に関する",
+    "quote": "デザイン性や独自性、安全性、持続可能性を重視した商品づくりを行うグローバル刃物メーカーです",
     "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
     "pass": 3
    },
    {
-    "quote": "#中途 (47)",
+    "quote": "弊社はカミソリやツメキリなどの身だしなみを整えるツールやビューティーツール、包丁をはじめとする調理器具や製菓用品、医療用刃物など、生活に密着した刃物を中心に1万アイテムにも及ぶ商品を展開しているグローバル刃物メーカーです",
+    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、本社（販売部門）は東京にあり、工場（製造部門）は、岐阜県関市にあります",
+    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
+    "pass": 3
+   },
+   {
+    "quote": "AWSクラウド導入事例：ファイルサーバー内の「情報管理の煩雑さ」や「アクセスセキュリティの不安」がAWSクラウド移行により解決！（総合不動産事業）",
+    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、技術系領域で３万人近い技術者を擁し、5,000社以上の顧客企業と取引をしています",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "グループでは世界で約12万人の雇用を創出し、毎年1万人近くの未経験者や新卒者を採用",
+    "quote": "現在、BREXA Technologyの売上の半分以上、またBREXA Nextにおいては9割以上が自動車・電子部品・半導体メーカーからです",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "これらの研修はエンジニアのみならず、営業職にとっても有用であり、社内全体の人材力を高める取り組みとして推進していきます",
+    "quote": "これにより、同一の顧客に対して、工場のワーカーから研究開発棟のエンジニアまで、一気通貫で人材を提供できる体制を構築しています",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "採用ご担当者様へ",
-    "url": "https://careerpark-agent.jp/interview/521-2",
+    "quote": "営業部門も連携しており、たとえば工場部門から研究開発部門への人員移動の際にも、当社内で完結した提案が可能です",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "経営陣も社員も、この会社にかかわるほとんどの人たちが社名変更をポジティブに考えた結果、新たにBREXAという新ブランドを採用することになりました",
-    "url": "https://careerpark-agent.jp/interview/521-2",
+    "quote": "このように、各ユニットが連携し、顧客と従業員の双方にとって最適なソリューションを提供しながら、社会に対する価値を創出していきたいと考えています",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "pass": 3
+   },
+   {
+    "quote": "これらすべての領域において技術は急速に進化しており、顧客から求められるスキルの変化も年々早まっています",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客にとっても、ニーズに応じた柔軟な体制が提供できるという利点があります",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
     "quote": "そんな人たちを毎年何万人単位で採用して、エンジニアになる機会や施工管理者になる機会、あるいは工場で働く機会を提供する",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "財閥系のその会社は、経営コンサルタントの卵として採用した新卒の私に対して、多大な教育投資もしてくれましたが「10年かけて一人前の経営コンサルタントを育てる」というスタンスが自分には合いませんでした",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "新卒採用は会社にとっても命がけ",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "「新卒採用こそが会社をつくる」という考え方の大切さを実感しています",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "日本の場合はとくにそうですが、新卒採用が企業の基礎を作っている割合は非常に大きいです",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "だからこそ、会社がハイスピードで成長を遂げるには、社員・役員が採用に徹底的にコミットすることが重要だと思います",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "たとえばBREXA Technologyでもエンジニアの採用に関してはまさに必死に取り組んでいます",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
@@ -834,93 +1019,253 @@
     "pass": 3
    },
    {
-    "quote": "会社としてもっとエンジニアの採用に力を入れた方が良いとまで考えているところです",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "新卒採用ご担当者さまへ",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "中途採用ご担当者さまへ",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "インドネシアのスタッフはとてもまじめで離職しないので、採用企業から「インドネシアの人をお願いします」とオーダーされることが少なくありません",
+    "quote": "日本・アジア地域では、製造業・サービス業の人材派遣や人材紹介および業務請負を担っています",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "――日本人の採用についてはいかがでしょうか",
+    "quote": "会長の上山健二は、銀行や大手アパレルメーカーの再建経験があり、他の役員も国内外の大手企業のCxO経験者です",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "基本的に新卒未経験者を採用しており、2026年は約2,600人採用しました",
+    "quote": "当社もやむなく、飲食店に送り出す予定だった人材を食品工場に変更するなどの対応をしました",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "毎年、合計1万人を採用し、育成しています",
+    "quote": "これまで、例えば同じ自動車メーカーのお客様であっても、製造領域と技術領域はグループ内の別会社の営業が個別に担当していました",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "現在の日本企業は、新卒よりも30代以上のミッドキャリアを採用する傾向があり、未経験者は転職が厳しい状態にあります",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
-   },
-   {
-    "quote": "そこで、当社が未経験の方を正社員として積極的に採用し、BREXA Academy（ブレクサ・アカデミー）で育成し、プロフェッショナル人材として送り出しています",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
-   },
-   {
-    "quote": "――御社の採用課題があれば教えてください",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
-   },
-   {
-    "quote": "現在、自社採用の90%は人材紹介会社に頼っており、毎年多額の紹介手数料を支払っています",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
-   },
-   {
-    "quote": "今後は自らの採用力をつけるためのブランディングに注力していきます",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
-   },
-   {
-    "quote": "飲食店の採用は、ますます厳しい状況になりました",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
-   },
-   {
-    "quote": "大手物流会社は自社で外国人雇用を始めましたが、中小は簡単に採用できませんので、当社がインドネシア人のドライバーを紹介しています",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
-   },
-   {
-    "quote": "仕入れ ≒ 採用のポイント",
+    "quote": "アウトソース事業は、取り扱う商材がモノなのかヒトなのかが違うだけで、本質的にはメーカーと変わらない",
     "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
     "pass": 3
    },
    {
-    "quote": "採用の段階です",
+    "quote": "どのようなサービスを顧客に提供するのか？という企画段階が最も重要",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "開運成彦 ｜ 中年からの１５万円起業・雑用代行ビジネス",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "「何でも外注」の落とし穴。自分でやる事と任せる事の、上手なさじ加減",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "時給で頼んだ仕事ほど、社長の確認が増えるのはなぜですか",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "技術系アウトソーシング会社って実際どうなの！？にお答えします！｜LHH転職エージェント",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "技術系アウトソーシング会社って実際どうなの！？にお答えします！",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このたびnoteに初投稿をさせていただきます！",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メーカーと技術系アウトソーシング会社の違い",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "メリット① やりたい仕事を生涯続けることができる",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "私はこれまで約15年間、半導体・機械・電機業界等で活躍されてきた1900名以上のエンジニアの転職支援を行ってきました。",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一貫して製造業領域の転職支援を行っております。",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業種としては自動車を筆頭に重工、電機、半導体、産業機械、航空宇宙、計測機器、通信機器領域をメインとしており、メンバー、リーダーからマネージャークラスまで幅広い層に対して転職支援をしてきました。",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "の2019年12月の調査によると、アウトソーシング市場は年平均成長率3.5%で伸び続けているそうです(コロナ影響下で、今期は一部カテゴリを除き下がっているかもしれません)。",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：早速ですが、どんな業務をアウトソースするといいか、先生のお考えってありますか？",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "アウトソーシングビジネスの考え方｜がぱけん",
     "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
     "pass": 3
    },
    {
-    "quote": "その後、採用コンサルティングのベンチャーに転職し、人材面から幅広く経営支援を行う",
+    "quote": "アウトソーシング、つまり業務の外部委託について、どのような形で活用を進めるべきか?",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "と、アウトソーシングを事業として捉えた際の考え方をまとめています。",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "このアカウントは私が仕事や書籍、日々の気づきを通して考察したものを共有するものです。少しでもみなさまのインプットや気づきになると嬉しく思います。",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "「とりあえずアウトソース」は大体失敗する。",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "・アウトソーシングはどのように活用すべきか",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "アウトソーシングを一言でいうと「人的資源を外部調達すること」です。",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "自社の人材を外部から調達して業務を遂行することを指し、主に経理やITインフラの保守・運用など、定型業務について行われることが多くあります。",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "重要な仕事こそ、アウトソーシングしちゃう方がいいってホント？｜教えて！岩田先生VOL.1｜株式会社ワカルク",
     "url": "https://note.com/wakaruku/n/n9dc99122a93e",
     "pass": 3
    },
    {
-    "quote": "ダイバーシティって、女性や外国人採用だけでなく、雇用形態や働き方にも当てはまると思っていて",
+    "quote": "重要な仕事こそ、アウトソーシングしちゃう方がいいってホント？｜教えて！岩田先生VOL.1",
     "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "日々の業務と、それを上手に回すための組織づくりの悩み。多くの企業様が抱えている課題ではないでしょうか？",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "そんなテーマについて、今回、特定社会保険労務士であり、ベストセラー『図解 労務入門』の著者である岩田佑介先生をお迎えし、ワカルク代表の石川が対談を行いました。",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "アウトソーシングのコツや次世代の組織マネジメントのポイント、AIとの共存の仕方、そして、これからの事務職のキャリア",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "岩田社会保険労務士事務所 所長。特定社会保険労務士。株式会社パソナ、三菱UFJリサーチ＆コンサルティング株式会社の2社にて人事コンサルタント、ライフネット生命保険株式会社の人事部長を務めた後に独立。著書として『図解 労務入門』（ディスカヴァー・トゥエンティワン）、『ベンチャー・スタートアップ企業の労務50のポイント』（セルバ出版）、『経営戦略としてのワーケーション入門』（金融財政事情研究会）。",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ワカルク 代表取締役CEO。1981年東京生まれ。明治大学法学部卒業後、株式会社クイックに入社。求人広告の法人営業、及び営業企画業務に従事。その後、採用コンサルティングのベンチャーに転職し、人材面から幅広く経営支援を行う。2020年9月株式会社ワカルクを設立し、代表取締役CEOに就任。全社員完全テレワーク、子育て中の女性が8割の組織づくりを実践し、令和5年度「東京ライフ・ワーク・バランス認定企業」、総務省主催「テレワークトップランナー2023」に選出される。女性活躍推進や、テレワーク組織づくり、働き方改革などのコンサルティング・研修実績も多数。",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "成長している会社ほど、社外人材も含めてワンチームになっている！",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "アウトソーシングの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスの専門業務から家事や育児の負担軽減まで、外部リソースを活用する手法を扱います。",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "企業の戦略的な役割分担や、個人の時間を確保するための実践的な知恵が集まっています。",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスの専門業務から家事や育児の負担軽減まで、外部リソースを活用する手法を…",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "pass": 3
+   },
+   {
+    "quote": "外注のブラックボックス化を防ぐ。AI時代のアウトソーシング設計（海外動向）｜みその｜BizOpsアーキテクト",
+    "url": "https://note.com/bizops/n/n5ff935a1ce53",
+    "pass": 3
+   },
+   {
+    "quote": "外注のブラックボックス化を防ぐ。AI時代のアウトソーシング設計（海外動向）",
+    "url": "https://note.com/bizops/n/n5ff935a1ce53",
+    "pass": 3
+   },
+   {
+    "quote": "「外部に業務を委託したはずなのに、なぜか社内での確認作業や手戻りのコストばかりが増えていく」",
+    "url": "https://note.com/bizops/n/n5ff935a1ce53",
+    "pass": 3
+   },
+   {
+    "quote": "「とりあえず面倒な作業をBPO（外部委託）に投げた結果、業務プロセスが完全にブラックボックス化し、社内の誰も全貌を把握できなくなってしまった」",
+    "url": "https://note.com/bizops/n/n5ff935a1ce53",
+    "pass": 3
+   },
+   {
+    "quote": "日々の組織課題において、こうしたアウトソーシングの罠に直面する企業は少なくありません。人手不足を背景に、とにかく目の前の作業を外に出すことだけを目的とした従来型の丸投げは、かえって組織の連携を阻害し、業務のガバナンスを徐々に失っていくリスクを孕んでいます。",
+    "url": "https://note.com/bizops/n/n5ff935a1ce53",
+    "pass": 3
+   },
+   {
+    "quote": "誤解のないよう先にお伝えすると、この記事は決して外注反対論ではありません。労働人口が減少しテクノロジーが高度化する現代、外部リソースの活用は企業の生存戦略そのものです。",
+    "url": "https://note.com/bizops/n/n5ff935a1ce53",
+    "pass": 3
+   },
+   {
+    "quote": "問題の核心は外注すること自体ではなく、自社のプロセスと外部リソースをどう統合するかという「アーキテクチャの欠如」にあるのです。",
+    "url": "https://note.com/bizops/n/n5ff935a1ce53",
+    "pass": 3
+   },
+   {
+    "quote": "では、外部リソースを自社のオペレーションにどう組み込んでいくべきか。今回は、グローバル法律事務所Morgan Lewisのレポート「",
+    "url": "https://note.com/bizops/n/n5ff935a1ce53",
     "pass": 3
    }
   ],
@@ -960,248 +1305,135 @@
     "pass": 3
    }
   ],
-  "創業年度": [
+  "発言": [
    {
-    "quote": "5月 - 株式会社中部綜合設立",
+    "quote": "【社長メッセージ】 技術者数も技術力も日本一へ、 ベースを固める1年にしましょう",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代表取締役会長 会長執行役員CEO 上山健二",
     "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "11月 - 株式会社リアルタイムを分社・設立",
+    "quote": "代表取締役社長 社長執行役員COO 山﨑高之",
     "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "11月 - 株式会社ワークシステム・エンジニアを分社・設立",
-    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "quote": "株式会社BTNコンサルティング 代表取締役 / Almata株式会社 CTO",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "1月 - 株式会社リアルタイム関東を分社・設立",
-    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "quote": "６．代表及び従業員は常に自己研鑽に励み、最新の法改正情報を収集し、Excel等で効率的かつ正確なチェック、必要に応じて人的な読み合わせ等のダブルチェックを実施しており、人的誤りの防止に努めています",
+    "url": "https://www.nkr-office.com/works3/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2月 - 株式会社リアルタイム静岡を分社・設立",
-    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "quote": "【社長メッセージ】“成長”こそOSTechのDNA",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "10月 - 株式会社リアルタイム北陸を分社・設立",
-    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1月 - ワーク・システム、リアルタイム、ワークシステム・エンジニア、リアルタイム関東、リアルタイム静岡、リアルタイム北陸の事業を統合し、株式会社アウトソーシングを静岡県静岡市駿河区稲川に設立",
-    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "1997年設立の日本企業",
-    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "創業 ： 2000年（旧みずほキャピタルパートナーズとしてプライベート・エクイティ業務を開始）",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "設立 ： 2021年（MCPキャピタル株式会社として分社化）",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "MCPキャピタルは、2000年の創業以来、累計6本のファンド運用を業務受託し、合計40件超の投資実績を有しております",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "設立： 2005年9月",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社ブラザーズを設立",
-    "url": "https://www.ots.co.jp/company/history/",
-    "pass": 3
-   },
-   {
-    "quote": "設立年月 1997 年１月",
-    "url": "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
-    "pass": 3
-   },
-   {
-    "quote": "・静岡市に（株）アウトソーシング設立（生産工程の業務請負事業）",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・輸送機器、建設機械分野に特化した子会社を設立・取得",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・中国に現地法人設立",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・障がい者雇用特例子会社設立",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・子会社(株)アウトソーシングテクノロジーとの共同出資により、(株)ＯＳナノテクノロジーを設立",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "世界的にも刃物の町として知られる岐阜県関市にて明治41年に創業",
-    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
-    "pass": 3
-   },
-   {
-    "quote": "2023年の創業115周年に、新たなミッション「切れ味とやさしさ」を掲げ、理念体系を刷新しました",
-    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
-    "pass": 3
-   },
-   {
-    "quote": "刃物の町、 岐阜の関市で興した会社で創業は1908年（明治41年）、今年で117周年になります",
-    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
-    "pass": 3
-   },
-   {
-    "quote": "創業当初は、ポケットナイフを作るところからでした",
-    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
-    "pass": 3
-   },
-   {
-    "quote": "会社設立・従業員を雇用したとき（創業期）",
-    "url": "https://www.ml-partners.jp/fee/outsourcing",
-    "pass": 3
-   },
-   {
-    "quote": "創業時支援サービスの料金例",
-    "url": "https://www.ml-partners.jp/fee/outsourcing",
-    "pass": 3
-   },
-   {
-    "quote": "創業メンバーでもない人物が20代で上場企業の役員になったのは当時はレアケースだったからですね",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "1997年創業",
+    "quote": "2024年9月にアウトソーシンググループ（現BREXAグループ） 代表取締役社長に就任し、2025年1月より現職",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
+    "pass": 3,
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "創業50周年を迎えたJACが次の50年に目指す姿とは",
+    "quote": "株式会社ミライル 代表取締役社長 三並史典",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
-   },
-   {
-    "quote": "2020年9月株式会社ワカルクを設立し、代表取締役CEOに就任",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   }
-  ],
-  "売り方": [
-   {
-    "quote": "営業利益 158 △ 139 △ 88.0%",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "販管費、営業利益推移グラフ販管費、営業利益推移グラフ",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "quote": "株式会社ジェイ エイ シー リクルートメント 代表取締役会長兼社長 田崎ひろみ",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "売上原価 販管費 営業利益 販管費率 営業利益率",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "quote": "プロ経営者の原点には何があるのか？〜BREXA Holdings 代表取締役社長 山﨑 高之インタビューVol.1～｜BREXA Holdings",
+    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "営業利益 604 126 20.9%",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "quote": "プロ経営者の原点には何があるのか？〜BREXA Holdings 代表取締役社長 山﨑 高之インタビューVol.1～",
+    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "△ 57.8%△ 178308営業利益",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "quote": "その問いに答えるべく、ひとりの起業家であり事業再生のプロにインタビューを行った",
+    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "● 大手自動車メーカー、周辺企業への営業",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "quote": "国内外での豊富な経営経験をもとに2024年に株式会社アウトソーシング 代表取締役社長 社長執行役員COOに就任し、2025年7月に「BREXA」にブランド変更を行い、株式会社BREXA Holdings 代表取締役社長として新たな挑戦を続けている",
+    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "製造業50名規模の典型的なケースを紹介しています",
-    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "quote": "株式会社BREXA Holdings 代表取締役社長",
+    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "本記事では、複数の支援実績をもとに構成した典型的なケーススタディとして、従業員50名規模の製造業企業が情シスアウトソーシングを導入するまでの経緯と成果を紹介します",
-    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "quote": "2024年9月にアウトソーシンググループ（現BREXAグループ） 代表取締役社長に就任し、2025年1月より現職",
+    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "地方の製造業にITエンジニアを呼ぶハードルは高く、人材紹介会社に依頼しても3ヶ月以上マッチングがつかない状態でした",
-    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "quote": "「社長がいないとこの会社は良くならない」という話になると、その会社の社員から必要とされる",
+    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この記事では、ITアウトソーシングの基本と市場動向から、その導入事例まで幅広く紹介し、私の知見に基づいた成功の秘訣を詳しく解説いたします",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
+    "quote": "日本を代表する大企業が低迷しているこの状況、日本全体が元気を失っているこの状況をなんとかする",
+    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "9. おすすめのアウトソーシング先のご紹介",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
+    "quote": "：国連職員への夢が潰えた山﨑は、日本を代表する伝統的なシンクタンクである日本総合研究所に就職する",
+    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ITアウトソーシングとは？について、下記の記事で詳しくご紹介していますのでご覧ください",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
+    "quote": "そんな挫折の日々を送る山﨑に転機をもたらしたのは、後に日本を代表する経営者となり、今も経営の最前線を走り続けている人物との運命的な出会いだ",
+    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "今回、製造業、小売業、金融業における具体的なITアウトソーシングの成功事例を紹介します",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "営業マンnoteを1人でやるの辞めるってよ",
+    "quote": "時給で頼んだ仕事ほど、社長の確認が増えるのはなぜですか",
     "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "営業fafa | note業界No.1営業マン",
+    "quote": "鍵谷健/ビーレジェンド社長/経営自動化コンサルタント",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "山田抄織｜日本綜合社会保険労務士法人 代表",
     "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1213,247 +1445,319 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「採用できなければ無料」という甘美な罠――ある人材紹介会社が送りつけてきた“怪文書”と、仕事をおざなりにする者たちの末路",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "quote": "BizOps歴10年以上｜組織の隙間を埋める専門家｜㍿カクシアジ代表",
+    "url": "https://note.com/bizops/n/n5ff935a1ce53",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "SSCの仕事とは？人事労務の業務を例に紹介します",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "quote": "そんなテーマについて、今回、特定社会保険労務士であり、ベストセラー『図解 労務入門』の著者である岩田佑介先生をお迎えし、ワカルク代表の石川が対談を行いました",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "職種については研究開発、設計開発、評価、解析、生産技術、生産管理、購買、品質管理・品質保証、サービスエンジニア、技術営業領域を得意としています",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "quote": "2020年9月株式会社ワカルクを設立し、代表取締役CEOに就任",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "もちろん次もエンジニアとして仕事を続けられるメーカー求人をご紹介しますが、次に行く会社が必ずやりたい仕事が保障できるか、と言うと必ずしもそうではありません",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "quote": "【社長メッセージ】 連携力を高め、みんなで“新しいOSTech”を作っていきましょう",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "良くないパターンとして部署異動によって例えば営業職といった希望外の異動があるかもしれません",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "quote": "【2026年新春・山﨑高之社長メッセージ】現場の声とともに描く、BREXA Technologyの進化とこれから",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "EMC紹介部 セミコンダクター課 コンサルタント",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "quote": "例えば製薬会社であれば新薬の開発、卸業者であれば、仕入れ価格交渉、バーであれば接客などが代表的なコア業務です",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【略歴】前職医療機器メーカーの営業を経て2008年2月にエンジニア特化型の転職支援会社に入社",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "quote": "㈱Taste and Logic代表取締役｜マーケティング領域中心の経営コンサル業｜いいものをしっかりと高く売るがモットー｜直感×ロジック｜食品ブランド「Nagara」も運営｜中小企業診断士｜3M→ACN→BLMD→独立｜",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "LHH転職エージェントがご紹介中の求人もご覧いただけます",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "LHHは、アデコグループの転職支援、人材紹介、人財育成、組織開発、再就職支援といったタレントソリューションを担うブランドです",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ここでは、LHHのサービスのことやメンバー紹介、転職ノウハウ、社員育成、人事戦略に役立つノウハウをご紹介していきます！",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "サービス紹介へ",
+    "quote": "マンダム社長､MBOで非公開化｢逃げではない｣ 価値向上へ長期投資",
     "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
     "pass": 3
    },
    {
-    "quote": "日経電子版のサービス・機能を紹介",
+    "quote": "『RYUJI 竜二』柳楽優弥が語る",
     "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
     "pass": 3
    },
    {
-    "quote": "日経イベント＆セミナー",
-    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
-    "pass": 3
-   },
-   {
-    "quote": "イベント・セミナー",
-    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
-    "pass": 3
-   },
-   {
-    "quote": "講演会向け講師紹介",
-    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
-    "pass": 3
-   },
-   {
-    "quote": "紙面紹介と購読案内",
-    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
-    "pass": 3
-   },
-   {
-    "quote": "取締役・執行役員紹介",
+    "quote": "代表メッセージ",
     "url": "https://www.brexa.com/news/1646/",
     "pass": 3
    },
    {
-    "quote": "人材派遣・人材紹介",
+    "quote": "かねてよりお知らせしておりました持株会社体制への移行完了に伴い、アウトソーシンググループは、本日2025年７月１日より株式会社BREXA Holdings （本社:東京都千代田区、代表取締役会長 上山 健二、代表取締役社長 山﨑 高之)を純粋持株会社としたホールディング体制として始動いたします",
+    "url": "https://www.brexa.com/news/1646/",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役会長 会長執行役員CEO 上山 健二",
+    "url": "https://www.brexa.com/news/1646/",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長 社長執行役員COO 山﨑 高之",
+    "url": "https://www.brexa.com/news/1646/",
+    "pass": 3
+   },
+   {
+    "quote": "また、同日付で代表取締役の変更を行いましたことも併せてご報告申し上げます",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
+    "pass": 3
+   },
+   {
+    "quote": "• 旧代表取締役：牧 邦彦",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
+    "pass": 3
+   },
+   {
+    "quote": "• 新代表取締役：吉田 幸弘",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表者 ： 代表取締役社長 佐藤 正秀",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表者 ： 代表取締役社長 吉田 幸弘",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アウトソーシング（本社：東京都千代田区、代表取締役会長 上山 健二、代表取締役社長 山﨑 高之）は、2025年７月１日付で、「",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表者 代表取締役会長 上山 健二",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長 山﨑 高之",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
+    "pass": 3
+   },
+   {
+    "quote": "取引社数1500社以上！日本を代表する大手・上場メーカーと多数の取引！",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "会社紹介記事",
+    "quote": "「面接では志望動機を語る必要はありません",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "製造職として経験を積んだ後は、管理者へのステップアップはもちろん、営業管理や人事、開発者などへのキャリアチェンジも可能",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "quote": "代表あいさつ",
+    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
     "pass": 3
    },
    {
-    "quote": "進むべき道に迷ったときも、キャリアアドバイザーや営業担当、採用部のメンバーが力を合わせて社員を支援します",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "製造業向け人材サービス（人材派遣・請負・職業紹介）",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "有料職業紹介事業許可番号 13-ユ-305783",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "・有料職業紹介事業開始",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "製造・メーカー - 事例紹介｜芙蓉アウトソーシング＆コンサルティング株式会社",
-    "url": "https://www.noc-net.co.jp/case/industry/manufacturer/",
-    "pass": 3
-   },
-   {
-    "quote": "サービス紹介",
-    "url": "https://www.noc-net.co.jp/case/industry/manufacturer/",
-    "pass": 3
-   },
-   {
-    "quote": "事例紹介 業界別一覧",
-    "url": "https://www.noc-net.co.jp/case/industry/manufacturer/",
-    "pass": 3
-   },
-   {
-    "quote": "RPA導入好事例TOPをご紹介",
-    "url": "https://www.noc-net.co.jp/case/industry/manufacturer/",
-    "pass": 3
-   },
-   {
-    "quote": "人材紹介について",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "紹介予定派遣について",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "ここからは、製造業におけるアウトソーシングのデメリットを4つ紹介します",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "ここでは、製造業におけるアウトソーシングの導入例を紹介します",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "新規営業の仕事",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "営業管理の仕事",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "イベント・セミナー",
+    "quote": "▶代表電話：代表への電話応対を代行",
     "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
     "pass": 3
    },
    {
-    "quote": "ここからは、それぞれの特徴と相場についてご紹介していきます",
+    "quote": "企業が抱える代表的な総務の課題としては、「従業員への窓口対応」や「外部からの代表電話の応対」に負担が掛かっていることなどが挙げられます",
     "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
     "pass": 3
    },
    {
-    "quote": "セミナー情報",
+    "quote": "また、代表電話への対応では「",
+    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、代表電話への対応を委託する際には「電話が多い時間帯のみ」を委託することで、アウトソーシング費用を抑えることができるでしょう",
+    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
+    "pass": 3
+   },
+   {
+    "quote": "また、従業員対応や代表電話応対は特に負担が大きいため、これらを委託することで自社の負担を大きく削減することができます",
+    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
+    "pass": 3
+   },
+   {
+    "quote": "代表 菊池 美絵子",
     "url": "https://www.ml-partners.jp/fee/outsourcing",
     "pass": 3
    },
    {
-    "quote": "セミナーのご案内",
-    "url": "https://www.ml-partners.jp/fee/outsourcing",
-    "pass": 3
-   },
-   {
-    "quote": "※次回のセミナー開催日程が決定いたしましたら、詳細をご案内いたします",
-    "url": "https://www.ml-partners.jp/fee/outsourcing",
-    "pass": 3
-   },
-   {
-    "quote": "セミナー情報について詳しくはこちら",
-    "url": "https://www.ml-partners.jp/fee/outsourcing",
-    "pass": 3
-   },
-   {
-    "quote": "各種許可申請の手続支援（派遣業・紹介業）",
-    "url": "https://www.ml-partners.jp/fee/outsourcing",
-    "pass": 3
-   },
-   {
-    "quote": "給与計算アウトソーシング・代行のメリット・デメリット、料金の相場や導入のポイントをご紹介します",
-    "url": "https://www.kyuyo-pro.com/mailmagazine/index_04.html",
-    "pass": 3
-   },
-   {
-    "quote": "営業部門も連携しており、たとえば工場部門から研究開発部門への人員移動の際にも、当社内で完結した提案が可能です",
+    "quote": "【山﨑高之新社長インタビュー】境界をなくし、未来を切り開く",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "これらの研修はエンジニアのみならず、営業職にとっても有用であり、社内全体の人材力を高める取り組みとして推進していきます",
+    "quote": "#社長メッセージ (8)",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "税務支援やキャリア相談、案件紹介など、フリーランスとして安心して働けるサポート体制を提供していきます",
+    "quote": "#社長メッセージ",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "営業などバックオフィスの皆さんをはじめ、BREXA Technologyの中心を担うエンジニアの皆さんとどんどん意見を交わしていきたいと考えています",
+    "quote": "新社長には、BREXA Holdingsの代表取締役社長・社長執行役員（COO）も務める山﨑高之氏が就任した",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "サービス紹介",
+    "quote": "株式会社BREXA Holdings 代表取締役社長・社長執行役員COO",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社BREXA Technology 代表取締役社長",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "pass": 3
+   },
+   {
+    "quote": "BREXA Technologyの社長として私がいま真剣に取り組むべきだと考えているのは、エンジニアが長くキャリアを築ける環境の整備です",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "pass": 3
+   },
+   {
+    "quote": "【社長メッセージ】 “先んじて動く”みなさんの努力で、 ひとつずつ成果が出始めた半期でした",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "pass": 3
+   },
+   {
+    "quote": "【社長メッセージ】 「会社の未来を自ら創造している」",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "pass": 3
+   },
+   {
+    "quote": "BREXA Technology 山﨑社長｜険しい道を「楽観」で歩め｜新生BREXAが切り開く人材業界の新地平",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "経営者インタビュー",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "BREXA Technology 代表取締役社長 山﨑 高之さん",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "特別インタビュー",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "2024年にアウトソーシングの代表取締役社長に就任",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "BREXA Holdings代表取締役社長執行役員COO、BREXA Technology 代表取締役社長を兼任",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、新体制となったBREXA Technologyの代表取締役社長であり、BREXA Holdingsの代表取締役社長・社長執行役員（COO）も務める山﨑高之さんに特別インタビュー",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "社名変更の狙いや成長戦略の中身について伺うとともに、山﨑社長ご自身のキャリアヒストリーを振り返っていただきました",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "入社2年目にはインテリジェンスの子会社として立ち上げたECサーブテクノロジーという会社の経営を任され、26歳にして社長になりました",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "これはもうやばいとなって、インテリジェンスの社長に相談して、役員として担当していた他の仕事を解いてもらい、急遽買収した会社の立て直しに専念することにしました",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "その後、インテリジェンスは同業のテンプスタッフと一緒になったのですが、当時の社長が赴任先のシンガポールまで来て「お前は辞めると言っているらしいけれど、アジア市場を伸ばしたいから残ってやってくれないか」と打診を受けたんです",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "このプランを1000億円かけてやりますかと社長に尋ねたら「やりましょう」と言うので「ならば辞めずに残ります」となったのです",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "それで2012年から、アウトソーシング（現・BREXA Next）の代表取締役社長にスカウトされる2024年まで、12年間にわたりシンガポールで海外事業に従事することになりました",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "アウトソーシングの社長を引き受けたのも、安定した経営者の道よりも、新たな挑戦を始める会社の可能性に刺激を受けたからです",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "「IT」関連のインタビュー",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "WEBMARKS 代表取締役 鈴木 晋介さん",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "「上場企業」関連のインタビュー",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "識学 代表取締役社長 安藤 広大さん",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "TOK 代表取締役社長 吉川 桂介さん",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "「グローバルなキャリア」関連のインタビュー",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "マネーフォワードｉ 代表取締役社長 今井 義人さん",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー記事を探す",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "経営者インタビュー「キャリア地図」",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
@@ -1463,67 +1767,33 @@
     "pass": 3
    },
    {
-    "quote": "日本・アジア地域では、製造業・サービス業の人材派遣や人材紹介および業務請負を担っています",
+    "quote": "代表取締役社長",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "現在、自社採用の90%は人材紹介会社に頼っており、毎年多額の紹介手数料を支払っています",
+    "quote": "社長執行役員COO",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "大手物流会社は自社で外国人雇用を始めましたが、中小は簡単に採用できませんので、当社がインドネシア人のドライバーを紹介しています",
+    "quote": "再編への確固たる思いと具体的な経営戦略について、代表取締役社長の山﨑高之氏に聞いた",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "これまで、例えば同じ自動車メーカーのお客様であっても、製造領域と技術領域はグループ内の別会社の営業が個別に担当していました",
+    "quote": "――山﨑様は2024年9月に旧アウトソーシンググループの代表取締役社長に就任されました",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
-   },
-   {
-    "quote": "人材紹介・人材派遣管理システム TOP",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3
-   },
-   {
-    "quote": "ここでは一つ事例を紹介しましょう",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3
-   },
-   {
-    "quote": "また、営業事務やマー",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3
-   },
-   {
-    "quote": "これは、営業活動において大きなアドバンテージを持っていることになります",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3
-   },
-   {
-    "quote": "求人広告の法人営業、及び営業企画業務に従事",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "6/18 noteの”あとがきセミナー”を開催します！",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "本マガジンは、各方面の先生方をお迎えした対談内容をご紹介するシリーズとなっております",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "本来は最終的な受注（売上）でベンダーを評価し成果報酬を支払いたいところですが、受注プロセスは営業部門が握っています",
-    "url": "https://note.com/bizops/n/n5ff935a1ce53",
     "pass": 3
    }
   ],
   "料金": [
+   {
+    "quote": "次に、総務アウトソーシングの費用に違いが出てくる理由を5つ挙げ、解説していきます",
+    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "252億93百万円",
     "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
@@ -2053,75 +2323,168 @@
     "pass": 3
    }
   ],
-  "SNS・note（note・検索結果の抜粋）": [
+  "創業年度": [
    {
-    "quote": "技術系 アウトソーシング 会社って実際どうなの！？にお答えし ... 技術系 アウトソーシング 会社って実際どうなの！？にお答えし ... note https://note.com > キャリア > 転職・キャリアチェンジ",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "quote": "5月 - 株式会社中部綜合設立",
+    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "アウトソーシング ビジネスの考え方｜がぱけん - note アウトソーシング ビジネスの考え方｜がぱけん - note note https://note.com > ビジネス > 経営・マネジメント",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "quote": "11月 - 株式会社リアルタイムを分社・設立",
+    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "11月 - 株式会社ワークシステム・エンジニアを分社・設立",
+    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1月 - 株式会社リアルタイム関東を分社・設立",
+    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2月 - 株式会社リアルタイム静岡を分社・設立",
+    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10月 - 株式会社リアルタイム北陸を分社・設立",
+    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1月 - ワーク・システム、リアルタイム、ワークシステム・エンジニア、リアルタイム関東、リアルタイム静岡、リアルタイム北陸の事業を統合し、株式会社アウトソーシングを静岡県静岡市駿河区稲川に設立",
+    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1997年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "創業 ： 2000年（旧みずほキャピタルパートナーズとしてプライベート・エクイティ業務を開始）",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
     "pass": 3
    },
    {
-    "quote": "重要な仕事こそ、 アウトソーシング しちゃう方がいいって ... 重要な仕事こそ、 アウトソーシング しちゃう方がいいって ... note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "quote": "設立 ： 2021年（MCPキャピタル株式会社として分社化）",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
+    "pass": 3
+   },
+   {
+    "quote": "MCPキャピタルは、2000年の創業以来、累計6本のファンド運用を業務受託し、合計40件超の投資実績を有しております",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立： 2005年9月",
+    "url": "https://www.ots.co.jp/news/2025/1223.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ブラザーズを設立",
+    "url": "https://www.ots.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "設立年月 1997 年１月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
+    "pass": 3
+   },
+   {
+    "quote": "・静岡市に（株）アウトソーシング設立（生産工程の業務請負事業）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・輸送機器、建設機械分野に特化した子会社を設立・取得",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・中国に現地法人設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・障がい者雇用特例子会社設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・子会社(株)アウトソーシングテクノロジーとの共同出資により、(株)ＯＳナノテクノロジーを設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界的にも刃物の町として知られる岐阜県関市にて明治41年に創業",
+    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の創業115周年に、新たなミッション「切れ味とやさしさ」を掲げ、理念体系を刷新しました",
+    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
+    "pass": 3
+   },
+   {
+    "quote": "刃物の町、 岐阜の関市で興した会社で創業は1908年（明治41年）、今年で117周年になります",
+    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業当初は、ポケットナイフを作るところからでした",
+    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社設立・従業員を雇用したとき（創業期）",
+    "url": "https://www.ml-partners.jp/fee/outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "創業時支援サービスの料金例",
+    "url": "https://www.ml-partners.jp/fee/outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "創業メンバーでもない人物が20代で上場企業の役員になったのは当時はレアケースだったからですね",
+    "url": "https://careerpark-agent.jp/interview/521-2",
+    "pass": 3
+   },
+   {
+    "quote": "1997年創業",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
+    "pass": 3
+   },
+   {
+    "quote": "創業50周年を迎えたJACが次の50年に目指す姿とは",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
+    "pass": 3
+   },
+   {
+    "quote": "2020年9月株式会社ワカルクを設立し、代表取締役CEOに就任",
     "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "アウトソーシング の人気・新着記事まとめ - note アウトソーシング の人気・新着記事まとめ - note note https://note.com > tag > アウトソーシング",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
-    "pass": 3
-   },
-   {
-    "quote": "外注のブラックボックス化を防ぐ。AI時代の アウトソーシング ... 外注のブラックボックス化を防ぐ。AI時代の アウトソーシング ... note https://note.com > デザイン > デザイン全般",
-    "url": "https://note.com/bizops/n/n5ff935a1ce53",
-    "pass": 3
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "アウトソーシング と顧客満足に関する一般的な誤解 - LinkedIn アウトソーシング と顧客満足に関する一般的な誤解 - LinkedIn LinkedIn https://jp.linkedin.com > pulse",
-    "url": "https://jp.linkedin.com/pulse/common-misconceptions-outsourcing-client-satisfaction-richards-mk5he?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "カスタマーサポートの アウトソーシング 会社で注目すべき ... カスタマーサポートの アウトソーシング 会社で注目すべき ... LinkedIn https://jp.linkedin.com > pulse",
-    "url": "https://jp.linkedin.com/pulse/what-look-customer-support-outsourcing-companies-philip-ruffini-oav0c?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アウトソーシング はもはやお金を節約するためではありません ... アウトソーシング はもはやお金を節約するためではありません ... LinkedIn https://jp.linkedin.com > pulse",
-    "url": "https://jp.linkedin.com/pulse/outsourcing-isnt-saving-money-anymore-xka4e?tl=ja",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アウトソーシング のコスト構造を理解する - LinkedIn アウトソーシング のコスト構造を理解する - LinkedIn LinkedIn https://jp.linkedin.com > pulse > understanding-cost-struct...",
-    "url": "https://jp.linkedin.com/pulse/understanding-cost-structure-outsourcing-andrea-l-richards-afjbe?tl=ja",
-    "pass": 3
-   },
-   {
-    "quote": "初めての アウトソーシング でよくある失敗を避けるための ... 初めての アウトソーシング でよくある失敗を避けるための ... LinkedIn https://jp.linkedin.com > pulse > tips-tricks-avoid-commo...",
-    "url": "https://jp.linkedin.com/pulse/tips-tricks-avoid-common-first-time-outsourcing-mistakes-ykujf?tl=ja",
-    "pass": 3
-   },
-   {
-    "quote": "アウトソーシング の現代的根拠 - LinkedIn アウトソーシング の現代的根拠 - LinkedIn LinkedIn https://jp.linkedin.com > pulse",
-    "url": "https://jp.linkedin.com/pulse/modern-case-outsourcing-clive-owen-llp-0yyse?tl=ja",
-    "pass": 3
-   },
-   {
-    "quote": "2026年の アウトソーシング :真の顧客価値はどこから生まれる ... 2026年の アウトソーシング :真の顧客価値はどこから生まれる ... LinkedIn https://jp.linkedin.com > pulse > outsourcing-2026-where...",
-    "url": "https://jp.linkedin.com/pulse/outsourcing-2026-where-real-client-value-come-from-sam-darwish-yysdc?tl=ja",
     "pass": 3
    }
   ],
   "売上・規模": [
+   {
+    "quote": "情シスアウトソーシング導入事例 ― 製造業50名規模のひとり情シスが限界を迎えるまでと、その後 | 情シス365",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
    {
     "quote": "252億93百万円",
     "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
@@ -2711,760 +3074,453 @@
     "pass": 3
    }
   ],
-  "発言": [
+  "採用・人数": [
    {
-    "quote": "代表取締役会長 会長執行役員CEO 上山健二",
-    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "quote": "採用と管理部門の伴走者：株式会社みらいキャリアラボ",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "一人当たり採用コスト推移一人当たり採用コスト推移",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "代表取締役社長 社長執行役員COO 山﨑高之",
-    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "quote": "採用人数03年 採用人数04年 採用人数05年",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "株式会社BTNコンサルティング 代表取締役 / Almata株式会社 CTO",
+    "quote": "採用単価03年 採用単価04年 採用単価05年",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "１２月の採用単価低",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "● 山形県、山梨県などで人材募集に効果",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "検討：採用か、アウトソーシングか",
     "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "６．代表及び従業員は常に自己研鑽に励み、最新の法改正情報を収集し、Excel等で効率的かつ正確なチェック、必要に応じて人的な読み合わせ等のダブルチェックを実施しており、人的誤りの防止に努めています",
+    "quote": "経営者との協議の結果、まずIT専任者の採用を検討しましたが、以下の理由でアウトソーシングに方針転換しました",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IT専任者を正社員で採用すると、年間で500万円〜600万円の人件費が必要です",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IT関連コストの月額は増加していますが、Aさんが総務業務に集中できるようになったことで、採用事務や労務管理の品質が向上",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "IT担当を採用するか、外注するか ― 中小企業のコスト比較シミュレーション",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ITアウトソーシングは、企業のIT業務を外部の専門業者に委託する手法で、最近は多くの企業が採用している手法です",
+    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "採用、人材育成、賃金制度、人事評価制度等のコンサルティング実績を数多く有している社労士事務所はそう多くはない印象を持っています",
     "url": "https://www.nkr-office.com/works3/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【社長メッセージ】“成長”こそOSTechのDNA",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "quote": "には、法的な労務相談の対応だけでなく、なかの経営労務事務所の強みである、数多くの採用、人材育成、賃金制度、人事評価制度等のコンサルティング実績を裏付けとした、採用、人材育成、賃金制度、人事評価制度の運用支援のアドバイスも含まれており、ワンランク上のアドバイスを提供できます",
+    "url": "https://www.nkr-office.com/works3/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2024年9月にアウトソーシンググループ（現BREXAグループ） 代表取締役社長に就任し、2025年1月より現職",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社ミライル 代表取締役社長 三並史典",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社ジェイ エイ シー リクルートメント 代表取締役会長兼社長 田崎ひろみ",
-    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "プロ経営者の原点には何があるのか？〜BREXA Holdings 代表取締役社長 山﨑 高之インタビューVol.1～｜BREXA Holdings",
+    "quote": "【話し手：山﨑 高之／聞き手：松村 周平／執筆：佐野 創太／編集・監修：BREXA Holdings 採用広報・編集チーム】",
     "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "プロ経営者の原点には何があるのか？〜BREXA Holdings 代表取締役社長 山﨑 高之インタビューVol.1～",
-    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "その問いに答えるべく、ひとりの起業家であり事業再生のプロにインタビューを行った",
-    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "国内外での豊富な経営経験をもとに2024年に株式会社アウトソーシング 代表取締役社長 社長執行役員COOに就任し、2025年7月に「BREXA」にブランド変更を行い、株式会社BREXA Holdings 代表取締役社長として新たな挑戦を続けている",
-    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "株式会社BREXA Holdings 代表取締役社長",
-    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2024年9月にアウトソーシンググループ（現BREXAグループ） 代表取締役社長に就任し、2025年1月より現職",
-    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「社長がいないとこの会社は良くならない」という話になると、その会社の社員から必要とされる",
-    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本を代表する大企業が低迷しているこの状況、日本全体が元気を失っているこの状況をなんとかする",
-    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：国連職員への夢が潰えた山﨑は、日本を代表する伝統的なシンクタンクである日本総合研究所に就職する",
-    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そんな挫折の日々を送る山﨑に転機をもたらしたのは、後に日本を代表する経営者となり、今も経営の最前線を走り続けている人物との運命的な出会いだ",
-    "url": "https://note.com/brexa_holdings/n/nf5b3a95a256d",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "時給で頼んだ仕事ほど、社長の確認が増えるのはなぜですか",
+    "quote": "人手不足でも採用だけが答えではない｜中小企業の5つの選択肢",
     "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "鍵谷健/ビーレジェンド社長/経営自動化コンサルタント",
+    "quote": "でも、本当に採用が必要ですか？",
     "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "山田抄織｜日本綜合社会保険労務士法人 代表",
+    "quote": "「採用できなければ無料」という甘美な罠――ある人材紹介会社が送りつけてきた“怪文書”と、仕事をおざなりにする者たちの末路",
     "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Structured.が社長室人材の紹介事業を始めた理由",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "quote": "もちろん国内での開発体制における人財投資も活発となっており、各社積極的な採用活動をしています",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "BizOps歴10年以上｜組織の隙間を埋める専門家｜㍿カクシアジ代表",
-    "url": "https://note.com/bizops/n/n5ff935a1ce53",
+    "quote": "「総合職採用」や「就社」とも表現されますね",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "そんなテーマについて、今回、特定社会保険労務士であり、ベストセラー『図解 労務入門』の著者である岩田佑介先生をお迎えし、ワカルク代表の石川が対談を行いました",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "quote": "「専門職採用」や「職に就く」=「就社」ではなく「就職」と表現するとわかりやすいかと思います",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2020年9月株式会社ワカルクを設立し、代表取締役CEOに就任",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "quote": "良くないパターンとして部署異動によって例えば営業職といった希望外の異動があるかもしれません",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【社長メッセージ】 連携力を高め、みんなで“新しいOSTech”を作っていきましょう",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "quote": "主に製造業のお客様に対し採用に関する支援を7年間経験",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "【2026年新春・山﨑高之社長メッセージ】現場の声とともに描く、BREXA Technologyの進化とこれから",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "例えば製薬会社であれば新薬の開発、卸業者であれば、仕入れ価格交渉、バーであれば接客などが代表的なコア業務です",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "㈱Taste and Logic代表取締役｜マーケティング領域中心の経営コンサル業｜いいものをしっかりと高く売るがモットー｜直感×ロジック｜食品ブランド「Nagara」も運営｜中小企業診断士｜3M→ACN→BLMD→独立｜",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "マンダム社長､MBOで非公開化｢逃げではない｣ 価値向上へ長期投資",
+    "quote": "キャリア採用の応募を受け付けています",
     "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
     "pass": 3
    },
    {
-    "quote": "『RYUJI 竜二』柳楽優弥が語る",
+    "quote": "日経平均採用の株価",
     "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
     "pass": 3
    },
    {
-    "quote": "代表メッセージ",
-    "url": "https://www.brexa.com/news/1646/",
+    "quote": "本社採用案内",
+    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
     "pass": 3
    },
    {
-    "quote": "かねてよりお知らせしておりました持株会社体制への移行完了に伴い、アウトソーシンググループは、本日2025年７月１日より株式会社BREXA Holdings （本社:東京都千代田区、代表取締役会長 上山 健二、代表取締役社長 山﨑 高之)を純粋持株会社としたホールディング体制として始動いたします",
-    "url": "https://www.brexa.com/news/1646/",
-    "pass": 3
-   },
-   {
-    "quote": "代表取締役会長 会長執行役員CEO 上山 健二",
-    "url": "https://www.brexa.com/news/1646/",
-    "pass": 3
-   },
-   {
-    "quote": "代表取締役社長 社長執行役員COO 山﨑 高之",
-    "url": "https://www.brexa.com/news/1646/",
-    "pass": 3
-   },
-   {
-    "quote": "また、同日付で代表取締役の変更を行いましたことも併せてご報告申し上げます",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "• 旧代表取締役：牧 邦彦",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "• 新代表取締役：吉田 幸弘",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "代表者 ： 代表取締役社長 佐藤 正秀",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "代表者 ： 代表取締役社長 吉田 幸弘",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社アウトソーシング（本社：東京都千代田区、代表取締役会長 上山 健二、代表取締役社長 山﨑 高之）は、2025年７月１日付で、「",
-    "url": "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
-    "pass": 3
-   },
-   {
-    "quote": "代表者 代表取締役会長 上山 健二",
-    "url": "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
-    "pass": 3
-   },
-   {
-    "quote": "代表取締役社長 山﨑 高之",
-    "url": "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
-    "pass": 3
-   },
-   {
-    "quote": "取引社数1500社以上！日本を代表する大手・上場メーカーと多数の取引！",
+    "quote": "前年の採用データ",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "「面接では志望動機を語る必要はありません",
+    "quote": "【秋採用実施中！内々定まで最短2週間】エリア確約可能◎志望動機不問◎文理不問｜製造系人材業界No.1｜取引社数1500以上｜年休120日｜家賃補助あり｜資格取得支援",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "代表あいさつ",
+    "quote": "年間休日120日・エリア限定採用あり！希望エリアで、着実にスキルアップできる環境があります！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "進むべき道に迷ったときも、キャリアアドバイザーや営業担当、採用部のメンバーが力を合わせて社員を支援します",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜新卒採用部 部長・佐藤 康平＞",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用実績（学校）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用実績（人数）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数（男女別）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去3年間の新卒採用者数・",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要に記載されている内容はマイナビ2027に掲載されている内容を一部抜粋しているものであり、2028年卒向けの採用情報ではありません",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用受付センター",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "人材募集やスタッフ研修などの人員管理、製造された製品の品質管理など、委託業務内容は工場製造の多岐に渡ります",
+    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "pass": 3
+   },
+   {
+    "quote": "□ ITを担える人材が社内に不足しており、外部採用も難しかった",
     "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
     "pass": 3
    },
    {
-    "quote": "▶代表電話：代表への電話応対を代行",
-    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
+    "quote": "社外から採用しようと思っても難しく、求める人材がなかなか採れませんでした",
+    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
     "pass": 3
    },
    {
-    "quote": "企業が抱える代表的な総務の課題としては、「従業員への窓口対応」や「外部からの代表電話の応対」に負担が掛かっていることなどが挙げられます",
-    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
+    "quote": "採用に関する",
+    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
     "pass": 3
    },
    {
-    "quote": "また、代表電話への対応では「",
-    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
-    "pass": 3
-   },
-   {
-    "quote": "そのため、代表電話への対応を委託する際には「電話が多い時間帯のみ」を委託することで、アウトソーシング費用を抑えることができるでしょう",
-    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
-    "pass": 3
-   },
-   {
-    "quote": "また、従業員対応や代表電話応対は特に負担が大きいため、これらを委託することで自社の負担を大きく削減することができます",
-    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
-    "pass": 3
-   },
-   {
-    "quote": "代表 菊池 美絵子",
-    "url": "https://www.ml-partners.jp/fee/outsourcing",
-    "pass": 3
-   },
-   {
-    "quote": "【山﨑高之新社長インタビュー】境界をなくし、未来を切り開く",
+    "quote": "#中途 (47)",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "#社長メッセージ (8)",
+    "quote": "グループでは世界で約12万人の雇用を創出し、毎年1万人近くの未経験者や新卒者を採用",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "#社長メッセージ",
+    "quote": "これらの研修はエンジニアのみならず、営業職にとっても有用であり、社内全体の人材力を高める取り組みとして推進していきます",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "新社長には、BREXA Holdingsの代表取締役社長・社長執行役員（COO）も務める山﨑高之氏が就任した",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社BREXA Holdings 代表取締役社長・社長執行役員COO",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社BREXA Technology 代表取締役社長",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
-    "pass": 3
-   },
-   {
-    "quote": "BREXA Technologyの社長として私がいま真剣に取り組むべきだと考えているのは、エンジニアが長くキャリアを築ける環境の整備です",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
-    "pass": 3
-   },
-   {
-    "quote": "【社長メッセージ】 “先んじて動く”みなさんの努力で、 ひとつずつ成果が出始めた半期でした",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
-    "pass": 3
-   },
-   {
-    "quote": "【社長メッセージ】 「会社の未来を自ら創造している」",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
-    "pass": 3
-   },
-   {
-    "quote": "BREXA Technology 山﨑社長｜険しい道を「楽観」で歩め｜新生BREXAが切り開く人材業界の新地平",
+    "quote": "採用ご担当者様へ",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "経営者インタビュー",
+    "quote": "経営陣も社員も、この会社にかかわるほとんどの人たちが社名変更をポジティブに考えた結果、新たにBREXAという新ブランドを採用することになりました",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "BREXA Technology 代表取締役社長 山﨑 高之さん",
+    "quote": "そんな人たちを毎年何万人単位で採用して、エンジニアになる機会や施工管理者になる機会、あるいは工場で働く機会を提供する",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "特別インタビュー",
+    "quote": "財閥系のその会社は、経営コンサルタントの卵として採用した新卒の私に対して、多大な教育投資もしてくれましたが「10年かけて一人前の経営コンサルタントを育てる」というスタンスが自分には合いませんでした",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "2024年にアウトソーシングの代表取締役社長に就任",
+    "quote": "新卒採用は会社にとっても命がけ",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "BREXA Holdings代表取締役社長執行役員COO、BREXA Technology 代表取締役社長を兼任",
+    "quote": "「新卒採用こそが会社をつくる」という考え方の大切さを実感しています",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "そこで今回は、新体制となったBREXA Technologyの代表取締役社長であり、BREXA Holdingsの代表取締役社長・社長執行役員（COO）も務める山﨑高之さんに特別インタビュー",
+    "quote": "日本の場合はとくにそうですが、新卒採用が企業の基礎を作っている割合は非常に大きいです",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "社名変更の狙いや成長戦略の中身について伺うとともに、山﨑社長ご自身のキャリアヒストリーを振り返っていただきました",
+    "quote": "だからこそ、会社がハイスピードで成長を遂げるには、社員・役員が採用に徹底的にコミットすることが重要だと思います",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "入社2年目にはインテリジェンスの子会社として立ち上げたECサーブテクノロジーという会社の経営を任され、26歳にして社長になりました",
+    "quote": "たとえばBREXA Technologyでもエンジニアの採用に関してはまさに必死に取り組んでいます",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "これはもうやばいとなって、インテリジェンスの社長に相談して、役員として担当していた他の仕事を解いてもらい、急遽買収した会社の立て直しに専念することにしました",
+    "quote": "エンジニアの新卒採用は事業の根幹で、エンジニアが採用できなければ事業は伸ばせないし顧客の要望にも応えられません",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "その後、インテリジェンスは同業のテンプスタッフと一緒になったのですが、当時の社長が赴任先のシンガポールまで来て「お前は辞めると言っているらしいけれど、アジア市場を伸ばしたいから残ってやってくれないか」と打診を受けたんです",
+    "quote": "会社としてもっとエンジニアの採用に力を入れた方が良いとまで考えているところです",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "このプランを1000億円かけてやりますかと社長に尋ねたら「やりましょう」と言うので「ならば辞めずに残ります」となったのです",
+    "quote": "新卒採用ご担当者さまへ",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "それで2012年から、アウトソーシング（現・BREXA Next）の代表取締役社長にスカウトされる2024年まで、12年間にわたりシンガポールで海外事業に従事することになりました",
+    "quote": "中途採用ご担当者さまへ",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "アウトソーシングの社長を引き受けたのも、安定した経営者の道よりも、新たな挑戦を始める会社の可能性に刺激を受けたからです",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "「IT」関連のインタビュー",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "WEBMARKS 代表取締役 鈴木 晋介さん",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "「上場企業」関連のインタビュー",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "識学 代表取締役社長 安藤 広大さん",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "TOK 代表取締役社長 吉川 桂介さん",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "「グローバルなキャリア」関連のインタビュー",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "マネーフォワードｉ 代表取締役社長 今井 義人さん",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "インタビュー記事を探す",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "経営者インタビュー「キャリア地図」",
-    "url": "https://careerpark-agent.jp/interview/521-2",
-    "pass": 3
-   },
-   {
-    "quote": "山﨑 高之インタビュー【PORTERS MAGAZINE】人材紹介・人材派遣管理システム",
+    "quote": "インドネシアのスタッフはとてもまじめで離職しないので、採用企業から「インドネシアの人をお願いします」とオーダーされることが少なくありません",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "代表取締役社長",
+    "quote": "――日本人の採用についてはいかがでしょうか",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "社長執行役員COO",
+    "quote": "基本的に新卒未経験者を採用しており、2026年は約2,600人採用しました",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "再編への確固たる思いと具体的な経営戦略について、代表取締役社長の山﨑高之氏に聞いた",
+    "quote": "毎年、合計1万人を採用し、育成しています",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "――山﨑様は2024年9月に旧アウトソーシンググループの代表取締役社長に就任されました",
+    "quote": "現在の日本企業は、新卒よりも30代以上のミッドキャリアを採用する傾向があり、未経験者は転職が厳しい状態にあります",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、当社が未経験の方を正社員として積極的に採用し、BREXA Academy（ブレクサ・アカデミー）で育成し、プロフェッショナル人材として送り出しています",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
+    "pass": 3
+   },
+   {
+    "quote": "――御社の採用課題があれば教えてください",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
+    "pass": 3
+   },
+   {
+    "quote": "現在、自社採用の90%は人材紹介会社に頼っており、毎年多額の紹介手数料を支払っています",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
+    "pass": 3
+   },
+   {
+    "quote": "今後は自らの採用力をつけるためのブランディングに注力していきます",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店の採用は、ますます厳しい状況になりました",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
+    "pass": 3
+   },
+   {
+    "quote": "大手物流会社は自社で外国人雇用を始めましたが、中小は簡単に採用できませんので、当社がインドネシア人のドライバーを紹介しています",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
+    "pass": 3
+   },
+   {
+    "quote": "仕入れ ≒ 採用のポイント",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "採用の段階です",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "その後、採用コンサルティングのベンチャーに転職し、人材面から幅広く経営支援を行う",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "ダイバーシティって、女性や外国人採用だけでなく、雇用形態や働き方にも当てはまると思っていて",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
     "pass": 3
    }
   ],
-  "SNS・note（note・本文）": [
+  "SNS・note（note・検索結果の抜粋）": [
    {
-    "quote": "開運成彦 ｜ 中年からの１５万円起業・雑用代行ビジネス",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "「何でも外注」の落とし穴。自分でやる事と任せる事の、上手なさじ加減",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "時給で頼んだ仕事ほど、社長の確認が増えるのはなぜですか",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "技術系アウトソーシング会社って実際どうなの！？にお答えします！｜LHH転職エージェント",
+    "quote": "技術系 アウトソーシング 会社って実際どうなの！？にお答えし ... 技術系 アウトソーシング 会社って実際どうなの！？にお答えし ... note https://note.com > キャリア > 転職・キャリアチェンジ",
     "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "技術系アウトソーシング会社って実際どうなの！？にお答えします！",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このたびnoteに初投稿をさせていただきます！",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メーカーと技術系アウトソーシング会社の違い",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "メリット① やりたい仕事を生涯続けることができる",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "私はこれまで約15年間、半導体・機械・電機業界等で活躍されてきた1900名以上のエンジニアの転職支援を行ってきました。",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一貫して製造業領域の転職支援を行っております。",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業種としては自動車を筆頭に重工、電機、半導体、産業機械、航空宇宙、計測機器、通信機器領域をメインとしており、メンバー、リーダーからマネージャークラスまで幅広い層に対して転職支援をしてきました。",
-    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "の2019年12月の調査によると、アウトソーシング市場は年平均成長率3.5%で伸び続けているそうです(コロナ影響下で、今期は一部カテゴリを除き下がっているかもしれません)。",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：早速ですが、どんな業務をアウトソースするといいか、先生のお考えってありますか？",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "アウトソーシングビジネスの考え方｜がぱけん",
+    "quote": "アウトソーシング ビジネスの考え方｜がぱけん - note アウトソーシング ビジネスの考え方｜がぱけん - note note https://note.com > ビジネス > 経営・マネジメント",
     "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
     "pass": 3
    },
    {
-    "quote": "アウトソーシング、つまり業務の外部委託について、どのような形で活用を進めるべきか?",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3
-   },
-   {
-    "quote": "と、アウトソーシングを事業として捉えた際の考え方をまとめています。",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3
-   },
-   {
-    "quote": "このアカウントは私が仕事や書籍、日々の気づきを通して考察したものを共有するものです。少しでもみなさまのインプットや気づきになると嬉しく思います。",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3
-   },
-   {
-    "quote": "「とりあえずアウトソース」は大体失敗する。",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3
-   },
-   {
-    "quote": "・アウトソーシングはどのように活用すべきか",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3
-   },
-   {
-    "quote": "アウトソーシングを一言でいうと「人的資源を外部調達すること」です。",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3
-   },
-   {
-    "quote": "自社の人材を外部から調達して業務を遂行することを指し、主に経理やITインフラの保守・運用など、定型業務について行われることが多くあります。",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
-    "pass": 3
-   },
-   {
-    "quote": "重要な仕事こそ、アウトソーシングしちゃう方がいいってホント？｜教えて！岩田先生VOL.1｜株式会社ワカルク",
+    "quote": "重要な仕事こそ、 アウトソーシング しちゃう方がいいって ... 重要な仕事こそ、 アウトソーシング しちゃう方がいいって ... note https://note.com > インタビュー・対談 > インタビュー・対談",
     "url": "https://note.com/wakaruku/n/n9dc99122a93e",
     "pass": 3
    },
    {
-    "quote": "重要な仕事こそ、アウトソーシングしちゃう方がいいってホント？｜教えて！岩田先生VOL.1",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "日々の業務と、それを上手に回すための組織づくりの悩み。多くの企業様が抱えている課題ではないでしょうか？",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "そんなテーマについて、今回、特定社会保険労務士であり、ベストセラー『図解 労務入門』の著者である岩田佑介先生をお迎えし、ワカルク代表の石川が対談を行いました。",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "アウトソーシングのコツや次世代の組織マネジメントのポイント、AIとの共存の仕方、そして、これからの事務職のキャリア",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "岩田社会保険労務士事務所 所長。特定社会保険労務士。株式会社パソナ、三菱UFJリサーチ＆コンサルティング株式会社の2社にて人事コンサルタント、ライフネット生命保険株式会社の人事部長を務めた後に独立。著書として『図解 労務入門』（ディスカヴァー・トゥエンティワン）、『ベンチャー・スタートアップ企業の労務50のポイント』（セルバ出版）、『経営戦略としてのワーケーション入門』（金融財政事情研究会）。",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "株式会社ワカルク 代表取締役CEO。1981年東京生まれ。明治大学法学部卒業後、株式会社クイックに入社。求人広告の法人営業、及び営業企画業務に従事。その後、採用コンサルティングのベンチャーに転職し、人材面から幅広く経営支援を行う。2020年9月株式会社ワカルクを設立し、代表取締役CEOに就任。全社員完全テレワーク、子育て中の女性が8割の組織づくりを実践し、令和5年度「東京ライフ・ワーク・バランス認定企業」、総務省主催「テレワークトップランナー2023」に選出される。女性活躍推進や、テレワーク組織づくり、働き方改革などのコンサルティング・研修実績も多数。",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "成長している会社ほど、社外人材も含めてワンチームになっている！",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3
-   },
-   {
-    "quote": "アウトソーシングの人気・新着記事まとめ｜note",
+    "quote": "アウトソーシング の人気・新着記事まとめ - note アウトソーシング の人気・新着記事まとめ - note note https://note.com > tag > アウトソーシング",
     "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3
    },
    {
-    "quote": "ビジネスの専門業務から家事や育児の負担軽減まで、外部リソースを活用する手法を扱います。",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
-    "pass": 3
-   },
-   {
-    "quote": "企業の戦略的な役割分担や、個人の時間を確保するための実践的な知恵が集まっています。",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
-    "pass": 3
-   },
-   {
-    "quote": "ビジネスの専門業務から家事や育児の負担軽減まで、外部リソースを活用する手法を…",
-    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
-    "pass": 3
-   },
-   {
-    "quote": "外注のブラックボックス化を防ぐ。AI時代のアウトソーシング設計（海外動向）｜みその｜BizOpsアーキテクト",
-    "url": "https://note.com/bizops/n/n5ff935a1ce53",
-    "pass": 3
-   },
-   {
-    "quote": "外注のブラックボックス化を防ぐ。AI時代のアウトソーシング設計（海外動向）",
-    "url": "https://note.com/bizops/n/n5ff935a1ce53",
-    "pass": 3
-   },
-   {
-    "quote": "「外部に業務を委託したはずなのに、なぜか社内での確認作業や手戻りのコストばかりが増えていく」",
-    "url": "https://note.com/bizops/n/n5ff935a1ce53",
-    "pass": 3
-   },
-   {
-    "quote": "「とりあえず面倒な作業をBPO（外部委託）に投げた結果、業務プロセスが完全にブラックボックス化し、社内の誰も全貌を把握できなくなってしまった」",
-    "url": "https://note.com/bizops/n/n5ff935a1ce53",
-    "pass": 3
-   },
-   {
-    "quote": "日々の組織課題において、こうしたアウトソーシングの罠に直面する企業は少なくありません。人手不足を背景に、とにかく目の前の作業を外に出すことだけを目的とした従来型の丸投げは、かえって組織の連携を阻害し、業務のガバナンスを徐々に失っていくリスクを孕んでいます。",
-    "url": "https://note.com/bizops/n/n5ff935a1ce53",
-    "pass": 3
-   },
-   {
-    "quote": "誤解のないよう先にお伝えすると、この記事は決して外注反対論ではありません。労働人口が減少しテクノロジーが高度化する現代、外部リソースの活用は企業の生存戦略そのものです。",
-    "url": "https://note.com/bizops/n/n5ff935a1ce53",
-    "pass": 3
-   },
-   {
-    "quote": "問題の核心は外注すること自体ではなく、自社のプロセスと外部リソースをどう統合するかという「アーキテクチャの欠如」にあるのです。",
-    "url": "https://note.com/bizops/n/n5ff935a1ce53",
-    "pass": 3
-   },
-   {
-    "quote": "では、外部リソースを自社のオペレーションにどう組み込んでいくべきか。今回は、グローバル法律事務所Morgan Lewisのレポート「",
+    "quote": "外注のブラックボックス化を防ぐ。AI時代の アウトソーシング ... 外注のブラックボックス化を防ぐ。AI時代の アウトソーシング ... note https://note.com > デザイン > デザイン全般",
     "url": "https://note.com/bizops/n/n5ff935a1ce53",
     "pass": 3
    }
   ],
-  "製造業の顧客": [
+  "売り方": [
+   {
+    "quote": "営業利益 158 △ 139 △ 88.0%",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "販管費、営業利益推移グラフ販管費、営業利益推移グラフ",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "売上原価 販管費 営業利益 販管費率 営業利益率",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "営業利益 604 126 20.9%",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "△ 57.8%△ 178308営業利益",
+    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
    {
     "quote": "● 大手自動車メーカー、周辺企業への営業",
     "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "● 効率向上を目的とし、メーカー工場内の一部または全ての",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "◆ 製造過程の多様なリスクを、顧客と分担してミニマイズ",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "工場における生産の流れ工場における生産の流れ",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "多業種にわたる顧客企業多業種にわたる顧客企業",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "◆ 顧客業種を分散 → 業績の変動が少ない",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "顧客ニーズに合わせた雇用技術によるビジネスモデル顧客ニーズに合わせた雇用技術によるビジネスモデル",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "◆ 作業の標準化・マニュアル化を顧客に提案",
-    "url": "https://next.brexa.com/wp-content/uploads/2026/02/20050520.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情シスアウトソーシング導入事例 ― 製造業50名規模のひとり情シスが限界を迎えるまでと、その後 | 情シス365",
-    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情シスアウトソーシング導入事例 ― 製造業50名規模のひとり情シスが限界を迎えるまでと、その後",
-    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -3481,38 +3537,8 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "約50名（本社＋工場）",
-    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "主要取引先の大手メーカーから、サプライチェーンセキュリティの一環としてセキュリティ対策状況の回答を求められました",
-    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
     "quote": "地方の製造業にITエンジニアを呼ぶハードルは高く、人材紹介会社に依頼しても3ヶ月以上マッチングがつかない状態でした",
     "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "さらに、セキュリティ体制の整備により取引先からのチェックシートにも対応でき、取引継続のリスクが解消されました",
-    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "官公庁・医療・金融・製造業など幅広い業界で10年以上の実績を持つ",
-    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ITアウトソーシング業種別の導入事例から見る成功の秘訣！",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -3523,13 +3549,13 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "製造業、小売業、金融業など多様な業種での成功事例を通じて、導入の際の注意点やベンダー選びのポイント、さらにはクラウドソリューションの活用方法など、具体的なノウハウと、ITアウトソーシングの全貌を全てお伝えいたします",
+    "quote": "9. おすすめのアウトソーシング先のご紹介",
     "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2. 業種別ITアウトソーシング導入事例",
+    "quote": "ITアウトソーシングとは？について、下記の記事で詳しくご紹介していますのでご覧ください",
     "url": "https://www.anets.co.jp/is/blog/cotents16.php",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -3541,92 +3567,135 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2.1. 製造業における成功事例",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
+    "quote": "営業マンnoteを1人でやるの辞めるってよ",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "製造業では、ITアウトソーシングの導入により生産効率が劇的に向上した事例があります",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
+    "quote": "営業fafa | note業界No.1営業マン",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "まず、ある大手メーカーは生産管理システムを外部委託しました",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
+    "quote": "Structured.が社長室人材の紹介事業を始めた理由",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "顧客の需要に迅速に対応できる体制が整い、競争力が向上しました",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
+    "quote": "「採用できなければ無料」という甘美な罠――ある人材紹介会社が送りつけてきた“怪文書”と、仕事をおざなりにする者たちの末路",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "具体例として、ある大手小売チェーンでは、POSシステムと顧客管理システムを外部に委託しました",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
+    "quote": "SSCの仕事とは？人事労務の業務を例に紹介します",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "国内外で製造業などへの人材派遣を手がける",
+    "quote": "職種については研究開発、設計開発、評価、解析、生産技術、生産管理、購買、品質管理・品質保証、サービスエンジニア、技術営業領域を得意としています",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もちろん次もエンジニアとして仕事を続けられるメーカー求人をご紹介しますが、次に行く会社が必ずやりたい仕事が保障できるか、と言うと必ずしもそうではありません",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "良くないパターンとして部署異動によって例えば営業職といった希望外の異動があるかもしれません",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "EMC紹介部 セミコンダクター課 コンサルタント",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "【略歴】前職医療機器メーカーの営業を経て2008年2月にエンジニア特化型の転職支援会社に入社",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "LHH転職エージェントがご紹介中の求人もご覧いただけます",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "LHHは、アデコグループの転職支援、人材紹介、人財育成、組織開発、再就職支援といったタレントソリューションを担うブランドです",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここでは、LHHのサービスのことやメンバー紹介、転職ノウハウ、社員育成、人事戦略に役立つノウハウをご紹介していきます！",
+    "url": "https://note.com/lhh_japan/n/n5eb183fb57ba",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "サービス紹介へ",
     "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
     "pass": 3
    },
    {
-    "quote": "少子高齢化が進行する日本では、製造業、IT業界、建築業界などで深刻な人手不足が続いており、この状況は今後長期にわたると予測されています",
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経イベント＆セミナー",
+    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZQOUC07C3D0X01C23A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "取締役・執行役員紹介",
     "url": "https://www.brexa.com/news/1646/",
     "pass": 3
    },
    {
-    "quote": "当社は、サービス業界を中心とした幅広い顧客企業様に向けて、業務請負・人材派遣サービスを展開してまいりました",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "「サービスに付加価値を求めて！お客様に価値あるサービスの提供を！」を企業理念として掲げ、提案力の強化に継続して取り組むことで、人手不足という社会的課題に直面する顧客企業様と、働く意欲を持つ求職者の双方に寄り添い、課題解決を通じて信頼を積み重ねてまいりました",
-    "url": "https://www.ots.co.jp/news/2025/1223.html",
-    "pass": 3
-   },
-   {
-    "quote": "取引社数1500社以上！日本を代表する大手・上場メーカーと多数の取引！",
+    "quote": "人材派遣・人材紹介",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "国内1,500社以上のメーカーと取引を行うBREXA Next",
+    "quote": "会社紹介記事",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "自動車や電子部品、医療機器、食品など幅広い業界のものづくりを支えながら、日本の製造業の発展に貢献している",
+    "quote": "製造職として経験を積んだ後は、管理者へのステップアップはもちろん、営業管理や人事、開発者などへのキャリアチェンジも可能",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "製造業で働く人たちの可能性を広げ、日本のものづくりを支える",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "BREXA Nextでは製造領域を中心としたアウトソーシング事業を通して、国内の1,500社以上のメーカーのものづくりを、“人”の力で支えています",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "社員の大多数は製造業未経験者であり、その中には文系出身者も数多く含まれています",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "どのメーカーもマニュアルが整っており、どういう順序やタイミングで作業すれば製品が形になるのかは決まっていますから、真摯な姿勢で学び続ければ十分にスタートラインに立つことができます",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "中でも製造業における時間が整った働き方を活用して、別の夢を追いかける社員を支援する「はたゆめプロジェクト」では、イラストレーターや声優などを目指す社員に対して、その道のプロから指導を受けられる場所を提供しています",
+    "quote": "進むべき道に迷ったときも、キャリアアドバイザーや営業担当、採用部のメンバーが力を合わせて社員を支援します",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
@@ -3636,22 +3705,12 @@
     "pass": 3
    },
    {
-    "quote": "全国の大手メーカーを中心に1,500社以上との取引実績があり、日本のものづくりを支えるさまざまな現場で活躍しています",
+    "quote": "有料職業紹介事業許可番号 13-ユ-305783",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
    {
-    "quote": "入社後は、製品の組立や加工、検査といった製造業務をはじめ、品質管理や設備保全、生産技術など、多様な仕事に携わることが可能です",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "トヨタ自動車、日産自動車、SUBARU、ダイハツ工業、いすゞ自動車、豊田合成、アイシン、ブリヂストン、キヤノン、ソニー、シャープ、東芝、LIXIL、YKK、川崎重工業、アステラス製薬、味の素冷凍食品、江崎グリコ、紀文食品 ほか大手メーカー1,500社以上（敬称略・順不同）",
-    "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
-    "pass": 3
-   },
-   {
-    "quote": "他にも、クライアント先工場内での決まり事や基本的な約束ごとなど、",
+    "quote": "・有料職業紹介事業開始",
     "url": "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "pass": 3
    },
@@ -3661,62 +3720,27 @@
     "pass": 3
    },
    {
-    "quote": "製造・メーカー",
+    "quote": "サービス紹介",
     "url": "https://www.noc-net.co.jp/case/industry/manufacturer/",
     "pass": 3
    },
    {
-    "quote": "製造業におけるアウトソーシングの導入例やメリットについて – 堺・大阪・枚方・京都の人材派遣ならパワーキャスト",
+    "quote": "事例紹介 業界別一覧",
+    "url": "https://www.noc-net.co.jp/case/industry/manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "RPA導入好事例TOPをご紹介",
+    "url": "https://www.noc-net.co.jp/case/industry/manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介について",
     "url": "https://powercast.jp/manufacturing_outsourcing/",
     "pass": 3
    },
    {
-    "quote": "製造業におけるアウトソーシングの導入例やメリットについて",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "この記事では、アウトソーシングの基本と、製造業におけるアウトソーシングの導入例を解説します",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "2.製造業におけるアウトソーシングのメリット",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "3.製造業におけるアウトソーシングのデメリット",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "4.製造業におけるアウトソーシングの導入例",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "4-3.工場での製造を一括で委託",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "ここでは、製造業におけるアウトソーシングのメリットを3つ解説します",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "製造業務のアウトソーシングが実現されれば、自社の持つリソースをコア業務へと振り分けることができます",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "ここまで、製造業におけるアウトソーシングのメリットを説明しました",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
-    "pass": 3
-   },
-   {
-    "quote": "しかし、製造業は必ずしもメリットばかりではありません",
+    "quote": "紹介予定派遣について",
     "url": "https://powercast.jp/manufacturing_outsourcing/",
     "pass": 3
    },
@@ -3731,83 +3755,53 @@
     "pass": 3
    },
    {
-    "quote": "想定ケースとして、「製造工程の一部委託」・「製造ライン別の委託」・「工場一括委託」を想定し、各導入例を解説します",
+    "quote": "新規営業の仕事",
     "url": "https://powercast.jp/manufacturing_outsourcing/",
     "pass": 3
    },
    {
-    "quote": "製造業におけるアウトソーシングでは、「製造工程の一部」を委託契約することが可能です",
+    "quote": "営業管理の仕事",
     "url": "https://powercast.jp/manufacturing_outsourcing/",
     "pass": 3
    },
    {
-    "quote": "工場一括委託は、工場における製造業務をすべてアウトソーシングする業務委託契約です",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "quote": "イベント・セミナー",
+    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
     "pass": 3
    },
    {
-    "quote": "上記のように、工場での製造を一括で委託する場合は、資材発注や生産管理の業務委託にとどまりません",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "quote": "ここからは、それぞれの特徴と相場についてご紹介していきます",
+    "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
     "pass": 3
    },
    {
-    "quote": "人材募集やスタッフ研修などの人員管理、製造された製品の品質管理など、委託業務内容は工場製造の多岐に渡ります",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "quote": "セミナー情報",
+    "url": "https://www.ml-partners.jp/fee/outsourcing",
     "pass": 3
    },
    {
-    "quote": "委託側企業は人件費のコストダウンや工場設備の費用削減など、大幅な経費削減を実施することが可能です",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "quote": "セミナーのご案内",
+    "url": "https://www.ml-partners.jp/fee/outsourcing",
     "pass": 3
    },
    {
-    "quote": "製造業でも、競争力維持やコスト削減を図るため、多くの企業で積極的に取り入れられている手法です",
-    "url": "https://powercast.jp/manufacturing_outsourcing/",
+    "quote": "※次回のセミナー開催日程が決定いたしましたら、詳細をご案内いたします",
+    "url": "https://www.ml-partners.jp/fee/outsourcing",
     "pass": 3
    },
    {
-    "quote": "「DX推進の壁」を突破！業務アウトソーシング導入で社員リソースを効率化した事例（製造業様） | サン・エム・システム株式会社",
-    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
+    "quote": "セミナー情報について詳しくはこちら",
+    "url": "https://www.ml-partners.jp/fee/outsourcing",
     "pass": 3
    },
    {
-    "quote": "「DX推進の壁」を突破！業務アウトソーシング導入で社員リソースを効率化した事例（製造業様）",
-    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
+    "quote": "各種許可申請の手続支援（派遣業・紹介業）",
+    "url": "https://www.ml-partners.jp/fee/outsourcing",
     "pass": 3
    },
    {
-    "quote": "デザイン性や独自性、安全性、持続可能性を重視した商品づくりを行うグローバル刃物メーカーです",
-    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
-    "pass": 3
-   },
-   {
-    "quote": "弊社はカミソリやツメキリなどの身だしなみを整えるツールやビューティーツール、包丁をはじめとする調理器具や製菓用品、医療用刃物など、生活に密着した刃物を中心に1万アイテムにも及ぶ商品を展開しているグローバル刃物メーカーです",
-    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
-    "pass": 3
-   },
-   {
-    "quote": "現在、本社（販売部門）は東京にあり、工場（製造部門）は、岐阜県関市にあります",
-    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
-    "pass": 3
-   },
-   {
-    "quote": "AWSクラウド導入事例：ファイルサーバー内の「情報管理の煩雑さ」や「アクセスセキュリティの不安」がAWSクラウド移行により解決！（総合不動産事業）",
-    "url": "https://www.sun-m.co.jp/casestudy/hld-kai.html",
-    "pass": 3
-   },
-   {
-    "quote": "現在、技術系領域で３万人近い技術者を擁し、5,000社以上の顧客企業と取引をしています",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
-    "pass": 3
-   },
-   {
-    "quote": "現在、BREXA Technologyの売上の半分以上、またBREXA Nextにおいては9割以上が自動車・電子部品・半導体メーカーからです",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
-    "pass": 3
-   },
-   {
-    "quote": "これにより、同一の顧客に対して、工場のワーカーから研究開発棟のエンジニアまで、一気通貫で人材を提供できる体制を構築しています",
-    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "quote": "給与計算アウトソーシング・代行のメリット・デメリット、料金の相場や導入のポイントをご紹介します",
+    "url": "https://www.kyuyo-pro.com/mailmagazine/index_04.html",
     "pass": 3
    },
    {
@@ -3816,28 +3810,28 @@
     "pass": 3
    },
    {
-    "quote": "このように、各ユニットが連携し、顧客と従業員の双方にとって最適なソリューションを提供しながら、社会に対する価値を創出していきたいと考えています",
+    "quote": "これらの研修はエンジニアのみならず、営業職にとっても有用であり、社内全体の人材力を高める取り組みとして推進していきます",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "これらすべての領域において技術は急速に進化しており、顧客から求められるスキルの変化も年々早まっています",
+    "quote": "税務支援やキャリア相談、案件紹介など、フリーランスとして安心して働けるサポート体制を提供していきます",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "顧客にとっても、ニーズに応じた柔軟な体制が提供できるという利点があります",
+    "quote": "営業などバックオフィスの皆さんをはじめ、BREXA Technologyの中心を担うエンジニアの皆さんとどんどん意見を交わしていきたいと考えています",
     "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
     "pass": 3
    },
    {
-    "quote": "そんな人たちを毎年何万人単位で採用して、エンジニアになる機会や施工管理者になる機会、あるいは工場で働く機会を提供する",
+    "quote": "サービス紹介",
     "url": "https://careerpark-agent.jp/interview/521-2",
     "pass": 3
    },
    {
-    "quote": "エンジニアの新卒採用は事業の根幹で、エンジニアが採用できなければ事業は伸ばせないし顧客の要望にも応えられません",
-    "url": "https://careerpark-agent.jp/interview/521-2",
+    "quote": "山﨑 高之インタビュー【PORTERS MAGAZINE】人材紹介・人材派遣管理システム",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
@@ -3846,12 +3840,12 @@
     "pass": 3
    },
    {
-    "quote": "会長の上山健二は、銀行や大手アパレルメーカーの再建経験があり、他の役員も国内外の大手企業のCxO経験者です",
+    "quote": "現在、自社採用の90%は人材紹介会社に頼っており、毎年多額の紹介手数料を支払っています",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
    {
-    "quote": "当社もやむなく、飲食店に送り出す予定だった人材を食品工場に変更するなどの対応をしました",
+    "quote": "大手物流会社は自社で外国人雇用を始めましたが、中小は簡単に採用できませんので、当社がインドネシア人のドライバーを紹介しています",
     "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
     "pass": 3
    },
@@ -3861,13 +3855,43 @@
     "pass": 3
    },
    {
-    "quote": "アウトソース事業は、取り扱う商材がモノなのかヒトなのかが違うだけで、本質的にはメーカーと変わらない",
+    "quote": "人材紹介・人材派遣管理システム TOP",
+    "url": "https://hrbc.porters.jp/magazine/special_detail/id=1432",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは一つ事例を紹介しましょう",
     "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
     "pass": 3
    },
    {
-    "quote": "どのようなサービスを顧客に提供するのか？という企画段階が最も重要",
+    "quote": "また、営業事務やマー",
     "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "これは、営業活動において大きなアドバンテージを持っていることになります",
+    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告の法人営業、及び営業企画業務に従事",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "6/18 noteの”あとがきセミナー”を開催します！",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "本マガジンは、各方面の先生方をお迎えした対談内容をご紹介するシリーズとなっております",
+    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
+    "pass": 3
+   },
+   {
+    "quote": "本来は最終的な受注（売上）でベンダーを評価し成果報酬を支払いたいところですが、受注プロセスは営業部門が握っています",
+    "url": "https://note.com/bizops/n/n5ff935a1ce53",
     "pass": 3
    }
   ]
@@ -3903,7 +3927,7 @@
     "method": "http"
    },
    {
-    "url": "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
+    "url": "https://ja.wikipedia.org/wiki/BREXA_Next",
     "status": "ok",
     "method": "http"
    },
@@ -4065,23 +4089,21 @@
     "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
     "https://next.brexa.com/corporate/history/",
     "https://strainer.jp/companies/JP-2427/history",
-    "https://www.aec-japan.co.jp/info/1202/",
-    "https://ja.wikipedia.org/wiki/親会社",
-    "https://maonline.jp/news/20231208g"
+    "https://www.aec-japan.co.jp/info/1202/"
    ]
   },
   {
    "query": "アウトソーシング 設立 OR 創業",
    "results": [
     "https://www.brexa.com/news/1646/",
-    "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
-    "https://www.neoa.or.jp/guide/purpose.html",
-    "https://www.ots.co.jp/company/history/",
     "https://ja.wikipedia.org/wiki/BREXA_Next",
+    "https://www.neoa.or.jp/guide/purpose.html",
+    "https://prtimes.jp/main/html/rd/p/000000013.000077850.html",
+    "https://www.ots.co.jp/company/history/",
     "https://profile.dreamgate.gr.jp/QaItems/detail/1371",
     "https://www.marr.jp/genre/study/marr_report/entry/52460",
-    "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "https://www.aska-tax.jp/s_out.html",
+    "https://job.mynavi.jp/28/pc/search/corp104249/outline.html",
     "https://ja.wikipedia.org/wiki/茂手木雅樹"
    ]
   },
@@ -4110,8 +4132,8 @@
     "https://go.taxita.com/column/accounting021/",
     "https://mirai-marutto-cloud.jp/case/case-291",
     "https://www.jstage.jst.go.jp/article/jmda/6/0/6_0_178/_pdf/-char/ja",
-    "https://go.chatwork.com/ja/column/cat775/online-assistant007.html",
     "https://i-ota.jp/manufacturing-outsourcing/",
+    "https://go.chatwork.com/ja/column/cat775/online-assistant007.html",
     "https://bizfocus.jp/blog/outsourcing-outsourcing_jirei"
    ]
   },
@@ -4127,7 +4149,7 @@
     "https://boxil.jp/mag/a8411/",
     "https://www.yfpcrea.com/335/cost",
     "https://www.pasona-ns.co.jp/column_wp/detail/160020.html",
-    "https://content.step-base.jp/blog/online_outsourcing_price"
+    "https://ja.wikipedia.org/wiki/アウトソーシング"
    ]
   },
   {
@@ -4157,7 +4179,7 @@
     "https://note.com/nitaco/n/n87675a96eb5f",
     "https://note.com/itwith/n/ne7ba3cc950c0",
     "https://note.com/eisho_consulting/n/n56109bc6bb9d",
-    "https://note.com/dandy_skink9175/n/nfb033633b6b2"
+    "https://note.com/dragon_zer0/n/ndb9ad5387886"
    ]
   },
   {
@@ -4171,7 +4193,8 @@
     "https://x.com/BREXA_Tech/status/1775704902976836011",
     "https://x.com/BREXA_Tech/status/1891296442624700696",
     "https://x.com/BREXA_Tech/status/1864894403304919531",
-    "https://x.com/BREXA_Tech/status/1906946668077134172"
+    "https://x.com/BREXA_Tech/status/1906946668077134172",
+    "https://x.com/Len_Si_t/status/2118330897971986800"
    ]
   },
   {
@@ -4185,8 +4208,8 @@
     "https://www.linkedin.com/pulse/forbes-six-reasons-outsourcing-could-benefit-your-business-edgkf",
     "https://www.linkedin.com/learning/outsourcing-fundamentals",
     "https://business.linkedin.com/en-in/talent-solutions/resources/hr-glossary/human-resource-outsourcing",
-    "https://jp.linkedin.com/pulse/outsourcing-isnt-saving-money-anymore-xka4e?tl=ja",
-    "https://jp.linkedin.com/pulse/how-outsourcing-industry-keeps-up-more-complex-digital-world-qgsgc?tl=ja"
+    "https://jp.linkedin.com/pulse/how-outsourcing-industry-keeps-up-more-complex-digital-world-qgsgc?tl=ja",
+    "https://jp.linkedin.com/pulse/outsourcing-isnt-saving-money-anymore-xka4e?tl=ja"
    ]
   },
   {
@@ -4196,12 +4219,12 @@
     "https://www.facebook.com/fb-answers/financial-outsourcing-services-for-small-businesses/?locale=ja_JP",
     "https://www.facebook.com/japang.co.jp/",
     "https://www.facebook.com/fb-answers/outsourcing-for-enrolled-agents-for-small-firms/?locale=ja_JP",
+    "https://www.facebook.com/groups/637613153103605/posts/1552034521661459/",
     "https://www.facebook.com/theoutsourcingcrew/",
     "https://www.facebook.com/BREXATech/posts/2025%E5%B9%B4%EF%BC%94%E6%9C%88%EF%BC%91%E6%97%A5%E4%BB%98%E3%81%AE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E3%81%A6%E3%81%94%E6%A1%88%E5%86%85%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8A%E5%BD%93%E7%A4%BE%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF2025%E5%B9%B4%EF%BC%97%E6%9C%88%EF%BC%91%E6%97%A5%E4%BB%98%E3%81%A7%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEbrexa-holdings%E3%83%96%E3%83%AC%E3%82%AF%E3%82%B5/704719309028998/",
-    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AA%E3%83%96%E3%83%AF%E3%83%BC%E3%82%AF-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E4%BA%8B%E6%A5%AD%E9%83%A8-100063980892248/",
-    "https://www.facebook.com/devworks.jp/posts/it%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E5%85%88%E3%81%A8%E3%81%97%E3%81%A6%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%8C%E9%81%B8%E3%81%B0%E3%82%8C%E3%82%8B%E7%90%86%E7%94%B1%E4%BA%BA%E6%9D%90%E3%82%B3%E3%82%B9%E3%83%88%E9%96%8B%E7%99%BA%E5%8A%9B%E3%82%92%E8%A7%A3%E8%AA%AC%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%8Cit%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E5%85%88%E3%81%A8%E3%81%97%E3%81%A6%E9%81%B8%E3%81%B0%E3%82%8C%E3%82%8B%E7%90%86%E7%94%B1%E3%81%AB%E3%81%AF%E5%84%AA%E3%82%8C%E3%81%9F%E4%BA%BA%E6%9D%90%E5%8A%9B%E3%82%B3%E3%82%B9%E3%83%88%E5%8A%B9%E7%8E%87%E9%96%8B%E7%99%BA%E5%8A%9B%E3%81%9D%E3%81%97%E3%81%A6/1132734192838454/",
     "https://www.facebook.com/ExpanderOutsourcingServicesInc/",
-    "https://business.facebook.com/groups/overseasvietnamesefb/"
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AA%E3%83%96%E3%83%AF%E3%83%BC%E3%82%AF-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E4%BA%8B%E6%A5%AD%E9%83%A8-100063980892248/",
+    "https://www.facebook.com/devworks.jp/posts/it%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E5%85%88%E3%81%A8%E3%81%97%E3%81%A6%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%8C%E9%81%B8%E3%81%B0%E3%82%8C%E3%82%8B%E7%90%86%E7%94%B1%E4%BA%BA%E6%9D%90%E3%82%B3%E3%82%B9%E3%83%88%E9%96%8B%E7%99%BA%E5%8A%9B%E3%82%92%E8%A7%A3%E8%AA%AC%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%8Cit%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E5%85%88%E3%81%A8%E3%81%97%E3%81%A6%E9%81%B8%E3%81%B0%E3%82%8C%E3%82%8B%E7%90%86%E7%94%B1%E3%81%AB%E3%81%AF%E5%84%AA%E3%82%8C%E3%81%9F%E4%BA%BA%E6%9D%90%E5%8A%9B%E3%82%B3%E3%82%B9%E3%83%88%E5%8A%B9%E7%8E%87%E9%96%8B%E7%99%BA%E5%8A%9B%E3%81%9D%E3%81%97%E3%81%A6/1132734192838454/"
    ]
   },
   {
@@ -4213,10 +4236,8 @@
     "https://note.com/brexa_holdings/n/nbb52a04757a8",
     "https://x.com/sadaaki",
     "https://note.com/2512_energrow/n/n1893bdcecb84",
-    "https://www.youtube.com/watch?v=Qvt3P9SuaWY",
     "https://note.com/brexa_holdings/n/nf5b3a95a256d",
-    "https://www.tempstaff.co.jp/client/hr-knowledge/6952.html",
-    "https://ja.wikipedia.org/wiki/加藤貞顕"
+    "https://www.youtube.com/watch?v=Qvt3P9SuaWY"
    ]
   },
   {
@@ -4227,10 +4248,10 @@
     "https://azu-rite.co.jp/clumn/x-recruitment",
     "https://traffics.jp/blog/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E6%A5%AD%E5%8B%99-%E4%BA%8B%E4%BE%8B%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B/",
     "https://flagout.co.jp/btob-x-twitter-guide/",
-    "https://www.lancers.jp/menu/tag/twitter%28X%29%E6%8B%A1%E6%95%A3?srsltid=AYCX9vJ5S_bcT_DJqMpzUPlp0niRvSt2AI4leJc3yVYX-2vwthToWVcZ",
-    "https://cone-c-slide.com/liblog/twitter/",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://www.lancers.jp/menu/tag/twitter%28X%29%E6%8B%A1%E6%95%A3?srsltid=AYCX9vIIT48xblB9fIg7u0IVBeq31uTE6JDZreRhkzGTpBctKw1e29O1",
     "https://s--line.co.jp/x-twitter-business-2026/",
-    "https://www.youtube.com/watch?v=wT4XfZspLWY",
+    "https://cone-c-slide.com/liblog/twitter/",
     "https://x.com/outsourrrcing"
    ]
   }
@@ -4241,52 +4262,43 @@
   "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
   "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
   "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
-  "許認可": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）"
+  "許認可": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）"
  },
  "new_this_run": {
+  "発言": [
+   {
+    "quote": "【社長メッセージ】 技術者数も技術力も日本一へ、 ベースを固める1年にしましょう",
+    "url": "https://www.ostech-online-magazine.com/message/20250722_1/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "料金": [
    {
-    "quote": "総務アウトソーシングの費用に違いが出てくる理由",
+    "quote": "次に、総務アウトソーシングの費用に違いが出てくる理由を5つ挙げ、解説していきます",
     "url": "https://www.persol-bd.co.jp/service/bpo/s-bpo/column/general-affairs-oscost/",
     "pass": 3,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
    }
   ],
-  "SNS・note（note・本文）": [
+  "売上・規模": [
    {
-    "quote": "の2019年12月の調査によると、アウトソーシング市場は年平均成長率3.5%で伸び続けているそうです(コロナ影響下で、今期は一部カテゴリを除き下がっているかもしれません)。",
-    "url": "https://note.com/haraken335/n/nf36efa8b7dbb",
+    "quote": "情シスアウトソーシング導入事例 ― 製造業50名規模のひとり情シスが限界を迎えるまでと、その後 | 情シス365",
+    "url": "https://www.josis365.com/blog/outsourcing-case-manufacturing/",
     "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：早速ですが、どんな業務をアウトソースするといいか、先生のお考えってありますか？",
-    "url": "https://note.com/wakaruku/n/n9dc99122a93e",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
    }
   ],
-  "製造業の顧客": [
+  "採用・人数": [
    {
-    "quote": "まず、ある大手メーカーは生産管理システムを外部委託しました",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
+    "quote": "採用と管理部門の伴走者：株式会社みらいキャリアラボ",
+    "url": "https://note.com/tag/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
     "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "顧客の需要に迅速に対応できる体制が整い、競争力が向上しました",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体例として、ある大手小売チェーンでは、POSシステムと顧客管理システムを外部に委託しました",
-    "url": "https://www.anets.co.jp/is/blog/cotents16.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
+    "first_seen": "2026-11-06"
    }
   ]
  },
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-04T15:05:59.871420+00:00"
 }

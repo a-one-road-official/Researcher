@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・95品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・96品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3362,6 +3362,11 @@
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
 - 手順・やり方：
+  - 「東京官書普及（千代田区）への窓口持参からWEB申込まで、具体的な手順を網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告の官報費用はいくら？枠数別の料金表と節約する3つの方法」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「会社規模別の費用シミュレーションと節約3つの方法を比較表で紹介」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「司法書士会への非司行為(にせ司法書士)取締要請書（ひな型）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「新人司法書士が必ず陥る「誤字脱字などのケアレスミス地獄」からの脱出方法」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「所在と家屋番号が一致しない建物の発生原因と対処方法」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3372,12 +3377,8 @@
   - 「遺産分割協議成立後、相続人の漏れに気付いた場合の対応方法［グループ会員限定］」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「遺贈の放棄｜遺言で受けた贈与（遺贈）を放棄する方法は、遺言の書き方によって異なります」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「遺言書を探す方法（公正証書遺言、法務局保管自筆証書遺言の探索）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「会社設立の出資金の入金方法、通帳コピーの作成方法（出資払込証明）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「会社名義の銀行口座が作れない理由と対処方法」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「ビジネス（事業目的）の適法性の調査方法（グレーゾーン解消制度、ノーアクションレター制度、新技術等実証制度、新事業特例制度）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「会社役員間の利益相反取引「見分け方」と「具体的な対応方法」」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「公正証書や書面など様式が決まっている契約の類型」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 突き合わせ・推定：
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「法務部員が知っておくべき「二段の推定」とは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「前期と今期の純資産を比較することで、利益の増減を推定できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3408,6 +3409,9 @@
   - 「第三者のためにする契約（いわゆる三為契約、新中間省略）の契約実務・取引実務・登記実務」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「外国（海外）在住日本人の不動産登記手続（在留証明書･署名証明書）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 失敗・落とし穴：
+  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「貸借対照表の公告（決算公告）で注意すべき事項 - あなたのまちの司法書士事務所グループ」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「拘置所・刑務所など刑事施設への被収容者（被告人・受刑者など）を登記当事者とする場合の注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「相続クイズ５０問（間違いだらけのネット情報）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3420,9 +3424,6 @@
   - 「消滅時効が完成していると思っていた債務が実は時効完成していないケース～民間同士の貸借で「期限の利益喪失約款がない」場合や「約款があっても一括請求を受けていない」場合にご注意」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「自己株式取得（総株主から買取）の手続と注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「自己株式取得（特定株主から買取）の手続と注意点」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「コロナで延期していた株主総会や社員総会を開催するときに注意すべき事項～基準日を定めるべきか否かの判断基準」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「他社株式取得や組織再編の際に注意すべき「独禁法の事前届出」」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
-  - 「会社の公告（その１）貸借対照表の公告（決算公告）で注意すべき事項」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
 - 実例：
   - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（前編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「｢親族｣＋｢専門職｣複数後見人のススメ【事例紹介（後編）】」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -4222,21 +4223,21 @@
   - 「また、国内対話型AI面接のパイオニアであるタレントアンドアセスメントの『SHaiN』（2017年10月提供開始）も、提供開始から約7年間は「AIが行うのは質問と音声認識までで、文字起こしデータを読んで採点・評価するのは人間の専門スタッフ」という体制であった」（https://note.com/jack4manastalk/n/n880406135053）
   - 「（2）2024年〜2026年：対話型AI面接官の急拡大と「ハイブリッド判定」の確立」（https://note.com/jack4manastalk/n/n880406135053）
 - 突き合わせ・推定：
-  - 「バッチ処理・単一タスク判定（過去データの統計的パターン照合）人間主導（担当者が都度テキストを貼り付けて要約・文案生成を指示）」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「企業側は個別要約に試用各社固有の採用要件・行動特性と照合し構造化スコアリング」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: 第1世代の機械学習と異なり、プロンプトおよびシステム設計段階で年齢・性別・出身地・顔写真等の属性情報をマスクし、職務要件（必須・歓迎スキル）の事実記述のみを抽出・照合する公正採用設計が標準化した [SRC-011]」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「2024年後半〜2026年にかけ、音声認識・音声合成の低遅延化とLLMの動的質問生成能力が結合したことで、AI面接は「決められた質問を一方的に聞く録画ツール」から**「候補者の発話内容に応じてリアルタイムで深掘り質問（STARメソッドに基づく行動事実の検証）を行う自律対話エージェント」**へと進化した」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: 面接中にAIアシスタント（Claude Code / Copilot等）の使用を公式に許可し、「AIを使っていかに高度な設計を行い、AIの誤りをどう検証・修正できるか」という実務協働能力を直接評価する」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「求職者のキャリア代理人AIエージェントと、企業側のATS・採用AIエージェントがMCP等の標準プロトコルを介して直接スキル・志向・労働条件を照合する世界が本格化する」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「曖昧な精神論で書かれた求人票はAIエージェントから推薦対象外とされ、検証可能な行動要件とリアルな組織実態を構造化して発信する企業（採用AIO先進企業）に優秀層が集まる」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「さらに専門職・中途選考では「AIツール使用禁止の対面検証」と「AIツール使用前提の実務課題ワーク」を組み合わせ、候補者がAIをどう統御して価値を生むかを直接観察する選考が主流となる」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「しかし、「求職者自身が納得して意思決定するための『内省・選別プロセス』としての重要度はむしろ上昇」しており、企業側の評価軸は新卒では『原体験の深掘りとインターン等の一次接点での巻き込み』へ、転職では『検証可能な実務スキル（Skills-based hiring）と同期型の思考・AI協働プロセス』へと明確にシフトしている」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「「その場の同期対話で検証可能な実務スキル・再現性・AIとの協働プロセス」**（ペア作業、AI利用前提のライブ課題、システムデザイン・ケース議論、リファレンスチェック）へと一段と鋭くシフトしている [SRC-056, SRC-058]」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「、**65%が「AI最適化されたレジュメでは真のスキル検証が難しくなった」**と回答しており、5人に1人が約2週間の採用遅延を報告している [SRC-056]」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「2026年10月のResumlyによる主要9ツールの実機検証では、Workday、iCIMS、Taleoといった大企業向けATSの複雑な条件分岐フォームにおいて自動応募ボットの多くがエラー停止または誤入力を起こす（入力精度40〜50%へ低下）ことが確認されている [SRC-054]」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「: 2026年後半現在、リテラシーの高い求職者の間では「完全放置（Auto-apply）」は逆効果と認識され、**「リサーチ・求人照合・企業別レジュメ最適化ドラフト・フォーム下書きまでをAIエージェントに任せ、最後のポジショニング確認と送信クリックだけを人間が行う『Assisted-Apply（セミ自律型）』」**が最も合理的な標準ワークフローとなっている」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「第1層（探索・照合・調整レイヤー）＝ 急速に「AI × AI」の自動処理へ移行済み」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「求人票の構造化生成、スカウト／求人レコメンド、企業別レジュメ最適化、初期要件スクリーニング、日程調整、さらには『TwinCafe』のような事前ファクトチェックは、人間同士の手作業から「企業AIエージェント × 求職者AIエージェント」の自動照合へと急速に置き換わっている」（https://note.com/jack4manastalk/n/n880406135053）
+  - 「and bends the estimated trend backward by」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「the initial trend estimate far too low. With」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「not drift upward to correct an inflated initial under-estimate.」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「# revises the 2019 Q4 trend estimate — precisely the instability we want」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「basis columns shift, and the estimated trend from vintage」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「space, so differences between consecutive trend estimates are」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「Each semi-transparent line below is one vintage estimate. A」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「"Each line = one vintage estimate (2018–2022 overlap window). Dashed = observed."」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「filter revises its trend estimate substantially as new post-COVID data」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「vintages produce nearly identical estimates.」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「how a past estimate gets」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「how does each filter’s trend estimate at」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「the outlier, so earlier trend estimates barely move.」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「# MBH used df = 10 (correct endpoint estimate), knots = 50, and」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「"How does each filter re-estimate the pre-COVID trend as COVID data are published?"」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
 - 一次情報の探し方：
   - 「（メモ）AI面接とAIエージェントの普及による、新卒採用・転職市場の変化（日・米・欧・中）｜jack4andMana'sTalk」（https://note.com/jack4manastalk/n/n880406135053）
   - 「（メモ）AI面接とAIエージェントの普及による、新卒採用・転職市場の変化（日・米・欧・中）」（https://note.com/jack4manastalk/n/n880406135053）
@@ -4254,6 +4255,8 @@
   - 「バッチ処理・単一タスク判定（過去データの統計的パターン照合）人間主導（担当者が都度テキストを貼り付けて要約・文案生成を指示）」（https://note.com/jack4manastalk/n/n880406135053）
   - 「企業側は個別要約に試用各社固有の採用要件・行動特性と照合し構造化スコアリング」（https://note.com/jack4manastalk/n/n880406135053）
 - 失敗・落とし穴：
+  - 「# numerically comparable and the baseline trend is unbiased.」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「# numerically comparable and the baseline trend is unbiased.」（https://rdrr.io/cran/MacroFilters/f/vignettes/real_time_revisions.Rmd）
   - 「過去の採用バイアス（性別・学歴等）の再生産、同意なきデータ利用（2019年リクナビ問題）ハルシネーション、プロンプト依存による出力の画一化（「優等生的で個性がないES」）求職者AIと企業AIの「AI対AI」化、Web面接でのリアルタイムAIカンニング・ディープフェイクなりすまし、サイレント辞退」（https://note.com/jack4manastalk/n/n880406135053）
   - 「: 面接中にAIアシスタント（Claude Code / Copilot等）の使用を公式に許可し、「AIを使っていかに高度な設計を行い、AIの誤りをどう検証・修正できるか」という実務協働能力を直接評価する」（https://note.com/jack4manastalk/n/n880406135053）
   - 「: 自動雇用決定ツール（AEDT）に対する年1回の独立第三者バイアス監査・結果公表・10営業日前の事前通知を義務化（ただし2025年12月のNY州会計監査官報告で行政側の執行体制の不備も指摘され、実効性強化が議論されている）」（https://note.com/jack4manastalk/n/n880406135053）
@@ -4267,9 +4270,9 @@
   - 「: AIで整えた職務経歴書・ESは面接官（およびAI面接官）から「なぜその行動をとったのか」「失敗したときどう修正したか」と徹底的に深掘りされるため、借り物の言葉を排し、自分の言葉と一次エピソードに落とし込む対話訓練」（https://note.com/jack4manastalk/n/n880406135053）
   - 「エージェントが長い手順を維持し、ツールを使い、誤りから復帰する改善は、採用業務の連結に技術的な背景を与える」（https://note.com/jack4manastalk/n/n880406135053）
   - 「改訂値の注意：13% → 16% → 19%を一本の連続系列にしない」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「従って2025年の一時的な逆転を「転職の賃金メリットが永久に消滅した」と読むのは誤りである」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「当時のアルゴリズムが神経多様な候補者等に対するバイアスを持つことが批判された事例であり、欧州ではその後の規制設計（AI Act第5条の感情認識禁止）の教訓となった [src-008][src-009][src-010]」（https://note.com/jack4manastalk/n/n880406135053）
 - 実例：
+  - 「# the 28 vintages contributes data — this eliminates the staircase / accordion」（https://cran.r-project.org/web//packages//MacroFilters/vignettes/real_time_revisions.html）
+  - 「# the 28 vintages contributes data — this eliminates the staircase / accordion」（https://rdrr.io/cran/MacroFilters/f/vignettes/real_time_revisions.Rmd）
   - 「その結果、エントリーシート（ES）や職務経歴書は「誰が書いても一定水準に整った均質な文書」へと変質した」（https://note.com/jack4manastalk/n/n880406135053）
   - 「象徴的な事例が2017年5月に新卒ES選考へ「IBM Watson」を導入したソフトバンクであり、合格基準を満たすESをAIが判定し、不合格判定分のみ人事が再確認する運用によってES選考時間を約75%（680時間→170時間）削減した [SRC-001]」（https://note.com/jack4manastalk/n/n880406135053）
   - 「: ところが、求職者側の生成AI利用が飽和した結果、提出される応募書類が極めて高い水準で均質化した」（https://note.com/jack4manastalk/n/n880406135053）
@@ -4283,8 +4286,6 @@
   - 「: 現場で急増しているのは「本人が画面に映りつつ、裏でリアルタイムAIから2秒で回答指示を受けるケース」（」（https://note.com/jack4manastalk/n/n880406135053）
   - 「これは「自動化」ではなく「信頼の崩壊（Trust Collapse）」を引き起こし、結果としてGoogleやAmazon、国内企業による**「本人確認の厳格化・対面面接の復活」**という逆方向の動きを加速させている [SRC-057, SRC-058]」（https://note.com/jack4manastalk/n/n880406135053）
   - 「: Harvard Business Review（2026年6月）が指摘する通り、「完璧に整った履歴書・自己PR・志望動機」を作るコストが実質ゼロになった結果、文章の完成度やデスクトップ上の企業研究は能力や熱意の証明（シグナル）として機能しなくなった [SRC-056]」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「「その場の同期対話で検証可能な実務スキル・再現性・AIとの協働プロセス」**（ペア作業、AI利用前提のライブ課題、システムデザイン・ケース議論、リファレンスチェック）へと一段と鋭くシフトしている [SRC-056, SRC-058]」（https://note.com/jack4manastalk/n/n880406135053）
-  - 「ご質問にある「本番面接以外に求職者のアクションが不要なケース」は」（https://note.com/jack4manastalk/n/n880406135053）
 
 ## 議会図書館・統計機関のファクトチェックの手引き（要約でなく表を引く・比べる相手・確かめられない主張の扱い）（House of Commons Library how to check facts statistics primary source data tables）
 - 文脈：検証
@@ -5577,11 +5578,42 @@
 
 ## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
 - 文脈：出どころ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Is there a documented record of the investigative steps used to reach the conclusion?」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Document the tools, methods, and relevant technical conditions used to access and capture the evidence.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Source URL and access method」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「The most common OSINT chain-of-custody failures occur when investigators collect information without preserving the metadata, methodology, and contextual records needed to verify it later.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Capturing visual evidence without documenting its source, timestamp, or collection method.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Transferring evidence without the methodology and context supporting it.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「However, the investigator fails to preserve the source URL, capture timestamp, collection method, or file integrity information.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Use suitable archival methods when available.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Preserve the search methodology and significant investigative steps.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「How to Preserve Digital Evidence During OSINT Investigations」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「The final report should connect conclusions to the evidence and methodology supporting them.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Collection dates and methods」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Important investigative steps」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+- 失敗・落とし穴：
+  - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「What Are the 8 Most Common OSINT Chain-of-Custody Mistakes?」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「This can create concerns about selective reporting or confirmation bias, particularly when the investigation is challenged.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+- 実例：
+  - 「For example, a screenshot of a threat actor’s forum post may preserve its visible content. But the screenshot alone may not establish when the post was accessed, whether the investigator was authenticated, or what information was visible elsewhere on the page.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Investigative team or case assignment」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Associate evidence with the relevant case or investigation.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「For example, an investigator correlating a forum username with a social media profile should retain the underlying observations supporting that connection.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「For example, an investigator may capture a screenshot in one application, document its source in a spreadsheet, store the file in a shared folder, and communicate analytical context through a separate messaging platform.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「It is maintaining a consistent relationship between the evidence, the collection process, and the investigative decisions made throughout the case.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Silo Case Manager supports the organization of investigation content and context, while Silo Drive provides capabilities for sharing collected material across authorized teams.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「This can help teams apply appropriate access controls, manage investigative resources, and support accountability across analysts and cases.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Silo Case Manager and Silo Drive support evidence organization and team collaboration.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Centralized workflows help preserve relationships between collected artifacts and case context.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「Legal admissibility depends on the applicable jurisdiction, rules of evidence, authentication requirements, collection methods, and circumstances of the case.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
+  - 「For example, a preserved webpage capture may include a timestamp, source URL, and associated collection metadata. Those details can support authentication, but they do not automatically establish that the original webpage contained truthful information.」（https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 分析の技法（前提の点検・兆候の一覧・代わりの仮説）の実務記事（analytic tradecraft key assumptions check indicators alternative hypotheses blog）
 - 文脈：分析の技法
@@ -5684,48 +5716,11 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
-
-## ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）（evaluating web main text extraction boilerplate removal precision recall）
-- 文脈：抽出
-- 手順・やり方：
-  - 「Online order: https://classic.ntis.gov/help/order-methods/」（https://www.osti.gov/servlets/purl/2429881）
-  - 「Main content extraction is a method to isolate the relevant content from a webpage and remove」（https://www.osti.gov/servlets/purl/2429881）
-  - 「several methods that have been developed to do this, including several Python and Java libraries.」（https://www.osti.gov/servlets/purl/2429881）
-  - 「Annotation Methodology」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-  - 「approaches. Heuristic methods, used in tools like Readability」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「learning methods, such as those in Boilerpipe [4] and BoilerNet」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「Bevendorff et al. show that while no single method outperforms」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「a given threshold. We tested thresholds from 0.1 to 0.5 (step 0.1),」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「Keywords: Main Content Extracti on, Evaluation Methods, Boilerplate Detection, Right to Left Languages.」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「Information retrieval (IR) methods are used to store」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「(MCE) methods help control the amount of」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「and then explain the methods in (3). In (4), we will」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「(Chakrabarti et al., 2007) proposed a method to detect」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「page-level templates on web pages. The method」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-  - 「et al., 2007) proposed a method to enhance search」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
-- 一次情報の探し方：
-  - 「https://readability.readthedocs.io/_/downloads/en/latest/pdf/」（https://www.osti.gov/servlets/purl/2429881）
-  - 「using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-- 失敗・落とし穴：
-  - 「[3] under multilingual conditions. We first identified biases in exist-」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「configured not to extract comments, which can introduce a bias in」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-- 実例：
-  - 「allow you to control which elements of the webpage are extracted. For example, you can select for」（https://www.osti.gov/servlets/purl/2429881）
-  - 「for Summarization (with Examples)," Dev.to, 2023. Available: https://dev.to/aws-」（https://www.osti.gov/servlets/purl/2429881）
-  - 「summarization-with-examples-jjg.」（https://www.osti.gov/servlets/purl/2429881）
-  - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-  - 「depend heavily on human expertise to craft these rules. Examples」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「tag patterns, or word frequencies. For example, Boilerpipe [4]」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「form part of the main content. For example, Readability employs」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「[9] Karl Pearson. 1895. VII. Note on regression and inheritance in the case of two」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
-  - 「for key, example in ex_iterable:」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
-  - 「"https://example.com/page"」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
@@ -5829,3 +5824,48 @@
   - 「. However, most often, the real-time dataset is read diagonally, since this allows to build time series of revisions on which the descriptive analysis is carried out. For example, the main diagonal (in red) collects all the data series when it was first released, the first sub-diagonal (in orange) collects all the data series after it was revised once, and so on.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
   - 「As an example, the file below reports a revision triangle of the GDP series, and it has been published to demonstrate the reliability of the GDP estimates for the Euro area. The reported revision triangle is relative to the period 2017:Q4-2020:Q3. In particular, this example shows an application to the Quarter on Quarter percentage rates of changes of seasonally and calendar adjusted GDP.」（https://nextjournal.com/a/NaNXjbhRMYK9QeHmMfzHj?token=FFo7w4Q1qsDoHidEkF5hrm）
   - 「The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2025 revisions reflect those between the August 2025 and September 2025 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2025.」（https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2025）
+
+## ウェブ本文抽出の精度の測り方（メニュー・関連記事を外す・ツールの比較）（evaluating web main text extraction boilerplate removal precision recall）
+- 文脈：抽出
+- 手順・やり方：
+  - 「Online order: https://classic.ntis.gov/help/order-methods/」（https://www.osti.gov/servlets/purl/2429881）
+  - 「Main content extraction is a method to isolate the relevant content from a webpage and remove」（https://www.osti.gov/servlets/purl/2429881）
+  - 「several methods that have been developed to do this, including several Python and Java libraries.」（https://www.osti.gov/servlets/purl/2429881）
+  - 「Annotation Methodology」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
+  - 「approaches. Heuristic methods, used in tools like Readability」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「learning methods, such as those in Boilerpipe [4] and BoilerNet」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「Bevendorff et al. show that while no single method outperforms」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「a given threshold. We tested thresholds from 0.1 to 0.5 (step 0.1),」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「Keywords: Main Content Extracti on, Evaluation Methods, Boilerplate Detection, Right to Left Languages.」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「Information retrieval (IR) methods are used to store」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「(MCE) methods help control the amount of」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「and then explain the methods in (3). In (4), we will」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「(Chakrabarti et al., 2007) proposed a method to detect」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「page-level templates on web pages. The method」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+  - 「et al., 2007) proposed a method to enhance search」（https://www.scitepress.org/Papers/2023/121620/121620.pdf）
+- 一次情報の探し方：
+  - 「https://readability.readthedocs.io/_/downloads/en/latest/pdf/」（https://www.osti.gov/servlets/purl/2429881）
+  - 「using a Neural Sequence Labeling Model. https://arxiv.org/pdf/2004.14294」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+- 失敗・落とし穴：
+  - 「[3] under multilingual conditions. We first identified biases in exist-」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「configured not to extract comments, which can introduce a bias in」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+- 実例：
+  - 「allow you to control which elements of the webpage are extracted. For example, you can select for」（https://www.osti.gov/servlets/purl/2429881）
+  - 「for Summarization (with Examples)," Dev.to, 2023. Available: https://dev.to/aws-」（https://www.osti.gov/servlets/purl/2429881）
+  - 「summarization-with-examples-jjg.」（https://www.osti.gov/servlets/purl/2429881）
+  - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
+  - 「depend heavily on human expertise to craft these rules. Examples」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「tag patterns, or word frequencies. For example, Boilerpipe [4]」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「form part of the main content. For example, Readability employs」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「[9] Karl Pearson. 1895. VII. Note on regression and inheritance in the case of two」（https://dias.users.greyc.fr/publications/sigir2025.pdf）
+  - 「for key, example in ex_iterable:」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
+  - 「"https://example.com/page"」（https://huggingface.co/datasets/murrough-foley/web-content-extraction-benchmark）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+
+## 株式調査の手順と入力の鮮度・出典の記録（アナリストの作業手順・最新の開示より古い入力を使わない）（equity research workflow source tracking stale inputs checklist）
+- 文脈：裏取り
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
