@@ -8,158 +8,265 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-06T17:20:37.820555+00:00",
+ "researched_at": "2026-11-06T21:37:11.204677+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
+    "url": "https://note.com/fujikawa/n/n536ef386c8ca?magazine_key=m2214a8addb88",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
+    "url": "https://note.com/jack4manastalk/n/n1bdb80a03e67",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dsb-consulting.co.jp/column/data-management/20231226.html",
+    "url": "https://note.com/jack4manastalk/n/n0901b43af62b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://saireco.jp/hr-system-nav/1762/",
+    "url": "https://note.com/syfan/n/n170a192530ef",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://odigo.jp/data-dictionary-how-to-make/",
+    "url": "https://note.com/loyal_condor224/n/n9d37cc6cd2b6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/terashim/n/n04de16c6fdff",
+    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://presenti.ai/jp/blog/data-dictionary-presentation/",
+    "url": "https://data-viz-lab.com/text-data-cleansing",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data.bfts.co.jp/blog/data-cleansing-normalization",
+    "url": "https://note.com/kazukio/n/nedb9fb057839",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://datajournalism.com/read/handbook/verification-1/additional-materials/creating-a-verification-workflow",
+    "url": "https://note.com/kazukio/n/n2a704557e23c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://datajournalism.com/read/handbook/verification-1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ukjournohub.com/data-journalism/data-journalism-publishing-workflow",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data.journalism.columbia.edu/content/verification-handbook-investigating-reporting",
+    "url": "https://login.microsoftonline.com/b3865172-9887-4b3a-89ff-95a35b92f4c3/saml2?SAMLRequest=hVLLbtswEPwVgneJEvUwTVgOnBhFDeRhREoOuQQUvYpZUKRKUkn795VfRXpJr%2BTszM7MLq5%2B9Rq9g%2FPKmgqncYIRGGl3yrxV%2BKn5FjF8tVx40Ws68NUY9uYRfo7gA5oGjeennwqPznArvPLciB48D5LXq7tbTuOED84GK63GaOU9uDBJ3Vjjxx5cDe5dSXh6vK3wPoTBc0KUULshViL%2BEB52Iv4xkOmBTCyd0kCOS5ADOSXbh7ohdf2A0XpaSRkRjjYuTNq%2BKRP3SjrrbRes0cpALG1P2oyVRTqj0ZyxWZS3mYjYvOuieSGyop3TLpcZOXrDaLOu8GtedkWRUpmUuzJhLGWQJ0ATNsuhgDY7wLwfYWN8ECZUmCa0jNI0SsqGpjyb8TyNi6x8wWh7TuNamVPKX0XXnkCef2%2BabXSwi9Hzpa0JgM%2Fd8KO6%2B1zK18Ti0gRe%2Fid3v1dtazWE%2FYJ81vp7FfcT%2BWa9tVrJ32iltf24cSACVDi4ETBZnuf%2BvZ%2FlHw%3D%3D&RelayState=e1s1",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://verificationhandbook.com/",
+    "url": "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "http://verificationhandbook.com/downloads/verification.handbook.2.pdf",
+    "url": "https://nii-auth.atlassian.net/wiki/spaces/NIISOCSDataForResearchers/blog/2021/01/12/43417667",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://login.microsoftonline.com/b3865172-9887-4b3a-89ff-95a35b92f4c3/saml2?SAMLRequest=hVLJbtswFPwVgXeJi2RLJCwHbowiBrIYkdJDLwVJUTELilRIKmn%2FvoqXIr2kV3LezJuZt7r6NZjkVfmgna0BzhBIlJWu0%2Fa5Bk%2Ft17QCV%2BtV4IMhI9tM8WAf1cukQkzmQRvY6acGk7fM8aADs3xQgUXJms3dLSMZYqN30UlnQLIJQfk4S107G6ZB%2BUb5Vy3V0%2BNtDQ4xjoFBqLnuxkzz7I0H1fHs5wjnBziz9NooeFwCvpMTuH9oWtg0DyDZzitpy%2BPRxoXJuGdts0FL74Lro7NGW5VJN0CRV8sFLklKq6pMC5HztKJ9n9IFzxeCkr6QOTx6A8luW4MfvCBFh0ucl6jrEKIUCYQplkhQSshSzLAQJrWzIXIba0AQWaYYp2jZEszyiqEyI8XiO0j25zS%2BaHtK%2BbPoxAkU2E3b7tN3uyD5dmlrBoBzN%2Byo7j%2BW8jkxvzQB1v%2FJPRy0EM6oeFjBj1p%2Fr%2BJ%2BJt9t985o%2BTvZGOPerr3iUdUg%2BkkBuD7P%2FXs%2F6z8%3D&RelayState=e1s1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/glossary/terms/data-cleansing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alteryx.com/ja/glossary/data-cleansing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.atled.jp/wfl/article/73568/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.asahi.com/miraimedia/dj/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/seminar/19/00067/122300019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyodonewsprwire.jp/corp/glossary/7035/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msiism.jp/article/nikkei-newspaper-article-structuring.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlinejournalismblog.com/2013/09/10/5-tips-for-a-data-journalism-workflow-part-2-anticipating-problems-and-collaboration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ap.org/insights/ai-and-data-journalism-why-verification-matters-more-than-ever/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viewjournal.eu/articles/10.18146/view.332",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://simonrogers.net/2013/01/27/a-data-journalism-workflow/",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
  "search_log": [
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） site:note.com",
-   "results": []
+   "results": [
+    "https://note.com/fujikawa/n/n536ef386c8ca?magazine_key=m2214a8addb88",
+    "https://note.com/jack4manastalk/n/n1bdb80a03e67",
+    "https://note.com/jack4manastalk/n/n0901b43af62b",
+    "https://note.com/syfan/n/n170a192530ef",
+    "https://note.com/loyal_condor224/n/n9d37cc6cd2b6",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/ymukudai/n/n4fe343ab302d",
+    "https://note.com/otankonash/n/n1bbf1ae204a5",
+    "https://note.com/loots/n/nff7881f6734b",
+    "https://note.com/terashim/n/n04de16c6fdff"
+   ]
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） note",
    "results": [
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
-    "https://dsb-consulting.co.jp/column/data-management/20231226.html",
-    "https://saireco.jp/hr-system-nav/1762/",
-    "https://odigo.jp/data-dictionary-how-to-make/",
-    "https://note.com/terashim/n/n04de16c6fdff",
-    "https://note.com/pttrner_tech/n/n65a522f1d34f"
+    "https://data-viz-lab.com/text-data-cleansing",
+    "https://note.com/kazukio/n/nedb9fb057839",
+    "https://note.com/kazukio/n/n2a704557e23c",
+    "https://waseda-jp.libguides.com/47316761",
+    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
+    "https://nii-auth.atlassian.net/wiki/spaces/NIISOCSDataForResearchers/blog/2021/01/12/43417667",
+    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
+    "https://note.com/asahi_ictrad/n/n21e94fff2691",
+    "https://www.evernote.com/l/AAHvnBD1FGlEyasQDblTFaaqdLLmHMo19Ck",
+    "https://data.bfts.co.jp/blog/data-dictionary-for-bi"
    ]
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） やり方",
    "results": [
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
-    "https://dsb-consulting.co.jp/column/data-management/20231226.html",
-    "https://saireco.jp/hr-system-nav/1762/",
-    "https://presenti.ai/jp/blog/data-dictionary-presentation/",
-    "https://odigo.jp/data-dictionary-how-to-make/",
-    "https://data.bfts.co.jp/blog/data-cleansing-normalization"
+    "https://data-viz-lab.com/text-data-cleansing",
+    "https://waseda-jp.libguides.com/47316939",
+    "https://otsumu.co.jp/knowledge/glossary/terms/data-cleansing.html",
+    "https://www.alteryx.com/ja/glossary/data-cleansing",
+    "https://www.ipa.go.jp/digital/data/tbl5kb0000009rf0-att/data_literacy_guidebook_lesson_2-2.pdf",
+    "https://www.atled.jp/wfl/article/73568/",
+    "https://www.cm-net.co.jp/blog/data-cleansing/",
+    "https://primenumber.com/blog/data-check/",
+    "https://www.asteria.com/jp/warp/blog/165973.html",
+    "https://data.bfts.co.jp/blog/data-dictionary-for-bi"
    ]
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） 事例",
    "results": [
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://saireco.jp/hr-system-nav/1762/",
-    "https://presenti.ai/jp/blog/data-dictionary-presentation/",
-    "https://dsb-consulting.co.jp/column/data-management/20231226.html",
-    "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
-    "https://odigo.jp/data-dictionary-how-to-make/",
-    "https://data.bfts.co.jp/blog/data-cleansing-normalization"
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://note.com/kazukio/n/nedb9fb057839",
+    "http://www.asahi.com/miraimedia/dj/case/",
+    "https://business.nikkei.com/atcl/seminar/19/00067/122300019/",
+    "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
+    "https://kyodonewsprwire.jp/corp/glossary/7035/",
+    "https://www.msiism.jp/article/nikkei-newspaper-article-structuring.html",
+    "https://jp.edanz.com/blog/peer-review-limitations",
+    "https://tsukuba.repo.nii.ac.jp/records/2019138",
+    "https://data.bfts.co.jp/blog/data-dictionary-for-bi"
    ]
   },
   {
    "query": "data journalism data dictionary verification workflow",
    "results": [
-    "https://datajournalism.com/read/handbook/verification-1/additional-materials/creating-a-verification-workflow",
-    "https://datajournalism.com/read/handbook/verification-1",
-    "https://www.ukjournohub.com/data-journalism/data-journalism-publishing-workflow",
-    "https://data.journalism.columbia.edu/content/verification-handbook-investigating-reporting",
-    "https://verificationhandbook.com/",
-    "http://verificationhandbook.com/downloads/verification.handbook.2.pdf",
-    "https://data.journalism.columbia.edu/"
+    "https://onlinejournalismblog.com/2013/09/10/5-tips-for-a-data-journalism-workflow-part-2-anticipating-problems-and-collaboration/",
+    "https://www.ap.org/insights/ai-and-data-journalism-why-verification-matters-more-than-ever/",
+    "https://datajournalism.com/read/handbook/verification-1/additional-materials/verification-and-fact-checking",
+    "https://viewjournal.eu/articles/10.18146/view.332",
+    "https://gijn.org/resource/introduction-investigative-journalism-data-journalism/",
+    "https://simonrogers.net/2013/01/27/a-data-journalism-workflow/",
+    "https://github.com/infoculture/awesome-datajournalism",
+    "https://medium.com/@kacawi/quick-guide-to-data-journalism-8abcf900eec2",
+    "https://en.wikipedia.org/wiki/Data_journalism",
+    "https://datajournalism.com/read/handbook/verification-1/additional-materials/creating-a-verification-workflow"
    ]
   },
   {
    "query": "site:note.com データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）",
    "results": [
+    "https://note.com/fujikawa/n/n536ef386c8ca?magazine_key=m2214a8addb88",
+    "https://note.com/jack4manastalk/n/n1bdb80a03e67",
+    "https://note.com/loyal_condor224/n/n9d37cc6cd2b6",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "https://note.com/ymukudai/n/n4fe343ab302d",
+    "https://note.com/otankonash/n/n1bbf1ae204a5",
     "https://note.com/loots/n/nff7881f6734b",
     "https://note.com/terashim/n/n04de16c6fdff",
     "https://note.com/pagoromo/n/ncc80225e1a5d",
-    "https://note.com/zono_data/n/n78b18fd55a27",
-    "https://note.com/kazukio/n/n2a704557e23c",
-    "https://note.com/pttrner_tech/n/n65a522f1d34f",
-    "https://note.com/tagami_5787/n/n98f46b5516c3"
+    "https://note.com/kazukio/n/n2a704557e23c"
    ]
   },
   {
    "query": "site:x.com データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）",
    "results": [
+    "https://x.com/fujikawa/status/2115207077073449077",
     "https://jf.x.com/images/media-preview/2107032564787802298",
-    "https://x.com/hwtnv/status/2054133611897774417",
+    "https://jf.x.com/images/media-preview/2102586462248325350",
     "https://x.com/saito_kentaro_/status/2036827288227217737",
+    "https://x.com/hwtnv/status/2054133611897774417",
     "https://x.com/nkinvestigation",
-    "https://x.com/saito_kentaro_/status/2071954607501349192",
     "https://x.com/yamazakitaka4",
-    "https://x.com/t_nihonmatsu/status/2067409649377349852"
+    "https://x.com/saito_kentaro_/status/2071954607501349192"
    ]
   },
   {
@@ -182,55 +289,64 @@
     "https://www.facebook.com/jima.media/posts/ona-japan主催によるコロナとデータ報道ニュースメディアは何を伝えられなかったかと題したウェビナーが99水1800に開催されます詳細は以下のリンクからご覧/1646209885537645/",
     "https://www.facebook.com/ONAJapan/photos/本日ですイベント概要メディア関係者向けona-japanウェビナーコロナとデータ報道ニュースメディアは何を伝えられなかったか新型コロナウイルスに関する報道をめぐ/854955011576140/",
     "https://www.facebook.com/SlowNewsJP/posts/1121694458479710/",
-    "https://www.facebook.com/note.poc/posts/データ報道で広く使われるscrollytellingとは2010年代中盤から広まりもっとも使われている表現手段のひとつだというscrollytellingユーザ/3850676905009138/",
-    "https://www.facebook.com/tatsuya.sudo.771/posts/国内石油元売りが異例の手法で原油を日本に運んでいるオープンデータを駆使した取材で見えた調達手法とは弊社にはデータ報道と可視化をメーンに取材する部署がありますニュ/27154054594230057/"
+    "https://www.facebook.com/tatsuya.sudo.771/posts/国内石油元売りが異例の手法で原油を日本に運んでいるオープンデータを駆使した取材で見えた調達手法とは弊社にはデータ報道と可視化をメーンに取材する部署がありますニュ/27154054594230057/",
+    "https://www.facebook.com/hironobu.fukaura/posts/データセンター建設についてデイワン様と伊万里市との協定締結がnhk等で報道されています/2311395896326773/"
    ]
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） note 社長",
    "results": [
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://saireco.jp/hr-system-nav/1762/",
-    "https://dsb-consulting.co.jp/column/data-management/20231226.html",
-    "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
-    "https://presenti.ai/jp/blog/data-dictionary-presentation/",
-    "https://odigo.jp/data-dictionary-how-to-make/",
-    "https://note.com/terashim/n/n04de16c6fdff"
+    "https://note.com/asahi_ictrad/n/n47f391a81015",
+    "https://note.com/kazukio/n/nedb9fb057839",
+    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://waseda-jp.libguides.com/47316761",
+    "https://note.com/asahi_ictrad/n/n21e94fff2691",
+    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
+    "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://saireco.jp/hr-system-nav/1762/"
    ]
   },
   {
    "query": "データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検） X 投稿",
    "results": [
-    "https://data.bfts.co.jp/blog/data-dictionary-for-bi",
-    "https://decisionflowing.com/blog/data-catalog-glossary-dictionary",
-    "https://saireco.jp/hr-system-nav/1762/",
-    "https://presenti.ai/jp/blog/data-dictionary-presentation/",
-    "https://dsb-consulting.co.jp/column/data-management/20231226.html",
-    "https://www.splunk.com/ja_jp/blog/platform/data-dictionary.html",
-    "https://odigo.jp/data-dictionary-how-to-make/"
+    "https://www.asahishimbun-saiyou.com/company/datajournalism",
+    "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
+    "https://waseda-jp.libguides.com/47316761",
+    "https://github.com/arcatdmz/blog/blob/main/src/ja/2022-07-27-data-journalism.md",
+    "https://www.asahi.com/articles/ASQ713W6YQ6ZUPQJ01W.html",
+    "https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=702",
+    "https://jp.edanz.com/blog/peer-review-limitations",
+    "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
+    "https://datajournalismjp.github.io/handbook/",
+    "https://data.bfts.co.jp/blog/data-dictionary-for-bi"
    ]
   },
   {
    "query": "data journalism data dictionary verification workflow site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/1/how-do-you-test-validate-data-dictionary",
-    "https://www.linkedin.com/advice/0/what-best-practices-designing-maintaining-data",
-    "https://uk.linkedin.com/in/amanda-farnsworth-33555018",
-    "https://in.linkedin.com/in/isurya2312",
-    "https://id.linkedin.com/pulse/blockchain-verification-transforms-journalism-ai-thor-pettersen-0ks0c?tl=id",
-    "https://uk.linkedin.com/jobs/data-journalism-jobs",
-    "https://mx.linkedin.com/jobs/view/content-integrity-editor-at-condé-nast-méxico-latinoamérica-4474403506"
+    "https://www.linkedin.com/pulse/learning-analytics-series-glossary-terms-beginning-data-mark-derosa",
+    "https://uk.linkedin.com/in/johnguinn",
+    "https://www.linkedin.com/posts/dw-akademie_the-hardest-part-isnt-using-an-ai-tool-activity-7387110736747012096-xjAq",
+    "https://www.linkedin.com/in/tumininu-onabanjo-22a784279",
+    "https://www.linkedin.com/in/samirpassi",
+    "https://www.linkedin.com/in/jrutland",
+    "https://ca.linkedin.com/in/wael-alalwani",
+    "https://www.linkedin.com/in/aleszu-bajak-7a406916",
+    "https://www.linkedin.com/in/sanskriti-purohit-484859255",
+    "https://in.linkedin.com/in/jaganmohankb"
    ]
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ14頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ14頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ14頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ14頁・検索12回）",
-  "実例": "記載なし（読んだ14頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-06T04:38:15.892094+00:00"
 }

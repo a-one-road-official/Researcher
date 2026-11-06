@@ -5,6 +5,9 @@
 ## デスクリサーチで書かれていない数字を推定する方法（desk research estimating unpublished numbers）
 - 文脈：推定
 - 手順・やり方：
+  - 「【デロイト新卒 完全攻略マニュアル】ES・TG-WEB・人物面接・ケース・3日間Job・最終面接まで全ステップ｜元Big4面接官が「合否を分ける一語」を特定」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「デロイトのケース面接過去問6選｜新卒向けの練習方法と解説」（https://unistyleinc.com/techniques/1459）
+  - 「「WEB面接の特徴・必要な準備・場所や服装などのマナー・流れ・対策方法」を詳細に説明しています」（https://unistyleinc.com/techniques/1459）
   - 「都度計算するのではなく、要素分解がすべて完了してからまとめて数値を当てはめるのが効率的なやり方です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
   - 「ステップ4：妥当性の検証・結論の提示」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
   - 「前のステップでの推定値は約70万トンでしたが、実際の日本の年間コーヒー消費量（約43万トン）と比較すると、大きなズレがあることがわかります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
@@ -17,26 +20,24 @@
   - 「新規事業40フレームワーク実践集」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「デスクリサーチのやり方は6ステップ」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「調査で避けたい4つのミスと修正方法」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「以下では6つのステップを、飲食店向けの発注支援サービスを考える架空の例で説明します」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「全国の飲食チェーンと、特定地域の個人店では、公開情報の量も発注業務の進め方も異なります」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「また、資料名やURLを後から探し直すのではなく、情報を採用するときに一緒に保存するのがコツです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
 - 突き合わせ・推定：
-  - 「ただし、ここで得た声はあくまで仮説のヒントとして扱います」（https://consul-data-bank.com/insight/5868/）
-  - 「海外リサーチの流れは「Statistaや国際機関で数字の候補を掴む → Crunchbaseで投資動向を見る → 専門メディアで定性情報を拾う → 原典で裏取り」が基本形です」（https://consul-data-bank.com/insight/5868/）
-  - 「外部のリサーチ会社に依頼するような費用や時間をかけることなく、一定の根拠を持った推定ができる点が大きな強みです」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「正確な市場データが入手できない場面でも、フェルミ推定を活用することで大まかな市場規模を算出できます」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「データが十分に揃うのを待つのではなく、現時点の情報を最大限活用してスピーディーに動けることが、フェルミ推定の大きな利点です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「フェルミ推定を取り入れることで、テストマーケティングの結果をもとに早期に施策を調整することが可能になります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「この時点では「小規模店では担当者の経験に依存しているのではないか」などの仮説を置いて構いません」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「ただし、仮説を事実のように書かないことが重要です」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「「既存の仕組みで十分ではないか」「食材ロスの主因は発注以外ではないか」と、仮説を否定する側の問いも用意します」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「たとえば、「ある業界で食品ロスが発生している」は資料で確認できても、「発注支援サービスが売れる」は、そこから考えた仮説です」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「社内の調査報告、検証記録、営業資料」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「site:maff.go.jp 外食 食品ロス 推計」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「事実と仮説を分けて読む練習として使ってください」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「2024年度の食品ロス量の推計」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
-  - 「06 調査後の検証を進める体制がない」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
+  - 「フェルミ推定の人気・新着記事まとめ｜note」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「フェルミ推定は、限られた情報から論理的な仮説を用いて数量を概算する思考法です」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「コンサルの面接対策や市場規模の算出、AIを活用した検証など、実務的な活用法に関する記事が集まっています」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「フェルミ推定は、限られた情報から論理的な仮説を用いて数量を概算する思考法です…」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「【第40回】観客動員が伸び悩む地方の球団は、どうやって売上を伸ばすべきか｜フェルミ推定・ケース面接対策」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「社員旅行は、辞めない理由にならないかもしれない｜生成AI研修の福利厚生をフェルミ推定した」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「シグナリング理論を応用するフェルミ推定面接:仮の数字の作り方から、考えを伝える説明まで【三つの例題・六つのワークシート付き】」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「フェルミ推定？本を読んでもさっぱりわからん」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「「スターバックス1店舗の売上は？」フェルミ推定を1問だけ丁寧に解く」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「今回は「ベイズ推定」のわかりやすいお話♪と、その他♪」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「フェルミ推定の練習問題 10 問（無料）と、AI に面接官をさせる短い指示文」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「冬物コートは高いのに、なぜ傷む？「高く買って長く着る派」と「手頃に買い替える派」をフェルミ推定してみた」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「〜通勤30秒でカラスにフンを落とされた男のフェルミ推定〜」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「【文学フリマ】平均頒布数ってどのくらい！？ フェルミ推定してみた」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「8人の当番表、12回対3回の差をフェルミ推定で見つけた情シス担当者の組み方」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
 - 一次情報の探し方：
+  - 「リヴァイ兵長を採用して、掃除だけ頼んでいませんか？AIが使えない会社の話」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「"EV charging" market size filetype:pdf site:.org」（https://consul-data-bank.com/insight/5868/）
   - 「「-求人 -転職」のように除外語を足すと、目的と関係ないページが検索結果から消え、原典に近い資料が上位に残ります」（https://consul-data-bank.com/insight/5868/）
   - 「コマンドは一次情報を保証するものではありません」（https://consul-data-bank.com/insight/5868/）
@@ -51,7 +52,6 @@
   - 「フェルミ推定は問題解決能力を測るのには最適な試験であり、日々課題検証を行うコンサルティングファームにおいては、採用現場だけでなく、日々の業務においても論理的思考力などを測る基準の一つとして取り入れられています」（https://unistyleinc.com/techniques/1459）
   - 「企業がインターンシップを開催する目的・メリット企業が行う採用活動は、それが直接的に利益を生む事業行為ではありません」（https://unistyleinc.com/techniques/1459）
   - 「企業の採用サイト就活サイトに載らない限定インターンシップや、早期募集がひっそり始まっていることもあります」（https://unistyleinc.com/techniques/1459）
-  - 「SNS・イベント経由X（旧Twitter）やLinkedIn、合同説明会、逆求人イベントなどから、その場でインターンシップにつながるケースもあります」（https://unistyleinc.com/techniques/1459）
 - 失敗・落とし穴：
   - 「【必見】ITコンサルタントを外注するには？注意点や選定方法を徹底解説」（https://consul-data-bank.com/insight/5868/）
   - 「(実際の面接開始の５分前)」、人事の人に気遣う人もいると思いますが、それは罠だと思っていただいて結構です」（https://unistyleinc.com/techniques/1459）
@@ -69,21 +69,21 @@
   - 「6つのステップ(1)成し遂げたいこと・目標(2)きっかけとなる経験(3)企業選びの軸(4)他に受けている業界および他の業界ではダメな理由(5)具体的に取り組みたい仕事(6)業界の中でもその会社の理由(1)成し遂げたいこと・目標志望動機を書く時はまずはあなたが「キャリアを通じて何を成し遂げたいのか」というモチベーションの根源を伝えるようにしましょう」（https://unistyleinc.com/techniques/1459）
   - 「もちろん、成し遂げたいことがその業界で成し遂げたいこととして的外れな場合は評価されないので注意してください」（https://unistyleinc.com/techniques/1459）
 - 実例：
+  - 「【2026年版】ナティクシス ケース面接対策100選｜株式デリバティブ・不動産ファイナンス・サステナブルファイナンスの回答プロセスとOK/NG回答を徹底解説」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「【第40回】観客動員が伸び悩む地方の球団は、どうやって売上を伸ばすべきか｜フェルミ推定・ケース面接対策」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「Nick | 戦コンManager（ケース・フェルミ解説）」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「日本の数字、桁で言えますか？AIでケース面接用の「フェルミ数字ドリル」を作った」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「⑨最新AI（Fable5.1）はMBBに受かるか：元面接官がケース解答を採点・添削 【1題まるごと無料／3題は合格水準の添削解答つき】」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「【デロイト新卒 完全攻略マニュアル】ES・TG-WEB・人物面接・ケース・3日間Job・最終面接まで全ステップ｜元Big4面接官が「合否を分ける一語」を特定」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「【28卒】外資IT・AI企業のケース面接・フェルミ推定40問（営業・技術営業・カスタマーサクセス向け）」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「【デロイト トーマツ サイバー企業研究】ES・面接対策・聞かれることは？｜就職難易度・ケース面接・ハンズオン・インターン＋想定質問100問 内定直結」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
+  - 「デロイトのケース面接過去問6選｜新卒向けの練習方法と解説」（https://unistyleinc.com/techniques/1459）
   - 「参入したい市場が決まっていると、成長予測や成功事例ばかりが目に入りがちです」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「調べる問いが定まらない、顧客への確かめ方に迷う、調査結果を企画に落とし込めない」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「業種別・企業事例（6）」（https://iri-group.jp/knowledge/knowhow/framework/desk-research/）
   - 「【ケース面接完全攻略】解き方や評価基準、対策に役立つフレームワーク・例題・本を徹底解説」（https://unistyleinc.com/techniques/1459）
   - 「ケース面接とは？フェルミ推定との違いや出題業界について解説」（https://unistyleinc.com/techniques/1459）
   - 「ケース面接の評価基準と対策まとめ【現役コンサルタントが解説】」（https://unistyleinc.com/techniques/1459）
-  - 「ケース面接の解き方と対策方法を徹底解説【外コン過去問付き】」（https://unistyleinc.com/techniques/1459）
-  - 「ケース面接対策に役立つフレームワーク、おすすめ本、数値を徹底解説」（https://unistyleinc.com/techniques/1459）
-  - 「ケース面接対策に読むべき本6冊」（https://unistyleinc.com/techniques/1459）
-  - 「外コンの本選考で課されたケース面接過去問まとめ｜レポート付」（https://unistyleinc.com/techniques/1459）
-  - 「BCG(ボストン コンサルティング グループ)のケース面接過去問まとめ」（https://unistyleinc.com/techniques/1459）
-  - 「デロイト トーマツ コンサルティングのケース面接過去問まとめ」（https://unistyleinc.com/techniques/1459）
-  - 「フェルミ推定や、ケース面接がコンサルティング業界志望の学生に課される理由としては、クライアント企業に対して戦略案や、解決策を提案をする立場である以上、相手を納得させるためにどんな意見にも根拠が求められるからであると言えます」（https://unistyleinc.com/techniques/1459）
-  - 「そのため、コンサルティングファームは選考過程にフェルミ推定やケース面接を設けることによって学生の「」（https://unistyleinc.com/techniques/1459）
-  - 「もちろんプラスになることはあるが、一般的なことでも、何を考え、課題があった際にはどう向き合い、結果どうなったかということが大事です」（https://unistyleinc.com/techniques/1459）
 - 検索結果の抜粋：
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
@@ -109,6 +109,7 @@
   - 「<CTA title="擁護可能な方法論セクションを書く" description="章を構成し、信頼する手法論者を引用し、すべての主張が設計に合致しているかを検証しましょう" buttonLabel="Jenniを無料で試す" link="https://app.jenni.ai/register" />」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
 - 突き合わせ・推定：
   - 「解説 三角測量に由来する (triangulation)」（https://keywordkatakanagojiten2013.blogspot.com/2015/04/blog-post_55.html）
+  - 「それは、「質的研究におけるトライアンギュレーション」について、「三角測量(triangulation)な見方が必要である」といったような抽象的なレベルを超えて、「複数の評定者がどの程度類似した判定をしていて、それはどのような判定か」あるいは「どの程度多様な評定があり、それはどのような内容か」を数理的に明確に把握することが可能となるからです」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
   - 「質的研究においてなぜ三角測量（トライアンギュレーション）を用いるのか？」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「三角測量（トライアンギュレーション）は測量法にその名を由来しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「その緊張感こそが三角測量において最も興味深い部分であり、ほぼすべてのガイドブックが省略している点です」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
@@ -122,7 +123,6 @@
   - 「理論の三角測量 (Theory triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「方法論の三角測量 (Methodological triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
   - 「この区別については、関連する「データ対方法論の三角測量」の記事で詳しく解説しています」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「環境の三角測量 (environmental triangulation)」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
 - 一次情報の探し方：
   - 「[追加統計][ケース得点]を選択するとケーススコアが次のように出力される」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
   - 「レーション」という用語を採用した理由について説」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
@@ -153,8 +153,8 @@
   - 「a shared bias can make agreement look like independent confirmation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
   - 「By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「多くの学生は、意見の不一致（対立）を「失敗」と捉えがちです」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
-  - 「しかしそれは失敗ではなく、適切に対処するための認められた語彙が存在します」（https://jenni.ai/ja/blog/why-use-triangulation-qualitative-research）
+  - 「In short, researcher triangulation democratizes the research process. It helps to avoid biases and limitations and also increases data reliability as opposed to using just one single researcher.」（https://delvetool.com/blog/researcher-triangulation）
+  - 「provide constructive feedback and help identify possible errors, biases, or oversights.」（https://delvetool.com/blog/researcher-triangulation）
 - 実例：
   - 「その基本は、数量化理論�V類による分析結果を複数の評定者の間で比較するもので、相関係数や因子分析などを用いて数理的に解析を行うことにあります」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
   - 「まず評定者ＲＥによる「カード布置」「カードとラベルの対応表」「数量化理論�V類による分析結果」(ラベルについての「カテゴリースコア」、カードについての「カードスコア」)を示します」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
@@ -2634,6 +2634,7 @@
 - 文脈：同一性
 - 手順・やり方：
   - 「Explore the best unified data analytics platforms, their architecture, features, benefits, use cases, and how to choose the right solution for your business.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
+  - 「offer managed matching services or customizable frameworks for teams that want to build entity resolution within an existing data platform.」（https://dataladder.com/best-entity-resolution-software/）
   - 「Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Deduplication is often one step within entity resolution. Deduplication generally identifies duplicate records within a dataset, whereas entity resolution can connect related records across multiple sources and determine which records collectively represent the same real-world entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「What Is an Entity Resolution Framework?」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2647,7 +2648,6 @@
   - 「How to Choose the Right Entity Resolution Software」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「No. Some implementations only identify and group records belonging to the same entity while preserving every source record. Creating a golden record is a separate canonicalization step that applies survivorship rules to select the preferred values for the resolved entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「What Are Entity Graphs and How to Build One You Can Trust」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
 - 突き合わせ・推定：
   - 「techniques to compare attributes and estimate whether records belong to the same entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Assigns weights to agreements and disagreements across multiple attributes to estimate whether records refer to the same entity. It is useful when no single reliable identifier is available.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2671,6 +2671,7 @@
   - 「Explore the best unified data analytics platforms, their architecture, features, benefits, use cases, and how to choose the right solution for your business.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
   - 「Customer-Facing Analytics: Benefits, Examples & Tools」（https://www.puppygraph.com/learn/best-entity-resolution-software）
   - 「Learn how customer-facing analytics works, including its architecture, benefits, examples, tools, implementation strategies, and best practices.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
+  - 「combine entity resolution with graph analytics, relationship discovery and case investigation. These platforms are commonly evaluated for fraud, financial crime,」（https://dataladder.com/best-entity-resolution-software/）
   - 「For example, a CRM may contain a customer named “Maria Hernandez,” while a billing system records the same person as “M. Hernández.” Their names are not identical, but similarities across their address, email, telephone number, and other attributes may provide enough evidence to link the records to the same customer.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「For example, one system may use “Customer Name,” another “Account Holder,” and a third separate the same information into first-name and last-name fields.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「The appropriate thresholds depend on the consequences of false positives and false negatives for the use case.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2682,7 +2683,6 @@
   - 「support@alpinemedical.example」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「This example illustrates why entity resolution is broader than simply deleting duplicate rows. The process evaluates evidence across systems, groups related records, preserves source lineage, and creates a usable representation of the underlying entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Adapt ER rules for different business use cases (e.g., customer data deduplication vs. fraud detection).」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「In most cases, time is critical for ER projects, especially in the case of」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
 
 ## 非上場の売上を複数の信号で挟む（Inven・CUFinder）（private company revenue estimate multiple signals top-down bottom-up conservative）
 - 文脈：推定
@@ -2742,11 +2742,41 @@
 
 ## 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）（source triangulation trace to origin echo verbatim numbers validation matrix）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「(independence meaning different methods or data, not different websites). The output is a confidence grade and — the practical part — the phrasing that honestly matches it.」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「— how to state the claim at its earned confidence ("one vendor survey suggests…" vs. the bare assertion)」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「Framework: The Triangulation Rules」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「Independence is methods, not mastheads:」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「[The chain: where met → cites → … → the origin (who, method, sample, date, incentive) — or the dead end, documented]」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「[Supporting sources sorted: independent (methods differ) vs. echoes (same origin) · the verbatim-number fingerprints noted]」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「Independence was judged by method/data, not by outlet count」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「- **The repeat-it-as phrasing** — how to state the claim at its earned confidence ("one vendor survey suggests…" vs. the bare assertion)」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「## Framework: The Triangulation Rules」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「2. **Independence is methods, not mastheads:** two outlets citing the same study = one source; a survey and a separate dataset agreeing = two. The echo test: do the supporting sources share numbers verbatim? Identical figures across "independent" sources is the fingerprint of a single origin echoing.」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「- [ ] Independence was judged by method/data, not by outlet count」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+- 突き合わせ・推定：
+  - 「Source Triangulation by mohitagw15856 · SkillMD」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「mohitagw15856/source-triangulation」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「npx skillmds@latest add mohitagw15856/source-triangulation」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「Source Triangulation Skill」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「Most "well-sourced" claims are one source wearing costumes: a stat born in a vendor's report, echoed by a blog, cited by a journalist, and now "widely reported" — three citations, one origin, zero verification. Triangulation is the discipline of asking two questions before repeating anything:」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「Framework: The Triangulation Rules」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「established → state it with the cite · single-sourced → attribute inline ("a 2024 Gartner survey found…") · contested → the range with both cites · unverifiable → don't repeat it, or repeat it explicitly as unsourced folklore if rhetorically necessary. The phrasing rule is what makes triangulation」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「Triangulation: "[the claim]"」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「name: source-triangulation」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「# Source Triangulation Skill」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「## Framework: The Triangulation Rules」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「5. **Phrase at earned confidence:** established → state it with the cite · single-sourced → attribute inline ("a 2024 Gartner survey found…") · contested → the range with both cites · unverifiable → don't repeat it, or repeat it explicitly as unsourced folklore if rhetorically necessary. The phrasing rule is what makes triangulation *usable* — it converts the grade into words.」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「# Triangulation: "[the claim]"」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「mohitagw15856/pm-claude-skills/tree/main/skills/source-triangulation」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「How do I install the Source Triangulation skill?」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+- 一次情報の探し方：
+  - 「follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+  - 「1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
+- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
+- 実例：記載なし（読んだ6頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -3341,7 +3371,7 @@
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「For example, a rating of」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「IntelTechniques Workbook / Casefile」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -3651,8 +3681,8 @@
   - 「‘, for example, or, in the wake of the collapse of Carillion」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, highlight (in a」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, includes a whole ‘」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ11頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ11頁・検索12回）
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
@@ -5715,11 +5745,11 @@
 
 ## データ報道の手順（データ辞書・元データを上書きしない・現実との照合・論理の点検）（data journalism data dictionary verification workflow）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ14頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
-- 実例：記載なし（読んだ14頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）（entity resolution evaluation precision recall F1 ground truth pairs）
 - 文脈：同一性
@@ -7366,11 +7396,11 @@
 
 ## 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ（cognitive bias investigation workflow disconfirming evidence osintblog）
 - 文脈：偏り
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
