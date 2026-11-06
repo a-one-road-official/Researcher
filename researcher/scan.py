@@ -74,7 +74,10 @@ HEADLINE = re.compile(r"(完全ガイド|を?(わかりやすく)?(解説|説明
 # 調査会社の市場レポート（互いに写し合うので、何社あっても独立の裏付けに数えない）METHOD.md 4-5
 REPORT = re.compile(r"(mordorintelligence|gminsights|sdki|marketsandmarkets|fortunebusinessinsights|grandviewresearch|precedenceresearch|globalinformation|gii\.co\.jp|researchandmarkets|imarcgroup|alliedmarketresearch|technavio|reportocean|marketresearchfuture|atpress|prtimes|dreamnews|kenresearch|expertmarketresearch|verifiedmarket)")
 # 数字の文脈。同じ区分でも「装置の価格」「市場規模」「1件の単価」を混ぜない（am_ceiling で装置価格と受託単価が混ざった失敗から）
-CONTEXT = [("市場規模", re.compile(r"(市場規模|市場は|市場が|market size|market (is|was|will)|CAGR|年平均成長率|億ドル|billion)", re.I)),
+# 2026-11-06 4-54 走査の失敗から：am_ceiling の「公式料金表（国内各社）」で、比較サイトの「729c㎥×600円＝437,400円」の 600円/cm3（体積あたり）と
+# 合計 437,400円が同じ「1件の単価」の欄に並び、幅 0.06〜43.74万円・食い違い729倍と出た（729倍は体積そのもの）。体積・重さ・時間あたりの値段は1件の単価と分ける
+CONTEXT = [("体積・重さ・時間あたりの単価", re.compile(r"(c㎥|cm3|cm³|立方センチ|1\s*g(あたり|当たり)|グラムあたり|/kg|kgあたり|1時間あたり|時間単価|per cm|per gram|per hour)\s*(あたり|当たり|×|x)?", re.I)),
+           ("市場規模", re.compile(r"(市場規模|市場は|市場が|market size|market (is|was|will)|CAGR|年平均成長率|億ドル|billion)", re.I)),
            # 2026-11-05 4-11：工場の新設・増産の計画は生産能力の信号で、装置1台の値段と混ぜない（crexgroup 有報の読み方）
            ("設備投資・増産計画", re.compile(r"(設備投資|新工場|増産|増設|生産能力|能力増強|capex|capacity expansion)", re.I)),
            # 2026-11-05：am_ceiling の「受託1個単価」に家庭用3Dプリンターの値段（1万円〜100万円〜）が入った失敗から、購入・値段・機種のクラスも装置価格にする
@@ -765,6 +768,22 @@ def scan(topic):
         n_ = sum(int(r["確かめた件数"]) for r in sc); e_ = sum(int(r["誤りの件数"] or 0) for r in sc)
         pps = statistics.mean(int(r["誤りの件数"] or 0) / int(r["確かめた件数"]) for r in sc)
         md += [f"- 抜き取りの誤り率（4-52）：素朴 {e_}/{n_}＝{e_ / n_:.1%}／抜かれやすさで重みを戻した値 {pps:.1%}（{len(sc)}品目）。結論には後者を使い、品目が5未満なら幅が広いと書く"]
+        # 2026-11-06 4-54（Marchant の照合の評価の博士論文：精度の推定は少ない正解例だと散らばりが大きいので幅で書く。
+        # 採った側だけ確かめると「混入」しか測れず、落とした側を確かめないと「落とし」は測れない）。
+        # Wilson の95%の幅を出し、spot_check.csv に「落とした側を確かめた件数」「落とした側の誤りの件数」（本当は採るべきだった件数）があれば落としの率も出す
+        def _wilson(e, n, z=1.96):
+            if n <= 0: return (0.0, 0.0)
+            ph = e / n; den = 1 + z * z / n
+            c = (ph + z * z / (2 * n)) / den; h = z * ((ph * (1 - ph) / n + z * z / (4 * n * n)) ** 0.5) / den
+            return (max(0.0, c - h), min(1.0, c + h))
+        lo_, hi_ = _wilson(e_, n_)
+        md += [f"- 誤り率の95%の幅（Wilson・4-54）：{lo_:.1%}〜{hi_:.1%}（確かめた{n_}件）。幅の上端で結論が変わるなら、確かめる件数を増やしてから言い切る"]
+        dn_ = sum(int(r.get("落とした側を確かめた件数") or 0) for r in sc); de_ = sum(int(r.get("落とした側の誤りの件数") or 0) for r in sc)
+        if dn_ > 0:
+            dlo, dhi = _wilson(de_, dn_)
+            md += [f"- 落とした側の抜き取り（落としの率・4-54）：{de_}/{dn_}＝{de_ / dn_:.1%}（95%の幅 {dlo:.1%}〜{dhi:.1%}）。高ければ除外の決まりが厳しすぎる"]
+        else:
+            md += ["- 落とした側の抜き取り（4-54）：まだ0件。採った側だけでは混入しか測れない。除外の理由の多い順に数件ずつ本文と照らし、spot_check.csv の「落とした側を確かめた件数」「落とした側の誤りの件数」に残す"]
     md += ["- 鍵の欠け率（照合の前の棚卸し・4-42）：" + "、".join(f"{k} {sum(1 for r in rows if f(r))}/{len(rows)}件（{sum(1 for r in rows if f(r)) * 100 / len(rows):.0f}%）" for k, f in keys), ""]
     by_item = {}
     for r in rows: by_item.setdefault(r["品目"], []).append(r)
