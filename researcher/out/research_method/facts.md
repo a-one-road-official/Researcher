@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・107品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・109品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -329,8 +329,8 @@
   - 「Real‑World Example: Turning a Vague Posting into a Winning Application」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Add at least one quantified soft‑skill example.」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
 
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
@@ -1201,6 +1201,7 @@
 ## 戦略コンサルのデスクリサーチと仮説検証の型（strategy consultant desk research hypothesis method）
 - 文脈：凄腕・型
 - 手順・やり方：
+  - 「境界型防御とゼロトラストの違い｜認証・認可と移行・運用の確認点」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「近頃の業務において、生成AIによる深掘り型リサーチ（Deepresearch）の精度とスピードには日々驚かされます」（https://note.com/tom_mba/n/n0ee295df2f32）
   - 「労働集約型モデルが成立しなくなった場合、フィーベースの再設計が必要」（https://note.com/tom_mba/n/n0ee295df2f32）
   - 「マネタイズ方法等の技術関連・ビジネス関連の情報も必要になります」（https://www.arts-crafts.co.jp/post-16243/）
@@ -1215,7 +1216,6 @@
   - 「ペーパーレス化の進め方｜中小企業のための導入ステップとツール選定ガイド【2026年版】」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「AI導入ROI測定とは？生成AIの投資対効果・PoC評価フレームワーク・企業のAI価値実証ガイド【2026年版】」（https://renue.co.jp/posts/consulting-strategy-department-guide）
   - 「renueは自社開発のAIツールを自社運用する「自社実証型」AIコンサルティングファームです」（https://renue.co.jp/posts/consulting-strategy-department-guide）
-  - 「市場調査・情報収集、仮説構築・分析（イシューツリー・フレームワーク活用）、報告書・プレゼン資料の作成、ワークショップのファシリテーション、実行支援・チェンジマネジメントの5つが主要業務です」（https://renue.co.jp/posts/consulting-strategy-department-guide）
 - 突き合わせ・推定：
   - 「● 2. 仮説構築の「たたき台」」（https://note.com/tom_mba/n/n0ee295df2f32）
   - 「そして最終的には、**「仮説力」「判断力」「提案力」**こそが生き残る力になる」（https://note.com/tom_mba/n/n0ee295df2f32）
@@ -2487,6 +2487,9 @@
   - 「AI検索エンジンPerplexity AIの使い方とサービスを徹底比較！（職種ごとの応用リサーチプロンプト57選付き）」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「How to Find Decision Makers in Your Customer List (2026 Sales Guide)」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
+  - 「AI Skillを社外へ無料配布するときの一仕事の決め方、個別の有料支援との境界、取得・利用完了・相談を別々に確かめる方法を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「人材市場の採用動向を公的統計と求人媒体から調べる手順を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「本記事では、AIへ任せる候補収集と構造化、人が残す原典確認と採否、工程ごとの成果物をつなぎ、再現可能なデスクリサーチへ変える方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「これにより、情報が陳腐化した時点で再び収集のステップから始まるサイクルが動き出し、常に最新の実務判断を下せる運用が定着します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「ひとつの実務課題において調査を自動化するには、担当者の裁量に頼るのではなく、AIに与える前提資料、実行させる作業、受け取るデータ、そして最終的に人間が行う確認手順を、一連の流れとして具体的に記録しておく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2494,9 +2497,6 @@
   - 「この手順をあらかじめ定めておくことで、自動化されたプロセスが途切れることなく機能し続けます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「そのため、人が情報源となる一次資料にアクセスし、事実と合致しているかを見極めるステップを調査記録に組み込みます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「このように、前提となる情報の提示から、AIによる探索と集約、そして最終的な証拠・例外・権限のチェックに至るまでの実務の手順を一つのつながりとして残します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「まず、前回作成した比較表や自社の企画書を前提となる資料としてどのようにシステムへ提示したかという手順を記録します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「このように、前提条件の提示、AIによる処理の実行、生成されたデータ、そして人が介入した検証のステップをひとつの流れとして記録しておくことで、四半期ごとの見直しが容易になります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「まず、届けたい成果物と現在の作業手順を確認し、実際の仕事をAIで試します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 突き合わせ・推定：
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ デスクリサーチを自動化するとき、検索だけを速くしても、調査結果を意思決定へ渡せなければ業務は完了しません」（https://media.deskrex.ai/tag/%E8%AA%BF%E6%9F%BB%E8%87%AA%E5%8B%95%E5%8C%96/）
@@ -2514,6 +2514,10 @@
   - 「監査のタイミングでこの記録を振り返り、「AIの抽出精度にブレが生じていないか」「人が検証する負担が増加していないか」「新たな手法へ置き換えるべき工程はないか」を評価し、調査の設計図を最新の状態へ更新します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「前工程の成果と検証の記録を次の判断へ渡し続けることで、担当者の力量に依存しない、再現可能な自動化の仕組みが自社に根付きます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 一次情報の探し方：
+  - 「人材市場の採用動向をAIで調べる方法｜公的統計から募集条件を決める6段階」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「人材市場の採用動向を公的統計と求人媒体から調べる手順を解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「AIへ任せる比較表と、人が決める採用要件・募集条件を分けます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「半導体R&D／知財／新規事業／マーケ向けに、『前工程／後工程／装置／材料』の4層フレームワークと、論文・特許・IR資料の3ソース統合フローで、半導体材料の技術トレンド調査をAIで叩き台まで作る7ステップを解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「さらに、その情報を採用するかどうかの採否、利用における権限、次に見直すべき更新期限を判断します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2525,13 +2529,10 @@
   - 「Yes, for many businesses. Public companies post exact revenue in their filings, and data providers carry estimated revenue for millions of private firms. A free lookup gets you a ballpark, while a paid enrichment tool gets you a researched figure across a whole list.」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「SEC EDGAR (sec.gov/edgar) for public company filings」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
   - 「手元に集めた論文PDFの中から、技術調査や企画の目的に合う文献をAIで探して比較する際、対象範囲・発行年と版・引用根拠をどのように確かめればよいでしょうか」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「本稿では、手元に論文PDFを持つ担当者に向けて、AIを使って必要な研究を探して比較する方法を解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「Q1. ZoteroでPDFを管理する場合、データの読み込みは手元のパソコン内だけで完結しますか？」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「Q3. パソコン内のPDFを新しい版へ差し替えれば、Gemini Notebookの出力結果も自動で更新されますか？」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「手元に集めた論文PDFの中から、技術調査や企画に必要な文献をAIで探し出して比較する際、まず取り組むべきは「対象資料を正確に特定し、整理すること」です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 失敗・落とし穴：
   - 「Perplexity AIの特徴や利点だけでなく、限界や注意点も知ることができ、効果的な活用方法が見つかるはずです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AIの全件目視を減らす前に必要な失敗記録、反復評価、例外レビュー、人間承認の境界を、低リスク工程の実務設計として説明します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「動画は、読者の注意を引き付け、情報を効果的に伝えるのに優れたメディアです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「社内資料を接続するときの注意点は何ですか？」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「重大な仕様変更や取得失敗があれば定期日を待たず見直します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「特に注意したいのは、同じ研究の異なる版を別の独立した研究として数えてしまうことや、PDFファイルをパソコンにダウンロードした日時を、論文の発行日時と混同してしまうことです」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
@@ -2544,7 +2545,6 @@
   - 「そのため、一つのノートで得られた回答を、手持ちの全資料に対する網羅的な調査結果として扱わないよう注意してください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「AIの出力は鵜呑みにせず、必ずリンク先の原文の文脈へ遡り、人間が評価条件を確認して採否を決めてください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「オークランド大学図書館の調査ワークフローでは、大学の購読契約に反するため、著作権のある文献の全文をAIへアップロードしないよう注意を促しています」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「88万件の記事を瞬時に生成する革新性の裏に潜む、中央集権モデルの課題とバイアスの危険性を徹底分析」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 実例：
   - 「Perplexity AIの基本的なリサーチのための使い方から、リクルーター、マーケター、教育者、プロダクトマネージャーなど職種ごとの活用事例、ChatGPTやDeskrexとの比較まで、Perplexity AIを徹底的に解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「What Is Lookalike Modeling? Techniques, Steps, and Examples」（https://cufinder.io/blog/find-private-company-revenue/）
@@ -5871,11 +5871,11 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
@@ -6576,3 +6576,140 @@
   - 「2.22 In the example above, if the phenomenon of missing wages of causal employment could」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
   - 「aggregates. For example, a new survey could reveal that a five-digit level (COICOP) expenditure」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
   - 「this case. In the case of a source data change or redesign, it would be preferable to parse the」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+
+## 統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い）（backcasting statistical break bottom-up reconstruction overlap year linking conditions）
+- 文脈：手順・やり方
+- 手順・やり方：
+  - 「Chapter 2: Backcasting methods .......................................................................................... 21」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「B. Backcasting methods consistency issues. .............................................................. ........................................ 21」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「C. Integration Methods for the backcasted sequence of accounts ...................................................................... 26」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「5. Changes to accounting methods (valuation and timing of recording of transactions); ........................... 31」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「6. Improvements in compilation methodologies and quali ty of source data. ............................................. 31」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「E. Assess methodological options for each consistency issue. .......................................................................... 32」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Individual revision topics and methods ............................................................... ................................................. 48」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Technical Backcasting methodologies .................................................................. ............................................... 48」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Research papers and methods for long time series ..................................................... .......................................... 48」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「implementing new interpolation/projection technique s and other methodological changes.」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「methodological guidance in applying backcasting tec hniques to maintain coherent timeseries. In」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「required for the process, and articulate key steps such as analysing existing database, compiling」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「be produced. The Data Quality Assessment Framework for National Accounts published by the」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「1.3 The premise of this Handbook is to provide guidance on how to produce a consistent set」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「of the DQAF to set a framework for developing backcasted series, integrating them into a National」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+- 突き合わせ・推定：
+  - 「to estimate and project the dynamics of the economy . It is important that the database cover」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「economic performance, and that the key users for fi scal and monetary policy employ estimated」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「years” relates to the production of current quarter ly estimates or the “live” period when at least」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「need for at least that length of consistent time se ries to establish reliable estimates for seasonal」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「variable or a set of accounts are documented and pu blished so that the old and new estimates are」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「case there is no sure way to know how earlier estimates would have changed if, for instance, new」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「further back in history, the more difficult it may be to find direct estimates of any specific issue.」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「estimates, the availability of data available to re concile the estimates to produce reasonable」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「estimates and the results of the validation process.」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「on an ongoing basis, and, a backcasting project to extend the new estimates and structure backward」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「completed transforming an existing set of SNA estimates and accounts to a new version」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「“benchmark” to base future estimates on but also is used as the link for the backward」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「estimates; and,」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「series as is “reasonably possible” in line with the “new” SNA estimates.」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「old estimates. Set some」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+- 一次情報の探し方：
+  - 「EN.PDF/3544793c-0bde-4381-a7ad-a5cfe5d8c8d0」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「7B56804562AC/0/1999091p30pub.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「33 https://www.bis.org/ifc/publ/ifcb33a.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「(STD`NA(99)39 https://www.oecd.org/std/na/2681263.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Leo and S. Pisani, ISTAT 1999,https://www.oecd.org/std/na/2681239.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Business June 2008, https://www.bea.gov/scb/pdf/2008/06 June/0608_flexible.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「https://bea.gov/scb/pdf/2008/05 May/0508_nipa_pce.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「bmdi/document/1401_D13_T9_V1-eng.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「Leo and S. Pisani, ISTAT 1999 https://www.oecd.org/std/na/2681239.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「www.bea.gov/scb/pdf/2013/11%20November/1113_finance_services.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「May 2008 https://apps.bea.gov/scb/pdf/2008/05%20May/0508_methods.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「WS/Lao WS-Country practices on rebasing and linking NA.pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「https://onlinelibrary.wiley.com/doi/10.1111/j.1475-4991.2009.00342.x/pdf」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+- 失敗・落とし穴：
+  - 「effects the trend or level of GDP, and could be the result of a predictable bias. In this literature」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「the use of the analysis was to build “bias” estimat es into the modelling process used in policy」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「revisions in with the regular revision practices when looking at issues of bias. It could lead to a false」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+- 実例：
+  - 「I. Example of a review exercise for a historical backcasting project ................................................................ 35」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「D. Examples of Communication Output of a Major update and backcasting exercise: ..................................... 46」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「case there is no sure way to know how earlier estimates would have changed if, for instance, new」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「economic history unless the change is justified by a documentable phenomenon. For example,」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「alternative backcasting techniques and integration procedures. It describes various examples of」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「project. It discusses that assumptions underlying these methods and presents some examples of」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「2.10 Examples for use of bottom up could be a re-sectori zation exercise to identify quasi-」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「2.11 Another example would be the compilation of Researc h and Development Expenditures」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「can be recompiled using detailed sources. An example could be newly acquired access to payroll」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「2.13 In some cases, a new methodology which caused a dis crepancy between the old and new」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「assumption. It should be used with caution. For example, if a new data source in the recent period」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「new estimates. In the example above, if the casual worker phenomenon was known to have been」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「2.22 In the example above, if the phenomenon of missing wages of causal employment could」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「aggregates. For example, a new survey could reveal that a five-digit level (COICOP) expenditure」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+  - 「this case. In the case of a source data change or redesign, it would be preferable to parse the」（https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf）
+
+## 照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量）（entity resolution evaluation cluster sampling unbiased precision recall estimator）
+- 文脈：手順・やり方
+- 手順・やり方：
+  - 「This paper introduces a novel evaluation methodology for entity resolution algorithms. It is motivated」（https://arxiv.org/pdf/2210.01230）
+  - 「using an entity resolution algorithm. We provide a data collection methodology and tailored performance」（https://arxiv.org/pdf/2210.01230）
+  - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
+  - 「able to measure performance, to inform users of the reliability of the data, and to support methodological」（https://arxiv.org/pdf/2210.01230）
+  - 「porting methodological research to improve disambiguation algorithms. We propose novel evaluation method-」（https://arxiv.org/pdf/2210.01230）
+  - 「datasets, with nearly perfect precision and recall reported in the latest methodological report (Monath et al.,」（https://arxiv.org/pdf/2210.01230）
+  - 「There are two main uses for accurate and statistically rigorous evaluation methodology.」（https://arxiv.org/pdf/2210.01230）
+  - 「biguation methodology. This requires choosing between alternative methods and evaluating the results of」（https://arxiv.org/pdf/2210.01230）
+  - 「methodological experiments. Without sound evaluation methodology, decisions regarding the disambigua-」（https://arxiv.org/pdf/2210.01230）
+  - 「disambiguation methodology for evaluation, the proposed estimators, and our simulation study that we use」（https://arxiv.org/pdf/2210.01230）
+  - 「2 Data and Methodology」（https://arxiv.org/pdf/2210.01230）
+  - 「In this section, we introduce the benchmark datasets used at PatentsView, our hand-disambiguation method-」（https://arxiv.org/pdf/2210.01230）
+  - 「ology, our proposed performance metric estimators, and the simulation framework that we use to compare」（https://arxiv.org/pdf/2210.01230）
+  - 「2.2 Hand-Disambiguation Methodology」（https://arxiv.org/pdf/2210.01230）
+  - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
+- 突き合わせ・推定：
+  - 「is to obtain estimates that are representative of performance on the full data, for which no ground truth」（https://arxiv.org/pdf/2210.01230）
+  - 「tative performance estimates (Fuller, 2011).」（https://arxiv.org/pdf/2210.01230）
+  - 「Figure 1: Distribution of precision estimates versus the true precision of 52% (shown as a dotted vertical」（https://arxiv.org/pdf/2210.01230）
+  - 「line). Panel A shows the trivial precision estimates computed for sampled records. Panel B shows our」（https://arxiv.org/pdf/2210.01230）
+  - 「proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared」（https://arxiv.org/pdf/2210.01230）
+  - 「In panel A of ﬁgure 1, we see the distribution of precision estimates versus the true precision of 52%」（https://arxiv.org/pdf/2210.01230）
+  - 「shown as a dotted vertical line. Precision estimates are usually very close to 100% and always higher than」（https://arxiv.org/pdf/2210.01230）
+  - 「benchmark datasets. In our simulation studies (see Figure 3 for instance), naive precision estimates are」（https://arxiv.org/pdf/2210.01230）
+  - 「estimate precision and recall from sampled record pairs. Other approaches to the estimation of performance」（https://arxiv.org/pdf/2210.01230）
+  - 「metrics are model based, where estimated precision and recall can be obtained from predicted match prob-」（https://arxiv.org/pdf/2210.01230）
+  - 「2. It can easily be generalized to estimate other clustering metrics, such as cluster precision, cluster recall,」（https://arxiv.org/pdf/2210.01230）
+  - 「provide estimates for precision or recall (McVeigh et al., 2019), or provided solutions tailored to very speciﬁc」（https://arxiv.org/pdf/2210.01230）
+  - 「provide cost-eﬀective estimates for any disambiguation algorithm.」（https://arxiv.org/pdf/2210.01230）
+  - 「to validate the performance of our estimators. Section 3 then presents our performance estimates and results」（https://arxiv.org/pdf/2210.01230）
+  - 「estimates based on this data might therefore be slightly optimistic, which should be acknowledged when」（https://arxiv.org/pdf/2210.01230）
+- 失敗・落とし穴：
+  - 「estimators that account for sampling biases. Our approach is simple, practical and principled – key」（https://arxiv.org/pdf/2210.01230）
+  - 「leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given」（https://arxiv.org/pdf/2210.01230）
+  - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
+  - 「bias = 0.467」（https://arxiv.org/pdf/2210.01230）
+  - 「bias = -0.001」（https://arxiv.org/pdf/2210.01230）
+  - 「proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared」（https://arxiv.org/pdf/2210.01230）
+  - 「proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same」（https://arxiv.org/pdf/2210.01230）
+  - 「discussed in section 1.1, are nearly unbiased, and are easy to use in practice.」（https://arxiv.org/pdf/2210.01230）
+  - 「Furthermore, our approach is novel. To our knowledge, we are the ﬁrst to propose unbiased performance」（https://arxiv.org/pdf/2210.01230）
+  - 「estimators based on cluster and block samples. Past work either ignored biases when computing precision」（https://arxiv.org/pdf/2210.01230）
+  - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
+  - 「readability, we present here a generic formula for an approximately unbiased estimator of the ratio of means」（https://arxiv.org/pdf/2210.01230）
+  - 「and then specify the needed quantities for each representation below. The estimator applies a ﬁrst order bias」（https://arxiv.org/pdf/2210.01230）
+  - 「assuming the corrected estimator has a small bias (S¨ arndal et al., 2003; Fuller, 2011). The generic formula」（https://arxiv.org/pdf/2210.01230）
+  - 「100 times in order to provide the distribution of the estimators and metrics such as bias and root mean」（https://arxiv.org/pdf/2210.01230）
+- 実例：
+  - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
+  - 「example 1 below.」（https://arxiv.org/pdf/2210.01230）
+  - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
+  - 「used in numerous scientiﬁc studies (Toole et al., 2021). For example, Choudhury and Kim (2019) studied」（https://arxiv.org/pdf/2210.01230）
+  - 「In cases where no errors were found, the current disambiguation was assumed to be correct. Performance」（https://arxiv.org/pdf/2210.01230）
+  - 「Figure 2: Example of ground truth clustering C (represented by boxes with a full border) and pre-」（https://arxiv.org/pdf/2210.01230）
+  - 「Cluster Sampling Representation In the cluster sampling case, sampling probabilities are typically」（https://arxiv.org/pdf/2210.01230）
+  - 「rate helps showcase the properties of our estimators when only a small proportion of the sampled clusters is」（https://arxiv.org/pdf/2210.01230）
+  - 「record/cluster sampling cases, we looked at the eﬀect of sampling 100, 200 and 400 records/clusters.」（https://arxiv.org/pdf/2210.01230）
+  - 「and with the bias adjustment given in (8). Note that in the case of recall with cluster blocks, the」（https://arxiv.org/pdf/2210.01230）
+  - 「naive recall estimator performs well in this case. However, the recall estimator accounting for the sampling」（https://arxiv.org/pdf/2210.01230）
+  - 「size distributions. The bias of ratio estimators can be high in this case, especially when using small samples」（https://arxiv.org/pdf/2210.01230）
+  - 「estimation accuracy in such cases.」（https://arxiv.org/pdf/2210.01230）
+  - 「This section provides more information on example 1.」（https://arxiv.org/pdf/2210.01230）
+  - 「For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a」（https://arxiv.org/pdf/2210.01230）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）

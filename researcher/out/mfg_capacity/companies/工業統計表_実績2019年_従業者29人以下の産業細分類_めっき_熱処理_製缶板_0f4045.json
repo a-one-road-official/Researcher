@@ -1,0 +1,345 @@
+{
+ "name": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37）",
+ "en": "Census of Manufacture 2019 results establishments 4-29 employees by industry detailed classification",
+ "aliases": [
+  "工業統計表 2020年 産業別統計表 従業者規模別 4人～29人 細分類",
+  "工業統計調査 2020年確報 産業編 従業者4～29人 xls",
+  "工業統計 2019年実績 小規模事業所 産業細分類 e-Stat"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T08:01:24.975117+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2019/pdf/yougo_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001137226&tclass1=000001137228&tclass2=000001137230&tclass3=000001147807&tclass4=000001147835&statdisp_id=0003422243",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/library/stories/2021/03/2019-annual-survey-of-manufactures-includes-state-level-data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r01/kakuho/sangyo/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00550010&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001143706&layout=datalist&tclass3val=0"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf"
+   ]
+  },
+  {
+   "query": "Census of Manufacture 2019 results establishments 4-29 employees by industry detailed classification Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/e-census/2019/pdf/yougo_e.pdf",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=dataset&toukei=00200552&tstat=000001137226&tclass1=000001137228&tclass2=000001137230&tclass3=000001147807&tclass4=000001147835&statdisp_id=0003422243",
+    "https://www.census.gov/library/stories/2021/03/2019-annual-survey-of-manufactures-includes-state-level-data.html",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.bls.gov/ces/naics/",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539?hl=en",
+    "https://www.jil.go.jp/english/lsj/general/2015-2016/2-4.pdf",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37）",
+   "results": [
+    "https://note.com/nikkei_r_bizdata/n/n2cf0b4a2790b",
+    "https://note.com/fuzai_no_ki/n/ncb3495755057",
+    "https://note.com/webpage/n/ncfa2e4da42d7",
+    "https://note.com/shirase_kankyo/n/n4349a50c412c",
+    "https://note.com/sajan_nyan1231/n/n99543f1ef7b4",
+    "https://note.com/ogawa_tech/n/nbbd7ee45487e",
+    "https://note.com/jackando/n/ne73b7a8451de"
+   ]
+  },
+  {
+   "query": "site:x.com 工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37）",
+   "results": [
+    "https://x.com/hashtag/めっきの実績",
+    "https://jf.x.com/images/media-preview/2105574213067448526",
+    "https://jf.x.com/images/media-preview/2070561872936415599",
+    "https://jf.x.com/images/media-preview/2098218325771706485",
+    "https://jf.x.com/images/media-preview/2095693643118215314",
+    "https://jf.x.com/images/media-preview/2101159094765625409",
+    "https://x.com/meti_chusho/status/1111500062520012801"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37）",
+   "results": [
+    "https://px.ads.linkedin.com/collect/?pid=1717692&fmt=gif",
+    "https://jp.linkedin.com/in/kojirookayama",
+    "https://www.linkedin.com/in/joe-baratta-blackstone",
+    "https://jp.linkedin.com/in/彰宏-山口-573721189",
+    "https://www.linkedin.com/posts/hiroshinambu_事業がしっかりと成長しておりこの業界で一番実績があるのではないかというレベルになっています-activity-6918749796971290624-xJ7Y",
+    "https://jp.linkedin.com/posts/文秀-菊池-579548386_製造業への支援実績範囲を可視化してみましたそれぞれのカテゴリーの中はもっと細かな-activity-7457961671752531968-t1e1",
+    "https://jp.linkedin.com/pulse/産業用-セキュリティ-システム市場の最新動向主要企業市場細分化と将来展望2026年版-qr-pro-pulse-hub-rzn9f"
+   ]
+  },
+  {
+   "query": "site:facebook.com 工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37）",
+   "results": [
+    "https://graph.facebook.com/v2.8/3050655461649348/picture/",
+    "https://www.facebook.com/alfameknet/posts/平成29年度技能検定電気めっき作業合格者について-httpstcocwkkraknne/842816655891828/",
+    "https://www.facebook.com/takagikinzoku/posts/中小企業白書2019に掲載されました今後とも一層の技術向上を目指し誠心誠意邁進して参ります何卒ご支援のほどよろしくお願い申し上げます-事例-3-1-21-大企業/1882750135160909/",
+    "https://www.facebook.com/YAMAMOTOMS/posts/特注品実績紹介-ロールtoロールめっき装置-連続プロセスによりコストダウン高生産性省エネルギーを実現できるロールtoロールのめっき装置は液晶パネルや太陽電池有機/298296357741726/",
+    "https://www.facebook.com/kyugi.mlit.go.jp/photos/新技術ｎｅｔｉｓ情報平成29年度に九地整で登録された技術技術名-sgめっきsp-登録noqs-170020-a副-題1浴目へのニッケル添加で合金皮膜を安定化させ/535874616779172/",
+    "https://www.facebook.com/hashikenkyo/posts/2019鋼道路橋の工事費実績表をｈｐに掲載しました橋梁計画時に構造形式別工事費を比較するための参考資料として工事費実績データをまとめましたh26年度から直近5年/2178199698896153/",
+    "https://www.facebook.com/hashikenkyo/photos/2019鋼道路橋の工事費実績表をｈｐに掲載しました橋梁計画時に構造形式別工事費を比較するための参考資料として工事費実績データをまとめましたh26年度から直近5年/2178199605562829/"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf"
+   ]
+  },
+  {
+   "query": "工業統計表 実績2019年 従業者29人以下の産業細分類（めっき・熱処理・製缶板金・金型・プレス・2020年版の表で掲載か秘匿かを確かめる・規模の内側の向きを同じ年どうしにする・4-25・4-37） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448109",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf"
+   ]
+  },
+  {
+   "query": "Census of Manufacture 2019 results establishments 4-29 employees by industry detailed classification site:linkedin.com",
+   "results": [
+    "https://in.linkedin.com/in/shijinramesh",
+    "https://mk.linkedin.com/in/marijanikolikj",
+    "https://www.linkedin.com/learning/learning-public-data-sets-2/us-census-bureau-industry-data",
+    "https://in.linkedin.com/company/census",
+    "https://www.linkedin.com/company/manufacture-results",
+    "https://www.linkedin.com/posts/manufacture-results_manufactureresults-taxcredits-depreciation-activity-7152719657827790848-q6vF",
+    "https://www.linkedin.com/pulse/industry-classification-naics-codes-building-business-latoya-wzbpc",
+    "https://www.linkedin.com/in/al-lenac-9a33619",
+    "https://www.linkedin.com/posts/us-census-bureau_2020-county-business-patterns-by-industry-activity-6967920969482997760-9nKw"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ15頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ15頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ15頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ15頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ15頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ15頁・検索18回）",
+  "10年推移": "記載なし（読んだ15頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ15頁・検索18回）"
+ }
+}

@@ -1,0 +1,354 @@
+{
+ "name": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32）",
+ "en": "Japan metal mold manufacturing 300+ employees value added 2017-2019 census of manufacture",
+ "aliases": [
+  "工業統計表 金属用金型 300人以上 付加価値額",
+  "工業統計 2691 従業者規模別 付加価値額 2019",
+  "金型製造業 大規模 付加価値率 工業統計"
+ ],
+ "context": "全体・統計",
+ "kind": "market",
+ "researched_at": "2026-11-06T08:01:37.575500+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_22_12_09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/uploaded/attachment/586558.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator/NV.IND.MANF.CD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2023all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bunka.go.jp/english/report/survey/pdf/94095901_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://www.pref.aichi.jp/uploaded/attachment/586558.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0004006330",
+    "https://www.e-stat.go.jp/dbview?sid=0004006321"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） 受注残 人手不足",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_22_12_09.pdf"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_22_12_09.pdf"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32）",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_22_12_09.pdf"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://www.pref.aichi.jp/uploaded/attachment/586558.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_22_12_09.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_22_12_09.pdf"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://www.pref.aichi.jp/uploaded/attachment/586558.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf"
+   ]
+  },
+  {
+   "query": "Japan metal mold manufacturing 300+ employees value added 2017-2019 census of manufacture Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://data.worldbank.org/indicator/NV.IND.MANF.CD",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2023all.pdf",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.bunka.go.jp/english/report/survey/pdf/94095901_02.pdf",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/04/oecd-economic-surveys-japan-2019_ccac75f4/fd63f374-en.pdf",
+    "https://www.theglobaleconomy.com/Japan/Share_of_manufacturing/",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ]
+  },
+  {
+   "query": "site:note.com 金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32）",
+   "results": [
+    "https://note.com/tck/n/n95812964bcbb",
+    "https://note.com/ib_pe_hf/n/nb25b94945c37",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/ocaml/n/n8b838ecd894f",
+    "https://note.com/ezuremanagement/n/ne844b7c1197b",
+    "https://note.com/studiopetit_note/n/n8d9a8537272c",
+    "https://note.com/ocaml/n/nf8a34932b7e7",
+    "https://note.com/dakudhigura/n/n3ff4d9959d60",
+    "https://note.com/kens_reading1/n/n764c552aeeb9",
+    "https://note.com/at_consulting18/n/nf47674263cb5"
+   ]
+  },
+  {
+   "query": "site:x.com 金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32）",
+   "results": [
+    "https://x.com/asahicom/status/2117013823261720881",
+    "https://x.com/OgawaSeisakusho/status/2114827523226054913",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/tokei_ibaraki/status/2082712347798577159",
+    "https://x.com/OgawaSeisakusho/status/2114826491607560531",
+    "https://x.com/TKG_CraftBank/status/2114943066314543438",
+    "https://x.com/nlzYuIoxhg1Syqp/status/2113818538947559474"
+   ]
+  },
+  {
+   "query": "site:linkedin.com 金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32）",
+   "results": [
+    "https://www.linkedin.com/home?originalSubdomain=co",
+    "https://sg.linkedin.com/in/guillermoveiga",
+    "https://in.linkedin.com/company/virtusa",
+    "https://jp.linkedin.com/pulse/企業再生のリアル30億円の事業を5年で300億円の価値に引き上げた現場ファーストの経営改革-美徳-鈴木-0ypke",
+    "https://jp.linkedin.com/posts/美徳-鈴木-376180160_企業再生のリアル30億円の事業を5年で300億円の価値に引き上げた現場ファースト-activity-7488333897605435392-FqAH",
+    "https://www.linkedin.com/pulse/労働生産性付加価値額-労働投入量数字の裏にある本質-美徳-鈴木-mwvnc/",
+    "https://business.linkedin.com/learn/content-library"
+   ]
+  },
+  {
+   "query": "site:facebook.com 金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32）",
+   "results": [
+    "https://www.facebook.com/fukakachikeiei/",
+    "https://www.facebook.com/kaikeikoubo/",
+    "https://www.facebook.com/chubumarketingassociation/posts/付加価値の高いモノづくり技術の研究開発拠点２０１７年度-ビジネストレンド研究部会-第３例会ビジネストレンド研究部会第３例会は豊田市にある知の拠点あいちを視察しあ/772793122894129/",
+    "https://www.facebook.com/profect.jp/videos/967009103917914/",
+    "https://www.facebook.com/Apexicoltd/videos/経済産業省中小企業庁のものづくり商業サービス生産性向上促進補助金22次に弊社テーマ海外市場向け高付加価値マフラー製造事業-が採択されましたhttpswwwape/1945577612744922/",
+    "https://www.facebook.com/shushoku/posts/効率的に利益を稼ぐ高付加価値企業300社をアップ企業の1人当たり営業利益に注目しよう経営力がわかりますhttpstcokgjtxmapgu/1111883775497777/",
+    "https://www.facebook.com/miyazakipref.koho/photos/付加価値向上チャレンジ企業選定県は不確実性の高い経営状況や人手不足の深刻化などの課題に対応するため人的資本経営を志向し企業と従業員の所得向上を目指す企業を付加価/1213815207447099/"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://www.pref.aichi.jp/uploaded/attachment/586558.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf"
+   ]
+  },
+  {
+   "query": "金属用金型製造業 従業者300人以上の付加価値額・付加価値率 2017〜2019年（1人あたり付加価値が100〜299人の半分以下の理由・付加価値の式の違いか秘匿の補完か・混入の点検・4-26・4-32） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/2025gaiyou.pdf",
+    "https://www.jpc-net.jp/research/assets/pdf/trend_full_2021.pdf",
+    "https://www.pref.ishikawa.lg.jp/syoko/documents/sanko4.pdf",
+    "https://www.tcue.ac.jp/files/leafpage/leafpage-717-9.pdf",
+    "https://www.vill.hakuba.lg.jp/material/files/group/2/sanngyourennkannhyou.pdf",
+    "https://www.pref.osaka.lg.jp/documents/13065/05_sankou4.pdf",
+    "https://jsite.mhlw.go.jp/nagasaki-roudoukyoku/content/contents/shiryou-2-22072104.pdf",
+    "https://www.pref.shiga.lg.jp/documents/6411/5600575_1.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_22_12_09.pdf"
+   ]
+  },
+  {
+   "query": "Japan metal mold manufacturing 300+ employees value added 2017-2019 census of manufacture site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/worlds-top-ten-mold-manufacturing-powers-jackie-lee-qvvpf",
+    "https://www.linkedin.com/company/株式会社-狭山金型製作所",
+    "https://www.linkedin.com/pulse/japan-ordinary-cast-iron-mold-marketlandscape-key-tcjne",
+    "https://www.linkedin.com/pulse/japan-alloy-cast-iron-mold-demand-evolution-predictive-monetization-8sdye",
+    "https://www.linkedin.com/pulse/japan-mold-steel-tool-market-size-cagr-smart-automation-5rnef",
+    "https://www.linkedin.com/company/chief-mold-plastic-metal-factory",
+    "https://www.linkedin.com/pulse/japan-special-steel-mold-market-key-players-trends-jp8yc"
+   ]
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ16頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ16頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ16頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ16頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ16頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ16頁・検索18回）",
+  "10年推移": "記載なし（読んだ16頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ16頁・検索18回）"
+ }
+}

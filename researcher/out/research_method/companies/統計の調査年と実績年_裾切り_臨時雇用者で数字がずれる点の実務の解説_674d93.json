@@ -8,7 +8,7 @@
  ],
  "context": "一次情報の探し方",
  "kind": "market",
- "researched_at": "2026-11-06T04:41:05.093546+00:00",
+ "researched_at": "2026-11-06T08:03:44.640956+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -29,18 +29,18 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/yoshi993/n/n24c3dbc880aa",
+    "url": "https://www.walmart.com/blocked?url=L2Jyb3dzZS9ob21lL3NoZWx2aW5nLzQwNDRfOTA4MjhfMTYzOTYw&uuid=9e40eb78-d9b8-11f1-9546-d618a717e5f7&vid=&g=b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/data_pn/n/n3a33a9120a47",
+    "url": "https://www.homedepot.com/b/Storage-Organization-Shelving/N-5yc1vZc89k",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://note.com/good_poppy696/n/n4f00eca6d7e1",
-    "status": "ok",
+    "url": "https://www.lowes.com/c/Shelves-shelving-Storage-organization",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -94,7 +94,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.nstac.go.jp/create/practice/?doing_wp_cron=1793940103.6808660030364990234375",
+    "url": "https://www.nstac.go.jp/create/practice/",
     "status": "ok",
     "method": "http"
    },
@@ -119,19 +119,19 @@
     "method": "http"
    },
    {
-    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "url": "https://en.wikipedia.org/wiki/Donald_Trump",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf",
+    "url": "https://en.wikipedia.org/wiki/President_of_the_United_States",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000928642.pdf",
+    "url": "https://simple.wikipedia.org/wiki/President_of_the_United_States",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.stat.go.jp/english/info/guide/2025pamphlet.html",
@@ -172,13 +172,13 @@
     "https://note.com/bearcapital/n/n4f3d135558b3",
     "https://note.com/kazunomo/n/ne59b0909d029",
     "https://note.com/tt1933mania/n/n8d22c2011ac6",
-    "https://note.com/yoshi993/n/n24c3dbc880aa",
-    "https://note.com/data_pn/n/n3a33a9120a47",
-    "https://note.com/good_poppy696/n/n4f00eca6d7e1",
-    "https://note.com/good_poppy696/n/nab4cdc77186d",
-    "https://note.com/yoshi993/n/n95e654ef41d0",
-    "https://note.com/furu_kaggle/n/ne5ef243c586a",
-    "https://note.com/seikahaibun/n/nb9c70e53a94a"
+    "https://www.walmart.com/browse/home/shelving/4044_90828_163960",
+    "https://www.amazon.com/shelving/s?k=shelving",
+    "https://www.amazon.com/shelves/s?k=shelves",
+    "https://www.homedepot.com/b/Storage-Organization-Shelving/N-5yc1vZc89k",
+    "https://www.lowes.com/c/Shelves-shelving-Storage-organization",
+    "https://www.homedepot.com/b/Storage-Organization-Shelving/Shelves/N-5yc1vZc89kZ1z0tuqs",
+    "https://www.ikea.com/us/en/cat/shelf-units-11465/"
    ]
   },
   {
@@ -208,7 +208,7 @@
     "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
     "https://www.asmarq.co.jp/column/column-cat/how_to/number_misalignment/",
     "https://www.dlri.co.jp/report/dlri/654419.html",
-    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
+    "https://en.wikipedia.org/wiki/People_for_the_Ethical_Treatment_of_Animals"
    ]
   },
   {
@@ -216,14 +216,14 @@
    "results": [
     "https://www.youtube.com/watch?v=GEHY8yaF40c&vl=ja",
     "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
-    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
     "https://www.mhlw.go.jp/toukei/list/43-1d.html",
-    "https://www.jil.go.jp/institute/zassi/backnumber/2022/special/pdf/056-057.pdf",
-    "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
+    "https://www.yokohama-ri.co.jp/html/report/pdf/report251009_endo.pdf",
     "https://www.jstat.or.jp/toukei_y24/editinal_note/",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/special/pdf/056-057.pdf",
     "https://www.dlri.co.jp/report/dlri/654419.html",
-    "https://nira.or.jp/paper/report0810.pdf",
-    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
+    "https://www5.cao.go.jp/j-j/wp/wp-je06/06-00301.html",
+    "https://www.bbc.com/japanese/articles/c4gl2994d71o",
+    "https://en.wikipedia.org/wiki/Donald_Trump"
    ]
   },
   {
@@ -244,49 +244,61 @@
   {
    "query": "site:note.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
    "results": [
-    "https://note.com/yoshi993/n/n24c3dbc880aa",
-    "https://note.com/data_pn/n/n3a33a9120a47",
-    "https://note.com/good_poppy696/n/n4f00eca6d7e1",
-    "https://note.com/good_poppy696/n/nab4cdc77186d",
-    "https://note.com/furu_kaggle/n/ne5ef243c586a",
-    "https://note.com/aitoshi/n/n95fbc7e00baf",
-    "https://note.com/yoshi993/n/n95e654ef41d0"
+    "https://learn.microsoft.com/en-us/answers/questions/5720314/******@e-mails-microsoft-com",
+    "https://learn.microsoft.com/en-us/answers/questions/1277206/is-microsoft-noreply@microsoft-com-is-a-legit-emai",
+    "https://learn.microsoft.com/en-us/answers/questions/1337083/is-******@email-microsoft-com-legit-email",
+    "https://learn.microsoft.com/en-us/answers/questions/1376401/is-******@e-mail-microsoft-com-legit-email-address",
+    "https://learn.microsoft.com/en-us/troubleshoot/azure/general/welcome-general",
+    "https://learn.microsoft.com/en-us/answers/questions/5295843/is-this-a-microsoft-email-address-real-or-fake-***",
+    "https://learn.microsoft.com/en-us/answers/questions/2345507/is-this-email-a-scam",
+    "https://learn.microsoft.com/en-us/answers/questions/4149790/email-from-microsoft",
+    "https://learn.microsoft.com/en-us/answers/questions/5531340/is-this-a-legitimate-e-mail-from-microsoft",
+    "https://learn.microsoft.com/en-us/troubleshoot/azure/general/email-domains-support-agent"
    ]
   },
   {
    "query": "site:x.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
    "results": [
-    "https://x.com/nineKan821/status/2091011604200759444",
-    "https://x.com/DAKURAblog/status/2029919305320780283",
-    "https://x.com/kyookine/status/2095837126394871999",
-    "https://x.com/hujimari/status/2028425278494818581",
-    "https://x.com/rkakui/status/2114876378038538487",
-    "https://x.com/kudoyama456489/status/2089005533953249391",
-    "https://x.com/CIPHER1978/status/2108487235666661736"
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/en-us/forms/sign-in-to-microsoft-forms",
+    "https://www.microsoft.com/en-us/",
+    "https://techcommunity.microsoft.com/blog/exchange/released-september-2026-exchange-server-security-updates/4554411",
+    "https://techcommunity.microsoft.com/blog/excelblog/unlock-the-power-of-copilot-in-excel-now-generally-available/4242810",
+    "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+    "https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/announcing-native-nvme-in-windows-server-2025-ushering-in-a-new-era-of-storage-p/4477353"
    ]
   },
   {
    "query": "site:linkedin.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
    "results": [
-    "https://au.linkedin.com/jobs",
-    "https://jp.linkedin.com/posts/nobuakitanaka_表面的な雇用統計の数字だけを見ていると現代の労働市場の本当の変化を見誤るかもしれません-activity-7501775286707888128-m9Bv",
-    "https://jp.linkedin.com/posts/leverages-us_米国雇用統計レポート2025年12月実績と今後の展望-米労働省bls-activity-7424542213151285248-NWJG",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7467172911100055552/",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7377298388138029056/",
-    "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k",
-    "https://jp.linkedin.com/posts/leverages-us_米国経済-雇用統計-bls-activity-7432944798162124800-5iQJ"
+    "https://www.nordstrom.com/browse/women/clothing/swimsuits?filterByNeckStyle=one-shoulder",
+    "https://www.nordstrom.com/browse/women/clothing/plus-size/swimsuits?filterByStyle=tankini",
+    "https://www.nordstrom.com/browse/vacation/women",
+    "https://www.nordstrom.com/browse/women/clothing/swimsuits/cover-ups?filterByColor=white",
+    "https://www.nordstrom.com/browse/women/clothing/swimsuits/one-pieces?filterByColor=yellow",
+    "https://www.nordstrom.com/browse/women/clothing/swimsuits/one-pieces?filterByStyle=high-cut",
+    "https://www.nordstrom.com/browse/women/clothing/swimsuits?filterByBrand=lands-end",
+    "https://cloud.eml.nordstrom.com/signup-US",
+    "https://www.nordstrom.com/browse/women/clothing/swimsuits?filterByColor=blue",
+    "https://www.nordstrom.com/browse/women/clothing/swimsuits?filterByColor=orange"
    ]
   },
   {
    "query": "site:facebook.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
    "results": [
-    "https://www.facebook.com/mhlw.japan/posts/令和7年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1315096163987107/",
-    "https://www.facebook.com/mhlw.japan/posts/令和7年上半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1159409019555823/",
-    "https://www.facebook.com/mhlw.japan/posts/令和6年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします回答はオン/1019527123544014/",
-    "https://www.facebook.com/mhlw.japan/posts/雇用動向調査上半期を実施しています主要産業における入職離職や未充足求人の状況などを調査していますお手元に調査票が届いている事業所でまだ回答がお済みでない場合はご/1435509178612471/",
-    "https://www.facebook.com/worksinstitute/posts/民間企業の正規社員の中途採用の見通しと実績を調査しました2026年度の中途採用数が前年より増える197が減る59を上回り中途採用diは5年連続のプラスとなりまし/1479524270626425/",
-    "https://www.facebook.com/mhlw.japan/posts/令和6年下半期雇用動向調査にご協力ください主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします事業/984165253746868/",
-    "https://www.facebook.com/mhlw.japan/posts/令和7年下半期雇用動向調査にご協力ください主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします事業/1270702971759760/"
+    "https://en.m.wikipedia.org/wiki/The_Death_of_Slim_Shady_(Coup_de_Grâce)",
+    "https://southpawers.com/2025/12/27/list-of-all-eminem-songs-released-in-2025/",
+    "https://aswehiphop.com/eminem-songs-features-2026/",
+    "https://music.youtube.com/playlist?list=PLRbMiNxcg0QkgLr1Y2BiNSS5hh3hLGFd3",
+    "https://www.youtube.com/playlist?list=PLrDfrGO40emaNTyER3hgkgHMIN4C-cm8Y",
+    "https://eminem.news/",
+    "https://eminemnews.com/eminem-whats-next-2026",
+    "https://open.spotify.com/playlist/7FQgMPdbuh4iI67d0nnbdL",
+    "https://music.apple.com/to/artist/eminem/111051",
+    "https://eminem.news/list-of-all-eminem-songs"
    ]
   },
   {
@@ -296,11 +308,11 @@
     "https://note.com/tnishimaki/n/ndbaaed8d02be",
     "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/fr159.html",
     "https://saponet.mynavi.jp/column/detail/tn_keiei_t00_shortage-of-manpower_220427.html",
-    "https://www.nikkei.com/article/DGXMZO40444030U9A120C1MM8000/",
     "https://www.jstat.or.jp/toukei_y24/editinal_note/",
     "https://www.pictet.co.jp/investment-information/market/today/20251007.html",
-    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.nikkei.com/article/DGXMZO40444030U9A120C1MM8000/",
     "https://note.com/kamokita/n/nbaaffd43b076",
+    "https://toyokeizai.net/articles/-/535758?display=b",
     "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf"
    ]
   },
@@ -327,11 +339,11 @@
     "https://www.linkedin.com/in/paul-c-beatty-9981b49",
     "https://www.linkedin.com/in/staskolenikov",
     "https://www.linkedin.com/in/emin-dinlersoz-874a8822",
+    "https://www.linkedin.com/in/curtiss-chapman",
+    "https://www.linkedin.com/in/yezzi-lee",
     "https://www.linkedin.com/in/mark-muenchrath-348228b",
-    "https://www.linkedin.com/pulse/abs-sources-disability-statistics-20182023-analysis-brian-cooper-chv3c",
-    "https://www.linkedin.com/in/ron-jarmin-8083a85",
     "https://www.linkedin.com/in/carolina-franco-20826145",
-    "https://www.linkedin.com/in/elenahealing"
+    "https://www.linkedin.com/in/ron-jarmin-8083a85"
    ]
   }
  ],
@@ -343,6 +355,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-05T11:30:04.763256+00:00"
 }
