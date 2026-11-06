@@ -1,0 +1,1 @@
+- 2026-11-06 00:17 UTC：X_BEARER_TOKEN が GitHub の Secrets に無いので取らなかった
